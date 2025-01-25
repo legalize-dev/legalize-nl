@@ -4,7 +4,7 @@ identifier: "BWBR0040429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2025-01-01"
+last_updated: "2025-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040429"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **inspectie:** Inspectie van het onderwijs;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap of Minister voor Primair en Voortgezet Onderwijs;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **school:** school die is aangewezen op grond van [artikel 2.66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) alsmede een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of een school als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a);
 
@@ -128,11 +128,11 @@ Deze paragraaf berust op de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 16. Gegevens
 
-De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68) en [6.23 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-01&g=2025-01-01).
+De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68) en [6.23 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25).
 
 ##### Artikel 17. Wijze van beschikbaarstelling van de gegevens
 
-Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2025-01-01&g=2025-01-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2025-01-01&g=2025-01-01).
+Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2025-01-25&g=2025-01-25), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2025-01-25&g=2025-01-25).
 
 #### § 5. Slotbepalingen
 
@@ -158,13 +158,13 @@ Vervallen
 
 ### Specificatie inschrijvingsgegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) van de Regeling informatievoorziening WVO
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WVO
 
 Vervallen
 
 ### Specificatie examengegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2025-01-01&g=2025-01-01) van de Regeling informatievoorziening WVO
+## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WVO
 
 ## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2020-01-01&g=2020-01-01) van de Regeling informatievoorziening WVO
 
@@ -344,21 +344,21 @@ Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren va
 
 ### Wijze van beschikbaarstelling van gegevens
 
+De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken.
+
 Een groot deel van de gegevens (zoals organisatiegegevens) zijn reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO.
 
 Andere gegevens worden zoveel mogelijk onttrokken aan registraties bij salarisverwerkers of onttrokken aan de schooladministratie, zodat scholen hiervan zo gering mogelijke last ondervinden. Wanneer dat niet mogelijk is, worden scholen met formulieren bevraagd.
 
 De wijze van beschikbaarstelling van gegevens is verdeeld over de aanlevering van organisatie- en van personeelsgegevens.
 
-De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken.
-
 BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Elektronische wijzigingen zijn mogelijk via de website van DUO, na geautoriseerd inloggen op het daartoe bestemde deel van de website.
 
 ### 1. Aanlevering van organisatiegegevens
 
-Voor het bevoegd gezag worden de meeste gegevens via de Kamer van Koophandel doorgegeven. De wijzigingen van het centraal rekeningnummer, het administratiekantoornummer en fusie met een ander bevoegd gezag, dienen wel met het BRIN-mutatieformulier te worden doorgegeven. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daar op grond van een wettelijk voorschrift een positief besluit over is genomen.
+Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring.
 
-Andere gegevens worden zoveel mogelijk onttrokken aan registraties bij salarisverwerkers of onttrokken aan de schooladministratie, zodat scholen hiervan zo gering mogelijke last ondervinden. Wanneer dat niet mogelijk is, worden scholen met formulieren bevraagd.
+Voor het bevoegd gezag worden de meeste gegevens via de Kamer van Koophandel doorgegeven. De wijzigingen van het centraal rekeningnummer, het administratiekantoornummer en fusie met een ander bevoegd gezag, dienen wel met het BRIN-mutatieformulier te worden doorgegeven. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daar op grond van een wettelijk voorschrift een positief besluit over is genomen.
 
 Achtereenvolgens zal in worden gegaan op de termijn voor aanlevering van de personeelsgegevens, de wijze van aanlevering en periodieke bijstellingen.
 
@@ -368,19 +368,21 @@ De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wette
 
 ### 2. Aanlevering van personeelsgegevens
 
+dienen vier maal per jaar aan DUO te worden aangeleverd:
+
 In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt.
 
-Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-01&g=2025-01-01)
+Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25)
 
 dienen één keer per jaar geleverd te worden en wel uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
 
-De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-01&g=2025-01-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
+De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
 
-De gegevens, genoemd in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-01&g=2025-01-01), dienen eenmaal per jaar aan DUO te worden aangeleverd: uiterlijk 1 april moeten de gegevens over het voorafgaande kalenderjaar worden aangeleverd.
-
-Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01)
+De gegevens, genoemd in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25), dienen eenmaal per jaar aan DUO te worden aangeleverd: uiterlijk 1 juli moeten de gegevens over het voorafgaande kalenderjaar worden aangeleverd.
 
 ### 2.2. Wijze van aanlevering
+
+De aanlevering van personeelsgegevens dient via de beveiligde site van DUO plaats te vinden. Deze site is bereikbaar via het adres http://www.duo.nl/zakelijk. Om een levering van personeelsgegevens via de beveiligde site te verrichten, zijn toegangsnaam, wachtwoord en aanvullende beveiligingsmiddelen (token) nodig. De procedure om deze te verkrijgen staat ook vermeld op www.duo.nl/zakelijk.
 
 De beveiligde site faciliteert bij het selecteren van bestanden, die volgens het naamformaat in aanmerking komen om geleverd te worden. Na het versturen toont de beveiligde site de datum plus het tijdstip waarop het bestand is ontvangen. De verdere werking van de beveiligde site (inloggen, encrypten, etc.) staat vermeld in de gebruikershandleiding (te vinden via www.duo.nl/zakelijk). Op werkdagen controleert DUO regelmatig of er op de beveiligde site leveringen met personeelsgegevens zijn aangeboden. Als er een levering met personeelsgegevens is aangetroffen, wordt deze verwerkt.
 
@@ -394,15 +396,13 @@ De bovenstaande procedure geldt zowel voor de bestanden over een peilmaand als v
 
 Elke levering over een peilmaand respectievelijk peiljaar dient per school de volledige set van gegevens te omvatten:
 
-Voor technische specificaties wordt verwezen naar het Memo ‘Standaardlevering personeelsgegevens 2013’ dat via de website van DUO:
-
 ### 2.3. Periodieke bijstellingen
+
+De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde personeelsgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal de Minister zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren plaats te laten vinden. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen.
 
 Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen voor gaan komen in de gegevensvraag of de wijze van aanlevering.
 
 Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Deze regeling zal daarom periodiek, in het overleg met de sector, worden geëvalueerd en geactualiseerd.
-
-De bovenstaande procedure geldt zowel voor de bestanden over een peilmaand als voor de bestanden over een peiljaar.
 
 ### 2.4. Lerarenregister en registervoorportaal
 
@@ -416,11 +416,11 @@ Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.n
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01) van de Regeling informatievoorziening WVO
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WVO
 
 Vervallen
 
-## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2025-01-01&g=2025-01-01) van de Regeling informatievoorziening WVO
+## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WVO
 
 Vervallen
 
@@ -470,15 +470,15 @@ Leidinggevenden die integraal (eind) verantwoordelijk zijn over de (algehele) on
 
 In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens de [artikelen 2.111](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.111) en [5.48 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48), verplicht zijn om aan de overheid te leveren.
 
-De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken.
+Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
 
 ### 1. Aanlevering van organisatiegegevens
 
-Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring.
+BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Elektronische wijzigingen zijn mogelijk via de website van DUO, na geautoriseerd inloggen op het daartoe bestemde deel van de website.
 
 ### 2. Aanlevering van personeelsgegevens
 
-dienen vier maal per jaar aan DUO te worden aangeleverd:
+De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25):
 
 ### 2.2. Wijze van aanlevering
 
@@ -514,11 +514,11 @@ In deze bijlage worden gegevens gespecificeerd die bevoegde gezagsorganen, krach
 
 ### Functiecategorie
 
-Het personeel dat onder verantwoordelijkheid van de leraar bijdraagt aan de verzorging van het onderwijs door lesondersteunende activiteiten.
+Deze functiecategorieën komen overeen met de functiecategorieën beschreven in paragraaf 2.4.
 
-In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zaken opgesomd dat deel uitmaakt van het bruto-netto systeem (werknemerskant) en de werkgeverslasten. Een aantal specifieke toelagen wordt genoemd, zoals de toelage arbeidsmarkt en de functioneringstoelage. Naast deze specifieke toelagen bestaan ook andere toelagen, zoals de toelage onregelmatige dienst en de toelage onkostenvergoeding. Al deze toelagen kunnen worden ondergebracht bij: toelagen overig.
+In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens de [artikelen 2.111](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.111) en [5.48 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48), verplicht zijn om aan de overheid te leveren.
 
-### Soort loon, toelage of korting
+### Toelichting
 
 ## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2022-07-23&g=2022-07-23) van de Regeling informatievoorziening WVO
 
@@ -552,11 +552,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Functiecategorie
 
-### Soort loon, toelage of korting
+### Wijze van beschikbaarstelling van gegevens
 
 ## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
-Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring.
+Achtereenvolgens zal in worden gegaan op de termijn voor aanlevering van de personeelsgegevens, de wijze van aanlevering en periodieke bijstellingen.
 
 ### 2.2. Wijze van aanlevering
 
@@ -571,5 +571,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### 2.2. Wijze van aanlevering
 
 ### 2.3. Periodieke bijstellingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WVO
+
+### 1. Aanlevering van organisatiegegevens
+
+### 2. Aanlevering van personeelsgegevens
+
+### 2.1. Termijn voor aanlevering van gegevens
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
