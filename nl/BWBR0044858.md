@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2024-04-13"
+last_updated: "2025-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -176,17 +176,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. Voor de toepassing van dit artikel verstaan onder uitvoeringsbesluit 2012/697: Uitvoeringsbesluit 2012/697/EU van de Commissie van 8 november 2012 wat betreft maatregelen het binnenbrengen en de verspreiding in de Unie van het geslacht Pomacea (Perry) te voorkomen (PbEU 2012, L 311).
-
-2. Het is verboden het geslacht Pomacea (Perry) in te voeren en binnen Nederland te verspreiden.
-
-3. Voor opplant bestemde planten, met uitzondering van zaden, die alleen groeien in water of in grond die permanent is verzadigd met water, van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als:
-
-- a. zij voldoen aan de invoervoorschriften van punt 1 van sectie 1 van bijlage I van uitvoeringsbesluit 2012/697; en
-
-- b. zij bij binnenkomst in de Europese Unie overeenkomstig punt 2 van sectie 1 van bijlage I van uitvoeringsbesluit 2012/697 zijn geïnspecteerd.
-
-4. Voor opplant bestemde planten, met uitzondering van zaden, die alleen groeien in water of in grond die permanent is verzadigd met water, van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit 2012/697 zijn afgebakend, mogen alleen binnen de Europese Unie in het verkeer worden gebracht als zij voldoen aan de voorwaarden zoals gesteld in sectie 2 van bijlage I van uitvoeringsbesluit 2012/697.
+Vervallen
 
 ##### Artikel 11
 
@@ -242,17 +232,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2024-04-13&g=2024-04-13), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2025-01-26&g=2025-01-26), vervalt met ingang van 1 januari 2027.
 
-6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 januari 2024.
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
