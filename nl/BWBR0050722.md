@@ -4,7 +4,7 @@ identifier: "BWBR0050722"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-31"
-last_updated: "2025-01-01"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050722"
 soort: "zbo"
@@ -101,7 +101,7 @@ Een rechts- en wetswinkel kan in aanmerking komen voor een basissubsidie van €
 
 ##### Artikel 4. Extra subsidie en voorwaarden
 
-Een rechts- en wetswinkel die voldoet aan de voorwaarden genoemd onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-01) van deze regeling kan in aanmerking komen voor een extra subsidie, indien:
+Een rechts- en wetswinkel die voldoet aan de voorwaarden genoemd onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) van deze regeling kan in aanmerking komen voor een extra subsidie, indien:
 
 - a. de rechts- en wetswinkel jaarlijks 100 of meer rechtzoekenden bijstaat;
 
@@ -193,17 +193,17 @@ Voor deze regeling zal het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand v
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2025.
 
-2. De mogelijkheid tot het aanvragen van subsidie vervalt als het subsidieplafond zoals beschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=V&artikel=9&z=2025-01-31&g=2025-01-01) in een kalenderjaar is bereikt.
+2. De mogelijkheid tot het aanvragen van subsidie vervalt als het subsidieplafond zoals beschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=V&artikel=9&z=2025-01-31&g=2025-01-31) in een kalenderjaar is bereikt.
 
 3. Deze regeling vervalt uiterlijk op 1 januari 2030.
 
 ##### Artikel 11. Overgangsrecht
 
-1. De rechts- en wetswinkel die in 2024 al subsidie ontving van de Raad voor een lager of gelijk bedrag dan de basissubsidie en (nog) niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-01) van deze regeling, behoudt onder de eerdere subsidievoorwaarden, recht op dat lagere of gelijke bedrag (lees: de oude subsidie).
+1. De rechts- en wetswinkel die in 2024 al subsidie ontving van de Raad voor een lager of gelijk bedrag dan de basissubsidie en (nog) niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) van deze regeling, behoudt onder de eerdere subsidievoorwaarden, recht op dat lagere of gelijke bedrag (lees: de oude subsidie).
 
 2. De rechts- en rechtswinkel die in 2024 al subsidie ontving van de Raad voor een hoger bedrag dan waarvoor op basis van deze regeling recht zou bestaan, behoudt onder de eerdere subsidievoorwaarden, recht op dat hogere bedrag (lees: de oude subsidie).
 
-3. Voldoet een rechts- en wetswinkel zoals bedoeld onder lid 1 en lid 2 niet aan de voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=4&z=2025-01-31&g=2025-01-01) van deze regeling, dan vervalt de oude subsidie per 1 januari 2027.
+3. Voldoet een rechts- en wetswinkel zoals bedoeld onder lid 1 en lid 2 niet aan de voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=4&z=2025-01-31&g=2025-01-31) van deze regeling, dan vervalt de oude subsidie per 1 januari 2027.
 
 ##### Artikel 12. Citeertitel
 
