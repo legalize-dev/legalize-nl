@@ -4,7 +4,7 @@ identifier: "BWBR0047624"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-01"
-last_updated: "2024-06-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047624"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter en de andere leden worden door de minister benoemd.
 
-3. Als voorzitter van de commissie wordt benoemd: de heer mr. C.J.L. van Dam.
+3. Als voorzitter van de commissie wordt benoemd: de heer mr. H.J. Moraal MPA.
 
 4. Als andere leden van de commissie worden benoemd:
 
@@ -178,7 +178,7 @@ In dit besluit wordt verstaan onder:
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-2. De minister zendt het verslag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047624&artikel=7&z=2024-06-01&g=2024-06-01), aan de Voorzitter van de Tweede Kamer der Staten-Generaal.
+2. De minister zendt het verslag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047624&artikel=7&z=2025-02-01&g=2025-02-01), aan de Voorzitter van de Tweede Kamer der Staten-Generaal.
 
 ##### Artikel 11. Archiefbescheiden
 
