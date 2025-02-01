@@ -4,7 +4,7 @@ identifier: "BWBR0008587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-09"
-last_updated: "2025-01-18"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008587"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5eb,
 
 ##### Artikel 1.2. Algemeen
 
-Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2025-01-18&g=2025-01-18) van toepassing.
+Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2025-02-01&g=2025-02-01) van toepassing.
 
 ##### Artikel 1.3. Materiaal
 
@@ -116,7 +116,7 @@ De opleidingsinstelling overhandigt de cursist die het examen met goed gevolg he
 
 ##### Artikel 1.8. Administratie
 
-De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2025-01-18&g=2025-01-18) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
+De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2025-02-01&g=2025-02-01) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
 
 #### Paragraaf 1.2. Algemene bepalingen over opleidingen
 
@@ -274,7 +274,7 @@ Vervallen
 
 ##### Artikel 2.6. Melding wijziging organisatievorm
 
-De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-01-18&g=2025-01-18).
+De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-02-01&g=2025-02-01).
 
 #### Paragraaf 2.2. Certificatie
 
@@ -284,7 +284,7 @@ Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid
 
 ##### Artikel 2.8. Eisen aan de arbodienst
 
-Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-01-18&g=2025-01-18), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in Deel 1 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
+Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-02-01&g=2025-02-01), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in Deel 1 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
 
 ##### Artikel 2.9. Klachtenprocedure
 
@@ -382,7 +382,7 @@ Vervallen
 
 ##### Artikel 3.2. Definities
 
-In deze paragraaf en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2025-01-18&g=2025-01-18) wordt verstaan onder:
+In deze paragraaf en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2025-02-01&g=2025-02-01) wordt verstaan onder:
 
 ##### Artikel 3.3. Veiligheids- en gezondheidszorgsysteem
 
@@ -416,7 +416,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
+1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
 
 - a. het boren van een boorgat;
 
@@ -428,7 +428,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), bestaat uit de volgende onderdelen:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), bestaat uit de volgende onderdelen:
 
 - a. het voorontwerprapport;
 
@@ -440,7 +440,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 - e. het addendum verlaten en verwijderen.
 
-2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), bestaat uit de volgende onderdelen:
+2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), bestaat uit de volgende onderdelen:
 
 - a. het gedetailleerd ontwerp, opstarten en gebruik;
 
@@ -450,25 +450,25 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), bevat:
+Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), bevat:
 
 - a. een duidelijke en nauwkeurige beschrijving van het mijnbouwwerk alsmede van de werkzaamheden die op het mijnbouwwerk worden uitgevoerd, met inbegrip van een aanduiding van de voorzieningen die in het ontwerp van het mijnbouwwerk zijn opgenomen ter uitsluiting of vermindering van de risico's;
 
-- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2025-01-18&g=2025-01-18) bij deze regeling;
+- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2025-02-01&g=2025-02-01) bij deze regeling;
 
-- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2025-01-18&g=2025-01-18) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
+- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2025-02-01&g=2025-02-01) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
 
 - d. de informatie, bedoeld in onderdeel c, is gebaseerd op de opgave, bedoeld in [artikel 2.42f, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
 
 - e. een opgave van de acceptatiecriteria;
 
-- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2025-01-18&g=2025-01-18) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2025-01-18&g=2025-01-18) bij deze regeling;
+- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2025-02-01&g=2025-02-01) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2025-02-01&g=2025-02-01) bij deze regeling;
 
 - g. een specificatie van de bronnen, die zijn gebruikt bij het identificeren, analyseren en evalueren van de risico's, met inbegrip van een beschrijving van de wijze waarop de geschiktheid en betrouwbaarheid van de bronnen is vastgesteld;
 
 - h. een beoordeling van de doeltreffendheid en geschiktheid van het veiligheids- en gezondheidszorgsysteem voor het mijnbouwwerk met inbegrip van de resultaten en de noodzakelijk bevonden wijzigingen of aanvullingen van dat zorgsysteem;
 
-- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2025-01-18&g=2025-01-18) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2025-01-18&g=2025-01-18) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
+- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2025-02-01&g=2025-02-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2025-02-01&g=2025-02-01) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
 
 - j. een opgave van de noodzakelijk geachte risicoverminderende maatregelen, inclusief een samenvatting van al het onderzoek dat in dit kader is verricht;
 
@@ -486,7 +486,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-18&g=2025-01-18), bevat:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-02-01&g=2025-02-01), bevat:
 
 - a. een overzichtstekening waarop de combinaties, bedoeld in het tweede lid, zijn aangegeven;
 
@@ -506,31 +506,31 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - i. een toetsing van de prestaties van een procesinstallatie of componenten daarvan, van apparatuur en van beheerssystemen aan de prestatienormen.
 
-2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
+2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
 
-- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18);
+- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01);
 
-- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18);
+- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01);
 
-- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), of
+- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), of
 
-- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18).
+- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01).
 
 ##### Artikel 3.11. Toezenden voorontwerprapport en veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18), wordt voorafgaand aan de aanvraag om een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01), wordt voorafgaand aan de aanvraag om een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18), wordt twaalf weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01), wordt twaalf weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18), wordt twaalf weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01), wordt twaalf weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
+5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
 
 ##### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-18&g=2025-01-18), wordt acht weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-02-01&g=2025-02-01), wordt acht weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 2. Dit veiligheids- en gezondheidsdocument gaat vergezeld van het werkprogramma, bedoeld in [artikel 74 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=74) indien het de volgende werkzaamheden betreft:
 
@@ -540,17 +540,17 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
 
-1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18), wordt nageleefd.
+1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01), wordt nageleefd.
 
-2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
+2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
 
 3. Indien de resultaten van de beoordeling, bedoeld in het tweede lid, daartoe aanleiding geven, herziet de werkgever die verantwoordelijk is voor de arbeidsplaats het veiligheids- en gezondheidsdocument. De herziene delen van het veiligheids- en gezondheidsdocument worden, alvorens het gewijzigde veiligheids- en gezondheidsdocument wordt uitgevoerd, in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 ##### Artikel 3.14. Noodplan
 
-1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2025-01-18&g=2025-01-18) bij deze regeling.
+1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2025-02-01&g=2025-02-01) bij deze regeling.
 
-2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), aanwezig.
+2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), aanwezig.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -596,9 +596,9 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - r. ladingzone: de ladingtanks en alle rechtstreeks aan deze tanks grenzende tanks of andere ruimten, welke als afscheiding dienen tussen de ladingtanks en de overige ruimten van het schip;
 
-- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2025-01-18&g=2025-01-18);
+- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2025-02-01&g=2025-02-01);
 
-- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2025-01-18&g=2025-01-18) van deze regeling vastgestelde modellen.
+- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2025-02-01&g=2025-02-01) van deze regeling vastgestelde modellen.
 
 ##### Artikel 4.2. Toepassingsgebied
 
@@ -650,11 +650,11 @@ Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als ge
 
 ##### Artikel 4.8. Veiligheids- en gezondheidsverklaring
 
-De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2025-01-18&g=2025-01-18), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2025-01-18&g=2025-01-18) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2025-01-18&g=2025-01-18), is afgegeven.
+De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2025-02-01&g=2025-02-01), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2025-02-01&g=2025-02-01) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2025-02-01&g=2025-02-01), is afgegeven.
 
 ##### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
 
-1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-01-18&g=2025-01-18) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
+1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-02-01&g=2025-02-01) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
 
 2. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt voorts slechts plaats voor zover die werkzaamheden en de ruimten waarin deze worden uitgevoerd, zijn vermeld in de in het eerste lid bedoelde veiligheids- en gezondheidsverklaring als zijnde toegestaan.
 
@@ -664,7 +664,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.10. Onderzoek gasdeskundige
 
-1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-01-18&g=2025-01-18) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
+1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-02-01&g=2025-02-01) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
 
 2. De gasdeskundige strekt dit onderzoek uit over alle ruimten ten aanzien waarvan hij dit in verband met de aard van de te verrichten werkzaamheden noodzakelijk acht. Bij het onderzoek betrekt de gasdeskundige zo nodig een goed geoutilleerd laboratorium. Hij maakt gebruik van deugdelijke, in goede staat verkerende meet- en andere hulpapparatuur.
 
@@ -706,7 +706,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
 
-Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-01-18&g=2025-01-18) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-01-18&g=2025-01-18) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
+Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-02-01&g=2025-02-01) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-02-01&g=2025-02-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
 
 - a. de aard van de werkzaamheden, de plaats of plaatsen waar deze werkzaamheden zullen worden uitgevoerd en de periode waarin zij zullen worden verricht, nauwkeurig zijn aangeduid door de reparateur;
 
@@ -716,11 +716,11 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - d. door een gasdeskundige een gedagtekende verklaring is uitgereikt waaruit blijkt dat op de onder a tot en met c bedoelde plaatsen de resten van brandbare vloeistoffen zijn verwijderd, zodat geen brandgevaar bestaat;
 
-- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-01-18&g=2025-01-18).
+- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-02-01&g=2025-02-01).
 
 ##### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
 
-1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-01-18&g=2025-01-18), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-01-18&g=2025-01-18) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-01-18&g=2025-01-18).
+1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-02-01&g=2025-02-01), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-02-01&g=2025-02-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2025-02-01&g=2025-02-01).
 
 2. De aanwezigheid van vuur, bedoeld in het eerste lid, is voorts toegestaan indien blijkt uit de verklaring, bedoeld in voornoemd lid, dat:
 
@@ -730,7 +730,7 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 ##### Artikel 4.13. Melding werkzaamheden
 
-Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2025-01-18&g=2025-01-18) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2025-01-18&g=2025-01-18), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
+Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2025-02-01&g=2025-02-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2025-02-01&g=2025-02-01), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
 
 ##### Artikel 4.14. Afgifte certificaat van vakbekwaamheid gasdeskundige
 
@@ -758,7 +758,7 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 ##### Artikel 4.16. Registratie of herregistratie van personen die werken met explosieve stoffen
 
-1. Een persoon is in het bezit van een bewijs van registratie of herregistratie in het Register veilig werken met explosieve stoffen, bedoeld in [artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8) en is geregistreerd op basis van het Registratieschema veilig werken met explosieve stoffen, zoals vastgesteld door het bestuur van de Stichting Veilig Omgaan met Explosieve Stoffen (VOMES) op 31 augustus 2020, en door de minister is gepubliceerd in de Staatscourant van 13 november 2020, (Stcrt. 2020, 58195), op het competentieniveau:
+1. Een persoon is in het bezit van een bewijs van registratie of herregistratie in het Register veilig werken met explosieve stoffen, en is geregistreerd op basis van het Registratieschema veilig werken met explosieve stoffen, zoals vastgesteld door het bestuur van de Stichting Veilig Omgaan met Explosieve Stoffen (VOMES) op 12 november 2024, en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39688), op het competentieniveau:
 
 - a. Basiskennis VOMES, indien hij munitie keurt of test, dan wel andere werkzaamheden verricht als bedoeld in[artikel 4.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), voor zover geen sprake is van werkzaamheden als bedoeld in de onderdelen b tot en met j;
 
@@ -784,7 +784,7 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 - 2°. ontplofbare oorlogsresten overdraagt aan de Explosieven Opruimingsdienst Defensie; of
 
-- 3°. toezicht uitoefent op de werkzaamheden van Assistent deskundige opsporing ontplofbare oorlogsresten en de Deskundige opsporing ontplofbare oorlogsresten indien dat op grond van het certificatieschema, bedoeld in [artikel 4.17f, is vereist](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2025-01-18&g=2025-01-18);
+- 3°. toezicht uitoefent op de werkzaamheden van Assistent deskundige opsporing ontplofbare oorlogsresten en de Deskundige opsporing ontplofbare oorlogsresten indien dat op grond van het certificatieschema, bedoeld in [artikel 4.17f, is vereist](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2025-02-01&g=2025-02-01);
 
 - f. Schietmeester, indien hij explosieve stoffen gebruikt ten behoeve van geologische verkenning en opsporing of winning van delfstoffen;
 
@@ -796,7 +796,7 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 - j. Springmeester onder water, indien hij explosieve stoffen gebruikt op of onder de waterspiegel van open wateren waarbij de springlading of het springsysteem een schokgolf veroorzaakt die zich door het water voortplant.
 
-2. Het eerste lid is niet van toepassing op personen die om redenen van openbare veiligheid niet opgenomen kunnen worden in het Register veilig werken met explosieve stoffen.
+2. Het eerste lid is niet van toepassing op arbeid verricht door defensiepersoneel.
 
 ##### Artikel 4.17. Verstrekken gegevens bij aanvraag certificaat
 
@@ -814,9 +814,9 @@ a. groot vuurwerk: professioneel vuurwerk dat bestemd is voor gebruik buiten tij
 
 ##### Artikel 4.17b. Afgifte certificaat van vakbekwaamheid professioneel vuurwerk
 
-1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2025-01-18&g=2025-01-18) bij de regeling.
+1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2025-02-01&g=2025-02-01) bij de regeling.
 
-2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2025-01-18&g=2025-01-18) bij de regeling.
+2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2025-02-01&g=2025-02-01) bij de regeling.
 
 ##### Artikel 4.17c. Verstrekken gegevens bij aanvraag certificaat
 
@@ -830,13 +830,13 @@ Vervallen
 
 ##### Artikel 4.18. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
-Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2025-01-18&g=2025-01-18) bij de regeling toegepast.
+Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2025-02-01&g=2025-02-01) bij de regeling toegepast.
 
 #### Paragraaf 4.2. Veilig werken met explosieven
 
 ##### Artikel 4.19. Gevaarlijke stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), in samenhang gelezen met [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2025-01-18&g=2025-01-18) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), in samenhang gelezen met [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2025-02-01&g=2025-02-01) bij deze regeling.
 
 2.
 
@@ -848,7 +848,7 @@ Vervallen
 
 ##### Artikel 4.20. Kankerverwekkende, mutagene en reprotoxische stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2025-01-18&g=2025-01-18) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2025-02-01&g=2025-02-01) bij deze regeling.
 
 2. De resultaten van de beoordeling, bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) worden voor elke stof waarvoor overeenkomstig het eerste lid en [artikel 4.16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) een grenswaarde is vastgesteld, getoetst aan die grenswaarde. De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
@@ -872,7 +872,7 @@ Vervallen
 
 3. Het loodgehalte in het bloed als bedoeld in [artikel 4.10b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b) wordt gemeten met behulp van de atomaire absorptiespectrometrie of een andere gelijkwaardige methode.
 
-4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.20a1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20a1&z=2025-01-18&g=2025-01-18). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
+4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.20a1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20a1&z=2025-02-01&g=2025-02-01). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
 5. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt de werknemers ten minste eenmaal per jaar aangeboden.
 
@@ -928,7 +928,7 @@ Een aanwijzing als certificerende instelling kan geschieden indien:
 
 ##### Artikel 4.29. Verstrekken van gegevens en inlichtingen
 
-Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5eb, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2025-01-18&g=2025-01-18) bij de regeling.
+Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5eb, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2025-02-01&g=2025-02-01) bij de regeling.
 
 ##### Artikel 4.30. Uitzonderingen in geval van eindmeting
 
@@ -970,7 +970,7 @@ Vervallen
 
 3. Het tweede lid, onder b, is niet van toepassing op:
 
-- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2025-01-18&g=2025-01-18) bij deze regeling beschreven omstandigheden is toegestaan;
+- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2025-02-01&g=2025-02-01) bij deze regeling beschreven omstandigheden is toegestaan;
 
 - b. het voorbewerken van muren en plafonds van woningen of andere gebouwen op plaatsen waar deze muren en plafonds ernstig verontreinigd zijn door brand- of rookschade of aanslag als gevolg van het roken van tabakswaren;
 
@@ -1052,13 +1052,13 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 2. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
-- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2025-01-18&g=2025-01-18) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
+- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2025-02-01&g=2025-02-01) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
 
 - b. het reinigen van gereedschappen die worden gebruikt bij de werkzaamheden, bedoeld onder a, of oppervlakken van onderdelen van motorrijtuigen ten behoeve van de herstel- of vernieuwingswerkzaamheden, bedoeld onder a.
 
 3. Het tweede lid is niet van toepassing op werkzaamheden ten behoeve van het herstellen van lakschade of het vernieuwen van laklagen op onderdelen van motorrijtuigen die zijn gebouwd vóór 1970;
 
-4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2025-01-18&g=2025-01-18) bij deze regeling.
+4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2025-02-01&g=2025-02-01) bij deze regeling.
 
 ##### Artikel 4.32g. Coating van timmerwerk in binnensituaties
 
@@ -1226,33 +1226,147 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 #### Paragraaf 4.9. Vervallen
 
-##### Artikel 6.1. Eisen voor de aanwijzing als certificerende instelling op het werkveld duikarbeid
+##### Artikel 6.1. Eisen voor registratie of herregistratie van duikers, duikploegleiders, duikmedisch begeleiders en duikerartsen
 
-1. Als certificerende instelling als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) kan worden aangewezen een opleidingsinstelling die een opleiding verzorgt die tot doel heeft personen op te leiden die uit hoofde van een bedrijf of beroep arbeidsgezondheidskundige onderzoeken als bedoeld in artikel 6.14a, eerste en tweede lid, van het besluit, uitvoeren of zullen gaan uitvoeren, en die voldoet aan de criteria zoals vastgelegd in het document, genoemd in het tweede lid.
+1. In dit artikel wordt verstaan onder:
 
-2. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), kan worden aangewezen een instelling die voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met persoonscertificatie op het gebied van Werken onder Overdruk, document: WDAT-WOD-P, zoals opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVI&z=2025-01-18&g=2025-01-18) bij de regeling.
+- –. **aangedreven gereedschappen:** arbeidsmiddelen die pneumatisch, hydraulisch, mechanisch of elektrisch dan wel via munitie worden aangedreven en aanvullend bewustzijn vereisen voor de duikploeg en van de duiker ten aanzien van veiligheidsmaatregelen voor zichzelf dan wel voor zijn omgeving aan de oppervlakte, in het water en tijdens de duikarbeid;
 
-3. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), is aangewezen een instelling die:
+- –. **geconditioneerde omstandigheden:** omgeving waar op voorhand met behulp van een risicoanalyse ingeschat kan worden dat er geen sprake zal zijn van een voorzienbare kans dat de duiker in moeilijkheden zal geraken tijdens de duikarbeid en waarbij ten minste wordt voldaan aan elk van de volgende criteria:
 
-- a. op grond van een daartoe door de Minister van Veiligheid en Justitie vastgestelde regeling een examen behorend bij de opleiding duikploegleider, duiker of duikmedische begeleiding bij de brandweer afneemt;
+- a. de maximaal bereikbare diepte bedraagt 9 meter;
 
-- b. op grond van een daartoe door de Minister van Defensie vastgestelde regeling een opleiding duikerarts, duikploegleider, duiker of duikmedische begeleiding bij het Ministerie van Defensie verzorgt en de bijbehorende examens afneemt.
+- b. het onderwaterzicht bedraagt ten minste 4 meter, indien de omvang van de betreffende faciliteit dit mogelijk maakt;
 
-##### Artikel 6.2. Verstrekken gegevens
+- c. de stroomsnelheid bedraagt maximaal 0,5 meter per seconde; en
 
-Vervallen
+- d. er is te allen tijde de mogelijkheid tot vrije opstijging;
 
-##### Artikel 6.3. Afgifte certificaat duikploegleider, duikarbeid en duikmedische begeleiding
+- –. **gesloten duikklok:** een afzinkbare kamer, afsluitbaar door middel van één of twee deuren, bedoeld voor het transport van duikers tussen de onder water gelegen werkplek en de aan de oppervlakte gesitueerde compressiekamer;
 
-Vervallen
+- –. **hogedrukluchtvoorziening vanaf de oppervlakte:** luchtvoorziening vanaf de oppervlakte die gekoppeld wordt aan de meegedragen SCUBA ademgasvoorziening en waarbij de ademlucht pas bij de meegedragen ademgasvoorziening, niet zijnde een ademgasvoorziening als bedoeld bij SSE, wordt gereduceerd tot lage druk;
+
+- –. **lichte werkzaamheden:** werkzaamheden uitgevoerd tijdens duikarbeid met niet aangedreven gereedschappen;
+
+- –. **niet aangedreven gereedschappen:** arbeidsmiddelen die met de hand worden ingezet en enkel door middel van het inzetten van spierkracht het beoogde effect realiseren;
+
+- –. **no-deco duiktijd:** tijdsduur waarbij op basis van duikdiepte en duiktijd geen decompressiestop is benodigd;
+
+- –. **open duikklok:** open duikklok die is voorzien van een droge ruimte gevuld met ademlucht waar geademd kan worden;
+
+- –. **scopecategorie:** een groepering van scopes op basis van gedeelde kenmerken, waarbij de volgende scopecategorieën worden onderscheiden:
+
+- a. scopecategorie A, bestaande uit de scopes, genoemd in het tweede lid, onderdelen a tot en met d, en het derde lid, onderdelen a tot en met c, die zich kenmerken door lichte werkzaamheden zonder aangedreven gereedschappen waarbij voornamelijk mobiliteit van de duiker van belang is voor zijn werkzaamheden;
+
+- b. scopecategorie B, bestaande uit de scopes, genoemd in het tweede lid, onderdelen e tot en met g, en het derde lid, onderdelen d tot en met f, die zich kenmerken door zware werkzaamheden waarbij de duiker voornamelijk statisch zijn werkzaamheden uitvoert; en
+
+- c. scopecategorie C, bestaande uit de scopes, genoemd in het tweede lid, onderdeel h, en het vierde lid, onderdeel g, die zich kenmerken door zware werkzaamheden waarbij de duiker vanuit een gesloten duikklok gebruik maakt van ademgassen die ten behoeve van het ademen op grotere dieptes samengesteld zijn;
+
+- –. **SCUBA:** Self Contained Underwater Breathing Apparatus, zijnde een verzamelnaam voor duikmaterieel dat zich kenmerkt door ademgasvoorziening vanuit cilinders die door de duiker meegedragen worden;
+
+- –. **SSE:** Surface Supplied Equipment, zijnde een verzamelnaam voor duiksystemen die standaard voorzien zijn van ademgasvoorziening vanaf de oppervlakte, waarbij een of meer duikers aangesloten zijn op een duikpaneel, en die geschikt zijn voor de uitvoering van zware werkzaamheden in de scopecategorie B;
+
+- –. **zware werkzaamheden:** werkzaamheden uitgevoerd tijdens duikarbeid waarbij de omstandigheden, de aard van de werkzaamheden of het gebruik van aangedreven gereedschappen leiden tot aanvullende risico's welke gemitigeerd worden door het gebruik van een SSE duikuitrusting.
+
+2. Een duiker is in het bezit van een bewijs van registratie of herregistratie in het Register civiele duikarbeid of in het Register duikarbeid brandweer en politie, en is geregistreerd op basis van het Registratieschema duiker, zoals vastgesteld door het bestuur van de Stichting Werken Onder Overdruk op 1 oktober 2024 en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024, 39678), voor de scope:
+
+- a. A9, indien hij lichte werkzaamheden uitvoert met een SCUBA duikuitrusting tot een diepte van 9 meter, binnen de grenzen van no-deco duiktijden, onder geconditioneerde omstandigheden;
+
+- b. A15, indien hij lichte werkzaamheden uitvoert met een SCUBA duikuitrusting, tot een diepte van 15 meter, binnen de grenzen van no-deco duiktijden;
+
+- c. A15OLV, indien hij lichte werkzaamheden uitvoert met een SCUBA duikuitrusting met aansluiting op een hogedrukluchtvoorziening vanaf de oppervlakte, tot een diepte van 15 meter, binnen de grenzen van no-deco duiktijden;
+
+- d. A30, indien hij lichte werkzaamheden uitvoert met een SCUBA duikuitrusting tot en met een diepte van 30 meter;
+
+- e. B30, indien hij zware werkzaamheden uitvoert met een SSE duikuitrusting, tot en met een diepte van 30 meter;
+
+- f. B50R, indien hij zware werkzaamheden uitvoert met een SSE duikuitrusting, tot en met een diepte van 50 meter;
+
+- g. B50, indien hij zware werkzaamheden uitvoert met een SSE duikuitrusting, inclusief het duiken vanuit een open duikklok, tot en met een diepte van 50 meter; en
+
+- h. C, indien hij zware werkzaamheden uitvoert met een SSE duikuitrusting, inclusief het duiken vanuit een gesloten duikklok.
+
+3. Een duiker die is geregistreerd voor de scope A30, B50R of B50 kan, in afwijking van het tweede lid, bij het verrichten van werkzaamheden die vallen binnen de scope waarvoor hij is geregistreerd, in incidentele gevallen dieper duiken dan de maximale diepte die is gekoppeld aan de betreffende scope, mits wordt voldaan aan de voorwaarden in paragraaf 5.8 van het registratieschema, genoemd in het tweede lid.
+
+4. Een duikploegleider is in het bezit van een bewijs van registratie of herregistratie in het Register civiele duikarbeid of in het Register duikarbeid brandweer en politie, en is geregistreerd op basis van het Registratieschema duikploegleider, zoals vastgesteld door het bestuur van de Stichting Werken Onder Overdruk op 1 oktober 2024 en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024, 39683), voor de scope:
+
+- a. A9, indien hij leiding geeft aan de uitvoering van lichte werkzaamheden met een SCUBA duikuitrusting tot een diepte van 9 meter, binnen de grenzen van no-deco duiktijden, onder geconditioneerde omstandigheden;
+
+- b. A15, indien hij leiding geeft aan de uitvoering van lichte werkzaamheden met een SCUBA duikuitrusting tot een diepte van 15 meter, binnen de grenzen van no-deco duiktijden;
+
+- c. A30, indien hij leiding geeft aan de uitvoering van lichte werkzaamheden met een SCUBA duikuitrusting tot en met een diepte van 30 meter;
+
+- d. B30, indien hij leiding geeft aan de uitvoering van zware werkzaamheden met een SSE duikuitrusting, tot en met een diepte van 30 meter;
+
+- e. B50R, indien hij leiding geeft aan de uitvoering van zware werkzaamheden met een SSE duikuitrusting, tot en met een diepte van 50 meter;
+
+- f. B50, indien hij leiding geeft aan de uitvoering van zware werkzaamheden met een SSE duikuitrusting, inclusief het duiken vanuit een open duikklok, tot en met een diepte van 50 meter; en
+
+- g. C, indien hij leiding geeft aan de uitvoering van zware werkzaamheden met een SSE duikuitrusting, inclusief het duiken vanuit een gesloten duikklok.
+
+5. Een duikploegleider mag leiding geven aan werkzaamheden als bedoeld in het tweede lid, onderdeel c, waarbij gebruik wordt gemaakt van een aansluiting op een hogedrukluchtvoorziening vanaf de oppervlakte, indien hij is geregistreerd voor een of meer van de scopes, genoemd in het vierde lid, onderdelen b tot en met g, en bij deze registratie of herregistratie tevens de aantekening ‘A15OLV’ is geregistreerd.
+
+6. De aantekening, bedoeld in het vijfde lid, wordt geregistreerd indien is voldaan aan de daarvoor geldende eisen in het registratieschema, genoemd in het vierde lid.
+
+7. Een duiker die is geregistreerd voor een van de scopes, genoemd in het tweede lid, mag naast de duikarbeid die valt binnen de betreffende scope tevens duikarbeid verrichten die valt binnen de scopes, genoemd in de onderdelen van het tweede lid die voorafgaan aan het onderdeel dat betrekking heeft op de scope waarin de duiker is geregistreerd, met uitzondering van scope A15OLV. De eerste zin is van overeenkomstige toepassing op een duikploegleider die is geregistreerd voor een van de scopes, genoemd in het vierde lid.
+
+8. Een duikmedisch begeleider is in het bezit van een bewijs van registratie of herregistratie in het Register civiele duikarbeid of in het Register duikarbeid brandweer en politie, en is geregistreerd op basis van het Registratieschema duikmedisch begeleider, zoals vastgesteld door het bestuur van de Stichting Werken Onder Overdruk op 1 oktober 2024 en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024, 39685), voor de scope:
+
+- a. B1, indien hij medische begeleiding uitvoert bij duikarbeid in de duikerscopes A9, A15 en A15OLV binnen de grenzen van no-deco duiktijden; en
+
+- b. B2, indien hij medische begeleiding uitvoert bij duikarbeid in de duikerscopes A30 en de scopecategorieën B en C.
+
+9. Een duikerarts is in het bezit van een bewijs van registratie of herregistratie in het Register civiele duikarbeid en is geregistreerd op basis van het Registratieschema duikerarts, zoals vastgesteld door het bestuur van de Stichting Werken Onder Overdruk op 1 oktober 2024en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024, 39687), voor de scope:
+
+- a. duikerarts A, indien hij arbeidsgezondheidskundige onderzoeken als bedoeld in artikel 6.14a, tweede lid, van het besluit uitvoert die niet voortkomen uit een wijziging in de lichamelijke of geestelijke toestand van de persoon die wordt onderzocht; en
+
+- b. duikerarts B, indien hij arbeidsgezondheidskundige onderzoeken als bedoeld in artikel 6.14a, eerste, tweede en zesde lid, van het besluit uitvoert.
+
+10. Dit artikel is niet van toepassing op arbeid verricht door defensiepersoneel.
+
+##### Artikel 6.2. Inhoud arbeidsgezondheidskundig onderzoek
+
+1. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) vindt plaats met inachtneming van de op 10 september 2021 door het bestuur van de Stichting Werken onder Overdruk vastgestelde en op de website [www.arbocataloguswoo.nl](http://www.arbocataloguswoo.nl/) gepubliceerde:
+
+- a. Keuringsrichtlijn Werken onder Overdruk – Duikarbeid, indien de persoon die het arbeidsgezondheidskundig onderzoek ondergaat duikarbeid, caissonarbeid of overige arbeid onder overdruk, niet zijnde arbeid als bedoeld in onderdeel b, verricht of zal verrichten;
+
+- b. Keuringsrichtlijn Werken onder Overdruk – Hyperbare Geneeskunde, indien de persoon die het arbeidsgezondheidskundig onderzoek ondergaat arbeid onder overdruk verricht of zal verrichten, die bestaat uit werkzaamheden in een hyperbare behandelkamer.
+
+2. In dit artikel wordt onder hyperbare behandelkamer verstaan: een in een ziekenhuis of medische instelling vast opgestelde compressiekamer, bedoeld voor behandeling van patiënten onder overdruk volgens een door een arts voorgeschreven behandelprotocol.
+
+##### Artikel 6.3. Inhoud logboek
+
+1. Het logboek, bedoeld in [artikel 6.16, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), bevat ten minste de voornaam, achternaam en geboortedatum van de houder van het logboek en daarnaast per duik:
+
+- a. een handtekening van de houder van het logboek;
+
+- b. de datum van de duik;
+
+- c. het aanvangstijdstip en de eindtijd van de duik;
+
+- d. de maximaal bereikte diepte;
+
+- e. het gevolgde schema van de betreffende duik;
+
+- f. het gevolgde decompressieverloop;
+
+- g. de aard van de gebruikte duikuitrusting of het gebruikte duiksysteem;
+
+- h. de aard van de duikarbeid; en
+
+- i. bijzondere sessies, zoals alle gevallen waarin dieper wordt gedoken dan toegestaan binnen de scope, noodprocedures, veiligheidsmaatregelen en aanvullende competenties.
+
+2. In aanvulling op het eerste lid, bevat het logboek van een duiker per duik een handtekening van de duikploegleider met vermelding van het duikploegleidersnummer en de totale tijd onder druk, en bevat het logboek van een duikploegleider per duik een aftekening namens de opdrachtgever of werkgever en het totaal aantal duikers.
+
+3. In afwijking van het eerste lid, onderdeel c, mag een duikploegleider de totaaltijd in plaats van het aanvangstijdstip en de eindtijd van een duik vastleggen in het door hem bij te houden logboek.
 
 ##### Artikel 6.3a. Afgifte certificaat duikerarts
 
 Vervallen
 
-##### Artikel 6.4. Vergoeding
+##### Artikel 6.4. Aanwijzing sportduikbrevet
 
-Vervallen
+Als sportduikbrevet als bedoeld in [artikel 6.31, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.31) wordt aangewezen een geldig brevet NOB**, afgegeven door de Nederlandse onderwatersportbond, dan wel een naar het oordeel van de minister gelijkwaardig brevet.
 
 #### Paragraaf 4.9. Vervallen
 
@@ -1352,21 +1466,21 @@ Als model van het register, bedoeld in [artikel 7.29, tiende lid, van het beslui
 
 ##### Artikel 7.7. Eisen voor registratie of herregistratie
 
-Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), geschiedt indien de aanvrager voldoet aan de navolgende eisen:
+Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), geschiedt indien de aanvrager voldoet aan de navolgende eisen:
 
-- a. indien het betreft registratie of herregistratie voor de bediening van een torenkraan als bedoeld in [artikel 7.6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18),het schema voor de machinist torenkraan ‘Schema voor registratie van de Machinist Torenkraan in het Register Kraanmachinisten, W4-06’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- a. indien het betreft registratie of herregistratie voor de bediening van een torenkraan als bedoeld in [artikel 7.6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01),het schema voor de machinist torenkraan ‘Schema voor registratie van de Machinist Torenkraan in het Register Kraanmachinisten, W4-06’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- b. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een mobiele kraan op banden of rupsen als bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), het schema voor de machinist mobiele kraan op banden en/of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- b. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een mobiele kraan op banden of rupsen als bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), het schema voor de machinist mobiele kraan op banden en/of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- c. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), het schema voor de machinist grondverzetmachine met hijsfunctie ‘Schema voor registratie van de Machinist Grondverzetmachine in het Register Kraanmachinisten, W4-05’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, nr. dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- c. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), het schema voor de machinist grondverzetmachine met hijsfunctie ‘Schema voor registratie van de Machinist Grondverzetmachine in het Register Kraanmachinisten, W4-05’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, nr. dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- d. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een autolaadkraan, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), het schema voor de machinist autolaadkraan ‘Schema voor registratie van de Machinist Autolaadkraan in het Register Kraanmachinisten, W4-04’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden en/of rupsen 2019 ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- d. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een autolaadkraan, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), het schema voor de machinist autolaadkraan ‘Schema voor registratie van de Machinist Autolaadkraan in het Register Kraanmachinisten, W4-04’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden en/of rupsen 2019 ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- e. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), het schema voor de machinist verreiker met hijsfunctie ‘Schema voor registratie van de Machinist Verreiker in het Register Kraanmachinisten, W4-07’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- e. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), het schema voor de machinist verreiker met hijsfunctie ‘Schema voor registratie van de Machinist Verreiker in het Register Kraanmachinisten, W4-07’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- f. indien het betreft registratie of herregistratie voor de bediening van een kleine funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), het schema voor de machinist kleine funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Klein in het Register Kraanmachinisten, W4-02’ dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050; en
+- f. indien het betreft registratie of herregistratie voor de bediening van een kleine funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), het schema voor de machinist kleine funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Klein in het Register Kraanmachinisten, W4-02’ dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050; en
 
-- g. indien het betreft registratie of herregistratie voor de bediening van een grote funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-01-18&g=2025-01-18), van het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050.
+- g. indien het betreft registratie of herregistratie voor de bediening van een grote funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2025-02-01&g=2025-02-01), van het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050.
 
 ##### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
 
@@ -1424,7 +1538,7 @@ Vervallen
 
 ##### Artikel 8.1. Vereisten
 
-1. Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan het tweede lid en de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-01-18&g=2025-01-18).
+1. Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan het tweede lid en de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-02-01&g=2025-02-01).
 
 2. Veiligheids- of gezondheidssignalering wordt, al naar gelang het geval, geregeld schoongemaakt, onderhouden, geverifieerd en gerepareerd of zo nodig vervangen, met het oog op het behoud van hun intrinsieke of functionele kwaliteiten.
 
@@ -1434,7 +1548,7 @@ Vervallen
 
 2. De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.
 
-3. De signalering op reservoirs en leidingen geschiedt overeenkomstig de [artikelen 8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2025-01-18&g=2025-01-18), [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2025-01-18&g=2025-01-18) en [8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2025-01-18&g=2025-01-18).
+3. De signalering op reservoirs en leidingen geschiedt overeenkomstig de [artikelen 8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2025-02-01&g=2025-02-01), [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2025-02-01&g=2025-02-01) en [8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2025-02-01&g=2025-02-01).
 
 4. De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.
 
@@ -1524,9 +1638,9 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 5. Borden in verband met het brandbestrijdingsmateriaal kenmerken zich door een rechthoekige of vierkante vorm en een wit pictogram op rode achtergrond, waarbij de rode kleur ten minste 50% van het oppervlak van het bord beslaat.
 
-6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2025-01-18&g=2025-01-18) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
+6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2025-02-01&g=2025-02-01) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
 
-7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2025-01-18&g=2025-01-18) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
+7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2025-02-01&g=2025-02-01) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
 
 ##### Artikel 8.11. Plaatsing van borden
 
@@ -1552,7 +1666,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 ##### Artikel 8.13. Aanbrengen van signalering op reservoirs en leidingen
 
-De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-01-18&g=2025-01-18) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
+De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-02-01&g=2025-02-01) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
 
 ##### Artikel 8.14. Plaatsing op leidingen
 
@@ -1560,11 +1674,11 @@ De op leidingen gebruikte gevarenpictogrammen of signaalwoorden worden zichtbaar
 
 ##### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
 
-1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-01-18&g=2025-01-18) of door gevarenpictogrammen en signaalwoorden als bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-01-18&g=2025-01-18) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2025-01-18&g=2025-01-18), wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
+1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-02-01&g=2025-02-01) of door gevarenpictogrammen en signaalwoorden als bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-02-01&g=2025-02-01) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2025-02-01&g=2025-02-01), wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
 
 2. De in het eerste lid bedoelde borden of gevarenpictogrammen en signaalwoorden worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.
 
-3. Indien [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-01-18&g=2025-01-18) geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt.
+3. Indien [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-02-01&g=2025-02-01) geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt.
 
 ##### Artikel 8.16. Wijze van gebruik lichtsignalen
 
@@ -1574,9 +1688,9 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 1. Het lichtoppervlak dat een signaal uitzendt, is uniform van kleur of bevat een pictogram op een bepaalde achtergrond.
 
-2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2025-01-18&g=2025-01-18).
+2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2025-02-01&g=2025-02-01).
 
-3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-01-18&g=2025-01-18).
+3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-02-01&g=2025-02-01).
 
 ##### Artikel 8.18. Bijzondere lichtsignalen
 
@@ -1664,7 +1778,7 @@ De seingever is makkelijk herkenbaar voor de ontvanger van de seinen.
 
 ##### Artikel 8.26. Voorkomen onduidelijkheid seinen
 
-De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2025-01-18&g=2025-01-18) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
+De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2025-02-01&g=2025-02-01) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
 
 ##### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
 
@@ -1684,19 +1798,69 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-##### Artikel 9.1. Tijdelijke regeling werkveld arbeid met of aan professioneel vuurwerk
+##### Artikel 9.1. Overgangsbepaling duiker, duikploegleider, duikmedisch begeleider en duikerarts
 
-1. Het werkveld arbeid waarbij consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 4.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) tot ontbranding worden gebracht, wordt aangewezen als werkveld als bedoeld in de [artikel 1.5b, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b).
+1. De persoon die op 1 februari 2025 beschikt over een geldig certificaat duikarbeid wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat, afhankelijk van de sector waarin hij werkzaam is, ingeschreven in het Register civiele duikarbeid of het Register duikarbeid brandweer en politie, in de volgende scope, bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2025-02-01&g=2025-02-01):
 
-2. De door de minister in verband met de afhandeling van een aanvraag om aanwijzing als bedoeld in [artikel 1.5b, eerste lid, van besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), op het werkveld, genoemd in het eerste lid, te maken kosten zijn voor rekening van de aanvragende instelling.
+- a. A9, indien hij over een certificaat voor subcategorie A1 beschikt;
 
-3. Dit artikel vervalt met ingang van 1 januari 2017.
+- b. A15, indien hij over een certificaat voor subcategorie A2 beschikt;
 
-##### Artikel 9.2. Tijdelijke regeling certificering vuurwerkdeskundige
+- c. A30, indien hij over een certificaat voor subcategorie A3 beschikt;
 
-1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan gedurende een periode van twaalf maanden, te rekenen vanaf de dag van inwerkingtreding van deze regeling, geschieden zonder dat de aanvragende instelling voldoet aan de paragraaf 4.1 van het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD, zoals opgenomen in [Bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2016-10-04&g=2016-10-04) bij de regeling.
+- d. A15OLV, indien hij over een certificaat voor subcategorie B1 beschikt;
 
-2. Dit artikel vervalt met ingang van 1 januari 2017.
+- e. B30, indien hij over een certificaat voor subcategorie B2 beschikt;
+
+- f. B50R, indien hij over een certificaat voor subcategorie B3 beschikt;
+
+- g. B50, indien hij over een certificaat voor subcategorie B4 beschikt;
+
+- h. C, indien hij over een certificaat voor categorie C beschikt.
+
+2. De persoon die op 1 februari 2025 beschikt over een geldig certificaat duikploegleider wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register civiele duikarbeid in de volgende scope, bedoeld in [artikel 6.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2025-02-01&g=2025-02-01):
+
+- a. A9, indien hij over een certificaat voor subcategorie A1 beschikt;
+
+- b. A15, indien hij over een certificaat voor subcategorie A2 beschikt;
+
+- c. A30, indien hij over een certificaat voor subcategorie A3 beschikt;
+
+- d. A15, indien hij over een certificaat voor subcategorie B1 beschikt;
+
+- e. B30, indien hij over een certificaat voor subcategorie B2 beschikt;
+
+- f. B50R, indien hij over een certificaat voor subcategorie B3 beschikt;
+
+- g. B50, indien hij over een certificaat voor subcategorie B4 beschikt;
+
+- h. C, indien hij over een certificaat voor categorie C beschikt.
+
+3. De persoon die op 1 februari 2025 beschikt over een geldig certificaat brandweerduikploegleider wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register duikarbeid brandweer en politie in de scope A15, bedoeld in artikel 6.1, vierde lid.
+
+4. De persoon die op 1 februari 2025 beschikt over een geldig certificaat duikmedisch begeleider wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat, afhankelijk van de sector waarin hij werkzaam is, ingeschreven in het Register civiele duikarbeid of het Register duikarbeid brandweer en politie, in de volgende scope, bedoeld in [artikel 6.1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2025-02-01&g=2025-02-01):
+
+- a. B1, indien hij over een certificaat EHBO duikarbeid beschikt;
+
+- b. B2, indien hij over een certificaat mad A beschikt.
+
+5. De persoon die op 1 februari 2025 beschikt over een geldig certificaat duikerarts wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register civiele duikarbeid in de volgende scope, bedoeld in [artikel 6.1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2025-02-01&g=2025-02-01):
+
+- a. duikerarts A, indien hij over een certificaat duikerarts A beschikt;
+
+- b. duikerarts B, indien hij over een certificaat duikerarts B beschikt.
+
+6. Indien sinds de afgifte van het certificaat, bedoeld in het eerste, tweede en derde lid, een periode van meer dan 24 maanden is verstreken, wordt een verzoek als bedoeld in die leden slechts ingewilligd als door de houder van het certificaat is aangetoond dat hij in de periode van 24 maanden vanaf de datum van afgifte van het certificaat:
+
+- a. heeft voldaan aan de op het certificaat van toepassing zijnde eindterm in [paragraaf 11.2.1. van bijlage XVIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIc&z=2025-02-01&g=2025-02-01) van de regeling, zoals deze luidde op 31 januari 2025, indien het certificaat een certificaat is als bedoeld in het eerste lid;
+
+- b. als duikploegleider deel heeft genomen aan ten minste 20 duiken in de categorie van duikarbeid waarvoor het certificaat is afgegeven, indien het certificaat een certificaat is als bedoeld in het tweede lid voor subcategorieën A1, A2 of B1 dan wel een certificaat is als bedoeld in het derde lid;
+
+- c. als duikploegleider deel heeft genomen aan ten minste 30 duiken in de categorie van duikarbeid waarvoor het certificaat is afgegeven, indien het certificaat een certificaat is als bedoeld in het tweede lid en is afgegeven voor een andere subcategorie dan die genoemd in onderdeel b.
+
+##### Artikel 9.2. Overgangsbepaling vuurwerkdeskundige
+
+Gereserveerd
 
 ##### Artikel 9.2a
 
@@ -1736,23 +1900,29 @@ In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. In verband met het derde lid geldt in afwijking van de artikelen 14, eerste lid, onderdeel b, en 34, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-01-18&g=2025-01-18), dat door de minister is gepubliceerd in de Staatscourant van 6 december 2018 (Stcrt. 2018, 68771), in de periode van 15 december 2020 tot en met 24 mei 2021 niet verplichting om ervoor zorg te dragen dat ten minste één keer per twaalf maanden de daar genoemde facefit-test is uitgevoerd.
 
-##### Artikel 9.3. Overgangsregeling [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&z=2025-01-18&g=2025-01-18), [Paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2025-01-18&g=2025-01-18) Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
+##### Artikel 9.3. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
 
-De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.16&z=2025-01-18&g=2025-01-18), de aanvulling van het veiligheids- en gezondheidsbeleid en -document, bedoeld in[artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-01-18&g=2025-01-18), de aanvulling van de risico-inventarisatie en -evaluatie, bedoeld in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.18&z=2025-01-18&g=2025-01-18) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.19&z=2025-01-18&g=2025-01-18), en de aanvulling van het noodplan, bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.20&z=2025-01-18&g=2025-01-18), worden door de werkgever vastgelegd en aan de toezichthouder gezonden:
+1. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester 1 wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester 1 en op het competentieniveau Springmeester industriële reiniging.
+
+2. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester industriële reiniging wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester 1 en op het competentieniveau Springmeester industriële reiniging.
+
+3. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester 2 wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester 2.
+
+4. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester 2 onder water wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester onder water.
+
+5. De persoon die op 1 januari 2021 beschikt over een geldig getuigschrift schietmeester wordt op zijn verzoek voor de resterende geldigheidsduur van dat getuigschrift ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Schietmeester.
+
+##### Artikel 9.4. Overgangsregeling hoofdstuk 3, paragraaf 3.3 Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
+
+De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.16&z=2025-02-01&g=2025-02-01), de aanvulling van het veiligheids- en gezondheidsbeleid en -document, bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.17&z=2025-02-01&g=2025-02-01), de aanvulling van de risico-inventarisatie en -evaluatie, bedoeld in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.18&z=2025-02-01&g=2025-02-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.19&z=2025-02-01&g=2025-02-01), en de aanvulling van het noodplan, bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.20&z=2025-02-01&g=2025-02-01), worden door de werkgever vastgelegd en aan de toezichthouder gezonden:
 
 - a. voor installaties die bestaan op de dag voorafgaand aan de dag van inwerkingtreding, bedoeld in artikel II: uiterlijk 19 juli 2018;
 
 - b. voor installaties anders dan bedoeld in onderdeel a: voor de aanvang van de werkzaamheden.
 
-##### Artikel 9.4
-
-Vervallen
-
 ##### Artikel 9.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Arbeidsomstandighedenregeling.
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden gepubliceerd.
 
 ## Bijlage I. behorend bij [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.4&artikel=1.10&z=2003-07-25&g=2003-07-25)
 
@@ -6014,13 +6184,13 @@ Vervallen
 
 ### 10.3. Cesuur examen
 
-### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
+### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
 
 ### 10.3. Cesuur examen
 
 ### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
 
-De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
+Deel C van het examen bestaat uit vijf cases, waarvan één gebaseerd op een toetsterm uit het algemene deel en vier op toetstermen uit het specifieke deel (applicatie Pyrotechnische Speciale Effecten).
 
 ## Bijlage VI. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2003-07-25&g=2003-07-25)
 
@@ -6559,9 +6729,9 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.2a. Bepaling risico’s en grenzen
 
-1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2025-01-18&g=2025-01-18), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
+1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2025-02-01&g=2025-02-01), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
 
-2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2025-01-18&g=2025-01-18), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
+2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2025-02-01&g=2025-02-01), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -6653,7 +6823,7 @@ Voorbeeld 2: U heeft 10 ton van een stof in huis die valt onder categorie H2 tox
 
 ### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
 
-Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven waarvan er steeds een de beste keuze is. Dit geldt voor zowel het algemene deel van het theorie-examen, als voor beide applicaties (Groot Vuurwerk en Pyrotechnische Speciale Effecten).
+Deel C van het examen kan een of meerdere zogenaamde knock-out-onderdelen (KO) bevatten. Indien de examenkandidaat op een KO-onderdeel een vooraf gedefinieerde fatale fout maakt, wordt door de examinator een knock-out (KO) toegekend en is de kandidaat daarmee gezakt voor deel C van het examen. Een fatale fout is een handeling waardoor een onacceptabel risico kan ontstaan voor de werknemer (kandidaten) of diens omgeving.
 
 ## Bijlage XIB. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2003-09-01&g=2003-11-01)
 
@@ -6689,7 +6859,7 @@ Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven wa
 
 ##### Artikel 4.32h. Gelijkstelling vervangende producten
 
-Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2025-01-18&g=2025-01-18), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2025-01-18&g=2025-01-18), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2025-01-18&g=2025-01-18), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2025-01-18&g=2025-01-18), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2025-01-18&g=2025-01-18), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2025-01-18&g=2025-01-18) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2025-01-18&g=2025-01-18), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2025-02-01&g=2025-02-01), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2025-02-01&g=2025-02-01), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2025-02-01&g=2025-02-01), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2025-02-01&g=2025-02-01), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2025-02-01&g=2025-02-01), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2025-02-01&g=2025-02-01) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2025-02-01&g=2025-02-01), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 #### Paragraaf 4.4a. Nadere voorschriften over het werken met lood
 
@@ -6727,35 +6897,9 @@ De met een **asterisk** gemarkeerde bedrijfsmiddelen dienen, overeenkomstig de d
 
 De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de voorgaande Arbolijsten (1998 tot en met 2003) voorkwamen. Nieuwkomers op de lijst zijn met een **uitroepteken** gemarkeerd (ook bedrijfsmiddelen met een enigszins gewijzigde omschrijving zijn voorzien van een uitroepteken).
 
-### Bedrijfsmiddelen
+### Lijst van stoffen, behorend bij [artikel 2.3, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.3)
 
 ### Procedure wederzijds erkenning buitenlandse beroepskwalificaties
-
-**S.**Investeringen ter voorkoming dan wel vermindering van de blootstelling aan toxische en andere stoffen.
-
-De minister die het aangaat kan erkenning van beroepskwalificaties verlenen (Algemene wet erkenning EG-beroepskwalificaties art. 5, eerste lid ). Zulks ter uitvoering van de [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties. De minister van Sociale Zaken en Werkgelegenheid (SZW ) is verantwoordelijk voor de beroeps-kwalificaties betreffende de gezondheid en veiligheid op het werk. De minister van SZW heeft de erkenning van beroepskwalificaties aan de certificerende en keuringsinstanties (CKI’s) gedelegeerd. Een CKI moet daarom aan zich in Nederland vestigende of duurzaam werkzaam zijnde beroeps-beoefenaren uit andere EU-landen desgevraagd een erkenning van EG-beroepskwalificaties verlenen, mits zij voldoen aan de daartoe gestelde eisen. Bij EU-landen gaat het om lidstaten van de Europese Unie en andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en Zwitserland.
-
-De minister die het aangaat kan erkenning van beroepskwalificaties verlenen (Algemene wet erkenning EG-beroepskwalificaties art. 5, eerste lid ). Zulks ter uitvoering van de [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties. De minister van Sociale Zaken en Werkgelegenheid (SZW ) is verantwoordelijk voor de beroeps-kwalificaties betreffende de gezondheid en veiligheid op het werk. De minister van SZW heeft de erkenning van beroepskwalificaties aan de certificerende en keuringsinstanties (CKI’s) gedelegeerd. Een CKI moet daarom aan zich in Nederland vestigende of duurzaam werkzaam zijnde beroeps-beoefenaren uit andere EU-landen desgevraagd een erkenning van EG-beroepskwalificaties verlenen, mits zij voldoen aan de daartoe gestelde eisen. Bij EU-landen gaat het om lidstaten van de Europese Unie en andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en Zwitserland.
-
-De beroepskwalificaties betreffen het bezit van een door het Arbowet- en regelgeving vereist certificaat. De aanvrager moet aantonen dat hij aan de vereisten ten aanzien van oorsprong en herkomst voldoet door aan de CKI de benodigde documenten te overleggen. Hiertoe kunnen behoren een paspoort, Europees identiteitsbewijs en verblijfspapieren. De aanvrager kan volstaan met het overleggen van een duidelijk leesbare kopie van de documenten.
-
-De aanvrager moet voorts aantonen dat hij aan de vereisten van het gereglementeerde beroep of de beroepservaring voldoet door aan de CKI de benodigde documenten te overleggen. Hiertoe kunnen behoren een door het bevoegd gezag afgegeven bekwaamheidsattest of andere bewijsstukken ten aanzien van opleiding en beroepservaring. De aanvrager kan volstaan met het overleggen van een duidelijk leesbare kopie van de documenten.
-
-Komt de Arbeidsinspectie op een arbeids-/bouwplaats dan dient een werknemer (of zzp’er) als sprake is van een gereglementeerd beroep desgevraagd zijn certificaat te laten zien. Dat geldt ook voor de duurzaam in Nederland werkzame (buitenlandse) beroepsuitoefenaar of Nederlandse beroepsuitoefenaar met een buitenlands certificaat. Om die reden moet de duurzaam in Nederland werkzame (buitenlandse) beroepsuitoefenaar zich dan ook vooraf richten tot de CKI voor afgifte van een Nederlands certificaat. Verder geldt als regel dat de duurzaam in Nederland werkzame (buitenlandse) beroepsuitoefenaar over voldoende beheersing van de Nederlandse taal moet beschikken om:
-
-Indien slechts sprake is van incidentele, tijdelijke werkzaamheden hoeft de beroepsbeoefenaar geen erkenning van EG-beroepskwalificaties aan te vragen (Algemene wet erkenning EG-beroepskwalificaties art. 22), tenzij sprake is van een gereglementeerd beroep, waarvan op grond van artikel 27 eerste lid, van de Algemene wet erkenning EG-beroepskwalificaties is vastgesteld dat dit ernstige risico’s voor de publieke veiligheid en gezondheid kan opleveren. De tijdsduur bij welke werkzaamheden als tijdelijk, incidenteel kunnen worden aangemerkt is uitgewerkt in een handhavinginstructie van de Arbeidsinspectie.
-
-De CKI moet beschikken over een (op schrift gestelde) procedure waarin invulling is gegeven aan de navolgende eisen en waarbij rekening is gehouden met hetgeen bij de verschillende eisen als toelichting is opgenomen.
-
-Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze lijst, gelden de in kolom 2 van deel 1 van deze lijst opgenomen drempelwaarden.
-
-Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze lijst, gelden de in kolom 2 van deel 1 van deze lijst opgenomen drempelwaarden.
-
-Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze lijst, gelden de in kolom 2 van deel 1 van deze lijst opgenomen drempelwaarden.
-
-Wanneer een gevaarlijke stof onder deel 1 van deze lijst valt en ook is opgenomen in deel 2 van deze lijst, zijn de in de kolom 2 van deel 2 van deze lijst opgenomen drempelwaarden van toepassing.
-
-Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze lijst, gelden de in kolom 2 van deel 1 van deze lijst opgenomen drempelwaarden.
 
 Wanneer een gevaarlijke stof onder deel 1 van deze lijst valt en ook is opgenomen in deel 2 van deze lijst, zijn de in de kolom 2 van deel 2 van deze lijst opgenomen drempelwaarden van toepassing.
 
@@ -6783,7 +6927,7 @@ Deze regel wordt gebruikt ter beoordeling van de gezondheidsgevaren en fysische 
 
 De desbetreffende bepalingen van [Afdeling 2 van hoofdstuk 2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2) zijn van toepassing zodra het sommeringsresultaat van a) of b) groter is dan of gelijk is aan 1.
 
-In de oude ARIE-regeling werden stoffen ingedeeld in vier categorieën stoffen, te weten ARIE ontplofbaar, ARIE brandbaar, ARIE toxisch en ARIE extreem toxisch. Categorisering vond plaats door middel van een rekenmethode (onder meer op basis van omstandigheidsfactoren) die als te moeilijk werd ervaren. Bovendien sloot deze aanwijssystematiek niet meer aan op de CLP-verordening [(Verordening (EG) nr. 1272/2008](32008R1272), PbEG 2008, L 353), die oudere EU-wetgeving afstemt op het wereldwijd geharmoniseerde systeem voor de indeling en etikettering van chemische stoffen, dat in 2009 in werking is getreden. Ook het [Brzo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) en het [Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) hanteren CLP-categorieën in combinatie met drempelwaarden. Daarmee was aanpassing van de ARIE-regeling op dit systeem vereist.
+Wanneer een gevaarlijke stof onder deel 1 van deze lijst valt en ook is opgenomen in deel 2 van deze lijst, zijn de in de kolom 2 van deel 2 van deze lijst opgenomen drempelwaarden van toepassing.
 
 Zoals al is aangegeven in het algemeen deel van de nota van toelichting behorend bij het [besluit van 13 december 2022 (Stb. 2022 nr. 501), houdende wijziging van het Arbeidsomstandighedenbesluit in verband met een nieuwe opzet van de aanvullende risico-inventarisatie en -evaluatie inzake zware ongevallen met gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0047619) is wijziging van de oude ARIE-aanwijssystematiek en aansluiting op CLP-drempelwaarden en de systematiek van het [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) (hierna Brzo 2015) of het naar verwachting per 1 juli 2023 in werking tredende [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) (hierna: Bal) noodzakelijk.
 
@@ -6799,11 +6943,37 @@ Ten slotte bevat deel 3 van de lijst van stoffen de zogenoemde sommatieregel. Da
 
 Ondanks het feit dat getracht is de bedrijven uit de oude ARIE-systematiek zoveel mogelijk aan te laten sluiten op de nieuwe ARIE-systematiek, zullen sommige bedrijven en inrichtingen die onder de oude ARIE-regeling vielen niet meer onder de nieuwe regeling vallen, en andersom.
 
-In dit deel van de bijlage vindt u de CLP-categorieën stoffen met daarbij behorende drempelwaarden. Als een stof in uw bedrijf of inrichting aanwezig is – of die wordt verwacht aanwezig te zijn binnen uw bedrijf of inrichting – die valt onder een CLP-categorie opgenomen in deze lijst, en waarvan de hoeveelheid hoger is dan de aangegeven drempelwaarde in deze lijst, dan is uw bedrijf of inrichting ARIE-plichtig. U moet uw bedrijf of inrichting dan melden als ARIE-plichtig, en aan de bijbehorende verplichtingen voldoen.
+q1/QU1 + q2/QU2 + q3/QU3 + q4/QU4 + q5/QU5 + … groter is dan of gelijk is aan 1,
 
 Hieronder wordt kort aan de hand van voorbeelden beschreven hoe kan worden aflezen of uw bedrijf onder de ARIE-regeling valt.
 
+en QUX = de voor gevaarlijke stof x of categorie x in kolom 2 van deel 1 of van deel 2 van deze bijlage relevante drempelwaarde.
+
+In dit deel van de bijlage vindt u de CLP-categorieën stoffen met daarbij behorende drempelwaarden. Als een stof in uw bedrijf of inrichting aanwezig is – of die wordt verwacht aanwezig te zijn binnen uw bedrijf of inrichting – die valt onder een CLP-categorie opgenomen in deze lijst, en waarvan de hoeveelheid hoger is dan de aangegeven drempelwaarde in deze lijst, dan is uw bedrijf of inrichting ARIE-plichtig. U moet uw bedrijf of inrichting dan melden als ARIE-plichtig, en aan de bijbehorende verplichtingen voldoen.
+
 Voorbeeld 1: U heeft 2 ton van een stof in huis die valt onder categorie H1 acuut toxisch categorie 1. De drempelwaarde van deze categorie is 1,5 ton. Dat betekent dat de hoeveelheid stof de drempelwaarde overstijgt. Uw bedrijf of inrichting is dus ARIE-plichtig.
+
+Voorbeeld 2: U heeft 10 ton van een stof in huis die valt onder categorie H2 toxisch acute toxiciteit categorie 2. Verder heeft u geen andere stoffen in huis die in deel 1 en deel 2 van bijlage 0 staan. De drempelwaarde van deze categorie is 15 ton. Dat betekent dat de hoeveelheid stof de drempelwaarde NIET overschrijdt. Uw bedrijf of inrichting is dus niet ARIE-plichtig.
+
+Zoals al is aangegeven in het algemeen deel van de nota van toelichting behorend bij het [besluit van 13 december 2022 (Stb. 2022 nr. 501), houdende wijziging van het Arbeidsomstandighedenbesluit in verband met een nieuwe opzet van de aanvullende risico-inventarisatie en -evaluatie inzake zware ongevallen met gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0047619) is wijziging van de oude ARIE-aanwijssystematiek en aansluiting op CLP-drempelwaarden en de systematiek van het [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) (hierna Brzo 2015) of het naar verwachting per 1 juli 2023 in werking tredende [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) (hierna: Bal) noodzakelijk.
+
+In dit deel van de bijlage vindt u specifiek met naam genoemde stoffen met daarbij behorende drempelwaarden. Als één van deze stoffen in uw bedrijf of inrichting aanwezig is – of die wordt verwacht aanwezig te zijn binnen uw bedrijf of inrichting – en waarvan de hoeveelheid hoger is dan de aangegeven drempelwaarde in deze lijst, dan is uw bedrijf of inrichting ARIE-plichtig. Deze stoffen kunnen dus ook onder een CLP-categorie vallen die opgenomen is in deel 1; maar u dient dus de drempelwaarde te hanteren die in deel 2 staat.
+
+Voorbeeld 3: U heeft 7 ton Broom in huis. De drempelwaarde van Broom is 6 ton. Dat betekent dat de hoeveelheid stof de drempelwaarde overstijgt. Uw bedrijf of inrichting is dus ARIE-plichtig.
+
+Het RIVM heeft in 2011 een [rapport](https://www.rivm.nl/bibliotheek/rapporten/620870001.pdf) geschreven, dat tijdens het herzieningstraject als hulpmiddel is gebruikt om de terminologie uit de oude ARIE-regeling af te stemmen op het nieuwe CLP-stelsel. Op basis van dit rapport is tijdens het herzieningstraject een nieuwe lijst ontwikkeld, waarbij gepoogd is de categorieën uit de oude ARIE-regeling zoveel mogelijk te vertalen naar de geldende CLP-categorieën. Het uitgangspunt is telkens het acuut gevaaraspect voor de gezondheid en veiligheid van werknemers geweest. Vanwege het gevaar dat deze stoffen kunnen vormen voor de gezondheid en veiligheid van werknemers, worden ook de CLP-categorieën huidcorrosie categorie 1, sub 1A, 1B en 1C meegenomen in de ARIE. Deze vallen niet onder het [Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330), maar worden door het RIVM-rapport aangewezen als hoog-relevant omdat ze wel een risico vormen voor de gezondheid en veiligheid van werknemers, vanwege inhalatie van corrosieve dampen en chemische brandwonden kunnen veroorzaken.
+
+In dit deel van de bijlage vindt u de sommatieregel. Hierin wordt uitgelegd hoe u verschillende stoffen die aanwezig (kunnen) zijn in uw bedrijf of inrichting bij elkaar moet optellen, indien ze niet afzonderlijk boven de drempelwaarde vallen. U dient de aanwezige hoeveelheid van een CLP-categorie of de afzonderlijke stof te delen door de drempelwaarde van die categorie/stof. Dat doet u afzonderlijk voor iedere categorie of stof die in deel 1 of 2 in de bijlage staat. Daarna telt u deze uitkomsten bij elkaar op (q1/QU1 + q2/QU2 +.). Is de uitkomst gelijk aan of groter dan 1, dan is uw bedrijf of inrichting ARIE-plichtig. Is de uitkomst kleiner dan 1, dan is uw bedrijf niet ARIE-plichtig.
+
+Voorbeeld 4: U heeft de volgende stoffen/categorie stoffen met bijbehorende hoeveelheid in uw bedrijf/inrichting:
+
+Elk van deze afzonderlijke stoffen komt niet boven de gestelde drempelwaarde uit, maar het zijn wel alle drie ARIE-stoffen. Hierdoor dient er een sommatieberekening te worden uitgevoerd:
+
+q1/QU1 + q2/QU2 + q3/QU3
+
+waarbij qx = de hoeveelheid van gevaarlijke stof x of de hoeveelheid gevaarlijke stoffen van categorie x uit deel 1 of deel 2 van deze bijlage, en QUX = de voor gevaarlijke stof x of categorie x in kolom 2 van deel 1 of van deel 2 van deze bijlage relevante drempelwaarde.
+
+10/15 + 1/3 + 1/1,5 = 1,65 > 1, dus uw bedrijf of inrichting is ARIE-plichtig.
 
 In dit deel van de bijlage vindt u de CLP-categorieën stoffen met daarbij behorende drempelwaarden. Als een stof in uw bedrijf of inrichting aanwezig is – of die wordt verwacht aanwezig te zijn binnen uw bedrijf of inrichting – die valt onder een CLP-categorie opgenomen in deze lijst, en waarvan de hoeveelheid hoger is dan de aangegeven drempelwaarde in deze lijst, dan is uw bedrijf of inrichting ARIE-plichtig. U moet uw bedrijf of inrichting dan melden als ARIE-plichtig, en aan de bijbehorende verplichtingen voldoen.
 
@@ -6841,13 +7011,13 @@ De CKI onderzoekt tenminste jaarlijks de eerlijkheid, validiteit en betrouwbaarh
 
 Deze certificatieregeling is opgesteld door het betreffende Centraal College van Deskundigen (CCvD ARBO) van de Beheerstichting Certificatie van Deskundigen (stichting BCD). Het schema is door het ministerie van SZW vastgesteld. Pas na vaststelling van deze regeling door de minister van SZW mag de certificatieregeling door de certificatie-instellingen worden toegepast.
 
-Bij de uitvoering van het werkveldspecifieke certificatieschema Vuurwerkdeskundige is het navolgende certificatiepersoneel betrokken.
+Document: WDAT-VD
 
-Beoordelaar exameninstelling Vuurwerkdeskundige: Deze onderzoekt door middel van audits of exameninstellingen voldoen aan de van toepassing zijnde eisen uit het werkveldspecifieke certificatieschema Vuurwerkdeskundige en rapporteert zijn/haar bevindingen en conclusies schriftelijk aan de beslisser (zie onder).
+**INHOUD**
 
 Beoordelaar persoonscertificaat Vuurwerkdeskundige: Deze beoordeelt op basis van de door exameninstellingen aangeleverde examenresultaten of kandidaten in aanmerking komen voor een persoonscertificaat Vuurwerkdeskundigen rapporteert zijn/haar bevindingen en conclusies schriftelijk aan de beslisser (zie hieronder).
 
-Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige: Deze besluit, op basis van de rapportages van de beoordelaar exameninstelling en de beoordelaar persoonscertificaat, tot het al dan niet accepteren van een exameninstelling voor het certificatieschema Vuurwerkdeskundige, respectievelijk het al dan niet toekennen van een persoonscertificaat Vuurwerkdeskundige aan een aanvrager.
+Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van vuurwerkdeskundigen. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
 De aan dit personeel gestelde eisen zijn hierna weergegeven.
 
@@ -6855,39 +7025,13 @@ Beoordelaar exameninstelling Vuurwerkdeskundige
 
 Beoordelaar persoonscertificaat Vuurwerkdeskundige
 
-Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige
+Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
 Kortdurende afwezigheid van de adviseur kan daarom het niveau van de arbeidsomstandigheden niet aantasten. Dat maakt dat het directe afbreukrisico gering is.
 
-Document: WDAT-VD
-
-Document: WDAT-VD
-
-Document: WDAT-VD
-
-**INHOUD**
-
-Document: WDAT-VD
-
-**INHOUD**
-
-De CKI is ervoor verantwoordelijk dat elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling de beschikking heeft over een schriftelijke instructie, met daarin diens taken en verantwoordelijkheden. Deze instructies worden actueel gehouden.
-
-Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van vuurwerkdeskundigen. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
-
-Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
-Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
 Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
 
-Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
-Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
-
-Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
-
-In het beleid en de procedures van de CKI moet zijn vastgelegd dat alle aanvragers van het persoonscertificaat eerlijk en gelijk worden behandeld. De CKI dient zich hierbij te houden aan hetgeen is gesteld in de certificatie-eisen en het certificatiereglement. Het is de CKI verboden aanvragers van het certificaat de toegang tot de certificatieprocedure te verhinderen of belemmeren. Besluiten van de CKI moeten zijn gebaseerd op objectief bewijs van (non-)conformiteit in relatie tot de certificatie-eisen en niet worden beïnvloed door andere belangen of andere partijen.
+Document: WDAT-VD
 
 Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
 
@@ -6907,13 +7051,13 @@ Ten behoeve van het certificatieproces, moet de CKI kunnen beschikken over perso
 
 Partijen die belang hebben bij certificatie verwachten dat klachten worden onderzocht en dat deze, als ze terecht zijn, worden gevolgd door passende maatregelen. Een effectieve klachtenbehandeling is van belang voor de bescherming van de CKI, diens klanten en andere belanghebbenden bij certificatie tegen fouten, omissies of onredelijk gedrag. Het vertrouwen dat door belanghebbenden wordt gesteld in certificatie, is mede hiervan afhankelijk.
 
+Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
+
+Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
+
 Voor het beoordelen en aanwijzen van CKI’s voor het WSCS-VD gelden de eisen van NEN-EN-ISO/IEC 17024:2012, alsmede de eisen die gesteld worden aan de CKI op grond van aanwijzing. Voor zover in dit WDAT-VD niet wordt afgeweken van resp. een nadere uitwerking wordt gegeven van de accreditatienorm NEN-EN-ISO/IEC 17024:2012, wordt deze norm geacht onverkort van toepassing te zijn.
 
-De CKI verplicht zich op grond van de overeenkomst met de SCVE tot het gebruik van het door de SCVE vastgestelde CCvD (en door SZW geaccordeerde en in regelgeving verankerde) schema’s voor Vuurwerkdeskundige. Het CCvD behartigt de belangen van alle bij het werkveld Vuurwerkdeskundige betrokken partijen (aanbieders en afnemers van het certificaat, overheden, CKI’s, exameninstellingen) op een eerlijke en gelijke wijze, zonder dat enig belang de overhand heeft. Het CCvD ontwikkelt, beheert en onderhoudt het Schema voor aanwijzing en toezicht alsmede het werkveldspecifieke certificatieschema Vuurwerkdeskundige. De CKI past het certificatieschema dat door het CCvD wordt beheerd onverkort toe.
-
-Voor het beoordelen en aanwijzen van CKI’s voor het WSCS-VD gelden de eisen van NEN-EN-ISO/IEC 17024:2012, alsmede de eisen die gesteld worden aan de CKI op grond van aanwijzing. Voor zover in dit WDAT-VD niet wordt afgeweken van resp. een nadere uitwerking wordt gegeven van de accreditatienorm NEN-EN-ISO/IEC 17024:2012, wordt deze norm geacht onverkort van toepassing te zijn.
-
-In NEN-EN-ISO/IEC 17024:2012 wordt aangegeven dat het scheme committee (CCvD) zelf kan bepalen op welke wijze bepaalde elementen uit het werkveldspecifieke certificatieschema Vuurwerkdeskundige gewijzigd kunnen gaan worden. In onderhavig geval is de navolgende, hiervan afwijkende, regeling met betrekking tot wijzigingen van toepassing.
+In het beleid en de procedures van de CKI moet zijn vastgelegd dat alle aanvragers van het persoonscertificaat eerlijk en gelijk worden behandeld. De CKI dient zich hierbij te houden aan hetgeen is gesteld in de certificatie-eisen en het certificatiereglement. Het is de CKI verboden aanvragers van het certificaat de toegang tot de certificatieprocedure te verhinderen of belemmeren. Besluiten van de CKI moeten zijn gebaseerd op objectief bewijs van (non-)conformiteit in relatie tot de certificatie-eisen en niet worden beïnvloed door andere belangen of andere partijen.
 
 De CKI verplicht zich op grond van de overeenkomst met de SCVE tot het gebruik van het door de SCVE vastgestelde CCvD (en door SZW geaccordeerde en in regelgeving verankerde) schema’s voor Vuurwerkdeskundige. Het CCvD behartigt de belangen van alle bij het werkveld Vuurwerkdeskundige betrokken partijen (aanbieders en afnemers van het certificaat, overheden, CKI’s, exameninstellingen) op een eerlijke en gelijke wijze, zonder dat enig belang de overhand heeft. Het CCvD ontwikkelt, beheert en onderhoudt het Schema voor aanwijzing en toezicht alsmede het werkveldspecifieke certificatieschema Vuurwerkdeskundige. De CKI past het certificatieschema dat door het CCvD wordt beheerd onverkort toe.
 
@@ -6921,13 +7065,13 @@ In NEN-EN-ISO/IEC 17024:2012 wordt aangegeven dat het scheme committee (CCvD) ze
 
 Na de acceptatie in het CCvD van wijzigingen in het WSCS, biedt het CCvD het gewijzigde schema aan aan de minister van SZW. De Minister verklaart vervolgens het schema verbindend door middel van een statische verwijzing in de wet- en regelgeving. Indien de Minister overwegende bezwaren heeft tegen één of meer onderdelen treedt hij daarover in overleg met het CCvD. Het CCvD kan de schema’s vervolgens aanpassen. Indien het CCvD zich niet kan vinden in de bezwaren van minister zal zij dit met redenen omkleed aan de minister duidelijk maken. De Minister neemt vervolgens een besluit.
 
-Voorschriften met betrekking tot het handelen van certificaathouders zijn vastgelegd in de Gedragscode Vuurwerkdeskundige, zoals opgenomen in bijlage A van het WSCS-VD. De aanvrager / certificaathouder Vuurwerkdeskundige dient zich hieraan bij certificatie en hercertificatie schriftelijk te conformeren.
+De CKI beschikt over beleid en procedures met betrekking tot het toekennen, handhaven, herverstrekken, opschorten en intrekken van het persoonscertificaat Vuurwerkdeskundige, alsmede met betrekking tot het uitbreiden of beperken van het toepassingsgebied van het persoonscertificaat.
 
 Specifiek voor het WSCS-VD, dient de CKI een klachtenregeling en een bezwaarprocedure vast te stellen. Deze regelingen moeten voldoen aan het in het WSCS-VD gestelde. De regelingen dienen te waarborgen dat bezwaarschriften en klachten op een onafhankelijke en onbevooroordeelde wijze worden afgehandeld.
 
 Voorschriften met betrekking tot het handelen van certificaathouders zijn vastgelegd in de Gedragscode Vuurwerkdeskundige, zoals opgenomen in bijlage A van het WSCS-VD. De aanvrager / certificaathouder Vuurwerkdeskundige dient zich hieraan bij certificatie en hercertificatie schriftelijk te conformeren.
 
-Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van toepassing zijnde overgangsregeling, worden door de CKI bekend gemaakt aan de certificaathouders, bijvoorbeeld door publicatie ervan. De CKI waarborgt dat alle certificaathouders binnen de overgangstermijn worden onderzocht op conformiteit met de gewijzigde certificatie-eisen. De CKI waarborgt dat toegang tot de certificatieprocedure niet wordt beperkt of belemmerd op basis van ongepaste financiële of andere voorwaarden, zoals het lidmaatschap van een beroepsvereniging. De CKI maakt tijdens het certificatieproces geen onderscheid tussen aanvragers van het certificaat Vuurwerkdeskundige, op basis van het feit of deze al dan niet een opleiding of training op het gebied van professioneel vuurwerk hebben gevolgd.
+Om het vertrouwen in certificatie te waarborgen, moet de CKI ervoor zorg dragen dat niet-vertrouwelijke informatie over het certificatieproces (bijvoorbeeld onderzoek naar aanleiding van klachten) toegankelijk is voor partijen die daar belang in stellen.
 
 De toetsmethodiek die wordt toegepast bij het bepalen van de competentie van aanvragers van het persoonscertificaat Vuurwerkdeskundige, is beschreven in de hoofdstukken 9 tot en met 11 van het WSCS-VD. Op basis van rapportages van de CKI (zie verder), bepaalt het CCvD tenminste jaarlijks de voortdurend de eerlijkheid, validiteit, betrouwbaarheid en actualiteit van de toetsmethodiek.
 
@@ -6935,7 +7079,7 @@ Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van t
 
 De CKI onderzoekt tenminste jaarlijks de eerlijkheid, validiteit en betrouwbaarheid van de examenmethodiek, en rapporteert hierover schriftelijk aan het CCvD Vuurwerkdeskundige. De CKI dient voor dit onderzoek te beschikken over een beschrijving van de toegepaste methoden (zoals het verzamelen en bewaren van statistische gegevens). In de rapportage beschrijft de CKI verder het algehele verloop van elk examen en op welke wijze eventuele afwijkingen die zich daarbij hebben voorgedaan zijn gecorrigeerd.
 
-Beoordelaar exameninstelling Vuurwerkdeskundige: Deze onderzoekt door middel van audits of exameninstellingen voldoen aan de van toepassing zijnde eisen uit het werkveldspecifieke certificatieschema Vuurwerkdeskundige en rapporteert zijn/haar bevindingen en conclusies schriftelijk aan de beslisser (zie onder).
+De CKI verplicht zich op grond van de overeenkomst met de SCVE tot het gebruik van het door de SCVE vastgestelde CCvD (en door SZW geaccordeerde en in regelgeving verankerde) schema’s voor Vuurwerkdeskundige. Het CCvD behartigt de belangen van alle bij het werkveld Vuurwerkdeskundige betrokken partijen (aanbieders en afnemers van het certificaat, overheden, CKI’s, exameninstellingen) op een eerlijke en gelijke wijze, zonder dat enig belang de overhand heeft. Het CCvD ontwikkelt, beheert en onderhoudt het Schema voor aanwijzing en toezicht alsmede het werkveldspecifieke certificatieschema Vuurwerkdeskundige. De CKI past het certificatieschema dat door het CCvD wordt beheerd onverkort toe.
 
 Bij de uitvoering van het werkveldspecifieke certificatieschema Vuurwerkdeskundige is het navolgende certificatiepersoneel betrokken.
 
@@ -6953,19 +7097,19 @@ Beoordelaar persoonscertificaat Vuurwerkdeskundige
 
 Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige
 
-Alvorens tot acceptatie van een exameninstelling over te gaan, beoordeelt de CKI deze op het voldoen aan de eisen uit de paragrafen 5.2 tot en met 5.5 van het WSCS SCVE-VD. De resultaten en conclusies van deze beoordeling legt de CKI schriftelijk vast. De CKI herhaalt deze beoordeling van de exameninstelling tenminste jaarlijks. Ook woont de CKI tenminste jaarlijks een examen Vuurwerkdeskundige van de exameninstelling bij en legt de resultaten en conclusies hiervan schriftelijk vast. Indien door de CKI tijdens een beoordeling van de exameninstelling of bijwoning van een examen Vuurwerkdeskundige wordt vastgesteld dat niet wordt voldaan aan de gestelde eisen, dient de exameninstelling corrigerende maatregelen door te voeren, ten einde de vastgestelde afwijking te corrigeren en herhaling te voorkomen. De maximale termijn voor het doorvoeren van corrigerende maatregelen bedraagt drie maanden, met dien verstande dat dit te allen tijde vóór het eerstvolgende examen Vuurwerkdeskundige dient plaats te vinden.
+Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van toepassing zijnde overgangsregeling, worden door de CKI bekend gemaakt aan de certificaathouders, bijvoorbeeld door publicatie ervan. De CKI waarborgt dat alle certificaathouders binnen de overgangstermijn worden onderzocht op conformiteit met de gewijzigde certificatie-eisen. De CKI waarborgt dat toegang tot de certificatieprocedure niet wordt beperkt of belemmerd op basis van ongepaste financiële of andere voorwaarden, zoals het lidmaatschap van een beroepsvereniging. De CKI maakt tijdens het certificatieproces geen onderscheid tussen aanvragers van het certificaat Vuurwerkdeskundige, op basis van het feit of deze al dan niet een opleiding of training op het gebied van professioneel vuurwerk hebben gevolgd.
 
 Een CKI is bevoegd om, met inachtneming van de door SZW aan de aanwijzing van die CKI verbonden eisen, het ontwikkelen en afnemen van examens Vuurwerkdeskundige door externe exameninstellingen te laten verrichten. Hiertoe dient een schriftelijke overeenkomst tot uitbesteding te worden gesloten waarin de taken, bevoegdheden en verantwoordelijkheden van de CKI en de exameninstelling zijn opgenomen. Ingeval van uitbesteding aanvaardt de CKI de volledige eindverantwoordelijkheid voor de uitbestede werkzaamheden. De CKI verstrekt aan SCVE te allen tijde een accurate lijst van onderaannemers in het kader van de persoonscertificatieschema Vuurwerkdeskundige.
 
 Alvorens tot acceptatie van een exameninstelling over te gaan, beoordeelt de CKI deze op het voldoen aan de eisen uit de paragrafen 5.2 tot en met 5.5 van het WSCS SCVE-VD. De resultaten en conclusies van deze beoordeling legt de CKI schriftelijk vast. De CKI herhaalt deze beoordeling van de exameninstelling tenminste jaarlijks. Ook woont de CKI tenminste jaarlijks een examen Vuurwerkdeskundige van de exameninstelling bij en legt de resultaten en conclusies hiervan schriftelijk vast. Indien door de CKI tijdens een beoordeling van de exameninstelling of bijwoning van een examen Vuurwerkdeskundige wordt vastgesteld dat niet wordt voldaan aan de gestelde eisen, dient de exameninstelling corrigerende maatregelen door te voeren, ten einde de vastgestelde afwijking te corrigeren en herhaling te voorkomen. De maximale termijn voor het doorvoeren van corrigerende maatregelen bedraagt drie maanden, met dien verstande dat dit te allen tijde vóór het eerstvolgende examen Vuurwerkdeskundige dient plaats te vinden.
 
-Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
+De CKI onderzoekt tenminste jaarlijks de eerlijkheid, validiteit en betrouwbaarheid van de examenmethodiek, en rapporteert hierover schriftelijk aan het CCvD Vuurwerkdeskundige. De CKI dient voor dit onderzoek te beschikken over een beschrijving van de toegepaste methoden (zoals het verzamelen en bewaren van statistische gegevens). In de rapportage beschrijft de CKI verder het algehele verloop van elk examen en op welke wijze eventuele afwijkingen die zich daarbij hebben voorgedaan zijn gecorrigeerd.
 
 De eisen die gelden voor examenpersoneel zijn vastgelegd in paragraaf 5.3 van het WSCS SCVE-VD. Het examenpersoneel wordt voor aanstelling door de CKI beoordeeld op het voldoen aan deze eisen. Registraties van deze beoordeling worden door de CKI bewaard in het personeelsdossier van de betreffende medewerker van de exameninstelling.
 
 Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
 
-Personeel van de CKI en de exameninstelling dat is betrokken bij het certificatieschema Vuurwerkdeskundige, dient een verklaring te ondertekenen, waarin zij te kennen geven de instructies van de CKI te zullen naleven, met inbegrip van die met betrekking tot vertrouwelijkheid en onafhankelijkheid van commerciële of andere belangen. Ook dienen zij te verklaren geen banden te hebben of te hebben gehad met aanvragers van het certificaat Vuurwerkdeskundige en examenkandidaten, waardoor hun onpartijdigheid in het geding zou kunnen komen.
+Beoordelaar exameninstelling Vuurwerkdeskundige: Deze onderzoekt door middel van audits of exameninstellingen voldoen aan de van toepassing zijnde eisen uit het werkveldspecifieke certificatieschema Vuurwerkdeskundige en rapporteert zijn/haar bevindingen en conclusies schriftelijk aan de beslisser (zie onder).
 
 De CKI is ervoor verantwoordelijk dat elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling de beschikking heeft over een schriftelijke instructie, met daarin diens taken en verantwoordelijkheden. Deze instructies worden actueel gehouden.
 
@@ -6973,55 +7117,55 @@ Personeel van de CKI en de exameninstelling dat is betrokken bij het certificati
 
 Mocht zich onverhoopt een mogelijke belangenverstrengeling voordoen, dan is de examinator in kwestie verplicht dit onverwijld te melden aan de CKI. De CKI neemt in dat geval maatregelen om te voorkomen dat de vertrouwelijkheid en onpartijdigheid van het examen niet in gevaar komt. Dit houdt in dat de examenkandidaat in kwestie wordt beoordeeld door een andere examinator. Dit wordt schriftelijk vastgelegd in het examenverslag.
 
-In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+Beoordelaar exameninstelling Vuurwerkdeskundige
 
 De CKI beschikt over een actueel dossier van elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling. Dit dossier is toegankelijk voor de persoon in kwestie en bevat de volgende informatie:
 
-De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
+Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige
 
 In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
 
+Een CKI is bevoegd om, met inachtneming van de door SZW aan de aanwijzing van die CKI verbonden eisen, het ontwikkelen en afnemen van examens Vuurwerkdeskundige door externe exameninstellingen te laten verrichten. Hiertoe dient een schriftelijke overeenkomst tot uitbesteding te worden gesloten waarin de taken, bevoegdheden en verantwoordelijkheden van de CKI en de exameninstelling zijn opgenomen. Ingeval van uitbesteding aanvaardt de CKI de volledige eindverantwoordelijkheid voor de uitbestede werkzaamheden. De CKI verstrekt aan SCVE te allen tijde een accurate lijst van onderaannemers in het kader van de persoonscertificatieschema Vuurwerkdeskundige.
+
+De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
+
+Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
+
 De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
+
+Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
+
+De CKI dient certificaathouders Vuurwerkdeskundige aantoonbaar te informeren over de voorschriften met betrekking tot het gebruik van het persoonscertificaat Vuurwerkdeskundige en de hierbij behorende logo’s/merktekens. Deze voorschriften moeten schriftelijk zijn vastgelegd en deel uitmaken van de certificatieovereenkomst tussen beide partijen. Hierin moeten tevens de sancties worden beschreven die gelden bij onjuist gebruik van certificaten en/of logo’s/merktekens, zoals opschorting of intrekking van het persoonscertificaat Vuurwerkdeskundige.
+
+De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
+
+Personeel van de CKI en de exameninstelling dat is betrokken bij het certificatieschema Vuurwerkdeskundige, dient een verklaring te ondertekenen, waarin zij te kennen geven de instructies van de CKI te zullen naleven, met inbegrip van die met betrekking tot vertrouwelijkheid en onafhankelijkheid van commerciële of andere belangen. Ook dienen zij te verklaren geen banden te hebben of te hebben gehad met aanvragers van het certificaat Vuurwerkdeskundige en examenkandidaten, waardoor hun onpartijdigheid in het geding zou kunnen komen.
+
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
+
+In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2025-02-01&g=2025-02-01) Arboregeling.
+
+Ten behoeve van de informatieverzameling dient de CKI kosteloos:
+
+In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
 De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
 
 De CKI dient certificaathouders Vuurwerkdeskundige aantoonbaar te informeren over de voorschriften met betrekking tot het gebruik van het persoonscertificaat Vuurwerkdeskundige en de hierbij behorende logo’s/merktekens. Deze voorschriften moeten schriftelijk zijn vastgelegd en deel uitmaken van de certificatieovereenkomst tussen beide partijen. Hierin moeten tevens de sancties worden beschreven die gelden bij onjuist gebruik van certificaten en/of logo’s/merktekens, zoals opschorting of intrekking van het persoonscertificaat Vuurwerkdeskundige.
 
-De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
+Document: WSCS-VD
 
-De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
+**INHOUD**
 
 De CKI dient certificaathouders Vuurwerkdeskundige aantoonbaar te informeren over de voorschriften met betrekking tot het gebruik van het persoonscertificaat Vuurwerkdeskundige en de hierbij behorende logo’s/merktekens. Deze voorschriften moeten schriftelijk zijn vastgelegd en deel uitmaken van de certificatieovereenkomst tussen beide partijen. Hierin moeten tevens de sancties worden beschreven die gelden bij onjuist gebruik van certificaten en/of logo’s/merktekens, zoals opschorting of intrekking van het persoonscertificaat Vuurwerkdeskundige.
 
-De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
-
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2024-04-19&g=2024-04-19) Arboregeling.
-
-De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
-
-Ten behoeve van de informatieverzameling dient de CKI kosteloos:
-
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2025-01-18&g=2025-01-18) Arboregeling.
-
-Ten behoeve van de informatieverzameling dient de CKI kosteloos:
-
-Document: WSCS-VD
-
-Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
-
-Document: WSCS-VD
-
-**INHOUD**
-
-Document: WSCS-VD
-
-**INHOUD**
-
-Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
-
 Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
-Door het ministerie van SZW is het schema vastgesteld. Dit vastgestelde schema vervangt daarmee eerdere versies.
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2024-04-19&g=2024-04-19) Arboregeling.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
 
@@ -7031,21 +7175,21 @@ De te certificeren vakbekwaamheid betreft:
 
 Het certificatiesysteem van de Certificatie Instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EV-ISO/IEC 17024:2012 en IAF GD 24:2004.
 
+Document: WSCS-VD
+
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
+
 Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
+
+**INHOUD**
 
 Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
-Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
+**INHOUD**
 
 Binnen het kader van dit certificatieschema zijn actief:
 
-Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
-Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
-
-Binnen het kader van dit certificatieschema zijn actief:
-
-De volgende taken komen voor bij het professioneel werken met vuurwerk:
+Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
 Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
 
@@ -7055,37 +7199,37 @@ De belangrijkste risico’s bij het werken met vuurwerk zijn verwonding of schad
 
 Andere risico’s die zich voordoen bij het werken met vuurwerk zijn:
 
+Het certificatiesysteem van de Certificatie Instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EV-ISO/IEC 17024:2012 en IAF GD 24:2004.
+
+Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
+
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
+
+Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
 
 De kandidaat Vuurwerkdeskundige dient bij de CKI, in overeenstemming met dit certificatiereglement, een aanvraag in voor het persoonscertificaat Vuurwerkdeskundige. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
+Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
 De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrok- ken is geweest bij de beoordeling van de kandidaten en daartoe is gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de CKI heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-De kandidaat Vuurwerkdeskundige dient bij de CKI, in overeenstemming met dit certificatiereglement, een aanvraag in voor het persoonscertificaat Vuurwerkdeskundige. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
+Binnen het kader van dit certificatieschema zijn actief:
 
 Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in paragraaf 3.3. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis de maximale geldigheidsduur van het persoonscertificaat Vuurwerkdeskundige. Deze is door het CCvD-VD vastgesteld op 3 jaar.
 
-De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrok- ken is geweest bij de beoordeling van de kandidaten en daartoe is gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de CKI heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
+Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
 
 Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop daarop door de CKI toegezien dient te worden, worden opgesteld door het CCvD-VD en vastgelegd in dit certificatieschema.
 
-Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in paragraaf 3.3. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis de maximale geldigheidsduur van het persoonscertificaat Vuurwerkdeskundige. Deze is door het CCvD-VD vastgesteld op 3 jaar.
+De belangrijkste risico’s bij het werken met vuurwerk zijn verwonding of schade door brand en/of explosie als gevolg van een voortijdige en onbedoelde ontbranding. Deze risico’s komen voort uit de chemische reacties tussen de uitgangsstoffen in vuurwerk. Deze kunnen ‘normaal’ verbranden, maar ook deflagreren, dat wil zeggen explosief verbranden. Bij de explosie verbranding (deflagratie), die vele malen sneller verloopt dan een gewone verbranding, treden drukeffecten op omdat in een zeer korte tijd grote hoeveelheden hete gassen worden geproduceerd. Wanneer dit plaatsvindt in een afgesloten houder, dan kan de druk zo hoog oplopen dat de houder explodeert. Wanneer dit voortijdig en onbedoeld gebeurt, dan is de kans op verwonding of schade door brand en/of explosie het grootst. Aangezien een voortijdige ontbranding door een voldoende, maar onbedoelde, uitwendige energietoevoer gestart kan worden (hitte, wrijving, slag of stoot), dient deze onbedoelde energietoevoer bij de omgang en behandeling van vuurwerk voorkomen te worden.
 
-Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
-
-Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop daarop door de CKI toegezien dient te worden, worden opgesteld door het CCvD-VD en vastgelegd in dit certificatieschema.
+Andere risico’s die zich voordoen bij het werken met vuurwerk zijn:
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
-
-Aan een CKI worden onder meer de volgende eisen gesteld:
-
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7113,9 +7257,9 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
-Algemeen:
+Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
@@ -7123,77 +7267,77 @@ Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
 
-Het CCvD-VD dient te zorgen voor eenduidige norminterpretatie van dit WSCS-VD. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere dit werkveldspecifieke certificatieschema gehanteerde begrippen.
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte, legt een dossier aan t.b.v. de voortgangsbewaking en neemt de afhandeling van de klacht mee door bedrijf/persoon bij eerstvolgende beoordeling.
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met SCVE tenminste zo vaak als mutaties zich voordoen ter kennisgeving elektronisch verzonden aan het secretariaat van SCVE. De CKI zet een certificaatregister Vuurwerkdeskundige op conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De CKI is verantwoordelijk voor het beheer van het register. Vanaf de website van SCVE wordt doorgelinkt naar de website van de CKI met daarop het certificaatregister.
 
-Mocht het gebeuren dat certificaathouders, de CKI of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD-VD.
+Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
 
 Het CCvD-VD dient te zorgen voor eenduidige norminterpretatie van dit WSCS-VD. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere dit werkveldspecifieke certificatieschema gehanteerde begrippen.
 
 Mocht het gebeuren dat certificaathouders, de CKI of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD-VD.
 
-Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
+De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het WSCS-VD.
 
-De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
+De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
 Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
 
-De exameninstelling en de CKI hebben zich aan elkaar verbonden door middel van een overeenkomst. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van NEN-EN-ISO/IEC 17024:2012. De CKI is verplicht aan SCVE te melden dat examens worden afgenomen door een externe exameninstelling en welke instelling het betreft.
+Algemeen:
 
 De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
 
 De exameninstelling en de CKI hebben zich aan elkaar verbonden door middel van een overeenkomst. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van NEN-EN-ISO/IEC 17024:2012. De CKI is verplicht aan SCVE te melden dat examens worden afgenomen door een externe exameninstelling en welke instelling het betreft.
 
-Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Het selectieproces moet garanderen dat examenpersoneel dat (een deel van) een examen afneemt ten minste voldoet aan de volgende eisen:
 
 Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
 
+Mocht het gebeuren dat certificaathouders, de CKI of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD-VD.
+
+Het CCvD-VD dient te zorgen voor eenduidige norminterpretatie van dit WSCS-VD. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere dit werkveldspecifieke certificatieschema gehanteerde begrippen.
+
 Medewerkers van de certificatie-/exameninstellingen dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitma- ken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de CKI. Medewerkers van de exameninstelling hebben een verklaring van geheim- houding ondertekend.
+
+Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
 
 Te stellen eisen aan de examenlocatie zijn:
 
-Medewerkers van de certificatie-/exameninstellingen dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitma- ken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de CKI. Medewerkers van de exameninstelling hebben een verklaring van geheim- houding ondertekend.
-
 Te stellen eisen aan het examen zijn:
 
-Te stellen eisen aan de examenlocatie zijn:
-
-Te stellen eisen aan het examen zijn:
-
-Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder voldoet aan de gestelde eisen. Afhankelijk van het onderwerp van certificatie, de periode van certificatie en de risicoanalyse wordt het toezicht ingevuld.
+Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
 
 Elke exameninstelling is verantwoordelijk voor het beheer van haar eigen itembank. Dit geschiedt onder strikte geheimhouding door de examencommissie van de exameninstelling.
 
-De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instelling, de Nederlandse Arbeidsinspectie en eventuele andere overheidsinstanties. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen.
+De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
 
 Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder voldoet aan de gestelde eisen. Afhankelijk van het onderwerp van certificatie, de periode van certificatie en de risicoanalyse wordt het toezicht ingevuld.
 
-Het toezicht dat de CKI uitoefent op certificaathouders bestaat uit:
+Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instelling, de Nederlandse Arbeidsinspectie en eventuele andere overheidsinstanties. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen.
 
-De CKI rapporteert jaarlijks aan het CCvD-VD over het aantal en de aard van de over certificaathouders ontvangen klachten en over de wijze waarop deze zijn afgehandeld en eventueel ingestelde sancties naar aanleiding hiervan, het op de certificaathouders uitgevoerde toezicht, de resultaten en eventueel ingestelde sancties naar aanleiding hiervan. Indien het CCvD-VD op basis van deze rapportages van mening is dat aanvullend toezicht gewenst is, kan door de minister van SZW, o.a. op advies van het CCvD-VD, worden besloten tot aanvullende dan wel alternatieve controles. In deze paragraaf zal in dat geval worden aangegeven uit waaruit deze controles dienen te bestaan, wat hun omvang dient te zijn en met welke frequentie de controles worden uitgevoerd.
+Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
 
 Het toezicht dat de CKI uitoefent op certificaathouders bestaat uit:
 
 De CKI rapporteert jaarlijks aan het CCvD-VD over het aantal en de aard van de over certificaathouders ontvangen klachten en over de wijze waarop deze zijn afgehandeld en eventueel ingestelde sancties naar aanleiding hiervan, het op de certificaathouders uitgevoerde toezicht, de resultaten en eventueel ingestelde sancties naar aanleiding hiervan. Indien het CCvD-VD op basis van deze rapportages van mening is dat aanvullend toezicht gewenst is, kan door de minister van SZW, o.a. op advies van het CCvD-VD, worden besloten tot aanvullende dan wel alternatieve controles. In deze paragraaf zal in dat geval worden aangegeven uit waaruit deze controles dienen te bestaan, wat hun omvang dient te zijn en met welke frequentie de controles worden uitgevoerd.
 
-Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2024-05-22&g=2024-05-22) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
+Medewerkers van de certificatie-/exameninstellingen dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitma- ken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de CKI. Medewerkers van de exameninstelling hebben een verklaring van geheim- houding ondertekend.
 
 Een klacht over het handelen van een certificaathouder binnen het toepassingsgebied van het certificaat, kan door een belanghebbende worden ingediend bij de CKI of bij de certificaathouder zelf. In dit laatste geval is de certificaathouder verplicht deze klacht te registreren en meteen te melden aan de CKI. De certificaathouder is tevens verplicht constatering of verdenking door het bevoegd gezag van bij de uitvoering van werkzaamheden gepleegde strafbare feiten te registreren en meteen aan de CKI te melden.
 
-Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2025-01-18&g=2025-01-18) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
+Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2025-02-01&g=2025-02-01) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
 
-Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema heeft dit op zo kort mogelijke termijn maatregelen door de CKI tot gevolg. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat.
+Te stellen eisen aan het examen zijn:
 
 De CKI stelt de certificaathouder schriftelijk en met opgave van redenen op de hoogte van zijn beslissing naar aanleiding van het klachtenonderzoek. Eventuele extra kosten die aan de maatregel zijn verbonden kunnen door de CKI aan de certificaathouder in rekening worden gebracht. De CKI stelt een verslag op van de bevindingen van het toezicht. Dit verslag wordt ter beschikking gesteld van de certificaathouder. Deze kan naar aanleiding hiervan een klacht of herzieningsverzoek indienen bij de CKI. De daarbij te volgen werkwijzen zijn beschreven in paragraaf 4.6 en 4.7 van onderhavig document.
 
-Schorsen van het certificaat vindt plaats indien feiten worden gesignaleerd:
+Elke exameninstelling is verantwoordelijk voor het beheer van haar eigen itembank. Dit geschiedt onder strikte geheimhouding door de examencommissie van de exameninstelling.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema heeft dit op zo kort mogelijke termijn maatregelen door de CKI tot gevolg. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat.
 
@@ -7209,10 +7353,36 @@ Indien er sprake is van een sanctie wordt dit aan de certificaathouder kenbaar g
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Bij het opleggen van een sanctie dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
-Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
+Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2024-05-22&g=2024-05-22) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
 
 Deel II van dit WSCS-VD bevat de normen die gelden voor een certificaat voor vakbekwaamheid in een werkveld. Beschreven wordt achtereenvolgens:
 
+Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2025-01-18&g=2025-01-18) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
+
+Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
+
+De te certificeren vakbekwaamheid betreft:
+
+Schorsen van het certificaat vindt plaats indien feiten worden gesignaleerd:
+
+Voor de eerste afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Kandidaat dient te voldoen aan de volgende entreecriteria:
+
+Schorsen van het certificaat vindt plaats indien feiten worden gesignaleerd:
+
+De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
+
+Weigeren van het certificaat vindt plaats indien de aanvrager bij initiële certificatie niet voldoet aan de entreecriteria uit hoofdstuk 8 van dit document, dan wel bij hercertificatie niet voldoet aan de criteria uit hoofdstuk 11. Verder vindt weigering plaats indien van de aanvrager een eerder persoonscertificaat binnen het toepassingsgebied korter dan een jaar geleden is ingetrokken.
+
+Er dient door de CKI informatie-uitwisseling met de Nederlandse Arbeidsinspectie plaats te vinden over geconstateerde gevaarlijke situaties bij werkzaamheden die door een afgegeven of nog af te geven certificaat worden gereguleerd en waardoor de veiligheid of de gezondheid van werknemers of derden in gevaar kan worden gebracht. Wanneer de CKI op enigerlei wijze dergelijke feiten signaleert, zal deze dit terstond telefonisch melden aan de Nederlandse Arbeidsinspectie. De melding zal door de CKI binnen 24 uur schriftelijk worden bevestigd aan de Nederlandse Arbeidsinspectie.
+
+Indien er sprake is van een sanctie wordt dit aan de certificaathouder kenbaar gemaakt. Relevante informatie over de sanctie dient door de CKI ingebracht te worden in een centraal registratiesysteem. Tevens dient de Nederlandse Arbeidsinspectie hiervan in kennis gesteld te worden. De CKI zal, binnen 24 uur na het besluit tot het nemen van de sanctie, de Nederlandse Arbeidsinspectie hierover schriftelijk berichten.
+
+Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Bij het opleggen van een sanctie dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
+
+Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
+
+Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
+
 De te certificeren vakbekwaamheid betreft:
 
 Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
@@ -7221,35 +7391,9 @@ De te certificeren vakbekwaamheid betreft:
 
 De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
 
-Voor de eerste afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Kandidaat dient te voldoen aan de volgende entreecriteria:
+Het voldoen aan de toetstermen wordt als volgt beoordeeld:
 
 Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven waarvan er steeds een de beste keuze is. Deel C van het examen bestaat uit een casus uit het algemene deel van de toetstermen..
-
-De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
-
-Het resultaat van het examen in het beperkte toepassingsgebied blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen doen voor (een) aanvullende applicatie(s), dat wil zeggen GV en/of PSE.
-
-Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
-
-Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
-
-Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
-
-Het persoonscertificaat heeft een maximale geldigheidsduur van drie jaar. Indien een certificaathouder opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie.
-
-Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
-
-Het voldoen aan de toetstermen wordt als volgt beoordeeld:
-
-Het voldoen aan de toetstermen wordt als volgt beoordeeld:
-
-Het voldoen aan de toetstermen wordt als volgt beoordeeld:
-
-De eind- en toetstermen zijn verdeeld in drie categorieën:
-
-Het voldoen aan de toetstermen wordt als volgt beoordeeld:
-
-Kandidaten die in aanmerking willen komen voor WSCS-VD met het toepassingsgebied Groot Vuurwerk, worden geëxamineerd op basis van de toetstermen in de categorieën a en b. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal drie uur.
 
 De eind- en toetstermen zijn verdeeld in drie categorieën:
 
@@ -7263,11 +7407,15 @@ Kandidaten die in aanmerking willen komen voor een persoonscertificaat Vuurwerk-
 
 Het toepassingsgebied wordt op het certificaat weergegeven. Iemand die het certificaat Groot Vuurwerk of Pyrotechnische Speciale Effecten heeft wordt geacht aan de eisen voor het beperkte toepassingsgebied ‘verwerken, verpakken en herverpakken van professioneel vuurwerk in een inrichting’ te voldoen.
 
-De verdeling van vragen en opdrachten is per categorie toetstermijn weergegeven in de navolgende toetsmatrijzen.
+Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
 
 De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op basis van:
 
 De verdeling van vragen en opdrachten is per categorie toetstermijn weergegeven in de navolgende toetsmatrijzen.
+
+Het voldoen aan de toetstermen wordt als volgt beoordeeld:
+
+De eind- en toetstermen zijn verdeeld in drie categorieën:
 
 De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
@@ -7275,7 +7423,7 @@ Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven wa
 
 Deel C van het examen bestaat uit vijf cases, waarvan 1 uit het algemene deel van de toetstermen. De overige vier cases zijn gebaseerd op de toetstermen van de afzonderlijke applicaties (Pyrotechnische Speciale Effecten of Groot Vuurwerk).
 
-De examenkandidaat is geslaagd voor het deel A en B van het examen (algemene deel plus applicatie Groot Vuurwerk) indien hij van het totaal van 52 vragen tenminste 36 vragen (70%) juist heeft beantwoord en voor elk van de afzonderlijke delen een voldoende resultaat (70% goed) heeft behaald.
+Kandidaten die in aanmerking willen komen voor WSCS-VD met het toepassingsgebied Groot Vuurwerk, worden geëxamineerd op basis van de toetstermen in de categorieën a en b. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal drie uur.
 
 De waardering bij deel A en B van het theorie-examen is 1 punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theorie examen. Totaal zijn er met het specifieke deel 16 punten te verdie- nen. De cesuur is als volgt: men is geslaagd voor de applicatie deel Groot Vuurwerk in- dien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
@@ -7289,21 +7437,17 @@ De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene d
 
 Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C anderzijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B tellen gezamenlijk mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
 
-De examenkandidaat is geslaagd voor deel A en B van het examen (algemene deel plus applicatie Pyrotechnische Speciale Effecten) indien men van het totaal van 52 vragen tenminste 36 vragen (70%) juist heeft beantwoord en voor elk van de afzonderlijke de- len een voldoende resultaat (70% goed) heeft behaald.
+De verdeling van vragen en opdrachten is per categorie toetstermijn weergegeven in de navolgende toetsmatrijzen.
 
 De waardering bij deel A en B van het examen is één punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theoretische examen. Totaal zijn er met het specifieke deel 16 punten te verdienen. De cesuur is als volgt: men is geslaagd voor de applicatie Pyrotechnische Speciale Effecten deel indien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
 De examenkandidaat is geslaagd voor deel A en B van het examen (algemene deel plus applicatie Pyrotechnische Speciale Effecten) indien men van het totaal van 52 vragen tenminste 36 vragen (70%) juist heeft beantwoord en voor elk van de afzonderlijke de- len een voldoende resultaat (70% goed) heeft behaald.
 
-Deel C van het examen bestaat uit vijf cases, waarvan één gebaseerd op een toetsterm uit het algemene deel en vier op toetstermen uit het specifieke deel (applicatie Pyrotechnische Speciale Effecten).
-
-Deel C van het examen kan een of meerdere zogenaamde knock-out-onderdelen (KO) bevatten. Indien de examenkandidaat op een KO-onderdeel een vooraf gedefinieerde fatale fout maakt, wordt door de examinator een knock-out (KO) toegekend en is de kandidaat daarmee gezakt voor deel C van het examen. Een fatale fout is een handeling waardoor een onacceptabel risico kan ontstaan voor de werknemer (kandidaten) of diens omgeving.
-
 De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene deel plus applicatie Groot Vuurwerk) indien hij van het totaal van 5 cases tenminste 3 cases (60%) juist heeft beantwoord en tevens geen fatale fout op een KO-onderdeel heeft gemaakt.
 
 Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C van het examen anderszijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B gezamenlijk tellen mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
 
-Dat betekent op beide varianten (GV en PSE) van deel A en B van het examen tenminste 11 van de 16 vragen correct beantwoord en op het algemene deel van deel A en B van het examen tenminste 25 van de 36 vragen correct beantwoord. Het algemene deel hoeft in dit geval slechts éénmaal te worden afgelegd. Voor beide varianten van deel C van het examen dient in dit geval ook een voldoende te worden gehaald.
+De waardering bij deel A en B van het theorie-examen is 1 punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theorie examen. Totaal zijn er met het specifieke deel 16 punten te verdie- nen. De cesuur is als volgt: men is geslaagd voor de applicatie deel Groot Vuurwerk in- dien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
 Indien een examenkandidaat een persoonscertificaat voor beide specifieke vakbekwaamheden, Groot Vuurwerk en Pyrotechnische Speciale Effecten wil behalen, dient hij voor beide specifieke examenvarianten (applicaties Groot Vuurwerk en Pyrotechnische Speciale Effecten) een voldoende te hebben gehaald.
 
@@ -7311,7 +7455,7 @@ Dat betekent op beide varianten (GV en PSE) van deel A en B van het examen tenmi
 
 Het resultaat van het algemene deel van het examen blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen of herexamen doen voor een aanvullende applicatie.
 
-Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven waarvan er steeds een de beste keuze is. Deel C van het examen bestaat uit een casus uit het algemene deel van de toetstermen..
+De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene deel plus applicatie Groot Vuurwerk) indien hij van het totaal van 5 cases tenminste 3 cases (60%) juist heeft beantwoord en tevens geen fatale fout op een KO-onderdeel heeft gemaakt.
 
 De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
@@ -7321,11 +7465,11 @@ De examenkandidaat is geslaagd voor deel C van het examen indien hij van voor de
 
 Het resultaat van het examen in het beperkte toepassingsgebied blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen doen voor (een) aanvullende applicatie(s), dat wil zeggen GV en/of PSE.
 
-Het persoonscertificaat heeft een maximale geldigheidsduur van drie jaar. Indien een certificaathouder opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie.
+Deel C van het examen bestaat uit vijf cases, waarvan één gebaseerd op een toetsterm uit het algemene deel en vier op toetstermen uit het specifieke deel (applicatie Pyrotechnische Speciale Effecten).
 
 Indien een kandidaat zakt voor een deelexamen (deel A en B gezamenlijk, of deel C), blijft het voldoende resultaat gedurende een halfjaar na de datum van afname geldig. Na deze datum vervalt de geldigheid van dit deelexamen en dient de aanvrager de certificatieprocedure van vooraf aan te doorlopen. Deelexamens mogen éénmaal worden her- kanst. Tweemaal achtereen zakken voor een deelexamen, zal leiden tot een negatieve certificatiebeslissing van De CKI. Dit betekent dat de aanvrager de procedure van vooraf aan dient te doorlopen.
 
-Voor hernieuwde afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Bij hercertificatie dient de kandidaat te voldoen aan de volgende criteria:
+De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene deel plus applicatie Groot Vuurwerk) indien hij van het totaal van 5 cases tenminste 3 cases (60%) juist heeft beantwoord en tevens geen fatale fout op een KO-onderdeel heeft gemaakt.
 
 Het persoonscertificaat heeft een maximale geldigheidsduur van drie jaar. Indien een certificaathouder opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie.
 
@@ -7333,7 +7477,7 @@ Voor hernieuwde afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand e
 
 Het CCvD-VD zal de eind- en toetstermen tenminste jaarlijks beoordelen op actualiteit en deze zonodig aanpassen.
 
-Minimaal dienen de volgende gegevens op het certificaat vermeld te zijn:
+Dat betekent op beide varianten (GV en PSE) van deel A en B van het examen tenminste 11 van de 16 vragen correct beantwoord en op het algemene deel van deel A en B van het examen tenminste 25 van de 36 vragen correct beantwoord. Het algemene deel hoeft in dit geval slechts éénmaal te worden afgelegd. Voor beide varianten van deel C van het examen dient in dit geval ook een voldoende te worden gehaald.
 
 Op het certificaat dient vermeld te worden dat de CKI verklaart dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema met betrekking tot het/de relevante toepassingsgebied(en).
 
@@ -7345,13 +7489,13 @@ Bij Pyrotechnische Speciale Effecten:
 
 Bij beperkt toepassingsgebied:
 
-Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
+Het resultaat van het examen in het beperkte toepassingsgebied blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen doen voor (een) aanvullende applicatie(s), dat wil zeggen GV en/of PSE.
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
 
-Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
+Indien een kandidaat zakt voor een deelexamen (deel A en B gezamenlijk, of deel C), blijft het voldoende resultaat gedurende een halfjaar na de datum van afname geldig. Na deze datum vervalt de geldigheid van dit deelexamen en dient de aanvrager de certificatieprocedure van vooraf aan te doorlopen. Deelexamens mogen éénmaal worden her- kanst. Tweemaal achtereen zakken voor een deelexamen, zal leiden tot een negatieve certificatiebeslissing van De CKI. Dit betekent dat de aanvrager de procedure van vooraf aan dient te doorlopen.
 
-Drie jaar na de afgifte van een vijfjarige persoonscertificaat, beoordeelt de CKI de voortdurende vakbekwaamheid van de certificaathouder. Voor deze tussentijdse beoordeling van vijfjarige persoonscertificaten, gelden de volgende criteria:
+Voor hernieuwde afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Bij hercertificatie dient de kandidaat te voldoen aan de volgende criteria:
 
 Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
@@ -7359,49 +7503,49 @@ Drie jaar na de afgifte van een vijfjarige persoonscertificaat, beoordeelt de CK
 
 Werkplannen die houders van een vijfjarige persoonscertificaat bij de tussentijdse beoordeling hebben overlegd aan de CKI, worden door laatstgenoemde tevens als bewijsvoering gebruikt bij hercertificatie van de certificaathouder. Bedoelde werkplannen worden hiertoe door de CKI gearchiveerd in het dossier van de certificaathouder gedurende de resterende geldigheidsperiode van diens vijfjarige persoonscertificaat en, na hercertificatie, het daarop volgende driejarige persoonscertificaat. Werkplannen die als bewijsvoering worden gebruikt bij hercertificatie, mogen op het moment hiervan niet ouder zijn dan drie jaar. Dit zoals beschreven in hoofdstuk 11. Werkplannen die bij hercertificatie ouder zijn dan drie jaar, worden door de CKI vernietigd.
 
-Verklaring van de gebruikte letters en aanduidingen
+Minimaal dienen de volgende gegevens op het certificaat vermeld te zijn:
+
+Op het certificaat dient vermeld te worden dat de CKI verklaart dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema met betrekking tot het/de relevante toepassingsgebied(en).
+
+Minimaal dienen de volgende gegevens op het certificaat vermeld te zijn:
 
 Verklaring van de gebruikte letters en aanduidingen
 
-Om eenduidige identificatie te vergemakkelijken is bij elke stof het zogenoemde CAS-nummer opgenomen, dat wil zeggen het nummer waaronder de stof door de ‘Chemical Abstract’ Service is geregistreerd.
-
-Verklaring van de gebruikte letters en aanduidingen
-
-Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
+Bij Pyrotechnische Speciale Effecten:
 
 Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
-Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
+Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
 Om eenduidige identificatie te vergemakkelijken is bij elke stof het zogenoemde CAS-nummer opgenomen, dat wil zeggen het nummer waaronder de stof door de ‘Chemical Abstract’ Service is geregistreerd.
 
-### Drempelwaarde
+Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
 Voor reprotoxische stoffen in onderdeel B3 kan een drempelwaarde worden vastgelegd. Dat is een waarde waaronder blootstelling geen reprotoxische schade oplevert voor de gezondheid van werknemers.
 
-Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
+Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
 Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
-Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
+Werkplannen die houders van een vijfjarige persoonscertificaat bij de tussentijdse beoordeling hebben overlegd aan de CKI, worden door laatstgenoemde tevens als bewijsvoering gebruikt bij hercertificatie van de certificaathouder. Bedoelde werkplannen worden hiertoe door de CKI gearchiveerd in het dossier van de certificaathouder gedurende de resterende geldigheidsperiode van diens vijfjarige persoonscertificaat en, na hercertificatie, het daarop volgende driejarige persoonscertificaat. Werkplannen die als bewijsvoering worden gebruikt bij hercertificatie, mogen op het moment hiervan niet ouder zijn dan drie jaar. Dit zoals beschreven in hoofdstuk 11. Werkplannen die bij hercertificatie ouder zijn dan drie jaar, worden door de CKI vernietigd.
 
 Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
 
-De hierna vermelde grenswaarden gelden bij een temperatuur van 20 °C en een druk van 101,3 kPa.
+Verklaring van de gebruikte letters en aanduidingen
 
 Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
 
 De hierna vermelde grenswaarden gelden bij een temperatuur van 20 °C en een druk van 101,3 kPa.
 
-3 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
+Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
 
 Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
 
-2 TGG 1 minuut
+Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
 1 TGG 1 minuut
 
-2 TGG 1 minuut
+### Drempelwaarde
 
 3 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
 
@@ -7419,7 +7563,7 @@ Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde c
 
 10 Respirabel.
 
-2 Sensibilisatie van de huid
+3 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
 
 1 Sensibilisatie van de huid en de luchtwegen
 
@@ -7475,11 +7619,37 @@ Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde c
 
 1 Tijdens de blootstellingsmonitoring voor kwik en zijn tweewaardige anorganische verbindingen wordt rekening gehouden met relevante biologische monitoringtechnieken in aanvulling op de luchtgrenswaarde.
 
+11 Definitie van hardhout volgens de International Agency for Research on Cancer (IARC) van hout op basis van botanische karakteristiek: hout van bedektzadigen = hardhout.
+
+12 Als stof van hardhout wordt gemengd met ander houtstof geldt de grenswaarde voor hardhoutstof voor alle houtstof in dat mengsel
+
+13 Microgram/m3
+
+14 Parts per billion (ppb)
+
+15 Microgram/m3
+
+16 Sensibilisatie van de huid en de luchtwegen.
+
+17 Inhaleerbaar, gemeten als nikkel.
+
+18 Respirabel, gemeten als nikkel.
+
+19 Nanogr/m3
+
 Ondergetekenden,
 
-### 13. **Geldigheidscondities**
-
 Overwegende dat:
+
+Komen het volgende overeen:
+
+In dit Protocol wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in het hierna volgende artikel 1
+
+Ondergetekenden,
+
+### Artikel 2:. aanwijzen van contactpersonen
+
+Nederlandse Arbeidsinspectie en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
 
 Komen het volgende overeen:
 
@@ -7493,27 +7663,27 @@ Overwegende dat:
 
 Ondergetekenden,
 
-Ondergetekenden,
+Een ieder die in het kader van dit Protocol bedrijfs- of persoonsgegevens dan wel andersoortige vertrouwelijke informatie ontvangt is verplicht tot geheimhouding. De gegevens die in het kader van dit Protocol verstrekt worden aan een andere partij mogen alleen gebruikt worden met het oog op het in dit Protocol omschreven doel. De Nederlandse Arbeidsinspectie behoudt wel de mogelijkheid om haar handhavingsinformatie met andere toezichthoudende instanties te delen.
 
 Overwegende dat:
 
-Komen het volgende overeen:
+Partijen zullen elkaar geen kosten in rekening brengen voor het doen van meldingen en/of voor de afhandeling van die meldingen en/of voor andere activiteiten die voortvloeien uit dit Protocol.
 
 In dit Protocol wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in het hierna volgende artikel 1
 
-Een ieder die in het kader van dit Protocol bedrijfs- of persoonsgegevens dan wel andersoortige vertrouwelijke informatie ontvangt is verplicht tot geheimhouding. De gegevens die in het kader van dit Protocol verstrekt worden aan een andere partij mogen alleen gebruikt worden met het oog op het in dit Protocol omschreven doel. De Nederlandse Arbeidsinspectie behoudt wel de mogelijkheid om haar handhavingsinformatie met andere toezichthoudende instanties te delen.
+Wijzigingen in en opzegging van het Protocol behoeven de schriftelijke instemming van alle bij het protocol betrokken partijen.
 
 Nederlandse Arbeidsinspectie en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
 
 Nederlandse Arbeidsinspectie en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
 
-Partijen zullen elkaar geen kosten in rekening brengen voor het doen van meldingen en/of voor de afhandeling van die meldingen en/of voor andere activiteiten die voortvloeien uit dit Protocol.
+Dit Protocol treedt in werking op de dag na ondertekening ervan.
 
-Wijzigingen in en opzegging van het Protocol behoeven de schriftelijke instemming van alle bij het protocol betrokken partijen.
+Dit Protocol is overeengekomen en ondertekend
 
-Wijzigingen in en opzegging van het Protocol behoeven de schriftelijke instemming van alle bij het protocol betrokken partijen.
+Namens de Nederlandse Arbeidsinspectie te Den Haag op de datum: 2 mei 2012
 
-Een ieder die in het kader van dit Protocol bedrijfs- of persoonsgegevens dan wel andersoortige vertrouwelijke informatie ontvangt is verplicht tot geheimhouding. De gegevens die in het kader van dit Protocol verstrekt worden aan een andere partij mogen alleen gebruikt worden met het oog op het in dit Protocol omschreven doel. De Nederlandse Arbeidsinspectie behoudt wel de mogelijkheid om haar handhavingsinformatie met andere toezichthoudende instanties te delen.
+Namens de Certificerende Instelling op de datum: 31 mei 2012
 
 Dit Protocol treedt in werking op de dag na ondertekening ervan.
 
@@ -12171,19 +12341,19 @@ Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten
 
 In enkele gevallen heeft de regeling betrekking op een onderdeel van een groter bedrijfsmiddel. Alleen indien een bepaald type van het beoogde bedrijfsmiddel wordt aangeschaft, komen de kosten daarvan in aanmerking voor een beroep op de regeling; het geheel waartoe het bedrijfsmiddel behoort daarentegen komt niet voor een beroep op de regeling in aanmerking. Om nu in de praktijk verwarring te voorkomen, wordt bij sommige bedrijfsmiddelen het beroep op de regeling aan een maximumbedrag gebonden.
 
-De bedrijfsmiddelen op deze lijst zijn ingedeeld in de volgende categorieën:
+Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze lijst, gelden de in kolom 2 van deel 1 van deze lijst opgenomen drempelwaarden.
 
 ### 4. Ondertekening
 
 ### 1. Werkzaamheden
 
-Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
+2 TGG 1 minuut
 
 ### Respirabele vezels
 
 Ondergetekenden,
 
-### Protocol Informatieuitwisseling ASBESTverwijdering Nederlandse Arbeidsinspectie – Certificerende Instellingen
+### Artikel 7:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overige overtredingen
 
 De hercertificatie van beperkt duikmedisch begeleider (EHBO Duikarbeid/WSCS-WOD-B-B1)) en duikmedisch begeleider (mad A/WSCS-WOD-B-B2)) wordt beoordeeld door middel van een documentenonderzoek en een theorie- en praktijkexamen. Bij het documentenonderzoek moet een getuigschrift of diploma kunnen worden overlegd van een herhalingsopleiding duikmedisch begeleider dat niet ouder is dan 3 maanden.
 
@@ -12764,43 +12934,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 - h. audits en beoordeling: de vaststelling en de toepassing van procedures voor de systematische periodieke evaluatie van het beleid ter voorkoming van zware ongevallen en van de doeltreffendheid en van de deugdelijkheid van het veiligheidsbeheerssysteem alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de actualisering daarvan.
 
-## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2009-07-01&g=2009-07-01)
+## Bijlage 0. , behorend bij Artikel 1.7a
 
-Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c) bevat de volgende gegevens en beschrijvingen:
+Vervallen
 
-- a. de naam en functie van de personen die bevoegd zijn om noodprocedures in werking te laten treden en van de persoon die belast is met de leiding en coördinatie van de maatregelen ter bestrijding van een ongeval binnen het bedrijf of inrichting;
-
-- b. de naam en functie van de persoon die verantwoordelijk is voor de contacten met de voor het externe noodplan verantwoordelijke autoriteiten;
-
-- c. voor voorzienbare omstandigheden of gebeurtenissen die een doorslaggevende rol kunnen spelen bij het ontstaan van een zwaar ongeval, een beschrijving van de te nemen maatregelen ter beheersing van de toestand of de gebeurtenis en ter beperking van de gevolgen daarvan, met inbegrip van een beschrijving van de beschikbare veiligheidsuitrusting en middelen;
-
-- d. de maatregelen ter beperking van het risico voor personen binnen het bedrijf of de inrichting, waaronder het alarmsysteem en de gedragsregels bij het afgaan van het alarm;
-
-- e. de regelingen om de autoriteit die verantwoordelijk is voor het in werking laten treden van het externe noodplan bij een ongeval snel in te lichten, de inlichtingen die onmiddellijk moeten worden verstrekt en de regelingen voor het verstrekken van uitvoeriger inlichtingen, wanneer deze beschikbaar komen;
-
-- f. de regelingen om de werknemers op te leiden voor het vervullen van de taken die van hen verwacht worden en indien nodig de coördinatie hiervan met de externe hulpdiensten;
-
-- g. de regelingen voor de verlening van steun aan externe bestrijdingsmaatregelen.
-
-## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2011-07-01&g=2011-07-01)
-
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen aan de orde:
-
-- a. die onderdelen van het algemene managementsysteem waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de toegepaste werkmethoden en productiemethoden en de hulpmiddelen behoren welke het mogelijk maken het beleid ter voorkoming van zware ongevallen te bepalen en uit te voeren;
-
-- b. de organisatie en het personeel: de taken en verantwoordelijkheden van het personeel dat op alle organisatorische niveaus bij het beheersen van de risico’s van zware ongevallen is betrokken, het onderkennen van de behoeften aan opleiding van dat personeel, de organisatie van die opleiding en de deelname daaraan door het personeel, de aannemers en de onderaannemers;
-
-- c. de identificatie van de gevaren en de beoordeling van de risico’s van zware ongevallen, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b);
-
-- d. het toezicht op de uitvoering: de vaststelling en de toepassing van procedures en instructies voor de beheersing van de veiligheid van de bedrijfsvoering, met inbegrip van het onderhoud van de installaties en de tijdelijke onderbrekingen;
-
-- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en de toepassing van procedures voor de planning van wijzigingen met betrekking tot het bedrijf of de inrichting of een onderdeel daarvan of de toegepaste werkmethoden en productiemethoden dan wel met betrekking tot het ontwerpen van nieuwe werkmethoden of productiemethoden;
-
-- f. de planning voor noodsituaties: de vaststelling en de toepassing van procedures voor de systematische identificatie van noodsituaties alsmede voor het uitwerken, beoefenen, en toetsen van de noodplannen. Bij het oefenen van noodplannen worden alle werknemers op de locatie betrokken, met inbegrip van relevante aannemers en onderaannemers;
-
-- g. het toezicht op de prestaties: de vaststelling en de toepassing van procedures voor de permanente beoordeling van de inachtneming van de doelstellingen van het beleid ter voorkoming van zware ongevallen en van het veiligheidsbeheerssysteem, alsmede de invoering van regelingen voor onderzoek en correctie bij het niet in acht nemen daarvan. Tot deze procedures behoren het systeem voor de melding van zware ongevallen en bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, het onderzoek daarnaar en de nazorg, een en ander op grond van de ervaringen uit het verleden;
-
-- h. audits en beoordeling: de vaststelling en de toepassing van procedures voor de systematische periodieke evaluatie van het beleid ter voorkoming van zware ongevallen en van de doeltreffendheid en van de deugdelijkheid van het veiligheidsbeheerssysteem alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de actualisering daarvan.
+## Bijlage I
 
 ## Bijlage 0. behorend bij [Artikel 1.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7a&z=2012-02-01&g=2012-02-01)
 
@@ -14120,7 +14258,7 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid te Den H
 
 #### Paragraaf 4.2a. Veilig werken met professioneel vuurwerk
 
-### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
+### Toelichting bij bijlage I
 
 ## Bijlage XIIa. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2012-02-01&g=2012-02-01)
 
@@ -14214,11 +14352,11 @@ Vervallen
 
 ### 2. **Definities**
 
-### 3. **Werkveldspecifieke kenmerken**
+### Leeswijzer
 
 ##### Artikel 8.29a. Overtredingen
 
-Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2025-01-18&g=2025-01-18), [2.0a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0a&z=2025-01-18&g=2025-01-18), [2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-01-18&g=2025-01-18), [2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-01-18&g=2025-01-18), [2.0d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0d&z=2025-01-18&g=2025-01-18), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2025-01-18&g=2025-01-18), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-01-18&g=2025-01-18), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2025-01-18&g=2025-01-18), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2025-01-18&g=2025-01-18), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2025-01-18&g=2025-01-18), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-01-18&g=2025-01-18), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2025-01-18&g=2025-01-18), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-01-18&g=2025-01-18), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2025-01-18&g=2025-01-18), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2025-01-18&g=2025-01-18), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2025-01-18&g=2025-01-18), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2025-01-18&g=2025-01-18), [4.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19b&z=2025-01-18&g=2025-01-18), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2025-01-18&g=2025-01-18), [4.20a2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a2&z=2025-01-18&g=2025-01-18), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2025-01-18&g=2025-01-18), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2025-01-18&g=2025-01-18), [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.1&z=2025-01-18&g=2025-01-18), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-01-18&g=2025-01-18), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2025-01-18&g=2025-01-18), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2025-01-18&g=2025-01-18), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2025-01-18&g=2025-01-18), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-01-18&g=2025-01-18), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2025-01-18&g=2025-01-18).
+Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2025-02-01&g=2025-02-01), [2.0a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0a&z=2025-02-01&g=2025-02-01), [2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-02-01&g=2025-02-01), [2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-02-01&g=2025-02-01), [2.0d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0d&z=2025-02-01&g=2025-02-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2025-02-01&g=2025-02-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-02-01&g=2025-02-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2025-02-01&g=2025-02-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2025-02-01&g=2025-02-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2025-02-01&g=2025-02-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-02-01&g=2025-02-01), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2025-02-01&g=2025-02-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-02-01&g=2025-02-01), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2025-02-01&g=2025-02-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2025-02-01&g=2025-02-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2025-02-01&g=2025-02-01), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2025-02-01&g=2025-02-01), [4.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19b&z=2025-02-01&g=2025-02-01), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2025-02-01&g=2025-02-01), [4.20a2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a2&z=2025-02-01&g=2025-02-01), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2025-02-01&g=2025-02-01), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2025-02-01&g=2025-02-01), [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.1&z=2025-02-01&g=2025-02-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-02-01&g=2025-02-01), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2025-02-01&g=2025-02-01), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2025-02-01&g=2025-02-01), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2025-02-01&g=2025-02-01), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2025-02-01&g=2025-02-01), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2025-02-01&g=2025-02-01).
 
 ##### Artikel 8.29b
 
@@ -14462,29 +14600,29 @@ Als soortgelijke overtredingen als bedoeld in [artikel 9.10c van het besluit](ht
 
 - c. van de Arbeidsomstandighedenregeling:
 
-- 1°. [artikel 2.0a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0a&z=2025-01-18&g=2025-01-18);
+- 1°. [artikel 2.0a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0a&z=2025-02-01&g=2025-02-01);
 
-- 2°. [artikel 2.0b, eerste, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-01-18&g=2025-01-18);
+- 2°. [artikel 2.0b, eerste, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-02-01&g=2025-02-01);
 
-- 3°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-01-18&g=2025-01-18);
+- 3°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-02-01&g=2025-02-01);
 
-- 4°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2025-01-18&g=2025-01-18);
+- 4°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2025-02-01&g=2025-02-01);
 
-- 5°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2025-01-18&g=2025-01-18);
+- 5°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2025-02-01&g=2025-02-01);
 
-- 6°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2025-01-18&g=2025-01-18);
+- 6°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2025-02-01&g=2025-02-01);
 
-- 7°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2025-01-18&g=2025-01-18);
+- 7°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2025-02-01&g=2025-02-01);
 
-- 8°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2025-01-18&g=2025-01-18);
+- 8°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2025-02-01&g=2025-02-01);
 
-- 9°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-01-18&g=2025-01-18);
+- 9°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2025-02-01&g=2025-02-01);
 
-- 10°. [artikel 4.15, eerste lid, onderdelen a tot en met d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2025-01-18&g=2025-01-18);
+- 10°. [artikel 4.15, eerste lid, onderdelen a tot en met d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2025-02-01&g=2025-02-01);
 
-- 11°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2025-01-18&g=2025-01-18), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2025-01-18&g=2025-01-18); en
+- 11°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2025-02-01&g=2025-02-01), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2025-02-01&g=2025-02-01); en
 
-- 12°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-01-18&g=2025-01-18).
+- 12°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2025-02-01&g=2025-02-01).
 
 ### Hoofdstuk 8a. Strafbare feiten en overtredingen
 
@@ -14492,7 +14630,7 @@ Als soortgelijke overtredingen als bedoeld in [artikel 9.10c van het besluit](ht
 
 ### INHOUDSOPGAVE
 
-### Toelichting bij bijlage I
+### Deel 1
 
 ### 3.2. **Actieve partijen**
 
@@ -14502,7 +14640,7 @@ Als soortgelijke overtredingen als bedoeld in [artikel 9.10c van het besluit](ht
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeidshygiënist
 
-### 4.5. Certificatiepersoneel
+### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
 
 ## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18)
 
@@ -14830,7 +14968,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 3. Werkveldspecifieke kenmerken
 
-### Leeswijzer
+### Deel 3
 
 ### Leeswijzer
 
@@ -14858,15 +14996,15 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 2. **Definities**
 
-### 3.1. **Beschrijving schema**
+### 1. Inleiding
 
-### 3.2. **Actieve partijen**
+### 2. Definities
 
-### 3.3. **Risicoanalyse en afbreukrisico**
+### 3.1. Beschrijving document
 
-### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
+### 3.2. Actieve partijen
 
-### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
+### 3.3. Risicoanalyse m.b.t. functioneren CKI
 
 ### 1. Inleiding
 
@@ -14876,11 +15014,11 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 3. Werkveldspecifieke kenmerken
 
-### 3.3. Risicoanalyse m.b.t. functioneren CKI
+### 4. Eisen ten behoeve van de aanwijzing
 
 ### 4.11. Toezicht op de certificaathouder
 
-### 4.9. **Norminterpretatie**
+### 4.3. Klachten en bezwaarschriften
 
 ### 4.1. Persoonscertificatie Vuurwerkdeskundige
 
@@ -14894,7 +15032,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 4.5. Certificatiepersoneel
 
-### 6.5. **Maatregelen**
+### 4.8. Instructies, vertrouwelijkheid en onafhankelijkheid
 
 ### 4.6. Uitbesteding
 
@@ -14904,9 +15042,9 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 4.8. Instructies, vertrouwelijkheid en onafhankelijkheid
 
-### 4.9. Personeelsdossiers
+### 4.14. Aanwijzingscriteria
 
-### 4.9. Personeelsdossiers
+### 5. Toezicht
 
 ### 4.11. Toezicht op de certificaathouder
 
@@ -14916,19 +15054,19 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 4.14. Aanwijzingscriteria
 
-### 4.14. Aanwijzingscriteria
+### 1. Inleiding
 
 ### 5. Toezicht
 
 ### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
 
-### 6. Maatregelen
+### 2. definities
 
 ### Deel I:. Algemene Bepalingen
 
-### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
+### 3.1. Beschrijving schema
 
-### 1. Inleiding
+### 3.2. Actieve partijen
 
 ### Deel I:. Algemene Bepalingen
 
@@ -14944,11 +15082,11 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 3.2. Actieve partijen
 
-### 4. Certificatiereglement
+### 4.5. Geldigheidscondities
 
 ### 4. Certificatiereglement
 
-### 4.1. Doelstelling
+### Klachten over de CKI
 
 ### 4. Certificatiereglement
 
@@ -14968,35 +15106,35 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### Klachten over het bedrijf of de persoon
 
-### 13. **Geldigheidscondities**
+### Inleiding
 
 ### 6.4. Verslag van bevindingen
-
-### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
-
-### Klachtenregeling
-
-### Klachten over het bedrijf of de persoon
-
-### 4.7. Bezwaarprocedure
-
-### Inleiding
 
 ### 4.8. Register voor vakbekwaamheid
 
 ### 4.9. Norminterpretatie
 
-### 4.9. Norminterpretatie
+### Klachten over het bedrijf of de persoon
 
-### 5. Examenreglement
+### 4.7. Bezwaarprocedure
 
 ### 5.2. De exameninstelling
 
-### 5.3. Eisen te stellen aan het examenpersoneel
+### 4.8. Register voor vakbekwaamheid
 
 ### 5.3. Eisen te stellen aan het examenpersoneel
 
-### 5.3. Eisen te stellen aan het examenpersoneel
+### 5.4. Eisen te stellen aan het examen
+
+### 5.4.2. Algemene regels bij de uitvoering van examens
+
+### 5.2. De exameninstelling
+
+### 5.5. Beheer itembank
+
+### 6. Toezicht
+
+### 6.1. Medewerking aan toezicht
 
 ### 5.4. Eisen te stellen aan het examen
 
@@ -15004,7 +15142,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 5.4.2. Algemene regels bij de uitvoering van examens
 
-### 6. Toezicht
+### 6.4. Verslag van bevindingen
 
 ### 6. Toezicht
 
@@ -15014,25 +15152,25 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 6.4. Verslag van bevindingen
 
-### 6.3. De wijze van uitvoering van het toezicht
+### Deel II:. Normen
 
 ### 6.4. Verslag van bevindingen
 
 ### Indeling van het competentieprofiel
 
-### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
+### 8. Certificatiecriteria
 
 ### 2.1. Inleiding
 
-### Deel II:. Normen
+### 9.2 Eindtermen groot vuurwerk
 
-### Deel II:. Normen
+### 10.1. Toetstermen
 
-### 7. Onderwerp van certificatie
+### 10.1.1. Algemene toetstermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### 8. Certificatiecriteria
+### 10.1.2. Toetstermen groot vuurwerk
 
-### 8. Certificatiecriteria
+### 10.2. Beoordelingsmethode
 
 ### 9.2 Eindtermen groot vuurwerk
 
@@ -15042,7 +15180,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 10.1. Toetstermen
 
-### 10.1.2. Toetstermen groot vuurwerk
+### 10.2.2. Toetsmatrijzen
 
 ### 3.1. **Beschrijving schema**
 
@@ -15052,7 +15190,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
 
-### 10.3.4. Beide toepassingsgebieden
+### 10.3.6. Herexamen
 
 ### 10.3.6. Herexamen
 
@@ -15295,7 +15433,7 @@ Vervallen
 
 ### 3.2. **Actieve partijen**
 
-### 3.3. **Risicoanalyse en afbreukrisico**
+### 3. Werkveldspecifieke kenmerken
 
 ### 3.1. **Beschrijving schema**
 
@@ -15307,9 +15445,9 @@ Vervallen
 
 ### 3.1. Beschrijving document
 
-### 3.2. Actieve partijen
+### 4.1. Persoonscertificatie Vuurwerkdeskundige
 
-### 3.3. Risicoanalyse m.b.t. functioneren CKI
+### 4.2. Centraal College van Deskundigen SCVE
 
 ### 4.9. **Norminterpretatie**
 
@@ -15319,25 +15457,25 @@ Vervallen
 
 ### 4.4. Onderhoud van het WSCS-VD
 
-### 4.4. Onderhoud van het WSCS-VD
-
-### 6.3. **Verslag van bevindingen**
-
-### 3.1. Beschrijving schema
-
 ### 4.6. Uitbesteding
 
 ### 4.7. Eisen aan personeel van onderaannemers
 
-### 8. **Entreecriteria**
+### 3.1. Beschrijving schema
 
 ### 4.9. Personeelsdossiers
 
 ### 4.10. Gegevens op het certificaat
 
-### 4.12. Hercertificatie
+### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
-### 4.12. Hercertificatie
+### 4.9. Personeelsdossiers
+
+### 4.10. Gegevens op het certificaat
+
+### 6. Maatregelen
+
+### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
 
 ### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
@@ -15345,25 +15483,25 @@ Vervallen
 
 ### 6. Maatregelen
 
-### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
+### 3. Werkveldspecifieke kenmerken
 
 ### Deel I:. Algemene Bepalingen
 
-### Inleiding
+### 3.3. Risicoanalyse en afbreukcriteria
 
 ### 2. definities
 
-### 3. Werkveldspecifieke kenmerken
-
-### 3.2. Actieve partijen
-
-### 3.3. Risicoanalyse en afbreukcriteria
-
-### 11.2. **Beoordelingsmethode**
-
 ### 4. Certificatiereglement
 
+### 4.2. Certificatieprocedure
+
 ### 4.3. Certificatiebeslissing
+
+### 4.4. Geldigheidsduur van het certificaat
+
+### 4.6. Klachtenregeling
+
+### Klachten over het bedrijf of de persoon
 
 ### 4.5. Geldigheidscondities
 
@@ -15373,7 +15511,7 @@ Vervallen
 
 ### Klachten over de CKI
 
-### 6.3. De wijze van uitvoering van het toezicht
+### 4.7. Bezwaarprocedure
 
 ### Klachten over het bedrijf of de persoon
 
@@ -15383,13 +15521,13 @@ Vervallen
 
 ### 4.7. Bezwaarprocedure
 
-### Inleiding
+### 5.1. Doelstelling
 
 ### 4.8. Register voor vakbekwaamheid
 
 ### 4.8. Register voor vakbekwaamheid
 
-### 5. Examenreglement
+### 5.4.1. Beslotenheid van examens
 
 ### 5.1. Doelstelling
 
@@ -15397,7 +15535,7 @@ Vervallen
 
 ### 5.4. Eisen te stellen aan het examen
 
-### 5.4.1. Beslotenheid van examens
+### 6.2. Frequentie van het toezicht
 
 ### 5.4.1. Beslotenheid van examens
 
@@ -15411,17 +15549,17 @@ Vervallen
 
 ### 6.3. De wijze van uitvoering van het toezicht
 
-### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
+### 7. Onderwerp van certificatie
 
 ### 1. **Algemene informatie**
 
-### Deel II:. Normen
+### 9.1. Algemene eindtermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### Deel II:. Normen
+### 9.3. Eindtermen pyrotechnische speciale effecten
 
 ### 8. Certificatiecriteria
 
-### 9. Eindtermen
+### 10.1.3. Toetstermen pyrotechnische speciale effecten
 
 ### 9.1. Algemene eindtermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
@@ -15433,7 +15571,7 @@ Vervallen
 
 ### 10.2.1. Toepassingsgebieden
 
-### 13. Geldigheidscondities
+### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
 
 ### 10.2.2. Toetsmatrijzen
 
@@ -15443,9 +15581,15 @@ Vervallen
 
 ### 10.3.6. Herexamen
 
-## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01)
+## Bijlage XIIc. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2025-02-01&g=2025-02-01)
 
-Vervallen
+De grenswaarde voor een gevaarlijke stof geldt in beginsel alleen voor blootstelling aan de stof in zuivere vorm en is niet zonder meer van toepassing indien de stof een bestanddeel is van een mengsel van stoffen, waaraan blootstelling plaatsvindt of kan plaatsvinden.
+
+Het is mogelijk dat het gezondheidkundige gevolg van een dergelijk mengsel de som is van de afzonderlijke stoffen. Hiervan is sprake bij een mengsel van verschillende organische oplosmiddelen. Het is ook mogelijk dat bij een gecombineerde blootstelling het gezondheidkundige gevolg van de afzonderlijke stoffen aanzienlijk worden versterkt of verminderd.
+
+Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, wordt de beoordeling van het risico van blootstelling aan de voor elk van die stoffen vastgestelde grenswaarde als volgt uitgevoerd:
+
+De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
 ##### Artikel 4.32aa. Tijdelijke regeling vloercoatings op basis van methylmethacrylaat
 
@@ -15485,33 +15629,33 @@ Vervallen
 
 ### 4.8. **Register voor vakbekwaamheid**
 
-### 4. Eisen ten behoeve van de aanwijzing
+### 4.4. Onderhoud van het WSCS-VD
 
 ### 5. **Het examenreglement**
 
 ### 3. Werkveldspecifieke kenmerken
 
-### 4.7. Eisen aan personeel van onderaannemers
+### 4.11. Toezicht op de certificaathouder
 
 ### 4.11. Toezicht op de certificaathouder
 
 ### 5. Toezicht
 
-### 2. definities
+### 4.1. Doelstelling
 
 ### 4.2. Certificatieprocedure
 
 ### 4.4. Geldigheidsduur van het certificaat
 
-### 4.7. Bezwaarprocedure
+### 5. Examenreglement
 
 ### 6.4. Verslag van bevindingen
 
-### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
+### 9. Eindtermen
 
 ### 10.1.2. Toetstermen groot vuurwerk
 
-### 10.1.3. Toetstermen pyrotechnische speciale effecten
+### 10.3. Cesuur examen
 
 ### 10.3. Cesuur examen
 
@@ -15533,15 +15677,13 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 10.3.6. Herexamen
 
-## Bijlage XIIIc. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01)
-
-Vervallen
+## Bijlage XIII. behorend bij de [artikelen 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2025-02-01&g=2025-02-01), en [4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2025-02-01&g=2025-02-01)
 
 ## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01)
 
 Vervallen
 
-### 3.3. **Risicoanalyse en afbreukrisico**
+### Deel 2
 
 ### 4.3. Klachten en bezwaarschriften
 
@@ -15549,7 +15691,7 @@ Vervallen
 
 ### 4.8. Instructies, vertrouwelijkheid en onafhankelijkheid
 
-### 4.14. Aanwijzingscriteria
+### Deel I:. Algemene Bepalingen
 
 ### 3.3. Risicoanalyse en afbreukcriteria
 
@@ -15557,9 +15699,9 @@ Vervallen
 
 ### 5.1. Doelstelling
 
-### 9. Eindtermen
+### 10.2.1. Toepassingsgebieden
 
-### Inleiding
+### 10.3.4. Beide toepassingsgebieden
 
 ### Respirabele vezels
 
@@ -15657,9 +15799,23 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 
 ### Hoofdstuk 7. Arbeidsmiddelen
 
-### Hoofdstuk 9. Overgangs- en Slotbepalingen
+### Hoofdstuk 8a. Overtredingen en maatregelen
 
-## Bijlage XIIIa. , behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2011-12-18&g=2011-12-18)
+## Bijlage Ia. behorend bij [artikel 2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-02-01&g=2025-02-01), Beschrijving scenario’s
+
+Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5) komen in ieder geval aan de orde:
+
+- 1. Bij de beschrijving wordt in aanmerking genomen welke van de volgende voorvallen deze scenario’s op gang kunnen brengen: corrosie, erosie, externe belasting, impact, overdruk, onderdruk, lage temperatuur, hoge temperatuur, trillingen en menselijke fouten tijdens gebruik, wijziging of onderhoud;
+
+- 2. Van elk scenario wordt aangegeven wat de waarschijnlijkheid en het effect is en welke maatregelen getroffen zijn om te voorkomen dat het scenario zich voordoet; en
+
+- 3. Voorts wordt voor elk scenario, ter beoordeling van de risico’s en rekening houdend met de reeds getroffen maatregelen, een samenhangend inzicht geboden in:
+
+- a. de resterende kans dat een zwaar ongeval geschiedt;
+
+- b. de ernst van de gevolgen die het zware ongeval in dat geval zal hebben; en
+
+- c. welke verdere maatregelen technisch mogelijk zijn om de kans op een zwaar ongeval verder te verkleinen tot een daarbij aan te geven niveau.
 
 ### Deel 2
 
@@ -15675,17 +15831,17 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 
 ### 6.3. **Verslag van bevindingen**
 
-### 5.5. Beheer itembank
+### 6.3. De wijze van uitvoering van het toezicht
 
-### 6.1. Medewerking aan toezicht
+### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
 
-### 10.2. Beoordelingsmethode
+### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
 
 ### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
 
 ### Vaardighedenspecialisatie
 
-### 1. **Inleiding**
+### Bijlage A. gedragscode vuurwerkdeskundige
 
 ### Bijlage A. gedragscode vuurwerkdeskundige
 
@@ -15743,7 +15899,7 @@ Vervallen
 
 ### 5. Examenreglement
 
-### 7. Onderwerp van certificatie
+### 10. Toetsmethodiek bij Initiële certificatie
 
 ### 10.2.2. Toetsmatrijzen
 
@@ -15753,23 +15909,23 @@ Vervallen
 
 ### 10.3.6. Herexamen
 
-### 11. Hercertificatie
+### Bijlage b:. overgangsregeling
 
 ### 12. Het certificaat
 
 ### 12. Het certificaat
-
-### 13. Geldigheidscondities
-
-### 13. Geldigheidscondities
-
-### Bijlage b:. overgangsregeling
-
-### Bijlage b:. overgangsregeling
 
 ### Lijst van wettelijke grenswaarden op grond van de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), en [4.16, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16)
 
 ### CAS-nummer
+
+### Bijlage b:. overgangsregeling
+
+### Bijlage b:. overgangsregeling
+
+### Respirabel/inhaleerbaar stof
+
+### Respirabele vezels
 
 ### TGG
 
@@ -15803,7 +15959,7 @@ Vervallen
 
 ### 4. **Eisen ten behoeve van de aanwijzing**
 
-### **Inhoudsopgave**
+### C. Lijst met wettelijke grenswaarden voor allergenen, vastgesteld volgens de risicobenadering en na haalbaarheidsafweging
 
 ### 4.1.3. **Ontwikkeling en onderhoud van het certificatieschema**
 
@@ -15811,25 +15967,25 @@ Vervallen
 
 ### 7. **Het onderwerp van certificatie**
 
-### 3.1. **Beschrijving van het document**
+### Protocol Informatieuitwisseling ASBESTverwijdering Nederlandse Arbeidsinspectie – Certificerende Instellingen
 
 ### C. Lijst met wettelijke grenswaarden voor allergenen, vastgesteld volgens de risicobenadering en na haalbaarheidsafweging
 
-### 4.1. **Persoonscertificatie bij werken onder overdruk**
+### Artikel 3:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van afwijkingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
 
-### Artikel 1:. begripsomschrijvingen
+### Artikel 4:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van overige categorie II afwijkingen (bijlage B van dit protocol)
 
-### Protocol Informatieuitwisseling ASBESTverwijdering Nederlandse Arbeidsinspectie – Certificerende Instellingen
+### Artikel 8:. privacy-aspecten
 
-### Artikel 1:. begripsomschrijvingen
+### Artikel 9:. kosten
 
-### Artikel 1:. begripsomschrijvingen
+### Artikel 10:. wijzigingen in en opzegging van het Protocol
 
-### Artikel 2:. aanwijzen van contactpersonen
+### Artikel 11:. evaluatie
 
 ### Artikel 5:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van categorie III en IV afwijkingen (bijlage H van SC 530)
 
-### Artikel 7:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overige overtredingen
+### Bijlage A. Afwijkingen genoemd in bijlage H van SC 530 die direct telefonisch aan de Nederlandse Arbeidsinspectie moeten worden gemeld
 
 ### Artikel 9:. kosten
 
@@ -17690,7 +17846,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-### 11. Hercertificatie
+### 13. Geldigheidscondities
 
 ### 13. Geldigheidscondities
 
@@ -17698,7 +17854,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### TGG
 
-### TGG
+### B. Lijst met wettelijke grenswaarden voor kankerverwekkende en reprotoxische stoffen
 
 ### A. Lijst wettelijke grenswaarden
 
@@ -17726,7 +17882,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 8. **Entreecriteria**
 
-### Protocol Informatieuitwisseling ASBESTverwijdering Nederlandse Arbeidsinspectie – Certificerende Instellingen
+### Artikel 5:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van categorie III en IV afwijkingen (bijlage H van SC 530)
 
 ### Artikel 1:. begripsomschrijvingen
 
@@ -22927,15 +23083,15 @@ In deze paragraaf wordt verstaan onder:
 
 - a. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- b. **beroepskwalificaties:** beroepskwalificaties, als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- b. **beroepskwalificaties:** beroepskwalificaties als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- c. **betrokken staat:** betrokken staat, als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- c. **betrokken staat:** betrokken staat als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- d. **dienstverrichter:** dienstverrichter, als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
+- d. **meldingsplichtige dienstverrichter:** dienstverrichter als bedoeld in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2025-02-01&g=2025-02-01);
 
-- e. **aanpassingsstage:** aanpassingstage, als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- e. **aanpassingsstage:** aanpassingstage als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- f. **proeve van bekwaamheid:** proeve van bekwaamheid, als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1).
+- f. **proeve van bekwaamheid:** proeve van bekwaamheid als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1).
 
 ##### Artikel 1.9a. Erkenning EU-beroepskwalificaties
 
@@ -22981,53 +23137,61 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 1.9b. Meldingsplicht en te verstrekken documenten bij tijdelijke en incidentele dienstverrichting
 
-1. Voorafgaand aan de eerste dienstverrichting doet de dienstverrichter, die een beroep uitoefent als genoemd in de [artikelen 3.5h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), [4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), [4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), [4.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), [4.54d, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), [6.16, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), en [7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), melding aan de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, en verstrekt daarbij de volgende documenten:
+1. Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) die:
 
-- a. een schriftelijke verklaring waaruit blijkt welk gereglementeerd beroep de dienstverrichter in Nederland komt verrichten en waarin gegevens zijn opgenomen betreffende de verzekeringsdekking of soortgelijke bescherming tegen financiële risico’s van beroepsaansprakelijkheid;
+- a. een beroep uitoefent, genoemd in de [artikelen 3.5h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), en [6.16, derde en zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16); of
+
+- b. beroepsmatig arbeid verricht als bedoeld in de[artikelen 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8),[4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), [4.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), [4.54d, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), en [7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32);
+
+doet voorafgaand aan de eerste dienstverrichting melding aan de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, en verstrekt daarbij de documenten, genoemd in het tweede lid.
+
+2. De documenten, bedoeld in het eerste lid, zijn:
+
+- a. een schriftelijke verklaring waaruit blijkt welk gereglementeerd beroep de meldingsplichtige dienstverrichter in Nederland komt verrichten en waarin gegevens zijn opgenomen betreffende de verzekeringsdekking of soortgelijke bescherming tegen financiële risico’s van beroepsaansprakelijkheid;
 
 - b. de documenten betreffende nationaliteit en verblijf, bedoeld in [artikel 23, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23);
 
 - c. een bewijs van beroepskwalificaties;
 
-- d. een bewijs dat de dienstverrichter gerechtigd is om het betreffende beroep uit te oefenen in een andere betrokken staat dan Nederland;
+- d. een bewijs dat de meldingsplichtige dienstverrichter gerechtigd is om het betreffende beroep uit te oefenen in een andere betrokken staat dan Nederland;
 
 - e. een document dat niet ouder dan drie maanden is, waaruit blijkt dat ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten op de uitoefening van het betreffende beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend zijn verloren;
 
 - f. indien de aanvrager houder is van een opleidingstitel die is afgegeven in een ander land dan de betrokken staat van vestiging, een schriftelijke verklaring waaruit blijkt dat de opleidingstitel door het daarvoor bevoegd gezag van de betrokken staat van vestiging is erkend;
 
-- g. Indien het beroep dat of de opleiding van de aanvrager die leidt tot toegang tot of tot uitoefening van het beroep, niet is gereglementeerd in de betrokken staat van vestiging, een schriftelijke verklaring waaruit blijkt dat de aanvrager in de tien jaar voorafgaand aan de dienstverrichting in Nederland gedurende ten minste een jaar het betreffende beroep heeft uitgeoefend in de betrokken staat van vestiging; en
+- g. indien het beroep dat of de opleiding van de aanvrager die leidt tot toegang tot of tot uitoefening van het beroep, niet is gereglementeerd in de betrokken staat van vestiging, een schriftelijke verklaring waaruit blijkt dat de aanvrager in de tien jaar voorafgaand aan de dienstverrichting in Nederland gedurende ten minste een jaar het betreffende beroep heeft uitgeoefend in de betrokken staat van vestiging; en
 
 - h. een document inzake gezondheid als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=15) indien een dergelijk document ook van eigen onderdanen wordt vereist.
 
-2. De dienstverrichter verstrekt de in het eerste lid, onderdeel a, bedoelde verklaring een maal per jaar indien hij voornemens is gedurende dat jaar in Nederland diensten te verrichten. Daarbij verstrekt de dienstverrichter opnieuw de documenten, genoemd in het eerste lid, voor zover zich daarin een wijziging heeft voorgedaan.
+3. De meldingsplichtige dienstverrichter verstrekt de in het tweede lid, onderdeel a, bedoelde verklaring een maal per jaar indien hij voornemens is gedurende dat jaar in Nederland diensten te verrichten. Daarbij verstrekt de meldingsplichtige dienstverrichter opnieuw de documenten, genoemd in het tweede lid, voor zover zich daarin een wijziging heeft voorgedaan.
 
-3. Indien de documenten, bedoeld in het eerste lid, onderdelen a, c, d, e, f, g en h, in een andere taal dan de Nederlandse taal zijn gesteld, wordt op verzoek van de minister, dan wel de door hem aangewezen instelling, bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), zo nodig een vertaling in het Nederlands overlegd die is opgesteld door een beëdigd vertaler. Indien de minister of de hiervoor genoemde instelling daarmee instemt, kan een vertaling van de documenten in een andere taal dan het Nederlands worden overlegd. Afschriften van deze documenten zijn gewaarmerkt.
+4. Indien de documenten, bedoeld in het tweede lid, onderdelen a, c, d, e, f, g en h, in een andere taal dan de Nederlandse taal zijn gesteld, wordt op verzoek van de minister, dan wel de door hem aangewezen instelling, bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), zo nodig een vertaling in het Nederlands overlegd die is opgesteld door een beëdigd vertaler. Indien de minister of de hiervoor genoemde instelling daarmee instemt, kan een vertaling van de documenten in een andere taal dan het Nederlands worden overlegd. Afschriften van deze documenten zijn gewaarmerkt.
 
 ##### Artikel 1.9c. Controle beroepskwalificaties bij tijdelijke en incidentele dienstverrichting voor beroepen die verband houden met de volksgezondheid of openbare veiligheid
 
-1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2025-01-18&g=2025-01-18).
+1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de meldingsplichtige dienstverrichter.
 
-2. In aanvulling op de documenten, genoemd in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2025-01-18&g=2025-01-18), verstrekt de dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, derde lid, de volgende documenten:
+2. In aanvulling op de documenten, genoemd in [artikel 1.9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2025-02-01&g=2025-02-01), verstrekt de meldingsplichtige dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, vierde lid, de volgende documenten:
 
-- a. het programma van de opleiding tot het desbetreffende beroep, onderverdeeld in theorie en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de dienstverrichter de opleidingstitel heeft behaald;
+- a. het programma van de opleiding tot het desbetreffende beroep, onderverdeeld in theorie en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de meldingsplichtige dienstverrichter de opleidingstitel heeft behaald;
 
-- b. cijferlijsten en beoordelingen van studieresultaten, praktijkperiode of stages van de dienstverrichter; en
+- b. cijferlijsten en beoordelingen van studieresultaten, praktijkperiode of stages van de meldingsplichtige dienstverrichter; en
 
 - c. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
 
 3. De minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, beslist met inachtneming van de termijnen, genoemd in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28).
 
-4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, de dienstverrichter de mogelijkheid om door middel van een proeve van bekwaamheid, bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-01-18&g=2025-01-18), aan te tonen dat hij over de ontbrekende kennis, vaardigheden of competenties beschikt.
+4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, de meldingsplichtige dienstverrichter de mogelijkheid om door middel van een proeve van bekwaamheid als bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-02-01&g=2025-02-01), aan te tonen dat hij over de ontbrekende kennis, vaardigheden of competenties beschikt.
 
-5. De dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) heeft aangewezen, die instelling, een schriftelijke verklaring in de vorm van een bewijs van toetsing indien op grond van de controle de beroepskwalificaties voldoende zijn voor tijdelijke en incidentele dienstverrichting in Nederland.
+5. De meldingsplichtige dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) heeft aangewezen, die instelling, een schriftelijke verklaring in de vorm van een bewijs van toetsing indien op grond van de controle de beroepskwalificaties voldoende zijn voor tijdelijke en incidentele dienstverrichting in Nederland.
 
 ##### Artikel 1.9d. Proeve van bekwaamheid bij tijdelijke en incidentele dienstverrichting
 
-1. De dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2025-01-18&g=2025-01-18), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, in de gelegenheid gesteld de proeve van bekwaamheid, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2025-01-18&g=2025-01-18), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2025-01-18&g=2025-01-18), is van overeenkomstige toepassing.
+1. De meldingsplichtige dienstverrichter wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, in de gelegenheid gesteld de proeve van bekwaamheid, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2025-02-01&g=2025-02-01), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2025-02-01&g=2025-02-01), is van overeenkomstige toepassing.
 
-2. Na het afleggen van de proeve van bekwaamheid zendt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, een bewijs van toetsing aan de dienstverrichter indien het resultaat van de proeve van bekwaamheid voldoende is voor tijdelijke en incidentele dienstverrichting in Nederland.
+2. Na het afleggen van de proeve van bekwaamheid zendt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, een bewijs van toetsing aan de meldingsplichtige dienstverrichter indien het resultaat van de proeve van bekwaamheid voldoende is voor tijdelijke en incidentele dienstverrichting in Nederland.
 
-3. Indien het resultaat van de proeve van bekwaamheid onvoldoende is, heeft de dienstverrichter het recht nogmaals een proeve van bekwaamheid af te leggen.
+3. Indien het resultaat van de proeve van bekwaamheid onvoldoende is, heeft de meldingsplichtige dienstverrichter het recht nogmaals een proeve van bekwaamheid af te leggen.
 
 ##### Artikel 1.9e. Registratie
 
@@ -23061,31 +23225,19 @@ Vervallen
 
 ### Hoofdstuk 8a. Overtredingen en maatregelen
 
-## Bijlage Ia. behorend bij [artikel 2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2024-01-01&g=2024-01-01), Beschrijving scenario’s
+## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-02-01&g=2025-02-01)
 
-Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5) komen in ieder geval aan de orde:
-
-- 1. Bij de beschrijving wordt in aanmerking genomen welke van de volgende voorvallen deze scenario’s op gang kunnen brengen: corrosie, erosie, externe belasting, impact, overdruk, onderdruk, lage temperatuur, hoge temperatuur, trillingen en menselijke fouten tijdens gebruik, wijziging of onderhoud;
-
-- 2. Van elk scenario wordt aangegeven wat de waarschijnlijkheid en het effect is en welke maatregelen getroffen zijn om te voorkomen dat het scenario zich voordoet; en
-
-- 3. Voorts wordt voor elk scenario, ter beoordeling van de risico’s en rekening houdend met de reeds getroffen maatregelen, een samenhangend inzicht geboden in:
-
-- a. de resterende kans dat een zwaar ongeval geschiedt;
-
-- b. de ernst van de gevolgen die het zware ongeval in dat geval zal hebben; en
-
-- c. welke verdere maatregelen technisch mogelijk zijn om de kans op een zwaar ongeval verder te verkleinen tot een daarbij aan te geven niveau.
+Vervallen
 
 ### 4.5. Certificatiepersoneel
 
 ### 10.3.4. Beide toepassingsgebieden
 
-### 4. **Het certificatiereglement**
+### H (Huidopname)
 
 ### C (Ceilingwaarde)
 
-### CAS-nummer
+### A. Lijst wettelijke grenswaarden
 
 ### H (Huidopname)
 
@@ -32595,21 +32747,83 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-## Bijlage Ia. behorend bij [artikel 2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2025-01-18&g=2025-01-18), Beschrijving scenario’s
+## Bijlage VI. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01)
 
-Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5) komen in ieder geval aan de orde:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) betreft ten aanzien van:
 
-- 1. Bij de beschrijving wordt in aanmerking genomen welke van de volgende voorvallen deze scenario’s op gang kunnen brengen: corrosie, erosie, externe belasting, impact, overdruk, onderdruk, lage temperatuur, hoge temperatuur, trillingen en menselijke fouten tijdens gebruik, wijziging of onderhoud;
+- A. het voorontwerprapport:
 
-- 2. Van elk scenario wordt aangegeven wat de waarschijnlijkheid en het effect is en welke maatregelen getroffen zijn om te voorkomen dat het scenario zich voordoet; en
+- I. het identificeren en evalueren van gevaren en de daarmee samenhangende risico's van de verschillende overwogen ontwerpopties;
 
-- 3. Voorts wordt voor elk scenario, ter beoordeling van de risico’s en rekening houdend met de reeds getroffen maatregelen, een samenhangend inzicht geboden in:
+- II. van het gekozen ontwerp:
 
-- a. de resterende kans dat een zwaar ongeval geschiedt;
+- het vaststellen van beheersmaatregelen die risico's uitsluiten of verminderen;
 
-- b. de ernst van de gevolgen die het zware ongeval in dat geval zal hebben; en
+- het evalueren van risicoverminderende systemen;
 
-- c. welke verdere maatregelen technisch mogelijk zijn om de kans op een zwaar ongeval verder te verkleinen tot een daarbij aan te geven niveau.
+- het vaststellen van noodzakelijke beheerssystemen, en
+
+- het evalueren van voorlopige berekeningen van overdruk ten gevolge van explosies.
+
+- B. het gedetailleerd ontwerp, opstarten en gebruik:
+
+- het beoordelen van de toepasbaarheid en, indien nodig, het herzien van het voorontwerprapport;
+
+- het vaststellen van de soort, de kans, de gevolgen, de frequentie en de combinaties van gevaren en de daarmee samenhangende risico's;
+
+- het aantonen dat de opgeslagen hoeveelheid koolwaterstoffen geminimaliseerd is;
+
+- het evalueren van definitieve berekeningen van overdruk ten gevolge van explosies;
+
+- het aantonen van de doeltreffendheid van de geïnstalleerde systemen;
+
+- het aantonen dat het risico van brand, hittestraling, ontploffing en het vrijkomen van giftige gassen of dampen geminimaliseerd is;
+
+- het aantonen dat de veiligheidssystemen doeltreffend beschermd zijn;
+
+- het aantonen dat de algemene preventie principes in het ontwerp zijn meegenomen;
+
+- het aantonen dat de kans op binnentreden van rook of gas in de accommodatieruimten geminimaliseerd is;
+
+- het aantonen dat de kwaliteit van de in te ademen lucht in de accommodatieruimten is gewaarborgd;
+
+- het aantonen dat de evacuatie-, ontsnappings-, en reddingssystemen doeltreffend zijn;
+
+- het evalueren van de doelgerichtheid en de doeltreffendheid van procedures en beheersmaatregelen gedurende de constructie activiteiten;
+
+- het evalueren van de bestaande systemen van toezicht ten aanzien van de werkzaamheden;
+
+- het evalueren van de procedures voor het in gebruik nemen van het boorwerk of de vast opgestelde mijnbouwinstallatie.
+
+- C. het addendum gebruik:
+
+- het beoordelen van de toepasbaarheid en, indien nodig, het herzien van het gedetailleerd ontwerp, opstarten en gebruik;
+
+- het nagaan of alle aanbevelingen uit doorlichtingen, inspecties of het onderzoek naar voorvallen, ongevallen en klachten zijn uitgevoerd; en
+
+- het nagaan of alle veranderingen, bevindingen, conclusies en aanbevelingen van de verschillende doorlichtingen en inspecties op schrift zijn vastgelegd.
+
+- D. het addendum grote wijzigingen:
+
+- het beoordelen van de toepasbaarheid en, indien nodig, het herzien van het addendum gebruik;
+
+- het vaststellen van het soort, de kans, de gevolgen, de frequentie en de combinaties van gevaren en de daarmee samenhangende risico's;
+
+- het uitvoeren van een risico-analyse van de voorgestelde grote wijzigingen;
+
+- het evalueren van de doelgerichtheid en de doeltreffendheid van procedures en beheersmaatregelen gedurende de constructie activiteiten; en
+
+- het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen.
+
+- E. het addendum verlaten en verwijderen:
+
+- het vaststellen van het soort, de kans, de gevolgen, de frequentie en de combinaties van gevaren en de daarmee samenhangende risico's;
+
+- het uitvoeren van een risico-analyse van de verwijderingsmethoden en -technieken;
+
+- het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen; en
+
+- het aantonen dat de hoeveelheid koolwaterstoffen, toxische stoffen en chemische stoffen geminimaliseerd is.
 
 ## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2013-11-01&g=2013-11-01)
 
@@ -32621,9 +32835,9 @@ Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, on
 
 ### C (Ceilingwaarde)
 
-### 10.3.4. Beide toepassingsgebieden
+### 11. Hercertificatie
 
-### 10.3.5. Beperkt toepassingsgebied (toetstermen 1.1 t/m 3.4.2)
+### 12. Het certificaat
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
@@ -37767,7 +37981,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 1.9da. Geldigheidsduur opname in register, certificaat van vakbekwaamheid en bewijs van toetsing
 
-1. Registratie of herregistratie als bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), een certificaat dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven, en een bewijs van toetsing dat op grond van de [artikelen 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2025-01-18&g=2025-01-18) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-01-18&g=2025-01-18) is afgegeven, ten behoeve van tijdelijke en incidentele dienstverrichting, hebben een geldigheidsduur die gelijk is aan de geldigheidsduur van de registratie of herregistratie in het register, genoemd in artikel 1.5j, eerste lid, van het besluit, dan wel van het persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), bedoeld in [artikel 1.5f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5f), vereist is voor de uitoefening van hetzelfde beroep.
+1. Registratie of herregistratie als bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), een certificaat dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven, en een bewijs van toetsing dat op grond van de [artikelen 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2025-02-01&g=2025-02-01) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-02-01&g=2025-02-01) is afgegeven, ten behoeve van tijdelijke en incidentele dienstverrichting, hebben een geldigheidsduur die gelijk is aan de geldigheidsduur van de registratie of herregistratie in het register, genoemd in artikel 1.5j, eerste lid, van het besluit, dan wel van het persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), bedoeld in [artikel 1.5f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5f), vereist is voor de uitoefening van hetzelfde beroep.
 
 2. De geldigheid van het bewijs van toetsing, bedoeld in het eerste lid, kan door de minister worden beperkt of beëindigd naar aanleiding van controles die zijn uitgevoerd in het kader van toezicht.
 
@@ -37807,59 +38021,75 @@ Intrinsieke kenmerken:
 
 ### 5. TOEZICHT
 
-## Bijlage Ib. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-01-18&g=2025-01-18), Veiligheidsbeheerssysteem
+## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01)
 
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen in ieder geval aan de orde:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) betreft ten aanzien van:
 
-- a. het veiligheidsbeheerssysteem dient afgestemd te zijn op de gevaren, de werkzaamheden en de complexiteit van de organisatie in het bedrijf of de inrichting en moet op de evaluatie van de risico's gebaseerd zijn; in het veiligheidsbeheerssysteem moet dat gedeelte van het algemene beheerssysteem zijn opgenomen waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de procedés en de hulpmiddelen welke het mogelijk maken het preventiebeleid voor zware ongevallen te bepalen en uit te voeren, behoren;
+- A. het gedetailleerd ontwerp, opstarten en gebruik:
 
-- b. de organisatie en het personeel:
+- het vaststellen van het soort, de kans, de gevolgen, de frequentie en de combinaties van gevaren en de daarmee samenhangende risico's;
 
-- –. de taken en verantwoordelijkheden van de werknemers die op alle organisatorische niveaus bij het beheersen van de gevaren en risico’s van zware ongevallen wordt betrokken, samen met de maatregelen die worden genomen om het bewustzijn te doen toenemen dat voortdurende verbetering nodig is.
+- het aantonen dat de opgeslagen hoeveelheid koolwaterstoffen geminimaliseerd is;
 
-- –. het onderkennen van de behoeften aan opleiding van de betrokken werknemers en het organiseren van die opleiding.
+- het aantonen van de doeltreffendheid van de geïnstalleerde systemen;
 
-- –. de deelneming aan die opleiding van de betrokken werknemers, met inbegrip van de werknemers van aannemers en van onderaannemers en zelfstandigen die in het bedrijf of de inrichting werken, en die vanuit veiligheidsopzicht belangrijk zijn;
+- het aantonen dat het risico van brand, hittestraling, ontploffing en het vrijkomen van giftige gassen of dampen geminimaliseerd is;
 
-- c. de identificatie en evaluatie van de gevaren en risico’s van zware ongevallen: de vaststelling en toepassing van procedures voor de systematische identificatie van de gevaren en risico’s van zware ongevallen die zich bij normale of abnormale werking kunnen voordoen, in voorkomend geval met inbegrip van in aanneming of onderaanneming verrichte activiteiten, alsook de beoordeling van de waarschijnlijkheid en de ernst van die ongevallen;
+- het evalueren van definitieve berekeningen van overdruk ten gevolge van explosies;
 
-- d. de controle op de uitvoering:
+- het aantonen dat de veiligheidssystemen doeltreffend beschermd zijn;
 
-- –. de vaststelling en toepassing van procedures en instructies voor veilige werking, waaronder het onderhoud, van de installatie, processen en apparatuur, en voor het alarmbeheer en tijdelijke onderbrekingen; rekening houdend met de beschikbare informatie betreffende beste praktijken op het vlak van monitoring en controle met het oog op het verminderen van het risico op systeem falen;
+- het aantonen dat de algemene preventie principes in het ontwerp zijn meegenomen;
 
-- –. het beheer en de controle van de risico's die samenhangen met verouderende apparatuur die geïnstalleerd is in het bedrijf of de inrichting, en corrosie;
+- het aantonen dat de kans op binnentreden van rook of gas in de accommodatieruimten geminimaliseerd is;
 
-- –. de inventarisatie van de apparatuur in het bedrijf of de inrichting, en de strategie en methodologie voor het houden van toezicht op en de controle van de staat van de apparatuur;
+- het aantonen dat de kwaliteit van de in te ademen lucht in de accommodatieruimten is gewaarborgd;
 
-- –. het treffen van passende follow-upmaatregelen en noodzakelijke tegenmaatregelen;
+- het aantonen dat de evacuatie-, ontsnappings-, en reddingssystemen doeltreffend zijn;
 
-- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en toepassing van procedures voor de planning van wijzigingen aan bestaande installaties en opslagplaatsen, dan wel voor het ontwerpen van een nieuw procedé of een nieuwe installatie of opslagplaats;
+- het evalueren van de bestaande systemen van toezicht ten aanzien van de werkzaamheden;
 
-- f. de planning voor noodsituaties: de vaststelling en toepassing van procedures om door een systematische analyse de voorzienbare noodsituaties te onderkennen en de noodplannen voor dergelijke noodsituaties uit te werken, te beproeven en te toetsen, en om specifieke opleiding voor de betrokken werknemers te verzorgen. Dergelijke opleiding wordt gegeven aan alle personen die in de installatie werken, met in begrip van de werknemers van aannemers en van onderaannemers en zelfstandigen;
+- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01);
 
-- g. het toezicht op de prestaties: de vaststelling en toepassing van procedures voor een permanente beoordeling van de inachtneming van de doelstellingen die door de werkgever zijn bepaald als onderdeel van het preventiebeleid voor zware ongevallen en van het veiligheidsbeheerssysteem, en invoering van regelingen voor onderzoek en correctie bij niet-inachtneming. Tot deze procedures behoren het systeem voor de melding van zware ongevallen of bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, alsook het onderzoek daarnaar en de follow-up, een en ander op basis van de ervaringen uit het verleden. Tot de procedures behoren ook prestatie-indicatoren zoals veiligheidsprestatie-indicatoren (safety performance indicators, SPIs) en/of andere relevante indicatoren; en
+- B. het addendum gebruik:
 
-- h. controle en analyse: de vaststelling en toepassing van procedures om het preventiebeleid voor zware ongevallen en de doeltreffendheid en deugdelijkheid van het veiligheidsbeheerssysteem systematisch periodiek te beoordelen, alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de bijwerking daarvan, inclusief het overwegen en opnemen van noodzakelijke wijzigingen die door de controle en analyse aangegeven worden.
+- het beoordelen van de toepasbaarheid en, indien nodig, het herzien van het gedetailleerd ontwerp, opstarten en gebruik;
+
+- het nagaan of alle aanbevelingen uit doorlichtingen, inspecties of het onderzoek naar voorvallen, ongevallen en klachten zijn uitgevoerd; en
+
+- het nagaan of alle veranderingen, bevindingen, conclusies en aanbevelingen van de verschillende doorlichtingen en inspecties op schrift zijn vastgelegd.
+
+- C. het addendum grote wijzigingen:
+
+- het beoordelen van de toepasbaarheid en, indien nodig, het herzien van het addendum gebruik;
+
+- het vaststellen van het soort, de kans, de gevolgen, de frequentie en de combinaties van gevaren en de daarmee samenhangende risico's;
+
+- het uitvoeren van een risico-analyse van de voorgestelde grote wijzigingen;
+
+- het evalueren van de doelgerichtheid en de doeltreffendheid van de procedure en de beheersmaatregelen gedurende de constructieactiviteiten; en
+
+- het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen.
 
 ## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2015-01-01&g=2015-01-01)
 
 ## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2015-01-01&g=2015-01-01)
 
-### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
+### 10.3.5. Beperkt toepassingsgebied (toetstermen 1.1 t/m 3.4.2)
 
 ### **Respirabele vezels**
 
 ### 12. Het certificaat
 
-### 13. Geldigheidscondities
+### C (Ceilingwaarde)
 
 ### Lijst van wettelijke grenswaarden op grond van de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), en [4.16, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16)
 
-### C. Lijst met wettelijke grenswaarden voor allergenen, vastgesteld volgens de risicobenadering en na haalbaarheidsafweging
+### Artikel 1:. begripsomschrijvingen
 
 ### 4. **Eisen ten behoeve van de aanwijzing**
 
-### Artikel 2:. aanwijzen van contactpersonen
+### Artikel 6:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overtredingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
 
 ### Artikel 4:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van overige categorie II afwijkingen (bijlage B van dit protocol)
 
@@ -39703,7 +39933,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-01-18&g=2025-01-18) Arbeidsomstandighedenregeling
+## Bijlage X. behorend bij [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2025-02-01&g=2025-02-01) van de Arbeidsomstandighedenregeling
 
 Vervallen
 
@@ -39711,7 +39941,7 @@ Vervallen
 
 ## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2016-07-05&g=2016-07-05)
 
-### Bijlage A. gedragscode vuurwerkdeskundige
+### Drempelwaarde
 
 ### 11.1. **Toetstermen**
 
@@ -43200,31 +43430,31 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.15. Schakelbepaling
 
-Op een arbeidsplaats in de winningsindustrie voor het opsporen en de winning van koolwaterstoffen zijn naast de voorschriften van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&z=2025-01-18&g=2025-01-18) van dit hoofdstuk tevens de voorschriften van deze paragraaf van toepassing.
+Op een arbeidsplaats in de winningsindustrie voor het opsporen en de winning van koolwaterstoffen zijn naast de voorschriften van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&z=2025-02-01&g=2025-02-01) van dit hoofdstuk tevens de voorschriften van deze paragraaf van toepassing.
 
 ##### Artikel 3.16. Veiligheids- en gezondheidszorgsysteem in verband met zware ongevallen
 
-In aanvulling op [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2025-01-18&g=2025-01-18) bevat de aanvulling op het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 2.42k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 9, en IV, onderdeel 1, bij de richtlijn.
+In aanvulling op [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2025-02-01&g=2025-02-01) bevat de aanvulling op het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 2.42k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 9, en IV, onderdeel 1, bij de richtlijn.
 
 ##### Artikel 3.17. Veiligheids- en gezondheidsbeleid en -document in verband met zware ongevallen
 
-In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, over de aanvulling op het arbeidsomstandighedenbeleid, bedoeld in [artikel 2.42k, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 8, en IV, onderdeel 1, bij de richtlijn.
+In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, over de aanvulling op het arbeidsomstandighedenbeleid, bedoeld in [artikel 2.42k, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 8, en IV, onderdeel 1, bij de richtlijn.
 
-##### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18)
+##### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01)
 
-1. In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
+1. In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
-2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
+2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
-##### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18)
+##### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01)
 
-1. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
+1. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
-2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-01-18&g=2025-01-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-01-18&g=2025-01-18) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-01-18&g=2025-01-18) voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
+2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2025-02-01&g=2025-02-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01) voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
 ##### Artikel 3.20. Noodplan in verband met zware ongevallen
 
-In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-01-18&g=2025-01-18), bevat de aanvulling op het noodplan, bedoeld in [artikel 3.37za, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37za), ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij de richtlijn, met dien verstande dat onder extern rampenplan als bedoeld in de punten 2 en 9 wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
+In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-02-01&g=2025-02-01), bevat de aanvulling op het noodplan, bedoeld in [artikel 3.37za, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37za), ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij de richtlijn, met dien verstande dat onder extern rampenplan als bedoeld in de punten 2 en 9 wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
 
 ### Hoofdstuk 4. Veiligheid tankschepen en gevaarlijke stoffen
 
@@ -43238,7 +43468,7 @@ In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 #### Paragraaf 6.2. Opleidingen
 
-#### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
+#### Paragraaf 7.2. Hijs- en hefwerktuigen en hijs- en hefgereedschappen aan boord van schepen
 
 ### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
 
@@ -43821,7 +44051,7 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - 5. gegevens betreffende ademhalingsbeschermingsmiddelen voor de met het bestrijden van brand belaste personen.
 
-### 4.7. Eisen aan personeel van onderaannemers
+### 4.12. Hercertificatie
 
 ## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2017-10-01&g=2017-10-01)
 
@@ -43829,7 +44059,7 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 ### 8. **Entreecriteria**
 
-### Artikel 8:. privacy-aspecten
+### Bijlage B. Categorie II overtredingen vastgesteld tijdens een projectlocatie, niet zijnde overtredingen genoemd in bijlage A
 
 ### 4.1.9. **Gebruik van het beeldmerk**
 
@@ -44125,7 +44355,7 @@ De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van h
 
 ### Artikel 2:. aanwijzen van contactpersonen
 
-### Artikel 3:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van afwijkingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
+### Artikel 12:. geldigheid
 
 ### Artikel 6:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overtredingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
 
@@ -45200,9 +45430,9 @@ Indien toepassing wordt gegeven aan [artikel 4.3, vierde en vijfde lid](https://
 
 ### Hoofdstuk 7. Arbeidsmiddelen
 
-#### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
-
 #### Paragraaf 7.1. Certificatie hijskranen
+
+#### Paragraaf 7.3. Registratie of herregistratie machinisten hijskranen en funderingsmachines
 
 ### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
 
@@ -45478,9 +45708,7 @@ De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van h
 
 ### Hoofdstuk 8a. Overtredingen en maatregelen
 
-## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2025-01-18&g=2025-01-18)
-
-Vervallen
+## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2025-02-01&g=2025-02-01)
 
 ## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2018-10-01&g=2018-10-01)
 
@@ -46253,25 +46481,31 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-## Bijlage Ic. behorend bij [artikel 2.0d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0d&z=2025-01-18&g=2025-01-18) Intern noodplan
+## Bijlage VIII. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-02-01&g=2025-02-01)
 
-Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b) bevat in ieder geval de volgende gegevens en beschrijvingen:
+De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2025-02-01&g=2025-02-01), betreft:
 
-- a. de naam of functie van de personen die bevoegd zijn om noodprocedures in werking te laten treden en van de personen die belast zijn met de leiding en coördinatie van de bestrijdingsmaatregelen op het terrein van het bedrijf of de inrichting;
+- a. een beschrijving van de organisatiestructuur van de werkgever en de en verantwoordelijke personen in geval van nood alsmede een overzicht van hun taken en bevoegdheden;
 
-- b. de naam en functie van de persoon die verantwoordelijk is voor de contacten met de voor het externe noodplan verantwoordelijke autoriteiten;
+- b. een beschrijving van de organisatie van de personen belast met het gebruik van en het geoefend zijn in het gebruik van evacuatie-, ontsnappings- en reddingsmiddelen alsmede de personen belast met speciale taken bij het evacueren en redden van personen op een mijnbouwinstallatie;
 
-- c. voor te voorziene omstandigheden en gebeurtenissen die een doorslaggevende rol kunnen spelen bij het ontstaan van een zwaar ongeval, een beschrijving van de te nemen maatregelen ter beheersing van de toestand of gebeurtenis en ter beperking van de gevolgen ervan, met inbegrip van een beschrijving van de beschikbare veiligheidsuitrusting en -middelen;
+- c. de wijze van alarmering;
 
-- d. de regelingen ter beperking van het risico voor personen op het terrein van het bedrijf of de inrichting, waaronder het alarmsysteem en de gedragsregels bij het afgaan van het alarm;
+- d. de regeling van de hulpverlening;
 
-- e. de regelingen om de autoriteit die verantwoordelijk is voor het in werking laten treden van het externe noodplan bij een zwaar ongeval snel in te lichten, het soort informatie dat onmiddellijk moet worden verstrekt en de regelingen voor het verstrekken van uitvoeriger informatie, wanneer deze beschikbaar wordt;
+- e. het aantal, soort en type evacuatie-, ontsnappings-, en reddingsmiddelen, alsmede de persoonlijke reddingsmiddelen die op de mijnbouwinstallatie in gebruik zijn;
 
-- f. waar noodzakelijk, regelingen om de werknemers op te leiden voor het vervullen van de taken die van hen worden verwacht en in voorkomend geval de coördinatie ervan met de externe hulpdiensten; en
+- f. de criteria voor de capaciteit van bijstandschepen en helikopters, inclusief de reactietijd daarvan;
 
-- g. de regelingen voor het verlenen van steun aan externe bestrijdings-maatregelen.
+- g. het aantal personen, dat ervaren is in het gebruik van het materieel, bedoeld in onderdeel e en f van deze bijlage;
 
-### C (Ceilingwaarde)
+- h. een schematische overzichtstekening waarop de evacuatie-, ontsnappings- en reddingsmiddelen op de mijnbouwinstallatie zijn aangegeven;
+
+- i. het soort en de frequentie van de te houden oefeningen;
+
+- j. de te nemen maatregelen ter verzekering van de veiligheid en gezondheid van met reddingswerk belaste personen, met name met het oog op de aan het verrichten van reddingswerk in een atmosfeer, waarin verstikkende of giftige gassen aanwezig zijn, of in een met radioactieve stoffen besmette atmosfeer verbonden gevaren.
+
+### TGG
 
 ### 6. **Maatregelen**
 
@@ -47087,19 +47321,17 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-##### Artikel 1.1c. Inrichting register
+##### Artikel 1.1c. Beheer register en opname verklaring omtrent het gedrag
 
-1. De verwerker, genoemd in [artikel 1.5k, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5k), voert een deugdelijk beheer ten aanzien van de registers, genoemd [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j).
+1. De verwerker, genoemd in [artikel 1.5k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5k), voert een deugdelijk beheer ten aanzien van de registers, genoemd [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j).
 
-2. De registers, genoemd in [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), bevatten de gegevens, genoemd in [artikel 1.5m, eerste lid, onder a, b, c, d, e, g, en h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m).
-
-3. De registers, genoemd in [artikel 1.5j, eerste lid, onderdelen a, d, e en f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), bevatten tevens het gegeven, bedoeld in [artikel 1.5m, eerste lid, onder f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m).
+2. De registers, genoemd in [artikel 1.5j, eerste lid, onderdelen a tot en met c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), bevatten tevens het gegeven, bedoeld in [artikel 1.5m, eerste lid, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m).
 
 ##### Artikel 1.1d. Verzoek om registratie of herregistratie
 
-1. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-01-18&g=2025-01-18), doet de verwerker van dit register de gegevens, bedoeld in artikel 1.1c, tweede lid, toekomen. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in artikel 1.1c, derde lid, doet de verwerker van dit register tevens het gegeven, bedoeld in artikel 1.1c, derde lid, toekomen.
+1. De persoon die zich wil laten registeren of herregistreren in een register, genoemd in [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), verstrekt de gegevens die op grond van [artikel 1.5l, eerste lid, onderdelen a tot en met c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) hiervoor zijn vereist aan de verwerker van het betreffende register. De persoon die zich wil laten registreren of herregisteren in een register als bedoeld in [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-02-01&g=2025-02-01), verstrekt daarbij tevens het gegeven bedoeld in artikel 1.5l, eerste lid, onderdeel d, van het besluit.
 
-2. De verwerker van het register kan bepalen dat de persoon, bedoeld in het eerste lid, een of meer gegevens als bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-01-18&g=2025-01-18), in digitale vorm verstrekt. Daartoe zorgt de verwerker voor een permanent bereikbare en volgens de stand van de techniek beveiligde website.
+2. De verwerker van het register kan bepalen dat de persoon, bedoeld in het eerste lid, een of meer gegevens als bedoeld in [artikel 1.5l, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) in digitale vorm verstrekt. Daartoe zorgt de verwerker voor een permanent bereikbare en volgens de stand van de techniek beveiligde website.
 
 3. De persoon, bedoeld in het eerste lid, legitimeert zich bij de verwerker zodanig dat deze zijn identiteit kan vaststellen.
 
@@ -47109,29 +47341,29 @@ Intrinsieke kenmerken:
 
 1. De administratie van het register is zodanig ingericht dat op verzoek van:
 
-- a. de geregistreerde of geherregistreerde tijdig aan hem de gegevens, bedoeld in het [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-01-18&g=2025-01-18) en voor zover van toepassing het derde lid, worden verstrekt ten behoeve van controle op juistheid en volledigheid;
+- a. de geregistreerde of geherregistreerde tijdig aan hem de gegevens, bedoeld in [artikel 1.5m, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m) worden verstrekt die over hem in het register zijn opgenomen, ten behoeve van controle op juistheid en volledigheid;
 
-- b. de werkgever van een werknemer, de opdrachtgever van een zelfstandige tijdig of de door de werkgever of opdrachtgever gemachtigde aan hem meegedeeld wordt of de door hem in zijn verzoek vermelde persoon in het register is opgenomen, en zo ja met welke status en voor welk werkveld of welke werkvelden;
+- b. de werkgever van een werknemer, de opdrachtgever van een zelfstandige of de door de werkgever of opdrachtgever gemachtigde aan hem tijdig meegedeeld wordt of de door hem in zijn verzoek vermelde persoon in het register is opgenomen, en zo ja met welke status en voor welk werkveld of welke werkvelden;
 
 - c. een andere direct betrokkene tijdig aan hem meegedeeld wordt of de door hem in zijn verzoek vermelde persoon in het register is opgenomen en zo ja met welke status en voor welk werkveld of welke werkvelden; en
 
-- d. de toezichthouder tijdig aan hem de gegevens, bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-01-18&g=2025-01-18), worden verstrekt die voor de naleving van de bij en krachtens de wet gegeven voorschriften van belang zijn.
+- d. de toezichthouder tijdig aan hem de gegevens, bedoeld in [artikel 1.5m, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m), worden verstrekt die voor de naleving van de bij en krachtens de wet gegeven voorschriften van belang zijn.
 
-2. De personen, bedoeld in het eerste lid, legitimeren zich bij de verwerker zodanig dat deze kan vaststellen dat zij geregistreerde of geherregistreerde, werkgever, opdrachtgever, gemachtigde, andere direct betrokkene of toezichthouder zijn.
+2. De personen, bedoeld in het eerste lid, onderdelen a en d, legitimeren zich bij de verwerker zodanig dat deze kan vaststellen dat zij geregistreerde of geherregistreerde onderscheidenlijk toezichthouder zijn.
 
 ##### Artikel 1.1f. Aanpassing gegevens op verzoek geregistreerde of geherregistreerde
 
-1. De geregistreerde of geherregistreerde kan de minister gemotiveerd verzoeken de in het register opgenomen gegevens, bedoeld in de [artikelen 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2025-01-18&g=2025-01-18), [1.9a, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2025-01-18&g=2025-01-18), en [1.9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-01-18&g=2025-01-18), aan te passen of te verwijderen.
+1. De geregistreerde of geherregistreerde kan de minister gemotiveerd verzoeken de in het register opgenomen gegevens, bedoeld in [artikel 1.5m, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m) en de [artikelen 1.9a, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2025-02-01&g=2025-02-01), en [1.9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2025-02-01&g=2025-02-01), aan te passen of te verwijderen.
 
 2. In voorkomend geval doet de geregistreerde of geherregistreerde de minister met het verzoek, bedoeld in het eerste lid, nieuwe gegevens toekomen.
 
-3. [Artikel 1.1d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1d&z=2025-01-18&g=2025-01-18), is van overeenkomstige toepassing.
+3. [Artikel 1.1d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1d&z=2025-02-01&g=2025-02-01), is van overeenkomstige toepassing.
 
 ##### Artikel 1.1g. Informeren geregistreerde of geherregistreerde
 
 De minister informeert de geregistreerde of geherregistreerde desgevraagd over:
 
-- a. door hem genomen besluiten betreffende een verzoek om informatie of inzage als bedoeld in [artikel 1.1e, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1e&z=2025-01-18&g=2025-01-18); en
+- a. door hem genomen besluiten betreffende een verzoek om informatie of inzage als bedoeld in [artikel 1.1e, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1e&z=2025-02-01&g=2025-02-01); en
 
 - b. door hem anders dan op verzoek van de geregistreerde of geherregistreerde in dat register aangepaste gegevens dan wel uit het register verwijderde gegevens.
 
@@ -47626,23 +47858,11 @@ Intrinsieke kenmerken:
 
 Vervallen
 
-## Bijlage Ia. behorend bij [artikel 2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2024-04-19&g=2024-04-19), Beschrijving scenario’s
+## Bijlage III. behorend bij artikel 3.1
 
-Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5) komen in ieder geval aan de orde:
+Vervallen
 
-- 1. Bij de beschrijving wordt in aanmerking genomen welke van de volgende voorvallen deze scenario’s op gang kunnen brengen: corrosie, erosie, externe belasting, impact, overdruk, onderdruk, lage temperatuur, hoge temperatuur, trillingen en menselijke fouten tijdens gebruik, wijziging of onderhoud;
-
-- 2. Van elk scenario wordt aangegeven wat de waarschijnlijkheid en het effect is en welke maatregelen getroffen zijn om te voorkomen dat het scenario zich voordoet; en
-
-- 3. Voorts wordt voor elk scenario, ter beoordeling van de risico’s en rekening houdend met de reeds getroffen maatregelen, een samenhangend inzicht geboden in:
-
-- a. de resterende kans dat een zwaar ongeval geschiedt;
-
-- b. de ernst van de gevolgen die het zware ongeval in dat geval zal hebben; en
-
-- c. welke verdere maatregelen technisch mogelijk zijn om de kans op een zwaar ongeval verder te verkleinen tot een daarbij aan te geven niveau.
-
-### 4.1. Persoonscertificatie Vuurwerkdeskundige
+### 4.5. Certificatiepersoneel
 
 ## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2021-01-09&g=2021-01-01)
 
@@ -48331,7 +48551,9 @@ Vervallen
 
 ### C. Lijst met wettelijke grenswaarden voor allergenen, vastgesteld volgens de risicobenadering en na haalbaarheidsafweging
 
-## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2025-01-18&g=2025-01-18)
+## Bijlage XVIIf. behorend bij [artikel 7.7, tweede lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
+
+Vervallen
 
 ## Bijlage XVIb. behorend bij [Artikel 6.5, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13)
 
@@ -48437,7 +48659,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 2.0d. Intern noodplan
 
-Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b), bevat in ieder geval de gegevens en beschrijvingen, bedoeld in [bijlage Ic](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=Ic&z=2025-01-18&g=2025-01-18) bij deze regeling.
+Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b), bevat in ieder geval de gegevens en beschrijvingen, bedoeld in [bijlage Ic](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=Ic&z=2025-02-01&g=2025-02-01) bij deze regeling.
 
 ##### Artikel 2.0e. Buiten toepassing verklaring geheel of gedeeltelijk van [Hoofdstuk 2, Afdeling 2, Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2)
 
@@ -48473,65 +48695,325 @@ Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](http
 
 ### Hoofdstuk 8a. Overtredingen en maatregelen
 
-## Bijlage Ia. behorend bij [artikel 2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2024-05-22&g=2024-05-22), Beschrijving scenario’s
+## Bijlage IV. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01)
 
-Bij de beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5) komen in ieder geval aan de orde:
+De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01), betreft voor zover van toepassing:
 
-- 1. Bij de beschrijving wordt in aanmerking genomen welke van de volgende voorvallen deze scenario’s op gang kunnen brengen: corrosie, erosie, externe belasting, impact, overdruk, onderdruk, lage temperatuur, hoge temperatuur, trillingen en menselijke fouten tijdens gebruik, wijziging of onderhoud;
+- a. een locatiekaart waarop de inter- en intrafieldpijpleidingen alsmede de onder water afgewerkte boorgaten zijn aangeduid;
 
-- 2. Van elk scenario wordt aangegeven wat de waarschijnlijkheid en het effect is en welke maatregelen getroffen zijn om te voorkomen dat het scenario zich voordoet; en
+- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01);
 
-- 3. Voorts wordt voor elk scenario, ter beoordeling van de risico’s en rekening houdend met de reeds getroffen maatregelen, een samenhangend inzicht geboden in:
+- c. voor- en zijaanzichten van het mijnbouwwerk;
 
-- a. de resterende kans dat een zwaar ongeval geschiedt;
+- d. een stroomdiagram dat het gehele behandelingsproces van delfstoffen omvat met een massabalans;
 
-- b. de ernst van de gevolgen die het zware ongeval in dat geval zal hebben; en
+- e. tekeningen van pijpen, instrumentatie voor de processystemen en de ondersteunende systemen (deze tekeningen worden alleen op verzoek van een toezichthouder opgestuurd);
 
-- c. welke verdere maatregelen technisch mogelijk zijn om de kans op een zwaar ongeval verder te verkleinen tot een daarbij aan te geven niveau.
+- f. tekeningen van gevarenzones;
 
-## Bijlage Ib. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2024-05-22&g=2024-05-22), Veiligheidsbeheerssysteem
+- g. oorzaak- en gevolgtekeningen die behoren bij de alarm- en insluitsystemen;
 
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen in ieder geval aan de orde:
+- h. tekeningen van de aanleg en situering van brand- en gasdetectiesystemen;
 
-- a. het veiligheidsbeheerssysteem dient afgestemd te zijn op de gevaren, de werkzaamheden en de complexiteit van de organisatie in het bedrijf of de inrichting en moet op de evaluatie van de risico's gebaseerd zijn; in het veiligheidsbeheerssysteem moet dat gedeelte van het algemene beheerssysteem zijn opgenomen waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de procedés en de hulpmiddelen welke het mogelijk maken het preventiebeleid voor zware ongevallen te bepalen en uit te voeren, behoren;
+- i. tekeningen van brandbeschermende voorzieningen;
 
-- b. de organisatie en het personeel:
+- j. tekeningen van reddingsmiddelen en ontsnappingsroutes;
 
-- –. de taken en verantwoordelijkheden van de werknemers die op alle organisatorische niveaus bij het beheersen van de gevaren en risico’s van zware ongevallen wordt betrokken, samen met de maatregelen die worden genomen om het bewustzijn te doen toenemen dat voortdurende verbetering nodig is.
+- k. Heating Ventilation Air Conditioning (HVAC)-tekeningen;
 
-- –. het onderkennen van de behoeften aan opleiding van de betrokken werknemers en het organiseren van die opleiding.
+- l. een diagram van alle oproep-, alarmerings- en communicatiesystemen;
 
-- –. de deelneming aan die opleiding van de betrokken werknemers, met inbegrip van de werknemers van aannemers en van onderaannemers en zelfstandigen die in het bedrijf of de inrichting werken, en die vanuit veiligheidsopzicht belangrijk zijn;
+- m. tekeningen van de indeling van het oproep- en alarmsysteem;
 
-- c. de identificatie en evaluatie van de gevaren en risico’s van zware ongevallen: de vaststelling en toepassing van procedures voor de systematische identificatie van de gevaren en risico’s van zware ongevallen die zich bij normale of abnormale werking kunnen voordoen, in voorkomend geval met inbegrip van in aanneming of onderaanneming verrichte activiteiten, alsook de beoordeling van de waarschijnlijkheid en de ernst van die ongevallen;
+- n. een beschrijving van het elektrisch systeem aan de hand van een één-lijndiagram waarop de noodsystemen zijn aangegeven;
 
-- d. de controle op de uitvoering:
+- p. de locatie en capaciteit van opslagplaatsen voor gevaarlijke stoffen;
 
-- –. de vaststelling en toepassing van procedures en instructies voor veilige werking, waaronder het onderhoud, van de installatie, processen en apparatuur, en voor het alarmbeheer en tijdelijke onderbrekingen; rekening houdend met de beschikbare informatie betreffende beste praktijken op het vlak van monitoring en controle met het oog op het verminderen van het risico op systeem falen;
+- q. de locatie van opslagplaatsen voor chemische stoffen, en
 
-- –. het beheer en de controle van de risico's die samenhangen met verouderende apparatuur die geïnstalleerd is in het bedrijf of de inrichting, en corrosie;
+- r. de locatie van opslagplaatsen voor ontplofbare stoffen.
 
-- –. de inventarisatie van de apparatuur in het bedrijf of de inrichting, en de strategie en methodologie voor het houden van toezicht op en de controle van de staat van de apparatuur;
+## Bijlage V. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01)
 
-- –. het treffen van passende follow-upmaatregelen en noodzakelijke tegenmaatregelen;
+De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2025-02-01&g=2025-02-01), betreft:
 
-- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en toepassing van procedures voor de planning van wijzigingen aan bestaande installaties en opslagplaatsen, dan wel voor het ontwerpen van een nieuw procedé of een nieuwe installatie of opslagplaats;
+- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
 
-- f. de planning voor noodsituaties: de vaststelling en toepassing van procedures om door een systematische analyse de voorzienbare noodsituaties te onderkennen en de noodplannen voor dergelijke noodsituaties uit te werken, te beproeven en te toetsen, en om specifieke opleiding voor de betrokken werknemers te verzorgen. Dergelijke opleiding wordt gegeven aan alle personen die in de installatie werken, met in begrip van de werknemers van aannemers en van onderaannemers en zelfstandigen;
+- a. de plaatsen en ruimten waar stoffen, voor welke verhoogd brandgevaar bestaat, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen zomede de plaatsen en ruimten, waar stoffen, die direct of indirect gevaar voor ontploffing kunnen veroorzaken, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen, met de naaste omgeving daarvan;
 
-- g. het toezicht op de prestaties: de vaststelling en toepassing van procedures voor een permanente beoordeling van de inachtneming van de doelstellingen die door de werkgever zijn bepaald als onderdeel van het preventiebeleid voor zware ongevallen en van het veiligheidsbeheerssysteem, en invoering van regelingen voor onderzoek en correctie bij niet-inachtneming. Tot deze procedures behoren het systeem voor de melding van zware ongevallen of bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, alsook het onderzoek daarnaar en de follow-up, een en ander op basis van de ervaringen uit het verleden. Tot de procedures behoren ook prestatie-indicatoren zoals veiligheidsprestatie-indicatoren (safety performance indicators, SPIs) en/of andere relevante indicatoren; en
+- b. de plaatsen, waar gas of vloeistof, eventueel ter verbranding, wordt afgevoerd;
 
-- h. controle en analyse: de vaststelling en toepassing van procedures om het preventiebeleid voor zware ongevallen en de doeltreffendheid en deugdelijkheid van het veiligheidsbeheerssysteem systematisch periodiek te beoordelen, alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de bijwerking daarvan, inclusief het overwegen en opnemen van noodzakelijke wijzigingen die door de controle en analyse aangegeven worden.
+- c. de plaatsen waar handbediende en automatische brandmeldinstallaties met bijbehorende alarmsignalen zijn geïnstalleerd; de soort signalering dient te worden vermeld;
 
-## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-01-18&g=2025-01-18)
+- d. de plaatsen, waar brandblusinstallaties of grote blusmiddelen zijn opgesteld, met vermelding van type, soort (handbediend of automatisch) en capaciteit van elk der installaties en middelen;
+
+- e. het globale aantal en de soort handbrandblusapparaten per ruimte; de plaatsen, waar pompen voor de bluswatervoorziening zijn opgesteld, de capaciteit van deze pompen, de plaatsen waar hydranten en brandslangen aanwezig zijn en brandslangen aan de bluswaterleiding kunnen worden aangesloten;
+
+- f. indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2025-02-01&g=2025-02-01): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
+
+- 2. de organisatie van de brandbestrijdingsdienst;
+
+- 3. de wijze van brandmelding en van alarmering;
+
+- 4. de regeling van de hulpverlening bij brand of ontploffing;
+
+- 5. gegevens betreffende ademhalingsbeschermingsmiddelen voor de met het bestrijden van brand belaste personen.
+
+## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2025-02-01&g=2025-02-01)
+
+**Veiligheids- en gezondheidsverklaring 10**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- De ladingtanks zijn gesloten.
+
+**Ligplaats**
+
+Niet aan de werf of het reparatiebedrijf.
+
+Binnen de 25 meter van de ladingzone mag geen vuur aanwezig zijn of naar redelijke verwachting kunnen ontstaan
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Werk met vuur tenminste 25 meter buiten de ladingzone, echter niet in K3-ruimten.
+
+**Veiligheids- en gezondheidsverklaring 11**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- De ladingtanks zijn gesloten en verzegeld.
+
+**Ligplaats**
+
+Het schip mag naar de werf of het reparatiebedrijf. Echter alleen naar een veilige ligplaats (= een ligplaats waar binnen een afstand van 25 meter van de ladingzone geen vuur aanwezig is of naar redelijke verwachting kan ontstaan).
+
+Binnen de 25 meter van de ladingzone mag geen vuur aanwezig zijn of naar redelijke verwachting kunnen ontstaan.
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Werk met vuur ten minste 25 meter buiten de ladingzone, echter niet in K3-ruimten.
+
+**Veiligheids- en gezondheidsverklaring 12/1**
+
+**Toestand van de ladingzone**
+
+- Een gedeelte van de ruimten binnen de ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- Een gedeelte van de ruimten binnen de ladingzone is veilig voor mensen en niet veilig voor vuur
+
+- Een gedeelte van de ladingzone is aangemerkt als zijnde veilig voor mensen en veilig voor vuur.
+
+In het laatste geval is de Veiligheids- en gezondheidsverklaring 12/1 een voorloper van de Veiligheids- en gezondheidsverklaring 12/2.
+
+Deze Veiligheids- en gezondheidsverklaring 12/2 kan pas worden uitgereikt indien sinds de uitreiking van de Veiligheids- en gezondheidsverklaring 12/1 ten minste 6 uren zijn verstreken. In deze periode mag zich geen wijziging voordoen in de toestand van de gehele ladingzone.
+
+**Ligplaats**
+
+Het schip mag naar de werf of het reparatiebedrijf.
+
+Binnen de 25 meter van de ladingzone mag geen vuur aanwezig zijn of naar redelijke verwachting kunnen ontstaan.
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+- Werk met vuur ten minste 25 meter buiten de ladingzone, echter niet in K3-ruimten.
+
+**Veiligheids- en gezondheidsverklaring 12/2**
+
+**Toestand van de ladingzone**
+
+- Een gedeelte van de ruimten binnen de ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- Een gedeelte van de ruimten binnen de ladingzone is veilig voor mensen en niet veilig voor vuur
+
+- Een gedeelte van de ladingzone is zowel veilig voor mensen als veilig voor vuur.
+
+De Veiligheids- en gezondheidsverklaring 12/2 kan pas worden uitgereikt indien gebleken is dat de ruimten waarin met vuur moet worden gewerkt veilig voor mensen en veilig voor vuur zijn gebleven, terwijl ook in de toestand van de andere ruimten binnen de ladingzone geen wijziging mag zijn opgetreden.
+
+Daarnaast moeten er ten minste 6 uren verstreken zijn na het uitreiken van de bijbehorende Veiligheids- en gezondheidsverklaring 12/1.
+
+**Ligplaats**
+
+Het schip mag naar de werf of het reparatiebedrijf.
+
+Binnen de 25 meter van de ladingzone mag geen vuur aanwezig zijn of naar redelijke verwachting kunnen ontstaan.
+
+**Toegestane werkzaamheden**
+
+- Koud werk boven of buiten de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+- Werk met vuur in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+- Werk met vuur ten minste 25 meter buiten de ladingzone, echter niet in K3-ruimten.
+
+**Veiligheids- en gezondheidsverklaring 13/1**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is veilig voor mensen en niet veilig voor vuur.
+
+Aangezien echter de Veiligheids- en gezondheidsverklaring 13/1 de voorloper is van de Veiligheids- en gezondheidsverklaring 13/2 zal men er voor zorg moeten dragen dat de gehele ladingzone veilig voor vuur is. De Veiligheids- en gezondheidsverklaring 13/2 kan pas worden uitgereikt indien sinds de uitreiking van de Veiligheids- en gezondheidsverklaring 13/1 ten minste 6 uren zijn verstreken. In deze periode mag zich geen wijziging voordoen in de toestand van de gehele ladingzone.
+
+**Ligplaats**
+
+Het schip mag naar de werf of het reparatiebedrijf. Binnen de 25 meter van de ladingzone mag geen vuur aanwezig zijn of naar redelijke verwachting kunnen ontstaan.
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in de gehele ladingzone.
+
+- Werk met vuur ten minste 25 meter buiten de ladingzone, echter niet in K3-ruimten.
+
+**Veiligheids- en gezondheidsverklaring 13/2**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is veilig voor mensen en veilig voor vuur.
+
+Deze vastgestelde toestand is ongewijzigd gebleven na de uitreiking van de bijbehorende Veiligheids- en gezondheidsverklaring 13/1. Daarnaast moeten er ten minste 6 uren verstreken zijn na het uitreiken van de bijbehorende Veiligheids- en gezondheidsverklaring 13/1.
+
+**Ligplaats**
+
+Het schip mag overal ligplaats nemen
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in de gehele ladingzone.
+
+- Werk met vuur in, boven en buiten de gehele ladingzone echter niet in K3-ruimten buiten de ladingzone.
+
+**Veiligheids- en gezondheidsverklaring 20**
+
+**Toestand van de ladingzone**
+
+- De ladingzone is geheel of gedeeltelijk veilig voor mensen en veilig voor vuur.
+
+**Ligplaats**
+
+Het schip mag overal ligplaats nemen
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in gehele, of in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+- Werk met vuur in besloten ruimten buiten de ladingzone, echter niet in K3-ruimten buiten de ladingzone.
+
+- Werk met vuur boven en buiten de gehele ladingzone.
+
+- Werk met vuur in de gehele, of in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+**Veiligheids- en gezondheidsverklaring 31**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- De gehele ladingzone is veilig voor mensen en niet veilig voor vuur.
+
+**Ligplaats**
+
+Het schip mag overal ligplaats nemen
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in de gehele ladingzone.
+
+- Werk met vuur buiten of boven de ladingzone echter niet in K3-ruimten buiten de ladingzone.
+
+**Veiligheids- en gezondheidsverklaring 32**
+
+**Toestand van de ladingzone**
+
+- Een gedeelte van de ladingzone is niet veilig voor mensen en niet veilig voor vuur.
+
+- Een gedeelte van de ladingzone is veilig voor mensen en niet veilig voor vuur.
+
+- Het resterende gedeelte van de ladingzone is veilig voor mensen en veilig voor vuur.
+
+**Ligplaats**
+
+Het schip mag overal ligplaats nemen.
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in de gehele ladingzone.
+
+- Werk met vuur buiten of boven de ladingzone, echter niet in K3-ruimten buiten de ladingzone.
+
+- Werk met vuur in een deel van de ladingzone. Het van toepassing zijn van aangegeven werkzaamheden is afhankelijk van de toestand van de ladingzone en wordt aan de hand van die toestand bepaald.
+
+**Veiligheids- en gezondheidsverklaring 33**
+
+**Toestand van de ladingzone**
+
+- De gehele ladingzone is veilig voor mensen en veilig voor vuur.
+
+**Ligplaats**
+
+Het schip mag overal ligplaats nemen.
+
+**Toegestane werkzaamheden**
+
+- Koud werk buiten of boven de ladingzone en in K3-ruimten buiten de ladingzone.
+
+- Koud werk in de gehele ladingzone.
+
+- Werk met vuur in, boven of buiten de ladingzone, echter niet in K3-ruimten buiten de ladingzone.
+
+**Veiligheids- en gezondheidsverklaring A/30**
+
+**Toestand van de ladingzone**
+
+- De K3-ruimten buiten de ladingzone zijn veilig voor vuur.
+
+De toestand van de ruimten binnen de ladingzone wordt op deze Veiligheids- en gezondheidsverklaring niet opgenomen.
+
+**Toegestane werkzaamheden**
+
+- Koud werk in K3-ruimten buiten de ladingzone.
+
+- Werk met vuur in K3-ruimten buiten de ladingzone.
+
+De Veiligheids- en gezondheidsverklaring A/30 is een zogenaamde “Combinatie Veiligheids- en gezondheidsverklaring”. Dat betekent, dat een Veiligheids- en gezondheidsverklaring A/30 nooit alleen afgegeven mag worden. Altijd zal dit moeten gebeuren in combinatie met een Veiligheids- en gezondheidsverklaring, welke de toestand van de ladingzone aangeeft.
+
+**Veiligheids- en gezondheidsverklaring A4**
+
+Deze Veiligheids- en gezondheidsverklaring is bedoeld om een Veiligheids- en gezondheidsverklaring welke zijn geldigheid heeft verloren weer geldig te maken
+
+**Toestand van de ladingzone**
+
+De toestand van de ladingzone is gelijk aan de toestand zoals die vermeld wordt op de Veiligheids- en gezondheidsverklaring die door het uitreiken van de Veiligheids- en gezondheidsverklaring A4 zijn geldigheid herkrijgt.
+
+De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2025-02-01&g=2025-02-01)
 
 Vervallen
 
-## Bijlage IIb. behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2025-01-18&g=2025-01-18) Arbeidsomstandighedenregeling
-
-Vervallen
-
-## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2025-01-18&g=2025-01-18)
+## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2025-02-01&g=2025-02-01)
 
 Vervallen
 
@@ -48643,17 +49125,15 @@ Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheid
 
 De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
-## Bijlage XIIIa. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2024-01-01&g=2024-01-01)
+## Bijlage XIIIe. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2025-02-01&g=2025-02-01)
 
 Vervallen
 
-## Bijlage XIIIa. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2024-04-19&g=2024-04-19)
+## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2025-02-01&g=2025-02-01)
 
 Vervallen
 
-## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2024-04-19&g=2024-04-19)
-
-Vervallen
+## Bijlage XIIIg. behorend bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.29&z=2025-02-01&g=2025-02-01) Arbeidsomstandighedenregeling
 
 ## Bijlage XIIIc. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2024-04-19&g=2024-04-19)
 
@@ -48671,66 +49151,17 @@ Vervallen
 
 Vervallen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2024-01-01&g=2024-01-01)
+## Bijlage XVIb. behorend bij Artikel 6.5, 2e lid
 
-| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
-| --- | --- |
-| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
-| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
-| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
-|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
-|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
-|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
-|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
-|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
-| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
-| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
-| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
-| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
-| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
-| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
-| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
-| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
-| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+Vervallen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2024-04-19&g=2024-04-19)
+## Bijlage XVIc. behorend bij Artikel 6.5, derde lid
 
-| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
-| --- | --- |
-| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
-| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
-| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
-|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
-|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
-|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
-|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
-|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
-| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
-| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
-| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
-| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
-| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
-| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
-| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
-| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
-| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+Vervallen
 
-## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2024-04-19&g=2024-04-19)
+## Bijlage XVId. behorend bij Artikel 6.5, 4e lid
 
-| **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
-| --- | --- |
-| Spuitenreinigers | 850 gr/liter |
-| Oppervlaktereinigers | 200 gr/liter |
-| Washprimers | 780 gr/liter |
-| Primer surfacer, | 540 gr/liter |
-| 1 of 2 component |   |
-| Sealer | 540 gr/liter |
-| 1-laags aflaksysteem | 420 gr/liter |
-| en chassiscoating |   |
-| 2-laagsaflaksysteem bestaande uit: | 420 gr/liter 2Het gemiddelde wordt bepaald door het VOSgehalte per laag te hanteren in de formule (a. L1 + b.L2)/ ( a + b)Dit gemiddelde is gelijk aan of minder dan 420 gram/liter spuitklaar product. Hierbij is L1 het VOS-gehalte van de basiskleurlaag en L2 het VOS-gehalte van de blanke lak, waarbij a en b staan voor de aangemaakte hoeveelheid in gram van resp. L1 en L2. De hoeveelheden hebben betrekking op spuitklare producten en géén van de lagen mag méér VOS bevatten dan 480 gr/liter. |
-| basiskleurlak en blanke lak |   |
-| Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
-| Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
+Vervallen
 
 ## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2024-01-01&g=2024-01-01)
 
@@ -48810,7 +49241,9 @@ Vervallen
 
 Vervallen
 
-## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2024-04-19&g=2024-04-19)
+## Bijlage XVIe. behorend bij Artikel 6.6, 1e lid
+
+Vervallen
 
 ## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2024-04-19&g=2024-04-19)
 
@@ -48886,66 +49319,17 @@ Vervallen
 
 Vervallen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2024-05-22&g=2024-05-22)
+## Bijlage XVIIa. behorend bij [artikel 7.7, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
 
-| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
-| --- | --- |
-| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
-| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
-| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
-|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
-|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
-|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
-|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
-|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
-| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
-| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
-| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
-| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
-| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
-| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
-| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
-| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
-| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+Vervallen
 
-## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2024-05-22&g=2024-05-22)
+## Bijlage XVIIb. behorend bij [artikel 7.7, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
 
-| **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
-| --- | --- |
-| Spuitenreinigers | 850 gr/liter |
-| Oppervlaktereinigers | 200 gr/liter |
-| Washprimers | 780 gr/liter |
-| Primer surfacer, | 540 gr/liter |
-| 1 of 2 component |   |
-| Sealer | 540 gr/liter |
-| 1-laags aflaksysteem | 420 gr/liter |
-| en chassiscoating |   |
-| 2-laagsaflaksysteem bestaande uit: | 420 gr/liter 2Het gemiddelde wordt bepaald door het VOSgehalte per laag te hanteren in de formule (a. L1 + b.L2)/ ( a + b)Dit gemiddelde is gelijk aan of minder dan 420 gram/liter spuitklaar product. Hierbij is L1 het VOS-gehalte van de basiskleurlaag en L2 het VOS-gehalte van de blanke lak, waarbij a en b staan voor de aangemaakte hoeveelheid in gram van resp. L1 en L2. De hoeveelheden hebben betrekking op spuitklare producten en géén van de lagen mag méér VOS bevatten dan 480 gr/liter. |
-| basiskleurlak en blanke lak |   |
-| Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
-| Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
+Vervallen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2025-01-01&g=2025-01-01)
+## Bijlage XVIIc. behorend bij [artikel 7.7, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
 
-| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
-| --- | --- |
-| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
-| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
-| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
-|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
-|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
-|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
-|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
-|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
-| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
-| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
-| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
-| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
-| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
-| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
-| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
-| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
-| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+Vervallen
 
 ## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2024-05-22&g=2024-05-22)
 
@@ -48979,7 +49363,19 @@ Vervallen
 
 ##### Artikel 1.1ca. Specificering gegevens
 
-Dit onderdeel is nog niet inwerking getreden
+1. De identificerende gegevens en gegevens over de bekwaamheid, bedoeld in de [artikelen 1.5l](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) en [1.5m van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m), zijn voor de registers, genoemd in [artikel 1.5j, eerste lid, onderdelen a tot en met d en f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j):
+
+- a. de voornaam- of namen en achternaam;
+
+- b. de geboortedatum;
+
+- c. een kopie of scan van documenten waaruit de vereiste kennis en vaardigheden blijken.
+
+2. De identificerende gegevens en gegevens over de bekwaamheid, bedoeld in de [artikelen 1.5l](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) en [1.5m van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m), zijn voor het Register duikarbeid brandweer en politie:
+
+- a. de gegevens, genoemd in het eerste lid, de veiligheidsregio waarin de medewerker werkzaam is en het duikteam waartoe de medewerker behoort, indien het de registratie of herregistratie van een medewerker van de brandweer betreft;
+
+- b. het persoonsnummer dat de politie aan de medewerker heeft toegekend en een geanonimiseerde kopie of scan van documenten waaruit de vereiste kennis en vaardigheden blijken, indien het de registratie of herregistratie van een medewerker van de politie betreft.
 
 ### Hoofdstuk 2. Aanvullende voorschriften risico-inventarisatie en -evaluatie, deskundigen en arbodiensten
 
@@ -48993,7 +49389,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4.16a. Uitzonderingen registratieplicht bij arbeid met explosieve stoffen
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8) is niet van toepassing op arbeid waarbij wordt gewerkt met munitie van de categorieën II of III als bedoeld in [artikel 2, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2), voor zover het gaat om arbeid verricht door anderen dan defensiepersoneel.
+
+2. [Artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8) is voorts niet van toepassing op de volgende personen, voor zover zij over voldoende kennis, ervaring en vaardigheden beschikken om de genoemde werkzaamheden veilig uit te voeren:
+
+- a. politiemedewerkers werkzaam bij de Dienst Speciale Interventies die bij de uitvoering van hun taken explosieven gebruiken;
+
+- b. politiemedewerkers die optreden als begeleider of trainer van politiespeurhonden als bedoeld in [artikel 23, onder c, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=23), wanneer zij politiespeurhonden trainen in het herkennen van explosieve stoffen;
+
+- c. medewerkers van het Nederlands Forensisch Instituut die onderzoek verrichten aan kleine hoeveelheden explosieven die reeds onschadelijk zijn gemaakt.
 
 ##### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
 
@@ -49027,44 +49431,13 @@ Vervallen
 
 Vervallen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2025-01-18&g=2025-01-18)
+## Bijlage XVIId. behorend bij [artikel 7.7, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
 
-| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
-| --- | --- |
-| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
-| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
-| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
-|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
-|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
-|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
-|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
-|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
-| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
-| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
-| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
-| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
-| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
-| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
-| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
-| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
-| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+Vervallen
 
-## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2025-01-18&g=2025-01-18)
+## Bijlage XVIIe. behorend bij [artikel 7.7, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
 
-| **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
-| --- | --- |
-| Spuitenreinigers | 850 gr/liter |
-| Oppervlaktereinigers | 200 gr/liter |
-| Washprimers | 780 gr/liter |
-| Primer surfacer, | 540 gr/liter |
-| 1 of 2 component |   |
-| Sealer | 540 gr/liter |
-| 1-laags aflaksysteem | 420 gr/liter |
-| en chassiscoating |   |
-| 2-laagsaflaksysteem bestaande uit: | 420 gr/liter 2Het gemiddelde wordt bepaald door het VOSgehalte per laag te hanteren in de formule (a. L1 + b.L2)/ ( a + b)Dit gemiddelde is gelijk aan of minder dan 420 gram/liter spuitklaar product. Hierbij is L1 het VOS-gehalte van de basiskleurlaag en L2 het VOS-gehalte van de blanke lak, waarbij a en b staan voor de aangemaakte hoeveelheid in gram van resp. L1 en L2. De hoeveelheden hebben betrekking op spuitklare producten en géén van de lagen mag méér VOS bevatten dan 480 gr/liter. |
-| basiskleurlak en blanke lak |   |
-| Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
-| Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
+Vervallen
 
 ## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2025-01-01&g=2025-01-01)
 
@@ -49129,6 +49502,231 @@ Intrinsieke kenmerken:
 ## Bijlage XVIe. behorend bij [Artikel 6.6, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2025-01-18&g=2025-01-18)
 
 ## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2025-01-18&g=2025-01-18)
+
+| **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| ﻿BEGIN Pas op! Begin van commando | ﻿Beide armen zijn horizontaal gestrekt met de handpalmen naar boven |   |
+| ﻿STOP Onderbreking Einde van de beweging | ﻿ De rechterhand is opgeheven en de rechterhandpalm naar voren gehouden |   |
+| ﻿EINDE Einde van de werkzaamheden | ﻿Beide handen zijn ter hoogte van de borst samengevoegd |   |
+
+| **B. Verticale bewegingen** | **B. Verticale bewegingen** | **B. Verticale bewegingen** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| HIJSEN | ﻿Met de opgeheven rechterarm en naar voren gebrachte rechterhandpalm wordt traag een cirkelbeweging gemaakt |   |
+| VIEREN | ﻿Met de naar beneden gerichte rechterarm en naar binnen gehouden rechterhandpalm wordt traag een cirkelbeweging gemaakt |   |
+| VERTICALE AFSTAND | ﻿De afstand wordt met de handen aangegeven |   |
+
+| **C. Horizontale bewegingen** | **C. Horizontale bewegingen** | **C. Horizontale bewegingen** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| VOORUIT | ﻿Beide armen worden gebogen, palmen worden naar binnen gehouden en met de voorarmen worden trage bewegingen naar het lichaam toe gemaakt |   |
+| ACHTERUIT | ﻿Beide armen worden gebogen, beide handpalmen worden naar buiten gehouden, met de voorarmen worden trage beweging van het lichaam af gemaakt |   |
+| NAAR RECHTS ﻿ten opzichte van de signaalgever | ﻿Met de ongeveer horizontaal gestrekte rechterarm en de naar beneden gehouden rechterhandpalm worden trage, richting aanwijzende bewegingen gemaakt |   |
+| NAAR LINKS ﻿ten opzichte van de signaalgever | ﻿Met de ongeveer horizontaal gestrekte linkerarm en de naar beneden gehouden linkerhandpalm worden trage richtingaanwijzende bewegingen gemaakt |   |
+| HORIZONTALE AFSTAND | ﻿De afstand wordt met de handen aangegeven |   |
+
+| **D. Gevaar** | **D. Gevaar** | **D. Gevaar** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| GEVAAR | ﻿Beide handen opgeheven, handpalmen naar voren |   |
+| SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
+| TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
+
+### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
+
+### Hoofdstuk 9. Overgangs- en Slotbepalingen
+
+## Bijlage Ib. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-02-01&g=2025-02-01), Veiligheidsbeheerssysteem
+
+In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen in ieder geval aan de orde:
+
+- a. het veiligheidsbeheerssysteem dient afgestemd te zijn op de gevaren, de werkzaamheden en de complexiteit van de organisatie in het bedrijf of de inrichting en moet op de evaluatie van de risico's gebaseerd zijn; in het veiligheidsbeheerssysteem moet dat gedeelte van het algemene beheerssysteem zijn opgenomen waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de procedés en de hulpmiddelen welke het mogelijk maken het preventiebeleid voor zware ongevallen te bepalen en uit te voeren, behoren;
+
+- b. de organisatie en het personeel:
+
+- –. de taken en verantwoordelijkheden van de werknemers die op alle organisatorische niveaus bij het beheersen van de gevaren en risico’s van zware ongevallen wordt betrokken, samen met de maatregelen die worden genomen om het bewustzijn te doen toenemen dat voortdurende verbetering nodig is.
+
+- –. het onderkennen van de behoeften aan opleiding van de betrokken werknemers en het organiseren van die opleiding.
+
+- –. de deelneming aan die opleiding van de betrokken werknemers, met inbegrip van de werknemers van aannemers en van onderaannemers en zelfstandigen die in het bedrijf of de inrichting werken, en die vanuit veiligheidsopzicht belangrijk zijn;
+
+- c. de identificatie en evaluatie van de gevaren en risico’s van zware ongevallen: de vaststelling en toepassing van procedures voor de systematische identificatie van de gevaren en risico’s van zware ongevallen die zich bij normale of abnormale werking kunnen voordoen, in voorkomend geval met inbegrip van in aanneming of onderaanneming verrichte activiteiten, alsook de beoordeling van de waarschijnlijkheid en de ernst van die ongevallen;
+
+- d. de controle op de uitvoering:
+
+- –. de vaststelling en toepassing van procedures en instructies voor veilige werking, waaronder het onderhoud, van de installatie, processen en apparatuur, en voor het alarmbeheer en tijdelijke onderbrekingen; rekening houdend met de beschikbare informatie betreffende beste praktijken op het vlak van monitoring en controle met het oog op het verminderen van het risico op systeem falen;
+
+- –. het beheer en de controle van de risico's die samenhangen met verouderende apparatuur die geïnstalleerd is in het bedrijf of de inrichting, en corrosie;
+
+- –. de inventarisatie van de apparatuur in het bedrijf of de inrichting, en de strategie en methodologie voor het houden van toezicht op en de controle van de staat van de apparatuur;
+
+- –. het treffen van passende follow-upmaatregelen en noodzakelijke tegenmaatregelen;
+
+- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en toepassing van procedures voor de planning van wijzigingen aan bestaande installaties en opslagplaatsen, dan wel voor het ontwerpen van een nieuw procedé of een nieuwe installatie of opslagplaats;
+
+- f. de planning voor noodsituaties: de vaststelling en toepassing van procedures om door een systematische analyse de voorzienbare noodsituaties te onderkennen en de noodplannen voor dergelijke noodsituaties uit te werken, te beproeven en te toetsen, en om specifieke opleiding voor de betrokken werknemers te verzorgen. Dergelijke opleiding wordt gegeven aan alle personen die in de installatie werken, met in begrip van de werknemers van aannemers en van onderaannemers en zelfstandigen;
+
+- g. het toezicht op de prestaties: de vaststelling en toepassing van procedures voor een permanente beoordeling van de inachtneming van de doelstellingen die door de werkgever zijn bepaald als onderdeel van het preventiebeleid voor zware ongevallen en van het veiligheidsbeheerssysteem, en invoering van regelingen voor onderzoek en correctie bij niet-inachtneming. Tot deze procedures behoren het systeem voor de melding van zware ongevallen of bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, alsook het onderzoek daarnaar en de follow-up, een en ander op basis van de ervaringen uit het verleden. Tot de procedures behoren ook prestatie-indicatoren zoals veiligheidsprestatie-indicatoren (safety performance indicators, SPIs) en/of andere relevante indicatoren; en
+
+- h. controle en analyse: de vaststelling en toepassing van procedures om het preventiebeleid voor zware ongevallen en de doeltreffendheid en deugdelijkheid van het veiligheidsbeheerssysteem systematisch periodiek te beoordelen, alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de bijwerking daarvan, inclusief het overwegen en opnemen van noodzakelijke wijzigingen die door de controle en analyse aangegeven worden.
+
+## Bijlage Ic. behorend bij [artikel 2.0d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0d&z=2025-02-01&g=2025-02-01) Intern noodplan
+
+Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b) bevat in ieder geval de volgende gegevens en beschrijvingen:
+
+- a. de naam of functie van de personen die bevoegd zijn om noodprocedures in werking te laten treden en van de personen die belast zijn met de leiding en coördinatie van de bestrijdingsmaatregelen op het terrein van het bedrijf of de inrichting;
+
+- b. de naam en functie van de persoon die verantwoordelijk is voor de contacten met de voor het externe noodplan verantwoordelijke autoriteiten;
+
+- c. voor te voorziene omstandigheden en gebeurtenissen die een doorslaggevende rol kunnen spelen bij het ontstaan van een zwaar ongeval, een beschrijving van de te nemen maatregelen ter beheersing van de toestand of gebeurtenis en ter beperking van de gevolgen ervan, met inbegrip van een beschrijving van de beschikbare veiligheidsuitrusting en -middelen;
+
+- d. de regelingen ter beperking van het risico voor personen op het terrein van het bedrijf of de inrichting, waaronder het alarmsysteem en de gedragsregels bij het afgaan van het alarm;
+
+- e. de regelingen om de autoriteit die verantwoordelijk is voor het in werking laten treden van het externe noodplan bij een zwaar ongeval snel in te lichten, het soort informatie dat onmiddellijk moet worden verstrekt en de regelingen voor het verstrekken van uitvoeriger informatie, wanneer deze beschikbaar wordt;
+
+- f. waar noodzakelijk, regelingen om de werknemers op te leiden voor het vervullen van de taken die van hen worden verwacht en in voorkomend geval de coördinatie ervan met de externe hulpdiensten; en
+
+- g. de regelingen voor het verlenen van steun aan externe bestrijdings-maatregelen.
+
+## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2025-02-01&g=2025-02-01) Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage IIb. behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2025-02-01&g=2025-02-01) Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2025-02-01&g=2025-02-01)
+
+## Bijlage XIIIa. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XIIIc. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2025-02-01&g=2025-02-01)
+
+| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
+| --- | --- |
+| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
+| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
+| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
+|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
+|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
+|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
+|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
+|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
+| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
+| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
+| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
+| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
+| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
+| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
+| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
+| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
+| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+
+## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2025-02-01&g=2025-02-01)
+
+| **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
+| --- | --- |
+| Spuitenreinigers | 850 gr/liter |
+| Oppervlaktereinigers | 200 gr/liter |
+| Washprimers | 780 gr/liter |
+| Primer surfacer, | 540 gr/liter |
+| 1 of 2 component |   |
+| Sealer | 540 gr/liter |
+| 1-laags aflaksysteem | 420 gr/liter |
+| en chassiscoating |   |
+| 2-laagsaflaksysteem bestaande uit: | 420 gr/liter 2Het gemiddelde wordt bepaald door het VOSgehalte per laag te hanteren in de formule (a. L1 + b.L2)/ ( a + b)Dit gemiddelde is gelijk aan of minder dan 420 gram/liter spuitklaar product. Hierbij is L1 het VOS-gehalte van de basiskleurlaag en L2 het VOS-gehalte van de blanke lak, waarbij a en b staan voor de aangemaakte hoeveelheid in gram van resp. L1 en L2. De hoeveelheden hebben betrekking op spuitklare producten en géén van de lagen mag méér VOS bevatten dan 480 gr/liter. |
+| basiskleurlak en blanke lak |   |
+| Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
+| Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
+
+## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XVIa. behorend bij Artikel 6.5, 1e lid
+
+Vervallen
+
+## Bijlage XVIf. behorend bij Artikel 6.6, 2e lid
+
+Vervallen
+
+## Bijlage XVII. behorend bij [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01)
+
+Vervallen
+
+## Bijlage XVIIg. behorend bij [artikel 7.7, tweede lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIIh. behorend bij [artikel 7.7, tweede lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2025-02-01&g=2025-02-01), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIII. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2025-02-01&g=2025-02-01)
+
+Intrinsieke kenmerken:
+
+- rond;
+
+- zwart pictogram op witte achtergrond, rode rand en balk die van links naar rechts over het pictogram loopt onder een hoek van 45° ten opzichte van de horizontale lijn. De rode kleur beslaat ten minste 35% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- driehoekig;
+
+- zwart pictogram op gele achtergrond, zwarte rand. De gele kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- rond;
+
+- wit pictogram op blauwe achtergrond. De blauwe kleur beslaat ten minste 50% van het oppervlak van het bord
+
+Intrinsieke kenmerken:
+
+- rechthoekig of vierkant;
+
+- wit pictogram op groene achtergrond. De groene kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- rechthoekig of vierkant;
+
+- wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2025-02-01&g=2025-02-01)
 
 | **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
 | --- | --- | --- |
