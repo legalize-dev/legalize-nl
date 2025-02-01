@@ -4,7 +4,7 @@ identifier: "BWBR0049554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-25"
-last_updated: "2024-05-03"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049554"
 soort: "ministeriele-regeling"
@@ -98,25 +98,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 3. Te subsidiëren activiteiten ter verbetering van de basisvaardigheden
 
-1. De minister kan ter verbetering van de basisvaardigheden aan een bevoegd gezag voor de schooljaren 2024/2025 en 2025/2026 subsidie verstrekken voor de uitvoering van één of meer evidence-informed interventies en voor monitoring van het prestatieniveau van leerlingen op het gebied van basisvaardigheden.
+1. De minister kan ter verbetering van de basisvaardigheden aan een bevoegd gezag voor de schooljaren 2024/2025 en 2025/2026, alsmede voor de schooljaren 2025/2026 en 2026/2027 subsidie verstrekken voor de uitvoering van één of meer evidence-informed interventies en voor monitoring van het prestatieniveau van leerlingen op het gebied van basisvaardigheden.
 
 2. De evidence-informed interventies zijn in ieder geval gericht op het versterken van de basisvaardigheden op het gebied van taal dan wel rekenen of wiskunde, of taal en rekenen of wiskunde en waar nodig ook op het versterken van de basisvaardigheden burgerschap en digitale geletterdheid.
 
-##### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Reikwijdte hoofdstuk 2
 
-1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
-
-2. Een aanvraag voor de subsidie kan worden ingediend van 10 april 2024 tot en met 26 april 2024. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
-
-3. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld. In dit aanvraagformulier vermeldt de aanvrager:
-
-- a. de naam van het bevoegd gezag;
-
-- b. het in de RIO geïdentificeerde nummer van de vestiging waarvoor de aanvraag wordt ingediend;
-
-- c. de naam, het telefoonnummer en het e-mailadres van de contactpersoon.
-
-4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
+Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-02-01&g=2025-02-01), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=4a&z=2025-02-01&g=2025-02-01), bedoelde aanvraagperiode.
 
 ##### Artikel 5. Subsidieplafonds en deelplafonds
 
@@ -144,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 7. Wijze van verdeling beschikbare middelen
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&artikel=5&z=2024-05-03&g=2024-05-03), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=5&z=2025-02-01&g=2025-02-01), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
 
 - a. aanvragen ten behoeve van het primair onderwijs, niet zijnde speciaal basisonderwijs en speciaal onderwijs of voortgezet speciaal onderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore (peildatum 1 februari 2023) zonder drempel per leerling per vestiging;
 
@@ -201,5 +189,113 @@ De minister kan één of meer bepalingen van deze regeling buiten toepassing lat
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verbetering basisvaardigheden voor scholen 2024.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 1. Algemene bepalingen
+
+### Hoofdstuk 2. Aanvraagronde 2024
+
+##### Artikel 4a. Aanvraag subsidie
+
+1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
+
+2. Een aanvraag voor de subsidie kan worden ingediend van 10 april 2024 tot en met 26 april 2024. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
+
+3. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld. In dit aanvraagformulier vermeldt de aanvrager:
+
+- a. de naam van het bevoegd gezag;
+
+- b. het in de RIO geïdentificeerde nummer van de vestiging waarvoor de aanvraag wordt ingediend;
+
+- c. de naam, het telefoonnummer en het e-mailadres van de contactpersoon.
+
+4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
+
+### Hoofdstuk 3. Aanvraagronde 2025
+
+##### Artikel 9a. Reikwijdte hoofdstuk 3
+
+Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-02-01&g=2025-02-01), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9b&z=2025-02-01&g=2025-02-01), bedoelde aanvraagperiode.
+
+##### Artikel 9b. Aanvraag subsidie
+
+1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
+
+2. Een aanvraag voor de subsidie kan worden ingediend van 3 februari 2025 tot en met 14 februari 2025. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
+
+3. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld. In dit aanvraagformulier vermeldt de aanvrager:
+
+- a. de naam van het bevoegd gezag;
+
+- b. het in de RIO geïdentificeerde nummer van de vestiging waarvoor de aanvraag wordt ingediend;
+
+- c. de naam, het telefoonnummer en het e-mailadres van de contactpersoon.
+
+4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
+
+##### Artikel 9c. Subsidieplafonds en deelplafonds
+
+1. Voor subsidieverstrekking is een bedrag beschikbaar van in totaal € 493.109.515, waarvan:
+
+- a. € 283.927.585, beschikbaar is voor het primair onderwijs en primair onderwijs BES, met uitzondering van het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
+
+- b. € 181.645.809, beschikbaar is voor het voortgezet onderwijs, niet zijnde praktijkonderwijs;
+
+- c. € 5.326.844, beschikbaar is voor het praktijkonderwijs; en
+
+- d. € 22.209.277, voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs.
+
+2. Indien één of meerdere bedragen, bedoeld in het eerste lid, niet of niet volledig worden benut, dan worden de resterende middelen naar rato verdeeld over de andere in dat lid genoemde subsidieplafonds.
+
+3. Als de middelen, na toepassing van het tweede lid, niet volledig worden benut, kan het resterende bedrag door wijziging van die regeling worden toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in [artikel 9b, tweede lid, van de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024](onbekend).
+
+##### Artikel 9d. Subsidiebedrag
+
+1. Het subsidiebedrag voor een school voor primair onderwijs en primair onderwijs BES wordt berekend door het aantal leerlingen dat op 1 februari 2024 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 615,–.
+
+2. Het bedrag van de subsidie voor een school voor voortgezet onderwijs wordt berekend door het aantal leerlingen dat op 1 oktober 2023 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 615,–.
+
+3. Het subsidiebedrag wordt aan een bevoegd gezag in Caribisch Nederland uitbetaald in US-dollars tegen de vastgestelde wisselkoers.
+
+##### Artikel 9e. Wijze van verdeling beschikbare middelen
+
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9c&z=2025-02-01&g=2025-02-01), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
+
+- a. aanvragen ten behoeve van het primair onderwijs, niet zijnde speciaal basisonderwijs en speciaal onderwijs of voortgezet speciaal onderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore op peildatum 1 februari 2024 zonder drempel per leerling per vestiging;
+
+- b. aanvragen ten behoeve van het voortgezet onderwijs, niet zijnde het praktijkonderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore op peildatum 1 oktober 2022 zonder drempel per leerling per vestiging;
+
+- c. aanvragen ten behoeve van het praktijkonderwijs worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore op peildatum 1 oktober 2022 zonder drempel per leerling per vestiging;
+
+- d. aanvragen ten behoeve van het speciaal onderwijs, voortgezet speciaal onderwijs en speciaal basisonderwijs worden gerangschikt op volgorde van het hoogste naar het laagste aandeel leerlingen met een niet-Nederlandse culturele achtergrond per vestiging zoals berekend door de Dienst Uitvoering Onderwijs op peildatum 1 februari 2024.
+
+- e. indien na toepassing van onderdelen a tot en met d nog subsidiemiddelen resteren, worden de overige aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
+
+##### Artikel 9f. Afwijzingsgronden
+
+Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
+
+- a. indien aan het bevoegd gezag voor de desbetreffende vestiging eerder subsidie is verstrekt op grond van de [Subsidieregeling verbetering basisvaardigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0047050), de [Subsidieregeling verbetering basisvaardigheden voor scholen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047996), de [Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047992), de Subsidieregeling verbetering basisvaardigheden voor scholen 2024 of de [Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049558);
+
+- b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 25 november 2024 als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld.
+
+##### Artikel 9g. Subsidieverplichtingen
+
+In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht om:
+
+- a. tussen 1 september 2025 en 10 oktober 2025 bij DUS-I een activiteitenplan in te dienen met een omschrijving van de activiteiten die met de subsidie zullen worden uitgevoerd. De aanvrager maakt gebruikt van het formulier dat door DUS-I ter beschikking is gesteld;
+
+- b. het activiteitenplan ter instemming voor te leggen aan de medezeggenschapsraad voordat dit activiteitenplan wordt ingediend bij DUS-I;
+
+- c. ten behoeve van de monitoring uiterlijk op 30 november 2025 een nulmeting uit te voeren voor in ieder geval de prestaties op het gebied van taal en rekenen of wiskunde onder alle leerlingen, waarbij leerlingen die vier jaar of korter in Nederland zijn en om die reden de Nederlandse taal onvoldoende beheersen, niet in de nulmeting worden betrokken;
+
+- d. tijdens de subsidieperiode per schooljaar de voortgang op in ieder geval de prestaties op het gebied van taal en rekenen of wiskunde gedurende de looptijd van de subsidie te monitoren, waarbij leerlingen die vier jaar of korter in Nederland zijn en om die reden de Nederlandse taal onvoldoende beheersen, niet in de monitoring hoeven te worden betrokken;
+
+- e. de activiteiten waarvoor subsidie is verstrekt uiterlijk tot en met 31 juli 2027 uit te voeren;
+
+- f. uiterlijk acht weken na het verstrijken van de activiteitenperiode een activiteitenverslag in te dienen bij DUS-I.
+
+### Hoofdstuk 4. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
