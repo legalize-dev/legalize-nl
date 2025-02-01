@@ -4,7 +4,7 @@ identifier: "BWBR0049842"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2025-01-31"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049842"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **retrofitting:** het aanpassen van vervoermiddelen waardoor deze als emissievrije vervoermiddelen kwalificeren;
 
-- **stedelijk knooppunt:** stedelijk knooppunt opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-01-31&g=2025-01-31);
+- **stedelijk knooppunt:** stedelijk knooppunt opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-02-01&g=2025-02-01);
 
 - **tankpunt:** een tankfaciliteit voor de levering van een vloeibare of gasvormige alternatieve brandstof via een vaste installatie, waaraan slechts één voertuig tegelijk kan worden bijgetankt;
 
@@ -140,7 +140,7 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen in waterstoftanks
 
 - c. retrofitting van één of meerdere vervoermiddelen, waardoor deze als emissievrije lichte of zware waterstofvoertuigen kwalificeren.
 
-2. Indien de exploitant die deelneemt aan het samenwerkingsverband bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2025-01-31&g=2025-01-31) reeds een waterstoftankstation exploiteert, of daartoe met de werkzaamheden is aangevangen, dat voldoet aan de eisen bedoeld in [artikel 2.1.10, achtste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-01-31&g=2025-01-31), kan de aanvraag voor het project onverminderd van het eerste lid uitsluitend de subsidiabele activiteiten bedoeld in het eerste lid, onderdeel b of c, betreffen.
+2. Indien de exploitant die deelneemt aan het samenwerkingsverband bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2025-02-01&g=2025-02-01) reeds een waterstoftankstation exploiteert, of daartoe met de werkzaamheden is aangevangen, dat voldoet aan de eisen bedoeld in [artikel 2.1.10, achtste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-02-01&g=2025-02-01), kan de aanvraag voor het project onverminderd van het eerste lid uitsluitend de subsidiabele activiteiten bedoeld in het eerste lid, onderdeel b of c, betreffen.
 
 ##### Artikel 2.1.4. Aanvrager
 
@@ -156,13 +156,13 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen in waterstoftanks
 
 ##### Artikel 2.1.5. Subsidiabele kosten
 
-1. Voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
+1. Voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
 
 2. Indien loonkosten op grond van het eerste lid voor subsidie in aanmerking komen, worden de kosten van de gewerkte uren berekend op basis van een uurtarief voor directe loonkosten.
 
 3. Het uurtarief voor de directe loonkosten wordt bepaald door de directe loonkosten per jaar te delen door het aantal contracturen per jaar.
 
-4. Voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), zijn subsidiabel de kosten die op grond van artikel 36ter van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
+4. Voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), zijn subsidiabel de kosten die op grond van artikel 36ter van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
 
 5. In afwijking van het vierde lid zijn de kosten voor de aanschaf of retrofitting van een emissievrij licht waterstofvoertuig van categorie M1 slechts subsidiabel indien het een voor rolstoelen toegankelijk voertuig betreft als bedoeld in [artikel 86c van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=86c) en het voertuig over meer dan vier zitplaatsen beschikt.
 
@@ -198,13 +198,13 @@ De subsidie bedraagt:
 
 ##### Artikel 2.1.7. Subsidieplafond en wijze van verdelen
 
-1. Het subsidieplafond voor activiteiten als bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), is:
+1. Het subsidieplafond voor activiteiten als bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), is:
 
 - a. € 18.000.000 voor het jaar 2024;
 
 - b. € 26.000.000 voor het jaar 2025.
 
-2. Het subsidieplafond voor activiteiten als bedoeld in [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), is:
+2. Het subsidieplafond voor activiteiten als bedoeld in [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), is:
 
 - a. € 10.000.000 voor het jaar 2024;
 
@@ -220,7 +220,7 @@ De subsidie bedraagt:
 
 ##### Artikel 2.1.8. Rangschikkingscriteria
 
-1. Aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), worden beoordeeld op:
+1. Aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), worden beoordeeld op:
 
 - a. de mate waarin de financiële middelen effectiever en efficiënter worden ingezet, blijkend uit de hoogte van de gevraagde subsidie afgezet tegen de dagcapaciteit vermenigvuldigd met het aantal tankpunten van het waterstoftankstation, te waarderen met maximaal 70 punten;
 
@@ -230,23 +230,23 @@ De subsidie bedraagt:
 
 - d. het aantal onafhankelijk van elkaar werkende tankpunten, zoals blijkt uit de aangevraagde of verleende omgevingsvergunning, te waarderen met maximaal 10 punten.
 
-2. Aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), worden beoordeeld op de mate waarin de financiële middelen effectiever en efficiënter worden ingezet, blijkend uit de hoogte van het gevraagde subsidiepercentage afgezet tegen het maximale percentage subsidie dat kan worden aangevraagd, te waarderen met maximaal 100 punten.
+2. Aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), worden beoordeeld op de mate waarin de financiële middelen effectiever en efficiënter worden ingezet, blijkend uit de hoogte van het gevraagde subsidiepercentage afgezet tegen het maximale percentage subsidie dat kan worden aangevraagd, te waarderen met maximaal 100 punten.
 
-3. De hoogte van de score ten aanzien van de criteria bedoeld in het eerste en tweede lid geschiedt met inachtneming van de nadere uitwerking hiervan zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=2&z=2025-01-31&g=2025-01-31).
+3. De hoogte van de score ten aanzien van de criteria bedoeld in het eerste en tweede lid geschiedt met inachtneming van de nadere uitwerking hiervan zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=2&z=2025-02-01&g=2025-02-01).
 
-4. Bij een aanvraag voor subsidie als bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), worden de scores bedoeld in het derde lid bij elkaar opgeteld.
+4. Bij een aanvraag voor subsidie als bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), worden de scores bedoeld in het derde lid bij elkaar opgeteld.
 
 5. Indien de aanvrager aantoont dat het waterstoftankstation uitsluitend hernieuwbare waterstof levert, ontvangt de aanvraag 5 punten bovenop de score zoals deze volgt uit toepassing van het vierde lid.
 
 6. De Minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan de aanvraag zijn toegekend.
 
-7. Indien subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), wordt aangevraagd door een samenwerkingsverband waarvan het waterstoftankstation is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-01-31&g=2025-01-31), heeft deze aanvraag in afwijking van het bepaalde in het zesde lid voorrang op aanvragen van een samenwerkingsverband waarvoor geldt dat het waterstoftankstation:
+7. Indien subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), wordt aangevraagd door een samenwerkingsverband waarvan het waterstoftankstation is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-02-01&g=2025-02-01), heeft deze aanvraag in afwijking van het bepaalde in het zesde lid voorrang op aanvragen van een samenwerkingsverband waarvoor geldt dat het waterstoftankstation:
 
-- a. is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-01-31&g=2025-01-31), of
+- a. is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-02-01&g=2025-02-01), of
 
 - b. is of wordt gevestigd buiten een stedelijk knooppunt.
 
-8. Indien meerdere aanvragen worden ingediend door samenwerkingsverbanden waarvan het waterstoftankstation is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-01-31&g=2025-01-31), geldt de voorrangsregel uit het zevende lid uitsluitend voor de aanvraag die het hoogste aantal punten heeft behaald zoals deze volgt uit toepassing van het vierde en vijfde lid.
+8. Indien meerdere aanvragen worden ingediend door samenwerkingsverbanden waarvan het waterstoftankstation is of wordt gevestigd in een stedelijk knooppunt dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=1&z=2025-02-01&g=2025-02-01), geldt de voorrangsregel uit het zevende lid uitsluitend voor de aanvraag die het hoogste aantal punten heeft behaald zoals deze volgt uit toepassing van het vierde en vijfde lid.
 
 9. Indien aanvragen na toepassing van het achtste lid op een gelijk puntenaantal eindigen, wordt rangschikking van die aanvragen bepaald door loting en geldt de voorrangsregel uit het zevende lid uitsluitend voor de aanvraag die als hoogste is gerangschikt.
 
@@ -280,13 +280,13 @@ De subsidie bedraagt:
 
 - f. hoogte van het bedrag van eventuele reeds aangevraagde of ontvangen subsidies van andere bestuursorganen.
 
-3. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), de volgende gegevens en bescheiden:
+3. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), de volgende gegevens en bescheiden:
 
 - a. onderbouwing van de kosten van de investering in aanleg of opwaardering van een waterstoftankstation;
 
 - b. onderbouwing van de dagcapaciteit van het waterstoftankstation aan de hand van een offerte;
 
-- c. onderbouwing aan de hand van de uitgangspunten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=3&z=2025-01-31&g=2025-01-31) van:
+- c. onderbouwing aan de hand van de uitgangspunten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=3&z=2025-02-01&g=2025-02-01) van:
 
 - i. de huidige afname door emissievrije waterstofvoertuigen van de dagcapaciteit; en
 
@@ -318,11 +318,11 @@ De subsidie bedraagt:
 
 - ii. voorzien is van prijsinformatie die beschikbaar is vóór het begin van een tankbeurt waarbij de in rekening gebrachte prijs redelijk, gemakkelijk en duidelijk vergelijkbaar, transparant en niet-discriminerend is.
 
-4. Indien hij in aanmerking wil komen voor de extra punten bedoeld in [artikel 2.1.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-01-31&g=2025-01-31), verstrekt de aanvrager in aanvulling op het tweede lid een garantie van oorsprong als bedoeld in artikel 19 van [Richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad ter bevordering van het gebruik van energie uit hernieuwbare bronnen, of toont hij op basis van [Richtlijn (EU) 2018/2001](32018L2001) aan dat sprake is van hernieuwbare waterstof van niet-biologische oorsprong.
+4. Indien hij in aanmerking wil komen voor de extra punten bedoeld in [artikel 2.1.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-02-01&g=2025-02-01), verstrekt de aanvrager in aanvulling op het tweede lid een garantie van oorsprong als bedoeld in artikel 19 van [Richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad ter bevordering van het gebruik van energie uit hernieuwbare bronnen, of toont hij op basis van [Richtlijn (EU) 2018/2001](32018L2001) aan dat sprake is van hernieuwbare waterstof van niet-biologische oorsprong.
 
-5. Indien hij niet in aanmerking wil komen voor de extra punten bedoeld in [artikel 2.1.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-01-31&g=2025-01-31), verstrekt de aanvrager in aanvulling op het derde lid een toezegging dat het waterstoftankstation uiterlijk op 31 december 2035 uitsluitend hernieuwbare waterstof zal leveren.
+5. Indien hij niet in aanmerking wil komen voor de extra punten bedoeld in [artikel 2.1.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-02-01&g=2025-02-01), verstrekt de aanvrager in aanvulling op het derde lid een toezegging dat het waterstoftankstation uiterlijk op 31 december 2035 uitsluitend hernieuwbare waterstof zal leveren.
 
-6. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), de volgende gegevens en bescheiden:
+6. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), de volgende gegevens en bescheiden:
 
 - a. merk, type en handelsbenaming van elk nieuw emissievrij waterstofvoertuig waarvoor subsidie wordt aangevraagd;
 
@@ -330,15 +330,15 @@ De subsidie bedraagt:
 
 - c. een bewijs van minder dan zes maanden oud waaruit blijkt wat de prijs van het referentievoertuig is.
 
-7. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), de volgende gegevens en bescheiden:
+7. In aanvulling op het tweede lid bevat de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), de volgende gegevens en bescheiden:
 
 - a. merk, type en handelsbenaming van elk voertuig dat door retrofitting als emissievrij waterstofvoertuig kwalificeert;
 
 - b. kopie van de offerte, met inbegrip van de offerteprijs, voor de voorgenomen retrofitting, waaruit blijkt dat in het voertuig bedoeld in onderdeel a geen interne verbrandingsmotor achterblijft waardoor het voertuig niet kwalificeert als emissievrij licht of zwaar waterstofvoertuig.
 
-8. Indien de aanvraag op grond van [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), uitsluitend de subsidiabele activiteiten bedoeld in artikel 2.1.3, eerste lid, onderdeel b of c, betreft, verstrekt de aanvrager in aanvulling op de gegevens bedoeld in het zesde of zevende lid de volgende gegevens en bescheiden:
+8. Indien de aanvraag op grond van [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), uitsluitend de subsidiabele activiteiten bedoeld in artikel 2.1.3, eerste lid, onderdeel b of c, betreft, verstrekt de aanvrager in aanvulling op de gegevens bedoeld in het zesde of zevende lid de volgende gegevens en bescheiden:
 
-- a. een onderbouwing waaruit aan de hand van de uitgangspunten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=3&z=2025-01-31&g=2025-01-31) blijkt dat de exploitant van het waterstoftankstation de basisafname behaalt, of na het uitvoeren van het project behaalt, waarbij minimaal de helft van deze afname bestaat uit afname door emissievrije zware waterstofvoertuigen;
+- a. een onderbouwing waaruit aan de hand van de uitgangspunten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=3&z=2025-02-01&g=2025-02-01) blijkt dat de exploitant van het waterstoftankstation de basisafname behaalt, of na het uitvoeren van het project behaalt, waarbij minimaal de helft van deze afname bestaat uit afname door emissievrije zware waterstofvoertuigen;
 
 - b. een omgevingsvergunning waaruit blijkt dat het waterstoftankstation:
 
@@ -368,17 +368,17 @@ De subsidie bedraagt:
 
 ##### Artikel 2.1.11. Afwijzingsgronden
 
-1. In aanvulling op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-01-31&g=2025-01-31) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
+1. In aanvulling op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-02-01&g=2025-02-01) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
 
-2. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), indien ten tijde van de aanvraag om subsidieverlening het nieuwe emissievrije waterstofvoertuig reeds is tenaamgesteld.
+2. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), indien ten tijde van de aanvraag om subsidieverlening het nieuwe emissievrije waterstofvoertuig reeds is tenaamgesteld.
 
-3. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), indien uit de aanvraag blijkt dat het voertuig na de retrofitting niet kwalificeert als emissievrij licht of zwaar waterstofvoertuig.
+3. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), indien uit de aanvraag blijkt dat het voertuig na de retrofitting niet kwalificeert als emissievrij licht of zwaar waterstofvoertuig.
 
 ##### Artikel 2.1.12. Verplichtingen subsidieontvanger
 
 1. In aanvulling op [artikel 17 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) is de subsidieontvanger verplicht het project binnen 36 maanden na de subsidieverlening af te ronden.
 
-2. In aanvulling op het eerste lid is de exploitant van het waterstoftankstation bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), verplicht een van de volgende soorten waterstof te leveren:
+2. In aanvulling op het eerste lid is de exploitant van het waterstoftankstation bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), verplicht een van de volgende soorten waterstof te leveren:
 
 - a. blauwe waterstof, te weten waterstof geproduceerd uit fossiele brandstoffen, waarbij gebruikt wordt gemaakt van CO2-afvang en opslag;
 
@@ -388,7 +388,7 @@ De subsidie bedraagt:
 
 - d. hernieuwbare waterstof.
 
-3. In aanvulling op het eerste lid is de subsidieontvanger bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), verplicht er zorg voor te dragen dat het nieuwe emissievrije waterstofvoertuig gedurende 48 maanden vanaf de datum van de eerste inschrijving en tenaamstelling, of registratie van het verstrekkingsvoorbehoud bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25), ononderbroken op zijn naam is gesteld of een verstrekkingsvoorbehoud op zijn naam is geregistreerd in het kentekenregister.
+3. In aanvulling op het eerste lid is de subsidieontvanger bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), verplicht er zorg voor te dragen dat het nieuwe emissievrije waterstofvoertuig gedurende 48 maanden vanaf de datum van de eerste inschrijving en tenaamstelling, of registratie van het verstrekkingsvoorbehoud bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25), ononderbroken op zijn naam is gesteld of een verstrekkingsvoorbehoud op zijn naam is geregistreerd in het kentekenregister.
 
 4. De verplichting bedoeld in het derde lid geldt niet indien de subsidieontvanger het nieuwe emissievrije waterstofvoertuig vervangt door een ander nieuw emissievrij waterstofvoertuig dat ook in aanmerking zou zijn gekomen voor subsidie op grond van deze paragraaf en dit andere voertuig gedurende de nog resterende termijn van de periode, genoemd in het tweede lid, op zijn naam is gesteld of middels een verstrekkingsvoorbehoud op zijn naam is geregistreerd.
 
@@ -396,7 +396,7 @@ De subsidie bedraagt:
 
 6. Indien het nieuwe emissievrije waterstofvoertuig wordt vervangen door een ander nieuw emissievrij waterstofvoertuig als bedoeld in het vierde lid, is de subsidieontvanger verplicht om gedurende de in dat lid bedoelde resterende termijn te beschikken over het vervangende nieuwe emissievrije waterstofvoertuig.
 
-7. In aanvulling op het eerste lid is de subsidieontvanger bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), verplicht gedurende 48 maanden na het sluiten van de overeenkomst op basis waarvan de retrofitting heeft plaatsgevonden het emissievrije waterstofvoertuig, zonder overdracht aan derden, in eigendom te hebben.
+7. In aanvulling op het eerste lid is de subsidieontvanger bij de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), verplicht gedurende 48 maanden na het sluiten van de overeenkomst op basis waarvan de retrofitting heeft plaatsgevonden het emissievrije waterstofvoertuig, zonder overdracht aan derden, in eigendom te hebben.
 
 8. De Minister kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen.
 
@@ -408,15 +408,15 @@ Met de beschikking tot subsidieverlening wordt 50% van het verleende subsidiebed
 
 1. Een aanvrager kan bij de Minister een aanvraag tot vaststelling van de subsidie indienen door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
-2. De aanvrager kan bij RVO een eenmalig verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de realisatie van het waterstoftankstation of de levertijd van nieuwe emissievrije waterstofvoertuigen langer is dan de periode, genoemd in [artikel 2.1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-01-31&g=2025-01-31).
+2. De aanvrager kan bij RVO een eenmalig verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de realisatie van het waterstoftankstation of de levertijd van nieuwe emissievrije waterstofvoertuigen langer is dan de periode, genoemd in [artikel 2.1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-02-01&g=2025-02-01).
 
-3. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), in elk geval de volgende gegevens:
+3. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), in elk geval de volgende gegevens:
 
-- a. indien het waterstoftankstation reeds operationeel is, de afschriften van de leveringscontracten voor waterstof als bedoeld in [2.1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-01-31&g=2025-01-31), over de laatste 12 maanden van de projectperiode;
+- a. indien het waterstoftankstation reeds operationeel is, de afschriften van de leveringscontracten voor waterstof als bedoeld in [2.1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-02-01&g=2025-02-01), over de laatste 12 maanden van de projectperiode;
 
-- b. een afschrift van het actuele leveringscontract voor waterstof als bedoeld in [2.1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-01-31&g=2025-01-31).
+- b. een afschrift van het actuele leveringscontract voor waterstof als bedoeld in [2.1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-02-01&g=2025-02-01).
 
-4. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), in elk geval de volgende gegevens:
+4. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), in elk geval de volgende gegevens:
 
 - a. de overeenkomst op basis waarvan het nieuwe emissievrije waterstofvoertuig is aangeschaft;
 
@@ -428,7 +428,7 @@ Met de beschikking tot subsidieverlening wordt 50% van het verleende subsidiebed
 
 - c. het kenteken van het nieuwe emissievrije waterstofvoertuig dat is vermeld in de overeenkomst.
 
-5. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-01-31&g=2025-01-31), in elk geval de volgende gegevens:
+5. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.1.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-02-01&g=2025-02-01), in elk geval de volgende gegevens:
 
 - a. de overeenkomst op basis waarvan de retrofitting heeft plaatsgevonden;
 
@@ -436,9 +436,9 @@ Met de beschikking tot subsidieverlening wordt 50% van het verleende subsidiebed
 
 ##### Artikel 2.1.15. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 2.1.12, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-01-31&g=2025-01-31), kan de Minister de vaststelling van de subsidie wijzigen en het onverschuldigd betaalde deel van de subsidie terugvorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 2.1.12, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-02-01&g=2025-02-01), kan de Minister de vaststelling van de subsidie wijzigen en het onverschuldigd betaalde deel van de subsidie terugvorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e deel van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 2.1.12, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-01-31&g=2025-01-31).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e deel van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 2.1.12, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.12&z=2025-02-01&g=2025-02-01).
 
 #### Paragraaf 2.2. Publieke laadinfrastructuur zwaar vervoer
 
@@ -535,6 +535,8 @@ In deze paragraaf wordt verstaan onder:
 
 - **DC laadstation:** laadstation als bedoel in artikel 2, punt 52, van [verordening 2023/1804](33704R2023) met ingebouwde converter;
 
+- **duopaal:** AC laadstation met twee laadpunten die gelijktijdig een vermogen vanaf 11 kW per laadpunt kunnen leveren;
+
 - **exploitant van laadinfrastructuur:** onderneming waarvan de activiteiten op de locatie in hoofdzaak bestaan uit het via laadinfrastructuur of tankstations aanbieden van elektriciteit of brandstoffen aan derden;
 
 - **hernieuwbare elektriciteit:** elektriciteit als bedoeld in artikel 2, punt 102 quinquies, van de algemene groepsvrijstellingsverordening;
@@ -561,43 +563,43 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 - a. advisering door een bij de Kamer van Koophandel ingeschreven onderneming over de realisatie van private laadinfrastructuur voor elektrische voertuigen die niet te allen tijde voor het publiek toegankelijk is; of
 
-- b. investeringen in de aanleg van nieuwe private laadinfrastructuur voor elektrische voertuigen die niet te allen tijde voor het publiek toegankelijk is.
+- b. investeringen in de aanleg van in Nederland gelegen nieuwe private laadinfrastructuur voor elektrische voertuigen die niet te allen tijde voor het publiek toegankelijk is.
 
 2. De advisering bedoeld in het eerste lid, onderdeel a, bestaat uit een na 1 april 2024 opgesteld advies dat ten minste de volgende elementen bevat:
 
-- a. het aantal benodigde laadpunten, type laadstation, verwachte investeringskosten van de laadinfrastructuur en de meest geschikte locaties passend bij de bedrijfsvoering, beschikbare netcapaciteit en de verwachte groei van het elektrische wagenpark van de aanvrager, diens klanten of huurders;
+- a. het huidig elektriciteitsverbruiksprofiel van de locatie, en de verwachte groei van het elektrische wagenpark van de aanvrager, diens klanten of huurders;
 
-- b. de voorziene netcapaciteit, de grootte van de benodigde netaansluiting en, bij ontbreken van voldoende netcapaciteit, de verwachte duur tot realisatie of aanpassing van de netaansluiting; en
+- b. het aantal benodigde laadpunten, type laadstation dat past bij de laadvraag van het elektrisch wagenpark passend bij de bedrijfsvoering en de verwachte investeringskosten van de laadinfrastructuur, uitgewerkt als de totale kosten voor het laden waarin ook operationele kosten zijn meegenomen;
 
-- c. een situatietekening waarin de fysieke inpassing van de laadinfrastructuur is weergegeven.
+- c. de voorziene netcapaciteit, de grootte van de benodigde netaansluiting en, bij ontbreken van voldoende netcapaciteit, de verwachte duur tot realisatie of aanpassing van de netaansluiting; en
+
+- d. een situatietekening waarin de fysieke inpassing van de laadinfrastructuur is weergegeven.
 
 3. De laadinfrastructuur bedoeld in het eerste lid, onderdeel b, bestaat uit een of meer laadstations en bevat ten minste:
 
-- a. de basislaadinfrastructuur, bestaande uit het totaal van de infrastructuur behorende bij het laadpunt, waaronder de hoofdaansluiting en de bekabeling, waarop laadpunten die voldoen aan mode 3 of mode 4 als bedoeld in NEN 1010 kunnen worden aangesloten, in combinatie met:
+- a. een of meer DC laadstations met een vermogen vanaf 20 kW bestaande uit ten minste een laadpunt; of
 
-- b. een of meer DC laadstations met een vermogen vanaf 20 kW bestaande uit ten minste een laadpunt;
+- b. een of meer AC laadstations met een vermogen van minimaal 11 kW, mogelijk in combinatie met de basislaadinfrastructuur, bestaande uit het totaal van de infrastructuur behorende bij het laadpunt, waaronder de hoofdaansluiting en de bekabeling, waarop laadpunten die voldoen aan mode 3 of mode 4 als bedoeld in NEN 1010 kunnen worden aangesloten.
 
-- c. een of meer AC laadstations met een vermogen van minimaal 11 kW die in totaal bestaan uit ten minste vier laadpunten; of
+4. De Minister kan in combinatie met de subsidie bedoeld in het eerste lid, onderdeel b, subsidie verstrekken voor een investering in een in Nederland geplaatste stationaire batterij tot een maximum van 1.000 kWh per laadlocatie indien:
 
-- d. een of meer AC laadstations met een vermogen vanaf 43 kW.
+- a. de subsidie voor de activiteiten in totaal ten minste € 25.000 bedraagt; en
 
-4. De Minister kan in combinatie met de subsidie bedoeld in het eerste lid, onderdeel b, subsidie verstrekken voor een investering in een stationaire batterij tot een maximum van 1.000 kWh per laadlocatie indien de subsidie voor de activiteit bedoeld in het eerste lid, onderdeel b, ten minste € 25.000 betreft.
+- b. de benodigde netcapaciteit voor de te realiseren laadstations meer dan 50% is van het maximaal beschikbare vermogen op de huidige aansluiting, zoals blijkt uit het contract bedoeld in [artikel 2.3.12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.12&z=2025-02-01&g=2025-02-01).
 
-5. De stationaire batterij bedoeld in het vierde lid:
+5. De stationaire batterij, bedoeld in het vierde lid, heeft een maximale hardwarematige C-waarde van 0,25, tenzij:
 
-- a. heeft een maximaal in- en uitgaand vermogen van 50% van het gecontracteerde transportvermogen;
+- a. deze is geïntegreerd in het laadstation; of
 
-- b. heeft een maximale C-waarde van 0,25; en
-
-- c. heeft een opslagcapaciteit van maximaal 1.000 kWh.
+- b. de subsidie wordt aangevraagd door OV-concessiehouders.
 
 ##### Artikel 2.3.4. Aanvrager
 
 1. Subsidie op grond van deze paragraaf kan worden aangevraagd door een onderneming die staat ingeschreven bij de Kamer van Koophandel, met een vestiging in Nederland.
 
-2. Onverminderd het bepaalde in het eerste lid kan een samenwerkingsverband van ondernemingen als bedoeld in het eerste lid subsidie aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31).
+2. Onverminderd het bepaalde in het eerste lid kan een samenwerkingsverband van ondernemingen als bedoeld in het eerste lid subsidie aanvragen voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01).
 
-3. In afwijking van het eerste lid geldt dat voor de subsidiabele activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), indien de investering de aanleg van een laadstation betreft met een vermogen vanaf 600 kW, alleen een OV-concessiehouder subsidie kan aanvragen.
+3. In afwijking van het eerste lid geldt dat voor de subsidiabele activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), indien de investering de aanleg van een laadstation betreft met een vermogen vanaf 600 kW, alleen een OV-concessiehouder subsidie kan aanvragen.
 
 4. In afwijking van het eerste en tweede lid kan geen subsidie worden aangevraagd door:
 
@@ -609,69 +611,45 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 ##### Artikel 2.3.5. Subsidiabele kosten
 
-1. Voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), zijn subsidiabel de kosten van het advies.
+1. Voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), zijn subsidiabel de kosten van het advies.
 
-2. Voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking kunnen komen.
+2. Voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking kunnen komen.
 
 3. In afwijking van het tweede lid komen investeringskosten als bedoeld in artikel 36bis van de algemene groepsvrijstellingsverordening voor on-site productie van hernieuwbare elektriciteit niet voor subsidie in aanmerking.
 
 ##### Artikel 2.3.6. Hoogte subsidie
 
-1. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), 50% van de subsidiabele kosten tot een maximum van € 3.500, met dien verstande dat de subsidie per aanvrager, of indien meerdere aanvragers tot dezelfde groep behoren, per groep, maximaal € 10.000 per kalenderjaar bedraagt.
+1. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), 50% van de subsidiabele kosten tot een maximum van € 3.500, met dien verstande dat de subsidie per aanvrager, of indien meerdere aanvragers tot dezelfde groep behoren, per groep, maximaal € 10.000 per kalenderjaar bedraagt.
 
-2. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31):
+2. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01):
 
-- a. voor een grote onderneming:
+- a. voor een grote onderneming het maximum per laadstation bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=5&z=2025-02-01&g=2025-02-01);
 
-- i. € 452 voor een AC laadstation met een vermogen vanaf 11 kW;
-
-- ii. € 1.200 voor een AC laadstation met een vermogen vanaf 43 kW;
-
-- iii. € 2.640 voor een DC laadstation met een vermogen vanaf 20 kW;
-
-- iv. € 6.421 voor een DC laadstation met een vermogen vanaf 50 kW;
-
-- v. € 18.644 voor een DC laadstation met een vermogen vanaf 150 kW;
-
-- vi. € 27.535 voor een DC laadstation met een vermogen vanaf 225 kW;
-
-- vii. € 41.696 voor een DC laadstation met een vermogen vanaf 350 kW;
-
-- viii. € 70.306 voor een DC laadstation met een vermogen vanaf 600 kW.
-
-- b. voor een mkb-onderneming:
-
-- i. € 904 voor een AC laadstation met een vermogen vanaf 11 kW;
-
-- ii. € 2.400 voor een AC laadstation met een vermogen vanaf 43 kW;
-
-- iii. € 5.279 voor een DC laadstation met een vermogen vanaf 20 kW;
-
-- iv. € 12.842 voor een DC laadstation met een vermogen vanaf 50 kW;
-
-- v. € 37.287 voor een DC laadstation met een vermogen vanaf 150 kW;
-
-- vi. € 55.069 voor een DC laadstation met een vermogen vanaf 225 kW;
-
-- vii. € 83.393 voor een DC laadstation met een vermogen vanaf 350 kW.
+- b. voor een mkb-onderneming het maximum per laadstation bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=5&z=2025-02-01&g=2025-02-01).
 
 3. Onverminderd het tweede lid is de subsidiehoogte bij een modulair systeem, waarbij sprake is van een fysieke scheiding tussen laadstations en vermogenskast, gebaseerd op de som van het geïnstalleerd vermogen dat parallel maximaal geleverd kan worden door de vermogenskast.
 
-4. De subsidie voor aanvragen als bedoeld in [artikel 2.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.11&z=2025-01-31&g=2025-01-31) wordt verminderd met 11,25% forfaitaire milieu-investeringsaftrek over de gemelde in aanmerking komende investeringskosten bedoeld in artikel 2.3.11, tweede lid, onderdeel i.
+4. De subsidie voor aanvragen als bedoeld in [artikel 2.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.11&z=2025-02-01&g=2025-02-01) wordt verminderd met 11,25% forfaitaire milieu-investeringsaftrek over de gemelde in aanmerking komende investeringskosten bedoeld in artikel 2.3.11, tweede lid, onderdeel i.
 
 5. In aanvulling op het tweede en derde lid bedraagt de subsidie per aanvrager maximaal € 350.000 per kalenderjaar.
 
 6. In afwijking van het vijfde lid geldt geen maximum indien de aanvrager OV-concessiehouder is.
 
-7. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31):
+7. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01):
 
-- a. voor een grote onderneming € 80 per kWh opslag;
+- a. voor een grote onderneming € 70 per kWh opslag;
 
-- b. voor een mkb-onderneming € 160 per kWh opslag.
+- b. voor een mkb-onderneming € 100 per kWh opslag.
+
+8. Onverminderd het tweede en zevende lid bedraagt de subsidie ten hoogste:
+
+- a. 40% van de subsidiabele kosten voor een mkb-onderneming;
+
+- b. 20% van de subsidiabele kosten voor een grote onderneming.
 
 ##### Artikel 2.3.7. Subsidieplafond en wijze van verdelen
 
-1. Het subsidieplafond bedraagt voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), voor het jaar 2024:
+1. Het subsidieplafond bedraagt voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), voor het jaar 2024:
 
 - a. € 9.900.000 voor advisering en voor de aanleg van laadinfrastructuur die AC laadstations betreft;
 
@@ -679,9 +657,9 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 - c. € 3.480.000 voor advisering en voor de aanleg van laadinfrastructuur die DC laadstations voor OV-concessiehouders of touringcarbedrijven betreft.
 
-2. In aanvulling op het eerste lid geldt dat de Minister in totaal ten hoogste 400 subsidies verstrekt voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31).
+2. In aanvulling op het eerste lid geldt dat de Minister in totaal ten hoogste 400 subsidies verstrekt voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01).
 
-3. Het subsidieplafond bedraagt voor activiteiten als bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), voor het jaar 2024:
+3. Het subsidieplafond bedraagt voor activiteiten als bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), voor het jaar 2024:
 
 - a. € 4.500.000 voor investeringen in een stationaire batterij voor andere aanvragers dan OV-concessiehouders of touringcarbedrijven;
 
@@ -693,9 +671,27 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 6. In afwijking van het vierde lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70 procent kan worden verstrekt omdat het subsidieplafond, bedoeld in het eerste lid, bijna is bereikt, overleg plaats met de aanvrager.
 
-##### Artikel 2.3.7a
+##### Artikel 2.3.7a. Subsidieplafond en wijze van verdelen 2025
 
-Gereserveerd voor subsidieplafonds voor het jaar 2025.
+1. Het subsidieplafond bedraagt voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), voor het jaar 2025 € 500.000.
+
+2. Voor OV-concessiehouders en touringcarbedrijven bedraagt het subsidieplafond voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), en artikel 2.3.3, vierde lid, voor het jaar 2025 € 9.000.000.
+
+3. Voor andere aanvragers dan OV-concessiehouders of touringcarbedrijven bedraagt het subsidieplafond voor het jaar 2025:
+
+- a. voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01):
+
+- 1°. € 10.000.000 voor de aanleg van laadinfrastructuur die AC laadstations betreft;
+
+- 2°. € 35.402.000 voor de aanleg van laadinfrastructuur die DC laadstations betreft;
+
+- b. voor activiteiten als bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01): € 6.550.000.
+
+4. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen, waarbij geldt dat aanvragen als bedoeld in [artikel 2.3.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.7&z=2025-02-01&g=2025-02-01), voorrang hebben op overige aanvragen.
+
+5. Voor een volledige aanvraag als bedoeld in [artikel 2.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.11&z=2025-02-01&g=2025-02-01) die in 2025 is ingediend op de dag dat of nadat het subsidieplafond is bereikt, en die na de loting bedoeld in [artikel 8, derde lid, onderdeel b van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8) geen subsidie ontvangt, geldt als datum van indiening de eerste dag waarop in het daaropvolgende jaar een aanvraag kan worden gedaan.
+
+6. In afwijking van het vierde lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70 procent kan worden verstrekt omdat een subsidieplafond bijna is bereikt, overleg plaats met de aanvrager.
 
 ##### Artikel 2.3.7b
 
@@ -711,19 +707,21 @@ Gereserveerd voor subsidieplafonds voor het jaar 2028.
 
 ##### Artikel 2.3.8. Aanvraagperiode
 
-Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden ingediend van 24 september 2024, 9.00 uur tot en met 31 december 2024, 12.00 uur.
+1. Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden ingediend van 24 september 2024, 9.00 uur tot en met 31 december 2024, 12.00 uur voor het subsidieplafond bedoeld in [artikel 2.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.7&z=2025-02-01&g=2025-02-01).
+
+2. Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden ingediend van 25 maart 2025, 9.00 uur tot en met 19 december 2025, 12.00 uur voor het subsidieplafond bedoeld in [artikel 2.3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.7a&z=2025-02-01&g=2025-02-01).
 
 ##### Artikel 2.3.9. Aanvraag algemeen
 
 1. Een aanvrager kan bij de Minister een aanvraag om subsidie indienen door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
-2. Een aanvrager kan voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), per laadlocatie een aanvraag indienen.
+2. Een aanvrager kan voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), per laadlocatie een aanvraag indienen.
 
-3. Een aanvrager kan voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), per laadlocatie een aanvraag per kalenderjaar indienen.
+3. Een aanvrager kan voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), per laadlocatie een aanvraag per kalenderjaar indienen.
 
 ##### Artikel 2.3.10. Aanvraag advisering
 
-1. Een aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), bevat in afwijking van [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) de volgende gegevens:
+1. Een aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), bevat in afwijking van [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) de volgende gegevens:
 
 - a. naam en adres van de aanvrager;
 
@@ -733,7 +731,7 @@ Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden inge
 
 - d. contactpersoon met contactgegevens;
 
-- e. inschrijfnummers bij de Kamer van Koophandel van de aanvrager en de onderneming bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31);
+- e. inschrijfnummers bij de Kamer van Koophandel van de aanvrager en de onderneming bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01);
 
 - f. de doelgroep waartoe de beoogde gebruikers van de laadinfrastructuur behoren;
 
@@ -753,7 +751,7 @@ Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden inge
 
 ##### Artikel 2.3.11. Aanvraag aanleg laadinfrastructuur onder € 25.000
 
-1. Indien de aangevraagde subsidie minder dan € 25.000 bedraagt, wordt de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), ingediend binnen 13 weken na de datum waarop de installatiewerkzaamheden zijn uitgevoerd.
+1. Indien de aangevraagde subsidie minder dan € 25.000 bedraagt, wordt de aanvraag voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), ingediend binnen 13 weken na de datum waarop de installatiewerkzaamheden zijn uitgevoerd.
 
 2. De aanvraag bevat, naast de in [artikel 10 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens, ten minste:
 
@@ -767,17 +765,17 @@ Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden inge
 
 - e. de postcode van de locatie waar de laadinfrastructuur is aangelegd;
 
-- f. een factuur voor de aanleg van de laadstations, voorzien van merk, type en specificaties van de laadstations, waaruit het vermogen van elk laadstation blijkt en waaruit blijkt op welke datum de installatiewerkzaamheden zijn uitgevoerd;
+- f. een factuur voor de aanleg van de laadstations, voorzien van merk, type en specificaties van de laadstations, waaruit het aantal laadpunten, het vermogen aan het laadpunt en het vermogen van elk laadstation blijkt en waaruit blijkt op welke datum de installatiewerkzaamheden zijn uitgevoerd;
 
 - g. de-minimisverklaring;
 
-- h. een document waaruit blijkt dat de laadinfrastructuur permanent met het internet is verbonden en waarbij de communicatie volgens het Open Charge Point Protocol versie 1.6 met CS-certificaat of hoger verloopt teneinde sturing van het laden mogelijk te maken; en
+- h. een document waaruit blijkt dat de laadinfrastructuur permanent met het internet is verbonden en waarbij de communicatie volgens het Open Charge Point Protocol versie 1.6 of hoger verloopt teneinde sturing van het laden mogelijk te maken; en
 
 - i. hoogte van de gemelde in aanmerking komende investeringskosten op grond van de MIA.
 
 ##### Artikel 2.3.12. Aanvraag aanleg laadinfrastructuur vanaf € 25.000
 
-1. Indien de aangevraagde subsidie ten minste € 25.000 bedraagt, bevat een aanvraag tot subsidieverlening voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), naast de in [artikel 10 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens ten minste:
+1. Indien de aangevraagde subsidie ten minste € 25.000 bedraagt, bevat een aanvraag tot subsidieverlening voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), naast de in [artikel 10 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens ten minste:
 
 - a. gegevens over de aanvrager, waaronder het inschrijfnummer bij de Kamer van Koophandel, het post- en bezoekadres en het bankrekeningnummer;
 
@@ -791,23 +789,29 @@ Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden inge
 
 - f. een contract met de netbeheerder dat de voorziene netcapaciteit dekt;
 
-- g. een offerte met merk, type en specificaties van de laadstations en met de installatiekosten waaruit het vermogen van elk laadstation blijkt en waaruit blijkt dat:
+- g. een offerte met merk, type en specificaties van de laadstations en met de installatiekosten waaruit het aantal laadpunten, het vermogen aan het laadpunt en het vermogen van elk laadstation blijkt en waaruit blijkt dat:
 
-- i. het laadsysteem permanent met het internet is verbonden en waarbij de communicatie volgens het Open Charge Point Protocol versie 1.6 met CS-certificaat of hoger verloopt teneinde sturing van het laden mogelijk te maken; en
+- i. het laadsysteem permanent met het internet is verbonden en waarbij de communicatie volgens het Open Charge Point Protocol versie 1.6 of hoger verloopt teneinde sturing van het laden mogelijk te maken; en
 
 - ii. het project gelet op de realisatiedatum uiterlijk 24 maanden na de verlening kan worden afgerond;
 
 - h. hoogte van het bedrag van eventuele reeds aangevraagde of ontvangen subsidies van een bestuursorgaan of de Commissie van de Europese Unie voor de aanleg van laadinfrastructuur op dezelfde locatie.
 
-2. In afwijking van eerste lid, onderdeel f, overlegt de aanvrager een capaciteitsberekening waarin wordt aangetoond dat de benodigde netcapaciteit binnen 24 maanden na de verlening gerealiseerd wordt, indien de benodigde netcapaciteit meer dan 50% is van het gecontracteerde transportvermogen dat blijkt uit het contract bedoeld in het eerste lid, onderdeel f.
+2. In afwijking van eerste lid, onderdeel f, overlegt de aanvrager een capaciteitsberekening waarin wordt aangetoond dat de benodigde netcapaciteit binnen 24 maanden na de verlening gerealiseerd wordt, indien de benodigde netcapaciteit meer dan 50% is van het maximaal beschikbare vermogen op de huidige aansluiting, zoals blijkt uit het contract bedoeld in het eerste lid, onderdeel f.
 
-3. In aanvulling op eerste lid bevat de aanvraag voor de subsidiabele activiteit, bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), een offerte met opslagcapaciteit, vermogen en C-waarde van de stationaire batterij, waaruit tevens blijkt dat de batterij communiceert met het laadstation waarvoor subsidie wordt aangevraagd.
+3. In aanvulling op eerste lid bevat de aanvraag voor de subsidiabele activiteit, bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01):
+
+- a. een document waaruit blijkt dat de benodigde netcapaciteit voor de te realiseren laadstations meer dan 50% is van het gecontracteerde transportvermogen dat blijkt uit het contract bedoeld in het eerste lid, onderdeel f;
+
+- b. een offerte met opslagcapaciteit, vermogen en C-waarde van de stationaire batterij, waaruit tevens blijkt dat de batterij communiceert met het laadstation waarvoor subsidie wordt aangevraagd.
 
 ##### Artikel 2.3.13. Afwijzingsgronden
 
-1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-01-31&g=2025-01-31) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
+1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-02-01&g=2025-02-01) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
 
-2. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), indien de adviseur tot dezelfde groep of onderneming behoort als de aanvrager.
+2. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor activiteiten als bedoeld in [artikel 2.3.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), indien de adviseur tot dezelfde groep of onderneming behoort als de aanvrager.
+
+3. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie voor activiteiten bedoeld in [artikel 2.3.3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), indien de te verstrekken subsidie lager is dan € 2.500.
 
 ##### Artikel 2.3.14. Subsidieverstrekking
 
@@ -817,7 +821,13 @@ Een aanvraag tot subsidievestrekking op grond van deze paragraaf kan worden inge
 
 ##### Artikel 2.3.15. Verplichtingen subsidieontvanger
 
-In aanvulling op [artikel 17 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) is de subsidieontvanger verplicht binnen 24 maanden na de subsidieverlening het project af te ronden en de laadinfrastructuur in gebruik te nemen.
+1. In aanvulling op [artikel 17 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) is de subsidieontvanger verplicht:
+
+- a. binnen 24 maanden na de subsidieverlening het project af te ronden en de laadinfrastructuur in gebruik te nemen;
+
+- b. gedurende ten minste 24 maanden na vaststelling van de subsidie de laadinfrastructuur in te zetten als private laadinfrastructuur voor elektrische voertuigen die niet te allen tijde voor het publiek toegankelijk is.
+
+2. In aanvulling op het eerste lid is de subsidieontvanger van een subsidie als bedoeld in [artikel 2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), verplicht gedurende ten minste 24 aaneengesloten maanden na vaststelling van de subsidie de stationaire batterij, zonder overdracht aan derden, in eigendom te hebben en deze in te zetten ten behoeve van de laadinfrastructuur bedoeld in het eerste lid.
 
 ##### Artikel 2.3.16. Voorschot
 
@@ -827,15 +837,15 @@ Indien de subsidieverlening € 25.000 of meer bedraagt, verstrekt de Minister g
 
 1. Een subsidieontvanger kan bij de Minister een aanvraag tot vaststelling van de subsidie indienen door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
-2. De subsidieontvanger kan bij de Minister een eenmalig verzoek doen tot uitstel van ten hoogste 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de benodigde tijd voor de realisatie van de laadinfrastructuur langer is dan de periode, genoemd in [artikel 2.3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.15&z=2025-01-31&g=2025-01-31).
+2. De subsidieontvanger kan bij de Minister een eenmalig verzoek doen tot uitstel van ten hoogste 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de benodigde tijd voor de realisatie van de laadinfrastructuur langer is dan de periode, genoemd in [artikel 2.3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.15&z=2025-02-01&g=2025-02-01).
 
-3. In aanvulling op [artikel 24, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), in elk geval de postcode van de locatie waar de laadinfrastructuur op het elektriciteitsnet is aangesloten.
+3. In aanvulling op [artikel 24, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit bedoeld in [artikel 2.3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), in elk geval de postcode van de locatie waar de laadinfrastructuur op het elektriciteitsnet is aangesloten.
 
 ##### Artikel 2.3.18. Staatssteun
 
-1. Subsidie voor de activiteiten bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), wordt verleend op basis van de de-minimisverordening.
+1. Subsidie voor de activiteiten bedoeld in [artikel 2.3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), wordt verleend op basis van de de-minimisverordening.
 
-2. Subsidie voor de activiteiten bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-01-31&g=2025-01-31), wordt:
+2. Subsidie voor de activiteiten bedoeld in [artikel 2.3.3, eerste lid, onderdeel b, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-02-01&g=2025-02-01), wordt:
 
 - a. verleend op basis van de de-minimisverordening indien de aangevraagde subsidie minder dan € 25.000 bedraagt;
 
@@ -966,13 +976,13 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 ##### Artikel 2.2.5. Subsidiabele kosten
 
-1. Voor de subsidiabele activiteiten, bedoeld in [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
+1. Voor de subsidiabele activiteiten, bedoeld in [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01), zijn subsidiabel de kosten die op grond van artikel 36bis van de algemene groepsvrijstellingsverordening voor subsidie in aanmerking komen.
 
 2. In afwijking van het eerste lid komen investeringskosten voor on-site productie van hernieuwbare elektriciteit niet voor subsidie in aanmerking.
 
 ##### Artikel 2.2.6. Hoogte subsidie
 
-1. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31), per laadstation:
+1. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01), per laadstation:
 
 - a. € 19.000 voor een laadstation met een vermogen vanaf 200 kW tot 350 kW;
 
@@ -980,7 +990,7 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 2. Onverminderd het eerste lid is de subsidiehoogte bij een modulair systeem, waarbij sprake is van een fysieke scheiding tussen laadstations en vermogenskast, gebaseerd op de som van het geïnstalleerd vermogen dat parallel maximaal geleverd kan worden door de vermogenskast.
 
-3. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31), € 80 per kWh opslag.
+3. De subsidie bedraagt voor de activiteit, bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01), € 80 per kWh opslag.
 
 ##### Artikel 2.2.7. Subsidieplafond en wijze van verdelen
 
@@ -988,7 +998,7 @@ Deze paragraaf heeft tot doel het stimuleren van investeringen gericht op versne
 
 2. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-3. Indien de Minister op dezelfde dag voor meer dan drie laadlocaties per tweecijferig postcodegebied als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=4&z=2025-01-31&g=2025-01-31) van deze regeling aanvragen ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.
+3. Indien de Minister op dezelfde dag voor meer dan drie laadlocaties per tweecijferig postcodegebied als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=4&z=2025-02-01&g=2025-02-01) van deze regeling aanvragen ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
 4. In afwijking van het tweede lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70 procent kan worden verstrekt omdat het subsidieplafond, bedoeld in het eerste lid, bijna is bereikt, overleg plaats met de aanvrager.
 
@@ -1026,19 +1036,19 @@ Een aanvraag tot subsidieverstrekking op grond van deze paragraaf kan worden ing
 
 - i. de aanvrager aantoonbaar toestemming heeft van de eigenaar van de locatie voor het plaatsen en exploiteren van publiek toegankelijke elektrische laadstations die geschikt zijn voor zware voertuigen;
 
-- ii. de laadlocatie voldoet aan [artikel 2.2.3, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31).
+- ii. de laadlocatie voldoet aan [artikel 2.2.3, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01).
 
-5. In aanvulling op het vierde lid bevat de aanvraag voor de subsidiabele activiteit, bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31), een offerte met opslagcapaciteit en vermogen van de stationaire batterij waaruit blijkt dat de batterij communiceert met het laadstation waarvoor subsidie wordt aangevraagd.
+5. In aanvulling op het vierde lid bevat de aanvraag voor de subsidiabele activiteit, bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01), een offerte met opslagcapaciteit en vermogen van de stationaire batterij waaruit blijkt dat de batterij communiceert met het laadstation waarvoor subsidie wordt aangevraagd.
 
 ##### Artikel 2.2.10. Afwijzingsgronden
 
-1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-01-31&g=2025-01-31) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
+1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-02-01&g=2025-02-01) beslist de Minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
 
 2. In aanvulling op het eerste lid beslist de Minister afwijzend op een aanvraag om subsidie indien:
 
 - a. de te verstrekken subsidie lager is dan € 25.000, of
 
-- b. door toekenning voor meer dan drie laadlocaties per tweecijferig postcodegebied als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=4&z=2025-01-31&g=2025-01-31) van deze regeling subsidie zou worden toegekend.
+- b. door toekenning voor meer dan drie laadlocaties per tweecijferig postcodegebied als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&bijlage=4&z=2025-02-01&g=2025-02-01) van deze regeling subsidie zou worden toegekend.
 
 ##### Artikel 2.2.11. Subsidieverstrekking
 
@@ -1062,13 +1072,13 @@ De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieve
 
 1. Binnen dertien weken nadat de activiteit is afgerond wordt door de subsidieontvanger een aanvraag tot subsidievaststelling ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
 
-2. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit, bedoeld in [artikel 2.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-01-31&g=2025-01-31), in elk geval:
+2. In aanvulling op [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit, bedoeld in [artikel 2.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-02-01&g=2025-02-01), in elk geval:
 
 - a. de EAN-code, te weten het unieke 18-cijferig nummer dat de hernieuwbare elektriciteit op het net identificeert die de laadstations gebruiken; en
 
 - b. een contract met een energieleverancier of een garantie van oorsprong als bedoeld in artikel 19 van [Richtlijn (EU) 2018/2001](32018L2001) waaruit blijkt dat uitsluitend hernieuwbare elektriciteit wordt geleverd voor de laadstations.
 
-3. De subsidieontvanger kan bij de Minister een eenmalig verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de benodigde tijd voor de realisatie van de laadinfrastructuur langer is dan de periode, genoemd in [artikel 2.2.12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.12&z=2025-01-31&g=2025-01-31).
+3. De subsidieontvanger kan bij de Minister een eenmalig verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de benodigde tijd voor de realisatie van de laadinfrastructuur langer is dan de periode, genoemd in [artikel 2.2.12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.12&z=2025-02-01&g=2025-02-01).
 
 #### Paragraaf 2.3. Private laadinfrastructuur elektrische voertuigen
 
@@ -1147,7 +1157,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.3.17a. Gewijzigde vaststelling en terugvordering
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien niet is voldaan aan het bepaalde in [artikel 2.3.15, eerste lid, onderdeel b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.15&z=2025-02-01&g=2025-02-01), kan de Minister de vaststelling van de subsidie wijzigen en het onverschuldigd betaalde deel van de subsidie terugvorderen.
+
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/24e deel van het verstrekte subsidiebedrag, vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 2.3.15, eerste lid, onderdeel b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.15&z=2025-02-01&g=2025-02-01).
 
 #### Paragraaf 2.4. Emissieloze touringcars
 
@@ -1207,9 +1219,9 @@ De kosten die op grond van artikel 36ter van de algemene groepsvrijstellingsvero
 
 ##### Artikel 2.4.7. Subsidieplafond en wijze van verdelen
 
-1. Het subsidieplafond voor aanvragers als bedoeld in [artikel 2.4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2025-01-31&g=2025-01-31), bedraagt voor het jaar 2025: € 3.500.000.
+1. Het subsidieplafond voor aanvragers als bedoeld in [artikel 2.4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2025-02-01&g=2025-02-01), bedraagt voor het jaar 2025: € 3.500.000.
 
-2. Het subsidieplafond voor aanvragers als bedoeld in [artikel 2.4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2025-01-31&g=2025-01-31), bedraagt voor het jaar 2025: € 3.500.000
+2. Het subsidieplafond voor aanvragers als bedoeld in [artikel 2.4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2025-02-01&g=2025-02-01), bedraagt voor het jaar 2025: € 3.500.000
 
 3. Indien een subsidieplafond als bedoeld in het eerste lid voor dat jaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de bedragen aangevuld met de voor dat jaar onaangesproken middelen gereserveerd op grond van het tweede lid.
 
@@ -1243,7 +1255,7 @@ Een aanvraag tot subsidieverlening op grond van deze regeling kan in 2025 van 11
 
 ##### Artikel 2.4.10. Afwijzingsgronden
 
-1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-01-31&g=2025-01-31) beslist de minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
+1. Onverminderd [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=1&artikel=1.3&z=2025-02-01&g=2025-02-01) beslist de minister afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan het bepaalde in deze paragraaf.
 
 2. In aanvulling op het eerste lid beslist de minister afwijzend op een aanvraag om subsidie indien:
 
@@ -1251,9 +1263,9 @@ Een aanvraag tot subsidieverlening op grond van deze regeling kan in 2025 van 11
 
 - b. aan de aanvrager, dan wel aan aanvragers die tot eenzelfde groep behoren, op grond van deze regeling reeds voor de aanschaf van:
 
-- 1°. 15 emissieloze touringcars subsidie is verstrekt onder een subsidieplafond als bedoeld in [artikel 2.4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2025-01-31&g=2025-01-31);
+- 1°. 15 emissieloze touringcars subsidie is verstrekt onder een subsidieplafond als bedoeld in [artikel 2.4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2025-02-01&g=2025-02-01);
 
-- 2°. 12 emissieloze touringcars subsidie is verstrekt onder een subsidieplafond als bedoeld in [artikel 2.4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2025-01-31&g=2025-01-31); of
+- 2°. 12 emissieloze touringcars subsidie is verstrekt onder een subsidieplafond als bedoeld in [artikel 2.4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2025-02-01&g=2025-02-01); of
 
 - c. de te verstrekken subsidie lager is dan € 25.000.
 
@@ -1291,7 +1303,7 @@ Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidie
 
 3. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het tweede lid, indien hij kan aantonen dat de levertijd van de nieuwe emissieloze touringcar langer is dan de periode, genoemd in het tweede lid.
 
-4. Onverminderd [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit, bedoeld in [artikel 2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2025-01-31&g=2025-01-31), in elk geval de volgende gegevens:
+4. Onverminderd [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) bevat de aanvraag tot vaststelling van de subsidie voor de subsidiabele activiteit, bedoeld in [artikel 2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2025-02-01&g=2025-02-01), in elk geval de volgende gegevens:
 
 - a. het kenteken van de nieuwe emissieloze touringcar dat is vermeld in de overeenkomst; en
 
@@ -1299,15 +1311,15 @@ Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidie
 
 ##### Artikel 2.4.15. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 2.4.12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.12&z=2025-01-31&g=2025-01-31), kan de minister de vaststelling van de subsidie wijzigen en het onverschuldigd betaalde deel van de subsidie terugvorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 2.4.12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.12&z=2025-02-01&g=2025-02-01), kan de minister de vaststelling van de subsidie wijzigen en het onverschuldigd betaalde deel van de subsidie terugvorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 2.4.12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.12&z=2025-01-31&g=2025-01-31).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 2.4.12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.4&artikel=2.4.12&z=2025-02-01&g=2025-02-01).
 
 ### Hoofstuk 3. Slotbepalingen
 
-## Bijlage 1. bij [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2025-01-31&g=2025-01-31) en [artikel 2.1.8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-01-31&g=2025-01-31), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
+## Bijlage 1. bij [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2025-02-01&g=2025-02-01) en [artikel 2.1.8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-02-01&g=2025-02-01), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
 
-| Stedelijk knooppunten: de hieronder opgenomen gemeenten plus maximaal 10 rijkilometers vanaf de gemeentegrens | Waterstoftankstation operationeel dat voldoet aan de eisen genoemd in [artikel 2.1.10, derde lid, onderdeel h en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-01-31&g=2025-01-31) |
+| Stedelijk knooppunten: de hieronder opgenomen gemeenten plus maximaal 10 rijkilometers vanaf de gemeentegrens | Waterstoftankstation operationeel dat voldoet aan de eisen genoemd in [artikel 2.1.10, derde lid, onderdeel h en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-02-01&g=2025-02-01) |
 | --- | --- |
 | gemeente Alkmaar | X |
 | gemeente Almere |   |
@@ -1336,13 +1348,13 @@ Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidie
 | gemeente Zoetermeer |   |
 | gemeente Zwolle |   |
 
-## Bijlage 2. bij [artikel 2.1.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-01-31&g=2025-01-31), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
+## Bijlage 2. bij [artikel 2.1.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2025-02-01&g=2025-02-01), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
 
 **Punten ten behoeve van de criteria genoemd in het eerste lid:**
 
 | criterium | invulling | score |
 | --- | --- | --- |
-| a: inzet financiële middelen | A/B(=x*y): A. gevraagd subsidiebedrag gedeeld door B. (=x. dagcapaciteit als bedoeld in [artikel 2.1.10, derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-01-31&g=2025-01-31), * y. aantal tankpunten) | De uitkomst van de invulling delen door 20. Dit getal wordt als percentage in mindering gebracht op de maximale score van 70 punten |
+| a: inzet financiële middelen | A/B(=x*y): A. gevraagd subsidiebedrag gedeeld door B. (=x. dagcapaciteit als bedoeld in [artikel 2.1.10, derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-02-01&g=2025-02-01), * y. aantal tankpunten) | De uitkomst van de invulling delen door 20. Dit getal wordt als percentage in mindering gebracht op de maximale score van 70 punten |
 | b. fase vergunningaanvraag | vergunning is aangevraagd | 1 punt |
 |   | vergunning is verleend | 5 punten |
 |   | vergunning is onherroepelijk | 10 punten |
@@ -1358,7 +1370,7 @@ Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidie
 | --- | --- |
 | inzet financiële middelen | 100 -/- (gevraagd percentage van het maximale subsidiebedrag) |
 
-## Bijlage 3. bij [artikel 2.1.10, derde lid, onderdeel c, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-01-31&g=2025-01-31), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
+## Bijlage 3. bij [artikel 2.1.10, derde lid, onderdeel c, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.1&artikel=2.1.10&z=2025-02-01&g=2025-02-01), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
 
 | voertuigtype | verbruik per dag op basis van 365 d/j |
 | --- | --- |
@@ -1370,12 +1382,22 @@ Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidie
 | M2 | 6,6 kg/d |
 | M3 | 21 kg/d |
 
-## Bijlage 4. bij [artikel 2.2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.10&z=2025-01-31&g=2025-01-31), en [artikel 2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.7&z=2025-01-31&g=2025-01-31), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
+## Bijlage 4. bij [artikel 2.2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.10&z=2025-02-01&g=2025-02-01), en [artikel 2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.2&artikel=2.2.7&z=2025-02-01&g=2025-02-01), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
 
 De tweecijferige postcode betreft de eerste twee cijfers van de postcode
 
-## Bijlage 5. bij [artikel 2.3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.6&z=2025-01-31&g=2025-01-31), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
+## Bijlage 5. bij [artikel 2.3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&hoofdstuk=2&paragraaf=2.3&artikel=2.3.6&z=2025-02-01&g=2025-02-01), van de Tijdelijke subsidieregeling zero-emissie mobiliteit
 
-Dit onderdeel is nog niet inwerking getreden
+| Categorie | Basisbedrag | maximumsubsidie groot | maximumsubsidie mkb |
+| --- | --- | --- | --- |
+| AC laadstation met een vermogen vanaf 11 kW | € 2.000 | € 400 | € 800 |
+| AC laadstation duopaal | € 4.000 | € 800 | € 1.600 |
+| AC laadstation met een vermogen vanaf 43 kW | € 4.400 | € 880 | € 1.760 |
+| DC laadstation met een vermogen vanaf 20 kW | € 9.750 | € 1.950 | € 3.900 |
+| DC laadstation met een vermogen vanaf 50 kW | € 24.400 | € 4.880 | € 9.760 |
+| DC laadstation met een vermogen vanaf 150 kW | € 61.000 | € 12.200 | € 24.400 |
+| DC laadstation met een vermogen vanaf 225 kW | € 77.500 | € 15.500 | € 31.000 |
+| DC laadstation met een vermogen vanaf 350 kW | € 93.000 | € 18.600 | € 37.200 |
+| DC laadstation met een vermogen vanaf 600 kW | € 153.000 | € 30.600 | nvt |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
