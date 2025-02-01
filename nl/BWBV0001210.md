@@ -4,7 +4,7 @@ identifier: "BWBV0001210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-25"
-last_updated: "2025-01-01"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001210"
 soort: "verdrag"
@@ -37,7 +37,7 @@ entry_into_force: "1996-01-01"
 
 De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden
 
-op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, zoals laatst gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011,
+op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, zoals laatstelijk gewijzigd bij [Richtlijn (EU) 2022/362](32022L0362) van het Europees Parlement en de Raad van 24 februari 2022,
 
 op grond van de gemeenschappelijke verklaring van de Belgische, de Deense, de Duitse, de Luxemburgse en de Nederlandse delegatie inzake een gemeenschappelijk stelsel van gebruiksrechten, afgelegd tijdens de 1.668e zitting van de Raad van de Europese Gemeenschappen op 7, 8 en 19 juni 1993 te Luxemburg,
 
@@ -51,17 +51,19 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 2. Begripsbepalingen
 
-1°. De begripsbepalingen van artikel 2, punten a), c), e) en f) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals laatst gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011, zijn van toepassing op dit verdrag.
+1°. De begripsbepalingen van artikel 2, eerste lid, punten 6), 16), 29), 32), 33), 34), 35) en 38) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals laatstelijk gewijzigd bij [Richtlijn (EU) 2022/362](32022L0362) van het Europees Parlement en de Raad van 24 februari 2022, zijn van toepassing op dit verdrag.
 
 2°. In dit Verdrag hebben de onderstaande begrippen de volgende betekenis:
 
 „grondgebied van de verdragsluitende partijen”: het onderscheiden Europese grondgebied van het Koninkrijk Denemarken, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden;
 
-„voertuig”: een motorvoertuig of een samenstel van voertuigen bedoeld of gebruikt voor het vervoer over de weg van goederen en waarvan het maximaal toegestane totaalgewicht minimaal 12 ton bedraagt, overeenkomstig artikel 2, punt d, en artikel 7, vijfde lid, van de Richtlijn zoals gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011.
+„Richtlijn”: [Richtlijn 1999/62/EG](31999L0062) van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van wegeninfrastructuur aan voertuigen, zoals laatstelijk gewijzigd bij [Richtlijn (EU) 2022/362](32022L0362) van het Europees Parlement en de Raad van 24 februari 2022;
+
+„voertuig”: een motorvoertuig, met vier of meer wielen, of een samenstel van gelede voertuigen bedoeld of gebruikt voor het vervoer over de weg van goederen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton, overeenkomstig artikel 2, eerste lid, punten 17, 18 en 19 van de Richtlijn.
 
 ##### Artikel 3. Verplichting tot het betalen van het gebruiksrecht
 
-1. Overeenkomstig de bepalingen van dit verdrag heffen de verdragsluitende partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van het trans-Europees wegennet door voertuigen in de zin van artikel 2, punt (d), van de Richtlijn maar met een maximaal toegestaan totaalgewicht van minstens 12 ton, overeenkomstig artikel 7, vijfde lid, van diezelfde Richtlijn.
+1. Overeenkomstig de bepalingen van dit Verdrag heffen de Verdragsluitende Partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van autosnelwegen door voertuigen. Tot 25 maart 2027 worden, overeenkomstig artikel 7, dertiende lid, van de Richtlijn, de gebruiksrechten uitsluitend toegepast op voertuigen met een technisch toelaatbare maximummassa in beladen toestand van ten minste 12 ton.
 
 2. Elk der Verdragsluitende Partijen kan de heffing van het gemeenschappelijke gebruiksrecht overeenkomstig artikel 7, eerste lid, van de richtlijn eveneens toepassen voor het gebruik van andere wegen.
 
@@ -71,13 +73,17 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
-1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde gebruiksrecht.
+1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01) bedoelde gebruiksrecht.
 
-2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde gebruiksrecht.
+2. Op hun respectieve grondgebieden mogen de Verdragsluitende Partijen vrijstelling verlenen van het in artikel 3 bedoelde gebruiksrecht aan voertuigen die slechts af en toe op de openbare wegen van de Verdragsluitende Partij van registratie rijden en die gebruikt worden door natuurlijke of rechtspersonen die het vervoer van de goederen niet als voornaamste beroepsactiviteit hebben, op voorwaarde dat de vervoersactiviteiten die door deze voertuigen worden uitgevoerd niet leiden tot verstoring van de mededinging en dat de Europese Commissie hiermee heeft ingestemd.
 
-3. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
+3. Emissievrije voertuigen met een technisch toelaatbare maximummassa in beladen toestand tot 4,25 ton zijn vrijgesteld van het gebruiksrecht bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01).
 
-4. In het geval van samengestelde voertuigen (combinaties) is het motorvoertuig doorslaggevend voor de vrijstelling van de combinatie.
+4. Op hun respectieve grondgebieden mogen Verdragsluitende Partijen vrijstelling verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01) bedoelde gebruiksrecht aan voertuigen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton en minder dan 7,5 ton die worden gebruikt voor het vervoer van materiaal, uitrusting of machines die zijn bestemd voor gebruik door de bestuurder tijdens diens werk, of voor het afleveren van ambachtelijk vervaardigde goederen, als het vervoer niet voor rekening van derden wordt verricht.
+
+5. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
+
+6. In het geval van samengestelde voertuigen (combinaties) is het motorvoertuig doorslaggevend voor de vrijstelling van de combinatie.
 
 ##### Artikel 5. Betalingsplichtige
 
@@ -105,51 +111,51 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 
 ##### Artikel 8. Tarieven
 
-1. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één jaar voor voertuigen:
+1. Tot en met 31 december 2024 bedraagt het gebruiksrecht, met inbegrip van administratiekosten, voor voertuigen:
 
-- 1. met ten hoogste drie assen:
+| **Voor één jaar** | **Voor één jaar** | **Voor één jaar** |
+| --- | --- | --- |
+| **EURO-emissieklasse** | **ten hoogste drie assen** | **ten minste vier assen** |
+| NIET-EURO | 1,407 euro | 2,359 euro |
+| EURO I | 1,223 euro | 2,042 euro |
+| EURO II | 1,065 euro | 1,776 euro |
+| EURO III | 926 euro | 1,543 euro |
+| EURO IV | 842 euro | 1,404 euro |
+| EURO V | 796 euro | 1,327 euro |
+| EURO VI of schoner | 750 euro | 1,250 euro |
 
-| a. NIET-EURO | 1.407 euro |
-| --- | --- |
-| b. EURO I | 1.223 euro |
-| c. EURO II | 1.065 euro |
-| d. EURO III | 926 euro |
-| e. EURO IV | 842 euro |
-| f. EURO V of schoner | 750 euro |
+| **Voor één maand** | **Voor één maand** | **Voor één maand** |
+| --- | --- | --- |
+| **EURO-emissieklasse** | **ten hoogste drie assen** | **ten minste vier assen** |
+| NIET-EURO | 140 euro | 235 euro |
+| EURO I | 122 euro | 204 euro |
+| EURO II | 106 euro | 177 euro |
+| EURO III | 92 euro | 154 euro |
+| EURO IV | 84 euro | 140 euro |
+| EURO V | 79 euro | 132 euro |
+| EURO VI of schoner | 75 euro | 125 euro |
 
-- 2. met vier of meer assen:
+| **Voor één week** | **Voor één week** | **Voor één week** |
+| --- | --- | --- |
+| **EURO-emissieklasse** | **ten hoogste drie assen** | **vier of meer assen** |
+| NIET-EURO | 37 euro | 62 euro |
+| EURO I | 32 euro | 54 euro |
+| EURO II | 28 euro | 47 euro |
+| EURO III | 24 euro | 41 euro |
+| EURO IV | 22 euro | 37 euro |
+| EURO V | 21 euro | 35 euro |
+| EURO VI of schoner | 20 euro | 33 euro |
 
-| a. NIET-EURO | 2.359 euro |
-| --- | --- |
-| b. EURO I | 2.042 euro |
-| c. EURO II | 1.776 euro |
-| d. EURO III | 1.543 euro |
-| e. EURO IV | 1.404 euro |
-| f. EURO V of schoner | 1.250 euro |
-
-Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één jaar voor voertuigen:
-
-- 1. met ten hoogste drie assen:
-
-| a. NIET-EURO | 1.407 euro |
-| --- | --- |
-| b. EURO I | 1.223 euro |
-| c. EURO II | 1.065 euro |
-| d. EURO III | 926 euro |
-| e. EURO IV | 842 euro |
-| f. EURO V | 796 euro |
-| g. EURO VI of schoner | 750 euro |
-
-- 2. met vier of meer assen:
-
-| a. NIET-EURO | 2.359 euro |
-| --- | --- |
-| b. EURO I | 2.042 euro |
-| c. EURO II | 1.776 euro |
-| d. EURO III | 1.543 euro |
-| e. EURO IV | 1.404 euro |
-| f. EURO V | 1.327 euro |
-| g. EURO VI of schoner | 1.250 euro |
+| **Voor één dag** | **Voor één dag** | **Voor één dag** |
+| --- | --- | --- |
+| **EURO-emissieklasse** | **ten hoogste drie assen** | **ten minste vier assen** |
+| NIET-EURO | 12 euro | 12 euro |
+| EURO I | 12 euro | 12 euro |
+| EURO II | 12 euro | 12 euro |
+| EURO III | 12 euro | 12 euro |
+| EURO IV | 12 euro | 12 euro |
+| EURO V | 12 euro | 12 euro |
+| EURO VI of schoner | 12 euro | 12 euro |
 
 2. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één maand voor voertuigen:
 
@@ -197,55 +203,75 @@ Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratieko
 | f. EURO V | 132 euro |
 | g. EURO VI of schoner | 125 euro |
 
-3. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één week voor voertuigen:
+3. Niettegenstaande het tweede lid bedraagt het gebruiksrecht, met inbegrip van administratiekosten, vanaf 26 maart 2027 voor voertuigen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton maar minder dan 12 ton:
 
-- 1. met ten hoogste drie assen:
+| **Voor één jaar** | **Voor één jaar** | **Voor één jaar** | **Voor één jaar** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 956 euro | 1,603 euro |
+| 1 | EURO I | 831 euro | 1,387 euro |
+| 1 | EURO II | 723 euro | 1,206 euro |
+| 1 | EURO III | 629 euro | 1,048 euro |
+| 1 | EURO IV | 572 euro | 954 euro |
+| 1 | EURO V | 541 euro | 901 euro |
+| 1 | EURO VI of schoner | 510 euro | 849 euro |
+| 2 |   | 459 euro | 764 euro |
+| 3 |   | 395 euro | 658 euro |
+| 4 |   | 306 euro | 510 euro |
+| 5 |   | 130 euro | 213 euro |
 
-| a. NIET-EURO | 37 euro |
-| --- | --- |
-| b. EURO I | 32 euro |
-| c. EURO II | 28 euro |
-| d. EURO III | 24 euro |
-| e. EURO IV | 22 euro |
-| f. EURO V of schoner | 20 euro |
+| **Voor één maand** | **Voor één maand** | **Voor één maand** | **Voor één maand** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 95 euro | 160 euro |
+| 1 | EURO I | 83 euro | 138 euro |
+| 1 | EURO II | 72 euro | 120 euro |
+| 1 | EURO III | 62 euro | 104 euro |
+| 1 | EURO IV | 57 euro | 95 euro |
+| 1 | EURO V | 54 euro | 90 euro |
+| 1 | EURO VI of schoner | 51 euro | 84 euro |
+| 2 |   | 45 euro | 76 euro |
+| 3 |   | 39 euro | 65 euro |
+| 4 |   | 30 euro | 51 euro |
+| 5 |   | 13 euro | 21 euro |
 
-- 2. met vier of meer assen:
+| **Voor één week** | **Voor één week** | **Voor één week** | **Voor één week** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 33 euro | 56 euro |
+| 1 | EURO I | 29 euro | 49 euro |
+| 1 | EURO II | 25 euro | 42 euro |
+| 1 | EURO III | 22 euro | 37 euro |
+| 1 | EURO IV | 20 euro | 33 euro |
+| 1 | EURO V | 19 euro | 32 euro |
+| 1 | EURO VI of schoner | 18 euro | 30 euro |
+| 2 |   | 16 euro | 27 euro |
+| 3 |   | 14 euro | 23 euro |
+| 4 |   | 11 euro | 18 euro |
+| 5 |   | 5 euro | 8 euro |
 
-| a. NIET-EURO | 62 euro |
-| --- | --- |
-| b. EURO I | 54 euro |
-| c. EURO II | 47 euro |
-| d. EURO III | 41 euro |
-| e. EURO IV | 37 euro |
-| f. EURO V of schoner | 33 euro |
+| **Voor één dag** | **Voor één dag** | **Voor één dag** | **Voor één dag** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 10 euro | 16 euro |
+| 1 | EURO I | 8 euro | 14 euro |
+| 1 | EURO II | 7 euro | 12 euro |
+| 1 | EURO III | 6 euro | 10 euro |
+| 1 | EURO IV | 6 euro | 10 euro |
+| 1 | EURO V | 5 euro | 9 euro |
+| 1 | EURO VI of schoner | 5 euro | 8 euro |
+| 2 |   | 4 euro | 7 euro |
+| 3 |   | 4 euro | 6 euro |
+| 4 |   | 3 euro | 5 euro |
+| 5 |   | 2 euro | 2 euro |
 
-Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één week voor voertuigen:
+- a. Overeenkomstig artikel 7 octies bis, eerste lid, en artikel 8, derde lid, van de Richtlijn, gelet op het advies van de coördinatiecommissie, past elk van de Verdragsluitende Partijen uiterlijk drie jaar na de publicatie van de referentiewaarden van de CO2-emissies de variant van artikel 7 octies bis toe op de subgroepen van zware bedrijfsvoertuigen die vallen onder artikel 2, eerste lid, punten a-d, van [Verordening (EU) 2019/1242](33142R2019). Voor groepen zware bedrijfsvoertuigen die niet onder dat artikel vallen worden, gelet op het advies van de coördinatiecommissie, CO2-emissieklassen 1, 4 en 5 toegepast, uiterlijk drie jaar na de publicatie van de referentiewaarden van de CO2-emissies in uitvoeringshandelingen door de Europese Commissie.
 
-- 1. met ten hoogste drie assen:
+- b. Indien [Verordening (EU) 2019/1242](33142R2019) zodanig wordt gewijzigd dat deze betrekking heeft op CO2-emissies die relevant zijn voor een groep of subgroep van voertuigen waarvoor referentiewaarden van CO2-emissies worden gepubliceerd, passen de Verdragsluitende Partijen, gelet op het advies van de coördinatiecommissie, deze referentiewaarden van CO2-emissies toe en passen CO2-emissieklassen 2 en 3, overeenkomstig artikel 7 octies bis, eerste lid, derde en vierde alinea, van de Richtlijn, toe binnen de termijn die gegeven is in de wetgevingshandeling tot wijziging van [Verordening (EU) 2019/1242](33142R2019).
 
-| a. NIET-EURO | 37 euro |
-| --- | --- |
-| b. EURO I | 32 euro |
-| c. EURO II | 28 euro |
-| d. EURO III | 24 euro |
-| e. EURO IV | 22 euro |
-| f. EURO V | 21 euro |
-| g. EURO VI of schoner | 20 euro |
+- c. Overeenkomstig artikel 7 octies bis, eerste en tweede lid, en artikel 8, derde lid, van de Richtlijn, stelt elke Verdragsluitende Partij, indien beschikbaar, voor elk type zwaar bedrijfsvoertuig de CO2-emissieklassen 1, 2, 3, 4 of 5 vast en waarborgt dat de classificatie van een voertuig dat onder CO2-emissieklasse 2 of 3 valt om de zes jaar opnieuw wordt beoordeeld, te rekenen vanaf de datum van zijn eerste registratie en dat, in voorkomend geval, het voertuig een herclassificatie krijgt en gaat vallen onder de relevante emissieklasse op basis van de op dat moment van toepassing zijnde drempelwaarden.
 
-- 2. met vier of meer assen:
-
-| a. NIET-EURO | 62 euro |
-| --- | --- |
-| b. EURO I | 54 euro |
-| c. EURO II | 47 euro |
-| d. EURO III | 41 euro |
-| e. EURO IV | 37 euro |
-| f. EURO V | 35 euro |
-| g. EURO VI of schoner | 33 euro |
-
-4. Het gebruiksrecht met inbegrip van administratiekosten voor één dag is gelijk voor alle voertuigklassen en bedraagt 12 euro.
-
-5. Vervallen.
+5. Wanneer een gebruiksrecht wordt geheven op de datum van de herclassificatie zoals genoemd in het vierde lid, punt c, treedt de herclassificatie in werking op de eerste dag van een nieuw vignet op of na de dag van de herclassificatie.
 
 6. Verdragsluitende Partijen die voor binnen hun grondgebied geregistreerde voertuigen alleen jaarlijkse gebruiksrechten heffen, kunnen de vaststelling van de te betalen gebruiksrechten als bedoeld in het eerste lid baseren op de grootst mogelijke combinatie van voertuigen waarvan een motorvoertuig waarvoor betaling van het gebruiksrecht verplicht is, deel kan uitmaken.
 
@@ -263,7 +289,7 @@ De verdragsluitende partijen dragen er zorg voor dat de centrale database wordt 
 
 - 2). geldigheidsduur,
 
-- 3). aantal assen en Euroklasse van het voertuig,
+- 3). aantal assen, EURO-emissieklasse, technisch toelaatbare maximummassa in beladen toestand, CO2-emissieklasse, en, indien beschikbaar, de CO2-emissie van het voertuig,
 
 - 4). bedrag van het gebruiksrecht in Euro’s, Deense of Zweedse Kronen,
 
@@ -341,7 +367,9 @@ Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages wor
 
 - 2. het toezicht op en de afrekening van rechten die worden geïnd in staten waar het gemeenschappelijk gebruiksrecht niet wordt geheven;
 
-- 3. de coördinatie tussen de nationale toezichthoudende autoriteiten van de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven.
+- 3. de coördinatie tussen de nationale toezichthoudende autoriteiten van de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven;
+
+- 4. de coördinatie van de exacte datum waarop de referentiewaarden van de CO2-emissies als bedoeld in [artikel 8, vierde lid, punten a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=8&z=2025-02-01&g=2025-02-01), van het Verdrag worden toegepast.
 
 2. De coördinatiecommissie stelt haar eigen reglement op, waarin de bijzonderheden worden geregeld van de werkwijze en de in dit Verdrag genoemde te nemen beslissingen.
 
@@ -385,6 +413,6 @@ De Verdragsluitende Partij die gebruik maakt van haar opzeggingsrecht, mag geen 
 
 ##### Artikel 20. Geldigheidsduur
 
-Dit Verdrag geldt tot 31 december 2029. Het kan worden verlengd indien twee of meer Verdragsluitende Partijen zulks overeenkomen.
+Dit Verdrag geldt tot 25 maart 2032. Het kan worden verlengd indien twee of meer Verdragsluitende Partijen zulks overeenkomen.
 
 GEDAAN te Brussel op 9 februari 1994 in de Deense, de Duitse, de Franse en de Nederlandse taal, zijnde alle teksten gelijkelijk authentiek, in één oorspronkelijk exemplaar, dat wordt nedergelegd en bewaard in het archief van de Commissie van de Europese Gemeenschappen; deze doet iedere Verdragsluitende Partij een voor eensluidend gewaarmerkt afschrift toekomen.
