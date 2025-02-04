@@ -4,7 +4,7 @@ identifier: "BWBR0050574"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-04"
-last_updated: "2024-12-17"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050574"
 soort: "AMvB"
@@ -54,17 +54,13 @@ Wijzigt het Besluit EU-verordeningen Wft.
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit Wwft 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0050574&artikel=II&z=2024-12-17&g=2024-12-17) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0050574&artikel=III&z=2024-12-17&g=2024-12-17), die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0050574&artikel=II&z=2025-02-04&g=2025-02-04) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0050574&artikel=III&z=2025-02-04&g=2025-02-04), die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel V
 
