@@ -4,7 +4,7 @@ identifier: "BWBR0016726"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-04"
-last_updated: "2004-06-30"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016726"
 soort: "wet"
@@ -64,13 +64,11 @@ Wijzigt de Wet op de economische delicten.
 
 2. In het bijzonder is een in Nederland gevestigde verlener van diensten als bedoeld in lid 1 tegenover een afnemer, gevestigd in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, gebonden aan de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) en [15e van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15e) alsmede de [artikelen 227b](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=227b) en [227c van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=227c).
 
-3. In het bijzonder kan voorts een in Nederland gevestigde verlener van diensten van de informatiemaatschappij een beroep doen op [artikel 196c van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=196c).
+3. Voor de toepassing van het eerste lid wordt onder lidstaat van de Europese Unie mede verstaan een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-4. Voor de toepassing van het eerste lid wordt onder lidstaat van de Europese Unie mede verstaan een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
+4. Het eerste lid is niet van toepassing op de gebieden vermeld in de bijlage bij [Richtlijn 2000/31/EG](32000L0031) van het Europees Parlement en de Raad van de Europese Gemeenschappen van 8 juni 2000, betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt.
 
-5. Het eerste lid is niet van toepassing op de gebieden vermeld in de bijlage bij [Richtlijn 2000/31/EG](32000L0031) van het Europees Parlement en de Raad van de Europese Gemeenschappen van 8 juni 2000, betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt.
-
-6. In afwijking van het eerste lid kunnen maatregelen worden genomen ten aanzien van een bepaalde dienst van de informatiemaatschappij, indien:
+5. In afwijking van het eerste lid kunnen maatregelen worden genomen ten aanzien van een bepaalde dienst van de informatiemaatschappij, indien:
 
 - a. de maatregelen noodzakelijk zijn in verband met:
 
@@ -86,7 +84,7 @@ Wijzigt de Wet op de economische delicten.
 
 - c. de lidstaat waar de verlener van de desbetreffende dienst is gevestigd tevoren is verzocht maatregelen te nemen, maar deze niet of in onvoldoende mate zijn genomen, alsmede de Europese Commissie en deze lidstaat tevoren in kennis zijn gesteld van het voornemen de maatregelen te nemen.
 
-7. In gevallen waarin in verband met de in het zesde lid, onder a, genoemde belangen onverwijld moet worden opgetreden, kan worden afgeweken van het zesde lid, onder c. In dat geval worden de Europese Commissie en de desbetreffende lidstaat onverwijld in kennis gesteld van de genomen maatregelen en van de redenen waarom van het zesde lid, onder c, is afgeweken.
+6. In gevallen waarin in verband met de in het vijfde lid, onder a, genoemde belangen onverwijld moet worden opgetreden, kan worden afgeweken van het vijfde lid, onder c. In dat geval worden de Europese Commissie en de desbetreffende lidstaat onverwijld in kennis gesteld van de genomen maatregelen en van de redenen waarom van het vijfde lid, onder c, is afgeweken.
 
 ##### Artikel VI
 
