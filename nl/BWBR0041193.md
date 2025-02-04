@@ -4,7 +4,7 @@ identifier: "BWBR0041193"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-04"
-last_updated: "2024-07-01"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041193"
 soort: "AMvB"
@@ -51,8 +51,6 @@ Treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasr
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
-
-- **aanbieder:** aanbieder als bedoeld in [artikel 23b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23b);
 
 - **betaalinstrument:** betaalinstrument in de zin van artikel 4, onderdeel 14, van de richtlijn betaaldiensten;
 
@@ -174,99 +172,37 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2024-07-01&g=2024-07-01) bij dit besluit.
+1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2025-02-04&g=2025-02-04) bij dit besluit.
 
 2. Voor bijkantoren in Nederland van een bank of andere financiële onderneming met zetel buiten Nederland als bedoeld in [artikel 1a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), gelden de indicatoren die van toepassing zijn voor een bank of het type financiële onderneming waarvan het bijkantoor deel uitmaakt.
 
 ##### Artikel 5
 
-De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 23h, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
+Vervallen
 
 ##### Artikel 6
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2024-07-01&g=2024-07-01), in ieder geval de antecedenten genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2024-07-01&g=2024-07-01) in aanmerking.
+Vervallen
 
 ##### Artikel 7
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2024-07-01&g=2024-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
-
-- a. door betrokkene verstrekte gegevens en inlichtingen;
-
-- b. door de Landelijke Officier van Justitie verstrekte politiegegevens;
-
-- c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=1);
-
-- d. gegevens en inlichtingen, verkregen van de Belastingdienst;
-
-- e. gegevens en inlichtingen, verkregen van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op financiële markten of op personen die op die markten werkzaam zijn;
-
-- f. ambtsberichten van het Openbaar Ministerie;
-
-- g. inlichtingen, verkregen van door betrokkene opgegeven referenties;
-
-- h. gegevens uit openbare bronnen;
-
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in artikel 1c bedoelde persoon betrokken is geweest;
-
-- j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
-
-- k. gegevens en inlichtingen, verkregen uit andere bij ministeriële regeling aan te wijzen bronnen.
-
-2. Indien de gegevens of inlichtingen, verkregen overeenkomstig het eerste lid, de Nederlandsche Bank aanleiding geven tot nader onderzoek, kan de Nederlandsche Bank ook inlichtingen inwinnen en gegevens opvragen bij andere personen of instanties dan genoemd in dat lid. De Nederlandsche Bank stelt de betrokkene in dat geval vooraf schriftelijk in kennis van:
-
-- a. de reden van het nadere onderzoek;
-
-- b. de personen of instanties bij wie nadere gegevens of inlichtingen zullen worden ingewonnen; en
-
-- c. de aard van de nadere gegevens of inlichtingen.
+Vervallen
 
 ##### Artikel 8
 
-1. De betrouwbaarheid van de betrokkene staat niet buiten twijfel indien:
-
-- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2024-07-01&g=2024-07-01), waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
-
-- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2024-07-01&g=2024-07-01), waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
-
-- c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) of [artikel 65 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of
-
-- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2024-07-01&g=2024-07-01), en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
-
-2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=9&z=2024-07-01&g=2024-07-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
+Vervallen
 
 ##### Artikel 9
 
-De Nederlandsche Bank neemt bij de vaststelling van de betrouwbaarheid in aanmerking:
-
-- a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
-
-- b. de belangen die de wet beoogt te beschermen; en
-
-- c. de overige belangen van de aanbieder en de betrokkene.
+Vervallen
 
 ##### Artikel 10
 
-Een aanbieder beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van belangen van:
-
-- a. personen die het beleid van de aanbieder bepalen of mede bepalen;
-
-- b. indien van toepassing, bestuurders van de aanbieder of een rechtspersoon of vennootschap van dezelfde groep;
-
-- c. indien van toepassing, personen die belast zijn met de compliancefunctie of auditfunctie of lid zijn van een orgaan belast met het intern toezicht op de aanbieder;
-
-- d. indien van toepassing, andere werknemers of personen die in opdracht van de aanbieder werkzaamheden verrichten met een taak of functie waarin belangenverstrengeling zich redelijkerwijs zou kunnen voordoen.
+Vervallen
 
 ##### Artikel 11
 
-1. De bedrijfsvoering van een aanbieder bestaat ten minste uit:
-
-- a. een duidelijke, evenwichtige en adequate organisatiestructuur; en
-
-- b. een duidelijke, evenwichtige en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden.
-
-2. De bedrijfsvoering is afgestemd op de aard en de omvang van de integriteitsrisico’s van de aanbieder.
-
-3. De bedrijfsvoering wordt op inzichtelijke wijze vastgelegd.
+Vervallen
 
 ##### Artikel 12
 
@@ -326,19 +262,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-1. De bij de registratie aan te leveren gegevens, bedoeld in [artikel 23c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23c) zijn in ieder geval:
-
-- a. contactgegevens van de aanbieder;
-
-- b. gegevens met betrekking tot de bedrijfsvoering en de zeggenschapsstructuur van de aanbieder;
-
-- c. gegevens met betrekking tot personen die het beleid van de aanbieder bepalen of mede bepalen alsmede personen die al dan niet middellijk een gekwalificeerde deelneming houden in de aanbieder;
-
-- d. gegevens die verband houden met de naleving van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) of de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
-
-- e. overige bij ministeriële regeling te bepalen gegevens.
-
-2. De gegevens bedoeld in het eerste lid kunnen nader worden uitgewerkt bij ministeriële regeling.
+Vervallen
 
 #### § 2. Nadere uitwerking definities politiek prominente personen en uiteindelijk belanghebbende
 
@@ -348,7 +272,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10a
 
-Een aanbieder draagt er zorg voor dat het beleid, bedoeld in [artikel 23j, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23j), wordt vertaald in procedures en maatregelen.
+Vervallen
 
 ## Bijlage 1. Indicatorenlijst
 
@@ -391,14 +315,16 @@ Het ligt in de rede dat transacties die in verband met witwassen of financieren 
 | Taxateur ([artikel 1a, vierde lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques, een vooraf betaald betaalinstrument (prepaid card) of buitenlandse valuta. |
 | Pandhuis ([artikel 1a, vierde lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij een goed of goederen in de macht van het pandhuis gebracht worden, waarbij het door het pandhuis daarvoor ter beschikking gestelde bedrag € 20.000,– of meer bedraagt. |
 | Kopers en verkopers van kunstvoorwerpen ([artikel 1a, vierde lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij tegen geheel of gedeeltelijke contante betaling één of meer kunstvoorwerpen gekocht of verkocht worden, waarbij het contant te betalen bedrag € 20.000,- of meer bedraagt. |
-| Aanbieders van wisseldiensten tussen virtuele valuta en fiduciaire valuta ([artikel 1a, vierde lid, onderdeel l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie van een bedrag van € 15.000,– of meer. Een transactie van een bedrag van € 10.000,– of meer waarbij een omwisseling plaatsvindt tussen virtuele valuta en contante fiduciaire valuta. |
-| Aanbieders van bewaarportemonnees ([artikel 1a, vierde lid, onderdeel m, van de wet)](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie van een bedrag van € 15.000,– of meer. |
+| Aanbieders van cryptoactivadiensten als bedoeld in artikel 3, eerste lid, onderdeel 16, sub a, b en d tot en met j, van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen financieren van terrorisme. |
+| Aanbieders van wisseldiensten als bedoeld in artikel 3, eerste lid, onderdeel 16, sub c, van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen financieren van terrorisme. Een transactie van een bedrag van € 10.000,– of meer waarbij een omwisseling plaatsvindt tussen virtuele valuta en contante fiduciaire valuta. |
 
 *Waar de genoemde bedragen in euro staan vermeld is ook bedoeld de tegenwaarde daarvan in een vreemde valuta.
 
 Het ligt in de rede dat transacties die in verband met witwassen of financieren van terrorisme aan politie of Openbaar Ministerie worden gemeld, ook aan de Financiële inlichtingen eenheid worden gemeld; er is immers de veronderstelling dat deze transacties verband kunnen houden met witwassen of financieren van terrorisme.
 
 ## Bijlage 2. Bijlage antecedenten
+
+Vervallen
 
 **Bijlage behorend bij artikel 6**
 
@@ -483,5 +409,7 @@ Aan de huidige of één van de voormalige werkgevers of enige vennootschap of re
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### 6. Overige antecedenten
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
