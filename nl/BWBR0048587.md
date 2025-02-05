@@ -4,7 +4,7 @@ identifier: "BWBR0048587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-16"
-last_updated: "2024-05-02"
+last_updated: "2025-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048587"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2024-05-02&g=2024-05-02);
+- **beoordelingscommissie:** commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2025-02-05&g=2025-02-05);
 
 - **Center for Teaching and Learning:** binnen een onderwijsinstelling te realiseren of verder te ontwikkelen separaat organisatieonderdeel dat met inzet van digitale mogelijkheden de onderwijsontwikkeling van en door docenten en overig onderwijspersoneel faciliteert, en kennisdeling, innovatie, ondersteuning en onderzoek stimuleert en de onderlinge verbinding van reeds aanwezige voorzieningen versterkt;
 
-- **CTL-plan:** onderdeel van de aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2024-05-02&g=2024-05-02);
+- **CTL-plan:** onderdeel van de aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2025-02-05&g=2025-02-05);
 
 - **docentontwikkeling:** ontwikkeling en versterking van de eigen vakbekwaamheid onder andere met behulp van digitalisering;
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **onderwijsinnovatie:** nieuwe aanpak of technologie waarmee wordt beoogd het onderwijs voor studenten te verbeteren;
 
-- **project:** in het kader van deze regeling gesubsidieerde activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=3&z=2024-05-02&g=2024-05-02);
+- **project:** in het kader van deze regeling gesubsidieerde activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=3&z=2025-02-05&g=2025-02-05);
 
 - **samenwerking:** gezamenlijk streven van onderwijsinstellingen bij het opzetten of verder ontwikkelen van een Center for Teaching and Learning;
 
@@ -86,7 +86,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De aanvraag wordt ingediend door het bevoegd gezag of het instellingsbestuur van de onderwijsinstelling.
 
-3. De eigen bijdrage, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=8&z=2024-05-02&g=2024-05-02), is verplicht en is opgenomen in de begroting op het moment van indiening van de aanvraag.
+3. De eigen bijdrage, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=8&z=2025-02-05&g=2025-02-05), is verplicht en is opgenomen in de begroting op het moment van indiening van de aanvraag.
 
 ##### Artikel 5. Aanvraagronde
 
@@ -96,17 +96,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. van 1 oktober 2024 tot en met 31 oktober 2024.
 
-2. In iedere aanvraagronde kan subsidie worden toegekend totdat het subsidieplafond, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=6&z=2024-05-02&g=2024-05-02), is bereikt.
+2. In iedere aanvraagronde kan subsidie worden toegekend totdat het subsidieplafond, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=6&z=2025-02-05&g=2025-02-05), is bereikt.
 
 3. Aanvragen die buiten een in het eerste lid genoemde aanvraagperiode worden ingediend, worden afgewezen.
 
 ##### Artikel 6. Subsidieplafond
 
-1. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2024-05-02&g=2024-05-02), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
+1. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-02-05&g=2025-02-05), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
 
-2. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2024-05-02&g=2024-05-02), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
+2. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-02-05&g=2025-02-05), is een bedrag van ten hoogste € 20.363.567,– beschikbaar.
 
-3. De minister kan het bedrag dat resteert na toewijzing van alle in aanmerking komende aanvragen in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2024-05-02&g=2024-05-02), toevoegen aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b.
+3. De minister kan het bedrag dat resteert na toewijzing van alle in aanmerking komende aanvragen in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-02-05&g=2025-02-05), toevoegen aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b.
 
 ##### Artikel 7. Te subsidiëren activiteiten
 
@@ -128,9 +128,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Om voor subsidie in aanmerking te komen dient iedere activiteit, bedoeld in het eerste lid, onderdelen b tot en met e, te voldoen aan de minimumscore die is vastgesteld voor elk beoordelingscriterium van het beoordelingskader dat als de bijlage bij deze regeling is gevoegd.
 
-4. Activiteiten die eerder hebben plaatsgevonden dan de startdatum, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=12&z=2024-05-02&g=2024-05-02), alsmede kosten en uitgaven die voorafgaand aan die datum worden gedaan, zijn niet subsidiabel.
+4. Activiteiten die eerder hebben plaatsgevonden dan de startdatum, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=12&z=2025-02-05&g=2025-02-05), alsmede kosten en uitgaven die voorafgaand aan die datum worden gedaan, zijn niet subsidiabel.
 
-5. De activiteiten voor het oprichten van een Center for Teaching and Learning moeten binnen een jaar na de startdatum, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=12&z=2024-05-02&g=2024-05-02), zijn afgerond en hebben geleid tot een opgezet Center for Teaching and Learning.
+5. De activiteiten voor het oprichten van een Center for Teaching and Learning moeten binnen een jaar na de startdatum, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=12&z=2025-02-05&g=2025-02-05), zijn afgerond en hebben geleid tot een opgezet Center for Teaching and Learning.
 
 ##### Artikel 8. Eigen bijdrage
 
@@ -144,21 +144,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De aanvraag gaat vergezeld van:
 
-- a. een CTL-plan dat voldoet aan de eisen die zijn gesteld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=10&z=2024-05-02&g=2024-05-02); en
+- a. een CTL-plan dat voldoet aan de eisen die zijn gesteld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=10&z=2025-02-05&g=2025-02-05); en
 
-- b. een begroting die voldoet aan de eisen die zijn gesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=11&z=2024-05-02&g=2024-05-02).
+- b. een begroting die voldoet aan de eisen die zijn gesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=11&z=2025-02-05&g=2025-02-05).
 
 ##### Artikel 10. CTL-plan
 
-1. Het CTL-plan, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2024-05-02&g=2024-05-02), bevat de volgende onderdelen:
+1. Het CTL-plan, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2025-02-05&g=2025-02-05), bevat de volgende onderdelen:
 
 - a. een visie op de docentontwikkeling zoals de onderwijsinstelling die met het nieuw op te zetten of verder te ontwikkelen Centrum for Teaching and Learning beoogt te ontwikkelen en te versterken;
 
 - b. een plan van aanpak waarin met kritieke prestatie-indicatoren wordt aangegeven hoe en in welke volgorde de onderwijsinstelling haar specifieke belangrijkste doelstellingen van het Centrum for Teaching and Learning beoogt te realiseren;
 
-- c. een beschrijving van de wijze waarop de onderwijsinstelling de activiteiten zal realiseren die de verduurzaming van het Centrum for Teaching and Learning als bedoeld in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=7&z=2024-05-02&g=2024-05-02), ten doel hebben;
+- c. een beschrijving van de wijze waarop de onderwijsinstelling de activiteiten zal realiseren die de verduurzaming van het Centrum for Teaching and Learning als bedoeld in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=7&z=2025-02-05&g=2025-02-05), ten doel hebben;
 
-- d. een beschrijving van de wijze waarop de onderwijsinstelling de activiteiten zal realiseren die de samenwerking, bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=7&z=2024-05-02&g=2024-05-02), ten doel hebben.
+- d. een beschrijving van de wijze waarop de onderwijsinstelling de activiteiten zal realiseren die de samenwerking, bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=7&z=2025-02-05&g=2025-02-05), ten doel hebben.
 
 2. Het CTL-plan voldoet aan de voorwaarden, genoemd in de beoordelingscriteria opgenomen in de bijlage bij deze regeling, en wordt gespecificeerd aan de hand van de bij de beoordelingscriteria gegeven deelaspecten.
 
@@ -166,7 +166,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 11. Begroting
 
-1. De begroting, bedoeld in [artikel 9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2024-05-02&g=2024-05-02), sluit aan op de activiteiten die zijn beschreven in het CTL-plan.
+1. De begroting, bedoeld in [artikel 9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2025-02-05&g=2025-02-05), sluit aan op de activiteiten die zijn beschreven in het CTL-plan.
 
 2. In de begroting worden de kosten per activiteit beschreven in samenhang met het gehele CTL-plan en met het in het CTL-plan gegeven tijdstraject.
 
@@ -236,11 +236,11 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 2. Na beoordeling en rangschikking wordt in iedere ronde het maximaal aantal aanvragen voor die ronde toegekend op volgorde van rangschikking.
 
-3. Indien na toepassing van het bepaalde in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2024-05-02&g=2024-05-02), twee aanvragen een gelijke beoordeling hebben, bepaalt de minister de rangschikking van deze aanvragen op basis van loting.
+3. Indien na toepassing van het bepaalde in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2025-02-05&g=2025-02-05), twee aanvragen een gelijke beoordeling hebben, bepaalt de minister de rangschikking van deze aanvragen op basis van loting.
 
 4. De minister bepaalt de rangschikking van de aanvragen aan de hand van de kwaliteit van de aanvragen op basis van het beoordelingskader in de bijlage bij deze regeling en verdeelt het beschikbare bedrag op basis van deze rangschikking totdat het budget voor die aanvraagronde is uitgeput.
 
-5. De minister besluit uiterlijk binnen 22 weken na de sluitingsdatum van een aanvraagperiode, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2024-05-02&g=2024-05-02), over de subsidieverlening.
+5. De minister besluit uiterlijk binnen 22 weken na de sluitingsdatum van een aanvraagperiode, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-02-05&g=2025-02-05), over de subsidieverlening.
 
 6. Indien in een aanvraagronde budget resteert, maar een gerangschikt voorstel niet volledig kan worden gehonoreerd, doet de minister aan de aanvrager het voorstel om met het nog resterende bedrag van het subsidiebudget zijn project in volledige of aangepaste vorm uit te voeren. Indien de betreffende aanvrager niet instemt met dit voorstel wordt de aanvraag afgewezen.
 
