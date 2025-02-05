@@ -4,7 +4,7 @@ identifier: "BWBR0024139"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-05"
-last_updated: "2021-09-09"
+last_updated: "2025-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024139"
 soort: "AMvB"
@@ -104,7 +104,7 @@ Het is verboden te handelen in strijd met de artikelen 3, eerste lid, 4, eerste,
 
 ##### Artikel 3
 
-1. Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 4, eerste en tweede lid, 5, eerste en tweede lid, 7, 10, eerste lid, 11, tweede lid, 12, tweede tot en met vijfde lid, zesde lid, onderdeel c, en zevende lid, 14, eerste lid, 16, eerste, tweede, derde en vijfde lid, en 21, derde en vierde lid, van de Verordening producten voor tweeërlei gebruik.
+1. Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 4, eerste en tweede lid, 5, eerste en tweede lid, 7, 10, eerste lid, 11, eerste en tweede lid, 12, tweede tot en met vijfde lid, zesde lid, onderdeel c, en zevende lid, 14, eerste lid, 16, eerste, tweede, derde en vijfde lid, en 21, derde en vierde lid, van de Verordening producten voor tweeërlei gebruik.
 
 2. Indien Onze Minister bij beschikking, bedoeld in artikel 4, eerste en tweede lid, van de Verordening producten voor tweeërlei gebruik, heeft bepaald dat de uitvoer of de wederuitvoer van de daarbij aangewezen goederen zonder vergunning is verboden, is de adressaat van deze beschikking, zodra voor hem aannemelijk is dat de desbetreffende goederen een andere bestemming zullen krijgen dan in de beschikking is vermeld, verplicht onder opgave van redenen van deze gewijzigde bestemming mededeling te doen aan Onze Minister.
 
@@ -136,9 +136,9 @@ Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid,
 
 ##### Artikel 6
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2021-09-09&g=2021-09-09).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2025-02-05&g=2025-02-05).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2021-09-09&g=2021-09-09).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2025-02-05&g=2025-02-05).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -224,6 +224,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Bij ministeriële regeling kunnen rapportageverplichtingen en registratievoorschriften worden gesteld voor een vergunning als bedoeld in artikel 12, eerste lid, onderdeel d, van de Verordening producten voor tweeërlei gebruik.
 
+5. Het is verboden te handelen in strijd met de voorschriften en voorwaarden die zijn verbonden aan een vergunning, bedoeld in het tweede lid.
+
 ##### Artikel 4c
 
 Onze Minister kan een door hem afgegeven vergunning als bedoeld in artikel 12, eerste lid, onderdelen a, b en c, en tweede lid, van de Verordening producten voor tweeërlei gebruik, in ieder geval intrekken indien:
@@ -238,9 +240,9 @@ Onze Minister kan een door hem afgegeven vergunning als bedoeld in artikel 12, e
 
 ##### Artikel 12
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2021-09-09&g=2021-09-09).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2025-02-05&g=2025-02-05).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2021-09-09&g=2021-09-09).
+2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2025-02-05&g=2025-02-05).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -308,9 +310,9 @@ Vervallen
 
 ##### Artikel 19
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2021-09-09&g=2021-09-09).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2025-02-05&g=2025-02-05).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2021-09-09&g=2021-09-09).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2025-02-05&g=2025-02-05).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -408,9 +410,9 @@ Vervallen
 
 ##### Artikel 28
 
-1. Een vergunning als bedoeld in de [artikelen 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4b&z=2021-09-09&g=2021-09-09), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4c&z=2021-09-09&g=2021-09-09), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=7&z=2021-09-09&g=2021-09-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=8&z=2021-09-09&g=2021-09-09), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=14&z=2021-09-09&g=2021-09-09), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=15&z=2021-09-09&g=2021-09-09), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=21&z=2021-09-09&g=2021-09-09), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=23&z=2021-09-09&g=2021-09-09), kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+1. Een vergunning als bedoeld in de [artikelen 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4b&z=2025-02-05&g=2025-02-05), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4c&z=2025-02-05&g=2025-02-05), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=7&z=2025-02-05&g=2025-02-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=8&z=2025-02-05&g=2025-02-05), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=14&z=2025-02-05&g=2025-02-05), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=15&z=2025-02-05&g=2025-02-05), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=21&z=2025-02-05&g=2025-02-05), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=23&z=2025-02-05&g=2025-02-05), kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
-2. Een ontheffing als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2021-09-09&g=2021-09-09), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=12&z=2021-09-09&g=2021-09-09), en [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=19&z=2021-09-09&g=2021-09-09), kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+2. Een ontheffing als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2025-02-05&g=2025-02-05), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=12&z=2025-02-05&g=2025-02-05), en [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=19&z=2025-02-05&g=2025-02-05), kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 3. Voordat toepassing wordt gegeven aan het eerste of tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
