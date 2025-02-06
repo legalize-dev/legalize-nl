@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-01-01"
+last_updated: "2025-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2025-01-01&g=2025-01-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2025-02-06&g=2025-02-06) van de Regeling maximumprijzen geneesmiddelen
 
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | --- | --- | --- | --- | --- |
@@ -727,6 +727,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/06/370/003 |   | Exforge tablet filmomhuld 5/ 80mg |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
+| AMOXICILLIN-1000-MG-BRUISTABLET |   |   |   | 0,454677 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 122774 |   | AMOXICILLINE DISP TEVA TABLET 1000MG |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
 | AMOXICILLIN-1000-MG-POED. V. INJECTIE, FLACON * | AMOXICILLIN-1000-MG-POED. V. INJECTIE, FLACON * | AMOXICILLIN-1000-MG-POED. V. INJECTIE, FLACON * |   | 2,600285 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | 106885 |   | Amoxicilline aurobindo injpdr flacon 1.000mg |   |   |
@@ -737,6 +742,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | 27998 |   | Amoxi/clav pch injpdr flacon 1000/200mg |   |   |
 | 28025 |   | Amoxi/clav sandoz injpdr flacon 1000/200mg |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
+| AMOXICILLIN-2000-MG-POED. V. INJECTIE, FLACON-CLAVULANIC ACID-200-MG-POED. V. INJECTIE, FLACON |   | 4,907147 per stuk |   |   |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 27999 |   | AMOXI/CLAV PCH INFPDR FLACON 2000/200MG |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL * | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL * | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL * |   | 0,037535 per ml |
@@ -1383,6 +1393,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 131784//115695 |   | Foster nexthaler inhalpdr 200/6mcg/do 120do |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
+| BECLOMETASONE-.2-MG-INHALATIEPOEDER INCL INHALER |   |   |   | 0,101238 per dosis |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 13391 |   | BECLOMETASON CYCLOCAPS INHALPDR 200MCG+CYCLOHALER |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
 | BEDAQUILINE-100-MG-TABLET | BEDAQUILINE-100-MG-TABLET |   |   | 117,341337 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | EU/1/13/901/001 |   | Sirturo tablet 100mg |   |   |
@@ -1459,10 +1474,20 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 127920//120401 |   | Natriumbenzylpenicilline eur-ph injpd fl 5milj ie |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
+| BETAHISTINE-24-MG-TABLET |   |   |   | 0,128375 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 101754 |   | BETAHISTINE DIHCL TEVA TABLET 24MG |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
 | BETAINE HYDROCHLORIDE-1000-MG/G-POEDER/GRANULAAT, ORAAL * | BETAINE HYDROCHLORIDE-1000-MG/G-POEDER/GRANULAAT, ORAAL * | BETAINE HYDROCHLORIDE-1000-MG/G-POEDER/GRANULAAT, ORAAL * |   | 2,276724 per g |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | EU/1/22/1640/001 |   | Amversio poeder 1g |   |   |
 | EU/1/06/379/001 |   | Cystadane poeder |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
+| BETAMETHASONE-1-MG/G-CREME, CUTAAN |   |   |   | 0,069888 per g |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 16004 |   | BETAMETHASON PCH CREME 1MG/G |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | BETAMETHASONE-.5-MG/G-CREME, CUTAAN * |   | 0,091506 per g |   |   |
@@ -5785,6 +5810,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 20570 |   | Fluvoxamine maleaat sandoz tablet 50mg |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
+| FOLIC ACID-5-MG-TABLET |   |   |   | 0,052655 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 50392 |   | FOLIUMZUUR TEVA TABLET 5MG |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
 | FOLLITROPINE ALPHA-150-IE-POED. V. INJECTIE, FLACON-LUTROPINE ALFA-75-IE-POED. V. INJECTIE, FLACON | FOLLITROPINE ALPHA-150-IE-POED. V. INJECTIE, FLACON-LUTROPINE ALFA-75-IE-POED. V. INJECTIE, FLACON | FOLLITROPINE ALPHA-150-IE-POED. V. INJECTIE, FLACON-LUTROPINE ALFA-75-IE-POED. V. INJECTIE, FLACON |   | 74,567789 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | EU/1/07/396/001 |   | Pergoveris injpdr flacon + solvens 1ml |   |   |
@@ -6162,6 +6192,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | GLECAPREVIR-100-MG-TABLET-PIBRENTASVIR-40-MG-TABLET | GLECAPREVIR-100-MG-TABLET-PIBRENTASVIR-40-MG-TABLET | GLECAPREVIR-100-MG-TABLET-PIBRENTASVIR-40-MG-TABLET |   | 149,585711 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | EU/1/17/1213/001 |   | Maviret tablet filmomhuld |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
+| GLIBENCLAMIDE-5-MG-TABLET |   |   |   | 0,094572 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 56581 |   | GLIBENCLAMIDE PCH TABLET 5MG |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE |   | 0,095114 per stuk |
@@ -11326,6 +11361,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 129944//11783 |   | Nootropil tablet 1.200mg |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
+| PIRACETAM-800-MG-TABLET |   |   |   | 0,172574 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 18655 |   | PIRACETAM TEVA TABLET 800MG |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
 | PIRFENIDONE-267-MG-CAPSULE | PIRFENIDONE-267-MG-CAPSULE | PIRFENIDONE-267-MG-CAPSULE |   | 7,520432 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | EU/1/11/667/002 |   | Esbriet capsule 267mg |   |   |
@@ -11712,6 +11752,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | 55618 |   | Propranolol hcl cf tablet 40mg |   |   |
 | 10217 |   | PROPRANOLOL HCL TEVA TABLET 40MG |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
+| PROPRANOLOL-80-MG-CAPSULE, MET GEREGULEERDE AFGIFTE |   |   |   | 0,143471 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 14353 |   | PROPRANOLOL HCL TEVA RETARD CAPSULE MGA 80MG |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | PROPRANOLOL-80-MG-TABLET * | PROPRANOLOL-80-MG-TABLET * | PROPRANOLOL-80-MG-TABLET * |   | 0,052293 per stuk |
@@ -13107,6 +13152,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | SOTALOL-160-MG-TABLET * | SOTALOL-160-MG-TABLET * | SOTALOL-160-MG-TABLET * |   | 0,140530 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
 | 17706 |   | Sotalol hcl sandoz tablet 160mg |   |   |
+|   |   |   |   |   |
+| **Productgroep** |   |   |   | **Maximumprijs** |
+| SOTALOL-40-MG-TABLET |   |   |   | 0,041071 per stuk |
+| **Registratienummer** |   | **Artikelnaam** |   |   |
+| 33884 |   | SOTALOL HCL TEVA TABLET 40MG |   |   |
 |   |   |   |   |   |
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | SOTALOL-80-MG-TABLET | SOTALOL-80-MG-TABLET | SOTALOL-80-MG-TABLET |   | 0,056866 per stuk |
