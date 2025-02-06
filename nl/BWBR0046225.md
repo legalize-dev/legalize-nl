@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2024-10-12"
+last_updated: "2025-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ entry_into_force: "2022-01-22"
 
 1. Aan de plaatsvervangend inspecteur-generaal, de directeuren, de plaatsvervangend directeur Interne Organisatie, de divisiehoofden, de afdelingshoofden en de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de inspecteur-generaal vastgestelde bedrag niet te boven gaat.
 
-2. Aan de plaatsvervangend inspecteur-generaal, de directeur Strategie, de directeur Handhaven, de directeur Keuren en de directeur Interne Organisatie wordt ondermandaat, volmacht en machtiging verleend voor het afnemen van de ambtseed en -belofte van medewerkers van de Nederlandse Voedsel en Waren Autoriteit.
+2. Aan de plaatsvervangend inspecteur-generaal, de directeur Strategie, de directeur Handhaven, de directeur Slachttoezicht, de directeur Handelstoezicht en de directeur Interne Organisatie wordt ondermandaat, volmacht en machtiging verleend voor het afnemen van de ambtseed en -belofte van medewerkers van de Nederlandse Voedsel en Waren Autoriteit.
 
 3. Onverminderd het bepaalde in het eerste lid, wordt aan de directeuren, de plaatsvervangend directeur Interne Organisatie, en de divisiehoofden, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -88,13 +88,13 @@ entry_into_force: "2022-01-22"
 
 - d. het toekennen van een toelage in verband met het werken op ongebruikelijke uren, met uitzondering van het vaststellen van een afwijkende dan wel aanvullende regeling als bedoeld in paragraaf 7.1, van de CAO Rijk;
 
-- e. het nemen van beslissingen inzake overwerk als bedoeld in paragraaf 7.10, van de CAO Rijk;
+- e. het nemen van beslissingen inzake overwerk als bedoeld in paragraaf 7.6, van de CAO Rijk;
 
 - f. het verlenen van buitengewoon verlof van lange duur, al dan niet met behoud van maandinkomen als bedoeld in hoofdstuk 4, van de CAO Rijk, behoudens verlof als bedoeld in paragraaf 4.6;
 
 - g. het inlenen van uitzendkrachten;
 
-- h. het toekennen van een toelage in verband met het waarnemen van een hoger gewaardeerde functie als bedoeld in paragraaf 7.8, van de CAO Rijk;
+- h. het toekennen van een toelage in verband met het waarnemen van een hoger gewaardeerde functie als bedoeld in paragraaf 7.4, van de CAO Rijk;
 
 - i. het toekennen van een salarisverhoging binnen de functionele schaal als bedoeld in paragraaf 6.2, van de CAO Rijk;
 
@@ -116,7 +116,7 @@ entry_into_force: "2022-01-22"
 
 - a. het inlenen van uitzendkrachten en stagiairs;
 
-- b. het toekennen van een toelage in verband met het waarnemen van een hoger gewaardeerde functie als bedoeld in paragraaf 7.8, van de CAO Rijk;
+- b. het toekennen van een toelage in verband met het waarnemen van een hoger gewaardeerde functie als bedoeld in paragraaf 7.4, van de CAO Rijk;
 
 - c. het toekennen van een salarisverhoging binnen de functionele schaal als bedoeld in paragraaf 6.2, van de CAO Rijk;
 
@@ -244,7 +244,7 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2024-10-12&g=2024-10-12) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2025-02-06&g=2025-02-06) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
