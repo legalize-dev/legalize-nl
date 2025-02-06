@@ -4,7 +4,7 @@ identifier: "BWBR0048175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2025-01-01"
+last_updated: "2025-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048175"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **medeoverheden:** provincies en gemeenten;
 
-- –. **minister:** de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- –. **minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
 - –. **woningmarktpartijen:** woningcorporaties, projectontwikkelaars, bouwbedrijven.
 
@@ -84,9 +84,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Samenstelling en benoeming
 
-1. De landelijke versnellingstafel bestaat uit vijf leden, aangevuld met de voorzitters van de in het vierde lid genoemde door het Rijk ingestelde Taskforces ten behoeve van de versnelling van de woningbouw.
+1. De landelijke versnellingstafel bestaat uit maximaal zeven leden, aangevuld met de voorzitter van de in het vierde lid genoemde door het Rijk ingestelde Aanjaagteam Wonen, welzijn en zorg.
 
-2. De landelijke versnellingstafel vergadert periodiek met en onder voorzitterschap van de Directeur Generaal Volkshuisvesting en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+2. De landelijke versnellingstafel vergadert periodiek met en onder voorzitterschap van de Directeur Generaal Volkshuisvesting en Bouwen van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
 3. Tot lid van de landelijke versnellingstafel worden door de minister benoemd:
 
@@ -98,9 +98,13 @@ In dit besluit wordt verstaan onder:
 
 - d. Dhr. H. (Hamit) Karakus;
 
-- e. Dhr. A.J.M. (Arjan) Schakenbos.
+- e. Dhr. A.J.M. (Arjan) Schakenbos;
 
-4. Aan de vergaderingen van de landelijke versnellingstafel nemen tevens deel de voorzitters van de door het Rijk ingestelde Taskforces ten behoeve van de versnelling van de woningbouw, thans de Taskforce nieuwbouw woningcorporaties, de Taskforce versnelling tijdelijke huisvesting en de Taskforce wonen en zorg voor ouderen.
+- f. Dhr. G.C.F.M. (Staf) Depla;
+
+- g. Mw. N.D.E. (Nicole) Maarsen.
+
+4. Aan de vergaderingen van de landelijke versnellingstafel neemt tevens deel de voorzitter van het door het Rijk ingestelde Aanjaagteam Wonen, welzijn en zorg.
 
 5. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
@@ -108,11 +112,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Vergoeding
 
-1. Aan het lid, genoemd in [artikel 4, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2023-08-18&g=2025-01-01), wordt, indien hij daarvan gebruik wenst te maken, en indien hij niet valt onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 12/36.
+1. Aan de leden, genoemd in [artikel 4, derde lid, onder a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 12/36.
 
-2. Aan de leden, genoemd in [artikel 4, derde lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2023-08-18&g=2025-01-01), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
+2. Aan de leden, genoemd in [artikel 4, derde lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
 
-3. Aan de voorzitters van de door het Rijk ingestelde Taskforces ten behoeve van de versnelling van de woningbouw wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 2/36.
+3. Aan de voorzitter van de door het Rijk ingestelde Aanjaagteam Wonen, welzijn en zorg wordt, indien hij daarvan gebruik wenst te maken, en indien hij niet valt onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 2/36.
 
 ##### Artikel 6. Secretariaat
 
@@ -120,13 +124,13 @@ De minister voorziet in het secretariaat van de landelijke versnellingstafel.
 
 ##### Artikel 7. Werkwijze
 
-1. De leden van de landelijke versnellingstafel zorgen ieder in één landsdeel voor de afstemming met de provinciale- en regionale versnellingstafels en woondealtafels. De leden kunnen elkaar bijstaan ten aanzien van sectorale problematiek door hun diversiteit in achtergronden.
+1. De leden van de landelijke versnellingstafel genoemd onder [artikel 4, a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), zorgen ieder in één landsdeel voor de afstemming met de provinciale- en regionale versnellingstafels en woondealtafels. De leden van de landelijke versnellingstafel genoemd onder artikel 4, f en h, nemen deel aan de landelijke versnellingstafel met een thematische achtergrond, te weten Realisatie Woningbouw Corporaties en Opschaling Innovatie Woningbouw. De leden kunnen elkaar bijstaan ten aanzien van sectorale problematiek door hun diversiteit in achtergronden.
 
 2. De landelijke versnellingstafel kan zich op onderdelen laten bijstaan door personen van zowel binnen als buiten de overheid, van wie de deskundige bijdrage van belang kan zijn voor het uitoefenen van de opdracht.
 
 3. De landelijke versnellingstafel stelt haar eigen werkwijze vast.
 
-4. De landelijke versnellingstafel rapporteert jaarlijks aan de Directeur Generaal Volkshuisvesting en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties over de uitvoering van haar werkzaamheden.
+4. De landelijke versnellingstafel rapporteert jaarlijks aan de Directeur Generaal Volkshuisvesting en Bouwen van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening over de uitvoering van haar werkzaamheden.
 
 ##### Artikel 8. Kosten
 
@@ -146,7 +150,7 @@ De landelijke versnellingstafel verstrekt desgevraagd aan de minister de voor de
 
 ##### Artikel 10. Archivering
 
-De landelijke versnellingstafel draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Woningbouw van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+De landelijke versnellingstafel draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Woningbouwbeleid van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 11. Inwerkingtreding
 
