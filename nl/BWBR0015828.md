@@ -4,7 +4,7 @@ identifier: "BWBR0015828"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-07"
-last_updated: "2023-01-01"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015828"
 soort: "ministeriele-regeling"
@@ -110,21 +110,21 @@ Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loo
 
 ##### Artikel 4. Bedrag toelage bedrijfshulpverlening
 
-Per kalenderjaar bedraagt de toelage bedrijfshulpverlening als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2021-03-04&g=2023-01-01): € 296,76.
+Per kalenderjaar bedraagt de toelage bedrijfshulpverlening als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2025-02-07): € 322,04.
 
 ##### Artikel 5. Bedrag functietoeslag
 
-Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2021-03-04&g=2023-01-01):
+Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2025-02-07):
 
-- a. voor de bedrijfshulpverlener met specialisatie: € 148,37;
+- a. voor de bedrijfshulpverlener met specialisatie: € 161,01;
 
-- b. voor de bedrijfshulpverlener die is aangewezen als ploegleider: € 166,17;
+- b. voor de bedrijfshulpverlener die is aangewezen als ploegleider: € 180,33;
 
-- c. voor de bedrijfshulpverlener met specialisatie die tevens als ploegleider is aangewezen: € 314,57;
+- c. voor de bedrijfshulpverlener met specialisatie die tevens als ploegleider is aangewezen: € 341,38;
 
-- d. voor de coördinator bedrijfshulpverlening: € 326,42;
+- d. voor de coördinator bedrijfshulpverlening: € 354,23;
 
-- e. voor het hoofd bedrijfshulpverlening: € 326,42.
+- e. voor het hoofd bedrijfshulpverlening: € 354,23.
 
 ##### Artikel 6. Toelage en functietoeslag naar evenredigheid
 
@@ -140,31 +140,31 @@ Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode d
 
 ##### Artikel 8. Bedrag toelage eerste medische bijstand
 
-Per kalenderjaar bedraagt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2021-03-04&g=2023-01-01): € 296,76.
+Per kalenderjaar bedraagt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2025-02-07): € 322,04.
 
 ##### Artikel 9. Toelage en functietoeslag naar evenredigheid
 
-Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO’er, wordt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2021-03-04&g=2023-01-01) vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
+Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO’er, wordt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2025-02-07) vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
 
 ##### Artikel 10. Jubileumgratificatie
 
 De bedrijfshulpverlener en de EHBO’er die gedurende een bepaald aantal jaren aanspraak heeft gehad op de toelage bedrijfshulpverlening of de toelage eerste medische bijstand, heeft aanspraak op een jubileumgratificatie volgens onderstaand schema:
 
-na 5 jaar: € 296,76;
+na 5 jaar: € 322,04;
 
-na 10 jaar: € 356,12;
+na 10 jaar: € 386,46;
 
-na 15 jaar: € 415,47;
+na 15 jaar: € 450,87;
 
-na 20 jaar: € 474,80;
+na 20 jaar: € 515,25;
 
-na 25 jaar: € 534,16;
+na 25 jaar: € 579,68;
 
-na 30 jaar: € 534,16;
+na 30 jaar: € 579,68;
 
-na 35 jaar: € 534,16;
+na 35 jaar: € 579,68;
 
-na 40 jaar: € 534,16.
+na 40 jaar: € 579,68.
 
 ##### Artikel 11. Gratificatie wegens een bijzondere prestatie
 
@@ -180,9 +180,9 @@ na 40 jaar: € 534,16.
 
 - d. een hoofd bedrijfshulpverlening waarbij het leiding geven aan alle andere bedrijfshulpverleners deel uitmaakt van zijn normale werkzaamheden.
 
-3. Deze gratificatie bedraagt € 273,02 netto.
+3. Deze gratificatie bedraagt € 296,28 netto.
 
-4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2021-03-04&g=2023-01-01) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
+4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2025-02-07&g=2025-02-07) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
 
 ##### Artikel 12. Intrekking
 
