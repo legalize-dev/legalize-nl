@@ -4,7 +4,7 @@ identifier: "BWBV0003507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-02-09"
-last_updated: "2022-07-14"
+last_updated: "2025-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003507"
 soort: "verdrag"
@@ -238,9 +238,9 @@ De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeer
 
 5. Elke bestuurder dient te allen tijde in staat te zijn om zijn voertuig in zijn macht te hebben of zijn dieren te geleiden.
 
-5bis. Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2022-07-14&g=2022-07-14), wanneer zij in overeenstemming zijn met de eisen voor constructie, montage en gebruik zoals vervat in internationale juridische instrumenten inzake wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen4)De Reglementen van de VN gehecht aan de „Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen”, gedaan te Genève op 20 maart 1958.De Mondiale Technische Reglementen van de VN opgesteld in het kader van de „Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen”, gedaan te Genève op 25 juni 1998.;
+5bis. Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2025-02-09&g=2025-02-09), wanneer zij in overeenstemming zijn met de eisen voor constructie, montage en gebruik zoals vervat in internationale juridische instrumenten inzake wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen4)De Reglementen van de VN gehecht aan de „Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen”, gedaan te Genève op 20 maart 1958.De Mondiale Technische Reglementen van de VN opgesteld in het kader van de „Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen”, gedaan te Genève op 25 juni 1998.;
 
-Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd en die niet in overeenstemming zijn met voornoemde eisen voor constructie, montage en gebruik, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2022-07-14&g=2022-07-14), wanneer deze systemen door de bestuurder kunnen worden overgenomen of uitgeschakeld.
+Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd en die niet in overeenstemming zijn met voornoemde eisen voor constructie, montage en gebruik, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2025-02-09&g=2025-02-09), wanneer deze systemen door de bestuurder kunnen worden overgenomen of uitgeschakeld.
 
 6. Een bestuurder van een voertuig dient te allen tijde alle andere activiteiten dan rijden tot een minimum te beperken. De nationale wetgeving moet regels opstellen voor het gebruik van telefoons door bestuurders van voertuigen. In elk geval moet de wet het gebruik verbieden van een in de hand gehouden telefoon door een bestuurder van een motorvoertuig of bromfiets wanneer het voertuig in beweging is.
 
@@ -550,7 +550,7 @@ In tunnels die zijn aangegeven door speciale verkeerstekens, gelden de volgende 
 
 - b. te keren.
 
-- 2. Zelfs wanneer de tunnel is verlicht, moeten alle bestuurders het groot licht of dimlicht ontsteken.
+- 2. Zelfs wanneer de tunnel is verlicht, dienen alle bestuurders ervoor te zorgen dat het groot licht of dimlicht ontstoken is.
 
 - 3. Bestuurders mogen een voertuig uitsluitend stoppen of parkeren in geval van nood of gevaar. Hierbij moeten zij, waar mogelijk, gebruik maken van de speciaal aangeduide plaatsen.
 
@@ -640,27 +640,27 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 - a. Op gemotoriseerde voertuigen en bromfietsen, groot licht of dimlicht en achterlichten, naar gelang de uitrusting die door dit Verdrag voor het voertuig van elke categorie wordt voorgeschreven;
 
-- b. Op aanhangwagens, breedtelichten aan de voorzijde indien deze zijn vereist ingevolge Bijlage 5, dertigste paragraaf, van dit Verdrag, en ten minste twee achterlichten (breedtelichten achter).
+- b. Op aanhangwagens, breedtelichten aan de voorzijde indien deze zijn vereist ingevolge [Bijlage 5, paragraaf 22.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&hoofdstuk=II&z=2025-02-09&g=2025-02-09), van dit Verdrag, en ten minste twee achterlichten (breedtelichten achter).
 
 2. Groot licht moet worden uitgeschakeld en dimlicht worden ingeschakeld:
 
-- a. Binnen de bebouwde kom waar de weg op voldoende wijze is verlicht en buiten de bebouwde kom waar de rijbaan ononderbroken is verlicht en waar de verlichting voldoende is om de bestuurder in staat te stellen over een behoorlijke afstand duidelijk te zien en andere weggebruikers in staat te stellen het voertuig op een behoorlijke afstand op te merken;
+- a. Binnen de bebouwde kom waar de weg op voldoende wijze is verlicht en buiten de bebouwde kom waar de weg ononderbroken is verlicht en waar de verlichting voldoende is om de bestuurder in staat te stellen over een behoorlijke afstand duidelijk te zien en andere weggebruikers in staat te stellen het voertuig op een behoorlijke afstand op te merken;
 
 - b. Wanneer een bestuurder op het punt staat een ander voertuig voorbij te rijden, zodat op voldoende afstand verblinding van de bestuurder van het andere voertuig wordt voorkomen om deze in staat te stellen ongehinderd en zonder gevaar door te rijden;
 
 - c. In alle andere omstandigheden waarin het nodig is verblinding van andere weggebruikers of gebruikers van een waterweg of spoor- of tramweg die langs de weg loopt, te vermijden.
 
-3. Wanneer een voertuig vlak achter een ander voertuig rijdt, mag echter groot licht worden gebruikt als lichtsignaal om aan te geven dat de bestuurder van plan is in te halen, zoals bepaald in artikel 28, tweede lid.
+3. Wanneer een voertuig vlak achter een ander voertuig rijdt, mag echter groot licht worden gebruikt als lichtsignaal om aan te geven dat de bestuurder van plan is in te halen, zoals bepaald in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=28&z=2025-02-09&g=2025-02-09).
 
-4. Mistlichten mogen alleen worden ontstoken bij mist, sneeuwval, zware regen of vergelijkbare omstandigheden en, wat betreft mistlichten aan de voorzijde, ter vervanging van dimlichten. De nationale wetgeving kan het gelijktijdige gebruik van mistlichten aan de voorzijde en dimlichten alsmede het gebruik van mistlichten op smalle wegen met veel bochten toestaan.
+4. Mistlichten mogen alleen worden ontstoken bij mist of soortgelijke toestand van verminderd zicht en, wat betreft mistvoorlichten, ter vervanging van dimlichten. De nationale wetgeving kan echter het gelijktijdige gebruik van mistvoorlichten en dimlichten, het gelijktijdige gebruik van mistvoorlichten en hoeklichten alsmede het gebruik van mistvoorlichten op smalle wegen met veel bochten toestaan.
 
-5. Wanneer voertuigen zijn uitgerust met breedtelichten (stadslichten) aan de voorzijde, dan moeten deze gelijktijdig worden gevoerd met grote lichten, dimlichten of mistlichten aan de voorzijde.
+5. Wanneer voertuigen zijn uitgerust met breedtelichten (stadslichten) aan de voorzijde, dan moeten deze gelijktijdig worden ingeschakeld met grote lichten, dimlichten of mistvoorlichten. De functie van de breedtelichten (stadslichten) aan de voorzijde kan worden vervangen door dimlichten en/of grote lichten, op voorwaarde dat wanneer deze lichten defect zijn de breedtelichten aan de voorzijde automatisch weer worden ingeschakeld.
 
-6. Overdag dient een motorfiets op de weg ten minste een dimlicht en een rood achterlicht te voeren. De nationale wetgeving kan het gebruik van attentielicht in plaats van dimlicht toestaan.
+6. De nationale wetgeving kan bestuurders van motorvoertuigen verplichten overdag dimlicht of dagrijverlichting te voeren.
 
-7. De nationale wetgeving kan bestuurders van motorvoertuigen verplichten overdag dimlicht of attentielicht te voeren. In dat geval moeten de achterlichten (breedtelichten achter) gelijktijdig worden gevoerd met de voorlichten.
+7. Overdag dient een motorfiets op de weg ten minste een dimlicht aan de voorzijde en een rood achterlicht te voeren. De nationale wetgeving kan het gebruik van dagrijverlichting in plaats van dimlicht toestaan.
 
-8. Tussen avondschemering en dageraad en in alle andere omstandigheden waarin het zicht onvoldoende is, moet de aanwezigheid van op de weg stilstaande of geparkeerde gemotoriseerde voertuigen en hun aanhangwagens worden aangegeven door middel van breedtelichten voor en achter. Bij dichte mist, sneeuwval, zware regen of vergelijkbare omstandigheden mogen dimlichten of mistlichten aan de voorzijde worden gebruikt. Onder genoemde omstandigheden mogen mistlichten achter worden gebruikt als aanvulling op de achterlichten (breedtelichten achter).
+8. Tussen avondschemering en dageraad en in alle andere omstandigheden gedurende welke het zicht onvoldoende is, moet de aanwezigheid van op de weg stilstaande of geparkeerde gemotoriseerde voertuigen en van aanhangwagens die daaraan gekoppeld zijn worden aangegeven door middel van breedtelichten voor en achter. Bij dichte mist of soortgelijke toestand van verminderd zicht mogen dimlichten of mistvoorlichten worden gebruikt. Onder genoemde omstandigheden mogen mistachterlichten worden gebruikt als aanvulling op de achterlichten (breedtelichten achter).
 
 9. In afwijking van de bepalingen van het achtste lid van dit artikel mogen binnen de bebouwde kom de breedtelichten voor en achter worden vervangen door parkeerlichten, mits:
 
@@ -670,17 +670,19 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 - c. de parkeerlichten zijn geplaatst aan die zijde van het voertuig die het verst is verwijderd van de zijkant van de rijbaan waarlangs het voertuig stilstaat of is geparkeerd.
 
-10. In afwijking van de bepalingen van het achtste en negende lid van dit artikel:
+10. In afwijking van de bepalingen van het achtste en negende lid van dit artikel mag een voertuig zonder enige verlichting stilstaan of geparkeerd zijn:
 
-- a. mag een voertuig zonder enige verlichting stilstaan of geparkeerd zijn op een weg die zodanig verlicht is dat het voertuig op voldoende afstand goed zichtbaar is;
+- a. op een weg die zodanig verlicht is dat het voertuig op voldoende afstand goed zichtbaar is;
 
-- b. mag een voertuig zonder enige verlichting stilstaan of geparkeerd zijn buiten de rijbaan en buiten een verharde berm;
+- b. buiten de rijbaan en buiten een verharde berm;
 
-- c. mogen bromfietsen en tweewielige motorfietsen zonder zijspanwagen welke niet zijn uitgerust met een batterij, zonder enige verlichting stilstaan of geparkeerd zijn op de uiterste rand van de rijbaan binnen de bebouwde kom.
+- c. in het geval van bromfietsen en tweewielige motorfietsen zonder zijspanwagen die niet zijn uitgerust met een batterij, op de uiterste rand van de rijbaan binnen de bebouwde kom.
 
 11. De nationale wetgeving mag uitzonderingen op de bepalingen van het achtste en negende lid van dit artikel toestaan voor stilstaande of geparkeerde voertuigen in straten binnen de bebouwde kom waar zeer weinig verkeer is.
 
-12. Achteruitrijlichten mogen alleen worden gebruikt wanneer het voertuig achteruit rijdt of op het punt staat achteruit te gaan rijden.
+12. Achteruitrijlichten mogen alleen worden gebruikt wanneer het voertuig achteruit rijdt of op het punt staat achteruit te gaan rijden; optionele extra achteruitrijlichten mogen blijven branden tijdens korte en langzame voorwaartse manoeuvres.
+
+12bis. Manoeuvreerlichten mogen alleen worden gebruikt wanneer het voertuig niet sneller rijdt dan 10 km per uur.
 
 13. Waarschuwingslichten mogen alleen worden gebruikt om andere weggebruikers te waarschuwen voor een bijzonder gevaar:
 
@@ -690,13 +692,13 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 14. Speciale waarschuwingslichten:
 
-- a. die een blauw licht uitstralen mogen slechts worden gevoerd door voorrangsvoertuigen die een urgente opdracht uitvoeren of wanneer het anderszins nodig is de overige weggebruikers te waarschuwen voor de aanwezigheid van het voertuig;
+- a. die een blauw en/of rood licht uitstralen mogen slechts worden gevoerd door voorrangsvoertuigen die een urgente opdracht uitvoeren of wanneer het anderszins nodig is de overige weggebruikers te waarschuwen voor de aanwezigheid van het voertuig;
 
-- b. die een amberkleurig licht uitstralen mogen slechts worden gevoerd door voertuigen die daadwerkelijk de specifieke taken verrichten ten behoeve waarvan zij met dergelijke lichten zijn uitgerust of wanneer de aanwezigheid van dergelijke voertuigen op de weg gevaar of hinder oplevert voor de overige weggebruikers.
+- b. die een amberkleurig licht uitstralen mogen slechts worden gevoerd door voertuigen die de specifieke taken verrichten ten behoeve waarvan zij met speciale waarschuwingslichten zijn uitgerust of wanneer de aanwezigheid van dergelijke voertuigen op de weg gevaar of hinder oplevert voor de overige weggebruikers.
 
-De nationale wetgeving mag het gebruik toestaan van waarschuwingslichten die een andere kleur uitstralen.
+- c. die licht van een andere kleur uitstralen kunnen worden toegestaan door de nationale wetgeving.
 
-15. Onder geen enkele omstandigheid mag een voertuig rood licht aan de voorzijde of wit licht aan de achterzijde tonen, behoudens de in bijlage 5, eenenzestigste paragraaf, genoemde uitzonderingen. Het is niet toegestaan een voertuig zodanig aan te passen of hieraan zodanig lichten toe te voegen dat dit strijdigheid met deze bepaling zou opleveren.
+15. Onder geen enkele omstandigheid mag een voertuig rood licht aan de voorzijde of wit licht aan de achterzijde tonen, behoudens de in [bijlage 5, paragraaf 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&hoofdstuk=IV&z=2025-02-09&g=2025-02-09), genoemde uitzonderingen. Het is niet toegestaan een voertuig zodanig aan te passen of hieraan zodanig lichten toe te voegen dat dit strijdigheid met deze bepaling zou opleveren.
 
 ##### Artikel 33. Verlichtingsregels voor andere dan de in Artikel 32 genoemde voertuigen en voor bepaalde weggebruikers
 
@@ -790,7 +792,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 ##### Artikel 39. Technische eisen en inspectie van voertuigen
 
-1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2022-07-14&g=2022-07-14) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2022-07-14&g=2022-07-14), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
+1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2025-02-09&g=2025-02-09) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2025-02-09&g=2025-02-09), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
 
 2. De nationale wetgeving dient periodieke technische inspecties voor te schrijven van:
 
