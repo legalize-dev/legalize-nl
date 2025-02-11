@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2025-02-06"
+last_updated: "2025-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2851,7 +2851,7 @@ Geen bijzonderheden.
 
 ### 10.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-### 10.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 10.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 Voor Egypte geldt in zijn algemeenheid dat:
 
@@ -2861,9 +2861,9 @@ Voor de volgende categorie neemt de IND aan dat het niet mogelijk is de bescherm
 
 ### 10.5.2. Binnenlands beschermingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-### 10.4.2. Ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw als bedoeld in paragraaf C2/3.3.3 Vc
+### 10.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
-Geen bijzonderheden.
+De IND neemt voor Colombia aan dat sprake is van een relatief lager niveau van willekeurig geweld in de departementen Antioquia, Arauca, Bolivar, Cauca, Choco, Magdalena Valle del Cauca, Nariño en Putumayo.
 
 ### 10.5. Bescherming
 
@@ -2871,7 +2871,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 ### 10.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-Voor de volgende categorie neemt de IND aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+Voor de volgende categorieën neemt de IND aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
 ### 10.5.2. Binnenlands beschermingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -2881,7 +2881,7 @@ De IND neemt ten aanzien van Colombia in het algemeen een binnenlands beschermin
 
 ### 10.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 11.2. Artikel 1F Vluchtelingenverdrag
 
@@ -4757,7 +4757,7 @@ Geen bijzonderheden.
 
 ### 10.4.1.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
-Geen bijzonderheden
+Geen bijzonderheden.
 
 ### 10.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
