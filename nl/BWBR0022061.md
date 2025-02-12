@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2024-08-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2024-01-11&g=2024-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2025-02-12&g=2025-02-12) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -156,7 +156,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2024-01-11&g=2024-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2025-02-12&g=2025-02-12) van de Regeling examenprogramma’s voortgezet onderwijs
 
 ## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-08-01&g=2016-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
@@ -3266,6 +3266,8 @@ De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
 De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
 
+### 2.55.1. Economie en Ondernemen (nieuwe stijl)
+
 ### 2.56. Groen
 
 ### 2.57. Horeca, bakkerij en recreatie
@@ -3274,9 +3276,9 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 ### 2.59. Media, vormgeving en ict
 
-### 2.58. Mobiliteit en transport
-
 ### 2.59. Produceren, installeren en energie
+
+### 2.60. Mobiliteit en transport
 
 ### 2.60. Mobiliteit en transport
 
@@ -3286,9 +3288,7 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 ### 2.63. informatietechnologie
 
-### 2.63. informatietechnologie
-
-### 2.63. informatietechnologie
+### 2.64. Praktijkgericht vak Bouwen, Wonen en Interieur
 
 ### Profielmodulen
 
@@ -3314,21 +3314,21 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 ### 2.63. informatietechnologie
 
-Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het examenprogramma uit:
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
 ### De vier profielmodulen
 
 ### Profielmodulen
 
-¹ Is keuzeonderwerp c.q. keuze-exameneenheid.
+Het gaat hierbij om:
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Het gaat hierbij om:
 
-Daarnaast heeft het schoolexamen betrekking op:
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
-Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:
+Het gaat hierbij om:
 
 ### De kern
 
@@ -3358,7 +3358,7 @@ Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er 
 
 ### De kern
 
-### De vier profielmodulen
+### 2.65. Praktijkgericht vak Dienstverlening en Producten
 
 ### Profielmodulen
 
@@ -4372,9 +4372,9 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 2Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
 
-2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur.
+1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer.
 
-Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor mensen gericht op fysiek, psychisch en sociaal welbevinden waarbij de beroepsbeoefenaar zelf het belangrijkste instrument is. In iedere beroepssituatie dient rekening gehouden te worden met de individuele wensen en behoeften (cultuur, levensfase, mogelijkheden) van de klant en de omgeving waarin de ondersteuning geboden wordt. Deze elementen karakteriseren de werkzaamheden in de sector en zijn daarmee een wezenlijk onderdeel van elk profielmodule.
+2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur.
 
 1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer
 
@@ -4384,9 +4384,9 @@ Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor m
 
 ### De vier profielmodulen
 
-Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
+Het gaat hierbij om:
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
 ### 2.55. mobiliteit en transport
 
@@ -5184,19 +5184,19 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 
 De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
 
-¹ Is keuzeonderwerp c.q. keuze-exameneenheid.
+Het gaat hierbij om:
 
-¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
+Het gaat hierbij om:
 
-Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor mensen gericht op fysiek, psychisch en sociaal welbevinden waarbij de beroepsbeoefenaar zelf het belangrijkste instrument is. In iedere beroepssituatie dient rekening gehouden te worden met de individuele wensen en behoeften (cultuur, levensfase, mogelijkheden) van de klant en de omgeving waarin de ondersteuning geboden wordt. Deze elementen karakteriseren de werkzaamheden in de sector en zijn daarmee een wezenlijk onderdeel van elk profielmodule
+Het gaat hierbij om:
 
-Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor mensen gericht op fysiek, psychisch en sociaal welbevinden waarbij de beroepsbeoefenaar zelf het belangrijkste instrument is. In iedere beroepssituatie dient rekening gehouden te worden met de individuele wensen en behoeften (cultuur, levensfase, mogelijkheden) van de klant en de omgeving waarin de ondersteuning geboden wordt. Deze elementen karakteriseren de werkzaamheden in de sector en zijn daarmee een wezenlijk onderdeel van elk profielmodule
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
-Sectordeel Economie
+Het gaat hierbij om:
 
-**Profielmodulen**
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -5468,11 +5468,11 @@ Bij de uitvoering van het examenprogramma Nederlandse taal worden de referentien
 
 ¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
-¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
-Sectordeel Techniek
+Het gaat hierbij om:
 
 ### De kern
 
@@ -5748,29 +5748,29 @@ Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst.
 
 ¹ Het schoolexamen moet in ieder geval bestaan uit 2 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.
 
-¹ Is keuzeonderwerp c.q. keuze exameneenheid.
+Het gaat hierbij om:
 
-De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Techniek Breed vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling ontwerpt de inrichting van een binnenruimte.
 
-**Profielmodulen**
+Doelzin: De leerling maakt een technisch product.
 
-Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
+Doelzin: De leerling adviseert over bouwkundige oplossingen.
 
-Sectordeel Zorg en welzijn
+Het gaat hierbij om:
 
-Sectordeel Economie
+Doelzin: De leerling adviseert over circulaire bouwmaterialen.
 
-Sectordeel Techniek
+Het gaat hierbij om:
 
-Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor mensen gericht op fysiek, psychisch en sociaal welbevinden waarbij de beroepsbeoefenaar zelf het belangrijkste instrument is. In iedere beroepssituatie dient rekening gehouden te worden met de individuele wensen en behoeften (cultuur, levensfase, mogelijkheden) van de klant en de omgeving waarin de ondersteuning geboden wordt. Deze elementen karakteriseren de werkzaamheden in de sector en zijn daarmee een wezenlijk onderdeel van elk profielmodule.
+Het gaat hierbij om:
 
-Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
+Doelzin: De leerling onderhoudt een deel van een gebouw.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Het gaat hierbij om:
 
 ¹ Is keuzeonderwerp c.q. keuze-exameneenheid.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -5896,13 +5896,13 @@ Het schoolexamen heeft betrekking op:
 
 1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer.
 
-**Profielmodulen**
+Het gaat hierbij om:
 
-¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
+Het gaat hierbij om:
 
-Sectordeel Techniek
+Doelzin: De leerling monteert bouwelementen.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+Het gaat hierbij om:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -6474,11 +6474,11 @@ Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
 
 2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
 
-Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het examenprogramma uit:
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
 
-Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
+Het gaat hierbij om:
 
-**Profielmodulen**
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
@@ -6776,7 +6776,875 @@ Het eindexamen bestaat uit het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2024-01-11&g=2024-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2025-02-12&g=2025-02-12) van de Regeling examenprogramma’s voortgezet onderwijs
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+De vaardigheden worden niet in het centrale examen getoetst.
+
+De kandidaat is in staat zijn eigen loopbaanontwikkeling vorm te geven. Hij doet dat met een oriëntatie op een toekomstige opleiding en (loop)baan door middel van reflectie op het eigen handelen en reflectie op ervaringen.
+
+- 1. De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op
+
+systematische wijze om te gaan met ‘loopbaancompetenties’:
+
+- 1. Wat kan ik het best en hoe weet ik dat? [Kwaliteitenreflectie]
+
+- 2. Waar ga en sta ik voor en waarom dan? [Motievenreflectie]
+
+- 3. Waar ben ik het meest op mijn plek en waarom daar? [Werkexploratie]
+
+- 4. Hoe bereik ik mijn doel en waarom zo? [Loopbaansturing]
+
+- 5. Wie kan mij helpen mijn doel te bereiken en waarom die mensen? [Netwerken]
+
+- 2. De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen door middel van een ‘loopbaandossier’.
+
+In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten:
+
+- I. de beoogde doelen
+
+- II. de resultaten
+
+- III. de evaluatie en een conclusie
+
+- IV. welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een deel van een groene leefomgeving.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een technisch product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een digitaal mediaproduct.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over het verbeteren van een proces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over de organisatie van een evenement.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een sociale activiteit.
+
+Het gaat hierbij om:
+
+### 2.66. Praktijkgericht vak Economie en Ondernemen
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een product dat past bij het bedrijfsconcept.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een product dat past bij het bedrijfsconcept.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over marketing- en communicatieactiviteiten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over de verkoopstrategie van een commerciële organisatie.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over een bedrijfsondersteunend proces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een activiteit die past bij de bedrijfsdoelstelling.
+
+Het gaat hierbij om:
+
+### 2.67. Praktijkgericht vak Groen
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een buitenruimte.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een product van natuurlijke en plantaardige materialen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over duurzame bedrijfsvoering.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling teelt een gewas.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling verzorgt dieren.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling produceert verantwoorde voedingsmiddelen.
+
+Het gaat hierbij om:
+
+### 2.68. Praktijkgericht vak Horeca, Bakkerij en Recreatie
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een product dat past bij de bedrijfsformule.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt promotiemateriaal voor een product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over de aankoop van een arrangement.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een recreatieve activiteit.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een gastvrij bezoek.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling bereidt een gerecht.
+
+Het gaat hierbij om:
+
+### 2.69. Praktijkgericht vak Informatietechnologie
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een 3D-product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een digitaal mediaproduct.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over de toepasbaarheid van IT-ontwikkelingen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling programmeert een softwareproduct.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling beheert een IT-dienst.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ondersteunt afnemers van IT-diensten.
+
+Het gaat hierbij om:
+
+### 2.70. Praktijkgericht vak Maritiem en Techniek
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een onderdeel van een schip.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een maritiem prototype.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over duurzaam onderhoud.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over het verbeteren van een logistiek proces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een maritieme activiteit.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling navigeert efficiënt een schip.
+
+Het gaat hierbij om:
+
+### 2.71. Praktijkgericht vak Mobiliteit en Transport
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt diens kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een onderdeel voor een voertuig.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een technisch product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over de aankoop van een voertuig.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een logistiek proces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderhoudt een voertuig.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling repareert een voertuig.
+
+Het gaat hierbij om:
+
+### 2.72. praktijkgericht vak Media, Vormgeving en ICT
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een digitaal 3D-model.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een digitaal mediaproduct.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een audiovisueel product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over een digitale omgeving.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling programmeert een digitaal product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling programmeert een deel van een game.
+
+Het gaat hierbij om:
+
+### 2.73. Praktijkgericht vak Produceren, Installeren en Energie
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een technisch product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een technisch product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over technische installatieoplossingen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over het verbeteren van een productieproces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling installeert een deel van een technische installatie.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderhoudt een deel van een technische installatie.
+
+Het gaat hierbij om:
+
+### 2.74. Praktijkgericht vak Techniek en Innovatief Vakmanschap
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een innovatief product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een functioneel product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over duurzame technische oplossingen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een logistiek proces.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling monteert bouwelementen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderhoudt een deel van een technische installatie.
+
+Het gaat hierbij om:
+
+### 2.75. Praktijkgericht vak Technologie en Toepassing
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een innovatief product.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een duurzame leefomgeving.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling maakt een functioneel prototype.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over technologische toepassingen in de maatschappelijke sector.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over het verbeteren van een energiesysteem.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling programmeert een deel van de software voor de realisatie van een eindproduct.
+
+Het gaat hierbij om:
+
+### 2.76. Praktijkgericht vak Zorg en Welzijn
+
+Doelzin: De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ontwerpt een product ter verbetering van de zelfredzaamheid van een klant.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling adviseert over het verbeteren van een leefstijl.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling organiseert een activiteit.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling ondersteunt een klant bij algemene dagelijkse levensverrichtingen.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling verzorgt het uiterlijk van een klant.
+
+Het gaat hierbij om:
+
+Doelzin: De leerling bereidt een gezonde maaltijd.
+
+Het gaat hierbij om:
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
