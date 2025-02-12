@@ -4,7 +4,7 @@ identifier: "BWBR0039275"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2017-07-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039275"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel II
 
-Onze Minister voor Wonen en Rijksdienst zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Volkshuisvesting en Ruimtelijke Ordening zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel III
 
