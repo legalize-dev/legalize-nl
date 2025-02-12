@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2024-12-11"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -52,13 +52,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Evaluatiewet Wfpp](https://wetten.overheid.nl/jci1.3:c:BWBR0047385)
 
 Wijzigt de Evaluatiewet Wfpp.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
 
@@ -68,25 +64,17 @@ Wijzigt de Gemeentewet.
 
 Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458)
 
 Wijzigt de Alcoholwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469)
 
 Wijzigt de Wet op de kansspelen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466)
 
 Wijzigt de Wet veiligheidsregio’s.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
 
@@ -100,13 +88,9 @@ Wijzigt de Kadasterwet BES.
 
 Wijzigt de Kieswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII. [Tijdelijke experimentenwet nieuwe stembiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0047212)
 
 Wijzigt de Tijdelijke experimentenwet nieuwe stembiljetten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
 
@@ -120,31 +104,21 @@ Wijzigt de Woningwet.
 
 Wijzigt de Wet adviescollege rechtspositie politieke ambtsdragers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
 
 Wijzigt de Wet basisregistratie personen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. [Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208)
 
 Wijzigt de Wet basisadministraties persoonsgegevens BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX. [Wet goed verhuurderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0048028)
 
 Wijzigt de Wet goed verhuurderschap.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. [Wet herstel voorzieningen Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0043889)
 
@@ -158,167 +132,119 @@ Wijzigt de Wet incompatibiliteiten Staten-Generaal en Europees Parlement.
 
 Wijzigt de Wet maatregelen huurwoningmarkt Caribisch Nederland.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV. [Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252)
 
 Wijzigt de Wet modernisering elektronisch bestuurlijk verkeer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV. [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754)
 
 Wijzigt de Wet open overheid.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI. [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043)
 
 Wijzigt de Instellingswet Autoriteit Consument en Markt.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVII. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
 
 Wijzigt de Mijnbouwwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIII. [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX. [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825)
 
 Wijzigt de Wet op de parlementaire enquête 2008.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX. [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402)
 
 Wijzigt de Wet vergoedingen leden Eerste Kamer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXa. [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303)
 
 Wijzigt de Huisvestingswet 2014.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI. [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026158)
 
 Wijzigt de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII. [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541)
 
 Wijzigt de Kadasterwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII. [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463)
 
 Wijzigt de Organisatiewet Kadaster.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV. [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315)
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV. [Wet aanpak woonoverlast](https://wetten.overheid.nl/jci1.3:c:BWBR0039275)
 
 Wijzigt de Wet aanpak woonoverlast.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI. [Wet Basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466)
 
 Wijzigt de Wet Basisregistratie adressen en gebouwen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVII. [Wet basisregistratie grootschalige topografie](https://wetten.overheid.nl/jci1.3:c:BWBR0034026)
 
 Wijzigt de Wet basisregistratie grootschalige topografie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVIII. [Wet bijzondere maatregelen grootstedelijke problematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0019388)
 
 Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIX. [Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810)
 
 Wijzigt de Wet op het overleg huurders verhuurder.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XL. [Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0018447)
 
 Wijzigt de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
 
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel XLI. [Wijzigingswet woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
+##### Artikel XLI. [Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
 
 Wijzigt de Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIa. Wet gemeentelijke instrumenten warmtetransitie
 
 Wijzigt de Wet gemeentelijke instrumenten warmtetransitie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLII. Samenloop [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
 
 Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIII. Samenloop [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303)
 
 Wijzigt de Huisvestingswet 2014.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIV. Samenloop [Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412)
 
 Wijzigt de Wet Adviescollege ICT-toetsing.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid, treden de [artikelen I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2024-12-11&g=2024-12-11), [X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2024-12-11&g=2024-12-11), [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2024-12-11&g=2024-12-11), [XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2024-12-11&g=2024-12-11) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt ten aanzien van:
+2. In afwijking van het eerste lid, treden de [artikelen I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2025-02-12&g=2025-02-12), [X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2025-02-12&g=2025-02-12), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2025-02-12&g=2025-02-12), [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2025-02-12&g=2025-02-12), [XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2025-02-12&g=2025-02-12) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2025-02-12&g=2025-02-12) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt ten aanzien van:
 
-- a. [artikel I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2024-12-11&g=2024-12-11), terug tot en met 1 juli 2022;
+- a. [artikel I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2025-02-12&g=2025-02-12), terug tot en met 1 juli 2022;
 
-- b. [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), en [artikel XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2024-12-11&g=2024-12-11), terug tot en met 1 januari 2023;
+- b. [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2025-02-12&g=2025-02-12), en [artikel XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2025-02-12&g=2025-02-12), terug tot en met 1 januari 2023;
 
-- c. [artikel XI, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2024-12-11&g=2024-12-11), terug tot en met 1 januari 2021;
+- c. [artikel XI, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2025-02-12&g=2025-02-12), terug tot en met 1 januari 2021;
 
-- d. [artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2024-12-11&g=2024-12-11), terug tot 1 april 2023;
+- d. [artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2025-02-12&g=2025-02-12), terug tot 1 april 2023;
 
-- e. [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11) terug tot en met 1 januari 2020.
+- e. [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2025-02-12&g=2025-02-12) terug tot en met 1 januari 2020.
 
-3. In afwijking van het eerste lid, treden de [artikelen V, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=V&z=2024-12-11&g=2024-12-11), [X, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), en [XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XIV&z=2024-12-11&g=2024-12-11), in werking op 1 januari 2024. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2023, treden zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werken zij terug tot en met het tijdstip, bedoeld in de eerste volzin.
+3. In afwijking van het eerste lid, treden de [artikelen V, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=V&z=2025-02-12&g=2025-02-12), [X, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2025-02-12&g=2025-02-12), en [XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XIV&z=2025-02-12&g=2025-02-12), in werking op 1 januari 2024. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2023, treden zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werken zij terug tot en met het tijdstip, bedoeld in de eerste volzin.
 
-4. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2024-12-11&g=2024-12-11) in werking op het tijdstip waarop [artikel I, onderdeel Ra, van de Wet aanpassing Appa en enkele andere wetten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2024-12-11&g=2024-12-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
+4. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2025-02-12&g=2025-02-12) in werking op het tijdstip waarop [artikel I, onderdeel Ra, van de Wet aanpassing Appa en enkele andere wetten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2025-02-12&g=2025-02-12) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
 
-5. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11), in werking op het tijdstip waarop het bepaalde in [artikel 16, derde lid, van de Wet herstel voorzieningen Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0043889&artikel=16) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
+5. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2025-02-12&g=2025-02-12), in werking op het tijdstip waarop het bepaalde in [artikel 16, derde lid, van de Wet herstel voorzieningen Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0043889&artikel=16) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2025-02-12&g=2025-02-12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
 
 ##### Artikel XLVI. Citeertitel
 
