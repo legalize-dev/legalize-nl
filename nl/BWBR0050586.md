@@ -4,7 +4,7 @@ identifier: "BWBR0050586"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2025-01-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050586"
 soort: "wet"
@@ -67,7 +67,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Volkshuisvesting en Ruimtelijke Ordening zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel V
 
