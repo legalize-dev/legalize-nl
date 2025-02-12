@@ -4,7 +4,7 @@ identifier: "BWBR0045408"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-10-11"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045408"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **marktdeelnemers:** marktdeelnemers, zijnde producenten, verwerkers en handelaren van grondstoffen en landbouwproducten, als bedoeld in artikel 7, derde lid, van [Verordening (EU) 2017/1185](33085R2017);
 
-- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - **Verordening (EU) 2017/1183:** Gedelegeerde [Verordening (EU) 2017/1183](33083R2017) van de Commissie van 20 april 2017 tot aanvulling van de Verordeningen (EU) nr. 1307/2013 en (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de aan de Commissie te melden informatie en documenten (PbEU 2017, L 171);
 
@@ -68,11 +68,13 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 - –. voor suikerbieten, uiterlijk 20 juni, 23:59 uur, voor het voorgaande jaar;
 
-- –. voor vlasvezel, uiterlijk de twintigste dag, 23:59 uur, voor de voorgaande maand;
-
 - –. voor rauwe koemelk en biologische rauwe koemelk, uiterlijk de vijfentwintigste dag, 23:59 uur, voor de voorgaande maand;
 
-- –. voor zuivelproducten, uiterlijk de tiende dag, 23:59 uur, voor de voorgaande maand.
+- –. voor zuivelproducten, uiterlijk de vijfentwintigste dag, 23:59 uur, voor de voorgaande maand;
+
+- –. voor groente en fruit, met ingang van 18 maart 2025, uiterlijk de twintigste dag, 23:59 uur, voor de voorgaande maand;
+
+- –. voor vlees, uiterlijk de twintigste dag, 23:59 uur, voor de voorgaande maand.
 
 3. Marktdeelnemers melden de niet-wekelijkse productie- en marktinformatie, bedoeld in artikel 12, onder b, en bijlage III, punten 1a tot en met 1d, 2, 3, 8, 9, 10, 11 en 12, van [Verordening (EU) 2017/1185](33085R2017), aan de minister met behulp van een door de minister ter beschikking gesteld middel:
 
@@ -98,7 +100,7 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 - –. voor in Nederland opgeslagen isoglucosevoorraden, jaarlijks uiterlijk op 25 november voor het voorgaande verkoopseizoen en uiterlijk op de twintigste dag van elke maand voor de voorgaande maand;
 
-- –. voor het vlasvezelareaal uiterlijk op 1 juli, jaarlijks, voor het voorgaande verkoopseizoen en een raming voor het daaropvolgende verkoopseizoen;
+- –. voor het vlasvezelareaal uiterlijk op 15 oktober, jaarlijks, voor het voorgaande verkoopseizoen en een raming voor het daaropvolgende verkoopseizoen;
 
 - –. voor de productie van lange vlasvezels, uiterlijk op 1 oktober, jaarlijks, voor het voorgaande verkoopseizoen en een raming voor het daaropvolgende verkoopseizoen;
 
@@ -108,7 +110,9 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 - –. voor ethylalcohol, uiterlijk op 1 februari, jaarlijks, voor het voorgaande jaar;
 
-- –. voor mageremelkpoeder met toegevoegde plantaardige vetten, uiterlijk op de twintigste dag van elke maand voor de voorgaande maand.
+- –. voor mageremelkpoeder met toegevoegde plantaardige vetten, uiterlijk op de twintigste dag van elke maand voor de voorgaande maand;
+
+- –. met ingang van 1 maart 2026: voor tomaten uiterlijk op 31 mei voor het voorgaande jaar en voor appelen uiterlijk op 31 maart voor het voorgaande jaar.
 
 4. Degene die ingevolge deze regeling gegevens moet melden doet dat op de daartoe bestemde wijze, volledig, juist en naar waarheid.
 
