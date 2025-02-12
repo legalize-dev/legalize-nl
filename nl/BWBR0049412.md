@@ -4,7 +4,7 @@ identifier: "BWBR0049412"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2024-07-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049412"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- –. **Adviescollege:** het Adviescollege ICT-toetsing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01);
+- –. **Adviescollege:** het Adviescollege ICT-toetsing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12);
 
 - –. **centrale overheid:** de ministeries, de krachtens publiekrecht ingestelde zelfstandige bestuursorganen als bedoeld in [artikel 4 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=4), de politie en de Raad voor de rechtspraak;
 
@@ -127,7 +127,7 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 4. Een verzoek om advies als bedoeld in het eerste lid, onderdeel a, onder 3°, over een informatiesysteem van een zelfstandig bestuursorgaan of een verzoek om advies als bedoeld in het eerste lid, onderdeel a, onder 2° of 3°, over een ICT-project of informatiesysteem van de politie of de Raad voor de rechtspraak kan eveneens door respectievelijk het zelfstandig bestuursorgaan, de korpschef van politie of de voorzitter van de Raad voor de rechtspraak worden gedaan.
 
-5. Voor het opstellen van adviezen als bedoeld in het eerste lid, onderdeel a, stelt de Adviescommissie een toetsingskader vast, waarin in ieder geval wordt opgenomen:
+5. Voor het opstellen van adviezen als bedoeld in het eerste lid, onderdeel a, stelt het Adviescollege een toetsingskader vast, waarin in ieder geval wordt opgenomen:
 
 - a. indien het een advies als bedoeld in het eerste lid, onderdeel a, onder 1°, betreft, de ruimte om bij beslissingen maatwerk toe te passen;
 
@@ -147,7 +147,7 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 1. Het Adviescollege bepaalt welke verzoeken om advies in behandeling worden genomen.
 
-2. Het Adviescollege brengt een advies als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), over een ICT-project of een informatiesysteem van een zelfstandig bestuursorgaan, de politie of de Raad voor de rechtspraak rechtstreeks uit aan respectievelijk het zelfstandig bestuursorgaan, de korpschef van politie of de voorzitter van de Raad voor de rechtspraak.
+2. Het Adviescollege brengt een advies als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), over een ICT-project of een informatiesysteem van een zelfstandig bestuursorgaan, de politie of de Raad voor de rechtspraak rechtstreeks uit aan respectievelijk het zelfstandig bestuursorgaan, de korpschef van politie of de voorzitter van de Raad voor de rechtspraak.
 
 3. Indien een advies wordt uitgebracht aan een van beide kamers der Staten-Generaal, zendt het Adviescollege tegelijkertijd een afschrift van het advies aan:
 
@@ -165,9 +165,9 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 ##### Artikel 9
 
-1. Het Adviescollege maakt een advies als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), binnen twee weken na aanbieding openbaar.
+1. Het Adviescollege maakt een advies als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), binnen twee weken na aanbieding openbaar.
 
-2. De aanbevelingen, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), worden eenmaal per half jaar openbaar gemaakt.
+2. De aanbevelingen, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), worden eenmaal per half jaar openbaar gemaakt.
 
 ##### Artikel 10
 
@@ -177,9 +177,9 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) en
 
 ##### Artikel 11
 
-1. Onze Minister die verantwoordelijk is voor de ICT-voorziening of een zelfstandig bestuursorgaan verzoekt voor aanvang van een ICT-project het Adviescollege om een advies als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01).
+1. Onze Minister die verantwoordelijk is voor de ICT-voorziening of een zelfstandig bestuursorgaan verzoekt voor aanvang van een ICT-project het Adviescollege om een advies als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12).
 
-2. Een advies van het Adviescollege als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), wordt binnen vier weken na ontvangst ervan aan de beide kamers der Staten-Generaal gezonden door:
+2. Een advies van het Adviescollege als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), wordt binnen vier weken na ontvangst ervan aan de beide kamers der Staten-Generaal gezonden door:
 
 - a. Onze Minister die verantwoordelijk is voor de ICT-voorziening, indien het een advies betreft over een ICT-project of informatiesysteem van deze Minister;
 
@@ -189,7 +189,7 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) en
 
 - d. Onze Minister voor Rechtsbescherming, indien het een advies betreft over een ICT-project of informatiesysteem van de Raad voor rechtspraak.
 
-3. Ingeval een advies van het Adviescollege als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), niet wordt opgevolgd, wordt dat, in overeenstemming met het gevoelen van de ministerraad, met redenen omkleed medegedeeld aan de beide kamers der Staten-Generaal. Het tweede lid is van overeenkomstige toepassing.
+3. Ingeval een advies van het Adviescollege als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), niet wordt opgevolgd, wordt dat, in overeenstemming met het gevoelen van de ministerraad, met redenen omkleed medegedeeld aan de beide kamers der Staten-Generaal. Het tweede lid is van overeenkomstige toepassing.
 
 4. Het bereiken van overeenstemming met het gevoelen van de ministerraad als bedoeld in het derde lid is niet van toepassing op een ICT-project of een informatiesysteem van de Raad voor de rechtspraak.
 
