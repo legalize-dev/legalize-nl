@@ -4,7 +4,7 @@ identifier: "BWBR0045946"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-20"
-last_updated: "2022-01-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045946"
 soort: "wet"
@@ -65,15 +65,21 @@ Het adviescollege heeft tot taak de regering te adviseren over het beloningsnive
 
 - –. de leden van provinciale staten;
 
+- –. de leden van een commissie als bedoeld in de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=80), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=81) en [82 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=82), die niet tevens statenlid zijn of ambtenaren die als zodanig tot lid van een commissie zijn benoemd;
+
 - –. de commissarissen van de Koning en gedeputeerden;
 
 - –. de leden van gemeenteraden;
+
+- –. de leden van een commissie als bedoeld in de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=83) en [84 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84), die niet tevens raadslid zijn of ambtenaren die als zodanig tot lid van een commissie zijn benoemd;
 
 - –. de burgemeesters en wethouders;
 
 - –. de leden van het algemeen bestuur van waterschappen;
 
 - –. de voorzitters en leden van het dagelijks bestuur van waterschappen;
+
+- –. de leden van een commissie die door het algemeen bestuur van een waterschap bij verordening is ingesteld, die niet tevens lid van het algemeen bestuur zijn of ambtenaren die als zodanig tot lid van een commissie zijn benoemd;
 
 - –. de leden van de eilandsraden;
 
@@ -87,7 +93,7 @@ Het adviescollege heeft tot taak de regering te adviseren over het beloningsnive
 
 2. De leden van het adviescollege vervullen geen functies waarvan de uitoefening onverenigbaar is met de onafhankelijke taakvervulling van het adviescollege.
 
-3. Een lid van het adviescollege bekleedt geen functie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2&z=2022-01-01&g=2022-01-01), en heeft gedurende de twee jaar voorafgaand aan diens benoeming niet een in artikel 2, met uitzondering van de functies van lid van de Raad van State, lid van de Algemene Rekenkamer, Nationale ombudsman of substituut-ombudsman of Rijksvertegenwoordiger BES, genoemde functie bekleed.
+3. Een lid van het adviescollege bekleedt geen functie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2&z=2025-02-12&g=2025-02-12), en heeft gedurende de twee jaar voorafgaand aan diens benoeming niet een in artikel 2, met uitzondering van de functies van lid van de Raad van State, lid van de Algemene Rekenkamer, Nationale ombudsman of substituut-ombudsman of Rijksvertegenwoordiger BES, genoemde functie bekleed.
 
 4. Een lid van het adviescollege bekleedt geen functie als topfunctionaris als bedoeld in [artikel 1.1, onderdeel b, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1).
 
