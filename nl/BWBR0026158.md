@@ -4,7 +4,7 @@ identifier: "BWBR0026158"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2022-05-01"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026158"
 soort: "wet"
@@ -61,7 +61,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - **netwerk:** het netwerk van diensten met betrekking tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens, bedoeld in artikel 11, eerste lid, van de EG-richtlijn infrastructuur ruimtelijke informatie;
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
 - **ruimtelijke gegevens:** gegevens die direct of indirect verwijzen naar een specifieke locatie of een specifiek geografisch gebied;
 
@@ -81,7 +81,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 1°. wordt bewaard door of namens een bestuursorgaan in de zin dat de desbetreffende verzameling ruimtelijke gegevens is geproduceerd of ontvangen dan wel wordt beheerd of bijgewerkt door dat bestuursorgaan en binnen zijn publieke taak valt, dan wel,
 
-- 2°. wordt bewaard door of namens een derde partij waaraan het netwerk, ter beschikking is gesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=3&artikel=7&z=2022-05-01&g=2022-05-01), en
+- 2°. wordt bewaard door of namens een derde partij waaraan het netwerk, ter beschikking is gesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), en
 
 - d. betrekking heeft op een of meer van bij algemene maatregel van bestuur aangewezen thematische categorieën.
 
@@ -91,11 +91,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2022-05-01&g=2022-05-01), is deze wet op een verzameling ruimtelijke gegevens die wordt bewaard door of namens een orgaan van een gemeente of een waterschap uitsluitend van toepassing, indien deze gegevens worden verzameld dan wel verspreid op grond van een bij of krachtens een wet gegeven regel.
+In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2025-02-12&g=2025-02-12), is deze wet op een verzameling ruimtelijke gegevens die wordt bewaard door of namens een orgaan van een gemeente of een waterschap uitsluitend van toepassing, indien deze gegevens worden verzameld dan wel verspreid op grond van een bij of krachtens een wet gegeven regel.
 
 ##### Artikel 4
 
-In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2022-05-01&g=2022-05-01), is ingeval door of namens een bestuursorgaan een verzameling ruimtelijke gegevens wordt bewaard ten aanzien waarvan een derde partij intellectuele eigendomsrechten heeft, deze wet op die verzameling ruimtelijke gegevens uitsluitend van toepassing voor zover die derde partij daarmee heeft ingestemd.
+In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2025-02-12&g=2025-02-12), is ingeval door of namens een bestuursorgaan een verzameling ruimtelijke gegevens wordt bewaard ten aanzien waarvan een derde partij intellectuele eigendomsrechten heeft, deze wet op die verzameling ruimtelijke gegevens uitsluitend van toepassing voor zover die derde partij daarmee heeft ingestemd.
 
 #### § 2. Verplichtingen bestuursorganen
 
@@ -125,15 +125,15 @@ In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https
 
 1. Onze Minister verleent op verzoek van een derde partij instemming om een door of namens die derde partij bewaarde verzameling ruimtelijke gegevens, de diensten met betrekking tot ruimtelijke gegevens en de op die verzameling en diensten betrekking hebbende metagegevens te koppelen aan het netwerk.
 
-2. De instemming wordt verleend, indien de derde partij naar het oordeel van Onze Minister kan voldoen aan de eisen die ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2022-05-01&g=2022-05-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01) voor een bestuursorgaan gelden.
+2. De instemming wordt verleend, indien de derde partij naar het oordeel van Onze Minister kan voldoen aan de eisen die ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12) voor een bestuursorgaan gelden.
 
-3. Op een derde partij waaraan instemming is verleend zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2022-05-01&g=2022-05-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01) van overeenkomstige toepassing.
+3. Op een derde partij waaraan instemming is verleend zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
 
 4. De instemming wordt ingetrokken:
 
 - a. op verzoek van de desbetreffende derde partij;
 
-- b. indien de desbetreffende derde partij naar het oordeel van Onze Minister niet voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2022-05-01&g=2022-05-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01).
+- b. indien de desbetreffende derde partij naar het oordeel van Onze Minister niet voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12).
 
 5. Bij ministeriële regeling kunnen regels worden gesteld omtrent de wijze van inrichting en indiening van een verzoek als bedoeld in het eerste en vierde lid, onderdeel a, de daarbij te verstrekken gegevens en over te leggen bescheiden.
 
@@ -165,7 +165,7 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 ##### Artikel 10
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens die van invloed kunnen zijn op het milieu, tussen Nederlandse bestuursorganen via de diensten, bedoeld in [artikel 9, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01). Deze regels hebben ten minste betrekking op het voorkomen van praktische belemmeringen op de plaats van gebruik bij het uitwisselen van verzamelingen en diensten.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens die van invloed kunnen zijn op het milieu, tussen Nederlandse bestuursorganen via de diensten, bedoeld in [artikel 9, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12). Deze regels hebben ten minste betrekking op het voorkomen van praktische belemmeringen op de plaats van gebruik bij het uitwisselen van verzamelingen en diensten.
 
 2. De regels omtrent het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens zoals bedoeld in het eerste lid zijn van overeenkomstige toepassing op het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens die van invloed kunnen zijn op het milieu, tussen Nederlandse bestuursorganen en bestuursorganen van andere lidstaten, tussen Nederlandse bestuursorganen en instellingen en organen van de Europese Gemeenschap, en tussen Nederlandse bestuursorganen en organen die zijn opgericht bij internationale overeenkomsten waarbij de Gemeenschap en de lidstaten partij zijn, mits laatstgenoemde organen hun verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens op een wederkerige en gelijkwaardige wijze hebben opengesteld als het bestuursorgaan van wiens verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens zij gebruik wensen te maken.
 
@@ -175,21 +175,21 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 ##### Artikel 11
 
-In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01) kan de publieke toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), en diensten, die de elektronische handel in die diensten mogelijk maken, worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), met dien verstande dat op de diensten bedoeld in het [eerste lid, onderdeel a, van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
+In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) kan de publieke toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en diensten, die de elektronische handel in die diensten mogelijk maken, worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), met dien verstande dat op de diensten bedoeld in het [eerste lid, onderdeel a, van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
 
 ##### Artikel 12
 
-1. Het gebruik van de diensten, bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), is voor een ieder kosteloos. Voor de overige in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), bedoelde diensten kunnen vergoedingen in rekening worden gebracht.
+1. Het gebruik van de diensten, bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), is voor een ieder kosteloos. Voor de overige in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), bedoelde diensten kunnen vergoedingen in rekening worden gebracht.
 
-2. In afwijking van het eerste lid kan een bestuursorgaan voor de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), bedoelde diensten vergoedingen in rekening brengen, indien deze nodig zijn om te waarborgen dat de desbetreffende verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens in stand worden gehouden.
+2. In afwijking van het eerste lid kan een bestuursorgaan voor de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), bedoelde diensten vergoedingen in rekening brengen, indien deze nodig zijn om te waarborgen dat de desbetreffende verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens in stand worden gehouden.
 
-3. Een bestuursorgaan dat vergoedingen in rekening brengt voor de in [artikel 9, eerste lid, onderdelen b, c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2022-05-01&g=2022-05-01), vermelde diensten, stelt diensten die elektronische handel in die diensten mogelijk maken, beschikbaar.
+3. Een bestuursorgaan dat vergoedingen in rekening brengt voor de in [artikel 9, eerste lid, onderdelen b, c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), vermelde diensten, stelt diensten die elektronische handel in die diensten mogelijk maken, beschikbaar.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen omtrent de uitvoering van het eerste tot en met het derde lid nadere regels worden gesteld. Deze regels kunnen tevens betrekking hebben op een tariefsystematiek.
 
 ##### Artikel 13
 
-1. Indien een bestuursorgaan voor het uitwisselen van gegevens, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2022-05-01&g=2022-05-01), vergoedingen in rekening brengt, gelden dezelfde vergoedingen voor Nederlandse bestuursorganen, bestuursorganen van andere lidstaten, instellingen en organen van de Europese Gemeenschappen, en organen die zijn opgericht bij internationale overeenkomsten waarbij de Gemeenschap en de lidstaten partij zijn als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2022-05-01&g=2022-05-01), en blijven deze vergoedingen beperkt tot het bedrag dat ten minste nodig is om de noodzakelijke kwaliteit en beschikbaarheid van de gegevens te garanderen, vermeerderd met een redelijk rendement op de investering en met inachtneming van, voor zover van toepassing, vereisten inzake zelffinanciering van het desbetreffende bestuursorgaan.
+1. Indien een bestuursorgaan voor het uitwisselen van gegevens, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2025-02-12&g=2025-02-12), vergoedingen in rekening brengt, gelden dezelfde vergoedingen voor Nederlandse bestuursorganen, bestuursorganen van andere lidstaten, instellingen en organen van de Europese Gemeenschappen, en organen die zijn opgericht bij internationale overeenkomsten waarbij de Gemeenschap en de lidstaten partij zijn als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2025-02-12&g=2025-02-12), en blijven deze vergoedingen beperkt tot het bedrag dat ten minste nodig is om de noodzakelijke kwaliteit en beschikbaarheid van de gegevens te garanderen, vermeerderd met een redelijk rendement op de investering en met inachtneming van, voor zover van toepassing, vereisten inzake zelffinanciering van het desbetreffende bestuursorgaan.
 
 2. Het verstrekken aan instellingen en organen van de Europese Gemeenschap van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens die zij nodig hebben ter vervulling van hun verplichtingen met betrekking tot verslaglegging krachtens de Gemeenschapswetgeving inzake het milieu, geschiedt kosteloos.
 
@@ -205,7 +205,7 @@ Als nationaal contactpunt, als bedoeld in artikel 19, tweede lid, van de EG-rich
 
 1. Onze Minister draagt aan een of meerdere door hem aan te wijzen instanties op:
 
-- a. het beheer van het nationaal toegangspunt tot het netwerk, bedoeld in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=8&z=2022-05-01&g=2022-05-01);
+- a. het beheer van het nationaal toegangspunt tot het netwerk, bedoeld in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=8&z=2025-02-12&g=2025-02-12);
 
 - b. de inrichting van het nationale gedeelte van het netwerk.
 
