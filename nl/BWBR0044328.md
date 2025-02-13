@@ -4,7 +4,7 @@ identifier: "BWBR0044328"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2024-06-22"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044328"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Onze Minister verstrekt in 2020 een specifieke uitkering aan de RMC-contactgemee
 
 ##### Artikel 3. Hoogte specifieke uitkering
 
-1. Voor de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=2&z=2024-06-22&g=2024-06-22), is een bedrag van ten hoogste € 8.000.000,– beschikbaar.
+1. Voor de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=2&z=2025-02-13&g=2025-02-13), is een bedrag van ten hoogste € 8.000.000,– beschikbaar.
 
 2. Het bedrag, bedoeld in het eerste lid, wordt over de RMC-contactgemeenten verdeeld conform de bijlage bij deze regeling.
 
@@ -70,13 +70,13 @@ De specifieke uitkering wordt behoudens de eventueel uit de rijksbegroting voort
 
 ##### Artikel 5. Besteding van de specifieke uitkering
 
-1. De specifieke uitkering dient op uiterlijk 31 december 2025 te zijn besteed.
+1. De specifieke uitkering dient op uiterlijk 31 december 2026 te zijn besteed.
 
-2. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=6&z=2024-06-22&g=2024-06-22), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
+2. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=6&z=2025-02-13&g=2025-02-13), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
 
 ##### Artikel 6. Financiële en beleidsmatige verantwoording
 
-1. Voor de jaren 2020 tot en met 2025 verantwoordt het college van burgemeester en wethouders van de desbetreffende RMC-contactgemeente zich over de besteding van de specifieke uitkering conform [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Voor de jaren 2020 tot en met 2026 verantwoordt het college van burgemeester en wethouders van de desbetreffende RMC-contactgemeente zich over de besteding van de specifieke uitkering conform [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Voor de studiejaren 2020–2021 tot en met 2023–2024 en voor de periode van 1 augustus 2024 tot en met 31 december 2025 beantwoordt het college van burgemeester en wethouders van de desbetreffende RMC-contactgemeente naast de vragen als bedoeld in [bijlage 5 van de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=5), onder ‘Toelichting op de cijfers’, de volgende aanvullende vragen in de effectrapportage voor dat studiejaar:
 
@@ -86,7 +86,7 @@ De specifieke uitkering wordt behoudens de eventueel uit de rijksbegroting voort
 
 ##### Artikel 7. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 mei 2026.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 mei 2026, met dien verstande dat zij van toepassing blijft op de specifieke uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 8. Citeertitel
 
