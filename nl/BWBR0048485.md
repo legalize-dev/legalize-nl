@@ -4,7 +4,7 @@ identifier: "BWBR0048485"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-02-13"
-last_updated: "2024-08-01"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048485"
 soort: "zbo"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1. Tijdvakken en examenrooster centrale examens 2025
 
-1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 9 mei en eindigt op maandag 26 mei. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2024-08-01&g=2024-08-01).
+1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 9 mei en eindigt op maandag 26 mei. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2025-02-13&g=2025-02-13).
 
-2. Het tweede tijdvak voor de schriftelijke centrale examens begint op maandag 16 juni en eindigt op donderdag 19 juni en wordt vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=2&z=2024-08-01&g=2024-08-01).
+2. Het tweede tijdvak voor de schriftelijke centrale examens begint op maandag 16 juni en eindigt op donderdag 19 juni en wordt vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=2&z=2025-02-13&g=2025-02-13).
 
 3. De afnameperiode voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint op dinsdag 1 april en eindigt op vrijdag 18 juli.
 
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2. Onderdelen met een vroege start
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2024-08-01&g=2024-08-01), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op woensdag 1 januari en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 10 maart.
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2025-02-13&g=2025-02-13), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op woensdag 1 januari en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 10 maart.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -64,7 +64,7 @@ Dit besluit treedt in werking met ingang van 1 augustus 2024.
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet onderwijs in 2025.
 
-## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2025 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2024-08-01&g=2024-08-01)
+## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2025 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2025-02-13&g=2025-02-13)
 
 |   | bb | kb | gl/tl | havo | vwo |
 | --- | --- | --- | --- | --- | --- |
@@ -147,18 +147,34 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet on
 
 In het geval de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In een uiterst geval kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot en met 4 juli.
 
-## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2025 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2024-08-01&g=2024-08-01).
+## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2025 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2025-02-13&g=2025-02-13)
 
-### Schriftelijke examens
+### Rooster centrale examens tweede tijdvak 2025
 
 Het tweede tijdvak begint voor de schriftelijke examens op maandag 16 juni. In het voorjaar van 2024 wordt bekendgemaakt op welke dagen en tijdstippen de centrale examens in het tweede tijdvak worden afgenomen. Donderdag 19 juni is de afname van de aangewezen vakken door de commissie staatsexamens vo van het College voor toetsen en examens. In het voorjaar van 2024 worden de aangewezen vakken bekendgemaakt.
 
-### Flexibele digitale centrale examens bb en kb
+### Woensdag 18 juni
 
 Zowel de eerste afname als de herkansing van de flexibele digitale centrale examens in algemene vakken in de basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg vinden tijdens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2024-08-01&g=2024-08-01) vermelde afnameperiode plaats.
 
 ### Centraal schriftelijke en praktische examens
 
 Zowel de eerste afname als de herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken vinden tijdens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2024-08-01&g=2024-08-01) vermelde afnameperiode plaats. Herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte vakken in de gemengde leerweg kan pas vanaf de datum van de bekendmaking van de normering van de algemene vakken vmbo plaatsvinden.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Dinsdag 17 juni
+
+### Donderdag 19 juni – afname op staatsexamenlocaties – aangewezen vakken
+
+De aangewezen vakken worden afgenomen door het College voor Toetsen en Examens. Meer informatie hierover is te vinden in [hoofdstuk 11](https://www.examenblad.nl/2025/onderwerpen/septembermededeling#par-11) van de Septembermededeling.
+
+### Donderdag 19 juni – afname op de scholen
+
+### Vrijdag 20 juni
+
+### Maandag 23 juni
+
+### Dinsdag 24 juni
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
