@@ -4,7 +4,7 @@ identifier: "BWBR0041915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-09"
-last_updated: "2024-02-14"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041915"
 soort: "ministeriele-regeling"
@@ -50,23 +50,31 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 - a. voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar;
 
-- b. voor activiteiten die plaatsvinden in het kalenderjaar 2023 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar; en
+- b. voor activiteiten die plaatsvinden in het kalenderjaar 2023 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
 
-- c. voor activiteiten die plaatsvinden in het kalenderjaar 2024 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar.
+- c. voor activiteiten die plaatsvinden in het kalenderjaar 2024 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
 
-2. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel b, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, bedoeld in het eerste lid, onderdeel c.
+- d. voor activiteiten die plaatsvinden in het kalenderjaar 2025 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
+
+- e. voor activiteiten die plaatsvinden in het kalenderjaar 2026 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
+
+- f. voor activiteiten die plaatsvinden in het kalenderjaar 2027 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar; en
+
+- g. voor activiteiten die plaatsvinden in het kalenderjaar 2028 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar.
+
+2. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b. Indien een beschikbaar bedrag als bedoeld in het eerste lid, onderdelen b tot en met f, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag voor activiteiten die plaatsvinden in het daaropvolgende kalenderjaar.
 
 3. Indien het resterende beschikbare bedrag, bedoeld in het eerste lid, in een bepaald kalenderjaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt het in de bijlage vastgestelde subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ##### Artikel 3. Wijziging van het besluit
 
-Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2024-02-14&g=2024-02-14) behelst.
+Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2025-02-13&g=2025-02-13) behelst.
 
 ##### Artikel 4. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2026.
+2. Dit besluit vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 5. Citeertitel
 
@@ -102,13 +110,13 @@ Dit beleidskader wordt namens de Minister voor Onderwijs, Cultuur en Wetenschap 
 
 In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een tot het rijksmonument met een woonfunctie behorende tuin komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
 
-In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een tot het rijksmonument met een woonfunctie behorende tuin komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
+In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een beschermde tuin die tot een rijksmonument met een woonfunctie behoort komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
 
 Om te bepalen welke werkzaamheden subsidiabel zijn, wordt aangesloten bij de [bijlage van de Subsidieregeling instandhouding monumenten](onbekend) (hierna: de Sim), de [Leidraad subsidiabele instandhoudingskosten](onbekend) (hierna: de Leidraad). Hoofdstuk 1.1, onderdeel f, van de Leidraad is hierbij niet van toepassing. Ook hoeft er bij de aanvraag – anders dan bij de Sim – geen instandhoudingsplan te worden ingediend om voor subsidie in aanmerking te komen (zie voor de aanvraagvereisten nader paragraaf 6). Verder zijn de in de Leidraad om budgettaire redenen voor de Sim niet subsidiabel gestelde kosten voor groene monumenten (onderhoudswerkzaamheden met 'prioriteit 2' en restauratiewerkzaamheden) wel subsidiabel op grond van dit beleidskader als ze betrekking hebben op de tot een rijksmonument met een woonfunctie behorende tuin. In de Leidraad wordt concreet aangegeven welke werkzaamheden subsidiabel zijn. Hierbij geldt als algemeen uitgangspunt dat de werkzaamheden dienen te strekken tot de instandhouding van het rijksmonument en zijn monumentale waarden, dat de werkzaamheden sober en doelmatig en technisch noodzakelijk dienen te zijn, en dat de werkzaamheden gericht dienen te zijn op maximaal behoud van aanwezige monumentale waarden, in het bijzonder historische materialen en constructies. Ook werkzaamheden gericht op het voorkomen van verval of het voorkomen van vervolgschade zijn subsidiabel. Men kan daarbij denken aan schilderwerk, het herstel van voegen, het repareren of vervangen van goten en afvoeren, het vervangen van kapotte dakpannen, of het herstel van scheuren in het buitenpleisterwerk. De kosten van arbeidsuren van de eigenaar of een vrijwilliger zijn niet subsidiabel (zie nader hoofdstuk 1.2, onder ‘Zelfwerkzaamheid’, en hoofdstuk 1.3, onder 01.04, van de Leidraad).
 
 Particuliere eigenaren die in een bepaald jaar voor een rijksmonument voor meer dan € 70.000,– aan kosten subsidie aan willen vragen, kunnen voor aanvang van de werkzaamheden de RCE vragen te beoordelen welk gedeelte van deze kosten subsidiabel is op grond van de [Leidraad](onbekend). Voor een dergelijke beoordeling is in elk geval vereist dat er voldoende inzicht wordt gegeven in de voorgenomen werkzaamheden en dat er een inspectierapport wordt ingediend. Op www.cultureelerfgoed.nl wordt een formulier geplaatst waarvan hiervoor gebruik kan worden gemaakt. Paragraaf 6 bevat de eisen die aan een inspectierapport zijn gesteld. De beoordeling door de RCE heeft het karakter van een mededeling op basis van de dan beschikbare gegevens en is derhalve niet vatbaar voor bezwaar of beroep.
 
-De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2024-02-14&g=2024-02-14), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
+De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2025-02-13&g=2025-02-13), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ### 6. Subsidieaanvraag
 
