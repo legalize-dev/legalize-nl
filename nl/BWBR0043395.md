@@ -4,7 +4,7 @@ identifier: "BWBR0043395"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2020-12-25"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043395"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verricht
 
 - u. Het Nederlands Stamboek voor Tinkers;
 
-- v. Irish Cob Society Nederland;
+- v. vervallen;
 
 - w. Merens Stamboek Nederland;
 
@@ -122,13 +122,13 @@ Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verricht
 
 Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [artikel 38t, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38t) voor paardachtigen als bedoeld in artikel 5, eerste lid, onderdeel c, van verordening (EU) nr. 262/2015 aan de voorzitters van het bestuur van:
 
-- a. de organisaties, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=2&z=2020-12-25&g=2020-12-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=3&z=2020-12-25&g=2020-12-25);
+- a. de organisaties, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=2&z=2025-02-13&g=2025-02-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=3&z=2025-02-13&g=2025-02-13);
 
 - b. Viva Veterinary B.V.
 
 ##### Artikel 5
 
-1. De voorzitters, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=2&z=2020-12-25&g=2020-12-25), kunnen, ieder voor zich, voor de in die artikelen bedoelde bevoegdheid en handelingen ondermandaat en machtiging verlenen aan onder hun verantwoordelijkheid werkzame medewerkers.
+1. De voorzitters, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=2&z=2025-02-13&g=2025-02-13), kunnen, ieder voor zich, voor de in die artikelen bedoelde bevoegdheid en handelingen ondermandaat en machtiging verlenen aan onder hun verantwoordelijkheid werkzame medewerkers.
 
 2. Het verlenen van ondermandaat, bedoeld in het eerste lid, alsmede wijziging daarvan geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
