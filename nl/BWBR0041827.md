@@ -4,7 +4,7 @@ identifier: "BWBR0041827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2024-01-01"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041827"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de directeur-generaal:** de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat;
 
-- b. **de directeuren:** de directeuren van het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat;
+- b. **de directeuren:** de directeuren en de kwartiermaker projectorganisatie NEO NL van het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat;
 
 - c. **het MT-KE:** het collectief van de onder a en b bedoelde functionarissen;
 
