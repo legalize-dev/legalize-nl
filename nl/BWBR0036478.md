@@ -4,7 +4,7 @@ identifier: "BWBR0036478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-21"
-last_updated: "2025-01-01"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036478"
 soort: "ministeriele-regeling"
@@ -50,29 +50,31 @@ In deze regeling wordt verstaan onder:
 
 - **gedelegeerde verordening (EU) 886/2013:** gedelegeerde verordening (EU) nr. 886/2013 van de commissie van 15 mei 2013 tot aanvulling van [richtlijn 2010/40](32010L0040)/EU van het Europees Parlement en de Raad met betrekking tot de gegevens en procedures voor het aanbieden, waar mogelijk, van minimale universele verkeersveiligheidsinformatie die kosteloos is voor de gebruikers (PbEU 2013, L 247);
 
-- **gedelegeerde verordening (EU) 2015/962:** gedelegeerde verordening (EU) nr. 2015/962 van de Commissie van 18 december 2014 ter aanvulling van [Richtlijn 2010/40](32010L0040)/EU van het Europees Parlement en de Raad wat de verlening van EU-wijde realtimeverkeersinformatiediensten betreft (PbEU 2015, L 157).
+- **gedelegeerde verordening (EU) 2017/1926:** gedelegeerde [verordening (EU) nr. 2017/1926](32017R1926) van de Commissie van 31 mei 2017 tot aanvulling van [Richtlijn 2010/40/EU](32010L0040) van het Europees Parlement en de Raad met betrekking tot het aanbieden van EU-brede multimodale reisinformatiediensten (PbEU 2017, L 272);
 
-#### § 2. Uitwerking prioritaire actie B (gedelegeerde verordening (EU) 2015/962)
+- **gedelegeerde verordening (EU) 2022/670:** gedelegeerde [verordening (EU) nr. 2022/670](32022R0670) van de Commissie van 2 februari 2022 ter aanvulling van [Richtlijn 2010/40/EU](32010L0040) van het Europees Parlement en de Raad wat betreft de verlening van EU-wijde realtimeverkeersinformatiediensten (PbEU 2022, L 122).
+
+#### § 2. Aanwijzing nationaal toegangspunt
 
 #### § 3. Uitwerking prioritaire actie C (gedelegeerde verordening (EU) 886/2013)
 
 ##### Artikel 3.1
 
-De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-01-01) vastgestelde wegvakken.
+De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-02-14) vastgestelde wegvakken.
 
 ##### Artikel 3.2
 
-De Nationale Databank Wegverkeersgegevens is belast met het beheer van het nationale toegangspunt, bedoeld in artikel 7, eerste lid, van gedelegeerde verordening (EU) 886/2013.
+Vervallen
 
 #### § 4. Uitwerking prioritaire actie E (gedelegeerde verordening (EU) 885/2013)
 
 ##### Artikel 4.1
 
-De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2025-02-14&g=2025-01-01) vastgestelde zones.
+De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2025-02-14&g=2025-02-14) vastgestelde zones.
 
 ##### Artikel 4.2
 
-De Nationale Databank Wegverkeersgegevens is belast met het beheer van het nationale toegangspunt, bedoeld in artikel 5, derde lid, van gedelegeerde verordening (EU) 885/2013.
+Vervallen
 
 #### § 5. Slotbepalingen
 
@@ -92,9 +94,39 @@ Deze regeling wordt aangehaald als: ITS-Regeling.
 
 De in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2015-07-01&g=2015-07-01) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
 
-## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2015-07-01&g=2015-07-01) van de ITS-Regeling
+## Bijlage 1. behorende bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-02-14) van de ITS-regeling
 
-De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2015-07-01&g=2015-07-01) bedoelde zones zijn vijf kilometer breed, gemeten in een rechte lijn, vanaf de volgende hoofdwegen en weergegeven in de volgende kaart:
+De in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-02-14) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.1
+
+1. De Minister van Infrastructuur en Waterstaat is belast met het beheer van het nationaal toegangspunt, bedoeld in:
+
+- a. artikel 5, derde lid, van gedelegeerde [verordening (EU) 885/2013](32013R0885);
+
+- b. artikel 7, tweede lid, van gedelegeerde [verordening (EU) 886/2013](32013R0886).
+
+2. De Minister van Infrastructuur en Waterstaat is het nationaal toegangspunt, bedoeld in:
+
+- a. artikel 3, eerste lid, van de gedelegeerde [verordening (EU) 2017/1926](32017R1926);
+
+- b. artikel 3, eerste lid, van de gedelegeerde [verordening (EU) 2022/670](32022R0670).
+
+##### Artikel 2.2
+
+De Nationale Databank Wegverkeersgegevens is het nationaal toegangspunt, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 2015/962.
+
+#### § 3. Uitwerking prioritaire actie C (gedelegeerde verordening (EU) 886/2013)
+
+#### § 4. Uitwerking prioritaire actie E (gedelegeerde verordening (EU) 885/2013)
+
+#### § 5. Slotbepalingen
+
+## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-02-14&g=2025-02-14) van de ITS-Regeling
+
+De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-02-14&g=2025-02-14) bedoelde zones zijn vijf kilometer breed, gemeten in een rechte lijn, vanaf de volgende hoofdwegen en weergegeven in de volgende kaart:
 
 - •. A1 Amsterdam-Oldenzaal
 
@@ -121,26 +153,6 @@ De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&
 - •. A76 Stein, Geleen, Heerlen, Bocholtz, en
 
 - •. de zone rondom de Amsterdamse haven tussen de A5, A10, A8 en A9, tot en met de zeemonding en de gemeentes IJmuiden en Velsen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2.1
-
-Gedelegeerde verordening (EU) 2015/962 is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-01-01) vastgestelde wegvakken.
-
-##### Artikel 2.2
-
-De Nationale Databank Wegverkeersgegevens is het nationaal toegangspunt, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 2015/962.
-
-#### § 3. Uitwerking prioritaire actie C (gedelegeerde verordening (EU) 886/2013)
-
-#### § 4. Uitwerking prioritaire actie E (gedelegeerde verordening (EU) 885/2013)
-
-#### § 5. Slotbepalingen
-
-## Bijlage 1. behorende bij de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2025-02-14&g=2025-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-01-01) van de ITS-regeling
-
-De in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2025-02-14&g=2025-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-01-01) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
 
 ## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-02-14&g=2025-01-01) van de ITS-Regeling
 
@@ -171,5 +183,13 @@ De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&
 - •. A76 Stein, Geleen, Heerlen, Bocholtz, en
 
 - •. de zone rondom de Amsterdamse haven tussen de A5, A10, A8 en A9, tot en met de zeemonding en de gemeentes IJmuiden en Velsen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 3. Uitwerking prioritaire actie C (gedelegeerde verordening (EU) 886/2013)
+
+#### § 4. Uitwerking prioritaire actie E (gedelegeerde verordening (EU) 885/2013)
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
