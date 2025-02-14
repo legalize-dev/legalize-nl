@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-08-27"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -92,7 +92,11 @@ Het Directoraat-Generaal Belastingdienst staat onder leiding van de directeur-ge
 
 Het DGBD bestaat uit de volgende organisatieonderdelen:
 
-- a. de directie Bestuurlijke en Politieke Zaken (BPZ);
+- a. de volgende directies:
+
+- i. de directie Bestuurlijke en Politieke Zaken (BPZ);
+
+- ii. de directie Organisatie en Personeel;
 
 - b. de volgende uitvoeringsdirecties:
 
@@ -118,11 +122,9 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - iii. de concerndirectie Informatievoorziening- en Databeheersing;
 
-- iv. de concerndirectie Organisatie en Personeel;
+- iv. de concerndirectie Innovatie en Strategie;
 
-- v. de concerndirectie Innovatie en Strategie;
-
-- vi. de concerndirectie Control en Financiën;
+- v. de concerndirectie Control en Financiën;
 
 - d. de volgende corporate diensten en shared service organisaties (SSO):
 
@@ -135,10 +137,6 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 - iv. de SSO Financieel en Managementinformatie;
 
 - v. de SSO Facilitaire Dienstverlening;
-
-- vi. de SSO Organisatie en Personeel;
-
-- vii. Switch;
 
 - e. de tijdelijke programmadirectie Buitengewone Zaken Blauw.
 
@@ -164,7 +162,7 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - b. Deelnemers aan het directieteam zijn:
 
-- i. de DGBD (voorzitter), de pDGBD, alle algemeen directeuren primair proces van het DGBD, hoofddirecteur Control & Financiën, hoofddirecteur Fiscale en Juridische Zaken, directeur Uitvoerings- en Handhavingsbeleid en de directeur concerndirectie Organisatie en Personeel;
+- i. de DGBD (voorzitter), de pDGBD, alle algemeen directeuren primair proces van het DGBD, hoofddirecteur Control & Financiën, hoofddirecteur Fiscale en Juridische Zaken, directeur Uitvoerings- en Handhavingsbeleid en de directeur Organisatie en Personeel;
 
 - ii. Agendalid en standing invitation: overige directeuren van de concerndirecties;
 
