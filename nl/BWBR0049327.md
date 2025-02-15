@@ -4,7 +4,7 @@ identifier: "BWBR0049327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-10"
-last_updated: "2024-02-06"
+last_updated: "2025-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049327"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap
 
-- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2024-02-06&g=2024-02-06);
+- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2024-02-06&g=2025-02-15);
 
 - d. **dierproef:** elk al dan niet invasief gebruik van een dier voor experimentele of andere wetenschappelijke doeleinden, waarvan het resultaat bekend of onbekend is, of onderwijskundige doeleinden, die bij het dier evenveel of meer pijn, lijden, angst of blijvende schade kan veroorzaken als, dan wel dan het inbrengen van een naald volgens goed diergeneeskundig vakmanschap. Dit omvat ieder gebruik waarvan het doel of het mogelijke gevolg de geboorte of het uit het ei breken van een dier is, dan wel het in een dergelijke toestand brengen en houden van een genetisch gemodificeerde dierenlijn, met inbegrip van het doden van dieren ten behoeve van het gebruik van hun organen, weefsels of lichaamsvloeistoffen voor een doel genoemd in [artikel 1c van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1c).
 
@@ -138,11 +138,11 @@ De commissie verstrekt aan de minister desgevraagd de door de minister gewenste 
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
-- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2024-02-06&g=2024-02-06);
+- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2024-02-06&g=2025-02-15);
 
 - b. binnenlandse reiskosten van de leden van de commissie;
 
-- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2024-02-06&g=2024-02-06); en,
+- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2024-02-06&g=2025-02-15); en,
 
 - d. de kosten voor publicatie van rapportages.
 
@@ -196,7 +196,7 @@ Voorletters, naam en titulatuur: W. E. Bijker, Prof. Dr. Ir.
 
 - •. -
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
@@ -260,7 +260,7 @@ Voorletters, naam en titulatuur: A. Geluk, Prof. Dr.
 
 - •. Lid van het Nederlands Expertise Centrum Lepra; onbezoldigd. Binnen het expertise centrum verzorgt mijn research groep de (immuno)diagnostiek van lepra patienten ism ErasmusMC.
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de [wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de [wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
@@ -332,7 +332,7 @@ Prof. Dr. W.A. van Gool
 
 - •. Lid Raad van Advies Vereniging tegen de Kwakzalverij, onbezoldigd
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Nee.
 
@@ -380,7 +380,7 @@ L. Krabbenborg, dr.
 
 - •. Lira Boekenfonds 2021-2024 (vacatievergoeding)
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 JA
 
@@ -424,9 +424,9 @@ Prof dr H.G.M. Leufkens
 
 - •. Emeritus hoogleraar Geneesmiddelregulering en -beleid Universiteit Utrecht
 
-- •. zie: [https://www.uu.nl/medewerkers/HGMLeufkens](onbekend); alle functies zijn onbetaald of alleen vacatiegeld per vergadering.
+- •. zie: [https://www.uu.nl/medewerkers/HGMLeufkens](https://www.uu.nl/medewerkers/HGMLeufkens); alle functies zijn onbetaald of alleen vacatiegeld per vergadering.
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
@@ -484,7 +484,7 @@ Prof. dr. F.L.B. Meijboom
 
 - •. Lid van de editorial board van het tijdschrift Food Ethics b(Springer) (onbezoldigd)
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Nee
 
@@ -538,7 +538,7 @@ Voorletters, naam en titulatuur: C.L.Mummery
 
 - •. Stretegieplan NFU bez
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
@@ -590,7 +590,7 @@ Prof. dr. C.P. Rovers
 
 - •. Lid Raad van Advies Q-uestion, stichting voor mensen met Q-koorts (onbetaald)
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
@@ -646,7 +646,7 @@ Voorletters, naam en titulatuur: Dr. F.M.S de Vrij
 
 - •. Adviesraad NewTDec consortium (Amsterdam UMC N=You center for precision medicine) (onbetaald).
 
-Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](onbekend))
+Denkt u dat u met uw lidmaatschap van de commissie in combinatie met uw andere betaalde werkzaamheden onder het maximum blijft dat de **wet normering topinkomens** hanteert inzake de bezoldiging van topfunctionarissen in de publieke en semipublieke sector? (zie voor maxima 2020: [https://www.topinkomens.nl/actueel/bezoldigingsmaxima](https://www.topinkomens.nl/actueel/bezoldigingsmaxima))
 
 Ja
 
