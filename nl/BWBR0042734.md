@@ -4,7 +4,7 @@ identifier: "BWBR0042734"
 country: "nl"
 rank: "kb"
 publication_date: "2025-02-19"
-last_updated: "2020-01-01"
+last_updated: "2025-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042734"
 soort: "KB"
@@ -100,17 +100,19 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet normali
 
 ## Bijlage
 
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten van ons land zal eerbiedigen;
+Ik zweer/verklaar dat ik op een eerlijke manier mijn ambt als hoofd van een vaste diplomatieke zending/hoofd van een permanente vertegenwoordiging van het Koninkrijk bij een internationale organisatie heb gekregen. Dat betekent:
 
-Ik zweer/verklaar dat ik noch direct, noch indirect in welke vorm dan ook valse informatie heb verstrekt in verband met het verkrijgen van mijn benoeming als hoofd van een vaste diplomatieke zending/hoofd van een permanente vertegenwoordiging van het Koninkrijk bij een internationale organisatie;
+- –. Ik heb voor dit ambt gekozen. Ik ben niet omgekocht en heb ook niemand omgekocht. Niet met giften en niet met beloftes;
 
-Ik zweer/verklaar dat ik tot het verkrijgen van mijn benoeming als hoofd van een vaste diplomatieke zending/hoofd van een permanente vertegenwoordiging van het Koninkrijk bij een internationale organisatie aan niemand iets heb geschonken of beloofd en dat ik dit ook niet zal gaan doen;
+- –. Ik heb eerlijke informatie gegeven en heb niets verzwegen dat voor dit ambt van belang kan zijn.
 
-Ik zweer/verklaar dat ik tot het verkrijgen van mijn benoeming als hoofd van een vaste diplomatieke zending/hoofd van een permanente vertegenwoordiging van het Koninkrijk bij een internationale organisatie van niemand giften heb aanvaard en aan niemand beloften heb gedaan en dat ik dit ook niet zal gaan doen;
+Ik zweer/beloof de Koning en de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) trouw te zijn en Nederland als goed ambtenaar te dienen. Dat betekent:
 
-Ik zweer/beloof dat ik plichtsgetrouw en nauwgezet de mij opgedragen taken zal vervullen en zaken die mij uit hoofde van mijn functie vertrouwelijk ter kennis komen of waarvan ik het vertrouwelijke karakter moet inzien, geheim zal houden voor anderen dan die personen aan wie ik ambtshalve tot mededeling verplicht ben;
+- –. Ik werk in het algemeen belang voor onze samenleving en zet mij daar volledig voor in;
 
-Ik zweer/beloof dat ik mij zal gedragen zoals een goed hoofd van een vaste diplomatieke zending/hoofd van een permanente vertegenwoordiging van het Koninkrijk bij een internationale organisatie betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden.
+- –. Ik werk integer en behandel iedereen rechtvaardig, gelijkwaardig en met respect; Ik ga zorgvuldig om met informatie. Ik draag bij aan een open overheid, maar weet ook dat ik vertrouwelijke informatie geheim moet houden;
+
+- –. Ik gedraag mij volgens onze wetten, het recht en de gedragsregels die verder voor mij gelden.
 
 Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
 
