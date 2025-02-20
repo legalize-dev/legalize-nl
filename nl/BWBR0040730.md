@@ -4,7 +4,7 @@ identifier: "BWBR0040730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2024-08-08"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040730"
 soort: "ministeriele-regeling"
@@ -307,7 +307,13 @@ tot 1.500 ft AMSL.
 
 - y. EHD 41D AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°05'00.00"N 003°45'00.00"E; 53°13'00.00"N 003°45'00.00"E; langs de parallel naar 53°13'00.00"N 004°10'00.00"E; 53°05'00.00"N 004°10'00.00"E; langs de parallel terug naar beginpunt; van FL 055 tot een maximum van FL 660.
 
-7. In de gebieden EHR 4 en EHR 4B wordt aan de gezagvoerders van militaire vliegtuigen, voor zover voor de militaire oefening noodzakelijk, vrijstelling verleend van het verbod om een VFR-vlucht uit te voeren beneden de bij of krachtens paragraaf SERA.5005, onderdeel (f), van verordening (EU) nr. 923/2012 vastgestelde minimum vlieghoogte.
+7. De volgende gebieden zijn aangewezen als EHD gedurende de dagen en tijden die tijdig per NOTAM worden bekendgemaakt:
+
+- a. EHD 69 (BNOM Gootebank) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°25'38.13'N, 002°48'09.25''E; 51°26'08.00''N, 002°49'09.00''E; 51°26'07.00''N, 003°00'05.00''E; 51°42' 00.00''N, 002°39'02.00''E; 51°42'00.00''N, 002°37'04.00''E; 51°27'01.90''N, 002°33'09.47''E; terug naar beginpunt; van AMSL tot 3000’ ft AMSL;
+
+- b. EHD 69A (BNOM Gootebank) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°25'38.13'N, 002°48'09.25''E; 51°26'08.00''N, 002°49'09.00''E; 51°26'07.00''N, 003°00'05.00''E; 51°42' 00.00''N, 002°39'02.00''E; 51°42'00.00''N, 002°37'04.00''E; 51°27'01.90''N, 002°33'09.47''E; terug naar beginpunt; van 3000’ ft AMSL tot FL045.
+
+8. In de gebieden EHR 4 en EHR 4B wordt aan de gezagvoerders van militaire vliegtuigen, voor zover voor de militaire oefening noodzakelijk, vrijstelling verleend van het verbod om een VFR-vlucht uit te voeren beneden de bij of krachtens paragraaf SERA.5005, onderdeel (f), van verordening (EU) nr. 923/2012 vastgestelde minimum vlieghoogte.
 
 ##### Artikel 3. Gebieden ten behoeve van de Nationale Dodenherdenking op 4 mei
 
@@ -341,7 +347,7 @@ Ten behoeve van de Nationale Dodenherdenking op 4 mei is om redenen van openbare
 
 - b. EHTSA 24 (Soesterberg) met de laterale grenzen van 52°09'00.00"N 005°10'00.00"E naar 52°12'00.00"N 005°25'00.00"E, naar 52°04'00.00"N 005°25'00.00"E, naar 52°04'00.00"N 005°10'00.00"E en terug naar 52°09'00.00"N 005°10'00.00"E tot FL 090, ten behoeve van de Nationale Dodenherdenking op de voormalige vliegbasis Soesterberg op 4 mei en de 1-Juli herdenking van het Commando Luchtstrijdkrachten;
 
-- c. EHTSA 27 (Den Haag) met de laterale grenzen van 52°07'37.00"N 004°26'05.00"E naar 52°08'36.00"N 004°23'45.00"E, naar 52°05'14.00"N 004°16'24.00"E, naar 52°03'36.00"N 004°18'05.00"E, naar 52°06'30.00"N 004°24'21.00"E en terug naar 52°07'37.00"N 004°26'05.00"E tot 2000 ft AMSL, ten behoeve van de Nederlandse Veteranendag, op een zaterdag rond 29 juni;
+- c. EHTSA 27 (Den Haag) met de laterale grenzen van 52°03'43.00"N 004°18'20.00"E naar 52°06'25.00"N 004°24'20.00"E, naar 52°07'37.00"N 004°26'03.00"E, naar 52°08'36.00"N 004°23'50.00"E, naar 52°05'17.00"N 004°16'27.00"E en terug naar 52°03'43.00"N 004°18'20.00"E tot 2000 ft AMSL, ten behoeve van de Nederlandse Veteranendag, op een zaterdag rond 29 juni;
 
 - d. EHTSA 28 (Roermond), het gebied, begrensd door de lijn die de cirkel vormt met een straal van 3 nautische mijlen vanuit positie 51°10'19.00"N 005°59'34.00"E tot 3.000 ft AMSL, ten behoeve van de herdenkingsplechtigheid bij het Nationaal Indië-monument 1945-1962 in Roermond, op de eerste zaterdag van september.
 
@@ -359,19 +365,19 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 ##### Artikel 6. Vluchten uitgezonderd van de verboden
 
-1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2024-08-08&g=2024-08-08) (gebied EHR 3), is niet van toepassing op:
+1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-02-20&g=2025-02-20) (gebied EHR 3), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid, en
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2024-08-08&g=2024-08-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2024-08-08&g=2024-08-08), zijn niet van toepassing op:
+2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2025-02-20&g=2025-02-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2025-02-20&g=2025-02-20), zijn niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2024-08-08&g=2024-08-08) (gebied EHP 25), is niet van toepassing op:
+3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-02-20&g=2025-02-20) (gebied EHP 25), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -379,7 +385,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2024-08-08&g=2024-08-08) (gebied EHP 26A), is niet van toepassing op:
+4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-02-20&g=2025-02-20) (gebied EHP 26A), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -391,7 +397,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. vluchten door civiel geregistreerde historische militaire luchtvaartuigen die deelnemen aan de luchtvaartvertoning ter gelegenheid van de Nederlandse Veteranendag.
 
-5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2024-08-08&g=2024-08-08), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2024-08-08&g=2024-08-08). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
+5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2025-02-20&g=2025-02-20), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-02-20&g=2025-02-20). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 7. Coördinatie militaire oefeningen
 
