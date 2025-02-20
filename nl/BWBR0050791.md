@@ -4,7 +4,7 @@ identifier: "BWBR0050791"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050791"
 soort: "wet-BES"
@@ -97,3 +97,31 @@ Wijzigt de Wet ziekteverzekering BES.
 Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid die gelding heeft in Caribisch Nederland, teneinde rechten en aanspraken van werkenden en nagelaten betrekkingen te verduidelijken en te verbeteren, onder meer op het terrein van verlof en vakantie, kinderbijslag, ziekte, ouderdom en overlijden;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+### Hoofdstuk I. Wijziging van wetten
+
+### Hoofdstuk II. Slotbepalingen
+
+##### Artikel IX. [Artikel 7b Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7b)
+
+Wijzigt de Wet algemene ouderdomsverzekering BES.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel X. Inwerkingtreding
+
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid treedt [artikel VI, onderdelen Ba, F, en Na](https://wetten.overheid.nl/jci1.3:c:BWBR0050791&hoofdstuk=I&artikel=VI&z=2025-02-20&g=2025-02-20), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 juli 2024.
+
+##### Artikel XI. Citeertitel
+
+Deze wet wordt aangehaald als: Wijzigingswet SZW-wetten BES 2024.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
