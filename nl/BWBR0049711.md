@@ -4,7 +4,7 @@ identifier: "BWBR0049711"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2024-12-19"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049711"
 soort: "pbo"
@@ -13590,7 +13590,7 @@ A2
 
 A3
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten, inclusief beoordelingsopdrachten, op te zetten, te implementeren en in werking te houden.4Artikel 4, NVKS. De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures op te zetten voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.5Artikel 13(1) van de NVKS. De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
+De [NVKM](onbekend) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten, inclusief beoordelingsopdrachten, op te zetten, te implementeren en in werking te houden.4Artikel 4, NVKM. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures op te zetten voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.5Artikel 13(1) van de NVKM. De NVKM behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
 
 Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
 
@@ -13602,7 +13602,7 @@ Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is 
 
 A5
 
-Nationale vereisten die de verantwoordelijkheden van de accountantseenheid behandelen om een kwaliteitsmanagementsysteem op te zetten, te implementeren en in werking te houden zijn minstens zo veeleisend als wet- en regelgeving op het gebied van kwaliteitsmanagement wanneer zij inspelen op NVKS-vereisten en zij de accountantseenheid verplichtingen opleggen om de doelstelling van de wet- en regelgeving op het gebied van kwaliteitsmanagement te behalen.
+Nationale vereisten die de verantwoordelijkheden van de accountantseenheid behandelen om een kwaliteitsmanagementsysteem op te zetten, te implementeren en in werking te houden zijn minstens zo veeleisend als wet- en regelgeving op het gebied van kwaliteitsmanagement wanneer zij inspelen op NVKM-vereisten en zij de accountantseenheid verplichtingen opleggen om de doelstelling van de wet- en regelgeving op het gebied van kwaliteitsmanagement te behalen.
 
 (Zie Par. 5, 8 en 14)
 
@@ -13662,7 +13662,7 @@ De [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.n
 
 Accountants moeten zich aan de fundamentele beginselen houden om invulling te geven aan het handelen in het algemeen belang.
 
-De [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) verschaft een toetsingskader op grond waarvan een accountant bij een bedreiging een of meer maatregelen neemt die ertoe leiden dat een accountant zich aan de fundamentele beginselen houdt. De [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) verschaft een toetsingskader om de onafhankelijke uitvoering van een assurance-opdracht te waarborgen.
+De [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) verschaft een toetsingskader op grond waarvan een accountant bij een bedreiging een of meer maatregelen neemt die ertoe leiden dat een accountant zich aan de fundamentele beginselen houdt. De Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten ([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)) verschaft een toetsingskader om de onafhankelijke uitvoering van een assurance-opdracht te waarborgen.
 
 A16
 
@@ -13728,7 +13728,7 @@ Gewoonlijk mag het opdrachtteam vertrouwen op het kwaliteitsmanagementsysteem va
 
 Het opdrachtteam kan bijvoorbeeld vertrouwen op het kwaliteitsmanagementsysteem van de accountantseenheid met betrekking tot:
 
-Bij het in overweging nemen van geïdentificeerde tekortkomingen7Artikel 22(2), NVKS. in het kwaliteitsmanagementsysteem van de accountantseenheid die van invloed kunnen zijn op de beoordelingsopdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
+Bij het in overweging nemen van geïdentificeerde tekortkomingen7Artikel 22(2), NVKM. in het kwaliteitsmanagementsysteem van de accountantseenheid die van invloed kunnen zijn op de beoordelingsopdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
 
 A30
 
@@ -14810,7 +14810,7 @@ Onder een effectief kwaliteitsmanagementsysteem valt een monitorings-en herstelp
 
 **36**
 
-Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) of de beleidslijnen of procedures van de accountantseenheid, geldt dat de opdrachtpartner met de opdrachtgerichte kwaliteitsbeoordelaar significante aangelegenheden en significante oordeelsvormingen dient te bespreken die zich tijdens de opdracht voordoen. De opdrachtpartner dient het assurance-rapport niet te dateren voordat die beoordeling is afgerond.931NVKS, artikel 13(2)(b)
+Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKM](onbekend) of de beleidslijnen of procedures van de accountantseenheid, geldt dat de opdrachtpartner met de opdrachtgerichte kwaliteitsbeoordelaar significante aangelegenheden en significante oordeelsvormingen dient te bespreken die zich tijdens de opdracht voordoen. De opdrachtpartner dient het assurance-rapport niet te dateren voordat die beoordeling is afgerond.931NVKM, artikel 13(2)(b)
 
 **37**
 
@@ -15344,7 +15344,7 @@ Deze Standaard is geschreven in de context van een aantal maatregelen die moeten
 
 **A61**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKS bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKS behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.933NVKS, artikel 13(1). De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.934NVKS, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
+De [NVKM](onbekend) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKM bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.933NVKM, artikel 13(1). De [NVKM](onbekend) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.934NVKM, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
 
 Accountantseenheden of nationale vereisten kunnen andere terminologie of raamwerken gebruiken om de componenten van het kwaliteitsmanagementsysteem te beschrijven.
 
@@ -15364,7 +15364,7 @@ Gewoonlijk mag het opdrachtteam vertrouwen op het kwaliteitsmanagementsysteem va
 
 Het opdrachtteam kan bijvoorbeeld vertrouwen op het kwaliteitsmanagementsysteem van de accountantseenheid met betrekking tot:
 
-Bij het in overweging nemen van geïdentificeerde tekortkomingen935NVKS, artikel 22(2). in het kwaliteitsmanagementsysteem van de accountantseenheid die invloed kunnen hebben op de assurance-opdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
+Bij het in overweging nemen van geïdentificeerde tekortkomingen935NVKM, artikel 22(2). in het kwaliteitsmanagementsysteem van de accountantseenheid die invloed kunnen hebben op de assurance-opdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
 
 **A66**
 
@@ -15384,7 +15384,7 @@ De [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) eist van de accountan
 
 **A69**
 
-De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op het aanvaarden en continueren van cliëntrelaties en assurance-opdrachten. Dit heeft betrekking op de geschiktheid van oordeelsvormingen door de accountantseenheid over de aanvaarding of continuering van relaties en opdrachten die zijn gebaseerd op het vermogen van de accountantseenheid om de opdracht uit te voeren in overeenstemming met professionele standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten.937NVKS, artikel 4(2)(a).
+De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op het aanvaarden en continueren van cliëntrelaties en assurance-opdrachten. Dit heeft betrekking op de geschiktheid van oordeelsvormingen door de accountantseenheid over de aanvaarding of continuering van relaties en opdrachten die zijn gebaseerd op het vermogen van de accountantseenheid om de opdracht uit te voeren in overeenstemming met professionele standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten.937NVKM, artikel 4(2)(a).
 
 (Zie Par. 32(a), 32(b)(i))
 
@@ -15410,7 +15410,7 @@ De werkzaamheden van een andere accountant kunnen worden gebruikt met betrekking
 
 **A74**
 
-Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op de aard, timing en omvang van de aansturing van en het toezicht op opdrachtteams en de beoordeling van hun werk. De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist verder dat die aansturing, dat toezicht en die beoordeling wordt gepland en uitgevoerd met als uitgangspunt dat de werkzaamheden die worden uitgevoerd door de minder ervaren leden van het opdrachtteam worden aangestuurd, erop wordt toegezien en beoordeeld door de meer ervaren leden van het team.938NVKS, artikel 12.
+Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op de aard, timing en omvang van de aansturing van en het toezicht op opdrachtteams en de beoordeling van hun werk. De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist verder dat die aansturing, dat toezicht en die beoordeling wordt gepland en uitgevoerd met als uitgangspunt dat de werkzaamheden die worden uitgevoerd door de minder ervaren leden van het opdrachtteam worden aangestuurd, erop wordt toegezien en beoordeeld door de meer ervaren leden van het team.938NVKM, artikel 12.
 
 (Zie Par. 36(b))
 
@@ -15642,7 +15642,7 @@ Wanneer er gebruik wordt gemaakt van de werkzaamheden van een door de accountant
 
 **A124**
 
-Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
+Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKM](onbekend). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
 
 **A125**
 
@@ -15892,7 +15892,7 @@ Een vermelding die onnauwkeurige kwalificerende of beperkende formuleringen beva
 
 Het volgende is een voorbeeld van een vermelding in het assurance-rapport met betrekking tot van toepassing zijnde vereisten inzake kwaliteitsmanagement:
 
-‘**Wij passen de NVKS toe. Die vereist dat wij een kwaliteitsmanagementsysteem met inbegrip van beleidslijnen of procedures met betrekking tot het naleven van ethische voorschriften, professionele Standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten opzetten, implementeren en in werking houden.’**
+‘**Wij passen de NVKM toe. Die vereist dat wij een kwaliteitsmanagementsysteem met inbegrip van beleidslijnen of procedures met betrekking tot het naleven van ethische voorschriften, professionele Standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten opzetten, implementeren en in werking houden.’**
 
 (Zie Par. 69(k))
 
@@ -16044,7 +16044,7 @@ Documentatie kan een vastlegging omvatten van bijvoorbeeld:
 
 **A205**
 
-In Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement vereist dat accountantseenheden een kwaliteitssysteem vaststellen dat betrekking heeft op het tijdig samenstellen van opdrachtdocumentatie na de datum van de rapportage.943NVKS, artikel 4(2)(d). Een geschikt tijdbestek waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is gewoonlijk niet meer dan 2 maanden na de datum van het assurance-rapport.944NVKS, artikel 12(2)(j).
+In Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement vereist dat accountantseenheden een kwaliteitssysteem vaststellen dat betrekking heeft op het tijdig samenstellen van opdrachtdocumentatie na de datum van de rapportage.943NVKM, artikel 4(2)(d). Een geschikt tijdbestek waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is gewoonlijk niet meer dan 2 maanden na de datum van het assurance-rapport.944NVKM, artikel 12(2)(j).
 
 **A206**
 
@@ -16052,7 +16052,7 @@ De afronding van de samenstelling van het definitieve opdrachtdossier na de datu
 
 **A207**
 
-**De NVKS vereist dat assurance-dossiers tenminste zeven jaar worden bewaard nadat zij zijn afgesloten.** 945 NVKS, artikel 25, lid 1e.
+**De NVKM vereist dat assurance-dossiers tenminste zeven jaar worden bewaard nadat zij zijn afgesloten.** 945 NVKM, artikel 25, lid 1e.
 
 (Zie Par. 2, A8, A11, A36, A37, A38)
 
@@ -16218,9 +16218,9 @@ Onder een effectief kwaliteitsmanagementsysteem valt een monitorings- en herstel
 
 **36**
 
-Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) of de beleidslijnen of procedures van de accountantseenheid, geldt dat:
+Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKM](onbekend) of de beleidslijnen of procedures van de accountantseenheid, geldt dat:
 
-de opdrachtpartner met de opdrachtgerichte kwaliteitsbeoordelaar significante aangelegenheden en significante oordeelsvormingen dient te bespreken die zich tijdens de opdracht voordoen. De opdrachtpartner dient het assurance-rapport niet te dateren voordat die beoordeling is afgerond.947NVKS, artikel 13(2)(b)
+de opdrachtpartner met de opdrachtgerichte kwaliteitsbeoordelaar significante aangelegenheden en significante oordeelsvormingen dient te bespreken die zich tijdens de opdracht voordoen. De opdrachtpartner dient het assurance-rapport niet te dateren voordat die beoordeling is afgerond.947NVKM, artikel 13(2)(b)
 
 **37**
 
@@ -16752,7 +16752,7 @@ Deze Standaard is geschreven in de context van een aantal maatregelen die moeten
 
 **A61**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKS bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKS behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.949NVKS, artikel 13(1). De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.950NVKS, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
+De [NVKM](onbekend) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKM bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.949NVKM, artikel 13(1). De [NVKM](onbekend) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.950NVKM, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
 
 Accountantseenheden of nationale vereisten kunnen andere terminologie of raamwerken gebruiken om de componenten van het kwaliteitsmanagementsysteem te beschrijven.
 
@@ -16772,7 +16772,7 @@ Gewoonlijk mag het opdrachtteam vertrouwen op het kwaliteitsmanagementsysteem va
 
 Het opdrachtteam kan bijvoorbeeld vertrouwen op het kwaliteitsmanagementsysteem van de accountantseenheid met betrekking tot:
 
-Bij het in overweging nemen van geïdentificeerde tekortkomingen951NVKS, artikel 22(2). in het kwaliteitsmanagementsysteem van de accountantseenheid die invloed kunnen hebben op de assurance-opdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
+Bij het in overweging nemen van geïdentificeerde tekortkomingen951NVKM, artikel 22(2). in het kwaliteitsmanagementsysteem van de accountantseenheid die invloed kunnen hebben op de assurance-opdracht, kan de opdrachtpartner rekening houden met de herstelacties die de accountantseenheid heeft ondernomen om in te spelen op die tekortkomingen.
 
 **A66**
 
@@ -16792,7 +16792,7 @@ De [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) eist van de accountan
 
 **A69**
 
-De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op het aanvaarden en continueren van cliëntrelaties en assurance-opdrachten. Dit heeft betrekking op de geschiktheid van oordeelsvormingen door de accountantseenheid over de aanvaarding of continuering van relaties en opdrachten die zijn gebaseerd op het vermogen van de accountantseenheid om de opdracht uit te voeren in overeenstemming met professionele standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten.953NVKS, artikel 4(2)(a).
+De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op het aanvaarden en continueren van cliëntrelaties en assurance-opdrachten. Dit heeft betrekking op de geschiktheid van oordeelsvormingen door de accountantseenheid over de aanvaarding of continuering van relaties en opdrachten die zijn gebaseerd op het vermogen van de accountantseenheid om de opdracht uit te voeren in overeenstemming met professionele standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten.953NVKM, artikel 4(2)(a).
 
 (Zie Par. 32(a), 32(b)(i))
 
@@ -16818,7 +16818,7 @@ De werkzaamheden van een andere accountant kunnen worden gebruikt met betrekking
 
 **A74**
 
-Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op de aard, timing en omvang van de aansturing van en het toezicht op opdrachtteams en de beoordeling van hun werk. De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist verder dat die aansturing, dat toezicht en die beoordeling wordt gepland en uitgevoerd met als uitgangspunt dat de werkzaamheden die worden uitgevoerd door de minder ervaren leden van het opdrachtteam worden aangestuurd, erop wordt toegezien en beoordeeld door de meer ervaren leden van het team.954NVKS, artikel 12.
+Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is vereist dat de accountantseenheid een kwaliteitssysteem vaststelt dat betrekking heeft op de aard, timing en omvang van de aansturing van en het toezicht op opdrachtteams en de beoordeling van hun werk. De in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement vereist verder dat die aansturing, dat toezicht en die beoordeling wordt gepland en uitgevoerd met als uitgangspunt dat de werkzaamheden die worden uitgevoerd door de minder ervaren leden van het opdrachtteam worden aangestuurd, erop wordt toegezien en beoordeeld door de meer ervaren leden van het team.954NVKM, artikel 12.
 
 (Zie Par. 36(b))
 
@@ -17062,7 +17062,7 @@ Wanneer er gebruik wordt gemaakt van de werkzaamheden van een door de accountant
 
 **A124**
 
-Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
+Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKM](onbekend). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
 
 **A125**
 
@@ -17312,7 +17312,7 @@ Een vermelding die onnauwkeurige kwalificerende of beperkende formuleringen beva
 
 Het volgende is een voorbeeld van een vermelding in het assurance-rapport met betrekking tot van toepassing zijnde vereisten inzake kwaliteitsmanagement:
 
-**Wij passen de NVKS toe. Die vereist dat wij een kwaliteitsmanagementsysteem met inbegrip van beleidslijnen of procedures met betrekking tot het naleven van ethische voorschriften, professionele Standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten opzetten, implementeren en in werking houden.**
+**Wij passen de NVKM toe. Die vereist dat wij een kwaliteitsmanagementsysteem met inbegrip van beleidslijnen of procedures met betrekking tot het naleven van ethische voorschriften, professionele Standaarden en van toepassing zijnde door wet- en regelgeving gestelde vereisten opzetten, implementeren en in werking houden.**
 
 (Zie Par. 69(k))
 
@@ -17464,7 +17464,7 @@ Documentatie kan een vastlegging omvatten van bijvoorbeeld:
 
 **A205**
 
-In Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement vereist dat accountantseenheden een kwaliteitssysteem vaststellen dat betrekking heeft op het tijdig samenstellen van opdrachtdocumentatie na de datum van de rapportage.959NVKS, artikel 4(2)(d). Een geschikt tijdbestek waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is gewoonlijk niet meer dan 2 maanden na de datum van het assurance-rapport.960NVKS, artikel 12(2)(j).
+In Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement vereist dat accountantseenheden een kwaliteitssysteem vaststellen dat betrekking heeft op het tijdig samenstellen van opdrachtdocumentatie na de datum van de rapportage.959NVKM, artikel 4(2)(d). Een geschikt tijdbestek waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is gewoonlijk niet meer dan 2 maanden na de datum van het assurance-rapport.960NVKM, artikel 12(2)(j).
 
 **A206**
 
@@ -17472,7 +17472,7 @@ De afronding van de samenstelling van het definitieve opdrachtdossier na de datu
 
 **A207**
 
-**De NVKS vereist dat assurance-dossiers tenminste zeven jaar worden bewaard nadat zij zijn afgesloten** 961 NVKS, artikel 25(1)(e)..
+**De NVKM vereist dat assurance-dossiers tenminste zeven jaar worden bewaard nadat zij zijn afgesloten** 961 NVKM, artikel 25(1)(e)..
 
 (Zie Par. 2, A8, A11, A36, A37 en A38)
 
@@ -17646,7 +17646,7 @@ Van de accountant van de serviceorganisatie is vereist Standaard 3000 en deze St
 
 **6**
 
-Het naleven van Standaard 3000 vereist onder andere naleving van de bepalingen van de **Verordening gedrags- en beroepsregels accountants** ([VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635)) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten** ([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)) of – indien van toepassing- andere wettelijke of professionele vereisten die tenminste gelijkwaardig zijn.966Standaard 3000, Paragraaf 3(a), 20 en 34. Het vereist ook van de opdrachtpartner dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869).
+Het naleven van Standaard 3000 vereist onder andere naleving van de bepalingen van de **Verordening gedrags- en beroepsregels accountants** ([VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635)) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten** ([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)) of – indien van toepassing- andere wettelijke of professionele vereisten die tenminste gelijkwaardig zijn.966Standaard 3000, Paragraaf 3(a), 20 en 34. Het vereist ook van de opdrachtpartner dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKM](onbekend).
 
 **7**
 
@@ -18188,7 +18188,7 @@ Van de accountant is vereist om te voldoen aan Standaard 3000 en deze Standaard 
 
 **10**
 
-Het naleven van Standaard 3000 vereist onder andere het naleven van de bepalingen van de **Verordening gedrags- en beroepsregels accountants** (VGBA) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten** ([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)) of – indien van toepassing – andere vereisten die tenminste gelijkwaardig zijn.978Standaard 3000, paragraaf 3(a), 20 en 34. Het vereist tevens van de opdrachtpartner dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869).979Standaard 3000, paragraaf 3(b) en 31(a). (Zie Par. A5 en A6)
+Het naleven van Standaard 3000 vereist onder andere het naleven van de bepalingen van de **Verordening gedrags- en beroepsregels accountants** ([VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635)) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten** ([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)) of – indien van toepassing – andere vereisten die tenminste gelijkwaardig zijn.978Standaard 3000, paragraaf 3(a), 20 en 34. Het vereist tevens van de opdrachtpartner dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKM](onbekend).979Standaard 3000, paragraaf 3(b) en 31(a). (Zie Par. A5 en A6)
 
 **11**
 
@@ -19188,7 +19188,7 @@ Standaard 3000 vereist van de accountant dat hij tijdig opdrachtdocumentatie ops
 
 **A128**
 
-Tot de buitengewone omstandigheden behoren ook de gebeurtenissen waarvan de accountant kennis verkrijgt na de datum van het assurance-rapport, maar die op die datum wel bestonden. Wanneer ze op die datum bekend waren geweest, hadden ze aanleiding kunnen geven tot een wijziging van het emissieverslag of een aanpassing door de accountant van de conclusie in het assurance-rapport. Bijvoorbeeld het ontdekken van een niet-gecorrigeerde significante fout. De daaruit voortvloeiende wijzigingen in de opdrachtdocumentatie worden beoordeeld overeenkomstig de beleidslijnen of procedures van de accountantseenheid met betrekking tot de aard, timing en omvang van de beoordeling van de werkzaamheden van de leden van het opdrachtteam zoals die worden vereist door de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869). Hierbij neemt de opdrachtpartner de uiteindelijke verantwoordelijkheid voor de aangebrachte veranderingen op zich.995Nadere voorschriften kwaliteitssystemen, artikel 12.
+Tot de buitengewone omstandigheden behoren ook de gebeurtenissen waarvan de accountant kennis verkrijgt na de datum van het assurance-rapport, maar die op die datum wel bestonden. Wanneer ze op die datum bekend waren geweest, hadden ze aanleiding kunnen geven tot een wijziging van het emissieverslag of een aanpassing door de accountant van de conclusie in het assurance-rapport. Bijvoorbeeld het ontdekken van een niet-gecorrigeerde significante fout. De daaruit voortvloeiende wijzigingen in de opdrachtdocumentatie worden beoordeeld overeenkomstig de beleidslijnen of procedures van de accountantseenheid met betrekking tot de aard, timing en omvang van de beoordeling van de werkzaamheden van de leden van het opdrachtteam zoals die worden vereist door de [NVKM](onbekend). Hierbij neemt de opdrachtpartner de uiteindelijke verantwoordelijkheid voor de aangebrachte veranderingen op zich.995Nadere voorschriften kwaliteitsmanagement, artikel 12.
 
 (Zie Par. 69)
 
@@ -19344,7 +19344,7 @@ Van de accountant is vereist om Standaard 3000 en deze Standaard na te leven bij
 
 **8**
 
-Het naleven van Standaard 3000 vereist, onder andere, naleving van de bepalingen van de **Verordening gedrags- en beroepsregels**([VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635)) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten**([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)).999Standaard 3000, paragraaf 3(a), 20 en 34. Het vereist van de opdrachtpartner ook dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869).1000Standaard 3000, paragraaf 3(b) en 1(a).
+Het naleven van Standaard 3000 vereist, onder andere, naleving van de bepalingen van de **Verordening gedrags- en beroepsregels**([VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635)) en de **Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten**([ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652)).999Standaard 3000, paragraaf 3(a), 20 en 34. Het vereist van de opdrachtpartner ook dat deze werkzaam is bij of verbonden is aan een accountantseenheid die onderworpen is aan de [NVKM](onbekend).1000Standaard 3000, paragraaf 3(b) en 1(a).
 
 **9**
 
@@ -21080,7 +21080,7 @@ In de rapportage verwijst de accountant uitsluitend naar deze Standaard en niet 
 
 **5**
 
-Als een accountantseenheid een onderzoek naar de toepassing van de NOW-regeling uitvoert, gelden de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) (NVKS). In deze Standaard is in paragraaf 24 een bepaling over kwaliteitsbeheersing op het niveau van afzonderlijke opdrachten bij de NOW-regeling opgenomen. (Zie Par. A4 – A5)
+Als een accountantseenheid een onderzoek naar de toepassing van de NOW-regeling uitvoert, gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend) (NVKM)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen . In deze Standaard is in paragraaf 24 een bepaling over kwaliteitsbeheersing op het niveau van afzonderlijke opdrachten bij de NOW-regeling opgenomen. (Zie Par. A4 – A5)
 
 **6**
 
@@ -21568,7 +21568,7 @@ De toepassingsgerichte teksten die gekoppeld zijn aan de vereisten uit de andere
 
 **A4**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) stelt voor assurance-opdrachten extra voorwaarden waardoor het voor sommige accountantseenheden mogelijk kan zijn dat zij opdrachten die gericht zijn op het geven van zekerheid niet uit kunnen voeren of daarvoor hun kwaliteitssysteem moeten aanpassen.
+De [NVKM](onbekend) stelt voor assurance-opdrachten extra voorwaarden waardoor het voor sommige accountantseenheden mogelijk kan zijn dat zij opdrachten die gericht zijn op het geven van zekerheid niet uit kunnen voeren of daarvoor hun kwaliteitssysteem moeten aanpassen.
 
 Mocht een accountantseenheid assurance-opdrachten moeten / willen uitvoeren in het kader van de NOW en twijfelen of zij aan de voorwaarden voldoet, dan wordt geadviseerd contact op te nemen met een serviceorganisatie of met de NBA. (Zie Par. 5)
 
@@ -21584,7 +21584,7 @@ In een accountantsorganisatie worden wettelijke controles uitgevoerd zoals bedoe
 
 Accountantsorganisaties en accountantskantoren worden gezamenlijk aangeduid als accountantspraktijken.
 
-Voor nadere toelichtingen op dit onderwerp wordt verwezen naar de Verordening op de ledengroepen en de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869). (Zie Par. 5)
+Voor nadere toelichtingen op dit onderwerp wordt verwezen naar de Verordening op de ledengroepen en de [NVKM](onbekend). (Zie Par. 5)
 
 **A6**
 
@@ -21780,7 +21780,7 @@ Deze Standaard is een op zichzelf staande standaard. NBA heeft bij de totstandko
 
 Waar in deze Standaard verwacht wordt dat de accountant aandacht besteedt aan deze onderwerpen is dat in deze Standaard in vereisten uitgewerkt. Daarbij is ervoor gekozen – ter voorkoming van onnodige doublures – om bepaalde vereisten in andere standaarden van overeenkomstige toepassing te verklaren. De accountant hoeft dus geen invulling te geven aan de andere vereisten in andere standaarden. In bijlage 1 van deze Standaard is in een tabel inzichtelijk gemaakt welke vereisten wel en niet van toepassing zijn.
 
-Uiteraard gelden ook andere regels van de NBA zoals de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869), [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), [ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (voor assurance-opdrachten) en de NV NOCLAR. (Zie Par. 18)
+Uiteraard gelden ook andere regels van de NBA zoals de [NVKM](onbekend), [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), [ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (voor assurance-opdrachten) en de NV NOCLAR. (Zie Par. 18)
 
 **A30**
 
@@ -22180,7 +22180,7 @@ Deze Standaard is van toepassing op de uitvoering van opdrachten tot het verrich
 
 **3**
 
-Het kwaliteitsmanagementsysteem en de beleidslijnen of procedures zijn de verantwoordelijkheid van de accountantseenheid. Als een accountantseenheid opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden uitvoert, gelden de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) (NVKS). In deze Standaard zijn bepalingen over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden opgenomen. Hierbij is het uitgangspunt dat de accountantseenheid onderworpen is aan de NVKS of vereisten die minstens zo veeleisend zijn. (Zie Par. A3, A4, A5, A6, A7 en A8)
+Het kwaliteitsmanagementsysteem en de beleidslijnen of procedures zijn de verantwoordelijkheid van de accountantseenheid. Als een accountantseenheid opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden uitvoert, gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend) (NVKM)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen . In deze Standaard zijn bepalingen over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden opgenomen. Hierbij is het uitgangspunt dat de accountantseenheid onderworpen is aan de NVKM of vereisten die minstens zo veeleisend zijn. (Zie Par. A3, A4, A5, A6, A7 en A8)
 
 **4**
 
@@ -22334,7 +22334,7 @@ De bovenstaande lijst is niet uitputtend. Naarmate de vraag naar externe verslag
 
 **A3**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor aan assurance verwante opdrachten, waaronder opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden, op te zetten, te implementeren en in werking te houden. De NVKS behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.1014Artikel 13(1) van de NVKS De NVKS behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
+De [NVKM](onbekend) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor aan assurance verwante opdrachten, waaronder opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden, op te zetten, te implementeren en in werking te houden. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.1014Artikel 13(1) van de NVKM De NVKM behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
 
 **A4**
 
@@ -22342,7 +22342,7 @@ Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is 
 
 **A5**
 
-Een rechtsgebied dat de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) niet heeft overgenomen met betrekking tot opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden kan eisen hebben gesteld aan het kwaliteitsmanagement van accountantspraktijken die dergelijke opdrachten verrichten. De bepalingen in deze Standaard over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten veronderstellen dat de betreffende vereisten op het gebied van kwaliteitsmanagement minstens zo veeleisend zijn als de vereisten uit de NVKS. Dit wordt bereikt wanneer deze vereisten de vereisten van de NVKS behandelen en de accountantseenheid verplichtingen opleggen om de doelstellingen van de NVKS te bereiken. Het kwaliteitsmanagementsysteem van de accountantseenheid kan betrekking hebben op de volgende acht componenten:
+Een rechtsgebied dat de [NVKM](onbekend) niet heeft overgenomen met betrekking tot opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden kan eisen hebben gesteld aan het kwaliteitsmanagement van accountantspraktijken die dergelijke opdrachten verrichten. De bepalingen in deze Standaard over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten veronderstellen dat de betreffende vereisten op het gebied van kwaliteitsmanagement minstens zo veeleisend zijn als de vereisten uit de NVKM. Dit wordt bereikt wanneer deze vereisten de vereisten van de NVKM behandelen en de accountantseenheid verplichtingen opleggen om de doelstellingen van de NVKM te bereiken. Het kwaliteitsmanagementsysteem van de accountantseenheid kan betrekking hebben op de volgende acht componenten:
 
 **A6**
 
@@ -22446,11 +22446,11 @@ Bij het nemen van de algehele verantwoordelijkheid voor het managen en bereiken 
 
 **A25**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) vereist van de accountantseenheid om een kwaliteitssysteem vast te stellen dat betrekking heeft op de geschiktheid van de oordeelsvormingen over het aanvaarden of continueren van een cliëntrelatie of opdracht op basis van informatie die is verkregen over de aard en omstandigheden van de opdracht tot het verrichten van overeengekomen specifieke werkzaamheden en de integriteit en ethische waarden van de cliënt (met inbegrip van het management, en, indien van toepassing, de met governance belaste personen) die voldoende is om zulke oordeelsvormingen te ondersteunen. Indien de opdrachtpartner redenen heeft om de integriteit van het management in zodanige mate in twijfel te trekken dat dit waarschijnlijk een goede uitvoering van de opdracht zal beïnvloeden, kan het niet passend zijn om de opdracht te aanvaarden.
+De [NVKM](onbekend) vereist van de accountantseenheid om een kwaliteitssysteem vast te stellen dat betrekking heeft op de geschiktheid van de oordeelsvormingen over het aanvaarden of continueren van een cliëntrelatie of opdracht op basis van informatie die is verkregen over de aard en omstandigheden van de opdracht tot het verrichten van overeengekomen specifieke werkzaamheden en de integriteit en ethische waarden van de cliënt (met inbegrip van het management, en, indien van toepassing, de met governance belaste personen) die voldoende is om zulke oordeelsvormingen te ondersteunen. Indien de opdrachtpartner redenen heeft om de integriteit van het management in zodanige mate in twijfel te trekken dat dit waarschijnlijk een goede uitvoering van de opdracht zal beïnvloeden, kan het niet passend zijn om de opdracht te aanvaarden.
 
 **A26**
 
-In de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) is opgenomen dat de accountantseenheid ervoor verantwoordelijk is een kwaliteitssysteem dat betrekking heeft op de naleving van de verantwoordelijkheden in verband met de relevante ethische voorschriften vast te stellen. In deze Standaard zijn de verantwoordelijkheden van de opdrachtpartner met betrekking tot de naleving van relevante ethische voorschriften door het opdrachtteam uiteengezet.1020Artikel 4 en artikel 12 van de NVKS
+In de [NVKM](onbekend) is opgenomen dat de accountantseenheid ervoor verantwoordelijk is een kwaliteitssysteem dat betrekking heeft op de naleving van de verantwoordelijkheden in verband met de relevante ethische voorschriften vast te stellen. In deze Standaard zijn de verantwoordelijkheden van de opdrachtpartner met betrekking tot de naleving van relevante ethische voorschriften door het opdrachtteam uiteengezet.1020Artikel 4 en artikel 12 van de NVKM
 
 **A27**
 
@@ -22658,7 +22658,7 @@ Of externe partijen, anders dan de beoogde gebruikers van de samengestelde histo
 
 **4**
 
-Het kwaliteitsmanagementsysteem en de beleidslijnen of procedures zijn de verantwoordelijkheid van de accountantseenheid. Als een accountantseenheid samenstellingsopdrachten uitvoert, gelden de **Nadere voorschriften kwaliteitssystemen (NVKS**)1023NVKS artikel 2.. In deze Standaard zijn bepalingen over kwaliteitsmanagement op het niveau van afzonderlijke samenstellingsopdrachten opgenomen. Hierbij is het uitgangspunt dat de accountantseenheid onderworpen is aan de **NVKS**. (Zie Par. A6, A7, A8, A9, A10 en A11)
+Het kwaliteitsmanagementsysteem en de beleidslijnen of procedures zijn de verantwoordelijkheid van de accountantseenheid. Als een accountantseenheid samenstellingsopdrachten uitvoert, gelden de **Nadere voorschriften kwaliteitsmanagement (NVKM**)1023NVKM artikel 2.accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen. In deze Standaard zijn bepalingen over kwaliteitsmanagement op het niveau van afzonderlijke samenstellingsopdrachten opgenomen. Hierbij is het uitgangspunt dat de accountantseenheid onderworpen is aan de **NVKM**. (Zie Par. A6, A7, A8, A9, A10 en A11)
 
 **5**
 
@@ -22900,7 +22900,7 @@ Accountants kunnen tevens opdrachten aanvaarden om het management te ondersteune
 
 **A6**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) behandelt onder meer de verantwoordelijkheid van de accountantseenheid om een kwaliteitsmanagementsysteem voor aan assurance verwante opdrachten, waaronder samenstellingsopdrachten op te zetten, te implementeren en in werking te houden. De NVKS behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures op te zetten voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.1025Artikel 13(1) van de NVKS De NVKS behandelt de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, en de uitvoering en documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
+De [NVKM](onbekend) behandelt onder meer de verantwoordelijkheid van de accountantseenheid om een kwaliteitsmanagementsysteem voor aan assurance verwante opdrachten, waaronder samenstellingsopdrachten op te zetten, te implementeren en in werking te houden. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures op te zetten voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.1025Artikel 13(1) van de NVKM De NVKM behandelt de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, en de uitvoering en documentatie van de opdrachtgerichte kwaliteitsbeoordeling.
 
 **A7**
 
@@ -22908,7 +22908,7 @@ Onder de in Nederland geldende wet- en regelgeving voor kwaliteitsmanagement is 
 
 **A8**
 
-Een rechtsgebied dat de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) niet heeft overgenomen met betrekking tot samenstellingsopdrachten kan eisen hebben gesteld aan het kwaliteitsmanagement van accountantspraktijken die dergelijke opdrachten verrichten. De bepalingen in deze Standaard over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten veronderstellen dat de betreffende vereisten op het gebied van kwaliteitsmanagement minstens zo veeleisend zijn als de vereisten uit de NVKS. Dit wordt bereikt wanneer deze vereisten de vereisten van de NVKS behandelen en de accountantseenheid verplichtingen opleggen om de doelstellingen van de NVKS te bereiken.
+Een rechtsgebied dat de [NVKM](onbekend) niet heeft overgenomen met betrekking tot samenstellingsopdrachten kan eisen hebben gesteld aan het kwaliteitsmanagement van accountantspraktijken die dergelijke opdrachten verrichten. De bepalingen in deze Standaard over kwaliteitsmanagement op het niveau van afzonderlijke opdrachten veronderstellen dat de betreffende vereisten op het gebied van kwaliteitsmanagement minstens zo veeleisend zijn als de vereisten uit de NVKM. Dit wordt bereikt wanneer deze vereisten de vereisten van de NVKM behandelen en de accountantseenheid verplichtingen opleggen om de doelstellingen van de NVKM te bereiken.
 
 Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
 
@@ -23038,13 +23038,13 @@ Bij het nemen van de algehele verantwoordelijkheid voor het managen en bereiken 
 
 **A31**
 
-De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) vereist van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de geschiktheid van haar oordeelsvormingen over het aanvaarden of continueren van een cliëntrelatie of opdracht op basis van informatie die is verkregen over de aard en omstandigheden van de samenstellingsopdracht en de integriteit en ethische waarden van de cliënt (met inbegrip van het management, en, indien van toepassing, de met governance belaste personen) die voldoende is om zulke oordeelsvormingen te ondersteunen.
+De [NVKM](onbekend) vereist van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de geschiktheid van haar oordeelsvormingen over het aanvaarden of continueren van een cliëntrelatie of opdracht op basis van informatie die is verkregen over de aard en omstandigheden van de samenstellingsopdracht en de integriteit en ethische waarden van de cliënt (met inbegrip van het management, en, indien van toepassing, de met governance belaste personen) die voldoende is om zulke oordeelsvormingen te ondersteunen.
 
 (Zie Par. 23(b)(iii))
 
 **A32**
 
-In de [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) is opgenomen datde accountantseenheid ervoor verantwoordelijk is een kwaliteitssysteem dat betrekking heeft op de vervulling van de verantwoordelijkheden in verband met relevante ethische voorschriften vast te stellen. In deze Standaard zijn de verantwoordelijkheden van de opdrachtpartner met betrekking tot de naleving van relevante ethische voorschriften door het opdrachtteam uiteengezet.1031Artikel 4 en artikel 12 van de NVKS
+In de [NVKM](onbekend) is opgenomen datde accountantseenheid ervoor verantwoordelijk is een kwaliteitssysteem dat betrekking heeft op de vervulling van de verantwoordelijkheden in verband met relevante ethische voorschriften vast te stellen. In deze Standaard zijn de verantwoordelijkheden van de opdrachtpartner met betrekking tot de naleving van relevante ethische voorschriften door het opdrachtteam uiteengezet.1031Artikel 4 en artikel 12 van de NVKM
 
 (Zie Par. 24(a))
 
@@ -23260,7 +23260,7 @@ In deze standaard zijn twee opties gecreëerd om tot administratieve lastenverli
 
 **2**
 
-Als een accountantseenheid een opdracht uitvoert volgens deze Standaard bij een NOW-aanvraag tot vaststelling gelden de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) (NVKS) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht bij de NOW-regeling opgenomen.
+Als een accountantseenheid een opdracht uitvoert volgens deze Standaard bij een NOW-aanvraag tot vaststelling gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen (NVKM) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht bij de NOW-regeling opgenomen.
 
 **3**
 
@@ -23592,7 +23592,7 @@ Dit houdt onder meer in:
 
 Ter waarborging van de objectiviteit van de accountant die een aan assurance verwante NOW opdracht uitvoert, is een opdrachtgerichte kwaliteitsbeoordeling (OKB) vereist. Dit is een waarborg in verband met het ontbreken van een verplichting om onafhankelijk te zijn van de cliënt. Alhoewel de [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) niet van toepassing is, is hier de analogie toegepast dat een OKB een maatregel kan zijn bij deze bedreiging van objectiviteit.
 
-De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) is hier vormvrij in.
+De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](onbekend) is hier vormvrij in.
 
 De opdrachtgerichte kwaliteitsbeoordelaar laat de diepgang van de werkzaamheden afhangen van de aard en omvang van de opdracht. Desgewenst kan bij de OKB ook nagegaan worden of de opdracht vakbekwaam en zorgvuldig is uitgevoerd. (Zie Par. 19)
 
@@ -23784,7 +23784,7 @@ Deze Standaard kan alleen worden toegepast als het accountantsprotocol behorende
 
 **3**
 
-Als een accountantseenheid een opdracht uitvoert volgens deze Standaard gelden de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) (NVKS) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht opgenomen.
+Als een accountantseenheid een opdracht uitvoert volgens deze Standaard gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen ([NVKM](onbekend)) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht opgenomen.
 
 **4**
 
@@ -24038,7 +24038,7 @@ Dat neemt niet weg dat gezien het belang van de covid-19 gerelateerde subsidies 
 
 **A14**
 
-De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) is hier vormvrij in.
+De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](onbekend) is hier vormvrij in.
 
 De opdrachtgerichte kwaliteitsbeoordelaar laat de diepgang van de werkzaamheden afhangen van de aard en omvang van de opdracht. Desgewenst kan bij de OKB ook nagegaan worden of de opdracht vakbekwaam en zorgvuldig is uitgevoerd. (Zie Par. 20)
 
