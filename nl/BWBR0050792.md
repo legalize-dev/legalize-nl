@@ -4,7 +4,7 @@ identifier: "BWBR0050792"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2025-01-02"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050792"
 soort: "pbo"
@@ -109,7 +109,7 @@ Een eindverantwoordelijke voor kwaliteitsmanagement zorgt ervoor dat het kantoor
 
 2. Onverminderd het eerste lid blijven de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) zoals deze luidden tot de inwerkingtreding van deze nadere voorschriften tot 1 januari 2027 van toepassing op een stelsel van kwaliteitsbeheersing van een kantoor dat niet kwalificeert als accountantsorganisatie, voor zover dat stelsel conform de tot en met 31 december 2024 geldende eisen is ingericht.
 
-3. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050792&hoofdstuk=3&artikel=8&z=2025-02-21&g=2025-01-02), is niet van toepassing wanneer en zolang de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) op grond de vorige leden van toepassing zijn.
+3. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050792&hoofdstuk=3&artikel=8&z=2025-02-21&g=2025-02-21), is niet van toepassing wanneer en zolang de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) op grond de vorige leden van toepassing zijn.
 
 4. Besluiten genomen op grond van de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) die gelden op het tijdstip van inwerkingtreding van deze nadere voorschriften, worden geacht te zijn genomen op grond van deze nadere voorschriften, onder dezelfde voorschriften, beperkingen en voorwaarden.
 
