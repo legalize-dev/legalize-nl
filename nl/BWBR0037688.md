@@ -4,7 +4,7 @@ identifier: "BWBR0037688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-10-01"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037688"
 soort: "ministeriele-regeling"
@@ -115,6 +115,30 @@ Het verschuldigde toltarief, bedoeld in [artikel 7b, eerste lid van de wet](http
 ##### Artikel 2d. (betalingstermijn toltarief dienstaanbieder aan de Minister)
 
 Het verschuldigde toltarief, bedoeld in [artikel 8e, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=8e), wordt binnen vier weken betaald.
+
+### Hoofdstuk 3. Overige en slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2ab. (gelijkstellen motorrijtuigen aan ambulances)
+
+1. Met ambulances als bedoeld in [artikel 6, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=6) worden gelijkgesteld:
+
+- a. andere motorrijtuigen dan ambulances die uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening en die tevens voldoen aan het tweede lid;
+
+- b. motorrijtuigen die worden ingezet voor het redden van drenkelingen en die tevens voldoen aan het derde lid.
+
+2. De andere motorrijtuigen, bedoeld in het eerste lid, onderdeel a:
+
+- a. worden gebruikt door de regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4), of
+
+- b. worden gebruikt door de noodhulpteams van het Rode Kruis die een convenant hebben gesloten met de Geneeskundige Hulpverleningsorganisatie in de Regio voor het verlenen van hulp als bedoeld in het [Kaderbesluit mrb](https://wetten.overheid.nl/jci1.3:c:BWBR0050354).
+
+3. De motorrijtuigen, bedoeld in het eerste lid, onderdeel b:
+
+- a. zijn geregistreerd op naam van een organisatie die krachtens haar statuten ten doel heeft het voorkomen van de verdrinkingsdood en is aangewezen als hulpverleningsdienst als bedoeld in [artikel 1, Regeling optische en geluidssignalen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1), en
+
+- b. worden nagenoeg uitsluitend gebruikt voor activiteiten gericht op het redden van drenkelingen.
 
 ### Hoofdstuk 3. Overige en slotbepalingen
 
