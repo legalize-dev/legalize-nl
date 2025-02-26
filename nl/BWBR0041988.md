@@ -4,7 +4,7 @@ identifier: "BWBR0041988"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-26"
-last_updated: "2019-03-12"
+last_updated: "2025-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041988"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ geschiedt in overeenstemming met de directeur-generaal Politie en Veiligheidsreg
 
 ##### Artikel 4
 
-1. Aan de directeur-generaal Politie, Straffen en Beschermen blijven voorbehouden de bevoegdheden ter uitvoering van het bestedingsplan die verband houden met de vernieuwing en aanbestedingen van C2000.
+1. Aan de Directeur-Generaal Politie en Veiligheidsregio’s blijven voorbehouden de bevoegdheden ter uitvoering van het bestedingsplan die verband houden met de vernieuwing en aanbestedingen van C2000.
 
 2. Aan de korpschef wordt machtiging verleend voor het uitvoeren van de taken in het kader van de bedrijfsvoering die verband houden met de uitvoering van de in het eerste lid genoemde bevoegdheden, waaronder het doen van betalingen en het bijhouden van de administratie.
 
@@ -98,13 +98,15 @@ De korpschef kan ten aanzien van de aan hem gemandateerde bevoegdheden ondermand
 
 ##### Artikel 6
 
-Ondertekening van besluiten en stukken door de korpschef met betrekking tot de uitoefening van aan hem gemandateerde bevoegdheden bedoeld vindt plaats op de volgende wijze:
+Ondertekening van besluiten en stukken door de korpschef met betrekking tot de uitoefening van aan hem gemandateerde bevoegdheden bedoeld in dit besluit, vindt plaats op de volgende wijze:
 
 De Minister van Justitie en Veiligheid
 
 namens deze,
 
-E.S.M. Akerboom
+(handtekening)
+
+(naam)
 
 De korpschef van politie
 
