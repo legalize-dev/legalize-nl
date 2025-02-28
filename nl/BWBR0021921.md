@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2024-12-31"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -54,8 +54,6 @@ Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene ve
 
 ## Bijlage. bij de Warenwetregeling aanwijzing algemene veiligheidsnormen
 
-EN 581-1:2006 Buitenmeubelen – Zitmeubelen en tafels voor gebruik op campings, in huishoudens en voor verhuurdoeleinden – Deel 1: Algemene veiligheidseisen
-
 EN 716-1:2017+AC:2019 Meubelen – Kinderledikanten en opvouwbare kinderbedjes voor huishoudelijk gebruik – Deel 1: Veiligheidsvoorschriften
 
 EN 913:2018 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
@@ -82,13 +80,9 @@ EN 1130:2019 Kindermeubelen – Wiegen – Veiligheidseisen en beproevingsmethod
 
 EN 1272:2017 Artikelen voor zuigelingen en peuters – Aan een tafel bevestigde stoelen – Veiligheidseisen en beproevingsmethoden
 
-EN 1273:2005 Artikelen voor zuigelingen en peuters – Loopstoeltjes – Veiligheidseisen en beproevingsmethoden
-
 EN 1400:2013+A2:2018 Artikelen voor zuigelingen en peuters – Fopspenen voor baby’s en kleine kinderen – Veiligheidseisen en beproevingsmethoden
 
 EN 1466:2014 Artikelen voor zuigelingen en peuters – Reiswiegen en standaards – Veiligheidseisen en beproevingsmethoden EN 1466:2014/AC:2015
-
-EN 1651:1999 Uitrusting voor schermvliegen – Harnasgordels – Veiligheidseisen en sterktebeproevingen
 
 EN 1930:2011 Artikelen voor zuigelingen en peuters – Veiligheidshekjes – Veiligheidseisen en beproevingsmethoden
 
@@ -127,8 +121,6 @@ EN 12221-2:2008+A1:2013 Artikelen voor zuigelingen en peuters – Kindercommodes
 EN 12346:1998 Turntoestellen – Balken, ladders en klimrekken Veiligheidseisen en beproevingsmethoden
 
 EN 12432:1998 Turntoestellen – Evenwichtsbalken – Functionele en veiligheidseisen, beproevingsmethoden
-
-EN 12491:2001 Schermvliegtuigen – Noodparachutes – Veiligheidseisen en beproevingsmethoden
 
 EN 12655:1998 Turntoestellen – Ringentoestellen – Functionele en veiligheidseisen, beproevingsmethoden
 
