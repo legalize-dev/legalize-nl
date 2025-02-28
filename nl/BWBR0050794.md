@@ -4,7 +4,7 @@ identifier: "BWBR0050794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-29"
-last_updated: "2025-02-26"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050794"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **CBS:** Centraal bureau voor de statistiek als bedoeld in [artikel 1 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=1);
 
-- **coalitie-aanmelding:** aanmelding als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-02-26);
+- **coalitie-aanmelding:** aanmelding als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-02-28&g=2025-02-28);
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **leerling met niet-Nederlandse culturele achtergrond:** een leerling met een achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=1);
 
-- **lokale coalitie:** groep van lokale partijen, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-02-26), die gezamenlijk betrokken zijn bij de ontwikkeling en uitvoering van het programma School en Omgeving;
+- **lokale coalitie:** groep van lokale partijen, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-02-28&g=2025-02-28), die gezamenlijk betrokken zijn bij de ontwikkeling en uitvoering van het programma School en Omgeving;
 
 - **lokale partij:** partij die opereert in de fysieke omgeving van een school, zoals een zorginstelling, bibliotheek, instelling op het gebied van sociaal werk, welzijnsorganisatie, sportvereniging, cultuurinstelling of kinderopvang;
 
@@ -78,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - **programma School en Omgeving:** lokaal programma verrijkte schooldag met activiteiten buiten de reguliere onderwijstijd van een vestiging, aangeboden door een lokale coalitie ten behoeve van leerlingen op scholen met relatief veel leerlingen met een risico op een onderwijsachterstand;
 
-- **regievoerder:** regievoerder als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-02-26);
+- **regievoerder:** regievoerder als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-02-28&g=2025-02-28);
 
-- **relatief aantal leerlingen met een niet-Nederlandse culturele achtergrond:** het aantal leerlingen met een niet-Nederlandse culturele achtergrond op de vestiging gedeeld door het totale aantal leerlingen dat op de vestiging is ingeschreven op 1 februari 2024 zoals bekend bij de Dienst Uitvoering Onderwijs, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-10-29&g=2025-02-26);
+- **relatief aantal leerlingen met een niet-Nederlandse culturele achtergrond:** het aantal leerlingen met een niet-Nederlandse culturele achtergrond op de vestiging gedeeld door het totale aantal leerlingen dat op de vestiging is ingeschreven op 1 februari 2024 zoals bekend bij de Dienst Uitvoering Onderwijs, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-02-28&g=2025-02-28);
 
-- **relatieve onderwijsachterstandsscore:** Deze scores zijn opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-10-29&g=2025-02-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=2&z=2025-10-29&g=2025-02-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-10-29&g=2025-02-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=4&z=2025-10-29&g=2025-02-26);
+- **relatieve onderwijsachterstandsscore:** Deze scores zijn opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-02-28&g=2025-02-28), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=2&z=2025-02-28&g=2025-02-28), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-02-28&g=2025-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=4&z=2025-02-28&g=2025-02-28);
 
 - a. Voor het primair onderwijs: achterstandsscore zonder drempel als bedoeld in [artikel 1 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=1) op 1 februari 2024, zoals gepubliceerd door het CBS op 7 oktober 2024;
 
@@ -100,7 +100,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
-1. De minister kan voor de schooljaren 2025–2026, 2026–2027 en 2027–2028 subsidie verstrekken aan een bevoegd gezag van een school met een vestiging die is opgenomen in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-10-29&g=2025-02-26), als deelnemer aan een lokale coalitie voor het uitvoeren van een programma School en Omgeving, dat aansluit bij het curriculum van de desbetreffende school en ten dienste staat van een succesvolle schoolloopbaan.
+1. De minister kan voor de schooljaren 2025–2026, 2026–2027 en 2027–2028 subsidie verstrekken aan een bevoegd gezag van een school met een vestiging die is opgenomen in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-02-28&g=2025-02-28), als deelnemer aan een lokale coalitie voor het uitvoeren van een programma School en Omgeving, dat aansluit bij het curriculum van de desbetreffende school en ten dienste staat van een succesvolle schoolloopbaan.
 
 2. De subsidie kan worden verstrekt voor de uitvoering van een programma School en Omgeving voor de volgende ontwikkelgebieden:
 
@@ -132,9 +132,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. Een lokale coalitie bestaat uit een bevoegd gezag van ten minste één deelnemende vestiging, ten minste één gemeente, waaronder in ieder geval de gemeente waarin ten minste één van de deelnemende vestigingen gelegen is, en ten minste één lokale partij.
 
-3. De regievoerder dient, tijdens de aanvraagperiode, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-10-29&g=2025-02-26), namens de lokale coalitie een coalitie-aanmelding in via de website van DUS-I voor de vorming van een coalitie. Bij de coalitie-aanmelding wordt een plan van aanpak als bedoeld in het vierde lid ingediend.
+3. De regievoerder dient, tijdens de aanvraagperiode, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-02-28&g=2025-02-28), namens de lokale coalitie een coalitie-aanmelding in via de website van DUS-I voor de vorming van een coalitie. Bij de coalitie-aanmelding wordt een plan van aanpak als bedoeld in het vierde lid ingediend.
 
-4. Het plan van aanpak bevat voor de periode, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26), in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval:
+4. Het plan van aanpak bevat voor de periode, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28), in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval:
 
 - a. de contactgegevens van de regievoerder;
 
@@ -158,7 +158,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 1. De subsidie wordt door het bevoegd gezag van een vestiging aangevraagd. Het bevoegd gezag kan per vestiging maximaal één aanvraag indienen.
 
-2. Een aanvraag wordt afgewezen als er geen coalitie-aanmelding als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-02-26), is gedaan.
+2. Een aanvraag wordt afgewezen als er geen coalitie-aanmelding als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-02-28&g=2025-02-28), is gedaan.
 
 3. Een subsidieaanvraag kan worden ingediend van 3 maart 2025, 09:00 uur tot en met 31 maart 2025, 16:00 uur. Aanvragen die na 31 maart 2025, 16:00 uur worden ingediend, worden afgewezen.
 
@@ -176,13 +176,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - f. het geschatte aantal leerlingen op vestigingsniveau dat zal deelnemen aan de activiteiten.
 
-5. Het ontwikkelaanbod gedurende de geschatte klokuren, bedoeld in het derde lid onderdeel e, is gericht op één of meer van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26), bedoelde ontwikkelgebieden.
+5. Het ontwikkelaanbod gedurende de geschatte klokuren, bedoeld in het derde lid onderdeel e, is gericht op één of meer van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28), bedoelde ontwikkelgebieden.
 
-6. Indien een bevoegd gezag op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26), een subsidieaanvraag doet, maakt het plan van aanpak van de lokale coalitie, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-02-26), onderdeel uit van deze subsidieaanvraag.
+6. Indien een bevoegd gezag op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28), een subsidieaanvraag doet, maakt het plan van aanpak van de lokale coalitie, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-02-28&g=2025-02-28), onderdeel uit van deze subsidieaanvraag.
 
 ##### Artikel 6. Subsidieplafond, maximale hoogte subsidie en activiteitenperiode
 
-1. Voor subsidieverstrekking overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=9&z=2025-10-29&g=2025-02-26) is op grond van deze regeling in totaal een bedrag beschikbaar van € 835.382.756,–, waarvan:
+1. Voor subsidieverstrekking overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=9&z=2025-02-28&g=2025-02-28) is op grond van deze regeling in totaal een bedrag beschikbaar van € 835.382.756,–, waarvan:
 
 - a. € 479.673.373,– beschikbaar is voor het primair onderwijs, met uitzondering van het speciaal onderwijs, het speciaal basisonderwijs en het voortgezet speciaal onderwijs;
 
@@ -194,13 +194,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. Indien een subsidieplafond als bedoeld in het eerste lid, ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, worden de aanvragen gerangschikt op aflopende relatieve onderwijsachterstandsscore, waarbij de subsidie voor de vestigingen met de hoogste scores wordt toegekend:
 
-- a. in het primair onderwijs, met uitzondering van het speciaal basisonderwijs en het (voortgezet) speciaal onderwijs, wordt gekeken naar de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-10-29&g=2025-02-26) opgenomen relatieve onderwijsachterstandsscores;
+- a. in het primair onderwijs, met uitzondering van het speciaal basisonderwijs en het (voortgezet) speciaal onderwijs, wordt gekeken naar de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-02-28&g=2025-02-28) opgenomen relatieve onderwijsachterstandsscores;
 
-- b. in het voortgezet onderwijs, met uitzondering van het praktijkonderwijs, wordt gekeken naar de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=2&z=2025-10-29&g=2025-02-26) opgenomen relatieve onderwijsachterstandsscores;
+- b. in het voortgezet onderwijs, met uitzondering van het praktijkonderwijs, wordt gekeken naar de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=2&z=2025-02-28&g=2025-02-28) opgenomen relatieve onderwijsachterstandsscores;
 
-- c. in het speciaal basisonderwijs, speciaal onderwijs en voortgezet speciaal onderwijs wordt gekeken naar de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-10-29&g=2025-02-26) opgenomen scores met betrekking tot het relatief aantal leerlingen met een niet-Nederlandse culturele achtergrond;
+- c. in het speciaal basisonderwijs, speciaal onderwijs en voortgezet speciaal onderwijs wordt gekeken naar de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=3&z=2025-02-28&g=2025-02-28) opgenomen scores met betrekking tot het relatief aantal leerlingen met een niet-Nederlandse culturele achtergrond;
 
-- d. in het praktijkonderwijs wordt gekeken naar de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=4&z=2025-10-29&g=2025-02-26) opgenomen relatieve onderwijsachterstandsscores.
+- d. in het praktijkonderwijs wordt gekeken naar de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=4&z=2025-02-28&g=2025-02-28) opgenomen relatieve onderwijsachterstandsscores.
 
 3. Iedere aanvrager krijgt, indien het subsidieplafond, bedoeld in het eerste lid, toereikend is, de mogelijkheid om in maart 2026 het aantal aangevraagde klokuren of het aantal aangevraagde leerlingen eenmalig tussentijds naar boven bij te stellen. De tussentijdse bijstelling heeft enkel effect op schooljaren 2026–2027 en 2027–2028. Er kan niet met terugwerkende kracht voor schooljaar 2025–2026 omhoog worden bijgesteld.
 
@@ -238,13 +238,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. Onverminderd de voorwaarde, bedoeld in [artikel 1.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.4), verstrekt de minister in het in het derde lid bedoelde geval de subsidies onder de opschortende voorwaarde dat het voorstel van wet tot wijziging van het voorstel van wet tot Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025 (Kamerstukken 36 600 VIII) tot wet wordt verheven en in werking treedt en dat uiterlijk op 1 juni 2025 onder toepassing van [artikel 2.26 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26), een voorstel van wet tot wijziging van die wet wordt ingediend, waarbij voldoende middelen beschikbaar worden gesteld voor de verstrekking van de subsidies en is voorzien in een kasritme dat de uitbetaling van de subsidies aan de hand van het in het zevende lid bedoelde betaalritme mogelijk maakt.
 
-3. De minister verstrekt een subsidie onder de in het tweede lid bedoelde opschortende voorwaarde, indien de subsidie wordt verstrekt ten laste van een voor subsidieverstrekking beschikbaar bedrag als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=6&z=2025-10-29&g=2025-02-26), terwijl van dat voor subsidieverstrekking beschikbare bedrag voor de hoger gerangschikte aanvragen reeds een bedrag is aangewend van:
+3. De minister verstrekt een subsidie onder de in het tweede lid bedoelde opschortende voorwaarde, indien de subsidie wordt verstrekt ten laste van een voor subsidieverstrekking beschikbaar bedrag als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=6&z=2025-02-28&g=2025-02-28), terwijl van dat voor subsidieverstrekking beschikbare bedrag voor de hoger gerangschikte aanvragen reeds een bedrag is aangewend van:
 
-- a. ten minste € 421.513.267,– voor aanvragen voor het primair onderwijs;
+- a. ten minste € 421.513.267,– voor aanvragen voor het primair onderwijs, met uitzondering van het speciaal onderwijs, het speciaal basisonderwijs en het voortgezet speciaal onderwijs;
 
-- b. ten minste € 33.403.081,– voor aanvragen voor het voortgezet onderwijs;
+- b. ten minste € 254.050.846,– voor aanvragen voor het voortgezet onderwijs, niet zijnde praktijkonderwijs;
 
-- c. ten minste € 254.050.846,– voor aanvragen voor het voortgezet onderwijs, niet zijnde praktijkonderwijs;
+- c. ten minste € 33.403.081,– voor aanvragen voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
 
 - d. ten minste € 25.125.908,– voor aanvragen voor het praktijkonderwijs.
 
@@ -264,7 +264,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. de vierde betaling in januari 2028, die 50 procent van het budget voor schooljaar 2027–2028 betreft.
 
-8. Indien tussentijds omhoog wordt bijgesteld, als bedoeld in [artikel 6 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=6&z=2025-10-29&g=2025-02-26), vindt er een extra betaling plaats in september 2026, die het aanvullende budget voor 50 procent van schooljaar 2026–2027 betreft.
+8. Indien tussentijds omhoog wordt bijgesteld, als bedoeld in [artikel 6 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=6&z=2025-02-28&g=2025-02-28), vindt er een extra betaling plaats in september 2026, die het aanvullende budget voor 50 procent van schooljaar 2026–2027 betreft.
 
 ##### Artikel 10. Verantwoording, vaststelling en terugvordering
 
@@ -272,15 +272,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. De subsidie wordt uiterlijk 22 weken na indiening van het eindverslag, bedoeld in het vijfde lid, én de jaarverslaggeving over het laatste jaar van de activiteitenperiode vastgesteld.
 
-3. De activiteiten waarvoor op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26), subsidie is verstrekt, worden als volledig verricht beschouwd, indien ten minste 75 procent van het aantal klokuren, bedoeld in [artikel 5, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-10-29&g=2025-02-26), zijn uitgevoerd.
+3. De activiteiten waarvoor op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28), subsidie is verstrekt, worden als volledig verricht beschouwd, indien ten minste 75 procent van het aantal klokuren, bedoeld in [artikel 5, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-02-28&g=2025-02-28), zijn uitgevoerd.
 
-4. Indien de activiteiten volledig zijn uitgevoerd en aan de subsidieverplichtingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=8&z=2025-10-29&g=2025-02-26), is voldaan, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd.
+4. Indien de activiteiten volledig zijn uitgevoerd en aan de subsidieverplichtingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=8&z=2025-02-28&g=2025-02-28), is voldaan, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd.
 
 5. De subsidieontvanger dient uiterlijk op 1 november 2028 bij DUS-I een eindverslag in. Een format daartoe wordt door DUS-I beschikbaar gesteld. In het eindverslag vermeldt de subsidieontvanger op welke manier hij zich heeft ingespannen om het aantal opgegeven leerlingen en het aantal gerealiseerde klokuren te bereiken. De vermelding van het aantal aangeboden klokuren, bedoeld in de derde volzin, geschiedt aan de hand van een uitsplitsing over de schooljaren 2025–2026, 2026–2027 en 2027–2028. Verder toont de subsidieontvanger in het eindverslag aan dat het aannemelijk is dat er gedurende het aantal aangeboden klokuren een ontwikkelaanbod is gerealiseerd en dat er zorg is gedragen voor de VOG-verklaringen van de betrokkenen.
 
-6. De subsidieontvanger meldt gedurende de subsidieperiode schriftelijk bij DUS-I indien het gemiddeld aantal aangeboden klokuren dat is gerealiseerd minder is dan 75 procent van het aangevraagde aantal klokuren. In dat geval kan de subsidie lager worden vastgesteld. Voor het lager vaststellen van de subsidie wordt uitgegaan van het gemiddeld aantal klokuren per week per schooljaar, waarbij klokuren die meetellen activiteiten betreffen die vallen onder de ontwikkelgebieden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26).
+6. De subsidieontvanger meldt gedurende de subsidieperiode schriftelijk bij DUS-I indien het gemiddeld aantal aangeboden klokuren dat is gerealiseerd minder is dan 75 procent van het aangevraagde aantal klokuren. In dat geval kan de subsidie lager worden vastgesteld. Voor het lager vaststellen van de subsidie wordt uitgegaan van het gemiddeld aantal klokuren per week per schooljaar, waarbij klokuren die meetellen activiteiten betreffen die vallen onder de ontwikkelgebieden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28).
 
-7. Indien het aantal klokuren, bedoeld in [artikel 5, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-10-29&g=2025-02-26), niet wordt gehaald, wordt na aftrek van een marge van 25 procent van het aantal aangevraagde klokuren naar rato teruggevorderd over de niet-gerealiseerde uren.
+7. Indien het aantal klokuren, bedoeld in [artikel 5, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=5&z=2025-02-28&g=2025-02-28), niet wordt gehaald, wordt na aftrek van een marge van 25 procent van het aantal aangevraagde klokuren naar rato teruggevorderd over de niet-gerealiseerde uren.
 
 8. Indien de activiteiten niet volledig zijn uitgevoerd of niet aan de verplichtingen is voldaan, kan de minister de subsidie lager vaststellen en het ontvangen subsidiebedrag naar rato terugvorderen.
 
@@ -304,7 +304,7 @@ Deze regeling is niet van toepassing op scholen op Caribisch Nederland.
 
 Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2028.
 
-## Bijlage 1. Primair onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26) van de Subsidieregeling School en Omgeving 2025–2028
+## Bijlage 1. Primair onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28) van de Subsidieregeling School en Omgeving 2025–2028
 
 | Vestigingscode | Leerlingtelling op basis waarvan CBS-achterstandsscores zijn bepaald | Achterstandsscore zonder drempel | Relatieve CBS-achterstandsscore |
 | --- | --- | --- | --- |
@@ -6351,7 +6351,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2
 | 32CF00 | 1 | 0 | 0,0000 |
 | 32CL00 | 11 | 0 | 0,0000 |
 
-## Bijlage 2. Voortgezet onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26) van de Subsidieregeling School en Omgeving 2025–2028
+## Bijlage 2. Voortgezet onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28) van de Subsidieregeling School en Omgeving 2025–2028
 
 | Vestigingscode | Leerlingtelling voortgezet onderwijs, met uitzondering van het praktijkonderwijs | Achterstandsscore zonder drempel | Relatieve onderwijs-achterstandsscore |
 | --- | --- | --- | --- |
@@ -7622,7 +7622,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2
 | 16OX13 | 33 | 0 | 0,0000 |
 | 16TS06 | 50 | 0 | 0,0000 |
 
-## Bijlage 3. Gespecialiseerd onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26) van de Subsidieregeling School en Omgeving 2025–2028
+## Bijlage 3. Gespecialiseerd onderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28) van de Subsidieregeling School en Omgeving 2025–2028
 
 | Vestigingscode | Leerlingtelling | NNCA-leerlingen | Aandeel NNCA-leerlingen |
 | --- | --- | --- | --- |
@@ -8459,7 +8459,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2
 | 26NC02 | 51 | 0 | 0,0000 |
 | 26NE00 | 78 | 0 | 0,0000 |
 
-## Bijlage 4. Praktijkonderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-02-26) van de Subsidieregeling School en Omgeving 2025–2028
+## Bijlage 4. Praktijkonderwijs behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-02-28&g=2025-02-28) van de Subsidieregeling School en Omgeving 2025–2028
 
 | Vestigingscode | Leerlingtelling praktijkonderwijs | Achterstandsscore zonder drempel | Relatieve onderwijs-achterstandsscore |
 | --- | --- | --- | --- |
