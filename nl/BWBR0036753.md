@@ -4,7 +4,7 @@ identifier: "BWBR0036753"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-28"
-last_updated: "2024-07-02"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036753"
 soort: "ministeriele-regeling"
@@ -56,7 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - d. **Autoriteit:** Autoriteit woningcorporaties, bedoeld in [artikel 60, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=60);
 
-- e. **Directie:** directie van WSW.
+- e. **Directie:** directie van WSW;
+
+- f. **borgingsvoorziening:** de borgingsvoorziening zoals bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
 
 ##### Artikel 2
 
@@ -72,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - e. het opleggen van een last onder dwangsom op grond van [artikel 105, eerste lid, aanhef en onderdeel c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105).
 
-De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, derde tot en met vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) en de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111), met uitzondering van het eerste lid, onderdeel e, [112](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=112), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=115), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=116) en [118 van het Besluit toegelaten Instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=118).
+De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, derde tot en met vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) en de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=112), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=115), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=116) en [118 van het Besluit toegelaten Instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=118).
 
 2. Aan de Directie wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen inzake de financiële saneringen van toegelaten instellingen, bedoeld in [artikel 71a, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=71a) zoals dit luidde voor 1 juli 2015, waartoe voorafgaand aan of na de inwerkingtreding van dit besluit is besloten.
 
@@ -80,13 +82,11 @@ De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, de
 
 4. [Afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) is van overeenkomstige toepassing op de in het eerste en tweede lid verleende machtigingen en de in het derde lid verleende volmacht.
 
-5. Het eerste en tweede lid zijn niet van toepassing op saneringsaanvragen die zijn ingediend voor de inwerkingtreding van dit besluit en waarop nog geen besluit is genomen, zoals bepaald in [artikel III, zesde lid van de Herzieningswet toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=III).
-
 ##### Artikel 3
 
-1. Het op grond van dit besluit verleende mandaat omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02).
+1. Het op grond van dit besluit verleende mandaat omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28).
 
-2. De Directie legt de beleidsregels voor voorafgaande schriftelijke instemming voor aan de Minister. Deze beleidsregels worden jaarlijks vastgesteld voor het daarop volgende kalenderjaar.
+2. De Directie legt de beleidsregels, alvorens over te gaan tot het vaststellen, wijzigen of intrekken daarvan, zoals bedoeld in het eerste lid, voor voorafgaande schriftelijke instemming voor aan de Minister.
 
 3. Deze beleidsregels bevatten in ieder geval de volgende onderwerpen:
 
@@ -94,9 +94,7 @@ De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, de
 
 - b. het moment waarop een toegelaten instelling in aanmerking komt voor sanering;
 
-- c. het betrekken van de gemeentelijke zienswijze bij de beoordeling van een saneringsplan;
-
-- d. de door het WSW te hanteren termijnen ten behoeve van de saneringsaanvraag en beoordeling.
+- c. de door het WSW te hanteren termijnen ten behoeve van de saneringsaanvraag en beoordeling.
 
 ##### Artikel 4
 
@@ -116,11 +114,11 @@ De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, de
 
 ##### Artikel 5
 
-1. De Directie verstrekt de Minister jaarlijks een onderbouwd voorstel voor de heffing voor alle toegelaten instellingen gezamenlijk, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02), inclusief de onderliggende berekening, waarbij de begroting, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=4&z=2025-02-28&g=2024-07-02), waarop de Minister in het voorgaande jaar schriftelijke instemming heeft verleend als uitgangspunt dient.
+1. De Directie verstrekt de Minister jaarlijks een onderbouwd voorstel voor de heffing voor alle toegelaten instellingen gezamenlijk, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28), inclusief de onderliggende berekening, waarbij de begroting, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=4&z=2025-02-28&g=2025-02-28), waarop de Minister in het voorgaande jaar schriftelijke instemming heeft verleend als uitgangspunt dient.
 
 2. Het voorstel, bedoeld in het eerste lid, wordt jaarlijks uiterlijk 1 september aan de Minister voorgelegd.
 
-3. De Directie kan pas overgaan tot het heffen van de bijdrage, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02), dan nadat de Minister de hoogte van deze bijdrage heeft vastgesteld.
+3. De Directie kan pas overgaan tot het heffen van de bijdrage, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28), dan nadat de Minister de hoogte van deze bijdrage heeft vastgesteld.
 
 ##### Artikel 6
 
@@ -140,15 +138,17 @@ De Directie houdt een zodanige administratie bij dat:
 
 ##### Artikel 8
 
-1. De Directie vraagt de Autoriteit om een zienswijze op:
+1. De Directie legt het saneringsplan, alvorens over te gaan tot goedkeuring daarvan, voor voorafgaande schriftelijke instemming voor aan de Minister.
 
-- a. het plan voor financiële sanering voor een toegelaten instelling, bedoeld in [artikel 57, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), jo. [artikel 29, eerste lid, tweede volzin, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
+2. De Directie vraagt de Autoriteit en de borgingsvoorziening om een zienswijze op:
+
+- a. het plan voor financiële sanering voor een toegelaten instelling, bedoeld in [artikel 57, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), jo. [artikel 29, tweede lid, tweede volzin, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
 
 - b. de aanvraag voor de te verstrekken subsidie, bedoeld in [artikel 57, eerste lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57).
 
-2. De Directie betrekt de zienswijze, bedoeld in het eerste lid, mits binnen 10 werkdagen verstrekt, gemotiveerd bij het besluit op het saneringsplan en het besluit tot het al dan niet verstrekken van de subsidie.
+3. De Directie betrekt de zienswijze, bedoeld in het tweede lid, mits binnen 10 werkdagen verstrekt, gemotiveerd bij het besluit op het saneringsplan en het besluit tot het al dan niet verstrekken van de subsidie.
 
-3. De Directie stelt samen met de Autoriteit een informatieprotocol vast.
+4. In geval van financiële sanering van een toegelaten instelling, maakt de Directie met de Autoriteit afspraken over de wijze waarop de Autoriteit gedurende de opstelling en uitvoering van het saneringsplan op de hoogte wordt gehouden.
 
 ##### Artikel 9
 
@@ -156,9 +156,9 @@ De Directie stemt de met dit besluit verleende bevoegdheden af met de werkzaamhe
 
 ##### Artikel 10
 
-De Directie kan een toegelaten instelling een aanwijzing geven op basis van [artikel 61d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61d) voor zover die aanwijzing betrekking heeft op de financiële sanering van de toegelaten instelling, of een last onder dwangsom op basis van [artikel 105 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105) opleggen, als bedoeld in [artikel 2 eerste lid aanhef en onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02). Indien een toegelaten instelling:
+De Directie kan een toegelaten instelling een aanwijzing geven op basis van [artikel 61d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61d) voor zover die aanwijzing betrekking heeft op de financiële sanering van de toegelaten instelling, of een last onder dwangsom op basis van [artikel 105 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105) opleggen, als bedoeld in [artikel 2 eerste lid aanhef en onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28). Indien een toegelaten instelling:
 
-- a. naar het oordeel van de Directie in onvoldoende mate een plan voor financiële sanering opstelt, bedoeld in [artikel 29, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
+- a. naar het oordeel van de Directie in onvoldoende mate een plan voor financiële sanering opstelt, bedoeld in [artikel 29, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
 
 - b. niet of in onvoldoende mate voldoet aan de voorwaarden die gesteld worden aan de aanvraag om een subsidie voor financiële sanering op grond van [artikel 111 van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111);
 
@@ -166,9 +166,9 @@ De Directie kan een toegelaten instelling een aanwijzing geven op basis van [art
 
 ##### Artikel 11
 
-1. De Directie kan voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=3&z=2025-02-28&g=2024-07-02) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
+1. De Directie kan voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=3&z=2025-02-28&g=2025-02-28) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
 
-2. De Directie kan de volmacht, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02), verlenen aan onder hem ressorterende functionarissen.
+2. De Directie kan de volmacht, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28), verlenen aan onder hem ressorterende functionarissen.
 
 3. Het verlenen van volmacht, ondermandaat of machtiging alsmede wijziging daarvan, geschiedt schriftelijk.
 
@@ -190,7 +190,7 @@ namens deze:
 
 ##### Artikel 13
 
-De Directie is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) of de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), voor zover die verband houden met de uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2024-07-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=3&z=2025-02-28&g=2024-07-02) van dit besluit bedoelde taken en bevoegdheden namens de minister af te doen. Dergelijke zaken worden door de Directie inhoudelijk voorbereid en ter afdoening, door tussenkomst van de Directie Constitutionele Zaken en Wetgeving van het ministerie, aan de secretaris-generaal van het ministerie onderscheidenlijk de minister voorgelegd.
+De Directie is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) of de Algemene verordening gegevensbescherming, voor zover die verband houden met de uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=3&z=2025-02-28&g=2025-02-28) van dit besluit bedoelde taken en bevoegdheden namens de minister af te doen. Dergelijke zaken worden door de Directie inhoudelijk voorbereid en ter afdoening, door tussenkomst van de Directie Constitutionele Zaken en Wetgeving van het ministerie, aan de directeur-generaal Volkshuisvesting en Bouwen onderscheidenlijk de secretaris-generaal van het ministerie.
 
 ##### Artikel 14
 
@@ -212,7 +212,7 @@ De Directie is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet op
 
 2. Het eerste lid is van overeenkomstige toepassing op bevoegdheden die zijn verleend op basis van volmacht en machtiging.
 
-3. De Directie informeert de minister schriftelijk onverwijld op diens verzoek en in ieder geval jaarlijks uiterlijk 1 september, voor het eerst in 2016, omtrent de voortgang met betrekking tot de met dit besluit verleende bevoegdheden.
+3. De Directie informeert de minister schriftelijk onverwijld op diens verzoek en in ieder geval jaarlijks uiterlijk 1 september omtrent de voortgang met betrekking tot de met dit besluit verleende bevoegdheden.
 
 4. De directie verstrekt uiterlijk 15 februari een verantwoording over de in het voorgaande jaar uitgekeerde saneringssubsidies en de gemaakte kosten voor de verstrekking daarvan, afgezet tegen de daarvoor begrote bedragen.
 
