@@ -4,7 +4,7 @@ identifier: "BWBR0049755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2024-06-04"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049755"
 soort: "ministeriele-regeling"
@@ -68,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **hogeronderwijsinstelling:** hogeschool of universiteit als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
 
-- e. **werknemersorganisatie:** rechtspersoon die financiering ontvangt van een universiteit, of een hogeschool of minister en waarbinnen werknemers georganiseerd zijn;
+- e. **promovendi-organisatie:** rechtspersoon die de belangen van promovendi vertegenwoordigt en die voor ten minste drie jaar financiële middelen ontvangt van een hoger onderwijsinstelling of de minister;
 
-- f. **promovendi-organisatie:** rechtspersoon die financiering ontvangt van een universiteit, een hogeschool of minister en waarbinnen promovendi georganiseerd zijn;
+- f. **studentenorganisatie:** rechtspersoon waarbinnen studenten georganiseerd zijn en die voor ten minste drie jaar financiële middelen ontvangt van een hoger onderwijsinstelling of de minister;
 
-- g. **studentenorganisatie:** rechtspersoon die financiering ontvangt van een universiteit, een hogeschool of minister en waarbinnen studenten georganiseerd zijn;
+- g. **werknemersorganisatie:** rechtspersoon die de belangen van werknemers vertegenwoordigt en die voor ten minste drie jaar financiële middelen ontvangt van een hoger onderwijsinstelling of de minister;
 
 - h. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
@@ -196,11 +196,11 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 8. Programmaplan
 
-1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2024-06-04&g=2024-06-04), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
+1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2025-02-28&g=2025-02-28), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
 
 2. Het programmaplan is een plan van de regiegroep ter bevordering van sociale veiligheid in het hoger onderwijs en de wetenschap voor de kalenderjaren 2024 tot en met 2027.
 
-3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2024-06-04&g=2024-06-04) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
+3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2025-02-28&g=2025-02-28) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
 
 4. In het totaal van de doelen en resultaten uit het programmaplan worden de volgende aspecten meegenomen:
 
@@ -234,13 +234,13 @@ De regiegroep heeft tot taak:
 
 2. De regiegroep is verantwoordelijk voor het tijdig indienen van de meerjarige subsidieaanvraag, zoals genoemd in lid 1 sub a, en de subsidieaanvragen zoals genoemd in lid 1 sub b.
 
-3. De regiegroep heeft voorts tot taak de minister te adviseren over de subsidieaanvragen zoals genoemd in lid 1 sub c. Zowel in dit advies als in haar uitvoeringsplannen waarin de activiteiten die zijn genoemd in lid 1 sub b worden opgenomen, stelt de regiegroep een rangschikking voor van hoge naar lage prioriteit van de activiteiten.
+3. De regiegroep heeft voorts tot taak de subsidieaanvragen voor de minister voor te bereiden. Zij stelt tevens in haar uitvoeringsplannen een rangschikking voor van hoge naar lage prioriteit van de activiteiten.
 
 4. De regiegroep baseert zich bij de in lid 3 genoemde rangschikking en prioritering op een door haar te formuleren beoordelingskader, dat inhoudelijk gerelateerd is aan de doelen uit het programmaplan.
 
 ##### Artikel 11. Vergoeding
 
-1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2024-06-04&g=2024-06-04). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
+1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2025-02-28&g=2025-02-28). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
 
 2. De door de convenantpartners voorgedragen leden ontvangen geen vaste vergoeding.
 
@@ -256,7 +256,7 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 14. Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
+Dit besluit wordt aangehaald als: Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
 
 ## Bijlage 1. Vergoeding
 
