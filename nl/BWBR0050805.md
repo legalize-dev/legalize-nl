@@ -341,7 +341,3 @@ Stap 2: De subsidieaanvragen die voor subsidie in aanmerking komen, worden als v
 Stap 3: In het geval van meerdere subsidieaanvragen met een gelijk puntentotaal in een categorie als bedoeld onder punt a tot en met f, worden die subsidieaanvragen gerangschikt op volgorde van binnenkomst van de volledige aanvragen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Toelichting beoordelingskader
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
