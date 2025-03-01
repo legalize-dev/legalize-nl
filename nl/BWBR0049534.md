@@ -4,7 +4,7 @@ identifier: "BWBR0049534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-06"
-last_updated: "2024-04-06"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap, handelend in overeenstemming met de Minister voor Primair- en Voortgezet onderwijs;
 
-- b. **commissie:** Programmaraad Onderwijsregio’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=2&z=2024-04-06&g=2024-04-06);
+- b. **commissie:** Programmaraad Onderwijsregio’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=2&z=2026-01-06&g=2025-03-01);
 
 - c. **landelijke organisaties:** organisaties die zijn vertegenwoordigd in het Bestuurlijk Overleg Leraren, te weten de sectorraden, de opleiders, de Realisatie Eenheid van het Ministerie van Onderwijs, Cultuur en Wetenschap en diverse vak- en beroepsorganisaties;
 
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 6. De voorzitter en de secretaris van de commissie zorgen in afstemming met de directeur van de Realisatie Eenheid voor een plan, waarin in ieder geval de hierboven genoemde elementen zijn opgenomen.
 
-7. De commissie adviseert de minister na afloop van elke bijeenkomst als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2024-04-06&g=2024-04-06) over de voortgang die besproken moet worden in het BO-leraren.
+7. De commissie adviseert de minister na afloop van elke bijeenkomst als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2026-01-06&g=2025-03-01) over de voortgang die besproken moet worden in het BO-leraren.
 
 8. De leden van de commissie zijn te consulteren door de minister in verband met de verplichtingen en afspraken die voortvloeien uit de in dit artikel genoemde taken van de commissie.
 
@@ -84,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 3. De overige leden worden op voordracht van de landelijke organisaties benoemd door de minister.
 
-4. De benoeming geschiedt voor de duur van de commissie zoals genomen onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2024-04-06&g=2024-04-06).
+4. De benoeming geschiedt voor de duur van de commissie zoals genomen onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2026-01-06&g=2025-03-01).
 
 5. Bij tussentijds vertrek van een lid kan verantwoordelijke organisatie een ander lid voordragen.
 
