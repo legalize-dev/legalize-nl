@@ -4,7 +4,7 @@ identifier: "BWBR0034068"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-03-01"
-last_updated: "2021-08-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034068"
 soort: "ministeriele-regeling-BES"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling kwalificaties
 
-De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2021-08-01&g=2021-08-01), worden bij deze regeling vastgesteld.
+De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2025-03-01&g=2025-03-01), worden bij deze regeling vastgesteld.
 
 ##### Artikel 2. Vaststelling opleidingsdomeinen BES
 
@@ -58,15 +58,19 @@ De volgende opleidingsdomeinen BES, bedoeld in [artikel 7.2.4, tweede lid van de
 
 - e. Informatie en communicatietechnologie;
 
-- f. Economie en administratie;
+- f. Mobiliteit en voertuigen;
 
-- g. Horeca en bakkerij;
+- g. Handel en ondernemerschap;
 
-- h. Zorg en welzijn;
+- h. Economie en administratie;
 
-- i. Toerisme en recreatie;
+- i. Veiligheid en sport;
 
-- j. Veiligheid en sport.
+- j. Horeca en bakkerij;
+
+- k. Toerisme en recreatie;
+
+- l. Zorg en welzijn.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -135,3 +139,78 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en oplei
 | Technicus mechanica | 4 | 95764 | Techniek en procesindustrie |
 
 Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2021-08-01&g=2021-08-01) en de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. Vervallen kwalificaties
+
+De kwalificaties die zijn vervallen zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=II&z=2025-03-01&g=2025-03-01).
+
+## Bijlage I. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&artikel=1&z=2025-03-01&g=2025-03-01) van de Regeling vaststelling kwalificaties en opleidingsdomeinen BES
+
+| Opleidingscode | Kwalificatie | Niveau | Opleidingsdomein | Ingangsdatum | Geen nieuwe eerstejaarsinstroom mogelijk |
+| --- | --- | --- | --- | --- | --- |
+| **25723** | Allround assistent business services | 3 | Economie en administratie | 1-8-2022 |   |
+| **25605** | Allround medewerker IT-systems and devices | 3 | Informatie en communicatietechnologie | 1-8-2020 |   |
+| **25669** | Allround technicus voertuigen en mobiele werktuigen | 3 | Mobiliteit en voertuigen | 1-8-2023 |   |
+| **25023** | Allround vakkracht onderhoud- en klussenbedrijf | 3 | Bouw en infra | 1-8-2018 | x |
+| **25791** | Allround vakkracht onderhoud- en klussenbedrijf | 3 | Afbouw, hout en onderhoud | 1-8-2024 |   |
+| **25650** | Apothekersassistent | 4 | Zorg en welzijn | 1-8-2024 |   |
+| **25724** | Assistant business services | 2 | Economie en administratie | 1-8-2022 |   |
+| **25250** | Assistent Bouwen, wonen en onderhoud | 1 | Niet van toepassing | 1-8-2016 | x |
+| **25740** | Assistent bouwen, wonen en onderhoud | 1 | Niet van toepassing | 1-8-2025 |   |
+| **25251** | Assistent Dienstverlening en Zorg | 1 | Niet van toepassing | 1-8-2016 | x |
+| **25741** | Assistent Dienstverlening | 1 | Niet van toepassing | 1-8-2025 |   |
+| **25252** | Assistent Horeca, Voeding of Voedingsindustrie | 1 | Niet van toepassing | 1-8-2016 | x |
+| **25742** | Assistent horeca, voeding of voedingsindustrie | 1 | Niet van toepassing | 1-8-2025 |   |
+| **25258** | Assistent Plant of (Groene) Leefomgeving | 1 | Niet van toepassing | 1-8-2016 | x |
+| **25746** | Assistent plant, dier of groene omgeving | 1 | Niet van toepassing | 1-8-2025 |   |
+| **25257** | Assistent verkoop/Retail | 1 | Niet van toepassing | 1-8-2016 | x |
+| **25748** | Assistent verkoop/retail | 1 | Niet van toepassing | 1-8-2025 |   |
+| **95702** | AV-specialist | 4 | Media en vormgeving | 1-8-2013 | x |
+| **25668** | Basis technicus voertuigen en mobiele werktuigen | 2 | Mobiliteit en voertuigen | 1-8-2023 |   |
+| **93212** | Bedrijfsadministrateur | 4 | Economie en administratie | 1-8-2016 | x |
+| **25690** | Beveiliger 2 | 2 | Veiligheid en Sport | 1-8-2021 |   |
+| **25725** | Business administration & control specialist | 4 | Economie en administratie | 1-8-2022 |   |
+| **25413** | Coördinator sport, bewegen en gezondheid | 4 | Veiligheid en sport | 1-8-2020 | x |
+| **25652** | Danser | 4 | Zorg en welzijn | 1-8-2022 |   |
+| **25695** | Doktersassistent | 4 | Zorg en welzijn | 1-8-2023 |   |
+| **25736** | Eerste monteur elektrotechnische installaties in gebouwde omgeving | 3 | Techniek en procesindustrie | 1-8-2024 |   |
+| **25332** | Eerste monteur elektrotechnische installaties woning en utiliteit | 3 | Techniek en procesindustrie | 1-8-2021 | x |
+| **25606** | Expert IT-systems and devices | 4 | Informatie en communicatietechnologie | 1-8-2020 |   |
+| **93200** | Financieel administratief medewerker | 3 | Economie en administratie | 1-8-2012 | x |
+| **25484** | Gespecialiseerd pedagogisch medewerker | 4 | Zorg en welzijn | 1-8-2019 | x |
+| **25697** | Gespecialiseerd pedagogisch medewerker | 4 | Zorg en welzijn | 1-8-2025 |   |
+| **25498** | Helpende Zorg en Welzijn | 2 | Zorg en welzijn | 1-8-2018 | x |
+| **25960** | Helpende Zorg en Welzijn | 2 | Zorg en welzijn | 1-8-2025 |   |
+| **25145** | Juridisch-administratief dienstverlener | 4 | Economie en administratie | 1-8-2022 | x |
+| **25180** | Kok | 2 | Horeca en bakkerij | 1-8-2021 |   |
+| **25726** | Legal, insurance & HR services specialist | 4 | Economie en administratie | 1-8-2022 |   |
+| **25647** | Leidinggevende travel & hospitality | 4 | Toerisme en recreatie | 1-8-2020 |   |
+| **25727** | Marketing & communication specialist | 4 | Economie en administratie | 1-8-2022 |   |
+| **25655** | MBO- verpleegkundige | 4 | Zorg en welzijn | 1-8-2021 |   |
+| **25500** | Medewerker sport en recreatie | 2 | Zorg en welzijn | 1-8-2018 | x |
+| **25961** | Medewerker sport en recreatie | 2 | Zorg en welzijn | 1-8-2025 |   |
+| **25333** | Monteur elektrotechnische installaties | 2 | Techniek en procesindustrie | 1-8-2021 | x |
+| **25737** | Monteur Elektrotechnische installaties | 2 | Techniek en procesindustrie | 1-8-2024 |   |
+| **25728** | Office & management support specialist | 4 | Economie en administratie | 1-8-2022 |   |
+| **25698** | Onderwijsassistent | 4 | Zorg en welzijn | 1-8-2022 |   |
+| **25486** | Pedagogisch medewerker kinderopvang | 3 | Zorg en welzijn | 1-8-2019 | x |
+| **25696** | Pedagogisch medewerker kinderopvang | 3 | Zorg en welzijn | 1-8-2025 |   |
+| **25478** | Persoonlijk begeleider specifieke doelgroepen | 4 | Zorg en welzijn | 1-8-2020 | x |
+| **25779** | Persoonlijk begeleider maatschappelijke zorg | 4 | Zorg en welzijn | 1-8-2025 |   |
+| **25780** | Begeleider maatschappelijke zorg | 3 | Zorg en welzijn | 1-8-2025 |   |
+| **25808** | Retailmedewerker | 2 | Handel en ondernemerschap | 1-8-2022 |   |
+| **25024** | Servicemedewerker gebouwen | 2 | Afbouw, hout en onderhoud | 1-8-2018 | x |
+| **25792** | Servicemedewerker gebouwen | 2 | Afbouw, hout en onderhoud | 1-8-2024 |   |
+| **25415** | Sport- en bewegingsleider | 3 | Veiligheid en sport | 1-8-2020 | x |
+| **25908** | Sport en bewegingsleider | 3 | Veiligheid en sport | 1-8-2024 |   |
+| **25263** | Technicus elektrotechnische installaties woning en utiliteit | 4 | Techniek en procesindustrie | 1-8-2021 |   |
+| **25912** | Trainer-coach/instructeur | 4 | Veiligheid en sport | 1-8-2024 |   |
+| **25656** | Verzorgende IG | 3 | Zorg en welzijn | 1-8-2021 |   |
+| **25649** | Zelfstandig medewerker travel & hospitality | 3 | Toerisme en recreatie | 1-8-2020 |   |
+| **25182** | Zelfstandig werkend kok | 3 | Horeca en bakkerij | 1-8-2021 |   |
+
+## Bijlage II. als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&artikel=2a&z=2025-03-01&g=2025-03-01) van de Regeling vaststelling kwalificaties en opleidingsdomeinen BES
+
+### Vervallen kwalificaties
+
+Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2025-03-01&g=2025-03-01) en de toelichting in de Staatscourant worden geplaatst.
