@@ -4,7 +4,7 @@ identifier: "BWBR0045050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045050"
 soort: "ministeriele-regeling"
@@ -47,6 +47,8 @@ Besluit:
 In deze regeling wordt verstaan onder:
 
 - **geautomatiseerde gegevensbestand:** geautomatiseerd gegevensbestand als bedoeld in artikel 109 van verordening (EU) nr. 2016/429;
+
+- **in gevangenschap levende vogels:** vogels als bedoeld in artikel 4, onderdeel 10, van [verordening (EU) 2016/429](32016R0429);
 
 - **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
@@ -134,7 +136,9 @@ Voor de behandeling van een aanvraag om toestemming als bedoeld in [artikel 2.27
 
 ##### Artikel 9. Aanvraag afgifte identificatiedocument
 
-Voor de behandeling van een aanvraag om afgifte van een identificatiedocument als bedoeld in artikel 58, derde lid, 67, eerste of tweede lid, of 68 van verordening (EU) nr. 2019/2035 is degene die de aanvraag heeft gedaan een retributie verschuldigd van ten hoogste de werkelijke kosten verbonden aan de afgifte van het document.
+1. Voor de behandeling van een aanvraag om afgifte van een identificatiedocument als bedoeld in artikel 58, derde lid, 67, eerste of tweede lid, of 68 van verordening (EU) nr. 2019/2035 is degene die de aanvraag heeft gedaan een retributie verschuldigd van ten hoogste de werkelijke kosten verbonden aan de afgifte van het document.
+
+2. Een exploitant van een inrichting voor het houden van paardachtigen waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 22,28 voor de instandhouding van die registratie.
 
 #### § 6. Konijnen
 
@@ -158,11 +162,11 @@ Voor de verlening van goedkeuring van een model van een oormerk voor runderen, s
 
 Voor de verlening van een erkenning van een leverancier van een identificatiemiddel, slachtmerk of gebruiksmerk als bedoeld in [artikel 5b.8, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5b.8) voor runderen, schapen, geiten of varkens is degene aan wie de erkenning wordt verleend een retributie verschuldigd van € 220,00.
 
-#### § 8. Goedkeuring identificatiemiddelen en erkenning leveranciers
+#### § 6c. Kameel- en hertachtigen
 
 ##### Artikel 14. Samenloop retributie registratie
 
-Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2025-01-01&g=2025-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2025-01-01&g=2025-01-01).
+Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2025-03-01&g=2025-03-01), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2025-03-01&g=2025-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2025-03-01&g=2025-03-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=5&artikel=9&z=2025-03-01&g=2025-03-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=6b&artikel=10c&z=2025-03-01&g=2025-03-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=6c&artikel=10d&z=2025-03-01&g=2025-03-01), en [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=6d&artikel=10e&z=2025-03-01&g=2025-03-01).
 
 ##### Artikel 15. Vaststelling en verrekening
 
@@ -200,7 +204,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een uitgever van identificatiedocumenten aan wie een erkenning is verleend als bedoeld in [artikel 8b.3, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=8b.3) is jaarlijks een retributie verschuldigd van € 2.000,00 voor de instandhouding van die erkenning.
 
-#### § 7. Gezelschapsdieren, tentoonstellingen, beurzen
+#### § 6b. Bijen en hommels
 
 ##### Artikel 13a. Erkenning leverancier van injecteerbare transponders
 
@@ -217,6 +221,36 @@ De beheerder van een aangewezen elektronisch portaal als bedoeld [artikel 3.32 v
 ##### Artikel 13d. Verwerken van registraties
 
 Voor het verwerken van registraties als bedoeld in [artikel 3.30, tweede lid, onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.30) en [artikel 2.9, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9) is de beheerder van een aangewezen elektronisch portaal als bedoeld in [artikel 3.32 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.32) een retributie verschuldigd van € 1,00 per registratie.
+
+#### § 8. Goedkeuring identificatiemiddelen en erkenning leveranciers
+
+#### § 10. Wijziging andere regelgeving
+
+#### § 8a. Aangewezen elektronische portalen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10c. Registratie inrichting
+
+Een exploitant van een inrichting voor het houden van bijen of hommels waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 22,28 voor de instandhouding van de registratie.
+
+##### Artikel 10d. Registratie inrichting
+
+Een exploitant van een inrichting voor het houden van kameel- of hertachtigen waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 22,28 voor de instandhouding van de registratie.
+
+#### § 6d. In gevangenschap levende vogels
+
+##### Artikel 10e. Registratie inrichting
+
+Een exploitant van een inrichting voor het houden van in gevangenschap levende vogels waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 22,28 voor de instandhouding van de registratie.
+
+#### § 6e. Retributie 2025
+
+##### Artikel 10f. Retributie 2025
+
+In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=5&artikel=9&z=2025-03-01&g=2025-03-01), en de [artikelen 10c tot en met 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=6b&artikel=10c&z=2025-03-01&g=2025-03-01) is in 2025 een retributie verschuldigd van € 18,56.
+
+#### § 7. Gezelschapsdieren, tentoonstellingen, beurzen
 
 #### § 9. Overig
 
