@@ -4,7 +4,7 @@ identifier: "BWBV0006133"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-01"
-last_updated: "2019-07-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006133"
 soort: "verdrag"
@@ -44,7 +44,7 @@ zijn het volgende overeengekomen:
 
 ##### Artikel 1. Personen die gerechtigd zijn hun aansprakelijkheid te beperken; begripsbepalingen
 
-1. Scheepseigenaren en hulpverleners, zoals hierna omschreven, kunnen hun aansprakelijkheid beperken voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2019-07-01&g=2019-07-01) genoemde vorderingen overeenkomstig de regels van dit Verdrag.
+1. Scheepseigenaren en hulpverleners, zoals hierna omschreven, kunnen hun aansprakelijkheid beperken voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2025-03-01&g=2025-03-01) genoemde vorderingen overeenkomstig de regels van dit Verdrag.
 
 2. De uitdrukking:
 
@@ -52,13 +52,13 @@ zijn het volgende overeengekomen:
 
 - b). „schip” betekent een voor de bedrijfsmatige scheepvaart gebruikt binnenschip en omvat mede voor de bedrijfsmatige scheepvaart gebruikte draagvleugelboten, kleine vaartuigen en veerponten, maar niet luchtkussenvoertuigen. Met schepen worden gelijkgesteld baggermolens, kranen, elevatoren en alle andere drijvende en verplaatsbare werktuigen en materiaal van soortgelijke aard;
 
-- c). „hulpverlener” betekent iedere persoon die diensten verricht rechtstreeks verband houdende met hulpverleningswerkzaamheden. Hulpverleningswerkzaamheden omvatten mede werkzaamheden als bedoeld in [artikel 2, eerste lid, letters d), e) en f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2019-07-01&g=2019-07-01);
+- c). „hulpverlener” betekent iedere persoon die diensten verricht rechtstreeks verband houdende met hulpverleningswerkzaamheden. Hulpverleningswerkzaamheden omvatten mede werkzaamheden als bedoeld in [artikel 2, eerste lid, letters d), e) en f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2025-03-01&g=2025-03-01);
 
 - d). „gevaarlijke stoffen” betekent gevaarlijke stoffen als bedoeld in hoofdstuk 3.2 van het bij het Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over binnenwateren (ADN) gevoegde Reglement, als gewijzigd;
 
 - e). „waterweg” betekent elk binnenwater, met inbegrip van elk meer.
 
-3. Indien een van de vorderingen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2019-07-01&g=2019-07-01) wordt ingesteld tegen een persoon voor wiens handeling, onachtzaamheid of nalatigheid de scheepseigenaar of hulpverlener aansprakelijk is, is die persoon gerechtigd zich te beroepen op de beperking van aansprakelijkheid bedoeld in dit Verdrag.
+3. Indien een van de vorderingen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2025-03-01&g=2025-03-01) wordt ingesteld tegen een persoon voor wiens handeling, onachtzaamheid of nalatigheid de scheepseigenaar of hulpverlener aansprakelijk is, is die persoon gerechtigd zich te beroepen op de beperking van aansprakelijkheid bedoeld in dit Verdrag.
 
 4. In dit Verdrag omvat de aansprakelijkheid van de scheepseigenaar de aansprakelijkheid die voortvloeit uit een tegen het schip zelf ingestelde rechtsvordering.
 
@@ -68,7 +68,7 @@ zijn het volgende overeengekomen:
 
 ##### Artikel 2. Vorderingen vatbaar voor beperking
 
-1. Behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=3&z=2019-07-01&g=2019-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=4&z=2019-07-01&g=2019-07-01) zijn de volgende vorderingen, ongeacht de grondslag van de aansprakelijkheid, vatbaar voor beperking van aansprakelijkheid:
+1. Behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=3&z=2025-03-01&g=2025-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=4&z=2025-03-01&g=2025-03-01) zijn de volgende vorderingen, ongeacht de grondslag van de aansprakelijkheid, vatbaar voor beperking van aansprakelijkheid:
 
 - a). vorderingen met betrekking tot dood of letsel dan wel verlies of beschadiging van zaken (hieronder begrepen schade aan kunstwerken van havens, aan dokken, waterwegen, sluizen, stuwen, bruggen en hulpmiddelen bij de navigatie), ontstaan aan boord van het schip of in rechtstreeks verband met de exploitatie daarvan of met hulpverleningswerkzaamheden, alsmede alle andere daaruit voortvloeiende schade;
 
@@ -96,7 +96,7 @@ De regels van dit Verdrag zijn niet van toepassing op:
 
 - d). vorderingen tegen de eigenaar van een nucleair schip ter zake van kernschade;
 
-- e). vorderingen van ondergeschikten van de scheepseigenaar of hulpverlener, wier werkzaamheden verband houden met het schip of de hulpverleningswerkzaamheden, daaronder begrepen vorderingen van hun erfgenamen, rechtverkrijgenden of andere personen die gerechtigd zijn zulke vorderingen in te stellen, indien de scheepseigenaar of hulpverlener volgens de wet die op de arbeidsovereenkomst tussen de scheepseigenaar of de hulpverlener en de ondergeschikten van toepassing is, niet gerechtigd is zijn aansprakelijkheid voor zulke vorderingen te beperken, of indien hij dit volgens die wet slechts kan doen tot een hoger bedrag dan dat bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), of voor vorderingen in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2019-07-01&g=2019-07-01) en dit bedrag hoger is dan de overeenkomstig artikel 7 berekende aansprakelijkheidsgrens.
+- e). vorderingen van ondergeschikten van de scheepseigenaar of hulpverlener, wier werkzaamheden verband houden met het schip of de hulpverleningswerkzaamheden, daaronder begrepen vorderingen van hun erfgenamen, rechtverkrijgenden of andere personen die gerechtigd zijn zulke vorderingen in te stellen, indien de scheepseigenaar of hulpverlener volgens de wet die op de arbeidsovereenkomst tussen de scheepseigenaar of de hulpverlener en de ondergeschikten van toepassing is, niet gerechtigd is zijn aansprakelijkheid voor zulke vorderingen te beperken, of indien hij dit volgens die wet slechts kan doen tot een hoger bedrag dan dat bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), of voor vorderingen in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01) en dit bedrag hoger is dan de overeenkomstig artikel 7 berekende aansprakelijkheidsgrens.
 
 ##### Artikel 4. Gedragingen die de beperking opheffen
 
@@ -110,27 +110,27 @@ Wanneer een persoon die krachtens de bepalingen van dit Verdrag gerechtigd is zi
 
 ##### Artikel 6. Algemene aansprakelijkheidsgrenzen
 
-1. De aansprakelijkheidsgrenzen voor andere vorderingen dan die genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2019-07-01&g=2019-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2019-07-01&g=2019-07-01), die voortkomen uit eenzelfde gebeurtenis, worden als volgt berekend:
+1. De aansprakelijkheidsgrenzen voor andere vorderingen dan die genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01), die voortkomen uit eenzelfde gebeurtenis, worden als volgt berekend:
 
 - a). met betrekking tot vorderingen ter zake van dood of letsel:
 
-- i). voor een schip, niet bestemd tot het vervoer van goederen, in het bijzonder een passagiersschip, 400 rekeneenheden per kubieke meter waterverplaatsing tot het vlak van de grootste toegelaten diepgang, vermeerderd voor schepen voorzien van mechanische voortbewegingswerktuigen met 1400 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
+- i). voor een schip, niet bestemd tot het vervoer van goederen, in het bijzonder een passagiersschip, 450 rekeneenheden per kubieke meter waterverplaatsing tot het vlak van de grootste toegelaten diepgang, vermeerderd voor schepen voorzien van mechanische voortbewegingswerktuigen met 1576 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
 
-- ii). voor een schip dat is bestemd voor het vervoer van goederen, 400 rekeneenheden per ton laadvermogen van het schip, vermeerderd voor schepen voorzien van mechanische voortbewegingswerktuigen met 1400 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
+- ii). voor een schip dat is bestemd voor het vervoer van goederen, 450 rekeneenheden per ton laadvermogen van het schip, vermeerderd voor schepen voorzien van mechanische voortbewegingswerktuigen met 1576 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
 
-- iii). voor een duw- of sleepboot, 1400 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
+- iii). voor een duw- of sleepboot, 1576 rekeneenheden voor elke KW van het vermogen van de voortbewegingswerktuigen;
 
-- iv). voor een duwboot die op het tijdstip waarop de schade is veroorzaakt, hecht met duwbakken in een duweenheid was gekoppeld, wordt de overeenkomstig onderdeel (iii) berekende aansprakelijkheidsgrens vermeerderd met 200 rekeneenheden per ton laadvermogen van de geduwde bakken; deze vermeerdering vindt niet plaats, indien bewezen wordt dat de duwboot hulp heeft verleend aan een of meer van deze duwbakken;
+- iv). voor een duwboot die op het tijdstip waarop de schade is veroorzaakt, hecht met duwbakken in een duweenheid was gekoppeld, wordt de overeenkomstig onderdeel (iii) berekende aansprakelijkheidsgrens vermeerderd met 225 rekeneenheden per ton laadvermogen van de geduwde bakken; deze vermeerdering vindt niet plaats, indien bewezen wordt dat de duwboot hulp heeft verleend aan een of meer van deze duwbakken;
 
-- v). voor een schip voorzien van mechanische voortbewegingswerktuigen, dat op het tijdstip waarop de schade is veroorzaakt, andere hecht met dit schip gekoppelde schepen voortbeweegt, wordt de overeenkomstig de onderdelen (i), (ii) of (iii) berekende aansprakelijkheidsgrens vermeerderd met 200 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere schepen; deze vermeerdering vindt niet plaats, indien bewezen wordt dat dit schip hulp heeft verleend aan een of meer van de gekoppelde schepen;
+- v). voor een schip voorzien van mechanische voortbewegingswerktuigen, dat op het tijdstip waarop de schade is veroorzaakt, andere hecht met dit schip gekoppelde schepen voortbeweegt, wordt de overeenkomstig de onderdelen (i), (ii) of (iii) berekende aansprakelijkheidsgrens vermeerderd met 225 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere schepen; deze vermeerdering vindt niet plaats, indien bewezen wordt dat dit schip hulp heeft verleend aan een of meer van de gekoppelde schepen;
 
-- vi). voor drijvende en verplaatsbare werktuigen en materiaal in de zin van [artikel 1, tweede lid, letter b), tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2019-07-01&g=2019-07-01), hun waarde op het tijdstip van het voorval;
+- vi). voor drijvende en verplaatsbare werktuigen en materiaal in de zin van [artikel 1, tweede lid, letter b), tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2025-03-01&g=2025-03-01), hun waarde op het tijdstip van het voorval;
 
 - b). met betrekking tot alle andere vorderingen, de helft van de overeenkomstig letter a) berekende aansprakelijkheidsgrens;
 
 - c). wanneer de aansprakelijkheidsgrens, berekend overeenkomstig letter a), onvoldoende is voor de volledige voldoening van de daarin genoemde vorderingen, is de aansprakelijkheidsgrens berekend overeenkomstig letter b) beschikbaar voor de voldoening van het onbetaalde saldo van de in letter a) genoemde vorderingen en deelt dit onbetaalde saldo naar evenredigheid mee met de in letter b) genoemde vorderingen;
 
-- d). in geen geval kunnen de aansprakelijkheidsgrenzen lager zijn dan 400.000 rekeneenheden met betrekking tot vorderingen ter zake van dood of letsel en dan 200.000 rekeneenheden met betrekking tot alle andere vorderingen.
+- d). in geen geval kunnen de aansprakelijkheidsgrenzen lager zijn dan 450.400 rekeneenheden met betrekking tot vorderingen ter zake van dood of letsel en dan 225.200 rekeneenheden met betrekking tot alle andere vorderingen.
 
 2. Echter, onverminderd de rechten met betrekking tot vorderingen ter zake van dood of letsel volgens het eerste lid, letter c), kan een Staat die Partij is bij dit Verdrag, in zijn nationale wet bepalen dat vorderingen met betrekking tot schade aan kunstwerken van havens, aan dokken, waterwegen, sluizen, stuwen, bruggen en hulpmiddelen bij de navigatie, de bij die wet bepaalde voorrang hebben boven andere in het eerste lid, letter b), bedoelde vorderingen.
 
@@ -140,21 +140,21 @@ Wanneer een persoon die krachtens de bepalingen van dit Verdrag gerechtigd is zi
 
 1. De aansprakelijkheidsgrenzen voor een schip dat gevaarlijke stoffen vervoert voor vorderingen wegens schade die direct of indirect veroorzaakt is door de gevaarlijke aard van deze stoffen, worden als volgt berekend:
 
-- a). voor vorderingen met betrekking tot dood of letsel: het dubbele van de overeenkomstig [artikel 6, eerste lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), berekende aansprakelijkheidsgrens, maar niet minder dan 10 miljoen rekeneenheden;
+- a). voor vorderingen met betrekking tot dood of letsel: het dubbele van de overeenkomstig [artikel 6, eerste lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), berekende aansprakelijkheidsgrens, maar niet minder dan 11.260.000 rekeneenheden;
 
-- b). voor alle overige vorderingen: het dubbele van de overeenkomstig [artikel 6, eerste lid, letter b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), berekende aansprakelijkheidsgrens, maar niet minder dan 10 miljoen rekeneenheden.
+- b). voor alle overige vorderingen: het dubbele van de overeenkomstig [artikel 6, eerste lid, letter b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), berekende aansprakelijkheidsgrens, maar niet minder dan 11.260.000 rekeneenheden.
 
 2. Wanneer de aansprakelijkheidsgrens, berekend overeenkomstig het eerste lid, letter a), onvoldoende is voor de volledige voldoening van de daarin genoemde vorderingen, is de aansprakelijkheidsgrens berekend overeenkomstig het eerste lid, letter b), mede beschikbaar voor de voldoening van het onbetaalde saldo van de in het eerste lid, letter a), genoemde vorderingen en deelt dit onbetaalde saldo naar evenredigheid mee met de in het eerste lid, letter b), genoemde vorderingen.
 
 ##### Artikel 8. Aansprakelijkheidsgrens voor vorderingen van passagiers
 
-1. Met betrekking tot vorderingen die voortkomen uit eenzelfde gebeurtenis, ter zake van dood of letsel van passagiers van een schip, beloopt de aansprakelijkheidsgrens voor dit schip een bedrag van 100.000 rekeneenheden, vermenigvuldigd met:
+1. Met betrekking tot vorderingen die voortkomen uit eenzelfde gebeurtenis, ter zake van dood of letsel van passagiers van een schip, beloopt de aansprakelijkheidsgrens voor dit schip een bedrag van 112.600 rekeneenheden, vermenigvuldigd met:
 
 - a). het aantal passagiers dat het schip volgens zijn veiligheidscertificaat gerechtigd is te vervoeren, of,
 
 - b). het daadwerkelijke aantal passagiers dat op het moment van de gebeurtenis werd vervoerd wanneer het aantal passagiers dat het schip gerechtigd is te vervoeren niet voorgeschreven is.
 
-De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2 miljoen rekeneenheden.
+De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenheden.
 
 2. Voor de toepassing van dit artikel wordt onder „vorderingen ter zake van dood of letsel van passagiers van een schip” verstaan alle vorderingen die door of namens een aan boord van dat schip vervoerde persoon zijn ingesteld:
 
@@ -164,49 +164,49 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2 miljoen rekeneenhed
 
 ##### Artikel 9. Rekeneenheid
 
-1. De rekeneenheid, bedoeld in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01), is het bijzondere trekkingsrecht, zoals gedefinieerd door het Internationale Monetaire Fonds. De in de artikelen 6 tot en met 8 en 10 genoemde bedragen worden omgerekend in de nationale munteenheid van de Staat waar de beperking van aansprakelijkheid wordt ingeroepen; de omrekening geschiedt volgens de waarde van de desbetreffende munteenheid op de datum waarop het beperkingsfonds is gevormd, de betaling is verricht of een volgens de wet van die Staat daaraan gelijkwaardige zekerheid is verstrekt.
+1. De rekeneenheid, bedoeld in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), is het bijzondere trekkingsrecht, zoals gedefinieerd door het Internationale Monetaire Fonds. De in de artikelen 6 tot en met 8 en 10 genoemde bedragen worden omgerekend in de nationale munteenheid van de Staat waar de beperking van aansprakelijkheid wordt ingeroepen; de omrekening geschiedt volgens de waarde van de desbetreffende munteenheid op de datum waarop het beperkingsfonds is gevormd, de betaling is verricht of een volgens de wet van die Staat daaraan gelijkwaardige zekerheid is verstrekt.
 
 2. De waarde van de nationale munteenheid, uitgedrukt in bijzondere trekkingsrechten, van een Staat die Partij is bij dit Verdrag, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties.
 
-3. De Staten die Partij zijn bij dit Verdrag, kunnen op grond van de in het eerste lid genoemde berekeningsmethode de tegenwaarde van de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01) genoemde bedragen in hun nationale munteenheid vaststellen in afgeronde bedragen. Wanneer, als gevolg van een verandering van de in de bijzondere trekkingsrechten uitgedrukte waarde van de nationale munteenheid, de in die munteenheid uitgedrukte bedragen meer dan 10 procent afwijken van de in de artikelen 6 tot en met 8 en 10 in bijzondere trekkingsrechten uitgedrukte werkelijke waarde, moeten de bedragen aan de werkelijke waarde worden aangepast. De Staten die Partij zijn bij dit Verdrag, delen aan de depositaris de in hun nationale munteenheid uitgedrukte bedragen mede, alsmede iedere wijziging van die bedragen.
+3. De Staten die Partij zijn bij dit Verdrag, kunnen op grond van de in het eerste lid genoemde berekeningsmethode de tegenwaarde van de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) genoemde bedragen in hun nationale munteenheid vaststellen in afgeronde bedragen. Wanneer, als gevolg van een verandering van de in de bijzondere trekkingsrechten uitgedrukte waarde van de nationale munteenheid, de in die munteenheid uitgedrukte bedragen meer dan 10 procent afwijken van de in de artikelen 6 tot en met 8 en 10 in bijzondere trekkingsrechten uitgedrukte werkelijke waarde, moeten de bedragen aan de werkelijke waarde worden aangepast. De Staten die Partij zijn bij dit Verdrag, delen aan de depositaris de in hun nationale munteenheid uitgedrukte bedragen mede, alsmede iedere wijziging van die bedragen.
 
 ##### Artikel 10. Samenloop van vorderingen
 
-1. Onverminderd het tweede lid, zijn de overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01) berekende aansprakelijkheidsgrenzen van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde gebeurtenis:
+1. Onverminderd het tweede lid, zijn de overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrenzen van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde gebeurtenis:
 
-- a). tegen de persoon of de personen, genoemd in [artikel 1, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2019-07-01&g=2019-07-01), en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn; of
+- a). tegen de persoon of de personen, genoemd in [artikel 1, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2025-03-01&g=2025-03-01), en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn; of
 
 - b). tegen de eigenaar van een schip die hulp verleent vanaf dat schip en tegen de hulpverlener of hulpverleners die vanaf genoemd schip werkzaamheden verricht of verrichten en iedere persoon, voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn; of
 
 - c). tegen de hulpverlener of hulpverleners die niet vanaf een binnenschip of een zeeschip werkzaamheden verricht of verrichten of die uitsluitend werkzaamheden verricht of verrichten aan boord van het schip waaraan hulp wordt verleend en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn.
 
-- a). Wordt overeenkomstig [artikel 6, eerste lid, letter a), onderdeel (iv)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), de aansprakelijkheidsgrens voor een duwboot die, op het tijdstip waarop de schade is veroorzaakt, hecht met duwbakken in een duweenheid was gekoppeld, met betrekking tot vorderingen die voortkomen uit eenzelfde voorval, verhoogd met 200 rekeneenheden per ton laadvermogen van de duwbakken, dan wordt met betrekking tot vorderingen die voortkomen uit datzelfde voorval, de aansprakelijkheidsgrens voor iedere duwbak verminderd met 200 rekeneenheden per ton laadvermogen van de duwbak.
+- a). Wordt overeenkomstig [artikel 6, eerste lid, letter a), onderdeel (iv)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), de aansprakelijkheidsgrens voor een duwboot die, op het tijdstip waarop de schade is veroorzaakt, hecht met duwbakken in een duweenheid was gekoppeld, met betrekking tot vorderingen die voortkomen uit eenzelfde voorval, verhoogd met 225 rekeneenheden per ton laadvermogen van de duwbakken, dan wordt met betrekking tot vorderingen die voortkomen uit datzelfde voorval, de aansprakelijkheidsgrens voor iedere duwbak verminderd met 225 rekeneenheden per ton laadvermogen van de duwbak.
 
-- b). Wordt overeenkomstig [artikel 6, eerste lid, letter a), onderdeel (v)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), de aansprakelijkheidsgrens voor een schip, voorzien van voortbewegingswerktuigen, dat op het tijdstip waarop de schade is veroorzaakt, andere hecht met dit schip gekoppelde schepen voortbewoog, met betrekking tot vorderingen die voortkomen uit hetzelfde voorval, vermeerderd met 200 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere met dit schip gekoppelde schepen, dan wordt met betrekking tot vorderingen die voortkomen uit datzelfde voorval, de aansprakelijkheidsgrens voor ieder gekoppeld schip verminderd met 200 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van het gekoppelde schip.
+- b). Wordt overeenkomstig [artikel 6, eerste lid, letter a), onderdeel (v)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), de aansprakelijkheidsgrens voor een schip, voorzien van voortbewegingswerktuigen, dat op het tijdstip waarop de schade is veroorzaakt, andere hecht met dit schip gekoppelde schepen voortbewoog, met betrekking tot vorderingen die voortkomen uit hetzelfde voorval, vermeerderd met 225 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere met dit schip gekoppelde schepen, dan wordt met betrekking tot vorderingen die voortkomen uit datzelfde voorval, de aansprakelijkheidsgrens voor ieder gekoppeld schip verminderd met 225 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van het gekoppelde schip.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2019-07-01&g=2019-07-01) berekende aansprakelijkheidsgrenzen. Voor het tweede lid geldt echter dat in plaats van 200 rekeneenheden van 400 rekeneenheden moet worden uitgegaan.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrenzen. Voor het tweede lid geldt echter dat in plaats van 225 rekeneenheden van 450 rekeneenheden moet worden uitgegaan.
 
-4. De overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2019-07-01&g=2019-07-01) berekende aansprakelijkheidsgrens is van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde voorval en ingesteld worden tegen de in [artikel 1, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2019-07-01&g=2019-07-01), genoemde persoon of personen, met betrekking tot het in artikel 8 bedoelde schip en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn.
+4. De overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrens is van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde voorval en ingesteld worden tegen de in [artikel 1, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2025-03-01&g=2025-03-01), genoemde persoon of personen, met betrekking tot het in artikel 8 bedoelde schip en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn.
 
 ##### Artikel 11. Beperking van aansprakelijkheid zonder vorming van een beperkingsfonds
 
-1. De beperking van aansprakelijkheid kan worden ingeroepen ondanks het feit dat er geen beperkingsfonds, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2019-07-01&g=2019-07-01), is gevormd. Een Staat die partij is bij dit Verdrag, kan echter in zijn nationale wet bepalen dat, wanneer een rechtsvordering wordt ingesteld bij een van zijn gerechten om betaling te verkrijgen van een voor beperking vatbare vordering, een aansprakelijke persoon zich slechts op het recht op beperking van aansprakelijkheid kan beroepen, indien een beperkingsfonds is gevormd overeenkomstig de bepalingen van dit Verdrag of wordt gevormd wanneer het recht op beperking wordt ingeroepen.
+1. De beperking van aansprakelijkheid kan worden ingeroepen ondanks het feit dat er geen beperkingsfonds, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2025-03-01&g=2025-03-01), is gevormd. Een Staat die partij is bij dit Verdrag, kan echter in zijn nationale wet bepalen dat, wanneer een rechtsvordering wordt ingesteld bij een van zijn gerechten om betaling te verkrijgen van een voor beperking vatbare vordering, een aansprakelijke persoon zich slechts op het recht op beperking van aansprakelijkheid kan beroepen, indien een beperkingsfonds is gevormd overeenkomstig de bepalingen van dit Verdrag of wordt gevormd wanneer het recht op beperking wordt ingeroepen.
 
-2. Indien beperking van aansprakelijkheid wordt ingeroepen zonder de vorming van een beperkingsfonds, zijn de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=13&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing.
+2. Indien beperking van aansprakelijkheid wordt ingeroepen zonder de vorming van een beperkingsfonds, zijn de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=13&z=2025-03-01&g=2025-03-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK III. HET BEPERKINGSFONDS
 
 ##### Artikel 12. Het beperkingsfonds
 
-1. Iedere persoon die aansprakelijk gehouden wordt, kan een of meer fondsen vormen bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig wordt gemaakt met betrekking tot een voor beperking vatbare vordering, of, indien geen rechtsgeding aanhangig wordt gemaakt, bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig kan worden gemaakt met betrekking tot een voor beperking vatbare vordering. Ieder fonds moet gevormd worden ten belope van het bedrag van de overeenkomstig de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01) berekende aansprakelijkheidsgrens die van toepassing is op de vorderingen waarvoor de persoon die het fonds vormt, aansprakelijk kan zijn, vermeerderd met de rente daarover te rekenen vanaf de datum van de gebeurtenis die tot de aansprakelijkheid heeft geleid, tot aan de datum waarop het fonds wordt gevormd. Elk aldus gevormd fonds is uitsluitend bestemd voor de voldoening van vorderingen met betrekking waartoe beperking van aansprakelijkheid kan worden ingeroepen.
+1. Iedere persoon die aansprakelijk gehouden wordt, kan een of meer fondsen vormen bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig wordt gemaakt met betrekking tot een voor beperking vatbare vordering, of, indien geen rechtsgeding aanhangig wordt gemaakt, bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig kan worden gemaakt met betrekking tot een voor beperking vatbare vordering. Ieder fonds moet gevormd worden ten belope van het bedrag van de overeenkomstig de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrens die van toepassing is op de vorderingen waarvoor de persoon die het fonds vormt, aansprakelijk kan zijn, vermeerderd met de rente daarover te rekenen vanaf de datum van de gebeurtenis die tot de aansprakelijkheid heeft geleid, tot aan de datum waarop het fonds wordt gevormd. Elk aldus gevormd fonds is uitsluitend bestemd voor de voldoening van vorderingen met betrekking waartoe beperking van aansprakelijkheid kan worden ingeroepen.
 
 2. Een fonds kan worden gevormd, hetzij door het storten van de geldsom, hetzij door het stellen van een garantie die aanvaardbaar is volgens de wetgeving van de Staat die Partij is bij dit Verdrag waar het fonds wordt gevormd en die door het gerecht of door iedere andere bevoegde autoriteit voldoende wordt geacht.
 
-3. Een fonds dat is gevormd door een van de personen, genoemd in [artikel 10, eerste lid, letters a), b) of c), of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01), dan wel door zijn verzekeraar wordt geacht te zijn gevormd door alle in artikel 10, eerste lid, letters a), b) of c), of vierde lid, genoemde personen.
+3. Een fonds dat is gevormd door een van de personen, genoemd in [artikel 10, eerste lid, letters a), b) of c), of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), dan wel door zijn verzekeraar wordt geacht te zijn gevormd door alle in artikel 10, eerste lid, letters a), b) of c), of vierde lid, genoemde personen.
 
 ##### Artikel 13. Verdeling van het fonds
 
-1. Behoudens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01), als ook de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2019-07-01&g=2019-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2019-07-01&g=2019-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01), wordt het fonds verdeeld onder de schuldeisers in evenredigheid met de bedragen van hun erkende vorderingen op het fonds.
+1. Behoudens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), als ook de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), wordt het fonds verdeeld onder de schuldeisers in evenredigheid met de bedragen van hun erkende vorderingen op het fonds.
 
 2. Indien voor de verdeling van het fonds de aansprakelijke persoon of zijn verzekeraar een vordering op het fonds heeft voldaan, wordt deze persoon gesubrogeerd tot het bedrag dat hij heeft betaald in de rechten die de door hem schadeloos gestelde persoon op grond van dit Verdrag zou hebben gehad.
 
@@ -216,9 +216,9 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2 miljoen rekeneenhed
 
 ##### Artikel 14. Gevolgen van de vorming van het fonds
 
-1. Wanneer overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2019-07-01&g=2019-07-01) een fonds is gevormd, is het een persoon die een vordering tegen het fonds geldend kan maken, niet toegestaan om met betrekking tot deze vordering enig recht uit te oefenen ten aanzien van andere vermogensbestanddelen van een persoon door of namens wie het fonds is gevormd.
+1. Wanneer overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2025-03-01&g=2025-03-01) een fonds is gevormd, is het een persoon die een vordering tegen het fonds geldend kan maken, niet toegestaan om met betrekking tot deze vordering enig recht uit te oefenen ten aanzien van andere vermogensbestanddelen van een persoon door of namens wie het fonds is gevormd.
 
-2. Na de vorming van een fonds overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2019-07-01&g=2019-07-01), moet elk schip of moeten andere vermogensbestanddelen van een persoon ten wiens bate het fonds is gevormd waarop binnen het rechtsgebied van een Staat die Partij is bij dit Verdrag, beslag is gelegd ter zake van een vordering die tegen het fonds kan worden ingesteld, of enige gestelde zekerheid worden vrijgegeven op bevel van het gerecht of iedere andere bevoegde autoriteit van die Staat.
+2. Na de vorming van een fonds overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2025-03-01&g=2025-03-01), moet elk schip of moeten andere vermogensbestanddelen van een persoon ten wiens bate het fonds is gevormd waarop binnen het rechtsgebied van een Staat die Partij is bij dit Verdrag, beslag is gelegd ter zake van een vordering die tegen het fonds kan worden ingesteld, of enige gestelde zekerheid worden vrijgegeven op bevel van het gerecht of iedere andere bevoegde autoriteit van die Staat.
 
 3. Het eerste en tweede lid zijn alleen van toepassing, indien de schuldeiser een vordering tegen het fonds kan indienen bij het gerecht dat het fonds beheert en indien het fonds werkelijk beschikbaar en vrij overdraagbaar is met betrekking tot die vordering.
 
@@ -286,9 +286,9 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 - a). vorderingen voor schade, veroorzaakt door de wijziging van de fysische, chemische of biologische kwaliteit van het water;
 
-- b). vorderingen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2019-07-01&g=2019-07-01), voor zover daarop een internationaal verdrag of nationale regelgeving van toepassing is die beperking van aansprakelijkheid uitsluit of hogere aansprakelijkheidsgrenzen dan in dit Verdrag voorzien, vaststelt;
+- b). vorderingen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01), voor zover daarop een internationaal verdrag of nationale regelgeving van toepassing is die beperking van aansprakelijkheid uitsluit of hogere aansprakelijkheidsgrenzen dan in dit Verdrag voorzien, vaststelt;
 
-- c). vorderingen bedoeld in [artikel 2, eerste lid, letters d) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2019-07-01&g=2019-07-01);
+- c). vorderingen bedoeld in [artikel 2, eerste lid, letters d) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2025-03-01&g=2025-03-01);
 
 - d). lichters die uitsluitend worden gebruikt voor het overslaan van goederen in havens.
 
@@ -304,15 +304,15 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 1. Dit Verdrag kan worden opgezegd door een Staat die Partij is bij dit Verdrag door middel van een kennisgeving gericht aan de depositaris op ieder tijdstip na afloop van een jaar nadat het Verdrag voor de desbetreffende Staat in werking is getreden.
 
-2. Onverminderd het bepaalde in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=20&z=2019-07-01&g=2019-07-01), wordt de opzegging van kracht op de eerste dag van de maand na het verstrijken van zes maanden te rekenen vanaf de datum van ontvangst van de kennisgeving, of zoveel later als in de kennisgeving is vermeld.
+2. Onverminderd het bepaalde in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=20&z=2025-03-01&g=2025-03-01), wordt de opzegging van kracht op de eerste dag van de maand na het verstrijken van zes maanden te rekenen vanaf de datum van ontvangst van de kennisgeving, of zoveel later als in de kennisgeving is vermeld.
 
 ##### Artikel 20. Vereenvoudigde procedure ter wijziging van aansprakelijkheidsgrenzen
 
-1. De depositaris evalueert elke vijf jaar de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2019-07-01&g=2019-07-01) genoemde bedragen, waarbij de eerste evaluatie plaatsvindt op 31 december 2017. Voor de evaluatie wordt uitgegaan van een inflatiefactor, overeenkomend met het cumulatieve inflatiepercentage sinds de datum van de laatste kennisgeving, bedoeld in het tweede lid, die tot een wijziging van de aansprakelijkheidsgrenzen geleid heeft of, in het geval van de eerste evaluatie sinds de datum van inwerkingtreding van het Verdrag. De te gebruiken maat voor het inflatiepercentage om de inflatiefactor te bepalen, is het gewogen gemiddelde van het jaarlijkse percentage van de stijging of daling van de indices van de consumptieprijzen van de staten waarvan de munteenheden het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=9&z=2019-07-01&g=2019-07-01), genoemde bijzondere trekkingsrecht vormen.
+1. De depositaris evalueert elke vijf jaar de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) genoemde bedragen, waarbij de eerste evaluatie plaatsvindt op 31 december 2017. Voor de evaluatie wordt uitgegaan van een inflatiefactor, overeenkomend met het cumulatieve inflatiepercentage sinds de datum van de laatste kennisgeving, bedoeld in het tweede lid, die tot een wijziging van de aansprakelijkheidsgrenzen geleid heeft of, in het geval van de eerste evaluatie sinds de datum van inwerkingtreding van het Verdrag. De te gebruiken maat voor het inflatiepercentage om de inflatiefactor te bepalen, is het gewogen gemiddelde van het jaarlijkse percentage van de stijging of daling van de indices van de consumptieprijzen van de staten waarvan de munteenheden het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=9&z=2025-03-01&g=2025-03-01), genoemde bijzondere trekkingsrecht vormen.
 
 2. Indien bij de in het vorige lid bedoelde evaluatie wordt vastgesteld dat de inflatiefactor de tien procent heeft overschreden, geeft de depositaris aan de Verdragsluitende Staten kennis van de op grond van de inflatiefactor gewijzigde bedragen. De gewijzigde bedragen gelden als aangenomen na het verstrijken van een termijn van een jaar vanaf de dag van de kennisgeving, tenzij een derde van de Verdragsluitende Staten de depositaris binnen deze termijn heeft meegedeeld dat zij de wijziging afwijzen.
 
-3. Een wijziging die overeenkomstig het tweede lid als aangenomen kan worden beschouwd, wordt negen maanden na deze aanvaarding van kracht voor elke Staat die op dat tijdstip Partij is bij dit Verdrag, tenzij deze het Verdrag uiterlijk drie maanden voor het van kracht worden van de wijziging overeenkomstig [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=19&z=2019-07-01&g=2019-07-01), opzegt. De opzegging gaat in wanneer de wijziging van kracht wordt. De wijziging is bindend voor elke Staat die na de aanvaarding van de wijziging partij wordt bij dit Verdrag.
+3. Een wijziging die overeenkomstig het tweede lid als aangenomen kan worden beschouwd, wordt negen maanden na deze aanvaarding van kracht voor elke Staat die op dat tijdstip Partij is bij dit Verdrag, tenzij deze het Verdrag uiterlijk drie maanden voor het van kracht worden van de wijziging overeenkomstig [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=19&z=2025-03-01&g=2025-03-01), opzegt. De opzegging gaat in wanneer de wijziging van kracht wordt. De wijziging is bindend voor elke Staat die na de aanvaarding van de wijziging partij wordt bij dit Verdrag.
 
 4. Ongeacht het eerste lid van dit artikel is de in het tweede lid van dit artikel bedoelde procedure te allen tijde van toepassing indien een derde van de Verdragsluitende Staten de wens daartoe te kennen geeft en indien de in het eerste lid bedoelde inflatiefactor sinds de vorige evaluatie of sinds de datum van inwerkingtreding van dit Verdrag hoger is dan vijf procent en geen eerdere evaluatie heeft plaatsgevonden. Latere evaluaties volgens de in het eerste lid van dit artikel beschreven procedure vinden plaats elke vijf jaar vanaf het einde van het vijfde jaar volgend op de datum van de evaluatie die heeft plaatsgevonden overeenkomstig dit lid.
 
@@ -332,7 +332,7 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 - iii). elke opzegging van dit Verdrag en de datum waarop deze van kracht wordt;
 
-- iv). de datum waarop een wijziging als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=20&z=2019-07-01&g=2019-07-01), van kracht wordt;
+- iv). de datum waarop een wijziging als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=20&z=2025-03-01&g=2025-03-01), van kracht wordt;
 
 - v). iedere krachtens een bepaling van dit Verdrag vereiste verklaring.
 
