@@ -4,7 +4,7 @@ identifier: "BWBR0048958"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2024-01-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048958"
 soort: "beleidsregel"
@@ -49,7 +49,9 @@ Dit besluit vervangt het [Besluit Fiscaal Bestuursrecht van 15 oktober 2021, nr.
 
 ### § 1.1. Gebruikte begrippen en afkortingen
 
-### § 2. Beleidsregels ([artikel 1:3, vierde lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3))
+### § 1.1. Gebruikte begrippen en afkortingen
+
+### § 2. Fiscaal uitvoeringsbeleid
 
 ### § 3. Vooroverleg
 
@@ -57,9 +59,9 @@ Dit besluit vervangt het [Besluit Fiscaal Bestuursrecht van 15 oktober 2021, nr.
 
 ### § 5. Weigeren gemachtigde ([artikel 2:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:2))
 
-### § 6. Elektronisch berichtenverkeer ([artikel 2:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15))
-
 De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een belastingaanslag (zie [artikel 4:12 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:12)). De inspecteur neemt evenwel bij correcties van aangiften zo veel mogelijk vooraf contact op met de belanghebbende.
+
+### § 7. Horen bij het vaststellen van de aanslag ([artikel 4:12 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:12))
 
 ### § 8. Niet-ontvankelijk bezwaar ([artikel 6:6 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:6))
 
@@ -67,7 +69,9 @@ De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een b
 
 ### § 9. Horen in bezwaar ([artikel 7:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:2))
 
-### § 10. Uitstel beslissing op bezwaar ([artikel 7:10 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10))
+Voor de vraag bij welke rechtbank een belanghebbende een eventueel beroep moet indienen, is van belang waar een bestuursorgaan zijn zetel heeft (zie [artikel 8:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7)). Hiervoor geldt het volgende:
+
+### § 11. Ressortering ([artikel 8:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7))
 
 Voor de vraag bij welke rechtbank een belanghebbende een eventueel beroep moet indienen, is van belang waar een bestuursorgaan zijn zetel heeft (zie [artikel 8:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7)). Hiervoor geldt het volgende:
 
@@ -77,47 +81,43 @@ De (algemeen) directeuren van de Belastingdienst en de Douane behandelen klachte
 
 ### § 13. Uitnodiging aangifte IB/PVV en inkomensafhankelijke bijdrage Zvw ([artikel 6 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6))
 
-De inspecteur nodigt voor het doen van aangifte in ieder geval uit eenieder:
-
 ### § 14. Aangifteplicht Vpb voor curatoren ([artikel 8 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8))
 
 ### § 14. Aangifteplicht Vpb voor curatoren ([artikel 8 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8))
 
 ### § 15. Het tijdstip waarop aangifte wordt gedaan ([artikel 9 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9))
 
-### § 16. Geen voorlopige teruggaaf als de vereiste aangifte over een voorafgaand jaar ten onrechte niet is gedaan ([artikel 13 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13))
+Een voorlopige aanslag Vpb wordt alleen opgelegd als het te betalen of te ontvangen bedrag € 100 of meer is. Dit geldt in het geval de voorlopige aanslag lopende het jaar wordt opgelegd. Deze doelmatigheidsgrens geldt echter niet als de belastingplichtige zelf verzoekt om een voorlopige aanslag.
+
+### § 17. Doelmatigheidsgrens voorlopige aanslag Vpb ([artikel 13 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13))
 
 Een voorlopige aanslag Vpb wordt alleen opgelegd als het te betalen of te ontvangen bedrag € 100 of meer is. Dit geldt in het geval de voorlopige aanslag lopende het jaar wordt opgelegd. Deze doelmatigheidsgrens geldt echter niet als de belastingplichtige zelf verzoekt om een voorlopige aanslag.
 
 ### § 18
 
-(Vervallen)
-
 ### § 19. Belastingrente ([artikel 30f tot en met 30k AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f))
 
-### § 19. Belastingrente ([artikel 30f tot en met 30k AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f))
+Als een belastingaanslag erfbelasting is vastgesteld overeenkomstig een verzoek of overeenkomstig een ingediende aangifte wordt geen belastingrente in rekening gebracht dan wel wordt de in rekening te brengen rente beperkt (zie [artikel 30g, derde en vierde lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30g)). Bij nalatenschappen waarin zich een onroerende zaak bevindt, kan het voorkomen dat de WOZ-waarde wordt verlaagd nadat de aangifte erfbelasting is ingediend, maar voordat de definitieve aanslag is opgelegd. De inspecteur wijkt dan af van de aangifte. Een redelijke wetstoepassing brengt evenwel met zich dat deze aanpassing voor het berekenen van belastingrente niet als afwijking van de aangifte wordt gezien. Dit betekent dat ook in een dergelijk geval de hiervoor bedoelde beperking van de belastingrente toepassing vindt.
+
+### § 19.1. Belastingrente bij erfbelasting ([artikel 30g AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30g))
 
 Als een belastingaanslag erfbelasting is vastgesteld overeenkomstig een verzoek of overeenkomstig een ingediende aangifte wordt geen belastingrente in rekening gebracht dan wel wordt de in rekening te brengen rente beperkt (zie [artikel 30g, derde en vierde lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30g)). Bij nalatenschappen waarin zich een onroerende zaak bevindt, kan het voorkomen dat de WOZ-waarde wordt verlaagd nadat de aangifte erfbelasting is ingediend, maar voordat de definitieve aanslag is opgelegd. De inspecteur wijkt dan af van de aangifte. Een redelijke wetstoepassing brengt evenwel met zich dat deze aanpassing voor het berekenen van belastingrente niet als afwijking van de aangifte wordt gezien. Dit betekent dat ook in een dergelijk geval de hiervoor bedoelde beperking van de belastingrente toepassing vindt.
 
 ### § 19.2. Belastingrentevergoeding bij teruggaafbeschikking ([artikel 30ha AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha))
 
-Op basis van [artikel 30ha, eerste lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) vergoedt de inspecteur belastingrente ingeval een teruggaafbeschikking niet binnen de in dat artikel genoemde termijn wordt vastgesteld. Onder een teruggaafbeschikking valt ook een beschikking (inhoudende een teruggaaf) als gevolg van een verzoek om ambtshalve vermindering of uitspraak op bezwaar.
-
 ### § 20. Bewaarplicht ([artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) en [53 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53))
 
 ### § 20. Bewaarplicht ([artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) en [53 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53))
-
-### § 21. Informatieverstrekking door notarissen ([artikel 53a AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a))
 
 De instemming om een belastingaanslag te formaliseren met toepassing van [artikel 64 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64) laat onverlet de mogelijkheid om:
 
-### § 23. Ambtshalve verminderen of teruggeven ([artikel 65 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=65))
+### § 22. Instemming doelmatige formalisering belastingschuld ([artikel 64 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64))
 
 ### § 23. Ambtshalve verminderen of teruggeven ([artikel 65 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=65))
 
 Verschoningsrecht
 
-### § 25. Rapport verzending documenten Belastingdienst
+### § 24. Geheimhoudingsplicht ([artikel 67 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67))
 
 Bij bezwaarschriften of procedures komt het voor dat de belastingplichtige aangeeft bepaalde centraal verzonden documenten niet te hebben ontvangen. De behandelend ambtenaar kan in zo’n geval via een door Belastingdienst/Centrale administratieve processen beschikbaar gesteld formulier verzoeken om een rapport van waarnemingen en bevindingen in systemen van het tot stand komen van de datum van aanbieden aan de postleverancier. Dit rapport kan worden gebruikt bij de bewijsvoering dat het betreffende document door de Belastingdienst is verzonden.
 
@@ -145,11 +145,11 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Dit besluit is gewijzigd bij besluit van 21 december 2023, nr. 2023-26707 (Stcrt. 2023, 32829). Met ingang van 1 januari 2024 is in [artikel 10ei van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ei) een regeling opgenomen voor het herzien van een beschikking 30%-regeling na afloop van de bezwaartermijn. Naar aanleiding van deze wijziging is een onderdeel d aan het vijfde lid van § 23 toegevoegd zodat het ambtshalve beleid ook geldt voor deze herziening.
 
-### § 7. Horen bij het vaststellen van de aanslag ([artikel 4:12 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:12))
+### § 6. Elektronisch berichtenverkeer ([artikel 2:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15))
 
 De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een belastingaanslag (zie [artikel 4:12 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:12)). De inspecteur neemt evenwel bij correcties van aangiften zo veel mogelijk vooraf contact op met de belanghebbende.
 
-### § 11. Ressortering ([artikel 8:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7))
+### § 10. Uitstel beslissing op bezwaar ([artikel 7:10 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10))
 
 Voor de vraag bij welke rechtbank een belanghebbende een eventueel beroep moet indienen, is van belang waar een bestuursorgaan zijn zetel heeft (zie [artikel 8:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7)). Hiervoor geldt het volgende:
 
@@ -161,7 +161,7 @@ De (algemeen) directeuren van de Belastingdienst en de Douane behandelen klachte
 
 De inspecteur nodigt voor het doen van aangifte in ieder geval uit eenieder:
 
-### § 17. Doelmatigheidsgrens voorlopige aanslag Vpb ([artikel 13 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13))
+### § 16. Geen voorlopige teruggaaf als de vereiste aangifte over een voorafgaand jaar ten onrechte niet is gedaan ([artikel 13 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13))
 
 Een voorlopige aanslag Vpb wordt alleen opgelegd als het te betalen of te ontvangen bedrag € 100 of meer is. Dit geldt in het geval de voorlopige aanslag lopende het jaar wordt opgelegd. Deze doelmatigheidsgrens geldt echter niet als de belastingplichtige zelf verzoekt om een voorlopige aanslag.
 
@@ -169,7 +169,7 @@ Een voorlopige aanslag Vpb wordt alleen opgelegd als het te betalen of te ontvan
 
 (Vervallen)
 
-### § 19.1. Belastingrente bij erfbelasting ([artikel 30g AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30g))
+### § 19. Belastingrente ([artikel 30f tot en met 30k AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f))
 
 Als een belastingaanslag erfbelasting is vastgesteld overeenkomstig een verzoek of overeenkomstig een ingediende aangifte wordt geen belastingrente in rekening gebracht dan wel wordt de in rekening te brengen rente beperkt (zie [artikel 30g, derde en vierde lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30g)). Bij nalatenschappen waarin zich een onroerende zaak bevindt, kan het voorkomen dat de WOZ-waarde wordt verlaagd nadat de aangifte erfbelasting is ingediend, maar voordat de definitieve aanslag is opgelegd. De inspecteur wijkt dan af van de aangifte. Een redelijke wetstoepassing brengt evenwel met zich dat deze aanpassing voor het berekenen van belastingrente niet als afwijking van de aangifte wordt gezien. Dit betekent dat ook in een dergelijk geval de hiervoor bedoelde beperking van de belastingrente toepassing vindt.
 
@@ -177,11 +177,11 @@ Als een belastingaanslag erfbelasting is vastgesteld overeenkomstig een verzoek 
 
 Op basis van [artikel 30ha, eerste lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) vergoedt de inspecteur belastingrente ingeval een teruggaafbeschikking niet binnen de in dat artikel genoemde termijn wordt vastgesteld. Onder een teruggaafbeschikking valt ook een beschikking (inhoudende een teruggaaf) als gevolg van een verzoek om ambtshalve vermindering of uitspraak op bezwaar.
 
-### § 22. Instemming doelmatige formalisering belastingschuld ([artikel 64 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64))
+### § 21. Informatieverstrekking door notarissen ([artikel 53a AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a))
 
 De instemming om een belastingaanslag te formaliseren met toepassing van [artikel 64 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64) laat onverlet de mogelijkheid om:
 
-### § 24. Geheimhoudingsplicht ([artikel 67 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67))
+### § 23. Ambtshalve verminderen of teruggeven ([artikel 65 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=65))
 
 Verschoningsrecht
 
@@ -202,3 +202,15 @@ Het [Besluit Fiscaal Bestuursrecht van 15 oktober 2021, nr. 2021-9584](https://w
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
+
+Dit besluit is aanvullend gewijzigd bij besluit van 25 februari 2025, nr. 2024-31061, (Stcrt. 2025-7809). De wijzigingen betreffen de aanpassing van de paragrafen 2 en 24.
+
+De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een belastingaanslag (zie [artikel 4:12 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:12)). De inspecteur neemt evenwel bij correcties van aangiften zo veel mogelijk vooraf contact op met de belanghebbende.
+
+De inspecteur nodigt voor het doen van aangifte in ieder geval uit eenieder:
+
+(Vervallen)
+
+Op basis van [artikel 30ha, eerste lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) vergoedt de inspecteur belastingrente ingeval een teruggaafbeschikking niet binnen de in dat artikel genoemde termijn wordt vastgesteld. Onder een teruggaafbeschikking valt ook een beschikking (inhoudende een teruggaaf) als gevolg van een verzoek om ambtshalve vermindering of uitspraak op bezwaar.
+
+De instemming om een belastingaanslag te formaliseren met toepassing van [artikel 64 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64) laat onverlet de mogelijkheid om:
