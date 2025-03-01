@@ -4,7 +4,7 @@ identifier: "BWBR0041790"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2025-01-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041790"
 soort: "beleidsregel"
@@ -2244,6 +2244,109 @@ Het boetebedrag is nu vastgesteld op grond van de Beleidsregels bestuurlijke boe
 
 ## Bijlage. bij de Boetebeleidsregels Ministerie VWS 2019: [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) (Wpg)
 
-Dit onderdeel is nog niet inwerking getreden
+De hoogte van de daadwerkelijk op te leggen bestuurlijke boete wordt **per overtreding** aan de hand van de stappen uit deze bijlage vastgesteld.
+
+- •. Indien in de derde kolom van de tabel **SW** (**schriftelijke waarschuwing)**is aangegeven, is het uitgangspunt dat voor deze overtreding een waarschuwing wordt opgelegd. Indien er sprake is van een bijzondere reden, kan direct een bestuurlijke boete worden opgelegd. Dit zal dan gemotiveerd dienen te worden. Indien na het geven van een waarschuwing opnieuw een overtreding van hetzelfde wettelijke voorschrift wordt geconstateerd, kan een bestuurlijke boete worden opgelegd.
+
+- •. Indien in derde kolom van de tabel **DB (direct beboetbaar)** is aangeven, is het uitgangspunt dat deze overtreding direct beboet wordt. Indien er sprake is van een bijzondere reden, kan in plaats van een boete een waarschuwing worden opgelegd.
+
+- •. **Zwaartecategorie**: in de vierde kolom is met het aantal sterren de zwaarte van het door de overtreding geschonden belang vastgesteld.
+
+- •. **Boetenormbedrag**: in de vijfde kolom is aangegeven welk boetebedrag passend is bij de geconstateerde overtreding. Het boetenormbedrag is het uitgangspunt voor de berekening van het boetebedrag.
+
+| Artikel | Omschrijving wettelijk voorschrift | SW (schriftelijke waarschuwing)/ DB (direct beboetbaar) | Zwaartecategorie | Boetenormbedrag (=N) |
+| --- | --- | --- | --- | --- |
+| [12b, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) | Het bewaren, bewerken, gebruiken of anderszins verwerken van een bij algemene maatregel van bestuur aangewezen type poliovirus door eenieder zonder vergunning van Onze Minister. | DB | *** | € 51.500 |
+| [12b, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) | Het niet naleven van een door Onze Minister gegeven bevel om bepaalde handelingen of werkzaamheden, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12), op te schorten indien dat noodzakelijk is ter bescherming van de volksgezondheid. | DB | *** | € 51.500 |
+| [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12e) | De houder van een vergunning, bedoeld in [artikel 12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b), voldoet niet aan de krachtens artikel 12b, derde lid, gestelde eisen ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van poliovirus, alsmede aan de voorwaarden, voorschriften of beperkingen die aan de vergunning zijn verbonden. | SW | ** | € 51.500 |
+| [12g, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12g) | De houder van een vergunning bewerkt, gebruikt of anderszins verwerkt het poliovirus gedurende de schorsing van de vergunning. | DB | *** | € 51.500 |
+| [12h](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12h) | Indien de vergunning is vervallen of ingetrokken, ontdoet degene aan wie de vergunning was verleend zich niet (binnen de gestelde termijn) van het aanwezige poliovirus. | DB | *** | € 51.500 |
+| [12i, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12i) | Het niet melden aan Onze Minister door eenieder die bij algemene maatregel van bestuur aangewezen handelingen verricht met bij die maatregel aangewezen typen poliovirus. | SW | ** | € 51.500 |
+| [29a, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=29a) | Het niet onverwijld melden van een (potentiële) blootstelling aan poliovirus aan de inspectie en de arts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=17), door eenieder die handelingen met poliovirus verricht of heeft verricht waarvoor de in [artikel 12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b), bedoelde vergunningplicht geldt. | DB | *** | € 2.575 |
+
+In onderstaand schema A zijn twee factoren genoemd die meegewogen worden bij het bepalen van de ernst van de overtreding.
+
+**Ten eerste de duur van de overtreding**. Bij een overtreding die minder dan een maand heeft geduurd, is er sprake van een ‘korte’ duur. Indien een overtreding langer dan drie maanden heeft geduurd, is er sprake van een ‘lange’ duur.
+
+**Ten tweede de omvang van de overtreding**. Bestaat de overtreding uit minder dan vijf handelingen, dan wordt de omvang als klein en verlichtend beoordeeld. Bestaat de overtreding uit meer dan tien handelingen dan wordt de omvang als groot en verzwarend beoordeeld.
+
+|   | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- | --- | --- |
+| **1** | Duur | □ | kort | verlichtend |
+| **1** | Duur | □ | gemiddeld | geen |
+| **1** | Duur | □ | lang | verzwarend |
+| **1** | Duur | □ | niet van toepassing | geen |
+| **1** | **Motivering:** | **Motivering:** | **Motivering:** | **Motivering:** |
+| **2** | Omvang | □ | klein | verlichtend |
+| **2** | Omvang | □ | gemiddeld | geen |
+| **2** | Omvang | □ | groot | verzwarend |
+| **2** | Omvang | □ | niet van toepassing | geen |
+|   | **Motivering:** |   |   |   |
+
+Met behulp van onderstaand schema B wordt bepaald welk voorlopig boetebedrag van toepassing is op grond van de uitkomsten van stap 1 en 2. Bij het invullen van schema B vallen de verlichtende en verzwarende omstandigheden bij gelijke telling tegen elkaar weg.
+
+Voor het gebruik van schema B geldt het volgende:
+
+- □. A Er zijn één of twee verlichtende omstandigheden van toepassing
+
+- □. B Er zijn geen verlichtende en/of verzwarende omstandigheden van toepassing
+
+- □. C Er zijn één of twee verzwarende omstandigheden van toepassing
+
+| **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € |
+|   | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) |   | ** |   | *** |
+| A |   |   | □ | 50% N | □ | 80% N |
+| B |   |   | □ | 60% N | □ | 90% N |
+| C |   |   | □ | 70% N | □ | 100% N |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+De boete wordt afgestemd op de mate waarin de overtreding aan de overtreder kan worden verweten. Hierbij wordt een onderscheid gemaakt tussen opzet, grove schuld, normale verwijtbaarheid en verminderde verwijtbaarheid. Als uitgangspunt geldt dat in beginsel sprake is van normale verwijtbaarheid.
+
+De minister moet aantonen dat sprake is van opzet of grove schuld. Onder opzet wordt verstaan het willens en wetens handelen of nalaten in strijd met het bepaalde in de genoemde artikelen.
+
+Grove schuld is aan de orde wanneer de mate van verwijtbaarheid hoger ligt dan de normale verwijtbaarheid, maar er geen sprake is van opzet. Bijvoorbeeld in het geval van een ernstige, aan opzet grenzende, mate van verwijtbaarheid. Hierbij gaat het dan om ernstige nalatigheid, ernstige onzorgvuldigheid of ernstige onachtzaamheid met als gevolg dat de betreffende bepaling niet of niet behoorlijk is nageleefd. Van grove schuld kan ook sprake zijn wanneer er omstandigheden zijn die elk op zich normale verwijtbaarheid opleveren, maar in onderlinge samenhang bezien wel leiden tot grove schuld.
+
+Onder verminderde verwijtbaarheid wordt verstaan situaties waarin het de overtreder niet volledig valt aan te rekenen dat hij de overtreding heeft begaan. Op de overtreder rust de verplichting de daarvoor noodzakelijke feiten en omstandigheden aannemelijk te maken.
+
+Indien aan de orde, geldt dat sprake is van verminderde verwijtbaarheid wanneer de overtreder niet aan een meldplicht heeft voldaan en hieraan alsnog uit eigen beweging heeft voldaan. Deze vrijwillige melding moet plaatsvinden vóórdat de overtreder moet of redelijkerwijs kan vermoeden dat de ambtenaren van de inspectie die zijn belast met het toezicht op de naleving van de betreffende bepaling informatie hebben of zullen krijgen dat de overtreder niet aan deze meldplicht heeft voldaan.
+
+| **Van toepassing** | **Van toepassing** |
+| --- | --- |
+| □ Er is sprake van verminderde verwijtbaarheid | –25% van het bedrag uit schema B |
+| **Motivering:** | **Motivering:** |
+| □ Er is sprake van normale verwijtbaarheid | Het boetebedrag uit schema B blijft gelijk |
+| **Motivering:** | **Motivering:** |
+| □ Er is sprake van grove schuld | +25% van het bedrag uit schema B |
+| **Motivering:** | **Motivering:** |
+| □ Er sprake van opzet | +50% van het bedrag uit schema B Deze mag het maximale vastgestelde boetebedrag in de wet niet overschrijden |
+| **Motivering:** | **Motivering:** |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+De aard van de overtreder speelt een rol in het bepalen van de hoogte van de boete. Er wordt een onderscheid gemaakt tussen een natuurlijk persoon, een natuurlijk persoon die een onderneming drijft of een rechtspersoon die een onderneming drijft. Dit zorgt ervoor dat natuurlijke personen en rechtspersonen op evenredige wijze worden geraakt door de boete.
+
+De grootte van de onderneming van een natuurlijk persoon en een rechtspersoon wordt berekend aan de hand van het aantal fte binnen de onderneming. Dit wordt bepaald door de hoeveelheid werkzame personen van een onderneming, zoals geregistreerd in het handelsregister van de Kamer van Koophandel, te vermenigvuldigen met 0,65 (afgeleid van het statistisch gemiddelde van het CBS van werkzame personen per fte volgens CBS).
+
+Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indien er reden is om aan te nemen dat de registratie in het handelsregister onjuist of niet langer actueel is, wordt een inschatting van het aantal werkzame personen gemaakt op basis van constateringen van de inspecteur tijdens een inspectie of gegevens uit het jaarverslag. Het aantal fte wordt indien nodig afgerond in het voordeel van de betrokkene. Een uitkomst van 0,65 of minder wordt afgerond op 1 fte.
+
+| **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met minder dan 20 FTE | Boetebedrag is 50% van het in schema C vastgestelde bedrag |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met 20 of meer FTE, maar minder dan 100 FTE | Boetebedrag is 75% van het in schema C vastgestelde bedrag |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met 100 of meer FTE | Het in schema C vastgestelde bedrag blijft gelijk |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, aan te duiden als recidive, wordt het nominale boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Bij een derde overtreding van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag verhoogd met factor 3. Bij volgende overtredingen van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag steeds met een extra factor 1 verhoogd ten opzichte van de eerdere verhogingsfactor, tot het maximale in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vastgestelde boetebedrag is bereikt. Onherroepelijkheid van een eerdere boete speelt geen rol bij de vraag of de boete verhoogd kan worden wegens recidive.
+
+| **Van toepassing** | **Van toepassing** |
+| --- | --- |
+| □ Recidive: nee | Het in schema D vastgestelde bedrag blijft gelijk |
+| **Eind boetebedrag: €** | **Eind boetebedrag: €** |
+| □ Recidive: ja | Het boetebedrag van schema D dient verdubbeld te worden. Deze mag het maximale vastgestelde boetebedrag in de wet niet overschrijden |
+| Rapportnummer: Datum overtreding: | Rapportnummer: Datum overtreding: |
+| **Eind boetebedrag: €** | **Eind boetebedrag: €** |
+
+Het boetebedrag is nu vastgesteld op grond van de Beleidsregels bestuurlijke boete Ministerie Volksgezondheid Welzijn en Sport 2019.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
