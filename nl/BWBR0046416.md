@@ -4,7 +4,7 @@ identifier: "BWBR0046416"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-03-01"
-last_updated: "2022-03-11"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046416"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of ee
 
 ##### Artikel 4.4. Kleinhandel op afstand in diergeneesmiddelen
 
-1. Een persoon met een vergunning voor kleinhandel kan, in afwijking van artikel 104, eerste lid, van verordening (EU) nr. 2019/6, via diensten van de informatiemaatschappij als bedoeld in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241) diergeneesmiddelen aanbieden die zijn aangewezen op grond van [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2022-03-11&g=2022-03-11).
+1. Een persoon met een vergunning voor kleinhandel kan, in afwijking van artikel 104, eerste lid, van verordening (EU) nr. 2019/6, via diensten van de informatiemaatschappij als bedoeld in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241) diergeneesmiddelen aanbieden die zijn aangewezen op grond van [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2025-03-01&g=2025-03-01).
 
 2. Het eerste lid is uitsluitend van toepassing op personen die in Nederland gevestigd zijn en enkel ten aanzien van levering in Nederland.
 
@@ -158,7 +158,7 @@ Onze Minister kan een vergunning voor groothandel wijzigen indien de groothandel
 
 - a. de kleinhandelaar een voorschrift als bedoeld in artikel 103, tweede, derde en vijfde lid, van verordening (EU) nr. 2019/6 overtreedt;
 
-- b. de kleinhandelaar een voorschrift overtreedt dat is gesteld krachtens [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2022-03-11&g=2022-03-11);
+- b. de kleinhandelaar een voorschrift overtreedt dat is gesteld krachtens [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2025-03-01&g=2025-03-01);
 
 - c. de kleinhandelaar met het diergeneesmiddel omgaat in strijd met de informatie die overeenkomstig verordening (EU) nr. 2019/6 is aangebracht op de verpakking van een diergeneesmiddel of gemedicineerd diervoeder of bij deze verpakking is gevoegd; of
 
@@ -176,7 +176,7 @@ Onze Minister kan een vergunning voor groothandel wijzigen indien de groothandel
 
 2. In afwijking van het eerste lid kan een voorschriftplichtig diergeneesmiddel worden geleverd door iedere persoon met een vergunning voor kleinhandel indien het diergeneesmiddel daartoe door Onze Minister is aangewezen vanwege een naar het oordeel van Onze Minister beperkt gevaar voor de volksgezondheid, diergezondheid, het dierenwelzijn of milieu.
 
-3. Een dierenarts kan het afleveren van een diergeneesmiddel door een andere persoon, in afwijking van het eerste en tweede lid en [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2022-03-11&g=2022-03-11), uit laten voeren voor zover dit in overeenstemming is met de zorgplichten, bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.2) en regels die bij ministeriële regeling kunnen worden gesteld over het afleveren door een persoon zonder kleinhandelsvergunning.
+3. Een dierenarts kan het afleveren van een diergeneesmiddel door een andere persoon, in afwijking van het eerste en tweede lid en [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2025-03-01&g=2025-03-01), uit laten voeren voor zover dit in overeenstemming is met de zorgplichten, bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.2) en regels die bij ministeriële regeling kunnen worden gesteld over het afleveren door een persoon zonder kleinhandelsvergunning.
 
 ##### Artikel 5.2. Bewaren en behandelen van diergeneesmiddelen
 
@@ -276,7 +276,7 @@ Wijzigt het Opiumwetbesluit.
 
 ##### Artikel 10.1. Overgangsrecht kanalisatie
 
-1. Zolang Onze Minister nog geen aanwijzingsbesluit heeft genomen als bedoeld in de [artikelen 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2022-03-11&g=2022-03-11), en [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.3&z=2022-03-11&g=2022-03-11), gelden de voorschriften die zijn verbonden aan de vergunningen voor het in de handel brengen van diergeneesmiddelen, bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.15), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.17) en [2.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.18), zoals die regeling luidde op 27 januari 2022, als aanwijzingen als bedoeld in de artikelen 5.1, tweede lid, en 5.3, eerste lid.
+1. Zolang Onze Minister nog geen aanwijzingsbesluit heeft genomen als bedoeld in de [artikelen 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2025-03-01&g=2025-03-01), en [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.3&z=2025-03-01&g=2025-03-01), gelden de voorschriften die zijn verbonden aan de vergunningen voor het in de handel brengen van diergeneesmiddelen, bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.15), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.17) en [2.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.18), zoals die regeling luidde op 27 januari 2022, als aanwijzingen als bedoeld in de artikelen 5.1, tweede lid, en 5.3, eerste lid.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -286,9 +286,7 @@ Wijzigt het Opiumwetbesluit.
 
 ##### Artikel 10.2. Overgangsrecht dierverloskundigen en castreurs
 
-1. Een dierverloskundige als bedoeld in [artikel 7.4, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=7.4) en een castreur als bedoeld in [artikel 7.5, eerste lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=7.5) hebben van rechtswege een vergunning voor kleinhandel als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2022-03-11&g=2022-03-11).
-
-2. Dit artikel vervalt met ingang van 1 maart 2025.
+Vervallen
 
 ##### Artikel 10.3. Intrekken [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091)
 
