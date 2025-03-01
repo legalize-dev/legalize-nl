@@ -4,7 +4,7 @@ identifier: "BWBV0007035"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-01"
-last_updated: "2024-01-18"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007035"
 soort: "verdrag"
@@ -147,7 +147,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 8. Gerubriceerde contracten
 
-1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract met een rubriceringsniveau dat overeenkomt met „Stg. CONFIDENTIEEL/ KONFIDENTIELL” of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=4&z=2024-01-18&g=2024-01-18) van dit Verdrag toe te kennen aan een (onder-)opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het vereiste rubriceringsniveau. Voor gerubriceerde contracten met het rubriceringsniveau dat overeenkomt met DEPARTEMENTAAL VERTROUWELIJK / BEGRÄNSAT HEMLIG” zoals vermeld in artikel 4 van dit Verdrag, kan een veiligheidsmachtiging bedrijfslocatie vereist zijn indien dit verplicht wordt gesteld in de nationale wet- en regelgeving van de opdrachtnemer.
+1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract met een rubriceringsniveau dat overeenkomt met „Stg. CONFIDENTIEEL/ KONFIDENTIELL” of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag toe te kennen aan een (onder-)opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het vereiste rubriceringsniveau. Voor gerubriceerde contracten met het rubriceringsniveau dat overeenkomt met DEPARTEMENTAAL VERTROUWELIJK / BEGRÄNSAT HEMLIG” zoals vermeld in artikel 4 van dit Verdrag, kan een veiligheidsmachtiging bedrijfslocatie vereist zijn indien dit verplicht wordt gesteld in de nationale wet- en regelgeving van de opdrachtnemer.
 
 2. Voorafgaand aan de toekenning van een gerubriceerd contract waarborgt de bevoegde beveiligingsautoriteit dat de opdrachtnemer:
 
@@ -163,7 +163,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Elke bevoegde beveiligingsautoriteit kan verzoeken dat er een beveiligingscontrole wordt uitgevoerd op een faciliteit onder de rechtsmacht van de andere partij door de bevoegde beveiligingsautoriteit van die partij om de blijvende naleving van de beveiligingsvereisten in overeenkomst met dit Verdrag te waarborgen.
 
-5. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=11&z=2024-01-18&g=2024-01-18) van dit Verdrag te zijn.
+5. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=11&z=2025-03-01&g=2025-03-01) van dit Verdrag te zijn.
 
 6. Indien een opdrachtnemer delen van een gerubriceerd contract uitbesteedt aan een onderaannemer, waarborgen de opdrachtnemer en de onderaannemer de naleving van dit artikel.
 
@@ -191,7 +191,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 11. Bezoeken
 
-1. Bezoeken waarbij toegang tot gerubriceerde gegevens op het niveau Stg. CONFIDENTIEEL/KONFIDENTIELL of hoger zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=4&z=2024-01-18&g=2024-01-18) van dit Verdrag vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de bevoegde beveiligingsautoriteit van de als gastheer optredende partij, tenzij anderszins overeengekomen door de bevoegde beveiligingsautoriteiten. Deze goedkeuring wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), die een veiligheidsmachtiging personeel hebben op het overeenkomstige niveau of die anderszins gemachtigd zijn om toegang te krijgen tot gerubriceerde gegevens uit hoofde van hun functie, in overeenstemming met de nationale wet- en regelgeving van de ontvangende partij. Indien dit verplicht is volgens de nationale wet- en regelgeving van de als gastheer optredende partij kunnen bezoeken op het niveau DEPARTEMENTAAL VERTROUWELIJK/ BEGRÄNSAT HEMLIG onderworpen zijn aan voorafgaande schriftelijke toestemming van de bevoegde beveiligingsautoriteit van de als gastheer optredende partij.
+1. Bezoeken waarbij toegang tot gerubriceerde gegevens op het niveau Stg. CONFIDENTIEEL/KONFIDENTIELL of hoger zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007035&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de bevoegde beveiligingsautoriteit van de als gastheer optredende partij, tenzij anderszins overeengekomen door de bevoegde beveiligingsautoriteiten. Deze goedkeuring wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), die een veiligheidsmachtiging personeel hebben op het overeenkomstige niveau of die anderszins gemachtigd zijn om toegang te krijgen tot gerubriceerde gegevens uit hoofde van hun functie, in overeenstemming met de nationale wet- en regelgeving van de ontvangende partij. Indien dit verplicht is volgens de nationale wet- en regelgeving van de als gastheer optredende partij kunnen bezoeken op het niveau DEPARTEMENTAAL VERTROUWELIJK/ BEGRÄNSAT HEMLIG onderworpen zijn aan voorafgaande schriftelijke toestemming van de bevoegde beveiligingsautoriteit van de als gastheer optredende partij.
 
 2. De bezoeker dient de aanvraag voor het bezoek ten minste tien dagen vóór de beoogde datum van het bezoek in bij zijn bevoegde beveiligingsautoriteit, die de aanvraag doorstuurt naar de bevoegde beveiligingsautoriteit van de andere partij. In dringende gevallen kan de aanvraag van een verzoek binnen een kortere termijn worden ingediend, mits hierover voorafgaande afstemming tussen de bevoegde beveiligingsautoriteiten plaatsvindt.
 
