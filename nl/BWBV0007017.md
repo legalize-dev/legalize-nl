@@ -4,7 +4,7 @@ identifier: "BWBV0007017"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-01"
-last_updated: "2023-11-07"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007017"
 soort: "verdrag"
@@ -153,7 +153,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. een rubriceringsgids;
 
-- b. een procedure voor het doorgeven van wijzigingen van het rubriceringsniveau, rekening houdend met [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2023-11-07&g=2023-11-07), van dit Verdrag;
+- b. een procedure voor het doorgeven van wijzigingen van het rubriceringsniveau, rekening houdend met [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2025-03-01&g=2025-03-01), van dit Verdrag;
 
 - c. de kanalen en procedures die gebruikt dienen te worden voor het vervoer en/of de overdracht van gerubriceerde gegevens;
 
@@ -175,15 +175,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. Reproducties en vertalingen van gerubriceerde gegevens krijgen dezelfde rubriceringsmarkering en beveiliging als de oorspronkelijke gerubriceerde gegevens.
 
-2. Vertalingen of reproducties worden beperkt tot het minimumaantal dat nodig is voor gebruik uit hoofde van dit Verdrag en worden uitsluitend gemaakt door natuurlijke personen die in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=5&z=2023-11-07&g=2023-11-07) van dit Verdrag gemachtigd zijn om toegang te krijgen tot gerubriceerde gegevens met het rubriceringsniveau van de gerubriceerde gegevens die vertaald of gereproduceerd worden.
+2. Vertalingen of reproducties worden beperkt tot het minimumaantal dat nodig is voor gebruik uit hoofde van dit Verdrag en worden uitsluitend gemaakt door natuurlijke personen die in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=5&z=2025-03-01&g=2025-03-01) van dit Verdrag gemachtigd zijn om toegang te krijgen tot gerubriceerde gegevens met het rubriceringsniveau van de gerubriceerde gegevens die vertaald of gereproduceerd worden.
 
 3. Vertalingen dienen te worden voorzien van een passende annotatie in de taal waarin zij zijn gesteld met de aanduiding dat zij gerubriceerde gegevens bevatten van de verstrekkende partij.
 
-4. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met „TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2023-11-07&g=2023-11-07) van dit Verdrag worden niet vertaald of gereproduceerd zonder voorafgaande schriftelijke toestemming van de partij van herkomst.
+4. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met „TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag worden niet vertaald of gereproduceerd zonder voorafgaande schriftelijke toestemming van de partij van herkomst.
 
-5. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met „TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2023-11-07&g=2023-11-07) van dit Verdrag worden niet vernietigd zonder voorafgaande schriftelijke toestemming van de partij van herkomst. Zij worden geretourneerd aan de partij van herkomst nadat de verstrekkende en de ontvangende partij ze niet meer nodig achten.
+5. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met „TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag worden niet vernietigd zonder voorafgaande schriftelijke toestemming van de partij van herkomst. Zij worden geretourneerd aan de partij van herkomst nadat de verstrekkende en de ontvangende partij ze niet meer nodig achten.
 
-6. Gerubriceerde gegevens tot en met rubriceringsniveaus die overeenkomen met „SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2023-11-07&g=2023-11-07) van dit Verdrag worden vernietigd nadat de ontvangende partij ze niet meer nodig acht, in overeenstemming met haar nationale wet- en regelgeving. Nadat gerubriceerde gegevens met rubriceringsniveau „SECRET” zijn vernietigd overeenkomstig dit lid, wordt een kennisgeving naar de partij van herkomst gezonden.
+6. Gerubriceerde gegevens tot en met rubriceringsniveaus die overeenkomen met „SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007017&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag worden vernietigd nadat de ontvangende partij ze niet meer nodig acht, in overeenstemming met haar nationale wet- en regelgeving. Nadat gerubriceerde gegevens met rubriceringsniveau „SECRET” zijn vernietigd overeenkomstig dit lid, wordt een kennisgeving naar de partij van herkomst gezonden.
 
 7. Indien een crisissituatie het onmogelijk maakt de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens te beveiligen, dienen de gerubriceerde gegevens onmiddellijk vernietigd te worden. De ontvangende partij stelt de bevoegde beveiligingsautoriteit van de verstrekkende partij onverwijld in kennis van de vernietiging van deze gerubriceerde gegevens.
 
