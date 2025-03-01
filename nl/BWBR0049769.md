@@ -4,7 +4,7 @@ identifier: "BWBR0049769"
 country: "nl"
 rank: "wet"
 publication_date: "2025-03-01"
-last_updated: "2025-01-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049769"
 soort: "wet"
@@ -69,7 +69,7 @@ Wijzigt de Wet vervoer gevaarlijke stoffen.
 
 ##### Artikel VIa
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel I, onderdelen E, J en M](https://wetten.overheid.nl/jci1.3:c:BWBR0049769&artikel=I&z=2025-01-01&g=2025-01-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0049769&artikel=II&z=2025-01-01&g=2025-01-01) van deze wet in de praktijk.
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel I, onderdelen E, J en M](https://wetten.overheid.nl/jci1.3:c:BWBR0049769&artikel=I&z=2025-03-01&g=2025-03-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0049769&artikel=II&z=2025-03-01&g=2025-03-01) van deze wet in de praktijk.
 
 ##### Artikel VII
 
