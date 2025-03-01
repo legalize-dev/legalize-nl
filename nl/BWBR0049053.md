@@ -4,7 +4,7 @@ identifier: "BWBR0049053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-01"
-last_updated: "2023-09-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049053"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Autoriteit:** de Autoriteit online Terroristisch en Kinderpornografisch materiaal als bedoeld in [artikel 2 van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2);
+- a. **de Autoriteit:** de Autoriteit online Terroristisch en Kinderpornografisch materiaal als bedoeld in [artikel 2 van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2) en in [artikel 2 van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2);
 
 - b. **het bureau:** de organisatie van medewerkers die feitelijk werkzaam zijn voor de Autoriteit;
 
