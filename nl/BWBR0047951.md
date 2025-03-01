@@ -4,7 +4,7 @@ identifier: "BWBR0047951"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-03-01"
-last_updated: "2023-04-01"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047951"
 soort: "AMvB"
@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 1. Voor het bepalen van het doel, het onderwerp en de inhoud van het experiment, wordt zo concreet en nauwkeurig mogelijk bepaald hoe het experiment naar verwachting bijdraagt aan de doelstelling van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790).
 
-2. Overeenkomstig de [artikelen 3 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2023-04-01&g=2023-04-01) wordt bepaald op welke wijze en onder welke voorwaarden wordt voldaan aan het eerste lid.
+2. Overeenkomstig de [artikelen 3 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01) wordt bepaald op welke wijze en onder welke voorwaarden wordt voldaan aan het eerste lid.
 
 3. Toegelicht wordt ten minste:
 
@@ -120,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 1. Bij de afbakening van het experiment, bedoeld in [artikel 2, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=2), wordt ten minste rekening gehouden met de volgende omstandigheden:
 
-- a. het doel van het experiment, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=2&z=2023-04-01&g=2023-04-01);
+- a. het doel van het experiment, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01);
 
 - b. de informatie die nodig is om in de evaluatie de doeltreffendheid en de effecten van de afwijkingen van de wetten te kunnen vaststellen en welke omvang het experiment in dat verband zou moeten hebben; en
 
@@ -160,9 +160,9 @@ In dit besluit wordt verstaan onder:
 
 1. Alvorens de gerechten die aan een experiment deelnemen, een zaak die mogelijk valt binnen de afbakening van het experiment, bedoeld in [artikel 2, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=2), inhoudelijk in behandeling nemen, beoordelen zij:
 
-- a. bij een dwingend experiment als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2023-04-01&g=2023-04-01), of deze zaak behandeld wordt in de experimentele procedure;
+- a. bij een dwingend experiment als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), of deze zaak behandeld wordt in de experimentele procedure;
 
-- b. bij een facultatief of vrijwillig experiment als bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2023-04-01&g=2023-04-01), of deze zaak in aanmerking komt om behandeld te worden in de experimentele procedure.
+- b. bij een facultatief of vrijwillig experiment als bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), of deze zaak in aanmerking komt om behandeld te worden in de experimentele procedure.
 
 2. Bepaald wordt hoe gebreken worden opgelost als een zaak niet in de van toepassing zijnde procedure aanhangig is gemaakt, met het oog op de behandeling van die zaak in de van toepassing zijnde procedure en wat de rechtsgevolgen daarvan zijn.
 
@@ -214,7 +214,7 @@ De evaluatie wordt lopende het experiment uitgevoerd.
 
 1. De opdracht tot het uitvoeren van het evaluatieonderzoek wordt verstrekt door de Raad voor de rechtspraak, in overleg met de Minister voor Rechtsbescherming.
 
-2. Bepaald wordt welke onderzoeksinstantie of welke onderzoekers de evaluatie zullen uitvoeren. Indien een onderzoeker tussentijds het onderzoek verlaat, zijn de overgebleven onderzoekers bij uitsluiting gemachtigd om een vervanger aan te wijzen.
+2. Toegelicht wordt welke onderzoeksinstantie of welke onderzoekers de evaluatie zullen uitvoeren. Indien een onderzoeker tussentijds het onderzoek verlaat, zijn de overgebleven onderzoekers bij uitsluiting gemachtigd om een vervanger aan te wijzen.
 
 3. De onderzoekers zijn onafhankelijk en verrichten hun onderzoek onafhankelijk.
 
@@ -222,17 +222,17 @@ De evaluatie wordt lopende het experiment uitgevoerd.
 
 ##### Artikel 17. – Rol van de gerechten
 
-1. De deelnemende en de betrokken gerechten als bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=8&z=2023-04-01&g=2023-04-01), dragen er met het oog op de evaluatie zorg voor dat de onderzoekers gedurende het experiment hun onderzoek kunnen uitvoeren en daartoe toegang krijgen tot de daarvoor noodzakelijke personen, zittingen, dossiers, documenten en informatie.
+1. De deelnemende en de betrokken gerechten als bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=8&z=2025-03-01&g=2025-03-01), dragen er met het oog op de evaluatie zorg voor dat de onderzoekers gedurende het experiment hun onderzoek kunnen uitvoeren en daartoe toegang krijgen tot de daarvoor noodzakelijke personen, zittingen, dossiers, documenten en informatie.
 
 2. Zo nodig zijn de gerechten de onderzoekers behulpzaam bij het benaderen van procespartijen en de door hen ingeschakelde rechtshulpverleners en anderen die beroepsmatig bij de zaak waren betrokken.
 
 3. De gerechten dragen er voor zover mogelijk zorg voor dat er een nulmeting wordt uitgevoerd over de in de evaluatie te betrekken onderwerpen.
 
-4. De onderzoekers stellen in overleg met de deelnemende en de betrokken gerechten als bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=8&z=2023-04-01&g=2023-04-01), uniforme protocollen op ten behoeve van de toegang, verzameling en aanlevering van de voor de evaluatie noodzakelijke informatie en nemen daarin de afspraken op die worden gemaakt ter waarborging van de rol van de gerechten, bedoeld in het eerste en tweede lid.
+4. De onderzoekers stellen in overleg met de deelnemende en de betrokken gerechten als bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=8&z=2025-03-01&g=2025-03-01), uniforme protocollen op ten behoeve van de toegang, verzameling en aanlevering van de voor de evaluatie noodzakelijke informatie en nemen daarin de afspraken op die worden gemaakt ter waarborging van de rol van de gerechten, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 18. – Rapportage
 
-Tenzij het experiment tussentijds overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=11&z=2023-04-01&g=2023-04-01) wordt beëindigd, wordt uiterlijk zes maanden voor het eind van het experiment een conceptrapport aangeboden aan de Minister voor Rechtsbescherming en wordt het eindrapport van de evaluatie hem uiterlijk vier maanden voor het eind van het experiment aangeboden.
+Tenzij het experiment tussentijds overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047951&hoofdstuk=2&artikel=11&z=2025-03-01&g=2025-03-01) wordt beëindigd, wordt uiterlijk zes maanden voor het eind van het experiment een conceptrapport aangeboden aan de Minister voor Rechtsbescherming en wordt het eindrapport van de evaluatie hem uiterlijk vier maanden voor het eind van het experiment aangeboden.
 
 ### Hoofdstuk 4. Slotbepalingen
 
