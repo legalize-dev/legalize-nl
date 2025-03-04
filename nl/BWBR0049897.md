@@ -4,7 +4,7 @@ identifier: "BWBR0049897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2024-11-27"
+last_updated: "2025-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049897"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak:** een tijdvak als bedoeld in [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=6&z=2024-11-27&g=2024-11-27), waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ingediend;
+- **aanvraagtijdvak:** een tijdvak als bedoeld in [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=6&z=2025-03-04&g=2025-03-04), waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ingediend;
 
 - **burgerservicenummer:** een nummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
-- **statushouder:** vreemdeling als bedoeld in [artikel 8, onderdeel c, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
+- **statushouder:** vreemdeling als bedoeld in [artikel 8, onderdelen c en d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
 - **werkgever:** hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610).
 
@@ -68,7 +68,7 @@ Het doel van deze regeling is het stimuleren van werkgevers om statushouders in 
 
 Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder indien:
 
-- a. de statushouder op basis van een arbeidsovereenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), met een duur van ten minste twaalf maanden en voor ten minste 20 uur per week arbeid verricht voor de werkgever die de subsidie aanvraagt en het tijdstip van totstandkoming van de arbeidsovereenkomst maximaal zes maanden voorafgaand aan de publicatie van deze regeling in de Staatscourant ligt;
+- a. de statushouder op basis van een arbeidsovereenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), met een duur van ten minste twaalf maanden en voor ten minste 20 uur per week arbeid verricht, waarbij er geen sprake is van ter beschikking stelling van arbeidskrachten als bedoeld in [artikel 1, onderdeel c, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=1), voor de werkgever die de subsidie aanvraagt, en het tijdstip van indiensttreding maximaal zes maanden voorafgaand aan de eerste dag van het aanvraagtijdvak, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=6&z=2025-03-04&g=2025-03-04), waarin de aanvraag wordt ingediend ligt;
 
 - b. de statushouder voorafgaand aan de totstandkoming van de arbeidsovereenkomst, bedoeld in onderdeel a, niet reeds eerder voor de werkgever die de subsidie aanvraagt betaalde arbeid heeft verricht;
 
@@ -92,9 +92,9 @@ Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder 
 
 3. De aanvraag wordt in ieder geval vergezeld van:
 
-- a. het activiteitenplan met de vormgeving van de individuele begeleiding, bedoeld in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2024-11-27&g=2024-11-27);
+- a. het activiteitenplan met de vormgeving van de individuele begeleiding, bedoeld in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2025-03-04&g=2025-03-04);
 
-- b. een verklaring waarin de werkgever verklaart dat de statushouder waar de subsidie voor wordt aangevraagd bij de start van de werkzaamheden beschikt over een document waaruit blijkt dat wordt voldaan aan [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2024-11-27&g=2024-11-27), en dat ten opzichte van deze statushouder wordt voldaan aan [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2024-11-27&g=2024-11-27);
+- b. een verklaring waarin de werkgever verklaart dat de statushouder waar de subsidie voor wordt aangevraagd bij de start van de werkzaamheden beschikt over een document waaruit blijkt dat wordt voldaan aan [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2025-03-04&g=2025-03-04), en dat ten opzichte van deze statushouder wordt voldaan aan [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2025-03-04&g=2025-03-04);
 
 - c. het burgerservicenummer van de statushouder waarvoor de aanvraag wordt ingediend;
 
@@ -102,11 +102,13 @@ Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder 
 
 - e. het door de Kamer van Koophandel toegekend uniek nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9).
 
+4. Voor het activiteitenplan, bedoeld in het derde lid, onderdeel a, en de verklaring, bedoeld in het derde lid onderdeel d, wordt gebruik gemaakt van de daartoe verstrekte formats op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
+
 ##### Artikel 6. Aanvraagtijdvak, subsidieplafond en verdeling
 
-1. Een subsidieaanvraag kan in het kalenderjaar 2024 bij de minister worden ingediend van maandag 2 september 2024, 09:00 uur tot maandag 30 september 2024, 23:59 uur.
+1. Een subsidieaanvraag kan in het kalenderjaar 2024 bij de minister worden ingediend van maandag 2 september 2024, 09:00 uur tot maandag 30 september 2024, 23:59 uur en in het kalenderjaar 2025 van maandag 2 juni 2025, 09:00 uur tot en met dinsdag 30 september 2025, 17:00 uur.
 
-2. Voor het verstrekken van subsidie is voor het kalenderjaar 2024 in totaal een bedrag beschikbaar van ten hoogste € 3.100.000,–.
+2. Voor het verstrekken van subsidie is voor het kalenderjaar 2024 in totaal een bedrag beschikbaar van ten hoogste € 3.100.000,– en voor het kalenderjaar 2025 een bedrag van ten hoogste € 3.000.000,–.
 
 3. De minister maakt de aanvraagtijdvakken en de subsidieplafonds voor de kalenderjaren 2025 en 2026 uiterlijk drie maanden voorafgaand aan de openstelling van de aanvraagtijdvakken van het betreffende kalenderjaar bekend in de Staatscourant.
 
@@ -136,7 +138,7 @@ Aan de werkgever aan wie subsidie wordt verleend, worden, in aanvulling op [hoof
 
 - b. de werkgever is verplicht de subsidie uitsluitend aan te wenden voor het doel waarvoor de subsidie is verstrekt, met dien verstande dat de subsidie in ieder geval wordt aangewend voor de betaling van de individuele begeleiding op de werkvloer van de statushouder gedurende ten minste één jaar;
 
-- c. de werkgever is verplicht zich in te spannen om werknemers te stimuleren om deel te nemen aan het opstellen en uitvoeren van de taal- en begeleidingsafspraken, bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2024-11-27&g=2024-11-27); en
+- c. de werkgever is verplicht zich in te spannen om werknemers te stimuleren om deel te nemen aan het opstellen en uitvoeren van de taal- en begeleidingsafspraken, bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2025-03-04&g=2025-03-04); en
 
 - d. de subsidiabele activiteiten worden uiterlijk binnen twee jaar na de datum van de initiële subsidieverlening afgerond.
 
@@ -156,9 +158,11 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - c. een kopie van de verblijfsvergunning van de statushouder; en
 
-- d. de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2024-11-27&g=2024-11-27).
+- d. de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=4&z=2025-03-04&g=2025-03-04).
 
 3. De Minister kan de subsidievaststelling intrekken of ten nadele van de werkgever die de subsidie is verleend wijzigen, indien de werkgever niet heeft voldaan aan de voorwaarden of het doel van deze regeling.
+
+4. Voor het activiteitenverslag, bedoeld in het tweede lid, onderdeel a, wordt gebruik gemaakt van het daartoe verstrekte format op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
@@ -172,7 +176,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling ondersteuning werkgevers in
 
 ## Bijlage. beoordelingskader subsidieverstrekking
 
-Deze bijlage behoort bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=6&z=2024-11-27&g=2024-11-27).
+Deze bijlage behoort bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049897&artikel=6&z=2025-03-04&g=2025-03-04).
 
 ### Activiteitenplan
 
