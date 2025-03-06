@@ -4,7 +4,7 @@ identifier: "BWBV0003485"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-06"
-last_updated: "2018-03-08"
+last_updated: "2025-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003485"
 soort: "verdrag"
@@ -80,11 +80,11 @@ De Verdragsluitende Partijen nemen de nodige maatregelen om de populaties van in
 
 ##### Artikel 4
 
-1. Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om de leefmilieus van de in het wild voorkomende dier- en plantesoorten te beschermen, in het bijzonder van de soorten, genoemd in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2018-03-08&g=2018-03-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08), en om de bedreigde natuurlijke leefmilieus in stand te houden.
+1. Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om de leefmilieus van de in het wild voorkomende dier- en plantesoorten te beschermen, in het bijzonder van de soorten, genoemd in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2025-03-06&g=2025-03-06) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06), en om de bedreigde natuurlijke leefmilieus in stand te houden.
 
 2. De Verdragsluitende Partijen houden bij hun beleid op het gebied van de ruimtelijke ordening en ontwikkeling, rekening met de behoeften van de instandhouding van de in het vorige lid bedoelde beschermde gebieden ten einde iedere achteruitgang van deze gebieden zo veel mogelijk te vermijden of te verminderen.
 
-3. De Verdragsluitende Partijen verbinden zich ertoe bijzondere aandacht te besteden aan de bescherming van de gebieden die van belang zijn voor de in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08) genoemde trekkende soorten en die gunstig liggen ten opzichte van de trekroutes, zoals overwinterings-, rust-, voeder-, broed- of ruiplaatsen.
+3. De Verdragsluitende Partijen verbinden zich ertoe bijzondere aandacht te besteden aan de bescherming van de gebieden die van belang zijn voor de in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06) genoemde trekkende soorten en die gunstig liggen ten opzichte van de trekroutes, zoals overwinterings-, rust-, voeder-, broed- of ruiplaatsen.
 
 4. De Verdragsluitende Partijen verbinden zich ertoe hun inspanningen ter bescherming van de in dit artikel bedoelde natuurlijke leefmilieus voor zover nodig te coördineren wanneer deze zijn gelegen in gebieden die zich over de landgrenzen uitstrekken.
 
@@ -92,11 +92,11 @@ De Verdragsluitende Partijen nemen de nodige maatregelen om de populaties van in
 
 ##### Artikel 5
 
-Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om te zorgen voor bijzondere bescherming van de in het wild voorkomende plantesoorten, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2018-03-08&g=2018-03-08). Het opzettelijk plukken, verzamelen, afsnijden of ontwortelen van bedoelde planten is verboden. Iedere Verdragsluitende Partij verbiedt voor zover nodig het in het bezit hebben of de verkoop van deze soorten.
+Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om te zorgen voor bijzondere bescherming van de in het wild voorkomende plantesoorten, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2025-03-06&g=2025-03-06). Het opzettelijk plukken, verzamelen, afsnijden of ontwortelen van bedoelde planten is verboden. Iedere Verdragsluitende Partij verbiedt voor zover nodig het in het bezit hebben of de verkoop van deze soorten.
 
 ##### Artikel 6
 
-Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om te zorgen voor bijzondere bescherming van de in het wild voorkomende diersoorten, genoemd in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08). Waar het deze soorten betreft, is met name verboden:
+Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften om te zorgen voor bijzondere bescherming van de in het wild voorkomende diersoorten, genoemd in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06). Waar het deze soorten betreft, is met name verboden:
 
 - a. iedere vorm van opzettelijk vangen, in bezit houden en opzettelijk doden;
 
@@ -110,9 +110,9 @@ Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de
 
 ##### Artikel 7
 
-1. Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften ter bescherming van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08).
+1. Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de vorm van wetten en voorschriften ter bescherming van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06).
 
-2. Voor iedere exploitatie van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08), worden voorschriften vastgesteld ten einde deze populaties niet in gevaar te brengen, rekening houdend met het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=I&artikel=2&z=2018-03-08&g=2018-03-08).
+2. Voor iedere exploitatie van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06), worden voorschriften vastgesteld ten einde deze populaties niet in gevaar te brengen, rekening houdend met het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=I&artikel=2&z=2025-03-06&g=2025-03-06).
 
 3. Deze maatregelen omvatten met name:
 
@@ -124,11 +124,11 @@ Iedere Verdragsluitende Partij neemt passende en noodzakelijke maatregelen in de
 
 ##### Artikel 8
 
-Wat betreft het vangen of het doden van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08), en in de gevallen waarin afwijkingen overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=9&z=2018-03-08&g=2018-03-08) zijn toegestaan ten aanzien van de soorten, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08), verbieden de Verdragsluitende Partijen het gebruik van alle niet-selectieve middelen voor het vangen en het doden alsmede van de middelen die plaatselijk de verdwijning ten gevolge kunnen hebben of de rust ernstig kunnen verstoren van de populaties van een soort, in het bijzonder de middelen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=IV&z=2018-03-08&g=2018-03-08).
+Wat betreft het vangen of het doden van de in het wild voorkomende diersoorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06), en in de gevallen waarin afwijkingen overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=9&z=2025-03-06&g=2025-03-06) zijn toegestaan ten aanzien van de soorten, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06), verbieden de Verdragsluitende Partijen het gebruik van alle niet-selectieve middelen voor het vangen en het doden alsmede van de middelen die plaatselijk de verdwijning ten gevolge kunnen hebben of de rust ernstig kunnen verstoren van de populaties van een soort, in het bijzonder de middelen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=IV&z=2025-03-06&g=2025-03-06).
 
 ##### Artikel 9
 
-1. Iedere Verdragsluitende Partij mag afwijken van het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=II&artikel=4&z=2018-03-08&g=2018-03-08), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=5&z=2018-03-08&g=2018-03-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=6&z=2018-03-08&g=2018-03-08) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2018-03-08&g=2018-03-08) alsmede van het verbod tot het gebruik van de middelen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=8&z=2018-03-08&g=2018-03-08), mits er geen andere bevredigende oplossing bestaat en de afwijkingen geen aantasting met zich brengen van het voortbestaan van de desbetreffende populatie:
+1. Iedere Verdragsluitende Partij mag afwijken van het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=II&artikel=4&z=2025-03-06&g=2025-03-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=5&z=2025-03-06&g=2025-03-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=6&z=2025-03-06&g=2025-03-06) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2025-03-06&g=2025-03-06) alsmede van het verbod tot het gebruik van de middelen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=8&z=2025-03-06&g=2025-03-06), mits er geen andere bevredigende oplossing bestaat en de afwijkingen geen aantasting met zich brengen van het voortbestaan van de desbetreffende populatie:
 
 - -. ter bescherming van de flora en fauna;
 
@@ -156,9 +156,9 @@ Wat betreft het vangen of het doden van de in het wild voorkomende diersoorten, 
 
 ##### Artikel 10
 
-1. Naast de maatregelen aangeduid in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=II&artikel=4&z=2018-03-08&g=2018-03-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=6&z=2018-03-08&g=2018-03-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2018-03-08&g=2018-03-08) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=8&z=2018-03-08&g=2018-03-08), verbinden de Verdragsluitende Partijen zich ertoe hun inspanningen te coördineren voor de instandhouding van de trekkende soorten, genoemd in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08), waarvan het verspreidingsgebied zich uitstrekt over hun grondgebied.
+1. Naast de maatregelen aangeduid in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=II&artikel=4&z=2025-03-06&g=2025-03-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=6&z=2025-03-06&g=2025-03-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2025-03-06&g=2025-03-06) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=8&z=2025-03-06&g=2025-03-06), verbinden de Verdragsluitende Partijen zich ertoe hun inspanningen te coördineren voor de instandhouding van de trekkende soorten, genoemd in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06), waarvan het verspreidingsgebied zich uitstrekt over hun grondgebied.
 
-2. De Verdragsluitende Partijen nemen maatregelen ten einde ervoor te zorgen dat de gesloten seizoenen en/of andere maatregelen waarbij de exploitatie wordt geregeld, ingesteld krachtens het [derde lid, letter a, van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2018-03-08&g=2018-03-08), goed overeenkomen met de behoeften van de trekkende soorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2018-03-08&g=2018-03-08).
+2. De Verdragsluitende Partijen nemen maatregelen ten einde ervoor te zorgen dat de gesloten seizoenen en/of andere maatregelen waarbij de exploitatie wordt geregeld, ingesteld krachtens het [derde lid, letter a, van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=III&artikel=7&z=2025-03-06&g=2025-03-06), goed overeenkomen met de behoeften van de trekkende soorten, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=III&z=2025-03-06&g=2025-03-06).
 
 ### HOOFDSTUK V. Aanvullende bepalingen
 
@@ -176,7 +176,7 @@ Wat betreft het vangen of het doden van de in het wild voorkomende diersoorten, 
 
 - b. het uitzetten van niet-inheemse soorten aan strenge controle te onderwerpen.
 
-3. Iedere Verdragsluitende Partij deelt aan de Permanente Commissie mede welke soorten op haar grondgebied totale bescherming genieten en niet voorkomen in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2018-03-08&g=2018-03-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2018-03-08&g=2018-03-08).
+3. Iedere Verdragsluitende Partij deelt aan de Permanente Commissie mede welke soorten op haar grondgebied totale bescherming genieten en niet voorkomen in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2025-03-06&g=2025-03-06) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II&z=2025-03-06&g=2025-03-06).
 
 ##### Artikel 12
 
@@ -230,13 +230,13 @@ Na iedere bijeenkomst doet de Permanente Commissie aan het Comité van Ministers
 
 ##### Artikel 16
 
-1. Iedere wijziging van de artikelen van dit Verdrag, voorgesteld door een Verdragsluitende Partij of door het Comité van Ministers, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem ten minste twee maanden voor de bijeenkomst van de Permanente Commissie gezonden aan de Lid-Staten van de Raad van Europa, aan iedere ondertekenaar, aan iedere Verdragsluitende Partij, aan iedere Staat die is uitgenodigd dit Verdrag te ondertekenen overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2018-03-08&g=2018-03-08) en aan iedere Staat die is uitgenodigd ertoe toe te treden overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2018-03-08&g=2018-03-08).
+1. Iedere wijziging van de artikelen van dit Verdrag, voorgesteld door een Verdragsluitende Partij of door het Comité van Ministers, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem ten minste twee maanden voor de bijeenkomst van de Permanente Commissie gezonden aan de Lid-Staten van de Raad van Europa, aan iedere ondertekenaar, aan iedere Verdragsluitende Partij, aan iedere Staat die is uitgenodigd dit Verdrag te ondertekenen overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2025-03-06&g=2025-03-06) en aan iedere Staat die is uitgenodigd ertoe toe te treden overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2025-03-06&g=2025-03-06).
 
 2. Iedere wijziging die is voorgesteld overeenkomstig het bepaalde in het vorige lid wordt onderzocht door de Permanente Commissie, die:
 
-- a. voor wijzigingen van de [artikelen 1 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=I&artikel=1&z=2018-03-08&g=2018-03-08), de tekst die met een meerderheid van drie vierde der uitgebrachte stemmen is aangenomen, ter aanvaarding voorlegt aan de Verdragsluitende Partijen;
+- a. voor wijzigingen van de [artikelen 1 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=I&artikel=1&z=2025-03-06&g=2025-03-06), de tekst die met een meerderheid van drie vierde der uitgebrachte stemmen is aangenomen, ter aanvaarding voorlegt aan de Verdragsluitende Partijen;
 
-- b. voor wijzigingen van de [artikelen 13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=13&z=2018-03-08&g=2018-03-08), de tekst die met een meerderheid van drie vierde der uitgebrachte stemmen is aangenomen, ter goedkeuring voorlegt aan het Comité van Ministers. Nadat deze tekst is goedgekeurd wordt deze aan de Verdragsluitende Partijen ter aanvaarding voorgelegd.
+- b. voor wijzigingen van de [artikelen 13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=13&z=2025-03-06&g=2025-03-06), de tekst die met een meerderheid van drie vierde der uitgebrachte stemmen is aangenomen, ter goedkeuring voorlegt aan het Comité van Ministers. Nadat deze tekst is goedgekeurd wordt deze aan de Verdragsluitende Partijen ter aanvaarding voorgelegd.
 
 3. ledere wijziging wordt van kracht op de dertigste dag nadat alle Verdragsluitende Partijen de Secretaris-Generaal hebben medegedeeld dat zij de wijziging hebben aanvaard.
 
@@ -244,7 +244,7 @@ Na iedere bijeenkomst doet de Permanente Commissie aan het Comité van Ministers
 
 ##### Artikel 17
 
-1. Iedere wijziging van de bijlagen bij dit Verdrag, voorgesteld door een Verdragsluitende Partij of door het Comité van Ministers, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem ten minste twee maanden voor de bijeenkomst van de Permanente Commissie gezonden aan de Lid-Staten van de Raad van Europa, aan iedere ondertekenaar, aan iedere Verdragsluitende Partij, aan iedere Staat die is uitgenodigd dit Verdrag te ondertekenen overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2018-03-08&g=2018-03-08) en aan iedere Staat die is uitgenodigd ertoe toe te treden overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2018-03-08&g=2018-03-08).
+1. Iedere wijziging van de bijlagen bij dit Verdrag, voorgesteld door een Verdragsluitende Partij of door het Comité van Ministers, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem ten minste twee maanden voor de bijeenkomst van de Permanente Commissie gezonden aan de Lid-Staten van de Raad van Europa, aan iedere ondertekenaar, aan iedere Verdragsluitende Partij, aan iedere Staat die is uitgenodigd dit Verdrag te ondertekenen overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2025-03-06&g=2025-03-06) en aan iedere Staat die is uitgenodigd ertoe toe te treden overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2025-03-06&g=2025-03-06).
 
 2. Iedere wijziging voorgesteld overeenkomstig het bepaalde in het vorige lid, wordt onderzocht door de Permanente Commissie, die deze wijziging kan aannemen met een meerderheid van twee derde van de Verdragsluitende Partijen. De aangenomen tekst wordt medegedeeld aan de Verdragsluitende Partijen.
 
@@ -280,7 +280,7 @@ Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van b
 
 ##### Artikel 20
 
-1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na overleg met de Verdragsluitende Partijen, iedere Staat die geen lid van de Raad is en die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2018-03-08&g=2018-03-08) is uitgenodigd het Verdrag te ondertekenen maar dit nog niet heeft gedaan, alsmede iedere andere Staat die geen lid van de Raad is, uitnodigen tot het Verdrag toe te treden.
+1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na overleg met de Verdragsluitende Partijen, iedere Staat die geen lid van de Raad is en die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2025-03-06&g=2025-03-06) is uitgenodigd het Verdrag te ondertekenen maar dit nog niet heeft gedaan, alsmede iedere andere Staat die geen lid van de Raad is, uitnodigen tot het Verdrag toe te treden.
 
 2. Ten aanzien van iedere toetredende Staat, treedt het Verdrag in werking op de eerste dag van de maand, volgend op een periode van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -294,9 +294,9 @@ Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van b
 
 ##### Artikel 22
 
-1. Iedere Staat kan bij de ondertekening of bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een of meer voorbehouden maken ten aanzien van bepaalde soorten, genoemd in de [bijlagen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2018-03-08&g=2018-03-08) en/of voor bepaalde van deze in het voorbehoud of in de voorbehouden aangeduide soorten, ten aanzien van bepaalde middelen of methoden bij de jacht en andere vormen van exploitatie, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=IV&z=2018-03-08&g=2018-03-08). Voorbehouden van algemene aard zijn niet toegestaan.
+1. Iedere Staat kan bij de ondertekening of bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een of meer voorbehouden maken ten aanzien van bepaalde soorten, genoemd in de [bijlagen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=I&z=2025-03-06&g=2025-03-06) en/of voor bepaalde van deze in het voorbehoud of in de voorbehouden aangeduide soorten, ten aanzien van bepaalde middelen of methoden bij de jacht en andere vormen van exploitatie, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=IV&z=2025-03-06&g=2025-03-06). Voorbehouden van algemene aard zijn niet toegestaan.
 
-2. Iedere Verdragsluitende Partij die de toepassing van dit Verdrag uitbreidt tot een gebied, aangewezen in de in het [tweede lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=21&z=2018-03-08&g=2018-03-08) bedoelde verklaring, kan, wat dat gebied betreft, een of meer voorbehouden maken overeenkomstig het bepaalde in het vorige lid.
+2. Iedere Verdragsluitende Partij die de toepassing van dit Verdrag uitbreidt tot een gebied, aangewezen in de in het [tweede lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=21&z=2025-03-06&g=2025-03-06) bedoelde verklaring, kan, wat dat gebied betreft, een of meer voorbehouden maken overeenkomstig het bepaalde in het vorige lid.
 
 3. Geen enkel ander voorbehoud is toegestaan.
 
@@ -316,21 +316,21 @@ De Secretaris-Generaal van de Raad van Europa stelt de Lid-Staten van de Raad va
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. iedere datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2018-03-08&g=2018-03-08) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2018-03-08&g=2018-03-08);
+- c. iedere datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=19&z=2025-03-06&g=2025-03-06) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=20&z=2025-03-06&g=2025-03-06);
 
-- d. iedere mededeling gedaan overeenkomstig het bepaalde in het [derde lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=13&z=2018-03-08&g=2018-03-08);
+- d. iedere mededeling gedaan overeenkomstig het bepaalde in het [derde lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=13&z=2025-03-06&g=2025-03-06);
 
-- e. ieder verslag opgesteld ingevolge het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=15&z=2018-03-08&g=2018-03-08);
+- e. ieder verslag opgesteld ingevolge het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VI&artikel=15&z=2025-03-06&g=2025-03-06);
 
-- f. iedere wijziging of iedere nieuwe bijlage, aanvaard overeenkomstig de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VII&artikel=16&z=2018-03-08&g=2018-03-08) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VII&artikel=17&z=2018-03-08&g=2018-03-08) alsmede de datum waarop deze wijziging of deze nieuwe bijlage van kracht wordt;
+- f. iedere wijziging of iedere nieuwe bijlage, aanvaard overeenkomstig de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VII&artikel=16&z=2025-03-06&g=2025-03-06) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=VII&artikel=17&z=2025-03-06&g=2025-03-06) alsmede de datum waarop deze wijziging of deze nieuwe bijlage van kracht wordt;
 
-- g. iedere verklaring, afgelegd overeenkomstig het bepaalde in het [tweede en derde lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=21&z=2018-03-08&g=2018-03-08);
+- g. iedere verklaring, afgelegd overeenkomstig het bepaalde in het [tweede en derde lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=21&z=2025-03-06&g=2025-03-06);
 
-- h. ieder voorbehoud, gemaakt overeenkomstig het bepaalde in het [eerste en tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=22&z=2018-03-08&g=2018-03-08);
+- h. ieder voorbehoud, gemaakt overeenkomstig het bepaalde in het [eerste en tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=22&z=2025-03-06&g=2025-03-06);
 
-- i. de intrekking van ieder voorbehoud, gedaan overeenkomstig het bepaalde in het [vierde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=22&z=2018-03-08&g=2018-03-08);
+- i. de intrekking van ieder voorbehoud, gedaan overeenkomstig het bepaalde in het [vierde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=22&z=2025-03-06&g=2025-03-06);
 
-- j. iedere kennisgeving, gedaan overeenkomstig het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=23&z=2018-03-08&g=2018-03-08) alsmede de datum waarop de opzegging van kracht wordt.
+- j. iedere kennisgeving, gedaan overeenkomstig het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&hoofdstuk=IX&artikel=23&z=2025-03-06&g=2025-03-06) alsmede de datum waarop de opzegging van kracht wordt.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
