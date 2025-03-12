@@ -4,7 +4,7 @@ identifier: "BWBR0050217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2024-12-01"
+last_updated: "2025-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050217"
 soort: "ministeriele-regeling"
@@ -44,15 +44,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **adviescommissie:** adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2024-09-24&g=2024-12-01);
+- **adviescommissie:** adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2025-03-12&g=2025-03-12);
 
-- **beoordelingsmoment:** de uiterlijke datum waarop de uitwerkingen van activiteitenplannen of het indienen van verantwoordingsverslagen zoals bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onder b van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
+- **beoordelingsmoment:**
+
+- a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): de uiterlijke datum waarop de uitwerkingen van activiteitenplannen of het indienen van verantwoordingsverslagen zoals bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onderdeel b, van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
+
+- b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): de uiterlijke datum waarop de uitwerking van het activiteitenplan, de regiovisie en de sluitende meerjarenbegroting zoals bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **penvoerder:** penvoerder van een techniekregio of een techniekluwe regio, bedoeld in [artikel 1.5 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.5);
+- **penvoerder:**
+
+- a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): penvoerder van een techniekregio of een techniekluwe regio, bedoeld in [artikel 1.5 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.5);
+
+- b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): penvoerder van een Techkwadraatregio, bedoeld in [artikel 1.5 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.5);
 
 - **regeling STO:** [Subsidieregeling sterk techniekonderwijs 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0049520);
+
+- **regeling Techkwadraat:** de [Subsidieregeling Techkwadraat 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050458);
 
 - **vorige regeling STO:** [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
 
@@ -62,29 +72,29 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie wordt ingesteld met ingang van 1 september 2024 en wordt opgeheven per 1 januari 2031, met de mogelijkheid tot verlenging.
 
-##### Artikel 3. Taak van de adviescommissie
+##### Artikel 3. Taak van de adviescommissie [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520)
 
 1. De adviescommissie heeft met betrekking tot de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520) tot taak:
 
-- a. het beoordelen van de ingediende activiteitenplannen als bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onder b van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 2 bij de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=2);
+- a. het beoordelen van de ingediende activiteitenplannen als bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onderdeel b van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 2 bij de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=2), en het adviseren van de minister hierover;
 
-- b. het adviseren van de minister over de ingediende activiteitenplannen, en dat advies te voorzien van een draagkrachtige motivering;
+- b. het adviseren van de minister over de ingediende activiteitenplannen, en dat advies te voorzien van een draagkrachtige motivering; en
 
-- c. het adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.11 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11), met uitzondering van artikel 1.11 eerste lid onder b;
+- c. het adviseren van de minister over de structurele inzet van de investeringsmiddelen voor techniekonderwijs in het vmbo van € 100 min. per jaar vanaf 2029;
 
-- d. het adviseren van de penvoerder over het eindverslag over de periode 2020 tot en met 2024, zoals bedoeld in [artikel 1.12, tweede lid, van de vorige regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0041334&artikel=1.12);
+- d. het op verzoek van de minister adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.11 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11), met uitzondering van de uitwerking van de activiteiten bedoeld in artikel 1.11 eerste lid, onderdeel b;
 
-- e. te reflecteren op de tussenrapportages en de eindevaluatie van het onderzoeksconsortium dat de regionale planvorming en de uitvoering van die plannen monitort en evalueert;
+- e. het op verzoek van de minister adviseren van de penvoerder over het eindverslag over de periode 2020 tot en met 2024, zoals bedoeld in [artikel 1.12, tweede lid, van de Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334&artikel=1.12);
 
-- f. het adviseren van de penvoerder over de uitvoering van de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520) wanneer zij het nodig acht, zolang dit niet binnen 10 weken voor of na een beoordelingsmoment valt; en
+- f. het op verzoek van de minister reflecteren op de tussenrapportages en de eindevaluatie van het onderzoeksconsortium dat de regionale planvorming en de uitvoering van die plannen monitort en evalueert;
 
-- g. te adviseren over de structurele inzet van de investeringsmiddelen voor het beroepsgerichte vmbo van € 100 mln. per jaar vanaf 2029.
+- g. het desgevraagd adviseren van de penvoerder over de uitvoering van de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520), zolang dit niet binnen 10 weken voor of na een beoordelingsmoment valt.
 
-2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 10 weken na afloop van de indienperiode als bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11).
+2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 10 weken na afloop van de indienperiode als bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11).
 
 ##### Artikel 4. Samenstelling, benoeming en ontslag
 
-1. De adviescommissie bestaat uit een voorzitter, een vicevoorzitter en ten minste twee andere leden.
+1. De adviescommissie bestaat uit een voorzitter, een vicevoorzitter en ten minste drie andere leden.
 
 2. De voorzitter en de overige leden worden door de minister benoemd voor de duur van de adviescommissie en, in voorkomend geval, geschorst of tussentijds ontslagen.
 
@@ -102,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Leden
 
-Tot leden van de commissie worden benoemd: (nog aan te vullen)
+Tot leden van de commissie worden benoemd:
 
 - a. de heer J. van Nierop, tevens voorzitter;
 
@@ -128,15 +138,27 @@ Tot leden van de commissie worden benoemd: (nog aan te vullen)
 
 - l. mevrouw T. Vaes;
 
-- m. mevrouw M. Lodewijks
+- m. mevrouw M. Lodewijks;
 
 - n. mevrouw M. Felix;
 
 - o. mevrouw K. Lutchmiah;
 
-- p. mevrouw F. Hermans; en
+- p. mevrouw F. Hermans, tot en met 11 maart 2025;
 
-- q. de heer A. Wals.
+- q. de heer A. Wals;
+
+- r. te rekenen vanaf 1 december 2024: mevrouw R. van Veelen;
+
+- s. te rekenen vanaf 1 december 2024: de heer T. de Groot;
+
+- t. te rekenen vanaf 1 december 2024: mevrouw S. van Tongeren;
+
+- u. te rekenen vanaf 1 januari 2025: meneer O. Vlieri;
+
+- v. te rekenen vanaf 1 januari 2025: meneer E. Stremmelaar;
+
+- w. te rekenen vanaf 1 januari 2025: meneer B. Westland.
 
 ##### Artikel 6. Secretariaat
 
@@ -162,7 +184,7 @@ De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste in
 
 2. Twee of meer vergaderingen per dag worden als één vergadering beschouwd.
 
-3. De vergoeding van de leden van de adviescommissie bedraagt 3% van het maximum van salarisschaal 18 van de CAO Rijk per dagdeel zoals vastgesteld in de laatst overeengekomen CAO Rijk. De vergoeding van de voorzitter bedraagt 130% en de vergoeding van de vicevoorzitter bedraagt 110% van deze vergoeding per dagdeel.
+3. De vergoeding van de leden van de adviescommissie bedraagt 3% van het maximum van salarisschaal 18 van de CAO Rijk per dagdeel zoals geldend op 1 januari 2025. De vergoeding van de voorzitter bedraagt 130% en de vergoeding van de vicevoorzitter bedraagt 110% van deze vergoeding per dagdeel.
 
 4. Per aanvraag die moet worden beoordeeld wordt voor een commissielid ten hoogste twee dagdelen vergoed, blijkend uit de taakverdeling tussen de commissieleden.
 
