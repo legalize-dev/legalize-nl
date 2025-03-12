@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2024-01-01"
+last_updated: "2025-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -84,9 +84,11 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking 
 
 - h. de uitvoering van de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449), en
 
-- i. de voorbereiding van onteigeningsbeschikkingen en het voeren van procedures in verband met onteigeningen en het opleggen van gedoogplichten;
+- i. de voorbereiding van onteigeningsbeschikkingen en het voeren van procedures in verband met onteigeningen;
 
-- j. de subsidieverlening in het kader van het Hoogwaterbeschermingsprogramma.
+- j. het opleggen van gedoogplichten;
+
+- k. de subsidieverlening in het kader van het Hoogwaterbeschermingsprogramma.
 
 2. Het directoraat-generaal Rijkswaterstaat heeft tevens tot taak het uitvoeren van opdrachten in naam en voor rekening van tweeden en derden.
 
