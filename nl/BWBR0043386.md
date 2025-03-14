@@ -4,7 +4,7 @@ identifier: "BWBR0043386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2024-02-28"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043386"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - **aardbevingsgebied Groningen:** de gemeenten Delfzijl, Appingedam, Loppersum, Het Hogeland, Midden-Groningen, Oldambt en Groningen, voor wat betreft het grondgebied van de plaats Ten Boer;
 
-- **bouwteam:** een projectgebonden samenwerkingsverband tussen een opdrachtgever en één of meerdere personen waarbinnen wordt samengewerkt aan het ontwerp van de te realiseren nieuwbouw en het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2024-02-28&g=2024-02-28), van deze subsidieregeling;
+- **bouwteam:** een projectgebonden samenwerkingsverband tussen een opdrachtgever en één of meerdere personen waarbinnen wordt samengewerkt aan het ontwerp van de te realiseren nieuwbouw en het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2025-03-14&g=2025-03-14), van deze subsidieregeling;
 
-- **bouwteamovereenkomst:** een overeenkomst van het bouwteam waarin prijsafspraken zijn vastgelegd voor het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2024-02-28&g=2024-02-28), van deze subsidieregeling;
+- **bouwteamovereenkomst:** een overeenkomst van het bouwteam waarin prijsafspraken zijn vastgelegd voor het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2025-03-14&g=2025-03-14), van deze subsidieregeling;
 
-- **CBS tabel bouwkosten nieuwbouwwoningen:** de tabel ‘Nieuwbouwwoningen; inputprijsindex bouwkosten 2015=100’ van het Centraal Bureau voor de Statistiek;
+- **CBS tabel bouwkosten nieuwbouwwoningen:** de tabel ‘Nieuwbouwwoningen; inputprijsindex bouwkosten 2021=100’ van het Centraal Bureau voor de Statistiek;
 
 - **Definitief ontwerp:** het document waarin de initiatiefnemers van een nieuwbouwproject het uiteindelijke ontwerp van de nieuwbouw, een visie op de daar te leveren zorg en de wijze waarop dit zal worden georganiseerd vastleggen;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **NEN-norm voor aardbevingsbestendig bouwen:** meest recente NEN-norm voor aardbevingsbestendig bouwen, beoordeling van constructieve veiligheid van een gebouw bij nieuwbouw, verbouw en afkeuren – Geïnduceerde aardbevingen – Grondslagen, belastingen en weerstanden;
 
-- **nieuwbouw:** een zorglocatie waarvan het tijdstip van eerste ingebruikneming ligt na inwerkingtreding van deze subsidieregeling;
+- **nieuwbouw:** een zorglocatie waarvan het tijdstip van eerste ingebruikneming ligt na inwerkingtreding van deze subsidieregeling en waarvan de bouw in fases kan worden gerealiseerd;
 
 - **prijsvorming:** de datum waarop een prijsafspraak is neergelegd in:
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - **taxateur:** een taxateur die is ingeschreven in de Kamer Bedrijfsmatig Vastgoed – Grootzakelijk Vastgoed in het Nederlands Register Vastgoed Taxateurs;
 
-- **toetsgroep:** e toetsgroep, genoemd in artikel 5.2 van het Groninger Zorgakkoord;
+- **toetsgroep:** de toetsgroep, genoemd in artikel 5.2 van het Groninger Zorgakkoord;
 
 - **Visie- en haalbaarheidsdocument:** het document waarin de initiatiefnemers van een nieuwbouwproject de visie en opzet van de nieuwbouw, inclusief het aantal te realiseren plaatsen, beschrijven om de haalbaarheid daarvan te kunnen bepalen;
 
@@ -112,7 +112,7 @@ De minister kan subsidie verstrekken voor activiteiten ter voorbereiding van nie
 
 ##### Artikel 2.2. Hoogte van de subsidie
 
-De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2024-02-28&g=2024-02-28) bedraagt € 750.000 per beoogde zorglocatie.
+De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2025-03-14&g=2025-03-14) bedraagt € 750.000 per beoogde zorglocatie.
 
 ##### Artikel 2.3. Voorwaarden voor subsidie
 
@@ -150,9 +150,9 @@ De minister kan subsidie verstrekken aan instellingen voor het afstoten van best
 
 ##### Artikel 3.3. Hoogte van de subsidie
 
-1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de rest1waarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
+1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de restwaarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
 
-2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2024-02-28&g=2024-02-28) bij de onderhavige regeling.
+2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2025-03-14&g=2025-03-14) bij de onderhavige regeling.
 
 ##### Artikel 3.4. Voorwaarden voor subsidie
 
@@ -178,11 +178,11 @@ Subsidie wordt zonder voorafgaande verlening direct vastgesteld.
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
-2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2024-02-28&g=2024-02-28) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
+2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2025-03-14&g=2025-03-14) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
 3. In afwijking van het tweede lid, kan de aanvraag tot vaststelling vergezeld gaan van een positief advies van de Nationaal Coördinator Groningen in plaats van een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
-4. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2024-02-28&g=2024-02-28), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
+4. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2025-03-14&g=2025-03-14), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
@@ -198,8 +198,6 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 
 2. Op grond van deze regeling wordt subsidie verstrekt voor in totaal ten hoogste 800 intramurale plaatsen, 85 dagbestedingsplaatsen en 30 kinderdagcentrumplaatsen.
 
-3. Per zorglocatie kan maar eenmaal subsidie worden verstrekt.
-
 ##### Artikel 4.3. Hoogte van de subsidie
 
 1. De hoogte van de subsidie wordt berekend volgens de formule (A1 x B) + (A2 x B) + (A3 x B) – C = D, waarbij wordt verstaan onder:
@@ -209,20 +207,20 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 | **A2:** | het aantal te realiseren plaatsen in de dagbesteding; |
 | **A3:** | het aantal te realiseren plaatsen in de kinderdagcentra; |
 | **B:** | het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen |
-| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2024-02-28&g=2024-02-28) van deze regeling |
+| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2025-03-14&g=2025-03-14) van deze regeling |
 | **D:** | het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager. |
 
 2. Subsidie wordt verstrekt voor ten hoogste het aantal te realiseren plaatsen dat door de minister in de verleningsbeschikking wordt bepaald.
 
-3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 109.481.
+3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 112.218.
 
-4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 79.504.
+4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 81.492.
 
-5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 32.583.
+5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 33.398.
 
 ##### Artikel 4.4. Voorwaarden voor subsidie
 
-1. Subsidie wordt uitsluitend verstrekt aan instellingen die een positief advies van de toetsgroep hebben ontvangen over het Definitief ontwerp.
+Subsidie wordt uitsluitend verstrekt aan instellingen die een positief advies van de toetsgroep hebben ontvangen over het Definitief ontwerp.
 
 ##### Artikel 4.5. Aanvraag tot verlening en bevoorschotting
 
@@ -230,7 +228,7 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 
 2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag tot verlening een definitief ontwerp van de te realiseren nieuwbouw, een overzicht van het aantal te realiseren plaatsen en een positief advies van de toetsgroep over het Definitief ontwerp.
 
-3. Wanneer de aanvraag mede ziet op verhoging van het subsidiebedrag als bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2024-02-28&g=2024-02-28), bevat de aanvraag een afschrift van het document waarin de prijsvorming is vastgelegd.
+3. Wanneer de aanvraag mede ziet op verhoging van het subsidiebedrag als bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2025-03-14&g=2025-03-14), bevat de aanvraag een afschrift van het document waarin de prijsvorming is vastgelegd.
 
 4. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 80 procent van het volledige bedrag van de verlening, dat gelijkmatig zal worden betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
@@ -256,9 +254,9 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 
 4. De subsidie wordt vastgesteld op een bedrag dat bestaat uit:
 
-- a). de normbedragen voor de gerealiseerde plaatsen, bedoeld in [artikel 4.3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2024-02-28&g=2024-02-28), waarbij uitgegaan wordt van het normbedrag in het jaar van de aanvraag tot verlening; en
+- a). de normbedragen voor de gerealiseerde plaatsen, bedoeld in [artikel 4.3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-03-14&g=2025-03-14), waarbij uitgegaan wordt van het normbedrag in het jaar van de aanvraag tot verlening; en
 
-- b). de verleende subsidie voor verhoogde bouwkosten, bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2024-02-28&g=2024-02-28).
+- b). de verleende subsidie voor verhoogde bouwkosten, bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2025-03-14&g=2025-03-14).
 
 5. In afwijking van het vierde lid wordt het subsidiebedrag voor verhoogde bouwkosten, op het moment dat niet alle te realiseren plaatsen zijn gerealiseerd, lager vastgesteld naar rato van het aantal plaatsen dat niet gerealiseerd is en het bijbehorende normbedrag.
 
@@ -320,35 +318,95 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.3a. Subsidie voor verhoogde bouwkosten
 
-1. De minister kan besluiten het subsidiebedrag, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2024-02-28&g=2024-02-28), te verhogen in het geval in verband met gestegen bouwkosten.
+1. De minister kan besluiten het subsidiebedrag, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-03-14&g=2025-03-14), te verhogen in verband met gestegen bouwkosten.
 
 2. De verhoging, bedoeld in het eerste lid, bedraagt ten hoogste het op basis van het in het derde lid berekende percentage van het op basis van het vierde lid berekende bedrag van de totale bouwkosten.
 
 3. Het percentage wordt berekend aan de hand van de volgende formule:
 
-(H – J) * 100/106,5
+(H – J)/(H / J)
 
-waarbij wordt verstaan onder:
+waarbij H staat voor:
 
-H: de inputprijsindex bouwkosten uit de CBS tabel bouwkosten nieuwbouwwoningen die werd gehanteerd in de maand van de prijsvorming;
+de inputprijsindex bouwkosten uit de CBS tabel bouwkosten nieuwbouwwoningen die werd gehanteerd in de maand van de prijsvorming
 
-J: 106,5 * 1,025a
+en waarbij J wordt gesteld op:
 
-waarbij wordt verstaan onder:
+103,3 bij prijsvorming in het jaar 2023;
 
-a het aantal jaren van indexatie, vanaf het jaar 2018 tot aan het moment van de prijsvorming.
+105,9 bij prijsvorming in het jaar 2024;
 
-4. Het bedrag van de totale bouwkosten wordt berekend aan de hand van de volgende formule:
+108,5 bij prijsvorming in het jaar 2025.
+
+4. Indien het jaar van de prijsvorming eerder is dan het jaar van de subsidieaanvraag, wordt het percentage, bedoeld in het derde lid, verlaagd met 2,5%.
+
+5. Het bedrag van de totale bouwkosten wordt berekend aan de hand van de volgende formule:
 
 D x 2,83 x 0,9
 
 waarbij wordt verstaan onder:
 
-D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2024-02-28&g=2024-02-28).
+D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-03-14&g=2025-03-14).
 
-5. Het subsidieplafond voor de verhoging, bedoeld in het eerste lid, bedraagt € 25.000.000 voor de looptijd van deze regeling.
+6. Het subsidieplafond voor de verhoging, bedoeld in het eerste lid, bedraagt € 25.000.000 voor de looptijd van deze regeling.
 
-6. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
+7. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
+
+### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
+
+### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage I. Waarde zorglocaties
+
+De waarde van de af te stoten zorglocaties is vastgesteld op de volgende bedragen.
+
+Deze waarde is door onafhankelijke taxateurs vastgesteld waarbij is uitgegaan van een systematiek gebaseerd op de zogenoemde Discounted Cash Flow methode. Bij woningcorporaties is uitgegaan van de meest recente versie van het Handboek modelmatig waarderen marktwaarde.
+
+Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is wordt dit met een streepje weergegeven.
+
+| Complexnaam | Adres | Plaats | Waarde |
+| --- | --- | --- | --- |
+| Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
+| Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
+| Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
+| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
+| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
+| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
+| Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
+| BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
+| Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
+| De Brug Wonen | Zwet 11 | Delfzijl | € 2.977.000 |
+| Volwassenenpsychiatrie | Jachtlaan 52 | Delfzijl | € 2.174.000 |
+| Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
+| Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
+| Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
+| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
+| Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
+| De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
+| Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
+| Molenerf | Molenerf 15-51 | Uithuizen | € 1.161.148 |
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4.8. Verlening bij nieuwbouw in fases
+
+1. Indien de nieuwbouw in fases gerealiseerd wordt, kan per fase subsidie tot een maximum van drie fases worden aangevraagd. In dat geval wordt in dit hoofdstuk onder ‘subsidie’ begrepen ‘subsidie voor de afzonderlijke fase’.
+
+2. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-03-14&g=2025-03-14) is van overeenkomstige toepassing, met dien verstande dat de formule voor de berekening van de hoogte van de subsidie voor de tweede of derde fase als volgt luidt:
+
+(A1 x B) + (A2 x B) + (A3 x B) = D, waarbij wordt verstaan onder:
+
+A1: het aantal te realiseren plaatsen in de intramurale zorg;
+
+A2: het aantal te realiseren plaatsen in de dagbesteding;
+
+A3: het aantal te realiseren plaatsen in de kinderdagcentra;
+
+B: het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen;
+
+D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager.
+
+3. [Artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.6&z=2025-03-14&g=2025-03-14), is van overeenkomstige toepassing, met dien verstande dat in geval van bouw in fases, de nieuwbouw gerealiseerd wordt binnen vijf jaar na dagtekening van verlening van de subsidie voor de eerste fase.
 
 ### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
 
