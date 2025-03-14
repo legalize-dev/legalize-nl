@@ -4,7 +4,7 @@ identifier: "BWBR0045404"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-14"
-last_updated: "2022-09-15"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045404"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **basismonitoring:** een monitoringsprogramma dat tot doel heeft de in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.1) en [2.2 van de Regeling diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.2) en [artikel 3a.1 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3a.1) aangewezen dierziekten en relevante nieuwe ziekten (emerging diseases) als bedoeld in artikel 26 van verordening (EU) nr. 2016/429 te bewaken en op te sporen;
 
-- **minister:** de minister van Landbouw, Natuur en Voedselkwaliteit;
+- **minister:** de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - **protocol van werkafspraken:** schriftelijke afspraken tussen de minister en Gezondheidsdienst voor Dieren B.V. waarin de governance van de uitvoering van de wettelijke taak door Gezondheidsdienst voor Dieren B.V. zijn vastgelegd.
 
@@ -56,7 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - **verordening (EU) nr. 2016/429:** [verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (diergezondheidswetgeving) (Pb EU L 84);
 
-- **verordening (EU) nr. 2020/689:** gedelegeerde [verordening (EU) 2020/689](32589R2020) van de commissie van 17 december 2019 tot aanvulling [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat betreft regels voor bewaking, uitroeiingsprogramma’s en de ziektevrije status voor bepaalde in de lijst opgenomen ziekten en nieuwe ziekten.
+- **verordening (EU) nr. 2020/689:** gedelegeerde [verordening (EU) 2020/689](32589R2020) van de commissie van 17 december 2019 tot aanvulling [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat betreft regels voor bewaking, uitroeiingsprogramma’s en de ziektevrije status voor bepaalde in de lijst opgenomen ziekten en nieuwe ziekten;
+
+- **verordening 2023/361:** Gedelegeerde [Verordening (EU) 2023/361](32023R0361) van de Commissie van 28 november 2022 tot aanvulling van [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad wat betreft regels voor het gebruik van bepaalde diergeneesmiddelen voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten (PbEU 2023, L 52).
 
 ##### Artikel 2. aanwijzing specifieke monitoringsprogramma’s
 
@@ -80,13 +82,15 @@ Gezondheidsdienst voor Dieren B.V. wordt voor de periode 21 april 2021 tot en me
 
 - i. de monitoring op de vaccinatie tegen Newcastle disease, bedoeld in [artikel 7b.29 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.29) en indien van toepassing de [artikelen 7b.31 tot en met 7b.35 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.31);
 
-- j. de monitoring op hoogpathogene vogelgriep op eendenbedrijven; en
+- j. de monitoring op hoogpathogene vogelgriep op eendenbedrijven;
 
-- k. de monitoring op hoogpathogene vogelgriep op pluimveebedrijven gelegen binnen een door de Minister van LNV aangewezen zone rondom een met hoogpathogene vogelgriep besmette locatie.
+- k. de monitoring op hoogpathogene vogelgriep op pluimveebedrijven gelegen binnen een door de Minister van LNV aangewezen zone rondom een met hoogpathogene vogelgriep besmette locatie; en
+
+- l. de monitoring op hoogpathogene vogelgriep bij gevaccineerd pluimvee, bedoeld in bijlage XIII, deel 5, van [verordening (EU) nr. 2023/361](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FNL%2FTXT%2F%3Furi%3DCELEX%3A32589R2020&data=05%7C02%7Cj.jacobs%40minezk.nl%7Cd0340a7a9b7748d9b01708dd4a9fe490%7C1321633ef6b944e2a44f59b9d264ecb7%7C0%7C0%7C638748772765330782%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CgjCgzHyzvjdun%2B8TXnPdxjcLNfD1qtTMdTAVJ0ll%2BE%3D&reserved=0).
 
 ##### Artikel 3. aanwijzing gemachtigde instantie
 
-Gezondheidsdienst voor Dieren B.V. wordt als gemachtigde instantie als bedoeld in artikel 31, eerste lid, verordening (EU) nr. 2017/625 aangewezen voor zover andere officiële activiteiten deel uitmaken van de monitoringsprogramma’s, bedoeld in [artikel 2, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15).
+Gezondheidsdienst voor Dieren B.V. wordt als gemachtigde instantie als bedoeld in artikel 31, eerste lid, verordening (EU) nr. 2017/625 aangewezen voor zover andere officiële activiteiten deel uitmaken van de monitoringsprogramma’s, bedoeld in [artikel 2, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14).
 
 ##### Artikel 4. meldplicht statuten
 
@@ -108,7 +112,7 @@ Gezondheidsdienst voor Dieren B.V. meldt, schriftelijk en onverwijld, aan de min
 
 - a. zodra dit haar bekend is, het voornemen van haar aandeelhouder tot overdracht van alle of een deel van de aandelen in Gezondheidsdienst voor Dieren B.V. of in GD Group B.V.;
 
-- b. het aangaan, ingrijpend wijzigen of beëindigen van een duurzame samenwerking tussen Gezondheidsdienst voor Dieren B.V. of GD Group B.V. en een derde, indien deze samenwerking, of de wijziging of beëindiging ervan, van invloed is op de onafhankelijke en onpartijdige uitvoering van de taken waarvoor Gezondheidsdienst voor Dieren B.V. in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2022-09-15&g=2022-09-15) is aangewezen;
+- b. het aangaan, ingrijpend wijzigen of beëindigen van een duurzame samenwerking tussen Gezondheidsdienst voor Dieren B.V. of GD Group B.V. en een derde, indien deze samenwerking, of de wijziging of beëindiging ervan, van invloed is op de onafhankelijke en onpartijdige uitvoering van de taken waarvoor Gezondheidsdienst voor Dieren B.V. in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2025-03-14&g=2025-03-14) is aangewezen;
 
 - c. indien GD Group B.V. niet meer voldoetaan de wettelijke eisen van het structuurregime als bedoeld in [artikel 2:263, lid 2, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=263), of het vermoeden bestaat dat binnen afzienbare tijd niet meer aan deze wettelijke eisen van het structuurregime zal worden voldaan;
 
@@ -116,19 +120,19 @@ Gezondheidsdienst voor Dieren B.V. meldt, schriftelijk en onverwijld, aan de min
 
 ##### Artikel 6. inlichtingen
 
-De minister is bevoegd om alle inlichtingen te vorderen die betrekking hebben op de uitvoering van de activiteiten waarvoor Gezondheidsdienst voor Dieren B.V. is aangewezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2022-09-15&g=2022-09-15) voor zover de inlichtingen noodzakelijk zijn om de uitvoering van deze taken te beoordelen.
+De minister is bevoegd om alle inlichtingen te vorderen die betrekking hebben op de uitvoering van de activiteiten waarvoor Gezondheidsdienst voor Dieren B.V. is aangewezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2025-03-14&g=2025-03-14) voor zover de inlichtingen noodzakelijk zijn om de uitvoering van deze taken te beoordelen.
 
 ##### Artikel 7. bekostiging en administratie
 
-1. De uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15) genoemde taken worden door de minister uit het Diergezondheidsfonds bekostigd.
+1. De uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14) genoemde taken worden door de minister uit het Diergezondheidsfonds bekostigd.
 
-2. Gezondheidsdienst voor Dieren B.V. richt haar administratie zodanig in dat daaruit te allen tijde de gemaakte kosten ter uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15), op eenvoudige en duidelijke wijze is af te lezen.
+2. Gezondheidsdienst voor Dieren B.V. richt haar administratie zodanig in dat daaruit te allen tijde de gemaakte kosten ter uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14), op eenvoudige en duidelijke wijze is af te lezen.
 
 3. De gemaakte kosten worden berekend op basis van het bepaalde in het protocol van werkafspraken.
 
 ##### Artikel 8. intrekken aanwijzing
 
-In aanvulling op artikel 33, onder b, verordening (EU) nr. 2017/625 trekt de minister de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2022-09-15&g=2022-09-15) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2022-09-15&g=2022-09-15), geheel of gedeeltelijk in indien er sprake is van een niet-naleving van de in dit besluit gestelde voorwaarden.
+In aanvulling op artikel 33, onder b, verordening (EU) nr. 2017/625 trekt de minister de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=2&z=2025-03-14&g=2025-03-14) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045404&artikel=3&z=2025-03-14&g=2025-03-14), geheel of gedeeltelijk in indien er sprake is van een niet-naleving van de in dit besluit gestelde voorwaarden.
 
 ##### Artikel 9. intrekken oud besluit
 
