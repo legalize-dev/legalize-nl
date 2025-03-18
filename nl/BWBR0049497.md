@@ -4,7 +4,7 @@ identifier: "BWBR0049497"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-15"
-last_updated: "2025-03-07"
+last_updated: "2025-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049497"
 soort: "AMvB"
@@ -1334,9 +1334,33 @@ De overgangsregeling voor bestaande aanbieders van cryptoactivadiensten, bedoeld
 
 ## Bijlage 37. [Verordening (EU) 2023/2631](32023R2631) (EuGBR – Europese groene obligaties)
 
-Dit onderdeel is nog niet inwerking getreden
+## Bijlage 38. [Verordening (EU) 2023/2830](32023R2830) (veiling van broeikasgasemissierechten)
+
+De Nederlandsche Bank: ten aanzien van titel II, hoofdstuk 2 en de artikelen 18 en 19 van de verordening voor zover het een initiator als bedoeld in artikel 2, onderdeel 3, van [Verordening (EU) 2017/2402](32017R2402) (SECR) betreft.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+**Verordening (EU) 2023/2631 van het Europees Parlement en de Raad van 22 november 2023 betreffende Europese groene obligaties en optionele openbaarmakingen voor obligaties die als ecologisch duurzame obligaties op de markt worden gebracht en voor aan duurzaamheid gekoppelde obligaties**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, voor zover de Nederlandsche Bank ten aanzien titel II, hoofdstuk 2 en de artikelen 18 en 19 niet als bevoegde autoriteit is aangewezen.
+
+### 3. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde, in voorkomend geval met inachtneming van artikel 45, eerste lid, onderdeel n, van de verordening, de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 4. Onmiddellijke publicatie
+
+De bevoegde autoriteit maakt op grond van [artikel 1:97, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:97) een besluit tot het opleggen van een bestuurlijke boete ter zake van een in de tabel onder 2 met een «P» aangeduide overtreding zo spoedig mogelijk openbaar.
 
 ## Bijlage 38. [Verordening (EU) 2023/2830](32023R2830) (veiling van broeikasgasemissierechten)
+
+**Gedelegeerde verordening (EU) 2023/2830 van de Commissie van 17 oktober 2023 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad door de vaststelling van regels inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten (PbEU 2023, L 2830)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
 
 De Autoriteit Financiële Markten, voor zover het betreft de bevoegdheid tot het verlenen van vergunningen als bedoeld in artikel 18, tweede lid, het geheel of gedeeltelijk intrekken van die vergunningen en het toezicht op de naleving en de handhaving van artikel 50, tweede en derde lid.
 
