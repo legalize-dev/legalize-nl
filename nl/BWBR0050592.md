@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-02-28"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -50,6 +50,7 @@ Besluiten:
 | --- | --- | --- | --- | --- | --- | --- |
 | Instrument | Artikel | Groep | Thema/programma | Thema/programma | Openstelling | Plafond |
 | [Titel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.2): Bewezen en niet-bewezen innovaties verduurzaming veehouderij | [2.2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.2.27) | Veehouderijonderneming met een veehouderijlocatie met piekbelasting |   |   | 21-10-2024 t/m 08-01-2025 | € 60.000.000 |
+| [Titel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.3): Energie-efficiëntie glastuinbouw | [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.3.2) | Glastuinbouwonderneming | Energie-efficiëntie glastuinbouw | Energie-efficiëntie glastuinbouw | 15-04-2025 t/m 13-05-2025 | € 40.000.000 |
 | [Titel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.5): Borgstelling MKB-landbouw-kredieten | [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.2) | Landbouwborgstellingskredieten die betrekking hebben op investeringen als bedoeld in [artikel 2.5.6, tweede lid, onderdeel a en onderdeel b, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   |   | 01-01-2025 t/m 31-12-2025 | € 60.000.000 |
 |   |   | Landbouwborgstellingskredieten die betrekking hebben op landbouwinnovaties als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   |   | 01-01-2025 t/m 31-12-2025 | € 20.000.000 |
 |   |   | Landbouwborgstellingskredieten die betrekking hebben op omschakeling duurzame landbouw als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
