@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2024-03-01"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2024-03-01&g=2024-03-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -78,7 +78,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2024-03-01&g=2024-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2024-03-01&g=2024-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2025-03-20&g=2025-03-20), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -86,7 +86,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2024-03-01&g=2024-03-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2025-03-20&g=2025-03-20).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -94,7 +94,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2024-03-01&g=2024-03-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2025-03-20&g=2025-03-20).
 
 ##### Artikel 7. Afwijking
 
@@ -106,7 +106,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2024-03-01&g=2024-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2024-03-01&g=2024-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2024-03-01&g=2024-03-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2025-03-20&g=2025-03-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2025-03-20&g=2025-03-20) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -124,17 +124,13 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo 2024
+## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo 2025.
 
-(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2024-03-01&g=2024-03-01))
+(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2025-03-20&g=2025-03-20))
 
 Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo.
 
 Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de college-examens:
-
-**Tabel 1a**
-
-**Schriftelijke toetsen bij de college-examens voorbereidend wetenschappelijk onderwijs 2024**
 
 | schrijfopdracht Nederlandse taal en literatuur |
 | --- |
@@ -164,11 +160,6 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | maatschappijleer |
 | natuur, leven en technologie |
 | informatica |
-| informatica (oud programma) |
-
-**Tabel 1b**
-
-**Schriftelijke toetsen bij de college-examens hoger algemeen voortgezet onderwijs 2024**
 
 | schrijfopdracht Nederlandse taal en literatuur |
 | --- |
@@ -195,10 +186,6 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | natuur, leven en technologie |
 | informatica |
 
-**Tabel 1c**
-
-**Schriftelijke toetsen bij de college-examens theoretische leerweg en gemengde leerweg 2024**
-
 | schrijfopdracht Frans |
 | --- |
 | schrijfopdracht Fries |
@@ -209,10 +196,6 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | schrijfopdracht Turks |
 | maatschappijleer |
 
-**Tabel 1d**
-
-**Schriftelijke toetsen bij de college-examens kaderberoepsgerichte leerweg 2024**
-
 | schrijfopdracht Franse taal |
 | --- |
 | schrijfopdracht Duitse taal |
@@ -220,10 +203,6 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | schrijfopdracht Spaanse taal |
 | schrijfopdracht Turkse taal |
 | maatschappijleer |
-
-**Tabel 1e**
-
-**Schriftelijke toetsen bij de college-examens basisberoepsgerichte leerweg 2024**
 
 | schrijfopdracht Franse taal |
 | --- |
@@ -251,15 +230,11 @@ De volgende mondelinge examens worden afgenomen:
 
 De volgende praktische examens worden afgenomen:
 
-## Bijlage 2. Mondelinge examens Staatsexamens vo 2024
+## Bijlage 2. Mondelinge examens Staatsexamens vo 2025
 
-(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2024-03-01&g=2024-03-01))
+(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2025-03-20&g=2025-03-20))
 
 De volgende mondelinge examens worden afgenomen:
-
-**Tabel 2a**
-
-**Mondelinge examens voorbereidend wetenschappelijk onderwijs 2024**
 
 | aardrijkskunde |
 | --- |
@@ -277,10 +252,8 @@ De volgende mondelinge examens worden afgenomen:
 | Franse taal en literatuur |
 | Friese taal en cultuur |
 | geschiedenis |
-| geschiedenis (oud programma) |
 | Griekse taal en cultuur |
 | informatica |
-| informatica (oud programma) |
 | Italiaanse taal en literatuur |
 | Italiaanse taal en literatuur (elementair) |
 | Latijnse taal en cultuur |
@@ -302,10 +275,6 @@ De volgende mondelinge examens worden afgenomen:
 | wiskunde B |
 | wiskunde C |
 | wiskunde D |
-
-**Tabel 2b**
-
-**Mondelinge examens hoger algemeen voortgezet onderwijs 2024**
 
 | aardrijkskunde |
 | --- |
@@ -341,10 +310,6 @@ De volgende mondelinge examens worden afgenomen:
 | Wiskunde B |
 | wiskunde D |
 
-**Tabel 2c**
-
-**Mondelinge examens theoretische leerweg en gemengde leerweg 2024**
-
 | aardrijkskunde |
 | --- |
 | Arabische taal |
@@ -366,9 +331,22 @@ De volgende mondelinge examens worden afgenomen:
 | Turkse taal |
 | wiskunde |
 
-**Tabel 2d**
-
-**Mondelinge examens kaderberoepsgerichte leerweg 2024**
+| aardrijkskunde |
+| --- |
+| Arabische taal |
+| biologie |
+| Duitse taal |
+| economie |
+| Engelse taal |
+| Franse taal |
+| geschiedenis en staatsinrichting |
+| maatschappijleer (gemeenschappelijk deel) |
+| maatschappijkunde |
+| natuur- en scheikunde I |
+| Nederlandse taal |
+| Spaanse taal |
+| Turkse taal |
+| wiskunde |
 
 | aardrijkskunde |
 | --- |
@@ -387,54 +365,21 @@ De volgende mondelinge examens worden afgenomen:
 | Turkse taal |
 | wiskunde |
 
-**Tabel 2e**
+## Bijlage 3. Praktische examens Staatsexamens vo 2025
 
-**Mondelinge examens basisberoepsgerichte leerweg 2024**
-
-| aardrijkskunde |
-| --- |
-| Arabische taal |
-| biologie |
-| Duitse taal |
-| economie |
-| Engelse taal |
-| Franse taal |
-| geschiedenis en staatsinrichting |
-| maatschappijleer (gemeenschappelijk deel) |
-| maatschappijkunde |
-| natuur- en scheikunde I |
-| Nederlandse taal |
-| Spaanse taal |
-| Turkse taal |
-| wiskunde |
-
-## Bijlage 3. Praktische examens Staatsexamens vo 2024
-
-(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2024-03-01&g=2024-03-01))
+(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2025-03-20&g=2025-03-20))
 
 De volgende praktische examens worden afgenomen:
 
-**Tabel 3a**
-
-**Praktische examens voorbereidend wetenschappelijk onderwijs 2024**
-
 | handvaardigheid |
 | --- |
 | muziek |
 | tekenen |
 
-**Tabel 3b**
-
-**Praktische examens hoger algemeen voorgezet onderwijs 2024**
-
 | handvaardigheid |
 | --- |
 | muziek |
 | tekenen |
-
-**Tabel 3c**
-
-**Praktische examens theoretische leerweg en gemengde leerweg 2024**
 
 | kunstvakken II: beeldende vakken-handvaardigheid/textiele werkvormen |
 | --- |
