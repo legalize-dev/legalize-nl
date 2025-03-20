@@ -4,7 +4,7 @@ identifier: "BWBR0040730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2025-02-20"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040730"
 soort: "ministeriele-regeling"
@@ -297,9 +297,9 @@ tot 1.500 ft AMSL.
 
 - t. EHTRA 12A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°38'28.12"N 004°53'49.03"E; 51°51'20.13"N 005°01'57.73"E; 51°58'55.00"N 005°17'42.00"E; 52°01'10.99"N 005°44'45.29"E; 51°50'41.85"N 006°02'17.96"E; langs de Nederlands-Duitse grens naar 51°14'45.88"N 006°04'54.01"E; 51°14'54.61"N 005°57'44.46"E; 51°15'38.94"N 005°53'10.31"E; terug naar beginpunt; van FL 285 tot FL 660;
 
-- u. EHTRA 15 AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°00'00.02"N 007°12'33.92"E; langs de Nederlands-Duitse grens naar 52°14'14.00"N 007°03'46.88"E; 52°12'57.00"N 006°43'50.00"E; 52°25'34.00"N 006°20'00.00"E; 52°45'50.00"N 006°20'00.00"E; 52°54'56.81"N 006°29'51.54"E; terug naar beginpunt; van FL 065 tot een maximum van FL 195;
+- u. EHTRA 15 AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52˚59’59’’N 007˚12’33”E; langs de Nederlands-Duitse grens naar 52˚12’04’’N 006˚58’11’’E; 52˚11’18’’N 006˚41’40’’E; 52˚41’49’’N 006˚20’00”E; 52˚45’50’’N 006˚20’00’’E; 52˚50’05’’N 006˚24’35’’E; terug naar beginpunt; van FL 065 tot een maximum van FL 195;
 
-- v. EHTRA 15A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°00'00.00"N 007°12'34.00"E; langs de Nederlands-Duitse grens naar 52°30'00.00"N 006°42'02.00"E; 52°39'35.00"N 006°20'00.00"E; 52°45'50.00"N 006°20'00.00"E; 52°54'57.00"N 006°29'52.00"E; terug naar beginpunt; van FL 195 tot een maximum van FL 245;
+- v. EHTRA 15A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52˚59’59’’N 007˚12’33’’E; langs de Nederlands-Duitse grens naar 52˚29’11’’N 006˚41’51’’E; 52˚29’11’’N 006˚39’42’’E; 52˚37’45’’N 006˚20’00”E; 52˚45’50’’N 006˚20’00’’E; 52˚50’05’’N 006˚24’35’’E; terug naar beginpunt; van FL 195 tot een maximum van FL 315;
 
 - w. EUC TRA Belgium North B AMC-Manageable Area het Nederlandse deel van de grotendeels in België gelegen EUC TRA Belgium North B wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'00.00"N 005°04'00.00"E; langs de Nederlands-Belgische grens naar 51°16'00.00"N 005°27'00.00"E; terug naar beginpunt; van FL 095 tot FL 660;
 
@@ -365,19 +365,19 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 ##### Artikel 6. Vluchten uitgezonderd van de verboden
 
-1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-02-20&g=2025-02-20) (gebied EHR 3), is niet van toepassing op:
+1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-03-20&g=2025-03-20) (gebied EHR 3), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid, en
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2025-02-20&g=2025-02-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2025-02-20&g=2025-02-20), zijn niet van toepassing op:
+2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2025-03-20&g=2025-03-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2025-03-20&g=2025-03-20), zijn niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-02-20&g=2025-02-20) (gebied EHP 25), is niet van toepassing op:
+3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-03-20&g=2025-03-20) (gebied EHP 25), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -385,7 +385,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-02-20&g=2025-02-20) (gebied EHP 26A), is niet van toepassing op:
+4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-03-20&g=2025-03-20) (gebied EHP 26A), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -397,7 +397,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. vluchten door civiel geregistreerde historische militaire luchtvaartuigen die deelnemen aan de luchtvaartvertoning ter gelegenheid van de Nederlandse Veteranendag.
 
-5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2025-02-20&g=2025-02-20), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-02-20&g=2025-02-20). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
+5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2025-03-20&g=2025-03-20), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-03-20&g=2025-03-20). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 7. Coördinatie militaire oefeningen
 
