@@ -4,7 +4,7 @@ identifier: "BWBR0050859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2023-04-17"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050859"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **programma-directeur-generaal:** de programma-directeur-generaal Werk aan Uitvoering (WaU);
 
-- b. **programmadirectie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=2&artikel=2&z=2025-03-21&g=2023-04-17);
+- b. **programmadirectie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=2&artikel=2&z=2025-03-21&g=2025-03-21);
 
 - c. **programmadirecteur:** een functionaris die leidinggeeft aan een programmadirectie.
 
@@ -128,7 +128,7 @@ De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verant
 
 2. Aan elke programmadirecteur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=3&artikel=3&z=2025-03-21&g=2023-04-17), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=3&artikel=3&z=2025-03-21&g=2025-03-21), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
