@@ -4,7 +4,7 @@ identifier: "BWBR0009899"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2024-06-13"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009899"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **AFIS-unit:** vluchtinformatiedienst, belast met het geven van AFIS;
 
-- **AFIS-unit Budel:** het onderdeel van de LVNL dat op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2024-06-13&g=2024-06-13) belast is met het geven van AFIS op de luchthaven Budel;
+- **AFIS-unit Budel:** het onderdeel van de LVNL dat op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2025-03-21&g=2025-03-21) belast is met het geven van AFIS op de luchthaven Budel;
 
 - **aerodrome flight information zone (AFIZ):** luchtruimte met vastgestelde begrenzingen waarbinnen AFIS wordt verstrekt;
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 - **Security flight:** vlucht uitgevoerd door een staatsluchtvaartuig in het kader van nationale veiligheid;
 
-- **Shaded Area:** gebied binnen de Amsterdam UTA, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=1&z=2024-06-13&g=2024-06-13);
+- **Shaded Area:** gebied binnen de Amsterdam UTA, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=1&z=2025-03-21&g=2025-03-21);
 
 - **Temporary Segregated Area (TSA):** luchtruimte met vastgestelde begrenzingen, waarvoor reserveren van luchtruim vereist is, voor het exclusief gebruik door specifieke gebruikers gedurende een vastgestelde tijdsperiode;
 
@@ -172,7 +172,7 @@ Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. De luchtverkeersroutes, alsmede de per route geldende gebruiksbeperkingen in de Amsterdam FIR zijn de luchtverkeersroutes en gebruiksbeperkingen die zijn vastgesteld door de minister en die zijn opgenomen in de luchtvaartgids, hoofdstukken ENR 3 en 6.
 
-2. Binnen de Shaded Area kunnen bij overeenkomst als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=17&z=2024-06-13&g=2024-06-13) tussen AOCS Nieuw Milligen en ACC Amsterdam respectievelijk UAC Maastricht afspraken worden gemaakt over de uitvoering van militaire vluchten.
+2. Binnen de Shaded Area kunnen bij overeenkomst als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=17&z=2025-03-21&g=2025-03-21) tussen AOCS Nieuw Milligen en ACC Amsterdam respectievelijk UAC Maastricht afspraken worden gemaakt over de uitvoering van militaire vluchten.
 
 ##### Artikel 4. Helicopter main routes, helicopter protection zones en helicopter traffic zones
 
@@ -230,7 +230,7 @@ Vervallen
 
 1. De luchtruimte rond de luchthaven Budel geldt gedurende de openstellingsuren van die luchthaven ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Budel als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Budel.
 
-2. De ATZ Budel is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De ATZ Budel is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
 3. De exploitant van luchthaven Budel zorgt er tijdens de daglichtperiode voor dat gedurende openstellingsuren van de luchthaven Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit door of namens hem contact wordt opgenomen met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.
 
@@ -246,11 +246,11 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 ##### Artikel 9. TMZ en RMZ
 
-1. De gebieden, vastgesteld door de minister en gepubliceerd in de hoofdstukken ENR 2.2 en ENR 6-2.6 van de luchtvaartgids en opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3&z=2024-06-13&g=2024-06-13), zijn aangewezen als TMZ, met uitzondering van de volgende gebieden:
+1. De gebieden, vastgesteld door de minister en gepubliceerd in de hoofdstukken ENR 2.2 en ENR 6-2.6 van de luchtvaartgids en opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3&z=2025-03-21&g=2025-03-21), zijn aangewezen als TMZ, met uitzondering van de volgende gebieden:
 
 - a. een CTR dat zich binnen de laterale grenzen van een TMZ bevindt;
 
-- b. de gebieden die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=4&z=2024-06-13&g=2024-06-13) en zijn aangewezen als TFZ;
+- b. de gebieden die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=4&z=2025-03-21&g=2025-03-21) en zijn aangewezen als TFZ;
 
 - c. de gebieden die worden gebruikt voor zweefvliegactiviteiten voor zover de betrokken luchtverkeersleidingsdienst hiervoor toestemming heeft gegeven.
 
@@ -268,9 +268,9 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 - f. North Sea Copter Area West;
 
-- g. gedeelten van het luchtruim rond de in [artikel 5, eerste lid, onderdelen c tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2024-06-13&g=2024-06-13) genoemde luchthavens en de gedeelten van het luchtruim boven Nederlands grondgebied rond de luchthavens Niederrhein en Kleine Brogel, buiten openstellingsuren van die luchthavens.
+- g. gedeelten van het luchtruim rond de in [artikel 5, eerste lid, onderdelen c tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21) genoemde luchthavens en de gedeelten van het luchtruim boven Nederlands grondgebied rond de luchthavens Niederrhein en Kleine Brogel, buiten openstellingsuren van die luchthavens.
 
-3. De laterale en verticale grenzen van een in het tweede lid, onderdeel g, aangewezen RMZ zijn gelijk aan de grenzen van de plaatselijke luchtverkeersleidingsgebieden, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2024-06-13&g=2024-06-13).
+3. De laterale en verticale grenzen van een in het tweede lid, onderdeel g, aangewezen RMZ zijn gelijk aan de grenzen van de plaatselijke luchtverkeersleidingsgebieden, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21).
 
 ##### Artikel 10. Luchtverkeersdiensten
 
@@ -323,7 +323,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 1. ACC Amsterdam verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
-- a. Amsterdam UTA, met uitzondering van vluchten waaraan luchtverkeersdienstverlening wordt gegeven door AOCS Nieuw Milligen als bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2024-06-13&g=2024-06-13), door UAC Maastricht als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=12&z=2024-06-13&g=2024-06-13), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Infrastructuur en Waterstaat en de Minister van Defensie;
+- a. Amsterdam UTA, met uitzondering van vluchten waaraan luchtverkeersdienstverlening wordt gegeven door AOCS Nieuw Milligen als bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), door UAC Maastricht als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=12&z=2025-03-21&g=2025-03-21), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Infrastructuur en Waterstaat en de Minister van Defensie;
 
 - b. Amsterdam CTA’s Oost 1, Oost 2, West, Zuid 1 en Zuid 2;
 
@@ -331,11 +331,11 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 2. De taakverdeling tussen ACC Amsterdam en AOCS Nieuw Milligen met betrekking tot het verlenen van luchtverkeersdiensten aan vluchten in Amsterdam UTA, als bedoeld in het eerste lid, onder a, houdt voor ACC Amsterdam in dat:
 
-- a. vluchten in de Amsterdam UTA met uitzondering van vluchten binnen de Shaded Area die onder haar verantwoordelijkheid berusten, de luchtverkeersroutes volgen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2024-06-13&g=2024-06-13);
+- a. vluchten in de Amsterdam UTA met uitzondering van vluchten binnen de Shaded Area die onder haar verantwoordelijkheid berusten, de luchtverkeersroutes volgen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21);
 
 - b. de geldende vliegplangegevens voor de onder a genoemde vluchten tijdig worden verstrekt aan AOCS Nieuw Milligen;
 
-- c. ACC Amsterdam bepaalt, met uitzondering van vluchten binnen de Shaded Area, in overeenstemming met AOCS Nieuw Milligen het afwijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2024-06-13&g=2024-06-13), genoemde luchtverkeersroutes;
+- c. ACC Amsterdam bepaalt, met uitzondering van vluchten binnen de Shaded Area, in overeenstemming met AOCS Nieuw Milligen het afwijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21), genoemde luchtverkeersroutes;
 
 - d. de vluchten, bedoeld in het eerste lid, onder a, en de vluchten binnen de Shaded Area waarvoor de verantwoordelijkheid rust bij AOCS Nieuw Milligen worden gesepareerd, zonder enige beïnvloeding van de laatstgenoemde vluchten.
 
@@ -343,21 +343,21 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 ##### Artikel 12. UAC Maastricht
 
-1. UAC Maastricht verleent luchtverkeersdiensten aan vluchten in de Amsterdam UTA en daarboven, die worden uitgevoerd op of boven vliegniveau 245, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door AOCS Nieuw Milligen, bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2024-06-13&g=2024-06-13), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Infrastructuur en Waterstaat en de Minister van Defensie.
+1. UAC Maastricht verleent luchtverkeersdiensten aan vluchten in de Amsterdam UTA en daarboven, die worden uitgevoerd op of boven vliegniveau 245, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door AOCS Nieuw Milligen, bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Infrastructuur en Waterstaat en de Minister van Defensie.
 
-2. Het gestelde in [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2024-06-13&g=2024-06-13), met betrekking tot ACC Amsterdam is van overeenkomstige toepassing op UAC Maastricht.
+2. Het gestelde in [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2025-03-21&g=2025-03-21), met betrekking tot ACC Amsterdam is van overeenkomstige toepassing op UAC Maastricht.
 
 ##### Artikel 13. AOCS Nieuw Milligen
 
 1. AOCS Nieuw Milligen verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
-- a. Amsterdam UTA, binnen de Shaded Area, uitsluitend voor wat betreft de vluchten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2024-06-13&g=2024-06-13);
+- a. Amsterdam UTA, binnen de Shaded Area, uitsluitend voor wat betreft de vluchten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21);
 
-- b. Amsterdam UTA, buiten de Shaded Area, uitsluitend voor wat betreft vluchten die vanwege de aard en de uitrusting van het luchtvaartuig of het doel van de vlucht, de luchtverkeersroutes, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2024-06-13&g=2024-06-13), niet kunnen of mogen volgen;
+- b. Amsterdam UTA, buiten de Shaded Area, uitsluitend voor wat betreft vluchten die vanwege de aard en de uitrusting van het luchtvaartuig of het doel van de vlucht, de luchtverkeersroutes, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21), niet kunnen of mogen volgen;
 
 - c. Nieuw Milligen CTA Noord;
 
-- d. Nieuw Milligen TMA’s, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door de betrokken verlener van naderingsluchtverkeersleidingsdiensten, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=15&z=2024-06-13&g=2024-06-13);
+- d. Nieuw Milligen TMA’s, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door de betrokken verlener van naderingsluchtverkeersleidingsdiensten, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=15&z=2025-03-21&g=2025-03-21);
 
 - e. Lelystad TMA’s.
 
@@ -387,21 +387,21 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 ##### Artikel 15. Overdracht van verantwoordelijkheid met betrekking tot het verlenen van luchtverkeersdiensten van AOCS Nieuw Milligen aan ACC Amsterdam/UAC Maastricht
 
-1. De verantwoordelijkheid van AOCS Nieuw Milligen voor de onderlinge separatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2024-06-13&g=2024-06-13), kan in onderlinge overeenstemming met betrekking tot de gehele Amsterdam UTA of een deel daarvan worden overgedragen aan ACC Amsterdam of UAC Maastricht, voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
+1. De verantwoordelijkheid van AOCS Nieuw Milligen voor de onderlinge separatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), kan in onderlinge overeenstemming met betrekking tot de gehele Amsterdam UTA of een deel daarvan worden overgedragen aan ACC Amsterdam of UAC Maastricht, voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
 
-2. De verantwoordelijkheid van AOCS Nieuw Milligen in de gebieden, bedoeld in [artikel 13, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2024-06-13&g=2024-06-13), kan in onderling overleg met betrekking tot die gebieden of een deel daarvan worden overgedragen aan ACC Amsterdam voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
+2. De verantwoordelijkheid van AOCS Nieuw Milligen in de gebieden, bedoeld in [artikel 13, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), kan in onderling overleg met betrekking tot die gebieden of een deel daarvan worden overgedragen aan ACC Amsterdam voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
 
 3. Tijdens de overeengekomen periode verstrekt AOCS Nieuw Milligen de geldende vliegplangegevens van onder haar verantwoordelijkheid berustende militaire vluchten aan ACC Amsterdam of UAC Maastricht. Een klaring houdende afwijking van reeds verstrekte gegevens wordt uitsluitend verstrekt in overeenstemming met de betrokken verlener van luchtverkeersdiensten.
 
 4. Tijdens de overeengekomen periode separeert ACC Amsterdam of UAC Maastricht de vluchten die onder haar verantwoordelijkheid berusten enerzijds en de vluchten waarvoor de verantwoordelijkheid berust bij AOCS Nieuw Milligen anderzijds, zonder enige beïnvloeding van de laatstgenoemde vluchten.
 
-5. Tijdens de overeengekomen periode bepaalt ACC Amsterdam of UAC Maastricht het afwijken van de luchtverkeersroutes als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2024-06-13&g=2024-06-13).
+5. Tijdens de overeengekomen periode bepaalt ACC Amsterdam of UAC Maastricht het afwijken van de luchtverkeersroutes als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21).
 
 ##### Artikel 16. Plaatselijke en naderingsluchtverkeersleidingsdiensten
 
-1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2024-06-13&g=2024-06-13) genoemde verleners van naderingsluchtverkeersleidingsdiensten verlenen luchtverkeersdiensten in de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2024-06-13&g=2024-06-13), bedoelde naderingsluchtverkeersleidingsgebieden aan vluchten die aankomen op, dan wel vertrekken van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2024-06-13&g=2024-06-13), bedoelde luchthavens, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
+1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2025-03-21&g=2025-03-21) genoemde verleners van naderingsluchtverkeersleidingsdiensten verlenen luchtverkeersdiensten in de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2025-03-21&g=2025-03-21), bedoelde naderingsluchtverkeersleidingsgebieden aan vluchten die aankomen op, dan wel vertrekken van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21), bedoelde luchthavens, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
 
-2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2024-06-13&g=2024-06-13) genoemde verleners van plaatselijke luchtverkeersleidingsdiensten verlenen luchtverkeersleidingsdiensten aan vluchten in de in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2024-06-13&g=2024-06-13), bedoelde plaatselijke luchtverkeersleidingsgebieden, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
+2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2025-03-21&g=2025-03-21) genoemde verleners van plaatselijke luchtverkeersleidingsdiensten verlenen luchtverkeersleidingsdiensten aan vluchten in de in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21), bedoelde plaatselijke luchtverkeersleidingsgebieden, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
 
 3. APP Maastricht geeft vluchtinformatie en alarmering aan niet-militaire vluchten beneden de ondergrens en binnen de laterale grenzen van de Maastricht TMA’s.
 
@@ -659,7 +659,7 @@ b. Schiphol TMA 3 heeft een ondergrens van 2500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
-## Bijlage 2. behorende bij de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7a&z=2024-06-13&g=2024-06-13), [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7c&z=2024-06-13&g=2024-06-13), [7d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7d&z=2024-06-13&g=2024-06-13), [7e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7e&z=2024-06-13&g=2024-06-13), [7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7f&z=2024-06-13&g=2024-06-13), [7g, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7g&z=2024-06-13&g=2024-06-13), [7h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7h&z=2024-06-13&g=2024-06-13), en [artikel 7i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7i&z=2024-06-13&g=2024-06-13), van de Regeling luchtverkeersdienstverlening
+## Bijlage 2. behorende bij de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7a&z=2025-03-21&g=2025-03-21), [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7c&z=2025-03-21&g=2025-03-21), [7d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7d&z=2025-03-21&g=2025-03-21), [7e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7e&z=2025-03-21&g=2025-03-21), [7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7f&z=2025-03-21&g=2025-03-21), [7g, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7g&z=2025-03-21&g=2025-03-21), [7h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7h&z=2025-03-21&g=2025-03-21), en [artikel 7i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7i&z=2025-03-21&g=2025-03-21), van de Regeling luchtverkeersdienstverlening
 
 ## Bijlage F. behorende bij [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2013-01-01&g=2013-05-02), van de Regeling luchtverkeersdienstverlening
 
@@ -708,100 +708,7 @@ b. Soesterberg CTR heeft een ondergrens vanaf de grond en een bovengrens van 250
 
 c. Het luchtruim binnen Soesterberg CTR heeft classificatie C.
 
-## Bijlage 3. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2024-06-13&g=2024-06-13), van de Regeling luchtverkeersdienstverlening
-
-- 1. **TMZ – permanent**
-
-| a. TMZ A | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA A. |
-| --- | --- |
-|   | – De ondergrens is FL 055. |
-|   |   |
-| b. TMZ B1 | – De laterale begrenzing komt overeen met het zuidelijk deel van de Nieuw Milligen TMA B. |
-|   | – De ondergrens is FL 055. |
-|   |   |
-| c. TMZ B2 | – De laterale begrenzing komt overeen met het zuidelijk deel van de Nieuw Milligen TMA B. |
-|   | – De ondergrens is FL 055. |
-|   |   |
-| d. TMZ C1 | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA C1. |
-|   | – De ondergrens is FL 065. |
-|   |   |
-| e. TMZ C2 | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA C2 |
-|   | – De ondergrens is FL 055. |
-|   |   |
-| f. TMZ D | – De laterale begrenzing is gelijk aan de Nieuw Milligen TMA D en omvat niet het luchtruim onder de Schiphol TMA 3, 4 en 5. |
-|   | – De ondergrens is 2500 voet AMSL. |
-|   | – Laterale begrenzing van Malden: Vanaf de kruising van de snelweg A50 met de rivier de Neder-Rijn de zuidelijke rivieroever van de Neder-Rijn naar het oosten volgen tot aan de Amsterdam FIR grens, vervolgens via de Amsterdam FIR grens naar het zuiden tot aan 51°44’35”N herkenbaar als het midden van het bosgebied oost van de grens, vanaf 51°44’35”N een lijn langs radiaal 270 naar de Volkel CTR, via de noordelijke begrenzing van de Volkel CTR naar de snelweg A50 en vervolgens via de snelweg A50 naar het noorden tot aan de kruising met de rivier de Neder-Rijn. |
-|   |   |
-| g. TMZ E | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA E. |
-|   | – De ondergrens is FL 055. |
-|   |   |
-| h. TMZ Eelde | – De laterale begrenzing komt overeen met de Eelde TMA |
-|   | – De ondergrens is 1500 voet AMSL. |
-|   |   |
-| i. TMZ Maastricht | – De laterale begrenzing komt overeen met de Maastricht TMA 1 en 2, met uitzondering van de Schinveldgebieden op bepaalde tijden. |
-|   | – De ondergrens is 1500 voet AMSL. |
-|   |   |
-| j. TMZ Rotterdam | – De laterale begrenzing in het noorden, oosten en westen is gelijk aan de buitenste contouren van de Rotterdam TMA 1, 2 en 3. De zuidelijke begrenzing van TMA 1 en 2 is vervangen door de waters Hollandsch Diep en Grevelingen te definiëren als rechte lijnen tussen de coördinaten: 51°43’11”N 004°41’50”E; 51°38’38”N 004°23’46”E; 51°38’42”N 004°19’24”E; 51°42’55”N 004°01’05”E; 51°45’28”N 003°59’10”E; 51°45’28”N 003°37’37”E. |
-|   | – De ondergrens is 2500 voet AMSL. |
-|   |   |
-| k. TMZ LE2 | – De laterale begrenzing komt overeen met de Lelystad TMA 2. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| l. TMZ LE3 | – De laterale begrenzing komt overeen met de Lelystad TMA 3. |
-|   | – De ondergrens is 1500 voet AMSL. |
-|   |   |
-| m. TMZ LE4 | – De laterale begrenzing komt overeen met de Lelystad TMA 4. |
-|   | – De ondergrens is 2500 voet AMSL. |
-|   |   |
-| n. TMZ LE5 | – De laterale begrenzing komt overeen met de Lelystad TMA 5. |
-|   | – De ondergrens is FL 045. |
-| o. TMZ Copter Area West | – De laterale begrenzing komt overeen met de Copter Area West CTA. |
-|   | – De ondergrens is 5500 voet AMSL. |
-
-- 2. **TMZ – op werkdagen van 0900-1700 lokale tijd:**
-
-| a. TMZ A | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA A. |
-| --- | --- |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| b. TMZ B1 | – De laterale begrenzing komt overeen met het noordelijk deel van de Nieuw Milligen TMA B en omvat ook het luchtruim onder de Schiphol TMA 3, 4 en 5. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| c. TMZ B2 | – De laterale begrenzing bestaat uit het zuidelijk deel van de Nieuw Milligen TMA B. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| d. TMZ C1 | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA C1. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| e. TMZ C2 | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA C2. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| f. TMZ D | – De laterale begrenzing is gelijk aan de Nieuw Milligen TMA D en omvat niet het luchtruim onder de Schiphol TMA 3, 4 en 5. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| g. TMZ E | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA E. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| h. TMZ Eelde | – De laterale begrenzing komt overeen met de TMA Eelde. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| i. TMZ G1 | – De laterale begrenzing komt overeen met de Nieuw Milligen TMA G1. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| j. TMZ Maastricht | – De laterale begrenzing komt overeen met de Maastricht TMA 1 en 2, met uitzondering van de Schinveldgebieden op bepaalde tijden. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| k. TMZ Rotterdam | – De laterale begrenzing in het noorden, oosten en westen is gelijk aan de buitenste contouren van de Rotterdam TMA 1, 2 en 3. De zuidelijke begrenzing van TMA 1 en 2 is vervangen door de wateren Hollandsch Diep en Grevelingen te definiëren als rechte lijnen tussen de coördinaten: 51°43’11”N 004°41’50”E; 51°38’38”N 004°23’46”E; 51°38’42”N 004°19’24”E; 51°42’55”N 004°01’05”E; 51°45’28”N 003°59’10”E; 51°45’28”N 003°37’37”E. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| l. TMZ LE3 | – De laterale begrenzing komt overeen met de Lelystad TMA 3. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| m. TMZ LE4 | – De laterale begrenzing komt overeen met de Lelystad TMA 4. |
-|   | – De ondergrens is 1200 voet AMSL. |
-|   |   |
-| n. TMZ LE5 | – De laterale begrenzing komt overeen met de Lelystad TMA 5. |
-|   | – De ondergrens is 1200 voet AMSL. |
+## Bijlage 3. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2025-03-21&g=2025-03-21), van de Regeling luchtverkeersdienstverlening
 
 ## Bijlage 4. behorende bij [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2024-06-13&g=2024-06-13), van de Regeling luchtverkeersdienstverlening
 
@@ -1772,7 +1679,7 @@ langs de weg naar:
 
 - 1. 52°26'39" NB 005°26'19" OL
 
-## Bijlage G2. behorende bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2013-10-17&g=2013-10-17), van de Regeling luchtverkeersdienstverlening
+## Bijlage 4. behorende bij [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2025-03-21&g=2025-03-21), van de Regeling luchtverkeersdienstverlening
 
 | a. Ameland | De laterale begrenzing is een rechte lijn van 53°26’59.99”NB 005°37’17.55”OL naar 53°27’12.01”NB 005°43’58.46”OL, met de klok mee langs een cirkelboog (straal 2 NM, middelpunt 53°27’06”NB 005°40’38”OL) naar punt van begin |
 | --- | --- |
@@ -1799,6 +1706,16 @@ langs de weg naar:
 | h. Venlo | De laterale begrenzing is het in Nederland gelegen deel van een cirkel met een straal van 6,5 NM rond middelpunt 51°21’47.00”NB 006°12’58.00”OL |
 |   | De verticale grenzen zijn: 1. ondergrens: 2500 ft AMSL 2. bovengrens: 3500 ft AMSL |
 |   | TFZ Venlo is actief vanaf vrijdag 17.00 uur lokale tijd tot maandag 09.00 uur lokale tijd en op officiële feestdagen |
+|   |   |
+| i. ATZ Valkenburg | De laterale en verticale grenzen zijn gelijk aan de ATZ Valkenburg. |
+|   |   |
+| j. Valkenburg | De laterale en verticale grenzen zijn gelijk aan het zweefvlieggebied Valkenburg. |
+|   |   |
+| k. Hoek van Holland | De laterale en verticale grenzen zijn gelijk aan het zweefvlieggebied Hoek van Holland. |
+|   |   |
+| l. Castricum 2 | De laterale en verticale grenzen zijn gelijk aan het zweefvlieggebied Castricum 2. |
+|   |   |
+| m. Castricum 1 | De laterale en verticale grenzen zijn gelijk aan het zweefvlieggebied Castricum 1. |
 
 ## Bijlage H. behorende bij de [artikelen 1, onderdeel shaded area](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2013-10-17&g=2013-10-17), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2013-10-17&g=2013-10-17), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2013-10-17&g=2013-10-17), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2013-10-17&g=2013-10-17)
 
@@ -2219,7 +2136,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De luchtruimte rond het zweefvliegterrein Schinveld geldt ter bescherming van zweefvliegactiviteiten op dat terrein als ATZ en wordt aangeduid als ATZ Schinveld.
 
-2. De ATZ Schinveld is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De ATZ Schinveld is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
 #### Slotbepalingen
 
@@ -2241,7 +2158,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 1. TMZ – permanent
 
-### 2. TMZ – op werkdagen van 0900-1700 lokale tijd:
+### 1. TMZ – permanent
 
 ### 1. TMZ – permanent
 
@@ -2307,7 +2224,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De luchtruimte rond het zweefvliegterrein Veendam geldt ter bescherming van zweefvliegactiviteiten op dat terrein als ATZ en wordt aangeduid als ATZ Veendam.
 
-2. De ATZ Veendam is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De ATZ Veendam is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
 #### Slotbepalingen
 
@@ -2408,7 +2325,7 @@ Vervallen
 
 1. De luchtruimte rond de luchthaven Teuge geldt buiten de daglichtperiode ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Teuge als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Teuge.
 
-2. De ATZ Teuge is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De ATZ Teuge is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
 #### Slotbepalingen
 
@@ -2425,7 +2342,7 @@ Vervallen
 
 ## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2020-11-01&g=2021-01-28) van de Regeling luchtverkeersdienstverlening
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2024-06-13&g=2024-06-13) van de Regeling luchtverkeersdienstverlening
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2025-03-21&g=2025-03-21) van de Regeling luchtverkeersdienstverlening
 
 ##### 1. ATZ Budel
 
@@ -2881,9 +2798,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De luchtruimte ten noorden van de luchthaven Zweefvliegveld Castricum wordt aangeduid als zweefvlieggebied Castricum 2.
 
-5. De zweefvlieggebieden, bedoeld in het eerste, tweede en vierde lid, zijn lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+5. De zweefvlieggebieden, bedoeld in het eerste, tweede en vierde lid, zijn lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
-6. De gebieden, bedoeld in het eerste, tweede en vierde lid, maken tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 1, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2024-06-13&g=2024-06-13):
+6. De gebieden, bedoeld in het eerste, tweede en vierde lid, maken tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 1, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2025-03-21&g=2025-03-21):
 
 - a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft, op verzoek van de vliegcoördinator van de zweefvliegclub, aan de hand van het totale aanbod van luchtverkeer vastgesteld dat de betrokken gebieden voor zweefvliegactiviteiten kunnen worden gebruikt;
 
@@ -2891,7 +2808,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de coördinatie en communicatie geschieden op een overeen te komen wijze tussen de verlener van de betrokken luchtverkeersleidingsdiensten en de vliegcoördinator van de zweefvliegclub waartoe de gebruikers van de zweefvlieggebieden ten behoeve van zweefvliegactiviteiten behoren.
 
-7. Het gebied, bedoeld in het derde lid, maakt tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 7, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2024-06-13&g=2024-06-13):
+7. Het gebied, bedoeld in het derde lid, maakt tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 7, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2025-03-21&g=2025-03-21):
 
 - a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft, op verzoek van de vliegcoördinator van de zweefvliegclub, aan de hand van het totale aanbod van luchtverkeer vastgesteld dat het betrokken gebied voor zweefvliegactiviteiten kan worden gebruikt;
 
@@ -2989,7 +2906,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De luchtruimte rond de luchthaven Twente geldt ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Twente als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Twente.
 
-2. De ATZ Twente is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De ATZ Twente is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
 #### Slotbepalingen
 
@@ -3107,9 +3024,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De luchtruimte gelegen in het zuidelijk deel van Nieuw Milligen CTA Noord wordt aangeduid als North Sea Copter Area West.
 
-2. De North Sea Copter Area West is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2024-06-13&g=2024-06-13).
+2. De North Sea Copter Area West is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=2&z=2025-03-21&g=2025-03-21).
 
-3. De luchtruimte bedoeld in het eerste lid maakt onder de volgende voorwaarden geen deel uit van de Nieuw Milligen CTA Noord, bedoeld in [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2024-06-13&g=2024-06-13):
+3. De luchtruimte bedoeld in het eerste lid maakt onder de volgende voorwaarden geen deel uit van de Nieuw Milligen CTA Noord, bedoeld in [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2025-03-21&g=2025-03-21):
 
 - a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft aan de hand van het totale aanbod van luchtverkeer vastgesteld dat het betrokken gebied voor helikoptervluchten kan worden gebruikt;
 
