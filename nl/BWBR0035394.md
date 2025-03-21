@@ -4,7 +4,7 @@ identifier: "BWBR0035394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2015-01-31"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035394"
 soort: "ministeriele-regeling"
@@ -46,17 +46,29 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, artikel 2bis, eerste lid, artikel 2ter, eerste en tweede lid, artikel 2quater, eerste en derde lid, artikel 2quinquies, eerste en tweede lid, en artikel 4 van Verordening (EU) nr. 692/2014 van de Raad van de Europese Unie van 23 juni 2014 betreffende beperkende maatregelen, als antwoord op de illegale inlijving van de Krim en Sebastopol (Pb L 183).
+1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 2 bis, eerste lid, artikel 2 bis bis, eerste lid, artikel 2 ter, eerste en tweede lid, artikel 2 quater, eerste tot en met derde lid, artikel 2 quinquies, eerste en tweede lid, artikel 4 en artikel 8 bis van [Verordening (EU) nr. 692/2014](32014R0692) van de Raad van de Europese Unie van 23 juni 2014 betreffende beperkende maatregelen, als antwoord op de illegale inlijving van de Krim en Sebastopol (Pb L 183).
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2bis, tweede of derde lid, artikel 2ter, derde of vierde lid, artikel 2quater, tweede lid, artikel 2quinquies, derde of vierde lid, artikel 2sexies, of artikel 3 van Verordening (EU) nr. 692/2014 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede lid, artikel 2 bis, tweede of derde lid, artikel 2 bis bis, tweede lid, artikel 2 quater, vierde tot en met achtste lid, artikel 2 quinquies, derde lid, of artikel 2 sexies, van [Verordening (EU) nr. 692/2014](32014R0692) van toepassing is.
 
 ##### Artikel 2
 
 1. De bevoegde autoriteit, bedoeld in artikel 2bis, derde lid, van Verordening (EU) nr. 692/2014 is de Minister van Financiën. De bevoegde autoriteit, bedoeld in artikel 2ter, vierde lid, artikel 2sexies en artikel 3, onderdeel a, van Verordening (EU) nr. 692/2014 is de Minister van Financiën voor zover het betreft financiering, het verlenen van een financiële lening, financiële bijstand, een krediet, een verzekering, een herverzekering, het uitbreiden van een deelneming of het oprichten van een joint venture.
 
-2. De bevoegde autoriteit, bedoeld in artikel 2ter, vierde lid, artikel 2sexies en artikel 3, onderdeel a, van Verordening (EU) nr. 692/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft het verlenen van technische bijstand, tussenhandeldiensten, bouwdiensten of ingenieursdiensten, dan wel een melding over de invoer van goederen.
+2. De bevoegde autoriteit, bedoeld in artikel 2ter, vierde lid, artikel 2 quater, zevende lid, artikel 2sexies en artikel 3, onderdeel a, van Verordening (EU) nr. 692/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingshulp voor zover het betreft het verlenen van technische bijstand, tussenhandeldiensten, bouwdiensten of ingenieursdiensten, dan wel een melding over de invoer van goederen.
 
 3. De bevoegde autoriteit, bedoeld in artikel 2quinquies, derde en vierde lid, is de Minister van Infrastructuur en Milieu.
+
+4. De bevoegde autoriteit, bedoeld in artikel 2 quater, achtste lid, van [Verordening (EU) nr. 692/2014](32014R0692) is de Minister van Financiën, de Minister van Buitenlandse Zaken, de Minister van Economische Zaken, de Minister van Klimaat en Groene Groei of de Minister voor Buitenlandse Handel en Ontwikkelingshulp, elk voor het gebied waartoe hun competenties zich uitstrekken.
+
+5. De bevoegde autoriteiten, bedoeld in artikel 7 bis, derde lid, van [Verordening (EU) nr. 692/2014](32014R0692), zijn:
+
+- a. alle bevoegde autoriteiten die zijn aangewezen bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+- b. alle toezichthouders en toezichthoudende ambtenaren die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met het toezicht op de naleving van [Verordening (EU) nr. 692/2014](32014R0692) of de bij of krachtens de Sanctiewet 1977 gestelde voorschriften;
+
+- c. alle autoriteiten of beheerders van registers die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met de uitvoering van [Verordening (EU) nr. 692/2014](32014R0692); of
+
+- d. de Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12).
 
 ##### Artikel 3
 
