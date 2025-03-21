@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2024-01-01&g=2024-01-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2025-03-21&g=2025-03-21) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -248,6 +248,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | g. TMZ G1 | Van 1200 ft AMSL tot FL45 |
 | h. TMZ Maastricht | Van 1200 ft AMSL tot 1500 ft AMSL |
 | i. TMZ Rotterdam | Van 1200 ft AMSL tot 2500 ft AMSL |
+| j. TMZ Schiphol Area | Van 500 ft AMSL tot 1500 ft AMSL |
 
 #### Gebruik van transponders
 
@@ -283,7 +284,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2024-01-01&g=2024-01-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2025-03-21&g=2025-03-21), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -339,9 +340,25 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2024-01-01&g=2024-01-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2025-03-21&g=2025-03-21) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
+
+#### Strafbepaling
+
+#### Slotartikelen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7b
+
+1. In de TMZ Schiphol Area, genoemd in [punt 1, onderdeel l, van bijlage 3 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3), is het verplicht voor alle luchtvaartuigen om de radiofrequentie te monitoren zoals vastgesteld door de Minister en opgenomen in de luchtvaartgids, hoofdstuk ENR 2.1.
+
+2. De verplichting in het eerste lid geldt niet voor zweefvliegtuigen, zeilvliegtuigen, schermvliegtuigen, modelvliegtuigen en paramotors.
+
+#### Gebruik van transponders
+
+#### Gebruik hoogtemeter
 
 #### Strafbepaling
 
