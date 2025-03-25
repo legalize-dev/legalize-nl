@@ -4,7 +4,7 @@ identifier: "BWBR0048897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-28"
-last_updated: "2023-11-17"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048897"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - **bijlage:** de bij deze regeling opgenomen bijlage;
 
-- **woningbouwlocatie:** grootschalige NOVEX-woningbouwlocatie in Amsterdam Havenstad, MRA-West, MRA-Oost, Rotterdam Oostflank, Den Haag CID-Binckhorst, Oude Lijn Leiden–Dordrecht, Utrecht Groot Merwede, Eindhoven Internationale knoop XL, de Brabantse stedenrij, Groningen Suikerunieterrein, Groningen Stadshavens, Foodvalley, Arnhem Spoorzone Oost, Nijmegen Stationsgebied, Nijmegen Kanaalzone, Zwolle Spoorzone en Amersfoort Spoor en A1-zone;
+- **woningbouwlocatie:** grootschalige NOVEX-woningbouwlocatie in Amsterdam Havenstad, MRA-West, MRA-Oost, Rotterdam Oostflank, Den Haag CID-Binckhorst, Oude Lijn Leiden–Dordrecht, Utrecht Groot Merwede, Eindhoven Internationale knoop XL, de Brabantse stedenrij, Groningen Suikerunieterrein, Groningen Stadshavens, Foodvalley, Arnhem Spoorzone Oost, Nijmegen Stationsgebied, Nijmegen Kanaalzone, Zwolle Spoorzone, Nieuwegein Rijnhuizen en Amersfoort Spoor en A1-zone;
 
-- **gebiedsbudget:** de uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2023-11-17&g=2023-11-17);
+- **gebiedsbudget:** de uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-03-25&g=2025-03-25);
 
 - **gebiedsmaatregel:** maatregel die in aanmerking komt voor het gebiedsbudget;
 
-- **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- **minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
 - **ontvanger:** gemeente of openbaar lichaam waaraan een specifieke uitkering is verleend;
 
@@ -124,6 +124,8 @@ In deze regeling wordt verstaan onder:
 
 3. De bedragen, bedoeld in het tweede lid, onderdeel b, zijn de bedragen inclusief omzetbelasting.
 
+4. In afwijking van het eerste lid, besluit de minister uiterlijk 1 juli 2025 over het verlenen van een specifieke uitkering aan de gemeente Nieuwegein.
+
 ##### Artikel 5. Uitkeringsplafond en maximale bedragen
 
 Het uitkeringsplafond bedraagt € 442.000.000, inclusief omzetbelasting.
@@ -154,9 +156,11 @@ Het uitkeringsplafond bedraagt € 442.000.000, inclusief omzetbelasting.
 
 8. De minister kan nadere voorschriften aan de specifieke uitkering verbinden, waarbij in bijzondere omstandigheden kan worden afgeweken van het vijfde lid.
 
+9. Het zevende lid is niet van toepassing op de gemeente Nieuwegein voor zover het de verstrekking van beleidsinformatie betreft in het jaar 2025.
+
 ##### Artikel 7. Bevoorschotting en wijze van uitkering
 
-1. De minister verstrekt bij een besluit tot verlening van een specifieke uitkering een voorschot ter hoogte van het totaalbedrag van de specifieke uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2023-11-17&g=2023-11-17), exclusief omzetbelasting.
+1. De minister verstrekt bij een besluit tot verlening van een specifieke uitkering een voorschot ter hoogte van het totaalbedrag van de specifieke uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-03-25&g=2025-03-25), exclusief omzetbelasting.
 
 2. Het voorschot wordt, met ingang van het jaar dat het besluit tot verlening van de specifieke uitkering is genomen, in één keer uitgekeerd.
 
@@ -166,17 +170,17 @@ Het uitkeringsplafond bedraagt € 442.000.000, inclusief omzetbelasting.
 
 2. Een aanvraag als bedoeld in het eerste lid heeft betrekking op:
 
-- a. een situatie als bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2023-11-17&g=2023-11-17); of
+- a. een situatie als bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2025-03-25&g=2025-03-25); of
 
 - b. een wijziging van een gebiedsmaatregel waarvoor een specifieke uitkering is verleend.
 
-3. In geval van een situatie als bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2023-11-17&g=2023-11-17), kan de minister, mits er sprake is van bijzondere omstandigheden, bij een besluit tot wijziging van de specifieke uitkering bepalen dat wordt afgeweken van de termijnen, genoemd in artikel 6, derde en vierde lid en het percentage, bedoeld in artikel 6, vijfde en achtste lid.
+3. In geval van een situatie als bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2025-03-25&g=2025-03-25), kan de minister, mits er sprake is van bijzondere omstandigheden, bij een besluit tot wijziging van de specifieke uitkering bepalen dat wordt afgeweken van de termijnen, genoemd in artikel 6, derde en vierde lid en het percentage, bedoeld in artikel 6, vijfde en achtste lid.
 
 4. Een wijziging als bedoeld in het tweede lid, onderdeel b, kan voorzien in het verlenen van een specifieke uitkering voor een gewijzigde gebiedsmaatregel mits:
 
 - a. de gewijzigde gebiedsmaatregel dezelfde woningbouwlocatie voorziet; en
 
-- b. de gewijzigde gebiedsmaatregel één van de typen maatregelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=2&z=2023-11-17&g=2023-11-17), betreft.
+- b. de gewijzigde gebiedsmaatregel één van de typen maatregelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=2&z=2025-03-25&g=2025-03-25), betreft.
 
 5. De aanvraag, bedoeld in het tweede lid, aanhef en onderdeel b, kan uiterlijk tot de start van de realisatie van de gebiedsmaatregel waarop het oorspronkelijke besluit ziet worden ingediend met een daartoe door de minister beschikbaar gesteld digitaal aanvraagformulier.
 
@@ -216,9 +220,9 @@ De verantwoording van de ontvanger over de besteding van de specifieke uitkering
 
 ##### Artikel 10. Vaststelling
 
-1. De minister stelt de specifieke uitkering ambtshalve vast uiterlijk 31 december van het jaar waarop de laatste verantwoording overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=9&z=2023-11-17&g=2023-11-17) heeft plaatsgevonden.
+1. De minister stelt de specifieke uitkering ambtshalve vast uiterlijk 31 december van het jaar waarop de laatste verantwoording overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=9&z=2025-03-25&g=2025-03-25) heeft plaatsgevonden.
 
-2. De minister kan de specifieke uitkering ambtshalve vaststellen indien uit de verantwoording, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=9&z=2023-11-17&g=2023-11-17), blijkt dat de ontvanger niet voldoet aan een verplichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2023-11-17&g=2023-11-17) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=8&z=2023-11-17&g=2023-11-17). Een ambtshalve vaststelling kan zien op het bedrag van de specifieke uitkering per gebiedsmaatregel.
+2. De minister kan de specifieke uitkering ambtshalve vaststellen indien uit de verantwoording, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=9&z=2025-03-25&g=2025-03-25), blijkt dat de ontvanger niet voldoet aan een verplichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=6&z=2025-03-25&g=2025-03-25) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=8&z=2025-03-25&g=2025-03-25). Een ambtshalve vaststelling kan zien op het bedrag van de specifieke uitkering per gebiedsmaatregel.
 
 3. Een besluit tot vaststelling vermeldt in ieder geval:
 
@@ -230,17 +234,17 @@ De verantwoording van de ontvanger over de besteding van de specifieke uitkering
 
 5. De specifieke uitkering kan lager worden vastgesteld dan het bedrag dat bij verlening is vastgesteld, indien de ontvanger niet heeft voldaan aan de bij of krachtens deze regeling gestelde verplichtingen.
 
-6. Indien uit de verantwoording blijkt dat het daadwerkelijke resterend financiële tekort per woningbouwlocatie lager is dan het voorziene resterend financiële tekort, bedoeld in[artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2023-11-17&g=2023-11-17), dan wordt het bedrag van de specifieke uitkering niet hoger vastgesteld dan het percentage, bedoeld in artikel 4 tweede lid, onderdeel g, van het resterend financiële tekort.
+6. Indien uit de verantwoording blijkt dat het daadwerkelijke resterend financiële tekort per woningbouwlocatie lager is dan het voorziene resterend financiële tekort, bedoeld in[artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2025-03-25&g=2025-03-25), dan wordt het bedrag van de specifieke uitkering niet hoger vastgesteld dan het percentage, bedoeld in artikel 4 tweede lid, onderdeel g, van het resterend financiële tekort.
 
 ##### Artikel 11. Terugvordering
 
-1. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2023-11-17&g=2023-11-17), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd.
+1. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2025-03-25&g=2025-03-25), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd.
 
-2. De minister kan het verschil tussen de bedragen, bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=10&z=2023-11-17&g=2023-11-17), terugvorderen.
+2. De minister kan het verschil tussen de bedragen, bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=10&z=2025-03-25&g=2025-03-25), terugvorderen.
 
 ##### Artikel 12. Hardheidsclausule
 
-De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2023-11-17&g=2023-11-17), zal leiden tot een onbillijkheid van overwegende aard.
+De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-03-25&g=2025-03-25), zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 13. Evaluatie
 
@@ -258,7 +262,7 @@ De minister kan een bepaling van deze regeling buiten toepassing laten of daarva
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering gebiedsbudget.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2023-11-17&g=2023-11-17)
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-03-25&g=2025-03-25)
 
 ### Bijlage bij de Tijdelijke regeling specifieke uitkering gebiedsbudget
 
