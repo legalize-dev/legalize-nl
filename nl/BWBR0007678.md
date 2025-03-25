@@ -4,7 +4,7 @@ identifier: "BWBR0007678"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007678"
 soort: "wet"
@@ -56,7 +56,7 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ##### Artikel 2
 
-Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
+Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
@@ -80,9 +80,11 @@ In deze wet en in de daarop berustende regelingen wordt verstaan onder:
 
 - e. richtlijn: [Richtlijn 1999/62/EG](31999L0062) van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187);
 
-- f. categorieën EURO 0, EURO I, EURO II, EURO III, EURO IV en EURO V: motorrijtuigen met een emissiegrenswaarde als bedoeld in de respectievelijke tabel van bijlage 0 bij de richtlijn;
+- f. categorieën EURO 0, EURO I, EURO II, EURO III, EURO IV, EURO V en EURO VI: motorrijtuigen met een emissiegrenswaarde als bedoeld in de respectievelijke tabel van bijlage 0 bij de richtlijn;
 
-- g. categorie EURO VI en schoner: motorrijtuigen met een emissiegrenswaarde als bedoeld in bijlage I bij verordening (EG) nr. [595/2009](32495L2009) van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en tot wijziging van Verordening (EG) nr. [715/2007](32615L2007) en [Richtlijn 2007/46/EG](32007L0046) en tot intrekking van de [Richtlijnen 80/1269/EEG](31980L1269), [2005/55/EG](32005L0055) en [2005/78/EG](32005L0078) (PbEU 2009, L 188) of een lagere emissiegrenswaarde.
+- g. emissievrij voertuig: een emissievrij zwaar bedrijfsvoertuig als bedoeld in artikel 3, punt 11, van [Verordening (EU) 2019/1242](32019R1242) van het Europees Parlement en de Raad;
+
+- h. categorieën CO2-emissieklasse 1, CO2-emissieklasse 2, CO2-emissieklasse 3, CO2-emissieklasse 4 en CO2-emissieklasse 5: motorrijtuig met een overeenkomstige emissiegrenswaarde als bedoeld in artikel 7 octies bis, tweede lid, van de richtlijn.
 
 ### Afdeling 3. Voorwerp van de belasting
 
@@ -108,7 +110,7 @@ Als houder wordt aangemerkt:
 
 ##### Artikel 7
 
-1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2025-01-01&g=2025-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
+1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2025-03-25&g=2025-03-25), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
 
 - a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;
 
@@ -132,85 +134,79 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 
 ##### Artikel 10
 
-1. Het tarief bedraagt voor een tijdvak van één jaar voor motorrijtuigen:
+1. Het tarief voor een tijdvak van één jaar is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
-- a. met drie assen of minder en in de categorie:
+| **Kolom 1** | **Kolom 2** | **Kolom 3** | **Kolom 4** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| **CO2-emissieklasse 1** | **NIET-EURO** | € 1.434 | € 2.404 |
+| **CO2-emissieklasse 1** | **EURO I** | € 1.246 | € 2.081 |
+| **CO2-emissieklasse 1** | **EURO II** | € 1.085 | € 1.810 |
+| **CO2-emissieklasse 1** | **EURO III** | € 944 | € 1.572 |
+| **CO2-emissieklasse 1** | **EURO IV** | € 858 | € 1.431 |
+| **CO2-emissieklasse 1** | **EURO V** | € 811 | € 1.352 |
+| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 764 | € 1.274 |
+| **CO2-emissieklasse 2** |   | € 688 | € 1.146 |
+| **CO2-emissieklasse 3** |   | € 592 | € 987 |
+| **CO2-emissieklasse 4** |   | € 459 | € 764 |
+| **CO2-emissieklasse 5** |   | € 191 | € 318. |
 
-| 1°. EURO 0 | € 1.407 |
-| --- | --- |
-| 2°. EURO I | € 1.223 |
-| 3°. EURO II | € 1.065 |
-| 4°. EURO III | € 926 |
-| 5°. EURO IV | € 842 |
-| 6°. EURO V | € 796 |
-| 7°. EURO VI en schoner | € 750; |
+2. Het tarief voor een tijdvak van één maand is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
-- b. met vier assen of meer en in de categorie:
+| **Kolom 1** | **Kolom 2** | **Kolom 3** | **Kolom 4** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| **CO2-emissieklasse 1** | **NIET-EURO** | € 143 | € 240 |
+| **CO2-emissieklasse 1** | **EURO I** | € 124 | € 208 |
+| **CO2-emissieklasse 1** | **EURO II** | € 108 | € 181 |
+| **CO2-emissieklasse 1** | **EURO III** | € 94 | € 157 |
+| **CO2-emissieklasse 1** | **EURO IV** | € 85 | € 143 |
+| **CO2-emissieklasse 1** | **EURO V** | € 81 | € 135 |
+| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 76 | € 127 |
+| **CO2-emissieklasse 2** |   | € 68 | € 114 |
+| **CO2-emissieklasse 3** |   | € 59 | € 98 |
+| **CO2-emissieklasse 4** |   | € 45 | € 76 |
+| **CO2-emissieklasse 5** |   | € 19 | € 31. |
 
-| 1°. EURO 0 | € 2.359 |
-| --- | --- |
-| 2°. EURO I | € 2.042 |
-| 3°. EURO II | € 1.776 |
-| 4°. EURO III | € 1.543 |
-| 5°. EURO IV | € 1.404 |
-| 6°. EURO V | € 1.327 |
-| 7°. EURO VI en schoner | € 1.250. |
+3. Het tarief voor een tijdvak van één week is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
-2. Het tarief bedraagt voor een tijdvak van één maand voor motorrijtuigen:
+| **Kolom 1** | **Kolom 2** | **Kolom 3** | **Kolom 4** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| **CO2-emissieklasse 1** | **NIET-EURO** | € 50 | € 84 |
+| **CO2-emissieklasse 1** | **EURO I** | € 44 | € 73 |
+| **CO2-emissieklasse 1** | **EURO II** | € 38 | € 63 |
+| **CO2-emissieklasse 1** | **EURO III** | € 33 | € 55 |
+| **CO2-emissieklasse 1** | **EURO IV** | € 30 | € 50 |
+| **CO2-emissieklasse 1** | **EURO V** | € 28 | € 47 |
+| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 27 | € 45 |
+| **CO2-emissieklasse 2** |   | € 24 | € 40 |
+| **CO2-emissieklasse 3** |   | € 21 | € 35 |
+| **CO2-emissieklasse 4** |   | € 16 | € 27 |
+| **CO2-emissieklasse 5** |   | € 7 | € 11. |
 
-- a. met drie assen of minder en in de categorie:
+4. Het tarief voor een tijdvak van één dag is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
-| 1°. EURO 0 | € 140 |
-| --- | --- |
-| 2°. EURO I | € 122 |
-| 3°. EURO II | € 106 |
-| 4°. EURO III | € 92 |
-| 5°. EURO IV | € 84 |
-| 6°. EURO V | € 79 |
-| 7°. EURO VI en schoner | € 75; |
-
-- b. met vier assen of meer en in de categorie:
-
-| 1°. EURO 0 | € 235 |
-| --- | --- |
-| 2°. EURO I | € 204 |
-| 3°. EURO II | € 177 |
-| 4°. EURO III | € 154 |
-| 5°. EURO IV | € 140 |
-| 6°. EURO V | € 132 |
-| 7°. EURO VI en schoner | € 125. |
-
-3. Het tarief bedraagt voor een tijdvak van één week voor motorrijtuigen:
-
-- a. met drie assen of minder en in de categorie:
-
-| 1°. EURO 0 | € 37 |
-| --- | --- |
-| 2°. EURO I | € 32 |
-| 3°. EURO II | € 28 |
-| 4°. EURO III | € 24 |
-| 5°. EURO IV | € 22 |
-| 6°. EURO V | € 21 |
-| 7°. EURO VI en schoner | € 20; |
-
-- b. met vier assen of meer en in de categorie:
-
-| 1°. EURO 0 | € 62 |
-| --- | --- |
-| 2°. EURO I | € 54 |
-| 3°. EURO II | € 47 |
-| 4°. EURO III | € 41 |
-| 5°. EURO IV | € 37 |
-| 6°. EURO V | € 35 |
-| 7°. EURO VI en schoner | € 33. |
-
-4. Het tarief bedraagt voor een tijdvak van één dag: € 12.
+| **Kolom 1** | **Kolom 2** | **Kolom 3** | **Kolom 4** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| **CO2-emissieklasse 1** | **NIET-EURO** | € 14 | € 24 |
+| **CO2-emissieklasse 1** | **EURO I** | € 12 | € 21 |
+| **CO2-emissieklasse 1** | **EURO II** | € 11 | € 18 |
+| **CO2-emissieklasse 1** | **EURO III** | € 9 | € 16 |
+| **CO2-emissieklasse 1** | **EURO IV** | € 9 | € 14 |
+| **CO2-emissieklasse 1** | **EURO V** | € 8 | € 14 |
+| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 8 | € 13 |
+| **CO2-emissieklasse 2** |   | € 7 | € 11 |
+| **CO2-emissieklasse 3** |   | € 6 | € 10 |
+| **CO2-emissieklasse 4** |   | € 5 | € 8 |
+| **CO2-emissieklasse 5** |   | € 2 | € 3. |
 
 5. Onder het aantal assen van een motorrijtuig wordt verstaan het aantal assen van het motorrijtuig tezamen met het aantal assen van een met dat motorrijtuig verbonden voertuig, niet zijnde een motorrijtuig.
 
 6. Indien de Euronorm van een motorrijtuig niet is geregistreerd, wordt voor de bepaling van de Euronorm uitgegaan van de datum van eerste toelating van dit motorrijtuig zoals vermeld in het kentekenregister.
 
-7. Het motorrijtuig waarvan ten aanzien van de Euronorm geen aantekening in het kentekenregister of op het kentekenbewijs aanwezig is, wordt voor de toepassing van het eerste, tweede en derde lid aangemerkt als:
+7. Het motorrijtuig waarvan ten aanzien van de Euronorm geen aantekening in het kentekenregister of op het kentekenbewijs aanwezig is, wordt voor de toepassing van het eerste, tweede, derde en vierde lid aangemerkt als:
 
 - a. EURO 0 – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer voor 1 juli 1992 ligt;
 
@@ -225,6 +221,8 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 - f. EURO V – motorrijtuig wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 30 september 2008 maar voor 1 januari 2013 ligt;
 
 - g. EURO VI – motorrijtuig en schoner wanneer blijkens de aantekening in het kentekenregister of op het kentekenbewijs de datum voor de eerste toelating tot het verkeer na 31 december 2012 ligt.
+
+8. Het motorrijtuig waarvan geen CO2-emissieklasse kan worden vastgesteld, wordt voor de toepassing van het eerste, tweede, derde en vierde lid aangemerkt als een motorrijtuig met CO2-emissieklasse 1.
 
 ### Afdeling 3. Aangifte
 
@@ -262,7 +260,7 @@ Vervallen
 
 1. Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.
 
-2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet ingetreden aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-03-25&g=2025-03-25), is van overeenkomstige toepassing.
 
 3. Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
@@ -322,7 +320,7 @@ Vervallen
 
 ##### Artikel 16
 
-Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-01-01&g=2025-01-01).
+Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-03-25&g=2025-03-25).
 
 ##### Artikel 17
 
@@ -336,13 +334,13 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2025-01-01&g=2025-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2025-03-25&g=2025-03-25) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ##### Artikel 20
 
-1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
+1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
-2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-01-01&g=2025-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
+2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-03-25&g=2025-03-25) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-03-25&g=2025-03-25) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
 ##### Artikel 21
 
@@ -372,7 +370,7 @@ Bevat wijzigingen in deze regelgeving.
 
 ##### Artikel 26
 
-1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
