@@ -4,7 +4,7 @@ identifier: "BWBV0001210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-25"
-last_updated: "2025-02-01"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001210"
 soort: "verdrag"
@@ -73,13 +73,13 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
-1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01) bedoelde gebruiksrecht.
+1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-03-25&g=2025-03-25) bedoelde gebruiksrecht.
 
 2. Op hun respectieve grondgebieden mogen de Verdragsluitende Partijen vrijstelling verlenen van het in artikel 3 bedoelde gebruiksrecht aan voertuigen die slechts af en toe op de openbare wegen van de Verdragsluitende Partij van registratie rijden en die gebruikt worden door natuurlijke of rechtspersonen die het vervoer van de goederen niet als voornaamste beroepsactiviteit hebben, op voorwaarde dat de vervoersactiviteiten die door deze voertuigen worden uitgevoerd niet leiden tot verstoring van de mededinging en dat de Europese Commissie hiermee heeft ingestemd.
 
-3. Emissievrije voertuigen met een technisch toelaatbare maximummassa in beladen toestand tot 4,25 ton zijn vrijgesteld van het gebruiksrecht bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01).
+3. Emissievrije voertuigen met een technisch toelaatbare maximummassa in beladen toestand tot 4,25 ton zijn vrijgesteld van het gebruiksrecht bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-03-25&g=2025-03-25).
 
-4. Op hun respectieve grondgebieden mogen Verdragsluitende Partijen vrijstelling verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-02-01&g=2025-02-01) bedoelde gebruiksrecht aan voertuigen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton en minder dan 7,5 ton die worden gebruikt voor het vervoer van materiaal, uitrusting of machines die zijn bestemd voor gebruik door de bestuurder tijdens diens werk, of voor het afleveren van ambachtelijk vervaardigde goederen, als het vervoer niet voor rekening van derden wordt verricht.
+4. Op hun respectieve grondgebieden mogen Verdragsluitende Partijen vrijstelling verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-03-25&g=2025-03-25) bedoelde gebruiksrecht aan voertuigen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton en minder dan 7,5 ton die worden gebruikt voor het vervoer van materiaal, uitrusting of machines die zijn bestemd voor gebruik door de bestuurder tijdens diens werk, of voor het afleveren van ambachtelijk vervaardigde goederen, als het vervoer niet voor rekening van derden wordt verricht.
 
 5. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
 
@@ -157,51 +157,67 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 | EURO V | 12 euro | 12 euro |
 | EURO VI of schoner | 12 euro | 12 euro |
 
-2. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één maand voor voertuigen:
+2. Vanaf 1 januari 2025 bedraagt het gebruiksrecht, met inbegrip van administratiekosten, voor voertuigen:
 
-- 1. met ten hoogste drie assen:
+| **Voor één jaar** | **Voor één jaar** | **Voor één jaar** | **Voor één jaar** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 1,434 euro | 2,404 euro |
+| 1 | EURO I | 1,246 euro | 2,081 euro |
+| 1 | EURO II | 1,085 euro | 1,810 euro |
+| 1 | EURO III | 944 euro | 1,572 euro |
+| 1 | EURO IV | 858 euro | 1,431 euro |
+| 1 | EURO V | 811 euro | 1,352 euro |
+| 1 | EURO VI of schoner | 764 euro | 1,274 euro |
+| 2 |   | 688 euro | 1,146 euro |
+| 3 |   | 592 euro | 987 euro |
+| 4 |   | 459 euro | 764 euro |
+| 5 |   | 191 euro | 319 euro |
 
-| a. NIET-EURO | 140 euro |
-| --- | --- |
-| b. EURO I | 122 euro |
-| c. EURO II | 106 euro |
-| d. EURO III | 92 euro |
-| e. EURO IV | 84 euro |
-| f. EURO V of schoner | 75 euro |
+| **Voor één maand** | **Voor één maand** | **Voor één maand** | **Voor één maand** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 143 euro | 240 euro |
+| 1 | EURO I | 124 euro | 208 euro |
+| 1 | EURO II | 108 euro | 181 euro |
+| 1 | EURO III | 94 euro | 157 euro |
+| 1 | EURO IV | 85 euro | 143 euro |
+| 1 | EURO V | 81 euro | 135 euro |
+| 1 | EURO VI of schoner | 76 euro | 124 euro |
+| 2 |   | 68 euro | 114 euro |
+| 3 |   | 59 euro | 98 euro |
+| 4 |   | 45 euro | 76 euro |
+| 5 |   | 19 euro | 31 euro |
 
-- 2. met vier of meer assen:
+| **Voor één week** | **Voor één week** | **Voor één week** | **Voor één week** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 50 euro | 84 euro |
+| 1 | EURO I | 44 euro | 73 euro |
+| 1 | EURO II | 38 euro | 63 euro |
+| 1 | EURO III | 33 euro | 55 euro |
+| 1 | EURO IV | 30 euro | 50 euro |
+| 1 | EURO V | 28 euro | 47 euro |
+| 1 | EURO VI of schoner | 27 euro | 45 euro |
+| 2 |   | 24 euro | 40 euro |
+| 3 |   | 21 euro | 35 euro |
+| 4 |   | 16 euro | 27 euro |
+| 5 |   | 7 euro | 12 euro |
 
-| a. NIET-EURO | 235 euro |
-| --- | --- |
-| b. EURO I | 204 euro |
-| c. EURO II | 177 euro |
-| d. EURO III | 154 euro |
-| e. EURO IV | 140 euro |
-| f. EURO V of schoner | 125 euro |
-
-Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één maand voor voertuigen:
-
-- 1. met ten hoogste drie assen:
-
-| a. NIET-EURO | 140 euro |
-| --- | --- |
-| b. EURO I | 122 euro |
-| c. EURO II | 106 euro |
-| d. EURO III | 92 euro |
-| e. EURO IV | 84 euro |
-| f. EURO V | 79 euro |
-| g. EURO VI of schoner | 75 euro |
-
-- 2. met vier of meer assen:
-
-| a. NIET-EURO | 235 euro |
-| --- | --- |
-| b. EURO I | 204 euro |
-| c. EURO II | 177 euro |
-| d. EURO III | 154 euro |
-| e. EURO IV | 140 euro |
-| f. EURO V | 132 euro |
-| g. EURO VI of schoner | 125 euro |
+| **Voor één dag** | **Voor één dag** | **Voor één dag** | **Voor één dag** |
+| --- | --- | --- | --- |
+| **CO2-emissieklasse** | **EURO-emissieklasse** | **Ten hoogste drie assen** | **Ten minste vier assen** |
+| 1 | NIET-EURO | 14 euro | 24 euro |
+| 1 | EURO I | 12 euro | 21 euro |
+| 1 | EURO II | 11 euro | 18 euro |
+| 1 | EURO III | 9 euro | 16 euro |
+| 1 | EURO IV | 9 euro | 14 euro |
+| 1 | EURO V | 8 euro | 14 euro |
+| 1 | EURO VI of schoner | 8 euro | 13 euro |
+| 2 |   | 7 euro | 12 euro |
+| 3 |   | 6 euro | 10 euro |
+| 4 |   | 5 euro | 8 euro |
+| 5 |   | 2 euro | 4 euro |
 
 3. Niettegenstaande het tweede lid bedraagt het gebruiksrecht, met inbegrip van administratiekosten, vanaf 26 maart 2027 voor voertuigen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton maar minder dan 12 ton:
 
@@ -369,7 +385,7 @@ Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages wor
 
 - 3. de coördinatie tussen de nationale toezichthoudende autoriteiten van de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven;
 
-- 4. de coördinatie van de exacte datum waarop de referentiewaarden van de CO2-emissies als bedoeld in [artikel 8, vierde lid, punten a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=8&z=2025-02-01&g=2025-02-01), van het Verdrag worden toegepast.
+- 4. de coördinatie van de exacte datum waarop de referentiewaarden van de CO2-emissies als bedoeld in [artikel 8, vierde lid, punten a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=8&z=2025-03-25&g=2025-03-25), van het Verdrag worden toegepast.
 
 2. De coördinatiecommissie stelt haar eigen reglement op, waarin de bijzonderheden worden geregeld van de werkwijze en de in dit Verdrag genoemde te nemen beslissingen.
 
