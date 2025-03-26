@@ -4,7 +4,7 @@ identifier: "BWBR0050875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-26"
-last_updated: "2025-01-01"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050875"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2025 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Het bedrag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050875&artikel=1&z=2025-03-26&g=2025-01-01), is bestemd voor de Sociale verzekeringsbank.
+Het bedrag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050875&artikel=1&z=2025-03-26&g=2025-03-26), is bestemd voor de Sociale verzekeringsbank.
 
 ##### Artikel 3
 
