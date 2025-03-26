@@ -4,7 +4,7 @@ identifier: "BWBR0041050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-26"
-last_updated: "2025-01-01"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041050"
 soort: "ministeriele-regeling"
@@ -54,6 +54,8 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **bewijs van duurzaamheid:** bewijs dat de duurzaamheid en de broeikasgasemissiereductie van een geleverde hoeveelheid fysieke biobrandstof aantoont, afgegeven door een gecertificeerde schakel van een duurzaamheidssysteem op basis van zijn massabalans;
 
+- **bewijs van hernieuwbaarheid:** bewijs dat de broeikasgasemissiereductie van een geleverde hoeveelheid hernieuwbare brandstof aantoont, afgegeven door een gecertificeerde schakel van een vrijwillig systeem op basis van zijn massabalans van hernieuwbare brandstoffen;
+
 - **binnenschip:** binnenschip als bedoeld in [artikel 1, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1);
 
 - **bunkerverklaring:** verklaring die de uitslag tot verbruik van de minerale olie aantoont, bedoeld in [artikel 19 van het Uitvoeringbesluit accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=19), met de gegevens, bedoeld in [artikel 29 van het Uitvoeringregeling accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&artikel=29);
@@ -72,7 +74,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **gastransportnet:** transportnet als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
 
-- **gecertificeerde schakel van een duurzaamheidssysteem:** een onderneming die op grond van [artikel 9.7.6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.6.2) gecertificeerd is volgens een duurzaamheidssysteem;
+- **gecertificeerde schakel van een duurzaamheidssysteem:** een onderneming of een partij die gecertificeerd is volgens een duurzaamheidssysteem;
+
+- **gecertificeerde schakel van een vrijwillig systeem;** een onderneming die gecertificeerd is volgens een vrijwillig systeem;
 
 - **LNG:** vloeibaar gemaakt aardgas;
 
@@ -88,7 +92,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 2
 
-De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde brandstof of de geleverde biobrandstof, waarvoor bijlage III bij de richtlijn hernieuwbare energie geen energie-inhoud vermeldt,
+De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde brandstof, de geleverde biobrandstof of de geleverde hernieuwbare brandstof, waarvoor bijlage III bij de richtlijn hernieuwbare energie geen energie-inhoud vermeldt,
 
 - a. wordt door de leverancier tot eindverbruik onderscheidenlijk de inboeker ten genoegen van het bestuur van de emissieautoriteit aangetoond met behulp van een erkende methode die bestemd is voor het vaststellen van de verbrandingswaarde van de brandstof of de biobrandstof;
 
@@ -102,7 +106,7 @@ De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde b
 
 2. De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit alle informatie die de emissieautoriteit nodig heeft om te bepalen of in het register de levering tot eindverbruik door ondernemingen juist en volledig is geregistreerd. Hiertoe voert de rijksbelastingdienst ten minste een gegevensanalyse uit nadat zij daartoe de benodigde gegevens heeft ontvangen van de emissieautoriteit. Ook verstrekt zij aan de emissieautoriteit risicosignalen ten aanzien van ondernemingen bedoeld in het eerste lid.
 
-3. De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit informatie die de emissieautoriteit nodig heeft om specifieke toezicht- of handhavingsonderzoeken te doen naar producenten van biobrandstoffen als bedoeld in [artikel 9.7.6.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.6.1), ondernemingen die gecertificeerd zijn volgens een duurzaamheidsysteem als bedoeld in [artikel 9.7.6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.6.2) of ondernemingen die een rekening hebben in het register.
+3. De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit informatie die de emissieautoriteit nodig heeft om specifieke toezicht- of handhavingsonderzoeken te doen naar producenten van biobrandstoffen of hernieuwbare brandstoffen als bedoeld in [artikel 9.7.6.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.6.1), ondernemingen die gecertificeerd zijn volgens een duurzaamheidsysteem als bedoeld in [artikel 9.7.6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.6.2) of ondernemingen die een rekening hebben in het register.
 
 4. De rijksbelastingdienst en het bestuur van de emissieautoriteit sluiten over de invulling van het bepaalde in dit artikel een bestuursovereenkomst.
 
@@ -132,15 +136,15 @@ Vervallen
 
 ##### Artikel 6
 
-1. De hoeveelheid vloeibare biobrandstof die wordt ingeboekt is de fysieke hoeveelheid in liters bij een temperatuur van 15°C, of de fysieke hoeveelheid in kilogrammen, die blijkt uit de bedrijfsadministratie van de locatie waar vanaf door de inboeker is geleverd aan de Nederlandse markt.
+1. De hoeveelheid vloeibare biobrandstof die wordt ingeboekt is de fysieke hoeveelheid in liters bij een temperatuur van 15°C, of de fysieke hoeveelheid in kilogrammen, die blijkt uit de bedrijfsadministratie van de opslaglocatie waar vanaf door de inboeker is geleverd aan de Nederlandse markt.
 
-2. Voor een hoeveelheid vloeibare biobrandstof die wordt ingeboekt stelt de inboeker op basis van de massabalans van de desbetreffende locatie een bewijs van duurzaamheid op ten behoeve van het bestuur van de emissieautoriteit.
+2. Voor een hoeveelheid vloeibare biobrandstof die wordt ingeboekt stelt de inboeker op basis van de massabalans van de desbetreffende opslaglocatie een bewijs van duurzaamheid op ten behoeve van het bestuur van de emissieautoriteit.
 
 3. Bij vermenging in een opslagtank van een fysieke hoeveelheid vloeibare biobrandstof met een hoeveelheid vloeibare fossiele brandstof wordt de biobrandstof bij deelleveringen uit dat mengsel in gelijke percentages aan die deelleveringen toegekend.
 
-4. Voor het aantonen dat een fysieke hoeveelheid ingeboekte vloeibare biobrandstof is uitgeslagen tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), voldoet de inboeker aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2024-01-01&g=2025-01-01) genoemde eisen.
+4. Voor het aantonen dat een fysieke hoeveelheid ingeboekte vloeibare biobrandstof is geleverd aan de Nederlandse markt, voldoet de inboeker aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel B, genoemde eisen.
 
-5. Voor zover een hoeveelheid biobrandstof in een brandstof of aan een bestemming is geleverd die niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2024-01-01&g=2025-01-01), deel A, is vermeld, is de inboeking niet toegestaan.
+5. Voor zover een hoeveelheid vloeibare biobrandstof in een brandstof of aan een bestemming is geleverd die niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel A, is vermeld, is de inboeking niet toegestaan.
 
 6. Indien de geleverde hoeveelheid vloeibare biobrandstof als dubbel tellend ingeboekt wordt, dan komt de aard van de grondstof van het bewijs van duurzaamheid overeen met de aard van de grondstof van de dubbeltellingverklaring.
 
@@ -168,37 +172,13 @@ Vervallen
 
 ##### Artikel 8
 
-1. De hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt en die door garanties van oorsprong voor ander gas uit hernieuwbare bronnen boekhoudkundig wordt vergroend, voor zover de inboeker kan aantonen dat ter grootte van de inboeking een hoeveelheid methanol, kerosine of LNG uit waterstof is vervaardigd, is:
+1. De hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt is de fysieke hoeveelheid in liters bij een temperatuur van 15°C of kilogrammen zoals blijkt uit de bedrijfsadministratie van de opslaglocatie waar vanaf door de inboeker is geleverd aan de Nederlandse markt voor vervoer.
 
-- a. de aantoonbaar aanwezige hoeveelheid methanol in liters bij een temperatuur van 15 °C in een benzine, die blijkens de bedrijfsadministratie van de inboeker is geleverd;
+2. Voor een hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt stelt de inboeker op basis van de massabalans van hernieuwbare brandstoffen van de desbetreffende opslaglocatie en desbetreffende soort brandstof een bewijs van hernieuwbaarheid op ten behoeve van het bestuur van de emissieautoriteit.
 
-- b. de hoeveelheid geleverde kerosine in liters bij een temperatuur van 15 °C, die blijkens de bedrijfsadministratie van de inboeker is geleverd; of
+3. Voor het aantonen dat een hoeveelheid ingeboekte vloeibare hernieuwbare brandstof als een onderdeel van een mengsel met een fossiele brandstof van een andere samenstelling is geleverd, voldoet de inboeker aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=2&z=2025-03-26&g=2025-03-26) genoemde eisen.
 
-- c. de hoeveelheid LNG in kilogrammen, die blijkens de bedrijfsadministratie van de inboeker is geleverd.
-
-2. De garanties van oorsprong, bedoeld in het eerste lid:
-
-- a. zijn voorafgaand aan het inboeken van de hoeveelheid vloeibare hernieuwbare brandstof geboekt op de rekening van de emissieautoriteit, bedoeld in [artikel 23, tweede lid, van de Regeling garanties van oorsprong en certificaten van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&artikel=23);
-
-- b. hebben een einddatum van geldigheid die ligt binnen of na de einddatum van de bij de inboeking opgegeven periode van de levering van de methanol, de kerosine of van de LNG;
-
-- c. hebben betrekking op in Nederland geproduceerde hernieuwbare brandstof uit in Nederland opgewekte elektriciteit uit hernieuwbare bronnen.
-
-3. De geleverde hoeveelheid methanol, kerosine of LNG, bedoeld in het eerste lid, heeft ten minste de omvang van de hoeveelheid die op de garanties van oorsprong voor ander gas uit hernieuwbare bronnen is vermeld.
-
-4. Voor de bepaling van het aantal bij te schrijven hernieuwbare brandstofeenheden, wordt de omvang van de garanties van oorsprong, bedoeld in het eerste lid, uitgedrukt in GJ en
-
-- a. voor methanol vermenigvuldigd met 0,8;
-
-- b. voor kerosine vermenigvuldigd met 0,7;
-
-- c. voor LNG vermenigvuldigd met 0,6.
-
-5. Voor een hoeveelheid methanol, kerosine of LNG die wordt ingeboekt is een verificatieverklaring hernieuwbare brandstof als bedoeld in artikel 15 afgegeven.
-
-6. Voor het aantonen dat tot verbruik uitgeslagen benzine als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2) een hoeveelheid methanol bevat, voldoet de inboeker aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=2&z=2024-01-01&g=2025-01-01) genoemde eisen. Ten aanzien van het aantonen van de levering aan de Nederlandse markt van vervoer voor methanol en LNG, is [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2024-01-01&g=2025-01-01), deel A, onderdeel 1, en voor kerosine, is bijlage 1, deel A, onderdeel 6, van overeenkomstige toepassing.
-
-7. Een geleverde hoeveelheid LNG, bedoeld in het eerste lid, onder c, mag niet ook als een vloeibare biobrandstof ingeboekt worden, als bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6a&z=2024-01-01&g=2025-01-01).
+4. Voor zover een hoeveelheid vloeibare hernieuwbare brandstof in een brandstof of aan een bestemming is geleverd die niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel A, is vermeld, is de inboeking niet toegestaan.
 
 ##### Artikel 9
 
@@ -230,7 +210,7 @@ Vervallen
 
 3. Bij het inboeken van een geleverde hoeveelheid hernieuwbare energie vermeldt de inboeker:
 
-- a. de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=3&z=2024-01-01&g=2025-01-01) genoemde gegevens;
+- a. de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=3&z=2025-03-26&g=2025-03-26) genoemde gegevens;
 
 - b. de gegevens zoals die vermeld zijn op de bewijsstukken.
 
@@ -240,9 +220,9 @@ Vervallen
 
 1. De factor voor ingeboekte vloeibare of gasvormige hernieuwbare brandstof, bedoeld in [artikel 9.7.4.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4), is tweeënhalf.
 
-2. Het gedeelte van de energie-inhoud, bedoeld in [artikel 9.7.4.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), voor leveringen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2025-01-01), is het door het Centraal bureau voor statistiek bekendgemaakte gemiddelde aandeel van elektriciteit uit hernieuwbare bronnen in Nederland twee jaar voorafgaand aan het lopende kalenderjaar.
+2. Het gedeelte van de energie-inhoud, bedoeld in [artikel 9.7.4.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), voor leveringen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2025-03-26&g=2025-03-26), is het door het Centraal bureau voor statistiek bekendgemaakte gemiddelde aandeel van elektriciteit uit hernieuwbare bronnen in Nederland twee jaar voorafgaand aan het lopende kalenderjaar.
 
-3. Voor het gedeelte van de geleverde elektriciteit dat de inboeker op locatie aantoonbaar uit hernieuwbare bronnen heeft opgewekt, wordt het volledige gedeelte van de energie-inhoud, bedoeld in [artikel 9.7.4.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), voor leveringen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2025-01-01) gebruikt.
+3. Voor het gedeelte van de geleverde elektriciteit dat de inboeker op locatie aantoonbaar uit hernieuwbare bronnen heeft opgewekt, wordt het volledige gedeelte van de energie-inhoud, bedoeld in [artikel 9.7.4.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), voor leveringen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2025-03-26&g=2025-03-26) gebruikt.
 
 4. Voor leveringen als bedoeld in [artikel 10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10), wordt het volledige gedeelte van de energie-inhoud, bedoeld in [artikel 9.7.4.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), gebruikt.
 
@@ -254,7 +234,7 @@ Vervallen
 
 ##### Artikel 12
 
-De importeur die een hoeveelheid vloeibare biobrandstof heeft ingeboekt, overlegt aan het bestuur van de emissieautoriteit een bewijs van aangifte accijns voor die hoeveelheid.
+De importeur die een hoeveelheid vloeibare biobrandstof of vloeibare hernieuwbare brandstof heeft ingeboekt, overlegt aan het bestuur van de emissieautoriteit een bewijs van aangifte accijns voor die hoeveelheid.
 
 ##### Artikel 13
 
@@ -262,25 +242,13 @@ Vervallen
 
 ##### Artikel 14
 
-1. De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2024-01-01&g=2025-01-01).
+1. De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2025-03-26&g=2025-03-26).
 
-2. Een grondstof in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2024-01-01&g=2025-01-01) vervalt met ingang van de datum van toepassing van een gedelegeerde handeling van de Europese Commissie als bedoeld in artikel 28, zesde lid, van de richtlijn hernieuwbare energie, indien de betreffende grondstof is opgenomen in de lijst van grondstoffen van bijlage IX, deel A of B, van de richtlijn hernieuwbare energie.
+2. Een grondstof in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2025-03-26&g=2025-03-26) vervalt met ingang van de datum van toepassing van een gedelegeerde handeling van de Europese Commissie als bedoeld in artikel 28, zesde lid, van de richtlijn hernieuwbare energie, indien de betreffende grondstof is opgenomen in de lijst van grondstoffen van bijlage IX, deel A of B, van de richtlijn hernieuwbare energie.
 
 ##### Artikel 15
 
-1. De verificateur hernieuwbare brandstof:
-
-- a. beheert de verificatieverklaringen hernieuwbare brandstof in het register, bedoeld in [artikel 9.7.5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.5.1);
-
-- b. controleert dat te verifiëren hoeveelheden energie en brandstof zijn bepaald met behulp van voldoende nauwkeurige meters;
-
-- c. houdt een deugdelijke boekhouding bij van de verificatie hernieuwbare brandstof en het verificatieproces. Het verificatiedossier laat duidelijk alle relevante verificatiestappen en hun onderlinge samenhang zien, bevat voldoende motivering van de keuzes die hij heeft gemaakt in het kader van zijn oordeelsvorming, bevat een voldoende gedetailleerde vastlegging van de uitgevoerde verificatiewerkzaamheden, is volledig en overzichtelijk;
-
-- d. meldt aan het bestuur van de emissieautoriteit vermoedens van fraude.
-
-2. De verificatie hernieuwbare brandstof en de verificatieverklaring hernieuwbare brandstof voldoen aan de eisen gesteld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=6&z=2024-01-01&g=2025-01-01).
-
-3. De verificateur hernieuwbare brandstof bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende vijf jaar na afloop van het kalenderjaar waarin de verificatie is verricht.
+Vervallen
 
 ##### Artikel 16
 
@@ -296,7 +264,7 @@ Vervallen
 
 - e. meldt aan het bestuur van de emissieautoriteit vermoedens van fraude.
 
-2. De dubbeltellingverificatie en de dubbeltellingverklaring voldoen aan de eisen gesteld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=7&z=2024-01-01&g=2025-01-01).
+2. De dubbeltellingverificatie en de dubbeltellingverklaring voldoen aan de eisen gesteld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=7&z=2025-03-26&g=2025-03-26).
 
 ##### Artikel 17
 
@@ -312,7 +280,7 @@ Vervallen
 
 2. Het rapport van bevindingen wordt opgesteld op basis van een verificatie van alle inboekingen per soort hernieuwbare energie die ter verificatie werden aangeboden.
 
-3. De inboekverificatie en de inboekverificatieverklaring voldoen aan de eisen, gesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=8&z=2024-01-01&g=2025-01-01).
+3. De inboekverificatie en de inboekverificatieverklaring voldoen aan de eisen, gesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=8&z=2025-03-26&g=2025-03-26).
 
 #### § 4. Register hernieuwbare energie vervoer
 
@@ -350,19 +318,19 @@ Vervallen
 
 ##### Artikel 20
 
-1. Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg een overzicht van de administratieve organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2024-01-01&g=2025-01-01).
+1. Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg een overzicht van de administratieve organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2025-03-26&g=2025-03-26).
 
 2. Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg voorts de volgende gegevens:
 
 - a. indien de onderneming een geleverde hoeveelheid vloeibare biobrandstof wil inboeken:
 
-- 1°. de naam en het vestigingsadres van de beoogde locatie of locaties voor het leveren aan de Nederlandse markt;
+- 1°. de naam en het vestigingsadres van de beoogde opslaglocatie of opslaglocaties voor het leveren aan de Nederlandse markt;
 
-- 2°. per locatie de naam van het voor die locatie gehanteerde duurzaamheidssysteem of de voor die locatie gehanteerde duurzaamheidssystemen;
+- 2°. per opslaglocatie de naam van het voor die opslaglocatie gehanteerde duurzaamheidssysteem of de voor die opslaglocatie gehanteerde duurzaamheidssystemen;
 
-- 3°. bewijs dat de locatie, bedoeld onder 2, gecertificeerd is door het duurzaamheidssysteem of de duurzaamheidssystemen en dat die certificering geldig is; en
+- 3°. bewijs dat de opslaglocatie, bedoeld onder 2, gecertificeerd is door het duurzaamheidssysteem of de duurzaamheidssystemen en dat die certificering geldig is; en
 
-- 4°. het nummer waaronder de locatie van de accijnsgoederenplaats bij de Rijksbelastingdienst geregistreerd is.
+- 4°. het nummer waaronder de accijnsgoederenplaats bij de rijksbelastingdienst geregistreerd is.
 
 - b. indien de onderneming een geleverde hoeveelheid gasvormige biobrandstof wil inboeken:
 
@@ -374,15 +342,23 @@ Vervallen
 
 - c. indien de onderneming een geleverde hoeveelheid vloeibare hernieuwbare brandstof wil inboeken:
 
-- 1°. de naam en het vestigingsadres van de beoogde locatie of locaties voor het leveren aan de Nederlandse markt;
+- 1°. de naam en het vestigingsadres van de beoogde opslaglocatie of opslaglocaties voor het leveren aan de Nederlandse markt;
 
-- 2°. het nummer waaronder de locatie van de accijnsgoederenplaats bij de Rijksbelastingdienst geregistreerd is.
+- 2°. per opslaglocatie de naam van het voor die opslaglocatie gehanteerde vrijwillige systeem of de voor die opslaglocatie gehanteerde vrijwillige systemen;
+
+- 3°. bewijs dat de opslaglocatie, bedoeld onder sub 2, gecertificeerd is door het vrijwillige systeem of de vrijwillige systemen en dat die certificering geldig is; en
+
+- 4°. het nummer waaronder de accijnsgoederenplaats bij de rijksbelastingdienst geregistreerd is.
 
 - d. indien de onderneming een geleverde hoeveelheid gasvormige hernieuwbare brandstof wil inboeken:
 
-- 1°. de naam en het vestigingsadres van de beoogde locatie of locaties voor het leveren aan vervoer in Nederland;
+- 1°. de naam en het vestigingsadres van de locatie of locaties voor het leveren van waterstof aan vervoer in Nederland;
 
-- 2°. afschrift van de vergunning, bedoeld in [artikel 9a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9a).
+- 2°. afschrift van de vergunning, bedoeld in [artikel 9a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9a);
+
+- 3°. in geval van het leveren van een gasvormige hernieuwbare brandstof met een waterstofcontainer: de naam en het adres van de locatie waar de waterstof wordt geproduceerd en waar vanaf met een waterstofcontainer aan binnenschepen en zeeschepen wordt geleverd;
+
+- 4°. bewijs dat de locatie, bedoeld onder sub 3, gecertificeerd is door een vrijwillig systeem en dat die certificering geldig is.
 
 - e. indien de onderneming een geleverde hoeveelheid elektriciteit wil inboeken:
 
@@ -394,25 +370,27 @@ Vervallen
 
 - i. een machtiging om bij de netbeheerder informatie over de tenaamstelling en de eigenschappen van de elektriciteitsaansluiting of elektriciteitsaansluitingen in te winnen; en
 
-- ii. of gebruik gemaakt wordt van een secundair allocatiepunt als bedoeld in [artikel 10, eerste lid, onderdeel a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10).
+- ii. of gebruik gemaakt wordt van een secundair allocatiepunt als bedoeld in [artikel 10, eerste lid, onderdeel a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10);
+
+- 4°. bij leveringen met behulp van een accupakket of elektrolyt: de locatie waar het accupakket of de elektrolyt geladen wordt.
 
 ##### Artikel 21
 
 1. Het bestuur van de emissieautoriteit controleert of de gegevens en documenten die verstrekt zijn, volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
 
-2. Indien is voldaan aan de eisen voor het hebben van een rekening maakt de emissieautoriteit uiterlijk twintig werkdagen na ontvangst van de gegevens, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2024-01-01&g=2025-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2024-01-01&g=2025-01-01) in het register een rekening aan voor de aanvrager.
+2. Indien is voldaan aan de eisen voor het hebben van een rekening maakt de emissieautoriteit uiterlijk twintig werkdagen na ontvangst van de gegevens, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2025-03-26&g=2025-03-26) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2025-03-26&g=2025-03-26) in het register een rekening aan voor de aanvrager.
 
 3. Alvorens de rekening te gebruiken accepteert de rekeninghouder de gebruiksvoorwaarden.
 
 ##### Artikel 22
 
-1. De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2024-01-01&g=2025-01-01), en [artikel 20, tweede lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2024-01-01&g=2025-01-01), binnen twintig werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.
+1. De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2025-03-26&g=2025-03-26), en [artikel 20, tweede lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2025-03-26&g=2025-03-26), binnen twintig werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.
 
 2. De emissieautoriteit wijzigt de gegevens, nadat de juistheid van de melding, bedoeld in het eerste lid, is vastgesteld overeenkomstig die melding binnen twintig werkdagen na ontvangst van die melding.
 
-3. [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2024-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+3. [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2025-03-26&g=2025-03-26), is van overeenkomstige toepassing.
 
-4. De rekeninghouder beheert de gegevens, bedoeld in [artikel 20, tweede lid, onderdeel b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2024-01-01&g=2025-01-01), en zorgt dat ze volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
+4. De rekeninghouder beheert de gegevens, bedoeld in [artikel 20, tweede lid, onderdeel b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2025-03-26&g=2025-03-26), en zorgt dat ze volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
 
 ##### Artikel 23
 
@@ -498,7 +476,7 @@ Vervallen
 
 ##### Artikel 34
 
-De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=18&z=2024-01-01&g=2025-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2024-01-01&g=2025-01-01) en [21 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2024-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
+De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=18&z=2025-03-26&g=2025-03-26) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2025-03-26&g=2025-03-26) en [21 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2025-03-26&g=2025-03-26) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -746,11 +724,11 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 Vervallen
 
-## Bijlage 2. behorend bij [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-01-01&g=2025-01-01)
+## Bijlage 2. behorend bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2025-03-26&g=2025-03-26)
 
-De inboeker van een vloeibare hernieuwbare brandstof toont met behulp van een monstername en analyse de hoeveelheid methanol in de geleverde benzine aan die aan de milieutechnische specificatie van benzine volgens bijlage I van [richtlijn 98/70/EG](31998L0070) voldoet.
+De inboeker die een vloeibare hernieuwbare brandstof als een onderdeel van een mengsel met een fossiele brandstof van een andere samenstelling levert, toont met behulp van een monstername en analyse de hoeveelheid van de desbetreffende vloeibare hernieuwbare brandstof in de geleverde brandstof aan.
 
-## Bijlage 3. behorend bij [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2024-01-01&g=2025-01-01)
+## Bijlage 3. behorend bij [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2025-03-26&g=2025-03-26)
 
 Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
@@ -770,7 +748,7 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 - 2°. de hoeveelheid in liters bij 15 °C, dan wel in kilogram;
 
-- 3°. de locatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de locatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1), bij de Rijksbelastingdienst geregistreerd is en het adres, of de naam en adres van het belastingentrepot;
+- 3°. de opslaglocatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de opslaglocatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1), bij de rijksbelastingdienst geregistreerd is en het adres, of de naam en adres van het belastingentrepot;
 
 - 4°. of de vloeibare biobrandstof tot verbruik is uitgeslagen of onder schorsing van betaling van accijns aan een andere houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), is geleverd;
 
@@ -790,17 +768,17 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 - 12°. indien de vloeibare biobrandstof als dubbel tellend is aangemerkt: het nummer van de dubbeltellingverklaring;
 
-- 13°. of de ingeboekte biobrandstof onderdeel is van een brandstof met een hoger gehalte biobrandstof dan 50% als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2024-01-01&g=2025-01-01), deel A, onderdeel 2 of 4.
+- 13°. of de ingeboekte biobrandstof onderdeel is van een brandstof met een hoger gehalte biobrandstof dan 50% als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel A, onderdeel 2 of 4.
 
 - b. Bij de vergroening van een hoeveelheid LNG die is geleverd aan de Nederlandse markt:
 
 - 1°. de hoeveelheid in kilogram;
 
-- 2°. de locatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de locatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), bij de rijksbelastingdienst geregistreerd is en de naam en het adres van het belastingentrepot;
+- 2°. de opslaglocatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de opslaglocatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), bij de rijksbelastingdienst geregistreerd is en de naam en het adres van het belastingentrepot;
 
 - 3°. of de LNG tot verbruik is uitgeslagen of onder schorsing van betaling van accijns aan een andere houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a) is geleverd.
 
-- 4°. van de garantie van oorsprong, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6a&z=2024-01-01&g=2025-01-01):
+- 4°. van de garantie van oorsprong, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6a&z=2025-03-26&g=2025-03-26):
 
 - i. het nummer van de certificaatreeks;
 
@@ -830,7 +808,7 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 - –. bij leveringen met een directe lijn: de volgens het bemeterde leverpunt of de bemeterde leverpunten geleverde hoeveelheid biogas in kilogrammen, met inbegrip van de identificerende naam, het adres en het EAN van het bemeterde leverpunt;
 
-- b. van de garantie van oorsprong, bedoeld in [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2024-01-01&g=2025-01-01):
+- b. van de garantie van oorsprong, bedoeld in [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2025-03-26&g=2025-03-26):
 
 - 1°. het nummer van de certificaatreeks;
 
@@ -850,37 +828,33 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 - c. indien de gasvormige biobrandstof als dubbel tellend is aangemerkt: het nummer van de dubbeltellingverklaring.
 
-- 4. **Vloeibare hernieuwbare brandstof**
+- 4. **Vloeibare hernieuwbare brandstof** Bij de levering van een hoeveelheid vloeibare hernieuwbare brandstof:
 
-- a. de soort vergroende brandstof (methanol, kerosine of LNG);
+- 1°. de soort vloeibare hernieuwbare brandstof;
 
-- b. de hoeveelheid in liters bij 15 °C methanol in de hoeveelheid geleverde benzine, de hoeveelheid in liters bij 15 °C geleverde kerosine dan wel de hoeveelheid in kilogrammen geleverd LNG;
+- 2°. de hoeveelheid in liters bij 15°C of kilogrammen per soort hernieuwbare brandstof;
 
-- c. de locatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de locatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), bij de rijksbelastingdienst geregistreerd is en het adres of de naam en het adres van het belastingentrepot;
+- 3°. de opslaglocatie waar vanaf geleverd is, met inbegrip van identificerende naam, het nummer waaronder de locatie van de accijnsgoederenplaats, bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), bij de rijksbelastingdienst geregistreerd is en het adres, of de naam en het adres van het belastingentrepot;
 
-- d. bij een geleverde methanol of LNG: of de vloeibare biobrandstof tot verbruik is uitgeslagen of onder schorsing van betaling van accijns aan een andere houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a) is geleverd;
+- 4°. of de vloeibare hernieuwbare brandstof tot verbruik is uitgeslagen of onder schorsing van betaling van accijns aan een andere houder van een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 1a, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), is geleverd;
 
-- e. van de garantie van oorsprong, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-01-01&g=2025-01-01):
+- 5°. het vrijwillige systeem waaronder de levering plaatsvindt;
 
-- 1°. het nummer van de certificaatreeks;
+- 6°. het nummer van het bewijs van hernieuwbaarheid;
 
-- 2°. de aanmaakdatum van de certificaatreeks;
+- 7°. de broeikasgasemissie per grondstof in g CO2eq/MJ, berekend overeenkomstig de gedelegeerde [verordening (EU) 2023/1185](32023R1185).
 
-- 3°. de broeikasgasemissie in g CO2eq/MJ, berekend overeenkomstig artikel 31, eerste lid, van de richtlijn hernieuwbare energie;
+- 5. **Gasvormige hernieuwbare brandstof** Bij de levering van een hoeveelheid gasvormige hernieuwbare brandstof:
 
-- f. het nummer van de verificatieverklaring hernieuwbare brandstof.
+- 1°. de geleverde hoeveelheid waterstof in kilogrammen;
 
-- 5. **Gasvormige hernieuwbare brandstof**
+- 2°. de identificerende naam en het adres van de locatie waar de gasvormige hernieuwbare brandstof wordt geleverd, dan wel het adres van de locatie, het Europees scheepsnummer (ENI) en de naam van het vaartuig;
 
-- a. de per bemeterde leverpunt of de bemeterde leverpunten geleverde hoeveelheid waterstof in kilogrammen, met inbegrip van de identificerende naam en het adres van tankstation;
+- 3°. het vrijwillige systeem waaronder de levering plaatsvindt;
 
-- b. van de garantie van oorsprong, bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8a&z=2024-01-01&g=2025-01-01):
+- 4°. het nummer van het bewijs van hernieuwbaarheid;
 
-- 1°. het nummer van de certificaatreeks;
-
-- 2°. de aanmaakdatum van de certificaatreeks;
-
-- 3°. broeikasgasemissie in g CO2eq/MJ, berekend overeenkomstig artikel 31, eerste lid, van de richtlijn hernieuwbare energie.
+- 5°. de broeikasgasemissie per grondstof in g CO2eq/MJ, berekend overeenkomstig artikel 31, eerste lid, van de richtlijn hernieuwbare energie.
 
 - 6. **Elektriciteit**
 
@@ -892,7 +866,9 @@ Bij inboeking van hernieuwbare energie te vermelden gegevens:
 
 - –. bij leveringen met een directe lijn: de volgens het bemeterde leverpunt of de bemeterde leverpunten geleverde hoeveelheid elektriciteit in kilowattuur, met inbegrip van de identificerende naam en het adres van de directe lijn en het EAN van het bemeterde leverpunt;
 
-- b. bij levering met behulp van een directe lijn: van de garantie van oorsprong, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2025-01-01):
+- –. bij leveringen met behulp van een accupakket of elektrolyt: de geleverde hoeveelheid elektriciteit in kilowattuur, met inbegrip van het Europees scheepsnummer (ENI) en de naam van het beleverde binnenvaartschip;
+
+- b. bij levering met behulp van een directe lijn: van de garantie van oorsprong, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2025-03-26&g=2025-03-26):
 
 - 1°. het nummer van de certificaatreeks;
 
@@ -973,7 +949,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-1. In afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2024-01-01&g=2025-01-01), is de hoeveelheid ingeboekte vloeibare biobrandstof de geleverde hoeveelheid LNG in kilogrammen die door garanties van oorsprong voor gas uit hernieuwbare energiebronnen boekhoudkundig wordt vergroend, voor zover de inboeker kan aantonen dat in Nederland ter grootte van de inboeking een hoeveelheid LNG uit aardgas is vervaardigd dat aan het gastransportnet in Nederland is onttrokken. [Artikel 7, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2024-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+1. In afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2025-03-26&g=2025-03-26), is de hoeveelheid ingeboekte vloeibare biobrandstof de geleverde hoeveelheid LNG in kilogrammen die door garanties van oorsprong voor gas uit hernieuwbare energiebronnen boekhoudkundig wordt vergroend, voor zover de inboeker kan aantonen dat in Nederland ter grootte van de inboeking een hoeveelheid LNG uit aardgas is vervaardigd dat aan het gastransportnet in Nederland is onttrokken. [Artikel 7, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2025-03-26&g=2025-03-26), is van overeenkomstige toepassing.
 
 2. De geleverde hoeveelheid LNG, bedoeld in het eerste lid, heeft ten minste de omvang van de hoeveelheid die op de garanties van oorsprong voor gas uit hernieuwbare energiebronnen is vermeld.
 
@@ -985,25 +961,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. wordt de omvang van de dubbeltellingverklaring met hetzelfde getal vermenigvuldigd, als de garantie van oorsprong in het derde lid.
 
-5. Ten aanzien van de bestemmingen en de levering aan de Nederlandse markt van LNG, is [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2024-01-01&g=2025-01-01), deel A, onderdelen 1 en 2, van deze regeling van overeenkomstige toepassing.
+5. Ten aanzien van de bestemmingen en de levering aan de Nederlandse markt van LNG, is [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel A, onderdelen 1 en 2, van deze regeling van overeenkomstige toepassing.
 
-6. Een geleverde hoeveelheid LNG als bedoeld in het eerste lid mag niet ook als een vloeibare hernieuwbare brandstof ingeboekt worden, als bedoeld in [artikel 8, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-01-01&g=2025-01-01).
+6. Een geleverde hoeveelheid LNG als bedoeld in het eerste lid mag niet ook als een vloeibare hernieuwbare brandstof ingeboekt worden, als bedoeld in [artikel 8, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2025-03-26&g=2025-03-26).
 
 ##### Artikel 8a
 
-1. De hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt is de hoeveelheid geleverde hoeveelheid waterstof in kilogrammen die door garanties van oorsprong voor ander gas uit hernieuwbare bronnen boekhoudkundig vergroend wordt.
+1. De hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt door een onderneming, bedoeld in [artikel 9a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9a), is de hoeveelheid waterstof in kilogrammen die blijkt uit de meter van het bemeterde leverpunt.
 
-2. De geleverde hoeveelheid waterstof in kilogrammen, bedoeld in het eerste lid, blijkt uit de meter van het bemeterde leverpunt en heeft ten minste de omvang van de hoeveelheid waterstof die op de garanties van oorsprong vermeld is.
+2. De hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt door de onderneming, bedoeld in [artikel 9a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9a), is de hoeveelheid waterstof in kilogrammen die aantoonbaar aan een binnenschip of zeeschip is geleverd, zoals blijkt uit de bedrijfsadministratie van de inboeker.
 
-3. De garanties van oorsprong, bedoeld in het eerste lid:
+3. Voor een hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt toont de inboeker, bedoeld in het eerste lid, de hernieuwbaarheid van de geleverde waterstof aan met behulp van het bewijs van hernieuwbaarheid dat hij van zijn toeleverancier van waterstof heeft ontvangen.
 
-- a. zijn voorafgaand aan het inboeken van de hoeveelheid gasvormige hernieuwbare brandstof, bedoeld in het eerste lid, op de rekening van de emissieautoriteit, bedoeld in [artikel 23, tweede lid, van de Regeling garanties van oorsprong en certificaten van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&artikel=23) geboekt;
-
-- b. hebben een einddatum van geldigheid die ligt binnen of na de einddatum van de bij de inboeking opgegeven periode van de levering van de waterstof;
-
-- c. hebben betrekking op in Nederland geproduceerde hernieuwbare brandstof uit in Nederland geproduceerde elektriciteit uit hernieuwbare bronnen.
-
-4. Voor de bepaling van de omvang in kilogrammen van de garanties van oorsprong, bedoeld in het derde lid, wordt de inhoud in MWh uitgedrukt in MJ en gedeeld door de bovenste verbrandingswaarde van 141,7 MJ/kg.
+4. Voor een hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt stelt de inboeker, bedoeld in het tweede lid, op basis van de massabalans van hernieuwbare brandstoffen voor waterstof een bewijs van hernieuwbaarheid op ten behoeve van het bestuur van de emissieautoriteit.
 
 #### § 4. Register hernieuwbare energie
 
@@ -1011,19 +981,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 25a
 
-1. De producent van biobrandstoffen voert een massabalans op zijn productielocatie over de ontvangen hoeveelheden duurzame grondstoffen voor de vervaardiging van biobrandstof en vervaardigde hoeveelheid biobrandstof. [Artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=6&artikel=25b&z=2024-01-01&g=2025-01-01) is van overeenkomstige toepassing.
+1. De producent van biobrandstoffen voert een massabalans op zijn productielocatie over de ontvangen hoeveelheden duurzame grondstoffen voor de vervaardiging van biobrandstof en vervaardigde hoeveelheid biobrandstof. [Artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=6&artikel=25b&z=2025-03-26&g=2025-03-26) is van overeenkomstige toepassing.
 
 2. De producent van biobrandstoffen beschikt over een administratieve organisatie met maatregelen van interne beheersing en controle die in opzet en werking waarborgen dat hij juist verantwoording aflegt over:
 
-- a. de aard en hoeveelheid ontvangen duurzame grondstoffen voor de vervaardiging van biobrandstof;
+- a. de aard en hoeveelheid ontvangen duurzame grondstoffen voor de vervaardiging van duurzame biobrandstof;
 
 - b. de juiste verhouding tussen de aard en hoeveelheid gebruikte duurzame grondstof en de soort en hoeveelheid vervaardigde duurzame biobrandstof; en
 
 - c. de hoeveelheid per afnemer geleverde duurzame biobrandstof.
 
+3. De producent van hernieuwbare brandstoffen voert een massabalans van hernieuwbare brandstoffen op zijn locatie per soort hernieuwbare brandstof.
+
+4. De producent van hernieuwbare brandstoffen beschikt over een administratieve organisatie met maatregelen van interne beheersing en controle die in opzet en werking waarborgen dat hij een juiste verantwoording aflegt over:
+
+- a. de hoeveelheid gebruikte energie uit hernieuwbare bronnen voor de vervaardiging van de hernieuwbare brandstof;
+
+- b. de juiste verhouding tussen de hoeveelheid gebruikte energie uit hernieuwbare bronnen en de soort en hoeveelheid vervaardigde hernieuwbare brandstof; en
+
+- c. de hoeveelheid per afnemer geleverde hernieuwbare brandstof.
+
 ##### Artikel 25b
 
-1. Een onderneming die is gecertificeerd volgens een duurzaamheidssysteem voert een massabalans. Een onderneming die over een locatie beschikt, voert een massabalans over elke locatie waar zich fysieke hoeveelheden grondstoffen voor biobrandstoffen en biobrandstoffen bevinden.
+1. Een onderneming die is gecertificeerd volgens een duurzaamheidssysteem voert een massabalans. Een onderneming die over een opslaglocatie beschikt, voert een massabalans over elke opslaglocatie waar zich fysieke hoeveelheden grondstoffen voor biobrandstoffen en biobrandstoffen bevinden.
 
 2. De massabalans is een volledig onderdeel van de bedrijfsadministratie van de onderneming.
 
@@ -1049,15 +1029,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-## Bijlage 1. behorend bij [artikel 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2024-01-01&g=2025-01-01), [6a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6a&z=2024-01-01&g=2025-01-01), en [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-01-01&g=2025-01-01)
+## Bijlage 1. behorend bij [artikel 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2025-03-26&g=2025-03-26), [6a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6a&z=2025-03-26&g=2025-03-26), en [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2025-03-26&g=2025-03-26)
 
 ### Landbestemmingen en accijnsbelaste waterbestemmingen
 
-## Bijlage 4. behorend bij [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=13&z=2024-01-01&g=2025-01-01)
+## Bijlage 4. behorend bij [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=13&z=2025-03-26&g=2025-03-26)
 
 Vervallen
 
-## Bijlage 5. behorend bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=14&z=2024-01-01&g=2025-01-01)
+## Bijlage 5. behorend bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=14&z=2025-03-26&g=2025-03-26)
 
 De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6) (biomassafractie van industrieel afval) zijn:
 
@@ -1075,7 +1055,7 @@ De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, va
 | Laagwaardige zetmeelslurry (starch slurry (low grade)) | Een mengsel van water en zetmeel uit het proces van natte tarwevermaling. Het droge stof gehalte van de stroom bedraagt maximaal 20% en het aandeel aan vaste bestanddelen, gemeten over een filter met een gestandaardiseerde perforatie van 5 micron, bedraagt maximaal 10 %. Bepaling van het droge stof gehalte dient plaats te vinden op het punt van scheiding van een fabrieksproduct. |
 | Residu van FAME einddestillatie (Residue of FAME end distillation) | Bij de productie van FAME kan het noodzakelijk zijn om veresterd product te destilleren om te voldoen aan de EN14214 specificatie. Deze grondstof is het residu van die benodigde einddestillatie bij de productie van FAME uit grondstoffen, bedoeld in bijlage IX, deel B, van de richtlijn hernieuwbare energie. Het materiaal moet ondoorzichtig zijn, met een dichtheid van ten minste 905 kg/m3 (bij 15 °C) en een viscositeit (bij 40 °C) van meer dan 10 mm2/s. Het volume mag niet meer bedragen dan de gemiddelde productie van de productielocatie in de laatste drie kalenderjaren. |
 | Suikerbietresiduen (sugar beet residues) | Toppen, punten en proceswater uit de verwerking van suikerbieten. De kroon van de suikerbiet valt hier niet onder. |
-| Velasse (velasse) | Waterachtige stroom die vrijkomt bij het verwerken van soja. De stroom bevat maximaal 12% suiker. |
+| Velasse (velasse) | Waterachtige stroom die vrijkomt bij het verwerken van soja. De stroom bevat maximaal 20% suiker. |
 | Voedingsmiddelen ongeschikt voor menselijke of dierlijke consumptie (food and feed products unfit for human and animal consumption, i.e. food waste and feed waste) | Dit betreft voedsel- en voederafval, zoals over datum producten, of producten die uit gezondheids- of veiligheidsoverwegingen uit de markt worden gehaald. Hiervan moet zijn vastgesteld dat zij ongeschikt zijn voor menselijke of dierlijke consumptie. |
 | Waswater van schepen (Wastewater from ship transport) | Waswater dat ontstaat tijdens het schoonmaken van scheepstanks na het transporteren en uitladen van olie van biogene origine, zoals plantaardige olie. |
 
@@ -1099,45 +1079,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Deel B. Aantonen tastbare hoeveelheid biobrandstof in een geleverde brandstof
 
-## Bijlage 6. behorend bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=15&z=2024-01-01&g=2025-01-01)
+## Bijlage 6. behorend bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=15&z=2025-03-26&g=2025-03-26)
 
-De verificatieverklaring hernieuwbare brandstof wordt afgegeven aan de producent van de hernieuwbare brandstof en voldoet aan de volgende eisen:
+Vervallen
 
-- 1. Met betrekking tot de totstandkoming van de verificatieverklaring hernieuwbare brandstof is de verificateur hernieuwbare brandstof bekend met de administratieve processen, alsmede de productie-installatie en de geproduceerde hoeveelheden uit waterstof geproduceerde methanol, kerosine of LNG. Gelet op dit oogmerk:
-
-- a. bezoekt de verificateur hernieuwbare brandstof de productielocatie ten minste eenmaal tijdens het initieel onderzoek;
-
-- b. bezoekt de verificateur hernieuwbare brandstof de productielocatie ten minste eenmaal per jaar in ieder jaar waarin verklaringen worden uitgegeven;
-
-- c. controleert de verificateur hernieuwbare brandstof de totaal in een tijdsperiode gebruikte hoeveelheid waterstof;
-
-- d. controleert de verificateur hernieuwbare brandstof de totaal in een tijdsperiode in Nederland uit waterstof geproduceerde hoeveelheid methanol, kerosine of LNG;
-
-- e. controleert de verificateur hernieuwbare brandstof de verhouding van de in die tijdsperiode gebruikte hoeveelheid waterstof en geproduceerde hoeveelheid methanol, kerosine of LNG;
-
-- f. controleert de verificateur hernieuwbare brandstof of de hoeveelheid uit waterstof geproduceerde methanol, kerosine of LNG niet ook door een andere verificateur hernieuwbare brandstof is geverifieerd;
-
-- g. beoordeelt de verificateur hernieuwbare brandstof de administratieve organisatie, alsmede de interne beheersing- en controleprocedures van de producent;
-
-- h. voert de verificateur hernieuwbare brandstof locatiegesprekken met medewerkers die bij de productie betrokken zijn.
-
-- 2. De verificatieverklaring hernieuwbare brandstof vermeldt:
-
-- a. dat de methanol, kerosine of LNG uit waterstof in Nederland is geproduceerd;
-
-- b. de hoeveelheid uit waterstof geproduceerde methanol, kerosine of LNG die aan de desbetreffende afnemer in een vastgesteld tijdsperiode is geleverd.
-
-- 3. Met betrekking tot de uit waterstof geproduceerde methanol, kerosine of LNG:
-
-- a. geeft de verificateur hernieuwbare brandstof voor de uit waterstof geproduceerde hoeveelheid methanol, kerosine of LNG per afnemer van de producent een verificatieverklaring hernieuwbare brandstof met een unieke code af, waarbij de som van de hoeveelheden waarop deze verklaringen betrekking hebben, niet meer bedraagt dan de oorspronkelijke geproduceerde hoeveelheid volgens de bedrijfsadministratie van de producent;
-
-- b. kan de verificateur hernieuwbare brandstof een hoeveelheid methanol, kerosine of LNG, waarvoor reeds een verificatieverklaring hernieuwbare brandstof afgegeven is, splitsen in een of meer kleinere hoeveelheden, voor het gedeelte van de oorspronkelijke verklaring dat nog niet door een inboeker is gebruikt;
-
-- c. kan de verificateur hernieuwbare brandstof verklaringen hernieuwbare brandstof samenvoegen tot een nieuwe verklaring;
-
-- d. kunnen de verklaringen hernieuwbare brandstof die de verificateur hernieuwbare brandstof voor de gesplitste of samengestelde hoeveelheden opstelt, opgeteld geen grotere hoeveelheid betreffen dan die in de oorspronkelijke verklaring werd verantwoord, rekening houdend met een eventueel gebruik van de oorspronkelijke verklaring;
-
-## Bijlage 7. behorend bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=16&z=2024-01-01&g=2025-01-01)
+## Bijlage 7. behorend bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=16&z=2025-03-26&g=2025-03-26)
 
 De dubbeltellingverklaring wordt afgegeven aan de producent van de biobrandstof en voldoet aan de volgende eisen:
 
@@ -1169,7 +1115,7 @@ De dubbeltellingverklaring wordt afgegeven aan de producent van de biobrandstof 
 
 - a. vermeldt de dubbeltellingverklaring:
 
-- 1°. de aard en hoeveelheid uit dubbel tellende grondstof geproduceerde biobrandstof, waaronder tevens worden verstaan de onderste verbrandingswaarde en energie-inhoud van de biobrandstof overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=1&artikel=2&z=2024-01-01&g=2025-01-01) van deze regeling;
+- 1°. de aard en hoeveelheid uit dubbel tellende grondstof geproduceerde biobrandstof, waaronder tevens worden verstaan de onderste verbrandingswaarde en energie-inhoud van de biobrandstof overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=1&artikel=2&z=2025-03-26&g=2025-03-26) van deze regeling;
 
 - 2°. het land van of de landen van herkomst van de dubbel tellende grondstof;
 
@@ -1189,9 +1135,9 @@ De dubbeltellingverklaring wordt afgegeven aan de producent van de biobrandstof 
 
 - e. kunnen de dubbeltellingverklaringen die de dubbeltellingverificateur voor de gesplitste of de samengevoegde hoeveelheden opstelt, opgeteld geen grotere hoeveelheid betreffen dan die in de oorspronkelijke verklaring werd verantwoord, rekening houdend met een eventueel gebruik van de oorspronkelijke verklaring;
 
-- f. vermeldt de dubbeltellingverificateur bij een dubbel tellend biogas het nummer van de certificaatreeks van de garantie van oorsprong, die voor de productie door Vertogas afgegeven is.
+- f. vermeldt de dubbeltellingverificateur bij een dubbel tellend biogas het nummer van de certificaatreeks van de garantie van oorsprong, die voor de productie door VertiCer afgegeven is.
 
-## Bijlage 8. behorend bij [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=17&z=2024-01-01&g=2025-01-01)
+## Bijlage 8. behorend bij [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=17&z=2025-03-26&g=2025-03-26)
 
 ### C. – verificatie van een hoeveelheid ingeboekte (aan de Nederlandse markt voor vervoer geleverde) vloeibare hernieuwbare brandstof
 
@@ -1199,7 +1145,7 @@ De dubbeltellingverklaring wordt afgegeven aan de producent van de biobrandstof 
 
 ### E. – verificatie van een hoeveelheid ingeboekte (aan wegvoertuigen, luchtvaartuigen en binnenschepen in Nederland geleverde) elektriciteit
 
-## Bijlage 9. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=2&paragraaf=3&artikel=30&z=2024-01-01&g=2025-01-01)
+## Bijlage 9. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=2&paragraaf=3&artikel=30&z=2025-03-26&g=2025-03-26)
 
 Vervallen
 
