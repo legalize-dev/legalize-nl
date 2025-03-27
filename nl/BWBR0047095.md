@@ -4,7 +4,7 @@ identifier: "BWBR0047095"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2024-11-28"
+last_updated: "2025-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047095"
 soort: "zbo"
@@ -68,23 +68,25 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 - i. [Artikel 2 lid 6 van de Uitvoeringswet datagovernanceverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050415&artikel=2);
 
-- j. [Artikel 8, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
+- j. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.1) en [2.2 van de Uitvoeringswet digitaledienstenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.2);
 
-- k. [Artikel 15 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
+- k. [Artikel 8, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
 
-- l. [Artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
+- l. [Artikel 15 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
 
-- m. [Artikel 8, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
+- m. [Artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
 
-- n. [Artikel 11.14a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
+- n. [Artikel 8, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
 
-- o. [Artikel 7, tweede lid, van de Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
+- o. [Artikel 11.14a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
 
-- p. [Artikel 87, vijfde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
+- p. [Artikel 7, tweede lid, van de Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
 
-- q. [Artikel 3 van de Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0050295&artikel=3);
+- q. [Artikel 87, vijfde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
 
-- r. [Artikel 19 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
+- r. [Artikel 3 van de Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0050295&artikel=3);
+
+- s. [Artikel 19 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
 
 alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
