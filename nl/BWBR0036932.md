@@ -4,7 +4,7 @@ identifier: "BWBR0036932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-28"
-last_updated: "2024-01-01"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036932"
 soort: "ministeriele-regeling"
@@ -86,11 +86,11 @@ WBJA bestaat uit:
 
 - b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
 
-- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van de [artikelen 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3a&z=2022-10-13&g=2024-01-01), en [4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2024-01-01), de hoofden van de afdelingen WAS en ABWA verantwoordelijk zijn;
+- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van de [artikelen 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3a&z=2025-03-28&g=2025-03-28), en [4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2025-03-28&g=2025-03-28), de hoofden van de afdelingen WAS en ABWA verantwoordelijk zijn;
 
 - d. het adviseren over het gebruik van het instrument regelgeving;
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
 
 2. Het hoofd van de afdeling Wetgeving is voorts belast met taken op het gebied van het wetgevingskwaliteitsbeleid.
 
@@ -120,7 +120,7 @@ WBJA bestaat uit:
 
 - 7°. integratie.
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
 
 2. Het hoofd van de afdeling ABWA is verantwoordelijk voor de volgende taken ten aanzien van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie en arbeidsbemiddeling door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054) en aanverwante wetten:
 
@@ -172,9 +172,9 @@ WBJA bestaat uit:
 
 - d. het bijdragen aan de totstandkoming van internationale verdragen en regelingen;
 
-- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2022-10-13&g=2024-01-01), en na overleg met het hoofd van de afdeling Wetgeving, het hoofd van de afdeling ABWA, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
+- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2025-03-28&g=2025-03-28), en na overleg met het hoofd van de afdeling Wetgeving, het hoofd van de afdeling ABWA, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
 
-- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2024-01-01), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2022-10-13&g=2024-01-01), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
+- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2025-03-28&g=2025-03-28), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2025-03-28&g=2025-03-28), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
 
 3. Bij afwezigheid van het hoofd van de afdeling JA-BBS is het hoofd van de afdeling JA-SVIA verantwoordelijk voor het onderhouden van de contacten met de Landsadvocaat.
 
@@ -230,11 +230,21 @@ Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de direc
 
 1. Aan het hoofd BO, alsmede aan de teamleider BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake procedures van bezwaar en (hoger)beroep alsmede daarmee verwante procedures, waaronder niet begrepen het machtigen van personen om een bewindspersoon in gerechtelijke procedures en in procedures bij de Nationale ombudsman te vertegenwoordigen.
 
-2. Aan het hoofd BO, alsmede aan de teamleider BO wordt mandaat en machtiging verleend met betrekking tot de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de Wet open overheid, de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de Wet open overheid, de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de Wet open overheid ex [artikel 4.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.4) wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de Wet open overheid aan derden.
+2. Aan het hoofd BO en de teamleider BO wordt machtiging verleend met betrekking tot de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) waaronder:
+
+- a. de ondertekening van ontvangstbevestigingen van verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+
+- b. de ondertekening van brieven of e-mailberichten waarbij aan derden wordt verzocht te reageren op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) (uitgaande zienswijzeverzoeken);
+
+- c. de ondertekening van brieven of e-mailberichten waarbij wordt gereageerd op verzoeken van derden aan het ministerie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) (inkomende zienswijzeverzoeken);
+
+- d. de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) ex [artikel 4.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.4) wordt verlengd; en
+
+- e. de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) aan derden.
 
 3. Het hoofd BO is gevolmachtigd tot:
 
-- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Bedrijfsvoering afgesloten raamovereenkomst alsmede het afsluiten van koop-, huur- en lease-overeenkomsten met een waarde van ten hoogste € 20.000,– per overeenkomst;
+- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Organisatie, Bedrijfsvoering en Personeel afgesloten raamovereenkomst alsmede het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst;
 
 - b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;
 
@@ -302,7 +312,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - e. het adviseren over het gebruik van het instrument regelgeving;
 
-- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
+- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
 
 2. Het hoofd van de afdeling WAS is voorts belast met taken op het gebied van wetgevingskwaliteitsbeleid.
 
