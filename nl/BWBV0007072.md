@@ -4,7 +4,7 @@ identifier: "BWBV0007072"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-31"
-last_updated: "2024-07-26"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007072"
 soort: "verdrag"
@@ -112,7 +112,7 @@ De taken en doelstellingen van het instituut zijn:
 
 - a. een vertegenwoordiger van de regering of zijn/haar benoemde vertegenwoordiger;
 
-- b. vertegenwoordigers van de lidstaat/lidstaten en/of de geassocieerde lidstaat/lidstaten die het instituut in overeenstemming met de bepalingen van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=10&z=2024-07-26&g=2024-07-26), een kennisgeving van lidmaatschap hebben toegezonden en blijk hebben gegeven van de wens te worden vertegenwoordigd in de Raad van Bestuur;
+- b. vertegenwoordigers van de lidstaat/lidstaten en/of de geassocieerde lidstaat/lidstaten die het instituut in overeenstemming met de bepalingen van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=10&z=2025-03-31&g=2025-03-31), een kennisgeving van lidmaatschap hebben toegezonden en blijk hebben gegeven van de wens te worden vertegenwoordigd in de Raad van Bestuur;
 
 - c. een vertegenwoordiger van de Directeur-Generaal van UNESCO.
 
@@ -176,7 +176,7 @@ Aangezien het instituut juridisch los staat van UNESCO, is laatstgenoemde niet a
 
 3. UNESCO verplicht zich de regering en het instituut zo spoedig mogelijk een verslag van elke uitgevoerde evaluatie te doen toekomen en beschikbaar te stellen op de website van de betreffende programmasector.
 
-4. Naar aanleiding van de uitkomsten van een evaluatie heeft elk van de partijen de keus te verzoeken om een herziening van de inhoud van dit Verdrag of het Verdrag te beëindigen, zoals voorzien in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=17&z=2024-07-26&g=2024-07-26) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=18&z=2024-07-26&g=2024-07-26).
+4. Naar aanleiding van de uitkomsten van een evaluatie heeft elk van de partijen de keus te verzoeken om een herziening van de inhoud van dit Verdrag of het Verdrag te beëindigen, zoals voorzien in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=17&z=2025-03-31&g=2025-03-31) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=18&z=2025-03-31&g=2025-03-31).
 
 ##### Artikel 13. Gebruik van naam en logo van UNESCO
 
@@ -208,7 +208,7 @@ Dit Verdrag wordt gesloten voor een tijdvak van acht (8) jaar, te rekenen vanaf 
 
 ##### Artikel 18. Wijziging
 
-Dit Verdrag kan door middel van schriftelijke overeenstemming tussen de partijen worden gewijzigd. Een dergelijke wijziging treedt in werking in overeenstemming met de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=15&z=2024-07-26&g=2024-07-26) van dit Verdrag.
+Dit Verdrag kan door middel van schriftelijke overeenstemming tussen de partijen worden gewijzigd. Een dergelijke wijziging treedt in werking in overeenstemming met de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007072&artikel=15&z=2025-03-31&g=2025-03-31) van dit Verdrag.
 
 ##### Artikel 19. Beslechting van geschillen
 
