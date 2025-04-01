@@ -4,7 +4,7 @@ identifier: "BWBR0007332"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2002-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007332"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaar, bedoeld in [artikel 1, onder c, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), die zich ten behoeve van visserijcontroles op volle zee met medewerkers van de Algemene Inspectiedienst van het ministerie van Landbouw, Natuurbeheer en Visserij op een schip van de Koninklijke Marine bevindt, heeft aanspraak op een toelage.
+1. De ambtenaar, aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), die zich ten behoeve van visserijcontroles op volle zee met medewerkers van de Algemene Inspectiedienst van het ministerie van Landbouw, Natuurbeheer en Visserij op een schip van de Koninklijke Marine bevindt, heeft aanspraak op een toelage.
 
 2. De toelage bedraagt € 32,22 per etmaal, mits de ambtenaar, bedoeld in het eerste lid, zich minimaal drie dagen achtereen op het schip bevindt en bij de vaststelling van zijn diensttijden het in [artikel 12, zesde lid, onder c, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12) genoemde maximum aantal uren is vermeld.
 
