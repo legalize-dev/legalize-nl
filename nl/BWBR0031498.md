@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2022-04-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 
 - b. de werkgever van de vreemdeling, bedoeld in [artikel 2.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.5), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
 
-- c. de werkgever van de vreemdeling, bedoeld in [artikel 2.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.6), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht;
+- c. de werkgever van de vreemdeling, bedoeld in [artikel 2.6, eerste lid, onderdeel b, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.6), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht;
 
 - d. de werkgever van de vreemdeling, bedoeld in [artikel 6.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=6.5), die meldt:
 
@@ -82,7 +82,7 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 
 1. Deze regeling treedt in werking met ingang van 1 mei 2012.
 
-2. [Artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031498&artikel=3&z=2022-04-01&g=2022-04-01), met vervanging van de puntkomma aan het slot van onderdeel c door een punt, en het vierde en vijfde lid, vervallen met ingang van de datum waarop [artikel 6.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=6.5) vervalt.
+2. [Artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031498&artikel=3&z=2025-04-01&g=2025-04-01), met vervanging van de puntkomma aan het slot van onderdeel c door een punt, en het vierde en vijfde lid, vervallen met ingang van de datum waarop [artikel 6.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=6.5) vervalt.
 
 ##### Artikel 5. Citeertitel
 
