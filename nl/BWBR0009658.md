@@ -4,7 +4,7 @@ identifier: "BWBR0009658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-12-08"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009658"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **het bevoegd gezag:** het bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. **het bevoegd gezag:** het bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **ambtenaar:** de ambtenaar als bedoeld in [artikel 1, eerste lid, onder i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- b. **ambtenaar:** de ambtenaar als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2
 
@@ -75,7 +75,7 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 Deze regeling berust op [artikel 62, eerste lid, onder b, en derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62).
 
-## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2023-12-08&g=2023-12-08), van de Regeling detachering politie
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2025-04-01&g=2025-04-01), van de Regeling detachering politie
 
 ### Model detacheringsovereenkomst politie
 
