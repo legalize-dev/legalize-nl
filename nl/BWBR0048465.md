@@ -4,7 +4,7 @@ identifier: "BWBR0048465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-16"
-last_updated: "2024-05-18"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048465"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **brutoloon:** brutosalaris, inclusief vakantiegeld, een beloning in de vorm van een dertiende maand en eindejaarsuitkering, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst.
+- **brutoloon:** brutosalaris, inclusief vakantiegeld, een beloning in de vorm van een dertiende maand en eindejaarsuitkering, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst;
 
 - **CAO:** een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **financieringsplan:** een beschrijving van de benodigde en beschikbare financiële capaciteit voor de uitvoering van de voorgenomen activiteiten, waaronder in ieder geval een liquiditeitsplan waaruit blijkt op welke wijze de projectkosten gefinancierd worden;
 
-- **FX JRS:** Frontex Joint Reintegration Services;
+- **FX EURP:** Frontex EU Reintegration Programma;
 
 - **gemeenschapsonderdaan:** onderdaan van de lidstaten van de Europese Unie, of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, of van de Zwitserse Bondsstaat, alsmede hun familieleden als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1);
 
@@ -76,7 +76,9 @@ In deze regeling wordt verstaan onder:
 
 - **samenwerkingsverband:** samenwerking tussen twee of meer in Nederland gevestigde, niet-gouvernementele organisaties met rechtspersoonlijkheid naar Nederlands recht;
 
-- **specifieke kosten:** kosten voor goederen, diensten en financiële bijdragen die rechtstreeks aan de deelnemer ten goede komen om perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek.
+- **specifieke kosten:** kosten voor goederen, diensten en financiële bijdragen die rechtstreeks aan de deelnemer ten goede komen om perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek;
+
+- **terugkeerondersteuning:** ondersteuning in de vorm van geld of in natura die rechtstreeks ten goede komt aan de terugkeerder;
 
 - **vreemdeling:** eenieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld.
 
@@ -108,9 +110,9 @@ De minister kan een subsidie verstrekken voor projecten zonder winstoogmerk op h
 
 - e. van wie het vertrek uit Nederland een doorkruising betekent van een strafrechtelijk vervolgingstraject waar zij bij betrokken zijn;
 
-- f. die in de afgelopen vijf jaar met assistentie van de Internationale Organisatie voor Migratie of de Frontex JRS uit Europa zijn vertrokken, of op kosten van de Nederlandse overheid dan wel de Europese Unie zelfstandig zijn vertrokken of zijn uitgezet naar een land buiten de Europese Unie;
+- f. die in de afgelopen vijf jaar met assistentie van de Internationale Organisatie voor Migratie of de Frontex EURP uit Europa zijn vertrokken, of op kosten van de Nederlandse overheid dan wel de Europese Unie zelfstandig zijn vertrokken of zijn uitgezet naar een land buiten de Europese Unie;
 
-- g. waarbij het vertrek met ondersteuning van een terugkeerproject maatregelen ter uitvoering van de uitzetting doorkruist;
+- g. waarbij het vertrek met ondersteuning van een terugkeerproject maatregelen ter uitvoering van de uitzetting of overdracht naar een andere EU-lidstaat in het kader van de Dublinverordening III doorkruist;
 
 - h. die terugkeerondersteuning in contanten of in natura uit een andere bron ontvangen;
 
@@ -128,9 +130,11 @@ Doelgroep B zijn gemeenschapsonderdanen die de intentie hadden om zich voor lang
 
 - a. vreemdelingen te bewegen tot zelfstandig vertrek uit Nederland;
 
-- b. vreemdelingen voor te bereiden op zelfstandig vertrek uit Nederland;
+- c. activiteiten die een duurzame herintegratie bevorderen;
 
-- c. vreemdelingen perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek.
+- c. vreemdelingen voor te bereiden op zelfstandig vertrek uit Nederland;
+
+- d. vreemdelingen perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek.
 
 2. De minister kan een subsidie verstrekken voor projecten voor doelgroep B die uitsluitend zijn gericht op de volgende activiteiten:
 
@@ -150,7 +154,7 @@ De subsidie wordt aangevraagd door een in Nederland gevestigde, niet-gouvernemen
 
 1. Een subsidie kan uitsluitend worden verstrekt als de minister de mogelijkheid tot het doen van een aanvraag voor subsidie heeft opengesteld door vaststelling van een subsidieplafond en van een tijdvak voor de indiening van een aanvraag voor subsidie.
 
-2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2024-05-18&g=2024-05-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2024-05-18&g=2024-05-18).
+2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2025-04-01&g=2025-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2025-04-01&g=2025-04-01).
 
 3. Het subsidieplafond wordt verdeeld op volgorde van ontvangst van de volledige subsidieaanvragen.
 
@@ -180,7 +184,7 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - c. een financieringsplan;
 
-- d. een verklaring omtrent het gedrag van alle bestuurders van de rechtspersoon en projectleiders die niet ouder is dan drie maanden;
+- d. een verklaring omtrent het gedrag van alle bestuurders van de rechtspersoon en projectleiders die op het moment van de subsidieaanvraag niet ouder is dan drie maanden;
 
 - e. een uittreksel van de Kamer van Koophandel van de rechtspersoon;
 
@@ -204,6 +208,8 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - e. een beschrijving van de benodigde operationele kwalitatieve en kwantitatieve capaciteit.
 
+11. De verplichtingen, genoemd in het achtste lid, onderdelen f en h, zijn niet van toepassing op een non governmental organisation die minder dan een jaar bestaat op het moment van de subsidieaanvraag. In dat geval wordt bij de subsidieaanvraag een bankgarantie overgelegd ter hoogte van 20% van de gevraagde subsidie.
+
 ##### Artikel 9. Verplichtingen subsidieontvanger
 
 1. Projecten worden altijd uitgevoerd in samenwerking of in afstemming met de Dienst Terugkeer en Vertrek.
@@ -222,7 +228,7 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - a. de subsidieontvanger houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gemaakte kosten en gerealiseerde opbrengsten;
 
-- b. de volledige administratie is per project te allen tijde voor controle beschikbaar. De subsidieontvanger stelt voor een controle een geschikte ruimte aan de subsidieverstrekker ter beschikking;
+- b. de volledige administratie is per project te allen tijde voor controle beschikbaar. Voor een fysieke controle stelt de subsidieontvanger alle nodige bescheiden en een geschikte ruimte aan de subsidieverstrekker ter beschikking. In geval van een digitale controle, stelt de subsidieverstrekker een beveiligd digitaal platform open, waar de subsidieontvanger alle nodige bescheiden in digitale vorm voor controle ter beschikking stelt;
 
 - c. de projectadministratie geeft inzicht in de geplande en gerealiseerde prestaties in termen van deelnemers dan wel in termen van geleverde producten of diensten;
 
@@ -230,7 +236,7 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - e. indien er in het project sprake is van deelnemers geeft de deelnemersadministratie inzicht in de subsidiabiliteit van de individuele deelnemer, de verrichte activiteiten en behaalde resultaten per individuele deelnemer;
 
-- f. ter zake van de directe loonkosten dient een door middel van een inzichtelijk tijdschrijfsysteem controleerbare urenverantwoording per werknemer aanwezig te zijn;
+- f. ter zake van de directe loonkosten wordt, door middel van een inzichtelijk tijdschrijfsysteem, een controleerbare urenverantwoording per werknemer bijgehouden of een addendum met een prestatieonderbouwing per werknemer;
 
 - g. de subsidieontvanger verstrekt desgevraagd aan de minister dan wel door de minister daartoe aangewezen instanties inzage in of informatie uit de administratie. Tevens verstrekt de subsidieontvanger de minister desgevraagd informatie over het project die voor monitoring en evaluatiedoeleinden gebruikt kan worden;
 
@@ -248,7 +254,7 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - e. de computersystemen die gebruikt worden voor documenten waarvan uitsluitend een elektronische versie bestaat, voldoen aan aanvaarde beveiligingsstandaarden die waarborgen dat de bewaarde documenten aan de nationale wettelijke eisen voldoen en dat er voor controledoeleinden op kan worden vertrouwd;
 
-- f. alle administratieve bescheiden zijn beschikbaar voor de subsidieverstrekker. De subsidieontvanger is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
+- f. alle administratieve bescheiden zijn beschikbaar voor de subsidieverstrekker. De subsidieontvanger is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast. Deze verplichting geldt niet voor de administratieve bescheiden herintegratieondersteuning die voorkomen uit de gebruikmaking van FX EURP en door Frontex worden betaald en opgeslagen.
 
 ##### Artikel 10. Beslissing op de aanvraag
 
@@ -264,7 +270,7 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 De minister kan een subsidie weigeren wanneer:
 
-- a. de kosten van het project niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten. Van een onredelijke verhouding is in ieder geval sprake indien de kosten per vreemdeling meer bedragen dan € 8.800,00, voor zover het ziet op een project voor doelgroep A, dan wel indien de kosten per vreemdeling meer bedragen dan € 2.750,00 voor zover het ziet op een project voor doelgroep B;
+- a. de kosten van het project niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten. Van een onredelijke verhouding is in ieder geval sprake indien de kosten van het project niet in een redelijke verhouding staan tot de uit te voeren activiteiten, onderbouwd met een sluitende begroting;
 
 - b. onaannemelijk is dat subsidieaanvrager beschikt over operationele en financiële capaciteit voor de uitvoering van de voorgenomen activiteiten;
 
@@ -300,9 +306,9 @@ De minister kan een subsidie weigeren wanneer:
 
 - g. kosten van huur van onroerende zaken.
 
-2. De subsidiabele kosten worden verhoogd met een opslag van maximaal 9% ter dekking van de Indirecte kosten.
+2. De subsidiabele kosten voor doelgroep A worden verhoogd met een opslag van maximaal 13% ter dekking van de indirecte kosten. Voor doelgroep B geldt een opslag van maximaal 9%.
 
-3. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden, indien een berekening overeenkomstig het tweede lid, onderdeel a, niet mogelijk is, berekend door het aantal uren dat de betrokken persoon aan het project ten behoeve van deze activiteiten heeft gemaakt, te vermenigvuldigen met een vast uurtarief van € 39.
+3. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden, indien een berekening overeenkomstig het eerste lid, onderdeel a, niet mogelijk is, berekend door het aantal uren dat de betrokken persoon aan het project ten behoeve van deze activiteiten heeft gemaakt, te vermenigvuldigen met een vast uurtarief van € 43.
 
 ##### Artikel 13. Niet subsidiabel
 
@@ -340,7 +346,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - l. kosten voor woon-werkverkeer, tenzij een cao van toepassing is waarin staat dat medewerkers recht hebben op vergoeding hiervan;
 
-- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2024-05-18&g=2024-05-18), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
+- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2025-04-01&g=2025-04-01), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
 
 - n. kosten die reeds uit andere nationale of Europese middelen worden gefinancierd zodanig dat de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
@@ -384,15 +390,17 @@ Niet voor subsidiëring komen in aanmerking:
 
 2. Subsidiabele activiteiten:
 
-- a. de herintegratieondersteuning kan alleen ten goede komen aan onderdanen van een derde land die Nederland daadwerkelijk verlaten;
+- a. de Post-Arrival ondersteuning en de herintegratieondersteuning kunnen alleen ten goede komen aan onderdanen van een derde land die Nederland daadwerkelijk verlaten;
 
-- b. de herintegratieondersteuning is gericht op het verwerven van inkomsten om te voorzien in het eigen levensonderhoud na terugkeer en/of op de sociale herintegratie in de lokale gemeenschap of familie. De herintegratieondersteuning kan gericht zijn op het opzetten van een eigen bedrijf, maar kan ook bestaan uit tijdelijke huisvesting na terugkeer of scholing;
+- b. de Post-Arrival ondersteuning is een bijdrage aan de terugkeerder in contanten of in natura en is bedoeld als bijdrage om de eerste dagen na terugkeer te vergemakkelijken;
 
-- c. herintegratieondersteuning wordt bij voorkeur verstrekt in het land van herkomst dan wel na het overschrijden van de Nederlandse buitengrens. Bij uitzondering en na goedkeuring door de DT&V kan de herintegratieondersteuning in Nederland worden verstrekt als dit gebeurt met het oog op aanwending van de ondersteuning in het land van herkomst en de ondersteuning uiterlijk de dag voor het geplande vertrek uit Nederland wordt overhandigd aan de deelnemer.
+- c. de herintegratieondersteuning is gericht op het verwerven van inkomsten om te voorzien in het eigen levensonderhoud na terugkeer of op de sociale herintegratie in de lokale gemeenschap of familie. De herintegratieondersteuning kan gericht zijn op het opzetten van een eigen bedrijf, maar kan ook bestaan uit tijdelijke huisvesting na terugkeer of scholing;
+
+- d. de Post-Arrival ondersteuning en de herintegratieondersteuning worden bij voorkeur verstrekt in het land van herkomst dan wel na het overschrijden van de Nederlandse buitengrens. Bij uitzondering en na goedkeuring door de DT&V kunnen de Post-Arrival-ondersteuning en de herintegratieondersteuning in Nederland worden verstrekt als dit gebeurt met het oog op aanwending van de ondersteuning in het land van herkomst en de ondersteuning uiterlijk de dag voor het geplande vertrek uit Nederland wordt overhandigd aan de deelnemer.
 
 3. Voor het verstrekken van de herintegratieondersteuning in het land van herkomst of bestemming, dient de subsidieontvanger gebruik te maken van de volgende netwerken:
 
-- a. Frontex Joint Reintegration Services;
+- a. Frontex EU Reintegration Programma;
 
 - b. European Reintegration Support Organizations network;
 
@@ -406,11 +414,11 @@ Niet voor subsidiëring komen in aanmerking:
 
 2. De deelname van iedere individuele deelnemer dient ter verificatie aan de minister te worden voorgelegd via een daarvoor beschikbaar gesteld formulier. Dit formulier vermeldt via welk herintegratieprogramma of netwerk de vreemdeling ondersteuning ontvangt.
 
-De verificatieprocedure staat omschreven in de Handleiding.
+De verificatieprocedure staat omschreven in de Handleiding Projectadministratie.
 
 3. De deelname van iedere individuele deelnemer aan een project is beperkt tot vier maanden vóór vertrek en twaalf maanden na vertrek. Deze periodes kunnen in overleg met de minister worden verlengd.
 
-4. Deelname aan een project kan voortijdig worden beëindigd door de minister wanneer deelname de gedwongen terugkeer belemmert of omdat er geen uitzicht is op zelfstandig vertrek via het REAN-programma, JRS-programma of het ERSO-netwerk. Er is in beginsel geen uitzicht op zelfstandig vertrek als een deelnemer zich niet bij IOM dan wel DT&V heeft ingeschreven voor ondersteuning van het feitelijk vertrek.
+4. Deelname aan een project kan voortijdig worden beëindigd door de minister wanneer deelname de gedwongen terugkeer belemmert of omdat er geen uitzicht is op zelfstandig vertrek via het REAN-programma, EURP-programma of het ERSO-netwerk. Er is in beginsel geen uitzicht op zelfstandig vertrek als een deelnemer zich niet bij IOM dan wel DT&V heeft ingeschreven voor ondersteuning van het feitelijk vertrek.
 
 5. Indien een vreemdeling niet of niet meer deelneemt aan het project dient de subsidieontvanger de DT&V daarvan onverwijld in kennis te stellen door middel van het door de DT&V beschikbaar gestelde formulier.
 
@@ -450,15 +458,15 @@ Deze uitgaven zijn subsidiabel voor zover zij niet door een ander programma of o
 
 - a. in Nederland zijn gemaakt en direct zijn betaald door de subsidieontvanger;
 
-- b. buiten Nederland zijn gemaakt en zijn gecontroleerd en goedgekeurd door de lokale partner van de netwerken van Frontex JRS, het ERSO netwerk, het internationale netwerk van de Internationale Organisatie van Migratie of de door de minister goedgekeurde lokale partner van de subsidieontvanger waarmee de subsidieontvanger een overeenkomst heeft gesloten.
+- b. buiten Nederland zijn gemaakt en zijn gecontroleerd en goedgekeurd door de lokale partner van de netwerken van Frontex EURP, het ERSO netwerk, het internationale netwerk van de Internationale Organisatie van Migratie of de door de minister goedgekeurde lokale partner van de subsidieontvanger waarmee de subsidieontvanger een overeenkomst heeft gesloten.
 
 7. De kosten voor herintegratie in het land van bestemming, niet zijnde het land van herkomst, zijn alleen subsidiabel als het land van bestemming op de lijst met OESO-DAC-landen staat vermeld of anderzijds wordt toegestaan onder het huidige beleid.
 
 ##### Artikel 20. Hoogte van de subsidie
 
-1. De hoogte van de subsidie bedraagt minimaal € 30.000 en maximaal € 450.000 per project per tijdvak van 12 maanden.
+1. De hoogte van de subsidie bedraagt minimaal € 125.000 en maximaal € 450.000 per project per tijdvak van 12 maanden.
 
-2. Organisaties die nog geen ervaring hebben met het organiseren van terugkeerprojecten die door de minister worden gesubsidieerd, komen in aanmerking voor een maximale subsidie van € 175.000 met een maximale projectduur van twaalf maanden.
+2. Organisaties die nog geen ervaring hebben met het organiseren van terugkeerprojecten die door de minister worden gesubsidieerd, komen in aanmerking voor een maximale subsidie van € 192.500 met een maximale projectduur van twaalf maanden.
 
 3. Een subsidie van meer dan € 350.000 per tijdvak van 12 maanden wordt alleen verstrekt aan organisaties:
 
@@ -470,11 +478,11 @@ Deze uitgaven zijn subsidiabel voor zover zij niet door een ander programma of o
 
 ##### Artikel 21. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister ontvangen in het aanvraagtijdvak van 1 februari 2024 tot en met 31 juli 2024.
+Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister jaarlijks ontvangen in het aanvraagtijdvak tussen 1 maart tot en met 31 december.
 
 ##### Artikel 22. Subsidieplafond
 
-Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel 21, € 2.700.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2025-04-01&g=2025-04-01), € 1.800.000.
 
 ### Hoofdstuk 3. Bepalingen die zien op doelgroep b
 
@@ -484,7 +492,7 @@ Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 2. Een Nederlandse gemeente die het project meefinanciert dient een door het bevoegde gezag ondertekende co-financieringsverklaring op te stellen.
 
-3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2024-05-18&g=2024-05-18), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
+3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2025-04-01&g=2025-04-01), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
 
 ##### Artikel 24. Specifieke verplichtingen
 
@@ -530,7 +538,7 @@ Subsidieaanvragen met betrekking tot een project voor doelgroep B worden door de
 
 ##### Artikel 28. Subsidieplafond
 
-1. Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel 21, € 4.000.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2025-04-01&g=2025-04-01), € 4.000.000.
 
 ### Hoofdstuk 4. Slotbepalingen
 
