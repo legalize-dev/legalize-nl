@@ -4,7 +4,7 @@ identifier: "BWBR0016722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2024-09-28"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016722"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 1210/2003 is de Minister van Financiën.
 
-2. De bevoegde autoriteit, bedoeld in de artikelen 5, tweede lid, 6, eerste lid, en 8, eerste lid, van [Verordening (EG) nr. 1210/2003](32003R1210) is de Minister van Financiën voor zover het betreft de vrijgave van bevroren tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingshulp voor zover het betreft de vrijgave van economische middelen, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EG) 1210/2003](32003R1210) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EG) 1210/2003](32003R1210) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+2. De bevoegde autoriteit, bedoeld in de artikelen 5, tweede lid, 6, eerste lid, en 8, eerste lid, van [Verordening (EG) nr. 1210/2003](32003R1210) is de Minister van Financiën voor zover het betreft de vrijgave van bevroren tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingshulp voor zover het betreft de vrijgave van economische middelen, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j en, voor zover het een bank of elektronischgeldinstelling betreft die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EG) 1210/2003](32003R1210) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d, k en, voor zover het een andere instelling betreft dan een bank of elektronischgeldinstelling die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EG) 1210/2003](32003R1210) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
