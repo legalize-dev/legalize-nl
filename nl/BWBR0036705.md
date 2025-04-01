@@ -4,7 +4,7 @@ identifier: "BWBR0036705"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2024-07-12"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036705"
 soort: "AMvB"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - **ambtenaren van politie:** ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de landelijke eenheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.1&artikel=3&z=2024-07-12&g=2024-07-12), in het gebied van die regionale eenheid;
+- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de landelijke eenheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.1&artikel=3&z=2025-04-01&g=2025-04-01), in het gebied van die regionale eenheid;
 
 - **beheersplan:** het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2024-07-12&g=2024-07-12);
+- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2025-04-01&g=2025-04-01);
 
 - **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
 
@@ -444,39 +444,39 @@ De Staf politiedienstencentrum heeft in ieder geval tot taak de ondersteuning va
 
 ##### Artikel 38
 
-De Dienst human resource management heeft in ieder geval tot taak het uitvoeren van het door de Directie human resource management, bedoeld in [artikel 28, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerde beleid.
+De Dienst human resource management heeft in ieder geval tot taak het uitvoeren van het door de Directie human resource management, bedoeld in [artikel 28, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerde beleid.
 
 ##### Artikel 39
 
-De Dienst facility management heeft in ieder geval tot taak het uitvoeren van het door de Directie facility management, bedoeld in [artikel 28, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerde beleid.
+De Dienst facility management heeft in ieder geval tot taak het uitvoeren van het door de Directie facility management, bedoeld in [artikel 28, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerde beleid.
 
 ##### Artikel 40
 
-De Dienst financiën heeft in ieder geval tot taak het uitvoeren van het door de Directie financiën en control, bedoeld in [artikel 28, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerde beleid.
+De Dienst financiën heeft in ieder geval tot taak het uitvoeren van het door de Directie financiën en control, bedoeld in [artikel 28, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerde beleid.
 
 ##### Artikel 41
 
-De Dienst informatiemanagement heeft in ieder geval tot taak het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerde beleid.
+De Dienst informatiemanagement heeft in ieder geval tot taak het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerde beleid.
 
 ##### Artikel 42
 
-De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak het leveren van informatie- en communicatiediensten binnen de regionale eenheid en het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerde beleid.
+De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak het leveren van informatie- en communicatiediensten binnen de regionale eenheid en het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerde beleid.
 
 ##### Artikel 43
 
-De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2024-07-12&g=2024-07-12), geformuleerd beleid.
+De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerd beleid.
 
 ### Hoofdstuk 7. Nadere regels over de organisatie van de politie
 
 ##### Artikel 44
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organisatie van de politie, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&z=2024-07-12&g=2024-07-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=4&z=2024-07-12&g=2024-07-12), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&z=2024-07-12&g=2024-07-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&z=2024-07-12&g=2024-07-12).
+Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organisatie van de politie, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=4&z=2025-04-01&g=2025-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&z=2025-04-01&g=2025-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&z=2025-04-01&g=2025-04-01).
 
 ### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
 
 ##### Artikel 45
 
-Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2024-07-12&g=2024-07-12), op de ontwerpen van het beheersplan en het jaarverslag, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2025-04-01&g=2025-04-01), op de ontwerpen van het beheersplan en het jaarverslag, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
 
 ##### Artikel 46
 
@@ -592,7 +592,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De korpschef stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 maart in kennis van de behoefte van de politie aan politieonderwijs en werkzaamheden als bedoeld in [artikel 75 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=75) voor het komende begrotingsjaar en de vier daaropvolgende jaren.
 
-2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, onder ii, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
 
@@ -652,7 +652,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 11. Slotbepaling
 
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.3&artikel=7&z=2024-07-12&g=2024-07-12)
+## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.3&artikel=7&z=2025-04-01&g=2025-04-01)
 
 Vervallen
 
