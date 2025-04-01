@@ -4,7 +4,7 @@ identifier: "BWBR0032333"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2024-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032333"
 soort: "AMvB"
@@ -74,19 +74,19 @@ Bij ministeriële regeling worden de krachtens [artikel 6, tweede lid, van het B
 
 ##### Artikel 4
 
-Onze Minister geeft jaarlijks een raming van de door de korpschef te realiseren operationele sterkte voor de vier op het begrotingsjaar volgende jaren en, met inachtneming van het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde aandeel, een raming van de verdeling van deze sterkte over de eenheden en ondersteunende diensten en een raming van het in artikel 3, vijfde lid, bedoelde percentage.
+Onze Minister geeft jaarlijks een raming van de door de korpschef te realiseren operationele sterkte voor de vier op het begrotingsjaar volgende jaren en, met inachtneming van het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), bedoelde aandeel, een raming van de verdeling van deze sterkte over de eenheden en ondersteunende diensten en een raming van het in artikel 3, vijfde lid, bedoelde percentage.
 
 ##### Artikel 5
 
-1. Indien de begroting tijdens het begrotingsjaar wordt gewijzigd, kan Onze Minister de door de korpschef te realiseren operationele sterkte, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2024-01-01&g=2024-01-01), wijzigen.
+1. Indien de begroting tijdens het begrotingsjaar wordt gewijzigd, kan Onze Minister de door de korpschef te realiseren operationele sterkte, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), wijzigen.
 
-2. Indien de meerjarenraming, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), wordt gewijzigd, is het eerste lid van overeenkomstige toepassing op de raming van de operationele sterkte, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2024-01-01&g=2024-01-01).
+2. Indien de meerjarenraming, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), wordt gewijzigd, is het eerste lid van overeenkomstige toepassing op de raming van de operationele sterkte, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 6
 
 1. Indien werkzaamheden worden overgeheveld van een eenheid of ondersteunende dienst naar een andere eenheid of ondersteunende dienst, als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) wordt de op die werkzaamheden betrekking hebbende operationele sterkte eveneens overgeheveld.
 
-2. In afwijking van [artikel 3, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2024-01-01&g=2024-01-01), kan een eenheid of ondersteunende dienst over extra operationele sterkte beschikken indien deze voor een specifiek onderdeel van de politietaak aan de eenheid of ondersteunende dienst is toegekend.
+2. In afwijking van [artikel 3, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), kan een eenheid of ondersteunende dienst over extra operationele sterkte beschikken indien deze voor een specifiek onderdeel van de politietaak aan de eenheid of ondersteunende dienst is toegekend.
 
 ##### Artikel 7
 
@@ -125,7 +125,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a
 
-1. In afwijking van de [artikelen 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2024-01-01&g=2024-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2024-01-01&g=2024-01-01) kan de korpschef bepalen dat een percentage van de te realiseren operationele sterkte van een eenheid in een begrotingsjaar en maximaal twee daaropvolgende jaren niet wordt gerealiseerd. Ten aanzien van een regionale eenheid geschiedt deze beslissing in overeenstemming met de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie.
+1. In afwijking van de [artikelen 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2025-04-01&g=2025-04-01) kan de korpschef bepalen dat een percentage van de te realiseren operationele sterkte van een eenheid in een begrotingsjaar en maximaal twee daaropvolgende jaren niet wordt gerealiseerd. Ten aanzien van een regionale eenheid geschiedt deze beslissing in overeenstemming met de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie.
 
 2. Voor de toepassing van het eerste lid worden aspiranten als bedoeld in [artikel 1, onder b, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) niet meegerekend bij de operationele sterkte.
 
