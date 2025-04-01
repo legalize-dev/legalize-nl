@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2025-03-21"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 bis, tweede en derde lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 5 bis, eerste lid, artikel 5 ter, eerste lid, artikel 6, eerste lid, artikel 6 bis, eerste lid en lid 1 bis, artikel 6 ter, artikel 6 sexies, eerste lid en lid 1 bis, artikel 7, eerste lid, en artikel 8 van [Verordening (EU) nr. 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) nr. 269/2014](32014R0269) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) nr. 269/2014](32014R0269) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+1. De bevoegde autoriteit, bedoeld in artikel 2 bis, tweede en derde lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 5 bis, eerste lid, artikel 5 ter, eerste lid, artikel 6, eerste lid, artikel 6 bis, eerste lid en lid 1 bis, artikel 6 ter, artikel 6 sexies, eerste lid en lid 1 bis, artikel 7, eerste lid, en artikel 8 van [Verordening (EU) nr. 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j en, voor zover het een bank of elektronischgeldinstelling betreft die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) nr. 269/2014](32014R0269) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d, k en, voor zover het een andere instelling betreft dan een bank of elektronischgeldinstelling die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) nr. 269/2014](32014R0269) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 2. De bevoegde autoriteit, bedoeld in artikel 2 bis, tweede en derde lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 5 bis, eerste lid, artikel 5 ter, eerste lid, artikel 6, eerste lid, artikel 6 ter, artikel 6 quinquies, eerste lid, artikel 6 sexies, eerste lid, en lid 1 bis, en artikel 8, van Verordening (EU) nr. 269/2014, is de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister voor Volkshuisvesting en Ruimtelijke Ordening, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, de Minister van Economische Zaken en de Minister van Landbouw, Natuur en Voedselkwaliteit voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard en elk voor het gebied waartoe hun competenties zich uitstrekken.
 
@@ -118,7 +118,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-03-21&g=2025-03-21) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-04-01&g=2025-04-01) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -238,7 +238,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1d
 
-1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-03-21&g=2025-03-21) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-04-01&g=2025-04-01) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
 
 2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
@@ -248,7 +248,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het derde lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
-## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2025-03-21&g=2025-03-21)
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2025-04-01&g=2025-04-01)
 
 - −. geavanceerde natuurkunde
 
