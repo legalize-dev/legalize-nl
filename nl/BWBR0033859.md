@@ -4,7 +4,7 @@ identifier: "BWBR0033859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-10"
-last_updated: "2006-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033859"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - c. **Bbp:** het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
-- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel j, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
 - e. **levensloopbijdragen:** de algemene levensloopbijdrage, de toelage bezwarende functies en de inhaaltoelage bezwarende functies, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12b), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12c) en [12d van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d);
 
-- f. **uurloon:** het salaris per uur, als bedoeld in [artikel 1, eerste lid, onderdeel n, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- f. **uurloon:** het salaris per uur, als bedoeld in artikel 1, eerste lid, onderdeel n, van het Bbp;
 
 - g. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
