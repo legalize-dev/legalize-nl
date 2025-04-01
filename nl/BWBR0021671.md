@@ -4,7 +4,7 @@ identifier: "BWBR0021671"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2023-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021671"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie Landelijke eenheid verstaan onder:
 
-- 1. medewerker: de ambtenaar genoemd in [artikel 1, lid 1, sub c en d van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- 1. medewerker: de ambtenaar, aangesteld voor de uitvoering van de politietaak, en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - 2. plaatsgebonden consignatie: een aaneengesloten tijdruimte van ten hoogste 24 uren waarin de medewerker, zo nodig naast het verrichten van de bedongen arbeid, verplicht is op de arbeidsplaats aanwezig te zijn om op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;
 
