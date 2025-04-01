@@ -4,7 +4,7 @@ identifier: "BWBR0048051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-07-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048051"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor aanwijzing als aangewezen instelling komen slechts instellingen in aanmerking die voldoen aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2023-07-01&g=2023-07-01)vermelde voorwaarden.
+1. Voor aanwijzing als aangewezen instelling komen slechts instellingen in aanmerking die voldoen aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2025-04-01&g=2025-04-01)vermelde voorwaarden.
 
-2. Indien een aangewezen instelling een onderaannemer inschakelt, draagt de aangewezen instelling er zorg voor dat die onderaannemer voldoet aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2023-07-01&g=2023-07-01) vermelde voorwaarden.
+2. Indien een aangewezen instelling een onderaannemer inschakelt, draagt de aangewezen instelling er zorg voor dat die onderaannemer voldoet aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2025-04-01&g=2025-04-01) vermelde voorwaarden.
 
 ##### Artikel 3
 
@@ -106,13 +106,13 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 1. Attractietoestellen worden periodiek gekeurd door een aangewezen instelling.
 
-2. De aangewezen instelling bepaalt voor attractietoestellen bij de verlening van het eerste certificaat van goedkeuring de benodigde keuringsfrequentie aan de hand van de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2023-07-01&g=2023-07-01).
+2. De aangewezen instelling bepaalt voor attractietoestellen bij de verlening van het eerste certificaat van goedkeuring de benodigde keuringsfrequentie aan de hand van de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2025-04-01&g=2025-04-01).
 
 3. Bij in serie geproduceerde speeltoestellen vindt een nieuwe keuring van het typekenmerkende monster en het technisch constructiedossier door een aangewezen instelling plaats binnen een jaar na de publicatie van een nieuwe of gewijzigde norm, bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6).
 
 ##### Artikel 6
 
-1. Een certificaat van goedkeuring voor een attractie- of speeltoestel komt overeen met één van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2023-07-01&g=2023-07-01) opgenomen modellen.
+1. Een certificaat van goedkeuring voor een attractie- of speeltoestel komt overeen met één van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen.
 
 2. Een certificaat van goedkeuring:
 
@@ -124,11 +124,11 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 4. Indien meerdere uitvoeringen van één type attractie- of speeltoestel bestaan, worden deze uitvoeringen op het certificaat van goedkeuring vermeld. Het betreffende certificaat van goedkeuring bevat voor elke uitvoering ten minste een overzichtsfoto in kleur en, indien beschikbaar, een 3D-tekening.
 
-5. Op een certificaat van goedkeuring dienen alle informatievelden die overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2023-07-01&g=2023-07-01) opgenomen modellen op het voorblad opgenomen moeten worden en de overzichtsfoto in kleur op één pagina te worden weergegeven. Er kunnen additionele bladen worden toegevoegd ten behoeve van de overzichtsfoto in kleur en, indien beschikbaar, de 3D-tekening, bedoeld in het vierde lid en de aanvullende afbeeldingen, bedoeld in het tweede lid, onderdeel a. In dat geval dienen overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2023-07-01&g=2023-07-01) opgenomen modellen een aantal informatievelden te worden herhaald op elk additioneel blad.
+5. Op een certificaat van goedkeuring dienen alle informatievelden die overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen op het voorblad opgenomen moeten worden en de overzichtsfoto in kleur op één pagina te worden weergegeven. Er kunnen additionele bladen worden toegevoegd ten behoeve van de overzichtsfoto in kleur en, indien beschikbaar, de 3D-tekening, bedoeld in het vierde lid en de aanvullende afbeeldingen, bedoeld in het tweede lid, onderdeel a. In dat geval dienen overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen een aantal informatievelden te worden herhaald op elk additioneel blad.
 
 ##### Artikel 7
 
-1. Een certificaat van goedkeuring voor een attractietoestel bevat een uiterste geldigheidsdatum. Deze datum is gebaseerd op de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2023-07-01&g=2023-07-01).
+1. Een certificaat van goedkeuring voor een attractietoestel bevat een uiterste geldigheidsdatum. Deze datum is gebaseerd op de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2025-04-01&g=2025-04-01).
 
 2. De verhuurder dan wel de beheerder van een attractietoestel, bedoeld in het eerste lid, vraagt ten minste dertig dagen voor de uiterste geldigheidsdatum van het certificaat van goedkeuring een keuring aan bij een aangewezen instelling. Indien het attractietoestel, buiten toedoen van de verhuurder dan wel beheerder niet tijdig kan worden gekeurd, behoudt het certificaat van goedkeuring zijn geldigheid gedurende ten hoogste vier maanden na afloop van de uiterste geldigheidsdatum.
 
@@ -136,7 +136,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 ##### Artikel 8
 
-1. Een merk van goedkeuring voor een attractietoestel of voor een speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd, komt overeen met het in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=IV&z=2023-07-01&g=2023-07-01) opgenomen model.
+1. Een merk van goedkeuring voor een attractietoestel of voor een speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd, komt overeen met het in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=IV&z=2025-04-01&g=2025-04-01) opgenomen model.
 
 2. Op het merk van goedkeuring voor een attractie- of speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd wordt in plaats van de maand en het jaar van de keuring, de maand en het jaar waarin het merk van goedkeuring op het toestel is aangebracht, vermeld.
 
@@ -146,7 +146,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 5. Het merk van goedkeuring is op een essentieel onderdeel en op een duidelijk zichtbare plaats, onlosmakelijk op of in het attractie- of speeltoestel aangebracht.
 
-6. Een merk van goedkeuring voor een attractietoestel bevat een uiterste geldigheidsdatum. De datum voor attractietoestellen is gebaseerd op de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2023-07-01&g=2023-07-01).
+6. Een merk van goedkeuring voor een attractietoestel bevat een uiterste geldigheidsdatum. De datum voor attractietoestellen is gebaseerd op de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2025-04-01&g=2025-04-01).
 
 7. Indien het attractietoestel, buiten toedoen van de verhuurder dan wel beheerder niet tijdig kan worden gekeurd, behoudt het merk van goedkeuring zijn geldigheid gedurende ten hoogste vier maanden na afloop van de uiterste geldigheidsdatum.
 
@@ -162,7 +162,7 @@ De aangewezen instelling vraagt het unieke registratienummer, bedoeld in [artike
 
 ##### Artikel 10
 
-Als normen, bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6) worden aangewezen de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=V&z=2023-07-01&g=2023-07-01) bij deze regeling vermelde normen.
+Als normen, bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6) worden aangewezen de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=V&z=2025-04-01&g=2025-04-01) bij deze regeling vermelde normen.
 
 #### § 6. Slotbepalingen
 
@@ -507,7 +507,7 @@ Aanvullende afbeeldingen toestel**voor zover van toepassing**:
 
 ## Bijlage IV. Model merk van goedkeuring
 
-(bijlage als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&paragraaf=3&artikel=8&z=2023-07-01&g=2023-07-01), van de Warenwetregeling attractie- en speeltoestellen)
+(bijlage als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&paragraaf=3&artikel=8&z=2025-04-01&g=2025-04-01), van de Warenwetregeling attractie- en speeltoestellen)
 
 | GOEDGEKEURD: |   |
 | --- | --- |
@@ -530,34 +530,70 @@ Aanvullende afbeeldingen toestel**voor zover van toepassing**:
 
 **(bijlage als bedoeld in artikel 10 van de Warenwetregeling attractie- en speeltoestellen)**
 
-Normen voor attractie- en speeltoestellen
+Normen voor attractietoestellen en speeltoestellen:
 
-- a. NEN-EN 1176-1:2017: Speeltoestellen – Deel 1 Algemene veiligheidseisen en beproevingsmethoden;
+- −. NEN-EN 1176-1:2017+A1:2023 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 1: Algemene veiligheidseisen en beproevingsmethoden
 
-- b. NEN-EN 1176-2:2017+C1:2019: Speeltoestellen – Deel 2 Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor schommels;
+- −. NEN-EN 1176-2:2017+C1:2019 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 2: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor schommels
 
-- c. NEN-EN 1176-3:2017: Speeltoestellen – Deel 3 Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor glijbanen;
+- −. NEN-EN 1176-3:2017 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 3: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor glijbanen
 
-- d. NEN-EN 1176-4:2017+C1:2019: Speeltoestellen – Deel 4 Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor kabelbanen;
+- −. NEN-EN 1176-4:2017+C1:2019 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 4: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor kabelbanen
 
-- e. NEN-EN 1176-5:2019 en: Speeltoestellen – Deel 5 Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor draaitoestellen;
+- −. NEN-EN 1176-5:2019 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 5: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor draaitoestellen
 
-- f. NEN-EN 1176-6:2017+C1:2019: Speeltoestellen – Deel 6 Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor wiptoestellen;
+- −. NEN-EN 1176-6:2017+C1:2019 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 6: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor wiptoestellen
 
-- g. NEN-EN 1176-7:2020 en: Speeltoestellen – Deel 7 Leidraad voor de plaatsing, controle, onderhoud en gebruik;
+- −. NEN-EN 1176-7:2020 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 7: Leidraad voor de plaatsing, controle, onderhoud en gebruik
 
-- h. NEN-EN 1176-10:2008: Speeltoestellen en bodemoppervlakken – Deel 10: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor geheel omsloten toestellen;
+- −. NEN-EN 1176-10:2023 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 10: Aanvullende specifieke veiligheidseisen en beproevingsmethoden voor geheel omsloten speeltoestellen
 
-- i. NEN-EN 1176-11:2014: Speeltoestellen en bodemoppervlakken – Deel 11: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor ruimtelijke netstructuren;
+- −. NEN-EN 1176-11:2014 en – Speeltoestellen en bodemoppervlakken van speelplaatsen – Deel 11: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor ruimtelijke netstructuren
 
-- j. NEN-EN 1069-1:2017+A1:2019: Waterglijbanen – Deel 1 Veiligheidseisen en beproevingsmethoden;
+- −. NEN-EN-ISO 25649-1:2024 en – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 1: Classificatie, materialen, algemene eisen en beproevingsmethoden
 
-- k. NEN-EN 1069-2:2017: Waterglijbanen – Deel 2 Instructies;
+- −. NEN-EN-ISO 25649-2:2024 en – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 2: Consumenteninformatie
 
-- l. NEN-EN 13814-1:2019 en: Veiligheid van attractietoestellen – Deel 1: Ontwerp en vervaardiging;
+- −. NEN-EN-ISO 25649-6:2024 en – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 6: Aanvullende bijzondere eisen voor Klasse D toestellen
 
-- m. NEN-EN 13814-2:2019 en: Veiligheid van attractietoestellen – Deel 2: Bediening, onderhoud en gebruik; en
+- −. NEN-EN 17232:2020 en – Waterspeeltoestellen – Veiligheidseisen, beproevingsmethoden en operationele vereisten
 
-- n. NEN-EN 13814-3:2019 en: Veiligheid van attractietoestellen – Deel 3: Inspectie-eisen tijdens ontwerp, vervaardiging, bediening en gebruik.
+- −. NEN-EN 1069-1:2017+A1:2019 en – Waterglijbanen – Deel 1 Veiligheidseisen en beproevingsmethoden
+
+- −. NEN-EN 1069-2:2017 en – Waterglijbanen – Deel 2 Instructies
+
+- −. NEN-EN 13451-1:2020+A1:2024 en – Zwembaduitrusting – Deel 1: Algemene veiligheidseisen en beproevingsmethoden voor zwembaduitrusting geïnstalleerd in openbare zwembaden
+
+- −. NEN-EN 13451-3:2022 en – Zwembaduitrusting – Deel 3: Aanvullende specifieke veiligheidseisen en beproevingsmethoden voor zwemwatertoe- en afvoeren en voor op water/lucht gebaseerde waterattracties
+
+- −. NEN-EN 1177:2018+A1:2024 en – Valdempende bodemoppervlakken van speelplaatsen – Bepaling van de kritische valhoogte
+
+- −. NEN-EN 14974:2019 en – Skateparks – Veiligheidseisen en beproevingsmethoden
+
+- −. NEN-EN-ISO 23659:2022 en – Sport- en recreatievoorzieningen – Trampolineparken – Veiligheidseisen
+
+- −. NEN-EN 14960-1:2019 en – Opblaasbare speeltoestellen – Deel 1: Veiligheidseisen en beproevingsmethoden
+
+- −. NEN-EN 14960-2:2019 en – Opblaasbare vrijetijdsartikelen – Deel 2: Aanvullende veiligheidseisen voor opblaasbare springkussens bedoeld voor permanente installatie
+
+- −. NEN-EN 14960-3:2020 en – Opblaasbare vrijetijdsartikelen – Deel 3: Aanvullende veiligheidseisen en beproevingsmethoden voor snappies
+
+- −. NEN-EN 13814-1:2019+A1:2024 en – Veiligheid van attractietoestellen en attracties – Deel 1: Ontwerp en fabricage
+
+- −. NEN-EN 13814-2:2019+A1:2024 en – Veiligheid van attractietoestellen en attracties – Deel 2: Bediening, onderhoud en gebruik
+
+- −. NEN-EN 13814-3:2019+A1:2024 en – Veiligheid van attractietoestellen en attracties – Deel 3: Inspectie-eisen tijdens ontwerp, fabricage, bediening en gebruik
+
+- −. NEN-ISO 17842-1:2023 en – Veiligheid van attracties en speeltoestellen – Deel 1: Ontwerp en fabricage
+
+- −. NEN-ISO 17842-2:2022 en – Veiligheid van attracties en speelautomaten – Deel 2: Werking en gebruik
+
+- −. NEN-ISO 17842-3:2022 en – Veiligheid van attractietoestellen en speelautomaten – Deel 3: Eisen voor inspectie tijdens ontwerp, vervaardiging, besturing en gebruik
+
+- −. NEN-EN 12572-1:2017 en – Kunstmatige klimobjecten – Deel 1: Veiligheidseisen en beproevingsmethoden voor ACS met zelfzekeringspunten
+
+- −. NEN-EN 12572-2:2017 en – Kunstmatige klimobjecten – Deel 2: Veiligheidseisen en beproevingsmethoden voor boulderwanden
+
+- −. NEN-EN 12572-3:2017 en – Kunstmatige klimobjecten – Deel 3: Veiligheidseisen en beproevingsmethoden voor grepen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
