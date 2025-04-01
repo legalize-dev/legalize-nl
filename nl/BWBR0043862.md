@@ -4,7 +4,7 @@ identifier: "BWBR0043862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043862"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Beslu
 
 In deze regeling wordt verstaan onder:
 
-- a. **vrijwilliger-aspirant:** ambtenaar als bedoeld in [artikel 1, eerste lid, onder tt, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- **vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak:** de vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **vrijwillige ambtenaar in opleiding:** ambtenaar als bedoeld in [artikel 1, eerste lid, onder uu, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- **vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:** de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-- c. **vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak:** ambtenaar als bedoeld in [artikel 1, eerste lid, onder vv, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- **vrijwillige ambtenaar in opleiding:** de vrijwillige ambtenaar in opleiding als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- d. **vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:** ambtenaar als bedoeld in [artikel 1, eerste lid, onder ww, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- **vrijwilliger-aspirant:** de vrijwilliger-aspirant als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 ##### Artikel 2. Vergoeding vrijwilliger-aspirant, vrijwillige ambtenaar in opleiding, vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die opsporingsbevoegdheid bezit
 
@@ -76,9 +76,9 @@ De [Regeling Vergoeding vrijwillige politie](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-07-10&g=2025-01-01), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
+1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-04-01&g=2025-04-01), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-07-10&g=2025-01-01) treedt in werking met ingang van 1 januari 2021.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-04-01&g=2025-04-01) treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
