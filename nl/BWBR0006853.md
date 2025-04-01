@@ -4,7 +4,7 @@ identifier: "BWBR0006853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-13"
-last_updated: "2024-05-11"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006853"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- a. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, sub j, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- a. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- b. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, sub i, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- b. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
 - c. **overwerk:** hetgeen daaronder wordt verstaan in [artikel 27, derde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27).
 
