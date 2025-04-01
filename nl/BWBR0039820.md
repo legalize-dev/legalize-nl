@@ -4,7 +4,7 @@ identifier: "BWBR0039820"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2024-10-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039820"
 soort: "zbo"
@@ -220,7 +220,7 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.5
 
-Wanneer een depositohouder een niet-natuurlijk persoon zonder rechtspersoonlijkheid is die classificeert als een onderneming op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01), kent DNB voor dit deposito geen vergoeding toe aan de personen die als leden van de vennootschap of soortgelijke groepering aanspraak maken op het deposito.
+Vervallen
 
 ### Hoofdstuk 3. Uitvoering
 
