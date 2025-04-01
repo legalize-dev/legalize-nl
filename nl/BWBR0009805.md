@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-12-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -820,6 +820,7 @@ Het is verboden om de volgende voorwerpen in de inrichting in bezit te hebben:
 | **overige voorwerpen:** | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) |
 |   | – messen en andere steekwapens die niet strafbaar zijn op grond van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804), met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen | – messen en andere steekwapens die niet strafbaar zijn op grond van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804), met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen |
 |   | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of op zijn afdeling verboden zijn | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of op zijn afdeling verboden zijn |
+|   | – het blad De Vrije Zielen en opvolgers van het blad met gewijzigde titel | – het blad De Vrije Zielen en opvolgers van het blad met gewijzigde titel |
 
 De directeur is bevoegd ontheffing te verlenen voor een gedetineerde dan wel voor een groep van gedetineerden.
 
@@ -1161,7 +1162,7 @@ De directeur is bevoegd tegen u geweld te gebruiken dan wel vrijheidsbeperkende 
 
 - c. ter voorkoming dat u zich aan het op u uitgeoefende toezicht onttrekt;
 
-- d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of de [Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212) door de officier van justitie of de rechter-commissaris genomen beslissing.
+- d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of de [Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212) door de officier van justitie of de rechter-commissaris genomen beslissing, alsmede de uitvoering van [artikel 258a, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=258a).
 
 Naast de directeur is de selectiefunctionaris of een daartoe door hem aangewezen ambtenaar of medewerker bevoegd tegen u geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een van de volgende belangen:
 
