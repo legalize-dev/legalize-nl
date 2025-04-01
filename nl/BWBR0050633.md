@@ -4,7 +4,7 @@ identifier: "BWBR0050633"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050633"
 soort: "ministeriele-regeling"
@@ -148,27 +148,27 @@ In afwijking van [artikel 27, eerste lid, van de Uitvoeringsregeling Algemene we
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2025, met dien verstande dat:
 
-- a. [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=I&z=2025-01-01&g=2025-01-01), [artikel II, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=II&z=2025-01-01&g=2025-01-01), en [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIII&z=2025-01-01&g=2025-01-01) terugwerken tot en met 1 januari 2024.
+- a. [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=I&z=2025-04-01&g=2025-04-01), [artikel II, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=II&z=2025-04-01&g=2025-04-01), en [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIII&z=2025-04-01&g=2025-04-01) terugwerken tot en met 1 januari 2024.
 
-- b. [artikel III, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=III&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2020;
+- b. [artikel III, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=III&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 1 januari 2020;
 
-- c. [artikel III, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=III&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2006;
+- c. [artikel III, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=III&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 1 januari 2006;
 
-- d. [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XII&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2023;
+- d. [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XII&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 1 januari 2023;
 
-- e. [artikel XIV, onderdelen H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XIV&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2021;
+- e. [artikel XIV, onderdelen H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XIV&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 1 januari 2021;
 
-- f. [artikel XIV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XIV&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 13 februari 2023;
+- f. [artikel XIV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XIV&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 13 februari 2023;
 
-- g. [artikel XVI, onderdelen B en C, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XVI&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 6 november 2024;
+- g. [artikel XVI, onderdelen B en C, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XVI&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 6 november 2024;
 
-- h. [artikel XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XVI&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2024 voor zover het in dat onderdeel opgenomen artikel 9ter betrekking heeft op tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913);
+- h. [artikel XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XVI&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 1 januari 2024 voor zover het in dat onderdeel opgenomen artikel 9ter betrekking heeft op tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913);
 
-- i. [artikel XXI, onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXI&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 16 november 2023.
+- i. [artikel XXI, onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXI&z=2025-04-01&g=2025-04-01), terugwerkt tot en met 16 november 2023.
 
-2. In afwijking van het eerste lid treden de [artikelen XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIII&z=2025-01-01&g=2025-01-01), [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIV&z=2025-01-01&g=2025-01-01), [XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXV&z=2025-01-01&g=2025-01-01) in de openbare lichamen Bonaire, Sint-Eustatius en Saba met ingang van 1 januari 2025, 00:00 uur, in werking en in het Europese deel van Nederland met ingang van 1 januari 2025, 05:00 uur, met dien verstande dat artikel XXIII in de openbare lichamen Bonaire, Sint Eustatius en Saba terugwerkt tot en met 1 januari 2024, 00:00 uur, en in het Europese deel van Nederland terugwerkt tot en met 1 januari 2024, 05.00 uur.
+2. In afwijking van het eerste lid treden de [artikelen XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIII&z=2025-04-01&g=2025-04-01), [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIV&z=2025-04-01&g=2025-04-01), [XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXV&z=2025-04-01&g=2025-04-01) in de openbare lichamen Bonaire, Sint-Eustatius en Saba met ingang van 1 januari 2025, 00:00 uur, in werking en in het Europese deel van Nederland met ingang van 1 januari 2025, 05:00 uur, met dien verstande dat artikel XXIII in de openbare lichamen Bonaire, Sint Eustatius en Saba terugwerkt tot en met 1 januari 2024, 00:00 uur, en in het Europese deel van Nederland terugwerkt tot en met 1 januari 2024, 05.00 uur.
 
-3. In afwijking van het eerste en tweede lid treedt het in [artikel XXIV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIV&z=2025-01-01&g=2025-01-01), ogenomen [artikel 4e van de Uitvoeringsregeling loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=4e) in de openbare lichamen Bonaire, Sint-Eustatius en Saba met ingang van 1 april 2025, 00:00 uur, in werking en in het Europese deel van Nederland met ingang van 1 april 2025, 05:00 uur.
+3. In afwijking van het eerste en tweede lid treedt het in [artikel XXIV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIV&z=2025-04-01&g=2025-04-01), ogenomen [artikel 4e van de Uitvoeringsregeling loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=4e) in de openbare lichamen Bonaire, Sint-Eustatius en Saba met ingang van 1 april 2025, 00:00 uur, in werking en in het Europese deel van Nederland met ingang van 1 april 2025, 05:00 uur.
 
 ##### Artikel XXIX
 
