@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2020-09-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -112,7 +112,7 @@ Dit besluit berust op de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 5
 
-1. De ambtenaar die ten gevolge van het LFNP, bedoeld in [artikel 1, eerste lid, onderdeel vv. van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), overgaat naar een functie waaraan een lagere salarisschaal is verbonden, behoudt, indien hij daartoe de wens te kennen heeft gegeven, de rang die is verbonden aan de functie die voor hem gold direct voorafgaand aan het tijdstip waarop de overgang naar een functie plaatsvond.
+1. De ambtenaar die ten gevolge van het LFNP, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), overgaat naar een functie waaraan een lagere salarisschaal is verbonden, behoudt, indien hij daartoe de wens te kennen heeft gegeven, de rang die is verbonden aan de functie die voor hem gold direct voorafgaand aan het tijdstip waarop de overgang naar een functie plaatsvond.
 
 2. De ambtenaar die op grond van een uitgangspositie, zijnde de functie en in samenhang daarmee de functiebeschrijving en de overige opgedragen werkzaamheden of bijzondere situaties op enig moment vanaf 31 december 2009 tot en met 31 december 2011, dan wel een toegekende functie op grond van die functie recht had op een rang, behoudt deze rang, indien hij daartoe de wens te kennen heeft gegeven.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2020-09-01&g=2020-09-01), behoudt de ambtenaar:
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2025-04-01&g=2025-04-01), behoudt de ambtenaar:
 
 - a. de rang zoals die gold direct voorafgaand aan het besluit tot verplaatsing op grond van [artikel 64 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), waarbij hij wordt verplaatst naar een functie waaraan een lagere rang is verbonden;
 
