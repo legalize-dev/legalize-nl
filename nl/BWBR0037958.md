@@ -4,7 +4,7 @@ identifier: "BWBR0037958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037958"
 soort: "ministeriele-regeling"
@@ -50,7 +50,9 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Tabakswet (implementat
 
 - **besluit:** [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160);
 
-- **bijlage:** bijlage bij de Tabaks- en rookwarenregeling;
+- **bijlage 1:** [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=1&z=2025-04-01&g=2025-04-01) bij de Tabaks- en rookwarenregeling;
+
+- **bijlage 2:** [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=2&z=2025-04-01&g=2025-04-01) bij de Tabaks- en rookwarenregeling;
 
 - **common entry gate:** een gemeenschappelijk Europees portaal voor het verstrekken van gegevens en bescheiden over tabaksproducten en aanverwante producten;
 
@@ -106,7 +108,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Tabakswet (implementat
 
 1. Als methode van onderzoek die bij uitsluiting beslissend zijn voor de vaststelling of een sjekkie voldoet aan de eisen van [artikel 2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.1), worden aangewezen de metingen volgens de normen:
 
-- a. NEN-ISO 15592-3:2009 ‘Fine-cut tobacco’ en rookartikelen gemaakt van shagtabak – Methode van monsterneming, conditionering en analyse – Deel 3: Bepaling van het totale gehalte aan rookcondensaat bij gebruik van een rookmachine voor routinematig analytisch onderzoek, voorbereiding voor de bepaling van water en nicotine, en de berekening van nicotinevrij rookcondensaat, voor het emissieniveau van teer, gemeten met behulp van een sjekkie met 750 mg tabak, waarbij, in afwijking van Annex B, tabel B.1, een standaard type papier wordt gebruikt als bedoeld in het tweede lid. Voor de hoeveelheid te gebruiken volumetabak per sjekkie, wordt de meetmethode gebruikt zoals in de bijlage bij deze regeling staat beschreven;
+- a. NEN-ISO 15592-3:2009 ‘Fine-cut tobacco’ en rookartikelen gemaakt van shagtabak – Methode van monsterneming, conditionering en analyse – Deel 3: Bepaling van het totale gehalte aan rookcondensaat bij gebruik van een rookmachine voor routinematig analytisch onderzoek, voorbereiding voor de bepaling van water en nicotine, en de berekening van nicotinevrij rookcondensaat, voor het emissieniveau van teer, gemeten met behulp van een sjekkie met 750 mg tabak, waarbij, in afwijking van Annex B, tabel B.1, een standaard type papier wordt gebruikt als bedoeld in het tweede lid. Voor de hoeveelheid te gebruiken volumetabak per sjekkie, wordt de meetmethode gebruikt zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=1&z=2025-04-01&g=2025-04-01) staat beschreven;
 
 - b. NEN-ISO 10315: 2014 (Cor.2014-11) Sigaretten – Bepaling van het gehalte aan nicotine in rookcondensaten – Gaschromatografische methode, voor het emissieniveau van nicotine, gemeten met behulp van een sjekkie met 750 mg tabak, waarbij een standaard type papier wordt gebruikt als bedoeld in het tweede lid;
 
@@ -145,9 +147,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.4
 
-1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2025-01-01&g=2025-01-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.617,24 per merk en type sigaret.
+1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2025-04-01&g=2025-04-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.617,24 per merk en type sigaret.
 
-2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2025-01-01&g=2025-01-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.738,84 per merk en type shagtabak.
+2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2025-04-01&g=2025-04-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.738,84 per merk en type shagtabak.
 
 ##### Artikel 2.5
 
@@ -161,9 +163,11 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 2. Tabaksproducten die in de handel worden gebracht voldoen aan artikel 7, zesde lid, van de tabaksproductenrichtlijn.
 
+3. Onder additieven als bedoeld in het eerste lid en in artikel 7, zesde lid, van de tabaksproductenrichtlijn worden in ieder geval begrepen de additieven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=2&z=2025-04-01&g=2025-04-01), met uitzondering van de in onderdeel 2, onder g, van bijlage 2 opgenomen suikers.
+
 ##### Artikel 2.7
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2025-04-01&g=2025-04-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
 
 ##### Artikel 2.8
 
@@ -183,7 +187,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.10
 
-Nicotinehoudende vloeistof wordt slechts in de handel gebracht indien het voldoet aan artikel 20, derde lid, onder a tot en met e, van de tabaksproductenrichtlijn.
+1. Nicotinehoudende vloeistof wordt slechts in de handel gebracht indien het voldoet aan artikel 20, derde lid, onder a tot en met e, van de tabaksproductenrichtlijn.
+
+2. Onder additieven als bedoeld in artikel 20, derde lid, onder c, gelezen in samenhang met artikel 7, zesde lid, van de tabaksproductenrichtlijn worden in ieder geval begrepen de additieven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=2&z=2025-04-01&g=2025-04-01).
 
 #### § 3. Verpakkingseisen
 
@@ -195,7 +201,7 @@ De etikettering van een verpakkingseenheid of buitenverpakking van een tabakspro
 
 1. Een gezondheidswaarschuwing op een verpakkingseenheid en een buitenverpakking van tabaksproducten die in de handel worden gebracht voldoen aan artikel 8, eerste tot en met vierde lid, van de tabaksproductenrichtlijn.
 
-2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2025-01-01&g=2025-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2025-01-01&g=2025-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2025-01-01&g=2025-01-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2025-01-01&g=2025-01-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
+2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2025-04-01&g=2025-04-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2025-04-01&g=2025-04-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2025-04-01&g=2025-04-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
 
 3. Een gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van een tabaksproduct wordt omgeven door een 1 mm brede zwarte rand, binnen de voor deze gezondheidswaarschuwing bestemde oppervlakte. Deze eis geldt niet voor de gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2).
 
@@ -385,7 +391,7 @@ Een verpakkingseenheid en een buitenverpakking van een rookloos tabaksproduct vo
 
 2. Het eerste lid, onder a, c, d en f is van overeenkomstige toepassing op elektronische sigaretten zonder nicotine, navulverpakkingen zonder nicotine en patronen zonder nicotine.
 
-3. Een bijsluiter van nicotinehoudende en niet-nicotinehoudende vloeistoffen en van andere onderdelen van elektronische dampwaar bevat geen aanduiding van andere dan de in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.12&z=2025-01-01&g=2025-01-01) aangewezen smaakbepalende additieven en geen aanduiding die verwijst naar een smaak anders dan tabak.
+3. Een bijsluiter van nicotinehoudende en niet-nicotinehoudende vloeistoffen en van andere onderdelen van elektronische dampwaar bevat geen aanduiding van andere dan de in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.12&z=2025-04-01&g=2025-04-01) aangewezen smaakbepalende additieven en geen aanduiding die verwijst naar een smaak anders dan tabak.
 
 ##### Artikel 3.10
 
@@ -407,7 +413,7 @@ Een verpakkingseenheid en een buitenverpakking van een rookloos tabaksproduct vo
 
 - e. de suggestie wekt dat een bepaald product biologisch beter afbreekbaar is of andere milieuvoordelen heeft.
 
-5. Een verpakkingseenheid en een buitenverpakking van nicotinehoudende en niet-nicotinehoudende vloeistoffen en van andere onderdelen van elektronische dampwaar bevatten geen aanduiding van andere dan de in de [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.12&z=2025-01-01&g=2025-01-01) aangewezen smaakbepalende additieven.
+5. Een verpakkingseenheid en een buitenverpakking van nicotinehoudende en niet-nicotinehoudende vloeistoffen en van andere onderdelen van elektronische dampwaar bevatten geen aanduiding van andere dan de in de [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.12&z=2025-04-01&g=2025-04-01) aangewezen smaakbepalende additieven.
 
 ##### Artikel 3.11
 
@@ -457,9 +463,9 @@ De kennisgeving, bedoeld in [artikel 4.1 van het besluit](https://wetten.overhei
 
 ##### Artikel 4.4
 
-1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2025-01-01&g=2025-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2025-01-01&g=2025-01-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
+1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2025-04-01&g=2025-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2025-04-01&g=2025-04-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2025-04-01&g=2025-04-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
 
-2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2025-01-01&g=2025-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2025-01-01&g=2025-01-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
+2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2025-04-01&g=2025-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2025-04-01&g=2025-04-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2025-04-01&g=2025-04-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
 
 ##### Artikel 4.5
 
@@ -511,7 +517,7 @@ Vervallen
 
 1. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van tabaksproducten die gericht zijn op consumenten in de Europese Economische Ruimte worden zodanig weergegeven dat de tekst van de grootste gezondheidswaarschuwing duidelijk zichtbaar is.
 
-2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2025-01-01&g=2025-01-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
+2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2025-04-01&g=2025-04-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
 
 3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een uitgezonderde speciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
 
@@ -535,7 +541,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 7.3
 
-1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2025-01-01&g=2025-01-01), van deze regeling.
+1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2025-04-01&g=2025-04-01), van deze regeling.
 
 2. Een verpakkingseenheid of buitenverpakking van sigaretten of shagtabak die voldoet aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 30 september 2020 en die is geproduceerd of in het vrije verkeer is gebracht voor 1 oktober 2020, mag tot 1 oktober 2021 in de handel worden gebracht.
 
@@ -547,7 +553,7 @@ De volgende regelingen worden ingetrokken:
 
 - a. deze producten geproduceerd zijn of in het vrije verkeer zijn gebracht vóór 1 juli 2023; en
 
-- b. waarvoor uiterlijk op de dag van uitgifte van de Staatscourant waarin de regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 november 2022, houdende wijziging van de Tabaks- en rookwarenregeling ter regulering van smaken van e-sigaretten (Stcrt. 2022, .... Stcrt. 2022/32367) wordt geplaatst, een kennisgeving als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.6&z=2025-01-01&g=2025-01-01) van het besluit door middel van het common entry gate is geschied.
+- b. waarvoor uiterlijk op de dag van uitgifte van de Staatscourant waarin de regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 november 2022, houdende wijziging van de Tabaks- en rookwarenregeling ter regulering van smaken van e-sigaretten (Stcrt. 2022, .... Stcrt. 2022/32367) wordt geplaatst, een kennisgeving als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.6&z=2025-04-01&g=2025-04-01) van het besluit door middel van het common entry gate is geschied.
 
 ##### Artikel 7.4
 
@@ -565,9 +571,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Niet-nicotinehoudende vloeistof bevat geen additieven die zijn genoemd in artikel 7, zesde lid, onderdelen a tot en met c en onderdeel e, van de tabaksproductenrichtlijn.
 
-3. Bij de productie van niet-nicotinehoudende vloeistof worden uitsluitend zuivere ingrediënten gebruikt. Van andere stoffen dan de ingrediënten die noodzakelijk zijn voor de productie van de niet-nicotinehoudende vloeistof, zijn in de niet-nicotinehoudende vloeistof alleen sporen aanwezig indien deze sporen bij de productie technisch onvermijdelijk zijn.
+3. Onder additieven als bedoeld in het tweede lid, worden in ieder geval begrepen de additieven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&bijlage=2&z=2025-04-01&g=2025-04-01).
 
-4. In niet-nicotinehoudende vloeistof worden uitsluitend ingrediënten gebruikt die, zowel in verhitte als in onverhitte toestand, ongevaarlijk zijn voor de gezondheid van de mens.
+4. Bij de productie van niet-nicotinehoudende vloeistof worden uitsluitend zuivere ingrediënten gebruikt. Van andere stoffen dan de ingrediënten die noodzakelijk zijn voor de productie van de niet-nicotinehoudende vloeistof, zijn in de niet-nicotinehoudende vloeistof alleen sporen aanwezig indien deze sporen bij de productie technisch onvermijdelijk zijn.
+
+5. In niet-nicotinehoudende vloeistof worden uitsluitend ingrediënten gebruikt die, zowel in verhitte als in onverhitte toestand, ongevaarlijk zijn voor de gezondheid van de mens.
 
 #### § 3. Verpakkingseisen
 
@@ -585,7 +593,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevat geen vermeldingen of andere elementen die verwijzen naar een bepaald thema of waaruit blijkt dat er sprake is van een gelimiteerde editie.
 
-4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2025-01-01&g=2025-01-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
+4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2025-04-01&g=2025-04-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
 
 5. Een verpakkingseenheid van voor roken bestemde tabaksproducten met uitzondering van sigaren bevat uitsluitend die producten en, indien van toepassing onbedrukt foliepapier dat de producten omhult om de versheid te bewaren.
 
@@ -831,7 +839,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.7a
 
-1. In aanvulling op [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.7&z=2025-01-01&g=2025-01-01), worden sigaretten slechts in de handel gebracht indien voldaan wordt aan de volgende eisen:
+1. In aanvulling op [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.7&z=2025-04-01&g=2025-04-01), worden sigaretten slechts in de handel gebracht indien voldaan wordt aan de volgende eisen:
 
 - a. de lengte van de sigaret met filter is minimaal 80 en maximaal 85 millimeter en lengte van de sigaret zonder filter is minimaal 65 en maximaal 70 millimeter;
 
@@ -940,9 +948,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 7. Slotbepalingen
 
-## Bijlage. bij de Tabaks- en rookwarenregeling
+## Bijlage 1. behorende bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2025-04-01&g=2025-04-01)
 
-Bijlage als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2025-01-01&g=2025-01-01), bevattende de meetmethode voor volumetabak genoemd in artikel 2.2, eerste lid, onderdeel a.
+Bijlage als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2025-04-01&g=2025-04-01), bevattende de meetmethode voor volumetabak genoemd in artikel 2.2, eerste lid, onderdeel a.
 
 Voor het vaststellen van de te gebruiken hoeveelheid volumetabak wordt 10 ± 1 gram geconditioneerde shag (volgens ISO 15592-2) in een kunststof maatcilinder van 250 ml afgewogen en belast met een metalen staaf van 1.875 ± 5 gram met een diameter van 37,3 ± 0,5 mm. Dit wordt ook gedaan met de meest recente referentie-shagtabak (EMT), die bekend is bij producenten en laboratoria. Hierdoor kan de toename in het volume worden vastgesteld ten opzichte van de meest recente referentie-shag. Na 5 ± 0,2 minuten wordt het volume afgelezen, zonder de metalen staaf te verwijderen. De te gebruiken maatcilinder heeft een interne diameter die maximaal 1,0 mm groter is dan de te gebruiken metalen staaf en een schaalverdeling met op minimaal elke 2 ml een markering. Het exacte gewicht in mg dat gebruikt mag worden voor volumetabak (in de formule hierna aangegeven als: correctie gewicht tabak), wordt als volgt berekend:
 
@@ -971,5 +979,158 @@ In deze formule wordt het correctiegewicht van de gemeten EMT (de waarde boven d
 | 201% | 210% | 370 |
 | 211% | 220% | 350 |
 | 221% | 230% | 330 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.6&z=2025-04-01&g=2025-04-01), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.10&z=2025-04-01&g=2025-04-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.11&z=2025-04-01&g=2025-04-01)
+
+| Stof(groep) | CAS nummer(s) | Artikel tabaksproductenrichtlijn |
+| --- | --- | --- |
+| Tabaksproducten en e-sigaretten (Tabaksproductenrichtlijn artikelen 7.6a-e) | Tabaksproducten en e-sigaretten (Tabaksproductenrichtlijn artikelen 7.6a-e) | Tabaksproducten en e-sigaretten (Tabaksproductenrichtlijn artikelen 7.6a-e) |
+| **1. Vitamines of additieven die gezondheidsbevordering suggereren** **(Vitamins or the following other additives, which are suggestive of health benefits or less health risks of the tobacco product)** | **7.6a** | **7.6a** |
+| **a) Vitamines (vitamins** | Niet van toepassing | 7.6a |
+| Alpha-vitamine E (alpha-vitamin E) | 59-02-9 | 7.6.a |
+| Vitamine E (mengsel van tocoferolen en tocotrienolen) (Vitamin E, mixture of tocopherols and tocotrienols) | 1406-18-4 | 7.6.a |
+| Vitamine C, ascorbinezuur (Vitamin C, ascorbic acid) | 50-81-7 | 7.6.a |
+| Vitamine A (Vitamin A) | 68-26-8 | 7.6.a |
+| Vitamine D3 (Vitamin D3) | 67-97-0 | 7.6.a |
+| Vitamine K (Vitamin K) | 12001-79-5 | 7.6.a |
+| Vitamine B1 (Vitamin B1) | 59-43-8 | 7.6.a |
+| Vitamine B2 (Vitamin B2) | 83-88-5 | 7.6.a |
+| Niacine (Niacin) | 59-67-6 | 7.6.a |
+| Pantotheenzuur (Pantothenic acid) | 79-83-4 | 7.6.a |
+| Vitamine B6 (Vitamin B6) | 65-23-6 | 7.6.a |
+| Foliumzuur (Folic acid) | 59-30-3 | 7.6.a |
+| Vitamine B12 (Vitamin B12) | 68-19-9 | 7.6.a |
+| Biotine (Biotin) | 58-85-5 | 7.6.a |
+| **b) Aminozuren of gemodificeerde aminozuren** **(Amino acids or modified amino acids)** | Niet van toepassing | 7.6.a |
+| L-Alanine | 56-41-7 | 7.6.a |
+| L-Arginine | 74-79-3 | 7.6.a |
+| Glycine (Glycin) | 56-40-6 | 7.6.a |
+| L-isoleucine | 443-79-8 | 7.6.a |
+| L-leucine | 61-90-5 | 7.6.a |
+| L-lysine | 56-87-1 | 7.6.a |
+| Monohydraat (monohydrate) | 39665-12-8 | 7.6.a |
+| HCl | 657-27-2 | 7.6.a |
+| L-fenylalanine (phenylalanine) | 63-91-2 | 7.6.a |
+| L-proline | 147-85-3 | 7.6.a |
+| L-serine | 56-45-1 | 7.6.a |
+| L-threonine | 72-19-5 | 7.6.a |
+| L-tyrosine | 60-18-4 | 7.6.a |
+| rL-valine | 72-18-4 | 7.6.a |
+| L-cysteïne (cysteine) | 52-89-1 | 7.6.a |
+| L-5-hydroxytryptofaan (L-5-hydroxytryptophan) | 4350-09-8 | 7.6.a |
+| S-adenosyl-methionine (SAM) | 485-80-3 | 7.6.a |
+| Carnitine totaal1,2(Carnitin, total) | Niet van toepassing | 7.6.a |
+| L-Carnitine1,2 | 541-15-1 | 7.6.a |
+| L-Carnitine HCl | 6645-46-1 | 7.6.a |
+| L-Carnitine-L-tartraat (-tartrate) | 36687-82-8 | 7.6.a |
+| **c) Flavonoïden en anti-oxidatieve fosfolipiden (Flavonoids as well as antioxidative active phosholipids)** | Niet van toepassing | 7.6.a |
+| Naringine (naringin) | 10236-47-2 | 7.6.a |
+| **d) Natriumseleniet (Sodium selenite)** | 10102-18-8 | 7.6.a |
+| **2. Cafeïne, taurine of de volgende additieven en stimulerende mengsels die geassocieerd kunnen worden met energie en vitaliteit (Coffeine, taurine or the following other additives and stimulating additives and stimulating mixtures, associated with energy and vitatility)** | **7.6b** | **7.6b** |
+| **a) Cafeïne (caffeine)** | 58-08-2 | 7.6.b |
+| **b) Taurine** | 107-35-7 | 7.6.b |
+| **c) Maltodextrine (maltodextrin)** | 9050-36-6 | 7.6.b |
+| **d) Ingrediënten, waaronder verwerkte ingrediënten, extracten en oliën van de koffieplant en koffieboon (Ingredients including processed ingredients, extracts and oils of the coffee plant and coffee bean)** | Niet van toepassing | 7.6.b |
+| Koffieboon oliën (coffee bean oils) | 8001-67-0 | 7.6.b |
+| Koffie extract (coffee extract) | 84650-00-0 | 7.6.b |
+| Extract van de geroosterde koffieboon (coffee bean, roasted, extract) | 68916-18-7 | 7.6.b |
+| Koffie, vast extract / French roast (coffee, solid extract) | 327-97-9 | 7.6.b |
+| Koffie furanon (coffee furanone) | 3188-00-9 | 7.6.b |
+| Koffie (coffee) | 13708-12-8 | 7.6.b |
+| **e) Ingrediënten, waaronder verwerkte ingrediënten, extracten en oliën van de theeplant **Camelia sinensis** (Ingredients including processed ingredients, extracts and oils of the tea plant **Camelia sinensis L. Kuntze**)** | Niet van toepassing | 7.6.b |
+| Thee extract (tea extract) | 144207-58-9 | 7.6.b |
+| **f) Ingrediënten, waaronder verwerkte ingrediënten, extracten en oliën van Guaraná / **Paullinia cupana** (Ingredients including processed ingredients, extracts and oils of the guarana plant)** | Niet van toepassing | 7.6.b |
+| **g) Ingrediënten, waaronder verwerkte ingrediënten, extracten en oliën van de matéplant / **Ilex paraguayensis** (Ingredients including processed ingredients, extracts and oils of the Yerba mate plant)** | Niet van toepassing | 7.6.b |
+| Maté oliën (Yerba mate oils) | 68916-96-1 | 7.6.b |
+| Maté extract (Yerba mate extract) | 73296-98-7 | 7.6.b |
+| **f) Thujon (Thujone)** | 546-80-5 | 7.6.b |
+| **g) Suikers, waaronder monosacchariden als glucose, fructose en galactose en suikersiropen (sugars including glucose, fructose and galactose and sugar-based syrups)** | Niet van toepassing | 7.6.b |
+| D-Fructose | 57-48-7 | 7.6.b |
+| D-Glucose | 50-99-7 | 7.6.b |
+| monohydraat (monohydrate) | 5996-10-1 | 7.6.b |
+| Invertsuiker (invert sugar) | 8013-17-0 | 7.6.b |
+| Sucrose | 57-50-1 | 7.6.b |
+| Glucosestroop (syrups, hydrolyzed starch) | 8029-43-4 | 7.6.b |
+| **3. Additieven met de eigenschap om emissies te kleuren (Additives with colouring properties for the emissions)** | **7.6.c** | **7.6.c** |
+| **4. Additieven die de inhalatie faciliteren of de nicotineopname bevorderen (Following additives in smoking tobacco which facilitate inhalation or nicotine uptake)** | **7.6.d** | **7.6.d** |
+| a) TRPM8 receptor agonisten (TRPM8 receptor agonists) | Niet van toepassing | 7.6d |
+| p-Menthan 3-gesubstitueerde en bewerkte stoffen, waaronder | Niet van toepassing | 7.6.d |
+| p-menthan 3-carboxamiden, waaronder p-menthan 3-N-alkylcarboxamiden | Niet van toepassing | 7.6.d |
+| N-Ethyl-p-menthane-3-carboxamide (WS-3) | 39711-79-0 | 7.6.d |
+| N-((Ethoxycarbonyl)methyl)-p-menthane-3-carboxamide (WS-5) | 68489-14-5 | 7.6.d |
+| (1R,2S,5R)-N-(4-methoxphenyl)-p-menthanecarboxamide (WS-12, CPS 112) | 68489-09-8 | 7.6.d |
+| N-tert-butyl-p-menthane-3-carboxamide (WS-14) | onbekend | 7.6.d |
+| N-(4-fluorophenyl)-p-menthane-3-carboxamide (CPS-124) | onbekend | 7.6.d |
+| CPS-125 | onbekend | 7.6.d |
+| N-(4-ethoxyphenyl)-p-menthane-3-carboxamide (CPS-128) | onbekend | 7.6.d |
+| CPS-368 | onbekend | 7.6.d |
+| (-)-menthyl lactaat (-lactate) | 59259-38-0 | 7.6.d |
+| (-)-menthyl lactaat (-lactate) | 61597-98-6 | 7.6.d |
+| (-)-menthyl lactaat (-lactate) | 17162-29-7 | 7.6.d |
+| N-(p-menthane-3-carbonyl)-D-alanine ethyl ester (WS-109, CPS-369) | onbekend | 7.6.d |
+| 2,3-dihydroxypropyl, p-menthane-3-carboxylaat (-carboxylate) (WS-30) | 912452-14-3, 38706-03-5 | 7.6.d |
+| Menthoxypropane-1,2-diol (MPD, Coolact-10) | 207792-35-6, 87061-04-9 | 7.6.d |
+| menthon 1,2-glycerol ketal | 563187-91-7 | 7.6.d |
+| p-menthan alcoholen en geassocieerde esters (p-Menthan alcohols and associated esters) |   | 7.6.d |
+| Icilin | 36945-98-9 | 7.6.d |
+| Trimethyl isopropyl butanamide (WS-23) | 51115-67-4 | 7.6.d |
+| Isopulegol totaal (isopulegol, total) | Niet van toepassing | 7.6d |
+| Isopulegol | 7786-67-6 | 7.6.d |
+| Isopulegol (Coolact P) | 89-79-2 | 7.6.d |
+| 1-(di-sec-butyl-phosphoinoyl)-heptane (WS-148, CPS-148) | onbekend | 7.6.d |
+| Menthol | 1490-04-6 | 7.6.d |
+| Menthol | 89-78-1 | 7.6.d |
+| (-)-Menthol | 2216-51-5 | 7.6.d |
+| (+)-Menthol | 15356-60-2 | 7.6.d |
+| Menthon (menthone) | 89-80-5 | 7.6.d |
+| Menthon (menthone) | 10458-14-7 | 7.6.d |
+| Menthon (menthone) | 491-07-6 | 7.6.d |
+| (-)-Menthon ((-)-menthone) | 14073-97-3 | 7.6.d |
+| (+)-Menthon ((+)-menthone) | 3391-87-5 | 7.6.d |
+| L-Carvon (L-carvone) | 6485-40-1 | 7.6.d |
+| L-Carvon (L-carvone) | 99-49-0 | 7.6.d |
+| Geraniol | 106-24-1 | 7.6.d |
+| Linalool | 78-70-6 | 7.6.d |
+| 1,8-Cineol, eucalyptol (1,8-cineole) | 470-82-6 | 7.6.d |
+| 1,4-Cineol (1,4-cineole) | 470-67-7 | 7.6.d |
+| Hydroxycitronellal | 107-75-5 | 7.6.d |
+| **b) De volgende stoffen verkregen uit planten: Oliën en ingrediënten bereid uit planten uit de volgende genera: Munt, Eucalyptus, Basilicum, Tijm en Salie (Following compounds prepared from plants: Oils and ingredients prepared from plants of the following genera, **Mentha, Eucalyptus, Ocimum basilicum, Thymus** and **Salvia**)** | Niet van toepassing | 7.6.d |
+| **Mentha arvensis**extract | 90063-97-1 | 7.6.d |
+| **Mentha arvensis** olie (-oil) | 68917-18-0 | 7.6.d |
+| **Mentha arvensis** **piperascens** extract | 91722-84-8 | 7.6.d |
+| **Mentha piperita** olie (-oil) | 8006-90-4 | 7.6.d |
+| **Mentha piperita** olie (-oil) | 84082-70-2 | 7.6.d |
+| **Mentha pulegium** | 8007-44-1 | 7.6.d |
+| **Mentha viridis** olie (-oil) | 8008-79-5 | 7.6.d |
+| **Eucalyptus globulus** blad olie (-leaf oil) | 8000-48-4 | 7.6.d |
+| **Eucalyptus globulus** olie (-oil) | 84625-32-1 | 7.6.d |
+| **Eucalyptus radiata** olie (-oil) | 92201-64-4 | 7.6.d |
+| **Ocimum basilicum**/basilicum kruid (Basil herb) | 8015-73-4 | 7.6.d |
+| Tijm (thyme) | 8007-46-3 | 7.6.d |
+| Thymol | 89-83-8 | 7.6.d |
+| **Salvia sclarea** olie (-oil) | 8016-63-5 | 7.6.d |
+| **Salvia sclarea** extract | 84775-83-7 | 7.6.d |
+| **Salvia lavandulifolia** extract | 90106-49-3 | 7.6.d |
+| **5. De volgende additieven met CMR eigenschappen in onverbrande vorm: (Following additives with CMR properties in unburned form)** | 7.6e | 7.6e |
+| **a) Stoffen geclassificeerd volgens deel 3 van bijlage VI van verordening (EG) 1272/2008 als CMR categorie 1A, 1B of 2 (Compounds classified according to part 3 of annex VI of regulation (EC) 1272/2008 as CMR category 1A, 1B or 2)** | 7.6.e | 0.00 |
+| **b) De volgende overige stoffen: (following other compounds)** |   |   |
+| Berkenteerolie, totaal (birch tar oil, total) | Niet van toepassing | 7.6.e |
+| Berkenteerolie (Birch tar oil) | 8001-88-5 | 7.6.e |
+| Berkenteerolie (Birch tar oil) | 85940-29-0 | 7.6.e |
+| Jeneverbesteer (Juniper tar) | 8013-10-3 | 7.6.e |
+| **Sassafras** olie (-oil) | 8006-80-2 | 7.6.e |
+| **Sassafras** hout (-wood) | onbekend | 7.6.e |
+| **Sassafras** bladeren (-leaves) | onbekend | 7.6.e |
+| **Sassafras** bast (-bark) | 84787-72-4 | 7.6.e |
+| Methyleugenol | 93-15-2 | 7.6.e |
+| Estragol (estragole) | 140-67-0 | 7.6.e |
+| Propylparabeen (polyparabeen)1 | 94-13-3 | 7.6.e |
+| Titanium dioxide, totaal (total) | Niet van toepassing | 7.6.e |
+| Titanium dioxide | 1317-70-0 | 7.6.e |
+| Titanium dioxide | 1317-80-2 | 7.6.e |
+| Titanium dioxide | 13463-67-7 | 7.6.e |
+| Titanium dioxide | 51745-87-0 | 7.6.e |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
