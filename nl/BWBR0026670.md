@@ -4,7 +4,7 @@ identifier: "BWBR0026670"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2022-05-11"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026670"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **aantal te werken uren per jaar:** het aantal te werken uren per jaar zoals vastgesteld op grond van [artikel 12, vierde tot en met zevende lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12);
 
-- c. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, onder i, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
+- c. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 1. Indien de ambtenaar in een kalenderjaar meer uren dienst heeft verricht dan het aantal te werken uren per jaar, wordt het verschil met een maximum van negen meer gewerkte uren zichtbaar in mindering gebracht op zijn jaarwerkplan van het daaropvolgende kalenderjaar.
 
-2. Indien het aantal meer gewerkte uren hoger is dan negen, wordt voor het aantal boven de negen een vergoeding per uur toegekend gelijk aan het salaris per uur, bedoeld in [artikel 1, eerste lid, onderdeel n, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), vermeerderd met een toeslag in geld bij overwerk als bedoeld in [artikel 27, achtste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27).
+2. Indien het aantal meer gewerkte uren hoger is dan negen, wordt voor het aantal boven de negen een vergoeding per uur toegekend gelijk aan het salaris per uur, bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), vermeerderd met een toeslag in geld bij overwerk als bedoeld in [artikel 27, achtste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27).
 
 3. Het eerste en tweede lid zijn alleen van toepassing op de ambtenaar met een functie waarvoor salarisschaal 12 of lager van [bijlage I van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I) geldt.
 
