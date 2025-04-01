@@ -4,7 +4,7 @@ identifier: "BWBR0030672"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2020-06-30"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030672"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **operationele toelage:** de toelage, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14);
 
-- d. **bezoldiging:** bezoldiging als bedoeld in [artikel 1, eerste lid, onderdeel v van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- d. **bezoldiging:** bezoldiging als bedoeld in [artikel 1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
 - e. **aflopende toelage:** aflopende toelage als bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15) als gevolg van een blijvende of tijdelijke verlaging van de bezoldiging;
 
@@ -76,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De blijvende toelage bedraagt 100% van de berekeningsbasis die voor de desbetreffende vierweekse periode dan wel vierweekse perioden van toepassing is. In afwijking van de eerste zin blijft, bij overgang van de aflopende toelage in de blijvende toelage, bedoeld in [artikel 15, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), laatstgenoemde toelage bepaald op het percentage van de berekeningsbasis dat voor de berekening van de aflopende toelage, ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2020-06-30&g=2020-06-30), laatstelijk voor hem van toepassing was.
+De blijvende toelage bedraagt 100% van de berekeningsbasis die voor de desbetreffende vierweekse periode dan wel vierweekse perioden van toepassing is. In afwijking van de eerste zin blijft, bij overgang van de aflopende toelage in de blijvende toelage, bedoeld in [artikel 15, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), laatstgenoemde toelage bepaald op het percentage van de berekeningsbasis dat voor de berekening van de aflopende toelage, ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2025-04-01&g=2025-04-01), laatstelijk voor hem van toepassing was.
 
 ##### Artikel 4
 
-De toelagen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2020-06-30&g=2020-06-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2020-06-30&g=2020-06-30), worden per vierweekse periode verminderd met de in deze vierweekse periode ontvangen operationele toelage waarop de betrokken ambtenaar tijdens het tijdvak aanspraak heeft.
+De toelagen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2025-04-01&g=2025-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2025-04-01&g=2025-04-01), worden per vierweekse periode verminderd met de in deze vierweekse periode ontvangen operationele toelage waarop de betrokken ambtenaar tijdens het tijdvak aanspraak heeft.
 
 ##### Artikel 5
 
