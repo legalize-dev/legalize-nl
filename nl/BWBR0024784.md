@@ -4,7 +4,7 @@ identifier: "BWBR0024784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-10-11"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024784"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegd gezag:** bevoegd gezag genoemd in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. **bevoegd gezag:** bevoegd gezag genoemd in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **ambtenaar:** ambtenaar genoemd in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- b. **ambtenaar:** ambtenaar genoemd in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - c. **schade:** de waardevermindering van persoonlijk eigendom als gevolg van beschadiging of verlies;
 
