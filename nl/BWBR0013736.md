@@ -4,7 +4,7 @@ identifier: "BWBR0013736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-08"
-last_updated: "2024-09-28"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013736"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Besluit:
 
 3. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van [Verordening (EG) 2580/2001](32001R2580) is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-4. De bevoegde autoriteit, bedoeld in de artikelen 4 en 5 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 4 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+4. De bevoegde autoriteit, bedoeld in de artikelen 4 en 5 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j en, voor zover het een bank of elektronischgeldinstelling betreft die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d, k en, voor zover het een andere instelling betreft dan een bank of elektronischgeldinstelling die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977 de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 4 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 5. De bevoegde autoriteit, bedoeld in artikel 6, eerste lid, tweede lid, vierde lid en vijfde lid, van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingshulp elk voor het gebied waartoe hun competentie zich uitstrekt.
 
