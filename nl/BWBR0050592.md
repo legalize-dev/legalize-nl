@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-03-22"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -110,6 +110,9 @@ Besluiten:
 |   | [4.7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Elektrolyse-installaties |   |   | 01-10-2024 t/m 31-01-2025 | € 100.000.000 |
 |   | [4.7.3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Essentiële onderdelen voor de zonnepanelen, genoemd in [artikel 4.7.3, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3), namelijk heterojunctionzonnecellen, perovskietfolies, perovskietzonnecellen of tandemzonnecellen |   |   | 02-12-2024 t/m 31-01-2025 | € 28.000.000 |
 | [Titel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.11): Beperking ammoniakemissie bij industriële piekbelasters | [4.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.11.2) |   |   |   | 02-12-2024 t/m 29-01-2025 | € 54.000.000 |
+| [Titel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.12): Flexibel elektriciteitsverbruik (Flex-e) | [4.12.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsscan | Flexibiliteitsscan | 01-04-2025 t/m 15-10-2025 | € 13.555.500 |
+|   | [4.12.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 10.000.000 |
+|   | [4.12.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsmaatregelen | Flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 6.750.000 |
 
 ##### Artikel 2. Rentepercentages [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
@@ -123,17 +126,18 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 
 ##### Artikel 3. Openstelling Regeling Europese EZK- en LNV-subsidies 2021
 
-1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de Regeling Europese EZK- en LNV-subsidies 2021 en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
 
 2. Als subsidieplafond wordt per in kolom 5 genoemde periode het daarbij behorende in kolom 6 genoemde bedrag vastgesteld.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
-| Titel 5.4: Interventietypes in de sector bijenteelt | 5.4.2 |   |   | 01-12-2024 t/m 01-02-2025 | € 1.180.688 |
-| Titel 5.5: Brede weersverzekering | 5.5.2 |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
-| Titel 5.6: Samenwerken aan innovatie door operationele groepen in het kader van EIP | 5.6.2, eerste lid en zesde lid, onderdeel a |   | a. Het behouden en aantrekken van jonge landbouwers om te kiezen voor het agrarisch ondernemerschap. | 24-03-2025 t/m 26-05-2025 | € 490.000 |
-|   | 5.6.2, eerste lid en zesde lid, onderdeel b |   | b. Het minder toepassen van het verwijderen van een deel van de staart bij biggen in de varkenshouderij | 19-02-2025 t/m 02-04-2025 | € 1.780.990,39 |
+| [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.180.688 |
+| [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
+| [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, eerste lid en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | a. Het behouden en aantrekken van jonge landbouwers om te kiezen voor het agrarisch ondernemerschap. | 24-03-2025 t/m 26-05-2025 | € 490.000 |
+|   | [5.6.2, eerste lid en zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | b. Het minder toepassen van het verwijderen van een deel van de staart bij biggen in de varkenshouderij | 19-02-2025 t/m 02-04-2025 | € 1.780.990,39 |
+| [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) |   | Vestigen van landbouwbedrijf door jonge landbouwer met actueel bedrijfsplan | 28-04-2025 tot en met 27-06-2025 | € 47.360.000 |
 
 ##### Artikel 4. Intrekken Regelingen
 
