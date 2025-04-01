@@ -4,7 +4,7 @@ identifier: "BWBR0014687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014687"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Nadat de betrokkene buitengewoon verlof is verleend met behoud van bezoldiging besluit de Minister van Veiligheid en Justitie tot beschikbaarstelling.
+1. Nadat de betrokkene buitengewoon verlof is verleend met behoud van bezoldiging besluit de Minister van Justitie en Veiligheid tot beschikbaarstelling.
 
 De bezoldiging tijdens het buitengewoon verlof wordt berekend naar een arbeidstijd van gemiddeld 38 uur per week, tenzij in het desbetreffende kalenderjaar een langere gemiddelde arbeidstijd geldt voor de betrokkene. In dat geval blijft de bezoldiging ongewijzigd.
 
@@ -83,7 +83,7 @@ Het Rijk vergoedt aan de politie, bedoeld in [artikel 1, eerste lid, onderdeel b
 
 1. De aanspraak van de betrokkene op de overige voorzieningen ingevolge deze regeling vangt aan op de dag van vertrek vanuit Nederland naar het missiegebied.
 
-2. De aanspraak van de betrokkene op voorzieningen ingevolge deze regeling eindigt op de dag van terugkeer in Nederland vanuit het missiegebied, behoudens de periode van recuperatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=10&z=2013-01-01&g=2013-01-01), en behoudens de aanspraken, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=11&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=16&z=2013-01-01&g=2013-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=17&z=2013-01-01&g=2013-01-01).
+2. De aanspraak van de betrokkene op voorzieningen ingevolge deze regeling eindigt op de dag van terugkeer in Nederland vanuit het missiegebied, behoudens de periode van recuperatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=10&z=2025-04-01&g=2025-04-01), en behoudens de aanspraken, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=11&z=2025-04-01&g=2025-04-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=17&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 6
 
@@ -101,7 +101,7 @@ Indien de betrokkene uit anderen hoofde aanspraak heeft op overeenkomstige voorz
 
 - b. een tegemoetkoming in de onkosten ten bedrage van € 27,21, indien geen aanspraak bestaat op een volledige dagvergoeding inclusief huisvesting, voeding en overige onkosten van derden.
 
-2. Indien om redenen verband houdend met de inzet, geen gebruik kan worden gemaakt van van Rijkswege verstrekte huisvesting of voeding en hierin ook niet door de volkenrechtelijke organisatie of de Europese Unie wordt voorzien, worden de noodzakelijk gemaakte kosten van huisvesting en voeding vergoed tot ten hoogste de bedragen, bedoeld in [Bijlage I behorende bij het Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I).
+2. Indien om redenen verband houdend met de inzet, geen gebruik kan worden gemaakt van van Rijkswege verstrekte huisvesting of voeding en hierin ook niet door de volkenrechtelijke organisatie of de Europese Unie wordt voorzien, worden de noodzakelijk gemaakte kosten van huisvesting en voeding vergoed overeenkomstig [artikel 22, eerste en tweede lid, van het Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=22).
 
 ##### Artikel 9
 
@@ -133,29 +133,23 @@ De betrokkene heeft aansluitend op de definitieve terugkeer uit het missiegebied
 
 ##### Artikel 13
 
-1. De betrokkene is verplicht elk geval van ziekte of ongeval van hemzelf terstond ter kennis van de Minister van Veiligheid en Justitie te brengen, indien de ziekte of het ongeval van zodanige aard is dat hij naar verwachting langer dan een maand niet tot inzet in staat is.
+1. De betrokkene is verplicht elk geval van ziekte of ongeval van hemzelf terstond ter kennis van de Minister van Justitie en Veiligheid te brengen, indien de ziekte of het ongeval van zodanige aard is dat hij naar verwachting langer dan een maand niet tot inzet in staat is.
 
-2. De Minister van Veiligheid en Justitie neemt maatregelen tot definitieve terugkeer naar Nederland van de betrokkene indien ten gevolge van de ziekte of het ongeval het verblijf in het missiegebied niet langer verantwoord, raadzaam of van nut is. Voor zover uit de genomen maatregelen kosten voortvloeien voor de betrokkene, komen deze kosten ten laste van het Rijk.
+2. De Minister van Justitie en Veiligheid neemt maatregelen tot definitieve terugkeer naar Nederland van de betrokkene indien ten gevolge van de ziekte of het ongeval het verblijf in het missiegebied niet langer verantwoord, raadzaam of van nut is. Voor zover uit de genomen maatregelen kosten voortvloeien voor de betrokkene, komen deze kosten ten laste van het Rijk.
 
 ##### Artikel 14
 
-Indien de betrokkene tijdens de missie overlijdt, worden de kosten van lijkbezorging aan de nabestaanden vergoed.
+Vervallen
 
 ##### Artikel 15
 
-1. De naaste betrekkingen van een betrokkene die vermist is geraakt tijdens de missie, komen in aanmerking voor bemiddeling vanwege het Ministerie van Veiligheid en Justitie bij het voeren van de procedure tot het verkrijgen van een verklaring, dat rechtsvermoeden van overlijden van de vermiste betrokkene bestaat.
+1. De naaste betrekkingen van een betrokkene die vermist is geraakt tijdens de missie, komen in aanmerking voor bemiddeling vanwege het Ministerie van Justitie en Veiligheid bij het voeren van de procedure tot het verkrijgen van een verklaring, dat rechtsvermoeden van overlijden van de vermiste betrokkene bestaat.
 
 2. De naaste betrekkingen van een betrokkene als bedoeld in het vorige lid hebben, indien de procedure, bedoeld in dat lid, niet kosteloos kan worden gevoerd, aanspraak op vergoeding van de kosten die ter zake voor hun rekening zijn gekomen.
 
 ##### Artikel 16
 
-1. In geval van invaliditeit die voortvloeit uit een ongeval tenzij de betrokkene bewust roekeloos heeft gehandeld of de betrokkene grof nalatig is geweest, of een beroepsziekte die is ontstaan tijdens de missie of de geleide recuperatieperiode, wordt aan de betrokkene smartengeld vergoed tot een netto maximum bedrag van € 136.100,-. De [Regeling smartengeld dienstongevallen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0022745) is van overeenkomstige toepassing.
-
-2. In geval de betrokkene is komen te overlijden ten gevolge van een ongeval als bedoeld in het eerste lid, wordt aan de weduwe of weduwnaar van wie de overleden betrokkene niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in [artikel 1, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), een netto bedrag van € 68.100,- uitgekeerd.
-
-3. [Artikel 46, derde en vierde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=46) is van overeenkomstige toepassing.
-
-4. In geval van een ongeval of beroepsziekte worden aan de betrokkene vergoed de noodzakelijk gemaakte kosten van geneeskundige behandeling en verzorging.
+Vervallen
 
 ##### Artikel 17
 
@@ -169,7 +163,7 @@ Indien de betrokkene tijdens of ten gevolge van de missie in rechte wordt betrok
 
 ##### Artikel 19
 
-De Minister van Veiligheid en Justitie beslist in de gevallen waarin deze regeling niet of niet in redelijkheid voorziet.
+De Minister van Justitie en Veiligheid beslist in de gevallen waarin deze regeling niet of niet in redelijkheid voorziet.
 
 ##### Artikel 20
 
@@ -221,11 +215,11 @@ Naast de periode van de missie waarvoor buitengewoon verlof wordt verleend, best
 
 ##### Artikel 16a
 
-Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar van wie de overleden persoon niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in [artikel 1, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), schade lijdt doordat de levensverzekering die hij ten behoeve van een hypotheek heeft gesloten niet of niet geheel tot uitbetaling komt doordat de verzekeraar een molestclausule inroept, staat de Minister van Veiligheid en Justitie ervoor in dat deze schade wordt vergoed tot een maximum van 400.000 euro.
+Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar van wie de overleden persoon niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in [artikel 1, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), schade lijdt doordat de levensverzekering die hij ten behoeve van een hypotheek heeft gesloten niet of niet geheel tot uitbetaling komt doordat de verzekeraar een molestclausule inroept, staat de Minister van Justitie en Veiligheid ervoor in dat deze schade wordt vergoed tot een maximum van 400.000 euro.
 
 ##### Artikel 18a
 
-1. Bij iedere vredesmissie waarbij politieambtenaren worden ingezet, bevordert de Minister van Veiligheid en Justitie dat voldoende rekening is gehouden met de volgende aspecten:
+1. Bij iedere vredesmissie waarbij politieambtenaren worden ingezet, bevordert de Minister van Justitie en Veiligheid dat voldoende rekening is gehouden met de volgende aspecten:
 
 - a. de veiligheid van politieambtenaren direct voorafgaand aan, tijdens en direct na afloop van de missie;
 
@@ -235,9 +229,9 @@ Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar 
 
 - d. de uitrusting, kleding en huisvesting tijdens de missie.
 
-2. Tevens bevordert de Minister van Veiligheid en Justitie dat voldoende rekening is gehouden met de wijze waarop wordt omgegaan met politieambtenaren die ervan verdacht worden tijdens de missie een tuchtrechtelijk of strafrechtelijk vergrijp te hebben begaan en de wijze waarop civielrechtelijke aansprakelijkheid is geregeld.
+2. Tevens bevordert de Minister van Justitie en Veiligheid dat voldoende rekening is gehouden met de wijze waarop wordt omgegaan met politieambtenaren die ervan verdacht worden tijdens de missie een tuchtrechtelijk of strafrechtelijk vergrijp te hebben begaan en de wijze waarop civielrechtelijke aansprakelijkheid is geregeld.
 
-3. De Minister van Veiligheid en Justitie brengt de omstandigheden, bedoeld in het eerste en tweede lid, onverwijld ter kennis van de politievakorganisaties zodra deze hem ter kennis zijn gekomen.
+3. De Minister van Justitie en Veiligheid brengt de omstandigheden, bedoeld in het eerste en tweede lid, onverwijld ter kennis van de politievakorganisaties zodra deze hem ter kennis zijn gekomen.
 
 ## Bijlage. bij de Regeling vredesmissies politie
 
