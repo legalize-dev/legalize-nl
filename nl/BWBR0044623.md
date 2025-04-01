@@ -4,7 +4,7 @@ identifier: "BWBR0044623"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2021-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044623"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **toetser:** de ambtenaar van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die heeft voldaan aan de kwalificatievereisten van de daartoe strekkende opleiding en is gecertificeerd door de Politieacademie om de toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden, de toets schietvaardigheid, of de toets specialistische geweldsvaardigheid af te nemen.
 
-- h. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- h. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2
 
@@ -102,11 +102,11 @@ Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende re
 
 ##### Artikel 5
 
-1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2021-01-01&g=2021-01-01) bedoelde toetsen. Ingeval de Minister gebruik maakt van zijn bevoegdheid, bedoeld in artikel 2, tiende tot en met twaalfde lid, draagt het bevoegd gezag er zorg voor dat dit in de registratie wordt verwerkt.
+1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2025-04-01&g=2025-04-01) bedoelde toetsen. Ingeval de Minister gebruik maakt van zijn bevoegdheid, bedoeld in artikel 2, tiende tot en met twaalfde lid, draagt het bevoegd gezag er zorg voor dat dit in de registratie wordt verwerkt.
 
-2. In het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37) wordt jaarlijks een overzicht opgenomen van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2021-01-01&g=2021-01-01) bedoelde toetsen.
+2. In het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37) wordt jaarlijks een overzicht opgenomen van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2025-04-01&g=2025-04-01) bedoelde toetsen.
 
-3. In de beleidsplannen, bedoeld in [artikel 39, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=39) wordt jaarlijks een overzicht opgenomen van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2021-01-01&g=2021-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+3. In de beleidsplannen, bedoeld in [artikel 39, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=39) wordt jaarlijks een overzicht opgenomen van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044623&artikel=2&z=2025-04-01&g=2025-04-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
