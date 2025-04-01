@@ -4,7 +4,7 @@ identifier: "BWBR0033857"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-09-13"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033857"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **Bbp:** [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
-- j. **Bevoegd gezag:** bevoegd gezag bedoeld in [artikel 1, eerste lid onderdeel j, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- j. **Bevoegd gezag:** bevoegd gezag bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
 - k. **Dtf:** de op 1 januari 2006 geldende deeltijdfactor, bedoeld in artikel 1.2 van het Pensioenreglement;
 
@@ -124,7 +124,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling inhaaltoelage bezwarende functie politie.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033857&artikel=2&z=2013-09-13&g=2013-09-13)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033857&artikel=2&z=2025-04-01&g=2025-04-01)
 
 ### Stappenplan en rekenformule
 
