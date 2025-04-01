@@ -4,7 +4,7 @@ identifier: "BWBR0045770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2021-11-04"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045770"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ In dit besluit wordt verstaan onder:
 
 - **ambtenaar:**
 
-- a. een ambtenaar als bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. een gewezen ambtenaar;
+- b. de gewezen ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **commissie:** Commissie van Advies Restschade Afwikkeling Politie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=2&z=2021-11-04&g=2021-11-04);
+- **commissie:** Commissie van Advies Restschade Afwikkeling Politie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=2&z=2025-04-01&g=2025-04-01);
 
 - **Minister:** de Minister van Justitie en Veiligheid;
 
@@ -64,7 +64,7 @@ Er is een Commissie van Advies Restschade Afwikkeling Politie.
 
 1. De commissie heeft tot taak:
 
-- a. het toetsen van en adviseren over de afdoening door het bevoegd gezag van verzoeken van ambtenaren om schade vergoed te krijgen op grond van de [Richtlijn aanpak dossiers restschade](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&bijlage=1&z=2021-11-04&g=2021-11-04);
+- a. het toetsen van en adviseren over de afdoening door het bevoegd gezag van verzoeken van ambtenaren om schade vergoed te krijgen op grond van de [Richtlijn aanpak dossiers restschade](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&bijlage=1&z=2025-04-01&g=2025-04-01);
 
 - b. het toetsen van en adviseren over de afdoening door het bevoegd gezag van verzoeken van ambtenaren om schade op grond van de Tijdelijke beleidsregel afhandeling restschade politie na de inwerkingtreding daarvan;
 
@@ -102,7 +102,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 7. Secretariaat
 
-1. Ter ondersteuning bij haar in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=3&z=2021-11-04&g=2021-11-04) bedoelde taken wordt de commissie bijgestaan door een secretariaat.
+1. Ter ondersteuning bij haar in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=3&z=2025-04-01&g=2025-04-01) bedoelde taken wordt de commissie bijgestaan door een secretariaat.
 
 2. Het personeel van dit secretariaat wordt door het CAOP beschikbaar gesteld. Dit personeel is in dienst van het CAOP.
 
@@ -118,7 +118,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 9. Vooronderzoek
 
-1. De voorzitter van de commissie is bevoegd rechtstreeks alle gewenste inlichtingen in te winnen of te laten inwinnen ten behoeve van de uitoefening van de taken als bedoeld in [artikel 3, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=3&z=2021-11-04&g=2021-11-04).
+1. De voorzitter van de commissie is bevoegd rechtstreeks alle gewenste inlichtingen in te winnen of te laten inwinnen ten behoeve van de uitoefening van de taken als bedoeld in [artikel 3, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=3&z=2025-04-01&g=2025-04-01).
 
 2. De voorzitter kan uit eigen beweging of op verlangen van de commissie bij deskundigen advies of inlichtingen inwinnen en hen zonodig uitnodigen daartoe op de hoorzitting te verschijnen. De daaraan verbonden kosten worden door het ministerie vergoed, waarbij vooraf machtiging van het ministerie is vereist. Slechts om gewichtige redenen, die niet zijn terug te voeren op het bij de commissie voorliggende geschil, kan het ministerie haar machtiging tot vergoeding van de in dit lid genoemde kosten onthouden.
 
@@ -162,13 +162,13 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 13. Uitbrengen advies en afwijking van het advies
 
-1. Het advies van de commissie wordt, onder medezending van het verslag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=11&z=2021-11-04&g=2021-11-04) en eventueel door de commissie ontvangen nadere informatie en nader verslag, uitgebracht aan het bevoegd gezag.
+1. Het advies van de commissie wordt, onder medezending van het verslag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=11&z=2025-04-01&g=2025-04-01) en eventueel door de commissie ontvangen nadere informatie en nader verslag, uitgebracht aan het bevoegd gezag.
 
 2. Indien het bevoegd gezag besluit in afwijking van het advies van de commissie, stelt het de commissie daarvan op de hoogte.
 
 ##### Artikel 14. Vergoeding
 
-1. De leden van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=5&z=2021-11-04&g=2021-11-04), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitter per vergadering een vergoeding ontvangt ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
+1. De leden van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&artikel=5&z=2025-04-01&g=2025-04-01), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitter per vergadering een vergoeding ontvangt ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
 
 2. Van de toekenning van vergoeding zijn uitgesloten functionarissen in dienst van de sector politie, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.
 
@@ -290,7 +290,7 @@ Als er bereidheid is om samen opnieuw naar het totaal aan zorg, re-integratie en
 
 Uitgangspunten die de politie zal hanteren bij het maken van de berekening:
 
-Deze uitgangspunten zijn concreter uitgewerkt in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&bijlage=A&z=2021-11-04&g=2021-11-04).
+Deze uitgangspunten zijn concreter uitgewerkt in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0045770&bijlage=A&z=2025-04-01&g=2025-04-01).
 
 ### Aansprakelijkheid
 
