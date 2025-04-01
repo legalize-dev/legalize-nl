@@ -4,7 +4,7 @@ identifier: "BWBR0038360"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-02-08"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038360"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aandachtsgebied:** het aandachtsgebied, bedoeld in [artikel 1, eerste lid, onderdeel ll, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. **aandachtsgebied:** het aandachtsgebied, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - b. **aanvraag:** de aanvraag, bedoeld in [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **werkterrein:** het werkterrein, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-- i. **wezenlijk afwijken:** het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2023-02-08&g=2023-02-08).
+- i. **wezenlijk afwijken:** het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 2
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het bevoegd gezag wijst de aanvraag toe, indien de feitelijke werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=2&z=2023-02-08&g=2023-02-08):
+1. Het bevoegd gezag wijst de aanvraag toe, indien de feitelijke werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=2&z=2025-04-01&g=2025-04-01):
 
 - a. zijn opgedragen;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - d. niet van kennelijk tijdelijke aard zijn. In ieder geval is hiervan sprake wanneer de werkzaamheden langer dan twee jaar duren.
 
-2. In afwijking van het eerste lid wijst het bevoegd gezag de aanvraag af en geeft daarbij toepassing aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2023-02-08&g=2023-02-08), indien een zwaarwegend dienstbelang zich tegen plaatsing op de andere functie verzet dan wel indien de ambtenaar verzoekt niet tot plaatsing op een andere functie over te gaan.
+2. In afwijking van het eerste lid wijst het bevoegd gezag de aanvraag af en geeft daarbij toepassing aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2025-04-01&g=2025-04-01), indien een zwaarwegend dienstbelang zich tegen plaatsing op de andere functie verzet dan wel indien de ambtenaar verzoekt niet tot plaatsing op een andere functie over te gaan.
 
 ##### Artikel 4
 
@@ -92,15 +92,15 @@ In deze regeling wordt verstaan onder:
 
 1. Indien het bevoegd gezag besluit om de ambtenaar geen andere functie dan wel geen ander werkterrein, aandachtsgebied of specifieke functionaliteit toe te kennen, wordt de opdracht gegeven om de feitelijke werkzaamheden, voor zover deze afwijken van de huidige functie dan wel van een werkterrein, een aandachtsgebied of een specifieke functionaliteit, te staken. Het bevoegd gezag legt deze beslissing vast in een besluit.
 
-2. Indien een besluit als bedoeld in het eerste lid is genomen en indien de feitelijke werkzaamheden die voldoen aan de criteria van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08), zijn verricht op een schaalniveau dat uitgaat boven het schaalniveau van de functie van de ambtenaar, wordt de ambtenaar eenmalig een uitkering toegekend. Deze uitkering bedraagt het verschil tussen het naasthogere salarisbedrag in de naasthogere salarisschaal en het salarisbedrag dat de ambtenaar gedurende de periode van de opgedragen werkzaamheden heeft ontvangen, vermenigvuldigd met het aantal hele kalendermaanden waarin de werkzaamheden zijn uitgeoefend.
+2. Indien een besluit als bedoeld in het eerste lid is genomen en indien de feitelijke werkzaamheden die voldoen aan de criteria van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2025-04-01&g=2025-04-01), zijn verricht op een schaalniveau dat uitgaat boven het schaalniveau van de functie van de ambtenaar, wordt de ambtenaar eenmalig een uitkering toegekend. Deze uitkering bedraagt het verschil tussen het naasthogere salarisbedrag in de naasthogere salarisschaal en het salarisbedrag dat de ambtenaar gedurende de periode van de opgedragen werkzaamheden heeft ontvangen, vermenigvuldigd met het aantal hele kalendermaanden waarin de werkzaamheden zijn uitgeoefend.
 
 3. Het tweede lid is van overeenkomstige toepassing in het geval de feitelijke werkzaamheden aanspraak gegeven zouden hebben op een extra periodiek als bedoeld in [artikel 9a van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=9a).
 
-4. Dit artikel is niet van toepassing indien het bevoegd gezag de aanvraag afwijst op grond van het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08).
+4. Dit artikel is niet van toepassing indien het bevoegd gezag de aanvraag afwijst op grond van het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 6
 
-Voorafgaand aan een besluit als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=4&z=2023-02-08&g=2023-02-08) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2023-02-08&g=2023-02-08) stelt het bevoegd gezag de ambtenaar in de gelegenheid zijn zienswijze naar voren te brengen.
+Voorafgaand aan een besluit als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=4&z=2025-04-01&g=2025-04-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2025-04-01&g=2025-04-01) stelt het bevoegd gezag de ambtenaar in de gelegenheid zijn zienswijze naar voren te brengen.
 
 ##### Artikel 7
 
