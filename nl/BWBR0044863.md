@@ -4,7 +4,7 @@ identifier: "BWBR0044863"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044863"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - –. **dezelfde onderneming:**
 
-- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2025-01-01&g=2025-01-01) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
+- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2025-04-01&g=2025-04-01) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
 
 - 2°. het geheel van terreinen of percelen voor de teelt van consumptieaardappelen dat de ondernemer op Nederlands grondgebied beheert en voor eigen rekening en risico exploiteert;
 
@@ -210,7 +210,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. De minister wijst op kaarten met topografische achtergrond de gebieden aan waar besmet of vermoedelijk besmet oppervlaktewater voorkomt.
 
-3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2025-01-01&g=2025-01-01).
+3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 9
 
@@ -218,7 +218,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. Het verbod, bedoeld in het eerste lid, is in de in bijlage 1 bedoelde gebieden eveneens van toepassing ten aanzien van andere bruinrotwaardplanten dan pootaardappelen.
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2025-01-01&g=2025-01-01) bedoelde gebieden.
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2025-04-01&g=2025-04-01) bedoelde gebieden.
 
 4. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige afwateringssloot.
 
@@ -234,7 +234,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - c. de bacterie**Ralstonia pseudosolanacearum** Safni **et al.**, 2014.
 
-3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-01-01&g=2025-01-01).
+3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 11
 
@@ -256,7 +256,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 ##### Artikel 13
 
-1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-01-01&g=2025-01-01) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
+1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-04-01&g=2025-04-01) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
 
 - a. **Cotoneaster floccosus**, **Cotoneaster salicifolius** en **Cotoneaster watereri** en de daartoe behorende cultivars en van het geslacht **Photinia davidiana** (Stranvaesia Hort.);
 
@@ -266,11 +266,11 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - a. voor zover de bedoelde handelingen plaatsvinden in het kader van de bedrijfsmatige teelt van boomkwekerijgewassen;
 
-- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-01-01&g=2025-01-01) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
+- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-04-01&g=2025-04-01) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
 
 ##### Artikel 14
 
-De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-01-01&g=2025-01-01) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
+De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-04-01&g=2025-04-01) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
 
 #### § 3.3. Wratziekte
 
@@ -306,13 +306,13 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 18
 
-1. Op een productielocatie, in een in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2025-01-01&g=2025-01-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-01-01&g=2025-01-01).
+1. Op een productielocatie, in een in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2025-04-01&g=2025-04-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-04-01&g=2025-04-01).
 
-2. Op een productielocatie, in een in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2025-01-01&g=2025-01-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2025-01-01&g=2025-01-01). Voor de teelt van pootaardappelen is het telen van de in [bijlage 4c2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2025-01-01&g=2025-01-01) vermelde rassen toegestaan.
+2. Op een productielocatie, in een in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2025-04-01&g=2025-04-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2025-04-01&g=2025-04-01). Voor de teelt van pootaardappelen is het telen van de in [bijlage 4c2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2025-04-01&g=2025-04-01) vermelde rassen toegestaan.
 
-3. Op een productielocatie, in een in [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2025-01-01&g=2025-01-01) aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2025-01-01&g=2025-01-01).
+3. Op een productielocatie, in een in [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2025-04-01&g=2025-04-01) aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2025-04-01&g=2025-04-01).
 
-4. Op een productielocatie, in een in [bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2025-01-01&g=2025-01-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2025-01-01&g=2025-01-01).
+4. Op een productielocatie, in een in [bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2025-04-01&g=2025-04-01) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2025-04-01&g=2025-04-01).
 
 #### § 3.4. Phytophthora infestans
 
@@ -448,13 +448,13 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 37
 
-Aardappelen worden niet geteeld in de volle grond op een productielocatie, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2025-01-01&g=2025-01-01) aangewezen gebied.
+Aardappelen worden niet geteeld in de volle grond op een productielocatie, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2025-04-01&g=2025-04-01) aangewezen gebied.
 
 ##### Artikel 38
 
 1. Aardappelen worden niet geteeld op een productielocatie, waarop in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
-2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een productielocatie die is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2025-01-01&g=2025-01-01) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
+2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een productielocatie die is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2025-04-01&g=2025-04-01) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
 
 3. Het eerste lid is niet van toepassing wanneer twee aaneengesloten jaren aardappelen worden geteeld op een productielocatie waar in de voorafgaande acht kalenderjaren geen aardappelen of in bijlage I, onderdeel 1, van [uitvoeringsverordening 2022/1192](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Feur-lex.europa.eu%2Flegal-content%2FNL%2FTXT%2F%3Furi%3DCELEX%3A33092R2022__%3B!!KEc074MNZw!YYqUErAOJg-zhB57ixDCEEneUXBI7KUTjmXd8h6HBvd9dmrHDBMYgwCJ94vaO1ghcpdGJQTyq-SFUhHVH2pdeMMlqDT2%24&data=05%7C02%7Ca.franken%40minezk.nl%7C59388c7ac06c430cc2a008dd2353a1b3%7C1321633ef6b944e2a44f59b9d264ecb7%7C0%7C0%7C638705564274023402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3%2Brj7yw2ldpcdg9kYlZ2DoW8RGXHAb1eunt0plcmYVI%3D&reserved=0) vermelde planten, zijn geteeld.
 
@@ -468,7 +468,7 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 - b. waarop de laatste twaalf jaar geen aardappelen of andere, in bijlage I van [uitvoeringsverordening 2022/1192](33092R2022) vermelde planten, zijn geteeld; of
 
-- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2025-01-01&g=2025-01-01) aangewezen gebied.
+- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2025-04-01&g=2025-04-01) aangewezen gebied.
 
 2. Gedurende twaalf maanden nadat de boomkwekerijgewassen en vaste planten op de productielocatie zijn geoogst moet aantoonbaar zijn, dat is voldaan aan de eisen gesteld in het eerste lid.
 
@@ -482,9 +482,9 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 - a. worden gebruikt ten behoeve van de teelt van zetmeelaardappelen en zijn voorzien van een schriftelijke verklaring van Stichting TBM;
 
-- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2025-01-01&g=2025-01-01) genoemde aardappelrassen, en
+- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2025-04-01&g=2025-04-01) genoemde aardappelrassen, en
 
-- c. afkomstig zijn van en geteeld worden op een productielocatie dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2025-01-01&g=2025-01-01) aangewezen gebied.
+- c. afkomstig zijn van en geteeld worden op een productielocatie dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2025-04-01&g=2025-04-01) aangewezen gebied.
 
 3. Het eerste lid is niet van toepassing indien binnen dezelfde onderneming in het voorgaande jaar geen goedgekeurde pootaardappelen zijn geteeld en het pootaardappelen voor eigen gebruik betreft die:
 
@@ -498,11 +498,11 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 4. Het certificaat of de schriftelijke verklaring voor de pootaardappelen wordt bewaard tot de maand mei, volgend op het jaar waarin de pootaardappelen voor de teelt van aardappelen zijn gebruikt.
 
-#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-01-01&g=2025-01-01)
+#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-04-01&g=2025-04-01)
 
 ##### Artikel 41
 
-1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-01-01&g=2025-01-01) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
+1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-04-01&g=2025-04-01) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
 
 2. Aan een vrijstelling of ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
@@ -516,11 +516,11 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 ##### Artikel 43. Bestuurlijke boete
 
-1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-01-01&g=2025-01-01) voor desbetreffende overtredingen zijn vastgelegd.
+1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-04-01&g=2025-04-01) voor desbetreffende overtredingen zijn vastgelegd.
 
-2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-01-01&g=2025-01-01) voor de desbetreffende overtreding is vastgelegd.
+2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-04-01&g=2025-04-01) voor de desbetreffende overtreding is vastgelegd.
 
-3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-01-01&g=2025-01-01) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
+3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-04-01&g=2025-04-01) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -544,13 +544,13 @@ De volgende regelingen en het volgende besluit worden ingetrokken:
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 
-## Bijlage 1. Verbodsgebieden gebruik oppervlaktewater als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-01-01&g=2025-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01)
+## Bijlage 1. Verbodsgebieden gebruik oppervlaktewater als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-04-01&g=2025-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-04-01&g=2025-04-01)
 
 ## Bijlage 2. Bacterievuur
 
-[Artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2025-01-01&g=2025-01-01)
+[Artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-04-01&g=2025-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2025-04-01&g=2025-04-01)
 
-## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01), worden aangewezen
+## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01), worden aangewezen
 
 - 1. Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam’) Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (I), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).
 
@@ -566,7 +566,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2021.
 
 - 7. Het gebied aan de Oostzijde van Veendam
 
-## Bijlage 3b. Toegelaten aardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01)
+## Bijlage 3b. Toegelaten aardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01)
 
 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar
 
@@ -732,11 +732,11 @@ Avito
 
 Starga
 
-## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01), worden aangewezen
+## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01), worden aangewezen
 
-## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01), worden aangewezen
+## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01), worden aangewezen
 
-## Bijlage 4 c1. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01)
+## Bijlage 4 c1. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01)
 
 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar
 
@@ -1056,7 +1056,7 @@ Saint Calais
 
 Sonic
 
-## Bijlage 4 c2. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01)
+## Bijlage 4 c2. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01)
 
 **5**
 
@@ -1080,9 +1080,9 @@ Sirco
 
 Victoria
 
-## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01), worden aangewezen
+## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01), worden aangewezen
 
-## Bijlage 5b. Toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01)
+## Bijlage 5b. Toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01)
 
 **10**
 
@@ -2286,11 +2286,11 @@ Vervallen
 
 ### Artikel 34
 
-## Bijlage 8. Aangewezen gebied als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2025-01-01&g=2025-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2025-01-01&g=2025-01-01)
+## Bijlage 8. Aangewezen gebied als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2025-04-01&g=2025-04-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2025-04-01&g=2025-04-01)
 
-## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2025-01-01&g=2025-01-01), worden aangewezen
+## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2025-04-01&g=2025-04-01), worden aangewezen
 
-- 1. De aangewezen gebieden, opgenomen in de kaart in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2025-01-01&g=2025-01-01).
+- 1. De aangewezen gebieden, opgenomen in de kaart in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2025-04-01&g=2025-04-01).
 
 - 2. De teelt van aardappelen in het jaar t op een productielocatie, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelen bevonden en welke productielocatie is gelegen in het in de vorige alinea genoemde gebied is toegestaan, mits de aardappelen in het jaar t – 2 werden gerooid vóór 1 juli van het jaar waarin zij werden geteeld en de ondernemer tijdig vóór deze datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -2324,7 +2324,7 @@ Vervallen
 
 - c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit.
 
-## Bijlage 10. Aardappelrassen als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-01-01&g=2025-01-01)
+## Bijlage 10. Aardappelrassen als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-04-01&g=2025-04-01)
 
 De volgende zetmeelaardappelrassen mogen onder het TBM-regime vermeerderd worden:
 
@@ -2450,15 +2450,15 @@ Vebesta*
 
 Vermont*
 
-In de wratziektekerngebieden ([bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2025-01-01&g=2025-01-01)): Barger-Compascuum, Borger, Foxel, Mantinge, Ter Apel, Veendam en Veendam Oost, mogen uitsluitend rassen worden geteeld die ook voldoende resistent zijn tegen fysio 18. Deze rassen zijn vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-01-01&g=2025-01-01).
+In de wratziektekerngebieden ([bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2025-04-01&g=2025-04-01)): Barger-Compascuum, Borger, Foxel, Mantinge, Ter Apel, Veendam en Veendam Oost, mogen uitsluitend rassen worden geteeld die ook voldoende resistent zijn tegen fysio 18. Deze rassen zijn vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-04-01&g=2025-04-01).
 
-In voornoemde wratziektekerngebieden moeten rassen die onder TBM-regime vermeerderd mogen worden, daarom ook in de lijst in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-01-01&g=2025-01-01) zijn vermeld. In de hierboven vermelde lijst van zetmeelaardappelrassen die onder TBM regime vermeerderd mogen worden, zijn de rassen die binnen de kerngebieden mogen worden geteeld, aangeduid met een*.
+In voornoemde wratziektekerngebieden moeten rassen die onder TBM-regime vermeerderd mogen worden, daarom ook in de lijst in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-04-01&g=2025-04-01) zijn vermeld. In de hierboven vermelde lijst van zetmeelaardappelrassen die onder TBM regime vermeerderd mogen worden, zijn de rassen die binnen de kerngebieden mogen worden geteeld, aangeduid met een*.
 
-## Bijlage 11. Aangewezen zetmeelaardappeltelend gebied als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-01-01&g=2025-01-01)
+## Bijlage 11. Aangewezen zetmeelaardappeltelend gebied als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-04-01&g=2025-04-01)
 
 ## Bijlage 12. Boetecategorieën
 
-[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=4&artikel=43&z=2025-01-01&g=2025-01-01)
+[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=4&artikel=43&z=2025-04-01&g=2025-04-01)
 
 |   | Categorie eerste beboeting |
 | --- | --- |
@@ -2551,52 +2551,52 @@ In voornoemde wratziektekerngebieden moeten rassen die onder TBM-regime vermeerd
 | Artikel 8, eerste lid | 2 |
 |   |   |
 | **Regeling plantgezondheid ex artikel 20, tweede lid, Plantgezondheidswet** |   |
-| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=17&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=24&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=25&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=27&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 32, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=32&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 32, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=32&z=2025-01-01&g=2025-01-01) | 2 |
-| [Artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-01-01&g=2025-01-01) | 3 |
-| [Artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-01-01&g=2025-01-01) | 2 |
+| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=17&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=24&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=25&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=27&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 32, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=32&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 32, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=32&z=2025-04-01&g=2025-04-01) | 2 |
+| [Artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-04-01&g=2025-04-01) | 3 |
+| [Artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-04-01&g=2025-04-01) | 2 |
 
 ## Bijlage 12. Boetecategorieën
 
