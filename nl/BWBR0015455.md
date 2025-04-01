@@ -4,7 +4,7 @@ identifier: "BWBR0015455"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2004-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015455"
 soort: "AMvB"
@@ -54,15 +54,11 @@ Voor de toepassing van dit besluit wordt verstaan onder de wet: de [Wet donorgeg
 
 ##### Artikel 2
 
-De medische gegevens, bedoeld in [artikel 2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) zijn:
-
-- a. gegevens over aandoeningen die ten tijde van de terbeschikkingstelling van zaad- of eicellen door de donor zijn genoemd, voor zover deze gegevens van belang kunnen zijn voor de gezonde ontwikkeling van het kind;
-
-- b. de resultaten van een uitgebreide bloedgroeptypering, zoals deze is vastgesteld door de bij kunstmatige bevruchting betrokken beroepsgroepen.
+Het maximumaantal moedercodes dat aan een donorcode wordt gekoppeld, bedoeld in [artikel 1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1), bedraagt twaalf moedercodes.
 
 ##### Artikel 3
 
-1. De fysieke kenmerken, bedoeld in [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) zijn:
+1. De fysieke kenmerken, bedoeld in [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2), een en ander zoals bekend op het tijdstip van de terbeschikkingstelling van zaad- of eicellen, betreffen:
 
 - a. lichaamslengte;
 
@@ -78,7 +74,7 @@ De medische gegevens, bedoeld in [artikel 2, eerste lid, onder a, van de wet](ht
 
 opleidingen of studies die op het tijdstip van de terbeschikkingstelling van zaad- of eicellen door de donor zijn voltooid dan wel nog worden gevolgd. Het beroep als in genoemd artikelonderdeel bedoeld, betreft het beroep dat de donor op het tijdstip van de terbeschikkingstelling van zaad- of eicellen uitoefent.
 
-3. De gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, bedoeld in [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) betreffen :
+3. De gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, bedoeld in [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2), een en ander zoals bekend op het tijdstip van de terbeschikkingstelling van zaad- of eicellen, betreffen:
 
 - a. leeftijd;
 
@@ -86,21 +82,19 @@ opleidingen of studies die op het tijdstip van de terbeschikkingstelling van zaa
 
 - c. gezinssamenstelling;
 
-- d. een door de donor zelf opgemaakte beschrijving van hem kenmerkende eigenschappen en karaktertrekken,
-
-een en ander zoals bekend op het tijdstip van de terbeschikkingstelling van zaad- of eicellen.
+- d. een door de donor zelf opgemaakte beschrijving van hem kenmerkende eigenschappen en karaktertrekken.
 
 ##### Artikel 4
 
-1. Een verzoek als bedoeld in [artikel 3, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3) wordt vergezeld van een afschrift van de geboorteakte van degene die is verwekt onderscheidenlijk weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting.
+1. Ingeval van een verzoek tot verstrekking van gegevens van de donor als bedoeld in [artikel 3, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3), verstrekt de verzoeker, indien het College daarom verzoekt:
 
-2. Voor zover mogelijk worden bovendien de volgende gegevens verstrekt:
+- a. een afschrift van zijn geboorteakte;
 
-- a. het adres en de woonplaats van de vrouw uit wie de in het eerste lid bedoelde persoon is geboren;
+- b. een kopie van zijn identiteitsbewijs;
 
-- b. de resultaten van een uitgebreide bloedgroeptypering van de in het eerste lid en tweede lid, onder a, bedoelde personen, zoals deze is vastgesteld door de bij kunstmatige bevruchting betrokken beroepsgroep;
+- c. het adres en de woonplaats van de ouder of voogd die krachtens [artikel 3, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3) van de verstrekking op de hoogte moet worden gesteld.
 
-- c. gegevens over de zwangerschapsduur op het tijdstip van de geboorte van de in het eerste lid bedoelde persoon.
+2. Ingeval van een verzoek tot verstrekking van persoonsidentificerende gegevens als bedoeld in [artikel 3b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3b), is het eerste lid, onder a en b, van overeenkomstige toepassing.
 
 ##### Artikel 5
 
