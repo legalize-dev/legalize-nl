@@ -4,7 +4,7 @@ identifier: "BWBR0024797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-30"
-last_updated: "2024-10-16"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024797"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - b. **tegemoetkoming:** de tegemoetkoming in de kosten van rechtskundige hulp, bedoeld in [artikel 69a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69a);
 
@@ -139,7 +139,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-Deze regeling is van overeenkomstige toepassing op degene die op andere titel dan een aanstelling werkzaam is bij het bevoegd gezag bedoeld in [artikel 1, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+Deze regeling is van overeenkomstige toepassing op degene die op andere titel dan een aanstelling werkzaam is bij het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 7
 
