@@ -4,7 +4,7 @@ identifier: "BWBR0006518"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2024-01-20"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006518"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. vervallen;
 
-- f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - g. bevoegd gezag:
 
@@ -70,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1);
 
-- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2024-01-20&g=2024-01-20);
+- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01);
 
 - k. overleg CGOP: het overleg van Onze Minister met de Commissie;
 
@@ -124,9 +124,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3a
 
-1. In het overleg CGOP worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2024-01-20&g=2024-01-20), die moeten worden of zijn vastgelegd in algemeen verbindende voorschriften, besproken.
+1. In het overleg CGOP worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die moeten worden of zijn vastgelegd in algemeen verbindende voorschriften, besproken.
 
-2. In het overleg GOKB worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2024-01-20&g=2024-01-20), die bij besluit van de korpschef worden vastgelegd in beleidsregels, besproken.
+2. In het overleg GOKB worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die bij besluit van de korpschef worden vastgelegd in beleidsregels, besproken.
 
 ##### Artikel 4
 
@@ -142,7 +142,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Het secretariaat van het overleg CGOP wordt gevoerd door een door Onze Minister benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie gehoord.
 
-7. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2024-01-20&g=2024-01-20) gerechtigd zijn, aan het overleg worden deelgenomen.
+7. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01) gerechtigd zijn, aan het overleg worden deelgenomen.
 
 8. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
@@ -152,7 +152,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen a
 
 ##### Artikel 6
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2024-01-20&g=2024-01-20), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke tot de Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
@@ -174,7 +174,7 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 2. Een vertegenwoordiger van de COR kan als toehoorder bij een werkgroep worden uitgenodigd.
 
-3. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2024-01-20&g=2024-01-20), is van overeenkomstige toepassing.
+3. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -266,11 +266,11 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - a. deelnemers aan het overleg: de voorzitter en de tot de Commissie toegelaten verenigingen van ambtenaren;
 
-- b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2024-01-20&g=2024-01-20).
+- b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 24
 
-Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2024-01-20&g=2024-01-20), voor zover zij voortvloeien uit het overleg CGOP.
+Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), voor zover zij voortvloeien uit het overleg CGOP.
 
 ##### Artikel 25
 
@@ -278,7 +278,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 26
 
-1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2024-01-20&g=2024-01-20), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
+1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2025-04-01&g=2025-04-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter en de Commissie wordt besloten het overleg voort te zetten dan wel te beëindigen wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg nadat het advies is ingewonnen van de Advies- en Arbitragecommissie, dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie.
 
@@ -288,7 +288,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 27
 
-1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2024-01-20&g=2024-01-20), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2024-01-20&g=2024-01-20), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
+1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2025-04-01&g=2025-04-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2025-04-01&g=2025-04-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing ten aanzien van het onderwerpen van het geschil aan een arbitrale uitspraak. Het verzoek daartoe wordt ondertekend door alle deelnemers aan het overleg en dient ten minste te bevatten:
 
@@ -298,7 +298,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 28
 
-1. Er is een Advies- en Arbitragecommissie politieambtenaren, die tot taak heeft te adviseren dan wel een bindende uitspraak te doen in de geschillen die haar ingevolge de [artikelen 25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2024-01-20&g=2024-01-20) worden voorgelegd.
+1. Er is een Advies- en Arbitragecommissie politieambtenaren, die tot taak heeft te adviseren dan wel een bindende uitspraak te doen in de geschillen die haar ingevolge de [artikelen 25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2025-04-01&g=2025-04-01) worden voorgelegd.
 
 2. De Advies- en Arbitragecommissie politieambtenaren is gevestigd te ’s-Gravenhage. Zij bestaat uit vijf leden, onder wie de voorzitter en vijf plaatsvervangende leden. Zij worden bij koninklijk besluit benoemd voor een tijdvak van ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden. De voorzitter en diens plaatsvervanger worden op gezamenlijke voordracht van Onze Minister en tot het overleg toegelaten verenigingen van ambtenaren. Van de andere vier leden en hun plaatsvervangers worden benoemd:
 
@@ -354,7 +354,7 @@ De Advies- en Arbitragecommissie politieambtenaren stelt nadere regels vast met 
 
 3. Het advies of de uitspraak wordt gedagtekend en door ieder der optredende leden en bijzondere leden van de Advies- en Arbitragecommissie ondertekend.
 
-4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2024-01-20&g=2024-01-20), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
+4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2025-04-01&g=2025-04-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
 ##### Artikel 31
 
@@ -582,7 +582,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Er is een sectorale commissie Politie.
 
-2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2024-01-20&g=2024-01-20), bedoelde Commissie en vier leden namens Onze Minister.
+2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01), bedoelde Commissie en vier leden namens Onze Minister.
 
 3. De sectorale commissie heeft tot taak:
 
@@ -604,7 +604,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De COR is als toehoorder bij het overleg GOKB aanwezig en wordt in dat overleg vertegenwoordigd door maximaal twee leden.
 
-6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2024-01-20&g=2024-01-20), is van overeenkomstige toepassing.
+6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4b
 
