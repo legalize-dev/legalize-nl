@@ -4,7 +4,7 @@ identifier: "BWBR0009185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "1997-12-31"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009185"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De ambtenaar is verplicht vanaf het moment waarop de arbeidstijd overeenkomst [artikel 13a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a) is teruggebracht, opgave te doen van de inkomsten als bedoeld in [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009185&artikel=2&z=1997-12-31&g=1997-12-31).
+1. De ambtenaar is verplicht vanaf het moment waarop de arbeidstijd overeenkomst [artikel 13a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a) is teruggebracht, opgave te doen van de inkomsten als bedoeld in [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009185&artikel=2&z=2025-04-01&g=2025-04-01).
 
 2. Indien de inkomsten niet vooraf kunnen worden vastgesteld, doet de ambtenaar maandelijks, voorafgaand aan de salarisbetaling, opgave van de inkomsten die hij sinds de vorige opgave heeft genoten.
 
