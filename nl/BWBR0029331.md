@@ -4,7 +4,7 @@ identifier: "BWBR0029331"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-04-01"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029331"
 soort: "ministeriele-regeling-BES"
@@ -65,11 +65,11 @@ Als loonbelasting- en premietabellen worden vastgesteld:
 
 ##### Artikel 3
 
-De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-01-01&g=2025-01-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
+De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-04-01&g=2025-04-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
 
 ##### Artikel 4
 
-De loonbelasting- en premietabellen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-01-01&g=2025-01-01), worden gepubliceerd op www.belastingdienst-cn.nl/onderwerpen/loonheffing/tabellen-en-rekenregels.
+De loonbelasting- en premietabellen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-04-01&g=2025-04-01), worden gepubliceerd op www.belastingdienst-cn.nl/onderwerpen/loonheffing/tabellen-en-rekenregels.
 
 ##### Artikel 5
 
@@ -187,7 +187,13 @@ De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een o
 
 ##### Artikel 4e
 
-Dit onderdeel is nog niet inwerking getreden
+1. De inhoudingsplichtige stelt voor de datum van aanvang van de werkzaamheden van de werknemer, of voor de aanvang van de werkzaamheden indien de dienstbetrekking is overeengekomen op de datum waarop de werkzaamheden aanvangen, de identiteit van de werknemer vast aan de hand van een document als bedoeld in artikel 2, eerste lid, onderdelen a, b of d, van de Wet identificatieplicht BES en houdt een afschrift van het document voor controle beschikbaar bij de loonadministratie.
+
+2. Indien uit het afschrift van het document, bedoeld in het eerste lid, niet de aard en het nummer van dat document blijken, administreert de inhoudingsplichtige de aard en het nummer van dat document bij de loonadministratie.
+
+3. De inspecteur kan, al dan niet onder door hem te stellen voorwaarden, bepalen dat de in dit artikel bedoelde gegevens en afschriften op een andere plaats worden bewaard.
+
+4. De inhoudingsplichtige bewaart de gegevens en afschriften, bedoeld in dit artikel, ten minste zeven jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd.
 
 ##### Artikel 4f
 
