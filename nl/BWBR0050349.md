@@ -4,7 +4,7 @@ identifier: "BWBR0050349"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2024-11-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050349"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **specialistische functie:** functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2024-11-01&g=2024-11-01), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
+- **specialistische functie:** functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2025-04-01&g=2025-04-01), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
 
-- **coördinerende gemeente:** gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2024-11-01&g=2024-11-01), die aangewezen is voor de uitvoering van de specialistische functie;
+- **coördinerende gemeente:** gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2025-04-01&g=2025-04-01), die aangewezen is voor de uitvoering van de specialistische functie;
 
 - **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
@@ -109,15 +109,15 @@ De specifieke uitkering voor het jaar 2024 bedraagt per coördinerende gemeente 
 | Specialistische functie | Specifieke uitkering | Coördinerende gemeente |
 | --- | --- | --- |
 | Landelijk knooppunt huwelijksdwang en achterlating | € 787.607 | Den Haag |
-| Landelijke coördinatie Centra Seksueel Geweld | € 1.214.182 | Utrecht |
+| Landelijke coördinatie Centra Seksueel Geweld | € 1.325.182 | Utrecht |
 | Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting | € 3.769.478 | Groningen |
 | Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting | € 2.095.164 | Tilburg |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 132.413 | Alkmaar |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 132.413 | Almere |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 866.304 | Amsterdam |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 214.554 | Enschede |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 756.289 | Rotterdam |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 214.081 | Zwolle |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 132.000 | Alkmaar |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 132.000 | Almere |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 1.118.778 | Amsterdam |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 277.111 | Enschede |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 378.000 | Rotterdam |
+| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek | € 277.111 | Zwolle |
 
 ##### Artikel 5. Aanvraag tot verlening
 
@@ -135,7 +135,7 @@ De specifieke uitkering voor het jaar 2024 bedraagt per coördinerende gemeente 
 
 1. De Minister beslist binnen 13 weken na sluiting van de aanvraagtermijn op een aanvraag tot verlening van een specifieke uitkering.
 
-2. Bij toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=5&z=2024-11-01&g=2024-11-01), beslist de Minister binnen 13 weken na ontvangst van de aanvraag tot verlening van een specifieke uitkering.
+2. Bij toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=5&z=2025-04-01&g=2025-04-01), beslist de Minister binnen 13 weken na ontvangst van de aanvraag tot verlening van een specifieke uitkering.
 
 3. Het besluit tot verlening vermeldt in elk geval de activiteiten waarvoor de specifieke uitkering wordt verleend, het bedrag van de specifieke uitkering, de periode waarvoor de specifieke uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
@@ -157,7 +157,7 @@ De ontvanger van een specifieke uitkering legt verantwoording af over de bestedi
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De Minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=8&z=2024-11-01&g=2024-11-01), over de vaststelling van de specifieke uitkering.
+1. De Minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=8&z=2025-04-01&g=2025-04-01), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
