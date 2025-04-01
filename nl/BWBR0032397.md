@@ -4,7 +4,7 @@ identifier: "BWBR0032397"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2025-01-01"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032397"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaar van 55 jaar of ouder, die de leeftijd van 55 jaar op 1 januari 2013 of daarna heeft bereikt, kan het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), jaarlijks verzoeken hem geheel of gedeeltelijk ontheffing te verlenen van het verrichten van dienst of het opleggen van consignatie tussen 00.00 uur en 06.00 uur.
+1. De ambtenaar van 55 jaar of ouder, die de leeftijd van 55 jaar op 1 januari 2013 of daarna heeft bereikt, kan het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), jaarlijks verzoeken hem geheel of gedeeltelijk ontheffing te verlenen van het verrichten van dienst of het opleggen van consignatie tussen 00.00 uur en 06.00 uur.
 
 2. Het bevoegd gezag verleent de gevraagde ontheffing tenzij een zwaarwegend dienstbelang zich daartegen verzet.
 
