@@ -4,7 +4,7 @@ identifier: "BWBR0037131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-02"
-last_updated: "2025-01-01"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037131"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2025-04-02&g=2025-01-01);
+- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2025-04-02&g=2025-04-02);
 
 - b. **minister:** Minister voor Wonen en Rijksdienst.
 
@@ -56,13 +56,13 @@ De commissie heeft tot taak te adviseren over:
 
 - a. de gelijkwaardigheid van technische of andere oplossingen ter zake van de technische voorschriften aangaande het bouwen of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of ter zake van de regels over bouwactiviteiten of het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2025-04-02&g=2025-01-01), genoemde gevallen.
+- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2025-04-02&g=2025-04-02), genoemde gevallen.
 
 ##### Artikel 4
 
 1. De commissie adviseert uitsluitend in geval:
 
-- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2025-04-02&g=2025-01-01) in het kader van:
+- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2025-04-02&g=2025-04-02) in het kader van:
 
 - 1°. een aanvraag om een omgevingsvergunning voor een bouwactiviteit;
 
@@ -100,13 +100,13 @@ De commissie heeft tot taak te adviseren over:
 
 3. De vaste kamer betreft Brandveiligheid, de ad hoc kamers betreffen Bouwfysica en duurzaam bouwen, en bouwregelgeving algemeen.
 
-4. De minister benoemt de voorzitter en de leden van de commissie voor een periode van maximaal 4 jaar, en kunnen telkens worden herbenoemd. De leden worden benoemd per kamer en kunnen zitting hebben in meerdere kamers.
+4. De commissie wordt ondersteund door een secretaris.
 
-5. De minister verzoekt de commissie bij de voorgenomen benoeming van een nieuw lid een voorstel te doen voor één of meer kandidaten.
+5. De Minister benoemt de voorzitter, de leden en de secretaris van de commissie voor een periode van maximaal 4 jaar, en kunnen telkens worden herbenoemd. De leden worden benoemd per kamer en kunnen zitting hebben in meerdere kamers.
 
-6. De leden kunnen tussentijds niet geschorst of ontslagen worden, anders dan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende redenen die in de persoon van de betrokkene zijn gelegen.
+6. De minister verzoekt de commissie bij de voorgenomen benoeming van een nieuw lid een voorstel te doen voor één of meer kandidaten.
 
-7. De minister voorziet in het secretariaat van de commissie.
+7. De leden kunnen tussentijds niet geschorst of ontslagen worden, anders dan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende redenen die in de persoon van de betrokkene zijn gelegen.
 
 ##### Artikel 6
 
@@ -150,11 +150,13 @@ Een ieder die is betrokken bij de uitvoering van de werkzaamheden van de commiss
 
 ##### Artikel 12
 
-1. Er is één voorzitter. De voorzitter ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 18, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36;
+1. Er is één voorzitter. De voorzitter ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 18, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36;
 
-2. De leden, niet zijnde de voorzitter, die behoren tot de vaste kamer Brandveiligheid ontvangen een vaste vergoeding overeenkomend met het maximumsalaris van schaal 17, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36.
+2. De leden, niet zijnde de voorzitter, die behoren tot de vaste kamer Brandveiligheid ontvangen een vaste vergoeding overeenkomend met het maximumsalaris van schaal 17, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36.
 
-3. De overige leden ontvangen van de commissie ontvangen een vergoeding per vergadering van € 251,21. Voor zover een lid van de commissie zitting heeft in zowel de vaste kamer brandveiligheid als in de ad hoc kamers of een daarvan, ontvangt het lid alleen de vergoeding bedoeld in het tweede lid.
+3. De overige leden ontvangen van de commissie ontvangen een vergoeding per vergadering van € 360,63. Voor zover een lid van de commissie zitting heeft in zowel de vaste kamer brandveiligheid als in de ad hoc kamers of een daarvan, ontvangt het lid alleen de vergoeding bedoeld in het tweede lid.
+
+4. De secretaris ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 16, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduur wordt vastgesteld op 10/36 uur per week.
 
 ##### Artikel 13
 
