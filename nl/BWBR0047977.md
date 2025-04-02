@@ -4,7 +4,7 @@ identifier: "BWBR0047977"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-02"
-last_updated: "2023-04-05"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047977"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2023-04-05"
 ---
 # Besluit van de Minister voor Rechtsbescherming van 14 maart 2023 nr. BOACAT2023/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij afdeling Stadstoezicht van de gemeente Eindhoven
 
-Gelezen het verzoek van het hoofd van de afdeling Stadstoezicht van de gemeente Eindhoven van 6 maart 2023 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Brabant en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+Gelezen het verzoek van het hoofd van de afdeling Handhaving van de gemeente Eindhoven van 6 maart 2023 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Brabant en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
 Gelet op:
 
@@ -58,7 +58,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=2&z=2023-04-05&g=2023-04-05).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=2&z=2025-04-02&g=2025-04-02).
 
 ##### Artikel 2
 
@@ -90,30 +90,30 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 7
 
-1. Het hoofd van de afdeling Stadstoezicht van de gemeente Eindhoven brengt jaarlijks, voor 1 april, verslag uit over:
+1. Het hoofd van de afdeling Handhaving van de gemeente Eindhoven brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=2&z=2023-04-05&g=2023-04-05) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=2&z=2025-04-02&g=2025-04-02) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=5&z=2023-04-05&g=2023-04-05) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=5&z=2025-04-02&g=2025-04-02) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=9&z=2023-04-05&g=2023-04-05) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040791), worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047977&artikel=9&z=2025-04-02&g=2025-04-02) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040791), worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar bij de afdeling Stadstoezicht van de gemeente Eindhoven 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040791) van 26 maart 2018 nr. BOACAT2018/018 zal vervallen op 5 april 2023.
+Het [Besluit buitengewoon opsporingsambtenaar bij de afdeling Handhaving van de gemeente Eindhoven 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040791) van 26 maart 2018 nr. BOACAT2018/018 zal vervallen op 5 april 2023.
 
 Dit besluit treedt in werking met ingang van 5 april 2023 en vervalt met ingang van 5 april 2028.
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar afdeling Stadstoezicht van de gemeente Eindhoven 2023.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar afdeling Handhaving van de gemeente Eindhoven 2023.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
