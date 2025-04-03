@@ -4,7 +4,7 @@ identifier: "BWBR0034372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-03"
-last_updated: "2020-01-01"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034372"
 soort: "ministeriele-regeling"
@@ -52,17 +52,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De voorzitter van de Kamer ontvangt per kalenderjaar een bezoldiging die gelijk is aan salarisschaal 19 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+1. Aan de leden van de Kamer wordt maandelijks een vaste bezoldiging toegekend, bestaande uit:
 
-2. De overige leden van de Kamer ontvangen per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 18 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+- a. een vergoeding die gelijk is aan het salaris van salarisschaal 19 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn;
 
-3. Bovenop de bezoldiging ontvangen de leden van de Kamer een vakantie- en een eindejaarsuitkering van respectievelijk 8% en 8,3% van twaalf maal het bruto maandsalaris plus de in het vierde lid bedoelde toelage.
+- b. een vakantie- en een eindejaarsuitkering van respectievelijk 8% en 8,3% van het salaris;
 
-4. Bovenop de bezoldiging ontvangen de leden van de Kamer tevens een maandelijkse toelage. De hoogte van de toelage is afhankelijk van de bijtelling van de auto, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=7&z=2020-01-01&g=2020-01-01), en wordt zodanig vastgesteld dat de totale bezoldiging per kalenderjaar het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), niet overschrijdt.
+- c. een representatiekostenvergoeding voor een directeur als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn; en
 
-5. De totale bezoldiging, bedoeld in het vierde lid, is de som van de toepasselijke bezoldigingscomponenten, genoemd in [artikel 2, eerste lid, Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2).
+- d. een pensioenbijdrage. De leden van de Kamer worden aangemeld als deelnemer bij de Stichting Pensioenfonds ABP.
 
-6. De bezoldiging wordt, met uitzondering van de vakantie- en eindejaarsuitkering, uitbetaald in gelijke maandelijkse termijnen. De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maanden mei respectievelijk november van ieder jaar.
+2. Bovenop de vaste bezoldiging per maand kunnen de leden van de Kamer tevens een maandelijkse toelage ontvangen. Deze toelage vult de vaste bezoldiging per maand aan tot een bedrag dat gelijk is aan het in de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) vastgelegde bezoldigingsmaximum per jaar gedeeld door twaalf maanden. Deze aanvullende toelage wordt jaarlijks aangepast zodat het in de Wet normering topinkomens vastgelegde bezoldigingsmaximum niet wordt overschreden.
+
+3. Aan de leden wordt geen andere bezoldiging of schadeloosstelling toegekend.
 
 ##### Artikel 3
 
@@ -78,7 +80,7 @@ Vervallen
 
 - b. de tijd dat betrokkene direct voorafgaand aan zijn benoeming in de Kamer van Koophandel op basis van een arbeidsovereenkomst of aanstelling werkzaam is geweest bij de Vereniging Kamer van Koophandel Nederland, een Kamer van Koophandel of de Stichting Syntens.
 
-3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2020-01-01&g=2020-01-01).
+3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2025-04-03&g=2025-04-03).
 
 4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
 
@@ -88,13 +90,13 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 6
 
-1. De leden van de Kamer ontvangen een representatiekostenvergoeding conform overeenkomstig de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+1. De leden van de Kamer hebben aanspraak op de verloffaciliteiten als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-2. De leden van de Kamer hebben aanspraak op de verloffaciliteiten die gelden voor het personeel van de Kamer.
+2. In afwijking van het eerste lid worden vakantie- of verlofuren niet uitbetaald.
 
 ##### Artikel 7
 
-1. De leden van de Kamer hebben recht op gebruik van een auto met een cataloguswaarde van maximaal € 50.000,–.
+1. De leden van de Kamer hebben recht op gebruik van een auto met een cataloguswaarde van maximaal € 80.000,–.
 
 2. De kosten van gebruik, onderhoud en reparatie van de auto zijn voor rekening van de Kamer van Koophandel, met uitzondering van kosten van boetes en bekeuringen.
 
