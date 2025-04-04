@@ -4,7 +4,7 @@ identifier: "BWBR0043660"
 country: "nl"
 rank: "wet"
 publication_date: "2025-04-04"
-last_updated: "2024-01-01"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043660"
 soort: "wet"
@@ -327,7 +327,7 @@ De volgende wetten worden ingetrokken:
 
 ### Afdeling 4.1. Algemene overgangsbepalingen lopende procedures besluiten
 
-##### Artikel 4.1. (toepassingsbereik [afdeling 4.1 besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01))
+##### Artikel 4.1. (toepassingsbereik [afdeling 4.1 besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04))
 
 Deze afdeling is, tenzij bij of krachtens dit hoofdstuk anders is bepaald, van toepassing op besluiten op grond van:
 
@@ -343,7 +343,7 @@ Deze afdeling is, tenzij bij of krachtens dit hoofdstuk anders is bepaald, van t
 
 - f. of met toepassing van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.1), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.2), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) en [6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10),
 
-- g. [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78), voor zover het gaat om een verordening als bedoeld in [artikel 4.7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2024-01-01&g=2024-01-01), van deze wet en [artikel 83, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=83), voor zover het gaat om een nadere regel als bedoeld in [artikel 4.7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2024-01-01&g=2024-01-01), van deze wet,
+- g. [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78), voor zover het gaat om een verordening als bedoeld in [artikel 4.7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2025-04-04&g=2025-04-04), van deze wet en [artikel 83, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=83), voor zover het gaat om een nadere regel als bedoeld in [artikel 4.7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2025-04-04&g=2025-04-04), van deze wet,
 
 - h. of met toepassing van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779),
 
@@ -363,7 +363,7 @@ Deze afdeling is, tenzij bij of krachtens dit hoofdstuk anders is bepaald, van t
 
 - p. de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=12), [13, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=13), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=13a), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92), voor zover het gaat om de bestuursrechtelijke handhaving van het bepaalde bij of krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II), en [92a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92a).
 
-##### Artikel 4.2. (toepassingsbereik [afdeling 4.1 besluiten gedoogplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01))
+##### Artikel 4.2. (toepassingsbereik [afdeling 4.1 besluiten gedoogplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04))
 
 Deze afdeling is van toepassing op besluiten tot oplegging van een gedoogplicht op grond van of met toepassing van:
 
@@ -467,7 +467,7 @@ Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jc
 
 - o. een warmteplan voor zover het gaat om een warmteplan vastgesteld op grond van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181),
 
-- p. een voorbereidingsbesluit als bedoeld in de [artikelen 4.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2024-01-01&g=2024-01-01), [4.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2024-01-01&g=2024-01-01), en [4.104a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104a&z=2024-01-01&g=2024-01-01).
+- p. een voorbereidingsbesluit als bedoeld in de [artikelen 4.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2025-04-04&g=2025-04-04), [4.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2025-04-04&g=2025-04-04), en [4.104a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104a&z=2025-04-04&g=2025-04-04).
 
 2. Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885):
 
@@ -485,9 +485,9 @@ Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jc
 
 - b. een bestemmingsplan, wijzigingsplan, uitwerkingsplan, inpassingsplan of exploitatieplan.
 
-4. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01) is niet van toepassing op een aanvraag om een bestemmingsplan, beheersverordening, wijzigingsplan, uitwerkingsplan, inpassingsplan of exploitatieplan vast te stellen of te wijzigen.
+4. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2025-04-04&g=2025-04-04) is niet van toepassing op een aanvraag om een bestemmingsplan, beheersverordening, wijzigingsplan, uitwerkingsplan, inpassingsplan of exploitatieplan vast te stellen of te wijzigen.
 
-5. [Artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2024-01-01&g=2024-01-01) is niet van toepassing in gevallen als bedoeld in het tweede lid.
+5. [Artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2025-04-04&g=2025-04-04) is niet van toepassing in gevallen als bedoeld in het tweede lid.
 
 #### § 4.2.2. Overgangsbepalingen waterschapsverordeningen
 
@@ -509,7 +509,7 @@ Als deel van een waterschapsverordening als bedoeld in [artikel 2.5 van de Omgev
 
 ##### Artikel 4.8. (waterschapsverordening)
 
-[Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2024-01-01&g=2024-01-01) is niet van toepassing als een waterschapsverordening als bedoeld in [artikel 2.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.5) gelijktijdig met of onmiddellijk na de inwerkingtreding van dat artikel van kracht wordt.
+[Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.7&z=2025-04-04&g=2025-04-04) is niet van toepassing als een waterschapsverordening als bedoeld in [artikel 2.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.5) gelijktijdig met of onmiddellijk na de inwerkingtreding van dat artikel van kracht wordt.
 
 #### § 4.2.3. Overgangsbepalingen omgevingsvisies
 
@@ -593,13 +593,13 @@ Als een activiteit voor de inwerkingtreding van de [Omgevingswet](https://wetten
 
 ##### Artikel 4.15. (wijziging bevoegd gezag vergunningverlening)
 
-Als bij de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) de bevoegdheid te beslissen op een aanvraag overgaat naar een ander bestuursorgaan en de ontheffing of vergunning nog niet is verleend, kan het bestuursorgaan dat op grond van [afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) bevoegd blijft om op die aanvraag te beslissen, die bevoegdheid overdragen aan het bestuursorgaan dat bij de inwerkingtreding van de Omgevingswet bevoegd wordt te beslissen op die aanvraag, mits dat bestuursorgaan daarmee instemt.
+Als bij de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) de bevoegdheid te beslissen op een aanvraag overgaat naar een ander bestuursorgaan en de ontheffing of vergunning nog niet is verleend, kan het bestuursorgaan dat op grond van [afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) bevoegd blijft om op die aanvraag te beslissen, die bevoegdheid overdragen aan het bestuursorgaan dat bij de inwerkingtreding van de Omgevingswet bevoegd wordt te beslissen op die aanvraag, mits dat bestuursorgaan daarmee instemt.
 
 #### § 4.2.6. Overgangsbepaling gedoogplichten
 
 ##### Artikel 4.16. (gedoogplichtbeschikking, concessie en schadevergoeding)
 
-1. Een gedoogplichtbeschikking die onherroepelijk is, geldt als een gedoogplichtbeschikking als bedoeld in [afdeling 10.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=10.3) als de grondslag ervan ligt in de artikelen, bedoeld in [artikel 4.2, onder a tot en met f en h tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2024-01-01&g=2024-01-01).
+1. Een gedoogplichtbeschikking die onherroepelijk is, geldt als een gedoogplichtbeschikking als bedoeld in [afdeling 10.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=10.3) als de grondslag ervan ligt in de artikelen, bedoeld in [artikel 4.2, onder a tot en met f en h tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2025-04-04&g=2025-04-04).
 
 2. Een concessie als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=71) in samenhang met [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) die onherroepelijk is, geldt als een gedoogplichtbeschikking als bedoeld in [artikel 10.14, aanhef en onder e, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.14).
 
@@ -619,7 +619,7 @@ Als bij de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci
 
 - g. [artikel 24 van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0002660&artikel=24), en
 
-- h. [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2024-01-01&g=2024-01-01), met uitzondering van onderdeel o,
+- h. [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2025-04-04&g=2025-04-04), met uitzondering van onderdeel o,
 
 blijft het oude recht van toepassing op een vordering tot schadevergoeding die is ingesteld binnen vijf jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en bij toewijzing van die vordering, de toegewezen schadevergoeding volledig is betaald.
 
@@ -655,7 +655,7 @@ en het besluit wordt vastgesteld na de inwerkingtreding van de [Omgevingswet](ht
 
 3. Het oude recht blijft van toepassing op het verzoek om schadevergoeding tot het besluit onherroepelijk wordt en, bij toewijzing van het verzoek, de toegewezen schadevergoeding volledig is betaald.
 
-4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 ##### Artikel 4.18. (nadeelcompensatie [Spoedwet wegverbreding](https://wetten.overheid.nl/jci1.3:c:BWBR0015158), [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en [artikel 6.1, tweede lid, onder c, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1))
 
@@ -679,7 +679,7 @@ en het besluit onherroepelijk wordt na de inwerkingtreding van de [Omgevingswet]
 
 3. Het oude recht blijft van toepassing op het verzoek om schadevergoeding tot het besluit onherroepelijk wordt en, bij toewijzing van het verzoek, de toegewezen schadevergoeding volledig is betaald.
 
-4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 ##### Artikel 4.19. (nadeelcompensatie [artikel 6.1, tweede lid, onder a, b, e of f, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1))
 
@@ -695,7 +695,7 @@ en het besluit van kracht wordt na de inwerkingtreding van de [Omgevingswet](htt
 
 3. Het oude recht blijft van toepassing op het verzoek om schadevergoeding tot het besluit onherroepelijk wordt en, bij toewijzing van het verzoek, de toegewezen schadevergoeding volledig is betaald.
 
-4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 ##### Artikel 4.20. (nadeelcompensatie [artikel 6.1, tweede lid, onder d, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1))
 
@@ -705,7 +705,7 @@ en het besluit van kracht wordt na de inwerkingtreding van de [Omgevingswet](htt
 
 3. Het oude recht blijft van toepassing op het verzoek om schadevergoeding tot het besluit onherroepelijk wordt en, bij toewijzing van het verzoek, de toegewezen schadevergoeding volledig is betaald.
 
-4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+4. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 ##### Artikel 4.21. (nadeelcompensatie [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458))
 
@@ -713,7 +713,7 @@ en het besluit van kracht wordt na de inwerkingtreding van de [Omgevingswet](htt
 
 2. Het oude recht blijft van toepassing op het verzoek om schadevergoeding tot het besluit onherroepelijk wordt en, bij toewijzing van het verzoek, de toegewezen schadevergoeding volledig is betaald.
 
-3. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+3. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 #### § 4.2.8. Overgangsbepalingen bestuurlijke sanctiebesluiten
 
@@ -795,13 +795,13 @@ Deze paragraaf is van toepassing op de handhaving van:
 
 - 3°. de last is opgeheven.
 
-2. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+2. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 #### § 4.2.9. Overgangsbepalingen landelijke voorziening
 
 ##### Artikel 4.24. (landelijke voorziening krachtens [Wabo](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) en [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458); omgevingsloket online)
 
-1. De landelijke voorziening, bedoeld in [artikel 7.6 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=7.6), blijft tot een bij koninklijk besluit te bepalen tijdstip in stand om de ingediende aanvragen, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01), te kunnen verwerken.
+1. De landelijke voorziening, bedoeld in [artikel 7.6 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=7.6), blijft tot een bij koninklijk besluit te bepalen tijdstip in stand om de ingediende aanvragen, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2025-04-04&g=2025-04-04), te kunnen verwerken.
 
 2. Het oude recht blijft tot dat tijdstip op die voorziening van toepassing.
 
@@ -811,7 +811,7 @@ Deze paragraaf is van toepassing op de handhaving van:
 
 - a. te raadplegen,
 
-- b. te wijzigen op grond van [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2024-01-01&g=2024-01-01) of [4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.6&z=2024-01-01&g=2024-01-01),
+- b. te wijzigen op grond van [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2025-04-04&g=2025-04-04) of [4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.6&z=2025-04-04&g=2025-04-04),
 
 - c. voor zover daarin regels voor een locatie zijn opgenomen, gedeeltelijk te laten vervallen op grond van artikel 22.6, tweede lid, van de Omgevingswet, en
 
@@ -837,7 +837,7 @@ Deze paragraaf is van toepassing op de handhaving van:
 
 1. Als voor de inwerkingtreding van [afdeling 10.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=10.3) mededeling is gedaan en kennis is gegeven van de terinzagelegging in overeenstemming met [artikel 2, tweede lid, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), blijft het oude recht van toepassing tot een besluit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=1), [2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), of [3, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=3) onherroepelijk is.
 
-2. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in dat geval niet van toepassing.
+2. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in dat geval niet van toepassing.
 
 #### § 4.3.2. Overgangsbepalingen [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431)
 
@@ -853,7 +853,7 @@ Deze paragraaf is van toepassing op de handhaving van:
 
 ##### Artikel 4.29. (Chw-inpassingsplan)
 
-Op een provinciaal inpassingsplan als bedoeld in [artikel 2.3a van de Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=2.3a) zijn de [artikelen 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.28&z=2024-01-01&g=2024-01-01), [4.104](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2024-01-01&g=2024-01-01) en [4.105](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.105&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Op een provinciaal inpassingsplan als bedoeld in [artikel 2.3a van de Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=2.3a) zijn de [artikelen 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.28&z=2025-04-04&g=2025-04-04), [4.104](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2025-04-04&g=2025-04-04) en [4.105](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.105&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
 
 ##### Artikel 4.30. (experimenten)
 
@@ -955,9 +955,9 @@ Een startbeslissing als bedoeld in [artikel 2, eerste lid, van de Tracéwet](htt
 
 ##### Artikel 4.45. (vergevorderde projecten)
 
-1. [Artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.44&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op door Onze Minister van Infrastructuur en Waterstaat bij ministeriële regeling aan te wijzen projecten waarvan van de beslissing als bedoeld in [artikel 2, eerste lid, van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=2) voor de inwerkingtreding van [afdeling 5.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=5.2) kennis is gegeven en waarvan de verkenning in een vergevorderd stadium is, als voor het project binnen een jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een ontwerptracébesluit ter inzage is gelegd.
+1. [Artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.44&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing op door Onze Minister van Infrastructuur en Waterstaat bij ministeriële regeling aan te wijzen projecten waarvan van de beslissing als bedoeld in [artikel 2, eerste lid, van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=2) voor de inwerkingtreding van [afdeling 5.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=5.2) kennis is gegeven en waarvan de verkenning in een vergevorderd stadium is, als voor het project binnen een jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een ontwerptracébesluit ter inzage is gelegd.
 
-2. [Artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.44&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op door Onze Minister van Infrastructuur en Waterstaat bij ministeriële regeling aan te wijzen projecten die op grond van [artikel III, tweede lid, van de Wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten (Stb. 2011, 595)](https://wetten.overheid.nl/jci1.3:c:BWBR0030790&artikel=III) zijn aangewezen en waarvan de verkenning in een vergevorderd stadium is, als voor het project binnen een jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een ontwerptracébesluit ter inzage is gelegd.
+2. [Artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.44&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing op door Onze Minister van Infrastructuur en Waterstaat bij ministeriële regeling aan te wijzen projecten die op grond van [artikel III, tweede lid, van de Wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten (Stb. 2011, 595)](https://wetten.overheid.nl/jci1.3:c:BWBR0030790&artikel=III) zijn aangewezen en waarvan de verkenning in een vergevorderd stadium is, als voor het project binnen een jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een ontwerptracébesluit ter inzage is gelegd.
 
 3. Voor de op grond van het tweede lid aangewezen projecten kan na het in dat lid bedoelde tijdstip een ontwerp van een projectbesluit ter inzage worden gelegd. De [artikelen 5.47 tot en met 5.49 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.47) zijn niet van toepassing.
 
@@ -1167,7 +1167,7 @@ Een bij provinciale verordening gegeven vrijstelling van de verplichting tot vas
 
 1. Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een aanvraag om een vergunning of tot wijziging van een vergunning is ingediend waarop [artikel 6.27, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.27) van toepassing is en de aanvraag voor de betrokken andere benodigde vergunning, bedoeld in die bepaling, binnen zes weken na de indiening van de eerstbedoelde aanvraag, maar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is ingediend, is op beide aanvragen de Omgevingswet van toepassing.
 
-2. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01) is in dat geval niet van toepassing op de eerstbedoelde aanvraag.
+2. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2025-04-04&g=2025-04-04) is in dat geval niet van toepassing op de eerstbedoelde aanvraag.
 
 ##### Artikel 4.74. (grondwateronttrekkingsheffing)
 
@@ -1217,7 +1217,7 @@ Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jc
 
 4. Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een ontwerpbesluit ter inzage is gelegd, blijft het oude recht van toepassing op de voorbereiding en vaststelling van een beschikking tot intrekking als bedoeld in [artikel 2.5, vijfde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5).
 
-5. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2024-01-01&g=2024-01-01) is in die gevallen niet van toepassing.
+5. [Afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&z=2025-04-04&g=2025-04-04) is in die gevallen niet van toepassing.
 
 ##### Artikel 4.80. (melding wijziging vergunninghouder)
 
@@ -1227,17 +1227,17 @@ Een melding dat een omgevingsvergunning gaat gelden voor een ander dan de aanvra
 
 1. Als voor een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a of b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een aanhoudingsplicht is ontstaan op grond van [artikel 3.3 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.3) en voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) nog geen bestemmingsplan of inpassingsplan in ontwerp ter inzage is gelegd, duurt die aanhoudingsplicht totdat:
 
-- a. voor een voorbereidingsbesluit als bedoeld in [artikel 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.49&z=2024-01-01&g=2024-01-01): de termijn, bedoeld in het tweede lid van dat artikel, is verstreken,
+- a. voor een voorbereidingsbesluit als bedoeld in [artikel 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.9&artikel=4.49&z=2025-04-04&g=2025-04-04): de termijn, bedoeld in het tweede lid van dat artikel, is verstreken,
 
-- b. voor een voorbereidingsbesluit als bedoeld in [artikel 4.103](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2024-01-01&g=2024-01-01), tweede lid: de termijn, bedoeld in [artikel 4.14, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) is verstreken,
+- b. voor een voorbereidingsbesluit als bedoeld in [artikel 4.103](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2025-04-04&g=2025-04-04), tweede lid: de termijn, bedoeld in [artikel 4.14, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) is verstreken,
 
-- c. voor een voorbereidingsbesluit als bedoeld in [artikel 4.103, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2024-01-01&g=2024-01-01), of [4.104, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2024-01-01&g=2024-01-01): de termijn, bedoeld in [artikel 4.16, vijfde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.16) is verstreken,
+- c. voor een voorbereidingsbesluit als bedoeld in [artikel 4.103, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.103&z=2025-04-04&g=2025-04-04), of [4.104, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104&z=2025-04-04&g=2025-04-04): de termijn, bedoeld in [artikel 4.16, vijfde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.16) is verstreken,
 
-- d. voor een voorbereidingsbesluit als bedoeld in [artikel 4.104a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104a&z=2024-01-01&g=2024-01-01): de termijn, bedoeld in de tweede zin van dat artikellid, is verstreken,
+- d. voor een voorbereidingsbesluit als bedoeld in [artikel 4.104a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.18&artikel=4.104a&z=2025-04-04&g=2025-04-04): de termijn, bedoeld in de tweede zin van dat artikellid, is verstreken,
 
 - e. voor een aanwijzing als beschermd stads- of dorpsgezicht: het omgevingsplan dat voorziet in de bescherming van het stads- of dorpsgezicht in werking is getreden.
 
-2. In de gevallen, bedoeld in het [eerste lid, is artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01) als het gaat om de regeling van de duur van de aanhoudingsplicht in [artikel 3.3, tweede lid, aanhef en onder a, en vijfde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.3) en in [artikel 8.9, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9) niet van toepassing.
+2. In de gevallen, bedoeld in het [eerste lid, is artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2025-04-04&g=2025-04-04) als het gaat om de regeling van de duur van de aanhoudingsplicht in [artikel 3.3, tweede lid, aanhef en onder a, en vijfde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.3) en in [artikel 8.9, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9) niet van toepassing.
 
 ##### Artikel 4.81. (besluiten met toepassing van de coördinatiebepaling)
 
@@ -1481,7 +1481,7 @@ Een besluit tot het opleggen van een verplichting om aan een bouwwerk voorzienin
 
 ##### Artikel 5.1. (overgangsrecht, vangnetbepaling en hardheidsclausule)
 
-1. Als een bepaling, opgenomen in de wet, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01) of [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2024-01-01&g=2024-01-01), wordt vervangen door een bepaling in een algemene maatregel van bestuur, kan de overgangsbepaling die daarvoor nodig is, in een algemene maatregel van bestuur worden opgenomen.
+1. Als een bepaling, opgenomen in de wet, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=3&artikel=3.1&z=2025-04-04&g=2025-04-04) of [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-04-04&g=2025-04-04), wordt vervangen door een bepaling in een algemene maatregel van bestuur, kan de overgangsbepaling die daarvoor nodig is, in een algemene maatregel van bestuur worden opgenomen.
 
 2. Als in verband met de invoering van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een wet, algemene maatregel van bestuur of ministeriële regeling wordt ingetrokken waarin een overgangsrechtelijke bepaling is opgenomen, blijft die overgangsrechtelijke bepaling van toepassing tot die is uitgewerkt.
 
