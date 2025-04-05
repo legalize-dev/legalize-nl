@@ -4,7 +4,7 @@ identifier: "BWBR0032413"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032413"
 soort: "ministeriele-regeling"
@@ -50,6 +50,8 @@ In deze regeling wordt verstaan onder:
 
 - **biomassabrandstof:** gasvormige of vaste brandstof geproduceerd uit biomassa;
 
+- **brandstoffen waarvoor het nultarief geldt:** brandstoffen als bedoeld in artikel 3, punt 23, quinqies, van [Uitvoeringsverordening (EU) 2018/2066](32018R2066) van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad en tot wijziging van [Verordening (EU) nr. 601/2012](32012R0601) van de Commissie;
+
 - **CDM-projectactiviteit:** projectactiviteit als bedoeld in [artikel 16.46b, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b);
 
 - **CDM-raad:** raad van bestuur van het mechanisme voor schone ontwikkeling, bedoeld in artikel 12, vierde lid, van het Protocol van Kyoto;
@@ -74,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - **multilaterale ontwikkelingsbank:** African Development Bank, Asian Development Bank, Caribbean Development Bank, Council of Europe Development Bank, Europees Investeringsfonds, Europese Bank voor Wederopbouw en Ontwikkeling, Europese Investeringsbank, Inter American Development Bank, Inter-American Investment Corporation, International Bank for Reconstruction and Development en International Finance Corporation, Multilateral Investment Guarantee Agency of Nordic Investment Bank;
 
-- **nalevingsrapport hydro-elektrische projectactiviteiten:** rapport als bedoeld in [artikel 58, tweede lid, onderdeel g, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2025-01-01&g=2025-01-01);
+- **nalevingsrapport hydro-elektrische projectactiviteiten:** rapport als bedoeld in [artikel 58, tweede lid, onderdeel g, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2025-04-05&g=2025-04-05);
 
 - **onjuiste opgave:** omissie, verkeerde voorstelling of fout in het emissieverslag, met uitzondering van de toelaatbare onzekerheid;
 
@@ -110,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Interpretatie en reikwijdte handel in broeikasgasemissierechten luchtvaart
 
-1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, tweede alinea, onder b, en de derde alinea onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling.
+1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, tweede alinea, onder b, en de derde alinea onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=1&z=2025-04-05&g=2025-04-05) bij deze regeling.
 
 2. Een commerciële luchtvervoersonderneming die:
 
@@ -126,7 +128,7 @@ valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of ov
 
 ##### Artikel 3. Begripsbepalingen bij interpretatie handel in broeikasgasemissierechten luchtvaart
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01) en de op dat artikel berustende bijlage wordt verstaan onder:
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2025-04-05&g=2025-04-05) en de op dat artikel berustende bijlage wordt verstaan onder:
 
 commerciële luchtvervoersonderneming: een commerciële luchtvervoersonderneming als bedoeld in artikel 3, onder p, van de EG-richtlijn handel in broeikasgasemissierechten;
 
@@ -310,9 +312,9 @@ Vervallen
 
 #### § 2.2.1. **Algemeen**
 
-##### Artikel 26. Gebruik biobrandstoffen en in aanmerking komende vliegtuigbrandstoffen
+##### Artikel 26. Gebruik brandstoffen waarvoor het nultarief geldt en in aanmerking komende vliegtuigbrandstoffen
 
-1. Een vliegtuigexploitant die biobrandstoffen of in aanmerking komende vliegtuigbrandstoffen gebruikt, dient te beschikken over:
+1. Een vliegtuigexploitant die brandstoffen waarvoor het nultarief geldt of in aanmerking komende vliegtuigbrandstoffen gebruikt, dient te beschikken over:
 
 - a. een bewijs afkomstig van een door de Europese Commissie erkend duurzaamheidssysteem, of
 
@@ -344,7 +346,7 @@ Het bestuur van de emissieautoriteit beslist omtrent goedkeuring van een monitor
 
 ##### Artikel 30. Verificatierapport en continue verbetering
 
-[Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing op luchtvaartactiviteiten.
+[Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2025-04-05&g=2025-04-05) is van overeenkomstige toepassing op luchtvaartactiviteiten.
 
 ### Hoofdstuk 3. Toewijzing broeikasgasemissierechten
 
@@ -372,7 +374,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2025-01-01&g=2025-01-01) bedoelde gegevens
+##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2025-04-05&g=2025-04-05) bedoelde gegevens
 
 Vervallen
 
@@ -450,9 +452,9 @@ Vervallen
 
 ##### Artikel 49. Formulier en verificatierapport van de verificateur
 
-1. Voor de meldingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2025-01-01&g=2025-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-01-01&g=2025-01-01), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
+1. Voor de meldingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2025-04-05&g=2025-04-05) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-04-05&g=2025-04-05), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. De melding, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-01-01&g=2025-01-01), gaat vergezeld van een verificatierapport van een verificateur.
+2. De melding, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-04-05&g=2025-04-05), gaat vergezeld van een verificatierapport van een verificateur.
 
 ##### Artikel 50. Melden wijzigingen periode 1 juli 2011 tot 1 juli 2012
 
@@ -992,7 +994,7 @@ Het op grond van artikel 27 van Uitvoeringsverordening (EU) 2018/2067 van de Com
 
 ##### Artikel 41f. Standaardformulier aanvraag uitsluiting broeikasgasinstallaties die minder dan 2 500 ton uitstoten
 
-1. De exploitant van een broeikasgasinstallatie die minder dan 2 500 ton CO2-equivalenten aan emissies heeft gerapporteerd aan het bestuur van de emissieautoriteit, uitgezonderd emissies van biomassa, in elk van de drie jaren voorafgaand aan moment, bedoeld in artikel 27bis, eerste lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten, kan de minister verzoeken, met gebruikmaking van het formulier als bedoeld in [artikel 41b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-01-01&g=2025-01-01), of, als er geen kosteloze toewijzing van emissierechten wordt aangevraagd, met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier, de broeikasgasinstallatie aan te melden bij de Europese Commissie ten behoeve van uitsluiting van het systeem van handel in broeikasgasemissierechten als bedoeld in artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten.
+1. De exploitant van een broeikasgasinstallatie die minder dan 2 500 ton CO2-equivalenten aan emissies heeft gerapporteerd aan het bestuur van de emissieautoriteit, uitgezonderd emissies van biomassa, in elk van de drie jaren voorafgaand aan moment, bedoeld in artikel 27bis, eerste lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten, kan de minister verzoeken, met gebruikmaking van het formulier als bedoeld in [artikel 41b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-04-05&g=2025-04-05), of, als er geen kosteloze toewijzing van emissierechten wordt aangevraagd, met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier, de broeikasgasinstallatie aan te melden bij de Europese Commissie ten behoeve van uitsluiting van het systeem van handel in broeikasgasemissierechten als bedoeld in artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten.
 
 2. Het standaardformulier wordt uiterlijk 30 mei 2024 ingediend bij het bestuur van de emissieautoriteit.
 
@@ -1006,7 +1008,7 @@ Het op grond van artikel 27 van Uitvoeringsverordening (EU) 2018/2067 van de Com
 
 2. De aanvraag voldoet aan de daaraan in de gedelegeerde handelingen gestelde eisen en bevat alle gegevens die op grond van de gedelegeerde handelingen wordt verlangd.
 
-3. De [artikelen 41c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41c&z=2025-01-01&g=2025-01-01), en [41d](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41d&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 41c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41c&z=2025-04-05&g=2025-04-05), en [41d](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41d&z=2025-04-05&g=2025-04-05) zijn van overeenkomstige toepassing.
 
 4. De minister beslist binnen vier maanden na ontvangst op de aanvraag.
 
@@ -1304,7 +1306,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 64a. Overgangsrecht Fase III ETS 2013-2020
 
-De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=7&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=10&z=2025-01-01&g=2025-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=12&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.5&artikel=18&z=2025-01-01&g=2025-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=23&z=2025-01-01&g=2025-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=24&z=2025-01-01&g=2025-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=25&z=2025-01-01&g=2025-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2025-01-01&g=2025-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2025-01-01&g=2025-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-01-01&g=2025-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2025-01-01&g=2025-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2025-01-01&g=2025-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2025-01-01&g=2025-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=52&z=2025-01-01&g=2025-01-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=57&z=2025-01-01&g=2025-01-01), de [paragrafen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&z=2025-01-01&g=2025-01-01), 3.2a en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&z=2025-01-01&g=2025-01-01) en de opschriften van [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&z=2025-01-01&g=2025-01-01) en paragraaf 3.2b, zoals die luidden voor 1 juli 2020, en de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=51&z=2025-01-01&g=2025-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=55&z=2025-01-01&g=2025-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=56&z=2025-01-01&g=2025-01-01), zoals die luidden voor 1 januari 2021, blijven van toepassing op emissies van broeikasgassen in de periode tot 1 januari 2021 en op broeikasgasemissierechten als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn toegewezen en verleend of geveild voor de periode tot 1 januari 2021.
+De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=1&z=2025-04-05&g=2025-04-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-04-05&g=2025-04-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2025-04-05&g=2025-04-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=7&z=2025-04-05&g=2025-04-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=10&z=2025-04-05&g=2025-04-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=12&z=2025-04-05&g=2025-04-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.5&artikel=18&z=2025-04-05&g=2025-04-05), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=23&z=2025-04-05&g=2025-04-05), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=24&z=2025-04-05&g=2025-04-05), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=25&z=2025-04-05&g=2025-04-05), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2025-04-05&g=2025-04-05), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2025-04-05&g=2025-04-05), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2025-04-05&g=2025-04-05), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2025-04-05&g=2025-04-05), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2025-04-05&g=2025-04-05), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2025-04-05&g=2025-04-05), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=52&z=2025-04-05&g=2025-04-05) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=57&z=2025-04-05&g=2025-04-05), de [paragrafen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&z=2025-04-05&g=2025-04-05), 3.2a en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&z=2025-04-05&g=2025-04-05) en de opschriften van [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&z=2025-04-05&g=2025-04-05) en paragraaf 3.2b, zoals die luidden voor 1 juli 2020, en de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=51&z=2025-04-05&g=2025-04-05), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=55&z=2025-04-05&g=2025-04-05) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=56&z=2025-04-05&g=2025-04-05), zoals die luidden voor 1 januari 2021, blijven van toepassing op emissies van broeikasgassen in de periode tot 1 januari 2021 en op broeikasgasemissierechten als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn toegewezen en verleend of geveild voor de periode tot 1 januari 2021.
 
 ## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2024-01-01)
 
@@ -1370,7 +1372,7 @@ Voor de gereglementeerde entiteit zijn de artikelen 75a, 75b, 75e, tot en met 75
 
 1. Een monitoringsplan wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.
 
-2. In het geval van verbranding van aardgas dat in een landelijk of regionaal gasnetwerk wordt gebruikt, wordt de emissiefactor gebruikt als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=9&z=2025-01-01&g=2025-01-01).
+2. In het geval van verbranding van aardgas dat in een landelijk of regionaal gasnetwerk wordt gebruikt, wordt de emissiefactor gebruikt als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=9&z=2025-04-05&g=2025-04-05).
 
 ##### Artikel 30e. Vereenvoudigd monitoringsplan
 
@@ -1412,7 +1414,7 @@ Een vergunning bevat ten minste:
 
 ##### Artikel 30j. Standaardformulier
 
-Voor de meldingen, bedoeld in [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=30h&z=2025-01-01&g=2025-01-01) en [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=30i&z=2025-01-01&g=2025-01-01), wordt gebruikgemaakt van door het bestuur van de emissieautoriteit beschikbaar gestelde standaardformulieren.
+Voor de meldingen, bedoeld in [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=30h&z=2025-04-05&g=2025-04-05) en [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=30i&z=2025-04-05&g=2025-04-05), wordt gebruikgemaakt van door het bestuur van de emissieautoriteit beschikbaar gestelde standaardformulieren.
 
 ##### Artikel 30k. Emissieverslag
 
@@ -1436,11 +1438,11 @@ Vervallen
 
 ##### Artikel 41i. Conditionaliteit voor energiebesparing
 
-1. De exploitant van een broeikasgasinstallatie waarvoor de conditionaliteit voor energiebesparing van toepassing is als bedoeld in [artikel 16.28, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.28), toont op uiterlijk 30 april in het jaar van de aanvraag voor kosteloze toewijzing, bedoeld in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-01-01&g=2025-01-01), en indien relevant op uiterlijk 10 januari in het jaar van indienen van het relevante verslag over het activiteitsniveau, bedoeld in [artikel 41g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41g&z=2025-01-01&g=2025-01-01), in een implementatieverslag aan dat is voldaan aan het bepaalde in artikel 22a, eerste lid, van de Verordening kosteloze toewijzing.
+1. De exploitant van een broeikasgasinstallatie waarvoor de conditionaliteit voor energiebesparing van toepassing is als bedoeld in [artikel 16.28, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.28), toont op uiterlijk 30 april in het jaar van de aanvraag voor kosteloze toewijzing, bedoeld in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-04-05&g=2025-04-05), en indien relevant op uiterlijk 10 januari in het jaar van indienen van het relevante verslag over het activiteitsniveau, bedoeld in [artikel 41g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41g&z=2025-04-05&g=2025-04-05), in een implementatieverslag aan dat is voldaan aan het bepaalde in artikel 22a, eerste lid, van de Verordening kosteloze toewijzing.
 
 2. De exploitant van een broeikasgasinstallatie dient het implementatieverslag in bij de Minister en maakt voor het implementatieverslag gebruik van een door de Minister beschikbaar gesteld standaardformulier.
 
-3. De Minister beoordeelt of is voldaan aan het bepaalde in artikel 22a, eerste lid, van de Verordening kosteloze toewijzing en adviseert hierover het bestuur van de emissieautoriteit uiterlijk 1 oktober in het jaar van aanvraag voor kosteloze toewijzing, bedoeld in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-01-01&g=2025-01-01), en indien relevant, uiterlijk 15 april in het jaar van indienen van het verslag over het activiteitsniveau, bedoeld in [artikel 41g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41g&z=2025-01-01&g=2025-01-01).
+3. De Minister beoordeelt of is voldaan aan het bepaalde in artikel 22a, eerste lid, van de Verordening kosteloze toewijzing en adviseert hierover het bestuur van de emissieautoriteit uiterlijk 1 oktober in het jaar van aanvraag voor kosteloze toewijzing, bedoeld in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2025-04-05&g=2025-04-05), en indien relevant, uiterlijk 15 april in het jaar van indienen van het verslag over het activiteitsniveau, bedoeld in [artikel 41g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41g&z=2025-04-05&g=2025-04-05).
 
 4. De Minister stelt het implementatieverslag ter beschikking aan de omgevingsdienst, bedoeld in [artikel 18.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.21), en kan hen in de gelegenheid stellen advies uit te brengen.
 
@@ -1656,9 +1658,69 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2025-01-01&g=2025-01-01)
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2025-04-05&g=2025-04-05)
 
-Vervallen
+- 1. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder a, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Deze vluchten worden geïnterpreteerd overeenkomstig het exclusieve doel van de vluchten.
+
+- b. Onder ‘directe familie’ wordt uitsluitend verstaan: echtgenoot, elke als gelijkwaardig aan de echtgenoot beschouwde partner, kinderen en ouders.
+
+- c. Onder ‘ministers van de regering’ wordt verstaan: leden van de regering van het desbetreffende land. Als zodanig worden niet aangemerkt leden van regionale of lokale regeringen van dat land.
+
+- d. Onder ‘officiële dienstreis’ wordt verstaan: dienstreis waarbij betrokkene in een officiële hoedanigheid optreedt.
+
+- e. Onder deze vluchten vallen geen veerdienst- en positioneringsvluchten.
+
+- f. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘S’, voor zover dit wordt bevestigd door een overeenkomstige statusindicator in het vluchtplan.
+
+- 2. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder b, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder ‘militaire vluchten’ wordt verstaan: vluchten die rechtstreeks verband houden met het verrichten van militaire activiteiten.
+
+- b. Onder deze vluchten vallen niet militaire vluchten die worden uitgevoerd door civiel geregistreerde luchtvaartuigen en evenmin civiele vluchten die worden uitgevoerd door militaire luchtvaartuigen.
+
+- c. Onder douane- en politievluchten worden zowel begrepen door civiel geregistreerde luchtvaartuigen uitgevoerde douane- en politievluchten als door militaire luchtvaartuigen uitgevoerde douane- en politievluchten.
+
+- d. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscodes ‘M’, ‘X’ en ‘P’.
+
+- 3. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder c, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder deze vluchten worden mede verstaan veerdienst- en positioneringsvluchten die worden uitgevoerd met het oog op deze vluchten alsmede vluchten tijdens welke uitsluitend rechtstreeks bij het verlenen van de gerelateerde diensten betrokken uitrusting en personeel worden vervoerd. Hierbij wordt geen onderscheid gemaakt tussen met behulp van publieke of private middelen uitgevoerde vluchten.
+
+- b. Onder ‘vluchten in verband met opsporing en redding’ wordt verstaan: vluchten tijdens welke opsporings- en reddingsdiensten worden verleend. Hierbij wordt onder ‘opsporings- en reddingsdienst’ verstaan: uitvoering van taken in verband met de bewaking van noodsituaties, communicatie, coördinatie en opsporing en redding, eerste medische hulpverlening of medische evacuatie, met behulp van publieke en private middelen, met inbegrip van samenwerkende luchtvaartuigen, schepen en andere vaartuigen, en installaties.
+
+- c. Onder ‘vluchten in het kader van brandbestrijding’ wordt verstaan: vluchten die uitsluitend worden uitgevoerd ten behoeve van de verlening van diensten voor brandbestrijding vanuit de lucht, zijnde het gebruik van luchtvaartuigen om natuurbranden te bestrijden.
+
+- d. Onder ‘humanitaire vluchten’ wordt verstaan: uitsluitend voor humanitaire doeleinden uitgevoerde vluchten die bedoeld zijn om hulpverleningspersoneel en hulpgoederen zoals voedsel, kleding, onderdak en medische en andere goederen tijdens of na een noodsituatie of ramp te vervoeren of om personen uit een plaats waar hun leven of gezondheid door die noodsituatie of ramp wordt bedreigd te evacueren naar een toevluchtsoord in dat land of een ander land dat bereid is dergelijke personen op te vangen.
+
+- e. Onder ‘medische noodvluchten’ wordt verstaan: vluchten die uitsluitend tot doel hebben de verlening van medische noodhulp te vergemakkelijken, indien onmiddellijk en snel vervoer essentieel is, door het vervoeren van medisch personeel, medische benodigdheden, met inbegrip van uitrusting, bloed, organen en geneesmiddelen, of zieken of gewonden en andere direct betrokkenen.
+
+- f. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscodes ‘H’ en ‘R’ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als STS/SAR, STS/FFR, STS/HUM, STS/MEDEVAC of STS/HOSP.
+
+- 4. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder f, bij de EG-richtlijn handel in broeikasgasemissierechten Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘T’ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als RMK/‘Training flight’.
+
+- 5. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder g, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder deze vluchten vallen geen veerdienst- en positioneringsvluchten.
+
+- b. Voor vluchten die uitsluitend worden uitgevoerd met het oog op wetenschappelijk onderzoek geldt dat het wetenschappelijk onderzoek geheel of gedeeltelijk tijdens de vlucht wordt uitgevoerd. Het vervoer van wetenschappers of onderzoeksuitrusting is hiervoor op zich niet voldoende.
+
+- c. Als vluchten die uitsluitend worden uitgevoerd met het oog op het controleren, testen of certificeren van luchtvaartuigen of grond- of boordapparatuur worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘N‘ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als STS/FLTCK.
+
+- 6. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder i, bij de EG-richtlijn handel in broeikasgasemissierechten Onder vluchten in het kader van openbaredienstverplichtingen (ODV) binnen ultraperifere gebieden worden uitsluitend verstaan ODV-vluchten binnen één ultraperifeer gebied of tussen twee ultraperifere gebieden.
+
+- 7. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder j, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Het commerciële kenmerk houdt verband met de exploitant en niet met de desbetreffende vluchten. In verband hiermee worden alle door een commerciële luchtvervoersonderneming uitgevoerde vluchten in aanmerking genomen om te bepalen of die exploitant onder bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten valt, ook al worden die vluchten niet tegen vergoeding uitgevoerd.
+
+- b. Vluchten die onder bijlage I, onder ‘Luchtvaart’, onder a tot en met i, bij de EG-richtlijn handel in broeikasgasemissierechten vallen, blijven buiten beschouwing.
+
+- c. De lokale tijd van vertrek van de vlucht bepaalt welke periode van vier maanden in aanmerking wordt genomen om te bepalen of een exploitant onder of boven de drempels, bedoeld in bijlage I, onder ‘Luchtvaart’, onder j, eerste gedachtestreepje, bij de EG-richtlijn handel in broeikasgasemissierechten, valt.
+
+- d. Uitsluitend in aanmerking worden genomen vluchten die vertrekken van of aankomen op een luchtvaartterrein dat gelegen is op het grondgebied van een lidstaat waarop het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 16) van toepassing is, waarbij onder ‘luchtvaartterrein’ wordt verstaan: een afgebakende zone op het land of op het water, met inbegrip van gebouwen, installaties en uitrusting, bestemd om geheel of gedeeltelijk te worden gebruikt voor de aankomst, het vertrek en het grondverkeer van luchtvaartuigen.
+
+- 8. Op vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, tweede alinea, bij de EG-richtlijn handel in broeikasgasemissierechten, zijn het eerste tot en met zevende lid van deze bijlage mede van toepassing op de vluchten als bedoeld onder b.
 
 ### COMPLIANCE REPORT ASSESSING APPLICATION OF ARTICLE 11 b (6) OF EMISSIONS TRADING DIRECTIVE TO HYDROELECTRIC PROJECT ACTIVITIES EXCEEDING 20 MW
 
@@ -1704,7 +1766,7 @@ Een netbeheerder als bedoeld in [artikel 1, eerste lid, van de Gaswet](https://w
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2025-04-05&g=2025-01-01)
+## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2025-04-05&g=2025-04-05)
 
 Vervallen
 
