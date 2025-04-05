@@ -4,7 +4,7 @@ identifier: "BWBR0037457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2023-09-01"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037457"
 soort: "ministeriele-regeling"
@@ -58,39 +58,37 @@ Het MT van S&I wordt gevormd door de directeur, de portefeuillehouders en de dir
 
 ##### Artikel 3
 
-Het MT is verantwoordelijk voor de volgende algemene taken:
+1. Het MT is, namens de Staatssecretaris van Justitie en Veiligheid, verantwoordelijk voor de volgende taken op het terrein van inburgering:
 
-- a. het zorgdragen voor het beleid ten behoeve van inburgering in het binnen- en buitenland, mede op basis van monitoring en evaluatie;
+- a. de uitvoering en beleidsmatige doorontwikkeling van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), de afbouw van de oude stelsels onder de [Wet inburgering 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) en de Wet inburgering 2013 en de uitvoering van het opdrachtgeverschap van de Dienst Uitvoering Onderwijs (DUO), het Centraal Orgaan opvang Asielzoekers (COA), de Immigratie- en Naturalisatiedienst (IND), het Centraal Bureau voor de Statistiek en het College voor Toetsen en Examens (CvTE);
 
-- b. het faciliteren van een sociaal leenstelsel voor inburgeraars, inclusief de kwijtschelding van leningen aan asielgerechtigden;
+- b. de ketenregie op inburgering stimuleren tussen onder andere DUO, COA, IND, Divosa, de Vereniging van Nederlandse Gemeenten, Blik op Werk, CvTE, vertegenwoordigers van inburgeraars en taalkoepels op basis van gezamenlijke ketendoelen, overleggen en managementinformatie;
 
-- c. het ontwikkelen van inburgeringsexamens en het onderhouden van een examenstelsel op zo’n manier dat de inburgeraars in staat worden gesteld deel te nemen aan de examens;
+- c. de borging van een lerend inburgeringsstelsel door middel van onder andere de uitvoering en doorontwikkeling van een monitoring- en evaluatieplan;
 
-- d. het in de rol van opdrachtgever toe zien dat de Dienst Uitvoering Onderwijs, als uitvoerder van het examenstelsel, de taken conform contractafspraken kan uitvoeren;
+- d. de informatievoorziening over inburgering tussen ketenpartners, zowel voor kaderstelling bij de doorontwikkeling als voor het beheer van onder andere ketenprocessen en informatiemodel;
 
-- e. het zodanig faciliteren van het Centraal Orgaan opvang asielzoekers dat zij haar taken ten aanzien van de voorinburgering en de maatschappelijke begeleiding kan uitvoeren;
+- e. het zorgdragen voor beleid en regelgeving ten aanzien van de inzet van het Asiel- en Migratiefonds in Nederland, dat in lijn is met het integratiebeleid.
 
-- f. een bijdrage leveren aan het aanpakken van de taalachterstand in de Nederlandse samenleving van onder andere migranten zodanig dat iedereen kan deelnemen aan de Nederlandse samenleving, zowel in het publieke domein, binnen het onderwijs als op de arbeidsmarkt;
+2. Het MT is verder verantwoordelijk voor de volgende taken:
 
-- g. de visievorming, het vergaren en verspreiden van kennis en het monitoren van het integratieproces, ter ondersteuning van het kabinetsbeleid ten aanzien van integratie;
+- a. beleidsontwikkeling en -uitvoering van activiteiten gericht op het bevorderen van samenleven in verscheidenheid in de Nederlandse samenleving, de preventie van discriminatie en racisme en het stimuleren van maatregelen rondom het uitoefenen van het recht op zelfbeschikking door personen uit gesloten gemeenschappen;
 
-- h. het ontwikkelen van beleid gericht op het omgaan met diversiteit in de samenleving, het tegengaan van sociale spanningen en het uitvoering geven aan de preventieve maatregelen tegen jihadisme;
+- b. het komen tot gelijkwaardige kansen op de Nederlandse arbeidsmarkt voor mensen met een migratie achtergrond, op weg naar gelijke posities, primair door de opschaling van effectieve aanpakken uit het programma en in de Werkagenda Verdere Integratie op de Arbeidsmarkt;
 
-- i. het ontwikkelen van beleid tegen rassendiscriminatie (discriminatie op basis van afkomst, geloof en etniciteit) in Nederland;
+- c. het voeren van het secretariaat van de Ministeriële Commissie Migratie en Samenleving (MCMS) inclusief ambtelijke portalen als Ambtelijke Commissie Migratie en Samenleving (ACMS) (op directeur-generaalniveau) en Interdepartementale Commissie Migratie en Samenleving (IDMS) (op directeurenniveau);
 
-- j. het bevorderen van de maatschappelijke participatie en de arbeidsmarktparticipatie van nieuwkomers in Nederland;
+- d. het vorm en richting geven aan de kennisfunctie op het terrein van integratie en inburgering onder andere middels het Kennisplatform Samenleven en Inclusief Samenleven (KIS) en uitvoering van de bijbehorende onderzoeksprogrammering bij onder andere het CBS, het Sociaal en Cultureel Planbureau, het Centraal Planbureau en het Wetenschappelijk Onderzoek- en Datacentrum;
 
-- k. de uitvoering en verbetering van de implementatie van de [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424);
+- e. de beleidsontwikkeling en -uitvoering inzake weerbaarheid en veerkracht voor doelgroepen die vatbaar zijn voor onder andere radicalisering, ongewenste polarisatie en ongewenste buitenlandse inmenging en vormgeven aan informele scholing en een imamopleiding;
 
-- l. het zorgdragen voor beleid en regelgeving ten aanzien van de inzet van het Asiel- en Migratiefonds in Nederland, dat in lijn is met het integratiebeleid;
+- f. het tegengaan van maatschappelijke spanningen, polarisatie en radicalisering waaronder problematisch gedrag;
 
-- m. het versterken van het bereik van regulier beleid voor migrantengroepen op het terrein van de arbeidsmarkt, het onderwijs, de zorg en criminaliteit, met name daar waar een generieke aanpak onvoldoende effectief is;
+- g. het ontwikkelen en uitvoeren van een Actie-agenda Integratie;
 
-- n. het zorgdragen voor de inbedding van internationale activiteiten op het gebied van integratie;
+- h. het vorm geven aan vormen van dialoog met maatschappelijke organisaties in het kader van de taken genoemd onder a tot en met f;
 
-- o. het – indien nodig – aandacht geven aan specifieke integratievraagstukken die zich voordoen bij specifieke groepen, zoals vluchtelingengroepen of Europese arbeidsmigranten;
-
-- p. het vorm geven aan vormen van dialoog met maatschappelijke organisaties in het kader van de taken, genoemd in de onderdelen a tot en met o.
+- i. de uitvoering en verbetering van de implementatie van de [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424).
 
 #### § 3. Bevoegdheden
 
