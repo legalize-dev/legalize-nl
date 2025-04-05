@@ -4,7 +4,7 @@ identifier: "BWBR0037454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-05"
-last_updated: "2023-09-01"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037454"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ De directie Participatie en Decentrale Voorzieningen bestaat uit de volgende afd
 
 - a. de afdeling Generieke Participatievoorzieningen;
 
-- b. de afdeling Specifieke Participatievoorzieningen;
+- b. de afdeling Re-integratie en Participatie;
 
 - c. de afdeling Participatie en Arbeidsmarktregio’s;
 
@@ -72,11 +72,11 @@ Het hoofd van de afdeling Generieke Participatievoorzieningen is verantwoordelij
 
 ##### Artikel 4
 
-Het hoofd van de afdeling Specifieke Participatievoorzieningen is verantwoordelijk voor:
+Het hoofd van de afdeling Re-integratie en Participatie is verantwoordelijk voor:
 
 - a. de beleidsontwikkeling op het terrein van het samenhangend re-integratie instrumentarium van gemeenten, waaronder het versterken van de gemeentelijke uitvoeringspraktijk, en het onderhoud hiervan;
 
-- b. de beleidsontwikkeling op het terrein van de jeugdwerkloosheid, waaronder de regionale aanpak van de jeugdwerkloosheid en de verbetering van de aansluiting tussen het onderwijs en de arbeidsmarkt;
+- b. de beleidsvorming en -ontwikkeling ter verbetering van de aansluiting van het onderwijs op de arbeidsmarkt, gericht op enerzijds een soepele overgang van school naar duurzaam werk voor jongeren tot 27 jaar en anderzijds de inzet van passende scholing voor het aan het werk helpen en houden van werkzoekenden en werkenden met een kwetsbare positie op de arbeidsmarkt;
 
 - c. de beleidsontwikkeling op het terrein van het bevorderen van zelfstandig ondernemerschap, mede in relatie tot het [Besluit bijstandsverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711);
 
