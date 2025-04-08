@@ -4,7 +4,7 @@ identifier: "BWBR0045964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-08"
-last_updated: "2024-03-16"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045964"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **provincie:** provincie die uitvoering geeft aan de regionale MIT-regeling;
 
-- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2024-03-16&g=2024-03-16);
+- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2025-04-08&g=2025-04-08);
 
 - **uitvoeringsactiviteit:** activiteit die wordt uitgevoerd in het kader van de regionale MIT-regeling.
 
@@ -60,7 +60,7 @@ De Minister kan een specifieke uitkering voor uitvoeringsactiviteiten verstrekke
 
 ##### Artikel 3. Hoogte van de uitkering
 
-De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2024-03-16&g=2024-03-16) bij deze regeling.
+De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2025-04-08&g=2025-04-08) bij deze regeling.
 
 ##### Artikel 4. Aanvraag tot verlening
 
@@ -102,13 +102,13 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering MKB-innovatiestimulering topsectoren (MIT).
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2024-03-16&g=2024-03-16)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2025-04-08&g=2025-04-08)
 
 ### 1. Regionale MIT-regeling voor uitvoeringsperiode 2021–2025
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-09-16&g=2022-09-16)
 
-### 3. Regionale MIT-regeling voor uitvoeringsperiode 2024–2028
+### 3. Regionale MIT-regeling voor uitvoeringsperiode 2023–2027
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -116,9 +116,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-10-14&g=2022-10-14)
 
-### 3. Regionale MIT-regeling voor uitvoeringsperiode 2023–2027
+### 4. Regionale MIT-regeling voor uitvoeringsperiode 2024–2028
 
-### 1. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2021–2025
+### 5. Regionale MIT-regeling voor uitvoeringsperiode 2025–2029
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -126,14 +126,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 1. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2021–2025
 
-### 2. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2022–2026
+### 1. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2021–2025
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2024-03-16&g=2024-03-16)
 
-### 3. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
+### 2. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2022–2026
 
 ### 3. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2023–2027
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2025-04-08&g=2025-04-08)
+
+### 4. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
+
+### 5. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2024–2028
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
