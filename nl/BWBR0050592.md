@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-04-01"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -58,6 +58,8 @@ Besluiten:
 | [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | Warmte-infrastructuur glastuinbouw | 31-01-2025 t/m 31-03-2025 | € 90.000.000 |
 | [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
 | [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.25.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
+| [Titel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.4): MKB-innovatiestimulering topsectoren | [3.4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.4.20) | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 08-04-2025 t/m 27-05-2025 | € 3.550.000 |
+|   |   | MIT-R&D-samenwerkingsprojecten |   |   | 10-06-2025 t/m 16-09-2025 | € 3.115.000, waarvan ten hoogste € 1.557.500 voor MIT-R&D-samenwerkingsprojecten groot |
 | [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   |   | 24-10-2024 t/m 30-01-2025 | € 7.500.000 |
 | [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | Innovatie (internationaal) | 01-01-2025 t/m 21-01-2025 | € 12.175.000 |
 | [Titel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.8): Internationaal Innoveren | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | ITEA4-Innovatieprojecten | Marktgerichte software innovatie | Marktgerichte software innovatie | 01-04-2025 t/m 18-04-2025 | € 7.250.000 |
