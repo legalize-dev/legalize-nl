@@ -4,7 +4,7 @@ identifier: "BWBR0049064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-06-01"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049064"
 soort: "ministeriele-regeling"
@@ -48,9 +48,7 @@ In dit hoofdstuk wordt verstaan onder wet: [Invoeringswet Omgevingswet](https://
 
 ##### Artikel 1.2. (aanvulling [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.2) – beroepsmogelijkheid [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555))
 
-1. In aanvulling op [artikel 2.2, onder B, onder 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.2) kan tegen een besluit genomen op grond van [artikel 8.4 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4) ook geen beroep worden ingesteld op grond van [artikel 8:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5).
-
-2. In aanvulling op [artikel 2.2, onder B, onder 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.2) heeft de verwijzing naar artikel 8.15, eerste lid, in de zinsnede met betrekking tot de Wet luchtvaart, betrekking op [artikel 8.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15).
+Vervallen
 
 ##### Artikel 1.3. (aanvulling [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.3) – [artikel 7:235 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235))
 
@@ -234,7 +232,7 @@ In aanvulling op artikel 22.61a van de bruidsschat geldt dat artikel ook voor ac
 
 ##### Artikel 7.1a. (vervallen bij inwerkingtreding Energiewet)
 
-[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2024-06-01&g=2024-06-01) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
+[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2025-04-09&g=2025-04-09) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
 
 ### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
 
