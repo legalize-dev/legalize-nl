@@ -4,7 +4,7 @@ identifier: "BWBR0050932"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-26"
-last_updated: "2025-04-01"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050932"
 soort: "zbo"
@@ -66,7 +66,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - 13). **cofinanciering:** Aanvullende financiering voor het activiteitenprogramma in de vorm van bijvoorbeeld een andere subsidie, sponsoring, investeringen, eigen inkomsten uit bijvoorbeeld kaartverkoop of bijdrage van een externe partij, naast de gevraagde subsidie van het Stimuleringsfonds.
 
-- 14). **consortium:** Een samenwerkingsverband dat voldoet aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-01) van deze regeling gestelde eisen.
+- 14). **consortium:** Een samenwerkingsverband dat voldoet aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-09) van deze regeling gestelde eisen.
 
 - 15). **creatieve industrie:** Het werkterrein van de disciplines vormgeving, architectuur, digitale cultuur – inclusief het IX-werkveld – en mogelijke cross-overs tussen deze disciplines.
 
@@ -168,15 +168,15 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 7). Het bestuur wijst een aanvraag af als de aanvraag niet binnen het betreffende subsidietijdvak is ingediend.
 
-8). Aanvragen worden getoetst op volgorde van binnenkomst. Hierbij geldt het moment dat de aanvraag volledig is op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-01).
+8). Aanvragen worden getoetst op volgorde van binnenkomst. Hierbij geldt het moment dat de aanvraag volledig is op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-09).
 
-9). Aanvragen die voldoen aan de ingangseisen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-01) en de voorwaarden in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=8&z=2025-04-09&g=2025-04-01) worden gerangschikt tot het moment dat het maximumaantal aanvragen voor de aanvraagronde wordt bereikt.
+9). Aanvragen die voldoen aan de ingangseisen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-09) en de voorwaarden in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=8&z=2025-04-09&g=2025-04-09) worden gerangschikt tot het moment dat het maximumaantal aanvragen voor de aanvraagronde wordt bereikt.
 
 10). Aanvragen die later zijn ingediend dan de aanvraag waarmee het maximumaantal van de aanvraagronde is bereikt, worden niet in behandeling genomen.
 
 11). Het bestuur kan, als het maximumaantal aanvragen voor de aanvraagronde is bereikt, het subsidietijdvak eerder sluiten dan als bedoeld in lid 1 van dit artikel. Het bestuur doet van de eerdere sluiting mededeling via [www.stimuleringsfonds.nl](https://www.stimuleringsfonds.nl/).
 
-12). Het bestuur wijst aanvragen af die niet voldoen aan de criteria vermeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=8&z=2025-04-09&g=2025-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-01) van de regeling.
+12). Het bestuur wijst aanvragen af die niet voldoen aan de criteria vermeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=8&z=2025-04-09&g=2025-04-09) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-09) van de regeling.
 
 13). Eventueel nieuw te publiceren ADRIE-aanvraagrondes worden, met verwijzing naar deze regeling, separaat gepubliceerd in de Staatscourant.
 
@@ -184,13 +184,13 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 1). Alleen aanvragen die voldoen aan de volgende eisen kunnen in aanvraagronde 1A in behandeling worden genomen:
 
-- a). Het consortium voldoet aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-01) gestelde eisen;
+- a). Het consortium voldoet aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-09) gestelde eisen;
 
-- b). De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-01) vereiste in het Koninkrijk gevestigde deelnemers aan het consortium staan ingeschreven in het Handelsregister van de Nederlandse Kamer van Koophandel of bij een van de Handelsregisters die vallen binnen het Koninkrijk;
+- b). De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-09) vereiste in het Koninkrijk gevestigde deelnemers aan het consortium staan ingeschreven in het Handelsregister van de Nederlandse Kamer van Koophandel of bij een van de Handelsregisters die vallen binnen het Koninkrijk;
 
 - c). De hoofdaanvrager is ten tijde van de aanvraag minimaal twee jaar onafgebroken gevestigd en actief geweest in het Koninkrijk;
 
-- d). De aanvraag sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=2&z=2025-04-09&g=2025-04-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=3&z=2025-04-09&g=2025-04-01);
+- d). De aanvraag sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=2&z=2025-04-09&g=2025-04-09) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=3&z=2025-04-09&g=2025-04-09);
 
 - e). Er is sprake van een – naar oordeel van het bestuur – goed onderbouwde subsidiebehoefte;
 
@@ -210,7 +210,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - a). Aan de hoofdaanvrager is subsidie verleend voor het opstellen van een activiteitenprogramma in aanvraagronde 1A;
 
-- b). De aanvraag sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=2&z=2025-04-09&g=2025-04-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=3&z=2025-04-09&g=2025-04-01);
+- b). De aanvraag sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=2&z=2025-04-09&g=2025-04-09) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=3&z=2025-04-09&g=2025-04-09);
 
 - c). Met de uitvoering van een activiteitenprogramma wordt niet eerder gestart dan na de beschikkingsdatum en niet later dan twaalf weken na de beschikkingsdatum;
 
@@ -272,11 +272,11 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 ##### Artikel 9. Consortium, hoofdaanvrager, mede-aanvragers en partners
 
-1). De aanvraag wordt namens het consortium ingediend door, verleend aan en verantwoord door de hoofdaanvrager, zoals beschreven onder [artikel 1 lid 18](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-01). Op de hoofdaanvrager rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende activiteiten;
+1). De aanvraag wordt namens het consortium ingediend door, verleend aan en verantwoord door de hoofdaanvrager, zoals beschreven onder [artikel 1 lid 18](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-09). Op de hoofdaanvrager rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende activiteiten;
 
 2). Het consortium bestaat uit minimaal drie in het Koninkrijk gevestigde deelnemers (de hoofdaanvrager en mede-aanvragers), waarbij geldt dat de volgende drie kerngroepen in het consortium vertegenwoordigd dienen te zijn:
 
-- a). makers en ontwerpers (individueel of als makerscollectief) van IX-projecten en IX-producenten in het culturele- en mediadomein. Zowel de rol van maker als producent moet in het consortium vertegenwoordigd zijn. Zie ook [artikel 11 lid 2.d](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=11&z=2025-04-09&g=2025-04-01);
+- a). makers en ontwerpers (individueel of als makerscollectief) van IX-projecten en IX-producenten in het culturele- en mediadomein. Zowel de rol van maker als producent moet in het consortium vertegenwoordigd zijn. Zie ook [artikel 11 lid 2.d](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=11&z=2025-04-09&g=2025-04-09);
 
 - b). organisaties in het culturele- en mediadomein die:
 
@@ -290,13 +290,13 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - c). onderzoekers werkzaam bij een hogeschool of universiteit die op een integrale, praktijkgerichte en mogelijk ook fundamentele wijze theoretische en praktische kennis, methodieken en gereedschappen inbrengen en toepassen in het artistiek en ontwerpend onderzoek. Waar mogelijk wordt door deze onderzoekers aansluiting gezocht met het mbo om het activiteitenprogramma toegankelijker te maken en de koppeling met de praktijk te versterken.
 
-3). Het consortium betreft een tijdelijk samenwerkingsverband tussen minimaal drie deelnemers beschreven onder lid 2, die elkaar aanvullen in kennis en werkwijze en voornemens zijn op inhoudelijk gelijkwaardige wijze een activiteitenprogramma uit te voeren. Dit dient kenbaar gemaakt te worden in de samenwerkingsovereenkomsten als beschreven onder [artikel 1 lid 29](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-01).
+3). Het consortium betreft een tijdelijk samenwerkingsverband tussen minimaal drie deelnemers beschreven onder lid 2, die elkaar aanvullen in kennis en werkwijze en voornemens zijn op inhoudelijk gelijkwaardige wijze een activiteitenprogramma uit te voeren. Dit dient kenbaar gemaakt te worden in de samenwerkingsovereenkomsten als beschreven onder [artikel 1 lid 29](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-09).
 
-4). Er kunnen één of meerdere partijen optreden als internationale partner van het consortium als beschreven onder [artikel 1 lid 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-01) die een bijdrage leveren aan de doelstellingen van het consortium en het activiteitenprogramma als omschreven in de aanvraag zoals vermeld in [artikel 10 lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-01).
+4). Er kunnen één of meerdere partijen optreden als internationale partner van het consortium als beschreven onder [artikel 1 lid 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2025-04-09&g=2025-04-09) die een bijdrage leveren aan de doelstellingen van het consortium en het activiteitenprogramma als omschreven in de aanvraag zoals vermeld in [artikel 10 lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-09).
 
 5). Deelnemers (hoofdaanvragers en mede-aanvragers) en internationale partners mogen onderdeel zijn van meerdere consortia waarvoor een aanvraag wordt ingediend op grond van deze regeling, mits zij de noodzaak hiervan – en het onderscheid tussen de deelname in de verschillende consortia – voldoende onderbouwd hebben in de aanvraag.
 
-6). Activiteiten van hogescholen en universiteiten die plaatsvinden in het kader van een studie, opleiding, postdoc of PhD kunnen onderdeel zijn van een activiteitenprogramma, mits het genereren van praktijkgerichte, fundamentele c.q. toegepaste kennis en de onderzoeksmethodiek aansluit op de doelstellingen van het consortium als omschreven in de aanvraag zoals vermeld in [artikel 10 lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-01).
+6). Activiteiten van hogescholen en universiteiten die plaatsvinden in het kader van een studie, opleiding, postdoc of PhD kunnen onderdeel zijn van een activiteitenprogramma, mits het genereren van praktijkgerichte, fundamentele c.q. toegepaste kennis en de onderzoeksmethodiek aansluit op de doelstellingen van het consortium als omschreven in de aanvraag zoals vermeld in [artikel 10 lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-09).
 
 ##### Artikel 10. Inhoud van de aanvraag
 
@@ -304,7 +304,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 2). Een aanvraag voor subsidie voor het opstellen van een activiteitenprogramma (aanvraagronde 1A) bevat:
 
-- a). een volledig ingevuld aanvraagformulier (zie [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-01));
+- a). een volledig ingevuld aanvraagformulier (zie [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-09));
 
 - b). een projectvoorstel (pdf; maximaal 10 MB; maximaal 10 pagina’s inclusief beeldmateriaal; A4-formaat staand; minimale tekstgrootte 10; regelafstand 1,0) met daarin:
 
@@ -312,7 +312,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - ii). een beschrijving van de missie en doelstellingen van het voorgenomen consortium;
 
-- iii). een toelichting op het centraal gestelde artistiek en ontwerpend onderzoek voor immersieve ervaringen (incl. de aansluiting op subthema's uit de CIIIC Innovatie Agenda, zoals vermeld in [artikel 7 lid 1f](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-01));
+- iii). een toelichting op het centraal gestelde artistiek en ontwerpend onderzoek voor immersieve ervaringen (incl. de aansluiting op subthema's uit de CIIIC Innovatie Agenda, zoals vermeld in [artikel 7 lid 1f](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-09));
 
 - iv). een korte beschrijving van de activiteiten die het consortium in het eerste jaar van het activiteitenprogramma wil uitvoeren;
 
@@ -338,7 +338,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 3). Een aanvraag voor subsidie voor het uitvoeren van een activiteitenprogramma (aanvraagronde 1B) bevat:
 
-- a). een volledig ingevuld aanvraagformulier (zie [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-01));
+- a). een volledig ingevuld aanvraagformulier (zie [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-09));
 
 - b). een projectplan (pdf; maximaal 20 MB; maximaal 20 pagina’s inclusief beeldmateriaal; A4-formaat staand; minimale tekstgrootte 10; regelafstand 1,0) met daarin:
 
@@ -346,7 +346,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - ii). een beschrijving van de missie en doelstellingen van het consortium;
 
-- iii). een toelichting op het centraal gestelde artistiek en ontwerpend onderzoek voor immersieve ervaringen (incl. de aansluiting op subthema's uit de CIIIC Innovatie Agenda, zoals vermeld in [artikel 7 lid 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-01));
+- iii). een toelichting op het centraal gestelde artistiek en ontwerpend onderzoek voor immersieve ervaringen (incl. de aansluiting op subthema's uit de CIIIC Innovatie Agenda, zoals vermeld in [artikel 7 lid 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-09));
 
 - iv). een gedetailleerde beschrijving en planning van het tweejarige activiteitenprogramma dat het consortium wil gaan uitvoeren;
 
@@ -360,13 +360,13 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - c). een sluitende begroting en dekkingsplan voor het tweejarige activiteitenprogramma volgens het format modelbegroting van deze aanvraagronde (zie lid 1 van dit artikel);
 
-- d). een volledig ingevulde **Zelftoets Publieke Waarden binnen IX** (zie [artikel 7 lid 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-01));
+- d). een volledig ingevulde **Zelftoets Publieke Waarden binnen IX** (zie [artikel 7 lid 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=7&z=2025-04-09&g=2025-04-09));
 
 - e). de samenwerkingsovereenkomsten (pdf; maximaal 4 MB per document) tussen de hoofdaanvrager en alle mede-aanvragers en internationale partners;
 
 - f). één afbeelding (jpg; maximaal 4 MB) die representatief is voor het activiteitenprogramma, bestemd voor communicatie-uitingen door het Stimuleringsfonds en CIIIC en waarvan de benodigde rechten van de afbeelding bij het consortium liggen; en
 
-- g). indien er nieuwe mede-aanvragers worden betrokken uit kerngroep a zoals genoemd in [artikel 9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-01) (makers en ontwerpers en producenten) die nog niet zijn opgenomen in de aanvraag in aanvraagronde 1A, dient er voor deze partijen ontbrekende informatie te worden aangeleverd (cv's uitvoerenden volgens lid 2d van dit artikel, portfolio’s volgens lid 2e). Er kunnen geen nieuwe mede-aanvragers worden betrokken binnen kerngroepen b (organisaties in het culturele- en mediadomein) en c (onderzoekers) als genoemd in artikel 9 lid 2 die nog niet zijn opgenomen in de aanvraag in aanvraagronde 1A.
+- g). indien er nieuwe mede-aanvragers worden betrokken uit kerngroep a zoals genoemd in [artikel 9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2025-04-09&g=2025-04-09) (makers en ontwerpers en producenten) die nog niet zijn opgenomen in de aanvraag in aanvraagronde 1A, dient er voor deze partijen ontbrekende informatie te worden aangeleverd (cv's uitvoerenden volgens lid 2d van dit artikel, portfolio’s volgens lid 2e). Er kunnen geen nieuwe mede-aanvragers worden betrokken binnen kerngroepen b (organisaties in het culturele- en mediadomein) en c (onderzoekers) als genoemd in artikel 9 lid 2 die nog niet zijn opgenomen in de aanvraag in aanvraagronde 1A.
 
 ##### Artikel 11. Begroting
 
@@ -394,7 +394,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - iv). 1 fte voor onderzoekers.
 
-- e). deelnemers dienen in de begroting uren te reserveren (uitgaande van een werkdag per kwartaal per deelnemer) voor participatie aan activiteiten ten behoeve van kennisontwikkeling en kennisdeling als genoemd in [artikel 12 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=12&z=2025-04-09&g=2025-04-01).
+- e). deelnemers dienen in de begroting uren te reserveren (uitgaande van een werkdag per kwartaal per deelnemer) voor participatie aan activiteiten ten behoeve van kennisontwikkeling en kennisdeling als genoemd in [artikel 12 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=12&z=2025-04-09&g=2025-04-09).
 
 ##### Artikel 12. Kennisontwikkeling, kennisdeling en intellectueel eigendom
 
@@ -436,21 +436,21 @@ De deelnemers aan het consortium:
 
 - d). als aanvragen voor het opstellen van een activiteitenprogramma (aanvraagronde 1A) op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan worden deze gelijk geëindigde aanvragen als volgt onderling gerangschikt:
 
-- i). Prioriteringscriterium 1: [artikel 14, lid 1 a](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-01);
+- i). Prioriteringscriterium 1: [artikel 14, lid 1 a](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-09);
 
-- ii). Prioriteringscriterium 2: [artikel 14, lid 1 c](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-01);
+- ii). Prioriteringscriterium 2: [artikel 14, lid 1 c](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-09);
 
 - e). als aanvragen voor de uitvoering van een activiteitenprogramma (aanvraagronde 1B) op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan worden deze gelijk geëindigde aanvragen als volgt onderling gerangschikt:
 
-- i). Prioriteringscriterium 1: [artikel 14, lid 2 a](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-01);
+- i). Prioriteringscriterium 1: [artikel 14, lid 2 a](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-09);
 
-- ii). Prioriteringscriterium 2: [artikel 14, lid 2 e](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-01).
+- ii). Prioriteringscriterium 2: [artikel 14, lid 2 e](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-09).
 
-- iii). Prioriteringscriterium 3: [artikel 14, lid 2 d](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-01).
+- iii). Prioriteringscriterium 3: [artikel 14, lid 2 d](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2025-04-09&g=2025-04-09).
 
 ##### Artikel 14. Beoordelingscriteria
 
-1). De adviescommissie hanteert bij de beoordeling van een subsidieaanvraag voor het opstellen van een activiteitenprogramma (aanvraagronde 1A) de volgende criteria, die in gelijke mate worden gewogen, tot aan de behoefte aan prioritering zoals vermeld in [artikel 13, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=13&z=2025-04-09&g=2025-04-01):
+1). De adviescommissie hanteert bij de beoordeling van een subsidieaanvraag voor het opstellen van een activiteitenprogramma (aanvraagronde 1A) de volgende criteria, die in gelijke mate worden gewogen, tot aan de behoefte aan prioritering zoals vermeld in [artikel 13, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=13&z=2025-04-09&g=2025-04-09):
 
 - a). de samenstelling van het consortium: er wordt door de adviescommissie gekeken naar wie de deelnemers zijn van het consortium en welke rol zij vervullen. Welke internationale partners zijn aangesloten en vullen de partijen elkaar aan in kennis en werkwijzen? Verder wordt er gekeken of er sprake is van inhoudelijk gelijkwaardige samenwerking;
 
@@ -458,9 +458,9 @@ De deelnemers aan het consortium:
 
 - c). de bedrijfsmatige gezondheid van het consortium: is er voldoende aangetoond dat het consortium op verantwoorde en duurzame wijze kan functioneren?; en
 
-- d). de consistentie in doel en opzet van de aanvraag: hierbij worden alle in [artikel 10 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-01) genoemde onderdelen in onderling verband en samenhang beoordeeld.
+- d). de consistentie in doel en opzet van de aanvraag: hierbij worden alle in [artikel 10 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2025-04-09&g=2025-04-09) genoemde onderdelen in onderling verband en samenhang beoordeeld.
 
-2). De adviescommissie hanteert bij de beoordeling van een subsidieaanvraag voor het uitvoeren van een activiteitenprogramma (aanvraagronde 1B) de volgende criteria, die in gelijke mate worden gewogen, tot aan de behoefte aan prioritering zoals vermeld in [artikel 13, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=13&z=2025-04-09&g=2025-04-01):
+2). De adviescommissie hanteert bij de beoordeling van een subsidieaanvraag voor het uitvoeren van een activiteitenprogramma (aanvraagronde 1B) de volgende criteria, die in gelijke mate worden gewogen, tot aan de behoefte aan prioritering zoals vermeld in [artikel 13, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=13&z=2025-04-09&g=2025-04-09):
 
 - a). definitieve samenstelling van het consortium en betrokken partners: er wordt door de adviescommissie gekeken naar wie de deelnemers zijn van het consortium en welke rol zij vervullen, welke internationale partners zijn aangesloten en of deze partijen elkaar aanvullen in kennis en werkwijzen. Verder wordt er gekeken of er sprake is van inhoudelijk gelijkwaardige samenwerking;
 
@@ -478,7 +478,7 @@ De deelnemers aan het consortium:
 
 ##### Artikel 15. Verlening van een subsidie
 
-1). Het bestuur informeert de hoofdaanvrager binnen 12 weken na de sluitingsdatum voor aanvraagrondes 1A en 1B (genoemd in het onder het in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-01) gepubliceerde subsidietijdvak) over het besluit.
+1). Het bestuur informeert de hoofdaanvrager binnen 12 weken na de sluitingsdatum voor aanvraagrondes 1A en 1B (genoemd in het onder het in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2025-04-09&g=2025-04-09) gepubliceerde subsidietijdvak) over het besluit.
 
 2). Het bestuur kan in dit besluit aanvullende verplichtingen aan de subsidieverlening verbinden.
 
@@ -492,7 +492,7 @@ De deelnemers aan het consortium:
 
 - a). Subsidie voor het opstellen van het tweejarige activiteitenprogramma (aanvraagronde 1A): 100% binnen 1 maand na bekendmaking van het besluit tot subsidieverlening;
 
-- b). Subsidie voor het uitvoeren van het tweejarige activiteitenprogramma (aanvraagronde 1B): 45% in de eerste maand van het eerste jaar van het activiteitenprogramma; 45% in de eerste maand van het tweede jaar van het activiteitenprogramma. De resterende 10% wordt uitbetaald na het besluit tot vaststelling van de subsidie als genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=6&artikel=21&z=2025-04-09&g=2025-04-01).
+- b). Subsidie voor het uitvoeren van het tweejarige activiteitenprogramma (aanvraagronde 1B): 45% in de eerste maand van het eerste jaar van het activiteitenprogramma; 45% in de eerste maand van het tweede jaar van het activiteitenprogramma. De resterende 10% wordt uitbetaald na het besluit tot vaststelling van de subsidie als genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=6&artikel=21&z=2025-04-09&g=2025-04-09).
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
@@ -552,7 +552,7 @@ De deelnemers aan het consortium:
 
 2). Uiterlijk 16 weken na afloop van het uitvoeren van een activiteitenprogramma (aanvraagronde 1B) wordt door de hoofdaanvrager een aanvraag tot vaststelling ingediend via de [aanvraagomgeving](https://aanvragen.stimuleringsfonds.nl/) van het Stimuleringsfonds.
 
-3). Als uit de verantwoording genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=6&artikel=20&z=2025-04-09&g=2025-04-01) blijkt dat de activiteiten volgens de aanvraag zijn uitgevoerd en dat er is voldaan aan alle aan de subsidie verbonden verplichtingen, dan stelt het bestuur de subsidie binnen 10 weken na het indienen van de aanvraag tot vaststelling overeenkomstig de verlening vast.
+3). Als uit de verantwoording genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=6&artikel=20&z=2025-04-09&g=2025-04-09) blijkt dat de activiteiten volgens de aanvraag zijn uitgevoerd en dat er is voldaan aan alle aan de subsidie verbonden verplichtingen, dan stelt het bestuur de subsidie binnen 10 weken na het indienen van de aanvraag tot vaststelling overeenkomstig de verlening vast.
 
 4). Als blijkt dat activiteiten niet of slechts gedeeltelijk zijn uitgevoerd, dan kan de subsidie lager worden vastgesteld.
 
