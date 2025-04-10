@@ -4,7 +4,7 @@ identifier: "BWBR0049327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-10"
-last_updated: "2025-02-15"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049327"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap
 
-- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2024-02-06&g=2025-02-15);
+- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2025-04-10&g=2025-04-10);
 
 - d. **dierproef:** elk al dan niet invasief gebruik van een dier voor experimentele of andere wetenschappelijke doeleinden, waarvan het resultaat bekend of onbekend is, of onderwijskundige doeleinden, die bij het dier evenveel of meer pijn, lijden, angst of blijvende schade kan veroorzaken als, dan wel dan het inbrengen van een naald volgens goed diergeneeskundig vakmanschap. Dit omvat ieder gebruik waarvan het doel of het mogelijke gevolg de geboorte of het uit het ei breken van een dier is, dan wel het in een dergelijke toestand brengen en houden van een genetisch gemodificeerde dierenlijn, met inbegrip van het doden van dieren ten behoeve van het gebruik van hun organen, weefsels of lichaamsvloeistoffen voor een doel genoemd in [artikel 1c van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1c).
 
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak een onderzoek uit te voeren naar de mogelijkheid om het aantal proeven op niet-humane primaten verder te verlagen zonder dat dit gevolgen heeft voor het onderzoek dat strikt noodzakelijk is voor de bestrijding van levensbedreigende ziekten en uitbraken van infectieziekten die de volksgezondheid bedreigen.
 
-3. De commissie brengt hierover uiterlijk november 2024 een rapport uit aan de minister.
+3. De commissie brengt hierover uiterlijk maart 2025 een rapport uit aan de minister.
 
 ##### Artikel 3. Nadere uitwerking van taken commissie
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Leden
 
-1. Met ingang van 15 november 2023 worden, voor de periode tot 15 februari 2025, tot lid van de commissie benoemd:
+1. Met ingang van 15 november 2023 worden, voor de periode tot 31 maart 2025, tot lid van de commissie benoemd:
 
 - a. Prof. dr. Ir. W.E. (Wiebe) Bijker, tevens voorzitter;
 
@@ -128,7 +128,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Instellingsduur
 
-De commissie wordt met ingang van 15 november 2023 ingesteld voor de duur van 15 maanden.
+De commissie wordt met ingang van 15 november 2023 ingesteld voor de duur van 16,5 maanden.
 
 ##### Artikel 9. Informatieplicht
 
@@ -138,11 +138,11 @@ De commissie verstrekt aan de minister desgevraagd de door de minister gewenste 
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
-- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2024-02-06&g=2025-02-15);
+- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2025-04-10&g=2025-04-10);
 
 - b. binnenlandse reiskosten van de leden van de commissie;
 
-- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2024-02-06&g=2025-02-15); en,
+- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2025-04-10&g=2025-04-10); en,
 
 - d. de kosten voor publicatie van rapportages.
 
