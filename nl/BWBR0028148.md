@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2024-12-07"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -280,7 +280,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028148&artikel=2&z=2025-04-10&g=2025-04-10)
 
 | wo bachelor in combinatie met educatieve minor1 of de wo bachelor verbonden aan de educatieve module | CROHO code | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
 | --- | --- | --- | --- |
@@ -309,11 +309,13 @@ Vervallen
 | Biology | 59325 | Radboud Universiteit Nijmegen | Leraar Biologie |
 | Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | Leraar Biologie |
 | Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Biologie |
+| Geneeskunde | 56551 | Universiteit Maastricht | Leraar Biologie |
 | Gezondheid en Leven5 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
 | Gezondheidswetenschappen | 56553 | Universiteit Maastricht | Leraar Biologie |
 | Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Biologie |
 | Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)6 | 56835 | Wageningen University | Leraar Biologie |
 | Psychobiologie | 50014 | Universiteit van Amsterdam | Leraar Biologie |
+| Regenerative Medicine and Technology7 | 59346 | Universiteit Maastricht | Leraar Biologie |
 | Chinastudies | 56818 | Universiteit Leiden | Leraar Chinees |
 | Duitse Taal en Cultuur (afstudeerrichting Duits) | 56805 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Duits |
 | Europese Talen en Culturen (afstudeerrichting Duits) | 56124 | Rijksuniversiteit Groningen | Leraar Duits |
@@ -323,7 +325,9 @@ Vervallen
 | Bedrijfs- en Consumentenwetenschappen | 56836 | Wageningen University | Leraar Economie |
 | Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Open Universiteit | Leraar Economie |
 | Business Administration | 50897 | Universiteit van Amsterdam | Leraar Economie |
+| Econometrics and Operations Research8 | 56833 | Universiteit Maastricht | Leraar Economie |
 | Economics and Business Economics | 59318 | Universiteit van Amsterdam | Leraar Economie |
+| Economics and Business Economics, specialisatie Economics | 50950 | Universiteit Maastricht | Leraar Economie |
 | Economie | 56401 | Tilburg University | Leraar Economie |
 | Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University, Universiteit Utrecht | Leraar Economie |
 | Economie en Bedrijfskunde | 50905 | Universiteit van Amsterdam | Leraar Economie |
@@ -348,6 +352,7 @@ Vervallen
 | Algemene Cultuurwetenschappen | 56823 | Erasmus Universiteit Rotterdam, Tilburg University | Leraar Geschiedenis en Staatsinrichting |
 | Geschiedenis | 56034 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Geschiedenis en Staatsinrichting |
 | Religiewetenschappen | 50902 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Godsdienst en Levensbeschouwing |
+| Taal- en Cultuurstudies, afstudeerrichting Religie | 56801 | Universiteit Utrecht | Leraar Godsdienst en Levensbeschouwing |
 | Theologie | 56109 | Rijksuniversiteit Groningen, Radboud Universiteit Nijmegen, Tilburg University, Theologische Universiteit Kampen, Theologische Universiteit Apeldoorn | Leraar Godsdienst en Levensbeschouwing |
 | Theologie (joint degree) | 55004 | Vrije Universiteit Amsterdam | Leraar Godsdienst en Levensbeschouwing |
 | Theology and Religious Studies | 50910 | Vrije Universiteit Amsterdam | Leraar Godsdienst en Levensbeschouwing |
@@ -358,11 +363,11 @@ Vervallen
 | Bèta-gamma (Afstudeerrichting Kunstmatige Intelligentie) | 50250 | Universiteit van Amsterdam | Leraar Informatica |
 | Business Information Technology | 56066 | Universiteit Twente | Leraar Informatica |
 | Cognitive Science and Artificial Intelligence | 59338 | Tilburg University | Leraar Informatica |
-| Computer Science | 50426 | Vrije Universiteit Amsterdam | Leraar Informatica |
+| Computer Science | 50426 | Vrije Universiteit Amsterdam, Universiteit Maastricht | Leraar Informatica |
 | Computing Science | 59326 | Radboud Universiteit Nijmegen | Leraar Informatica |
 | Creative Technology | 50447 | Universiteit Twente | Leraar Informatica |
 | Data Science & Artificial Intelligence | 50300 | Universiteit Maastricht | Leraar Informatica |
-| Data Science (joint degree)7 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
+| Data Science (joint degree)9 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
 | Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Informatica |
 | Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
 | Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Informatica |
@@ -481,11 +486,13 @@ Vervallen
 | Applied Mathematics | 59336 | Universiteit Twente | Leraar Wiskunde |
 | Bèta-gamma (afstudeerrichting Wiskunde) | 50250 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Biomedische Technologie | 56226 | Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
+| Biotechnologie | 56841 | Wageningen University | Leraar Wiskunde |
 | Business Analytics | 56856 | Vrije Universiteit Amsterdam | Leraar Wiskunde |
 | Civil Engineering | 50352 | Universiteit Twente | Leraar Wiskunde |
 | Civiele Techniek | 56952 | Technische Universiteit Delft, Universiteit Twente | Leraar Wiskunde |
 | Data Science (joint degree) | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Wiskunde |
 | Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Wiskunde |
+| Econometrics and Data Science | 59332 | Vrije Universiteit Amsterdam | Leraar Wiskunde |
 | Econometrics & Operations Research | 56833 | Universiteit Maastricht | Leraar Wiskunde |
 | Econometrie | 59332 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Econometrie en Operationele Research | 56833 | Rijksuniversiteit Groningen, Erasmus Universiteit, Rotterdam, Universiteit Maastricht, Vrije Universiteit Amsterdam, Tilburg University | Leraar Wiskunde |
@@ -524,6 +531,10 @@ Vervallen
 
 6 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-7 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
+7 Het vak Plantfysiologie & Ecologie (5 EC) dient extra curriculair te worden gevolgd.
+
+8 De domeinen openbare financiën en ontwikkelingseconomie dienen extra curriculair te worden aangevuld bij deze bacheloropleiding. Dit kan met de vakken Public Economics (6,5 EC) en Development Economics (6,5 EC) van de Universiteit Maastricht.
+
+9 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
