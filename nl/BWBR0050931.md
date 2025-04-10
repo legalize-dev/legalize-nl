@@ -4,7 +4,7 @@ identifier: "BWBR0050931"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050931"
 soort: "beleidsregel"
@@ -116,7 +116,7 @@ De [Beleidsregel investeren met publieke middelen in private activiteiten](https
 
 ##### Artikel 3.3. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025, met dien verstande dat [artikel 2.2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050931&hoofdstuk=2&artikel=2.2&z=2025-04-10&g=2025-01-01) in werking treedt met ingang van 1 januari 2026 over het verslagjaar 2025.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025, met dien verstande dat [artikel 2.2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050931&hoofdstuk=2&artikel=2.2&z=2025-04-10&g=2025-04-10) in werking treedt met ingang van 1 januari 2026 over het verslagjaar 2025.
 
 ##### Artikel 3.4. Citeertitel
 
