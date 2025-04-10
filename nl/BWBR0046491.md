@@ -4,7 +4,7 @@ identifier: "BWBR0046491"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-10"
-last_updated: "2022-03-31"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046491"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=2&z=2022-03-31&g=2022-03-31).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=2&z=2025-04-10&g=2025-04-10).
 
 ##### Artikel 2
 
@@ -84,19 +84,19 @@ Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), artikel 7, lid 3 van de politiewet 2012, artikel 7, lid 4 van de politiewet 2012 (vervoersfouillering) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien en het geweldsmiddel korte wapenstok. De gebruikmaking van het geweldsmiddel korte wapenstok wordt toegekend tot 31 maart 2027, onder de randvoorwaarden zoals gesteld op basis van [artikel 29 Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=29) in het gezamenlijke advies van de toezichthouders. Hiertoe vindt op basis van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=40) en [41 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41) regulier overleg plaats.
 
 ##### Artikel 7
 
 1. De gemeente Velsen brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=2&z=2022-03-31&g=2022-03-31) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=2&z=2025-04-10&g=2025-04-10) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=5&z=2022-03-31&g=2022-03-31) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046491&artikel=5&z=2025-04-10&g=2025-04-10) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
