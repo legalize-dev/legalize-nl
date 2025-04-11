@@ -4,7 +4,7 @@ identifier: "BWBR0046803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-11"
-last_updated: "2024-03-22"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046803"
 soort: "ministeriele-regeling"
@@ -298,7 +298,7 @@ De afdeling M&V AMF is verantwoordelijk voor:
 
 - a. het functioneel aansturen van het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeidstijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten;
 
-- b. het functioneel aansturen van het toezicht op de naleving door werkgevers van het nemen van maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting als bedoeld in [artikel 2.15 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.15), alsmede het in verband daarmee opsporen van strafbare feiten;
+- b. het functioneel aansturen van het toezicht op de naleving door werkgevers en werknemers van wet- en regelgeving op het gebied van arbeidsomstandigheden, alsmede het in verband daarmee opsporen van strafbare feiten;
 
 - c. het zorgdragen voor de tactische en operationele planning van het werk dat door teams wordt uitgevoerd, de realisatie van deze planning conform de afgesproken kaders en de ontwikkeling van de samenwerking met regionale partners.
 
@@ -308,7 +308,7 @@ De vakgroep AMF draagt zorg voor het voorzien in vakbekwame medewerkers voor de 
 
 - a. het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeidstijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten;
 
-- b. het toezicht op de naleving door werkgevers van het nemen van maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting als bedoeld in [artikel 2.15 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.15), alsmede het in verband daarmee opsporen van strafbare feiten.
+- b. het toezicht op de naleving door werkgevers en werknemers van wet- en regelgeving op het gebied van arbeidsomstandigheden, alsmede het in verband daarmee opsporen van strafbare feiten.
 
 #### § 4. Bevoegdheden
 
