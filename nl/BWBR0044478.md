@@ -4,7 +4,7 @@ identifier: "BWBR0044478"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-11"
-last_updated: "2020-12-15"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044478"
 soort: "zbo"
@@ -42,7 +42,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken voor pl
 
 ##### Artikel 2. Doelgroep
 
-Een bijdrage kan worden verstrekt aan natuurlijke personen, die als curator/beschouwer een bijdrage leveren op het gebied van de beeldende kunst en/of erfgoed.
+Een bijdrage kan worden verstrekt aan natuurlijke personen, die als onafhankelijke curator/beschouwer een bijdrage leveren op het gebied van de beeldende kunst en/of erfgoed.
 
 ##### Artikel 3. Subsidiesoort
 
