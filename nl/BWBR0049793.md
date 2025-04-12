@@ -4,7 +4,7 @@ identifier: "BWBR0049793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-12"
-last_updated: "2024-12-24"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049793"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **directe uitvoeringskosten:** apparaatskosten van de provincie of andere betrokken decentrale overheden die samenhangen met de regievoering van voorbereiding en uitvoering van maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) een uitkering kan worden verstrekt en direct zijn toe te rekenen aan die maatregelen;
+- **directe uitvoeringskosten:** apparaatskosten van de provincie of andere betrokken decentrale overheden die samenhangen met de regievoering van voorbereiding en uitvoering van maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12) een uitkering kan worden verstrekt en direct zijn toe te rekenen aan die maatregelen;
 
-- **gebiedsgerichte aanpak:** gebiedsgerichte aanpak als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24);
+- **gebiedsgerichte aanpak:** gebiedsgerichte aanpak als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12);
 
-- **indirecte uitvoeringskosten:** apparaatskosten van de provincie die samenhangen met de gebiedsgerichte aanpak, maar niet direct zijn toe te rekenen aan de gebiedsprocessen en maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) een uitkering kan worden verstrekt;
+- **indirecte uitvoeringskosten:** apparaatskosten van de provincie die samenhangen met de gebiedsgerichte aanpak, maar niet direct zijn toe te rekenen aan de gebiedsprocessen en maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12) een uitkering kan worden verstrekt;
 
 - **kaderrichtlijn water:** [Richtlijn 2000/60/EG](32000L0060) van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid;
 
@@ -102,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan aan een provincie op aanvraag een of meer specifieke uitkeringen verstrekken voor de financiering van een of meer gebiedsprocessen en maatregelen die de provincie wil uitvoeren als onderdeel van een brede, langjarige gebiedsgerichte aanpak om de stikstofbelasting van de natuur terug te dringen en de natuur te beschermen en te ontwikkelen, een bijdrage te leveren aan het tijdig voldoen aan de kaderrichtlijn water, de emissie van broeikasgassen door de landbouw en door landgebruik te verminderen en een bijdrage te leveren aan de verduurzaming van de landbouw.
 
-2. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn of worden aangegaan vanaf 1 juli 2023 tot en met 31 december 2026.
+2. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn of worden aangegaan vanaf 1 juli 2023 tot en met 31 december 2028.
 
 3. De uitkering wordt niet verstrekt voor:
 
@@ -162,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Verplichtingen
 
-1. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24).
+1. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12).
 
 2. De provincie neemt bij de besteding van de uitkering het Unierecht met betrekking tot mededinging, aanbesteding en staatssteun in acht.
 
@@ -179,6 +179,8 @@ In deze regeling wordt verstaan onder:
 1. De minister bepaalt in de beschikking tot verlening tot wanneer de gebiedsprocessen en maatregelen kunnen worden uitgevoerd.
 
 2. De minister kan voor een of meer gebiedsprocessen of maatregelen de in het eerste lid bedoelde periode op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
+
+3. De minister kan voor een of meer gebiedsprocessen of maatregelen de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12), bedoelde periode op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -204,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 12. Verantwoording en vaststelling
 
-1. De provincie legt verantwoording af over de besteding van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=2&artikel=2&z=2024-12-24&g=2024-12-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) bedoelde uitkeringen op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De provincie legt verantwoording af over de besteding van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=2&artikel=2&z=2025-04-12&g=2025-04-12) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12) bedoelde uitkeringen op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Voor zover de provincie een uitkering heeft verstrekt aan een gemeente, legt die gemeente verantwoording af over de besteding van de uitkering met toepassing van [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
