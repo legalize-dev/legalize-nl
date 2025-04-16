@@ -4,7 +4,7 @@ identifier: "BWBR0040115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-16"
-last_updated: "2023-06-10"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040115"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Er is een Multi-stakeholder groep EITI Nederland.
+1. Er is een Multi-stakeholder groep EITI Nederland (NL-EITI).
 
 2. De multi-stakeholdergroep is samengesteld uit vertegenwoordigers van overheid, bedrijven en maatschappelijke organisaties en is belast met de controle en beoordeling van de implementatie van The Extractive Industries Transparency Initiative Standard. Daarnaast wordt een onafhankelijke voorzitter benoemd.
 
@@ -52,25 +52,23 @@ Besluiten:
 
 - b. Aan de voorzitter, genoemd onder a, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2. Deze vaste vergoeding wordt vastgesteld op peildatum 1 april 2023 en blijft gedurende de periode, bedoeld onder a, gelijk.
 
-2. Tot de werkzaamheden van de voorzitter behoren het faciliteren van de multi-stakeholder groep en het uitvoeren en verder vormgeven van het werkplan.
+2. Tot de werkzaamheden van de voorzitter behoren het voorzitten van de multi-stakeholder groep en het coördineren van de werkzaamheden van het secretariaat bij het vormgeven en uitvoeren van het werkplan.
 
 3. In de multi-stakeholdergroep worden vertegenwoordigers voor een periode van maximaal drie jaar benoemd. Deze leden, hun plaatsvervangers en de onafhankelijke voorzitter kunnen voor maximaal twee termijnen worden benoemd.
 
-- a. Te rekenen vanaf 1 oktober 2021 wordt, de heer R. Cino, wonende te Leidschendam-Voorburg, als vertegenwoordiger van het Ministerie van Economische Zaken en Klimaat herbenoemd. De plaatsvervanger is mevrouw J.C. van Dalen;
+- a. Te rekenen vanaf 1 oktober 2024 wordt de heer R. Cino, wonende te Leidschendam-Voorburg, als vertegenwoordiger van het Ministerie van Klimaat en Groene Groei herbenoemd. De plaatsvervanger is mevrouw J.C. van Dalen;
 
-- b. Te rekenen vanaf 23 november 2022 wordt, mevrouw S.J. Soede, wonende te Rotterdam, als vertegenwoordiger van het Ministerie van Buitenlandse Zaken benoemd. De plaatsvervanger is de heer T.E. Westerhuis;
+- b. Te rekenen vanaf 23 november 2022 wordt mevrouw S.J. Soede, wonende te Rotterdam, als vertegenwoordiger van het Ministerie van Buitenlandse Zaken benoemd. De plaatsvervanger is de heer T.E. Westerhuis;
 
-- c. Te rekenen vanaf 1 maart 2021 wordt, mevrouw I.M.J. van Rijswijk, wonende te Barendrecht, als vertegenwoordiger van de Belastingdienst benoemd. De plaatsvervanger is de heer M.C. van Driel;
+- c. Te rekenen vanaf 23 november 2023 wordt mevrouw C.E. Hendriks, wonende te Maartensdijk, als vertegenwoordiger van Energie Beheer Nederland benoemd. De plaatsvervanger is mevrouw A. Smaling;
 
-- d. Te rekenen vanaf 18 november 2021 wordt, de heer A. Scheurs, wonende te Voorhout, als vertegenwoordiger van Element NL benoemd. De plaatsvervanger is mevrouw N. van den Bos;
+- d. Te rekenen vanaf 18 november 2024 wordt de heer A. Scheurs, wonende te Voorhout, als vertegenwoordiger van Element NL benoemd. De plaatsvervanger is mevrouw N. van den Bos;
 
-- e. Te rekenen vanaf 11 oktober 2020 wordt, de heer W.M. van der Deijl, wonende te Rotterdam, als vertegenwoordiger van de NAM B.V. herbenoemd. De plaatsvervanger is de heer J.M. Kutsch Lojenga, als vertegenwoordiger van Shell International B.V.;
+- e. Te rekenen vanaf 8 juni 2023 wordt mevrouw A.C.J. Karis, wonende te ’s-Gravenhage, als vertegenwoordiger van TotalEnergies benoemd. De plaatsvervanger is de heer T. den Brabander van Eni Energy;
 
-- f. Te rekenen vanaf 8 juni 2023 wordt, mevrouw A.C.J. Karis, wonende te ’s-Gravenhave, als vertegenwoordiger van TotalEnergies benoemd;
+- f. Te rekenen vanaf 11 oktober 2023 wordt de heer G. Kwaks, wonende te Utrecht, als vertegenwoordiger van de Open State Foundation herbenoemd. De plaatsvervanger is de heer S.M. Wiemers;
 
-- g. Te rekenen vanaf 11 oktober 2020 wordt, de heer G. Kwaks, wonende te Utrecht, als vertegenwoordiger van de Open State Foundation herbenoemd. De plaatsvervanger is de heer S.M. Wiemers;
-
-- h. Te rekenen vanaf 11 oktober 2020 wordt, mevrouw J. de Lang, wonende te Groningen, als vertegenwoordiger van de FNV herbenoemd. De plaatsvervanger is de heer H. Korthof.
+- g. Aan de vertegenwoordiger van de maatschappelijke organisatie, genoemd onder f, wordt met ingang van 1 januari 2025 een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,1. Deze vaste vergoeding wordt vastgesteld op peildatum 1 juli 2024 en blijft gedurende de periode, bedoeld onder f, gelijk.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
