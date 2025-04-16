@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-09-01"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Daarna volgen enkele bijlagen met onder andere betekenissen van in de tabel gebr
 
 ### 2. Ordening van het radiospectrum
 
-De totale spectrumruimte die gebruikt wordt voor radiocommunicatie loopt van 8,3 kHz tot 3000 GHz. Het radiospectrum wordt om een aantal redenen geordend. Allereerst kunnen radiogolven afkomstig van verschillende bronnen elkaar (bij de ontvanger) beïnvloeden. Dit maakt het nodig om afspraken te maken over het gebruik van frequenties om gebruikers te vrijwaren van storing van anderen. Omdat radiogolven zich tot over de landsgrenzen kunnen voortplanten, is internationale afstemming hierbij noodzakelijk.
+De totale spectrumruimte die gebruikt wordt voor radiocommunicatie loopt vanaf 0 Hz tot 3000 GHz. Het radiospectrum wordt om een aantal redenen geordend. Allereerst kunnen radiogolven afkomstig van verschillende bronnen elkaar (bij de ontvanger) beïnvloeden. Dit maakt het nodig om afspraken te maken over het gebruik van frequenties om gebruikers te vrijwaren van storing van anderen. Omdat radiogolven zich tot over de landsgrenzen kunnen voortplanten, is internationale afstemming hierbij noodzakelijk.
 
 Ten tweede is het radiospectrum beperkt en relatief schaars. In veel gevallen kan een bepaalde frequentie in een bepaald gebied maar door één enkele gebruiker worden gebruikt. Maar ook als frequentieruimte gebruikt kan worden door meer dan één gebruiker, is het gezamenlijk gebruik beperkt. Daardoor kan schaarste aan frequentieruimte ontstaan. Het ontstaan van schaarste wordt nog versterkt door het feit dat sommige frequentiebanden beter geschikt zijn voor een bepaalde toepassing dan andere. De toenemende vraag naar frequenties, tenslotte, vergroot de schaarste aan frequenties in bepaalde frequentiebanden nog verder.
 
@@ -1352,6 +1352,8 @@ Federation, Japan, Kyrgyzstan, Tajikistan and Turkmenistan, the allocation of th
 
 **5.332** In the band 1 215–1 260 MHz, active spaceborne sensors in the Earth exploration-satellite and space research services shall not cause harmful interference to, claim protection from, or otherwise impose constraints on operation or development of the radiolocation service, the radionavigation-satellite service and other services allocated on a primary basis. (WRC-2000)
 
+**5.332A** Administrations authorizing operation of the amateur and amateur-satellite services in the frequency band 1 240-1 300 MHz, or portions thereof, shall ensure that the amateur and amateur-satellite services do not cause harmful interference to radionavigation-satellite service (space-to-Earth) receivers in accordance with No. 5.29 (see the most recent version of Recommendation ITU-R M.2164). The authorizing administration, upon receipt of a report of harmful interference caused by a station of the amateur or amateur-satellite services, shall take all necessary steps to rapidly eliminate such interference. (WRC-23)
+
 **5.333** (SUP – WRC-97)
 
 **5.334** **Additional allocation:** in Canada and the United States, the band 1350–1370 MHz is also allocated to theaeronautical radionavigation service on a primary basis. (WRC-03)
@@ -1370,9 +1372,9 @@ Federation, Japan, Kyrgyzstan, Tajikistan and Turkmenistan, the allocation of th
 
 **5.338A** In the frequency bands 1 350–1 400 MHz, 1 427–1 452 MHz, 22.55–23.55 GHz, 24.25–27.5 GHz, 30–31.3 GHz, 49.7–50.2 GHz, 50.4–50.9 GHz, 51.4–52.4 GHz, 52.4–52.6 GHz, 81–86 GHz and 92–94 GHz, Resolution **750 (Rev.WRC-19)** applies. (WRC-19)
 
-**5.339** The bands 1370–1400 MHz, 2640–2655 MHz, 4950–4990 MHz and 15.20–15.35 GHz are also allocated to the space research (passive) and Earth exploration-satellite (passive) services on a secondary basis.
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+**5.339A** (SUP – WRC-07)
 
 **5.340** All emissions are prohibited in the following bands:
 
@@ -1438,21 +1440,19 @@ Federation, Japan, Kyrgyzstan, Tajikistan and Turkmenistan, the allocation of th
 
 **5.359** **Additional allocation:** in Germany, Saudi Arabia, Armenia, Azerbaijan, Belarus, Cameroon, the Russian Federation, Georgia, Guinea, Guinea-Bissau, Jordan, Kazakhstan, Kuwait, Lithuania, Mauritania, Uganda, Uzbekistan, Pakistan, Poland, the Syrian Arab Republic, Kyrgyzstan, the Dem. People’s Rep. of Korea, Romania, Tajikistan, Tunisia, Turkmenistan and Ukraine, the frequency bands 1 550–1 559 MHz, 1 610–1 645.5 MHz and 1 646.5–1 660 MHz are also allocated to the fixed service on a primary basis. Administrations are urged to make all practicable efforts to avoid the implementation of new fixed-service stations in these frequency bands. (WRC-19)
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**5.339** The bands 1370–1400 MHz, 2640–2655 MHz, 4950–4990 MHz and 15.20–15.35 GHz are also allocated to the space research (passive) and Earth exploration-satellite (passive) services on a secondary basis.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 **5.360** to **5.362** (SUP – WRC-97)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-**5.339A** (SUP – WRC-07)
-
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 **5.362A** In the United States, in the bands 1555–1559 MHz and 1656.5–1660.5 MHz, the aeronautical mobile-satellite (R) service shall have priority access and immediate availability, by pre-emption if necessary, over all other mobile-satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article **44**. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (WRC-97)
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-**5.362B** (SUP – WRC-15)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1462,9 +1462,9 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-**5.362C** (SUP – WRC-15)
+**5.362B** (SUP – WRC-15)
 
-**5.363** (SUP – WRC-07)
+**5.362C** (SUP – WRC-15)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1472,19 +1472,19 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+**5.363** (SUP – WRC-07)
+
 **5.364** The use of the band 1610–1626.5 MHz by the mobile-satellite service (Earth-to-space) and by the radiodetermination-satellite service (Earth-to-space) is subject to coordination under No. **9.11A**. A mobile earth station operating in either of the services in this band shall not produce a peak e.i.r.p. density in excess of –15 dB(W/4 kHz) in the part of the band used by systems operating in accordance with the provisions of No. **5.366** (to which No. **4.10** applies), unless otherwise agreed by the affected administrations. In the part of the band where such systems are not operating, the mean e.i.r.p. density of a mobile earth station shall not exceed –3 dB(W/4 kHz). Stations of the mobile-satellite service shall not claim protection from stations in the aeronautical radionavigation service, stations operating in accordance with the provisions of No. **5.366** and stations in the fixed service operating in accordance with the provisions of No. **5.359**. Administrations responsible for the coordination of mobile-satellite networks shall make all practicable efforts to ensure protection of stations operating in accordance with the provisions of No. **5.366**.
 
 **5.365** The use of the band 1613.8–1626.5 MHz by the mobile-satellite service (space-to-Earth) is subject to coordination under No. **9.11A**.
 
 **5.366** The band 1610–1626.5 MHz is reserved on a worldwide basis for the use and development of airborne electronic aids to air navigation and any directly associated ground-based or satellite-borne facilities. Such satellite use is subject to agreement obtained under No. **9.21**.
 
-**5.367** **Additional allocation**: The frequency band 1 610–1 626.5 MHz is also allocated to the aeronautical mobile-satellite (R) service on a primary basis, subject to agreement obtained under No. **9.21**. (WRC-12)
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-**5.368** The provisions of No. **4.10** do not apply with respect to the radiodetermination-satellite and mobile-satellite services in the frequency band 1 610–1 626.5 MHz. However, No. **4.10** applies in the frequency band 1 610–1 626.5 MHz with respect to the aeronautical radionavigation-satellite service when operating in accordance with No. **5.366**, the aeronautical mobile satellite (R) service when operating in accordance with No. **5.367**, and in the frequency band 1 621.35–1 626.5 MHz with respect to the maritime mobile-satellite service when used for GMDSS. (WRC-19)
+**5.367** **Additional allocation**: The frequency band 1 610–1 626.5 MHz is also allocated to the aeronautical mobile-satellite (R) service on a primary basis, subject to agreement obtained under No. **9.21**. (WRC-12)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1604,6 +1604,8 @@ A radiocommunication service for scientific, technical and other purposes, provi
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+**5.368** The provisions of No. **4.10** do not apply with respect to the radiodetermination-satellite and mobile-satellite services in the frequency band 1 610–1 626.5 MHz. However, No. **4.10** applies in the frequency band 1 610–1 626.5 MHz with respect to the aeronautical radionavigation-satellite service when operating in accordance with No. **5.366**, the aeronautical mobile satellite (R) service when operating in accordance with No. **5.367**, and in the frequency band 1 621.35–1 626.5 MHz with respect to the maritime mobile-satellite service when used for GMDSS. (WRC-19)
+
 **5.369** **Different category of service**: in Angola, Australia, China, Eritrea, Ethiopia, India, Iran (Islamic Republic of), Israel, Lebanon, Liberia, Madagascar, Mali, Pakistan, Papua New Guinea, Syrian Arab Republic, the Dem. Rep. of the Congo, Sudan, South Sudan, Togo and Zambia, the allocation of the band 1 610–1 626.5 MHz to the radiodetermination-satellite service (Earth-to-space) is on a primary basis (see No. **5.33**), subject to agreement obtained under No. **9.21** from countries not listed in this provision. (WRC-12)
 
 **5.370** **Different category of service**: in Venezuela, the allocation to the radiodetermination-satellite service in the band 1610–1626.5 MHz (Earth-to-space) is on a secondary basis.
@@ -1623,8 +1625,6 @@ A radiocommunication service for scientific, technical and other purposes, provi
 **5.376** Transmissions in the band 1646.5–1656.5 MHz from aircraft stations in the aeronautical mobile (R) service directly to terrestrial aeronautical stations, or between aircraft stations, are also authorized when such transmissions are used to extend or supplement the aircraft-to-satellite links.
 
 **5.376A** Mobile earth stations operating in the band 1660–1660.5 MHz shall not cause harmful interference to stations in the radio astronomy service. (WRC-97)
-
-**5.377** (SUP – WRC-03)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1650,6 +1650,8 @@ Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+**5.377** (SUP – WRC-03)
+
 **5.378** Not used.
 
 **5.379** **Additional allocation:** in Bangladesh, India, Indonesia, Nigeria and Pakistan, the band 1660.5–1668.4 MHz is also allocated to the meteorological aids service on a secondary basis.
@@ -1670,13 +1672,11 @@ Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
 
 **5.381** **Additional allocation:** in Afghanistan, Cuba, India, Iran (Islamic Republic of) and Pakistan, the band 1 690–1 700 MHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12)
 
-**5.382** **Different category of service:** in Saudi Arabia, Armenia, Azerbaijan, Bahrain, Belarus, Congo (Rep. of the), Egypt, the United Arab Emirates, Eritrea, Ethiopia, the Russian Federation, Guinea, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Lebanon, North Macedonia, Mauritania, Moldova, Mongolia, Oman, Uzbekistan, Poland, Qatar, the Syrian Arab Republic, Kyrgyzstan, Somalia, Tajikistan, Turkmenistan, Ukraine and Yemen, the allocation of the frequency band 1 690–1 700 MHz to the fixed and mobile, except aeronautical mobile, services is on a primary basis (see No. **5.33**), and in the Dem. People’s Rep. of Korea, the allocation of the frequency band 1 690–1 700 MHz to the fixed service is on a primary basis (see No. **5.33**) and to the mobile, except aeronautical mobile, service on a secondary basis. (WRC-19)
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-**5.383** Not used.
+**5.382** **Different category of service:** in Saudi Arabia, Armenia, Azerbaijan, Bahrain, Belarus, Congo (Rep. of the), Egypt, the United Arab Emirates, Eritrea, Ethiopia, the Russian Federation, Guinea, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Lebanon, North Macedonia, Mauritania, Moldova, Mongolia, Oman, Uzbekistan, Poland, Qatar, the Syrian Arab Republic, Kyrgyzstan, Somalia, Tajikistan, Turkmenistan, Ukraine and Yemen, the allocation of the frequency band 1 690–1 700 MHz to the fixed and mobile, except aeronautical mobile, services is on a primary basis (see No. **5.33**), and in the Dem. People’s Rep. of Korea, the allocation of the frequency band 1 690–1 700 MHz to the fixed service is on a primary basis (see No. **5.33**) and to the mobile, except aeronautical mobile, service on a secondary basis. (WRC-19)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1684,11 +1684,11 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+**5.383** Not used.
+
 **5.384** **Additional allocation:** in India, Indonesia and Japan, the band 1700–1710 MHz is also allocated to the space research service (space-to-Earth) on a primary basis. (WRC-97)
 
 **5.384A** The frequency bands 1 710–1 885 MHz, 2 300–2 400 MHz and 2 500–2 690 MHz, or portions thereof, are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution **223 (Rev.WRC-15)**15**Note by the Secretariat:** This Resolution was revised by WRC-19.. This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-15)
-
-**5.385** **Additional allocation:** the band 1 718.8–1 722.2 MHz is also allocated to the radio astronomy service on a secondary basis for spectral line observations. (WRC-2000)
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1731,6 +1731,8 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 ### Annex 1, Lijst van ITU radiodiensten
 
 ### Annex 2, Betekenis ITU voetnoten
+
+**5.385** **Additional allocation:** the band 1 718.8–1 722.2 MHz is also allocated to the radio astronomy service on a secondary basis for spectral line observations. (WRC-2000)
 
 **5.386** **Additional allocation:** the frequency band 1 750–1 850 MHz is also allocated to the space operation (Earth-to-space) and space research (Earth-to-space) services in Region 2 (except in Mexico), in Australia, Guam, India, Indonesia and Japan on a primary basis, subject to agreement obtained under No. **9.21**, having particular regard to troposcatter systems. (WRC-15)
 
@@ -2232,6 +2234,8 @@ Automatic power control may be used to increase the e.i.r.p. density in these fr
 
 **5.511F** In order to protect the radio astronomy service in the frequency band 15.35–15.4 GHz, radiolocation stations operating in the frequency band 15.4–15.7 GHz shall not exceed the power flux-density level of −156 dB(W/m2) in a 50 MHz bandwidth in the frequency band 15.35–15.4 GHz, at any radio astronomy observatory site for more than 2 per cent of the time. (WRC-12)
 
+**5.511G** Stations in the aeronautical mobile (OR) service operating in the frequency band 15.41–15.7 GHz shall not cause harmful interference to the radio astronomy service operating in the frequency band 15.35–15.4 GHz. The aggregate power flux-density (pfd) received from stations in the aeronautical mobile (OR) service operating in the frequency band 15.41–15.7 GHz at any radio astronomy station operating in the frequency band 15.35–15.4 GHz shall be in compliance with the protection criteria provided in Recommendations ITU-R RA.769-2 and ITU-R RA.1513-2, unless specifically agreed by the affected administration(s). (WRC-23)
+
 **5.512** **Additional allocation:** in Algeria, Saudi Arabia, Austria, Bahrain, Bangladesh, Brunei Darussalam, Cameroon, Congo (Rep. of the), Egypt, El Salvador, the United Arab Emirates, Eritrea, Finland, Guatemala, India, Indonesia, Iran (Islamic Republic of), Jordan, Kenya, Kuwait, Lebanon, Libya, Malaysia, Mali, Morocco, Mauritania, Montenegro, Nepal, Nicaragua, Niger, Oman, Pakistan, Qatar, Syrian Arab Republic, the Dem. Rep. of the Congo, Singapore, Somalia, Sudan, South Sudan, Chad, Togo and Yemen, the frequency band 15.7–17.3 GHz is also allocated to the fixed and mobile services on a primary basis. (WRC-15)
 
 **5.513** **Additional allocation:** in Israel, the band 15.7–17.3 GHz is also allocated to the fixed and mobile services on a primary basis. These services shall not claim protection from or cause harmful interference to services operating in accordance with the Table in countries other than those included in No. **5.512**.
@@ -2518,11 +2522,11 @@ The use of the above-mentioned frequency bands by land mobile and fixed service 
 
 **5.565** The following frequency bands in the range 275–1 000 GHz are identified for use by administrations for passive service applications:
 
-The use of the range 275–1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1 000 GHz frequency range.
+### Annex 3, De nationale voetnoten
 
 All frequencies in the range 1 000–3 000 GHz may be used by both active and passive services. (WRC-12)
 
-### Annex 3, De nationale voetnoten
+Een nationale voetnoot wordt in het NFP toegepast (tot zover) in de gevallen dat:
 
 Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
@@ -2576,11 +2580,11 @@ CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dien
 
 De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
 
-Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
-
-tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+**AIS –**Automatic Identification System
+
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 **AIS –**Automatic Identification System
 
@@ -2684,6 +2688,8 @@ Satellietgrondstation en bijbehorende systeem op een mobiele platform voor het z
 
 International Mobile Telecommunications (IMT) systems are mobile systems that provide access to a wide range of telecommunication services including advanced mobile services, supported by mobile and fixed networks.
 
+**Installatiegebonden net**: Radiocommunicatienetwerk op zee voor communicatie binnen een bedrijf of organisatie, of binnen meerdere bedrijven of organisaties die met elkaar samenwerken voor de exploitatie van één gezamenlijk radiocommunicatienetwerk, op een installatie ter zee of een installatie opgericht op de bodem van de territoriale zee, die het bedrijf, de organisatie, of de samenwerkende bedrijven of organisaties in eigendom hebben, of waarop zij anderszins het recht hebben deze te gebruiken voor functionele doeleinden en waarbij de verzorging bedoeld is voor in of op de installatie.
+
 **Installaties ter zee** Installaties ter zee als bedoeld in [artikel 1 van de Wet installaties Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0002467&artikel=1).
 
 **ISM** – **Industrial, Scientific and Medical**
@@ -2722,7 +2728,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **NDB** – **Non Directional Beacon**/ Navigatiebaken.
 
-**NFR** – Nationaal Frequentie Register, zie http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister
+**NFR** – Nationaal Frequentieregister, voor vragen info@rdi.nl, zie http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister
 
 **NIB** Non Interferentie Basis / Non Interferentie Base / Radiodienst die op basis van het NIB-principe gebruik mag maken van een frequentieband betekent dat deze dienst geen storing mag veroorzaken aan de radiodiensten met een primaire of secundaire status en bovendien storing moet accepteren.
 
@@ -2738,7 +2744,7 @@ Voor niet-gecoördineerde satellietgrondstations geldt dat het gebruik van frequ
 
 **Paging** – Een éénrichtingradiocommunicatiesysteem tussen een basisstation en mobiele of vast opgestelde ontvangers voor het overbrengen van informatie of signalering.
 
-**Perceelgebonden net** – Radiocommunicatienetwerk voor communicatie binnen een bedrijf of organisatie, of binnen meerdere bedrijven of organisaties die met elkaar samenwerken voor de exploitatie van één gezamenlijk radiocommunicatienetwerk, waarbij het beoogde verzorgingsgebied zich beperkt tot de percelen en daarop gevestigde of te vestigen opstallen die het bedrijf, de organisatie of de samenwerkende bedrijven of organisaties in eigendom hebben, of waarop zij anderszins het recht hebben om deze te gebruiken voor functionele doeleinden.
+**Perceelgebonden net** – Radiocommunicatienetwerk op land voor communicatie binnen een bedrijf of organisatie, of binnen meerdere bedrijven of organisaties die met elkaar samenwerken voor de exploitatie van één gezamenlijk radiocommunicatienetwerk, waarbij het beoogde verzorgingsgebied zich beperkt tot de percelen en daarop gevestigde of te vestigen opstallen die het bedrijf, de organisatie of de samenwerkende bedrijven of organisaties in eigendom hebben, of waarop zij anderszins het recht hebben om deze te gebruiken voor functionele doeleinden.
 
 **PLB** – **Personal Locator Beacon** / Apparaat dat door personen kan worden gebruikt om, in dun bevolkte gebieden zonder communicatiemogelijkheden, in geval van een calamiteit een alarmering uit te zenden en opsporing te vereenvoudigen.
 
@@ -2782,13 +2788,13 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VSAT**
 
-**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **WRC –** **World Radio Conference**
 
-**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
+The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
 
@@ -2810,19 +2816,13 @@ The procedure for changing this decree has a duration of approximately five mont
 
 For more information please consult the names and addresses in the colophon.
 
-**Lijst met belangrijke links:**
-
 **Colofon**
 
 Dit is een uitgave van Ministerie van Economische Zaken
 
 Redactie
 
-A.H.W. Zwiers; ton.zwiers(a)agentschaptelecom.nl
-
-Drs. T. Deinum; t.deinum(a)minez.nl
-
-Agentschap Telecom
+Rijksinspectie Digitale Infrastructuur
 
 Emmasingel 1
 
@@ -2832,13 +2832,13 @@ Postbus 450
 
 9700 AL Groningen
 
-Telefoon (050) 587 74 44
+Telefoon: 088-041 6000
 
-Internet: www.agentschaptelecom.nl
+Internet: [www.rdi.nl](http://www.rdi.nl)
 
-Email:info@agentschaptelecom.nl
+Email: info@rdi.nl
 
-Directoraat-Generaal Energie, Telecom en Mededinging
+Directie Digitale Economie
 
 Bezuidenhoutseweg 73
 
@@ -2848,9 +2848,9 @@ Postbus 20401
 
 2500 EK Den Haag
 
-Telefoon (070) 379 89 11
+Telefoon: (070) 379 89 11
 
-Internet http://www.rijksoverheid.nl/frequentiebeleid
+Email: frequenties@minez.nl
 
 Email: frequenties@minez.nl
 
@@ -2858,11 +2858,11 @@ Email: frequenties@minez.nl
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
+Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
+**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -2889,5 +2889,11 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+The use of the range 275–1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1 000 GHz frequency range.
+
+### Annex 3, De nationale voetnoten
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
