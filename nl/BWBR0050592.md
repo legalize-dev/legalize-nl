@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-04-08"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -80,6 +80,7 @@ Besluiten:
 | [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 01-01-2025 t/m 04-02-2025 | € 100.000 |
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 06-05-2025 t/m 01-07-2025 | € 200.000 |
 | [Titel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.25): High-performance computing-projecten (HPC-projecten) | [3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | Digital Autonomy for RISC-V in Europe (DARE) | Digital Autonomy for RISC-V in Europe (DARE) | 15-12-2024 t/m 31-01-2025 | € 7.500.000 |
+|   | [artikel 3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | European Quantum Excellence Centres in applications for science and industry | European Quantum Excellence Centres in applications for science and industry | 01-05-2025 t/m 31-05-2025 | € 1.000.000 |
 | [Titel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.28): Programma Digitaal Europa | [3.28.2, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 100.000 |
 |   | [3.28.2, eerste lid, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 1.250.000 |
 |   | [3.28.2, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 2.000.000 |
@@ -135,6 +136,8 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
+| [Paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.4): Innovatieve projecten in de aquacultuur | [3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.4.1) |   | Innovatie in de aquacultuur | 30-04-2025 t/m 29-08-2025 | € 3.300.000 |
+| [Paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.5): Innovatieve projecten in de visserij | [3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.5.1) |   | Innovatie in de visserij | 30-04-2025 t/m 29-08-2025 | € 7.700.000 |
 | [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.180.688 |
 | [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
 | [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, eerste lid en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | a. Het behouden en aantrekken van jonge landbouwers om te kiezen voor het agrarisch ondernemerschap. | 24-03-2025 t/m 26-05-2025 | € 490.000 |
