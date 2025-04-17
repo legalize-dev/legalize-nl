@@ -4,7 +4,7 @@ identifier: "BWBR0050957"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-17"
-last_updated: "2023-09-01"
+last_updated: "2025-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050957"
 soort: "zbo"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Tot toezichthouder als bedoeld in [artikel 2, vierde lid, van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2) en [artikel 2, derde lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2) worden aangewezen die ambtenaren die bij de Autoriteit online Terroristisch en Kinderpornografisch Materiaal zijn aangesteld in de volgende functies:
+Tot toezichthouder als bedoeld in [artikel 2, vierde lid, van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2) en [artikel 2, tweede lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2) worden aangewezen die ambtenaren die bij de Autoriteit online Terroristisch en Kinderpornografisch Materiaal zijn aangesteld in de volgende functies:
 
 - •. Specialist online detectie;
 
