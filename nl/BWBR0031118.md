@@ -4,7 +4,7 @@ identifier: "BWBR0031118"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-17"
-last_updated: "2017-11-29"
+last_updated: "2025-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031118"
 soort: "zbo"
@@ -54,13 +54,17 @@ In dit bestuursreglement wordt verstaan onder:
 
 - f. **voorzitter:** degene die door de minister als voorzitter van de Raad van Bestuur is benoemd;
 
-- g. **bestuurslid:** degene die door de minister als lid van de Raad van Bestuur van de NZa is benoemd, waaronder ook de voorzitter.
+- g. **bestuurslid:** degene die door de minister als lid van de Raad van Bestuur van de NZa is benoemd, waaronder ook de voorzitter;
+
+- h. **directeur:** leidinggevende van een directie van de NZa;
+
+- i. **gmt:** gemeenschappelijk managementteam bestaande uit in ieder geval de bestuursleden van de Raad van Bestuur en de directeuren.
 
 ##### Artikel 2. De Raad van Bestuur
 
 1. De Raad van Bestuur bestuurt de organisatie van de NZa.
 
-2. De Raad van Bestuur maakt een evenredige verdeling van werkzaamheden door de aangelegenheden waarover de Raad van Bestuur besluiten moet nemen te verdelen in portefeuilles voor elk bestuurslid, waarbij de bestuursleden elkaar bij afwezigheid kunnen vervangen. Daarbij worden het personeelsbeleid enerzijds en de beheersing van de ICT-processen en informatiebeveiliging anderzijds in afzonderlijke portefeuilles ondergebracht.
+2. De Raad van Bestuur maakt een evenredige verdeling van werkzaamheden door de aangelegenheden waarover de Raad van Bestuur besluiten moet nemen te verdelen in portefeuilles voor elk bestuurslid, waarbij de bestuursleden elkaar bij afwezigheid kunnen vervangen.
 
 3. Een bestuurslid is binnen de Raad van Bestuur voor de tot zijn portefeuille behorende aangelegenheden het eerste aanspreekpunt voor de medewerkers van de NZa. Een portefeuillehouder geeft aan de medewerkers van de NZa instructies over de voorbereiding van besluiten en over andere handelingen die aangelegenheden betreffen die tot zijn portefeuille behoren.
 
@@ -88,7 +92,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - d. bepaalt welke medewerkers van de NZa, dan wel andere genodigden bij de vergaderingen aanwezig zijn;
 
-- e. geeft instructies aan medewerkers van de NZa over aangelegenheden die zijn portefeuille betreffen, alsmede over aangelegenheden die niet behoren tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=2&z=2017-11-29&g=2017-11-29), van dit reglement bedoelde portefeuille van de andere bestuursleden.
+- e. geeft instructies aan medewerkers van de NZa over aangelegenheden die zijn portefeuille betreffen, alsmede over aangelegenheden die niet behoren tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=2&z=2025-04-17&g=2025-04-17), van dit reglement bedoelde portefeuille van de andere bestuursleden.
 
 2. De voorzitter benoemt een ander bestuurslid als plaatsvervangend voorzitter. Deze benoeming wordt vastgelegd in een benoemingsbesluit.
 
@@ -196,7 +200,7 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 ##### Artikel 15. Raad van Advies
 
-1. De Raad van Bestuur stelt een Raad van Advies in van maximaal vijf externe onafhankelijke leden.
+1. De Raad van Bestuur stelt een Raad van Advies in van maximaal zes externe onafhankelijke leden.
 
 2. De Raad van Advies adviseert de Raad van Bestuur gevraagd en ongevraagd over:
 
@@ -204,51 +208,41 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 - b. de strategische agenda van de NZa;
 
-- c. nationale en internationale ontwikkelingen van de NZa.
+- c. nationale en internationale ontwikkelingen die de NZa raken;
 
-Daarnaast fungeert de Raad van Advies als klankbord voor de Raad van Bestuur.
+- d. de taakinvulling- en opvatting van de NZa;
 
-3. De Raad van Bestuur stelt een profiel op voor de leden van de Raad van Advies. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=1&z=2017-11-29&g=2017-11-29) bij dit reglement opgenomen.
+- e. de bedrijfsvoering van de NZa.
+
+3. De Raad van Bestuur stelt een profiel op voor de leden van de Raad van Advies.
 
 4. De bestuursleden kunnen de vergaderingen van de Raad van Advies bijwonen.
 
-5. De Raad van Bestuur draagt er zorg voor dat de adviezen van de Raad van Advies voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop hij is omgegaan met de bevindingen en adviezen van de Raad van Advies.
+5. De Raad van Bestuur draagt er zorg voor dat de adviezen die de Raad van Advies schriftelijk vastlegt ten behoeve van de Raad van Bestuur, voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop hij is omgegaan met de bevindingen en adviezen van de Raad van Advies.
 
-##### Artikel 16. Audit Adviescommittee
+##### Artikel 16. Samenwerkingsprotocollen
 
-1. De Raad van Bestuur stelt een Audit Adviescommittee in van maximaal drie externe onafhankelijke leden.
-
-2. Het Audit Adviescommittee adviseert de Raad van Bestuur gevraagd en ongevraagd over:
-
-- a. de beheersing van de processen op het gebied van planning en control en het borgen van de kwaliteit van de financiële bedrijfsvoering en verslaggeving;
-
-- b. de beheersing van de processen op het gebied van HRM;
-
-- c. de beheersing van de processen op het gebied van ICT en informatiebeveiliging;
-
-- d. de opzet en werking van het auditbeleid en het risicomanagementbeleid.
-
-Daarnaast fungeert het Audit Adviescommittee als klankbord voor de Raad van Bestuur.
-
-3. De Raad van Bestuur stelt een profiel op voor de leden van het Audit Adviescommittee. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=2&z=2017-11-29&g=2017-11-29) bij dit reglement opgenomen.
-
-4. De bestuursleden kunnen de vergaderingen van het Audit Adviescommittee bijwonen.
-
-5. De Raad van Bestuur draagt er zorg voor dat de adviezen van het Audit Adviescommittee voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop de Raad van Bestuur is omgegaan met de bevindingen en adviezen van het Audit Adviescommittee.
-
-##### Artikel 17. Samenwerkingsprotocollen
-
-1. De Raad van Bestuur maakt, behalve met de in [artikel 17 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=17) genoemde organisaties, ook afspraken met andere organisaties die aangelegenheden van wederzijds belang behartigen.
+1. De Raad van Bestuur maakt, behalve met de in [artikel 17 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=17) genoemde organisaties, ook afspraken met andere organisaties die aangelegenheden van wederzijds belang behartigen.
 
 2. De in het eerste lid bedoelde afspraken worden vastgelegd in samenwerkingsprotocollen.
 
-##### Artikel 18. Wijziging reglement
+##### Artikel 17. Wijziging reglement
 
-1. Wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=6&z=2017-11-29&g=2017-11-29) van dit reglement.
+1. Wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=6&z=2025-04-17&g=2025-04-17) van dit reglement.
 
 2. Een wijziging als bedoeld in het eerste lid van dit artikel behoeft de goedkeuring van de minister.
 
 3. Een wijziging in dit reglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
+
+##### Artikel 18. Slotbepaling
+
+1. Dit reglement kan worden aangehaald als: Bestuursreglement NZa.
+
+2. In alle gevallen waarin dit reglement niet voorziet, en in alle geschillen over de uitleg van dit reglement, beslist de voorzitter.
+
+3. Dit reglement wordt na goedkeuring door de minister gepubliceerd in de Staatscourant.
+
+4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
 
 ##### Artikel 19. Slotbepaling
 
@@ -260,7 +254,9 @@ Daarnaast fungeert het Audit Adviescommittee als klankbord voor de Raad van Best
 
 4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
 
-## Bijlage 1. behorend bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=15&z=2017-11-29&g=2017-11-29) van het Bestuursreglement NZa
+## Bijlage 1. behorend bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=15&z=2025-04-17&g=2025-04-17) van het Bestuursreglement NZa
+
+Vervallen
 
 ### Profiel leden Raad van Advies
 
@@ -299,3 +295,11 @@ Goede spreiding van deskundigheid, kennis en ervaring
 Voor alle leden afzonderlijk is van belang dat zij voldoen aan de volgende criteria:
 
 Voor leden afzonderlijk (of gecombineerd bij een lid) is van belang dat zij aan de volgende criteria voldoen:
+
+##### Artikel 4a. Het gmt
+
+Het gmt bespreekt strategische keuzes die de NZa raken en een integrale afweging behoeven op het gebied van de taken en bedrijfsvoering van de NZa. De voorzitter kan strategische onderwerpen ter advisering voorleggen aan het gmt. Het gmt adviseert de Raad van Bestuur.
+
+## Bijlage 2. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=16&z=2025-04-17&g=2025-04-17) van het Bestuursreglement NZa
+
+Vervallen
