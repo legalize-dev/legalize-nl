@@ -4,7 +4,7 @@ identifier: "BWBR0015524"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2025-01-01"
+last_updated: "2025-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015524"
 soort: "AMvB"
@@ -50,33 +50,31 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **deelverantwoording:** een in opdracht van provinciale staten, de raad onderscheidenlijk de eilandsraad opgestelde afzonderlijke verantwoording van een deel van de provinciale, gemeentelijke onderscheidenlijk eilandelijke organisatie;
+- –. **afwijking:** verschil tussen het bedrag, de rubricering, de presentatie of de toelichting van een gerapporteerd element in een financieel overzicht en het bedrag, de rubricering, de presentatie of de toelichting zodat het element in overeenstemming is met het van toepassing zijnde stelsel inzake financiële verslaggeving waarbij afwijkingen kunnen voortkomen uit fouten of uit fraude;
 
-- b. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
+- –. **deelverantwoording:** in opdracht van provinciale staten, de raad, het algemeen bestuur onderscheidenlijk de eilandsraad opgestelde afzonderlijke verantwoording van een deel van de organisatie van de provincie, de gemeente, het waterschap of het openbaar lichaam;
 
-##### Artikel 2. (Goedkeuringstoleranties)
+- –. **financiële rechtmatigheid:** rechtmatige totstandkoming van de baten, lasten en balansmutaties in overeenstemming met de begroting en met relevante wettelijke voorschriften, waaronder mede begrepen de provinciale, gemeentelijke of waterschapsverordeningen;
 
-1. De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van de provincie, bedoeld in [artikel 217, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), de jaarrekening van de gemeente, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), onderscheidenlijk [artikel 38, vierde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38), de volgende goedkeuringstoleranties:
+- –. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-- a). ten aanzien van fouten in de jaarrekening 1% van de omvangsbasis en
+##### Artikel 2. (Goedkeuringstolerantie)
 
-- b). ten aanzien van onzekerheden in de controle 3% van de omvangsbasis.
+1. De accountant gebruikt ten behoeve van de controle van de jaarrekening van de provincie, bedoeld in [artikel 217, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), de jaarrekening van de gemeente, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) en de jaarrekening van het waterschap, bedoeld in [artikel 109, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), een goedkeuringstolerantie van 2% van de omvangsbasis. Deze goedkeuringstolerantie geldt voor de gehele jaarrekening, inclusief de bijlagen.
 
-2. De omvangsbasis is gelijk aan de totale lasten van de provincie, de gemeente onderscheidenlijk het openbaar lichaam.
+2. De goedkeuringstolerantie is de som van de afwijkingen in de jaarrekening en onzekerheden in de uitvoering van de controle.
 
-3. De fouten in de jaarrekening en de onzekerheden in de controle kunnen betrekking hebben op:
+3. De omvangsbasis is gelijk aan de totale lasten van de provincie respectievelijk de gemeente en het waterschap exclusief de toevoegingen aan de reserves.
 
-- a. het getrouwe beeld, bedoeld in [artikel 217, derde lid, onder a van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), [artikel 213, derde lid, onder a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) onderscheidenlijk [artikel 38, vierde lid, onder a, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38), of
+4. De accountant onderzoekt of de baten en lasten, alsmede de balansmutaties met betrekking tot specifieke uitkeringen als bedoeld in [artikel 17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) rechtmatig tot stand zijn gekomen en neemt de uitkomst hiervan op in een aparte sectie in de accountantsverklaring. De verklaring over eisen aan specifieke uitkeringen is gebaseerd op een oordeel over alle rechtmatigheidscriteria.
 
-- b. de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in [artikel 217, derde lid, onder b van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), [artikel 213, derde lid, onder b van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), onderscheidenlijk [artikel 38, vierde lid, onder b, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38).
+5. De accountant richt de controle zodanig in dat een redelijke mate van zekerheid bestaat dat afwijkingen van materieel belang in de controle worden ontdekt.
 
-4. De accountant richt zijn controle zodanig in dat een redelijke mate van zekerheid bestaat dat fouten en onzekerheden die afzonderlijk of gezamenlijk de goedkeuringstoleranties voor fouten in de jaarrekening respectievelijk onzekerheden in de controle overschrijden worden ontdekt.
+6. De accountant onthoudt een goedkeurende accountantsverklaring aan de jaarrekening indien de goedkeuringstolerantie wordt overschreden. Tevens onthoudt de accountant een goedkeurende accountantsverklaring wanneer in de rechtmatigheidsverantwoording geen melding wordt gemaakt van afwijkingen in de financiële rechtmatigheid die groter zijn dan de verantwoordingsgrens. De accountant gaat hiertoe niet over dan nadat gedeputeerde staten, respectievelijk het college en het dagelijks bestuur in de gelegenheid is gesteld dit verzuim te herstellen.
 
-5. De accountant onthoudt een goedkeurende accountantsverklaring aan de jaarrekening indien één der of beide goedkeuringstoleranties, zoals opgenomen in het eerste lid, worden overschreden.
+7. Indien provinciale staten respectievelijk de raad en het algemeen bestuur, opdracht geven over een deelverantwoording een afzonderlijke controleverklaring af te geven, dan is de goedkeuringstolerantie van overeenkomstige toepassing. Voor activiteiten van het onderdeel van de organisatie van de provincie, de gemeente en het waterschap kan de accountant voor de berekening van de goedkeuringstolerantie voor een deelverantwoording gemotiveerd kiezen voor een andere omvangsbasis dan de totale lasten van de deelverantwoording.
 
-6. Indien provinciale staten, de raad, onderscheidenlijk de eilandsraad opdracht geven over een deelverantwoording een afzonderlijke accountantsverklaring af te geven, dan zijn de goedkeuringstoleranties ten aanzien van fouten in de deelverantwoording 1% en ten aanzien van onzekerheden in de controle 3% van de omvangsbasis van die deelverantwoording. Op grond van (bijzondere) activiteiten van het onderdeel van de provinciale, gemeentelijke onderscheidenlijk eilandelijke organisatie kan de accountant voor de berekening van de goedkeuringstoleranties voor bepaalde deelverantwoordingen gemotiveerd kiezen voor een andere omvangsbasis dan de totale lasten van de deelverantwoording.
-
-7. Provinciale staten, de raad, onderscheidenlijk de eilandsraad kunnen de goedkeuringstoleranties voor de gehele jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
+8. Provinciale staten, respectievelijk de raad en het algemeen bestuur kunnen de goedkeuringstolerantie voor de jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
 
 ##### Artikel 3. (Kwalitatieve aspecten)
 
@@ -84,15 +82,17 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 4. (Controleverklaring)
 
-1. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen modellen worden vastgesteld voor de provincie, voor de gemeente onderscheidenlijk voor het openbaar lichaam die de accountant hanteert voor de formulering van de controleverklaring.
+1. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Infrastructuur en Waterstaat kunnen modellen worden vastgesteld voor de provincie, voor de gemeente, voor het waterschap onderscheidenlijk voor het openbaar lichaam die de accountant hanteert voor de formulering van de controleverklaring.
 
-2. Voor de strekking van de controleverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in de bijlage.
+2. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan een protocol worden vastgesteld voor de provincie, de gemeente, onderscheidenlijk het openbaar lichaam voor de door de accountant te volgen procedure, voor de controle van specifieke uitkeringen.
+
+3. Voor de strekking van de controleverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in de bijlage.
 
 ##### Artikel 5. (Verslag van bevindingen)
 
 1. De bedragen voor de rapporteringstoleranties die de accountant hanteert ten behoeve van de rapportering in het verslag van bevindingen zijn de bedragen die voortvloeien uit de goedkeuringstoleranties.
 
-2. Provinciale staten, de raad onderscheidenlijk de eilandsraad kunnen de accountant bedragen voor de rapporteringstoleranties voorschrijven die lager zijn dan de bedragen die voortvloeien uit de goedkeuringstoleranties.
+2. Provinciale staten, de raad, het algemeen bestuur onderscheidenlijk de eilandsraad kunnen de accountant bedragen voor de rapporteringstoleranties voorschrijven die lager zijn dan de bedragen die voortvloeien uit de goedkeuringstoleranties.
 
 3. Indien de accountant kwalitatieve gebreken van noemenswaardig belang constateert, meldt hij deze in het verslag van bevindingen, ook indien deze gebreken niet leiden tot het onthouden van een goedkeurende accountantsverklaring.
 
@@ -106,7 +106,7 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 6. (Uitbreiding grondslag)
 
-Dit besluit berust mede op [artikel 38, zevende lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38).
+Dit besluit berust mede op [artikel 38, zevende lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38) en [artikel 109, zesde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109).
 
 ##### Artikel 7. (Inwerkingtreding)
 
@@ -228,7 +228,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. (Reikwijdte)
 
-De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2025-04-17&g=2025-01-01) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2025-04-17&g=2025-01-01), van dit besluit zijn niet van toepassing op de openbare lichamen.
+De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2025-04-17&g=2025-04-17) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2025-04-17&g=2025-04-17), van dit besluit zijn niet van toepassing op de openbare lichamen en de waterschappen.
 
 ## Bijlage. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=4&z=2017-12-09&g=2025-01-01): Goedkeuringstoleranties en strekking controleverklaringen
 
@@ -302,6 +302,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 7. De eilandsraad kan de goedkeuringstoleranties voor de gehele jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
 
-## Bijlage. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=4&z=2025-04-17&g=2025-01-01): Goedkeuringstoleranties en strekking controleverklaringen
+## Bijlage. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=4&z=2025-04-17&g=2025-04-17), van dit besluit (goedkeuringstoleranties en strekking controleverklaringen)
+
+Als de goedkeuringstolerantie niet wordt overschreden, verstrekt de accountant in beginsel een goedkeurende accountantsverklaring. Als de goedkeuringstolerantie wordt overschreden verstrekt de accountant geen goedkeurende accountantsverklaring, maar één van de andere hieronder aangegeven verklaringen.
+
+| Materialiteit | Goedkeurende verklaring | Verklaring met beperking | Verklaring van oordeelonthouding/Afkeurende verklaring |
+| --- | --- | --- | --- |
+| Afwijkingen in de jaarrekening en onzekerheden in de uitvoering van de controle | ≤ 2% | >2% – ≤ 4% | > 4% |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
