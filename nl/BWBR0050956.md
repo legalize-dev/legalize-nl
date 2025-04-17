@@ -4,7 +4,7 @@ identifier: "BWBR0050956"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-17"
-last_updated: "2025-04-01"
+last_updated: "2025-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050956"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 1. Een aanvraag wordt ingediend door de eigenaar van een goederenlocomotief.
 
-2. De aanvrager stemt met de aanvraag er mee in dat infrastructuurbeheerder ProRail in de kalenderjaren, bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=10&z=2025-04-17&g=2025-04-01), aan de Minister op diens verzoek de goederenlocomotief betreffende wagenlijsten verstrekt.
+2. De aanvrager stemt met de aanvraag er mee in dat infrastructuurbeheerder ProRail in de kalenderjaren, bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=10&z=2025-04-17&g=2025-04-17), aan de Minister op diens verzoek de goederenlocomotief betreffende wagenlijsten verstrekt.
 
 ##### Artikel 4. Subsidieplafond en volgorde
 
@@ -150,9 +150,9 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 - a. een uitdraai uit het European Vehicle Register, het nationale voertuigregister als bedoeld in [artikel 26aa, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26aa) of het voertuigregister van een andere lidstaat, met voertuigregistratienummer, serienummer en het ERATV-nummer of UIC-nummer van de goederenlocomotief;
 
-- b. een kopie van de voertuigvergunning, bedoeld in [artikel 5, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-01);
+- b. een kopie van de voertuigvergunning, bedoeld in [artikel 5, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17);
 
-- c. een koopcontract waarmee is aangetoond dat de goederenlocomotief voorafgaand aan 14 juli 2017 is besteld, als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-01).
+- c. een koopcontract waarmee is aangetoond dat de goederenlocomotief voorafgaand aan 14 juli 2017 is besteld, als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17).
 
 4. Een aanvraag tot subsidieverlening in verband met de aanpassing die meer dan één goederenlocomotief betreft, bevat tevens een planning van de aanpassing en oplevering per goederenlocomotief.
 
@@ -166,9 +166,9 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 ##### Artikel 8. Mindering op de subsidieverlening
 
-1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-01), wordt de subsidie voor de aanpassing verlaagd met het bedrag dat op grond van een subsidieregeling is of wordt verstrekt voor de aanpassing, tot vijftig procent van de subsidiabele kosten.
+1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17), wordt de subsidie voor de aanpassing verlaagd met het bedrag dat op grond van een subsidieregeling is of wordt verstrekt voor de aanpassing, tot vijftig procent van de subsidiabele kosten.
 
-2. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-01), wordt de subsidie voor de ontwikkeling verlaagd met het bedrag dat op grond van een subsidieregeling is of wordt verstrekt voor de ontwikkeling tot negentig procent van de subsidiabele kosten.
+2. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17), wordt de subsidie voor de ontwikkeling verlaagd met het bedrag dat op grond van een subsidieregeling is of wordt verstrekt voor de ontwikkeling tot negentig procent van de subsidiabele kosten.
 
 ##### Artikel 9. Beschikking tot subsidieverlening
 
