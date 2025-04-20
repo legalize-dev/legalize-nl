@@ -4,7 +4,7 @@ identifier: "BWBV0001700"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-04-20"
-last_updated: "1998-06-25"
+last_updated: "2025-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001700"
 soort: "verdrag"
@@ -312,7 +312,7 @@ De bovengenoemde gronden voor weigering worden restrictief uitgelegd, met inacht
 
 10. Elke Partij waarborgt dat, wanneer een overheidsinstantie de voorwaarden voor het uitvoeren van een in het eerste lid bedoelde activiteit heroverweegt of aanpast, de bepalingen van de leden 2 tot en met 9 van dit artikel dienovereenkomstig worden toegepast, waar dit van toepassing is.
 
-11. Elke Partij past, binnen het kader van haar nationale wetgeving, voor zover mogelijk en passend, bepalingen van dit artikel toe op besluiten over het al dan niet toestaan van de introductie in het milieu van genetisch gemodificeerde organismen.
+11. Onverminderd artikel 3, lid 5, zijn de bepalingen van dit artikel niet van toepassing op besluiten over het al dan niet toestaan van de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen.
 
 ##### Artikel 7. Inspraak betreffende plannen, programma's en beleid betrekking hebbende op het milieu
 
@@ -475,6 +475,92 @@ Elke Partij kan, te allen tijde na drie jaar vanaf de datum waarop dit Verdrag t
 ##### Artikel 22. Authentieke teksten
 
 Het originele exemplaar van dit Verdrag, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+
+##### 1
+
+Indien een geschil aan arbitrage wordt onderworpen ingevolge artikel 16, tweede lid, van dit Verdrag, stelt/stellen een of meer van de partijen bij het geschil het secretariaat in kennis van het onderwerp van arbitrage, onder vermelding van de artikelen van dit Verdrag over de uitlegging of toepassing waarvan een geschil is ontstaan. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
+
+##### 2
+
+Het scheidsgerecht bestaat uit drie leden. De eisende partij(en) en de andere partij(en) bij het geschil benoemen elk een arbiter, en de twee aldus benoemde arbiters wijzen met gezamenlijke instemming de derde arbiter aan, die voorzitter van het scheidsgerecht wordt. De derde arbiter mag geen onderdaan van een van de partijen bij het geschil zijn, noch mag hij of zij zijn of haar gewone verblijfplaats op het grondgebied van een van die partijen hebben, of in dienst zijn bij een van hen, of in een andere hoedanigheid reeds bij de aangelegenheid betrokken zijn geweest.
+
+##### 3
+
+Indien de voorzitter van het scheidsgerecht niet is aangewezen binnen twee maanden na de benoeming van de tweede arbiter, wijst de Uitvoerend Secretaris van de Economische Commissie voor Europa, op verzoek van een van beide partijen bij het geschil, binnen een nieuwe termijn van twee maanden de voorzitter aan.
+
+##### 4
+
+Indien een van de partijen bij het geschil niet binnen een maand nadat zij het verzoek daartoe heeft ontvangen, een arbiter heeft benoemd, kan de andere partij dit mededelen aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die binnen een nieuwe termijn van twee maanden de voorzitter van het scheidsgerecht aanwijst. Vervolgens verzoekt de voorzitter van het scheidsgerecht de partij die nog geen arbiter heeft benoemd, dit binnen twee maanden te doen. Indien zij dit binnen dat tijdvak niet doet, deelt de voorzitter dit mede aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die vervolgens binnen een volgend tijdvak van twee maanden de benoeming verricht.
+
+##### 5
+
+Het scheidsgerecht neemt zijn beslissing in overeenstemming met het internationale recht en met de bepalingen van dit Verdrag.
+
+##### 6
+
+Ieder krachtens de bepalingen van deze Bijlage ingesteld scheidsgerecht stelt zijn eigen procedureregels vast.
+
+##### 7
+
+De beslissingen van het scheidsgerecht betreffende zowel procedures als aan hem voorgelegde aangelegenheden worden genomen met een meerderheid van de stemmen van zijn leden.
+
+##### 8
+
+Het scheidsgerecht kan alle passende maatregelen nemen ter vaststelling van de feiten.
+
+##### 9
+
+De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van het scheidsgerecht te vergemakkelijken, met name door:
+
+- a. het scheidsgerecht alle relevante documenten, voorzieningen en informatie te verstrekken;
+
+- b. het scheidsgerecht indien nodig in staat te stellen getuigen of deskundigen op te roepen en te horen.
+
+##### 10
+
+De partijen en de arbiters beschermen de vertrouwelijkheid van de informatie die zij gedurende het werk van het scheidsgerecht in vertrouwen verkrijgen.
+
+##### 11
+
+Het scheidsgerecht kan, op verzoek van een van de partijen, tussentijdse beschermingsmaatregelen aanbevelen.
+
+##### 12
+
+Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en zijn uiteindelijke beslissing te nemen. Het feit dat een partij niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, vormt geen belemmering voor de voortzetting van de procedure.
+
+##### 13
+
+Het scheidsgerecht kan tegeneisen die rechtstreeks voortkomen uit de aangelegenheid die het onderwerp van het geschil is, horen en erover beslissen.
+
+##### 14
+
+Tenzij het scheidsgerecht anders bepaalt vanwege de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, met inbegrip van de honorering van zijn leden, in gelijke delen gedragen door de partijen bij het geschil. Het scheidsgerecht houdt een overzicht van al zijn kosten bij, en verstrekt de partijen daarvan een eindopgave.
+
+##### 15
+
+Iedere Partij bij dit Verdrag die een belang ten aanzien van het recht heeft bij de aangelegenheid die het onderwerp van het geschil is, en waarvoor de beslissing van het scheidsgerecht gevolgen kan hebben, kan zich met de instemming van het scheidsgerecht voegen in de procedure.
+
+##### 16
+
+Het scheidsgerecht doet zijn uitspraak binnen vijf maanden na de datum waarop het werd ingesteld, tenzij het het noodzakelijk acht deze termijn te verlengen met een termijn van ten hoogste vijf maanden.
+
+##### 17
+
+De uitspraak van het scheidsgerecht dient vergezeld te gaan van een uiteenzetting van de gronden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil. De uitspraak wordt door het scheidsgerecht toegezonden aan de partijen bij het geschil en aan het secretariaat. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
+
+##### 18
+
+Ieder geschil dat tussen partijen ontstaat betreffende de uitlegging of tenuitvoerlegging van de uitspraak kan door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan of, indien het daaraan niet kan worden voorgelegd, aan een ander scheidsgerecht dat hiertoe wordt ingesteld op dezelfde wijze als het eerstbedoelde scheidsgerecht.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Convention.
+
+DONE at Aarhus (Denmark), this twenty-fifth day of June, one thousand nine hundred and ninety-eight.
+
+##### Artikel 6 bis. Inspraak bij besluiten over de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen
+
+1. Overeenkomstig de in Bijlage I bis vastgelegde modaliteiten, voorziet elke Partij in een vroeg stadium in doeltreffende informatieverstrekking en inspraak voordat zij een besluit neemt over het al dan niet toestaan van de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen.
+
+2. De overeenkomstig lid 1 van dit artikel door de Partijen vastgestelde eisen dienen de bepalingen van hun nationale kader inzake bioveiligheid aan te vullen en te ondersteunen, met inachtneming van het Protocol van Cartagena inzake bioveiligheid.
 
 ##### 1
 
