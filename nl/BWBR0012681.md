@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2024-09-03"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -166,9 +166,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 10°. voor zover deze deelname heeft plaatsgehad door inzet van NATO E-3 AWACS vanaf de luchthaven Forward Operation Base Konya in Turkije boven Syrië en Irak vanaf 1 oktober 2016;
 
-- 11°. de operatie NATO Mission Iraq ‘NMI’, voor zover deelname heeft plaatsgehad in Irak vanaf 15 juni 2018: NAVO OPERATIES;
+- 11°. de operatie NATO Mission Iraq ‘NMI’, voor zover deelname heeft plaatsgehad in Irak vanaf 15 juni 2018;
 
-- 12°. de Very High Readiness Joint Task Force (Maritime) ‘VJTF(M)’ voor zover de deelname heeft plaatsgevonden in de zeegebieden van Europa, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft, vanaf 24 februari 2022;
+- 12°. de Very High Readiness Joint Task Force (Maritime) ‘VJTF(M)’, vanaf 1 januari 2025 Vigilance Activities (VA) genoemd, voor zover de deelname vanaf 24 februari 2022 heeft plaatsgevonden in de zeegebieden van Europa, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
@@ -218,9 +218,11 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 23°. de EU missie ‘EUCAP SAHEL NIGER’ voor zover deze deelname heeft plaatsgehad in Niger vanaf 1 september 2018;
 
-- 24°. de EU missie ‘EUAM Irak’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 18 december 2018: EU-OPERATIES;
+- 24°. de EU missie ‘EUAM Irak’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 18 december 2018;
 
 - 25°. de EU-operatie ‘EUNAVFOR ASPIDES’ voor zover deze deelname heeft plaatsgehad in de zeegebieden van de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte, van 29 april 2024 tot 23 augustus 2024;
+
+- 26°. de EU-operatie ‘EUM Armenië’ voor zover deze deelname vanaf 20 februari 2023 heeft plaatsgehad in Armenië: EU-OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
@@ -258,11 +260,13 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 13°. de missie Combined Air Operations Center ‘CAOC’, voor zover deze deelname heeft plaatsgehad in Qatar, vanaf 1 december 2020;
 
-- 14°. het Joint Operations Command Advisory Team ‘(J)OCAT’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 1 januari 2021: MULTINATIONALE OPERATIES;
+- 14°. het Joint Operations Command Advisory Team ‘(J)OCAT’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 1 januari 2021;
 
 - 15°. Combined Maritime Forces (CMF) te Bahrein ‘CMF’ voor zover deze deelname heeft plaatsgehad te Bahrein vanaf 1 januari 2022;
 
 - 16°. de missie PACIFIC ARCHER 2024 voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte van 26 maart 2024 tot 26 april 2024 of in de Zuid-Chinese Zee en de Straat van Taiwan in de periode van 12 mei tot en met 9 juni 2024, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft;
+
+- 17°. United Nations Command ‘UNC’ voor zover deze deelname vanaf 1 januari 2025 heeft plaatsgehad vanaf HQ UNC te Camp Humphreys in Zuid-Korea: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
@@ -290,7 +294,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 6°. Enhanced Forward Presence Roemenië ‘EFP Roemenië’, voor zover deze deelname heeft plaatsgehad in en boven Roemenië vanaf 2 augustus 2022;
 
-- 7°. Enhanced Air Policing Polen ‘EAP Polen’, voor zover deze deelname heeft plaatsgehad in en boven Polen vanaf 2 januari 2023: FORWARD PRESENCE;
+- 7°. Enhanced Air Policing Polen ‘EAP Polen’, voor zover deze deelname heeft plaatsgehad in en boven Polen vanaf 2 januari 2023;
+
+- 8°. Enhanced Air Policing Estland ‘EAP Estland’ voor zover de deelname heeft plaatsgehad vanaf Airbase AMARI in Estland van 1 december 2024 tot en met 31 maart 2025, waarbij voor wat betreft het personeel dat deelneemt aan de deployment en redeployment wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: FORWARD PRESENCE;
 
 - mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan vanaf 16 augustus: NEO KABUL 2021;
 
