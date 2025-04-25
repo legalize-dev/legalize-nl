@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -86,11 +86,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2025-04-25&g=2025-04-25), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2025-04-25&g=2025-04-25) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2025-04-25&g=2025-04-25), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -122,13 +122,13 @@ Vervallen
 
 3. De begroting voor de kosten van de landelijke voorziening WOZ wordt vastgesteld overeenkomstig de begroting van de Waarderingskamer.
 
-4. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+4. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2025-04-25&g=2025-04-25), is van overeenkomstige toepassing.
 
 5. Het Rijk voldoet zijn aandeel in de begrote kosten binnen vier weken na vaststelling van de begroting aan de Waarderingskamer.
 
 6. Na de goedkeuring door Onze Minister van de jaarrekening van de landelijke voorziening vindt de definitieve kostenverrekening plaats met de kosten van het jaar volgend op het jaar waarover die jaarrekening is vastgesteld.
 
-7. De gemeenten betalen aan de Waarderingskamer een vergoeding voor het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), zijn van overeenkomstige toepassing.
+7. De gemeenten betalen aan de Waarderingskamer een vergoeding voor het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2025-04-25&g=2025-04-25), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=5&z=2025-04-25&g=2025-04-25), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Gegevensbeheer
 
@@ -144,7 +144,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01) bedoelde gegevens aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2025-04-25&g=2025-04-25) bedoelde gegevens aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ.
 
 2. De levering van gegevens aan de Dienst vindt plaats:
 
@@ -172,7 +172,7 @@ De specificaties voor de aanlevering van gegevens door het college van burgemees
 
 - c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken;
 
-- d. de Minister voor Wonen en Rijksdienst ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in het bepaalde bij en krachtens de [artikelen 27, eerste lid, aanhef en onderdeel a, en tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), en [58, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58), en [artikel II, twaalfde lid, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II);
+- d. de Minister van Volkshuisvesting en Ruimtelijke Ordening ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in het bepaalde bij en krachtens de [artikelen 27, eerste lid, aanhef en onderdeel a, en tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), en [58, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=58), en [artikel II, twaalfde lid, van de Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530&artikel=II);
 
 - e. Staatsbosbeheer ten behoeve van de vaststelling van de waarde van onroerende zaken die in erfpacht of opstal zijn of worden uitgegeven;
 
@@ -184,9 +184,13 @@ De specificaties voor de aanlevering van gegevens door het college van burgemees
 
 - i. de Gedeputeerde Staten van de provincie Zuid-Holland ten behoeve van de vaststelling van de waarde van woningen in die provincie voor zover noodzakelijk voor de uitoefening van de Subsidieregeling lokale initiatieven energietransitie Zuid-Holland 2017;
 
-- j. de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de behandeling en betaling van de zakelijke lasten en gebruikerslasten met betrekking tot onroerende zaken waarvan de Staat eigenaar of gebruiker is;
+- j. de Minister van Volkshuisvesting en Ruimtelijke Ordening ten behoeve van de behandeling en betaling van de zakelijke lasten en gebruikerslasten met betrekking tot onroerende zaken waarvan de Staat eigenaar of gebruiker is;
 
-- k. het college van burgemeester en wethouders ten behoeve van de uitoefening van zijn wettelijke taken en bevoegdheden, bedoeld in de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303) en de [Wet goed verhuurderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0048028), voor zover deze zien op het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan woonruimte en het behoud van de leefbaarheid in relatie tot woonruimte.
+- k. het college van burgemeester en wethouders ten behoeve van de uitoefening van zijn wettelijke taken en bevoegdheden, bedoeld in de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303) en de [Wet goed verhuurderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0048028), voor zover deze zien op het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan woonruimte en het behoud van de leefbaarheid in relatie tot woonruimte;
+
+- l. het college van burgemeester en wethouders ten behoeve van de vaststelling van de waarde van woningen in hun gemeente voor zover noodzakelijk voor de uitvoering van de voorwaarden van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners en woningen van verenigingen van eigenaars, woonverenigingen en wooncoöperaties;
+
+- m. het bestuursorgaan dat kosten verhaalt op grond van [artikel 13.11, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.11) en het bestuursorgaan dat handelt namens de rechtspersoon waarvan het bestuursorgaan orgaan is als toepassing wordt gegeven aan [artikel 13.13, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.13).
 
 2. Als bestuursorgaan dat bevoegd is tot het gebruik van de temporele en meta-kenmerken behorend bij het waardegegeven op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) wordt aangewezen de Autoriteit Consument en Markt ten behoeve van het vaststellen van een aansluiting als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) en [artikel 1, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1).
 
@@ -486,7 +490,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-## Bijlage. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01) van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+## Bijlage. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2025-04-25&g=2025-04-25) van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
 
