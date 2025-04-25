@@ -4,7 +4,7 @@ identifier: "BWBR0049554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-25"
-last_updated: "2025-02-01"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049554"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 4. Reikwijdte hoofdstuk 2
 
-Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-02-01&g=2025-02-01), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=4a&z=2025-02-01&g=2025-02-01), bedoelde aanvraagperiode.
+Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-04-25&g=2025-04-25), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=4a&z=2025-04-25&g=2025-04-25), bedoelde aanvraagperiode.
 
 ##### Artikel 5. Subsidieplafonds en deelplafonds
 
@@ -132,7 +132,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 ##### Artikel 7. Wijze van verdeling beschikbare middelen
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=5&z=2025-02-01&g=2025-02-01), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=2&artikel=5&z=2025-04-25&g=2025-04-25), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
 
 - a. aanvragen ten behoeve van het primair onderwijs, niet zijnde speciaal basisonderwijs en speciaal onderwijs of voortgezet speciaal onderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore (peildatum 1 februari 2023) zonder drempel per leerling per vestiging;
 
@@ -216,7 +216,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a. Reikwijdte hoofdstuk 3
 
-Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-02-01&g=2025-02-01), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9b&z=2025-02-01&g=2025-02-01), bedoelde aanvraagperiode.
+Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=1&artikel=3&z=2025-04-25&g=2025-04-25), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9b&z=2025-04-25&g=2025-04-25), bedoelde aanvraagperiode.
 
 ##### Artikel 9b. Aanvraag subsidie
 
@@ -236,19 +236,19 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 ##### Artikel 9c. Subsidieplafonds en deelplafonds
 
-1. Voor subsidieverstrekking is een bedrag beschikbaar van in totaal € 493.109.515, waarvan:
+1. Voor subsidieverstrekking is een bedrag beschikbaar van in totaal € 507.990.720, waarvan:
 
-- a. € 283.927.585, beschikbaar is voor het primair onderwijs en primair onderwijs BES, met uitzondering van het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
+- a. € 316.856.100, beschikbaar is voor het primair onderwijs en primair onderwijs BES, met uitzondering van het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
 
-- b. € 181.645.809, beschikbaar is voor het voortgezet onderwijs, niet zijnde praktijkonderwijs;
+- b. € 172.240.590, beschikbaar is voor het voortgezet onderwijs, niet zijnde praktijkonderwijs;
 
-- c. € 5.326.844, beschikbaar is voor het praktijkonderwijs; en
+- c. € 2.333.310, beschikbaar is voor het praktijkonderwijs; en
 
-- d. € 22.209.277, voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs.
+- d. € 16.560.720, voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs.
 
 2. Indien één of meerdere bedragen, bedoeld in het eerste lid, niet of niet volledig worden benut, dan worden de resterende middelen naar rato verdeeld over de andere in dat lid genoemde subsidieplafonds.
 
-3. Als de middelen, na toepassing van het tweede lid, niet volledig worden benut, kan het resterende bedrag door wijziging van die regeling worden toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in [artikel 9b, tweede lid, van de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024](onbekend).
+3. Als de middelen, na toepassing van het tweede lid, niet volledig worden benut, kan het resterende bedrag door wijziging van die regeling worden toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in [artikel 9b, tweede lid, van de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=9b).
 
 ##### Artikel 9d. Subsidiebedrag
 
@@ -260,7 +260,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 ##### Artikel 9e. Wijze van verdeling beschikbare middelen
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9c&z=2025-02-01&g=2025-02-01), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049554&hoofdstuk=3&artikel=9c&z=2025-04-25&g=2025-04-25), krijgen de aanvragen met betrekking tot de vestigingen van scholen in Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
 
 - a. aanvragen ten behoeve van het primair onderwijs, niet zijnde speciaal basisonderwijs en speciaal onderwijs of voortgezet speciaal onderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore op peildatum 1 februari 2024 zonder drempel per leerling per vestiging;
 
