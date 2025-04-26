@@ -4,7 +4,7 @@ identifier: "BWBR0050983"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-26"
-last_updated: "2024-01-01"
+last_updated: "2025-04-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050983"
 soort: "zbo"
@@ -61,7 +61,7 @@ De raad van bestuur van de NZa heeft op 15 april 2025 dit protocol vastgesteld. 
 
 ### 1.5. Leeswijzer
 
-Hoofdstuk 2 geeft de uitgangspunten weer van het accountantsprotocol. Hoofdstuk 3 gaat in op de overeengekomen specifieke werkzaamheden. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2024-01-01) is een modeltekst opgenomen voor het rapport inzake overeengekomen specifieke werkzaamheden. De accountant dient dit model voor het rapport nog aan te passen aan de meest recente NBA voorbeeldtekst 4.1 rapport inzake overeengekomen specifieke werkzaamheden ten tijde van het opstellen van het rapport en af te stemmen op de specifieke situatie.
+Hoofdstuk 2 geeft de uitgangspunten weer van het accountantsprotocol. Hoofdstuk 3 gaat in op de overeengekomen specifieke werkzaamheden. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2025-04-26) is een modeltekst opgenomen voor het rapport inzake overeengekomen specifieke werkzaamheden. De accountant dient dit model voor het rapport nog aan te passen aan de meest recente NBA voorbeeldtekst 4.1 rapport inzake overeengekomen specifieke werkzaamheden ten tijde van het opstellen van het rapport en af te stemmen op de specifieke situatie.
 
 ### 2. Doelstelling en kader
 
@@ -91,7 +91,7 @@ Voor vragen op het gebied van controle kunt u terecht bij de helpdesk van de NZa
 
 De accountant voert werkzaamheden uit op de bestuursverklaring bij het bestand Wlz-gegevens en het onderliggende bestand ‘Wlz-gegevens jaar T’ (verder: bestand) volgens [Standaard 4400](onbekend). Dit betekent dat de accountant geen zekerheid verschaft dan wel conclusies of oordelen geeft, maar alleen feitelijke onderzoeksbevindingen rapporteert. Dit protocol beschrijft de werkzaamheden die de accountant dient uit te voeren. De gebruiker van het rapport moet zelf een oordeel vormen en hierover zelf conclusies trekken.
 
-De overeengekomen specifieke werkzaamheden zijn opgenomen in paragraaf 3.3. In het rapport vermeldt de accountant welke specifieke werkzaamheden de accountant in dit kader heeft verricht en tot welke bevindingen dit heeft geleid. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2024-01-01) is een modeltekst voor het rapport opgenomen.
+De overeengekomen specifieke werkzaamheden zijn opgenomen in paragraaf 3.3. In het rapport vermeldt de accountant welke specifieke werkzaamheden de accountant in dit kader heeft verricht en tot welke bevindingen dit heeft geleid. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2025-04-26) is een modeltekst voor het rapport opgenomen.
 
 De werkzaamheden van de accountant op de bestuursverklaring bij het bestand Wlz-gegevens en het onderliggende bestand zijn gericht op 6 onderdelen:
 
@@ -139,7 +139,7 @@ De accountant voert op basis van dit protocol de overeengekomen specifieke werkz
 
 De accountant legt de uitkomsten van de werkzaamheden vast in een rapport inzake overeengekomen specifieke werkzaamheden, zoals beschreven in [Standaard 4400](onbekend).
 
-In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2024-01-01) van dit protocol is het model voor het rapport opgenomen, aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van het protocol. Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden.
+In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050983&bijlage=1&z=2025-04-26&g=2025-04-26) van dit protocol is het model voor het rapport opgenomen, aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van het protocol. Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden.
 
 Om de samenhang en herkenbaarheid van het accountantsproduct te bevorderen raadt de NBA het gebruik van de meest recente NBA-voorbeeldteksten aan. Wel blijft de accountant zelf verantwoordelijk voor het gebruik van de juiste tekst. De accountant zal deze nog moeten afstemmen op de specifieke situatie.
 
