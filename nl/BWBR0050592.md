@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-04-29"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -85,7 +85,7 @@ Besluiten:
 |   | [3.28.2, eerste lid, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 1.250.000 |
 |   | [3.28.2, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 2.000.000 |
 | [Titel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.30): CircularPlastics NL | [3.30.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.30.2) | Circular Plastics NL-onderzoeksprojecten |   |   | 18-02-2025 t/m 20-05-2025 | € 4.500.000 |
-|   |   | Circular Plastics NL-showcase projecten |   |   | 18-02-2025 t/m 20-05-2025 | € 31.000.000 |
+|   |   | Circular Plastics NL-showcase projecten |   |   | 18-02-2025 t/m 20-05-2025 | € 37.500.000 |
 | [Titel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.31): Circular Batteries | [3.31.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.31.2) |   | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 13.500.000 |
 |   |   |   | Onderwerp 2: Ontwikkeling en toepassing van langeduurbatterijtechnologie en samenwerking in expertisecentrum | Onderwerp 2: Ontwikkeling en toepassing van langeduurbatterijtechnologie en samenwerking in expertisecentrum | 16-12-2024 t/m 16-04-2025 | € 25.000.000 |
 |   |   |   | Onderwerp 3: Onderzoek en ontwikkeling van batterijmaterialen inclusief bijbehorende productieapparatuur equipment en -processen voor een volgende generatie lithiumbatterijen | Onderwerp 3: Onderzoek en ontwikkeling van batterijmaterialen inclusief bijbehorende productieapparatuur equipment en -processen voor een volgende generatie lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 22.500.000 |
@@ -104,6 +104,8 @@ Besluiten:
 |   |   |   | 2.10 Vergassing van reststromen | 2.10 Vergassing van reststromen | 28-01-2025 t/m 28-08-2025 | € 109.000.000 |
 |   | [4.2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.113) | TSE Industrie studies | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2024 t/m 31-03-2025 | € 26.400.000 |
 |   |   |   | Programmalijn 2: Waterstof en groene chemie | Programmalijn 2: Waterstof en groene chemie | 01-05-2024 t/m 31-03-2025 | € 10.000.000 |
+|   |   |   | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 18.000.000 |
+|   |   |   | Programmalijn 2: Waterstof en groene chemie | Programmalijn 2: Waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 10.000.000 |
 |   | [4.2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.121) | Horizon Europe Partnership (HEP) | 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy technologies for power production 5. Hydrogen and renewable fuels, for advanced fuels from sustainable biomass only 6. Heating and cooling technologies 7. Geothermal energy technologies 10. Clean energy integration in the built environment | 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy technologies for power production 5. Hydrogen and renewable fuels, for advanced fuels from sustainable biomass only 6. Heating and cooling technologies 7. Geothermal energy technologies 10. Clean energy integration in the built environment | 03-03-2025 t/m 02-04-2025 | € 5.000.000 |
 |   |   |   | 4. Carbon capture, utilisation, and storage (CCUS) | 4. Carbon capture, utilisation, and storage (CCUS) | 03-03-2025 t/m 02-04-2025 | € 2.000.000 |
 | [Titel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5): Investeringssubsidie duurzame energie en energiebesparing (ISDE) | [4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken. |   |   | 01-01-2025 t/m 31-12-2025 | € 550.000.000 |
