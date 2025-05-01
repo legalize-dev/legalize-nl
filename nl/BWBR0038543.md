@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2025-01-25"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-01-25&g=2025-01-25) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-05-01&g=2025-05-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-01-25&g=2025-01-25).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-05-01&g=2025-05-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-01-25&g=2025-01-25)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-05-01&g=2025-05-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -461,7 +461,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-01-25&g=2025-01-25)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-05-01&g=2025-05-01)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -655,6 +655,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0182 | Organiseren en bewaken van het versproductieproces | 25566 | Productieleider versindustrie (Gewijzigd 2017) |
 | C0183 | Praktische ondersteuning bij dagelijks functioneren | 25958 | Sociaal werker (Gewijzigd 2024) |
 | C0185 | Versterken van de sociale basis | 25958 | Sociaal werker (Gewijzigd 2024) |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf april 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2025** |
+| C0186 | Afleveringsklaar maken van nieuwe fietsen | 27038 | Fietstechnicus (Gewijzigd 2025) |
+| C0184 | Basiswerkzaamheden metaal- en productietechnologie | 25894 | Medewerker productietechniek |
+| C0187 | Gebruikers ondersteunen bij een ICT-servicedesk | 27016 | ICT system engineer |
+| C0188 | Installeren (hybride) warmtepompsystemen in woning en kleine utiliteit | 25350 | Monteur werktuigkundige installaties (Gewijzigd 2022) |
+| C0189 | Instellen en inregelen (hybride) warmtepompsystemen in woning en kleine utiliteit | 25835 | Eerste monteur woning (Gewijzigd 2022) |
+| C0190 | Onderhoud van fietsen (Versie 2) | 27038 | Fietstechnicus (Gewijzigd 2025) |
+| C0191 | Realiseren van aansluitingen op drinkwaterdistributienetten (Versie 3) | 27006 | Monteur gas-, water- of warmtedistributie (Gewijzigd 2024) |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
