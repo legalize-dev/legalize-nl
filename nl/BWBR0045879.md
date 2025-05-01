@@ -4,7 +4,7 @@ identifier: "BWBR0045879"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-11-21"
-last_updated: "2023-09-02"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045879"
 soort: "zbo"
@@ -56,13 +56,17 @@ In dit besluit wordt verstaan onder:
 
 - e. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- f. **teammanagers:** de teammanagers van de Dienst Nederlandse Emissieautoriteit.
+- f. **teammanagers:** de teammanagers van de Dienst Nederlandse Emissieautoriteit;
+
+- g. **projectdirecteur CBAM Toelatingstaak:** de Projectdirecteur CBAM Toelatingstaak van PricewaterhouseCoopers Advisory N.V., dan wel diens plaatsvervanger;
+
+- h. **Verordening koolstofcorrectie aan de grens:** [Verordening (EU) 2023/956](32023R0956) van het Europees Parlement en de Raad van 10 mei 2023 tot instelling van een mechanisme voor koolstofgrenscorrectie (PbEU 2023, L130).
 
 #### § 2. Taakverdeling
 
 ##### Artikel 2
 
-1. Aan de afdelingshoofden wordt, ieder voor zich, mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van de P&O-aangelegenheden, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 niet te boven gaat.
+1. Aan de afdelingshoofden wordt, ieder voor zich, mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van de P&O-aangelegenheden, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 143.000 niet te boven gaat.
 
 2. Aan de afdelingshoofden wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers volmacht en machtiging verleend voor:
 
@@ -136,7 +140,7 @@ Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende mede
 
 ##### Artikel 2b
 
-Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende
+1. Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende
 
 medewerkers, volmacht en machtiging verleend voor:
 
@@ -149,6 +153,22 @@ medewerkers, volmacht en machtiging verleend voor:
 - d. het accorderen van P-Direkt aanvragen;
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.
+
+2. Aan de teammanagers wordt, ieder voor zich, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen die een bedrag van € 15.000 niet te boven gaan.
+
+#### § 4. Slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2c
+
+Aan de projectdirecteur CBAM Toelatingstaak wordt mandaat verleend voor het nemen van besluiten op grond van artikel 17 van de Verordening koolstofcorrectie aan de grens:
+
+- a. op een aanvraag voor de status van toegelaten CBAM-aangever;
+
+- b. over de intrekking van de status van toegelaten CBAM-aangever.
+
+#### § 3. Vervanging
 
 #### § 4. Slotbepalingen
 
