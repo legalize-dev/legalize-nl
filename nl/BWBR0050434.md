@@ -4,7 +4,7 @@ identifier: "BWBR0050434"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-05-01"
-last_updated: "2024-11-20"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050434"
 soort: "zbo"
@@ -90,7 +90,7 @@ en voor de gewijzigde versie op 27 maart 2023;
 
 - t. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
-2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2024-11-20&g=2024-11-20) en de daaropvolgende hoofdstukken staat wat wordt verstaan onder de begrippen die in het bijzonder bij het desbetreffende hoofdstuk behoren.
+2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2025-05-01&g=2025-05-01) en de daaropvolgende hoofdstukken staat wat wordt verstaan onder de begrippen die in het bijzonder bij het desbetreffende hoofdstuk behoren.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -98,7 +98,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 ##### Artikel 1.3. Subsidieplafond en flexibiliteit
 
-1. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2024-11-20&g=2024-11-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=3&z=2024-11-20&g=2024-11-20) staat beschreven hoe hoog de subsidieplafonds zijn. Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook zien op specifieke categorieën van activiteiten of voor bepaalde regio's.
+1. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2025-05-01&g=2025-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=3&z=2025-05-01&g=2025-05-01) staat beschreven hoe hoog de subsidieplafonds zijn. Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook zien op specifieke categorieën van activiteiten of voor bepaalde regio's.
 
 2. Ook kan het Fonds besluiten de subsidiehoogte en het tijdvak waarbinnen kan worden aangevraagd aan te passen.
 
@@ -126,7 +126,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - e. de aanvraag onvoldoende aansluit bij het doel van de regeling; of
 
-- f. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen ten aanzien van de Governance Code Cultuur of Fair Practice Code, zoals bedoeld in [artikel 1.6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&artikel=1.6&z=2024-11-20&g=2024-11-20).
+- f. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen ten aanzien van de Governance Code Cultuur of Fair Practice Code, zoals bedoeld in [artikel 1.6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&artikel=1.6&z=2025-05-01&g=2025-05-01).
 
 2. Het Fonds weigert subsidie aan derden als die in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor een subsidie.
 
@@ -362,7 +362,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 Het subsidieplafond voor de projecten in dit hoofdstuk tezamen is € 1.024.000.
 
-### Hoofdstuk 3. – (Gereserveerd – Curaçao, Aruba en Sint-Maarten)
+### Hoofdstuk 3. – Curaçao, Aruba en Sint-Maarten
 
 ### Hoofdstuk 4. – Slotbepalingen
 
