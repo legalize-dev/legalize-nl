@@ -4,7 +4,7 @@ identifier: "BWBR0048684"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-03"
-last_updated: "2020-01-01"
+last_updated: "2025-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048684"
 soort: "ministeriele-regeling"
@@ -58,25 +58,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De voorzitter ontvangt per vergadering een schadeloosstelling die gelijk is aan 130% van 3% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
+1. De voorzitter ontvangt per vergadering een schadeloosstelling die gelijk is aan 130% van 4% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
 
-2. De overige leden ontvangen per vergadering een schadeloosstelling die gelijk is aan 2% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
+2. De overige leden ontvangen per vergadering een schadeloosstelling die gelijk is aan 3% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
 
 3. De plaatsvervangend voorzitter ontvangt een schadeloosstelling overeenkomstig het eerste lid, indien hij bij afwezigheid van de voorzitter de vergadering voorzit.
 
 ##### Artikel 3
 
-1. De voorzitter en plaatsvervangend voorzitter ontvangen voor het voorzitten van een vergadering van de meervoudige kamer een schadeloosstelling die gelijk is aan 130% van 2% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
+1. De voorzitter en plaatsvervangend voorzitter ontvangen voor het voorzitten van een vergadering van de meervoudige kamer een schadeloosstelling die gelijk is aan 130% van 5% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
 
-2. De overige leden ontvangen voor het deelnemen aan een vergadering van de meervoudige kamer een schadeloosstelling die gelijk is aan 3% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
+2. De overige leden ontvangen voor het deelnemen aan een vergadering van de meervoudige kamer een schadeloosstelling die gelijk is aan 4% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk.
 
 ##### Artikel 4
 
-De leden ontvangen voor het afhandelen van bezwaarzaken in de enkelvoudige kamer een schadeloosstelling die gelijk is aan 130% van 3% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk per tien afgehandelde bezwaarzaken.
+De leden ontvangen voor het afhandelen van bezwaarzaken in de enkelvoudige kamer een schadeloosstelling die gelijk is aan 130% van 5% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk per tien afgehandelde bezwaarzaken.
 
 ##### Artikel 5
 
-De leden ontvangen voor het voorzitten van een hoorzitting in bezwaarzaken een schadeloosstelling die gelijk is aan 2,5% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk per zitting.
+De leden ontvangen voor het voorzitten van een hoorzitting in bezwaarzaken een schadeloosstelling die gelijk is aan 5% van het maximum van salarisschaal 17 zoals overeengekomen in de Cao Rijk per zitting.
 
 ##### Artikel 6
 
