@@ -4,7 +4,7 @@ identifier: "BWBR0040520"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-05-03"
-last_updated: "2024-12-08"
+last_updated: "2025-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040520"
 soort: "rijkswet"
@@ -50,13 +50,25 @@ In deze wet wordt verstaan onder:
 
 - −. **Consulaire bescherming:** door Onze Minister geboden hulp aan of ten behoeve van personen die in het buitenland door arrestatie, detentie, misdrijf, ernstig ongeval, ernstige ziekte, overlijden, verlies van reisdocumenten, een noodsituatie in het desbetreffende land of in verband met andere omstandigheden hulpbehoevend zijn geraakt;
 
+- −. **Derde land:** land, niet zijnde een lidstaat van de Europese Unie;
+
 - −. **EU-burger:** persoon die de nationaliteit bezit van een lidstaat;
+
+- −. **EU-noodreisdocument:** EU-noodreisdocument als bedoeld in artikel 3, eerste lid, eerste zin, van [Richtlijn (EU) 2019/997](32019L0997) van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
 
 - −. **lidstaat:** lidstaat van de Europese Unie;
 
 - −. **Onze Minister:** Onze Minister van Buitenlandse Zaken;
 
-- −. **Vertegenwoordigde lidstaat:** lidstaat die in een derde land op permanente basis is vertegenwoordigd door een ambassade of consulaat.
+- −. **Richtlijn 2004/38/EG:** [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van [Verordening (EEG) nr. 1612/68](31968R1612) en tot intrekking van de [Richtlijnen 64/221/EEG](31964L0221), [68/360/EEG](31968L0360), [72/194/EEG](31972L0194), [73/148/EEG](31973L0148), [75/34/EEG](31975L0034), [75/35/EEG](31975L0035), [90/364/EEG](31990L0364), [90/365/EEG](31990L0365) en [93/96/EEG](31993L0096) (PbEU 2004, L 158);
+
+- −. **Richtlijn (EU) 2019/997:** [Richtlijn (EU) 2019/997](32019L0997) van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
+
+- −. **Verordening (EU) 2018/1806:** [Verordening (EU) 2018/1806](32018R1806) van het Europees Parlement en de Raad van 14 november 2018 tot vaststelling van de lijst van derde landen waarvan de onderdanen bij overschrijding van de buitengrenzen in het bezit moeten zijn van een visum en de lijst van derde landen waarvan de onderdanen van die plicht zijn vrijgesteld (PbEU 2018, L 303);
+
+- −. **Vertegenwoordigde lidstaat:** lidstaat die in een derde land op permanente basis is vertegenwoordigd door een ambassade of consulaat;
+
+- −. **Werkdag:** dag, niet zijnde een zaterdag, zondag of algemeen erkende feestdag.
 
 ##### Artikel 2
 
@@ -64,7 +76,7 @@ Op gelijke voet als waarop Onze Minister consulaire bescherming verleent aan Ned
 
 ##### Artikel 3
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2024-12-08) vindt geen toepassing in gevallen waarin:
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&hoofdstuk=2&artikel=2&z=2025-05-03&g=2025-05-03) vindt geen toepassing in gevallen waarin:
 
 - a. de lidstaat waarvan betrokkene de nationaliteit draagt te kennen geeft dat deze voor consulaire bescherming zorg zal dragen, of
 
@@ -78,7 +90,7 @@ Op gelijke voet als waarop Onze Minister consulaire bescherming verleent aan Ned
 
 ##### Artikel 5
 
-1. Voor het verlenen van consulaire bescherming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2024-12-08) is de krachtens de [Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618) verschuldigde vergoeding verschuldigd, op gelijke voet als waarop Onze Minister dergelijke kosten in rekening brengt aan Nederlanders.
+1. Voor het verlenen van consulaire bescherming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&hoofdstuk=2&artikel=2&z=2025-05-03&g=2025-05-03) is de krachtens de [Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618) verschuldigde vergoeding verschuldigd, op gelijke voet als waarop Onze Minister dergelijke kosten in rekening brengt aan Nederlanders.
 
 2. Onze Minister kan de vergoeding, bedoeld in het eerste lid, in rekening brengen bij de lidstaat waarvan de betrokken EU-burger de nationaliteit draagt.
 
@@ -130,7 +142,7 @@ Onze Minister geeft een EU-noodreisdocument af aan andere EU-burgers dan Nederla
 
 ##### Artikel 5e
 
-Onze Minister stelt de aanvrager in kennis in het geval de lidstaat waarvan de aanvrager de nationaliteit draagt te kennen geeft dat deze voor consulaire bescherming zorg zal dragen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&hoofdstuk=2&artikel=3&z=2025-05-03&g=2024-12-08 jci1.3:c:BWBR0040520&artikel=3&z=2025-05-03&g=2024-12-08).
+Onze Minister stelt de aanvrager in kennis in het geval de lidstaat waarvan de aanvrager de nationaliteit draagt te kennen geeft dat deze voor consulaire bescherming zorg zal dragen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&hoofdstuk=2&artikel=3&z=2025-05-03&g=2025-05-03).
 
 ##### Artikel 5f
 
