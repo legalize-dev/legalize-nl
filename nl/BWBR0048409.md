@@ -4,7 +4,7 @@ identifier: "BWBR0048409"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-26"
-last_updated: "2025-05-03"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048409"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 - b. een buitenlands getuigschrift Engelse taal, Frans taal, wiskunde, natuurkunde, scheikunde, informatica of techniek dat door Nuffic tenminste gelijk gewaardeerd is aan een Nederlands hoger onderwijsdiploma.
 
-2. In afwijking van het eerste lid, onderdeel b, staat de regeling voor een subsidieaanvraag als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-03), open voor statushouders of Oekraïense ontheemden met een buitenlands getuigschrift dat door Nuffic minimaal gelijk gewaardeerd is aan een Nederlands hoger onderwijsdiploma.
+2. In afwijking van het eerste lid, onderdeel b, staat de regeling voor een subsidieaanvraag als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-06), open voor statushouders of Oekraïense ontheemden met een buitenlands getuigschrift dat door Nuffic minimaal gelijk gewaardeerd is aan een Nederlands hoger onderwijsdiploma.
 
 3. Een bevoegd gezag komt in aanmerking voor subsidie ten behoeve van een statushouder of Oekraïense ontheemde indien de desbetreffende statushouder of Oekraïense ontheemde:
 
@@ -110,7 +110,7 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 - c. afspraken over het doel waar de statushouder of Oekraïense ontheemde naartoe werkt tijdens het ondersteuningsprogramma, zijnde een vervolgopleiding en/of een baan in het onderwijs; en
 
-- d. voor een subsidieaanvraag als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-03), afspraken met de statushouder of Oekraïense ontheemde waarin staat hoe de subsidieontvanger gedurende een periode van minimaal zes maanden na het verlopen van het ondersteuningsprogramma nazorg krijgt.
+- d. voor een subsidieaanvraag als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-06), afspraken met de statushouder of Oekraïense ontheemde waarin staat hoe de subsidieontvanger gedurende een periode van minimaal zes maanden na het verlopen van het ondersteuningsprogramma nazorg krijgt.
 
 ##### Artikel 5. Aanvraag subsidie
 
@@ -134,11 +134,11 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 9. De aanvraag per statushouder of Oekraïense ontheemde gaat vergezeld van een verklaring waarin het bevoegd gezag verklaart dat:
 
-- a. de statushouder of Oekraïense ontheemde beschikt over documenten waaruit blijkt dat de statushouder of Oekraïense ontheemde voldoet aan [artikel 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-03);
+- a. de statushouder of Oekraïense ontheemde beschikt over documenten waaruit blijkt dat de statushouder of Oekraïense ontheemde voldoet aan [artikel 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-06);
 
-- b. het opleidingsprogramma voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-03);
+- b. het opleidingsprogramma voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-06);
 
-- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-03).
+- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2025-05-03&g=2025-05-06).
 
 10. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
@@ -160,7 +160,7 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 4. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen voor maximaal vijf statushouders of Oekraïense ontheemden per bevoegd gezag.
 
-5. Indien het desbetreffende voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid niet is uitgeput, worden de aanvragen in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-03) verdeeld over een zesde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder of Oekraïense ontheemde, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+5. Indien het desbetreffende voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid niet is uitgeput, worden de aanvragen in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-05-03&g=2025-05-06) verdeeld over een zesde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder of Oekraïense ontheemde, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
 
 6. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a. Bij de verdeling van een ingevolge de eerste of tweede volzin toegevoegd budget, zijn het derde en vierde lid van overeenkomstige toepassing.
 
