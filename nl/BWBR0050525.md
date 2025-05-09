@@ -4,7 +4,7 @@ identifier: "BWBR0050525"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-09"
-last_updated: "2024-12-13"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050525"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Het [Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1
 
 1. Dit besluit treedt in werking met ingang van 13 december 2024. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 13 december 2024, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid, treedt [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050525&artikel=4&z=2024-12-13&g=2024-12-13), in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid, treedt [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050525&artikel=4&z=2025-05-09&g=2025-05-09), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 7
 
