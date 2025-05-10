@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2025-01-01"
+last_updated: "2025-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt
 
 ##### Artikel 1:1
 
-Dit besluit geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:4), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
+Dit besluit geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:23h](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23h), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:4), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
 
 ### Afdeling 1.1. Internationaal recht
 
@@ -90,7 +90,7 @@ Kosten zijn verschuldigd:
 
 - d. inzake het aanvullend onderzoek van goederen, ingeval de verschillen tussen de uitkomst van het gedeeltelijk onderzoek en de uitkomst van het aanvullend onderzoek, blijven binnen de spelingen, bedoeld in [artikel 1:35 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35).
 
-### Afdeling 1.3. Lijfsvisitatie
+### Afdeling 1.2a. Verwerking persoonsgegevens bij het gebruik van camera’s
 
 ##### Artikel 1:5
 
@@ -294,11 +294,11 @@ Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-01-01&g=2025-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-05-10&g=2025-05-10) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-05-10&g=2025-05-10), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -308,11 +308,11 @@ Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-01-01&g=2025-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-05-10&g=2025-05-10) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-01-01&g=2025-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-05-10&g=2025-05-10), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -328,9 +328,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2025-01-01&g=2025-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2025-01-01&g=2025-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2025-05-10&g=2025-05-10) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2025-05-10&g=2025-05-10) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
-### Hoofdstuk 7. Strafrechtelijke bepalingen
+### Hoofdstuk 6. Bestuurlijke boeten
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -344,9 +344,79 @@ Vervallen
 
 ### Hoofdstuk 5. Verboden en beperkingen
 
-### Hoofdstuk 6. Bestuurlijke boeten
+### Hoofdstuk 4. Administratie
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
+
+### Hoofdstuk 7. Strafrechtelijke bepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1:4a
+
+De overeenkomst, bedoeld in [artikel 1:23a, zesde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a), niet zijnde een overeenkomst als bedoeld in artikel 28, derde lid, van de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119), regelt in ieder geval:
+
+- a. de wijze waarop en de mate waarin de inspecteur over de camera waarbij persoonsgegevens worden verwerkt kan beschikken;
+
+- b. welke passende algemeen aanvaarde beveiligingsmaatregelen als bedoeld in [artikel 1:23g, eerste lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g) worden getroffen met betrekking tot:
+
+- 1°. de fysieke toegang van de gemandateerden, bedoeld in dat lid, tot de ruimte waarin de camerabeelden kunnen worden bekeken; of
+
+- 2°. de overdracht van de camerabeelden aan de inspecteur;
+
+- c. de procedures bij wijzigingen in apparatuur, software of procedures die betrekking hebben op het verlenen van toegang dan wel overdracht van de camerabeelden aan de inspecteur;
+
+- d. op welke wijze uitvoering wordt gegeven aan [artikel 1:23g, tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g);
+
+- e. de medewerking aan de audit, bedoeld in [artikel 1:23g, vierde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g).
+
+##### Artikel 1:4b
+
+De inspecteur legt vast:
+
+- a. de tijdvakken waarin de camera’s waarbij persoonsgegevens kunnen worden verwerkt worden gebruikt voor de taken en de doelen, bedoeld in de [artikelen 1:23a tot en met 1:23f van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a);
+
+- b. de namen van de ambtenaren die de camerabeelden waarbij persoonsgegevens kunnen worden verwerkt inzien en het tijdvak, bedoeld in onderdeel a, waarin;
+
+- c. het aantal gevallen en de aanleiding waarbij de persoonsgegevens zijn gebruikt voor het identificeren van natuurlijke personen voor de persoonlijke veiligheid van een ambtenaar of zijn directe omgeving, bedoeld in [artikel 1:23a, derde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a), en wat met die persoonsgegevens is gedaan;
+
+- d. de dringende gevallen waarvoor toestemming is gevraagd, bedoeld in [artikel 1:23a, vierde lid, onderdeel d, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a), onder vermelding van de reden, waar de camera’s op werden gericht dan wel in of op welke locaties deze werden ingezet en de resultaten van het gebruik van die camera’s;
+
+- e. welke beveiligingsmaatregelen als bedoeld in [artikel 1:23g, eerste lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g) zijn genomen;
+
+- f. welke ambtenaren zijn gemandateerd als bedoeld in [artikel 1:23g, eerste lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g);
+
+- g. het tijdstip en de wijze van vernietiging van de persoonsgegevens die zijn verkregen met camera’s, bedoeld in [artikel 1:23g, derde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g);
+
+- h. indien de persoonsgegevens die zijn verkregen met camera’s niet binnen vier weken nadat ze zijn verkregen zijn vernietigd, de reden waarom en een verwijzing naar het daarbij behorende dossier;
+
+- i. indien ingevolge een bij of krachtens de wet bestaande verplichting de persoonsgegevens die zijn verkregen met camera’s zijn verstrekt, aan wie deze zijn verstrekt onder vermelding van de grondslag daarvan;
+
+- j. de eventuele inbreuken op de wet- en regelgeving, die zich hebben voorgedaan ten aanzien van het gebruik van camera’s waarbij persoonsgegevens worden verwerkt.
+
+##### Artikel 1:4c
+
+1. Het cameraplan, bedoeld in [artikel 1:23g, vijfde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23g), geeft inzicht in de camera’s die de inspecteur gebruikt waarbij persoonsgegevens kunnen worden verwerkt en beschrijft:
+
+- a. de locaties, bedoeld in [artikel 1:23a, vierde lid, onderdelen a en b, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a), waar gebruik kan worden gemaakt van vaste camera’s;
+
+- b. het voorgenomen aantal te gebruiken vaste camera’s per locatie of gebied;
+
+- c. de locaties, bedoeld in [artikel 1:23a, vierde lid, onderdelen a en b, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23a), waar en de situaties waarin mobiele camera’s kunnen worden ingezet; en
+
+- d. een onderbouwing voor de voorgenomen inzet van camera’s, tenzij de melding de effectiviteit van het beperken van risico’s ernstig kan benadelen.
+
+2. Het cameraplan ziet op zowel eigen camera’s als die van personen of instellingen die geen inspecteur of ontvanger zijn.
+
+### Afdeling 1.3. Lijfsvisitatie
+
+### Afdeling 1.4. Gebruik geweld en veiligheidsfouillering
+
+### Hoofdstuk 2. Non-tarifaire handelspolitieke maatregelen
+
+### Hoofdstuk 3. Landbouwproducten
+
+### Hoofdstuk 5. Verboden en beperkingen
 
 ### Hoofdstuk 8. Slotbepalingen
 
