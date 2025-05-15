@@ -4,7 +4,7 @@ identifier: "BWBR0051031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-15"
-last_updated: "2025-04-17"
+last_updated: "2025-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051031"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051031&artikel=2&z=2025-05-15&g=2025-04-17);
+- **commissie:** de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051031&artikel=2&z=2025-05-15&g=2025-05-15);
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
