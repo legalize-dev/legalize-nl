@@ -4,7 +4,7 @@ identifier: "BWBR0049711"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2025-02-21"
+last_updated: "2025-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049711"
 soort: "pbo"
@@ -21080,7 +21080,7 @@ In de rapportage verwijst de accountant uitsluitend naar deze Standaard en niet 
 
 **5**
 
-Als een accountantseenheid een onderzoek naar de toepassing van de NOW-regeling uitvoert, gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend) (NVKM)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen . In deze Standaard is in paragraaf 24 een bepaling over kwaliteitsbeheersing op het niveau van afzonderlijke opdrachten bij de NOW-regeling opgenomen. (Zie Par. A4 – A5)
+Als een accountantseenheid een onderzoek naar de toepassing van de NOW-regeling uitvoert, gelden de [Nadere voorschriften kwaliteitsmanagement](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) (NVKM)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen . In deze Standaard is in paragraaf 24 een bepaling over kwaliteitsbeheersing op het niveau van afzonderlijke opdrachten bij de NOW-regeling opgenomen. (Zie Par. A4 – A5)
 
 **6**
 
@@ -21568,7 +21568,7 @@ De toepassingsgerichte teksten die gekoppeld zijn aan de vereisten uit de andere
 
 **A4**
 
-De [NVKM](onbekend) stelt voor assurance-opdrachten extra voorwaarden waardoor het voor sommige accountantseenheden mogelijk kan zijn dat zij opdrachten die gericht zijn op het geven van zekerheid niet uit kunnen voeren of daarvoor hun kwaliteitssysteem moeten aanpassen.
+De [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) stelt voor assurance-opdrachten extra voorwaarden waardoor het voor sommige accountantseenheden mogelijk kan zijn dat zij opdrachten die gericht zijn op het geven van zekerheid niet uit kunnen voeren of daarvoor hun kwaliteitssysteem moeten aanpassen.
 
 Mocht een accountantseenheid assurance-opdrachten moeten / willen uitvoeren in het kader van de NOW en twijfelen of zij aan de voorwaarden voldoet, dan wordt geadviseerd contact op te nemen met een serviceorganisatie of met de NBA. (Zie Par. 5)
 
@@ -21584,7 +21584,7 @@ In een accountantsorganisatie worden wettelijke controles uitgevoerd zoals bedoe
 
 Accountantsorganisaties en accountantskantoren worden gezamenlijk aangeduid als accountantspraktijken.
 
-Voor nadere toelichtingen op dit onderwerp wordt verwezen naar de Verordening op de ledengroepen en de [NVKM](onbekend). (Zie Par. 5)
+Voor nadere toelichtingen op dit onderwerp wordt verwezen naar de Verordening op de ledengroepen en de [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792). (Zie Par. 5)
 
 **A6**
 
@@ -21780,7 +21780,7 @@ Deze Standaard is een op zichzelf staande standaard. NBA heeft bij de totstandko
 
 Waar in deze Standaard verwacht wordt dat de accountant aandacht besteedt aan deze onderwerpen is dat in deze Standaard in vereisten uitgewerkt. Daarbij is ervoor gekozen – ter voorkoming van onnodige doublures – om bepaalde vereisten in andere standaarden van overeenkomstige toepassing te verklaren. De accountant hoeft dus geen invulling te geven aan de andere vereisten in andere standaarden. In bijlage 1 van deze Standaard is in een tabel inzichtelijk gemaakt welke vereisten wel en niet van toepassing zijn.
 
-Uiteraard gelden ook andere regels van de NBA zoals de [NVKM](onbekend), [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), [ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (voor assurance-opdrachten) en de NV NOCLAR. (Zie Par. 18)
+Uiteraard gelden ook andere regels van de NBA zoals de [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792), [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), [ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (voor assurance-opdrachten) en de NV NOCLAR. (Zie Par. 18)
 
 **A30**
 
@@ -23260,7 +23260,7 @@ In deze standaard zijn twee opties gecreëerd om tot administratieve lastenverli
 
 **2**
 
-Als een accountantseenheid een opdracht uitvoert volgens deze Standaard bij een NOW-aanvraag tot vaststelling gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen (NVKM) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht bij de NOW-regeling opgenomen.
+Als een accountantseenheid een opdracht uitvoert volgens deze Standaard bij een NOW-aanvraag tot vaststelling gelden de [Nadere voorschriften kwaliteitsmanagement](https://wetten.overheid.nl/jci1.3:c:BWBR0050792)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen (NVKM) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht bij de NOW-regeling opgenomen.
 
 **3**
 
@@ -23592,7 +23592,7 @@ Dit houdt onder meer in:
 
 Ter waarborging van de objectiviteit van de accountant die een aan assurance verwante NOW opdracht uitvoert, is een opdrachtgerichte kwaliteitsbeoordeling (OKB) vereist. Dit is een waarborg in verband met het ontbreken van een verplichting om onafhankelijk te zijn van de cliënt. Alhoewel de [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) niet van toepassing is, is hier de analogie toegepast dat een OKB een maatregel kan zijn bij deze bedreiging van objectiviteit.
 
-De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](onbekend) is hier vormvrij in.
+De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) is hier vormvrij in.
 
 De opdrachtgerichte kwaliteitsbeoordelaar laat de diepgang van de werkzaamheden afhangen van de aard en omvang van de opdracht. Desgewenst kan bij de OKB ook nagegaan worden of de opdracht vakbekwaam en zorgvuldig is uitgevoerd. (Zie Par. 19)
 
@@ -23784,7 +23784,7 @@ Deze Standaard kan alleen worden toegepast als het accountantsprotocol behorende
 
 **3**
 
-Als een accountantseenheid een opdracht uitvoert volgens deze Standaard gelden de [Nadere voorschriften kwaliteitsmanagement](onbekend)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen ([NVKM](onbekend)) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht opgenomen.
+Als een accountantseenheid een opdracht uitvoert volgens deze Standaard gelden de [Nadere voorschriften kwaliteitsmanagement](https://wetten.overheid.nl/jci1.3:c:BWBR0050792)accountants, die werkzaam zijn bij of verbonden zijn aan een accountantskantoor, dat artikel 6 lid 1 of lid 2 toepast, lezen hiervoor de Nadere voorschriften kwaliteitssystemen ([NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792)) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht opgenomen.
 
 **4**
 
@@ -24038,7 +24038,7 @@ Dat neemt niet weg dat gezien het belang van de covid-19 gerelateerde subsidies 
 
 **A14**
 
-De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](onbekend) is hier vormvrij in.
+De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) is hier vormvrij in.
 
 De opdrachtgerichte kwaliteitsbeoordelaar laat de diepgang van de werkzaamheden afhangen van de aard en omvang van de opdracht. Desgewenst kan bij de OKB ook nagegaan worden of de opdracht vakbekwaam en zorgvuldig is uitgevoerd. (Zie Par. 20)
 
