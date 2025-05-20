@@ -4,7 +4,7 @@ identifier: "BWBR0048883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-20"
-last_updated: "2025-01-01"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048883"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **arbeidsorganisatie:** eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=18&z=2025-01-01&g=2025-01-01);
+- **beoordelingscommissie:** commissie als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=18&z=2025-05-20&g=2025-05-20);
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1) of [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES;](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1)
 
@@ -70,9 +70,9 @@ In deze regeling wordt verstaan onder:
 
 - **regionale overheid:** provincie, gemeente of waterschap;
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-01-01&g=2025-01-01);
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-05-20&g=2025-05-20);
 
-- **voortgangsrapportage:** voortgangsrapportage als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=5&artikel=24&z=2025-01-01&g=2025-01-01);
+- **voortgangsrapportage:** voortgangsrapportage als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=5&artikel=24&z=2025-05-20&g=2025-05-20);
 
 - **website van DUS-I:** [www.dus-i.nl](http://www.dus-i.nl);
 
@@ -94,7 +94,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 ##### Artikel 5. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 2024 tot en met 2027 in totaal € 84.000.000,– beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 2024 tot en met 2027 in totaal € 66.000.000,– beschikbaar.
 
 2. De hoogte van het subsidieplafond per kalenderjaar wordt jaarlijks bekend gemaakt in de Staatscourant.
 
@@ -116,7 +116,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 6. Voor subsidieontvangers in Caribisch Nederland wordt het subsidiebedrag omgerekend in US-dollars tegen de jaarlijks vastgestelde wisselkoers.
 
-7. Onverminderd het eerste lid, kan een publiek-private samenwerking waaraan een instelling voor hoger onderwijs deelneemt mede als doel hebben het ontwikkelen van een Associate-degreeprogramma als bedoeld in [artikel 7.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), indien de instelling voor hoger onderwijs bijdraagt aan de cofinanciering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-01-01&g=2025-01-01).
+7. Onverminderd het eerste lid, kan een publiek-private samenwerking waaraan een instelling voor hoger onderwijs deelneemt mede als doel hebben het ontwikkelen van een Associate-degreeprogramma als bedoeld in [artikel 7.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), indien de instelling voor hoger onderwijs bijdraagt aan de cofinanciering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-05-20&g=2025-05-20).
 
 ##### Artikel 7. Subsidieaanvraag
 
@@ -144,11 +144,11 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 1. Indien een aanvraag in overwegende mate tot doel heeft de aansluiting van een entreeopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), dan wel een assistentenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) op de arbeidsmarkt te verbeteren:
 
-- a. bedraagt de subsidie, in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-01-01&g=2025-01-01), ten hoogste 50 procent van de meerjarenbegroting;
+- a. bedraagt de subsidie, in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-05-20&g=2025-05-20), ten hoogste 50 procent van de meerjarenbegroting;
 
-- b. bedraagt de cofinanciering door de partijen bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-01-01&g=2025-01-01), ten minste 25 procent en ten hoogste 50 procent van de meerjarenbegroting en is in geld of in geld waardeerbaar;
+- b. bedraagt de cofinanciering door de partijen bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-05-20&g=2025-05-20), ten minste 25 procent en ten hoogste 50 procent van de meerjarenbegroting en is in geld of in geld waardeerbaar;
 
-- c. bedraagt de cofinanciering door de partijen bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-01-01&g=2025-01-01), en bedoeld in onderdeel a, ten hoogste 25 procent van de meerjarenbegroting en is in geld of in geld waardeerbaar; en
+- c. bedraagt de cofinanciering door de partijen bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-05-20&g=2025-05-20), en bedoeld in onderdeel a, ten hoogste 25 procent van de meerjarenbegroting en is in geld of in geld waardeerbaar; en
 
 - d. is de cofinanciering door de aanvragende onderwijsinstelling uitsluitend in geld en bedraagt deze ten hoogste 10 procent van de meerjarenbegroting.
 
@@ -158,7 +158,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
-- a. kosten voor afschrijving van nieuwbouw en verbouw die niet voldoen aan [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-01-01&g=2025-01-01), kosten van leegstand van gebouwen, dan wel loonverletkosten van personeel;
+- a. kosten voor afschrijving van nieuwbouw en verbouw die niet voldoen aan [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-05-20&g=2025-05-20), kosten van leegstand van gebouwen, dan wel loonverletkosten van personeel;
 
 - b. activiteiten die zijn gefinancierd vanuit de rijksbijdrage voor de betreffende instelling, bedoeld in [artikel 2.2.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.1);
 
@@ -204,9 +204,9 @@ Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
 2. De subsidie bedraagt ten hoogste één derde deel van de meerjarenbegroting.
 
-3. De cofinanciering door de partijen in het samenwerkingsverband, bedoeld in [artikel 10, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-01-01&g=2025-01-01), gezamenlijk, bedraagt ten minste één derde en ten hoogste twee derde deel van de meerjarenbegroting en is in geld of in geld waardeerbaar.
+3. De cofinanciering door de partijen in het samenwerkingsverband, bedoeld in [artikel 10, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-05-20&g=2025-05-20), gezamenlijk, bedraagt ten minste één derde en ten hoogste twee derde deel van de meerjarenbegroting en is in geld of in geld waardeerbaar.
 
-4. De cofinanciering door de partijen in het samenwerkingsverband, bedoeld in [artikel 10, tweede lid, onderdelen a en e tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-01-01&g=2025-01-01), bedraagt ten hoogste één derde deel van de meerjarenbegroting en is in geld of in geld waardeerbaar. De cofinanciering door de aanvragende onderwijsinstelling is uitsluitend in geld en bedraagt ten hoogste 10 procent van de meerjarenbegroting.
+4. De cofinanciering door de partijen in het samenwerkingsverband, bedoeld in [artikel 10, tweede lid, onderdelen a en e tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=10&z=2025-05-20&g=2025-05-20), bedraagt ten hoogste één derde deel van de meerjarenbegroting en is in geld of in geld waardeerbaar. De cofinanciering door de aanvragende onderwijsinstelling is uitsluitend in geld en bedraagt ten hoogste 10 procent van de meerjarenbegroting.
 
 5. In afwijking van het tweede lid bedraagt de subsidie ten hoogste de helft van de meerjarenbegroting voor zover het een subsidie betreft die betrekking heeft op een samenwerkingsverband in Caribisch Nederland.
 
@@ -222,13 +222,13 @@ Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
 De subsidieaanvraag wordt in ieder geval ingediend met:
 
-- a. een plan van aanpak als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-01-01&g=2025-01-01);
+- a. een plan van aanpak als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-05-20&g=2025-05-20);
 
-- b. een activiteitenplanning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01);
+- b. een activiteitenplanning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=14&z=2025-05-20&g=2025-05-20);
 
-- c. een meerjarenbegroting als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-01-01&g=2025-01-01);
+- c. een meerjarenbegroting als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-05-20&g=2025-05-20);
 
-- d. een samenwerkingsovereenkomst als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=16&z=2025-01-01&g=2025-01-01); en
+- d. een samenwerkingsovereenkomst als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=16&z=2025-05-20&g=2025-05-20); en
 
 - e. een publieksvriendelijke samenvatting van de aanvraag.
 
@@ -262,7 +262,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - k. een omschrijving dat de aanvraag aansluit bij het uitgangspunt van een doelmatig aanbod van beroepsopleidingen tussen onderwijsinstellingen; en
 
-- l. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), tevens een beschrijving van de wijze waarop wordt voortgebouwd op het project waarvan de subsidieperiode is afgerond.
+- l. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), tevens een beschrijving van de wijze waarop wordt voortgebouwd op het project waarvan de subsidieperiode is afgerond.
 
 ##### Artikel 14. Activiteitenplanning
 
@@ -276,7 +276,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - c. een duidelijke relatie met de meerjarenbegroting; en
 
-- d. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), tevens een beschrijving van de activiteiten die worden gerealiseerd, waardoor het project aan het einde van de subsidieperiode aanzienlijk zal zijn verbreed of verdiept.
+- d. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), tevens een beschrijving van de activiteiten die worden gerealiseerd, waardoor het project aan het einde van de subsidieperiode aanzienlijk zal zijn verbreed of verdiept.
 
 ##### Artikel 15. Meerjarenbegroting
 
@@ -286,11 +286,11 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - b. de hoogte van het subsidiebedrag dat wordt gevraagd;
 
-- c. een onderbouwing waaruit blijkt dat het subsidiebedrag ten hoogste één derde deel van de totale begroting bedraagt, of waaruit in geval van een project als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01) blijkt dat het subsidiebedrag ten hoogste de helft van de totale begroting bedraagt;
+- c. een onderbouwing waaruit blijkt dat het subsidiebedrag ten hoogste één derde deel van de totale begroting bedraagt, of waaruit in geval van een project als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=8&z=2025-05-20&g=2025-05-20) blijkt dat het subsidiebedrag ten hoogste de helft van de totale begroting bedraagt;
 
 - d. de omvang van de kosten voor projectmanagement; en
 
-- e. indien [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01), van toepassing is, een omschrijving van de ontwikkelkosten van het Associate-degreeprogramma.
+- e. indien [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=6&z=2025-05-20&g=2025-05-20), van toepassing is, een omschrijving van de ontwikkelkosten van het Associate-degreeprogramma.
 
 2. Naast de in het eerste lid genoemde gegevens, bevat de meerjarenbegroting voor de eerste helft van de subsidieperiode:
 
@@ -334,21 +334,21 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 3. Als tijdstip waarop de aanvraag is ontvangen, geldt het tijdstip waarop de aanvraag het systeem voor gegevensverwerking van de minister heeft bereikt.
 
-4. De minister kan op het aanvraagformulier een maximum aantal pagina’s vaststellen voor de documenten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=12&z=2025-01-01&g=2025-01-01).
+4. De minister kan op het aanvraagformulier een maximum aantal pagina’s vaststellen voor de documenten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=12&z=2025-05-20&g=2025-05-20).
 
 ##### Artikel 18. Beoordelingscommissie
 
-1. De minister stelt een onafhankelijke beoordelingscommissie in die is belast met het beoordelen van de aanvragen op basis van de beoordelingscriteria, bedoeld in [artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01).
+1. De minister stelt een onafhankelijke beoordelingscommissie in die is belast met het beoordelen van de aanvragen op basis van de beoordelingscriteria, bedoeld in [artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20).
 
 2. De beoordelingscommissie adviseert de minister over de ingediende subsidieaanvragen.
 
 ##### Artikel 19. Beoordeling subsidieaanvraag
 
-1. De beoordelingscommissie beoordeelt de aanvragen voor de publiek-private samenwerking die voldoen aan de voorwaarden, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&z=2025-01-01&g=2025-01-01).
+1. De beoordelingscommissie beoordeelt de aanvragen voor de publiek-private samenwerking die voldoen aan de voorwaarden, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&z=2025-05-20&g=2025-05-20).
 
 2. De beoordelingscommissie stelt de aanvrager in de gelegenheid de aanvraag mondeling toe te lichten.
 
-3. De beoordelingscommissie beoordeelt een subsidieaanvraag als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), aan de hand van de volgende criteria:
+3. De beoordelingscommissie beoordeelt een subsidieaanvraag als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), aan de hand van de volgende criteria:
 
 - a. verbetering aansluiting beroepsonderwijs op de arbeidsmarkt;
 
@@ -360,13 +360,13 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - e. financiering.
 
-4. De beoordelingscommissie beoordeelt een subsidieaanvraag als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), aan de hand van de volgende criteria:
+4. De beoordelingscommissie beoordeelt een subsidieaanvraag als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), aan de hand van de volgende criteria:
 
 - a. verbetering aansluiting beroepsonderwijs op de arbeidsmarkt;
 
 - b. verbreding of verdieping;
 
-- c. onderzoekend vermogen als bedoeld in [artikel 7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01);
+- c. onderzoekend vermogen als bedoeld in [artikel 7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20);
 
 - d. samenwerking en draagvlak;
 
@@ -376,7 +376,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - g. financiering.
 
-5. De criteria, bedoeld in het derde en vierde lid, zijn uitgewerkt in een beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+5. De criteria, bedoeld in het derde en vierde lid, zijn uitgewerkt in een beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&bijlage=1&z=2025-05-20&g=2025-05-20) bij deze regeling is gevoegd.
 
 6. Indien een aanvraag naar het oordeel van de beoordelingscommissie op één van de criteria, bedoeld in het derde lid of vierde lid, bijna voldoende scoort, kan de beoordelingscommissie, mits het subsidieplafond voor de betreffende aanvraagperiode nog niet is bereikt, de minister adviseren de aanvrager in de gelegenheid te stellen de aanvraag ten aanzien van dit criterium aan te vullen. De periode waarin de aanvrager in de gelegenheid wordt gesteld de aanvraag aan te vullen, bedraagt ten hoogste tien werkdagen. De beoordelingscommissie beoordeelt of de aanvraag, na de aanvulling, alsnog tot een voldoende oordeel leidt voor het betreffende criterium.
 
@@ -386,21 +386,21 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 ##### Artikel 20. Rangschikking aanvragen
 
-1. De beoordelingscommissie rangschikt de aanvragen per aanvraagperiode, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-01-01&g=2025-01-01), die voor elk van de criteria, bedoeld in [artikel 19, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01), voldoende zijn beoordeeld, zodanig dat zij een aanvraag hoger rangschikt naarmate deze de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01) genoemde doelstelling beter realiseert. Daartoe worden de criteria, bedoeld in artikel 19, derde of vierde lid, gehanteerd. De commissie hanteert een rangschikkingslijst voor elk van de categorieën aanvragen, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01).
+1. De beoordelingscommissie rangschikt de aanvragen per aanvraagperiode, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-05-20&g=2025-05-20), die voor elk van de criteria, bedoeld in [artikel 19, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), voldoende zijn beoordeeld, zodanig dat zij een aanvraag hoger rangschikt naarmate deze de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=1&artikel=3&z=2025-05-20&g=2025-05-20) genoemde doelstelling beter realiseert. Daartoe worden de criteria, bedoeld in artikel 19, derde of vierde lid, gehanteerd. De commissie hanteert een rangschikkingslijst voor elk van de categorieën aanvragen, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20).
 
-2. Indien een aanvraag na toepassing van [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01), alsnog voldoende wordt beoordeeld voor elk van de criteria, bedoeld in artikel 19, derde of vierde lid, wordt deze aanvraag als laagste opgenomen in de rangschikking, bedoeld in het eerste lid. Indien ten aanzien van meerdere aanvragen toepassing wordt gegeven aan artikel 19, zesde lid, worden deze aanvragen als laagste opgenomen in de betreffende rangschikkingslijst, waarbij de aanvraag met een hoger puntenaantal voor de criteria, bedoeld in artikel 19, derde of vierde lid, hoger wordt geplaatst.
+2. Indien een aanvraag na toepassing van [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), alsnog voldoende wordt beoordeeld voor elk van de criteria, bedoeld in artikel 19, derde of vierde lid, wordt deze aanvraag als laagste opgenomen in de rangschikking, bedoeld in het eerste lid. Indien ten aanzien van meerdere aanvragen toepassing wordt gegeven aan artikel 19, zesde lid, worden deze aanvragen als laagste opgenomen in de betreffende rangschikkingslijst, waarbij de aanvraag met een hoger puntenaantal voor de criteria, bedoeld in artikel 19, derde of vierde lid, hoger wordt geplaatst.
 
 ##### Artikel 21. Besluitvorming minister
 
-1. De minister besluit uiterlijk binnen zestien weken na de sluitingsdatum van de aanvraagperiode, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-01-01&g=2025-01-01), op de aanvragen. Indien toepassing wordt gegeven aan [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01), wordt de beslistermijn van de eerste volzin verlengd met ten hoogste vier weken.
+1. De minister besluit uiterlijk binnen zestien weken na de sluitingsdatum van de aanvraagperiode, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-05-20&g=2025-05-20), op de aanvragen. Indien toepassing wordt gegeven aan [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), wordt de beslistermijn van de eerste volzin verlengd met ten hoogste vier weken.
 
-2. Indien het subsidieplafond voor een aanvraagperiode wordt overschreden, wijst de minister op grond van de puntenaantallen op de rangschikkingslijsten, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=4&artikel=20&z=2025-01-01&g=2025-01-01), laatste volzin, een gelijk aantal van de aanvragen, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), toe. Indien na de verdeling, bedoeld in de vorige volzin, nog meer aanvragen kunnen worden toegewezen, wijst de minister de aanvragen met het relatief hoogste puntenaantal op de onderscheiden rangschikkingslijsten toe.
+2. Indien het subsidieplafond voor een aanvraagperiode wordt overschreden, wijst de minister op grond van de puntenaantallen op de rangschikkingslijsten, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=4&artikel=20&z=2025-05-20&g=2025-05-20), laatste volzin, een gelijk aantal van de aanvragen, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), toe. Indien na de verdeling, bedoeld in de vorige volzin, nog meer aanvragen kunnen worden toegewezen, wijst de minister de aanvragen met het relatief hoogste puntenaantal op de onderscheiden rangschikkingslijsten toe.
 
 3. Indien na toepassing van het tweede lid aanvragen op een gelijke positie worden gerangschikt en slechts één van de aanvragen kan worden gehonoreerd, beslist de minister op basis van loting.
 
 4. Indien de minister niet tijdig besluit, deelt hij de aanvrager mede binnen welke termijn de beslissing wel tegemoet kan worden gezien.
 
-5. Indien de minister een aanvraag afwijst, omdat deze niet voldoet aan [artikel 19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01), kan de aanvrager de aanvraag nog éénmaal in een later tijdvak indienen. De eerste volzin is niet van toepassing op aanvragen die in het laatste tijdvak worden ingediend.
+5. Indien de minister een aanvraag afwijst, omdat deze niet voldoet aan [artikel 19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), kan de aanvrager de aanvraag nog éénmaal in een later tijdvak indienen. De eerste volzin is niet van toepassing op aanvragen die in het laatste tijdvak worden ingediend.
 
 ##### Artikel 22. Weigeringsgronden
 
@@ -414,7 +414,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 1. De publiek-private samenwerking start zo spoedig mogelijk, maar uiterlijk binnen drie maanden na het besluit tot subsidieverlening met de uitvoering van de activiteiten.
 
-2. De niet op de persoon herleidbare publieksvriendelijke samenvatting, bedoeld in [artikel 12, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=12&z=2025-01-01&g=2025-01-01), wordt na verlening van de subsidie gepubliceerd op website van DUS-I.
+2. De niet op de persoon herleidbare publieksvriendelijke samenvatting, bedoeld in [artikel 12, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=12&z=2025-05-20&g=2025-05-20), wordt na verlening van de subsidie gepubliceerd op website van DUS-I.
 
 3. De subsidieontvanger deelt op verzoek de onderwijs gerelateerde uitkomsten van het project.
 
@@ -428,13 +428,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. De voortgangsrapportage bevat in ieder geval:
 
-- a. een beschrijving van de voortgang ten aanzien van het realiseren van de mijlpalen, bedoeld in [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01);
+- a. een beschrijving van de voortgang ten aanzien van het realiseren van de mijlpalen, bedoeld in [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=14&z=2025-05-20&g=2025-05-20);
 
 - b. een uitgewerkt overzicht van realiseerbare activiteiten voor de tweede helft van de projectperiode, bestaande uit fasering, mijlpalen en beoogde eindresultaten;
 
 - c. een concretisering van de wijze waarop de publiek-private samenwerking wordt voortgezet na afloop van de subsidieperiode;
 
-- d. een concretisering van de oorspronkelijk ingediende meerjarenbegroting voor de tweede helft van de subsidieperiode, met daarin een gedetailleerde beschrijving van de gegevens genoemd in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-01-01&g=2025-01-01), voor de tweede helft van de subsidieperiode teneinde de activiteiten als bedoeld in onderdeel b te kunnen realiseren; en
+- d. een concretisering van de oorspronkelijk ingediende meerjarenbegroting voor de tweede helft van de subsidieperiode, met daarin een gedetailleerde beschrijving van de gegevens genoemd in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=15&z=2025-05-20&g=2025-05-20), voor de tweede helft van de subsidieperiode teneinde de activiteiten als bedoeld in onderdeel b te kunnen realiseren; en
 
 - e. het verslag van de evaluatie, bedoeld in het vierde lid.
 
@@ -444,7 +444,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 6. De minister kan besluiten het bedrag van de subsidieverlening te verlagen dan wel de subsidieverlening te beëindigen. De minister besluit in voorkomend geval uiterlijk twaalf weken na ontvangst van de voortgangsrapportage.
 
-7. Indien de onderwijsinstelling de voortgangsrapportage niet uiterlijk op het indieningstijdstip, bedoeld in het tweede lid, indient, kan de subsidieverlening ten nadele van de onderwijsinstelling worden gewijzigd. Voorafgaand aan de wijziging van de subsidieverlening wordt de betaling van het in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=6&artikel=30&z=2025-01-01&g=2025-01-01), bedoelde voorschot geheel of gedeeltelijk opgeschort.
+7. Indien de onderwijsinstelling de voortgangsrapportage niet uiterlijk op het indieningstijdstip, bedoeld in het tweede lid, indient, kan de subsidieverlening ten nadele van de onderwijsinstelling worden gewijzigd. Voorafgaand aan de wijziging van de subsidieverlening wordt de betaling van het in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=6&artikel=30&z=2025-05-20&g=2025-05-20), bedoelde voorschot geheel of gedeeltelijk opgeschort.
 
 8. De beoordeling, bedoeld in het eerste lid, kan niet leiden tot verhoging van de subsidieverlening.
 
@@ -464,9 +464,9 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 7. De minister stelt de subsidie vast binnen 52 weken na ontvangst van het jaarverslag over het laatste jaar van besteding.
 
-8. Indien het totaal van de daadwerkelijk gerealiseerde cofinanciering voor een project als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), meer bedraagt dan twee derde deel van de meerjarenbegroting, wordt, indien in de eindrapportage wordt aangetoond dat het project succesvol is afgerond, de hoogte van het subsidiebedrag, voor zover dit bedrag is besteed aan de doelstellingen van het project, omschreven in het plan van aanpak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-01-01&g=2025-01-01), vastgesteld op een derde deel van de meerjarenbegroting. De vaststelling kan niet leiden tot verhoging van de subsidieverlening.
+8. Indien het totaal van de daadwerkelijk gerealiseerde cofinanciering voor een project als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), meer bedraagt dan twee derde deel van de meerjarenbegroting, wordt, indien in de eindrapportage wordt aangetoond dat het project succesvol is afgerond, de hoogte van het subsidiebedrag, voor zover dit bedrag is besteed aan de doelstellingen van het project, omschreven in het plan van aanpak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-05-20&g=2025-05-20), vastgesteld op een derde deel van de meerjarenbegroting. De vaststelling kan niet leiden tot verhoging van de subsidieverlening.
 
-9. Indien het totaal van de daadwerkelijk gerealiseerde cofinanciering voor een project als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), meer bedraagt dan 50 procent van de meerjarenbegroting, wordt, indien in de eindrapportage wordt aangetoond dat het project succesvol is afgerond, de hoogte van het subsidiebedrag, voor zover dit bedrag is besteed aan de doelstellingen van het project, omschreven in het plan van aanpak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-01-01&g=2025-01-01), vastgesteld op 50 procent van de meerjarenbegroting.
+9. Indien het totaal van de daadwerkelijk gerealiseerde cofinanciering voor een project als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=8&z=2025-05-20&g=2025-05-20), meer bedraagt dan 50 procent van de meerjarenbegroting, wordt, indien in de eindrapportage wordt aangetoond dat het project succesvol is afgerond, de hoogte van het subsidiebedrag, voor zover dit bedrag is besteed aan de doelstellingen van het project, omschreven in het plan van aanpak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-05-20&g=2025-05-20), vastgesteld op 50 procent van de meerjarenbegroting.
 
 ##### Artikel 26. Wijze van melding
 
@@ -500,7 +500,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 Deze regeling wordt aangehaald als: Regeling regionaal investeringsfonds mbo 2024–2027.
 
-## Bijlage 1. Behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-01-01&g=2025-01-01) van de Regeling regionaal investeringsfonds mbo 2024 -2027
+## Bijlage 1. Behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20) van de Regeling regionaal investeringsfonds mbo 2024 -2027
 
 ### Beoordelingskader voor starters
 
