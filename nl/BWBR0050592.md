@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-05-21"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -108,6 +108,7 @@ Besluiten:
 |   |   |   | Programmalijn 2: Waterstof en groene chemie | Programmalijn 2: Waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 10.000.000 |
 |   | [4.2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.121) | Horizon Europe Partnership (HEP) | 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy technologies for power production 5. Hydrogen and renewable fuels, for advanced fuels from sustainable biomass only 6. Heating and cooling technologies 7. Geothermal energy technologies 10. Clean energy integration in the built environment | 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy technologies for power production 5. Hydrogen and renewable fuels, for advanced fuels from sustainable biomass only 6. Heating and cooling technologies 7. Geothermal energy technologies 10. Clean energy integration in the built environment | 03-03-2025 t/m 02-04-2025 | € 5.000.000 |
 |   |   |   | 4. Carbon capture, utilisation, and storage (CCUS) | 4. Carbon capture, utilisation, and storage (CCUS) | 03-03-2025 t/m 02-04-2025 | € 2.000.000 |
+|   | [4.2.130](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.130) | TSH Vliegtuigmaakindustrie |   |   | 26-05-2025 t/m 12-09-2025 | € 11.000.000 |
 | [Titel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5): Investeringssubsidie duurzame energie en energiebesparing (ISDE) | [4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken. |   |   | 01-01-2025 t/m 31-12-2025 | € 550.000.000 |
 |   | [4.5.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in installaties voor de productie van hernieuwbare elektriciteit met één of meer windturbines |   |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
 | [Titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.6): Versnelde klimaatinvesteringen in de industrie | [4.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.6.2) |   |   |   | 22-04-2024 t/m 31-01-2025 | € 130.000.000 |
