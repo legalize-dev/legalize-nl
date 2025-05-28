@@ -4,7 +4,7 @@ identifier: "BWBR0048571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-28"
-last_updated: "2024-10-10"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048571"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ Deze beschikbare bedragen zijn inclusief omzetbelasting.
 
 7. Ontvangers ondertekenen voorafgaand aan de verlening van de specifieke uitkering vanaf 2024 de Samenwerkingsovereenkomst Regionale Aanpak Laadinfrastructuur 2 samen met of namens de andere overheden van de samenwerkingsregio.
 
-8. De activiteiten waarvoor de specifieke uitkering wordt verleend voor de jaren 2023, 2024 en 2025, zijn uitgevoerd voor 31 december 2025.
+8. De activiteiten waarvoor de specifieke uitkering wordt verleend voor de jaren 2023, 2024 en 2025, zijn uitgevoerd voor 31 december 2027.
 
 9. De activiteiten waarvoor de specifieke uitkering wordt verleend voor de jaren 2026 tot en met 2030, zijn uitgevoerd voor 31 december 2030.
 
@@ -126,7 +126,7 @@ De ontvangers en de andere decentrale overheden van een samenwerkingsregio legge
 
 ##### Artikel 8. Vaststelling
 
-De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2024-10-10&g=2024-10-10), heeft plaatsgevonden.
+De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2025-05-28&g=2025-05-28), heeft plaatsgevonden.
 
 ##### Artikel 9. Evaluatieverslag
 
@@ -175,9 +175,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. het bankrekeningnummer waarop de specifieke uitkering dient te worden gestort.
 
-## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2024-10-10&g=2024-10-10)
+## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2025-05-28&g=2025-05-28)
 
-Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2024-10-10&g=2024-10-10)
+Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2025-05-28&g=2025-05-28)
 
 | Ontvanger | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
