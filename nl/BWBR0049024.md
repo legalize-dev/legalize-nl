@@ -4,7 +4,7 @@ identifier: "BWBR0049024"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-29"
-last_updated: "2023-12-08"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049024"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie;
 
-- **uitvoeringsinstantie:** uitvoeringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=6&z=2023-12-08&g=2023-12-08).
+- **uitvoeringsinstantie:** uitvoeringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=6&z=2025-05-29&g=2025-05-29).
 
 ##### Artikel 2. Doel en toepassingsbereik van de subsidie
 
@@ -86,25 +86,33 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 ##### Artikel 4. Subsidieplafond, hoogte van de subsidie en subsidiabele kosten
 
-1. Voor de periode tot en met 31 december 2025 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), ten hoogste € 15.100.000,– beschikbaar.
+1. Voor de periode tot en met 31 december 2026 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), ten hoogste € 15.100.000,– beschikbaar.
 
-2. Een aanvraag voor een subsidie kan worden ingediend in de volgende perioden:
+2. Voor de periode tot en met 31 december 2025 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), ten hoogste € 7.397.000,– beschikbaar.
 
-- a. met ingang van de inwerkingtreding van deze regeling, 9.00 uur tot en met 28 februari 2024, 12.00 uur;
+3. Voor de periode van 1 januari 2026 tot en met 31 december 2026 is € 3.698.000,– beschikbaar.
 
-- b. in 2024 van 1 mei 2024, 9.00 uur tot en met 30 juni 2024, 12.00 uur;
+4. Een aanvraag voor een subsidie kan worden ingediend in de volgende perioden:
 
-- c. in 2024 van 1 september 2024, 9.00 uur tot en met 15 oktober 2024, 12.00 uur.
+- a. met ingang van de inwerkingtreding van deze regeling, 9.00 uur tot en met 31 juli 2025, 12.00 uur;
 
-3. Een subsidie ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, wordt verleend onder de voorwaarde dat voldoende middelen op de begroting beschikbaar zullen worden gesteld.
+- b. van 1 september 2025, 9.00 uur tot en met 15 oktober 2025, 12.00 uur;
 
-4. De subsidieverlening wordt gerechtvaardigd op grond van artikel 25, eerste lid, en artikel 36 ter, eerste lid, van de AGVV.
+- c. van 15 januari 2026, 9.00 uur tot en met 15 maart 2026, 12.00 uur.
 
-5. De subsidie voor de activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), bedraagt ten hoogste 40% van de in aanmerking komende kosten tot een maximum van € 400.000,– per vaartuig.
+5. Een subsidie ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, wordt verleend onder de voorwaarde dat voldoende middelen op de begroting beschikbaar zullen worden gesteld.
 
-6. De aanvullende subsidie voor een industrieel onderzoeksproject bedraagt ten hoogste € 75.000,– per aanvraag.
+6. De subsidieverlening wordt gerechtvaardigd op grond van artikel 25, eerste lid, en artikel 36 ter, eerste lid, van de AGVV.
 
-7. Voor een industrieel onderzoeksproject komt 50% van de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten voor industriële onderzoeksprojecten voor subsidie in aanmerking:
+7. De subsidie voor de activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bedraagt ten hoogste 40% van de in aanmerking komende kosten tot een maximum van:
+
+- a. € 550.000,– per nieuw te bouwen vaartuig of als het vaartuig vóór de uitvoering van het project was uitgerust met een diesel elektrische aandrijving of volledig elektrische aandrijving; of
+
+- b. € 750.000,– per vaartuig als het vaartuig vóór de uitvoering van het project enkel was uitgerust met een conventionele aandrijving met verbrandingsmotoren.
+
+8. De aanvullende subsidie voor een industrieel onderzoeksproject als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bedraagt ten hoogste € 75.000,– per aanvraag.
+
+9. Voor een industrieel onderzoeksproject komt 50% van de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten voor industriële onderzoeksprojecten voor subsidie in aanmerking:
 
 - a. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon: loon in geld, volgens de verzamelloonstaat, ingevolge [artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=7.2), te delen door 1.650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten.
 
@@ -120,11 +128,11 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 - g. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten.
 
-8. De steunintensiteit van een onderzoek als bedoeld in het zesde lid kan met 10 procentpunten worden verhoogd voor subsidie aan middelgrote ondernemingen en met 20 procentpunten voor subsidie aan kleine ondernemingen.
+10. De steunintensiteit van een onderzoek als bedoeld in het zesde lid kan met 10 procentpunten worden verhoogd voor subsidie aan middelgrote ondernemingen en met 20 procentpunten voor subsidie aan kleine ondernemingen.
 
 ##### Artikel 5. Verdelingsregime
 
-1. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria:
+1. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria:
 
 - a. emissievrij;
 
@@ -134,7 +142,7 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 - d. plan en onderbouwing.
 
-2. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria, waarbij gebruik wordt gemaakt van de volgende, op het eerste lid, aanvullende criteria:
+2. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria, waarbij gebruik wordt gemaakt van de volgende, op het eerste lid, aanvullende criteria:
 
 - a. schaalbaarheid;
 
@@ -186,13 +194,13 @@ Onverminderd de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ##### Artikel 9. Verplichtingen van de subsidie-ontvanger
 
-1. De subsidie-ontvanger rondt de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), binnen 18 maanden na de subsidieverlening af.
+1. De subsidie-ontvanger rondt de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), binnen 18 maanden na de subsidieverlening af.
 
-2. Binnen twee weken na afronding van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), vraagt de subsidie-ontvanger voor het binnenschip waarop de subsidie betrekking heeft een emissielabel aan bij de Stichting Afvalstoffen en Vaardocumenten Binnenvaart.
+2. De subsidieontvanger vraagt, binnen twee weken nadat het binnenschip een volledig kalenderjaar binnen het NGF-project heeft gevaren, een emissielabel aan bij de Stichting Afvalstoffen en Vaardocumenten Binnenvaart.
 
-3. Het label voor het binnenschip is bij eerste uitreiking minimaal B1. Uiterlijk met ingang van 1 juli 2026 is het label A0.
+3. Het label voor het binnenschip is bij eerste uitreiking minimaal B2 voor binnenschepen die aan de Stage V emissienormen voldoen en minimaal B3 voor schepen die niet aan de Stage V emissienormen voldoen.
 
-4. De subsidie-ontvanger toont gedurende 24 maanden na afronding van een activiteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2023-12-08&g=2023-12-08), bij een steekproefsgewijze controle aan dat het binnenschip functioneert binnen de kaders van het NGF-project.
+4. De subsidie-ontvanger toont gedurende 24 maanden na afronding van een activiteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bij een steekproefsgewijze controle aan dat het binnenschip functioneert binnen de kaders van het NGF-project.
 
 5. Indien blijkt dat de subsidie-ontvanger niet voldaan heeft aan de in dit artikel opgenomen verplichtingen, kan de subsidie teruggevorderd worden.
 
