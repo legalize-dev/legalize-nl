@@ -4,7 +4,7 @@ identifier: "BWBR0043289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-31"
-last_updated: "2023-10-07"
+last_updated: "2025-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043289"
 soort: "ministeriele-regeling"
@@ -46,13 +46,15 @@ BESLUIT:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- −. **aan de inspecteur-generaal gemandateerde bevoegdheden:** aan de inspecteur-generaal krachtens [artikel 21, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=21) gemandateerde bevoegdheden;
+- –. **aan de inspecteur-generaal gemandateerde bevoegdheden:** aan de inspecteur-generaal krachtens [artikel 27, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=27) gemandateerde bevoegdheden;
 
-- −. **directeuren:** de directeur Informatiepositie en programmamanagement, de directeur Omgeving en dienstverlening, de directeur Toezicht en opsporing, de directeur Publieke instituties en control en de directeur Autoriteit woningcorporaties;
+- –. **directeuren:** de directeur Informatiepositie en programmeren, de directeur Omgeving en dienstverlening en vergunningen, de directeur Toezicht en opsporing tevens coördinerend directeur ILT-Luchtvaartautoriteit, de directeur Publieke instituties en control en de directeur Autoriteit woningcorporatie, zijnde dienstonderdeelhoofden als bedoeld in [artikel 1 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=1);
 
 - −. **IG-team:** de inspecteur-generaal en de directeuren;
 
-- −. **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 1, tweede lid, van het Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032&artikel=1);
+- –. **ILT-Luchtvaartautoriteit:** alle onderdelen van de portefeuilles, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2025-05-31&g=2025-05-31), die belast zijn met de taken bedoeld in [artikel 22, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22), voorzover het luchtvaart betreft, [en vijfde lid, onderdeel c, van het Organisatie en Mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22) onder de coördinatie van de coördinerende directeur ILT-Luchtvaartautoriteit;
+
+- –. **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 22, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22);
 
 - −. **inspecteur ILT:** strategisch inspecteur, coördinerend/specialistisch inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de Inspectie Leefomgeving en Transport;
 
@@ -130,13 +132,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - a. volmacht tot het verrichten van privaatrechtelijke rechtshandelingen, en
 
-- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2023-10-07&g=2023-10-07), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2025-05-31&g=2025-05-31), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 9. Mandaat en volmacht financiële verplichtingen
 
 1. Mandaat en volmacht tot het aangaan van financiële verplichtingen wordt, voor zover het behoort bij hun taken, verleend aan de directeuren, de afdelingshoofden, de programmamanagers en de teamleiders.
 
-2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2023-10-07&g=2023-10-07) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
+2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2025-05-31&g=2025-05-31) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
 
 3. De uitoefening van bevoegdheden die in dit artikel zijn verleend, geschiedt met inachtneming van:
 
@@ -162,7 +164,7 @@ INSPECTIE LEEFOMGEVING EN TRANSPORT
 
 MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT.
 
-2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2023-10-07&g=2023-10-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2023-10-07&g=2023-10-07) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2023-10-07&g=2023-10-07), luidt de ondertekening:
+2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2025-05-31&g=2025-05-31), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2025-05-31&g=2025-05-31) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2025-05-31&g=2025-05-31), luidt de ondertekening:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
@@ -170,7 +172,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2023-10-07&g=2023-10-07) luidt de ondertekening als volgt:
+3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2025-05-31&g=2025-05-31) luidt de ondertekening als volgt:
 
 DE INSPECTEUR-GENERAAL LEEFOMGEVING EN TRANSPORT,
 
@@ -178,7 +180,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2023-10-07&g=2023-10-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2023-10-07&g=2023-10-07) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2023-10-07&g=2023-10-07), luidt de ondertekening:
+4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2025-05-31&g=2025-05-31), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2025-05-31&g=2025-05-31) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2025-05-31&g=2025-05-31), luidt de ondertekening:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -188,7 +190,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gevolmachtigde functionaris.
 
-5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2023-10-07&g=2023-10-07) luidt de ondertekening als volgt:
+5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2025-05-31&g=2025-05-31) luidt de ondertekening als volgt:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -204,6 +206,8 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 7. In geval van plaatsvervanging overeenkomstig dit besluit bevat de ondertekening zowel een aanduiding van de plaatsvervanger als de functionaris die bij afwezigheid of verhindering wordt vervangen.
 
+8. Indien de ondertekening, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op de uitoefening van de taken van de ILT-Luchtvaartautoriteit, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=1&artikel=1&z=2025-05-31&g=2025-05-31), wordt aan de ondertekening toegevoegd ‘ILT-Luchtvaartautoriteit’.
+
 #### Paragraaf 5. Slotbepalingen
 
 ##### Artikel 12. Intrekking oud besluit
@@ -218,25 +222,19 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020.
 
-## Bijlage
-
-Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2023-10-07&g=2023-10-07), van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2025-05-31&g=2025-05-31) van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
 
 **Inspecteur-generaal**
 
-- –. Afdeling Bureau IG-team
+- •. Afdeling Bureau IG-team
 
-**Informatie, netwerken en programmering**
+**Informatie en programmeren**
 
-- –. Afdeling Strategische producten en kennis
+- •. Afdeling Strategische producten en kennis
 
-- –. Afdeling Programmaontwikkeling en -advies
+- •. Afdeling Doorontwikkeling en Effect
 
-- –. Afdeling Netwerken leefomgeving en wonen
-
-- –. Afdeling Netwerken transport
-
-- –. Afdeling Informatie
+- •. Afdeling Data en Analyse
 
 - •. Team Analyse 1
 
@@ -248,13 +246,13 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Data
 
-- –. Afdeling Analyse 1
+- •. Afdeling Analyse 1
 
-- –. Afdeling Analyse 2
+- •. Afdeling Analyse 2
 
-- –. Afdeling Innovatie- en data lab
+- •. Afdeling Innovatie- en data lab
 
-- –. Afdeling ICT
+- •. Afdeling ICT
 
 - •. Team IV strategie en sturing
 
@@ -268,53 +266,59 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. CIO-office
 
-**Communicatie, dienstverlening en vergunningen**
+**Omgeving, Dienstverlening en Vergunningen**
 
-- –. Afdeling Communicatie en Dienstverlening
+- •. Afdeling Communicatie en Dienstverlening
 
-- •. Team Communicatieadvies en woordvoering
+- •. Team Communicatie en Advies
 
 - •. Team Redactie en support
 
-- •. Team ILT-loket Administratieve Dienstverlening
+- •. ILT-loket Leefomgeving en Rail
 
 - •. Team ILT-loket Eerstelijns Dienstverlening
 
 - •. Team ILT-loket Tweedelijns Dienstverlening
 
-- •. Team ILT-loket Ondersteunende Dienstverlening
+- •. ILT-loket Luchtvaart
 
-- •. Team ILT-loket Tijdelijke Dienstverlening
+- •. ILT-loket Marieteam
 
-- –. Afdeling Vergunningverlening rail en luchtvaart
+- •. Afdeling Bestuursadvies en Internationale Samenwerking (Transport)
 
-- •. Team Luchthavens en Luchtruim
+- •. Afdeling Bestuursadvies en Internationale Samenwerking (Leefomgeving)
 
-- •. Team Luchtvaart Techniek en Luchtvaartuigregisters
+- •. Afdeling Netwerken Leefomgeving en Wonen
+
+- •. Team Verbindingsbureau
+
+- •. Afdeling Vergunningverlening Rail en Luchtvaart
 
 - •. Team Rail Bedrijven
 
-- •. Team Luchtvaart Operaties
+- •. Team Luchtvaart Operaties en Vliegscholen
 
 - •. Team Rail Infra en Spoorvoertuigen
 
-- –. Afdeling Vergunningverlening leefomgeving en scheepvaart
+- •. Afdeling Vergunningverlening Leefomgeving en Maritiem
 
-- •. Team Leefomgeving afvalstoffen 1
+- •. Team Leefomgeving Afvalstoffen 1
 
-- •. Team Leefomgeving afvalstoffen 2
+- •. Team Leefomgeving Afvalstoffen 2
 
-- •. Team Leefomgeving bedrijven, infra en stoffen
+- •. Team Leefomgeving Bedrijven, Infra en Stoffen
 
-- •. Team Certificering binnenvaart en koopvaardij
+- •. Team Certificering Binnenvaart en Scheepsmetingen
 
-- •. Team Visserij en scheepsmetingen
+- •. Team Visserij en Erkenningen
 
-**Toezicht en opsporing**
+- •. Team Certificering Koopvaardij en Bemanningszaken
 
-- –. Afdeling Cybersecurity
+**Toezicht en Opsporing**
 
-- –. Afdeling Inlichtingen- en Opsporingsdienst ILT
+- •. Afdeling Cybersecurity
+
+- •. Afdeling Inlichtingen- en Opsporingsdienst ILT
 
 - •. Team Opsporing 1
 
@@ -324,7 +328,7 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Expertise
 
-- •. Team Criminele inlichtingen
+- •. Team Criminele Inlichtingen
 
 - •. Team Opsporing 4
 
@@ -332,15 +336,15 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Informatie, Data en Analyse
 
-- –. Afdeling Programmamanagement
+- •. Afdeling Programmamanagement
 
 - •. Team Ondersteuning Toezicht en Programma’s
 
 - •. Team Projectmanagement
 
-- •. Team Onderzoek Programma’s en Toezicht
+- •. Team Onderzoek Toezicht
 
-- –. Afdeling Toezicht keten gevaarlijke stoffen en organismen
+- •. Afdeling Toezicht Risicovolle Stoffen
 
 - •. Team Biologische risico’s
 
@@ -356,7 +360,7 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Meet- en Monstername en Toezichtinnovatie
 
-- –. Afdeling Toezicht marktordening
+- •. Afdeling Toezicht Marktordening
 
 - •. Team Digitale- en bedrijfsinspecties 1
 
@@ -372,9 +376,13 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Producttoezicht 3
 
+- •. Team Producttoezicht 4
+
 - •. Team Specialistische handhaving
 
-- –. Afdeling Toezicht milieu
+- •. Team Wegvervoer
+
+- •. Afdeling Toezicht Milieu
 
 - •. Team Afval circulaire economie 1
 
@@ -388,35 +396,41 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Geluid en Luchtkwaliteit Transport
 
-- –. Afdeling Toezicht veilige mobiliteit
+- •. Afdeling Toezicht Rail en Maritiem
 
-- •. Team Luchthavens
+- •. Team Ongevallenonderzoek Scheepvaart en Administratieve controles
 
-- •. Team Vliegtuigbemanningen en vluchtuitvoering
+- •. Team Maritiem Nationaal
 
-- •. Team Luchtvaart specifiek
+- •. Team Maritiem Internationaal Havenstaat
 
-- •. Team Luchtvaart techniek 1
+- •. Team Maritiem Internationaal Ongevallen Onderzoek
 
-- •. Team Luchtvaart techniek 2
-
-- •. Team Ongevallenonderzoek scheepvaart en administratieve controles
-
-- •. Team Maritiem nationaal
-
-- •. Team Maritiem internationaal 1
-
-- •. Team Maritiem internationaal 2
+- •. Team Internationaal Vlaggenstaat
 
 - •. Team Rail 1
 
 - •. Team Rail 2
 
+- •. Afdeling Toezicht Luchtvaart
+
+- •. Bureau Luchtvaartautoriteit
+
+- •. Team Luchthavens
+
+- •. Team Vliegtuigbemanning en Vluchtuitvoering
+
+- •. Team Luchtvaart Specifiek
+
+- •. Team Luchtvaart Techniek 1
+
+- •. Team Luchtvaart Techniek 2
+
 - •. Team Luchtruim
 
 **Publieke instituties en control**
 
-- –. Afdeling Toezicht publieke instellingen
+- •. Afdeling Toezicht Publieke Instellingen
 
 - •. Team Bedrijven
 
@@ -428,9 +442,7 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Besturingstoezicht
 
-- –. Afdeling Juridische zaken
-
-- •. Team Bestuurlijk juridische zaken
+- •. Afdeling Juridische zaken
 
 - •. Team Juridische advisering duurzaamheid en wonen
 
@@ -442,34 +454,34 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - •. Team Open Overheid en Privacy
 
-- –. Afdeling Control en advies
+- •. Afdeling Control en Advies
 
-- •. Team Processen en ketens
+- •. Team Processen en Ketens
 
-- •. Team Managmentcyclus en control
+- •. Team Managementcyclus en Control
 
-- –. Afdeling Services en ondersteuning
+- •. Afdeling Mens, Organisatie en Serviceverlening
 
-- •. Team Servicedesk
+- •. Team Ondersteuning en Serviceverlening
 
-- •. Team Human Resources Management
+- •. Team Mens en Organisatie
 
 - •. Team Arbo
 
 - •. Team Planning
 
-- –. Afdeling Compliance en Quality
+- •. Afdeling Compliance Monitoring en Interne Auditing
 
-**Autoriteit woningcorporaties**
+**Autoriteit Woningcorporaties**
 
-- –. Afdeling Informatie en programmering
+- •. Afdeling AW – Informatie en programmering
 
-- –. Afdeling Toezicht
+- •. Afdeling Toezicht
 
 - •. Team Toezicht 1
 
 - •. Team Toezicht 2
 
-- –. Afdeling Vergunningverlening
+- •. Afdeling AW – Vergunningverlening
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
