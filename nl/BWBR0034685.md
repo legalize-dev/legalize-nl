@@ -4,7 +4,7 @@ identifier: "BWBR0034685"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-31"
-last_updated: "2014-01-16"
+last_updated: "2025-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034685"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ Besluit:
 
 ##### Artikel 1
 
-De leden van de Commissie toezicht financiën politieke partijen, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vergoeding per vergadering. De vergoeding bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met dien verstande dat aan de voorzitter een vergoeding wordt toegekend van 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie wordt toegekend.
+De leden van de Commissie toezicht financiën politieke partijen, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vergoeding per vergadering overeenkomstig [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
 ##### Artikel 2
 
