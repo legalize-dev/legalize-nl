@@ -4,7 +4,7 @@ identifier: "BWBR0016060"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2025-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016060"
 soort: "AMvB"
@@ -78,41 +78,45 @@ Krachtens [artikel 33, derde lid, van de Wet op het Centraal bureau voor de stat
 
 - c. de industrie;
 
-- d. de productie, levering, handel en opslag van elektriciteit, gas, warmte en water alsmede het netbeheer ten aanzien van de daarbij gebruikte netwerken;
+- d. de productie en distributie van elektriciteit, gas, stoom en gekoelde lucht;
 
-- e. het afval- en afvalwaterbeheer en sanering;
+- e. de winning en distributie van water, het afval- en afvalwaterbeheer en sanering;
 
 - f. de bouwnijverheid;
 
-- g. de groot- en detailhandel en reparatie van auto’s;
+- g. de groot- en detailhandel;
 
 - h. vervoer en opslag;
 
-- i. de horeca;
+- i. logies-, maaltijd- en drankverstrekking;
 
-- j. informatie en communicatie;
+- j. uitgeverijen, omroepen en productie en distributie van content;
 
-- k. de financiële dienstverlening;
+- k. telecommunicatie, computerprogrammering, consultancy, informatica-infrastructuur en andere informatiediensten;
 
-- l. verhuur van en handel in onroerende zaken en verhuur van roerende zaken;
+- l. de financiële dienstverlening en verzekeringen;
 
-- m. de advisering, het onderzoek en de overige specialistische zakelijke dienstverlening;
+- m. de exploitatie van en handel in onroerende goederen;
 
-- n. het openbaar bestuur en de verplichte sociale verzekeringen;
+- n. specialistische professionele dienstverlening, wetenschappelijke en technische activiteiten;
 
-- o. het onderwijs;
+- o. verhuur van roerende zaken en overige zakelijke dienstverlening;
 
-- p. de gezondheids- en welzijnszorg en de maatschappelijke dienstverlening;
+- p. het openbaar bestuur, overheidsdiensten en de verplichte sociale verzekeringen;
 
-- q. de cultuur, de sport en de recreatie;
+- q. het onderwijs;
 
-- r. overige dienstverlening.
+- r. de gezondheids- en welzijnszorg en de maatschappelijke dienstverlening;
+
+- s. de kunst en cultuur, de sport en de recreatie;
+
+- t. overige dienstverlening.
 
 #### § 3. Aanwijzing algemene gegevens
 
 ##### Artikel 3
 
-Bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen kunnen worden opgevraagd gegevens betreffende:
+Bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen kunnen worden opgevraagd gegevens betreffende:
 
 - a. de rechtsvorm;
 
@@ -156,7 +160,7 @@ Bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=
 
 ##### Artikel 4
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de winning van delfstoffen en de industrie, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de winning van delfstoffen en de industrie, gegevens worden opgevraagd betreffende:
 
 - a. het verbruik van grond- en hulpstoffen;
 
@@ -174,23 +178,33 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 5
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de productie, levering, handel en opslag van elektriciteit, gas, warmte en water alsmede het netbeheer ten aanzien van de daarbij gebruikte netwerken, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van energie, waaronder het netbeheer ten aanzien van de daarbij gebruikte netwerken, gegevens worden opgevraagd die nodig zijn ter uitvoering van bindende EU-rechtshandelingen inzake statistieken op het terrein van energie betreffende:
 
-- a. de aan afnemers geleverde en teruggeleverde hoeveelheid elektriciteit, gas, warmte of water per aansluiting, de kenmerken per aansluiting en de vergoeding daarvoor;
+- a. de behandeling of het gebruik van energieproducten, met name productie, handel, voorraden, omzetting of verbruik, of de structurele kenmerken van het energiesysteem, bedoeld in artikel 2, onderdelen d en e, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304), per energieproduct per afnemer dan wel per energiesysteem;
 
-- b. de aan afnemers, vergunninghouders, leveringsbedrijven en handelaren getransporteerde hoeveelheid elektriciteit, gas, warmte of water per aansluiting en de kenmerken per aansluiting.
+- b. de aan afnemers, vergunninghouders, leveringsbedrijven en handelaren geleverde en door hen teruggeleverde hoeveelheid energieproducten per aansluiting dan wel per afnemer, en de kenmerken per aansluiting dan wel per afnemer;
+
+- c. de kenmerken van het bedrijf en de specificaties van het energiesysteem per afnemer.
 
 ##### Artikel 6
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die installaties leveren voor de productie en distributie van elektriciteit, gas, warmte en water, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen:
 
-- a. de kenmerken van het bedrijf per afnemer;
+- a. die activiteiten ontplooien op het terrein van de productie, levering, handel en opslag van water alsmede het netbeheer ten aanzien van de daarbij gebruikte netwerken, gegevens worden opgevraagd betreffende:
 
-- b. de specificaties van de installaties per afnemer.
+- 1°. de aan afnemers geleverde en teruggeleverde hoeveelheid water per aansluiting, de kenmerken per aansluiting en de vergoeding daarvoor;
+
+- 2°. de aan afnemers, vergunninghouders, leveringsbedrijven en handelaren getransporteerde hoeveelheid water per aansluiting en de kenmerken per aansluiting;
+
+- b. die installaties leveren voor de productie en distributie van water, gegevens worden opgevraagd betreffende:
+
+- 1°. de kenmerken van het bedrijf per afnemer;
+
+- 2°. de specificaties van de installaties per afnemer.
 
 ##### Artikel 7
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de bouwnijverheid, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de bouwnijverheid, gegevens worden opgevraagd betreffende:
 
 - a. de bouw- en materiaalkosten;
 
@@ -200,11 +214,11 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 8
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de horeca en van cultuur, sport en recreatie, gegevens worden opgevraagd betreffende de aard en de omvang van de voorzieningen en de aangeboden diensten alsmede het gebruik en de gebruikers daarvan.
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de horeca en van cultuur, sport en recreatie, gegevens worden opgevraagd betreffende de aard en de omvang van de voorzieningen en de aangeboden diensten alsmede het gebruik en de gebruikers daarvan.
 
 ##### Artikel 9
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van vervoer en opslag, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van vervoer en opslag, gegevens worden opgevraagd betreffende:
 
 - a. het vervoersmaterieel en, voor zover het betreft vervoersmaterieel van leasemaatschappijen, de gebruikers van dat materieel;
 
@@ -212,7 +226,7 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 10
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de financiële dienstverlening, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de financiële dienstverlening, gegevens worden opgevraagd betreffende:
 
 - a. het verstrekte en uitstaande consumptief krediet;
 
@@ -224,7 +238,7 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 11
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de gezondheids- en welzijnszorg en de maatschappelijke dienstverlening, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van de gezondheids- en welzijnszorg en de maatschappelijke dienstverlening, gegevens worden opgevraagd betreffende:
 
 - a. de aard en de omvang van de voorzieningen en de aangeboden diensten alsmede het gebruik daarvan;
 
@@ -264,11 +278,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van aardolie en aardolieproducten, gegevens worden opgevraagd betreffende de aan afnemers geleverde hoeveelheid aardolie en aardolieproducten per afnemer, de kenmerken per afnemer en de vergoeding daarvoor.
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van het energieverbruik, gegevens worden opgevraagd betreffende:
+
+- a. de prijzen van aardgas en elektriciteit, waaronder netwerkkosten, belastingen, vergoedingen, heffingen of kosten, en de verbruiksvolumes van aardgas en elektriciteit, bedoeld in artikel 3 van [Verordening (EU) nr. 2016/1952](32016R1952) van het Europees Parlement en de Raad van 26 oktober 2016 betreffende Europese statistieken over de prijzen van aardgas en elektriciteit en houdende intrekking van [Richtlijn 2008/92/EG](32008L0092) (PbEU 2016, L 311) per afnemer;
+
+- b. energiebelastingen als bedoeld in bijlage II, deel 3, van [Verordening (EU) nr. 691/2011](32011R0691) van het Europees Parlement en de Raad van 6 juli 2011 inzake Europese milieu-economische rekeningen (PbEU 2011, L 192) die producenten en verbruikers, met name huishoudens en niet-ingezetenen, van energie betalen.
 
 ##### Artikel 11a
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van zorgverzekeringen, gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van zorgverzekeringen, gegevens worden opgevraagd betreffende:
 
 - a. premies en eigen risico per zorggebruiker;
 
@@ -276,7 +294,7 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 11b
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) of arbodiensten als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), gegevens worden opgevraagd betreffende:
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) of arbodiensten als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), gegevens worden opgevraagd betreffende:
 
 - a. het verzuim per werknemer, waaronder worden begrepen de periodes van verzuim en de oorzaken daarvan, zoals die kunnen blijken uit diagnoses, ongevallen en klachten;
 
@@ -284,7 +302,7 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 11c
 
-Ten aanzien van de in [artikel 3, onderdelen h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01), bedoelde gegevens kan de directeur-generaal van de statistiek bepalen dat en op welke wijze de gegevens geconsolideerd moeten worden.
+Ten aanzien van de in [artikel 3, onderdelen h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01), bedoelde gegevens kan de directeur-generaal van de statistiek bepalen dat en op welke wijze de gegevens geconsolideerd moeten worden.
 
 #### § 5. Termijn gegevensverstrekking
 
@@ -294,7 +312,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 11d
 
-Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van landbouw, gegevens worden opgevraagd die nodig zijn ter uitvoering van bindende EU-rechtshandelingen inzake statistieken op het terrein van landbouw.
+Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) bedoelde gegevens kunnen bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=2&artikel=2&z=2025-06-01&g=2025-06-01) aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van landbouw, gegevens worden opgevraagd die nodig zijn ter uitvoering van bindende EU-rechtshandelingen inzake statistieken op het terrein van landbouw.
 
 ##### Artikel 11e
 
@@ -304,7 +322,7 @@ Buiten de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragra
 
 ##### Artikel 11f
 
-Ten aanzien van groepsmaatschappijen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) kunnen de gegevens, bedoeld in de [artikelen 3 tot en met 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01) en [11d](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=4&artikel=11d&z=2016-07-01&g=2016-07-01), al dan niet geconsolideerd worden opgevraagd bij de rechtspersoon of vennootschap die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van de groep.
+Ten aanzien van groepsmaatschappijen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) kunnen de gegevens, bedoeld in de [artikelen 3 tot en met 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=3&artikel=3&z=2025-06-01&g=2025-06-01) en [11d](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&paragraaf=4&artikel=11d&z=2025-06-01&g=2025-06-01), al dan niet geconsolideerd worden opgevraagd bij de rechtspersoon of vennootschap die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van de groep.
 
 #### § 5. Termijn gegevensverstrekking
 
