@@ -4,7 +4,7 @@ identifier: "BWBR0045801"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2024-04-01"
+last_updated: "2025-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045801"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 ##### Artikel 1.3. Monitoring en evaluatie
 
-1. De colleges van burgemeester en wethouders en de schuldeisers, genoemd in [artikelen 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.1&z=2024-04-01&g=2024-04-01), [2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01), [2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.3&z=2024-04-01&g=2024-04-01), en [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.4&z=2024-04-01&g=2024-04-01), dragen zorg voor de monitoring en evaluatie van het verstrekken en ontvangen van het aangewezen signaal voor schuldhulpverlening en rapporteren gezamenlijk daarover aan de Minister binnen drie jaar na inwerkingtreding van deze regeling.
+1. De colleges van burgemeester en wethouders en de schuldeisers, genoemd in de [artikelen 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.2&z=2025-06-01&g=2025-06-01), [2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.3&z=2025-06-01&g=2025-06-01), [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.4&z=2025-06-01&g=2025-06-01), en [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.5&z=2025-06-01&g=2025-06-01), dragen zorg voor de monitoring en evaluatie van het verstrekken en ontvangen van het aangewezen signaal voor schuldhulpverlening en rapporteren gezamenlijk daarover aan de Minister binnen drie jaar na inwerkingtreding van deze regeling.
 
 2. De Minister zendt binnen drie maanden na ontvangst van de rapportage bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de gegevensverstrekking in de praktijk, alsmede een standpunt inzake de voortzetting van deze regeling anders dan als tijdelijk signaal.
 
@@ -74,15 +74,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 ##### Artikel 2.1. Signaal gemeentelijke belastingen
 
-1. Als signaal wordt aangewezen een belastingachterstand van een inwoner op de gemeentelijke belastingen, bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV), en, voor zover die inwoner ook een betalingsachterstand heeft op een geldboete wegens overtreding van parkeervoorschriften als bedoeld in [artikel 225 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=225), de betalingsachterstand op die boete.
-
-2. De ambtenaar belast met de invordering van gemeentelijke belastingen, genoemd in [artikel 231, tweede lid, onderdeel c, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231), van de gemeente Amsterdam, Dordrecht, Echt-Susteren, Leudal, Maasgouw, Midden-Groningen, Purmerend, Roerdalen, Rotterdam of Westland verstrekt aan het college van burgemeester en wethouders van die gemeente voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
-
-- a. het burgerservicenummer van de inwoner;
-
-- b. de contactgegevens van de inwoner; en
-
-- c. de hoogte van de betalingsachterstand.
+Vervallen
 
 ##### Artikel 2.2. Signaal hypotheekachterstand
 
@@ -100,7 +92,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2022.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026, met dien verstande dat de regeling zoals die luidde op 31 december 2025 van toepassing blijft op de dan lopende procedures en gegevensverstrekking.
+2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat de regeling zoals die luidde op 31 december 2029 van toepassing blijft op de dan lopende procedures en gegevensverstrekking.
 
 ##### Artikel 3.2. Citeertitel
 
@@ -157,6 +149,44 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 - c. de geboortedatum van de inwoner; en
 
 - d. de hoogte en het type van de schuld.
+
+### Hoofdstuk 3. Slotbepalingen
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.5. Signaal belastingschuld en signaal schuld toeslagen
+
+1. Als signaal wordt aangewezen:
+
+- a. een belastingaanslag of belastingaanslagen waarvoor een aanmaning als bedoeld in [artikel 11 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=11) is verzonden en waarvoor geen uitstel van betaling is verleend als bedoeld in artikel 25 van die wet, vanwege verschuldigde:
+
+- 1°. inkomstenbelasting als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), waarvan het openstaande bedrag ten minste € 600 bedraagt;
+
+- 2°. omzetbelasting als bedoeld in de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), waarvan het openstaande bedrag ten minste € 600 bedraagt; of
+
+- 3°. loonbelasting, premies volksverzekeringen of premies werknemersverzekeringen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), waarvan het openstaande bedrag ten minste € 600 bedraagt.
+
+- b. een terugvordering of terugvorderingen in verband met inkomensafhankelijke regelingen als bedoeld in [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), waarvoor een aanmaning als bedoeld in [artikel 32, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) is verstuurd en waarvoor geen uitstel van betaling is verleend als bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31), vanwege verschuldigde:
+
+- 1°. huurtoeslag als bedoeld in de Wet op de huurtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
+
+- 2°. zorgtoeslag als bedoeld in de Wet op de zorgtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
+
+- 3°. kinderopvangtoeslag als bedoeld in de Wet kinderopvang, waarvan het openstaande bedrag ten minste € 500 bedraagt; of
+
+- 4°. kindgebonden budget als bedoeld in de Wet op het kindgebonden budget, waarvan het openstaande bedrag ten minste € 500 bedraagt.
+
+2. De Belastingdienst en de Dienst Toeslagen verstrekken aan het college van burgemeester en wethouders van de gemeente Amsterdam, Apeldoorn, Arnhem, Assen, Den Haag, Hollands Kroon, Leiden, Nijmegen, Opsterland en Tilburg voor de uitoefening van de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3) de volgende gegevens:
+
+- a. de naam van de inwoner;
+
+- b. het burgerservicenummer van de inwoner;
+
+- c. de geboortedatum van de inwoner;
+
+- d. contactgegevens bestaande uit het telefoonnummer en het adres van de inwoner; en
+
+- e. belastingmiddel of toeslagsoort en de hoogte van de betalingsachterstand, belastingmiddel of toeslagsoort.
 
 ### Hoofdstuk 3. Slotbepalingen
 
