@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2023-07-01"
+last_updated: "2025-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -85,6 +85,8 @@ Model 6H: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2
 
 Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014);
 
+Model 6J: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 01-06-2025);
+
 Model 7A: Kwalificatiekaart bestuurder volgens model van de Europese Unie (afgegeven m.i.v. 01-07-2021);
 
 Model 8a: Begeleiderspas;
@@ -93,7 +95,7 @@ Model 10: Begeleidingspas model 2018.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2023-07-01&g=2023-07-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2025-06-01&g=2025-06-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -365,11 +367,11 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014).
 
+### Model 6J: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 01-06-2025)
+
 ### Model 7A: Kwalificatiekaart bestuurder
 
 ### Model 8a:
-
-### Model 7C: Nationaal Certificaat
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
@@ -417,13 +419,13 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 9a: Begeleiderspas nieuw model
 
-### Model 10: Begeleiderspas 2018
+### Model 9a: Begeleiderspas nieuw model
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
 Vervallen.
 
-### Model 8a:
+### Model 10: Begeleiderspas 2018
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
@@ -474,5 +476,7 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 Vervallen.
 
 ### Model 9a: Begeleiderspas nieuw model
+
+Vervallen.
 
 Vervallen.
