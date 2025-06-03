@@ -4,7 +4,7 @@ identifier: "BWBR0047876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047876"
 soort: "ministeriele-regeling"
@@ -70,15 +70,19 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
+- **opleidingscoördinator:** een natuurlijke persoon, werkzaam bij de GGD als verantwoordelijke voor de planning, organisatie en kwaliteit van de opleidingen;
 
-- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
+- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
 
-- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
+- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
 
-- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel samenwerken op bovenregionaal niveau;
+- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
 
-- **pijler 5:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
+- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel samenwerken op bovenregionaal niveau;
+
+- **pijler 5a:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel de activiteiten binnen pijler 5b te coördineren en te bevorderen;
+
+- **pijler 5b:** het geheel aan activiteiten, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
 
 - **pijler 6:** activiteiten die worden uitgevoerd door een GGD ten behoeve van de aansluiting van de GGD op de LFI;
 
@@ -114,13 +118,15 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan een uitkering verstrekken aan een GGD voor:
 
-- a. het jaar 2023 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 5;
+- a. het jaar 2023 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 5a;
 
-- b. het jaar 2024 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 6;
+- b. de periode van 2023 tot en met 2025 voor activiteiten die vallen onder de doelstellingen van pijler 5b;
 
-- c. het jaar 2025 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 6;
+- c. het jaar 2024 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met 5a en pijler 6;
 
-- d. het jaar 2026 voor activiteiten die vallen onder de doelstelling van pijler 6.
+- d. het jaar 2025 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met 5a en pijler 6;
+
+- e. het jaar 2026 voor activiteiten die vallen onder de doelstelling van pijler 6.
 
 2. De activiteiten binnen pijler 1 bestaan uit het aanstellen bij de GGD van:
 
@@ -138,41 +144,45 @@ In deze regeling wordt verstaan onder:
 
 5. De activiteit binnen pijler 4 bestaat uit het uitvoeren van een onderzoek met als resultaat een implementatieplan ten behoeve van het effectief bestrijden van infectieziekten.
 
-6. De activiteiten binnen pijler 5 bestaan uit:
+6. De activiteiten binnen pijler 5a bestaan uit:
 
-- a. het creëren van opleidingsplekken bij GGD’en voor artsen, verpleegkundigen en deskundigen infectiepreventie GGD;
+- a. het aanstellen van een opleidingscoördinator ten behoeve van de activiteiten als bedoeld in het zevende lid; en
 
-- b. het opleiden van verpleegkundigen tot Verpleegkundige Maatschappij en Gezondheid en medewerkers infectiepreventie tot deskundige infectiepreventie; en
+- b. het uitvoeren van een onderzoek naar welke deskundigheidsbevordering en gewenste carrièreperspectieven nodig zijn onder alle professionals infectieziektebestrijding om de doelen van pijler 5b te behalen.
 
-- c. het uitvoeren van een onderzoek naar welke deskundigheidsbevordering en gewenste carrièreperspectieven nodig zijn onder alle professionals infectieziektebestrijding om de doelen van pijler 5 te behalen.
+7. De activiteiten binnen pijler 5b bestaan uit:
 
-7. De activiteiten binnen pijler 6 bestaan uit het geheel aan activiteiten in het kader van het inzetten van transitiecapaciteit om de doelstelling van pijler 6 te behalen.
+- a. het creëren van opleidingsplekken bij GGD’en voor artsen, verpleegkundigen en deskundigen infectiepreventie GGD; en
+
+- b. het opleiden van verpleegkundigen tot Verpleegkundige Maatschappij en Gezondheid en medewerkers infectiepreventie tot deskundige infectiepreventie.
+
+8. De activiteiten binnen pijler 6 bestaan uit het geheel aan activiteiten in het kader van het inzetten van transitiecapaciteit om de doelstelling van pijler 6 te behalen.
 
 ##### Artikel 4. Hoogte van de uitkering
 
-De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling.
+De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2025-06-03&g=2025-06-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2025-06-03&g=2025-06-03) bij deze regeling.
 
 ##### Artikel 5. Aanvraag tot verlening
 
-1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), wordt op aanvraag verstrekt.
+1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), wordt op aanvraag verstrekt.
 
 2. Voor de aanvraag tot verlening van een uitkering wordt een door de minister vastgesteld formulier gebruikt.
 
-3. De aanvraag voor activiteiten die plaatsvinden in het jaar 2023 kan worden ingediend in de periode van 16 februari 2023 tot en met 31 maart 2023.
+3. De aanvraag kan worden ingediend in de periode van 16 februari 2023 tot en met 31 maart 2023.
 
 4. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
 ##### Artikel 6. Verlening en bevoorschotting
 
-1. De minister neemt binnen 13 weken na ontvangst van de aanvraag voor het jaar 2023 een besluit omtrent de verlening van de uitkering.
+1. De minister neemt binnen 13 weken na ontvangst van de aanvraag een besluit omtrent de verlening van de uitkering.
 
 2. De minister geeft ambtshalve een beschikking tot verlening van een uitkering als bedoeld in:
 
-- a. [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01): voor de activiteiten in het jaar 2024: uiterlijk 17 mei 2024;
+- a. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 17 mei 2024;
 
-- b. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), voor activiteiten in het jaar 2025: uiterlijk 28 februari 2025;
+- b. [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 28 februari 2025;
 
-- c. [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), voor activiteiten in het jaar 2026: uiterlijk 27 februari 2026.
+- c. [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 27 februari 2026.
 
 3. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
@@ -194,7 +204,7 @@ De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 20
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2025-01-01&g=2025-01-01), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2025-06-03&g=2025-06-03), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -216,11 +226,15 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering versterking GGD’en.
 
-## Bijlage 1. Lijst van maximale uitkeringsbedragen per GGD voor pijler 1 tot en met 5
+## Bijlage 1. Lijst van maximale uitkeringsbedragen per GGD voor pijler 1 tot en met 5a
 
-Onderstaand is een lijst opgenomen van de GGD'en en het maximale uitkeringsbedrag dat zij voor het jaar 2025 kunnen ontvangen. De bedragen zijn per GGD:
+Hieronder staan twee tabellen met een lijst van het maximale uitkeringsbedrag dat de GGD'en kunnen ontvangen:
 
-| Totaal per pijler voor het jaar 2025 | Totaal | pijler 1 | pijler 2 | pijler 3 | pijler 4 | pijler 5 |
+- –. tabel I met alle GGD’en, waarin opgenomen de bedragen voor pijler 1 tot en met 5a voor het jaar 2025;
+
+- –. tabel II met GGD Utrecht, waarin opgenomen voor pijler 5a de bedragen voor 2023 en 2024 en voor pijler 5b het totaalbedrag voor de periode van 2023 tot en met 2025.
+
+|   | Totaal | pijler 1 | pijler 2 | pijler 3 | pijler 4 | pijler 5a |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dienst Gezondheid & Jeugd ZHZ | € 950.415 | € 616.001 | € 140.764 | € 0 | € 42.434 | € 151.216 |
 | Amsterdam | € 1.776.323 | € 1.151.303 | € 263.088 | € 0 | € 79.309 | € 282.623 |
@@ -247,6 +261,11 @@ Onderstaand is een lijst opgenomen van de GGD'en en het maximale uitkeringsbedra
 | Zeeland | € 958.717 | € 621.381 | € 141.994 | € 0 | € 42.805 | € 152.537 |
 | Zuid-Limburg | € 5.055.675 | € 710.149 | € 162.279 | € 3.960.000 | € 48.919 | € 174.328 |
 | Veiligheids- en Gezondheidsregio Gelderland-Midden | € 1.340.542 | € 868.857 | € 198.545 | € 0 | € 59.852 | € 213.288 |
+
+|   | Pijler 5a | Pijler 5a | Pijler 5b |
+| --- | --- | --- | --- |
+|   | Uitkering voor het jaar 2023 | Uitkering voor het jaar 2024 | Uitkering voor de periode van 2023 t/m 2025 |
+| Regio Utrecht | € 132.000 | € 132.000 | € 14.212.920 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
