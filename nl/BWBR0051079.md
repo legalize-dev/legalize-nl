@@ -687,25 +687,3 @@ Deze regeling wordt aangehaald als: Subsidieregeling isolatie en ventilatie gebo
 ### Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=1&z=2025-06-03&g=2025-06-03)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Beslistermijn
-
-1. De minister beslist binnen dertien weken nadat een aanvraag voor subsidie door een woningeigenaar, eigenaar-bewoner, verhuurder, bestuur van een wooncoöperatie, bestuur van een woonvereniging, bestuur van een VvE of een woningcorporatie met een minderheid van het totaal aantal gebouwen in een gemengde VvE, behorende tot de doelgroep, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=2&z=2025-12-24&g=2025-12-24), is ingediend.
-
-2. De minister kan de termijn eenmalig verlengen met acht weken.
-
-### Hoofdstuk 2. Subsidiabele activiteiten waartoe opdracht is verstrekt of die door een doe-het-zelver zijn gestart vanaf 25 april 2023 en vóór de datum van inwerkingtreding van deze regeling
-
-### Hoofdstuk 3. Subsidiabele activiteiten waartoe opdracht is verstrekt of die door een doe-het-zelver zijn gestart vanaf de datum van inwerkingtreding van deze regeling
-
-### Hoofdstuk 4. Slotbepalingen
-
-## Bijlage I. Postcodefasering indienen subsidieaanvraag
-
-### Bijlage bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=15&z=2025-12-24&g=2025-12-24)
-
-## Bijlage II. Standaard voor woningisolatie
-
-### Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=1&z=2025-12-24&g=2025-12-24)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
