@@ -4,7 +4,7 @@ identifier: "BWBR0019074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-03"
-last_updated: "2022-04-23"
+last_updated: "2025-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019074"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-De informatie, bedoeld in [artikel 21a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21a) wordt aan het publiek beschikbaar gesteld op de website en ten kantore van de Nederlandse Voedsel- en Warenautoriteit.
+Vervallen
 
 ##### Artikel 2
 
-Het op de hoogte stellen van de Minister van Volksgezondheid, Welzijn en Sport, bedoeld in [artikel 21b, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b), geschiedt door middel van een kennisgeving aan Nederlandse Voedsel- en Warenautoriteit in de gevallen bedoeld in en met inachtneming van de Beschikking van de Europese Commissie van 14 december 2004 tot vaststelling van richtsnoeren voor het melden van gevaarlijke producten aan de bevoegde autoriteiten van de lidstaten door producenten en distributeurs overeenkomstig artikel 5, lid 3, van [Richtlijn 2001/95](32001L0095)/ van het Europees Parlement en de Raad (Pb EG L 381).
+Vervallen
 
 ##### Artikel 3
 
-De in [artikel 21b, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b) bedoelde medewerking wordt verleend aan en met inachtneming van de aanwijzingen van de Nederlandse Voedsel- en Warenautoriteit.
+Vervallen
 
 ##### Artikel 4
 
