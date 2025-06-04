@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2025-04-04"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -8595,7 +8595,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 34.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 34.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 Geen bijzonderheden.
 
@@ -8605,7 +8605,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 34.4.2. Ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw als bedoeld in paragraaf C2/3.3.3 Vc
+### 34.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
 Geen bijzonderheden.
 
@@ -8621,7 +8621,7 @@ Geen bijzonderheden.
 
 ### 34.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Er is in Turkije adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend) voor alleenstaande minderjarige vreemdelingen.
+Er is in Turkije sprake van adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend) voor alleenstaande minderjarige vreemdelingen.
 
 ### 34.7. Vertrekmoratorium
 
@@ -8713,7 +8713,7 @@ Er is in Turkije adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend) voo
 
 ### 34.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-Geen bijzonderheden.
+De IND neemt aan dat het voor LHBTIQ+ niet mogelijk is bescherming te verkrijgen van de autoriteiten of internationale organisaties, tenzij sprake is van concrete en individualiseerbare aanknopingspunten op basis waarvan kan worden aangenomen dat het verkrijgen van bescherming mogelijk is.
 
 ### 35. Het asielbeleid ten aanzien van Uganda
 
