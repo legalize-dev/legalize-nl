@@ -4,7 +4,7 @@ identifier: "BWBR0041629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2022-10-01"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041629"
 soort: "ministeriele-regeling"
@@ -110,9 +110,11 @@ Vrijstelling van het verbod wordt verleend aan natuurlijke personen, voor zover 
 
 Vrijstelling van het verbod wordt verleend aan rechtspersonen, vennootschappen of natuurlijke personen voor zover die in hoofdzaak of uitsluitend in opdracht bestuurder zijn van verenigingen van eigenaars als bedoeld in [Boek 5, titel 9, afdeling 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&afdeling=2).
 
-##### Artikel 7. Vrijstelling besturen pensioenfondsen
+##### Artikel 7. Vrijstelling besturen pensioenfondsen en pensioenuitvoeringsorganisaties
 
-Vrijstelling van het verbod wordt verleend aan rechtspersonen, voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+1. Vrijstelling van het verbod wordt verleend aan rechtspersonen, voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+2. Vrijstelling van het verbod wordt verleend aan de derde waaraan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), werkzaamheden heeft uitbesteed als bedoeld in [artikel 34 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) of [artikel 43 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43), voor zover deze derde de uitbestede werkzaamheden voor het pensioenfonds verricht.
 
 ### Hoofdstuk 3. Gegevens vergunningaanvraag
 
