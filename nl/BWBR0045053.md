@@ -4,7 +4,7 @@ identifier: "BWBR0045053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-05"
-last_updated: "2025-01-23"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045053"
 soort: "ministeriele-regeling"
@@ -86,6 +86,7 @@ Als dierziekten als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.
 | tularemie | zoogdieren (Mammalia), met uitzondering van herkauwers (Ruminantia), paarden (equidae) en varkens (Suidae) |
 | Venezolaanse, oosterse of westerse paardenencefalomyelitis | herkauwers (Ruminantia) en varkens (Suidae) |
 | brucellose, met uitzondering van infecties met **Brucella abortus**, **Brucella melitensis** en **Brucella suis** | zoogdieren (Mammalia) |
+| Q-koorts | hertachtigen (Cervidae) en kameelachtigen (Camelidae) |
 
 - b. de ziekten, genoemd in artikel 5, eerste lid, onder a, van verordening (EU) 2016/429 en in bijlage II bij die verordening, bij de in de tabel in de bijlage bij verordening (EU) nr. 2018/1882, bij de desbetreffende dierziekte genoemde soorten of groepen van soorten;
 
@@ -230,9 +231,9 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 Als modellen als bedoeld in [artikel 2.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3) worden aangewezen:
 
-- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2025-01-23&g=2025-01-23) opgenomen modellen;
+- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2025-06-05&g=2025-06-05) opgenomen modellen;
 
-- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2025-01-23&g=2025-01-23) opgenomen modellen.
+- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2025-06-05&g=2025-06-05) opgenomen modellen.
 
 ### Hoofdstuk 5. Waarschuwingsborden en kentekenen
 
@@ -346,7 +347,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 1. Als bedoeld bij [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2025-01-23&g=2025-01-23)
+## Bijlage 1. Als bedoeld bij [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2025-06-05&g=2025-06-05)
 
 Wit van kleur met een rode rand en bedrukt met rode letters:
 
@@ -366,7 +367,7 @@ Aan eenieder wordt vrijstelling verleend van de verplichting van melding, bedoel
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2025-01-23&g=2025-01-23)
+## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2025-06-05&g=2025-06-05)
 
 Blauw van kleur en bedrukt met zwarte letters:
 
