@@ -4,7 +4,7 @@ identifier: "BWBR0045385"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-06-06"
-last_updated: "2021-07-01"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045385"
 soort: "zbo"
@@ -48,7 +48,7 @@ De begripsomschrijvingen opgenomen in [artikel 1 van de Organisatiewet Kadaster]
 
 1. De Dienst bestaat uit de volgende organisatieonderdelen:
 
-- a. de stafafdeling Bestuur en Strategie;
+- a. de directie Bestuur en Strategie;
 
 - b. de directie Data, Governance en Vernieuwing;
 
@@ -68,9 +68,9 @@ De begripsomschrijvingen opgenomen in [artikel 1 van de Organisatiewet Kadaster]
 
 - j. Programmadirectie Tactische Beheerorganisatie [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-2. De organisatieonderdelen genoemd in het eerste lid, onder b. tot en met f. staan onder leiding van directeuren. De directeuren worden in functie benoemd bij besluit van het bestuur. Het bestuur kan ook besluiten dat de leden van het bestuur de functie van directeur van een of meer organisatieonderdelen bekleden.
+2. De organisatieonderdelen genoemd in het eerste lid, onder a. tot en met f. staan onder leiding van directeuren. De directeuren worden in functie benoemd bij besluit van het bestuur. Het bestuur kan ook besluiten dat de leden van het bestuur de functie van directeur van een of meer organisatieonderdelen bekleden.
 
-3. Het organisatieonderdeel, genoemd in het eerste lid, onder a. staat onder leiding van een stafhoofd, het organisatieonderdeel, onder j. staat onder leiding van de Programmadirecteur [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en de organisatieonderdelen, onder g. tot en met i. staan onder directe leiding van het bestuur.
+3. Het organisatieonderdeel, genoemd in het eerste lid, onder j. staat onder leiding van de Programmadirecteur [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en de organisatieonderdelen, onder g. tot en met i. staan onder directe leiding van het bestuur.
 
 ##### Artikel 3. Evaluatie
 
