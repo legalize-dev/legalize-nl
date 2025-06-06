@@ -4,7 +4,7 @@ identifier: "BWBR0051087"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-06-06"
-last_updated: "2025-05-28"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051087"
 soort: "zbo"
@@ -156,7 +156,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
 ##### Artikel 3.4. Besluit
 
-Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=2&artikel=2.3&z=2025-06-06&g=2025-05-28) en maakt het besluit bekend aan de aanvrager.
+Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=2&artikel=2.3&z=2025-06-06&g=2025-06-06) en maakt het besluit bekend aan de aanvrager.
 
 ##### Artikel 3.5. Subsidiehoogte
 
@@ -186,7 +186,7 @@ Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voors
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 31 januari 2030 ingediend.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=5&artikel=5.2&z=2025-06-06&g=2025-05-28).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=5&artikel=5.2&z=2025-06-06&g=2025-06-06).
 
 ##### Artikel 5.2. Inhoudelijk verslag en financieel verslag
 
