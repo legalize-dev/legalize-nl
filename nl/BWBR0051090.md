@@ -4,7 +4,7 @@ identifier: "BWBR0051090"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-06-07"
-last_updated: "2025-06-01"
+last_updated: "2025-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051090"
 soort: "zbo"
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - n). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2);
 
-- o). **streek:** een streek zoals opgenomen in de streekomroepenkaart, zoals opgesteld door de NLPO en de VNG, die is bijgevoegd als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&bijlage=1&z=2025-06-07&g=2025-06-01) bij deze regeling;
+- o). **streek:** een streek zoals opgenomen in de streekomroepenkaart, zoals opgesteld door de NLPO en de VNG, die is bijgevoegd als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&bijlage=1&z=2025-06-07&g=2025-06-07) bij deze regeling;
 
 - p). **website:** een openbare weblocatie met informatie in de vorm van tekst, foto’s, audio of video’s die als zelfstandig geheel onder eigen verantwoordelijkheid en beheer van een lokale publieke media-instelling of meerdere lokale publieke media-instellingen valt.
 
@@ -142,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 1. De activiteiten voor de professionalisering van de lokale publieke media-instelling(en) voor de uitvoering van de publieke mediaopdracht, als bedoeld in [artikel 2.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.1), worden aangewezen als DAEB.
 
-2. De activiteiten die met de uitvoering van de DAEB verband houden zien op de journalistieke en organisatorische ontwikkeling van de lokale publieke media-instelling. De kosten die voor vergoeding in aanmerking komen zijn omschreven in [artikel 1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-01).
+2. De activiteiten die met de uitvoering van de DAEB verband houden zien op de journalistieke en organisatorische ontwikkeling van de lokale publieke media-instelling. De kosten die voor vergoeding in aanmerking komen zijn omschreven in [artikel 1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-07).
 
 3. De aanvrager wordt in de subsidieverleningsbeschikking met de uitvoering van de DAEB belast. Subsidie wordt alleen verstrekt als wordt voldaan aan de voorwaarden van het DAEB-vrijstellingsbesluit.
 
@@ -174,9 +174,9 @@ In deze regeling wordt verstaan onder:
 
 - d). een motivatie waarom de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband wil, respectievelijk willen professionaliseren;
 
-- e). documentatie waaruit blijkt dat de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband door het Commissariaat voor de Media op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen of zijn aangewezen als lokale publieke media-instelling. Indien [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01) van toepassing is, dient documentatie aangeleverd te worden waarmee aannemelijk wordt gemaakt dat de hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor of op 1 januari 2026;
+- e). documentatie waaruit blijkt dat de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband door het Commissariaat voor de Media op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen of zijn aangewezen als lokale publieke media-instelling. Indien [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07) van toepassing is, dient documentatie aangeleverd te worden waarmee aannemelijk wordt gemaakt dat de hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor of op 1 januari 2026;
 
-- f). de webadressen voor elk te beoordelen inhoudelijk criterium, zoals bedoeld in [artikel 3.3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01);
+- f). de webadressen voor elk te beoordelen inhoudelijk criterium, zoals bedoeld in [artikel 3.3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07);
 
 - g). documentatie waaruit blijkt welke publicatiekanalen (televisie, radio, website, app, tenminste één social media kanaal) de aanvrager bedient;
 
@@ -226,7 +226,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds beoordeeld aan de hand van de volgende drempelcriteria:
 
-- a). de aanvrager voldoet aan [artikel 2.1, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01); en
+- a). de aanvrager voldoet aan [artikel 2.1, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07); en
 
 - b). de aanvrager en de deelnemers aan een samenwerkingsverband bezitten op 1 januari 2026 een aanwijzing van het Commissariaat voor de Media.
 
@@ -296,13 +296,13 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.4. Beoordeling inhoudelijke criteria en rangschikking
 
-1. Ten aanzien van de inhoudelijke criteria ‘journalistieke productie’ en ‘mate van professionalisering’, bedoeld in [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01), beoordeelt het Stimuleringsfonds de stand van zaken op de website van de aanvrager in de periode van 16 juni tot en met 22 juni 2025.
+1. Ten aanzien van de inhoudelijke criteria ‘journalistieke productie’ en ‘mate van professionalisering’, bedoeld in [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07), beoordeelt het Stimuleringsfonds de stand van zaken op de website van de aanvrager in de periode van 16 juni tot en met 22 juni 2025.
 
-2. Voor individuele aanvragers als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), worden de scores per onderdeel van elk criterium bij elkaar opgeteld en vormen zo de totaalscore van de aanvraag. Er zijn maximaal 31 punten te behalen. De rangschikking van de aanvragen wordt bepaald door het totaal aantal punten dat is behaald, waarbij aanvragen met de hoogste scores als eerste in aanmerking komen voor subsidie.
+2. Voor individuele aanvragers als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), worden de scores per onderdeel van elk criterium bij elkaar opgeteld en vormen zo de totaalscore van de aanvraag. Er zijn maximaal 31 punten te behalen. De rangschikking van de aanvragen wordt bepaald door het totaal aantal punten dat is behaald, waarbij aanvragen met de hoogste scores als eerste in aanmerking komen voor subsidie.
 
-3. Voor aanvragen van samenwerkingsverbanden, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), beoordeelt het Stimuleringsfonds de websites van alle deelnemers aan het samenwerkingsverband. Iedere deelnemer krijgt een individuele totaalscore voor elk criterium, bedoeld onder [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01) (‘journalistieke productie’ en ‘mate van professionalisering’). Deze individuele totaalscores worden vervolgens bij elkaar opgeteld en daarna gedeeld door het aantal deelnemers aan het samenwerkingsverband. Voor het criterium bedoeld onder [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01) (‘mate van samenwerking binnen de streek’), wordt het samenwerkingsverband als geheel gescoord. Het aantal punten dat uit deze twee tellingen komt, is de totaalscore van de aanvraag. Er zijn maximaal 31 punten te behalen. De rangschikking van de aanvragen wordt bepaald door het totaal aantal punten dat is behaald, waarbij aanvragen met de hoogste scores als eerste in aanmerking komen voor subsidie.
+3. Voor aanvragen van samenwerkingsverbanden, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), beoordeelt het Stimuleringsfonds de websites van alle deelnemers aan het samenwerkingsverband. Iedere deelnemer krijgt een individuele totaalscore voor elk criterium, bedoeld onder [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07) (‘journalistieke productie’ en ‘mate van professionalisering’). Deze individuele totaalscores worden vervolgens bij elkaar opgeteld en daarna gedeeld door het aantal deelnemers aan het samenwerkingsverband. Voor het criterium bedoeld onder [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07) (‘mate van samenwerking binnen de streek’), wordt het samenwerkingsverband als geheel gescoord. Het aantal punten dat uit deze twee tellingen komt, is de totaalscore van de aanvraag. Er zijn maximaal 31 punten te behalen. De rangschikking van de aanvragen wordt bepaald door het totaal aantal punten dat is behaald, waarbij aanvragen met de hoogste scores als eerste in aanmerking komen voor subsidie.
 
-4. Bij een score van 4 punten of lager op het criterium ‘mate van samenwerking binnen de streek’ als bedoeld in [artikel 3.3, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01), komt een aanvraag niet voor rangschikking in aanmerking en wijst het Stimuleringsfonds de aanvraag af, ongeacht of het toepasselijke subsidieplafond is bereikt.
+4. Bij een score van 4 punten of lager op het criterium ‘mate van samenwerking binnen de streek’ als bedoeld in [artikel 3.3, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07), komt een aanvraag niet voor rangschikking in aanmerking en wijst het Stimuleringsfonds de aanvraag af, ongeacht of het toepasselijke subsidieplafond is bereikt.
 
 5. Bij een eindscore van 21 punten of lager komt een aanvraag niet voor rangschikking in aanmerking en wijst het Stimuleringsfonds de aanvraag af, ongeacht of het toepasselijke subsidieplafond is bereikt.
 
@@ -314,27 +314,27 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 - c). indien meerdere aanvragen dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het toepasselijke subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
-- i). op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek', bedoeld in [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01);
+- i). op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek', bedoeld in [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07);
 
-- ii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3, eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01);
+- ii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3, eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07);
 
-- iii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte’s al aanwezig’, bedoeld in [artikel 3.3, eerste lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-01);
+- iii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte’s al aanwezig’, bedoeld in [artikel 3.3, eerste lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=3&artikel=3.3&z=2025-06-07&g=2025-06-07);
 
 - iv). de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
 
 ##### Artikel 3.5. Besluit
 
-1. Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.3&z=2025-06-07&g=2025-06-01) en maakt het besluit bekend aan de aanvrager.
+1. Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.3&z=2025-06-07&g=2025-06-07) en maakt het besluit bekend aan de aanvrager.
 
-2. Bij aanvragen van samenwerkingsverbanden als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), wordt de beslissing op de aanvraag bekendgemaakt aan de penvoerder. Het subsidieverleningsbesluit noemt de deelnemers aan het samenwerkingsverband die als subsidieontvanger zijn aangemerkt.
+2. Bij aanvragen van samenwerkingsverbanden als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), wordt de beslissing op de aanvraag bekendgemaakt aan de penvoerder. Het subsidieverleningsbesluit noemt de deelnemers aan het samenwerkingsverband die als subsidieontvanger zijn aangemerkt.
 
 ##### Artikel 3.6. Subsidiehoogte
 
 De hoogte van het te verlenen subsidiebedrag is:
 
-- 1. 500.000 euro per aanvraag van een individuele aanvrager, als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01); en
+- 1. 500.000 euro per aanvraag van een individuele aanvrager, als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07); en
 
-- 2. 500.000 euro per aanvraag van een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01).
+- 2. 500.000 euro per aanvraag van een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07).
 
 ##### Artikel 3.7. Begrotingsvoorbehoud
 
@@ -348,13 +348,13 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 - b). een tweede voorschot van dertig procent van het verleende subsidiebedrag wordt betaald na het eerste halfjaar van de subsidieperiode;
 
-- c). een derde voorschot van dertig procent van het verleende subsidiebedrag wordt betaald na goedkeuring van het voortgangsverslag, als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=4&artikel=4.2&z=2025-06-07&g=2025-06-01);
+- c). een derde voorschot van dertig procent van het verleende subsidiebedrag wordt betaald na goedkeuring van het voortgangsverslag, als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=4&artikel=4.2&z=2025-06-07&g=2025-06-07);
 
 - d). als de subsidie overeenkomstig de verlening wordt vastgesteld, het restant van tien procent na het besluit tot subsidievaststelling wordt betaald.
 
 2. In overleg kan het Stimuleringsfonds bij wijze van uitzondering afwijken van de hoogte van bovengenoemde termijnen en overgaan tot een andere percentuele betaling.
 
-3. Bij aanvragen van een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), vinden de betalingen plaats aan de penvoerder.
+3. Bij aanvragen van een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), vinden de betalingen plaats aan de penvoerder.
 
 ### Hoofdstuk 4. Verplichtingen
 
@@ -372,9 +372,9 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 - e. Onder de bij lid d genoemde omstandigheden wordt in elk geval wordt verstaan, elke wijziging die leidt tot een aanpassing van de begroting met meer dan 10 procent van:
 
-- i). de kosten van een passende beloning van medewerkers, als bedoeld in [artikel 1.4, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-01);
+- i). de kosten van een passende beloning van medewerkers, als bedoeld in [artikel 1.4, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-07);
 
-- ii). bijkomende kosten, als bedoeld in [artikel 1.4, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-01).
+- ii). bijkomende kosten, als bedoeld in [artikel 1.4, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=1&artikel=1.4&z=2025-06-07&g=2025-06-07).
 
 ##### Artikel 4.2. Voortgangsverslag
 
@@ -398,7 +398,7 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 29 februari 2028 ingediend.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=5&artikel=5.2&z=2025-06-07&g=2025-06-01).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=5&artikel=5.2&z=2025-06-07&g=2025-06-07).
 
 ##### Artikel 5.2. Activiteitenverslag en financieel verslag
 
@@ -422,7 +422,7 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 1. Zolang de subsidie niet is vastgesteld kan het Stimuleringsfonds de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, als:
 
-- a). de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden, waaronder de situatie waarbij een individuele subsidieontvanger als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), of deelnemer(s) aan een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-01), de aanwijzing als lokale publieke media-instelling verliest;
+- a). de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden, waaronder de situatie waarbij een individuele subsidieontvanger als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), of deelnemer(s) aan een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051090&hoofdstuk=2&artikel=2.1&z=2025-06-07&g=2025-06-07), de aanwijzing als lokale publieke media-instelling verliest;
 
 - b). de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;
 
