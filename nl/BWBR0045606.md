@@ -4,7 +4,7 @@ identifier: "BWBR0045606"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-11"
-last_updated: "2022-08-01"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045606"
 soort: "ministeriele-regeling"
@@ -50,9 +50,13 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Onderwijs, Cultuur en Wetenschap;
 
 - **nieuwe school:** school of scholengemeenschap als bedoeld in [artikel 4.2, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), niet zijnde een school als bedoeld in [artikel 4.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.3);
+
+- **Opgeheven school:** school die op 1 augustus van het lopende kalenderjaar is opgeheven, dan wel waarvan de bekostiging op 1 augustus van het lopende kalenderjaar volledig is beëindigd, zonder dat sprake is van samenvoeging, niet zijnde een school binnen een scholengemeenschap;
+
+- **Overname-leerling:** leerling die op 1 augustus van het lopende kalenderjaar staat ingeschreven en is overgenomen van een opgeheven school, niet zijnde een nieuwkomer eerste categorie als bedoeld in [artikel 1 van de Regeling aanvullende bekostiging eerste opvang nieuwkomers vo](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=1);
 
 - **samenvoeging:** samenvoeging als bedoeld in [artikel 4.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.10);
 
@@ -192,23 +196,63 @@ Zm = de bekostiging voor exploitatiekosten van de opgeheven scholengemeenschap, 
 
 8. De minister beschikt de aanvullende bekostiging voor personeelskosten en exploitatiekosten voor 1 april van het kalenderjaar waarop de aanvullende bekostiging betrekking heeft. Zowel de betaling van de aanvullende bekostiging voor personeelskosten als de betaling van de aanvullende bekostiging voor exploitatiekosten vindt plaats in één termijn per jaar die wordt uitbetaald voor 1 april van het kalenderjaar waarop de aanvullende bekostiging betrekking heeft.
 
-#### § 4. Slotbepalingen
+#### § 4. Aanvullende bekostiging bij overname leerlingen van een opgeheven school
 
-##### Artikel 8. Intrekking [Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237)
+##### Artikel 8. Aanvullende bekostiging voor overname leerlingen van een opgeheven school
+
+1. De minister verstrekt aanvullende bekostiging voor de laatste vijf maanden van een kalenderjaar aan het bevoegd gezag van een school die tien of meer overname-leerlingen per 1 augustus van dat kalenderjaar inschrijft.
+
+2. Nieuwe scholen of scholen als bedoeld in [artikel 4.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.3) die aanvullende bekostiging ontvangen, op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045606&paragraaf=2&artikel=2&z=2025-06-11&g=2025-06-11), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045606&paragraaf=2&artikel=3&z=2025-06-11&g=2025-06-11) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045606&paragraaf=2&artikel=5&z=2025-06-11&g=2025-06-11), komen niet in aanmerking voor de aanvullende bekostiging, bedoeld in het eerste lid.
+
+3. De hoogte van de aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per overname-leerling. De hoogte van de aanvullende bekostiging is gelijk aan vijf twaalfde deel van de bekostiging bedoeld in [artikel 2, tweede lid, van de Regeling bekostiging vo scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=2), waarbij onderscheid wordt gemaakt naar schoolsoort, leerweg en leerjaar.
+
+4. Het bevoegd gezag dient per school met overname-leerlingen, uiterlijk op 15 september van het kalenderjaar waarin de leerlingen zijn overgenomen een aanvraag in. Aanvragen die na 15 september ontvangen zijn worden afgewezen.
+
+5. Voor het indienen van een aanvraag wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op [www.duo.nl/zakelijk/voortgezet-onderwijs/bekostiging-en-subsidies/aanvullende-bekostiging-vo](http://www.duo.nl/zakelijk/voortgezet-onderwijs/bekostiging-en-subsidies/aanvullende-bekostiging-vo). De aanvraag gaat vergezeld van de volgende gegevens:
+
+- a. naam, instellingscode, postcode en plaats van de school;
+
+- b. instellingscode(s) van opgeheven school of scholen waarvan de leerlingen worden overgenomen;
+
+- c. per school het aantal overgenomen leerlingen, onderverdeeld naar schoolsoort, leerweg en leerjaar;
+
+- d. totaal aantal overgenomen leerlingen per school;
+
+- e. NAW-gegevens en bevoegd gezag (BG) nummer van aanvragende bestuur;
+
+- f. achternaam en voorletters van de contactpersoon;
+
+- g. telefoonnummer van de contactpersoon;
+
+- h. e-mailadres van de contactpersoon.
+
+6. De minister stelt de aanvullende bekostiging, bedoeld in het eerste lid, uiterlijk vast in december van het kalenderjaar van de aanvraag. De aanvullende bekostiging wordt in de maand van vaststelling als bedrag ineens betaald.
+
+7. De aanvullende bekostiging kan gewijzigd worden vastgesteld indien na controle blijkt dat het aantal leerlingen in de aanvraag niet overeenkomt met het aantal daadwerkelijk ingeschreven overname-leerlingen.
+
+##### Artikel 9. Intrekking [Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237)
 
 De [Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237) wordt ingetrokken.
 
-##### Artikel 9. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2022.
-
-##### Artikel 10. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging nieuwe scholen en samenvoeging vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a. Omhang
+
+Deze regeling berust op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.3, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.3).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 5. Slotbepalingen
+
+##### Artikel 11. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging nieuwe scholen en samenvoeging vo.
+
+##### Artikel 11a. Omhang
 
 Deze regeling berust op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.3, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.3).
 
