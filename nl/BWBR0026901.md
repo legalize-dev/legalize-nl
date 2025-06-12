@@ -4,7 +4,7 @@ identifier: "BWBR0026901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-14"
-last_updated: "2021-02-03"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026901"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **erkenning:** erkenning als bedoeld in [artikel 10a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a);
+- **erkenning:** erkenning als bedoeld in [artikel 10a van de Wvgs](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10) of [artikel 6.51a van de Wlv](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51a);
 
 - **erkende instantie:** onderneming die beschikt over een geldige erkenning;
 
@@ -51,7 +51,11 @@ In deze regeling wordt verstaan onder:
 
 - **IMSBC-Code:** de bij resolutie MSC.268(85) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie van de Verenigde Naties aangenomen Internationale Maritieme Code voor het vervoer van vaste lading in bulk (International Maritime Solid Bulk Cargoes Code);
 
+- **minister:** Minister van Infrastructuur en Waterstaat;
+
 - **onderneming:** onderneming als bedoeld in [artikel 5 van de Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5), met privaatrechtelijke rechtspersoonlijkheid;
+
+- **Technische Voorschriften:** Technische Voorschriften als bedoeld in [artikel 1 van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1);
 
 - **VBG:** [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115);
 
@@ -59,7 +63,9 @@ In deze regeling wordt verstaan onder:
 
 - **VSG:** [Regeling vervoer over de spoorweg van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010053);
 
-- **wet:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606).
+- **Wlv:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+
+- **Wvgs:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606).
 
 ##### Artikel 2
 
@@ -71,17 +77,17 @@ In deze regeling wordt verstaan onder:
 
 2. Deze regeling is van toepassing op de volgende handelingen:
 
-- a. de goedkeuring van het prototype, het onderzoek en de beproeving alsmede het afgeven van certificaten en kenmerken, voor drukhouders, verpakkingen, grote verpakkingen, IBC’s of tanks, alsmede handelingen ten behoeve daarvan, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- a. de goedkeuring van het prototype, het onderzoek en de beproeving alsmede het afgeven van certificaten en kenmerken, voor drukhouders, verpakkingen, grote verpakkingen, IBC’s of tanks, alsmede handelingen ten behoeve daarvan, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften;
 
-- b. het toezicht houden op de juiste werking van kwaliteitssystemen en kwaliteitsborgingsystemen voor het ontwerp, de constructie, uitrusting, productie, ombouw, reconditionering, reparatie en beproeving van drukhouders, verpakkingen, bulkcontainers of tanks, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- b. het toezicht houden op de juiste werking van kwaliteitssystemen en kwaliteitsborgingsystemen voor het ontwerp, de constructie, uitrusting, productie, ombouw, reconditionering, reparatie en beproeving van drukhouders, verpakkingen, bulkcontainers of tanks, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften;
 
-- c. het beoordelen van de kwaliteit van gerecycleerde kunststoffen in relatie tot de fabricage van nieuwe verpakkingen, zoals beschreven in de definitie ‘gerecycleerde kunststof’, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- c. het beoordelen van de kwaliteit van gerecycleerde kunststoffen in relatie tot de fabricage van nieuwe verpakkingen, zoals beschreven in de definitie ‘gerecycleerde kunststof’, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften;
 
-- d. de conformiteitbeoordeling van drukhouders, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), het bijhouden van een actuele lijst van de onderzoeksinstanties en hun identiteitskenmerken alsmede van de toegelaten fabrikanten en hun identiteitskenmerken;
+- d. de conformiteitbeoordeling van drukhouders, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften, het bijhouden van een actuele lijst van de onderzoeksinstanties en hun identiteitskenmerken alsmede van de toegelaten fabrikanten en hun identiteitskenmerken;
 
-- e. het beoordelen van de geschiktheid voor het gebruik voor specifieke stoffen van drukhouders, verpakkingen, grote verpakkingen, IBC’s of tanks en het stellen van speciale voorwaarden daaraan, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- e. het beoordelen van de geschiktheid voor het gebruik voor specifieke stoffen van drukhouders, verpakkingen, grote verpakkingen, IBC’s of tanks en het stellen van speciale voorwaarden daaraan, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften;
 
-- f. het toelaten van verruiming van de toegestane gebruiksduur of maximale beproevingsinterval voor drukhouders en verpakkingen, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- f. het toelaten van verruiming van de toegestane gebruiksduur of maximale beproevingsinterval voor drukhouders en verpakkingen, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), of, voor zover van toepassing, zoals omschreven in de Technische Voorschriften;
 
 - g. het erkennen van alternatieve methoden voor het aantonen van chemische bestendigheid van kunststof verpakkingen, bedoeld in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) of [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
 
@@ -99,17 +105,17 @@ In deze regeling wordt verstaan onder:
 
 De aanvrager verstrekt bij de aanvraag tot erkenning in elk geval de volgende bescheiden en gegevens:
 
-- a. een kwaliteitssysteem als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2021-02-03&g=2021-02-03);
+- a. een kwaliteitssysteem als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2025-06-12&g=2025-06-12);
 
 - b. gegevens die de onafhankelijkheid en onpartijdigheid van de aanvrager aantonen, en
 
-- c. de polis van een verzekering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=12&z=2021-02-03&g=2021-02-03).
+- c. de polis van een verzekering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=12&z=2025-06-12&g=2025-06-12).
 
 ##### Artikel 4
 
-1. De Minister kan een erkenning verlenen aan een onderneming, indien die onderneming voldoet aan de in de [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&z=2021-02-03&g=2021-02-03) van deze regeling opgenomen voorwaarden.
+1. De minister kan een erkenning verlenen aan een onderneming, indien die onderneming voldoet aan de in de [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&z=2025-06-12&g=2025-06-12) van deze regeling opgenomen voorwaarden.
 
-2. De erkenning heeft alleen betrekking op de handelingen die worden vermeld in de beschikking waarmee de erkenning wordt verleend en die een nadere uitvoering zijn van de voorschriften van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), [bijlage 1 bij de VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1) of de IMSBC-Code.
+2. De erkenning heeft alleen betrekking op de handelingen die worden vermeld in de beschikking waarmee de erkenning wordt verleend en die een nadere uitvoering zijn van de voorschriften van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), [bijlage 1 bij de VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1), de IMSBC-Code of de Technische Voorschriften.
 
 ##### Artikel 5
 
@@ -117,19 +123,19 @@ De erkenning is gedurende tien jaar vanaf de bekendmaking geldig.
 
 ##### Artikel 6
 
-Indien een erkende instantie handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), voornemens is wijzigingen door te voeren in de bescheiden en gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=3&z=2021-02-03&g=2021-02-03), die gevolgen kunnen hebben voor de uitvoering van die handelingen, overlegt die erkende instantie deze gewijzigde bescheiden en gegevens voorafgaand aan de voorgenomen wijziging, aan de Inspectie Leefomgeving en Transport.
+Indien een erkende instantie handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), voornemens is wijzigingen door te voeren in de bescheiden en gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=3&z=2025-06-12&g=2025-06-12), die gevolgen kunnen hebben voor de uitvoering van die handelingen, overlegt die erkende instantie deze gewijzigde bescheiden en gegevens voorafgaand aan de voorgenomen wijziging, aan de Inspectie Leefomgeving en Transport.
 
 #### § 2. Organisatorische en inhoudelijke vereisten voor erkende instanties
 
 ##### Artikel 7
 
-De erkende instantie hanteert geen tarieven of andere vereisten, die de toegang tot het uitvoeren van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), door die erkende instantie onnodig belemmeren.
+De erkende instantie hanteert geen tarieven of andere vereisten, die de toegang tot het uitvoeren van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), door die erkende instantie onnodig belemmeren.
 
 ##### Artikel 8
 
-1. De erkende instantie waarborgt de onafhankelijkheid en onpartijdigheid van de onderneming zowel als die van de personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), ten opzichte van een opdrachtgever en andere betrokken partijen.
+1. De erkende instantie waarborgt de onafhankelijkheid en onpartijdigheid van de onderneming zowel als die van de personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), ten opzichte van een opdrachtgever en andere betrokken partijen.
 
-2. Indien de bezoldiging van personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), op enige wijze afhankelijk is van het aantal van die handelingen dat is uitgevoerd, of het resultaat van die handelingen, is dat in elk geval in strijd met het eerste lid.
+2. Indien de bezoldiging van personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), op enige wijze afhankelijk is van het aantal van die handelingen dat is uitgevoerd, of het resultaat van die handelingen, is dat in elk geval in strijd met het eerste lid.
 
 ##### Artikel 9
 
@@ -137,13 +143,13 @@ De erkende instantie beschikt over een geschikt kwaliteitssysteem, waarin de org
 
 ##### Artikel 10
 
-1. De erkende instantie heeft voor de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), de beschikking over medewerkers met voldoende vakbekwaamheid voor de uitvoering van die werkzaamheden alsmede voor het toezicht op de uitvoering van die werkzaamheden.
+1. De erkende instantie heeft voor de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), de beschikking over medewerkers met voldoende vakbekwaamheid voor de uitvoering van die werkzaamheden alsmede voor het toezicht op de uitvoering van die werkzaamheden.
 
-2. In het kwaliteitssysteem, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2021-02-03&g=2021-02-03), wordt aandacht besteed aan opleiding, kwalificatie en ervaring.
+2. In het kwaliteitssysteem, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2025-06-12&g=2025-06-12), wordt aandacht besteed aan opleiding, kwalificatie en ervaring.
 
 ##### Artikel 11
 
-De erkende instantie draagt zorg voor uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), in overeenstemming met de geldende voorschriften, waaronder in elk geval die in de [VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115), de [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054), de [VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053) of de IMSBC-Code.
+De erkende instantie draagt zorg voor uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), in overeenstemming met de geldende voorschriften, waaronder in elk geval die in de [VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115), de [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054), de [VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053), de IMSBC-Code of de Technische Voorschriften.
 
 ##### Artikel 12
 
@@ -151,17 +157,17 @@ De erkende instantie beschikt over een aansprakelijkheidsverzekering die de risi
 
 ##### Artikel 13
 
-Voorafgaand aan de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), stelt de erkende instantie aan een opdrachtgever een document ter beschikking waarin per categorie objecten is vastgelegd welke van de handelingen als bedoeld in artikel 2, tweede lid, worden uitgevoerd, de te hanteren methode en de eisen waaraan zal worden getoetst.
+Voorafgaand aan de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), stelt de erkende instantie aan een opdrachtgever een document ter beschikking waarin per categorie objecten is vastgelegd welke van de handelingen als bedoeld in artikel 2, tweede lid, worden uitgevoerd, de te hanteren methode en de eisen waaraan zal worden getoetst.
 
 ##### Artikel 14
 
-1. De erkende instantie verstrekt zonder schriftelijke toestemming van de opdrachtgever geen informatie aan derden over handelingen als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), met uitzondering van overheidsdienaren in de uitoefening van hun functie.
+1. De erkende instantie verstrekt zonder schriftelijke toestemming van de opdrachtgever geen informatie aan derden over handelingen als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), met uitzondering van overheidsdienaren in de uitoefening van hun functie.
 
-2. De erkende instantie verplicht alle bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), betrokken medewerkers tot geheimhouding als bedoeld in het eerste lid.
+2. De erkende instantie verplicht alle bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), betrokken medewerkers tot geheimhouding als bedoeld in het eerste lid.
 
 ##### Artikel 15
 
-De erkende instantie doet jaarlijks voor 1 april verslag aan de Minister, waarbij voor elke handeling als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), het aantal verrichte handelingen en het resultaat van de beoordeling wordt vermeld.
+De erkende instantie doet jaarlijks voor 1 april verslag aan de minister, waarbij voor elke handeling als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), het aantal verrichte handelingen en het resultaat van de beoordeling wordt vermeld.
 
 ##### Artikel 16
 
@@ -171,7 +177,7 @@ De erkende instantie doet jaarlijks voor 1 april verslag aan de Minister, waarbi
 
 ##### Artikel 17
 
-De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), niet uit, tenzij:
+De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), niet uit, tenzij:
 
 - a. de te hanteren methode schriftelijk is vastgelegd in een modelovereenkomst voordat de werkzaamheden worden uitbesteed;
 
@@ -179,7 +185,7 @@ De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [arti
 
 - c. het geven van een eindoordeel over de keuring of certificering voorbehouden blijft aan de erkende instantie;
 
-- d. de onderaannemer tenminste voldoet aan de eisen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=8&z=2021-02-03&g=2021-02-03), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2021-02-03&g=2021-02-03), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=10&z=2021-02-03&g=2021-02-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=13&z=2021-02-03&g=2021-02-03) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=14&z=2021-02-03&g=2021-02-03), en
+- d. de onderaannemer tenminste voldoet aan de eisen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=8&z=2025-06-12&g=2025-06-12), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2025-06-12&g=2025-06-12), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=10&z=2025-06-12&g=2025-06-12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=13&z=2025-06-12&g=2025-06-12) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=14&z=2025-06-12&g=2025-06-12), en
 
 - e. de erkende instantie waarborgt dat geen verdere onderaanbesteding dan de onderaannemer plaatsvindt.
 
@@ -607,6 +613,20 @@ De erkende instantie houdt toezicht op de juiste werking van de kwaliteitssystem
 #### § 3. Slot- en overgangsbepalingen
 
 ## Bijlage. behorend bij [artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2021-02-03&g=2021-02-03), van de Regeling erkende instanties vervoer gevaarlijke stoffen
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling is tevens gebaseerd op [artikel 6.51a, tweede lid, van de Wlv](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51a).
+
+#### § 2. Organisatorische en inhoudelijke vereisten voor erkende instanties
+
+#### § 3. Slot- en overgangsbepalingen
+
+## Bijlage. behorend bij [artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-06-12&g=2025-06-12), van de Regeling erkende instanties vervoer gevaarlijke stoffen
 
 Vervallen
 
