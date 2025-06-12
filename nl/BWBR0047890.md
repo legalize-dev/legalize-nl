@@ -4,7 +4,7 @@ identifier: "BWBR0047890"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-12"
-last_updated: "2025-03-21"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047890"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Adviescommissie:** Adviescommissie Maatwerkafspraken Verduurzaming Industrie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047890&artikel=2&z=2025-06-12&g=2025-03-21);
+- a. **Adviescommissie:** Adviescommissie Maatwerkafspraken Verduurzaming Industrie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047890&artikel=2&z=2025-06-12&g=2025-06-12);
 
 - b. **Minister:** Minister van Economische Zaken en Klimaat;
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De Adviescommissie bestaat uit een voorzitter en ten hoogste vier andere leden.
+1. De Adviescommissie bestaat uit een voorzitter en ten hoogste vijf andere leden.
 
 2. De voorzitter en andere leden worden door de Minister benoemd. De voorzitter en de andere leden kunnen door de Minister worden geschorst en ontslagen.
 
