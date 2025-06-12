@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-06-04"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -143,7 +143,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 | [Paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.4): Innovatieve projecten in de aquacultuur | [3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.4.1) |   | Innovatie in de aquacultuur | 30-04-2025 t/m 29-08-2025 | € 3.300.000 |
 | [Paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.5): Innovatieve projecten in de visserij | [3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.5.1) |   | Innovatie in de visserij | 30-04-2025 t/m 29-08-2025 | € 7.700.000 |
 | [Paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.7): Investeringen in een blackbox-systeem voor de garnalenvisserij | [3.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.7.2) |   | Het bijdragen tot een goede milieutoestand via uitvoering en monitoring van beschermde mariene gebieden. | 02-06-2025 t/m 31-07-2025 | € 1.500.000 |
-| [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.180.688 |
+| [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.260.000 |
 | [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
 | [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, eerste lid en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | a. Het behouden en aantrekken van jonge landbouwers om te kiezen voor het agrarisch ondernemerschap. | 24-03-2025 t/m 26-05-2025 | € 490.000 |
 |   | [5.6.2, eerste lid en zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | b. Het minder toepassen van het verwijderen van een deel van de staart bij biggen in de varkenshouderij | 19-02-2025 t/m 02-04-2025 | € 1.780.990,39 |
