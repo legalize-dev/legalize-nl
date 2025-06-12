@@ -4,7 +4,7 @@ identifier: "BWBR0051098"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-12"
-last_updated: "2025-03-03"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051098"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Ten behoeve van het voorkomen of het bestrijden van microbiologische verontreini
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0051098&artikel=1&z=2025-06-12&g=2025-03-03), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0051098&artikel=1&z=2025-06-12&g=2025-06-12), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -65,7 +65,7 @@ Dit besluit wordt aangehaald als: Verlenging vrijstelling Biobor JF voor vliegtu
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051098&artikel=2&z=2025-06-12&g=2025-03-03)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051098&artikel=2&z=2025-06-12&g=2025-06-12)
 
 Het biocide Biobor JF kan in Nederland gebruikt worden als toevoeging aan brandstof van vliegtuigen als er middelmatige of hoge microbiologische verontreiniging wordt vastgesteld zoals beschreven in de procedure van de Original Equipment Manufacturer (zie bijlage), onder de volgende voorwaarden:
 
