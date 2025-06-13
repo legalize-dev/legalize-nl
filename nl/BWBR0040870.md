@@ -4,7 +4,7 @@ identifier: "BWBR0040870"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-06-13"
-last_updated: "2018-09-01"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040870"
 soort: "beleidsregel"
@@ -88,11 +88,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - 1. een of meerdere certificaten waaruit blijkt dat de Nederlandse taal op of gelijkwaardig aan niveau B2 volgens het Europees Referentiekader wordt beheerst; of
 
-- 2. een diploma van hoger algemeen voortgezet onderwijs, voorbereidend wetenschappelijk onderwijs of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, gericht op doorstroming naar het hoger onderwijs met Nederlands als examenvak.
+- 2. een diploma van hoger algemeen voortgezet onderwijs, voorbereidend wetenschappelijk onderwijs of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, gericht op doorstroming naar het hoger onderwijs met Nederlands als examenvak; of
+
+- 3. een getuigschrift van een bacheloropleiding, als bedoeld in [artikel 7.3a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, van een opleiding die wordt gegeven in de Nederlandse taal en is geaccrediteerd in het land waar deze opleiding wordt gegeven.
 
 2. In aanvulling op het eerste lid kan de Minister op verzoek ook een bevoegdheid verlenen tot het geven van onderwijs op een school in het openbare lichaam Bonaire, aan degene die:
 
-- a. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2018-09-01&g=2018-09-01); en
+- a. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13); en
 
 - b. in het bezit is van:
 
@@ -102,13 +104,15 @@ In deze beleidsregel wordt verstaan onder:
 
 3. In aanvulling op het eerste lid kan de Minister op verzoek ook een bevoegdheid verlenen tot het geven van onderwijs op een school in de openbare lichamen Saba en Sint Eustatius en het geven van basisonderwijs op een afdeling van internationaal georiënteerd basisonderwijs, als bedoeld in [artikel 85a van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=85a), aan degene die:
 
-- a. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2018-09-01&g=2018-09-01); en
+- a. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13); en
 
 - b. in het bezit is van:
 
-- •. een of meerdere certificaten waaruit blijkt dat de Engelse taal op of gelijkwaardig aan niveau B2 volgens het Europees Referentiekader wordt beheerst; of
+- 1. een of meerdere certificaten waaruit blijkt dat de Engelse taal op of gelijkwaardig aan niveau B2 volgens het Europees Referentiekader wordt beheerst;
 
-- •. een diploma van hoger algemeen voortgezet onderwijs, voorbereidend wetenschappelijk onderwijs of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, gericht op doorstroming naar het hoger onderwijs met Engels als examenvak.
+- 2. een diploma van hoger algemeen voortgezet onderwijs, voorbereidend wetenschappelijk onderwijs, als bedoeld in [artikel 2.58 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, gericht op doorstroming naar het hoger onderwijs met Engels als examenvak; of
+
+- 3. een getuigschrift van een bacheloropleiding, als bedoeld in [artikel 7.3a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, van een opleiding die wordt gegeven in de Engelse taal en is geaccrediteerd in het land waar deze opleiding wordt gegeven.
 
 ##### Artikel 3. Voorwaarden voor het verkrijgen van een bevoegdheid vakonderwijs
 
@@ -122,19 +126,19 @@ In deze beleidsregel wordt verstaan onder:
 
 - 3. waaraan een opleiding ten grondslag ligt die voor wat betreft het niveau gelijkwaardig kan worden geacht aan een opleiding als bedoeld in [artikel 1.1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1); en
 
-- b. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2018-09-01&g=2018-09-01).
+- b. voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13).
 
 2. In aanvulling op het eerste lid kan de Minister op verzoek ook een bevoegdheid verlenen tot het geven van onderwijs op een school op het openbaar lichaam Bonaire in een of meerdere van de vakken bedoeld in [artikel 11 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=11), aan degene die voldoet aan de voorwaarden bedoeld in:
 
-- a. [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=3&z=2018-09-01&g=2018-09-01); en
+- a. [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=3&z=2025-06-13&g=2025-06-13); en
 
-- b. [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2018-09-01&g=2018-09-01).
+- b. [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13).
 
 3. In aanvulling op het eerste lid kan de Minister op verzoek ook een bevoegdheid verlenen tot het geven van onderwijs op een school op de openbare lichamen Saba en Sint Eustatius in een of meerdere van de vakken bedoeld in [artikel 12 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=12) en tot het geven van basisonderwijs op een afdeling van internationaal georiënteerd basisonderwijs, als bedoeld in [artikel 85a van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=85a), in een of meerdere van de vakken bedoeld in [artikel 9 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), aan degene die voldoet aan de voorwaarden bedoeld in:
 
-- a. [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=3&z=2018-09-01&g=2018-09-01); en
+- a. [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=3&z=2025-06-13&g=2025-06-13); en
 
-- b. [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2018-09-01&g=2018-09-01).
+- b. [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13).
 
 ##### Artikel 4. Reikwijdte
 
