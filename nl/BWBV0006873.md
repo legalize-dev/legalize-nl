@@ -4,7 +4,7 @@ identifier: "BWBV0006873"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-06-13"
-last_updated: "2020-10-16"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006873"
 soort: "verdrag"
@@ -91,7 +91,7 @@ Zijn het volgende overeengekomen:
 
 - e. „Staat van bestemming”: de Overeenkomstsluitende Partij die niet de Gaststaat is, op wiens grondgebied de beoogde eindbestemming van de trein ligt.
 
-- f. „Controlezone”: het deel van het grondgebied van de Gaststaat en de treinen waarbinnen de ambtenaren van de andere Staat gemachtigd zijn grenscontroles uit te voeren, zoals afgebakend in overeenstemming met regelingen die zijn getroffen tussen de Overeenkomstsluitende Partijen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=4&z=2020-10-16&g=2020-10-16) van deze Overeenkomst.
+- f. „Controlezone”: het deel van het grondgebied van de Gaststaat en de treinen waarbinnen de ambtenaren van de andere Staat gemachtigd zijn grenscontroles uit te voeren, zoals afgebakend in overeenstemming met regelingen die zijn getroffen tussen de Overeenkomstsluitende Partijen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=4&z=2025-06-13&g=2025-06-13) van deze Overeenkomst.
 
 - g. „Ambtenaren”: de personen die gemachtigd of bevoegd zijn om grenscontroles uit te voeren.
 
@@ -125,15 +125,15 @@ Zijn het volgende overeengekomen:
 
 - a. wijzen de treinstations aan; en
 
-- b. bakenen de controlezones af waarbinnen de grenscontroles bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2020-10-16&g=2020-10-16) mogen worden uitgevoerd.
+- b. bakenen de controlezones af waarbinnen de grenscontroles bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) mogen worden uitgevoerd.
 
-2. De aanwijzing van de treinstations en de afbakening van de controlezones geschiedt door middel van een administratief akkoord krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=15&z=2020-10-16&g=2020-10-16).
+2. De aanwijzing van de treinstations en de afbakening van de controlezones geschiedt door middel van een administratief akkoord krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=15&z=2025-06-13&g=2025-06-13).
 
 3. In een noodsituatie, wanneer de aard van die noodsituatie zodanig is dat de plaatselijke vertegenwoordigers van de betrokken autoriteiten niet in staat zijn om in onderlinge overeenstemming de noodzakelijke wijzigingen in de afbakening van de controlezones voorlopig in werking te laten treden, kan de Gaststaat dergelijke noodzakelijke wijzigingen eenzijdig en met onmiddellijke ingang in werking doen treden. Dergelijke wijzigingen worden zo spoedig mogelijk ter kennis gebracht van de plaatselijke vertegenwoordigers van de autoriteiten van de Staat van bestemming, indien het niet mogelijk is dit onmiddellijk te doen.
 
 ##### Artikel 5. Bevoegdheden tot aanhouden of staande houden voor strafbare feiten
 
-1. De ambtenaren van de Staat van bestemming mogen, bij de uitoefening van hun nationale bevoegdheden, personen in de uitoefening van hun functie uitsluitend aanhouden of staande houden voor de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=A&z=2020-10-16&g=2020-10-16) bij deze Overeenkomst genoemde strafbare feiten.
+1. De ambtenaren van de Staat van bestemming mogen, bij de uitoefening van hun nationale bevoegdheden, personen in de uitoefening van hun functie uitsluitend aanhouden of staande houden voor de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=A&z=2025-06-13&g=2025-06-13) bij deze Overeenkomst genoemde strafbare feiten.
 
 2. Om twijfel weg te nemen, wanneer het Protocol ophoudt van toepassing te zijn vanaf de datum waarop de Quadripartiete overeenkomst in werking treedt, blijft het volgende van toepassing:
 
@@ -145,7 +145,7 @@ Zijn het volgende overeengekomen:
 
 1. De Overeenkomstsluitende Partijen stellen elkaar langs diplomatieke weg in kennis van alle nieuwe procedurele vereisten met betrekking tot de identificatie van ambtenaren die zijn aangewezen om activiteiten uit te voeren in de controlezones op het grondgebied van de Gaststaat.
 
-2. De procedurele vereisten voor ambtenaren van het Verenigd Koninkrijk die zijn aangewezen voor het uitvoeren van activiteiten in de controlezones in Nederland zijn opgenomen in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=B&z=2020-10-16&g=2020-10-16) bij deze Overeenkomst. Het Koninkrijk der Nederlanden kan de inhoud van Bijlage B wijzigen door het Verenigd Koninkrijk daarvan overeenkomstig het eerste lid in kennis te stellen.
+2. De procedurele vereisten voor ambtenaren van het Verenigd Koninkrijk die zijn aangewezen voor het uitvoeren van activiteiten in de controlezones in Nederland zijn opgenomen in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=B&z=2025-06-13&g=2025-06-13) bij deze Overeenkomst. Het Koninkrijk der Nederlanden kan de inhoud van Bijlage B wijzigen door het Verenigd Koninkrijk daarvan overeenkomstig het eerste lid in kennis te stellen.
 
 ##### Artikel 7. Coördinatie en samenwerking tussen bevoegde autoriteiten
 
@@ -153,15 +153,15 @@ Zijn het volgende overeengekomen:
 
 - a. wijzen de bevoegde autoriteiten aan en stellen elkaar in kennis van de bevoegde autoriteiten die bevoegd zijn om besluiten te nemen met betrekking tot de veiligheid van de treinen;
 
-- b. wijzen de bevoegde autoriteiten aan en stellen elkaar in kennis van de bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2020-10-16&g=2020-10-16) bedoelde controles;
+- b. wijzen de bevoegde autoriteiten aan en stellen elkaar in kennis van de bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles;
 
-- c. voeren met elkaar overleg om vast te stellen wat zij elk nodig hebben aan lokalen, installaties en uitrusting met het oog op de uitoefening van grenscontroles overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=16&z=2020-10-16&g=2020-10-16) van het Protocol bij deze Overeenkomst;
+- c. voeren met elkaar overleg om vast te stellen wat zij elk nodig hebben aan lokalen, installaties en uitrusting met het oog op de uitoefening van grenscontroles overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=16&z=2025-06-13&g=2025-06-13) van het Protocol bij deze Overeenkomst;
 
 - d. brengen operationele samenwerking tussen hun respectieve bevoegde autoriteiten tot stand, met inbegrip van het houden van periodieke coördinatievergaderingen, operationele vergaderingen en de aanwijzing van centrale aanspreekpunten;
 
-- e. zorgen ervoor dat de bevoegde autoriteiten beschikbaar zijn tijdens de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2020-10-16&g=2020-10-16) bedoelde controles;
+- e. zorgen ervoor dat de bevoegde autoriteiten beschikbaar zijn tijdens de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles;
 
-- f. zorgen ervoor dat de passagiers toegang hebben tot de passende beroepsprocedures voor klachten die verband houden met de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2020-10-16&g=2020-10-16) bedoelde controles; dergelijke klachten vallen onder de verantwoordelijkheid van de Staat van bestemming.
+- f. zorgen ervoor dat de passagiers toegang hebben tot de passende beroepsprocedures voor klachten die verband houden met de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles; dergelijke klachten vallen onder de verantwoordelijkheid van de Staat van bestemming.
 
 ##### Artikel 8. Verwerking en uitwisseling van informatie
 
@@ -205,7 +205,7 @@ Een Protocol betreffende de uitvoering van controles ter zake van passagiers die
 
 ##### Artikel 14. Uniformen en onderscheidingstekens
 
-Bij het uitoefenen van hun functies in de Gaststaat, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2020-10-16&g=2020-10-16), in een controlezone, dragen de ambtenaren hun nationale uniformen of andere zichtbare onderscheidingstekens.
+Bij het uitoefenen van hun functies in de Gaststaat, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13), in een controlezone, dragen de ambtenaren hun nationale uniformen of andere zichtbare onderscheidingstekens.
 
 ## DEEL III. SLOTBEPALINGEN
 
@@ -247,13 +247,13 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het
 
 2. De Overeenkomst en haar Protocol treden in werking op de datum van ontvangst van de laatste van de in het eerste lid bedoelde twee kennisgevingen.
 
-3. [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=II&z=2020-10-16&g=2020-10-16) van deze Overeenkomst houdt op van toepassing te zijn op de datum waarop de Quadripartiete Overeenkomst in werking treedt.
+3. [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=II&z=2025-06-13&g=2025-06-13) van deze Overeenkomst houdt op van toepassing te zijn op de datum waarop de Quadripartiete Overeenkomst in werking treedt.
 
 4. Het Protocol bij deze Overeenkomst houdt op van toepassing te zijn op de datum waarop de Quadripartiete Overeenkomst in werking treedt.
 
 ##### Artikel 21. Voorlopige toepassing
 
-1. Elke Overeenkomstsluitende Partij kan bij de ondertekening of op enig tijdstip daarna, de andere Overeenkomstsluitende Partij er schriftelijk van in kennis stellen dat zij deze Overeenkomst en het Protocol daarbij, volledig of beperkt tot een aantal bepalingen, voorlopig zal toepassen, in afwachting van de inwerkingtreding ervan in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=20&z=2020-10-16&g=2020-10-16). Een dergelijke voorlopige toepassing treedt in werking op de datum van de laatste kennisgeving van de Overeenkomstsluitende Partij.
+1. Elke Overeenkomstsluitende Partij kan bij de ondertekening of op enig tijdstip daarna, de andere Overeenkomstsluitende Partij er schriftelijk van in kennis stellen dat zij deze Overeenkomst en het Protocol daarbij, volledig of beperkt tot een aantal bepalingen, voorlopig zal toepassen, in afwachting van de inwerkingtreding ervan in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=20&z=2025-06-13&g=2025-06-13). Een dergelijke voorlopige toepassing treedt in werking op de datum van de laatste kennisgeving van de Overeenkomstsluitende Partij.
 
 2. Een Overeenkomstsluitende Partij kan de voorlopige toepassing van deze Overeenkomst en het Protocol daarbij beëindigen door de andere Overeenkomstsluitende Partij daarvan schriftelijk in kennis te stellen. Een dergelijke beëindiging wordt van kracht op de eerste dag na het verstrijken van een tijdvak van twee maanden volgend op de datum waarop de kennisgeving is ontvangen, tenzij de Overeenkomstsluitende Partijen onderling overeenkomen om de beëindiging eerder te laten ingaan.
 
@@ -263,9 +263,9 @@ Dit Protocol is van toepassing op het treinverkeer in beide richtingen tussen de
 
 ##### Artikel 2
 
-1. De in de Gaststaat geldende wetgeving is te allen tijde van toepassing in de controlezone. Onverminderd de toepassing van de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=18&z=2020-10-16&g=2020-10-16), hebben de ambtenaren van de Gaststaat het recht om zich op elk ogenblik binnen de controlezone te verplaatsen en te interveniëren om hun door de nationale wetgeving toegekende bevoegdheden uit te oefenen.
+1. De in de Gaststaat geldende wetgeving is te allen tijde van toepassing in de controlezone. Onverminderd de toepassing van de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=18&z=2025-06-13&g=2025-06-13), hebben de ambtenaren van de Gaststaat het recht om zich op elk ogenblik binnen de controlezone te verplaatsen en te interveniëren om hun door de nationale wetgeving toegekende bevoegdheden uit te oefenen.
 
-2. Bij het uitvoeren van grenscontroles in de Gaststaat passen de ambtenaren van de Staat van bestemming de wetten en voorschriften betreffende grenscontroles in hun Staat toe en voeren zij deze in de controlezone in de Gaststaat op dezelfde wijze uit als op hun eigen grondgebied, volgens de procedure en de modaliteiten als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=3&z=2020-10-16&g=2020-10-16).
+2. Bij het uitvoeren van grenscontroles in de Gaststaat passen de ambtenaren van de Staat van bestemming de wetten en voorschriften betreffende grenscontroles in hun Staat toe en voeren zij deze in de controlezone in de Gaststaat op dezelfde wijze uit als op hun eigen grondgebied, volgens de procedure en de modaliteiten als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=3&z=2025-06-13&g=2025-06-13).
 
 ##### Artikel 3
 
@@ -273,7 +273,7 @@ Dit Protocol is van toepassing op het treinverkeer in beide richtingen tussen de
 
 - a. Er mag geen aanhouding of staandehouding plaatsvinden wegens een strafbaar feit waarvoor geen vergelijkbaar strafbaar feit bestaat naar het nationale recht van de Gaststaat.
 
-- b. Bij het uitvoeren van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=2&z=2020-10-16&g=2020-10-16) bedoelde controles kunnen de ambtenaren van de Staat van bestemming van een persoon verlangen dat deze zich aan een nader onderzoek onderwerpt om zich ervan te vergewissen dat deze persoon toestemming kan krijgen om het grondgebied van de Staat van bestemming te betreden. Personen die zich aan een nader onderzoek moeten onderwerpen, kunnen dit onderzoek te allen tijde beëindigen door af te zien van hun wens om het grondgebied van de Staat van bestemming te betreden. In dat geval wordt de persoon begeleid naar de ambtenaren van de Gaststaat, die de nodige maatregelen nemen om hem aan grenscontroles te onderwerpen.
+- b. Bij het uitvoeren van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=2&z=2025-06-13&g=2025-06-13) bedoelde controles kunnen de ambtenaren van de Staat van bestemming van een persoon verlangen dat deze zich aan een nader onderzoek onderwerpt om zich ervan te vergewissen dat deze persoon toestemming kan krijgen om het grondgebied van de Staat van bestemming te betreden. Personen die zich aan een nader onderzoek moeten onderwerpen, kunnen dit onderzoek te allen tijde beëindigen door af te zien van hun wens om het grondgebied van de Staat van bestemming te betreden. In dat geval wordt de persoon begeleid naar de ambtenaren van de Gaststaat, die de nodige maatregelen nemen om hem aan grenscontroles te onderwerpen.
 
 - c. Elke aangehouden of staande gehouden persoon wordt, samen met de eventueel in beslag genomen goederen, onmiddellijk overgedragen aan de bevoegde autoriteiten van de Gaststaat. De Gaststaat ziet erop toe dat de bevoegde autoriteiten beschikbaar zijn om een dergelijke persoon op te vangen en de nodige maatregelen te nemen.
 
@@ -313,7 +313,7 @@ Het binnenbrengen in de Staat van bestemming van huisdieren die de reizigers bij
 
 ##### Artikel 10
 
-1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=9&z=2020-10-16&g=2020-10-16) bedoelde controles omvatten:
+1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=9&z=2025-06-13&g=2025-06-13) bedoelde controles omvatten:
 
 - a. onderzoek van de certificaten of begeleidende documenten, documentaire inspectie genaamd;
 
@@ -339,7 +339,7 @@ De ambtenaren van de Staat van bestemming mogen in de Gaststaat hun nationale un
 
 ##### Artikel 14
 
-1. Onverminderd de toepassing van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=11&z=2020-10-16&g=2020-10-16) van de Overeenkomst worden de vorderingen tot vergoeding voor verlies, verwondingen of schade die ambtenaren van de Staat van bestemming hebben veroorzaakt of die zij hebben geleden tijdens de uitoefening van hun functie in de Gaststaat, beheerst door het recht en de rechtsmacht van de Staat waaronder deze ambtenaren ressorteren, als ware de schade in deze Staat ontstaan.
+1. Onverminderd de toepassing van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=11&z=2025-06-13&g=2025-06-13) van de Overeenkomst worden de vorderingen tot vergoeding voor verlies, verwondingen of schade die ambtenaren van de Staat van bestemming hebben veroorzaakt of die zij hebben geleden tijdens de uitoefening van hun functie in de Gaststaat, beheerst door het recht en de rechtsmacht van de Staat waaronder deze ambtenaren ressorteren, als ware de schade in deze Staat ontstaan.
 
 2. De ambtenaren van de Staat van bestemming kunnen niet door de autoriteiten van de Gaststaat worden vervolgd voor handelingen die zij in de controlezone hebben verricht tijdens de uitoefening van hun functie. In dit geval vallen zij onder de rechtsmacht van hun Staat, als waren de handelingen in deze Staat verricht.
 
