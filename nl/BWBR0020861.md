@@ -4,7 +4,7 @@ identifier: "BWBR0020861"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2014-04-01"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020861"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit opsporing terroristische misdrijven.
 
-## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2014-04-01&g=2014-04-01)
+## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2025-06-16&g=2025-06-16)
 
 ### Veiligheidsrisicogebieden
 
@@ -208,9 +208,9 @@ Het gebied ingesloten door:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-### World Forum – Internationale Zone te Den Haag
+### Aanrijroute Schiphol richting World Forum te Den Haag
 
-Het gebied ingesloten door de volgende straten:
+Het gebied – de hoofdroute vanaf Schiphol naar het World Forum – dat de autosnelwegen A5, A4 en de A44 omvat alsmede de N14 Landscheidingsweg, de N4400 Landscheidingsweg, de Hubertustunnel S200, de Professor B.M. Teldersweg (S200) en de Johan de Wittlaan. Het gebied omvat mede de stroken land, niet zijnde bebouwing, van 250 meter aan weerszijden van deze route.
 
 Vanaf de Scheveningseweg loopt de grens naar de Van Stolkweg ter hoogte van perceel nummer 15 over het daar gelegen fietspad
 
@@ -222,17 +222,17 @@ Het gebied – de hoofdroute vanaf Schiphol naar het World Forum – dat de auto
 
 Het gebied, begrensd en inclusief:
 
-aan de westzijde:
+Het gebied omvat de volgende aanrijroute: Ludolph Tappenbeckweg- Oude Zeeweg- Beeklaan- N206-aansluiting op de hoofdroute A44 de aanrijroute van Grand Hotel Huis ter Duin richting het World Forum te Den Haag – De Grent.
 
 aan de zuidzijde:
 
-aan de oostzijde:
+Het gebied begrensd en inclusief:
 
-aan de noordzijde:
+Houtrustweg tot aan het strand, Haven, inclusief 1e en 2e binnenhaven, Zeesluisweg, Strandweg, Zwolsestraat, Van Alkemadelaan, Benoordenhoutseweg, Landscheidingsweg, Margarethaland, Finnenburg, Schenkkade, Schenkviaduct, Rijswijkseplein, Waldorpstraat, Calandstraat, Parallelweg, Fruitweg, Troelstrakade, Soestdijksekade, Zuiderparklaan, Valkenboskade, Loosduinsekade, Valkenboskade, Hanenburglaan, Segbroeklaan en Houtrustweg.
 
-### Huis ter Duin en Hotels van Oranje te Noordwijk
+### Gebied Rotterdam
 
-Het gebied, begrensd en inclusief:
+Het gebied begrensd en inclusief (alle snelwegen):
 
 aan de westzijde:
 
@@ -269,5 +269,19 @@ aan de oostzijde:
 ### Okurahotel te Amsterdam
 
 Het gebied, begrensd door en inclusief:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Gebieden rondom de luchthaven Schiphol
+
+Aan het veiligheidsrisicogebied rondom de luchthaven Schiphol wordt het gebied toegevoegd, begrensd door en inclusief:
+
+### Gebied Noordwijk
+
+Het gebied, begrensd en inclusief:
+
+### Aanrijroute Huis ter Duin te Noordwijk richting het World Forum te Den Haag
+
+### Gebied Den Haag
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
