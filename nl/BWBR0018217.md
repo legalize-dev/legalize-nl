@@ -4,7 +4,7 @@ identifier: "BWBR0018217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-18"
-last_updated: "2023-01-01"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018217"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. een terroristische dreiging vanuit de lucht: een civiel vliegtuig dat zich gedraagt op een zodanige wijze dat het vermoeden rijst dat het mogelijk gebruikt wordt als een middel voor het plegen van een terroristisch misdrijf;
+- a. een terroristische dreiging vanuit de lucht: een civiel luchtvaartuig dat zich gedraagt op een zodanige wijze dat het vermoeden rijst dat het mogelijk gebruikt wordt als een middel voor het plegen van een terroristisch misdrijf;
 
 - b. Master Controller: de dienstdoende Master Controller bij het Air Operations and Control Station van de Koninklijke Luchtmacht te Nieuw Milligen (AOCS NM);
 
-- c. Quick Reaction Alert (QRA): twee bewapende F-16 jachtvliegtuigen van de Koninklijke Luchtmacht;
+- c. Quick Reaction Alert (QRA): twee bewapende F-35 jachtvliegtuigen van de Koninklijke Luchtmacht;
 
 - d. Militaire bijstand: bijstand ingevolge [artikel 58 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) voor de strafrechtelijke handhaving van de rechtsorde;
 
@@ -64,11 +64,11 @@ In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lu
 
 ##### Artikel 3. Terroristische dreiging vanuit de lucht
 
-1. De NAVO, de Master Controller, dan wel de Minister van Justitie en Veiligheid kan een civiel vliegtuig aanmerken als een terroristische dreiging vanuit de lucht.
+1. De NAVO, de Master Controller, dan wel de Minister van Justitie en Veiligheid kan een civiel luchtvaartuig aanmerken als een terroristische dreiging vanuit de lucht.
 
-2. Voor het aanmerken van een civiel vliegtuig als een terroristische dreiging vanuit de lucht zijn de criteria van de NAVO van toepassing. Deze criteria zijn opgenomen in het Nationaal Actieplan.
+2. Voor het aanmerken van een civiel luchtvaartuig als een terroristische dreiging vanuit de lucht zijn de criteria van de NAVO van toepassing. Deze criteria zijn opgenomen in het Nationaal Actieplan.
 
-3. De Minister van Justitie en Veiligheid kan ook op andere gronden een civiel vliegtuig aanmerken als een terroristische dreiging vanuit de lucht.
+3. De Minister van Justitie en Veiligheid kan ook op andere gronden een civiel luchtvaartuig aanmerken als een terroristische dreiging vanuit de lucht.
 
 4. Van een terroristische dreiging vanuit de lucht is in ieder geval sprake indien wordt voldaan aan ten minste twee van de in het tweede lid bedoelde criteria.
 
@@ -78,15 +78,15 @@ In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lu
 
 - a. het luchtruim te kiezen;
 
-- b. een civiel vliegtuig te naderen ten behoeve van de verificatie van informatie over dit vliegtuig;
+- b. een civiel luchtvaartuig te naderen ten behoeve van de verificatie van informatie over dit luchtvaartuig;
 
-- c. het geven van (visuele) signalen aan een civiel vliegtuig.
+- c. het geven van (visuele) signalen aan een civiel luchtvaartuig.
 
 2. De Master Controller alarmeert de Minister van Justitie en Veiligheid zodra de QRA het luchtruim kiest en hij informeert hem onverwijld en voortdurend over:
 
 - a. de reden voor de inzet van de QRA;
 
-- b. alle bij de Master Controller bekende informatie over het civiele vliegtuig, waaronder de positie, het type en de vluchtgegevens;
+- b. alle bij de Master Controller bekende informatie over het civiele luchtvaarttuig, waaronder de positie, het type en de vluchtgegevens;
 
 - c. de overeenkomstig het eerste lid verstrekte opdrachten, en
 
@@ -96,11 +96,11 @@ In aangelegenheden waarin sprake is van een terroristische dreiging vanuit de lu
 
 ##### Artikel 5. Overgang van de verantwoordelijkheid van de Minister van Defensie naar de Minister van Justitie en Veiligheid
 
-1. Vanaf het moment dat de NAVO, de Master Controller, dan wel de Minister van Justitie en Veiligheid, overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018217&artikel=3&z=2023-01-01&g=2023-01-01), een civiel vliegtuig aanmerkt als een terroristische dreiging vanuit de lucht, is de Minister van Justitie en Veiligheid bevoegd via de Master Controller aanwijzingen te geven aan de QRA. Alsdan vindt inzet van de QRA plaats onder verantwoordelijkheid van de Minister van Justitie en Veiligheid.
+1. Vanaf het moment dat de NAVO, de Master Controller, dan wel de Minister van Justitie en Veiligheid, overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018217&artikel=3&z=2025-06-18&g=2025-06-18), een civiel luchtvaartuig aanmerkt als een terroristische dreiging vanuit de lucht, is de Minister van Justitie en Veiligheid bevoegd via de Master Controller aanwijzingen te geven aan de QRA. Alsdan vindt inzet van de QRA plaats onder verantwoordelijkheid van de Minister van Justitie en Veiligheid.
 
-2. De Minister van Justitie en Veiligheid kan via de Master Controller de QRA, naast de opdrachten genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018217&artikel=4&z=2023-01-01&g=2023-01-01), met inachtneming van de beginselen van proportionaliteit en subsidiariteit, opdracht geven tot:
+2. De Minister van Justitie en Veiligheid kan via de Master Controller de QRA, naast de opdrachten genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018217&artikel=4&z=2025-06-18&g=2025-06-18), met inachtneming van de beginselen van proportionaliteit en subsidiariteit, opdracht geven tot:
 
-- a. het afdwingen van een koerswijziging en/of landing van het civiele vliegtuig zonder het gebruik van geweld;
+- a. het afdwingen van een koerswijziging en/of landing van het civiele luchtvaarttuig zonder het gebruik van geweld;
 
 - b. het lossen van een waarschuwingsschot;
 
