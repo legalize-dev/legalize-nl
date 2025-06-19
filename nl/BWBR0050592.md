@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-06-12"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -72,6 +72,7 @@ Besluiten:
 |   | [3.10.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.12b) | Seed business angel fondsen |   |   | 01-01-2025 t/m 31-12-2025 | € 4.000.000 |
 | [Titel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.11): Borgstelling MKB-kredieten | [3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.11.2) | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883)) Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) |   |   | 01-01-2025 t/m 31-12-2025 | € 758.900.000 |
 | [Titels 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.13) en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.14): Garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties | [3.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.13.2) en [3.14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.14.2) |   |   |   | 01-01-2025 t/m 01-07-2025 | € 400.000.000 |
+|   |   |   |   |   | 02-07-2025 t/m 31-12-2025 | € 200.000.000 |
 | [Titel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16): Vroegefasefinanciering | [3.16.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.1c) | Regionale Financier |   |   | 01-01-2025 t/m 31-12-2025 | € 18.000.000 |
 |   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   |   | 01-01-2025 t/m 31-12-2025 | € 2.250.000 |
 |   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |   |   | 06-01-2025 t/m 04-03-2025 | € 4.950.000 |
