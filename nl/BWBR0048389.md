@@ -4,7 +4,7 @@ identifier: "BWBR0048389"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-17"
-last_updated: "2023-07-13"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048389"
 soort: "zbo"
@@ -57,15 +57,31 @@ Het bestuur kent in het kader van deze regeling subsidies toe aan samenwerkingsv
 
 ##### Artikel 1.3. Subsidieperiode
 
-Subsidie wordt verstrekt voor een periode van twee kalenderjaren.
+Subsidie wordt verstrekt voor de periode 2026 tot en met 2028.
 
 ##### Artikel 1.4. Subsidieplafonds
 
-1. Het bestuur kan een of meer subsidieplafonds vaststellen.
+1. Voor subsidieverstrekking op grond van deze regeling geldt een subsidieplafond van 2.000.000 euro per kalenderjaar voor de periode 2026–2028 met deelplafonds per landsdeel.
 
-2. Het bestuur kan eerder vastgestelde subsidieplafonds verhogen of verlagen.
+2. De deelplafonds per landsdeel bedragen voor de periode 2026–2028 per kalenderjaar:
 
-3. Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt via de website van het Fonds Podiumkunsten.
+- a. Landsdeel Noord 285.714 euro
+
+- b. Landsdeel Oost 285.714 euro
+
+- c. Landsdeel Midden 285.714 euro
+
+- d. Landsdeel Zuid 285.714 euro
+
+- e. Landsdeel West 285.714 euro
+
+3. Voor Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten tezamen is voor de periode 2026–2028 per kalenderjaar een budget beschikbaar van 285.714 euro.
+
+4. Voor de periode 2026–2028 is per kalenderjaar een flexibel budget beschikbaar ten bedrage van 285.714 euro.
+
+5. De bedragen genoemd in de eerste vier leden van dit artikel gelden als subsidieplafond in de zin van [artikel 4:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25).
+
+6. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt door kennisgeving van het besluit in de Staatscourant.
 
 ##### Artikel 1.5. Weigeringsgronden
 
@@ -85,7 +101,7 @@ Subsidie wordt verstrekt voor een periode van twee kalenderjaren.
 
 - g. als de aanvraag niet aan het bepaalde in deze regeling voldoet.
 
-2. Het bestuur weigert de subsidie als de aanvrager een meerjarige instellingssubsidie ontvangt van het Fonds Podiumkunsten of de Minister van Onderwijs, Cultuur en Wetenschap.
+2. Het bestuur weigert de subsidie als de aanvrager een meerjarige productiesubsidie 2025–2028 dan wel een meerjarige festivalsubsidie 2025–2028 ontvangt van het Fonds Podiumkunsten of een meerjarige instellingssubsidie ontvangt van de Minister van Onderwijs, Cultuur en Wetenschap.
 
 3. De subsidie wordt in ieder geval geweigerd indien de aanvrager in de aanvraag niet verklaart dat het samenwerkingsverband de Fair Practice Code en de Code Diversiteit en Inclusie onderschrijft, dat het zich inzet om de culturele codes toe te passen in het beleid en de uitvoering van de ondersteunde activiteiten, en dit via concrete acties kan aantonen.
 
@@ -97,7 +113,7 @@ De aanvraag wordt ingediend door een van de samenwerkingspartners van het samenw
 
 ##### Artikel 2.2. Indienen aanvraag
 
-1. Het bestuur stelt vast wanneer aanvraagrondes plaatsvinden. De bijbehorende indiendata worden bekendgemaakt via de website van het Fonds Podiumkunsten.
+1. Het bestuur stelt vast wanneer aanvraagrondes plaatsvinden. De bijbehorende indiendata worden bekendgemaakt door kennisgeving van het besluit in de Staatscourant.
 
 2. Een aanvraag wordt digitaal ingediend met behulp van een door het bestuur opgesteld formulier.
 
@@ -113,9 +129,29 @@ De aanvraag wordt ingediend door een van de samenwerkingspartners van het samenw
 
 ##### Artikel 2.4. Verdeling budget
 
-1. Per landsdeel wordt een aanvraag gehonoreerd. De aanvraag die het beste aansluit op de beoordelingscriteria wordt gehonoreerd.
+1. Aanvragen met een eindscore van minimaal 5 punten komen in aanmerking voor honorering binnen het landsdeel waarin is aangevraagd.
 
-2. In de situatie dat in een of meer landsdelen het subsidieplafond niet wordt bereikt, kan het bestuur besluiten om het resterende budget toe te voegen aan de subsidieplafonds van een of meer van de overige landsdelen.
+2. Indien een deelplafond in een landsdeel ontoereikend is om alle aanvragen te honoreren die daarvoor in aanmerking komen, worden de aanvragen per landsdeel in een rangorde geplaatst op basis van het totaal behaalde aantal punten. De aanvraag die de meeste punten scoort wordt als eerste gehonoreerd. Telkens wordt de daaropvolgende aanvraag die de meeste punten scoort als eerste gehonoreerd.
+
+3. Indien meerdere aanvragen in een landsdeel dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het subsidieplafond in het betreffende landsdeel zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
+
+- i. Op basis van de toegekende score op het beoordelingscriterium de kwaliteit van de beoogde samenwerking;
+
+- ii. De alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het beoordelingscriterium de ontwikkelmogelijkheden van de talenten;
+
+- iii. De alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het beoordelingscriterium duurzaamheid van de samenwerking;
+
+- iv. De alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het beoordelingscriterium begroting en (co)financiering.
+
+4. Aanvragen die na toepassing van het derde lid alsnog gelijk eindigen in de rangorde, worden verdeeld door middel van loting door een notaris.
+
+5. In de situatie dat in een of meer landsdelen het subsidieplafond niet wordt bereikt, kan het bestuur besluiten om het resterende budget toe te voegen aan de deelplafonds van een of meer van de overige landsdelen dan wel aan het subsidieplafond van flexibel budget.
+
+6. Het flexibel budget is bestemd voor één of meerdere aanvragen die in de landsdelen voor honorering in aanmerking komen en niet kunnen worden gehonoreerd uit de subsidieplafonds als bedoeld in [artikel 1.4 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.4&z=2025-06-19&g=2025-06-19) van deze regeling nadat het beschikbare budget in alle landsdelen is verdeeld.
+
+7. Bij de verdeling van het flexibel budget wordt aanvullend gekeken naar de bijdrage die de in [artikel 2.4, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=2&artikel=2.4&z=2025-06-19&g=2025-06-19) van deze regeling genoemde aanvragen leveren aan de pluriformiteit van het totaal van de samenwerkingsverbanden voor talentontwikkeling op het gebied van popmuziek, hiphopmuziek en dancemuziek en daarmee verder bijdragen aan de doelstelling van de regeling zoals opgenomen in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.2&z=2025-06-19&g=2025-06-19). Dit is afhankelijk van de gehonoreerde aanvragen in de landsdelen en het landelijke veld dat daarmee is ontstaan.
+
+8. Subsidie wordt niet toegekend wanneer het toe te kennen bedrag minder dan 75% van het aangevraagde bedrag bedraagt.
 
 ##### Artikel 2.5. Besluit
 
@@ -153,9 +189,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 ##### Artikel 3.4. Subsidiehoogte
 
-1. De subsidie bedraagt maximaal 166.670 euro per aanvrager.
+1. De subsidiehoogte voor een bijdrage binnen deze regeling bedraagt minimaal 100.000 euro en maximaal 285.714 euro per kalenderjaar.
 
 2. Van het toegekende subsidiebedrag mag maximaal een percentage van 25% worden besteed aan organisatie- en overheadkosten.
+
+3. Het bestuur kan ten nadele van de subsidieontvanger afwijken van het bepaalde in het eerste lid indien een strikte toepassing hiervan zou leiden tot een kennelijk onredelijk resultaat.
 
 #### Paragraaf 4. Verplichtingen en verantwoording
 
