@@ -4,7 +4,7 @@ identifier: "BWBR0049730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-21"
-last_updated: "2024-07-01"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049730"
 soort: "ministeriele-regeling"
@@ -49,20 +49,21 @@ Als soorten van zoogdieren als bedoeld in [artikel 4.14 van het Besluit houders 
 | Ezel | Equus asinus |
 | Paard | Equus caballus |
 | Hond | Canis lupus familiaris |
-| Kat | Felis catus |
+| Huiskat | Felis Silvestris catus |
 | Rund | Bos taurus |
 | Schaap | Ovis aries |
-| Geit | Capra hircus |
-| Varken | Sus scrofa |
-| Lama | Lama glama (Guanaco familiaris) |
+| Geit | Capra aegagrus hircus |
+| Varken | Sus scrofa domesticus |
+| Lama | Lama glama |
 | Alpaca | Vicugna pacos |
 | Kameel | Camelus bactrianus |
-| Konijn | Oryctolagus cuniculus |
-| Bruine rat | Rattus norvegicus |
-| Tamme muis/huismuis | Mus musculus |
+| Konijn | Oryctolagus cuniculus domesticus |
+| Bruine rat | Rattus norvegicus (forma domestica) |
+| Huismuis | Mus musculus (forma domestica) |
 | Cavia | Cavia porcellus |
-| Goudhamster | Mesocricetus auratus |
-| Gerbil | Meriones unguiculatus |
+| Goudhamster | Mesocricetus auratus (forma domestica) |
+| Mongoolse Gerbil | Meriones unguiculatus (forma domestica) |
+| Fret | Mustela putorius furo |
 
 ##### Artikel 2. Inwerkingtreding
 
