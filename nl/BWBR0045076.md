@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-02-14"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -216,63 +216,97 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 1. Het DGD bestaat uit de volgende organisatieonderdelen:
 
-- a. Douane Landelijk Kantoor, dat bestaat uit de volgende onderdelen:
+- a. De directie Strategie, Beleid & Internationaal, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd, waarvan één tevens de rol van plaatsvervangend directeur vervult:
 
-- i. Handhavingsbeleid, dat onder leiding staat van een directeur. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider. Een van de teamleiders1In het O&F-rapport genoemd plv. directeur. vervult daarbij de rol van plaatsvervangend directeur;
+- i. Strategie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- ii. Bedrijfsvoering, dat onder leiding staat van een directeur. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider. Een van de teamleiders2In het O&F-rapport genoemd plv. directeur. vervult daarbij de rol van plaatsvervangend directeur;
+- ii. Beleid, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- iii. Informatiemanagement, dat onder leiding staat van een directeur. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider. Een van de teamleiders3In het O&F-rapport genoemd plv. directeur. vervult daarbij de rol van plaatsvervangend directeur Informatiemanagement;
+- iii. Internationaal, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
 
-- iv. Operaties, dat onder leiding staat van een directeur. Het onderdeel bestaat uit een aantal teams, elk onder leiding van een teamleider. Een van de teamleiders4In het O&F-rapport genoemd plv. directeur. vervult daarbij de rol van plaatsvervangend directeur;
+- b. De directie Operaties, die onder leiding staat van een directeur. De directie bestaat uit:
 
-- v. Douane Centrale Processen, dat onder leiding staat van een directeur. Het onderdeel bestaat uit diverse teams onder leiding van een teamleider, waarbij één van de teamleiders tevens de rol heeft van plaatsvervangend afdelingshoofd Douane Centrale Processen;
+- i. Bureau Operaties, dat onder leiding staat van de adjunct directeur Operaties. Het Bureau Operaties bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
 
-- vi. Bureau DG, dat onder leiding staat van een hoofd;
+- a. Strategie & Projecten, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- b. De directie Finance & Control, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
+- b. Domein & Operatie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- i. Concern Control, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd de rol van plaatsvervangend directeur vervult;
+- ii. De acht regiokantoren;
 
-- ii. Business Control, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider;
+- a. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd1In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd2In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- iii. Financial Control & Business Intelligence, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider;
+- b. Regiokantoor Douane Arnhem, dat onder leiding staat van een afdelingshoofd3In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd4In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- iv. Risk & Compliance, die is onverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider.
+- c. Regiokantoor Douane Breda, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- c. Het Bureau Veiligheid & Integriteit, dat onder leiding staat van een hoofd. Het Bureau Veiligheid & Integriteit is onderverdeeld in onderdelen en staan onder leiding van het hoofd of een teamleider.
+- d. Regiokantoor Douane Eindhoven, dat onder leiding staat van een afdelingshoofd7In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd8In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- d. Acht regiokantoren, die onder leiding staan van de onder lid 1 a. iv. genoemde directeur, te weten:
+- e. Regiokantoor Douane Groningen, dat onder leiding staat van een afdelingshoofd9In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd10In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- i. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur. , een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- f. Regiokantoor Douane Rotterdam Haven, dat onder leiding staat van een afdelingshoofd11In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd12In het O&F-rapport genoemd plv. regiodirecteur. en vier hoofden13In het O&F-rapport genoemd unitmanager.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- ii. Regiokantoor Douane Arnhem, dat onder leiding staat van een afdelingshoofd7In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd8In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- g. Regiokantoor Douane Schiphol Cargo, dat onder leiding staat van een afdelingshoofd14In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd15In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- iii. Regiokantoor Douane Breda, dat onder leiding staat van een afdelingshoofd9In het O&F-rapport genoemd regiodirecteur. een plaatsvervangend afdelingshoofd10In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- h. Regiokantoor Douane Schiphol Passagiers, dat onder leiding staat van een afdelingshoofd16In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd17In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
-- iv. Regiokantoor Douane Eindhoven, dat onder leiding staat van een afdelingshoofd11In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd12In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- iii. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd18In het O&F-rapport genoemd directeur., een plaatsvervangend afdelingshoofd19In het O&F-rapport genoemd plv. directeur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider.
 
-- v. Regiokantoor Douane Groningen, dat onder leiding staat van een afdelingshoofd13In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd14In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- c. De directie Mensen & Middelen, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd. waarvan één tevens de rol van plaatsvervangend directeur vervult:
 
-- vi. Regiokantoor Douane Rotterdam Haven, dat onder leiding staat van een afdelingshoofd15In het O&F-rapport genoemd regiodirecteur. , een plaatsvervangend afdelingshoofd16In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- i. Instroom, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- vii. Regiokantoor Douane Schiphol Cargo, dat onder leiding staat van een afdelingshoofd17In het O&F-rapport genoemd regiodirecteur. , een plaatsvervangend afdelingshoofd18In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- ii. HR Advies & Expertise, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- viii. Regiokantoor Douane Schiphol Passagiers, dat onder leiding staat van een afdelingshoofd19In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd20In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider.
+- iii. Groei & Ontwikkeling, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- e. Twee landelijke onderdelen, die onder leiding staan van een directeur, te weten:
+- iv. Middelen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
 
-- i. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd21In het O&F-rapport genoemd directeur. , een plaatsvervangend afdelingshoofd22In het O&F-rapport genoemd plv. directeur. en een hoofd. Het onderdeel bestaat uit diverse teams onder leiding van een teamleider;
+- d. De directie Informatietechnologie, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
 
-- ii. Douane Landelijke Service Organisatie, dat onder leiding staat van een afdelingshoofd23In het O&F-rapport genoemd directeur. . Het onderdeel bestaat uit diverse teams onder leiding van een teamleider, waarbij één teamleider tevens de rol heeft van plaatsvervangend afdelingshoofd.
+- i. CIO-office, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;h
+
+- ii. IT Dienstverlening & Beheer, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+- iii. IT Primaire Processen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+- iv. IT Data & Digitalisering, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+- v. Het team IT Staf, dat onder leiding staat van een teamleider;
+
+- vi. Het team IT Strategie en Programma’s, dat onder leiding staat van een teamleider;
+
+- vii. Het team Verandermanagement, dat onder leiding staat van de directeur Informatietechnologie.
+
+- e. De directie Finance & Control, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
+
+- i. Concern Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+- ii. Business Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+- iii. Financial Control & Business Intelligence, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+- iv. Risk & Compliance, die is onverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
+
+- f. Douane Diensten Centrum, dat onder leiding staat van een directeur. Het onderdeel is onderverdeeld in teams, elk onder leiding van het afdelingshoofd of een teamleider. Het afdelingshoofd is tevens plaatsvervangend directeur.
+
+- g. Het Bureau Directeur-Generaal, dat onder leiding staat van een hoofd.
+
+- h. Het Bureau Juridische Zaken, dat onder leiding staat van een hoofd.
+
+- i. Het Bureau Veiligheid & Integriteit, dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
+
+- j. Het Bureau Communicatie dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
 
 2. Er is een Managementteam Douane.
 
 - a. Het Managementteam Douane is verantwoordelijk voor het realiseren van de doelen en de uitvoering van taken en opdrachten en geeft richting aan de sturing van het DGD, waarbij de DGD eindverantwoordelijkheid draagt.
 
-- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de directeuren genoemd in het eerste lid, onder a, i. tot en met iv, het hoofd genoemd in het eerste lid, onder a, subonderdeel vi, en de directeur genoemd in het eerste lid, onder b.
+- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de directeuren genoemd in het eerste lid, onder a tot en met e, en het hoofd, genoemd in het eerste lid, onder g.
 
-3. Eén van de in het tweede lid onder b genoemde directeuren vervult tevens de rol van de plaatsvervangend DG Douane.
+- c. De hoofden genoemd in het eerste lid, onder h tot en met j, maken geen deel uit van het Managementteam Douane. Zij ontvangen de stukken, kunnen agendapunten aandragen voor het Managementteam Douane en kunnen deelnemen aan de besprekingen, voor zover agendapunten hun werkterrein raken.
+
+3. Twee van de in het tweede lid, onder b, genoemde directeuren vervullen tevens de rol van plaatsvervangend DGD.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -442,17 +476,19 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7e. Directie Informatiestromen & Digitale Ontwikkeling
 
-1. De directie Informatiestromen & Digitale Ontwikkeling staat onder leiding van een directeur.
+1. De directie Informatiestromen & Digitale Ontwikkeling staat onder leiding van een directeur, tevens Chief Information Officer van Dienst Toeslagen.
 
 2. De directie Informatiestromen & Digitale Ontwikkeling heeft de taken behorende bij de CIO-Office.
 
-3. De directie Informatiestromen & Digitale Ontwikkeling bestaat uit de volgende teams:
+3. De directie Informatiestromen & Digitale Ontwikkeling bestaat uit de volgende afdelingen:
 
-- a. het team Change, dat onder leiding staat van een manager;
+- a. de afdeling Product en Porfolio, dat onder leiding staat van een afdelingshoofd;
 
-- b. het team CIO Office, dat onder leiding staat van een manager.
+- b. de afdeling Architectuur en Strategie, dat onder leiding staat van een afdelingshoofd; en
 
-4. Een van de managers, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend directeur.
+- c. de afdeling Bureau CIO, dat onder leiding staat van een afdelingshoofd.
+
+4. Het afdelingshoofd van Bureau CIO, bedoeld in het derde lid, onderdeel c, vervult tevens de rol van plaatsvervangend directeur.
 
 ##### Artikel 7f. Directie Control & Risk
 
