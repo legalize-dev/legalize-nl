@@ -4,7 +4,7 @@ identifier: "BWBR0049611"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-21"
-last_updated: "2024-07-01"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049611"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Als diersoorten als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](http
 | Algerijnse gerbil | Gerbillus nanus |
 | Alpaca | Vicugna pacos |
 | Bleke gerbil | Gerbillus perpallidus |
-| Bruine rat | Rattus norvegicus |
+| Bruine rat | Rattus norvegicus (forma domestica) |
 | Bunzing | Mustela putorius |
 | Cavia | Cavia porcellus |
 | Chinese dwerghamster | Cricetulus barabensis / griseus / pseudogriseus |
@@ -59,16 +59,16 @@ Als diersoorten als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](http
 | Ezel | Equus asinus |
 | Fret | Mustela putorius furo |
 | Geit | Capra aegagrus hircus |
-| Goudhamster | Mesocricetus auratus |
+| Goudhamster | Mesocricetus auratus (forma domestica) |
 | Grote Egyptische renmuis | Gerbillus pyramidum |
 | Harrington’s gerbil | Taterillus harringtoni |
 | Hond | Canis lupus familiaris |
 | Huiskat | Felis silvestris catus |
-| Huismuis | Mus musculus |
+| Huismuis | Mus musculus (forma domestica) |
 | Kameel | Camelus bactrianus |
 | Konijn | Oryctolagus cuniculus domesticus |
 | Lama | Lama glama |
-| Mongoolse gerbil | Meriones unguiculatus |
+| Mongoolse gerbil | Meriones unguiculatus (forma domestica) |
 | Noordafrikaanse renmuis | Gerbillus garamantis |
 | Paard | Equus caballus |
 | Rund | Bos taurus |
@@ -87,7 +87,7 @@ Aan de volgende houders wordt vrijstelling verleend van het verbod, bedoeld in [
 
 - c. exploitanten van een dierentuin waaraan een vergunning is verleend als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.2);
 
-- d. opvangcentra waaraan het op grond van een omgevingsvergunning voor een flora- en fauna-activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onderdeel g, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in samenhang met de [artikelen 11.46](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), [11.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47) en [11.54 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), of een maatwerkvoorschrift als bedoeld in [artikel 11.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.31) in samenhang met de [artikelen 11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96) en [11.101 van Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101), is toegestaan om dieren van soorten, genoemd in die artikelen, onder zich te hebben en die voldoen aan de [bijlage bij de Beleidsregel kwaliteit en opvang diersoorten](onbekend);
+- d. opvangcentra waaraan het op grond van een omgevingsvergunning voor een flora- en fauna-activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onderdeel g, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in samenhang met de [artikelen 11.46](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), [11.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47) en [11.54 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), of een maatwerkvoorschrift als bedoeld in [artikel 11.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.31) in samenhang met de [artikelen 11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96), [11.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101) en [11.108 van Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.108), is toegestaan om dieren van soorten, genoemd in die artikelen, onder zich te hebben en die voldoen aan de [bijlage bij de Beleidsregel kwaliteit en opvang diersoorten](onbekend);
 
 - e. opslaghouders die dieren houden in opdracht van de Minister van Landbouw, Natuur en Voedselkwaliteit en die voldoen aan de [bijlage bij de Beleidsregel kwaliteit en opvang diersoorten](onbekend);
 
@@ -99,7 +99,7 @@ Aan de volgende houders wordt vrijstelling verleend van het verbod, bedoeld in [
 
 ##### Artikel 3. Overgangsrecht voor het houden van dieren van niet aangewezen soorten
 
-1. Aan degene die op het moment van inwerkingtreding van dit besluit dieren houdt van een soort die niet is aangewezen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049611&artikel=1&z=2024-07-01&g=2024-07-01), wordt vrijstelling verleend van het verbod, bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) voor het houden van de op dat moment gehouden dieren, en wanneer een dier op dat moment drachtig is, voor het houden van de desbetreffende nakomelingen van dat dier.
+1. Aan degene die op het moment van inwerkingtreding van dit besluit dieren houdt van een soort die niet is aangewezen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049611&artikel=1&z=2025-06-21&g=2025-06-21), wordt vrijstelling verleend van het verbod, bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) voor het houden van de op dat moment gehouden dieren, en wanneer een dier op dat moment drachtig is, voor het houden van de desbetreffende nakomelingen van dat dier.
 
 2. De vrijstelling, bedoeld in het eerste lid, is uitsluitend van toepassing op dieren ten aanzien waarvan de houder een maatregel heeft getroffen om te voorkomen dat het zich voortplant.
 
@@ -109,7 +109,7 @@ Aan de volgende houders wordt vrijstelling verleend van het verbod, bedoeld in [
 
 ##### Artikel 4. Algemene vrijstelling voor het houden dieren van niet aangewezen soorten als productiedier en voor het houden van dieren voor vertoning
 
-1. Houders als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049611&artikel=2&z=2024-07-01&g=2024-07-01), zijn tevens vrijgesteld van [artikel 2.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3) en [artikel 4.2, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.2).
+1. Houders als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049611&artikel=2&z=2025-06-21&g=2025-06-21), zijn tevens vrijgesteld van [artikel 2.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3) en [artikel 4.2, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.2).
 
 2. Aan degenen die op het moment van inwerkingtreding van dit besluit dromedarissen (Camelus dromedarius) houden met het oog op de productie van die dieren afkomstige producten wordt vrijstelling verleend van het verbod, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), en het verbod, bedoeld in [artikel 2.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3).
 
