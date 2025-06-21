@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-06-01"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -178,13 +178,17 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - g. het Waarborgfonds Motorverkeer;
 
-- h. de Waarderingskamer.
+- h. de Waarderingskamer;
+
+- i. de Auditdienst Rijk;
+
+- j. de dienst Domeinen Roerende Zaken.
 
 De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in beginsel bij genoemde organisaties.
 
 4. De pSG vervult een beheersmatige rol ten aanzien van de Auditdienst Rijk gelet op de positie van de Auditdienst Rijk in het controlebestel.
 
-5. De pSG draagt zorg voor de voorbereiding van de overleggen tussen bestuurder en de medezeggenschap en tussen bestuurder en de vakbonden.
+5. De pSG draagt zorg voor de voorbereiding van de overleggen tussen de bestuurder en de ondernemingsraad van het beleidsdepartement en de departementale ondernemingsraad. De pSG draagt ook zorg voor de voorbereiding van de overleggen tussen de bestuurder en de vakbonden.
 
 6. De pSG vertegenwoordigt het kernministerie in interdepartementaal overleg.
 
@@ -288,9 +292,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-06-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2025-06-21) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-06-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2025-06-21) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -432,7 +436,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2025-02-11&g=2025-06-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2025-06-21&g=2025-06-21). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -484,7 +488,9 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - h. het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit van het Ministerie van Financiën en van de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
-- i. kwaliteitsbewaker van de juridische functie binnen het Ministerie van Financiën.
+- i. kwaliteitsbewaker van de juridische functie binnen het Ministerie van Financiën;
+
+- j. aangelegenheden betreffende de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
 2. De directie Juridische Zaken bestaat uit een afdeling Publiekrecht en een afdeling Privaatrecht.
 
@@ -1110,7 +1116,7 @@ De Generale Thesaurie bestaat uit de volgende organisatieonderdelen:
 
 - c. de directie Buitenlandse Financiële Betrekkingen;
 
-- d. de directie Financieringen;
+- d. de directie Deelnemingen;
 
 - e. de programmadirectie Herstel- en Veerkrachtplan.
 
@@ -1328,9 +1334,9 @@ De Generale Thesaurie:
 
 - iii. Voorbereiden van het Nederlandse beleid ten aanzien van ontwikkelingsbanken en -fondsen EBRD en EIB en financiële aspecten ontwikkelingssamenwerking.
 
-##### Artikel 41. Directie Financieringen
+##### Artikel 41. Directie Deelnemingen
 
-1. De Directie Financieringen heeft de volgende doelstellingen:
+1. De Directie Deelnemingen heeft de volgende doelstellingen:
 
 - a. Het beheer van staatsdeelnemingen;
 
@@ -1338,7 +1344,7 @@ De Generale Thesaurie:
 
 - c. Het onderzoeken van en adviseren over strategische en bedrijfseconomische vraagstukken rondom staatsdeelnemingen.
 
-2. De directie Financieringen bestaat uit de volgende organisatieonderdelen:
+2. De Directie Deelnemingen bestaat uit de volgende organisatieonderdelen:
 
 - a. de afdeling Deelnemingen Financiële Instellingen, Transport & Kansspelen (Deelnemingen FTK);
 
@@ -1408,9 +1414,9 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-06-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2025-06-21) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-02-11&g=2025-06-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-06-21&g=2025-06-21), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1592,7 +1598,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2025-02-11&g=2025-06-01) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2025-06-21&g=2025-06-21) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
