@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2023-02-28"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 
 - c. het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44);
 
-- d. dit onderdeel is nog niet in werking getreden;
+- d. het op 15 mei 2009 te Hongkong tot stand gekomen Internationaal verdrag voor het veilig en milieuvriendelijk recyclen van schepen (Trb. 2010, 227 en 2017, 29) alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;
 
 - e. het op 7 juli 1995 te Londen tot stand gekomen Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen (Trb. 2013, 218);
 
