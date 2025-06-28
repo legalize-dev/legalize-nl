@@ -4,7 +4,7 @@ identifier: "BWBR0018277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2004-11-01"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018277"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren bedoeld in [artikel 10, vierde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10) worden aangewezen de ambtenaren van de divisies Scheepvaart en Vervoer van de Inspectie Verkeer en Waterstaat.
+Als ambtenaren bedoeld in [artikel 10, vierde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10) worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 2
 
