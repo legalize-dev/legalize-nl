@@ -4,7 +4,7 @@ identifier: "BWBR0018307"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2005-05-17"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018307"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van [Verordening (EG) nr. 725/2004](32004R0725) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), alsmede van het bepaalde bij of krachtens de Havenbeveiligingswet zijn belast de inspecteurs van de Inspectie Verkeer en Waterstaat.
+Met het toezicht op de naleving van [Verordening (EG) nr. 725/2004](32004R0725) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), alsmede van het bepaalde bij of krachtens de Havenbeveiligingswet zijn belast de inspecteurs van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 2
 
