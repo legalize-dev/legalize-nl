@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2019-04-01"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -70,7 +70,9 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=3), [4, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=5), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=6b), [6c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=6c), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=7a), [8, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8), [8, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8a), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8b), [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8c), [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=9a), en [10 van de Regeling havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=10);
 
-- –. de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=27) en [35 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=35).
+- –. de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=27) en [35 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=35);
+
+- –. [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
 
 ##### Artikel 2
 
@@ -101,5 +103,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 2b
 
 Deze regeling – voor zover die berustte op de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) – berust mede op [artikel 16 van de Wet scheepsuitrusting 2016](onbekend).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2c*
+
+Dit besluit berust mede op [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
