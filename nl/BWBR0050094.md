@@ -4,7 +4,7 @@ identifier: "BWBR0050094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2024-09-16"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050094"
 soort: "ministeriele-regeling"
@@ -48,21 +48,23 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 ##### Artikel 2
 
-1. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 worden ingediend vanaf 1 oktober 2024, 9.00 uur Nederlandse tijd tot en met 30 juni 2025, 12.00 uur Nederlandse tijd.
+1. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 worden ingediend vanaf 1 oktober 2024, 9.00 uur Nederlandse tijd tot en met 30 juni 2026, 12.00 uur Nederlandse tijd.
 
-2. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 worden ingediend vanaf 2 januari 2026, 9.00 uur Nederlandse tijd tot en met 30 september 2026, 12.00 uur Nederlandse tijd.
+2. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 worden ingediend vanaf 1 september 2026, 9.00 uur Nederlandse tijd tot en met 31 maart 2027, 12.00 uur Nederlandse tijd.
 
 3. Aanvragen voor een subsidie in het kader van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 worden ingediend aan de hand van het daartoe door de minister vastgestelde aanvraagformulier en voorzien van de op het aanvraagformulier vermelde bescheiden.1[https://www.rvo.nl/sectorale-samenwerking](http://www.rvo.nl/sectorale-samenwerking).
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2029 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050094&artikel=2&z=2024-09-16&g=2024-09-16), een subsidieplafond van:
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2029 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050094&artikel=2&z=2025-06-28&g=2025-06-28), een subsidieplafond van:
 
 - a. € 4,275 miljoen voor activiteiten van ondernemingen en maatschappelijke organisaties om binnen een IMVO-sectorovereenkomst internationale waardeketens te verduurzamen (eerste pijler).
 
 - b. € 3 miljoen voor de ondersteuning van maatschappelijke organisaties voor hun rol bij de implementatie van IMVO-sectorovereenkomsten (tweede pijler).
 
-2. Voor subsidieverlening in het kader van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 geldt voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050094&artikel=2&z=2024-09-16&g=2024-09-16), een nader bekend te maken subsidieplafond.
+2. Indien na toepassing van het eerste lid een deel van het subsidieplafond resteert, wordt dit toegevoegd aan het subsidieplafond van de desbetreffende pijler voor de tweede openstelling van het Subsidieprogramma Sectorale Samenwerking IMVO 2024-2029.
+
+3. Voor subsidieverlening in het kader van het Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029 geldt voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050094&artikel=2&z=2025-06-28&g=2025-06-28), een nader bekend te maken subsidieplafond.
 
 ##### Artikel 4
 
@@ -182,9 +184,9 @@ De activiteiten in het kader van de eerste pijler moeten in minimaal 1 en maxima
 
 De subsidie bedraagt per aanvraag maximaal 70% van de subsidiabele kosten tot een maximum van € 225.000 euro per jaar, waarbij de kosten van maatschappelijk organisaties 100% subsidiabel kunnen zijn (hetgeen leidt tot een hogere eigen bijdrage van de andere partners in het samenwerkingsverband om te kunnen voldoen aan de totale eigen bijdrage van 30%).
 
-Het deel van de totale subsidiabele kosten waarvoor geen subsidie wordt verstrekt moet door de aanvragers van de subsidie zelf worden gefinancierd, dit wordt ook wel de eigen bijdrage genoemd. Dit mag niet worden gefinancierd met middelen die verkregen zijn door middel van een directe of indirecte subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken.
+De omvang van de aangevraagde subsidie is niet lager dan € 150.000.
 
-Voor de eerste openstelling van het subsidieprogramma geldt bij een aanvraag voor activiteiten die in 3 jaar worden uitgevoerd een maximum subsidie van € 675.000,– per aanvraag van een samenwerkingsverband per IMVO-sectorovereenkomst.
+Het deel van de totale subsidiabele kosten waarvoor geen subsidie wordt verstrekt moet door de aanvragers van de subsidie zelf worden gefinancierd, dit wordt ook wel de eigen bijdrage genoemd. Dit mag niet worden gefinancierd met middelen die verkregen zijn door middel van een directe of indirecte subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken.
 
 ### II.1.7. Staatssteun
 
@@ -192,21 +194,23 @@ De subsidie aan ondernemingen, waaronder mogelijk ook maatschappelijke organisat
 
 ### II.2. Aanvraag
 
-### II.2.1. Vereisten
+### II.2. Aanvraag
+
+De aanvraag wordt in de Engelse taal ingediend door de penvoerder met gebruikmaking van een daartoe op [www.rvo.nl/sectorale-samenwerking beschikbaar](http://www.rvo.nl/sectorale-samenwerking beschikbaar) gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
 
 De aanvraag wordt in de Engelse taal ingediend door de penvoerder met gebruikmaking van een daartoe op [www.rvo.nl/sectorale-samenwerking beschikbaar](http://www.rvo.nl/sectorale-samenwerking beschikbaar) gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
 
 De aanvraag bevat in ieder geval:
 
-Ondernemingen die een aanvraag indienen, verklaren dat ze op de hoogte zijn van, en zullen handelen in overeenstemming met, de OESO-richtlijnen voor multinationale ondernemingen. Door dit te verklaren, bevestigen ondernemingen dat ze gepaste zorgvuldigheid uitvoeren om (potentiële) negatieve effecten op mens en milieu in hun eigen activiteiten en hun waardeketen te identificeren, voorkomen, beperken en hier transparant over te communiceren. Ondernemingen verklaren ook dat ze geen activiteiten ondernemen die op de FMO-uitsluitingenlijst26[www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list), onderdelen 02 tot en met 08, staan. Ondernemingen moeten signalen of omstandigheden die duiden op een schending van de OESO-richtlijnen onmiddellijk melden aan RVO, waaronder schendingen van mensenrechten of significante milieuschade.
-
 ### II.2.2. Herstelperiode
 
 In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
 
-Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de penvoerder het risico op afwijzing van de aanvraag.
+In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
 
 ### II.3. Beoordeling en verdeling beschikbare middelen
+
+De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366)zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van de eerste pijler. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in het subsidieprogramma met betrekking tot de eerste pijler zijn neergelegd.
 
 De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366)zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van de eerste pijler. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in het subsidieprogramma met betrekking tot de eerste pijler zijn neergelegd.
 
@@ -218,13 +222,11 @@ De verdeling van de middelen vindt plaats op basis van volgorde van binnenkomst 
 
 De volgende criteria zijn van toepassing:
 
-RVO kan bij de beoordeling van de aanvragen extern advies inwinnen.
+### III. Tweede pijler: maatschappelijke organisaties in IMVO partnerschappen
 
 ### III. Tweede pijler: maatschappelijke organisaties in IMVO partnerschappen
 
 ### III.1. Doel(groep) en activiteiten
-
-### III.1.1. Doel
 
 De tweede pijler biedt ondersteuning voor maatschappelijke organisaties om hun kennis te ontsluiten en zo een belangrijke rol te kunnen spelen bij de implementatie van de IMVO-sectorovereenkomsten. Maatschappelijke organisaties dragen bij aan de vermindering van IMVO-risico’s in waardeketens zoals deze zijn vastgelegd in de IMVO-sectorovereenkomsten.
 
@@ -236,19 +238,19 @@ De doelgroep betreft maatschappelijke organisaties die deelnemen aan een IMVO-se
 
 Subsidies zijn bedoeld voor samenwerkingsverbanden van maatschappelijke organisaties behorend bij IMVO-sectorovereenkomst, namens welke een penvoerder een subsidie aanvraagt. De penvoerder is een statutair in Nederland gevestigde maatschappelijke organisatie en heeft over de afgelopen 2 jaar een minimale jaarbegroting van € 0,5 miljoen en kan dit aantonen aan de hand van een jaarverslag van die periode.
 
-Dit samenwerkingsverband bestaat alleen uit maatschappelijke organisaties die partij zijn bij en/of deelnemen aan de implementatie van een reeds ondertekend IMVO-sectorovereenkomst, dat door de SER wordt begeleid. In het geval dat de Rijksoverheid, waaronder ten minste de minister, deelneemt als extra partner wordt gesproken over een IMVO-convenant, welke in het kader van dit subsidieprogramma ook aan te merken is als IMVO-sectorovereenkomst.
+Subsidies zijn bedoeld voor samenwerkingsverbanden van maatschappelijke organisaties behorend bij een IMVO-sectorovereenkomst of daarbij betrokken als door de IMVO-sectorovereenkomst goedgekeurde steunbetuigende organisaties (waarbij deze steunbetuigende organisatie aantoonbaar door de stuurgroep van de IMVO-sectorovereenkomst moet zijn goedgekeurd), namens welke een penvoerder een subsidie aanvraagt. De penvoerder is een statutair in Nederland gevestigde maatschappelijke organisatie en heeft over de afgelopen 2 jaar een minimale jaarbegroting van € 0,5 miljoen en kan dit aantonen aan de hand van een jaarverslag van die periode.
+
+Dit samenwerkingsverband bestaat uit maatschappelijke organisaties die partij zijn bij en/of deelnemen aan de implementatie van een reeds ondertekend IMVO-sectorovereenkomst die door de SER wordt begeleid, of daarbij betrokken zijn als goedgekeurde steunbetuigende organisatie. In het geval de rijksoverheid, waaronder ten minste de Minister, deelneemt als partner wordt gesproken over een IMVO-convenant, welke in het kader van dit subsidieprogramma ook aan te merken is als IMVO-sectorovereenkomst.
 
 Geen partner bij het samenwerkingsverband mogen zijn maatschappelijke organisaties waaraan reeds een instellingssubsidie is verleend door het Ministerie van Buitenlandse Zaken voor een looptijd die het tijdvak van de gevraagde subsidie (deels) beslaat.
-
-Om in aanmerking te kunnen komen voor een subsidie moet de penvoerder aantonen dat hij en zijn partners een integriteitsbeleid hebben vastgesteld en dat hij en zijn partners procedures hebben ingevoerd om aan dat beleid toepassing te kunnen geven. Dit integriteitsbeleid en deze procedures zijn er om ernstige vormen van grensoverschrijdend gedrag, daaronder begrepen seksuele misdragingen, jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft, door de penvoerder, zijn partners en de door hen ingeschakelde partijen, zo veel mogelijk te voorkomen, in voorkomend geval te onderzoeken, met passende maatregelen zo spoedig mogelijk te doen beëindigen en de gevolgen daarvan te mitigeren. De procedures zijn zodanig ingericht dat een tijdige melding van incidenten aan RVO (als uitvoerder voor de minister van dit subsidieprogramma) is gewaarborgd.
 
 ### III.1.4. Subsidiabele activiteiten
 
 Subsidiabel zijn activiteiten gericht op het behalen van de doelstellingen van de IMVO-sectorovereenkomst.
 
-Het kan gaan om de volgende twee soorten subsidiabele activiteiten:
+Subsidiabel zijn activiteiten gericht op het behalen van de doelstellingen van de IMVO-sectorovereenkomst.
 
-Niet subsidiabel zijn de activiteiten waarvoor de IMVO-sectorovereenkomst reeds een subsidie of een bijdrage heeft ontvangen van het Ministerie van Buitenlandse Zaken.
+Het kan gaan om de volgende twee soorten subsidiabele activiteiten:
 
 ### III.1.5. Duur activiteiten
 
@@ -258,13 +260,13 @@ De activiteiten in het kader van de tweede pijler moeten binnen 5 jaar uitgevoer
 
 Het maximale subsidiebedrag dat voor subsidiabele activiteiten kan worden verkregen is € 150.000 op jaarbasis aan inzet per IMVO-sectorovereenkomst voor de resterende programmaperiode van het partnerschap, en uiterlijk tot en met 31 december 2029.
 
-De subsidie wordt per soort subsidiabele activiteit apart aangevraagd. Het totale subsidiebedrag per activiteitensoort is maximaal € 150.000 op jaarbasis. Bij een looptijd van minder dan 1 jaar geldt dat de hoogte van het maximale subsidiebedrag wordt bepaald naar rato van het aantal maanden waarin de activiteiten waarop de subsidieaanvraag betrekking heeft worden uitgevoerd.
+Het maximale subsidiebedrag dat voor subsidiabele activiteiten kan worden verkregen is € 150.000 op jaarbasis aan inzet per IMVO-sectorovereenkomst voor de resterende programmaperiode van het partnerschap, en uiterlijk tot en met 31 december 2029.
 
 ### III.1.7. Staatssteun
 
-De subsidie aan maatschappelijke organisaties27Als maatschappelijke organisaties economische activiteiten uitvoeren. kan staatssteun betreffen en geoorloofd worden verstrekt door toepassing van de De-minimisverordening. Zie verder paragraaf II.1.7.
+Voor samenwerkingsverbanden waarbij minimaal 45 partners zijn aangesloten, geldt dat de hiervoor genoemde maxima van € 150.000 voor het maximale subsidiebedrag en het totale subsidiebedrag per activiteitensoort, voor het jaar 2026 worden verhoogd naar € 200.000.
 
-### III.2. Aanvraag
+### III.1.7. Staatssteun
 
 ### III.2.1. Vereisten
 
@@ -274,15 +276,77 @@ De aanvraag bevat in ieder geval cv’s van medewerkers, een activiteitenplan en
 
 ### III.2.2. Herstelperiode
 
-In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
+De aanvraag bevat in ieder geval cv’s van medewerkers, een activiteitenplan en een begroting. Daarnaast geeft de aanvraag een duidelijke omschrijving van de rolverdeling tussen de maatschappelijke organisaties die partij zijn bij de IMVO-sectorovereenkomst.
 
 Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de penvoerder het risico op afwijzing van de aanvraag.
 
 ### III.3. Beoordeling en verdeling beschikbare middelen
 
+Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de penvoerder het risico op afwijzing van de aanvraag.
+
+Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan de hiervoor, in het bijzonder de in paragraaf I, III.1 en III.2 opgenomen vereisten. Slechts de aanvragen die daaraan voldoen, worden inhoudelijk beoordeeld op het voldoen aan de hierna volgende criteria. Daaraan moet eveneens (in voldoende mate) worden voldaan om in aanmerking te kunnen komen voor subsidie.
+
 De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), [het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van de tweede pijler. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in dit subsidieprogramma met betrekking tot de tweede pijler zijn neergelegd.
 
 Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan de hiervoor, in het bijzonder de in paragraaf I, III.1 en III.2 opgenomen vereisten. Slechts de aanvragen die daaraan voldoen, worden inhoudelijk beoordeeld op het voldoen aan de hierna volgende criteria. Daaraan moet eveneens (in voldoende mate) worden voldaan om in aanmerking te kunnen komen voor subsidie.
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+Voor de eerste openstelling van het subsidieprogramma geldt bij een aanvraag voor activiteiten die in 3 jaar worden uitgevoerd een maximum subsidie van € 675.000,– per aanvraag van een samenwerkingsverband, en geldt voor de aanvragen een maximum subsidie van € 1.068.000 in totaal per IMVO-sectorovereenkomst.
+
+### II.1.7. Staatssteun
+
+De subsidie aan ondernemingen, waaronder mogelijk ook maatschappelijke organisaties24Als maatschappelijke organisaties economische activiteiten uitvoeren. die als partner in een samenwerkingsverband deelnemen, kan staatssteun betreffen en geoorloofd worden verstrekt door toepassing van de De-minimisverordening, welke inhoudt dat onder voorwaarden een maximale subsidie van € 300.000,– per onderneming per 36 maanden kan worden verleend. Hiervoor dient door elke onderneming in het samenwerkingsverband die subsidie ontvangt een De-minimisverklaring te worden ingevuld en bij de aanvraag opgenomen te worden.
+
+### II.2.1. Vereisten
+
+Ondernemingen die een aanvraag indienen, verklaren dat ze op de hoogte zijn van, en zullen handelen in overeenstemming met, de OESO-richtlijnen voor multinationale ondernemingen. Door dit te verklaren, bevestigen ondernemingen dat ze gepaste zorgvuldigheid uitvoeren om (potentiële) negatieve effecten op mens en milieu in hun eigen activiteiten en hun waardeketen te identificeren, voorkomen, beperken en hier transparant over te communiceren. Ondernemingen verklaren ook dat ze geen activiteiten ondernemen die op de FMO-uitsluitingenlijst26[www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list), onderdelen 02 tot en met 08, staan. Ondernemingen moeten signalen of omstandigheden die duiden op een schending van de OESO-richtlijnen onmiddellijk melden aan RVO, waaronder schendingen van mensenrechten of significante milieuschade.
+
+### II.2.2. Herstelperiode
+
+Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de penvoerder het risico op afwijzing van de aanvraag.
+
+### II.3. Beoordeling en verdeling beschikbare middelen
+
+RVO kan bij de beoordeling van de aanvragen extern advies inwinnen.
+
+### III.1.1. Doel
+
+De tweede pijler biedt ondersteuning voor maatschappelijke organisaties om hun kennis te ontsluiten en zo een belangrijke rol te kunnen spelen bij de implementatie van de IMVO-sectorovereenkomsten. Maatschappelijke organisaties dragen bij aan de vermindering van IMVO-risico’s in waardeketens zoals deze zijn vastgelegd in de IMVO-sectorovereenkomsten.
+
+### III.1.2. Doelgroep
+
+De doelgroep betreft maatschappelijke organisaties die deelnemen aan een IMVO-sectorovereenkomst. De werkzaamheden voor het partnerschap sluiten aan bij de kernactiviteiten van de maatschappelijke organisaties.
+
+### III.1.3. Wie kunnen in aanmerking komen voor een subsidie
+
+Om in aanmerking te kunnen komen voor een subsidie moet de penvoerder aantonen dat hij en zijn partners een integriteitsbeleid hebben vastgesteld en dat hij en zijn partners procedures hebben ingevoerd om aan dat beleid toepassing te kunnen geven. Dit integriteitsbeleid en deze procedures zijn er om ernstige vormen van grensoverschrijdend gedrag, daaronder begrepen seksuele misdragingen, jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft, door de penvoerder, zijn partners en de door hen ingeschakelde partijen, zo veel mogelijk te voorkomen, in voorkomend geval te onderzoeken, met passende maatregelen zo spoedig mogelijk te doen beëindigen en de gevolgen daarvan te mitigeren. De procedures zijn zodanig ingericht dat een tijdige melding van incidenten aan RVO (als uitvoerder voor de minister van dit subsidieprogramma) is gewaarborgd.
+
+### III.1.4. Subsidiabele activiteiten
+
+Niet subsidiabel zijn de activiteiten waarvoor de IMVO-sectorovereenkomst reeds een subsidie of een bijdrage heeft ontvangen van het Ministerie van Buitenlandse Zaken.
+
+### III.1.5. Duur activiteiten
+
+De activiteiten in het kader van de tweede pijler moeten binnen 5 jaar uitgevoerd worden, tenzij de looptijd van de IMVO-sectorovereenkomst korter is, en zijn uiterlijk per 31 december 2029 afgerond. De uitvoering van de activiteiten moet uiterlijk 6 maanden na indiening van de aanvraag van start gaan.
+
+### III.1.6. Omvang van de subsidie
+
+De subsidie wordt per soort subsidiabele activiteit apart aangevraagd. Het totale subsidiebedrag per activiteitensoort is maximaal € 150.000 op jaarbasis. Bij een looptijd van minder dan 1 jaar geldt dat de hoogte van het maximale subsidiebedrag wordt bepaald naar rato van het aantal maanden waarin de activiteiten waarop de subsidieaanvraag betrekking heeft worden uitgevoerd.
+
+De subsidie aan maatschappelijke organisaties27Als maatschappelijke organisaties economische activiteiten uitvoeren. kan staatssteun betreffen en geoorloofd worden verstrekt door toepassing van de De-minimisverordening. Zie verder paragraaf II.1.7.
+
+### III.2. Aanvraag
+
+### III.2.1. Vereisten
+
+De aanvraag voor de tweede pijler wordt ingediend door de penvoerder met gebruikmaking van een daartoe op [www.rvo.nl/sectorale-samenwerking beschikbaar](http://www.rvo.nl/sectorale-samenwerking beschikbaar) gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
+
+### III.2.2. Herstelperiode
+
+In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
+
+### III.3. Beoordeling en verdeling beschikbare middelen
 
 De verdeling van de middelen vindt plaats op basis van volgorde van binnenkomst van de aanvragen.
 
