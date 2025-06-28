@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2024-05-17"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2024-05-17&g=2024-05-17), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2025-06-28&g=2025-06-28), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
@@ -188,9 +188,11 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 2. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een beschikking van de minister van Sociale Zaken en Werkgelegenheid overlegt waaruit blijkt dat hij op grond van [artikel 6, eerste lid, aanhef en onder b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), zoals deze wet luidde op 30 september 2017, is ontheven van de inburgeringsplicht wegens aantoonbaar geleverde inspanningen om aan die plicht te voldoen.
 
-3. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een advies van de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap overlegt inhoudende dat ondanks aantoonbaar geleverde inspanningen van hem niet kan worden verwacht dat hij de naturalisatietoets met succes aflegt.
+3. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een beschikking van het college van burgemeester en wethouders overlegt waaruit blijkt dat hij op grond van [artikel 31, tweede lid, onder c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=31), zoals deze wet luidde op 31 december 2012, is ontheven van de inburgeringsplicht omdat het college op grond van door de inburgeringsplichtige aantoonbaar geleverde inspanningen tot het oordeel komt dat het voor hem redelijkerwijs niet mogelijk is het inburgeringsexamen te behalen.
 
-4. DUO geeft het in het derde lid bedoelde advies in ieder geval op diens verzoek af aan de vreemdeling die:
+4. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een advies van de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap overlegt inhoudende dat ondanks aantoonbaar geleverde inspanningen van hem niet kan worden verwacht dat hij de naturalisatietoets met succes aflegt.
+
+5. DUO geeft het in het vierde lid bedoelde advies in ieder geval op diens verzoek af aan de vreemdeling die:
 
 - a. ten minste driemaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het staatsexamen Nederlands als tweede taal betreffen, en ten minste 600 uur bij een cursusinstelling met het Blik op Werk-keurmerk heeft deelgenomen aan:
 
@@ -206,9 +208,9 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 - c. ten minste 600 uur heeft deelgenomen aan een combinatie van een alfabetiseringscursus en een inburgeringscursus, beide aan een cursusinstelling met het Blik op Werk Keurmerk, waarvan ten minste 300 uur besteed is aan de alfabetiseringscursus, en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
 
-5. Ter zake van de door DUO afgenomen toets, bedoeld in het vierde lid, onder b en c, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
+6. Ter zake van de door DUO afgenomen toets, bedoeld in het vijfde lid, onder b en c, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
 
-6. Het derde tot en met vijfde lid is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
+7. Het vierde tot en met zesde lid is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
 
 #### § 5. Overgangs- en slotbepalingen
 
