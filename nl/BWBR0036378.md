@@ -4,7 +4,7 @@ identifier: "BWBR0036378"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036378"
 soort: "ministeriele-regeling"
@@ -174,61 +174,61 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 2. : radioapparaten bestemd voor DECT
 
-### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
@@ -384,7 +384,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. Voor het gebruik van radioapparaten aan boord van andere dan Nederlandse schepen, als bedoeld in [artikel 10.15, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), met uitzondering van maritiem mobiele communicatie vanaf het land, zijn de [artikelen 7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [9 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=9) van overeenkomstige toepassing.
+1. Voor het gebruik van radioapparaten aan boord van andere dan schepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, als bedoeld in [artikel 10.15, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), met uitzondering van maritiem mobiele communicatie vanaf het land, zijn de [artikelen 7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [9 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=9) van overeenkomstige toepassing.
 
 2. Voor het gebruik van radioapparaten door niet-ingezeten van Nederland die tijdelijk hier te lande verblijven, als bedoeld in [artikel 10.15, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), zijn de [artikelen 7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [10, eerste en tweede lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10) van overeenkomstige toepassing.
 
@@ -394,7 +394,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlagen
 
-### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
@@ -438,7 +438,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2025-07-01&g=2025-07-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
