@@ -4,7 +4,7 @@ identifier: "BWBR0005260"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2008-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005260"
 soort: "AMvB"
@@ -54,11 +54,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. verdragsregister: verdragsregister als bedoeld in [artikel 781, onder c, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=781);
 
-- c. brandmerk: het in [artikel 21, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=21) bedoelde brandmerk, aangebracht op het schip overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2008-01-01&g=2008-01-01);
+- c. brandmerk: het in [artikel 21, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=21) bedoelde brandmerk, aangebracht op het schip overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2025-07-01&g=2025-07-01);
 
 - d. verplaatsing van een binnenschip: hetgeen daaronder wordt verstaan in [artikel 785, tweede lid, onder a, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=785);
 
-- e. branden: het duurzaam aanbrengen van een brandmerk.
+- e. branden: het duurzaam aanbrengen van een brandmerk;
+
+- f. NSI-nummer: door Onze Minister van Infrastructuur en Waterstaat aan een zeeschip toegekend nationaal scheepsidentificatienummer;
+
+- g. rijkswet: [Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148);
+
+- h. vlagregister: vlagregister als bedoeld in de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148).
 
 ##### Artikel 2
 
@@ -78,7 +84,7 @@ De verplichtingen welke krachtens dit besluit rusten op de eigenaar van een schi
 
 ##### Artikel 4
 
-Indien een schip tot een andere rubriek dan die waarin het te boek staat gaat behoren, is de eigenaar verplicht een nieuwe teboekstelling te verzoeken met inachtneming van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2008-01-01&g=2008-01-01) en [16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01), met dien verstande dat de overlegging van de stukken, genoemd in [artikel 16, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01), niet is vereist. In het verzoek tot een nieuwe teboekstelling moet de bestaande worden vermeld. De bestaande teboekstelling wordt doorgehaald met inachtneming van de [artikelen 28 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2008-01-01&g=2008-01-01).
+Indien een schip tot een andere rubriek dan die waarin het te boek staat gaat behoren, is de eigenaar verplicht een nieuwe teboekstelling te verzoeken met inachtneming van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01) en [16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01), met dien verstande dat de overlegging van de stukken, genoemd in [artikel 16, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01), niet is vereist. In het verzoek tot een nieuwe teboekstelling moet de bestaande worden vermeld. De bestaande teboekstelling wordt doorgehaald met inachtneming van de [artikelen 28 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 5
 
@@ -100,7 +106,7 @@ Vervallen
 
 1. De teboekstelling vindt plaats door de inschrijving van het verzoek tot teboekstelling in de openbare registers.
 
-2. De teboekstelling van schepen geschiedt voor ieder schip onder een eigen nummer. De gebruikte nummers van de rubriek Nederlandse zeeschepen, de rubriek zeevissersschepen en de rubriek binnenschepen vormen elk een ononderbroken reeks.
+2. De teboekstelling van schepen geschiedt voor ieder schip onder een eigen nummer.
 
 ##### Artikel 8a
 
@@ -112,7 +118,7 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op sch
 
 1. De bewaarder geeft voor een te boek staand binnenschip aan de eigenaar een certificaat af waarop staan vermeld de gegevens, bedoeld in [artikel 85, tweede lid, onder a, met uitzondering evenwel van gegevens met betrekking tot beperkt gerechtigden, onder c, sub 2°, onder d tot en met g, en onder i en l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85).
 
-2. Indien het schip in een verdragsregister te boek staat, wordt geen certificaat afgegeven dan nadat voldaan is aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2008-01-01&g=2008-01-01) gestelde voorwaarden.
+2. Indien het schip in een verdragsregister te boek staat, wordt geen certificaat afgegeven dan nadat voldaan is aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01) gestelde voorwaarden.
 
 3. Indien er wijzigingen optreden in de op het certificaat vermelde gegevens betreffende het te boek staande binnenschip, levert de eigenaar het certificaat bij de bewaarder in. Aan hem wordt door de bewaarder een nieuw certificaat afgegeven, waarop de wijzigingen zijn aangebracht.
 
@@ -120,7 +126,7 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op sch
 
 ##### Artikel 10
 
-1. Voor een verloren geraakt, versleten, geheel of ten dele onleesbaar of te niet gegaan afgegeven certificaat kan door de bewaarder een vervangend certificaat worden uitgereikt. Het certificaat, waarvoor het vervangende certificaat in de plaats komt, verliest zijn geldigheid, evenals een duplicaat hetwelk is afgegeven overeenkomstig [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2008-01-01&g=2008-01-01).
+1. Voor een verloren geraakt, versleten, geheel of ten dele onleesbaar of te niet gegaan afgegeven certificaat kan door de bewaarder een vervangend certificaat worden uitgereikt. Het certificaat, waarvoor het vervangende certificaat in de plaats komt, verliest zijn geldigheid, evenals een duplicaat hetwelk is afgegeven overeenkomstig [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01).
 
 2. De bewaarder tekent op het vervangende certificaat de reden van de vervanging aan.
 
@@ -128,7 +134,7 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op sch
 
 ##### Artikel 11
 
-Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2008-01-01&g=2008-01-01) bedoelde certificaten en duplicaten van certificaten.
+Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01) bedoelde certificaten en duplicaten van certificaten.
 
 ### Hoofdstuk 3. Teboekstelling
 
@@ -140,21 +146,21 @@ Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid
 
 2. Een schip in aanbouw kan worden te boek gesteld, zodra de bewaarder aannemelijk is gemaakt dat met de bouw van het schip is begonnen en dat het schip in Nederland in aanbouw is.
 
-3. [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2008-01-01&g=2008-01-01), is van toepassing. Indien het verzoek een binnenschip in aanbouw betreft, zijn bovendien de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=17&z=2008-01-01&g=2008-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2008-01-01&g=2008-01-01) van toepassing. Indien het verzoek een zeeschip in aanbouw of een zeevissersschip in aanbouw betreft, is bovendien [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=19&z=2008-01-01&g=2008-01-01) van toepassing.
+3. [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01), is van toepassing. Indien het verzoek een binnenschip in aanbouw betreft, zijn bovendien de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=17&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01) van toepassing. Indien het verzoek een zeeschip in aanbouw of een zeevissersschip in aanbouw betreft, is bovendien [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=19&z=2025-07-01&g=2025-07-01) van toepassing.
 
 ##### Artikel 13
 
-1. Hij, te wiens name een zeeschip in aanbouw of een zeevissersschip in aanbouw te boek staat, is verplicht na de afbouw en voordat hij het schip aan een ander levert een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2008-01-01&g=2008-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2008-01-01&g=2008-01-01) van toepassing. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2008-01-01&g=2008-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01) zijn niet van toepassing, met dien verstande dat bij het verzoek wordt overgelegd de meetbrief, afgegeven volgens de bestaande wettelijke voorschriften.
+1. Hij, te wiens name een zeeschip in aanbouw of een zeevissersschip in aanbouw te boek staat, is verplicht na de afbouw en voordat hij het schip aan een ander levert een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2025-07-01&g=2025-07-01) van toepassing. Betreft het verzoek een zeeschip, dan wordt het verzoek vergezeld van de verklaring, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=15&z=2025-07-01&g=2025-07-01). De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01) zijn niet van toepassing, met dien verstande dat bij het verzoek wordt overgelegd de meetbrief, afgegeven volgens de bestaande wettelijke voorschriften.
 
-2. Hij, te wiens name een zeeschip in aanbouw of een zeevissersschip in aanbouw te boek staat, is verplicht om, indien hij het schip zelf in de vaart brengt, na de afbouw en voordat hij het schip in de vaart brengt, een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2008-01-01&g=2008-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2008-01-01&g=2008-01-01) van toepassing. Het verzoek dient tevens in te houden de verklaring, bedoeld in [artikel 194, vierde lid, tweede volzin, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), en vergezeld te gaan van de verklaring van Onze Minister van Verkeer en Waterstaat, bedoeld in de vierde volzin van dat lid.
+2. Hij, te wiens name een zeeschip in aanbouw of een zeevissersschip in aanbouw te boek staat, is verplicht om, indien hij het schip zelf in de vaart brengt, na de afbouw en voordat hij het schip in de vaart brengt, een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2025-07-01&g=2025-07-01) van toepassing. Het verzoek dient tevens in te houden de verklaring, bedoeld in [artikel 194, vierde lid, tweede volzin, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194). Betreft het verzoek een zeeschip, dan wordt het verzoek vergezeld van de verklaring, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=15&z=2025-07-01&g=2025-07-01).
 
-3. Hij, te wiens name een binnenschip in aanbouw te boek staat, is verplicht binnen drie maanden na de afbouw aan de bewaarder, mede te delen of het afgebouwde schip voldoet aan ten minste één der in [artikel 784, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) te dien aanzien gestelde voorwaarden. Indien het schip aan ten minste één van deze voorwaarden voldoet, is hij verplicht om een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=17&z=2008-01-01&g=2008-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2008-01-01&g=2008-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2008-01-01&g=2008-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2008-01-01&g=2008-01-01) van toepassing. Het verzoek dient tevens in te houden de verklaring, bedoeld in [artikel 784, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784). Wanneer één of meer van de over te leggen stukken ontbreken, onvolledig zijn of niet met elkaar of met de aangeboden verklaring overeenstemmen, of wanneer hij mededeelt dat het afgebouwde binnenschip niet aan ten minste één der bovengenoemde voorwaarden voldoet, wordt de teboekstelling met inachtneming van de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2008-01-01&g=2008-01-01) doorgehaald.
+3. Hij, te wiens name een binnenschip in aanbouw te boek staat, is verplicht binnen drie maanden na de afbouw aan de bewaarder, mede te delen of het afgebouwde schip voldoet aan ten minste één der in [artikel 784, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) te dien aanzien gestelde voorwaarden. Indien het schip aan ten minste één van deze voorwaarden voldoet, is hij verplicht om een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=17&z=2025-07-01&g=2025-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2025-07-01&g=2025-07-01) van toepassing. Het verzoek dient tevens in te houden de verklaring, bedoeld in [artikel 784, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784). Wanneer één of meer van de over te leggen stukken ontbreken, onvolledig zijn of niet met elkaar of met de aangeboden verklaring overeenstemmen, of wanneer hij mededeelt dat het afgebouwde binnenschip niet aan ten minste één der bovengenoemde voorwaarden voldoet, wordt de teboekstelling met inachtneming van de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2025-07-01&g=2025-07-01) doorgehaald.
 
 ## Titel 2. Overige schepen
 
 ##### Artikel 14
 
-1. Hij die van een schip de teboekstelling wenst te verkrijgen, biedt de Dienst een daartoe strekkend verzoek ter inschrijving aan, dat tevens een verklaring van eigendom dient in te houden, alsmede de verklaring, bedoeld in [artikel 194, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), die, indien het een verzoek tot teboekstelling van een zeeschip, niet zijnde een zeevissersschip betreft, vergezeld dient te gaan van de verklaring afgegeven door of namens Onze Minister van Verkeer en Waterstaat, bedoeld in [artikel 194, vierde lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), dan wel de verklaring, bedoeld in [artikel 784, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784).
+1. Hij die van een schip de teboekstelling wenst te verkrijgen, biedt de Dienst een daartoe strekkend verzoek ter inschrijving aan, dat tevens een verklaring van eigendom dient in te houden, alsmede de verklaring, bedoeld in [artikel 194, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), dan wel de verklaring, bedoeld in [artikel 784, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) indien het een verzoek tot teboekstelling van een zeeschip, niet zijnde een zeevissersschip betreft. Betreft het verzoek een zeeschip, dan wordt tevens de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=15&z=2025-07-01&g=2025-07-01), bedoelde verklaring aangeboden.
 
 2. In het verzoek tot teboekstelling wordt vermeld of het schip reeds, als schip in aanbouw of als afgebouwd schip, in de openbare registers dan wel in enig soortgelijk buitenlands register te boek staat of te boek gestaan heeft.
 
@@ -162,11 +168,21 @@ Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid
 
 4. In geval van vroegere teboekstellingen in een buitenlands register wordt in het verzoek vermeld een identificatiekenmerk, soortgelijk aan het brandmerk, alsmede het land of de staat en de plaats van de teboekstelling. Indien vorenbedoeld identificatiekenmerk met betrekking tot het schip niet bestaat, wordt in het verzoek vermeld het land of de staat, de plaats en de dagtekening van de teboekstelling van het schip en het register waarin en het volgnummer waaronder in dat register de vroegere teboekstelling is ingeschreven.
 
-5. Behoudens het bepaalde in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2008-01-01&g=2008-01-01), en [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=19&z=2008-01-01&g=2008-01-01), wordt, indien het schip reeds in een buitenlands register te boek gestaan heeft, bij het in het eerste lid genoemde verzoek overgelegd een door de bevoegde autoriteit afgegeven verklaring, waaruit blijkt dat de teboekstelling is doorgehaald.
+5. Behoudens het bepaalde in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01), en [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=19&z=2025-07-01&g=2025-07-01), wordt, indien het schip reeds in een buitenlands register te boek gestaan heeft, bij het in het eerste lid genoemde verzoek overgelegd een door de bevoegde autoriteit afgegeven verklaring, waaruit blijkt dat de teboekstelling is doorgehaald.
 
 ##### Artikel 15
 
-Vervallen
+1. Voorafgaand aan het verzoek tot inschrijving, bedoeld in de [artikelen 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=1&artikel=13&z=2025-07-01&g=2025-07-01), of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01), ten aanzien van een zeeschip, wordt door de eigenaar bij de Dienst een aanvraag ingediend voor een verklaring dat voldaan wordt aan de in [artikel 194a van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) van toepassing zijnde vereisten.
+
+2. De verklaring wordt afgegeven door de bewaarder.
+
+3. Bij het verzoek tot inschrijving verklaart de eigenaar dat de op grond van het eerste lid vereiste bewijsstukken en gegevens op het moment van aanbieden ter inschrijving actueel en ongewijzigd zijn.
+
+4. De kosten voor de behandeling van de aanvraag en afgifte van de verklaring, bedoeld in het eerste lid, komen ten laste van de aanvrager.
+
+5. Het bestuur van de Dienst kan de vorm van de aanvraag en de verklaring, bedoeld in het eerste lid, vaststellen.
+
+6. Het bestuur van de Dienst stelt eisen ten aanzien van de bij een aanvraag voor een verklaring, bedoeld in het eerste lid, te overleggen bewijsstukken en gegevens.
 
 ##### Artikel 16
 
@@ -200,15 +216,15 @@ Vervallen
 
 2. De bewaarder verstrekt aan de eigenaar van het binnenschip een uittreksel uit de registratie voor schepen, als bedoeld in [artikel 101, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101), vermeldende ten minste de gegevens, bedoeld in [artikel 85, tweede lid, onderdelen a, c tot en met g, i en l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen.
 
-3. De in het eerste lid genoemde vermelding wordt doorgehaald na inschrijving van een bewijs waaruit blijkt dat de teboekstelling in het verdragsregister waar het binnenschip te boek stond, is doorgehaald. De bewaarder geeft aan de eigenaar van het binnenschip het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2008-01-01&g=2008-01-01) genoemde certificaat af.
+3. De in het eerste lid genoemde vermelding wordt doorgehaald na inschrijving van een bewijs waaruit blijkt dat de teboekstelling in het verdragsregister waar het binnenschip te boek stond, is doorgehaald. De bewaarder geeft aan de eigenaar van het binnenschip het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01) genoemde certificaat af.
 
-4. Indien het geval, genoemd in [artikel 784, vierde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), zich voordoet, wordt zulks in de registratie voor schepen vermeld na inschrijving van een bewijs van weigering door de bewaarder van het verdragsregister. De bewaarder geeft aan de eigenaar van het binnenschip het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2008-01-01&g=2008-01-01) genoemde certificaat af en tekent op het certificaat eveneens aan dat het geval, genoemd in [artikel 784, vierde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), zich heeft voorgedaan. Hij haalt de in het eerste lid genoemde vermelding door.
+4. Indien het geval, genoemd in [artikel 784, vierde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), zich voordoet, wordt zulks in de registratie voor schepen vermeld na inschrijving van een bewijs van weigering door de bewaarder van het verdragsregister. De bewaarder geeft aan de eigenaar van het binnenschip het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01) genoemde certificaat af en tekent op het certificaat eveneens aan dat het geval, genoemd in [artikel 784, vierde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), zich heeft voorgedaan. Hij haalt de in het eerste lid genoemde vermelding door.
 
 ##### Artikel 19
 
 1. Indien een zeeschip of een zeevissersschip, waarvan de teboekstelling wordt verzocht, reeds in een buitenlands register te boek staat, wordt in de registratie voor schepen vermeld dat deze teboekstelling slechts rechtsgevolg heeft indien zich één der gevallen, bedoeld in [artikel 194, derde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), voordoet.
 
-2. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 3. De in het eerste lid genoemde vermelding wordt doorgehaald indien binnen 30 dagen na de teboekstelling een bewijs wordt ingeschreven waaruit blijkt dat de teboekstelling in het buitenlandse register waarin het schip te boek stond, is doorgehaald.
 
@@ -246,11 +262,11 @@ Vervallen
 
 ##### Artikel 24
 
-Het brandmerk dat dient ter aanduiding van een schip in aanbouw, wordt ook gebruikt voor het afgebouwde schip. Na inschrijving van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=1&artikel=13&z=2008-01-01&g=2008-01-01) bedoelde verzoek wordt in de gevallen, bedoeld in [artikel 22, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2008-01-01&g=2008-01-01), het brandmerk alsnog aangebracht op het achterschip, waarbij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing is.
+Het brandmerk dat dient ter aanduiding van een schip in aanbouw, wordt ook gebruikt voor het afgebouwde schip. Na inschrijving van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=1&artikel=13&z=2025-07-01&g=2025-07-01) bedoelde verzoek wordt in de gevallen, bedoeld in [artikel 22, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2025-07-01&g=2025-07-01), het brandmerk alsnog aangebracht op het achterschip, waarbij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing is.
 
 ##### Artikel 25
 
-1. Onverminderd de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2008-01-01&g=2008-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2008-01-01&g=2008-01-01) brengt de eigenaar van een te boek staand binnenschip de naam en het brandmerk van het schip duidelijk zichtbaar in olieverf aan op een vast deel van het schip aan beide zijden of op het achterschip en wel in latijnse letters en arabische cijfers van ten minste vijftien centimeter hoogte in lichte kleur op een donkere ondergrond of in donkere kleur op een lichte ondergrond.
+1. Onverminderd de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2025-07-01&g=2025-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2025-07-01&g=2025-07-01) brengt de eigenaar van een te boek staand binnenschip de naam en het brandmerk van het schip duidelijk zichtbaar in olieverf aan op een vast deel van het schip aan beide zijden of op het achterschip en wel in latijnse letters en arabische cijfers van ten minste vijftien centimeter hoogte in lichte kleur op een donkere ondergrond of in donkere kleur op een lichte ondergrond.
 
 2. De in het eerste lid bedoelde vermelding van het brandmerk wordt aangebracht achter de naam van het schip. Indien het schip ook buitenslands wordt gebruikt, moet de genoemde vermelding worden gevolgd door de letter N, aan te brengen op dezelfde wijze als is bepaald in het eerste lid.
 
@@ -266,9 +282,9 @@ Het brandmerk dat dient ter aanduiding van een schip in aanbouw, wordt ook gebru
 
 3. Indien een brandmerk is verdwenen of geheel of gedeeltelijk onleesbaar is geworden, verzoekt de eigenaar onverwijld schriftelijk de bewaarder het schip opnieuw te doen branden.
 
-4. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2008-01-01&g=2008-01-01) is van overeenkomstige toepassing in de gevallen, bedoeld in het tweede en derde lid.
+4. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=22&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing in de gevallen, bedoeld in het tweede en derde lid.
 
-5. Indien bij reparatie of verbouwing van een schip het brandmerk of de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=25&z=2008-01-01&g=2008-01-01) aangebrachte naam en kentekens zijn verwijderd of beschadigd, draagt degene die de reparatie of verbouwing heeft uitgevoerd zorg, dat het schip niet wordt afgegeven voordat deze weer volledig zijn aangebracht.
+5. Indien bij reparatie of verbouwing van een schip het brandmerk of de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=25&z=2025-07-01&g=2025-07-01) aangebrachte naam en kentekens zijn verwijderd of beschadigd, draagt degene die de reparatie of verbouwing heeft uitgevoerd zorg, dat het schip niet wordt afgegeven voordat deze weer volledig zijn aangebracht.
 
 ##### Artikel 27
 
@@ -298,9 +314,9 @@ Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 ##### Artikel 30
 
-1. Het verzoek of de aangifte tot doorhaling van de teboekstelling van een binnenschip wordt ingediend bij de rechtbank. [Artikel 28, eerste lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2008-01-01&g=2008-01-01), is van toepassing. Indien het verzoek is gegrond op [artikel 786, eerste lid, onder a , ten eerste, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786), worden tevens de stukken overgelegd waaruit blijkt dat de teboekstelling niet of niet meer verplicht is. Indien het verzoek is gegrond op [artikel 786, eerste lid, onder a , ten tweede, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786), wordt tevens overgelegd een uittreksel uit het verdragsregister waarin wordt vermeld dat het schip onder voorwaarde van doorhaling in de openbare registers aldaar te boek gesteld is.
+1. Het verzoek of de aangifte tot doorhaling van de teboekstelling van een binnenschip wordt ingediend bij de rechtbank. [Artikel 28, eerste lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2025-07-01&g=2025-07-01), is van toepassing. Indien het verzoek is gegrond op [artikel 786, eerste lid, onder a , ten eerste, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786), worden tevens de stukken overgelegd waaruit blijkt dat de teboekstelling niet of niet meer verplicht is. Indien het verzoek is gegrond op [artikel 786, eerste lid, onder a , ten tweede, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786), wordt tevens overgelegd een uittreksel uit het verdragsregister waarin wordt vermeld dat het schip onder voorwaarde van doorhaling in de openbare registers aldaar te boek gesteld is.
 
-2. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 3. Indien de teboekstelling wordt doorgehaald op de grond, genoemd in [artikel 786, eerste lid, onder a , ten tweede, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786), geeft de bewaarder een bewijs van doorhaling af, waarin de datum van de doorhaling wordt vermeld en waarin, indien inschrijvingen of voorlopige aantekeningen ten gunste van derden op het schip bestaan, wordt vermeld dat hij zich ervan heeft vergewist, dat deze derden zich niet tegen doorhaling hebben verzet.
 
@@ -312,19 +328,19 @@ Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 1. De eigenaar van een te boek staand binnenschip waarop [artikel 786, eerste lid, onder b , ten vijfde, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786) van toepassing is en waarvan de teboekstelling in het buitenlandse register heeft plaatsgevonden voordat de op 25 januari 1965 te Genève gesloten Overeenkomst inzake inschrijving van binnenschepen, met Protocollen (Trb. 1966, 228) voor de staat van dat register van kracht is geworden, is verplicht van de teboekstelling van het schip in het verdragsregister mededeling te doen aan de bewaarder, en daarbij tevens mede te delen of hij de teboekstelling in het verdragsregister zal handhaven. De in de eerste zin bedoelde mededelingen moeten worden gedaan binnen drie maanden nadat het buitenlandse register waarin het schip te boek staat de hoedanigheid van verdragsregister heeft verkregen.
 
-2. Indien de eigenaar de in het eerste lid bedoelde mededelingen niet binnen de aldaar gestelde termijn heeft gedaan of indien hij heeft medegedeeld dat hij de teboekstelling in het verdragsregister wenst te handhaven, dient hij onverwijld een aangifte tot doorhaling van de teboekstelling overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2008-01-01&g=2008-01-01) in.
+2. Indien de eigenaar de in het eerste lid bedoelde mededelingen niet binnen de aldaar gestelde termijn heeft gedaan of indien hij heeft medegedeeld dat hij de teboekstelling in het verdragsregister wenst te handhaven, dient hij onverwijld een aangifte tot doorhaling van de teboekstelling overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2025-07-01&g=2025-07-01) in.
 
-3. Indien de eigenaar heeft medegedeeld dat hij de teboekstelling van het schip in het verdragsregister niet wenst te handhaven, draagt hij er zorg voor dat de teboekstelling in het verdragsregister wordt doorgehaald. Vindt geen doorhaling in het verdragsregister plaats binnen negen maanden nadat de in het eerste lid bedoelde mededelingen zijn gedaan, dan dient de eigenaar onverwijld een aangifte tot doorhaling van de teboekstelling overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2008-01-01&g=2008-01-01) in.
+3. Indien de eigenaar heeft medegedeeld dat hij de teboekstelling van het schip in het verdragsregister niet wenst te handhaven, draagt hij er zorg voor dat de teboekstelling in het verdragsregister wordt doorgehaald. Vindt geen doorhaling in het verdragsregister plaats binnen negen maanden nadat de in het eerste lid bedoelde mededelingen zijn gedaan, dan dient de eigenaar onverwijld een aangifte tot doorhaling van de teboekstelling overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2025-07-01&g=2025-07-01) in.
 
 4. Van de in het eerste lid bedoelde mededelingen wordt melding gemaakt in de registratie voor schepen.
 
 ##### Artikel 32
 
-Wanneer de bewaarder blijkt van enige omstandigheid die doorhaling van de teboekstelling van een binnenschip wettigt, is [artikel 28, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2008-01-01&g=2008-01-01), van overeenkomstige toepassing.
+Wanneer de bewaarder blijkt van enige omstandigheid die doorhaling van de teboekstelling van een binnenschip wettigt, is [artikel 28, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=28&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 33
 
-Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboekstelling van een binnenschip, is [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=29&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing.
+Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboekstelling van een binnenschip, is [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=29&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ## Titel 5. Kennisgeving inzake teboekstelling
 
@@ -334,33 +350,51 @@ Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 2. Het bestuur van de Dienst stelt de vorm vast van de kennisgeving, bedoeld in het eerste lid.
 
+3. Indien de eigenaar bij de aanvraag van de teboekstelling daarom heeft verzocht en toestemming heeft gegeven, zendt de bewaarder na de teboekstelling van een zeeschip een bericht van de teboekstelling onder vermelding van specifieke kenmerken van het schip, waaronder het NSI-nummer, de tonnage van het schip en een omschrijving van het schip, aan Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister.
+
+4. Bij het bericht, bedoeld in het derde lid, vermeldt de bewaarder tevens het registratienummer van het ingeschreven document en het brandmerk van het schip.
+
+5. In geval van overdracht of doorhaling van de teboekstelling van een zeeschip of van overdracht van aandelen in een zeeschip, zendt de bewaarder daaromtrent een bericht onder vermelding van het brandmerk en het NSI-nummer, aan Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister.
+
 ## Titel 6. Wijziging
 
 ##### Artikel 35
 
-Indien van een te boek staand schip de naam, bedoeld in [artikel 85, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), of een gegeven als bedoeld in [artikel 85, tweede lid, onder f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) is gewijzigd, dan wel het schip enige andere wijziging heeft ondergaan waardoor de beschrijving van het schip in de registratie voor schepen niet meer aan de werkelijkheid beantwoordt, biedt de eigenaar een aangifte ter inschrijving aan waarin de wijziging wordt vermeld.
+1. Indien van een te boek staand schip de naam, bedoeld in [artikel 85, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), of een gegeven als bedoeld in [artikel 85, tweede lid, onder f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) is gewijzigd, dan wel het schip enige andere wijziging heeft ondergaan waardoor de beschrijving van het schip in de registratie voor schepen niet meer aan de werkelijkheid beantwoordt, biedt de eigenaar een aangifte ter inschrijving aan waarin de wijziging wordt vermeld.
+
+2. Indien de aangifte, bedoeld in het eerste lid, leidt tot bijwerking van de registratie voor schepen, zendt de bewaarder daarvan een bericht onder vermelding van het brandmerk en het NSI-nummer aan Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister.
+
+3. Het tweede lid is van overeenkomstige toepassing in geval van een wijziging door de bewaarder in de registratie voor schepen van informatie als bedoeld in het eerste lid.
 
 ## Titel 7. Overige bepaling
 
 ##### Artikel 36
 
-Onze Minister stelt de vorm vast van de in dit hoofdstuk voorziene verzoeken, verklaringen, evenwel met uitzondering van de in [artikel 14, eerste onderscheidenlijk vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2008-01-01&g=2008-01-01), bedoelde verklaring van Onze Minister van Verkeer en Waterstaat onderscheidenlijk van de bevoegde autoriteit, en aangiften met dien verstande, dat het bestuur van de Dienst de vorm van de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=6&artikel=35&z=2008-01-01&g=2008-01-01) bedoelde aangifte vaststelt.
+Onze Minister stelt de vorm vast van de in dit hoofdstuk voorziene verzoeken, verklaringen, evenwel met uitzondering van de in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01), bedoelde verklaring van de bevoegde autoriteit, en aangiften met dien verstande, dat het bestuur van de Dienst de vorm van de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=6&artikel=35&z=2025-07-01&g=2025-07-01) bedoelde aangifte vaststelt.
 
 ### Hoofdstuk 4. Inschrijvingsvereisten voor akten van levering
 
 ##### Artikel 37
 
-1. Onverminderd het bepaalde in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=24) wordt ter inschrijving van een akte van levering van een te boek staand zeeschip of van aandelen daarin, tenzij het de levering van een zeevissersschip of van aandelen daarin betreft, bij die akte tevens ter inschrijving aangeboden een verklaring afgegeven door of namens Onze Minister van Verkeer en Waterstaat dat met betrekking tot het schip voldaan blijft worden aan de in [artikel 311 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311) genoemde vereisten. De in de eerste zin bedoelde verklaring bevat de in [artikel 21, eerste lid, onder a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=21) bedoelde gegevens.
+1. Voorafgaand aan de inschrijving van een akte van levering van een te boek staand zeeschip of van aandelen daarin, wordt door de verkrijger bij de Dienst een aanvraag ingediend voor een verklaring dat voldaan wordt aan de in [artikel 194a van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) van toepassing zijnde vereisten.
 
-2. De in het eerste lid bedoelde verklaring wordt door of namens Onze Minister van Verkeer en Waterstaat afgegeven op aanvraag van de verkrijger, indien voldaan blijft worden aan de in [artikel 311 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311) genoemde vereisten.
+2. De verklaring, bedoeld in het eerste lid, wordt afgegeven door de bewaarder.
 
-3. De kosten van aanvraag en afgifte van een verklaring als bedoeld in het eerste lid, komen ten laste van de aanvrager. Het tarief voor deze kosten wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat.
+3. Bij de inschrijving van een akte van levering van een te boek staand zeeschip of van aandelen daarin wordt, onverminderd het bepaalde in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=24), tevens de verklaring, bedoeld in het eerste lid, ter inschrijving aangeboden.
+
+4. In de akte van levering verklaart de notaris dat de op grond van het eerste lid vereiste bewijsstukken en gegevens op het moment van aanbieden ter inschrijving actueel en ongewijzigd zijn.
+
+5. De kosten van aanvraag en afgifte van de verklaring, bedoeld in het eerste lid, komen ten laste van de aanvrager.
+
+6. Het bestuur van de Dienst kan de vorm van de aanvraag en de verklaring, bedoeld in het eerste lid, vaststellen.
+
+7. Het bestuur van de Dienst stelt eisen ten aanzien van de bij een aanvraag voor de verklaring, bedoeld in het eerste lid, te overleggen bewijsstukken en gegevens.
 
 ##### Artikel 38
 
-Onverminderd het bepaalde in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=24) wordt ter inschrijving van een akte van levering, ingeval het de levering van een te boek staand zeevissersschip of van aandelen daarin betreft, overgelegd bij het daartoe ter inschrijving aangeboden stuk het bewijs, genoemd in [artikel 16, eerste lid, onder d.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2008-01-01&g=2008-01-01) Dit bewijs wordt na vergelijking met het stuk waarvan de inschrijving verlangd wordt, aan de aanbieder teruggegeven.
+Onverminderd het bepaalde in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=24) wordt ter inschrijving van een akte van levering, ingeval het de levering van een te boek staand zeevissersschip of van aandelen daarin betreft, overgelegd bij het daartoe ter inschrijving aangeboden stuk het bewijs, genoemd in [artikel 16, eerste lid, onder d.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01) Dit bewijs wordt na vergelijking met het stuk waarvan de inschrijving verlangd wordt, aan de aanbieder teruggegeven.
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4. Inschrijvingsvereisten voor akten van levering
 
 ##### Artikel 39
 
@@ -373,5 +407,53 @@ Dit besluit treedt in werking met ingang van 1 januari 1992.
 ##### Artikel 41
 
 Dit besluit kan worden aangehaald als: Maatregel teboekgestelde schepen 1992.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+
+##### Artikel 1a
+
+Dit besluit is mede gebaseerd op [artikel 7g van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7g).
+
+### Hoofdstuk 2. Certificaten omtrent binnenschepen
+
+### Hoofdstuk 3. Teboekstelling
+
+## Titel 1. Schepen in aanbouw
+
+## Titel 2. Overige schepen
+
+## Titel 3. Brandmerk en overige kentekens
+
+## Titel 4. Doorhaling van de teboekstelling
+
+### Afdeling 1. Zee- en zeevissersschepen
+
+### Afdeling 2. Binnenschepen
+
+## Titel 5. Kennisgeving inzake teboekstelling
+
+## Titel 6. Wijziging
+
+##### Artikel 35a
+
+1. Indien de Dienst een bericht ontvangt van Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister, inzake een wijziging als bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11), neemt de Dienst een beslissing omtrent wijziging van het betreffende gegeven.
+
+2. Indien de Dienst de beslissing, bedoeld in het eerste lid, niet binnen één dag na ontvangst van die melding heeft genomen, tekent de Dienst in de registratie voor schepen aan dat het betreffende gegeven «in onderzoek» is.
+
+3. De Dienst verwijdert de aantekening dat een gegeven «in onderzoek» is uit de registratie voor schepen tegelijk met de verwerking van de wijziging in die registratie of, indien een bericht als bedoeld in het eerste lid niet tot wijziging leidt, met de beslissing om het gegeven niet te wijzigen.
+
+4. De beslissing, bedoeld in het tweede en derde lid, is een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+
+5. De Dienst zendt Onze Minister, genoemd in het eerste lid, onverwijld een bericht over een handeling of beslissing als bedoeld in het tweede of derde lid.
+
+6. De Dienst doet onverwijld schriftelijk mededeling aan de belanghebbende van zijn beslissing op grond van het tweede of derde lid, indien die beslissing heeft geleid tot een wijziging van het betreffende gegeven.
+
+## Titel 7. Overige bepalingen
+
+##### Artikel 36a
+
+Het NSI-nummer wordt opgenomen in de registratie voor schepen, bedoeld in [artikel 85, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85).
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
