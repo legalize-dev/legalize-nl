@@ -4,7 +4,7 @@ identifier: "BWBR0037162"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2019-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037162"
 soort: "wet"
@@ -91,7 +91,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. **staat waar het schip geregistreerd is:** met betrekking tot een geregistreerd schip, de staat waarin het schip is geregistreerd en met betrekking tot een niet-geregistreerd schip, de staat waarvan het schip gerechtigd is de vlag te voeren;
 
-- l. **Nederlands schip:** schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+- l. **Nederlands schip:** schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
 - m. **Verdrag:** het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115);
 
@@ -107,7 +107,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Indien het schip toebehoort aan een rederij die een boekhouder heeft aangesteld, of indien er sprake is van rompbevrachting, treedt de boekhouder, onderscheidenlijk de rompbevrachter voor de toepassing van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&z=2019-07-01&g=2019-07-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&z=2019-07-01&g=2019-07-01) en, in samenhang daarmee, de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=4&z=2019-07-01&g=2019-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=5&z=2019-07-01&g=2019-07-01) en de daarop berustende bepalingen in de plaats van de geregistreerde eigenaar.
+Indien het schip toebehoort aan een rederij die een boekhouder heeft aangesteld, of indien er sprake is van rompbevrachting, treedt de boekhouder, onderscheidenlijk de rompbevrachter voor de toepassing van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&z=2025-07-01&g=2025-07-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&z=2025-07-01&g=2025-07-01) en, in samenhang daarmee, de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=5&z=2025-07-01&g=2025-07-01) en de daarop berustende bepalingen in de plaats van de geregistreerde eigenaar.
 
 ### Hoofdstuk 2. Wrakken
 
@@ -141,7 +141,7 @@ maakt de kapitein of de exploitant van het schip daarvan zo spoedig mogelijk mel
 
 ##### Artikel 6
 
-Indien bij een maritiem ongeval als bedoeld in [artikel 5, eerste lid, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-07-01&g=2019-07-01), een Nederlands schip is betrokken dat zich bevindt in een deel van het Verdragsgebied dat onder buitenlandse jurisdictie staat, maakt de kapitein of de exploitant van het schip daarvan zo spoedig mogelijk melding aan de bevoegde autoriteit van de getroffen staat, en verstrekt daarbij de gegevens, bedoeld in artikel 5, tweede lid, van het Verdrag. Zodra door de kapitein of de exploitant van het schip aan de meldplicht uit hoofde van dit artikel is voldaan, is de ander daarvan ontslagen.
+Indien bij een maritiem ongeval als bedoeld in [artikel 5, eerste lid, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2025-07-01&g=2025-07-01), een Nederlands schip is betrokken dat zich bevindt in een deel van het Verdragsgebied dat onder buitenlandse jurisdictie staat, maakt de kapitein of de exploitant van het schip daarvan zo spoedig mogelijk melding aan de bevoegde autoriteit van de getroffen staat, en verstrekt daarbij de gegevens, bedoeld in artikel 5, tweede lid, van het Verdrag. Zodra door de kapitein of de exploitant van het schip aan de meldplicht uit hoofde van dit artikel is voldaan, is de ander daarvan ontslagen.
 
 #### Paragraaf 2.3. Lokaliseren, markeren, waarschuwen, vaststellen gevaar
 
@@ -169,7 +169,7 @@ Indien bij een maritiem ongeval als bedoeld in [artikel 5, eerste lid, onder 1°
 
 ##### Artikel 9
 
-1. Indien Onze Minister overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2019-07-01&g=2019-07-01) heeft vastgesteld dat een wrak een gevaar vormt, draagt de geregistreerde eigenaar er zorg voor dat:
+1. Indien Onze Minister overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2025-07-01&g=2025-07-01) heeft vastgesteld dat een wrak een gevaar vormt, draagt de geregistreerde eigenaar er zorg voor dat:
 
 - a. het wrak wordt opgeruimd en
 
@@ -185,7 +185,7 @@ Indien Onze Minister overeenkomstig artikel 6 van het Verdrag heeft vastgesteld 
 
 - a. stelt hij in een beschikking een redelijke termijn binnen welke de geregistreerde eigenaar het wrak moet opruimen, rekening houdend met de aard van het vastgestelde gevaar;
 
-- b. vermeldt hij bij de bekendmaking van de beschikking met de door hem gestelde termijn dat hij het wrak overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01) en [artikel 8:656 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=656) voor rekening van de geregistreerde eigenaar kan doen opruimen indien de geregistreerde eigenaar verzuimt het wrak binnen die termijn op te ruimen en
+- b. vermeldt hij bij de bekendmaking van de beschikking met de door hem gestelde termijn dat hij het wrak overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01) en [artikel 8:656 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=656) voor rekening van de geregistreerde eigenaar kan doen opruimen indien de geregistreerde eigenaar verzuimt het wrak binnen die termijn op te ruimen en
 
 - c. stelt hij de geregistreerde eigenaar schriftelijk ervan in kennis dat hij voornemens is onmiddellijk op te treden indien het gevaar bijzonder groot wordt.
 
@@ -199,7 +199,7 @@ Wanneer het opruimen door de geregistreerde eigenaar is aangevangen, kan Onze Mi
 
 ##### Artikel 13
 
-1. Indien de geregistreerde eigenaar verzuimt het wrak binnen de ingevolge [artikel 10, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2019-07-01&g=2019-07-01), vastgestelde termijn op te ruimen, of indien geen contact kan worden gelegd met de geregistreerde eigenaar, kan Onze Minister het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
+1. Indien de geregistreerde eigenaar verzuimt het wrak binnen de ingevolge [artikel 10, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2025-07-01&g=2025-07-01), vastgestelde termijn op te ruimen, of indien geen contact kan worden gelegd met de geregistreerde eigenaar, kan Onze Minister het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
 
 2. Voorts kan Onze Minister in omstandigheden waarin onmiddellijk optreden vereist is en hij de staat waar het schip geregistreerd is en de geregistreerde eigenaar daarvan in kennis heeft gesteld, het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
 
@@ -207,7 +207,7 @@ Wanneer het opruimen door de geregistreerde eigenaar is aangevangen, kan Onze Mi
 
 ##### Artikel 14
 
-1. Met betrekking tot een wrak dat zich bevindt in de territoriale zee of op een van de binnenwateren zijn [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2019-07-01&g=2019-07-01), wat betreft mededeling aan de staat waar het schip geregistreerd is, en d, alsmede de kennisgevingsverplichtingen van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), niet van toepassing.
+1. Met betrekking tot een wrak dat zich bevindt in de territoriale zee of op een van de binnenwateren zijn [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2025-07-01&g=2025-07-01), wat betreft mededeling aan de staat waar het schip geregistreerd is, en d, alsmede de kennisgevingsverplichtingen van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), niet van toepassing.
 
 2. Met betrekking tot een wrak dat zich bevindt op een van de binnenwateren berusten taken en bevoegdheden die elders in dit hoofdstuk zijn opgedragen of toegekend aan Onze Minister bij de ingevolge de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) ter plaatse bevoegde beheerder dan wel beheerder die is belast met het waterstaatkundig beheer, indien dat aldaar afzonderlijk is toegedeeld.
 
@@ -219,11 +219,11 @@ Wanneer het opruimen door de geregistreerde eigenaar is aangevangen, kan Onze Mi
 
 ##### Artikel 15
 
-De kapitein of de geregistreerde eigenaar van een schip dat is betrokken bij een maritiem ongeval in de Nederlandse territoriale zee neemt, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2019-07-01&g=2019-07-01), de nodige maatregelen om gevaar als gevolg van dat ongeval te voorkomen, te beperken of ongedaan te maken, en verleent alle nodige medewerking aan de toepassing van maatregelen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01).
+De kapitein of de geregistreerde eigenaar van een schip dat is betrokken bij een maritiem ongeval in de Nederlandse territoriale zee neemt, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2025-07-01&g=2025-07-01), de nodige maatregelen om gevaar als gevolg van dat ongeval te voorkomen, te beperken of ongedaan te maken, en verleent alle nodige medewerking aan de toepassing van maatregelen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 16
 
-1. Onze Minister kan ten aanzien van een schip dat zich bevindt in de Nederlandse territoriale zee, onverminderd de [paragrafen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&z=2019-07-01&g=2019-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&z=2019-07-01&g=2019-07-01), alle maatregelen nemen die nodig zijn om een veilige vaart en de veiligheid van personen te verzekeren en het mariene milieu en het kustmilieu te beschermen ingeval:
+1. Onze Minister kan ten aanzien van een schip dat zich bevindt in de Nederlandse territoriale zee, onverminderd de [paragrafen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&z=2025-07-01&g=2025-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&z=2025-07-01&g=2025-07-01), alle maatregelen nemen die nodig zijn om een veilige vaart en de veiligheid van personen te verzekeren en het mariene milieu en het kustmilieu te beschermen ingeval:
 
 - a. zich met betrekking tot het schip een maritiem ongeval voordoet;
 
@@ -263,23 +263,23 @@ De kapitein of de geregistreerde eigenaar van een schip dat is betrokken bij een
 
 2. In een situatie als bedoeld in het eerste lid zijn de kapitein en de exploitant van het desbetreffende schip en de eigenaar van gevaarlijke of verontreinigende stoffen aan boord van het desbetreffende schip verder verplicht om alle in verband met het ongeval gevraagde gegevens onmiddellijk te verstrekken en om desgevraagd onmiddellijk mededeling te doen van alle maatregelen die vanwege het schip in verband met het ongeval zijn genomen.
 
-3. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+3. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 18
 
-1. Onze Minister kan, onverminderd de [paragrafen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&z=2019-07-01&g=2019-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&z=2019-07-01&g=2019-07-01), ten aanzien van schepen, met inbegrip van wrakken, in de interventiezone de maatregelen nemen die nodig zijn ter bescherming van de Nederlandse kust of daarmee samenhangende belangen van Nederland, tegen verontreiniging of dreigende verontreiniging na een maritiem ongeval of daarmee verband houdende handelingen waarvan redelijkerwijs kan worden verwacht dat deze zullen leiden tot aanzienlijke schadelijke gevolgen.
+1. Onze Minister kan, onverminderd de [paragrafen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.3&z=2025-07-01&g=2025-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&z=2025-07-01&g=2025-07-01), ten aanzien van schepen, met inbegrip van wrakken, in de interventiezone de maatregelen nemen die nodig zijn ter bescherming van de Nederlandse kust of daarmee samenhangende belangen van Nederland, tegen verontreiniging of dreigende verontreiniging na een maritiem ongeval of daarmee verband houdende handelingen waarvan redelijkerwijs kan worden verwacht dat deze zullen leiden tot aanzienlijke schadelijke gevolgen.
 
-2. [Artikel 16, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Organisatorische bepalingen, toelatingsplicht
 
 ##### Artikel 19
 
-1. Onze Minister oefent zijn in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) bedoelde bevoegdheid niet uit dan na overleg met de geregistreerde eigenaar en, indien hulpverlening is aangevangen of overeengekomen, na overleg met de hulpverlener, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
+1. Onze Minister oefent zijn in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) bedoelde bevoegdheid niet uit dan na overleg met de geregistreerde eigenaar en, indien hulpverlening is aangevangen of overeengekomen, na overleg met de hulpverlener, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
 
-2. Onze Minister oefent zijn in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) bedoelde bevoegdheid niet uit ten aanzien van een schip onder buitenlandse vlag dan nadat met de vlaggenstaat overleg is gepleegd, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
+2. Onze Minister oefent zijn in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) bedoelde bevoegdheid niet uit ten aanzien van een schip onder buitenlandse vlag dan nadat met de vlaggenstaat overleg is gepleegd, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
 
-3. Wanneer een schip op grond van een voorschrift, aanwijzing of maatregel als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) naar een Nederlandse haven wordt gebracht, kan Onze Minister de exploitant of kapitein van het schip verzoeken een verzekeringsbewijs met betrekking tot een verzekering tegen maritieme vorderingen over te leggen.
+3. Wanneer een schip op grond van een voorschrift, aanwijzing of maatregel als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) naar een Nederlandse haven wordt gebracht, kan Onze Minister de exploitant of kapitein van het schip verzoeken een verzekeringsbewijs met betrekking tot een verzekering tegen maritieme vorderingen over te leggen.
 
 4. Een verzoek tot overlegging van een verzekeringsbewijs leidt niet tot vertraging bij de opvang van een schip dat bijstand behoeft.
 
@@ -287,17 +287,17 @@ De kapitein of de geregistreerde eigenaar van een schip dat is betrokken bij een
 
 ##### Artikel 20
 
-Onze Minister oefent zijn bevoegdheid op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) ten aanzien van een schip dat zich in de Noordzee bevindt niet uit dan in overeenstemming met Onze Ministers wie het mede aangaat, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
+Onze Minister oefent zijn bevoegdheid op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) ten aanzien van een schip dat zich in de Noordzee bevindt niet uit dan in overeenstemming met Onze Ministers wie het mede aangaat, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt.
 
 ##### Artikel 21
 
 1. Indien zich schadelijke gevolgen van een maritiem ongeval in de Noordzee voordoen die van invloed zijn voor het gebied van een gemeente, verstrekt Onze Minister de nodige inlichtingen aan de burgemeester en, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), aan de voorzitter van de veiligheidsregio.
 
-2. Indien de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) met betrekking tot een schip dat zich bevindt in de Noordzee van invloed zal zijn voor het gebied van de gemeente, wordt over de gevolgen daarvan vooraf overleg gevoerd met de burgemeester, dan wel, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), de voorzitter van de veiligheidsregio, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt. In dat geval wordt dit overleg zo spoedig mogelijk gevoerd. Onze Minister verstrekt aan de Commissaris van de Koning de nodige inlichtingen.
+2. Indien de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) met betrekking tot een schip dat zich bevindt in de Noordzee van invloed zal zijn voor het gebied van de gemeente, wordt over de gevolgen daarvan vooraf overleg gevoerd met de burgemeester, dan wel, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), de voorzitter van de veiligheidsregio, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt. In dat geval wordt dit overleg zo spoedig mogelijk gevoerd. Onze Minister verstrekt aan de Commissaris van de Koning de nodige inlichtingen.
 
 ##### Artikel 22
 
-1. Indien Onze Minister ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) een schip naar een Nederlandse haven doet brengen, laat het daartoe bevoegde gezag het schip toe tot de aangewezen haven.
+1. Indien Onze Minister ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) een schip naar een Nederlandse haven doet brengen, laat het daartoe bevoegde gezag het schip toe tot de aangewezen haven.
 
 2. Onze Minister neemt de in het eerste lid bedoelde maatregel slechts na overleg met het in het eerste lid bedoelde gezag, tenzij zich een situatie voordoet die onmiddellijk ingrijpen nodig maakt. In dat geval wordt dit overleg zo spoedig mogelijk gevoerd.
 
@@ -309,11 +309,11 @@ Ten behoeve van de goede uitvoering van deze wet met betrekking tot schepen, met
 
 ##### Artikel 24
 
-Indien Onze Minister ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) een schip naar een Nederlandse haven heeft doen brengen, vergoedt Onze Minister de redelijke kosten van die maatregelen van het daartoe bevoegde gezag die redelijkerwijs nodig zijn om het gevaar verbonden aan het brengen van het schip naar en het verblijf in de haven te voorkomen, te beperken of ongedaan te maken.
+Indien Onze Minister ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) een schip naar een Nederlandse haven heeft doen brengen, vergoedt Onze Minister de redelijke kosten van die maatregelen van het daartoe bevoegde gezag die redelijkerwijs nodig zijn om het gevaar verbonden aan het brengen van het schip naar en het verblijf in de haven te voorkomen, te beperken of ongedaan te maken.
 
 ##### Artikel 25
 
-1. Indien een persoon, nadat een maritiem ongeval heeft plaatsgevonden, hulp heeft verleend aan het desbetreffende schip en als gevolg van een besluit of handeling van Onze Minister krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01) bij de hulpverlening schade heeft geleden die hij niet kan verhalen op de geregistreerde eigenaar van dat schip of een andere persoon, kent Onze Minister de hulpverlener op diens verzoek een billijke tegemoetkoming in die schade toe.
+1. Indien een persoon, nadat een maritiem ongeval heeft plaatsgevonden, hulp heeft verleend aan het desbetreffende schip en als gevolg van een besluit of handeling van Onze Minister krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01) bij de hulpverlening schade heeft geleden die hij niet kan verhalen op de geregistreerde eigenaar van dat schip of een andere persoon, kent Onze Minister de hulpverlener op diens verzoek een billijke tegemoetkoming in die schade toe.
 
 2. Een tegemoetkoming als bedoeld in het eerste lid wordt geweigerd of kan slechts gedeeltelijk worden toegekend, indien de door de hulpverlener geleden schade geheel respectievelijk gedeeltelijk is te wijten aan diens schuld of de schuld van degenen voor wie hij aansprakelijk is.
 
@@ -345,11 +345,11 @@ De overeenkomst tot verstrekking van financiële zekerheid ten aanzien van een s
 
 - c. uit de overeenkomst blijkt dat de benadeelde, in overeenstemming met artikel 12, tiende lid, van het Verdrag, zijn vordering rechtstreeks tegen de verstrekker van financiële zekerheid kan instellen; indien de overeenkomst een beding inhoudt dat de geregistreerde eigenaar zelf voor een deel in de vergoeding van de schade zal bijdragen, blijkt uit de overeenkomst dat de verstrekker van financiële zekerheid niettemin jegens de benadeelde ter zake van schade gehouden blijft tot betaling ook van dat deel van de schadevergoeding;
 
-- d. uit de overeenkomst blijkt dat de verstrekker van financiële zekerheid deze binnen de tijdsduur waarvoor het certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) is uitgegeven, niet eerder kan schorsen of beëindigen of zodanig wijzigen dat hij niet meer aan dit artikel voldoet, dan na verloop van drie maanden na de datum van ontvangst van een mededeling als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2019-07-01&g=2019-07-01), tenzij het certificaat is ingeleverd of een nieuw certificaat is afgegeven vóór het verstrijken van de termijn.
+- d. uit de overeenkomst blijkt dat de verstrekker van financiële zekerheid deze binnen de tijdsduur waarvoor het certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) is uitgegeven, niet eerder kan schorsen of beëindigen of zodanig wijzigen dat hij niet meer aan dit artikel voldoet, dan na verloop van drie maanden na de datum van ontvangst van een mededeling als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2025-07-01&g=2025-07-01), tenzij het certificaat is ingeleverd of een nieuw certificaat is afgegeven vóór het verstrijken van de termijn.
 
 ##### Artikel 28
 
-1. Onze Minister geeft aan de geregistreerde eigenaar van een in Nederland teboekstaand schip of van een schip dat niet is teboekgesteld in een staat die partij is bij het Verdrag, op diens verzoek een certificaat af als omschreven in artikel 12, tweede en vierde lid, van het Verdrag, indien hem is gebleken dat de geregistreerde eigenaar aan zijn in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=26&z=2019-07-01&g=2019-07-01) bedoelde verplichting voldoet.
+1. Onze Minister geeft aan de geregistreerde eigenaar van een in Nederland teboekstaand schip of van een schip dat niet is teboekgesteld in een staat die partij is bij het Verdrag, op diens verzoek een certificaat af als omschreven in artikel 12, tweede en vierde lid, van het Verdrag, indien hem is gebleken dat de geregistreerde eigenaar aan zijn in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=26&z=2025-07-01&g=2025-07-01) bedoelde verplichting voldoet.
 
 2. Bij het verzoek moet de geregistreerde eigenaar de volgende gegevens en stukken overleggen:
 
@@ -365,11 +365,11 @@ De overeenkomst tot verstrekking van financiële zekerheid ten aanzien van een s
 
 ##### Artikel 29
 
-Onze Minister wijst een verzoek als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) af indien de overgelegde gegevens of stukken onvoldoende of onjuist zijn of de overeenkomst tot verstrekking van financiële zekerheid niet voldoet aan de daaraan in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=27&z=2019-07-01&g=2019-07-01) gestelde eisen.
+Onze Minister wijst een verzoek als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) af indien de overgelegde gegevens of stukken onvoldoende of onjuist zijn of de overeenkomst tot verstrekking van financiële zekerheid niet voldoet aan de daaraan in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=27&z=2025-07-01&g=2025-07-01) gestelde eisen.
 
 ##### Artikel 30
 
-1. De geregistreerde eigenaar aan wie een certificaat is afgegeven, is verplicht om onmiddellijk aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) bedoelde verzoek zijn overgelegd.
+1. De geregistreerde eigenaar aan wie een certificaat is afgegeven, is verplicht om onmiddellijk aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) bedoelde verzoek zijn overgelegd.
 
 2. Onze Minister draagt zorg, dat van een mededeling als bedoeld in het eerste lid ten aanzien van een overeenkomst tot verstrekking van financiële zekerheid voor een in Nederland teboekstaand schip schriftelijk of elektronisch kennis wordt gegeven aan het kantoor van de Dienst voor het Kadaster en de openbare registers, waar de openbare registers waarin het verzoek tot teboekstelling van het schip is ingeschreven, worden gehouden, welke kennisgeving aldaar wordt bewaard.
 
@@ -379,7 +379,7 @@ Onze Minister wijst een verzoek als bedoeld in [artikel 28](https://wetten.overh
 
 ##### Artikel 31
 
-1. Onze Minister kan een certificaat intrekken indien door wijziging in de gegevens welke bij het in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) bedoelde verzoek zijn overgelegd of doordat die gegevens onvoldoende of onjuist blijken te zijn, het niet of niet meer voldoet aan de bij of krachtens dit hoofdstuk gestelde eisen, of indien er goede gronden zijn om aan te nemen dat de financiële draagkracht van de verstrekker van de financiële zekerheid onvoldoende was, of is geworden of, indien deze buiten Nederland is gevestigd, blijkt van een beletsel voor het feitelijk in Nederland beschikbaar komen van de gelden uit hoofde van de overeenkomst.
+1. Onze Minister kan een certificaat intrekken indien door wijziging in de gegevens welke bij het in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) bedoelde verzoek zijn overgelegd of doordat die gegevens onvoldoende of onjuist blijken te zijn, het niet of niet meer voldoet aan de bij of krachtens dit hoofdstuk gestelde eisen, of indien er goede gronden zijn om aan te nemen dat de financiële draagkracht van de verstrekker van de financiële zekerheid onvoldoende was, of is geworden of, indien deze buiten Nederland is gevestigd, blijkt van een beletsel voor het feitelijk in Nederland beschikbaar komen van de gelden uit hoofde van de overeenkomst.
 
 2. In de beschikking wordt een termijn gesteld voor de inlevering van het certificaat.
 
@@ -387,23 +387,23 @@ Onze Minister wijst een verzoek als bedoeld in [artikel 28](https://wetten.overh
 
 ##### Artikel 32
 
-1. De geregistreerde eigenaar is verplicht om het certificaat zo spoedig mogelijk nadat overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2019-07-01&g=2019-07-01) mededeling is gedaan van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid, of nadat de tijdsduur waarvoor het certificaat is afgegeven is verstreken, bij Onze Minister in te leveren.
+1. De geregistreerde eigenaar is verplicht om het certificaat zo spoedig mogelijk nadat overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2025-07-01&g=2025-07-01) mededeling is gedaan van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid, of nadat de tijdsduur waarvoor het certificaat is afgegeven is verstreken, bij Onze Minister in te leveren.
 
-2. De geregistreerde eigenaar is verplicht om het certificaat ingeval van onherroepelijke intrekking bij Onze Minister in te leveren binnen de termijn bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=31&z=2019-07-01&g=2019-07-01).
+2. De geregistreerde eigenaar is verplicht om het certificaat ingeval van onherroepelijke intrekking bij Onze Minister in te leveren binnen de termijn bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=31&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 33
 
 1. Onze Minister zendt een afschrift van elk door hem ten aanzien van een in Nederland teboekstaand schip afgegeven certificaat, alsmede van elke onherroepelijke beschikking tot intrekking van een ten aanzien van een in Nederland teboekstaand schip afgegeven certificaat, aan het kantoor van de Dienst voor het Kadaster en de openbare registers, welke kennisgeving aldaar wordt bewaard.
 
-2. [Artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+2. [Artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=30&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 34
 
-Bij regeling van Onze Minister worden regels gesteld betreffende de voor de afgifte van een certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) verschuldigde vergoeding en de wijze van betaling daarvan.
+Bij regeling van Onze Minister worden regels gesteld betreffende de voor de afgifte van een certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) verschuldigde vergoeding en de wijze van betaling daarvan.
 
 ##### Artikel 35
 
-1. Een Nederlands schip met een brutotonnage van 300 of meer vaart niet een in Nederland, met inbegrip van de Nederlandse territoriale zee, gelegen haven of ankerplaats binnen of vertrekt daaruit niet, indien het voor dat schip overeenkomstig het gestelde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2019-07-01&g=2019-07-01) dan wel artikel 12, veertiende lid, van het Verdrag afgegeven certificaat zich niet aan boord bevindt.
+1. Een Nederlands schip met een brutotonnage van 300 of meer vaart niet een in Nederland, met inbegrip van de Nederlandse territoriale zee, gelegen haven of ankerplaats binnen of vertrekt daaruit niet, indien het voor dat schip overeenkomstig het gestelde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=6&artikel=28&z=2025-07-01&g=2025-07-01) dan wel artikel 12, veertiende lid, van het Verdrag afgegeven certificaat zich niet aan boord bevindt.
 
 2. Een niet in Nederland geregistreerd schip met een brutotonnage van 300 of meer vaart niet een in Nederland of in de Nederlandse territoriale zee gelegen haven of ankerplaats binnen of vertrekt daaruit niet, als voor dat schip niet overeenkomstig artikel 12 van het Verdrag een certificaat als bedoeld in dat artikel is afgegeven of indien dat certificaat zich niet aan boord bevindt.
 
@@ -413,11 +413,11 @@ Bij regeling van Onze Minister worden regels gesteld betreffende de voor de afgi
 
 ##### Artikel 36
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren die zijn aangewezen bij besluit van Onze Minister dan wel van het ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2019-07-01&g=2019-07-01), bevoegde bestuursorgaan. Zij zijn tevens belast met het uitvoeren van maatregelen, genomen krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01).
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren die zijn aangewezen bij besluit van Onze Minister dan wel van het ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2025-07-01&g=2025-07-01), bevoegde bestuursorgaan. Zij zijn tevens belast met het uitvoeren van maatregelen, genomen krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01).
 
 2. De krachtens het eerste lid aangewezen ambtenaren zijn bevoegd een schip te betreden voor zover dat redelijkerwijs nodig is voor de uitoefening van de in het eerste lid bedoelde taken en met inachtneming van artikel 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag.
 
-3. Zij gebruiken zo nodig de hulp van de sterke arm voor het betreden van het schip en voor het aan boord uitvoeren van maatregelen, genomen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-07-01&g=2019-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2019-07-01&g=2019-07-01).
+3. Zij gebruiken zo nodig de hulp van de sterke arm voor het betreden van het schip en voor het aan boord uitvoeren van maatregelen, genomen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2025-07-01&g=2025-07-01).
 
 4. Bij toepassing van het tweede lid legitimeren de daarin bedoelde ambtenaren zich desgevraagd en doen zij mededeling van het doel van het betreden van het schip.
 
@@ -433,7 +433,7 @@ Bij regeling van Onze Minister worden regels gesteld betreffende de voor de afgi
 
 ##### Artikel 38
 
-De Nederlandse strafwet is, waar nodig met inachtneming van artikel 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of het Verdrag tot rechtsvervolging over te gaan, mede toepasselijk op ieder die zich aan boord van een Nederlands schip buiten Nederland schuldig maakt aan overtreding van de bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-07-01&g=2019-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2019-07-01&g=2019-07-01), [9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2019-07-01&g=2019-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2019-07-01&g=2019-07-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2019-07-01&g=2019-07-01) gestelde regels.
+De Nederlandse strafwet is, waar nodig met inachtneming van artikel 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of het Verdrag tot rechtsvervolging over te gaan, mede toepasselijk op ieder die zich aan boord van een Nederlands schip buiten Nederland schuldig maakt aan overtreding van de bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-01&g=2025-07-01), [9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2025-07-01&g=2025-07-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2025-07-01&g=2025-07-01) gestelde regels.
 
 ##### Artikel 39
 
