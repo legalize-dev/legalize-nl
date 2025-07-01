@@ -4,7 +4,7 @@ identifier: "BWBR0031430"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031430"
 soort: "ministeriele-regeling"
@@ -162,7 +162,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 7
 
-1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D.
+1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D.
 
 2. Tevens dienen de in het eerste lid bedoelde aanvragers blijk te geven van kennis van:
 
@@ -188,13 +188,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 8
 
-1. De aanvrager van het theorie-examen voor de rijbewijscategorie D die het onderdeel rijbewijs/vakbekwaamheid 1 van het theorie-examen voor de rijbewijscategorie D vóór 1 juli 2023 met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie D door het overgangsexamen rijbewijs D met goed gevolg af te leggen.
-
-2. De aanvrager van het theorie-examen voor de rijbewijscategorie D die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie D vóór 1 juli 2023 met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie D door het theorie-examen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2023-07-01&g=2023-07-01), met goed gevolg af te leggen.
-
-3. De eisen van het overgangsexamen rijbewijs D, bedoeld in het eerste lid, betreffen een deel van de eisen, bedoeld in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=4&z=2023-07-01&g=2023-07-01), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
-
-4. Dit artikel vervalt met ingang van 1 juli 2025.
+Vervallen
 
 ##### Artikel 9
 
@@ -220,13 +214,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-1. De aanvrager van het theorie-examen voor de rijbewijscategorie D1 die het onderdeel rijbewijs/vakbekwaamheid 1 van het theorie-examen voor de rijbewijscategorie D1 vóór 1 juli 2023 met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie D1 door het overgangsexamen rijbewijs D1 met goed gevolg af te leggen.
-
-2. De aanvrager van het theorie-examen voor de rijbewijscategorie D1 die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie D1 vóór 1 juli 2023 met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie D1 door het theorie-examen, bedoeld in de [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01), met goed gevolg af te leggen.
-
-3. De eisen van het overgangsexamen rijbewijs D1, bedoeld in het eerste lid, betreffen een deel van de eisen, genoemd in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=4&z=2023-07-01&g=2023-07-01), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
-
-4. Dit artikel vervalt met ingang van 1 juli 2025.
+Vervallen
 
 #### § 2. **Eisen theorie-examen rijbewijscategorie D**
 
