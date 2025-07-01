@@ -4,7 +4,7 @@ identifier: "BWBR0002616"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "1967-12-30"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002616"
 soort: "AMvB"
@@ -80,7 +80,7 @@ Indien de omstandigheden zulks toelaten, wordt de verdachte in de gelegenheid ge
 
 ##### Artikel 6
 
-1. Van elke strafoplegging aan boord van een nederlands schip wordt aantekening gehouden in het register van strafbare feiten, bedoeld in [artikel 539**u** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539u).
+1. Van elke strafoplegging aan boord van een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, wordt aantekening gehouden in het register van strafbare feiten, bedoeld in [artikel 539u van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539u).
 
 2. Van elke strafoplegging aan boord van een nederlands zeevissersvaartuig wordt aantekening gehouden in het scheepsdagboek, bedoeld in [artikel 348 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=348).
 
