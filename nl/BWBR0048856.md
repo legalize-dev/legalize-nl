@@ -4,7 +4,7 @@ identifier: "BWBR0048856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-11-08"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048856"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **de-minimisverordening:** [Verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L 352/1), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- –. **energiebesparende isolatiemaatregel:** isolatiemaatregel genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2023-11-08&g=2023-11-08);
+- –. **energiebesparende isolatiemaatregel:** isolatiemaatregel genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2025-07-01&g=2025-07-01);
 
 - –. **huurwoning:** in Nederland gelegen voor verhuur bestemde bestaande woonruimte als bedoeld in [artikel 233 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=233), die als zodanig verhuurd is geweest alvorens een eventuele renovatie plaatsvindt en in de basisregistratie, bedoeld in [artikel 2 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=2) met een woonfunctie is geregistreerd, niet zijnde een woonwagen, woonboot of een woning die wordt verhuurd in het kader van vakantiebestedingsbedrijf aan personen die in die woning voor een korte periode verblijf houden;
 
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **procesondersteuner:** natuurlijk persoon of rechtspersoon die belast is met de ondersteuning van het voorbereidings-, besluitvormings- en afstemmingsproces binnen een samenwerkingsverband met het doel de verduurzaming van woningen te bereiken;
 
-- –. **renovatieproject:** project als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2023-11-08&g=2023-11-08);
+- –. **renovatieproject:** project als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2025-07-01&g=2025-07-01);
 
 - –. **samenwerkingsverband:** verband zonder rechtspersoonlijkheid niet zijnde een vennootschap, dat samenwerkt ten behoeve van de voorbereiding en uitvoering van een renovatieproject en bestaat ten minste uit twee woningeigenaren die in totaal ten minste 100 huurwoningen in het renovatieproject inbrengen of ten minste 30 woningeigenaren. Daarnaast mag een samenwerkingsverband bestaan uit twee of meer verenigingen;
 
@@ -90,7 +90,7 @@ Deze regeling heeft tot doel het opschalen van duurzame renovatieprojecten van w
 
 ##### Artikel 3. Staatssteun
 
-Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2023-11-08&g=2023-11-08), wordt toepassing gegeven aan de de-minimisverordening.
+Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2025-07-01&g=2025-07-01), wordt toepassing gegeven aan de de-minimisverordening.
 
 ##### Artikel 4. Subsidieplafond en wijze van verdeling
 
@@ -100,9 +100,9 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 - b. in 2024: € 6.660.000;
 
-- c. in 2025: € 5.000.000; en
+- c. in 2025: € 2.000.000; en
 
-- d. in 2026: € 4.000.000.
+- d. in 2026: € 1.000.000.
 
 2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -164,7 +164,7 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 ##### Artikel 6. Aanvraag van de subsidie
 
-1. De aanvraag voor subsidieverlening wordt door de penvoerder van het samenwerkingsverband, in de periode van 13 november 2023 tot en met 31 december 2026 ingediend, met gebruikmaking van een door de minister elektronisch beschikbaar gesteld formulier op de website van Rijksdienst voor Ondernemend Nederland.
+1. De aanvraag voor subsidieverlening wordt door de penvoerder van het samenwerkingsverband, in de periode van 13 november 2023 tot en met 30 september 2026 ingediend, met gebruikmaking van een door de minister elektronisch beschikbaar gesteld formulier op de website van Rijksdienst voor Ondernemend Nederland.
 
 2. De aanvraag bevat onverminderd [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11) in ieder geval de volgende gegevens en verklaringen:
 
@@ -216,9 +216,9 @@ De minister beslist afwijzend op een deel of de gehele aanvraag voor subsidie in
 
 - 4°. het vergroten van het bestaande dak-, gevel-, vloer- of glasoppervlakte;
 
-- f. de procesondersteuner niet aan de eisen, bedoeld in [artikel 6, tweede lid, onderdelen c en h](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=6&z=2023-11-08&g=2023-11-08) voldoet; of
+- f. de procesondersteuner niet aan de eisen, bedoeld in [artikel 6, tweede lid, onderdelen c en h](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=6&z=2025-07-01&g=2025-07-01) voldoet; of
 
-- g. de procesondersteuner niet deelneemt aan het programma Verbouwstromen, bedoeld in [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=9&z=2023-11-08&g=2023-11-08).
+- g. de procesondersteuner niet deelneemt aan het programma Verbouwstromen, bedoeld in [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=9&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 9. Subsidieverplichtingen
 
