@@ -4,7 +4,7 @@ identifier: "BWBR0035311"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2014-08-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035311"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op bijzondere medi
 
 1. Het is verboden zonder vergunning van de Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren:
 
-- a. orgaantransplantatie, inhoudende transplantatie van hart, nier, pancreas, long, lever of dunne darm, dan wel delen of cellen van deze organen;
+- a. orgaantransplantatie, inhoudende transplantatie van hart, nier, alvleesklier, long, lever of dunne darm, dan wel delen of cellen van deze organen;
 
 - b. implantatie van kunstorganen, voor zover betrekking hebbend op de organen, genoemd onder a, en bedoeld als vervanging van het oorspronkelijke orgaan of een deel daarvan;
 
@@ -66,7 +66,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op bijzondere medi
 
 - f. protonentherapie en andere vormen van deeltjestherapie;
 
-- g. bijzondere neurochirurgie, inhoudende neurochirurgie, voor zover dit de chirurgische behandeling betreft van aandoeningen aan de hersenen, de hersenschedel, de schedelbasis, de hersenzenuwen, het ruggenmerg, de zenuwwortels en de omgevende vliezen, alsmede die aandoeningen die een functiestoornis veroorzaken van hersenen, ruggenmerg of cauda equina, en de microchirurgische behandeling van de plexus brachialis;
+- g. bijzondere neurochirurgie, inhoudende neurochirurgie, voor zover dit de chirurgische behandeling betreft van aandoeningen aan de hersenen, de hersenschedel, de schedelbasis, de hersenzenuwen, het ruggenmerg, de zenuwwortels en de omgevende vliezen, alsmede die aandoeningen die de functionaliteit beïnvloeden van hersenen, ruggenmerg of cauda equina, en de microchirurgische behandeling van de plexus brachialis;
 
 - h. klinisch genetisch onderzoek en erfelijkheidsadvisering, inhoudende:
 
@@ -98,7 +98,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op bijzondere medi
 
 ##### Artikel 2
 
-Vergunningen die zijn verleend ingevolge de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) en daarmee gelijkgestelde vergunningen of toestemmingen, die op het moment van inwerkingtreding van deze regeling geldig zijn voor het uitvoeren van verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035311&artikel=1&z=2014-08-01&g=2014-08-01), worden gelijkgesteld met vergunningen, verleend ingevolge deze regeling.
+Vergunningen die zijn verleend ingevolge de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) en daarmee gelijkgestelde vergunningen of toestemmingen, die op het moment van inwerkingtreding van deze regeling geldig zijn voor het uitvoeren van verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035311&artikel=1&z=2025-07-01&g=2025-07-01), worden gelijkgesteld met vergunningen, verleend ingevolge deze regeling.
 
 ##### Artikel 3
 
