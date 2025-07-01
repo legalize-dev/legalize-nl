@@ -4,7 +4,7 @@ identifier: "BWBR0023123"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2022-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023123"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **A-tarief:** tarief voor de aanvullende diensten, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-01-01&g=2022-01-01);
+- –. **A-tarief:** tarief voor de aanvullende diensten, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01);
 
 - –. **bevoegde autoriteit:** de bevoegde autoriteit, bedoeld in [artikel 1 van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=1);
 
@@ -72,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. direct voorvloeiende uit het doel waarvoor het bijzonder transport wordt uitgevoerd;
 
-- –. **frequentiekorting:** korting op de loodsgeldtarieven als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2022-01-01&g=2022-01-01);
+- –. **frequentiekorting:** korting op de loodsgeldtarieven als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2025-07-01&g=2025-07-01);
 
 - –. **inkomende reis:** reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht:
 
@@ -82,19 +82,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **loodsdienst:** dienst van een registerloods, bedoeld in [artikel 2, eerste tot en met vijfde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2);
 
-- –. **loodsvergoedingen:** vergoedingen ter dekking van de kosten verbonden aan de situaties genoemd in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-01-01&g=2022-01-01);
+- –. **loodsvergoedingen:** vergoedingen ter dekking van de kosten verbonden aan de situaties genoemd in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01);
 
 - –. **organisatie:** krachtens [artikel 15a, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a) aangewezen organisatie;
 
 - –. **rendez-vousreis:** inkomende of uitgaande reis ten behoeve waarvan de loodsdienst begint of eindigt op een daarvoor door de bevoegde autoriteit op zee aanwezen locatie in of nabij de vaargeul die de aanloop vormt tot het betreffende zeehavengebied;
 
-- –. **S-tarief:** starttarief als bedoeld in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-01-01&g=2022-01-01);
+- –. **S-tarief:** starttarief als bedoeld in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2025-07-01&g=2025-07-01);
 
 - –. **schip:** schip als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1) of een zeeschip als bedoeld in artikel 1, tweede lid, onderdeel c, van die wet dan wel hetgeen daarmee is gelijkgesteld of uitgezonderd op grond van artikel 1, derde lid, van die wet;
 
-- –. **T-speciaaltarief:** T-tarief ten behoeve van de situaties, bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-01-01&g=2022-01-01);
+- –. **T-speciaaltarief:** T-tarief ten behoeve van de situaties, bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2025-07-01&g=2025-07-01);
 
-- –. **T-tarief:** trajecttarief, bedoeld in [artikel 4.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-01-01&g=2022-01-01);
+- –. **T-tarief:** trajecttarief, bedoeld in [artikel 4.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2025-07-01&g=2025-07-01);
 
 - –. **uitgaande reis:** reis met een schip of een bijzonder transport ten behoeve waarvan loodsdiensten worden verricht:
 
@@ -112,13 +112,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zusterschepen:** schepen die ten opzichte van elkaar voldoen aan de volgende eisen:
 
-- 1°. gelijkheid van type, volgens Lloyd’s Register of Ships;
+- 1°. gelijkheid van type, volgens Lloyd’s Register of Ships; en
 
-- 2°. een verschil in de lengte over alles, de maximale diepgang op de zomerlastlijn, alsmede de maximale breedte van, respectievelijk, niet meer dan 10%, 15% en 20%;
-
-- 3°. overeenkomstige uitrusting en inrichting van de brug en de navigatie-instrumenten, en,
-
-- 4°. overeenkomende manoeuvreereigenschappen, in het bijzonder ten aanzien van de aanwezigheid van boeg- en hekschroeven en het type en het aantal schroeven en roeren.
+- 2°. een verschil in de lengte over alles, de maximale diepgang op de zomerlastlijn, alsmede de maximale breedte van, respectievelijk, niet meer dan 10%, 15% en 20%.
 
 ### Hoofdstuk 2. Kostentoerekeningssysteem
 
@@ -142,7 +138,7 @@ Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in [ar
 
 ##### Artikel 2.5
 
-Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2022-01-01&g=2022-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2022-01-01&g=2022-01-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
+Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-07-01&g=2025-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-07-01&g=2025-07-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
 
 ##### Artikel 2.6
 
@@ -182,7 +178,7 @@ Het kostentoerekeningssysteem bevat:
 
 ##### Artikel 2.10
 
-De toerekening van de kosten, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2022-01-01&g=2022-01-01), gemoeid met het loodsen van zeeschepen kan plaatsvinden aan elk van de krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebieden naar rato van:
+De toerekening van de kosten, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2025-07-01&g=2025-07-01), gemoeid met het loodsen van zeeschepen kan plaatsvinden aan elk van de krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebieden naar rato van:
 
 - a. de door registerloodsen te besteden uren, al dan niet naar rato van bij ministeriële regeling vast te stellen scheepsklassen;
 
@@ -232,11 +228,11 @@ Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst.
 
 2. Het S-tarief en het T-tarief worden onderscheiden in een afhankelijk van de diepgang te bepalen tarief voor in- of uitgaande reizen, rendez-vousreizen en verhaalreizen.
 
-3. Het S-tarief strekt ter dekking van de kosten die samenhangen met het bestellen van een loods met uitzondering van de kosten die zijn verbonden aan het gebruik van een helikopter, bedoeld in [artikel 4.6, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-01-01&g=2022-01-01).
+3. Het S-tarief strekt ter dekking van de kosten die samenhangen met het bestellen van een loods met uitzondering van de kosten die zijn verbonden aan het gebruik van een helikopter, bedoeld in [artikel 4.6, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01).
 
 4. Het T-tarief strekt ter dekking van de kosten die verbonden zijn aan het tijdens de loodsdienst af te leggen traject. Ter nadere bepaling van het T-tarief worden de zeehavengebieden bij ministeriële regeling, ingedeeld in tariefgebieden waaraan steeds een, afhankelijk van de tijd die een in- of uitgaande reis of rendez-vousreis naar dat tariefgebied gebruikelijk in beslag neemt, tariefkolom wordt verbonden.
 
-5. In afwijking van het vierde lid wordt voor de situaties genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2022-01-01&g=2022-01-01) een T-speciaaltarief vastgesteld.
+5. In afwijking van het vierde lid wordt voor de situaties genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2025-07-01&g=2025-07-01) een T-speciaaltarief vastgesteld.
 
 ##### Artikel 4.4
 
@@ -290,7 +286,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 ##### Artikel 4.7
 
-1. De Autoriteit Consument en Markt stelt de S-, T-, T-speciaal en A-tarieven alsmede de loodsvergoedingen vast en stelt rekenregels vast voor reizen waarin meerdere aanvullende diensten als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-01-01&g=2022-01-01), worden verricht.
+1. De Autoriteit Consument en Markt stelt de S-, T-, T-speciaal en A-tarieven alsmede de loodsvergoedingen vast en stelt rekenregels vast voor reizen waarin meerdere aanvullende diensten als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), worden verricht.
 
 2. Onverminderd het eerste lid, stelt de Autoriteit Consument en Markt een schema en rekenregels vast voor het verlenen van frequentiekorting aan:
 
@@ -302,7 +298,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 ##### Artikel 4.8
 
-1. Voor alle reizen ten behoeve waarvan loodsdiensten worden verricht is, afhankelijk van de diepgang van het schip of het bijzondere transport, het bij het type reis behorende S-tarief en een daarbij horend T-tarief verschuldigd. Naast het S- en een T-tarief zijn, indien zich situaties voordoen als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-01-01&g=2022-01-01) of [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-01-01&g=2022-01-01), een A-tarief en loodsvergoedingen verschuldigd.
+1. Voor alle reizen ten behoeve waarvan loodsdiensten worden verricht is, afhankelijk van de diepgang van het schip of het bijzondere transport, het bij het type reis behorende S-tarief en een daarbij horend T-tarief verschuldigd. Naast het S- en een T-tarief zijn, indien zich situaties voordoen als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01) of [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), een A-tarief en loodsvergoedingen verschuldigd.
 
 2. Een reis waarbij de loodsdienst voor een periode van minder dan 6 uur wordt onderbroken, omdat het schip tijdens de reis voor anker gaat of zonder voor anker te gaan stil ligt zonder de bestemming bereikt te hebben en zonder dat personen of goederen van of aan boord werden genomen, wordt aangemerkt als één reis.
 
@@ -310,17 +306,17 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 4. Onverminderd het eerste lid, is, indien bij een inkomende of uitgaande reis of een verhaalreis gelijktijdig gebruik wordt gemaakt van de diensten van meer dan een loods, voor elke extra loods 75% op het voor die loodsdienst van toepassing zijnde T-en A-tarief verschuldigd.
 
-5. Indien zich de situatie, bedoeld in [artikel 4.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-01-01&g=2022-01-01), voordoet wordt in afwijking van het eerste lid, geen S- en T-tarief in rekening gebracht, maar slechts de in dat onderdeel bedoelde loodsvergoeding.
+5. Indien zich de situatie, bedoeld in [artikel 4.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), voordoet wordt in afwijking van het eerste lid, geen S- en T-tarief in rekening gebracht, maar slechts de in dat onderdeel bedoelde loodsvergoeding.
 
 6. In afwijking van het eerste lid, eerste volzin, worden voor inkomende en uitgaande reizen van schepen die zijn opgenomen in het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6, eerste lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6), die alleen op zee loodsplichtig zijn en waarbij geen loodsdienst aan boord van het schip wordt verricht, het S-verhaaltarief en de eerste kolom van het T-verhaaltarief in rekening gebracht.
 
 ##### Artikel 4.9
 
-1. De organisatie verleent op het bedrag dat in één kalenderjaar aan S-, T- en A-tarief aan een schip, een cluster van zusterschepen of een consortium als bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2022-01-01&g=2022-01-01), in rekening is gebracht, een frequentiekorting.
+1. De organisatie verleent op het bedrag dat in één kalenderjaar aan S-, T- en A-tarief aan een schip, een cluster van zusterschepen of een consortium als bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01), in rekening is gebracht, een frequentiekorting.
 
 2. Een schip maakt tegelijkertijd slechts deel uit van één cluster van zusterschepen of consortium
 
-3. De frequentiekorting wordt verleend nadat daarvoor uiterlijk 31 december van het kalenderjaar waarop de aanvraag betrekking heeft, een volledige aanvraag bij de organisatie is ingediend via een daartoe beschikbaar gesteld aanvraagformulier. De aanvrager maakt daarbij aannemelijk dat door het schip, cluster van zusterschepen of consortium ten minste aan de minimale frequentie in calls, bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2022-01-01&g=2022-01-01), wordt voldaan of zal worden voldaan.
+3. De frequentiekorting wordt verleend nadat daarvoor uiterlijk 31 december van het kalenderjaar waarop de aanvraag betrekking heeft, een volledige aanvraag bij de organisatie is ingediend via een daartoe beschikbaar gesteld aanvraagformulier. De aanvrager maakt daarbij aannemelijk dat door het schip, cluster van zusterschepen of consortium ten minste aan de minimale frequentie in calls, bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01), wordt voldaan of zal worden voldaan.
 
 4. De korting wordt verleend met ingang van de eerste dag van het kalenderjaar waarin de aanvraag werd gedaan en kan, zolang aan het derde lid wordt voldaan, op voorschotbasis op het te factureren bedrag in mindering worden gebracht.
 
@@ -376,7 +372,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 - a. het tarief van het lopende jaar:
 
-- b. vermeerderd met zeventig procent van de index, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01);
+- b. vermeerderd met zeventig procent van de index, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=3&artikel=3.1&z=2025-07-01&g=2025-07-01);
 
 - c. vermeerderd met dertig procent van de index, bedoeld in het tweede lid; en
 
