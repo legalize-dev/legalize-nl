@@ -4,7 +4,7 @@ identifier: "BWBR0027703"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2007-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027703"
 soort: "zbo"
@@ -69,7 +69,9 @@ In deze regeling wordt verstaan onder:
 
 - i. verplaatsing van een binnenschip: hetgeen daaronder wordt verstaan in [artikel 785, tweede lid, onder a, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=785);
 
-- j. het stukidentificatienummer: het stukidentificatienummer, bedoeld in [artikel 11c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11c).
+- j. het stukidentificatienummer: het stukidentificatienummer, bedoeld in [artikel 11c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11c);
+
+- k. M.t.s.: [Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260).
 
 ### Hoofdstuk 2. De openbare registers voor schepen
 
@@ -103,7 +105,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2007-07-01&g=2007-07-01).
+1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2025-07-01&g=2025-07-01).
 
 2. De bewaarder verklaart de inhoud van het formulier overeenkomstig het origineel, welke verklaring door hem wordt ondertekend.
 
@@ -268,9 +270,9 @@ alsmede
 
 3. Een uittreksel inzake een niet-actuele toestand wordt zoveel mogelijk verstrekt in de vorm van een mechanische reproductie van het desbetreffende stuk.
 
-4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
+4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2025-07-01&g=2025-07-01) bij deze regeling is gevoegd.
 
-5. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
+5. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2025-07-01&g=2025-07-01) bij deze regeling is gevoegd.
 
 6. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde afschriften worden verstrekt in de vorm van mechanische reproducties van die bescheiden.
 
@@ -306,7 +308,7 @@ De raadpleging van de kadastrale registratie voor schepen geschiedt door het ver
 
 ##### Artikel 25
 
-De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
+De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2025-07-01&g=2025-07-01) bij deze regeling is gevoegd.
 
 ##### Artikel 26
 
@@ -326,7 +328,7 @@ Omtrent de wijze waarop de in [artikel 116 van de wet](https://wetten.overheid.n
 
 2. Deze regeling wordt aangehaald als: Regeling teboekgestelde schepen 1994, dan wel als: R.t.s. 1994.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2007-07-01&g=2007-07-01).
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2025-07-01&g=2025-07-01).
 
 ## Bijlage 1
 
@@ -343,6 +345,130 @@ Niet opgenomen.
 ## Bijlage 4
 
 Niet opgenomen.
+
+## Bijlage 5
+
+Niet opgenomen.
+
+## Bijlage 6
+
+Niet opgenomen.
+
+## Bijlage 7
+
+Niet opgenomen.
+
+## Bijlage 1
+
+Niet opgenomen.
+
+## Bijlage 2
+
+Niet opgenomen.
+
+## Bijlage 3
+
+Niet opgenomen.
+
+## Bijlage 4
+
+Niet opgenomen.
+
+##### Artikel 13a
+
+1. Een eigenaar van een zeeschip overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
+
+- a. een afschrift van de geldende statuten van de eigenaar;
+
+- b. een opgave van een notaris betreffende de namen en adressen van de bestuurders;
+
+- c. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), waaronder de vestiging van de eigenaar in Nederland is ingeschreven;
+
+- d. een opgave van de eigenaar van de namen en de bijbehorende contactgegevens van de natuurlijke personen die namens de eigenaar verantwoordelijk zijn voor het zeeschip, de kapitein en de overige leden van de bemanning en van hun plaatsvervangers, bedoeld in [artikel 194a, eerste lid, onderdeel c, onderscheidenlijk onderdeel d, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), waarop zij bereikbaar zijn;
+
+- e. het adres waar de natuurlijke personen, bedoeld in onderdeel d, in Nederland kantoor houden; en
+
+- f. een verklaring van de eigenaar waaruit blijkt dat de natuurlijke personen, bedoeld in onderdeel d, voor zover op hen van toepassing, beschikken over de bevoegdheden, bedoeld in [artikel 194a, eerste lid, onderdelen c en d, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) en dat zij bij voortduring bereikbaar zijn.
+
+2. Indien de eigenaar een niet rechtspersoonlijkheid bezittende vennootschap of een rederij is, wordt in afwijking van het eerste lid, onderdeel a, een afschrift van de akte van het aangaan van een vennootschap of een rederij overgelegd. In afwijking van het eerste lid, onderdeel b, wordt tevens een opgave van een notaris betreffende de namen en adressen van de hoofdelijk aansprakelijke vennoten of leden van de rederij overgelegd.
+
+3. Indien de eigenaar een natuurlijk persoon is, wordt in afwijking van het eerste lid, onderdelen a en b, een opgave van een notaris omtrent de naam, het adres en de nationaliteit van de eigenaar overgelegd.
+
+##### Artikel 13b
+
+Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de uitoefening voor een beroep of bedrijf, overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
+
+- a. een opgave van de eigenaar van de naam en de nationaliteit, en de bijbehorende contactgegevens, van hemzelf en van zijn vertegenwoordiger, bedoeld in [artikel 194a, tweede lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), waarop zij bereikbaar zijn;
+
+- b. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), waaronder de vestiging van de eigenaar in Nederland is ingeschreven;
+
+- c. een verklaring van de eigenaar waaruit blijkt dat er bij voortduring een vertegenwoordiger van hem in Nederland bereikbaar is, die beschikt over de bevoegdheden, om onverwijld te kunnen handelen in situaties waarin dat geboden is.
+
+##### Artikel 13c
+
+1. Indien toepassing wordt gegeven aan [artikel 194a, derde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) en de eigenaar de verantwoordelijkheid voor het beheer van zijn schip overdraagt aan een vennootschap, legt de eigenaar bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens over:
+
+- a. een afschrift van de geldende statuten van de eigenaar;
+
+- b. een opgave van een notaris betreffende de namen en adressen van de bestuurders van de eigenaar;
+
+- c. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), waaronder de vestiging van de eigenaar in Nederland is ingeschreven. Indien de eigenaar geen hoofdvestiging of nevenvestiging in Nederland heeft, wordt een opgave van de eigenaar van de woonplaatskeuze, bedoeld in [artikel 194a, derde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) overgelegd.
+
+- d. een afschrift van de geldende statuten van de vennootschap;
+
+- e. een opgave van een notaris betreffende de namen en adressen van de bestuurders van de vennootschap;
+
+- f. een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), waaronder de vestiging van de vennootschap in Nederland is ingeschreven;
+
+- g. een opgave van de vennootschap van de namen en de bijbehorende contactgegevens van de natuurlijke personen die namens die vennootschap verantwoordelijk zijn voor het zeeschip, de kapitein en de overige leden van de bemanning en van hun plaatsvervangers, bedoeld in [artikel 194a, eerste lid, onderdeel c, onderscheidenlijk onderdeel d, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), waarop zij bereikbaar zijn;
+
+- h. het adres waar de natuurlijke personen, bedoeld in onderdeel g, in Nederland kantoor houden;
+
+- i. een verklaring van die vennootschap waaruit blijkt dat de natuurlijke personen, bedoeld in onderdeel g, voor zover op hen van toepassing, beschikken over de bevoegdheden, bedoeld in [artikel 194a, derde lid juncto eerste lid, onderdelen c en d, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), en dat zij bij voortduring bereikbaar zijn;
+
+2. Indien de eigenaar, bedoeld in het eerste lid, een niet rechtspersoonlijkheid bezittende vennootschap of rederij is, legt de eigenaar in afwijking van het eerste lid, onderdeel a, een afschrift van de akte van het aangaan van de vennootschap of rederij over. In afwijking van het eerste lid, onderdeel b, wordt een opgave van de notaris betreffende de namen en adressen van de hoofdelijk aansprakelijke vennoten of leden van de rederij overgelegd.
+
+3. Indien de eigenaar een natuurlijk persoon is, wordt in afwijking van het eerste lid, onderdeel a en b, een opgave van een notaris van de naam, het adres en de nationaliteit van de eigenaar overgelegd.
+
+4. Indien de vennootschap, bedoeld in het eerste lid, een niet rechtspersoonlijkheid bezittende vennootschap of rederij is, legt de eigenaar in afwijking van het eerste lid, onderdeel d, een afschrift van de akte van het aangaan van de vennootschap of rederij over. In afwijking van het eerste lid, onderdeel e, wordt een opgave van de notaris betreffende de namen en adressen van de hoofdelijk aansprakelijke vennoten of leden van de rederij overgelegd.
+
+##### Artikel 13d
+
+1. Een eigenaar die van een zeeschip dat uitsluitend anders dan in de uitoefening van een beroep of bedrijf, de teboekstelling wenst te verkrijgen, overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
+
+- a. een afschrift van de geldende statuten van de eigenaar;
+
+- b. een opgave van een notaris betreffende de namen en adressen van de bestuurders;
+
+- c. een afschrift van de volmacht, bedoeld in [artikel 194a, vierde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), en een opgave van de eigenaar van de naam en de bijbehorende contactgegevens van de natuurlijke persoon aan wie die volmacht is verstrekt, waarop die persoon bereikbaar is.
+
+2. Indien de eigenaar een niet-rechtspersoonlijkheid bezittende vennootschap of een rederij is, wordt in afwijking van het eerste lid, onderdeel a, een afschrift van de akte van het aangaan van een vennootschap of een rederij overgelegd. In afwijking van het eerste lid, onderdeel b, wordt een opgave van een notaris betreffende de namen en adressen van de hoofdelijk aansprakelijke vennoten of leden van de rederij overgelegd.
+
+3. Indien de eigenaar een natuurlijke persoon is, wordt in afwijking van het eerste lid, onderdelen a en b, een opgave van de naam, de bijbehorende contactgegevens waarop hij bereikbaar is en de nationaliteit van de eigenaar overgelegd.
+
+##### Artikel 13e
+
+1. Bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) wordt in aanvulling op de [artikelen 13a tot en met 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) de volgende bewijsstukken en gegevens ten aanzien van het desbetreffende zeeschip overgelegd:
+
+- a. de meetbrief, afgegeven volgens de bestaande wettelijke voorschriften;
+
+- b. de bijlbrief, de koopbrief of enig ander bewijsstuk van eigendom, of een stuk waaruit de titel krachtens welke de levering van het zeeschip aan de aanvrager zal plaatsvinden binnen vier weken na de dag waarop de aanvraag wordt gedaan;
+
+2. Bewijsstukken en gegevens als bedoeld in de [artikelen 13a tot en met 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) mogen niet ouder zijn dan vier weken.
+
+##### Artikel 13f
+
+Indien een aanvraag als bedoeld in [artikel 37, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=37) wordt ingediend door de verkrijger, zijn de [artikelen 13a tot en met 13e](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing ten aanzien van de te overleggen bewijsstukken en gegevens, met dien verstande dat voor ‘eigenaar’ steeds ‘verkrijger’ wordt gelezen.
+
+### Hoofdstuk 5. Branding
+
+### Hoofdstuk 6. Verstrekking van inlichtingen uit de registratie voor schepen en de openbare registers voor schepen
+
+### Hoofdstuk 7. Overige en slotbepalingen
+
+##### Artikel 27a
+
+Deze regeling is mede gebaseerd op [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15), en [37, zevende lid, van de M.t.s](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=37).
 
 ## Bijlage 5
 
