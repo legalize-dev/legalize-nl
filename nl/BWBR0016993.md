@@ -4,7 +4,7 @@ identifier: "BWBR0016993"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2010-12-31"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016993"
 soort: "wet"
@@ -61,7 +61,7 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid van de Tijdeli
 
 - e. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
-2. Voor de toepassing van deze wet wordt met een buitenlands schip gelijkgesteld een schip dat op grond van Arubaanse, Curaçaose of Sint Maartense rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren.
+2. Voor de toepassing van deze wet wordt met een buitenlands schip gelijkgesteld een schip dat op grond van voor Aruba, Curaçao of Sint Maarten geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren.
 
 ##### Artikel 2
 
@@ -83,13 +83,13 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 - b. het op grond van deze wet verrichten van onderzoeken of van andere werkzaamheden ten behoeve van buitenlandse schepen;
 
-- c. de aanhouding van schepen, voorzover een besluit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31), verplicht tot het doorberekenen van de met de aanhouding gemoeide kosten.
+- c. de aanhouding van schepen, voorzover een besluit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01), verplicht tot het doorberekenen van de met de aanhouding gemoeide kosten.
 
 ### Hoofdstuk 3. Toezicht en handhaving
 
 ##### Artikel 5
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de met inachtneming van de besluiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31), bij besluit van Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de met inachtneming van de besluiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01), bij besluit van Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 2. Onze Minister kan voor bepaalde door hem aan te wijzen taken, verband houdende met het toezicht op de naleving van het bij of krachtens deze wet bepaalde, ambtenaren van andere diensttakken ter beschikking stellen van de Inspectie Verkeer en Waterstaat. Indien de terbeschikkingstelling ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister wie het mede aangaat.
 
@@ -109,17 +109,17 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 - a. aanhouding van buitenlandse schepen:
 
-- 1º. wegens het niet voldoen aan krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31) gestelde regels;
+- 1º. wegens het niet voldoen aan krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01) gestelde regels;
 
-- 2º. indien een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=4&z=2010-12-31&g=2010-12-31) verschuldigde vergoeding niet is voldaan of
+- 2º. indien een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01) verschuldigde vergoeding niet is voldaan of
 
 - 3º. indien hij wordt belemmerd in de uitoefening van zijn taak;
 
-- b. stopzetting van activiteiten met of aan boord van buitenlandse schepen, indien die activiteiten worden verricht in strijd met krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31) gestelde regels.
+- b. stopzetting van activiteiten met of aan boord van buitenlandse schepen, indien die activiteiten worden verricht in strijd met krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01) gestelde regels.
 
 2. Het eerste lid is van toepassing indien die schepen zich bevinden in een haven of in de Nederlandse territoriale zee, komend vanuit of op weg naar een haven.
 
-3. Een toezichthouder is tevens bevoegd tot aanhouding van buitenlandse schepen of tot stopzetting van activiteiten met of aan boord van buitenlandse schepen in de in het tweede lid bedoelde wateren, indien niet voldaan is aan bij ministeriële regeling aan te wijzen bepalingen van een rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31), voorzover het desbetreffende besluit van toepassing is in de hiervoor bedoelde wateren.
+3. Een toezichthouder is tevens bevoegd tot aanhouding van buitenlandse schepen of tot stopzetting van activiteiten met of aan boord van buitenlandse schepen in de in het tweede lid bedoelde wateren, indien niet voldaan is aan bij ministeriële regeling aan te wijzen bepalingen van een rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01), voorzover het desbetreffende besluit van toepassing is in de hiervoor bedoelde wateren.
 
 4. Zodra er geen reden is om de aanhouding van een schip of de stopzetting van een activiteit langer te laten voortduren, heft de toezichthouder de aanhouding of stopzetting op.
 
@@ -153,15 +153,15 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 ##### Artikel 11
 
-1. Overtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=3&artikel=8&z=2010-12-31&g=2010-12-31) wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+1. Overtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=3&artikel=8&z=2025-07-01&g=2025-07-01) wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-2. Overtreding van de krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2010-12-31&g=2010-12-31) gestelde regels wordt, voorzover overtreding van die regels bij ministeriële regeling als strafbaar feit is aangemerkt, gestraft met hechtenis van ten hoogste vier maanden of geldboete van de derde categorie.
+2. Overtreding van de krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01) gestelde regels wordt, voorzover overtreding van die regels bij ministeriële regeling als strafbaar feit is aangemerkt, gestraft met hechtenis van ten hoogste vier maanden of geldboete van de derde categorie.
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven. De in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 12
 
-1. Met de opsporing van de bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=11&z=2010-12-31&g=2010-12-31) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de bij besluit van Onze Minister van Justitie aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
+1. Met de opsporing van de bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=11&z=2025-07-01&g=2025-07-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de bij besluit van Onze Minister van Justitie aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -179,7 +179,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 16
 
-Deze wet treedt in werking met ingang van de dag na de uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2010-12-31&g=2010-12-31) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=15&z=2010-12-31&g=2010-12-31) die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor de onderdelen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2010-12-31&g=2010-12-31) verschillend kan worden gesteld.
+Deze wet treedt in werking met ingang van de dag na de uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=15&z=2025-07-01&g=2025-07-01) die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor de onderdelen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2025-07-01&g=2025-07-01) verschillend kan worden gesteld.
 
 ##### Artikel 17
 
