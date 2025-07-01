@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -160,7 +160,7 @@ Met betrekking tot het registratieobject mijnbouwwetvergunning binnen de categor
 
 - b. voor zover van toepassing, het in het handelsregister opgenomen unieke nummer van de onderneming of rechtspersoon die:
 
-- 1°. in opdracht van een bestuursorgaan zorg draagt voor de levering van brondocumenten aan Onze Minister,
+- 1°. in opdracht van een bestuursorgaan of drinkwaterbedrijf zorg draagt voor de levering van brondocumenten aan Onze Minister,
 
 - 2°. belast is met de realisatie van een constructie,
 
@@ -186,7 +186,7 @@ Met betrekking tot het registratieobject mijnbouwwetvergunning binnen de categor
 
 - c. grondwaterstanden, indien de gerede twijfel is ontstaan door een afwijking ten opzichte van het gegeven ten gevolge van het handhaven van waterstanden die zijn vastgesteld in een peilbesluit als bedoeld in [artikel 2.41 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.41).
 
-3. Indien de gerede twijfel, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30) ontstaat in een geval waarin sprake is van een onderzoek naar een strafbaar of belastbaar feit, kan de melding door het bestuursorgaan, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30), eveneens achterwege blijven.
+3. Indien de gerede twijfel, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30) ontstaat in een geval waarin sprake is van een onderzoek naar een strafbaar of belastbaar feit, kan de melding door het bestuursorgaan of drinkwaterbedrijf, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30), eveneens achterwege blijven.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -212,9 +212,9 @@ Met betrekking tot het registratieobject booronderzoek binnen de categorie verke
 
 Met betrekking tot het registratieobject wandonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige wandbeschrijving met de resultaten van een onderzoek van de wand van een profielkuil op een locatie naar de bodemkundige eigenschappen van de bodem door middel van grondmonsters die zijn verkregen van de wand van een profielkuil of andere ontsluiting aan de hand waarvan de bodemopbouw in verschillende horizonten is beschreven.
 
-#### § 2. Bodemkwaliteit
+#### § 2. Milieukwaliteit
 
-#### § 6. Modellen
+#### § 3. Grondwatermonitoring
 
 ##### Artikel 2.6.1
 
@@ -286,7 +286,7 @@ Met betrekking tot het registratieobject booronderzoek binnen de categorie verke
 
 ##### Artikel 2.3.0
 
-Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met de resultaten van een onderzoek in het kader van grondwatermonitoring dat door of in opdracht van een bestuursorgaan is uitgevoerd, gewijzigd of wordt gebruikt:
+Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met de resultaten van een onderzoek in het kader van grondwatermonitoring dat door of in opdracht van een bestuursorgaan of drinkwaterbedrijf is uitgevoerd, gewijzigd of wordt gebruikt:
 
 - a. met de bedoeling om dat voor ten minste één jaar te doen,
 
@@ -316,7 +316,7 @@ Met betrekking tot het registratieobject grondwaterstandonderzoek binnen de cate
 
 #### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
 
-#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+#### § 4. Grondwatergebruik
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
@@ -393,6 +393,28 @@ Met betrekking tot het registratieobject grondwaterproductiedossier binnen de ca
 #### § 6. Modellen
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.2.1
+
+Met betrekking tot het registratieobject milieuhygiënisch bodemonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document met de resultaten van onderzoek naar het voorkomen van verontreinigende stoffen in de bodem op een bepaalde onderzoekslocatie.
+
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+#### § 6. Modellen
+
+### Hoofdstuk 3. De registratie ondergrond
+
+##### Artikel 3.5
+
+1. Een drinkwaterbedrijf levert brondocumenten als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2025-07-01&g=2025-07-01) aan Onze Minister.
+
+2. Voor zover een drinkwaterbedrijf in het kader van een vergunningprocedure of een melding gegevens aanlevert bij gedeputeerde staten van een provincie, levert het drinkwaterbedrijf in plaats van gedeputeerde staten die gegevens, als die brondocumenten betreft als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2025-07-01&g=2025-07-01), aan Onze Minister.
+
+3. Van de levering van brondocumenten, bedoeld in het eerste lid, zijn uitgesloten de brondocumenten die betrekking hebben op data die primair zijn ingewonnen in het kader van de eigen bedrijfsvoering van een drinkwaterbedrijf en die geen representatieve waarde hebben voor inzicht in de ondergrond.
 
 ### Hoofdstuk 5. Slotbepalingen
 
