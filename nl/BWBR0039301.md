@@ -4,7 +4,7 @@ identifier: "BWBR0039301"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2020-07-25"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039301"
 soort: "wet"
@@ -221,7 +221,7 @@ Wijzigt de Wet zeevarenden.
 
 ##### Artikel XLIIIa
 
-Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=I&z=2020-07-25&g=2020-07-25) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=III&z=2020-07-25&g=2020-07-25) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de mogelijkheid van betaling in termijnen van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) alsmede van de mogelijkheid van beëindiging van de tenuitvoerlegging van geldboeten waarvoor geen gratie kan worden verleend indien met de voorzetting daarvan geen redelijk doel wordt gediend.
+Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=I&z=2025-07-01&g=2025-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=III&z=2025-07-01&g=2025-07-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de mogelijkheid van betaling in termijnen van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) alsmede van de mogelijkheid van beëindiging van de tenuitvoerlegging van geldboeten waarvoor geen gratie kan worden verleend indien met de voorzetting daarvan geen redelijk doel wordt gediend.
 
 ##### Artikel XLIV
 
@@ -247,7 +247,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel XLIVa
 
-1. De wijzigingen van de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) hebben geen gevolgen voor de toepassing van een lijfsdwang of vervangende hechtenis die door de rechter is bepaald voor het tijdstip waarop [artikel II, onderdelen W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=II&z=2020-07-25&g=2020-07-25), van deze wet in werking treden.
+1. De wijzigingen van de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) hebben geen gevolgen voor de toepassing van een lijfsdwang of vervangende hechtenis die door de rechter is bepaald voor het tijdstip waarop [artikel II, onderdelen W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=II&z=2025-07-01&g=2025-07-01), van deze wet in werking treden.
 
 2. Een lijfsdwang of vervangende hechtenis, bedoeld in het eerste lid, wordt toegepast met inachtneming van de daarop betrekking hebbende artikelen zoals die luidden voor de inwerkingtreding van deze wet, met dien verstande dat de [artikelen 6:4:20, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) en [6:6:25, zevende lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) van overeenkomstige toepassing zijn.
 
