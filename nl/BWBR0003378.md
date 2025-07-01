@@ -4,7 +4,7 @@ identifier: "BWBR0003378"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2021-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003378"
 soort: "wet"
@@ -57,7 +57,7 @@ Deze wet verstaat onder:
 
 - f. "Nederlands schip":
 
-- 1°. een zeeschip dat Nederlands is op grond van [artikel 311 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311), [artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681&artikel=5) of [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), dan wel
+- 1°. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, dan wel
 
 - 2°. een binnenschip dat voldoet aan tenminste een der in het [eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) gestelde voorwaarden;
 
@@ -123,7 +123,7 @@ De bepalingen van deze paragraaf zijn van toepassing op alle Nederlandse schepen
 
 ##### Artikel 5
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder **a**, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2021-07-01&g=2021-07-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder **a**, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 6
 
@@ -135,11 +135,11 @@ De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als 
 
 ##### Artikel 7
 
-Indien de aanvrager van een meetbrief, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2021-07-01&g=2021-07-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
+Indien de aanvrager van een meetbrief, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2025-07-01&g=2025-07-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
 
 ##### Artikel 8
 
-Onze Minister kan, in afwijking van het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2021-07-01&g=2021-07-01), een Staat, aangesloten bij het Verdrag, verzoeken de bruto- en netto-tonnage van een schip vast te stellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) af te geven.
+Onze Minister kan, in afwijking van het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2025-07-01&g=2025-07-01), een Staat, aangesloten bij het Verdrag, verzoeken de bruto- en netto-tonnage van een schip vast te stellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) af te geven.
 
 ##### Artikel 9
 
@@ -157,11 +157,11 @@ Onze Minister kan, in afwijking van het bepaalde in [artikel 6, eerste lid](http
 
 ##### Artikel 10
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2021-07-01&g=2021-07-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 11
 
-1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2021-07-01&g=2021-07-01), ten behoeve van een bestaand schip, kan Onze Minister tot het tijdstip, twaalf jaar na de datum van de inwerkingtreding van het Verdrag, de tonnages vaststellen overeenkomstig de bepalingen, die door de Scheepsmetingsdienst werden toegepast voor de datum van de inwerkingtreding van het Verdrag.
+1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01), ten behoeve van een bestaand schip, kan Onze Minister tot het tijdstip, twaalf jaar na de datum van de inwerkingtreding van het Verdrag, de tonnages vaststellen overeenkomstig de bepalingen, die door de Scheepsmetingsdienst werden toegepast voor de datum van de inwerkingtreding van het Verdrag.
 
 2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan Onze Minister de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
@@ -169,17 +169,17 @@ De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als
 
 ##### Artikel 12
 
-Indien de aanvrager van een meetbrief, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=C&artikel=11&z=2021-07-01&g=2021-07-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
+Indien de aanvrager van een meetbrief, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=C&artikel=11&z=2025-07-01&g=2025-07-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
 
 #### § D. Bepalingen met betrekking tot Nederlandse schepen met een lengte van minder dan 24 meter
 
 ##### Artikel 13
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2021-07-01&g=2021-07-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 14
 
-1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2021-07-01&g=2021-07-01), stelt Onze Minister de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
+1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01), stelt Onze Minister de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
 
 2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan Onze Minister de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
@@ -187,7 +187,7 @@ De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als
 
 ##### Artikel 15
 
-Indien de aanvrager van een meetbrief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=D&artikel=14&z=2021-07-01&g=2021-07-01) van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
+Indien de aanvrager van een meetbrief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=D&artikel=14&z=2025-07-01&g=2025-07-01) van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
 
 ### Hoofdstuk III. Bepalingen met betrekking tot schepen, andere dan Nederlandse schepen
 
@@ -209,7 +209,7 @@ De bepalingen van deze paragraaf zijn uitsluitend van toepassing op schepen, and
 
 ##### Artikel 18
 
-De Internationale Meetbrief (1969), afgegeven door een andere Staat, aangesloten bij het Verdrag, wordt, behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=9&z=2021-07-01&g=2021-07-01), door Nederland erkend en voor alle doelstellingen, waarop het Verdrag betrekking heeft, door Nederland geacht dezelfde geldigheid te bezitten als de door Onze Minister, dan wel de inspecteur-generaal afgegeven meetbrieven.
+De Internationale Meetbrief (1969), afgegeven door een andere Staat, aangesloten bij het Verdrag, wordt, behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=9&z=2025-07-01&g=2025-07-01), door Nederland erkend en voor alle doelstellingen, waarop het Verdrag betrekking heeft, door Nederland geacht dezelfde geldigheid te bezitten als de door Onze Minister, dan wel de inspecteur-generaal afgegeven meetbrieven.
 
 ##### Artikel 19
 
@@ -227,13 +227,13 @@ De bepalingen van deze paragraaf zijn uitsluitend van toepassing op schepen, and
 
 1. Op verzoek van een Staat, kan Onze Minister ten behoeve van een schip, geen Nederlands schip zijnde, een bijzondere meetbrief afgeven, zulks tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
 
-2. Op de bijzondere meetbrief, afgegeven ingevolge het eerste lid van dit artikel, is het bepaalde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=A&artikel=17&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
+2. Op de bijzondere meetbrief, afgegeven ingevolge het eerste lid van dit artikel, is het bepaalde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=A&artikel=17&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 3. De bijzondere meetbrief, bedoeld in het eerste lid van dit artikel, dient een verklaring te bevatten, inhoudende overeenkomstig welke bepalingen de tonnages van het schip, waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
 ##### Artikel 22
 
-Bijzondere meetbrieven, afgegeven ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=B&artikel=21&z=2021-07-01&g=2021-07-01), kunnen voor een bepaalde termijn of onder beperkingen worden afgegeven.
+Bijzondere meetbrieven, afgegeven ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=B&artikel=21&z=2025-07-01&g=2025-07-01), kunnen voor een bepaalde termijn of onder beperkingen worden afgegeven.
 
 ### Hoofdstuk IV. Nadere regelingen
 
@@ -263,7 +263,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 ##### Artikel 25
 
-1. Met het toezicht op de naleving van de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2021-07-01&g=2021-07-01), bedoelde verplichting zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
+1. Met het toezicht op de naleving van de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2025-07-01&g=2025-07-01), bedoelde verplichting zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 2. De toezichthouder dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), oefent zijn bevoegdheden slechts uit ten aanzien van een schip, ongeacht welke vlag het voert, dat zich in een Nederlandse haven bevindt.
 
@@ -275,7 +275,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 ##### Artikel 26
 
-1. Elk schip, ongeacht welke vlag het voert, dat zich bevindt in een Nederlandse haven en niet is voorzien van een meetbrief als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2021-07-01&g=2021-07-01), is verplicht te voldoen aan een vordering van de ambtenaren van de Inspectie Verkeer en Waterstaat tot vaststelling van de bruto- en netto-tonnage van het schip.
+1. Elk schip, ongeacht welke vlag het voert, dat zich bevindt in een Nederlandse haven en niet is voorzien van een meetbrief als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2025-07-01&g=2025-07-01), is verplicht te voldoen aan een vordering van de ambtenaren van de Inspectie Verkeer en Waterstaat tot vaststelling van de bruto- en netto-tonnage van het schip.
 
 2. Zolang de in het eerste lid bedoelde vaststelling niet heeft plaatsgevonden, verlenen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, geen expeditie.
 
@@ -285,11 +285,11 @@ De kapitein van een Nederlands schip, die daarmee een reis onderneemt zonder dat
 
 ##### Artikel 28
 
-De kapitein van een Nederlands schip, dat niet voldoet aan een der verplichtingen, vermeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=25&z=2021-07-01&g=2021-07-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=26&z=2021-07-01&g=2021-07-01), wordt gestraft met geldboete van de derde categorie.
+De kapitein van een Nederlands schip, dat niet voldoet aan een der verplichtingen, vermeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=25&z=2025-07-01&g=2025-07-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=26&z=2025-07-01&g=2025-07-01), wordt gestraft met geldboete van de derde categorie.
 
 ##### Artikel 29
 
-Overtreding van de voorschriften ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=IV&artikel=23&z=2021-07-01&g=2021-07-01) bij of krachtens algemene maatregel van bestuur vastgesteld, wordt, voor zover uitdrukkelijk als strafbaar feit aangemerkt, gestraft met geldboete van de tweede categorie.
+Overtreding van de voorschriften ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=IV&artikel=23&z=2025-07-01&g=2025-07-01) bij of krachtens algemene maatregel van bestuur vastgesteld, wordt, voor zover uitdrukkelijk als strafbaar feit aangemerkt, gestraft met geldboete van de tweede categorie.
 
 ##### Artikel 30
 
