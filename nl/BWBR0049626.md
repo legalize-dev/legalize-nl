@@ -4,7 +4,7 @@ identifier: "BWBR0049626"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-06-26"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049626"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - **grote onderneming:** onderneming als bedoeld in artikel 2, onderdeel 24, van de algemene groepsvrijstellingsverordening;
 
-- **Human Capital-activiteiten:** activiteiten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26);
+- **Human Capital-activiteiten:** activiteiten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2025-07-01&g=2025-07-01);
 
 - **industrieel onderzoek:** onderzoek als bedoeld in artikel 2, onderdeel 85, van de algemene groepsvrijstellingsverordening;
 
-- **JMDP:** Joint Maritime Digital Platform als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26);
+- **JMDP:** Joint Maritime Digital Platform als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2025-07-01&g=2025-07-01);
 
 - **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - **kleine onderneming:** onderneming als bedoeld in artikel 2, onderdeel 2, van de algemene groepsvrijstellingsverordening;
 
-- **Maritiem Masterplan:** plan zoals samengevat opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-06-26&g=2024-06-26);
+- **Maritiem Masterplan:** plan zoals samengevat opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2025-07-01&g=2025-07-01);
 
 - **middelgrote onderneming:** onderneming als bedoeld in artikel 2, onderdeel 2, van de algemene groepsvrijstellingsverordening;
 
@@ -82,7 +82,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 1. De minister kan aan een aanvrager subsidie verstrekken voor O&D-projecten.
 
-2. Een O&D-project bevat een samenhangend geheel van activiteiten die passen binnen de doelstellingen en kaders van het Maritiem Masterplan en valt onder een van de volgende energielijnen, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-06-26&g=2024-06-26):
+2. Een O&D-project bevat een samenhangend geheel van activiteiten die passen binnen de doelstellingen en kaders van het Maritiem Masterplan en valt onder een van de volgende energielijnen, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2025-07-01&g=2025-07-01):
 
 - a. Energielijn waterstof;
 
@@ -144,11 +144,11 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 1. Het subsidieplafond bedraagt voor het jaar 2024 ten hoogste € 85 miljoen:
 
-- a. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 40 miljoen;
+- a. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2025-07-01&g=2025-07-01): € 40 miljoen;
 
-- b. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 25 miljoen;
+- b. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2025-07-01&g=2025-07-01): € 25 miljoen;
 
-- c. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 20 miljoen.
+- c. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2025-07-01&g=2025-07-01): € 20 miljoen.
 
 2. De minister verdeelt het beschikbare bedrag op basis van de volgorde van rangschikking van de aanvragen.
 
@@ -168,7 +168,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 - d. de ketensamenwerking en Nederlandse betrokkenheid groter is;
 
-- e. de bijdrage van het project aan de samenwerking binnen het Maritiem Masterplan hoger is conform de beoordelingscriteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26), door:
+- e. de bijdrage van het project aan de samenwerking binnen het Maritiem Masterplan hoger is conform de beoordelingscriteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2025-07-01&g=2025-07-01), door:
 
 - i. de bijdrage aan het Joint Maritime Digital Platform; en
 
@@ -178,7 +178,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 ##### Artikel 9. Adviescommissie
 
-1. Er is een Adviescommissie O&D-projecten, die tot taak heeft de minister op zijn verzoek te adviseren omtrent de rangschikking en toekenning van punten op basis van de rangschikkingscriteria, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26).
+1. Er is een Adviescommissie O&D-projecten, die tot taak heeft de minister op zijn verzoek te adviseren omtrent de rangschikking en toekenning van punten op basis van de rangschikkingscriteria, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2025-07-01&g=2025-07-01).
 
 2. De commissie bestaat uit ten minste 3 en ten hoogste 5 leden.
 
@@ -214,9 +214,9 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 - e. het aantal bij rangschikking toegekende punten in totaal minder is dan 65;
 
-- f. het aantal bij rangschikking toegekende punten aan een van de criteria genoemd in [artikel 8, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26), minder is dan 10.
+- f. het aantal bij rangschikking toegekende punten aan een van de criteria genoemd in [artikel 8, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2025-07-01&g=2025-07-01), minder is dan 10.
 
-- g. het aantal bij rangschikking toegekende punten aan een van de subonderdelen genoemd in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26), minder is dan 5; of
+- g. het aantal bij rangschikking toegekende punten aan een van de subonderdelen genoemd in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2025-07-01&g=2025-07-01), minder is dan 5; of
 
 - h. de subsidiabele kosten minder dan € 500.000,– per O&D-project bedragen.
 
@@ -296,13 +296,13 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - a. een omschrijving van de projectresultaten van het O&D-project;
 
-- b. op welke wijze het O&D-project heeft bijgedragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=2&z=2024-06-26&g=2024-06-26), en de energielijnen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26).
+- b. op welke wijze het O&D-project heeft bijgedragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=2&z=2025-07-01&g=2025-07-01), en de energielijnen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2025-07-01&g=2025-07-01).
 
 3. Voorafgaand aan de aanvraag tot vaststelling van de subsidie dient de aanvrager bij RVO een verzoek in tot het bepalen van de restwaarde van de innovatieve aandrijflijn.
 
 ##### Artikel 19. Staatssteun
 
-De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26) bevat voor zover een O&D-project betrekking heeft op industrieel onderzoek of experimentele ontwikkeling door een onderneming staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.
+De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2025-07-01&g=2025-07-01) bevat voor zover een O&D-project betrekking heeft op industrieel onderzoek of experimentele ontwikkeling door een onderneming staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 20. Evaluatie
 
@@ -330,7 +330,7 @@ De diversiteit aan schepen, vaarroutes, en verschillende werkzaamheden die met d
 
 De keuze voor deze drie energielijnen is mede gebaseerd op de resultaten die tot zo ver zijn behaald met de subsidieregeling R&D Mobiliteitssectoren (hierna: RDM-regeling) van 17 mei 2021. In de gewenste versnelde verduurzaming draait het niet alleen om brandstof, maar zullen oplossingen als elektrificeren, gebruik maken van batterijen en essentiële ondersteunende energie-optimalisatiemaatregelen in de energielijn ook een rol spelen. Als de Nederlandse maritieme sector de gewenste verduurzamingsstappen kan zetten, liggen er kansen op de internationale markt.
 
-Waar in de projecten die zijn gesubsidieerd met de RDM-regeling de focus op ontwikkelen en onderzoek lag en ligt, wordt deze in het Maritiem Masterplan verlegd naar onderzoek en demonstratie. Het is de bedoeling de komende jaren zo’n 30 schepen te bouwen dan wel te retrofitten waarmee wordt gedemonstreerd dat er een verduurzamingsslag te maken valt, met klimaatneutrale schepen als uiteindelijk doel. De demonstratieschepen in de drie energielijnen worden ondersteund door de samenwerking op een digitaal platform (het JMPD) en een Human Capital programma.
+Het ontwikkelen en toepassen van nieuwe technologieën is nodig om ervoor te zorgen dat schepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren binnen afzienbare tijd hun uitstoot van broeikassen significant reduceren en uiteindelijk klimaatneutraal kunnen gaan varen. De technische uitdagingen om de duurzaamheidsdoelen te halen zijn groot. De vermogens die nodig zijn om schepen duurzaam te laten varen zijn zeer hoog. Er is veel energie nodig voor de voortstuwing van een schip, waarbij een schip dagen en zelfs weken moet kunnen varen. Hoge vermogens gekoppeld aan tijdsduur maken de verduurzamingsopgave in de maritieme sector er een van complexe aard. Systemen hiervoor zijn nog in ontwikkeling en gebruiken brandstoffen die nog niet breed beschikbaar zijn. Tevens speelt dat ieder scheepstype een eigen optimale energielijn vraagt: een sleepboot heeft bijvoorbeeld een ander doel en vaarprofiel dan een vrachtschip.
 
 ### 1. Energielijn Waterstof
 
@@ -432,13 +432,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2025-07-01&g=2025-07-01), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
 ##### Artikel 5b. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2025-07-01&g=2025-07-01), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -452,7 +452,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5c. Berekening met forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), wordt een uurtarief gehanteerd van € 80,– per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2025-07-01&g=2025-07-01), wordt een uurtarief gehanteerd van € 80,– per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
