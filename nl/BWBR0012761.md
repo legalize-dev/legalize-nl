@@ -4,7 +4,7 @@ identifier: "BWBR0012761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2014-05-03"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012761"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het bij of krachtens de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) bepaalde zijn belast:
+Met het toezicht op de naleving van het bij of krachtens de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681) bepaalde zijn belast:
 
 - a. de ambtenaren van het Korps Nationale Politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij het district Zeehavenpolitie van de Regionale Eenheid Rotterdam;
 
@@ -52,10 +52,16 @@ Met het toezicht op de naleving van het bij of krachtens de [Wet zeevarenden](ht
 
 ##### Artikel 2
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet zeevarenden.
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet bemanning zeeschepen.
 
 ##### Artikel 3
 
 Vervallen
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 61, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
