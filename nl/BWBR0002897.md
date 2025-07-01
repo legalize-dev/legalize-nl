@@ -4,7 +4,7 @@ identifier: "BWBR0002897"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2023-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002897"
 soort: "wet"
@@ -69,7 +69,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-De schipper van een Nederlands vissersvaartuig zorgt dat aan boord een zich in goede staat bevindende Nederlandse vlag aanwezig is, en dat deze op vordering van de daartoe bevoegde autoriteiten wordt gehesen. Hij onthoudt zich van alle handelingen waardoor twijfel zou kunnen ontstaan over de nationaliteit van zijn vaartuig.
+De schipper van een Nederlands vissersvaartuig zorgt dat aan boord een zich in goede staat bevindende vlag van het Koninkrijk aanwezig is, en dat deze op vordering van de daartoe bevoegde autoriteiten wordt gehesen. Hij onthoudt zich van alle handelingen waardoor twijfel zou kunnen ontstaan over de nationaliteit van zijn vaartuig.
 
 ##### Artikel 4
 
@@ -81,7 +81,7 @@ De schipper van een Nederlands vissersvaartuig is verplicht de voorschriften in 
 
 ##### Artikel 6
 
-De eigenaar of, in geval van rompbevrachting, de rompbevrachter van een Nederlands vissersvaartuig zorgt dat het dusdanig is uitgerust, dat de schipper aan de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2023-01-01&g=2023-01-01) omschreven verplichtingen kan voldoen. Hij zorgt tevens dat het duidelijk zichtbaar de naam vermeldt van de gemeente waar het in het plaatselijk visserij-register is ingeschreven, alsmede de naam waaronder het is geregistreerd.
+De eigenaar of, in geval van rompbevrachting, de rompbevrachter van een Nederlands vissersvaartuig zorgt dat het dusdanig is uitgerust, dat de schipper aan de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2025-07-01&g=2025-07-01) omschreven verplichtingen kan voldoen. Hij zorgt tevens dat het duidelijk zichtbaar de naam vermeldt van de gemeente waar het in het plaatselijk visserij-register is ingeschreven, alsmede de naam waaronder het is geregistreerd.
 
 ##### Artikel 7
 
@@ -89,7 +89,7 @@ De schipper van een Nederlands vaartuig is verplicht de voorschriften in acht te
 
 ##### Artikel 8
 
-De [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2023-01-01&g=2023-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2023-01-01&g=2023-01-01) van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, bedoeld in [artikel 1, vierde lid, onder a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
+De [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2025-07-01&g=2025-07-01) van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, bedoeld in [artikel 1, vierde lid, onder a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
 
 ##### Artikel 9
 
@@ -97,7 +97,7 @@ Met het toezicht op de naleving van de bepalingen van het Verdrag zijn belast de
 
 ##### Artikel 10
 
-1. Handelen of nalaten in strijd met de voorschriften gesteld bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=6&z=2023-01-01&g=2023-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2023-01-01&g=2023-01-01) van deze wet wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+1. Handelen of nalaten in strijd met de voorschriften gesteld bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2025-07-01&g=2025-07-01) van deze wet wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
 2. De feiten, strafbaar gesteld in het eerste lid, zijn overtredingen.
 
@@ -117,7 +117,7 @@ Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn belast:
 
 1. De Wet van 7 december 1883, **Stb.** 202, ter uitvoering van de op 6 mei 1882 te 's-Gravenhage gesloten overeenkomst tot regeling van de politie der visserij in de Noordzee, buiten de territoriale wateren, wordt ingetrokken.
 
-2. Indien voor het vaartuig een verklaring is afgegeven overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2023-01-01&g=2023-01-01) van genoemde wet, vervangt die verklaring het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2023-01-01&g=2023-01-01), van deze wet bedoelde document, zolang nog geen vijf jaar verstreken zijn na het tijdstip van inwerkingtreding van deze wet.
+2. Indien voor het vaartuig een verklaring is afgegeven overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01) van genoemde wet, vervangt die verklaring het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), van deze wet bedoelde document, zolang nog geen vijf jaar verstreken zijn na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 14
 
