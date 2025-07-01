@@ -4,7 +4,7 @@ identifier: "BWBR0013540"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013540"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Indien er op enig moment gedurende de ziekte van de werknemer naar de verwachtin
 
 ##### Artikel 4. Het plan van aanpak
 
-1. Indien uit het oordeel van de bedrijfsarts of de arbodienst, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2023-07-01&g=2023-07-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de werknemer te bevorderen, stelt de werkgever in overeenstemming met de werknemer, binnen twee weken na het oordeel een plan van aanpak op.
+1. Indien uit het oordeel van de bedrijfsarts of de arbodienst, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2025-07-01&g=2025-07-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de werknemer te bevorderen, stelt de werkgever in overeenstemming met de werknemer, binnen twee weken na het oordeel een plan van aanpak op.
 
 2. Het plan van aanpak, bedoeld in het eerste lid, omvat in ieder geval:
 
@@ -88,7 +88,7 @@ Indien er op enig moment gedurende de ziekte van de werknemer naar de verwachtin
 
 ##### Artikel 5. Afwijken van termijnen
 
-Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2023-07-01&g=2023-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01), kan door de werkgever en de werknemer gemotiveerd worden afgeweken.
+Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2025-07-01&g=2025-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2025-07-01&g=2025-07-01), kan door de werkgever en de werknemer gemotiveerd worden afgeweken.
 
 ##### Artikel 6. Inhoud van het reïntegratieverslag
 
@@ -104,11 +104,11 @@ Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - e. vermelding van de eerste dag van ongeschiktheid tot het verrichten van arbeid wegens ziekte;
 
-- f. het oordeel en het advies van de bedrijfsarts of de arbodienst, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2023-07-01&g=2023-07-01), respectievelijk [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01);
+- f. het oordeel en het advies van de bedrijfsarts of de arbodienst, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2025-07-01&g=2025-07-01), respectievelijk [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2025-07-01&g=2025-07-01);
 
-- g. het door de werkgever en de werknemer overeengekomen plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01);
+- g. het door de werkgever en de werknemer overeengekomen plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2025-07-01&g=2025-07-01);
 
-- h. de evaluatie aan het einde van het eerste ziektejaar, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01), alsmede de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
+- h. de evaluatie aan het einde van het eerste ziektejaar, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2025-07-01&g=2025-07-01), alsmede de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
 
 - i. een actueel oordeel over de kwaliteit van de arbeidsrelatie door de werkgever en de bedrijfsarts of de arbodienst;
 
@@ -122,7 +122,7 @@ Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 7. Standaarden
 
-Het UWV is bevoegd voor de vastlegging van de in [artikel 6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6&z=2023-07-01&g=2023-07-01), bedoelde gegevens standaarden vast te stellen.
+Het UWV is bevoegd voor de vastlegging van de in [artikel 6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6&z=2025-07-01&g=2025-07-01), bedoelde gegevens standaarden vast te stellen.
 
 ##### Artikel 8. Grondslag
 
@@ -138,6 +138,4 @@ Indien voor een goede uitvoering van deze regeling naar het oordeel van de bedri
 
 ##### Artikel 7b. Overgangsrecht
 
-1. [Artikel 4, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01), van deze regeling, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel A, van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 mei 2023 tot wijziging van de Regeling procesgang eerste en tweede ziektejaar en de Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever in verband met regels over de re-integratievisie en een enkele andere wijziging blijft van toepassing voor werknemers van wie de eerste ziektedag is gelegen voor 1 juli 2023, indien het plan van aanpak en de eerstejaarsevaluatie niet na deze datum zijn opgesteld of bijgesteld.
-
-2. Dit artikel vervalt met ingang van 1 juli 2025.
+Vervallen
