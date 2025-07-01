@@ -4,7 +4,7 @@ identifier: "BWBR0018450"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018450"
 soort: "wet"
@@ -57,13 +57,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. zorgverzekering: een tussen een zorgverzekeraar en een verzekeringnemer ten behoeve van een verzekeringsplichtige gesloten schadeverzekering, die voldoet aan hetgeen daarover bij of krachtens deze wet is geregeld, en waarvan de verzekerde prestaties het bij of krachtens deze wet geregelde niet te boven gaan;
 
-- e. verzekeringsplichtige: degene die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01) verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren;
+- e. verzekeringsplichtige: degene die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01) verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren;
 
-- f. verzekerde: degene wiens risico van behoefte aan zorg of overige diensten, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-01-01&g=2025-01-01), door een zorgverzekering wordt gedekt;
+- f. verzekerde: degene wiens risico van behoefte aan zorg of overige diensten, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-07-01&g=2025-07-01), door een zorgverzekering wordt gedekt;
 
-- g. verplicht eigen risico: een bedrag aan kosten van zorg of overige diensten als bedoeld bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), dat voor rekening van de verzekerde blijft;
+- g. verplicht eigen risico: een bedrag aan kosten van zorg of overige diensten als bedoeld bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), dat voor rekening van de verzekerde blijft;
 
-- h. vrijwillig eigen risico: een door de verzekeringnemer met de zorgverzekeraar als onderdeel van de zorgverzekering overeengekomen bedrag aan kosten van zorg of overige diensten als bedoeld bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), dat de verzekerde voor zijn rekening zal nemen;
+- h. vrijwillig eigen risico: een door de verzekeringnemer met de zorgverzekeraar als onderdeel van de zorgverzekering overeengekomen bedrag aan kosten van zorg of overige diensten als bedoeld bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), dat de verzekerde voor zijn rekening zal nemen;
 
 - i. zorgpolis: de akte waarin de tussen een verzekeringnemer en een zorgverzekeraar gesloten zorgverzekering is vastgelegd;
 
@@ -77,15 +77,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. een organisatorisch verband dat zorg of een andere dienst verleent waarop aanspraak bestaat ingevolge een zorgverzekering of ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
-- 2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01);
+- 2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01);
 
 - n. Onze Minister: Onze Minister voor Medische Zorg;
 
 - o. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- p. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=58&z=2025-01-01&g=2025-01-01);
+- p. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=58&z=2025-07-01&g=2025-07-01);
 
-- q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.1&artikel=39&z=2025-01-01&g=2025-01-01);
+- q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.1&artikel=39&z=2025-07-01&g=2025-07-01);
 
 - r. richtlijn solvabiliteit II: richtlijn 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2009, L 335);
 
@@ -97,9 +97,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - v. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- w. premie: de premie, bedoeld in [afdeling 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.1&z=2025-01-01&g=2025-01-01);
+- w. premie: de premie, bedoeld in [afdeling 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.1&z=2025-07-01&g=2025-07-01);
 
-- x. bestuursrechtelijke premie: de premie, bedoeld in de [artikelen 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01) en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01);
+- x. bestuursrechtelijke premie: de premie, bedoeld in de [artikelen 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01) en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01);
 
 - y. Sociale verzekeringsbank: Sociale verzekeringsbank, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
 
@@ -115,7 +115,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Degene die ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de daarop gebaseerde regelgeving van rechtswege verzekerd is, is verplicht zich krachtens een zorgverzekering te verzekeren of te laten verzekeren tegen het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-01-01&g=2025-01-01) bedoelde risico.
+1. Degene die ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de daarop gebaseerde regelgeving van rechtswege verzekerd is, is verplicht zich krachtens een zorgverzekering te verzekeren of te laten verzekeren tegen het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-07-01&g=2025-07-01) bedoelde risico.
 
 2. In afwijking van het eerste lid is niet verzekeringsplichtig:
 
@@ -143,7 +143,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. opzettelijke misleiding door de verzekeringnemer of de verzekerde, of
 
-- 2°. het niet betalen van de premie, bedoeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.1&artikel=17&z=2025-01-01&g=2025-01-01).
+- 2°. het niet betalen van de premie, bedoeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.1&artikel=17&z=2025-07-01&g=2025-07-01).
 
 5. In afwijking van het tweede lid kan ten behoeve van een in het buitenland wonende verzekeringsplichtige worden gekozen tussen alle varianten van de zorgverzekering die een zorgverzekeraar in Nederland aanbiedt.
 
@@ -165,7 +165,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De zorgverzekering gaat in op de dag waarop de zorgverzekeraar het verzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-01-01&g=2025-01-01), en, indien het [tweede of vijfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-01-01&g=2025-01-01) van toepassing is, de aanduiding van de variant waar de verzekeringnemer voor kiest, heeft ontvangen.
+1. De zorgverzekering gaat in op de dag waarop de zorgverzekeraar het verzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-07-01&g=2025-07-01), en, indien het [tweede of vijfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-07-01&g=2025-07-01) van toepassing is, de aanduiding van de variant waar de verzekeringnemer voor kiest, heeft ontvangen.
 
 2. Indien de zorgverzekeraar op basis van het in het eerste lid bedoelde verzoek niet vast kan stellen of hij verplicht is voor de te verzekeren persoon een zorgverzekering te sluiten, en hij de persoon die de verzekering wenst te sluiten in verband daarmee uitnodigt de voor deze vaststelling noodzakelijke gegevens te verschaffen, gaat de zorgverzekering, in afwijking van het eerste lid, in op de dag waarop laatstbedoelde persoon aan dit verzoek heeft voldaan.
 
@@ -215,7 +215,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De verzekeringnemer die een ander dan zichzelf heeft verzekerd, kan de zorgverzekering opzeggen indien de verzekerde krachtens een andere zorgverzekering verzekerd wordt.
 
-3. In afwijking van [artikel 940, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=940) kan de verzekeringnemer niet opzeggen indien een wijziging in de verzekerde prestaties ten nadele van de verzekeringnemer of de verzekerde rechtstreeks voortvloeit uit een wijziging van de bij of krachtens de [artikelen 11 tot en met 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01) gestelde regels.
+3. In afwijking van [artikel 940, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=940) kan de verzekeringnemer niet opzeggen indien een wijziging in de verzekerde prestaties ten nadele van de verzekeringnemer of de verzekerde rechtstreeks voortvloeit uit een wijziging van de bij of krachtens de [artikelen 11 tot en met 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01) gestelde regels.
 
 4. Een verzekeringnemer kan zijn zorgverzekering opzeggen binnen zes weken nadat hij een mededeling als bedoeld in [artikel 78c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=78c), of [artikel 92, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=92) over zijn zorgverzekeraar heeft ontvangen.
 
@@ -227,7 +227,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Aan een opzegging of ontbinding van de zorgverzekering wegens het niet betalen van de verschuldigde premie, wordt geen terugwerkende kracht verleend, noch wordt daaraan een verplichting verbonden tot ongedaanmaking of vergoeding van hetgeen partijen reeds ter nakoming van de zorgverzekering jegens elkaar hebben verricht.
 
-2. Een zorgverzekeraar mag de zorgverzekering gedurende de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-01-01&g=2025-01-01), niet opzeggen of ontbinden.
+2. Een zorgverzekeraar mag de zorgverzekering gedurende de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-07-01&g=2025-07-01), niet opzeggen of ontbinden.
 
 3. [Artikel 934 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=934) is tevens van toepassing met betrekking tot de eerste premie die een verzekeringnemer voor een zorgverzekering verschuldigd is.
 
@@ -247,7 +247,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. of voor de verzekerde op die dag een vrijwillig eigen risico gold en zo ja, met welke ingangsdatum, voor welk bedrag en met welke in verband daarmee verleende korting.
 
-3. Indien de zorgverzekering eindigt om de in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-01-01&g=2025-01-01), genoemde reden, wordt dat op het in het tweede lid bedoelde bewijs aangetekend.
+3. Indien de zorgverzekering eindigt om de in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-07-01&g=2025-07-01), genoemde reden, wordt dat op het in het tweede lid bedoelde bewijs aangetekend.
 
 ### Hoofdstuk 3. De inhoud van de zorgverzekering
 
@@ -291,7 +291,7 @@ Het krachtens de zorgverzekering te verzekeren risico is de behoefte aan:
 
 - a. vormen van zorg of overige diensten kunnen worden uitgezonderd van de in het eerste lid bedoelde of in de maatregel nader omschreven prestaties;
 
-- b. de inhoud en omvang van de prestaties bestaande uit zorg als bedoeld in [artikel 10, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-01-01&g=2025-01-01), nader wordt geregeld;
+- b. de inhoud en omvang van de prestaties bestaande uit zorg als bedoeld in [artikel 10, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-07-01&g=2025-07-01), nader wordt geregeld;
 
 - c. nadere regels kunnen worden gesteld over het deel van de kosten dat voor rekening van de verzekerde komt.
 
@@ -303,7 +303,7 @@ Het krachtens de zorgverzekering te verzekeren risico is de behoefte aan:
 
 2. Bij deze algemene maatregel van bestuur kunnen tevens vormen van zorg of overige diensten worden aangewezen waarvoor de zorgverzekeraar met iedere instelling die binnen zijn werkgebied is gelegen of waarvan zijn verzekerden naar verwachting regelmatig gebruik zullen maken, op haar verzoek een overeenkomst als bedoeld in het eerste lid sluit.
 
-3. Een instelling als bedoeld in [artikel 1, onderdeel m, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01), die voor een in het tweede lid bedoelde vorm van zorg of dienst een overeenkomst met een zorgverzekeraar heeft gesloten, is verplicht desgevraagd met een andere zorgverzekeraar een gelijke overeenkomst te sluiten.
+3. Een instelling als bedoeld in [artikel 1, onderdeel m, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01), die voor een in het tweede lid bedoelde vorm van zorg of dienst een overeenkomst met een zorgverzekeraar heeft gesloten, is verplicht desgevraagd met een andere zorgverzekeraar een gelijke overeenkomst te sluiten.
 
 4. Het tweede en het derde lid gelden niet indien de zorgverzekeraar respectievelijk instelling ernstige bezwaren heeft tegen het sluiten van een overeenkomst met de instelling respectievelijk zorgverzekeraar die om die overeenkomst vraagt.
 
@@ -313,7 +313,7 @@ Het krachtens de zorgverzekering te verzekeren risico is de behoefte aan:
 
 2. De zorgverzekeraar neemt de wijze waarop hij de vergoeding berekent in de modelovereenkomst op.
 
-3. Indien bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), is bepaald dat een deel van de kosten van een bepaalde vorm van zorg of van een bepaalde andere dienst voor rekening van de verzekerde komt, verwerkt de zorgverzekeraar dit in de wijze waarop hij de vergoeding voor de desbetreffende vorm van zorg of dienst berekent.
+3. Indien bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), is bepaald dat een deel van de kosten van een bepaalde vorm van zorg of van een bepaalde andere dienst voor rekening van de verzekerde komt, verwerkt de zorgverzekeraar dit in de wijze waarop hij de vergoeding voor de desbetreffende vorm van zorg of dienst berekent.
 
 4. De wijze waarop de vergoeding wordt berekend is voor alle verzekerden, bedoeld in het eerste lid, die in een zelfde situatie een zelfde vorm van zorg of dienst behoeven, gelijk.
 
@@ -353,19 +353,19 @@ Het krachtens de zorgverzekering te verzekeren risico is de behoefte aan:
 
 - a. is geen premie verschuldigd tot de eerste dag van de kalendermaand volgende op de kalendermaand waarin een verzekerde de leeftijd van achttien jaren heeft bereikt;
 
-- b. is geen premie verschuldigd over de periode, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01) of [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01).
+- b. is geen premie verschuldigd over de periode, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01) of [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 17
 
 1. De zorgverzekeraar stelt voor iedere variant van de zorgverzekering die hij aanbiedt, de grondslag van de premie en de bij die variant behorende premiekorting of premiekortingen vast en neemt deze in de modelovereenkomst op.
 
-2. De grondslag van de premie is gelijk voor varianten die wat betreft de te verzekeren prestaties als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), of de keuzemogelijkheden tussen aanbieders van zorg of van overige diensten als bedoeld in dat lid, niet van elkaar verschillen.
+2. De grondslag van de premie is gelijk voor varianten die wat betreft de te verzekeren prestaties als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), of de keuzemogelijkheden tussen aanbieders van zorg of van overige diensten als bedoeld in dat lid, niet van elkaar verschillen.
 
-3. Indien de zorgverzekeraar gebruik maakt van zijn bevoegdheid, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), is de grondslag van de premie gelijk aan de grondslag die hij heeft of zou hebben vastgesteld voor een modelovereenkomst met volledige dekking.
+3. Indien de zorgverzekeraar gebruik maakt van zijn bevoegdheid, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), is de grondslag van de premie gelijk aan de grondslag die hij heeft of zou hebben vastgesteld voor een modelovereenkomst met volledige dekking.
 
-4. De grondslag van de premie is de premie indien geen premiekorting als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-01-01&g=2025-01-01) geldt of zou gelden.
+4. De grondslag van de premie is de premie indien geen premiekorting als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-07-01&g=2025-07-01) geldt of zou gelden.
 
-5. De verschuldigde premie is gelijk aan de grondslag van de premie behorende bij de variant van de zorgverzekering die de verzekeringnemer gekozen heeft, verminderd met de premiekorting, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-01-01&g=2025-01-01), indien deze van toepassing is.
+5. De verschuldigde premie is gelijk aan de grondslag van de premie behorende bij de variant van de zorgverzekering die de verzekeringnemer gekozen heeft, verminderd met de premiekorting, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2025-07-01&g=2025-07-01), indien deze van toepassing is.
 
 6. De zorgverzekeraar geeft de wijze waarop de verschuldigde premie van de grondslag van de premie wordt afgeleid in de modelovereenkomst weer, en neemt de wijze waarop de door de verzekeringnemer verschuldigde premie van de grondslag van de premie is afgeleid in de zorgpolis op.
 
@@ -381,7 +381,7 @@ Indien een werkgever de verschuldigde premie aan een zorgverzekeraar betaalt, ve
 
 1. Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 385 per kalenderjaar.
 
-2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig het verschil in geraamde uitgaven voor de zorg en overige diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), tussen het kalenderjaar waarop het verplicht eigen risico betrekking zal hebben en vergelijkbare uitgaven voor het jaar voorafgaand aan dat kalenderjaar.
+2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig het verschil in geraamde uitgaven voor de zorg en overige diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), tussen het kalenderjaar waarop het verplicht eigen risico betrekking zal hebben en vergelijkbare uitgaven voor het jaar voorafgaand aan dat kalenderjaar.
 
 3. Indien het geïndexeerde bedrag naar beneden afgerond € 5 of een veelvoud daarvan verschilt van het in het eerste lid genoemde bedrag, wordt dit bedrag bij ministeriële regeling gewijzigd, waarna het in die regeling genoemde bedrag in de plaats treedt van het in het eerste lid genoemde bedrag.
 
@@ -395,7 +395,7 @@ Indien een werkgever de verschuldigde premie aan een zorgverzekeraar betaalt, ve
 
 ##### Artikel 20
 
-1. De zorgverzekeraar biedt van iedere zorgverzekering met een bepaalde combinatie van te verzekeren prestaties als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), een variant zonder vrijwillig eigen risico aan.
+1. De zorgverzekeraar biedt van iedere zorgverzekering met een bepaalde combinatie van te verzekeren prestaties als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), een variant zonder vrijwillig eigen risico aan.
 
 2. De zorgverzekeraar kan voor de verzekering van een persoon van achttien jaar of ouder varianten van de zorgverzekering aanbieden met een vrijwillig eigen risico van € 100, € 200, € 300, € 400 of € 500 per kalenderjaar, waartegenover hij een korting op de grondslag van de premie verleent.
 
@@ -441,7 +441,7 @@ Indien een werkgever de verschuldigde premie aan een zorgverzekeraar betaalt, ve
 
 1. Kosten van zorg of een andere dienst worden toegerekend aan het kalenderjaar waarin de zorg of dienst is genoten, met dien verstande dat de kosten van zorg of een andere dienst die in twee achtereenvolgende kalenderjaren is genoten en door de zorgaanbieder of andere dienstverlener in één bedrag in rekening zijn gebracht, worden toegerekend aan het kalenderjaar waarin de zorg of dienst is aangevangen.
 
-2. Bedragen als bedoeld in [artikel 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), die voor rekening van de verzekerde komen, of kosten als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-01-01&g=2025-01-01), voor zover zij voor rekening van de verzekerde blijven, worden bij de beantwoording van de vraag of een voor zijn verzekering geldend verplicht of vrijwillig eigen risico wordt overschreden, buiten aanmerking gelaten.
+2. Bedragen als bedoeld in [artikel 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), die voor rekening van de verzekerde komen, of kosten als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-07-01&g=2025-07-01), voor zover zij voor rekening van de verzekerde blijven, worden bij de beantwoording van de vraag of een voor zijn verzekering geldend verplicht of vrijwillig eigen risico wordt overschreden, buiten aanmerking gelaten.
 
 3. Een zorgverzekeraar brengt kosten van zorg of overige diensten die zowel ten laste van het verplicht als het vrijwillig eigen risico kunnen komen, eerst ten laste van het verplicht eigen risico.
 
@@ -469,7 +469,7 @@ Indien een werkgever de verschuldigde premie aan een zorgverzekeraar betaalt, ve
 
 ##### Artikel 26
 
-1. De zorgautoriteit tekent de datum van ontvangst aan op het geschrift waarmee de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-01-01&g=2025-01-01), is gedaan, alsmede op de modelovereenkomsten of wijzigingen daarvan, bedoeld in [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-01-01&g=2025-01-01).
+1. De zorgautoriteit tekent de datum van ontvangst aan op het geschrift waarmee de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-07-01&g=2025-07-01), is gedaan, alsmede op de modelovereenkomsten of wijzigingen daarvan, bedoeld in [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-07-01&g=2025-07-01).
 
 2. De zorgautoriteit zendt de verzekeraar onverwijld een bewijs van ontvangst, waarin die datum is vermeld.
 
@@ -491,7 +491,7 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 - c. sluiten iedere verplichting van de verzekeringnemers, verzekerden, gewezen verzekeringnemers of gewezen verzekerden tot het doen van een bijdrage in tekorten van de rechtspersoon uit.
 
-2. Een waarborg als bedoeld in het eerste lid, onderdeel b, bestaat in ieder geval uit het aan een permanente vertegenwoordiging van verzekerden toekennen van het recht om in te stemmen met de in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-01-01&g=2025-01-01), bedoelde regeling en het recht om advies uit te brengen over de bij of krachtens [artikel 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28c&z=2025-01-01&g=2025-01-01) aangewezen onderwerpen.
+2. Een waarborg als bedoeld in het eerste lid, onderdeel b, bestaat in ieder geval uit het aan een permanente vertegenwoordiging van verzekerden toekennen van het recht om in te stemmen met de in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-07-01&g=2025-07-01), bedoelde regeling en het recht om advies uit te brengen over de bij of krachtens [artikel 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28c&z=2025-07-01&g=2025-07-01) aangewezen onderwerpen.
 
 ##### Artikel 29
 
@@ -507,11 +507,11 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 1. Een zorgverzekeraar die geen zorgverzekeringen meer wenst aan te bieden of uit te voeren, meldt het voornemen hiertoe schriftelijk aan de zorgautoriteit, onder vermelding van de dag met ingang waarvan hij geen zorgverzekeringen meer zal uitvoeren.
 
-2. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
+2. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 31
 
-1. Indien een voormalige zorgverzekeraar failliet is verklaard, voldoet het Zorginstituut aan de verzekerden jegens die zorgverzekeraar of voormalige zorgverzekeraar bestaande vorderingen ter zake van een recht op vergoeding als bedoeld in [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-01-01&g=2025-01-01).
+1. Indien een voormalige zorgverzekeraar failliet is verklaard, voldoet het Zorginstituut aan de verzekerden jegens die zorgverzekeraar of voormalige zorgverzekeraar bestaande vorderingen ter zake van een recht op vergoeding als bedoeld in [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-07-01&g=2025-07-01).
 
 2. De vorderingen, bedoeld in het eerste lid, gaan bij wijze van subrogatie op het Zorginstituut over voor zover dat instituut deze heeft voldaan.
 
@@ -521,7 +521,7 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 ##### Artikel 32
 
-1. Het Zorginstituut kent een zorgverzekeraar die voldaan heeft aan zijn verplichtingen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-01-01&g=2025-01-01), voor ieder kalenderjaar waarin hij zorgverzekeringen aanbiedt en uitvoert een vereveningsbijdrage toe.
+1. Het Zorginstituut kent een zorgverzekeraar die voldaan heeft aan zijn verplichtingen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-07-01&g=2025-07-01), voor ieder kalenderjaar waarin hij zorgverzekeringen aanbiedt en uitvoert een vereveningsbijdrage toe.
 
 2. Bij algemene maatregel van bestuur worden regels omtrent de berekening van de vereveningsbijdragen gesteld.
 
@@ -561,7 +561,7 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 - b. **catastrofejaar:** het kalenderjaar waarin een catastrofe optreedt;
 
-- c. **gemiddelde vereveningsbijdrage:** de toegekende vereveningsbijdrage per verzekerde, die wordt berekend door de som van de op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01) met betrekking tot het catastrofejaar aan alle zorgverzekeraars toegekende vereveningsbijdragen te delen door het op het moment van toekenning van die bijdragen verwachte totaalaantal verzekerden in dat jaar.
+- c. **gemiddelde vereveningsbijdrage:** de toegekende vereveningsbijdrage per verzekerde, die wordt berekend door de som van de op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01) met betrekking tot het catastrofejaar aan alle zorgverzekeraars toegekende vereveningsbijdragen te delen door het op het moment van toekenning van die bijdragen verwachte totaalaantal verzekerden in dat jaar.
 
 2. Indien de kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van een catastrofe naar verwachting van het Zorginstituut in het catastrofejaar en het daaropvolgende kalenderjaar tezamen, voor een zorgverzekeraar hoger zullen zijn dan 4% van het product van de gemiddelde vereveningsbijdrage en het op het moment van de toekenning van de vereveningsbijdrage over het catastrofejaar verwachte aantal verzekerden bij die verzekeraar, kent het Zorginstituut de verzekeraar die daar om verzoekt naast de hem voor het catastrofejaar toegekende vereveningsbijdrage een extra bijdrage toe.
 
@@ -569,13 +569,13 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 4. Bij ministeriële regeling worden regels gesteld omtrent de berekening van de bijdragen en kunnen regels worden gesteld over de administratie, bedoeld in het derde lid, en de wijze waarop de toegekende bijdragen door het Zorginstituut worden betaald.
 
-5. [Artikel 32, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), zijn, met uitzondering van de in dat vijfde lid opgenomen verplichting de beleidsregels jaarlijks voor 15 oktober vast te stellen, van overeenkomstige toepassing.
+5. [Artikel 32, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), zijn, met uitzondering van de in dat vijfde lid opgenomen verplichting de beleidsregels jaarlijks voor 15 oktober vast te stellen, van overeenkomstige toepassing.
 
 ##### Artikel 34
 
-1. Uiterlijk op 1 april van het vierde jaar volgende op het kalenderjaar waarvoor de bijdragen, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-01-01&g=2025-01-01), zijn toegekend, stelt het Zorginstituut de bijdragen vast.
+1. Uiterlijk op 1 april van het vierde jaar volgende op het kalenderjaar waarvoor de bijdragen, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-07-01&g=2025-07-01), zijn toegekend, stelt het Zorginstituut de bijdragen vast.
 
-2. De vaststelling van een vereveningsbijdrage als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), houdt in ieder geval in een herberekening van de vereveningsbijdrage op basis van het werkelijke aantal verzekerden dat de zorgverzekeraar in het desbetreffende jaar had en de werkelijke verdeling van de verzekerdenkenmerken als bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), over die verzekerden, voor zover de daartoe benodigde gegevens tijdig bij het Zorginstituut zijn aangeleverd.
+2. De vaststelling van een vereveningsbijdrage als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), houdt in ieder geval in een herberekening van de vereveningsbijdrage op basis van het werkelijke aantal verzekerden dat de zorgverzekeraar in het desbetreffende jaar had en de werkelijke verdeling van de verzekerdenkenmerken als bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), over die verzekerden, voor zover de daartoe benodigde gegevens tijdig bij het Zorginstituut zijn aangeleverd.
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels omtrent de berekening van de bijdragen gesteld.
 
@@ -583,7 +583,7 @@ Een verzekeraar die ten onrechte een verzekering als zorgverzekering aanbiedt of
 
 5. Indien de vastgestelde bijdrage hoger is dan de toegekende bijdrage betaalt het Zorginstituut de zorgverzekeraar of diens rechtsopvolger het verschil, vermeerderd met de rentekosten, en indien de vastgestelde bijdrage lager is dan de toegekende bijdrage vordert het Zorginstituut het verschil, vermeerderd met de rentekosten, van de zorgverzekeraar of diens rechtsopvolger terug.
 
-6. Het Zorginstituut is bevoegd het bedrag dat na toepassing van het eerste en vijfde lid aan de zorgverzekeraar dient te worden betaald respectievelijk van de zorgverzekeraar dient te worden teruggevorderd, te verrekenen met een toekenning van een bijdrage als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-01-01&g=2025-01-01) over een later jaar.
+6. Het Zorginstituut is bevoegd het bedrag dat na toepassing van het eerste en vijfde lid aan de zorgverzekeraar dient te worden betaald respectievelijk van de zorgverzekeraar dient te worden teruggevorderd, te verrekenen met een toekenning van een bijdrage als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-07-01&g=2025-07-01) over een later jaar.
 
 ##### Artikel 35
 
@@ -623,7 +623,7 @@ Op rechten of verplichtingen die voortvloeien uit hetgeen in deze paragraaf gere
 
 - b. de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachtens deze wet in het voorafgaande kalenderjaar op de zorgverzekeraar rustten.
 
-5. [Artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.3&artikel=37&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+5. [Artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.3&artikel=37&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. De zorgverzekeraars
 
@@ -635,23 +635,23 @@ Op rechten of verplichtingen die voortvloeien uit hetgeen in deze paragraaf gere
 
 2. Ten gunste van het Zorgverzekeringsfonds komen:
 
-- a. de inkomensafhankelijke bijdragen, bedoeld in [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&z=2025-01-01&g=2025-01-01) en de bijdragevervangende belasting, bedoeld in [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.5&artikel=57&z=2025-01-01&g=2025-01-01);
+- a. de inkomensafhankelijke bijdragen, bedoeld in [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&z=2025-07-01&g=2025-07-01) en de bijdragevervangende belasting, bedoeld in [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.5&artikel=57&z=2025-07-01&g=2025-07-01);
 
-- b. de rijksbijdrage, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=54&z=2025-01-01&g=2025-01-01);
+- b. de rijksbijdrage, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=54&z=2025-07-01&g=2025-07-01);
 
-- c. een rijksbijdrage als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=55&z=2025-01-01&g=2025-01-01) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=56&z=2025-01-01&g=2025-01-01);
+- c. een rijksbijdrage als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=55&z=2025-07-01&g=2025-07-01) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=56&z=2025-07-01&g=2025-07-01);
 
-- d. een bedrag van iedere rekening, bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-01-01&g=2025-01-01), gelijk aan:
+- d. een bedrag van iedere rekening, bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-07-01&g=2025-07-01), gelijk aan:
 
-- 1°. voor iedere tot een huishouding als bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-01-01&g=2025-01-01), behorende gemoedsbezwaarde, die zich na bereiken van de leeftijd van 18 jaar heeft laten registreren als gemoedsbezwaarde en die daarna alsnog verzekeringsplichtig wordt: het saldo van de rekening gedeeld door het aantal tot de huishouding behorende gemoedsbezwaarden;
+- 1°. voor iedere tot een huishouding als bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-07-01&g=2025-07-01), behorende gemoedsbezwaarde, die zich na bereiken van de leeftijd van 18 jaar heeft laten registreren als gemoedsbezwaarde en die daarna alsnog verzekeringsplichtig wordt: het saldo van de rekening gedeeld door het aantal tot de huishouding behorende gemoedsbezwaarden;
 
-- 2°. indien de rekening met toepassing van [artikel 70, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-01-01&g=2025-01-01), wordt opgeheven: het saldo van de rekening;
+- 2°. indien de rekening met toepassing van [artikel 70, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-07-01&g=2025-07-01), wordt opgeheven: het saldo van de rekening;
 
-- e. aan het Zorginstituut betaalde bedragen ter gehele of gedeeltelijke voldoening van vorderingen als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-01-01&g=2025-01-01);
+- e. aan het Zorginstituut betaalde bedragen ter gehele of gedeeltelijke voldoening van vorderingen als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-07-01&g=2025-07-01);
 
-- f. de bijdragen en bestuurlijke boeten, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=69&z=2025-01-01&g=2025-01-01);
+- f. de bijdragen en bestuurlijke boeten, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=69&z=2025-07-01&g=2025-07-01);
 
-- g. met uitzondering van het gedeelte, bedoeld in [artikel 18g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18g&z=2025-01-01&g=2025-01-01), de bestuursrechtelijke premies, bedoeld in de [artikelen 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01) en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01);
+- g. met uitzondering van het gedeelte, bedoeld in [artikel 18g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18g&z=2025-07-01&g=2025-07-01), de bestuursrechtelijke premies, bedoeld in de [artikelen 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01) en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01);
 
 - h. de inkomsten die in verband met deze wet voortvloeien uit internationale overeenkomsten;
 
@@ -661,17 +661,17 @@ Op rechten of verplichtingen die voortvloeien uit hetgeen in deze paragraaf gere
 
 - k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van [artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) dan wel op aanwijzing van de zorgautoriteit op grond van [artikel 76, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76) afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van [artikel 81, eerste lid, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=81) ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Fonds langdurige zorg of aan derden;
 
-- l. de bijdragen, bedoeld in [artikel 68b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=68b&z=2025-01-01&g=2025-01-01).
+- l. de bijdragen, bedoeld in [artikel 68b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=68b&z=2025-07-01&g=2025-07-01).
 
 3. Ten laste van het Zorgverzekeringsfonds komen:
 
-- a. de bijdragen, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-01-01&g=2025-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2025-01-01&g=2025-01-01) en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-01-01&g=2025-01-01);
+- a. de bijdragen, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2025-07-01&g=2025-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2025-07-01&g=2025-07-01) en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-07-01&g=2025-07-01);
 
 - b. vervallen;
 
-- c. door het Zorginstituut voldane vorderingen als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-01-01&g=2025-01-01);
+- c. door het Zorginstituut voldane vorderingen als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-07-01&g=2025-07-01);
 
-- d. uitgaven in verband met molest als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=55&z=2025-01-01&g=2025-01-01), inclusief vergoedingen als bedoeld in het derde lid van dat artikel;
+- d. uitgaven in verband met molest als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.4&artikel=55&z=2025-07-01&g=2025-07-01), inclusief vergoedingen als bedoeld in het derde lid van dat artikel;
 
 - e. de uitgaven die in verband met deze wet voortvloeien uit internationale overeenkomsten;
 
@@ -679,11 +679,11 @@ Op rechten of verplichtingen die voortvloeien uit hetgeen in deze paragraaf gere
 
 - g. de door het Zorginstituut op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel k van het tweede lid;
 
-- h. bijdragen als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70a&z=2025-01-01&g=2025-01-01) en [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70b&z=2025-01-01&g=2025-01-01);
+- h. bijdragen als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70a&z=2025-07-01&g=2025-07-01) en [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70b&z=2025-07-01&g=2025-07-01);
 
-- i. de vergoedingen, bedoeld in [artikel 123, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=9&artikel=123&z=2025-01-01&g=2025-01-01), voor zover het zorg en andere diensten uit hoofde van deze wet betreft;
+- i. de vergoedingen, bedoeld in [artikel 123, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=9&artikel=123&z=2025-07-01&g=2025-07-01), voor zover het zorg en andere diensten uit hoofde van deze wet betreft;
 
-- j. de vergoedingen, bedoeld in [artikel 68b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=68b&z=2025-01-01&g=2025-01-01).
+- j. de vergoedingen, bedoeld in [artikel 68b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=68b&z=2025-07-01&g=2025-07-01).
 
 4. Uit het Zorgverzekeringsfonds kunnen, volgens bij ministeriële regeling te stellen regels, middelen worden gebruikt voor het vormen en in stand houden van een voor de doelstelling van het fonds noodzakelijke reserve.
 
@@ -725,7 +725,7 @@ De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke
 
 1. De inhoudingsplichtige is een inkomensafhankelijke bijdrage verschuldigd over het door hem verstrekte loon overeenkomstig de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) uit:
 
-- a. tegenwoordige dienstbetrekking als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de verzekeringsplichtige of van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), van deze wet, met uitzondering van:
+- a. tegenwoordige dienstbetrekking als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de verzekeringsplichtige of van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), van deze wet, met uitzondering van:
 
 - 1°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
 
@@ -735,7 +735,7 @@ De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke
 
 - 4°. het loon van de directeur-grootaandeelhouder, bedoeld in [artikel 6, eerste lid, onderdeel d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6);
 
-- b. vroegere arbeid als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de verzekeringsplichtige of van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), tot een bij ministeriële regeling te bepalen tijdstip, met uitzondering van bij ministeriële regeling aan te wijzen bestanddelen van het loon.
+- b. vroegere arbeid als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de verzekeringsplichtige of van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), tot een bij ministeriële regeling te bepalen tijdstip, met uitzondering van bij ministeriële regeling aan te wijzen bestanddelen van het loon.
 
 2. Het loon waarover de inkomensafhankelijke bijdrage ingevolge het eerste lid wordt geheven, wordt ten minste gesteld op nihil en wordt bij dezelfde inhoudingsplichtige tot geen hoger bedrag in aanmerking genomen dan het door Onze Minister, in overeenstemming met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Financiën, met betrekking tot een kalenderjaar vastgestelde bedrag.
 
@@ -747,9 +747,9 @@ De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing in de gevallen, bedoeld in [artikel 26b, eerste volzin, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b).
 
-7. De inhoudingsplichtige mag de door hem verschuldigde inkomensafhankelijke bijdrage niet verhalen op de verzekeringsplichtige of op degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01). Elk beding waarbij van de eerste volzin wordt afgeweken, is nietig.
+7. De inhoudingsplichtige mag de door hem verschuldigde inkomensafhankelijke bijdrage niet verhalen op de verzekeringsplichtige of op degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01). Elk beding waarbij van de eerste volzin wordt afgeweken, is nietig.
 
-8. De rijksbelastingdienst stort de inkomensafhankelijke bijdrage die is geheven over het loon van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), van deze wet op de rekening, bedoeld in [artikel 70, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-01-01&g=2025-01-01).
+8. De rijksbelastingdienst stort de inkomensafhankelijke bijdrage die is geheven over het loon van degene, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), van deze wet op de rekening, bedoeld in [artikel 70, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 43
 
@@ -759,7 +759,7 @@ De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke
 
 - a. loon overeenkomstig de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), verminderd met: en vermeerderd met loon, bepaald volgens de regels van [artikel 3.82 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.82);
 
-- 1°. het loon waarop [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01) van toepassing is;
+- 1°. het loon waarop [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01) van toepassing is;
 
 - 2°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
 
@@ -771,9 +771,9 @@ De inhoudingsplichtige en de verzekeringsplichtige zijn een inkomensafhankelijke
 
 3. Het bijdrage-inkomen wordt ten minste op nihil gesteld en wordt tot geen hoger bedrag in aanmerking genomen dan het bij regeling van Onze Minister, in overeenstemming met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Financiën, met betrekking tot een kalenderjaar vastgestelde bedrag.
 
-4. Ingeval de inkomensafhankelijke bijdrage ingevolge [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-01-01&g=2025-01-01), bij wijze van inhouding wordt geheven, is [artikel 42, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
+4. Ingeval de inkomensafhankelijke bijdrage ingevolge [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-07-01&g=2025-07-01), bij wijze van inhouding wordt geheven, is [artikel 42, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
-5. Ingeval de inkomensafhankelijke bijdrage ingevolge [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-01-01&g=2025-01-01), bij wege van aanslag wordt geheven, wordt daarbij als bijdrage-inkomen ten hoogste in aanmerking genomen een bedrag gelijk aan het in het derde lid bedoelde bedrag, verminderd met het loon, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01), van de verzekeringsplichtige en met het door de verzekeringsplichtige van een inhoudingsplichtige genoten loon, bedoeld in het tweede lid, onderdeel a.
+5. Ingeval de inkomensafhankelijke bijdrage ingevolge [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-07-01&g=2025-07-01), bij wege van aanslag wordt geheven, wordt daarbij als bijdrage-inkomen ten hoogste in aanmerking genomen een bedrag gelijk aan het in het derde lid bedoelde bedrag, verminderd met het loon, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01), van de verzekeringsplichtige en met het door de verzekeringsplichtige van een inhoudingsplichtige genoten loon, bedoeld in het tweede lid, onderdeel a.
 
 ##### Artikel 44
 
@@ -781,7 +781,7 @@ Vervallen
 
 ##### Artikel 45
 
-1. De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage bedraagt een percentage van het loon, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01).
+1. De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage bedraagt een percentage van het loon, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01).
 
 2. De door de verzekeringsplichtige verschuldigde inkomensafhankelijke bijdrage bedraagt een percentage van het bijdrage-inkomen.
 
@@ -811,7 +811,7 @@ De rijksbelastingdienst heft de inkomensafhankelijke bijdrage.
 
 1. De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage wordt geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.
 
-2. Voor zover het bijdrage-inkomen bestaat uit loon als bedoeld in [artikel 43, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-01-01&g=2025-01-01), dat van een inhoudingsplichtige wordt genoten, wordt de inkomensafhankelijke bijdrage bij wijze van inhouding geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.
+2. Voor zover het bijdrage-inkomen bestaat uit loon als bedoeld in [artikel 43, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-07-01&g=2025-07-01), dat van een inhoudingsplichtige wordt genoten, wordt de inkomensafhankelijke bijdrage bij wijze van inhouding geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.
 
 3. Voor zover het bijdrage-inkomen bestaat uit andere dan de in het tweede lid bedoelde bestanddelen, wordt de inkomensafhankelijke bijdrage bij wege van aanslag geheven met overeenkomstige toepassing van de voor de heffing van de inkomstenbelasting geldende regels, met uitzondering van [artikel 10a.28 van de Wet inkomstenbelasting 2001](onbekend).
 
@@ -819,7 +819,7 @@ De rijksbelastingdienst heft de inkomensafhankelijke bijdrage.
 
 ##### Artikel 50
 
-1. De inspecteur verleent bij voor bezwaar vatbare beschikking aan de verzekeringsplichtige een teruggaaf van de op het loon ingehouden inkomensafhankelijke bijdrage voor zover het loon van de verzekeringsplichtige waarover inkomensafhankelijke bijdrage is geheven hoger is dan het in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-01-01&g=2025-01-01), bedoelde bedrag.
+1. De inspecteur verleent bij voor bezwaar vatbare beschikking aan de verzekeringsplichtige een teruggaaf van de op het loon ingehouden inkomensafhankelijke bijdrage voor zover het loon van de verzekeringsplichtige waarover inkomensafhankelijke bijdrage is geheven hoger is dan het in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-07-01&g=2025-07-01), bedoelde bedrag.
 
 2. Een teruggaaf wordt niet verleend indien het met toepassing van het eerste lid berekende bedrag niet meer bedraagt dan het in [artikel 9.4, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4) genoemde bedrag.
 
@@ -833,7 +833,7 @@ De rijksbelastingdienst heft de inkomensafhankelijke bijdrage.
 
 1. De rijksbelastingdienst vordert de inkomensafhankelijke bijdrage in.
 
-2. Bij de invordering van de bijdrage zijn, naar gelang [artikel 49, eerste of tweede, dan wel derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-01-01&g=2025-01-01), van toepassing is, de regels geldende voor de invordering van loonbelasting, onderscheidenlijk de inkomstenbelasting van overeenkomstige toepassing.
+2. Bij de invordering van de bijdrage zijn, naar gelang [artikel 49, eerste of tweede, dan wel derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-07-01&g=2025-07-01), van toepassing is, de regels geldende voor de invordering van loonbelasting, onderscheidenlijk de inkomstenbelasting van overeenkomstige toepassing.
 
 ##### Artikel 52
 
@@ -855,7 +855,7 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 
 ##### Artikel 55
 
-1. Onze Minister kan, in overeenstemming met Onze Minister van Financiën, een bijdrage aan het Zorgverzekeringsfonds verlenen ter gehele of gedeeltelijke betaling van zorg of overige diensten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-01-01&g=2025-01-01), in geval de behoefte aan die zorg of diensten is veroorzaakt door of ontstaan uit gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer, muiterij of terrorisme.
+1. Onze Minister kan, in overeenstemming met Onze Minister van Financiën, een bijdrage aan het Zorgverzekeringsfonds verlenen ter gehele of gedeeltelijke betaling van zorg of overige diensten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-07-01&g=2025-07-01), in geval de behoefte aan die zorg of diensten is veroorzaakt door of ontstaan uit gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer, muiterij of terrorisme.
 
 2. Bij ministeriële regeling wordt bepaald:
 
@@ -869,19 +869,19 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 
 ##### Artikel 56
 
-Indien de situatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-01-01&g=2025-01-01), zich heeft voorgedaan, verstrekt Onze Minister een bijdrage aan het Zorgverzekeringsfonds ter hoogte van het verschil tussen het bedrag aan voldane vorderingen, als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-01-01&g=2025-01-01), en het bedrag dat het Zorginstituut ter zake van de vorderingen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-01-01&g=2025-01-01), heeft ontvangen.
+Indien de situatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-07-01&g=2025-07-01), zich heeft voorgedaan, verstrekt Onze Minister een bijdrage aan het Zorgverzekeringsfonds ter hoogte van het verschil tussen het bedrag aan voldane vorderingen, als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-07-01&g=2025-07-01), en het bedrag dat het Zorginstituut ter zake van de vorderingen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-07-01&g=2025-07-01), heeft ontvangen.
 
 #### Paragraaf 5.2. De inkomensafhankelijke bijdrage
 
 ##### Artikel 57
 
-1. Van de persoon die op grond van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-01-01&g=2025-01-01), bedoelde inkomensafhankelijke bijdrage dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.
+1. Van de persoon die op grond van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-07-01&g=2025-07-01), bedoelde inkomensafhankelijke bijdrage dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.
 
-2. In afwijking in zoverre van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-01-01&g=2025-01-01) wordt van de persoon aan wie met toepassing van [artikel 64 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.
+2. In afwijking in zoverre van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=43&z=2025-07-01&g=2025-07-01) wordt van de persoon aan wie met toepassing van [artikel 64 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.
 
-3. De heffing van de bijdragevervangende belasting vindt plaats met overeenkomstige toepassing van [artikel 49, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-01-01&g=2025-01-01).
+3. De heffing van de bijdragevervangende belasting vindt plaats met overeenkomstige toepassing van [artikel 49, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.3&artikel=49&z=2025-07-01&g=2025-07-01).
 
-4. De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in [artikel 70, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-01-01&g=2025-01-01).
+4. De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in [artikel 70, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=70&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 5. Het Zorgverzekeringsfonds, de inkomensafhankelijke bijdrage, de rijksbijdragen en de belasting van gemoedsbezwaarden
 
@@ -931,19 +931,19 @@ Vervallen
 
 ##### Artikel 64
 
-1. Het Zorginstituut bevordert de eenduidige uitleg van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01).
+1. Het Zorginstituut bevordert de eenduidige uitleg van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01).
 
 2. Het Zorginstituut kan de zorgverzekeraars met het oog hierop richtlijnen geven.
 
 ##### Artikel 65
 
-Het Zorginstituut geeft aan zorgverzekeraars, aan zorgaanbieders en aan burgers voorlichting over de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01).
+Het Zorginstituut geeft aan zorgverzekeraars, aan zorgaanbieders en aan burgers voorlichting over de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 66
 
-1. Het Zorginstituut rapporteert Onze Minister desgevraagd over voorgenomen beleid inzake aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01).
+1. Het Zorginstituut rapporteert Onze Minister desgevraagd over voorgenomen beleid inzake aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01).
 
-2. Het Zorginstituut signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen die aanleiding kunnen geven tot wijzigingen van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01).
+2. Het Zorginstituut signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen die aanleiding kunnen geven tot wijzigingen van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01).
 
 3. Het Zorginstituut signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen op het gebied van kosten van zorg die behoort tot de te verzekeren prestaties voor de zorgverzekering.
 
@@ -975,7 +975,7 @@ Vervallen
 
 5. De bijdrage van een persoon, bedoeld in het eerste lid, van 18 jaar of ouder die ingevolge de verordening, de overeenkomst of het verdrag, bedoeld in het eerste lid, als gezinslid wordt aangemerkt is verschuldigd door degene van wie het recht op zorg van dat gezinslid ingevolge die verordening, die overeenkomst of dat verdrag is afgeleid.
 
-6. Voor zover een pensioen- of renteverstrekkend orgaan aan een in het eerste lid bedoelde persoon loon als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01) verstrekt, is dat orgaan een bij ministeriële regeling te bepalen bijdrage verschuldigd.
+6. Voor zover een pensioen- of renteverstrekkend orgaan aan een in het eerste lid bedoelde persoon loon als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01) verstrekt, is dat orgaan een bij ministeriële regeling te bepalen bijdrage verschuldigd.
 
 7. Het CAK is belast met de administratie voortvloeiend uit het eerste, vijftiende en zestiende lid en de daar genoemde internationale regels, alsmede met het nemen van beschikkingen over de heffing en de inning van de bijdragen, bedoeld in het tweede en zesde lid.
 
@@ -995,7 +995,7 @@ Vervallen
 
 - c. kan, voor gevallen waarin een persoon als bedoeld in het eerste lid van meer dan één orgaan pensioen of rente ontvangt, worden bepaald dat het CAK één orgaan aanwijst dat de bijdrage van die persoon en de bijdragen van de gezinsleden van die persoon inhoudt op door dat orgaan aan die persoon verschuldigde pensioen of rente, of indien het in te houden bedrag groter is dan dat pensioen of die rente, twee of meer organen aanwijst die elk een deel van dat bedrag inhouden. Daarbij kan worden bepaald dat een deel van het pensioen of de rente wordt vrijgesteld van inhouding door het aangewezen orgaan.
 
-13. [Artikel 18f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18f&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+13. [Artikel 18f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18f&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 14. Het CAK kan de bijdrage, bedoeld in het tweede of zesde lid, bij dwangbevel invorderen.
 
@@ -1007,21 +1007,21 @@ Vervallen
 
 ##### Artikel 70
 
-1. Het CAK opent voor iedere gemoedsbezwaarde, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), een rekening, waarop de geheven inkomensafhankelijke bijdrage, bedoeld in [artikel 42, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-01-01&g=2025-01-01), en de bijdragevervangende belasting, bedoeld in [artikel 57, eerste lid, worden gestort](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.5&artikel=57&z=2025-01-01&g=2025-01-01).
+1. Het CAK opent voor iedere gemoedsbezwaarde, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), een rekening, waarop de geheven inkomensafhankelijke bijdrage, bedoeld in [artikel 42, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.2&artikel=42&z=2025-07-01&g=2025-07-01), en de bijdragevervangende belasting, bedoeld in [artikel 57, eerste lid, worden gestort](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.5&artikel=57&z=2025-07-01&g=2025-07-01).
 
-2. In afwijking van het eerste lid opent of houdt het CAK één rekening in stand indien twee of meer gemoedsbezwaarden als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), een gezamenlijke huishouding voeren, en worden op die rekening de bijdragen en belastingen van ieder van deze gemoedsbezwaarden gestort.
+2. In afwijking van het eerste lid opent of houdt het CAK één rekening in stand indien twee of meer gemoedsbezwaarden als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-07-01&g=2025-07-01), een gezamenlijke huishouding voeren, en worden op die rekening de bijdragen en belastingen van ieder van deze gemoedsbezwaarden gestort.
 
 3. Tot de rekening is geen ander begunstigd dan het CAK.
 
 4. Het saldo wordt door het CAK gebruikt voor het doen van:
 
-- a. uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), voor zover deze zijn verleend aan een gemoedsbezwaarde voor wie de rekening in stand wordt gehouden, of aan een tot zijn huishouding behorend kind, jonger dan achttien jaar;
+- a. uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), voor zover deze zijn verleend aan een gemoedsbezwaarde voor wie de rekening in stand wordt gehouden, of aan een tot zijn huishouding behorend kind, jonger dan achttien jaar;
 
-- b. uitkeringen als bedoeld in [artikel 39, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.1&artikel=39&z=2025-01-01&g=2025-01-01).
+- b. uitkeringen als bedoeld in [artikel 39, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5&paragraaf=5.1&artikel=39&z=2025-07-01&g=2025-07-01).
 
 5. Uitkeringen als bedoeld in het vierde lid, onderdeel a, worden slechts op verzoek van een gemoedsbezwaarde voor wie de rekening in stand wordt gehouden, gedaan.
 
-6. De kosten van zorg of overige diensten worden niet vergoed voor zover deze voor een verzekerde op grond van de regels, gesteld bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), voor eigen rekening blijven.
+6. De kosten van zorg of overige diensten worden niet vergoed voor zover deze voor een verzekerde op grond van de regels, gesteld bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), voor eigen rekening blijven.
 
 7. Het CAK heft een rekening op indien alle gemoedsbezwaarden voor wie de rekening in stand werd gehouden, verzekeringsplichtig zijn geworden dan wel zijn overleden.
 
@@ -1049,7 +1049,7 @@ Vervallen
 
 3. Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27) bevat de begroting een meerjarenraming van de beheerskosten voor de vier kalenderjaren, volgend op het begrotingsjaar.
 
-4. In het werkprogramma, bedoeld in het eerste lid, wordt onderscheid gemaakt naar gelang het gaat om de uitvoering van taken op het gebied van de kwaliteit van de zorg en van de taken, bedoeld in [artikel 66f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66f&z=2025-01-01&g=2025-01-01), dan wel om andere taken van het Zorginstituut.
+4. In het werkprogramma, bedoeld in het eerste lid, wordt onderscheid gemaakt naar gelang het gaat om de uitvoering van taken op het gebied van de kwaliteit van de zorg en van de taken, bedoeld in [artikel 66f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66f&z=2025-07-01&g=2025-07-01), dan wel om andere taken van het Zorginstituut.
 
 ##### Artikel 72
 
@@ -1093,37 +1093,37 @@ Vervallen
 
 ##### Artikel 75
 
-1. Het werkprogramma, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=71&z=2025-01-01&g=2025-01-01), de verantwoording, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-01-01&g=2025-01-01), en de jaarrekening, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-01-01&g=2025-01-01), behoeven de goedkeuring van Onze Minister.
+1. Het werkprogramma, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=71&z=2025-07-01&g=2025-07-01), de verantwoording, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-07-01&g=2025-07-01), en de jaarrekening, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-07-01&g=2025-07-01), behoeven de goedkeuring van Onze Minister.
 
 2. In afwijking van het eerste lid en van [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), behoeven wijzigingen in een goedgekeurde begroting geen goedkeuring van Onze Minister, mits:
 
 - a. de totale omvang van de begroting geen wijziging ondergaat, en
 
-- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=72&z=2025-01-01&g=2025-01-01) bedoelde budget niet te boven gaat.
+- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=72&z=2025-07-01&g=2025-07-01) bedoelde budget niet te boven gaat.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de inhoud en de inrichting van het werkprogramma, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=71&z=2025-01-01&g=2025-01-01), en de meerjarenagenda, bedoeld in artikel 71, tweede lid;
+- a. de inhoud en de inrichting van het werkprogramma, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=71&z=2025-07-01&g=2025-07-01), en de meerjarenagenda, bedoeld in artikel 71, tweede lid;
 
 - b. de inhoud en de inrichting van de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26);
 
-- c. de inhoud en inrichting van de verantwoording, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-01-01&g=2025-01-01), en van het in dat lid bedoelde assurance report;
+- c. de inhoud en inrichting van de verantwoording, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-07-01&g=2025-07-01), en van het in dat lid bedoelde assurance report;
 
-- d. de inhoud en inrichting van de jaarrekening, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-01-01&g=2025-01-01), alsmede in [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34);
+- d. de inhoud en inrichting van de jaarrekening, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-07-01&g=2025-07-01), alsmede in [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34);
 
-- e. de accountantscontrole van de jaarrekeningen, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-01-01&g=2025-01-01) en [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34);
+- e. de accountantscontrole van de jaarrekeningen, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-07-01&g=2025-07-01) en [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34);
 
-- f. de bij de jaarrekeningen, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-01-01&g=2025-01-01) en [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) behorende verslagen van bevindingen alsmede het assurance report, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-01-01&g=2025-01-01);
+- f. de bij de jaarrekeningen, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=74&z=2025-07-01&g=2025-07-01) en [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) behorende verslagen van bevindingen alsmede het assurance report, bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=73a&z=2025-07-01&g=2025-07-01);
 
 - g. de inhoud en de inrichting van het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18);
 
 - h. de omvang van de egalisatiereserve, bedoeld in [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33).
 
-4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=72&z=2025-01-01&g=2025-01-01), wordt vastgesteld.
+4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=72&z=2025-07-01&g=2025-07-01), wordt vastgesteld.
 
 ##### Artikel 76
 
-Na de goedkeuring, bedoeld in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=75&z=2025-01-01&g=2025-01-01), en de goedkeuring, bedoeld in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), stelt het Zorginstituut de in artikel 75, derde lid, onderdelen a, b, d en g, genoemde stukken algemeen verkrijgbaar.
+Na de goedkeuring, bedoeld in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.3&artikel=75&z=2025-07-01&g=2025-07-01), en de goedkeuring, bedoeld in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), stelt het Zorginstituut de in artikel 75, derde lid, onderdelen a, b, d en g, genoemde stukken algemeen verkrijgbaar.
 
 ### Hoofdstuk 7. Het college toezicht
 
@@ -1179,9 +1179,9 @@ Vervallen
 
 3. De zorgverzekeraar gebruikt het burgerservicenummer van de verzekerde met het doel te waarborgen dat de in het kader van de verzekering van zorg te verwerken persoonsgegevens op die verzekerde betrekking hebben.
 
-4. Bij gegevensuitwisseling tussen de zorgverzekeraars en de in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-01-01&g=2025-01-01) genoemde personen en instanties wordt, voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt.
+4. Bij gegevensuitwisseling tussen de zorgverzekeraars en de in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01) genoemde personen en instanties wordt, voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt.
 
-5. Het vierde lid is van overeenkomstige toepassing op de gegevensuitwisseling tussen de zorgverzekeraars en de zorgaanbieders, indicatieorganen en zorgverzekeraars in de zin van de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) die niet in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-01-01&g=2025-01-01) zijn genoemd.
+5. Het vierde lid is van overeenkomstige toepassing op de gegevensuitwisseling tussen de zorgverzekeraars en de zorgaanbieders, indicatieorganen en zorgverzekeraars in de zin van de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) die niet in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01) zijn genoemd.
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
@@ -1189,13 +1189,13 @@ Vervallen
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden over de bij de gegevensuitwisseling, bedoeld in het vierde en vijfde lid, te verwerken feiten of gegevens met betrekking tot verzekerden van wie het vaststellen van het burgerservicenummer onmogelijk blijkt of een onevenredige inspanning kost. Bij of krachtens die maatregel kan worden bepaald aan welke beveiligingseisen de verwerking van die feiten of gegevens voldoet.
 
-9. Bij algemene maatregel van bestuur kunnen vormen van zorg of andere diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), alsmede categorieën van zorgverzekeraars en van in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-01-01&g=2025-01-01) genoemde personen en instanties worden uitgezonderd van de toepassing van het bepaalde bij of krachtens het eerste tot en met het achtste lid.
+9. Bij algemene maatregel van bestuur kunnen vormen van zorg of andere diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), alsmede categorieën van zorgverzekeraars en van in de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01) genoemde personen en instanties worden uitgezonderd van de toepassing van het bepaalde bij of krachtens het eerste tot en met het achtste lid.
 
 ##### Artikel 87
 
-1. Een zorgaanbieder die aan een verzekerde zorg of andere diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), heeft verleend, en die de kosten daarvan krachtens een door hem met de zorgverzekeraar gesloten overeenkomst rechtstreeks bij die zorgverzekeraar in rekening brengt, verstrekt die zorgverzekeraar of een door die zorgverzekeraar aangewezen persoon de persoonsgegevens van de verzekerde, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van de zorgverzekering of van deze wet, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.
+1. Een zorgaanbieder die aan een verzekerde zorg of andere diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), heeft verleend, en die de kosten daarvan krachtens een door hem met de zorgverzekeraar gesloten overeenkomst rechtstreeks bij die zorgverzekeraar in rekening brengt, verstrekt die zorgverzekeraar of een door die zorgverzekeraar aangewezen persoon de persoonsgegevens van de verzekerde, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van de zorgverzekering of van deze wet, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.
 
-2. Een zorgaanbieder die aan een verzekerde zorg of andere diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), heeft verleend en die de kosten daarvan bij de verzekerde in rekening brengt, verstrekt hem de persoonsgegevens, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die voor zijn zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van deze wet.
+2. Een zorgaanbieder die aan een verzekerde zorg of andere diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), heeft verleend en die de kosten daarvan bij de verzekerde in rekening brengt, verstrekt hem de persoonsgegevens, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die voor zijn zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van deze wet.
 
 3. De zorgaanbieder, bedoeld in het eerste of tweede lid, verstrekt een door Onze Minister aangewezen persoon kosteloos bij ministeriële regeling omschreven, voor de uitvoering van deze wet noodzakelijke persoonsgegevens, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming.
 
@@ -1235,21 +1235,21 @@ Vervallen
 
 ##### Artikel 89
 
-1. De in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01), bedoelde zorgverzekeraars en instanties, alsmede de Wlz-uitvoerders en de in [artikel 24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-01-01&g=2025-01-01), bedoelde ministers, zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet, van [artikel 11g van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11g), of voor de onderlinge afstemming van op grond van de zorgverzekering verzekerde zorg en zorg die is verzekerd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+1. De in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01), bedoelde zorgverzekeraars en instanties, alsmede de Wlz-uitvoerders en de in [artikel 24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-07-01&g=2025-07-01), bedoelde ministers, zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet, van [artikel 11g van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11g), of voor de onderlinge afstemming van op grond van de zorgverzekering verzekerde zorg en zorg die is verzekerd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
 2. Een zorgverzekeraar verleent op verzoek van het Zorginstituut, het CAK dan wel van de zorgautoriteit aan door het desbetreffende bestuursorgaan aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende bestuursorgaan dit nodig acht voor de uitoefening van zijn taak.
 
-3. Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01), bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.
+3. Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01), bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.
 
 4. Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het CAK, aan het Zorginstituut of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.
 
-5. De verstrekking aan Onze Minister op grond van [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01), of het eerste lid betreft, voor zover het gaat om persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van die verordening, gegevens die noodzakelijk zijn voor de bepaling van de criteria, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), of van het criterium, bedoeld in artikel 32, vierde lid, onderdeel b, of de statistische onderbouwing van de aan de criteria krachtens artikel 32, vierde lid, onderdeel c, gekoppelde bijdragen.
+5. De verstrekking aan Onze Minister op grond van [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01), of het eerste lid betreft, voor zover het gaat om persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van die verordening, gegevens die noodzakelijk zijn voor de bepaling van de criteria, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), of van het criterium, bedoeld in artikel 32, vierde lid, onderdeel b, of de statistische onderbouwing van de aan de criteria krachtens artikel 32, vierde lid, onderdeel c, gekoppelde bijdragen.
 
-6. De verstrekking aan het Zorginstituut op grond van [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01) of het eerste lid, betreft gegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor:
+6. De verstrekking aan het Zorginstituut op grond van [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) of het eerste lid, betreft gegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor:
 
-- a. de berekening van de aan een zorgverzekeraar toekomende bijdragen als bedoeld in [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01);
+- a. de berekening van de aan een zorgverzekeraar toekomende bijdragen als bedoeld in [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01);
 
-- b. de uitvoering van de aan het Zorginstituut in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=64&z=2025-01-01&g=2025-01-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-01-01&g=2025-01-01) opgedragen taken; of
+- b. de uitvoering van de aan het Zorginstituut in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=64&z=2025-07-01&g=2025-07-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-07-01&g=2025-07-01) opgedragen taken; of
 
 - c. de uitvoering van de aan het Zorginstituut in [artikel 11g van de Wet kwaliteit, klachten en geschillen zorg opgedragen taken](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11g).
 
@@ -1303,7 +1303,7 @@ Vervallen
 
 - b. de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en van [artikel 66 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=66) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een verzekeraar die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden;
 
-- c. de bevoegdheden van de Algemene Rekenkamer ingevolge [artikel 7.34 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.34), voor zover deze niet bij [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=9&artikel=121&z=2025-01-01&g=2025-01-01) zijn beperkt.
+- c. de bevoegdheden van de Algemene Rekenkamer ingevolge [artikel 7.34 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.34), voor zover deze niet bij [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=9&artikel=121&z=2025-07-01&g=2025-07-01) zijn beperkt.
 
 5. Het vierde lid, onderdeel b, geldt niet voor gegevens of inlichtingen die betrekking hebben op verzekeraars die betrokken zijn of zijn geweest bij een poging de desbetreffende verzekeraar in staat te stellen zijn bedrijf voort te zetten.
 
@@ -1425,13 +1425,13 @@ Vervallen
 
 2. De onafhankelijke instantie neemt een geschil slechts in behandeling nadat de verzekeringnemer of de verzekerde de zorgverzekeraar heeft verzocht zijn beslissing te heroverwegen, en deze niet binnen redelijke termijn of niet naar tevredenheid van de verzekeringnemer of verzekerde heeft gereageerd.
 
-3. De onafhankelijke instantie vraagt advies aan het Zorginstituut indien het geschil betrekking heeft op de zorg of de overige diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), dan wel de vergoeding van die zorg of diensten.
+3. De onafhankelijke instantie vraagt advies aan het Zorginstituut indien het geschil betrekking heeft op de zorg of de overige diensten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), dan wel de vergoeding van die zorg of diensten.
 
 4. Het Zorginstituut zendt zijn advies binnen vier weken na ontvangst van de adviesaanvraag aan de onafhankelijke instantie.
 
 ##### Artikel 115
 
-De permanente vertegenwoordiging van verzekerden, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-01-01&g=2025-01-01), onderscheidenlijk de zorgverzekeraar, kunnen de kantonrechter verzoeken te bepalen dat de zorgverzekeraar, onderscheidenlijk de permanente vertegenwoordiging van verzekerden gevolg dient te geven aan hetgeen bij en krachtens de [artikelen 28a, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-01-01&g=2025-01-01), [artikel 28b, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28b&z=2025-01-01&g=2025-01-01), en [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28c&z=2025-01-01&g=2025-01-01) is bepaald.
+De permanente vertegenwoordiging van verzekerden, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-07-01&g=2025-07-01), onderscheidenlijk de zorgverzekeraar, kunnen de kantonrechter verzoeken te bepalen dat de zorgverzekeraar, onderscheidenlijk de permanente vertegenwoordiging van verzekerden gevolg dient te geven aan hetgeen bij en krachtens de [artikelen 28a, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-07-01&g=2025-07-01), [artikel 28b, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28b&z=2025-07-01&g=2025-07-01), en [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28c&z=2025-07-01&g=2025-07-01) is bepaald.
 
 ##### Artikel 116
 
@@ -1445,7 +1445,7 @@ Vervallen
 
 ##### Artikel 118
 
-1. Een verzekerde die voor rekening van zijn zorgverzekering bij ministeriële regeling aan te wijzen zorg of andere diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01) wenst te genieten, verstrekt aan de persoon of instelling die die zorg of dienst verleent ter inzage een identiteitsbewijs als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), of een ander bij ministeriële regeling aan te wijzen document waarmee zijn identiteit kan worden vastgesteld.
+1. Een verzekerde die voor rekening van zijn zorgverzekering bij ministeriële regeling aan te wijzen zorg of andere diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01) wenst te genieten, verstrekt aan de persoon of instelling die die zorg of dienst verleent ter inzage een identiteitsbewijs als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), of een ander bij ministeriële regeling aan te wijzen document waarmee zijn identiteit kan worden vastgesteld.
 
 2. Indien het identiteitsbewijs niet onmiddellijk ter inzage kan worden verstrekt, kan de persoon of instelling toestaan dat uiterlijk binnen een termijn van veertien dagen aan deze verplichting wordt voldaan.
 
@@ -1453,7 +1453,7 @@ Vervallen
 
 ##### Artikel 119
 
-1. Een overeenkomst met betrekking tot de verzekering van geneeskundige zorg of de kosten daarvan, gesloten voor een verzekerde met of ten behoeve van wie tevens een zorgverzekering is gesloten, vervalt met ingang van de dag waarop de bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01) te verzekeren prestaties worden uitgebreid, voor zover aan de overeenkomst rechten kunnen worden ontleend, gelijkwaardig aan die, welke vanaf dat moment uit de zorgverzekering voortvloeien.
+1. Een overeenkomst met betrekking tot de verzekering van geneeskundige zorg of de kosten daarvan, gesloten voor een verzekerde met of ten behoeve van wie tevens een zorgverzekering is gesloten, vervalt met ingang van de dag waarop de bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01) te verzekeren prestaties worden uitgebreid, voor zover aan de overeenkomst rechten kunnen worden ontleend, gelijkwaardig aan die, welke vanaf dat moment uit de zorgverzekering voortvloeien.
 
 2. De premie die voor de op grond van het eerste lid geheel of gedeeltelijk vervallen overeenkomst is vooruitbetaald, wordt door de verzekeraar al naar gelang van het vervallen gedeelte der overeenkomst terugbetaald, onder aftrek van ten hoogste 25% van het terug te betalen bedrag.
 
@@ -1471,19 +1471,19 @@ Een zorgverzekeraar wordt, voor zover deze niet kan worden aangemerkt als ondern
 
 ##### Artikel 123*
 
-De [artikelen 3, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-01-01&g=2025-01-01), en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op een verzekeraar ten aanzien waarvan de Nederlandsche Bank een besluit tot afwikkeling als bedoeld in [artikel 3A:85 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:85) heeft genomen.
+De [artikelen 3, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-07-01&g=2025-07-01), en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-07-01&g=2025-07-01), zijn niet van toepassing op een verzekeraar ten aanzien waarvan de Nederlandsche Bank een besluit tot afwikkeling als bedoeld in [artikel 3A:85 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:85) heeft genomen.
 
 ### Hoofdstuk 10. Rechtsbescherming
 
 ##### Artikel 124
 
-1. De voordracht voor een krachtens de [artikelen 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), [13a, vijfde lid of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13a&z=2025-01-01&g=2025-01-01), [18aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18aa&z=2025-01-01&g=2025-01-01), [19, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2025-01-01&g=2025-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-01-01&g=2025-01-01) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+1. De voordracht voor een krachtens de [artikelen 11, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), [13a, vijfde lid of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=13a&z=2025-07-01&g=2025-07-01), [18aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18aa&z=2025-07-01&g=2025-07-01), [19, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2025-07-01&g=2025-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-07-01&g=2025-07-01) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-2. Het ontwerp voor een krachtens [artikel 18aa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18aa&z=2025-01-01&g=2025-01-01), of [artikel 18d, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01), vast te stellen ministeriële regeling wordt aan beide kamers der Staten-Generaal voorgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.
+2. Het ontwerp voor een krachtens [artikel 18aa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18aa&z=2025-07-01&g=2025-07-01), of [artikel 18d, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01), vast te stellen ministeriële regeling wordt aan beide kamers der Staten-Generaal voorgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.
 
 ##### Artikel 125
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van de [artikelen 28a tot en met 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-01-01&g=2025-01-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die artikelen in de praktijk.
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van de [artikelen 28a tot en met 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-07-01&g=2025-07-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die artikelen in de praktijk.
 
 ##### Artikel 126
 
@@ -1565,7 +1565,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 59a
 
-1. Het Zorginstituut heeft een commissie die rapporten of signalen als bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-01-01&g=2025-01-01) voorbereidt.
+1. Het Zorginstituut heeft een commissie die rapporten of signalen als bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-07-01&g=2025-07-01) voorbereidt.
 
 2. De commissie bestaat uit een oneven aantal van ten hoogste negen leden die worden benoemd, geschorst en ontslagen door het Zorginstituut.
 
@@ -1579,7 +1579,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 7. Bij ministeriële regeling worden de vergoeding van reis- en verblijfkosten en verdere vergoedingen aan de leden van de commissie vastgesteld.
 
-8. Het lidmaatschap van de commissie, bedoeld in het eerste lid, is onverenigbaar met het lidmaatschap van het Zorginstituut en van de commissie, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=59b&z=2025-01-01&g=2025-01-01).
+8. Het lidmaatschap van de commissie, bedoeld in het eerste lid, is onverenigbaar met het lidmaatschap van het Zorginstituut en van de commissie, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=59b&z=2025-07-01&g=2025-07-01).
 
 #### Paragraaf 5.3. De heffing en invordering van de inkomensafhankelijke bijdrage
 
@@ -1627,7 +1627,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. vreemdelingen als bedoeld in [artikel 10 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=10).
 
-2. Onder medisch noodzakelijke zorg wordt verstaan zorg of overige diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01) van deze wet of in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), met uitzondering van bij of krachtens algemene maatregel van bestuur aan te wijzen vormen van zorg of diensten, en slechts voor zover de zorgaanbieder verstrekking ervan, gezien de aard van de prestaties en de verwachte duur van het verblijf van de vreemdeling, medisch noodzakelijk acht.
+2. Onder medisch noodzakelijke zorg wordt verstaan zorg of overige diensten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01) van deze wet of in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), met uitzondering van bij of krachtens algemene maatregel van bestuur aan te wijzen vormen van zorg of diensten, en slechts voor zover de zorgaanbieder verstrekking ervan, gezien de aard van de prestaties en de verwachte duur van het verblijf van de vreemdeling, medisch noodzakelijk acht.
 
 3. Geen bijdrage wordt verstrekt voor zover de kosten voor de verleende zorg:
 
@@ -1635,7 +1635,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. op grond van een andere wettelijke bepaling kunnen worden vergoed, of
 
-- c. hoger zijn dan de kosten die voor vergoeding in aanmerking komen bij overeenkomstige toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), met dien verstande dat geen aftrek plaatsvindt van het deel van de kosten dat voor rekening van de verzekerde zou komen.
+- c. hoger zijn dan de kosten die voor vergoeding in aanmerking komen bij overeenkomstige toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), met dien verstande dat geen aftrek plaatsvindt van het deel van de kosten dat voor rekening van de verzekerde zou komen.
 
 4. Indien zorg is verleend die aan verzekerden doorgaans zonder verwijzing of recept wordt verleend, bedraagt de bijdrage:
 
@@ -1665,29 +1665,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18b
 
-1. Zo spoedig mogelijk nadat ten aanzien van een zorgverzekering, rente en incassokosten buiten beschouwing latend, een achterstand in de betaling van de verschuldigde premie ter hoogte van vier maandpremies is geconstateerd, deelt de zorgverzekeraar de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, de verzekerde mee dat hij voornemens is over te gaan tot de melding, bedoeld in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), zodra de premieschuld de daar bedoelde hoogte zal hebben bereikt, tenzij de verzekeringnemer of de verzekerde hem uiterlijk vier weken na ontvangst van de mededeling heeft laten weten, het bestaan van de schuld of de hoogte ervan te betwisten.
+1. Zo spoedig mogelijk nadat ten aanzien van een zorgverzekering, rente en incassokosten buiten beschouwing latend, een achterstand in de betaling van de verschuldigde premie ter hoogte van vier maandpremies is geconstateerd, deelt de zorgverzekeraar de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, de verzekerde mee dat hij voornemens is over te gaan tot de melding, bedoeld in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), zodra de premieschuld de daar bedoelde hoogte zal hebben bereikt, tenzij de verzekeringnemer of de verzekerde hem uiterlijk vier weken na ontvangst van de mededeling heeft laten weten, het bestaan van de schuld of de hoogte ervan te betwisten.
 
-2. Ingeval van tijdige betwisting als bedoeld in het eerste lid deelt de zorgverzekeraar, indien deze na onderzoek zijn standpunt handhaaft, de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, de verzekerde mee dat hij het voornemen tot melding tot uitvoering zal brengen zodra de premieschuld de in [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), bedoelde hoogte zal hebben bereikt, tenzij de verzekeringnemer of de verzekerde binnen een termijn van vier weken na ontvangst van de in dit lid bedoelde mededeling een geschil hierover heeft voorgelegd aan een onafhankelijke instantie als bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=8&artikel=114&z=2025-01-01&g=2025-01-01) of aan de burgerlijke rechter.
+2. Ingeval van tijdige betwisting als bedoeld in het eerste lid deelt de zorgverzekeraar, indien deze na onderzoek zijn standpunt handhaaft, de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, de verzekerde mee dat hij het voornemen tot melding tot uitvoering zal brengen zodra de premieschuld de in [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), bedoelde hoogte zal hebben bereikt, tenzij de verzekeringnemer of de verzekerde binnen een termijn van vier weken na ontvangst van de in dit lid bedoelde mededeling een geschil hierover heeft voorgelegd aan een onafhankelijke instantie als bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=8&artikel=114&z=2025-07-01&g=2025-07-01) of aan de burgerlijke rechter.
 
-3. Indien een betalingsregeling als bedoeld in [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18a&z=2025-01-01&g=2025-01-01) ingaat nadat ten aanzien van de zorgverzekering, rente en incassokosten buiten beschouwing latend, een achterstand in de betaling van de verschuldigde premie ter hoogte van vier maandpremies is ontstaan, laat de zorgverzekeraar de in het eerste lid bedoelde melding achterwege zolang de nieuw vervallende termijnen van de premie worden voldaan.
+3. Indien een betalingsregeling als bedoeld in [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18a&z=2025-07-01&g=2025-07-01) ingaat nadat ten aanzien van de zorgverzekering, rente en incassokosten buiten beschouwing latend, een achterstand in de betaling van de verschuldigde premie ter hoogte van vier maandpremies is ontstaan, laat de zorgverzekeraar de in het eerste lid bedoelde melding achterwege zolang de nieuw vervallende termijnen van de premie worden voldaan.
 
 ##### Artikel 18c
 
-1. Indien ten aanzien van een zorgverzekering, rente en incassokosten buiten beschouwing latend, een premieschuld ter hoogte van zes of meer maandpremies is ontstaan, meldt de zorgverzekeraar dit, onder vermelding van de voor de heffing van de bestuursrechtelijke premie alsmede voor de uitvoering van [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-01-01&g=2025-01-01) noodzakelijke persoonsgegevens van de verzekeringnemer en de verzekerde, aan het CAK, de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, aan de verzekerde.
+1. Indien ten aanzien van een zorgverzekering, rente en incassokosten buiten beschouwing latend, een premieschuld ter hoogte van zes of meer maandpremies is ontstaan, meldt de zorgverzekeraar dit, onder vermelding van de voor de heffing van de bestuursrechtelijke premie alsmede voor de uitvoering van [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-07-01&g=2025-07-01) noodzakelijke persoonsgegevens van de verzekeringnemer en de verzekerde, aan het CAK, de verzekeringnemer en, indien deze een ander is dan de verzekeringnemer, aan de verzekerde.
 
 2. De melding geschiedt niet:
 
-- a. in geval van tijdige betwisting als bedoeld in [artikel 18b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-01-01&g=2025-01-01), zolang de zorgverzekeraar zijn standpunt dienaangaande niet aan de verzekeringnemer en, indien dit een ander dan de verzekeringnemer is, aan de verzekerde heeft kenbaar gemaakt;
+- a. in geval van tijdige betwisting als bedoeld in [artikel 18b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-07-01&g=2025-07-01), zolang de zorgverzekeraar zijn standpunt dienaangaande niet aan de verzekeringnemer en, indien dit een ander dan de verzekeringnemer is, aan de verzekerde heeft kenbaar gemaakt;
 
-- b. gedurende de termijn, genoemd in [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-01-01&g=2025-01-01);
+- b. gedurende de termijn, genoemd in [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-07-01&g=2025-07-01);
 
-- c. ingeval van tijdige voorlegging van het geschil aan een onafhankelijke instantie of aan de burgerlijke rechter als bedoeld in [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-01-01&g=2025-01-01), zolang op het geschil niet onherroepelijk is beslist;
+- c. ingeval van tijdige voorlegging van het geschil aan een onafhankelijke instantie of aan de burgerlijke rechter als bedoeld in [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-07-01&g=2025-07-01), zolang op het geschil niet onherroepelijk is beslist;
 
 - d. ingeval de verzekeringnemer zich heeft aangemeld bij een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) en aantoont dat hij in het kader daarvan een schriftelijke overeenkomst tot stabilisatie van zijn schulden heeft gesloten;
 
-- e. ingeval het adres van de verzekeringnemer en, indien dit een ander is dan de verzekeringnemer, de verzekerde, niet in de basisregistratie personen voorkomt of het adres zoals dat is opgenomen in de administratie van de zorgverzekeraar afwijkt van het adres waaronder deze persoon of personen in de basisregistratie personen als ingezetene staat of staan ingeschreven, tenzij deze afwijking het gevolg is van een omstandigheid als bedoeld in [artikel 4a, derde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=4a&z=2025-01-01&g=2025-01-01).
+- e. ingeval het adres van de verzekeringnemer en, indien dit een ander is dan de verzekeringnemer, de verzekerde, niet in de basisregistratie personen voorkomt of het adres zoals dat is opgenomen in de administratie van de zorgverzekeraar afwijkt van het adres waaronder deze persoon of personen in de basisregistratie personen als ingezetene staat of staan ingeschreven, tenzij deze afwijking het gevolg is van een omstandigheid als bedoeld in [artikel 4a, derde lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.2&artikel=4a&z=2025-07-01&g=2025-07-01).
 
-3. Onderdeel van de melding vormt een verklaring van de zorgverzekeraar, inhoudende dat hij [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-01-01&g=2025-01-01) en het tweede lid in acht heeft genomen.
+3. Onderdeel van de melding vormt een verklaring van de zorgverzekeraar, inhoudende dat hij [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-07-01&g=2025-07-01) en het tweede lid in acht heeft genomen.
 
 4. Na de melding verleent de zorgverzekeraar aantoonbaar voldoende medewerking aan activiteiten van de verzekeringnemer of derden, gericht op aflossing van de jegens de zorgverzekeraar bestaande, uit de zorgverzekering voortvloeiende schuld.
 
@@ -1695,7 +1695,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18d
 
-1. De verzekeringnemer is vanaf de eerste dag van de maand volgende op de maand waarin het CAK de melding, bedoeld in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), heeft ontvangen aan het CAK een bij ministeriële regeling te bepalen, bestuursrechtelijke premie van ten minste 110% en ten hoogste 130% van de gemiddelde premie verschuldigd.
+1. De verzekeringnemer is vanaf de eerste dag van de maand volgende op de maand waarin het CAK de melding, bedoeld in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), heeft ontvangen aan het CAK een bij ministeriële regeling te bepalen, bestuursrechtelijke premie van ten minste 110% en ten hoogste 130% van de gemiddelde premie verschuldigd.
 
 2. De premie, bedoeld in het eerste lid, is niet meer verschuldigd met ingang van de eerste dag van de maand volgende op de maand waarin:
 
@@ -1703,7 +1703,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de schuldsaneringsregeling natuurlijke personen, bedoeld in de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860), op de verzekeringnemer van toepassing wordt,
 
-- c. door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) een overeenkomst als bedoeld in [artikel 18c, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), is gesloten, door diens tussenkomst een buitengerechtelijke schuldregeling tot stand is gekomen waarin, naast de verzekeringnemer, ten minste zijn zorgverzekeraar deelneemt, of de zorgverzekeraar met de verzekeringnemer een betalingsregeling is overeengekomen, of
+- c. door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) een overeenkomst als bedoeld in [artikel 18c, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), is gesloten, door diens tussenkomst een buitengerechtelijke schuldregeling tot stand is gekomen waarin, naast de verzekeringnemer, ten minste zijn zorgverzekeraar deelneemt, of de zorgverzekeraar met de verzekeringnemer een betalingsregeling is overeengekomen, of
 
 - d. de verzekeringnemer aan bij ministeriële regeling te bepalen voorwaarden voldoet.
 
@@ -1723,11 +1723,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18e
 
-1. Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9d&z=2025-01-01&g=2025-01-01) loopt, is de verzekeringnemer vanaf de eerste dag van de kalendermaand volgende op de maand waarin hij de leeftijd van achttien jaren heeft bereikt aan het CAK een bestuursrechtelijke premie verschuldigd.
+1. Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9d&z=2025-07-01&g=2025-07-01) loopt, is de verzekeringnemer vanaf de eerste dag van de kalendermaand volgende op de maand waarin hij de leeftijd van achttien jaren heeft bereikt aan het CAK een bestuursrechtelijke premie verschuldigd.
 
 2. De hoogte van de bestuursrechtelijke premie wordt bij ministeriële regeling vastgesteld op een percentage van de gemiddelde premie.
 
-3. [Artikel 18d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01), is van toepassing.
+3. [Artikel 18d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01), is van toepassing.
 
 ##### Artikel 18f
 
@@ -1847,15 +1847,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18g
 
-1. Het CAK gebruikt het burgerservicenummer van de in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01) bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-01-01&g=2025-01-01) te verwerken persoonsgegevens op die personen betrekking hebben.
+1. Het CAK gebruikt het burgerservicenummer van de in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01) bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-07-01&g=2025-07-01) te verwerken persoonsgegevens op die personen betrekking hebben.
 
-2. Bij gegevensuitwisseling tussen het CAK en de in de [artikelen 18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18f&z=2025-01-01&g=2025-01-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-01-01&g=2025-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-01-01&g=2025-01-01) bedoelde personen en instanties wordt, voor de uitvoering van deze afdeling en voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer gebruikt.
+2. Bij gegevensuitwisseling tussen het CAK en de in de [artikelen 18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18f&z=2025-07-01&g=2025-07-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01) bedoelde personen en instanties wordt, voor de uitvoering van deze afdeling en voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer gebruikt.
 
-3. Het CAK is bevoegd tot het verwerken van persoonsgegevens van de in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01), en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01) bedoelde personen, die noodzakelijk zijn voor de uitvoering van deze afdeling en [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-01-01&g=2025-01-01).
+3. Het CAK is bevoegd tot het verwerken van persoonsgegevens van de in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01), en [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01) bedoelde personen, die noodzakelijk zijn voor de uitvoering van deze afdeling en [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2025-07-01&g=2025-07-01).
 
 4. Het CAK is de verwerkingsverantwoordelijke, voor de verwerking, bedoeld in het derde lid.
 
-5. Het CAK is bevoegd schulden ter zake van de bestuursrechtelijke premie die hem nog niet zijn voldaan nadat [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-01-01&g=2025-01-01) of [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-01-01&g=2025-01-01) niet meer op de verzekeringnemer van toepassing is, kwijt te schelden.
+5. Het CAK is bevoegd schulden ter zake van de bestuursrechtelijke premie die hem nog niet zijn voldaan nadat [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18d&z=2025-07-01&g=2025-07-01) of [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18e&z=2025-07-01&g=2025-07-01) niet meer op de verzekeringnemer van toepassing is, kwijt te schelden.
 
 6. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop het CAK de bestuursrechtelijke premie int en wordt bepaald welk gedeelte van de geïnde bestuursrechtelijke premie door het CAK in ’s Rijks kas wordt gestort.
 
@@ -1935,7 +1935,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9b
 
-1. Indien een verzekeringsplichtige aan wie een aanmaning als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9a&z=2025-01-01&g=2025-01-01) is verzonden, niet binnen drie maanden na verzending daarvan verzekerd is, legt het CAK hem dan wel, indien de verzekeringsplichtige minderjarig is, degene die het gezag over hem uitoefent, een bestuurlijke boete op.
+1. Indien een verzekeringsplichtige aan wie een aanmaning als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9a&z=2025-07-01&g=2025-07-01) is verzonden, niet binnen drie maanden na verzending daarvan verzekerd is, legt het CAK hem dan wel, indien de verzekeringsplichtige minderjarig is, degene die het gezag over hem uitoefent, een bestuurlijke boete op.
 
 2. De hoogte van de boete is gelijk aan driemaal de tot een maandbedrag herleide standaardpremie, bedoeld in de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451).
 
@@ -1947,29 +1947,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9c
 
-1. Indien een verzekeringsplichtige aan wie de boete, bedoeld in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-01-01&g=2025-01-01), is opgelegd, niet binnen de termijn, bedoeld in artikel 9b, vijfde lid, alsnog verzekerd is, legt het CAK hem dan wel, indien hij minderjarig is, degene die het gezag over hem uitoefent nogmaals een bestuurlijke boete op.
+1. Indien een verzekeringsplichtige aan wie de boete, bedoeld in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-07-01&g=2025-07-01), is opgelegd, niet binnen de termijn, bedoeld in artikel 9b, vijfde lid, alsnog verzekerd is, legt het CAK hem dan wel, indien hij minderjarig is, degene die het gezag over hem uitoefent nogmaals een bestuurlijke boete op.
 
-2. [Artikel 9b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-01-01&g=2025-01-01), zijn van toepassing.
+2. [Artikel 9b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-07-01&g=2025-07-01), zijn van toepassing.
 
-3. De boetebeschikking, bedoeld in het eerste lid, gaat vergezeld van een last, inhoudende dat de verzekeringsplichtige binnen drie maanden na de verzending van de last alsnog krachtens een zorgverzekering verzekerd dient te zijn, bij gebreke waarvan het CAK [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9d&z=2025-01-01&g=2025-01-01) zal toepassen.
+3. De boetebeschikking, bedoeld in het eerste lid, gaat vergezeld van een last, inhoudende dat de verzekeringsplichtige binnen drie maanden na de verzending van de last alsnog krachtens een zorgverzekering verzekerd dient te zijn, bij gebreke waarvan het CAK [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9d&z=2025-07-01&g=2025-07-01) zal toepassen.
 
-4. De in dit artikel en in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-01-01&g=2025-01-01) bedoelde boeten worden in ’s Rijks kas gestort.
+4. De in dit artikel en in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9b&z=2025-07-01&g=2025-07-01) bedoelde boeten worden in ’s Rijks kas gestort.
 
 ##### Artikel 9d
 
-1. Indien een verzekeringsplichtige aan wie de bestuurlijke boete en de last, bedoeld in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9c&z=2025-01-01&g=2025-01-01), is opgelegd, niet binnen drie maanden na verzending van de beschikking tot oplegging daarvan alsnog verzekerd is, sluit het CAK namens hem een zorgverzekering waarin hij hem verzekert.
+1. Indien een verzekeringsplichtige aan wie de bestuurlijke boete en de last, bedoeld in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9c&z=2025-07-01&g=2025-07-01), is opgelegd, niet binnen drie maanden na verzending van de beschikking tot oplegging daarvan alsnog verzekerd is, sluit het CAK namens hem een zorgverzekering waarin hij hem verzekert.
 
 2. Het CAK kiest de zorgverzekeraar waarmee een zorgverzekering als bedoeld in het eerste lid wordt gesloten, met dien verstande dat het zorgt voor een spreiding van zorgverzekeringen als bedoeld in dat lid over alle zorgverzekeraars, naar evenredigheid van het aantal verzekerden bij iedere zorgverzekeraar.
 
 3. Indien een zorgverzekeraar verschillende varianten van de zorgverzekering aanbiedt, sluit het CAK een zorgverzekering overeenkomstig de variant met de laagste premie, maar zonder vrijwillig eigen risico.
 
-4. Op de last, bedoeld in [artikel 9c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9c&z=2025-01-01&g=2025-01-01), en op het uitvoeren van de last als bedoeld in het eerste lid, is [afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1), met uitzondering van de [artikelen 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5:27 tot en met 5:30 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27), van overeenkomstige toepassing.
+4. Op de last, bedoeld in [artikel 9c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.4&artikel=9c&z=2025-07-01&g=2025-07-01), en op het uitvoeren van de last als bedoeld in het eerste lid, is [afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1), met uitzondering van de [artikelen 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5:27 tot en met 5:30 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27), van overeenkomstige toepassing.
 
 5. Degene die op grond van het eerste lid door het CAK verzekerd is, kan de desbetreffende verzekering gedurende een periode van twee weken, te rekenen vanaf de datum waarop het CAK hem daarvan mededeling heeft gedaan, vernietigen, indien hij jegens het CAK alsmede jegens de zorgverzekeraar bij wie die zorgverzekering is gesloten, aantoont in de periode, bedoeld in dat lid, reeds krachtens een andere zorgverzekering verzekerd te zijn geraakt.
 
 6. In afwijking van [artikel 931 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=931) is een zorgverzekeraar bevoegd een met hem gesloten verzekeringsovereenkomst wegens dwaling te vernietigen, indien achteraf blijkt dat degene die het CAK bij hem verzekerde op dat moment niet verzekeringsplichtig was.
 
-7. Zonodig in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2025-01-01&g=2025-01-01), kan, tenzij het derde lid van dat artikel van toepassing is, een verzekeringnemer een zorgverzekering als bedoeld in het eerste lid niet opzeggen gedurende de eerste twaalf maanden waarover deze loopt.
+7. Zonodig in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2025-07-01&g=2025-07-01), kan, tenzij het derde lid van dat artikel van toepassing is, een verzekeringnemer een zorgverzekering als bedoeld in het eerste lid niet opzeggen gedurende de eerste twaalf maanden waarover deze loopt.
 
 ### Hoofdstuk 3. De inhoud van de zorgverzekering
 
@@ -2069,7 +2069,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De Adviescommissie Kwaliteit bestaat uit een oneven aantal van ten hoogste vijftien leden die worden benoemd, geschorst en ontslagen door het Zorginstituut.
 
-3. [Artikel 59a, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=59a&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing.
+3. [Artikel 59a, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.1&artikel=59a&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 66a
 
@@ -2101,7 +2101,7 @@ Vervallen
 
 ##### Artikel 93a
 
-Een ieder die uit hoofde van de toepassing van [artikel 45 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) gegevens of inlichtingen ontvangt ten behoeve van de tijdige signalering van risico’s voor het kunnen voldoen aan de verplichting, bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), is verplicht tot geheimhouding van deze gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
+Een ieder die uit hoofde van de toepassing van [artikel 45 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) gegevens of inlichtingen ontvangt ten behoeve van de tijdige signalering van risico’s voor het kunnen voldoen aan de verplichting, bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), is verplicht tot geheimhouding van deze gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
 
 ### Hoofdstuk 8. Rechtsbescherming
 
@@ -2119,7 +2119,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 73a
 
-1. Het Zorginstituut zendt jaarlijks voor 15 april aan Onze Minister een verantwoording over de vaststelling van de bijdragen, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2025-01-01&g=2025-01-01), verstrekt ten behoeve van het vierde kalenderjaar, voorafgaande aan het jaar waarin verantwoording wordt afgelegd, alsmede een assurance report.
+1. Het Zorginstituut zendt jaarlijks voor 15 april aan Onze Minister een verantwoording over de vaststelling van de bijdragen, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2025-07-01&g=2025-07-01), verstrekt ten behoeve van het vierde kalenderjaar, voorafgaande aan het jaar waarin verantwoording wordt afgelegd, alsmede een assurance report.
 
 2. Het assurance report geeft aan of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.
 
@@ -2199,7 +2199,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 8. Rechtsbescherming
 
-### Hoofdstuk 10. Slotbepalingen
+### Hoofdstuk 8. Rechtsbescherming
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -2301,7 +2301,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 70b
 
-1. Bij ministeriële regeling kan worden bepaald dat het Zorginstituut uitkeringen verstrekt ter vergoeding van kosten van zorg en andere diensten, bedoeld bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), verleend door zorgaanbieders aan personen die zijn opgenomen in het stelsel van Bewaken & Beveiligen van het Openbaar Ministerie.
+1. Bij ministeriële regeling kan worden bepaald dat het Zorginstituut uitkeringen verstrekt ter vergoeding van kosten van zorg en andere diensten, bedoeld bij en krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-07-01&g=2025-07-01), verleend door zorgaanbieders aan personen die zijn opgenomen in het stelsel van Bewaken & Beveiligen van het Openbaar Ministerie.
 
 2. In de regeling, bedoeld in het eerste lid, kunnen voorwaarden opgenomen worden ten aanzien van de in dat lid bedoelde uitkeringen en ten aanzien van de uitvoering van de in dat lid bedoelde taak van het Zorginstituut.
 
@@ -2329,13 +2329,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 9. Overige bepalingen
 
-### Hoofdstuk 10. Slotbepalingen
+### Hoofdstuk 9. Overige bepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 69a
 
-1. Het CAK bevordert de rechtmatige en doelmatige uitvoering van de verordeningen, de overeenkomsten en de verdragen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=69&z=2025-01-01&g=2025-01-01).
+1. Het CAK bevordert de rechtmatige en doelmatige uitvoering van de verordeningen, de overeenkomsten en de verdragen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=69&z=2025-07-01&g=2025-07-01).
 
 2. Het CAK kan met het oog hierop richtlijnen geven.
 
@@ -2455,7 +2455,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 35a
 
-1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de berekening van aan een zorgverzekeraar toekomende bijdragen als bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-01-01&g=2025-01-01).
+1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de berekening van aan een zorgverzekeraar toekomende bijdragen als bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-07-01&g=2025-07-01).
 
 2. Het Zorginstituut verwerkt op grond van het eerste lid slechts persoonsgegevens indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5 van de Algemene verordening gegevensbescherming is toegepast en vervolgens onafgebroken is gecontinueerd.
 
@@ -2469,7 +2469,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 68a
 
-1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van zijn in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=64&z=2025-01-01&g=2025-01-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-01-01&g=2025-01-01) opgedragen taken.
+1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van zijn in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=64&z=2025-07-01&g=2025-07-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=6&paragraaf=6.2&artikel=66&z=2025-07-01&g=2025-07-01) opgedragen taken.
 
 2. Het Zorginstituut verwerkt op grond van het eerste lid slechts persoonsgegevens indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5 van de Algemene verordening gegevensbescherming, is toegepast en vervolgens onafgebroken is gecontinueerd.
 
@@ -2609,15 +2609,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De zorgverzekeraar stelt zijn verzekerden in de gelegenheid inspraak uit te oefenen overeenkomstig het bepaalde in de regeling, bedoeld in het eerste lid.
 
-5. De zorgverzekeraar behoeft de instemming van de vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-01-01&g=2025-01-01), voor de vaststelling, wijziging of intrekking van de regeling. De zorgverzekeraar mag de regeling uitsluitend vaststellen zonder instemming van de vertegenwoordiging, indien het onthouden van de instemming door de vertegenwoordiging onredelijk is.
+5. De zorgverzekeraar behoeft de instemming van de vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-07-01&g=2025-07-01), voor de vaststelling, wijziging of intrekking van de regeling. De zorgverzekeraar mag de regeling uitsluitend vaststellen zonder instemming van de vertegenwoordiging, indien het onthouden van de instemming door de vertegenwoordiging onredelijk is.
 
 6. De zorgverzekeraar maakt de regeling openbaar.
 
 ##### Artikel 28b
 
-1. De vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-01-01&g=2025-01-01), bestaat uitsluitend uit verzekerden van de zorgverzekeraar of, indien de zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), uit vertegenwoordigers van de verzekerden van alle betrokken zorgverzekeraars van de groep.
+1. De vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-07-01&g=2025-07-01), bestaat uitsluitend uit verzekerden van de zorgverzekeraar of, indien de zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), uit vertegenwoordigers van de verzekerden van alle betrokken zorgverzekeraars van de groep.
 
-2. De zorgverzekeraar kent de rechten, genoemd in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-01-01&g=2025-01-01), uitsluitend toe aan een vertegenwoordiging waarvoor statutair is geregeld dat zij voor zover mogelijk zodanig is samengesteld dat:
+2. De zorgverzekeraar kent de rechten, genoemd in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-07-01&g=2025-07-01), uitsluitend toe aan een vertegenwoordiging waarvoor statutair is geregeld dat zij voor zover mogelijk zodanig is samengesteld dat:
 
 - a. zij wat betreft in ieder geval leeftijd, woonplaats en opleiding een goede afspiegeling is van de verzekerden en dat de samenstelling aansluit bij de verscheidenheid van de verzekerden;
 
@@ -2647,11 +2647,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 28c
 
-1. De zorgverzekeraar stelt de vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-01-01&g=2025-01-01), in de gelegenheid advies uit te brengen over de vaststelling, wijziging of intrekking van het jaarlijkse zorginkoopbeleid.
+1. De zorgverzekeraar stelt de vertegenwoordiging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-07-01&g=2025-07-01), in de gelegenheid advies uit te brengen over de vaststelling, wijziging of intrekking van het jaarlijkse zorginkoopbeleid.
 
 2. Het advies wordt op een zodanig tijdstip gevraagd, dat de vertegenwoordiging redelijkerwijs genoeg tijd heeft zich een goed oordeel ter zake te vormen en dat het advies van wezenlijke invloed kan zijn op het jaarlijkse zorginkoopbeleid.
 
-3. De vertegenwoordiging brengt binnen een redelijke termijn schriftelijk advies uit en betrekt daarin hetgeen is gedaan met de resultaten van de inspraak als bedoeld in [artikel 28a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-01-01&g=2025-01-01).
+3. De vertegenwoordiging brengt binnen een redelijke termijn schriftelijk advies uit en betrekt daarin hetgeen is gedaan met de resultaten van de inspraak als bedoeld in [artikel 28a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=4&paragraaf=4.1&artikel=28a&z=2025-07-01&g=2025-07-01).
 
 4. De vertegenwoordiging is bevoegd de zorgverzekeraar ongevraagd te adviseren over het jaarlijkse zorginkoopbeleid.
 
@@ -2727,7 +2727,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18bb
 
-1. Naast de op incasso gerichte inspanningen, bedoeld in de [artikelen 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18a&z=2025-01-01&g=2025-01-01) en [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-01-01&g=2025-01-01), verricht de zorgverzekeraar aantoonbaar voldoende inspanningen tot inning van de premie voorafgaand aan de melding, bedoeld in [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-01-01&g=2025-01-01).
+1. Naast de op incasso gerichte inspanningen, bedoeld in de [artikelen 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18a&z=2025-07-01&g=2025-07-01) en [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18b&z=2025-07-01&g=2025-07-01), verricht de zorgverzekeraar aantoonbaar voldoende inspanningen tot inning van de premie voorafgaand aan de melding, bedoeld in [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3&paragraaf=3.3&afdeling=3.3.2&artikel=18c&z=2025-07-01&g=2025-07-01).
 
 2. Bij ministeriële regeling wordt bepaald wanneer sprake is van het verrichten van aantoonbaar voldoende inspanningen als bedoeld in het eerste lid.
 
@@ -2834,6 +2834,74 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 10. De zorgverzekering, afgesloten door een persoon als bedoeld in het eerste lid, werkt, zo nodig in afwijking van [artikel 925, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=925), terug indien zij ingaat binnen vier maanden na ontvangst van de kennisgeving, bedoeld in het eerste lid, tot en met de dag waarop die kennisgeving is ontvangen.
 
 ### Hoofdstuk 7. Gegevensverstrekking
+
+##### Artikel 123
+
+1. In dit artikel wordt verstaan onder:
+
+- a. **orgaan van de woonplaats:** rechtspersoon die door Onze Minister is aangewezen als orgaan van de woonplaats in de zin van de [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004, betreffende de coördinatie van socialezekerheidsstelsels (PbEU 2004, L 166), of, voor zover het zorg betreft, een verdrag inzake sociale zekerheid;
+
+- b. **orgaan van de verblijfplaats:** rechtspersoon die door Onze Minister is aangewezen als orgaan van de verblijfplaats in de zin van de [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004, betreffende de coördinatie van socialezekerheidsstelsels (PbEU 2004, L 166), of, voor zover het zorg betreft, een verdrag inzake sociale zekerheid;
+
+- c. **verdragsrecht:** recht van een in Nederland wonende of tijdelijk verblijvende persoon op zorg of andere diensten in de zin van deze wet of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) uit hoofde van een verordening van het Europees Parlement en de Raad van de Europese Unie dan wel toepassing van zodanige verordening krachtens een overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid;
+
+- d. **verdragsgerechtigde:** persoon met een verdragsrecht.
+
+2. Onze Minister wijst de organen van de woonplaats en de organen van de verblijfplaats aan.
+
+3. Voor een juiste en volledige registratie van verdragsgerechtigden ter beoordeling van het voortbestaan van het verdragsrecht:
+
+- a. doet het orgaan van de woonplaats periodiek opgave van de bij hem geregistreerde verdragsgerechtigden aan de Sociale verzekeringsbank, waarbij het orgaan gebruik kan maken van het burgerservicenummer;
+
+- b. stelt de Sociale verzekeringsbank het orgaan van de woonplaats in kennis van de verschillen tussen de opgave, bedoeld onder a, en de vermelding van deze personen in het bestand van personen die verzekerd zijn op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+
+4. Het orgaan van de woonplaats rapporteert aan het CAK over de uitvoering van het derde lid.
+
+5. Het CAK kan nadere regels stellen met betrekking tot de wijze waarop het derde en vierde lid worden uitgevoerd.
+
+6. Het CAK verstrekt aan het orgaan van de woonplaats een vergoeding voor:
+
+- a. de kosten die het orgaan van de woonplaats heeft betaald voor het doen verlenen van zorg of andere diensten in de zin van deze wet of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) ten behoeve van een persoon die geen verdragsrecht meer heeft en het orgaan van de woonplaats daar niet tijdig over heeft geïnformeerd;
+
+- b. de incassokosten voor het verhalen van de kosten, bedoeld onder a, op de persoon, bedoeld onder a.
+
+7. Geen vergoeding als bedoeld in het zesde lid wordt verstrekt voor zover:
+
+- a. de kosten op de persoon, bedoeld in het zesde lid, kunnen worden verhaald;
+
+- b. het orgaan van de woonplaats, onder meer uit hoofde van de uitvoering van het derde lid, wist of behoorde te weten dat de persoon, bedoeld in het zesde lid, behoorde te zijn uitgeschreven.
+
+8. Het CAK verstrekt aan het orgaan van de verblijfplaats een vergoeding voor:
+
+- a. de kosten die het orgaan van de verblijfplaats heeft betaald voor het doen verlenen van zorg of andere diensten in de zin van deze wet of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) ten behoeve van een persoon zonder verdragsrecht;
+
+- b. de incassokosten voor het verhalen van de kosten, bedoeld onder a.
+
+9. Geen vergoeding als bedoeld in het achtste lid wordt verstrekt voor zover:
+
+- a. de kosten, bedoeld in het achtste lid, kunnen worden verhaald;
+
+- b. de zorgaanbieder of het orgaan van de verblijfplaats er niet op mocht vertrouwen dat de persoon, bedoeld in het achtste lid, beschikte over het verdragsrecht.
+
+10. De vergoedingen wordt op aanvraag verstrekt.
+
+11. Bij ministeriële regeling kunnen nadere regels worden gesteld over het verstrekken van de vergoedingen.
+
+### Hoofdstuk 10. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 89a
+
+1. Een zorgverzekeraar verstrekt aan Onze Minister de door hem verzochte informatie ten behoeve van het te voeren beleid op het gebied van de volksgezondheid.
+
+2. De door een Wlz-uitvoerder op grond van [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01), aan een zorgverzekeraar voor de uitvoering van dit artikel te verstrekken informatie kan ook gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming, betreffen.
+
+3. Een zorgverzekeraar verwerkt ten behoeve van de verstrekking op grond van het eerste lid geen andere persoonsgegevens dan hij op grond van de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=86&z=2025-07-01&g=2025-07-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=87&z=2025-07-01&g=2025-07-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=88&z=2025-07-01&g=2025-07-01) of [89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=7&artikel=89&z=2025-07-01&g=2025-07-01) heeft verwerkt, waaronder verwerkte gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming.
+
+4. De aan Onze Minister op grond van het eerste lid te verstrekken informatie bevat geen gegevens waarmee hij een natuurlijk persoon direct of indirect kan identificeren.
+
+5. Onze Minister verwerkt geen andere gegevens waarmee hij op basis van de op grond van het eerste lid te verstrekken informatie een natuurlijk persoon direct dan wel indirect kan identificeren.
 
 ##### Artikel 123
 
