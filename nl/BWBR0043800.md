@@ -4,7 +4,7 @@ identifier: "BWBR0043800"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2020-07-25"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043800"
 soort: "wet"
@@ -81,7 +81,7 @@ Wijzigt de Wet op het financieel toezicht en de Wet verwijzingsportaal bankgegev
 
 ##### Artikel X
 
-Wijzigt het Wetboek van Strafrecht.
+Vervallen
 
 ##### Artikel XI
 
