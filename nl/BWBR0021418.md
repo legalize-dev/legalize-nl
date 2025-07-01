@@ -4,7 +4,7 @@ identifier: "BWBR0021418"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2021-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021418"
 soort: "wet"
@@ -56,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. ruimtevoorwerp: ieder voorwerp gelanceerd of bestemd om te worden gelanceerd in de kosmische ruimte;
 
-- d. Nederlands schip: een schip als bedoeld in [artikel 1, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=1);
+- d. Nederlands schip: een schip als bedoeld in [artikel 1 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=1);
 
 - e. Nederlands luchtvaartuig: een in Nederland krachtens [artikel 3.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3) geregistreerd luchtvaartuig;
 
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01) te verrichten.
+1. Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01) te verrichten.
 
 2. Het eerste lid is niet van toepassing op ruimtevaartactiviteiten die worden verricht onder de verantwoordelijkheid van één of meer Onzer Ministers.
 
@@ -146,7 +146,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. gegronde vrees bestaat dat de aanvrager niet overeenkomstig de bij of krachtens deze wet gestelde regels zal handelen;
 
-- e. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), dit vordert.
+- e. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), dit vordert.
 
 ##### Artikel 7
 
@@ -170,7 +170,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- f. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), dit vordert.
+- f. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), dit vordert.
 
 3. Alvorens de vergunning wordt ingetrokken, neemt Onze Minister alle nodige maatregelen om de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat te waarborgen. Onze Minister geeft daartoe de nodige aanwijzingen aan degene wiens vergunning zal worden ingetrokken. Deze is gehouden de aanwijzingen op te volgen.
 
@@ -210,7 +210,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 11
 
-1. Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01).
+1. Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01).
 
 2. De vergunninghouder verstrekt op bij algemene maatregel van bestuur vast te stellen momenten de voor het register benodigde gegevens.
 
@@ -224,9 +224,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. In het geval de staat op grond van artikel VII van het Ruimteverdrag of het Aansprakelijkheidsverdrag gehouden is tot betaling van schadevergoeding, heeft de staat het recht deze geheel of gedeeltelijk te verhalen op degene wiens ruimtevaartactiviteit de schade heeft veroorzaakt.
 
-2. De vergunninghouder is, per gebeurtenis of serie van gebeurtenissen met dezelfde oorzaak, aansprakelijk voor schade veroorzaakt door zijn ruimtevaartactiviteiten, tot de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01).
+2. De vergunninghouder is, per gebeurtenis of serie van gebeurtenissen met dezelfde oorzaak, aansprakelijk voor schade veroorzaakt door zijn ruimtevaartactiviteiten, tot de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01).
 
-3. De staat oefent het recht van verhaal, bedoeld in het eerste lid, in voorkomend geval jegens de vergunninghouder uit tot maximaal de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01).
+3. De staat oefent het recht van verhaal, bedoeld in het eerste lid, in voorkomend geval jegens de vergunninghouder uit tot maximaal de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01).
 
 4. De staat kan het recht van verhaal, bedoelt in het derde lid, in voorkomend geval eveneens uitoefenen tegen de verzekeraar van de vergunninghouder.
 
@@ -234,21 +234,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 13
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2021-07-01&g=2021-07-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2021-07-01&g=2021-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 14
 
-1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2021-07-01&g=2021-07-01) en [11, tweede en vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2021-07-01&g=2021-07-01).
+1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01) en [11, tweede en vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01).
 
 2. Voor de toepassing van het eerste lid is vereiste spoed als bedoeld in [artikel 5:24, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24) in elk geval aanwezig indien het niet naleven van de in het eerste lid bedoelde verplichtingen een ernstige en directe bedreiging vormt voor de veiligheid van personen en goederen, de veiligheid van de staat of de openbare orde.
 
 ##### Artikel 15
 
-1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-07-01&g=2021-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2021-07-01&g=2021-07-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
+1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
 
-2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2021-07-01&g=2021-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
+2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
 
 ##### Artikel 16
 
@@ -294,7 +294,7 @@ Vervallen
 
 ##### Artikel 25
 
-1. Ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01) die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.
+1. Ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01) die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.
 
 2. Eenieder deelt binnen zes maanden na de datum van inwerkingtreding van deze wet aan Onze Minister de ruimtevaartactiviteiten mee die hij verricht en waarop deze wet betrekking kan hebben.
 
