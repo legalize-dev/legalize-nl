@@ -4,7 +4,7 @@ identifier: "BWBR0047588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047588"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 1. Bij wijze van experiment zijn afwijkingen toegestaan van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23a), [23b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23b), [23d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23d), [23e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23e) en [24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=24), in geval van vervreemding van een woongelegenheid of een complex aan een wooncoöperatie ten behoeve van het stimuleren van de realisatie van wooncoöperaties.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=4&z=2023-01-01&g=2023-01-01) van deze regeling treden bij de toepassing van het experiment in de plaats van de in het eerste lid genoemde artikelen van het besluit.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=3&z=2025-07-01&g=2025-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=4&z=2025-07-01&g=2025-07-01) van deze regeling treden bij de toepassing van het experiment in de plaats van de in het eerste lid genoemde artikelen van het besluit.
 
 ##### Artikel 3
 
-1. In geval van vervreemding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=2&z=2023-01-01&g=2023-01-01) gaat het verzoek om goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), naast de stukken, genoemd in de [artikelen 23, eerste lid, onder a tot en met c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), [23a, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23a), [23b, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23b), en [23d, eerste lid, onder a tot en met c en e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23d), vergezeld van:
+1. In geval van vervreemding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=2&z=2025-07-01&g=2025-07-01) gaat het verzoek om goedkeuring als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), naast de stukken, genoemd in de [artikelen 23, eerste lid, onder a tot en met c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), [23a, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23a), [23b, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23b), en [23d, eerste lid, onder a tot en met c en e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23d), vergezeld van:
 
 - a. de zienswijze van de gemeente waar het complex is gelegen;
 
@@ -70,9 +70,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-In geval van vervreemding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=2&z=2023-01-01&g=2023-01-01) keurt de minister een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), uitsluitend goed, indien:
+In geval van vervreemding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=2&z=2025-07-01&g=2025-07-01) keurt de minister een besluit als bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), uitsluitend goed, indien:
 
-- a. aan de voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=3&z=2023-01-01&g=2023-01-01) is voldaan;
+- a. aan de voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047588&artikel=3&z=2025-07-01&g=2025-07-01) is voldaan;
 
 - b. in het geval in de statuten een bepaling is opgenomen inzake vereffening en ontbinding van de wooncoöperatie en sprake is geweest van vervreemding aan de wooncoöperatie tegen minder dan 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde in die bepaling is bepaald dat een eventueel batig saldo wordt bestemd overeenkomstig het bepaalde in onderdeel e;
 
@@ -96,7 +96,7 @@ De minister stelt drie maanden voor het einde van de werkingsduur van deze regel
 
 ##### Artikel 6
 
-Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 juli 2025.
+Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 7
 
