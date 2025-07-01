@@ -4,7 +4,7 @@ identifier: "BWBR0017681"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017681"
 soort: "AMvB"
@@ -153,11 +153,11 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 ##### Artikel 2
 
-1. Op voorvallen niet in verband met een spoorweg, waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van Onze Minister van Defensie of bij een buitenlandse krijgsmacht, dan wel ten behoeve van een organisatie waarvan het beheer is opgedragen aan Onze Minister van Defensie, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2022-01-01&g=2022-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2022-01-01&g=2022-01-01), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2022-01-01&g=2022-01-01) niet van toepassing.
+1. Op voorvallen niet in verband met een spoorweg, waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van Onze Minister van Defensie of bij een buitenlandse krijgsmacht, dan wel ten behoeve van een organisatie waarvan het beheer is opgedragen aan Onze Minister van Defensie, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2025-07-01&g=2025-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2025-07-01&g=2025-07-01), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2025-07-01&g=2025-07-01), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2025-07-01&g=2025-07-01) niet van toepassing.
 
-2. Indien bij een voorval als in het eerste lid bedoeld tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2022-01-01&g=2022-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2022-01-01&g=2022-01-01), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2022-01-01&g=2022-01-01) slechts van toepassing voorzover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als in het eerste lid bedoeld tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2025-07-01&g=2025-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2025-07-01&g=2025-07-01), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2025-07-01&g=2025-07-01), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2025-07-01&g=2025-07-01) slechts van toepassing voorzover het die andere zaak of persoon betreft.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11a&z=2022-01-01&g=2022-01-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11b&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op scheepvaartongevallen, waarbij uitsluitend zijn betrokken:
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=5&z=2025-07-01&g=2025-07-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11a&z=2025-07-01&g=2025-07-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11b&z=2025-07-01&g=2025-07-01) zijn niet van toepassing op scheepvaartongevallen, waarbij uitsluitend zijn betrokken:
 
 - a. andere dan in het eerste lid bedoelde schepen in eigendom van of geëxploiteerd door een andere staat voor een niet-commerciële overheidsdienst;
 
@@ -175,7 +175,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 ##### Artikel 3
 
-1. De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=1&artikel=1&z=2022-01-01&g=2022-01-01), en ernstige luchtvaartincidenten, betreffende:
+1. De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), en ernstige luchtvaartincidenten, betreffende:
 
 - a. een luchtvaartuig op of boven het grondgebied van Nederland met inbegrip van de territoriale zee,
 
@@ -189,7 +189,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 1. De raad stelt een onderzoek in naar een zeer ernstig scheepvaartongeval waarbij een zeeschip is betrokken, indien:
 
-- a. een Nederlands zeeschip bij het ongeval is betrokken;
+- a. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren bij het ongeval is betrokken;
 
 - b. het ongeval plaatsvindt in de Nederlandse binnenwateren of territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1);
 
@@ -243,7 +243,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - c. in geval van een luchtvaartongeval of een ernstig luchtvaartincident met een Nederlands luchtvaartuig boven volle zee of in het buitenland: de gezagvoerder en de exploitant van het luchtvaartuig;
 
-- d. in geval van een scheepvaartongeval of een scheepvaartincident dat voldoet aan de criteria, genoemd in [artikel 4, eerste lid, de onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01): de kapitein en de exploitant van een schip dat betrokken is bij het ongeval, en daartoe door het bevoegde gezag, bedoeld in de Scheepvaartverkeerswet, aangewezen personen werkzaam bij de desbetreffende scheepvaartbegeleidingsdienst indien dat ongeval heeft plaatsgevonden in de Europese wateren;
+- d. in geval van een scheepvaartongeval of een scheepvaartincident dat voldoet aan de criteria, genoemd in [artikel 4, eerste lid, de onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2025-07-01&g=2025-07-01): de kapitein en de exploitant van een schip dat betrokken is bij het ongeval, en daartoe door het bevoegde gezag, bedoeld in de Scheepvaartverkeerswet, aangewezen personen werkzaam bij de desbetreffende scheepvaartbegeleidingsdienst indien dat ongeval heeft plaatsgevonden in de Europese wateren;
 
 - e. in geval van een scheepvaartongeval met andere schepen dan zeeschepen varende in de Europese wateren onder Nederlandse jurisdictie: de kapitein en de exploitant van het schip;
 
@@ -257,7 +257,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - j. in geval van een zwaar ongeval als bedoeld als bedoeld in [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010): de exploitant van de inrichting als in de richtlijn bedoeld;
 
-- k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01): Onze Minister van Defensie.
+- k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01): Onze Minister van Defensie.
 
 2. In geval internationale verdragen of regelingen Onze Minister wie het aangaat verplichten tot het melden van een voorval aan een andere staat, de Commissie van de Europese Gemeenschappen of een internationale organisatie, geeft de raad de ontvangen melding terstond door aan Onze Minister wie het aangaat.
 
@@ -311,7 +311,7 @@ Indien de staat die een onderzoek verricht terzake van een luchtvaartongeval met
 
 ##### Artikel 18
 
-Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=14&z=2022-01-01&g=2022-01-01), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=16&z=2022-01-01&g=2022-01-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=17&z=2022-01-01&g=2022-01-01).
+Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=14&z=2025-07-01&g=2025-07-01), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=16&z=2025-07-01&g=2025-07-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=17&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 19
 
@@ -321,7 +321,7 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwij
 
 3. Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek naar een luchtvaartongeval of ernstig luchtvaartincident in een andere staat.
 
-4. Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek dat door een andere staat wordt ingesteld naar een voorval met een Nederlands zeeschip.
+4. Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek dat door een andere staat wordt ingesteld naar een voorval met een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren.
 
 ##### Artikel 20
 
@@ -337,7 +337,7 @@ Op verzoek van de staat die een onderzoek terzake van een luchtvaartongeval of l
 
 1. Ingeval sprake is van een luchtvaartongeval of ernstig luchtvaartincident met een Nederlands luchtvaartuig of een luchtvaartuig waarvan de exploitant in Nederland is gevestigd, en het luchtvaartuig in een andere staat landt dan die waarin het ongeval of het incident zich heeft voorgedaan, verschaft Onze Minister van Verkeer en Waterstaat, op verzoek van de staat die het onderzoek verricht, aan deze staat de opnamen van de vluchtrecorder en, indien nodig, van de verbonden vluchtrecorders.
 
-2. In geval sprake is van een ongeval met een Nederlands zeeschip op zee in onder jurisdictie van een andere lidstaat van de Europese Unie vallende wateren en die andere lidstaat naar het ongeval een onderzoek instelt, stelt Onze Minister van Verkeer en Waterstaat de gegevens die zijn verzameld met de reisgegevensrecorder ter beschikking van die andere lidstaat.
+2. In geval sprake is van een ongeval met een zeeschip op zee dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren in onder jurisdictie van een andere lidstaat van de Europese Unie vallende wateren en die andere lidstaat naar het ongeval een onderzoek instelt, stelt Onze Minister van Verkeer en Waterstaat de gegevens die zijn verzameld met de reisgegevensrecorder ter beschikking van die andere lidstaat.
 
 ##### Artikel 23
 
@@ -369,7 +369,7 @@ Op verzoek van de staat die een onderzoek terzake van een luchtvaartongeval of l
 
 ##### Artikel 25
 
-Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. [Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=9&artikel=24&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. [Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=9&artikel=24&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 #### § 10. Slotbepalingen
 
