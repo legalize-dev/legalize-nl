@@ -4,7 +4,7 @@ identifier: "BWBR0028753"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028753"
 soort: "wet-BES"
@@ -57,7 +57,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 2
 
-1. In dit wetboek worden onder zeeschepen verstaan de schepen die teboekstaan in het in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2024-01-01&g=2024-01-01) bedoelde register, alsmede de schepen, die niet in dit register teboekstaan en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.
+1. In dit wetboek worden onder zeeschepen verstaan de schepen die teboekstaan in het in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2025-07-01&g=2025-07-01) bedoelde register, alsmede de schepen, die niet in dit register teboekstaan en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.
 
 2. Bij algemene maatregel van bestuur kunnen schepen, die geen zeeschepen zijn, voor de toepassing van bepalingen van dit wetboek als zeeschip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op schepen, die zeeschepen zijn.
 
@@ -107,7 +107,7 @@ De vervoerder is verplicht ten vervoer ontvangen zaken ter bestemming af te leve
 
 ##### Artikel 22
 
-Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&artikel=21&z=2024-01-01&g=2024-01-01) is de vervoerder verplicht ten vervoer ontvangen zaken zonder vertraging te vervoeren.
+Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&artikel=21&z=2025-07-01&g=2025-07-01) is de vervoerder verplicht ten vervoer ontvangen zaken zonder vertraging te vervoeren.
 
 ##### Artikel 23
 
@@ -153,7 +153,7 @@ De vracht is verschuldigd na aflevering van de zaken ter bestemming.
 
 ##### Artikel 31
 
-Wordt de vervoerder dan wel de afzender of een ondergeschikte van een hunner buiten overeenkomst aangesproken, dan zijn de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Wordt de vervoerder dan wel de afzender of een ondergeschikte van een hunner buiten overeenkomst aangesproken, dan zijn de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -231,7 +231,7 @@ De verhandelbare exemplaren van het CT-document, waarin is vermeld hoeveel van d
 
 ##### Artikel 47
 
-Indien een overeenkomst van gecombineerd goederenvervoer is gesloten en bovendien een CT-document is afgegeven, wordt behoudens [artikel 51, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=2&artikel=51&z=2024-01-01&g=2024-01-01), de rechtsverhouding tussen de gecombineerd vervoerder en de afzender door de bedingen van de overeenkomst van gecombineerd goederenvervoer en niet door die van dit CT-document beheerst. Behoudens het in artikel 51, eerste lid, gestelde vereiste van houderschap van het CT-document, strekt dit hun dan slechts tot bewijs van de ontvangst der zaken door de gecombineerd vervoerder.
+Indien een overeenkomst van gecombineerd goederenvervoer is gesloten en bovendien een CT-document is afgegeven, wordt behoudens [artikel 51, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=2&artikel=51&z=2025-07-01&g=2025-07-01), de rechtsverhouding tussen de gecombineerd vervoerder en de afzender door de bedingen van de overeenkomst van gecombineerd goederenvervoer en niet door die van dit CT-document beheerst. Behoudens het in artikel 51, eerste lid, gestelde vereiste van houderschap van het CT-document, strekt dit hun dan slechts tot bewijs van de ontvangst der zaken door de gecombineerd vervoerder.
 
 ##### Artikel 48
 
@@ -339,11 +339,11 @@ Indien een overeenkomst tot het doen vervoeren van goederen niet naar behoren wo
 
 ##### Artikel 71
 
-Indien een overeenkomst tot het doen vervoeren van goederen niet naar behoren wordt uitgevoerd, dan wel een zaak niet zonder vertraging ter bestemming wordt afgeleverd in de staat, waarin zij ter beschikking is gesteld, is de expediteur, die te dier zake buiten overeenkomst wordt aangesproken, behoudens de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01), niet verder aansprakelijk dan hij dit zou zijn tegenover zijn opdrachtgever.
+Indien een overeenkomst tot het doen vervoeren van goederen niet naar behoren wordt uitgevoerd, dan wel een zaak niet zonder vertraging ter bestemming wordt afgeleverd in de staat, waarin zij ter beschikking is gesteld, is de expediteur, die te dier zake buiten overeenkomst wordt aangesproken, behoudens de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01), niet verder aansprakelijk dan hij dit zou zijn tegenover zijn opdrachtgever.
 
 ##### Artikel 72
 
-Indien een vordering als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=71&z=2024-01-01&g=2024-01-01) buiten overeenkomst wordt ingesteld tegen een ondergeschikte van de expediteur, dan is deze ondergeschikte, mits hij de schade veroorzaakte in de werkzaamheden, waartoe hij werd gebruikt, niet verder aansprakelijk dan een dergelijke expediteur, die hem tot deze werkzaamheden gebruikte, dit op grond van artikel 71 zou zijn.
+Indien een vordering als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=71&z=2025-07-01&g=2025-07-01) buiten overeenkomst wordt ingesteld tegen een ondergeschikte van de expediteur, dan is deze ondergeschikte, mits hij de schade veroorzaakte in de werkzaamheden, waartoe hij werd gebruikt, niet verder aansprakelijk dan een dergelijke expediteur, die hem tot deze werkzaamheden gebruikte, dit op grond van artikel 71 zou zijn.
 
 ##### Artikel 73
 
@@ -417,9 +417,9 @@ De goedkeuring der rekening en verantwoording door de meerderheid van de leden d
 
 - a. aanstelling van een boekhouder, die buiten het grondgebied van een van de lidstaten van de Europese Unie of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte woont, niet is lid der rederij, niet de nationaliteit van een van de lidstaten van de Europese Unie of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte bezit of een vennootschap is, niet zijnde een rechtspersoon met de nationaliteit van een van de lidstaten van de Europese Unie of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, als bedoeld in de Rijksregelgeving ter zake van de nationaliteit van schepen,
 
-- b. uitbreiding van de bevoegdheid van de boekhouder buiten de grenzen getrokken door [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=178&z=2024-01-01&g=2024-01-01),
+- b. uitbreiding van de bevoegdheid van de boekhouder buiten de grenzen getrokken door [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=178&z=2025-07-01&g=2025-07-01),
 
-- c. het sluiten, voor meer dan zes maanden, van een rompbevrachting, een tijdbevrachting of een overeenkomst, bedoeld in [artikel 531](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&artikel=531&z=2024-01-01&g=2024-01-01),
+- c. het sluiten, voor meer dan zes maanden, van een rompbevrachting, een tijdbevrachting of een overeenkomst, bedoeld in [artikel 531](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&artikel=531&z=2025-07-01&g=2025-07-01),
 
 - d. ontbinding der rederij tijdens de loop van een overeenkomst tot vervoer, van een overeenkomst waarbij het schip ter beschikking van een ander is gesteld, of van een ter visvangst ondernomen reis,
 
@@ -427,11 +427,11 @@ De goedkeuring der rekening en verantwoording door de meerderheid van de leden d
 
 ##### Artikel 172
 
-1. Op rederijen van ten minste 20 kubieke meters bruto-inhoud metende, langs de kust varende schepen, is [artikel 171, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=171&z=2024-01-01&g=2024-01-01), niet van toepassing.
+1. Op rederijen van ten minste 20 kubieke meters bruto-inhoud metende, langs de kust varende schepen, is [artikel 171, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=171&z=2025-07-01&g=2025-07-01), niet van toepassing.
 
 Besluiten tot aanstelling van een boekhouder die niet is lid van de rederij, tot verkoop van het schip anders dan in het openbaar en tot ontbinding van de rederij tijdens de duur van een ondernomen reis, vereisen bij deze rederijen eenstemmigheid.
 
-2. Op rederijen van minder dan 20 kubieke meters bruto-inhoud metende schepen, zijn de [artikelen 166 tot en met 168](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=166&z=2024-01-01&g=2024-01-01), [171, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=171&z=2024-01-01&g=2024-01-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=174&z=2024-01-01&g=2024-01-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=179&z=2024-01-01&g=2024-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=180&z=2024-01-01&g=2024-01-01) niet van toepassing. Besluiten tot aanstelling van een boekhouder die niet is lid van de rederij en tot verkoop van het schip anders dan in het openbaar, vereisen bij deze rederijen eenstemmigheid.
+2. Op rederijen van minder dan 20 kubieke meters bruto-inhoud metende schepen, zijn de [artikelen 166 tot en met 168](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=166&z=2025-07-01&g=2025-07-01), [171, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=171&z=2025-07-01&g=2025-07-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=174&z=2025-07-01&g=2025-07-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=179&z=2025-07-01&g=2025-07-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=180&z=2025-07-01&g=2025-07-01) niet van toepassing. Besluiten tot aanstelling van een boekhouder die niet is lid van de rederij en tot verkoop van het schip anders dan in het openbaar, vereisen bij deze rederijen eenstemmigheid.
 
 ##### Artikel 173
 
@@ -445,7 +445,7 @@ Indien ten gevolge van staking der stemmen de exploitatie van het schip wordt be
 
 ##### Artikel 175
 
-Indien anders dan door overdracht van een aandeel in het schip, dit schip zou ophouden een Nederlands schip te zijn in de zin van de Rijksregelgeving ter zake van de nationaliteit van schepen, kan de rechter, op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen, dat het aandeel in het schip wordt verkocht. De wijze van verkoop wordt door de rechter bepaald. Het aandeel mag alleen worden toegewezen aan een gegadigde, door wiens verkrijging het schip weer een Nederlands schip is in de zin van de Rijksregelgeving ter zake van de nationaliteit van schepen.
+Indien anders dan door overdracht van een aandeel in het schip, dit schip zou ophouden een Nederlands schip te zijn, kan de rechter, op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen, dat het aandeel in het schip wordt verkocht. De wijze van verkoop wordt door de rechter bepaald. Het aandeel mag alleen worden toegewezen aan een gegadigde, door wiens verkrijging het schip weer een Nederlands schip is.
 
 ##### Artikel 176
 
@@ -457,7 +457,7 @@ De leden der rederij delen in de winst en het verlies naar evenredigheid van hun
 
 ##### Artikel 178
 
-1. Is een boekhouder aangesteld, dan is hij, onverminderd [artikel 360, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=360&z=2024-01-01&g=2024-01-01), en met uitsluiting van ieder lid der rederij, in alles wat de normale exploitatie van het schip meebrengt, bevoegd voor de rederij met derden te handelen en de rederij te vertegenwoordigen.
+1. Is een boekhouder aangesteld, dan is hij, onverminderd [artikel 360, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=360&z=2025-07-01&g=2025-07-01), en met uitsluiting van ieder lid der rederij, in alles wat de normale exploitatie van het schip meebrengt, bevoegd voor de rederij met derden te handelen en de rederij te vertegenwoordigen.
 
 2. Indien de rederij in het handelsregister is ingeschreven kunnen beperkingen van de bevoegdheid van de boekhouder aan derden die daarvan onkundig waren, niet worden tegengeworpen, tenzij deze beperkingen uit dat register blijken. Is de rederij niet in het handelsregister ingeschreven, dan kunnen beperkingen van de bevoegdheid van de boekhouder aan derden slechts worden tegengeworpen, wanneer hun die bekend waren.
 
@@ -487,7 +487,7 @@ Het lidmaatschap der rederij kan niet worden opgezegd; evenmin kan een lid van h
 
 ##### Artikel 184
 
-Indien tot ontbinding der rederij is besloten, moet het schip worden verkocht. Indien binnen twee maanden na het besluit het schip nog niet is verkocht, kan de rechter op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen tot deze verkoop over te gaan. De wijze van verkoop wordt door de rechter bepaald. Een besluit tot verkoop of een ingevolge [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=170&z=2024-01-01&g=2024-01-01), [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=173&z=2024-01-01&g=2024-01-01) of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=174&z=2024-01-01&g=2024-01-01) gegeven bevel tot verkoop van het schip staat gelijk met een besluit tot ontbinding der rederij.
+Indien tot ontbinding der rederij is besloten, moet het schip worden verkocht. Indien binnen twee maanden na het besluit het schip nog niet is verkocht, kan de rechter op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen tot deze verkoop over te gaan. De wijze van verkoop wordt door de rechter bepaald. Een besluit tot verkoop of een ingevolge [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=170&z=2025-07-01&g=2025-07-01), [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=173&z=2025-07-01&g=2025-07-01) of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=174&z=2025-07-01&g=2025-07-01) gegeven bevel tot verkoop van het schip staat gelijk met een besluit tot ontbinding der rederij.
 
 ##### Artikel 185
 
@@ -497,7 +497,7 @@ Indien tot ontbinding der rederij is besloten, moet het schip worden verkocht. I
 
 ##### Artikel 186
 
-Nietig is ieder beding, waarbij wordt afgeweken van de [artikelen 161 tot en met 163](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=161&z=2024-01-01&g=2024-01-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=169&z=2024-01-01&g=2024-01-01), [170, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=170&z=2024-01-01&g=2024-01-01), [178, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=178&z=2024-01-01&g=2024-01-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=180&z=2024-01-01&g=2024-01-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=182&z=2024-01-01&g=2024-01-01) en [183](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=183&z=2024-01-01&g=2024-01-01).
+Nietig is ieder beding, waarbij wordt afgeweken van de [artikelen 161 tot en met 163](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=161&z=2025-07-01&g=2025-07-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=169&z=2025-07-01&g=2025-07-01), [170, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=170&z=2025-07-01&g=2025-07-01), [178, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=178&z=2025-07-01&g=2025-07-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=180&z=2025-07-01&g=2025-07-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=182&z=2025-07-01&g=2025-07-01) en [183](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=183&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 2. Rechten op zeeschepen
 
@@ -505,7 +505,7 @@ Nietig is ieder beding, waarbij wordt afgeweken van de [artikelen 161 tot en met
 
 1. In de afdelingen 2 tot en met 5 wordt onder schepen mede verstaan schepen in aanbouw. Onder reder wordt mede verstaan de eigenaar van een zeeschip in aanbouw.
 
-2. Indien een schip in aanbouw een schip in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=1&artikel=1&z=2024-01-01&g=2024-01-01) is geworden, ontstaat daardoor niet een nieuw schip.
+2. Indien een schip in aanbouw een schip in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=1&artikel=1&z=2025-07-01&g=2025-07-01) is geworden, ontstaat daardoor niet een nieuw schip.
 
 ##### Artikel 191
 
@@ -513,7 +513,7 @@ In deze afdeling wordt verstaan onder:
 
 - a. **de openbare registers:** de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2);
 
-- b. **het register:** het register bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2024-01-01&g=2024-01-01).
+- b. **het register:** het register bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 192
 
@@ -529,13 +529,13 @@ Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van 
 
 - a. van een in aanbouw zijnd zeeschip: indien het in de openbare lichamen Bonaire, Sint Eustatius en Saba in aanbouw is;
 
-- b. van een afgebouwd zeeschip: indien het een Nederlands schip is in de zin van de Rijksregelgeving ter zake van de nationaliteit van schepen.
+- b. van een afgebouwd zeeschip: indien het een Nederlands schip is.
 
 Teboekstelling is slechts mogelijk ten aanzien van pleziervaartuigen in de niet-bedrijfsmatige vaart.
 
 2. Teboekstelling is niet mogelijk van een zeeschip dat reeds teboekstaat in het register of in enig soortgelijk register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-3. In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip in de zin van de Rijksregelgeving ter zake van de nationaliteit van schepen zal zijn. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in het register, dat de teboekstelling in het register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba is doorgehaald, of wanneer, in geval de bewaarder van een register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in het register in de openbare lichamen Bonaire, Sint Eustatius en Saba is geschied.
+3. In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip zal zijn. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in het register, dat de teboekstelling in het register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba is doorgehaald, of wanneer, in geval de bewaarder van een register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in het register in de openbare lichamen Bonaire, Sint Eustatius en Saba is geschied.
 
 4. De teboekstelling wordt verzocht door de reder van het zeeschip. Hij moet daarbij overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het schip voor teboekstelling als zeeschip vatbaar is. Indien het een verzoek tot teboekstelling als zeeschip in aanbouw betreft, gaat deze verklaring vergezeld van een bewijs dat het schip in de openbare lichamen Bonaire, Sint Eustatius en Saba in aanbouw is. Indien het een verzoek tot teboekstelling als zeeschip, niet zijnde een zeeschip in aanbouw, betreft, behoeft deze verklaring de goedkeuring van de ter zake van het vervoer verantwoordelijke minister.
 
@@ -573,7 +573,7 @@ Teboekstelling is slechts mogelijk ten aanzien van pleziervaartuigen in de niet-
 
 ##### Artikel 197
 
-De enige zakelijke rechten, waarvan een in het register teboekstaand zeeschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01) en [artikel 217, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=217&z=2024-01-01&g=2024-01-01), bedoelde voorrechten.
+De enige zakelijke rechten, waarvan een in het register teboekstaand zeeschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01) en [artikel 217, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=217&z=2025-07-01&g=2025-07-01), bedoelde voorrechten.
 
 ##### Artikel 199
 
@@ -595,7 +595,7 @@ Behoudens afwijkende, uit de openbare registers blijkende, bedingen omvat de hyp
 
 ##### Artikel 204
 
-De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2024-01-01&g=2024-01-01), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), [221](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2024-01-01&g=2024-01-01), [222, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
+De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2025-07-01&g=2025-07-01), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), [221](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2025-07-01&g=2025-07-01), [222, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
 
 ##### Artikel 205
 
@@ -631,7 +631,7 @@ In geval van vruchtgebruik op een teboekstaand zeeschip zijn de bepalingen van [
 
 ##### Artikel 211
 
-Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend, zijn, behoudens [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2024-01-01&g=2024-01-01), op een zeeschip bevoorrecht:
+Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend, zijn, behoudens [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2025-07-01&g=2025-07-01), op een zeeschip bevoorrecht:
 
 - a. in geval van beslag: de vorderingen ter zake van kosten na het beslag gemaakt tot behoud van het schip, daaronder begrepen de kosten van herstellingen, die onontbeerlijk waren voor het behoud van het schip;
 
@@ -643,19 +643,19 @@ Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht
 
 ##### Artikel 212
 
-Wanneer een vordering uit hoofde van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01) bevoorrecht is, zijn de renten hierop en de kosten ten einde een voor tenuitvoerlegging vatbare titel te verkrijgen gelijkelijk bevoorrecht.
+Wanneer een vordering uit hoofde van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01) bevoorrecht is, zijn de renten hierop en de kosten ten einde een voor tenuitvoerlegging vatbare titel te verkrijgen gelijkelijk bevoorrecht.
 
 ##### Artikel 213
 
-1. De bevoorrechte vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), nemen rang in de volgorde, waarin zij daar zijn gerangschikt.
+1. De bevoorrechte vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), nemen rang in de volgorde, waarin zij daar zijn gerangschikt.
 
-2. Bevoorrechte vorderingen onder dezelfde letter vermeld, staan in rang gelijk doch de vorderingen, bedoeld in [artikel 211, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.
+2. Bevoorrechte vorderingen onder dezelfde letter vermeld, staan in rang gelijk doch de vorderingen, bedoeld in [artikel 211, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.
 
 3. In rang gelijkstaande vorderingen worden ponds-pondsgewijs betaald.
 
 ##### Artikel 214
 
-De voorrechten, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), strekken zich uit tot:
+De voorrechten, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), strekken zich uit tot:
 
 - a. alle zaken die uit hoofde van hun bestemming blijvend met het schip zijn verbonden en die toebehoren aan de reder van het schip;
 
@@ -663,33 +663,33 @@ De voorrechten, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 215
 
-1. De schuldeiser, die een voorrecht heeft op grond van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), vervolgt zijn recht op het schip, in wiens handen dit zich ook bevinde.
+1. De schuldeiser, die een voorrecht heeft op grond van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), vervolgt zijn recht op het schip, in wiens handen dit zich ook bevinde.
 
-2. Voorrechten als bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01) kunnen worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2). [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
+2. Voorrechten als bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01) kunnen worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2). [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
 
 ##### Artikel 216
 
-De vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, zelfs wanneer zij zijn ontstaan tijdens de terbeschikkingstelling van het schip aan een bevrachter, dan wel tijdens de exploitatie van het schip door een ander dan de reder, tenzij aan deze de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.
+De vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, zelfs wanneer zij zijn ontstaan tijdens de terbeschikkingstelling van het schip aan een bevrachter, dan wel tijdens de exploitatie van het schip door een ander dan de reder, tenzij aan deze de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.
 
 ##### Artikel 217
 
-1. Boven alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend, doch na de bevoorrechte vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01), na de hypothecaire vorderingen, na de vorderingen, bedoeld in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01), en na de vordering van de pandhouder, zijn op een zeeschip, waaronder voor de toepassing van dit artikel niet is te verstaan een zeeschip in aanbouw, bij voorrang verhaalbaar:
+1. Boven alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend, doch na de bevoorrechte vorderingen, bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01), na de hypothecaire vorderingen, na de vorderingen, bedoeld in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01), en na de vordering van de pandhouder, zijn op een zeeschip, waaronder voor de toepassing van dit artikel niet is te verstaan een zeeschip in aanbouw, bij voorrang verhaalbaar:
 
-- a. de vorderingen die voortvloeien uit rechtshandelingen, die de reder of een rompbevrachter binden en die rechtstreeks strekken tot het in bedrijf brengen of houden van het schip, alsmede de vorderingen die tegen een uit hoofde van [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01) gelezen met [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=462&z=2024-01-01&g=2024-01-01) als vervoerder aangemerkte persoon kunnen worden geldend gemaakt; onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen;
+- a. de vorderingen die voortvloeien uit rechtshandelingen, die de reder of een rompbevrachter binden en die rechtstreeks strekken tot het in bedrijf brengen of houden van het schip, alsmede de vorderingen die tegen een uit hoofde van [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01) gelezen met [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=462&z=2025-07-01&g=2025-07-01) als vervoerder aangemerkte persoon kunnen worden geldend gemaakt; onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen;
 
-- b. de vorderingen, die uit hoofde van [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2024-01-01&g=2024-01-01), op de reder rusten;
+- b. de vorderingen, die uit hoofde van [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2025-07-01&g=2025-07-01), op de reder rusten;
 
-- c. de vorderingen, bedoeld in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2024-01-01&g=2024-01-01), voor zover zij op de reder rusten.
+- c. de vorderingen, bedoeld in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2025-07-01&g=2025-07-01), voor zover zij op de reder rusten.
 
 2. De in het eerste lid bedoelde vorderingen staan in rang gelijk en worden pondspondsgewijs betaald.
 
-3. De [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=212&z=2024-01-01&g=2024-01-01), [214, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=214&z=2024-01-01&g=2024-01-01), en [216](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=216&z=2024-01-01&g=2024-01-01) zijn op de in het eerste lid bedoelde vorderingen van toepassing. Op de vorderingen genoemd in het eerste lid, onder a, voorzover betrekking hebbende op een scheepsreparatie, alsmede op de vorderingen genoemd in het eerste lid, onder b, is ook [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=215&z=2024-01-01&g=2024-01-01) van toepassing.
+3. De [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=212&z=2025-07-01&g=2025-07-01), [214, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=214&z=2025-07-01&g=2025-07-01), en [216](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=216&z=2025-07-01&g=2025-07-01) zijn op de in het eerste lid bedoelde vorderingen van toepassing. Op de vorderingen genoemd in het eerste lid, onder a, voorzover betrekking hebbende op een scheepsreparatie, alsmede op de vorderingen genoemd in het eerste lid, onder b, is ook [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=215&z=2025-07-01&g=2025-07-01) van toepassing.
 
 4. [Artikel 283 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=283) is niet van toepassing.
 
 ##### Artikel 218
 
-Na de vorderingen, bedoeld in [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=217&z=2024-01-01&g=2024-01-01), zijn de vorderingen, bedoeld in de [artikelen 284](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284) en [285 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=285), voor zover zij dit niet zijn op grond van enig ander artikel van deze titel, op een zeeschip bij voorrang verhaalbaar.
+Na de vorderingen, bedoeld in [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=217&z=2025-07-01&g=2025-07-01), zijn de vorderingen, bedoeld in de [artikelen 284](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284) en [285 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=285), voor zover zij dit niet zijn op grond van enig ander artikel van deze titel, op een zeeschip bij voorrang verhaalbaar.
 
 ##### Artikel 219
 
@@ -703,7 +703,7 @@ Na de vorderingen, bedoeld in [artikel 217](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 220
 
-Deze afdeling geldt onder voorbehoud van [titel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&z=2024-01-01&g=2024-01-01).
+Deze afdeling geldt onder voorbehoud van [titel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 221
 
@@ -713,19 +713,19 @@ Deze afdeling geldt onder voorbehoud van [titel 15](https://wetten.overheid.nl/j
 
 ##### Artikel 222
 
-1. Op zaken aan boord van een zeeschip zijn de vorderingen ter zake van hulpverlening en van een bijdrage van die zaken in avarij-grosse bevoorrecht. Deze vorderingen nemen daartoe rang na die welke zijn bedoeld in de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2024-01-01&g=2024-01-01), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2024-01-01&g=2024-01-01) en [221](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2024-01-01&g=2024-01-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
+1. Op zaken aan boord van een zeeschip zijn de vorderingen ter zake van hulpverlening en van een bijdrage van die zaken in avarij-grosse bevoorrecht. Deze vorderingen nemen daartoe rang na die welke zijn bedoeld in de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=210&z=2025-07-01&g=2025-07-01), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=3&artikel=211&z=2025-07-01&g=2025-07-01) en [221](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2025-07-01&g=2025-07-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
 
-2. Op ten vervoer ontvangen zaken zijn bevoorrecht de vorderingen uit een met betrekking tot die zaken gesloten vervoerovereenkomst, dan wel uit [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2024-01-01&g=2024-01-01) voortvloeiend, doch slechts voor zover aan de vervoerder door [artikel 489](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=489&z=2024-01-01&g=2024-01-01) een recht op de zaken wordt toegekend. Deze vorderingen nemen daartoe rang na die welke zijn bedoeld in het eerste lid en in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=204&z=2024-01-01&g=2024-01-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
+2. Op ten vervoer ontvangen zaken zijn bevoorrecht de vorderingen uit een met betrekking tot die zaken gesloten vervoerovereenkomst, dan wel uit [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2025-07-01&g=2025-07-01) voortvloeiend, doch slechts voor zover aan de vervoerder door [artikel 489](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=489&z=2025-07-01&g=2025-07-01) een recht op de zaken wordt toegekend. Deze vorderingen nemen daartoe rang na die welke zijn bedoeld in het eerste lid en in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=204&z=2025-07-01&g=2025-07-01), doch vóór alle andere vorderingen, waaraan bij deze of enige andere wet een voorrecht is toegekend.
 
 ##### Artikel 223
 
-Wanneer een vordering uit hoofde van [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01) bevoorrecht is, zijn de renten hierop en de kosten ten einde een voor tenuitvoerlegging vatbare titel te verkrijgen gelijkelijk bevoorrecht.
+Wanneer een vordering uit hoofde van [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01) bevoorrecht is, zijn de renten hierop en de kosten ten einde een voor tenuitvoerlegging vatbare titel te verkrijgen gelijkelijk bevoorrecht.
 
 ##### Artikel 224
 
-1. De vorderingen ter zake van hulpverlening of bijdrage in avarij-grosse, die bevoorrecht zijn op grond van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2024-01-01&g=2024-01-01) of [artikel 222, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.
+1. De vorderingen ter zake van hulpverlening of bijdrage in avarij-grosse, die bevoorrecht zijn op grond van [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=221&z=2025-07-01&g=2025-07-01) of [artikel 222, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.
 
-2. De bevoorrechte vorderingen, bedoeld in [artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01), staan in rang gelijk.
+2. De bevoorrechte vorderingen, bedoeld in [artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01), staan in rang gelijk.
 
 3. De in [artikel 284 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284) bedoelde vordering neemt rang na de in het eerste en het tweede lid bedoelde vorderingen, ongeacht wanneer die vorderingen zijn ontstaan.
 
@@ -733,17 +733,17 @@ Wanneer een vordering uit hoofde van [artikel 222](https://wetten.overheid.nl/jc
 
 ##### Artikel 225
 
-De voorrechten bedoeld in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01), strekken zich uit tot de schadevergoedingen, verschuldigd voor verlies of niet herstelde beschadiging, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarij-grosse, dat tegenover een zodanig verlies of beschadiging staat. Dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard. Deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering die dekking geeft tegen het risico van verlies of avarij. [Artikel 283 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=283) is niet van toepassing.
+De voorrechten bedoeld in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01), strekken zich uit tot de schadevergoedingen, verschuldigd voor verlies of niet herstelde beschadiging, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarij-grosse, dat tegenover een zodanig verlies of beschadiging staat. Dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard. Deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering die dekking geeft tegen het risico van verlies of avarij. [Artikel 283 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=283) is niet van toepassing.
 
 ##### Artikel 226
 
-De in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01) bedoelde vorderingen doen een voorrecht op de daar vermelde zaken ontstaan en zijn alsdan daarop bij voorrang verhaalbaar, ook al is hun eigenaar op het tijdstip, dat het voorrecht is ontstaan, niet de schuldenaar van deze vorderingen.
+De in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01) bedoelde vorderingen doen een voorrecht op de daar vermelde zaken ontstaan en zijn alsdan daarop bij voorrang verhaalbaar, ook al is hun eigenaar op het tijdstip, dat het voorrecht is ontstaan, niet de schuldenaar van deze vorderingen.
 
 ##### Artikel 227
 
-1. Met de aflevering van de zaken aan de daartoe gerechtigde gaan, behalve in het geval van [artikel 559](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=559&z=2024-01-01&g=2024-01-01), de in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2024-01-01&g=2024-01-01) bedoelde voorrechten teniet. Zij gaan mede teniet met de vordering en door, in geval van executoriale verkoop, niet tijdig verzet te doen tegen de verdeling van de koopprijs alsmede door gerechtelijke rangregeling.
+1. Met de aflevering van de zaken aan de daartoe gerechtigde gaan, behalve in het geval van [artikel 559](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=559&z=2025-07-01&g=2025-07-01), de in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=4&artikel=222&z=2025-07-01&g=2025-07-01) bedoelde voorrechten teniet. Zij gaan mede teniet met de vordering en door, in geval van executoriale verkoop, niet tijdig verzet te doen tegen de verdeling van de koopprijs alsmede door gerechtelijke rangregeling.
 
-2. Zij blijven in stand, zolang de zaken op grond van de [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2024-01-01&g=2024-01-01) of [574](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=574&z=2024-01-01&g=2024-01-01) zijn opgeslagen of daarop op grond van [artikel 626](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=626) of [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=636) beslag is gelegd.
+2. Zij blijven in stand, zolang de zaken op grond van de [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2025-07-01&g=2025-07-01) of [574](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=574&z=2025-07-01&g=2025-07-01) zijn opgeslagen of daarop op grond van [artikel 626](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=626) of [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=636) beslag is gelegd.
 
 ##### Artikel 228
 
@@ -753,7 +753,7 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 
 ##### Artikel 230
 
-1. De [afdelingen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op zeeschepen die toebehoren aan de Staat, een der openbare lichamen Bonaire, Sint Eustatius en Saba of enig ander openbaar lichaam en uitsluitend bestemd zijn voor de uitoefening van:
+1. De [afdelingen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&z=2025-07-01&g=2025-07-01) zijn niet van toepassing op zeeschepen die toebehoren aan de Staat, een der openbare lichamen Bonaire, Sint Eustatius en Saba of enig ander openbaar lichaam en uitsluitend bestemd zijn voor de uitoefening van:
 
 - a. de openbare macht of
 
@@ -761,11 +761,11 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 
 2. De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2). [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
 
-3. De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in het in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2024-01-01&g=2024-01-01) bedoelde register.
+3. De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in het in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2025-07-01&g=2025-07-01) bedoelde register.
 
 ##### Artikel 231
 
-Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&z=2024-01-01&g=2024-01-01) geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16).
+Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&z=2025-07-01&g=2025-07-01) geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16).
 
 ## Titel 4. Bemanning van een zeeschip
 
@@ -801,7 +801,7 @@ Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:
 
 2. Het eerste lid is niet van toepassing indien aan degene met wie de daar bedoelde rechtshandeling wordt verricht, kenbaar is gemaakt, dat de rompbevrachter de reder niet vermag te binden dan wel deze derde wist, of zonder eigen onderzoek moest weten, dat het in het eerste lid bedoelde doel werd overschreden.
 
-3. Het eerste lid is niet van toepassing ten aanzien van vervoerovereenkomsten, overeenkomsten tot het verrichten van arbeid met de bemanning aangegaan en overeenkomsten als bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&z=2024-01-01&g=2024-01-01).
+3. Het eerste lid is niet van toepassing ten aanzien van vervoerovereenkomsten, overeenkomsten tot het verrichten van arbeid met de bemanning aangegaan en overeenkomsten als bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&z=2025-07-01&g=2025-07-01).
 
 4. Het eerste lid is niet van toepassing, wanneer aan de reder de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.
 
@@ -817,9 +817,9 @@ Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:
 
 - b. wat betreft vervoerovereenkomsten, die geen bevrachting zijn: te beginnen met de vervoerovereenkomst aangegaan door een vervoerder, die de beschikking heeft over het schip of een gedeelte daarvan, en te eindigen met de vervoerovereenkomst aangegaan tussen een vervoerder met het schip en zijn wederpartij, die niet wederom op haar beurt vervoerder met het schip is.
 
-3. Voor de toepassing van de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01) wordt een reiziger aangemerkt als partij bij de te zijnen aanzien gesloten vervoerovereenkomst.
+3. Voor de toepassing van de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01) wordt een reiziger aangemerkt als partij bij de te zijnen aanzien gesloten vervoerovereenkomst.
 
-4. In de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01) worden onder beschadiging mede begrepen niet-aflevering, geheel of gedeeltelijk verlies, waardevermindering en vertraagde aflevering en wordt onder letsel mede begrepen vertraagde ontscheping.
+4. In de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01) worden onder beschadiging mede begrepen niet-aflevering, geheel of gedeeltelijk verlies, waardevermindering en vertraagde aflevering en wordt onder letsel mede begrepen vertraagde ontscheping.
 
 ##### Artikel 362
 
@@ -843,11 +843,11 @@ Indien een partij bij een exploitatie-overeenkomst ter zake van een bij de explo
 
 ##### Artikel 365
 
-Wordt een vordering als bedoeld in de [artikelen 362 tot en met 364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=362&z=2024-01-01&g=2024-01-01) buiten overeenkomst ingesteld tegen een ondergeschikte van een partij bij een exploitatie-overeenkomst en kan die partij ter afwering van haar aansprakelijkheid voor de gedraging van de ondergeschikte een verweermiddel jegens de eiser ontlenen aan de overeenkomst waardoor haar aansprakelijkheid in gevolge die artikelen wordt beheerst, dan kan ook de ondergeschikte dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.
+Wordt een vordering als bedoeld in de [artikelen 362 tot en met 364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=362&z=2025-07-01&g=2025-07-01) buiten overeenkomst ingesteld tegen een ondergeschikte van een partij bij een exploitatie-overeenkomst en kan die partij ter afwering van haar aansprakelijkheid voor de gedraging van de ondergeschikte een verweermiddel jegens de eiser ontlenen aan de overeenkomst waardoor haar aansprakelijkheid in gevolge die artikelen wordt beheerst, dan kan ook de ondergeschikte dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.
 
 ##### Artikel 366
 
-Het totaal van de bedragen verhaalbaar op een derde die partij is bij een exploitatie-overeenkomst en zijn ondergeschikten, al dan niet gezamenlijk met het bedrag verhaalbaar op de wederpartij van degene die de in [artikel 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=363&z=2024-01-01&g=2024-01-01) of [364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=364&z=2024-01-01&g=2024-01-01) bedoelde vordering instelde en haar ondergeschikten, mag, behoudens in geval van schade ontstaan uit eigen handeling of nalaten van de aangesprokene, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien, niet overtreffen het totaal, dat op grond van de door hen ingeroepen overeenkomst is verschuldigd.
+Het totaal van de bedragen verhaalbaar op een derde die partij is bij een exploitatie-overeenkomst en zijn ondergeschikten, al dan niet gezamenlijk met het bedrag verhaalbaar op de wederpartij van degene die de in [artikel 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=363&z=2025-07-01&g=2025-07-01) of [364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=364&z=2025-07-01&g=2025-07-01) bedoelde vordering instelde en haar ondergeschikten, mag, behoudens in geval van schade ontstaan uit eigen handeling of nalaten van de aangesprokene, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien, niet overtreffen het totaal, dat op grond van de door hen ingeroepen overeenkomst is verschuldigd.
 
 ##### Artikel 367
 
@@ -863,7 +863,7 @@ Deze titel is niet van toepassing ten aanzien van minder dan 20 kubieke meters b
 
 3. Vervoer over zee en binnenwateren aan boord van een en eenzelfde schip, dat zonder eigen beweegkracht deze beide wateren bevaart, wordt beschouwd als vervoer over zee voor zover, met inachtneming tevens van het tweede lid, het varen van het beweegkracht overbrengende schip als varen over zee wordt beschouwd. Voor zover dit niet het geval is, wordt het als vervoer over binnenwateren beschouwd.
 
-4. Deze afdeling is niet van toepassing op overeenkomsten tot het vervoer van postzendingen door of in opdracht van de houder van een publiekrechtelijke concessie of onder een internationale postovereenkomst. Onder voorbehoud van [artikel 510](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=510&z=2024-01-01&g=2024-01-01) is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.
+4. Deze afdeling is niet van toepassing op overeenkomsten tot het vervoer van postzendingen door of in opdracht van de houder van een publiekrechtelijke concessie of onder een internationale postovereenkomst. Onder voorbehoud van [artikel 510](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=510&z=2025-07-01&g=2025-07-01) is deze afdeling niet van toepassing op overeenkomsten tot het vervoeren van bagage.
 
 ##### Artikel 372
 
@@ -895,7 +895,7 @@ De vervoerder is verplicht ten vervoer ontvangen zaken ter bestemming af te leve
 
 ##### Artikel 379
 
-Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2024-01-01&g=2024-01-01) is de vervoerder verplicht ten vervoer ontvangen zaken zonder vertraging te vervoeren.
+Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2025-07-01&g=2025-07-01) is de vervoerder verplicht ten vervoer ontvangen zaken zonder vertraging te vervoeren.
 
 ##### Artikel 380
 
@@ -903,7 +903,7 @@ Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=
 
 2. De bevrachter staat er voor in, dat het schip de plekken of plaatsen, waarheen hij het ter inlading, lossing of anderszins op grond van het eerste lid beveelt te gaan, veilig kan bereiken, innemen en verlaten. Indien deze plekken of plaatsen blijken niet aan deze vereisten te voldoen, is de bevrachter slechts in zoverre niet aansprakelijk als de kapitein, door de hem gegeven orders op te volgen, onredelijk handelde.
 
-3. Onverminderd [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01) wordt de bevrachter mede verbonden door en kan hij rechten ontlenen aan een rechtshandeling, die de kapitein ingevolge het eerste lid verricht. Onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen.
+3. Onverminderd [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01) wordt de bevrachter mede verbonden door en kan hij rechten ontlenen aan een rechtshandeling, die de kapitein ingevolge het eerste lid verricht. Onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen.
 
 ##### Artikel 381
 
@@ -915,11 +915,11 @@ Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=
 
 - c. het geschikt maken en in goede staat brengen van de ruimen, koel- en vrieskamers en alle andere delen van het schip, waarin zaken worden geladen, om deze daarin te bergen, te vervoeren en goed te houden.
 
-2. Onder een vervoerovereenkomst onder cognossement is de vervoerder, behoudens de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2024-01-01&g=2024-01-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01), [414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2024-01-01&g=2024-01-01), en [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2024-01-01&g=2024-01-01), verplicht de zaken behoorlijk en zorgvuldig te laden, te behandelen, te stuwen, te vervoeren, te bewaren, te verzorgen en te lossen.
+2. Onder een vervoerovereenkomst onder cognossement is de vervoerder, behoudens de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2025-07-01&g=2025-07-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), [414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2025-07-01&g=2025-07-01), en [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2025-07-01&g=2025-07-01), verplicht de zaken behoorlijk en zorgvuldig te laden, te behandelen, te stuwen, te vervoeren, te bewaren, te verzorgen en te lossen.
 
 ##### Artikel 382
 
-1. Nietig is ieder beding in een vervoerovereenkomst onder cognossement, waardoor de vervoerder of het schip wordt ontheven van aansprakelijkheid voor verlies of beschadiging van of met betrekking tot zaken voortvloeiende uit nalatigheid, schuld of tekortkoming in het voldoen aan de verplichtingen in de [artikelen 381](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=381&z=2024-01-01&g=2024-01-01), [399](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=399&z=2024-01-01&g=2024-01-01), [411](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=411&z=2024-01-01&g=2024-01-01), [414, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2024-01-01&g=2024-01-01), [492](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=492&z=2024-01-01&g=2024-01-01), [493](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=493&z=2024-01-01&g=2024-01-01) of in [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2024-01-01&g=2024-01-01) voorzien of waardoor deze aansprakelijkheid mocht worden verminderd op andere wijze dan in deze afdeling of in de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01) is voorzien. Een beding, krachtens hetwelk de uitkering op grond van een gesloten verzekering aan de vervoerder komt of elk ander beding van dergelijke strekking, wordt aangemerkt als te zijn gemaakt teneinde de vervoerder van zijn aansprakelijkheid te ontheffen.
+1. Nietig is ieder beding in een vervoerovereenkomst onder cognossement, waardoor de vervoerder of het schip wordt ontheven van aansprakelijkheid voor verlies of beschadiging van of met betrekking tot zaken voortvloeiende uit nalatigheid, schuld of tekortkoming in het voldoen aan de verplichtingen in de [artikelen 381](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=381&z=2025-07-01&g=2025-07-01), [399](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=399&z=2025-07-01&g=2025-07-01), [411](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=411&z=2025-07-01&g=2025-07-01), [414, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2025-07-01&g=2025-07-01), [492](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=492&z=2025-07-01&g=2025-07-01), [493](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=493&z=2025-07-01&g=2025-07-01) of in [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2025-07-01&g=2025-07-01) voorzien of waardoor deze aansprakelijkheid mocht worden verminderd op andere wijze dan in deze afdeling of in de [artikelen 361 tot en met 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01) is voorzien. Een beding, krachtens hetwelk de uitkering op grond van een gesloten verzekering aan de vervoerder komt of elk ander beding van dergelijke strekking, wordt aangemerkt als te zijn gemaakt teneinde de vervoerder van zijn aansprakelijkheid te ontheffen.
 
 2. Niettegenstaande het eerste lid is een beding, als daar bedoeld, geldig mits het betreft:
 
@@ -931,7 +931,7 @@ Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=
 
 ##### Artikel 383
 
-1. Onder een vervoerovereenkomst onder cognossement is noch de vervoerder noch het schip aansprakelijk voor verliezen of schaden, voortgevloeid of ontstaan uit onzeewaardigheid, tenzij deze is te wijten aan gebrek aan redelijke zorg aan de zijde van de vervoerder om het schip zeewaardig te maken, het behoorlijk te bemannen, uit te rusten of te bevoorraden, of om de ruimen, koel- en vrieskamers en alle andere delen van het schip, waarin de zaken worden geladen, geschikt te maken en in goede staat te brengen, zodat zij kunnen dienen tot het bergen, het vervoeren en het bewaren van de zaken, alles overeenkomstig [artikel 381, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=381&z=2024-01-01&g=2024-01-01). Telkens als verlies of schade is ontstaan uit onzeewaardigheid, rust de bewijslast ten aanzien van het aangewend zijn van de redelijke zorg op de vervoerder of op iedere andere persoon, die mocht beweren krachtens dit artikel van aansprakelijkheid te zijn ontheven.
+1. Onder een vervoerovereenkomst onder cognossement is noch de vervoerder noch het schip aansprakelijk voor verliezen of schaden, voortgevloeid of ontstaan uit onzeewaardigheid, tenzij deze is te wijten aan gebrek aan redelijke zorg aan de zijde van de vervoerder om het schip zeewaardig te maken, het behoorlijk te bemannen, uit te rusten of te bevoorraden, of om de ruimen, koel- en vrieskamers en alle andere delen van het schip, waarin de zaken worden geladen, geschikt te maken en in goede staat te brengen, zodat zij kunnen dienen tot het bergen, het vervoeren en het bewaren van de zaken, alles overeenkomstig [artikel 381, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=381&z=2025-07-01&g=2025-07-01). Telkens als verlies of schade is ontstaan uit onzeewaardigheid, rust de bewijslast ten aanzien van het aangewend zijn van de redelijke zorg op de vervoerder of op iedere andere persoon, die mocht beweren krachtens dit artikel van aansprakelijkheid te zijn ontheven.
 
 2. Onder een vervoerovereenkomst al dan niet onder cognossement is noch de vervoerder noch het schip aansprakelijk voor verlies of schade ontstaan of voortgevloeid uit:
 
@@ -977,19 +977,19 @@ Onverminderd [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=
 
 ##### Artikel 384
 
-Het staat de vervoerder vrij geheel of gedeeltelijk afstand te doen van zijn uit de in [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2024-01-01&g=2024-01-01), genoemde artikelen of uit de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2024-01-01&g=2024-01-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01), [414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2024-01-01&g=2024-01-01), of [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2024-01-01&g=2024-01-01) voortvloeiende rechten en ontheffingen van aansprakelijkheid of zijn uit deze artikelen voortvloeiende aansprakelijkheden en verplichtingen te vermeerderen, mits in geval van een vervoerovereenkomst onder cognossement deze afstand of deze vermeerdering blijkt uit het aan de afzender afgegeven cognossement.
+Het staat de vervoerder vrij geheel of gedeeltelijk afstand te doen van zijn uit de in [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2025-07-01&g=2025-07-01), genoemde artikelen of uit de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2025-07-01&g=2025-07-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), [414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2025-07-01&g=2025-07-01), of [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2025-07-01&g=2025-07-01) voortvloeiende rechten en ontheffingen van aansprakelijkheid of zijn uit deze artikelen voortvloeiende aansprakelijkheden en verplichtingen te vermeerderen, mits in geval van een vervoerovereenkomst onder cognossement deze afstand of deze vermeerdering blijkt uit het aan de afzender afgegeven cognossement.
 
 ##### Artikel 385
 
-Niettegenstaande [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2024-01-01&g=2024-01-01), is een beding als daar bedoeld geldig, wanneer het betreft zaken, die door hun karakter of gesteldheid een bijzondere overeenkomst rechtvaardigen en welker vervoer moet geschieden onder omstandigheden of op voorwaarden, die een bijzondere overeenkomst rechtvaardigen. Het hier bepaalde geldt echter slechts, wanneer voor het vervoer van deze zaken geen cognossement, doch een blijkens zijn bewoordingen onverhandelbaar document is afgegeven en het niet betreft een gewone handelslading, verscheept bij gelegenheid van een gewone handelsverrichting.
+Niettegenstaande [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2025-07-01&g=2025-07-01), is een beding als daar bedoeld geldig, wanneer het betreft zaken, die door hun karakter of gesteldheid een bijzondere overeenkomst rechtvaardigen en welker vervoer moet geschieden onder omstandigheden of op voorwaarden, die een bijzondere overeenkomst rechtvaardigen. Het hier bepaalde geldt echter slechts, wanneer voor het vervoer van deze zaken geen cognossement, doch een blijkens zijn bewoordingen onverhandelbaar document is afgegeven en het niet betreft een gewone handelslading, verscheept bij gelegenheid van een gewone handelsverrichting.
 
 ##### Artikel 386
 
-Niettegenstaande [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2024-01-01&g=2024-01-01), staat het de vervoerder en de afzender vrij in een vervoerovereenkomst enig beding, enige voorwaarde, enig voorbehoud of enige ontheffing op te nemen met betrekking tot de verplichtingen en aansprakelijkheden van de vervoerder of het schip voor het verlies of de schaden opgekomen aan de zaken of betreffende hun bewaring, verzorging of behandeling vóór het laden in en na het lossen uit het over zee vervoerende schip.
+Niettegenstaande [artikel 382, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=382&z=2025-07-01&g=2025-07-01), staat het de vervoerder en de afzender vrij in een vervoerovereenkomst enig beding, enige voorwaarde, enig voorbehoud of enige ontheffing op te nemen met betrekking tot de verplichtingen en aansprakelijkheden van de vervoerder of het schip voor het verlies of de schaden opgekomen aan de zaken of betreffende hun bewaring, verzorging of behandeling vóór het laden in en na het lossen uit het over zee vervoerende schip.
 
 ##### Artikel 387
 
-Voor zover de vervoerder aansprakelijk is wegens niet nakomen van de op hem uit hoofde van de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2024-01-01&g=2024-01-01) en [379](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=379&z=2024-01-01&g=2024-01-01) rustende verplichtingen heeft de afzender geen ander recht dan betaling van de in [artikel 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01) bedoelde of de met toepassing van [artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=384&z=2024-01-01&g=2024-01-01) overeengekomen bedragen te vorderen.
+Voor zover de vervoerder aansprakelijk is wegens niet nakomen van de op hem uit hoofde van de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2025-07-01&g=2025-07-01) en [379](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=379&z=2025-07-01&g=2025-07-01) rustende verplichtingen heeft de afzender geen ander recht dan betaling van de in [artikel 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01) bedoelde of de met toepassing van [artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=384&z=2025-07-01&g=2025-07-01) overeengekomen bedragen te vorderen.
 
 ##### Artikel 388
 
@@ -1001,7 +1001,7 @@ Voor zover de vervoerder aansprakelijk is wegens niet nakomen van de op hem uit 
 
 4. De rekeneenheid, bedoeld in het eerste lid, is het bijzondere trekkingsrecht zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen, bedoeld in het eerste lid, worden omgerekend in US dollar naar de koers van de dag, waarop de betaling wordt verricht. De waarde van de US dollar, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
 
-5. Noch de vervoerder noch het schip kan zijn aansprakelijkheid met een beroep op dit artikel of [artikel 414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2024-01-01&g=2024-01-01), beperken, wanneer bewezen is, dat de schade is ontstaan uit een handeling of nalaten van de vervoerder, geschied hetzij met het opzet schade te veroorzaken, hetzij roekeloos en met de wetenschap dat schade er waarschijnlijk uit zou voortvloeien.
+5. Noch de vervoerder noch het schip kan zijn aansprakelijkheid met een beroep op dit artikel of [artikel 414, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=414&z=2025-07-01&g=2025-07-01), beperken, wanneer bewezen is, dat de schade is ontstaan uit een handeling of nalaten van de vervoerder, geschied hetzij met het opzet schade te veroorzaken, hetzij roekeloos en met de wetenschap dat schade er waarschijnlijk uit zou voortvloeien.
 
 6. Bij overeenkomst tussen de vervoerder, de kapitein of de agent van de vervoerder enerzijds en de afzender anderzijds, mogen andere maximumbedragen dan die, bedoeld in het eerste lid, worden bepaald, mits deze bedragen in geval van een vervoerovereenkomst onder cognossement niet lager zijn dan de in het eerste lid bedoelde.
 
@@ -1009,7 +1009,7 @@ Voor zover de vervoerder aansprakelijk is wegens niet nakomen van de op hem uit 
 
 ##### Artikel 389
 
-Indien met betrekking tot een zaak hulploon, een bijdrage in avarij-grosse of een schadevergoeding uit hoofde van [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2024-01-01&g=2024-01-01) is verschuldigd, wordt deze aangemerkt als een waardevermindering van die zaak.
+Indien met betrekking tot een zaak hulploon, een bijdrage in avarij-grosse of een schadevergoeding uit hoofde van [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2025-07-01&g=2025-07-01) is verschuldigd, wordt deze aangemerkt als een waardevermindering van die zaak.
 
 ##### Artikel 390
 
@@ -1037,7 +1037,7 @@ De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doo
 
 4. De opzegging geschiedt door telegram, bericht per telex of door enig ander spoedbericht, waarvan de ontvangst duidelijk aantoonbaar is en de overeenkomst eindigt op het ogenblik van ontvangst daarvan, doch niet voor lossing van de zaken.
 
-5. Onder voorbehoud van [artikel 383, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2024-01-01&g=2024-01-01), is de afzender verplicht de vervoerder de schade te vergoeden die deze lijdt ten gevolge van de opzegging of van de aanvaarding van de reis.
+5. Onder voorbehoud van [artikel 383, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2025-07-01&g=2025-07-01), is de afzender verplicht de vervoerder de schade te vergoeden die deze lijdt ten gevolge van de opzegging of van de aanvaarding van de reis.
 
 6. Het eerste tot en met het vijfde lid zijn niet van toepassing in geval van tijdbevrachting.
 
@@ -1053,17 +1053,17 @@ De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doo
 
 2. De vervoerder is niet gehouden, doch wel gerechtigd te onderzoeken of de hem gedane opgaven juist en volledig zijn.
 
-3. Is bij het verstrijken van de tijd, waarbinnen de zaken ter beschikking van de vervoerder moeten zijn gesteld, door welke oorzaak dan ook, niet of slechts gedeeltelijk voldaan aan de in het eerste lid genoemde verplichting van de afzender, dan is, behalve in het geval van tijdbevrachting, [artikel 392, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=392&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+3. Is bij het verstrijken van de tijd, waarbinnen de zaken ter beschikking van de vervoerder moeten zijn gesteld, door welke oorzaak dan ook, niet of slechts gedeeltelijk voldaan aan de in het eerste lid genoemde verplichting van de afzender, dan is, behalve in het geval van tijdbevrachting, [artikel 392, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=392&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 395
 
 1. De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doordat, door welke oorzaak dan ook, niet naar behoren aanwezig zijn de documenten en inlichtingen die van de zijde van de afzender vereist zijn voor het vervoer dan wel ter voldoening aan voor de aflevering van de zaken te vervullen douane- en andere formaliteiten.
 
-2. De vervoerder is verplicht redelijke zorg aan te wenden dat de documenten, die in zijn handen zijn gesteld, niet verloren gaan of onjuist worden behandeld. Een door hem ter zake verschuldigde schadevergoeding zal die, verschuldigd uit hoofde van de [artikelen 387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2024-01-01&g=2024-01-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01) en [389](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=389&z=2024-01-01&g=2024-01-01) in geval van verlies van de zaken, niet overschrijden.
+2. De vervoerder is verplicht redelijke zorg aan te wenden dat de documenten, die in zijn handen zijn gesteld, niet verloren gaan of onjuist worden behandeld. Een door hem ter zake verschuldigde schadevergoeding zal die, verschuldigd uit hoofde van de [artikelen 387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2025-07-01&g=2025-07-01), [388](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01) en [389](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=389&z=2025-07-01&g=2025-07-01) in geval van verlies van de zaken, niet overschrijden.
 
 3. De vervoerder is niet gehouden, doch wel gerechtigd, te onderzoeken of de hem gedane opgaven juist en volledig zijn.
 
-4. Zijn bij het verstrijken van de tijd waarbinnen de in het eerste lid bedoelde documenten en inlichtingen aanwezig moeten zijn, deze, door welke oorzaak dan ook, niet naar behoren aanwezig, dan is, behalve in het geval van tijdbevrachting, [artikel 392, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=392&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+4. Zijn bij het verstrijken van de tijd waarbinnen de in het eerste lid bedoelde documenten en inlichtingen aanwezig moeten zijn, deze, door welke oorzaak dan ook, niet naar behoren aanwezig, dan is, behalve in het geval van tijdbevrachting, [artikel 392, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=392&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 396
 
@@ -1077,7 +1077,7 @@ De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doo
 
 1. De afzender is verplicht de vervoerder de schade te vergoeden, die materiaal, dat hij deze ter beschikking stelde of zaken die deze ten vervoer ontving dan wel de behandeling daarvan, de vervoerder berokkenden, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig afzender van de ten vervoer ontvangen zaken niet heeft kunnen vermijden en waarvan zulk een afzender de gevolgen niet heeft kunnen verhinderen.
 
-2. Het eerste lid laat de [artikelen 383, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2024-01-01&g=2024-01-01), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2024-01-01&g=2024-01-01) en [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2024-01-01&g=2024-01-01), alsmede de bepalingen nopens avarij-grosse onverlet.
+2. Het eerste lid laat de [artikelen 383, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=383&z=2025-07-01&g=2025-07-01), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2025-07-01&g=2025-07-01) en [423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2025-07-01&g=2025-07-01), alsmede de bepalingen nopens avarij-grosse onverlet.
 
 ##### Artikel 398
 
@@ -1089,9 +1089,9 @@ De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doo
 
 4. Indien de afzender na feitelijke aflevering een zaak niet naar haar bestemming vervoert, wordt het verschil tussen de waarden ter bestemming en ter plaatse van de aflevering, bedoeld in artikel 388, tweede lid, tweede volzin, aangemerkt als waardevermindering van die zaak. Vervoert de afzender een zaak na de feitelijke aflevering alsnog naar haar bestemming, dan worden de kosten, die hij te dien einde maakt, aangemerkt als waardevermindering van die zaak.
 
-5. Op de feitelijke aflevering is het tussen partijen overeengekomene alsmede het in deze afdeling nopens de aflevering van zaken bepaalde van toepassing, met dien verstande, dat deze feitelijke aflevering niet op grond van de eerste zin van het eerste lid of op grond van [artikel 484, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=484&z=2024-01-01&g=2024-01-01), de vracht verschuldigd doet zijn. De [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2024-01-01&g=2024-01-01) en [491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+5. Op de feitelijke aflevering is het tussen partijen overeengekomene alsmede het in deze afdeling nopens de aflevering van zaken bepaalde van toepassing, met dien verstande, dat deze feitelijke aflevering niet op grond van de eerste zin van het eerste lid of op grond van [artikel 484, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=484&z=2025-07-01&g=2025-07-01), de vracht verschuldigd doet zijn. De [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2025-07-01&g=2025-07-01) en [491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-6. Het eerste tot en met het vijfde lid laten [artikel 423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2024-01-01&g=2024-01-01), alsmede de bepalingen nopens avarij-grosse onverlet.
+6. Het eerste tot en met het vijfde lid laten [artikel 423](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=423&z=2025-07-01&g=2025-07-01), alsmede de bepalingen nopens avarij-grosse onverlet.
 
 7. Nietig is ieder beding, waarbij van het eerste lid wordt afgeweken.
 
@@ -1109,7 +1109,7 @@ De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doo
 
 ##### Artikel 410
 
-Indien een vervoerovereenkomst is gesloten en bovendien een cognossement is afgegeven, wordt, behoudens [artikel 441, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2024-01-01&g=2024-01-01), de rechtsverhouding tussen de vervoerder en de afzender door de bedingen van de vervoerovereenkomst en niet door die van dit cognossement beheerst. Behoudens het in artikel 441, eerste lid, gestelde vereiste van houderschap van het cognossement, strekt dit hun dan slechts tot bewijs van de ontvangst der zaken door de vervoerder.
+Indien een vervoerovereenkomst is gesloten en bovendien een cognossement is afgegeven, wordt, behoudens [artikel 441, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2025-07-01&g=2025-07-01), de rechtsverhouding tussen de vervoerder en de afzender door de bedingen van de vervoerovereenkomst en niet door die van dit cognossement beheerst. Behoudens het in artikel 441, eerste lid, gestelde vereiste van houderschap van het cognossement, strekt dit hun dan slechts tot bewijs van de ontvangst der zaken door de vervoerder.
 
 ##### Artikel 411
 
@@ -1135,7 +1135,7 @@ Niet verhandelbare exemplaren moeten als zodanig worden aangeduid.
 
 3. Een cognossement, dat de uiterlijk zichtbare staat of gesteldheid van de zaak niet vermeldt, levert, behoudens tegenbewijs dat ook jegens een derde mogelijk is, een vermoeden op dat de vervoerder die zaak voor zover uiterlijk zichtbaar in goede staat of gesteldheid heeft ontvangen.
 
-4. De in het cognossement opgenomen opgave, bedoeld in [artikel 388, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01), schept behoudens tegenbewijs een vermoeden, doch bindt niet de vervoerder die haar kan betwisten.
+4. De in het cognossement opgenomen opgave, bedoeld in [artikel 388, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), schept behoudens tegenbewijs een vermoeden, doch bindt niet de vervoerder die haar kan betwisten.
 
 ##### Artikel 415
 
@@ -1155,7 +1155,7 @@ Levering van het cognossement vóór de aflevering van de daarin vermelde zaken 
 
 ##### Artikel 418
 
-De vervoerder is verplicht de plek van inlading en lossing tijdig aan te wijzen; in geval van tijdbevrachting is echter [artikel 380](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=380&z=2024-01-01&g=2024-01-01) van toepassing en in geval van reisbevrachting [artikel 419](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=419&z=2024-01-01&g=2024-01-01).
+De vervoerder is verplicht de plek van inlading en lossing tijdig aan te wijzen; in geval van tijdbevrachting is echter [artikel 380](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=380&z=2025-07-01&g=2025-07-01) van toepassing en in geval van reisbevrachting [artikel 419](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=419&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 419
 
@@ -1171,7 +1171,7 @@ De vervoerder is verplicht de plek van inlading en lossing tijdig aan te wijzen;
 
 ##### Artikel 420
 
-Wanneer in geval van reisbevrachting de bevrachter de bevoegdheid heeft laad- of loshaven nader aan te wijzen, is [artikel 419](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=419&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Wanneer in geval van reisbevrachting de bevrachter de bevoegdheid heeft laad- of loshaven nader aan te wijzen, is [artikel 419](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=419&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 421
 
@@ -1205,7 +1205,7 @@ Behalve in geval van bevrachting is de vervoerder verplicht de zaken aan boord v
 
 3. De vervoerder verwittigt, zo mogelijk, de afzender, degene aan wie de zaken moeten worden afgeleverd en degene aan wie hij volgens de bepalingen van een mogelijkerwijs afgegeven cognossement bericht van aankomst van het schip moet zenden.
 
-4. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2024-01-01&g=2024-01-01), is van toepassing.
+4. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2025-07-01&g=2025-07-01), is van toepassing.
 
 ##### Artikel 425
 
@@ -1217,7 +1217,7 @@ Behalve in geval van bevrachting is de vervoerder verplicht de zaken aan boord v
 
 4. Ten aanzien van reeds ten vervoer ontvangen zaken wordt vermoed, dat de beschadiging van het schip is te wijten aan een omstandigheid, die voor rekening van de vervrachter komt; voor rekening van de vervrachter komen die omstandigheden, die in geval van beschadiging van door hem vervoerde zaken voor zijn rekening komen.
 
-5. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2024-01-01&g=2024-01-01), is van toepassing met dien verstande, dat in geval van tijdbevrachting vracht verschuldigd blijft tot op het tijdstip van de lossing der zaken.
+5. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2025-07-01&g=2025-07-01), is van toepassing met dien verstande, dat in geval van tijdbevrachting vracht verschuldigd blijft tot op het tijdstip van de lossing der zaken.
 
 ##### Artikel 426
 
@@ -1229,25 +1229,25 @@ Behalve in geval van bevrachting is de vervoerder verplicht de zaken aan boord v
 
 4. De vervrachter verwittigt de bevrachter zo spoedig als dit mogelijk is.
 
-5. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2024-01-01&g=2024-01-01), is van toepassing.
+5. [Artikel 398, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2025-07-01&g=2025-07-01), is van toepassing.
 
 ##### Artikel 440
 
-1. De afzender – of, indien een cognossement is afgegeven, uitsluitend de in [artikel 441](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2024-01-01&g=2024-01-01) bedoelde houder daarvan en dan alleen tegen afgifte van alle verhandelbare exemplaren van dit cognossement – is bevoegd, voor zover de vervoerder hieraan redelijkerwijs kan voldoen, aflevering van ten vervoer ontvangen zaken of, indien daarvoor een cognossement is afgegeven, van alle daarop vermelde zaken gezamenlijk voor de aankomst ter bestemmingsplaats te verlangen, mits hij de vervoerder en de belanghebbenden bij de overige lading ter zake schadeloos stelt. Hij is verplicht tot bijdragen in een avarij-grosse, wanneer de avarij-grosse handeling plaatshad met het oog op een omstandigheid, waarvan reeds voor de aflevering is gebleken.
+1. De afzender – of, indien een cognossement is afgegeven, uitsluitend de in [artikel 441](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2025-07-01&g=2025-07-01) bedoelde houder daarvan en dan alleen tegen afgifte van alle verhandelbare exemplaren van dit cognossement – is bevoegd, voor zover de vervoerder hieraan redelijkerwijs kan voldoen, aflevering van ten vervoer ontvangen zaken of, indien daarvoor een cognossement is afgegeven, van alle daarop vermelde zaken gezamenlijk voor de aankomst ter bestemmingsplaats te verlangen, mits hij de vervoerder en de belanghebbenden bij de overige lading ter zake schadeloos stelt. Hij is verplicht tot bijdragen in een avarij-grosse, wanneer de avarij-grosse handeling plaatshad met het oog op een omstandigheid, waarvan reeds voor de aflevering is gebleken.
 
 2. Hij kan dit recht niet uitoefenen, wanneer door de voortijdige aflevering de reis zou worden vertraagd.
 
-3. Zaken, die ingevolge het eerste lid zijn afgeleverd, worden aangemerkt als ter bestemming afgeleverde zaken en de bepalingen van deze afdeling nopens de aflevering van zaken, alsmede de [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2024-01-01&g=2024-01-01) en [491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2024-01-01&g=2024-01-01) zijn van toepassing.
+3. Zaken, die ingevolge het eerste lid zijn afgeleverd, worden aangemerkt als ter bestemming afgeleverde zaken en de bepalingen van deze afdeling nopens de aflevering van zaken, alsmede de [artikelen 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2025-07-01&g=2025-07-01) en [491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) zijn van toepassing.
 
 ##### Artikel 441
 
-1. Indien een cognossement is afgegeven, heeft uitsluitend de regelmatige houder daarvan, tenzij hij niet op rechtmatige wijze houder is geworden, jegens de vervoerder onder het cognossement het recht aflevering van de zaken overeenkomstig de op de vervoerder rustende verplichtingen te vorderen; daarbij is [artikel 387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2024-01-01&g=2024-01-01) van toepassing.
+1. Indien een cognossement is afgegeven, heeft uitsluitend de regelmatige houder daarvan, tenzij hij niet op rechtmatige wijze houder is geworden, jegens de vervoerder onder het cognossement het recht aflevering van de zaken overeenkomstig de op de vervoerder rustende verplichtingen te vorderen; daarbij is [artikel 387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2025-07-01&g=2025-07-01) van toepassing.
 
 2. Jegens de houder van het cognossement, die niet de afzender was, is de vervoerder onder cognossement gehouden aan en kan hij een beroep doen op de bedingen van dit cognossement. Jegens iedere houder van het cognossement kan hij de uit het cognossement duidelijk kenbare rechten tot betaling geldend maken. Jegens de houder van het cognossement, die ook de afzender was, kan de vervoerder zich bovendien op de bedingen van de vervoerovereenkomst en op zijn persoonlijke verhouding tot de afzender beroepen.
 
 ##### Artikel 442
 
-1. Indien bij toepassing van [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01) verscheidene personen als vervoerder onder het cognossement moeten worden aangemerkt, zijn dezen jegens de in [artikel 441, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2024-01-01&g=2024-01-01), bedoelde cognossementhouder hoofdelijk verbonden.
+1. Indien bij toepassing van [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01) verscheidene personen als vervoerder onder het cognossement moeten worden aangemerkt, zijn dezen jegens de in [artikel 441, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2025-07-01&g=2025-07-01), bedoelde cognossementhouder hoofdelijk verbonden.
 
 2. In het in het eerste lid bedoeld geval is ieder der vervoerders gerechtigd de uit het cognossement blijkende rechten jegens de cognossementhouder uit te oefenen en is deze jegens iedere vervoerder gekweten tot op het opeisbare bedrag dat hij op grond van het cognossement aan één hunner heeft voldaan.[Titel 7 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&titeldeel=7) is niet van toepassing.
 
@@ -1259,25 +1259,25 @@ Van de houders van verschillende exemplaren van hetzelfde cognossement heeft hij
 
 1. Onverminderd het tweede tot en met het vijfde lid worden als vervoerder onder het cognossement aangemerkt hij die het cognossement ondertekende of voor wie een ander dit ondertekende alsmede hij wiens formulier voor het cognossement is gebezigd.
 
-2. Indien de kapitein of een ander voor hem het cognossement ondertekende, wordt naast degene, bedoeld in het eerste lid, die tijd- of reisbevrachter, die vervoerder is bij de laatste overeenkomst in de keten der exploitatie-overeenkomsten als bedoeld in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&z=2024-01-01&g=2024-01-01), als vervoerder onder het cognossement aangemerkt. Indien het schip in rompbevrachting is uitgegeven wordt naast deze eventuele tijd- of reisbevrachter ook de laatste rompbevrachter als vervoerder onder het cognossement aangemerkt. Is het schip niet in rompbevrachting uitgegeven dan wordt naast de hier bedoelde eventuele tijd- of reisbevrachter ook de reder als vervoerder onder het cognossement aangemerkt.
+2. Indien de kapitein of een ander voor hem het cognossement ondertekende, wordt naast degene, bedoeld in het eerste lid, die tijd- of reisbevrachter, die vervoerder is bij de laatste overeenkomst in de keten der exploitatie-overeenkomsten als bedoeld in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&z=2025-07-01&g=2025-07-01), als vervoerder onder het cognossement aangemerkt. Indien het schip in rompbevrachting is uitgegeven wordt naast deze eventuele tijd- of reisbevrachter ook de laatste rompbevrachter als vervoerder onder het cognossement aangemerkt. Is het schip niet in rompbevrachting uitgegeven dan wordt naast de hier bedoelde eventuele tijd- of reisbevrachter ook de reder als vervoerder onder het cognossement aangemerkt.
 
 3. In afwijking van het eerste en het tweede lid wordt uitsluitend de laatste rompbevrachter, onderscheidenlijk de reder, als vervoerder onder het cognossement aangemerkt indien het cognossement uitsluitend deze rompbevrachter, onderscheidenlijk de reder, uitdrukkelijk als zodanig aanwijst en, in geval van aanwijzing van de rompbevrachter, bovendien diens identiteit uit het cognossement duidelijk kenbaar is.
 
-4. Dit artikel laat [artikel 262, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=262&z=2024-01-01&g=2024-01-01), onverlet.
+4. Dit artikel laat [artikel 262, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=262&z=2025-07-01&g=2025-07-01), onverlet.
 
 5. Nietig is ieder beding waarbij van het eerste tot en met het vierde lid wordt afgeweken.
 
 ##### Artikel 462
 
-1. [Artikel 461, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01), vindt geen toepassing indien een daar als vervoerder onder het cognossement aangemerkte persoon bewijst dat hij die het cognossement voor hem ondertekende daarbij de grenzen zijner bevoegdheid overschreed of dat het formulier zonder zijn toestemming is gebezigd. Desalniettemin wordt een in artikel 461, eerste lid, bedoelde persoon als vervoerder onder het cognossement aangemerkt, indien de houder van het cognossement bewijst dat op het ogenblik van uitgifte van het cognossement, op grond van een verklaring of gedraging van hem voor wie is ondertekend of wiens formulier is gebezigd, redelijkerwijs mocht worden aangenomen, dat hij die ondertekende daartoe bevoegd was of dat het formulier met toestemming was gebezigd. In afwijking van het eerste lid wordt de rederij als vervoerder onder het cognossement aangemerkt indien haar boekhouder door ondertekening van het cognossement de grenzen zijner bevoegdheid overschreed, doch zij wordt niet gebonden jegens de eerste houder van het cognossement die op het ogenblik van uitgifte daarvan wist dat de boekhouder de grenzen zijner bevoegdheid overschreed.
+1. [Artikel 461, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01), vindt geen toepassing indien een daar als vervoerder onder het cognossement aangemerkte persoon bewijst dat hij die het cognossement voor hem ondertekende daarbij de grenzen zijner bevoegdheid overschreed of dat het formulier zonder zijn toestemming is gebezigd. Desalniettemin wordt een in artikel 461, eerste lid, bedoelde persoon als vervoerder onder het cognossement aangemerkt, indien de houder van het cognossement bewijst dat op het ogenblik van uitgifte van het cognossement, op grond van een verklaring of gedraging van hem voor wie is ondertekend of wiens formulier is gebezigd, redelijkerwijs mocht worden aangenomen, dat hij die ondertekende daartoe bevoegd was of dat het formulier met toestemming was gebezigd. In afwijking van het eerste lid wordt de rederij als vervoerder onder het cognossement aangemerkt indien haar boekhouder door ondertekening van het cognossement de grenzen zijner bevoegdheid overschreed, doch zij wordt niet gebonden jegens de eerste houder van het cognossement die op het ogenblik van uitgifte daarvan wist dat de boekhouder de grenzen zijner bevoegdheid overschreed.
 
-2. Een beroep op [artikel 461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01), is mogelijk ook indien de kapitein door ondertekening van het cognossement of door een ander de bevoegdheid te geven dit namens hem te ondertekenen de grenzen zijner bevoegdheid overschreed, doch dergelijk beroep staat niet open aan de eerste houder van het cognossement die op het ogenblik van uitgifte daarvan wist dat de kapitein de grenzen zijner bevoegdheid overschreed.
+2. Een beroep op [artikel 461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01), is mogelijk ook indien de kapitein door ondertekening van het cognossement of door een ander de bevoegdheid te geven dit namens hem te ondertekenen de grenzen zijner bevoegdheid overschreed, doch dergelijk beroep staat niet open aan de eerste houder van het cognossement die op het ogenblik van uitgifte daarvan wist dat de kapitein de grenzen zijner bevoegdheid overschreed.
 
 3. Het derde lid vindt eveneens toepassing indien hij die namens de kapitein het cognossement ondertekende daarbij de grenzen zijner bevoegdheid overschreed.
 
 ##### Artikel 480
 
-1. Is een vervrachter ingevolge [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2024-01-01&g=2024-01-01) tot meer gehouden dan waartoe hij uit hoofde van zijn bevrachting is verplicht of ontving hij minder dan waartoe hij uit dien hoofde is gerechtigd, dan heeft hij – mits de ondertekening van het cognossement of de afgifte van het formulier plaatsvond krachtens het in de bevrachting bepaalde, dan wel op verzoek van de bevrachter – deswege op deze laatste verhaal.
+1. Is een vervrachter ingevolge [artikel 461](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=461&z=2025-07-01&g=2025-07-01) tot meer gehouden dan waartoe hij uit hoofde van zijn bevrachting is verplicht of ontving hij minder dan waartoe hij uit dien hoofde is gerechtigd, dan heeft hij – mits de ondertekening van het cognossement of de afgifte van het formulier plaatsvond krachtens het in de bevrachting bepaalde, dan wel op verzoek van de bevrachter – deswege op deze laatste verhaal.
 
 2. Hetzelfde geldt voor een ingevolge het eerste lid aangesproken bevrachter, die op zijn beurt vervrachter is.
 
@@ -1297,11 +1297,11 @@ Van de houders van verschillende exemplaren van hetzelfde cognossement heeft hij
 
 1. Behalve in geval van bevrachting is de vervoerder verplicht de zaken uit het schip te lossen.
 
-2. Op de lossing van de zaken vindt [artikel 422](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=422&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
+2. Op de lossing van de zaken vindt [artikel 422](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=422&z=2025-07-01&g=2025-07-01) overeenkomstige toepassing.
 
 ##### Artikel 484
 
-1. De vracht is verschuldigd na aflevering van de zaken ter bestemming of ter plaatse, waar de vervoerder hen met inachtneming van [artikel 440](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=440&z=2024-01-01&g=2024-01-01) afleverde. Is de vracht bepaald naar gewicht of omvang der zaken, dan wordt hij berekend naar deze gegevens bij aflevering.
+1. De vracht is verschuldigd na aflevering van de zaken ter bestemming of ter plaatse, waar de vervoerder hen met inachtneming van [artikel 440](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=440&z=2025-07-01&g=2025-07-01) afleverde. Is de vracht bepaald naar gewicht of omvang der zaken, dan wordt hij berekend naar deze gegevens bij aflevering.
 
 2. Vracht die in één som voor alle zaken ter bestemming is bepaald, is, ook wanneer slechts een gedeelte van die zaken is afgeleverd, in zijn geheel verschuldigd.
 
@@ -1317,7 +1317,7 @@ Voor zaken die door een opvarende voor eigen rekening in strijd met enig wetteli
 
 ##### Artikel 486
 
-Onder voorbehoud van [artikel 425, vijfde lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=425&z=2024-01-01&g=2024-01-01), is in geval van tijdbevrachting vracht niet verschuldigd over de tijd, dat de bevrachter het schip niet overeenkomstig de bedingen van de bevrachting te zijner beschikking heeft
+Onder voorbehoud van [artikel 425, vijfde lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=425&z=2025-07-01&g=2025-07-01), is in geval van tijdbevrachting vracht niet verschuldigd over de tijd, dat de bevrachter het schip niet overeenkomstig de bedingen van de bevrachting te zijner beschikking heeft
 
 - a. ten gevolge van beschadiging daarvan, dan wel
 
@@ -1331,7 +1331,7 @@ Onder voorbehoud van [artikel 425, vijfde lid, laatste zinsnede](https://wetten.
 
 ##### Artikel 488
 
-Onverminderd het omtrent avarij-grosse bepaalde en onverminderd [titel 4, afdeling 1, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&afdeling=1) zijn de afzender, de ontvanger en, indien een cognossement is afgegeven, de in [artikel 441](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2024-01-01&g=2024-01-01) bedoelde houder daarvan, hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken dan wel doordat de kapitein zijn in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=261&z=2024-01-01&g=2024-01-01) genoemde verplichtingen is nagekomen.
+Onverminderd het omtrent avarij-grosse bepaalde en onverminderd [titel 4, afdeling 1, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&afdeling=1) zijn de afzender, de ontvanger en, indien een cognossement is afgegeven, de in [artikel 441](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=441&z=2025-07-01&g=2025-07-01) bedoelde houder daarvan, hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken dan wel doordat de kapitein zijn in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=261&z=2025-07-01&g=2025-07-01) genoemde verplichtingen is nagekomen.
 
 ##### Artikel 489
 
@@ -1349,7 +1349,7 @@ Onverminderd het omtrent avarij-grosse bepaalde en onverminderd [titel 4, afdeli
 
 ##### Artikel 491
 
-1. In geval van toepassing van [artikel 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2024-01-01&g=2024-01-01) kan de vervoerder, de bewaarnemer dan wel hij, die jegens de vervoerder recht heeft op de aflevering op zijn verzoek, door de rechter worden gemachtigd de zaken geheel of gedeeltelijk op de door deze te bepalen wijze te verkopen.
+1. In geval van toepassing van [artikel 490](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=490&z=2025-07-01&g=2025-07-01) kan de vervoerder, de bewaarnemer dan wel hij, die jegens de vervoerder recht heeft op de aflevering op zijn verzoek, door de rechter worden gemachtigd de zaken geheel of gedeeltelijk op de door deze te bepalen wijze te verkopen.
 
 2. De bewaarnemer is verplicht de vervoerder zo spoedig mogelijk van de voorgenomen verkoop op de hoogte te stellen; de vervoerder heeft deze verplichting jegens degene die jegens hem recht heeft op de aflevering van de zaken, en jegens degene aan wie hij volgens de bepalingen van een mogelijkerwijs afgegeven cognossement bericht van aankomst van het schip moet zenden.
 
@@ -1383,9 +1383,9 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of schade is, moeten de
 
 ##### Artikel 496
 
-1. De kosten van een gerechtelijk onderzoek als bedoeld in de [artikelen 494](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=494&z=2024-01-01&g=2024-01-01) en [495](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=495&z=2024-01-01&g=2024-01-01), moeten worden voldaan door de aanvrager.
+1. De kosten van een gerechtelijk onderzoek als bedoeld in de [artikelen 494](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=494&z=2025-07-01&g=2025-07-01) en [495](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=495&z=2025-07-01&g=2025-07-01), moeten worden voldaan door de aanvrager.
 
-2. De rechter kan deze kosten en door het onderzoek geleden schade geheel of gedeeltelijk ten laste van de wederpartij van de aanvrager brengen, ook al zou daardoor het bedrag bedoeld in [artikel 388, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01), worden overschreden.
+2. De rechter kan deze kosten en door het onderzoek geleden schade geheel of gedeeltelijk ten laste van de wederpartij van de aanvrager brengen, ook al zou daardoor het bedrag bedoeld in [artikel 388, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), worden overschreden.
 
 ### Afdeling 3. Overeenkomst van personenvervoer over zee
 
@@ -1415,7 +1415,7 @@ Vervoer over zee omvat:
 
 1. Tijd- of reisbevrachting in de zin van deze afdeling is de overeenkomst van personenvervoer, waarbij de vervoerder (de vervrachter) zich verbindt tot vervoer aan boord van een schip dat hij daartoe, anders dan bij wijze van rompbevrachting, in zijn geheel en al dan niet op tijdbasis (tijdbevrachting of reisbevrachting) ter beschikking stelt van zijn wederpartij (de bevrachter).
 
-2. De in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2024-01-01&g=2024-01-01), in het bijzonder voor het geval van bevrachting gegeven bepalingen, alsmede [artikel 375](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=375&z=2024-01-01&g=2024-01-01) zijn op deze bevrachting van overeenkomstige toepassing.
+2. De in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2025-07-01&g=2025-07-01), in het bijzonder voor het geval van bevrachting gegeven bepalingen, alsmede [artikel 375](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=375&z=2025-07-01&g=2025-07-01) zijn op deze bevrachting van overeenkomstige toepassing.
 
 ##### Artikel 503
 
@@ -1435,15 +1435,15 @@ De wetsbepalingen omtrent huur, bewaarneming en bruikleen zijn op ter beschikkin
 
 1. De vervoerder is aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van hutbagage of van een als bagage ten vervoer aangenomen levend dier, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden of waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen.
 
-2. Behalve met betrekking tot een levend dier is [artikel 504, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2024-01-01&g=2024-01-01), van toepassing.
+2. Behalve met betrekking tot een levend dier is [artikel 504, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2025-07-01&g=2025-07-01), van toepassing.
 
 3. Bij de toepassing van dit artikel wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het voorval leidde, voor rekening van de vervoerder is.
 
-4. Het eerste tot en met het derde lid laten [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2024-01-01&g=2024-01-01) onverlet.
+4. Het eerste tot en met het derde lid laten [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2025-07-01&g=2025-07-01) onverlet.
 
 ##### Artikel 506
 
-Onder voorbehoud van [artikel 505](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=505&z=2024-01-01&g=2024-01-01) is de vervoerder aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van bagage, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer tenzij en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen niet heeft kunnen verhinderen.
+Onder voorbehoud van [artikel 505](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=505&z=2025-07-01&g=2025-07-01) is de vervoerder aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van bagage, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer tenzij en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen niet heeft kunnen verhinderen.
 
 ##### Artikel 507
 
@@ -1455,11 +1455,11 @@ De vervoerder is ter zake van door de reiziger aan boord gebrachte zaken die hij
 
 ##### Artikel 509
 
-Onverminderd [artikel 508](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=508&z=2024-01-01&g=2024-01-01) en onverminderd [artikel 179 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=179) is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.
+Onverminderd [artikel 508](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=508&z=2025-07-01&g=2025-07-01) en onverminderd [artikel 179 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=179) is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.
 
 ##### Artikel 510
 
-1. Onverminderd de bepalingen van deze afdeling zijn op het vervoer van bagage de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2024-01-01&g=2024-01-01), [387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2024-01-01&g=2024-01-01), [388, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2024-01-01&g=2024-01-01), [389](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=389&z=2024-01-01&g=2024-01-01), [394, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=394&z=2024-01-01&g=2024-01-01), [395](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=395&z=2024-01-01&g=2024-01-01), [396](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=396&z=2024-01-01&g=2024-01-01), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2024-01-01&g=2024-01-01), [488 tot en met 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2024-01-01&g=2024-01-01) en [493 tot en met 496](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=493&z=2024-01-01&g=2024-01-01) van toepassing. De in [artikel 396](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=396&z=2024-01-01&g=2024-01-01) bedoelde opzegging kan ook mondeling geschieden. De in [artikel 489](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=489&z=2024-01-01&g=2024-01-01) toegekende rechten en het in [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2024-01-01&g=2024-01-01) toegekende recht tot het zich laten voldoen uit het in bewaring te stellen bedrag van kosten ter zake van het vervoer kunnen worden uitgeoefend voor alles wat de wederpartij van de vervoerder of de reiziger aan de vervoerder verschuldigd is.
+1. Onverminderd de bepalingen van deze afdeling zijn op het vervoer van bagage de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=378&z=2025-07-01&g=2025-07-01), [387](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=387&z=2025-07-01&g=2025-07-01), [388, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), [389](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=389&z=2025-07-01&g=2025-07-01), [394, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=394&z=2025-07-01&g=2025-07-01), [395](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=395&z=2025-07-01&g=2025-07-01), [396](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=396&z=2025-07-01&g=2025-07-01), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=398&z=2025-07-01&g=2025-07-01), [488 tot en met 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2025-07-01&g=2025-07-01) en [493 tot en met 496](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=493&z=2025-07-01&g=2025-07-01) van toepassing. De in [artikel 396](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=396&z=2025-07-01&g=2025-07-01) bedoelde opzegging kan ook mondeling geschieden. De in [artikel 489](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=489&z=2025-07-01&g=2025-07-01) toegekende rechten en het in [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) toegekende recht tot het zich laten voldoen uit het in bewaring te stellen bedrag van kosten ter zake van het vervoer kunnen worden uitgeoefend voor alles wat de wederpartij van de vervoerder of de reiziger aan de vervoerder verschuldigd is.
 
 2. Partijen hebben de vrijheid af te wijken van in het eerste lid op hun onderlinge verhouding toepasselijk verklaarde bepalingen.
 
@@ -1493,7 +1493,7 @@ Indien personen van wier hulp de vervoerder bij de uitvoering van zijn verbinten
 
 ##### Artikel 515
 
-Behoudens [artikel 516](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=516&z=2024-01-01&g=2024-01-01) is de vervoerder die zich, anders dan bij wijze van bevrachting, verbond tot vervoer volgens een dienstregeling, niet aansprakelijk voor schade die is veroorzaakt door vertraging, door welke oorzaak dan ook, voor, tijdens of na het vervoer opgetreden.
+Behoudens [artikel 516](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=516&z=2025-07-01&g=2025-07-01) is de vervoerder die zich, anders dan bij wijze van bevrachting, verbond tot vervoer volgens een dienstregeling, niet aansprakelijk voor schade die is veroorzaakt door vertraging, door welke oorzaak dan ook, voor, tijdens of na het vervoer opgetreden.
 
 ##### Artikel 516
 
@@ -1501,9 +1501,9 @@ Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade gel
 
 ##### Artikel 517
 
-1. Behoudens de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2024-01-01&g=2024-01-01) is de vervoerder niet aansprakelijk voor schade ontstaan door een handeling, onachtzaamheid of nalatigheid van de kapitein of de schipper, een ander lid van de bemanning, de loods of de ondergeschikten van de vervoerder, gepleegd bij de navigatie van het schip.
+1. Behoudens de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2025-07-01&g=2025-07-01) is de vervoerder niet aansprakelijk voor schade ontstaan door een handeling, onachtzaamheid of nalatigheid van de kapitein of de schipper, een ander lid van de bemanning, de loods of de ondergeschikten van de vervoerder, gepleegd bij de navigatie van het schip.
 
-2. Behoudens de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2024-01-01&g=2024-01-01) wordt generlei afwijking van de koers tot redding of poging tot redding van mensenlevens of goederen en generlei redelijke afwijking van de koers beschouwd als een schending van enige vervoerovereenkomst en de vervoerder is niet aansprakelijk voor enig verlies of enige schade daardoor ontstaan.
+2. Behoudens de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2025-07-01&g=2025-07-01) wordt generlei afwijking van de koers tot redding of poging tot redding van mensenlevens of goederen en generlei redelijke afwijking van de koers beschouwd als een schending van enige vervoerovereenkomst en de vervoerder is niet aansprakelijk voor enig verlies of enige schade daardoor ontstaan.
 
 ##### Artikel 518
 
@@ -1513,7 +1513,7 @@ Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade gel
 
 ##### Artikel 518a
 
-1. De aansprakelijkheid van de vervoerder ter zake van vertraging van een reiziger en verlies of beschadiging van diens hutbagage is beperkt tot een bedrag van ten hoogste 1 800 rekeneenheden per reiziger; onder hutbagage is, in afwijking van [artikel 500, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2024-01-01&g=2024-01-01), niet begrepen de bagage aan boord van een als bagage ten vervoer aangenomen voertuig of schip.
+1. De aansprakelijkheid van de vervoerder ter zake van vertraging van een reiziger en verlies of beschadiging van diens hutbagage is beperkt tot een bedrag van ten hoogste 1 800 rekeneenheden per reiziger; onder hutbagage is, in afwijking van [artikel 500, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2025-07-01&g=2025-07-01), niet begrepen de bagage aan boord van een als bagage ten vervoer aangenomen voertuig of schip.
 
 2. De aansprakelijkheid van de vervoerder ter zake van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip, met inbegrip van de bagage aan boord daarvan, is beperkt tot een bedrag van ten hoogste 10 000 rekeneenheden per voertuig of schip.
 
@@ -1527,15 +1527,15 @@ Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade gel
 
 ##### Artikel 518b
 
-Met betrekking tot de rekeneenheid, bedoeld in de [artikelen 518](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2024-01-01&g=2024-01-01) en [518a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518a&z=2024-01-01&g=2024-01-01), is [artikel 759](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=759&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Met betrekking tot de rekeneenheid, bedoeld in de [artikelen 518](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2025-07-01&g=2025-07-01) en [518a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518a&z=2025-07-01&g=2025-07-01), is [artikel 759](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=759&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 518c
 
-In de bedragen, genoemd in de [artikelen 518](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2024-01-01&g=2024-01-01) en [518a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518a&z=2024-01-01&g=2024-01-01), is de wettelijke rente niet begrepen.
+In de bedragen, genoemd in de [artikelen 518](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2025-07-01&g=2025-07-01) en [518a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518a&z=2025-07-01&g=2025-07-01), is de wettelijke rente niet begrepen.
 
 ##### Artikel 518d
 
-De [artikelen 518 tot en met 518c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2024-01-01&g=2024-01-01) laten [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2024-01-01&g=2024-01-01) onverlet.
+De [artikelen 518 tot en met 518c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=518&z=2025-07-01&g=2025-07-01) laten [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01) onverlet.
 
 ##### Artikel 519
 
@@ -1545,7 +1545,7 @@ De [artikelen 518 tot en met 518c](https://wetten.overheid.nl/jci1.3:c:BWBR00287
 
 ##### Artikel 520
 
-Nietig is ieder vóór het aan de reiziger overkomen voorval of vóór het verlies of de beschadiging van bagage gemaakt beding, waarbij de ingevolge de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2024-01-01&g=2024-01-01) en [516](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=516&z=2024-01-01&g=2024-01-01) op de vervoerder drukkende aansprakelijkheid of bewijslast wordt verminderd op andere wijze dan in deze afdeling is voorzien.
+Nietig is ieder vóór het aan de reiziger overkomen voorval of vóór het verlies of de beschadiging van bagage gemaakt beding, waarbij de ingevolge de [artikelen 504 tot en met 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=504&z=2025-07-01&g=2025-07-01) en [516](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=516&z=2025-07-01&g=2025-07-01) op de vervoerder drukkende aansprakelijkheid of bewijslast wordt verminderd op andere wijze dan in deze afdeling is voorzien.
 
 ##### Artikel 521
 
@@ -1603,7 +1603,7 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 
 1. Onder de overeenkomst (rompbevrachting) waarbij de ene partij (de rompvervrachter) zich verbindt een schip uitsluitend ter zee ter beschikking te stellen van haar wederpartij (de rompbevrachter) zonder daarover nog enige zeggenschap te houden, ligt de exploitatie van het schip in handen van de rompbevrachter en geschiedt zij voor diens rekening.
 
-2. [Artikel 375](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=375&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
+2. [Artikel 375](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=375&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 531
 
@@ -1625,7 +1625,7 @@ Aanvaring is de aanraking van schepen met elkaar.
 
 ##### Artikel 541
 
-Het in deze afdeling omtrent aanvaring bepaalde vindt onder voorbehoud van de [Wet aansprakelijkheid olietankschepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028324) en de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&z=2024-01-01&g=2024-01-01) van deze titel eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.
+Het in deze afdeling omtrent aanvaring bepaalde vindt onder voorbehoud van de [Wet aansprakelijkheid olietankschepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028324) en de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&z=2025-07-01&g=2025-07-01) van deze titel eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.
 
 ##### Artikel 542
 
@@ -1645,7 +1645,7 @@ Indien de aanvaring is veroorzaakt door de schuld van één schip, is de eigenaa
 
 2. Is de aansprakelijkheid niet hoofdelijk, dan zijn de eigenaren van de schepen die gezamenlijk door hun schuld de aanvaring hebben veroorzaakt, tegenover de benadeelden aansprakelijk in verhouding tot het gewicht van de schuld van hun schepen; indien echter de omstandigheden meebrengen, dat die verhouding niet kan worden vastgesteld of indien blijkt dat de schuld van deze schepen gelijkwaardig is wordt de aansprakelijkheid in gelijke delen verdeeld.
 
-3. Is de aansprakelijkheid hoofdelijk, dan moet elk der aansprakelijke eigenaren zijn door het tweede lid vastgestelde aandeel in de betaling aan de schuldeiser voor zijn rekening nemen. Onder voorbehoud van [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=364&z=2024-01-01&g=2024-01-01) heeft hij, die meer dan zijn aandeel heeft betaald, voor het overschot verhaal op zijn medeschuldenaren, die minder dan hun aandeel hebben betaald.
+3. Is de aansprakelijkheid hoofdelijk, dan moet elk der aansprakelijke eigenaren zijn door het tweede lid vastgestelde aandeel in de betaling aan de schuldeiser voor zijn rekening nemen. Onder voorbehoud van [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=364&z=2025-07-01&g=2025-07-01) heeft hij, die meer dan zijn aandeel heeft betaald, voor het overschot verhaal op zijn medeschuldenaren, die minder dan hun aandeel hebben betaald.
 
 ##### Artikel 546
 
@@ -1719,7 +1719,7 @@ De bepalingen omtrent hulpverlening zijn van overeenkomstige toepassing in geval
 
 1. Wanneer een schip door de bemanning is verlaten en door hulpverleners of de strandvonder is overgenomen, staat het de kapitein steeds vrij naar zijn schip terug te keren en het gezag daarover te hernemen, in welk geval de hulpverleners of de strandvonder terstond het gezag aan de kapitein moeten overdragen.
 
-2. Indien de kapitein of de rechthebbende bij de hulpverlening of ter plaatse, waar de geredde zaken worden aangebracht, tegenwoordig is en dit de hulpverlener of de strandvonder bekend is, moeten de hulpverleners of de strandvonder, onverminderd [artikel 571](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=571&z=2024-01-01&g=2024-01-01), die zaken terstond te zijner beschikking stellen.
+2. Indien de kapitein of de rechthebbende bij de hulpverlening of ter plaatse, waar de geredde zaken worden aangebracht, tegenwoordig is en dit de hulpverlener of de strandvonder bekend is, moeten de hulpverleners of de strandvonder, onverminderd [artikel 571](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=571&z=2025-07-01&g=2025-07-01), die zaken terstond te zijner beschikking stellen.
 
 3. In de gevallen, waarin de geredde zaken niet op grond van het tweede lid terstond ter beschikking van de kapitein of van de rechthebbende moeten worden gesteld, moeten zij, voor zover zij tijdens de hulpverlening zich aan of op de buitengronden of het vaste zeestrand bevinden, terstond ter beschikking worden gesteld van de strandvonder.
 
@@ -1749,13 +1749,13 @@ De bepalingen omtrent hulpverlening zijn van overeenkomstige toepassing in geval
 
 1. Hulp die met gunstig gevolg is verleend geeft recht op hulploon.
 
-2. Behoudens [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2024-01-01&g=2024-01-01), is geen betaling krachtens deze afdeling verschuldigd, wanneer de hulp geen gunstig gevolg heeft gehad.
+2. Behoudens [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2025-07-01&g=2025-07-01), is geen betaling krachtens deze afdeling verschuldigd, wanneer de hulp geen gunstig gevolg heeft gehad.
 
 3. Hulp als omschreven in het eerste lid geeft recht op hulploon, ook al is de tot hulploon gerechtigde of hij, die gerechtigd is de vaststelling van het hulploon te vorderen, dezelfde persoon als hij, die hulploon verschuldigd is.
 
 ##### Artikel 562
 
-Indien een partij bij een overeenkomst omtrent hulpverlening door haar wederpartij daarbij ter zake van een bij de hulpverlening veroorzaakte schade buiten overeenkomst wordt aangesproken, is zij jegens die wederpartij niet verder aansprakelijk dan zij dit zou zijn op grond van de door hen gesloten overeenkomst. De [artikelen 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=365&z=2024-01-01&g=2024-01-01) en [366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=366&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+Indien een partij bij een overeenkomst omtrent hulpverlening door haar wederpartij daarbij ter zake van een bij de hulpverlening veroorzaakte schade buiten overeenkomst wordt aangesproken, is zij jegens die wederpartij niet verder aansprakelijk dan zij dit zou zijn op grond van de door hen gesloten overeenkomst. De [artikelen 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=365&z=2025-07-01&g=2025-07-01) en [366](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=366&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 563
 
@@ -1791,17 +1791,17 @@ Indien een partij bij een overeenkomst omtrent hulpverlening door haar wederpart
 
 ##### Artikel 564
 
-1. Indien een hulpverlener hulp heeft verleend aan een schip dat zelf of wegens zijn lading schade dreigde toe te brengen aan het milieu en hij geen hulploon heeft verkregen krachtens [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01) dat ten minste gelijk is aan de volgens dit artikel vast te stellen bijzondere vergoeding, heeft hij recht op een bijzondere vergoeding van de zijde van de reder, gelijk aan de door hem gemaakte kosten zoals in dit artikel omschreven.
+1. Indien een hulpverlener hulp heeft verleend aan een schip dat zelf of wegens zijn lading schade dreigde toe te brengen aan het milieu en hij geen hulploon heeft verkregen krachtens [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01) dat ten minste gelijk is aan de volgens dit artikel vast te stellen bijzondere vergoeding, heeft hij recht op een bijzondere vergoeding van de zijde van de reder, gelijk aan de door hem gemaakte kosten zoals in dit artikel omschreven.
 
-2. Indien de hulpverlener in de in het eerste lid bedoelde omstandigheden door zijn hulpverleningswerkzaamheden schade aan het milieu heeft voorkomen of heeft beperkt, kan de door de reder volgens het eerste lid aan de hulpverlener te betalen bijzondere vergoeding worden verhoogd met maximaal 30% van de door de hulpverlener gemaakte kosten. Indien echter de rechter, rekening houdend met de in [artikel 563, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01), genoemde criteria, zulks billijk en rechtvaardig acht, kan hij die bijzondere vergoeding verder verhogen, maar de totale verhoging mag in geen geval meer bedragen dan 100% van de door de hulpverlener gemaakte kosten.
+2. Indien de hulpverlener in de in het eerste lid bedoelde omstandigheden door zijn hulpverleningswerkzaamheden schade aan het milieu heeft voorkomen of heeft beperkt, kan de door de reder volgens het eerste lid aan de hulpverlener te betalen bijzondere vergoeding worden verhoogd met maximaal 30% van de door de hulpverlener gemaakte kosten. Indien echter de rechter, rekening houdend met de in [artikel 563, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01), genoemde criteria, zulks billijk en rechtvaardig acht, kan hij die bijzondere vergoeding verder verhogen, maar de totale verhoging mag in geen geval meer bedragen dan 100% van de door de hulpverlener gemaakte kosten.
 
-3. Voor de toepassing van het eerste en tweede lid worden onder kosten van de hulpverlener verstaan de voorschotten die door de hulpverlener redelijkerwijs zijn gedaan bij de hulpverlening en een billijk tarief voor uitrusting en personeel die daadwerkelijk en redelijkerwijs zijn ingezet tijdens de hulpverlening, in aanmerking nemend de criteria, genoemd in [artikel 563, tweede lid, onderdelen h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01).
+3. Voor de toepassing van het eerste en tweede lid worden onder kosten van de hulpverlener verstaan de voorschotten die door de hulpverlener redelijkerwijs zijn gedaan bij de hulpverlening en een billijk tarief voor uitrusting en personeel die daadwerkelijk en redelijkerwijs zijn ingezet tijdens de hulpverlening, in aanmerking nemend de criteria, genoemd in [artikel 563, tweede lid, onderdelen h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01).
 
-4. De totale bijzondere vergoeding krachtens dit artikel wordt slechts betaald indien en voor zover deze vergoeding hoger is dan het hulploon dat de hulpverlener krachtens [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01) kan ontvangen.
+4. De totale bijzondere vergoeding krachtens dit artikel wordt slechts betaald indien en voor zover deze vergoeding hoger is dan het hulploon dat de hulpverlener krachtens [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01) kan ontvangen.
 
 5. Indien de hulpverlener nalatig is geweest en daardoor in gebreke is gebleven schade aan het milieu te voorkomen of te beperken, kan de rechter de krachtens dit artikel verschuldigde bijzondere vergoeding geheel of gedeeltelijk ontzeggen.
 
-6. De rechter die een hulploon vaststelt als bedoeld in [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01) en een bijzondere vergoeding bepaalt als bedoeld in het eerste lid, is niet verplicht om het bedrag van het hulploon vast te stellen tot het beloop van de maximale waarde van het schip en de andere geredde goederen alvorens het bedrag van de bijzondere vergoeding te bepalen.
+6. De rechter die een hulploon vaststelt als bedoeld in [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01) en een bijzondere vergoeding bepaalt als bedoeld in het eerste lid, is niet verplicht om het bedrag van het hulploon vast te stellen tot het beloop van de maximale waarde van het schip en de andere geredde goederen alvorens het bedrag van de bijzondere vergoeding te bepalen.
 
 7. Het eerste tot en met het zesde lid doen geen afbreuk aan enig recht van verhaal van de reder van het schip.
 
@@ -1827,7 +1827,7 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 
 ##### Artikel 568
 
-1. Geen recht op betaling krachtens deze afdeling hebben zij, die hulp verleenden niettegenstaande een uitdrukkelijk en redelijk verbod als bedoeld in [artikel 557, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=557&z=2024-01-01&g=2024-01-01).
+1. Geen recht op betaling krachtens deze afdeling hebben zij, die hulp verleenden niettegenstaande een uitdrukkelijk en redelijk verbod als bedoeld in [artikel 557, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=557&z=2025-07-01&g=2025-07-01).
 
 2. Opvarenden kunnen wegens hulp door hen verleend aan het schip, zich aan boord daarvan bevindende zaken of daarvan afkomstige driftige, aangespoelde of gezonken zaken, slechts recht op betaling hebben, wanneer door hen diensten zijn bewezen, waartoe zij redelijkerwijs niet zijn gehouden.
 
@@ -1843,21 +1843,21 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 
 3. Indien door een schip hulp is verleend, is uitsluitend de reder of de kapitein bevoegd omtrent het hulploon of de bijzondere vergoeding overeen te komen. De door hem gesloten overeenkomst bindt alle tot het hulploon of de bijzondere vergoeding gerechtigden. Hij is verplicht ieder van hen vóór de uitbetaling desverlangd het bedrag van het hulploon of de bijzondere vergoeding schriftelijk mee te delen. Bij gebreke van een overeenkomst is uitsluitend hij, niet alleen gerechtigd, doch ook verplicht gerechtelijke vaststelling van het hulploon of de bijzondere vergoeding te vorderen en dit te innen.
 
-4. In het in [artikel 561, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=561&z=2024-01-01&g=2024-01-01), bedoelde geval is iedere tot hulploon of bijzondere vergoeding gerechtigde bevoegd de vaststelling daarvan door de rechter te vorderen, ook al mocht over het hulploon of de bijzondere vergoeding een overeenkomst zijn gesloten.
+4. In het in [artikel 561, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=561&z=2025-07-01&g=2025-07-01), bedoelde geval is iedere tot hulploon of bijzondere vergoeding gerechtigde bevoegd de vaststelling daarvan door de rechter te vorderen, ook al mocht over het hulploon of de bijzondere vergoeding een overeenkomst zijn gesloten.
 
 ##### Artikel 570
 
-1. De verdeling van een hulploon als bedoeld in [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01) tussen hulpverleners geschiedt volgens de in dat artikel genoemde criteria.
+1. De verdeling van een hulploon als bedoeld in [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01) tussen hulpverleners geschiedt volgens de in dat artikel genoemde criteria.
 
-2. De verdeling van een bijzondere vergoeding als bedoeld in [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2024-01-01&g=2024-01-01) tussen hulpverleners geschiedt met in aanmerkingneming van de criteria, genoemd in [artikel 563, tweede lid, onderdelen h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2024-01-01&g=2024-01-01).
+2. De verdeling van een bijzondere vergoeding als bedoeld in [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2025-07-01&g=2025-07-01) tussen hulpverleners geschiedt met in aanmerkingneming van de criteria, genoemd in [artikel 563, tweede lid, onderdelen h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=563&z=2025-07-01&g=2025-07-01).
 
 3. Bij geschillen omtrent de verdeling van het hulploon en de bijzondere vergoeding tussen de daartoe gerechtigden wordt deze op vordering van de meest gerede partij door de rechter vastgesteld.
 
 ##### Artikel 571
 
-1. Hij, die gerechtigd is vaststelling van het hulploon te vorderen, heeft – behoudens [artikel 559, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=559&z=2024-01-01&g=2024-01-01) – jegens ieder, die daarvan afgifte verlangt, een retentierecht op de schepen of zaken, waaraan hulp is verleend, alsmede op de schepen aan welker zich aan boord bevindende zaken hulp is verleend, voor hetgeen ter zake van hulploon is verschuldigd.
+1. Hij, die gerechtigd is vaststelling van het hulploon te vorderen, heeft – behoudens [artikel 559, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=559&z=2025-07-01&g=2025-07-01) – jegens ieder, die daarvan afgifte verlangt, een retentierecht op de schepen of zaken, waaraan hulp is verleend, alsmede op de schepen aan welker zich aan boord bevindende zaken hulp is verleend, voor hetgeen ter zake van hulploon is verschuldigd.
 
-2. Ter zake van de in [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2024-01-01&g=2024-01-01) bedoelde bijzondere vergoeding kan dit retentierecht worden uitgeoefend op de schepen, waaraan hulp is verleend.
+2. Ter zake van de in [artikel 564](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=564&z=2025-07-01&g=2025-07-01) bedoelde bijzondere vergoeding kan dit retentierecht worden uitgeoefend op de schepen, waaraan hulp is verleend.
 
 3. Dit retentierecht vervalt zodra is betaald het bedrag, waarover geen geschil tussen partijen bestaat, en voldoende zekerheid is gesteld voor de betaling van die bedragen, waaromtrent wel geschil bestaat of welker hoogte nog niet kan worden vastgesteld.
 
@@ -1871,7 +1871,7 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 
 1. De rechter kan, voordat hij het hulploon of de bijzondere vergoeding vaststelt, bevelen dat aan degene die gerechtigd is de vaststelling daarvan te vorderen, een naar billijkheid te bepalen bedrag bij wijze van voorschot wordt betaald. De rechter kan aan dit bevel voorwaarden verbinden die gezien de omstandigheden billijk zijn, daaronder begrepen de voorwaarde dat voor de gehele of gedeeltelijke terugbetaling van het voorschot zekerheid zal worden gesteld.
 
-2. Is krachtens [artikel 572](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=572&z=2024-01-01&g=2024-01-01) zekerheid gesteld, dan wordt het bedrag van de gestelde zekerheid verminderd met het bedrag van het betaalde voorschot.
+2. Is krachtens [artikel 572](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=572&z=2025-07-01&g=2025-07-01) zekerheid gesteld, dan wordt het bedrag van de gestelde zekerheid verminderd met het bedrag van het betaalde voorschot.
 
 ##### Artikel 574
 
@@ -1881,7 +1881,7 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 
 ##### Artikel 575
 
-1. In geval van toepassing van [artikel 574](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=574&z=2024-01-01&g=2024-01-01) kan hij, die gerechtigd is vaststelling van het hulploon of de bijzondere vergoeding te vorderen, de bewaarnemer dan wel de rechthebbende op de schepen of andere zaken, op zijn verzoek door de rechter worden gemachtigd hen geheel of gedeeltelijk op de door deze te bepalen wijze te verkopen.
+1. In geval van toepassing van [artikel 574](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=574&z=2025-07-01&g=2025-07-01) kan hij, die gerechtigd is vaststelling van het hulploon of de bijzondere vergoeding te vorderen, de bewaarnemer dan wel de rechthebbende op de schepen of andere zaken, op zijn verzoek door de rechter worden gemachtigd hen geheel of gedeeltelijk op de door deze te bepalen wijze te verkopen.
 
 2. De bewaarnemer is verplicht degene die de zaken in bewaring gaf, zo spoedig mogelijk van de voorgenomen verkoop op de hoogte te stellen; degene die de zaken in bewaring gaf of onder zich hield, heeft deze verplichting jegens de hem bekende rechthebbenden op de zaken.
 
@@ -1923,11 +1923,11 @@ De vergoedingen in avarij-grosse en de dragende waarden der in de avarij-grosse 
 
 ##### Artikel 750
 
-1. De reder van een schip en de hulpverlener kunnen door het stellen van een of meer fondsen als bedoeld in [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) hun aansprakelijkheid beperken voor de in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2024-01-01&g=2024-01-01) genoemde vorderingen.
+1. De reder van een schip en de hulpverlener kunnen door het stellen van een of meer fondsen als bedoeld in [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) hun aansprakelijkheid beperken voor de in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2025-07-01&g=2025-07-01) genoemde vorderingen.
 
 2. Onder reder worden in deze titel mede verstaan de bevrachter, de huurder of andere gebruiker van een schip, met inbegrip van degene in wiens handen de exploitatie van een schip is gelegd.
 
-3. Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in [artikel 752, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2024-01-01&g=2024-01-01), genoemde werkzaamheden of maatregelen.
+3. Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in [artikel 752, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2025-07-01&g=2025-07-01), genoemde werkzaamheden of maatregelen.
 
 4. Onder schip wordt in deze titel zeeschip verstaan. Een schip in aanbouw wordt voor de toepassing van deze titel mede als schip aangemerkt van het ogenblik af, dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als schip aangemerkt. Een platform dat is gebouwd ter exploratie of exploitatie van de natuurlijke rijkdommen van de zeebodem of van de ondergrond daarvan en dat kan drijven, wordt voor de toepassing van deze titel niet als schip aangemerkt gedurende de tijd dat het op de zeebodem rust.
 
@@ -1935,13 +1935,13 @@ De vergoedingen in avarij-grosse en de dragende waarden der in de avarij-grosse 
 
 ##### Artikel 751
 
-1. Indien een vordering als bedoeld in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2024-01-01&g=2024-01-01) wordt gericht tegen enige persoon voor wiens handeling, onachtzaamheid of nalatigheid de reder of de hulpverlener in beginsel aansprakelijk is, heeft deze persoon de in deze titel verleende bevoegdheid tot beperking van zijn aansprakelijkheid.
+1. Indien een vordering als bedoeld in [artikel 752](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=752&z=2025-07-01&g=2025-07-01) wordt gericht tegen enige persoon voor wiens handeling, onachtzaamheid of nalatigheid de reder of de hulpverlener in beginsel aansprakelijk is, heeft deze persoon de in deze titel verleende bevoegdheid tot beperking van zijn aansprakelijkheid.
 
 2. De verzekeraar van de aansprakelijkheid voor vorderingen, waarvoor op grond van deze titel beperking van aansprakelijkheid mogelijk is, kan zich in dezelfde mate als zijn verzekerde op die beperking beroepen.
 
 ##### Artikel 752
 
-1. Onder voorbehoud van de [artikelen 753](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=753&z=2024-01-01&g=2024-01-01) en [754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=754&z=2024-01-01&g=2024-01-01) bestaat de bevoegdheid tot beperking van aansprakelijkheid voor de hierna genoemde vorderingen ingesteld hetzij op grond van overeenkomst, hetzij buiten overeenkomst en zelfs wanneer de aansprakelijkheid uitsluitend voortvloeit uit eigendom of bezit van of een voorrecht op het schip of uit het feit, dat dit onder hoede of toezicht is van degene die zich op de beperking van aansprakelijkheid beroept:
+1. Onder voorbehoud van de [artikelen 753](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=753&z=2025-07-01&g=2025-07-01) en [754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=754&z=2025-07-01&g=2025-07-01) bestaat de bevoegdheid tot beperking van aansprakelijkheid voor de hierna genoemde vorderingen ingesteld hetzij op grond van overeenkomst, hetzij buiten overeenkomst en zelfs wanneer de aansprakelijkheid uitsluitend voortvloeit uit eigendom of bezit van of een voorrecht op het schip of uit het feit, dat dit onder hoede of toezicht is van degene die zich op de beperking van aansprakelijkheid beroept:
 
 - a. vorderingen ter zake van dood of letsel, dan wel ter zake van verlies van of schade aan zaken, met inbegrip van schade aan kunstwerken van havens, aan dokken, waterwegen of hulpmiddelen voor de scheepvaart, opgekomen aan boord van het schip of in rechtstreeks verband met de exploitatie van het schip of met werkzaamheden ter hulpverlening, alsmede voor vorderingen ter zake van schade ten gevolge van een of ander;
 
@@ -1979,7 +1979,7 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 ##### Artikel 755
 
-1. Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2024-01-01&g=2024-01-01) die naar aanleiding van éénzelfde voorval zijn ontstaan worden beperkt tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
+1. Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01) die naar aanleiding van éénzelfde voorval zijn ontstaan worden beperkt tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
 2. Voor schepen, die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, kan bij algemene maatregel van bestuur het bedrag waartoe uit hoofde van deze titel de aansprakelijkheid voor de in het eerste lid, aanhef en onderdeel b, bedoelde vorderingen kan worden beperkt, op een lager aantal rekeneenheden worden gesteld dan bedoeld in het eerste lid, onderdeel b, onder 1°.
 
@@ -2005,23 +2005,23 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 ##### Artikel 757
 
-Aan de bedragen vermeld in de [artikelen 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2024-01-01&g=2024-01-01) en [756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2024-01-01&g=2024-01-01) wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) opgelegd bevel.
+Aan de bedragen vermeld in de [artikelen 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01) en [756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01) wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) opgelegd bevel.
 
 ##### Artikel 758
 
-1. De beperking van aansprakelijkheid als vastgesteld in [artikel 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2024-01-01&g=2024-01-01) geldt voor het geheel van de naar aanleiding van éénzelfde voorval ontstane vorderingen gericht tegen:
+1. De beperking van aansprakelijkheid als vastgesteld in [artikel 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01) geldt voor het geheel van de naar aanleiding van éénzelfde voorval ontstane vorderingen gericht tegen:
 
-- a. de persoon of personen bedoeld in [artikel 750, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=750&z=2024-01-01&g=2024-01-01), en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid dezen in beginsel aansprakelijk zijn, of
+- a. de persoon of personen bedoeld in [artikel 750, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=750&z=2025-07-01&g=2025-07-01), en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid dezen in beginsel aansprakelijk zijn, of
 
 - b. de reder van een schip die van dat schip uit hulp verleent, en de hulpverlener of hulpverleners die van dat schip uit hun werkzaamheden verricht of verrichten en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid deze personen in beginsel aansprakelijk zijn, of
 
 - c. de hulpverlener of hulpverleners aan een schip die niet van een zeeschip uit werkzaamheden verricht of verrichten of die werkzaamheden verricht of verrichten uitsluitend op het schip waaraan of met betrekking waartoe hulp wordt verleend, en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid deze personen in beginsel aansprakelijk zijn.
 
-2. De beperking van aansprakelijkheid als vastgesteld in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2024-01-01&g=2024-01-01) geldt voor het geheel van de naar aanleiding van éénzelfde voorval ontstane vorderingen gericht tegen de persoon of de personen die in de in [artikel 750, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=750&z=2024-01-01&g=2024-01-01), bedoelde betrekking staan tot het in artikel 756 bedoelde schip, en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid dezen in beginsel aansprakelijk zijn.
+2. De beperking van aansprakelijkheid als vastgesteld in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01) geldt voor het geheel van de naar aanleiding van éénzelfde voorval ontstane vorderingen gericht tegen de persoon of de personen die in de in [artikel 750, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=750&z=2025-07-01&g=2025-07-01), bedoelde betrekking staan tot het in artikel 756 bedoelde schip, en enige persoon voor wiens handeling, onachtzaamheid of nalatigheid dezen in beginsel aansprakelijk zijn.
 
 ##### Artikel 759
 
-De rekeneenheid, bedoeld in de [artikelen 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2024-01-01&g=2024-01-01) en [756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2024-01-01&g=2024-01-01), is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen bedoeld in de artikelen 755 en 756 worden omgerekend in US dollar naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) gegeven bevel tot storting of andere zekerheidstelling. De waarde van de US dollar, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
+De rekeneenheid, bedoeld in de [artikelen 755](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01) en [756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01), is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen bedoeld in de artikelen 755 en 756 worden omgerekend in US dollar naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=642c) gegeven bevel tot storting of andere zekerheidstelling. De waarde van de US dollar, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
 
 ### V. Luchtrecht
 
@@ -2037,7 +2037,7 @@ In deze titel wordt verstaan onder:
 
 - b. **Verdragsstaat:** een staat waarvoor het Verdrag van Genève van kracht is;
 
-- c. **het register:** het register, bedoeld in [artikel 1302](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1302&z=2024-01-01&g=2024-01-01);
+- c. **het register:** het register, bedoeld in [artikel 1302](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1302&z=2025-07-01&g=2025-07-01);
 
 - d. **verdragsregister:** een in het buitenland gehouden register als bedoeld in artikel 1, eerste lid, onder ii, van het Verdrag van Genève;
 
@@ -2093,7 +2093,7 @@ Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van 
 
 ##### Artikel 1305
 
-De enige zakelijke rechten waarvan een in het register teboekstaand luchtvaartuig het voorwerp kan zijn, zijn de eigendom, de hypotheek en de zakelijke rechten, bedoeld in de [artikelen 1308](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1308&z=2024-01-01&g=2024-01-01) en [1309](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1309&z=2024-01-01&g=2024-01-01).
+De enige zakelijke rechten waarvan een in het register teboekstaand luchtvaartuig het voorwerp kan zijn, zijn de eigendom, de hypotheek en de zakelijke rechten, bedoeld in de [artikelen 1308](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1308&z=2025-07-01&g=2025-07-01) en [1309](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1309&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 1306
 
@@ -2123,7 +2123,7 @@ Onverminderd [artikel 260, eerste lid, van Boek 3](https://wetten.overheid.nl/jc
 
 ##### Artikel 1311
 
-De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de [artikelen 1315](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1315&z=2024-01-01&g=2024-01-01) en [1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2024-01-01&g=2024-01-01), doch vóór alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend.
+De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de [artikelen 1315](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1315&z=2025-07-01&g=2025-07-01) en [1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2025-07-01&g=2025-07-01), doch vóór alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend.
 
 ##### Artikel 1312
 
@@ -2149,7 +2149,7 @@ In geval van uitwinning van een luchtvaartuig dat teboekstaat in het register of
 
 ##### Artikel 1317
 
-1. Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend zijn, behoudens [artikel 1315](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1315&z=2024-01-01&g=2024-01-01), op een luchtvaartuig dat op het tijdstip van het ontstaan van de hierna bedoelde vorderingen teboekstaat in het register of in een verdragsregister, bevoorrecht:
+1. Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend zijn, behoudens [artikel 1315](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1315&z=2025-07-01&g=2025-07-01), op een luchtvaartuig dat op het tijdstip van het ontstaan van de hierna bedoelde vorderingen teboekstaat in het register of in een verdragsregister, bevoorrecht:
 
 - a. de vorderingen tot betaling van hulploon voor aan het luchtvaartuig verleende hulp;
 
@@ -2161,11 +2161,11 @@ In geval van uitwinning van een luchtvaartuig dat teboekstaat in het register of
 
 ##### Artikel 1318
 
-De bevoorrechte vorderingen, bedoeld in [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2024-01-01&g=2024-01-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen waarop de gebeurtenissen plaatsvonden, waardoor zij ontstonden.
+De bevoorrechte vorderingen, bedoeld in [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2025-07-01&g=2025-07-01), nemen onderling rang naar de omgekeerde volgorde van de tijdstippen waarop de gebeurtenissen plaatsvonden, waardoor zij ontstonden.
 
 ##### Artikel 1319
 
-De schuldeiser die een voorrecht heeft op grond van [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2024-01-01&g=2024-01-01), vervolgt zijn recht op het luchtvaartuig, in wiens handen dit zich ook moge bevinden.
+De schuldeiser die een voorrecht heeft op grond van [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2025-07-01&g=2025-07-01), vervolgt zijn recht op het luchtvaartuig, in wiens handen dit zich ook moge bevinden.
 
 ##### Artikel 1320
 
@@ -2175,7 +2175,7 @@ De schuldeiser die een voorrecht heeft op grond van [artikel 1317](https://wette
 
 3. De in het eerste lid genoemde termijn begint met de aanvang van de dag volgende op die,waarop de hulpverlening of de handeling tot behoud waardoor de vordering is ontstaan, is beëindigd.
 
-4. Voorrechten als bedoeld in [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2024-01-01&g=2024-01-01) kunnen worden ingeschreven in de openbare registers. [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
+4. Voorrechten als bedoeld in [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2025-07-01&g=2025-07-01) kunnen worden ingeschreven in de openbare registers. [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
 
 ### Afdeling 3. Slotbepaling
 
@@ -2193,11 +2193,11 @@ Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitv
 
 1. Een beding, waarbij een wettelijke termijn van verjaring of verval wordt gewijzigd, wordt aangemerkt als een beding ter wijziging van de aansprakelijkheid van hem, aan wie een beroep op deze termijn toekomt.
 
-2. Behoudens [artikel 1701](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1701&z=2024-01-01&g=2024-01-01) is ieder beding nietig, waarbij van het eerste lid wordt afgeweken.
+2. Behoudens [artikel 1701](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1701&z=2025-07-01&g=2025-07-01) is ieder beding nietig, waarbij van het eerste lid wordt afgeweken.
 
 ##### Artikel 1701
 
-Een termijn, bij afloop waarvan een rechtsvordering verjaart of vervalt, kan worden verlengd bij overeenkomst tussen partijen, gesloten nadat het feit, dat de rechtsvordering heeft doen ontstaan, heeft plaatsgehad. In afwijking van [artikel 1700, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1700&z=2024-01-01&g=2024-01-01), wordt een dergelijke verlenging niet aangemerkt als een wijziging van aansprakelijkheid van hem aan wie een beroep op een dergelijke termijn toekomt.
+Een termijn, bij afloop waarvan een rechtsvordering verjaart of vervalt, kan worden verlengd bij overeenkomst tussen partijen, gesloten nadat het feit, dat de rechtsvordering heeft doen ontstaan, heeft plaatsgehad. In afwijking van [artikel 1700, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1700&z=2025-07-01&g=2025-07-01), wordt een dergelijke verlenging niet aangemerkt als een wijziging van aansprakelijkheid van hem aan wie een beroep op een dergelijke termijn toekomt.
 
 ##### Artikel 1702
 
@@ -2207,23 +2207,23 @@ Het feit, dat een schuldenaar opzettelijk het bestaan van de schuld voor de schu
 
 ##### Artikel 1710
 
-In [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) en in de [artikelen 1713 tot en met 1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2024-01-01&g=2024-01-01) wordt verstaan onder:
+In [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) en in de [artikelen 1713 tot en met 1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01) wordt verstaan onder:
 
-- a. **vervoerovereenkomst:** een overeenkomst van goederenvervoer als bedoeld in [titel 2, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&z=2024-01-01&g=2024-01-01), en [titel 5, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2024-01-01&g=2024-01-01).
+- a. **vervoerovereenkomst:** een overeenkomst van goederenvervoer als bedoeld in [titel 2, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&z=2025-07-01&g=2025-07-01), en [titel 5, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2025-07-01&g=2025-07-01).
 
 - b. **vervoerder:** een vervoerder bij een vervoerovereenkomst.
 
 - c. **afzender:** een afzender, cognossementhouder, geadresseerde of ontvanger bij een vervoerovereenkomst.
 
-- d. **dag van aflevering:** dag waarop de onder de vervoerovereenkomst te vervoeren of vervoerde zaken uit het vervoermiddel zijn afgeleverd dan wel, indien zij niet zijn afgeleverd, onder de al dan niet tot uitvoering gekomen vervoerovereenkomst hadden moeten zijn afgeleverd; worden zaken na voortijdige beëindiging van de vervoerovereenkomst alsnog door de vervoerder in feite afgeleverd, dan geldt de dag dezer feitelijke aflevering als dag van aflevering; worden zaken op grond van [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2024-01-01&g=2024-01-01) dan wel enig beding van dusdanige strekking verkocht, dan geldt de dag van de verkoop als dag van aflevering.
+- d. **dag van aflevering:** dag waarop de onder de vervoerovereenkomst te vervoeren of vervoerde zaken uit het vervoermiddel zijn afgeleverd dan wel, indien zij niet zijn afgeleverd, onder de al dan niet tot uitvoering gekomen vervoerovereenkomst hadden moeten zijn afgeleverd; worden zaken na voortijdige beëindiging van de vervoerovereenkomst alsnog door de vervoerder in feite afgeleverd, dan geldt de dag dezer feitelijke aflevering als dag van aflevering; worden zaken op grond van [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) dan wel enig beding van dusdanige strekking verkocht, dan geldt de dag van de verkoop als dag van aflevering.
 
 ##### Artikel 1711
 
-Behoudens de [artikelen 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2024-01-01&g=2024-01-01) en [1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1720&z=2024-01-01&g=2024-01-01) verjaart een op een vervoerovereenkomst gegronde rechtsvordering door verloop van één jaar.
+Behoudens de [artikelen 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2025-07-01&g=2025-07-01) en [1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1720&z=2025-07-01&g=2025-07-01) verjaart een op een vervoerovereenkomst gegronde rechtsvordering door verloop van één jaar.
 
 ##### Artikel 1712
 
-1. De vervoerder bij een vervoerovereenkomst onder cognossement als bedoeld in [artikel 377](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=377&z=2024-01-01&g=2024-01-01) is in ieder geval van alle aansprakelijkheid, welke dan ook, met betrekking tot de vervoerde zaken ontheven, tenzij een rechtsvordering wordt ingesteld binnen één jaar, welke termijn begint met de aanvang van de dag volgende op de dag van aflevering of de dag waarop de zaken hadden moeten zijn afgeleverd.
+1. De vervoerder bij een vervoerovereenkomst onder cognossement als bedoeld in [artikel 377](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=377&z=2025-07-01&g=2025-07-01) is in ieder geval van alle aansprakelijkheid, welke dan ook, met betrekking tot de vervoerde zaken ontheven, tenzij een rechtsvordering wordt ingesteld binnen één jaar, welke termijn begint met de aanvang van de dag volgende op de dag van aflevering of de dag waarop de zaken hadden moeten zijn afgeleverd.
 
 2. In afwijking van het eerste lid kunnen rechtsvorderingen tot verhaal op een derde zelfs na afloop van de in dat lid bedoelde termijn worden ingesteld gedurende een termijn van drie maanden, te rekenen van de dag waarop degene die een zodanige rechtsvordering tot verhaal instelt ten aanzien van het van hemzelf gevorderde de zaak heeft geregeld of waarop hij te dien aanzien in rechte is aangesproken.
 
@@ -2231,43 +2231,43 @@ Behoudens de [artikelen 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&bo
 
 ##### Artikel 1713
 
-Behoudens [artikel 1716](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1716&z=2024-01-01&g=2024-01-01) en in afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) begint in geval van een door een afzender tegen een vervoerder ingestelde rechtsvordering ter zake van niet terbeschikkingstelling van het vervoermiddel of niet aanwezig zijn daarvan, de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn met de aanvang van de dag, volgende op de dag dat het vervoermiddel ter beschikking gesteld had moeten zijn.
+Behoudens [artikel 1716](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1716&z=2025-07-01&g=2025-07-01) en in afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) begint in geval van een door een afzender tegen een vervoerder ingestelde rechtsvordering ter zake van niet terbeschikkingstelling van het vervoermiddel of niet aanwezig zijn daarvan, de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn met de aanvang van de dag, volgende op de dag dat het vervoermiddel ter beschikking gesteld had moeten zijn.
 
 ##### Artikel 1714
 
-In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) en behoudens [artikel 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2024-01-01&g=2024-01-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn met de aanvang van de dag, volgende op de dag van aflevering, indien het een rechtsvordering betreft ter zake van:
+In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) en behoudens [artikel 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2025-07-01&g=2025-07-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn met de aanvang van de dag, volgende op de dag van aflevering, indien het een rechtsvordering betreft ter zake van:
 
 - a. het ten vervoer ter beschikking stellen of ontvangen van bepaalde zaken, verschaffen van opgaven, inlichtingen of documenten betreffende deze zaken, betrachten van zorg ten aanzien van deze documenten, adresseren van bepaalde zaken of aanbrengen van gegevens op die zaken of op hun verpakking;
 
 - b. het laden, behandelen, stuwen, herstuwen, vervoeren, lossen, opslaan, vernietigen of onschadelijk maken van bepaalde zaken dan wel berokkenen van schade door die zaken of door in- of uitladen daarvan;
 
-- c. het afleveren van bepaalde zaken, verschaffen van middelen tot onderzoek en natellen daarvan, betalen van vracht daarover of van onkosten of extra-vergoedingen in verband met deze zaken, vergoeden van de in [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2024-01-01&g=2024-01-01) bedoelde schade, en innen en afdragen van remboursgelden;
+- c. het afleveren van bepaalde zaken, verschaffen van middelen tot onderzoek en natellen daarvan, betalen van vracht daarover of van onkosten of extra-vergoedingen in verband met deze zaken, vergoeden van de in [artikel 488](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=488&z=2025-07-01&g=2025-07-01) bedoelde schade, en innen en afdragen van remboursgelden;
 
 - d. het invullen, aanvullen, dateren, ondertekenen of afgeven van een cognossement, vrachtbrief, ontvangstbewijs of een soortgelijk document.
 
 ##### Artikel 1715
 
-In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) en behoudens [artikel 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2024-01-01&g=2024-01-01) is op een rechtsvordering door de vervoerder of de afzender ingesteld met betrekking tot materiaal, dat van de zijde van de afzender ter beschikking moet worden gesteld of is gesteld, [artikel 1714](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1714&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing met dien verstande, dat in geval de vervoerder volgens de overeenkomst niet tot teruggave van het materiaal verplicht is onder de dag van aflevering daarvan mede wordt verstaan de dag, waarop dit materiaal te zijner beschikking werd gesteld.
+In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) en behoudens [artikel 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2025-07-01&g=2025-07-01) is op een rechtsvordering door de vervoerder of de afzender ingesteld met betrekking tot materiaal, dat van de zijde van de afzender ter beschikking moet worden gesteld of is gesteld, [artikel 1714](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1714&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing met dien verstande, dat in geval de vervoerder volgens de overeenkomst niet tot teruggave van het materiaal verplicht is onder de dag van aflevering daarvan mede wordt verstaan de dag, waarop dit materiaal te zijner beschikking werd gesteld.
 
 ##### Artikel 1716
 
-In afwijking van de [artikelen 1713](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2024-01-01&g=2024-01-01) en [1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn in geval van een rechtsvordering ter zake van schade geleden door opzegging of door voortijdige beëindiging van de vervoerovereenkomst zonder opzegging, met de aanvang van de dag volgende op de dag dat de overeenkomst eindigt.
+In afwijking van de [artikelen 1713](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01) en [1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn in geval van een rechtsvordering ter zake van schade geleden door opzegging of door voortijdige beëindiging van de vervoerovereenkomst zonder opzegging, met de aanvang van de dag volgende op de dag dat de overeenkomst eindigt.
 
 ##### Artikel 1717
 
-Behoudens de [artikelen 1713 tot en met 1716](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2024-01-01&g=2024-01-01), [1718](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1718&z=2024-01-01&g=2024-01-01), [1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2024-01-01&g=2024-01-01) en 1822 begint in geval van een rechtsvordering gegrond op een tijdbevrachting, de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn met de aanvang van de dag, volgende op die waarop de uitvoering van de overeenkomst is geëindigd; in geval van een rechtsvordering gegrond op een reisbevrachting begint deze termijn met de aanvang van de dag, volgende op die waarop de reis, naar aanleiding waarvan de vordering is ontstaan, is geëindigd.
+Behoudens de [artikelen 1713 tot en met 1716](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01), [1718](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1718&z=2025-07-01&g=2025-07-01), [1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1719&z=2025-07-01&g=2025-07-01) en 1822 begint in geval van een rechtsvordering gegrond op een tijdbevrachting, de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn met de aanvang van de dag, volgende op die waarop de uitvoering van de overeenkomst is geëindigd; in geval van een rechtsvordering gegrond op een reisbevrachting begint deze termijn met de aanvang van de dag, volgende op die waarop de reis, naar aanleiding waarvan de vordering is ontstaan, is geëindigd.
 
 ##### Artikel 1718
 
-In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn in geval van een rechtsvordering tot schadevergoeding, verschuldigd doordat aan een verplichting tot verwittigen of op de hoogte stellen niet werd voldaan, met de aanvang van de dag volgende op de dag waarop deze verplichting ontstond.
+In afwijking van [artikel 1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) begint de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn in geval van een rechtsvordering tot schadevergoeding, verschuldigd doordat aan een verplichting tot verwittigen of op de hoogte stellen niet werd voldaan, met de aanvang van de dag volgende op de dag waarop deze verplichting ontstond.
 
 ##### Artikel 1719
 
-In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1714&z=2024-01-01&g=2024-01-01), [1715](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1715&z=2024-01-01&g=2024-01-01) en [1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2024-01-01&g=2024-01-01) begint in geval van een door een vervoerder ingestelde rechtsvordering tot vergoeding van schade geleden door verlies of beschadiging van een vervoermiddel de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2024-01-01&g=2024-01-01) genoemde termijn met de aanvang van de dag, volgende op die waarop het verlies of de beschadiging plaatsvond.
+In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1714&z=2025-07-01&g=2025-07-01), [1715](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1715&z=2025-07-01&g=2025-07-01) en [1717](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1717&z=2025-07-01&g=2025-07-01) begint in geval van een door een vervoerder ingestelde rechtsvordering tot vergoeding van schade geleden door verlies of beschadiging van een vervoermiddel de in [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) genoemde termijn met de aanvang van de dag, volgende op die waarop het verlies of de beschadiging plaatsvond.
 
 ##### Artikel 1720
 
-1. Behoudens [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2024-01-01&g=2024-01-01) begint ten behoeve van een vervoerder of een afzender, voor zover deze verhaal zoekt op een partij bij een exploitatie-overeenkomst als bedoeld in [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01), voor hetgeen door hem aan een derde is verschuldigd, een nieuwe termijn van verjaring of verval, die drie maanden beloopt; deze termijn begint met de aanvang van de dag, volgende op de eerste der volgende dagen:
+1. Behoudens [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2025-07-01&g=2025-07-01) begint ten behoeve van een vervoerder of een afzender, voor zover deze verhaal zoekt op een partij bij een exploitatie-overeenkomst als bedoeld in [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01), voor hetgeen door hem aan een derde is verschuldigd, een nieuwe termijn van verjaring of verval, die drie maanden beloopt; deze termijn begint met de aanvang van de dag, volgende op de eerste der volgende dagen:
 
 - a. de dag waarop hij, die verhaal zoekt, aan de tot hem gerichte vordering heeft voldaan, of
 
@@ -2283,13 +2283,13 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel 1721
 
-1. Indien uit hoofde van de [artikelen 1710 tot en met 1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2024-01-01&g=2024-01-01) enige rechtsvordering in verschillende termijnen verjaart of vervalt dan wel te haren aanzien het begin van de termijn, waarbinnen de rechtsvordering verjaart of vervalt, verschilt, geldt die bepaling die de termijn van verjaring of verval het laatst doet eindigen.
+1. Indien uit hoofde van de [artikelen 1710 tot en met 1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01) enige rechtsvordering in verschillende termijnen verjaart of vervalt dan wel te haren aanzien het begin van de termijn, waarbinnen de rechtsvordering verjaart of vervalt, verschilt, geldt die bepaling die de termijn van verjaring of verval het laatst doet eindigen.
 
-2. Het eerste lid laat [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2024-01-01&g=2024-01-01) onverlet.
+2. Het eerste lid laat [artikel 1712](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1712&z=2025-07-01&g=2025-07-01) onverlet.
 
 ##### Artikel 1722
 
-1. De [artikelen 1710 tot en met 1721](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2024-01-01&g=2024-01-01) zijn van toepassing op overeenkomsten van gecombineerd goederenvervoer, met dien verstande, dat onder afzender mede de houder van een CT-document wordt verstaan en onder dag van aflevering, de dag van aflevering onder de overeenkomst van gecombineerd goederenvervoer.
+1. De [artikelen 1710 tot en met 1721](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01) zijn van toepassing op overeenkomsten van gecombineerd goederenvervoer, met dien verstande, dat onder afzender mede de houder van een CT-document wordt verstaan en onder dag van aflevering, de dag van aflevering onder de overeenkomst van gecombineerd goederenvervoer.
 
 2. Indien bij een overeenkomst van gecombineerd goederenvervoer aan hem die de rechtsvordering instelt niet bekend is waar de omstandigheid, die tot de rechtsvordering aanleiding gaf, is opgekomen, wordt die der in aanmerking komende bepalingen van verjaring of verval toegepast die voor hem de gunstigste is.
 
@@ -2299,19 +2299,19 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel 1730
 
-1. Een rechtsvordering gegrond op een overeenkomst als bedoeld in [titel 5, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&z=2024-01-01&g=2024-01-01), verjaart door verloop van één jaar.
+1. Een rechtsvordering gegrond op een overeenkomst als bedoeld in [titel 5, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&z=2025-07-01&g=2025-07-01), verjaart door verloop van één jaar.
 
-2. De [artikelen 1710](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2024-01-01&g=2024-01-01), [1713 tot en met 1722](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2024-01-01&g=2024-01-01) en [1750 tot en met 1754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=5&artikel=1750&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 1710](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01), [1713 tot en met 1722](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01) en [1750 tot en met 1754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=5&artikel=1750&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 2. Goederenvervoer
 
 ##### Artikel 1740
 
-1. Behoudens [artikel 1741](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=4&artikel=1741&z=2024-01-01&g=2024-01-01) verjaart een op een overeenkomst tot het doen vervoeren van goederen gegronde rechtsvordering door verloop van negen maanden.
+1. Behoudens [artikel 1741](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=4&artikel=1741&z=2025-07-01&g=2025-07-01) verjaart een op een overeenkomst tot het doen vervoeren van goederen gegronde rechtsvordering door verloop van negen maanden.
 
-2. De termijn begint te lopen met de aanvang van de dag, volgende op de dag van aflevering. Voor de vaststelling van deze dag vindt [artikel 1710, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2024-01-01&g=2024-01-01), overeenkomstige toepassing. Is de rechtsvordering echter gegrond op [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=62&z=2024-01-01&g=2024-01-01) of op [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=63&z=2024-01-01&g=2024-01-01), dan wel op enig beding van gelijke strekking, dan begint deze termijn met de aanvang van de dag, volgende op die waarop de opdrachtgever wist, dat de expediteur niet aan zijn verplichting tot het doen van mededelingen voldeed.
+2. De termijn begint te lopen met de aanvang van de dag, volgende op de dag van aflevering. Voor de vaststelling van deze dag vindt [artikel 1710, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01), overeenkomstige toepassing. Is de rechtsvordering echter gegrond op [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=62&z=2025-07-01&g=2025-07-01) of op [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=63&z=2025-07-01&g=2025-07-01), dan wel op enig beding van gelijke strekking, dan begint deze termijn met de aanvang van de dag, volgende op die waarop de opdrachtgever wist, dat de expediteur niet aan zijn verplichting tot het doen van mededelingen voldeed.
 
-3. Is de rechtsvordering gegrond op [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=65&z=2024-01-01&g=2024-01-01) of [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=68&z=2024-01-01&g=2024-01-01), dan begint de termijn met de aanvang van de dag, volgende op de dag dat de overeenkomst tot het doen vervoeren van goederen eindigt.
+3. Is de rechtsvordering gegrond op [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=65&z=2025-07-01&g=2025-07-01) of [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=3&artikel=68&z=2025-07-01&g=2025-07-01), dan begint de termijn met de aanvang van de dag, volgende op de dag dat de overeenkomst tot het doen vervoeren van goederen eindigt.
 
 ##### Artikel 1741
 
@@ -2331,9 +2331,9 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel 1750
 
-1. Behoudens de [artikelen 1751 tot en met 1754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=5&artikel=1751&z=2024-01-01&g=2024-01-01) verjaart een op een overeenkomst van personenvervoer als bedoeld in [titel 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&z=2024-01-01&g=2024-01-01), gegronde rechtsvordering door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de reiziger het vervoermiddel heeft verlaten of had moeten verlaten.
+1. Behoudens de [artikelen 1751 tot en met 1754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=5&artikel=1751&z=2025-07-01&g=2025-07-01) verjaart een op een overeenkomst van personenvervoer als bedoeld in [titel 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&z=2025-07-01&g=2025-07-01), gegronde rechtsvordering door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de reiziger het vervoermiddel heeft verlaten of had moeten verlaten.
 
-2. In afwijking van het eerste lid zijn op de verjaring van een rechtsvordering ter zake van het vervoer van bagage, geen hut- of handbagage in de zin van de [artikel 500](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2024-01-01&g=2024-01-01), noch een als bagage ten vervoer aangenomen voertuig of schip of levend dier zijnde, de [artikelen 1710 tot en met 1722](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+2. In afwijking van het eerste lid zijn op de verjaring van een rechtsvordering ter zake van het vervoer van bagage, geen hut- of handbagage in de zin van de [artikel 500](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2025-07-01&g=2025-07-01), noch een als bagage ten vervoer aangenomen voertuig of schip of levend dier zijnde, de [artikelen 1710 tot en met 1722](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 1751
 
@@ -2343,11 +2343,11 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel 1752
 
-In geval van bevrachting strekkende tot het vervoer van personen zijn de [artikelen 1713, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2024-01-01&g=2024-01-01), [1716 tot en met 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1716&z=2024-01-01&g=2024-01-01) en [1721](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1721&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+In geval van bevrachting strekkende tot het vervoer van personen zijn de [artikelen 1713, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01), [1716 tot en met 1719](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1716&z=2025-07-01&g=2025-07-01) en [1721](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1721&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 1753
 
-1. Een rechtsvordering jegens een vervoerder ter zake van dood of letsel van de reiziger of ter zake van hut- of handbagage in de zin van [artikel 500](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2024-01-01&g=2024-01-01), dan wel ter zake van een als bagage ten vervoer aangenomen voertuig, schip of levend dier vervalt indien de rechthebbende niet binnen een termijn van drie maanden aan de vervoerder kennis heeft gegeven van het aan de reiziger overkomen voorval of ongeval.
+1. Een rechtsvordering jegens een vervoerder ter zake van dood of letsel van de reiziger of ter zake van hut- of handbagage in de zin van [artikel 500](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=500&z=2025-07-01&g=2025-07-01), dan wel ter zake van een als bagage ten vervoer aangenomen voertuig, schip of levend dier vervalt indien de rechthebbende niet binnen een termijn van drie maanden aan de vervoerder kennis heeft gegeven van het aan de reiziger overkomen voorval of ongeval.
 
 2. De in het eerste lid bedoelde termijn begint met de aanvang van de dag, volgende op de dag van het voorval of ongeval.
 
@@ -2361,11 +2361,11 @@ In geval van bevrachting strekkende tot het vervoer van personen zijn de [artike
 
 - d. de vervoerder binnen de in het eerste lid bedoelde termijn uit anderen hoofde kennis had van het voorval of ongeval.
 
-4. Voor de toepassing van het eerste tot en met het derde lid wordt een omstandigheid als bedoeld in [artikel 505](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=505&z=2024-01-01&g=2024-01-01) aangemerkt als een aan de reiziger overkomen voorval of ongeval.
+4. Voor de toepassing van het eerste tot en met het derde lid wordt een omstandigheid als bedoeld in [artikel 505](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=3&artikel=505&z=2025-07-01&g=2025-07-01) aangemerkt als een aan de reiziger overkomen voorval of ongeval.
 
 ##### Artikel 1754
 
-1. Ten behoeve van een vervoerder van personen, een wederpartij van een zodanige vervoerder of een reiziger, voor zover deze verhaal zoekt op een partij bij een exploitatie-overeenkomst als bedoeld in [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2024-01-01&g=2024-01-01), dan wel op een reiziger voor hetgeen door hem aan een derde is verschuldigd, begint een nieuwe termijn van verjaring of verval, die drie maanden beloopt; deze termijn begint met de aan- vang van de dag, volgende op de eerste der volgende dagen:
+1. Ten behoeve van een vervoerder van personen, een wederpartij van een zodanige vervoerder of een reiziger, voor zover deze verhaal zoekt op een partij bij een exploitatie-overeenkomst als bedoeld in [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=1&artikel=361&z=2025-07-01&g=2025-07-01), dan wel op een reiziger voor hetgeen door hem aan een derde is verschuldigd, begint een nieuwe termijn van verjaring of verval, die drie maanden beloopt; deze termijn begint met de aan- vang van de dag, volgende op de eerste der volgende dagen:
 
 - a. de dag waarop hij, die verhaal zoekt, aan de tot hem gerichte vordering heeft voldaan, of
 
@@ -2397,31 +2397,31 @@ Een rechtsvordering tussen de leden ener rederij als zodanig en tussen deze lede
 
 ##### Artikel 1790
 
-Een rechtsvordering tot vergoeding van schade veroorzaakt door een voorval als bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2024-01-01&g=2024-01-01), verjaart, indien zij niet op een overeenkomst is gegrond, door verloop van twee jaren, welke termijn begint met de aanvang van de dag, volgende op de dag van dit voorval.
+Een rechtsvordering tot vergoeding van schade veroorzaakt door een voorval als bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2025-07-01&g=2025-07-01), verjaart, indien zij niet op een overeenkomst is gegrond, door verloop van twee jaren, welke termijn begint met de aanvang van de dag, volgende op de dag van dit voorval.
 
 ##### Artikel 1791
 
-Een rechtsvordering tot verhaal van een overschot als bedoeld in [artikel 545, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2024-01-01&g=2024-01-01), verjaart door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de betaling van het overschot heeft plaatsgehad.
+Een rechtsvordering tot verhaal van een overschot als bedoeld in [artikel 545, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2025-07-01&g=2025-07-01), verjaart door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de betaling van het overschot heeft plaatsgehad.
 
 ##### Artikel 1792
 
-1. De verjaringstermijn, genoemd in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2024-01-01&g=2024-01-01), wordt verlengd met de dagen, gedurende welke het aansprakelijk geachte schip niet in beslag kon worden genomen binnen de staat, waarin de schuldeiser woont of de hoofdzetel van zijn bedrijf is gevestigd, met dien verstande echter dat:
+1. De verjaringstermijn, genoemd in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01), wordt verlengd met de dagen, gedurende welke het aansprakelijk geachte schip niet in beslag kon worden genomen binnen de staat, waarin de schuldeiser woont of de hoofdzetel van zijn bedrijf is gevestigd, met dien verstande echter dat:
 
-- a. indien het schip binnen de termijn, gesteld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2024-01-01&g=2024-01-01), aldus in beslag kon worden genomen, deze termijn met niet meer dan drie maanden wordt verlengd;
+- a. indien het schip binnen de termijn, gesteld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01), aldus in beslag kon worden genomen, deze termijn met niet meer dan drie maanden wordt verlengd;
 
-- b. indien het schip niet binnen de termijn, gesteld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2024-01-01&g=2024-01-01) aldus in beslag kon worden genomen, deze termijn eindigt met de aanvang van de dag, volgende op die waarop drie maanden zijn verlopen sinds het eerste tijdstip, waarop dit beslag mogelijk was en in ieder geval met de aanvang van de dag, volgende op die waarop vijf jaren zijn verlopen sinds het tijdstip van het voorval, bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2024-01-01&g=2024-01-01).
+- b. indien het schip niet binnen de termijn, gesteld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01) aldus in beslag kon worden genomen, deze termijn eindigt met de aanvang van de dag, volgende op die waarop drie maanden zijn verlopen sinds het eerste tijdstip, waarop dit beslag mogelijk was en in ieder geval met de aanvang van de dag, volgende op die waarop vijf jaren zijn verlopen sinds het tijdstip van het voorval, bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2025-07-01&g=2025-07-01).
 
-2. Indien een rechtsvordering als bedoeld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2024-01-01&g=2024-01-01) wordt ingesteld voor de aanvang van de dag, volgende op die waarop vijf jaren zijn verlopen sinds het tijdstip van het voorval, bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2024-01-01&g=2024-01-01), wordt vermoed dat het aansprakelijk geachte schip voordien niet in beslag kon worden genomen binnen de staat, waarin de schuldeiser woont of de hoofdzetel van zijn bedrijf is gevestigd.
+2. Indien een rechtsvordering als bedoeld in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01) wordt ingesteld voor de aanvang van de dag, volgende op die waarop vijf jaren zijn verlopen sinds het tijdstip van het voorval, bedoeld in [titel 6, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&z=2025-07-01&g=2025-07-01), wordt vermoed dat het aansprakelijk geachte schip voordien niet in beslag kon worden genomen binnen de staat, waarin de schuldeiser woont of de hoofdzetel van zijn bedrijf is gevestigd.
 
-3. Bij de toepassing van dit artikel wordt geen rekening gehouden met een mogelijkerwijs door partijen overeengekomen verlenging van de in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2024-01-01&g=2024-01-01) gestelde termijn.
+3. Bij de toepassing van dit artikel wordt geen rekening gehouden met een mogelijkerwijs door partijen overeengekomen verlenging van de in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01) gestelde termijn.
 
 ### Afdeling 8. Rechtsvorderingen jegens de kapitein
 
 ##### Artikel 1820
 
-1. Een rechtsvordering ter zake van betaling als bedoeld in [artikel 551, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=551&z=2024-01-01&g=2024-01-01), verjaart door verloop van twee jaren, welke termijn begint met de aanvang van de dag waarop de hulpverlening is beëindigd.
+1. Een rechtsvordering ter zake van betaling als bedoeld in [artikel 551, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=2&artikel=551&z=2025-07-01&g=2025-07-01), verjaart door verloop van twee jaren, welke termijn begint met de aanvang van de dag waarop de hulpverlening is beëindigd.
 
-2. Onverminderd [artikel 1701](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1701&z=2024-01-01&g=2024-01-01) kan de termijn worden verlengd door een verklaring van hem die de verjaring kan inroepen, gedaan nadat het feit dat de rechtsvordering heeft doen ontstaan heeft plaatsgehad.
+2. Onverminderd [artikel 1701](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=1&artikel=1701&z=2025-07-01&g=2025-07-01) kan de termijn worden verlengd door een verklaring van hem die de verjaring kan inroepen, gedaan nadat het feit dat de rechtsvordering heeft doen ontstaan heeft plaatsgehad.
 
 3. In afwijking van het eerste lid kunnen rechtsvorderingen tot verhaal op een derde zelfs na afloop van de in dat lid bedoelde termijn worden ingesteld gedurende een termijn van drie maanden, te rekenen van de dag waarop degene die een zodanige rechtsvordering tot verhaal instelt ten aanzien van het van hemzelf gevorderde een regeling heeft getroffen of waarop hij te dien aanzien in rechte is aangesproken.
 
@@ -2433,7 +2433,7 @@ Een rechtsvordering tot verhaal van een overschot als bedoeld in [artikel 545, d
 
 2. De termijn van deze verjaring begint met de aanvang van de dag, volgende op de dag van het einde van de onderneming.
 
-3. Indien de avarij-grosse geheel of gedeeltelijk uit hulploon bestaat en de vordering tot betaling van dit hulploon is ingesteld binnen de daarvoor in de [artikelen 1820](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=10&artikel=1820&z=2024-01-01&g=2024-01-01) en 1823 gestelde termijn, doch na verloop van een termijn van negen maanden beginnende met de aanvang van de dag, volgende op die waarop de in het eerste lid bedoelde termijn aanvangt, verjaren de in het eerste lid bedoelde rechtsvorderingen door verloop van een termijn van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop de vordering tot betaling van hulploon is ingesteld.
+3. Indien de avarij-grosse geheel of gedeeltelijk uit hulploon bestaat en de vordering tot betaling van dit hulploon is ingesteld binnen de daarvoor in de [artikelen 1820](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=10&artikel=1820&z=2025-07-01&g=2025-07-01) en 1823 gestelde termijn, doch na verloop van een termijn van negen maanden beginnende met de aanvang van de dag, volgende op die waarop de in het eerste lid bedoelde termijn aanvangt, verjaren de in het eerste lid bedoelde rechtsvorderingen door verloop van een termijn van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop de vordering tot betaling van hulploon is ingesteld.
 
 ##### Artikel 1831
 
@@ -2525,7 +2525,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 616
 
-1. De geregistreerde eigenaar is uit hoofde van deze afdeling niet aansprakelijk voor de kosten bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2024-01-01&g=2024-01-01), indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met:
+1. De geregistreerde eigenaar is uit hoofde van deze afdeling niet aansprakelijk voor de kosten bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met:
 
 - a. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, zoals gewijzigd;
 
@@ -2541,7 +2541,7 @@ mits het desbetreffende verdrag van toepassing en van kracht is.
 
 ##### Artikel 617
 
-1. Vorderingen tot vergoeding van kosten als bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2024-01-01&g=2024-01-01), kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar voor kosten als bedoeld in artikel 615, eerste lid. In dit geval kan de verweerder, zelfs indien de geregistreerde eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag berekend overeenkomstig [artikel 755, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2024-01-01&g=2024-01-01).
+1. Vorderingen tot vergoeding van kosten als bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar voor kosten als bedoeld in artikel 615, eerste lid. In dit geval kan de verweerder, zelfs indien de geregistreerde eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag berekend overeenkomstig [artikel 755, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01).
 
 2. De verweerder komen alle verweermiddelen toe welke de geregistreerde eigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de geregistreerde eigenaar surseance van betaling is verleend, dat ten aanzien van de geregistreerde eigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de geregistreerde eigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de kosten zijn veroorzaakt door opzettelijk wangedrag van de geregistreerde eigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de geregistreerde eigenaar tegen hem ingestelde vordering komen hem niet toe.
 
@@ -2577,7 +2577,7 @@ mits het desbetreffende verdrag van toepassing en van kracht is.
 
 ##### Artikel 1833
 
-Het recht kosten uit hoofde van [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&z=2024-01-01&g=2024-01-01) te verhalen vervalt, wanneer niet binnen drie jaar na de datum waarop het gevaar is vastgesteld in overeenstemming met afdeling 4 van titel 6 een vordering wordt ingesteld. In geen geval kunnen vorderingen echter worden ingesteld na zes jaar na de datum van het maritiem ongeval dat tot het wrak heeft geleid. Indien het maritiem ongeval bestaat uit een reeks feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit.
+Het recht kosten uit hoofde van [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&z=2025-07-01&g=2025-07-01) te verhalen vervalt, wanneer niet binnen drie jaar na de datum waarop het gevaar is vastgesteld in overeenstemming met afdeling 4 van titel 6 een vordering wordt ingesteld. In geen geval kunnen vorderingen echter worden ingesteld na zes jaar na de datum van het maritiem ongeval dat tot het wrak heeft geleid. Indien het maritiem ongeval bestaat uit een reeks feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit.
 
 ### Algemene slotbepaling
 
@@ -2639,15 +2639,15 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 621
 
-Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging door bunkerolie is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij deze ingevolge [artikel 620](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=620&z=2024-01-01&g=2024-01-01) van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is [artikel 545, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging door bunkerolie is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij deze ingevolge [artikel 620](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=620&z=2025-07-01&g=2025-07-01) van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is [artikel 545, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 622
 
-De scheepseigenaar en de persoon of de personen die verzekeren of een andere financiële zekerheid stellen, kunnen hun aansprakelijkheid per voorval beperken uit hoofde van [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2024-01-01&g=2024-01-01).
+De scheepseigenaar en de persoon of de personen die verzekeren of een andere financiële zekerheid stellen, kunnen hun aansprakelijkheid per voorval beperken uit hoofde van [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 623
 
-1. Vorderingen tot vergoeding van schade door verontreiniging door bunkerolie kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door dergelijke verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van [artikel 622](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=622&z=2024-01-01&g=2024-01-01) niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 7, eerste lid, van het Verdrag.
+1. Vorderingen tot vergoeding van schade door verontreiniging door bunkerolie kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door dergelijke verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van [artikel 622](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=622&z=2025-07-01&g=2025-07-01) niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 7, eerste lid, van het Verdrag.
 
 2. De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surseance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
 
@@ -2655,7 +2655,7 @@ De scheepseigenaar en de persoon of de personen die verzekeren of een andere fin
 
 ##### Artikel 624
 
-1. De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1.000 dat niet op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, is verplicht om, indien het schip een haven of laad- of losplaats in de openbare lichamen Bonaire, Sint-Eustatius en Saba aanloopt of verlaat, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt, berekend overeenkomstig [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2024-01-01&g=2024-01-01), ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
+1. De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1.000 dat niet op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, is verplicht om, indien het schip een haven of laad- of losplaats in de openbare lichamen Bonaire, Sint-Eustatius en Saba aanloopt of verlaat, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt, berekend overeenkomstig [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01), ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
 
 2. De [artikelen 646 tot en met 653 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=646) zijn van overeenkomstige toepassing op de geregistreerde eigenaar van een schip als bedoeld in het eerste lid.
 
@@ -2689,7 +2689,7 @@ De scheepseigenaar en de persoon of de personen die verzekeren of een andere fin
 
 ##### Artikel 1834
 
-Een rechtsvordering tot vergoeding van schade uit hoofde van [afdeling 5 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&z=2024-01-01&g=2024-01-01) vervalt door verloop van drie jaren na de aanvang van de dag waarop de schade is ontstaan en in ieder geval door verloop van zes jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van zes jaren vanaf de dag waarop het eerste van die feiten plaatsvond.
+Een rechtsvordering tot vergoeding van schade uit hoofde van [afdeling 5 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&z=2025-07-01&g=2025-07-01) vervalt door verloop van drie jaren na de aanvang van de dag waarop de schade is ontstaan en in ieder geval door verloop van zes jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van zes jaren vanaf de dag waarop het eerste van die feiten plaatsvond.
 
 ### Algemene slotbepaling
 
