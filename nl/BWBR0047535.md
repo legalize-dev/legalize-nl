@@ -4,7 +4,7 @@ identifier: "BWBR0047535"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047535"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ BESLUIT:
 
 - –. **beroepsziekte:** een ernstige aandoening die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de bijlage;
 
-- –. **Deskundigenpanel:** Deskundigenpanel beroepsziekten als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2025-01-01&g=2025-01-01);
+- –. **Deskundigenpanel:** Deskundigenpanel beroepsziekten als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2025-07-01&g=2025-07-01);
 
 - –. **gevaarlijke stof:** een stof die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de bijlage;
 
@@ -106,15 +106,15 @@ Een tegemoetkoming uit hoofde van deze regeling houdt geen erkenning van aanspra
 
 1. De werkende heeft eenmalig recht op een tegemoetkoming, indien:
 
-- a. het Deskundigenpanel, met inachtneming van het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten heeft beoordeeld dat:
+- a. het Deskundigenpanel, met inachtneming van het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten heeft beoordeeld of:
 
-- 1°. sprake is van een ernstige aandoening die ten tijde van de aanvraag voor de tegemoetkoming vermeld is op de Lijst beroepsziekten, opgenomen in bijlage; en
+- 1°. sprake is van een ernstige aandoening die ten tijde van de aanvraag voor de tegemoetkoming vermeld is op de Lijst beroepsziekten, opgenomen in de bijlage; en
 
 - 2°. voorshands aannemelijk is dat deze ernstige aandoening in het geval van de aanvrager het gevolg is van blootstelling aan één of meer gevaarlijke stoffen bij het verrichten van de arbeid; en
 
 - b. de werkende geen betaling in verband met deze ernstige aandoening van één of meer werkgevers of opdrachtgevers heeft ontvangen gelijk aan of hoger dan het bedrag van de tegemoetkoming, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
-2. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden op voordracht van de Adviescommissie Lijst beroepsziekten, bedoeld in het [Instellingsbesluit Adviescommissie Lijst beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047526), door de minister vastgesteld en gepubliceerd in de Staatscourant.
+2. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden op voordracht van de Adviescommissie Lijst beroepsziekten, bedoeld in het [Instellingsbesluit Adviescommissie Lijst beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047526), door de minister vastgesteld en gepubliceerd in de Staatscourant. De vindplaats in de Staatscourant van het geldende afwegingskader en de geldende protocollen worden opgenomen in de bijlage bij deze regeling.
 
 3. Indien de werkende na ontvangst van een tegemoetkoming tevens een betaling, van de werkgever dan wel opdrachtgever ontvangt in verband met dezelfde ernstige aandoening als waarvoor de tegemoetkoming is toegekend, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet:
 
@@ -122,7 +122,15 @@ Een tegemoetkoming uit hoofde van deze regeling houdt geen erkenning van aanspra
 
 - b. betaalt de werkende de tegemoetkoming voor het geheel of, wanneer de betaling lager is dan de verleende tegemoetkoming, de tegemoetkoming voor dat deel binnen twaalf weken na ontvangst van de betaling terug aan de SVB.
 
-4. De werkende heeft geen recht op een tegemoetkoming indien een tegemoetkoming of voorschot op grond van de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913) of de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193) is ontvangen door de werkende of een aanvraag op grond van een van deze regelingen voor dezelfde ernstige aandoening onherroepelijk is afgewezen. De werkende heeft evenmin recht op een tegemoetkoming indien een aanvraag voor een tegemoetkoming op grond van een van de genoemde regelingen is ingediend en op die aanvraag niet onherroepelijk is beslist.
+4. De werkende heeft geen recht op een tegemoetkoming op grond van deze regeling indien de werkende een tegemoetkoming of voorschot heeft ontvangen of een aanvraag om een tegemoetkoming voor dezelfde ernstige aandoening onherroepelijk is afgewezen op grond van:
+
+- a. de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006);
+
+- b. de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913);
+
+- c. de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193); of
+
+- d. het Reglement eenmalige uitkering silicosevergoeding oud-mijnwerkers. De werkende heeft evenmin recht op een tegemoetkoming indien een aanvraag voor een tegemoetkoming op grond van een van de genoemde regelingen is ingediend en op die aanvraag niet onherroepelijk is beslist.
 
 ##### Artikel 5. Recht op tegemoetkoming nabestaanden
 
@@ -132,13 +140,13 @@ De nabestaanden hebben, onder dezelfde voorwaarden, in plaats van de werkende re
 
 1. De eenmalige tegemoetkoming bedraagt € 25.679,00.
 
-2. Indien een of meer werkgevers of een of meer opdrachtgevers een bedrag hebben betaald aan de werkende in verband met dezelfde ernstige aandoening, of indien de werkende betalingen heeft ontvangen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=7&z=2025-01-01&g=2025-01-01), dat in totaal lager is dan het bedrag van de tegemoetkoming, wordt de hoogte van de tegemoetkoming vastgesteld op het positieve verschil tussen de ontvangen bedragen en het bedrag, genoemd in het eerste lid, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
+2. Indien een of meer werkgevers of een of meer opdrachtgevers een bedrag hebben betaald aan de werkende in verband met dezelfde ernstige aandoening, of indien de werkende betalingen heeft ontvangen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=7&z=2025-07-01&g=2025-07-01), dat in totaal lager is dan het bedrag van de tegemoetkoming, wordt de hoogte van de tegemoetkoming vastgesteld op het positieve verschil tussen de ontvangen bedragen en het bedrag, genoemd in het eerste lid, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
 3. Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betalingen nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in mindering zijn gebracht.
 
 ##### Artikel 7. Hoogte tegemoetkoming. Arbeid voor de werkgever of opdrachtgever verricht buiten Nederland
 
-Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arbeid buiten Nederland een betaling heeft ontvangen van deze werkgever of opdrachtgever in verband met dezelfde ernstige aandoening, wordt bij de vaststelling van het recht op een tegemoetkoming op overeenkomstige wijze gehandeld als bij de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01).
+Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arbeid buiten Nederland een betaling heeft ontvangen van deze werkgever of opdrachtgever in verband met dezelfde ernstige aandoening, wordt bij de vaststelling van het recht op een tegemoetkoming op overeenkomstige wijze gehandeld als bij de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 3. Het geldend maken van het recht op tegemoetkoming
 
@@ -146,7 +154,7 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 1. De aanvraag voor de tegemoetkoming wordt door de werkende bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier, dat door de werkende wordt ondertekend.
 
-2. Na advisering door het ISBG bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2025-01-01&g=2025-01-01), stelt de SVB vast of voor de werkende recht op een tegemoetkoming bestaat.
+2. Na advisering door het ISBG bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2025-07-01&g=2025-07-01), stelt de SVB vast of voor de werkende recht op een tegemoetkoming bestaat.
 
 3. In bijzondere gevallen kan de SVB toestaan dat een aanvraag wordt ingediend anders dan door middel van het aanvraagformulier, bedoeld in het eerste lid, zo nodig onder het stellen van voorwaarden.
 
@@ -156,7 +164,7 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 6. De termijn, bedoeld in [artikel 4:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13), waarbinnen de SVB een besluit dient te nemen over de aanvraag is 16 weken. Deze termijn kan eenmalig met ten hoogste 16 weken worden verlengd.
 
-7. Indien de SVB vaststelt dat de werkende één of meer van de gegevens, noodzakelijk voor het vaststellen van het recht op de tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), niet heeft verstrekt, stelt de SVB de werkende in de gelegenheid het ontbrekende gegeven of de ontbrekende gegevens alsnog binnen acht weken te verstrekken. Wordt het gegeven of worden de gegevens niet binnen die acht weken verstrekt, dan wordt de aanvraag buiten behandeling gelaten.
+7. Indien de SVB vaststelt dat de werkende één of meer van de gegevens, noodzakelijk voor het vaststellen van het recht op de tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), niet heeft verstrekt, stelt de SVB de werkende in de gelegenheid het ontbrekende gegeven of de ontbrekende gegevens alsnog binnen acht weken te verstrekken. Wordt het gegeven of worden de gegevens niet binnen die acht weken verstrekt, dan wordt de aanvraag buiten behandeling gelaten.
 
 ##### Artikel 9. Overlijden na aanvraag tegemoetkoming
 
@@ -186,7 +194,7 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 1. De SVB betaalt een tegemoetkoming zo spoedig mogelijk uit aan de werkende.
 
-2. Indien [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=9&z=2025-01-01&g=2025-01-01), van toepassing is, betaalt de SVB de tegemoetkoming zo spoedig mogelijk na ontvangst van een volmacht uit aan de nabestaande.
+2. Indien [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01), van toepassing is, betaalt de SVB de tegemoetkoming zo spoedig mogelijk na ontvangst van een volmacht uit aan de nabestaande.
 
 ##### Artikel 12. Herziening, intrekking en terugvordering
 
@@ -194,15 +202,15 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 - a. nadien alsnog een betaling heeft ontvangen waarmee rekening zou zijn gehouden bij de vaststelling van het recht op de tegemoetkoming; of
 
-- b. een voorwaarde of verplichting als bedoeld in de [artikelen 4, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=10&z=2025-01-01&g=2025-01-01) niet of niet behoorlijk is nagekomen en dit heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de tegemoetkoming.
+- b. een voorwaarde of verplichting als bedoeld in de [artikelen 4, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=10&z=2025-07-01&g=2025-07-01) niet of niet behoorlijk is nagekomen en dit heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de tegemoetkoming.
 
-2. De tegemoetkoming die als gevolg van een besluit als bedoeld in het eerste lid, ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, wordt van degene aan wie een tegemoetkoming is toegekend, of de nabestaande hiervan, teruggevorderd. Indien [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=9&z=2025-01-01&g=2025-01-01) toepassing heeft gevonden, wordt teruggevorderd van de nabestaande, bedoeld in artikel 9, tweede lid.
+2. De tegemoetkoming die als gevolg van een besluit als bedoeld in het eerste lid, ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, wordt van degene aan wie een tegemoetkoming is toegekend, of de nabestaande hiervan, teruggevorderd. Indien [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01) toepassing heeft gevonden, wordt teruggevorderd van de nabestaande, bedoeld in artikel 9, tweede lid.
 
 3. Indien daarvoor dringende redenen aanwezig zijn, kan de SVB besluiten geheel of gedeeltelijk van herziening, intrekking of terugvordering af te zien.
 
 ##### Artikel 13. Indexering van bedragen
 
-Het bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01), wordt jaarlijks herzien op 1 januari. Het bedrag wordt herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
+Het bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2025-07-01&g=2025-07-01), wordt jaarlijks herzien op 1 januari. Het bedrag wordt herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
 
 ### Hoofdstuk 5. Uitvoering en financiering
 
@@ -214,7 +222,7 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 1. Het ISBG adviseert de SVB over het voldoen van de aanvraag aan de voorwaarden voor het recht op een tegemoetkoming, waaronder inbegrepen het niet nakomen van de verplichtingen op grond van deze regeling en de toepasselijkheid van eventuele beperkingen met betrekking tot het recht op een tegemoetkoming.
 
-2. Het ISBG vraagt in het kader van de advisering, bedoeld in het eerste lid, aan het Bureau Lexces om ervoor zorg te dragen dat het Deskundigenpanel een oordeel vormt of voldaan is aan de vereisten die gesteld zijn in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01).
+2. Het ISBG vraagt in het kader van de advisering, bedoeld in het eerste lid, aan het Bureau Lexces om ervoor zorg te dragen dat het Deskundigenpanel een oordeel vormt of voldaan is aan de vereisten die gesteld zijn in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01).
 
 3. Het Deskundigenpanel bestaat uit een of meer kamers. Voor een zitting van een kamer worden een voorzitter en maximaal vier leden aangewezen. Deze personen vervullen geen functies of nevenfuncties die kunnen conflicteren met onafhankelijke en onpartijdige advisering, noch hebben zij deze functies vervuld gedurende een jaar voordat zij een rol vervulden als lid van het Deskundigenpanel. Het Bureau Lexces, gehoord hebbende het Deskundigenpanel, stelt ten behoeve van de werkzaamheden een reglement vast.
 
@@ -256,13 +264,13 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 1. Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot deze regeling, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.
 
-2. In de opgave van de uitkeringslasten, bedoeld in het eerste lid, wordt rekening gehouden met de posten genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=19&z=2025-01-01&g=2025-01-01).
+2. In de opgave van de uitkeringslasten, bedoeld in het eerste lid, wordt rekening gehouden met de posten genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=19&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 18. Betaling periodiek voorschot aan de SVB
 
 1. De uitkeringslasten en uitvoeringskosten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de minister.
 
-2. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), een periodiek voorschot op het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=17&z=2025-01-01&g=2025-01-01), van:
+2. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), een periodiek voorschot op het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=17&z=2025-07-01&g=2025-07-01), van:
 
 - a. de geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand; en
 
@@ -272,13 +280,13 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 ##### Artikel 19. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen periodieke voorschotten, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=18&z=2025-01-01&g=2025-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen periodieke voorschotten, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=18&z=2025-07-01&g=2025-07-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.
 
 2. Op de in het eerste lid bedoelde uitkeringslasten komen in mindering:
 
-- a. de bedragen die op grond van [artikel 4, eerste lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), zijn terugbetaald; en
+- a. de bedragen die op grond van [artikel 4, eerste lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), zijn terugbetaald; en
 
-- b. de bedragen die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=4&artikel=12&z=2025-01-01&g=2025-01-01) zijn teruggevorderd en zijn terugbetaald.
+- b. de bedragen die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=4&artikel=12&z=2025-07-01&g=2025-07-01) zijn teruggevorderd en zijn terugbetaald.
 
 3. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen periodieke voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -300,7 +308,7 @@ Wijzigt de Regeling tegemoetkoming werknemers met CSE.
 
 ##### Artikel 23. Overgangsbepaling [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
 
-[Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), is niet van toepassing op een werkende wiens verzoek om toekenning van een tegemoetkoming op grond van de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193) is afgewezen uitsluitend wegens het niet voldoen aan de verplichting, genoemd in [artikel 3, eerste lid, onderdeel e, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043193&artikel=3).
+[Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), is niet van toepassing op een werkende wiens verzoek om toekenning van een tegemoetkoming op grond van de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193) is afgewezen uitsluitend wegens het niet voldoen aan de verplichting, genoemd in [artikel 3, eerste lid, onderdeel e, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043193&artikel=3).
 
 ##### Artikel 24. Evaluatie
 
@@ -314,7 +322,28 @@ Deze regeling treedt in werking met ingang van 1 januari 2023.
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming stoffengerelateerde beroepsziekten.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01) van de Regeling tegemoetkoming stoffengerelateerde beroepsziekten
+## Bijlage. behorende bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01), en [artikel 4, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), van de Regeling tegemoetkoming stoffengerelateerde beroepsziekten
+
+|   | Ernstige aandoening | Veroorzaakt door blootstelling aan | Toegevoegd aan de lijst per | Vindplaats van het geldende protocol in de Staatscourant |
+| --- | --- | --- | --- | --- |
+| 1. | Longkanker | asbest | 1 januari 2023 | stcrt-2025-18096 |
+| 1. | Longkanker | respirabel kristallijn silica | 1 juli 2025 | stcrt-2025-18096 |
+| 2. | Allergisch beroeps-astma | allergenen | 1 januari 2023 | stcrt-2025-18099 |
+| 3. | Chronic solvent-induced encephalopathy (CSE) | Vluchtige oplosmiddelen zoals bedoeld in [artikel 4.62a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a). | 1 januari 2023 | stcrt-2025-18100 |
+| 4. | Neus(bijholte)kanker | houtstof | 1 juli 2025 | stcrt-2025-18101 |
+| 5. | Silicose | respirabel kristallijn silica | 1 juli 2025 | stcrt-2025-18102 |
+
+De protocollen worden beoordeeld aan de hand van het afwegingskader causaliteit dat door de Staatssecretaris is gepubliceerd in de Staatscourant van 30 mei 2025 (Stcrt. 2025-18094).
+
+Deze bijlage bevat de Lijst beroepsziekten waarvoor een tegemoetkoming op grond van de regeling kan worden gevraagd.
+
+In de komende jaren zullen geleidelijk meer beroepsziekten aan de Lijst worden toegevoegd. Hierover zal de door de Minister ingestelde Adviescommissie Lijst beroepsziekten adviseren, die wordt ondersteund door Bureau Lexces. De volgorde waarin beroepsziekten worden toegevoegd is gebaseerd op de adviezen van de Adviescommissie. In het afwegingskader causaliteit staan de kenmerken op basis waarvan nieuwe ziekten worden gekozen voor toevoeging aan de lijst.
+
+Bij de beroepsziekten die op deze lijst staan, gaat het telkens om de combinatie van een ernstige aandoening en de specifieke gevaarlijke stof of stoffen die deze aandoening veroorzaakt of veroorzaken. Zolang een beroepsziekte niet op de Lijst beroepsziekten staat, kan voor die beroepsziekte geen tegemoetkoming worden toegekend.
+
+Sommige beroepsziekten hebben in alle gevallen een grote impact, zoals longkanker. Andere beroepsziekten kunnen in meer of mindere mate een grote impact hebben of bijvoorbeeld in de loop van de tijd als de blootstelling niet wordt weggenomen een grotere impact krijgen. Als een beroepsziekte niet in alle gevallen een ernstige aandoening betreft, komt dit tot uitdrukking in de benaming in de Lijst beroepsziekten.
+
+Per beroepsziekte wordt een protocol opgesteld aan de hand waarvan de deskundigen uit het Deskundigenpanel kunnen beoordelen of bij een aanvraag al dan niet sprake is van de betreffende beroepsziekte. De protocollen beroepsziekten gaan daartoe nader in op de vraag of een bepaalde ernstige aandoening het gevolg kan zijn van de blootstelling aan de betreffende gevaarlijke stof of stoffen en hoe de bijdrage van de beroepsmatige blootstelling aan die stof of stoffen wordt beoordeeld. Daarnaast vermelden de protocollen beroepsziekten welke eisen worden gesteld aan de medische informatie over de ernstige aandoening en aan de informatie over de blootstellingsgeschiedenis. Als het gaat om een beroepsziekte die niet in alle gevallen een ernstige aandoening betreft, bieden de protocollen beroepsziekten in voorkomende gevallen ook daarvoor een nadere invulling. De protocollen beroepsziekten dragen op die manier bij aan een efficiënte aanpak en een gelijke behandeling van gelijke gevallen door het Deskundigenpanel.
 
 ### Lijst beroepsziekten
 
@@ -329,5 +358,7 @@ Bij de beroepsziekten die op deze lijst staan, gaat het telkens om de combinatie
 Sommige beroepsziekten hebben in alle gevallen een grote impact, zoals longkanker. Andere beroepsziekten kunnen in meer of mindere mate een grote impact hebben of bijvoorbeeld in de loop van de tijd als de blootstelling niet wordt weggenomen een grotere impact krijgen. Als een beroepsziekte niet in alle gevallen een ernstige aandoening betreft, komt dit tot uitdrukking in de benaming in de Lijst beroepsziekten.
 
 Per beroepsziekte wordt een protocol opgesteld aan de hand waarvan de deskundigen uit het Deskundigenpanel kunnen beoordelen of bij een aanvraag al dan niet sprake is van de betreffende beroepsziekte. De protocollen beroepsziekten gaan daartoe nader in op de vraag of een bepaalde ernstige aandoening het gevolg kan zijn van de blootstelling aan de betreffende gevaarlijke stof of stoffen en hoe de bijdrage van de beroepsmatige blootstelling aan die stof of stoffen wordt beoordeeld. Daarnaast vermelden de protocollen beroepsziekten welke eisen worden gesteld aan de medische informatie over de ernstige aandoening en aan de informatie over de blootstellingsgeschiedenis. Als het gaat om een beroepsziekte die niet in alle gevallen een ernstige aandoening betreft, bieden de protocollen beroepsziekten in voorkomende gevallen ook daarvoor een nadere invulling. De protocollen beroepsziekten dragen op die manier bij aan een efficiënte aanpak en een gelijke behandeling van gelijke gevallen door het Deskundigenpanel.
+
+Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
