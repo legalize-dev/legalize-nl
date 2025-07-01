@@ -4,7 +4,7 @@ identifier: "BWBR0045396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2022-11-05"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045396"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Deze regeling berust op [artikel 5.1 van de Wet hersteloperatie toeslagen](https
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2022-11-05&g=2022-11-05);
+- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2025-07-01&g=2025-07-01);
 
 - **minister:** Minister van Financiën;
 
@@ -66,19 +66,19 @@ In deze regeling wordt verstaan onder:
 
 De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het vervallen dan wel intrekken van deze regeling.
 
-##### Artikel 5. Samenstelling, benoeming, ontheffing en werkwijze
+##### Artikel 5. Samenstelling, benoeming, ontheffing, ontslag en werkwijze
 
-1. De commissie bestaat uit gedupeerde aanvragers van een kinderopvangtoeslag of hun partners en heeft een voorzitter en ten minste acht leden.
+1. De commissie bestaat uit gedupeerde aanvragers van een kinderopvangtoeslag of hun partners en heeft een voorzitter. De commissie bestaat uit ten minste acht en ten hoogste vijftien leden.
 
 2. De voorzitter en de leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
-3. De voorzitter en de leden worden door de minister benoemd. De benoeming geschiedt voor de duur van deze regeling.
+3. De voorzitter en de leden worden door de minister benoemd. De benoeming geschiedt voor de duur van ten hoogste twee jaren, welke termijn eenmaal verlengd kan worden met ten hoogste twee jaren.
 
-4. De voorzitter en de leden worden op eigen verzoek door de minister ontheven van het lidmaatschap van de commissie.
+4. De voorzitter en de leden worden op eigen verzoek door de minister ontheven van het lidmaatschap van de commissie. Voorts kunnen zij wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-5. Bij tussentijds vertrek van de voorzitter benoemt de minister een andere voorzitter.
+5. Bij vertrek van de voorzitter benoemt de minister een andere voorzitter.
 
-6. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
+6. Bij vertrek van een lid kan de minister een ander lid benoemen.
 
 7. De commissie stelt haar eigen werkwijze vast.
 
@@ -94,7 +94,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 1. De minister stelt een reactie op naar aanleiding van een advies van de commissie. Deze reactie wordt naar de commissie gezonden.
 
-2. De adviezen van de commissie en de reactie van de minister daarop worden gepubliceerd op de website van de Belastingdienst/Toeslagen.
+2. De adviezen van de commissie en de reactie van de minister daarop worden gepubliceerd op de website van de Dienst Toeslagen.
 
 ##### Artikel 8. Archiefbescheiden
 
@@ -102,7 +102,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 2. De commissie kan de bescheiden eerder aan het archief van het ministerie overdragen als omstandigheden daartoe aanleiding geven.
 
-##### Artikel 9. Inwerkingtreding en horizonbepaling
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
 
