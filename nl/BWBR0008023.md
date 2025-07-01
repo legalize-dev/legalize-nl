@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-04-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2025-04-01&g=2025-04-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2025-07-01&g=2025-07-01) van de Regeling maximumprijzen geneesmiddelen
 
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -376,7 +376,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 8318 |   |   |   |   |   | Etalpha leo capsule 0,25mcg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| ALFACALCIDOL-.0005-MG-CAPSULE |   |   |   |   |   |   |   |   |   | 0,285452 per stuk |
+| ALFACALCIDOL-.0005-MG-CAPSULE * |   |   |   |   |   |   |   |   |   | 0,328269 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 22263 |   |   |   |   |   | Etalpha leo capsule 0,5mcg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -393,7 +393,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 14698 |   |   |   |   |   | Etalpha injvlst 2mcg/ml ampul 0,5ml |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL |   |   |   |   |   |   |   |   |   | 1,301031 per ml |
+| ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL * |   |   |   |   |   |   |   |   |   | 1,496185 per ml |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 9284 |   |   |   |   |   | Etalpha leo druppels 2mcg/ml |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -800,7 +800,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26685 |   |   |   |   |   | Amoxicilline disper sandoz tablet 750mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| AMOXICILLIN-875-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET |   |   |   |   |   |   |   |   |   | 0,490132 per stuk |
+| AMOXICILLIN-875-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET * |   |   |   |   |   |   |   |   |   | 0,563651 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 33636 |   |   |   |   |   | Amoxi/clav aurobindo tablet omhuld 875/125mg |   |   |   |   |
 | 27141 |   |   |   |   |   | Amoxi/clav sandoz tablet omhuld 875/125mg |   |   |   |   |
@@ -1533,7 +1533,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 120233 |   |   |   |   |   | Effezel gel 1/25mg/g |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| BENZYLPENICILLIN-1000000-IE-POED. V. INJECTIE, FLACON |   |   |   |   |   |   |   |   |   | 2,164449 per stuk |
+| BENZYLPENICILLIN-1000000-IE-POED. V. INJECTIE, FLACON * |   |   |   |   |   |   |   |   |   | 2,489116 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 122024//120400 |   |   |   |   |   | Natriumbenzylpenicilline eur-ph injpd fl 1milj ie |   |   |   |   |
 | 125239//120400 |   |   |   |   |   | Natriumbenzylpenicilline eur-ph injpd fl 1milj ie |   |   |   |   |
@@ -2452,7 +2452,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 3899 |   |   |   |   |   | Tegretol tablet 200mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE |   |   |   |   |   |   |   |   |   | 0,071237 per stuk |
+| CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE * |   |   |   |   |   |   |   |   |   | 0,081922 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 21169 |   |   |   |   |   | Carbamazepine apotex retard tablet mga 200mg |   |   |   |   |
 | 24401 |   |   |   |   |   | Carbamazepine sandoz retard tablet mga 200mg |   |   |   |   |
@@ -3131,12 +3131,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 6870 |   |   |   |   |   | Rivotril tablet 0,5mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| CLONAZEPAM-2.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL |   |   |   |   |   |   |   |   |   | 0,166566 per ml |
+| CLONAZEPAM-2.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL * |   |   |   |   |   |   |   |   |   | 0,191551 per ml |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 6872 |   |   |   |   |   | Rivotril druppels 2,5mg/ml |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| CLONAZEPAM-2-MG-TABLET |   |   |   |   |   |   |   |   |   | 0,142653 per stuk |
+| CLONAZEPAM-2-MG-TABLET * |   |   |   |   |   |   |   |   |   | 0,164052 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 6871 |   |   |   |   |   | Rivotril tablet 2mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -4061,7 +4061,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/21/1585/001 |   |   |   |   |   | Vumerity capsule msr 231mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE |   |   |   |   |   |   |   |   |   | 0,412855 per stuk |
+| DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE * |   |   |   |   |   |   |   |   |   | 0,474784 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** |   |   |   |   |
 | 8613 |   |   |   |   |   | Ritmoforine retard tablet mga 250mg |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -9372,7 +9372,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/07/425/038 |   |   |   |   |   | Eucreas tablet omhuld 50/ 850mg | Eucreas tablet omhuld 50/ 850mg | Eucreas tablet omhuld 50/ 850mg | Eucreas tablet omhuld 50/ 850mg | Eucreas tablet omhuld 50/ 850mg |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET |   | 0,351157 per stuk |
+| METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * | METHADONE-5-MG-TABLET * |   | 0,403831 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** | **Artikelnaam** | **Artikelnaam** | **Artikelnaam** |   |
 | 105797 |   |   |   |   |   | Methadon hcl sandoz tablet 5mg | Methadon hcl sandoz tablet 5mg | Methadon hcl sandoz tablet 5mg | Methadon hcl sandoz tablet 5mg | Methadon hcl sandoz tablet 5mg |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -14602,7 +14602,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/96/027/007 |   |   |   |   |   | Hycamtin capsule 1mg | Hycamtin capsule 1mg | Hycamtin capsule 1mg | Hycamtin capsule 1mg | Hycamtin capsule 1mg |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **Productgroep** |   |   |   |   |   |   |   |   |   | **Maximumprijs** |
-| TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON |   | 239,258481 per stuk |
+| TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * | TOPOTECAN-4-MG-POED. V. INFUSIE,FLACON * |   | 275,147253 per stuk |
 | **Registratienummer** |   |   |   |   |   | **Artikelnaam** | **Artikelnaam** | **Artikelnaam** | **Artikelnaam** |   |
 | EU/1/96/027/003 |   |   |   |   |   | Hycamtin infusiepoeder flacon 4mg | Hycamtin infusiepoeder flacon 4mg | Hycamtin infusiepoeder flacon 4mg | Hycamtin infusiepoeder flacon 4mg | Hycamtin infusiepoeder flacon 4mg |
 |   |   |   |   |   |   |   |   |   |   |   |
