@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-10-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een vergunninghouder een verzoek tot wijziging van de vergunning indient, bedoeld in het vierde lid, wordt onderzocht of er gegronde redenen bestaan om aan te nemen dat de vergunninghouder voor de ruimte waarvoor de wijziging van de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
-6. Voor een onderzoek als bedoeld in het vijfde lid is een tarief verschuldigd als vermeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021915&artikel=5&z=2024-10-01&g=2024-10-01).
+6. Voor een onderzoek als bedoeld in het vijfde lid is een tarief verschuldigd als vermeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021915&artikel=5&z=2025-07-01&g=2025-07-01).
 
 7. Indien gevolg wordt gegeven aan een verzoek van een vergunninghouder als bedoeld in het vierde lid behoudt de vergunning de oorspronkelijke looptijd.
 
@@ -110,43 +110,43 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 1. De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
-- a. € 526,80 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
+- a. € 561,57 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
 
-- b. € 460,95 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- b. € 491,38 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- c. € 263,42 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- c. € 280,80 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- d. € 526,80 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
+- d. € 561,57 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
 
-- e. € 460,95 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- e. € 491,38 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- f. € 658,52 indien:
+- f. € 701,98 indien:
 
 - –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
 - –. die vormen van gebruik betrekking hebben op dezelfde ruimte;
 
-- g. € 526,80 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningsplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3);
+- g. € 561,57 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningsplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3);
 
-- h. € 197,57 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3), indien de medewerker van de gemeentelijke gezondheidsdienst waar de aanvraag voor vrijstelling is ingediend beslist heeft dat beoordeling van de veiligheid met verminderde inzet kan worden uitgevoerd. Een beslissing als bedoeld in de vorige zin wordt tenminste genomen indien:
+- h. € 210,61 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3), indien de medewerker van de gemeentelijke gezondheidsdienst waar de aanvraag voor vrijstelling is ingediend beslist heeft dat beoordeling van de veiligheid met verminderde inzet kan worden uitgevoerd. Een beslissing als bedoeld in de vorige zin wordt tenminste genomen indien:
 
 - –. de artiest(en), werkzaam zijn bij een vergunninghouder in Nederland en;
 
 - –. er bij een eerder evenement van dezelfde organisator of op dezelfde locatie betreffende dezelfde verrichtingen geen tekortkomingen zijn geconstateerd.
 
-2. De retributie wordt vermeerderd met € 32,92 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
+2. De retributie wordt vermeerderd met € 35,09 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
 
 - a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4) geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of
 
 - b. om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.
 
-3. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 32,92 voor elk kwartier of gedeelte van een kwartier:
+3. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 35,09 voor elk kwartier of gedeelte van een kwartier:
 
 - a. dat de voortzetting duurt, en
 
 - b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.
 
-4. De retributie wordt verminderd met een bedrag van € 131,70, indien:
+4. De retributie wordt verminderd met een bedrag van € 140,40, indien:
 
 - a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten waarbij de activiteiten zijn beoordeeld ingevolge [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4);
 
