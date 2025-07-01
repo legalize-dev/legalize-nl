@@ -4,7 +4,7 @@ identifier: "BWBR0037361"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037361"
 soort: "wet"
@@ -69,7 +69,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - d. **Nederlandse wet:** een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-3. Onder officier van justitie en hulpofficier van justitie wordt uitsluitend voor de toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037361&hoofdstuk=2&artikel=5&z=2018-07-01&g=2018-07-01), mede verstaan de officier van justitie van het openbaar ministerie bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, onderscheidenlijk de hulpofficier van justitie, bedoeld in [artikel 191 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=191).
+3. Onder officier van justitie en hulpofficier van justitie wordt uitsluitend voor de toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037361&hoofdstuk=2&artikel=5&z=2025-07-01&g=2025-07-01), mede verstaan de officier van justitie van het openbaar ministerie bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, onderscheidenlijk de hulpofficier van justitie, bedoeld in [artikel 191 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=191).
 
 ##### Artikel 2
 
@@ -121,7 +121,7 @@ Na inwilliging van het verzoek om overlevering wordt de over te leveren persoon 
 
 ##### Artikel 9
 
-Politiegegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) kunnen ook zonder daartoe strekkend verzoek worden verstrekt aan het Restmechanisme indien dit voor de goede uitvoering van zijn taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van de landelijke eenheid van de politie, bedoeld in [artikel 25 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+Politiegegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) kunnen ook zonder daartoe strekkend verzoek worden verstrekt aan het Restmechanisme indien dit voor de goede uitvoering van zijn taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van een landelijke eenheid van de politie, bedoeld in [artikel 25 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
 
 ##### Artikel 10
 
@@ -139,7 +139,7 @@ Personen die zich in Nederland bevinden en wier medebrenging als getuige of desk
 
 ##### Artikel 12
 
-1. Onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037361&hoofdstuk=3&artikel=8&z=2018-07-01&g=2018-07-01) kunnen getuigen of deskundigen, van welke nationaliteit ook, die, gehoor gevende aan een dagvaarding of oproeping van het Restmechanisme of als gevolg van een bevel tot medebrenging van het Restmechanisme, naar Nederland komen, in Nederland niet worden vervolgd, aangehouden of aan enige andere vrijheidsbeperkende maatregelen onderworpen voor feiten of veroordelingen die voorafgingen aan hun aankomst in Nederland.
+1. Onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037361&hoofdstuk=3&artikel=8&z=2025-07-01&g=2025-07-01) kunnen getuigen of deskundigen, van welke nationaliteit ook, die, gehoor gevende aan een dagvaarding of oproeping van het Restmechanisme of als gevolg van een bevel tot medebrenging van het Restmechanisme, naar Nederland komen, in Nederland niet worden vervolgd, aangehouden of aan enige andere vrijheidsbeperkende maatregelen onderworpen voor feiten of veroordelingen die voorafgingen aan hun aankomst in Nederland.
 
 2. De in het eerste lid bedoelde immuniteit vervalt indien de getuige of deskundige, hoewel hij gedurende vijftien achtereenvolgende dagen na het tijdstip waarop zijn aanwezigheid niet meer door het Restmechanisme werd vereist, de mogelijkheid had Nederland te verlaten, maar hier te lande is gebleven of in Nederland is teruggekeerd na het te hebben verlaten.
 
