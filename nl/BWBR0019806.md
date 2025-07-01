@@ -4,7 +4,7 @@ identifier: "BWBR0019806"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019806"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.o
 
 ##### Artikel 5
 
-1. Het tunnelveiligheidsplan, bedoeld in [artikel 6c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6c), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2024-01-01&g=2024-01-01), onderdeel B1, bij deze regeling.
+1. Het tunnelveiligheidsplan, bedoeld in [artikel 6c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6c), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2025-07-01&g=2025-07-01), onderdeel B1, bij deze regeling.
 
 2. Het tunnelveiligheidsplan bevat ten minste:
 
@@ -75,7 +75,7 @@ De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.o
 
 ##### Artikel 6
 
-1. Het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2024-01-01&g=2024-01-01), onderdeel B3, bij deze regeling.
+1. Het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2025-07-01&g=2025-07-01), onderdeel B3, bij deze regeling.
 
 2. Het veiligheidsbeheerplan bevat ten minste:
 
@@ -119,7 +119,7 @@ De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.o
 
 ##### Artikel 7
 
-De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2024-01-01&g=2024-01-01), en de aanvalsplannen van de binnen een veiligheidsregio, als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466), samenwerkende hulpverleningsdiensten. Hij neemt kennis van de rampenbestrijdingsplannen van de desbetreffende veiligheidsregio’s, voor zover de tunnel betreffende.
+De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), en de aanvalsplannen van de binnen een veiligheidsregio, als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466), samenwerkende hulpverleningsdiensten. Hij neemt kennis van de rampenbestrijdingsplannen van de desbetreffende veiligheidsregio’s, voor zover de tunnel betreffende.
 
 ##### Artikel 8
 
@@ -175,7 +175,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 ##### Artikel 12
 
-1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=4&z=2024-01-01&g=2024-01-01), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2024-01-01&g=2024-01-01), met inbegrip van latere wijzigingen daarvan, alsmede:
+1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=4&z=2025-07-01&g=2025-07-01), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2025-07-01&g=2025-07-01), met inbegrip van latere wijzigingen daarvan, alsmede:
 
 - a. de planologische besluiten ten aanzien van de tunnel;
 
@@ -283,7 +283,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 4. Indien de veilige vluchtroute, bedoeld in het eerste lid onder bb, onder iii, bestaat uit een verkeersvrij te maken verkeersbuis bevat de tunnel in aanvulling op het eerste lid een rij van vergrendelbare vluchtdeuren.
 
-5. Een tunnel langer dan 500 meter wordt uitgerust met de in het eerste lid en in het tweede, derde of vierde lid bedoelde onderdelen overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01) bij deze regeling.
+5. Een tunnel langer dan 500 meter wordt uitgerust met de in het eerste lid en in het tweede, derde of vierde lid bedoelde onderdelen overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01) bij deze regeling.
 
 ##### Artikel 14
 
@@ -293,7 +293,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-1. De instructies, bedoeld in [artikel 6, tweede lid, onderdeel f, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2024-01-01&g=2024-01-01), bevatten een beschrijving van de handelswijze bij incidenten en calamiteiten overeenkomstig de volgende processtappen:
+1. De instructies, bedoeld in [artikel 6, tweede lid, onderdeel f, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), bevatten een beschrijving van de handelswijze bij incidenten en calamiteiten overeenkomstig de volgende processtappen:
 
 - a. vaststellen van de aard van het voorval;
 
@@ -309,11 +309,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. loggen en registreren van het voorval en de afhandeling ervan.
 
-2. Voor tunnels langer dan 500 meter die zijn uitgerust met een gestandaardiseerde uitrusting overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01) bevatten de instructies een nadere uitwerking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=3&z=2024-01-01&g=2024-01-01) opgenomen uitgangspunten.
+2. Voor tunnels langer dan 500 meter die zijn uitgerust met een gestandaardiseerde uitrusting overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) bevatten de instructies een nadere uitwerking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=3&z=2025-07-01&g=2025-07-01) opgenomen uitgangspunten.
 
 ##### Artikel 6b
 
-De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7) en in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2024-01-01&g=2024-01-01), van deze regeling, wordt uitgevoerd overeenkomstig de in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2a&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen Scenarioanalyse Ongevallen in Tunnels.
+De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7) en in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), van deze regeling, wordt uitgevoerd overeenkomstig de in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2a&z=2025-07-01&g=2025-07-01) bij deze regeling opgenomen Scenarioanalyse Ongevallen in Tunnels.
 
 ##### Artikel 13a
 
@@ -355,29 +355,29 @@ De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid
 
 2. Indien de beheerder dit verkeerskundig noodzakelijk acht, beschikt de tunnel tevens over handmatig bedienbare afsluitbomen.
 
-3. Een tunnel langer dan 250 meter en ten hoogste 500 meter wordt uitgerust met de in het eerste lid bedoelde onderdelen overeenkomstig de voorschriften van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01), paragrafen 1 tot en met 4, 16, 17, 19 tot en met 24, 29, 30, 32, 34 en 35 bij deze regeling.
+3. Een tunnel langer dan 250 meter en ten hoogste 500 meter wordt uitgerust met de in het eerste lid bedoelde onderdelen overeenkomstig de voorschriften van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), paragrafen 1 tot en met 4, 16, 17, 19 tot en met 24, 29, 30, 32, 34 en 35 bij deze regeling.
 
 ##### Artikel 13b
 
-Indien het een tunnel onder een waterweg betreft, beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01) of [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2024-01-01&g=2024-01-01) over hittewerende bekleding die de constructie twee uur bescherming biedt tegen brand conform de RWS-brandkromme als bedoeld in NEN-EN 1991-1-2.
+Indien het een tunnel onder een waterweg betreft, beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) of [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01) over hittewerende bekleding die de constructie twee uur bescherming biedt tegen brand conform de RWS-brandkromme als bedoeld in NEN-EN 1991-1-2.
 
 ##### Artikel 13c
 
-Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 meter beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01) over de volgende uitrusting:
+Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 meter beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) over de volgende uitrusting:
 
-- a. Hoogtedetectie zoals weergegeven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling, en
+- a. Hoogtedetectie zoals weergegeven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=5&z=2025-07-01&g=2025-07-01) bij deze regeling, en
 
 - b. Closed circuit television waarmee de situatie bij de hoogtedetectoren in beeld wordt gebracht.
 
 ##### Artikel 13d
 
-1. Indien het in een tunnel langer dan 500 meter mogelijk is om de verkeersrichting in een tunnelbuis om te keren beschikt elke betreffende tunnelbuis in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01) over de volgende uitrusting:
+1. Indien het in een tunnel langer dan 500 meter mogelijk is om de verkeersrichting in een tunnelbuis om te keren beschikt elke betreffende tunnelbuis in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) over de volgende uitrusting:
 
 - a. aan beide zijden van de verkeersbuis wordt boven elke rijstrook en ruimtereserveringstrook hoogtedetectie toegepast indien het profiel van de vrije ruimte in de verkeersbuis lager is dan 4,70 meter;
 
-- b. de verlichtingszones bedoeld in paragraaf 4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01) worden vanuit beide richtingen bezien;
+- b. de verlichtingszones bedoeld in paragraaf 4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01) worden vanuit beide richtingen bezien;
 
-- c. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01), paragraaf 11, geldt voor beide rijrichtingen;
+- c. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), paragraaf 11, geldt voor beide rijrichtingen;
 
 - d. verkeerslichten aan beide zijden van de verkeersbuis;
 
@@ -385,7 +385,7 @@ Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 met
 
 - f. detectie van stilstaande voertuigen en spookrijders die in twee richtingen werkzaam is;
 
-- g. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01), artikel 17.2, tweede lid, is niet van toepassing;
+- g. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), artikel 17.2, tweede lid, is niet van toepassing;
 
 - h. de Closed circuit television-camera’s zijn 180 graden draaibaar, en
 
@@ -393,31 +393,31 @@ Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 met
 
 2. Indien de tunnelbeheerder dit verkeerskundig noodzakelijk acht, beschikt de tunnel bedoeld in het eerste lid tevens over een:
 
-- a. verrijdbare bermbeveiliging overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2024-01-01&g=2024-01-01), paragraaf 1, bij deze regeling, of
+- a. verrijdbare bermbeveiliging overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2025-07-01&g=2025-07-01), paragraaf 1, bij deze regeling, of
 
-- b. beweegbare barrier overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2024-01-01&g=2024-01-01), paragraaf 2, bij deze regeling.
+- b. beweegbare barrier overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2025-07-01&g=2025-07-01), paragraaf 2, bij deze regeling.
 
 ##### Artikel 13e
 
-Met de onderdelen van de gestandaardiseerde uitrusting als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2024-01-01&g=2024-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13b&z=2024-01-01&g=2024-01-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2024-01-01&g=2024-01-01), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2024-01-01&g=2024-01-01) en in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2024-01-01&g=2024-01-01) bij deze regeling worden gelijkgesteld die goederen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een tot een douane-uniestrekkende verdrag, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij een tot de vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de onderdelen van de gestandaardiseerde uitrusting wordt nagestreefd.
+Met de onderdelen van de gestandaardiseerde uitrusting als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13b&z=2025-07-01&g=2025-07-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2025-07-01&g=2025-07-01), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2025-07-01&g=2025-07-01) en in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=5&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2025-07-01&g=2025-07-01) bij deze regeling worden gelijkgesteld die goederen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een tot een douane-uniestrekkende verdrag, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij een tot de vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de onderdelen van de gestandaardiseerde uitrusting wordt nagestreefd.
 
 ##### Artikel 13f
 
 Deze regeling wordt aangehaald als: Regeling aanvullende regels veiligheid wegtunnels.
 
-## Bijlage 1. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=4&z=2024-01-01&g=2024-01-01) van de Regeling aanvullende regels veiligheid wegtunnels
+## Bijlage 1. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=4&z=2025-07-01&g=2025-07-01) van de Regeling aanvullende regels veiligheid wegtunnels
 
 **Deze bijlage betreft de QRA tunnels en wordt niet in de Nederlandse Staatscourant geplaatst maar ter inzage gelegd in de bibliotheek van het ministerie van IenM en wordt ook per internet beschikbaar gesteld.**
 
-## Bijlage 2. behorende bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2024-01-01&g=2024-01-01) van de Regeling aanvullende regels veiligheid wegtunnels en artikel 7.15, eerste lid, onder b, van de Omgevingsregeling
+## Bijlage 2. behorende bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01) van de Regeling aanvullende regels veiligheid wegtunnels en artikel 7.15, eerste lid, onder b, van de Omgevingsregeling
 
 **Deze bijlage betreft de leidraad veiligheidsdocumentatie en is niet in de Nederlandse Staatscourant geplaatst maar ter inzage gelegd in de bibliotheek van het ministerie van IenM en wordt ook per internet beschikbaar gesteld.**
 
-## Bijlage 2a. behorende bij [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6b&z=2024-01-01&g=2024-01-01) van de Regeling aanvullende regels veiligheid wegtunnels
+## Bijlage 2a. behorende bij [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6b&z=2025-07-01&g=2025-07-01) van de Regeling aanvullende regels veiligheid wegtunnels
 
 **Deze bijlage betreft de Scenarioanalyse en is niet in de Nederlandse Staatscourant geplaatst maar ter inzage gelegd in de bibliotheek van het ministerie van IenM en wordt ook per internet beschikbaar gesteld.**
 
-## Bijlage 3. behorende bij [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6a&z=2024-01-01&g=2024-01-01) van de Regeling aanvullende regels veiligheid wegtunnels
+## Bijlage 3. behorende bij [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6a&z=2025-07-01&g=2025-07-01) van de Regeling aanvullende regels veiligheid wegtunnels
 
 ### Paragraaf 1. Uitgangspunten bij het instellen van initiële maatregelen
 
@@ -475,7 +475,7 @@ Het is de verantwoordelijkheid van de weginspecteur of de officier van dienst va
 
 ### Artikel 15
 
-## Bijlage 4. behorende bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2024-01-01&g=2024-01-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2024-01-01&g=2024-01-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2024-01-01&g=2024-01-01) van de Regeling aanvullende regels veiligheid wegtunnels
+## Bijlage 4. behorende bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2025-07-01&g=2025-07-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2025-07-01&g=2025-07-01) van de Regeling aanvullende regels veiligheid wegtunnels
 
 ### Paragraaf 1. Definities
 
@@ -487,7 +487,7 @@ In deze bijlage wordt verstaan onder:
 
 ### Artikel 2.1
 
-De in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2024-01-01&g=2024-01-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2024-01-01&g=2024-01-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2024-01-01&g=2024-01-01) van de regeling genoemde uitrusting en de onderdelen daarvan:
+De in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2025-07-01&g=2025-07-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2025-07-01&g=2025-07-01) van de regeling genoemde uitrusting en de onderdelen daarvan:
 
 ### Artikel 2.2
 
@@ -503,25 +503,21 @@ Zowel elk onderdeel van de gestandaardiseerde uitrusting als de gestandaardiseer
 
 Hulpposten van het type 2 bevatten:
 
-### Artikel 3.4
-
 ### Artikel 3.5
 
 ### Artikel 3.6
 
 ### Artikel 3.7
 
+### Artikel 3.8
+
 Het technisch deel van een hulppost van het type 1 bevat een voorziening die bij blussen met de slanghaspel een passend schuimvormend middel toevoegt aan het bluswater zodat plasbranden geblust kunnen worden.
 
 ### Artikel 3.8
 
-### Artikel 3.9
-
-De hulppost wordt ontgrendeld door de deurklink van de eerst openende deur te draaien of naar beneden te bewegen, de deur opent met de rijrichting mee.
-
 ### Artikel 3.10
 
-### Artikel 3.11
+De hulppost wordt ontgrendeld door de deurklink van de eerst openende deur te draaien of naar beneden te bewegen, de deur opent met de rijrichting mee.
 
 ### Artikel 3.12
 
@@ -531,11 +527,11 @@ De hulppost wordt ontgrendeld door de deurklink van de eerst openende deur te dr
 
 ### Artikel 3.15
 
-Links naast de hulppost op een hoogte van 1.200 millimeter boven het wegdek is een vlakke hulppostcodering aangebracht met zwarte letters op een witte ondergrond en een letterhoogte van 100 millimeter.
+### Artikel 3.14
 
 ### Artikel 3.16
 
-### Paragraaf 4. Verlichting verkeersbuis
+Links naast de hulppost op een hoogte van 1.200 millimeter boven het wegdek is een vlakke hulppostcodering aangebracht met zwarte letters op een witte ondergrond en een letterhoogte van 100 millimeter.
 
 ### Artikel 4.1
 
@@ -543,7 +539,7 @@ Links naast de hulppost op een hoogte van 1.200 millimeter boven het wegdek is e
 
 ### Artikel 4.3
 
-In een dagsituatie is het lichtniveau in het eerste deel van de drempelzone zodanig ingesteld dat er voor de weggebruikers voldoende contrast waarneembaar is tussen voertuigen en wegdek. Het lichtniveau in het tweede deel van de drempelzone neemt gelijkmatig af naar 40% van het lichtniveau in het eerste deel van de drempelzone.
+### Artikel 4.2
 
 ### Artikel 4.4
 
@@ -559,7 +555,11 @@ Het lichtniveau in de uitgangszone neemt in een dagsituatie zodanig gelijkmatig 
 
 ### Artikel 4.7
 
-### Artikel 4.8
+Het lichtniveau in de uitgangszone neemt in een dagsituatie zodanig gelijkmatig toe met de ontwerprijrichting mee, dat de weggebruikers voldoende tijd hebben om te wennen aan de overgang van het lichtniveau in de centrale zone naar het hogere lichtniveau buiten de verkeersbuis.
+
+### Artikel 4.7
+
+### Artikel 4.9
 
 ### Artikel 4.9
 
@@ -569,13 +569,13 @@ De drempelwaardeverhoging van de verlichting is ten hoogste 15%.
 
 Verlichtingsarmaturen zijn zodanig geplaatst dat er geen flikkeringen optreden met:
 
-### Paragraaf 5. Verkeerslicht verkeersbuis
+### Artikel 5.1
 
 ### Paragraaf 5. Verkeerslicht verkeersbuis
 
 Aan het samenstel van verkeerslichten gaat een waarschuwingsbord J32 als bedoeld in RVV 1990 vooraf.
 
-### Paragraaf 6. Afsluitboom verkeersbuis
+### Artikel 6.1
 
 ### Paragraaf 6. Afsluitboom verkeersbuis
 
@@ -585,13 +585,13 @@ De afsluitboom detecteert of zich voertuigen onder de afsluitboom bevinden.
 
 De verkeersbuis beschikt over een mechanisch vergrendelde afsluitboomkast van waaruit de afsluitboom plaatselijk elektrisch bediend kan worden.
 
-### Paragraaf 7. Hulpdienstpaneel verkeersbuis
-
-### Paragraaf 7. Hulpdienstpaneel verkeersbuis
-
 ### Artikel 7.1
 
 ### Artikel 7.2
+
+### Paragraaf 8. Detectie snelheidsonderschrijdingen en spookrijders
+
+### Artikel 8.1
 
 ### Paragraaf 8. Detectie snelheidsonderschrijdingen en spookrijders
 
@@ -601,19 +601,19 @@ Op elke rijstrook en ruimtereserveringsstrook worden snelheidsonderschrijdingen 
 
 De in artikel 8.1, eerste lid bedoelde detectie wordt uitgevoerd op de hoofdrijbaan ten minste vanaf de afsluitboom bij de toerit van de betreffende verkeersbuis tot ten minste 600 m voorbij de verkeersbuis, tenzij dit verkeerstechnisch niet inpasbaar is, dan tot ten minste die afstand die wel inpasbaar is.
 
-### Paragraaf 9. Verkeersmanagementsysteem
-
-### Paragraaf 9. Verkeersmanagementsysteem
-
 ### Artikel 9.1
+
+### Paragraaf 10. Verkeersmanagementsysteem koppeling verkeersbuis
+
+### Artikel 10.1
 
 ### Paragraaf 10. Verkeersmanagementsysteem koppeling verkeersbuis
 
 Het is mogelijk om op alle rijstrookgebonden signaalgevers op de 4 signaleringsraaien bovenstrooms van elk verkeerslicht een vastgestelde snelheidsbeperking aan te vragen.
 
-### Paragraaf 11. Ventilatie verkeersbuis
+### Artikel 11.1
 
-### Paragraaf 11. Ventilatie verkeersbuis
+### Artikel 11.2
 
 ### Artikel 11.1
 
@@ -623,25 +623,25 @@ De ventilatie wordt zodanig ontworpen dat de concentratie NO2 voor de ontworpen 
 
 De kans op technisch falen van de ventilatie is kleiner dan 0,02 per keer dat de ventilatie wordt ingeschakeld.
 
-### Artikel 11.4
+### Artikel 11.5
 
 ### Artikel 11.4
 
 Het gemiddelde geluidsdrukniveau bij inschakeling van de ventilatie bedraagt ten hoogste 87dB (A). Op geen enkele plaats in de verkeersbuis, gemeten op een hoogte van 1,60 meter boven het wegdek, is een geluidsdrukniveau van meer dan 90 db(A).
 
-### Artikel 11.6
+### Paragraaf 12. Luchtkwaliteitmeter verkeersbuis
 
-### Artikel 11.6
+### Artikel 12.1
 
 ### Paragraaf 12. Luchtkwaliteitmeter verkeersbuis
 
 In elke verkeersbuis wordt de waarde van de lichtreductiecoëfficient op 100 meter van het ingangsportaal en 100 meter van het uitgangsportaal en daartussen ten minste elke 250 meter bepaald.
 
-### Artikel 12.2
-
-### Artikel 12.2
-
 ### Paragraaf 13. Closed circuit television (CCTV) verkeersbuis
+
+### Artikel 13.1
+
+### Artikel 13.2
 
 ### Artikel 13.1
 
@@ -650,10 +650,6 @@ De camera's zijn bij afsluitbomen en calamiteitendoorsteken zo geplaatst dat in 
 ### Artikel 13.3
 
 Camerabeelden ten behoeve van het herkennen van personen in het tunneltracé, de stand van het verkeerslicht, de situatie bij hulpposten en vluchtdeuren, en het identificeren van voertuigen in het tunneltracé zijn op aanvraag beschikbaar voor de wegverkeersleider.
-
-### Paragraaf 14. Omroep verkeersbuis
-
-### Paragraaf 14. Omroep verkeersbuis
 
 ### Artikel 14.1
 
@@ -671,15 +667,19 @@ Camerabeelden ten behoeve van het herkennen van personen in het tunneltracé, de
 
 ### Artikel 16.1
 
+### Paragraaf 16. Noodtelefoon verkeersbuis
+
 ### Artikel 16.2
 
 ### Paragraaf 17. Rij van vluchtdeuren
+
+### Artikel 17.1
 
 In geval van een middentunnelkanaal met uitsluitend kopdeuren als vluchtuitgang is een verkeersbuis uitgerust met een rij van vluchtdeuren.
 
 ### Artikel 17.2
 
-### Artikel 17.2
+### Artikel 17.3
 
 De vluchtdeuren weren in gesloten toestand de stroming van verontreinigde lucht naar de vluchtroute.
 
@@ -699,7 +699,7 @@ De vrije doorgang van vluchtdeuren is ten minste 850 millimeter breed en 2.100 m
 
 Vluchtdeuren die, vanuit naast elkaar gelegen verkeersbuizen, op één middentunnelkanaal uitkomen, zijn recht tegenover elkaar geplaatst.
 
-### Artikel 17.8
+### Artikel 17.9
 
 ### Artikel 17.9
 
@@ -709,7 +709,7 @@ De bovenzijde van elke handgreep is aan de verkeersbuiszijde van de vluchtdeur, 
 
 Vluchtdeuren zijn zelfsluitend. De benodigde tijd voor het zelf sluiten van een vluchtdeur is ten hoogste 15 seconden.
 
-### Artikel 17.11
+### Artikel 17.12
 
 ### Artikel 17.12
 
@@ -723,8 +723,6 @@ Inkassingen van vluchtdeuren aan de verkeersbuiszijde worden als volgt uitgevoer
 
 Aan de linkerzijde van de vluchtdeur aan de verkeersbuiszijde op een hoogte van 1.200 millimeter boven het wegdek is een vlakke deurnummering aangebracht. Hierbij worden zwarte letters op een witte ondergrond gebruikt met een letterhoogte van 100 millimeter.
 
-### Artikel 17.15
-
 ### Artikel 17.16
 
 ### Paragraaf 18. Rij van vergrendelbare vluchtdeuren
@@ -733,31 +731,33 @@ Aan de linkerzijde van de vluchtdeur aan de verkeersbuiszijde op een hoogte van 
 
 ### Artikel 18.2
 
-In het geval van een middentunnelkanaal met als vluchtuitgang de laatste deur van de rij van vergrendelbare vluchtdeuren naar de ondersteunende buis heeft slechts deze deur vergrendeling en aan de zijde van het middentunnelkanaal een vaste handgreep om deze te kunnen openen.
-
 ### Artikel 18.3
 
-Elke vluchtdeur van een rij van vergrendelbare vluchtdeuren kan in vergrendelde toestand met een handgreep geopend worden, door middel van een neerwaartse beweging van de handgreep. De daartoe noodzakelijke kracht bedraagt ten minste 390N en ten hoogste 410N.
+Elke vluchtdeur van een rij van vergrendelbare vluchtdeuren kan in vergrendelde toestand met een handgreep geopend worden door middel van een neerwaartse beweging van de handgreep. De daartoe noodzakelijke kracht bedraagt ten minste 390N en ten hoogste 510N.
 
 ### Artikel 18.4
 
 Bij uitval van energie of het besturingsysteem worden alle vergrendelbare vluchtdeuren automatisch ontgrendeld.
 
-### Artikel 19.1
+### Paragraaf 19. Vluchtdeurindicatie
+
+Bij uitval van energie of het besturingsysteem worden alle vergrendelbare vluchtdeuren automatisch ontgrendeld.
 
 ### Artikel 19.2
 
 ### Artikel 19.2
-
-Contourverlichting wordt aangebracht boven de voertuigkerende barrier rondom vluchtdeuren door middel van groene LED-verlichting, die:
 
 ### Artikel 19.3
 
 De vluchtdeuren worden permanent aangestraald door de aanstraalverlichting welke wordt aangebracht als accentverlichting. De verlichtingssterkte, gemeten ter plaatse van elk van de afbeeldingen met een vluchtend persoon is ten minste 200 lux en ten hoogste 400 lux.
 
-### Artikel 19.5
+### Artikel 19.4
+
+De vluchtdeuren worden permanent aangestraald door de aanstraalverlichting welke wordt aangebracht als accentverlichting. De verlichtingssterkte, gemeten ter plaatse van elk van de afbeeldingen met een vluchtend persoon is ten minste 200 lux en ten hoogste 400 lux.
 
 ### Artikel 19.5
+
+### Artikel 19.6
 
 ### Artikel 19.6
 
@@ -766,8 +766,6 @@ Op het wegdek, aan weerszijden van de rijbaan ter plaatse van elke vluchtdeur, v
 ### Artikel 19.7
 
 Een tunnel heeft vluchtdeuraanduidingen volgens bord L19 uit het RVV 1990 die:
-
-### Paragraaf 20. Vluchtroute
 
 ### Artikel 20.1
 
@@ -779,9 +777,9 @@ Een tunnel heeft vluchtdeuraanduidingen volgens bord L19 uit het RVV 1990 die:
 
 ### Artikel 21.1
 
-Een kopdeur biedt bij evacuatie een veilige uitgang uit het middentunnelkanaal.
+### Artikel 21.1
 
-### Artikel 21.2
+Een kopdeur biedt bij evacuatie een veilige uitgang uit het middentunnelkanaal.
 
 ### Artikel 21.3
 
@@ -793,13 +791,15 @@ Een kopdeur biedt bij evacuatie een veilige uitgang uit het middentunnelkanaal.
 
 ### Artikel 22.3
 
+### Artikel 22.3
+
 De statische vluchtroute indicatie in het middentunnelkanaal wordt als volgt uitgevoerd:
 
 ### Artikel 22.4
 
 Indien borden zich binnen het profiel van de vrije ruimte in de veilige vluchtroute bevinden zijn deze flexibel opgehangen.
 
-### Paragraaf 23. Verlichting veilige vluchtroute
+### Artikel 23.1
 
 ### Artikel 23.1
 
@@ -809,19 +809,17 @@ De verlichting van het middentunnelkanaal is tijdens een calamiteit ingeschakeld
 
 Indien de no break voorziening zorgt voor de elektrische voeding, heeft de verlichting:
 
-### Paragraaf 24. Overdrukvoorziening middentunnelkanaal of dwarsverbinding.
-
 ### Artikel 24.1
+
+### Artikel 24.2
 
 ### Artikel 24.2
 
 ### Artikel 24.3
 
-### Artikel 24.3
+### Artikel 24.4
 
 De door de overdruk optredende luchtsnelheden, in het middentunnelkanaal en door de geopende vluchtdeuren, zijn zodanig dat vluchten nog mogelijk is.
-
-### Paragraaf 25. Omroepinstallatie veilige vluchtroute
 
 ### Paragraaf 25. Omroepinstallatie veilige vluchtroute
 
@@ -833,9 +831,9 @@ De door de overdruk optredende luchtsnelheden, in het middentunnelkanaal en door
 
 ### Paragraaf 26. Bediening
 
-De bediening van een tunnel bestaat uit:
+### Artikel 26.1
 
-### Artikel 26.2
+De bediening van een tunnel bestaat uit:
 
 ### Artikel 26.2
 
@@ -849,9 +847,9 @@ De bediening van een tunnel bestaat uit:
 
 ### Artikel 28.1
 
-De eventrecorder slaat de gegevens van gebeurtenissen gedurende ten minste twaalf weken op.
+### Artikel 28.2
 
-### Paragraaf 29. Bluswatervoorziening
+De eventrecorder slaat de gegevens van gebeurtenissen gedurende ten minste twaalf weken op.
 
 ### Paragraaf 29. Bluswatervoorziening
 
@@ -863,31 +861,31 @@ De eventrecorder slaat de gegevens van gebeurtenissen gedurende ten minste twaal
 
 ### Paragraaf 30. C2000
 
-De tunnel levert binnen de verkeersbuizen en veilige vluchtroutes binnenhuisdekking van het C2000 verbindingsnetwerk.
+### Artikel 30.1
 
-### Paragraaf 31. Intercom
+De tunnel levert binnen de verkeersbuizen en veilige vluchtroutes binnenhuisdekking van het C2000 verbindingsnetwerk.
 
 ### Paragraaf 31. Intercom
 
 ### Artikel 31.1
 
-Een intercomtoestel voor afsluitbomen en calamiteitendoorsteken is geplaatst in een eigen kast in gele kleur met daarop aangebracht een pictogram zoals in onderstaande figuur weergegeven:
+### Artikel 31.2
 
-### Paragraaf 32. Calamiteitendoorsteek
+Een intercomtoestel voor afsluitbomen en calamiteitendoorsteken is geplaatst in een eigen kast in gele kleur met daarop aangebracht een pictogram zoals in onderstaande figuur weergegeven:
 
 ### Paragraaf 32. Calamiteitendoorsteek
 
 ### Artikel 32.1
 
+### Artikel 32.2
+
 Personen die zich in de nabijheid van een bewegende calamiteitendoorsteek bevinden worden er automatisch auditief en visueel op attent gemaakt dat zij zich in de nabijheid van een automatisch bewegende constructie bevinden.
 
 ### Paragraaf 33. Beeldvoorziening meldkamer
 
-### Paragraaf 33. Beeldvoorziening meldkamer
+### Artikel 33.1
 
 De beeldvoorziening meldkamer zorgt er voor dat in de meldkamer het detailbeeld dat door het camerasysteem wordt getoond aan de wegverkeersleider, kan worden weergegeven.
-
-### Artikel 33.2
 
 ### Artikel 33.2
 
@@ -901,13 +899,13 @@ De beeldvoorziening meldkamer zorgt er voor dat in de meldkamer het detailbeeld 
 
 ### Paragraaf 35. Vloeistofafvoer,vloeistofpompinstallatie en overdrukvoorziening grensruimte
 
+### Artikel 35.1
+
 De vloeistofafvoer bestaat uit:
 
 ### Artikel 35.2
 
 Vloeistofkelders kunnen zijn uitgevoerd als een hoofdkelder of als een middenkelder waarbij geldt dat er ten minste één hoofdkelder aanwezig is.
-
-### Artikel 35.3
 
 ### Artikel 35.3
 
@@ -923,13 +921,15 @@ Vloeistofkelders kunnen zijn uitgevoerd als een hoofdkelder of als een middenkel
 
 ### Artikel 35.9
 
+### Artikel 35.10
+
 De rioolbuizen en de vloeistofkelders zijn gasdicht van elkaar gescheiden met een waterslot.
 
 ### Artikel 35.11
 
-### Artikel 35.11
-
 ### Artikel 35.12
+
+### Artikel 35.13
 
 Bij iedere vloeistofbassin is er een koppelpunt waarmee de afvoer van vloeistof door een tankwagen mogelijk is totdat het droogloopniveau is bereikt.
 
@@ -939,7 +939,7 @@ In een middentunnelkanaal is er een voorziening voor afvoeren van vrijkomend lek
 
 ### Artikel 35.15
 
-### Artikel 35.15
+### Artikel 35.16
 
 Indien sprake is van meerdere hoofdkelders, heeft de middenkelder zowel een afvoerleiding naar één hoofdkelder in de richting van oplopende hectometrering als een afvoerleiding naar één hoofdkelder in de richting van aflopende hectometrering. Bij een calamiteit wordt de afvoerleiding naar één te kiezen hoofdkelder afgesloten.
 
@@ -953,23 +953,23 @@ De pompcapaciteit is per vloeistofkelder minimaal 2m3 per minuut.
 
 ### Artikel 35.19
 
-### Artikel 35.19
+### Artikel 35.20
 
 De te realiseren overdruk in de grensruimtes is indien de overdrukvoorziening aan staat ten minste 10Pa hoger dan de luchtdruk in de verkeersbuizen, waarbij als uitgangspunt wordt genomen dat de overdruk in de verkeersbuizen, ten opzichte van de buitenlucht, niet hoger wordt dan 50Pa.
 
-## Bijlage 5. behorende bij [artikel 13c, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2020-10-01&g=2020-10-01), van de Regeling aanvullende regels veiligheid wegtunnels
+## Bijlage 5. behorende bij [artikel 13c, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2025-07-01&g=2025-07-01), van de Regeling aanvullende regels veiligheid wegtunnels
 
 ### Artikel 1
 
-## Bijlage 6. behorende bij [artikel 13d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2020-10-01&g=2020-10-01), van deze regeling
-
-### Paragraaf 1. Verrijdbare bermbeveiliging
+## Bijlage 6. behorende bij [artikel 13d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2025-07-01&g=2025-07-01), van deze regeling
 
 ### Paragraaf 1. Verrijdbare bermbeveiliging
 
 ### Artikel 1.1
 
 ### Artikel 1.2
+
+### Artikel 1.3
 
 Daar waar delen van de verrijdbare bermbeveiliging op de rijbaan komen is de zijde die in de richting van het verkeer is gekeerd, voorzien van een aanrijdbuffer.
 
@@ -987,19 +987,19 @@ De plaatselijke bediening geschiedt vanaf een bedienlocatie waarvandaan de bedie
 
 ### Artikel 1.7
 
-### Artikel 1.7
+### Artikel 1.8
 
 Vervallen.
 
 ### Paragraaf 2. Beweegbare barrier
 
-### Paragraaf 2. Beweegbare barrier
+### Artikel 2.1
 
 In deze paragraaf wordt verstaan onder Tidal flow verkeer: In een wisselbuis de mogelijkheid om het verkeer afhankelijk van het verkeersaanbod de ene of de andere kant op te laten rijden.
 
 ### Artikel 2.2
 
-### Artikel 2.2
+### Artikel 2.3
 
 Het van rijbaan wisselen van verkeer is ter plaatste van de beweegbare barrier mogelijk met een snelheid van 100 km/u.
 
@@ -1025,61 +1025,61 @@ Vervallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Vervallen.
-
-### Artikel 4.9
-
 De drempelwaardeverhoging van de verlichting is ten hoogste 15%.
 
 ### Artikel 4.10
 
 Verlichtingsarmaturen zijn zodanig geplaatst dat er geen flikkeringen optreden met:
 
-### Artikel 5.1
+### Paragraaf 5. Verkeerslicht verkeersbuis
+
+Verlichtingsarmaturen zijn zodanig geplaatst dat er geen flikkeringen optreden met:
+
+### Paragraaf 6. Afsluitboom verkeersbuis
 
 Aan het samenstel van verkeerslichten gaat een waarschuwingsbord J32 als bedoeld in RVV 1990 vooraf.
-
-### Artikel 6.1
-
-De afsluitboom detecteert of zich voertuigen onder de afsluitboom bevinden.
 
 ### Artikel 6.2
 
 De verkeersbuis beschikt over een mechanisch vergrendelde afsluitboomkast van waaruit de afsluitboom plaatselijk elektrisch bediend kan worden.
 
-### Artikel 8.1
+### Paragraaf 7. Hulpdienstpaneel verkeersbuis
 
-Op elke rijstrook en ruimtereserveringsstrook worden snelheidsonderschrijdingen in de rijrichting en spookrijders gedetecteerd.
+De verkeersbuis beschikt over een mechanisch vergrendelde afsluitboomkast van waaruit de afsluitboom plaatselijk elektrisch bediend kan worden.
 
 ### Artikel 8.2
 
 De in artikel 8.1, eerste lid bedoelde detectie wordt uitgevoerd ten minste vanaf de afsluitboom bij de toerit van de betreffende verkeersbuis tot ten minste 600 m voorbij de verkeersbuis, tenzij dit verkeerstechnisch niet inpasbaar is, dan tot ten minste die afstand die wel inpasbaar is.
 
-### Artikel 10.1
+### Paragraaf 9. Verkeersmanagementsysteem
+
+De in artikel 8.1, eerste lid bedoelde detectie wordt uitgevoerd ten minste vanaf de afsluitboom bij de toerit van de betreffende verkeersbuis tot ten minste 600 m voorbij de verkeersbuis, tenzij dit verkeerstechnisch niet inpasbaar is, dan tot ten minste die afstand die wel inpasbaar is.
+
+### Paragraaf 11. Ventilatie verkeersbuis
 
 Het is mogelijk om een vastgestelde snelheidsbeperking aan te vragen op alle rijstrookgebonden signaalgevers op de 3 signaleringsraaien voor de verkeerslichten en op de rijstrookgebonden signaalgevers op de signaleringsraai met de verkeerslichten.
-
-### Artikel 11.2
-
-De ventilatie wordt zodanig ontworpen dat de concentratie NO2 voor de ontworpen verkeerssamenstelling in de verkeersbuis niet hoger wordt dan 1 ppm.
 
 ### Artikel 11.3
 
 De kans op technisch falen van de ventilatie is kleiner dan 0,02 per keer dat de ventilatie wordt ingeschakeld.
 
-### Artikel 11.5
+### Artikel 11.4
+
+De kans op technisch falen van de ventilatie is kleiner dan 0,02 per keer dat de ventilatie wordt ingeschakeld.
+
+### Artikel 11.6
 
 Het gemiddelde geluidsdrukniveau bij inschakeling van de ventilatie bedraagt ten hoogste 87dB (A). Op geen enkele plaats in de verkeersbuis, gemeten op een hoogte van 1,60 meter boven het wegdek, is een geluidsdrukniveau van meer dan 90 db(A).
 
-### Artikel 12.1
+### Artikel 12.2
 
 In elke verkeersbuis wordt de waarde van de lichtreductiecoëfficient op 100 meter van het ingangsportaal en 100 meter van het uitgangsportaal en daartussen ten minste elke 250 meter bepaald.
 
-### Artikel 13.2
-
-De camera's zijn bij afsluitbomen en calamiteitendoorsteken zo geplaatst dat in uitgangspositie gekeken wordt met zicht op de personen en voertuigen en de beweegbare toegang inclusief het intercomtoestel.
-
 ### Artikel 13.3
+
+Camerabeelden ten behoeve van het herkennen van personen in het tunneltracé, de stand van het verkeerslicht, de situatie bij hulpposten en vluchtdeuren, en het identificeren van voertuigen in het tunneltracé zijn op aanvraag beschikbaar voor de wegverkeersleider.
+
+### Paragraaf 14. Omroep verkeersbuis
 
 Camerabeelden ten behoeve van het herkennen van personen in het tunneltracé, de stand van het verkeerslicht, de situatie bij hulpposten en vluchtdeuren, en het identificeren van voertuigen in het tunneltracé zijn op aanvraag beschikbaar voor de wegverkeersleider.
 
@@ -1095,7 +1095,7 @@ De vluchtdeuren weren in gesloten toestand de stroming van verontreinigde lucht 
 
 De vluchtdeuren aan de zijde van de calamiteitenbuis worden met een neerwaarts bewegende handgreep geopend. De daartoe noodzakelijke kracht is ten hoogste 100N.
 
-### Artikel 17.5
+### Artikel 17.6
 
 ### Artikel 18.3
 
@@ -1105,7 +1105,7 @@ Elke vluchtdeur van een rij van vergrendelbare vluchtdeuren kan in vergrendelde 
 
 Bij uitval van energie of het besturingsysteem worden alle vergrendelbare vluchtdeuren automatisch ontgrendeld.
 
-### Paragraaf 19. Vluchtdeurindicatie
+### Artikel 19.1
 
 Contourverlichting wordt aangebracht boven de voertuigkerende barrier rondom vluchtdeuren door middel van groene LED-verlichting, die:
 
@@ -1113,7 +1113,7 @@ Contourverlichting wordt aangebracht boven de voertuigkerende barrier rondom vlu
 
 De vluchtdeuren worden permanent aangestraald door de aanstraalverlichting welke wordt aangebracht als accentverlichting. De verlichtingssterkte, gemeten ter plaatse van elk van de afbeeldingen met een vluchtend persoon is ten minste 200 lux en ten hoogste 400 lux.
 
-### Artikel 19.4
+### Artikel 19.5
 
 Vervallen.
 
@@ -1238,3 +1238,101 @@ De beweegbare barrier heeft op het uiteinde een amberkleurige lamp, die bij gesl
 Vervallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel 3.4
+
+### Artikel 3.9
+
+De hulppost wordt ontgrendeld door de deurklink van de eerst openende deur te draaien of naar beneden te bewegen, de deur opent met de rijrichting mee.
+
+### Artikel 3.11
+
+Links naast de hulppost op een hoogte van 1.200 millimeter boven het wegdek is een vlakke hulppostcodering aangebracht met zwarte letters op een witte ondergrond en een letterhoogte van 100 millimeter.
+
+### Paragraaf 4. Verlichting verkeersbuis
+
+In een dagsituatie is het lichtniveau in het eerste deel van de drempelzone zodanig ingesteld dat er voor de weggebruikers voldoende contrast waarneembaar is tussen voertuigen en wegdek. Het lichtniveau in het tweede deel van de drempelzone neemt gelijkmatig af naar 40% van het lichtniveau in het eerste deel van de drempelzone.
+
+### Artikel 4.8
+
+Vervallen.
+
+Aan het samenstel van verkeerslichten gaat een waarschuwingsbord J32 als bedoeld in RVV 1990 vooraf.
+
+De afsluitboom detecteert of zich voertuigen onder de afsluitboom bevinden.
+
+Op elke rijstrook en ruimtereserveringsstrook worden snelheidsonderschrijdingen in de rijrichting en spookrijders gedetecteerd.
+
+Het is mogelijk om een vastgestelde snelheidsbeperking aan te vragen op alle rijstrookgebonden signaalgevers op de 3 signaleringsraaien voor de verkeerslichten en op de rijstrookgebonden signaalgevers op de signaleringsraai met de verkeerslichten.
+
+De ventilatie wordt zodanig ontworpen dat de concentratie NO2 voor de ontworpen verkeerssamenstelling in de verkeersbuis niet hoger wordt dan 1 ppm.
+
+Het gemiddelde geluidsdrukniveau bij inschakeling van de ventilatie bedraagt ten hoogste 87dB (A). Op geen enkele plaats in de verkeersbuis, gemeten op een hoogte van 1,60 meter boven het wegdek, is een geluidsdrukniveau van meer dan 90 db(A).
+
+In elke verkeersbuis wordt de waarde van de lichtreductiecoëfficient op 100 meter van het ingangsportaal en 100 meter van het uitgangsportaal en daartussen ten minste elke 250 meter bepaald.
+
+De camera's zijn bij afsluitbomen en calamiteitendoorsteken zo geplaatst dat in uitgangspositie gekeken wordt met zicht op de personen en voertuigen en de beweegbare toegang inclusief het intercomtoestel.
+
+De noodtelefoon in de verkeersbuis in tunnels langer dan 500 meter realiseert een gelijktijdige spreek- en luisterverbinding met de actieve bediening indien de noodtelefoon in de gesprekstand staat.
+
+De vrije doorgang van vluchtdeuren is ten minste 850 millimeter breed en 2.100 millimeter hoog.
+
+### Artikel 17.7
+
+Vluchtdeuren die, vanuit naast elkaar gelegen verkeersbuizen, op één middentunnelkanaal uitkomen, zijn recht tegenover elkaar geplaatst.
+
+### Artikel 17.8
+
+De bovenzijde van elke handgreep is aan de verkeersbuiszijde van de vluchtdeur op een hoogte tussen 0,9 en 1,2 meter boven de onderkant van de dagmaat van het kozijn geplaatst.
+
+### Artikel 17.10
+
+Vluchtdeuren zijn zelfsluitend. De benodigde tijd voor het zelf sluiten van een vluchtdeur is ten hoogste 15 seconden.
+
+### Artikel 17.11
+
+De vluchtdeuren worden aan de verkeersbuiszijde als volgt uitgevoerd:
+
+### Artikel 17.13
+
+Inkassingen van vluchtdeuren aan de verkeersbuiszijde worden als volgt uitgevoerd:
+
+### Artikel 17.14
+
+Aan de linkerzijde van de vluchtdeur aan de verkeersbuiszijde op een hoogte van 1.200 millimeter boven het wegdek is een vlakke deurnummering aangebracht. Hierbij worden zwarte letters op een witte ondergrond gebruikt met een letterhoogte van 100 millimeter.
+
+### Artikel 17.15
+
+Contourverlichting wordt aangebracht boven de voertuigkerende barrier rondom vluchtdeuren door middel van groene LED-verlichting, die:
+
+Vervallen.
+
+Op het wegdek, aan weerszijden van de rijbaan ter plaatse van elke vluchtdeur, vanaf de kantstreep tot 150 millimeter voor de barrier, is een witte pijl aangebracht volgens onderstaande figuur wijzend in de richting van de vluchtdeur:
+
+### Artikel 19.7
+
+Een tunnel heeft vluchtdeuraanduidingen volgens bord L19 uit het RVV 1990 die:
+
+### Paragraaf 20. Vluchtroute
+
+Een kopdeur biedt bij evacuatie een veilige uitgang uit het middentunnelkanaal.
+
+### Artikel 21.2
+
+De statische vluchtroute indicatie in het middentunnelkanaal wordt als volgt uitgevoerd:
+
+### Artikel 22.4
+
+Indien borden zich binnen het profiel van de vrije ruimte in de veilige vluchtroute bevinden zijn deze flexibel opgehangen.
+
+### Paragraaf 23. Verlichting veilige vluchtroute
+
+De verlichting van het middentunnelkanaal is tijdens een calamiteit ingeschakeld en heeft:
+
+### Artikel 23.2
+
+Indien de no break voorziening zorgt voor de elektrische voeding, heeft de verlichting:
+
+### Paragraaf 24. Overdrukvoorziening middentunnelkanaal of dwarsverbinding.
+
+Vervallen.
