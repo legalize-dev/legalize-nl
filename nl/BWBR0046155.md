@@ -4,7 +4,7 @@ identifier: "BWBR0046155"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2022-02-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046155"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Europees Verdrag tot bescherming van de rechten van de mens:** het op 4 november 1950 te Rome tot stand gekomen Europees Verdrag tot bescherming van de rechte van de mens en de fundamentele vrijheden;
 
-- **geweldsinstructie:** regels in [artikel 9, eerste tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=3&artikel=3.4&z=2022-02-01&g=2022-02-01);
+- **geweldsinstructie:** regels in [artikel 9, eerste tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01);
 
 - **opslagplaats:** locatie op het land of een schip waarvan de vergunninghouder gebruik maakt voor opslag van vuurwapens en munitie, met uitzondering van een door hem gebruikte wapenkluis aan boord van het schip;
 
@@ -62,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **particuliere maritieme beveiliger:** gewapend lid van het beveiligingsteam dat door de vergunninghouder op een schip wordt of is ingezet;
 
-- **risicogebied:** het in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2022-02-01&g=2022-02-01), bedoelde zeegebied;
+- **risicogebied:** het in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01), bedoelde zeegebied;
 
 - **toestemming:** toestemming, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3), en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4);
 
@@ -104,7 +104,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 1. De scheepsbeheerder dient de aanvraag om toestemming in bij het Kustwachtcentrum.
 
-2. Bij de aanvraag wordt aangetoond dat alle redelijkerwijs mogelijke beschermingsmaatregelen worden getroffen en dat, indien van toepassing en voor zover mogelijk, aan [artikel 2.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=2&artikel=2.3&z=2022-02-01&g=2022-02-01), wordt voldaan.
+2. Bij de aanvraag wordt aangetoond dat alle redelijkerwijs mogelijke beschermingsmaatregelen worden getroffen en dat, indien van toepassing en voor zover mogelijk, aan [artikel 2.3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=2&artikel=2.3&z=2025-07-01&g=2025-07-01), wordt voldaan.
 
 3. Bij de aanvraag worden in ieder geval gegevens verstrekt over:
 
@@ -126,13 +126,13 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 - b. niet alle redelijkerwijs mogelijke beschermingsmaatregelen zijn getroffen;
 
-- c. niet aan de criteria van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=2&artikel=2.3&z=2022-02-01&g=2022-02-01) is voldaan;
+- c. niet aan de criteria van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=2&artikel=2.3&z=2025-07-01&g=2025-07-01) is voldaan;
 
 - d. onjuiste of onvolledige gegevens zijn verstrekt en deze verstrekking tot een onjuiste beschikking zou hebben geleid;
 
 - e. schorsing of intrekking van de vergunning van de in het derde lid, onderdeel e, bedoelde vergunninghouder op grond van [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=14) wordt overwogen en in afwachting daarvan onmiddellijke weigering geboden is;
 
-- f. niet aan [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2022-02-01&g=2022-02-01) is voldaan, of
+- f. niet aan [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01) is voldaan, of
 
 - g. niet aan [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3) is voldaan.
 
@@ -164,7 +164,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 - b. een kopie van de eindgebruikerscertificaten ten bewijze van de wettige eigendom van de desbetreffende vuurwapens;
 
-- c. een kopie van de toestemming, de vergunning en de in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2022-02-01&g=2022-02-01) bedoelde ISO-certificaten, en
+- c. een kopie van de toestemming, de vergunning en de in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2025-07-01&g=2025-07-01) bedoelde ISO-certificaten, en
 
 - d. een kopie van de overeenkomst tussen de scheepsbeheerder en de vergunninghouder met betrekking tot het verrichten van de maritieme beveiligingswerkzaamheden.
 
@@ -214,7 +214,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 ##### Artikel 4.1. (reikwijdte vergunning)
 
-De vergunning wordt verleend voor het aanbieden of verrichten van gewapende maritieme beveiligingswerkzaamheden door een maritiem beveiligingsbedrijf aan boord van een schip dat op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren, binnen het risicogebied.
+De vergunning wordt verleend voor het aanbieden of verrichten van gewapende maritieme beveiligingswerkzaamheden door een maritiem beveiligingsbedrijf aan boord van een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, binnen het risicogebied.
 
 ##### Artikel 4.2. (aanvraag bij Inspectie Leefomgeving en Transport)
 
@@ -444,6 +444,6 @@ De [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 Dit besluit wordt aangehaald als: Besluit bescherming koopvaardij.
 
-## Bijlage. bij [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2022-02-01&g=2022-02-01) van het Besluit bescherming koopvaardij
+## Bijlage. bij [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01) van het Besluit bescherming koopvaardij
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
