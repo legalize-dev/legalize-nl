@@ -4,7 +4,7 @@ identifier: "BWBR0028453"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-07-01"
-last_updated: "2010-10-10"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028453"
 soort: "wet-BES"
@@ -63,7 +63,7 @@ entry_into_force: "2010-10-10"
 
 - f. **schip:** elk vaartuig, van welk type ook, waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, of wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;
 
-- g. **Nederlands schip:** een schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+- g. **Nederlands schip:** een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
 - h. **buitenlands schip:** een schip, niet zijnde een Nederlands schip;
 
@@ -117,7 +117,7 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 5. Het is verboden met een buitenlands schip ballastwater of sediment uit ballastwater in te nemen of te lozen op een andere wijze dan zoals voorgeschreven in de bijlage bij het Ballastwaterverdrag.
 
-6. Het is verboden met een schip ballastwater te lozen gedurende een nader onderzoek als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10), of voor zolang het schip op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10) is aangehouden.
+6. Het is verboden met een schip ballastwater te lozen gedurende een nader onderzoek als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=20&z=2025-07-01&g=2025-07-01), of voor zolang het schip op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01) is aangehouden.
 
 7. De in dit artikel genoemde verboden gelden slechts ten aanzien van buitenlandse schepen:
 
@@ -143,7 +143,7 @@ De afgifte bedoeld in het eerste lid mag niet anders geschieden dan op een wijze
 
 ##### Artikel 13
 
-1. De kapitein van een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt en waarop ingevolge de verdragen een journaal dient te worden bijgehouden, is verplicht de autoriteiten, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10), op hun verzoek inzage in het journaal te verlenen en dient hen toe te staan van elke in het journaal geplaatste aantekening een eensluidend afschrift te maken. Desgevraagd dient de kapitein het afschrift voor eensluidend te waarmerken.
+1. De kapitein van een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt en waarop ingevolge de verdragen een journaal dient te worden bijgehouden, is verplicht de autoriteiten, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01), op hun verzoek inzage in het journaal te verlenen en dient hen toe te staan van elke in het journaal geplaatste aantekening een eensluidend afschrift te maken. Desgevraagd dient de kapitein het afschrift voor eensluidend te waarmerken.
 
 2. Elk aldus vervaardigd en voor eensluidend gewaarmerkt afschrift van een aantekening in het journaal zal in een gerechtelijke procedure als bewijs van de feiten, vermeld in de aantekening, worden toegelaten.
 
@@ -199,13 +199,13 @@ Het is verboden met een buitenlands schip dat ingevolge een of meer van de verdr
 
 ##### Artikel 18
 
-De kapitein is verplicht de ambtenaren van de Inspectie Verkeer en Waterstaat en de andere ambtenaren en personen, bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) desgevraagd behoorlijke en veilige toegang tot het schip en zijn ruimten te verschaffen. Voorts stelt de kapitein op een daartoe strekkend verzoek van een zodanige ambtenaar, alle personele middelen en hulpmiddelen ter beschikking, welke naar het oordeel van de ambtenaar redelijkerwijs nodig zijn voor de uitvoering van het onderzoek aan boord.
+De kapitein is verplicht de ambtenaren van de Inspectie Verkeer en Waterstaat en de andere ambtenaren en personen, bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) desgevraagd behoorlijke en veilige toegang tot het schip en zijn ruimten te verschaffen. Voorts stelt de kapitein op een daartoe strekkend verzoek van een zodanige ambtenaar, alle personele middelen en hulpmiddelen ter beschikking, welke naar het oordeel van de ambtenaar redelijkerwijs nodig zijn voor de uitvoering van het onderzoek aan boord.
 
 ##### Artikel 19
 
-1. Het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10) geldt slechts ten aanzien van een buitenlands schip dat zich bevindtin de binnenwateren, de territoriale zee of de exclusieve economische zone.
+1. Het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01) geldt slechts ten aanzien van een buitenlands schip dat zich bevindtin de binnenwateren, de territoriale zee of de exclusieve economische zone.
 
-2. De toezichthouder neemt bij het toezicht op de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag in acht.
+2. De toezichthouder neemt bij het toezicht op de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag in acht.
 
 ##### Artikel 20
 
@@ -215,7 +215,7 @@ De kapitein is verplicht de ambtenaren van de Inspectie Verkeer en Waterstaat en
 
 3. Een buitenlands schip dat ingevolge een of meer van de verdragen geen certificaat behoeft of een buitenlands schip dat de vlag voert van een Staat die geen partij is bij een of meer van de verdragen, kan in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba worden onderworpen aan een controle door een ambtenaar van de Inspectie Verkeer en Waterstaat teneinde na te gaan of het schip zonder gevaar voor verontreiniging van het milieu naar zee kan vertrekken.
 
-4. Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba worden onderworpen aan een controle door een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) teneinde na te gaan of wordt voldaan aan de voorschriften die in de verdragen zijn gegeven met betrekking tot:
+4. Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba worden onderworpen aan een controle door een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) teneinde na te gaan of wordt voldaan aan de voorschriften die in de verdragen zijn gegeven met betrekking tot:
 
 - a. de aanwezigheid van instructies, gebruiksaanwijzingen en waarschuwingen;
 
@@ -245,7 +245,7 @@ Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eus
 
 - c. waar het een schip betreft dat ingevolge een of meer van de verdragen geen certificaat behoeft, indien het schip zodanig is gebouwd, ingericht of uitgerust, dat het een gevaar vormt voor verontreiniging van het milieu;
 
-- d. indien een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) wordt belemmerd in de uitoefening van zijn taak; of
+- d. indien een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) wordt belemmerd in de uitoefening van zijn taak; of
 
 - e. indien daartoe een verzoek wordt gedaan door de bevoegde autoriteiten van de vlagge-staat van dit schip wegens een overtreding van de in die staat ter uitvoering van een of meer van de verdragen gestelde wettelijke regelen.
 
@@ -253,9 +253,9 @@ Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eus
 
 - a. indien het schip zodanig is gebouwd, ingericht of uitgerust, dat het een gevaar vormt voor verontreiniging van het milieu; of
 
-- b. indien een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) wordt belemmerd in de uitoefening van zijn taak.
+- b. indien een ambtenaar als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) wordt belemmerd in de uitoefening van zijn taak.
 
-3. Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt aan te houden, indien met betrekking tot het schip niet wordt voldaan aan de voorschriften die in de Verdragen zijn gegeven met betrekking tot de in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10), genoemde onderwerpen.
+3. Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt aan te houden, indien met betrekking tot het schip niet wordt voldaan aan de voorschriften die in de Verdragen zijn gegeven met betrekking tot de in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=20&z=2025-07-01&g=2025-07-01), genoemde onderwerpen.
 
 ##### Artikel 24
 
@@ -279,15 +279,15 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat, zijn bevoegd ter uitvoerin
 
 ##### Artikel 27
 
-1. Zodra er geen reden is de aanhouding langer te laten voortduren en de mogelijk op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=VII&artikel=41&z=2010-10-10&g=2010-10-10) verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de ambtenaar van de Inspectie Verkeer en Waterstaat, de aanhouding op.
+1. Zodra er geen reden is de aanhouding langer te laten voortduren en de mogelijk op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=VII&artikel=41&z=2025-07-01&g=2025-07-01) verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de ambtenaar van de Inspectie Verkeer en Waterstaat, de aanhouding op.
 
 2. Opheffing geschiedt door overhandiging aan de kapitein van een ondertekende en gedagtekende kennisgeving.
 
-3. Op deze opheffing en kennisgeving is [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+3. Op deze opheffing en kennisgeving is [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 28
 
-Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2010-10-10&g=2010-10-10) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=26&z=2010-10-10&g=2010-10-10), en de opheffing daarvan, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=27&z=2010-10-10&g=2010-10-10), wordt tevens de consul of de diplomatieke vertegenwoordiger en, bij diens afwezigheid, de regering van de Staat waarvan het schip de vlag voert, onverwijld op de hoogte gesteld.
+Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=26&z=2025-07-01&g=2025-07-01), en de opheffing daarvan, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=27&z=2025-07-01&g=2025-07-01), wordt tevens de consul of de diplomatieke vertegenwoordiger en, bij diens afwezigheid, de regering van de Staat waarvan het schip de vlag voert, onverwijld op de hoogte gesteld.
 
 ### Hoofdstuk V. Verdere bepalingen
 
@@ -295,7 +295,7 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 29
 
-1. Degene die rechtstreeks in zijn belang is getroffen door een beslissing genomen krachtens deze wet, met uitzondering van het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10), kan daartegen een bezwaarschrift indienen bij Onze Minister binnen 30 dagen na de dag waarop die beslissing is verzonden of uitgereikt aan degene tot wie zij is gericht.
+1. Degene die rechtstreeks in zijn belang is getroffen door een beslissing genomen krachtens deze wet, met uitzondering van het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01), kan daartegen een bezwaarschrift indienen bij Onze Minister binnen 30 dagen na de dag waarop die beslissing is verzonden of uitgereikt aan degene tot wie zij is gericht.
 
 2. Het bezwaarschrift moet gemotiveerd zijn en gesteld in de Nederlandse of Engelse taal.
 
@@ -325,7 +325,7 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 33
 
-Een ieder die betrokken is bij de fabricage, de invoer, de opslag, het vervoer, het lozen of de uitstoot van schadelijke stoffen is verplicht aan de ambtenaren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10), alle medewerking te verlenen en inlichtingen te verstrekken die zij bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
+Een ieder die betrokken is bij de fabricage, de invoer, de opslag, het vervoer, het lozen of de uitstoot van schadelijke stoffen is verplicht aan de ambtenaren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01), alle medewerking te verlenen en inlichtingen te verstrekken die zij bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
 
 ##### Artikel 34
 
@@ -341,21 +341,21 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ##### Artikel 37a
 
-1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of een van de verdragen tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10).
+1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of een van de verdragen tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01).
 
-2. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is van toepassing op ieder die zich in de exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10) gestelde regels.
+2. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is van toepassing op ieder die zich in de exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01) gestelde regels.
 
 ##### Artikel 38
 
-1. Overtreding van de voorschriften gesteld bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10) en [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2010-10-10&g=2010-10-10), worden voor zover zij opzettelijk zijn begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste de zesde categorie.
+1. Overtreding van de voorschriften gesteld bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01) en [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2025-07-01&g=2025-07-01), worden voor zover zij opzettelijk zijn begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste de zesde categorie.
 
-2. Overtreding van de voorschriften gesteld bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2010-10-10&g=2010-10-10) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=V&paragraaf=3&artikel=33&z=2010-10-10&g=2010-10-10), worden gestraft met hechtenis van ten hoogste een jaar of een geldboete van ten hoogste de vijfde categorie.
+2. Overtreding van de voorschriften gesteld bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=13&z=2025-07-01&g=2025-07-01), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=19&z=2025-07-01&g=2025-07-01), [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2025-07-01&g=2025-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=V&paragraaf=3&artikel=33&z=2025-07-01&g=2025-07-01), worden gestraft met hechtenis van ten hoogste een jaar of een geldboete van ten hoogste de vijfde categorie.
 
 3. De in het eerste lid strafbaar gestelde gedragingen zijn misdrijven en de in het tweede lid strafbaar gestelde gedragingen zijn overtredingen.
 
 ##### Artikel 39
 
-1. Bij vermoeden van overtreding van de voorschriften, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10),[14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2010-10-10&g=2010-10-10) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=V&paragraaf=3&artikel=33&z=2010-10-10&g=2010-10-10), kan aan de kapitein bevel worden gegeven dat het schip een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba of binnenwater niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop terzake van die strafbare gedraging op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm ten uitvoer gelegd.
+1. Bij vermoeden van overtreding van de voorschriften, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=13&z=2025-07-01&g=2025-07-01),[14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=19&z=2025-07-01&g=2025-07-01), [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2025-07-01&g=2025-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=V&paragraaf=3&artikel=33&z=2025-07-01&g=2025-07-01), kan aan de kapitein bevel worden gegeven dat het schip een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba of binnenwater niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop terzake van die strafbare gedraging op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm ten uitvoer gelegd.
 
 2. Het in het eerste lid bedoelde bevel wordt op vordering van de Officier van Justitie gegeven door de rechter voor wie de zaak wordt of zal worden vervolgd. De kapitein wordt vooraf gehoord, althans daartoe behoorlijk opgeroepen. Het bevel is dadelijk uitvoerbaar en wordt onverwijld aan de kapitein betekend.
 
