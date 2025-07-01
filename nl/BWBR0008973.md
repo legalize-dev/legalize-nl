@@ -4,7 +4,7 @@ identifier: "BWBR0008973"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2013-07-04"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008973"
 soort: "wet"
@@ -94,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het is verboden zonder vergunning van Onze Minister grensoverschrijdend transport van eurocontanten over de weg uit te voeren, bedoeld in de verordening.
 
-3. Onze Minister kan beveiligingsorganisaties of recherchebureaus van dit verbod bij ministeriële regeling vrijstelling verlenen, indien de aard van de werkzaamheden niet noodzaakt tot de toepassing van de bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2013-07-04&g=2013-07-04) gestelde regels. Aan een vrijstelling kunnen voorschriften verbonden worden.
+3. Onze Minister kan beveiligingsorganisaties of recherchebureaus van dit verbod bij ministeriële regeling vrijstelling verlenen, indien de aard van de werkzaamheden niet noodzaakt tot de toepassing van de bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01) gestelde regels. Aan een vrijstelling kunnen voorschriften verbonden worden.
 
 4. Met een vergunning, bedoeld in het eerste lid, wordt gelijkgesteld een vergunning afgegeven in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale vergunning wordt nagestreefd.
 
@@ -110,11 +110,11 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 - d. een bedrijfsbeveiligingsdienst, zijnde een door een particuliere organisatie in stand gehouden organisatie die ten behoeve van de eigen organisatie beveiligingswerkzaamheden verricht;
 
-- e. overige beveiligingsorganisaties: particuliere organisaties die beveiligingswerkzaamheden verrichten, anders dan omschreven onder **a** tot en met **d**, alsmede bestuursorganen als bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=1&z=2013-07-04&g=2013-07-04).
+- e. overige beveiligingsorganisaties: particuliere organisaties die beveiligingswerkzaamheden verrichten, anders dan omschreven onder **a** tot en met **d**, alsmede bestuursorganen als bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 4
 
-1. Een vergunning als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), wordt verleend indien, gelet op de voornemens en antecedenten van de aanvrager of van de personen die het beleid van de aanvrager bepalen, naar redelijke verwachting zal worden voldaan aan de bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2013-07-04&g=2013-07-04) gestelde regels en ook overigens zal worden gehandeld in overeenstemming met hetgeen van een goede beveiligingsorganisatie of een goed recherchebureau in het maatschappelijk verkeer mag worden verwacht.
+1. Een vergunning als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), wordt verleend indien, gelet op de voornemens en antecedenten van de aanvrager of van de personen die het beleid van de aanvrager bepalen, naar redelijke verwachting zal worden voldaan aan de bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01) gestelde regels en ook overigens zal worden gehandeld in overeenstemming met hetgeen van een goede beveiligingsorganisatie of een goed recherchebureau in het maatschappelijk verkeer mag worden verwacht.
 
 2. De aanvraag van een vergunning bevat ten minste de volgende gegevens:
 
@@ -134,13 +134,13 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 - a. het waarborgen van een goed samenspel met overheidsinstellingen;
 
-- b. de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2013-07-04&g=2013-07-04) bedoelde onderwerpen.
+- b. de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01) bedoelde onderwerpen.
 
 7. Een vergunning wordt verleend of verlengd na de betaling van een vergoeding van kosten. Onze Minister stelt bij ministeriële regeling regels voor de hoogte van de vergoeding.
 
 8. Onze Minister beslist binnen dertien weken op de aanvraag van een vergunning.
 
-9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04).
+9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 5
 
@@ -164,9 +164,9 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 - a. het materieel en de uitrusting waarvan bij de uitvoering van de werkzaamheden gebruik wordt gemaakt;
 
-- b. het gebouw en de inrichting van het gebouw waarin een beveiligingsorganisatie is gevestigd, die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2013-07-04&g=2013-07-04);
+- b. het gebouw en de inrichting van het gebouw waarin een beveiligingsorganisatie is gevestigd, die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01);
 
-- c. de overname van de ontvangst en beoordeling van signalen van een centraal alarmmeldpunt van een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2013-07-04&g=2013-07-04), door een ander centraal alarmmeldpunt, indien het eerste centraal alarmmeldpunt door het wegvallen van telecommunicatieverbindingen niet meer functioneert;
+- c. de overname van de ontvangst en beoordeling van signalen van een centraal alarmmeldpunt van een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), door een ander centraal alarmmeldpunt, indien het eerste centraal alarmmeldpunt door het wegvallen van telecommunicatieverbindingen niet meer functioneert;
 
 - d. de goedkeuring van, zoveel mogelijk eenduidige, modellen van uniformen;
 
@@ -190,9 +190,9 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 2. Een beveiligingsorganisatie of recherchebureau als bedoeld in het eerste lid stelt geen personen te werk die belast zullen worden met werkzaamheden, anders dan bedoeld in het eerste lid, dan nadat voor hen toestemming is verkregen van de korpschef. Indien de beveiligingsorganisatie of het recherchebureau dan wel een onderdeel daarvan is gevestigd op een luchtvaartterrein, wordt de toestemming, bedoeld in de eerste volzin, verleend door de commandant van de Koninklijke marechaussee.
 
-3. Een beveiligingsorganisatie of recherchebureau, zonder vestiging in Nederland, aan welke een vergunning is verleend als bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), laat personen als bedoeld in het tweede lid, geen beveiligingsonderscheidenlijk recherchewerkzaamheden in Nederland verrichten, dan nadat voor hen toestemming is verkregen van Onze Minister.
+3. Een beveiligingsorganisatie of recherchebureau, zonder vestiging in Nederland, aan welke een vergunning is verleend als bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), laat personen als bedoeld in het tweede lid, geen beveiligingsonderscheidenlijk recherchewerkzaamheden in Nederland verrichten, dan nadat voor hen toestemming is verkregen van Onze Minister.
 
-4. De toestemming, bedoeld in het eerste, tweede en derde lid, wordt onthouden indien de desbetreffende persoon niet beschikt over de bekwaamheid en betrouwbaarheid die nodig zijn voor het te verrichten werk. Indien de desbetreffende persoon een ambtenaar is als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=5&z=2013-07-04&g=2013-07-04), wordt de toestemming slechts onthouden indien deze persoon niet beschikt over de benodigde bekwaamheid. Voor de tewerkstelling van de overige opsporingsambtenaren wordt de toestemming slechts verleend na het overleggen van de ontheffing, bedoeld in artikel 5, vierde lid, en indien de desbetreffende persoon beschikt over de benodigde bekwaamheid.
+4. De toestemming, bedoeld in het eerste, tweede en derde lid, wordt onthouden indien de desbetreffende persoon niet beschikt over de bekwaamheid en betrouwbaarheid die nodig zijn voor het te verrichten werk. Indien de desbetreffende persoon een ambtenaar is als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01), wordt de toestemming slechts onthouden indien deze persoon niet beschikt over de benodigde bekwaamheid. Voor de tewerkstelling van de overige opsporingsambtenaren wordt de toestemming slechts verleend na het overleggen van de ontheffing, bedoeld in artikel 5, vierde lid, en indien de desbetreffende persoon beschikt over de benodigde bekwaamheid.
 
 5. De toestemming, bedoeld in het eerste, tweede en derde lid kan worden ingetrokken indien zich omstandigheden voordoen of feiten bekend worden op grond waarvan de toestemming niet zou zijn verleend, indien zij zich hadden voorgedaan of bekend waren geweest op het tijdstip waarop de toestemming werd verleend.
 
@@ -216,7 +216,7 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 1. Een beveiligingsorganisatie aan welke een vergunning is verleend draagt er zorg voor dat de personen die zijn belast met beveiligingswerkzaamheden, bij de uitvoering van deze werkzaamheden een door Onze Minister goedgekeurd uniform dragen.
 
-2. Het eerste lid is niet van toepassing op personen die uitsluitend binnen het gebouw van een beveiligingsorganisatie als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2013-07-04&g=2013-07-04), werkzaam zijn. Voorts kan Onze Minister voor bepaalde beveiligingswerkzaamheden ontheffing verlenen van de verplichting, bedoeld in het eerste lid, indien dit gelet op de aard van de werkzaamheden gewenst is en zich daartegen geen zwaarwegende belangen verzetten. Onze Minister kan daaraan voorschriften verbinden betreffende de instructie van het betrokken personeel. Onze Minister beslist op een aanvraag om ontheffing binnen acht weken na ontvangst van de aanvraag. De beslissing kan eenmaal met ten hoogste acht weken worden verdaagd. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing.
+2. Het eerste lid is niet van toepassing op personen die uitsluitend binnen het gebouw van een beveiligingsorganisatie als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), werkzaam zijn. Voorts kan Onze Minister voor bepaalde beveiligingswerkzaamheden ontheffing verlenen van de verplichting, bedoeld in het eerste lid, indien dit gelet op de aard van de werkzaamheden gewenst is en zich daartegen geen zwaarwegende belangen verzetten. Onze Minister kan daaraan voorschriften verbinden betreffende de instructie van het betrokken personeel. Onze Minister beslist op een aanvraag om ontheffing binnen acht weken na ontvangst van de aanvraag. De beslissing kan eenmaal met ten hoogste acht weken worden verdaagd. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing.
 
 3. Een beveiligingsorganisatie of recherchebureau aan welke een vergunning is verleend, draagt er zorg voor dat de personen die zijn belast met beveiligingswerkzaamheden onderscheidenlijk recherchewerkzaamheden, bij de uitvoering van hun werkzaamheden geen handboeien dragen, tenzij Onze Minister daarvoor toestemming heeft verleend. Aan de toestemming kunnen voorwaarden worden verbonden. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op het verzoek tot toestemming om handboeien te dragen.
 
@@ -236,7 +236,7 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 ##### Artikel 10
 
-1. Een beveiligingsorganisatie aan welke een vergunning is verleend en die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2013-07-04&g=2013-07-04), laat het plan voor de installatie, de installatie en het onderhoud van de alarmapparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door alarminstallateurs die voldoen aan de door Onze Minister bij ministeriële regeling vast te stellen eisen van vakbekwaamheid en die beschikken over een verklaring van betrouwbaarheid. Zij verleent uitsluitend diensten aan derden die deze werkzaamheden eveneens slechts laten verrichten door alarminstallateurs die aan de genoemde voorwaarden voldoen.
+1. Een beveiligingsorganisatie aan welke een vergunning is verleend en die werkzaamheden verricht als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), laat het plan voor de installatie, de installatie en het onderhoud van de alarmapparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door alarminstallateurs die voldoen aan de door Onze Minister bij ministeriële regeling vast te stellen eisen van vakbekwaamheid en die beschikken over een verklaring van betrouwbaarheid. Zij verleent uitsluitend diensten aan derden die deze werkzaamheden eveneens slechts laten verrichten door alarminstallateurs die aan de genoemde voorwaarden voldoen.
 
 2. Onze Minister kan bij ministeriële regeling voor bepaalde categorieën alarmapparatuur regels stellen met betrekking tot de eisen waaraan deze apparatuur dient te voldoen en de wijze waarop, alsmede de organisaties door welke, de apparatuur op grond van deze eisen kan worden goedgekeurd.
 
@@ -244,7 +244,7 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 4. Een beveiligingsorganisatie als bedoeld in het eerste lid draagt zorg dat zij over documenten beschikt betreffende de door haar en derden gebruikte apparatuur, waarmee aangetoond kan worden dat zij aan het eerste en derde lid voldoet.
 
-5. De verklaring van betrouwbaarheid, bedoeld in het eerste lid, wordt afgegeven door de korpschef, dan wel, indien de desbetreffende persoon niet woonachtig is in Nederland, de korpschef, de commandant van de Koninklijke marechaussee of Onze Minister, die ingevolge [artikel 7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2013-07-04&g=2013-07-04), aan een beveiligingsorganisatie waarvoor de alarminstallateur gaat werken toestemming kan geven.
+5. De verklaring van betrouwbaarheid, bedoeld in het eerste lid, wordt afgegeven door de korpschef, dan wel, indien de desbetreffende persoon niet woonachtig is in Nederland, de korpschef, de commandant van de Koninklijke marechaussee of Onze Minister, die ingevolge [artikel 7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), aan een beveiligingsorganisatie waarvoor de alarminstallateur gaat werken toestemming kan geven.
 
 6. De verklaring van betrouwbaarheid, bedoeld in het eerste lid, kan worden ingetrokken indien zich omstandigheden voordoen of feiten bekend worden op grond waarvan de verklaring niet zou zijn afgegeven, indien deze zich hadden voorgedaan of bekend waren geweest op het tijdstip waarop de verklaring werd afgegeven.
 
@@ -254,7 +254,7 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 ##### Artikel 11
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, de beperkingen en voorschriften, gesteld krachtens [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2013-07-04&g=2013-07-04), en [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=9&z=2013-07-04&g=2013-07-04), en de aanwijzingen gegeven krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=12&z=2013-07-04&g=2013-07-04), of van het bepaalde bij of krachtens de verordening zijn belast de ambtenaren, bedoeld in [artikel 141, onder b en c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, de beperkingen en voorschriften, gesteld krachtens [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01), en [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), en de aanwijzingen gegeven krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), of van het bepaalde bij of krachtens de verordening zijn belast de ambtenaren, bedoeld in [artikel 141, onder b en c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
 2. De ambtenaren, bedoeld in het eerste lid, zijn bevoegd inlichtingen te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is. Een beveiligingsorganisatie of recherchebureau aan welke een vergunning is verleend verstrekt de gevraagde inlichtingen.
 
@@ -264,21 +264,21 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 1. De korpschef is bevoegd, indien dit in het belang van een goede politiezorg noodzakelijk is, aan een beveiligingsorganisatie of recherchebureau aanwijzingen te geven. Indien een beveiligingsorganisatie of recherchebureau aan welke een vergunning is verleend, werkzaamheden verricht op een luchtvaartterrein, worden de aanwijzingen bedoeld in de eerste volzin gegeven door de commandant van de Koninklijke marechaussee. De beveiligingsorganisatie of het recherchebureau aan welke een vergunning is verleend geven aan deze aanwijzingen gevolg.
 
-2. Voordat een beveiligingsorganisatie, of zodra een particuliere alarmcentrale als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2013-07-04&g=2013-07-04), aan welke een vergunning is verleend in een gemeente een begin maakt met nieuwe beveiligingswerkzaamheden informeert zij hierover de korpschef. Indien een beveiligingsorganisatie aan welke een vergunning is verleend, een begin maakt met nieuwe beveiligingswerkzaamheden op een luchtvaartterrein, informeert zij hierover de commandant van de Koninklijke marechaussee.
+2. Voordat een beveiligingsorganisatie, of zodra een particuliere alarmcentrale als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), aan welke een vergunning is verleend in een gemeente een begin maakt met nieuwe beveiligingswerkzaamheden informeert zij hierover de korpschef. Indien een beveiligingsorganisatie aan welke een vergunning is verleend, een begin maakt met nieuwe beveiligingswerkzaamheden op een luchtvaartterrein, informeert zij hierover de commandant van de Koninklijke marechaussee.
 
 3. Onze Minister kan aan de korpschef onderscheidenlijk de commandant van de Koninklijke marechaussee algemene en bijzondere aanwijzingen geven ter uitvoering van deze wet. [Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:22) is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-1. Een ieder die werkzaam is of werkzaam is geweest voor een beveiligingsorganisatie of recherchebureau en daarbij de beschikking krijgt of heeft gekregen over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voorzover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn werkzaamheden die in overeenstemming met de vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), worden verricht, de bekendmaking voortvloeit.
+1. Een ieder die werkzaam is of werkzaam is geweest voor een beveiligingsorganisatie of recherchebureau en daarbij de beschikking krijgt of heeft gekregen over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voorzover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn werkzaamheden die in overeenstemming met de vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), worden verricht, de bekendmaking voortvloeit.
 
-2. Het eerste lid is van overeenkomstige toepassing op alarminstallateurs die voldoen aan de door Onze Minister bij ministeriële regeling vast te stellen eisen van vakbekwaamheid en die beschikken over een verklaring van betrouwbaarheid als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2013-07-04&g=2013-07-04).
+2. Het eerste lid is van overeenkomstige toepassing op alarminstallateurs die voldoen aan de door Onze Minister bij ministeriële regeling vast te stellen eisen van vakbekwaamheid en die beschikken over een verklaring van betrouwbaarheid als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01).
 
 3. Het eerste lid is niet van toepassing indien de desbetreffende gegevens betrekking hebben op een strafbaar feit en worden verstrekt aan de politie.
 
 ##### Artikel 14
 
-1. Onze Minister kan een vergunning als bedoeld in [artikel 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), intrekken indien:
+1. Onze Minister kan een vergunning als bedoeld in [artikel 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), intrekken indien:
 
 - a. de aan de vergunning verbonden voorschriften niet in acht worden genomen;
 
@@ -294,19 +294,19 @@ Een vergunning voor een beveiligingsorganisatie kan worden verleend voor één v
 
 2. Indien Onze Minister bij overtreding van de voorwaarden waaronder de vergunning voor grensoverschrijdend transport van eurocontanten over de weg is verleend overgaat tot intrekking, bedoeld in het eerste lid, kan hij tevens bepalen dat voor een maximumperiode van vijf jaar niet opnieuw een vergunning wordt verleend.
 
-3. Onze Minister kan de vergunning als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), bij overtreding van de voorwaarden waaronder de vergunning voor grensoverschrijdend transport van eurocontanten over de weg is verleend opschorten voor een periode van minimaal twee weken tot maximaal twee maanden.
+3. Onze Minister kan de vergunning als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), bij overtreding van de voorwaarden waaronder de vergunning voor grensoverschrijdend transport van eurocontanten over de weg is verleend opschorten voor een periode van minimaal twee weken tot maximaal twee maanden.
 
 ##### Artikel 15
 
-1. Onze Minister kan aan de houder van de vergunning een bestuurlijke boete opleggen van ten hoogste € 11 250 ter zake van overtreding van regels, gesteld bij of krachtens [artikel 4, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2013-07-04&g=2013-07-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2013-07-04&g=2013-07-04), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2013-07-04&g=2013-07-04), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=8&z=2013-07-04&g=2013-07-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=9&z=2013-07-04&g=2013-07-04), [10, eerste, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2013-07-04&g=2013-07-04), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2013-07-04&g=2013-07-04), of [12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=12&z=2013-07-04&g=2013-07-04).
+1. Onze Minister kan aan de houder van de vergunning een bestuurlijke boete opleggen van ten hoogste € 11 250 ter zake van overtreding van regels, gesteld bij of krachtens [artikel 4, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [10, eerste, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2025-07-01&g=2025-07-01), of [12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01).
 
-2. Onze Minister kan eveneens aan de houder van de vergunning als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2013-07-04&g=2013-07-04), van de wet een bestuurlijke boete opleggen van ten hoogste € 11 250 ter zake van overtreding van de voorwaarden waaronder de vergunning voor grensoverschrijdend transport van eurocontanten over de weg. De boetebevoegdheid geldt ook indien vergunning op grond van de verordening is verleend door een bevoegde autoriteit in een andere lidstaat.
+2. Onze Minister kan eveneens aan de houder van de vergunning als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01), van de wet een bestuurlijke boete opleggen van ten hoogste € 11 250 ter zake van overtreding van de voorwaarden waaronder de vergunning voor grensoverschrijdend transport van eurocontanten over de weg is verleend. De boetebevoegdheid geldt ook indien vergunning op grond van de verordening is verleend door een bevoegde autoriteit in een andere lidstaat.
 
 ##### Artikel 16
 
-1. Met het onderzoek naar een overtreding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=15&z=2013-07-04&g=2013-07-04) zijn belast de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2013-07-04&g=2013-07-04), bedoelde ambtenaren en de door Onze Minister aangewezen andere ambtenaren.
+1. Met het onderzoek naar een overtreding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01) zijn belast de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2025-07-01&g=2025-07-01), bedoelde ambtenaren en de door Onze Minister aangewezen andere ambtenaren.
 
-2. Ten dienste van het onderzoek beschikken zij over de in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2013-07-04&g=2013-07-04), bedoelde bevoegdheden.
+2. Ten dienste van het onderzoek beschikken zij over de in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=11&z=2025-07-01&g=2025-07-01), bedoelde bevoegdheden.
 
 ##### Artikel 17
 
@@ -332,7 +332,7 @@ Wijzigt de Wet politieregisters.
 
 ##### Artikel 22
 
-Na het tijdstip waarop deze wet in werking treedt, worden de vergunningen die zijn verleend krachtens [artikel 5 van de Wet op de weerkorpsen en de particuliere beveiligingsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0001980&artikel=5), beschouwd als vergunningen die zijn verleend krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2013-07-04&g=2013-07-04) van deze wet.
+Na het tijdstip waarop deze wet in werking treedt, worden de vergunningen die zijn verleend krachtens [artikel 5 van de Wet op de weerkorpsen en de particuliere beveiligingsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0001980&artikel=5), beschouwd als vergunningen die zijn verleend krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01) van deze wet.
 
 ##### Artikel 23
 
@@ -346,7 +346,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4a
 
-Met de eisen inzake de betrouwbaarheid terzake van het verrichten of aanbieden van beveiligings- of recherchewerkzaamheden door het in stand houden van een beveiligingsorganisatie of recherchebureau, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2013-07-04&g=2013-07-04), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2013-07-04&g=2013-07-04), en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2013-07-04&g=2013-07-04), van deze wet, worden gelijkgesteld eisen inzake de betrouwbaarheid die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een niveau van betrouwbaarheid waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de eisen inzake de betrouwbaarheid terzake van het verrichten of aanbieden van beveiligings- of recherchewerkzaamheden door het in stand houden van een beveiligingsorganisatie of recherchebureau, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), van deze wet, worden gelijkgesteld eisen inzake de betrouwbaarheid die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een niveau van betrouwbaarheid waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 #### Paragraaf 2. Uitvoering van de werkzaamheden en het personeel
 
@@ -376,7 +376,7 @@ Onze Minister kan het recht van de houder van een vergunning die op grond van de
 
 ##### Artikel 15b
 
-1. Onze Minister kan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=14&z=2013-07-04&g=2013-07-04) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=15&z=2013-07-04&g=2013-07-04) toepassen indien de vergunninghouder in een andere lidstaat een inbreuk heeft begaan op de verordening en hij daar met redenen omkleed van in kennis is gesteld door de bevoegde autoriteiten aldaar.
+1. Onze Minister kan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01) toepassen indien de vergunninghouder in een andere lidstaat een inbreuk heeft begaan op de verordening en hij daar met redenen omkleed van in kennis is gesteld door de bevoegde autoriteiten aldaar.
 
 2. Onze Minister kan, indien vast te stellen is aan wie de inbreuk te wijten is, leden van het bewakingspersoneel van een vergunninghouder uit een andere lidstaat verbieden grensoverschrijdend geldtransport over Nederlands grondgebied uit te voeren.
 
