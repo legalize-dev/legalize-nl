@@ -4,7 +4,7 @@ identifier: "BWBR0001947"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2024-09-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001947"
 soort: "wet"
@@ -111,7 +111,7 @@ Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
 - 8°. de voorzitter en leden, bedoeld in [artikel 30 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=30), en hun plaatsvervangers;
 
-- 9°. de voorzitter en leden van het tuchtcollege voor de scheepvaart, bedoeld in [artikel 55a van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55a), en hun plaatsvervangers;
+- 9°. de voorzitter en leden van het tuchtcollege voor de scheepvaart, bedoeld in [artikel 37 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=37), en hun plaatsvervangers;
 
 - 10°. de voorzitter en leden van de kamers voor het notariaat, bedoeld in [artikel 94 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94), en hun plaatsvervangers;
 
@@ -155,7 +155,7 @@ Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
 - c. de openbaarmaking van de krachtens onderdeel b geregistreerde nevenwerkzaamheden van ambtenaren aangesteld in een functie waarvoor ter bescherming van de integriteit van de openbare dienst openbaarmaking van nevenwerkzaamheden noodzakelijk is;
 
-- d. de aanwijzing van ambtenaren die werkzaamheden verrichten waaraan in het bijzonder het risico van financiële belangenverstrengeling of het risico van oneigenlijk gebruik van koersgevoelige informatie verbonden is, het aanwijzen van de financiële belangen die zij niet mogen bezitten of verwerven en de registratie van de door hen gedane meldingen als bedoeld in [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3&artikel=8&z=2024-09-01&g=2024-09-01);
+- d. de aanwijzing van ambtenaren die werkzaamheden verrichten waaraan in het bijzonder het risico van financiële belangenverstrengeling of het risico van oneigenlijk gebruik van koersgevoelige informatie verbonden is, het aanwijzen van de financiële belangen die zij niet mogen bezitten of verwerven en de registratie van de door hen gedane meldingen als bedoeld in [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3&artikel=8&z=2025-07-01&g=2025-07-01);
 
 - e. een procedure voor het omgaan met bij een ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is.
 
@@ -181,7 +181,7 @@ De ambtenaar legt een eed of belofte af, overeenkomstig een bij algemene maatreg
 
 - c. financiële belangen te hebben, effecten te bezitten of effectentransacties te verrichten waardoor de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd;
 
-- d. financiële belangen te bezitten of te verwerven, welke door de overheidswerkgever waarmee hij een arbeidsovereenkomst heeft zijn aangewezen op de voet van [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2&artikel=5&z=2024-09-01&g=2024-09-01);
+- d. financiële belangen te bezitten of te verwerven, welke door de overheidswerkgever waarmee hij een arbeidsovereenkomst heeft zijn aangewezen op de voet van [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01);
 
 - e. zonder toestemming van de overheidswerkgever giften, vergoedingen, beloningen en beloften van een derde aan te nemen of hierom te vragen, indien de ambtenaar als ambtenaar met deze derde betrekkingen onderhoudt.
 
@@ -189,7 +189,7 @@ De ambtenaar legt een eed of belofte af, overeenkomstig een bij algemene maatreg
 
 - a. opgave te doen van de nevenwerkzaamheden die hij verricht of voornemens is te gaan verrichten, die de belangen van de dienst voor zover deze in verband staan met zijn functievervulling, kunnen raken;
 
-- b. indien hij is aangewezen in de zin van [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2&artikel=5&z=2024-09-01&g=2024-09-01), melding te doen van zijn financiële belangen alsmede van het bezit van en transacties met effecten die de belangen van de openbare dienst voor zover deze in verband staat met zijn functievervulling, kunnen raken en daaromtrent desgevraagd nadere informatie te verschaffen.
+- b. indien hij is aangewezen in de zin van [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), melding te doen van zijn financiële belangen alsmede van het bezit van en transacties met effecten die de belangen van de openbare dienst voor zover deze in verband staat met zijn functievervulling, kunnen raken en daaromtrent desgevraagd nadere informatie te verschaffen.
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste en tweede lid.
 
@@ -235,7 +235,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 3. Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) worden aanstellingen verleend voorafgaand aan de aanstelling, bedoeld in het eerste lid, als arbeidsovereenkomsten naar burgerlijk recht beschouwd.
 
-4. De voorgaande leden zijn niet van toepassing op personen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2024-09-01&g=2024-09-01).
+4. De voorgaande leden zijn niet van toepassing op personen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 14a
 
@@ -261,7 +261,7 @@ Vervallen
 
 3. Voor zover en voor zolang op het in het eerste lid bedoelde tijdstip geen collectieve arbeidsovereenkomst is gesloten waarbij een overheidswerkgever partij is, blijft een in het eerste lid bedoeld voorschrift verbindend voor ambtenaren als bedoeld in artikel 1, eerste lid, van de Ambtenarenwet en hun werkgever als ware het een collectieve arbeidsovereenkomst, voor zover niet in strijd met deze wet of dwingendrechtelijke bepalingen van burgerlijk recht.
 
-4. Het eerste tot en met derde lid zijn niet van toepassing op algemeen verbindende voorschriften, voor zover zij betrekking hebben op de rechtspositie van degenen met wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2024-09-01&g=2024-09-01) geen arbeidsovereenkomst wordt gesloten.
+4. Het eerste tot en met derde lid zijn niet van toepassing op algemeen verbindende voorschriften, voor zover zij betrekking hebben op de rechtspositie van degenen met wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) geen arbeidsovereenkomst wordt gesloten.
 
 ##### Artikel 18
 
