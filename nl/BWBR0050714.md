@@ -4,7 +4,7 @@ identifier: "BWBR0050714"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-14"
-last_updated: "2025-02-22"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050714"
 soort: "wet"
@@ -88,8 +88,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 7.6. wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt de Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7.7
 
