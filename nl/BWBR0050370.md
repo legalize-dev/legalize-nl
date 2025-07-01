@@ -4,7 +4,7 @@ identifier: "BWBR0050370"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-07-01"
-last_updated: "2024-11-06"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050370"
 soort: "beleidsregel"
@@ -41,7 +41,7 @@ entry_into_force: "2024-11-06"
 
 ### 1. Inleiding
 
-De overdrachtsbelasting kent een aantal ondernemingsfaciliteiten in de vorm van vrijstellingen. Deze vrijstellingen zijn opgenomen in [artikel 15, eerste lid, onderdelen b, e, f, h en q, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15). Dit besluit bevat het beleid over de ondernemingsfaciliteiten. Het besluit actualiseert en vervangt het [besluit van 25 mei 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040965), nr. 2018-50125 (Stcrt. 2018, 30213).
+De overdrachtsbelasting kent een aantal ondernemingsfaciliteiten in de vorm van vrijstellingen. Deze vrijstellingen zijn opgenomen in [artikel 15, eerste lid, onderdelen b, e, f, h en q, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15). Dit besluit bevat het beleid over de ondernemingsfaciliteiten. Het besluit actualiseert en vervangt het [besluit van 25 mei 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040965), nr. 2018-50125 (Stcrt. 2018, 30213). Dit besluit werd gewijzigd bij besluit van 6 juni 2025, nr. 2025-10082, (Stcrt. 2025-20464). De wijziging betrof de onderdelen 2.2, 4.2 en het vervallen van de onderdelen 6 en 6.1.
 
 Onderdeel 2 bevat het beleid over de toepassing van de vrijstelling van [artikel 15, eerste lid, onderdeel b, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) (bedrijfsoverdracht binnen de familiesfeer). In het nieuwe onderdeel 2.7 (en de bijbehorende subonderdelen) wordt aandacht besteed aan de gevolgen voor de toepassing van de vrijstelling na de zogenoemde doorkijkarresten van de Hoge Raad van 30 november 2018 (ECLI:NL:HR:2018:2110 en 2200). [Onderdeel 2.7 uit het besluit van 25 mei 2018](onbekend) is vervallen vanwege de opheffing van het Bureau Beheer Landbouwgronden. De overige onderdelen over de toepassing van de vrijstelling bij bedrijfsoverdracht uit het besluit van 25 mei 2018 zijn vernummerd en opnieuw in dit besluit opgenomen.
 
@@ -49,7 +49,7 @@ Onderdeel 3.4 is aangepast aan [onderdeel 9 van het besluit Inkomstenbelasting W
 
 Onderdeel 4.2 is nieuw en bevat een goedkeuring betreffende de aanhoudingseis bedoeld in [artikel 5a, derde lid, UBBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=5a) in geval van certificering van aandelen die bij een bedrijfsfusie zijn verkregen. Deze goedkeuring komt overeen met de bestaande goedkeuring in onderdeel 3.8.1 die geldt voor de certificering van aandelen die als gevolg van een omzetting van een onderneming zijn verkregen.
 
-In onderdeel 6.1 is het voorbeeld verduidelijkt en het nieuwe onderdeel 7 bevat een goedkeuring voor de toepassing van de vrijstelling van [artikel 15, eerste lid, onderdeel q, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) (cultuurgrond).
+Het nieuwe onderdeel 7 bevat een goedkeuring voor de toepassing van de vrijstelling van [artikel 15, eerste lid, onderdeel q, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) (cultuurgrond).
 
 Met de genoemde aanpassingen in de onderdelen 3.9, 4.1, 4.2 en 7 worden eerdere met toepassing van de hardheidsclausule van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) verleende goedkeuringen in het besluit vastgelegd.
 
@@ -81,7 +81,7 @@ De goedkeuring geldt niet wanneer de ondernemer zijn onderneming rechtstreeks ov
 
 Het is mogelijk dat een ondernemer zijn onderneming, exclusief het bedrijfspand, heeft ingebracht in een BV waarvan hij alle aandelen houdt. Het bedrijfspand verhuurt hij aan de BV.
 
-Als de ondernemer in het kader van een bedrijfsopvolging zijn aandelen in de BV en het bedrijfspand overdraagt aan een familielid, is de vrijstelling van [artikel 15, eerste lid, onderdeel b, van de WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet van toepassing op de verkrijging van het bedrijfspand. Het bedrijfspand wordt immers niet overgedragen als onderdeel van de overdracht van een onderneming aan een familielid omdat de onderneming in een BV wordt uitgeoefend.
+Als de ondernemer in het kader van een bedrijfsopvolging zijn aandelen in de BV en het bedrijfspand overdraagt aan een familielid, is de vrijstelling van [artikel 15, eerste lid, onderdeel b, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet van toepassing op de verkrijging van het bedrijfspand. Het bedrijfspand wordt immers niet overgedragen als onderdeel van de overdracht van een onderneming aan een familielid omdat de onderneming in een BV wordt uitgeoefend.
 
 ### 2.3. Overdracht onderneming en inbreng in personenvennootschap
 
