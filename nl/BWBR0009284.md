@@ -4,7 +4,7 @@ identifier: "BWBR0009284"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2022-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009284"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 ##### Artikel 4. Beperking van de kring van ingezetenen
 
-Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=9a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) of [28d van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](onbekend) niet verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=9a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16) of [20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) niet verplicht verzekerd is voor de volksverzekeringen.
 
 ##### Artikel 5. Slotbepaling
 
