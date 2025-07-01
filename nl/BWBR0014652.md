@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2015-09-11"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat:** rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) voorgeschreven onderzoeken;
 
-- **keuringsinstantie voor de zeegaande zeilende beroepsvaart:** rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
+- **keuringsinstantie voor de zeegaande zeilende beroepsvaart:** rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
 
 - **keuringsinstantie voor opblaasbare reddingmiddelen:** rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van opblaasbare reddingmiddelen als bedoeld in voorschrift III/20.8 van het SOLAS-verdrag;
 
@@ -96,11 +96,11 @@ Indien de erkenning van een organisatie op grond van de verordening wordt ingetr
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 8 van de richtlijn worden geschorst of ingetrokken, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2015-09-11&g=2015-09-11).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 6
 
-Eenbesluittot aanwijzing als bedoeld in de [artikelen 5a tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5a&z=2015-09-11&g=2015-09-11) kan worden ingetrokken, indien niet meer wordt voldaan aan de dienaangaande erkenningscriteria, dan wel indien bij de uitvoering niet meer wordt voldaan aan de daartoe gestelde eisen.
+Eenbesluittot aanwijzing als bedoeld in de [artikelen 5a tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5a&z=2025-07-01&g=2025-07-01) kan worden ingetrokken, indien niet meer wordt voldaan aan de dienaangaande erkenningscriteria, dan wel indien bij de uitvoering niet meer wordt voldaan aan de daartoe gestelde eisen.
 
 ##### Artikel 7
 
