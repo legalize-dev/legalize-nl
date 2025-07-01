@@ -4,7 +4,7 @@ identifier: "BWBR0047719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-06-12"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047719"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ BESLUIT:
 
 - **werkzaamheden en dienstverleningen:** alle feitelijke handelingen en rechtshandelingen van een verstrekker voor de behandeling van de aanvraag.
 
-2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-06-12&g=2025-06-12) wordt verstaan onder:
+2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-07-01&g=2025-07-01) wordt verstaan onder:
 
 - **AeMC:** luchtvaartgeneeskundig centrum als bedoeld in bijlage VII bij [verordening (EU) nr. 1178/2011](32011R1178) en bijlage III bij [verordening (EU) nr. 2015/340](32240R2015) (Aero-medical centre);
 
@@ -72,7 +72,7 @@ BESLUIT:
 
 - **gedelegeerde verordening (EU) 2020/723:** gedelegeerde [verordening (EU) 2020/723](32623R2020) van de Commissie van 4 maart 2020 tot vaststelling van gedetailleerde regels met betrekking tot de erkenning van pilootcertificaten van derde landen en tot wijziging van [Verordening (EU) nr. 1178/2011](32011R1178)(PbEU 2020, L 170).
 
-3. In [hoofdstuk 3, afdeling 3.1, paragraaf 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&z=2025-06-12&g=2025-06-12), wordt verstaan onder:
+3. In [hoofdstuk 3, afdeling 3.1, paragraaf 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&z=2025-07-01&g=2025-07-01), wordt verstaan onder:
 
 - **controlemeting:** werkzaamheden ten behoeve van de verlenging van de geldigheidsduur van een meetbrief voor een schip dat na de afgifte van de meetbrief geen verbouwing heeft ondergaan die van invloed is geweest op de ledige diepgang van het schip;
 
@@ -84,7 +84,7 @@ BESLUIT:
 
 - **ponton:** blokvormig schip zonder mogelijkheid om benedendeks lading te vervoeren.
 
-4. In [hoofdstuk 3, afdeling 3.1, paragraaf 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-06-12&g=2025-06-12), wordt verstaan onder:
+4. In [hoofdstuk 3, afdeling 3.1, paragraaf 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-07-01&g=2025-07-01), wordt verstaan onder:
 
 - **certificaat van goedkeuring:** certificaat als bedoeld in [bijlage 1, B1, Rn. 10.282 en bijlage 1, B2, Rn. 210.282, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1);
 
@@ -100,7 +100,7 @@ BESLUIT:
 
 - **verklaring minimumbemanning:** in [artikel 3.14, tweede lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=3.14) bedoelde vermelding of de in [artikel 5.7, tweede lid, van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=5.7) bedoelde verklaring.
 
-5. Op [hoofdstuk 3, afdeling 3.1, paragraaf 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-06-12&g=2025-06-12), zijn de begripsbepalingen van [artikel 1 van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=1) en [artikel 1 van de Regeling metingsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&artikel=1) van toepassing en voorts wordt in deze paragraaf verstaan onder:
+5. Op [hoofdstuk 3, afdeling 3.1, paragraaf 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-07-01&g=2025-07-01), zijn de begripsbepalingen van [artikel 1 van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=1) en [artikel 1 van de Regeling metingsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&artikel=1) van toepassing en voorts wordt in deze paragraaf verstaan onder:
 
 - **hermeting:** werkzaamheden ten behoeve van de afgifte van:
 
@@ -116,7 +116,7 @@ BESLUIT:
 
 - **zusterschepen:** schepen die volgens dezelfde bouwtekening zijn gebouwd.
 
-6. In [hoofdstuk 3, afdeling 3.2, paragraaf 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-06-12&g=2025-06-12), wordt verstaan onder:
+6. In [hoofdstuk 3, afdeling 3.2, paragraaf 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-07-01&g=2025-07-01), wordt verstaan onder:
 
 - **Ballastwaterverdrag:** het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44);
 
@@ -126,19 +126,19 @@ BESLUIT:
 
 - **verklaring:** de verklaring, bedoeld in [artikel 15, tweede lid, van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=15).
 
-7. In [hoofdstuk 3, afdeling 3.2, paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&z=2025-06-12&g=2025-06-12), wordt verstaan onder geneeskundige verklaring: schriftelijke verklaring van een door de Minister aangewezen geneeskundige of medisch specialist waaruit blijkt dat een bemanningslid voldoet aan de medische eisen, bedoeld in [artikel 106, eerste lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=106).
+7. In [hoofdstuk 3, afdeling 3.2, paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&z=2025-07-01&g=2025-07-01), wordt verstaan onder geneeskundige verklaring: schriftelijke verklaring van een door de Minister aangewezen geneeskundige of medisch specialist waaruit blijkt dat een bemanningslid voldoet aan de medische eisen, bedoeld in [artikel 3.6.2, eerste lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.6.2).
 
-8. In [hoofdstuk 3, afdeling 3.4 tot en met afdeling 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-06-12&g=2025-06-12), wordt verstaan onder:
+8. In [hoofdstuk 3, afdeling 3.4 tot en met afdeling 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), wordt verstaan onder:
 
 - **onderzoek eerste afgifte certificaat:** onderzoek verricht voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering;
 
 - **onderzoek hernieuwing certificaat:** onderzoek verricht voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering;
 
-- **onderzoek overname met langlopende certificaten:** onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die zijn voorzien van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de Nederlandse vlag;
+- **onderzoek overname met langlopende certificaten:** onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die zijn voorzien van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de vlag van het Koninkrijk;
 
-- **onderzoek overname zonder langlopende certificaten:** onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die niet voorzien zijn van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de Nederlandse vlag.
+- **onderzoek overname zonder langlopende certificaten:** onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die niet voorzien zijn van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de vlag van het Koninkrijk.
 
-9. In [hoofdstuk 3, afdeling 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-06-12&g=2025-06-12), wordt verstaan onder:
+9. In [hoofdstuk 3, afdeling 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-07-01&g=2025-07-01), wordt verstaan onder:
 
 - **certificaat van deugdelijkheid:** certificaat als bedoeld in [artikel 22 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=22) dat is voorgeschreven voor vissersvaartuigen met een lengte tot 24 meter;
 
@@ -154,7 +154,7 @@ BESLUIT:
 
 - **vissersvaartuig:** elk vaartuig dat gebezigd wordt voor het vangen van vis, walvissen, zeehonden, walrussen of andere levende rijkdommen van de zee.
 
-10. In [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&z=2025-06-12&g=2025-06-12) wordt verstaan onder:
+10. In [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&z=2025-07-01&g=2025-07-01) wordt verstaan onder:
 
 - **ERATV:** Europees register van goedgekeurde voertuigen als bedoeld in artikel 34 van [Richtlijn 2008/57/EG](32008L0057) van het Europees parlement en de Raad van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap;
 
@@ -164,13 +164,13 @@ BESLUIT:
 
 - **uitvoeringsverordening (EU) 2019/779:** [Uitvoeringsverordening (EU) 2019/779](32679R2019) van de Commissie van 16 mei 2019 tot vaststelling van nadere bepalingen inzake een systeem voor de certificering van met het onderhoud van voertuigen belaste entiteiten overeenkomstig [Richtlijn (EU) 2016/798](32016L0798) van het Europees parlement en de Raad en tot intrekking van [Verordening (EU) nr. 445/2011](32011R0445) van de Commissie (PbEU 2019, L 139 I/360).
 
-11. In [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=5&z=2025-06-12&g=2025-06-12) wordt verstaan onder [verordening (EG) 765/2008](32008R0765): [Verordening (EG) 765/2008](32008R0765) van het Europees parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EEG) nr. 339/93](31993R0339) (PbEU 2008, L 218).
+11. In [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=5&z=2025-07-01&g=2025-07-01) wordt verstaan onder [verordening (EG) 765/2008](32008R0765): [Verordening (EG) 765/2008](32008R0765) van het Europees parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EEG) nr. 339/93](31993R0339) (PbEU 2008, L 218).
 
-12. In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-06-12&g=2025-06-12) wordt verstaan onder het CBR: het bureau, bedoeld in [artikel 4z van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4z).
+12. In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-07-01&g=2025-07-01) wordt verstaan onder het CBR: het bureau, bedoeld in [artikel 4z van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4z).
 
 ##### Artikel 1.2. Vaststelling tarieven Inspectie Leefomgeving en Transport
 
-1. De in [hoofdstuk 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-06-12&g=2025-06-12) vermelde tarieven zijn verschuldigd aan de Inspectie Leefomgeving en Transport.
+1. De in [hoofdstuk 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-07-01&g=2025-07-01) vermelde tarieven zijn verschuldigd aan de Inspectie Leefomgeving en Transport.
 
 2. Buitenlandse reis- en verblijfkosten die verband houden met de in deze regeling genoemde handelingen of werkzaamheden, worden tegen de werkelijke kosten in rekening gebracht en zijn separaat verschuldigd naast de in deze regeling genoemde tarieven. Daarbij is voor eventuele wachttijd tijdens het verblijf buiten Nederland een aanvullend tarief verschuldigd van € 177 per manuur. Binnenlandse reis- en verblijfkosten worden niet separaat in rekening gebracht.
 
@@ -180,7 +180,7 @@ BESLUIT:
 
 ##### Artikel 1.3. Vaststelling tarieven andere verstrekkers
 
-De in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-06-12&g=2025-06-12) vermelde tarieven zijn verschuldigd aan andere verstrekkers dan de Inspectie Leefomgeving en Transport.
+De in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-07-01&g=2025-07-01) vermelde tarieven zijn verschuldigd aan andere verstrekkers dan de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 1.4. Voldoening tarieven
 
@@ -1260,7 +1260,7 @@ Voor controlewerkzaamheden ten behoeve van de afgifte van een Internationale Mee
 
 1. Voor de afgifte van een meetbrief of een bijzondere meetbrief is een het tarief verschuldigd van € 196.
 
-2. Voor het aanbrengen van een wijziging in een Internationale Meetbrief (1969), een bijzondere meetbrief of een inhoudsverklaring als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.13&z=2025-06-12&g=2025-06-12), zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 69.
+2. Voor het aanbrengen van een wijziging in een Internationale Meetbrief (1969), een bijzondere meetbrief of een inhoudsverklaring als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.13&z=2025-07-01&g=2025-07-01), zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 69.
 
 ##### Artikel 3.16
 
@@ -1280,27 +1280,21 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Meetbrie
 
 ##### Artikel 3.19
 
-1. Voor de werkzaamheden ten behoeve van de inschrijving van een zeeschip in het rompbevrachtingsregister, bedoeld in [artikel 2, eerste lid, van de Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681&artikel=2), is de rompbevrachter een tarief verschuldigd van € 1.905.
+1. Voor de werkzaamheden ten behoeve van de inschrijving van een zeeschip in rompbevrachting, bedoeld in [artikel 6, tweede lid, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6), is de rompbevrachter een tarief verschuldigd van € 1.905.
 
 2. Voor het aanbrengen van een wijziging in de in het eerste lid bedoelde inschrijving, is de rompbevrachter een tarief verschuldigd van € 205.
 
-3. Voor de werkzaamheden ten behoeve van de afgifte van een gewaarmerkt uittreksel uit het rompbevrachtingsregister, bedoeld in het eerste lid, is de rompbevrachter een tarief verschuldigd van € 169.
+3. In afwijking van het tweede lid is de rompbevrachter voor het aanbrengen van een wijziging die betrekking heeft op de dagtekening of de tijdsduur van de rompbevrachtingsovereenkomst een tarief verschuldigd van € 584.
 
-4. In afwijking van het tweede lid is de rompbevrachter voor het aanbrengen van een wijziging die betrekking heeft op de dagtekening of de tijdsduur van de rompbevrachtingsovereenkomst een tarief verschuldigd van € 584.
-
-5. Voor een bareboat-outverklaring, houdende de instemming van de Minister met de inschrijving in een buitenlands rompbevrachtingsregister, is een tarief verschuldigd van € 196.
+4. Voor de afgifte van een bareboat-out verklaring als bedoeld in [artikel 16, tweede lid, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=16) is een tarief verschuldigd van € 196.
 
 ##### Artikel 3.20
 
-Voor de werkzaamheden ten behoeve van de afgifte van een verklaring als bedoeld in [artikel 311a, eerste lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311a) of [artikel 37, eerste lid, van de Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=37), is de aanvrager het volgende tarief verschuldigd:
-
-- a. indien de aanvraag betrekking heeft op een schip dat uitsluitend of mede in de uitoefening van een beroep of bedrijf wordt gebruikt: € 374;
-
-- b. indien de aanvraag betrekking heeft op een schip dat uitsluitend anders dan in de uitoefening van een beroep of bedrijf wordt gebruikt: € 225.
+Vervallen
 
 ##### Artikel 3.21
 
-Voor de werkzaamheden ten behoeve van de afgifte van de zeebrief, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=6), en [6a, derde lid, van de Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=6a), of een voorlopige zeebrief als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=4) en [4a van de Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=4a), is een tarief verschuldigd van € 215.
+Voor de werkzaamheden ten behoeve van de afgifte van een zeebrief als bedoeld in [artikel 17, eerste lid, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=17), of een voorlopige zeebrief als bedoeld in [artikel 21, eerste lid, onderdeel a, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=21), is een tarief verschuldigd van € 215.
 
 ##### Artikel 3.22
 
@@ -1310,7 +1304,7 @@ Voor de werkzaamheden ten behoeve van de afgifte van de zeebrief, bedoeld in [ar
 
 ##### Artikel 3.23
 
-Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681), de [Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933) of de [Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260), en waarvoor niet in een van de overige bepalingen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 151 per manuur.
+Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148) of de [Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260), en waarvoor niet in een van de overige bepalingen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 151 per manuur.
 
 #### § 3.2.3. Tarieven voorkoming verontreiniging door schepen
 
@@ -1337,7 +1331,7 @@ Voor de afgifte of tussentijdse vervanging van een certificaat of een verklaring
 
 ##### Artikel 3.26
 
-Indien een scheepstype niet is opgenomen in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.25&z=2025-06-12&g=2025-06-12), wordt voor het onderzoek nodig voor de afgifte van een certificaat of een verklaring door de Minister het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.
+Indien een scheepstype niet is opgenomen in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.25&z=2025-07-01&g=2025-07-01), wordt voor het onderzoek nodig voor de afgifte van een certificaat of een verklaring door de Minister het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.
 
 ##### Artikel 3.27
 
@@ -1387,7 +1381,7 @@ Voor de vergoeding van de kosten die samenhangen met een ontheffing als bedoeld 
 
 ##### Artikel 3.35
 
-Voor de behandeling van een aanvraag voor de erkenning van een opleiding als bedoeld in [artikel 19a, derde lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=19a) is een tarief verschuldigd van € 192 per manuur.
+Voor de behandeling van een aanvraag voor de erkenning van een opleiding als bedoeld in [artikel 25 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=25) is een tarief verschuldigd van € 192 per manuur.
 
 ##### Artikel 3.36
 
@@ -1403,9 +1397,9 @@ Voor de afgifte van een geneeskundige verklaring betreffende de algemene lichame
 
 ##### Artikel 3.38
 
-1. Voor de afgifte van een geneeskundige verklaring door een op grond van [artikel 42, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=42) aangewezen scheidsrechter is een tarief verschuldigd van ten hoogste € 177, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 116, exclusief BTW bij een schriftelijke beoordeling.
+1. Voor de afgifte van een geneeskundige verklaring door een op grond van [artikel 32, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=32) aangewezen scheidsrechter is een tarief verschuldigd van ten hoogste € 177, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 116, exclusief BTW bij een schriftelijke beoordeling.
 
-2. Voor het verlenen van de in [artikel 44, derde lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=44) bedoelde ontheffing is een tarief verschuldigd van ten hoogste € 41, exclusief BTW.
+2. Voor het verlenen van de in artikel [artikel 32, vijfde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=32) bedoelde ontheffing is een tarief verschuldigd van ten hoogste € 41, exclusief BTW.
 
 ### Afdeling 3.3. Overige tarieven
 
@@ -1429,11 +1423,11 @@ Voor een ontheffing van een gecertificeerd kwaliteitszorgsysteem voor terminals 
 
 ##### Artikel 3.42
 
-1. Voor de afgifte van een bemanningscertificaat als bedoeld in [artikel 5, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=5), is een tarief verschuldigd van € 307.
+1. Voor de afgifte van een bemanningscertificaat als bedoeld in [artikel 20, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=20), is een tarief verschuldigd van € 307.
 
-2. Voor de beoordeling van een bemanningsplan als bedoeld in [artikel 7, eerste lid, Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=7), is een tarief verschuldigd van € 384.
+2. Voor de beoordeling van een bemanningsplan als bedoeld in [artikel 2.1.2, eerste lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.1.2), is een tarief verschuldigd van € 384.
 
-3. Voor de behandeling van een aanvraag om ontheffing van de verplichting om een schip te bemannen in overeenstemming met het bemanningscertificaat, bedoeld in [artikel 16 van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=16), is een tarief verschuldigd van € 307.
+3. Voor de behandeling van een aanvraag om ontheffing van de verplichting om een schip te bemannen in overeenstemming met het bemanningscertificaat, bedoeld in [artikel 20, vijfde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=20), is een tarief verschuldigd van € 307.
 
 ##### Artikel 3.43
 
@@ -1449,11 +1443,11 @@ Voor de afgifte van een certificaat als bedoeld in [artikel 28, eerste lid, van 
 
 ##### Artikel 3.46
 
-Voor de afgifte van een duplicaat van een certificaat of enig ander document als bedoeld in de [paragrafen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2025-06-12&g=2025-06-12) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-06-12&g=2025-06-12) en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.3&z=2025-06-12&g=2025-06-12) van deze regeling, is een tarief verschuldigd dat gelijk is aan het tarief voor de afgifte van dat certificaat of enig ander document.
+Voor de afgifte van een duplicaat van een certificaat of enig ander document als bedoeld in de [paragrafen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2025-07-01&g=2025-07-01) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-07-01&g=2025-07-01) en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.3&z=2025-07-01&g=2025-07-01) van deze regeling, is een tarief verschuldigd dat gelijk is aan het tarief voor de afgifte van dat certificaat of enig ander document.
 
 ##### Artikel 3.47
 
-Indien werkzaamheden geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 en 08.00 uur, op een zaterdag, op een zondag of op een in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) genoemde algemeen erkende feestdag, is een aanvullend tarief per uur verschuldigd van € 96 voor de werkzaamheden bedoeld in de [paragrafen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&z=2025-06-12&g=2025-06-12), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2025-06-12&g=2025-06-12) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-06-12&g=2025-06-12) en in [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.35&z=2025-06-12&g=2025-06-12).
+Indien werkzaamheden geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 en 08.00 uur, op een zaterdag, op een zondag of op een in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) genoemde algemeen erkende feestdag, is een aanvullend tarief per uur verschuldigd van € 96 voor de werkzaamheden bedoeld in de [paragrafen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&z=2025-07-01&g=2025-07-01), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2025-07-01&g=2025-07-01) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-07-01&g=2025-07-01) en in [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.35&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 3.4. Tarieven koopvaardij
 
@@ -1584,7 +1578,7 @@ Voor het behandelen van een verzoek tot goedkeuring op grond van de Internationa
 
 ##### Artikel 3.59
 
-In afwijking van [artikel 1.2, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=1&artikel=1.2&z=2025-06-12&g=2025-06-12), is voor onderzoeken als bedoeld in [paragraaf 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-06-12&g=2025-06-12) geen aanvullend tarief verschuldigd, indien het onderzoek plaatsvindt in België of Duitsland, binnen een afstand van 50 km van de Nederlands-Belgische grens of Nederlands-Duitse grens.
+In afwijking van [artikel 1.2, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01), is voor onderzoeken als bedoeld in [paragraaf 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-07-01&g=2025-07-01) geen aanvullend tarief verschuldigd, indien het onderzoek plaatsvindt in België of Duitsland, binnen een afstand van 50 km van de Nederlands-Belgische grens of Nederlands-Duitse grens.
 
 ##### Artikel 3.60
 
@@ -1592,7 +1586,7 @@ Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, ver
 
 ##### Artikel 3.61
 
-1. Indien de in de [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-06-12&g=2025-06-12) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-06-12&g=2025-06-12) genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) genoemde algemeen erkende feestdag, is een aanvullend tarief verschuldigd van € 102 per manuur.
+1. Indien de in de [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-07-01&g=2025-07-01) genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) genoemde algemeen erkende feestdag, is een aanvullend tarief verschuldigd van € 102 per manuur.
 
 2. Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken in het buitenland buiten de daar ter plaatse geldende werktijden.
 
@@ -1600,11 +1594,11 @@ Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, ver
 
 1. Voor de werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) en waarvoor niet op grond van een van de overige bepalingen van deze regeling een tarief is vastgesteld, is een tarief verschuldigd van € 192 per manuur.
 
-2. Het tarief, bedoeld in het eerste lid, is exclusief de kosten voor de afgifte van een certificaat, verklaring, vergunning of document als bedoeld in [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-06-12&g=2025-06-12) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-06-12&g=2025-06-12).
+2. Het tarief, bedoeld in het eerste lid, is exclusief de kosten voor de afgifte van een certificaat, verklaring, vergunning of document als bedoeld in [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 3.63
 
-Indien een onderzoek als bedoeld in [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-06-12&g=2025-06-12) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-06-12&g=2025-06-12) geheel of gedeeltelijk in het buitenland wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in onderstaande tabel, wordt overschreden, is voor elke dag een aanvullend tarief verschuldigd van € 1.617.
+Indien een onderzoek als bedoeld in [afdelingen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&afdeling=3.5&z=2025-07-01&g=2025-07-01) geheel of gedeeltelijk in het buitenland wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in onderstaande tabel, wordt overschreden, is voor elke dag een aanvullend tarief verschuldigd van € 1.617.
 
 |   | Tonnage of lengte | Aantal dagen |
 | --- | --- | --- |
@@ -1869,7 +1863,7 @@ Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier a
 
 6. Voor de behandeling van een aanvraag tot het wijzigen van een of meerdere reeds verleende certificaten als bedoeld in het eerste tot en met het vierde lid is een tarief verschuldigd van € 148 per uur.
 
-7. Indien een spoorwegonderneming of een infrastructuurbeheerder die uitsluitend voor de eigen exploitatie bestemde voertuigen onderhoudt als bedoeld in artikel 3, tweede lid, onder b, van [uitvoeringsverordening (EU) 2019/779](32679R2019) tijdens de behandeling van een aanvraag voor een veiligheidsvergunning of voor een veiligheidscertificaat, de conformiteit van bijlage II van [uitvoeringsverordening (EU) 2019/779](32679R2019) wil laten beoordelen, is, naast het van toepassing zijnde tarief op grond van de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-06-12&g=2025-06-12) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.13&z=2025-06-12&g=2025-06-12), een aanvullend tarief verschuldigd van € 148 per uur.
+7. Indien een spoorwegonderneming of een infrastructuurbeheerder die uitsluitend voor de eigen exploitatie bestemde voertuigen onderhoudt als bedoeld in artikel 3, tweede lid, onder b, van [uitvoeringsverordening (EU) 2019/779](32679R2019) tijdens de behandeling van een aanvraag voor een veiligheidsvergunning of voor een veiligheidscertificaat, de conformiteit van bijlage II van [uitvoeringsverordening (EU) 2019/779](32679R2019) wil laten beoordelen, is, naast het van toepassing zijnde tarief op grond van de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-07-01&g=2025-07-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.13&z=2025-07-01&g=2025-07-01), een aanvullend tarief verschuldigd van € 148 per uur.
 
 ##### Artikel 4.15
 
@@ -1913,7 +1907,7 @@ Voor de behandeling van een aanvraag tot beoordeling van een informatiedossier a
 
 ##### Artikel 4.21
 
-In afwijking van de bedragen, genoemd in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.12&z=2025-06-12&g=2025-06-12) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.13&z=2025-06-12&g=2025-06-12), is voor de behandeling van een aanvraag van de in die artikelen bedoelde beschikkingen een tarief verschuldigd van € 1.337, indien daarvoor een documentatiebeoordeling volstaat.
+In afwijking van de bedragen, genoemd in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.12&z=2025-07-01&g=2025-07-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=4&afdeling=4.1&artikel=4.13&z=2025-07-01&g=2025-07-01), is voor de behandeling van een aanvraag van de in die artikelen bedoelde beschikkingen een tarief verschuldigd van € 1.337, indien daarvoor een documentatiebeoordeling volstaat.
 
 ##### Artikel 4.22
 
@@ -2104,11 +2098,11 @@ Een tarief is verschuldigd van:
 
 ##### Artikel 6.14
 
-Voor de afgifte of vervanging van een monsterboekje als bedoeld in [artikel 35, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=35) is een tarief verschuldigd van € 95.
+Voor de afgifte of vervanging van een monsterboekje als bedoeld in [artikel 22, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=22) is een tarief verschuldigd van € 95.
 
 ##### Artikel 6.15
 
-1. Voor de afgifte van een vaarbevoegdheidsbewijs als bedoeld in [artikel 18, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=18), zijn de volgende tarieven verschuldigd:
+1. Voor de afgifte van een vaarbevoegdheidsbewijs als bedoeld in [artikel 23, eerste en tweede lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23), zijn de volgende tarieven verschuldigd:
 
 - a. € 145 voor elk vaarbevoegdheidsbewijs of een duplicaat vaarbevoegdheidsbewijs, waarop ten minste één van de volgende functies voorkomt:
 
@@ -2140,29 +2134,29 @@ Voor de afgifte of vervanging van een monsterboekje als bedoeld in [artikel 35, 
 
 - b. € 97 voor elk vaarbevoegdheidsbewijs of duplicaat van een vaarbevoegdheidsbewijs waarop geen van de in onderdeel a genoemde functies voorkomt.
 
-- c. € 146 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22), en [artikel 22a, tweede lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22a).
+- c. € 146 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in [artikel 27, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27).
 
-2. Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in [artikel 25 van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=25), is een tarief verschuldigd van € 199.
+2. Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in [artikel 23, vijfde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23), is een tarief verschuldigd van € 199.
 
-3. Voor de afgifte van een erkenning van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 9a, eerste lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=9a) is een tarief verschuldigd van € 149.
+3. Voor de afgifte van een erkenning van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 27, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27) is een tarief verschuldigd van € 149.
 
 ##### Artikel 6.16
 
-Voor de afgifte van een certificaat **type rating HSC** als bedoeld in [artikel 8.27 van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=8.27) is een tarief verschuldigd van € 146.
+Voor de afgifte van een bekwaamheidsbewijs **type rating HSC** als bedoeld in [artikel 3.3.14 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.14) is een tarief verschuldigd van € 146.
 
 ##### Artikel 6.17
 
 1. Voor de afgifte van de volgende bewijzen is een tarief verschuldigd van € 146:
 
-- a. bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen als bedoeld in [artikel 35, eerste lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=35);
+- a. bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen als bedoeld in [artikel 3.3.1 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.1);
 
-- b. bekwaamheidsbewijs basis ladingbehandeling gastankschepen als bedoeld in [artikel 35, tweede lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=35);
+- b. bekwaamheidsbewijs basis ladingbehandeling gastankschepen als bedoeld in [artikel 3.3.4 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.4);
 
-- c. bekwaamheidsbewijs ladingbehandeling olietankschepen voor gevorderden als bedoeld in [artikel 35, derde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=35);
+- c. bekwaamheidsbewijs ladingbehandeling olietankschepen voor gevorderden als bedoeld in [artikel 3.3.2 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.2);
 
-- d. bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden als bedoeld in [artikel 35, vierde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=35);
+- d. bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden als bedoeld in [artikel 3.3.3 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.3);
 
-- e. bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden als bedoeld in [artikel 35, vijfde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=35);
+- e. bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden als bedoeld in [artikel 3.3.5 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.5);
 
 - f. de vernieuwing van een bekwaamheidsbewijs als bedoeld onder a tot en met e.
 
@@ -2170,21 +2164,21 @@ Voor de afgifte van een certificaat **type rating HSC** als bedoeld in [artikel 
 
 ##### Artikel 6.18
 
-1. Voor de afgifte van een bekwaamheidsbewijs scheepskok als bedoeld in [artikel 8.37 van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=8.37) is een tarief verschuldigd van € 146.
+1. Voor de afgifte van een bekwaamheidsbewijs scheepskok als bedoeld in [artikel 3.5.11 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.5.11) is een tarief verschuldigd van € 146.
 
 2. Voor de afgifte van een erkenning van een buitenlands bekwaamheidsbewijs als bedoeld in het eerste lid is een tarief verschuldigd van € 172.
 
 ##### Artikel 6.19
 
-Voor de afgifte van een certificaat uitvoering beveiligingstaken of een certificaat bewustwording scheepsbeveiliging als bedoeld in [artikel 11.1 van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=11.1) is een tarief verschuldigd van € 62.
+Voor de afgifte van een bekwaamheidsbewijs uitvoering beveiligingstaken of een bekwaamheidsbewijs bewustwording scheepsbeveiliging als bedoeld in de [artikelen 3.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.5.9) of [3.5.10 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.5.10) is een tarief verschuldigd van € 62.
 
 ##### Artikel 6.20
 
-Voor de afgifte van het bekwaamheidsbewijs ingevolge de op grond van hoofdstuk XIV-1.1 van het SOLAS-verdrag toepasselijke Polar-Code als bedoeld in [artikel 36a van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=36a), is een tarief verschuldigd van € 149.
+Voor de afgifte van het bekwaamheidsbewijs ingevolge de op grond van hoofdstuk XIV-1.1 van het SOLAS-verdrag toepasselijke Polar-Code als bedoeld in de [artikelen 3.3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.12) of [3.3.13 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.13), is een tarief verschuldigd van € 149.
 
 ##### Artikel 6.21
 
-Voor de afgifte van het bekwaamheidsbewijs ingevolge de op grond van hoofdstuk II-1/2.29 van het SOLAS-verdrag toepasselijke IGF-Code als bedoeld in [artikel 39a, tweede en derde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=39a), is een tarief verschuldigd van € 149.
+Voor de afgifte van het bekwaamheidsbewijs ingevolge de op grond van hoofdstuk II-1/2.29 van het SOLAS-verdrag toepasselijke IGF-Code als bedoeld in de [artikelen 3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.10) of [3.3.11 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&artikel=3.3.11), is een tarief verschuldigd van € 149.
 
 ### Afdeling 6.2. Stichting Veiligheid & Vakmanschap Railvervoer
 
@@ -2537,9 +2531,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1.1a. Omhangbepaling
 
-1. De artikelen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-06-12&g=2025-06-12) Sector Luchtvaart berusten mede op [artikel 22, eerste lid, aanhef en onderdeel c, en tweede lid van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=22).
+1. De artikelen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=2&z=2025-07-01&g=2025-07-01) Sector Luchtvaart berusten mede op [artikel 22, eerste lid, aanhef en onderdeel c, en tweede lid van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=22).
 
-2. De artikelen in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-06-12&g=2025-06-12) Andere verstrekkers dan de Inspectie Leefomgeving en Transport berusten mede op [artikel 62, aanhef en onderdelen e, g, h en k, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=62).
+2. De artikelen in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&z=2025-07-01&g=2025-07-01) Sector Scheepvaart en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=6&z=2025-07-01&g=2025-07-01) Andere verstrekkers dan de Inspectie Leefomgeving en Transport berusten mede op [artikel 79, eerste lid, onderdelen c tot en met k, en tweede lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=79).
+
+3. De artikelen in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047719&hoofdstuk=3&z=2025-07-01&g=2025-07-01) Sector scheepvaart berusten mede op [artikel 6, vijfde en zesde lid, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6).
 
 ### Hoofdstuk 2. Sector luchtvaart
 
