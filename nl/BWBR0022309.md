@@ -4,7 +4,7 @@ identifier: "BWBR0022309"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022309"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Plan van aanpak
 
-1. Indien uit het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2023-07-01&g=2023-07-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het UWV, in overleg met die vangnetter, binnen twee weken na het oordeel een plan van aanpak op.
+1. Indien uit het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2025-07-01&g=2025-07-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het UWV, in overleg met die vangnetter, binnen twee weken na het oordeel een plan van aanpak op.
 
 2. Het plan van aanpak omvat in ieder geval:
 
@@ -82,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Periodieke herijking
 
-1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
+1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2025-07-01&g=2025-07-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 2. Het plan van aanpak wordt bijgesteld indien de periodieke herijking daartoe aanleiding geeft.
 
 ##### Artikel 6. Afwijken van termijnen
 
-Van de termijnen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2023-07-01&g=2023-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2023-07-01&g=2023-07-01), kan door het UWV, na overleg met de vangnetter, gemotiveerd worden afgeweken.
+Van de termijnen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2025-07-01&g=2025-07-01), kan door het UWV, na overleg met de vangnetter, gemotiveerd worden afgeweken.
 
 ##### Artikel 7. Inhoud van het re-integratieverslag
 
@@ -102,11 +102,11 @@ Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en 
 
 - d. vermelding van de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;
 
-- e. het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2023-07-01&g=2023-07-01);
+- e. het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2025-07-01&g=2025-07-01);
 
-- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01);
+- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2025-07-01&g=2025-07-01);
 
-- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2023-07-01&g=2023-07-01);
+- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2025-07-01&g=2025-07-01);
 
 - h. de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
 
@@ -144,8 +144,6 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Overgangsrecht in verband met visie werknemer
 
-1. [Artikel 4, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01), van deze regeling, zoals dat luidde voor inwerkingtreding van artikel II, onderdeel A, van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 mei 2023 tot wijziging van de Regeling procesgang eerste en tweede ziektejaar en de Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever in verband met regels over de re-integratievisie en een enkele andere wijziging blijft van toepassing voor werknemers van wie de eerste ziektedag is gelegen voor 1 juli 2023, indien het plan van aanpak en de eerstejaarsevaluatie niet na deze datum zijn opgesteld of bijgesteld.
-
-2. Dit artikel vervalt met ingang van 1 juli 2025.
+Vervallen
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
