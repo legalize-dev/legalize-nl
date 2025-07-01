@@ -4,7 +4,7 @@ identifier: "BWBR0027842"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2012-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027842"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepassingsbereik
 
-Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 meter die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
+Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 meter die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
 
 ##### Artikel 3. Benodigde medische uitrusting
 
@@ -79,7 +79,7 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 m
 
 1. De schipper inspecteert jaarlijks, met inachtneming van hetgeen in dit artikel is bepaald, de aan boord van het vaartuig aanwezige medische uitrusting.
 
-2. De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het vaartuig wordt onderworpen in verband met de voor dat vaartuig benodigde certificaten. De inspectie heeft geen betrekking op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027842&artikel=5&z=2012-01-01&g=2012-01-01) bedoelde medische uitrusting voor reddingvlotten.
+2. De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het vaartuig wordt onderworpen in verband met de voor dat vaartuig benodigde certificaten. De inspectie heeft geen betrekking op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027842&artikel=5&z=2025-07-01&g=2025-07-01) bedoelde medische uitrusting voor reddingvlotten.
 
 3. De schipper stelt bij de inspectie een controlelijst op met daarop de benamingen en codes van alle geneesmiddelen, verpleeg- en verbandmiddelen en antidota die ingevolge de bijlage aan boord van het vaartuig zijn vereist, en vermeldt daarbij zowel de voorgeschreven hoeveelheden als de daadwerkelijk aan boord aanwezige hoeveelheden. In voorkomend geval wordt tevens de houdbaarheidsdatum van die middelen vermeld. De controlelijst vermeldt voorts de naam, de vlag en de thuishaven van het vaartuig.
 
