@@ -4,7 +4,7 @@ identifier: "BWBR0030651"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2012-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030651"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. **richtlijn:** [richtlijn 2009/20/EG](32009L0020) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende de verzekering van scheepseigenaren tegen maritieme vorderingen (PbEU L 131);
 
-- e. **Nederlands zeeschip:** een zeeschip dat op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren;
+- e. **Nederlands zeeschip:** een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
 - f. **buitenlands zeeschip:** een zeeschip dat geen Nederlands zeeschip is.
 
@@ -77,7 +77,7 @@ Deze wet is niet van toepassing op:
 
 ##### Artikel 4
 
-1. Een Nederlands zeeschip en een buitenlands zeeschip dat een Nederlandse haven aandoet tonen het bestaan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2012-01-01&g=2012-01-01) bedoelde verzekering aan met een of meer door de verzekeringverstrekker afgegeven bewijzen van de verzekering, als bedoeld in artikel 3, eerste lid, die aan boord worden meegevoerd.
+1. Een Nederlands zeeschip en een buitenlands zeeschip dat een Nederlandse haven aandoet tonen het bestaan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde verzekering aan met een of meer door de verzekeringverstrekker afgegeven bewijzen van de verzekering, als bedoeld in artikel 3, eerste lid, die aan boord worden meegevoerd.
 
 2. Het verzekeringsbewijs bevat de informatie, bedoeld in artikel 6, tweede lid, van de richtlijn.
 
@@ -85,7 +85,7 @@ Deze wet is niet van toepassing op:
 
 ##### Artikel 5
 
-Met het toezicht op de naleving van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2012-01-01&g=2012-01-01), zijn belast de door Onze Minister aangewezen ambtenaren.
+Met het toezicht op de naleving van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2025-07-01&g=2025-07-01), zijn belast de door Onze Minister aangewezen ambtenaren.
 
 ##### Artikel 6
 
