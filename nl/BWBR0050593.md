@@ -4,7 +4,7 @@ identifier: "BWBR0050593"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050593"
 soort: "wet"
@@ -64,13 +64,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Huisvestingswet 2014.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -90,6 +86,6 @@ B. Wijzigt de Wijzigingswet Wet op de huurtoeslag (vereenvoudiging van de huurto
 
 ##### Artikel IX
 
-Deze wet treedt in werking met ingang van 1 januari 2025, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=IV&z=2025-01-01&g=2025-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=V&z=2025-01-01&g=2025-01-01) die in werking treden met ingang van 1 juli 2025 en met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=I&z=2025-01-01&g=2025-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=III&z=2025-01-01&g=2025-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=VI&z=2025-01-01&g=2025-01-01) die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt in werking met ingang van 1 januari 2025, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=IV&z=2025-07-01&g=2025-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=V&z=2025-07-01&g=2025-07-01) die in werking treden met ingang van 1 juli 2025 en met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=I&z=2025-07-01&g=2025-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=III&z=2025-07-01&g=2025-07-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0050593&artikel=VI&z=2025-07-01&g=2025-07-01) die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
