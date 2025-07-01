@@ -4,7 +4,7 @@ identifier: "BWBR0048709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2023-10-28"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048709"
 soort: "ministeriele-regeling"
@@ -238,7 +238,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 ##### Artikel 24. Bedrag bekostiging zware ondersteuning PO
 
-1. Het bedrag per leerling, bedoeld in [artikel 124, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), bedraagt € 477,27.
+1. Het bedrag per leerling, bedoeld in [artikel 124, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), bedraagt € 490,77.
 
 2. Het bedrag per leerling dat in mindering wordt gebracht op de bekostiging van het samenwerkingsverband, bedoeld in [artikel 124, vierde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), is per categorie onderverdeeld naar onderwijstype van de leerlingen, weergegeven in onderstaande de tabel:
 
@@ -248,7 +248,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 ##### Artikel 25. Bedrag bekostiging zware ondersteuning VO
 
-1. Het bedrag per leerling, bedoeld in [artikel 5.15, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), bedraagt € 781,39.
+1. Het bedrag per leerling, bedoeld in [artikel 5.15, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), bedraagt € 793,89.
 
 2. Het bedrag per leerling dat in mindering wordt gebracht op de bekostiging van het samenwerkingsverband, bedoeld in [artikel 5.15, vierde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), is per categorie onderverdeeld naar onderwijstype van de leerlingen, weergegeven in onderstaande tabel:
 
@@ -305,7 +305,7 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 1. Het bevoegd gezag ontvangt, tenzij anders bepaald, uiterlijk 16 weken na ontvangst van een aanvraag voor aanvullende bekostiging als bedoeld in deze paragraaf een beschikking.
 
-2. Indien de peildatum, bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=32&z=2023-10-28&g=2023-10-28), of de aanvraagdatum, bedoeld in de artikelen [31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=31&z=2023-10-28&g=2023-10-28), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=37&z=2023-10-28&g=2023-10-28) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=39&z=2023-10-28&g=2023-10-28), valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum of aanvraagdatum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is aangehouden.
+2. Indien de peildatum, bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=32&z=2025-07-01&g=2025-07-01), of de aanvraagdatum, bedoeld in de artikelen [31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=37&z=2025-07-01&g=2025-07-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=39&z=2025-07-01&g=2025-07-01), valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum of aanvraagdatum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is aangehouden.
 
 ##### Artikel 31. Aanwezigheid schipperskinderen
 
@@ -720,15 +720,15 @@ Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijz
 
 ##### Artikel 44. Betaalritme
 
-1. Onverminderd het vierde lid en [artikel 42, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=42&z=2023-10-28&g=2023-10-28), worden de bekostigingsbedragen, bedoeld in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
+1. Onverminderd het vierde lid en [artikel 42, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=42&z=2025-07-01&g=2025-07-01), worden de bekostigingsbedragen, bedoeld in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
 
-2. De bekostigingsbedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-10-28&g=2023-10-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-10-28&g=2023-10-28) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=3&artikel=18&z=2023-10-28&g=2023-10-28) worden in één termijn in juni uitbetaald.
+2. De bekostigingsbedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=3&artikel=18&z=2025-07-01&g=2025-07-01) worden in één termijn in juni uitbetaald.
 
-3. Het bekostigingsbedrag, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-10-28&g=2023-10-28), wordt in één termijn uitbetaald.
+3. Het bekostigingsbedrag, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01), wordt in één termijn uitbetaald.
 
-4. De bekostigingsbedragen, bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=34&z=2023-10-28&g=2023-10-28), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=35&z=2023-10-28&g=2023-10-28) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=36&z=2023-10-28&g=2023-10-28) worden in één termijn uitbetaald.
+4. De bekostigingsbedragen, bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=34&z=2025-07-01&g=2025-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=35&z=2025-07-01&g=2025-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=36&z=2025-07-01&g=2025-07-01) worden in één termijn uitbetaald.
 
-5. De bekostigingsbedragen, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=38a&z=2023-10-28&g=2023-10-28), worden in één termijn in juni uitbetaald.
+5. De bekostigingsbedragen, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0048709&hoofdstuk=5&artikel=38a&z=2025-07-01&g=2025-07-01), worden in één termijn in juni uitbetaald.
 
 ### Hoofdstuk 7. Slotbepalingen
 
