@@ -4,7 +4,7 @@ identifier: "BWBR0044730"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044730"
 soort: "AMvB"
@@ -82,7 +82,7 @@ Wijzigt het Omgevingsbesluit.
 
 8. Vrijstellingen als bedoeld in de [artikelen 3.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.25), en [4.5, vierde lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=4.5), zoals deze artikelen luidden onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 3.1 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&artikel=3.1), gelden als maatwerkregels als bedoeld in [artikel 11.117, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.117).
 
-9. Het besluit tot aanwijzing van gebieden als nationaal park, neergelegd in [artikel 2 van de Regeling aanwijzing nationale parken](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&artikel=2), zoals dat artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0044730&hoofdstuk=1&artikel=II&z=2024-01-01&g=2024-01-01), geldt als besluit als bedoeld in [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44) en [artikel 3.68 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.68).
+9. Het besluit tot aanwijzing van gebieden als nationaal park, neergelegd in [artikel 2 van de Regeling aanwijzing nationale parken](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&artikel=2), zoals dat artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0044730&hoofdstuk=1&artikel=II&z=2025-07-01&g=2025-07-01), geldt als besluit als bedoeld in [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44) en [artikel 3.68 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.68).
 
 10. Een register waarin stikstofdepositieruimte is geregistreerd op grond van [artikel 5.5a van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=5.5a), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 3.1 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&artikel=3.1), geldt als register als bedoeld in [artikel 11.71 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.71).
 
