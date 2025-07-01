@@ -4,7 +4,7 @@ identifier: "BWBR0002827"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-07-01"
-last_updated: "2010-10-10"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002827"
 soort: "rijkswet"
@@ -45,11 +45,11 @@ Deze Rijkswet verstaat onder:
 
 - a. "vaarplicht": de verplichting, welke krachtens de wet dan wel bij of krachtens landsverordening aan zeelieden of gewezen zeelieden wordt opgelegd om hun diensten beschikbaar te stellen en te houden voor het verrichten van werkzaamheden aan boord of ten behoeve van schepen onder de vlag van het Koninkrijk;
 
-- b. "schip": een geen oorlogsschip zijnd zeeschip in de zin van [artikel 2, eerste lid, van Boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede een zodanig schip in aanbouw, en in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Aruba, in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Curaçao en in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Sint Maarten;
+- b. "schip": een geen oorlogsschip zijnd zeeschip in de zin van [artikel 2, eerste lid, van Boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede een zodanig schip in aanbouw, en in de zin van artikel 376 van het Wetboek van Koophandel van Aruba, in de zin van artikel 376 van het Wetboek van Koophandel van Curaçao en in de zin van artikel 376 van het Wetboek van Koophandel van Sint Maarten;
 
 - c. "schip onder de vlag van het Koninkrijk":
 
-- 1°. Een schip dat op grond van Nederlandse, Arubaanse, Curaçaose, onderscheidenlijk Sint Maartense rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren;
+- 1°. Een schip dat op grond van voor Nederland, Aruba, Curaçao onderscheidenlijk Sint Maarten geldende rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren;
 
 - 2°. een bij de wet, onderscheidenlijk bij landsverordening als zodanig aangewezen in Nederland, Aruba, Curaçao of Sint Maarten thuisbehorend vissersvaartuig.
 
