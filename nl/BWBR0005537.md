@@ -4,7 +4,7 @@ identifier: "BWBR0005537"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-04-04"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005537"
 soort: "wet"
@@ -67,7 +67,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. de Algemene Rekenkamer;
 
-- f. de Nationale ombudsman en de substituut-ombudsmannen als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9), en ombudsmannen en ombudscommissies als bedoeld in [artikel 9:17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:17&z=2025-04-04&g=2025-04-04);
+- f. de Nationale ombudsman en de substituut-ombudsmannen als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9), en ombudsmannen en ombudscommissies als bedoeld in [artikel 9:17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:17&z=2025-07-01&g=2025-07-01);
 
 - g. de voorzitters, leden, griffiers en secretarissen van de in de onderdelen **b** tot en met **f** bedoelde organen, de procureur-generaal, de plaatsvervangend procureur-generaal en de advocaten-generaal bij de Hoge Raad, de besturen van de in onderdeel c bedoelde organen alsmede de voorzitters van die besturen, alsmede de commissies uit het midden van de in de onderdelen **b** tot en met **f** bedoelde organen;
 
@@ -103,7 +103,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onder hogerberoepsrechter wordt verstaan: een bestuursrechter die in hoger beroep oordeelt.
 
-3. Een tot de rechterlijke macht behorend gerecht wordt als bestuursrechter aangemerkt voor zover [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&z=2025-04-04&g=2025-04-04) of de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) - met uitzondering van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII) - van toepassing of van overeenkomstige toepassing is.
+3. Een tot de rechterlijke macht behorend gerecht wordt als bestuursrechter aangemerkt voor zover [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&z=2025-07-01&g=2025-07-01) of de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) - met uitzondering van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII) - van toepassing of van overeenkomstige toepassing is.
 
 ##### Artikel 1:5
 
@@ -115,7 +115,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1:6
 
-De [hoofdstukken 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-04-04&g=2025-04-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&z=2025-04-04&g=2025-04-04) van deze wet zijn niet van toepassing op:
+De [hoofdstukken 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-07-01&g=2025-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&z=2025-07-01&g=2025-07-01) van deze wet zijn niet van toepassing op:
 
 - a. de opsporing en vervolging van strafbare feiten, alsmede de tenuitvoerlegging van strafrechtelijke beslissingen;
 
@@ -269,11 +269,11 @@ Vervallen
 
 1. Op besluiten, inhoudende algemeen verbindende voorschriften:
 
-- a. is [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2025-04-04&g=2025-04-04) slechts van toepassing, voor zover de aard van de besluiten zich daartegen niet verzet;
+- a. is [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2025-07-01&g=2025-07-01) slechts van toepassing, voor zover de aard van de besluiten zich daartegen niet verzet;
 
-- b. zijn de [afdelingen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&z=2025-04-04&g=2025-04-04) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-04-04&g=2025-04-04) niet van toepassing.
+- b. zijn de [afdelingen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&z=2025-07-01&g=2025-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-07-01&g=2025-07-01) niet van toepassing.
 
-2. Op andere handelingen van bestuursorganen dan besluiten zijn de [afdelingen 3.2 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing, voor zover de aard van de handelingen zich daartegen niet verzet.
+2. Op andere handelingen van bestuursorganen dan besluiten zijn de [afdelingen 3.2 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, voor zover de aard van de handelingen zich daartegen niet verzet.
 
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
 
@@ -331,9 +331,9 @@ Deze afdeling is van overeenkomstige toepassing op voorstellen van wet.
 
 2. Tenzij bij wettelijk voorschrift of bij besluit van het bestuursorgaan anders is bepaald, is deze afdeling niet van toepassing op de voorbereiding van een besluit inhoudende de afwijzing van een aanvraag tot intrekking of wijziging van een besluit.
 
-3. [Afdeling 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&z=2025-04-04&g=2025-04-04) is mede van toepassing op andere besluiten dan beschikkingen, indien deze op aanvraag worden genomen en voorbereid overeenkomstig deze afdeling.
+3. [Afdeling 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&z=2025-07-01&g=2025-07-01) is mede van toepassing op andere besluiten dan beschikkingen, indien deze op aanvraag worden genomen en voorbereid overeenkomstig deze afdeling.
 
-4. Indien deze afdeling van toepassing is op de voorbereiding van een besluit is [paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-04-04&g=2025-04-04). niet van toepassing.
+4. Indien deze afdeling van toepassing is op de voorbereiding van een besluit is [paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-07-01&g=2025-07-01). niet van toepassing.
 
 ##### Artikel 3:11
 
@@ -341,7 +341,7 @@ Deze afdeling is van overeenkomstige toepassing op voorstellen van wet.
 
 2. [Artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing. Indien op grond daarvan bepaalde stukken niet ter inzage worden gelegd, wordt daarvan mededeling gedaan.
 
-3. De stukken liggen ter inzage gedurende de in [artikel 3:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:16&z=2025-04-04&g=2025-04-04), bedoelde termijn.
+3. De stukken liggen ter inzage gedurende de in [artikel 3:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:16&z=2025-07-01&g=2025-07-01), bedoelde termijn.
 
 ##### Artikel 3:12
 
@@ -353,19 +353,19 @@ Deze afdeling is van overeenkomstige toepassing op voorstellen van wet.
 
 - b. op welke wijze dit kan geschieden;
 
-- c. indien toepassing is gegeven aan [artikel 3:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:18&z=2025-04-04&g=2025-04-04): de termijn waarbinnen het besluit zal worden genomen.
+- c. indien toepassing is gegeven aan [artikel 3:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:18&z=2025-07-01&g=2025-07-01): de termijn waarbinnen het besluit zal worden genomen.
 
 ##### Artikel 3:13
 
 1. Indien het besluit tot een of meer belanghebbenden zal zijn gericht, zendt het bestuursorgaan voorafgaand aan de terinzagelegging het ontwerp toe aan hen, onder wie begrepen de aanvrager.
 
-2. [Artikel 3:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. [Artikel 3:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3:14
 
 1. Het bestuursorgaan vult de ter inzage gelegde stukken aan met nieuwe relevante stukken en gegevens.
 
-2. [Artikel 3:11, tweede tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-04-04&g=2025-04-04), is van toepassing.
+2. [Artikel 3:11, tweede tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-07-01&g=2025-07-01), is van toepassing.
 
 ##### Artikel 3:15
 
@@ -379,15 +379,15 @@ Deze afdeling is van overeenkomstige toepassing op voorstellen van wet.
 
 ##### Artikel 3:16
 
-1. De termijn voor het naar voren brengen van zienswijzen en het uitbrengen van adviezen als bedoeld in [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&z=2025-04-04&g=2025-04-04), bedraagt zes weken, tenzij bij wettelijk voorschrift een langere termijn is bepaald.
+1. De termijn voor het naar voren brengen van zienswijzen en het uitbrengen van adviezen als bedoeld in [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&z=2025-07-01&g=2025-07-01), bedraagt zes weken, tenzij bij wettelijk voorschrift een langere termijn is bepaald.
 
 2. De termijn vangt aan met ingang van de dag waarop het ontwerp ter inzage is gelegd en daarvan kennis is gegeven.
 
-3. Op schriftelijk naar voren gebrachte zienswijzen zijn de [artikelen 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:9&z=2025-04-04&g=2025-04-04), [6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:10&z=2025-04-04&g=2025-04-04) en [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+3. Op schriftelijk naar voren gebrachte zienswijzen zijn de [artikelen 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:9&z=2025-07-01&g=2025-07-01), [6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:10&z=2025-07-01&g=2025-07-01) en [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 3:17
 
-Van hetgeen overeenkomstig [artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:15&z=2025-04-04&g=2025-04-04) mondeling naar voren is gebracht, wordt een verslag gemaakt.
+Van hetgeen overeenkomstig [artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:15&z=2025-07-01&g=2025-07-01) mondeling naar voren is gebracht, wordt een verslag gemaakt.
 
 ##### Artikel 3:18
 
@@ -401,7 +401,7 @@ Van hetgeen overeenkomstig [artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. inzake wijziging van een besluit en de aanvraag is gedaan door een ander dan degene tot wie het te wijzigen besluit is gericht.
 
-4. Indien geen zienswijzen naar voren zijn gebracht, doet het bestuursorgaan daarvan zo spoedig mogelijk nadat de termijn voor het naar voren brengen van zienswijzen is verstreken, mededeling op de wijze, bedoeld in [artikel 3:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-04-04&g=2025-04-04). In afwijking van het eerste of derde lid neemt het bestuursorgaan het besluit in dat geval binnen vier weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken.
+4. Indien geen zienswijzen naar voren zijn gebracht, doet het bestuursorgaan daarvan zo spoedig mogelijk nadat de termijn voor het naar voren brengen van zienswijzen is verstreken, mededeling op de wijze, bedoeld in [artikel 3:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-07-01&g=2025-07-01). In afwijking van het eerste of derde lid neemt het bestuursorgaan het besluit in dat geval binnen vier weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken.
 
 ### Afdeling 3.4a. Informatie over samenhangende besluiten
 
@@ -431,7 +431,7 @@ Deze afdeling is van toepassing op besluiten ten aanzien waarvan dat is bepaald:
 
 ##### Artikel 3:21
 
-1. Bij of krachtens het wettelijk voorschrift, bedoeld in [artikel 3:20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:20&z=2025-04-04&g=2025-04-04), of in het coördinatiebesluit wordt een coördinerend bestuursorgaan aangewezen.
+1. Bij of krachtens het wettelijk voorschrift, bedoeld in [artikel 3:20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:20&z=2025-07-01&g=2025-07-01), of in het coördinatiebesluit wordt een coördinerend bestuursorgaan aangewezen.
 
 2. Indien het in een coördinatiebesluit als coördinerend bestuursorgaan aan te wijzen bestuursorgaan niet bevoegd is tot het nemen van een of meer van de te coördineren besluiten, behoeft de aanwijzing de instemming van dat bestuursorgaan.
 
@@ -459,13 +459,13 @@ Deze afdeling is van toepassing op besluiten ten aanzien waarvan dat is bepaald:
 
 ##### Artikel 3:24
 
-Onverminderd [artikel 3:23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:23&z=2025-04-04&g=2025-04-04), vangt de termijn voor het nemen van de besluiten, bedoeld in artikel 3:23, eerste lid, aan met ingang van de dag waarop de laatste aanvraag is ontvangen.
+Onverminderd [artikel 3:23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:23&z=2025-07-01&g=2025-07-01), vangt de termijn voor het nemen van de besluiten, bedoeld in artikel 3:23, eerste lid, aan met ingang van de dag waarop de laatste aanvraag is ontvangen.
 
 ##### Artikel 3:25
 
-1. Indien op de voorbereiding van een van de besluiten [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04) van toepassing is, is die afdeling van toepassing op alle besluiten, met inachtneming van het volgende:
+1. Indien op de voorbereiding van een van de besluiten [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) van toepassing is, is die afdeling van toepassing op alle besluiten, met inachtneming van het volgende:
 
-- a. de ingevolge de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-04-04&g=2025-04-04), [3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:14&z=2025-04-04&g=2025-04-04) en [3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:44&z=2025-04-04&g=2025-04-04), eerste lid, onderdeel a, vereiste terinzageleggingen geschiedt in ieder geval ten kantore van het coördinerend bestuursorgaan;
+- a. de ingevolge de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-07-01&g=2025-07-01), [3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:14&z=2025-07-01&g=2025-07-01) en [3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:44&z=2025-07-01&g=2025-07-01), eerste lid, onderdeel a, vereiste terinzageleggingen geschiedt in ieder geval ten kantore van het coördinerend bestuursorgaan;
 
 - b. het coördinerend bestuursorgaan draagt er zorg voor dat de gelegenheid tot het mondeling naar voren brengen van zienswijzen wordt gegeven met betrekking tot alle ontwerpbesluiten gezamenlijk;
 
@@ -477,29 +477,29 @@ Onverminderd [artikel 3:23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - f. het in de gelegenheid stellen te reageren op naar voren gebrachte zienswijzen geschiedt door het coördinerend bestuursorgaan;
 
-- g. de ingevolge die afdeling en [afdeling 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&z=2025-04-04&g=2025-04-04) vereiste mededelingen, kennisgevingen en toezendingen geschieden door het coördinerend bestuursorgaan;
+- g. de ingevolge die afdeling en [afdeling 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&z=2025-07-01&g=2025-07-01) vereiste mededelingen, kennisgevingen en toezendingen geschieden door het coördinerend bestuursorgaan;
 
-- h. in afwijking van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:18&z=2025-04-04&g=2025-04-04) worden de besluiten genomen binnen een door het coördinerend bestuursorgaan te bepalen termijn, doch uiterlijk binnen de termijn die geldt voor het besluit met de langste beslistermijn;
+- h. in afwijking van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:18&z=2025-07-01&g=2025-07-01) worden de besluiten genomen binnen een door het coördinerend bestuursorgaan te bepalen termijn, doch uiterlijk binnen de termijn die geldt voor het besluit met de langste beslistermijn;
 
-- i. de dag van terinzagelegging van de besluiten door het coördinerend bestuursorgaan is bepalend voor de aanvang van de beroepstermijn ingevolge [artikel 6:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:8&z=2025-04-04&g=2025-04-04).
+- i. de dag van terinzagelegging van de besluiten door het coördinerend bestuursorgaan is bepalend voor de aanvang van de beroepstermijn ingevolge [artikel 6:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:8&z=2025-07-01&g=2025-07-01).
 
-2. Indien [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04) niet van toepassing is, geschiedt de voorbereiding met toepassing of overeenkomstige toepassing van de onderdelen b tot en met h van het eerste lid.
+2. Indien [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) niet van toepassing is, geschiedt de voorbereiding met toepassing of overeenkomstige toepassing van de onderdelen b tot en met h van het eerste lid.
 
 ##### Artikel 3:26
 
 1. De bevoegde bestuursorganen zenden de door hen genomen besluiten zo spoedig mogelijk toe aan het coördinerend bestuursorgaan.
 
-2. Het coördinerend bestuursorgaan maakt de besluiten gelijktijdig bekend en legt deze, indien tevens terinzagelegging wettelijk is voorgeschreven op grond van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), gelijktijdig ter inzage.
+2. Het coördinerend bestuursorgaan maakt de besluiten gelijktijdig bekend en legt deze, indien tevens terinzagelegging wettelijk is voorgeschreven op grond van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), gelijktijdig ter inzage.
 
 ##### Artikel 3:27
 
-1. Indien tegen een van de besluiten bezwaar kan worden gemaakt of administratief beroep kan worden ingesteld, geschiedt dit in afwijking van [artikel 6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-04-04&g=2025-04-04) door het indienen van het bezwaar- of beroepschrift bij het coördinerend bestuursorgaan. Het coördinerend bestuursorgaan zendt terstond na ontvangst van het bezwaar- of beroepschrift een afschrift daarvan aan het bevoegde bestuursorgaan.
+1. Indien tegen een van de besluiten bezwaar kan worden gemaakt of administratief beroep kan worden ingesteld, geschiedt dit in afwijking van [artikel 6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-07-01&g=2025-07-01) door het indienen van het bezwaar- of beroepschrift bij het coördinerend bestuursorgaan. Het coördinerend bestuursorgaan zendt terstond na ontvangst van het bezwaar- of beroepschrift een afschrift daarvan aan het bevoegde bestuursorgaan.
 
 2. Het coördinerend bestuursorgaan draagt er zorg voor dat de gelegenheid tot het gebruik maken van het recht te worden gehoord wordt gegeven met betrekking tot alle bestreden besluiten gezamenlijk.
 
-3. De bevoegde bestuursorganen zenden de door hen genomen beslissingen op het bezwaar of beroep zo spoedig mogelijk toe aan het coördinerend bestuursorgaan. Het coördinerend bestuursorgaan maakt de beslissingen gelijktijdig bekend en doet de ingevolge [artikel 7:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:12&z=2025-04-04&g=2025-04-04), of [artikel 7:26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:26&z=2025-04-04&g=2025-04-04), vereiste mededelingen.
+3. De bevoegde bestuursorganen zenden de door hen genomen beslissingen op het bezwaar of beroep zo spoedig mogelijk toe aan het coördinerend bestuursorgaan. Het coördinerend bestuursorgaan maakt de beslissingen gelijktijdig bekend en doet de ingevolge [artikel 7:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:12&z=2025-07-01&g=2025-07-01), of [artikel 7:26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:26&z=2025-07-01&g=2025-07-01), vereiste mededelingen.
 
-4. Een beslissing op een verzoek in te stemmen met rechtstreeks beroep bij de bestuursrechter, bedoeld in [artikel 7:1a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-04-04&g=2025-04-04), wordt genomen door het coördinerend bestuursorgaan. Onverminderd artikel 7:1a, tweede lid, wijst het coördinerend bestuursorgaan het verzoek in ieder geval af indien tegen een van de andere besluiten een bezwaarschrift is ingediend waarin eenzelfde verzoek ontbreekt.
+4. Een beslissing op een verzoek in te stemmen met rechtstreeks beroep bij de bestuursrechter, bedoeld in [artikel 7:1a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-07-01&g=2025-07-01), wordt genomen door het coördinerend bestuursorgaan. Onverminderd artikel 7:1a, tweede lid, wijst het coördinerend bestuursorgaan het verzoek in ieder geval af indien tegen een van de andere besluiten een bezwaarschrift is ingediend waarin eenzelfde verzoek ontbreekt.
 
 #### § 3.5.5. Beslissing op de aanvraag
 
@@ -527,7 +527,7 @@ Voor de mogelijkheid van beroep bij de bestuursrechter worden besluiten die zijn
 
 - c. de Centrale Raad van Beroep en de onderdelen a en b niet van toepassing zijn, staat inzake alle besluiten hoger beroep open bij de Centrale Raad van Beroep.
 
-4. De ingevolge het eerste lid bevoegde rechtbank of de ingevolge het tweede of derde lid bevoegde bestuursrechter kan de behandeling van de beroepen dan wel hoger beroepen verwijzen naar een rechtbank onderscheidenlijk een andere bestuursrechter die voor de behandeling ervan meer geschikt wordt geacht. [Artikel 8:13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&artikel=8:13&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+4. De ingevolge het eerste lid bevoegde rechtbank of de ingevolge het tweede of derde lid bevoegde bestuursrechter kan de behandeling van de beroepen dan wel hoger beroepen verwijzen naar een rechtbank onderscheidenlijk een andere bestuursrechter die voor de behandeling ervan meer geschikt wordt geacht. [Artikel 8:13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&artikel=8:13&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 #### § 3.5.6. Besluiten tot wijziging of intrekking en ambtshalve andere te nemen besluiten
 
@@ -565,21 +565,21 @@ De bekendmaking van besluiten die niet tot een of meer belanghebbenden zijn geri
 
 ##### Artikel 3:43
 
-1. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van het besluit mededeling gedaan aan degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht. Aan een adviseur als bedoeld in [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:5&z=2025-04-04&g=2025-04-04) wordt in ieder geval mededeling gedaan indien van het advies wordt afgeweken.
+1. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van het besluit mededeling gedaan aan degenen die bij de voorbereiding ervan hun zienswijze naar voren hebben gebracht. Aan een adviseur als bedoeld in [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:5&z=2025-07-01&g=2025-07-01) wordt in ieder geval mededeling gedaan indien van het advies wordt afgeweken.
 
 2. Bij de mededeling van een besluit wordt tevens vermeld wanneer en hoe de bekendmaking ervan heeft plaatsgevonden.
 
 ##### Artikel 3:44
 
-1. Indien bij de voorbereiding van een besluit dat tot een of meer belanghebbenden is gericht toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), wordt kennisgegeven van de terinzagelegging van het besluit en van de op de zaak betrekking hebbende stukken:
+1. Indien bij de voorbereiding van een besluit dat tot een of meer belanghebbenden is gericht toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), wordt kennisgegeven van de terinzagelegging van het besluit en van de op de zaak betrekking hebbende stukken:
 
-- a. met overeenkomstige toepassing van de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-04-04&g=2025-04-04) en [3:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-04-04&g=2025-04-04), met dien verstande dat de stukken ter inzage liggen totdat de beroepstermijn is verstreken, en
+- a. met overeenkomstige toepassing van de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:11&z=2025-07-01&g=2025-07-01) en [3:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:12&z=2025-07-01&g=2025-07-01), met dien verstande dat de stukken ter inzage liggen totdat de beroepstermijn is verstreken, en
 
 - b. door toezending van een exemplaar van het besluit aan degenen die over het ontwerp van het besluit zienswijzen naar voren hebben gebracht.
 
-2. Indien bij de voorbereiding van een besluit dat niet tot een of meer belanghebbenden is gericht toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), wordt gelijktijdig met de bekendmaking van het besluit kennisgegeven van de terinzagelegging van de op de zaak betrekking hebbende stukken. Het eerste lid, onderdelen a en b, is van overeenkomstige toepassing.
+2. Indien bij de voorbereiding van een besluit dat niet tot een of meer belanghebbenden is gericht toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), wordt gelijktijdig met de bekendmaking van het besluit kennisgegeven van de terinzagelegging van de op de zaak betrekking hebbende stukken. Het eerste lid, onderdelen a en b, is van overeenkomstige toepassing.
 
-3. Indien bij de voorbereiding van het besluit toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), kan het bestuursorgaan in afwijking van [artikel 3:43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:43&z=2025-04-04&g=2025-04-04):
+3. Indien bij de voorbereiding van het besluit toepassing is gegeven aan [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), kan het bestuursorgaan in afwijking van [artikel 3:43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:43&z=2025-07-01&g=2025-07-01):
 
 - a. indien de omvang van het besluit daartoe aanleiding geeft, volstaan met een ieder van de daar bedoelde personen de strekking van het besluit mee te delen;
 
@@ -609,7 +609,7 @@ Een besluit dient te berusten op een deugdelijke motivering.
 
 3. Indien de motivering in verband met de vereiste spoed niet aanstonds bij de bekendmaking van het besluit kan worden vermeld, verstrekt het bestuursorgaan deze binnen een week na de bekendmaking.
 
-4. In dat geval zijn de [artikelen 3:41 tot en met 3:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+4. In dat geval zijn de [artikelen 3:41 tot en met 3:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 3:48
 
@@ -669,7 +669,7 @@ Het bestuursorgaan bevestigt de ontvangst van een elektronisch ingediende aanvra
 
 - a. de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag, of
 
-- b. de aanvraag geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-04-04&g=2025-04-04), of
+- b. de aanvraag geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-07-01&g=2025-07-01), of
 
 - c. de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking,
 
@@ -685,7 +685,7 @@ mits de aanvrager de gelegenheid heeft gehad de aanvraag binnen een door het bes
 
 1. Indien na een geheel of gedeeltelijk afwijzende beschikking een nieuwe aanvraag wordt gedaan, is de aanvrager gehouden nieuw gebleken feiten of veranderde omstandigheden te vermelden.
 
-2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan zonder toepassing te geven aan [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:5&z=2025-04-04&g=2025-04-04) de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.
+2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan zonder toepassing te geven aan [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:5&z=2025-07-01&g=2025-07-01) de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.
 
 ### Afdeling 4.1.2. De voorbereiding
 
@@ -711,7 +711,7 @@ mits de aanvrager de gelegenheid heeft gehad de aanvraag binnen een door het bes
 
 ##### Artikel 4:9
 
-Bij toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-04-04&g=2025-04-04) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-04-04&g=2025-04-04) kan de belanghebbende naar keuze schriftelijk of mondeling zijn zienswijze naar voren brengen.
+Bij toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-07-01&g=2025-07-01) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-07-01&g=2025-07-01) kan de belanghebbende naar keuze schriftelijk of mondeling zijn zienswijze naar voren brengen.
 
 ##### Artikel 4:10
 
@@ -719,7 +719,7 @@ Vervallen
 
 ##### Artikel 4:11
 
-Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-04-04&g=2025-04-04) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-04-04&g=2025-04-04) achterwege laten voor zover:
+Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-07-01&g=2025-07-01) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-07-01&g=2025-07-01) achterwege laten voor zover:
 
 - a. de vereiste spoed zich daartegen verzet;
 
@@ -729,7 +729,7 @@ Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid
 
 ##### Artikel 4:12
 
-1. Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-04-04&g=2025-04-04) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-04-04&g=2025-04-04) voorts achterwege laten bij een beschikking die strekt tot het vaststellen van een financiële verplichting of aanspraak indien:
+1. Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-07-01&g=2025-07-01) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-07-01&g=2025-07-01) voorts achterwege laten bij een beschikking die strekt tot het vaststellen van een financiële verplichting of aanspraak indien:
 
 - a. tegen die beschikking bezwaar kan worden gemaakt of administratief beroep kan worden ingesteld, en
 
@@ -737,9 +737,9 @@ Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid
 
 2. Het eerste lid geldt niet bij een beschikking die strekt tot:
 
-- a. het op grond van [artikel 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:35&z=2025-04-04&g=2025-04-04) of met toepassing van [artikel 4:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:51&z=2025-04-04&g=2025-04-04) weigeren van een subsidie;
+- a. het op grond van [artikel 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:35&z=2025-07-01&g=2025-07-01) of met toepassing van [artikel 4:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:51&z=2025-07-01&g=2025-07-01) weigeren van een subsidie;
 
-- b. het op grond van [artikel 4:46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:46&z=2025-04-04&g=2025-04-04), lager vaststellen van een subsidie, of
+- b. het op grond van [artikel 4:46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:46&z=2025-07-01&g=2025-07-01), lager vaststellen van een subsidie, of
 
 - c. het intrekken of ten nadele van de ontvanger wijzigen van een subsidieverlening of een subsidievaststelling.
 
@@ -749,7 +749,7 @@ Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid
 
 1. Een beschikking dient te worden gegeven binnen de bij wettelijk voorschrift bepaalde termijn of, bij het ontbreken van zulk een termijn, binnen een redelijke termijn na ontvangst van de aanvraag.
 
-2. De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een mededeling als bedoeld in [artikel 4:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-04-04&g=2025-04-04), heeft gedaan.
+2. De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een mededeling als bedoeld in [artikel 4:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-07-01&g=2025-07-01), heeft gedaan.
 
 ##### Artikel 4:14
 
@@ -763,7 +763,7 @@ Het bestuursorgaan kan toepassing van de [artikelen 4:7](https://wetten.overheid
 
 1. De termijn voor het geven van een beschikking wordt opgeschort met ingang van de dag na die waarop het bestuursorgaan:
 
-- a. de aanvrager krachtens [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:5&z=2025-04-04&g=2025-04-04) uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, of
+- a. de aanvrager krachtens [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:5&z=2025-07-01&g=2025-07-01) uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, of
 
 - b. de aanvrager mededeelt dat voor de beschikking op de aanvraag redelijkerwijs noodzakelijke informatie aan een buitenlandse instantie is gevraagd, tot de dag waarop deze informatie is ontvangen of verder uitstel niet meer redelijk is.
 
@@ -793,7 +793,7 @@ Vervallen
 
 3. De eerste dag waarover de dwangsom verschuldigd is, is de dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager een schriftelijke ingebrekestelling heeft ontvangen.
 
-4. Indien de aanvraag elektronisch kon worden gedaan, is [artikel 4:3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:3a&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing op de ingebrekestelling.
+4. Indien de aanvraag elektronisch kon worden gedaan, is [artikel 4:3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:3a&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing op de ingebrekestelling.
 
 5. Beroep tegen het niet tijdig geven van de beschikking schort de dwangsom niet op.
 
@@ -813,7 +813,7 @@ Het bestuursorgaan stelt de verschuldigdheid en de hoogte van de dwangsom bij be
 
 ##### Artikel 4:19
 
-1. Het bezwaar, beroep of hoger beroep tegen de beschikking op de aanvraag heeft mede betrekking op een beschikking tot vaststelling van de hoogte van de dwangsom, voorzover de belanghebbende deze beschikking betwist.
+1. Het bezwaar, beroep of hoger beroep tegen de beschikking op de aanvraag heeft mede betrekking op een beschikking tot vaststelling van de hoogte van de dwangsom, voor zover de belanghebbende deze beschikking betwist.
 
 2. De bestuursrechter kan de beslissing op het beroep of hoger beroep inzake de beschikking tot vaststelling van de hoogte van de dwangsom echter verwijzen naar een ander orgaan, indien behandeling door dit orgaan gewenst is.
 
@@ -823,7 +823,7 @@ Het bestuursorgaan stelt de verschuldigdheid en de hoogte van de dwangsom bij be
 
 ##### Artikel 4:20
 
-Het bestuursorgaan kan onverschuldigd betaalde dwangsommen terugvorderen voor zover na de dag waarop de beschikking, bedoeld in [artikel 4:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:18&z=2025-04-04&g=2025-04-04) is vastgesteld, nog geen vijf jaren zijn verstreken.
+Het bestuursorgaan kan onverschuldigd betaalde dwangsommen terugvorderen voor zover na de dag waarop de beschikking, bedoeld in [artikel 4:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:18&z=2025-07-01&g=2025-07-01) is vastgesteld, nog geen vijf jaren zijn verstreken.
 
 ## Titel 4.2. Subsidies
 
@@ -895,7 +895,7 @@ Indien een subsidie op een wettelijk voorschrift berust, wordt ten minste eenmaa
 
 ##### Artikel 4:28
 
-[Artikel 4:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.2&artikel=4:27&z=2025-04-04&g=2025-04-04), is niet van toepassing, indien:
+[Artikel 4:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.2&artikel=4:27&z=2025-07-01&g=2025-07-01), is niet van toepassing, indien:
 
 - a. de aanvragen voor het tijdvak waarvoor het subsidieplafond is vastgesteld ingevolge wettelijk voorschrift moeten worden ingediend op een tijdstip waarop de begroting nog niet is vastgesteld of goedgekeurd;
 
@@ -941,9 +941,9 @@ Een subsidie kan niet worden verleend onder de voorwaarde dat uitsluitend het be
 
 3. De voorwaarde vervalt, indien het bestuursorgaan daarop niet binnen vier weken na de vaststelling of goedkeuring van de begroting een beroep heeft gedaan.
 
-4. Het beroep op de voorwaarde geschiedt bij een subsidie voor een activiteit die door het bestuursorgaan ook in het voorafgaande begrotingsjaar werd gesubsidieerd door een intrekking wegens veranderde omstandigheden overeenkomstig [artikel 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:50&z=2025-04-04&g=2025-04-04).
+4. Het beroep op de voorwaarde geschiedt bij een subsidie voor een activiteit die door het bestuursorgaan ook in het voorafgaande begrotingsjaar werd gesubsidieerd door een intrekking wegens veranderde omstandigheden overeenkomstig [artikel 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:50&z=2025-07-01&g=2025-07-01).
 
-5. In andere gevallen geschiedt het beroep op de voorwaarde door een intrekking overeenkomstig [artikel 4:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:48&z=2025-04-04&g=2025-04-04).
+5. In andere gevallen geschiedt het beroep op de voorwaarde door een intrekking overeenkomstig [artikel 4:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:48&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 4:35
 
@@ -991,7 +991,7 @@ Een subsidie kan niet worden verleend onder de voorwaarde dat uitsluitend het be
 
 - h. het uitoefenen van controle door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) op het door het bestuursorgaan gevoerde financiële beheer en de financiële verantwoording daarover.
 
-2. Indien een verplichting als bedoeld in het eerste lid, onderdeel **c**, wordt opgelegd, zijn de [artikelen 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:3&z=2025-04-04&g=2025-04-04) en [4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:4&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+2. Indien een verplichting als bedoeld in het eerste lid, onderdeel **c**, wordt opgelegd, zijn de [artikelen 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:3&z=2025-07-01&g=2025-07-01) en [4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.1&artikel=4:4&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 4:38
 
@@ -1037,23 +1037,23 @@ De verplichtingen kunnen na de subsidieverlening worden uitgewerkt, voor zover d
 
 ##### Artikel 4:42
 
-De beschikking tot subsidievaststelling stelt het bedrag van de subsidie vast en geeft aanspraak op betaling van het vastgestelde bedrag overeenkomstig [afdeling 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.7&z=2025-04-04&g=2025-04-04).
+De beschikking tot subsidievaststelling stelt het bedrag van de subsidie vast en geeft aanspraak op betaling van het vastgestelde bedrag overeenkomstig [afdeling 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.7&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 4:43
 
 1. Indien geen beschikking tot subsidieverlening is gegeven, bevat de beschikking tot subsidievaststelling een aanduiding van de activiteiten waarvoor subsidie wordt verstrekt.
 
-2. De [artikelen 4:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:32&z=2025-04-04&g=2025-04-04), [4:35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:35&z=2025-04-04&g=2025-04-04), [4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:38&z=2025-04-04&g=2025-04-04) en [4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:39&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing.
+2. De [artikelen 4:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:32&z=2025-07-01&g=2025-07-01), [4:35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:35&z=2025-07-01&g=2025-07-01), [4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:38&z=2025-07-01&g=2025-07-01) en [4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:39&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4:44
 
 1. Indien een beschikking tot subsidieverlening is gegeven, dient de subsidie-ontvanger na afloop van de activiteiten of het tijdvak waarvoor de subsidie is verleend een aanvraag tot vaststelling van de subsidie in, tenzij:
 
-- a. de subsidie met toepassing van [artikel 4:47, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:47&z=2025-04-04&g=2025-04-04), ambtshalve wordt vastgesteld;
+- a. de subsidie met toepassing van [artikel 4:47, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:47&z=2025-07-01&g=2025-07-01), ambtshalve wordt vastgesteld;
 
 - b. bij wettelijk voorschrift of bij de subsidieverlening is bepaald dat de aanvraag wordt ingediend telkens na afloop van een gedeelte van het tijdvak waarvoor de subsidie is verleend, of
 
-- c. de vaststelling van de subsidie bij een overeenkomst als bedoeld in [artikel 4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:36&z=2025-04-04&g=2025-04-04), anders is geregeld.
+- c. de vaststelling van de subsidie bij een overeenkomst als bedoeld in [artikel 4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:36&z=2025-07-01&g=2025-07-01), anders is geregeld.
 
 2. Indien bij wettelijk voorschrift geen termijn is bepaald, wordt de aanvraag tot vaststelling ingediend binnen een bij de subsidieverlening te bepalen termijn.
 
@@ -1089,7 +1089,7 @@ Het bestuursorgaan kan de subsidie geheel of gedeeltelijk ambtshalve vaststellen
 
 - a. bij wettelijk voorschrift of bij de subsidieverlening een termijn is bepaald binnen welke de subsidie ambtshalve wordt vastgesteld;
 
-- b. toepassing wordt gegeven aan [artikel 4:44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:44&z=2025-04-04&g=2025-04-04), of
+- b. toepassing wordt gegeven aan [artikel 4:44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:44&z=2025-07-01&g=2025-07-01), of
 
 - c. de beschikking tot subsidieverlening of de beschikking tot subsidievaststelling wordt ingetrokken of ten nadele van de ontvanger wordt gewijzigd.
 
@@ -1107,7 +1107,7 @@ Het bestuursorgaan kan de subsidie geheel of gedeeltelijk ambtshalve vaststellen
 
 - d. de subsidieverlening anderszins onjuist was en de subsidie-ontvanger dit wist of behoorde te weten, of
 
-- e. met toepassing van [artikel 4:34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:34&z=2025-04-04&g=2025-04-04), een beroep wordt gedaan op de voorwaarde dat voldoende gelden ter beschikking worden gesteld.
+- e. met toepassing van [artikel 4:34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.3&artikel=4:34&z=2025-07-01&g=2025-07-01), een beroep wordt gedaan op de voorwaarde dat voldoende gelden ter beschikking worden gesteld.
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
@@ -1141,7 +1141,7 @@ Het bestuursorgaan kan de subsidie geheel of gedeeltelijk ambtshalve vaststellen
 
 1. Indien aan een subsidie-ontvanger voor drie of meer achtereenvolgende jaren subsidie is verstrekt voor dezelfde of in hoofdzaak dezelfde voortdurende activiteiten, geschiedt gehele of gedeeltelijke weigering van de subsidie voor een daarop aansluitend tijdvak op de grond, dat veranderde omstandigheden of gewijzigde inzichten zich tegen voortzetting of ongewijzigde voortzetting van de subsidie verzetten, slechts met inachtneming van een redelijke termijn.
 
-2. Voor zover aan het einde van het tijdvak waarvoor subsidie is verleend sedert de bekendmaking van het voornemen tot weigering voor een daarop aansluitend tijdvak nog geen redelijke termijn is verstreken, wordt de subsidie voor het resterende deel van die termijn verleend, zo nodig in afwijking van [artikel 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.2&artikel=4:25&z=2025-04-04&g=2025-04-04).
+2. Voor zover aan het einde van het tijdvak waarvoor subsidie is verleend sedert de bekendmaking van het voornemen tot weigering voor een daarop aansluitend tijdvak nog geen redelijke termijn is verstreken, wordt de subsidie voor het resterende deel van die termijn verleend, zo nodig in afwijking van [artikel 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.2&artikel=4:25&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 4.2.6. Intrekking en wijziging
 
@@ -1149,7 +1149,7 @@ Het bestuursorgaan kan de subsidie geheel of gedeeltelijk ambtshalve vaststellen
 
 1. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling betaald.
 
-2. Indien de subsidie niet op een wettelijk voorschrift berust, kan bij de subsidieverlening, of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling een van [artikel 4:87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:87&z=2025-04-04&g=2025-04-04), afwijkende termijn voor de betaling van het subsidiebedrag worden vastgesteld.
+2. Indien de subsidie niet op een wettelijk voorschrift berust, kan bij de subsidieverlening, of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling een van [artikel 4:87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:87&z=2025-07-01&g=2025-07-01), afwijkende termijn voor de betaling van het subsidiebedrag worden vastgesteld.
 
 ##### Artikel 4:53
 
@@ -1167,7 +1167,7 @@ Vervallen
 
 ##### Artikel 4:56
 
-De verplichting tot betaling van een subsidiebedrag of een voorschot wordt opgeschort met ingang van de dag waarop het bestuursorgaan aan de subsidie-ontvanger schriftelijk kennis geeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:48&z=2025-04-04&g=2025-04-04) of [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:49&z=2025-04-04&g=2025-04-04), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
+De verplichting tot betaling van een subsidiebedrag of een voorschot wordt opgeschort met ingang van de dag waarop het bestuursorgaan aan de subsidie-ontvanger schriftelijk kennis geeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:48&z=2025-07-01&g=2025-07-01) of [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:49&z=2025-07-01&g=2025-07-01), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
 
 ##### Artikel 4:57
 
@@ -1177,7 +1177,7 @@ De verplichting tot betaling van een subsidiebedrag of een voorschot wordt opges
 
 3. Het bestuursorgaan kan het terug te vorderen bedrag verrekenen met een aan dezelfde subsidie-ontvanger voor dezelfde activiteiten verstrekte subsidie voor een ander tijdvak.
 
-4. Terugvordering van een subsidiebedrag of een voorschot vindt niet plaats voor zover na de dag waarop de subsidie is vastgesteld, dan wel de handeling, bedoeld in [artikel 4:49, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:49&z=2025-04-04&g=2025-04-04), heeft plaatsgevonden, vijf jaren zijn verstreken.
+4. Terugvordering van een subsidiebedrag of een voorschot vindt niet plaats voor zover na de dag waarop de subsidie is vastgesteld, dan wel de handeling, bedoeld in [artikel 4:49, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.6&artikel=4:49&z=2025-07-01&g=2025-07-01), heeft plaatsgevonden, vijf jaren zijn verstreken.
 
 ### Afdeling 4.2.8. Per boekjaar verstrekte subsidies aan rechtspersonen
 
@@ -1193,7 +1193,7 @@ De verplichting tot betaling van een subsidiebedrag of een voorschot wordt opges
 
 1. Het bestuursorgaan dat met toepassing van deze afdeling een subsidie verleent kan een of meer toezichthouders aanwijzen die zijn belast met het toezicht op de naleving van de aan de ontvanger van die subsidie opgelegde verplichtingen.
 
-2. De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.2&artikel=5:18&z=2025-04-04&g=2025-04-04) en [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.2&artikel=5:19&z=2025-04-04&g=2025-04-04).
+2. De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.2&artikel=5:18&z=2025-07-01&g=2025-07-01) en [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.2&artikel=5:19&z=2025-07-01&g=2025-07-01).
 
 #### Paragraaf 4.2.8.1. Inleidende bepalingen
 
@@ -1209,7 +1209,7 @@ Tenzij bij wettelijk voorschrift anders is bepaald, wordt de aanvraag van de sub
 
 - b. een begroting, tenzij deze voor de berekening van het bedrag van de subsidie niet van belang is.
 
-2. Indien de aanvrager beschikt over een egalisatiereserve als bedoeld in [artikel 4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.4&artikel=4:72&z=2025-04-04&g=2025-04-04), vermeldt de aanvraag de omvang daarvan.
+2. Indien de aanvrager beschikt over een egalisatiereserve als bedoeld in [artikel 4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.4&artikel=4:72&z=2025-07-01&g=2025-07-01), vermeldt de aanvraag de omvang daarvan.
 
 ##### Artikel 4:62
 
@@ -1297,7 +1297,7 @@ Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te o
 
 3. De beslissing kan eenmaal voor ten hoogste vier weken worden verdaagd.
 
-4. [Paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-04-04&g=2025-04-04) is van toepassing.
+4. [Paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-07-01&g=2025-07-01) is van toepassing.
 
 ##### Artikel 4:72
 
@@ -1309,7 +1309,7 @@ Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te o
 
 4. De van de egalisatiereserve genoten rente wordt aan de egalisatiereserve toegevoegd.
 
-5. In de gevallen bedoeld in [artikel 4:41, tweede lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:41&z=2025-04-04&g=2025-04-04), is de subsidie-ontvanger ter zake van de egalisatiereserve vergoedingsplichtig naar evenredigheid van de mate waarin de subsidie aan de egalisatiereserve heeft bijgedragen.
+5. In de gevallen bedoeld in [artikel 4:41, tweede lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.4&artikel=4:41&z=2025-07-01&g=2025-07-01), is de subsidie-ontvanger ter zake van de egalisatiereserve vergoedingsplichtig naar evenredigheid van de mate waarin de subsidie aan de egalisatiereserve heeft bijgedragen.
 
 #### Paragraaf 4.2.8.5. De subsidievaststelling
 
@@ -1319,13 +1319,13 @@ De subsidie wordt per boekjaar vastgesteld.
 
 ##### Artikel 4:74
 
-De subsidie-ontvanger dient binnen zes maanden na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in, tenzij bij wettelijk voorschrift anders is bepaald of de subsidie met toepassing van [artikel 4:67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.3&artikel=4:67&z=2025-04-04&g=2025-04-04), voor twee of meer boekjaren is verleend.
+De subsidie-ontvanger dient binnen zes maanden na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in, tenzij bij wettelijk voorschrift anders is bepaald of de subsidie met toepassing van [artikel 4:67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.3&artikel=4:67&z=2025-07-01&g=2025-07-01), voor twee of meer boekjaren is verleend.
 
 ##### Artikel 4:75
 
 1. De aanvraag tot vaststelling gaat in ieder geval vergezeld van een financieel verslag en een activiteitenverslag.
 
-2. Indien de subsidie-ontvanger ingevolge wettelijk voorschrift verplicht is tot het opstellen van een jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), of indien dit bij de subsidieverlening is bepaald, legt hij in plaats van het financieel verslag de jaarrekening over, onverminderd [artikel 4:45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:45&z=2025-04-04&g=2025-04-04).
+2. Indien de subsidie-ontvanger ingevolge wettelijk voorschrift verplicht is tot het opstellen van een jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), of indien dit bij de subsidieverlening is bepaald, legt hij in plaats van het financieel verslag de jaarrekening over, onverminderd [artikel 4:45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.5&artikel=4:45&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 4:76
 
@@ -1345,7 +1345,7 @@ De subsidie-ontvanger dient binnen zes maanden na afloop van het boekjaar een aa
 
 ##### Artikel 4:77
 
-Indien de subsidie-ontvanger zijn inkomsten in overwegende mate ontleent aan de subsidie kan bij wettelijk voorschrift of bij de subsidieverlening worden bepaald dat [artikel 4:76](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.5&artikel=4:76&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing is.
+Indien de subsidie-ontvanger zijn inkomsten in overwegende mate ontleent aan de subsidie kan bij wettelijk voorschrift of bij de subsidieverlening worden bepaald dat [artikel 4:76](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.5&artikel=4:76&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing is.
 
 ##### Artikel 4:78
 
@@ -1361,7 +1361,7 @@ Indien de subsidie-ontvanger zijn inkomsten in overwegende mate ontleent aan de 
 
 ##### Artikel 4:79
 
-1. Bij wettelijk voorschrift of bij de subsidieverlening kan worden bepaald dat de in [artikel 4:78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.5&artikel=4:78&z=2025-04-04&g=2025-04-04), bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
+1. Bij wettelijk voorschrift of bij de subsidieverlening kan worden bepaald dat de in [artikel 4:78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.2&afdeling=4.2.8&paragraaf=4.2.8.5&artikel=4:78&z=2025-07-01&g=2025-07-01), bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
 
 2. Bij toepassing van het eerste lid gaat de opdracht vergezeld van een bij of krachtens wettelijk voorschrift of bij de subsidieverlening vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle.
 
@@ -1405,7 +1405,7 @@ Onder toezichthouder wordt verstaan: een persoon, bij of krachtens wettelijk voo
 
 2. Een toezichthouder toont zijn legitimatiebewijs desgevraagd aanstonds.
 
-3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Veiligheid en Justitie.
+3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Justitie en Veiligheid.
 
 ##### Artikel 5:13
 
@@ -1463,7 +1463,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 4. Hij is bevoegd met het oog op de uitoefening van deze bevoegdheden van de bestuurder van een voertuig of van de schipper van een vaartuig te vorderen dat deze zijn vervoermiddel stilhoudt en naar een door hem aangewezen plaats overbrengt.
 
-5. Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.
+5. Bij regeling van Onze Minister van Justitie en Veiligheid wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.
 
 ##### Artikel 5:20
 
@@ -1473,7 +1473,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 3. Het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het eerste lid.
 
-4. Indien de gevorderde medewerking strekt ter handhaving van het bepaalde bij of krachtens een regeling die is genoemd in hoofdstuk 2, 3 of 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04) of in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-04-04&g=2025-04-04), wordt de last onder bestuursdwang voor de toepassing van de twee laatstgenoemde regelingen aangemerkt als een besluit, genomen op grond van de eerstbedoelde regeling.
+4. Indien de gevorderde medewerking strekt ter handhaving van het bepaalde bij of krachtens een regeling die is genoemd in hoofdstuk 2, 3 of 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01) of in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-07-01&g=2025-07-01), wordt de last onder bestuursdwang voor de toepassing van de twee laatstgenoemde regelingen aangemerkt als een besluit, genomen op grond van de eerstbedoelde regeling.
 
 ### Afdeling 4.4.2. Verzuim en wettelijke rente
 
@@ -1511,7 +1511,7 @@ Deze afdeling is niet van toepassing op optreden ter onmiddellijke handhaving va
 
 4. De kosten van voorbereiding van bestuursdwang zijn ook verschuldigd, voor zover als gevolg van het alsnog uitvoeren van de last geen bestuursdwang is toegepast.
 
-5. Tot de kosten van bestuursdwang behoren tevens de kosten van vergoeding van schade ingevolge [artikel 5:27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:27&z=2025-04-04&g=2025-04-04).
+5. Tot de kosten van bestuursdwang behoren tevens de kosten van vergoeding van schade ingevolge [artikel 5:27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:27&z=2025-07-01&g=2025-07-01).
 
 6. Het bestuursorgaan stelt de hoogte van de verschuldigde kosten vast binnen vijf jaar nadat de bestuursdwang is toegepast.
 
@@ -1531,7 +1531,7 @@ Vervallen
 
 5. De aanzegging omschrijft de wijze waarop het betreden zal plaatsvinden.
 
-6. Het bestuursorgaan vergoedt de schade die door het betreden van een plaats als bedoeld in het derde lid wordt veroorzaakt, voor zover deze redelijkerwijs niet ten laste van de rechthebbende behoort te komen, onverminderd het recht tot verhaal van deze schade op de overtreder ingevolge [artikel 5:25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-04-04&g=2025-04-04).
+6. Het bestuursorgaan vergoedt de schade die door het betreden van een plaats als bedoeld in het derde lid wordt veroorzaakt, voor zover deze redelijkerwijs niet ten laste van de rechthebbende behoort te komen, onverminderd het recht tot verhaal van deze schade op de overtreder ingevolge [artikel 5:25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 5:28
 
@@ -1545,7 +1545,7 @@ Het bestuursorgaan dat bestuursdwang toepast, is bevoegd tot het verzegelen van 
 
 3. Het bestuursorgaan draagt zorg voor de bewaring van de opgeslagen zaken en geeft deze zaken terug aan de rechthebbende.
 
-4. Het bestuursorgaan kan de teruggave opschorten totdat de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-04-04&g=2025-04-04) verschuldigde kosten zijn voldaan.
+4. Het bestuursorgaan kan de teruggave opschorten totdat de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-07-01&g=2025-07-01) verschuldigde kosten zijn voldaan.
 
 5. Indien de rechthebbende niet tevens de overtreder is, kan het bestuursorgaan de teruggave opschorten totdat de kosten van bewaring zijn voldaan.
 
@@ -1553,17 +1553,17 @@ Het bestuursorgaan dat bestuursdwang toepast, is bevoegd tot het verzegelen van 
 
 1. Indien een meegevoerde en opgeslagen zaak niet binnen dertien weken nadat zij is meegevoerd, kan worden teruggegeven, kan het bestuursorgaan de zaak verkopen.
 
-2. Het bestuursorgaan kan de zaak eerder verkopen, zodra de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-04-04&g=2025-04-04) verschuldigde kosten, vermeerderd met de voor de verkoop geraamde kosten, in verhouding tot de waarde van de zaak onevenredig hoog worden.
+2. Het bestuursorgaan kan de zaak eerder verkopen, zodra de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-07-01&g=2025-07-01) verschuldigde kosten, vermeerderd met de voor de verkoop geraamde kosten, in verhouding tot de waarde van de zaak onevenredig hoog worden.
 
 3. Verkoop vindt evenwel niet plaats binnen twee weken na de verstrekking van het afschrift van het proces-verbaal van meevoeren en opslaan, tenzij het gevaarlijke stoffen of eerder aan bederf onderhevige stoffen betreft.
 
-4. Gedurende drie jaren na het tijdstip van verkoop heeft degene die op dat tijdstip eigenaar was, recht op de opbrengst van de zaak onder aftrek van de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-04-04&g=2025-04-04) verschuldigde kosten en de kosten van de verkoop. Na het verstrijken van deze termijn vervalt een batig saldo aan het bestuursorgaan.
+4. Gedurende drie jaren na het tijdstip van verkoop heeft degene die op dat tijdstip eigenaar was, recht op de opbrengst van de zaak onder aftrek van de ingevolge [artikel 5:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:25&z=2025-07-01&g=2025-07-01) verschuldigde kosten en de kosten van de verkoop. Na het verstrijken van deze termijn vervalt een batig saldo aan het bestuursorgaan.
 
 5. Indien naar het oordeel van het bestuursorgaan verkoop niet mogelijk is, kan het de zaak om niet aan een derde in eigendom overdragen of laten vernietigen. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 5:31
 
-1. Een bestuursorgaan dat bevoegd is om een last onder bestuursdwang op te leggen, kan in spoedeisende gevallen besluiten dat bestuursdwang zal worden toegepast zonder voorafgaande last. [Artikel 5:24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:24&z=2025-04-04&g=2025-04-04), is op dit besluit van overeenkomstige toepassing.
+1. Een bestuursorgaan dat bevoegd is om een last onder bestuursdwang op te leggen, kan in spoedeisende gevallen besluiten dat bestuursdwang zal worden toegepast zonder voorafgaande last. [Artikel 5:24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:24&z=2025-07-01&g=2025-07-01), is op dit besluit van overeenkomstige toepassing.
 
 2. Indien de situatie zo spoedeisend is, dat een besluit niet kan worden afgewacht, kan terstond bestuursdwang worden toegepast, maar wordt zo spoedig mogelijk nadien alsnog een besluit als bedoeld in het eerste lid bekendgemaakt.
 
@@ -1575,7 +1575,7 @@ Het bestuursorgaan dat bestuursdwang toepast, is bevoegd tot het verzegelen van 
 
 2. Voor een last onder dwangsom wordt niet gekozen, indien het belang dat het betrokken voorschrift beoogt te beschermen, zich daartegen verzet.
 
-3. Indien de last onder dwangsom strekt ter handhaving van het bepaalde bij of krachtens een regeling die is genoemd in hoofdstuk 2, 3 of 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04) of in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-04-04&g=2025-04-04), wordt de last onder dwangsom voor de toepassing van de twee laatstgenoemde regelingen aangemerkt als een besluit, genomen op grond van de eerstbedoelde regeling.
+3. Indien de last onder dwangsom strekt ter handhaving van het bepaalde bij of krachtens een regeling die is genoemd in hoofdstuk 2, 3 of 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01) of in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-07-01&g=2025-07-01), wordt de last onder dwangsom voor de toepassing van de twee laatstgenoemde regelingen aangemerkt als een besluit, genomen op grond van de eerstbedoelde regeling.
 
 ##### Artikel 5:33
 
@@ -1589,7 +1589,7 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 
 ##### Artikel 5:35
 
-1. In afwijking van [artikel 4:104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:104&z=2025-04-04&g=2025-04-04), verjaart de rechtsvordering tot betaling van een verbeurde dwangsom door verloop van een jaar na de dag waarop zij is verbeurd.
+1. In afwijking van [artikel 4:104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:104&z=2025-07-01&g=2025-07-01), verjaart de rechtsvordering tot betaling van een verbeurde dwangsom door verloop van een jaar na de dag waarop zij is verbeurd.
 
 2. Indien op de dag waarop de rechtsvordering verjaart, bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de last onder dwangsom, wordt de verjaringstermijn verlengd tot onherroepelijk op het bezwaar, beroep of hoger beroep is beslist.
 
@@ -1603,7 +1603,7 @@ Vervallen
 
 ##### Artikel 6:1
 
-De [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&z=2025-04-04&g=2025-04-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing indien is voorzien in de mogelijkheid van bezwaar of beroep tegen andere handelingen van bestuursorganen dan besluiten.
+De [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing indien is voorzien in de mogelijkheid van bezwaar of beroep tegen andere handelingen van bestuursorganen dan besluiten.
 
 ##### Artikel 6:2
 
@@ -1647,9 +1647,9 @@ Een beslissing inzake de procedure ter voorbereiding van een besluit is niet vat
 
 Het bezwaar of beroep kan niet-ontvankelijk worden verklaard, indien:
 
-- a. niet is voldaan aan [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04) of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het bezwaar of beroep, of
+- a. niet is voldaan aan [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01) of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het bezwaar of beroep, of
 
-- b. het bezwaar- of beroepschrift geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-04-04&g=2025-04-04),
+- b. het bezwaar- of beroepschrift geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-07-01&g=2025-07-01),
 
 mits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
 
@@ -1665,7 +1665,7 @@ De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weke
 
 3. De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.
 
-4. De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04) vangt aan met ingang van de dag na die waarop het besluit overeenkomstig [artikel 3:44, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:44&z=2025-04-04&g=2025-04-04), ter inzage is gelegd.
+4. De termijn voor het indienen van een beroepschrift tegen een besluit dat tot een of meer belanghebbenden is gericht en dat is voorbereid met toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) vangt aan met ingang van de dag na die waarop het besluit overeenkomstig [artikel 3:44, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:44&z=2025-07-01&g=2025-07-01), ter inzage is gelegd.
 
 ##### Artikel 6:9
 
@@ -1703,7 +1703,7 @@ Ten aanzien van een na afloop van de termijn ingediend bezwaar- of beroepschrift
 
 ##### Artikel 6:13
 
-Geen beroep bij de bestuursrechter kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in [artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:15&z=2025-04-04&g=2025-04-04) naar voren heeft gebracht, geen bezwaar heeft gemaakt of geen administratief beroep heeft ingesteld.
+Geen beroep bij de bestuursrechter kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in [artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&artikel=3:15&z=2025-07-01&g=2025-07-01) naar voren heeft gebracht, geen bezwaar heeft gemaakt of geen administratief beroep heeft ingesteld.
 
 ##### Artikel 6:14
 
@@ -1739,7 +1739,7 @@ Vervallen
 
 3. Het bestuursorgaan stelt het nieuwe besluit onverwijld ter beschikking aan het orgaan waarbij het beroep aanhangig is.
 
-4. Indien een ander orgaan een bezwaar- of beroepschrift tegen het nieuwe besluit ontvangt, zendt het dit met toepassing van [artikel 6:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), door.
+4. Indien een ander orgaan een bezwaar- of beroepschrift tegen het nieuwe besluit ontvangt, zendt het dit met toepassing van [artikel 6:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), door.
 
 5. De bestuursrechter kan het beroep tegen het nieuwe besluit echter verwijzen naar een ander orgaan, indien behandeling door dit orgaan gewenst is.
 
@@ -1775,7 +1775,7 @@ Een besluit waartegen bezwaar is gemaakt of beroep is ingesteld, kan, ondanks sc
 
 ##### Artikel 6:24
 
-Deze afdeling is met uitzondering van [artikel 6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:12&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing indien hoger beroep, incidenteel hoger beroep, beroep in cassatie of incidenteel beroep in cassatie kan worden ingesteld.
+Deze afdeling is met uitzondering van [artikel 6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:12&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing indien hoger beroep, incidenteel hoger beroep, beroep in cassatie of incidenteel beroep in cassatie kan worden ingesteld.
 
 ### Hoofdstuk 7. Bijzondere bepalingen over bezwaar en administratief beroep
 
@@ -1791,9 +1791,9 @@ Deze afdeling is met uitzondering van [artikel 6:12](https://wetten.overheid.nl/
 
 - c. het besluit een goedkeuring of een weigering daarvan inhoudt,
 
-- d. het besluit is voorbereid met toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04),
+- d. het besluit is voorbereid met toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01),
 
-- e. het besluit is genomen op basis van een uitspraak waarin de bestuursrechter met toepassing van [artikel 8:72, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04), heeft bepaald dat [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04) geheel of gedeeltelijk buiten toepassing blijft,
+- e. het besluit is genomen op basis van een uitspraak waarin de bestuursrechter met toepassing van [artikel 8:72, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01), heeft bepaald dat [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01) geheel of gedeeltelijk buiten toepassing blijft,
 
 - f. het beroep zich richt tegen het niet tijdig nemen van een besluit,
 
@@ -1803,17 +1803,17 @@ Deze afdeling is met uitzondering van [artikel 6:12](https://wetten.overheid.nl/
 
 ##### Artikel 7:1a
 
-1. In het bezwaarschrift kan de indiener het bestuursorgaan verzoeken in te stemmen met rechtstreeks beroep bij de bestuursrechter, zulks in afwijking van [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2025-04-04&g=2025-04-04).
+1. In het bezwaarschrift kan de indiener het bestuursorgaan verzoeken in te stemmen met rechtstreeks beroep bij de bestuursrechter, zulks in afwijking van [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2025-07-01&g=2025-07-01).
 
 2. Het bestuursorgaan wijst het verzoek in ieder geval af, indien tegen het besluit een ander bezwaarschrift is ingediend waarin eenzelfde verzoek ontbreekt, tenzij dat andere bezwaarschrift kennelijk niet-ontvankelijk is.
 
 3. Het bestuursorgaan kan instemmen met het verzoek indien de zaak daarvoor geschikt is.
 
-4. Het bestuursorgaan beslist zo spoedig mogelijk op het verzoek. Een beslissing tot instemming wordt genomen zodra redelijkerwijs kan worden aangenomen dat geen nieuwe bezwaarschriften zullen worden ingediend. De [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-04-04&g=2025-04-04) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-04-04&g=2025-04-04) zijn niet van toepassing.
+4. Het bestuursorgaan beslist zo spoedig mogelijk op het verzoek. Een beslissing tot instemming wordt genomen zodra redelijkerwijs kan worden aangenomen dat geen nieuwe bezwaarschriften zullen worden ingediend. De [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:7&z=2025-07-01&g=2025-07-01) en [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-07-01&g=2025-07-01) zijn niet van toepassing.
 
 5. Indien het bestuursorgaan instemt met het verzoek zendt het het bezwaarschrift, onder vermelding van de datum van ontvangst, onverwijld door aan de bevoegde rechter.
 
-6. Een na de instemming ontvangen bezwaarschrift wordt eveneens onverwijld doorgezonden aan de bevoegde rechter. Indien dit bezwaarschrift geen verzoek als bedoeld in het eerste lid bevat, wordt, in afwijking van [artikel 8:41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), geen griffierecht geheven.
+6. Een na de instemming ontvangen bezwaarschrift wordt eveneens onverwijld doorgezonden aan de bevoegde rechter. Indien dit bezwaarschrift geen verzoek als bedoeld in het eerste lid bevat, wordt, in afwijking van [artikel 8:41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), geen griffierecht geheven.
 
 ### Afdeling 7.2. Bijzondere bepalingen over bezwaar
 
@@ -1873,7 +1873,7 @@ Van het horen van een belanghebbende kan worden afgezien indien:
 
 3. Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.
 
-4. Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. [Artikel 7:4, zesde lid, tweede volzin, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+4. Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. [Artikel 7:4, zesde lid, tweede volzin, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7:7
 
@@ -1889,9 +1889,9 @@ Wanneer na het horen aan het bestuursorgaan feiten of omstandigheden bekend word
 
 ##### Artikel 7:10
 
-1. Het bestuursorgaan beslist binnen zes weken of – indien een commissie als bedoeld in [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:13&z=2025-04-04&g=2025-04-04) is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
+1. Het bestuursorgaan beslist binnen zes weken of – indien een commissie als bedoeld in [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:13&z=2025-07-01&g=2025-07-01) is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
-2. De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-04-04&g=2025-04-04) te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.
+2. De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-07-01&g=2025-07-01) te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.
 
 3. Het bestuursorgaan kan de beslissing voor ten hoogste zes weken verdagen.
 
@@ -1913,13 +1913,13 @@ Wanneer na het horen aan het bestuursorgaan feiten of omstandigheden bekend word
 
 ##### Artikel 7:12
 
-1. De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2025-04-04&g=2025-04-04) van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.
+1. De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2025-07-01&g=2025-07-01) van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.
 
 2. De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden is gericht, dan wordt de beslissing tevens bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is, tenzij het bestreden besluit in stand wordt gelaten.
 
 3. Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan de belanghebbenden die in bezwaar of bij de voorbereiding van het bestreden besluit hun zienswijze naar voren hebben gebracht.
 
-4. Bij de mededeling, bedoeld in het derde lid, is [artikel 6:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:23&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.
+4. Bij de mededeling, bedoeld in het derde lid, is [artikel 6:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:23&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.
 
 ##### Artikel 7:13
 
@@ -1935,7 +1935,7 @@ Wanneer na het horen aan het bestuursorgaan feiten of omstandigheden bekend word
 
 3. Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid dat geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan.
 
-4. De commissie beslist over de toepassing van [artikel 7:4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2025-04-04&g=2025-04-04), van [artikel 7:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:5&z=2025-04-04&g=2025-04-04), en, voor zover bij wettelijk voorschrift niet anders is bepaald, van [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2025-04-04&g=2025-04-04).
+4. De commissie beslist over de toepassing van [artikel 7:4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2025-07-01&g=2025-07-01), van [artikel 7:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:5&z=2025-07-01&g=2025-07-01), en, voor zover bij wettelijk voorschrift niet anders is bepaald, van [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2025-07-01&g=2025-07-01).
 
 5. Een vertegenwoordiger van het bestuursorgaan wordt voor het horen uitgenodigd en wordt in de gelegenheid gesteld een toelichting op het standpunt van het bestuursorgaan te geven.
 
@@ -1945,13 +1945,13 @@ Wanneer na het horen aan het bestuursorgaan feiten of omstandigheden bekend word
 
 ##### Artikel 7:14
 
-[Artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:6&z=2025-04-04&g=2025-04-04), [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), de [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-04-04&g=2025-04-04), [afdeling 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-04-04&g=2025-04-04), met uitzondering van [artikel 3:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&artikel=3:49&z=2025-04-04&g=2025-04-04) en [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&z=2025-04-04&g=2025-04-04), met uitzondering van de [artikelen 4:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-04-04&g=2025-04-04), en [4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:15&z=2025-04-04&g=2025-04-04) en [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-04-04&g=2025-04-04), zijn niet van toepassing op besluiten op grond van deze afdeling.
+[Artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:6&z=2025-07-01&g=2025-07-01), [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), de [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-07-01&g=2025-07-01), [afdeling 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-07-01&g=2025-07-01), met uitzondering van [artikel 3:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&artikel=3:49&z=2025-07-01&g=2025-07-01) en [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&z=2025-07-01&g=2025-07-01), met uitzondering van de [artikelen 4:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-07-01&g=2025-07-01), en [4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:15&z=2025-07-01&g=2025-07-01) en [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-07-01&g=2025-07-01), zijn niet van toepassing op besluiten op grond van deze afdeling.
 
 ##### Artikel 7:15
 
 1. Voor de behandeling van het bezwaar is geen recht verschuldigd.
 
-2. De kosten, die de belanghebbende in verband met de behandeling van het bezwaar redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voorzover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid.
+2. De kosten, die de belanghebbende in verband met de behandeling van het bezwaar redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid.
 
 3. Het verzoek wordt gedaan voordat het bestuursorgaan op het bezwaar heeft beslist. Het bestuursorgaan beslist op het verzoek bij de beslissing op het bezwaar.
 
@@ -2013,7 +2013,7 @@ Van het horen van een belanghebbende kan worden afgezien indien:
 
 3. Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.
 
-4. Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. [Artikel 7:18, zesde lid, tweede volzin, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:18&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+4. Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. [Artikel 7:18, zesde lid, tweede volzin, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:18&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7:21
 
@@ -2031,9 +2031,9 @@ Wanneer na het horen aan het beroepsorgaan feiten of omstandigheden bekend worde
 
 1. Het beroepsorgaan beslist binnen zestien weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.
 
-2. Indien het beroepsorgaan evenwel behoort tot dezelfde rechtspersoon als het bestuursorgaan tegen welks besluit het beroep is gericht, beslist het binnen zes weken of – indien een commissie als bedoeld in [artikel 7:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:19&z=2025-04-04&g=2025-04-04), is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.
+2. Indien het beroepsorgaan evenwel behoort tot dezelfde rechtspersoon als het bestuursorgaan tegen welks besluit het beroep is gericht, beslist het binnen zes weken of – indien een commissie als bedoeld in [artikel 7:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:19&z=2025-07-01&g=2025-07-01), is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken.
 
-3. De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-04-04&g=2025-04-04) te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.
+3. De termijn wordt opgeschort gerekend vanaf de dag na die waarop de indiener is verzocht een verzuim als bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-07-01&g=2025-07-01) te herstellen, tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken.
 
 4. Het beroepsorgaan kan de beslissing voor ten hoogste tien weken verdagen.
 
@@ -2055,25 +2055,25 @@ Voor zover het beroepsorgaan het beroep ontvankelijk en gegrond acht, vernietigt
 
 ##### Artikel 7:26
 
-1. De beslissing op het beroep dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge [artikel 7:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:17&z=2025-04-04&g=2025-04-04) van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.
+1. De beslissing op het beroep dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge [artikel 7:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:17&z=2025-07-01&g=2025-07-01) van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.
 
-2. Indien de beslissing afwijkt van het advies van een commissie als bedoeld in [artikel 7:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:19&z=2025-04-04&g=2025-04-04), worden in de beslissing de redenen voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.
+2. Indien de beslissing afwijkt van het advies van een commissie als bedoeld in [artikel 7:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:19&z=2025-07-01&g=2025-07-01), worden in de beslissing de redenen voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.
 
 3. De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden was gericht, dan wordt de beslissing bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is.
 
 4. Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan het bestuursorgaan tegen welks besluit het beroep was gericht, aan degenen tot wie het bestreden besluit was gericht en aan de belanghebbenden die in beroep hun zienswijze naar voren hebben gebracht.
 
-5. Bij de mededeling, bedoeld in het vierde lid, is [artikel 6:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:23&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het derde lid heeft plaatsgevonden.
+5. Bij de mededeling, bedoeld in het vierde lid, is [artikel 6:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:23&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het derde lid heeft plaatsgevonden.
 
 ##### Artikel 7:27
 
-[Artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:6&z=2025-04-04&g=2025-04-04), [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-04-04&g=2025-04-04), de [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-04-04&g=2025-04-04), [afdeling 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-04-04&g=2025-04-04), met uitzondering van [artikel 3:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&artikel=3:49&z=2025-04-04&g=2025-04-04) en [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&z=2025-04-04&g=2025-04-04), met uitzondering van de [artikelen 4:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-04-04&g=2025-04-04), en [4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:15&z=2025-04-04&g=2025-04-04) en [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-04-04&g=2025-04-04), zijn niet van toepassing op besluiten op grond van deze afdeling.
+[Artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:6&z=2025-07-01&g=2025-07-01), [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2025-07-01&g=2025-07-01), de [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-07-01&g=2025-07-01), [afdeling 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2025-07-01&g=2025-07-01), met uitzondering van [artikel 3:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&artikel=3:49&z=2025-07-01&g=2025-07-01) en [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&z=2025-07-01&g=2025-07-01), met uitzondering van de [artikelen 4:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:14&z=2025-07-01&g=2025-07-01), en [4:15, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.1&artikel=4:15&z=2025-07-01&g=2025-07-01) en [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-07-01&g=2025-07-01), zijn niet van toepassing op besluiten op grond van deze afdeling.
 
 ##### Artikel 7:28
 
 1. Voor de behandeling van het beroep is geen recht verschuldigd.
 
-2. De kosten, die de belanghebbende in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voorzover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid. In dat geval stelt het beroepsorgaan de vergoeding vast die het bestuursorgaan verschuldigd is.
+2. De kosten, die de belanghebbende in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid. In dat geval stelt het beroepsorgaan de vergoeding vast die het bestuursorgaan verschuldigd is.
 
 3. Indien aan de belanghebbende in verband met het beroep een toevoeging is verleend op grond van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368), betaalt het bestuursorgaan de toe te kennen vergoeding aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de belanghebbende zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de Raad voor rechtsbijstand opgave van een kostenvergoeding door het bestuursorgaan.
 
@@ -2121,19 +2121,19 @@ Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter
 
 1. Geen beroep kan worden ingesteld tegen een besluit:
 
-- a. inhoudende een weigering op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-04-04&g=2025-04-04),
+- a. inhoudende een weigering op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-07-01&g=2025-07-01),
 
-- b. inhoudende een aanmaning als bedoeld in [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-04-04&g=2025-04-04) of een dwangbevel,
+- b. inhoudende een aanmaning als bedoeld in [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-07-01&g=2025-07-01) of een dwangbevel,
 
-- c. als bedoeld in [artikel 7:1a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-04-04&g=2025-04-04), [7:10, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2025-04-04&g=2025-04-04), of [7:24, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:24&z=2025-04-04&g=2025-04-04),
+- c. als bedoeld in [artikel 7:1a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-07-01&g=2025-07-01), [7:10, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2025-07-01&g=2025-07-01), of [7:24, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:24&z=2025-07-01&g=2025-07-01),
 
 - d. inhoudende schorsing of vernietiging van een besluit van een ander bestuursorgaan,
 
-- e. als bedoeld in [artikel 3:20, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:20&z=2025-04-04&g=2025-04-04), [3:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:21&z=2025-04-04&g=2025-04-04), of [3:25, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:25&z=2025-04-04&g=2025-04-04),
+- e. als bedoeld in [artikel 3:20, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:20&z=2025-07-01&g=2025-07-01), [3:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:21&z=2025-07-01&g=2025-07-01), of [3:25, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.5&artikel=3:25&z=2025-07-01&g=2025-07-01),
 
 - f. inzake vergoeding van schade wegens onrechtmatig bestuurshandelen.
 
-2. Onverminderd [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-04-04&g=2025-04-04) van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak kan geen beroep worden ingesteld tegen een besluit:
+2. Onverminderd [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-07-01&g=2025-07-01) van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak kan geen beroep worden ingesteld tegen een besluit:
 
 - a. op grond van een in enig wettelijk voorschrift voor het geval van buitengewone omstandigheden toegekende bevoegdheid of opgelegde verplichting in deze omstandigheden genomen,
 
@@ -2157,15 +2157,15 @@ Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter
 
 ##### Artikel 8:5
 
-1. Geen beroep kan worden ingesteld tegen een besluit als bedoeld in artikel 1 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04).
+1. Geen beroep kan worden ingesteld tegen een besluit als bedoeld in artikel 1 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01).
 
 2. Geen beroep kan worden ingesteld tegen een besluit waartegen administratief beroep kan worden ingesteld of door de belanghebbende kon worden ingesteld.
 
 ##### Artikel 8:6
 
-1. Het beroep kan worden ingesteld bij de rechtbank, tenzij een andere bestuursrechter bevoegd is ingevolge hoofdstuk 2 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04) dan wel ingevolge een ander wettelijk voorschrift.
+1. Het beroep kan worden ingesteld bij de rechtbank, tenzij een andere bestuursrechter bevoegd is ingevolge hoofdstuk 2 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01) dan wel ingevolge een ander wettelijk voorschrift.
 
-2. Bij elk van de bestuursrechters, genoemd in hoofdstuk 2 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak, kan beroep worden ingesteld tegen een besluit waarover die rechter in hoger beroep oordeelt, indien hij toepassing heeft gegeven aan [artikel 8:113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:113&z=2025-04-04&g=2025-04-04).
+2. Bij elk van de bestuursrechters, genoemd in hoofdstuk 2 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak, kan beroep worden ingesteld tegen een besluit waarover die rechter in hoger beroep oordeelt, indien hij toepassing heeft gegeven aan [artikel 8:113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:113&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 8:7
 
@@ -2173,7 +2173,7 @@ Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter
 
 2. Indien beroep wordt ingesteld tegen een besluit van een ander bestuursorgaan, is bevoegd de rechtbank binnen het rechtsgebied waarvan de indiener van het beroepschrift zijn woonplaats in Nederland heeft. Indien de indiener van het beroepschrift geen woonplaats in Nederland heeft, is bevoegd de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.
 
-3. Indien beroep wordt ingesteld tegen een besluit als bedoeld in hoofdstuk 3 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04), is in afwijking van het eerste en tweede lid slechts de door dat hoofdstuk aangewezen rechtbank bevoegd. Indien beroep wordt ingesteld tegen een besluit als bedoeld in [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-04-04&g=2025-04-04) dat betrekking heeft op schade die is veroorzaakt door een besluit als bedoeld in de eerste zin of door een handeling ter uitvoering van een zodanig besluit, is in afwijking van het eerste en tweede lid eveneens slechts die rechtbank bevoegd.
+3. Indien beroep wordt ingesteld tegen een besluit als bedoeld in hoofdstuk 3 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01), is in afwijking van het eerste en tweede lid slechts de door dat hoofdstuk aangewezen rechtbank bevoegd. Indien beroep wordt ingesteld tegen een besluit als bedoeld in [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-07-01&g=2025-07-01) dat betrekking heeft op schade die is veroorzaakt door een besluit als bedoeld in de eerste zin of door een handeling ter uitvoering van een zodanig besluit, is in afwijking van het eerste en tweede lid eveneens slechts die rechtbank bevoegd.
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing indien beroep in eerste aanleg kan worden ingesteld bij een gerechtshof.
 
@@ -2185,13 +2185,13 @@ Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter
 
 3. Indien tegen hetzelfde besluit bij meer dan één rechtbank beroep is ingesteld, doet het bestuursorgaan daarvan onverwijld mededeling aan die rechtbanken.
 
-4. Indien het bestuursorgaan ingevolge [artikel 7:1a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-04-04&g=2025-04-04), twee of meer bezwaarschriften doorzendt, zendt het bestuursorgaan deze door aan de rechtbank die ingevolge de tweede volzin van het eerste lid de zaak zal behandelen.
+4. Indien het bestuursorgaan ingevolge [artikel 7:1a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-07-01&g=2025-07-01), twee of meer bezwaarschriften doorzendt, zendt het bestuursorgaan deze door aan de rechtbank die ingevolge de tweede volzin van het eerste lid de zaak zal behandelen.
 
 5. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing indien beroep in eerste aanleg kan worden ingesteld bij een gerechtshof.
 
 ##### Artikel 8:9
 
-De Afdeling bestuursrechtspraak van de Raad van State, de Centrale Raad van Beroep, onderscheidenlijk het College van Beroep voor het bedrijfsleven, oordelen in hoogste ressort over geschillen tussen de rechtbanken over de toepassing van [artikel 8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-04-04&g=2025-04-04) in zaken tot de kennisneming waarvan zij in hoger beroep bevoegd zijn.
+De Afdeling bestuursrechtspraak van de Raad van State, de Centrale Raad van Beroep, onderscheidenlijk het College van Beroep voor het bedrijfsleven, oordelen in hoogste ressort over geschillen tussen de rechtbanken over de toepassing van [artikel 8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-07-01&g=2025-07-01) in zaken tot de kennisneming waarvan zij in hoger beroep bevoegd zijn.
 
 ### Afdeling 8.1.2. Behandeling door een enkelvoudige en een meervoudige kamer
 
@@ -2207,7 +2207,7 @@ De Afdeling bestuursrechtspraak van de Raad van State, de Centrale Raad van Bero
 
 ##### Artikel 8:11
 
-1. De voorschriften omtrent de behandeling van het beroep zijn van toepassing op de behandeling door elk van de kamers, bedoeld in de [artikelen 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8:10&z=2025-04-04&g=2025-04-04)en [8:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8:10a&z=2025-04-04&g=2025-04-04).
+1. De voorschriften omtrent de behandeling van het beroep zijn van toepassing op de behandeling door elk van de kamers, bedoeld in de [artikelen 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8:10&z=2025-07-01&g=2025-07-01)en [8:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8:10a&z=2025-07-01&g=2025-07-01).
 
 2. Degene die zitting heeft in een enkelvoudige kamer heeft tevens de bevoegdheden en de verplichtingen van de voorzitter.
 
@@ -2269,7 +2269,7 @@ Een rechter wiens wraking is verzocht, kan in de wraking berusten.
 
 ##### Artikel 8:19
 
-1. Op grond van feiten of omstandigheden als bedoeld in [artikel 8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.4&artikel=8:15&z=2025-04-04&g=2025-04-04) kan elk van de rechters die een zaak behandelen, verzoeken zich te mogen verschonen.
+1. Op grond van feiten of omstandigheden als bedoeld in [artikel 8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.4&artikel=8:15&z=2025-07-01&g=2025-07-01) kan elk van de rechters die een zaak behandelen, verzoeken zich te mogen verschonen.
 
 2. Het verzoek geschiedt schriftelijk en is gemotiveerd. Na de aanvang van het onderzoek ter zitting, onderscheidenlijk na de aanvang van het horen van partijen of getuigen in het vooronderzoek kan het ook mondeling geschieden.
 
@@ -2329,13 +2329,13 @@ Een rechter wiens wraking is verzocht, kan in de wraking berusten.
 
 ##### Artikel 8:27
 
-1. Partijen die door de bestuursrechter zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-04-04&g=2025-04-04).
+1. Partijen die door de bestuursrechter zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-07-01&g=2025-07-01).
 
 2. Indien het een rechtspersoon betreft of een bestuursorgaan dat een college is, kan de bestuursrechter een of meer bepaalde bestuurders onderscheidenlijk een of meer bepaalde leden oproepen.
 
 ##### Artikel 8:28
 
-Partijen aan wie door de bestuursrechter is verzocht schriftelijk inlichtingen te geven, zijn verplicht de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-04-04&g=2025-04-04).
+Partijen aan wie door de bestuursrechter is verzocht schriftelijk inlichtingen te geven, zijn verplicht de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 8:29
 
@@ -2353,11 +2353,11 @@ Partijen aan wie door de bestuursrechter is verzocht schriftelijk inlichtingen t
 
 ##### Artikel 8:30
 
-Partijen zijn verplicht mee te werken aan een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04). Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-04-04&g=2025-04-04).
+Partijen zijn verplicht mee te werken aan een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01). Partijen worden hierop gewezen, alsmede op [artikel 8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:31&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 8:31
 
-Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen te geven, stukken over te leggen of mee te werken aan een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04), kan de bestuursrechter daaruit de gevolgtrekkingen maken die hem geraden voorkomen.
+Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen te geven, stukken over te leggen of mee te werken aan een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01), kan de bestuursrechter daaruit de gevolgtrekkingen maken die hem geraden voorkomen.
 
 ##### Artikel 8:32
 
@@ -2391,7 +2391,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 
 ##### Artikel 8:36
 
-1. Aan de door de bestuursrechter opgeroepen getuigen, deskundigen en tolken en de deskundigen die een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04), hebben ingesteld, wordt ten laste van het Rijk een vergoeding toegekend. Het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde is van overeenkomstige toepassing.
+1. Aan de door de bestuursrechter opgeroepen getuigen, deskundigen en tolken en de deskundigen die een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01), hebben ingesteld, wordt ten laste van het Rijk een vergoeding toegekend. Het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde is van overeenkomstige toepassing.
 
 2. De partij die een getuige of deskundige heeft meegebracht of opgeroepen, dan wel aan wie een verslag van een deskundige is uitgebracht, is aan deze een vergoeding verschuldigd. Het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde is van overeenkomstige toepassing.
 
@@ -2399,7 +2399,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 
 ##### Artikel 8:37
 
-1. Oproepingen, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, de uitnodiging om te verklaren of van het recht ter zitting te worden gehoord gebruik wordt gemaakt, alsmede de verzending van een afschrift van de uitspraak en van het proces-verbaal van de mondelinge uitspraak aan een geadresseerde voor wie de verplichting tot digitaal procederen als bedoeld in [artikel 8:36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36a&z=2025-04-04&g=2025-04-04) niet geldt en die niet digitaal procedeert, geschieden door de griffier bij aangetekende brief, tenzij de bestuursrechter anders bepaalt.
+1. Oproepingen, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, de uitnodiging om te verklaren of van het recht ter zitting te worden gehoord gebruik wordt gemaakt, alsmede de verzending van een afschrift van de uitspraak en van het proces-verbaal van de mondelinge uitspraak aan een geadresseerde voor wie de verplichting tot digitaal procederen als bedoeld in [artikel 8:36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36a&z=2025-07-01&g=2025-07-01) niet geldt en die niet digitaal procedeert, geschieden door de griffier bij aangetekende brief, tenzij de bestuursrechter anders bepaalt.
 
 2. Voor het overige geschiedt de verzending van stukken aan geadresseerden als bedoeld in het eerste lid door de griffier bij gewone brief, tenzij de bestuursrechter anders bepaalt.
 
@@ -2413,7 +2413,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 
 ##### Artikel 8:39
 
-1. De griffier zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk aan partijen, voor zover de bestuursrechter niet op grond van de [artikelen 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-04-04&g=2025-04-04) of [8:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:32&z=2025-04-04&g=2025-04-04) anders heeft beslist of tenzij het de stukken betreft waarvan op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) om openbaarmaking of verstrekking is verzocht.
+1. De griffier zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk aan partijen, voor zover de bestuursrechter niet op grond van de [artikelen 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-07-01&g=2025-07-01) of [8:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:32&z=2025-07-01&g=2025-07-01) anders heeft beslist of tenzij het de stukken betreft waarvan op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) om openbaarmaking of verstrekking is verzocht.
 
 2. De griffier kan de toezending van zeer omvangrijke stukken of van stukken die bezwaarlijk kunnen worden vermenigvuldigd, achterwege laten. Hij stelt partijen daarvan in kennis en vermeldt daarbij dat deze stukken gedurende een door hem te bepalen termijn van ten minste een week ter griffie ter inzage worden gelegd.
 
@@ -2433,7 +2433,7 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 
 2. Het griffierecht bedraagt:
 
-- a. € 53 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit als omschreven in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-04-04&g=2025-04-04),
+- a. € 53 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit als omschreven in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-07-01&g=2025-07-01),
 
 - b. € 194 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit,
 
@@ -2445,7 +2445,7 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 
 5. Het griffierecht dient binnen vier weken na verzending van de mededeling van de griffier te zijn bijgeschreven op de rekening van het gerecht dan wel ter griffie te zijn gestort.
 
-6. Indien het bedrag niet tijdig is bijgeschreven of gestort, is het beroep niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
+6. Indien het bedrag niet tijdig is bijgeschreven of gestort, is het beroep niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. In afwijking van de eerste zin blijft niet-ontvankelijkverklaring achterwege, indien aannemelijk is dat de indiener van het beroepschrift op de datum waarop het bedrag uiterlijk moet zijn bijgeschreven of gestort, in betalingsonmacht verkeert.
 
 7. Indien het beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, vergoedt het bestuursorgaan aan de indiener het door deze betaalde griffierecht.
 
@@ -2477,13 +2477,13 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 
 1. De bestuursrechter kan partijen en anderen verzoeken binnen een door hem te bepalen termijn schriftelijk inlichtingen te geven en onder hen berustende stukken in te zenden.
 
-2. Bestuursorganen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. [Artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing.
+2. Bestuursorganen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. [Artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-3. Werkgevers van partijen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. [Artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing.
+3. Werkgevers van partijen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. [Artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
 4. Van het voornemen van de bestuursrechter tot het vragen van inlichtingen of advies aan de Europese Commissie krachtens artikel 15, eerste lid, van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1) wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent de te vragen inlichtingen of het te vragen advies binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.
 
-5. Op het verstrekken van inlichtingen of advies door de Europese Commissie is [artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+5. Op het verstrekken van inlichtingen of advies door de Europese Commissie is [artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 6. Partijen kunnen binnen vier weken na de dag van verzending aan hen van de inlichtingen of het advies van de Europese Commissie schriftelijk hun zienswijze met betrekking tot de inlichtingen of het advies naar voren brengen. De bestuursrechter kan deze termijn verlengen.
 
@@ -2511,7 +2511,7 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 
 ##### Artikel 8:48
 
-1. De arts die voor het instellen van een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04), een persoon moet onderzoeken, kan de voor het onderzoek van belang zijnde inlichtingen over deze persoon inwinnen bij de behandelend arts of de behandelende artsen, de verzekeringsarts en de adviserend arts van het bestuursorgaan.
+1. De arts die voor het instellen van een onderzoek als bedoeld in [artikel 8:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01), een persoon moet onderzoeken, kan de voor het onderzoek van belang zijnde inlichtingen over deze persoon inwinnen bij de behandelend arts of de behandelende artsen, de verzekeringsarts en de adviserend arts van het bestuursorgaan.
 
 2. Zij verstrekken de gevraagde inlichtingen voor zover daardoor de persoonlijke levenssfeer van de betrokken persoon niet onevenredig wordt geschaad.
 
@@ -2535,7 +2535,7 @@ De bestuursrechter kan tolken benoemen.
 
 1. De bestuursrechter kan aan de griffier opdragen een onderzoek ter plaatse in te stellen. Deze heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van de hem opgedragen taak nodig is. De bestuursrechter is bevoegd tot het geven van een machtiging tot binnentreden.
 
-2. [Artikel 8:50, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:50&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. [Artikel 8:50, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:50&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 3. Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.
 
@@ -2547,19 +2547,19 @@ De bestuursrechter kan tolken benoemen.
 
 2. In dat geval kan de bestuursrechter:
 
-- a. de in [artikel 8:41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), bedoelde termijn verkorten,
+- a. de in [artikel 8:41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), bedoelde termijn verkorten,
 
-- b. de in [artikel 8:42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:42&z=2025-04-04&g=2025-04-04), bedoelde termijnen verkorten,
+- b. de in [artikel 8:42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:42&z=2025-07-01&g=2025-07-01), bedoelde termijnen verkorten,
 
-- c. [artikel 8:43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:43&z=2025-04-04&g=2025-04-04), geheel of gedeeltelijk buiten toepassing laten,
+- c. [artikel 8:43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:43&z=2025-07-01&g=2025-07-01), geheel of gedeeltelijk buiten toepassing laten,
 
-- d. [artikel 8:47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04), geheel of gedeeltelijk buiten toepassing laten,
+- d. [artikel 8:47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01), geheel of gedeeltelijk buiten toepassing laten,
 
-- e. de in [artikel 8:47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-04-04&g=2025-04-04), bedoelde termijn verkorten, en
+- e. de in [artikel 8:47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:47&z=2025-07-01&g=2025-07-01), bedoelde termijn verkorten, en
 
-- f. de in [artikel 8:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:58&z=2025-04-04&g=2025-04-04), bedoelde termijn verkorten.
+- f. de in [artikel 8:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:58&z=2025-07-01&g=2025-07-01), bedoelde termijn verkorten.
 
-3. Indien de bestuursrechter bepaalt dat de zaak versneld wordt behandeld, bepaalt hij tevens zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet hij daarvan onverwijld mededeling aan partijen. [Artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04) is niet van toepassing.
+3. Indien de bestuursrechter bepaalt dat de zaak versneld wordt behandeld, bepaalt hij tevens zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet hij daarvan onverwijld mededeling aan partijen. [Artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01) is niet van toepassing.
 
 ##### Artikel 8:53
 
@@ -2579,21 +2579,21 @@ Blijkt aan de bestuursrechter bij de behandeling dat de zaak niet voldoende spoe
 
 - d. het beroep kennelijk gegrond is.
 
-2. In de uitspraak na toepassing van het eerste lid worden partijen gewezen op [artikel 8:55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-04-04&g=2025-04-04).
+2. In de uitspraak na toepassing van het eerste lid worden partijen gewezen op [artikel 8:55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 8:54a
 
 1. Totdat partijen zijn uitgenodigd om op een zitting van de bestuursrechter te verschijnen, kan de bestuursrechter het onderzoek sluiten, indien voortzetting van het onderzoek niet nodig is, omdat het bestuursorgaan kennelijk ten onrechte heeft ingestemd met rechtstreeks beroep bij de bestuursrechter.
 
-2. In dat geval strekt de uitspraak ertoe dat het bestuursorgaan het beroepschrift als bezwaarschrift behandelt. [Artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing.
+2. In dat geval strekt de uitspraak ertoe dat het bestuursorgaan het beroepschrift als bezwaarschrift behandelt. [Artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 8:55
 
-1. Tegen de uitspraak, bedoeld in [artikel 8:54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-04-04&g=2025-04-04), kunnen een belanghebbende en het bestuursorgaan verzet doen bij de bestuursrechter.
+1. Tegen de uitspraak, bedoeld in [artikel 8:54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-07-01&g=2025-07-01), kunnen een belanghebbende en het bestuursorgaan verzet doen bij de bestuursrechter.
 
-2. De [artikelen 6:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-04-04&g=2025-04-04), [6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:11&z=2025-04-04&g=2025-04-04), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-04-04&g=2025-04-04), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-04-04&g=2025-04-04) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing.
+2. De [artikelen 6:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-07-01&g=2025-07-01), [6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:11&z=2025-07-01&g=2025-07-01), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-07-01&g=2025-07-01), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-07-01&g=2025-07-01) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-3. Indien bij wet de werking van een uitspraak wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep is beslist, wordt de werking van de uitspraak, bedoeld in [artikel 8:54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-04-04&g=2025-04-04), op overeenkomstige wijze opgeschort.
+3. Indien bij wet de werking van een uitspraak wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep is beslist, wordt de werking van de uitspraak, bedoeld in [artikel 8:54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-07-01&g=2025-07-01), op overeenkomstige wijze opgeschort.
 
 4. Alvorens uitspraak te doen op het verzet, stelt de bestuursrechter de indiener van het verzetschrift die daarom heeft gevraagd, in de gelegenheid op een zitting te worden gehoord, tenzij hij van oordeel is dat het verzet gegrond is. In andere gevallen kan de bestuursrechter de indiener in de gelegenheid stellen op een zitting te worden gehoord.
 
@@ -2629,15 +2629,15 @@ Na afloop van het vooronderzoek worden partijen ten minste drie weken tevoren ui
 
 1. De bestuursrechter kan bepalen dat het onderzoek ter zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht.
 
-2. Is het beroep reeds ter zitting behandeld, dan kan de bestuursrechter na toepassing van [artikel 8:51a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-04-04&g=2025-04-04) bepalen dat een nader onderzoek ter zitting achterwege blijft indien:
+2. Is het beroep reeds ter zitting behandeld, dan kan de bestuursrechter na toepassing van [artikel 8:51a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-07-01&g=2025-07-01) bepalen dat een nader onderzoek ter zitting achterwege blijft indien:
 
 - a. het bestuursorgaan heeft medegedeeld dat het geen gebruik maakt van de gelegenheid om het gebrek te herstellen of te laten herstellen;
 
-- b. de termijn als bedoeld in [artikel 8:51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-04-04&g=2025-04-04), ongebruikt is verstreken;
+- b. de termijn als bedoeld in [artikel 8:51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-07-01&g=2025-07-01), ongebruikt is verstreken;
 
 - c. partijen hun zienswijzen over de wijze waarop het gebrek is hersteld, naar voren hebben gebracht; of
 
-- d. de termijn als bedoeld in [artikel 8:51b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-04-04&g=2025-04-04), ongebruikt is verstreken, tenzij partijen daardoor kunnen worden benadeeld.
+- d. de termijn als bedoeld in [artikel 8:51b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-07-01&g=2025-07-01), ongebruikt is verstreken, tenzij partijen daardoor kunnen worden benadeeld.
 
 3. Als de bestuursrechter bepaalt dat het onderzoek of het nadere onderzoek ter zitting achterwege blijft, sluit hij het onderzoek.
 
@@ -2645,7 +2645,7 @@ Na afloop van het vooronderzoek worden partijen ten minste drie weken tevoren ui
 
 1. Tot tien dagen voor de zitting kunnen partijen nadere stukken indienen.
 
-2. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04), gewezen.
+2. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01), gewezen.
 
 ##### Artikel 8:59
 
@@ -2657,9 +2657,9 @@ De bestuursrechter kan een partij oproepen om in persoon dan wel in persoon of b
 
 2. De opgeroepen getuige en de deskundige of de tolk die zijn benoeming heeft aanvaard en door de bestuursrechter wordt opgeroepen, zijn verplicht aan de oproeping gevolg te geven. De [artikelen 172](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=172) en [178 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=178) zijn van overeenkomstige toepassing. In de oproeping van de deskundige worden vermeld de opdracht die moet worden vervuld, de plaats en het tijdstip waarop de opdracht moet worden vervuld en de gevolgen die zijn verbonden aan het niet verschijnen.
 
-3. Namen en woonplaatsen van de opgeroepen getuigen en deskundigen en de feiten waarop het horen betrekking zal hebben onderscheidenlijk de opdracht die moet worden vervuld, worden bij de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04), aan partijen zoveel mogelijk medegedeeld.
+3. Namen en woonplaatsen van de opgeroepen getuigen en deskundigen en de feiten waarop het horen betrekking zal hebben onderscheidenlijk de opdracht die moet worden vervuld, worden bij de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01), aan partijen zoveel mogelijk medegedeeld.
 
-4. Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk tien dagen voor de dag van de zitting aan de bestuursrechter en aan de andere partijen mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04), gewezen.
+4. Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk tien dagen voor de dag van de zitting aan de bestuursrechter en aan de andere partijen mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01), gewezen.
 
 ##### Artikel 8:61
 
@@ -2683,7 +2683,7 @@ De bestuursrechter kan een partij oproepen om in persoon dan wel in persoon of b
 
 8. De bestuursrechter kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.
 
-9. Nadat de bestuursrechter toepassing heeft gegeven aan [artikel 8:36e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36e&z=2025-04-04&g=2025-04-04), kan de hogerberoepsrechter of de Hoge Raad verzoeken een schriftelijke weergave van de gesproken tekst van de beeld- of geluidsopname op te stellen.
+9. Nadat de bestuursrechter toepassing heeft gegeven aan [artikel 8:36e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36e&z=2025-07-01&g=2025-07-01), kan de hogerberoepsrechter of de Hoge Raad verzoeken een schriftelijke weergave van de gesproken tekst van de beeld- of geluidsopname op te stellen.
 
 10. De griffier die een proces-verbaal opmaakt stelt dit ter beschikking aan partijen, indien het derde lid, aanhef en onder a, van toepassing is.
 
@@ -2719,7 +2719,7 @@ De bestuursrechter kan een partij oproepen om in persoon dan wel in persoon of b
 
 4. De bestuursrechter kan bepalen dat het onderzoek ter zitting opnieuw wordt aangevangen.
 
-5. De bestuursrechter kan bepalen dat de nadere zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht. [Artikel 8:57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:57&z=2025-04-04&g=2025-04-04), is van toepassing.
+5. De bestuursrechter kan bepalen dat de nadere zitting achterwege blijft indien geen van de partijen, nadat zij zijn gewezen op hun recht ter zitting te worden gehoord, binnen een door hem gestelde redelijke termijn heeft verklaard dat zij gebruik wil maken van dit recht. [Artikel 8:57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:57&z=2025-07-01&g=2025-07-01), is van toepassing.
 
 ##### Artikel 8:65
 
@@ -2821,21 +2821,21 @@ Vervallen
 
 ##### Artikel 8:75
 
-1. De bestuursrechter is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de bestuursrechter, en van het bezwaar of van het administratief beroep redelijkerwijs heeft moeten maken. De [artikelen 7:15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:15&z=2025-04-04&g=2025-04-04), en [7:28, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:28&z=2025-04-04&g=2025-04-04), zijn van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht. Bij algemene maatregel van bestuur worden nadere regels gesteld over de kosten waarop een veroordeling als bedoeld in de eerste volzin uitsluitend betrekking kan hebben en over de wijze waarop bij de uitspraak het bedrag van de kosten wordt vastgesteld.
+1. De bestuursrechter is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de bestuursrechter, en van het bezwaar of van het administratief beroep redelijkerwijs heeft moeten maken. De [artikelen 7:15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:15&z=2025-07-01&g=2025-07-01), en [7:28, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:28&z=2025-07-01&g=2025-07-01), zijn van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht. Bij algemene maatregel van bestuur worden nadere regels gesteld over de kosten waarop een veroordeling als bedoeld in de eerste volzin uitsluitend betrekking kan hebben en over de wijze waarop bij de uitspraak het bedrag van de kosten wordt vastgesteld.
 
 2. In geval van een veroordeling in de kosten ten behoeve van een partij aan wie ter zake van het beroep bij de bestuursrechter, het bezwaar of het administratief beroep een toevoeging is verleend krachtens de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368), wordt het bedrag van de kosten betaald aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de belanghebbende zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de Raad voor rechtsbijstand opgave van een kostenvergoeding door het bestuursorgaan.
 
 ##### Artikel 8:75a
 
-1. In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, kan het bestuursorgaan op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van [artikel 8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-04-04&g=2025-04-04) in de kosten worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard.
+1. In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, kan het bestuursorgaan op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van [artikel 8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-07-01&g=2025-07-01) in de kosten worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard.
 
 2. De bestuursrechter stelt de verzoeker zo nodig in de gelegenheid het verzoek schriftelijk toe te lichten en stelt het bestuursorgaan in de gelegenheid een verweerschrift in te dienen. Hij stelt hiervoor termijnen vast. Indien het verzoek mondeling wordt gedaan, kan de bestuursrechter bepalen dat het toelichten van het verzoek en het voeren van verweer onmiddellijk mondeling geschieden.
 
-3. Indien het toelichten van het verzoek en het voeren van verweer mondeling zijn geschied, sluit de bestuursrechter het onderzoek. In de overige gevallen zijn de [afdelingen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&z=2025-04-04&g=2025-04-04) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+3. Indien het toelichten van het verzoek en het voeren van verweer mondeling zijn geschied, sluit de bestuursrechter het onderzoek. In de overige gevallen zijn de [afdelingen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&z=2025-07-01&g=2025-07-01) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 8:76
 
-Voor zover een uitspraak strekt tot vergoeding van griffierecht, proceskosten of schade als bedoeld in [artikel 8:74](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-04-04&g=2025-04-04), [8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-04-04&g=2025-04-04), [8:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-04-04&g=2025-04-04), [8:82, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:82&z=2025-04-04&g=2025-04-04), [8:87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:87&z=2025-04-04&g=2025-04-04), of [8:95](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:95&z=2025-04-04&g=2025-04-04) levert zij een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) kan worden tenuitvoergelegd.
+Voor zover een uitspraak strekt tot vergoeding van griffierecht, proceskosten of schade als bedoeld in [artikel 8:74](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-07-01&g=2025-07-01), [8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-07-01&g=2025-07-01), [8:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-07-01&g=2025-07-01), [8:82, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:82&z=2025-07-01&g=2025-07-01), [8:87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:87&z=2025-07-01&g=2025-07-01), of [8:95](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:95&z=2025-07-01&g=2025-07-01) levert zij een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) kan worden tenuitvoergelegd.
 
 ##### Artikel 8:77
 
@@ -2867,13 +2867,13 @@ De uitspraak geschiedt in het openbaar.
 
 2. Anderen dan partijen kunnen afschriften of uittreksels van de uitspraak of van het proces-verbaal van de mondelinge uitspraak verkrijgen. Met betrekking tot de kosten is het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
 
-3. In afwijking van het tweede lid verstrekt de griffier, indien de uitspraak betrekking heeft op de toepassing van de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, overeenkomstig artikel 15, tweede lid, van de in [artikel 8:45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-04-04&g=2025-04-04), genoemde verordening onverwijld en kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan de Europese Commissie. De verstrekking geschiedt door tussenkomst van de Raad voor de rechtspraak, tenzij het een uitspraak van de Hoge Raad of van de Afdeling bestuursrechtspraak van de Raad van State betreft.
+3. In afwijking van het tweede lid verstrekt de griffier, indien de uitspraak betrekking heeft op de toepassing van de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, overeenkomstig artikel 15, tweede lid, van de in [artikel 8:45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-07-01&g=2025-07-01), genoemde verordening onverwijld en kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan de Europese Commissie. De verstrekking geschiedt door tussenkomst van de Raad voor de rechtspraak, tenzij het een uitspraak van de Hoge Raad of van de Afdeling bestuursrechtspraak van de Raad van State betreft.
 
 ##### Artikel 8:80
 
 1. Indien de bestuursrechter een besluit dat niet tot een of meer belanghebbenden is gericht, geheel of gedeeltelijk vernietigt, doet het bevoegde bestuursorgaan mededeling van de uitspraak op de voor de bekendmaking van dat besluit voorgeschreven wijze.
 
-2. Het eerste lid is eveneens van toepassing indien de bestuursrechter een ander besluit geheel of gedeeltelijk vernietigt en hij daarbij toepassing geeft aan [artikel 8:72, derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04).
+2. Het eerste lid is eveneens van toepassing indien de bestuursrechter een ander besluit geheel of gedeeltelijk vernietigt en hij daarbij toepassing geeft aan [artikel 8:72, derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01).
 
 ## Titel 8.3. Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak
 
@@ -2885,7 +2885,7 @@ De uitspraak geschiedt in het openbaar.
 
 3. Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om voorlopige voorziening worden gedaan door de indiener van het bezwaarschrift, onderscheidenlijk door de indiener van het beroepschrift of door de belanghebbende die geen recht heeft tot het instellen van administratief beroep.
 
-4. De [artikelen 6:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-04-04&g=2025-04-04), [6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-04-04&g=2025-04-04), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-04-04&g=2025-04-04), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-04-04&g=2025-04-04), [6:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:19&z=2025-04-04&g=2025-04-04) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing. De indiener van het verzoekschrift die bezwaar heeft gemaakt dan wel beroep heeft ingesteld, legt daarbij een afschrift van het bezwaar- of beroepschrift over.
+4. De [artikelen 6:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:4&z=2025-07-01&g=2025-07-01), [6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-07-01&g=2025-07-01), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-07-01&g=2025-07-01), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-07-01&g=2025-07-01), [6:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:19&z=2025-07-01&g=2025-07-01) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing. De indiener van het verzoekschrift die bezwaar heeft gemaakt dan wel beroep heeft ingesteld, legt daarbij een afschrift van het bezwaar- of beroepschrift over.
 
 5. Indien een verzoek om voorlopige voorziening is gedaan nadat bezwaar is gemaakt of administratief beroep is ingesteld en op dit bezwaar of beroep wordt beslist voordat de zitting heeft plaatsgevonden, wordt de verzoeker in de gelegenheid gesteld beroep bij de bestuursrechter in te stellen. Het verzoek om voorlopige voorziening wordt gelijkgesteld met een verzoek dat wordt gedaan hangende het beroep bij de bestuursrechter.
 
@@ -2895,7 +2895,7 @@ De uitspraak geschiedt in het openbaar.
 
 2. Het griffierecht is gelijk aan het griffierecht dat de verzoeker ten tijde van de indiening van het verzoek voor de hoofdzaak verschuldigd is of zou zijn.
 
-3. [Artikel 8:41, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing, met dien verstande dat de termijn voor de bijschrijving of storting van het griffierecht twee weken bedraagt. De voorzieningenrechter kan een kortere termijn stellen.
+3. [Artikel 8:41, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing, met dien verstande dat de termijn voor de bijschrijving of storting van het griffierecht twee weken bedraagt. De voorzieningenrechter kan een kortere termijn stellen.
 
 4. De griffier betaalt het griffierecht terug indien het verzoek wordt ingetrokken:
 
@@ -2909,7 +2909,7 @@ De uitspraak geschiedt in het openbaar.
 
 ##### Artikel 8:83
 
-1. Partijen worden zo spoedig mogelijk uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting te verschijnen. Binnen een door de voorzieningenrechter te bepalen termijn zendt het bestuursorgaan de op de zaak betrekking hebbende stukken aan hem. De [artikelen 8:45, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-04-04&g=2025-04-04), en [8:45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing, met dien verstande dat de voorzieningenrechter kan bepalen dat de in deze artikelen bedoelde zienswijzen mondeling ter zitting naar voren worden gebracht. [Artikel 8:58](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:58&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing, met dien verstande dat tot één dag voor de zitting nadere stukken kunnen worden ingediend. De [artikelen 8:59](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:59&z=2025-04-04&g=2025-04-04), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-04-04&g=2025-04-04), [8:60a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-04-04&g=2025-04-04), en [8:61 tot en met 8:65](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing, met dien verstande dat getuigen en deskundigen kunnen worden meegebracht of opgeroepen zonder dat de in [artikel 8:60, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-04-04&g=2025-04-04), bedoelde mededeling is gedaan.
+1. Partijen worden zo spoedig mogelijk uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting te verschijnen. Binnen een door de voorzieningenrechter te bepalen termijn zendt het bestuursorgaan de op de zaak betrekking hebbende stukken aan hem. De [artikelen 8:45, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-07-01&g=2025-07-01), en [8:45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat de voorzieningenrechter kan bepalen dat de in deze artikelen bedoelde zienswijzen mondeling ter zitting naar voren worden gebracht. [Artikel 8:58](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:58&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing, met dien verstande dat tot één dag voor de zitting nadere stukken kunnen worden ingediend. De [artikelen 8:59](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:59&z=2025-07-01&g=2025-07-01), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-07-01&g=2025-07-01), [8:60a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-07-01&g=2025-07-01), en [8:61 tot en met 8:65](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat getuigen en deskundigen kunnen worden meegebracht of opgeroepen zonder dat de in [artikel 8:60, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:60&z=2025-07-01&g=2025-07-01), bedoelde mededeling is gedaan.
 
 2. Indien administratief beroep is ingesteld, wordt het beroepsorgaan eveneens uitgenodigd om op de zitting te verschijnen. Het beroepsorgaan wordt in de gelegenheid gesteld ter zitting een uiteenzetting over de zaak te geven.
 
@@ -2935,7 +2935,7 @@ De uitspraak geschiedt in het openbaar.
 
 4. De griffier zendt onverwijld een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak kosteloos aan partijen.
 
-5. De [artikelen 8:67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-04-04&g=2025-04-04), [8:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:68&z=2025-04-04&g=2025-04-04), [8:69](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:69&z=2025-04-04&g=2025-04-04), [8:72, vierde lid, tweede volzin, aanhef en onder b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04), [8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-04-04&g=2025-04-04), [8:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-04-04&g=2025-04-04), [8:76](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:76&z=2025-04-04&g=2025-04-04), [8:77, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:77&z=2025-04-04&g=2025-04-04), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:78&z=2025-04-04&g=2025-04-04), [artikel 8:79, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-04-04&g=2025-04-04), en [8:80](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:80&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing.
+5. De [artikelen 8:67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-07-01&g=2025-07-01), [8:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:68&z=2025-07-01&g=2025-07-01), [8:69](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:69&z=2025-07-01&g=2025-07-01), [8:72, vierde lid, tweede volzin, aanhef en onder b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01), [8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-07-01&g=2025-07-01), [8:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-07-01&g=2025-07-01), [8:76](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:76&z=2025-07-01&g=2025-07-01), [8:77, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:77&z=2025-07-01&g=2025-07-01), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:78&z=2025-07-01&g=2025-07-01), [artikel 8:79, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-07-01&g=2025-07-01), en [8:80](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:80&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8:85
 
@@ -2951,17 +2951,17 @@ De uitspraak geschiedt in het openbaar.
 
 ##### Artikel 8:86
 
-1. Indien het verzoek wordt gedaan indien beroep bij de bestuursrechter is ingesteld en de voorzieningenrechter van oordeel is dat na de zitting, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:83&z=2025-04-04&g=2025-04-04), nader onderzoek redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak, kan hij onmiddellijk uitspraak doen in de hoofdzaak.
+1. Indien het verzoek wordt gedaan indien beroep bij de bestuursrechter is ingesteld en de voorzieningenrechter van oordeel is dat na de zitting, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:83&z=2025-07-01&g=2025-07-01), nader onderzoek redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak, kan hij onmiddellijk uitspraak doen in de hoofdzaak.
 
 2. Indien de bestuursrechter in eerste en hoogste aanleg uitspraak doet, kan het eerste lid slechts worden toegepast indien partijen daarvoor toestemming hebben gegeven.
 
-3. Partijen worden in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:83&z=2025-04-04&g=2025-04-04), gewezen op de bevoegdheid, bedoeld in het eerste lid, en indien de bestuursrechter in eerste en hoogste aanleg uitspraak doet, tevens op de voorwaarde, bedoeld in het tweede lid.
+3. Partijen worden in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:83&z=2025-07-01&g=2025-07-01), gewezen op de bevoegdheid, bedoeld in het eerste lid, en indien de bestuursrechter in eerste en hoogste aanleg uitspraak doet, tevens op de voorwaarde, bedoeld in het tweede lid.
 
 ##### Artikel 8:87
 
-1. De voorzieningenrechter kan, ook ambtshalve, een voorlopige voorziening opheffen of wijzigen, ook als zij is getroffen met toepassing van [artikel 8:72, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04).
+1. De voorzieningenrechter kan, ook ambtshalve, een voorlopige voorziening opheffen of wijzigen, ook als zij is getroffen met toepassing van [artikel 8:72, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01).
 
-2. De [artikelen 8:81, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:81&z=2025-04-04&g=2025-04-04), en [8:82 tot en met 8:86](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:82&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing. Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om opheffing of wijziging eveneens worden gedaan door een belanghebbende die door de voorlopige voorziening rechtstreeks in zijn belang wordt getroffen, door het bestuursorgaan of door het beroepsorgaan.
+2. De [artikelen 8:81, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:81&z=2025-07-01&g=2025-07-01), en [8:82 tot en met 8:86](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:82&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing. Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om opheffing of wijziging eveneens worden gedaan door een belanghebbende die door de voorlopige voorziening rechtstreeks in zijn belang wordt getroffen, door het bestuursorgaan of door het beroepsorgaan.
 
 3. Indien een verzoek om opheffing of wijziging is gedaan door het bestuursorgaan of het beroepsorgaan en het verzoek geheel of gedeeltelijk wordt toegewezen, kan de uitspraak inhouden dat het betaalde griffierecht door de griffier aan het bestuursorgaan wordt terugbetaald.
 
@@ -2977,7 +2977,7 @@ De uitspraak geschiedt in het openbaar.
 
 - c. het niet tijdig nemen van een besluit;
 
-- d. een andere onrechtmatige handeling van een bestuursorgaan waarbij een persoon als bedoeld in [artikel 8:2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:2&z=2025-04-04&g=2025-04-04), zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.
+- d. een andere onrechtmatige handeling van een bestuursorgaan waarbij een persoon als bedoeld in [artikel 8:2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:2&z=2025-07-01&g=2025-07-01), zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.
 
 2. Het eerste lid is niet van toepassing indien het besluit van beroep bij de bestuursrechter is uitgezonderd.
 
@@ -3005,7 +3005,7 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van ee
 
 ##### Artikel 9:4
 
-1. Indien een schriftelijke klacht betrekking heeft op een gedraging jegens de klager en voldoet aan de vereisten van het tweede lid, zijn de [artikelen 9:5 tot en met 9:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:5&z=2025-04-04&g=2025-04-04) van toepassing.
+1. Indien een schriftelijke klacht betrekking heeft op een gedraging jegens de klager en voldoet aan de vereisten van het tweede lid, zijn de [artikelen 9:5 tot en met 9:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:5&z=2025-07-01&g=2025-07-01) van toepassing.
 
 2. Het klaagschrift wordt ondertekend en bevat ten minste:
 
@@ -3015,7 +3015,7 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van ee
 
 - c. een omschrijving van de gedraging waartegen de klacht is gericht.
 
-3. [Artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+3. [Artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9:5
 
@@ -3035,7 +3035,7 @@ Het bestuursorgaan bevestigt de ontvangst van het klaagschrift schriftelijk.
 
 1. Het bestuursorgaan is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
-- a. waarover reeds eerder een klacht is ingediend die met inachtneming van de [artikelen 9:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:4&z=2025-04-04&g=2025-04-04) en volgende is behandeld;
+- a. waarover reeds eerder een klacht is ingediend die met inachtneming van de [artikelen 9:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:4&z=2025-07-01&g=2025-07-01) en volgende is behandeld;
 
 - b. die langer dan een jaar voor indiening van de klacht heeft plaatsgevonden;
 
@@ -3045,11 +3045,11 @@ Het bestuursorgaan bevestigt de ontvangst van het klaagschrift schriftelijk.
 
 - e. die door het instellen van een procedure aan het oordeel van een andere rechterlijke instantie dan een bestuursrechter onderworpen is, dan wel onderworpen is geweest of,
 
-- f. zolang terzake daarvan een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en terzake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.
+- f. zolang ter zake daarvan een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en ter zake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.
 
 2. Het bestuursorgaan is niet verplicht de klacht te behandelen indien het belang van de klager dan wel het gewicht van de gedraging kennelijk onvoldoende is.
 
-3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld. [Artikel 9:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:12&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld. [Artikel 9:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:12&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9:9
 
@@ -3071,7 +3071,7 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 ##### Artikel 9:11
 
-1. Het bestuursorgaan handelt de klacht af binnen zes weken of – indien [afdeling 9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.3&z=2025-04-04&g=2025-04-04) van toepassing is – binnen tien weken na ontvangst van het klaagschrift.
+1. Het bestuursorgaan handelt de klacht af binnen zes weken of – indien [afdeling 9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.3&z=2025-07-01&g=2025-07-01) van toepassing is – binnen tien weken na ontvangst van het klaagschrift.
 
 2. Het bestuursorgaan kan de afhandeling voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
@@ -3091,7 +3091,7 @@ Het bestuursorgaan draagt zorg voor registratie van de bij hem ingediende schrif
 
 ##### Artikel 9:13
 
-De in deze afdeling geregelde procedure voor de behandeling van klachten wordt in aanvulling op [afdeling 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&z=2025-04-04&g=2025-04-04) gevolgd indien dat bij wettelijk voorschrift of bij besluit van het bestuursorgaan is bepaald.
+De in deze afdeling geregelde procedure voor de behandeling van klachten wordt in aanvulling op [afdeling 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&z=2025-07-01&g=2025-07-01) gevolgd indien dat bij wettelijk voorschrift of bij besluit van het bestuursorgaan is bepaald.
 
 ##### Artikel 9:14
 
@@ -3101,17 +3101,17 @@ De in deze afdeling geregelde procedure voor de behandeling van klachten wordt i
 
 ##### Artikel 9:15
 
-1. Bij het bericht van ontvangst, bedoeld in [artikel 9:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:6&z=2025-04-04&g=2025-04-04), wordt vermeld dat een persoon of commissie over de klacht zal adviseren.
+1. Bij het bericht van ontvangst, bedoeld in [artikel 9:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:6&z=2025-07-01&g=2025-07-01), wordt vermeld dat een persoon of commissie over de klacht zal adviseren.
 
-2. Het horen geschiedt door de in [artikel 9:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.3&artikel=9:14&z=2025-04-04&g=2025-04-04) bedoelde persoon of commissie. Indien een commissie is ingesteld, kan deze het horen opdragen aan de voorzitter of een lid van de commissie.
+2. Het horen geschiedt door de in [artikel 9:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.3&artikel=9:14&z=2025-07-01&g=2025-07-01) bedoelde persoon of commissie. Indien een commissie is ingesteld, kan deze het horen opdragen aan de voorzitter of een lid van de commissie.
 
-3. De persoon of commissie beslist over de toepassing van [artikel 9:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:10&z=2025-04-04&g=2025-04-04).
+3. De persoon of commissie beslist over de toepassing van [artikel 9:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:10&z=2025-07-01&g=2025-07-01).
 
 4. De persoon of commissie zendt een rapport van bevindingen, vergezeld van het advies en eventuele aanbevelingen, aan het bestuursorgaan. Het rapport bevat het verslag van het horen.
 
 ##### Artikel 9:16
 
-Indien de conclusies van het bestuursorgaan afwijken van het advies, wordt in de conclusies de reden voor die afwijking vermeld en wordt het advies meegezonden met de kennisgeving, bedoeld in [artikel 9:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:12&z=2025-04-04&g=2025-04-04).
+Indien de conclusies van het bestuursorgaan afwijken van het advies, wordt in de conclusies de reden voor die afwijking vermeld en wordt het advies meegezonden met de kennisgeving, bedoeld in [artikel 9:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.1&afdeling=9.1.2&artikel=9:12&z=2025-07-01&g=2025-07-01).
 
 ## Titel 9.2. Klachtbehandeling door een ombudsman
 
@@ -3131,13 +3131,13 @@ Onder ombudsman wordt verstaan:
 
 2. Indien het verzoekschrift bij een onbevoegde ombudsman wordt ingediend, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan de bevoegde ombudsman, onder gelijktijdige mededeling hiervan aan de verzoeker.
 
-3. De ombudsman is verplicht aan een verzoek als bedoeld in het eerste lid gevolg te geven, tenzij [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-04-04&g=2025-04-04), [9:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:23&z=2025-04-04&g=2025-04-04) of [9:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:24&z=2025-04-04&g=2025-04-04) van toepassing is.
+3. De ombudsman is verplicht aan een verzoek als bedoeld in het eerste lid gevolg te geven, tenzij [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-07-01&g=2025-07-01), [9:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:23&z=2025-07-01&g=2025-07-01) of [9:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:24&z=2025-07-01&g=2025-07-01) van toepassing is.
 
 ##### Artikel 9:19
 
 1. Indien naar het oordeel van de ombudsman ten aanzien van de in het verzoekschrift bedoelde gedraging voor de verzoeker de mogelijkheid van bezwaar, beroep of beklag openstaat, wijst hij de verzoeker zo spoedig mogelijk op deze mogelijkheid en draagt hij het verzoekschrift, nadat daarop de datum van ontvangst is aangetekend, aan de bevoegde instantie over, tenzij de verzoeker kenbaar heeft gemaakt dat het verzoekschrift aan hem moet worden teruggezonden.
 
-2. [Artikel 6:15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. [Artikel 6:15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9:20
 
@@ -3147,7 +3147,7 @@ Onder ombudsman wordt verstaan:
 
 ##### Artikel 9:21
 
-Op het verkeer met de ombudsman is [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing, met uitzondering van [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:3&z=2025-04-04&g=2025-04-04).
+Op het verkeer met de ombudsman is [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met uitzondering van [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:3&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 9.2.2. Bevoegdheid
 
@@ -3171,7 +3171,7 @@ De ombudsman is niet bevoegd een onderzoek in te stellen of voort te zetten indi
 
 De ombudsman is niet verplicht een onderzoek in te stellen of voort te zetten indien:
 
-- a. het verzoekschrift niet voldoet aan de vereisten, bedoeld in [artikel 9:28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.3&artikel=9:28&z=2025-04-04&g=2025-04-04);
+- a. het verzoekschrift niet voldoet aan de vereisten, bedoeld in [artikel 9:28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.3&artikel=9:28&z=2025-07-01&g=2025-07-01);
 
 - b. het verzoek kennelijk ongegrond is;
 
@@ -3185,7 +3185,7 @@ De ombudsman is niet verplicht een onderzoek in te stellen of voort te zetten in
 
 - g. het verzoek betrekking heeft op een gedraging ten aanzien waarvan door een andere rechterlijke instantie dan een bestuursrechter uitspraak is gedaan;
 
-- h. niet is voldaan aan het vereiste van [artikel 9:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:20&z=2025-04-04&g=2025-04-04);
+- h. niet is voldaan aan het vereiste van [artikel 9:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:20&z=2025-07-01&g=2025-07-01);
 
 - i. een verzoek, dezelfde gedraging betreffende, bij hem in behandeling is of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde gedraging zou hebben kunnen leiden – door hem is afgedaan;
 
@@ -3213,13 +3213,13 @@ De ombudsman is niet verplicht een onderzoek in te stellen of voort te zetten in
 
 ##### Artikel 9:25
 
-1. Indien de ombudsman op grond van [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-04-04&g=2025-04-04), [9:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:23&z=2025-04-04&g=2025-04-04) of [9:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:24&z=2025-04-04&g=2025-04-04) geen onderzoek instelt of dit niet voortzet, deelt hij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de verzoeker mede.
+1. Indien de ombudsman op grond van [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-07-01&g=2025-07-01), [9:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:23&z=2025-07-01&g=2025-07-01) of [9:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:24&z=2025-07-01&g=2025-07-01) geen onderzoek instelt of dit niet voortzet, deelt hij dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de verzoeker mede.
 
 2. In het geval dat hij een onderzoek niet voortzet, doet hij de in het eerste lid bedoelde mededeling tevens aan het bestuursorgaan en, in voorkomend geval, aan degene op wiens gedraging het onderzoek betrekking heeft.
 
 ##### Artikel 9:26
 
-Tenzij [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-04-04&g=2025-04-04) van toepassing is, is de ombudsman bevoegd uit eigen beweging een onderzoek in te stellen naar de wijze waarop een bestuursorgaan zich in een bepaalde aangelegenheid heeft gedragen.
+Tenzij [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:22&z=2025-07-01&g=2025-07-01) van toepassing is, is de ombudsman bevoegd uit eigen beweging een onderzoek in te stellen naar de wijze waarop een bestuursorgaan zich in een bepaalde aangelegenheid heeft gedragen.
 
 ##### Artikel 9:27
 
@@ -3247,7 +3247,7 @@ Tenzij [artikel 9:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=
 
 2. Indien het verzoekschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van het verzoek noodzakelijk is, draagt de verzoeker zorg voor een vertaling.
 
-3. Indien niet is voldaan aan de in dit artikel gestelde vereisten of indien het verzoekschrift geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-04-04&g=2025-04-04), stelt de ombudsman de verzoeker in de gelegenheid het verzuim binnen een door hem daartoe gestelde termijn te herstellen.
+3. Indien niet is voldaan aan de in dit artikel gestelde vereisten of indien het verzoekschrift geheel of gedeeltelijk is geweigerd op grond van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&artikel=2:15&z=2025-07-01&g=2025-07-01), stelt de ombudsman de verzoeker in de gelegenheid het verzuim binnen een door hem daartoe gestelde termijn te herstellen.
 
 ##### Artikel 9:29
 
@@ -3277,7 +3277,7 @@ Aan de behandeling van het verzoek wordt niet meegewerkt door een persoon die be
 
 1. De ombudsman kan ten dienste van het onderzoek deskundigen werkzaamheden opdragen. Hij kan voorts in het belang van het onderzoek deskundigen en tolken oproepen.
 
-2. Door de ombudsman opgeroepen deskundigen of tolken verschijnen voor hem, en verlenen onpartijdig en naar beste weten hun diensten als zodanig. Op deskundigen, tevens ambtenaren, is [artikel 9:31, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.3&artikel=9:31&z=2025-04-04&g=2025-04-04), van overeenkomstige toepassing.
+2. Door de ombudsman opgeroepen deskundigen of tolken verschijnen voor hem, en verlenen onpartijdig en naar beste weten hun diensten als zodanig. Op deskundigen, tevens ambtenaren, is [artikel 9:31, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.3&artikel=9:31&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 3. De ombudsman kan bepalen dat getuigen niet zullen worden gehoord en tolken niet tot de uitoefening van hun taak zullen worden toegelaten dan na het afleggen van de eed of de belofte. Getuigen leggen in dat geval de eed of de belofte af dat zij de gehele waarheid en niets dan de waarheid zullen zeggen en tolken dat zij hun plichten als tolk met nauwgezetheid zullen vervullen.
 
@@ -3315,7 +3315,7 @@ Aan de behandeling van het verzoek wordt niet meegewerkt door een persoon die be
 
 3. De ombudsman zendt zijn rapport aan het betrokken bestuursorgaan, alsmede aan de verzoeker en aan degene op wiens gedraging het verzoek betrekking heeft.
 
-4. Indien de ombudsman aan het bestuursorgaan een aanbeveling doet als bedoeld in [artikel 9:27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:27&z=2025-04-04&g=2025-04-04), deelt het bestuursorgaan binnen een redelijke termijn aan de ombudsman mee op welke wijze aan de aanbeveling gevolg zal worden gegeven. Indien het bestuursorgaan overweegt de aanbeveling niet op te volgen, deelt het dat met redenen omkleed aan de ombudsman mee.
+4. Indien de ombudsman aan het bestuursorgaan een aanbeveling doet als bedoeld in [artikel 9:27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.2&artikel=9:27&z=2025-07-01&g=2025-07-01), deelt het bestuursorgaan binnen een redelijke termijn aan de ombudsman mee op welke wijze aan de aanbeveling gevolg zal worden gegeven. Indien het bestuursorgaan overweegt de aanbeveling niet op te volgen, deelt het dat met redenen omkleed aan de ombudsman mee.
 
 5. Bij de ombudsman berustende informatie over de klacht en het onderzoek die niet opgenomen in het rapport, is niet openbaar.
 
@@ -3345,9 +3345,9 @@ Een door de gemandateerde binnen de grenzen van zijn bevoegdheid genomen besluit
 
 - c. tot het vernietigen van of tot het onthouden van goedkeuring aan een besluit van een ander bestuursorgaan.
 
-3. Mandaat tot het beslissen op een bezwaarschrift of op een verzoek als bedoeld in [artikel 7:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-04-04&g=2025-04-04), wordt niet verleend aan degene die het besluit waartegen het bezwaar zich richt, krachtens mandaat heeft genomen.
+3. Mandaat tot het beslissen op een bezwaarschrift of op een verzoek als bedoeld in [artikel 7:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-07-01&g=2025-07-01), wordt niet verleend aan degene die het besluit waartegen het bezwaar zich richt, krachtens mandaat heeft genomen.
 
-4. Indien [artikel 5:53](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:53&z=2025-04-04&g=2025-04-04) van toepassing is, wordt mandaat tot het opleggen van een bestuurlijke boete niet verleend aan degene die van de overtreding een rapport of proces-verbaal heeft opgemaakt.
+4. Indien [artikel 5:53](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:53&z=2025-07-01&g=2025-07-01) van toepassing is, wordt mandaat tot het opleggen van een bestuurlijke boete niet verleend aan degene die van de overtreding een rapport of proces-verbaal heeft opgemaakt.
 
 ##### Artikel 10:4
 
@@ -3431,7 +3431,7 @@ Een besluit dat op grond van een gedelegeerde bevoegdheid wordt genomen, vermeld
 
 ##### Artikel 10:20
 
-1. Op de overdracht door een bestuursorgaan van een bevoegdheid van een ander bestuursorgaan tot het nemen van besluiten aan een derde is deze afdeling, met uitzondering van [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.2&artikel=10:16&z=2025-04-04&g=2025-04-04), van overeenkomstige toepassing.
+1. Op de overdracht door een bestuursorgaan van een bevoegdheid van een ander bestuursorgaan tot het nemen van besluiten aan een derde is deze afdeling, met uitzondering van [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.2&artikel=10:16&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 2. Bij wettelijk voorschrift of bij het besluit tot overdracht kan worden bepaald dat het bestuursorgaan wiens bevoegdheid is overgedragen beleidsregels over de uitoefening van die bevoegdheid kan geven.
 
@@ -3475,9 +3475,9 @@ Aan een besluit waarover een rechter uitspraak heeft gedaan of waarbij een in kr
 
 2. Het nemen van het besluit omtrent goedkeuring kan eenmaal voor ten hoogste dertien weken worden verdaagd.
 
-3. In afwijking van het tweede lid kan het nemen van het besluit omtrent goedkeuring eenmaal voor ten hoogste zes maanden worden verdaagd indien inzake dat besluit advies van een adviseur als bedoeld in [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:5&z=2025-04-04&g=2025-04-04) is vereist.
+3. In afwijking van het tweede lid kan het nemen van het besluit omtrent goedkeuring eenmaal voor ten hoogste zes maanden worden verdaagd indien inzake dat besluit advies van een adviseur als bedoeld in [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.3&artikel=3:5&z=2025-07-01&g=2025-07-01) is vereist.
 
-4. Tenzij bij wettelijk voorschrift anders is bepaald, is [paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+4. Tenzij bij wettelijk voorschrift anders is bepaald, is [paragraaf 4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 10:32
 
@@ -3517,7 +3517,7 @@ Een besluit waarover de rechter uitspraak heeft gedaan of waarbij een in kracht 
 
 1. Een besluit tot het verrichten van een privaatrechtelijke rechtshandeling kan niet worden vernietigd, indien dertien weken zijn verstreken nadat het is bekendgemaakt.
 
-2. Indien binnen de termijn genoemd in het eerste lid overeenkomstig [artikel 10:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.3&artikel=10:43&z=2025-04-04&g=2025-04-04) schorsing heeft plaatsgevonden, blijft vernietiging binnen de duur van de schorsing mogelijk.
+2. Indien binnen de termijn genoemd in het eerste lid overeenkomstig [artikel 10:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.3&artikel=10:43&z=2025-07-01&g=2025-07-01) schorsing heeft plaatsgevonden, blijft vernietiging binnen de duur van de schorsing mogelijk.
 
 3. Indien een besluit als bedoeld in het eerste lid aan goedkeuring is onderworpen, vangt de in het eerste lid genoemde termijn aan nadat het goedkeuringsbesluit is bekendgemaakt. Op het goedkeuringsbesluit zijn het eerste en tweede lid van overeenkomstige toepassing.
 
@@ -3525,7 +3525,7 @@ Een besluit waarover de rechter uitspraak heeft gedaan of waarbij een in kracht 
 
 ##### Artikel 10:40
 
-Een besluit dat overeenkomstig [artikel 10:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.3&artikel=10:43&z=2025-04-04&g=2025-04-04) is geschorst, kan, nadat de schorsing is geëindigd, niet meer worden vernietigd.
+Een besluit dat overeenkomstig [artikel 10:43](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.3&artikel=10:43&z=2025-07-01&g=2025-07-01) is geschorst, kan, nadat de schorsing is geëindigd, niet meer worden vernietigd.
 
 ##### Artikel 10:41
 
@@ -3561,7 +3561,7 @@ Hangende het onderzoek of er reden is tot vernietiging over te gaan, kan een bes
 
 ##### Artikel 10:45
 
-Op het besluit inzake schorsing zijn de [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:36&z=2025-04-04&g=2025-04-04), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:37&z=2025-04-04&g=2025-04-04), [10:38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:38&z=2025-04-04&g=2025-04-04), [10:39, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:39&z=2025-04-04&g=2025-04-04), en [10:42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:42&z=2025-04-04&g=2025-04-04), van overeenkomstige toepassing.
+Op het besluit inzake schorsing zijn de [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:36&z=2025-07-01&g=2025-07-01), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:37&z=2025-07-01&g=2025-07-01), [10:38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:38&z=2025-07-01&g=2025-07-01), [10:39, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:39&z=2025-07-01&g=2025-07-01), en [10:42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.2&afdeling=10.2.2&artikel=10:42&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -3571,9 +3571,9 @@ Vervallen
 
 ##### Artikel 11:2
 
-1. Het bedrag van de vergoeding, bedoeld in [artikel 4:113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:113&z=2025-04-04&g=2025-04-04), en de bedragen, vastgesteld in de [artikelen 8:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), en [8:109, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-04-04&g=2025-04-04), en krachtens de [artikelen 7:15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:15&z=2025-04-04&g=2025-04-04), [7:28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:28&z=2025-04-04&g=2025-04-04), en [8:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-04-04&g=2025-04-04), worden jaarlijks met ingang van 1 januari bij regeling van Onze Minister van Veiligheid en Justitie gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
+1. De bedragen, vastgesteld krachtens de [artikelen 7:15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.2&artikel=7:15&z=2025-07-01&g=2025-07-01), [7:28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.3&artikel=7:28&z=2025-07-01&g=2025-07-01), en [8:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-07-01&g=2025-07-01), worden jaarlijks met ingang van 1 januari bij regeling van Onze Minister van Justitie en Veiligheid gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
-2. De overige bij of krachtens deze wet vastgestelde bedragen kunnen bij regeling van Onze Minister van Veiligheid en Justitie worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
+2. De overige bij of krachtens deze wet vastgestelde bedragen kunnen bij regeling van Onze Minister van Justitie en Veiligheid worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
 ##### Artikel 11:3
 
@@ -3995,9 +3995,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het bestuursorgaan kan vooruitlopend op de vaststelling van een verplichting tot betaling van een geldsom een voorschot verlenen indien redelijkerwijs kan worden aangenomen dat een verplichting tot betaling zal worden vastgesteld, tenzij bij wettelijk voorschrift anders is bepaald.
 
-2. In de beschikking tot verlening van een voorschot kan, in afwijking van [artikel 4:86, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:86&z=2025-04-04&g=2025-04-04), worden volstaan met de vermelding van de wijze waarop het bedrag van het voorschot wordt bepaald.
+2. In de beschikking tot verlening van een voorschot kan, in afwijking van [artikel 4:86, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:86&z=2025-07-01&g=2025-07-01), worden volstaan met de vermelding van de wijze waarop het bedrag van het voorschot wordt bepaald.
 
-3. Bij de beschikking tot verlening van een voorschot kan een van [artikel 4:87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:87&z=2025-04-04&g=2025-04-04), afwijkende termijn voor de betaling van het voorschot worden vastgesteld.
+3. Bij de beschikking tot verlening van een voorschot kan een van [artikel 4:87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:87&z=2025-07-01&g=2025-07-01), afwijkende termijn voor de betaling van het voorschot worden vastgesteld.
 
 4. Betaalde voorschotten worden verrekend met de te betalen geldsom. Onverschuldigd betaalde voorschotten kunnen worden teruggevorderd.
 
@@ -4073,7 +4073,7 @@ Deze afdeling is niet van toepassing indien bij de wet een andere regeling omtre
 
 ##### Artikel 4:106
 
-Het bestuursorgaan kan de verjaring ook stuiten door een aanmaning als bedoeld in [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-04-04&g=2025-04-04), een beschikking tot verrekening of een dwangbevel dan wel door een daad van tenuitvoerlegging van een dwangbevel.
+Het bestuursorgaan kan de verjaring ook stuiten door een aanmaning als bedoeld in [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-07-01&g=2025-07-01), een beschikking tot verrekening of een dwangbevel dan wel door een daad van tenuitvoerlegging van een dwangbevel.
 
 ##### Artikel 4:107
 
@@ -4081,11 +4081,11 @@ De schuldeiser van het bestuursorgaan kan de verjaring ook stuiten door een schr
 
 ##### Artikel 4:108
 
-Indien de schuldeiser van het bestuursorgaan een recht tot verrekening als bedoeld in [artikel 4:93](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:93&z=2025-04-04&g=2025-04-04) heeft, eindigt dit recht niet door verjaring van de rechtsvordering.
+Indien de schuldeiser van het bestuursorgaan een recht tot verrekening als bedoeld in [artikel 4:93](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:93&z=2025-07-01&g=2025-07-01) heeft, eindigt dit recht niet door verjaring van de rechtsvordering.
 
 ##### Artikel 4:109
 
-Indien de schuldeiser van het bestuursorgaan zelf een bestuursorgaan is, zijn de [artikelen 4:107](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:107&z=2025-04-04&g=2025-04-04) en [4:108](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:108&z=2025-04-04&g=2025-04-04) niet van toepassing.
+Indien de schuldeiser van het bestuursorgaan zelf een bestuursorgaan is, zijn de [artikelen 4:107](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:107&z=2025-07-01&g=2025-07-01) en [4:108](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.3&artikel=4:108&z=2025-07-01&g=2025-07-01) niet van toepassing.
 
 ##### Artikel 4:110
 
@@ -4131,7 +4131,7 @@ Indien de schuldeiser van het bestuursorgaan zelf een bestuursorgaan is, zijn de
 
 ##### Artikel 4:114
 
-Onder dwangbevel wordt verstaan: een schriftelijk bevel van een bestuursorgaan dat ertoe strekt de betaling van een geldsom als bedoeld in [artikel 4:85](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:85&z=2025-04-04&g=2025-04-04) af te dwingen.
+Onder dwangbevel wordt verstaan: een schriftelijk bevel van een bestuursorgaan dat ertoe strekt de betaling van een geldsom als bedoeld in [artikel 4:85](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.1&artikel=4:85&z=2025-07-01&g=2025-07-01) af te dwingen.
 
 ##### Artikel 4:115
 
@@ -4143,13 +4143,13 @@ Een dwangbevel levert een executoriale titel op, die met toepassing van de voors
 
 ##### Artikel 4:117
 
-1. Een dwangbevel wordt slechts uitgevaardigd wanneer binnen de overeenkomstig [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-04-04&g=2025-04-04) gestelde aanmaningstermijn niet volledig is betaald.
+1. Een dwangbevel wordt slechts uitgevaardigd wanneer binnen de overeenkomstig [artikel 4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.4&afdeling=4.4.4&paragraaf=4.4.4.1&artikel=4:112&z=2025-07-01&g=2025-07-01) gestelde aanmaningstermijn niet volledig is betaald.
 
 2. Bij de wet kan evenwel worden bepaald dat het dwangbevel zo nodig zonder aanmaning en voor het verstrijken van bij wettelijk voorschrift gestelde of eerder gegunde betalings- of aanmaningstermijnen kan worden uitgevaardigd of tenuitvoergelegd.
 
 ##### Artikel 4:118
 
-[Artikel 4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-04-04&g=2025-04-04) is niet van toepassing op de aanmaning en het dwangbevel.
+[Artikel 4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&artikel=4:8&z=2025-07-01&g=2025-07-01) is niet van toepassing op de aanmaning en het dwangbevel.
 
 ##### Artikel 4:119
 
@@ -4191,7 +4191,7 @@ Indien een dwangbevel dat is uitgevaardigd voor een gedeelte van een verplichtin
 
 ##### Artikel 4:123
 
-1. De bekendmaking van een dwangbevel geschiedt door middel van de betekening van een exploot als bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827). De [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-04-04&g=2025-04-04) zijn niet van toepassing.
+1. De bekendmaking van een dwangbevel geschiedt door middel van de betekening van een exploot als bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827). De [artikelen 3:41 tot en met 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:41&z=2025-07-01&g=2025-07-01) zijn niet van toepassing.
 
 2. Het exploot vermeldt in ieder geval de rechtbank waarbij tegen het dwangbevel en de tenuitvoerlegging ervan overeenkomstig de [artikelen 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438) en [438a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438a) kan worden opgekomen.
 
@@ -4239,7 +4239,7 @@ Het bestuursorgaan beschikt ten aanzien van de invordering ook over de bevoegdhe
 
 ##### Artikel 5:3
 
-De [artikelen 5:4 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.1&artikel=5:4&z=2025-04-04&g=2025-04-04) zijn van toepassing op:
+De [artikelen 5:4 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.1&artikel=5:4&z=2025-07-01&g=2025-07-01) zijn van toepassing op:
 
 - a. in dit hoofdstuk geregelde bestuurlijke sancties, en
 
@@ -4297,7 +4297,7 @@ De beschikking tot oplegging van een bestuurlijke sanctie vermeldt:
 
 1. De aanvrager van een last onder bestuursdwang, dan wel een andere belanghebbende die door de overtreding wordt benadeeld, kan het bestuursorgaan verzoeken bestuursdwang toe te passen.
 
-2. Het verzoek kan worden gedaan na afloop van de termijn, bedoeld in [artikel 5:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:24&z=2025-04-04&g=2025-04-04).
+2. Het verzoek kan worden gedaan na afloop van de termijn, bedoeld in [artikel 5:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.1&artikel=5:24&z=2025-07-01&g=2025-07-01).
 
 3. Het bestuursorgaan beslist binnen vier weken op het verzoek. De beslissing is een beschikking.
 
@@ -4379,11 +4379,11 @@ Het bestuursorgaan legt geen bestuurlijke boete op voor zover de overtreding nie
 
 1. Het bestuursorgaan legt geen bestuurlijke boete op indien de overtreder is overleden.
 
-2. Een bestuurlijke boete vervalt indien zij op het tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een onherroepelijke bestuurlijke boete vervalt voorzover zij op dat tijdstip nog niet is betaald.
+2. Een bestuurlijke boete vervalt indien zij op het tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een onherroepelijke bestuurlijke boete vervalt voor zover zij op dat tijdstip nog niet is betaald.
 
 ##### Artikel 5:43
 
-Het bestuursorgaan legt geen bestuurlijke boete op indien aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 5:50, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:50&z=2025-04-04&g=2025-04-04), is bekendgemaakt.
+Het bestuursorgaan legt geen bestuurlijke boete op indien aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 5:50, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:50&z=2025-07-01&g=2025-07-01), is bekendgemaakt.
 
 ##### Artikel 5:44
 
@@ -4399,7 +4399,7 @@ Het bestuursorgaan legt geen bestuurlijke boete op indien aan de overtreder wege
 
 ##### Artikel 5:45
 
-1. Indien [artikel 5:53](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:53&z=2025-04-04&g=2025-04-04) van toepassing is, vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete vijf jaren nadat de overtreding heeft plaatsgevonden.
+1. Indien [artikel 5:53](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:53&z=2025-07-01&g=2025-07-01) van toepassing is, vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete vijf jaren nadat de overtreding heeft plaatsgevonden.
 
 2. In de overige gevallen vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete drie jaren nadat de overtreding heeft plaatsgevonden.
 
@@ -4477,9 +4477,9 @@ De beschikking tot oplegging van de bestuurlijke boete vermeldt:
 
 1. Dit artikel is van toepassing indien voor de overtreding een bestuurlijke boete van meer dan € 340 kan worden opgelegd, tenzij bij wettelijk voorschrift anders is bepaald.
 
-2. In afwijking van [artikel 5:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:48&z=2025-04-04&g=2025-04-04) wordt van de overtreding steeds een rapport of proces-verbaal opgemaakt.
+2. In afwijking van [artikel 5:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.4&afdeling=5.4.2&artikel=5:48&z=2025-07-01&g=2025-07-01) wordt van de overtreding steeds een rapport of proces-verbaal opgemaakt.
 
-3. In afwijking van [afdeling 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&z=2025-04-04&g=2025-04-04) wordt de overtreder steeds in de gelegenheid gesteld zijn zienswijze naar voren te brengen.
+3. In afwijking van [afdeling 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.2&z=2025-07-01&g=2025-07-01) wordt de overtreder steeds in de gelegenheid gesteld zijn zienswijze naar voren te brengen.
 
 ##### Artikel 5:54
 
@@ -4513,7 +4513,7 @@ Deze titel is van overeenkomstige toepassing op andere bestraffende sancties, vo
 
 ##### Artikel 8:28a
 
-1. Indien het beroep is ingesteld tegen een bestuurlijke boete is, in afwijking van de [artikelen 8:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:27&z=2025-04-04&g=2025-04-04) en [8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:28&z=2025-04-04&g=2025-04-04), de partij aan wie de bestuurlijke boete is opgelegd, niet verplicht omtrent de overtreding verklaringen af te leggen.
+1. Indien het beroep is ingesteld tegen een bestuurlijke boete is, in afwijking van de [artikelen 8:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:27&z=2025-07-01&g=2025-07-01) en [8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:28&z=2025-07-01&g=2025-07-01), de partij aan wie de bestuurlijke boete is opgelegd, niet verplicht omtrent de overtreding verklaringen af te leggen.
 
 2. Voor de bestuursrechter deze partij verhoort, deelt hij haar mede dat zij niet verplicht is tot antwoorden.
 
@@ -4567,7 +4567,7 @@ Indien de bestuursrechter een beschikking tot het opleggen van een bestuurlijke 
 
 ##### Artikel 10:21
 
-Deze afdeling is van overeenkomstige toepassing indien een bestuursorgaan zijn bevoegdheid tot het verrichten van andere handelingen dan besluiten overdraagt aan een ander die deze onder eigen verantwoordelijkheid uitoefent, met dien verstande dat [artikel 10:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.2&artikel=10:19&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing is voor zover de aard van de handeling zich daartegen niet verzet.
+Deze afdeling is van overeenkomstige toepassing indien een bestuursorgaan zijn bevoegdheid tot het verrichten van andere handelingen dan besluiten overdraagt aan een ander die deze onder eigen verantwoordelijkheid uitoefent, met dien verstande dat [artikel 10:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.2&artikel=10:19&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing is voor zover de aard van de handeling zich daartegen niet verzet.
 
 ### Afdeling 10.1.3. Attributie
 
@@ -4579,7 +4579,7 @@ Deze afdeling is van overeenkomstige toepassing indien een bestuursorgaan zijn b
 
 ##### Artikel 10:23
 
-[Artikel 10:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.3&artikel=10:22&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing indien bij wettelijk voorschrift een bevoegdheid tot het verrichten van andere handelingen dan besluiten is toegedeeld aan een persoon of college, werkzaam onder de verantwoordelijkheid van een bestuursorgaan.
+[Artikel 10:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10&titeldeel=10.1&afdeling=10.1.3&artikel=10:22&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing indien bij wettelijk voorschrift een bevoegdheid tot het verrichten van andere handelingen dan besluiten is toegedeeld aan een persoon of college, werkzaam onder de verantwoordelijkheid van een bestuursorgaan.
 
 ## Titel 9.1. Klachtbehandeling door een bestuursorgaan
 
@@ -4699,13 +4699,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7:14a
 
-Indien door een ander dan de aanvrager bezwaar is gemaakt tegen een besluit op aanvraag, wordt de aanvrager voor de toepassing van [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-04-04&g=2025-04-04) gelijkgesteld met de indiener van het bezwaarschrift.
+Indien door een ander dan de aanvrager bezwaar is gemaakt tegen een besluit op aanvraag, wordt de aanvrager voor de toepassing van [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-07-01&g=2025-07-01) gelijkgesteld met de indiener van het bezwaarschrift.
 
 ### Afdeling 7.3. Bijzondere bepalingen over administratief beroep
 
 ##### Artikel 7:27a
 
-Indien het beroep tegen een besluit op aanvraag is ingesteld door een ander dan de aanvrager, wordt de aanvrager voor de toepassing van [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-04-04&g=2025-04-04) gelijkgesteld met degene die het beroep heeft ingesteld.
+Indien het beroep tegen een besluit op aanvraag is ingesteld door een ander dan de aanvrager, wordt de aanvrager voor de toepassing van [paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-07-01&g=2025-07-01) gelijkgesteld met degene die het beroep heeft ingesteld.
 
 ### Hoofdstuk 8. Bijzondere bepalingen over beroep bij de rechtbank
 
@@ -4927,15 +4927,15 @@ Vervallen
 
 ##### Artikel 8:55b
 
-1. Indien het beroep is gericht tegen het niet tijdig nemen van een besluit, doet de bestuursrechter binnen acht weken nadat het beroepschrift is ontvangen en aan de vereisten van [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04) is voldaan, uitspraak met toepassing van [artikel 8:54](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-04-04&g=2025-04-04), tenzij de bestuursrechter een onderzoek ter zitting nodig acht.
+1. Indien het beroep is gericht tegen het niet tijdig nemen van een besluit, doet de bestuursrechter binnen acht weken nadat het beroepschrift is ontvangen en aan de vereisten van [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01) is voldaan, uitspraak met toepassing van [artikel 8:54](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-07-01&g=2025-07-01), tenzij de bestuursrechter een onderzoek ter zitting nodig acht.
 
 2. Indien de bestuursrechter een onderzoek ter zitting nodig acht, deelt hij dit zo spoedig mogelijk aan partijen mede.
 
-3. Indien de bestuursrechter een onderzoek ter zitting nodig acht, behandelt hij het beroep zo mogelijk met toepassing van [artikel 8:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&artikel=8:52&z=2025-04-04&g=2025-04-04). In dat geval doet de bestuursrechter zo mogelijk binnen dertien weken uitspraak.
+3. Indien de bestuursrechter een onderzoek ter zitting nodig acht, behandelt hij het beroep zo mogelijk met toepassing van [artikel 8:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&artikel=8:52&z=2025-07-01&g=2025-07-01). In dat geval doet de bestuursrechter zo mogelijk binnen dertien weken uitspraak.
 
 ##### Artikel 8:55c
 
-Indien het beroep gegrond is, stelt de bestuursrechter desgevraagd tevens de hoogte van de ingevolge [afdeling 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&z=2025-04-04&g=2025-04-04) verbeurde dwangsom vast. De [artikelen 611c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=611c) en [611g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=611g) zijn van overeenkomstige toepassing.
+Indien het beroep gegrond is, stelt de bestuursrechter desgevraagd tevens de hoogte van de ingevolge [afdeling 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&z=2025-07-01&g=2025-07-01) verbeurde dwangsom vast. De [artikelen 611c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=611c) en [611g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=611g) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8:55d
 
@@ -4947,9 +4947,9 @@ Indien het beroep gegrond is, stelt de bestuursrechter desgevraagd tevens de hoo
 
 ##### Artikel 8:55e
 
-1. Indien tegen de met toepassing van [artikel 8:54](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-04-04&g=2025-04-04) gedane uitspraak verzet wordt gedaan, beslist de bestuursrechter daarover binnen zes weken.
+1. Indien tegen de met toepassing van [artikel 8:54](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-07-01&g=2025-07-01) gedane uitspraak verzet wordt gedaan, beslist de bestuursrechter daarover binnen zes weken.
 
-2. [Artikel 8:55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-04-04&g=2025-04-04), is niet van toepassing.
+2. [Artikel 8:55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-07-01&g=2025-07-01), is niet van toepassing.
 
 3. Indien het verzet gegrond is, beslist de bestuursrechter zo spoedig mogelijk op het beroep.
 
@@ -5209,7 +5209,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Deze paragraaf is van toepassing indien dit bij wettelijk voorschrift is bepaald.
 
-2. [Paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-04-04&g=2025-04-04) is niet van toepassing indien deze paragraaf van toepassing is.
+2. [Paragraaf 4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&z=2025-07-01&g=2025-07-01) is niet van toepassing indien deze paragraaf van toepassing is.
 
 ##### Artikel 4:20b
 
@@ -5217,7 +5217,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. De verlening van rechtswege geldt als een beschikking.
 
-3. In afwijking van [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:40&z=2025-04-04&g=2025-04-04) treedt de beschikking in werking op de derde dag na afloop van de beslistermijn.
+3. In afwijking van [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.6&artikel=3:40&z=2025-07-01&g=2025-07-01) treedt de beschikking in werking op de derde dag na afloop van de beslistermijn.
 
 ##### Artikel 4:20c
 
@@ -5227,11 +5227,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4:20d
 
-1. Indien het bestuursorgaan de beschikking niet overeenkomstig [artikel 4:20c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&artikel=4:20c&z=2025-04-04&g=2025-04-04) binnen twee weken heeft bekendgemaakt, verbeurt het na een daarop volgende ingebrekestelling door de aanvrager een dwangsom vanaf de dag dat twee weken zijn verstreken sinds die ingebrekestelling.
+1. Indien het bestuursorgaan de beschikking niet overeenkomstig [artikel 4:20c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.3&artikel=4:20c&z=2025-07-01&g=2025-07-01) binnen twee weken heeft bekendgemaakt, verbeurt het na een daarop volgende ingebrekestelling door de aanvrager een dwangsom vanaf de dag dat twee weken zijn verstreken sinds die ingebrekestelling.
 
-2. De dwangsom wordt berekend overeenkomstig [artikel 4:17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:17&z=2025-04-04&g=2025-04-04).
+2. De dwangsom wordt berekend overeenkomstig [artikel 4:17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:17&z=2025-07-01&g=2025-07-01).
 
-3. De [artikelen 4:17, vierde lid, en zesde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:17&z=2025-04-04&g=2025-04-04), en [4:18 tot en met 4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:18&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing.
+3. De [artikelen 4:17, vierde lid, en zesde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:17&z=2025-07-01&g=2025-07-01), en [4:18 tot en met 4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.1&afdeling=4.1.3&paragraaf=4.1.3.2&artikel=4:18&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4:20e
 
@@ -5395,11 +5395,11 @@ De bestuursrechter deelt partijen mede op welke wijze het beroep verder wordt be
 
 - a. ontvangst van de mededeling van het bestuursorgaan dat het geen gebruik maakt van de gelegenheid om het gebrek te herstellen of te laten herstellen;
 
-- b. het ongebruikt verstrijken van de termijn bedoeld in [artikel 8:51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-04-04&g=2025-04-04);
+- b. het ongebruikt verstrijken van de termijn bedoeld in [artikel 8:51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-07-01&g=2025-07-01);
 
 - c. ontvangst van de zienswijzen; of
 
-- d. het ongebruikt verstrijken van de termijn bedoeld in [artikel 8:51b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-04-04&g=2025-04-04).
+- d. het ongebruikt verstrijken van de termijn bedoeld in [artikel 8:51b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 8.2.2a. Bestuurlijke lus
 
@@ -5411,17 +5411,17 @@ De bestuursrechter deelt partijen mede op welke wijze het beroep verder wordt be
 
 ##### Artikel 8:80a
 
-1. Als de bestuursrechter [artikel 8:51a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-04-04&g=2025-04-04) toepast, doet hij een tussenuitspraak.
+1. Als de bestuursrechter [artikel 8:51a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-07-01&g=2025-07-01) toepast, doet hij een tussenuitspraak.
 
 2. De tussenuitspraak vermeldt zoveel mogelijk op welke wijze het gebrek kan worden hersteld.
 
-3. De [artikelen 8:72, vierde lid, tweede volzin, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04), [8:77](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:77&z=2025-04-04&g=2025-04-04), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:78&z=2025-04-04&g=2025-04-04), [8:79](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-04-04&g=2025-04-04) en [8:119](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.6&artikel=8:119&z=2025-04-04&g=2025-04-04) zijn van overeenkomstige toepassing.
+3. De [artikelen 8:72, vierde lid, tweede volzin, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01), [8:77](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:77&z=2025-07-01&g=2025-07-01), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:78&z=2025-07-01&g=2025-07-01), [8:79](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-07-01&g=2025-07-01) en [8:119](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.6&artikel=8:119&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8:80b
 
 1. De bestuursrechter kan de tussenuitspraak ook doen voordat partijen zijn uitgenodigd om op een zitting van de bestuursrechter te verschijnen.
 
-2. De bestuursrechter kan de tussenuitspraak ook mondeling doen. [Artikel 8:67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. De bestuursrechter kan de tussenuitspraak ook mondeling doen. [Artikel 8:67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 3. De bestuursrechter kan zo nodig een voorlopige voorziening treffen. In dat geval bepaalt hij wanneer de voorlopige voorziening vervalt.
 
@@ -5429,7 +5429,7 @@ De bestuursrechter deelt partijen mede op welke wijze het beroep verder wordt be
 
 - a. het beroep is ingetrokken; of
 
-- b. de bestuursrechter uitspraak als bedoeld in [artikel 8:66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:66&z=2025-04-04&g=2025-04-04), heeft gedaan, tenzij bij die uitspraak een ander tijdstip is bepaald.
+- b. de bestuursrechter uitspraak als bedoeld in [artikel 8:66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:66&z=2025-07-01&g=2025-07-01), heeft gedaan, tenzij bij die uitspraak een ander tijdstip is bepaald.
 
 ## Titel 8.4. Herziening
 
@@ -5487,7 +5487,7 @@ Vervallen.
 
 Voor overige gevallen luidt het artikel als volgt:
 
-1. [Afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing op het verkeer met de bestuursrechter.
+1. [Afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.3&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op het verkeer met de bestuursrechter.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het elektronisch verkeer met de bestuursrechter.
 
@@ -5557,7 +5557,7 @@ Voor overige gevallen luidt het artikel als volgt:
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-### Hoofdstuk 1. Van beroep uitgezonderde besluiten ([artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:5&z=2025-04-04&g=2025-04-04))
+### Hoofdstuk 1. Van beroep uitgezonderde besluiten ([artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:5&z=2025-07-01&g=2025-07-01))
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -5605,11 +5605,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. de dag waarop zij is genomen.
 
-4. De conclusie wordt uiterlijk zes weken na sluiting van het onderzoek ter zitting ter kennis van het college gebracht en in afschrift aan partijen toegezonden. Aan [artikel 8:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:64&z=2025-04-04&g=2025-04-04) behoeft daarbij geen toepassing te worden gegeven.
+4. De conclusie wordt uiterlijk zes weken na sluiting van het onderzoek ter zitting ter kennis van het college gebracht en in afschrift aan partijen toegezonden. Aan [artikel 8:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:64&z=2025-07-01&g=2025-07-01) behoeft daarbij geen toepassing te worden gegeven.
 
 5. Partijen kunnen binnen twee weken na verzending van het afschrift van de conclusie hun schriftelijk commentaar daarop aan het college doen toekomen.
 
-6. [Artikel 8:79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+6. [Artikel 8:79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:79&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 7. Degene die de conclusie heeft genomen, neemt geen deel aan de beraadslagingen over de zaak.
 
@@ -5625,9 +5625,9 @@ De bestuursrechter beslecht het hem voorgelegde geschil zoveel mogelijk definiti
 
 ##### Artikel 8:45a
 
-1. De Europese Commissie en de Autoriteit Consument en Markt kunnen, niet optredende als partij, schriftelijke opmerkingen maken krachtens artikel 15, derde lid, eerste alinea, van de in [artikel 8:45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-04-04&g=2025-04-04), genoemde verordening indien zij de wens daartoe te kennen hebben gegeven. De bestuursrechter kan daarvoor een termijn vaststellen.
+1. De Europese Commissie en de Autoriteit Consument en Markt kunnen, niet optredende als partij, schriftelijke opmerkingen maken krachtens artikel 15, derde lid, eerste alinea, van de in [artikel 8:45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45&z=2025-07-01&g=2025-07-01), genoemde verordening indien zij de wens daartoe te kennen hebben gegeven. De bestuursrechter kan daarvoor een termijn vaststellen.
 
-2. Met toestemming van de bestuursrechter kunnen de Europese Commissie en de Autoriteit Consument en Markt ook mondelinge opmerkingen maken. De bestuursrechter kan de Europese Commissie en de Autoriteit Consument en Markt voor het maken van mondelinge opmerkingen uitnodigen. Partijen worden in de gelegenheid gesteld daarbij aanwezig te zijn. [Artikel 8:44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:44&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. Met toestemming van de bestuursrechter kunnen de Europese Commissie en de Autoriteit Consument en Markt ook mondelinge opmerkingen maken. De bestuursrechter kan de Europese Commissie en de Autoriteit Consument en Markt voor het maken van mondelinge opmerkingen uitnodigen. Partijen worden in de gelegenheid gesteld daarbij aanwezig te zijn. [Artikel 8:44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:44&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 3. De bestuursrechter doet partijen schriftelijk mededeling van de stukken die hij krachtens artikel 15, derde lid, tweede alinea, van de verordening aan de Europese Commissie of de Autoriteit Consument en Markt verstrekt met het oog op de door hen te maken opmerkingen.
 
@@ -5635,13 +5635,13 @@ De bestuursrechter beslecht het hem voorgelegde geschil zoveel mogelijk definiti
 
 ##### Artikel 8:51d
 
-Indien de bestuursrechter in hoogste aanleg uitspraak doet, kan hij het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De [artikelen 8:51a, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-04-04&g=2025-04-04), [8:51b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-04-04&g=2025-04-04), en [8:51c, aanhef en onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51c&z=2025-04-04&g=2025-04-04), zijn van toepassing.
+Indien de bestuursrechter in hoogste aanleg uitspraak doet, kan hij het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De [artikelen 8:51a, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51a&z=2025-07-01&g=2025-07-01), [8:51b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51b&z=2025-07-01&g=2025-07-01), en [8:51c, aanhef en onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&artikel=8:51c&z=2025-07-01&g=2025-07-01), zijn van toepassing.
 
 ##### Artikel 8:60a
 
-1. De schriftelijke opmerkingen van de Europese Commissie of de Autoriteit Consument en Markt, bedoeld in [artikel 8:45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-04-04&g=2025-04-04), kunnen tot tien dagen voor de zitting worden ingediend.
+1. De schriftelijke opmerkingen van de Europese Commissie of de Autoriteit Consument en Markt, bedoeld in [artikel 8:45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-07-01&g=2025-07-01), kunnen tot tien dagen voor de zitting worden ingediend.
 
-2. Indien de Europese Commissie of de Autoriteit Consument en Markt ter zitting verschijnt voor het maken van mondelinge opmerkingen, wordt dit zoveel mogelijk aan partijen meegedeeld bij de uitnodiging voor de zitting. [Artikel 8:45a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+2. Indien de Europese Commissie of de Autoriteit Consument en Markt ter zitting verschijnt voor het maken van mondelinge opmerkingen, wordt dit zoveel mogelijk aan partijen meegedeeld bij de uitnodiging voor de zitting. [Artikel 8:45a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8:69a
 
@@ -5655,45 +5655,45 @@ De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is 
 
 1. Een belanghebbende en het bestuursorgaan kunnen hoger beroep instellen tegen:
 
-- a. een uitspraak als bedoeld in [artikel 8:66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:66&z=2025-04-04&g=2025-04-04), of [artikel 8:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-04-04&g=2025-04-04), van de rechtbank,
+- a. een uitspraak als bedoeld in [artikel 8:66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:66&z=2025-07-01&g=2025-07-01), of [artikel 8:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:67&z=2025-07-01&g=2025-07-01), van de rechtbank,
 
-- b. een uitspraak als bedoeld in [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:86&z=2025-04-04&g=2025-04-04), van de voorzieningenrechter van de rechtbank,
+- b. een uitspraak als bedoeld in [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:86&z=2025-07-01&g=2025-07-01), van de voorzieningenrechter van de rechtbank,
 
-- c. een uitspraak van de rechtbank op een verzoek als bedoeld in [artikel 8:88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:88&z=2025-04-04&g=2025-04-04).
+- c. een uitspraak van de rechtbank op een verzoek als bedoeld in [artikel 8:88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:88&z=2025-07-01&g=2025-07-01).
 
 2. Geen hoger beroep kan worden ingesteld tegen:
 
-- a. een uitspraak van de rechtbank na toepassing van [artikel 8:54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-04-04&g=2025-04-04),
+- a. een uitspraak van de rechtbank na toepassing van [artikel 8:54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54&z=2025-07-01&g=2025-07-01),
 
-- b. een uitspraak van de rechtbank als bedoeld in [artikel 8:54a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54a&z=2025-04-04&g=2025-04-04),
+- b. een uitspraak van de rechtbank als bedoeld in [artikel 8:54a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:54a&z=2025-07-01&g=2025-07-01),
 
-- c. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-04-04&g=2025-04-04),
+- c. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4&artikel=8:55&z=2025-07-01&g=2025-07-01),
 
-- d. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:84&z=2025-04-04&g=2025-04-04),
+- d. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:84&z=2025-07-01&g=2025-07-01),
 
-- e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-04-04&g=2025-04-04), in verband met [artikel 8:84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:84&z=2025-04-04&g=2025-04-04), en
+- e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-07-01&g=2025-07-01), in verband met [artikel 8:84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:84&z=2025-07-01&g=2025-07-01), en
 
-- f. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:87](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:87&z=2025-04-04&g=2025-04-04).
+- f. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:87](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:87&z=2025-07-01&g=2025-07-01).
 
 3. Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen:
 
-- a. een tussenuitspraak als bedoeld in [artikel 8:80a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.7&artikel=8:80a&z=2025-04-04&g=2025-04-04), of
+- a. een tussenuitspraak als bedoeld in [artikel 8:80a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.7&artikel=8:80a&z=2025-07-01&g=2025-07-01), of
 
 - b. een andere beslissing van de rechtbank.
 
-4. Geen hoger beroep kan worden ingesteld tegen de voorlopige voorziening, bedoeld in [artikel 8:72, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04).
+4. Geen hoger beroep kan worden ingesteld tegen de voorlopige voorziening, bedoeld in [artikel 8:72, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 8:105
 
-1. Het hoger beroep wordt ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State, tenzij een andere hogerberoepsrechter bevoegd is ingevolge hoofdstuk 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04) dan wel ingevolge een ander wettelijk voorschrift.
+1. Het hoger beroep wordt ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State, tenzij een andere hogerberoepsrechter bevoegd is ingevolge hoofdstuk 4 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01) dan wel ingevolge een ander wettelijk voorschrift.
 
-2. Het hoger beroep, bedoeld in [artikel 8:104, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:104&z=2025-04-04&g=2025-04-04), wordt ingesteld bij de hogerberoepsrechter die ingevolge het eerste lid bevoegd is of zou zijn te oordelen over een uitspraak van de rechtbank omtrent het schadeveroorzakende besluit.
+2. Het hoger beroep, bedoeld in [artikel 8:104, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:104&z=2025-07-01&g=2025-07-01), wordt ingesteld bij de hogerberoepsrechter die ingevolge het eerste lid bevoegd is of zou zijn te oordelen over een uitspraak van de rechtbank omtrent het schadeveroorzakende besluit.
 
 ##### Artikel 8:106
 
 1. De werking van een uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep is beslist, indien:
 
-- a. de uitspraak betreft een besluit als bedoeld in artikel 9 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-04-04&g=2025-04-04), of
+- a. de uitspraak betreft een besluit als bedoeld in artikel 9 van de bij deze wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2025-07-01&g=2025-07-01), of
 
 - b. tegen de uitspraak hoger beroep kan worden ingesteld bij een gerechtshof.
 
@@ -5705,13 +5705,13 @@ De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is 
 
 2. De griffier van de rechtbank stelt de gedingstukken met de aantekeningen van de zitting, voor zover deze op de zaak betrekking hebben, en een afschrift van de uitspraak binnen een week na ontvangst van de in het eerste lid bedoelde mededeling ter beschikking aan de griffier van de hogerberoepsrechter.
 
-3. Op verzoek van de hogerberoepsrechter stelt de griffier van de rechtbank het proces-verbaal van de zitting of de schriftelijke weergave van een in [artikel 8:36e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36e&z=2025-04-04&g=2025-04-04) bedoelde beeld- of geluidsopname die het proces-verbaal vervangt, ter beschikking aan de griffier van de hogerberoepsrechter binnen een door de hogerberoepsrechter te bepalen termijn. De griffier van de hogerberoepsrechter stelt dit proces-verbaal of deze schriftelijke weergave ter beschikking aan partijen.
+3. Op verzoek van de hogerberoepsrechter stelt de griffier van de rechtbank het proces-verbaal van de zitting of de schriftelijke weergave van een in [artikel 8:36e](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36e&z=2025-07-01&g=2025-07-01) bedoelde beeld- of geluidsopname die het proces-verbaal vervangt, ter beschikking aan de griffier van de hogerberoepsrechter binnen een door de hogerberoepsrechter te bepalen termijn. De griffier van de hogerberoepsrechter stelt dit proces-verbaal of deze schriftelijke weergave ter beschikking aan partijen.
 
 ##### Artikel 8:108
 
-1. Voor zover in deze titel niet anders is bepaald, zijn op het hoger beroep de [titels 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing, met uitzondering van de [artikelen 8:1 tot en met 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:1&z=2025-04-04&g=2025-04-04), [8:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), en [8:74](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-04-04&g=2025-04-04).
+1. Voor zover in deze titel niet anders is bepaald, zijn op het hoger beroep de [titels 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 8:1 tot en met 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:1&z=2025-07-01&g=2025-07-01), [8:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), en [8:74](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-07-01&g=2025-07-01).
 
-2. Op het hoger beroep, bedoeld in [artikel 8:104, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:104&z=2025-04-04&g=2025-04-04), zijn voorts de [afdelingen 8.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&z=2025-04-04&g=2025-04-04), [8.2.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4a&z=2025-04-04&g=2025-04-04) en [8.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.7&z=2025-04-04&g=2025-04-04) en de [artikelen 8:28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:28a&z=2025-04-04&g=2025-04-04), [8:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:70&z=2025-04-04&g=2025-04-04) en [8:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-04-04&g=2025-04-04) niet van toepassing.
+2. Op het hoger beroep, bedoeld in [artikel 8:104, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:104&z=2025-07-01&g=2025-07-01), zijn voorts de [afdelingen 8.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2a&z=2025-07-01&g=2025-07-01), [8.2.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.4a&z=2025-07-01&g=2025-07-01) en [8.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.7&z=2025-07-01&g=2025-07-01) en de [artikelen 8:28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:28a&z=2025-07-01&g=2025-07-01), [8:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:70&z=2025-07-01&g=2025-07-01) en [8:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:72&z=2025-07-01&g=2025-07-01) niet van toepassing.
 
 3. Indien hoger beroep kan worden ingesteld bij een gerechtshof, is voorts [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van toepassing.
 
@@ -5719,7 +5719,7 @@ De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is 
 
 1. Het griffierecht voor het hoger beroep bedraagt:
 
-- a. € 143 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een besluit als omschreven in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-04-04&g=2025-04-04),
+- a. € 143 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een besluit als omschreven in de bij deze wet behorende [Regeling verlaagd griffierecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3&z=2025-07-01&g=2025-07-01),
 
 - b. € 289 indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een ander besluit, of
 
@@ -5735,7 +5735,7 @@ De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is 
 
 3. Binnen vier weken nadat de hogerberoepsrechter de gronden van het incidenteel hoger beroep aan partijen heeft verzonden, kunnen deze partijen schriftelijk hun zienswijze omtrent het incidenteel hoger beroep naar voren brengen.
 
-4. De hogerberoepsrechter kan de in het tweede en derde lid genoemde termijnen verlengen of, indien hij het hoger beroep behandelt met overeenkomstige toepassing van [afdeling 8.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&z=2025-04-04&g=2025-04-04), verkorten.
+4. De hogerberoepsrechter kan de in het tweede en derde lid genoemde termijnen verlengen of, indien hij het hoger beroep behandelt met overeenkomstige toepassing van [afdeling 8.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&z=2025-07-01&g=2025-07-01), verkorten.
 
 5. Voor het incidenteel hoger beroep is geen griffierecht verschuldigd.
 
@@ -5781,7 +5781,7 @@ De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is 
 
 ##### Artikel 8:116
 
-In de gevallen, bedoeld in [artikel 8:115, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:115&z=2025-04-04&g=2025-04-04), kan de hogerberoepsrechter de zaak zonder terugwijzing afdoen, indien deze naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 8:115, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:115&z=2025-07-01&g=2025-07-01), kan de hogerberoepsrechter de zaak zonder terugwijzing afdoen, indien deze naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 8:117
 
@@ -5789,13 +5789,13 @@ Indien de uitspraak is gedaan door een andere rechtbank dan de bevoegde, kan de 
 
 ##### Artikel 8:118
 
-1. In geval van intrekking van het hoger beroep door het bestuursorgaan kan het bestuursorgaan op verzoek van een partij bij afzonderlijke uitspraak met overeenkomstige toepassing van [artikel 8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-04-04&g=2025-04-04) in de kosten worden veroordeeld.
+1. In geval van intrekking van het hoger beroep door het bestuursorgaan kan het bestuursorgaan op verzoek van een partij bij afzonderlijke uitspraak met overeenkomstige toepassing van [artikel 8:75](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75&z=2025-07-01&g=2025-07-01) in de kosten worden veroordeeld.
 
 2. Indien het hoger beroep mondeling wordt ingetrokken, wordt het verzoek door de partij die daarbij aanwezig is mondeling gedaan, tegelijk met de intrekking van het hoger beroep. Indien aan dit vereiste niet is voldaan, is het verzoek niet-ontvankelijk.
 
-3. Indien het hoger beroep schriftelijk wordt ingetrokken, wordt het verzoek schriftelijk gedaan. In dat geval zijn de [artikelen 6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:11&z=2025-04-04&g=2025-04-04), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-04-04&g=2025-04-04), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-04-04&g=2025-04-04) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing.
+3. Indien het hoger beroep schriftelijk wordt ingetrokken, wordt het verzoek schriftelijk gedaan. In dat geval zijn de [artikelen 6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:11&z=2025-07-01&g=2025-07-01), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-07-01&g=2025-07-01), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-07-01&g=2025-07-01) en [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-4. [Artikel 8:75a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+4. [Artikel 8:75a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:75a&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8:119
 
@@ -5807,7 +5807,7 @@ Indien de uitspraak is gedaan door een andere rechtbank dan de bevoegde, kan de 
 
 - c. waren zij bij de bestuursrechter eerder bekend geweest, tot een andere uitspraak zouden hebben kunnen leiden.
 
-2. [Hoofdstuk 6, titel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&z=2025-04-04&g=2025-04-04), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&z=2025-04-04&g=2025-04-04) en [artikel 8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&artikel=8:13&z=2025-04-04&g=2025-04-04), [titel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&z=2025-04-04&g=2025-04-04), met uitzondering van [artikel 8:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), [titel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&z=2025-04-04&g=2025-04-04) en [titel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&z=2025-04-04&g=2025-04-04), met uitzondering van [artikel 8:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-04-04&g=2025-04-04), zijn voor zover nodig van overeenkomstige toepassing.
+2. [Hoofdstuk 6, titel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&z=2025-07-01&g=2025-07-01), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&z=2025-07-01&g=2025-07-01) en [artikel 8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&artikel=8:13&z=2025-07-01&g=2025-07-01), [titel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&z=2025-07-01&g=2025-07-01), met uitzondering van [artikel 8:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), [titel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&z=2025-07-01&g=2025-07-01) en [titel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&z=2025-07-01&g=2025-07-01), met uitzondering van [artikel 8:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-07-01&g=2025-07-01), zijn voor zover nodig van overeenkomstige toepassing.
 
 3. Het griffierecht is gelijk aan het griffierecht dat ten tijde van de indiening van het verzoek verschuldigd zou zijn geweest voor het beroep of hoger beroep dat heeft geleid tot de uitspraak waarvan herziening wordt gevraagd.
 
@@ -6427,7 +6427,7 @@ voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd i
 
 [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108):
 
-- a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeuring van een besluit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=5)
+- a. een besluit van Onze Minister van Infrastructuur en Waterstaat inzake de goedkeuring van een besluit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=5)
 
 - b. een besluit van het algemeen bestuur van een waterschap als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=31)
 
@@ -6471,7 +6471,7 @@ voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd i
 
 [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van [hoofdstuk 10, § 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&paragraaf=4)
 
-[Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555): de [artikelen 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4), [8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15), [8.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25), [8.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25b), [8.25c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25c), [8.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43), [8.64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), [8.70, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70), [8.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.77), [8a.50a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50a), [8a.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.54), [10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15), [10.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.27), voor zover het betreft de luchthaven Eindhoven en [10.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39), ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-04-04&g=2025-04-04), van de Algemene wet bestuursrecht.
+[Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555): de [artikelen 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4), [8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15), [8.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25), [8.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25b), [8.25c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25c), [8.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43), [8.64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), [8.70, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70), [8.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.77), [8a.50a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50a), [8a.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.54), [10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15), [10.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.27), voor zover het betreft de luchthaven Eindhoven en [10.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39), ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-07-01&g=2025-07-01), van de Algemene wet bestuursrecht.
 
 [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362): [artikel 2.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.8)
 
@@ -6591,9 +6591,9 @@ Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, geno
 
 - 2. een besluit tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd
 
-[Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=37), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41), [41c](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41c), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=55), [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=56), en [57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=57), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-04-04&g=2025-04-04), van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de [artikelen 9b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9b), [9c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9c), [9d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9d), [9e, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9e), [9f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9f), [20a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20a), [20b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20b), [20c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20c), [77h](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77h) en [77i](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77i)
+[Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=37), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41), [41c](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41c), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=55), [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=56), en [57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=57), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-07-01&g=2025-07-01), van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de [artikelen 9b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9b), [9c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9c), [9d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9d), [9e, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9e), [9f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9f), [20a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20a), [20b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20b), [20c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20c), [77h](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77h) en [77i](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77i)
 
-[Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de [artikelen 12f](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12f), [12g](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12g), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=23), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=24), [25, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=25), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81), [81c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81c) en [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=82), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-04-04&g=2025-04-04), van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=16), [39b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39b), [39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39c), [39d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39d), [60ac](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ac) en [60ad](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ad)
+[Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de [artikelen 12f](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12f), [12g](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12g), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=23), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=24), [25, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=25), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81), [81c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81c) en [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=82), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-07-01&g=2025-07-01), van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=16), [39b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39b), [39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39c), [39d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39d), [60ac](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ac) en [60ad](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ad)
 
 [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416): [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125), voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de [Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952)
 
@@ -6624,6 +6624,8 @@ Marktverordening voor het wegvervoer
 [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734)
 
 [Prijzenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002353)
+
+[Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148)
 
 [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364): de [artikelen 14a, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=14a), en [15ba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15ba)
 
@@ -6693,9 +6695,7 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 
 [Wet medewerking verdedigingsvoorbereiding](https://wetten.overheid.nl/jci1.3:c:BWBR0001995)
 
-[Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681)
-
-[Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189), met inbegrip van een besluit inzake een aanwijzing als bedoeld in de [artikelen 9, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), [10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), [11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), en [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-04-04&g=2025-04-04), van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in [artikel 8:4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:4&z=2025-04-04&g=2025-04-04), van de Algemene wet bestuursrecht
+[Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189), met inbegrip van een besluit inzake een aanwijzing als bedoeld in de [artikelen 9, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), [10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), [11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), en [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12), dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in [artikel 8:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:3&z=2025-07-01&g=2025-07-01), van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in [artikel 8:4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:4&z=2025-07-01&g=2025-07-01), van de Algemene wet bestuursrecht
 
 [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573)
 
@@ -6703,7 +6703,7 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 
 - a. [artikel 1:26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:26), de [afdelingen 3A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3a.1.3), [3A.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3a.1.4), [3A.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3a.1.5), [3A.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3a.2.3) en [3A.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3a.2.4) en de [artikelen 5:77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:77), en [5:81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
 
-- b. een besluit terzake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
+- b. een besluit ter zake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
 
 [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), met uitzondering van de [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=56), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=59), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=94), en [96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96)
 
@@ -6712,8 +6712,6 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 [Wet uitvoering Internationaal Energieprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0003235)
 
 [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739)
-
-[Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen)](https://wetten.overheid.nl/jci1.3:c:BWBR0006762) (Stb. 1994, 507) : een verklaring als bedoeld in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006762&artikel=V)
 
 [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746): een besluit genomen door een van de in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30), genoemde bestuursorganen, tenzij toepassing of mede toepassing is gegeven aan [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26)
 
@@ -6724,8 +6722,6 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800)
 
 [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752): [artikelen 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=21), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25)
-
-[Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838): [artikel 311a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311a)
 
 [Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952)
 
@@ -6786,6 +6782,8 @@ Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift o
 [Wet pensioenvoorzieningen K.N.I.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002090)
 
 [Wet rechtspositionele voorzieningen rampbestrijders](https://wetten.overheid.nl/jci1.3:c:BWBR0005643)
+
+[Wet toezicht geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779)
 
 [Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012698) (Stb. 2001, 377)
 
@@ -6875,8 +6873,6 @@ Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 
 
 [Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162)
 
-[Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444), voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=13)
-
 [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515), voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt, gezondheidszorg en spoor of op een digitaledienstverlener
 
 [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250): [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.7)
@@ -6913,7 +6909,7 @@ Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 
 
 - b. de [artikelen 5:77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:77), en [5:81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
 
-- c. een besluit terzake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
+- c. een besluit ter zake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
 
 - d. de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:1) en [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:2)
 
@@ -6967,7 +6963,7 @@ Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 
 
 8. Tegen een besluit inzake subsidieverstrekking voor een project op grond van de [Uitvoeringswet EFRO](https://wetten.overheid.nl/jci1.3:c:BWBR0034784), kan beroep worden ingesteld bij de rechtbank binnen het rechtsgebied waarvan een autoriteit als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&artikel=3) die bevoegd is besluiten te nemen inzake de verstrekking van EFRO-middelen voor het project, haar zetel heeft, tenzij die autoriteit in het buitenland gevestigd is.
 
-9. Tegen een besluit als bedoeld in [hoofdstuk V, afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van een bestuursorgaan als bedoeld in [artikel 8:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-04-04&g=2025-04-04), kan beroep worden ingesteld bij:
+9. Tegen een besluit als bedoeld in [hoofdstuk V, afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van een bestuursorgaan als bedoeld in [artikel 8:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-07-01&g=2025-07-01), kan beroep worden ingesteld bij:
 
 - a. de rechtbanken Noord-Holland, Den Haag en Zeeland-West-Brabant in het ressort waarvan de indiener van het beroepschrift zijn woonplaats heeft dan wel, indien de indiener van het beroepschrift geen woonplaats in Nederland heeft, bij de rechtbanken Noord-Holland, Den Haag en Zeeland-West-Brabant in het ressort waarvan het bestuursorgaan zijn zetel heeft;
 
@@ -7065,7 +7061,7 @@ Wet sociale werkvoorziening
 
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan eveneens hoger beroep worden ingesteld bij de Centrale Raad van Beroep.
 
-Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-04-04&g=2025-04-04), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 9 of 10 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
+Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-07-01&g=2025-07-01), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 9 of 10 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
 
 Een besluit waarbij een persoon met betrekking tot diens in [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) bedoelde hoedanigheid, zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.
 
@@ -8029,7 +8025,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. In de overige gevallen is de bestuursrechter bevoegd voor zover de gevraagde vergoeding ten hoogste € 25 000 bedraagt met inbegrip van de tot aan de dag van het verzoek verschenen rente, en onverminderd het recht van de belanghebbende om op grond van andere wettelijke bepalingen schadevergoeding te vragen.
 
-3. De bestuursrechter is in de gevallen, bedoeld in het tweede lid, niet bevoegd indien de belanghebbende het verzoek heeft ingediend nadat hij terzake van de schade een geding bij de burgerlijke rechter aanhangig heeft gemaakt.
+3. De bestuursrechter is in de gevallen, bedoeld in het tweede lid, niet bevoegd indien de belanghebbende het verzoek heeft ingediend nadat hij ter zake van de schade een geding bij de burgerlijke rechter aanhangig heeft gemaakt.
 
 4. Zolang het verzoek van de belanghebbende bij de bestuursrechter aanhangig is, verklaart de burgerlijke rechter een vordering tot vergoeding van de schade niet ontvankelijk.
 
@@ -8043,7 +8039,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Indien het verzoek wordt gedaan gedurende het beroep tegen of het hoger beroep omtrent het schadeveroorzakende besluit, wordt het ingediend bij de bestuursrechter waarbij het beroep of het hoger beroep aanhangig is.
 
-2. In dat geval is [artikel 8:90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:90&z=2025-04-04&g=2025-04-04), niet van toepassing.
+2. In dat geval is [artikel 8:90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:90&z=2025-07-01&g=2025-07-01), niet van toepassing.
 
 3. Indien het verzoek wordt gedaan in hoger beroep beslist de hogerberoepsrechter op het verzoek, tenzij hij het verzoek naar de rechtbank verwijst omdat het naar zijn oordeel behandeling door de rechtbank behoeft.
 
@@ -8061,9 +8057,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - e. de gronden van het verzoek.
 
-2. Bij het verzoekschrift worden zo mogelijk een afschrift van het schadeveroorzakende besluit waarop het verzoekschrift betrekking heeft, en van het verzoek, bedoeld in [artikel 8:90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:90&z=2025-04-04&g=2025-04-04), overgelegd.
+2. Bij het verzoekschrift worden zo mogelijk een afschrift van het schadeveroorzakende besluit waarop het verzoekschrift betrekking heeft, en van het verzoek, bedoeld in [artikel 8:90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:90&z=2025-07-01&g=2025-07-01), overgelegd.
 
-3. [Artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-04-04&g=2025-04-04), is van overeenkomstige toepassing.
+3. [Artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8:93
 
@@ -8075,9 +8071,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8:94
 
-1. Op het verzoek en de behandeling daarvan zijn de [artikelen 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-04-04&g=2025-04-04), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-04-04&g=2025-04-04), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-04-04&g=2025-04-04), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-04-04&g=2025-04-04), [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-04-04&g=2025-04-04), [6:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:24&z=2025-04-04&g=2025-04-04), [8:8 tot en met 8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:8&z=2025-04-04&g=2025-04-04), [8:29 tot en met 8:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-04-04&g=2025-04-04), [8:52 tot en met 8:55](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&artikel=8:52&z=2025-04-04&g=2025-04-04), [8:56 tot en met 8:69](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04), [8:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:71&z=2025-04-04&g=2025-04-04), [8:74 tot en met 8:80](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-04-04&g=2025-04-04) en [8:81 tot en met 8:87](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:81&z=2025-04-04&g=2025-04-04) van overeenkomstige toepassing, met dien verstande dat [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing is indien de schade is veroorzaakt door een besluit als bedoeld in [artikel 26 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26).
+1. Op het verzoek en de behandeling daarvan zijn de [artikelen 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:6&z=2025-07-01&g=2025-07-01), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:14&z=2025-07-01&g=2025-07-01), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:15&z=2025-07-01&g=2025-07-01), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:17&z=2025-07-01&g=2025-07-01), [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:21&z=2025-07-01&g=2025-07-01), [6:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:24&z=2025-07-01&g=2025-07-01), [8:8 tot en met 8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:8&z=2025-07-01&g=2025-07-01), [8:29 tot en met 8:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.5&artikel=8:29&z=2025-07-01&g=2025-07-01), [8:52 tot en met 8:55](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.3&artikel=8:52&z=2025-07-01&g=2025-07-01), [8:56 tot en met 8:69](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01), [8:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:71&z=2025-07-01&g=2025-07-01), [8:74 tot en met 8:80](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.6&artikel=8:74&z=2025-07-01&g=2025-07-01) en [8:81 tot en met 8:87](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.3&artikel=8:81&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing is indien de schade is veroorzaakt door een besluit als bedoeld in [artikel 26 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26).
 
-2. In afwijking van het eerste lid is bij indiening van het verzoek overeenkomstig [artikel 8:91](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:91&z=2025-04-04&g=2025-04-04) geen griffierecht verschuldigd.
+2. In afwijking van het eerste lid is bij indiening van het verzoek overeenkomstig [artikel 8:91](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.4&artikel=8:91&z=2025-07-01&g=2025-07-01) geen griffierecht verschuldigd.
 
 ##### Artikel 8:95
 
@@ -8577,7 +8573,7 @@ De bestuursrechter kan door partijen verschafte gegevens en bescheiden buiten be
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
-De verzending van berichten door de griffier geschiedt langs elektronische weg, met uitzondering van de berichtgeving aan een partij als bedoeld in [artikel 8:36b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36b&z=2025-04-04&g=2025-04-04), die te kennen heeft gegeven deze op papier te willen ontvangen.
+De verzending van berichten door de griffier geschiedt langs elektronische weg, met uitzondering van de berichtgeving aan een partij als bedoeld in [artikel 8:36b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36b&z=2025-07-01&g=2025-07-01), die te kennen heeft gegeven deze op papier te willen ontvangen.
 
 ## Titel 8.2. Behandeling van het beroep in eerste aanleg
 
@@ -9081,13 +9077,13 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 1. Beroep wordt langs elektronische weg ingesteld.
 
-2. Partijen en andere betrokkenen dienen ook de overige stukken langs elektronische weg in, tenzij de bestuursrechter anders bepaalt. [Artikel 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:9&z=2025-04-04&g=2025-04-04) is van overeenkomstige toepassing.
+2. Partijen en andere betrokkenen dienen ook de overige stukken langs elektronische weg in, tenzij de bestuursrechter anders bepaalt. [Artikel 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&afdeling=6.2&artikel=6:9&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
 3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op het indienen van verzoeken en het doen van verzet.
 
-4. Het eerste lid is van overeenkomstige toepassing indien een bestuursorgaan een bezwaarschrift doorzendt op grond van [artikel 7:1a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-04-04&g=2025-04-04).
+4. Het eerste lid is van overeenkomstige toepassing indien een bestuursorgaan een bezwaarschrift doorzendt op grond van [artikel 7:1a, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1a&z=2025-07-01&g=2025-07-01).
 
-5. Indien niet is voldaan aan de verplichtingen die voortvloeien uit het eerste tot en met derde lid of de algemene maatregel van bestuur, bedoeld in [artikel 8:36f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36f&z=2025-04-04&g=2025-04-04), stelt de bestuursrechter de desbetreffende partij of andere betrokkene in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de partij of andere betrokkene van deze gelegenheid geen gebruik, dan kan het beroep niet-ontvankelijk worden verklaard dan wel kan de bestuursrechter het stuk buiten beschouwing laten.
+5. Indien niet is voldaan aan de verplichtingen die voortvloeien uit het eerste tot en met derde lid of de algemene maatregel van bestuur, bedoeld in [artikel 8:36f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36f&z=2025-07-01&g=2025-07-01), stelt de bestuursrechter de desbetreffende partij of andere betrokkene in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de partij of andere betrokkene van deze gelegenheid geen gebruik, dan kan het beroep niet-ontvankelijk worden verklaard dan wel kan de bestuursrechter het stuk buiten beschouwing laten.
 
 6. In afwijking van het vijfde lid kan de bestuursrechter bepalen dat de procedure wordt voortgezet volgens de regels die gelden voor stukkenwisseling op papier.
 
@@ -9099,7 +9095,7 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 1. De verplichting tot procederen langs elektronische weg geldt niet voor natuurlijke personen en voor verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte, tenzij zij worden vertegenwoordigd door een derde die beroepsmatig rechtsbijstand verleent.
 
-2. Bij algemene maatregel van bestuur kunnen andere uitzonderingen worden gemaakt op de verplichting tot stukkenwisseling langs elektronische weg bedoeld in [artikel 8:36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36a&z=2025-04-04&g=2025-04-04).
+2. Bij algemene maatregel van bestuur kunnen andere uitzonderingen worden gemaakt op de verplichting tot stukkenwisseling langs elektronische weg bedoeld in [artikel 8:36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.6a&artikel=8:36a&z=2025-07-01&g=2025-07-01).
 
 3. Indien een partij niet verplicht is langs elektronische weg te procederen en niet langs elektronische weg procedeert, dient zij de stukken in op papier. De griffier stelt stukken en mededelingen op papier, of indien deze partij dit wenst langs elektronische weg, aan hem ter beschikking en stelt de door deze partij ingediende stukken ter beschikking van de overige partijen.
 
@@ -9127,7 +9123,7 @@ Voor overige gevallen luidt het artikel als volgt:
 
 ##### Artikel 8:36d
 
-1. Waar in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&z=2025-04-04&g=2025-04-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&z=2025-04-04&g=2025-04-04) voor het verkeer met de bestuursrechter ondertekening is voorgeschreven is aan dit vereiste voldaan indien het stuk is ondertekend met een elektronische handtekening die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.
+1. Waar in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&z=2025-07-01&g=2025-07-01) voor het verkeer met de bestuursrechter ondertekening is voorgeschreven is aan dit vereiste voldaan indien het stuk is ondertekend met een elektronische handtekening die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.
 
 2. Een beroepschrift of verzoekschrift dat langs elektronische weg is ingediend in het digitale systeem voor gegevensverwerking van de bestuursrechter, geldt als ondertekend.
 
@@ -9135,15 +9131,15 @@ Voor overige gevallen luidt het artikel als volgt:
 
 De bestuursrechter kan bepalen dat een door of namens hem gemaakte beeld- of geluidsopname van een zakelijke samenvatting van:
 
-- a. het geven van inlichtingen bedoeld in [artikel 8:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:44&z=2025-04-04&g=2025-04-04),
+- a. het geven van inlichtingen bedoeld in [artikel 8:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:44&z=2025-07-01&g=2025-07-01),
 
-- b. het maken van mondelinge opmerkingen bedoeld in [artikel 8:45a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-04-04&g=2025-04-04),
+- b. het maken van mondelinge opmerkingen bedoeld in [artikel 8:45a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:45a&z=2025-07-01&g=2025-07-01),
 
-- c. het onderzoek ter plaatse bedoeld in de [artikelen 8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:50&z=2025-04-04&g=2025-04-04) en [8:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:51&z=2025-04-04&g=2025-04-04), en
+- c. het onderzoek ter plaatse bedoeld in de [artikelen 8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:50&z=2025-07-01&g=2025-07-01) en [8:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.2&artikel=8:51&z=2025-07-01&g=2025-07-01), en
 
-- d. de zitting bedoeld in [artikel 8:61](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-04-04&g=2025-04-04),
+- d. de zitting bedoeld in [artikel 8:61](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-07-01&g=2025-07-01),
 
-het proces-verbaal bedoeld in deze artikelen, dan wel de aantekening van het verhandelde ter zitting bedoeld in [artikel 8:61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-04-04&g=2025-04-04), vervangt.
+het proces-verbaal bedoeld in deze artikelen, dan wel de aantekening van het verhandelde ter zitting bedoeld in [artikel 8:61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:61&z=2025-07-01&g=2025-07-01), vervangt.
 
 ##### Artikel 8:36f
 
@@ -9549,7 +9545,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Bijlage 2. Bevoegdheidsregeling bestuursrechtspraak ([artikelen 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:5&z=2021-03-01&g=2021-03-01), [8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:6&z=2021-03-01&g=2021-03-01), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2021-03-01&g=2021-03-01), [8:105](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:105&z=2021-03-01&g=2021-03-01) en [8:106](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:106&z=2021-03-01&g=2021-03-01))
 
-### Hoofdstuk 2. Beroep in eerste aanleg bij een bijzondere bestuursrechter ([artikelen 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:4&z=2025-04-04&g=2025-04-04), en [8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:6&z=2025-04-04&g=2025-04-04))
+### Hoofdstuk 2. Beroep in eerste aanleg bij een bijzondere bestuursrechter ([artikelen 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:4&z=2025-07-01&g=2025-07-01), en [8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:6&z=2025-07-01&g=2025-07-01))
 
 ##### Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven
 
@@ -9893,9 +9889,9 @@ Tenzij bij wettelijk voorschrift anders is bepaald, kan een bestuursorgaan een g
 
 1. Een beschikking tot invordering van een dwangsom stuit de verjaring.
 
-2. Indien op de dag waarop de rechtsvordering verjaart een verzoek als bedoeld in [artikel 5:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&artikel=5:37&z=2025-04-04&g=2025-04-04), aanhangig is, wordt de verjaringstermijn verlengd tot onherroepelijk op het verzoek is beslist.
+2. Indien op de dag waarop de rechtsvordering verjaart een verzoek als bedoeld in [artikel 5:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&artikel=5:37&z=2025-07-01&g=2025-07-01), aanhangig is, wordt de verjaringstermijn verlengd tot onherroepelijk op het verzoek is beslist.
 
-3. Indien op de dag waarop de rechtsvordering verjaart bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de afwijzing van een verzoek als bedoeld in [artikel 5:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&artikel=5:37&z=2025-04-04&g=2025-04-04), of tegen het niet tijdig nemen van een beslissing op een zodanig verzoek, wordt de verjaringstermijn verlengd tot:
+3. Indien op de dag waarop de rechtsvordering verjaart bezwaar, beroep of hoger beroep openstaat of aanhangig is tegen de afwijzing van een verzoek als bedoeld in [artikel 5:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&artikel=5:37&z=2025-07-01&g=2025-07-01), of tegen het niet tijdig nemen van een beslissing op een zodanig verzoek, wordt de verjaringstermijn verlengd tot:
 
 - a. de termijn voor het maken van bezwaar of het instellen van beroep of hoger beroep ongebruikt is verstreken;
 
@@ -10581,7 +10577,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Het college kan degenen die schriftelijke opmerkingen hebben gemaakt, uitnodigen ter zitting te verschijnen teneinde over hun opmerkingen te worden gehoord.
 
-6. Indien het college toepassing geeft aan het vijfde lid, wordt daarvan aan partijen mededeling gedaan in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-04-04&g=2025-04-04).
+6. Indien het college toepassing geeft aan het vijfde lid, wordt daarvan aan partijen mededeling gedaan in de uitnodiging, bedoeld in [artikel 8:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.5&artikel=8:56&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 8.1.3. Verwijzing, voeging en splitsing
 
@@ -11083,7 +11079,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 9:36a
 
-Voor zover een aan de ombudsman gericht verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) betrekking heeft op door een bestuursorgaan verstrekte informatie ten behoeve van een onderzoek als bedoeld in [artikel 9:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:18&z=2025-04-04&g=2025-04-04), zendt de ombudsman het verzoek ter behandeling door aan het bestuursorgaan.
+Voor zover een aan de ombudsman gericht verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) betrekking heeft op door een bestuursorgaan verstrekte informatie ten behoeve van een onderzoek als bedoeld in [artikel 9:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9:18&z=2025-07-01&g=2025-07-01), zendt de ombudsman het verzoek ter behandeling door aan het bestuursorgaan.
 
 ### Hoofdstuk 10. Bepalingen over bestuursorganen
 
@@ -11615,7 +11611,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 3. Beroep in eerste aanleg bij een andere rechtbank ([artikel 8:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2023-08-01&g=2023-08-01))
 
-### Hoofdstuk 3. Beroep in eerste aanleg bij een andere rechtbank ([artikel 8:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-04-04&g=2025-04-04))
+### Hoofdstuk 3. Beroep in eerste aanleg bij een andere rechtbank ([artikel 8:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-07-01&g=2025-07-01))
 
 ##### Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven
 
@@ -12035,7 +12031,7 @@ De aanvraag bevat mede:
 
 ##### Artikel 4:129
 
-Indien het bestuursorgaan een vergoeding als bedoeld in [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-04-04&g=2025-04-04) toekent, vergoedt het tevens:
+Indien het bestuursorgaan een vergoeding als bedoeld in [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-07-01&g=2025-07-01) toekent, vergoedt het tevens:
 
 - a. redelijke kosten ter voorkoming of beperking van schade;
 
@@ -12109,7 +12105,7 @@ Indien het bestuursorgaan een vergoeding als bedoeld in [artikel 4:126](https://
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage 1. Regeling rechtstreeks beroep ([artikel 7:1, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2025-04-04&g=2025-04-04))
+## Bijlage 1. Regeling rechtstreeks beroep ([artikel 7:1, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2025-07-01&g=2025-07-01))
 
 Tegen een besluit, genomen op grond van een in deze regeling genoemd voorschrift dan wel anderszins in deze regeling omschreven, kan geen bezwaar worden gemaakt.
 
@@ -12231,7 +12227,7 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 
 - b. de [artikelen 5:77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:77), en [5:81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
 
-- c. een besluit terzake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
+- c. een besluit ter zake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
 
 - d. de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:1) en [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:2)
 
@@ -12239,9 +12235,9 @@ Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni
 
 [Wet tijdelijk huisverbod](https://wetten.overheid.nl/jci1.3:c:BWBR0024649)
 
-## Bijlage 2. Bevoegdheidsregeling bestuursrechtspraak ([artikelen 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:5&z=2025-04-04&g=2025-04-04), [8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:6&z=2025-04-04&g=2025-04-04), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-04-04&g=2025-04-04), [8:105](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:105&z=2025-04-04&g=2025-04-04) en [8:106](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:106&z=2025-04-04&g=2025-04-04))
+## Bijlage 2. Bevoegdheidsregeling bestuursrechtspraak ([artikelen 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:5&z=2025-07-01&g=2025-07-01), [8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:6&z=2025-07-01&g=2025-07-01), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8:7&z=2025-07-01&g=2025-07-01), [8:105](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:105&z=2025-07-01&g=2025-07-01) en [8:106](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:106&z=2025-07-01&g=2025-07-01))
 
-### Hoofdstuk 4. Hoger beroep ([artikelen 8:105](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:105&z=2025-04-04&g=2025-04-04) en [8:106, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:106&z=2025-04-04&g=2025-04-04))
+### Hoofdstuk 4. Hoger beroep ([artikelen 8:105](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:105&z=2025-07-01&g=2025-07-01) en [8:106, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:106&z=2025-07-01&g=2025-07-01))
 
 ##### Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven
 
@@ -12251,7 +12247,7 @@ Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een 
 
 [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898), [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.8)
 
-Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-04-04&g=2025-04-04), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 11 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
+Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-07-01&g=2025-07-01), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 11 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
 
 [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508): [artikel 9c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9c)
 
@@ -12373,7 +12369,7 @@ Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 
 
 - b. de [artikelen 5:77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:77), en [5:81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
 
-- c. een besluit terzake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
+- c. een besluit ter zake van het ingevolge [artikel 5:76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:76), of [5:80b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80b), bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 1:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80)
 
 - d. de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:1) en [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:2)
 
@@ -12413,7 +12409,7 @@ Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een 
 
 [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746): [artikel 8:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=8:2)
 
-Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-04-04&g=2025-04-04), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 12 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
+Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4&titeldeel=4.5&artikel=4:126&z=2025-07-01&g=2025-07-01), voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 12 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
 
 [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320): [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26)
 
@@ -12421,11 +12417,11 @@ Algemene wet bestuursrecht: [artikel 4:126](https://wetten.overheid.nl/jci1.3:c:
 
 [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545): [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=18)
 
-## Bijlage 3. Regeling verlaagd griffierecht ([artikelen 8:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04) en [8:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-04-04&g=2025-04-04))
+## Bijlage 3. Regeling verlaagd griffierecht ([artikelen 8:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01) en [8:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-07-01&g=2025-07-01))
 
 ##### Artikel 1
 
-Het tarief, genoemd in [artikel 8:41, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), dan wel genoemd in [artikel 8:109, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-04-04&g=2025-04-04), geldt indien het beroep, dan wel hoger beroep, betreft:
+Het tarief, genoemd in [artikel 8:41, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), dan wel genoemd in [artikel 8:109, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-07-01&g=2025-07-01), geldt indien het beroep, dan wel hoger beroep, betreft:
 
 - a. een besluit inzake een uitkering bij werkloosheid of ziekte, genomen ten aanzien van een persoon met betrekking tot diens in [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) bedoelde hoedanigheid;
 
@@ -12437,7 +12433,7 @@ Het tarief, genoemd in [artikel 8:41, tweede lid, onderdeel a](https://wetten.ov
 
 ##### Artikel 2
 
-Het tarief, genoemd in [artikel 8:41, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-04-04&g=2025-04-04), dan wel genoemd in [artikel 8:109, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-04-04&g=2025-04-04), geldt voorts indien het beroep, dan wel hoger beroep, betreft een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven.
+Het tarief, genoemd in [artikel 8:41, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.2&afdeling=8.2.1&artikel=8:41&z=2025-07-01&g=2025-07-01), dan wel genoemd in [artikel 8:109, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8&titeldeel=8.5&artikel=8:109&z=2025-07-01&g=2025-07-01), geldt voorts indien het beroep, dan wel hoger beroep, betreft een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven.
 
 De volgende besluiten:
 
