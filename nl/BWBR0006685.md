@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2024-06-27"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -47,9 +47,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Veiligheid en Justitie;
+- a. Onze Minister: Onze Minister van Asiel en Migratie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2024-06-27&g=2024-06-27);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -103,7 +103,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -115,9 +115,7 @@ Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.n
 
 ##### Artikel 6
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van het verstrekken van subsidies door het COA aan gemeenten ten behoeve van kosten, verband houdende met de opvang van asielzoekers door het COA.
-
-2. In deze algemene maatregel van bestuur kunnen tevens regels worden gesteld over de wijze waarop gemeenten dergelijke subsidies kunnen aanvragen.
+Bij regeling van Onze Minister kunnen regels worden gesteld over een specifieke uitkering aan gemeenten ten behoeve van kosten verband houdende met de opvang van asielzoekers.
 
 ##### Artikel 7
 
@@ -139,9 +137,9 @@ Het COA heeft een bestuur.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01).
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
@@ -179,7 +177,7 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 
 ##### Artikel 16
 
-1. Onze Minister verstrekt het COA een subsidie voor de uitvoering van de opgedragen taken ten laste van de begroting van het Ministerie van Veiligheid en Justitie.
+1. Onze Minister verstrekt het COA een subsidie voor de uitvoering van de opgedragen taken ten laste van de begroting van het Ministerie van Asiel en Migratie.
 
 2. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) op de subsidie van toepassing.
 
@@ -335,7 +333,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 21a
 
-1. Met ingang van het tijdstip waarop de [Tijdelijke wet opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0049876) vervalt, vervalt onder vervanging van de puntkomma aan het slot van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=1&artikel=1&z=2024-06-27&g=2024-06-27), door een punt, onderdeel f, en vervalt in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27) het vierde lid.
+1. Met ingang van het tijdstip waarop de [Tijdelijke wet opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0049876) vervalt, vervalt onder vervanging van de puntkomma aan het slot van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), door een punt, onderdeel f, en vervalt in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) het vierde lid.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
