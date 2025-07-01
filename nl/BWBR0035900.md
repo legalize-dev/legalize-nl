@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -112,6 +112,8 @@ In deze regeling wordt verstaan onder:
 
 3. Er wordt uitsluitend buiten de daglichtperiode gevlogen gedurende de periode dat dit noodzakelijk is voor het doel van de vlucht.
 
+4. Het eerste lid, onderdeel a, is niet van toepassing op vluchten als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.7&z=2025-07-01&g=2025-07-01).
+
 ##### Artikel 2.3. Luchtvaartuiglichten
 
 Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, indien door het doel van de vlucht niet kan worden voldaan aan het gestelde bij of krachtens paragraaf SERA.3215 van verordening (EU) nr. 923/2012:
@@ -126,7 +128,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2025-07-01&g=2025-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -309,6 +311,30 @@ Het uitwerpen van voorwerpen of stoffen uit het luchtvaartuig tijdens een SAR-vl
 - b. de gezagvoerder heeft tijdens het uitwerpen van voorwerpen of stoffen voortdurend zicht op het water of op de grond;
 
 - c. de gezagvoerder draagt ervoor zorg, dat overig luchtverkeer en personen geen hinder ondervinden van het uitwerpen van voorwerpen of stoffen, en zaken op het water of op de grond niet worden beschadigd.
+
+### Hoofdstuk 3. Zichtvliegvoorschriften
+
+### Hoofdstuk 4. Minimumvlieghoogte
+
+### Hoofdstuk 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.7. Transponder
+
+Het uitvoeren van een politievlucht of kustwachtvlucht zonder geactiveerde Mode S SSR-transponder als bedoeld in paragraaf SERA.6005 van [verordening (EU) nr. 923/2012](32012R0923) is toegestaan gedurende de periode waarin dit noodzakelijk is voor het doel van de vlucht, indien wordt voldaan aan de volgende voorschriften:
+
+- a. de noodzaak van het uitvoeren van de vlucht blijkt uit een dienstopdracht;
+
+- b. de vlucht is vooraf afgestemd met de betrokken luchtverkeersdienst of -diensten, die voorwaarden kan of kunnen stellen ten aanzien van te volgen procedures;
+
+- c. in het vliegplan is melding gedaan van het voornemen tijdens de vlucht, of een deel daarvan, de SSR-transponder uit te zetten;
+
+- d. de vlucht wordt uitgevoerd in overeenstemming met de eisen inzake vliegzicht in paragraaf SERA.5001 en paragraaf SERA.5005 van [verordening (EU) nr. 923/2012](32012R0923);
+
+- e. voor het uitvoeren van de vlucht is een tweezijdige radioverbinding tot stand gebracht met de betrokken luchtverkeersdienst en wordt voortdurend op de aangewezen radiofrequentie geluisterd;
+
+- f. de luchtverkeersdienst kan te allen tijde de gezagvoerder opdragen de SSR-transponder te activeren, indien een veilige uitvoering van de vlucht dat vereist.
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
