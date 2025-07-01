@@ -4,7 +4,7 @@ identifier: "BWBR0008999"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "2021-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008999"
 soort: "wet"
@@ -116,11 +116,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het bij of krachtens deze wet bepaalde is, met uitzondering van [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&z=2021-07-01&g=2021-07-01), van toepassing op een schip dat niet gerechtigd is op grond van Nederlandse rechtsregels de vlag van het Koninkrijk te voeren, en dat, met uitzondering van de situaties, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2021-07-01&g=2021-07-01) en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=12&z=2021-07-01&g=2021-07-01), een haven aandoet om een schip/havenraakvlak te verrichten.
+1. Het bij of krachtens deze wet bepaalde is, met uitzondering van [hoofdstuk Va](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&z=2025-07-01&g=2025-07-01), van toepassing op een schip dat niet gerechtigd is op grond van voor Nederland geldende rechtsregels de vlag van het Koninkrijk te voeren, en dat, met uitzondering van de situaties, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2025-07-01&g=2025-07-01) en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=12&z=2025-07-01&g=2025-07-01), een haven aandoet om een schip/havenraakvlak te verrichten.
 
-2. Het bij of krachtens deze wet bepaalde is, met uitzondering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2021-07-01&g=2021-07-01) en [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Vb&z=2021-07-01&g=2021-07-01), van toepassing op een schip dat niet gerechtigd is op grond van Nederlandse rechtsregels de vlag van het Koninkrijk te voeren, en dat een haven gelegen in Bonaire, Sint Eustatius of Saba aandoet om een schip/havenraakvlak te verrichten.
+2. Het bij of krachtens deze wet bepaalde is, met uitzondering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2025-07-01&g=2025-07-01) en [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Vb&z=2025-07-01&g=2025-07-01), van toepassing op een schip dat niet gerechtigd is op grond van voor Nederland geldende rechtsregels de vlag van het Koninkrijk te voeren, en dat een haven gelegen in Bonaire, Sint Eustatius of Saba aandoet om een schip/havenraakvlak te verrichten.
 
-3. Bij ministeriële regeling gestelde regels op grond van [artikel 26a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VII&artikel=26a&z=2021-07-01&g=2021-07-01), en [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IX&artikel=30&z=2021-07-01&g=2021-07-01) zijn slechts van toepassing op schepen als bedoeld in het tweede lid voor zover dat bij die regeling is bepaald.
+3. Bij ministeriële regeling gestelde regels op grond van [artikel 26a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VII&artikel=26a&z=2025-07-01&g=2025-07-01), en [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IX&artikel=30&z=2025-07-01&g=2025-07-01) zijn slechts van toepassing op schepen als bedoeld in het tweede lid voor zover dat bij die regeling is bepaald.
 
 4. Het bij of krachtens deze wet bepaalde is niet van toepassing op oorlogsschepen, marinehulpschepen of andere schepen die in gebruik zijn voor de uitvoering van de militaire taak, houten schepen van primitieve bouw en voor andere dan handelsdoeleinden gebruikte overheidsschepen en pleziervaartuigen.
 
@@ -142,11 +142,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01) niet van toepassing is, kan een ambtenaar van de Inspectie Leefomgeving en Transport een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een inspectie, meer gedetailleerde inspectie of een uitgebreide inspectie, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
+Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01) niet van toepassing is, kan een ambtenaar van de Inspectie Leefomgeving en Transport een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een inspectie, meer gedetailleerde inspectie of een uitgebreide inspectie, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, waaraan de ambtenaren, bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2021-07-01&g=2021-07-01), moeten voldoen en over de wijze waarop die ambtenaren hun taak ingevolge deze wet uitoefenen.
+1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, waaraan de ambtenaren, bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), moeten voldoen en over de wijze waarop die ambtenaren hun taak ingevolge deze wet uitoefenen.
 
 2. In de regeling worden ten minste regels gesteld betreffende:
 
@@ -164,7 +164,7 @@ Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=
 
 - g. te controleren certificaten en andere documenten,
 
-- h. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01),
+- h. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01),
 
 - i. de in acht te nemen procedures en richtsnoeren bij een inspectie, een meer gedetailleerde inspectie en een uitgebreide inspectie.
 
@@ -196,11 +196,11 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 3. Het eerste lid, onder c, is niet van toepassing op de aanhouding van vissersvaartuigen, met dien verstande dat onbekendheid met operationele voorschriften een aanhoudingsgrond voor vissersvaartuigen kan vormen, voorzover de verdragen dat toestaan.
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een schip als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2021-07-01&g=2021-07-01).
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een schip als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 7a
 
-[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2021-07-01&g=2021-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01) bedoelde bevoegdheid.
+[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01) bedoelde bevoegdheid.
 
 ##### Artikel 8
 
@@ -212,11 +212,11 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 ##### Artikel 9
 
-1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd of indien het gebrek, bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar van de Inspectie Leefomgeving en Transport het schip toestaan naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Leefomgeving en Transport gekozen geschikte reparatiewerf te vertrekken. Indien de reparatiewerf zich buiten Nederland bevindt, geschiedt dit onder door de bevoegde autoriteit van de vlaggenstaat vastgestelde en door de ambtenaar van de Inspectie Leefomgeving en Transport goedgekeurde voorwaarden.
+1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd of indien het gebrek, bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar van de Inspectie Leefomgeving en Transport het schip toestaan naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Leefomgeving en Transport gekozen geschikte reparatiewerf te vertrekken. Indien de reparatiewerf zich buiten Nederland bevindt, geschiedt dit onder door de bevoegde autoriteit van de vlaggenstaat vastgestelde en door de ambtenaar van de Inspectie Leefomgeving en Transport goedgekeurde voorwaarden.
 
 2. Indien de reparatiewerf, bedoeld in het eerste lid, zich buiten Nederland bevindt, stelt de ambtenaar van de Inspectie Leefomgeving en Transport de bevoegde instantie van de staat waar de reparatiewerf zich bevindt en de administratie van de desbetreffende vlaggenstaat, of de consul, of bij zijn afwezigheid de dichtstbijzijnde diplomatieke vertegenwoordiger alsmede de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de klassecertificaten of de wettelijk voorgeschreven certificaten die overeenkomstig de verdragen worden afgegeven, in kennis van de voorwaarden, bedoeld in het eerste lid.
 
-3. Indien het gebrek, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar in plaats van het schip op grond van het eerste lid toe te staan naar de dichtstbijzijnde reparatiewerf te vertrekken, verlangen dat dit gebrek wordt verholpen binnen een termijn van ten hoogste dertig dagen.
+3. Indien het gebrek, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar in plaats van het schip op grond van het eerste lid toe te staan naar de dichtstbijzijnde reparatiewerf te vertrekken, verlangen dat dit gebrek wordt verholpen binnen een termijn van ten hoogste dertig dagen.
 
 4. Om havencongestie te voorkomen kan de ambtenaar van de Inspectie Leefomgeving en Transport op verzoek van de havenbeheerder toestemming verlenen om een aangehouden schip naar een ander deel van de haven te verplaatsen indien dat op een veilige manier kan gebeuren.
 
@@ -226,13 +226,13 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 2. Een ambtenaar van de Inspectie Leefomgeving en Transport heft de aanhouding op indien:
 
-- a. de redenen, genoemd in [artikel 7, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), niet van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01), mag vertrekken; en
+- a. de redenen, genoemd in [artikel 7, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01), niet van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2025-07-01&g=2025-07-01), mag vertrekken; en
 
-- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2021-07-01&g=2021-07-01), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
+- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2025-07-01&g=2025-07-01), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
 
 3. In afwijking van [artikel 3:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) geschiedt de bekendmaking van het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding door uitreiking van dit besluit aan de kapitein.
 
-4. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=8&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
+4. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=8&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Weigering van toegang tot een haven
 
@@ -250,7 +250,7 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 4. De havenbeheerder weigert een schip permanent de toegang tot een haven indien:
 
-- a. een schip 24 maanden na de uitvaardiging van de weigering van toegang als bedoeld in [artikel 11a, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2021-07-01&g=2021-07-01), niet voldoet aan de voorwaarden, bedoeld in artikel 11a, vierde lid, of
+- a. een schip 24 maanden na de uitvaardiging van de weigering van toegang als bedoeld in [artikel 11a, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2025-07-01&g=2025-07-01), niet voldoet aan de voorwaarden, bedoeld in artikel 11a, vierde lid, of
 
 - b. een schip is aangehouden in een haven in een lidstaat en deze aanhouding volgt op een derde weigering van toegang.
 
@@ -260,13 +260,13 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 ##### Artikel 12
 
-1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2021-07-01&g=2021-07-01).
+1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2025-07-01&g=2025-07-01).
 
 2. Zolang een schip de toegang tot een haven wordt geweigerd, is het de kapitein verboden het schip die haven te doen binnenvaren.
 
 3. De kapitein van een aangehouden schip is verplicht dat schip na de aanhouding ligplaats te doen nemen op een door een ambtenaar van de Inspectie Leefomgeving en Transport in overeenstemming met de havenbeheerder aan te wijzen plaats.
 
-4. Indien het de kapitein van een schip op grond van [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), is toegestaan een schip de haven binnen te varen, is het de kapitein en de exploitant verboden ladinghandelingen uit te voeren totdat het besluit, bedoeld in artikel 11, tweede lid, is ingetrokken.
+4. Indien het de kapitein van een schip op grond van [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), is toegestaan een schip de haven binnen te varen, is het de kapitein en de exploitant verboden ladinghandelingen uit te voeren totdat het besluit, bedoeld in artikel 11, tweede lid, is ingetrokken.
 
 ##### Artikel 13
 
@@ -282,13 +282,13 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 1. Indien een schip, met uitzondering van een vissersvaartuig, is aangehouden, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding:
 
-- a. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2021-07-01&g=2021-07-01), die tot de aanhouding heeft geleid,
+- a. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2025-07-01&g=2025-07-01), die tot de aanhouding heeft geleid,
 
-- b. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2021-07-01&g=2021-07-01), die tot de opheffing daarvan heeft geleid, en
+- b. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2025-07-01&g=2025-07-01), die tot de opheffing daarvan heeft geleid, en
 
 - c. voor alle kosten in verband met de aanhouding in de haven.
 
-2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het besluit, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), wordt ingetrokken dan wel het schip op grond van [artikel 11b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2021-07-01&g=2021-07-01), kan worden toegelaten, betaalt de exploitant van dat schip aan Onze Minister een vergoeding voor de kosten van deze inspectie.
+2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het besluit, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), wordt ingetrokken dan wel het schip op grond van [artikel 11b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2025-07-01&g=2025-07-01), kan worden toegelaten, betaalt de exploitant van dat schip aan Onze Minister een vergoeding voor de kosten van deze inspectie.
 
 3. Bij ministeriële regeling worden de tarieven vastgesteld voor de vergoedingen, bedoeld in het eerste en het tweede lid.
 
@@ -302,17 +302,17 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 ##### Artikel 16
 
-Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2021-07-01&g=2021-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2021-07-01&g=2021-07-01) en de [artikelen 14g](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14g&z=2021-07-01&g=2021-07-01)en [14h](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14h&z=2021-07-01&g=2021-07-01) zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport, alsmede de bij besluit van Onze Minister aangewezen ambtenaren of andere personen.
+Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2025-07-01&g=2025-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2025-07-01&g=2025-07-01) en de [artikelen 14g](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14g&z=2025-07-01&g=2025-07-01)en [14h](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14h&z=2025-07-01&g=2025-07-01) zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport, alsmede de bij besluit van Onze Minister aangewezen ambtenaren of andere personen.
 
 ##### Artikel 17
 
-1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), zijn van overeenkomstige toepassing op een ambtenaar van de Inspectie Leefomgeving en Transport bij de uitoefening van taken, verband houdende met de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2021-07-01&g=2021-07-01).
+1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), zijn van overeenkomstige toepassing op een ambtenaar van de Inspectie Leefomgeving en Transport bij de uitoefening van taken, verband houdende met de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2025-07-01&g=2025-07-01).
 
 2. Een ambtenaar van de Inspectie Leefomgeving en Transport draagt, voorzover nodig in afwijking van [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), een legitimatiebewijs bij zich, overeenkomstig het model, bedoeld in artikel 22, vierde lid, van de richtlijn.
 
 ##### Artikel 18
 
-1. Een ambtenaar van de Inspectie Leefomgeving en Transport en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2021-07-01&g=2021-07-01), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
+1. Een ambtenaar van de Inspectie Leefomgeving en Transport en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2025-07-01&g=2025-07-01), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
 
 2. Op het binnentreden van woongedeelten van een schip dat een haven gelegen in Bonaire, Sint Eustatius of Saba aandoet is tevens [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
 
@@ -368,7 +368,7 @@ Vervallen
 
 ##### Artikel 29
 
-Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2021-07-01&g=2021-07-01) en met inachtneming van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn regels gesteld inzake de instanties:
+Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2025-07-01&g=2025-07-01) en met inachtneming van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn regels gesteld inzake de instanties:
 
 - a. met wie en op welke wijze een ambtenaar van de Inspectie Leefomgeving en Transport overleg moet voeren, dan wel door wie en op welke wijze met hem overleg moet worden gevoerd; of
 
@@ -382,11 +382,11 @@ Ter uitvoering van internationale afspraken of besluiten van volkenrechtelijke o
 
 ##### Artikel 31
 
-1. Een wijziging van bijlage X van de richtlijn, van het model bedoeld in artikel 22, vierde lid, van de richtlijn of van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn, gaat voor de toepassing van de [artikelen 7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=17&z=2021-07-01&g=2021-07-01), en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=29&z=2021-07-01&g=2021-07-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van bijlage X van de richtlijn, van het model bedoeld in artikel 22, vierde lid, van de richtlijn of van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn, gaat voor de toepassing van de [artikelen 7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=17&z=2025-07-01&g=2025-07-01), en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=29&z=2025-07-01&g=2025-07-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Een wijziging van de verdragen gaat voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2021-07-01&g=2021-07-01), [7, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2021-07-01&g=2021-07-01), [11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2021-07-01&g=2021-07-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14a&z=2021-07-01&g=2021-07-01) en [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2021-07-01&g=2021-07-01) gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
+2. Een wijziging van de verdragen gaat voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2025-07-01&g=2025-07-01), [7, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2025-07-01&g=2025-07-01), [11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2025-07-01&g=2025-07-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14a&z=2025-07-01&g=2025-07-01) en [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2025-07-01&g=2025-07-01) gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
 
-3. Een wijziging van de CCSS-Code of de SCV-Code gaat voor de toepassing van [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14a&z=2021-07-01&g=2021-07-01), gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
+3. Een wijziging van de CCSS-Code of de SCV-Code gaat voor de toepassing van [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14a&z=2025-07-01&g=2025-07-01), gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
 
 ##### Artikel 32
 
@@ -396,11 +396,11 @@ Vervallen
 
 ##### Artikel 33
 
-1. Overtreding van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=12&z=2021-07-01&g=2021-07-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. Overtreding van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=12&z=2025-07-01&g=2025-07-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Overtreding van [artikel 14g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14g&z=2021-07-01&g=2021-07-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+2. Overtreding van [artikel 14g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14g&z=2025-07-01&g=2025-07-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
 
-3. Overtreding van [artikel 14h](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14h&z=2021-07-01&g=2021-07-01), eerste en tweede lid, wordt gestraft met een geldboete van de derde categorie, [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+3. Overtreding van [artikel 14h](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14h&z=2025-07-01&g=2025-07-01), eerste en tweede lid, wordt gestraft met een geldboete van de derde categorie, [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
 
 4. De in het eerste tot en met derde lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -434,13 +434,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 11a
 
-1. Onze Minister neemt een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), indien:
+1. Onze Minister neemt een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), indien:
 
-- a. de derde aanhouding, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), plaatsvindt in een haven,
+- a. de derde aanhouding, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), plaatsvindt in een haven,
 
-- b. de aanhouding, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), plaatsvindt in een haven, of
+- b. de aanhouding, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), plaatsvindt in een haven, of
 
-- c. de aanhouding, bedoeld in [artikel 11, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01), plaatsvindt in een haven, waarbij tevens wordt meegedeeld dat de weigering van toegang van het schip tot alle havens van de lidstaten permanent is.
+- c. de aanhouding, bedoeld in [artikel 11, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01), plaatsvindt in een haven, waarbij tevens wordt meegedeeld dat de weigering van toegang van het schip tot alle havens van de lidstaten permanent is.
 
 2. Onze Minister trekt het besluit, bedoeld in het eerste lid, aanhef en onder a, in indien een periode van drie maanden is verstreken na de bekendmaking van dit besluit en wordt voldaan aan de punten 3 tot en met 9 van bijlage VIII van de richtlijn.
 
@@ -474,7 +474,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 11c
 
-In afwijking van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2021-07-01&g=2021-07-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2021-07-01&g=2021-07-01) kan de havenbeheerder in overeenstemming met Onze Minister een schip in de haven toelaten in geval van overmacht, prevalerende veiligheidsredenen of om het gevaar van vervuiling te beperken of te minimaliseren of tekortkomingen te verhelpen, mits de kapitein of de exploitant naar het oordeel van de havenbeheerder afdoende maatregelen voor een veilige binnenkomst heeft genomen.
+In afwijking van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2025-07-01&g=2025-07-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2025-07-01&g=2025-07-01) kan de havenbeheerder in overeenstemming met Onze Minister een schip in de haven toelaten in geval van overmacht, prevalerende veiligheidsredenen of om het gevaar van vervuiling te beperken of te minimaliseren of tekortkomingen te verhelpen, mits de kapitein of de exploitant naar het oordeel van de havenbeheerder afdoende maatregelen voor een veilige binnenkomst heeft genomen.
 
 ### Hoofdstuk V. Verplichtingen en verboden kapitein, exploitant, betrokken ambtenaren en registerloodsen
 
@@ -558,11 +558,11 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 ##### Artikel 14e
 
-1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd of indien de tekortkoming, bedoeld in [artikel 14c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2021-07-01&g=2021-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar van de Inspectie Leefomgeving en Transport het schip toestaan naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Leefomgeving en Transport gekozen geschikte reparatiewerf te vertrekken. Indien de reparatiewerf zich buiten Bonaire, Sint Eustatius of Saba bevindt, geschiedt dit onder door de bevoegde autoriteit van de vlaggenstaat vastgestelde en door de ambtenaar van de Inspectie Leefomgeving en Transport goedgekeurde voorwaarden.
+1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd of indien de tekortkoming, bedoeld in [artikel 14c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2025-07-01&g=2025-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar van de Inspectie Leefomgeving en Transport het schip toestaan naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Leefomgeving en Transport gekozen geschikte reparatiewerf te vertrekken. Indien de reparatiewerf zich buiten Bonaire, Sint Eustatius of Saba bevindt, geschiedt dit onder door de bevoegde autoriteit van de vlaggenstaat vastgestelde en door de ambtenaar van de Inspectie Leefomgeving en Transport goedgekeurde voorwaarden.
 
 2. Indien de reparatiewerf, bedoeld in het eerste lid, zich buiten Bonaire, Sint Eustatius of Saba bevindt, stelt de ambtenaar van de Inspectie Leefomgeving en Transport de bevoegde instantie van de staat waar de reparatiewerf zich bevindt en de administratie van de desbetreffende vlaggenstaat, of de consul, of bij zijn afwezigheid de dichtstbijzijnde diplomatieke vertegenwoordiger alsmede de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de klassecertificaten of de wettelijk voorgeschreven certificaten die overeenkomstig de verdragen worden afgegeven, in kennis van de voorwaarden, bedoeld in het eerste lid.
 
-3. Indien de tekortkoming, bedoeld in [artikel 14c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2021-07-01&g=2021-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar in plaats van het schip op grond van het eerste lid toe te staan naar de dichtstbijzijnde reparatiewerf te vertrekken, verlangen dat deze tekortkoming wordt verholpen binnen een termijn van ten hoogste dertig dagen.
+3. Indien de tekortkoming, bedoeld in [artikel 14c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2025-07-01&g=2025-07-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar in plaats van het schip op grond van het eerste lid toe te staan naar de dichtstbijzijnde reparatiewerf te vertrekken, verlangen dat deze tekortkoming wordt verholpen binnen een termijn van ten hoogste dertig dagen.
 
 4. Om havencongestie te voorkomen kan de ambtenaar van de Inspectie Leefomgeving en Transport op verzoek van de havenbeheerder toestemming verlenen om een aangehouden schip naar een ander deel van de haven te verplaatsen indien dat op een veilige manier kan gebeuren.
 
@@ -574,19 +574,19 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 2. Een ambtenaar van de Inspectie Leefomgeving en Transport heft de aanhouding op indien:
 
-- a. de redenen, genoemd in [artikel 14c, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2021-07-01&g=2021-07-01), niet meer van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 14e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14e&z=2021-07-01&g=2021-07-01), mag vertrekken; en
+- a. de redenen, genoemd in [artikel 14c, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14c&z=2025-07-01&g=2025-07-01), niet meer van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 14e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14e&z=2025-07-01&g=2025-07-01), mag vertrekken; en
 
-- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14i&z=2021-07-01&g=2021-07-01), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
+- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14i&z=2025-07-01&g=2025-07-01), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
 
 3. De bekendmaking van het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding geschiedt door uitreiking van dit besluit aan de kapitein.
 
-4. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 14d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14d&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing.
+4. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 14d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14d&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 #### Verplichtingen en verboden kapitein, exploitant, betrokken ambtenaren en loodsen
 
 ##### Artikel 14g
 
-1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 14e, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14e&z=2021-07-01&g=2021-07-01).
+1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 14e, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=Va&artikel=14e&z=2025-07-01&g=2025-07-01).
 
 2. Zolang een schip de toegang tot een haven wordt geweigerd, is het de kapitein verboden het schip die haven te doen binnenvaren.
 
@@ -618,9 +618,9 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport zet een activiteit stop
 
 ##### Artikel 14j
 
-1. Onverminderd het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), kan een schip dat niet gerechtigd is op grond van Nederlandse rechtsregels de vlag van het Koninkrijk te voeren in een Nederlandse haven worden onderworpen aan een controle door een ambtenaar van de Inspectie Leefomgeving en Transport.
+1. Onverminderd het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01), kan een schip dat niet gerechtigd is op grond van voor Nederland geldende rechtsregels de vlag van het Koninkrijk te voeren in een Nederlandse haven worden onderworpen aan een controle door een ambtenaar van de Inspectie Leefomgeving en Transport.
 
-2. De [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing op een controle als bedoeld in het eerste lid.
+2. De [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een controle als bedoeld in het eerste lid.
 
 ### Hoofdstuk VII. Beroep en klachten
 
