@@ -4,7 +4,7 @@ identifier: "BWBR0002565"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2025-06-28"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002565"
 soort: "wet"
@@ -253,11 +253,11 @@ Vanaf het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl
 
 - a. vereniging die op dat tijdstip bestaat en niet een coöperatieve vereniging of onderlinge waarborgmaatschappij is;
 
-- b. rechtspersoon die vanaf dat tijdstip ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=48&z=2025-06-28&g=2025-06-28) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=49&z=2025-06-28&g=2025-06-28) een onderlinge waarborgmaatschappij is;
+- b. rechtspersoon die vanaf dat tijdstip ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=48&z=2025-07-01&g=2025-07-01) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=49&z=2025-07-01&g=2025-07-01) een onderlinge waarborgmaatschappij is;
 
 - c. stichting die op dat tijdstip bestaat en is ingeschreven in het openbaar centraal register bedoeld in artikel 7 lid 1 van de Wet op stichtingen;
 
-- d. rechtspersoon die vanaf dat tijdstip ingevolge de [artikelen 53-56](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=53&z=2025-06-28&g=2025-06-28) of [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=58&z=2025-06-28&g=2025-06-28) een stichting is.
+- d. rechtspersoon die vanaf dat tijdstip ingevolge de [artikelen 53-56](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=53&z=2025-07-01&g=2025-07-01) of [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=58&z=2025-07-01&g=2025-07-01) een stichting is.
 
 ##### Artikel 32
 
@@ -333,9 +333,9 @@ Op de coöperatieve vereniging die op het tijdstip van in werking treden van [Bo
 
 ##### Artikel 44
 
-1. Op de coöperatieve vereniging of onderlinge waarborgmaatschappij die op het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) niet de letters W.A. of U.A. in haar naam voert blijft, totdat zij haar naam overeenkomstig [artikel 42 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=42&z=2025-06-28&g=2025-06-28) heeft gewijzigd, het voor dat tijdstip geldende recht betreffende de aansprakelijkheid van de leden en de oud-leden van toepassing.
+1. Op de coöperatieve vereniging of onderlinge waarborgmaatschappij die op het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) niet de letters W.A. of U.A. in haar naam voert blijft, totdat zij haar naam overeenkomstig [artikel 42 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=42&z=2025-07-01&g=2025-07-01) heeft gewijzigd, het voor dat tijdstip geldende recht betreffende de aansprakelijkheid van de leden en de oud-leden van toepassing.
 
-2. Wordt de vereniging ontbonden of failliet verklaard nadat drie jaren sedert het in werking treden van deze wet zijn verlopen en voordat zij haar naam overeenkomstig [artikel 42 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=42&z=2025-06-28&g=2025-06-28) heeft gewijzigd, dan is [artikel 55 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=55) van toepassing op de aansprakelijkheid van de leden en de oud-leden tegenover de vereffenaars.
+2. Wordt de vereniging ontbonden of failliet verklaard nadat drie jaren sedert het in werking treden van deze wet zijn verlopen en voordat zij haar naam overeenkomstig [artikel 42 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=42&z=2025-07-01&g=2025-07-01) heeft gewijzigd, dan is [artikel 55 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=55) van toepassing op de aansprakelijkheid van de leden en de oud-leden tegenover de vereffenaars.
 
 ##### Artikel 45
 
@@ -397,7 +397,7 @@ Het fonds waarop van toepassing is de [Wet tot invoering van een leeftijdsgrens 
 
 ##### Artikel 57
 
-1. Ontbreekt een notariële akte van oprichting van een in de [artikelen 53-56](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=53&z=2025-06-28&g=2025-06-28) genoemde stichting, dan wel van een kerkelijke stichting of voldoet die akte niet aan de vereisten van [artikel 286 lid 2, eerste en derde zin, en de leden 3 en 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286), dan is het bestuur verplicht alsnog een notariële akte te doen verlijden die aan deze vereisten voldoet. Een authentiek afschrift van deze akte moet door het bestuur worden neergelegd ten kantore van het register bedoeld in [artikel 289 lid 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=289).
+1. Ontbreekt een notariële akte van oprichting van een in de [artikelen 53-56](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=53&z=2025-07-01&g=2025-07-01) genoemde stichting, dan wel van een kerkelijke stichting of voldoet die akte niet aan de vereisten van [artikel 286 lid 2, eerste en derde zin, en de leden 3 en 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286), dan is het bestuur verplicht alsnog een notariële akte te doen verlijden die aan deze vereisten voldoet. Een authentiek afschrift van deze akte moet door het bestuur worden neergelegd ten kantore van het register bedoeld in [artikel 289 lid 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=289).
 
 2. Iedere bestuurder is voor een rechtshandeling, waardoor hij een zodanige stichting verbindt, naast de stichting hoofdelijk aansprakelijk, indien de rechtshandeling wordt verricht nadat drie jaren sedert het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) zijn verstreken en voordat aan het eerste lid is voldaan.
 
@@ -411,7 +411,7 @@ Het fonds waarop van toepassing is de [Wet tot invoering van een leeftijdsgrens 
 
 3. De notaris verlijdt deze akte niet voordat Onze Minister van Onderwijs en Wetenschappen heeft verklaard geen bezwaar te hebben tegen de in de akte op te nemen statuten.
 
-4. De akte moet voldoen aan de vereisten van [artikel 286, lid 2, eerste en derde zin, en de leden 3 en 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286). De tweede zin van [artikel 57, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-06-28&g=2025-06-28), en de leden 2 en 3 van dat artikel zijn van overeenkomstige toepassing.
+4. De akte moet voldoen aan de vereisten van [artikel 286, lid 2, eerste en derde zin, en de leden 3 en 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286). De tweede zin van [artikel 57, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-07-01&g=2025-07-01), en de leden 2 en 3 van dat artikel zijn van overeenkomstige toepassing.
 
 5. Totdat aan de verplichting van het tweede lid is voldaan blijven op de stichting van toepassing de in het eerste lid genoemde Koninklijke besluiten, met uitzondering, voor zover op bestuurders betrekking hebbend, van artikel 1, tweede zin, artikel 15, tweede lid, en artikel 26 van het Koninklijk besluit van 2 december 1823.
 
@@ -421,11 +421,11 @@ Bij de inschrijving in het register bedoeld in [artikel 289 lid 1 van Boek 2](ht
 
 ##### Artikel 60
 
-[Artikel 289 lid 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=289) vindt op de bestuurders van een stichting, als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-06-28&g=2025-06-28), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=58&z=2025-06-28&g=2025-06-28) of [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=59&z=2025-06-28&g=2025-06-28) geen toepassing ten aanzien van rechtshandelingen, verricht voordat drie jaren sedert het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) zijn verstreken.
+[Artikel 289 lid 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=289) vindt op de bestuurders van een stichting, als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-07-01&g=2025-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=58&z=2025-07-01&g=2025-07-01) of [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=59&z=2025-07-01&g=2025-07-01) geen toepassing ten aanzien van rechtshandelingen, verricht voordat drie jaren sedert het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) zijn verstreken.
 
 ##### Artikel 61
 
-Op een stichting ten aanzien waarvan artikel 25 van de Wet op stichtingen van toepassing was doch niet is nageleefd, is [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-06-28&g=2025-06-28) van overeenkomstige toepassing, met dien verstande, dat de hoofdelijke aansprakelijkheid als bedoeld in het tweede lid ook bestaat voor rechtshandelingen, verricht binnen drie jaren na het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), en dat de ontbinding als bedoeld in het derde lid ook binnen die termijn kan worden gevorderd.
+Op een stichting ten aanzien waarvan artikel 25 van de Wet op stichtingen van toepassing was doch niet is nageleefd, is [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=2&artikel=57&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande, dat de hoofdelijke aansprakelijkheid als bedoeld in het tweede lid ook bestaat voor rechtshandelingen, verricht binnen drie jaren na het tijdstip van in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), en dat de ontbinding als bedoeld in het derde lid ook binnen die termijn kan worden gevorderd.
 
 ##### Artikel 62
 
@@ -501,7 +501,7 @@ Een beding dat naar een vóór het in werking treden van de wet geldend wetsarti
 
 ##### Artikel 73a
 
-1. In afwijking van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=72&z=2025-06-28&g=2025-06-28) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-06-28&g=2025-06-28) kan een bevoegdheid die de wet toekent, niet meer worden uitgeoefend, indien de daarvoor bij de wet gestelde termijn reeds op het tijdstip van haar in werking treden is verstreken en een bevoegdheid van gelijke aard onder het tevoren geldende recht niet bestond.
+1. In afwijking van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=72&z=2025-07-01&g=2025-07-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-07-01&g=2025-07-01) kan een bevoegdheid die de wet toekent, niet meer worden uitgeoefend, indien de daarvoor bij de wet gestelde termijn reeds op het tijdstip van haar in werking treden is verstreken en een bevoegdheid van gelijke aard onder het tevoren geldende recht niet bestond.
 
 2. Was de termijn waarbinnen volgens het tevoren geldende recht een recht of bevoegdheid moest zijn uitgeoefend, reeds verstreken op het in lid 1 bedoelde tijdstip, dan brengt de wet die een recht of bevoegdheid van gelijke aard toekent, in het rechtsgevolg van de verjaring of het verval geen verandering.
 
@@ -519,7 +519,7 @@ Een beding dat naar een vóór het in werking treden van de wet geldend wetsarti
 
 1. De wet blijft, ook buiten de in deze en de volgende titels geregelde gevallen, buiten toepassing in zaken van overgangsrecht, indien de gelijkenis met zulke gevallen daartoe noopt of indien de toepassing onder de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn.
 
-2. Van de [artikelen 69-73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=69&z=2025-06-28&g=2025-06-28) wordt, behalve in de volgende titels, afgeweken op dezelfde gronden als in het vorige lid aangegeven.
+2. Van de [artikelen 69-73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=69&z=2025-07-01&g=2025-07-01) wordt, behalve in de volgende titels, afgeweken op dezelfde gronden als in het vorige lid aangegeven.
 
 ## Titel 4. Overgangsbepalingen in verband met Boek 3
 
@@ -541,7 +541,7 @@ Op roerende zaken die tot aan het tijdstip van het in werking treden van de wet 
 
 4. Op het ontbreken van de inschrijving van de vóór 1 januari 1950 plaatsgevonden hebbende aanleg van een net als bedoeld in [artikel 20 lid 2 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20) dat op het tijdstip van het in werking treden van die bepaling nog niet is verwijderd en op inschrijfbare feiten die vóór het in werking treden van die bepaling zijn voorgevallen, en die betreffen netten waarvan de aanleg niet uit de openbare registers kenbaar is, is [artikel 24 lid 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) niet van toepassing.
 
-5. Met betrekking tot een net als bedoeld in [artikel 20 lid 2 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20), dat vóór 1 februari 2007 is aangelegd, begint de in het derde lid bedoelde termijn van drie jaren te lopen vanaf het tijdstip waarop [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=6&artikel=155a&z=2025-06-28&g=2025-06-28) in werking is getreden.
+5. Met betrekking tot een net als bedoeld in [artikel 20 lid 2 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20), dat vóór 1 februari 2007 is aangelegd, begint de in het derde lid bedoelde termijn van drie jaren te lopen vanaf het tijdstip waarop [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=6&artikel=155a&z=2025-07-01&g=2025-07-01) in werking is getreden.
 
 ##### Artikel 79
 
@@ -557,7 +557,7 @@ Tenzij anders is bepaald, wordt een rechtshandeling die is verricht voordat de w
 
 1. Een nietige rechtshandeling wordt op het tijdstip waarop de wet op haar van toepassing wordt, met terugwerkende kracht tot een onaantastbare bekrachtigd, indien zij heeft voldaan aan de vereisten die de wet voor een zodanige rechtshandeling stelt.
 
-2. Een tevoren nietige rechtshandeling geldt van dat tijdstip af als vernietigbaar, indien de wet het gebrek dat haar aankleeft, als grond van vernietigbaarheid aanmerkt. [Artikel 73a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73a&z=2025-06-28&g=2025-06-28) is alsdan niet van toepassing indien het tevoren geldende recht een beroep op de nietigheid niet aan een bepaalde termijn bond.
+2. Een tevoren nietige rechtshandeling geldt van dat tijdstip af als vernietigbaar, indien de wet het gebrek dat haar aankleeft, als grond van vernietigbaarheid aanmerkt. [Artikel 73a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73a&z=2025-07-01&g=2025-07-01) is alsdan niet van toepassing indien het tevoren geldende recht een beroep op de nietigheid niet aan een bepaalde termijn bond.
 
 3. De vorige leden gelden slechts, indien alle onmiddellijk belanghebbenden die zich op de nietigheid hadden kunnen beroepen, de handeling voordien als geldig hebben aangemerkt. Inmiddels verkregen rechten van derden behoeven aan bekrachtiging niet in de weg te staan, mits zij worden geëerbiedigd.
 
@@ -611,7 +611,7 @@ Op de rechtsverhouding tussen degene die op het tijdstip van het in werking tred
 
 2. Van het in werking treden van de wet af geldt een alsdan bestaande verbintenis tot levering betreffende goederen onder eigendomsvoorbehoud als een zodanige verbintenis onder voorbehoud van een pandrecht overeenkomstig [artikel 237 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237), voor zover het eigendomsvoorbehoud strekt tot zekerheid van voldoening van andere vorderingen dan die genoemd in [artikel 92 lid 2, eerste zin, van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=92).
 
-3. De leden 2, 3, 5, 6 en 8 van [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-06-28&g=2025-06-28) zijn van overeenkomstige toepassing.
+3. De leden 2, 3, 5, 6 en 8 van [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 90
 
@@ -653,7 +653,7 @@ Bezit en houderschap worden verkregen en verloren op het tijdstip van het in wer
 
 ##### Artikel 100
 
-[Artikel 177 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=7&artikel=177&z=2025-06-28&g=2025-06-28) geldt niet voor een recht van pand of hypotheek dat vóór het in werking treden van de wet is gevestigd.
+[Artikel 177 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=7&artikel=177&z=2025-07-01&g=2025-07-01) geldt niet voor een recht van pand of hypotheek dat vóór het in werking treden van de wet is gevestigd.
 
 ##### Artikel 101
 
@@ -681,7 +681,7 @@ Artikel 804 van het Burgerlijk Wetboek, zoals dat tot aan het in werking treden 
 
 ##### Artikel 108
 
-[Artikel 244 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=244) geldt voor een pandrecht dat vóór het tijdstip van het in werking treden der wet is gevestigd zonder beperking tot de daar vermelde termijn van drie jaren. De vorige zin is mede van toepassing op een pandrecht dat overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-06-28&g=2025-06-28) of [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=89&z=2025-06-28&g=2025-06-28) door omzetting van eigendom is ontstaan.
+[Artikel 244 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=244) geldt voor een pandrecht dat vóór het tijdstip van het in werking treden der wet is gevestigd zonder beperking tot de daar vermelde termijn van drie jaren. De vorige zin is mede van toepassing op een pandrecht dat overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-07-01&g=2025-07-01) of [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=89&z=2025-07-01&g=2025-07-01) door omzetting van eigendom is ontstaan.
 
 ##### Artikel 109
 
@@ -733,15 +733,17 @@ Indien een hypotheekhouder vóór het tijdstip van het in werking treden van de 
 
 ##### Artikel 119
 
-Afschaffing van voorrechten op bepaalde goederen door het in werking treden van de wet heeft geen gevolg voor een voorrecht dat voordien reeds krachtens artikel 1185 onder 3° van het Burgerlijk Wetboek, zoals dat tevoren gold, aan een vordering was verbonden. De voordien geldende artikelen 1190 en 1192**a** van het Burgerlijk Wetboek blijven van toepassing. Het voorrecht heeft voorrang boven een pandrecht dat is gevestigd overeenkomstig [artikel 237 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237), of dat, ingevolge [artikel 86 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-06-28&g=2025-06-28) of [89 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=89&z=2025-06-28&g=2025-06-28), de gevolgen van een zodanig pandrecht heeft.
+Afschaffing van voorrechten op bepaalde goederen door het in werking treden van de wet heeft geen gevolg voor een voorrecht dat voordien reeds krachtens artikel 1185 onder 3° van het Burgerlijk Wetboek, zoals dat tevoren gold, aan een vordering was verbonden. De voordien geldende artikelen 1190 en 1192**a** van het Burgerlijk Wetboek blijven van toepassing. Het voorrecht heeft voorrang boven een pandrecht dat is gevestigd overeenkomstig [artikel 237 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237), of dat, ingevolge [artikel 86 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=86&z=2025-07-01&g=2025-07-01) of [89 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=89&z=2025-07-01&g=2025-07-01), de gevolgen van een zodanig pandrecht heeft.
 
 ##### Artikel 119a
 
-1. In afwijking van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=68a&z=2025-06-28&g=2025-06-28) en [artikel 74, leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=74&z=2025-06-28&g=2025-06-28), blijven voor een rechtsvordering die strekt tot bescherming van gelijksoortige belangen als bedoeld in de [artikelen 305a tot en met 305d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a), zoals die golden tot de inwerkingtreding van de [Implementatiewet richtlijn representatieve vorderingen voor consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047509), en die is ingesteld voor [datum inwerkingtreding wet] de voorwaarden van toepassing die golden voor die datum.
+1. In afwijking van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=68a&z=2025-07-01&g=2025-07-01) en [artikel 74, leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=74&z=2025-07-01&g=2025-07-01), blijven voor een rechtsvordering die strekt tot bescherming van gelijksoortige belangen als bedoeld in de [artikelen 305a tot en met 305d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en die is ingesteld voor 1 januari 2020 de voorwaarden van toepassing die golden voor die datum.
 
-2. In afwijking van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=68a&z=2025-06-28&g=2025-06-28), blijven voor een rechtsvordering die strekt tot bescherming van gelijksoortige belangen als bedoeld in de [artikelen 305a tot en met 305d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a), zoals die golden tot de inwerkingtreding van de [Implementatiewet richtlijn representatieve vorderingen voor consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047509), en die is ingesteld op of na [datum inwerkingtreding wet] de voorwaarden van toepassing die golden voor die datum voor zover de rechtsvordering betrekking heeft op een gebeurtenis of gebeurtenissen die heeft of hebben plaatsgevonden voor 15 november 2016.
+2. In afwijking van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=68a&z=2025-07-01&g=2025-07-01), blijven voor een rechtsvordering die strekt tot bescherming van gelijksoortige belangen als bedoeld in de [artikelen 305a tot en met 305d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en die is ingesteld op of na 1 januari 2020 de voorwaarden van toepassing die golden voor die datum voor zover de rechtsvordering betrekking heeft op een gebeurtenis of gebeurtenissen die heeft of hebben plaatsgevonden voor 15 november 2016.
 
-3. De wijzigingen of invoegingen van de [artikelen 305a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a), [305c](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305c) en [305e van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305e) door de [Implementatiewet richtlijn representatieve vorderingen voor consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047509) zijn niet van toepassing op rechtsvorderingen die voor de datum van inwerkingtreding van deze wet zijn ingesteld. Op deze rechtsvorderingen blijven de voor die datum geldende artikelen 305a en 305c van Boek 3 van toepassing.
+3. Lid 2 is niet van toepassing op een rechtsvordering die strekt tot bescherming van een belang als bedoeld in artikel 2, eerste lid, van [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van [Richtlijn 2009/22/EG](32009L0022) (PbEU 2020, L 409) en die is ingesteld op of na 25 juni 2023.
+
+4. De wijzigingen van de [artikelen 305a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en [305c van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305c) door de [Implementatiewet richtlijn representatieve vorderingen voor consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047509) zijn niet van toepassing op rechtsvorderingen die voor 25 juni 2023 zijn ingesteld. Op deze rechtsvorderingen blijven de voor die datum geldende artikelen 305a en 305c van Boek 3 van toepassing.
 
 ##### Artikel 120
 
@@ -749,7 +751,7 @@ Over het tijdvak vóór het in werking treden van de wet wordt een verjaring waa
 
 ##### Artikel 121
 
-1. In afwijking van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-06-28&g=2025-06-28) worden aanvang en duur van een verjaringstermijn door de wet bepaald in de gevallen waarin de verjaring overeenkomstig [artikel 320 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=320) bij of binnen een jaar na het in werking treden van de wet wordt verlengd.
+1. In afwijking van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-07-01&g=2025-07-01) worden aanvang en duur van een verjaringstermijn door de wet bepaald in de gevallen waarin de verjaring overeenkomstig [artikel 320 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=320) bij of binnen een jaar na het in werking treden van de wet wordt verlengd.
 
 2. De artikelen 2023-2029 van het Burgerlijk Wetboek, zoals die tot aan het in werking treden van de wet golden, blijven gedurende een jaar nadien van toepassing op de gevallen waarin zij totdien toepasselijk waren, tenzij er een grond tot verlenging der verjaring overeenkomstig [artikel 321 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) bestaat. Na afloop van dat jaar wordt de verjaring geacht nimmer geschorst te zijn geweest.
 
@@ -871,7 +873,7 @@ Een erfpacht die op het tijdstip van het in werking treden van de wet reeds best
 
 ##### Artikel 171
 
-De [artikelen 166-169](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=6&artikel=166&z=2025-06-28&g=2025-06-28) zijn van overeenkomstige toepassing op een recht van opstal in dezelfde gevallen waarin die artikelen op een recht van erfpacht van toepassing zijn en voor zover het opstalrecht aan de daar bedoelde regels voor erfpacht is onderworpen.
+De [artikelen 166-169](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=6&artikel=166&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een recht van opstal in dezelfde gevallen waarin die artikelen op een recht van erfpacht van toepassing zijn en voor zover het opstalrecht aan de daar bedoelde regels voor erfpacht is onderworpen.
 
 ##### Artikel 172
 
@@ -977,11 +979,11 @@ Wordt bij het ontstaan van een vordering uit onverschuldigde betaling of ongerec
 
 1. [Afdeling 3 van titel 5 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=3) is op algemene voorwaarden die op het tijdstip van het in werking treden van de wet reeds door een partij in haar overeenkomsten worden gebruikt, van toepassing nadat een jaar na dit tijdstip is verstreken. Gedurende die termijn is de wet evenmin van toepassing op wijzigingen in die voorwaarden na het in werking treden van de wet.
 
-2. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-06-28&g=2025-06-28) kan een beding in algemene voorwaarden deel uitmaken van een overeenkomst, na het verstrijken van het in lid 1 bedoelde tijdvak overeenkomstig [afdeling 3 van titel 5 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=3) worden vernietigd; deze vernietiging heeft evenwel geen werking over het tijdvak voordat die afdeling van toepassing is geworden, tenzij het beding toen reeds vernietigbaar of nietig was.
+2. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-07-01&g=2025-07-01) kan een beding in algemene voorwaarden deel uitmaken van een overeenkomst, na het verstrijken van het in lid 1 bedoelde tijdvak overeenkomstig [afdeling 3 van titel 5 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=3) worden vernietigd; deze vernietiging heeft evenwel geen werking over het tijdvak voordat die afdeling van toepassing is geworden, tenzij het beding toen reeds vernietigbaar of nietig was.
 
 ##### Artikel 192
 
-[Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=78&z=2025-06-28&g=2025-06-28) geldt niet voor een beding als bedoeld in [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) dat op het tijdstip van het in werking treden van de wet uit de openbare registers kenbaar is; de rechtsgevolgen die [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) en [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2) aan inschrijving in de openbare registers verbinden, komen slechts toe aan inschrijving na dit tijdstip.
+[Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=78&z=2025-07-01&g=2025-07-01) geldt niet voor een beding als bedoeld in [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) dat op het tijdstip van het in werking treden van de wet uit de openbare registers kenbaar is; de rechtsgevolgen die [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) en [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2) aan inschrijving in de openbare registers verbinden, komen slechts toe aan inschrijving na dit tijdstip.
 
 ##### Artikel 193
 
@@ -989,7 +991,7 @@ De [artikelen 253 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel
 
 ##### Artikel 194
 
-Van het tijdstip van het in werking treden van de wet af is [artikel 257](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=9&artikel=257&z=2025-06-28&g=2025-06-28) van toepassing op een ondergeschikte wiens gedraging vóór dat tijdstip tot aansprakelijkheid heeft geleid.
+Van het tijdstip van het in werking treden van de wet af is [artikel 257](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=9&artikel=257&z=2025-07-01&g=2025-07-01) van toepassing op een ondergeschikte wiens gedraging vóór dat tijdstip tot aansprakelijkheid heeft geleid.
 
 ##### Artikel 195
 
@@ -1005,11 +1007,11 @@ In geval van een vordering tot wijziging of ontbinding van een overeenkomst als 
 
 3. In afwijking van de leden 1 en 2 is [titel 1 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=1) van toepassing op de gevolgen van niet nakoming in het geval dat een der partijen na het in werking treden van de wet in de nakoming van een van haar verbintenissen tekortschiet, tenzij dat tekortschieten een voortzetting van een eerdere tekortkoming is. [Afdeling 8 van titel 1 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8) is van toepassing op het recht van reclame dat na het in werking treden van de wet wordt uitgeoefend; is het voordien uitgeoefend, dan blijft het tevoren geldende recht daarop van toepassing.
 
-4. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=1&artikel=7&z=2025-06-28&g=2025-06-28) is slechts van toepassing op de gevolgen van toezending van een zaak of verrichting van een dienst die na het in werking treden van de wet geschiedt.
+4. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=1&artikel=7&z=2025-07-01&g=2025-07-01) is slechts van toepassing op de gevolgen van toezending van een zaak of verrichting van een dienst die na het in werking treden van de wet geschiedt.
 
 5. [Artikel 6a van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=6a) is niet van toepassing in geval van een consumentenkoop die vóór het in werking treden van de wet is gesloten.
 
-6. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-06-28&g=2025-06-28) kan een beding op grond van strijd met [artikel 25 lid 2 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=25) worden vernietigd nadat een jaar na het tijdstip van het in werking treden van de wet is verstreken; deze vernietiging heeft evenwel geen werking ten aanzien van zaken die vóór het verstrijken van deze termijn aan de verkoper zijn geleverd.
+6. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-07-01&g=2025-07-01) kan een beding op grond van strijd met [artikel 25 lid 2 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=25) worden vernietigd nadat een jaar na het tijdstip van het in werking treden van de wet is verstreken; deze vernietiging heeft evenwel geen werking ten aanzien van zaken die vóór het verstrijken van deze termijn aan de verkoper zijn geleverd.
 
 ##### Artikel 198
 
@@ -1125,7 +1127,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 127
 
-De bepalingen omtrent nietigheid en vernietigbaarheid van het tevoren geldende recht zijn, onverminderd het in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-06-28&g=2025-06-28) bepaalde, niet van toepassing op een uiterste wilsbeschikking die vóór het tijdstip van het inwerking treden van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002761) is gemaakt door iemand die na dat tijdstip overlijdt.
+De bepalingen omtrent nietigheid en vernietigbaarheid van het tevoren geldende recht zijn, onverminderd het in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-07-01&g=2025-07-01) bepaalde, niet van toepassing op een uiterste wilsbeschikking die vóór het tijdstip van het inwerking treden van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002761) is gemaakt door iemand die na dat tijdstip overlijdt.
 
 ##### Artikel 128
 
@@ -1191,7 +1193,7 @@ Degene die tot aan het tijdstip van het in werking treden van [de wet](https://w
 
 ##### Artikel 138
 
-Heeft een wettelijke vertegenwoordiger van een erfgenaam, of een door de rechter benoemde vereffenaar van een nalatenschap dan wel een ander die in de gevallen, bedoeld in [artikel 137 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=5&artikel=137&z=2025-06-28&g=2025-06-28), met de afwikkeling daarvan belast was, aan de schuldeisers van de nalatenschap schade toegebracht doordat hij vóór het tijdstip van het in werking treden van de wet opzettelijk daartoe behorende goederen aan het verhaal van de schuldeisers heeft onttrokken, dan is [artikel 212 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=212) van toepassing of overeenkomstige toepassing, indien de vereffening of afwikkeling van die nalatenschap op dat tijdstip nog niet is voltooid.
+Heeft een wettelijke vertegenwoordiger van een erfgenaam, of een door de rechter benoemde vereffenaar van een nalatenschap dan wel een ander die in de gevallen, bedoeld in [artikel 137 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=5&artikel=137&z=2025-07-01&g=2025-07-01), met de afwikkeling daarvan belast was, aan de schuldeisers van de nalatenschap schade toegebracht doordat hij vóór het tijdstip van het in werking treden van de wet opzettelijk daartoe behorende goederen aan het verhaal van de schuldeisers heeft onttrokken, dan is [artikel 212 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=212) van toepassing of overeenkomstige toepassing, indien de vereffening of afwikkeling van die nalatenschap op dat tijdstip nog niet is voltooid.
 
 ##### Artikel 139
 
@@ -1307,7 +1309,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Ter zake van de rechtsvordering tot vergoeding van schade die een gevolg is van verontreiniging van lucht, water of bodem, eindigt de termijn van vijf jaren bedoeld in [artikel 310 lid 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=310) niet vóór 1 januari 1997.
 
-2. In afwijking van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-06-28&g=2025-06-28) is [artikel 310 lid 2 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=310) van toepassing vanaf het tijdstip waarop het in werking treedt.
+2. In afwijking van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=3&artikel=73&z=2025-07-01&g=2025-07-01) is [artikel 310 lid 2 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=310) van toepassing vanaf het tijdstip waarop het in werking treedt.
 
 3. Wat voor de gebeurtenissen bedoeld in [artikel 310 lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=310) is bepaald, geldt ook indien de gebeurtenis is aangevangen of voorgevallen vóór het tijdstip waarop dat lid in werking treedt.
 
@@ -1591,7 +1593,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 183b
 
-1. [Artikel 119a, lid 6, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119a), zoals gewijzigd door de [wet van 18 april 2017 tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het tegengaan van onredelijk lange betaaltermijnen](https://wetten.overheid.nl/jci1.3:c:BWBR0039501) (Stb. 170), wordt één jaar na het tijdstip van het in werking treden van die wet van toepassing op overeenkomsten die op dat tijdstip bestaan. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-06-28&g=2025-06-28) geldt de nietigheid van een beding in de overeenkomst, na het verstrijken van het in de vorige zin bedoelde tijdvak; deze nietigheid heeft evenwel geen werking over het tijdvak voordat dat lid van toepassing is geworden, tenzij het beding toen reeds nietig was.
+1. [Artikel 119a, lid 6, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119a), zoals gewijzigd door de [wet van 18 april 2017 tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het tegengaan van onredelijk lange betaaltermijnen](https://wetten.overheid.nl/jci1.3:c:BWBR0039501) (Stb. 170), wordt één jaar na het tijdstip van het in werking treden van die wet van toepassing op overeenkomsten die op dat tijdstip bestaan. In afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-07-01&g=2025-07-01) geldt de nietigheid van een beding in de overeenkomst, na het verstrijken van het in de vorige zin bedoelde tijdvak; deze nietigheid heeft evenwel geen werking over het tijdvak voordat dat lid van toepassing is geworden, tenzij het beding toen reeds nietig was.
 
 2. [Artikel 119a, lid 6, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119a), zoals gewijzigd door de [wet van 30 maart 2022 tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het verkorten van de wettelijke betaaltermijn tot 30 dagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046553) (Stb. 146), wordt één jaar na het tijdstip van het in werking treden van die wet van toepassing op overeenkomsten die op dat tijdstip bestaan. Lid 1, tweede volzin, is van overeenkomstige toepassing.
 
@@ -1793,7 +1795,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 85a
 
-Dit onderdeel is nog niet inwerking getreden
+De nietigheid, bedoeld in [artikel 83, derde lid, tweede zin, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=83) geldt, in afwijking van [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&titeldeel=4&artikel=79&z=2025-07-01&g=2025-07-01), voor bestaande bedingen vanaf drie maanden na het tijdstip van inwerkingtreding van de [Wet opheffing verpandingsverboden](https://wetten.overheid.nl/jci1.3:c:BWBR0050864).
 
 ## Titel 5. Overgangsbepalingen in verband met [Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761)
 
@@ -1803,7 +1805,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. [Afdeling 2ab van titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=2ab) is niet van toepassing op e-handelsdiensten die voor het tijdstip van inwerkingtreding van die afdeling zijn verricht.
 
-2. Dienstverleners als bedoeld in [artikel 230fa van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230fa) kunnen tot en met 27 juni 2030 hun diensten blijven verrichten met gebruikmaking van de e-handelsdiensten die zij vóór 28 juni 2030 al rechtmatig gebruikten bij het verlenen van vergelijkbare diensten.
+2. Dienstverleners als bedoeld in [artikel 230fa van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230fa) kunnen tot en met 27 juni 2030 hun diensten blijven verrichten met gebruikmaking van de producten die zij vóór 28 juni 2030 al rechtmatig gebruikten bij het verlenen van vergelijkbare diensten.
 
 3. Dienstverleningsovereenkomsten die door middel van e-handelsdiensten gesloten zijn vóór 28 juni 2025 kunnen ongewijzigd doorlopen totdat zij verstrijken, evenwel uiterlijk tot vijf jaar na die datum.
 
@@ -1815,7 +1817,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 208ga
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 237, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237), [258, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258), [259, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259), [260, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), en [261, eerste lid, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) zoals die door de [Wet van 23 april 2025 houdende wijzigingen van Boek 7 van het Burgerlijk Wetboek, de Uitvoeringswet huurprijzen woonruimte en enkele andere wetten in verband met de modernisering van het systeem van servicekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0051108) (Stb. 2025, 156) zijn komen te luiden, zijn niet van toepassing op huurovereenkomsten die voor het in werking treden van die artikelen zijn gesloten.
 
 ## Titel 9. Overgangsbepalingen in verband met [Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034)
 
