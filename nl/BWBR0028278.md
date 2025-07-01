@@ -4,7 +4,7 @@ identifier: "BWBR0028278"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-07-01"
-last_updated: "2015-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028278"
 soort: "wet-BES"
@@ -63,7 +63,7 @@ Iedere vennoot, die daarvan niet is uitgesloten, is bevoegd ten name van de venn
 
 ##### Artikel 13
 
-Handelingen, welke niet tot de vennootschap betrekkelijk zijn of tot welke de vennoten volgens de overeenkomst niet bevoegd zijn, worden onder de bepaling van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=12&z=2015-01-01&g=2015-01-01) niet begrepen.
+Handelingen, welke niet tot de vennootschap betrekkelijk zijn of tot welke de vennoten volgens de overeenkomst niet bevoegd zijn, worden onder de bepaling van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=12&z=2025-07-01&g=2025-07-01) niet begrepen.
 
 ##### Artikel 14
 
@@ -79,7 +79,7 @@ Een vennootschap kan alzo tegelijkertijd zijn een vennootschap onder een firma, 
 
 ##### Artikel 17
 
-1. Behoudens de uitzondering, in het [tweede lid van artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=27&z=2015-01-01&g=2015-01-01) voorkomende, mag de naam van de vennoot bij wijze van geldschieting in de firma niet worden gebezigd.
+1. Behoudens de uitzondering, in het [tweede lid van artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=27&z=2025-07-01&g=2025-07-01) voorkomende, mag de naam van de vennoot bij wijze van geldschieting in de firma niet worden gebezigd.
 
 2. De vennoot mag noch daden van beheer verrichten, noch in de zaken van de vennootschap werkzaam zijn.
 
@@ -89,7 +89,7 @@ Een vennootschap kan alzo tegelijkertijd zijn een vennootschap onder een firma, 
 
 ##### Artikel 18
 
-De vennoot bij wijze van geldschieting, die de bepalingen van het [eerste of van het tweede lid van het vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=17&z=2015-01-01&g=2015-01-01) overtreedt, is wegens alle schulden en verbintenissen van de vennootschap hoofdelijk verbonden.
+De vennoot bij wijze van geldschieting, die de bepalingen van het [eerste of van het tweede lid van het vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=17&z=2025-07-01&g=2025-07-01) overtreedt, is wegens alle schulden en verbintenissen van de vennootschap hoofdelijk verbonden.
 
 ##### Artikel 19
 
@@ -113,7 +113,7 @@ Zolang de inschrijving in het handelsregister niet is geschied, wordt de vennoot
 
 1. De firma van een ontbonden vennootschap mag, hetzij uit kracht van de overeenkomst, hetzij indien de gewezen vennoot wiens naam in de firma voorkwam daarin uitdrukkelijk toestemt, of bij overlijden diens erfgenamen zich daartegen niet verzetten, door een of meer personen worden aangehouden, die ten blijke daarvan een akte moeten uitbrengen en dezelve doen inschrijven in het handelsregister overeenkomstig de daarvoor geldende wettelijke bepalingen.
 
-2. De bepaling van het [eerste lid van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=17&z=2015-01-01&g=2015-01-01) is niet toepasselijk, indien de afgetredene van vennoot onder een firma vennoot bij wijze van geldschieting is geworden.
+2. De bepaling van het [eerste lid van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=17&z=2025-07-01&g=2025-07-01) is niet toepasselijk, indien de afgetredene van vennoot onder een firma vennoot bij wijze van geldschieting is geworden.
 
 ##### Artikel 28
 
@@ -251,11 +251,11 @@ Indien een wisselbrief, onvolledig ten tijde van de uitgifte, is volledig gemaak
 
 ##### Artikel 188
 
-1. De trekker is verplicht, ter keuze van de nemer, de wisselbrief te stellen betaalbaar aan de nemer zelf, of aan enige andere persoon, in beide gevallen aan order of zonder bijvoeging van order dan wel met bijvoeging van een uitdrukking, als bedoeld in [artikel 189, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tweede&artikel=189&z=2015-01-01&g=2015-01-01).
+1. De trekker is verplicht, ter keuze van de nemer, de wisselbrief te stellen betaalbaar aan de nemer zelf, of aan enige andere persoon, in beide gevallen aan order of zonder bijvoeging van order dan wel met bijvoeging van een uitdrukking, als bedoeld in [artikel 189, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tweede&artikel=189&z=2025-07-01&g=2025-07-01).
 
 2. De trekker, of degene voor wiens rekening de wisselbrief is getrokken, is verplicht zorg te dragen dat de betrokkene, ten vervaldage, in handen hebbe het nodige fonds tot betaling, zelfs indien de wisselbrief bij een derde is betaalbaar gesteld, met dien verstande echter, dat de trekker zelf in alle gevallen aan de houder en de vroegere endossanten persoonlijk verantwoordelijk blijft.
 
-3. De betrokkene wordt geacht het nodige fonds in handen te hebben, indien hij bij het vervallen van de wisselbrief of op het tijdstip, waarop ingevolge het [derde lid van artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=217&z=2015-01-01&g=2015-01-01) de houder regres kan nemen, aan de trekker of aan degene voor wiens rekening is getrokken, een opeisbare som schuldig is, tenminste gelijkstaande met het beloop van de wisselbrief.
+3. De betrokkene wordt geacht het nodige fonds in handen te hebben, indien hij bij het vervallen van de wisselbrief of op het tijdstip, waarop ingevolge het [derde lid van artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=217&z=2025-07-01&g=2025-07-01) de houder regres kan nemen, aan de trekker of aan degene voor wiens rekening is getrokken, een opeisbare som schuldig is, tenminste gelijkstaande met het beloop van de wisselbrief.
 
 ### afdeling Tweede. Van het endossement
 
@@ -373,7 +373,7 @@ De wisselbrief mag tot de vervaldag door de houder of door iemand, die hem enkel
 
 1. Door de acceptatie verbindt de betrokkene zich, de wisselbrief op de vervaldag te betalen.
 
-2. Bij gebreke van betaling heeft de houder, al ware hij de trekker, tegen de acceptant een rechtstreekse vordering, uit de wisselbrief voortspruitend, voor al hetgeen mag worden gevorderd krachtens [artikel 224, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2015-01-01&g=2015-01-01), en [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=225&z=2015-01-01&g=2015-01-01).
+2. Bij gebreke van betaling heeft de houder, al ware hij de trekker, tegen de acceptant een rechtstreekse vordering, uit de wisselbrief voortspruitend, voor al hetgeen mag worden gevorderd krachtens [artikel 224, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2025-07-01&g=2025-07-01), en [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=225&z=2025-07-01&g=2025-07-01).
 
 3. Hij, die het nodig fonds in handen heeft, bijzonderlijk bestemd tot de betaling van een getrokken wisselbrief, is, op straffe van vergoeding van schadevergoeding jegens de trekker, tot de acceptatie verplicht.
 
@@ -481,7 +481,7 @@ op een bepaalde dag.
 
 2. De aanbieding van een wisselbrief aan een verrekeningskamer geldt als aanbieding ter betaling. Bij algemene maatregel van bestuur worden de instellingen aangewezen, welke in de zin van deze Titel als verrekeningskamers worden beschouwd.
 
-3. Buiten het geval, in het [tweede lid van artikel 241](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=3&artikel=241&z=2015-01-01&g=2015-01-01) vermeld, is de betrokkene, de wisselbrief betalende, bevoegd te vorderen, dat hem deze, van behoorlijke kwijting van de houder voorzien, wordt uitgeleverd.
+3. Buiten het geval, in het [tweede lid van artikel 241](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=3&artikel=241&z=2025-07-01&g=2025-07-01) vermeld, is de betrokkene, de wisselbrief betalende, bevoegd te vorderen, dat hem deze, van behoorlijke kwijting van de houder voorzien, wordt uitgeleverd.
 
 4. De houder mag niet weigeren een gedeeltelijke betaling aan te nemen.
 
@@ -509,7 +509,7 @@ op een bepaalde dag.
 
 ##### Artikel 216
 
-Bij gebreke van aanbieding ter betaling van de wisselbrief binnen de termijn, bij [artikel 213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zesde&artikel=213&z=2015-01-01&g=2015-01-01), vastgesteld, heeft elke schuldenaar de bevoegdheid, het bedrag te bevoegder plaatse in consignatie te geven, op kosten en onder verantwoordelijkheid van de houder.
+Bij gebreke van aanbieding ter betaling van de wisselbrief binnen de termijn, bij [artikel 213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zesde&artikel=213&z=2025-07-01&g=2025-07-01), vastgesteld, heeft elke schuldenaar de bevoegdheid, het bedrag te bevoegder plaatse in consignatie te geven, op kosten en onder verantwoordelijkheid van de houder.
 
 ### afdeling Zevende. Van het recht van regres in geval van non-acceptatie of non-betaling
 
@@ -533,7 +533,7 @@ Zelfs vóór de vervaldag;
 
 1. De weigering van acceptatie of van betaling moet worden vastgesteld bij authentieke akte (protest van non-acceptatie of van non-betaling).
 
-2. Het protest van non-acceptatie moet worden opgemaakt binnen de voor de aanbieding ter acceptatie vastgestelde termijnen. Indien, in het geval bij [artikel 199, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=199&z=2015-01-01&g=2015-01-01), voorzien, de eerste aanbieding heeft plaats gehad op de laatste dag van de termijn, mag het protest nog op de volgende dag worden gedaan.
+2. Het protest van non-acceptatie moet worden opgemaakt binnen de voor de aanbieding ter acceptatie vastgestelde termijnen. Indien, in het geval bij [artikel 199, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=199&z=2025-07-01&g=2025-07-01), voorzien, de eerste aanbieding heeft plaats gehad op de laatste dag van de termijn, mag het protest nog op de volgende dag worden gedaan.
 
 3. Het protest van non-betaling van een wisselbrief, betaalbaar op een bepaalde dag of zekere tijd na dagtekening of na zicht, moet worden gedaan op één van de twee werkdagen, volgende op de dag, waarop de wisselbrief betaalbaar is. Indien het een wisselbrief betaalbaar op zicht betreft, moet het protest worden gedaan, overeenkomstig de bepalingen bij het voorgaande lid vastgesteld voor het opmaken van het protest van non-acceptatie.
 
@@ -559,7 +559,7 @@ Zelfs vóór de vervaldag;
 
 - 1°. een letterlijk afschrift van de wisselbrief, van de acceptatie, van de endossementen, van het aval en van de adressen daarop gesteld;
 
-- 2°. de vermelding dat zij de acceptatie of de betaling aan de personen, of ter plaatse in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=219&z=2015-01-01&g=2015-01-01) gemeld, afgevraagd en niet bekomen hebben;
+- 2°. de vermelding dat zij de acceptatie of de betaling aan de personen, of ter plaatse in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=219&z=2025-07-01&g=2025-07-01) gemeld, afgevraagd en niet bekomen hebben;
 
 - 3°. de vermelding van de opgegeven reden van non-acceptatie of non-betaling;
 
@@ -647,7 +647,7 @@ Bij gedeeltelijke acceptatie is degene, die ter voldoening aan zijn regresplicht
 
 1. Ieder, die een recht van regres mag uitoefenen, is, tenzij het tegendeel bedongen is, bevoegd om zich de vergoeding te bezorgen door middel van een nieuwe wisselbrief (herwissel), getrokken op zicht op één van degenen, die tegenover hem regresplichtig zijn en betaalbaar te diens woonplaats.
 
-2. De herwissel omvat, behalve de bedragen in het [vierde en vijfde lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2015-01-01&g=2015-01-01) en in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=225&z=2015-01-01&g=2015-01-01) aangegeven, de bedragen van provisie en het zegel van de herwissel.
+2. De herwissel omvat, behalve de bedragen in het [vierde en vijfde lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2025-07-01&g=2025-07-01) en in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=225&z=2025-07-01&g=2025-07-01) aangegeven, de bedragen van provisie en het zegel van de herwissel.
 
 3. Indien de herwissel door de houder is getrokken, wordt het bedrag bepaald volgens de koers van een zichtwissel, getrokken van de plaats, waar de oorspronkelijke wisselbrief betaalbaar was, op de woonplaats van de regresplichtige. Indien de herwissel is getrokken door een endossant, wordt het bedrag bepaald volgens de koers van een zichtwissel, getrokken van de woonplaats van de trekker van de herwissel op de woonplaats van de regresplichtige.
 
@@ -677,7 +677,7 @@ vervalt het recht van de houder tegen de endossanten, tegen de trekker, en tegen
 
 1. Indien de aanbieding van de wisselbrief of het opmaken van het protest binnen de voorgeschreven termijnen wordt verhinderd door een onoverkomelijk beletsel (wettelijk voorschrift of ander geval van overmacht), worden deze termijnen verlengd.
 
-2. De houder is verplicht, van de overmacht onverwijld aan zijn endossant kennis te geven, en deze kennisgeving gedagtekend en ondertekend op de wisselbrief of op een verlengstuk te vermelden; voor het overige zijn de bepalingen van [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=221&z=2015-01-01&g=2015-01-01) toepasselijk.
+2. De houder is verplicht, van de overmacht onverwijld aan zijn endossant kennis te geven, en deze kennisgeving gedagtekend en ondertekend op de wisselbrief of op een verlengstuk te vermelden; voor het overige zijn de bepalingen van [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=221&z=2025-07-01&g=2025-07-01) toepasselijk.
 
 3. Na het ophouden van de overmacht moet de houder onverwijld de wisselbrief ter acceptatie of ter betaling aanbieden en, indien daartoe aanleiding bestaat, protest doen opmaken.
 
@@ -717,7 +717,7 @@ vervalt het recht van de houder tegen de endossanten, tegen de trekker, en tegen
 
 1. De acceptant bij tussenkomst is tegenover de houder en tegenover de endossant en, die de wisselbrief hebben geëndosseerd na degene, voor wie de tussenkomst is geschied, op dezelfde wijze als deze laatste verbonden.
 
-2. Niettegenstaande de acceptatie bij tussenkomst zijn degene, voor wie zij werd gedaan en degenen, die tegenover deze regresplichtig zijn, bevoegd om van de houder, indien daartoe aanleiding bestaat, tegen terugbetaling van de bij het [vierde en vijfde lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2015-01-01&g=2015-01-01) aangewezen som, de afgifte van de wisselbrief, van het protest en van een voor voldaan getekende rekening te vorderen.
+2. Niettegenstaande de acceptatie bij tussenkomst zijn degene, voor wie zij werd gedaan en degenen, die tegenover deze regresplichtig zijn, bevoegd om van de houder, indien daartoe aanleiding bestaat, tegen terugbetaling van de bij het [vierde en vijfde lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=224&z=2025-07-01&g=2025-07-01) aangewezen som, de afgifte van de wisselbrief, van het protest en van een voor voldaan getekende rekening te vorderen.
 
 #### § 3. Betaling bij tussenkomst
 
@@ -823,7 +823,7 @@ In geval van verandering van de tekst van een wisselbrief, zijn zij, die daarna 
 
 1. De stuiting van de verjaring is slechts van kracht tegen degene, ten aanzien van wie de stuitingshandeling heeft plaats gehad.
 
-2. Op de in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=243&z=2015-01-01&g=2015-01-01) bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=321) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.
+2. Op de in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=243&z=2025-07-01&g=2025-07-01) bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=321) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.
 
 ### afdeling Twaalfde. Algemene bepaling
 
@@ -895,35 +895,35 @@ de eerste vrijdag in de maand december voor wat betreft het openbaar lichaam Sab
 
 1. Voor zover zij niet onverenigbaar zijn met de aard van het orderbriefje, zijn daarop toepasselijk de bepalingen over wisselbrieven betreffende:
 
-het endossement ([artikelen 189–196](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tweede&artikel=189&z=2015-01-01&g=2015-01-01));
+het endossement ([artikelen 189–196](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tweede&artikel=189&z=2025-07-01&g=2025-07-01));
 
-de vervaldag ([artikelen 208–212](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vijfde&artikel=208&z=2015-01-01&g=2015-01-01));
+de vervaldag ([artikelen 208–212](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vijfde&artikel=208&z=2025-07-01&g=2025-07-01));
 
-de betaling ([artikelen 213–216](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zesde&artikel=213&z=2015-01-01&g=2015-01-01));
+de betaling ([artikelen 213–216](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zesde&artikel=213&z=2025-07-01&g=2025-07-01));
 
-het recht van regres in geval van non-betaling ([artikelen 217–226](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=217&z=2015-01-01&g=2015-01-01), [228–231](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=228&z=2015-01-01&g=2015-01-01));
+het recht van regres in geval van non-betaling ([artikelen 217–226](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=217&z=2025-07-01&g=2025-07-01), [228–231](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Zevende&artikel=228&z=2025-07-01&g=2025-07-01));
 
-de betaling bij tussenkomst ([artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Achtste&paragraaf=1&artikel=232&z=2015-01-01&g=2015-01-01), [235–237](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Achtste&paragraaf=3&artikel=235&z=2015-01-01&g=2015-01-01));
+de betaling bij tussenkomst ([artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Achtste&paragraaf=1&artikel=232&z=2025-07-01&g=2025-07-01), [235–237](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Achtste&paragraaf=3&artikel=235&z=2025-07-01&g=2025-07-01));
 
-de wisselafschriften ([artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=2&artikel=240&z=2015-01-01&g=2015-01-01));
+de wisselafschriften ([artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=2&artikel=240&z=2025-07-01&g=2025-07-01));
 
-de vermiste wisselbrieven ([artikel 241, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=3&artikel=241&z=2015-01-01&g=2015-01-01));
+de vermiste wisselbrieven ([artikel 241, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Negende&paragraaf=3&artikel=241&z=2025-07-01&g=2025-07-01));
 
-de veranderingen ([artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tiende&artikel=242&z=2015-01-01&g=2015-01-01));
+de veranderingen ([artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Tiende&artikel=242&z=2025-07-01&g=2025-07-01));
 
-de verjaring ([artikelen 243](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=243&z=2015-01-01&g=2015-01-01) en [244](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=244&z=2015-01-01&g=2015-01-01));
+de verjaring ([artikelen 243](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=243&z=2025-07-01&g=2025-07-01) en [244](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Elfde&artikel=244&z=2025-07-01&g=2025-07-01));
 
-de feestdagen, de berekening der termijnen en het verbod van respijtdagen ([artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Twaalfde&artikel=245&z=2015-01-01&g=2015-01-01)).
+de feestdagen, de berekening der termijnen en het verbod van respijtdagen ([artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Twaalfde&artikel=245&z=2025-07-01&g=2025-07-01)).
 
-2. Eveneens zijn op het orderbriefje toepasselijk de bepalingen betreffende de wisselbrief, betaalbaar bij een derde of in een andere plaats dan die van het domicilie van de betrokkene ([artikelen 182](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=182&z=2015-01-01&g=2015-01-01) en [201](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=201&z=2015-01-01&g=2015-01-01)), de renteclausule ([artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=183&z=2015-01-01&g=2015-01-01)), de verschillen in de vermelding met betrekking tot de som, welke moet worden betaald ([artikel 184](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=184&z=2015-01-01&g=2015-01-01)), de gevolgen van het plaatsen van een handtekening onder de omstandigheden bedoeld in [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=185&z=2015-01-01&g=2015-01-01), die van de handtekening van een persoon, die handelt zonder bevoegdheid of die zijn bevoegdheid overschrijdt (artikel 185, tweede lid), en de wisselbrief in blanco ([artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=187&z=2015-01-01&g=2015-01-01)).
+2. Eveneens zijn op het orderbriefje toepasselijk de bepalingen betreffende de wisselbrief, betaalbaar bij een derde of in een andere plaats dan die van het domicilie van de betrokkene ([artikelen 182](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=182&z=2025-07-01&g=2025-07-01) en [201](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=201&z=2025-07-01&g=2025-07-01)), de renteclausule ([artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=183&z=2025-07-01&g=2025-07-01)), de verschillen in de vermelding met betrekking tot de som, welke moet worden betaald ([artikel 184](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=184&z=2025-07-01&g=2025-07-01)), de gevolgen van het plaatsen van een handtekening onder de omstandigheden bedoeld in [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=185&z=2025-07-01&g=2025-07-01), die van de handtekening van een persoon, die handelt zonder bevoegdheid of die zijn bevoegdheid overschrijdt (artikel 185, tweede lid), en de wisselbrief in blanco ([artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Eerste&artikel=187&z=2025-07-01&g=2025-07-01)).
 
-3. Eveneens zijn op het orderbriefje toepasselijk de bepalingen betreffende het aval ([artikelen 205–207](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vierde&artikel=205&z=2015-01-01&g=2015-01-01)); indien overeenkomstig hetgeen is bepaald bij [artikel 206, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vierde&artikel=206&z=2015-01-01&g=2015-01-01), het aval niet vermeldt, voor wie het is gegeven, wordt het geacht voor rekening van de ondertekenaar van het orderbriefje te zijn gegeven.
+3. Eveneens zijn op het orderbriefje toepasselijk de bepalingen betreffende het aval ([artikelen 205–207](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vierde&artikel=205&z=2025-07-01&g=2025-07-01)); indien overeenkomstig hetgeen is bepaald bij [artikel 206, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Vierde&artikel=206&z=2025-07-01&g=2025-07-01), het aval niet vermeldt, voor wie het is gegeven, wordt het geacht voor rekening van de ondertekenaar van het orderbriefje te zijn gegeven.
 
 ##### Artikel 248
 
 1. De ondertekenaar van een orderbriefje is op dezelfde wijze verbonden als de acceptant van een wisselbrief.
 
-2. De orderbriefjes, betaalbaar zekere tijd na zicht, moeten ter tekening voor «gezien» aan de ondertekenaar worden aangeboden binnen de bij [artikel 199, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=199&z=2015-01-01&g=2015-01-01), vastgestelde termijn. De zichttermijn loopt van de dagtekening van het visum, hetwelk door de ondertekenaar op het orderbriefje moet worden geplaatst. De weigering van deze zijn visum te plaatsen, moet worden vastgesteld door een protest ([artikel 200, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=200&z=2015-01-01&g=2015-01-01)), van welks dagtekening de zichttermijn begint te lopen.
+2. De orderbriefjes, betaalbaar zekere tijd na zicht, moeten ter tekening voor «gezien» aan de ondertekenaar worden aangeboden binnen de bij [artikel 199, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=199&z=2025-07-01&g=2025-07-01), vastgestelde termijn. De zichttermijn loopt van de dagtekening van het visum, hetwelk door de ondertekenaar op het orderbriefje moet worden geplaatst. De weigering van deze zijn visum te plaatsen, moet worden vastgesteld door een protest ([artikel 200, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&afdeling=Derde&artikel=200&z=2025-07-01&g=2025-07-01)), van welks dagtekening de zichttermijn begint te lopen.
 
 ## titel Zesde. Van cheques en van promessen en kwitanties aan toonder
 
@@ -1065,7 +1065,7 @@ Een in de cheque opgenomen renteclausule wordt voor niet-geschreven gehouden.
 
 ##### Artikel 261
 
-Indien iemand, op welke wijze dan ook, het bezit van de cheque heeft verloren, is de houder, in wiens handen de cheque zich bevindt, niet verplicht de cheque af te geven, indien hij deze te goeder trouw heeft verkregen en zulks onverschillig of het betreft een cheque aan toonder, dan wel een voor endossement vatbare cheque, ten aanzien van welke de houder op de wijze in het [eerste lid van artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Tweede&artikel=260&z=2015-01-01&g=2015-01-01) voorzien van zijn recht doet blijken.
+Indien iemand, op welke wijze dan ook, het bezit van de cheque heeft verloren, is de houder, in wiens handen de cheque zich bevindt, niet verplicht de cheque af te geven, indien hij deze te goeder trouw heeft verkregen en zulks onverschillig of het betreft een cheque aan toonder, dan wel een voor endossement vatbare cheque, ten aanzien van welke de houder op de wijze in het [eerste lid van artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Tweede&artikel=260&z=2025-07-01&g=2025-07-01) voorzien van zijn recht doet blijken.
 
 ##### Artikel 262
 
@@ -1149,7 +1149,7 @@ De dag van uitgifte van een cheque, getrokken tussen twee plaatsen met verschill
 
 ##### Artikel 272
 
-1. Buiten het geval, in het [eerste lid van artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=287&z=2015-01-01&g=2015-01-01) vermeld, is de betrokkene, de cheque betalende, bevoegd te vorderen, dat hem deze, van behoorlijke kwijting van de houder voorzien, wordt uitgeleverd.
+1. Buiten het geval, in het [eerste lid van artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=287&z=2025-07-01&g=2025-07-01) vermeld, is de betrokkene, de cheque betalende, bevoegd te vorderen, dat hem deze, van behoorlijke kwijting van de houder voorzien, wordt uitgeleverd.
 
 2. De houder mag niet weigeren een gedeeltelijke betaling aan te nemen.
 
@@ -1173,7 +1173,7 @@ De dag van uitgifte van een cheque, getrokken tussen twee plaatsen met verschill
 
 ##### Artikel 274
 
-1. De trekker of de houder van een cheque is bevoegd deze te kruisen met de in het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Vijfde&artikel=275&z=2015-01-01&g=2015-01-01) genoemde gevolgen.
+1. De trekker of de houder van een cheque is bevoegd deze te kruisen met de in het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Vijfde&artikel=275&z=2025-07-01&g=2025-07-01) genoemde gevolgen.
 
 2. De kruising geschiedt door het plaatsen van twee evenwijdige lijnen op de voorzijde van de cheque. Zij kan algemeen zijn of bijzonder.
 
@@ -1243,7 +1243,7 @@ De houder mag zijn recht van regres uitoefenen op de endossanten, de trekker en 
 
 - 1°. een letterlijk afschrift van de cheque, van de endossementen, van het aval en van de adressen daarop gesteld;
 
-- 2°. de vermelding dat zij de betaling aan de personen, of ter plaatse in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=279&z=2015-01-01&g=2015-01-01) gemeld, afgevraagd en niet bekomen hebben;
+- 2°. de vermelding dat zij de betaling aan de personen, of ter plaatse in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=279&z=2025-07-01&g=2025-07-01) gemeld, afgevraagd en niet bekomen hebben;
 
 - 3°. de vermelding van de opgegeven reden van non-betaling;
 
@@ -1317,7 +1317,7 @@ De houder mag zijn recht van regres uitoefenen op de endossanten, de trekker en 
 
 1. Indien de aanbieding van de cheque, het opmaken van het protest, of de daarmede gelijkstaande verklaring, binnen de voorgeschreven termijnen wordt verhinderd door een onoverkomelijk beletsel (wettelijk voorschrift of ander geval van overmacht), worden deze termijnen verlengd.
 
-2. De houder is verplicht van de overmacht onverwijld aan zijn endossant kennis te geven, en deze kennisgeving, gedagtekend en ondertekend op de cheque of op een verlengstuk te vermelden; voor het overige zijn de bepalingen van [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=281&z=2015-01-01&g=2015-01-01) toepasselijk.
+2. De houder is verplicht van de overmacht onverwijld aan zijn endossant kennis te geven, en deze kennisgeving, gedagtekend en ondertekend op de cheque of op een verlengstuk te vermelden; voor het overige zijn de bepalingen van [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=281&z=2025-07-01&g=2025-07-01) toepasselijk.
 
 3. Na ophouden van de overmacht moet de houder onverwijld de cheque ter betaling aanbieden, en, indien daartoe aanleiding bestaat, de weigering van betaling doen vaststellen door protest of een daarmede gelijkstaande verklaring.
 
@@ -1351,7 +1351,7 @@ In geval van verandering van de tekst van een cheque zijn zij, die daarna hun ha
 
 ##### Artikel 289
 
-Behoudens de bepalingen van het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=290&z=2015-01-01&g=2015-01-01) gaat schuld uit een cheque te niet door alle middelen van schuldbevrijding, bij het Burgerlijk Wetboek BES aangewezen.
+Behoudens de bepalingen van het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=290&z=2025-07-01&g=2025-07-01) gaat schuld uit een cheque te niet door alle middelen van schuldbevrijding, bij het Burgerlijk Wetboek BES aangewezen.
 
 ##### Artikel 290
 
@@ -1365,7 +1365,7 @@ Behoudens de bepalingen van het [volgende artikel](https://wetten.overheid.nl/jc
 
 1. De stuiting van de verjaring is slechts van kracht tegen degene, ten aanzien van wie de stuitingshandeling heeft plaats gehad.
 
-2. Op de in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=290&z=2015-01-01&g=2015-01-01) bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=321) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.
+2. Op de in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=290&z=2025-07-01&g=2025-07-01) bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=321) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.
 
 ### afdeling Tiende. Algemene bepalingen
 
@@ -1431,7 +1431,7 @@ de eerste vrijdag in de maand december voor wat betreft het openbaar lichaam Sab
 
 ##### Artikel 297
 
-Indien de laatste dag van enige termijn, waaromtrent in deze afdeling enige bepaling voorkomt, invalt op een wettelijke feestdag in de zin van het [laatste lid van artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Tiende&artikel=293&z=2015-01-01&g=2015-01-01), blijft de verplichting en de verantwoordelijkheid voortduren tot en met de eerste daaropvolgende dag, welke geen wettelijke feestdag is.
+Indien de laatste dag van enige termijn, waaromtrent in deze afdeling enige bepaling voorkomt, invalt op een wettelijke feestdag in de zin van het [laatste lid van artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Tiende&artikel=293&z=2025-07-01&g=2025-07-01), blijft de verplichting en de verantwoordelijkheid voortduren tot en met de eerste daaropvolgende dag, welke geen wettelijke feestdag is.
 
 ##### Artikel 298
 
@@ -1439,7 +1439,7 @@ Indien de laatste dag van enige termijn, waaromtrent in deze afdeling enige bepa
 
 2. De in het vorige lid bedoelde verjaring mag niet worden ingeroepen door de uitgever, indien of voor zover hij geen fonds heeft bezorgd, noch door de uitgever of door hen, die buiten de oorspronkelijke uitgever het papier in betaling hebben gegeven, voor zover ze zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=306).
 
-3. Op de in dit artikel genoemde verjaringen is het [tweede lid van artikel 291](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=291&z=2015-01-01&g=2015-01-01) van toepassing.
+3. Op de in dit artikel genoemde verjaringen is het [tweede lid van artikel 291](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&afdeling=Negende&artikel=291&z=2025-07-01&g=2025-07-01) van toepassing.
 
 ## titel Achtste. Van assurantie of verzekering in het algemeen
 
@@ -1451,15 +1451,15 @@ Assurantie of verzekering is een overeenkomst, bij welke de verzekeraar zich aan
 
 De verzekeringen kunnen, onder andere, ten onderwerp hebben:
 
-de gevaren van brand ([artikelen 353–364](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Eerste&artikel=353&z=2015-01-01&g=2015-01-01));
+de gevaren van brand ([artikelen 353–364](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Eerste&artikel=353&z=2025-07-01&g=2025-07-01));
 
-de gevaren, waaraan de voortbrengselen van de landbouw te velde onderhevig zijn ([artikelen 365–367](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Tweede&artikel=365&z=2015-01-01&g=2015-01-01));
+de gevaren, waaraan de voortbrengselen van de landbouw te velde onderhevig zijn ([artikelen 365–367](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Tweede&artikel=365&z=2025-07-01&g=2025-07-01));
 
-het leven van een of meer personen ([artikelen 368–374](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Derde&artikel=368&z=2015-01-01&g=2015-01-01));
+het leven van een of meer personen ([artikelen 368–374](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Negende&afdeling=Derde&artikel=368&z=2025-07-01&g=2025-07-01));
 
-de gevaren van de zee en die van de slavernij ([artikelen 813–891](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=813&z=2015-01-01&g=2015-01-01)); en
+de gevaren van de zee en die van de slavernij ([artikelen 813–891](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=813&z=2025-07-01&g=2025-07-01)); en
 
-de gevaren van het vervoer te lande en langs de kusten ([artikelen 892–899](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&artikel=892&z=2015-01-01&g=2015-01-01)).
+de gevaren van het vervoer te lande en langs de kusten ([artikelen 892–899](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&artikel=892&z=2025-07-01&g=2025-07-01)).
 
 ##### Artikel 317
 
@@ -1619,7 +1619,7 @@ Verliezen of schaden, door eigen schuld van een verzekerde veroorzaakt, komen ni
 
 1. Het wordt niet als een ongeoorloofde overeenkomst beschouwd, indien na de verzekering van een voorwerp voor de volle waarde de belanghebbende het vervolgens geheel of gedeeltelijk laat verzekeren, onder de uitdrukkelijke bepaling, dat hij zijn recht tegen de verzekeraars alleen mag doen gelden, indien en voor zover hij de schade op de vroegere niet zal kunnen verhalen.
 
-2. Bij het aangaan van zodanige overeenkomst moeten, op straffe van nietigheid, de vroeger gesloten overeenkomsten duidelijk worden omschreven; alsdan zijn de bepalingen van de [artikelen 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=344&z=2015-01-01&g=2015-01-01) en [345](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=345&z=2015-01-01&g=2015-01-01) insgelijks daarop toepasselijk.
+2. Bij het aangaan van zodanige overeenkomst moeten, op straffe van nietigheid, de vroeger gesloten overeenkomsten duidelijk worden omschreven; alsdan zijn de bepalingen van de [artikelen 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=344&z=2025-07-01&g=2025-07-01) en [345](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=345&z=2025-07-01&g=2025-07-01) insgelijks daarop toepasselijk.
 
 ##### Artikel 348
 
@@ -1645,7 +1645,7 @@ Indien de verzekerde ter zake van door hem geleden schade vorderingen tot schade
 
 ##### Artikel 353
 
-De brandpolis moet, behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2015-01-01&g=2015-01-01) vermeld, uitdrukken:
+De brandpolis moet, behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2025-07-01&g=2025-07-01) vermeld, uitdrukken:
 
 - 1°. de ligging en de belending van de verzekerde onroerende zaken;
 
@@ -1685,7 +1685,7 @@ De schade wordt berekend naar de waarde, welke de zaken ten tijde van de brand h
 
 ##### Artikel 365
 
-Behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2015-01-01&g=2015-01-01) vermeld moet de polis uitdrukken:
+Behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2025-07-01&g=2025-07-01) vermeld moet de polis uitdrukken:
 
 - 1°. de ligging en belending van de landerijen, welker voortbrengselen zijn verzekerd, en
 
@@ -1751,13 +1751,13 @@ Onder deze afdeling zijn niet begrepen weduwefondsen, tontines, maatschappijen v
 
 2. Onder zeewerkgever is te verstaan de eigenaar of, in geval van rompbevrachting, de rompbevrachter.
 
-3. In dit Boek wordt met Nederlandse schepen en schepen die varen onder de Nederlandse vlag gedoeld op schepen waarvan de Nederlandse nationaliteit voortvloeit uit de Rijksregelgeving ter zake van de nationaliteit van schepen.
+3. In dit Boek wordt met Nederlandse schepen en schepen die varen onder de Nederlandse vlag gedoeld op schepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
 
 ## titel Eerste. Van zeeschepen
 
 ##### Artikel 376
 
-In de [eerste tot en met de vierde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Eerste&z=2015-01-01&g=2015-01-01) van dit Boek worden onder schepen uitsluitend verstaan zeeschepen.
+In de [eerste tot en met de vierde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Eerste&z=2025-07-01&g=2025-07-01) van dit Boek worden onder schepen uitsluitend verstaan zeeschepen.
 
 ##### Artikel 377
 
@@ -1773,7 +1773,7 @@ Op ten minste twintig kubieke meters bruto-inhoud metende, langs de kusten varen
 
 ##### Artikel 407
 
-[Artikel 404](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Eerste&artikel=404&z=2015-01-01&g=2015-01-01) is niet van toepassing op aan de Staat of aan een van de openbare lichamen Bonaire, Sint Eustatius en Saba toebehorende schepen, welke tot de openbare dienst zijn bestemd.
+[Artikel 404](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Eerste&artikel=404&z=2025-07-01&g=2025-07-01) is niet van toepassing op aan de Staat of aan een van de openbare lichamen Bonaire, Sint Eustatius en Saba toebehorende schepen, welke tot de openbare dienst zijn bestemd.
 
 ## titel Derde. Van de kapitein
 
@@ -1867,7 +1867,7 @@ Wanneer de kapitein zich in zaken van aanbelang met leden van de bemanning heeft
 
 ##### Artikel 451
 
-Bij het berekenen van de in [artikelen 449](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=449&z=2015-01-01&g=2015-01-01) en [450](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=450&z=2015-01-01&g=2015-01-01) genoemde wettelijke termijnen tellen de zondag en de algemeen erkende feestdagen, en, in het buitenland, de aldaar erkende wettelijke feestdagen niet mee.
+Bij het berekenen van de in [artikelen 449](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=449&z=2025-07-01&g=2025-07-01) en [450](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=450&z=2025-07-01&g=2025-07-01) genoemde wettelijke termijnen tellen de zondag en de algemeen erkende feestdagen, en, in het buitenland, de aldaar erkende wettelijke feestdagen niet mee.
 
 ##### Artikel 452
 
@@ -1895,7 +1895,7 @@ De kapitein is in geval van nood gedurende de reis bevoegd, levensmiddelen, welk
 
 ##### Artikel 457
 
-1. De kapitein van een Nederlands naar de openbare lichamen Bonaire, Sint Eustatius en Saba bestemd en in een haven buiten de openbare lichamen Bonaire, Sint Eustatius en Saba vertoevend schip is verplicht, zich daar bevindende, hulpbehoevende Nederlandse zeelieden, voor zover aan boord voor hen plaats is, op verlangen van de Nederlandse consulaire ambtenaar of, waar deze ontbreekt, van de plaatselijke overheid, naar de openbare lichamen Bonaire, Sint Eustatius en Saba over te brengen.
+1. De kapitein van een Nederlands schip, bestemd naar de openbare lichamen Bonaire, Sint Eustatius en Saba en vertoevend in een haven buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, is verplicht, zich daar bevindende, hulpbehoevende Nederlandse zeelieden, voor zover aan boord voor hen plaats is, op verlangen van de Nederlandse consulaire ambtenaar of, waar deze ontbreekt, van de plaatselijke overheid, naar de openbare lichamen Bonaire, Sint Eustatius en Saba over te brengen.
 
 2. De kosten hiervan zijn voor rekening van de Staat. Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de vaststelling van die kosten.
 
@@ -1911,7 +1911,7 @@ De kapitein is in geval van nood gedurende de reis bevoegd, levensmiddelen, welk
 
 2. Hij geeft de zeewerkgever doorlopend kennis van alles wat het schip en de zaken aan boord betreft, en vraagt diens orders, alvorens tot enige maatregel van geldelijk aanbelang over te gaan.
 
-3. Overigens is het bepaalde bij [artikel 458](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=458&z=2015-01-01&g=2015-01-01) ook op zijn verhouding tot de zeewerkgever van toepassing.
+3. Overigens is het bepaalde bij [artikel 458](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=458&z=2025-07-01&g=2025-07-01) ook op zijn verhouding tot de zeewerkgever van toepassing.
 
 ##### Artikel 466
 
@@ -1935,7 +1935,7 @@ Noch de kapitein, noch een opvarende mag voor eigen rekening goederen in het sch
 
 ##### Artikel 474
 
-1. Op ten minste twintig kubieke meters bruto-inhoud metende, langs de kusten varende vaartuigen zijn in het algemeen en naar de omstandigheden de voorgaande artikelen van deze Titel van toepassing, met uitzondering evenwel van [artikel 444](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=444&z=2015-01-01&g=2015-01-01), het [tweede lid van artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=445&z=2015-01-01&g=2015-01-01), het [eerste lid van artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=446&z=2015-01-01&g=2015-01-01) en [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=449&z=2015-01-01&g=2015-01-01).
+1. Op ten minste twintig kubieke meters bruto-inhoud metende, langs de kusten varende vaartuigen zijn in het algemeen en naar de omstandigheden de voorgaande artikelen van deze Titel van toepassing, met uitzondering evenwel van [artikel 444](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=444&z=2025-07-01&g=2025-07-01), het [tweede lid van artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=445&z=2025-07-01&g=2025-07-01), het [eerste lid van artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=446&z=2025-07-01&g=2025-07-01) en [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=449&z=2025-07-01&g=2025-07-01).
 
 2. Aan boord moeten aanwezig zijn een uittreksel uit het scheepsregister, de monsterrol, indien deze is opgemaakt, en de wettelijke regelingen op deze schepen van toepassing.
 
@@ -1959,11 +1959,11 @@ De kapitein heeft gedurende de tijd dat hij in dienst is aan boord van een schip
 
 ##### Artikel 479
 
-Behalve in de gevallen, genoemd in [artikel 537 onder 1°. tot en met 8°.](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=537&z=2015-01-01&g=2015-01-01), kunnen voor de zeewerkgever dringende redenen aanwezig worden geacht:
+Behalve in de gevallen, genoemd in [artikel 537 onder 1°. tot en met 8°.](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=537&z=2025-07-01&g=2025-07-01), kunnen voor de zeewerkgever dringende redenen aanwezig worden geacht:
 
 - 1°. indien de kapitein een opvarende van het door hem gevoerde schip mishandelt, grovelijk beledigt of op ernstige wijze bedreigt of verleidt of tracht te verleiden tot handelingen, strijdig met wettelijke regelingen of met de goede zeden;
 
-- 2°. indien de kapitein weigert te voldoen aan een opdracht hem gegeven overeenkomstig het bepaalde in [artikel 477](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=477&z=2015-01-01&g=2015-01-01);
+- 2°. indien de kapitein weigert te voldoen aan een opdracht hem gegeven overeenkomstig het bepaalde in [artikel 477](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=477&z=2025-07-01&g=2025-07-01);
 
 - 3°. indien aan de kapitein, hetzij tijdelijk, hetzij voorgoed, de bevoegdheid is ontnomen, als zodanig op een schip dienst te doen;
 
@@ -1987,19 +1987,19 @@ De zeewerkgever verbeurt ten behoeve van de kapitein voor iedere dag, dat hij de
 
 ##### Artikel 484
 
-1. De [artikelen 491–493](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=491&z=2015-01-01&g=2015-01-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=497&z=2015-01-01&g=2015-01-01), [503](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=503&z=2015-01-01&g=2015-01-01), [508](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=508&z=2015-01-01&g=2015-01-01), [512–517](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=512&z=2015-01-01&g=2015-01-01), [526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2015-01-01&g=2015-01-01), [527](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=527&z=2015-01-01&g=2015-01-01), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=529&z=2015-01-01&g=2015-01-01), [531–536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2015-01-01&g=2015-01-01), [538](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=538&z=2015-01-01&g=2015-01-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01), [541–544](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2015-01-01&g=2015-01-01), [553–555](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=553&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op de arbeidsovereenkomst van de kapitein.
+1. De [artikelen 491–493](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=491&z=2025-07-01&g=2025-07-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=497&z=2025-07-01&g=2025-07-01), [503](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=503&z=2025-07-01&g=2025-07-01), [508](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=508&z=2025-07-01&g=2025-07-01), [512–517](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=512&z=2025-07-01&g=2025-07-01), [526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2025-07-01&g=2025-07-01), [527](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=527&z=2025-07-01&g=2025-07-01), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=529&z=2025-07-01&g=2025-07-01), [531–536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2025-07-01&g=2025-07-01), [538](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=538&z=2025-07-01&g=2025-07-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01), [541–544](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2025-07-01&g=2025-07-01), [553–555](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=553&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de arbeidsovereenkomst van de kapitein.
 
-2. [Artikel 530](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=530&z=2015-01-01&g=2015-01-01) vindt toepassing ten aanzien van de [artikelen 476](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=476&z=2015-01-01&g=2015-01-01), [480](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=480&z=2015-01-01&g=2015-01-01) en [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01) in verband met [artikel 484, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=484&z=2015-01-01&g=2015-01-01).
+2. [Artikel 530](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=530&z=2025-07-01&g=2025-07-01) vindt toepassing ten aanzien van de [artikelen 476](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=476&z=2025-07-01&g=2025-07-01), [480](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=480&z=2025-07-01&g=2025-07-01) en [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01) in verband met [artikel 484, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=484&z=2025-07-01&g=2025-07-01).
 
-3. Als gewichtige redenen worden, behalve die, genoemd in [artikel 540](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2015-01-01&g=2015-01-01), ook beschouwd omstandigheden, na de aanvang van de dienst aan boord aan de verzoeker gebleken of nadien opgekomen, waardoor de voortzetting van de reis, waarop het schip zich bevindt, de kapitein of de opvarenden aan onvoorzien, groot levensgevaar zou blootstellen.
+3. Als gewichtige redenen worden, behalve die, genoemd in [artikel 540](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2025-07-01&g=2025-07-01), ook beschouwd omstandigheden, na de aanvang van de dienst aan boord aan de verzoeker gebleken of nadien opgekomen, waardoor de voortzetting van de reis, waarop het schip zich bevindt, de kapitein of de opvarenden aan onvoorzien, groot levensgevaar zou blootstellen.
 
 ##### Artikel 485
 
-Bij overeenkomst mogen partijen niet afwijken van het bepaalde in de [artikelen 475](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=475&z=2015-01-01&g=2015-01-01), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=476&z=2015-01-01&g=2015-01-01), [478](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=478&z=2015-01-01&g=2015-01-01) en [483](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=483&z=2015-01-01&g=2015-01-01), noch ook ten nadele van de kapitein van het bepaalde in [artikel 484, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=484&z=2015-01-01&g=2015-01-01).
+Bij overeenkomst mogen partijen niet afwijken van het bepaalde in de [artikelen 475](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=475&z=2025-07-01&g=2025-07-01), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=476&z=2025-07-01&g=2025-07-01), [478](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=478&z=2025-07-01&g=2025-07-01) en [483](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=483&z=2025-07-01&g=2025-07-01), noch ook ten nadele van de kapitein van het bepaalde in [artikel 484, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=484&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 486
 
-De bepalingen van de [artikelen 475–485](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=475&z=2015-01-01&g=2015-01-01) gelden niet voor kapiteins van ten minste twintig kubieke meters bruto-inhoud metende, langs de kusten varende vaartuigen.
+De bepalingen van de [artikelen 475–485](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=475&z=2025-07-01&g=2025-07-01) gelden niet voor kapiteins van ten minste twintig kubieke meters bruto-inhoud metende, langs de kusten varende vaartuigen.
 
 ## titel Vierde. Van de schepelingen
 
@@ -2067,15 +2067,15 @@ De overeenkomst moet, behalve hetgeen elders bij algemene verordening daartoe is
 
 - 6°. indien mogelijk, de plaats waar en de dag waarop de dienst aan boord aanvangt;
 
-- 7°. het bepaalde bij [artikel 515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2015-01-01&g=2015-01-01) nopens het recht op vrije dagen;
+- 7°. het bepaalde bij [artikel 515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2025-07-01&g=2025-07-01) nopens het recht op vrije dagen;
 
 - 8°. de beëindiging van de dienstbetrekking, namelijk:
 
-- a. indien de overeenkomst voor een bepaalde tijd wordt aangegaan, de dag waarop de dienstbetrekking eindigt, met vermelding van de inhoud van [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=532&z=2015-01-01&g=2015-01-01);
+- a. indien de overeenkomst voor een bepaalde tijd wordt aangegaan, de dag waarop de dienstbetrekking eindigt, met vermelding van de inhoud van [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=532&z=2025-07-01&g=2025-07-01);
 
-- b. indien de overeenkomst bij de reis wordt aangegaan, de haven overeengekomen voor de beëindiging van de dienstbetrekking, met vermelding van de inhoud van [artikel 533, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2015-01-01&g=2015-01-01), alsmede, indien de haven een haven in de openbare lichamen Bonaire, Sint Eustatius en Saba is, van het [eerste of van het tweede lid van artikel 534](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2015-01-01&g=2015-01-01), naar gelang de haven al of niet met name is genoemd;
+- b. indien de overeenkomst bij de reis wordt aangegaan, de haven overeengekomen voor de beëindiging van de dienstbetrekking, met vermelding van de inhoud van [artikel 533, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2025-07-01&g=2025-07-01), alsmede, indien de haven een haven in de openbare lichamen Bonaire, Sint Eustatius en Saba is, van het [eerste of van het tweede lid van artikel 534](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2025-07-01&g=2025-07-01), naar gelang de haven al of niet met name is genoemd;
 
-- c. indien de overeenkomst voor onbepaalde tijd wordt aangegaan, de inhoud van [artikel 535, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=535&z=2015-01-01&g=2015-01-01).
+- c. indien de overeenkomst voor onbepaalde tijd wordt aangegaan, de inhoud van [artikel 535, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=535&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 497
 
@@ -2083,7 +2083,7 @@ De overeenkomst moet, behalve hetgeen elders bij algemene verordening daartoe is
 
 2. De aanduiding in de overeenkomst van het schip of de schepen, waarop de schepeling zich verbindt dienst te doen, kan ook geschieden door te bepalen, dat hij dienst zal doen op een of meer door de zeewerkgever aangewezen schepen, behorende tot die, welke de zeewerkgever voor de vaart ter zee gebruikt.
 
-3. Indien partijen van het bepaalde bij de [artikelen 515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2015-01-01&g=2015-01-01), [532](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=532&z=2015-01-01&g=2015-01-01), [533, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2015-01-01&g=2015-01-01), [534, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2015-01-01&g=2015-01-01), of [535, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=535&z=2015-01-01&g=2015-01-01), wensen af te wijken, voor zover wettelijk geoorloofd, wordt in plaats daarvan die afwijkende regeling in de overeenkomst opgenomen.
+3. Indien partijen van het bepaalde bij de [artikelen 515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2025-07-01&g=2025-07-01), [532](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=532&z=2025-07-01&g=2025-07-01), [533, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2025-07-01&g=2025-07-01), [534, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2025-07-01&g=2025-07-01), of [535, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=535&z=2025-07-01&g=2025-07-01), wensen af te wijken, voor zover wettelijk geoorloofd, wordt in plaats daarvan die afwijkende regeling in de overeenkomst opgenomen.
 
 ##### Artikel 498
 
@@ -2101,7 +2101,7 @@ Indien een daartoe niet bekwaam minderjarige een overeenkomst heeft aangegaan en
 
 ##### Artikel 500
 
-1. Indien in de in [artikel 498](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=498&z=2015-01-01&g=2015-01-01) genoemde schriftelijke machtiging de voorwaarde is opgenomen, dat het in geld vastgesteld loon, geheel of gedeeltelijk, in stede van aan de minderjarige, aan de wettelijke vertegenwoordiger zelf moet worden voldaan, wordt deze ten opzichte van de voldoening van het loon, of van het gedeelte hetwelk hem moet worden uitgekeerd, als de schepeling aangemerkt.
+1. Indien in de in [artikel 498](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=498&z=2025-07-01&g=2025-07-01) genoemde schriftelijke machtiging de voorwaarde is opgenomen, dat het in geld vastgesteld loon, geheel of gedeeltelijk, in stede van aan de minderjarige, aan de wettelijke vertegenwoordiger zelf moet worden voldaan, wordt deze ten opzichte van de voldoening van het loon, of van het gedeelte hetwelk hem moet worden uitgekeerd, als de schepeling aangemerkt.
 
 2. Ook indien een zodanige voorwaarde niet in de machtiging is opgenomen, wordt het aan de minderjarige verschuldigd in geld vastgesteld loon aan de wettelijke vertegenwoordiger voldaan, wanneer deze zich tegen de voldoening aan de minderjarige schriftelijk verzet.
 
@@ -2159,7 +2159,7 @@ De schepeling heeft voor iedere dag, waarop hem de verschuldigde voeding niet of
 
 2. De kapitein is op last van de autoriteiten verplicht in het gebrekkige te voorzien.
 
-3. De kapitein, die aan de hem, overeenkomstig dit en het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=509&z=2015-01-01&g=2015-01-01), gegeven bevelen niet heeft voldaan, wordt geacht zich jegens de schepelingen te hebben misdragen.
+3. De kapitein, die aan de hem, overeenkomstig dit en het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=509&z=2025-07-01&g=2025-07-01), gegeven bevelen niet heeft voldaan, wordt geacht zich jegens de schepelingen te hebben misdragen.
 
 ##### Artikel 511
 
@@ -2173,7 +2173,7 @@ De schepeling heeft voor iedere dag, waarop hem de verschuldigde voeding niet of
 
 1. De overeenkomst moet, op straffe van nietigheid, het bedrag van het in geld uit te betalen loon bevatten dan wel aangeven hoe het zal worden bepaald. De bepaling mag niet aan het goedvinden van een der partijen worden overgelaten.
 
-2. Bij de toepassing van het bepaalde in de [artikelen 516 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2015-01-01&g=2015-01-01), [524 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=524&z=2015-01-01&g=2015-01-01), [526 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2015-01-01&g=2015-01-01), [531](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2015-01-01&g=2015-01-01), [534 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2015-01-01&g=2015-01-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01) en [541](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2015-01-01&g=2015-01-01) wordt loon, vastgesteld bij de reis, geacht te zijn vastgesteld voor een tijdruimte gelijk aan de gemiddelde duur van de reis.
+2. Bij de toepassing van het bepaalde in de [artikelen 516 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2025-07-01&g=2025-07-01), [524 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=524&z=2025-07-01&g=2025-07-01), [526 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2025-07-01&g=2025-07-01), [531](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2025-07-01&g=2025-07-01), [534 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=534&z=2025-07-01&g=2025-07-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01) en [541](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2025-07-01&g=2025-07-01) wordt loon, vastgesteld bij de reis, geacht te zijn vastgesteld voor een tijdruimte gelijk aan de gemiddelde duur van de reis.
 
 ##### Artikel 513
 
@@ -2269,7 +2269,7 @@ De kapitein heeft disciplinair gezag over de schepeling. Hij is bevoegd om tot h
 
 2. De oplegging van de boete mag voorwaardelijk geschieden.
 
-3. Indien de kapitein wegens een dringende reden als bedoeld in [artikel 536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2015-01-01&g=2015-01-01) de dienstbetrekking doet eindigen, mag hij te dier zake niet tevens een disciplinaire straf opleggen.
+3. Indien de kapitein wegens een dringende reden als bedoeld in [artikel 536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2025-07-01&g=2025-07-01) de dienstbetrekking doet eindigen, mag hij te dier zake niet tevens een disciplinaire straf opleggen.
 
 4. De bestemming van de boeten moet in de arbeidsovereenkomst worden aangegeven. De boete mag noch aan de zeewerkgever noch aan de kapitein ten goede komen.
 
@@ -2283,7 +2283,7 @@ De kapitein heeft disciplinair gezag over de schepeling. Hij is bevoegd om tot h
 
 4. Een niet in het register ingeschreven boete wordt geacht ten onrechte te zijn opgelegd.
 
-5. De schepeling is bevoegd om van de oplegging van boete in beroep te komen bij de rechter in eerste aanleg, binnen wiens rechtsgebied het schip is aangekomen of de monsterrol is opgemaakt. Het [derde lid van artikel 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=520&z=2015-01-01&g=2015-01-01) vindt overeenkomstige toepassing.
+5. De schepeling is bevoegd om van de oplegging van boete in beroep te komen bij de rechter in eerste aanleg, binnen wiens rechtsgebied het schip is aangekomen of de monsterrol is opgemaakt. Het [derde lid van artikel 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=520&z=2025-07-01&g=2025-07-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 526
 
@@ -2297,11 +2297,11 @@ De kapitein heeft disciplinair gezag over de schepeling. Hij is bevoegd om tot h
 
 1. De uitbetaling van het in geld vastgesteld deel van het in dienst aan boord van een schip verdiend loon moet geschieden in de munt, waarin het bij de arbeidsovereenkomst is uitgedrukt, of in de munt, gangbaar ter plaatse van de uitbetaling. De koers waartegen in het laatste geval de herleiding is geschied moet de schepeling schriftelijk worden medegedeeld.
 
-2. Onverminderd het bepaalde in [artikel 546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2015-01-01&g=2015-01-01), is de schepeling, indien hij meent, dat de hem medegedeelde koers niet juist is, bevoegd om zich na afloop van de reis deswege te wenden tot de rechter in eerste aanleg, binnen wiens rechtsgebied het schip is aangekomen of de monsterrol is opgemaakt.
+2. Onverminderd het bepaalde in [artikel 546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2025-07-01&g=2025-07-01), is de schepeling, indien hij meent, dat de hem medegedeelde koers niet juist is, bevoegd om zich na afloop van de reis deswege te wenden tot de rechter in eerste aanleg, binnen wiens rechtsgebied het schip is aangekomen of de monsterrol is opgemaakt.
 
 ##### Artikel 528
 
-1. Behoudens het bepaalde in [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2015-01-01&g=2015-01-01) heeft de schepeling recht op uitbetaling van het in dienst aan boord van een schip verdiend loon:
+1. Behoudens het bepaalde in [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2025-07-01&g=2025-07-01) heeft de schepeling recht op uitbetaling van het in dienst aan boord van een schip verdiend loon:
 
 - 1°. indien het naar tijdruimte is vastgesteld, in iedere haven, welke het schip gedurende de reis aandoet, mits ten minste zeven dagen verlopen zijn sedert de laatste uitbetaling;
 
@@ -2309,15 +2309,15 @@ De kapitein heeft disciplinair gezag over de schepeling. Hij is bevoegd om tot h
 
 2. Zolang de reis niet is geëindigd, is de zeewerkgever niet verplicht in het geheel meer dan vijf zesde gedeelte van het loon uit te betalen.
 
-3. De uitbetaling van het in het eerste lid onder 1°. bedoeld loon geschiedt uiterlijk op de dag volgende op die van de aankomst, de in [artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=451&z=2015-01-01&g=2015-01-01) bedoelde dagen niet medegerekend, doch in ieder geval vóór het vertrek uit de haven.
+3. De uitbetaling van het in het eerste lid onder 1°. bedoeld loon geschiedt uiterlijk op de dag volgende op die van de aankomst, de in [artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=451&z=2025-07-01&g=2025-07-01) bedoelde dagen niet medegerekend, doch in ieder geval vóór het vertrek uit de haven.
 
 ##### Artikel 529
 
-De schepeling mag zijn recht op het in geld vastgesteld deel van zijn in dienst aan boord van een schip verdiend loon, voor zover dit te zijner beschikking is, alleen afstaan, in pand geven daaronder begrepen, ten behoeve van zijn echtgenote voor ten hoogste één derde, van zijn kinderen, de verzorgers van zijn kinderen en zijn ouders voor ten hoogste de helft, en van andere bloedverwanten tot de vierde graad en van aanverwanten tot dezelfde graad voor ten hoogste één derde; alles met dien verstaande, dat het bedrag van hetgeen hij afstaat, gevoegd bij het ingevolge [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2015-01-01&g=2015-01-01) aan de echtgenote uit te betalen bedrag, twee derde gedeelte van het gehele in geld vastgesteld loon niet mag overtreffen.
+De schepeling mag zijn recht op het in geld vastgesteld deel van zijn in dienst aan boord van een schip verdiend loon, voor zover dit te zijner beschikking is, alleen afstaan, in pand geven daaronder begrepen, ten behoeve van zijn echtgenote voor ten hoogste één derde, van zijn kinderen, de verzorgers van zijn kinderen en zijn ouders voor ten hoogste de helft, en van andere bloedverwanten tot de vierde graad en van aanverwanten tot dezelfde graad voor ten hoogste één derde; alles met dien verstaande, dat het bedrag van hetgeen hij afstaat, gevoegd bij het ingevolge [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=526&z=2025-07-01&g=2025-07-01) aan de echtgenote uit te betalen bedrag, twee derde gedeelte van het gehele in geld vastgesteld loon niet mag overtreffen.
 
 ##### Artikel 530
 
-1. De boeten en de schadeloosstelling, bedoeld in de [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=524&z=2015-01-01&g=2015-01-01) en [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01), zijn bevoorrecht op het in geld vastgestelde deel van het loon van de schepeling, hetwelk tot het bedrag daarvan mag worden ingehouden.
+1. De boeten en de schadeloosstelling, bedoeld in de [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=524&z=2025-07-01&g=2025-07-01) en [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01), zijn bevoorrecht op het in geld vastgestelde deel van het loon van de schepeling, hetwelk tot het bedrag daarvan mag worden ingehouden.
 
 2. Boete en schadeloosstelling komen in de eerste plaats ten laste van het deel van het loon, dat aan de schepeling persoonlijk moet worden uitbetaald.
 
@@ -2361,7 +2361,7 @@ Indien de dienstbetrekking is aangegaan voor een bepaalde tijd en deze verstrijk
 
 ##### Artikel 537
 
-1. Voor de zeewerkgever worden als dringende redenen in de zin van het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2015-01-01&g=2015-01-01) beschouwd de volgende daden, eigenschappen of gedragingen van schepeling, welke ten gevolge hebben, dat van de zeewerkgever redelijkerwijze niet mag gevergd worden de dienstbetrekking te laten voortduren, te weten:
+1. Voor de zeewerkgever worden als dringende redenen in de zin van het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2025-07-01&g=2025-07-01) beschouwd de volgende daden, eigenschappen of gedragingen van schepeling, welke ten gevolge hebben, dat van de zeewerkgever redelijkerwijze niet mag gevergd worden de dienstbetrekking te laten voortduren, te weten:
 
 - 1°. indien de schepeling bij de afsluiting van de overeenkomst de zeewerkgever heeft misleid door het vertonen van valse of vervalste getuigschriften, of deze opzettelijk valse inlichtingen heeft gegeven, omtrent de wijze waarop zijn vorige dienstbetrekking is geëindigd;
 
@@ -2391,7 +2391,7 @@ Indien de dienstbetrekking is aangegaan voor een bepaalde tijd en deze verstrijk
 
 ##### Artikel 538
 
-1. Voor de schepeling worden als dringende redenen in de zin van [artikel 536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2015-01-01&g=2015-01-01) beschouwd de volgende omstandigheden, welke ten gevolge hebben, dat van de schepeling redelijkerwijze niet mag gevergd worden de dienstbetrekking te laten voortduren, te weten:
+1. Voor de schepeling worden als dringende redenen in de zin van [artikel 536](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=536&z=2025-07-01&g=2025-07-01) beschouwd de volgende omstandigheden, welke ten gevolge hebben, dat van de schepeling redelijkerwijze niet mag gevergd worden de dienstbetrekking te laten voortduren, te weten:
 
 - 1°. indien de zeewerkgever de schepeling, diens familieleden of huisgenoten mishandelt, grovelijk beledigt of op ernstige wijze bedreigt, of gedoogt, dat dergelijke handelingen door een van zijn huisgenoten of ondergeschikten worden gepleegd;
 
@@ -2405,7 +2405,7 @@ Indien de dienstbetrekking is aangegaan voor een bepaalde tijd en deze verstrijk
 
 - 6°. indien de zeewerkgever het schip bestemt naar een haven van een land, dat in een zee-oorlog is gewikkeld, of naar een haven welke is geblokkeerd, tenzij de arbeidsovereenkomst dit uitdrukkelijk voorziet en is gesloten na het uitbreken van de oorlog of na het afkondigen van de blokkade;
 
-- 7°. indien in het geval van [artikel 466](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=466&z=2015-01-01&g=2015-01-01) de reder orders geeft te vertrekken naar een vijandelijke haven;
+- 7°. indien in het geval van [artikel 466](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=466&z=2025-07-01&g=2025-07-01) de reder orders geeft te vertrekken naar een vijandelijke haven;
 
 - 8°. indien de zeewerkgever het schip gebruikt of laat gebruiken voor slavenhandel, zeeroof, strafbare kaapvaart of het vervoer van goederen waarvan de invoer verboden is in het land van bestemming;
 
@@ -2415,7 +2415,7 @@ Indien de dienstbetrekking is aangegaan voor een bepaalde tijd en deze verstrijk
 
 - 11°. indien het logies aan boord in een toestand verkeert, welke schadelijk is voor de gezondheid der bemanning;
 
-- 12°. indien hem de voeding, waarop hij recht heeft, niet of niet in deugdelijke toestand wordt verstrekt, of indien de zeewerkgever handelt in strijd met het bepaalde bij het [tweede lid van artikel 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=507&z=2015-01-01&g=2015-01-01).
+- 12°. indien hem de voeding, waarop hij recht heeft, niet of niet in deugdelijke toestand wordt verstrekt, of indien de zeewerkgever handelt in strijd met het bepaalde bij het [tweede lid van artikel 507](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=507&z=2025-07-01&g=2025-07-01).
 
 - 13°. indien het schip het recht verliest om de Nederlandse vlag te voeren;
 
@@ -2455,11 +2455,11 @@ Voor zover het in geld uitgedrukte deel van het loon is vastgesteld bij de reis,
 
 ##### Artikel 543
 
-Indien de dienstbetrekking is aangegaan bij de reis en de reis door toedoen van de zeewerkgever niet wordt aangevangen of, nadat zij is aangevangen, wordt gestaakt, neemt de dienstbetrekking een einde. De schepeling heeft alsdan het recht op de schadeloosstelling, bepaald in [artikel 539, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01).
+Indien de dienstbetrekking is aangegaan bij de reis en de reis door toedoen van de zeewerkgever niet wordt aangevangen of, nadat zij is aangevangen, wordt gestaakt, neemt de dienstbetrekking een einde. De schepeling heeft alsdan het recht op de schadeloosstelling, bepaald in [artikel 539, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 544
 
-1. Eindigt de dienstbetrekking buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, dan heeft de schepeling recht op vrij vervoer, indien hij Nederlander of Nederlands onderdaan is, tot een haven te zijner keuze in de openbare lichamen Bonaire, Sint Eustatius en Saba, indien hij niet Nederlander of Nederlands onderdaan is, ter keuze van de zeewerkgever, tot de plaats waar de dienst aan boord van het schip is begonnen of tot een haven van het land waar hij thuis behoort, mits de schepeling zijn verlangen daartoe te kennen geeft uiterlijk op de dag volgende op die, waarop de dienstbetrekking eindigt, de in [artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=451&z=2015-01-01&g=2015-01-01) bedoelde dagen niet medegerekend, doch in ieder geval vóór het vertrek van het schip. Echter heeft de schepeling dit recht niet, indien hij de dienstbetrekking onrechtmatig doet eindigen of de zeewerkgever haar doet eindigen om een dringende, aan de schepeling onverwijld medegedeelde reden, of de arbeidsovereenkomst is ontbonden op verzoek van de schepeling, op grond van gewichtige redenen, welke niet tevens zijn dringende redenen in de zin van [artikel 538](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=538&z=2015-01-01&g=2015-01-01).
+1. Eindigt de dienstbetrekking buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, dan heeft de schepeling recht op vrij vervoer, indien hij Nederlander of Nederlands onderdaan is, tot een haven te zijner keuze in de openbare lichamen Bonaire, Sint Eustatius en Saba, indien hij niet Nederlander of Nederlands onderdaan is, ter keuze van de zeewerkgever, tot de plaats waar de dienst aan boord van het schip is begonnen of tot een haven van het land waar hij thuis behoort, mits de schepeling zijn verlangen daartoe te kennen geeft uiterlijk op de dag volgende op die, waarop de dienstbetrekking eindigt, de in [artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=451&z=2025-07-01&g=2025-07-01) bedoelde dagen niet medegerekend, doch in ieder geval vóór het vertrek van het schip. Echter heeft de schepeling dit recht niet, indien hij de dienstbetrekking onrechtmatig doet eindigen of de zeewerkgever haar doet eindigen om een dringende, aan de schepeling onverwijld medegedeelde reden, of de arbeidsovereenkomst is ontbonden op verzoek van de schepeling, op grond van gewichtige redenen, welke niet tevens zijn dringende redenen in de zin van [artikel 538](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=538&z=2025-07-01&g=2025-07-01).
 
 2. Onder het vrij vervoer zijn begrepen de kosten van onderhoud en nachtverblijf van het eindigen van de dienstbetrekking af tot de aankomst van de schepeling in de plaats van zijn bestemming.
 
@@ -2507,7 +2507,7 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 
 1. In geval van verlies van het schip door schipbreuk, is de zeewerkgever verplicht om aan de schepeling zolang deze dientengevolge werkloos is doch ten hoogste gedurende twee maanden een schadeloosstelling te betalen tot een bedrag gelijk aan het bij de arbeidsovereenkomst in geld vastgestelde deel van het loon. Is het loon geheel of voor een deel niet naar tijdruimte vastgesteld, dan is een bedrag verschuldigd gelijk aan het loon, dat volgens het gebruik wegens een reis als die waarop het schip is verloren gegaan, bij vaststelling van het gehele loon naar tijdruimte, wordt betaald. In geval van geschil beslist de rechter in eerste aanleg binnen wiens gebied de monsterrol is opgemaakt of de zetel van het scheepsbedrijf is gevestigd.
 
-2. Voor zover de schepeling krachtens het bepaalde in [artikel 541](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2015-01-01&g=2015-01-01) recht heeft op loon, komt dit loon in mindering van de hierbedoelde schadeloosstelling.
+2. Voor zover de schepeling krachtens het bepaalde in [artikel 541](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2025-07-01&g=2025-07-01) recht heeft op loon, komt dit loon in mindering van de hierbedoelde schadeloosstelling.
 
 3. De vordering tot schadeloosstelling is bevoorrecht op alle goederen van de zeewerkgever; het voorrecht staat in rang gelijk met dat bedoeld in [artikel 288, onder e, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=288).
 
@@ -2521,15 +2521,15 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 
 ##### Artikel 554
 
-1. Bij overeenkomst mogen partijen niet afwijken van het bepaalde in de [artikelen 492](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=492&z=2015-01-01&g=2015-01-01), [493](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=493&z=2015-01-01&g=2015-01-01), [496](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=496&z=2015-01-01&g=2015-01-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=497&z=2015-01-01&g=2015-01-01), [507](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=507&z=2015-01-01&g=2015-01-01), [508](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=508&z=2015-01-01&g=2015-01-01), [512](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=512&z=2015-01-01&g=2015-01-01), [517–520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=517&z=2015-01-01&g=2015-01-01), [522–527](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=522&z=2015-01-01&g=2015-01-01), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=529&z=2015-01-01&g=2015-01-01), [540, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2015-01-01&g=2015-01-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2015-01-01&g=2015-01-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2015-01-01&g=2015-01-01) en [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2015-01-01&g=2015-01-01), noch ook ten nadele van schepelingen van het bepaalde in de [artikelen 501](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=501&z=2015-01-01&g=2015-01-01), [515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2015-01-01&g=2015-01-01), [516](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2015-01-01&g=2015-01-01), [521](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=521&z=2015-01-01&g=2015-01-01), [528](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=528&z=2015-01-01&g=2015-01-01), [531](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2015-01-01&g=2015-01-01), [533–535](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2015-01-01&g=2015-01-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2015-01-01&g=2015-01-01), [540, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2015-01-01&g=2015-01-01), [541–544](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2015-01-01&g=2015-01-01), [548](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=548&z=2015-01-01&g=2015-01-01), [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2015-01-01&g=2015-01-01) en [553](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=553&z=2015-01-01&g=2015-01-01).
+1. Bij overeenkomst mogen partijen niet afwijken van het bepaalde in de [artikelen 492](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=492&z=2025-07-01&g=2025-07-01), [493](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=493&z=2025-07-01&g=2025-07-01), [496](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=496&z=2025-07-01&g=2025-07-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=497&z=2025-07-01&g=2025-07-01), [507](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=507&z=2025-07-01&g=2025-07-01), [508](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=508&z=2025-07-01&g=2025-07-01), [512](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=512&z=2025-07-01&g=2025-07-01), [517–520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=517&z=2025-07-01&g=2025-07-01), [522–527](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=522&z=2025-07-01&g=2025-07-01), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=529&z=2025-07-01&g=2025-07-01), [540, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2025-07-01&g=2025-07-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2025-07-01&g=2025-07-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2025-07-01&g=2025-07-01) en [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2025-07-01&g=2025-07-01), noch ook ten nadele van schepelingen van het bepaalde in de [artikelen 501](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=501&z=2025-07-01&g=2025-07-01), [515](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=515&z=2025-07-01&g=2025-07-01), [516](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2025-07-01&g=2025-07-01), [521](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=521&z=2025-07-01&g=2025-07-01), [528](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=528&z=2025-07-01&g=2025-07-01), [531](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=531&z=2025-07-01&g=2025-07-01), [533–535](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=533&z=2025-07-01&g=2025-07-01), [539](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=539&z=2025-07-01&g=2025-07-01), [540, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2025-07-01&g=2025-07-01), [541–544](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=541&z=2025-07-01&g=2025-07-01), [548](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=548&z=2025-07-01&g=2025-07-01), [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2025-07-01&g=2025-07-01) en [553](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=553&z=2025-07-01&g=2025-07-01).
 
 2. Bepalingen in de arbeidsovereenkomst, welke afwijkingen bevatten van de algemene verordeningen betreffende de bevoegdheid van de rechter om kennis te nemen van geschillen betrekkelijk deze overeenkomst, zijn nietig, met uitzondering van die, waarbij partijen zich verbinden om dergelijke geschillen aan de uitspraak van scheidslieden te onderwerpen.
 
 ##### Artikel 555
 
-1. Een beschikking ingevolge de [artikelen 516 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2015-01-01&g=2015-01-01), [525 laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=525&z=2015-01-01&g=2015-01-01), [540](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2015-01-01&g=2015-01-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2015-01-01&g=2015-01-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2015-01-01&g=2015-01-01), [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2015-01-01&g=2015-01-01) en [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2015-01-01&g=2015-01-01) geeft de rechter in eerste aanleg niet dan na verhoor, althans na behoorlijke oproeping door de griffier, van partijen. Bij de oproeping van de wederpartij wordt een afschrift van het verzoekschrift gevoegd.
+1. Een beschikking ingevolge de [artikelen 516 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2025-07-01&g=2025-07-01), [525 laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=525&z=2025-07-01&g=2025-07-01), [540](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=540&z=2025-07-01&g=2025-07-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2025-07-01&g=2025-07-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2025-07-01&g=2025-07-01), [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2025-07-01&g=2025-07-01) en [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2025-07-01&g=2025-07-01) geeft de rechter in eerste aanleg niet dan na verhoor, althans na behoorlijke oproeping door de griffier, van partijen. Bij de oproeping van de wederpartij wordt een afschrift van het verzoekschrift gevoegd.
 
-2. In de gevallen van de [artikelen 516, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2015-01-01&g=2015-01-01), [525, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=525&z=2015-01-01&g=2015-01-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2015-01-01&g=2015-01-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2015-01-01&g=2015-01-01), [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2015-01-01&g=2015-01-01) en [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2015-01-01&g=2015-01-01) kan de beschikking worden gegeven in de vorm bij [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) bepaald.
+2. In de gevallen van de [artikelen 516, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=516&z=2025-07-01&g=2025-07-01), [525, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=525&z=2025-07-01&g=2025-07-01), [546](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=546&z=2025-07-01&g=2025-07-01), [550](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=550&z=2025-07-01&g=2025-07-01), [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=551&z=2025-07-01&g=2025-07-01) en [552](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=552&z=2025-07-01&g=2025-07-01) kan de beschikking worden gegeven in de vorm bij [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) bepaald.
 
 #### § 3. Van de monsterrol en het monsterboekje
 
@@ -2559,7 +2559,7 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 
 ##### Artikel 559
 
-1. Onverminderd het bepaalde in het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=560&z=2015-01-01&g=2015-01-01) en in andere wetten, laat de ambtenaar van aanmonstering alleen hen, die een monsterboekje overleggen, toe om als schepeling een monsterrol te ondertekenen.
+1. Onverminderd het bepaalde in het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=560&z=2025-07-01&g=2025-07-01) en in andere wetten, laat de ambtenaar van aanmonstering alleen hen, die een monsterboekje overleggen, toe om als schepeling een monsterrol te ondertekenen.
 
 2. De ambtenaar van aanmonstering vermeldt in het boekje de ondertekening van de monsterrol en de hoedanigheid, waarin de schepeling dienst zal doen.
 
@@ -2591,7 +2591,7 @@ Het monsterboekje mag het loon niet noemen en gedragsbeoordelingen niet bevatten
 
 1. Indien de schepelingen van mening is, dat de kapitein in zijn monsterboekje onjuiste feiten heeft vermeld, mag hij zich daarover beklagen bij de Commissie van Onderzoek, als bedoeld in [artikel 26 bis van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26bis). Deze beslist, de Inspecteur voor de Scheepvaart gehoord, na verhoor of behoorlijke oproeping van de kapitein en brengt de door haar nodig geachte verbetering in het boekje aan.
 
-2. Het [laatste lid van artikel 561](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=561&z=2015-01-01&g=2015-01-01) vindt overeenkomstige toepassing.
+2. Het [laatste lid van artikel 561](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=561&z=2025-07-01&g=2025-07-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 564
 
@@ -2599,13 +2599,13 @@ De ambtenaren van aanmonstering houden een register van de te hunnen overstaan o
 
 ##### Artikel 565
 
-Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent alles wat in verband staat met de monsterrol en het monsterboekje, daaronder begrepen het wegens de bemoeiingen van de ambtenaar van aanmonstering aan de Schatkist verschuldigde en de inrichting en bijhouding van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=564&z=2015-01-01&g=2015-01-01) bedoelde registers.
+Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent alles wat in verband staat met de monsterrol en het monsterboekje, daaronder begrepen het wegens de bemoeiingen van de ambtenaar van aanmonstering aan de Schatkist verschuldigde en de inrichting en bijhouding van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=564&z=2025-07-01&g=2025-07-01) bedoelde registers.
 
 #### § 4. Van de schepelingen op ten hoogste vijftig kubieke meters bruto-inhoud metende langs de kusten varende vaartuigen
 
 ##### Artikel 566
 
-1. De bepalingen van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&z=2015-01-01&g=2015-01-01) en de [derde paragraaf van deze Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&z=2015-01-01&g=2015-01-01) blijven buiten toepassing ten aanzien van schepelingen op ten hoogste vijftig kubieke meters bruto-inhoud metende langs de kusten varende vaartuigen.
+1. De bepalingen van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&z=2025-07-01&g=2025-07-01) en de [derde paragraaf van deze Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&z=2025-07-01&g=2025-07-01) blijven buiten toepassing ten aanzien van schepelingen op ten hoogste vijftig kubieke meters bruto-inhoud metende langs de kusten varende vaartuigen.
 
 2. De verplichtingen en rechten van deze schepelingen worden beoordeeld volgens de bepalingen van het Burgerlijk Wetboek BES en van andere algemene verordeningen.
 
@@ -2643,7 +2643,7 @@ Voor zover niet anders is overeengekomen is op tijdbevrachting van een schip dat
 
 ##### Artikel 813
 
-Behalve de bij [art. 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2015-01-01&g=2015-01-01) vermelde vereisten moet de polis uitdrukken:
+Behalve de bij [art. 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2025-07-01&g=2025-07-01) vermelde vereisten moet de polis uitdrukken:
 
 - 1°. de naam van de kapitein, die van het schip, met vermelding van het soort, en, bij verzekering van het schip, de opgave, of het van vurenhout is, of de verklaring, dat de verzekerde van die omstandigheid onkundig is;
 
@@ -2707,11 +2707,11 @@ Indien de verzekerde onkundig is, in welk schip verwacht wordende goederen zulle
 
 ##### Artikel 818
 
-Indien de verzekering is gedaan op schepen of goederen, welke, ten tijde van het sluiten van de overeenkomst, reeds behouden ter plaatse van hun bestemming waren aangekomen, of op enig belang, waarvan de schade, tegen welke verzekerd is, reeds op voorgeschreven tijdstip bestond, zijn op die gevallen toepasselijk de bepalingen van de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=336&z=2015-01-01&g=2015-01-01) en [337](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=337&z=2015-01-01&g=2015-01-01), indien namelijk bewezen wordt of er vermoeden bestaat, dat de verzekeraar van de behouden aankomst, of de verzekerde of diens lasthebber van het aanwezen der schade, bij het sluiten van de overeenkomst, heeft kennis gedragen.
+Indien de verzekering is gedaan op schepen of goederen, welke, ten tijde van het sluiten van de overeenkomst, reeds behouden ter plaatse van hun bestemming waren aangekomen, of op enig belang, waarvan de schade, tegen welke verzekerd is, reeds op voorgeschreven tijdstip bestond, zijn op die gevallen toepasselijk de bepalingen van de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=336&z=2025-07-01&g=2025-07-01) en [337](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=337&z=2025-07-01&g=2025-07-01), indien namelijk bewezen wordt of er vermoeden bestaat, dat de verzekeraar van de behouden aankomst, of de verzekerde of diens lasthebber van het aanwezen der schade, bij het sluiten van de overeenkomst, heeft kennis gedragen.
 
 ##### Artikel 819
 
-1. Het vermoeden, bij [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=337&z=2015-01-01&g=2015-01-01) vermeld, geldt ten aanzien van de verzekerde niet, indien de verzekering is gesloten op goede of kwade tijding, mits in dat geval in de polis worde vermeld het laatste bericht, hetwelk de verzekerde ten aanzien van het verzekerde voorwerp heeft bekomen, en, bij een verzekering voor rekening van een derde, mits in geval van schade, deugdelijk blijke van de dagtekening van de last, welke de lasthebber tot het sluiten van de verzekering bekomen heeft.
+1. Het vermoeden, bij [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=337&z=2025-07-01&g=2025-07-01) vermeld, geldt ten aanzien van de verzekerde niet, indien de verzekering is gesloten op goede of kwade tijding, mits in dat geval in de polis worde vermeld het laatste bericht, hetwelk de verzekerde ten aanzien van het verzekerde voorwerp heeft bekomen, en, bij een verzekering voor rekening van een derde, mits in geval van schade, deugdelijk blijke van de dagtekening van de last, welke de lasthebber tot het sluiten van de verzekering bekomen heeft.
 
 2. Met dat beding mag de verzekering alleen dan worden vernietigd, indien bewezen wordt, dat de verzekerde of diens lasthebber, ten tijde van het sluiten van de overeenkomst, van de geleden schade heeft kennis gedragen.
 
@@ -2735,7 +2735,7 @@ Verzekering op het casco en de kiel van het schip mag gesloten worden voor de vo
 
 ##### Artikel 823
 
-Indien de verzekerde in de polis doet opnemen de bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=822&z=2015-01-01&g=2015-01-01) bedoelde verklaring van onwetendheid en het naderhand blijkt, dat de verzekering gedaan is, nadat de schepen vertrokken waren van de plaats, vanwaar het gevaar voor rekening van de verzekeraar zou beginnen te lopen, moet, in geval van schade, de verzekerde, op de vordering van de verzekeraar, zijn verklaring van onwetendheid voor de rechter met ede bevestigen.
+Indien de verzekerde in de polis doet opnemen de bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=822&z=2025-07-01&g=2025-07-01) bedoelde verklaring van onwetendheid en het naderhand blijkt, dat de verzekering gedaan is, nadat de schepen vertrokken waren van de plaats, vanwaar het gevaar voor rekening van de verzekeraar zou beginnen te lopen, moet, in geval van schade, de verzekerde, op de vordering van de verzekeraar, zijn verklaring van onwetendheid voor de rechter met ede bevestigen.
 
 ##### Artikel 824
 
@@ -2757,7 +2757,7 @@ De werkelijke waarde van de verzekerde goederen mag verhoogd worden met de vrach
 
 ##### Artikel 828
 
-1. De verhoging bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=827&z=2015-01-01&g=2015-01-01) omschreven is niet geldig, indien en voor zover ten gevolge van de omstandigheid dat het verzekerde niet te bestemder plaats aankomt, de betaling van vracht, inkomende rechten en andere onkosten geheel of ten dele vervalt.
+1. De verhoging bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=827&z=2025-07-01&g=2025-07-01) omschreven is niet geldig, indien en voor zover ten gevolge van de omstandigheid dat het verzekerde niet te bestemder plaats aankomt, de betaling van vracht, inkomende rechten en andere onkosten geheel of ten dele vervalt.
 
 2. Maar indien de vracht, volgens overeenkomst met de schipper vóór zijn vertrek gemaakt, heeft moeten vooruit betaald worden, blijft de verzekering te dien aanzien stand grijpen; in geval van ramp of schade moet de vooruitbetaling bewezen worden.
 
@@ -2765,7 +2765,7 @@ De werkelijke waarde van de verzekerde goederen mag verhoogd worden met de vrach
 
 1. Verzekering op verwacht wordende winst moet afzonderlijk bij de polis begroot worden, met bijzondere opgave, op welke goederen de verzekering wordt gesloten; bij gebreke hiervan is de verzekering nietig.
 
-2. Indien de waarde van het verzekerde in het algemeen is uitgedrukt, met stellige bepaling, dat al hetgeen de waarde van de goederen te boven gaat voor verwacht wordende winst zal worden gehouden, is de verzekering geldig voor de waarde van de verzekerde voorwerpen; het overschietende wordt echter herleid tot de bewijsbare hoegrootheid van de verwacht wordende winst, berekend naar de maatstaf bij de [artikelen 835](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Tweede&artikel=835&z=2015-01-01&g=2015-01-01) en [836](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Tweede&artikel=836&z=2015-01-01&g=2015-01-01) vermeld.
+2. Indien de waarde van het verzekerde in het algemeen is uitgedrukt, met stellige bepaling, dat al hetgeen de waarde van de goederen te boven gaat voor verwacht wordende winst zal worden gehouden, is de verzekering geldig voor de waarde van de verzekerde voorwerpen; het overschietende wordt echter herleid tot de bewijsbare hoegrootheid van de verwacht wordende winst, berekend naar de maatstaf bij de [artikelen 835](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Tweede&artikel=835&z=2025-07-01&g=2025-07-01) en [836](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Tweede&artikel=836&z=2025-07-01&g=2025-07-01) vermeld.
 
 ##### Artikel 830
 
@@ -2817,7 +2817,7 @@ Bij verzekering op het schip, begint het gevaar voor de verzekeraar te lopen van
 
 ##### Artikel 839
 
-In de bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=838&z=2015-01-01&g=2015-01-01) gemelde verzekering eindigt het gevaar voor de verzekeraar eenentwintig dagen nadat het verzekerde schip te bestemder plaats is aangekomen, of zoveel eerder als de laatste goederen gelost zijn.
+In de bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=838&z=2025-07-01&g=2025-07-01) gemelde verzekering eindigt het gevaar voor de verzekeraar eenentwintig dagen nadat het verzekerde schip te bestemder plaats is aangekomen, of zoveel eerder als de laatste goederen gelost zijn.
 
 ##### Artikel 840
 
@@ -2833,13 +2833,13 @@ Bij verzekering op goederen loopt het gevaar onafgebroken voort, ook al is de sc
 
 ##### Artikel 843
 
-Indien de kapitein of de verzekerde op goederen door wettige redenen verhinderd wordt binnen de bij [artikel 841](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=841&z=2015-01-01&g=2015-01-01) bepaalde tijd te lossen, zonder zich aan vertraging schuldig te maken, loopt het gevaar voor de verzekeraar door totdat de goederen gelost zijn.
+Indien de kapitein of de verzekerde op goederen door wettige redenen verhinderd wordt binnen de bij [artikel 841](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=841&z=2025-07-01&g=2025-07-01) bepaalde tijd te lossen, zonder zich aan vertraging schuldig te maken, loopt het gevaar voor de verzekeraar door totdat de goederen gelost zijn.
 
 ##### Artikel 844
 
 1. In een verzekering op te verdienen vrachtpenningen begint de verzekeraar het gevaar te lopen van het ogenblik en naarmate dat de vracht-betalende goederen in het schip geladen zijn; zij eindigt vijftien dagen nadat het schip te bestemder losplaats is aangekomen, of zoveel eerder als de vracht-betalende goederen zijn gelost.
 
-2. De bepaling van [artikel 843](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=843&z=2015-01-01&g=2015-01-01) is ook ten dezen toepasselijk.
+2. De bepaling van [artikel 843](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&artikel=843&z=2025-07-01&g=2025-07-01) is ook ten dezen toepasselijk.
 
 ##### Artikel 845
 
@@ -2913,7 +2913,7 @@ Bij een verzekering op de vrachtpenningen is de verzekeraar niet verantwoordelij
 
 ##### Artikel 858
 
-Indien de goederen van de soort, in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=857&z=2015-01-01&g=2015-01-01) gemeld, in de polis met hun namen zijn uitgedrukt, zonder enig bijzonder beding, dan is de verzekeraar niet aansprakelijk voor de averij onder de drie ten honderd.
+Indien de goederen van de soort, in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=857&z=2025-07-01&g=2025-07-01) gemeld, in de polis met hun namen zijn uitgedrukt, zonder enig bijzonder beding, dan is de verzekeraar niet aansprakelijk voor de averij onder de drie ten honderd.
 
 ##### Artikel 859
 
@@ -2943,7 +2943,7 @@ Indien een «vrij van molest» verzekerd schip of goed in een haven ligt en vó�
 
 ##### Artikel 863
 
-Indien de verzekering voor een bepaalde tijd gedaan is, in voege als bij [artikel 816](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=816&z=2015-01-01&g=2015-01-01) gemeld is, moet de verzekerde het bewijs leveren, dat het verzekerde goed in het schip, dat enige ramp geleden heeft of vergaan is, binnen de bepaalde tijd geladen is geweest.
+Indien de verzekering voor een bepaalde tijd gedaan is, in voege als bij [artikel 816](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Eerste&artikel=816&z=2025-07-01&g=2025-07-01) gemeld is, moet de verzekerde het bewijs leveren, dat het verzekerde goed in het schip, dat enige ramp geleden heeft of vergaan is, binnen de bepaalde tijd geladen is geweest.
 
 ##### Artikel 864
 
@@ -2951,7 +2951,7 @@ Bij schadevergoeding wegens goederen door de kapitein ingekocht of ingeladen, he
 
 ##### Artikel 865
 
-Indien de verzekering bij verdeling plaats heeft ten aanzien van goederen, welke geladen moeten worden in onderscheidene aangeduide schepen, met uitdrukking van de som, welke op elk schip verzekerd wordt, en indien de gehele lading wordt geladen in één schip of in een minder getal schepen dan in de overeenkomst bepaald was, is de verzekeraar niet verder aansprakelijk dan voor de som, welke hij verzekerd heeft op het schip of op de schepen, welke de lading hebben ingenomen, niettegenstaande al de genoemde schepen verongelukt zijn; en hij zal desniettemin een half ten honderd of minder, volgens de onderscheiding van [artikel 848](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=848&z=2015-01-01&g=2015-01-01), ontvangen van de som, waarvan de verzekering bevonden wordt krachteloos te zijn.
+Indien de verzekering bij verdeling plaats heeft ten aanzien van goederen, welke geladen moeten worden in onderscheidene aangeduide schepen, met uitdrukking van de som, welke op elk schip verzekerd wordt, en indien de gehele lading wordt geladen in één schip of in een minder getal schepen dan in de overeenkomst bepaald was, is de verzekeraar niet verder aansprakelijk dan voor de som, welke hij verzekerd heeft op het schip of op de schepen, welke de lading hebben ingenomen, niettegenstaande al de genoemde schepen verongelukt zijn; en hij zal desniettemin een half ten honderd of minder, volgens de onderscheiding van [artikel 848](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=848&z=2025-07-01&g=2025-07-01), ontvangen van de som, waarvan de verzekering bevonden wordt krachteloos te zijn.
 
 ##### Artikel 866
 
@@ -2989,7 +2989,7 @@ Indien verhoging van premie, voor het geval van opkomende oorlog of andere te ve
 
 ##### Artikel 873
 
-1. In alle gevallen, in welke òf de verzekerde goederen niet zijn verzonden, òf in mindere hoeveelheid verzonden worden, òf bij mistasting te veel is verzekerd, en voorts in het algemeen in de gevallen bij [artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=348&z=2015-01-01&g=2015-01-01) voorzien, geniet de verzekeraar een half ten honderd van de verzekerde som of de halve premie, en zulks op dezelfde grondslag als bij [artikel 848](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=848&z=2015-01-01&g=2015-01-01) is omschreven, tenzij hem bij wet of bij de overeenkomst meer is toegekend.
+1. In alle gevallen, in welke òf de verzekerde goederen niet zijn verzonden, òf in mindere hoeveelheid verzonden worden, òf bij mistasting te veel is verzekerd, en voorts in het algemeen in de gevallen bij [artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=348&z=2025-07-01&g=2025-07-01) voorzien, geniet de verzekeraar een half ten honderd van de verzekerde som of de halve premie, en zulks op dezelfde grondslag als bij [artikel 848](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=848&z=2025-07-01&g=2025-07-01) is omschreven, tenzij hem bij wet of bij de overeenkomst meer is toegekend.
 
 2. Hij, die een verzekering ten behoeve van een ander heeft gesloten, zonder diens naam in de polis te doen vermelden, mag de premie niet terugvorderen op grond dat de belanghebbende de verzekerde goederen niet of in mindere hoeveelheid heeft afgezonden.
 
@@ -2997,7 +2997,7 @@ Indien verhoging van premie, voor het geval van opkomende oorlog of andere te ve
 
 ##### Artikel 892
 
-De polis moet, behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2015-01-01&g=2015-01-01) vermeld, uitdrukken de naam van de voerman, van de kapitein of gezagvoerder, of van de expediteur, die het vervoer op zich heeft genomen.
+De polis moet, behalve de vereisten bij [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Achtste&artikel=325&z=2025-07-01&g=2025-07-01) vermeld, uitdrukken de naam van de voerman, van de kapitein of gezagvoerder, of van de expediteur, die het vervoer op zich heeft genomen.
 
 ##### Artikel 893
 
@@ -3025,7 +3025,7 @@ De bepalingen van de vijfde Afdeling van de tiende Titel zijn insgelijks toepass
 
 ##### Artikel 899
 
-Het staat aan partijen vrij om bij overeenkomst van de bij de [artikelen 894](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&artikel=894&z=2015-01-01&g=2015-01-01) en volgende vermelde bepalingen af te wijken.
+Het staat aan partijen vrij om bij overeenkomst van de bij de [artikelen 894](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&artikel=894&z=2025-07-01&g=2025-07-01) en volgende vermelde bepalingen af te wijken.
 
 ## titel Twaalfde. Van averijen
 
@@ -3033,7 +3033,7 @@ Het staat aan partijen vrij om bij overeenkomst van de bij de [artikelen 894](ht
 
 ##### Artikel 900
 
-Alle buitengewone onkosten ten dienste van het schip en de goederen gezamenlijk of afzonderlijk gemaakt, alle schade, welke aan het schip en aan de goederen overkomt gedurende de tijd, bij de [derde Afdeling van de tiende Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&z=2015-01-01&g=2015-01-01) ten aanzien van het beginnen en het eindigen van het gevaar bepaald, worden als averij gerekend.
+Alle buitengewone onkosten ten dienste van het schip en de goederen gezamenlijk of afzonderlijk gemaakt, alle schade, welke aan het schip en aan de goederen overkomt gedurende de tijd, bij de [derde Afdeling van de tiende Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&z=2025-07-01&g=2025-07-01) ten aanzien van het beginnen en het eindigen van het gevaar bepaald, worden als averij gerekend.
 
 ##### Artikel 901
 
@@ -3113,11 +3113,11 @@ In geval van door zeeramp geleden schade aan een verzekerd schip, draagt de verz
 
 ##### Artikel 919
 
-Indien het, desnoods na verhoor van deskundigen, blijkt, dat door het verricht herstel de waarde van het schip met meer dan één derde is vermeerderd, betaalt de verzekeraar, in evenredigheid als bij [artikel 917](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=917&z=2015-01-01&g=2015-01-01) is vermeld, het volle beloop van de gemaakte kosten, onder aftrek van de door verbetering vermeerderde waarde.
+Indien het, desnoods na verhoor van deskundigen, blijkt, dat door het verricht herstel de waarde van het schip met meer dan één derde is vermeerderd, betaalt de verzekeraar, in evenredigheid als bij [artikel 917](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=917&z=2025-07-01&g=2025-07-01) is vermeld, het volle beloop van de gemaakte kosten, onder aftrek van de door verbetering vermeerderde waarde.
 
 ##### Artikel 920
 
-Indien daarentegen de verzekerde, desnoods na begroting als voren, bewijst, dat het herstel een verbetering of een vermeerdering van de waarde van het schip niet heeft teweeggebracht, en wel bepaaldelijk doordien het schip nieuw en op zijn eerste reis de schade heeft geleden, of doordien de schade is aangekomen aan nieuwe zeilen of nieuw scheepsgereedschap, of wel aan ankers, ijzeren kettingkabels of aan een nieuwe koperen huid, heeft de aftrek van één derde niet plaats en is de verzekeraar verplicht het gehele beloop van de herstelkosten, in evenredigheid als bij [artikel 917](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=917&z=2015-01-01&g=2015-01-01) is vermeld, te vergoeden.
+Indien daarentegen de verzekerde, desnoods na begroting als voren, bewijst, dat het herstel een verbetering of een vermeerdering van de waarde van het schip niet heeft teweeggebracht, en wel bepaaldelijk doordien het schip nieuw en op zijn eerste reis de schade heeft geleden, of doordien de schade is aangekomen aan nieuwe zeilen of nieuw scheepsgereedschap, of wel aan ankers, ijzeren kettingkabels of aan een nieuwe koperen huid, heeft de aftrek van één derde niet plaats en is de verzekeraar verplicht het gehele beloop van de herstelkosten, in evenredigheid als bij [artikel 917](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=917&z=2025-07-01&g=2025-07-01) is vermeld, te vergoeden.
 
 ##### Artikel 921
 
@@ -3131,7 +3131,7 @@ Indien daarentegen de verzekerde, desnoods na begroting als voren, bewijst, dat 
 
 ##### Artikel 923
 
-Onverminderd de bepalingen van de [artikelen 856](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=856&z=2015-01-01&g=2015-01-01), [857](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=857&z=2015-01-01&g=2015-01-01) en [858](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=858&z=2015-01-01&g=2015-01-01), is de verzekeraar niet gehouden om enige bijzondere averij te dragen, indien deze, behalve de kosten van bezichtiging, begroting en opmaking, minder dan één ten honderd van de waarde van het beschadigde voorwerp beloopt; partijen zijn echter bevoegd om ten dezen andere bedingen te maken.
+Onverminderd de bepalingen van de [artikelen 856](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=856&z=2025-07-01&g=2025-07-01), [857](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=857&z=2025-07-01&g=2025-07-01) en [858](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Vierde&artikel=858&z=2025-07-01&g=2025-07-01), is de verzekeraar niet gehouden om enige bijzondere averij te dragen, indien deze, behalve de kosten van bezichtiging, begroting en opmaking, minder dan één ten honderd van de waarde van het beschadigde voorwerp beloopt; partijen zijn echter bevoegd om ten dezen andere bedingen te maken.
 
 ##### Artikel 924
 
@@ -3161,27 +3161,27 @@ Ten aanzien van minder dan twintig kubieke meters bruto-inhoud metende zeeschepe
 
 ##### Artikel 956
 
-De voorschriften van de [derde Titel van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&z=2015-01-01&g=2015-01-01) zijn op de kapiteins van de schepen en vaartuigen hiervoren in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermeld, alleen toepasselijk, voor zoveel betreft de bepalingen van de [artikelen 436](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=436&z=2015-01-01&g=2015-01-01), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=439&z=2015-01-01&g=2015-01-01), [440](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=440&z=2015-01-01&g=2015-01-01), [441](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=441&z=2015-01-01&g=2015-01-01), [442](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=442&z=2015-01-01&g=2015-01-01), [454](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=454&z=2015-01-01&g=2015-01-01) en 473, behoudens hetgeen bij wet deswege is bepaald.
+De voorschriften van de [derde Titel van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&z=2025-07-01&g=2025-07-01) zijn op de kapiteins van de schepen en vaartuigen hiervoren in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermeld, alleen toepasselijk, voor zoveel betreft de bepalingen van de [artikelen 436](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=436&z=2025-07-01&g=2025-07-01), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=439&z=2025-07-01&g=2025-07-01), [440](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=440&z=2025-07-01&g=2025-07-01), [441](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=441&z=2025-07-01&g=2025-07-01), [442](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=442&z=2025-07-01&g=2025-07-01), [454](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&artikel=454&z=2025-07-01&g=2025-07-01) en 473, behoudens hetgeen bij wet deswege is bepaald.
 
 ##### Artikel 957
 
-De voorschriften van de [vierde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&z=2015-01-01&g=2015-01-01), van dit Boek zijn ten dezen niet van toepassing.
+De voorschriften van de [vierde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&z=2025-07-01&g=2025-07-01), van dit Boek zijn ten dezen niet van toepassing.
 
 ##### Artikel 958
 
-De rechten en verplichtingen van kapiteins, van scheepsofficieren en van andere schepelingen der bij [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermelde schepen en vaartuigen uit arbeidsovereenkomst voortvloeiende, worden geregeld naar de overeenkomst, naar de bepalingen van de zevende Titel A van het Burgerlijk Wetboek BES omtrent de overeenkomsten tot het verrichten van arbeid en naar andere daaromtrent vastgestelde algemene verordeningen.
+De rechten en verplichtingen van kapiteins, van scheepsofficieren en van andere schepelingen der bij [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermelde schepen en vaartuigen uit arbeidsovereenkomst voortvloeiende, worden geregeld naar de overeenkomst, naar de bepalingen van de zevende Titel A van het Burgerlijk Wetboek BES omtrent de overeenkomsten tot het verrichten van arbeid en naar andere daaromtrent vastgestelde algemene verordeningen.
 
 ##### Artikel 959
 
-De uit bevrachting voortvloeiende rechten en verplichtingen, de tijd van laden en lossen, mitsgaders al hetgeen daartoe betrekkelijk is, worden, met betrekking tot de bij [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermelde schepen en vaartuigen, geregeld naar de bepalingen van de [vierde Titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vierde&z=2015-01-01&g=2015-01-01) van dit Wetboek, naar die van het Burgerlijk Wetboek BES omtrent huur en verhuur, naar nadere daaromtrent vastgestelde algemene verordeningen en, bij ontstentenis van deze, naar de plaatselijke gebruiken.
+De uit bevrachting voortvloeiende rechten en verplichtingen, de tijd van laden en lossen, mitsgaders al hetgeen daartoe betrekkelijk is, worden, met betrekking tot de bij [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermelde schepen en vaartuigen, geregeld naar de bepalingen van de [vierde Titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vierde&z=2025-07-01&g=2025-07-01) van dit Wetboek, naar die van het Burgerlijk Wetboek BES omtrent huur en verhuur, naar nadere daaromtrent vastgestelde algemene verordeningen en, bij ontstentenis van deze, naar de plaatselijke gebruiken.
 
 ##### Artikel 962
 
-De voorschriften van de [elfde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&z=2015-01-01&g=2015-01-01) zijn ook op minder dan twintig kubieke meters bruto-inhoud metende zeeschepen toepasselijk.
+De voorschriften van de [elfde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Elfde&z=2025-07-01&g=2025-07-01) zijn ook op minder dan twintig kubieke meters bruto-inhoud metende zeeschepen toepasselijk.
 
 ##### Artikel 963
 
-De bepalingen van de [artikelen 913–923](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=913&z=2015-01-01&g=2015-01-01) en [925](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=925&z=2015-01-01&g=2015-01-01) zijn ook op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermelde schepen en vaartuigen toepasselijk.
+De bepalingen van de [artikelen 913–923](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=913&z=2025-07-01&g=2025-07-01) en [925](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&afdeling=Eerste&artikel=925&z=2025-07-01&g=2025-07-01) zijn ook op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermelde schepen en vaartuigen toepasselijk.
 
 ##### Artikel 964
 
@@ -3191,15 +3191,15 @@ Indien, tot behoud van schip of vaartuig en lading, goederen worden geworpen, he
 
 1. Dezelfde bepaling geldt, indien, tot behoud van schip en lading, goederen in lichters of in boten zijn overgeladen.
 
-2. De daartoe vereiste kosten, de aan de goederen overkomen schade en de wegens het gebruik van lichters of van boten verschuldigde schadeloosstellingen worden op de voet van het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=964&z=2015-01-01&g=2015-01-01) door het principale schip of vaartuig en de lading gedragen.
+2. De daartoe vereiste kosten, de aan de goederen overkomen schade en de wegens het gebruik van lichters of van boten verschuldigde schadeloosstellingen worden op de voet van het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=964&z=2025-07-01&g=2025-07-01) door het principale schip of vaartuig en de lading gedragen.
 
 ##### Artikel 966
 
-De overige bepalingen van de [twaalfde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&z=2015-01-01&g=2015-01-01), alsmede [titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&titeldeel=6) zijn niet toepasselijk op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermelde schepen en vaartuigen.
+De overige bepalingen van de [twaalfde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Twaalfde&z=2025-07-01&g=2025-07-01), alsmede [titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&titeldeel=6) zijn niet toepasselijk op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermelde schepen en vaartuigen.
 
 ##### Artikel 967
 
-De voorschriften van de [dertiende Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Dertiende&z=2015-01-01&g=2015-01-01) gelden behoudens het bepaalde in de [vierde Titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vierde&z=2015-01-01&g=2015-01-01) van dit Wetboek, in het algemeen en naar de omstandigheden ook op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2015-01-01&g=2015-01-01) vermelde schepen en vaartuigen.
+De voorschriften van de [dertiende Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Dertiende&z=2025-07-01&g=2025-07-01) gelden behoudens het bepaalde in de [vierde Titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vierde&z=2025-07-01&g=2025-07-01) van dit Wetboek, in het algemeen en naar de omstandigheden ook op de in [artikel 954](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Veertiende&artikel=954&z=2025-07-01&g=2025-07-01) vermelde schepen en vaartuigen.
 
 #### Algemene slotbepaling
 
@@ -3209,13 +3209,13 @@ De voorschriften van de [dertiende Titel](https://wetten.overheid.nl/jci1.3:c:BW
 
 van het Eerste Boek:
 
-de [vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&z=2015-01-01&g=2015-01-01) en [zesde titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&z=2015-01-01&g=2015-01-01);
+de [vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Vijfde&z=2025-07-01&g=2025-07-01) en [zesde titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Eerste&titeldeel=Zesde&z=2025-07-01&g=2025-07-01);
 
 van het Tweede Boek:
 
-de [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&z=2015-01-01&g=2015-01-01) en [vierde titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&z=2015-01-01&g=2015-01-01), alsmede de [derde afdeling van de tiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&z=2015-01-01&g=2015-01-01);
+de [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Derde&z=2025-07-01&g=2025-07-01) en [vierde titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&z=2025-07-01&g=2025-07-01), alsmede de [derde afdeling van de tiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Tiende&afdeling=Derde&z=2025-07-01&g=2025-07-01);
 
-zij is echter wel van toepassing op de termijnen gesteld in de [artikelen 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=520&z=2015-01-01&g=2015-01-01) en [561](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=561&z=2015-01-01&g=2015-01-01).
+zij is echter wel van toepassing op de termijnen gesteld in de [artikelen 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=2&artikel=520&z=2025-07-01&g=2025-07-01) en [561](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede&titeldeel=Vierde&paragraaf=3&artikel=561&z=2025-07-01&g=2025-07-01).
 
 2. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) als zodanig genoemde en de bij krachtens dat artikel daarmede gelijkgestelde dagen.
 
