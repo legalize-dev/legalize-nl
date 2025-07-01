@@ -4,7 +4,7 @@ identifier: "BWBR0037095"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2024-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037095"
 soort: "wet"
@@ -57,15 +57,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **brondocument:** document waarin rechtsfeiten of andere voor de basisregistratie ondergrond relevante feiten zijn neergelegd;
 
-- **bronhouder:** Onze Minister die het aangaat, voor zover het betreft een brondocument als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2024-07-01&g=2024-07-01), en een bestuursorgaan als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01);
+- **bronhouder:** Onze Minister die het aangaat, voor zover het betreft een brondocument als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2025-07-01&g=2025-07-01), en bestuursorganen en drinkwaterbedrijven als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01);
 
 - **constructie:** werk in de ondergrond voor het winnen of benutten van in de ondergrond aanwezige natuurlijke hulpbronnen, voor het opslaan van stoffen in de ondergrond of voor het meten van een aan de ondergrond gerelateerde parameter;
 
 - **continentaal plat:** continentaal plat als bedoeld in [artikel 1, onderdeel c, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1);
 
+- **drinkwaterbedrijf:** drinkwaterbedrijf als bedoeld in de begripsomschrijving bij onderdeel a van het begrip drinkwaterbedrijf in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1);
+
 - **gebruiksrecht:** door een bestuursorgaan verleende vergunning of aan een bestuursorgaan gedane melding voor het winnen of benutten van in de ondergrond aanwezige natuurlijke hulpbronnen of voor het opslaan van stoffen in de ondergrond, en het aanbrengen van een daarvoor noodzakelijke constructie;
 
-- **maker van de authentieke modellen:** partij als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2024-07-01&g=2024-07-01), die in opdracht van Onze Minister die het aangaat de authentieke modellen vervaardigt;
+- **maker van de authentieke modellen:** partij als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2025-07-01&g=2025-07-01), die in opdracht van Onze Minister die het aangaat de authentieke modellen vervaardigt;
 
 - **ondergrond:** vast deel van de aarde met de zich daarin bevindende vloeistoffen en gassen, inclusief de daarin aanwezige holle ruimtes;
 
@@ -111,21 +113,21 @@ De basisregistratie ondergrond bestaat uit: het register brondocumenten ondergro
 
 ##### Artikel 6
 
-1. Bij regeling van Onze Minister wordt een beheerder aangewezen, die is belast met het operationeel beheer van de basisregistratie ondergrond.
+1. Bij ministeriële regeling wordt een beheerder aangewezen, die is belast met het operationeel beheer van de basisregistratie ondergrond.
 
-2. Onze Minister kan aan de beheerder van de basisregistratie ondergrond mandaat verlenen van de bevoegdheden, bedoeld in de [artikelen 33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2024-07-01&g=2024-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2024-07-01&g=2024-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=35&z=2024-07-01&g=2024-07-01).
+2. Onze Minister kan aan de beheerder van de basisregistratie ondergrond mandaat verlenen van de bevoegdheden, bedoeld in de [artikelen 33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2025-07-01&g=2025-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2025-07-01&g=2025-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=35&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 7
 
 1. Onze Minister die het aangaat geeft, in overeenstemming met Onze Minister, een door hem aangewezen partij opdracht tot het maken of actualiseren van een authentiek model.
 
-2. Onverminderd [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=37&z=2024-07-01&g=2024-07-01), draagt Onze Minister er zorg voor dat de maker van de authentieke modellen een brondocument met betrekking tot een authentiek model op een zodanig tijdstip levert, dat een authentiek model is geactualiseerd uiterlijk op de eerste werkdag na de datum waarop de looptijd van dat authentieke model eindigt.
+2. Onverminderd [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=37&z=2025-07-01&g=2025-07-01), draagt Onze Minister er zorg voor dat de maker van de authentieke modellen een brondocument met betrekking tot een authentiek model op een zodanig tijdstip levert, dat een authentiek model is geactualiseerd uiterlijk op de eerste werkdag na de datum waarop de looptijd van dat authentieke model eindigt.
 
-3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over het maken en actualiseren van modellen.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld over het maken en actualiseren van modellen.
 
 ##### Artikel 8
 
-1. Onze Minister controleert ten minste eens per drie jaar het operationeel beheer, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=6&z=2024-07-01&g=2024-07-01), en de wijze van uitvoering van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2024-07-01&g=2024-07-01), door de op grond van dat lid aangewezen partij.
+1. Onze Minister controleert ten minste eens per drie jaar het operationeel beheer, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=6&z=2025-07-01&g=2025-07-01), en de wijze van uitvoering van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2025-07-01&g=2025-07-01), door de op grond van dat lid aangewezen partij.
 
 2. Onze Minister maakt de resultaten van de controle, bedoeld in het eerste lid, openbaar.
 
@@ -135,11 +137,13 @@ De basisregistratie ondergrond bestaat uit: het register brondocumenten ondergro
 
 ##### Artikel 9
 
-1. Een bestuursorgaan dat bij de uitvoering van een wettelijke taak of bij het verrichten van werkzaamheden een bij algemene maatregel van bestuur aangewezen brondocument ontvangt met betrekking tot de ondergrond van Nederland of het continentaal plat, levert dat brondocument via het bronhouderportaal, als bedoeld in het vierde lid aan Onze Minister.
+1. Een bestuursorgaan of drinkwaterbedrijf dat bij de uitvoering van een wettelijke taak of bij het verrichten van werkzaamheden een bij algemene maatregel van bestuur aangewezen brondocument ontvangt of genereert met betrekking tot de ondergrond van Nederland of het continentaal plat, levert dat brondocument via het bronhouderportaal, bedoeld in het vierde lid, aan Onze Minister.
 
-2. Onze Minister draagt zorg voor de inschrijving van een krachtens het eerste lid geleverd brondocument in het register brondocumenten ondergrond.
+2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over het leveren van brondocumenten, bedoeld in het eerste lid, waarbij een onderscheid gemaakt kan worden tussen bestuursorganen en drinkwaterbedrijven.
 
-3. De bronhouder levert een krachtens het eerste lid aangewezen brondocument in elektronische vorm aan Onze Minister binnen twintig werkdagen na:
+3. Onze Minister draagt zorg voor de inschrijving van een krachtens het eerste lid geleverd brondocument in het register brondocumenten ondergrond.
+
+4. De bronhouder levert een krachtens het eerste lid aangewezen brondocument in elektronische vorm aan Onze Minister binnen twintig werkdagen na:
 
 - a. de dagtekening van het in het brondocument opgenomen besluit;
 
@@ -147,33 +151,33 @@ De basisregistratie ondergrond bestaat uit: het register brondocumenten ondergro
 
 - c. indien het brondocument geen besluit of rechterlijke uitspraak bevat, de rapportagedatum onderzoek of de inrichtingsdatum dan wel in het geval van een reeks van verkenningen die onder één schriftelijke opdracht worden uitgevoerd de rapportagedatum van de laatste verkenning.
 
-4. Onze Minister stelt een bronhouderportaal beschikbaar voor het langs elektronische weg leveren van brondocumenten. Bij ministeriële regeling wordt een beheerder van het bronhouderportaal aangewezen en kunnen nadere regels worden gesteld over het bronhouderportaal en de wijze van leveren van brondocumenten.
+5. Onze Minister stelt een bronhouderportaal beschikbaar voor het langs elektronische weg leveren van brondocumenten. Bij ministeriële regeling wordt een beheerder van het bronhouderportaal aangewezen en kunnen nadere regels worden gesteld over het bronhouderportaal en de wijze van leveren van brondocumenten.
 
 ##### Artikel 10
 
-1. Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), aangewezen brondocument dat aan Onze Minister geleverd wordt ter inschrijving in het register brondocumenten ondergrond, vermeldt in ieder geval:
+1. Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), aangewezen brondocument dat aan Onze Minister geleverd wordt ter inschrijving in het register brondocumenten ondergrond, vermeldt in ieder geval:
 
 - a. een aanduiding van de rechtsgrond waarop het is gebaseerd of, bij afwezigheid daarvan, de activiteit naar aanleiding waarvan het is opgemaakt;
 
-- b. de data, bedoeld in [artikel 9, derde lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01).
+- b. de data, bedoeld in [artikel 9, vierde lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01).
 
-2. Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de registratie ondergrond nadere regels worden gegeven ten aanzien van de krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), aangewezen brondocumenten.
+2. Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de registratie ondergrond nadere regels worden gegeven ten aanzien van de krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), aangewezen brondocumenten.
 
 ##### Artikel 11
 
-1. Het inschrijven van een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), aangewezen brondocument in het register brondocumenten ondergrond vindt plaats binnen een werkdag na ontvangst van het brondocument door Onze Minister.
+1. Het inschrijven van een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), aangewezen brondocument in het register brondocumenten ondergrond vindt plaats binnen een werkdag na ontvangst van het brondocument door Onze Minister.
 
 2. In afwijking van het eerste lid wordt een brondocument dat een authentiek model bevat, in het register brondocumenten ondergrond ingeschreven nadat Onze Minister die het aangaat heeft vastgesteld dat het model voldoende kwaliteit biedt om in de praktijk te kunnen worden gebruikt.
 
 ##### Artikel 12
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2024-07-01&g=2024-07-01) zendt Onze Minister een brondocument dat niet overeenkomstig de bij of krachtens de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2024-07-01&g=2024-07-01) gestelde eisen is opgesteld of geleverd onder opgaaf van redenen terug naar de bronhouder.
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2025-07-01&g=2025-07-01) zendt Onze Minister een brondocument dat niet overeenkomstig de bij of krachtens de in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01) gestelde eisen is opgesteld of geleverd onder opgaaf van redenen terug naar de bronhouder.
 
-2. De bronhouder waaraan op grond van het eerste lid een brondocument is teruggezonden, levert binnen vier werkdagen na ontvangst van dat brondocument het document opnieuw aan Onze Minister overeenkomstig de bij of krachtens de[artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2024-07-01&g=2024-07-01) gestelde eisen.
+2. De bronhouder waaraan op grond van het eerste lid een brondocument is teruggezonden, levert binnen vier werkdagen na ontvangst van dat brondocument het document opnieuw aan Onze Minister overeenkomstig de bij of krachtens de[artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01) gestelde eisen.
 
 ##### Artikel 13
 
-Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), aangewezen brondocument dat is ingeschreven in het register brondocumenten ondergrond, wordt daaruit niet verwijderd.
+Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), aangewezen brondocument dat is ingeschreven in het register brondocumenten ondergrond, wordt daaruit niet verwijderd.
 
 ### Hoofdstuk 3. De registratie ondergrond
 
@@ -291,7 +295,7 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 2. De registratie ondergrond bevat over elk authentiek model de volgende gegevens:
 
-- a. de identificatiecode van een in de registratie ondergrond opgenomen verkenning, voor zover het authentiek model op basis van de resultaten daarvan is vervaardigd;
+- a. de identificatiecode van een in de registratie ondergrond opgenomen verkenning, constructie of model, voor zover het authentiek model op basis van de resultaten daarvan is vervaardigd;
 
 - b. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over het authentiek model, en
 
@@ -303,9 +307,9 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 1. Bij algemene maatregel van bestuur kunnen:
 
-- a. andere dan de in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2024-07-01&g=2024-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2024-07-01&g=2024-07-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2024-07-01&g=2024-07-01), bedoelde gegevens worden aangewezen, die als niet-authentiek gegeven in de registratie ondergrond worden opgenomen;
+- a. andere dan de in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-07-01&g=2025-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2025-07-01&g=2025-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2025-07-01&g=2025-07-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2025-07-01&g=2025-07-01), bedoelde gegevens worden aangewezen, die als niet-authentiek gegeven in de registratie ondergrond worden opgenomen;
 
-- b. andere dan de in de[artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2024-07-01&g=2024-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2024-07-01&g=2024-07-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2024-07-01&g=2024-07-01), bedoelde authentieke gegevens worden aangewezen, die als authentiek gegeven in de registratie ondergrond worden opgenomen.
+- b. andere dan de in de[artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-07-01&g=2025-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2025-07-01&g=2025-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2025-07-01&g=2025-07-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2025-07-01&g=2025-07-01), bedoelde authentieke gegevens worden aangewezen, die als authentiek gegeven in de registratie ondergrond worden opgenomen.
 
 2. Een algemene maatregel van bestuur op grond van het eerste lid, onderdeel a, wordt slechts vastgesteld, indien:
 
@@ -315,7 +319,7 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 3. Een algemene maatregel van bestuur op grond van het eerste lid, onderdeel b, wordt slechts vastgesteld, indien:
 
-- a. de kenbaarheid van het desbetreffende gegeven van belang blijkt voor het doel van de basisregistratie ondergrond, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2024-07-01&g=2024-07-01), en
+- a. de kenbaarheid van het desbetreffende gegeven van belang blijkt voor het doel van de basisregistratie ondergrond, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), en
 
 - b. er geen gewichtige redenen zijn die zich daartegen verzetten.
 
@@ -329,17 +333,17 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 2. [Artikel 5.1 van de wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in het eerste lid, met dien verstande dat:
 
-- a. voor zover aan een bestuursorgaan of andere afnemer inzage wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn;
+- a. voor zover aan een bestuursorgaan, drinkwaterbedrijf of andere afnemer inzage wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn;
 
-- b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak gegevens of een model worden verstrekt, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
+- b. voor zover aan een bestuursorgaan of drinkwaterbedrijf met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan of drinkwaterbedrijf met het oog op het vervullen van die taak gegevens of een model worden verstrekt, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gegeven over de inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in het eerste lid, alsmede de toepassing van het tweede lid.
 
 ##### Artikel 25
 
-1. De inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2024-07-01&g=2024-07-01), vinden plaats door middel van internet. Deze wijze van inzage en verstrekken is kosteloos.
+1. De inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-07-01&g=2025-07-01), vinden plaats door middel van internet. Deze wijze van inzage en verstrekken is kosteloos.
 
-2. In afwijking van het eerste lid kan het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2024-07-01&g=2024-07-01), desgevraagd op een andere wijze plaatsvinden tegen vergoeding van de daarvoor gemaakte kosten. Daarvoor kunnen bij ministeriële regeling tarieven worden vastgesteld.
+2. In afwijking van het eerste lid kan het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-07-01&g=2025-07-01), desgevraagd op een andere wijze plaatsvinden tegen vergoeding van de daarvoor gemaakte kosten. Daarvoor kunnen bij ministeriële regeling tarieven worden vastgesteld.
 
 ##### Artikel 26
 
@@ -357,7 +361,7 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 - a. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
 
-- b. het met betrekking tot dat authentieke gegeven een melding als bedoeld in[artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), heeft gedaan;
+- b. het met betrekking tot dat authentieke gegeven een melding als bedoeld in[artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), heeft gedaan;
 
 - c. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren kan vervullen;
 
@@ -365,7 +369,7 @@ Een in de registratie ondergrond opgenomen authentiek gegeven of authentiek mode
 
 ##### Artikel 28
 
-Een bestuursorgaan dat bij de vervulling van zijn publiekrechtelijke taak een model dan wel een gegeven uit een model nodig heeft, dat krachtens deze wet als authentiek model in de registratie ondergrond beschikbaar is, gebruikt dat authentieke model.[Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=2&artikel=27&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing, met dien verstande dat in artikel 27, tweede lid, onderdeel b, in plaats van «een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01)» wordt gelezen: een melding als bedoeld in artikel 30, tweede lid.
+Een bestuursorgaan dat bij de vervulling van zijn publiekrechtelijke taak een model dan wel een gegeven uit een model nodig heeft, dat krachtens deze wet als authentiek model in de registratie ondergrond beschikbaar is, gebruikt dat authentieke model.[Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=2&artikel=27&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing, met dien verstande dat in artikel 27, tweede lid, onderdeel b, in plaats van «een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01)» wordt gelezen: een melding als bedoeld in artikel 30, tweede lid.
 
 ##### Artikel 29
 
@@ -385,9 +389,9 @@ Degene aan wie door een bestuursorgaan wordt gevraagd om een gegeven te verstrek
 
 ##### Artikel 30
 
-1. Een bestuursorgaan dat gerede twijfel heeft over de juistheid van een in de registratie ondergrond opgenomen authentiek gegeven over een verkenning, gebruiksrecht of constructie of het ontbreken van een dergelijk gegeven in de registratie ondergrond doet daarvan onder opgaaf van redenen melding aan Onze Minister.
+1. Een bestuursorgaan of drinkwaterbedrijf dat gerede twijfel heeft over de juistheid van een in de registratie ondergrond opgenomen authentiek gegeven over een verkenning, gebruiksrecht of constructie of het ontbreken van een dergelijk gegeven in de registratie ondergrond doet daarvan onder opgaaf van redenen melding aan Onze Minister.
 
-2. Een bestuursorgaan dat gerede twijfel heeft over de schematische weergave van de ondergrond op een bepaalde plaats binnen een in de registratie ondergrond opgenomen authentiek model of over een authentiek gegeven over dat model, doet daarvan onder opgaaf van redenen melding aan Onze Minister. Voor zover de melding betrekking heeft op een authentiek model, kan het bestuursorgaan aan Onze Minister het verzoek doen om het authentiek model tussentijds te actualiseren, indien de noodzaak daartoe dringend aanwezig is.
+2. Een bestuursorgaan of drinkwaterbedrijf dat gerede twijfel heeft over de schematische weergave van de ondergrond op een bepaalde plaats binnen een in de registratie ondergrond opgenomen authentiek model of over een authentiek gegeven over dat model, doet daarvan onder opgaaf van redenen melding aan Onze Minister. Voor zover de melding betrekking heeft op een authentiek model, kan het bestuursorgaan of drinkwaterbedrijf aan Onze Minister het verzoek doen om het authentiek model tussentijds te actualiseren, indien de noodzaak daartoe dringend aanwezig is.
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gegeven over:
 
@@ -397,7 +401,7 @@ Degene aan wie door een bestuursorgaan wordt gevraagd om een gegeven te verstrek
 
 ##### Artikel 31
 
-[Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing op de maker van de authentieke modellen.
+[Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing op de maker van de authentieke modellen.
 
 ##### Artikel 32
 
@@ -407,7 +411,7 @@ Degene aan wie door een bestuursorgaan wordt gevraagd om een gegeven te verstrek
 
 ##### Artikel 33
 
-1. Na ontvangst van een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), onderzoekt Onze Minister onmiddellijk het authentieke gegeven waarop de melding betrekking heeft.
+1. Na ontvangst van een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), onderzoekt Onze Minister onmiddellijk het authentieke gegeven waarop de melding betrekking heeft.
 
 2. Onze Minister beslist op de melding binnen drie werkdagen na ontvangst van de melding, tenzij Onze Minister daarvoor nader onderzoek door de bronhouder van het desbetreffende authentieke gegeven noodzakelijk acht. In dat geval zendt Onze Minister een afschrift van de melding naar de bronhouder en plaatst hij bij het desbetreffende authentieke gegeven in de registratie ondergrond de aantekening «in onderzoek».
 
@@ -415,37 +419,37 @@ Degene aan wie door een bestuursorgaan wordt gevraagd om een gegeven te verstrek
 
 4. Onze Minister verwijdert, voor zover van toepassing, de aantekening «in onderzoek» bij het desbetreffende authentieke gegeven tegelijk met de verwerking van de wijziging dan wel opneming van dat gegeven in de registratie ondergrond, of, indien Onze Minister beslist niet tot wijziging of opneming van het desbetreffende authentieke gegeven over te gaan, tegelijk met die beslissing.
 
-5. Onze Minister maakt zijn beslissing omtrent de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven in de registratie ondergrond onmiddellijk bekend aan het bestuursorgaan dat de melding heeft gedaan.
+5. Onze Minister maakt zijn beslissing omtrent de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven in de registratie ondergrond onmiddellijk bekend aan het bestuursorgaan of drinkwaterbedrijf dat de melding heeft gedaan.
 
 ##### Artikel 34
 
-Op een verzoek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2024-07-01&g=2024-07-01), is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister de beslissing op het verzoek, in afwijking van artikel 33, vijfde lid, bekend maakt aan de indiener van het verzoek. Indien de verzoeker belanghebbende is, is de beslissing op een zodanig verzoek een besluit.
+Op een verzoek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2025-07-01&g=2025-07-01), is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister de beslissing op het verzoek, in afwijking van artikel 33, vijfde lid, bekend maakt aan de indiener van het verzoek. Indien de verzoeker belanghebbende is, is de beslissing op een zodanig verzoek een besluit.
 
 ##### Artikel 35
 
-Op de behandeling van een melding als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2024-07-01&g=2024-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2024-07-01&g=2024-07-01), voor zover deze betrekking heeft op een authentiek gegeven over een authentiek model, is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister, in afwijking van artikel 33, tweede lid, tweede volzin, de melding registreert in het register inzake meldingen modellen en daarin het desbetreffende authentieke gegeven vermeldt alsmede de aantekening «in onderzoek» bij dat gegeven.
+Op de behandeling van een melding als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2025-07-01&g=2025-07-01), voor zover deze betrekking heeft op een authentiek gegeven over een authentiek model, is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister, in afwijking van artikel 33, tweede lid, tweede volzin, de melding registreert in het register inzake meldingen modellen en daarin het desbetreffende authentieke gegeven vermeldt alsmede de aantekening «in onderzoek» bij dat gegeven.
 
 ##### Artikel 36
 
-1. Na ontvangst van een melding met betrekking tot een authentiek model als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2024-07-01&g=2024-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2024-07-01&g=2024-07-01), registreert Onze Minister die melding binnen een werkdag in het register inzake meldingen modellen en plaatst hij in dat register bij het desbetreffende deel van het authentieke model de aantekening «in onderzoek». Onze Minister zendt binnen die termijn een afschrift van de melding naar de maker van de authentieke modellen, tenzij de melding van de maker van de authentieke modellen zelf afkomstig is.
+1. Na ontvangst van een melding met betrekking tot een authentiek model als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2025-07-01&g=2025-07-01), registreert Onze Minister die melding binnen een werkdag in het register inzake meldingen modellen en plaatst hij in dat register bij het desbetreffende deel van het authentieke model de aantekening «in onderzoek». Onze Minister zendt binnen die termijn een afschrift van de melding naar de maker van de authentieke modellen, tenzij de melding van de maker van de authentieke modellen zelf afkomstig is.
 
-2. De maker van de authentieke modellen betrekt de melding, bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2024-07-01&g=2024-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2024-07-01&g=2024-07-01), bij de reguliere actualisering van het model, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2024-07-01&g=2024-07-01), tenzij bij een melding een verzoek is gedaan om het model tussentijds te actualiseren en [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=37&z=2024-07-01&g=2024-07-01), van toepassing is.
+2. De maker van de authentieke modellen betrekt de melding, bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01), of [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2025-07-01&g=2025-07-01), bij de reguliere actualisering van het model, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2025-07-01&g=2025-07-01), tenzij bij een melding een verzoek is gedaan om het model tussentijds te actualiseren en [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=37&z=2025-07-01&g=2025-07-01), van toepassing is.
 
-3. Onze Minister verwijdert de aantekening «in onderzoek» uit het register inzake meldingen modellen tegelijk met de opneming van het geactualiseerde authentieke model in de registratie ondergrond. Indien de melding afkomstig is van een bestuursorgaan, bericht Onze Minister dat bestuursorgaan over de wijze waarop de maker van de authentieke modellen de melding bij de actualisering heeft betrokken.
+3. Onze Minister verwijdert de aantekening «in onderzoek» uit het register inzake meldingen modellen tegelijk met de opneming van het geactualiseerde authentieke model in de registratie ondergrond. Indien de melding afkomstig is van een bestuursorgaan of drinkwaterbedrijf, bericht Onze Minister dat bestuursorgaan of drinkwaterbedrijf over de wijze waarop de maker van de authentieke modellen de melding bij de actualisering heeft betrokken.
 
 ##### Artikel 37
 
-1. Indien bij de melding, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2024-07-01&g=2024-07-01) een verzoek tot tussentijdse actualisering van het authentieke model is gedaan, verricht de maker van de authentieke modellen onmiddellijk nader onderzoek naar de melding.
+1. Indien bij de melding, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01) een verzoek tot tussentijdse actualisering van het authentieke model is gedaan, verricht de maker van de authentieke modellen onmiddellijk nader onderzoek naar de melding.
 
 2. De maker van de authentieke modellen verstrekt de resultaten van het nader onderzoek, bedoeld in het eerste lid, uiterlijk veertien weken na ontvangst van het verzoek tot tussentijdse actualisering aan Onze Minister. Op basis van de resultaten van het nader onderzoek beslist Onze Minister zo spoedig mogelijk op het verzoek tot tussentijdse actualisering, maar niet later dan zestien weken na ontvangst van het verzoek.
 
 3. Indien Onze Minister beslist om aan het verzoek tot tussentijdse actualisering gevolg te geven, stelt hij de maker van de authentieke modellen daartoe een termijn.
 
-4. Onze Minister maakt zijn beslissing op het verzoek tot tussentijdse actualisering, bedoeld in het tweede lid, onmiddellijk bekend aan het bestuursorgaan dat of de maker van de authentieke modellen die de melding, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2024-07-01&g=2024-07-01), of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2024-07-01&g=2024-07-01) heeft gedaan. De beslissing op een zodanig verzoek is een besluit.
+4. Onze Minister maakt zijn beslissing op het verzoek tot tussentijdse actualisering, bedoeld in het tweede lid, onmiddellijk bekend aan het bestuursorgaan of drinkwaterbedrijf dat of de maker van de authentieke modellen die de melding, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2025-07-01&g=2025-07-01), of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=31&z=2025-07-01&g=2025-07-01) heeft gedaan. De beslissing op een zodanig verzoek is een besluit.
 
 ##### Artikel 38
 
-1. Indien tegen een besluit als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2024-07-01&g=2024-07-01) bezwaar wordt gemaakt of beroep wordt ingesteld, plaatst Onze Minister in de registratie ondergrond bij het desbetreffende authentieke gegeven de aantekening «in onderzoek».
+1. Indien tegen een besluit als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2025-07-01&g=2025-07-01) bezwaar wordt gemaakt of beroep wordt ingesteld, plaatst Onze Minister in de registratie ondergrond bij het desbetreffende authentieke gegeven de aantekening «in onderzoek».
 
 2. Zodra op het bezwaar of het beroep onherroepelijk is beslist, wijzigt Onze Minister indien nodig het authentieke gegeven of neemt dat gegeven op en verwijdert hij de aantekening «in onderzoek».
 
@@ -453,21 +457,29 @@ Op de behandeling van een melding als bedoeld in de [artikelen 30, tweede lid](h
 
 ##### Artikel 39
 
-1. Op een bij koninklijk besluit te bepalen tijdstip levert de beheerder van de Registratie Data en Informatie Nederlandse Ondergrond dan wel het Bodemkundig Informatie Systeem de actuele gegevens en modellen, bedoeld in de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01), die deel uitmaken van de genoemde informatiesystemen, als brondocument aan Onze Minister ter inschrijving in het register brondocumenten ondergrond.
+1. Op een bij koninklijk besluit te bepalen tijdstip levert de beheerder van de Registratie Data en Informatie Nederlandse Ondergrond dan wel het Bodemkundig Informatie Systeem de actuele gegevens en modellen, bedoeld in de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-07-01&g=2025-07-01), die deel uitmaken van de genoemde informatiesystemen, als brondocument aan Onze Minister ter inschrijving in het register brondocumenten ondergrond.
 
-2. Ten aanzien van een brondocument als bedoeld in het eerste lid blijft [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2024-07-01&g=2024-07-01), buiten toepassing. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2024-07-01&g=2024-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=13&z=2024-07-01&g=2024-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2024-07-01&g=2024-07-01) zijn op een dergelijk brondocument van overeenkomstige toepassing.
+2. Ten aanzien van een brondocument als bedoeld in het eerste lid blijft [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01), buiten toepassing. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=13&z=2025-07-01&g=2025-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2025-07-01&g=2025-07-01) zijn op een dergelijk brondocument van overeenkomstige toepassing.
 
 3. Vanaf de inschrijving in het register brondocumenten ondergrond van het brondocument, bedoeld in het eerste lid, is Onze Minister bronhouder van dat brondocument.
 
 ##### Artikel 40
 
-1. Een bronhouder kan een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01), aangewezen brondocument dat dateert van vóór het tijdstip van inwerkingtreding van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&z=2024-07-01&g=2024-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&z=2024-07-01&g=2024-07-01) en de grondslag vormt voor een op dat tijdstip actueel gegeven over een verkenning, gebruiksrecht of constructie als bedoeld in de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01) dat vóór dat tijdstip niet was opgenomen in de informatiesystemen, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=6&artikel=39&z=2024-07-01&g=2024-07-01), uiterlijk tot vijf jaar na genoemd tijdstip aan Onze Minister ter inschrijving aanbieden. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2024-07-01&g=2024-07-01) vindt inschrijving van dat brondocument plaats binnen twee werkdagen na ontvangst van het brondocument. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2024-07-01&g=2024-07-01), blijft buiten toepassing ten aanzien van een dergelijk brondocument.
+1. Een bronhouder biedt een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), aangewezen brondocument dat dateert van vóór het tijdstip waarop die aanwijzing in de betreffende algemene maatregel van bestuur in werking is getreden, aan Onze Minister ter inschrijving aan uiterlijk binnen vijf jaar, gerekend vanaf het moment van inwerkingtreding van de [Wet tot wijziging van de Wet basisregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0047309) ondergrond in verband met het aanwijzen van drinkwaterbedrijven als bronhouders en enkele andere wijzigingen.
 
-2. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2024-07-01&g=2024-07-01), vindt de verwerking in de registratie ondergrond van een gegeven als bedoeld in het eerste lid plaats binnen twee werkdagen nadat het desbetreffende brondocument in het register brondocumenten ondergrond is ingeschreven.
+2. Het eerste lid is uitsluitend van toepassing op brondocumenten die in digitale vorm en op gestructureerde wijze zijn opgeslagen en die:
+
+- a. in het bezit zijn van de bronhouder; of
+
+- b. zijn opgenomen in een registratie bij derden die in opdracht van de bronhouder wordt bijgehouden.
+
+3. Als het tijdstip van inwerkingtreding van de aanwijzing van een brondocument als bedoeld in het eerste lid op een later tijdstip is gelegen dan het moment van inwerkingtreding van de [Wet tot wijziging van de Wet basisregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0047309) ondergrond in verband met het aanwijzen van drinkwaterbedrijven als bronhouders en enkele andere wijzigingen, dan geldt in afwijking van de in het eerste lid geregelde termijn een termijn van vijf jaar, gerekend vanaf het moment waarop die aanwijzing in de betreffende algemene maatregel van bestuur in werking is getreden.
+
+4. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2025-07-01&g=2025-07-01), vindt de verwerking in de registratie ondergrond van een gegeven als bedoeld in het eerste lid plaats binnen twee werkdagen nadat het desbetreffende brondocument in het register brondocumenten ondergrond is ingeschreven.
 
 ##### Artikel 41
 
-Voor zover een krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01) aangewezen brondocument dat de grondslag vormt voor een gegeven over een verkenning als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01), ontstaat in het kader van de uitvoering of het ontwerp en de uitvoering van een werk waarvoor een bronhouder schriftelijk opdracht heeft verleend vóór het tijdstip van inwerkingtreding van de krachtens artikel 9 gegeven bepalingen tot aanwijzing van dat brondocument, zijn de verplichtingen, bedoeld in de artikelen 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2024-07-01&g=2024-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2024-07-01&g=2024-07-01), niet van toepassing tot drie jaar na dat tijdstip.
+Voor zover een krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01) aangewezen brondocument dat de grondslag vormt voor een gegeven over een verkenning als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-07-01&g=2025-07-01), ontstaat in het kader van de uitvoering of het ontwerp en de uitvoering van een werk waarvoor een bronhouder schriftelijk opdracht heeft verleend vóór het tijdstip van inwerkingtreding van de krachtens artikel 9 gegeven bepalingen tot aanwijzing van dat brondocument, zijn de verplichtingen, bedoeld in de artikelen 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2025-07-01&g=2025-07-01), niet van toepassing tot drie jaar na dat tijdstip.
 
 ##### Artikel 42
 
@@ -485,7 +497,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a
 
-1. De bronhouder controleert een maal per jaar de wijze van uitvoering van [artikel 9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2024-07-01&g=2024-07-01).
+1. De bronhouder controleert een maal per jaar de wijze van uitvoering van [artikel 9, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01).
 
 2. De bronhouder zendt aan Onze Minister een afschrift van de controleresultaten. Onze Minister maakt deze controleresultaten openbaar.
 
