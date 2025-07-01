@@ -4,7 +4,7 @@ identifier: "BWBR0004644"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2011-05-25"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004644"
 soort: "AMvB"
@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 1. De voor Nederland van kracht zijnde Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, bedoeld in artikel 1 van het op 20 oktober 1972 te Londen tot stand gekomen Verdrag inzake de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, (**Trb.** 1974, 51) zoals gewijzigd, zijn van toepassing op:
 
-- a. alle schepen die in Nederland zijn geregistreerd of die gerechtigd zijn de Nederlandse vlag te voeren, met uitzondering van schepen die het recht daartoe ontlenen aan de regels die in de Nederlandse Antillen of in Aruba terzake gelden:
+- a. alle schepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren:
 
 - 1°. in volle zee;
 
-- 2°. in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2011-05-25&g=2011-05-25) vastgestelde lijn;
+- 2°. in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2025-07-01&g=2025-07-01) vastgestelde lijn;
 
 - 3°. op alle niet-Nederlandse wateren die met de volle zee in verbinding staan en bevaarbaar zijn voor zeegaande schepen;
 
-- b. alle andere schepen in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2011-05-25&g=2011-05-25) vastgestelde lijn.
+- b. alle andere schepen in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2025-07-01&g=2025-07-01) vastgestelde lijn.
 
 2. Het bepaalde in het eerste lid, aanhef en onder **a**, ten 2° en onder **b**, is niet van toepassing voor zover bij of krachtens de wet dan wel bij of krachtens een voor Nederland van kracht zijnd verdrag of besluit van een volkenrechtelijke organisatie afwijkende voorschriften zijn vastgesteld.
 
@@ -74,7 +74,7 @@ Voor de toepassing van dit besluit geldt de Nederlandse vertaling van de Interna
 
 ##### Artikel 4
 
-De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=1&z=2011-05-25&g=2011-05-25), bedoelde lijn is de langs de Nederlandse kust gaande lijn, die loopt van:
+De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=1&z=2025-07-01&g=2025-07-01), bedoelde lijn is de langs de Nederlandse kust gaande lijn, die loopt van:
 
 - –. het snijpunt van de breedtecirkel 53°26'.5 N met de Duitse kust ter plaatse van Upleward,
 
@@ -120,7 +120,7 @@ De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic 
 
 1. Het besluit van 4 augustus 1976 (**Stb.** 773), houdende vaststelling van Bepalingen ter voorkoming van aanvaringen op zee, 1972, wordt ingetrokken, met dien verstande dat de krachtens dat besluit bekend gemaakte verkeersscheidingsstelsels worden geacht te zijn bekend gemaakt krachtens dit besluit.
 
-2. Het besluit van 13 mei 1981 (**Stb.** 314), houdende vaststelling van de lijn bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=2&z=2011-05-25&g=2011-05-25), ten 2° en onder **b**, van de Zeeaanvaringswet 1977 (**Stb.** 1979, 196), wordt ingetrokken.
+2. Het besluit van 13 mei 1981 (**Stb.** 314), houdende vaststelling van de lijn bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=2&z=2025-07-01&g=2025-07-01), ten 2° en onder **b**, van de Zeeaanvaringswet 1977 (**Stb.** 1979, 196), wordt ingetrokken.
 
 ##### Artikel 7
 
