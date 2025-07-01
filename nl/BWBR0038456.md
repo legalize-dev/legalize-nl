@@ -4,7 +4,7 @@ identifier: "BWBR0038456"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038456"
 soort: "AMvB"
@@ -70,15 +70,15 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 | --- | --- | --- | --- | --- | --- | --- |
 | **EPV klasse** | **Compactheid (Als** **/Ag)** | **Warmtebehoefte ruimteverwarming (EH;nd**) in kWh/m2/jr**** | **Ontwerpeis: Primair energiegebruik (EWEPtot**) in kWh/m2****/jr**** | **Opgewekte duurzame elektriciteit voor huishoudelijk gebruik kWh/jr** | **Maximale EPV in €/m2** **/maand** | **Maximale EPV in €/m2** **/maand** |
 | **EPV Basis** |   |   |   |   | Woningen vóór 2019 | Woningen vanaf 2019 |
-| Eengezinswoningen | < 1 | ≤ 43 | ≤ 0 | > 0 | **€ 1,30** | n.v.t. |
-| Eengezinswoningen | ≥ 1 | ≤ 43 + 40 x (Als/Ag – 1) | ≤ 0 | > 0 | **€ 1,30** | n.v.t. |
-| Meergezinswoningen | < 1 | ≤ 45 | ≤ 0 | > 0 | **€ 1,30** | n.v.t. |
-| Meergezinswoningen | ≥ 1 | ≤ 45 + 45 x (Als/Ag – 1) | ≤ 0 | > 0 | **€ 1,30** | n.v.t. |
+| Eengezinswoningen | < 1 | ≤ 43 | ≤ 0 | > 0 | **1,34** | n.v.t. |
+| Eengezinswoningen | ≥ 1 | ≤ 43 + 40 x (Als/Ag – 1) | ≤ 0 | > 0 | **1,34** | n.v.t. |
+| Meergezinswoningen | < 1 | ≤ 45 | ≤ 0 | > 0 | **1,34** | n.v.t. |
+| Meergezinswoningen | ≥ 1 | ≤ 45 + 45 x (Als/Ag – 1) | ≤ 0 | > 0 | **1,34** | n.v.t. |
 | **EPV Hoogwaardig** |   |   |   |   | Woningen vóór 2019 | Woningen vanaf 2019 |
-| Eengezinswoningen | < 1 | ≤ 30 | ≤ -30 | ≥ 2100 | **€ 1,71** | **€ 1,19** |
-| Eengezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -30 | ≥ 2100 | **€ 1,71** | **€ 1,19** |
-| Meergezinswoningen | < 1 | ≤ 30 | ≤ -10 | ≥ 530 | **€ 1,45** | **€ 0,93** |
-| Meergezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -10 | ≥ 530 | **€ 1,45** | **€ 0,93** |
+| Eengezinswoningen | < 1 | ≤ 30 | ≤ -30 | ≥ 2100 | **1,77** | **1.23** |
+| Eengezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -30 | ≥ 2100 | **1,77** | **1.23** |
+| Meergezinswoningen | < 1 | ≤ 30 | ≤ -10 | ≥ 530 | **1,50** | **0,96** |
+| Meergezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -10 | ≥ 530 | **1,50** | **0,96** |
 
 2. De warmtebehoefte en primair energiegebruik worden bepaald door een bedrijf met een geldig procescertificaat, volgens de krachtens [artikel 4.3, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3) gestelde regels omtrent het vaststellen van een energielabel voor woningen en woongebouwen.
 
@@ -88,19 +88,19 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 
 ##### Artikel 3
 
-1. De verhuurder informeert de huurder bij het overeenkomen van de energieprestatievergoeding op welke wijze is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01), opgenomen tabel bedoelde eisen, en in ieder geval over:
+1. De verhuurder informeert de huurder bij het overeenkomen van de energieprestatievergoeding op welke wijze is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01), opgenomen tabel bedoelde eisen, en in ieder geval over:
 
-- a. de overeenkomstig de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01), berekende warmtebehoefte, bedoeld in kolom III van de in artikel 2, eerste lid, opgenomen tabel;
+- a. de overeenkomstig de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01), berekende warmtebehoefte, bedoeld in kolom III van de in artikel 2, eerste lid, opgenomen tabel;
 
-- b. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken hoeveelheid duurzame elektriciteit waarmee wordt voldaan aan de ontwerpeis primair energiegebruik, bedoeld in kolom IV van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01) opgenomen tabel;
+- b. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken hoeveelheid duurzame elektriciteit waarmee wordt voldaan aan de ontwerpeis primair energiegebruik, bedoeld in kolom IV van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01) opgenomen tabel;
 
-- c. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken duurzame elektriciteit beschikbaar voor huishoudelijk gebruik, bedoeld in kolom V van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01), opgenomen tabel;
+- c. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken duurzame elektriciteit beschikbaar voor huishoudelijk gebruik, bedoeld in kolom V van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01), opgenomen tabel;
 
-- d. het gemiddelde gebruikersgedrag dat als uitgangspunt is gehanteerd in de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01), en daarbij de gevolgen voor het elektriciteitsgebruik bij afwijking van het gemiddelde gebruikersgedrag, in ieder geval voor het gebruik van warm tapwater, ruimteverwarming en huishoudelijk gebruik.
+- d. het gemiddelde gebruikersgedrag dat als uitgangspunt is gehanteerd in de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01), en daarbij de gevolgen voor het elektriciteitsgebruik bij afwijking van het gemiddelde gebruikersgedrag, in ieder geval voor het gebruik van warm tapwater, ruimteverwarming en huishoudelijk gebruik.
 
 ##### Artikel 4
 
-1. In de gevallen waarin een energieprestatievergoeding is overeengekomen, bevat het overzicht dat de verhuurder krachtens [artikel 261a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261a), in samenhang met [artikel 259, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259) jaarlijks aan de huurder verstrekt, gegevens over het gemeten elektriciteitsgebruik van de maatregelen waarmee is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2024-07-01&g=2024-07-01), opgenomen tabel bedoelde eisen, en in ieder geval gegevens over:
+1. In de gevallen waarin een energieprestatievergoeding is overeengekomen, bevat het overzicht dat de verhuurder krachtens [artikel 261a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261a), in samenhang met [artikel 259, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259) jaarlijks aan de huurder verstrekt, gegevens over het gemeten elektriciteitsgebruik van de maatregelen waarmee is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2025-07-01&g=2025-07-01), opgenomen tabel bedoelde eisen, en in ieder geval gegevens over:
 
 - a. de totale jaarlijkse op de woning opgewekte hoeveelheid duurzame elektriciteit;
 
@@ -140,11 +140,11 @@ G = de gemeten dan wel forfaitair op 700 kWh/jaar vastgestelde hoeveelheid elekt
 
 ##### Artikel 6
 
-1. Op energieprestatievergoedingen, overeengekomen voor 1 oktober 2023, zijn de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2024-07-01&g=2024-07-01) van toepassing.
+1. Op energieprestatievergoedingen, overeengekomen voor 1 oktober 2023, zijn de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2025-07-01&g=2025-07-01) van toepassing.
 
-2. De bedragen, genoemd in de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2024-07-01&g=2024-07-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
+2. De bedragen, genoemd in de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2025-07-01&g=2025-07-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
 
-3. De verhuurder die de warmtebehoefte van de woning heeft bepaald voor 1 januari 2024 kan tabel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2024-07-01&g=2024-07-01) toepassen bij het bepalen van de maximale energieprestatievergoeding.
+3. De verhuurder die de warmtebehoefte van de woning heeft bepaald voor 1 januari 2024 kan tabel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2025-07-01&g=2025-07-01) toepassen bij het bepalen van de maximale energieprestatievergoeding.
 
 ##### Artikel 7
 
@@ -179,9 +179,9 @@ Vervallen
 
 | **Netto warmtevraag voor ruimteverwarming [kWh/m2** **] per jaar** | Minimale duurzaam opgewekte warmte voor ruimteverwarming en warm tapwater [kWh/m2] per jaar* | Minimale productie duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp +1.800) doch hoeft niet > (Ehulp + 2.600)** | Maximale vergoeding [€/m2/maand]*** |
 | --- | --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 30 | Netto warmtevraag + 15 | Ehulp + 26 | 1,77 |
-| 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | 1,49 |
-| 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | 1,27**** |
+| 0 < Netto warmtevraag ≤ 30 | Netto warmtevraag + 15 | Ehulp + 26 | € 1,83 |
+| 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | € 1,54 |
+| 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | € 1,31**** |
 
 ## Bijlage II. bij het Besluit energieprestatievergoeding huur
 
