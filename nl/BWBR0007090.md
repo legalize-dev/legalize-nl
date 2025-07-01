@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -94,9 +94,17 @@ hetgeen daaronder wordt verstaan in [artikel 1.1 van de Regeling voertuigen](htt
 
 - e. een tenaamstellingsverslag: af te geven door de Dienst Wegverkeer: model D.4.
 
-##### Artikel 4. Aanwijzing instantie
+##### Artikel 4. Gegevens bij aanvraag inschrijving en tenaamstelling bijzondere bromfietsen
 
-Vervallen
+De gegevens, bedoeld in [artikel 58y, vierde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58y), die bij een aanvraag voor inschrijving en tenaamstelling als bedoeld in artikel 58x, eerste lid, van het Kentekenreglement worden verstrekt zijn:
+
+- a. het voertuigidentificatienummer, bedoeld in [artikel 2.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=2.1);
+
+- b. het nummer van de aanwijzing, bedoeld in artikel 20b van de wet, die voor dat voertuig is verleend indien de aanvrager daarover beschikt;
+
+- c. het bouwjaar, merk en type van het voertuig;
+
+- d. foto’s waarop de kenmerken van het voertuig, waaronder in ieder geval het voertuigidentificatienummer, zichtbaar zijn.
 
 ##### Artikel 4. Aanwijzing instantie
 
