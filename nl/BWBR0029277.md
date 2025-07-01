@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2025-06-28"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), [8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8b), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=21), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=22), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=24) en [25, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=25);
 
-- –. [artikel 49, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49);
+- –. [artikel 61, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61);
 
 - –. [artikel 27, derde en vierde lid, van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=27);
 
-- –. [artikel 94, vijfde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=94);
+- –. [artikel 2.3.1, derde lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.3.1);
 
 - –. de [artikelen 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=43), en [85, eerste lid en vijfde lid, van het Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=85);
 
@@ -71,6 +71,8 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 - –. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=3), [4, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=5), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=6b), [6c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=6c), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=7a), [8, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8), [8, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8a), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8b), [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=8c), [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=9a), en [10 van de Regeling havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0009630&artikel=10);
 
 - –. de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=27) en [35 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=35);
+
+- –. [artikel 22, onderdeel a, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=22);
 
 - –. [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
 
@@ -82,7 +84,7 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. [artikel 12, onder 2°, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=12);
 
-- –. [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55).
+- –. [artikel 62, onderdeel b, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=62).
 
 ##### Artikel 3
 
@@ -96,7 +98,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Deze regeling – voor zover die berustte op de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) – berust op [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49), en [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55). Voorts berust deze regeling op [artikel 36, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=36).
+Deze regeling berust mede op de [artikelen 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61) en [62, onderdeel b, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=62), [artikel 36, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=36) en [artikel 5 van de Wet verzekering zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=5).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -108,7 +110,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2c
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust mede op [artikel 22, aanhef en onderdeel a, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=22).
 
 ##### Artikel 2c*
 
