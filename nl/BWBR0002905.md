@@ -4,7 +4,7 @@ identifier: "BWBR0002905"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2017-09-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002905"
 soort: "wet"
@@ -88,11 +88,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 4
 
-De exploitant is gehouden overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2017-09-01&g=2017-09-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=7&z=2017-09-01&g=2017-09-01) dekking van zijn aansprakelijkheid te hebben en in stand te houden tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01), bedoelde bedrag.
+De exploitant is gehouden overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2025-07-01&g=2025-07-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=7&z=2025-07-01&g=2025-07-01) dekking van zijn aansprakelijkheid te hebben en in stand te houden tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01), bedoelde bedrag.
 
 ##### Artikel 5
 
-1. De exploitant van een onder Nederlandse vlag varend nucleair schip is gehouden een verzekering of andere financiële zekerheid te hebben en in stand te houden van de aard en op de voorwaarden, als door Onze Minister van Financiën is vastgesteld, tot een bij algemene maatregel van bestuur, gelet op de mogelijkheden tot het verkrijgen van dekking, vast te stellen bedrag. Bij zodanige maatregel kunnen andere voorschriften worden gegeven met betrekking tot die financiële zekerheid.
+1. De exploitant van een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren is gehouden een verzekering of andere financiële zekerheid te hebben en in stand te houden van de aard en op de voorwaarden, als door Onze Minister van Financiën is vastgesteld, tot een bij algemene maatregel van bestuur, gelet op de mogelijkheden tot het verkrijgen van dekking, vast te stellen bedrag. Bij zodanige maatregel kunnen andere voorschriften worden gegeven met betrekking tot die financiële zekerheid.
 
 2. Indien een exploitant, als bedoeld in het eerste lid, naar het oordeel van Onze Minister van Financiën geen of geen voldoende zekerheid, als daar bedoeld, kan verkrijgen of indien deze financiële zekerheid naar het oordeel van Onze Minister van Financiën slechts tegen een onredelijke premie of vergoeding te verkrijgen is, is Onze voornoemde Minister gemachtigd op voorwaarden en tegen premies of vergoedingen, als door hem te bepalen, voor de Staat als verzekeraar verzekeringsovereenkomsten terzake aan te gaan of namens de Staat andere garanties terzake te verstrekken.
 
@@ -100,17 +100,17 @@ De exploitant is gehouden overeenkomstig de [artikelen 5](https://wetten.overhei
 
 ##### Artikel 6
 
-1. Voor zover de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01) beschikbaar komende middelen ontoereikend zijn voor vergoeding van de kernschade, stelt de Staat aan de exploitant openbare middelen beschikbaar tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01), bedoelde bedrag.
+1. Voor zover de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01) beschikbaar komende middelen ontoereikend zijn voor vergoeding van de kernschade, stelt de Staat aan de exploitant openbare middelen beschikbaar tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01), bedoelde bedrag.
 
-2. Voor zover het ontbreken van de financiële zekerheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), aan schuld van de exploitant te wijten is, heeft de Staat voor de in verband daarmede beschikbaar gestelde openbare middelen recht van verhaal op de exploitant.
+2. Voor zover het ontbreken van de financiële zekerheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), aan schuld van de exploitant te wijten is, heeft de Staat voor de in verband daarmede beschikbaar gestelde openbare middelen recht van verhaal op de exploitant.
 
-3. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01) bedoelde interesten en kosten, verschuldigd door een exploitant, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), zijn voor rekening van die exploitant en de Staat naar verhouding van de middelen, die ingevolge artikel 5, onderscheidenlijk het eerste lid van het onderhavige artikel, beschikbaar worden gesteld.
+3. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde interesten en kosten, verschuldigd door een exploitant, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), zijn voor rekening van die exploitant en de Staat naar verhouding van de middelen, die ingevolge artikel 5, onderscheidenlijk het eerste lid van het onderhavige artikel, beschikbaar worden gesteld.
 
-4. Indien en voorzover de Staat ingevolge het eerste lid openbare middelen aan de exploitant beschikbaar heeft gesteld, heeft hij het recht van verhaal van de exploitant, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=2&z=2017-09-01&g=2017-09-01). Bij de uitoefening van dit recht heeft de Staat voorrang boven de verzekeraars of andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), hebben gesteld.
+4. Indien en voorzover de Staat ingevolge het eerste lid openbare middelen aan de exploitant beschikbaar heeft gesteld, heeft hij het recht van verhaal van de exploitant, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=2&z=2025-07-01&g=2025-07-01). Bij de uitoefening van dit recht heeft de Staat voorrang boven de verzekeraars of andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), hebben gesteld.
 
 ##### Artikel 7
 
-Voor wat een exploitant van een onder vreemde vlag varend nucleair schip betreft dient de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01) bedoelde dekking voor zijn aansprakelijkheid naar het oordeel van Onze Minister van Financiën genoegzaam te zijn.
+Voor wat een exploitant van een onder vreemde vlag varend nucleair schip betreft dient de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01) bedoelde dekking voor zijn aansprakelijkheid naar het oordeel van Onze Minister van Financiën genoegzaam te zijn.
 
 ##### Artikel 8
 
@@ -132,9 +132,9 @@ Overigens blijven de bepalingen van bedoelde wetten van kracht.
 
 ##### Artikel 11
 
-1. In gevallen, waarin kernschade aanleiding geeft tot aansprakelijkheid van meer dan één exploitant en het redelijkerwijs niet mogelijk is te bepalen, welk deel van de schade aan ieder hunner dient te worden toegerekend, zijn de betrokken exploitanten hoofdelijk aansprakelijk. Niettemin zal de aansprakelijkheid van ieder der exploitanten het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01), bedoelde bedrag niet te boven gaan.
+1. In gevallen, waarin kernschade aanleiding geeft tot aansprakelijkheid van meer dan één exploitant en het redelijkerwijs niet mogelijk is te bepalen, welk deel van de schade aan ieder hunner dient te worden toegerekend, zijn de betrokken exploitanten hoofdelijk aansprakelijk. Niettemin zal de aansprakelijkheid van ieder der exploitanten het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01), bedoelde bedrag niet te boven gaan.
 
-2. In het geval van een kernongeval, waarbij de kernschade wordt veroorzaakt door of het gevolg is van splijtstoffen of radioactieve produkten of afvalstoffen van meer dan één nucleair schip van eenzelfde exploitant, is die exploitant ten aanzien van elk dier schepen aansprakelijk tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01), bedoelde bedrag.
+2. In het geval van een kernongeval, waarbij de kernschade wordt veroorzaakt door of het gevolg is van splijtstoffen of radioactieve produkten of afvalstoffen van meer dan één nucleair schip van eenzelfde exploitant, is die exploitant ten aanzien van elk dier schepen aansprakelijk tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01), bedoelde bedrag.
 
 3. Ingeval exploitanten hoofdelijk aansprakelijk zijn en met inachtneming van het eerste lid:
 
@@ -148,7 +148,7 @@ Een exploitant is niet aansprakelijk krachtens deze wet voor kernschade, veroorz
 
 ##### Artikel 13
 
-De ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01) ter beschikking komende middelen mogen uitsluitend worden aangewend voor de betaling van krachtens deze wet verschuldigde schadevergoeding.
+De ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01) ter beschikking komende middelen mogen uitsluitend worden aangewend voor de betaling van krachtens deze wet verschuldigde schadevergoeding.
 
 ##### Artikel 14
 
@@ -158,11 +158,11 @@ De ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel
 
 ##### Artikel 15
 
-Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2017-09-01&g=2017-09-01), en [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2017-09-01&g=2017-09-01), kunnen in eerste aanleg uitsluitend worden ingesteld bij de rechtbank Den Haag.
+Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2025-07-01&g=2025-07-01), en [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2025-07-01&g=2025-07-01), kunnen in eerste aanleg uitsluitend worden ingesteld bij de rechtbank Den Haag.
 
 ##### Artikel 16
 
-1. Een exploitant van een onder Nederlandse vlag varend nucleair schip is gehouden onverwijld mededeling te doen aan Onze Minister van Financiën:
+1. Een exploitant van een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren is gehouden onverwijld mededeling te doen aan Onze Minister van Financiën:
 
 - a. van elk kernongeval, waardoor schade, waarvoor hij aansprakelijk is, kan zijn veroorzaakt;
 
@@ -172,17 +172,17 @@ Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig [artikel 18, ee
 
 - d. van elke door hem in verband met een kernongeval uitgekeerde vergoeding van schade.
 
-2. Voorzover de Staat openbare middelen, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2017-09-01&g=2017-09-01), van deze wet, beschikbaar stelt voor vergoeding van kernschade, met betrekking waartoe een van de in het eerste lid bedoelde mededelingen niet is gedaan, heeft de Staat voor het aldus betaalde bedrag recht van verhaal op de exploitant.
+2. Voorzover de Staat openbare middelen, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2025-07-01&g=2025-07-01), van deze wet, beschikbaar stelt voor vergoeding van kernschade, met betrekking waartoe een van de in het eerste lid bedoelde mededelingen niet is gedaan, heeft de Staat voor het aldus betaalde bedrag recht van verhaal op de exploitant.
 
 ##### Artikel 17
 
-1. Erkenning van en voldoening aan schadevorderingen zomede het aangaan van dadingen en schikkingen betreffende zodanige vorderingen kunnen door een exploitant van een onder Nederlandse vlag varend nucleair schip slechts met goedkeuring van Onze Minister van Financiën geschieden.
+1. Erkenning van en voldoening aan schadevorderingen zomede het aangaan van dadingen en schikkingen betreffende zodanige vorderingen kunnen door een exploitant van een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren slechts met goedkeuring van Onze Minister van Financiën geschieden.
 
 2. Handelingen in strijd met het eerste lid zijn van rechtswege nietig. De nietigheid wordt door de rechter ambtshalve uitgesproken.
 
 ##### Artikel 18
 
-1. De rechtbank kan op verzoek van een belanghebbende bepalen, dat verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01), hebben verschaft, de middelen, welke zij dientengevolge ter voldoening van erkende of toegewezen schadevorderingen beschikbaar moeten stellen, rechtstreeks aan de betrokkene zullen uitkeren. Een zodanige beschikking kan door de rechtbank te allen tijde worden ingetrokken.
+1. De rechtbank kan op verzoek van een belanghebbende bepalen, dat verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01), hebben verschaft, de middelen, welke zij dientengevolge ter voldoening van erkende of toegewezen schadevorderingen beschikbaar moeten stellen, rechtstreeks aan de betrokkene zullen uitkeren. Een zodanige beschikking kan door de rechtbank te allen tijde worden ingetrokken.
 
 2. Op een verzoek, als bedoeld in het eerste lid, beslist de rechtbank niet, dan nadat de belanghebbende, die het verzoek heeft ingediend, Onze Minister van Financiën en de exploitant zijn gehoord of ten verhore zijn opgeroepen.
 
@@ -194,23 +194,23 @@ Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig [artikel 18, ee
 
 ##### Artikel 19
 
-1. Onze Minister van Financiën kan te allen tijde bepalen, dat hij namens een exploitant van een onder Nederlandse vlag varend nuclear schip, alle of daarbij aangewezen rechten en verplichtingen van die exploitant ter zake van de afwikkeling van de kernschade zal uitoefenen, voorzover nodig in afwijking van de tussen de exploitant en verzekeraars of andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), hebben gesteld, gesloten overeenkomsten.
+1. Onze Minister van Financiën kan te allen tijde bepalen, dat hij namens een exploitant van een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, alle of daarbij aangewezen rechten en verplichtingen van die exploitant ter zake van de afwikkeling van de kernschade zal uitoefenen, voorzover nodig in afwijking van de tussen de exploitant en verzekeraars of andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), hebben gesteld, gesloten overeenkomsten.
 
 2. Een beschikking, als in het eerste lid bedoeld, wordt bekend gemaakt in de **Staatscourant**. Een zodanige beschikking kan nadere regelen omtrent de indiening van vorderingen tot vergoeding van kernschade bevatten.
 
 ##### Artikel 20
 
-1. Indien het totaal der door de exploitant voor de kernschade te betalen vergoedingen groter is dan het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2017-09-01&g=2017-09-01), bedoelde bedrag, worden de aanspraken op vergoeding verhoudingsgewijs verminderd.
+1. Indien het totaal der door de exploitant voor de kernschade te betalen vergoedingen groter is dan het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=3&z=2025-07-01&g=2025-07-01), bedoelde bedrag, worden de aanspraken op vergoeding verhoudingsgewijs verminderd.
 
 2. Voor gevallen, waarin het eerste lid van toepassing is, kunnen bij algemene maatregel van bestuur regelen worden gesteld omtrent de wijze van afwikkeling van de betrokken schadevorderingen.
 
 ##### Artikel 21
 
-1. Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid, dat het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=20&z=2017-09-01&g=2017-09-01) bedoelde geval zich voordoet, en de omvang van elk uit te keren schadebedrag nog niet is vastgesteld, kan een belanghebbende aan de rechtbank verzoeken de exploitant terzake van de vergoeding van de kernschade een verbod van betaling op te leggen. De griffier geeft van de indiening van zodanig verzoek onverwijld kennis aan de exploitant en in het geval, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=13&z=2017-09-01&g=2017-09-01), aan de verzekeraars en andere personen, die de dekking als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01), hebben verschaft.
+1. Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid, dat het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=20&z=2025-07-01&g=2025-07-01) bedoelde geval zich voordoet, en de omvang van elk uit te keren schadebedrag nog niet is vastgesteld, kan een belanghebbende aan de rechtbank verzoeken de exploitant terzake van de vergoeding van de kernschade een verbod van betaling op te leggen. De griffier geeft van de indiening van zodanig verzoek onverwijld kennis aan de exploitant en in het geval, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=13&z=2025-07-01&g=2025-07-01), aan de verzekeraars en andere personen, die de dekking als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01), hebben verschaft.
 
-2. De exploitant en in het geval, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2017-09-01&g=2017-09-01), de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01), hebben verschaft, kunnen van de dag, waarop zij een verzoek, als in het eerste lid bedoeld, hebben ingediend, onderscheidenlijk kennis hebben gekregen van de indiening van een zodanig verzoek, terzake van de vergoeding van kernschade geen betalingen doen tot de dag, waarop een beschikking betreffende het verzoek kracht van gewijsde heeft verkregen.
+2. De exploitant en in het geval, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2025-07-01&g=2025-07-01), de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01), hebben verschaft, kunnen van de dag, waarop zij een verzoek, als in het eerste lid bedoeld, hebben ingediend, onderscheidenlijk kennis hebben gekregen van de indiening van een zodanig verzoek, terzake van de vergoeding van kernschade geen betalingen doen tot de dag, waarop een beschikking betreffende het verzoek kracht van gewijsde heeft verkregen.
 
-3. Indien de rechtbank het verzoek gegrond acht, legt zij de exploitant en, zolang een beschikking, als bedoeld in [artikel 18, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2017-09-01&g=2017-09-01), van kracht is, de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01), hebben verschaft, een verbod van betaling, als bedoeld in het eerste lid, op. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek ongegrond wordt verklaard, is [artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+3. Indien de rechtbank het verzoek gegrond acht, legt zij de exploitant en, zolang een beschikking, als bedoeld in [artikel 18, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2025-07-01&g=2025-07-01), van kracht is, de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01), hebben verschaft, een verbod van betaling, als bedoeld in het eerste lid, op. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek ongegrond wordt verklaard, is [artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
 4. Handelingen in strijd met het tweede lid of met een beschikking, als bedoeld in het derde lid, eerste volzin, zijn van rechtswege nietig. De nietigheid wordt door de rechter ambtshalve uitgesproken.
 
@@ -218,23 +218,23 @@ Rechtsvorderingen ingevolge deze wet en verzoeken overeenkomstig [artikel 18, ee
 
 ##### Artikel 22
 
-Gedurende de tijd, dat het verbod van betaling, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2017-09-01&g=2017-09-01), geldt, dragen erkende of toegewezen schadevergoedingen een door Onze Minister van Financiën te bepalen interest.
+Gedurende de tijd, dat het verbod van betaling, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2025-07-01&g=2025-07-01), geldt, dragen erkende of toegewezen schadevergoedingen een door Onze Minister van Financiën te bepalen interest.
 
 ##### Artikel 23
 
-1. Onze Minister van Financiën kan in gevallen, waarin een exploitant van een onder Nederlandse vlag varend nucleair schip aansprakelijk is, aan de betrokkenen de nodige voorschotten verlenen.
+1. Onze Minister van Financiën kan in gevallen, waarin een exploitant van een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren aansprakelijk is, aan de betrokkenen de nodige voorschotten verlenen.
 
 2. Onze Minister van Financiën bepaalt de grootte van de voorschotten, rekening houdende met de aard en omvang van de geleden kernschade, met de uitkering, waarop de betrokkene vermoedelijk aanspraak zal kunnen maken, en met diens persoonlijke omstandigheden.
 
 3. Een genoten voorschot komt in mindering van het door de exploitant aan de betrokkene verschuldigde bedrag van de vergoeding.
 
-4. In afwijking van het bepaalde in [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2017-09-01&g=2017-09-01), kan Onze Minister van Financiën gedurende de tijd, dat het verbod van betaling van kracht is, van de verzekeraars en andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), hebben gesteld, vorderen, dat zij, naar gelang bedragen van geleden kernschade zijn erkend of toegewezen, de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2017-09-01&g=2017-09-01), bedoelde middelen aan hem uitkeren tot ten hoogste het bedrag van de door hem verleende voorschotten.
+4. In afwijking van het bepaalde in [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2025-07-01&g=2025-07-01), kan Onze Minister van Financiën gedurende de tijd, dat het verbod van betaling van kracht is, van de verzekeraars en andere personen, die financiële zekerheid, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), hebben gesteld, vorderen, dat zij, naar gelang bedragen van geleden kernschade zijn erkend of toegewezen, de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=5&z=2025-07-01&g=2025-07-01), bedoelde middelen aan hem uitkeren tot ten hoogste het bedrag van de door hem verleende voorschotten.
 
 ##### Artikel 24
 
-1. Gedurende de termijnen, waarin ingevolge [artikel 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2017-09-01&g=2017-09-01), ter zake van de vergoeding van kernschade door een exploitant van een onder vreemde vlag varend nucleair schip, geen betalingen kunnen plaatsvinden, kan de rechtbank op verzoek van een belanghebbende aan de exploitant, de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2017-09-01&g=2017-09-01), hebben verschaft, de verplichting opleggen de nodige voorschotten aan de betrokkenen te verlenen. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek wordt afgewezen, is [artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+1. Gedurende de termijnen, waarin ingevolge [artikel 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=21&z=2025-07-01&g=2025-07-01), ter zake van de vergoeding van kernschade door een exploitant van een onder vreemde vlag varend nucleair schip, geen betalingen kunnen plaatsvinden, kan de rechtbank op verzoek van een belanghebbende aan de exploitant, de verzekeraars en andere personen, die de dekking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=4&z=2025-07-01&g=2025-07-01), hebben verschaft, de verplichting opleggen de nodige voorschotten aan de betrokkenen te verlenen. Op zodanige beschikking alsmede op een beschikking, waarin het verzoek wordt afgewezen, is [artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=18&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
-2. [Artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=23&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
+2. [Artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=23&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 25
 
@@ -246,11 +246,11 @@ Wij behouden Ons de bevoegdheid voor met mogendheden, die geen partij zijn bij h
 
 ##### Artikel 27
 
-Deze wet is van toepassing op een nucleair schip, dat in Nederland in aanbouw is, van het tijdstip van zijn tewaterlating af. Tussen het tijdstip van zijn tewaterlating en dat, waarop het gerechtigd is een vlag te voeren, wordt de eigenaar van het schip beschouwd als exploitant en wordt het schip geacht de Nederlandse vlag te voeren.
+Deze wet is van toepassing op een nucleair schip, dat in Nederland in aanbouw is, van het tijdstip van zijn tewaterlating af. Tussen het tijdstip van zijn tewaterlating en dat, waarop het gerechtigd is een vlag te voeren, wordt de eigenaar van het schip beschouwd als exploitant en wordt het schip geacht op grond van voor Nederland geldende rechtsregels de vlag van het Koninkrijk te voeren.
 
 ##### Artikel 28
 
-1. Deze wet is voor wat betreft kernschade, veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op een onder Nederlandse vlag varend nucleair schip, betrokken zijn, van toepassing, ongeacht waar ter wereld dit kernongeval plaatsvindt.
+1. Deze wet is voor wat betreft kernschade, veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op een nucleair schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, betrokken zijn, van toepassing, ongeacht waar ter wereld dit kernongeval plaatsvindt.
 
 2. Deze wet is voor wat betreft kernschade, veroorzaakt door een kernongeval, waarbij de splijtstoffen van of de radioactieve produkten of afvalstoffen, voortgebracht op een onder vreemde vlag varend nucleair schip, betrokken zijn, van toepassing, indien hetzij het kernongeval op Nederlands grondgebied heeft plaatsgevonden hetzij de kernschade aldaar is geleden.
 
@@ -258,6 +258,6 @@ Deze wet is van toepassing op een nucleair schip, dat in Nederland in aanbouw is
 
 1. In geval van kernschade, waarbij betrokken zijn de splijtstoffen van of de radioactieve produkten of afvalstoffen voortgebracht op een nucleair schip, voor de exploitatie waarvan ten tijde van het kernongeval geen vergunning door een staat was verleend, wordt voor de toepassing van deze wet de eigenaar van dat schip beschouwd als exploitant met dien verstande, dat artikel 3 niet van toepassing is.
 
-2. In een geval, als bedoeld in het eerste lid, heeft de Staat voor de door hem overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2017-09-01&g=2017-09-01) beschikbaar gestelde openbare middelen recht van verhaal op de eigenaar van het nucleaire schip.
+2. In een geval, als bedoeld in het eerste lid, heeft de Staat voor de door hem overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002905&artikel=6&z=2025-07-01&g=2025-07-01) beschikbaar gestelde openbare middelen recht van verhaal op de eigenaar van het nucleaire schip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
