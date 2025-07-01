@@ -4,7 +4,7 @@ identifier: "BWBR0001999"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-07-01"
-last_updated: "2010-10-10"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001999"
 soort: "rijkswet"
@@ -48,13 +48,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - b. "zeeschepen": zeeschepen in de zin van [artikel 2, eerste lid, van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede zodanige schepen in aanbouw.
 
-- c. "Nederlandsche zeeschepen": die, welke de Nederlandsche nationaliteit bezitten ingevolge [artikel 311](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311) of [312 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=312);
+- c. "Nederlandse zeeschepen": zeeschepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
 
-- d. Curaçaose zeeschepen: zeeschepen die op grond van voor Curaçao geldende rechtsregels de Curaçaose nationaliteit bezitten;
+- d. "Arubaanse zeeschepen": zeeschepen die op grond van voor Aruba geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
 
-- e. Sint Maartense zeeschepen: zeeschepen die op grond van voor Sint Maarten geldende rechtsregels de Sint Maartense nationaliteit bezitten;
+- e. "Curaçaose zeeschepen": zeeschepen die op grond van voor Curaçao geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
 
-- f. Arubaanse schepen op grond van de artikelen 3 en 5 van het Curaçaosche Zeebrievenbesluit 1933;
+- f. "Sint Maartense zeeschepen": zeeschepen die op grond van voor Sint Maarten geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren;
 
 - g. "luchtvaartuig": wat daaronder wordt verstaan in [artikel 1 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1);
 
@@ -114,11 +114,11 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 ##### Artikel 4
 
-1. Indien Nederlandse, Curaçaose, Sint Maartense of Arubaanse belanghebbenden bij Nederlandse, Curaçaose, Sint Maartense of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2010-10-10&g=2010-10-10), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
+1. Indien Nederlandse, Curaçaose, Sint Maartense of Arubaanse belanghebbenden bij Nederlandse, Curaçaose, Sint Maartense of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2025-07-01&g=2025-07-01), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
 
 De hiervoor bedoelde machtiging tot het aangaan van verzekeringsovereenkomsten tegen het gevaar van molest dan wel tegen de gewone transportgevaren geldt mede ten aanzien van belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoeren van de hiervoor bedoelde goederen.
 
-2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2010-10-10&g=2010-10-10), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
+2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2025-07-01&g=2025-07-01), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
 
 ##### Artikel 5
 
