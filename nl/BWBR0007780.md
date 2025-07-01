@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2014-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -190,7 +190,7 @@ Vervallen
 
 - a. de afschriften, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18);
 
-- b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de monsterrollen, bedoeld in [artikel 33 van de Zeevaartbemanningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=33).
+- b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de bemanningslijsten, bedoeld in [artikel 21 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=21).
 
 ##### Artikel 17
 
@@ -210,9 +210,9 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het k
 
 ##### Artikel 21
 
-1. De afdrachtvermindering zeevaart vindt met betrekking tot de zeevarende die op het inhoudingstijdstip met verlof is of tijdelijk arbeidsongeschikt is, slechts toepassing indien hij gedurende de periode tussen bedoeld verlof onderscheidenlijk bedoelde arbeidsongeschiktheid en de voorafgaande periode van vakantieverlof meer dan de helft van de werktijd op zeeschepen onder Nederlandse vlag heeft gewerkt.
+1. De afdrachtvermindering zeevaart vindt met betrekking tot de zeevarende die op het inhoudingstijdstip met verlof is of tijdelijk arbeidsongeschikt is, slechts toepassing indien hij gedurende de periode tussen bedoeld verlof onderscheidenlijk bedoelde arbeidsongeschiktheid en de voorafgaande periode van vakantieverlof meer dan de helft van de werktijd op zeeschepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren heeft gewerkt.
 
-2. Ten aanzien van de zeevarende die werkzaam is op een zeeschip op het tijdstip waarop dit de Nederlandse vlag gaat voeren wordt, indien de voorafgaande periode van vakantieverlof voor dat tijdstip eindigde, voor de toepassing van het eerste lid dat tijdstip tot uitgangspunt genomen in plaats van de voorafgaande periode van vakantieverlof.
+2. Ten aanzien van de zeevarende die werkzaam is op een zeeschip op het tijdstip waarop dit op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren wordt, indien de voorafgaande periode van vakantieverlof voor dat tijdstip eindigde, voor de toepassing van het eerste lid dat tijdstip tot uitgangspunt genomen in plaats van de voorafgaande periode van vakantieverlof.
 
 ### Hoofdstuk VII. S&O-afdrachtvermindering
 
