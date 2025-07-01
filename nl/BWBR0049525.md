@@ -4,7 +4,7 @@ identifier: "BWBR0049525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2024-06-19"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049525"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- **nationale sportbond:** organisatie die voldoet aan de voorwaarden van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=2&z=2024-06-19&g=2024-06-19);
+- **nationale sportbond:** organisatie die voldoet aan de voorwaarden van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=2&z=2024-06-19&g=2025-07-01);
 
 - **Nationale Topsportevenementen Strategie 2021–2030:** gezamenlijke evenementenstrategie, ontwikkeld door de Minister, NOC*NSF en Vereniging Sport en Gemeenten;
 
@@ -212,7 +212,7 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als deeln
 
 - b. de financiële haalbaarheid van het topsportevenement, waarbij wordt vermeld en toegelicht welke acties de aanvrager heeft ondernomen om de kosten voor de organisatie van het topsportevenement te dekken vanuit een eigen bijdrage of een bijdrage van derden;
 
-- c. de maatschappelijke waarde, met een beschrijving van de relatie met de Nationale Topsportevenementen Strategie 2021–2030 en de manier waarop het topsportevenement gebruikt wordt voor maatschappelijke of economische vraagstukken, en een toelichting op de onderdelen, bedoeld in [artikel 3, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=3&z=2024-06-19&g=2024-06-19); en
+- c. de maatschappelijke waarde, met een beschrijving van de relatie met de Nationale Topsportevenementen Strategie 2021–2030 en de manier waarop het topsportevenement gebruikt wordt voor maatschappelijke of economische vraagstukken, en een toelichting op de onderdelen, bedoeld in [artikel 3, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=3&z=2024-06-19&g=2025-07-01); en
 
 - d. hoe het evenement past in het strategisch kader topsport 2032 en in het topsportbeleid van de nationale sportbond.
 
