@@ -4,7 +4,7 @@ identifier: "BWBR0035238"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-04-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035238"
 soort: "ministeriele-regeling"
@@ -172,7 +172,7 @@ Een opleiding als bedoeld in [artikel 3.4, eerste lid, onderdeel b, van het besl
 
 3. Gecommitteerden kunnen het afnemen van examenonderdelen bijwonen en kennis nemen van het schriftelijk werk van de kandidaten.
 
-4. De leden van de examencommissie, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-04-01&g=2025-04-01), het bevoegd gezag van een opleiding en de deskundigen, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-04-01&g=2025-04-01), verschaffen de gecommitteerden de inlichtingen die zij voor hun taak nodig hebben.
+4. De leden van de examencommissie, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-07-01&g=2025-07-01), het bevoegd gezag van een opleiding en de deskundigen, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-07-01&g=2025-07-01), verschaffen de gecommitteerden de inlichtingen die zij voor hun taak nodig hebben.
 
 5. De gecommitteerden brengen aan de minister verslag uit van hun bevindingen. Een afschrift van het verslag wordt toegezonden aan het bevoegd gezag van de opleiding waarvan het examen is onderzocht.
 
@@ -218,9 +218,9 @@ Tot het examen, bedoeld in [artikel 3.4, eerste lid, onderdeel c, van het beslui
 
 1. De examencommissie deelt een kandidaat zo spoedig mogelijk, doch uiterlijk binnen vier weken nadat het laatste examenonderdeel is afgelegd, de uitslag van het examen, bedoeld in [artikel 3.4, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.4), mee.
 
-2. Een kandidaat is geslaagd indien de examenonderdelen, genoemd in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-04-01&g=2025-04-01), ten minste met een cijfer 6 zijn beoordeeld.
+2. Een kandidaat is geslaagd indien de examenonderdelen, genoemd in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-07-01&g=2025-07-01), ten minste met een cijfer 6 zijn beoordeeld.
 
-3. Een kandidaat heeft recht op een herexamen indien één van de examenonderdelen, genoemd in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-04-01&g=2025-04-01), met een cijfer 5 en het andere examenonderdeel met ten minste het cijfer 6 is beoordeeld.
+3. Een kandidaat heeft recht op een herexamen indien één van de examenonderdelen, genoemd in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-07-01&g=2025-07-01), met een cijfer 5 en het andere examenonderdeel met ten minste het cijfer 6 is beoordeeld.
 
 4. In alle andere gevallen is de kandidaat gezakt.
 
@@ -276,7 +276,7 @@ Een aanvraag tot toelating als bedoeld in [artikel 3.13 van het besluit](https:/
 
 ##### Artikel 3.2. Documenten bij de aanvraag
 
-1. Een aanvraag als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-04-01&g=2025-04-01) omvat:
+1. Een aanvraag als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-07-01&g=2025-07-01) omvat:
 
 - a. de gegevens, bedoeld in [artikel 4.7, eerste lid, onderdelen a tot en met i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.7);
 
@@ -288,7 +288,7 @@ Een aanvraag tot toelating als bedoeld in [artikel 3.13 van het besluit](https:/
 
 ##### Artikel 3.3. Nederlands gediplomeerden, werkzaam buiten Nederland
 
-1. Onverminderd de bescheiden, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-04-01&g=2025-04-01), verstrekt een persoon als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-04-01&g=2025-04-01) die werkzaam is of is geweest in een ander land dan Nederland en die voornemens is zijn beroep in Nederland uit te oefenen of te hervatten, bij zijn aanvraag een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van hem geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is op grond waarvan hij zijn rechten tot het beroepsmatig verrichten van diergeneeskundige handelingen in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend heeft verloren.
+1. Onverminderd de bescheiden, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-07-01&g=2025-07-01), verstrekt een persoon als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-07-01&g=2025-07-01) die werkzaam is of is geweest in een ander land dan Nederland en die voornemens is zijn beroep in Nederland uit te oefenen of te hervatten, bij zijn aanvraag een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van hem geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is op grond waarvan hij zijn rechten tot het beroepsmatig verrichten van diergeneeskundige handelingen in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend heeft verloren.
 
 2. Indien het document, bedoeld in het eerste lid, niet wordt afgegeven door de bevoegde autoriteiten, wordt dit vervangen door een attest afgegeven door een bevoegde gerechtelijke autoriteit, een andere bevoegde overheidsautoriteit, een notaris of een bevoegde beroepsvereniging in het betreffende land waaruit blijkt dat betrokkene tegenover die instantie of functionaris onder ede, dan wel plechtig heeft verklaard dat ten aanzien van hem geen maatregel van kracht is als bedoeld in het eerste lid.
 
@@ -308,11 +308,11 @@ Een aanvraag tot toelating als bedoeld in [artikel 3.13 van het besluit](https:/
 
 ##### Artikel 3.5. Documenten bij de aanvraag
 
-Bij de aanvraag, bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-04-01&g=2025-04-01), worden verstrekt:
+Bij de aanvraag, bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-07-01&g=2025-07-01), worden verstrekt:
 
 - a. de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a tot en met c en e van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13);
 
-- b. de gegevens, bedoeld in [artikel 3.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-04-01&g=2025-04-01), en,
+- b. de gegevens, bedoeld in [artikel 3.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-07-01&g=2025-07-01), en,
 
 - c. indien de aanvraag en de documenten, bedoeld in [artikel 13, eerste lid, onderdelen b, c en e, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13) in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.
 
@@ -348,9 +348,9 @@ Een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige
 
 ##### Artikel 3.9. Documenten bij de aanvraag
 
-1. Bij een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.1), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.4), en [3.6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.6) door een persoon als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01) worden de volgende gegevens en documenten verstrekt:
+1. Bij een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.1), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.4), en [3.6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.6) door een persoon als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-07-01&g=2025-07-01) worden de volgende gegevens en documenten verstrekt:
 
-- a. de gegevens, bedoeld in [artikel 3.2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-04-01&g=2025-04-01);
+- a. de gegevens, bedoeld in [artikel 3.2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-07-01&g=2025-07-01);
 
 - b. een kopie van het deel van het paspoort dat de persoonsgegevens bevat;
 
@@ -372,7 +372,7 @@ Een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige
 
 ##### Artikel 3.10. Proeve van bekwaamheid en aanpassingsstage
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01) zijn van overeenkomstige toepassing ten aanzien van de aanvragen door personen als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01).
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing ten aanzien van de aanvragen door personen als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-07-01&g=2025-07-01).
 
 #### § 4. Wijziging van de bij de toelating verstrekte gegevens
 
@@ -408,7 +408,7 @@ Een aanvraag tot registratie als bedoeld in [artikel 4.1 van het besluit](https:
 
 ##### Artikel 4.2. Documenten bij de aanvraag
 
-1. Een aanvraag als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2025-04-01&g=2025-04-01), omvat:
+1. Een aanvraag als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2025-07-01&g=2025-07-01), omvat:
 
 - a. de gegevens, bedoeld in [artikel 4.7, eerste lid, onderdelen a tot en met i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.7);
 
@@ -420,13 +420,13 @@ Een aanvraag tot registratie als bedoeld in [artikel 4.1 van het besluit](https:
 
 ##### Artikel 4.3. Voorlopige registratie
 
-1. In afwijking van [artikel 4.2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-04-01&g=2025-04-01), kan bij de aanvraag tot registratie als bedoeld in [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.1) een verklaring van het bevoegd gezag worden verstrekt dat betrokkene de opleiding met goed gevolg heeft afgelegd.
+1. In afwijking van [artikel 4.2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-07-01&g=2025-07-01), kan bij de aanvraag tot registratie als bedoeld in [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.1) een verklaring van het bevoegd gezag worden verstrekt dat betrokkene de opleiding met goed gevolg heeft afgelegd.
 
-2. De registratie wordt doorgehaald indien betrokkene niet binnen drie maanden na registratie alsnog het origineel getuigschrift of bewijsstukken daarvan als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-04-01&g=2025-04-01), dan wel een kopie daarvan als bedoeld in artikel 4.2, tweede lid, heeft verstrekt.
+2. De registratie wordt doorgehaald indien betrokkene niet binnen drie maanden na registratie alsnog het origineel getuigschrift of bewijsstukken daarvan als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-07-01&g=2025-07-01), dan wel een kopie daarvan als bedoeld in artikel 4.2, tweede lid, heeft verstrekt.
 
 ##### Artikel 4.4. Registratie Nederlands gediplomeerden, werkzaam in buitenland
 
-[Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-04-01&g=2025-04-01) is van overeenkomstige toepassing voor de dierenarts die zijn opleiding in Nederland heeft genoten en die werkzaam is of is geweest in een ander land dan Nederland en voornemens is zijn beroep in Nederland uit te oefenen of te hervatten.
+[Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing voor de dierenarts die zijn opleiding in Nederland heeft genoten en die werkzaam is of is geweest in een ander land dan Nederland en voornemens is zijn beroep in Nederland uit te oefenen of te hervatten.
 
 #### § 2. Automatische erkenning opleidingstitels en registratie migrerende beroepsbeoefenaars
 
@@ -436,7 +436,7 @@ De titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [arti
 
 ##### Artikel 4.6. Uitzondering benaming titel
 
-Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), niet voldoet aan de benaming, genoemd in bijlage V, onder 5.4.2, van [Richtlijn nr. 2005/36/EG](32005L0036), gaat de titel vergezeld van een verklaring, afgegeven door de bevoegde autoriteit in de desbetreffende betrokken staat waarin wordt bevestigd dat de titel:
+Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), niet voldoet aan de benaming, genoemd in bijlage V, onder 5.4.2, van [Richtlijn nr. 2005/36/EG](32005L0036), gaat de titel vergezeld van een verklaring, afgegeven door de bevoegde autoriteit in de desbetreffende betrokken staat waarin wordt bevestigd dat de titel:
 
 - a. is afgegeven ter afsluiting van een opleiding die in overeenstemming is met de voorschriften van artikel 38 van [Richtlijn nr. 2005/36/EG](32005L0036), en
 
@@ -444,13 +444,13 @@ Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld i
 
 ##### Artikel 4.7. Uitzondering opleiding begonnen voor referentiedatum
 
-1. Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), niet voldoet aan de eisen, bedoeld in artikel 38 van [Richtlijn nr. 2005/36/EG](32005L0036), en is afgegeven ter afsluiting van een opleiding die is begonnen voor de referentiedatum, genoemd in bijlage V, onder 5.4.2, van [Richtlijn nr. 2005/36/EG](32005L0036), gaat de titel vergezeld van een verklaring, afgegeven door de bevoegde autoriteit in de desbetreffende betrokken staat waarin wordt bevestigd dat de bezitter van de titel de werkzaamheden van dierenarts gedurende ten minste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
+1. Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), niet voldoet aan de eisen, bedoeld in artikel 38 van [Richtlijn nr. 2005/36/EG](32005L0036), en is afgegeven ter afsluiting van een opleiding die is begonnen voor de referentiedatum, genoemd in bijlage V, onder 5.4.2, van [Richtlijn nr. 2005/36/EG](32005L0036), gaat de titel vergezeld van een verklaring, afgegeven door de bevoegde autoriteit in de desbetreffende betrokken staat waarin wordt bevestigd dat de bezitter van de titel de werkzaamheden van dierenarts gedurende ten minste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
 2. Het eerste lid is van overeenkomstige toepassing op een titel na een opleiding op het gebied van de diergeneeskunde als bedoeld in het eerste lid die is afgegeven door de bevoegde autoriteit op het grondgebied van de voormalige Duitse Democratische Republiek ter afsluiting van een opleiding, welke is begonnen voor 3 oktober 1990.
 
 ##### Artikel 4.8. Uitzondering jonge lidstaten
 
-1. Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), is afgegeven:
+1. Indien de titel na een opleiding op het gebied van de diergeneeskunde, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), is afgegeven:
 
 - a. door de bevoegde autoriteit van het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding voor 1 januari 1993 is begonnen, voor zover het de Tsjechische Republiek of Slowakije betreft;
 
@@ -476,17 +476,17 @@ wordt voldaan aan het tweede en derde lid.
 
 ##### Artikel 4.9. Aanvraag registratie
 
-Een aanvraag tot registratie door dierenartsen wier opleiding voldoet aan [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), dan wel ten aanzien van wie een uitzondering als bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-04-01&g=2025-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-04-01&g=2025-04-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-04-01&g=2025-04-01) van toepassing is, wordt ingediend via een daartoe beschikbaar gesteld middel.
+Een aanvraag tot registratie door dierenartsen wier opleiding voldoet aan [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), dan wel ten aanzien van wie een uitzondering als bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-07-01&g=2025-07-01) van toepassing is, wordt ingediend via een daartoe beschikbaar gesteld middel.
 
 ##### Artikel 4.10. Documenten bij de aanvraag
 
-1. Een aanvraag als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2025-04-01&g=2025-04-01), omvat:
+1. Een aanvraag als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2025-07-01&g=2025-07-01), omvat:
 
 - a. de gegevens, bedoeld in [artikel 4.7, eerste lid, onderdelen a tot en met i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.7);
 
 - b. gegevens betreffende de beroepsuitoefening, en
 
-- c. de door een betrokken staat verleende titel na een opleiding op het gebied van de diergeneeskunde die voldoet aan de eisen in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), dan wel de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-04-01&g=2025-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-04-01&g=2025-04-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-04-01&g=2025-04-01);
+- c. de door een betrokken staat verleende titel na een opleiding op het gebied van de diergeneeskunde die voldoet aan de eisen in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), dan wel de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-07-01&g=2025-07-01);
 
 - d. een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van degene die de registratie aanvraagt geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan hij zijn rechten tot de uitoefening van de diergeneeskunde in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend heeft verloren.
 
@@ -502,41 +502,41 @@ Een aanvraag tot registratie door dierenartsen wier opleiding voldoet aan [artik
 
 ##### Artikel 4.11. Aanvraag erkenning van beroepskwalificaties
 
-1. Migrerende beroepsbeoefenaars die beschikken over een door betrokken staat verleende titel na een opleiding op het gebied van de diergeneeskunde die niet voldoet aan de eisen, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-04-01&g=2025-04-01), en ten aanzien van wie evenmin een uitzondering als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-04-01&g=2025-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-04-01&g=2025-04-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-04-01&g=2025-04-01) van toepassing is of over een opleidingstitel, onder 2˚, als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), worden niet geregistreerd dan nadat door de minister erkenning van beroepskwalificaties is verleend tot het beroepsmatig verrichten van diergeneeskundige handelingen.
+1. Migrerende beroepsbeoefenaars die beschikken over een door betrokken staat verleende titel na een opleiding op het gebied van de diergeneeskunde die niet voldoet aan de eisen, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), en ten aanzien van wie evenmin een uitzondering als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-07-01&g=2025-07-01) van toepassing is of over een opleidingstitel, onder 2˚, als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), worden niet geregistreerd dan nadat door de minister erkenning van beroepskwalificaties is verleend tot het beroepsmatig verrichten van diergeneeskundige handelingen.
 
-2. Met betrekking tot een aanvraag tot erkenning van beroepskwalificaties door een persoon , als bedoeld in het eerste lid, zijn de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-04-01&g=2025-04-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-04-01&g=2025-04-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01) van overeenkomstige toepassing.
+2. Met betrekking tot een aanvraag tot erkenning van beroepskwalificaties door een persoon , als bedoeld in het eerste lid, zijn de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-07-01&g=2025-07-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-07-01&g=2025-07-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
 #### § 4. Toelating en registratie dierenartsen die geen beroep op de [Richtlijn 2005/36/EG](32005L0036) kunnen doen
 
 ##### Artikel 4.12. Aanvraag toelating
 
-1. Op een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen in de volle omvang door personen die geen beroep op de [Richtlijn 2005/36/EG](32005L0036) kunnen doen zijn de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.9&z=2025-04-01&g=2025-04-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-04-01&g=2025-04-01) van overeenkomstige toepassing.
+1. Op een aanvraag tot toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen in de volle omvang door personen die geen beroep op de [Richtlijn 2005/36/EG](32005L0036) kunnen doen zijn de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-07-01&g=2025-07-01), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.9&z=2025-07-01&g=2025-07-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-2. Het in [artikel 3.9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.9&z=2025-04-01&g=2025-04-01), bedoelde getuigschrift is verstrekt ter afsluiting van een opleiding als dierenarts die naar het oordeel van de minister in ieder geval voldoet aan de in artikel 38 van [Richtlijn 2005/36/EG](32005L0036) gestelde eisen.
+2. Het in [artikel 3.9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.9&z=2025-07-01&g=2025-07-01), bedoelde getuigschrift is verstrekt ter afsluiting van een opleiding als dierenarts die naar het oordeel van de minister in ieder geval voldoet aan de in artikel 38 van [Richtlijn 2005/36/EG](32005L0036) gestelde eisen.
 
-#### § 5. Advies
+#### § 3. Erkenning opleidingstitels en registratie migrerende beroepsbeoefenaars
 
 ##### Artikel 4.13. Advisering toelating
 
-De Minister vraagt voordat hij een besluit neemt op een aanvraag als bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2025-04-01&g=2025-04-01) of [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2025-04-01&g=2025-04-01), aan de commissie advies. De commissie betrekt bij haar advies de noodzaak van het afleggen van een proeve van bekwaamheid respectievelijk van een aanpassingsstage als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-04-01&g=2025-04-01).
+De Minister vraagt voordat hij een besluit neemt op een aanvraag als bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2025-07-01&g=2025-07-01) of [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2025-07-01&g=2025-07-01), aan de commissie advies. De commissie betrekt bij haar advies de noodzaak van het afleggen van een proeve van bekwaamheid respectievelijk van een aanpassingsstage als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-07-01&g=2025-07-01).
 
-#### § 6. Tijdelijke en incidentele dienstverrichting
+#### § 4. Toelating en registratie dierenartsen die geen beroep op de [Richtlijn 2005/36/EG](32005L0036) kunnen doen
 
 ##### Artikel 4.14
 
-[Artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=5&artikel=3.12&z=2025-04-01&g=2025-04-01) is van overeenkomstige toepassing voor een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) voor wat betreft de uitoefening van de diergeneeskunde in haar volle omvang.
+[Artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=5&artikel=3.12&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing voor een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) voor wat betreft de uitoefening van de diergeneeskunde in haar volle omvang.
 
-#### § 7. Wijziging registratie
+#### § 5. Advies
 
 ##### Artikel 4.15. Wijziging van bij de registratie verstrekte gegevens
 
-[Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=4&artikel=3.11&z=2025-04-01&g=2025-04-01) is van overeenkomstige toepassing voor het doorgeven van wijziging in gegevens als bedoeld in dit hoofdstuk.
+[Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=4&artikel=3.11&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing voor het doorgeven van wijziging in gegevens als bedoeld in dit hoofdstuk.
 
-#### § 8. Elektronische handtekening
+#### § 6. Tijdelijke en incidentele dienstverrichting
 
 ##### Artikel 4.16. Elektronische handtekening
 
-[Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=6&artikel=3.13&z=2025-04-01&g=2025-04-01) is van overeenkomstige toepassing voor aanvragen als bedoeld in dit hoofdstuk.
+[Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=6&artikel=3.13&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing voor aanvragen als bedoeld in dit hoofdstuk.
 
 ### Hoofdstuk 5. Diergeneesmiddelen
 
@@ -598,17 +598,17 @@ Vervallen
 
 ##### Artikel 6.3. Vergoedingen bijzondere omstandigheden
 
-1. Indien een bij het veterinair tuchtcollege of het veterinair beroepscollege aanhangig gemaakte zaak vijf werkdagen of minder voorafgaand aan de zitting wordt ingetrokken, wordt aan de personen bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-04-01&g=2025-04-01), een vergoeding toegekend van € 50.
+1. Indien een bij het veterinair tuchtcollege of het veterinair beroepscollege aanhangig gemaakte zaak vijf werkdagen of minder voorafgaand aan de zitting wordt ingetrokken, wordt aan de personen bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-07-01&g=2025-07-01), een vergoeding toegekend van € 50.
 
-2. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-04-01&g=2025-04-01), tegen wie vijf werkdagen of minder voorafgaand aan de zitting een wrakingsverzoek wordt ingediend, wordt een vergoeding toegekend van € 50 indien het wrakingsverzoek is toegewezen.
+2. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-07-01&g=2025-07-01), tegen wie vijf werkdagen of minder voorafgaand aan de zitting een wrakingsverzoek wordt ingediend, wordt een vergoeding toegekend van € 50 indien het wrakingsverzoek is toegewezen.
 
-3. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-04-01&g=2025-04-01), tegen wie op of na de zitting een wrakingsverzoek wordt ingediend, wordt een vergoeding toegekend van € 80 indien het wrakingsverzoek wordt toegewezen.
+3. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-07-01&g=2025-07-01), tegen wie op of na de zitting een wrakingsverzoek wordt ingediend, wordt een vergoeding toegekend van € 80 indien het wrakingsverzoek wordt toegewezen.
 
-4. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-04-01&g=2025-04-01), die tijdens de behandeling van een zaak een verschoningsverzoek hebben gedaan en in die zaak worden vervangen, wordt een vergoeding toegekend van € 50.
+4. Aan personen als bedoeld in de [artikelen 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-07-01&g=2025-07-01), die tijdens de behandeling van een zaak een verschoningsverzoek hebben gedaan en in die zaak worden vervangen, wordt een vergoeding toegekend van € 50.
 
 ##### Artikel 6.4. Declaratietermijn
 
-Degene die op grond van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-04-01&g=2025-04-01), en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.3&z=2025-04-01&g=2025-04-01) in aanmerking komt voor een vergoeding dient daarvoor binnen drie maanden na de datum van de eindbeslissing, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=1&artikel=1.1&z=2025-04-01&g=2025-04-01), een declaratie in bij de minister.
+Degene die op grond van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.2&z=2025-07-01&g=2025-07-01), en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=6&artikel=6.3&z=2025-07-01&g=2025-07-01) in aanmerking komt voor een vergoeding dient daarvoor binnen drie maanden na de datum van de eindbeslissing, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=1&artikel=1.1&z=2025-07-01&g=2025-07-01), een declaratie in bij de minister.
 
 ##### Artikel 6.5. Vergoeding reis- en verblijfkosten
 
@@ -622,29 +622,17 @@ Wijzigt de Regeling diergeneesmiddelen.
 
 ##### Artikel 7.2. Vrijstelling handmatig identificeren varkens met een merk
 
-1. Van het verbod, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-04-01&g=2025-04-01), van de wet en in afwijking van [artikel 5b.30, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5b.30) wordt tot 1 januari 2024 vrijstelling verleend voor het handmatig identificeren van slachtvarkens met een merk, voor zover het slachtvarkens betreft met een gewicht van ten minste 50 kg en de slachtvarkens rechtstreeks van een bedrijf, niet zijnde een verzamelcentrum, naar een slachthuis in Duitsland worden afgevoerd.
-
-2. Het handmatig identificeren, bedoeld in het eerste lid, voldoet aan de volgende eisen:
-
-- a. het merk wordt op een van de schouders van het slachtvarken aangebracht in de kleuren zwart of groen op een zodanige wijze dat de tekens goed leesbaar blijven;
-
-- b. het merk wordt aangebracht door middel van een instrument, bestaande uit een steel met daaraan gekoppeld een plaat waarop maximaal twee rijen van vijf posities voor tekens opgenomen kunnen worden om het dier te identificeren, waarbij de afmeting van een teken maximaal 30 mm hoog is en 15 mm breed en de pinlengte voor de tekens maximaal 12 mm lang is;
-
-- c. het merk bestaat uit het UBN van het bedrijf waarvan het varken voor de slacht wordt afgevoerd, en
-
-- d. de ruimte die het merk openlaat mag gebruikt worden voor alfanumerieke tekens, met uitzondering van de tekens o en l.
-
-3. Het merk wordt door middel van een slag op het varken aangebracht op een wijze dat het welzijn van het varken niet meer wordt geschaad dan redelijkerwijs noodzakelijk is voor het leesbaar aanbrengen van het merk.
+Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 8.1. Overgangsbepaling biobeveiligingsmaatregelen pluimvee
 
-1. [Artikel 5.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.15&z=2025-04-01&g=2025-04-01), is van toepassing met ingang van 1 januari 2026 of, indien dit eerder is, vanaf de datum dat het bedrijfsgezondheidsplan een bioveiligheidsplan bevat.
+1. [Artikel 5.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.15&z=2025-07-01&g=2025-07-01), is van toepassing met ingang van 1 januari 2026 of, indien dit eerder is, vanaf de datum dat het bedrijfsgezondheidsplan een bioveiligheidsplan bevat.
 
-2. [Artikel 5.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.15&z=2025-04-01&g=2025-04-01), is van toepassing met ingang van 1 januari 2026.
+2. [Artikel 5.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.15&z=2025-07-01&g=2025-07-01), is van toepassing met ingang van 1 januari 2026.
 
-3. Dit artikel vervalt met ingang van 1 januari 2026, onder vernummering van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=8&artikel=8.2&z=2025-04-01&g=2025-04-01) en [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=8&artikel=8.3&z=2025-04-01&g=2025-04-01) tot artikel 8.1 en artikel 8.2.
+3. Dit artikel vervalt met ingang van 1 januari 2026, onder vernummering van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=8&artikel=8.2&z=2025-07-01&g=2025-07-01) en [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=8&artikel=8.3&z=2025-07-01&g=2025-07-01) tot artikel 8.1 en artikel 8.2.
 
 ##### Artikel 8.2. Inwerkingtreding
 
@@ -728,9 +716,9 @@ De cursist heeft kennis van:
 
 De dierenfysiotherapeut richt zich in het bijzonder op honden, katten en paarden en in meer algemene zin op de gehouden diersoorten. De dierfysiotherapie is met name gericht op het bewegingsapparaat. De kennis en vaardigheden van de dierenfysiotherapeut hebben betrekking op:
 
-De dierenfysiotherapeut maakt een keuze uit één of meer behandelmethoden zoals massagetherapie, bewegingstherapie, en fysische therapie in engere zin. Hij richt zich op de bestrijding van pijn, op het optimaliseren van spiertonus en van de houdings- en bewegingscoördinatie waaronder beïnvloeding van de mobiliteit en op training van het algemeen en locaal uithoudingsvermogen. Verder richt de dierfysiotherapie zich op de perifere circulatie alsmede de functie van de huid. De diergeneeskundige handelingen die door een toegelaten en geregistreerde dierenfysiotherapeut mogen worden verricht, zijn genoemd in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091).
+De dierenfysiotherapeut richt zich in het bijzonder op honden, katten en paarden en in meer algemene zin op de gehouden diersoorten. De dierfysiotherapie is met name gericht op het bewegingsapparaat. De kennis en vaardigheden van de dierenfysiotherapeut hebben betrekking op:
 
-De cursist heeft kennis van:
+De dierenfysiotherapeut maakt een keuze uit één of meer behandelmethoden zoals massagetherapie, bewegingstherapie, en fysische therapie in engere zin. Hij richt zich op de bestrijding van pijn, op het optimaliseren van spiertonus en van de houdings- en bewegingscoördinatie waaronder beïnvloeding van de mobiliteit en op training van het algemeen en locaal uithoudingsvermogen. Verder richt de dierfysiotherapie zich op de perifere circulatie alsmede de functie van de huid. De diergeneeskundige handelingen die door een toegelaten en geregistreerde dierenfysiotherapeut mogen worden verricht, zijn genoemd in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091).
 
 De cursist heeft kennis van:
 
@@ -738,7 +726,7 @@ De cursist heeft kennis van:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 3. Melding en gebruik aangewezen diergeneesmiddelen
+#### § 1. Administratie diergeneesmiddelen
 
 ##### Artikel 5.9. Begripsbepalingen
 
@@ -838,7 +826,7 @@ Een dierenarts stelt het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, be
 
 1. Indien het bedrijfsgezondheidsplan wordt opgesteld voor een houder van pluimvee, bevat het plan tevens het uniek subregistratienummer, bedoeld in [artikel 5a.1, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5a.1).
 
-2. Indien het bedrijfsgezondheidsplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat de analyse, bedoeld in [artikel 5.14, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.14&z=2025-04-01&g=2025-04-01), ten minste de volgende onderdelen:
+2. Indien het bedrijfsgezondheidsplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat de analyse, bedoeld in [artikel 5.14, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.14&z=2025-07-01&g=2025-07-01), ten minste de volgende onderdelen:
 
 - a. reiniging en ontsmetting;
 
@@ -884,7 +872,7 @@ Een dierenarts stelt het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, be
 
 ##### Artikel 5.16. Aanvullende eisen bedrijfsgezondheidsplan kalveren
 
-Indien het bedrijfsgezondheidsplan wordt opgesteld voor een houder van kalveren, omvat de analyse, bedoeld in [artikel 5.14, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.14&z=2025-04-01&g=2025-04-01), ten minste de volgende onderdelen:
+Indien het bedrijfsgezondheidsplan wordt opgesteld voor een houder van kalveren, omvat de analyse, bedoeld in [artikel 5.14, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.14&z=2025-07-01&g=2025-07-01), ten minste de volgende onderdelen:
 
 - a. verteringsproblemen;
 
@@ -910,13 +898,13 @@ Het bedrijfsbehandelplan bevat:
 
 1. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kippen of kalkoenen, bevat het plan ook het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid, van de Regeling houders van dieren](onbekend), dat aan de inrichting is toegekend voor het doel waarvoor het koppel wordt gehouden.
 
-2. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-04-01&g=2025-04-01), ten minste de volgende onderdelen:
+2. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-07-01&g=2025-07-01), ten minste de volgende onderdelen:
 
 - a. vaccinatieschema’s;
 
 - b. afspraken over het beoordelen van de effectiviteit van een behandeling.
 
-3. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-04-01&g=2025-04-01), per behandeling van een ziekte of aandoening ten minste de volgende onderdelen:
+3. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kippen of kalkoenen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-07-01&g=2025-07-01), per behandeling van een ziekte of aandoening ten minste de volgende onderdelen:
 
 - a. naam en registratienummer van het diergeneesmiddel;
 
@@ -926,7 +914,7 @@ Het bedrijfsbehandelplan bevat:
 
 ##### Artikel 5.19. Aanvullende eisen bedrijfsbehandelplan runderen
 
-Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van runderen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-04-01&g=2025-04-01), per behandeling van een ziekte of aandoening ten minste de volgende onderdelen:
+Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van runderen, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-07-01&g=2025-07-01), per behandeling van een ziekte of aandoening ten minste de volgende onderdelen:
 
 - a. naam en registratienummer van het diergeneesmiddel;
 
@@ -942,7 +930,7 @@ Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van runderen, om
 
 ##### Artikel 5.20. Aanvullende eisen bedrijfsbehandelplan kalveren
 
-Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kalveren, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-04-01&g=2025-04-01), een behandeling met maximaal vier in voorkeursvolgorde weergegeven werkzame stoffen van ten minste de volgende ziektes of aandoeningen:
+Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kalveren, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-07-01&g=2025-07-01), een behandeling met maximaal vier in voorkeursvolgorde weergegeven werkzame stoffen van ten minste de volgende ziektes of aandoeningen:
 
 - a. diarree;
 
@@ -958,7 +946,7 @@ Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van kalveren, om
 
 ##### Artikel 5.21. Aanvullende eisen bedrijfsbehandelplan varkens
 
-1. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van varkens, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-04-01&g=2025-04-01), ten minste de volgende onderdelen:
+1. Indien het bedrijfsbehandelplan wordt opgesteld voor een houder van varkens, omvat het overzicht, bedoeld in [artikel 5.17, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=5&paragraaf=3&sub-paragraaf=3.2&artikel=5.17&z=2025-07-01&g=2025-07-01), ten minste de volgende onderdelen:
 
 - a. per behandeling van een ziekte of aandoening:
 
@@ -1012,11 +1000,7 @@ De dierenfysiotherapeut richt zich in het bijzonder op honden, katten en paarden
 
 ### 2. Leerdoelen
 
-### E. Zoötechniek
-
-De cursist kan:
-
-Het bezit van een getuigschrift als bedoeld in [artikel 28 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=28).
+### A. Functionele Morfologie
 
 De cursist heeft kennis van:
 
@@ -1024,27 +1008,31 @@ De cursist kan:
 
 De cursist heeft kennis van:
 
-De opleiding bestaat uit theoretisch onderwijs, dat een tijdsperiode van maximaal twee jaar beslaat, en een stageperiode.
+De cursist heeft kennis van:
 
 De cursist heeft kennis van:
 
-Het onderwijs beslaat een tijdsperiode van maximaal twee jaar. Voordat de cursist wordt toegelaten tot het examen van de opleiding fysiotherapie bij dieren, voldoet deze aan de eisen gesteld in het leerplan van deze opleiding. In het theoretisch onderwijs worden de volgende programmaonderdelen gedoceerd en getoetst:
+De cursist heeft kennis van:
 
 De cursist heeft kennis van:
 
-Het theoretisch onderwijs en de stageperiode zijn erop gericht dat de cursist voldoet aan de door de minister vastgestelde eisen die zijn verwoord in de leerdoelen, bedoeld in hoofdstuk 2 van dit leerplan.
+De cursist heeft kennis van:
+
+De cursist heeft kennis van:
+
+De cursist heeft kennis van:
+
+De cursist heeft kennis van:
 
 De cursist heeft kennis van:
 
 De cursist kan:
-
-Tijdens de stageperiode, welke geen vast omschreven tijdsperiode omvat, dient de stagiaire ten minste 36 behandelingen te hebben bijgewoond of uitgevoerd. Daarbij wordt ernaar gestreefd dat de werkdiagnose door de betreffende cursist wordt gesteld. Deze handelingen dienen zo veel mogelijk gelijkwaardig verdeeld te worden over de onderdelen hond en paard. Van ten minste twee casus wordt een verslag gemaakt, waaronder minimaal één casus binnen het onderdeel hond en één casus binnen het onderdeel paard.
 
 De stagiaire kan voor de casus hond van een ander stageadres gebruik maken dan voor de casus paard, doch slechts met voorafgaande toestemming van de opleiding kan van meer dan twee stageadressen gebruik gemaakt worden.
 
 Het bezit van een getuigschrift als bedoeld in [artikel 28 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=28).
 
-De onderwijsinstelling is verantwoordelijk voor het toewijzen van stage adressen.
+Het bezit van een getuigschrift als bedoeld in [artikel 28 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=28).
 
 De opleiding bestaat uit theoretisch onderwijs, dat een tijdsperiode van maximaal twee jaar beslaat, en een stageperiode.
 
@@ -1088,7 +1076,7 @@ Het certificaat, bedoeld in [artikel 1, derde lid, van de Regeling certificaten 
 
 ### Hoofdstuk 5. Diergeneesmiddelen
 
-#### § 1. Administratie diergeneesmiddelen
+#### § 8. Elektronische handtekening
 
 #### § 1. Administratie diergeneesmiddelen
 
@@ -1102,7 +1090,7 @@ Het certificaat, bedoeld in [artikel 1, derde lid, van de Regeling certificaten 
 
 ### Hoofdstuk 7. Overige bepalingen
 
-### Hoofdstuk 8. Slotbepalingen
+### Hoofdstuk 6. Vergoedingen leden veterinaire tuchtcolleges
 
 ## Bijlage. behorende bij de [artikelen 2.2 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2018-07-07&g=2018-09-01) van de Regeling diergeneeskundigen
 
@@ -1116,13 +1104,13 @@ Het certificaat, bedoeld in [artikel 1, derde lid, van de Regeling certificaten 
 
 ### C. Ziektekunde van orgaansystemen
 
-### 1. Beroepsomschrijving
+### Leerplan dierfysiotherapie
 
-### A. Functionele Morfologie
+### 2. Leerdoelen
 
 ### 3. Opleidingsprogramma
 
-Het theoretisch onderwijs en de stageperiode zijn erop gericht dat de cursist voldoet aan de door de minister vastgestelde eisen die zijn verwoord in de leerdoelen, bedoeld in hoofdstuk 2 van dit leerplan.
+De opleiding bestaat uit theoretisch onderwijs, dat een tijdsperiode van maximaal twee jaar beslaat, en een stageperiode.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1154,11 +1142,11 @@ De dierenfysiotherapeut richt zich in het bijzonder op honden, katten en paarden
 
 ### 2. Leerdoelen
 
-### C. Ziektekunde van orgaansystemen
+### 1. Beroepsomschrijving
 
 ### B. Fysiologie
 
-Het onderwijs beslaat een tijdsperiode van maximaal twee jaar. Voordat de cursist wordt toegelaten tot het examen van de opleiding fysiotherapie bij dieren, voldoet deze aan de eisen gesteld in het leerplan van deze opleiding. In het theoretisch onderwijs worden de volgende programmaonderdelen gedoceerd en getoetst:
+Het theoretisch onderwijs en de stageperiode zijn erop gericht dat de cursist voldoet aan de door de minister vastgestelde eisen die zijn verwoord in de leerdoelen, bedoeld in hoofdstuk 2 van dit leerplan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1180,15 +1168,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage. behorende bij de [artikelen 2.2 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2020-01-01&g=2020-01-01) van de Regeling diergeneeskundigen
 
-### A. Toelatingsvoorwaarden
+### B. Fysiologie
 
-De stage is een onderdeel van de opleiding tot dierenfysiotherapeut. De stage heeft tot doel de cursisten in de gelegenheid te stellen hun kennis, inzicht en vaardigheden op het gebied van de dierfysiotherapie onder begeleiding te oefenen en te hanteren, zodat zij aan het einde van de opleiding tot dierenfysiotherapeut zelfstandig beroepsmatig kunnen functioneren.
+Het onderwijs beslaat een tijdsperiode van maximaal twee jaar. Voordat de cursist wordt toegelaten tot het examen van de opleiding fysiotherapie bij dieren, voldoet deze aan de eisen gesteld in het leerplan van deze opleiding. In het theoretisch onderwijs worden de volgende programmaonderdelen gedoceerd en getoetst:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7.5. Vrijstelling elektronische identificatie runderen
 
-Van het verbod, bedoeld in [artikel 2.8, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) en [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) wordt, voor zover aan het eerste lid van laatstbedoeld artikel wordt voldaan, vrijstelling verleend voor het verrichten van ten hoogste twee lichamelijke ingrepen bedoeld in [artikel 2.6, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.6) wanneer onder toepassing van artikel 38 van verordening (EU) nr. 2019/2035 de conventionele oormerken worden vervangen door een nieuw conventioneel oormerk en een elektronisch merk, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen.
+Van het verbod, bedoeld in [artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) en [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) wordt, voor zover aan het eerste lid van laatstbedoeld artikel wordt voldaan, vrijstelling verleend voor het verrichten van ten hoogste twee lichamelijke ingrepen bedoeld in [artikel 2.6, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.6) wanneer onder toepassing van artikel 38 van verordening (EU) nr. 2019/2035 de conventionele oormerken worden vervangen door een nieuw conventioneel oormerk en een elektronisch merk, naast de bij of krachtens enig ander wettelijk voorschrift voorgeschreven of toegestane identificatie-ingrepen.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -1196,13 +1184,13 @@ Van het verbod, bedoeld in [artikel 2.8, eerste lid, aanhef en onder a, van de w
 
 ### C. Ziektekunde van orgaansystemen
 
-Tijdens de stageperiode, welke geen vast omschreven tijdsperiode omvat, dient de stagiaire ten minste 36 behandelingen te hebben bijgewoond of uitgevoerd. Daarbij wordt ernaar gestreefd dat de werkdiagnose door de betreffende cursist wordt gesteld. Deze handelingen dienen zo veel mogelijk gelijkwaardig verdeeld te worden over de onderdelen hond en paard. Van ten minste twee casus wordt een verslag gemaakt, waaronder minimaal één casus binnen het onderdeel hond en één casus binnen het onderdeel paard.
+De stage is een onderdeel van de opleiding tot dierenfysiotherapeut. De stage heeft tot doel de cursisten in de gelegenheid te stellen hun kennis, inzicht en vaardigheden op het gebied van de dierfysiotherapie onder begeleiding te oefenen en te hanteren, zodat zij aan het einde van de opleiding tot dierenfysiotherapeut zelfstandig beroepsmatig kunnen functioneren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7.6. Vrijstelling behandeling achterste teen hanen
 
-Van het verbod, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) wordt voor zover wordt voldaan aan [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7), tot 1 juli 2025 vrijstelling verleend voor het verwijderen van een deel van de achterste teen bij mannelijke kippen, mits:
+Van het verbod, bedoeld in [artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) wordt voor zover wordt voldaan aan [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7), tot 1 juli 2028 vrijstelling verleend voor het verwijderen van een deel van de achterste teen bij mannelijke kippen, mits:
 
 - a. het dier niet ouder is dan twee dagen, en
 
@@ -1212,9 +1200,9 @@ Van het verbod, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van de wet](ht
 
 ## Bijlage. behorende bij de [artikelen 2.2 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2021-09-01&g=2021-09-01) van de Regeling diergeneeskundigen
 
-### 3. Opleidingsprogramma
+### C. Ziektekunde van orgaansystemen
 
-De stagiaire kan voor de casus hond van een ander stageadres gebruik maken dan voor de casus paard, doch slechts met voorafgaande toestemming van de opleiding kan van meer dan twee stageadressen gebruik gemaakt worden.
+Tijdens de stageperiode, welke geen vast omschreven tijdsperiode omvat, dient de stagiaire ten minste 36 behandelingen te hebben bijgewoond of uitgevoerd. Daarbij wordt ernaar gestreefd dat de werkdiagnose door de betreffende cursist wordt gesteld. Deze handelingen dienen zo veel mogelijk gelijkwaardig verdeeld te worden over de onderdelen hond en paard. Van ten minste twee casus wordt een verslag gemaakt, waaronder minimaal één casus binnen het onderdeel hond en één casus binnen het onderdeel paard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1266,17 +1254,17 @@ Voordat een injecteerbare transponder bij een hond wordt aangebracht, identifice
 
 ### E. Zoötechniek
 
+De stagiaire kan voor de casus hond van een ander stageadres gebruik maken dan voor de casus paard, doch slechts met voorafgaande toestemming van de opleiding kan van meer dan twee stageadressen gebruik gemaakt worden.
+
 De onderwijsinstelling is verantwoordelijk voor de organisatie van de stage.
 
 De onderwijsinstelling is verantwoordelijk voor het toewijzen van stage adressen.
-
-In samenspraak met de stagebegeleider en de onderwijsinstelling kan de stagiaire een ander stageadres toegewezen worden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.10a. Advisering erkenning en toelating
 
-De Minister vraagt voordat hij een besluit neemt op een aanvraag als bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-04-01&g=2025-04-01) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01), aan de commissie advies. De commissie betrekt bij haar advies de noodzaak van het afleggen van een proeve van bekwaamheid respectievelijk van een aanpassingsstage als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-04-01&g=2025-04-01).
+De Minister vraagt voordat hij een besluit neemt op een aanvraag als bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-07-01&g=2025-07-01) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-07-01&g=2025-07-01), aan de commissie advies. De commissie betrekt bij haar advies de noodzaak van het afleggen van een proeve van bekwaamheid respectievelijk van een aanpassingsstage als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 4. Toelating, registratie en dienstverlening dierenartsen
 
@@ -1294,17 +1282,17 @@ De Minister vraagt voordat hij een besluit neemt op een aanvraag als bedoeld in 
 
 - a. de aanvraag tot:
 
-- 1°. erkenning van beroepskwalificaties als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-04-01&g=2025-04-01);
+- 1°. erkenning van beroepskwalificaties als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-07-01&g=2025-07-01);
 
-- 2°. toelating als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-04-01&g=2025-04-01);
+- 2°. toelating als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2025-07-01&g=2025-07-01);
 
-- 3°. erkenning van beroepskwalificaties als bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2025-04-01&g=2025-04-01);
+- 3°. erkenning van beroepskwalificaties als bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2025-07-01&g=2025-07-01);
 
-- 4°. toelating als bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2025-04-01&g=2025-04-01);
+- 4°. toelating als bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&paragraaf=4&artikel=4.12&z=2025-07-01&g=2025-07-01);
 
-- b. of voor de erkenning of toelating, bedoeld in onderdeel a, al dan niet een compenserende maatregel als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01) noodzakelijk is; en
+- b. of voor de erkenning of toelating, bedoeld in onderdeel a, al dan niet een compenserende maatregel als bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01) noodzakelijk is; en
 
-- c. in geval het advies, bedoeld in onderdeel b, bevestigend is, de aard en inhoud van de compenserende maatregel, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-04-01&g=2025-04-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-04-01&g=2025-04-01).
+- c. in geval het advies, bedoeld in onderdeel b, bevestigend is, de aard en inhoud van de compenserende maatregel, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-07-01&g=2025-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&paragraaf=2&artikel=3.7&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 4.18a. Samenstelling, benoeming en ontslag
 
@@ -1340,11 +1328,11 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 4.20a. Werkwijze
 
-1. De commissie stelt haar eigen werkwijze vast met inachtneming van het bepaalde in de Algemene wet erkenning EU-beroepskwalificaties en in de [hoofstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&z=2025-04-01&g=2025-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&z=2025-04-01&g=2025-04-01) van deze regeling.
+1. De commissie stelt haar eigen werkwijze vast met inachtneming van het bepaalde in de Algemene wet erkenning EU-beroepskwalificaties en in de [hoofstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=3&z=2025-07-01&g=2025-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4&z=2025-07-01&g=2025-07-01) van deze regeling.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 4.18A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4a&artikel=4.18a&z=2025-04-01&g=2025-04-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 4.18A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=4a&artikel=4.18a&z=2025-07-01&g=2025-07-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 4.21a. Vergoeding
 
@@ -1370,9 +1358,11 @@ Op de werkzaamheden van de voorzitter en de leden is het [Besluit vergoedingen a
 
 ### 3. Opleidingsprogramma
 
-### A. Toelatingsvoorwaarden
+### 3. Opleidingsprogramma
 
 ### B. Opleidingsprogramma:
+
+In samenspraak met de stagebegeleider en de onderwijsinstelling kan de stagiaire een ander stageadres toegewezen worden.
 
 De stagiair dient zich te houden aan de interne regels van de stage-instelling.
 
@@ -1387,6 +1377,46 @@ Stagiair: een cursist van de onderwijsinstelling die, in de dierfysiotherapie bi
 Stagebegeleider: beroepskracht die werkzaam is in en toegelaten is tot het verrichten van dierfysiotherapie en zich bezig houdt met de praktische en patiëntgerichte begeleiding van de stagiaire. De taken van een stagebegeleider zijn in ieder geval:
 
 Onderwijsinstelling: de organisatie welke een opleiding tot dierenfysiotherapeut verzorgt en via een door haar aangewezen vertegenwoordiger contact houdt met de stagiair en de stagebegeleider.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 7. Vrijstelling kwalificatie dierenartsassistent paraveterinair
+
+### Hoofdstuk 4. Toelating, registratie en dienstverlening dierenartsen
+
+#### § 1. Registratie Nederlands gediplomeerden
+
+#### § 2. Automatische erkenning opleidingstitels en registratie migrerende beroepsbeoefenaars
+
+#### § 7. Wijziging registratie
+
+### Hoofdstuk 4a. Commissie beoordeling buitenslands gediplomeerde diergeneeskundigen
+
+### Hoofdstuk 5. Diergeneesmiddelen en diergezondheid
+
+#### § 2. Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
+
+#### § 3. Melding aangewezen diergeneesmiddelen, bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+#### § 3.1. Melding aangewezen diergeneesmiddelen in register
+
+#### § 3.2. Bedrijfsgezondheidsplan, bedrijfsbehandelplan en bioveiligheid
+
+### Hoofdstuk 7. Overige bepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij de [artikelen 2.2 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2025-07-01&g=2025-07-01) van de Regeling diergeneeskundigen
+
+### D. Farmacologie
+
+### E. Zoötechniek
+
+### F. Fysiotherapie
+
+### A. Toelatingsvoorwaarden
+
+### B. Opleidingsprogramma:
 
 De stagiair kan op een juiste wijze het contact met de patiënt leggen, waardoor de patiënt het onderzoek of de behandeling accepteert. De stagiaire is in staat met behulp van de verstrekte onderzoeksgegevens van de dierenarts zelfstandig anamnese, inspectie en onderzoek af te nemen, of uit te voeren en een behandelingsplan in te stellen of uit te voeren.
 
