@@ -4,7 +4,7 @@ identifier: "BWBR0041861"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-03-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041861"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
 2. De in de bijlage genoemde, met openbaarmaking belaste inspectiedienst, maakt de in het betreffende onderdeel van de bijlage aangewezen informatie, bedoeld in het eerste lid, openbaar.
 
-3. De met openbaarmaking belaste inspectiedienst vermeldt via het communicatiemiddel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-03-01&g=2025-03-01), de context waarbinnen de op grond van het eerste lid aangewezen toezichtinformatie is verkregen en ten aanzien waarvan tot openbaarmaking is besloten door in ieder geval inzichtelijk te maken hoe in algemene zin toezicht wordt uitgeoefend en wat het toezichtbeleid inhoudt.
+3. De met openbaarmaking belaste inspectiedienst vermeldt via het communicatiemiddel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), de context waarbinnen de op grond van het eerste lid aangewezen toezichtinformatie is verkregen en ten aanzien waarvan tot openbaarmaking is besloten door in ieder geval inzichtelijk te maken hoe in algemene zin toezicht wordt uitgeoefend en wat het toezichtbeleid inhoudt.
 
 ##### Artikel 3
 
@@ -96,9 +96,9 @@ In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, wordt ingetrokken en dat besluit tot intrekking onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van het intrekkingsbesluit en de reden van de intrekking. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-03-01&g=2025-03-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
+1. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, wordt ingetrokken en dat besluit tot intrekking onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van het intrekkingsbesluit en de reden van de intrekking. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
 
-2. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, door de bestuursrechter wordt vernietigd en dat besluit tot vernietiging onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van de vernietiging en de reden van de vernietiging. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-03-01&g=2025-03-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
+2. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, door de bestuursrechter wordt vernietigd en dat besluit tot vernietiging onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van de vernietiging en de reden van de vernietiging. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
 
 ##### Artikel 6
 
@@ -116,7 +116,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet.
 
-## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=2&z=2025-03-01&g=2025-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-03-01&g=2025-03-01) van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet
+## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=2&z=2025-07-01&g=2025-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01) van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet
 
 ### Onderdeel I
 
