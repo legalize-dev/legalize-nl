@@ -4,7 +4,7 @@ identifier: "BWBR0048348"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2024-09-13"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048348"
 soort: "zbo"
@@ -76,7 +76,7 @@ Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het f
 
 ##### Artikel 4. Aan te leveren gegevens
 
-1. Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2024-09-13&g=2024-09-13) dienen in ieder geval de volgende gegevens te worden overgelegd:
+1. Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2025-07-01&g=2025-07-01) dienen in ieder geval de volgende gegevens te worden overgelegd:
 
 - a. het implementatieplan als bedoeld in [artikel 150i Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150i) of [artikel 145h Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145h);
 
@@ -116,15 +116,15 @@ Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het f
 
 - s. indien van toepassing, opinies of adviezen van de risicobeheerfunctie, interne auditfunctie en actuariële functie als bedoeld in [artikel 143a Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143a) en [artikel 138a Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138a) ter zake van de transitiebesluitvorming.
 
-2. De melding wordt pas geacht te zijn ingediend nadat minimaal de gegevens als bedoeld in het eerste lid zijn verstrekt aan DNB op de wijze als voorgeschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=5&z=2024-09-13&g=2024-09-13) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=6&z=2024-09-13&g=2024-09-13).
+2. De melding wordt pas geacht te zijn ingediend nadat minimaal de gegevens als bedoeld in het eerste lid zijn verstrekt aan DNB op de wijze als voorgeschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=5&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=6&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 5. Model voor de gegevensverstrekking
 
-Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2024-09-13&g=2024-09-13) dient het ingevulde invaarsjabloon als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2024-09-13&g=2024-09-13) bij deze Regeling te worden overgelegd.
+Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2025-07-01&g=2025-07-01) dient het ingevulde invaarsjabloon als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2025-07-01&g=2025-07-01) bij deze Regeling te worden overgelegd.
 
 ##### Artikel 6. Eisen aan de gegevensverstrekking
 
-Gegevens die niet via [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2024-09-13&g=2024-09-13) kunnen worden overgelegd dienen te worden overgelegd in de vorm van een tekst-gebaseerd pdf-bestand of een xls(x)-bestand.
+Gegevens die niet via [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2025-07-01&g=2025-07-01) kunnen worden overgelegd dienen te worden overgelegd in de vorm van een tekst-gebaseerd pdf-bestand of een xls(x)-bestand.
 
 ##### Artikel 7. Indieningstermijn
 
@@ -142,6 +142,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ## Bijlage 1. Invaarsjabloon
 
-Gepubliceerd op [https://www.dnb.nl/media/mdxf1cbu/invaarsjabloon_v2_1.xlsx](https://www.dnb.nl/media/mdxf1cbu/invaarsjabloon_v2_1.xlsx)
+Gepubliceerd op [https://www.dnb.nl/media/mdxf1cbu/invaarsjabloon_v2_2.xlsx](https://www.dnb.nl/media/mdxf1cbu/invaarsjabloon_v2_2.xlsx)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 1, die wordt gepubliceerd op de website [www.dnb.nl](http://www.dnb.nl/)
