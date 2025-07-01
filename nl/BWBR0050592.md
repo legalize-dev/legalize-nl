@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-06-20"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -55,6 +55,7 @@ Besluiten:
 |   |   | Landbouwborgstellingskredieten die betrekking hebben op landbouwinnovaties als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   |   | 01-01-2025 t/m 31-12-2025 | € 20.000.000 |
 |   |   | Landbouwborgstellingskredieten die betrekking hebben op omschakeling duurzame landbouw als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
 | [Titel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.10): Marktintroductie energie-innovaties | [2.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.10.2) | Glastuinbouwonderneming | Marktintroductie energie-innovaties | Marktintroductie energie-innovaties | 15-04-2025 t/m 13-05-2025 | € 8.500.000 |
+| [Titel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.16): Innoveren in visserijtechnieken | [2.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.16.2) |   | Innovatie | Innovatie | 1-9-2025 t/m 24-10-2025 | € 1.500.000 |
 | [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | Warmte-infrastructuur glastuinbouw | 31-01-2025 t/m 31-03-2025 | € 90.000.000 |
 | [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
 | [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.25.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
@@ -69,13 +70,14 @@ Besluiten:
 | [Titel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.10): Seed capital technostarters | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   |   | 01-01-2025 t/m 02-04-2025 | € 20.000.000 |
 |   | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   |   | 01-08-2025 t/m 01-10-2025 | € 20.000.000 |
 |   | [3.10.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Deeptech Startersfondsen |   |   | 01-01-2025 t/m 02-04-2025 | € 25.000.000 |
-|   | [3.10.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.12b) | Seed business angel fondsen |   |   | 01-01-2025 t/m 31-12-2025 | € 4.000.000 |
+|   | [3.10.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.12b) | Seed business angel fondsen |   |   | 01-01-2025 t/m 31-12-2025 | € 6.000.000 |
 | [Titel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.11): Borgstelling MKB-kredieten | [3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.11.2) | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883)) Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) |   |   | 01-01-2025 t/m 31-12-2025 | € 758.900.000 |
 | [Titels 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.13) en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.14): Garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties | [3.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.13.2) en [3.14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.14.2) |   |   |   | 01-01-2025 t/m 01-07-2025 | € 400.000.000 |
 |   |   |   |   |   | 02-07-2025 t/m 31-12-2025 | € 200.000.000 |
 | [Titel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16): Vroegefasefinanciering | [3.16.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.1c) | Regionale Financier |   |   | 01-01-2025 t/m 31-12-2025 | € 18.000.000 |
-|   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   |   | 01-01-2025 t/m 31-12-2025 | € 2.250.000 |
+|   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   |   | 01-01-2025 t/m 31-12-2025 | € 3.000.000 |
 |   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |   |   | 06-01-2025 t/m 04-03-2025 | € 4.950.000 |
+|   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2-innovatieve starter |   |   | 07-07-2025 t/m 16-09-2025 | € 4.950.000 |
 | [Titel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.22): Thematische Technology Transfer | [3.22.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2) |   |   |   | 16-12-2024 t/m 15-04-2025 | € 40.000.000 |
 |   | [3.22.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2a) |   | Thematisch technology transferplan gericht op pandemische paraatheid | Thematisch technology transferplan gericht op pandemische paraatheid | 16-12-2024 t/m 15-04-2025 | € 8.000.000 |
 | [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 01-01-2025 t/m 04-02-2025 | € 100.000 |
@@ -98,7 +100,8 @@ Besluiten:
 |   |   |   | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | 06-05-2025 t/m 21-08-2025 | € 2.500.000 |
 |   |   |   | Onderdeel D. Circulaire Economie, 2. Circulaire Plastics | Onderdeel D. Circulaire Economie, 2. Circulaire Plastics | 06-05-2025 t/m 21-08-2025 | € 4.000.000 |
 |   |   |   | Onderdeel D. Circulaire Economie, 3. Biobased Circular | Onderdeel D. Circulaire Economie, 3. Biobased Circular | 01-04-2025 t/m 13-05-2025 | € 2.500.000 |
-|   | [4.2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.44) | Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI) | 4. MOOI-missie Systeemintegratie | 4. MOOI-missie Systeemintegratie | 03-06-2025 t/m 04-09-2025 | € 16.500.000 |
+|   | [4.2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.44) | Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI) | 1. MOOI-missie Elektriciteit: Innovatiethema 4 | 1. MOOI-missie Elektriciteit: Innovatiethema 4 | 05-01-2026 t/m 12-02-2026 | € 10.000.000 |
+|   |   |   | 4. MOOI-missie Systeemintegratie | 4. MOOI-missie Systeemintegratie | 03-06-2025 t/m 04-09-2025 | € 16.500.000 |
 |   | [4.2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.65) | Demonstratie energie- en klimaatinnovatie (DEI+) | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3. Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen 2.9 Waterstof en groene chemie | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3. Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen 2.9 Waterstof en groene chemie | 28-01-2025 t/m 28-08-2025 | € 175.000.000 |
 |   |   |   | 2.5 Circulaire economie | 2.5 Circulaire economie | 28-01-2025 t/m 28-08-2025 | € 80.000.000 |
 |   |   |   | 2.7 Aardgasloze gebouwde omgeving | 2.7 Aardgasloze gebouwde omgeving | 28-01-2025 t/m 28-08-2025 | € 6.000.000 |
@@ -121,7 +124,7 @@ Besluiten:
 | [Titel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.12): Flexibel elektriciteitsverbruik (Flex-e) | [4.12.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsscan | Flexibiliteitsscan | 01-04-2025 t/m 15-10-2025 | € 13.555.500 |
 |   | [4.12.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 10.000.000 |
 |   | [4.12.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsmaatregelen | Flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 6.750.000 |
-| [Titel 4.13](onbekend): Nationale Investeringsmodule Klimaatprojecten Industrie (NIKI) | [4.13.2](onbekend) |   |   |   | 01-09-2025 t/m 30-9-2025 | € 211.000.000 |
+| [Titel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.13): Nationale Investeringsmodule Klimaatprojecten Industrie (NIKI) | [4.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.13.2) |   |   |   | 01-09-2025 t/m 30-9-2025 | € 211.000.000 |
 
 ##### Artikel 2. Rentepercentages [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
