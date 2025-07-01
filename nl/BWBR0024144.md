@@ -4,7 +4,7 @@ identifier: "BWBR0024144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-01-23"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024144"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ wet: [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op een aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot de uitoefening van de gereglementeerde beroepen, genoemd in [artikel 18, tweede lid, onderdelen i en j, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=18).
+Deze regeling is van toepassing op een aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot de uitoefening van de gereglementeerde beroepen, genoemd in [artikel 23, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23).
 
 ##### Artikel 3
 
@@ -62,23 +62,23 @@ Deze regeling is van toepassing op een aanvraag van een migrerende beroepsbeoefe
 
 - a. de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), en
 
-- b. een geldige geneeskundige verklaring als bedoeld in [artikel 60 van het Besluit zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=60).
+- b. een geldige geneeskundige verklaring als bedoeld in [artikel 31, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
 
 ##### Artikel 4
 
 1. De aanvrager maakt zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage binnen een daartoe door de Minister gestelde termijn kenbaar.
 
-2. Indien de aanvrager een opleidingstitel afkomstig uit een derde land heeft overgelegd, maakt, in afwijking van het eerste lid, de Minister zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage kenbaar binnen 4 weken na ontvangst van de aanvraag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2016-01-23&g=2016-01-23).
+2. Indien de aanvrager een opleidingstitel afkomstig uit een derde land heeft overgelegd, maakt, in afwijking van het eerste lid, de Minister zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage kenbaar binnen 4 weken na ontvangst van de aanvraag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2025-07-01&g=2025-07-01).
 
 3. De Minister stelt vast in overeenstemming met welke examenvakken de aanvrager de proeve van bekwaamheid aflegt of met betrekking tot welke vakken de aanvrager de aanpassingsstage doorloopt, alsmede de termijn waarbinnen dit geschiedt.
 
-4. De proeve van bekwaamheid wordt afgelegd bij een door de Minister aan te wijzen opleidingsinstituut als bedoeld in de [Erkenningsregeling opleidingen zeevaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0013363). Het opleidingsinstituut beoordeelt de proeve van bekwaamheid aan de hand van de voor het desbetreffende beroep in Nederland geldende exameneisen.
+4. De proeve van bekwaamheid wordt afgelegd bij een door de Minister aan te wijzen opleidingsinstituut als bedoeld in [paragraaf 3.7 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&paragraaf=3.7). Het opleidingsinstituut beoordeelt de proeve van bekwaamheid aan de hand van de voor het desbetreffende beroep in Nederland geldende exameneisen.
 
-5. Een door de Minister aan te wijzen opleidingsinstituut als bedoeld in de [Erkenningsregeling opleidingen zeevaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0013363) beoordeelt of de aanvrager, na het doorlopen van de aanpassingsstage, de door de Minister vastgestelde vakken, bedoeld in het derde lid, in voldoende mate beheerst.
+5. Een door de Minister aan te wijzen opleidingsinstituut als bedoeld in [paragraaf 3.7 van de Regeling bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&paragraaf=3.7) beoordeelt of de aanvrager, na het doorlopen van de aanpassingsstage, de door de Minister vastgestelde vakken, bedoeld in het derde lid, in voldoende mate beheerst.
 
 ##### Artikel 5
 
-Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2016-01-23&g=2016-01-23), wordt afgewezen, indien de proeve van bekwaamheid, dan wel de aanpassingsstage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=4&z=2016-01-23&g=2016-01-23), als onvoldoende zijn beoordeeld.
+Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2025-07-01&g=2025-07-01), wordt afgewezen, indien de proeve van bekwaamheid, dan wel de aanpassingsstage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=4&z=2025-07-01&g=2025-07-01), als onvoldoende zijn beoordeeld.
 
 ##### Artikel 6
 
@@ -86,7 +86,7 @@ Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overh
 
 - a. de documenten bedoeld in [artikel 23, derde lid, onderdeel a, c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en
 
-- b. een geldige geneeskundige verklaring als bedoeld in [artikel 60 van het Besluit zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=60).
+- b. een geldige geneeskundige verklaring als bedoeld in [artikel 31, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
 
 ##### Artikel 7
 
