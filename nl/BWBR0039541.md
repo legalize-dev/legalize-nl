@@ -4,7 +4,7 @@ identifier: "BWBR0039541"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-07-01"
-last_updated: "2017-07-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039541"
 soort: "ministeriele-regeling-BES"
@@ -48,10 +48,16 @@ De scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland, word
 
 ##### Artikel 2
 
-De scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland, worden belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124), voor zover van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+De scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland, worden belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681), voor zover van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang 1 juli 2017.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Dit besluit berust mede op [artikel 61, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61).
 
 Dit besluit zal in de Staatscourant worden geplaatst.
