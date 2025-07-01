@@ -4,7 +4,7 @@ identifier: "BWBR0037311"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-07-11"
-last_updated: "2018-08-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037311"
 soort: "ministeriele-regeling-BES"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Verzoek om een ontheffing
 
-Voor het verzoek om een ontheffing of een aanvraag voor een verklaring van vakbekwaamheid kan gebruik worden gemaakt van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2018-08-01&g=2018-08-01) van deze regeling gevoegde formulieren.
+Voor het verzoek om een ontheffing of een aanvraag voor een verklaring van vakbekwaamheid kan gebruik worden gemaakt van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-01) van deze regeling gevoegde formulieren.
 
 ##### Artikel 3. Voorschriften en beperkingen
 
@@ -84,13 +84,13 @@ De Minister kan zich laten adviseren door de Commissie buitenslands gediplomeerd
 
 - a. bij een aanvraag voor een verklaring van vakbekwaamheid;
 
-- b. over de aan een ontheffing te verbinden voorschriften of beperkingen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&artikel=3&z=2018-08-01&g=2018-08-01).
+- b. over de aan een ontheffing te verbinden voorschriften of beperkingen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&artikel=3&z=2025-07-11&g=2025-07-01).
 
 ##### Artikel 6. Gegevens bij aanvraag voor verklaring van vakbekwaamheid
 
 1. Bij een aanvraag voor een verklaring van vakbekwaamheid worden in ieder geval de volgende bescheiden overgelegd:
 
-- a. het desbetreffende door de Minister beschikbaar te stellen aanvraagformulier als opgenomen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2018-08-01&g=2018-08-01), dat door aanvrager is ingevuld en ondertekend;
+- a. het desbetreffende door de Minister beschikbaar te stellen aanvraagformulier als opgenomen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-01), dat door aanvrager is ingevuld en ondertekend;
 
 - b. een fotokopie van het deel van een geldig paspoort op basis waarvan de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld;
 
