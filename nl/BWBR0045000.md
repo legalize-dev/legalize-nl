@@ -4,7 +4,7 @@ identifier: "BWBR0045000"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2022-01-01"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045000"
 soort: "AMvB"
@@ -146,7 +146,7 @@ De verplichting om te beschikken over een toelatingsvergunning is niet van toepa
 
 - d. instellingen die in de regel met tien of minder zorgverleners zorg verlenen of doen verlenen;
 
-- e. instellingen waarin cliënten niet gedurende ten minste een etmaal kunnen verblijven en die in de regel met vijfentwintig of minder zorgverleners zorg of een andere dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) of de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verlenen of doen verlenen indien geen sprake is van:
+- e. instellingen waarin cliënten niet gedurende ten minste een etmaal kunnen verblijven en die in de regel met vijftig of minder zorgverleners zorg of een andere dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) of de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verlenen of doen verlenen indien geen sprake is van:
 
 - 1°. medisch specialistische zorg; of
 
@@ -212,7 +212,7 @@ De verplichting om te beschikken over een toelatingsvergunning is niet van toepa
 
 De meldplicht, bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=17), is niet van toepassing op de volgende categorieën van zorgaanbieders:
 
-- a. zorgaanbieders als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045000&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01);
+- a. zorgaanbieders als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045000&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01);
 
 - b. zorgaanbieders die op de dag van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797) vermeld staan in het openbaar register, bedoeld in [artikel 12 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=12);
 
