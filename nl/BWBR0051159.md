@@ -4,7 +4,7 @@ identifier: "BWBR0051159"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-02"
-last_updated: "2025-05-01"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051159"
 soort: "zbo"
@@ -93,17 +93,17 @@ Het bestuur verleent subsidie indien aan de volgende criteria wordt voldaan:
 
 ##### Artikel 5. Aanvraag subsidie
 
-1. De subsidie wordt digitaal aangevraagd op een door het bestuur voorgeschreven formulier, dat naast de aanvrager tevens is ondertekend door de advocaat zoals bedoeld in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-05-01) van deze regeling.
+1. De subsidie wordt digitaal aangevraagd op een door het bestuur voorgeschreven formulier, dat naast de aanvrager tevens is ondertekend door de advocaat zoals bedoeld in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-07-02) van deze regeling.
 
 2. De subsidie wordt tenminste acht weken voor aanvang van de beroepsopleiding aangevraagd. Indien de beroepsopleiding op het tijdstip van inwerkingtreding van deze regeling reeds is aangevangen, wordt de subsidie uiterlijk 12 weken na de inwerkingtreding van deze regeling aangevraagd.
 
-3. Op het formulier wordt toegelicht dat aan de criteria in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-05-01) wordt voldaan en de overeenkomst, het bewijs van toelating tot de beroepsopleiding en eventuele andere bewijsstukken zijn bijgevoegd.
+3. Op het formulier wordt toegelicht dat aan de criteria in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-07-02) wordt voldaan en de overeenkomst, het bewijs van toelating tot de beroepsopleiding en eventuele andere bewijsstukken zijn bijgevoegd.
 
 ##### Artikel 6. Besluit tot subsidieverlening
 
 1. Het bestuur neemt binnen vier weken na ontvangst van het formulier een beslissing op de subsidieaanvraag.
 
-2. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=5&z=2025-07-02&g=2025-05-01) kan de subsidie worden verleend onder de voorwaarde dat de overeenkomst en het bewijs van toelating tot de beroepsopleiding uiterlijk twee maanden na de verlening alsnog worden overgelegd.
+2. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=5&z=2025-07-02&g=2025-07-02) kan de subsidie worden verleend onder de voorwaarde dat de overeenkomst en het bewijs van toelating tot de beroepsopleiding uiterlijk twee maanden na de verlening alsnog worden overgelegd.
 
 3. De subsidie wordt aansluitend op de facturering voor de beroepsopleiding in twee delen en in de vorm van een voorschot verstrekt, zoals bedoeld in [artikel 4:95 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95). In de situatie als beschreven in het tweede lid zal het eerste voorschot niet eerder worden verstrekt dan dat de overeenkomst en het bewijs van toelating tot de beroepsopleiding zijn overgelegd.
 
@@ -113,7 +113,7 @@ Het bestuur verleent subsidie indien aan de volgende criteria wordt voldaan:
 
 De subsidie kan, onverminderd de in [artikel 4:35 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) genoemde weigeringsgronden, worden geweigerd indien:
 
-- a. naar het oordeel van het bestuur niet wordt voldaan aan de criteria, zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=5&z=2025-07-02&g=2025-05-01) van deze regeling;
+- a. naar het oordeel van het bestuur niet wordt voldaan aan de criteria, zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=4&z=2025-07-02&g=2025-07-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051159&artikel=5&z=2025-07-02&g=2025-07-02) van deze regeling;
 
 - b. in geval de aanvrager een rechtspersoon is, wanneer deze bij rechterlijk vonnis is ontbonden;
 
