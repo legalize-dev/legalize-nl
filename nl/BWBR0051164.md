@@ -4,7 +4,7 @@ identifier: "BWBR0051164"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-02"
-last_updated: "2025-05-01"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051164"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b). **onderzoek:** Evaluatieonderzoek [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) en beleidsonderzoek hersteloperatie toeslagen waarvoor de Staatssecretaris opdracht heeft gegeven;
 
-- c). **begeleidingscommissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051164&artikel=2&z=2025-07-02&g=2025-05-01);
+- c). **begeleidingscommissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051164&artikel=2&z=2025-07-02&g=2025-07-02);
 
 - d). **ambtelijke werkgroep:** ondersteunende werkgroep waarin ambtenaren van het Ministerie van Financiën plaatsnemen;
 
