@@ -4,7 +4,7 @@ identifier: "BWBR0042357"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-02"
-last_updated: "2019-06-18"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042357"
 soort: "ministeriele-regeling"
@@ -50,7 +50,9 @@ Treedt in werking op het tijdstip waarop de Wet gebruik van passagiersgegevens v
 
 ##### Artikel 2
 
-De passagiersgegevens worden 48 en 24 uur voor de geplande vertrektijd van een vlucht door een luchtvaartmaatschappij langs elektronische weg aan de Passagiersinformatie-eenheid verstrekt.
+1. De passagiersgegevens worden 48 en 24 uur voor de geplande vertrektijd van een vlucht door een luchtvaartmaatschappij langs elektronische weg aan de Passagiersinformatie-eenheid verstrekt.
+
+2. Indien 24 uur voor de geplande vertrektijd van een vlucht van een bepaalde passagier geen passagiersgegevens beschikbaar zijn, verstrekt de luchtvaartmaatschappij de passagiersgegevens van de betreffende passagier niet later dan twee uur voor de geplande vertrektijd, voor zover de luchtvaartmaatschappij op dat moment over deze gegevens beschikt.
 
 ##### Artikel 3
 
