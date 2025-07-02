@@ -4,7 +4,7 @@ identifier: "BWBR0047844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-02"
-last_updated: "2025-04-01"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047844"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 - **college:** college van burgemeester en wethouders;
 
-- **doe-het-zelfmaatregel:** maatregel als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), die door een ander wordt uitgevoerd dan door een bouwbedrijf;
+- **doe-het-zelfmaatregel:** maatregel als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), die door een ander wordt uitgevoerd dan door een bouwbedrijf;
 
 - **energielabel:** een energielabel als bedoeld in [bijlage I bij artikel 1 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
@@ -56,7 +56,7 @@ Besluit:
 
 - **gemengde vereniging:** vereniging van eigenaars, woonvereniging of wooncoöperatie ten behoeve van gebouwen waarin zich ten minste één woning van een eigenaar-bewoner bevindt;
 
-- **isolatieprogramma:** isolatieprogramma als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01);
+- **isolatieprogramma:** isolatieprogramma als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02);
 
 - **minister:** Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
@@ -72,7 +72,7 @@ Besluit:
 
 - 4°. de ramen, panelen in kozijnen en deuren;
 
-- b. in een gebouw waarvoor een gemengde vereniging bestaat en waarin ten minste twee van de volgende bestaande bouwdelen van het gebouw niet of slecht geïsoleerd zijn: en waarbij de woning fysiek grenst aan het bouwdeel van het gebouw waaraan ten minste één van de voorgenomen energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), worden getroffen; of
+- b. in een gebouw waarvoor een gemengde vereniging bestaat en waarin ten minste twee van de volgende bestaande bouwdelen van het gebouw niet of slecht geïsoleerd zijn: en waarbij de woning fysiek grenst aan het bouwdeel van het gebouw waaraan ten minste één van de voorgenomen energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), worden getroffen; of
 
 - 1°. de vloer en de bodem;
 
@@ -82,7 +82,7 @@ Besluit:
 
 - 4°. de ramen, panelen in kozijnen en deuren,
 
-- c. waaraan eerder energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), zijn getroffen op basis van deze regeling en die op enig daaraan voorafgaand moment kwalificeerde als slecht geïsoleerde woning als bedoeld onder a of b;
+- c. waaraan eerder energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), zijn getroffen op basis van deze regeling en die op enig daaraan voorafgaand moment kwalificeerde als slecht geïsoleerde woning als bedoeld onder a of b;
 
 - **vereniging van eigenaars:** vereniging van de eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=112);
 
@@ -112,15 +112,15 @@ Besluit:
 
 ##### Artikel 2. Doel en activiteiten van de specifieke uitkering
 
-1. De minister kan op aanvraag van een college of ambtshalve een specifieke uitkering verstrekken aan de gemeente voor het uitvoeren van een isolatieprogramma dat gericht is op het nemen van energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, in slecht geïsoleerde woningen van eigenaar-bewoners en slecht geïsoleerde woningen van leden van een gemengde vereniging, met een focus op woningen die bewoond zijn door huishoudens in energiearmoede of een risico daarop. Die focus wordt in ieder geval bereikt door uitvoering te geven aan de verplichting in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01).
+1. De minister kan op aanvraag van een college of ambtshalve een specifieke uitkering verstrekken aan de gemeente voor het uitvoeren van een isolatieprogramma dat gericht is op het nemen van energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, in slecht geïsoleerde woningen van eigenaar-bewoners en slecht geïsoleerde woningen van leden van een gemengde vereniging, met een focus op woningen die bewoond zijn door huishoudens in energiearmoede of een risico daarop. Die focus wordt in ieder geval bereikt door uitvoering te geven aan de verplichting in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02).
 
 2. Het college besteedt de specifieke uitkering aan:
 
 - a. het uitvoeren of laten uitvoeren of het subsidiëren van het uitvoeren of het laten uitvoeren van een of meer energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, waarbij onder energiebesparende isolatiemaatregelen wordt verstaan:
 
-- 1°. als het een woning van een eigenaar-bewoner betreft: energiebesparende isolatiemaatregelen als bedoeld in [artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2). In afwijking van dat artikellid worden hier tevens doe-het-zelf maatregelen onder verstaan. Op doe-het-zelf maatregelen zijn de in artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies gestelde eisen ten aanzien van de minimaal te isoleren vierkante meters niet van toepassing en op doe-het-zelf maatregelen waarvoor op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), een aanvraag voor een specifieke uitkering is gedaan zijn daarnaast ook de in artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies gestelde eisen ten aanzien van minimaal te behalen isolatiewaardes niet van toepassing; of
+- 1°. als het een woning van een eigenaar-bewoner betreft: energiebesparende isolatiemaatregelen als bedoeld in [artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2). In afwijking van dat artikellid worden hier tevens doe-het-zelf maatregelen onder verstaan. Op doe-het-zelf maatregelen zijn de in artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies gestelde eisen ten aanzien van de minimaal te isoleren vierkante meters niet van toepassing en op doe-het-zelf maatregelen waarvoor op grond van [artikel 3, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), een aanvraag voor een specifieke uitkering is gedaan zijn daarnaast ook de in artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies gestelde eisen ten aanzien van minimaal te behalen isolatiewaardes niet van toepassing; of
 
-- 2°. als het een woning betreft in een gebouw waarvoor een gemengde vereniging bestaat: energiebesparende isolatiemaatregelen als bedoeld in [artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&artikel=7). In afwijking van dat artikellid worden hier tevens doe-het-zelf maatregelen onder verstaan. Op doe-het-zelf maatregelen zijn de in artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars gestelde eisen ten aanzien van de minimaal te isoleren vierkante meters niet van toepassing en op doe-het-zelf maatregelen waarvoor op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), een aanvraag voor een specifieke uitkering is gedaan zijn daarnaast ook de in artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars gestelde eisen ten aanzien van minimaal te behalen isolatiewaardes niet van toepassing;
+- 2°. als het een woning betreft in een gebouw waarvoor een gemengde vereniging bestaat: energiebesparende isolatiemaatregelen als bedoeld in [artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&artikel=7). In afwijking van dat artikellid worden hier tevens doe-het-zelf maatregelen onder verstaan. Op doe-het-zelf maatregelen zijn de in artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars gestelde eisen ten aanzien van de minimaal te isoleren vierkante meters niet van toepassing en op doe-het-zelf maatregelen waarvoor op grond van [artikel 3, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), een aanvraag voor een specifieke uitkering is gedaan zijn daarnaast ook de in artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars gestelde eisen ten aanzien van minimaal te behalen isolatiewaardes niet van toepassing;
 
 - b. het bieden van gerichte ondersteuning aan een eigenaar-bewoner of een gemengde vereniging of het daartoe inschakelen van derden met de benodigde expertise, waaronder in ieder geval kan vallen:
 
@@ -140,23 +140,23 @@ Besluit:
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de voorlaatste kolom in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2025-04-01&g=2025-04-01) opgenomen totaalbedrag dat aangevraagd kan worden.
+1. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de voorlaatste kolom in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2025-07-02&g=2025-07-02) opgenomen totaalbedrag dat aangevraagd kan worden.
 
-2. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de derde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen bedrag dat uitgekeerd wordt naar rato van het aantal aangevraagde woningen. Het bedrag wordt aangevuld met het volledige bedrag dat in de vierde kolom is opgenomen, hetgeen middelen betreft die worden uitgekeerd in aanvulling op middelen uit 2022.
+2. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de derde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-07-02&g=2025-07-02) opgenomen bedrag dat uitgekeerd wordt naar rato van het aantal aangevraagde woningen. Het bedrag wordt aangevuld met het volledige bedrag dat in de vierde kolom is opgenomen, hetgeen middelen betreft die worden uitgekeerd in aanvulling op middelen uit 2022.
 
-3. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een aanvraag doen voor een specifieke uitkering ter hoogte van het voor die gemeente in de vijfde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen bedrag, hetgeen middelen betreft die specifiek bedoeld zijn voor doe-het-zelf maatregelen.
+3. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering ter hoogte van het voor die gemeente in de vijfde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-07-02&g=2025-07-02) opgenomen bedrag, hetgeen middelen betreft die specifiek bedoeld zijn voor doe-het-zelf maatregelen.
 
-4. Als er gemeenten zijn waarvan het college geen aanvraag als bedoeld in het derde lid doet worden de voor die gemeenten gereserveerde bedragen in de vijfde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-04-01&g=2025-04-01) herverdeeld over de gemeenten waarvoor wel een aanvraag als bedoeld in het derde lid is gedaan. Bij de in de vorige zin bedoelde bedragen wordt voorafgaand aan de herverdeling € 227.000 opgeteld. De herverdeling vindt plaats naar rato van de hoogte van de bedragen die de colleges hebben aangevraagd op grond van het derde lid.
+4. Als er gemeenten zijn waarvan het college geen aanvraag als bedoeld in het derde lid doet worden de voor die gemeenten gereserveerde bedragen in de vijfde kolom in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=III&z=2025-07-02&g=2025-07-02) herverdeeld over de gemeenten waarvoor wel een aanvraag als bedoeld in het derde lid is gedaan. Bij de in de vorige zin bedoelde bedragen wordt voorafgaand aan de herverdeling € 227.000 opgeteld. De herverdeling vindt plaats naar rato van de hoogte van de bedragen die de colleges hebben aangevraagd op grond van het derde lid.
 
-5. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de derde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-04-01&g=2025-04-01) opgenomen bedrag dat uitgekeerd wordt naar rato van het aantal aangevraagde woningen. Het bedrag wordt aangevuld met het volledige bedrag dat in de vierde kolom is opgenomen, hetgeen middelen betreft die worden uitgekeerd in aanvulling op middelen uit 2022.
+5. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de derde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02) opgenomen bedrag dat uitgekeerd wordt naar rato van het aantal aangevraagde woningen. Het bedrag wordt aangevuld met het volledige bedrag dat in de vierde kolom is opgenomen, hetgeen middelen betreft die worden uitgekeerd in aanvulling op middelen uit 2022.
 
-6. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een extra aanvraag doen voor een specifieke uitkering voor ten hoogste 30 procent van het aantal woningen dat kan worden aangevraagd zoals bedoeld in de tweede kolom van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-04-01&g=2025-04-01).
+6. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een extra aanvraag doen voor een specifieke uitkering voor ten hoogste 30 procent van het aantal woningen dat kan worden aangevraagd zoals bedoeld in de tweede kolom van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02).
 
-7. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), een aanvraag doen voor een specifieke uitkering ter hoogte van het voor die gemeente in de vijfde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-04-01&g=2025-04-01) opgenomen bedrag, hetgeen middelen betreft die specifiek bedoeld zijn voor doe-het-zelf maatregelen.
+7. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering ter hoogte van het voor die gemeente in de vijfde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02) opgenomen bedrag, hetgeen middelen betreft die specifiek bedoeld zijn voor doe-het-zelf maatregelen.
 
-8. Als er gemeenten zijn waarvan het college geen aanvraag als bedoeld in het zevende lid doet worden de voor die gemeenten gereserveerde bedragen in de vijfde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-04-01&g=2025-04-01) herverdeeld over de gemeenten waarvoor wel een aanvraag als bedoeld in het zevende lid is gedaan. De herverdeling vindt plaats naar rato van de hoogte van de bedragen die de colleges hebben aangevraagd op grond van het zevende lid.
+8. Als er gemeenten zijn waarvan het college geen aanvraag als bedoeld in het zevende lid doet worden de voor die gemeenten gereserveerde bedragen in de vijfde kolom in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02) herverdeeld over de gemeenten waarvoor wel een aanvraag als bedoeld in het zevende lid is gedaan. De herverdeling vindt plaats naar rato van de hoogte van de bedragen die de colleges hebben aangevraagd op grond van het zevende lid.
 
-9. Het aantal woningen waarvoor geen aanvraag wordt gedaan als bedoeld in het vijfde lid, wordt herverdeeld over de gemeenten waarvoor een aanvraag als bedoeld in het zesde lid is gedaan naar rato van het aantal woningen dat de colleges hebben aangevraagd op grond van het zesde lid. Per extra aangevraagde woning ontvangt de gemeente het genoemde bedrag in de zesde kolom van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-04-01&g=2025-04-01). Het aantal woningen dat wordt herverdeeld wordt opgehoogd, met een aantal waardoor het bedrag dat op grond van deze ophoging wordt uitgekeerd ten hoogste € 13.401.807 is.
+9. Het aantal woningen waarvoor geen aanvraag wordt gedaan als bedoeld in het vijfde lid, wordt herverdeeld over de gemeenten waarvoor een aanvraag als bedoeld in het zesde lid is gedaan naar rato van het aantal woningen dat de colleges hebben aangevraagd op grond van het zesde lid. Per extra aangevraagde woning ontvangt de gemeente ten hoogste het genoemde bedrag in de zesde kolom van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02). Het aantal woningen dat wordt herverdeeld wordt opgehoogd, met een aantal waardoor het bedrag dat op grond van deze ophoging wordt uitgekeerd ten hoogste € 15.424.807 is.
 
 ##### Artikel 4. De aanvraag
 
@@ -170,17 +170,17 @@ Besluit:
 
 2. Een aanvraag bevat een omschrijving van het isolatieprogramma, waaronder in ieder geval wordt verstaan:
 
-- a. een omschrijving van de activiteiten, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01);
+- a. een omschrijving van de activiteiten, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02);
 
-- b. een opgave van het aantal slecht geïsoleerde woningen waarvoor de gemeente het bedrag van de specifieke uitkering aanvraagt en ten aanzien waarvan zij energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), wil bewerkstelligen. Een woning waaraan reeds energiebesparende isolatiemaatregelen als bedoeld in artikel 2 zijn getroffen op basis van deze regeling wordt niet nogmaals opgegeven;
+- b. een opgave van het aantal slecht geïsoleerde woningen waarvoor de gemeente het bedrag van de specifieke uitkering aanvraagt en ten aanzien waarvan zij energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), wil bewerkstelligen. Een woning waaraan reeds energiebesparende isolatiemaatregelen als bedoeld in artikel 2 zijn getroffen op basis van deze regeling wordt niet nogmaals opgegeven;
 
-- c. de hoogte van het bedrag van de gevraagde specifieke uitkering dat op grond van de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01) bij het betreffende aanvraagtijdvak behorende bijlage bij deze regeling samenhangt met het aantal slecht geïsoleerde woningen als bedoeld in onderdeel b;
+- c. de hoogte van het bedrag van de gevraagde specifieke uitkering dat op grond van de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02) bij het betreffende aanvraagtijdvak behorende bijlage bij deze regeling samenhangt met het aantal slecht geïsoleerde woningen als bedoeld in onderdeel b;
 
-- d. een omschrijving van de wijze waarop de gemeente voornemens is om voldoende woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01), in het isolatieprogramma te betrekken; en
+- d. een omschrijving van de wijze waarop de gemeente voornemens is om voldoende woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02), in het isolatieprogramma te betrekken; en
 
 - e. een opgave van het bedrag dat de gemeente op grond van een eigen inschatting aan BTW verschuldigd is over de kosten voor de uitvoering van het isolatieprogramma.
 
-3. Op een aanvraag als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), zijn in afwijking van het tweede lid onderdelen b en c niet van toepassing.
+3. Op een aanvraag als bedoeld in [artikel 3, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), zijn in afwijking van het tweede lid onderdelen b en c niet van toepassing.
 
 4. De minister beslist binnen acht weken na het indienen van de aanvraag over de toekenning van een specifieke uitkering. Indien de beschikking niet binnen deze termijn kan worden genomen, deelt de minister dit aan de aanvrager mede en noemt daarbij een zo kort mogelijke termijn van ten hoogste acht aanvullende weken waarbinnen de beschikking wordt genomen.
 
@@ -188,7 +188,7 @@ Besluit:
 
 ##### Artikel 5. Wijze van betaling en uitkeringsbeschikking
 
-1. De in [artikel 3, tweede, derde en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), bedoelde specifieke uitkeringen worden in één keer uitbetaald.
+1. De in [artikel 3, tweede en derde lid, onderscheidenlijk artikel 3, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), bedoelde specifieke uitkeringen worden in één keer uitbetaald.
 
 2. De uitkeringsbeschikking vermeldt in elk geval:
 
@@ -204,33 +204,27 @@ Besluit:
 
 1. De gemeente die een specifieke uitkering ontvangt is verplicht om:
 
-- a. energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), te bewerkstelligen in het aantal slecht geïsoleerde woningen dat de gemeente in de aanvraag heeft opgegeven op grond van [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-04-01&g=2025-04-01), met dien verstande dat:
+- a. energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), te bewerkstelligen in het aantal slecht geïsoleerde woningen dat de gemeente in de aanvraag heeft opgegeven op grond van [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), met dien verstande dat:
 
 - 1°. bij dit criterium enkel energiebesparende isolatiemaatregelen meetellen die voldoen aan de in [artikel 4.5.2, derde lid, van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) of [artikel 7, tweede lid, van de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&artikel=7) gestelde eisen ten aanzien van de minimaal te isoleren vierkante meters en minimaal te behalen isolatiewaardes; en
 
 - 2°. voor 10% van het aantal slecht geïsoleerde woningen dat het college in de aanvraag heeft opgegeven de eisen ten aanzien van de minimaal te isoleren vierkante meters niet gelden;
 
-- b. ervoor zorg te dragen dat ten minste 80% van de slecht geïsoleerde woningen waarbij de gemeente energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), bewerkstelligt, een WOZ-waarde heeft die:
+- b. ervoor zorg te dragen dat ten minste 80% van de slecht geïsoleerde woningen waarbij de gemeente energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), bewerkstelligt, een WOZ-waarde heeft die:
 
-- 1º. lager is dan de gemiddelde WOZ-waarde van alle koopwoningen in de betreffende gemeente, uitgaande van de waarde die is opgenomen in de laatste kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2025-04-01&g=2025-04-01); of
+- 1º. lager is dan de gemiddelde WOZ-waarde van alle koopwoningen in de betreffende gemeente, uitgaande van de waarde die is opgenomen in de laatste kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2025-07-02&g=2025-07-02); of
 
 - 2º. lager is dan € 477.000; en
 
-- c. met betrekking tot activiteiten waarvoor: op grond van [artikel 3, eerste, tweede of derde lid of vijfde, zesde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), een specifieke uitkering is aangevraagd en toegekend uiterlijk op 31 december 2028 af te ronden en de specifieke uitkering uiterlijk op 31 december 2028 volledig te besteden aan de activiteiten waarvoor deze is verstrekt; en
+- c. met betrekking tot activiteiten waarvoor: op grond van [artikel 3, eerste, tweede of derde lid of vijfde, zesde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), een specifieke uitkering is aangevraagd en toegekend uiterlijk op 31 december 2028 af te ronden en de specifieke uitkering uiterlijk op 31 december 2028 volledig te besteden aan de activiteiten waarvoor deze is verstrekt; en
 
-- d. indien het een specifieke uitkering betreft die is aangevraagd op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), deze volledig te besteden aan doe-het-zelf maatregelen en de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01) voor zover die activiteiten gericht zijn op het tot stand brengen van doe-het-zelf maatregelen.
+- d. indien het een specifieke uitkering betreft die is aangevraagd op grond van [artikel 3, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), deze volledig te besteden aan doe-het-zelf maatregelen en de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02) voor zover die activiteiten gericht zijn op het tot stand brengen van doe-het-zelf maatregelen.
 
-2. De minister kan op gemotiveerd verzoek van het college:
-
-- a. de in het eerste lid, onderdeel c, onder 1°, genoemde termijn, driemaal met ten hoogste één jaar verlengen; of
-
-- b. de in het eerste lid, onderdeel c, onder 2°, genoemde termijn, tweemaal met ten hoogste één jaar verlengen,
-
-indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat de uitvoering van de activiteiten waar de specifieke uitkering voor is verstrekt niet binnen die termijn kan worden afgerond.
+2. De Minister kan op gemotiveerd verzoek van het college de in het eerste lid, onderdeel c, genoemde termijn, tweemaal met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat de uitvoering van de activiteiten waar de specifieke uitkering voor is verstrekt niet binnen die termijn kan worden afgerond.
 
 ##### Artikel 7. Afwijzingsgronden
 
-De minister wijst een aanvraag voor een specifieke uitkering gedeeltelijk af, voor zover het aangevraagde bedrag het bedrag overstijgt dat het college op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01) ten hoogste kan aanvragen.
+De minister wijst een aanvraag voor een specifieke uitkering gedeeltelijk af, voor zover het aangevraagde bedrag het bedrag overstijgt dat het college op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02) ten hoogste kan aanvragen.
 
 ##### Artikel 8. Informatievoorziening na uitkering
 
@@ -238,15 +232,15 @@ Het college van een gemeente die een specifieke uitkering ontvangt informeert de
 
 ##### Artikel 9. Verantwoording, terugvordering en vaststelling
 
-1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-04-01&g=2025-04-01), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
 
-3. Indien niet voldaan is aan de informatieverplichting, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=8&z=2025-04-01&g=2025-04-01), kan de minister de specifieke uitkering geheel of gedeeltelijk terugvorderen.
+3. Indien niet voldaan is aan de informatieverplichting, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=8&z=2025-07-02&g=2025-07-02), kan de minister de specifieke uitkering geheel of gedeeltelijk terugvorderen.
 
 4. De minister stelt de specifieke uitkering uiterlijk vast op 31 december van het jaar waarin het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
-5. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01), of de op grond van artikel 6, tweede lid, verlengde termijn, is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
+5. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02), of de op grond van artikel 6, tweede lid, verlengde termijn, is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
 
 ##### Artikel 10. Inwerkingtreding en vervaldatum
 
@@ -605,9 +599,9 @@ Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de S
 
 ##### Artikel 4a. Ambtshalve toekenning
 
-1. Indien het college van een gemeente een aanvraag heeft gedaan op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), wordt een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de tweede kolom van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=II&z=2025-04-01&g=2025-04-01).
+1. Indien het college van een gemeente een aanvraag heeft gedaan op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), wordt een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de tweede kolom van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=II&z=2025-07-02&g=2025-07-02).
 
-2. Indien het college van een gemeente een aanvraag heeft gedaan op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), wordt aanvullend een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de derde kolom van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=II&z=2025-04-01&g=2025-04-01), naar rato van het aantal woningen waarvoor door die gemeente een aanvraag is gedaan op grond van artikel 3, eerste lid.
+2. Indien het college van een gemeente een aanvraag heeft gedaan op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), wordt aanvullend een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de derde kolom van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=II&z=2025-07-02&g=2025-07-02), naar rato van het aantal woningen waarvoor door die gemeente een aanvraag is gedaan op grond van artikel 3, eerste lid.
 
 ## Bijlage I. met de bedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01), en gemiddelde WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-04-01&g=2025-04-01)
 
@@ -958,7 +952,356 @@ Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de S
 
 *Voorne aan Zee is samengesteld uit de voormalige gemeente Brielle, Hellevoetsluis en Westvoorne. De gemiddelde WOZ waarde is gebaseerd op het gewogen gemiddelde van het aantal koopwoningen in deze voormalige gemeenten.
 
-## Bijlage II. Met de bedragen, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4a&z=2025-04-01&g=2025-04-01)
+## Bijlage I. met de bedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02), en gemiddelde WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02)
+
+| Naam gemeente | Bedrag dat vanuit de 100 miljoen extra middelen wordt uitgekeerd in 2023 | Bedrag dat maximaal in totaal wordt uitgekeerd in 2023 | Bedrag dat maximaal wordt uitgekeerd in 2024 | Totaal aantal woningen dat aangevraagd kan worden | Totaalbedrag dat aangevraagd kan worden | Gemiddelde WOZ-waarde koopwoningen 2024 (x € 1.000) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aa en Hunze | € 302.220 | € 699.340 | € 226.300 | 634 | € 925.640 | 396 |
+| Aalsmeer | € 122.640 | € 284.700 | € 91.980 | 258 | € 376.680 | 573 |
+| Aalten | € 316.820 | € 734.380 | € 237.980 | 666 | € 972.360 | 366 |
+| Achtkarspelen | € 369.380 | € 855.560 | € 277.400 | 776 | € 1.132.960 | 323 |
+| Alblasserdam | € 125.560 | € 290.540 | € 93.440 | 263 | € 383.980 | 408 |
+| Albrandswaard | € 67.160 | € 154.760 | € 49.640 | 140 | € 204.400 | 512 |
+| Alkmaar | € 670.140 | € 1.551.980 | € 502.240 | 1407 | € 2.054.220 | 427 |
+| Almelo | € 608.820 | € 1.410.360 | € 456.980 | 1279 | € 1.867.340 | 353 |
+| Almere | € 416.100 | € 965.060 | € 312.440 | 875 | € 1.277.500 | 424 |
+| Alphen aan den Rijn | € 490.560 | € 1.137.340 | € 367.920 | 1031 | € 1.505.260 | 438 |
+| Alphen-Chaam | € 77.380 | € 178.120 | € 58.400 | 162 | € 236.520 | 506 |
+| Altena | € 372.300 | € 862.860 | € 278.860 | 782 | € 1.141.720 | 449 |
+| Ameland | € 51.100 | € 118.260 | € 37.960 | 107 | € 156.220 | 400 |
+| Amersfoort | € 440.920 | € 1.022.000 | € 331.420 | 927 | € 1.353.420 | 504 |
+| Amstelveen | € 185.420 | € 429.240 | € 140.160 | 390 | € 569.400 | 684 |
+| Amsterdam | € 1.086.240 | € 2.606.100 | € 865.780 | 2378 | € 3.471.880 | 666 |
+| Apeldoorn | € 1.024.920 | € 2.372.500 | € 767.960 | 2151 | € 3.140.460 | 461 |
+| Arnhem | € 560.640 | € 1.297.940 | € 420.480 | 1177 | € 1.718.420 | 435 |
+| Assen | € 402.960 | € 934.400 | € 302.220 | 847 | € 1.236.620 | 340 |
+| Asten | € 118.260 | € 273.020 | € 87.600 | 247 | € 360.620 | 470 |
+| Baarle-Nassau | € 55.480 | € 127.020 | € 42.340 | 116 | € 169.360 | 460 |
+| Baarn | € 151.840 | € 351.860 | € 112.420 | 318 | € 464.280 | 603 |
+| Barendrecht | € 116.800 | € 270.100 | € 87.600 | 245 | € 357.700 | 486 |
+| Barneveld | € 256.960 | € 595.680 | € 192.720 | 540 | € 788.400 | 527 |
+| Beek | € 154.760 | € 359.160 | € 116.800 | 326 | € 475.960 | 340 |
+| Beekdaelen | € 410.260 | € 950.460 | € 308.060 | 862 | € 1.258.520 | 344 |
+| Beesel | € 129.940 | € 302.220 | € 97.820 | 274 | € 400.040 | 341 |
+| Berg en Dal | € 261.340 | € 604.440 | € 197.100 | 549 | € 801.540 | 435 |
+| Bergeijk | € 167.900 | € 389.820 | € 125.560 | 353 | € 515.380 | 520 |
+| Bergen (L.) | € 150.380 | € 347.480 | € 113.880 | 316 | € 461.360 | 372 |
+| Bergen (NH.) | € 243.820 | € 565.020 | € 183.960 | 513 | € 748.980 | 677 |
+| Bergen op Zoom | € 423.400 | € 979.660 | € 318.280 | 889 | € 1.297.940 | 370 |
+| Berkelland | € 432.160 | € 1.001.560 | € 324.120 | 908 | € 1.325.680 | 425 |
+| Bernheze | € 205.860 | € 477.420 | € 154.760 | 433 | € 632.180 | 523 |
+| Best | € 172.280 | € 398.580 | € 129.940 | 362 | € 528.520 | 484 |
+| Beuningen | € 166.440 | € 385.440 | € 124.100 | 349 | € 509.540 | 445 |
+| Beverwijk | € 217.540 | € 505.160 | € 163.520 | 458 | € 668.680 | 406 |
+| Bladel | € 169.360 | € 392.740 | € 127.020 | 356 | € 519.760 | 484 |
+| Blaricum | € 43.800 | € 102.200 | € 33.580 | 93 | € 135.780 | 1012 |
+| Bloemendaal | € 78.840 | € 182.500 | € 58.400 | 165 | € 240.900 | 1082 |
+| Bodegraven-Reeuwijk | € 197.100 | € 456.980 | € 147.460 | 414 | € 604.440 | 505 |
+| Boekel | € 89.060 | € 205.860 | € 67.160 | 187 | € 273.020 | 467 |
+| Borger-Odoorn | € 369.380 | € 855.560 | € 277.400 | 776 | € 1.132.960 | 342 |
+| Borne | € 162.060 | € 375.220 | € 121.180 | 340 | € 496.400 | 443 |
+| Borsele | € 226.300 | € 524.140 | € 169.360 | 475 | € 693.500 | 350 |
+| Boxtel | € 191.260 | € 442.380 | € 143.080 | 401 | € 585.460 | 458 |
+| Breda | € 838.040 | € 1.940.340 | € 627.800 | 1759 | € 2.568.140 | 493 |
+| Bronckhorst | € 341.640 | € 791.320 | € 256.960 | 718 | € 1.048.280 | 498 |
+| Brummen | € 167.900 | € 388.360 | € 125.560 | 352 | € 513.920 | 458 |
+| Brunssum | € 348.940 | € 807.380 | € 262.800 | 733 | € 1.070.180 | 259 |
+| Bunnik | € 74.460 | € 172.280 | € 55.480 | 156 | € 227.760 | 576 |
+| Bunschoten | € 141.620 | € 327.040 | € 106.580 | 297 | € 433.620 | 482 |
+| Buren | € 204.400 | € 473.040 | € 151.840 | 428 | € 624.880 | 492 |
+| Capelle aan den IJssel | € 172.280 | € 398.580 | € 129.940 | 362 | € 528.520 | 422 |
+| Castricum | € 259.880 | € 601.520 | € 195.640 | 546 | € 797.160 | 543 |
+| Coevorden | € 427.780 | € 991.340 | € 321.200 | 899 | € 1.312.540 | 346 |
+| Cranendonck | € 201.480 | € 465.740 | € 151.840 | 423 | € 617.580 | 422 |
+| Culemborg | € 129.940 | € 302.220 | € 97.820 | 274 | € 400.040 | 451 |
+| Dalfsen | € 224.840 | € 519.760 | € 169.360 | 472 | € 689.120 | 477 |
+| Dantumadiel | € 254.040 | € 589.840 | € 191.260 | 535 | € 781.100 | 373 |
+| De Bilt | € 186.880 | € 432.160 | € 140.160 | 392 | € 572.320 | 720 |
+| De Fryske Marren | € 567.940 | € 1.315.460 | € 426.320 | 1193 | € 1.741.780 | 390 |
+| De Ronde Venen | € 175.200 | € 405.880 | € 131.400 | 368 | € 537.280 | 593 |
+| De Wolden | € 237.980 | € 550.420 | € 178.120 | 499 | € 728.540 | 452 |
+| Delft | € 230.680 | € 534.360 | € 173.740 | 485 | € 708.100 | 469 |
+| Den Helder | € 440.920 | € 1.020.540 | € 329.960 | 925 | € 1.350.500 | 290 |
+| Deurne | € 227.760 | € 527.060 | € 170.820 | 478 | € 697.880 | 458 |
+| Deventer | € 588.380 | € 1.362.180 | € 440.920 | 1235 | € 1.803.100 | 423 |
+| Diemen | € 65.700 | € 151.840 | € 48.180 | 137 | € 200.020 | 540 |
+| Dijk en Waard | € 496.400 | € 1.149.020 | € 373.760 | 1043 | € 1.522.780 | 443 |
+| Dinkelland | € 267.180 | € 617.580 | € 200.020 | 560 | € 817.600 | 458 |
+| Doesburg | € 70.080 | € 163.520 | € 52.560 | 148 | € 216.080 | 371 |
+| Doetinchem | € 385.440 | € 892.060 | € 289.080 | 809 | € 1.181.140 | 385 |
+| Dongen | € 192.720 | € 445.300 | € 144.540 | 404 | € 589.840 | 397 |
+| Dordrecht | € 724.160 | € 1.676.080 | € 543.120 | 1520 | € 2.219.200 | 380 |
+| Drechterland | € 167.900 | € 388.360 | € 125.560 | 352 | € 513.920 | 468 |
+| Drimmelen | € 237.980 | € 550.420 | € 178.120 | 499 | € 728.540 | 462 |
+| Dronten | € 188.340 | € 436.540 | € 140.160 | 395 | € 576.700 | 404 |
+| Druten | € 110.960 | € 256.960 | € 83.220 | 233 | € 340.180 | 420 |
+| Duiven | € 129.940 | € 300.760 | € 96.360 | 272 | € 397.120 | 404 |
+| Echt-Susteren | € 362.080 | € 838.040 | € 271.560 | 760 | € 1.109.600 | 339 |
+| Edam-Volendam | € 267.180 | € 619.040 | € 201.480 | 562 | € 820.520 | 443 |
+| Ede | € 601.520 | € 1.394.300 | € 451.140 | 1264 | € 1.845.440 | 488 |
+| Eemnes | € 45.260 | € 105.120 | € 35.040 | 96 | € 140.160 | 590 |
+| Eemsdelta | € 588.380 | € 1.362.180 | € 440.920 | 1235 | € 1.803.100 | 272 |
+| Eersel | € 129.940 | € 302.220 | € 97.820 | 274 | € 400.040 | 547 |
+| Eijsden-Margraten | € 220.460 | € 511.000 | € 164.980 | 463 | € 675.980 | 423 |
+| Eindhoven | € 775.260 | € 1.795.800 | € 582.540 | 1629 | € 2.378.340 | 457 |
+| Elburg | € 164.980 | € 381.060 | € 124.100 | 346 | € 505.160 | 420 |
+| Emmen | € 1.273.120 | € 2.947.740 | € 954.840 | 2673 | € 3.902.580 | 301 |
+| Enkhuizen | € 140.160 | € 324.120 | € 105.120 | 294 | € 429.240 | 378 |
+| Enschede | € 1.179.680 | € 2.731.660 | € 884.760 | 2477 | € 3.616.420 | 381 |
+| Epe | € 255.500 | € 592.760 | € 191.260 | 537 | € 784.020 | 542 |
+| Ermelo | € 167.900 | € 389.820 | € 125.560 | 353 | € 515.380 | 525 |
+| Etten-Leur | € 235.060 | € 544.580 | € 176.660 | 494 | € 721.240 | 408 |
+| Geertruidenberg | € 141.620 | € 327.040 | € 106.580 | 297 | € 433.620 | 398 |
+| Geldrop-Mierlo | € 251.120 | € 581.080 | € 188.340 | 527 | € 769.420 | 457 |
+| Gemert-Bakel | € 230.680 | € 534.360 | € 173.740 | 485 | € 708.100 | 469 |
+| Gennep | € 138.700 | € 321.200 | € 103.660 | 291 | € 424.860 | 402 |
+| Gilze en Rijen | € 167.900 | € 389.820 | € 125.560 | 353 | € 515.380 | 422 |
+| Goeree-Overflakkee | € 332.880 | € 770.880 | € 249.660 | 699 | € 1.020.540 | 424 |
+| Goes | € 274.480 | € 635.100 | € 205.860 | 576 | € 840.960 | 387 |
+| Goirle | € 148.920 | € 344.560 | € 112.420 | 313 | € 456.980 | 487 |
+| Gooise Meren | € 292.000 | € 677.440 | € 219.000 | 614 | € 896.440 | 727 |
+| Gorinchem | € 122.640 | € 284.700 | € 91.980 | 258 | € 376.680 | 444 |
+| Gouda | € 359.160 | € 832.200 | € 268.640 | 754 | € 1.100.840 | 399 |
+| Groningen | € 840.960 | € 1.947.640 | € 632.180 | 1767 | € 2.579.820 | 405 |
+| Gulpen-Wittem | € 140.160 | € 324.120 | € 105.120 | 294 | € 429.240 | 385 |
+| Haaksbergen | € 213.160 | € 493.480 | € 159.140 | 447 | € 652.620 | 424 |
+| Haarlem | € 772.340 | € 1.788.500 | € 579.620 | 1622 | € 2.368.120 | 596 |
+| Haarlemmermeer | € 575.240 | € 1.331.520 | € 430.700 | 1207 | € 1.762.220 | 532 |
+| Halderberge | € 235.060 | € 544.580 | € 176.660 | 494 | € 721.240 | 418 |
+| Hardenberg | € 573.780 | € 1.328.600 | € 430.700 | 1205 | € 1.759.300 | 373 |
+| Harderwijk | € 202.940 | € 468.660 | € 153.300 | 426 | € 621.960 | 467 |
+| Hardinxveld-Giessendam | € 116.800 | € 270.100 | € 87.600 | 245 | € 357.700 | 417 |
+| Harlingen | € 143.080 | € 329.960 | € 108.040 | 300 | € 438.000 | 308 |
+| Hattem | € 99.280 | € 229.220 | € 75.920 | 209 | € 305.140 | 492 |
+| Heemskerk | € 192.720 | € 445.300 | € 144.540 | 404 | € 589.840 | 480 |
+| Heemstede | € 99.280 | € 229.220 | € 75.920 | 209 | € 305.140 | 813 |
+| Heerde | € 157.680 | € 365.000 | € 119.720 | 332 | € 484.720 | 493 |
+| Heerenveen | € 478.880 | € 1.109.600 | € 360.620 | 1007 | € 1.470.220 | 395 |
+| Heerlen | € 687.660 | € 1.591.400 | € 515.380 | 1443 | € 2.106.780 | 260 |
+| Heeze-Leende | € 102.200 | € 236.520 | € 75.920 | 214 | € 312.440 | 528 |
+| Heiloo | € 156.220 | € 362.080 | € 118.260 | 329 | € 480.340 | 586 |
+| Hellendoorn | € 354.780 | € 821.980 | € 267.180 | 746 | € 1.089.160 | 443 |
+| Helmond | € 436.540 | € 1.010.320 | € 328.500 | 917 | € 1.338.820 | 405 |
+| Hendrik-Ido-Ambacht | € 141.620 | € 327.040 | € 106.580 | 297 | € 433.620 | 463 |
+| Hengelo | € 605.900 | € 1.403.060 | € 455.520 | 1273 | € 1.858.580 | 377 |
+| Het Hogeland | € 678.900 | € 1.572.420 | € 509.540 | 1426 | € 2.081.960 | 304 |
+| Heumen | € 102.200 | € 236.520 | € 75.920 | 214 | € 312.440 | 470 |
+| Heusden | € 275.940 | € 638.020 | € 207.320 | 579 | € 845.340 | 477 |
+| Hillegom | € 137.240 | € 318.280 | € 102.200 | 288 | € 420.480 | 472 |
+| Hilvarenbeek | € 105.120 | € 243.820 | € 80.300 | 222 | € 324.120 | 525 |
+| Hilversum | € 473.040 | € 1.095.000 | € 354.780 | 993 | € 1.449.780 | 597 |
+| Hoeksche Waard | € 592.760 | € 1.372.400 | € 445.300 | 1245 | € 1.817.700 | 429 |
+| Hof van Twente | € 299.300 | € 693.500 | € 223.380 | 628 | € 916.880 | 412 |
+| Hollands Kroon | € 443.840 | € 1.027.840 | € 334.340 | 933 | € 1.362.180 | 401 |
+| Hoogeveen | € 480.340 | € 1.112.520 | € 360.620 | 1009 | € 1.473.140 | 328 |
+| Hoorn | € 309.520 | € 716.860 | € 232.140 | 650 | € 949.000 | 412 |
+| Horst aan de Maas | € 381.060 | € 883.300 | € 286.160 | 801 | € 1.169.460 | 375 |
+| Houten | € 77.380 | € 178.120 | € 58.400 | 162 | € 236.520 | 570 |
+| Huizen | € 160.600 | € 372.300 | € 119.720 | 337 | € 492.020 | 567 |
+| Hulst | € 318.280 | € 737.300 | € 239.440 | 669 | € 976.740 | 331 |
+| IJsselstein | € 109.500 | € 254.040 | € 81.760 | 230 | € 335.800 | 496 |
+| Kaag en Braassem | € 125.560 | € 290.540 | € 93.440 | 263 | € 383.980 | 530 |
+| Kampen | € 378.140 | € 874.540 | € 283.240 | 793 | € 1.157.780 | 398 |
+| Kapelle | € 110.960 | € 256.960 | € 83.220 | 233 | € 340.180 | 388 |
+| Katwijk | € 249.660 | € 578.160 | € 186.880 | 524 | € 765.040 | 507 |
+| Kerkrade | € 383.980 | € 889.140 | € 289.080 | 807 | € 1.178.220 | 247 |
+| Koggenland | € 185.420 | € 429.240 | € 140.160 | 390 | € 569.400 | 437 |
+| Krimpen aan den IJssel | € 137.240 | € 318.280 | € 102.200 | 288 | € 420.480 | 437 |
+| Krimpenerwaard | € 344.560 | € 798.620 | € 258.420 | 724 | € 1.057.040 | 467 |
+| Laarbeek | € 194.180 | € 449.680 | € 146.000 | 408 | € 595.680 | 474 |
+| Land van Cuijk | € 712.480 | € 1.649.800 | € 534.360 | 1496 | € 2.184.160 | 426 |
+| Landgraaf | € 395.660 | € 916.880 | € 296.380 | 831 | € 1.213.260 | 289 |
+| Landsmeer | € 56.940 | € 132.860 | € 42.340 | 120 | € 175.200 | 666 |
+| Lansingerland | € 192.720 | € 446.760 | € 146.000 | 406 | € 592.760 | 550 |
+| Laren | € 65.700 | € 151.840 | € 48.180 | 137 | € 200.020 | 1054 |
+| Leeuwarden | € 1.087.700 | € 2.519.960 | € 816.140 | 2285 | € 3.336.100 | 324 |
+| Leiden | € 376.680 | € 871.620 | € 281.780 | 790 | € 1.153.400 | 522 |
+| Leiderdorp | € 97.820 | € 226.300 | € 74.460 | 206 | € 300.760 | 489 |
+| Leidschendam-Voorburg | € 303.680 | € 703.720 | € 229.220 | 639 | € 932.940 | 478 |
+| Lelystad | € 340.180 | € 786.940 | € 255.500 | 714 | € 1.042.440 | 398 |
+| Leudal | € 424.860 | € 984.040 | € 318.280 | 892 | € 1.302.320 | 370 |
+| Leusden | € 121.180 | € 280.320 | € 91.980 | 255 | € 372.300 | 513 |
+| Lingewaard | € 328.500 | € 760.660 | € 245.280 | 689 | € 1.005.940 | 445 |
+| Lisse | € 115.340 | € 267.180 | € 86.140 | 242 | € 353.320 | 474 |
+| Lochem | € 278.860 | € 645.320 | € 208.780 | 585 | € 854.100 | 539 |
+| Loon op Zand | € 138.700 | € 321.200 | € 103.660 | 291 | € 424.860 | 441 |
+| Lopik | € 93.440 | € 217.540 | € 70.080 | 197 | € 287.620 | 500 |
+| Losser | € 230.680 | € 534.360 | € 173.740 | 485 | € 708.100 | 416 |
+| Maasdriel | € 186.880 | € 432.160 | € 140.160 | 392 | € 572.320 | 468 |
+| Maasgouw | € 273.020 | € 632.180 | € 204.400 | 573 | € 836.580 | 351 |
+| Maashorst | € 346.020 | € 801.540 | € 259.880 | 727 | € 1.061.420 | 476 |
+| Maassluis | € 108.040 | € 251.120 | € 80.300 | 227 | € 331.420 | 393 |
+| Maastricht | € 433.620 | € 1.004.480 | € 325.580 | 911 | € 1.330.060 | 411 |
+| Medemblik | € 376.680 | € 871.620 | € 281.780 | 790 | € 1.153.400 | 438 |
+| Meerssen | € 200.020 | € 462.820 | € 150.380 | 420 | € 613.200 | 391 |
+| Meierijstad | € 503.700 | € 1.166.540 | € 379.600 | 1059 | € 1.546.140 | 481 |
+| Meppel | € 242.360 | € 562.100 | € 182.500 | 510 | € 744.600 | 368 |
+| Middelburg | € 391.280 | € 906.660 | € 294.920 | 823 | € 1.201.580 | 353 |
+| Midden-Delfland | € 65.700 | € 151.840 | € 48.180 | 137 | € 200.020 | 538 |
+| Midden-Drenthe | € 343.100 | € 795.700 | € 256.960 | 721 | € 1.052.660 | 378 |
+| Midden-Groningen | € 763.580 | € 1.769.520 | € 573.780 | 1605 | € 2.343.300 | 326 |
+| Moerdijk | € 277.400 | € 642.400 | € 207.320 | 582 | € 849.720 | 401 |
+| Molenlanden | € 268.640 | € 623.420 | € 201.480 | 565 | € 824.900 | 477 |
+| Montferland | € 334.340 | € 773.800 | € 251.120 | 702 | € 1.024.920 | 345 |
+| Montfoort | € 87.600 | € 202.940 | € 65.700 | 184 | € 268.640 | 501 |
+| Mook en Middelaar | € 51.100 | € 118.260 | € 37.960 | 107 | € 156.220 | 480 |
+| Neder-Betuwe | € 147.460 | € 341.640 | € 110.960 | 310 | € 452.600 | 422 |
+| Nederweert | € 127.020 | € 293.460 | € 94.900 | 266 | € 388.360 | 427 |
+| Nieuwegein | € 208.780 | € 483.260 | € 157.680 | 439 | € 640.940 | 410 |
+| Nieuwkoop | € 154.760 | € 359.160 | € 116.800 | 326 | € 475.960 | 531 |
+| Nijkerk | € 220.460 | € 511.000 | € 164.980 | 463 | € 675.980 | 527 |
+| Nijmegen | € 589.840 | € 1.365.100 | € 442.380 | 1238 | € 1.807.480 | 475 |
+| Nissewaard | € 391.280 | € 906.660 | € 294.920 | 823 | € 1.201.580 | 336 |
+| Noardeast-Fryslân | € 665.760 | € 1.541.760 | € 500.780 | 1399 | € 2.042.540 | 326 |
+| Noord-Beveland | € 112.420 | € 259.880 | € 84.680 | 236 | € 344.560 | 326 |
+| Noordenveld | € 332.880 | € 770.880 | € 249.660 | 699 | € 1.020.540 | 415 |
+| Noordoostpolder | € 321.200 | € 744.600 | € 240.900 | 675 | € 985.500 | 381 |
+| Noordwijk | € 217.540 | € 502.240 | € 163.520 | 456 | € 665.760 | 579 |
+| Nuenen, Gerwen en Nederwetten | € 125.560 | € 290.540 | € 93.440 | 263 | € 383.980 | 556 |
+| Nunspeet | € 185.420 | € 429.240 | € 140.160 | 390 | € 569.400 | 496 |
+| Oegstgeest | € 75.920 | € 175.200 | € 56.940 | 159 | € 232.140 | 649 |
+| Oirschot | € 154.760 | € 357.700 | € 115.340 | 324 | € 473.040 | 551 |
+| Oisterwijk | € 198.560 | € 459.900 | € 148.920 | 417 | € 608.820 | 571 |
+| Oldambt | € 592.760 | € 1.372.400 | € 445.300 | 1245 | € 1.817.700 | 307 |
+| Oldebroek | € 134.320 | € 310.980 | € 100.740 | 282 | € 411.720 | 424 |
+| Oldenzaal | € 229.220 | € 531.440 | € 172.280 | 482 | € 703.720 | 420 |
+| Olst-Wijhe | € 138.700 | € 321.200 | € 103.660 | 291 | € 424.860 | 451 |
+| Ommen | € 151.840 | € 351.860 | € 112.420 | 318 | € 464.280 | 464 |
+| Oost Gelre | € 296.380 | € 686.200 | € 223.380 | 623 | € 909.580 | 340 |
+| Oosterhout | € 297.840 | € 689.120 | € 224.840 | 626 | € 913.960 | 430 |
+| Ooststellingwerf | € 341.640 | € 789.860 | € 256.960 | 717 | € 1.046.820 | 361 |
+| Oostzaan | € 55.480 | € 127.020 | € 42.340 | 116 | € 169.360 | 568 |
+| Opmeer | € 97.820 | € 226.300 | € 74.460 | 206 | € 300.760 | 424 |
+| Opsterland | € 341.640 | € 789.860 | € 256.960 | 717 | € 1.046.820 | 381 |
+| Oss | € 553.340 | € 1.281.880 | € 416.100 | 1163 | € 1.697.980 | 434 |
+| Oude IJsselstreek | € 420.480 | € 973.820 | € 315.360 | 883 | € 1.289.180 | 378 |
+| Ouder-Amstel | € 30.660 | € 71.540 | € 24.820 | 66 | € 96.360 | 682 |
+| Oudewater | € 55.480 | € 129.940 | € 42.340 | 118 | € 172.280 | 476 |
+| Overbetuwe | € 283.240 | € 655.540 | € 213.160 | 595 | € 868.700 | 465 |
+| Papendrecht | € 170.820 | € 395.660 | € 128.480 | 359 | € 524.140 | 399 |
+| Peel en Maas | € 354.780 | € 821.980 | € 267.180 | 746 | € 1.089.160 | 398 |
+| Pekela | € 214.620 | € 496.400 | € 160.600 | 450 | € 657.000 | 235 |
+| Pijnacker-Nootdorp | € 140.160 | € 324.120 | € 105.120 | 294 | € 429.240 | 559 |
+| Purmerend | € 383.980 | € 889.140 | € 289.080 | 807 | € 1.178.220 | 458 |
+| Putten | € 157.680 | € 365.000 | € 119.720 | 332 | € 484.720 | 568 |
+| Raalte | € 267.180 | € 617.580 | € 200.020 | 560 | € 817.600 | 444 |
+| Reimerswaal | € 229.220 | € 529.980 | € 172.280 | 481 | € 702.260 | 334 |
+| Renkum | € 110.960 | € 256.960 | € 83.220 | 233 | € 340.180 | 496 |
+| Renswoude | € 24.820 | € 56.940 | € 18.980 | 52 | € 75.920 | 574 |
+| Reusel-De Mierden | € 110.960 | € 256.960 | € 83.220 | 233 | € 340.180 | 486 |
+| Rheden | € 347.480 | € 804.460 | € 261.340 | 730 | € 1.065.800 | 440 |
+| Rhenen | € 118.260 | € 274.480 | € 89.060 | 249 | € 363.540 | 517 |
+| Ridderkerk | € 243.820 | € 565.020 | € 183.960 | 513 | € 748.980 | 395 |
+| Rijssen-Holten | € 273.020 | € 632.180 | € 204.400 | 573 | € 836.580 | 434 |
+| Rijswijk | € 153.300 | € 354.780 | € 113.880 | 321 | € 468.660 | 458 |
+| Roerdalen | € 267.180 | € 617.580 | € 200.020 | 560 | € 817.600 | 334 |
+| Roermond | € 385.440 | € 892.060 | € 289.080 | 809 | € 1.181.140 | 358 |
+| Roosendaal | € 543.120 | € 1.258.520 | € 407.340 | 1141 | € 1.665.860 | 359 |
+| Rotterdam | € 1.703.820 | € 3.944.920 | € 1.278.960 | 3578 | € 5.223.880 | 441 |
+| Rozendaal | € 5.840 | € 14.600 | € 5.840 | 14 | € 20.440 | 806 |
+| Rucphen | € 216.080 | € 499.320 | € 162.060 | 453 | € 661.380 | 426 |
+| Schagen | € 375.220 | € 868.700 | € 281.780 | 788 | € 1.150.480 | 402 |
+| Scherpenzeel | € 89.060 | € 205.860 | € 67.160 | 187 | € 273.020 | 461 |
+| Schiedam | € 303.680 | € 703.720 | € 229.220 | 639 | € 932.940 | 370 |
+| Schiermonnikoog | € 11.680 | € 27.740 | € 8.760 | 25 | € 36.500 | 474 |
+| Schouwen-Duiveland | € 350.400 | € 811.760 | € 261.340 | 735 | € 1.073.100 | 442 |
+| 's-Gravenhage | € 1.746.160 | € 4.044.200 | € 1.311.080 | 3668 | € 5.355.280 | 491 |
+| 's-Hertogenbosch | € 565.020 | € 1.308.160 | € 423.400 | 1186 | € 1.731.560 | 498 |
+| Simpelveld | € 108.040 | € 251.120 | € 80.300 | 227 | € 331.420 | 304 |
+| Sint-Michielsgestel | € 223.380 | € 516.840 | € 167.900 | 469 | € 684.740 | 520 |
+| Sittard-Geleen | € 871.620 | € 2.017.720 | € 654.080 | 1830 | € 2.671.800 | 307 |
+| Sliedrecht | € 143.080 | € 329.960 | € 108.040 | 300 | € 438.000 | 377 |
+| Sluis | € 278.860 | € 646.780 | € 210.240 | 587 | € 857.020 | 356 |
+| Smallingerland | € 465.740 | € 1.077.480 | € 348.940 | 977 | € 1.426.420 | 350 |
+| Soest | € 217.540 | € 505.160 | € 163.520 | 458 | € 668.680 | 552 |
+| Someren | € 134.320 | € 310.980 | € 100.740 | 282 | € 411.720 | 465 |
+| Son en Breugel | € 84.680 | € 197.100 | € 62.780 | 178 | € 259.880 | 544 |
+| Stadskanaal | € 446.760 | € 1.035.140 | € 334.340 | 938 | € 1.369.480 | 313 |
+| Staphorst | € 103.660 | € 239.440 | € 77.380 | 217 | € 316.820 | 392 |
+| Stede Broec | € 181.040 | € 420.480 | € 135.780 | 381 | € 556.260 | 404 |
+| Steenbergen | € 204.400 | € 473.040 | € 151.840 | 428 | € 624.880 | 390 |
+| Steenwijkerland | € 442.380 | € 1.024.920 | € 332.880 | 930 | € 1.357.800 | 381 |
+| Stein | € 318.280 | € 737.300 | € 239.440 | 669 | € 976.740 | 325 |
+| Stichtse Vecht | € 283.240 | € 655.540 | € 213.160 | 595 | € 868.700 | 534 |
+| Súdwest-Fryslân | € 963.600 | € 2.232.340 | € 722.700 | 2024 | € 2.955.040 | 353 |
+| Terneuzen | € 601.520 | € 1.392.840 | € 449.680 | 1262 | € 1.842.520 | 283 |
+| Terschelling | € 45.260 | € 105.120 | € 35.040 | 96 | € 140.160 | 491 |
+| Texel | € 156.220 | € 362.080 | € 118.260 | 329 | € 480.340 | 451 |
+| Teylingen | € 159.140 | € 369.380 | € 119.720 | 335 | € 489.100 | 535 |
+| Tholen | € 259.880 | € 601.520 | € 195.640 | 546 | € 797.160 | 322 |
+| Tiel | € 220.460 | € 511.000 | € 164.980 | 463 | € 675.980 | 416 |
+| Tilburg | € 1.036.600 | € 2.400.240 | € 776.720 | 2176 | € 3.176.960 | 412 |
+| Tubbergen | € 160.600 | € 372.300 | € 119.720 | 337 | € 492.020 | 476 |
+| Twenterand | € 312.440 | € 722.700 | € 235.060 | 656 | € 957.760 | 392 |
+| Tynaarlo | € 324.120 | € 750.440 | € 243.820 | 681 | € 994.260 | 459 |
+| Tytsjerksteradiel | € 440.920 | € 1.020.540 | € 329.960 | 925 | € 1.350.500 | 335 |
+| Uitgeest | € 74.460 | € 172.280 | € 55.480 | 156 | € 227.760 | 496 |
+| Uithoorn | € 100.740 | € 233.600 | € 74.460 | 211 | € 308.060 | 497 |
+| Urk | € 118.260 | € 274.480 | € 89.060 | 249 | € 363.540 | 370 |
+| Utrecht | € 763.580 | € 1.769.520 | € 573.780 | 1605 | € 2.343.300 | 563 |
+| Utrechtse Heuvelrug | € 254.040 | € 589.840 | € 191.260 | 535 | € 781.100 | 602 |
+| Vaals | € 75.920 | € 175.200 | € 56.940 | 159 | € 232.140 | 321 |
+| Valkenburg aan de Geul | € 141.620 | € 327.040 | € 106.580 | 297 | € 433.620 | 387 |
+| Valkenswaard | € 192.720 | € 446.760 | € 146.000 | 406 | € 592.760 | 456 |
+| Veendam | € 385.440 | € 892.060 | € 289.080 | 809 | € 1.181.140 | 268 |
+| Veenendaal | € 245.280 | € 567.940 | € 185.420 | 516 | € 753.360 | 468 |
+| Veere | € 252.580 | € 584.000 | € 189.800 | 530 | € 773.800 | 465 |
+| Veldhoven | € 245.280 | € 567.940 | € 185.420 | 516 | € 753.360 | 531 |
+| Velsen | € 341.640 | € 789.860 | € 256.960 | 717 | € 1.046.820 | 492 |
+| Venlo | € 779.640 | € 1.806.020 | € 585.460 | 1638 | € 2.391.480 | 348 |
+| Venray | € 293.460 | € 680.360 | € 220.460 | 617 | € 900.820 | 380 |
+| Vijfheerenlanden | € 303.680 | € 702.260 | € 227.760 | 637 | € 930.020 | 458 |
+| Vlaardingen | € 316.820 | € 734.380 | € 237.980 | 666 | € 972.360 | 367 |
+| Vlieland | € 5.840 | € 13.140 | € 4.380 | 12 | € 17.520 | 505 |
+| Vlissingen | € 363.540 | € 840.960 | € 273.020 | 763 | € 1.113.980 | 305 |
+| Voerendaal | € 119.720 | € 277.400 | € 90.520 | 252 | € 367.920 | 370 |
+| Voorne aan Zee | € 367.920 | € 852.640 | € 275.940 | 773 | € 1.128.580 | 447 |
+| Voorschoten | € 93.440 | € 217.540 | € 70.080 | 197 | € 287.620 | 596 |
+| Voorst | € 189.800 | € 439.460 | € 141.620 | 398 | € 581.080 | 527 |
+| Vught | € 140.160 | € 324.120 | € 105.120 | 294 | € 429.240 | 636 |
+| Waadhoeke | € 626.340 | € 1.451.240 | € 470.120 | 1316 | € 1.921.360 | 296 |
+| Waalre | € 110.960 | € 256.960 | € 83.220 | 233 | € 340.180 | 583 |
+| Waalwijk | € 353.320 | € 819.060 | € 265.720 | 743 | € 1.084.780 | 414 |
+| Waddinxveen | € 138.700 | € 321.200 | € 103.660 | 291 | € 424.860 | 452 |
+| Wageningen | € 93.440 | € 217.540 | € 70.080 | 197 | € 287.620 | 519 |
+| Wassenaar | € 78.840 | € 182.500 | € 58.400 | 165 | € 240.900 | 916 |
+| Waterland | € 115.340 | € 267.180 | € 86.140 | 242 | € 353.320 | 530 |
+| Weert | € 433.620 | € 1.004.480 | € 325.580 | 911 | € 1.330.060 | 387 |
+| West Betuwe | € 348.940 | € 807.380 | € 262.800 | 733 | € 1.070.180 | 487 |
+| West Maas en Waal | € 162.060 | € 375.220 | € 121.180 | 340 | € 496.400 | 452 |
+| Westerkwartier | € 708.100 | € 1.639.580 | € 531.440 | 1487 | € 2.171.020 | 345 |
+| Westerveld | € 217.540 | € 502.240 | € 163.520 | 456 | € 665.760 | 437 |
+| Westervoort | € 73.000 | € 169.360 | € 55.480 | 154 | € 224.840 | 373 |
+| Westerwolde | € 442.380 | € 1.024.920 | € 332.880 | 930 | € 1.357.800 | 333 |
+| Westland | € 500.780 | € 1.159.240 | € 375.220 | 1051 | € 1.534.460 | 506 |
+| Weststellingwerf | € 312.440 | € 722.700 | € 235.060 | 656 | € 957.760 | 367 |
+| Wierden | € 207.320 | € 480.340 | € 156.220 | 436 | € 636.560 | 466 |
+| Wijchen | € 254.040 | € 589.840 | € 191.260 | 535 | € 781.100 | 425 |
+| Wijdemeren | € 154.760 | € 359.160 | € 116.800 | 326 | € 475.960 | 641 |
+| Wijk bij Duurstede | € 96.360 | € 223.380 | € 73.000 | 203 | € 296.380 | 489 |
+| Winterswijk | € 316.820 | € 734.380 | € 237.980 | 666 | € 972.360 | 342 |
+| Woensdrecht | € 219.000 | € 508.080 | € 164.980 | 461 | € 673.060 | 381 |
+| Woerden | € 224.840 | € 519.760 | € 169.360 | 472 | € 689.120 | 486 |
+| Wormerland | € 105.120 | € 242.360 | € 78.840 | 220 | € 321.200 | 496 |
+| Woudenberg | € 74.460 | € 172.280 | € 55.480 | 156 | € 227.760 | 546 |
+| Zaanstad | € 842.420 | € 1.950.560 | € 632.180 | 1769 | € 2.582.740 | 459 |
+| Zaltbommel | € 175.200 | € 405.880 | € 131.400 | 368 | € 537.280 | 435 |
+| Zandvoort | € 93.440 | € 217.540 | € 70.080 | 197 | € 287.620 | 579 |
+| Zeewolde | € 43.800 | € 100.740 | € 32.120 | 91 | € 132.860 | 468 |
+| Zeist | € 210.240 | € 487.640 | € 157.680 | 442 | € 645.320 | 700 |
+| Zevenaar | € 421.940 | € 976.740 | € 316.820 | 886 | € 1.293.560 | 376 |
+| Zoetermeer | € 299.300 | € 693.500 | € 223.380 | 628 | € 916.880 | 429 |
+| Zoeterwoude | € 48.180 | € 112.420 | € 36.500 | 102 | € 148.920 | 524 |
+| Zuidplas | € 176.660 | € 408.800 | € 132.860 | 371 | € 541.660 | 502 |
+| Zundert | € 192.720 | € 445.300 | € 144.540 | 404 | € 589.840 | 472 |
+| Zutphen | € 305.140 | € 706.640 | € 230.680 | 642 | € 937.320 | 396 |
+| Zwartewaterland | € 162.060 | € 375.220 | € 121.180 | 340 | € 496.400 | 357 |
+| Zwijndrecht | € 254.040 | € 586.920 | € 191.260 | 533 | € 778.180 | 385 |
+| Zwolle | € 484.720 | € 1.122.740 | € 363.540 | 1018 | € 1.486.280 | 443 |
+
+*Voorne aan Zee is samengesteld uit de voormalige gemeente Brielle, Hellevoetsluis en Westvoorne. De gemiddelde WOZ waarde is gebaseerd op het gewogen gemiddelde van het aantal koopwoningen in deze voormalige gemeenten.
+
+## Bijlage II. Met de bedragen, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4a&z=2025-07-02&g=2025-07-02)
 
 | Naam gemeente | Middelen die worden uitgekeerd in aanvulling op middelen uit 2022 | Middelen die aanvullend worden uitgekeerd voor tranche 1 |
 | --- | --- | --- |
@@ -1305,7 +1648,9 @@ Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de S
 | Zwijndrecht | € 11.964 | € 175.890 |
 | Zwolle | € 22.880 | € 335.940 |
 
-## Bijlage III. bij [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-04-01&g=2025-04-01), van de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 februari 2023, nr. 2022-0000430533 houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners, verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma
+Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
+
+## Bijlage III. bij [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), van de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 februari 2023, nr. 2022-0000430533 houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners, verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma
 
 | 1. Naam gemeente | 2. Totaal aantal woningen dat aangevraagd kan worden | 3. Bedrag dat uitgekeerd wordt naar rato van het aantal aangevraagde woningen | 4. Middelen die worden uitgekeerd in aanvulling op middelen uit 2022 | 5. Middelen specifiek bedoeld voor DHZ |
 | --- | --- | --- | --- | --- |
@@ -1653,6 +1998,10 @@ Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de S
 | Zwolle | 1366 | € 2.804.639 | € 31.455 | € 123.565 |
 
 Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
+
+##### Artikel 9a
+
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering Lokale Aanpak Isolatie.
 
 ## Bijlage IV
 
