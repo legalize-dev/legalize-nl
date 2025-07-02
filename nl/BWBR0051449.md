@@ -4,7 +4,7 @@ identifier: "BWBR0051449"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-03"
-last_updated: "2025-07-01"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051449"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 - q. de dienst Nationaal Coördinator Groningen (NCG).
 
-2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-09-03&g=2025-07-01).
+2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2026-03-03&g=2025-07-02).
 
 3. De secretaris-generaal geeft hiërarchisch leiding aan de leidinggevende functionarissen van de dienstonderdelen genoemd in het eerste lid.
 
@@ -236,7 +236,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Constitutionele Zaken en Wetgeving staat onder leiding van een directeur.
 
-2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-09-03&g=2025-07-01) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
+2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2026-03-03&g=2025-07-02) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
 
 - a. het beheer en onderhoud van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -818,7 +818,7 @@ In dit besluit wordt verstaan onder:
 
 - f. de regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2025-09-03&g=2025-07-01), betreft;
+- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2025-07-02), betreft;
 
 - h. de directie Bestuur, Financiën en Regio’s.
 
@@ -828,7 +828,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het cluster Bestuursondersteuning;
 
-- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2025-09-03&g=2025-07-01).
+- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2025-07-02).
 
 ### Hoofdstuk 4. Overige bepalingen
 
