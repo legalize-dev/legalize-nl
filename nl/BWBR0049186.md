@@ -4,7 +4,7 @@ identifier: "BWBR0049186"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-03"
-last_updated: "2024-06-15"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049186"
 soort: "ministeriele-regeling"
@@ -114,7 +114,13 @@ met dien verstande dat de aanwijzing, bedoeld in de aanhef en onder b tot en met
 
 - b. het Staatstoezicht op de Mijnen, voor zover het betreft mijnbouwwerken en pijpleidingen.
 
-8. Als personen belast met het toezicht op de naleving van gedoogplichten, bedoeld in de [artikelen 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.2) en [10.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.3), worden ook aangewezen diegenen die werkzaam zijn voor de gemeente Amsterdam bij de Nautische Sector van Haven Amsterdam en diegenen die werkzaam zijn bij het Havenbedrijf Rotterdam N.V., Divisie Havenmeester, te Rotterdam.
+8. Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) van die wet de bestuursrechtelijke handhavingstaak berust bij de Minister van Infrastructuur en Waterstaat, worden ook aangewezen diegenen die werkzaam zijn bij het Havenbedrijf Amsterdam N.V., Divisie Havenmeester, te Amsterdam en diegenen die werkzaam zijn bij het Havenbedrijf Rotterdam N.V., Divisie Havenmeester, te Rotterdam, ten aanzien van:
+
+- a. lozingsactiviteiten op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in de [hoofdstukken 2 tot en met 5 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=2);
+
+- b. lozingsactiviteiten op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [hoofdstuk 17 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=17); en
+
+- c. gedoogplichten, bedoeld in de [artikelen 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.2) en [10.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.3).
 
 #### § 1.3a. Minister voor Klimaat en Energie
 
@@ -154,19 +160,19 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 ##### Artikel 7
 
-De personen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.3&artikel=3&z=2024-06-15&g=2024-06-15), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, c en d, en tweede lid, aanhef en onder b tot en met f, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), voor zover deze activiteiten betrekking hebben op gevaarlijke stoffen.
+De personen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.3&artikel=3&z=2025-07-03&g=2025-07-03), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, c en d, en tweede lid, aanhef en onder b tot en met f, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), voor zover deze activiteiten betrekking hebben op gevaarlijke stoffen.
 
 #### § 2.1. Minister van Infrastructuur en Waterstaat
 
 ##### Artikel 8
 
-De personen, bedoeld in [artikel 5, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.5&artikel=5&z=2024-06-15&g=2024-06-15), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in de [artikelen 11.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.32), [11.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.38), [11.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), [11.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), [11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96), [11.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101), [11.102](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102), [11.105](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.105), [11.106](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.106), [11.108](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.108), [11.109a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.109a) en [11.110 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.110).
+De personen, bedoeld in [artikel 5, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.5&artikel=5&z=2025-07-03&g=2025-07-03), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in de [artikelen 11.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.32), [11.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.38), [11.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), [11.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), [11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96), [11.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101), [11.102](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102), [11.105](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.105), [11.106](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.106), [11.108](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.108), [11.109a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.109a) en [11.110 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.110).
 
 #### § 2.2. Minister voor Natuur en Stikstof
 
 ##### Artikel 9
 
-De personen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.6&artikel=6&z=2024-06-15&g=2024-06-15), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van:
+De personen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.6&artikel=6&z=2025-07-03&g=2025-07-03), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van:
 
 - a. de activiteiten, bedoeld in de [artikelen 5.1, eerste lid, aanhef en onder b,](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1)[5.5, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5), [10.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.19), en de [artikelen 19.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.4), [19.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.5), [19.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.7) en [19.9 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.9); en
 
