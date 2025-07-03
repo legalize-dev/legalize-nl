@@ -4,7 +4,7 @@ identifier: "BWBR0050754"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-22"
-last_updated: "2025-02-11"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050754"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** de Adviescommissie Centraal Mediatorsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-02-11&g=2025-02-11);
+- **commissie:** de Adviescommissie Centraal Mediatorsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-03);
 
-- **kwartiermaker:** de Kwartiermaker Centraal Mediatorsregister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=3&z=2025-02-11&g=2025-02-11);
+- **kwartiermaker:** de Kwartiermaker Centraal Mediatorsregister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=3&z=2025-07-22&g=2025-07-03);
 
 - **minister:** Minister van Justitie en Veiligheid.
 
@@ -104,11 +104,11 @@ In deze regeling wordt verstaan onder:
 
 1. De commissie stelt haar eigen werkwijze vast.
 
-2. De commissie verantwoordt haar werkwijze in het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-02-11&g=2025-02-11).
+2. De commissie verantwoordt haar werkwijze in het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-03).
 
 ##### Artikel 5. - Inlichtingen
 
-1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de totstandkoming van het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-02-11&g=2025-02-11).
+1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de totstandkoming van het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-03).
 
 2. Het Ministerie van Justitie en Veiligheid verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij redelijkerwijs en voor zover dit in overeenstemming is met de relevante internationale, Europese en nationale wettelijke kaders nodig heeft voor het uitvoeren van haar taak.
 
@@ -136,7 +136,7 @@ De kwartiermaker voorziet in het secretariaat en wordt daarbij bijgestaan door d
 
 ##### Artikel 9. - Eindverslag
 
-1. De commissie brengt uiterlijk op 4 juli 2025 het eindverslag uit, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-02-11&g=2025-02-11).
+1. De commissie brengt uiterlijk op 4 juli 2025 het eindverslag uit, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-03).
 
 2. De commissie kan tussentijds verslag uitbrengen.
 
@@ -148,7 +148,7 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 
 1. De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Justitie en Veiligheid.
 
-2. De bescheiden zoals bedoeld in het eerste lid bevatten tenminste de documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-02-11&g=2025-02-11).
+2. De bescheiden zoals bedoeld in het eerste lid bevatten tenminste de documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-03).
 
 ##### Artikel 12. - Inwerkingtreding
 
