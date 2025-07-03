@@ -4,7 +4,7 @@ identifier: "BWBV0001441"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001441"
 soort: "verdrag"
@@ -75,7 +75,7 @@ In dit Verdrag wordt verstaan onder:
 
 - e). „overig scheepsbedrijfsafval”: huishoudelijk afvalwater, huisvuil, zuiveringsslib, slops en klein gevaarlijk afval, bedoeld in Deel C van de Uitvoeringsregeling;
 
-- f. „afval van de lading”: afval en afvalwater, dat in verband met de lading aan boord van het schip ontstaat. Hiertoe behoren niet de restlading, dampen en overslagresten, bedoeld in [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-01-01&g=2025-01-01);
+- f. „afval van de lading”: afval en afvalwater, dat in verband met de lading aan boord van het schip ontstaat. Hiertoe behoren niet de restlading, dampen en overslagresten, bedoeld in [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-07-03&g=2025-07-03);
 
 - ff. „dampen”: gasvormige uit vloeibare lading vervluchtigende verbindingen (gasvormige restanten van vloeibare lading);
 
@@ -115,11 +115,11 @@ Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen.
 
 ##### Artikel 3. Verbod tot inbrengen, lozen en uitstoten
 
-1. Het is verboden scheepsafval en delen van de lading vanaf schepen in de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=1&z=2025-01-01&g=2025-01-01) genoemde vaarwegen te brengen of te lozen, alsook dampen op de in Bijlage 1 genoemde vaarwegen in de atmosfeer uit te stoten.
+1. Het is verboden scheepsafval en delen van de lading vanaf schepen in de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=1&z=2025-07-03&g=2025-07-03) genoemde vaarwegen te brengen of te lozen, alsook dampen op de in Bijlage 1 genoemde vaarwegen in de atmosfeer uit te stoten.
 
 2. De Verdragsluitende Staten dragen er zorg voor dat het in het eerste lid genoemde verbod wordt nageleefd.
 
-3. Uitzonderingen op dit verbod zijn slechts toegestaan in overeenstemming met [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2025-01-01&g=2025-01-01) en de daarbijbehorende aanhangsels, hierna te noemen de „Uitvoeringsregeling”.
+3. Uitzonderingen op dit verbod zijn slechts toegestaan in overeenstemming met [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2025-07-03&g=2025-07-03) en de daarbijbehorende aanhangsels, hierna te noemen de „Uitvoeringsregeling”.
 
 ##### Artikel 4. Ontvangstinrichtingen
 
@@ -157,9 +157,9 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 
 ##### Artikel 8. Financiering van het nalossen, het wassen, het ontgassen alsmede de inname en verwijdering van afval van de lading
 
-1. De verlader of de ladingontvanger draagt de kosten voor het nalossen en het wassen van het schip alsmede voor de inname en verwijdering van afval van de lading overeenkomstig [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-01-01&g=2025-01-01).
+1. De verlader of de ladingontvanger draagt de kosten voor het nalossen en het wassen van het schip alsmede voor de inname en verwijdering van afval van de lading overeenkomstig [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-07-03&g=2025-07-03).
 
-1a. De verlader draagt de kosten voor het ontgassen van het schip overeenkomstig [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-01-01&g=2025-01-01).
+1a. De verlader draagt de kosten voor het ontgassen van het schip overeenkomstig [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2025-07-03&g=2025-07-03).
 
 2. Indien het schip vóór het laden niet overeenstemt met de voorgeschreven losstandaard en indien de ladingontvanger of verlader van het vorige transport zijn verplichtingen is nagekomen, draagt de vervoerder de kosten voor het nalossen en
 
@@ -219,7 +219,7 @@ De schipper, de overige bemanning en andere personen aan boord, de verlader, de 
 
 ##### Artikel 13. Verplichtingen van de vervoerder, de verlader en de ladingontvanger alsmede van de exploitanten van overslaginstallaties en ontvangstinrichtingen
 
-De vervoerder, de verlader, de ladingontvanger, alsmede de exploitanten van overslaginstallaties en ontvangstinrichtingen dienen ieder hun verplichtingen overeenkomstig de [Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2025-01-01&g=2025-01-01) na te komen. Zij kunnen voor de naleving van hun verplichtingen een beroep op een derde doen.
+De vervoerder, de verlader, de ladingontvanger, alsmede de exploitanten van overslaginstallaties en ontvangstinrichtingen dienen ieder hun verplichtingen overeenkomstig de [Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2025-07-03&g=2025-07-03) na te komen. Zij kunnen voor de naleving van hun verplichtingen een beroep op een derde doen.
 
 ### CONFERENTIE DER VERDRAGSLUITENDE PARTIJEN
 
@@ -321,7 +321,7 @@ Dit Verdrag is opgesteld in een enkel origineel exemplaar in de Nederlandse, Dui
 
 ##### Artikel 1.01. Bevestiging van afgifte
 
-De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethoudend scheepsbedrijfsafval door een schip aan in het olieafgifteboekje, overeenkomstig het model in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2025-01-01&g=2025-01-01).
+De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethoudend scheepsbedrijfsafval door een schip aan in het olieafgifteboekje, overeenkomstig het model in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2025-07-03&g=2025-07-03).
 
 ### HOOFDSTUK II. VERPLICHTINGEN VAN DE SCHIPPER
 
@@ -335,7 +335,7 @@ De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethou
 
 ##### Artikel 2.02. Verzameling en behandeling aan boord
 
-1. Bilgewater als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=1&z=2025-01-01&g=2025-01-01), dat afkomstig is uit de daar genoemde zones aan boord van het schip, wordt uitsluitend beschouwd als bilgewater indien het oliehoudende water tijdens de scheepsbedrijfsactiviteiten of bij onderhoudswerkzaamheden aan het schip ontstaan is en, afgezien van met olie, niet met andere stoffen verontreinigd is. Bilgewater dat anderszins verontreinigd is, moet worden beschouwd als 'klein gevaarlijk afval' als bedoeld in [artikel 8.01, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.01&z=2025-01-01&g=2025-01-01).
+1. Bilgewater als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=1&z=2025-07-03&g=2025-07-03), dat afkomstig is uit de daar genoemde zones aan boord van het schip, wordt uitsluitend beschouwd als bilgewater indien het oliehoudende water tijdens de scheepsbedrijfsactiviteiten of bij onderhoudswerkzaamheden aan het schip ontstaan is en, afgezien van met olie, niet met andere stoffen verontreinigd is. Bilgewater dat anderszins verontreinigd is, moet worden beschouwd als 'klein gevaarlijk afval' als bedoeld in [artikel 8.01, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.01&z=2025-07-03&g=2025-07-03).
 
 De schipper dient zeker te stellen dat olie- en vethoudend scheepsbedrijfsafval aan boord gescheiden in de daarvoor bestemde verzamelreservoirs respectievelijk het bilgewater in de bilge van de machinekamer wordt verzameld.
 
@@ -351,7 +351,7 @@ De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkend
 
 ##### Artikel 2.03. Olie-afgifteboekje, afgifte aan ontvangstinrichtingen
 
-1. Elk gemotoriseerd schip moet, indien het gasolie gebruikt, een geldig olie-afgifteboekje, volgens het model opgenomen in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2025-01-01&g=2025-01-01), aan boord hebben, dat door de bevoegde autoriteit wordt verstrekt. Dit olie-afgifteboekje moet aan boord worden bewaard. Na verkrijging van een nieuw olie-afgifteboekje moet het voorgaande olieafgifteboekje ten minste zes maanden na de laatste daarin opgenomen vermelding van afgifte aan boord worden bewaard.
+1. Elk gemotoriseerd schip moet, indien het gasolie gebruikt, een geldig olie-afgifteboekje, volgens het model opgenomen in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2025-07-03&g=2025-07-03), aan boord hebben, dat door de bevoegde autoriteit wordt verstrekt. Dit olie-afgifteboekje moet aan boord worden bewaard. Na verkrijging van een nieuw olie-afgifteboekje moet het voorgaande olieafgifteboekje ten minste zes maanden na de laatste daarin opgenomen vermelding van afgifte aan boord worden bewaard.
 
 2. Olie- en vethoudend scheepsbedrijfsafval moet met regelmatige, van de staat en van het gebruik van het schip afhankelijke, tussenpozen tegen ontvangstbewijs worden afgegeven aan de ontvangstinrichtingen. Het bewijs bestaat uit een aantekening door de ontvangstinrichting in het olie-afgifteboekje.
 
@@ -367,7 +367,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b). „SPE-CDNI”: elektronisch betalingssysteem dat rekeningen (ECO-rekeningen), ECO-ID's en een applicatie bestemd voor het betalen van de verwijderingsbijdrage omvat;
 
-- c). „ECO-rekening”: een rekening bij een nationaal instituut, op naam gesteld van de exploitant van het schip, bestemd voor het voldoen van de verwijderingsbijdrage zoals bedoeld in [artikel 3.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2025-01-01&g=2025-01-01);
+- c). „ECO-rekening”: een rekening bij een nationaal instituut, op naam gesteld van de exploitant van het schip, bestemd voor het voldoen van de verwijderingsbijdrage zoals bedoeld in [artikel 3.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2025-07-03&g=2025-07-03);
 
 - d). „ECO-ID”: een uniek identificatienummer gekoppeld aan een schip en aan een bijbehorende ECO-rekening van de exploitant van het schip dat toegang geeft tot rechtmatig gebruik van de applicatie;
 
@@ -451,11 +451,11 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 - d). de som van de geïnde verwijderingsbijdragen;
 
-- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2025-01-01&g=2025-01-01) bedoelde maatregelen.
+- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2025-07-03&g=2025-07-03) bedoelde maatregelen.
 
 De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.
 
-2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2025-01-01&g=2025-01-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
+2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2025-07-03&g=2025-07-03), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
@@ -463,7 +463,7 @@ De modaliteiten van deze procedure worden door het internationale verevenings- e
 
 1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
-2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2025-01-01&g=2025-01-01), te verrichten.
+2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2025-07-03&g=2025-07-03), te verrichten.
 
 ##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
@@ -490,7 +490,7 @@ waarbij verstaan moet worden onder
 
 In dit deel wordt verstaan onder:
 
-- a. „**eenheidstransporten**”: transporten waarbij tijdens opeenvolgende reizen in het laadruim of de ladingtank van het schip aantoonbaar dezelfde lading of andere lading, waarvan het transport geen voorafgaand reiniging van het laadruim of de ladingtank vereist, wordt vervoerd;
+- a. „**eenheidstransporten**”: transporten waarbij tijdens opeenvolgende reizen in het laadruim of de ladingtank van het schip aantoonbaar dezelfde lading, waarvan het transport geen voorafgaand reinigen of ontgassen van het laadruim of de ladingtank vereist, wordt vervoerd;
 
 - aa. “**verenigbare transporten**”: transporten waarbij tijdens opeenvolgende reizen in het laadruim of de ladingtank van het schip aantoonbaar een lading, waarvan het transport geen voorafgaand wassen of ontgassen van het laadruim of de ladingtank vereist, wordt vervoerd;
 
@@ -498,7 +498,7 @@ In dit deel wordt verstaan onder:
 
 - c. „**ladingrestanten**”: vloeibare lading die niet door het nalenssysteem uit de ladingtank en het leidingsysteem verwijderd kan worden, alsmede droge lading die niet door gebruikmaking van veegmachines, bezems of vacuümreinigers uit het laadruim verwijderd kan worden;
 
-- d. „**nalenssysteem**”: systeem voor het zo volledig mogelijk legen van de ladingtanks en het leidingsysteem, overeenkomstig [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=II&z=2025-01-01&g=2025-01-01), waarbij slechts de niet lensbare ladingrestanten achterblijven;
+- d. „**nalenssysteem**”: systeem voor het zo volledig mogelijk legen van de ladingtanks en het leidingsysteem, overeenkomstig [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=II&z=2025-07-03&g=2025-07-03), waarbij slechts de niet lensbare ladingrestanten achterblijven;
 
 - e. „**overslagresten**”: lading die bij de overslag buiten het laadruim op het schip terechtkomt;
 
@@ -516,11 +516,11 @@ In dit deel wordt verstaan onder:
 
 - l. „**waswater**”: water dat gebruikt is bij het wassen van een bezemschoon of vacuümschoon laadruim dan wel een nagelensde ladingtank. Hiertoe wordt eveneens gerekend het ballastwater en regenwater dat uit deze laadruimen of ladingtanks komt;
 
-- m. „**ontgassen**”: het verwijderen van dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) uit een nagelensde ladingtank bij een ontvangstinrichting door gebruik te maken van hiervoor geschikte procedures en technieken;
+- m. „**ontgassen**”: het verwijderen van dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) uit een nagelensde ladingtank bij een ontvangstinrichting door gebruik te maken van hiervoor geschikte procedures en technieken;
 
 - n. „**ventileren**”: de rechtstreekse afgifte van dampen uit de ladingtank aan de atmosfeer;
 
-- o. „**ontgaste of geventileerde ladingtank**”: een ladingtank waaruit de dampen overeenkomstig de ontgassingsstandaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) zijn verwijderd.
+- o. „**ontgaste of geventileerde ladingtank**”: een ladingtank waaruit de dampen overeenkomstig de ontgassingsstandaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) zijn verwijderd.
 
 ##### Artikel 5.02. Verplichting van de Verdragsluitende Staten
 
@@ -548,17 +548,17 @@ Dit Deel B geldt niet voor het laden en lossen van zeeschepen
 
 2. Van het in het eerste lid bedoelde verbod zijn uitgezonderd
 
-- a. het waswater met ladingrestanten van stoffen ten aanzien waarvan de lozing in de vaarweg overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) en
+- a. het waswater met ladingrestanten van stoffen ten aanzien waarvan de lozing in de vaarweg overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) en
 
-- b. de dampen ten aanzien waarvan de afgifte aan de atmosfeer door middel van ventileren overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01)
+- b. de dampen ten aanzien waarvan de afgifte aan de atmosfeer door middel van ventileren overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03)
 
 uitdrukkelijk zijn toegestaan, indien de bepalingen van de bedoelde aanhangsels in acht zijn genomen.
 
 3. Indien
 
-- a. stoffen ten aanzien waarvan in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) uitsluitend een afgifte ter bijzondere behandeling voorgeschreven is, of
+- a. stoffen ten aanzien waarvan in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) uitsluitend een afgifte ter bijzondere behandeling voorgeschreven is, of
 
-- b. dampen ten aanzien waarvan in [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) een ontgassing voorgeschreven is,
+- b. dampen ten aanzien waarvan in [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) een ontgassing voorgeschreven is,
 
 vrijkomen of dreigen vrij te komen, moet de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit waarschuwen.
 
@@ -568,7 +568,7 @@ Daarbij moet hij de plaats van het voorval alsmede de hoeveelheid en de aard van
 
 De Conferentie der Verdragsluitende Partijen toetst dit voorstel en gaat eventueel over tot uitbreiding van de Stoffenlijst.
 
-5. In afwijking van het verbod van het eerste lid mogen dampen worden uitgestoten indien dit wordt vereist door een onvoorzien verblijf op de scheepswerf of door een onvoorziene reparatie ter plaatse door een scheepswerf of een andere gespecialiseerde onderneming en de dampen niet naar een ontvangstinrichting kunnen worden afgevoerd. Hierbij moeten de bepalingen van [Aanhangsel IIIa, A.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=A&z=2025-01-01&g=2025-01-01), en onderdeel 7.2.3.7 van het [ADN](onbekend) in acht worden genomen.
+5. In afwijking van het verbod van het eerste lid mogen dampen worden uitgestoten indien dit wordt vereist door een onvoorzien verblijf op de scheepswerf of door een onvoorziene reparatie ter plaatse door een scheepswerf of een andere gespecialiseerde onderneming en de dampen niet naar een ontvangstinrichting kunnen worden afgevoerd. Hierbij moeten de bepalingen van [Aanhangsel IIIa, A.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=A&z=2025-07-03&g=2025-07-03), en onderdeel 7.2.3.7 van het [ADN](onbekend) in acht worden genomen.
 
 ##### Artikel 6.02. Overgangsbepalingen
 
@@ -578,7 +578,7 @@ Vervallen
 
 **Gewijzigd door Besluiten CDNI 2012-I-2, CDNI 2021-I-5, CDNI 2023-I-5 en CDNI 2023-II-6**
 
-1. Ieder schip dat binnen het toepassingsgebied van dit Verdrag is gelost, moet een geldige losverklaring aan boord hebben overeenkomstig het in [Aanhangsel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IV&z=2025-01-01&g=2025-01-01) opgenomen model.
+1. Ieder schip dat binnen het toepassingsgebied van dit Verdrag is gelost, moet een geldige losverklaring aan boord hebben overeenkomstig het in [Aanhangsel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IV&z=2025-07-03&g=2025-07-03) opgenomen model.
 
 Deze losverklaring moet ten minste zes maanden na afgifte aan boord worden bewaard.
 
@@ -600,9 +600,9 @@ Op verzoek van de controlerend ambtenaar van de bevoegde autoriteiten moet de lo
 
 2. Bij het nalossen alsmede bij de afgifte en inname van afval van de lading moeten
 
-- a. bij wassen, de losstandaarden en de afgifte- en innamevoorschriften overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) en
+- a. bij wassen, de losstandaarden en de afgifte- en innamevoorschriften overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) en
 
-- b. bij ontgassen, de voorschriften en de ontgassingsstandaarden overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01)
+- b. bij ontgassen, de voorschriften en de ontgassingsstandaarden overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03)
 
 in acht worden genomen.
 
@@ -610,9 +610,9 @@ in acht worden genomen.
 
 4a. Het schip mag na het lossen de reis pas voortzetten, indien,
 
-- –. een losverklaring is voorgelegd door de ladingontvanger of indien de ladingontvanger of verlader gebruikt maakt van een overslaginstallatie, door de exploitant van die overslaginstallatie ([artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.08&z=2025-01-01&g=2025-01-01));
+- –. een losverklaring is voorgelegd door de ladingontvanger of indien de ladingontvanger of verlader gebruikt maakt van een overslaginstallatie, door de exploitant van die overslaginstallatie ([artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.08&z=2025-07-03&g=2025-07-03));
 
-- –. de schipper door ondertekening van deel 2 a) van de losverklaring bevestigd heeft dat alle maatregelen ten aanzien van het lossen van het schip zoals door de ladingontvanger of overslaginstallatie vermeld zijn in de vakken 1 tot en met 10, zijn uitgevoerd. Hiertoe behoort ook de toewijzing van een ontvangstinrichting voor het in ontvangst nemen van scheepsafval of dampen ([artikel 7.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.01&z=2025-01-01&g=2025-01-01)).
+- –. de schipper door ondertekening van deel 2 a) van de losverklaring bevestigd heeft dat alle maatregelen ten aanzien van het lossen van het schip zoals door de ladingontvanger of overslaginstallatie vermeld zijn in de vakken 1 tot en met 10, zijn uitgevoerd. Hiertoe behoort ook de toewijzing van een ontvangstinrichting voor het in ontvangst nemen van scheepsafval of dampen ([artikel 7.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.01&z=2025-07-03&g=2025-07-03)).
 
 4b. Tijdens de vaart is de schipper verplicht door ondertekening van deel 2 b) van de losverklaring te verklaren:
 
@@ -620,11 +620,11 @@ in acht worden genomen.
 
 - –. hoeveel waswater aan boord is ontstaan en de locatie daarvan;
 
-- –. of na het vertrek bij de overslaginstallatie alsnog een verenigbare vervolglading is aangeboden ([7.04, derde lid 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01)).
+- –. of na het vertrek bij de overslaginstallatie alsnog een verenigbare vervolglading is aangeboden ([7.04, derde lid 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03)).
 
 5. Voor schepen die eenheidstransporten uitvoeren, geldt slechts het verwijderen en overnemen van de overslagresten.
 
-6. Indien laadruimen of ladingtanks gewassen worden en indien het waswater dat daarbij ontstaat overeenkomstig de losstandaarden en de afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat in de losverklaring is bevestigd dat:
+6. Indien laadruimen of ladingtanks gewassen worden en indien het waswater dat daarbij ontstaat overeenkomstig de losstandaarden en de afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat in de losverklaring is bevestigd dat:
 
 - –. de overslaginstallatie het waswater heeft overgenomen, of
 
@@ -662,7 +662,7 @@ In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandighed
 
 **Gewijzigd door Besluiten CDNI 2017-I-4 en CDNI 2017-I-5**
 
-1. De ladingontvanger geeft ten aanzien van het schip in de losverklaring bedoeld in [artikel 6.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VI&artikel=6.03&z=2025-01-01&g=2025-01-01), de bevestiging inzake het lossen, het nalossen en, voor zover hij daartoe verplicht is, het wassen van de laadruimen of ladingtanks of het ontgassen van de ladingtanks, alsmede de inname van afval van de lading dan wel eventueel de toewijzing van een ontvangstinrichting. Hij dient een kopie van de door hem en de schipper ingevulde en ondertekende losverklaring gedurende ten minste zes maanden na afgifte te bewaren.
+1. De ladingontvanger geeft ten aanzien van het schip in de losverklaring bedoeld in [artikel 6.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VI&artikel=6.03&z=2025-07-03&g=2025-07-03), de bevestiging inzake het lossen, het nalossen en, voor zover hij daartoe verplicht is, het wassen van de laadruimen of ladingtanks of het ontgassen van de ladingtanks, alsmede de inname van afval van de lading dan wel eventueel de toewijzing van een ontvangstinrichting. Hij dient een kopie van de door hem en de schipper ingevulde en ondertekende losverklaring gedurende ten minste zes maanden na afgifte te bewaren.
 
 2. Voor zover de ladingontvanger het waswater, dat niet in de vaarweg geloosd mag worden, niet zelf aanneemt, bevestigt de exploitant van de ontvangstinrichting het schip de inname van het waswater. Hij dient een kopie van de door hem, de ladingontvanger en de schipper ingevulde en ondertekende losverklaring gedurende ten minste zes maanden na afgifte te bewaren.
 
@@ -698,45 +698,45 @@ die ingevolge dit Deel B zijn vereist. De restlading behoort zo veel mogelijk aa
 
 **Gewijzigd door Besluit CDNI 2016-I-5, CDNI 2017-I-4, CDNI 2023-I-5 en CDNI 2023-II-5**
 
-1. Bij droge lading dient de ladingontvanger ervoor te zorgen dat na het lossen, overeenkomstig de losstandaarden en afgifte- en innamevoorschriften bedoeld in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01), het laadruim bezemschoon dan wel vacuümschoon ter beschikking wordt gesteld. Hij is verplicht aanwezige restlading alsmede overslagresten van het geloste schip in ontvangst te nemen.
+1. Bij droge lading dient de ladingontvanger ervoor te zorgen dat na het lossen, overeenkomstig de losstandaarden en afgifte- en innamevoorschriften bedoeld in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03), het laadruim bezemschoon dan wel vacuümschoon ter beschikking wordt gesteld. Hij is verplicht aanwezige restlading alsmede overslagresten van het geloste schip in ontvangst te nemen.
 
 Bij vloeibare lading dient de verlader ervoor te zorgen dat na het lossen de ladingtank nagelensd ter beschikking wordt gesteld. Het lossen met inbegrip van het nalossen met behulp van een nalenssysteem wordt door de schipper uitgevoerd, tenzij in de vervoersovereenkomst iets anders is overeengekomen. De leiding voor de inname van restlading dient van een aansluiting overeenkomstig model 1 van Aanhangsel II te zijn voorzien. Bij gebruik van het nalenssysteem aan boord van het schip mag vóór het moment van nalenzen de tegendruk in het buizenstelsel van de ladingontvanger 3 bar niet overschrijden. De exploitant van de overslaginstallatie is verplicht de restlading in ontvangst te nemen.
 
 2. In geval van:
 
-- a. droge lading is de ladingontvanger verplicht voor een wasschoon laadruim te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) niet met het waswater in het water geloosd mogen worden;
+- a. droge lading is de ladingontvanger verplicht voor een wasschoon laadruim te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) niet met het waswater in het water geloosd mogen worden;
 
 - b. vloeibare lading is de verlader verplicht voor een
 
-- aa. wasschone ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) niet met het waswater in het water geloosd mogen worden,
+- aa. wasschone ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) niet met het waswater in het water geloosd mogen worden,
 
-- bb. ontgaste ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de dampen overeenkomstig de ontgassingsstandaarden en afgifte- en innamevoorschriften van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) niet in de atmosfeer geventileerd mogen worden.
+- bb. ontgaste ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de dampen overeenkomstig de ontgassingsstandaarden en afgifte- en innamevoorschriften van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) niet in de atmosfeer geventileerd mogen worden.
 
-Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een wasschoon laadruim respectievelijk een wasschone en/of ontgaste ladingtank zorgen wanneer dit laadruim of deze ladingtank krachtens een overeenkomst vóór de belading overeenkomstig [artikel 7.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.02&z=2025-01-01&g=2025-01-01), gewassen of ontgast was.
+Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een wasschoon laadruim respectievelijk een wasschone en/of ontgaste ladingtank zorgen wanneer dit laadruim of deze ladingtank krachtens een overeenkomst vóór de belading overeenkomstig [artikel 7.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.02&z=2025-07-03&g=2025-07-03), gewassen of ontgast was.
 
-- a. Het eerste en tweede lid zijn niet van toepassing op laadruimen en ladingtanks van schepen die eenheidstransporten uitvoeren voor zover bij een volgende belading de dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) door de overslaginstallatieworden opgevangen en niet in de atmosfeer terechtkomen. De vervoerder dient dit schriftelijk te kunnen aantonen. In dit geval moet in de losverklaring het vakje 6a) worden aangekruist. Het bewijs dient aan boord aanwezig te zijn.
+- a. Het eerste en tweede lid zijn niet van toepassing op laadruimen en ladingtanks van schepen die eenheidstransporten uitvoeren voor zover bij een volgende belading de dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) door de overslaginstallatieworden opgevangen en niet in de atmosfeer terechtkomen. De vervoerder dient dit schriftelijk te kunnen aantonen. In dit geval moet in de losverklaring het vakje 6a) worden aangekruist. Het bewijs dient aan boord aanwezig te zijn.
 
-- b. Het tweede lid is niet van toepassing op (na)ladingtanks van schepen die verenigbare transporten uitvoeren voor zover bij een volgende belading de dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) door de overslaginstallatie worden opgevangen en niet in de atmosfeer terechtkomen. De vervoerder dient dit schriftelijk te kunnen aantonen. In dit geval moet in de losverklaring het vakje 6 b) worden aangekruist. Het bewijs dient tot en met het lossen van de verenigbare vervolglading aan boord aanwezig te zijn. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) zijn niet meer van toepassing als de schipper kan aantonen dat na belading en voor vertrek bij de overslaginstallatie:
+- b. Het tweede lid is niet van toepassing op (na)ladingtanks van schepen die verenigbare transporten uitvoeren voor zover bij een volgende belading de dampen overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) door de overslaginstallatie worden opgevangen en niet in de atmosfeer terechtkomen. De vervoerder dient dit schriftelijk te kunnen aantonen. In dit geval moet in de losverklaring het vakje 6 b) worden aangekruist. Het bewijs dient tot en met het lossen van de verenigbare vervolglading aan boord aanwezig te zijn. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) zijn niet meer van toepassing als de schipper kan aantonen dat na belading en voor vertrek bij de overslaginstallatie:
 
-- –. voor iedere afzonderlijke ladingtank de drie opvolgende ladingen bestonden uit een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) valt en waarbij deze tanks voor ten minste 50% waren beladen, of
+- –. voor iedere afzonderlijke ladingtank de drie opvolgende ladingen bestonden uit een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) valt en waarbij deze tanks voor ten minste 50% waren beladen, of
 
-- –. iedere afzonderlijke ladingtank voor ten minste 95% gevuld was met een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) valt,
+- –. iedere afzonderlijke ladingtank voor ten minste 95% gevuld was met een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) valt,
 
-- –. of indien de dampen aantoonbaar overeenkomstig de voorwaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) zijn opgevangen.
+- –. of indien de dampen aantoonbaar overeenkomstig de voorwaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) zijn opgevangen.
 
-- c. Indien op het ogenblik van het lossen de vervolglading niet bekend is, maar verwacht wordt dat die verenigbaar zal zijn, kan de toepassing van het tweede lid worden uitgesteld. De verlader (bij vloeibare lading) of de ladingontvanger (bij droge lading) dient ten voorlopige titel een ontvangstinrichting voor waswater of voor het ontgassen aan te wijzen, die in de losverklaring aangegeven dient te worden. Bovendien moet in de losverklaring het vakje 6 c) worden aangekruist. Indien aantoonbaar vaststaat, alvorens de in de losverklaring aangegeven ontvangstinstallatie wordt aangelopen door de vervoerder/schipper, dat de vervolglading verenigbaar is, en bij een volgende belading dampen kunnen worden opgevangen die niet in de atmosfeer mogen worden uitgestoten volgens [aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) (tabel I tot en met III) vermeldt de schipper dit in vak 13 van deel 2 b) van de losverklaring. In dit geval hoeft niet gewassen of ontgast te worden. In alle andere gevallen zijn de bepalingen voor het wassen of ontgassen onverkort van toepassing. Het bewijs van de verenigbare vervolglading dient tot en met het lossen van de verenigbare vervolglading aan boord aanwezig te zijn. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) zijn niet meer van toepassing als de schipper kan aantonen dat na belading en voor vertrek bij de overslaginstallatie: voor iedere afzonderlijke ladingtank de drie opvolgende ladingen bestonden uit een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) valt en waarbij deze tanks voor ten minste 50% waren beladen, of iedere afzonderlijke ladingtank voor ten minste 95% gevuld was met een product dat **niet** onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) valt, of indien de dampen aantoonbaar overeenkomstig de voorwaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) zijn opgevangen.
+- c. Indien op het ogenblik van het lossen de vervolglading niet bekend is, maar verwacht wordt dat die verenigbaar zal zijn, kan de toepassing van het tweede lid worden uitgesteld. De verlader (bij vloeibare lading) of de ladingontvanger (bij droge lading) dient ten voorlopige titel een ontvangstinrichting voor waswater of voor het ontgassen aan te wijzen, die in de losverklaring aangegeven dient te worden. Bovendien moet in de losverklaring het vakje 6 c) worden aangekruist. Indien aantoonbaar vaststaat, alvorens de in de losverklaring aangegeven ontvangstinstallatie wordt aangelopen door de vervoerder/schipper, dat de vervolglading verenigbaar is, en bij een volgende belading dampen kunnen worden opgevangen die niet in de atmosfeer mogen worden uitgestoten volgens [aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) (tabel I tot en met III) vermeldt de schipper dit in vak 13 van deel 2 b) van de losverklaring. In dit geval hoeft niet gewassen of ontgast te worden. In alle andere gevallen zijn de bepalingen voor het wassen of ontgassen onverkort van toepassing. Het bewijs van de verenigbare vervolglading dient tot en met het lossen van de verenigbare vervolglading aan boord aanwezig te zijn. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) zijn niet meer van toepassing als de schipper kan aantonen dat na belading en voor vertrek bij de overslaginstallatie: voor iedere afzonderlijke ladingtank de drie opvolgende ladingen bestonden uit een product dat niet onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) valt en waarbij deze tanks voor ten minste 50% waren beladen, of iedere afzonderlijke ladingtank voor ten minste 95% gevuld was met een product dat **niet** onder de verbodsbepaling van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) valt, of indien de dampen aantoonbaar overeenkomstig de voorwaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) zijn opgevangen.
 
-4. Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van [artikel 7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-01-01&g=2025-01-01) aflevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.
+4. Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van [artikel 7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-07-03&g=2025-07-03) aflevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.
 
 ##### Artikel 7.05. Ladingrestanten en waswater
 
 **Gewijzigd door Besluit 2017-I-4**
 
-1. Bij droge lading is de ladingontvanger verplicht het waswater in ontvangst te nemen dat na het wassen overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01), is ontstaan, dan wel na overleg met de vervoerder de schipper een ontvangstinrichting toe te wijzen.
+1. Bij droge lading is de ladingontvanger verplicht het waswater in ontvangst te nemen dat na het wassen overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03), is ontstaan, dan wel na overleg met de vervoerder de schipper een ontvangstinrichting toe te wijzen.
 
-2. Bij vloeibare lading is de verlader verplicht de vervoerder in de vervoersovereenkomst een ontvangstinrichting toe te wijzen voor het waswater, dat na het wassen overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01), ontstaat.
+2. Bij vloeibare lading is de verlader verplicht de vervoerder in de vervoersovereenkomst een ontvangstinrichting toe te wijzen voor het waswater, dat na het wassen overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03), ontstaat.
 
-2a. Bij vloeibare lading, waarbij dampen ontstaan die een ontgassing vereisen overeenkomstig [artikel 7.04 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01) is de verlader verplicht de vervoerder in de vervoersovereenkomst een ontvangstinrichting toe te wijzen, waar het schip na het lossen (met inbegrip van het nalossen en de verwijdering van de overslagresten) ontgast moet worden.
+2a. Bij vloeibare lading, waarbij dampen ontstaan die een ontgassing vereisen overeenkomstig [artikel 7.04 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03) is de verlader verplicht de vervoerder in de vervoersovereenkomst een ontvangstinrichting toe te wijzen, waar het schip na het lossen (met inbegrip van het nalossen en de verwijdering van de overslagresten) ontgast moet worden.
 
 3. Deze ontvangstinrichting behoort zich in de nabijheid van de overslaginstallatie of langs de weg naar de volgende door het schip aan te lopen overslaginstallatie te bevinden.
 
@@ -744,7 +744,7 @@ Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een was
 
 **Gewijzigd door Besluit 2017-I-4**
 
-1. Bij droge lading draagt de ladingontvanger de kosten van het nalossen en het wassen van het laadruim ingevolge [artikel 7.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01) en de kosten van inname van waswater ingevolge [artikel 7.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-01-01&g=2025-01-01), met inbegrip van de daardoor ontstane kosten voor wachttijden en omwegen. Dat geldt ook voor regenwater dat in de laadruimen is geraakt nadat met het laden is begonnen doch voordat het lossen overeenkomstig [artikel 7.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-01-01&g=2025-01-01), is beëindigd, indien niet was overeengekomen dat het vervoer afgedekt zou plaatsvinden.
+1. Bij droge lading draagt de ladingontvanger de kosten van het nalossen en het wassen van het laadruim ingevolge [artikel 7.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03) en de kosten van inname van waswater ingevolge [artikel 7.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-07-03&g=2025-07-03), met inbegrip van de daardoor ontstane kosten voor wachttijden en omwegen. Dat geldt ook voor regenwater dat in de laadruimen is geraakt nadat met het laden is begonnen doch voordat het lossen overeenkomstig [artikel 7.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-07-03&g=2025-07-03), is beëindigd, indien niet was overeengekomen dat het vervoer afgedekt zou plaatsvinden.
 
 Bij eenheidstransporten voor dezelfde verlader neemt deze op eigen kosten vóór het beladen het regenwater in ontvangst, dat na beëindiging van de voorafgaande lossing in het laadruim terecht is gekomen.
 
@@ -752,11 +752,11 @@ Bij eenheidstransporten voor dezelfde verlader neemt deze op eigen kosten vóór
 
 - a. wassen, de kosten voor
 
-- aa. het wassen van de ladingtanks overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01), en
+- aa. het wassen van de ladingtanks overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03), en
 
-- bb. de inname van waswater ingevolge [artikel 7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-01-01&g=2025-01-01),
+- bb. de inname van waswater ingevolge [artikel 7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-07-03&g=2025-07-03),
 
-- b. ontgassen, de kosten voor het ontgassen van de ladingtanks overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01), in samenhang met [artikel 7.05, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-01-01&g=2025-01-01),
+- b. ontgassen, de kosten voor het ontgassen van de ladingtanks overeenkomstig [artikel 7.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03), in samenhang met [artikel 7.05, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-07-03&g=2025-07-03),
 
 met inbegrip van de eventueel daardoor ontstane kosten voor wachttijden en omwegen.
 
@@ -768,7 +768,7 @@ Verlader en ladingontvanger kunnen onderling ook een verdeling van hun verplicht
 
 ##### Artikel 7.08. Overgang van rechten en verplichtingen van de verlader of de ladingontvanger op de exploitant van de overslaginstallatie
 
-Indien de verlader of de ladingontvanger bij het laden of het lossen van het schip gebruik maakt van een overslaginstallatie, gaan de rechten en verplichtingen van de verlader of de ladingontvanger, zoals neergelegd in de [artikelen 7.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.01&z=2025-01-01&g=2025-01-01), alsmede [7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-01-01&g=2025-01-01), [7.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-01-01&g=2025-01-01) en [7.05](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-01-01&g=2025-01-01), over op de exploitant van de overslaginstallatie. Met betrekking tot de kosten bedoeld in [artikel 7.06](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.06&z=2025-01-01&g=2025-01-01) geldt dit slechts voor de verwijdering en inname van de overslagresten.
+Indien de verlader of de ladingontvanger bij het laden of het lossen van het schip gebruik maakt van een overslaginstallatie, gaan de rechten en verplichtingen van de verlader of de ladingontvanger, zoals neergelegd in de [artikelen 7.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.01&z=2025-07-03&g=2025-07-03), alsmede [7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2025-07-03&g=2025-07-03), [7.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2025-07-03&g=2025-07-03) en [7.05](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2025-07-03&g=2025-07-03), over op de exploitant van de overslaginstallatie. Met betrekking tot de kosten bedoeld in [artikel 7.06](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.06&z=2025-07-03&g=2025-07-03) geldt dit slechts voor de verwijdering en inname van de overslagresten.
 
 ##### Artikel 7.09. Vervoersdocumenten
 
@@ -776,11 +776,11 @@ Indien de verlader of de ladingontvanger bij het laden of het lossen van het sch
 
 De verlader vermeldt in de vervoersovereenkomst en vervoersdocumenten de volgende informatie:
 
-- –. de naam en het viercijferige nummer overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-01-01&g=2025-01-01) van elke goederensoort die hij voor vervoer heeft aangeboden en,
+- –. de naam en het viercijferige nummer overeenkomstig [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2025-07-03&g=2025-07-03) van elke goederensoort die hij voor vervoer heeft aangeboden en,
 
-- –. het UN-nummer overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) en,
+- –. het UN-nummer overeenkomstig [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) en,
 
-- –. de variabele AVFL-waarde (afhankelijk van de samenstelling van het mengsel) indien deze niet is vermeld in kolom 3 van de tabellen I tot en met III van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01).
+- –. de variabele AVFL-waarde (afhankelijk van de samenstelling van het mengsel) indien deze niet is vermeld in kolom 3 van de tabellen I tot en met III van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03).
 
 ## DEEL C. VERZAMELING, AFGIFTE EN INNAME VAN OVERIG SCHEEPSBEDRIJFSAFVAL
 
@@ -814,9 +814,9 @@ In dit deel wordt verstaan onder:
 
 2. De Verdragsluitende Staten zijn verplicht, binnen vijf jaar na de inwerkingtreding van dit Verdrag, voor slops en klein gevaarlijk afval ontvangstinrichtingen in havens in te richten of te laten inrichten.
 
-3. De Verdragsluitende Staten verplichten zich overeenkomstig de voorschriften van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=4&z=2025-01-01&g=2025-01-01), van dit Verdrag ontvangstinrichtingen voor huishoudelijk afvalwater in te richten of te laten inrichten bij bepaalde als vaste of voor overnachting dienende ligplaatsen.
+3. De Verdragsluitende Staten verplichten zich overeenkomstig de voorschriften van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=4&z=2025-07-03&g=2025-07-03), van dit Verdrag ontvangstinrichtingen voor huishoudelijk afvalwater in te richten of te laten inrichten bij bepaalde als vaste of voor overnachting dienende ligplaatsen.
 
-Bij ligplaatsen voor schepen als bedoeld in [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-01-01&g=2025-01-01), moeten vóór het in artikel 9.01, derde lid, genoemde tijdstip ontvangstinrichtingen worden ingericht.
+Bij ligplaatsen voor schepen als bedoeld in [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-07-03&g=2025-07-03), moeten vóór het in artikel 9.01, derde lid, genoemde tijdstip ontvangstinrichtingen worden ingericht.
 
 ### HOOFDSTUK IX. VERPLICHTINGEN VAN DE SCHIPPER
 
@@ -836,7 +836,7 @@ Bij ligplaatsen voor schepen als bedoeld in [artikel 9.01, derde lid](https://we
 
 overeenkomstig de toepasselijke bepalingen van het Reglement Onderzoek schepen op de Rijn of [Richtlijn (EU) 2016/1629](32016L1629)1)[Richtlijn (EU) 2016/1629](32016L1629) van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087)..
 
-5. Het in het derde lid genoemde verbod geldt niet voor passagiersschepen die beschikken over toegelaten boordzuiveringsinstallaties die voldoen aan de grens- en controlewaarden zoals opgenomen in [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2025-01-01&g=2025-01-01).
+5. Het in het derde lid genoemde verbod geldt niet voor passagiersschepen die beschikken over toegelaten boordzuiveringsinstallaties die voldoen aan de grens- en controlewaarden zoals opgenomen in [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2025-07-03&g=2025-07-03).
 
 6. Het in het derde lid genoemde verbod geldt niet voor zeeschepen in zeehavens aan zeetoegangswegen die moeten voldoen aan de bepalingen van het [Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) (Marpol).
 
@@ -846,13 +846,13 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 ##### Artikel 9.03. Verzameling en behandeling aan boord, afgifte aan ontvangstinrichtingen
 
-1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-01-01&g=2025-01-01), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, harde (plastic) kunststoffen, verpakkingsafval (plastic, metaal en drankkartons), restafval en overig afval te worden afgegeven.
+1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-07-03&g=2025-07-03), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, harde (plastic) kunststoffen, verpakkingsafval (plastic, metaal en drankkartons), restafval en overig afval te worden afgegeven.
 
-2. Het is verboden het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-01-01&g=2025-01-01), genoemde afval aan boord te verbranden.
+2. Het is verboden het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-07-03&g=2025-07-03), genoemde afval aan boord te verbranden.
 
-3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2025-01-01&g=2025-01-01), dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
+3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2025-07-03&g=2025-07-03), dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
 
-4. De schipper van een passagiersschip dat krachtens [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-01-01&g=2025-01-01), onder het lozingsverbod voor huishoudelijk afvalwater valt, dient zeker te stellen dat het huishoudelijk afvalwater op een passende wijze aan boord van het schip wordt verzameld en overeenkomstig [artikel 8.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.02&z=2025-01-01&g=2025-01-01), bij een installatie of inzamelstation wordt afgegeven, voor zover het passagiersschip niet over een boordzuiveringsinstallatie overeenkomstig artikel 9.01, vijfde lid, beschikt.
+4. De schipper van een passagiersschip dat krachtens [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2025-07-03&g=2025-07-03), onder het lozingsverbod voor huishoudelijk afvalwater valt, dient zeker te stellen dat het huishoudelijk afvalwater op een passende wijze aan boord van het schip wordt verzameld en overeenkomstig [artikel 8.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.02&z=2025-07-03&g=2025-07-03), bij een installatie of inzamelstation wordt afgegeven, voor zover het passagiersschip niet over een boordzuiveringsinstallatie overeenkomstig artikel 9.01, vijfde lid, beschikt.
 
 5. De in het eerste lid bedoelde ingezamelde afvalstoffen dienen aan boord opgeslagen te worden in daarvoor geschikte verzamelreservoirs die voorzien zijn van geëigende pictogrammen.
 
@@ -874,7 +874,7 @@ GEDAAN te Straatsburg, op 9 september 1996.
 
 2. Het transactiebewijs met betrekking tot de verwijderingsbijdrage wordt door het SPE-CDNI elektronisch opgesteld. De schipper ontvangt een afschrift van de bunkerverklaring en een elektronisch transactiebewijs als bedoeld in de eerste zin. De schipper moet zowel de bunkerverklaring als het transactiebewijs te allen tijden kunnen tonen en deze moeten twaalf maanden aan boord worden bewaard. Het bunkerbedrijf moet een afschrift van de bunkerverklaring en het elektronisch transactiebewijs te allen tijden kunnen tonen en deze twaalf maanden in zijn administratie bewaren.
 
-3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2025-01-01&g=2025-01-01) wordt toegepast, vermeldt het bunkerbedrijf op de desbetreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
+3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2025-07-03&g=2025-07-03) wordt toegepast, vermeldt het bunkerbedrijf op de desbetreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
 
 4. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de hoogte van de betaalde verwijderingsbijdragen wordt door het nationale instituut of de bevoegde autoriteit gecontroleerd aan de hand van de door de bunkerbedrijven te overleggen afschriften van de bunkerverklaringen.
 
@@ -920,9 +920,9 @@ GEDAAN te Straatsburg, op 9 september 1996.
 
 in de laatst geldende versie.
 
-2. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) gelden in aanvulling op de bepalingen van de in het eerste lid, onderdeel b, genoemde richtlijn.
+2. De bepalingen van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) gelden in aanvulling op de bepalingen van de in het eerste lid, onderdeel b, genoemde richtlijn.
 
-Schepen waarvoor schriftelijk aangetoond kan worden dat zij overeenkomstig de voorschriften buiten het toepassingsgebied van het CDNI hebben ontgast, gelden als ontgaste schepen in de zin van deze regeling voor zover de waarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-01-01&g=2025-01-01) in acht worden genomen. De Conferentie der Verdragsluitende Partijen wijst, naast [Richtlijn 94/63/EG](31994L0063) en het [ADN](onbekend), de voorschriften aan die door haar als gelijkwaardig worden erkend met betrekking tot de ontgassingsbepalingen.
+Schepen waarvoor schriftelijk aangetoond kan worden dat zij overeenkomstig de voorschriften buiten het toepassingsgebied van het CDNI hebben ontgast, gelden als ontgaste schepen in de zin van deze regeling voor zover de waarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2025-07-03&g=2025-07-03) in acht worden genomen. De Conferentie der Verdragsluitende Partijen wijst, naast [Richtlijn 94/63/EG](31994L0063) en het [ADN](onbekend), de voorschriften aan die door haar als gelijkwaardig worden erkend met betrekking tot de ontgassingsbepalingen.
 
 ### HOOFDSTUK VI. VERPLICHTINGEN VAN DE SCHIPPER
 
@@ -944,11 +944,11 @@ Schepen waarvoor schriftelijk aangetoond kan worden dat zij overeenkomstig de vo
 
 Voor de toepassing van de bepalingen van deze bijlage die het gevolg zijn van de wijziging van het Verdrag om er het verbod tot het uitstoten van dampen in de atmosfeer in op te nemen gelden volgende overgangsbepalingen:
 
-- a). voor de dampen van de goederen vermeld in de [tabel I in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-01-01&g=2025-01-01) geldt het verbod met ingang van de datum van in werking treden van de wijziging vastgesteld overeenkomstig [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=19&z=2025-01-01&g=2025-01-01), van het Verdrag;
+- a). voor de dampen van de goederen vermeld in de [tabel I in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-07-03&g=2025-07-03) geldt het verbod met ingang van de datum van in werking treden van de wijziging vastgesteld overeenkomstig [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=19&z=2025-07-03&g=2025-07-03), van het Verdrag;
 
-- b). voor de dampen van de goederen vermeld in de [tabel II in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-01-01&g=2025-01-01) geldt het verbod na een periode van twee jaar na de in onderdeel a vermelde datum;
+- b). voor de dampen van de goederen vermeld in de [tabel II in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-07-03&g=2025-07-03) geldt het verbod na een periode van twee jaar na de in onderdeel a vermelde datum;
 
-- c). voor de dampen van de goederen vermeld in de [tabel III in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-01-01&g=2025-01-01) geldt het verbod na een periode van drie jaar na de in onderdeel a vermelde datum1)Mits uit een evaluatie uitgevoerd vanaf de in onderdeel a vermelde datum kan worden geconcludeerd dat dit geen problemen oplevert. In het tegengestelde geval geldt het verbod na een periode van vier jaar na de in onderdeel a vermelde datum..
+- c). voor de dampen van de goederen vermeld in de [tabel III in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2025-07-03&g=2025-07-03) geldt het verbod na een periode van drie jaar na de in onderdeel a vermelde datum1)Mits uit een evaluatie uitgevoerd vanaf de in onderdeel a vermelde datum kan worden geconcludeerd dat dit geen problemen oplevert. In het tegengestelde geval geldt het verbod na een periode van vier jaar na de in onderdeel a vermelde datum..
 
 ##### Artikel 11.02. Afwijkingen
 
