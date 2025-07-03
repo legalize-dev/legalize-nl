@@ -4,7 +4,7 @@ identifier: "BWBR0051175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-03"
-last_updated: "2024-09-01"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051175"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Dit besluit heeft betrekking op de fysieke archiefbescheiden van de aanvraag als
 
 ##### Artikel 2
 
-De fysieke archiefbescheiden als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051175&artikel=1&z=2025-07-03&g=2024-09-01) worden digitaal vervangen en opgeslagen overeenkomstig het ‘Handboek vervanging archiefbescheiden Directoraat- Generaal Politie en Veiligheidsregio’s: Uitvoering Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021’.
+De fysieke archiefbescheiden als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051175&artikel=1&z=2025-07-03&g=2025-07-03) worden digitaal vervangen en opgeslagen overeenkomstig het ‘Handboek vervanging archiefbescheiden Directoraat- Generaal Politie en Veiligheidsregio’s: Uitvoering Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021’.
 
 ##### Artikel 3
 
