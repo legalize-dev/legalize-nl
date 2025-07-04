@@ -4,7 +4,7 @@ identifier: "BWBR0018575"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-04"
-last_updated: "2006-01-01"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018575"
 soort: "ministeriele-regeling"
@@ -41,15 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder:
+In deze regeling wordt verstaan onder:
 
 - a. richtlijn: [richtlijn nr. 94/63/EG](31994L0063) van het Europees Parlement en de Raad van de Europese Unie van 20 december 1994 betreffende de beheersing van de uitstoot van vluchtige organische stoffen (VOS) als gevolg van de opslag van benzine en de distributie van benzine vanaf terminals naar benzinestations (PbEG L 365);
 
 - b. benzine: benzine als bedoeld in artikel 2, onderdeel a, van de richtlijn;
 
-- c. benzinestation: benzinestation als bedoeld in [artikel 1, onderdeel e, van de Regeling op-, overslag en distributie benzine milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0007806&artikel=1);
+- c. **benzinestation:** benzinestation als bedoeld in artikel 2, onderdeel f, van de richtlijn;
 
-- d. terminal: terminal als bedoeld in [artikel 1, onderdeel f, van de Regeling op-, overslag en distributie benzine milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0007806&artikel=1);
+- d. **terminal:** terminal als bedoeld in artikel 2, onderdeel d, van de richtlijn;
 
 - e. mobiele tank: mobiele tank als bedoeld in artikel 2, onderdeel e, van de richtlijn;
 
@@ -59,23 +59,27 @@ Besluit:
 
 - h. restladingdamp: damp die na het lossen in een mobiele tank achterblijft;
 
-- i. ontgassen: afvoeren van restladingdamp uit een mobiele tank, waarbij de dampen terechtkomen in de open lucht;
+- i. ontgassen: afvoeren van restladingdamp uit een mobiele tank, waarbij de dampen terechtkomen in de atmosfeer;
 
 - j. opslaginstallatie: opslaginstallatie als bedoeld in artikel 2, onderdeel c, van de richtlijn;
 
 - k. voorlopige dampopslag: opslag van damp in een tank met vast dak op een terminal voor latere overbrenging naar en terugwinning op een andere terminal;
 
-- l. ontgassingsdampverwerkingsinstallatie: installatie waarin de damp uit een mobiele tank voor minimaal 80% wordt omgezet in vloeibare vorm, in energie of in warmte, met inbegrip van eventuele buffertanksystemen.
+- l. ontvangstvoorziening: installatie waarin de damp uit een mobiele tank voor minimaal 80% wordt omgezet in vloeibare vorm, in energie of in warmte, met inbegrip van eventuele buffertanksystemen;
 
-2. Voor de toepassing van deze regeling wordt met benzine gelijkgesteld, benzine met UN nummer 1203, als bedoeld in randnummer 3.2.1 van [Bijlage 1 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1).
+- m. **LEL:** onderste explosiegrens.
 
 ##### Artikel 2
 
-Deze regeling is niet van toepassing op ladingtanks indien de schipper kan aantonen dat:
+1. Het verbod van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018575&artikel=4&z=2025-07-04&g=2025-07-04) is niet van toepassing op een ladingtank indien de schipper kan aantonen dat na het vervoeren van benzine:
 
-- a. de drie voorafgaande ladingen van de desbetreffende ladingtank, niet bestonden uit benzine of de desbetreffende ladingtank bij de voorafgaande belading voor meer dan 95% gevuld was met een andere stof dan benzine, of
+- a. de drie opvolgende ladingen van die ladingtank niet bestonden uit benzine, waarbij die ladingtank tijdens het laden telkens voor minimaal 50% werd gevuld;
 
-- b. de restladingdamp van de voorgaande lading verwerkt is in een ontgassingsdampverwerkingsinstallatie en dat hierbij de dampconcentratie, gemeten op een representatief punt in de leiding die loopt van de ladingtank naar de ontgassingsdampverwerkingsinstallatie, bij standaardomstandigheden gedurende 30 minuten minder dan 3,5 g/m3 heeft bedragen.
+- b. de direct opvolgende lading van die ladingtank niet bestond uit benzine, waarbij die ladingtank tijdens het laden voor minimaal 95% werd gevuld; of
+
+- c. de restladingdamp van die ladingtank is verwerkt in een ontvangstvoorziening, waarbij de dampconcentratie wordt gemeten op een representatief punt in de leiding die loopt van de ladingtank naar de ontvangstvoorziening, waarbij de gemeten stofgerelateerde waardes ten hoogste 10% LEL mogen zijn.
+
+2. De meting, bedoeld in het eerste lid, onderdeel c, wordt na 30 minuten herhaald.
 
 ##### Artikel 3
 
@@ -93,13 +97,13 @@ Deze regeling is niet van toepassing op ladingtanks indien de schipper kan aanto
 
 - a. drukverevening die vanuit veiligheidsoogpunt noodzakelijk is, of
 
-- b. verwerking in een ontgassingsdampverwerkingsinstallatie.
+- b. verwerking in een ontvangstvoorziening.
 
-2. Een ladingtank mag, in afwijking van het eerste lid, eerste volzin, worden ontgast indien hiervoor ontheffing is gegeven door een voor randnummer 7.2.3.7 aangewezen instantie als bedoeld in [bijlage 4 bij de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4).
+2. Een ladingtank mag, in afwijking van het eerste lid, worden ontgast indien hiervoor op grond van [artikel 9 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=9) ontheffing is gegeven door de Minister van Infrastructuur en Waterstaat.
 
 ##### Artikel 5
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018575&artikel=4&z=2006-01-01&g=2006-01-01) is niet van toepassing op dampverliezen ten gevolge van metingen met peilstokken bij mobiele tanks die voor 1 januari 2000 in gebruik zijn genomen.
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018575&artikel=4&z=2025-07-04&g=2025-07-04) is niet van toepassing op dampverliezen ten gevolge van metingen met peilstokken bij mobiele tanks die voor 1 januari 2000 in gebruik zijn genomen.
 
 ##### Artikel 6
 
