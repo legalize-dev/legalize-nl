@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2025-04-01"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 5. De bevoegde autoriteit, bedoeld in artikel 2, zevende lid, van Besluit nr. 2014/512/GBVB is de Minister voor Buitenlandse Handel en Ontwikkelingshulp.
 
-6. De bevoegde autoriteit, bedoeld in artikel 3 quater, zesde lid, lid 6 bis, lid 6 ter, lid 6 quinquies en lid 6 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat, de Minister van Financiën, of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quater, lid 6 quater, en lid 6 septies, en artikel 11, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingshulp of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quinquies, lid 1 bis, derde lid, lid 3 bis en vijfde lid, artikel 3 sexies bis, vijfde lid, lid 5 bis, lid 5 ter en lid 5 quater, artikel 3 sexies ter, eerste en tweede lid, en vierde tot en met zesde lid, artikel 3 sexies quater, eerste lid en derde tot en met vijfde lid, en artikel 3 terdecies, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat. De bevoegde autoriteit, bedoeld in artikel 3 terdecies, lid 1 quinquies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Nationale en Internationale Wegvervoer Organisatie.
+6. De bevoegde autoriteit, bedoeld in artikel 3 quater, zesde lid, lid 6 bis, lid 6 ter, lid 6 quinquies en lid 6 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat, de Minister van Financiën, of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quater, lid 6 quater, en lid 6 septies, en artikel 11, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingshulp of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quinquies, lid 1 bis, derde lid, lid 3 bis en vijfde lid, artikel 3 sexies bis, vijfde lid, lid 5 bis, lid 5 ter en lid 5 quater, artikel 3 sexies ter, eerste en tweede lid, en vierde tot en met zesde lid, artikel 3 sexies quater, eerste lid en derde tot en met vijfde lid, en artikel 3 terdecies, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat. De bevoegde autoriteit, bedoeld in artikel 5 bis sexies, vijfde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Buitenlandse Zaken in samenwerking met de Minister van Infrastructuur en Waterstaat. De bevoegde autoriteit, bedoeld in artikel 3 terdecies, lid 1 quinquies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Nationale en Internationale Wegvervoer Organisatie.
 
 7. De bevoegde autoriteit, bedoeld in artikel 3 bis, derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 bis, lid 3 bis en lid 3 ter, en artikel 3 duovicies, vijfde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei. De bevoegde autoriteit, bedoeld in artikel 3 octies, zevende lid, en in artikel 3 decies, lid 3 quater en lid 3 septies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei, de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingshulp, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quaterdecies, elfde lid, artikel 3 quindecies, lid 6 bis, en twaalfde lid, en artikel 3 novodecies, derde, vierde en vijfde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei. De bevoegde autoriteit, bedoeld in artikel 3 quindecies, negende lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingshulp, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 1 quater, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Economische Zaken. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 3 bis, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Economische Zaken, de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingshulp, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 1 quinquies en lid 1 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 septdecies, derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Klimaat en Groene Groei.
 
@@ -118,7 +118,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-04-01&g=2025-04-01) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-07-04&g=2025-07-04) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -238,7 +238,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1d
 
-1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-04-01&g=2025-04-01) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-07-04&g=2025-07-04) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
 
 2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
@@ -248,7 +248,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het derde lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
-## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2025-04-01&g=2025-04-01)
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2025-07-04&g=2025-07-04)
 
 - −. geavanceerde natuurkunde
 
