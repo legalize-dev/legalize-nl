@@ -4,7 +4,7 @@ identifier: "BWBR0023864"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2025-07-01"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023864"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport of Onze Minister voor Medische Zorg;
+- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport of Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 - b. zorg: één en ander met inbegrip van de financiële afwikkeling;
 
@@ -136,7 +136,7 @@ De zorgaanbieder stelt de identiteit en het burgerservicenummer van een cliënt 
 
 1. De zorgaanbieder neemt het burgerservicenummer van de cliënt in zijn administratie op bij het vastleggen van persoonsgegevens met betrekking tot de verlening van zorg.
 
-2. Indien de zorgaanbieder overeenkomstig het bepaalde in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15a&z=2025-07-01&g=2025-07-01) gegevens van de cliënt beschikbaar stelt via een elektronisch uitwisselingssysteem, is de rechtspersoon die dat elektronisch uitwisselingssysteem beheert en in stand houdt, bevoegd tot het verwerken van het burgerservicenummer van die cliënt voor zover dat noodzakelijk is om zijn taak als beheerder uit te voeren.
+2. Indien de zorgaanbieder overeenkomstig het bepaalde in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15a&z=2025-07-05&g=2025-07-05) gegevens van de cliënt beschikbaar stelt via een elektronisch uitwisselingssysteem, is de rechtspersoon die dat elektronisch uitwisselingssysteem beheert en in stand houdt, bevoegd tot het verwerken van het burgerservicenummer van die cliënt voor zover dat noodzakelijk is om zijn taak als beheerder uit te voeren.
 
 ##### Artikel 9
 
@@ -146,7 +146,7 @@ De zorgaanbieder stelt de identiteit en het burgerservicenummer van een cliënt 
 
 ##### Artikel 10
 
-Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-01&g=2025-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), voldoet.
+Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-05&g=2025-07-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-05&g=2025-07-05), voldoet.
 
 ##### Artikel 11
 
@@ -156,15 +156,15 @@ Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de geg
 
 ##### Artikel 12
 
-1. De zorgaanbieder kan van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-01&g=2025-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-01&g=2025-07-01) gestelde verplichtingen afwijken voor zolang dit noodzakelijk is voor het verlenen van spoedeisende zorg aan een bepaalde cliënt.
+1. De zorgaanbieder kan van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-05&g=2025-07-05) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-05&g=2025-07-05) gestelde verplichtingen afwijken voor zolang dit noodzakelijk is voor het verlenen van spoedeisende zorg aan een bepaalde cliënt.
 
-2. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-01&g=2025-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-01&g=2025-07-01) gestelde verplichtingen met betrekking tot het vaststellen van de identiteit van de cliënt, is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2025-07-01&g=2025-07-01) slechts van toepassing voor het opvragen en raadplegen van persoonsgegevens van de cliënt en is het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-01&g=2025-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01) niet van toepassing.
+2. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-05&g=2025-07-05) gestelde verplichtingen met betrekking tot het vaststellen van de identiteit van de cliënt, is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2025-07-05&g=2025-07-05) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2025-07-05&g=2025-07-05) slechts van toepassing voor het opvragen en raadplegen van persoonsgegevens van de cliënt en is het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-05&g=2025-07-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-05&g=2025-07-05) niet van toepassing.
 
-3. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-01&g=2025-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-01&g=2025-07-01) gestelde verplichtingen is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2025-07-01&g=2025-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2025-07-01&g=2025-07-01) niet van toepassing.
+3. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-05&g=2025-07-05) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2025-07-05&g=2025-07-05) gestelde verplichtingen is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2025-07-05&g=2025-07-05), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2025-07-05&g=2025-07-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2025-07-05&g=2025-07-05) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2025-07-05&g=2025-07-05) niet van toepassing.
 
 ##### Artikel 13
 
-1. Op de zorgverzekeraar die is aangewezen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), alsmede op de zorgverzekeraar, bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01), is, met uitzondering van de bewaartermijn als omschreven in [artikel 86, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86), het bepaalde bij of krachtens de [artikelen 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=4), en [86 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) van overeenkomstige toepassing met betrekking tot de verzekering van respectievelijk handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), en zorg als bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01).
+1. Op de zorgverzekeraar die is aangewezen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2025-07-05&g=2025-07-05), alsmede op de zorgverzekeraar, bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2025-07-05&g=2025-07-05), is, met uitzondering van de bewaartermijn als omschreven in [artikel 86, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86), het bepaalde bij of krachtens de [artikelen 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=4), en [86 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) van overeenkomstige toepassing met betrekking tot de verzekering van respectievelijk handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2025-07-05&g=2025-07-05), en zorg als bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2025-07-05&g=2025-07-05).
 
 2. Personen werkzaam bij of ten behoeve van de zorgverzekeraar, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens die zij op grond van de eerste volzin verwerken, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht.
 
@@ -180,11 +180,11 @@ Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de geg
 
 ##### Artikel 15
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2025-07-01&g=2025-07-01) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2025-07-05&g=2025-07-05) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
 
 2. Bij de maatregel, bedoeld in het eerste lid, kunnen bijdragen van de zorgaanbieders, indicatieorganen en zorgverzekeraars worden verlangd in de kosten van de registers.
 
-3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2025-07-01&g=2025-07-01) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-01&g=2025-07-01), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2025-07-05&g=2025-07-05) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2025-07-05&g=2025-07-05), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
 
 4. De beheerder kan voor het middel een vergoeding verlangen.
 
@@ -278,7 +278,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15c
 
-1. De zorgaanbieder geeft de cliënt informatie over zijn rechten bij elektronische gegevensuitwisseling, de wijze waarop hij zijn rechten kan uitoefenen en over de werking van het elektronisch uitwisselingssysteem dat voor de gegevensuitwisseling wordt gebruikt. Indien nieuwe categorieën van zorgaanbieders aansluiten bij het elektronisch uitwisselingssysteem, of de werking van het elektronisch uitwisselingssysteem anderszins substantieel wordt gewijzigd, informeert de zorgaanbieder de cliënt over deze wijziging alsmede over de mogelijkheid om de gegeven toestemming, bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15a&z=2025-07-01&g=2025-07-01), aan te passen of in te trekken.
+1. De zorgaanbieder geeft de cliënt informatie over zijn rechten bij elektronische gegevensuitwisseling, de wijze waarop hij zijn rechten kan uitoefenen en over de werking van het elektronisch uitwisselingssysteem dat voor de gegevensuitwisseling wordt gebruikt. Indien nieuwe categorieën van zorgaanbieders aansluiten bij het elektronisch uitwisselingssysteem, of de werking van het elektronisch uitwisselingssysteem anderszins substantieel wordt gewijzigd, informeert de zorgaanbieder de cliënt over deze wijziging alsmede over de mogelijkheid om de gegeven toestemming, bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15a&z=2025-07-05&g=2025-07-05), aan te passen of in te trekken.
 
 2. Dit lid is nog niet in werking getreden.
 
@@ -292,7 +292,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15e
 
-Onverminderd het bepaalde in artikel 15 van de Algemene verordening gegevensbescherming, wordt in een afschrift als bedoeld in [artikel 15d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-01&g=2025-07-01), op verzoek van de cliënt opgenomen:
+Onverminderd het bepaalde in artikel 15 van de Algemene verordening gegevensbescherming, wordt in een afschrift als bedoeld in [artikel 15d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-05&g=2025-07-05), op verzoek van de cliënt opgenomen:
 
 - a. wie bepaalde informatie via het elektronisch uitwisselingssysteem beschikbaar heeft gesteld en op welke datum;
 
@@ -310,7 +310,7 @@ Indien de cliënt een wettelijk vertegenwoordiger heeft, worden de op grond van 
 
 ##### Artikel 15h
 
-De verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor een elektronisch uitwisselingssysteem, doet in geval van een vermoeden van een overtreding van het verbod, bedoeld in [artikel 15f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15f&z=2025-07-01&g=2025-07-01), mededeling aan de zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
+De verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor een elektronisch uitwisselingssysteem, doet in geval van een vermoeden van een overtreding van het verbod, bedoeld in [artikel 15f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15f&z=2025-07-05&g=2025-07-05), mededeling aan de zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
 
 ##### Artikel 15i
 
@@ -342,7 +342,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15k
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 4 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), [15d](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-01&g=2025-07-01), [15e](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15e&z=2025-07-01&g=2025-07-01), [15ea](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15ea&z=2025-07-01&g=2025-07-01) en [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15j&z=2025-07-01&g=2025-07-01) zijn belast de ambtenaren van de inspectie.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 4 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [15d](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-05&g=2025-07-05), [15e](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15e&z=2025-07-05&g=2025-07-05), [15ea](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15ea&z=2025-07-05&g=2025-07-05) en [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15j&z=2025-07-05&g=2025-07-05) zijn belast de ambtenaren van de inspectie.
 
 2. De ambtenaren van de inspectie zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is, bevoegd tot inzage van de dossiers van cliënten.
 
@@ -350,7 +350,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15l
 
-Onze Minister is bevoegd een last onder dwangsom op te leggen of een schriftelijke aanwijzing te geven ter zake van overtreding van regels gesteld bij of krachtens de [artikelen 4 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), [15d](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-01&g=2025-07-01), [15e](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15e&z=2025-07-01&g=2025-07-01), [15ea](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15ea&z=2025-07-01&g=2025-07-01) en [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15j&z=2025-07-01&g=2025-07-01).
+Onze Minister is bevoegd een last onder dwangsom op te leggen of een schriftelijke aanwijzing te geven ter zake van overtreding van regels gesteld bij of krachtens de [artikelen 4 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [15d](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15d&z=2025-07-05&g=2025-07-05), [15e](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15e&z=2025-07-05&g=2025-07-05), [15ea](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15ea&z=2025-07-05&g=2025-07-05) en [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3a&artikel=15j&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 15m
 
@@ -364,7 +364,7 @@ Onze Minister is bevoegd een last onder dwangsom op te leggen of een schriftelij
 
 ##### Artikel 15n
 
-De inspectie en de Autoriteit persoonsgegevens verstrekken elkaar desgevraagd de voor de uitoefening van hun taak benodigde inlichtingen en gegevens, voor zover [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=16&z=2025-07-01&g=2025-07-01), daarop niet ziet, alsmede inzage van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van die taak redelijkerwijs nodig is.
+De inspectie en de Autoriteit persoonsgegevens verstrekken elkaar desgevraagd de voor de uitoefening van hun taak benodigde inlichtingen en gegevens, voor zover [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=16&z=2025-07-05&g=2025-07-05), daarop niet ziet, alsmede inzage van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van die taak redelijkerwijs nodig is.
 
 ### Hoofdstuk 4. Slotbepalingen
 
