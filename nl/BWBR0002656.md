@@ -4,7 +4,7 @@ identifier: "BWBR0002656"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2025-07-01"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002656"
 soort: "wet"
@@ -65,7 +65,7 @@ Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dik
 
 3. Geeft de aangever geen voornamen op, of worden deze alle geweigerd zonder dat de aangever ze door een of meer andere vervangt, dan geeft de ambtenaar ambtshalve het kind een of meer voornamen, en vermeldt hij uitdrukkelijk in de akte dat die voornamen ambtshalve zijn gegeven.
 
-4. Wijziging van de voornamen kan op verzoek van de betrokken persoon of zijn wettelijke vertegenwoordiger worden gelast door de rechtbank. De wijziging geschiedt doordat van de beschikking een latere vermelding aan de akte van geboorte wordt toegevoegd, overeenkomstig [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20a&z=2025-07-01&g=2025-07-01). In geval van wijziging van de voornamen van een buiten Nederland geboren persoon geeft de rechtbank die de beschikking geeft, voor zoveel nodig ambtshalve hetzij een last tot inschrijving van de akte van geboorte dan wel van de akte of de uitspraak, bedoeld in [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25g&z=2025-07-01&g=2025-07-01), hetzij de in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01) bedoelde beschikking.
+4. Wijziging van de voornamen kan op verzoek van de betrokken persoon of zijn wettelijke vertegenwoordiger worden gelast door de rechtbank. De wijziging geschiedt doordat van de beschikking een latere vermelding aan de akte van geboorte wordt toegevoegd, overeenkomstig [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20a&z=2025-07-05&g=2025-07-05). In geval van wijziging van de voornamen van een buiten Nederland geboren persoon geeft de rechtbank die de beschikking geeft, voor zoveel nodig ambtshalve hetzij een last tot inschrijving van de akte van geboorte dan wel van de akte of de uitspraak, bedoeld in [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25g&z=2025-07-05&g=2025-07-05), hetzij de in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05) bedoelde beschikking.
 
 ##### Artikel 5
 
@@ -75,19 +75,19 @@ Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dik
 
 3. Indien een kind door adoptie in familierechtelijke betrekking komt te staan tot beide adoptanten van verschillend geslacht, die met elkaar zijn gehuwd, heeft het kind de geslachtsnaam van de vader, tenzij de adoptanten ter gelegenheid van de adoptie gezamenlijk verklaren dat het kind de geslachtsnaam van de moeder, de oorspronkelijke geslachtsnaam of de geslachtsnaam van beide adoptanten in een vrij te bepalen volgorde of van één van hen in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde zal hebben. Indien de adoptanten niet met elkaar gehuwd zijn of indien beide adoptanten van hetzelfde geslacht zijn en met elkaar gehuwd zijn, houdt het kind de geslachtsnaam die het heeft, tenzij de adoptanten ter gelegenheid van de adoptie gezamenlijk verklaren dat het een van hun beider geslachtsnamen zal hebben of van hen beiden in een vrij te bepalen volgorde of van één van hen in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde. Indien een kind door adoptie in familierechtelijke betrekking tot één adoptant komt te staan, heeft het kind de geslachtsnaam van de adoptant, tenzij de adoptant ter gelegenheid van de adoptie verklaart dat het kind de oorspronkelijke geslachtsnaam dan wel de naam van de adoptant in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde zal hebben. Indien een kind door adoptie in familierechtelijke betrekking tot de echtgenoot, geregistreerde partner of andere levensgezel van een ouder komt te staan, houdt het zijn geslachtsnaam, tenzij de ouder en diens echtgenoot, geregistreerde partner of andere levensgezel gezamenlijk verklaren dat het kind de geslachtsnaam zal hebben van die ouder dan wel de geslachtsnaam van de echtgenoot, geregistreerde partner of andere levensgezel of van hen beiden in een vrij te bepalen volgorde of van één van hen in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde. De rechterlijke uitspraak inzake de adoptie vermeldt de verklaring van de adoptanten omtrent de geslachtsnaamkeuze.
 
-4. Indien een kind door geboorte in familierechtelijke betrekking tot beide ouders komt te staan, verklaren de ouders gezamenlijk voor of ter gelegenheid van de aangifte van de geboorte welke geslachtsnaam het kind zal hebben. Dat kan de geslachtsnaam zijn van één van de ouders of de geslachtsnamen van beide ouders in een vrij te bepalen volgorde. Van de verklaring van de ouders die voor de aangifte van de geboorte wordt afgelegd, wordt een akte van naamskeuze opgemaakt. Van de verklaring van de ouders die ter gelegenheid van de aangifte van de geboorte wordt afgelegd, wordt melding gemaakt in de akte van geboorte. Het voorgaande is van overeenkomstige toepassing indien een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) over het kind zullen uitoefenen of uitoefenen. De verklaring die niet ter gelegenheid van de aangifte van de geboorte wordt afgelegd, kan ten overstaan van iedere ambtenaar van de burgerlijke stand worden afgelegd.
+4. Indien een kind door geboorte in familierechtelijke betrekking tot beide ouders komt te staan, verklaren de ouders gezamenlijk voor of ter gelegenheid van de aangifte van de geboorte welke geslachtsnaam het kind zal hebben. Dat kan de geslachtsnaam zijn van één van de ouders of de geslachtsnamen van beide ouders in een vrij te bepalen volgorde. Van de verklaring van de ouders die voor de aangifte van de geboorte wordt afgelegd, wordt een akte van naamskeuze opgemaakt. Van de verklaring van de ouders die ter gelegenheid van de aangifte van de geboorte wordt afgelegd, wordt melding gemaakt in de akte van geboorte. Het voorgaande is van overeenkomstige toepassing indien een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) over het kind zullen uitoefenen of uitoefenen. De verklaring die niet ter gelegenheid van de aangifte van de geboorte wordt afgelegd, kan ten overstaan van iedere ambtenaar van de burgerlijke stand worden afgelegd.
 
 5. Wordt een verklaring houdende naamskeuze, bedoeld in het vierde lid, voor of ter gelegenheid van de aangifte van de geboorte afgelegd, dan heeft het kind de gekozen naam vanaf de geboorte. Geschiedt de naamskeuze niet uiterlijk ter gelegenheid van de aangifte van de geboorte, dan neemt de ambtenaar van de burgerlijke stand als geslachtsnaam van het kind in de geboorteakte op:
 
 - a. de geslachtsnaam van de vader in geval het kind door geboorte in familierechtelijke betrekking tot beide ouders komt te staan;
 
-- b. de geslachtsnaam van de moeder in geval een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) over het kind uitoefenen.
+- b. de geslachtsnaam van de moeder in geval een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) over het kind uitoefenen.
 
-6. Indien de moeder na de geboorte van het kind op grond van [artikel 199, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-01&g=2025-07-01), het vaderschap van de overleden echtgenoot of geregistreerde partner ontkent of op grond van [artikel 198, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), het moederschap van de overleden echtgenote of geregistreerde parnter ontkent en zij ten tijde van de geboorte en van de ontkenning is hertrouwd of een nieuw partnerschap heeft laten registreren, kunnen de moeder en haar echtgenoot of geregistreerde partner gezamenlijk ter gelegenheid van de ontkenning verklaren welke geslachtsnaam het kind zal hebben. Dat kan de geslachtsnaam zijn van de moeder of de echtgenoot of echtgenote of geregistreerde partner, of van beiden in een vrij te bepalen volgorde. Van deze verklaring wordt een akte van naamskeuze opgemaakt. Bij gebreke van een verklaring heeft het kind de geslachtsnaam van de echtgenoot of geregistreerde partner.
+6. Indien de moeder na de geboorte van het kind op grond van [artikel 199, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-05&g=2025-07-05), het vaderschap van de overleden echtgenoot of geregistreerde partner ontkent of op grond van [artikel 198, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), het moederschap van de overleden echtgenote of geregistreerde parnter ontkent en zij ten tijde van de geboorte en van de ontkenning is hertrouwd of een nieuw partnerschap heeft laten registreren, kunnen de moeder en haar echtgenoot of geregistreerde partner gezamenlijk ter gelegenheid van de ontkenning verklaren welke geslachtsnaam het kind zal hebben. Dat kan de geslachtsnaam zijn van de moeder of de echtgenoot of echtgenote of geregistreerde partner, of van beiden in een vrij te bepalen volgorde. Van deze verklaring wordt een akte van naamskeuze opgemaakt. Bij gebreke van een verklaring heeft het kind de geslachtsnaam van de echtgenoot of geregistreerde partner.
 
 7. Indien een kind op het tijdstip van het ontstaan van de familierechtelijke betrekking met beide ouders zestien jaar of ouder is, verklaart het zelf ten overstaan van de ambtenaar van de burgerlijke stand of van de notaris of, in geval van adoptie of gerechtelijke vaststelling van het vaderschap, ten overstaan van de rechter of het de geslachtsnaam van de ene of de andere ouder zal hebben of van beide ouders in een vrij te bepalen volgorde of bij adoptie, een geslachtsnaam die is gekozen overeenkomstig het derde lid. Van deze verklaring wordt melding gemaakt in de akte van erkenning of in de rechterlijke uitspraak inzake adoptie of gerechtelijke vaststelling van het vaderschap.
 
-8. Een verklaring van de ouders als bedoeld in het tweede, vierde of zesde lid, kan slechts ten aanzien van de geslachtsnaam van hun eerste kind worden afgelegd. De eerste volzin is van overeenkomstige toepassing ten aanzien van het eerste kind over wie de ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) zullen uitoefenen of uitoefenen. Onverminderd het zevende lid, hebben volgende kinderen van dezelfde ouders dan wel kinderen over wie dezelfde ouder en dezelfde echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege het gezag gezamenlijk zullen uitoefenen, dezelfde geslachtsnaam als het eerste kind, met dien verstande dat in het geval dat volgende kinderen blijkens de geboorteakte of krachtens toepasselijk recht een naam hebben die afwijkt van de naam van het eerste kind, de ouders kunnen verklaren dat het desbetreffende kind dezelfde geslachtsnaam zal hebben als het eerste kind. Indien een kind door adoptie in familierechtelijke betrekking komt te staan tot zijn adoptanten kan in afwijking van het voorgaande steeds worden gekozen voor de oorspronkelijke geslachtsnaam van het kind of een combinatie van de oorspronkelijke geslachtsnaam met de geslachtsnaam van een der adoptanten, waarbij alle kinderen van die adoptanten met een combinatie van geslachtsnamen tenminste een zelfde geslachtsnaam van de adoptant hebben en alle kinderen die niet door adoptie in familierechtelijke betrekking tot de ouders komen te staan dezelfde geslachtsnaam of gecombineerde geslachtsnaam hebben. De gekozen oorspronkelijke geslachtsnaam van het kind werkt niet door voor volgende kinderen van die adoptanten. Indien voor de geboorte of ter gelegenheid van de aangifte naamskeuze is gedaan ten aanzien van een kind dat levenloos ter wereld komt of is gekomen, wordt deze keuze opgenomen in de akte, bedoeld in [artikel 19i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19i&z=2025-07-01&g=2025-07-01), en geldt zij alleen ten aanzien van dit kind.
+8. Een verklaring van de ouders als bedoeld in het tweede, vierde of zesde lid, kan slechts ten aanzien van de geslachtsnaam van hun eerste kind worden afgelegd. De eerste volzin is van overeenkomstige toepassing ten aanzien van het eerste kind over wie de ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) zullen uitoefenen of uitoefenen. Onverminderd het zevende lid, hebben volgende kinderen van dezelfde ouders dan wel kinderen over wie dezelfde ouder en dezelfde echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege het gezag gezamenlijk zullen uitoefenen, dezelfde geslachtsnaam als het eerste kind, met dien verstande dat in het geval dat volgende kinderen blijkens de geboorteakte of krachtens toepasselijk recht een naam hebben die afwijkt van de naam van het eerste kind, de ouders kunnen verklaren dat het desbetreffende kind dezelfde geslachtsnaam zal hebben als het eerste kind. Indien een kind door adoptie in familierechtelijke betrekking komt te staan tot zijn adoptanten kan in afwijking van het voorgaande steeds worden gekozen voor de oorspronkelijke geslachtsnaam van het kind of een combinatie van de oorspronkelijke geslachtsnaam met de geslachtsnaam van een der adoptanten, waarbij alle kinderen van die adoptanten met een combinatie van geslachtsnamen tenminste een zelfde geslachtsnaam van de adoptant hebben en alle kinderen die niet door adoptie in familierechtelijke betrekking tot de ouders komen te staan dezelfde geslachtsnaam of gecombineerde geslachtsnaam hebben. De gekozen oorspronkelijke geslachtsnaam van het kind werkt niet door voor volgende kinderen van die adoptanten. Indien voor de geboorte of ter gelegenheid van de aangifte naamskeuze is gedaan ten aanzien van een kind dat levenloos ter wereld komt of is gekomen, wordt deze keuze opgenomen in de akte, bedoeld in [artikel 19i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19i&z=2025-07-05&g=2025-07-05), en geldt zij alleen ten aanzien van dit kind.
 
 9. Is één van de ouders voorafgaand aan het tijdstip waarop de naamskeuze uiterlijk moet zijn gedaan overleden en is de naamskeuze niet gedaan, dan legt de andere ouder een verklaring omtrent de naamskeuze af. Hetzelfde geldt indien één van de ouders wegens diens lichamelijke of geestelijke toestand onder curatele staat dan wel indien ten aanzien van hem of haar een mentorschap bestaat.
 
@@ -129,7 +129,7 @@ Hij die de naam van een ander zonder diens toestemming voert, handelt jegens die
 
 1. Een vrouw die gehuwd is of die gehuwd is geweest dan wel wier partnerschap geregistreerd is of is geweest en die niet is getrouwd na beëindiging van de registratie of is hertrouwd dan wel niet een geregistreerd partnerschap is aangegaan na beëindiging van het huwelijk of opnieuw is aangegaan, is steeds bevoegd de geslachtsnaam van haar echtgenoot of van haar geregistreerde partner te voeren of aan de hare te doen voorafgaan dan wel die te doen volgen op haar eigen geslachtsnaam.
 
-2. Indien het huwelijk door echtscheiding is ontbonden en daaruit geen afstammelingen in leven zijn dan wel indien het geregistreerd partnerschap op de wijze bedoeld in [artikel 80c, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), is beëindigd, kan de rechtbank, wanneer daartoe gegronde redenen bestaan, op verzoek van de gewezen echtgenoot of de gewezen geregistreerde partner aan de vrouw de haar in het eerste lid toegekende bevoegdheid ontnemen.
+2. Indien het huwelijk door echtscheiding is ontbonden en daaruit geen afstammelingen in leven zijn dan wel indien het geregistreerd partnerschap op de wijze bedoeld in [artikel 80c, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), is beëindigd, kan de rechtbank, wanneer daartoe gegronde redenen bestaan, op verzoek van de gewezen echtgenoot of de gewezen geregistreerde partner aan de vrouw de haar in het eerste lid toegekende bevoegdheid ontnemen.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van de man die gehuwd is of gehuwd is geweest dan wel wiens partnerschap geregistreerd is of is geweest en die niet is getrouwd na beëindiging van de registratie of is hertrouwd dan wel niet een geregistreerd partnerschap is aangegaan na beëindiging van het huwelijk of opnieuw is aangegaan.
 
@@ -155,7 +155,7 @@ Hij die de naam van een ander zonder diens toestemming voert, handelt jegens die
 
 3. Wanneer ten behoeve van een persoon een mentorschap is ingesteld, volgt hij voor alles wat de uitoefening van dit mentorschap betreft, de woonplaats van de mentor.
 
-4. Het eerste, tweede en derde lid zijn niet van toepassing voor zover het betreft de relatieve bevoegdheid van de rechter gedurende een curatele, een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) en een mentorschap. Hetzelfde geldt indien ten aanzien van een persoon een curatele, een mentorschap of een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) en tevens een bewind als bedoeld in [afdeling 7 van titel 5 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=7) of een bewind als bedoeld in [artikel 182 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=182) van kracht zijn en de bevoegde kantonrechter de andere kantonrechter als uitsluitend bevoegde heeft aangewezen.
+4. Het eerste, tweede en derde lid zijn niet van toepassing voor zover het betreft de relatieve bevoegdheid van de rechter gedurende een curatele, een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) en een mentorschap. Hetzelfde geldt indien ten aanzien van een persoon een curatele, een mentorschap of een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) en tevens een bewind als bedoeld in [afdeling 7 van titel 5 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=7) of een bewind als bedoeld in [artikel 182 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=182) van kracht zijn en de bevoegde kantonrechter de andere kantonrechter als uitsluitend bevoegde heeft aangewezen.
 
 5. Wanneer de persoon, van wie de woonplaats wordt afgeleid, overlijdt of zijn gezag of zijn hoedanigheid verliest, duurt de afgeleide woonplaats voort, totdat een nieuwe woonplaats is verkregen.
 
@@ -195,7 +195,7 @@ Een persoon kan een andere woonplaats dan zijn werkelijke slechts kiezen, wannee
 
 1. De ambtenaar van de burgerlijke stand is belast met het opnemen in de onder hem berustende registers van de burgerlijke stand van akten en de daaraan toe te voegen latere vermeldingen, alsmede al datgene wat de instandhouding van de registers en de zorg voor de toegankelijkheid van de daarin neergelegde gegevens betreft.
 
-2. De buitengewoon ambtenaar van de burgerlijke stand kan uitsluitend worden belast met de taken omschreven in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45&z=2025-07-01&g=2025-07-01), [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45a&z=2025-07-01&g=2025-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=58&z=2025-07-01&g=2025-07-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=63&z=2025-07-01&g=2025-07-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=64&z=2025-07-01&g=2025-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=65&z=2025-07-01&g=2025-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=67&z=2025-07-01&g=2025-07-01), [80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80a&z=2025-07-01&g=2025-07-01), en [80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-01&g=2025-07-01).
+2. De buitengewoon ambtenaar van de burgerlijke stand kan uitsluitend worden belast met de taken omschreven in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45&z=2025-07-05&g=2025-07-05), [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45a&z=2025-07-05&g=2025-07-05), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=58&z=2025-07-05&g=2025-07-05), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=63&z=2025-07-05&g=2025-07-05), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=64&z=2025-07-05&g=2025-07-05), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=65&z=2025-07-05&g=2025-07-05), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=67&z=2025-07-05&g=2025-07-05), [80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80a&z=2025-07-05&g=2025-07-05), en [80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 16b
 
@@ -215,7 +215,7 @@ Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van de door
 
 1. Er bestaan voor iedere gemeente registers van geboorten, van huwelijken, van geregistreerde partnerschappen en van overlijden.
 
-2. Er bestaat in de gemeente 's-Gravenhage, naast de in het eerste lid genoemde registers, een register voor de inschrijving van de in [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=6&z=2025-07-01&g=2025-07-01) bedoelde rechterlijke uitspraken.
+2. Er bestaat in de gemeente 's-Gravenhage, naast de in het eerste lid genoemde registers, een register voor de inschrijving van de in [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=6&z=2025-07-05&g=2025-07-05) bedoelde rechterlijke uitspraken.
 
 ##### Artikel 17a
 
@@ -225,11 +225,11 @@ Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van de door
 
 ##### Artikel 17b
 
-De beheerder van een archiefbewaarplaats als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=2&artikel=17a&z=2025-07-01&g=2025-07-01) is belast met het bewaren van de onder hem berustende registers, met het toevoegen van latere vermeldingen aan de daarin opgenomen akten en met de afgifte van afschriften en uittreksels van deze akten.
+De beheerder van een archiefbewaarplaats als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=2&artikel=17a&z=2025-07-05&g=2025-07-05) is belast met het bewaren van de onder hem berustende registers, met het toevoegen van latere vermeldingen aan de daarin opgenomen akten en met de afgifte van afschriften en uittreksels van deze akten.
 
 ##### Artikel 17c
 
-Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de inrichting van de registers, alsmede de in [artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=2&artikel=17b&z=2025-07-01&g=2025-07-01) genoemde handelingen ten aanzien van die registers.
+Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de inrichting van de registers, alsmede de in [artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=2&artikel=17b&z=2025-07-05&g=2025-07-05) genoemde handelingen ten aanzien van die registers.
 
 ### Afdeling 3. Akten van de burgerlijke stand en partijen bij deze akten
 
@@ -265,7 +265,7 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 
 - b. de vertrouwelijkheid van de door de aangever verstrekte gegevens waarborgt;
 
-- c. waarborgt dat elektronische akten als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01), zodanig blijven opgeslagen dat de inhoud toegankelijk is voor toekomstig gebruik en een ongewijzigde reproductie van de inhoud van de akten gewaarborgd is;
+- c. waarborgt dat elektronische akten als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-05&g=2025-07-05), zodanig blijven opgeslagen dat de inhoud toegankelijk is voor toekomstig gebruik en een ongewijzigde reproductie van de inhoud van de akten gewaarborgd is;
 
 - d. waarborgt dat een bericht, elektronisch afschrift of uittreksel volledig is en niet onbevoegdelijk is of kan worden gewijzigd.
 
@@ -273,11 +273,11 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 
 ##### Artikel 18c
 
-1. Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01), bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.
+1. Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-05&g=2025-07-05), bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.
 
 2. De ambtenaar van de burgerlijke stand weigert eveneens tot het opmaken van de akte over te gaan, indien hij van oordeel is dat de Nederlandse openbare orde zich hiertegen verzet.
 
-3. Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van [afdeling 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&z=2025-07-01&g=2025-07-01) van deze titel. Een afschrift van deze mededeling doet hij aan de Immigratie- en Naturalisatiedienst toekomen.
+3. Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van [afdeling 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&z=2025-07-05&g=2025-07-05) van deze titel. Een afschrift van deze mededeling doet hij aan de Immigratie- en Naturalisatiedienst toekomen.
 
 ### Afdeling 4. De akten van geboorte, van overlijden en de akten houdende attestaties de vita
 
@@ -299,7 +299,7 @@ Indien de plaats of de dag van de geboorte van het kind niet bekend is dan wel i
 
 ##### Artikel 19c
 
-Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-01&g=2025-07-01) in de akte een voorlopige voornaam en geslachtsnaam opgenomen, dan zendt de ambtenaar van de burgerlijke stand onverwijld een volledig afschrift van de akte aan Onze Minister van Justitie.
+Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-05&g=2025-07-05) in de akte een voorlopige voornaam en geslachtsnaam opgenomen, dan zendt de ambtenaar van de burgerlijke stand onverwijld een volledig afschrift van de akte aan Onze Minister van Justitie.
 
 ##### Artikel 19d
 
@@ -347,7 +347,7 @@ Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/
 
 11. Bij de aangifte kan de ambtenaar van de burgerlijke stand zich doen overleggen een door de arts of de verloskundige die bij het ter wereld komen van het kind tegenwoordig was, opgemaakte verklaring dat het kind uit de als moeder opgegeven persoon is geboren. Is het kind buiten de tegenwoordigheid van een arts of verloskundige ter wereld gekomen, dan kan hij zich een door een zodanige hulpverlener nadien opgemaakte verklaring doen overleggen.
 
-12. Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het elfde lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19b&z=2025-07-01&g=2025-07-01) van toepassing.
+12. Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het elfde lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19b&z=2025-07-05&g=2025-07-05) van toepassing.
 
 13. Voor de elektronische aangifte, geregeld in het eerste en tiende lid, wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
 
@@ -387,15 +387,15 @@ Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/
 
 5. Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de [Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009) gestelde termijn voor de begraving of crematie de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.
 
-6. In de gevallen bedoeld in [artikel 19**f**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-01&g=2025-07-01), geschiedt de aangifte door de hulpofficier van justitie.
+6. In de gevallen bedoeld in [artikel 19**f**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-05&g=2025-07-05), geschiedt de aangifte door de hulpofficier van justitie.
 
 ##### Artikel 19i
 
 1. Wanneer een kind levenloos ter wereld is gekomen, wordt een akte opgemaakt, die in het register van overlijden wordt opgenomen.
 
-2. Wanneer een kind binnen de in [artikel 19e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19e&z=2025-07-01&g=2025-07-01), bepaalde termijn is overleden voordat aangifte van de geboorte is geschied, wordt zowel een akte van geboorte als een akte van overlijden opgemaakt.
+2. Wanneer een kind binnen de in [artikel 19e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19e&z=2025-07-05&g=2025-07-05), bepaalde termijn is overleden voordat aangifte van de geboorte is geschied, wordt zowel een akte van geboorte als een akte van overlijden opgemaakt.
 
-3. In de in de vorige leden bedoelde gevallen is ten aanzien van de aangifte het bepaalde in [artikel 19h](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19h&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. In het in het tweede lid bedoelde geval blijft [artikel 19e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19e&z=2025-07-01&g=2025-07-01) buiten toepassing.
+3. In de in de vorige leden bedoelde gevallen is ten aanzien van de aangifte het bepaalde in [artikel 19h](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19h&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing. In het in het tweede lid bedoelde geval blijft [artikel 19e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19e&z=2025-07-05&g=2025-07-05) buiten toepassing.
 
 4. In het geval, bedoeld in het eerste lid, verstrekt de ambtenaar van de burgerlijke stand aan het Centraal Bureau voor de Statistiek zo spoedig mogelijk de gegevens betreffende dat kind, die zijn vermeld in het daartoe door hem te gebruiken formulier dat door Onze Minister van Veiligheid en Justitie is vastgesteld.
 
@@ -413,7 +413,7 @@ Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/
 
 ##### Artikel 20
 
-1. De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap of moederschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap, wijziging van de vermelding van het geslacht na een aangifte als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28&z=2025-07-01&g=2025-07-01), alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:
+1. De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap of moederschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap, wijziging van de vermelding van het geslacht na een aangifte als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28&z=2025-07-05&g=2025-07-05), alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:
 
 - a. een last tot wijziging van de voornamen of van de geslachtsnaam, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het ouderschap, een gegrondverklaring van een ontkenning van het vaderschap of moederschap of, of een vernietiging van zulk een uitspraak;
 
@@ -423,21 +423,21 @@ Zijn krachtens [artikel 5, tiende lid, van dit boek](https://wetten.overheid.nl/
 
 ##### Artikel 20a
 
-1. De in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-01&g=2025-07-01) bedoelde latere vermeldingen, met uitzondering van de vermeldingen bedoeld in het eerste lid, onder b, alsmede van de vermeldingen houdende beëindiging van een geregistreerd partnerschap en van de vermeldingen van een omzetting van een geregistreerd partnerschap, worden toegevoegd aan de geboorteakte van de betrokken persoon. Van een wijziging of vaststelling van de geslachtsnaam wordt tevens een latere vermelding toegevoegd aan de geboorteakten van de kinderen van de betrokken persoon, voor zover de wijziging of vaststelling zich tot hen uitstrekt.
+1. De in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-05&g=2025-07-05) bedoelde latere vermeldingen, met uitzondering van de vermeldingen bedoeld in het eerste lid, onder b, alsmede van de vermeldingen houdende beëindiging van een geregistreerd partnerschap en van de vermeldingen van een omzetting van een geregistreerd partnerschap, worden toegevoegd aan de geboorteakte van de betrokken persoon. Van een wijziging of vaststelling van de geslachtsnaam wordt tevens een latere vermelding toegevoegd aan de geboorteakten van de kinderen van de betrokken persoon, voor zover de wijziging of vaststelling zich tot hen uitstrekt.
 
-2. De in [artikel 20, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-01&g=2025-07-01), bedoelde latere vermeldingen alsmede de in de [aanhef van artikel 20, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-01&g=2025-07-01) bedoelde beëindiging van een geregistreerd partnerschap en de daar bedoelde omzetting, worden toegevoegd aan de huwelijksakte dan wel aan de akte van registratie van een partnerschap van de betrokken persoon.
+2. De in [artikel 20, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-05&g=2025-07-05), bedoelde latere vermeldingen alsmede de in de [aanhef van artikel 20, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-05&g=2025-07-05) bedoelde beëindiging van een geregistreerd partnerschap en de daar bedoelde omzetting, worden toegevoegd aan de huwelijksakte dan wel aan de akte van registratie van een partnerschap van de betrokken persoon.
 
 3. Wanneer als gevolg van het huwelijk of van de echtscheiding een verandering intreedt in de geslachtsnaam van een persoon, wordt hiervan, voor zover zij niet in de huwelijksakte is vermeld, aan deze akte een latere vermelding toegevoegd. Tevens wordt daarvan een latere vermelding toegevoegd aan de geboorteakte van de betrokkene en de geboortenakten van diens kinderen, voor zover hun naam eveneens verandert.
 
 ##### Artikel 20b
 
-1. Van akten en uitspraken die buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de akten en rechterlijke uitspraken, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-01&g=2025-07-01), wordt, tenzij de Nederlandse openbare orde zich hiertegen verzet, op verzoek van een belanghebbende dan wel ambtshalve, door de ambtenaar van de burgerlijke stand een latere vermelding toegevoegd aan de desbetreffende in de registers van de burgerlijke stand hier te lande voorkomende huwelijksakte, akte van registratie van een partnerschap, akte van omzetting van een geregistreerd partnerschap of huwelijk of geboorteakte. Van een verandering van de geslachtsnaam wordt op verzoek van een belanghebbende tevens een latere vermelding gevoegd bij de geboorteakte van de kinderen van de betrokken persoon, voor zover hun naam eveneens verandert.
+1. Van akten en uitspraken die buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de akten en rechterlijke uitspraken, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-05&g=2025-07-05), wordt, tenzij de Nederlandse openbare orde zich hiertegen verzet, op verzoek van een belanghebbende dan wel ambtshalve, door de ambtenaar van de burgerlijke stand een latere vermelding toegevoegd aan de desbetreffende in de registers van de burgerlijke stand hier te lande voorkomende huwelijksakte, akte van registratie van een partnerschap, akte van omzetting van een geregistreerd partnerschap of huwelijk of geboorteakte. Van een verandering van de geslachtsnaam wordt op verzoek van een belanghebbende tevens een latere vermelding gevoegd bij de geboorteakte van de kinderen van de betrokken persoon, voor zover hun naam eveneens verandert.
 
 2. Indien een latere vermelding ambtshalve aan een akte is toegevoegd, zendt de ambtenaar van de burgerlijke stand een afschrift van de akte en de latere vermelding aan de persoon of personen op wie de akte betrekking heeft.
 
 ##### Artikel 20c
 
-De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01) en [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18&z=2025-07-05&g=2025-07-05) en [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 20d
 
@@ -445,7 +445,7 @@ Bij algemene maatregel van bestuur wordt geregeld al wat betreft de aan de ambte
 
 ##### Artikel 20e
 
-1. Van de in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-01&g=2025-07-01), genoemde uitspraken zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was niet eerder dan drie maanden na de dag van de beschikking een afschrift aan de ambtenaar van de burgerlijke stand.
+1. Van de in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20&z=2025-07-05&g=2025-07-05), genoemde uitspraken zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was niet eerder dan drie maanden na de dag van de beschikking een afschrift aan de ambtenaar van de burgerlijke stand.
 
 2. Van besluiten houdende wijziging of vaststelling van namen en van naturalisatiebesluiten mede houdende wijziging of vaststelling van namen zendt Onze Minister van Justitie onverwijld een afschrift aan de ambtenaar van de burgerlijke stand onder wie de akte van geboorte van de betrokken persoon berust.
 
@@ -459,7 +459,7 @@ Bij algemene maatregel van bestuur wordt geregeld al wat betreft de aan de ambte
 
 ##### Artikel 20g
 
-De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjarige een latere vermelding toevoegt, waaruit blijkt dat de minderjarige is erkend, of dat een naam van hem is gewijzigd, geeft van dit feit kennis aan de bewaarder van het in [artikel 244 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-01&g=2025-07-01) bedoelde openbare register waarin rechtsfeiten omtrent die minderjarige zijn opgenomen.
+De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjarige een latere vermelding toevoegt, waaruit blijkt dat de minderjarige is erkend, of dat een naam van hem is gewijzigd, geeft van dit feit kennis aan de bewaarder van het in [artikel 244 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-05&g=2025-07-05) bedoelde openbare register waarin rechtsfeiten omtrent die minderjarige zijn opgenomen.
 
 ##### Artikel 20h
 
@@ -469,7 +469,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. De ambtenaar van de burgerlijke stand te 's-Gravenhage maakt akten van inschrijving op van in kracht van gewijsde gegane rechterlijke uitspraken betreffende huwelijken of registraties van een partnerschap, waarvan de akten niet in de Nederlandse registers van de burgerlijke stand zijn opgenomen, welke inhouden de nietigverklaring van een huwelijk of van een geregistreerd partnerschap, een echtscheiding, de ontbinding van een geregistreerd partnerschap, de ontbinding van een huwelijk na scheiding van tafel en bed of de vernietiging van zulk een ingeschreven uitspraak, dan wel de beëindiging van een geregistreerd partnerschap, bedoeld in [artikel 80c, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), of de vernietiging daarvan.
+1. De ambtenaar van de burgerlijke stand te 's-Gravenhage maakt akten van inschrijving op van in kracht van gewijsde gegane rechterlijke uitspraken betreffende huwelijken of registraties van een partnerschap, waarvan de akten niet in de Nederlandse registers van de burgerlijke stand zijn opgenomen, welke inhouden de nietigverklaring van een huwelijk of van een geregistreerd partnerschap, een echtscheiding, de ontbinding van een geregistreerd partnerschap, de ontbinding van een huwelijk na scheiding van tafel en bed of de vernietiging van zulk een ingeschreven uitspraak, dan wel de beëindiging van een geregistreerd partnerschap, bedoeld in [artikel 80c, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), of de vernietiging daarvan.
 
 2. De in het eerste lid bedoelde akten worden ingeschreven in het daartoe bestemde register van de burgerlijke stand te 's-Gravenhage.
 
@@ -481,7 +481,7 @@ Vervallen
 
 1. De akte van geboorte bewijst ten aanzien van een ieder dat op de in de akte vermelde plaats, dag en uur uit de daarin genoemde moeder een kind van het daarin vermelde geslacht is geboren. Vermeldt de akte dat de plaats van de geboorte van het kind niet bekend is, dan komt dezelfde bewijskracht toe aan de vermelding van de plaats waar het is aangetroffen.
 
-2. De akte van overlijden bewijst ten aanzien van een ieder, dat op de plaats, de dag en het uur, in de akte vermeld, de daarin genoemde persoon is overleden of, indien de akte krachtens [artikel 19f, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-01&g=2025-07-01) is opgemaakt, dat het lijk van de daarin genoemde persoon op de plaats, de dag en het uur, in de akte vermeld, is gevonden.
+2. De akte van overlijden bewijst ten aanzien van een ieder, dat op de plaats, de dag en het uur, in de akte vermeld, de daarin genoemde persoon is overleden of, indien de akte krachtens [artikel 19f, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-05&g=2025-07-05) is opgemaakt, dat het lijk van de daarin genoemde persoon op de plaats, de dag en het uur, in de akte vermeld, is gevonden.
 
 3. Voor het overige hebben akten van de burgerlijke stand dezelfde bewijskracht als andere authentieke akten.
 
@@ -529,7 +529,7 @@ Kennelijke schrijf- of spelfouten en kennelijke misslagen kunnen ambtshalve door
 
 ##### Artikel 24b
 
-1. Aanvulling van een register van de burgerlijke stand op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-01&g=2025-07-01) geschiedt door het opmaken van een nieuwe akte in dat register.
+1. Aanvulling van een register van de burgerlijke stand op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-05&g=2025-07-05) geschiedt door het opmaken van een nieuwe akte in dat register.
 
 2. Van een verbetering of een doorhaling op grond van deze afdeling wordt een latere vermelding toegevoegd aan de desbetreffende akte, volgens regels, bij algemene maatregel van bestuur te stellen.
 
@@ -569,7 +569,7 @@ Kennelijke schrijf- of spelfouten en kennelijke misslagen kunnen ambtshalve door
 
 ##### Artikel 25b
 
-Aan de akte van inschrijving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-01&g=2025-07-01), worden de latere vermeldingen toegevoegd die op grond van dit boek aan een in Nederland opgemaakte akte van geboorte, huwelijksakte of akte van overlijden moeten worden toegevoegd.
+Aan de akte van inschrijving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-05&g=2025-07-05), worden de latere vermeldingen toegevoegd die op grond van dit boek aan een in Nederland opgemaakte akte van geboorte, huwelijksakte of akte van overlijden moeten worden toegevoegd.
 
 ##### Artikel 25c
 
@@ -587,7 +587,7 @@ Aan de akte van inschrijving, bedoeld in [artikel 25](https://wetten.overheid.nl
 
 ##### Artikel 25d
 
-De rechtbank Den Haag kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de krachtens [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01) gegeven beschikking wijzigen op grond dat de vastgestelde gegevens onjuist of onvolledig zijn.
+De rechtbank Den Haag kan op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de krachtens [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05) gegeven beschikking wijzigen op grond dat de vastgestelde gegevens onjuist of onvolledig zijn.
 
 ##### Artikel 25e
 
@@ -597,13 +597,13 @@ Vervallen
 
 1. De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt niet eerder dan drie maanden na de dag van de beschikking een afschrift daarvan, aan de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage.
 
-2. Deze ambtenaar maakt van de beschikking, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01) een akte van inschrijving op, die geldt als een akte van geboorte in de zin van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19&z=2025-07-01&g=2025-07-01) van dit boek. Deze akte is in overeenstemming met de beschikking en vermeldt dit uitdrukkelijk.
+2. Deze ambtenaar maakt van de beschikking, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05) een akte van inschrijving op, die geldt als een akte van geboorte in de zin van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19&z=2025-07-05&g=2025-07-05) van dit boek. Deze akte is in overeenstemming met de beschikking en vermeldt dit uitdrukkelijk.
 
-3. Van de beschikking, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25d&z=2025-07-01&g=2025-07-01), wordt een latere vermelding toegevoegd aan de akte als bedoeld in het vorige lid.
+3. Van de beschikking, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25d&z=2025-07-05&g=2025-07-05), wordt een latere vermelding toegevoegd aan de akte als bedoeld in het vorige lid.
 
 ##### Artikel 25g
 
-1. Op akten en uitspraken die buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01) van dit boek bedoelde beschikkingen, zijn de [artikelen 25 tot en met 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. De inschrijving als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-01&g=2025-07-01) vindt niet plaats indien de Nederlandse openbare orde zich hiertegen verzet.
+1. Op akten en uitspraken die buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05) van dit boek bedoelde beschikkingen, zijn de [artikelen 25 tot en met 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing. De inschrijving als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-05&g=2025-07-05) vindt niet plaats indien de Nederlandse openbare orde zich hiertegen verzet.
 
 2. In geval van adoptie van een buiten Nederland geboren kind ten aanzien waarvan een akte of uitspraak als bedoeld in het vorige lid is opgemaakt of gedaan, geeft de rechtbank die de adoptie uitspreekt, ambtshalve afzonderlijk last tot inschrijving van die akte of uitspraak.
 
@@ -617,11 +617,11 @@ Vervallen
 
 ##### Artikel 26a
 
-De rechtbank kan, op verzoek of ambtshalve, bij de in het [eerste lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26&z=2025-07-01&g=2025-07-01) bedoelde verklaring voor recht tevens de toevoeging van een latere vermelding, op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-01&g=2025-07-01), aan een in de Nederlandse registers van de burgerlijke stand voorkomende akte gelasten.
+De rechtbank kan, op verzoek of ambtshalve, bij de in het [eerste lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26&z=2025-07-05&g=2025-07-05) bedoelde verklaring voor recht tevens de toevoeging van een latere vermelding, op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-05&g=2025-07-05), aan een in de Nederlandse registers van de burgerlijke stand voorkomende akte gelasten.
 
 ##### Artikel 26b
 
-Is met betrekking tot de verzoeker geen akte in de Nederlandse registers van de burgerlijke stand opgenomen, dan kan de rechtbank Den Haag, op verzoek of ambtshalve, bij haar beschikking tevens de inschrijving, overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-01&g=2025-07-01), van een daarvoor in aanmerking komende in het buitenland opgemaakte akte in de registers van de burgerlijke stand te 's-Gravenhage gelasten, alsmede de verbetering van de akte van inschrijving op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-01&g=2025-07-01). Ook kan zij bij haar beschikking een last als bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01) geven alsmede een last tot verbetering, overeenkomstig [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-01&g=2025-07-01), van de door de ambtenaar van de burgerlijke stand te 's-Gravenhage op te maken akte.
+Is met betrekking tot de verzoeker geen akte in de Nederlandse registers van de burgerlijke stand opgenomen, dan kan de rechtbank Den Haag, op verzoek of ambtshalve, bij haar beschikking tevens de inschrijving, overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25&z=2025-07-05&g=2025-07-05), van een daarvoor in aanmerking komende in het buitenland opgemaakte akte in de registers van de burgerlijke stand te 's-Gravenhage gelasten, alsmede de verbetering van de akte van inschrijving op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-05&g=2025-07-05). Ook kan zij bij haar beschikking een last als bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05) geven alsmede een last tot verbetering, overeenkomstig [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=9&artikel=24&z=2025-07-05&g=2025-07-05), van de door de ambtenaar van de burgerlijke stand te 's-Gravenhage op te maken akte.
 
 ##### Artikel 26c
 
@@ -643,11 +643,11 @@ Vervallen
 
 ##### Artikel 27
 
-Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-01&g=2025-07-01) of [20c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20c&z=2025-07-01&g=2025-07-01) te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, kunnen belanghebbende partijen binnen zes weken na de verzending van dat besluit een verzoek indienen bij de rechtbank binnen het rechtsgebied waar de standplaats van de ambtenaar van de burgerlijke stand is gelegen.
+Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-05&g=2025-07-05) of [20c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=5&artikel=20c&z=2025-07-05&g=2025-07-05) te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, kunnen belanghebbende partijen binnen zes weken na de verzending van dat besluit een verzoek indienen bij de rechtbank binnen het rechtsgebied waar de standplaats van de ambtenaar van de burgerlijke stand is gelegen.
 
 ##### Artikel 27a
 
-De rechtbank kan, op verzoek van een belanghebbende partij of ambtshalve, bij haar beschikking tevens een verklaring als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26&z=2025-07-01&g=2025-07-01) afgeven, alsmede een last als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26a&z=2025-07-01&g=2025-07-01), onderscheidenlijk [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26b&z=2025-07-01&g=2025-07-01).
+De rechtbank kan, op verzoek van een belanghebbende partij of ambtshalve, bij haar beschikking tevens een verklaring als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26&z=2025-07-05&g=2025-07-05) afgeven, alsmede een last als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26a&z=2025-07-05&g=2025-07-05), onderscheidenlijk [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=11&artikel=26b&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 27b
 
@@ -663,7 +663,7 @@ Vervallen
 
 1. Iedere Nederlander van zestien jaar of ouder die de overtuiging heeft tot het andere geslacht te behoren dan is vermeld in de akte van geboorte, kan van die overtuiging aangifte doen bij de ambtenaar van de burgerlijke stand onder wie de desbetreffende akte berust. Indien de akte van geboorte niet hier te lande in de registers van de burgerlijke stand is ingeschreven, geschiedt de aangifte bij de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage.
 
-2. Voor de toepassing van het eerste lid en het derde lid alsmede de [artikelen 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28a&z=2025-07-01&g=2025-07-01) en [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28b&z=2025-07-01&g=2025-07-01) wordt onder akte van geboorte mede verstaan een akte van inschrijving van een buiten Nederland opgemaakte akte van geboorte of van een beschikking als bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-01&g=2025-07-01).
+2. Voor de toepassing van het eerste lid en het derde lid alsmede de [artikelen 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28a&z=2025-07-05&g=2025-07-05) en [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28b&z=2025-07-05&g=2025-07-05) wordt onder akte van geboorte mede verstaan een akte van inschrijving van een buiten Nederland opgemaakte akte van geboorte of van een beschikking als bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=10&artikel=25c&z=2025-07-05&g=2025-07-05).
 
 3. Degene die de Nederlandse nationaliteit niet bezit kan een aangifte als bedoeld in het eerste lid doen, indien hij gedurende een tijdvak van ten minste één jaar, onmiddellijk voorafgaande aan de aangifte, woonplaats in Nederland heeft en een rechtsgeldige verblijfstitel heeft. In dat geval wordt tevens een afschrift van de akte van geboorte overgelegd.
 
@@ -677,19 +677,19 @@ Vervallen
 
 ##### Artikel 28b
 
-1. Indien aan [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28a&z=2025-07-01&g=2025-07-01) is voldaan voegt de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toe van wijziging van het geslacht. [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&artikel=27&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+1. Indien aan [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28a&z=2025-07-05&g=2025-07-05) is voldaan voegt de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toe van wijziging van het geslacht. [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&artikel=27&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 2. In het in de eerste zin van het eerste lid bedoelde geval kan de ambtenaar van de burgerlijke stand desverzocht tevens overgaan tot wijziging van de voornamen van degene op wie de aangifte betrekking heeft.
 
-3. In het geval bedoeld in [artikel 28, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28&z=2025-07-01&g=2025-07-01), schrijft de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage de akte van geboorte tevens in het register van geboorten van die gemeente in.
+3. In het geval bedoeld in [artikel 28, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28&z=2025-07-05&g=2025-07-05), schrijft de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage de akte van geboorte tevens in het register van geboorten van die gemeente in.
 
 ##### Artikel 28c
 
-1. De wijziging van de vermelding van het geslacht in de akte van geboorte heeft haar gevolgen, die uit dit boek voortvloeien, vanaf de dag waarop de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding van wijziging van het geslacht toevoegt. Dit tijdstip geldt eveneens voor de wijziging van de voornamen, bedoeld in [artikel 28b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28b&z=2025-07-01&g=2025-07-01).
+1. De wijziging van de vermelding van het geslacht in de akte van geboorte heeft haar gevolgen, die uit dit boek voortvloeien, vanaf de dag waarop de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding van wijziging van het geslacht toevoegt. Dit tijdstip geldt eveneens voor de wijziging van de voornamen, bedoeld in [artikel 28b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=13&artikel=28b&z=2025-07-05&g=2025-07-05).
 
 2. De wijziging van de vermelding van het geslacht laat de op het in het eerste lid genoemde tijdstip bestaande familierechtelijke betrekkingen en de daaruit voortvloeiende op dit boek gegronde rechten, bevoegdheden en verplichtingen onverlet.
 
-3. Indien de betrokkene na de wijziging van de vermelding van het geslacht een kind baart, wordt voor de toepassing van [titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&z=2025-07-01&g=2025-07-01) en hetgeen daaruit voortvloeit uitgegaan van het geslacht dat deze voor de wijziging had. In geval van adoptie van een kind op verzoek van degene die dit na de wijziging van de vermelding van het geslacht heeft verwekt of heeft ingestemd met een daad die de verwekking van het kind met eigen zaad tot gevolg heeft gehad, en het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, is de maatstaf van het vierde lid van [artikel 227](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=227&z=2025-07-01&g=2025-07-01) van toepassing.
+3. Indien de betrokkene na de wijziging van de vermelding van het geslacht een kind baart, wordt voor de toepassing van [titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&z=2025-07-05&g=2025-07-05) en hetgeen daaruit voortvloeit uitgegaan van het geslacht dat deze voor de wijziging had. In geval van adoptie van een kind op verzoek van degene die dit na de wijziging van de vermelding van het geslacht heeft verwekt of heeft ingestemd met een daad die de verwekking van het kind met eigen zaad tot gevolg heeft gehad, en het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, is de maatstaf van het vierde lid van [artikel 227](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=227&z=2025-07-05&g=2025-07-05) van toepassing.
 
 ### Afdeling 14. De Commissie van advies voor de zaken betreffende de burgerlijke staat en de nationaliteit
 
@@ -803,7 +803,7 @@ Vervallen
 
 1. Ten behoeve van het kenbaar maken van hun voornemen om in het huwelijk te treden verstrekken de aanstaande echtgenoten van wie ten minste één uitsluitend of mede de Nederlandse nationaliteit bezit of in Nederland zijn gewone verblijfplaats heeft aan de ambtenaar van de burgerlijke stand:
 
-- a. hun geslachtsnaam, voornamen, woonplaats en geboortegegevens, alsmede een verklaring dat zij elkaar niet als bloedverwanten bestaan in de derde of vierde graad in de zijlinie, dan wel een beëdigde verklaring als bedoeld in [artikel 41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-01&g=2025-07-01);
+- a. hun geslachtsnaam, voornamen, woonplaats en geboortegegevens, alsmede een verklaring dat zij elkaar niet als bloedverwanten bestaan in de derde of vierde graad in de zijlinie, dan wel een beëdigde verklaring als bedoeld in [artikel 41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-05&g=2025-07-05);
 
 - b. indien toestemming tot het aangaan van een huwelijk is vereist, de gegevens van degenen wier toestemming noodzakelijk is, dan wel het bewijs dat deze hun toestemming hebben verleend. De toestemming kan ook ter gelegenheid van de huwelijksvoltrekking worden gegeven. Is de toestemming door de rechter verleend, dan verifieert de ambtenaar het bestaan daarvan bij de betrokken griffie;
 
@@ -815,7 +815,7 @@ Vervallen
 
 - f. de ontheffing of de vergunning van Onze Minister van Justitie, ingeval deze is vereist;
 
-- g. een vrijstelling krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=62&z=2025-07-01&g=2025-07-01), indien deze is verkregen;
+- g. een vrijstelling krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=62&z=2025-07-05&g=2025-07-05), indien deze is verkregen;
 
 - h. de namen en adressen van de personen die als getuigen bij de voltrekking van het huwelijk aanwezig zullen zijn;
 
@@ -833,7 +833,7 @@ Vervallen
 
 ##### Artikel 45a
 
-Indien de gegevens betreffende overlijden als bedoeld in [artikel 44, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-01&g=2025-07-01), niet kunnen worden geverifieerd en de aanstaande echtgenoten niet in staat zijn om de akte of akten van overlijden over te leggen, kunnen zij ter zake een beëdigde verklaring afleggen jegens de ambtenaar van de burgerlijke stand ten overstaan van wie het huwelijk zal worden voltrokken. Deze maakt daarvan melding in de huwelijksakte.
+Indien de gegevens betreffende overlijden als bedoeld in [artikel 44, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-05&g=2025-07-05), niet kunnen worden geverifieerd en de aanstaande echtgenoten niet in staat zijn om de akte of akten van overlijden over te leggen, kunnen zij ter zake een beëdigde verklaring afleggen jegens de ambtenaar van de burgerlijke stand ten overstaan van wie het huwelijk zal worden voltrokken. Deze maakt daarvan melding in de huwelijksakte.
 
 ##### Artikel 46
 
@@ -865,7 +865,7 @@ Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huweli
 
 - c. aan degene die binnen Nederland geen woonplaats heeft of heeft gehad, door het hoofd van de diplomatieke of consulaire vertegenwoordiging van het Koninkrijk der Nederlanden in het ressort waar het huwelijk wordt voltrokken.
 
-3. De verklaring wordt door de bevoegde autoriteit niet afgegeven alvorens deze, door verificatie van de gegevens, vermeld in [artikel 44, eerste lid, onder a, b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-01&g=2025-07-01), en zo nodig van die, vermeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45&z=2025-07-01&g=2025-07-01) en [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45a&z=2025-07-01&g=2025-07-01), alsmede in [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&artikel=27b&z=2025-07-01&g=2025-07-01), zich ervan heeft overtuigd dat naar Nederlands recht geen beletselen tegen het huwelijk bestaan.
+3. De verklaring wordt door de bevoegde autoriteit niet afgegeven alvorens deze, door verificatie van de gegevens, vermeld in [artikel 44, eerste lid, onder a, b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-05&g=2025-07-05), en zo nodig van die, vermeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45&z=2025-07-05&g=2025-07-05) en [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=45a&z=2025-07-05&g=2025-07-05), alsmede in [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=12&artikel=27b&z=2025-07-05&g=2025-07-05), zich ervan heeft overtuigd dat naar Nederlands recht geen beletselen tegen het huwelijk bestaan.
 
 4. De verklaring van huwelijksbevoegdheid is, te rekenen van het tijdstip van afgifte, gedurende zes maanden geldig.
 
@@ -887,7 +887,7 @@ Hij die met een der partijen door huwelijk verbonden is dan wel met een der part
 
 ##### Artikel 53
 
-1. Het openbaar ministerie is verplicht een voorgenomen huwelijk te stuiten, indien het met een der in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-01&g=2025-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=42&z=2025-07-01&g=2025-07-01) omschreven huwelijksbeletselen bekend is.
+1. Het openbaar ministerie is verplicht een voorgenomen huwelijk te stuiten, indien het met een der in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-05&g=2025-07-05), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=42&z=2025-07-05&g=2025-07-05) omschreven huwelijksbeletselen bekend is.
 
 2. Het openbaar ministerie is bevoegd het huwelijk als schijnhandeling wegens strijd met de Nederlandse openbare orde te stuiten indien het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland.
 
@@ -921,7 +921,7 @@ Het huwelijk mag niet worden voltrokken, voordat de stuiting is opgeheven. Mocht
 
 ##### Artikel 57
 
-Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-01&g=2025-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-01&g=2025-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=42&z=2025-07-01&g=2025-07-01) omschreven huwelijksbeletselen bekend is, mag geen medewerking verlenen aan een huwelijksvoltrekking of aan de vervulling van daaraan voorafgaande formaliteiten, ook al zou geen stuiting hebben plaatsgehad.
+Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-05&g=2025-07-05), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-05&g=2025-07-05) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=42&z=2025-07-05&g=2025-07-05) omschreven huwelijksbeletselen bekend is, mag geen medewerking verlenen aan een huwelijksvoltrekking of aan de vervulling van daaraan voorafgaande formaliteiten, ook al zou geen stuiting hebben plaatsgehad.
 
 ### Afdeling 4. De voltrekking van het huwelijk
 
@@ -929,7 +929,7 @@ Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de [ar
 
 1. De ambtenaar van de burgerlijke stand verifieert, alvorens tot de voltrekking van het huwelijk over te gaan, opnieuw de rechtmatigheid van het verblijf in Nederland van de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit.
 
-2. Is de ambtenaar van de burgerlijke stand, in het geval geen rechtmatig verblijf bestaat op grond van [artikel 8, onder b, d of e van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), van oordeel dat het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, maar op het verkrijgen van toelating tot Nederland, dan weigert hij de huwelijksakte op te maken overeenkomstig [artikel 18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-01&g=2025-07-01).
+2. Is de ambtenaar van de burgerlijke stand, in het geval geen rechtmatig verblijf bestaat op grond van [artikel 8, onder b, d of e van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), van oordeel dat het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, maar op het verkrijgen van toelating tot Nederland, dan weigert hij de huwelijksakte op te maken overeenkomstig [artikel 18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 59
 
@@ -1027,13 +1027,13 @@ De nietigverklaring van een huwelijk, dat aangegaan is door iemand die de vereis
 
 ##### Artikel 75
 
-1. Wegens het ontbreken van een vereiste toestemming van een derde kan de nietigverklaring van het huwelijk alleen door die derde of, in het geval van [artikel 38 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=38&z=2025-07-01&g=2025-07-01), door de curator worden verzocht. Dit verzoek vervalt, wanneer hij die bevoegd is de nietigverklaring te verzoeken, het huwelijk uitdrukkelijk of stilzwijgend heeft goedgekeurd, of wanneer drie maanden verlopen zijn nadat hij met de huwelijksvoltrekking bekend is geworden.
+1. Wegens het ontbreken van een vereiste toestemming van een derde kan de nietigverklaring van het huwelijk alleen door die derde of, in het geval van [artikel 38 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=38&z=2025-07-05&g=2025-07-05), door de curator worden verzocht. Dit verzoek vervalt, wanneer hij die bevoegd is de nietigverklaring te verzoeken, het huwelijk uitdrukkelijk of stilzwijgend heeft goedgekeurd, of wanneer drie maanden verlopen zijn nadat hij met de huwelijksvoltrekking bekend is geworden.
 
 2. Hij die bevoegd is de nietigverklaring te verzoeken, wordt vermoed met het huwelijk bekend te zijn geworden, wanneer het hier te lande is voltrokken, of wanneer het, buiten Nederland aangegaan, hier te lande in de registers van de burgerlijke stand is ingeschreven.
 
 ##### Artikel 76
 
-Behoudens het in [artikel 56 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=56&z=2025-07-01&g=2025-07-01) bepaalde, verklaart de rechter een huwelijk alleen nietig op grond van een verzoek overeenkomstig de bepalingen van deze afdeling.
+Behoudens het in [artikel 56 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=56&z=2025-07-05&g=2025-07-05) bepaalde, verklaart de rechter een huwelijk alleen nietig op grond van een verzoek overeenkomstig de bepalingen van deze afdeling.
 
 ##### Artikel 77
 
@@ -1057,11 +1057,11 @@ Vervallen
 
 ##### Artikel 78
 
-Het bestaan van een in Nederland gesloten huwelijk kan niet anders worden bewezen dan door de huwelijksakte dan wel door de akte van omzetting, bedoeld in [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-01&g=2025-07-01), behoudens in de gevallen bij de volgende artikelen voorzien.
+Het bestaan van een in Nederland gesloten huwelijk kan niet anders worden bewezen dan door de huwelijksakte dan wel door de akte van omzetting, bedoeld in [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-05&g=2025-07-05), behoudens in de gevallen bij de volgende artikelen voorzien.
 
 ##### Artikel 79
 
-Heeft het huwelijksregister niet bestaan of is het verloren gegaan of ontbreekt daaraan de huwelijksakte, dan wel de akte van omzetting, bedoeld in [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-01&g=2025-07-01), dan kan het huwelijk door getuigen of bescheiden worden bewezen, mits er een uiterlijk bezit van de huwelijkse staat aanwezig is.
+Heeft het huwelijksregister niet bestaan of is het verloren gegaan of ontbreekt daaraan de huwelijksakte, dan wel de akte van omzetting, bedoeld in [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80g&z=2025-07-05&g=2025-07-05), dan kan het huwelijk door getuigen of bescheiden worden bewezen, mits er een uiterlijk bezit van de huwelijkse staat aanwezig is.
 
 ##### Artikel 80
 
@@ -1077,17 +1077,17 @@ Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, u
 
 3. Registratie van partnerschap geschiedt bij een akte van registratie van partnerschap opgemaakt door een ambtenaar van de burgerlijke stand.
 
-4. Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=51&z=2025-07-01&g=2025-07-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=52&z=2025-07-01&g=2025-07-01), [53, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=53&z=2025-07-01&g=2025-07-01), en [54 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=54&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-01&g=2025-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=32&z=2025-07-01&g=2025-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01) en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.
+4. Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=51&z=2025-07-05&g=2025-07-05), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=52&z=2025-07-05&g=2025-07-05), [53, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=53&z=2025-07-05&g=2025-07-05), en [54 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=3&artikel=54&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-05&g=2025-07-05), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=32&z=2025-07-05&g=2025-07-05), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05) en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.
 
-5. Ter zake van de partnerschapsregistratie zijn de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-01&g=2025-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=32&z=2025-07-01&g=2025-07-01), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=37&z=2025-07-01&g=2025-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-01&g=2025-07-01), [44 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-01&g=2025-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=58&z=2025-07-01&g=2025-07-01) en [62 tot en met 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=62&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+5. Ter zake van de partnerschapsregistratie zijn de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-05&g=2025-07-05), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=32&z=2025-07-05&g=2025-07-05), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=37&z=2025-07-05&g=2025-07-05), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41a&z=2025-07-05&g=2025-07-05), [44 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=2&artikel=44&z=2025-07-05&g=2025-07-05), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=58&z=2025-07-05&g=2025-07-05) en [62 tot en met 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=62&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-6. Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de [artikelen 69 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=5&artikel=69&z=2025-07-01&g=2025-07-01).
+6. Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de [artikelen 69 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=5&artikel=69&z=2025-07-05&g=2025-07-05).
 
-7. Op het bewijs van het bestaan van de partnerschapsregistratie zijn de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=78&z=2025-07-01&g=2025-07-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=79&z=2025-07-01&g=2025-07-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=80&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+7. Op het bewijs van het bestaan van de partnerschapsregistratie zijn de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=78&z=2025-07-05&g=2025-07-05), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=79&z=2025-07-05&g=2025-07-05) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=6&artikel=80&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 ##### Artikel 80b
 
-Op een geregistreerd partnerschap zijn de [titels 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing met uitzondering van het omtrent scheiding van tafel en bed bepaalde.
+Op een geregistreerd partnerschap zijn de [titels 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&z=2025-07-05&g=2025-07-05) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing met uitzondering van het omtrent scheiding van tafel en bed bepaalde.
 
 ##### Artikel 80c
 
@@ -1095,7 +1095,7 @@ Op een geregistreerd partnerschap zijn de [titels 6](https://wetten.overheid.nl/
 
 - a. door de dood;
 
-- b. indien degene ten aanzien van wie, overeenkomstig de bepalingen van de [tweede afdeling van de achttiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&z=2025-07-01&g=2025-07-01) van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de achttiende titel van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
+- b. indien degene ten aanzien van wie, overeenkomstig de bepalingen van de [tweede afdeling van de achttiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&z=2025-07-05&g=2025-07-05) van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de achttiende titel van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
 
 - c. met wederzijds goedvinden door inschrijving door de ambtenaar van de burgerlijke stand van een door beide partners en een of meer advocaten of notarissen ondertekende en gedateerde verklaring waaruit blijkt dat en op welk tijdstip de partners omtrent de beëindiging van het geregistreerd partnerschap een overeenkomst hebben gesloten.
 
@@ -1109,29 +1109,29 @@ Op een geregistreerd partnerschap zijn de [titels 6](https://wetten.overheid.nl/
 
 - a. al dan niet gezamenlijk het gezag uitoefenen over een of meer van hun gezamenlijke kinderen;
 
-- b. ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01) het gezag gezamenlijk uitoefenen over een of meer kinderen.
+- b. ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05) het gezag gezamenlijk uitoefenen over een of meer kinderen.
 
 ##### Artikel 80d
 
-1. De in [artikel 80c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), bedoelde overeenkomst betreft ten minste de verklaring van beide partners dat hun geregistreerd partnerschap duurzaam ontwricht is en dat zij het willen beëindigen. Voorts betreft de overeenkomst, evenwel niet op straffe van nietigheid:
+1. De in [artikel 80c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), bedoelde overeenkomst betreft ten minste de verklaring van beide partners dat hun geregistreerd partnerschap duurzaam ontwricht is en dat zij het willen beëindigen. Voorts betreft de overeenkomst, evenwel niet op straffe van nietigheid:
 
 - a. de uitkering tot levensonderhoud ten behoeve van de geregistreerde partner die niet voldoende inkomsten tot zijn levensonderhoud heeft, noch zich in redelijkheid kan verwerven;
 
 - b. wie van de geregistreerde partners huurder van de woonruimte die hun tot hoofdverblijf dient, zal zijn of wie van de geregistreerde partners gedurende een bij de overeenkomst te bepalen termijn het gebruik zal hebben van de woning en de inboedel die een van hen of hun beiden toebehoren dan wel ten gebruike toekomen;
 
-- c. de verdeling van enige gemeenschap waarin de partners de registratie zijn aangegaan dan wel de verrekening die bij voorwaarden als bedoeld in [titel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&z=2025-07-01&g=2025-07-01) is overeengekomen;
+- c. de verdeling van enige gemeenschap waarin de partners de registratie zijn aangegaan dan wel de verrekening die bij voorwaarden als bedoeld in [titel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&z=2025-07-05&g=2025-07-05) is overeengekomen;
 
 - d. de verevening of verrekening van pensioenrechten.
 
-2. Op een beëindiging van het geregistreerd partnerschap met wederzijds goedvinden zijn de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=155&z=2025-07-01&g=2025-07-01), [157, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-01&g=2025-07-01), [159, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159&z=2025-07-01&g=2025-07-01), [159a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159a&z=2025-07-01&g=2025-07-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=160&z=2025-07-01&g=2025-07-01) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=164&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+2. Op een beëindiging van het geregistreerd partnerschap met wederzijds goedvinden zijn de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=155&z=2025-07-05&g=2025-07-05), [157, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-05&g=2025-07-05), [159, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159&z=2025-07-05&g=2025-07-05), [159a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159a&z=2025-07-05&g=2025-07-05), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=160&z=2025-07-05&g=2025-07-05) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=164&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-3. De verklaring, bedoeld in [artikel 80c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), wordt slechts ingeschreven in de registers van de burgerlijke stand, indien zij de ambtenaar van de burgerlijke stand uiterlijk drie maanden na het sluiten van de overeenkomst heeft bereikt.
+3. De verklaring, bedoeld in [artikel 80c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), wordt slechts ingeschreven in de registers van de burgerlijke stand, indien zij de ambtenaar van de burgerlijke stand uiterlijk drie maanden na het sluiten van de overeenkomst heeft bereikt.
 
 ##### Artikel 80e
 
-1. Op een ontbinding van een geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), zijn de [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=151&z=2025-07-01&g=2025-07-01), [153 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=153&z=2025-07-01&g=2025-07-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=164&z=2025-07-01&g=2025-07-01) en [165](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=165&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+1. Op een ontbinding van een geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), zijn de [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=151&z=2025-07-05&g=2025-07-05), [153 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=153&z=2025-07-05&g=2025-07-05), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=164&z=2025-07-05&g=2025-07-05) en [165](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=165&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-2. De ontbinding komt tot stand door inschrijving van een rechterlijke uitspraak op verzoek van partijen of van één van hen in de registers van de burgerlijke stand. [Artikel 163, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=163&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+2. De ontbinding komt tot stand door inschrijving van een rechterlijke uitspraak op verzoek van partijen of van één van hen in de registers van de burgerlijke stand. [Artikel 163, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=163&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing.
 
 ##### Artikel 80f
 
@@ -1141,7 +1141,7 @@ Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een ge
 
 1. Indien twee personen aan de ambtenaar van de burgerlijke stand kenbaar maken dat zij het geregistreerd partnerschap dat zij zijn aangegaan, omgezet wensen te zien in een huwelijk, kan de ambtenaar van de burgerlijke stand ter zake een akte van omzetting opmaken. Indien de geregistreerde partners van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland woonplaats hebben en in Nederland hun geregistreerd partnerschap in een huwelijk willen omzetten, geschiedt de omzetting bij de ambtenaar van de burgerlijke stand te 's-Gravenhage.
 
-2. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=65&z=2025-07-01&g=2025-07-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=66&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=65&z=2025-07-05&g=2025-07-05) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=4&artikel=66&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 3. Een omzetting doet het geregistreerd partnerschap eindigen en het huwelijk aanvangen op het tijdstip dat de akte van omzetting in het register van huwelijken is opgemaakt. De omzetting brengt geen wijziging in de al dan niet bestaande familierechtelijke betrekkingen met kinderen die voor de omzetting zijn geboren.
 
@@ -1181,7 +1181,7 @@ De ene echtgenoot is naast de andere voor het geheel aansprakelijk voor de door 
 
 2. Een overeenkomstig dit artikel gegeven rechterlijke beschikking kan bij veranderde omstandigheden op gelijke wijze als zij is tot stand gekomen, worden gewijzigd of opgeheven.
 
-3. De beschikking kan aan derden die van haar bestaan onkundig waren, slechts worden tegengeworpen, indien zij ingeschreven was in het huwelijksgoederenregister, aangewezen in [artikel 116 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01), en na de inschrijving veertien dagen waren verlopen.
+3. De beschikking kan aan derden die van haar bestaan onkundig waren, slechts worden tegengeworpen, indien zij ingeschreven was in het huwelijksgoederenregister, aangewezen in [artikel 116 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05), en na de inschrijving veertien dagen waren verlopen.
 
 4. In de beschikking kan worden bepaald dat zij bovendien moet worden bekend gemaakt in een of meer door de rechter aangewezen dagbladen. In dat geval werkt de beschikking ten nadele van derden die daarvan onkundig waren, ook niet vóór deze bekendmaking.
 
@@ -1227,7 +1227,7 @@ Vervallen
 
 ##### Artikel 90
 
-1. Een echtgenoot is bevoegd tot het bestuur van zijn eigen goederen en, volgens de regels van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=2&artikel=97&z=2025-07-01&g=2025-07-01), tot het bestuur van goederen van een gemeenschap.
+1. Een echtgenoot is bevoegd tot het bestuur van zijn eigen goederen en, volgens de regels van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=2&artikel=97&z=2025-07-05&g=2025-07-05), tot het bestuur van goederen van een gemeenschap.
 
 2. Het bestuur van een echtgenoot over een goed omvat de uitoefening van de daaraan verbonden bevoegdheden, daaronder begrepen de bevoegdheid tot beschikking en tot beheer en de bevoegdheid om ten aanzien van dat goed feitelijke handelingen te verrichten en toe te laten, onverminderd de bevoegdheden tot genot en gebruik die de andere echtgenoot overeenkomstig de huwelijksverhouding toekomen.
 
@@ -1239,7 +1239,7 @@ Vervallen
 
 1. Indien een echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn goederen of de goederen der gemeenschap te besturen, of in ernstige mate tekortschiet in het bestuur van de goederen der gemeenschap, kan de rechtbank op verzoek van de andere echtgenoot aan deze het bestuur over die goederen of een deel daarvan met uitsluiting van de eerstgenoemde echtgenoot opdragen. De rechter kan bij de opdracht nadere regelen stellen omtrent het bestuur en de vertegenwoordiging in de zin van lid 4.
 
-2. De [artikelen 86 leden 2-4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=86&z=2025-07-01&g=2025-07-01) en [90 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=90&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 86 leden 2-4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=86&z=2025-07-05&g=2025-07-05) en [90 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=90&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 3. De rechter gelast de oproeping van beide echtgenoten en, zo de in lid 1 eerstgenoemde echtgenoot een vertegenwoordiger heeft aangesteld, ook deze.
 
@@ -1301,9 +1301,9 @@ Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden
 
 ##### Artikel 95
 
-1. Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap indien de tegenprestatie bij de verkrijging van dit goed voor meer dan de helft ten laste komt van zijn eigen vermogen. Voor zover de tegenprestatie ten laste van de gemeenschap komt, is de echtgenoot gehouden tot een vergoeding aan de gemeenschap. Het beloop van de vergoeding wordt bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-01&g=2025-07-01).
+1. Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap indien de tegenprestatie bij de verkrijging van dit goed voor meer dan de helft ten laste komt van zijn eigen vermogen. Voor zover de tegenprestatie ten laste van de gemeenschap komt, is de echtgenoot gehouden tot een vergoeding aan de gemeenschap. Het beloop van de vergoeding wordt bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-05&g=2025-07-05).
 
-2. Indien een goed tot de gemeenschap gaat behoren en een echtgenoot bij de verkrijging uit zijn eigen vermogen aan de tegenprestatie heeft bijgedragen, komt deze echtgenoot een vergoedingsvordering toe, waarvan het beloop overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-01&g=2025-07-01), wordt bepaald.
+2. Indien een goed tot de gemeenschap gaat behoren en een echtgenoot bij de verkrijging uit zijn eigen vermogen aan de tegenprestatie heeft bijgedragen, komt deze echtgenoot een vergoedingsvordering toe, waarvan het beloop overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-05&g=2025-07-05), wordt bepaald.
 
 ##### Artikel 96
 
@@ -1313,9 +1313,9 @@ Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden
 
 3. Het verhaal op de goederen van de gemeenschap voor een niet tot de gemeenschap behorende schuld van een echtgenoot is beperkt tot de helft van de opbrengst van het uitgewonnen goed. De andere helft komt de andere echtgenoot toe en valt voortaan buiten de gemeenschap. De andere echtgenoot is bevoegd, indien een schuldeiser verhaal op een goed van de gemeenschap zoekt ter zake van een niet tot de gemeenschap behorende schuld, het goed waarop de schuldeiser verhaal zoekt, over te nemen tegen betaling van de helft van de waarde van dat goed uit zijn eigen vermogen. Vanaf het tijdstip van de overneming is dit een eigen goed van deze echtgenoot, dat niet in de gemeenschap valt.
 
-4. De echtgenoot uit wiens eigen goederen een schuld van de gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen van de gemeenschap. Betreft het een schuld ter zake van een tot de gemeenschap behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-01&g=2025-07-01).
+4. De echtgenoot uit wiens eigen goederen een schuld van de gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen van de gemeenschap. Betreft het een schuld ter zake van een tot de gemeenschap behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-05&g=2025-07-05).
 
-5. De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen van de gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap. Betreft het een schuld ter zake van een tot zijn eigen vermogen behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-01&g=2025-07-01).
+5. De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen van de gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap. Betreft het een schuld ter zake van een tot zijn eigen vermogen behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig [artikel 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-05&g=2025-07-05).
 
 6. De echtgenoot die een schuldeiser tegenwerpt dat een goed waarop deze verhaal zoekt niet behoort tot de gemeenschap, draagt daarvan de bewijslast.
 
@@ -1349,11 +1349,11 @@ Vervallen
 
 - e. in geval van beëindiging van het geregistreerd partnerschap met wederzijds goedvinden: op het tijdstip waarop de overeenkomst tot beëindiging wordt gesloten;
 
-- f. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: op het tijdstip waarop de beschikking, bedoeld in [artikel 417, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-01&g=2025-07-01), in kracht van gewijsde is gegaan;
+- f. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: op het tijdstip waarop de beschikking, bedoeld in [artikel 417, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-05&g=2025-07-05), in kracht van gewijsde is gegaan;
 
-- g. in geval van opheffing bij latere huwelijkse voorwaarden: op het tijdstip, bedoeld in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=120&z=2025-07-01&g=2025-07-01).
+- g. in geval van opheffing bij latere huwelijkse voorwaarden: op het tijdstip, bedoeld in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=120&z=2025-07-05&g=2025-07-05).
 
-2. De ontbinding van de gemeenschap door indiening van een verzoek als bedoeld in het eerste lid, onder b, c en d, alsmede door sluiting van een overeenkomst als bedoeld onder e, kan aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien het desbetreffende verzoek dan wel de overeenkomst ingeschreven was in het huwelijksgoederenregister, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01).
+2. De ontbinding van de gemeenschap door indiening van een verzoek als bedoeld in het eerste lid, onder b, c en d, alsmede door sluiting van een overeenkomst als bedoeld onder e, kan aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien het desbetreffende verzoek dan wel de overeenkomst ingeschreven was in het huwelijksgoederenregister, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05).
 
 3. Indien vast komt te staan dat een verzoek als bedoeld in het eerste lid, onder b, c en d, dan wel een overeenkomst als bedoeld in het eerste lid, onder e, niet meer kan leiden tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed, opheffing van de gemeenschap door een beschikking, onderscheidenlijk beëindiging van het geregistreerd partnerschap met wederzijds goedvinden, worden alle gevolgen van de gemeenschap geacht steeds te hebben bestaan, alsof er geen verzoek was ingediend of overeenkomst was gesloten, tenzij zich inmiddels een andere grond voor ontbinding heeft voorgedaan. Nochtans wordt de geldigheid van rechtshandelingen die zijn verricht tussen het tijdstip van indiening van het verzoek of sluiting van de overeenkomst en het tijdstip waarop komt vast te staan dat het verzoek of de overeenkomst niet meer tot het in de eerste zin bedoelde gevolg kan leiden, beoordeeld naar het tijdstip van de handeling.
 
@@ -1365,7 +1365,7 @@ Vervallen
 
 2. Voor zover bij de ontbinding van de gemeenschap de goederen van de gemeenschap niet toereikend zijn om de schulden van de gemeenschap te voldoen, worden deze gedragen door beide echtgenoten ieder voor een gelijk deel, tenzij uit de eisen van redelijkheid en billijkheid, mede in verband met de aard van de schulden, een andere draagplicht voortvloeit.
 
-3. Zij die bij de ontbinding van de gemeenschap schuldeiser zijn, behouden het hun toekomende recht van verhaal op de goederen der gemeenschap, zolang deze niet verdeeld zijn. [Artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96&z=2025-07-01&g=2025-07-01), blijft van toepassing.
+3. Zij die bij de ontbinding van de gemeenschap schuldeiser zijn, behouden het hun toekomende recht van verhaal op de goederen der gemeenschap, zolang deze niet verdeeld zijn. [Artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96&z=2025-07-05&g=2025-07-05), blijft van toepassing.
 
 ##### Artikel 101
 
@@ -1391,9 +1391,9 @@ Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aa
 
 ##### Artikel 104
 
-1. De echtgenoot die van het bij het vorige artikel omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding der gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in [artikel 116 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01), op verbeurte van dit voorrecht.
+1. De echtgenoot die van het bij het vorige artikel omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding der gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in [artikel 116 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05), op verbeurte van dit voorrecht.
 
-2. Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap is ontbonden op de wijze als bedoeld in [artikel 99, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=99&z=2025-07-01&g=2025-07-01), eindigt de termijn drie maanden nadat het verzoek tot opheffing van de gemeenschap of tot scheiding van tafel en bed bij de rechtbank is ingediend.
+2. Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap is ontbonden op de wijze als bedoeld in [artikel 99, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=99&z=2025-07-05&g=2025-07-05), eindigt de termijn drie maanden nadat het verzoek tot opheffing van de gemeenschap of tot scheiding van tafel en bed bij de rechtbank is ingediend.
 
 ##### Artikel 105
 
@@ -1409,13 +1409,13 @@ De rechtbank van de plaats waar de akte van afstand moet worden ingeschreven, ka
 
 1. De echtgenoot of zijn erfgenaam, die zich de goederen der gemeenschap heeft aangetrokken of goederen daarvan heeft weggemaakt of verduisterd, kan geen afstand meer doen. Daden van dagelijks bestuur of tot behoud van de goederen brengen dit gevolg niet teweeg.
 
-2. Hij die na gedane afstand goederen der gemeenschap wegmaakt of verduistert, verliest de bevoegdheid [artikel 103 lid 4 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-01&g=2025-07-01) in te roepen.
+2. Hij die na gedane afstand goederen der gemeenschap wegmaakt of verduistert, verliest de bevoegdheid [artikel 103 lid 4 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-05&g=2025-07-05) in te roepen.
 
 ##### Artikel 108
 
-1. Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in [artikel 103 leden 2 en 3 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-01&g=2025-07-01), en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. [Afdeling 3 van titel 6 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=3) betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.
+1. Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in [artikel 103 leden 2 en 3 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-05&g=2025-07-05), en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. [Afdeling 3 van titel 6 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=3) betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.
 
-2. Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid [artikel 103 lid 4 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-01&g=2025-07-01) in te roepen.
+2. Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid [artikel 103 lid 4 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=3&artikel=103&z=2025-07-05&g=2025-07-05) in te roepen.
 
 ### Afdeling 4. Opheffing van de gemeenschap bij beschikking
 
@@ -1429,7 +1429,7 @@ De echtgenoot die de opheffing van de gemeenschap verzoekt, kan tot behoud van z
 
 ##### Artikel 111
 
-1. Indien de echtgenoot tegen wie het verzoek is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of een rechtshandeling als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-01&g=2025-07-01) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.
+1. Indien de echtgenoot tegen wie het verzoek is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of een rechtshandeling als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-05&g=2025-07-05) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.
 
 2. Een op het vorige lid gegronde vordering kan niet later worden ingesteld dan drie jaren nadat het verzoek tot opheffing van de gemeenschap bij de rechtbank is ingediend.
 
@@ -1465,7 +1465,7 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 
 ##### Artikel 117
 
-1. Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij wier toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven; is de toestemming van de rechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de rechter is [artikel 39 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=39&z=2025-07-01&g=2025-07-01) van dit boek van overeenkomstige toepassing.
+1. Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij wier toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven; is de toestemming van de rechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de rechter is [artikel 39 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=39&z=2025-07-05&g=2025-07-05) van dit boek van overeenkomstige toepassing.
 
 2. Vóór het huwelijk gemaakte huwelijkse voorwaarden beginnen te werken van het tijdstip der voltrekking van het huwelijk; geen ander tijdstip kan daarvoor worden aangewezen.
 
@@ -1555,7 +1555,7 @@ Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verreken
 
 1. De verrekening van inkomsten of van vermogen geschiedt bij helfte.
 
-2. Op de verrekening zijn de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=181), [183](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=183) en [195 tot en met 200 van Boek 3 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=195) van overeenkomstige toepassing, met dien verstande dat voor de beoordeling van de vraag of benadeling als bedoeld in [artikel 196 van Boek 3 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=196) heeft plaatsgevonden, de in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-01&g=2025-07-01) genoemde tijdstippen bepalend zijn. De [artikelen 677 tot en met 680 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=677) zijn van overeenkomstige toepassing.
+2. Op de verrekening zijn de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=181), [183](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=183) en [195 tot en met 200 van Boek 3 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=195) van overeenkomstige toepassing, met dien verstande dat voor de beoordeling van de vraag of benadeling als bedoeld in [artikel 196 van Boek 3 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=196) heeft plaatsgevonden, de in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-05&g=2025-07-05) genoemde tijdstippen bepalend zijn. De [artikelen 677 tot en met 680 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=677) zijn van overeenkomstige toepassing.
 
 3. Een echtgenoot die opzettelijk een tot het te verrekenen vermogen behorend goed verzwijgt, zoek maakt of verborgen houdt waardoor de waarde daarvan niet in de verrekening is betrokken, dient de waarde daarvan niet te verrekenen, maar geheel aan de andere echtgenoot te vergoeden.
 
@@ -1583,9 +1583,9 @@ Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verreken
 
 ##### Artikel 139
 
-1. Een echtgenoot kan de opheffing van de wederzijdse verplichting tot verrekening verzoeken, wanneer de andere echtgenoot op lichtvaardige wijze schulden maakt, zijn goederen verspilt of weigert de in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=1&artikel=138&z=2025-07-01&g=2025-07-01), bedoelde verplichte opgave omtrent zijn te verrekenen inkomsten of vermogen te verstrekken.
+1. Een echtgenoot kan de opheffing van de wederzijdse verplichting tot verrekening verzoeken, wanneer de andere echtgenoot op lichtvaardige wijze schulden maakt, zijn goederen verspilt of weigert de in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=1&artikel=138&z=2025-07-05&g=2025-07-05), bedoelde verplichte opgave omtrent zijn te verrekenen inkomsten of vermogen te verstrekken.
 
-2. Indien de echtgenoot tegen wie het verzoek zich richt, het te verrekenen vermogen benadeelt doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, te verrekenen goederen heeft verspild, of een rechtshandeling als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-01&g=2025-07-01) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade te vergoeden.
+2. Indien de echtgenoot tegen wie het verzoek zich richt, het te verrekenen vermogen benadeelt doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, te verrekenen goederen heeft verspild, of een rechtshandeling als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-05&g=2025-07-05) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden de aangerichte schade te vergoeden.
 
 3. Van het eerste en tweede lid kan niet worden afgeweken.
 
@@ -1601,15 +1601,15 @@ Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verreken
 
 1. Indien een verrekenplicht betrekking heeft op een in de huwelijkse voorwaarden omschreven tijdvak van het huwelijk en over dat tijdvak niet is afgerekend, blijft de verplichting tot verrekening over dat tijdvak in stand en strekt deze zich uit over het saldo, ontstaan door belegging en herbelegging van hetgeen niet verrekend is, alsmede over de vruchten daarvan.
 
-2. Indien een verrekenplicht betrekking heeft op een in de huwelijkse voorwaarden omschreven tijdvak van het huwelijk, dan eindigt die verrekenplicht op het tijdstip zoals in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-01&g=2025-07-01) bepaald, als dat tijdvak nog loopt.
+2. Indien een verrekenplicht betrekking heeft op een in de huwelijkse voorwaarden omschreven tijdvak van het huwelijk, dan eindigt die verrekenplicht op het tijdstip zoals in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-05&g=2025-07-05) bepaald, als dat tijdvak nog loopt.
 
-3. Indien bij het einde van het huwelijk aan een bij huwelijkse voorwaarden overeengekomen periodieke verrekenplicht als bedoeld in het eerste lid niet is voldaan, wordt het alsdan aanwezige vermogen vermoed te zijn gevormd uit hetgeen verrekend had moeten worden, tenzij uit de eisen van redelijkheid en billijkheid in het licht van de aard en omvang van de verrekenplicht anders voortvloeit. [Artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=143&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+3. Indien bij het einde van het huwelijk aan een bij huwelijkse voorwaarden overeengekomen periodieke verrekenplicht als bedoeld in het eerste lid niet is voldaan, wordt het alsdan aanwezige vermogen vermoed te zijn gevormd uit hetgeen verrekend had moeten worden, tenzij uit de eisen van redelijkheid en billijkheid in het licht van de aard en omvang van de verrekenplicht anders voortvloeit. [Artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=143&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 4. Indien een echtgenoot in overwegende mate bij machte is te bepalen dat de winsten van een niet op zijn eigen naam uitgeoefende onderneming hem rechtstreeks of middellijk ten goede komen, en een verrekenbeding is overeengekomen dat ook ondernemingswinsten omvat, worden de niet uitgekeerde winsten uit zodanige onderneming, voor zover in het maatschappelijk verkeer als redelijk beschouwd, eveneens in aanmerking genomen bij de vaststelling van de verrekenplicht van die echtgenoot, onverminderd het eerste lid.
 
 5. Het vierde lid is van overeenkomstige toepassing, indien een echtgenoot op eigen naam een onderneming uitoefent.
 
-6. De rechtsvordering tot verrekening, bedoeld in het eerste lid, verjaart niet eerder dan drie jaren na de beëindiging van het huwelijk dan wel na de inschrijving van de beschikking tot scheiding van tafel en bed in het register, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01). Deze termijn kan niet worden verkort.
+6. De rechtsvordering tot verrekening, bedoeld in het eerste lid, verjaart niet eerder dan drie jaren na de beëindiging van het huwelijk dan wel na de inschrijving van de beschikking tot scheiding van tafel en bed in het register, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05). Deze termijn kan niet worden verkort.
 
 ##### Artikel 142
 
@@ -1621,21 +1621,21 @@ Bij uiterste wilsbeschikking of bij de gift kan worden bepaald dat geen verreken
 
 - c. in geval van scheiding van tafel en bed: het tijdstip van indiening van het verzoek tot scheiding van tafel en bed;
 
-- d. in geval van opheffing van de wederzijdse verplichting tot verrekening als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=1&artikel=139&z=2025-07-01&g=2025-07-01): het tijdstip van indiening van het verzoek tot opheffing van die verplichting;
+- d. in geval van opheffing van de wederzijdse verplichting tot verrekening als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=1&artikel=139&z=2025-07-05&g=2025-07-05): het tijdstip van indiening van het verzoek tot opheffing van die verplichting;
 
 - e. in geval van beëindiging van het geregistreerd partnerschap met wederzijds goedvinden: het tijdstip waarop de overeenkomst tot beëindiging wordt gesloten;
 
 - f. in geval van ontbinding van het geregistreerd partnerschap op verzoek: het tijdstip van indiening van het verzoek;
 
-- g. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: het tijdstip waarop de beschikking, bedoeld in [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-01&g=2025-07-01), eerste lid, in kracht van gewijsde is gegaan;
+- g. in geval van vermissing en een daarop gevolgd huwelijk of geregistreerd partnerschap: het tijdstip waarop de beschikking, bedoeld in [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-05&g=2025-07-05), eerste lid, in kracht van gewijsde is gegaan;
 
-- h. in geval van opheffing van de wederzijdse verplichting tot verrekening bij huwelijkse voorwaarden: het tijdstip, bedoeld in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=120&z=2025-07-01&g=2025-07-01).
+- h. in geval van opheffing van de wederzijdse verplichting tot verrekening bij huwelijkse voorwaarden: het tijdstip, bedoeld in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=120&z=2025-07-05&g=2025-07-05).
 
 2. Van het eerste lid, aanhef en onder b tot en met f, kan bij op schrift gestelde overeenkomst worden afgeweken.
 
 ##### Artikel 143
 
-1. Vanaf de in het [eerste lid van artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-01&g=2025-07-01) vermelde tijdstippen kan ieder der echtgenoten verzoeken dat het te verrekenen vermogen van de andere echtgenoot wordt beschreven.
+1. Vanaf de in het [eerste lid van artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=2&paragraaf=3&artikel=142&z=2025-07-05&g=2025-07-05) vermelde tijdstippen kan ieder der echtgenoten verzoeken dat het te verrekenen vermogen van de andere echtgenoot wordt beschreven.
 
 2. De [artikelen 671 tot en met 676](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=671) en [679 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=679) zijn van overeenkomstige toepassing.
 
@@ -1675,11 +1675,11 @@ Het huwelijk eindigt:
 
 - a. door de dood;
 
-- b. indien degene ten aanzien van wie overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de [achttiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&z=2025-07-01&g=2025-07-01) van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven echtgenoot een nieuw huwelijk of geregistreerd partnerschap is aangegaan: door de voltrekking van dit huwelijk of geregistreerd partnerschap;
+- b. indien degene ten aanzien van wie overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de [achttiende titel](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&z=2025-07-05&g=2025-07-05) van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven echtgenoot een nieuw huwelijk of geregistreerd partnerschap is aangegaan: door de voltrekking van dit huwelijk of geregistreerd partnerschap;
 
-- c. door echtscheiding, overeenkomstig de bepalingen van de [tweede afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&z=2025-07-01&g=2025-07-01) van deze titel;
+- c. door echtscheiding, overeenkomstig de bepalingen van de [tweede afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&z=2025-07-05&g=2025-07-05) van deze titel;
 
-- d. door ontbinding van het huwelijk na scheiding van tafel en bed, overeenkomstig de bepalingen van de [tweede afdeling van de tiende titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&afdeling=2&z=2025-07-01&g=2025-07-01).
+- d. door ontbinding van het huwelijk na scheiding van tafel en bed, overeenkomstig de bepalingen van de [tweede afdeling van de tiende titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&afdeling=2&z=2025-07-05&g=2025-07-05).
 
 ### Afdeling 3. Giften bij huwelijkse voorwaarden
 
@@ -1721,7 +1721,7 @@ In geval van echtscheiding en voor zover de ene echtgenoot na de huwelijkssluiti
 
 2. Bij de vaststelling van de uitkering kan de rechter rekening houden met de behoefte aan een voorziening in het levensonderhoud voor het geval van overlijden van degene die tot de uitkering is gehouden.
 
-3. De rechter kan op verzoek van een van de echtgenoten de uitkering toekennen onder de vaststelling van voorwaarden en van een termijn. Deze vaststelling kan niet tot gevolg hebben dat de uitkering later eindigt dan op grond van de toepasselijke termijn, bedoeld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01).
+3. De rechter kan op verzoek van een van de echtgenoten de uitkering toekennen onder de vaststelling van voorwaarden en van een termijn. Deze vaststelling kan niet tot gevolg hebben dat de uitkering later eindigt dan op grond van de toepasselijke termijn, bedoeld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 157
 
@@ -1741,7 +1741,7 @@ In geval van echtscheiding en voor zover de ene echtgenoot na de huwelijkssluiti
 
 ##### Artikel 158
 
-Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenkomst bepalen of, en zo ja tot welk bedrag, na de echtscheiding de één tegenover de ander tot een uitkering tot diens levensonderhoud zal zijn gehouden. Indien in de overeenkomst geen termijn is opgenomen, is [artikel 157, eerste tot en met vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenkomst bepalen of, en zo ja tot welk bedrag, na de echtscheiding de één tegenover de ander tot een uitkering tot diens levensonderhoud zal zijn gehouden. Indien in de overeenkomst geen termijn is opgenomen, is [artikel 157, eerste tot en met vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing.
 
 ##### Artikel 159
 
@@ -1753,7 +1753,7 @@ Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenk
 
 ##### Artikel 159a
 
-Een overeenkomst als bedoeld in de [artikelen 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-01&g=2025-07-01) en [159 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159&z=2025-07-01&g=2025-07-01) staat niet in de weg aan verhaal op grond van [paragraaf 6.5 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5) en laat de vaststelling van het te verhalen bedrag onverlet.
+Een overeenkomst als bedoeld in de [artikelen 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-05&g=2025-07-05) en [159 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=159&z=2025-07-05&g=2025-07-05) staat niet in de weg aan verhaal op grond van [paragraaf 6.5 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5) en laat de vaststelling van het te verhalen bedrag onverlet.
 
 ##### Artikel 160
 
@@ -1785,7 +1785,7 @@ Vervallen
 
 ##### Artikel 164
 
-1. Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-01&g=2025-07-01) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden na de inschrijving van de beschikking waarbij de echtscheiding is uitgesproken, de aangerichte schade aan de gemeenschap te vergoeden.
+1. Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-05&g=2025-07-05) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden na de inschrijving van de beschikking waarbij de echtscheiding is uitgesproken, de aangerichte schade aan de gemeenschap te vergoeden.
 
 2. Een op het vorige lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren na de inschrijving van de beschikking.
 
@@ -1817,7 +1817,7 @@ Vervallen
 
 1. Scheiding van tafel en bed kan worden verzocht op dezelfde grond en op dezelfde wijze als echtscheiding.
 
-2. De [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=151&z=2025-07-01&g=2025-07-01), [154 tot en met 159a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=154&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijnen, bedoeld in [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-01&g=2025-07-01), en [artikel 157, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), aanvangen op de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01), en dat de duur van het huwelijk wordt berekend tot die dag.
+2. De [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=151&z=2025-07-05&g=2025-07-05), [154 tot en met 159a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=154&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing, met dien verstande dat de termijnen, bedoeld in [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-05&g=2025-07-05), en [artikel 157, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), aanvangen op de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05), en dat de duur van het huwelijk wordt berekend tot die dag.
 
 3. Een verplichting van een echtgenoot om uit hoofde van scheiding van tafel en bed levensonderhoud te verschaffen aan de andere echtgenoot, eindigt bij ontbinding van het huwelijk.
 
@@ -1839,7 +1839,7 @@ Vervallen
 
 ##### Artikel 173
 
-1. De scheiding van tafel en bed komt tot stand door de inschrijving van de beschikking in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01).
+1. De scheiding van tafel en bed komt tot stand door de inschrijving van de beschikking in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05).
 
 2. De inschrijving geschiedt op verzoek van de echtgenoten of van één van hen.
 
@@ -1847,7 +1847,7 @@ Vervallen
 
 ##### Artikel 174
 
-1. Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-01&g=2025-07-01) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden, nadat de beschikking waarbij de scheiding van tafel en bed is uitgesproken, is ingeschreven, de aangerichte schade aan de gemeenschap te vergoeden.
+1. Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in [artikel 88 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=88&z=2025-07-05&g=2025-07-05) zonder de vereiste toestemming of beslissing van de rechtbank heeft verricht, is hij gehouden, nadat de beschikking waarbij de scheiding van tafel en bed is uitgesproken, is ingeschreven, de aangerichte schade aan de gemeenschap te vergoeden.
 
 2. Een op het eerste lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren na de inschrijving van de beschikking van scheiding van tafel en bed.
 
@@ -1861,7 +1861,7 @@ Vervallen
 
 ##### Artikel 176
 
-1. Een scheiding van tafel en bed eindigt door de verzoening van de echtgenoten, op het tijdstip dat zij op hun eensluidend verzoek in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01), hebben doen inschrijven dat de scheiding heeft opgehouden te bestaan.
+1. Een scheiding van tafel en bed eindigt door de verzoening van de echtgenoten, op het tijdstip dat zij op hun eensluidend verzoek in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05), hebben doen inschrijven dat de scheiding heeft opgehouden te bestaan.
 
 2. De inschrijving doet alle gevolgen van het huwelijk van rechtswege herleven, alsof er geen scheiding van tafel en bed had plaatsgehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de scheiding van tafel en bed en de verzoening zijn verricht, beoordeeld naar het tijdstip van de handeling.
 
@@ -1899,13 +1899,13 @@ Ontbinding van het huwelijk van echtgenoten die van tafel en bed gescheiden zijn
 
 ##### Artikel 182
 
-De [artikelen 154, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=154&z=2025-07-01&g=2025-07-01), en [156 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-01&g=2025-07-01) van dit boek zijn van overeenkomstige toepassing, met dien verstande dat de in de [artikelen 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-01&g=2025-07-01), en [157, eerste tot en met vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), bedoelde termijnen worden verminderd met de tijd gedurende welke tijdens de scheiding van tafel en bed een verplichting tot levensonderhoud jegens de andere echtgenoot bestond en dat de duur van het huwelijk wordt berekend tot de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01).
+De [artikelen 154, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=154&z=2025-07-05&g=2025-07-05), en [156 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-05&g=2025-07-05) van dit boek zijn van overeenkomstige toepassing, met dien verstande dat de in de [artikelen 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-05&g=2025-07-05), en [157, eerste tot en met vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), bedoelde termijnen worden verminderd met de tijd gedurende welke tijdens de scheiding van tafel en bed een verplichting tot levensonderhoud jegens de andere echtgenoot bestond en dat de duur van het huwelijk wordt berekend tot de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 183
 
 1. De ontbinding van het huwelijk komt tot stand door de inschrijving van de beschikking in de registers van de burgerlijke stand.
 
-2. De [artikelen 163, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=163&z=2025-07-01&g=2025-07-01), en [166 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=166&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 163, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=163&z=2025-07-05&g=2025-07-05), en [166 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=166&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 184
 
@@ -1973,7 +1973,7 @@ Een kind, zijn ouders en hun bloedverwanten staan in familierechtelijke betrekki
 
 - a. uit wie het kind is geboren;
 
-- b. die op het tijdstip van de geboorte van het kind is gehuwd of door een geregistreerd partnerschap is verbonden met de vrouw uit wie het kind is geboren, indien dit kind is verwekt door kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, sub 1, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1) en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring is overgelegd, waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, tenzij de laatste zin van dit onderdeel of de eerste zin van [artikel 199, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-01&g=2025-07-01), geldt. De verklaring dient bij de aangifte van de geboorte te worden overgelegd aan de ambtenaar van de burgerlijke stand en werkt terug tot aan de geboorte van het kind. Indien het huwelijk of geregistreerd partnerschap na de kunstmatige donorbevruchting en voor de geboorte van het kind is ontbonden door de dood van de echtgenote of geregistreerde partner van de vrouw uit wie het kind is geboren, is de overleden echtgenote of geregistreerde partner eveneens moeder van het kind als de voornoemde verklaring wordt overgelegd bij de aangifte van de geboorte van het kind, zelfs indien de vrouw uit wie het kind is geboren was hertrouwd of een nieuw partnerschap had laten registreren;
+- b. die op het tijdstip van de geboorte van het kind is gehuwd of door een geregistreerd partnerschap is verbonden met de vrouw uit wie het kind is geboren, indien dit kind is verwekt door kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, sub 1, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1) en een door het College, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring is overgelegd, waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, tenzij de laatste zin van dit onderdeel of de eerste zin van [artikel 199, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-05&g=2025-07-05), geldt. De verklaring dient bij de aangifte van de geboorte te worden overgelegd aan de ambtenaar van de burgerlijke stand en werkt terug tot aan de geboorte van het kind. Indien het huwelijk of geregistreerd partnerschap na de kunstmatige donorbevruchting en voor de geboorte van het kind is ontbonden door de dood van de echtgenote of geregistreerde partner van de vrouw uit wie het kind is geboren, is de overleden echtgenote of geregistreerde partner eveneens moeder van het kind als de voornoemde verklaring wordt overgelegd bij de aangifte van de geboorte van het kind, zelfs indien de vrouw uit wie het kind is geboren was hertrouwd of een nieuw partnerschap had laten registreren;
 
 - c. die het kind heeft erkend;
 
@@ -1987,9 +1987,9 @@ Een kind, zijn ouders en hun bloedverwanten staan in familierechtelijke betrekki
 
 Vader van een kind is de man:
 
-- a. die op het tijdstip van de geboorte van het kind met de vrouw uit wie het kind is geboren, is gehuwd of een geregistreerd partnerschap is aangegaan, tenzij onderdeel b of de slotzin van [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), geldt;
+- a. die op het tijdstip van de geboorte van het kind met de vrouw uit wie het kind is geboren, is gehuwd of een geregistreerd partnerschap is aangegaan, tenzij onderdeel b of de slotzin van [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), geldt;
 
-- b. wiens huwelijk of geregistreerd partnerschap met de vrouw uit wie het kind is geboren, binnen 306 dagen voor de geboorte van het kind door zijn dood is ontbonden, zelfs indien de moeder was hertrouwd of een nieuw partnerschap had laten registreren; indien echter de vrouw sedert de 306de dag voor de geboorte van het kind was gescheiden van tafel en bed of zij en haar echtgenoot of geregistreerde partner sedert dat tijdstip gescheiden hebben geleefd, kan de vrouw binnen een jaar na de geboorte van het kind ten overstaan van de ambtenaar van de burgerlijke stand verklaren dat haar overleden echtgenoot of geregistreerde partner niet de vader is van het kind, van welke verklaring een akte wordt opgemaakt; was de moeder op het tijdstip van de geboorte hertrouwd of had zij een nieuw partnerschap laten registreren dan is in dat geval de huidige echtgenoot of geregistreerde partner de vader of, in het geval, genoemd in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), de huidige echtgenote of geregistreerde partner de moeder van het kind;
+- b. wiens huwelijk of geregistreerd partnerschap met de vrouw uit wie het kind is geboren, binnen 306 dagen voor de geboorte van het kind door zijn dood is ontbonden, zelfs indien de moeder was hertrouwd of een nieuw partnerschap had laten registreren; indien echter de vrouw sedert de 306de dag voor de geboorte van het kind was gescheiden van tafel en bed of zij en haar echtgenoot of geregistreerde partner sedert dat tijdstip gescheiden hebben geleefd, kan de vrouw binnen een jaar na de geboorte van het kind ten overstaan van de ambtenaar van de burgerlijke stand verklaren dat haar overleden echtgenoot of geregistreerde partner niet de vader is van het kind, van welke verklaring een akte wordt opgemaakt; was de moeder op het tijdstip van de geboorte hertrouwd of had zij een nieuw partnerschap laten registreren dan is in dat geval de huidige echtgenoot of geregistreerde partner de vader of, in het geval, genoemd in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), de huidige echtgenote of geregistreerde partner de moeder van het kind;
 
 - c. die het kind heeft erkend;
 
@@ -2001,15 +2001,15 @@ Vader van een kind is de man:
 
 ##### Artikel 200
 
-1. Het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-01&g=2025-07-01), bedoelde vaderschap kan, op de grond dat de man niet de biologische vader van het kind is, worden ontkend:
+1. Het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-05&g=2025-07-05), bedoelde vaderschap kan, op de grond dat de man niet de biologische vader van het kind is, worden ontkend:
 
 - a. door de vader of de moeder van het kind;
 
 - b. door het kind zelf.
 
-2. De vader of moeder kan het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-01&g=2025-07-01), bedoelde vaderschap niet ontkennen, indien de man vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap.
+2. De vader of moeder kan het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-05&g=2025-07-05), bedoelde vaderschap niet ontkennen, indien de man vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap.
 
-3. De vader of moeder kan het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-01&g=2025-07-01), bedoelde vaderschap evenmin ontkennen, indien de man heeft ingestemd met een daad die de verwekking van het kind tot gevolg kan hebben gehad.
+3. De vader of moeder kan het in [artikel 199, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=199&z=2025-07-05&g=2025-07-05), bedoelde vaderschap evenmin ontkennen, indien de man heeft ingestemd met een daad die de verwekking van het kind tot gevolg kan hebben gehad.
 
 4. Het tweede en derde lid zijn niet van toepassing ten aanzien van de vader, indien de moeder hem heeft bedrogen omtrent de verwekker.
 
@@ -2019,9 +2019,9 @@ Vader van een kind is de man:
 
 ##### Artikel 201
 
-1. Overlijdt de vader of de moeder voor de afloop van de in [artikel 200, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=200&z=2025-07-01&g=2025-07-01), gestelde termijn, dan kan een afstammeling van deze echtgenoot of geregistreerde partner in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze echtgenoot of geregistreerde partner, de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van de verzoeker is gekomen.
+1. Overlijdt de vader of de moeder voor de afloop van de in [artikel 200, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=200&z=2025-07-05&g=2025-07-05), gestelde termijn, dan kan een afstammeling van deze echtgenoot of geregistreerde partner in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze echtgenoot of geregistreerde partner, de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van de verzoeker is gekomen.
 
-2. Overlijdt het kind voor de afloop van de in [artikel 200, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=200&z=2025-07-01&g=2025-07-01), gestelde termijn, dan kan een afstammeling in de eerste graad van het kind de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Indien het kind meerderjarig was ten tijde van het overlijden, wordt het verzoek gedaan binnen een jaar na de dag van overlijden of binnen een jaar nadat het overlijden ter kennis van de verzoeker is gekomen. Overleed het kind gedurende de minderjarigheid, dan dient het verzoek te worden gedaan binnen een jaar nadat het kind, in leven zijnde, zelfstandig het verzoek had kunnen doen, dan wel, indien het overlijden op een later tijdstip ter kennis is gekomen van de verzoeker binnen een jaar na die kennisneming.
+2. Overlijdt het kind voor de afloop van de in [artikel 200, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=200&z=2025-07-05&g=2025-07-05), gestelde termijn, dan kan een afstammeling in de eerste graad van het kind de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Indien het kind meerderjarig was ten tijde van het overlijden, wordt het verzoek gedaan binnen een jaar na de dag van overlijden of binnen een jaar nadat het overlijden ter kennis van de verzoeker is gekomen. Overleed het kind gedurende de minderjarigheid, dan dient het verzoek te worden gedaan binnen een jaar nadat het kind, in leven zijnde, zelfstandig het verzoek had kunnen doen, dan wel, indien het overlijden op een later tijdstip ter kennis is gekomen van de verzoeker binnen een jaar na die kennisneming.
 
 ##### Artikel 202
 
@@ -2047,7 +2047,7 @@ Vader van een kind is de man:
 
 1. De erkenning is nietig, indien zij is gedaan:
 
-- a. door een persoon die krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01) geen huwelijk met de moeder mag sluiten;
+- a. door een persoon die krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05) geen huwelijk met de moeder mag sluiten;
 
 - b. door een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt;
 
@@ -2085,7 +2085,7 @@ Vader van een kind is de man:
 
 4. Het verzoek wordt door het kind ingediend binnen drie jaren nadat het kind bekend is geworden met het feit dat de man vermoedelijk niet zijn biologische vader is. Indien het kind evenwel gedurende zijn minderjarigheid bekend is geworden met dit feit kan het verzoek tot uiterlijk drie jaren nadat het kind meerderjarig is geworden, worden ingediend.
 
-5. Voor het geval de erkenner of de moeder overlijdt voor de afloop van de in het derde lid gestelde termijn, is [artikel 201, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing. Voor het geval het kind overlijdt voor de afloop van de in het vierde lid gestelde termijn, is [artikel 201, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+5. Voor het geval de erkenner of de moeder overlijdt voor de afloop van de in het derde lid gestelde termijn, is [artikel 201, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing. Voor het geval het kind overlijdt voor de afloop van de in het vierde lid gestelde termijn, is [artikel 201, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing.
 
 ##### Artikel 206
 
@@ -2109,7 +2109,7 @@ Vader van een kind is de man:
 
 - a. het kind twee ouders heeft;
 
-- b. tussen de in de aanhef van het eerste lid bedoelde persoon en de moeder van het kind krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01) geen huwelijk zou mogen worden gesloten;
+- b. tussen de in de aanhef van het eerste lid bedoelde persoon en de moeder van het kind krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05) geen huwelijk zou mogen worden gesloten;
 
 - c. de in de aanhef van het eerste lid bedoelde persoon een minderjarige is die de leeftijd van zestien jaren nog niet heeft bereikt, tenzij hij voordat hij deze leeftijd heeft bereikt is overleden.
 
@@ -2121,7 +2121,7 @@ Vader van een kind is de man:
 
 ##### Artikel 208
 
-Bij de uitspraak waarbij het ouderschap wordt vastgesteld, kan de rechter op een daartoe strekkend verzoek ten behoeve van het kind een bijdrage toekennen in de kosten van verzorging en opvoeding als bedoeld in [artikel 404](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=404&z=2025-07-01&g=2025-07-01) of in de kosten van levensonderhoud en studie als bedoeld in [artikel 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01).
+Bij de uitspraak waarbij het ouderschap wordt vastgesteld, kan de rechter op een daartoe strekkend verzoek ten behoeve van het kind een bijdrage toekennen in de kosten van verzorging en opvoeding als bedoeld in [artikel 404](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=404&z=2025-07-05&g=2025-07-05) of in de kosten van levensonderhoud en studie als bedoeld in [artikel 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05).
 
 ### Afdeling 2a. **Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane moederschap**
 
@@ -2209,13 +2209,13 @@ Vervallen
 
 ##### Artikel 227
 
-1. Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-01&g=2025-07-01) geen huwelijk zouden mogen aangaan.
+1. Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5&afdeling=1&artikel=41&z=2025-07-05&g=2025-07-05) geen huwelijk zouden mogen aangaan.
 
 2. Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd. De in de tweede zin bedoelde voorwaarde geldt evenwel niet indien het kind is of wordt geboren binnen de relatie van de adoptant en die ouder.
 
-3. Het verzoek kan alleen worden toegewezen, indien de adoptie in het kennelijk belang van het kind is, op het tijdstip van het verzoek tot adoptie vaststaat en voor de toekomst redelijkerwijs te voorzien is dat het kind niets meer van zijn ouder of ouders in de hoedanigheid van ouder te verwachten heeft, en aan de voorwaarden, genoemd in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-01&g=2025-07-01), wordt voldaan.
+3. Het verzoek kan alleen worden toegewezen, indien de adoptie in het kennelijk belang van het kind is, op het tijdstip van het verzoek tot adoptie vaststaat en voor de toekomst redelijkerwijs te voorzien is dat het kind niets meer van zijn ouder of ouders in de hoedanigheid van ouder te verwachten heeft, en aan de voorwaarden, genoemd in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-05&g=2025-07-05), wordt voldaan.
 
-4. Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, en het kind door en ten gevolge van kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1) is verwekt en een door de stichting, bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642), ter bevestiging hiervan afgegeven verklaring wordt overgelegd waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is of niet is voldaan aan de voorwaarden, genoemd in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-01&g=2025-07-01).
+4. Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, en het kind door en ten gevolge van kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1) is verwekt en een door het College, bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642), ter bevestiging hiervan afgegeven verklaring wordt overgelegd waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is of niet is voldaan aan de voorwaarden, genoemd in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-05&g=2025-07-05).
 
 5. Zijn de voornamen van het kind niet bekend, dan stelt de rechter, nadat hij de adoptant of adoptanten en het kind, indien dat twaalf jaren of ouder is, heeft gehoord, bij de adoptiebeschikking tevens een of meer voornamen vast.
 
@@ -2259,7 +2259,7 @@ Vervallen
 
 4. De adoptiefouders die niet met elkaar zijn gehuwd of door een geregistreerd partnerschap zijn verbonden oefenen door adoptie het gezag over de geadopteerde gezamenlijk uit.
 
-5. Indien het kind op het tijdstip van de adoptie omgang heeft met een ouder ten aanzien van wie de familierechtelijke betrekking ophoudt te bestaan, kan de rechtbank bepalen dat zij gerechtigd blijven tot omgang met elkaar. De [artikelen 377a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-01&g=2025-07-01), [377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-01&g=2025-07-01) en [377g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377g&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+5. Indien het kind op het tijdstip van de adoptie omgang heeft met een ouder ten aanzien van wie de familierechtelijke betrekking ophoudt te bestaan, kan de rechtbank bepalen dat zij gerechtigd blijven tot omgang met elkaar. De [artikelen 377a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-05&g=2025-07-05), [377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-05&g=2025-07-05) en [377g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377g&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 230
 
@@ -2267,7 +2267,7 @@ Vervallen
 
 2. Indien het kind is geboren binnen de relatie van de ouder en de adoptant en de adoptie voor de geboorte van het kind is verzocht, werkt deze terug tot het tijdstip van geboorte van het kind; indien de adoptie uiterlijk zes maanden na de geboorte van het kind is verzocht, werkt deze terug tot het tijdstip van indiening van het verzoek. Het bepaalde in de eerste volzin is niet van toepassing indien voor de adoptie familierechtelijke betrekkingen waren gevestigd tussen het kind en een andere ouder en deze door de adoptie zijn verbroken. De adoptie kan in het geval, bedoeld in de eerste volzin, ook worden uitgesproken indien de adoptant na indiening van het verzoek is overleden.
 
-3. De adoptie blijft haar gevolgen behouden, ook al zou blijken, dat de rechter de door [artikel 228 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-01&g=2025-07-01) gestelde voorwaarden ten onrechte als vervuld zou hebben aangenomen.
+3. De adoptie blijft haar gevolgen behouden, ook al zou blijken, dat de rechter de door [artikel 228 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=228&z=2025-07-05&g=2025-07-05) gestelde voorwaarden ten onrechte als vervuld zou hebben aangenomen.
 
 ##### Artikel 231
 
@@ -2281,7 +2281,7 @@ Vervallen
 
 2. De familierechtelijke betrekking die door de adoptie opgehouden had te bestaan, herleeft door de herroeping.
 
-3. [Artikel 230](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=230&z=2025-07-01&g=2025-07-01) vindt ten aanzien van de herroeping overeenkomstige toepassing.
+3. [Artikel 230](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&artikel=230&z=2025-07-05&g=2025-07-05) vindt ten aanzien van de herroeping overeenkomstige toepassing.
 
 ## Titel 12. Adoptie
 
@@ -2289,7 +2289,7 @@ Vervallen
 
 ##### Artikel 233
 
-Minderjarigen zijn zij die de leeftijd van achttien jaren niet hebben bereikt en evenmin met toepassing van [artikel 253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2a&artikel=253ha&z=2025-07-01&g=2025-07-01) meerderjarig zijn verklaard.
+Minderjarigen zijn zij die de leeftijd van achttien jaren niet hebben bereikt en evenmin met toepassing van [artikel 253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2a&artikel=253ha&z=2025-07-05&g=2025-07-05) meerderjarig zijn verklaard.
 
 ##### Artikel 234
 
@@ -2305,17 +2305,17 @@ Minderjarigen zijn zij die de leeftijd van achttien jaren niet hebben bereikt en
 
 1. Handlichting waarbij aan een minderjarige bepaalde bevoegdheden van een meerderjarige worden toegekend, kan wanneer de minderjarige de leeftijd van zestien jaren heeft bereikt, op zijn verzoek door de kantonrechter worden verleend.
 
-2. Zij wordt niet verleend tegen de wil van de ouders voor zover deze het gezag over de minderjarige uitoefenen, met inachtneming nochtans van [artikel 253a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01).
+2. Zij wordt niet verleend tegen de wil van de ouders voor zover deze het gezag over de minderjarige uitoefenen, met inachtneming nochtans van [artikel 253a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05).
 
 3. Bij het verlenen van handlichting bepaalt de kantonrechter uitdrukkelijk, welke bevoegdheden van een meerderjarige aan de minderjarige worden toegekend. Deze bevoegdheden mogen zich niet verder uitstrekken dan tot de gedeeltelijke of de gehele ontvangst van zijn inkomsten en de beschikking daarover, het sluiten van verhuringen en verpachtingen, het in een vennootschap deelnemen en het uitoefenen van een beroep of bedrijf. De minderjarige wordt echter door handlichting niet bekwaam tot het beschikken over registergoederen, effecten, of door hypotheek gedekte vorderingen.
 
-4. Hij kan ter zake van de handlichting zelf en van handelingen, waartoe hij krachtens de verkregen handlichting bekwaam is, eisende of verwerende in rechte optreden. [Artikel 12 lid 1 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=3&artikel=12&z=2025-07-01&g=2025-07-01) geldt voor die handelingen niet.
+4. Hij kan ter zake van de handlichting zelf en van handelingen, waartoe hij krachtens de verkregen handlichting bekwaam is, eisende of verwerende in rechte optreden. [Artikel 12 lid 1 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=3&artikel=12&z=2025-07-05&g=2025-07-05) geldt voor die handelingen niet.
 
 ##### Artikel 236
 
 1. Een verleende handlichting kan door de kantonrechter worden ingetrokken, indien de minderjarige daarvan misbruik maakt of er gegronde vrees bestaat dat hij dit zal doen.
 
-2. De intrekking geschiedt op verzoek van een van de ouders van de minderjarige, voor zover deze het gezag over hem uitoefenen en met inachtneming van [artikel 253a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01), of op verzoek van de voogd.
+2. De intrekking geschiedt op verzoek van een van de ouders van de minderjarige, voor zover deze het gezag over hem uitoefenen en met inachtneming van [artikel 253a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05), of op verzoek van de voogd.
 
 ##### Artikel 237
 
@@ -2369,13 +2369,13 @@ Degene die op grond van een wettelijk voorschrift of op grond van zijn ambt of b
 
 5. De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het vierde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.
 
-6. In afwijking van het tweede lid kan de kinderrechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Veiligheid en Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-01&g=2025-07-01).
+6. In afwijking van het tweede lid kan de kinderrechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Veiligheid en Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-05&g=2025-07-05).
 
 7. De raad voor de kinderbescherming kan een onderzoek instellen naar de leefsituatie van een minderjarige die duurzaam wordt verzorgd en opgevoed bij anderen dan degenen die het ouderlijke gezag of de voogdij over hem uitoefenen, het gezin waarin hij wordt verzorgd en opgevoed of de wijze waarop het gezag of de voogdij over hem wordt uitgeoefend, indien er een redelijk vermoeden bestaat dat de minderjarige in strijd met een wettelijk voorschrift in dat gezin is opgenomen.
 
 ##### Artikel 241a
 
-Op de uitoefening van de voorlopige voogdij door een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is [artikel 243](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=243&z=2025-07-01&g=2025-07-01) van dit Boek van overeenkomstige toepassing.
+Op de uitoefening van de voorlopige voogdij door een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is [artikel 243](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=243&z=2025-07-05&g=2025-07-05) van dit Boek van overeenkomstige toepassing.
 
 ##### Artikel 242
 
@@ -2383,13 +2383,13 @@ De raad voor de kinderbescherming stelt zich op de hoogte van alle gevallen, waa
 
 ##### Artikel 243
 
-1. De colleges van burgemeester en wethouders en ambtenaren van de burgerlijke stand verschaffen de raad voor de kinderbescherming kosteloos alle inlichtingen, en verstrekken de raad kosteloos alle afschriften en uittreksels uit hun registers, die de raad ter uitvoering van zijn taak van hen vraagt. Wanneer de raad voor de kinderbescherming een taak vervult of een bevoegdheid uitoefent op grond van een van de bepalingen van deze titel of van de [titels 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-01&g=2025-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&z=2025-07-01&g=2025-07-01) en [17 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&z=2025-07-01&g=2025-07-01), alsmede op grond van de daarmee verband houdende bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827), verschaffen de bij algemene maatregel van bestuur aan te wijzen instanties of personen de raad kosteloos die inlichtingen die voor een goede uitoefening van hun taak noodzakelijk zijn.
+1. De colleges van burgemeester en wethouders en ambtenaren van de burgerlijke stand verschaffen de raad voor de kinderbescherming kosteloos alle inlichtingen, en verstrekken de raad kosteloos alle afschriften en uittreksels uit hun registers, die de raad ter uitvoering van zijn taak van hen vraagt. Wanneer de raad voor de kinderbescherming een taak vervult of een bevoegdheid uitoefent op grond van een van de bepalingen van deze titel of van de [titels 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-05&g=2025-07-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-05&g=2025-07-05), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&z=2025-07-05&g=2025-07-05), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&z=2025-07-05&g=2025-07-05) en [17 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&z=2025-07-05&g=2025-07-05), alsmede op grond van de daarmee verband houdende bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827), verschaffen de bij algemene maatregel van bestuur aan te wijzen instanties of personen de raad kosteloos die inlichtingen die voor een goede uitoefening van hun taak noodzakelijk zijn.
 
 2. Alle verzoeken die de raad voor de kinderbescherming ter uitvoering van zijn taak tot de rechter richt, worden kosteloos behandeld; de grossen, afschriften en uittreksels, die hij tot dat doel aanvraagt, worden hem door de griffiers vrij van alle kosten uitgereikt.
 
 3. Exploten door de deurwaarders ten verzoeke van de raad voor de kinderbescherming uitgebracht, worden volgens het gewone tarief vergoed. Advocaten kunnen voor hun aan de raad voor de kinderbescherming bewezen diensten salaris in rekening brengen.
 
-4. Wanneer de raad voor de kinderbescherming op grond van een van de bepalingen van deze titel, of van de [titels 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&z=2025-07-01&g=2025-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&z=2025-07-01&g=2025-07-01) en [17 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&z=2025-07-01&g=2025-07-01) in rechte optreedt, kan hij dit zonder advocaat doen, behalve in zaken waarbij een vordering wordt ingesteld.
+4. Wanneer de raad voor de kinderbescherming op grond van een van de bepalingen van deze titel, of van de [titels 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-05&g=2025-07-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-05&g=2025-07-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=12&z=2025-07-05&g=2025-07-05), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&z=2025-07-05&g=2025-07-05), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&z=2025-07-05&g=2025-07-05) en [17 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&z=2025-07-05&g=2025-07-05) in rechte optreedt, kan hij dit zonder advocaat doen, behalve in zaken waarbij een vordering wordt ingesteld.
 
 ### Afdeling 2. Handlichting
 
@@ -2413,7 +2413,7 @@ Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend 
 
 4. Het gezag heeft betrekking op de persoon van de minderjarige, het bewind over zijn vermogen en zijn vertegenwoordiging in burgerlijke handelingen, zowel in als buiten rechte.
 
-5. Het gezag van de ouder die dit krachtens [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) of krachtens een rechterlijke beslissing overeenkomstig [artikel 253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01) samen met een ander dan een ouder uitoefent, wordt aangemerkt als ouderlijk gezag dat door ouders gezamenlijk wordt uitgeoefend, tenzij uit een wettelijke bepaling het tegendeel voortvloeit.
+5. Het gezag van de ouder die dit krachtens [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) of krachtens een rechterlijke beslissing overeenkomstig [artikel 253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05) samen met een ander dan een ouder uitoefent, wordt aangemerkt als ouderlijk gezag dat door ouders gezamenlijk wordt uitgeoefend, tenzij uit een wettelijke bepaling het tegendeel voortvloeit.
 
 ##### Artikel 246
 
@@ -2431,13 +2431,13 @@ Vervallen
 
 3. Het ouderlijk gezag omvat mede de verplichting van de ouder om de ontwikkeling van de banden van zijn kind met de andere ouder te bevorderen.
 
-4. Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-01&g=2025-07-01), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-01&g=2025-07-01), is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
+4. Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-05&g=2025-07-05), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-05&g=2025-07-05), is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
 
-5. Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-01&g=2025-07-01), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-01&g=2025-07-01), is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
+5. Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-05&g=2025-07-05), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-05&g=2025-07-05), is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
 
 ##### Artikel 248
 
-Het [tweede lid van artikel 247 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op de voogd en op degene die een minderjarige verzorgt en opvoedt zonder dat hem het gezag over die minderjarige toekomt.
+Het [tweede lid van artikel 247 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing op de voogd en op degene die een minderjarige verzorgt en opvoedt zonder dat hem het gezag over die minderjarige toekomt.
 
 ##### Artikel 249
 
@@ -2447,7 +2447,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 1. Wanneer in aangelegenheden betreffende diens verzorging en opvoeding, dan wel het vermogen van de minderjarige, de belangen van de met het gezag belaste ouders of een van hen dan wel van de voogd of de beide voogden in strijd zijn met die van de minderjarige, benoemt de rechtbank, danwel, indien het een aangelegenheid inzake het vermogen van de minderjarige betreft, de kantonrechter, of, indien de zaak reeds aanhangig is, de desbetreffende rechter, indien hij dit in het belang van de minderjarige noodzakelijk acht, daarbij in het bijzonder de aard van deze belangenstrijd in aanmerking genomen, op verzoek van een belanghebbende of ambtshalve een bijzondere curator om de minderjarige ter zake, zowel in als buiten rechte, te vertegenwoordigen.
 
-2. In geval van een verzoek van de raad voor de kinderbescherming als bedoeld in [artikel 242a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=242a&z=2025-07-01&g=2025-07-01) benoemt de kinderrechter bij de aanvang van het geding een bijzondere curator om de minderjarige, zowel in als buiten rechte, te vertegenwoordigen.
+2. In geval van een verzoek van de raad voor de kinderbescherming als bedoeld in [artikel 242a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=242a&z=2025-07-05&g=2025-07-05) benoemt de kinderrechter bij de aanvang van het geding een bijzondere curator om de minderjarige, zowel in als buiten rechte, te vertegenwoordigen.
 
 ### Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
 
@@ -2475,7 +2475,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 ##### Artikel 252
 
-1. De ouders die niet met elkaar zijn gehuwd of een geregistreerd partnerschap zijn aangegaan en niet het gezamenlijk gezag uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-01&g=2025-07-01), oefenen het gezag over hun minderjarige kinderen gezamenlijk uit, indien dit op hun beider verzoek in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-01&g=2025-07-01), is aangetekend. Een verzoek als bedoeld in de eerste volzin kan niet worden gedaan ten aanzien van de kinderen over wie zij het gezag gezamenlijk hebben uitgeoefend.
+1. De ouders die niet met elkaar zijn gehuwd of een geregistreerd partnerschap zijn aangegaan en niet het gezamenlijk gezag uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-05&g=2025-07-05), oefenen het gezag over hun minderjarige kinderen gezamenlijk uit, indien dit op hun beider verzoek in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-05&g=2025-07-05), is aangetekend. Een verzoek als bedoeld in de eerste volzin kan niet worden gedaan ten aanzien van de kinderen over wie zij het gezag gezamenlijk hebben uitgeoefend.
 
 2. De aantekening wordt door de griffier geweigerd, indien op het tijdstip van het verzoek:
 
@@ -2507,17 +2507,17 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 2. De rechtbank kan eveneens op verzoek van de ouders of een van hen een regeling vaststellen inzake de uitoefening van het ouderlijk gezag. Deze regeling kan omvatten:
 
-- a. een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede met overeenkomstige toepassing van [artikel 377a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-01&g=2025-07-01), een tijdelijk verbod aan een ouder om met het kind contact te hebben;
+- a. een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede met overeenkomstige toepassing van [artikel 377a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-05&g=2025-07-05), een tijdelijk verbod aan een ouder om met het kind contact te hebben;
 
 - b. de beslissing bij welke ouder het kind zijn hoofdverblijfplaats heeft;
 
 - c. de wijze waarop informatie omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van het kind wordt verschaft aan de ouder bij wie het kind niet zijn hoofdverblijfplaats heeft dan wel de wijze waarop deze ouder wordt geraadpleegd;
 
-- d. de wijze waarop informatie door derden overeenkomstig [artikel 377c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377c&z=2025-07-01&g=2025-07-01), wordt verschaft.
+- d. de wijze waarop informatie door derden overeenkomstig [artikel 377c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377c&z=2025-07-05&g=2025-07-05), wordt verschaft.
 
-3. Indien op de ouders de verplichting van [artikel 247a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247a&z=2025-07-01&g=2025-07-01) rust en zij daaraan niet hebben voldaan, houdt de rechter de beslissing op een in het tweede lid bedoeld verzoek ambtshalve aan, totdat aan die verplichting is voldaan. Aanhouding blijft achterwege indien het belang van het kind dit vergt.
+3. Indien op de ouders de verplichting van [artikel 247a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247a&z=2025-07-05&g=2025-07-05) rust en zij daaraan niet hebben voldaan, houdt de rechter de beslissing op een in het tweede lid bedoeld verzoek ambtshalve aan, totdat aan die verplichting is voldaan. Aanhouding blijft achterwege indien het belang van het kind dit vergt.
 
-4. De [artikelen 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-01&g=2025-07-01) en [377g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377g&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing. Daar waar in deze bepalingen gesproken wordt over omgang of een omgangsregeling wordt in plaats daarvan gelezen: een verdeling van de zorg- en opvoedingstaken.
+4. De [artikelen 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-05&g=2025-07-05) en [377g](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377g&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing. Daar waar in deze bepalingen gesproken wordt over omgang of een omgangsregeling wordt in plaats daarvan gelezen: een verdeling van de zorg- en opvoedingstaken.
 
 5. De rechtbank beproeft alvorens te beslissen op een verzoek als in het eerste of tweede lid bedoeld, een vergelijk tussen de ouders en kan desverzocht en ook ambtshalve, zulks indien geen vergelijk tot stand komt en het belang van het kind zich daartegen niet verzet, een door de wet toegelaten dwangmiddel opleggen, dan wel bepalen dat de beschikking of onderdelen daarvan met toepassing van [artikel 812, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=812) ten uitvoer kunnen worden gelegd.
 
@@ -2529,7 +2529,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 1. Gedurende hun geregistreerd partnerschap oefenen de ouders het gezag gezamenlijk uit.
 
-2. De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), blijven de ouders die gezamenlijk het gezag hebben, dit gezag gezamenlijk uitoefenen.
+2. De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), blijven de ouders die gezamenlijk het gezag hebben, dit gezag gezamenlijk uitoefenen.
 
 #### § 1. Het gezamenlijk gezag van ouders binnen en buiten huwelijk en het gezag van één ouder na scheiding
 
@@ -2563,7 +2563,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 ##### Artikel 253d
 
-1. Indien de voorziening in het gezag over een kind, bedoeld in [artikel 253b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253b&z=2025-07-01&g=2025-07-01), komt te ontbreken, kunnen beide ouders voor zover zij tot het gezag bevoegd zijn – de rechtbank verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast.
+1. Indien de voorziening in het gezag over een kind, bedoeld in [artikel 253b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253b&z=2025-07-05&g=2025-07-05), komt te ontbreken, kunnen beide ouders voor zover zij tot het gezag bevoegd zijn – de rechtbank verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast.
 
 2. Het in het eerste lid bedoelde verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
@@ -2573,7 +2573,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 ##### Artikel 253e
 
-Inwilliging van het verzoek van een der ouders als bedoeld in de [artikelen 253b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253b&z=2025-07-01&g=2025-07-01), [253c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253c&z=2025-07-01&g=2025-07-01) en [253d van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253d&z=2025-07-01&g=2025-07-01) heeft, indien de ander het gezag tot dusverre uitoefende, tot gevolg dat de laatste het gezag verliest. Dit gevolg treedt niet in indien de ouders als gevolg van de rechterlijke beslissing met het gezamenlijk gezag zijn belast.
+Inwilliging van het verzoek van een der ouders als bedoeld in de [artikelen 253b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253b&z=2025-07-05&g=2025-07-05), [253c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253c&z=2025-07-05&g=2025-07-05) en [253d van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253d&z=2025-07-05&g=2025-07-05) heeft, indien de ander het gezag tot dusverre uitoefende, tot gevolg dat de laatste het gezag verliest. Dit gevolg treedt niet in indien de ouders als gevolg van de rechterlijke beslissing met het gezamenlijk gezag zijn belast.
 
 ##### Artikel 253f
 
@@ -2587,7 +2587,7 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 3. Het verzoek om de overlevende ouder met het gezag te belasten wordt slechts afgewezen, indien de rechter oordeelt dat het belang van de minderjarige zich tegen inwilliging verzet.
 
-4. Het derde lid is mede van toepassing indien de overleden ouder een voogd had aangewezen overeenkomstig [artikel 292](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=2&artikel=292&z=2025-07-01&g=2025-07-01) van dit boek.
+4. Het derde lid is mede van toepassing indien de overleden ouder een voogd had aangewezen overeenkomstig [artikel 292](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=2&artikel=292&z=2025-07-05&g=2025-07-05) van dit boek.
 
 ##### Artikel 253h
 
@@ -2595,7 +2595,7 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 2. Hij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
-3. Wanneer de andere ouder een voogd had aangewezen overeenkomstig [artikel 292](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=2&artikel=292&z=2025-07-01&g=2025-07-01) van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien de rechter oordeelt dat het belang van de minderjarige zich tegen inwilliging verzet.
+3. Wanneer de andere ouder een voogd had aangewezen overeenkomstig [artikel 292](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=2&artikel=292&z=2025-07-05&g=2025-07-05) van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien de rechter oordeelt dat het belang van de minderjarige zich tegen inwilliging verzet.
 
 #### § 2. Het gezag van ouders anders dan na scheiding
 
@@ -2617,7 +2617,7 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 1. Ingeval van gezamenlijke gezagsuitoefening voeren de ouders gezamenlijk het bewind over het vermogen van het kind en vertegenwoordigen zij gezamenlijk het kind in burgerlijke handelingen, met dien verstande dat een ouder alleen, mits niet van bezwaren van de andere ouder is gebleken, hiertoe ook bevoegd is.
 
-2. [Artikel 253**a** van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing met dien verstande dat in plaats van "de rechtbank" wordt gelezen "de kantonrechter".
+2. [Artikel 253**a** van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing met dien verstande dat in plaats van "de rechtbank" wordt gelezen "de kantonrechter".
 
 3. Oefent een ouder het gezag alleen uit, dan wordt door die ouder het bewind over het vermogen van het kind gevoerd en het kind in burgerlijke handelingen vertegenwoordigd.
 
@@ -2625,7 +2625,7 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 - a. indien de rechter bij de beschikking waarbij de uitoefening van het gezag over het kind aan een van de ouders wordt opgedragen op eensluidend verzoek van de ouders of op verzoek van één van hen, mits de ander zich daartegen niet verzet, heeft bepaald dat de ouder die niet het gezag over het kind zal uitoefenen, het bewind over het vermogen van het kind zal voeren;
 
-- b. ingevolge [artikel 276, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=276&z=2025-07-01&g=2025-07-01), bij beëindiging van het gezag;
+- b. ingevolge [artikel 276, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=276&z=2025-07-05&g=2025-07-05), bij beëindiging van het gezag;
 
 - c. indien hij die een minderjarige goederen schenkt of vermaakt, bij de gift, onderscheidenlijk bij de uiterste wilsbeschikking, heeft bepaald dat een ander het bewind over die goederen zal voeren.
 
@@ -2639,7 +2639,7 @@ De ouders of een ouder moeten het bewind over het vermogen van hun kind als goed
 
 ##### Artikel 253k
 
-Op het bewind van de ouders of een ouder zijn de [artikelen 342, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-01&g=2025-07-01), [344 tot en met 357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=344&z=2025-07-01&g=2025-07-01) en [370 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=370&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+Op het bewind van de ouders of een ouder zijn de [artikelen 342, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-05&g=2025-07-05), [344 tot en met 357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=344&z=2025-07-05&g=2025-07-05) en [370 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=370&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 ##### Artikel 253l
 
@@ -2657,41 +2657,41 @@ De ouder heeft geen vruchtgenot van het vermogen, ten aanzien waarvan bij uiters
 
 ##### Artikel 253n
 
-1. Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de [artikelen 251, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251&z=2025-07-01&g=2025-07-01), [251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-01&g=2025-07-01), [252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-01&g=2025-07-01), [253q, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), of [277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-01&g=2025-07-01), beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
+1. Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de [artikelen 251, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251&z=2025-07-05&g=2025-07-05), [251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-05&g=2025-07-05), [252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-05&g=2025-07-05), [253q, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), of [277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-05&g=2025-07-05), beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
 
-2. Het [eerste en derde lid van artikel 251a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251a&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. Het [eerste en derde lid van artikel 251a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251a&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 253o
 
-Beslissingen waarbij een ouder alleen met het gezag is belast, gegeven ingevolge het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&z=2025-07-01&g=2025-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&z=2025-07-01&g=2025-07-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2a&z=2025-07-01&g=2025-07-01) van deze titel en het bepaalde in [artikel 253n](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253n&z=2025-07-01&g=2025-07-01) van dit boek kunnen op verzoek van de ouders of van een van hen door de rechtbank worden gewijzigd op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+Beslissingen waarbij een ouder alleen met het gezag is belast, gegeven ingevolge het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&z=2025-07-05&g=2025-07-05), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&z=2025-07-05&g=2025-07-05) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2a&z=2025-07-05&g=2025-07-05) van deze titel en het bepaalde in [artikel 253n](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253n&z=2025-07-05&g=2025-07-05) van dit boek kunnen op verzoek van de ouders of van een van hen door de rechtbank worden gewijzigd op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
 ##### Artikel 253p
 
 1. In de gevallen waarin door de rechter het gezag wordt opgedragen aan beide ouders of aan een ouder alleen, neemt dit een aanvang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan, of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de beschikking is verstrekt of verzonden.
 
-2. Na de gerechtelijke ontbinding van het huwelijk of van het geregistreerd partnerschap of na scheiding van tafel en bed begint het gezag nochtans niet voordat de beschikking houdende ontbinding van het huwelijk of van het geregistreerd partnerschap is ingeschreven in de registers van de burgerlijke stand of voordat de beschikking houdende scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-01&g=2025-07-01).
+2. Na de gerechtelijke ontbinding van het huwelijk of van het geregistreerd partnerschap of na scheiding van tafel en bed begint het gezag nochtans niet voordat de beschikking houdende ontbinding van het huwelijk of van het geregistreerd partnerschap is ingeschreven in de registers van de burgerlijke stand of voordat de beschikking houdende scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=8&afdeling=1&artikel=116&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 253q
 
-1. Wanneer een van de ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01) genoemde gronden daartoe onbevoegd is, oefent de andere ouder alleen het gezag over de kinderen uit. Wanneer de grond van de onbevoegdheid is weggevallen, herleeft van rechtswege het gezamenlijke gezag.
+1. Wanneer een van de ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05) genoemde gronden daartoe onbevoegd is, oefent de andere ouder alleen het gezag over de kinderen uit. Wanneer de grond van de onbevoegdheid is weggevallen, herleeft van rechtswege het gezamenlijke gezag.
 
-2. Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01) genoemde gronden onbevoegd zijn, benoemt de rechtbank een voogd.
+2. Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05) genoemde gronden onbevoegd zijn, benoemt de rechtbank een voogd.
 
-3. Wanneer een ouder die alleen het gezag uitoefent, op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01) genoemde gronden daartoe onbevoegd is, belast de rechtbank de andere ouder met het gezag, tenzij de rechter oordeelt dat het belang van de minderjarige zich hiertegen verzet. Alsdan benoemt zij een voogd.
+3. Wanneer een ouder die alleen het gezag uitoefent, op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05) genoemde gronden daartoe onbevoegd is, belast de rechtbank de andere ouder met het gezag, tenzij de rechter oordeelt dat het belang van de minderjarige zich hiertegen verzet. Alsdan benoemt zij een voogd.
 
-4. De in het tweede en derde lid bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een rechtspersoon een daartoe door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon als bedoeld in [artikel 256, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=256&z=2025-07-01&g=2025-07-01), en [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-01&g=2025-07-01), of ambtshalve.
+4. De in het tweede en derde lid bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een rechtspersoon een daartoe door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon als bedoeld in [artikel 256, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=256&z=2025-07-05&g=2025-07-05), en [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-05&g=2025-07-05), of ambtshalve.
 
 5. Wanneer de grond van de onbevoegdheid ten aanzien van de ouder die het gezag alleen uitoefende, is vervallen, belast de rechtbank deze ouder op zijn verzoek wederom met het gezag tenzij de rechtbank oordeelt dat het belang van de minderjarige zich hiertegen verzet. Op verzoek van de ouders of een van hen kan hij de ouders gezamenlijk met het gezag belasten.
 
 ##### Artikel 253r
 
-1. [Artikel 253q](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing, indien:
+1. [Artikel 253q](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing, indien:
 
 - a. de ouders of de ouder die het gezag uitoefenen al dan niet tijdelijk in de onmogelijkheid verkeren het gezag uit te oefenen; of
 
 - b. het bestaan of de verblijfplaats van de ouders of van één van hen die het gezag uitoefenen, onbekend is.
 
-2. In het geval een der ouders het gezag alleen uitoefent overeenkomstig [artikel 253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), is gedurende de tijd waarin een van de in het eerste lid bedoelde omstandigheden zich voordoet het gezag van de andere ouder geschorst. In de overige gevallen is het gezag geschorst totdat de rechter de ouders of een van hen wederom met het gezag belast. In afwijking van artikel 253q kan de rechter dit slechts doen indien aan de vereisten gesteld in [artikel 277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-01&g=2025-07-01), is voldaan.
+2. In het geval een der ouders het gezag alleen uitoefent overeenkomstig [artikel 253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), is gedurende de tijd waarin een van de in het eerste lid bedoelde omstandigheden zich voordoet het gezag van de andere ouder geschorst. In de overige gevallen is het gezag geschorst totdat de rechter de ouders of een van hen wederom met het gezag belast. In afwijking van artikel 253q kan de rechter dit slechts doen indien aan de vereisten gesteld in [artikel 277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-05&g=2025-07-05), is voldaan.
 
 ##### Artikel 253s
 
@@ -2709,7 +2709,7 @@ Beslissingen waarbij een ouder alleen met het gezag is belast, gegeven ingevolge
 
 1. Over het staande hun huwelijk of geregistreerd partnerschap geboren kind oefenen een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, gezamenlijk het gezag uit, tenzij het kind tevens in familierechtelijke betrekking staat tot een andere ouder.
 
-2. De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, voor wat betreft het in het vorige lid bedoeld geregistreerd partnerschap met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-01&g=2025-07-01), blijven de ouder en zijn geregistreerde partner die niet de ouder is, dit gezag gezamenlijk uitoefenen.
+2. De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, voor wat betreft het in het vorige lid bedoeld geregistreerd partnerschap met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in [artikel 80c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&artikel=80c&z=2025-07-05&g=2025-07-05), blijven de ouder en zijn geregistreerde partner die niet de ouder is, dit gezag gezamenlijk uitoefenen.
 
 #### § 3. Het bewind van de ouders
 
@@ -2725,9 +2725,9 @@ Beslissingen waarbij een ouder alleen met het gezag is belast, gegeven ingevolge
 
 3. Het verzoek wordt afgewezen indien, mede in het licht van de belangen van een andere ouder, gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
-4. Het gezamenlijk gezag, bedoeld in het eerste lid, kan niet worden toegekend in de gevallen, bedoeld in [artikel 253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), en [artikel 253r](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253r&z=2025-07-01&g=2025-07-01). Het staat niet open voor rechtspersonen.
+4. Het gezamenlijk gezag, bedoeld in het eerste lid, kan niet worden toegekend in de gevallen, bedoeld in [artikel 253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), en [artikel 253r](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253r&z=2025-07-05&g=2025-07-05). Het staat niet open voor rechtspersonen.
 
-5. Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van de met het gezag belaste ouder of de ander, of van een ouder en de ander in een vrij te bepalen volgorde. [Artikel 5, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. Een zodanig verzoek wordt afgewezen, indien
+5. Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van de met het gezag belaste ouder of de ander, of van een ouder en de ander in een vrij te bepalen volgorde. [Artikel 5, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing. Een zodanig verzoek wordt afgewezen, indien
 
 - a. het kind van twaalf jaar of ouder ter gelegenheid van zijn verhoor niet heeft ingestemd met het verzoek;
 
@@ -2741,23 +2741,23 @@ Het gezamenlijk gezag begint op de dag waarop de beslissing die de benoeming inh
 
 ##### Artikel 253v
 
-1. Op de gezamenlijke gezagsuitoefening door de ouder en de ander zijn de [artikelen 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=249&z=2025-07-01&g=2025-07-01), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=250&z=2025-07-01&g=2025-07-01), [253a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01), [253j tot en met 253m](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253j&z=2025-07-01&g=2025-07-01), [253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), [253r](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253r&z=2025-07-01&g=2025-07-01) alsmede [253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253s&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+1. Op de gezamenlijke gezagsuitoefening door de ouder en de ander zijn de [artikelen 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=249&z=2025-07-05&g=2025-07-05), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=250&z=2025-07-05&g=2025-07-05), [253a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05), [253j tot en met 253m](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253j&z=2025-07-05&g=2025-07-05), [253q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), [253r](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253r&z=2025-07-05&g=2025-07-05) alsmede [253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253s&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-2. [Artikel 253i](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253i&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing, tenzij de met het gezag belaste ouder het bewind niet voert ingevolge [artikel 253i, vierde lid, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253i&z=2025-07-01&g=2025-07-01).
+2. [Artikel 253i](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253i&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing, tenzij de met het gezag belaste ouder het bewind niet voert ingevolge [artikel 253i, vierde lid, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253i&z=2025-07-05&g=2025-07-05).
 
-3. [Artikel 253n](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253n&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing. De rechtbank geeft geen beslissing tot beëindiging van het gezamenlijk gezag, bedoeld in [artikel 253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01), dan nadat zij de ouders of de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind de ouders gezamenlijk met het gezag over het kind te belasten of de niet met het gezag belaste ouder daarmee te belasten.
+3. [Artikel 253n](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253n&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing. De rechtbank geeft geen beslissing tot beëindiging van het gezamenlijk gezag, bedoeld in [artikel 253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05), dan nadat zij de ouders of de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind de ouders gezamenlijk met het gezag over het kind te belasten of de niet met het gezag belaste ouder daarmee te belasten.
 
 4. Indien de rechtbank na beëindiging van het gezamenlijk gezag van de ouder en de ander, deze ander met de voogdij heeft belast, kan zij te allen tijde wegens wijziging van omstandigheden op verzoek van de ouders of van één van hen in het belang van het kind één ouder met het gezag of de ouders met het gezamenlijk gezag belasten.
 
-5. [Artikel 253q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing met dien verstande dat de rechtbank geen voogd benoemt dan nadat zij de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind hem met het gezag over het kind te belasten. Het verzoek, bedoeld in [artikel 253q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-01&g=2025-07-01), kan tevens door de ander dan de ouder worden gedaan.
+5. [Artikel 253q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing met dien verstande dat de rechtbank geen voogd benoemt dan nadat zij de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind hem met het gezag over het kind te belasten. Het verzoek, bedoeld in [artikel 253q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3&artikel=253q&z=2025-07-05&g=2025-07-05), kan tevens door de ander dan de ouder worden gedaan.
 
-6. De [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&z=2025-07-01&g=2025-07-01) van deze titel zijn van overeenkomstige toepassing op het gezamenlijk gezag van de ouder en de ander, met dien verstande dat in geval van beëindiging van het gezag van de ouder die gezamenlijk met de ander het gezag uitoefent, de ander niet alleen met het gezag wordt belast dan nadat de rechtbank de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken hem met het gezag over het kind te belasten.
+6. De [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-05&g=2025-07-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&z=2025-07-05&g=2025-07-05) van deze titel zijn van overeenkomstige toepassing op het gezamenlijk gezag van de ouder en de ander, met dien verstande dat in geval van beëindiging van het gezag van de ouder die gezamenlijk met de ander het gezag uitoefent, de ander niet alleen met het gezag wordt belast dan nadat de rechtbank de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken hem met het gezag over het kind te belasten.
 
 #### Paragraaf 2. Het gezamenlijk gezag van een ouder tezamen met een ander dan een ouder krachtens rechterlijke beslissing
 
 ##### Artikel 253w
 
-De ander die met de ouder gezamenlijk het gezag uitoefent, is verplicht tot het verstrekken van levensonderhoud jegens het kind dat onder zijn gezag staat. Indien het gezamenlijk gezag door de meerderjarigheid van het kind is geëindigd, duurt de onderhoudsplicht voort totdat het kind de leeftijd van eenentwintig jaren heeft bereikt. Nadat een rechterlijke beslissing tot beëindiging van het gezamenlijk gezag in kracht van gewijsde is gegaan of na het overlijden van de ouder met wie tot het tijdstip van overlijden het gezag gezamenlijk werd uitgeoefend, blijft deze onderhoudsplicht gedurende de termijn dat het gezamenlijk gezag heeft geduurd, bestaan, tenzij de rechter in bijzondere omstandigheden op verzoek van de ouder of de ander een langere termijn bepaalt. Zij eindigt uiterlijk op het tijdstip dat het kind de leeftijd van eenentwintig jaren heeft bereikt. De [artikelen 392, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=392&z=2025-07-01&g=2025-07-01), [395a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01), [395b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395b&z=2025-07-01&g=2025-07-01), [397](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=397&z=2025-07-01&g=2025-07-01), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=398&z=2025-07-01&g=2025-07-01), [399](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=399&z=2025-07-01&g=2025-07-01), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=400&z=2025-07-01&g=2025-07-01), [401, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=401&z=2025-07-01&g=2025-07-01), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=402&z=2025-07-01&g=2025-07-01), [402a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=402a&z=2025-07-01&g=2025-07-01), [403](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=403&z=2025-07-01&g=2025-07-01), [404, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=404&z=2025-07-01&g=2025-07-01), [406](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=406&z=2025-07-01&g=2025-07-01) en [408](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=408&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+De ander die met de ouder gezamenlijk het gezag uitoefent, is verplicht tot het verstrekken van levensonderhoud jegens het kind dat onder zijn gezag staat. Indien het gezamenlijk gezag door de meerderjarigheid van het kind is geëindigd, duurt de onderhoudsplicht voort totdat het kind de leeftijd van eenentwintig jaren heeft bereikt. Nadat een rechterlijke beslissing tot beëindiging van het gezamenlijk gezag in kracht van gewijsde is gegaan of na het overlijden van de ouder met wie tot het tijdstip van overlijden het gezag gezamenlijk werd uitgeoefend, blijft deze onderhoudsplicht gedurende de termijn dat het gezamenlijk gezag heeft geduurd, bestaan, tenzij de rechter in bijzondere omstandigheden op verzoek van de ouder of de ander een langere termijn bepaalt. Zij eindigt uiterlijk op het tijdstip dat het kind de leeftijd van eenentwintig jaren heeft bereikt. De [artikelen 392, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=392&z=2025-07-05&g=2025-07-05), [395a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05), [395b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395b&z=2025-07-05&g=2025-07-05), [397](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=397&z=2025-07-05&g=2025-07-05), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=398&z=2025-07-05&g=2025-07-05), [399](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=399&z=2025-07-05&g=2025-07-05), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=400&z=2025-07-05&g=2025-07-05), [401, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=401&z=2025-07-05&g=2025-07-05), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=402&z=2025-07-05&g=2025-07-05), [402a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=402a&z=2025-07-05&g=2025-07-05), [403](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=403&z=2025-07-05&g=2025-07-05), [404, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=404&z=2025-07-05&g=2025-07-05), [406](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=406&z=2025-07-05&g=2025-07-05) en [408](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=2&artikel=408&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 253x
 
@@ -2765,11 +2765,11 @@ De ander die met de ouder gezamenlijk het gezag uitoefent, is verplicht tot het 
 
 2. De rechtbank kan op verzoek van de overlevende ouder te allen tijde bepalen dat deze, mits daartoe bevoegd, alsnog met het gezag wordt belast.
 
-3. De [artikelen 253**g** en h](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253g&z=2025-07-01&g=2025-07-01) zijn niet van toepassing.
+3. De [artikelen 253**g** en h](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253g&z=2025-07-05&g=2025-07-05) zijn niet van toepassing.
 
 ##### Artikel 253y
 
-1. Het gezamenlijk gezag, bedoeld in de [artikelen 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) en [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01), eindigt op de dag waarop in kracht van gewijsde is gegaan de beschikking waarbij aan de ouders gezamenlijk gezag is toegekend of het gezamenlijk gezag van de ouder en de ander is beëindigd.
+1. Het gezamenlijk gezag, bedoeld in de [artikelen 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) en [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05), eindigt op de dag waarop in kracht van gewijsde is gegaan de beschikking waarbij aan de ouders gezamenlijk gezag is toegekend of het gezamenlijk gezag van de ouder en de ander is beëindigd.
 
 2. Is de beschikking, bedoeld in het eerste lid, uitvoerbaar bij voorraad verklaard, dan eindigt het gezamenlijk gezag van de ouder en de ander daags nadat de beschikking is verstrekt of verzonden.
 
@@ -2785,7 +2785,7 @@ In deze afdeling wordt verstaan onder gecertificeerde instelling: gecertificeerd
 
 - a. de zorg die in verband met het wegnemen van de bedreiging noodzakelijk is voor de minderjarige of voor zijn ouders of de ouder die het gezag uitoefenen, door dezen niet of onvoldoende wordt geaccepteerd, en
 
-- b. de verwachting gerechtvaardigd is dat de ouders of de ouder die het gezag uitoefenen binnen een gelet op de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01), in staat zijn te dragen.
+- b. de verwachting gerechtvaardigd is dat de ouders of de ouder die het gezag uitoefenen binnen een gelet op de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05), in staat zijn te dragen.
 
 2. De kinderrechter kan een minderjarige onder toezicht stellen op verzoek van de raad voor de kinderbescherming of het openbaar ministerie. Tevens zijn een ouder en degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt bevoegd tot het doen van het verzoek indien de raad voor de kinderbescherming niet tot indiening van het verzoek overgaat.
 
@@ -2801,19 +2801,19 @@ In deze afdeling wordt verstaan onder gecertificeerde instelling: gecertificeerd
 
 2. Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het eerste lid, en de rechtspersoon voor een bepaalde tijd aanvaarden.
 
-3. Op de ondertoezichtstelling en een rechtspersoon als bedoeld in het eerste lid zijn de bepalingen van de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-01&g=2025-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&z=2025-07-01&g=2025-07-01) alsmede [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=7&artikel=326&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+3. Op de ondertoezichtstelling en een rechtspersoon als bedoeld in het eerste lid zijn de bepalingen van de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-05&g=2025-07-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&z=2025-07-05&g=2025-07-05) alsmede [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=7&artikel=326&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-4. In geval van vervanging van de rechtspersoon op grond van [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=259&z=2025-07-01&g=2025-07-01), wordt een gecertificeerde instelling benoemd die een contract of een subsidierelatie heeft met de gemeente waar de minderjarige zijn woonplaats als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) heeft. Hetzelfde geldt indien de rechtspersoon niet meer voldoet aan de eisen voor benoeming, bedoeld in het eerste lid, in welk geval de kinderrechter ambtshalve tot vervanging overgaat, tenzij voortzetting van de taken door bedoelde rechtspersoon om reden van continuïteit noodzakelijk is.
+4. In geval van vervanging van de rechtspersoon op grond van [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=259&z=2025-07-05&g=2025-07-05), wordt een gecertificeerde instelling benoemd die een contract of een subsidierelatie heeft met de gemeente waar de minderjarige zijn woonplaats als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) heeft. Hetzelfde geldt indien de rechtspersoon niet meer voldoet aan de eisen voor benoeming, bedoeld in het eerste lid, in welk geval de kinderrechter ambtshalve tot vervanging overgaat, tenzij voortzetting van de taken door bedoelde rechtspersoon om reden van continuïteit noodzakelijk is.
 
 ##### Artikel 257
 
-1. De kinderrechter kan de minderjarige voorlopig onder toezicht stellen van een gecertificeerde instelling indien een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01), is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen.
+1. De kinderrechter kan de minderjarige voorlopig onder toezicht stellen van een gecertificeerde instelling indien een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05), is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen.
 
-2. Het tweede lid van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing. De kinderrechter bepaalt de duur van dit toezicht op ten hoogste drie maanden en kan de beslissing te allen tijde herroepen.
+2. Het tweede lid van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing. De kinderrechter bepaalt de duur van dit toezicht op ten hoogste drie maanden en kan de beslissing te allen tijde herroepen.
 
 ##### Artikel 258
 
-De duur van de ondertoezichtstelling is, behoudens verlenging als bedoeld in [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=260&z=2025-07-01&g=2025-07-01), ten hoogste een jaar. De duur van de voorlopige ondertoezichtstelling komt hierop niet in mindering.
+De duur van de ondertoezichtstelling is, behoudens verlenging als bedoeld in [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=260&z=2025-07-05&g=2025-07-05), ten hoogste een jaar. De duur van de voorlopige ondertoezichtstelling komt hierop niet in mindering.
 
 ##### Artikel 259
 
@@ -2821,19 +2821,19 @@ De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, verva
 
 ##### Artikel 260
 
-1. De kinderrechter kan, mits aan de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01), is voldaan, de duur van de ondertoezichtstelling telkens verlengen met ten hoogste een jaar.
+1. De kinderrechter kan, mits aan de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05), is voldaan, de duur van de ondertoezichtstelling telkens verlengen met ten hoogste een jaar.
 
 2. De kinderrechter kan de ondertoezichtstelling verlengen op verzoek van de gecertificeerde instelling die het toezicht heeft. Indien deze gecertificeerde instelling niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een ouder, degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en het openbaar ministerie bevoegd tot het doen van het verzoek.
 
 ##### Artikel 261
 
-1. De kinderrechter kan de ondertoezichtstelling opheffen indien de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01), niet langer is vervuld.
+1. De kinderrechter kan de ondertoezichtstelling opheffen indien de grond, bedoeld in [artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05), niet langer is vervuld.
 
 2. Hij kan dit doen op verzoek van de gecertificeerde instelling die het toezicht heeft. Indien deze gecertificeerde instelling niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder bevoegd tot het doen van het verzoek.
 
 ##### Artikel 262
 
-1. De gecertificeerde instelling houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouders of ouder hulp en steun worden geboden opdat de concrete bedreigingen in de ontwikkeling van de minderjarige, bedoeld in [artikel 255, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01), binnen de duur van de ondertoezichtstelling worden weggenomen. De inspanningen van de gecertificeerde instelling zijn erop gericht de ouders of de ouder zoveel mogelijk de verantwoordelijkheid voor de verzorging en opvoeding van hun kinderen te laten dragen.
+1. De gecertificeerde instelling houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouders of ouder hulp en steun worden geboden opdat de concrete bedreigingen in de ontwikkeling van de minderjarige, bedoeld in [artikel 255, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05), binnen de duur van de ondertoezichtstelling worden weggenomen. De inspanningen van de gecertificeerde instelling zijn erop gericht de ouders of de ouder zoveel mogelijk de verantwoordelijkheid voor de verzorging en opvoeding van hun kinderen te laten dragen.
 
 2. Indien het ontwikkelingsniveau van de minderjarige en diens bekwaamheid en behoefte zelfstandig te handelen en zijn leven naar eigen inzicht in te richten daartoe aanleiding geven, zijn de inspanningen van de gecertificeerde instelling dienovereenkomstig mede gericht op het vergroten van de zelfstandigheid van de minderjarige.
 
@@ -2877,7 +2877,7 @@ De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, verva
 
 2. De gecertificeerde instelling geeft haar beslissing schriftelijk en binnen twee weken na ontvangst van het verzoek.
 
-3. [Artikel 264](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+3. [Artikel 264](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 4. Het niet of niet tijdig nemen van een beslissing door de gecertificeerde instelling staat gelijk met afwijzing van het verzoek. De termijn voor het indienen van het verzoek aan de kinderrechter loopt in dat geval door zolang de gecertificeerde instelling niet heeft beslist en eindigt, indien de gecertificeerde instelling alsnog beslist, na verloop van twee weken te rekenen met ingang van de dag waarop de beslissing is verzonden of uitgereikt.
 
@@ -2887,7 +2887,7 @@ De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, verva
 
 1. De rechtbank kan het gezag van een ouder beëindigen indien:
 
-- a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de ouder niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01), in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of
+- a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de ouder niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05), in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of
 
 - b. de ouder het gezag misbruikt.
 
@@ -2903,7 +2903,7 @@ De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, verva
 
 1. De rechtbank kan een ouder geheel of gedeeltelijk in de uitoefening van het gezag schorsen indien:
 
-- a. een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 266, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=266&z=2025-07-01&g=2025-07-01) is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of
+- a. een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 266, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=266&z=2025-07-05&g=2025-07-05) is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of
 
 - b. een medische behandeling van een minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en een ouder die het gezag uitoefent toestemming daarvoor weigert.
 
@@ -2911,13 +2911,13 @@ De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, verva
 
 3. Betreft de schorsing beide ouders of een ouder die alleen het gezag uitoefent, dan belast de rechtbank een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), met de voorlopige voogdij over de minderjarige. De gecertificeerde instelling heeft de bevoegdheden van een voogd.
 
-4. [Artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=267&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+4. [Artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=267&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 5. De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn beëindiging van het gezag is verzocht.
 
 ##### Artikel 269
 
-In plaats van schorsing van beide ouders of van een ouder in de uitoefening van het gezag als bedoeld in [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=268&z=2025-07-01&g=2025-07-01), kan de rechtbank een kind onder toezicht stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01) mits aan de grond hiervoor is voldaan.
+In plaats van schorsing van beide ouders of van een ouder in de uitoefening van het gezag als bedoeld in [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=268&z=2025-07-05&g=2025-07-05), kan de rechtbank een kind onder toezicht stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05) mits aan de grond hiervoor is voldaan.
 
 ##### Artikel 270
 
@@ -2965,7 +2965,7 @@ Vervallen
 
 2. Hebben de kinderen goederen gemeen, maar komen zij onder het gezag van verschillende personen, dan kan de rechtbank een van dezen of een derde aanwijzen om over deze goederen tot de verdeling het bewind te voeren. De aangewezen bewindvoerder stelt de waarborgen die de rechtbank van hem verlangt.
 
-3. Op het bewind krachtens het vorige lid is [artikel 253k](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253k&z=2025-07-01&g=2025-07-01) van toepassing, indien een der ouders als bewindvoerder is aangewezen, en anders [paragraaf 10 van afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&z=2025-07-01&g=2025-07-01) van deze titel. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van minderjarige deelgenoten, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.
+3. Op het bewind krachtens het vorige lid is [artikel 253k](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=3&artikel=253k&z=2025-07-05&g=2025-07-05) van toepassing, indien een der ouders als bewindvoerder is aangewezen, en anders [paragraaf 10 van afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&z=2025-07-05&g=2025-07-05) van deze titel. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van minderjarige deelgenoten, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.
 
 ##### Artikel 277
 
@@ -2973,13 +2973,13 @@ Vervallen
 
 - a. herstel in het gezag in het belang van de minderjarige is, en
 
-- b. de ouder duurzaam de verantwoordelijkheid voor de verzorging en opvoeding van de minderjarige, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01), in staat is te dragen.
+- b. de ouder duurzaam de verantwoordelijkheid voor de verzorging en opvoeding van de minderjarige, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05), in staat is te dragen.
 
-2. Indien ter gelegenheid van de beëindiging van het gezag het gezag aan de andere ouder is opgedragen, belast de rechtbank de ouder wiens gezag was beëindigd en deze alleen het in het eerste lid bedoelde verzoek doet, niet met het gezag, tenzij de omstandigheden na het nemen van de beschikking waarbij het gezag aan de andere ouder werd opgedragen, zijn gewijzigd of bij het nemen van de beschikking van onjuiste of onvolledige gegevens is uitgegaan. [Artikel 253e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253e&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+2. Indien ter gelegenheid van de beëindiging van het gezag het gezag aan de andere ouder is opgedragen, belast de rechtbank de ouder wiens gezag was beëindigd en deze alleen het in het eerste lid bedoelde verzoek doet, niet met het gezag, tenzij de omstandigheden na het nemen van de beschikking waarbij het gezag aan de andere ouder werd opgedragen, zijn gewijzigd of bij het nemen van de beschikking van onjuiste of onvolledige gegevens is uitgegaan. [Artikel 253e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=2&artikel=253e&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 ##### Artikel 278
 
-1. Een verzoek als bedoeld in [artikel 277 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-01&g=2025-07-01) kan ook worden gedaan door de raad voor de kinderbescherming.
+1. Een verzoek als bedoeld in [artikel 277 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=277&z=2025-07-05&g=2025-07-05) kan ook worden gedaan door de raad voor de kinderbescherming.
 
 2. Hangende het onderzoek kan zowel de raad voor de kinderbescherming als de te herstellen ouder de rechtbank verzoeken de beslissing aan te houden tot het einde van een door haar te bepalen proeftijd van ten hoogste zes maanden; gedurende die tijd zal het kind bij de in het gezag te herstellen ouder verblijven. De rechtbank is te allen tijde bevoegd de proeftijd te beëindigen.
 
@@ -3007,7 +3007,7 @@ De voogdij begint:
 
 - b. het gezag over de onder zijn voogdij staande minderjarige aan een of beide ouders is opgedragen; of
 
-- c. de voogdij overeenkomstig [artikel 299a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=299a&z=2025-07-01&g=2025-07-01) van dit boek aan een andere voogd is opgedragen.
+- c. de voogdij overeenkomstig [artikel 299a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=299a&z=2025-07-05&g=2025-07-05) van dit boek aan een andere voogd is opgedragen.
 
 2. Is een beschikking als in het eerste lid bedoeld, uitvoerbaar verklaard bij voorraad, dan eindigt de voogdij daags nadat de beschikking is verstrekt of verzonden.
 
@@ -3019,13 +3019,13 @@ De voogdij begint:
 
 3. Het verzoek wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
-4. Gezamenlijke uitoefening van de voogdij is niet mogelijk ten aanzien van tijdelijke voogdij als bedoeld in de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=296&z=2025-07-01&g=2025-07-01) en [297](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=297&z=2025-07-01&g=2025-07-01). Zij staat niet open voor rechtspersonen.
+4. Gezamenlijke uitoefening van de voogdij is niet mogelijk ten aanzien van tijdelijke voogdij als bedoeld in de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=296&z=2025-07-05&g=2025-07-05) en [297](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=297&z=2025-07-05&g=2025-07-05). Zij staat niet open voor rechtspersonen.
 
-5. [Artikel 253a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+5. [Artikel 253a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
-6. In afwijking van [artikel 336](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336&z=2025-07-01&g=2025-07-01) hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. [Artikel 253w](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=3&artikel=253w&z=2025-07-01&g=2025-07-01) is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in [artikel 5.2 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.2).
+6. In afwijking van [artikel 336](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336&z=2025-07-05&g=2025-07-05) hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. [Artikel 253w](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=3&artikel=253w&z=2025-07-05&g=2025-07-05) is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in [artikel 5.2 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.2).
 
-7. Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van een van de voogden, van beide voogden of van een voogd en de oorspronkelijke geslachtsnaam van het kind, in een vrij te bepalen volgorde. [Artikel 5, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. Een zodanig verzoek wordt afgewezen, indien:
+7. Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van een van de voogden, van beide voogden of van een voogd en de oorspronkelijke geslachtsnaam van het kind, in een vrij te bepalen volgorde. [Artikel 5, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=2&artikel=5&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing. Een zodanig verzoek wordt afgewezen, indien:
 
 - a. het kind van twaalf jaar of ouder ter gelegenheid van zijn verhoor niet heeft ingestemd met het verzoek;
 
@@ -3035,7 +3035,7 @@ De voogdij begint:
 
 ##### Artikel 282a
 
-1. De gezamenlijke uitoefening van de voogdij eindigt op de dag waarop in kracht van gewijsde is gegaan de beschikking waarbij de gezamenlijke uitoefening van de voogdij is beëindigd of waarbij de voogdij is geëindigd ingevolge [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=281&z=2025-07-01&g=2025-07-01), alsmede na het overlijden van een van de voogden.
+1. De gezamenlijke uitoefening van de voogdij eindigt op de dag waarop in kracht van gewijsde is gegaan de beschikking waarbij de gezamenlijke uitoefening van de voogdij is beëindigd of waarbij de voogdij is geëindigd ingevolge [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=281&z=2025-07-05&g=2025-07-05), alsmede na het overlijden van een van de voogden.
 
 2. Is de beschikking, bedoeld in het eerste lid, uitvoerbaar bij voorraad verklaard, dan eindigt de gezamenlijke uitoefening van de voogdij daags nadat de beschikking is verstrekt of verzonden.
 
@@ -3087,7 +3087,7 @@ Vervallen
 
 ##### Artikel 292
 
-1. Een ouder kan bij uiterste wilsbeschikking of door hiervan aantekening te laten opnemen in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-01&g=2025-07-01), bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zullen uitoefenen.
+1. Een ouder kan bij uiterste wilsbeschikking of door hiervan aantekening te laten opnemen in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-05&g=2025-07-05), bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zullen uitoefenen.
 
 2. Hij kan geen rechtspersoon als voogd aanwijzen.
 
@@ -3117,7 +3117,7 @@ De rechtbank benoemt een voogd over alle minderjarigen, die niet onder ouderlijk
 
 ##### Artikel 296
 
-1. Is voorziening nodig in afwachting van het begin der voogdij overeenkomstig [artikel 280](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-01&g=2025-07-01) van dit boek, dan benoemt de rechtbank een voogd voor de duur van deze omstandigheden.
+1. Is voorziening nodig in afwachting van het begin der voogdij overeenkomstig [artikel 280](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-05&g=2025-07-05) van dit boek, dan benoemt de rechtbank een voogd voor de duur van deze omstandigheden.
 
 2. Zodra bedoelde omstandigheden zijn vervallen, wordt deze voogd op verzoek van hem die hij vervangt, door de rechtbank ontslagen.
 
@@ -3139,15 +3139,15 @@ De rechtbank benoemt een voogd over alle minderjarigen, die niet onder ouderlijk
 
 ##### Artikel 298
 
-Gedurende de in de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=296&z=2025-07-01&g=2025-07-01) en [297](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=297&z=2025-07-01&g=2025-07-01) bedoelde voogdij is de uitoefening van de voogdij geschorst ten aanzien van de voogd die het betreft.
+Gedurende de in de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=296&z=2025-07-05&g=2025-07-05) en [297](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=297&z=2025-07-05&g=2025-07-05) bedoelde voogdij is de uitoefening van de voogdij geschorst ten aanzien van de voogd die het betreft.
 
 ##### Artikel 299
 
-De rechtbank benoemt de voogd op verzoek van bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve, behoudens [artikel 282a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=282a&z=2025-07-01&g=2025-07-01).
+De rechtbank benoemt de voogd op verzoek van bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve, behoudens [artikel 282a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=282a&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 299a
 
-1. Degene die met instemming van de voogd een minderjarige in zijn gezin - anders dan uit hoofde van een ondertoezichtstelling of een plaatsing onder voorlopige voogdij - ten minste een jaar heeft verzorgd en opgevoed, kan de kinderrechter verzoeken hem, dan wel een rechtspersoon als bedoeld in [artikel 302 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-01&g=2025-07-01), tot voogd te benoemen.
+1. Degene die met instemming van de voogd een minderjarige in zijn gezin - anders dan uit hoofde van een ondertoezichtstelling of een plaatsing onder voorlopige voogdij - ten minste een jaar heeft verzorgd en opgevoed, kan de kinderrechter verzoeken hem, dan wel een rechtspersoon als bedoeld in [artikel 302 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-05&g=2025-07-05), tot voogd te benoemen.
 
 2. Indien de minderjarige door meer dan een persoon als behorende tot het gezin wordt verzorgd en opgevoed, kan het verzoek slechts door dezen gemeenschappelijk worden gedaan.
 
@@ -3155,7 +3155,7 @@ De rechtbank benoemt de voogd op verzoek van bloed- of aanverwanten van de minde
 
 4. De kinderrechter willigt het verzoek slechts in, indien hij dit in het belang van de minderjarige acht en hem genoegzaam is gebleken, dat de voogd niet bereid is zich van zijn bediening te doen ontslaan. Alsdan benoemt hij bij voorkeur degene wiens benoeming wordt verzocht tot voogd, mits deze bevoegd is tot uitoefening van de voogdij.
 
-5. Is het bij het eerste lid bedoelde verzoek gedaan, dan blijft het [tweede lid van artikel 336**a**, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336a&z=2025-07-01&g=2025-07-01) buiten toepassing, totdat op het verzoek bij gewijsde is beslist.
+5. Is het bij het eerste lid bedoelde verzoek gedaan, dan blijft het [tweede lid van artikel 336**a**, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336a&z=2025-07-05&g=2025-07-05) buiten toepassing, totdat op het verzoek bij gewijsde is beslist.
 
 6. In geval van gezamenlijke uitoefening van de voogdij wordt de in het eerste lid bedoelde instemming door beide voogden gegeven.
 
@@ -3183,7 +3183,7 @@ Vervallen
 
 3. Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het tweede lid, en de rechtspersoon voor een bepaalde tijd aanvaarden.
 
-4. Op een rechtspersoon als bedoeld in het tweede lid, zijn de [artikelen 303](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=303&z=2025-07-01&g=2025-07-01), [304](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=304&z=2025-07-01&g=2025-07-01), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=305&z=2025-07-01&g=2025-07-01) en [328](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=328&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+4. Op een rechtspersoon als bedoeld in het tweede lid, zijn de [artikelen 303](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=303&z=2025-07-05&g=2025-07-05), [304](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=304&z=2025-07-05&g=2025-07-05), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=305&z=2025-07-05&g=2025-07-05) en [328](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=328&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 ##### Artikel 303
 
@@ -3207,7 +3207,7 @@ Vervallen
 
 ##### Artikel 306a
 
-De [zesde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&z=2025-07-01&g=2025-07-01) van deze titel is niet van toepassing op de uitoefening van de voorlopige voogdij als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=241&z=2025-07-01&g=2025-07-01), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=268&z=2025-07-01&g=2025-07-01) en [331](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-01&g=2025-07-01).
+De [zesde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&z=2025-07-05&g=2025-07-05) van deze titel is niet van toepassing op de uitoefening van de voorlopige voogdij als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=241&z=2025-07-05&g=2025-07-05), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=268&z=2025-07-05&g=2025-07-05) en [331](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 307
 
@@ -3291,7 +3291,7 @@ Op verzoek van de voogden gezamenlijk of van een van hen beëindigt de rechter d
 
 ##### Artikel 324
 
-1. Wanneer een voogd op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01) van dit boek genoemde gronden onbevoegd is tot de voogdij, ontslaat de rechtbank hem en vervangt hem door een andere voogd.
+1. Wanneer een voogd op een der in [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05) van dit boek genoemde gronden onbevoegd is tot de voogdij, ontslaat de rechtbank hem en vervangt hem door een andere voogd.
 
 2. Zij doet dit op verzoek van de voogd, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve.
 
@@ -3309,7 +3309,7 @@ Vervallen
 
 1. Kinderen die onder voogdij staan van natuurlijke personen, kunnen onder toezicht worden gesteld.
 
-2. Op deze ondertoezichtstelling is [afdeling 4 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande nochtans, dat de ondertoezichtstelling en de verlenging daarvan ook door de voogd kunnen worden verzocht.
+2. Op deze ondertoezichtstelling is [afdeling 4 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing, met dien verstande nochtans, dat de ondertoezichtstelling en de verlenging daarvan ook door de voogd kunnen worden verzocht.
 
 #### § 8. Ontzetting van voogdij
 
@@ -3317,7 +3317,7 @@ Vervallen
 
 De rechtbank kan de voogdij van een natuurlijk persoon beëindigen indien:
 
-- a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de voogd niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-01&g=2025-07-01), in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of
+- a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de voogd niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in [artikel 247, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=247&z=2025-07-05&g=2025-07-05), in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of
 
 - b. de voogd het gezag misbruikt , of
 
@@ -3325,19 +3325,19 @@ De rechtbank kan de voogdij van een natuurlijk persoon beëindigen indien:
 
 ##### Artikel 328
 
-De rechtbank kan de voogdij van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of van een rechtspersoon als bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-01&g=2025-07-01), beëindigen indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en:
+De rechtbank kan de voogdij van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of van een rechtspersoon als bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-05&g=2025-07-05), beëindigen indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en:
 
 - a. zij haar taken op een niet verantwoorde wijze uitoefent als bedoeld in [artikel 4.1.1, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.1.1), of
 
-- b. zij nalaat overeenkomstig [artikel 305](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=305&z=2025-07-01&g=2025-07-01) de raad voor de kinderbescherming op de hoogte te houden.
+- b. zij nalaat overeenkomstig [artikel 305](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=305&z=2025-07-05&g=2025-07-05) de raad voor de kinderbescherming op de hoogte te houden.
 
 ##### Artikel 329
 
 1. Beëindiging van de voogdij kan worden uitgesproken op verzoek van de raad voor de kinderbescherming, het openbaar ministerie of een der bloed- of aanverwanten van de minderjarige tot en met de vierde graad.
 
-2. Ingeval [artikel 336a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336a&z=2025-07-01&g=2025-07-01) toepassing heeft gevonden, kan de beëindiging bovendien worden verzocht door degene of degenen die de minderjarige als behorende tot hun gezin verzorgen en opvoeden.
+2. Ingeval [artikel 336a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336a&z=2025-07-05&g=2025-07-05) toepassing heeft gevonden, kan de beëindiging bovendien worden verzocht door degene of degenen die de minderjarige als behorende tot hun gezin verzorgen en opvoeden.
 
-3. In het geval, bedoeld in [artikel 367](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=367&z=2025-07-01&g=2025-07-01), kan de rechtbank de voogdij ambtshalve beëindigen.
+3. In het geval, bedoeld in [artikel 367](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=367&z=2025-07-05&g=2025-07-05), kan de rechtbank de voogdij ambtshalve beëindigen.
 
 ##### Artikel 330
 
@@ -3347,19 +3347,19 @@ Vervallen
 
 1. De rechtbank kan een met de voogdij belaste natuurlijke persoon geheel of gedeeltelijk in de uitoefening van het gezag schorsen indien:
 
-- a. een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 266, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=266&z=2025-07-01&g=2025-07-01) is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of
+- a. een ernstig vermoeden bestaat dat de grond, bedoeld in [artikel 266, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=5&artikel=266&z=2025-07-05&g=2025-07-05) is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of
 
 - b. een medische behandeling van een minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en de voogd toestemming daarvoor weigert.
 
 2. Indien de voogdij gezamenlijk wordt uitgeoefend, wordt na schorsing van de voogdij van één van hen de voogdij door de andere voogd alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), met de voorlopige voogdij over het kind belast. In dat geval is ook het gezag van deze andere voogd geschorst.
 
-3. [Artikel 329, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=329&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+3. [Artikel 329, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=329&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing.
 
 4. De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn om een beëindiging van de voogdij is verzocht.
 
 ##### Artikel 331a
 
-In plaats van schorsing van de voogd in de uitoefening van de voogdij en voorziening in de voorlopige voogdij als bedoeld in [artikel 331](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-01&g=2025-07-01), kan de rechtbank de minderjarige onder toezicht stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01).
+In plaats van schorsing van de voogd in de uitoefening van de voogdij en voorziening in de voorlopige voogdij als bedoeld in [artikel 331](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-05&g=2025-07-05), kan de rechtbank de minderjarige onder toezicht stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 332
 
@@ -3367,7 +3367,7 @@ Vervallen
 
 ##### Artikel 332a
 
-De rechtbank die een verzoek tot beëindiging van de voogdij afwijst, is bevoegd een minderjarige onder toezicht te stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01).
+De rechtbank die een verzoek tot beëindiging van de voogdij afwijst, is bevoegd een minderjarige onder toezicht te stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 333
 
@@ -3383,7 +3383,7 @@ Vervallen
 
 ##### Artikel 335
 
-Degene van wie de voogdij is beëindigd op grond van [artikel 327, eerste lid, aanhef en onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-01&g=2025-07-01) kan niet wederom tot voogd over die minderjarige worden benoemd.
+Degene van wie de voogdij is beëindigd op grond van [artikel 327, eerste lid, aanhef en onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-05&g=2025-07-05) kan niet wederom tot voogd over die minderjarige worden benoemd.
 
 #### § 8. Ontzetting van voogdij
 
@@ -3397,7 +3397,7 @@ De voogd draagt zorg, dat de minderjarige overeenkomstig diens vermogen wordt ve
 
 2. Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de voogd door die van de rechtbank worden vervangen. Dit verzoek wordt slechts ingewilligd indien de rechtbank dit in het belang van de minderjarige noodzakelijk oordeelt.
 
-3. In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, tot beëindiging van de voogdij, dan wel een verzoek als bedoeld in [artikel 299a, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=299a&z=2025-07-01&g=2025-07-01) aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.
+3. In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, tot beëindiging van de voogdij, dan wel een verzoek als bedoeld in [artikel 299a, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=3&artikel=299a&z=2025-07-05&g=2025-07-05) aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.
 
 4. In geval van gezamenlijke uitoefening van de voogdij, wordt de in het eerste lid bedoelde instemming door beide voogden gegeven.
 
@@ -3441,13 +3441,13 @@ De voogd draagt zorg, dat de minderjarige overeenkomstig diens vermogen wordt ve
 
 ##### Artikel 341
 
-1. In de boedelbeschrijving of in de verklaring, bedoeld in [artikel 339 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01), moet de voogd opgeven wat hij van de minderjarige heeft te vorderen. Bij gebreke hiervan zal hij zijn vorderingsrecht niet voor diens meerderjarigheid kunnen uitoefenen.
+1. In de boedelbeschrijving of in de verklaring, bedoeld in [artikel 339 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05), moet de voogd opgeven wat hij van de minderjarige heeft te vorderen. Bij gebreke hiervan zal hij zijn vorderingsrecht niet voor diens meerderjarigheid kunnen uitoefenen.
 
 2. Zolang de voogd zijn vorderingsrecht niet kan uitoefenen, draagt de hoofdsom van zijn vordering geen rente.
 
 ##### Artikel 342
 
-1. De [artikelen 338 tot en met 341](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, wanneer de minderjarige gedurende de voogdij door schenking, erfopvolging of making vermogen krijgt.
+1. De [artikelen 338 tot en met 341](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing, wanneer de minderjarige gedurende de voogdij door schenking, erfopvolging of making vermogen krijgt.
 
 2. De inspecteur bij wie de aangifte voor het recht van successie, van overgang of van schenking moet worden ingediend, en aan wie ambtshalve bekend is dat de minderjarige vermogen heeft verkregen, is verplicht de kantonrechter van diens woonplaats hiervan te verwittigen.
 
@@ -3493,7 +3493,7 @@ De voogd kan, onverminderd zijn aansprakelijkheid voor de door zijn slecht bewin
 
 ##### Artikel 347
 
-1. Een in strijd met [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=345&z=2025-07-01&g=2025-07-01) of [346](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=346&z=2025-07-01&g=2025-07-01) verrichte rechtshandeling ten name van de minderjarige is vernietigbaar; op de vernietigingsgrond kan slechts een beroep worden gedaan van de zijde van de minderjarige.
+1. Een in strijd met [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=345&z=2025-07-05&g=2025-07-05) of [346](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=346&z=2025-07-05&g=2025-07-05) verrichte rechtshandeling ten name van de minderjarige is vernietigbaar; op de vernietigingsgrond kan slechts een beroep worden gedaan van de zijde van de minderjarige.
 
 2. Het vorige lid geldt niet voor een rechtshandeling anders dan om niet indien de wederpartij te goeder trouw was en voor een rechtshandeling die de minderjarige geen nadeel heeft berokkend.
 
@@ -3515,7 +3515,7 @@ De voogd kan, onverminderd zijn aansprakelijkheid voor de door zijn slecht bewin
 
 1. De voogd draagt zorg voor een doelmatige belegging van het vermogen van de minderjarige.
 
-2. Hij behoeft voor elke belegging van gelden van de minderjarige machtiging van de kantonrechter. Nochtans mag hij, voor zover de kantonrechter niet anders bepaalt, zonder diens machtiging gelden ten name van de minderjarige beleggen bij een financiële onderneming als bedoeld in [artikel 344, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=344&z=2025-07-01&g=2025-07-01) op rekeningen bestemd voor de belegging van gelden van minderjarigen, met het beding dat de gelden alleen worden terugbetaald met machtiging van de kantonrechter.
+2. Hij behoeft voor elke belegging van gelden van de minderjarige machtiging van de kantonrechter. Nochtans mag hij, voor zover de kantonrechter niet anders bepaalt, zonder diens machtiging gelden ten name van de minderjarige beleggen bij een financiële onderneming als bedoeld in [artikel 344, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=344&z=2025-07-05&g=2025-07-05) op rekeningen bestemd voor de belegging van gelden van minderjarigen, met het beding dat de gelden alleen worden terugbetaald met machtiging van de kantonrechter.
 
 ##### Artikel 351
 
@@ -3525,7 +3525,7 @@ De voogd kan, onverminderd zijn aansprakelijkheid voor de door zijn slecht bewin
 
 ##### Artikel 352
 
-Ondanks het ontbreken der vereiste machtiging zijn handelingen, door de voogd verricht in strijd met [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=350&z=2025-07-01&g=2025-07-01) of [artikel 351](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=351&z=2025-07-01&g=2025-07-01), geldig.
+Ondanks het ontbreken der vereiste machtiging zijn handelingen, door de voogd verricht in strijd met [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=350&z=2025-07-05&g=2025-07-05) of [artikel 351](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=351&z=2025-07-05&g=2025-07-05), geldig.
 
 ##### Artikel 353
 
@@ -3539,7 +3539,7 @@ De kantonrechter kan te allen tijde de voogd ten verhore doen oproepen. Deze is 
 
 1. Aan een met het gezag belaste ouder of aan een ouder die alleen het bewind over het vermogen heeft en die aangifte heeft gedaan van zijn voornemen een huwelijk of een geregistreerd partnerschap aan te gaan, kan de kantonrechter opdragen binnen een bepaalde termijn een beschrijving van het vermogen van de kinderen op te maken en deze beschrijving of een afschrift daarvan ter griffie van de rechtbank in te leveren.
 
-2. De [artikelen 339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01), [340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-01&g=2025-07-01) en [341 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=341&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05), [340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-05&g=2025-07-05) en [341 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=341&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
 
 ##### Artikel 356
 
@@ -3549,7 +3549,7 @@ De kantonrechter kan te allen tijde de voogd ten verhore doen oproepen. Deze is 
 
 ##### Artikel 357
 
-Indien de kosten van een ten behoeve van een minderjarige bevolen maatregel bij rechterlijke beschikking te diens laste zijn gebracht, treedt - ingeval dientengevolge het vermogen van de minderjarige moet worden aangesproken - in de plaats van de bij [artikel 345 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=345&z=2025-07-01&g=2025-07-01) bedoelde machtiging van de kantonrechter, diens aanwijzing van de goederen die verkocht of bezwaard zullen worden.
+Indien de kosten van een ten behoeve van een minderjarige bevolen maatregel bij rechterlijke beschikking te diens laste zijn gebracht, treedt - ingeval dientengevolge het vermogen van de minderjarige moet worden aangesproken - in de plaats van de bij [artikel 345 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=345&z=2025-07-05&g=2025-07-05) bedoelde machtiging van de kantonrechter, diens aanwijzing van de goederen die verkocht of bezwaard zullen worden.
 
 ##### Artikel 358
 
@@ -3597,7 +3597,7 @@ De kantonrechter kan op verzoek van de andere voogd of ambtshalve de schade vast
 
 ##### Artikel 364
 
-1. De door de voogd gestelde zekerheid houdt op, zodra zijn rekening en verantwoording is goedgekeurd, of zodra de rechtsvorderingen die zijn bewind betreffen overeenkomstig [artikel 377 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=377&z=2025-07-01&g=2025-07-01) verjaard zijn.
+1. De door de voogd gestelde zekerheid houdt op, zodra zijn rekening en verantwoording is goedgekeurd, of zodra de rechtsvorderingen die zijn bewind betreffen overeenkomstig [artikel 377 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=377&z=2025-07-05&g=2025-07-05) verjaard zijn.
 
 2. Alsdan worden op kosten van de minderjarige hypothecaire inschrijvingen doorgehaald en pandrechten op inschrijvingen in de schuldregisters voor geldleningen ten laste van het Rijk opgeheven.
 
@@ -3607,7 +3607,7 @@ Indien de voogd in gebreke blijft:
 
 - a. gehoor te geven aan een oproeping van de kantonrechter om voor hem te verschijnen;
 
-- b. een boedelbeschrijving of een verklaring als bedoeld in [artikel 339 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01) in te leveren;
+- b. een boedelbeschrijving of een verklaring als bedoeld in [artikel 339 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05) in te leveren;
 
 - c. op de door de kantonrechter bepaalde datum zijn periodieke rekening in te dienen;
 
@@ -3615,7 +3615,7 @@ Indien de voogd in gebreke blijft:
 
 - e. de kantonrechter het bewijs te leveren, dat hij een van hem verlangde zekerheid gesteld heeft; of
 
-- f. de schadevergoeding te betalen, waartoe de kantonrechter hem ingevolge [artikel 362 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=362&z=2025-07-01&g=2025-07-01) veroordeeld heeft,
+- f. de schadevergoeding te betalen, waartoe de kantonrechter hem ingevolge [artikel 362 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=362&z=2025-07-05&g=2025-07-05) veroordeeld heeft,
 
 kan de kantonrechter de raad voor de kinderbescherming hiermede in kennis stellen.
 
@@ -3629,7 +3629,7 @@ Insgelijks kan de kantonrechter de raad voor de kinderbescherming ermede in kenn
 
 ##### Artikel 367
 
-De raad voor de kinderbescherming die van de kantonrechter zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechtbank de vraag, of beëindiging van de voogdij op grond van [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-01&g=2025-07-01) van dit boek moet volgen.
+De raad voor de kinderbescherming die van de kantonrechter zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechtbank de vraag, of beëindiging van de voogdij op grond van [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-05&g=2025-07-05) van dit boek moet volgen.
 
 ##### Artikel 368
 
@@ -3729,11 +3729,11 @@ Elke rechtsvordering op grond van het gevoerde voogdijbewind - zowel van de zijd
 
 2. Indien het belang van het kind zulks vereist kan de rechter zowel op verzoek van de met het gezag belaste ouder als ambtshalve bepalen dat het eerste lid van dit artikel buiten toepassing blijft.
 
-3. [Artikel 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+3. [Artikel 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 ##### Artikel 377c
 
-1. Onverminderd het bepaalde in [artikel 377b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377b&z=2025-07-01&g=2025-07-01) van dit boek wordt de niet met het gezag belaste ouder desgevraagd door derden die beroepshalve beschikken over informatie inzake belangrijke feiten en omstandigheden die de persoon van het kind of diens verzorging en opvoeding betreffen, daarvan op de hoogte gesteld, tenzij die derde de informatie niet op gelijke wijze zou verschaffen aan degene die met het gezag over het kind is belast dan wel bij wie het kind zijn gewone verblijfplaats heeft, of het belang van het kind zich tegen het verschaffen van informatie verzet.
+1. Onverminderd het bepaalde in [artikel 377b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377b&z=2025-07-05&g=2025-07-05) van dit boek wordt de niet met het gezag belaste ouder desgevraagd door derden die beroepshalve beschikken over informatie inzake belangrijke feiten en omstandigheden die de persoon van het kind of diens verzorging en opvoeding betreffen, daarvan op de hoogte gesteld, tenzij die derde de informatie niet op gelijke wijze zou verschaffen aan degene die met het gezag over het kind is belast dan wel bij wie het kind zijn gewone verblijfplaats heeft, of het belang van het kind zich tegen het verschaffen van informatie verzet.
 
 2. Indien de informatie is geweigerd, kan de rechter op verzoek van de in het eerste lid van dit artikel bedoelde ouder bepalen dat de informatie op de door hem aan te geven wijze moet worden verstrekt. De rechter wijst het verzoek in ieder geval af, indien het belang van het kind zich tegen het verschaffen van de informatie verzet.
 
@@ -3757,7 +3757,7 @@ Vervallen
 
 ##### Artikel 377g
 
-De rechter kan, indien haar blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van de [artikelen 377a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-01&g=2025-07-01) of [377b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377b&z=2025-07-01&g=2025-07-01), dan wel zodanige beslissing op de voet van [artikel 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-01&g=2025-07-01) van dit boek wijzigen. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
+De rechter kan, indien haar blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van de [artikelen 377a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-05&g=2025-07-05) of [377b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377b&z=2025-07-05&g=2025-07-05), dan wel zodanige beslissing op de voet van [artikel 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377e&z=2025-07-05&g=2025-07-05) van dit boek wijzigen. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
 
 ##### Artikel 377h
 
@@ -3781,7 +3781,7 @@ en een voldoende behartiging van die belangen niet met een meer passende en mind
 
 ##### Artikel 379
 
-1. De curatele kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01) het gezag over de betrokken persoon uitoefent, zijn voogd, zijn bewindvoerder als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) en zijn mentor als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-01&g=2025-07-01).
+1. De curatele kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05) het gezag over de betrokken persoon uitoefent, zijn voogd, zijn bewindvoerder als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) en zijn mentor als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-05&g=2025-07-05).
 
 2. De curatele kan voorts worden verzocht door het openbaar ministerie en door de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen – bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen – niet tot indiening van een verzoek zijn overgegaan.
 
@@ -3799,13 +3799,13 @@ en een voldoende behartiging van die belangen niet met een meer passende en mind
 
 ##### Artikel 381
 
-1. De curatele werkt met ingang van de dag waarop zij is uitgesproken. In het geval, bedoeld in [artikel 378, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=378&z=2025-07-01&g=2025-07-01), werkt de curatele met ingang van het tijdstip waarop de onder curatele gestelde meerderjarig wordt.
+1. De curatele werkt met ingang van de dag waarop zij is uitgesproken. In het geval, bedoeld in [artikel 378, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=378&z=2025-07-05&g=2025-07-05), werkt de curatele met ingang van het tijdstip waarop de onder curatele gestelde meerderjarig wordt.
 
 2. Van deze tijdstippen is de onder curatele gestelde onbekwaam rechtshandelingen te verrichten voor zover de wet niet anders bepaalt.
 
 3. Een onder curatele gestelde is bekwaam rechtshandelingen te verrichten met toestemming van zijn curator, voor zover deze bevoegd is die rechtshandelingen voor de onder curatele gestelde te verrichten. De toestemming kan slechts worden verleend voor een bepaalde rechtshandeling of voor een bepaald doel. De toestemming voor een bepaald doel moet schriftelijk worden verleend.
 
-4. Met betrekking tot aangelegenheden betreffende verzorging, verpleging, behandeling en begeleiding van een onder curatele gestelde zijn de [artikelen 453 en 454 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+4. Met betrekking tot aangelegenheden betreffende verzorging, verpleging, behandeling en begeleiding van een onder curatele gestelde zijn de [artikelen 453 en 454 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 5. Hij is bekwaam over gelden die zijn curator voor levensonderhoud te zijner beschikking heeft gesteld, overeenkomstig deze bestemming te beschikken.
 
@@ -3845,9 +3845,9 @@ Hij die uit hoofde van gewoonte van drank- of drugsmisbruik onder curatele is ge
 
 - 3°. de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
-6. Zij van wie één of meer goederen onder een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) staan, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet tot curator worden benoemd, tenzij het gaat om een persoon als bedoeld in het derde lid en het bewind over het vermogen van de onder curatele gestelde door de medecurator wordt gevoerd.
+6. Zij van wie één of meer goederen onder een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) staan, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet tot curator worden benoemd, tenzij het gaat om een persoon als bedoeld in het derde lid en het bewind over het vermogen van de onder curatele gestelde door de medecurator wordt gevoerd.
 
-7. Een andere persoon dan in het derde lid bedoeld, die ten behoeve van drie of meer personen curator, bewindvoerder of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een curator uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in [artikel 386, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=386&z=2025-07-01&g=2025-07-01), en in [artikel 15i van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i).
+7. Een andere persoon dan in het derde lid bedoeld, die ten behoeve van drie of meer personen curator, bewindvoerder of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een curator uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in [artikel 386, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=386&z=2025-07-05&g=2025-07-05), en in [artikel 15i van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i).
 
 8. De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over:
 
@@ -3855,7 +3855,7 @@ Hij die uit hoofde van gewoonte van drank- of drugsmisbruik onder curatele is ge
 
 - b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en
 
-- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-01&g=2025-07-01) niet van toepassing.
+- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-05&g=2025-07-05) niet van toepassing.
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.
 
@@ -3871,7 +3871,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent d
 
 Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemingen en beroepsbeoefenaren geheel of gedeeltelijk worden vrijgesteld van de in het zevende lid bedoelde eisen inzake de werving, scholing en bedrijfsvoering.
 
-10. De rechter kan twee curatoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee curatoren, dan kan ieder van hen de taken die aan een curator toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de curatoren vaststellen. Bij verschil van mening tussen de curatoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in [artikel 379, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-01&g=2025-07-01), de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
+10. De rechter kan twee curatoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee curatoren, dan kan ieder van hen de taken die aan een curator toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de curatoren vaststellen. Bij verschil van mening tussen de curatoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in [artikel 379, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-05&g=2025-07-05), de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
 
 11. De taak van de curator vangt aan daags nadat de beslissing, houdende de benoeming, is verstrekt of verzonden. Met die dag eindigt het provisioneel bewind. De provisionele bewindvoerder is verplicht ten overstaan van de kantonrechter aan de curator rekening en verantwoording van zijn bemoeienissen af te leggen; wordt hij zelf tot curator benoemd, dan wordt de rekening en verantwoording aan de kantonrechter afgelegd. Indien de curator vóór de meerderjarigheid van de onder curatele gestelde is benoemd, vangt zijn taak aan op het tijdstip waarop de curatele in werking treedt.
 
@@ -3883,29 +3883,29 @@ Indien een beschikking, waarbij curatele is uitgesproken, in hoger beroep of cas
 
 ##### Artikel 385
 
-1. Behoudens het in de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=383&z=2025-07-01&g=2025-07-01) en [384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) bepaalde vinden de [artikelen 250](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=250&z=2025-07-01&g=2025-07-01) en [280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-01&g=2025-07-01), [281 lid 1 onder a en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=281&z=2025-07-01&g=2025-07-01), [322, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=5&artikel=322&z=2025-07-01&g=2025-07-01), [324](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=6&artikel=324&z=2025-07-01&g=2025-07-01), [336](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336&z=2025-07-01&g=2025-07-01) en [372-377](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=372&z=2025-07-01&g=2025-07-01) bij curatele overeenkomstige toepassing, met dien verstande dat
+1. Behoudens het in de [artikelen 383](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=383&z=2025-07-05&g=2025-07-05) en [384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) bepaalde vinden de [artikelen 250](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=250&z=2025-07-05&g=2025-07-05) en [280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-05&g=2025-07-05), [281 lid 1 onder a en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=281&z=2025-07-05&g=2025-07-05), [322, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=5&artikel=322&z=2025-07-05&g=2025-07-05), [324](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=6&artikel=324&z=2025-07-05&g=2025-07-05), [336](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=9&artikel=336&z=2025-07-05&g=2025-07-05) en [372-377](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=372&z=2025-07-05&g=2025-07-05) bij curatele overeenkomstige toepassing, met dien verstande dat
 
-- a. in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in [artikel 280 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-01&g=2025-07-01) niet is vereist;
+- a. in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in [artikel 280 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=1&artikel=280&z=2025-07-05&g=2025-07-05) niet is vereist;
 
 - b. voor rechtbank of rechter wordt gelezen kantonrechter;
 
 - c. aan de raad voor de kinderbescherming ter zake geen bevoegdheden toekomen;
 
-- d. de curator te allen tijde hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om curator te kunnen worden, door de kantonrechter kan worden ontslagen, zulks op verzoek van de medecurator of degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-01&g=2025-07-01), dan wel ambtshalve. [Artikel 448, tweede lid, derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=448&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing;
+- d. de curator te allen tijde hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om curator te kunnen worden, door de kantonrechter kan worden ontslagen, zulks op verzoek van de medecurator of degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-05&g=2025-07-05), dan wel ambtshalve. [Artikel 448, tweede lid, derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=448&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing;
 
-- e. de curator de rekening en verantwoording, bedoeld in [artikel 374](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=374&z=2025-07-01&g=2025-07-01), aflegt ten overstaan van de bij het einde van zijn bewind ter zake bevoegde kantonrechter.
+- e. de curator de rekening en verantwoording, bedoeld in [artikel 374](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&artikel=374&z=2025-07-05&g=2025-07-05), aflegt ten overstaan van de bij het einde van zijn bewind ter zake bevoegde kantonrechter.
 
 2. De curator doet telkens na verloop van vijf jaren, of zoveel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van de curatele. Hij laat zich daarbij met name uit over de vraag of de curatele dient voort te duren of door een minder ver strekkende voorziening kan worden vervangen. Feiten die voor de curatele en het voortduren daarvan van betekenis zijn deelt hij terstond aan de kantonrechter mede.
 
 ##### Artikel 386
 
-1. Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=383&z=2025-07-01&g=2025-07-01), legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De curator heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.
+1. Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=383&z=2025-07-05&g=2025-07-05), legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De curator heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.
 
 2. De curator draagt zorg voor een doelmatige belegging van het vermogen van de onder curatele gestelde, voor zover dit niet besteed behoort te worden voor een voldoende verzorging van de onder curatele gestelde.
 
 3. Tenzij de kantonrechter anders bepaalt, is de curator verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen; de curator is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.
 
-4. Voor de toepassing van de [artikelen 365 tot en met 367](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=365&z=2025-07-01&g=2025-07-01) treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in [artikel 385, lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=385&z=2025-07-01&g=2025-07-01) in de plaats van de ontzetting van de voogd op grond van [artikel 327 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-01&g=2025-07-01). Mededelingen en zendingen als bedoeld in [artikel 371a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=371a&z=2025-07-01&g=2025-07-01), geschieden alleen dan indien [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=3&artikel=12&z=2025-07-01&g=2025-07-01), op de desbetreffende curatele niet van toepassing is.
+4. Voor de toepassing van de [artikelen 365 tot en met 367](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=365&z=2025-07-05&g=2025-07-05) treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in [artikel 385, lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=385&z=2025-07-05&g=2025-07-05) in de plaats van de ontzetting van de voogd op grond van [artikel 327 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-05&g=2025-07-05). Mededelingen en zendingen als bedoeld in [artikel 371a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=371a&z=2025-07-05&g=2025-07-05), geschieden alleen dan indien [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=3&artikel=12&z=2025-07-05&g=2025-07-05), op de desbetreffende curatele niet van toepassing is.
 
 5. Indien een gehuwde of een geregistreerde partner onder curatele wordt gesteld, en tussen de echtgenoten of de geregistreerde partners het bestuur over hun goederen en de goederen der gemeenschap anders is verdeeld dan volgens de regels van de wet en van huwelijkse voorwaarden, bepaalt de rechter bij het uitspreken van de curatele, of en in hoeverre die verdeling ook voor de curator zal gelden.
 
@@ -3927,25 +3927,25 @@ Vervallen
 
 - b. door de dood van de betrokken persoon, of
 
-- c. indien ten behoeve van hem bij in kracht van gewijsde gegane rechterlijke uitspraak ter vervanging van curatele een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) dan wel een mentorschap als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-01&g=2025-07-01) is ingesteld.
+- c. indien ten behoeve van hem bij in kracht van gewijsde gegane rechterlijke uitspraak ter vervanging van curatele een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) dan wel een mentorschap als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-05&g=2025-07-05) is ingesteld.
 
-2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van de curatele niet zinvol is gebleken, de curatele opheffen, zulks op verzoek van de curator of degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-01&g=2025-07-01), alsmede ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van de curatele niet zinvol is gebleken, de curatele opheffen, zulks op verzoek van de curator of degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-05&g=2025-07-05), alsmede ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
 
-3. Degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-01&g=2025-07-01), alsmede de curator, kan verzoeken om verlenging van een curatele die voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
+3. Degene die gerechtigd is de curatele te verzoeken als bedoeld in [artikel 379](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=379&z=2025-07-05&g=2025-07-05), alsmede de curator, kan verzoeken om verlenging van een curatele die voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
 
 ##### Artikel 390
 
-Alle uitspraken waarbij een curatele wordt verleend of opgeheven of waarbij een uitspraak tot ondercuratelestelling wordt vernietigd, alsmede beschikkingen als in [artikel 380](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=380&z=2025-07-01&g=2025-07-01) bedoeld, worden binnen tien dagen nadat zij kunnen worden ten uitvoer gelegd, vanwege de griffier in de Staatscourant bekendgemaakt.
+Alle uitspraken waarbij een curatele wordt verleend of opgeheven of waarbij een uitspraak tot ondercuratelestelling wordt vernietigd, alsmede beschikkingen als in [artikel 380](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=380&z=2025-07-05&g=2025-07-05) bedoeld, worden binnen tien dagen nadat zij kunnen worden ten uitvoer gelegd, vanwege de griffier in de Staatscourant bekendgemaakt.
 
 ##### Artikel 391
 
-1. Door een bij algemene maatregel van bestuur aan te wijzen orgaan wordt een openbaar register gehouden, waarin rechtsfeiten worden aangetekend die betrekking hebben op curatele en op bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01). In het register worden, voor iedere curatele en ieder in te schrijven bewind afzonderlijk, met vermelding van de dagtekening, ingeschreven:
+1. Door een bij algemene maatregel van bestuur aan te wijzen orgaan wordt een openbaar register gehouden, waarin rechtsfeiten worden aangetekend die betrekking hebben op curatele en op bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05). In het register worden, voor iedere curatele en ieder in te schrijven bewind afzonderlijk, met vermelding van de dagtekening, ingeschreven:
 
 - 1°. de naam en geboortedatum van de onder curatele gestelde en de rechthebbende;
 
 - 2°. een uittreksel van de rechterlijke beslissingen, waarbij de curatele of het bewind wegens verkwisting dan wel het hebben van problematische schulden wordt ingesteld, verlengd of opgeheven;
 
-- 3°. een uittreksel van de rechterlijke beslissingen, waarbij, voor zover de rechter zulks overeenkomstig [artikel 436, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-01&g=2025-07-01), heeft bepaald, het bewind wegens een lichamelijke of geestelijke toestand wordt ingesteld, verlengd of opgeheven;
+- 3°. een uittreksel van de rechterlijke beslissingen, waarbij, voor zover de rechter zulks overeenkomstig [artikel 436, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-05&g=2025-07-05), heeft bepaald, het bewind wegens een lichamelijke of geestelijke toestand wordt ingesteld, verlengd of opgeheven;
 
 - 4°. de grond waarop de curatele is ingesteld;
 
@@ -3975,9 +3975,9 @@ Alle uitspraken waarbij een curatele wordt verleend of opgeheven of waarbij een 
 
 - c. behuwdkinderen, schoonouders en stiefouders.
 
-2. Deze verplichting bestaat, behalve wat betreft ouders en stiefouders jegens hun minderjarige kinderen en stiefkinderen en jegens hun kinderen bedoeld in [artikel 395a van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01), slechts in geval van behoeftigheid van de tot levensonderhoud gerechtigde.
+2. Deze verplichting bestaat, behalve wat betreft ouders en stiefouders jegens hun minderjarige kinderen en stiefkinderen en jegens hun kinderen bedoeld in [artikel 395a van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05), slechts in geval van behoeftigheid van de tot levensonderhoud gerechtigde.
 
-3. De in het eerste lid genoemde personen zijn niet verplicht levensonderhoud te verstrekken, voor zover dit van de echtgenoot of een vroegere echtgenoot dan wel de geregistreerde partner of vroegere geregistreerde partner overeenkomstig het in de [vijfde titel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&z=2025-07-01&g=2025-07-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&z=2025-07-01&g=2025-07-01), [negende](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-01&g=2025-07-01) of [tiende titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-01&g=2025-07-01) bepaalde kan worden verkregen.
+3. De in het eerste lid genoemde personen zijn niet verplicht levensonderhoud te verstrekken, voor zover dit van de echtgenoot of een vroegere echtgenoot dan wel de geregistreerde partner of vroegere geregistreerde partner overeenkomstig het in de [vijfde titel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=5A&z=2025-07-05&g=2025-07-05), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&z=2025-07-05&g=2025-07-05), [negende](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&z=2025-07-05&g=2025-07-05) of [tiende titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=10&z=2025-07-05&g=2025-07-05) bepaalde kan worden verkregen.
 
 ##### Artikel 393
 
@@ -3985,11 +3985,11 @@ Vervallen
 
 ##### Artikel 394
 
-De verwekker van een kind dat alleen een moeder heeft, alsmede de persoon die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, is als ware hij ouder verplicht tot het voorzien in de kosten van verzorging en opvoeding van het kind dan wel, na het bereiken van de meerderjarigheid van het kind, tot het voorzien in de kosten van levensonderhoud en studie overeenkomstig de [artikelen 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01) en [395b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395b&z=2025-07-01&g=2025-07-01). Nadien bestaat deze verplichting slechts in geval van behoeftigheid van het kind.
+De verwekker van een kind dat alleen een moeder heeft, alsmede de persoon die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, is als ware hij ouder verplicht tot het voorzien in de kosten van verzorging en opvoeding van het kind dan wel, na het bereiken van de meerderjarigheid van het kind, tot het voorzien in de kosten van levensonderhoud en studie overeenkomstig de [artikelen 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05) en [395b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395b&z=2025-07-05&g=2025-07-05). Nadien bestaat deze verplichting slechts in geval van behoeftigheid van het kind.
 
 ##### Artikel 395
 
-Een stiefouder is, onverminderd het bepaalde in [artikel 395a van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01), alleen verplicht gedurende zijn huwelijk of zijn geregistreerd partnerschap levensonderhoud te verstrekken aan de tot zijn gezin behorende minderjarige kinderen van zijn echtgenoot of geregistreerde partner.
+Een stiefouder is, onverminderd het bepaalde in [artikel 395a van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05), alleen verplicht gedurende zijn huwelijk of zijn geregistreerd partnerschap levensonderhoud te verstrekken aan de tot zijn gezin behorende minderjarige kinderen van zijn echtgenoot of geregistreerde partner.
 
 ##### Artikel 395a
 
@@ -3999,7 +3999,7 @@ Een stiefouder is, onverminderd het bepaalde in [artikel 395a van dit boek](http
 
 ##### Artikel 395b
 
-Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig [artikel 394](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=394&z=2025-07-01&g=2025-07-01), de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in [artikel 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-01&g=2025-07-01) van dit boek bedoeld.
+Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig [artikel 394](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=394&z=2025-07-05&g=2025-07-05), de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in [artikel 395a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395a&z=2025-07-05&g=2025-07-05) van dit boek bedoeld.
 
 ##### Artikel 396
 
@@ -4031,13 +4031,13 @@ De rechter kan de verplichting van bloed- en aanverwanten tot levensonderhoud ma
 
 ##### Artikel 401
 
-1. Een rechterlijke uitspraak of een overeenkomst betreffende levensonderhoud kan bij latere rechterlijke uitspraak worden gewijzigd of ingetrokken, wanneer zij nadien door wijziging van omstandigheden ophoudt aan de wettelijke maatstaven te voldoen. De voorgaande zin is niet van toepassing op een verzoek tot wijziging van een termijn die de rechter heeft vastgesteld op grond van [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-01&g=2025-07-01), of [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), of die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-01&g=2025-07-01).
+1. Een rechterlijke uitspraak of een overeenkomst betreffende levensonderhoud kan bij latere rechterlijke uitspraak worden gewijzigd of ingetrokken, wanneer zij nadien door wijziging van omstandigheden ophoudt aan de wettelijke maatstaven te voldoen. De voorgaande zin is niet van toepassing op een verzoek tot wijziging van een termijn die de rechter heeft vastgesteld op grond van [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-05&g=2025-07-05), of [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), of die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-05&g=2025-07-05).
 
-2. De termijn die de rechter heeft vastgesteld op grond van [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-01&g=2025-07-01), of [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), of die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-01&g=2025-07-01), kan op verzoek van een van de gewezen echtgenoten of gewezen geregistreerde partners worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
+2. De termijn die de rechter heeft vastgesteld op grond van [artikel 156, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=156&z=2025-07-05&g=2025-07-05), of [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), of die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-05&g=2025-07-05), kan op verzoek van een van de gewezen echtgenoten of gewezen geregistreerde partners worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
 
-Verlenging is niet mogelijk indien de rechter zulks ingevolge [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), heeft bepaald. Op een verzoek tot verlenging is [artikel 157, zevende lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+Verlenging is niet mogelijk indien de rechter zulks ingevolge [artikel 157, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), heeft bepaald. Op een verzoek tot verlenging is [artikel 157, zevende lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=157&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing.
 
-3. Partijen kunnen schriftelijk overeenkomen dat het eerste lid, eerste zin, van toepassing is op een verzoek tot wijziging van een termijn die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-01&g=2025-07-01).
+3. Partijen kunnen schriftelijk overeenkomen dat het eerste lid, eerste zin, van toepassing is op een verzoek tot wijziging van een termijn die is opgenomen in een overeenkomst als bedoeld in [artikel 158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=9&afdeling=2&artikel=158&z=2025-07-05&g=2025-07-05).
 
 4. Een rechterlijke uitspraak betreffende levensonderhoud kan ook worden gewijzigd of ingetrokken, indien zij van de aanvang af niet aan de wettelijke maatstaven heeft beantwoord doordat bij die uitspraak van onjuiste of onvolledige gegevens is uitgegaan.
 
@@ -4065,7 +4065,7 @@ Verlenging is niet mogelijk indien de rechter zulks ingevolge [artikel 157, zeve
 
 6. Bij de uitspraak, waarbij de tweede zin van het vorige lid toepassing heeft gevonden, en ook nadien, kan de rechter een regeling geven omtrent de wijze en de tijdstippen waarop de tot uitkering verplichte persoon aan de tot uitkering gerechtigde persoon gegevens dient te verschaffen ten behoeve van de vaststelling van de wijziging van het bedrag voor levensonderhoud. Deze beslissingen kunnen worden gegeven en nadien worden gewijzigd op verzoek van de tot uitkering verplichte of gerechtigde persoon.
 
-7. De uitsluiting van de wijziging van rechtswege kan bij rechterlijke uitspraak worden ingetrokken. Voor zover het een uitsluiting betreft waarbij de tweede zin van het vijfde lid niet is toegepast, kan de intrekking alleen geschieden in de gevallen bedoeld in [artikel 401 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=401&z=2025-07-01&g=2025-07-01).
+7. De uitsluiting van de wijziging van rechtswege kan bij rechterlijke uitspraak worden ingetrokken. Voor zover het een uitsluiting betreft waarbij de tweede zin van het vijfde lid niet is toegepast, kan de intrekking alleen geschieden in de gevallen bedoeld in [artikel 401 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=401&z=2025-07-05&g=2025-07-05).
 
 8. De tenuitvoerlegging van een executoriale titel betreffende de betaling van levensonderhoud geschiedt met inachtneming van de op het tijdstip van de tenuitvoerlegging ingegane wijzigingen van rechtswege dan wel met inachtneming van de wijzigingen overeenkomstig de tweede zin van het vijfde lid van dit artikel.
 
@@ -4079,7 +4079,7 @@ Geen uitkering is verschuldigd over de tijd, die op het tijdstip van het indiene
 
 1. Ouders zijn verplicht naar draagkracht te voorzien in de kosten van verzorging en opvoeding van hun minderjarige kinderen.
 
-2. Gelijke verplichting bestaat voor een stiefouder in het geval van [artikel 395 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395&z=2025-07-01&g=2025-07-01).
+2. Gelijke verplichting bestaat voor een stiefouder in het geval van [artikel 395 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=395&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 405
 
@@ -4093,7 +4093,7 @@ Vervallen
 
 ##### Artikel 406a
 
-Een op [artikel 394](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=394&z=2025-07-01&g=2025-07-01) gegrond verzoek kan ten behoeve van een minderjarig kind door hem die het gezag over het kind heeft, worden gedaan. De ouder of voogd van het kind behoeft de in [artikel 349, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=349&z=2025-07-01&g=2025-07-01), bedoelde machtiging niet.
+Een op [artikel 394](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=394&z=2025-07-05&g=2025-07-05) gegrond verzoek kan ten behoeve van een minderjarig kind door hem die het gezag over het kind heeft, worden gedaan. De ouder of voogd van het kind behoeft de in [artikel 349, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=349&z=2025-07-05&g=2025-07-05), bedoelde machtiging niet.
 
 ##### Artikel 406b
 
@@ -4131,7 +4131,7 @@ Gelijktijdig met een door de rechtbank te geven uitspraak betreffende het over d
 
 11. Het Landelijk Bureau Inning Onderhoudsbijdragen draagt zorg, dat de gelden die ten behoeve van het onderhoud van minderjarigen worden uitgekeerd, aan de daarop rechthebbenden worden uitbetaald.
 
-12. [Artikel 243, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=243&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+12. [Artikel 243, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=3&artikel=243&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing.
 
 13. Met uitzondering van de leden 1, 7 en 11, is dit artikel van overeenkomstige toepassing op de ten behoeve van een echtgenoot of geregistreerd partner bij rechterlijke uitspraak vastgestelde uitkering tot levensonderhoud, daaronder begrepen de beschikking inzake een voorlopige voorziening betreffende een uitkering tot levensonderhoud, met dien verstande dat invorderingen die tien jaar na de indiening van het verzoek om invordering nog niet zijn verwezenlijkt door het Landelijk Bureau Inning Onderhoudsbijdragen, mogen worden beëindigd.
 
@@ -4147,7 +4147,7 @@ Gelijktijdig met een door de rechtbank te geven uitspraak betreffende het over d
 
 ##### Artikel 410
 
-1. Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de [artikelen 338](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-01&g=2025-07-01), [339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01),[340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-01&g=2025-07-01), [342-357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-01&g=2025-07-01), [358 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=358&z=2025-07-01&g=2025-07-01) en [359-363](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=359&z=2025-07-01&g=2025-07-01) van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
+1. Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de [artikelen 338](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-05&g=2025-07-05), [339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05),[340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-05&g=2025-07-05), [342-357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-05&g=2025-07-05), [358 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=358&z=2025-07-05&g=2025-07-05) en [359-363](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=359&z=2025-07-05&g=2025-07-05) van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
 
 2. De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.
 
@@ -4193,11 +4193,11 @@ Het bewind eindigt:
 
 1. De rechtbank stelt dag en uur vast, waartegen de vermiste moet worden opgeroepen. De oproep loopt op een termijn van een maand of zoveel langer als de rechtbank mocht bevelen. De oproeping geschiedt overeenkomstig de [derde afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
 
-2. Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, stelt de rechtbank de vermissing van de betrokkene vast, onverminderd haar bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=413&z=2025-07-01&g=2025-07-01) stelt.
+2. Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, stelt de rechtbank de vermissing van de betrokkene vast, onverminderd haar bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=413&z=2025-07-05&g=2025-07-05) stelt.
 
 3. De beschikking, houdende de vaststelling van vermissing van de betrokkene, vermeldt de dag vanaf welke de vermissing is vastgesteld. Als zodanig geldt de dag volgende op die van het laatste bericht waaruit blijkt dat de vermiste in leven was, tenzij er voldoende aanwijzingen zijn dat hij daarna nog enige tijd in leven was.
 
-4. De rechtbank kan tevens bepalen, dat de kosten die een verzoeker als bedoeld in [artikel 413 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=413&z=2025-07-01&g=2025-07-01) heeft gemaakt, ten laste van het vermogen van de vermiste worden gebracht.
+4. De rechtbank kan tevens bepalen, dat de kosten die een verzoeker als bedoeld in [artikel 413 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=413&z=2025-07-05&g=2025-07-05) heeft gemaakt, ten laste van het vermogen van de vermiste worden gebracht.
 
 5. De vaststelling van vermissing heeft de rechtsgevolgen van een overlijden.
 
@@ -4229,7 +4229,7 @@ Geen hogere voorziening is toegelaten tegen beschikkingen, houdende bevel tot op
 
 6. Erfgenamen en legatarissen zijn verplicht desgevraagd aan de kantonrechter de nodige inlichtingen te geven.
 
-7. De in dit artikel genoemde verplichtingen vervallen op het door de kantonrechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaren na de dag waarop de akte van overlijden overeenkomstig [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-01&g=2025-07-01) is opgemaakt. De rechtbank die de beschikking, houdende vaststelling van vermissing geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.
+7. De in dit artikel genoemde verplichtingen vervallen op het door de kantonrechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaren na de dag waarop de akte van overlijden overeenkomstig [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-05&g=2025-07-05) is opgemaakt. De rechtbank die de beschikking, houdende vaststelling van vermissing geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.
 
 ##### Artikel 419
 
@@ -4239,7 +4239,7 @@ De akte waarbij zekerheid is gesteld, de boedelbeschrijving en de akte van verde
 
 1. Wanneer het aan de kantonrechter blijkt, dat een erfgenaam of legataris de hem in de twee voorgaande artikelen opgelegde verplichtingen niet is nagekomen, kan hij voor de goederen die aan die erfgenaam of legataris uit de nalatenschap toekomen, een bewindvoerder benoemen, wiens bewind eindigt, wanneer de kantonrechter beslist dat de betrokkene alsnog zijn wettelijke verplichtingen heeft nageleefd.
 
-2. Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de [artikelen 338](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-01&g=2025-07-01), [339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01), [340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-01&g=2025-07-01), [342-357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-01&g=2025-07-01), [358 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=358&z=2025-07-01&g=2025-07-01) en [359-363 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=359&z=2025-07-01&g=2025-07-01) overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks ter griffie van de rechtbank een rekening in te dienen van zijn bewind.
+2. Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de [artikelen 338](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=338&z=2025-07-05&g=2025-07-05), [339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05), [340](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=340&z=2025-07-05&g=2025-07-05), [342-357](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=342&z=2025-07-05&g=2025-07-05), [358 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=358&z=2025-07-05&g=2025-07-05) en [359-363 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=359&z=2025-07-05&g=2025-07-05) overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks ter griffie van de rechtbank een rekening in te dienen van zijn bewind.
 
 3. De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.
 
@@ -4259,7 +4259,7 @@ Hetgeen in de vorige drie artikelen is bepaald omtrent erfgenamen, die goederen 
 
 ##### Artikel 423
 
-1. Indien binnen vijf jaar na de dag waarop de akte van overlijden overeenkomstig [artikel 417 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-01&g=2025-07-01) is opgemaakt, wordt bewezen dat deze akte onjuist is, zijn zij die te goeder trouw de vruchten van de nalatenschap hebben genoten, slechts verplicht daarvan de helft terug te geven; wordt de onjuistheid later bewezen, dan behoeven zij geen vruchten terug te geven.
+1. Indien binnen vijf jaar na de dag waarop de akte van overlijden overeenkomstig [artikel 417 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-05&g=2025-07-05) is opgemaakt, wordt bewezen dat deze akte onjuist is, zijn zij die te goeder trouw de vruchten van de nalatenschap hebben genoten, slechts verplicht daarvan de helft terug te geven; wordt de onjuistheid later bewezen, dan behoeven zij geen vruchten terug te geven.
 
 2. Indien eerst meer dan tien jaar na de dag waarop de akte is opgemaakt, wordt bewezen dat de akte onjuist is, zijn zij die de goederen te goeder trouw in bezit hebben genomen, slechts verplicht de alsdan nog aanwezige goederen in de staat waarin zij zich bevinden, af te geven, benevens de prijs van de vervreemde goederen of de goederen die daarvoor in de plaats zijn getreden; alles zonder enige vruchten of vergoeding voor niet meer aanwezige goederen en zonder verplichting van rekening en verantwoording.
 
@@ -4271,7 +4271,7 @@ Vervallen.
 
 ##### Artikel 425
 
-1. Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig [artikel 417 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-01&g=2025-07-01) opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag. Dit lid is van overeenkomstige toepassing op de achtergebleven geregistreerde partner en het aangaan van een nieuw geregistreerd partnerschap.
+1. Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig [artikel 417 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=417&z=2025-07-05&g=2025-07-05) opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag. Dit lid is van overeenkomstige toepassing op de achtergebleven geregistreerde partner en het aangaan van een nieuw geregistreerd partnerschap.
 
 2. Degene ten aanzien van wie de vermissing is vastgesteld voor wie bij diens terugkeer het gezag over zijn minderjarige kind niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Wanneer deze tezamen met de andere ouder verzoekt in het belang van hun kind hen gezamenlijk met het gezag te belasten, dan wel niet in het gezag is voorzien of een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd. In de overige gevallen wordt het verzoek slechts ingewilligd indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
 
@@ -4297,11 +4297,11 @@ Vervallen.
 
 - C. indien de overledene zijn woon- of verblijfplaats had in Nederland.
 
-3. Voor zover mogelijk bevat het verzoek bedoeld in het eerste en tweede lid, of daarmee vergezeld gaande bescheiden de in [artikel 427 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=427&z=2025-07-01&g=2025-07-01) genoemde gegevens.
+3. Voor zover mogelijk bevat het verzoek bedoeld in het eerste en tweede lid, of daarmee vergezeld gaande bescheiden de in [artikel 427 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=427&z=2025-07-05&g=2025-07-05) genoemde gegevens.
 
 ##### Artikel 427
 
-1. De beschikking, houdende verklaring dat de in [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=426&z=2025-07-01&g=2025-07-01) bedoelde persoon is overleden, noemt de dag en zo mogelijk het uur van het overlijden. Indien de dag van overlijden niet bekend is, wordt deze door de rechtbank vastgesteld en in de beschikking vermeld. De rechtbank houdt hierbij rekening met alle bewijzen en aanwijzingen omtrent de omstandigheden waaronder, of het tijdstip waarop het overlijden moet hebben plaatsgehad.
+1. De beschikking, houdende verklaring dat de in [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=426&z=2025-07-05&g=2025-07-05) bedoelde persoon is overleden, noemt de dag en zo mogelijk het uur van het overlijden. Indien de dag van overlijden niet bekend is, wordt deze door de rechtbank vastgesteld en in de beschikking vermeld. De rechtbank houdt hierbij rekening met alle bewijzen en aanwijzingen omtrent de omstandigheden waaronder, of het tijdstip waarop het overlijden moet hebben plaatsgehad.
 
 2. Voorts vermeldt de beschikking de geslachtsnaam, de voornamen, de kunne en, zo mogelijk, de plaats van het overlijden, de woonplaats van de overledene, de plaats en de dag van geboorte van de overledene en de geslachtsnaam en de voornamen van de persoon of van de personen, met wie de overledene gehuwd is geweest of met wie de overledene een geregistreerd partnerschap was aangegaan.
 
@@ -4315,9 +4315,9 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 ##### Artikel 430
 
-1. De akten, opgemaakt volgens [artikel 429](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=429&z=2025-07-01&g=2025-07-01), gelden als akten van overlijden in de zin van [artikel 19f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-01&g=2025-07-01).
+1. De akten, opgemaakt volgens [artikel 429](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=429&z=2025-07-05&g=2025-07-05), gelden als akten van overlijden in de zin van [artikel 19f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-05&g=2025-07-05).
 
-2. De [artikelen 422](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=422&z=2025-07-01&g=2025-07-01), [423](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=423&z=2025-07-01&g=2025-07-01) en [425](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=425&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, indien een persoon die met toepassing van [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=426&z=2025-07-01&g=2025-07-01) overleden is verklaard terugkeert alsmede indien bewezen wordt dat de dag van overlijden in de in [artikel 429](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=429&z=2025-07-01&g=2025-07-01) bedoelde akte onjuist is vermeld.
+2. De [artikelen 422](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=422&z=2025-07-05&g=2025-07-05), [423](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=423&z=2025-07-05&g=2025-07-05) en [425](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=2&artikel=425&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing, indien een persoon die met toepassing van [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=426&z=2025-07-05&g=2025-07-05) overleden is verklaard terugkeert alsmede indien bewezen wordt dat de dag van overlijden in de in [artikel 429](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=18&afdeling=3&artikel=429&z=2025-07-05&g=2025-07-05) bedoelde akte onjuist is vermeld.
 
 ## Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
@@ -4339,7 +4339,7 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 ##### Artikel 432
 
-1. Instelling van het bewind kan worden verzocht door de rechthebbende, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01) het gezag over de rechthebbende uitoefent, zijn voogd, zijn curator als bedoeld in [titel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&z=2025-07-01&g=2025-07-01) en zijn mentor als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-01&g=2025-07-01). In het in [artikel 431, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-01&g=2025-07-01), bedoelde geval kan het bewind uitsluitend worden verzocht door de rechthebbende.
+1. Instelling van het bewind kan worden verzocht door de rechthebbende, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05) het gezag over de rechthebbende uitoefent, zijn voogd, zijn curator als bedoeld in [titel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&z=2025-07-05&g=2025-07-05) en zijn mentor als bedoeld in [titel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&z=2025-07-05&g=2025-07-05). In het in [artikel 431, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-05&g=2025-07-05), bedoelde geval kan het bewind uitsluitend worden verzocht door de rechthebbende.
 
 2. Instelling van het bewind kan voorts worden verzocht door het openbaar ministerie en door de instelling waar de rechthebbende wordt verzorgd of die aan de rechthebbende begeleiding biedt. Instelling van een bewind wegens verkwisting of het hebben van problematische schulden kan tevens worden verzocht door het college van burgemeester en wethouders van de gemeente waar de rechthebbende woonplaats heeft. In beide laatste gevallen vermeldt het verzoekschrift tevens waarom de in het eerste lid genoemde personen – bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen – niet tot indiening van een verzoek zijn overgegaan.
 
@@ -4347,19 +4347,19 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 4. Een verzoek tot instelling van een bewind ten behoeve van een rechthebbende die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van een curatele, ook ambtshalve overgaan tot instelling van het bewind.
 
-5. In geval van een bestuursopdracht, of een verzoek daartoe, als bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=91&z=2025-07-01&g=2025-07-01) van dit boek, zijn het derde en het vierde lid van overeenkomstige toepassing.
+5. In geval van een bestuursopdracht, of een verzoek daartoe, als bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=91&z=2025-07-05&g=2025-07-05) van dit boek, zijn het derde en het vierde lid van overeenkomstige toepassing.
 
 ##### Artikel 433
 
 1. Tenzij bij de onderbewindstelling anders is bepaald, omvat het bewind ook de goederen die geacht moeten worden in de plaats van een aan het bewind onderworpen goed te treden, benevens de vruchten en andere voordelen die een onder bewind staand goed oplevert.
 
-2. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), hetzij ambtshalve, het ingestelde bewind tot een of meer andere goederen van de rechthebbende uitbreiden of een of meer goederen uit het bewind ontslaan en ook alsnog bepalen dat de regel van het eerste lid voor een of meer goederen niet zal gelden, in welk geval [artikel 434, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=434&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing is. De kantonrechter kan tevens handelingen als bedoeld in [artikel 441, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=441&z=2025-07-01&g=2025-07-01) aanwijzen en de aanwijzing van zulke handelingen intrekken.
+2. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), hetzij ambtshalve, het ingestelde bewind tot een of meer andere goederen van de rechthebbende uitbreiden of een of meer goederen uit het bewind ontslaan en ook alsnog bepalen dat de regel van het eerste lid voor een of meer goederen niet zal gelden, in welk geval [artikel 434, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=434&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing is. De kantonrechter kan tevens handelingen als bedoeld in [artikel 441, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=441&z=2025-07-05&g=2025-07-05) aanwijzen en de aanwijzing van zulke handelingen intrekken.
 
 ##### Artikel 434
 
-1. In beschikkingen als bedoeld in de [artikelen 432](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01) en [433, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=433&z=2025-07-01&g=2025-07-01) bepaalt de rechter ambtshalve welke goederen onder bewind worden gesteld, onderscheidenlijk uit het bewind worden ontslagen.
+1. In beschikkingen als bedoeld in de [artikelen 432](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05) en [433, tweede lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=433&z=2025-07-05&g=2025-07-05) bepaalt de rechter ambtshalve welke goederen onder bewind worden gesteld, onderscheidenlijk uit het bewind worden ontslagen.
 
-2. Onderbewindstelling van een goed en het ontslag van een goed uit het bewind treden in werking daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip van ingang vermeldt. In het geval, bedoeld in [artikel 431, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-01&g=2025-07-01), treedt de onderbewindstelling in werking op het tijdstip waarop de rechthebbende meerderjarig wordt.
+2. Onderbewindstelling van een goed en het ontslag van een goed uit het bewind treden in werking daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip van ingang vermeldt. In het geval, bedoeld in [artikel 431, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-05&g=2025-07-05), treedt de onderbewindstelling in werking op het tijdstip waarop de rechthebbende meerderjarig wordt.
 
 ##### Artikel 435
 
@@ -4379,7 +4379,7 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 - b. zij ten behoeve van wie een mentorschap is ingesteld;
 
-- c. zij van wie één of meer goederen onder een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) staan;
+- c. zij van wie één of meer goederen onder een bewind als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) staan;
 
 - d. zij die in staat van faillissement verkeren;
 
@@ -4399,7 +4399,7 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 - 3°. de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
-7. Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen bewindvoerder, curator of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een bewindvoerder uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in [artikel 436, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-01&g=2025-07-01), en [artikel 15i van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i).
+7. Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen bewindvoerder, curator of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een bewindvoerder uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in [artikel 436, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-05&g=2025-07-05), en [artikel 15i van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i).
 
 8. De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over:
 
@@ -4407,7 +4407,7 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 - b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en
 
-- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-01&g=2025-07-01) niet van toepassing.
+- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-05&g=2025-07-05) niet van toepassing.
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.
 
@@ -4429,9 +4429,9 @@ Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemi
 
 1. De bewindvoerder is verplicht zo spoedig mogelijk een beschrijving van de aan het bewind onderworpen goederen op te maken en een afschrift daarvan in te leveren ter griffie van de ingevolge [artikel 266 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=266) bevoegde rechtbank.
 
-2. De [artikelen 339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-01&g=2025-07-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=363&z=2025-07-01&g=2025-07-01) en [364](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=364&z=2025-07-01&g=2025-07-01) van dit boek zijn van overeenkomstige toepassing.
+2. De [artikelen 339](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=339&z=2025-07-05&g=2025-07-05), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=363&z=2025-07-05&g=2025-07-05) en [364](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&artikel=364&z=2025-07-05&g=2025-07-05) van dit boek zijn van overeenkomstige toepassing.
 
-3. Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), of van de bewindvoerder, hetzij ambtshalve bepalen dat een beschikking tot onderbewindstelling wegens een lichamelijke of geestelijke toestand, voor zover het bewind alle goederen betreft, die de rechthebbende toebehoren of zullen toebehoren, en een beschikking houdende benoeming, schorsing of ontslag van de bewindvoerder vanwege de griffier in het register, bedoeld in [artikel 391](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=391&z=2025-07-01&g=2025-07-01), worden ingeschreven.
+3. Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), of van de bewindvoerder, hetzij ambtshalve bepalen dat een beschikking tot onderbewindstelling wegens een lichamelijke of geestelijke toestand, voor zover het bewind alle goederen betreft, die de rechthebbende toebehoren of zullen toebehoren, en een beschikking houdende benoeming, schorsing of ontslag van de bewindvoerder vanwege de griffier in het register, bedoeld in [artikel 391](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=391&z=2025-07-05&g=2025-07-05), worden ingeschreven.
 
 4. Tenzij de kantonrechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt zoveel mogelijk van deze rekening gebruik te maken.
 
@@ -4445,7 +4445,7 @@ Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemi
 
 2. Zijn er twee bewindvoerders, dan kan, tenzij de rechter anders bepaalt, ieder van hen alle werkzaamheden die tot het bewind behoren, alleen verrichten.
 
-3. Bij verschil van mening tussen de bewindvoerders beslist op verzoek van één van hen of van een instelling als bedoeld in [artikel 432, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), de kantonrechter. Deze kan ook een verdeling van het loon vaststellen.
+3. Bij verschil van mening tussen de bewindvoerders beslist op verzoek van één van hen of van een instelling als bedoeld in [artikel 432, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), de kantonrechter. Deze kan ook een verdeling van het loon vaststellen.
 
 ##### Artikel 438
 
@@ -4461,9 +4461,9 @@ Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemi
 
 ##### Artikel 440
 
-1. Schulden die voortspruiten uit een handeling, tijdens het bewind met of jegens de rechthebbende, anders dan in overeenstemming met [artikel 438, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=438&z=2025-07-01&g=2025-07-01), verricht door een schuldeiser die het bewind kende of had behoren te kennen, kunnen niet op de onder het bewind staande goederen worden verhaald. Het einde van het bewind brengt hierin geen wijziging.
+1. Schulden die voortspruiten uit een handeling, tijdens het bewind met of jegens de rechthebbende, anders dan in overeenstemming met [artikel 438, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=438&z=2025-07-05&g=2025-07-05), verricht door een schuldeiser die het bewind kende of had behoren te kennen, kunnen niet op de onder het bewind staande goederen worden verhaald. Het einde van het bewind brengt hierin geen wijziging.
 
-2. Indien het bewind alle goederen betreft die daarvoor krachtens [artikel 431, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-01&g=2025-07-01), in aanmerking komen, is het eerste lid van overeenkomstige toepassing ten aanzien van ten tijde van de handeling niet onder het bewind staande goederen waarop verhaal mogelijk zou zijn.
+2. Indien het bewind alle goederen betreft die daarvoor krachtens [artikel 431, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=431&z=2025-07-05&g=2025-07-05), in aanmerking komen, is het eerste lid van overeenkomstige toepassing ten aanzien van ten tijde van de handeling niet onder het bewind staande goederen waarop verhaal mogelijk zou zijn.
 
 ##### Artikel 441
 
@@ -4511,9 +4511,9 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 3. De kantonrechter kan de bewindvoerder - hetzij op diens verzoek, hetzij ambtshalve - vrijstellen van de verplichting om de periodieke rekening en verantwoording te zijnen overstaan af te leggen; hij kan ook bepalen dat deze wijze van aflegging der rekening en verantwoording slechts om een door hem te bepalen aantal jaren zal geschieden.
 
-4. De bewindvoerder, bedoeld in [artikel 435, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=435&z=2025-07-01&g=2025-07-01), legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 435, achtste lid.
+4. De bewindvoerder, bedoeld in [artikel 435, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=435&z=2025-07-05&g=2025-07-05), legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 435, achtste lid.
 
-5. Voor het overige vindt het aangaande de voogdijrekening in de [paragrafen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&z=2025-07-01&g=2025-07-01) en [11 van afdeling 6 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&z=2025-07-01&g=2025-07-01) bepaalde overeenkomstige toepassing.
+5. Voor het overige vindt het aangaande de voogdijrekening in de [paragrafen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=10&z=2025-07-05&g=2025-07-05) en [11 van afdeling 6 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=11&z=2025-07-05&g=2025-07-05) bepaalde overeenkomstige toepassing.
 
 ##### Artikel 446
 
@@ -4543,11 +4543,11 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 - e. door ontslag dat hem door de kantonrechter met ingang van een door deze bepaalde dag wordt verleend.
 
-2. Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, zulks op verzoek van de medebewindvoerder of degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het bewind treffen en de bewindvoerder schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de bewindvoerder tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de bewindvoerder binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
+2. Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, zulks op verzoek van de medebewindvoerder of degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het bewind treffen en de bewindvoerder schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de bewindvoerder tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de bewindvoerder binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
 
 3. Een gewezen bewindvoerder blijft verplicht al datgene te doen, wat niet zonder nadeel voor de rechthebbende kan worden uitgesteld, totdat degene die na hem tot het beheer van de goederen bevoegd is, dit heeft aanvaard. In de gevallen genoemd in het eerste lid onder **c**, rust deze verplichting op zijn erfgenamen, onderscheidenlijk de bewindvoerder in de schuldsaneringsregeling natuurlijke personen of de curator, indien zij van het bewind kennisdragen; in het geval genoemd in het eerste lid onder **d**, geldt dit voor de bewindvoerder, belast met het daar bedoelde bewind.
 
-4. [Artikel 384 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+4. [Artikel 384 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing.
 
 5. In geval van ontslag wegens gewichtige redenen of omdat de bewindvoerder niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, kan de kantonrechter bepalen dat geen verdere rekening en verantwoording behoeft te worden afgelegd. Tevens kan de kantonrechter de boeken, bescheiden en andere gegevensdragers van de bewindvoerder, en alle aan de rechthebbende toekomende goederen in beslag nemen. Daartoe kan hij elke plaats betreden.
 
@@ -4555,9 +4555,9 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 1. Het bewind eindigt door het verstrijken van de tijdsduur waarvoor het is ingesteld en door de dood of ondercuratelestelling van de rechthebbende.
 
-2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het bewind niet zinvol is gebleken, het bewind opheffen, zulks op verzoek van de bewindvoerder of van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het bewind niet zinvol is gebleken, het bewind opheffen, zulks op verzoek van de bewindvoerder of van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
 
-3. Degene die gerechtigd is de instelling van het bewind te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-01&g=2025-07-01), alsmede de bewindvoerder, kan verzoeken om verlenging van het bewind dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
+3. Degene die gerechtigd is de instelling van het bewind te verzoeken als bedoeld in [artikel 432, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=432&z=2025-07-05&g=2025-07-05), alsmede de bewindvoerder, kan verzoeken om verlenging van het bewind dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
 
 ## Titel 20. Mentorschap ten behoeve van meerderjarigen
 
@@ -4573,15 +4573,15 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 ##### Artikel 451
 
-1. Het mentorschap kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-01&g=2025-07-01) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-01&g=2025-07-01) het gezag over de betrokken persoon uitoefent, zijn voogd, zijn curator of zijn bewindvoerder als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) van dit boek. In het in [artikel 450, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-01&g=2025-07-01), van dit boek bedoelde geval kan het mentorschap uitsluitend worden verzocht door de betrokkene.
+1. Het mentorschap kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot en met de vierde graad, degene die ingevolge [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=1&artikel=253sa&z=2025-07-05&g=2025-07-05) of [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=3A&paragraaf=2&artikel=253t&z=2025-07-05&g=2025-07-05) het gezag over de betrokken persoon uitoefent, zijn voogd, zijn curator of zijn bewindvoerder als bedoeld in [titel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) van dit boek. In het in [artikel 450, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-05&g=2025-07-05), van dit boek bedoelde geval kan het mentorschap uitsluitend worden verzocht door de betrokkene.
 
-2. Het mentorschap kan, behoudens in het in [artikel 450, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-01&g=2025-07-01), bedoelde geval, voorts worden verzocht door het openbaar ministerie en door de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen - bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen - niet tot indiening van een verzoek zijn overgegaan.
+2. Het mentorschap kan, behoudens in het in [artikel 450, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-05&g=2025-07-05), bedoelde geval, voorts worden verzocht door het openbaar ministerie en door de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen - bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen - niet tot indiening van een verzoek zijn overgegaan.
 
 3. De rechter bij wie een verzoek tot ondercuratelestelling of tot opheffing van de curatele aanhangig is, kan bij afwijzing onderscheidenlijk bij inwilliging daarvan ambtshalve overgaan tot instelling van het mentorschap.
 
 4. Een verzoek tot omzetting van curatele in mentorschap ten behoeve van een persoon die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van de curatele, ook ambtshalve overgaan tot instelling van het mentorschap.
 
-5. Het mentorschap treedt in werking daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip van ingang vermeldt. In het geval, bedoeld in [artikel 450, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-01&g=2025-07-01), van dit boek treedt het mentorschap in werking op het tijdstip waarop de betrokken persoon meerderjarig wordt.
+5. Het mentorschap treedt in werking daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip van ingang vermeldt. In het geval, bedoeld in [artikel 450, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=450&z=2025-07-05&g=2025-07-05), van dit boek treedt het mentorschap in werking op het tijdstip waarop de betrokken persoon meerderjarig wordt.
 
 ##### Artikel 452
 
@@ -4621,11 +4621,11 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 - b. een verslag van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dan wel van een door de kantonrechter benoemde deskundige, van diens bevindingen over de wijze waarop aan de eisen wordt voldaan, en
 
-- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-01&g=2025-07-01) niet van toepassing.
+- c. een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig [titel 9 van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). [Artikel 396, zevende lid, van boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) is ten aanzien van [artikel 393 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=17&afdeling=1&artikel=393&z=2025-07-05&g=2025-07-05) niet van toepassing.
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, de benoeming van de deskundige, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaring en het verslag, bedoeld in het zevende lid, onderdelen a en b, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van de verklaring en het verslag vrijgesteld. Toont de persoon aan dat hij in de 24 maanden voorafgaande aan zijn benoeming de verklaring, bedoeld in het zevende lid, onderdeel c, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van deze verklaring vrijgesteld.
 
-9. De rechter kan twee mentoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee mentoren, dan kan ieder van hen de taken die aan een mentor toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de mentoren vaststellen. Bij verschil van mening tussen de mentoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in [artikel 451, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-01&g=2025-07-01), de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
+9. De rechter kan twee mentoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee mentoren, dan kan ieder van hen de taken die aan een mentor toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de mentoren vaststellen. Bij verschil van mening tussen de mentoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in [artikel 451, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-05&g=2025-07-05), de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
 
 10. De taak van de mentor vangt aan daags nadat de beschikking, houdende de benoeming, is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
 
@@ -4643,9 +4643,9 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent d
 
 ##### Artikel 453a
 
-1. Indien de rechter dit noodzakelijk acht, beslist hij tevens dat [artikel 246, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing is.
+1. Indien de rechter dit noodzakelijk acht, beslist hij tevens dat [artikel 246, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=1&artikel=246&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing is.
 
-2. Tijdens het mentorschap kan de rechter een beslissing nemen als in het eerste lid bedoeld, hetzij op verzoek van een persoon als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-01&g=2025-07-01), van de mentor of van het openbaar ministerie, hetzij ambtshalve.
+2. Tijdens het mentorschap kan de rechter een beslissing nemen als in het eerste lid bedoeld, hetzij op verzoek van een persoon als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-05&g=2025-07-05), van de mentor of van het openbaar ministerie, hetzij ambtshalve.
 
 ##### Artikel 454
 
@@ -4663,7 +4663,7 @@ De mentor kan alvorens in rechte op te treden zich te zijner verantwoording doen
 
 ##### Artikel 457
 
-1. Een rechtshandeling verricht in strijd met [artikel 453 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01) is overeenkomstig het tweede en derde lid vernietigbaar.
+1. Een rechtshandeling verricht in strijd met [artikel 453 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-05&g=2025-07-05) is overeenkomstig het tweede en derde lid vernietigbaar.
 
 2. Indien de rechtshandeling is verricht door of gericht tot de betrokkene, kan een beroep op de vernietigbaarheid slechts worden gedaan jegens een persoon die het mentorschap kende of had behoren te kennen; jegens een zodanige persoon wordt de betrokkene vermoed onbevoegd te zijn geweest.
 
@@ -4671,13 +4671,13 @@ De mentor kan alvorens in rechte op te treden zich te zijner verantwoording doen
 
 ##### Artikel 458
 
-Voor zover een of meer van de goederen van de betrokkene onder een bewind als bedoeld in [titel 19 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-01&g=2025-07-01) staan, is de bewindvoerder, indien hij niet tevens mentor is, niet tot optreden bevoegd ten aanzien van aangelegenheden als in [artikel 453, eerste lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01) bedoeld.
+Voor zover een of meer van de goederen van de betrokkene onder een bewind als bedoeld in [titel 19 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&z=2025-07-05&g=2025-07-05) staan, is de bewindvoerder, indien hij niet tevens mentor is, niet tot optreden bevoegd ten aanzien van aangelegenheden als in [artikel 453, eerste lid, van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-05&g=2025-07-05) bedoeld.
 
 ##### Artikel 459
 
 1. De mentor doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De kantonrechter kan te allen tijde verschijning van de mentor in persoon gelasten. Deze is verplicht alle door de kantonrechter gewenste inlichtingen te verstrekken.
 
-2. De mentor, bedoeld in [artikel 452, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=452&z=2025-07-01&g=2025-07-01), legt jaarlijks de verklaring en het verslag over, bedoeld in artikel 452, achtste lid, onderdelen a en b. De mentor legt tweejaarlijks de verklaring over, bedoeld in artikel 452, achtste lid, onderdeel c. De kantonrechter kan ten aanzien van de verschillende onderdelen van het verslag een ander tijdstip van overlegging bepalen.
+2. De mentor, bedoeld in [artikel 452, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=452&z=2025-07-05&g=2025-07-05), legt jaarlijks de verklaring en het verslag over, bedoeld in artikel 452, achtste lid, onderdelen a en b. De mentor legt tweejaarlijks de verklaring over, bedoeld in artikel 452, achtste lid, onderdeel c. De kantonrechter kan ten aanzien van de verschillende onderdelen van het verslag een ander tijdstip van overlegging bepalen.
 
 3. De mentor doet telkens na verloop van vijf jaren, of zo veel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van het mentorschap. Hij laat zich daarbij met name uit over de vraag of het mentorschap dient voort te duren dan wel of een minder ver, of een verder strekkende voorziening aangewezen is. Feiten die voor het mentorschap en het voortduren daarvan van betekenis zijn, deelt hij terstond aan de kantonrechter mede.
 
@@ -4703,19 +4703,19 @@ Voor zover een of meer van de goederen van de betrokkene onder een bewind als be
 
 - e. door ontslag dat hem door de kantonrechter met ingang van een door deze bepaalde dag wordt verleend.
 
-2. Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om mentor te kunnen worden, zulks op verzoek van de medementor of degene die gerechtigd is mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-01&g=2025-07-01), dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het mentorschap treffen en de mentor schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de mentor tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de mentor binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
+2. Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om mentor te kunnen worden, zulks op verzoek van de medementor of degene die gerechtigd is mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-05&g=2025-07-05), dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het mentorschap treffen en de mentor schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de mentor tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de mentor binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
 
-3. Een gewezen mentor blijft verplicht al datgene te doen, wat niet zonder nadeel voor de betrokkene kan worden uitgesteld, totdat wederom een persoon bevoegd is ten aanzien van de aangelegenheden bedoeld in [artikel 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01), van dit boek. In de gevallen genoemd in het eerste lid, onder **d**, rust deze verplichting op diens curator of mentor, indien deze van het mentorschap kennis draagt.
+3. Een gewezen mentor blijft verplicht al datgene te doen, wat niet zonder nadeel voor de betrokkene kan worden uitgesteld, totdat wederom een persoon bevoegd is ten aanzien van de aangelegenheden bedoeld in [artikel 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=453&z=2025-07-05&g=2025-07-05), van dit boek. In de gevallen genoemd in het eerste lid, onder **d**, rust deze verplichting op diens curator of mentor, indien deze van het mentorschap kennis draagt.
 
-4. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) van dit boek is van overeenkomstige toepassing.
+4. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) van dit boek is van overeenkomstige toepassing.
 
 ##### Artikel 462
 
 1. Het mentorschap eindigt door het verstrijken van de tijdsduur waarvoor het is ingesteld en door de dood of ondercuratelestelling van de betrokkene.
 
-2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het mentorschap niet zinvol is gebleken, het mentorschap opheffen, zulks op verzoek van de mentor of van degene die gerechtigd is mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-01&g=2025-07-01), dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+2. De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het mentorschap niet zinvol is gebleken, het mentorschap opheffen, zulks op verzoek van de mentor of van degene die gerechtigd is mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-05&g=2025-07-05), dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
 
-3. Degene die gerechtigd is de instelling van het mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-01&g=2025-07-01), alsmede de mentor, kan verzoeken om verlenging van het mentorschap dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
+3. Degene die gerechtigd is de instelling van het mentorschap te verzoeken als bedoeld in [artikel 451, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=20&artikel=451&z=2025-07-05&g=2025-07-05), alsmede de mentor, kan verzoeken om verlenging van het mentorschap dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=16&artikel=384&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
 
 #### Paragraaf 1. Algemene regels voor verrekenbedingen
 
@@ -4839,11 +4839,11 @@ Vervallen
 
 ##### Artikel 283
 
-De verzoeken die de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), dan wel de rechtspersoon, bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-01&g=2025-07-01), in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
+De verzoeken die de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), dan wel de rechtspersoon, bedoeld in [artikel 302, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=6&paragraaf=4&artikel=302&z=2025-07-05&g=2025-07-05), in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
 
 ##### Artikel 247a
 
-Indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-01&g=2025-07-01), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-01&g=2025-07-01), is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in [artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=815).
+Indien de ouders het gezag gezamenlijk uitoefenen op grond van [artikel 251b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=251b&z=2025-07-05&g=2025-07-05), of een aantekening als bedoeld in [artikel 252, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=252&z=2025-07-05&g=2025-07-05), is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in [artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=815).
 
 ### Afdeling 1. Algemeen
 
@@ -4983,7 +4983,7 @@ Indien een echtgenoot door een begunstiging bij een door zijn overlijden tot uit
 
 ##### Artikel 96b
 
-Echtgenoten kunnen bij overeenkomst het beloop van vergoedingen ingevolge de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=95&z=2025-07-01&g=2025-07-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96&z=2025-07-01&g=2025-07-01) en [96a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96a&z=2025-07-01&g=2025-07-01) anders bepalen. [Artikel 87, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. Kan de vergoeding niet nauwkeurig worden vastgesteld, dan wordt zij geschat.
+Echtgenoten kunnen bij overeenkomst het beloop van vergoedingen ingevolge de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=95&z=2025-07-05&g=2025-07-05), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96&z=2025-07-05&g=2025-07-05) en [96a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=7&afdeling=1&artikel=96a&z=2025-07-05&g=2025-07-05) anders bepalen. [Artikel 87, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=6&artikel=87&z=2025-07-05&g=2025-07-05), is van overeenkomstige toepassing. Kan de vergoeding niet nauwkeurig worden vastgesteld, dan wordt zij geschat.
 
 ### Afdeling 2. Het bestuur van de gemeenschap
 
@@ -5203,25 +5203,25 @@ De bewindvoerder doet telkens na verloop van vijf jaren, of zo veel eerder als d
 
 ##### Artikel 202a
 
-1. Het in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), bedoelde moederschap kan, op de grond dat de moeder niet de biologische moeder van het kind is, worden ontkend:
+1. Het in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), bedoelde moederschap kan, op de grond dat de moeder niet de biologische moeder van het kind is, worden ontkend:
 
-- a. door de moeder, bedoeld in [artikel 198, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01);
+- a. door de moeder, bedoeld in [artikel 198, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05);
 
-- b. door de moeder, bedoeld in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01);
+- b. door de moeder, bedoeld in [artikel 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05);
 
 - c. door het kind zelf.
 
-2. De moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), kan het in artikel 198, eerste lid, onder b, bedoelde moederschap niet ontkennen, indien de moeder, bedoeld in het eerste lid, onder b, vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap of heeft ingestemd met de kunstmatige donorbevruchting, bedoeld in artikel 198, eerste lid, onder b.
+2. De moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), kan het in artikel 198, eerste lid, onder b, bedoelde moederschap niet ontkennen, indien de moeder, bedoeld in het eerste lid, onder b, vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap of heeft ingestemd met de kunstmatige donorbevruchting, bedoeld in artikel 198, eerste lid, onder b.
 
-3. Het verzoek tot gegrondverklaring van de ontkenning wordt door de moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), bij de rechtbank ingediend binnen een jaar na de geboorte van het kind.
+3. Het verzoek tot gegrondverklaring van de ontkenning wordt door de moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), bij de rechtbank ingediend binnen een jaar na de geboorte van het kind.
 
 4. Het verzoek tot gegrondverklaring van de ontkenning wordt door het kind bij de rechtbank ingediend uiterlijk binnen drie jaren nadat het kind meerderjarig is geworden.
 
 ##### Artikel 202b
 
-1. Overlijdt de moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-01&g=2025-07-01), voor de afloop van de in [artikel 202a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2a&artikel=202a&z=2025-07-01&g=2025-07-01), gestelde termijn, dan kan een afstammeling van deze moeder in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze moeder, de rechtbank verzoeken de ontkenning van het moederschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van verzoeker is gekomen.
+1. Overlijdt de moeder, bedoeld in [artikel 198, eerste lid, onder a of onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=1&artikel=198&z=2025-07-05&g=2025-07-05), voor de afloop van de in [artikel 202a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2a&artikel=202a&z=2025-07-05&g=2025-07-05), gestelde termijn, dan kan een afstammeling van deze moeder in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze moeder, de rechtbank verzoeken de ontkenning van het moederschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van verzoeker is gekomen.
 
-2. Op de ontkenning van het moederschap zijn de [artikelen 201, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-01&g=2025-07-01), en [202](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=202&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
+2. Op de ontkenning van het moederschap zijn de [artikelen 201, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=201&z=2025-07-05&g=2025-07-05), en [202](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=2&artikel=202&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 ### Afdeling 2a. **Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane moederschap**
 
@@ -5235,7 +5235,7 @@ De bewindvoerder doet telkens na verloop van vijf jaren, of zo veel eerder als d
 
 - c. door de andere moeder, indien zij door bedreiging, dwaling, bedrog of, tijdens haar minderjarigheid, door misbruik van omstandigheden bewogen is toestemming tot de erkenning te geven.
 
-2. Op de vernietiging van de erkenning is [artikel 205, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=205&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+2. Op de vernietiging van de erkenning is [artikel 205, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=205&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing.
 
 ### Afdeling 6. De bijzondere curator
 
@@ -5303,9 +5303,9 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 1. De stichting stelt ter uitvoering van haar taak als eerste de ouder of ouders met gezag in de gelegenheid om samen met bloedverwanten, aanverwanten of anderen die tot de sociale omgeving behoren binnen zes weken een plan van aanpak op te stellen of een bestaand plan aan te passen. Slechts indien de concrete bedreigingen in de ontwikkeling van het kind hiertoe aanleiding geven of de belangen van het kind anderszins geschaad worden, kan de stichting hiervan afzien.
 
-2. Indien het plan van aanpak geschikt is om binnen de duur van de ondertoezichtstelling de concrete bedreigingen, bedoeld in [artikel 255, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01), weg te nemen, geldt het als het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=13). Indien het plan van aanpak naar het oordeel van de stichting niet geschikt is om de concrete bedreigingen weg te nemen, deelt de stichting dit binnen vijf werkdagen na de aanbieding van het plan van aanpak gemotiveerd aan de ouder of ouders met gezag mede, en stelt zij hen in de gelegenheid om het plan van aanpak binnen twee weken aan te passen. Indien de stichting binnen deze termijn geen aangepast plan van aanpak ontvangt of een plan van aanpak ontvangt dat naar haar oordeel evenmin geschikt is om de concrete bedreigingen weg te nemen, stelt zij alsnog zelf een plan als bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg op.
+2. Indien het plan van aanpak geschikt is om binnen de duur van de ondertoezichtstelling de concrete bedreigingen, bedoeld in [artikel 255, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05), weg te nemen, geldt het als het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=13). Indien het plan van aanpak naar het oordeel van de stichting niet geschikt is om de concrete bedreigingen weg te nemen, deelt de stichting dit binnen vijf werkdagen na de aanbieding van het plan van aanpak gemotiveerd aan de ouder of ouders met gezag mede, en stelt zij hen in de gelegenheid om het plan van aanpak binnen twee weken aan te passen. Indien de stichting binnen deze termijn geen aangepast plan van aanpak ontvangt of een plan van aanpak ontvangt dat naar haar oordeel evenmin geschikt is om de concrete bedreigingen weg te nemen, stelt zij alsnog zelf een plan als bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg op.
 
-3. Op verzoek van een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder kan de kinderrechter het plan van aanpak laten gelden als het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=13). [Artikel 264, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing.
+3. Op verzoek van een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder kan de kinderrechter het plan van aanpak laten gelden als het plan, bedoeld in [artikel 13, derde lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=13). [Artikel 264, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing.
 
 ##### Artikel 262b
 
@@ -5321,7 +5321,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 2. De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of op verzoek van het openbaar ministerie.
 
-3. Voor opneming en verblijf als bedoeld in [artikel 6.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), of [6.1.3, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van [artikel 265a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265a&z=2025-07-01&g=2025-07-01) als een machtiging als bedoeld in het eerste lid.
+3. Voor opneming en verblijf als bedoeld in [artikel 6.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), of [6.1.3, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van [artikel 265a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265a&z=2025-07-05&g=2025-07-05) als een machtiging als bedoeld in het eerste lid.
 
 ##### Artikel 265c
 
@@ -5333,7 +5333,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 ##### Artikel 265d
 
-1. Een uithuisplaatsing kan door de gecertificeerde instelling worden beëindigd indien deze niet langer noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot het verrichten van het onderzoek, bedoeld in [artikel 265b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265b&z=2025-07-01&g=2025-07-01), en het belang van de minderjarige zich tegen beëindiging niet verzet.
+1. Een uithuisplaatsing kan door de gecertificeerde instelling worden beëindigd indien deze niet langer noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot het verrichten van het onderzoek, bedoeld in [artikel 265b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265b&z=2025-07-05&g=2025-07-05), en het belang van de minderjarige zich tegen beëindiging niet verzet.
 
 2. De met het gezag belaste ouder, de minderjarige van twaalf jaar of ouder of een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt kunnen wegens gewijzigde omstandigheden de gecertificeerde instelling verzoeken:
 
@@ -5341,11 +5341,11 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 - b. de duur ervan te bekorten;
 
-- c. af te zien van een krachtens de machtiging toegestane wijziging van de verblijfplaats van de minderjarige, tenzij de toestemming reeds met toepassing van [artikel 265i](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265i&z=2025-07-01&g=2025-07-01) is verleend.
+- c. af te zien van een krachtens de machtiging toegestane wijziging van de verblijfplaats van de minderjarige, tenzij de toestemming reeds met toepassing van [artikel 265i](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265i&z=2025-07-05&g=2025-07-05) is verleend.
 
 3. De gecertificeerde instelling geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.
 
-4. Op verzoek van een in het tweede lid genoemde persoon kan de kinderrechter de machtiging geheel of gedeeltelijk intrekken of de duur ervan bekorten. [Artikel 264, eerste lid, tweede volzin, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-01&g=2025-07-01), alsmede [artikel 265, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265&z=2025-07-01&g=2025-07-01), zijn van toepassing.
+4. Op verzoek van een in het tweede lid genoemde persoon kan de kinderrechter de machtiging geheel of gedeeltelijk intrekken of de duur ervan bekorten. [Artikel 264, eerste lid, tweede volzin, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-05&g=2025-07-05), alsmede [artikel 265, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265&z=2025-07-05&g=2025-07-05), zijn van toepassing.
 
 ##### Artikel 265e
 
@@ -5369,7 +5369,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 1. Voor zover noodzakelijk in verband met de uithuisplaatsing van de minderjarige, kan de gecertificeerde instelling voor de duur daarvan de contacten tussen een met het gezag belaste ouder en de minderjarige beperken.
 
-2. De beslissing van de gecertificeerde instelling geldt als een schriftelijke aanwijzing. [Artikel 264](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-01&g=2025-07-01) en [artikel 265](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van de minderjarige wenselijk voorkomt.
+2. De beslissing van de gecertificeerde instelling geldt als een schriftelijke aanwijzing. [Artikel 264](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=264&z=2025-07-05&g=2025-07-05) en [artikel 265](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van de minderjarige wenselijk voorkomt.
 
 ##### Artikel 265g
 
@@ -5377,7 +5377,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 2. Op het verzoek van een met het gezag belaste ouder, een omgangsgerechtigde, de minderjarige van twaalf jaar of ouder en de gecertificeerde instelling kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
-3. Zodra de ondertoezichtstelling is geëindigd, geldt de op grond van het eerste lid vastgestelde regeling als een regeling als bedoeld in [artikel 253a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-01&g=2025-07-01), dan wel [artikel 377a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-01&g=2025-07-01).
+3. Zodra de ondertoezichtstelling is geëindigd, geldt de op grond van het eerste lid vastgestelde regeling als een regeling als bedoeld in [artikel 253a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=2&paragraaf=1&artikel=253a&z=2025-07-05&g=2025-07-05), dan wel [artikel 377a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=15&artikel=377a&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 265h
 
@@ -5395,7 +5395,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 ##### Artikel 265j
 
-1. Indien de gecertificeerde instelling oordeelt dat niet-verlenging van de ondertoezichtstelling, bedoeld in [artikel 260, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=260&z=2025-07-01&g=2025-07-01), of niet-verlenging van de machtiging tot uithuisplaatsing, bedoeld in [artikel 265c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265c&z=2025-07-01&g=2025-07-01), aangewezen is, doet zij hiervan tijdig doch uiterlijk twee maanden voor het verstrijken van de duur van de ondertoezichtstelling of machtiging tot uithuisplaatsing en onder overlegging van een verslag van het verloop van de ondertoezichtstelling of de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.
+1. Indien de gecertificeerde instelling oordeelt dat niet-verlenging van de ondertoezichtstelling, bedoeld in [artikel 260, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=260&z=2025-07-05&g=2025-07-05), of niet-verlenging van de machtiging tot uithuisplaatsing, bedoeld in [artikel 265c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=265c&z=2025-07-05&g=2025-07-05), aangewezen is, doet zij hiervan tijdig doch uiterlijk twee maanden voor het verstrijken van de duur van de ondertoezichtstelling of machtiging tot uithuisplaatsing en onder overlegging van een verslag van het verloop van de ondertoezichtstelling of de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.
 
 2. De gecertificeerde instelling kan een uithuisplaatsing gedurende de termijn waarvoor zij is toegestaan beëindigen. De gecertificeerde instelling doet van het voornemen daartoe tijdig doch uiterlijk een maand voor het voorgenomen tijdstip van beëindiging en onder overlegging van een verslag van het verloop van de uithuisplaatsing, mededeling aan de raad voor de kinderbescherming.
 
@@ -5403,7 +5403,7 @@ Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt 
 
 ##### Artikel 265k
 
-1. Verzoeken op grond van deze afdeling worden schriftelijk gedaan. Voor zover zij aan de kinderrechter zijn gericht, kunnen zij worden ingediend zonder advocaat met uitzondering van het verzoek bedoeld in [artikel 262b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=262b&z=2025-07-01&g=2025-07-01).
+1. Verzoeken op grond van deze afdeling worden schriftelijk gedaan. Voor zover zij aan de kinderrechter zijn gericht, kunnen zij worden ingediend zonder advocaat met uitzondering van het verzoek bedoeld in [artikel 262b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=262b&z=2025-07-05&g=2025-07-05).
 
 2. De gecertificeerde instelling die een verzoek indient of ter terechtzitting wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in [artikel 4.1.3, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.1.3), en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.
 
@@ -5799,7 +5799,7 @@ Indien de ene ouder wordt verdacht van het doden van de andere ouder, of indien 
 
 ##### Artikel 267a
 
-De rechtbank die een verzoek tot beëindiging van het gezag afwijst, kan een minderjarige onder toezicht te stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-01&g=2025-07-01) mits aan de grond hiervoor is voldaan.
+De rechtbank die een verzoek tot beëindiging van het gezag afwijst, kan een minderjarige onder toezicht te stellen als bedoeld in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=14&afdeling=4&artikel=255&z=2025-07-05&g=2025-07-05) mits aan de grond hiervoor is voldaan.
 
 ### Afdeling 6. Voogdij
 
@@ -5833,7 +5833,7 @@ De rechtbank die een verzoek tot beëindiging van het gezag afwijst, kan een min
 
 1. Dit artikel is van toepassing indien het college van burgemeester en wethouders van de gemeente waar de rechthebbende woonplaats heeft, schriftelijk aan de griffier van de ingevolge [artikel 266 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=266) bevoegde rechtbank kenbaar heeft gemaakt dat het advies wenst uit te brengen over de vraag of een voldoende behartiging van de belangen van rechthebbenden kan worden bewerkstelligd met een meer passende en minder verstrekkende voorziening dan met de voortzetting van bewind, totdat het college deze verklaring schriftelijk intrekt.
 
-2. De rechter verplicht de bewindvoerder binnen drie maanden na de instelling van een bewind wegens verkwisting of het hebben van problematische schulden afschrift van de boedelbeschrijving, bedoeld in [artikel 436, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-01&g=2025-07-01), en een plan van aanpak te zenden aan het college.
+2. De rechter verplicht de bewindvoerder binnen drie maanden na de instelling van een bewind wegens verkwisting of het hebben van problematische schulden afschrift van de boedelbeschrijving, bedoeld in [artikel 436, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=19&artikel=436&z=2025-07-05&g=2025-07-05), en een plan van aanpak te zenden aan het college.
 
 3. De rechter kan de bewindvoerder verplichten binnen drie maanden na de instelling van een bewind wegens een lichamelijke of geestelijke toestand afschrift van de bescheiden, bedoeld in het tweede lid, te zenden aan het college indien tevens sprake is van problematische schulden.
 
@@ -5859,13 +5859,13 @@ De rechtbank die een verzoek tot beëindiging van het gezag afwijst, kan een min
 
 - d. de erkenner eerder het gezag over het kind heeft uitgeoefend.
 
-2. De moeder oefent het gezag over haar kind alleen uit, indien uit de akte, bedoeld in [artikel 203, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=203&z=2025-07-01&g=2025-07-01), blijkt dat:
+2. De moeder oefent het gezag over haar kind alleen uit, indien uit de akte, bedoeld in [artikel 203, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=203&z=2025-07-05&g=2025-07-05), blijkt dat:
 
 - a. de moeder en de erkenner hebben verklaard dat het gezag alleen door de moeder wordt uitgeoefend; of
 
-- b. de rechtbank vervangende toestemming voor de erkenning heeft verleend als bedoeld in [artikel 204, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=204&z=2025-07-01&g=2025-07-01).
+- b. de rechtbank vervangende toestemming voor de erkenning heeft verleend als bedoeld in [artikel 204, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=11&afdeling=3&artikel=204&z=2025-07-05&g=2025-07-05).
 
-De ambtenaar van de burgerlijke stand doet onverwijld na de erkenning of, in geval van een erkenning voor de geboorte van het kind, na de aangifte van de geboorte, mededeling aan de griffier van de verklaring, bedoeld onder a, of de erkenning met vervangende toestemming, bedoeld onder b, ter aantekening in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-01&g=2025-07-01).
+De ambtenaar van de burgerlijke stand doet onverwijld na de erkenning of, in geval van een erkenning voor de geboorte van het kind, na de aangifte van de geboorte, mededeling aan de griffier van de verklaring, bedoeld onder a, of de erkenning met vervangende toestemming, bedoeld onder b, ter aantekening in het register, bedoeld in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-05&g=2025-07-05).
 
 ### Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door de ouders en de gezagsuitoefening door één van hen
 
