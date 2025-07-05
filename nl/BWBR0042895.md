@@ -4,7 +4,7 @@ identifier: "BWBR0042895"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2019-12-18"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042895"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Wet geneesmiddelenprijzen.
 
 ##### Artikel II
 
-Maximumprijzen die zijn vastgesteld op grond van [artikel 2 van de Wet geneesmiddelenprijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2) zoals dat luidde voor de inwerkingtreding van [I](https://wetten.overheid.nl/jci1.3:c:BWBR0042895&artikel=I&z=2019-12-18&g=2019-12-18), blijven van toepassing.
+Maximumprijzen die zijn vastgesteld op grond van [artikel 2 van de Wet geneesmiddelenprijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2) zoals dat luidde voor de inwerkingtreding van [I](https://wetten.overheid.nl/jci1.3:c:BWBR0042895&artikel=I&z=2025-07-05&g=2025-07-05), blijven van toepassing.
 
 ##### Artikel IIa
 
-Onze Minister voor Medische Zorg zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. In het verslag wordt in het bijzonder aandacht besteed aan de effecten van deze wet ten aanzien van de prijzen en beschikbaarheid van geneesmiddelen in Nederland.
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. In het verslag wordt in het bijzonder aandacht besteed aan de effecten van deze wet ten aanzien van de prijzen en beschikbaarheid van geneesmiddelen in Nederland.
 
 ##### Artikel III
 
