@@ -4,7 +4,7 @@ identifier: "BWBR0048388"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-10-01"
-last_updated: "2023-07-13"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048388"
 soort: "beleidsregel"
@@ -44,19 +44,23 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **Minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - **Verordening 2021/1139:** [Verordening (EU) 2021/1139](33039R2021) van het Europees Parlement en de Raad van 7 juli 2021 tot oprichting van het Europees Fonds voor maritieme zaken, visserij en aquacultuur en tot wijziging van [Verordening (EU) 2017/1004](32904R2017) (PbEU 2021, L 247);
 
 - **Verordening 2021/1060:** [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231);
 
-- **Tijdelijke subsidieregeling BAR visserij:** de [Tijdelijke subsidieregeling vermindering gevolgen Brexit voor de visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962).
+- **Tijdelijke subsidieregeling BAR visserij:** de [Tijdelijke subsidieregeling vermindering gevolgen Brexit voor de visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962);
+
+- **Regeling sanering garnalenvisserij:** [Titel 2.26 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26).
 
 ##### Artikel 2. Reikwijdte
 
 1. De Minister besluit voor subsidies die verstrekt worden in het kader van [verordening 2021/1139](33039R2021), tot het verlagen van subsidie in de gevallen genoemd in deze beleidsregel op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
-2. De Minister besluit voor subsidies die verstrekt worden in het kader van de[Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2023-07-13&g=2023-07-13) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrech](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6)t.
+2. De Minister besluit voor subsidies die verstrekt worden in het kader van de [Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-07-05&g=2025-07-05) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
+
+3. De minister besluit voor subsidies die verstrekt worden in het kader van de [Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-07-05&g=2025-07-05) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
 ##### Artikel 3. Toepassen kortingspercentage
 
@@ -116,13 +120,13 @@ Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZK- 
 
 ##### Artikel 10. Niet voldoen aan artikel 11, eerste lid, van [verordening 2021/1139](33039R2021)
 
-1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in [artikel 3.1.7, eerste lid, van de Regeling Europese EZK en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.1.7), [artikel 1.8, derde lid van de Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962&artikel=1.8) of een in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 11, eerste lid, onderdeel a, b of c, van [verordening 2021/1139](33039R2021), wordt:
+1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in [artikel 3.1.7, eerste lid, van de Regeling Europese EZK en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.1.7), [artikel 1.8, derde lid van de Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962&artikel=1.8), [artikel 2.25.9, zevende lid, van de Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.9) of een in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 11, eerste lid, onderdeel a, b of c, van [verordening 2021/1139](33039R2021), wordt:
 
 - a. indien de beschikking tot subsidievaststelling nog niet is gegeven, het subsidiebedrag verlaagd met 100%;
 
 - b. indien de beschikking tot subsidievaststelling is gegeven, het subsidiebedrag verlaagd met een percentage dat wordt bepaald door het aantal dagen dat de subsidieontvanger niet heeft voldaan aan de verplichting, te delen door het aantal dagen dat de verplichting van toepassing is, gerekend vanaf de dag na de datum van de beschikking tot subsidievaststelling, vermenigvuldigd met 100.
 
-2. In afwijking van het eerste lid, aanhef, onderdelen a en b, wordt, indien een subsidieontvanger een subsidie heeft ontvangen voor het definitief stopzetten van de visserijactiviteiten als bedoeld in de [Tijdelijke regeling BARvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962) en de in het eerste lid, aanhef, vermelde situatie van toepassing is:
+2. In afwijking van het eerste lid, aanhef, onderdelen a en b, wordt, indien een subsidieontvanger een subsidie heeft ontvangen voor het definitief stopzetten van de visserijactiviteiten als bedoeld in de [Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962) of de [Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26) en de in het eerste lid, aanhef, vermelde situatie van toepassing is:
 
 - a. indien de beschikking tot subsidievaststelling nog niet is gegeven en het betreffende vissersvaartuig niet langer is ingeschreven in het visserijregister als bedoeld in [artikel 4 van het Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4), het subsidiebedrag verlaagd met 50%;
 
@@ -142,17 +146,17 @@ Indien de subsidieontvanger herhaaldelijk niet voldoet aan hetzelfde voorschrift
 
 ##### Artikel 12. Cumulatie
 
-In afwijking van de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=4&z=2023-07-13&g=2023-07-13) wordt het subsidiebedrag met één procent verlaagd, in geval van cumulatie van het niet voldoen aan een verplichting als bedoeld in een van deze artikelen met het niet voldoen aan een verplichting als bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2023-07-13&g=2023-07-13). Deze korting van één procent komt bovenop de korting van het andere artikel waarvoor het hoogste kortingspercentage geldt.
+In afwijking van de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=4&z=2025-07-05&g=2025-07-05) wordt het subsidiebedrag met één procent verlaagd, in geval van cumulatie van het niet voldoen aan een verplichting als bedoeld in een van deze artikelen met het niet voldoen aan een verplichting als bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-07-05&g=2025-07-05). Deze korting van één procent komt bovenop de korting van het andere artikel waarvoor het hoogste kortingspercentage geldt.
 
 ##### Artikel 13. Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel verlagen subsidies EMFAF en BAR.
+Deze beleidsregel wordt aangehaald als: Beleidsregel verlagen EMFAF, BAR en Regeling sanering garnalenvisserij.
 
 ##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2023-07-13&g=2023-07-13)
+## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-07-05&g=2025-07-05)
 
 | Nr. | Overtreding | Korting |
 | --- | --- | --- |
