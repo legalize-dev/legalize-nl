@@ -4,7 +4,7 @@ identifier: "BWBR0043925"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2023-10-05"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043925"
 soort: "wet"
@@ -49,11 +49,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Onze Minister:** Onze Minister voor Medische Zorg;
+- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 - –. **ambulance:** een voor het verlenen van zorg aan en vervoer van zieken of gewonden ingericht motorvoertuig, vaartuig of helikopter;
 
-- –. **ambulancevoorzieningen:** alle voorzieningen die nodig zijn voor het uitoefenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2023-10-05&g=2023-10-05);
+- –. **ambulancevoorzieningen:** alle voorzieningen die nodig zijn voor het uitoefenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05);
 
 - –. **meldkamer:** een meldkamer als bedoeld in [artikel 25a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a);
 
@@ -79,7 +79,7 @@ Voor de toepassing van deze wet is het grondgebied van Nederland verdeeld in reg
 
 ##### Artikel 4
 
-1. De zorg voor permanente beschikbaarstelling van voldoende en kwalitatief goede ambulancevoorzieningen berust bij de Regionale Ambulancevoorzieningen, die bevoegd en verplicht zijn tot het verlenen of doen verlenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2023-10-05&g=2023-10-05).
+1. De zorg voor permanente beschikbaarstelling van voldoende en kwalitatief goede ambulancevoorzieningen berust bij de Regionale Ambulancevoorzieningen, die bevoegd en verplicht zijn tot het verlenen of doen verlenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05).
 
 2. Onze Minister wijst per regio een rechtspersoon als Regionale Ambulancevoorziening aan.
 
@@ -133,15 +133,15 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 ##### Artikel 9
 
-1. Het uitvoeren van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05) gaat gepaard met de systematische bewaking, beheersing en verbetering van de kwaliteit van de werkzaamheden en de verlening van ambulancezorg.
+1. Het uitvoeren van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) gaat gepaard met de systematische bewaking, beheersing en verbetering van de kwaliteit van de werkzaamheden en de verlening van ambulancezorg.
 
 2. Ter uitvoering van het eerste lid draagt de Regionale Ambulancevoorziening in elk geval zorg voor:
 
-- a. het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van de werkzaamheden en de verlening van ambulancezorg, zoals vastgelegd in de kwaliteitskaders voor de Regionale Ambulancevoorzieningen en de kwaliteitsgegevens die de minister op basis van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2023-10-05&g=2023-10-05) opvraagt;
+- a. het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van de werkzaamheden en de verlening van ambulancezorg, zoals vastgelegd in de kwaliteitskaders voor de Regionale Ambulancevoorzieningen en de kwaliteitsgegevens die de minister op basis van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2025-07-05&g=2025-07-05) opvraagt;
 
-- b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05) leidt tot een verantwoorde uitvoering van de werkzaamheden;
+- b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) leidt tot een verantwoorde uitvoering van de werkzaamheden;
 
-- c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig verbeteren van de wijze waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05) wordt uitgevoerd.
+- c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig verbeteren van de wijze waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) wordt uitgevoerd.
 
 3. De Regionale Ambulancevoorziening draagt er zorg voor dat eenmaal in de vijf jaar een visitatie door een visitatiecommissie wordt verricht.
 
@@ -149,7 +149,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 ##### Artikel 10
 
-1. De Regionale Ambulancevoorziening ontvangt van afdelingen spoedeisende hulp van ziekenhuizen ten behoeve van kwaliteitsbewaking, -beheersing en – bevordering van de ambulancezorg in het kader van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), kosteloos alle daartoe noodzakelijke gegevens, waaronder persoonsgegevens, waaronder begrepen gegevens over de gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming van de cliënt.
+1. De Regionale Ambulancevoorziening ontvangt van afdelingen spoedeisende hulp van ziekenhuizen ten behoeve van kwaliteitsbewaking, -beheersing en – bevordering van de ambulancezorg in het kader van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), kosteloos alle daartoe noodzakelijke gegevens, waaronder persoonsgegevens, waaronder begrepen gegevens over de gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming van de cliënt.
 
 2. De Regionale Ambulancevoorziening is bevoegd om de in het eerst lid bedoelde gegevens te verwerken voor de in het eerste lid omschreven doeleinden.
 
@@ -181,11 +181,11 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 ##### Artikel 13
 
-1. Indien de Regionale Ambulancevoorziening andere activiteiten, dan de taak genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), verricht, onderscheidt zij, in afwijking van [artikel 40a van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a), in ieder geval in financiële zin die activiteiten van de activiteiten ter uitvoering van haar taak, bedoeld in artikel 4, eerste lid.
+1. Indien de Regionale Ambulancevoorziening andere activiteiten, dan de taak genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), verricht, onderscheidt zij, in afwijking van [artikel 40a van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a), in ieder geval in financiële zin die activiteiten van de activiteiten ter uitvoering van haar taak, bedoeld in artikel 4, eerste lid.
 
 2. In de financiële administratie van de Regionale Ambulancevoorziening zijn ontvangsten en betalingen traceerbaar naar bron en bestemming en is duidelijk wie op welk moment welke verplichtingen voor of namens de Regionale Ambulancevoorziening is aangegaan.
 
-3. De baten die de Regionale Ambulancevoorziening behaalt met de uitvoering van de taak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), worden niet gebruikt voor financiering van de andere activiteiten, bedoeld in het eerste lid.
+3. De baten die de Regionale Ambulancevoorziening behaalt met de uitvoering van de taak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), worden niet gebruikt voor financiering van de andere activiteiten, bedoeld in het eerste lid.
 
 4. De Regionale Ambulancevoorziening heeft schriftelijk en inzichtelijk vastgelegd hoe de ambulancevoorzieningen georganiseerd worden, van welke andere organisatorische verbanden daarbij gebruik wordt gemaakt en wat de aard is van de relaties met die andere verbanden, waaronder begrepen verantwoordelijkheden, taken en beslissingsbevoegdheden.
 
@@ -231,7 +231,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 ##### Artikel 16
 
-[Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2023-10-05&g=2023-10-05) is van overeenkomstige toepassing op Regionale Ambulancevoorzieningen met publiekrechtelijke rechtspersoonlijkheid, voor zover het de uitoefening van de ambulancezorg door de Regionale Ambulancevoorziening betreft, met dien verstande dat voor «de interne toezichthouder» wordt gelezen «het algemeen bestuur» en voor «het bestuur» telkens «het dagelijks bestuur».
+[Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing op Regionale Ambulancevoorzieningen met publiekrechtelijke rechtspersoonlijkheid, voor zover het de uitoefening van de ambulancezorg door de Regionale Ambulancevoorziening betreft, met dien verstande dat voor «de interne toezichthouder» wordt gelezen «het algemeen bestuur» en voor «het bestuur» telkens «het dagelijks bestuur».
 
 #### Paragraaf 3.5. Eisen met betrekking tot de zeggenschap over een Regionale Ambulancevoorziening
 
@@ -247,9 +247,9 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ##### Artikel 19
 
-1. De Regionale Ambulancevoorziening verkeert in een dusdanige financiële staat dat deze de continuïteit van de ambulancezorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05) en het voldoen aan de bij of krachtens deze wet gestelde eisen niet in gevaar brengt.
+1. De Regionale Ambulancevoorziening verkeert in een dusdanige financiële staat dat deze de continuïteit van de ambulancezorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) en het voldoen aan de bij of krachtens deze wet gestelde eisen niet in gevaar brengt.
 
-2. Indien de Regionale Ambulancevoorziening andere activiteiten, dan de taak genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), verricht, of het verlenen van ambulancezorg als bedoeld in artikel 4, eerste lid, uitbesteedt, zorgt zij ervoor dat dit de continuïteit van de ambulancezorg als bedoeld in artikel 4, eerste lid en het voldoen aan de bij of krachtens deze wet gestelde eisen niet in gevaar brengt.
+2. Indien de Regionale Ambulancevoorziening andere activiteiten, dan de taak genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), verricht, of het verlenen van ambulancezorg als bedoeld in artikel 4, eerste lid, uitbesteedt, zorgt zij ervoor dat dit de continuïteit van de ambulancezorg als bedoeld in artikel 4, eerste lid en het voldoen aan de bij of krachtens deze wet gestelde eisen niet in gevaar brengt.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden aan het uitkeren van winst door de Regionale Ambulancevoorziening of haar onderaannemers.
 
@@ -265,9 +265,9 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ##### Artikel 21
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met uitzondering van [artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2023-10-05&g=2023-10-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met uitzondering van [artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2025-07-05&g=2025-07-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-2. In afwijking van het eerste lid, zijn met het toezicht op de naleving van het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2023-10-05&g=2023-10-05) en het bepaalde bij of krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2023-10-05&g=2023-10-05) belast de ambtenaren van de Nederlandse Zorgautoriteit, met dien verstande dat met het toezicht op de naleving van het bepaalde in artikel 19, eerste en tweede lid, tevens de in het eerste lid bedoelde ambtenaren belast zijn.
+2. In afwijking van het eerste lid, zijn met het toezicht op de naleving van het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2025-07-05&g=2025-07-05) en het bepaalde bij of krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-07-05&g=2025-07-05) belast de ambtenaren van de Nederlandse Zorgautoriteit, met dien verstande dat met het toezicht op de naleving van het bepaalde in artikel 19, eerste en tweede lid, tevens de in het eerste lid bedoelde ambtenaren belast zijn.
 
 ##### Artikel 22
 
@@ -275,7 +275,7 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 2. In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten het bepaalde bij of krachtens deze wet niet of in onvoldoende mate of op onjuiste wijze wordt nageleefd, de in verband daarmee te nemen maatregelen, alsmede de termijn waarbinnen de Regionale ambulancevoorziening aan de aanwijzing moet voldoen.
 
-3. Indien het nemen van maatregelen in verband met gevaar voor de gezondheid redelijkerwijs geen uitstel kan lijden, kan de ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=21&z=2023-10-05&g=2023-10-05) met het toezicht belaste ambtenaar een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door Onze Minister telkens met eenzelfde periode kan worden verlengd zolang naar het oordeel van Onze Minister het gevaar voor de gezondheid niet is geweken.
+3. Indien het nemen van maatregelen in verband met gevaar voor de gezondheid redelijkerwijs geen uitstel kan lijden, kan de ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=21&z=2025-07-05&g=2025-07-05) met het toezicht belaste ambtenaar een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door Onze Minister telkens met eenzelfde periode kan worden verlengd zolang naar het oordeel van Onze Minister het gevaar voor de gezondheid niet is geweken.
 
 4. De Regionale Ambulancevoorziening is verplicht volledig en binnen de daarbij gestelde termijn aan de aanwijzing onderscheidenlijk onmiddellijk aan het bevel te voldoen.
 
@@ -285,23 +285,23 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ##### Artikel 23
 
-1. Onze Minister is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2023-10-05&g=2023-10-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=7&z=2023-10-05&g=2023-10-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2023-10-05&g=2023-10-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2023-10-05&g=2023-10-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=18&z=2023-10-05&g=2023-10-05), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=4&artikel=20&z=2023-10-05&g=2023-10-05) en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=25&z=2023-10-05&g=2023-10-05).
+1. Onze Minister is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=7&z=2025-07-05&g=2025-07-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-07-05&g=2025-07-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2025-07-05&g=2025-07-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=18&z=2025-07-05&g=2025-07-05), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=4&artikel=20&z=2025-07-05&g=2025-07-05) en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=25&z=2025-07-05&g=2025-07-05).
 
-2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=22&z=2023-10-05&g=2023-10-05) en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichtingen.
+2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=22&z=2025-07-05&g=2025-07-05) en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichtingen.
 
 ##### Artikel 24
 
-1. Onze Minister is bevoegd tot het opleggen van een bestuurlijke boete ter handhaving van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2023-10-05&g=2023-10-05).
+1. Onze Minister is bevoegd tot het opleggen van een bestuurlijke boete ter handhaving van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05).
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 ##### Artikel 25
 
-1. Onze Minister kan de aanwijzing, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), wijzigen of intrekken indien:
+1. Onze Minister kan de aanwijzing, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), wijzigen of intrekken indien:
 
 - a. de Regionale Ambulancevoorziening daarom verzoekt;
 
-- b. de Regionale Ambulancevoorziening de taak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), niet of niet verantwoord vervult of het bepaalde bij of krachtens deze wet niet naleeft;
+- b. de Regionale Ambulancevoorziening de taak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), niet of niet verantwoord vervult of het bepaalde bij of krachtens deze wet niet naleeft;
 
 - c. naar het oordeel van Onze Minister het belang van permanente beschikbaarstelling van voldoende en kwalitatief goede ambulancevoorzieningen zulks vordert; dan wel
 
@@ -313,7 +313,7 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 4. Indien Onze Minister een aanwijzing intrekt, draagt de Regionale Ambulancevoorziening waarvan de aanwijzing wordt ingetrokken, ervoor zorg dat zij:
 
-- a. uitvoering blijft geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05), in de overgangsperiode tot aan het moment dat een andere rechtspersoon voor die regio als Regionale Ambulancevoorziening functioneert,
+- a. uitvoering blijft geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), in de overgangsperiode tot aan het moment dat een andere rechtspersoon voor die regio als Regionale Ambulancevoorziening functioneert,
 
 - b. op verzoek van Onze Minister in de overgangsperiode, bedoeld onder a, aan de door Onze Minister aangewezen rechtspersoon alle informatie verschaft die deze nodig heeft om als Regionale Ambulancevoorziening voor die regio te functioneren,
 
@@ -345,7 +345,7 @@ Wijzigt de Wet verplichte geestelijke gezondheidszorg.
 
 ##### Artikel 31
 
-Aanwijzingen verleend bij of krachtens [artikel 6 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=6), gelden na inwerkingtreding van deze wet als aanwijzing per regio van de Regionale Ambulancevoorziening, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2023-10-05&g=2023-10-05).
+Aanwijzingen verleend bij of krachtens [artikel 6 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=6), gelden na inwerkingtreding van deze wet als aanwijzing per regio van de Regionale Ambulancevoorziening, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 31a
 
