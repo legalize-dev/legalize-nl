@@ -4,7 +4,7 @@ identifier: "BWBR0046202"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-07-09"
-last_updated: "2024-08-29"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046202"
 soort: "beleidsregel"
@@ -52,11 +52,11 @@ De beleidsregel inzake het subsidiëren van de Kickstart Medicatieoverdracht wor
 
 ##### Artikel 3. Inwerkingtreding en vervaldatum
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 31 december 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2027.
 
 ##### Artikel 4. Citeertitel
 
-Dit besluit zal worden aangehaald als: Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2025.
+Dit besluit zal worden aangehaald als: Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2027.
 
 ## Bijlage. Beleidsregel inzake het subsidiëren van de kickstart medicatieoverdracht
 
@@ -222,9 +222,9 @@ Bij die aanpassingen (van de ICT-systemen) gelden de volgende eisen:
 
 Van belang is dat een subsidiemaatregel geen ongeoorloofde staatssteun oplevert. Artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie (VWEU) merkt steunmaatregelen van de staten of in welke vorm ook met staatsmiddelen bekostigd, die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde producties vervalsen of dreigen te vervalsen, aan als onverenigbaar met de interne markt, voor zover deze steun het handelsverkeer tussen de lidstaten ongunstig beïnvloedt. Met andere woorden, overheden mogen ondernemingen niet financieel begunstigen als daardoor de concurrentie kan worden vervalst en de handel tussen EU-lidstaten kan worden beïnvloed. Een van de toetsingscriteria hiervoor betreft de vraag of sprake is van een onderneming die een economische activiteit verricht. Op basis van de activiteiten zoals genoemd in paragraaf 2.2. kan hierover het volgende worden gezegd.
 
-**Activiteit 1** – het aanpassen van de ICT-systemen – is een economische activiteit. Subsidie voor deze activiteit dient volledig marktconform te worden besteed aan de ICT-leveranciers. Indien de inhuur van de ICT-leveranciers voor de gesubsidieerde activiteiten door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven geschiedt, is er geen sprake van staatssteun aan de ICT-leveranciers. Dezelfde redenatie gaat op voor **activiteit 4,**activiteiten rondom de organisatie van het samenwerkingsverband. Voor de organisatie van het samenwerkingsverband wordt namelijk gebruik gemaakt van een externe projectleider die op basis van een marktconform tarief zal worden ingehuurd. Mogelijk zijn er voor activiteit 4 kosten die niet marktconform kunnen worden besteed. In dat geval geldt dat deze kosten worden aangemerkt als de-minimissteun9Op basis van de reguliere de-minimisverordening kan de overheid over een periode van drie belastingjaren tot € 300.000 aan steun aan een onderneming verstrekken, zonder dat sprake is van staatssteun.. Dit betekent dat deze kosten mee worden genomen in de-minimisruimte van de penvoerder van het samenwerkingsverband. Ingevolge de regels van de-minimis zijn dergelijke kosten gemaximeerd op een bedrag van € 300.000 over drie belastingjaren en zal de penvoerder een de-minimisverklaring moeten overleggen, zoals bedoeld in paragraaf 4.2, voordat er kan worden overgegaan tot subsidieverlening.
+**Activiteit 1** – het aanpassen van de ICT-systemen – is een economische activiteit. Subsidie voor deze activiteit dient volledig marktconform te worden besteed aan de ICT-leveranciers. Indien de inhuur van de ICT-leveranciers voor de gesubsidieerde activiteiten door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven geschiedt, is er geen sprake van staatssteun aan de ICT-leveranciers. Dezelfde redenatie gaat op voor **activiteit 4,**activiteiten rondom de organisatie van het samenwerkingsverband. Voor de organisatie van het samenwerkingsverband wordt namelijk gebruik gemaakt van een externe projectleider die op basis van een marktconform tarief zal worden ingehuurd. Mogelijk zijn er voor activiteit 4 kosten die niet marktconform kunnen worden besteed. In dat geval geldt dat deze kosten worden aangemerkt als de-minimissteun9Op basis van de reguliere de-minimisverordening kan de overheid over een periode van drie jaren tot € 300.000 aan steun aan een onderneming verstrekken, zonder dat sprake is van staatssteun.. Dit betekent dat deze kosten mee worden genomen in de-minimisruimte van de penvoerder van het samenwerkingsverband. Ingevolge de regels van de-minimis zijn dergelijke kosten gemaximeerd op een bedrag van € 300.000 over drie jaren en zal de penvoerder een de-minimisverklaring moeten overleggen, zoals bedoeld in paragraaf 4.2, voordat er kan worden overgegaan tot subsidieverlening.
 
-Voor het deel van de subsidie dat ziet op implementatie-ondersteuning – **activiteit 2 –**zal de individuele zorgaanbieder aan het samenwerkingsverband belast worden met het verrichten van een zogenaamde dienst van algemeen economisch belang (DAEB). Hiertoe zal met de verschillende zorgaanbieders een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun worden gesloten. Het gaat hier namelijk om economische activiteiten die het algemeen belang dienen en die de markt, zonder overheidsoptreden, niet of niet onder dezelfde voorwaarden inzake objectieve kwaliteit, veiligheid, betaalbaarheid, gelijke behandeling of algemene toegang zou verrichten. Subsidie voor activiteit 2 is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 750.000 over drie belastingjaren per zorgaanbieder. De penvoerder zal, voordat er kan worden overgegaan tot subsidieverlening, een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun van de zorgaanbieder moeten overleggen, zoals bedoeld in paragraaf 4.2.
+Voor het deel van de subsidie dat ziet op implementatie-ondersteuning – **activiteit 2 –**zal de individuele zorgaanbieder aan het samenwerkingsverband belast worden met het verrichten van een zogenaamde dienst van algemeen economisch belang (DAEB). Hiertoe zal met de verschillende zorgaanbieders een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun worden gesloten. Het gaat hier namelijk om economische activiteiten die het algemeen belang dienen en die de markt, zonder overheidsoptreden, niet of niet onder dezelfde voorwaarden inzake objectieve kwaliteit, veiligheid, betaalbaarheid, gelijke behandeling of algemene toegang zou verrichten. Subsidie voor activiteit 2 is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 750.000 over drie jaren per zorgaanbieder. De penvoerder zal, voordat er kan worden overgegaan tot subsidieverlening, een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun van de zorgaanbieder moeten overleggen, zoals bedoeld in paragraaf 4.2.
 
 In het geval een zorgaanbieder ook als penvoerder optreedt binnen het samenwerkingsverband moet de de-minimissteun worden gecumuleerd met de DAEB de-minimissteun. Een voorbeeld om te verduidelijken: indien een zorgaanbieder, zijnde de penvoerder, € 200.000 van zijn de-minimisruimte gebruikt voor activiteit 4 (activiteiten rondom de organisatie van het samenwerkingsverband), blijft er een bedrag van € 450.000 over als DAEB de-minimissteun voor activiteit 2 (De implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieder).
 
@@ -328,11 +328,163 @@ Met de herziening tot subsidieverlening kan aanvullende subsidie worden aangevra
 
 Persoonlijke gezondheidsomgeving (PGO) Dienstverlener in het persoonsdomein (DVP) € 75.000
 
+Een subsidieaanvrager die uiterlijk 15 september 2022 een subsidieaanvraag heeft ingediend, als bedoeld in paragraaf 4.2, kan een aanvraag tot herziening van de subsidieverlening indienen. Deze aanvraag kan worden ingediend tot en met 14 augustus 2025. Voor de herziening van de subsidieverlening wordt een vastgesteld formulier gebruikt. Daarbij moeten, overeenkomstig [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), de volgende documenten worden aangeleverd:
+
+Met de herziening tot subsidieverlening kan aanvullende subsidie worden aangevraagd voor activiteit 1, het gezamenlijk met ICT-leveranciers aanpassen van de zorginformatiesystemen, om medicatieoverdracht mogelijk te maken, conform de eisen en technische specificaties in MP9 en activiteit 3, kennisdeling, ten behoeve van alle bij de medicatieoverdracht betrokken sectoren en leveranciers. De maximum subsidiebedragen in bijlage 1 zijn hierom opgehoogd met € 2.547.000. Deze activiteiten zijn omschreven in paragraaf 2.2. Subsidie wordt alleen verstrekt voor activiteiten die uiterlijk 1 juli 2027 zijn afgerond.
+
+Persoonlijke gezondheidsomgeving (PGO) Dienstverlener in het persoonsdomein (DVP) € 75.000
+
+De vergoeding voor de ICT-systemen is een redelijke vergoeding voor een gemiddeld systeem binnen een bepaalde sector voor het implementeren van de scope zoals verwoord in het Plan van aanpak Kickstart. De maximale bedragen voor een redelijke vergoeding zijn gebaseerd op een door Nictiz en VZVZ uitgevoerde bouwkostenanalyse. Geen vergoeding is beschikbaar voor een Dienstverlener in het zorgaanbiedersdomein (DVZA).
+
+Aanvullend op de activiteiten die in het kader van de Kickstart Medicatieoverdracht al voor subsidie in aanmerking komen, is het wenselijk subsidie te verstrekken voor het aanvullend beproeven van de Huisartsenspoedpost (hierna: het aanvullend beproeven HAP). Dit is een aanvulling op de Kickstart Medicatieoverdracht. Het doel, de achtergrond en aanleiding en het beoogd resultaat van de Kickstart Medicatieoverdracht staat beschreven in Hoofdstuk 1 – Doelstellingen Kickstart Medicatieoverdracht. Deze algemene uitgangspunten zijn ook op het aanvullend beproeven HAP van toepassing. Specifiek voor subsidie voor het aanvullend beproeven HAP geldt hetgeen wat hieronder in paragraaf 5.1.1. en paragraaf 5.1.2 is opgenomen.
+
+Activiteiten kunnen maximaal één keer vergoed worden. Als in het kader van een andere regeling onderdelen die zijn meegenomen in bovenstaande bedragen (deels) al vergoed zijn dan zullen ze in mindering worden gebracht op bovenstaande maximale bedragen. Specifiek wordt hier al genoemd dat bedragen die in het kader van de fase 1 van de VIPP Farmacie worden vergoed in mindering worden gebracht op bovenstaande maximale vergoeding voor een Apotheekinformatiesysteem.
+
+Het doel van subsidies voor het aanvullend beproeven HAP is om te stimuleren dat de uitwisseling van medicatiegegevens conform MP9 door de huisartsenspoedposten in combinatie met huisartsen en andere zorgverleners getest wordt. De HAP heeft een tijdelijke functie in de zorgketen en wordt met de implementatie van MP9 de bron van medicatiegegevens. Dit is nieuw en wordt beproefd, zoals beschreven als ‘Aanvullende beproeving HAP’ in het deelplan Aanvullende Beproeving Huisartsenspoedpost, bijlage bij het Plan van aanpak Kickstart. Dit deelplan wordt beschikbaar gesteld via de website van DUS-I: [www.dus-i.nl/subsidies/kickstart-medicatieoverdracht](http://www.dus-i.nl/subsidies/kickstart-medicatieoverdracht).
+
+Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
+
+### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
+
+Daarnaast stimuleert subsidie voor aanvullend beproeven HAP, dat de leverancier van het Huisartsenspoedpost informatiesysteem (HAPIS) in het samenwerkingsverband het ICT-systeem aanpast conform MP9.
+
+Voor de activiteit kennisdeling € 25.000 (beleidskader paragraaf 2.2 activiteit 3).
+
+De aanvrager van de subsidie voor het aanvullend beproeven HAP is, net als bij de Kickstart Medicatieoverdracht, een samenwerkingsverband zoals omschreven in paragraaf 2.1 van de Kickstart Medicatieoverdracht. Voor de rol en verantwoordelijkheden van de penvoerder van het samenwerkingsverband wordt verwezen naar paragraaf 2.1. Aanvullend op de voorwaarden van paragraaf 2.1, is in paragraaf 5.4 bepaald aan welke voorwaarden het samenwerkingsverband moet voldoen.
+
+De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die een zorgaanbieder maakt voor de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen. Alle genoemde bedragen zijn maximale bedragen, exclusief BTW en afgerond.
+
+De activiteiten die in het kader van het aanvullend beproeven HAP voor subsidie in aanmerking komen, worden uitgevoerd conform het hiervoor in paragraaf 5.1.1 genoemde deelplan Huisartsenspoedpost, bijlage bij het Plan van aanpak Kickstart. Aan een samenwerkingsverband kan hiervoor subsidie worden verstrekt voor de periode van 14 augustus 2025 tot 1 juli 2027.
+
+De vier activiteiten die voor subsidie in aanmerking komen in het kader van het aanvullend beproeven HAP zijn dezelfde als de activiteiten die ook onder de Kickstart Medicatieoverdracht worden uitgevoerd, namelijk: (1) het gezamenlijk met ICT-leveranciers aanpassen van de zorginformatiesystemen, om medicatieoverdracht mogelijk te maken, conform de eisen en technische specificaties in MP9, (2) de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieders, (3) kennisdeling, ten behoeve van alle bij de medicatieoverdracht betrokken sectoren en leveranciers, en (4) activiteiten rondom de organisatie van het samenwerkingsverband. De activiteiten zijn beschreven in paragraaf 2.2 Beoogde activiteiten (vanaf de tweede alinea).
+
+Voor een maximum van de hiervoor te subsidiëren kosten voor activiteit 1 (aanpassen van zorginformatiesystemen met ICT-leveranciers) wordt verwezen naar de bedragen als genoemd in bijlage 1A van deze Beleidsregel.
+
+Voor een maximum van te subsidiëren kosten voor activiteiten 2 (implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieders), 3 (kennisdeling) en 4 (activiteiten rondom organisatie van het samenwerkingsverband) wordt verwezen naar de bedragen als genoemd in bijlage 2A van deze Beleidsregel.
+
+A. deelactiviteiten voor de uitrol zoals die benoemd zijn in de sectorale Business Impact Analyses (BIA’s): 1. projectmanagement 2. projectondersteuning, 3. proces- en inhoudelijke implementatie, 4. voorlichting, 5. volgen opleiding, 6. verzorgen opleiding, 7. super-users en 8. toegangsvoorziening via UZI-passen, en daarnaast
+
+De subsidie kan in afwijking van paragraaf 2.3 verleend worden aan een samenwerkingsverband dat voldoet aan de volgende voorwaarden.
+
+In een samenwerkingsverband:
+
+Een vergoeding wordt verstrekt voor A.1, A.2, A.3, A.6, A.8 en daarnaast geldt specifiek voor:
+
+Wat betreft de subsidieverplichtingen bij het aanvullend beproeven HAP wordt verwezen naar paragraaf 2.4 Subsidieverplichtingen. Deze verplichtingen zijn ook grotendeels op het aanvullend beproeven HAP van toepassing. De enige uitzondering hierop is de eis die wordt genoemd in paragraaf 2.4, onderdeel ‘Ten aanzien van de ICT’, onder a.
+
+In afwijking van paragraaf 2.4, onderdeel ‘Ten aanzien van de ICT’, onder a, geldt voor het aanvullend beproeven HAP namelijk als eis dat alle functionele en technische specificaties van MP9 en de bijbehorende MedMij gegevensdienst worden gerealiseerd conform de stappen en de planning van het deelplan Huisartsenspoedpost, bijlage bij het Plan van aanpak Kickstart; waarbij een infrastructuur wordt gebruikt dat kan uitwisselen met LSP.
+
+Deze afwijking is opgenomen omdat bij het aanvullend beproeven HAP moet worden voortgebouwd op de resultaten van de Kickstart Medicatieoverdracht.
+
+Een vergoeding wordt verstrekt voor het volgen van scholing voor zorgaanbieders in de sector VVT Thuiszorg.
+
+Zoals hiervoor vermeld in paragraaf 5.3, worden bij het aanvullend beproeven HAP dezelfde vier activiteiten verricht als beschreven in paragraaf 2.2 Beoogde activiteiten (vanaf de tweede alinea). Voor de staatssteunbeoordeling kan dan ook ten eerste worden verwezen naar paragraaf 2.5 Staatssteun.
+
+Activiteiten 1 (het aanpassen van de ICT-systemen), 2 (het ondersteunen van zorgaanbieders bij het implementeren van het ICT-systeem in hun werkprocessen) en 4 (het organiseren van samenwerkingsverbanden en hun daarin ondersteunen) zijn economische activiteiten.
+
+Daarbij geldt dat de subsidie voor activiteit 1 enkel wordt verstrekt wanneer deze volledig marktconform wordt doorgezet naar de ICT-leveranciers. De subsidie voor activiteit 2 wordt enkel verstrekt wanneer de zorgaanbieders worden belast met een DAEB de-minimis, en voor activiteit 4 wanneer de penvoerder wordt belast met een DAEB de-minimis en – voor zover derden worden ingeschakeld – dit volledig marktconform plaatsvindt.
+
+Nu een DAEB de-minimis gerechtvaardigd is voor activiteit 2, is een DAEB ook gerechtvaardigd voor de activiteiten die daarmee direct samenhangen en die ondersteunend daaraan zijn, namelijk het organiseren van het samenwerkingsverband om tot implementatie te komen.
+
+A.8 toegangsvoorziening via UZI-passen
+
+Het systeem van de UZI-passen is aan ontwikkeling onderhevig (vernieuwing, mandatering, conditionele query). Ter voorbereiding van de subsidieaanvraag wordt in afstemming met het Programma vastgesteld wat de inrichting van het systeem met de UZI-passen voor betreffende zorgaanbieder bij de Kickstart wordt, en welke extra medewerkers de beschikking over een UZI-pas moeten krijgen. Deze post binnen de subsidie geldt als een reservering. Vlak voor de livegang van de 1e begeleide uitrol wordt vastgesteld wat het benodigde extra aantal UZI-passen is en wordt toestemming verleend door het Programma en VWS om deze te bestellen. Als een alternatieve toegangsvoorziening in plaats van UZI moet worden toegepast, dan wordt in overleg met het Programma en VWS vastgesteld welk deel van de financiële reservering voor de UZI-passen hiervoor ingezet kan worden (in samenhang met de vergoeding voor de post B.4. aansluiting/ontsluiting)
+
+Voor het aanvullend beproeven HAP is voor de periode van 14 augustus 2025 tot 1 juli 2027 binnen het budget van de Kickstart medicatieoverdracht een bedrag van maximaal € 2.203.000 beschikbaar. Na de herzieningsaanvragen Kickstart medicatieoverdracht is binnen het subsidieplafond van de Kickstart medicatieoverdracht – en gezien de naar verwachting te ontvangen aanvragen voor het aanvullend beproeven HAP – een bedrag van € 2.203.000 beschikbaar en naar verwachting afdoende.
+
+De aanvragen zullen worden beoordeeld en gerangschikt naar geschiktheid aan de hand van de wegingscriteria uitgezet in paragraaf 5.7.2. Vervolgens zal subsidie worden verleend aan de hand van de gemaakte rangschikking. Het Ministerie van VWS kan bij de beoordeling aan de hand van de wegingscriteria advies inwinnen van het Programma
+
+Als het subsidieplafond door het toewijzen van aanvragen die na weging gelijk geschikt zijn alsnog zou worden overschreden, dan wordt de toekenning van die aanvragen door loting bepaald.
+
+Huisartsenzorg: 50 medewerkers
+
+Ten behoeve van de beoordeling door het Ministerie van VWS in welke mate de aanvragers bijdragen aan het doel van het aanvullend beproeven HAP zal het Programma aan de hand van onderstaande wegingscriteria conform bijlage 3A punten toekennen. Vervolgens wordt de uiteindelijke puntentelling van het Programma wordt neergelegd in een advies aan het Ministerie van VWS. en wordt gebruikt bij de beoordeling van de aanvragen.
+
+Daarbij zijn de onderstaande elementen van belang, die elk zijn voorzien van gewicht. De eerste twee criteria zien op het samenwerkingsverband en de deelnemende zorgaanbieders. Het derde en vierde criterium hebben betrekking op de beoogde ICT-leverancier en -systemen.
+
+Er is een voorkeur voor een samenwerkingsverband waarbij de medicatieoverdracht van zoveel mogelijk (voor medicatieoverdracht relevante) patiënten in een zo breed mogelijke keten van zorgaanbieders kan worden gerealiseerd in de Kickstart Medicatieoverdracht. Daarom wordt ter beoordeling van de aanvraag gekeken naar:
+
+Het gaat daarbij om aantoonbare ervaring of kennis van de deelnemers van het samenwerkingsverband met:
+
+Voor de technische criteria wordt gekeken naar volgende aspecten:
+
+Voor de te betrekken HAPIS-leverancier wordt gekeken naar de volgende aspecten:
+
+B.4. Aansluiting/ontsluiting
+
+### 5.8.1. Subsidiesystematiek
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 4.6. Herziening subsidie in 2025
+
+Subsidies voor het aanvullend beproeven HAP stimuleren evenals de Kickstart Medicatieoverdracht, dat aangetoond kan worden dat MP9 in combinatie met de richtlijn werkt in de praktijk.
+
+### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
+
+Voor activiteiten en middelen ten bate van aansluiting/ontsluiting
+
+Voor de subsidiesystematiek wordt verwezen naar paragraaf 4.1 Subsidiesystematiek.
+
+In aanvulling op al het bovenstaande is er een DAEB de-minimisverordening van € 750.000 van toepassing voor de vergoeding aan een zorgaanbieder.
+
+### Bijlage 3. Puntentelling bij de wegingscriteria als bedoeld in 3.2. van de Beleidsregel
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 5. - Aanvullend beproeven huisartsenspoedpost
+
+### 5.1. Doelstellingen aanvullend beproeven
+
+### 5.1.1. Beoogd doel van subsidies voor aanvullend beproeven HAP
+
+### 5.1.2. Beoogd resultaat van subsidies voor aanvullend beproeven HAP
+
+### 5.2. Aanvrager van de subsidie
+
+### 5.3. Beoogde activiteiten
+
+### 5.4. Subsidievoorwaarden
+
+### 5.5. Subsidieverplichtingen
+
+### 5.6. Staatssteun
+
+### 5.7. Subsidieplafond en wegingscriteria
+
+### 5.7.1. Subsidieplafond en wijze van verdeling
+
+### 5.7.2. Wegingscriteria
+
+### 5.8. Overige verplichtingen en aanvraagprocedure
+
+### 5.8.2. Aanvraagprocedure
+
+Een samenwerkingsverband dat belangstelling heeft voor het aanvullend beproeven HAP en voor subsidie in aanmerking wenst te komen dient contact op te nemen met het Programma. Dit kan door een e-mail te sturen naar: medicatieoverdracht@nictiz.nl.
+
+Het Programma zal de penvoerder namens het samenwerkingsverband begeleiden bij de aanvraag en deze toetsen op het voldoen aan de voorwaarden en de haalbaarheid van de verplichtingen als bedoeld in hoofdstukken 5.4 en 5.5. Tevens zal het Programma zo nodig de penvoerder adviseren bij de contractering van de ICT-leveranciers.
+
+Voor een subsidieaanvraag wordt een digitaal formulier gebruikt (beschikbaar op [www.dus-i.nl/subsidies/kickstart-medicatieoverdracht](http://www.dus-i.nl/subsidies/kickstart-medicatieoverdracht)). Een subsidieaanvraag wordt uiterlijk 14 augustus 2025 ontvangen.
+
+De aanvraag gaat vergezeld van een activiteitenplan en een begroting, overeenkomstig [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3). In het activiteitenplan wordt tevens uiteengezet op welke wijze aan de voorwaarden wordt voldaan. Daarbij worden de volgende documenten meegezonden:
+
+Voor bovengenoemde formulieren en documenten zijn formats opgenomen op de website van DUS-I: Externe link:[www.dus-i.nl/subsidies/kickstart-medicatieoverdracht](http://www.dus-i.nl/subsidies/kickstart-medicatieoverdracht).
+
+Indien een ICT-leverancier bij meerdere samenwerkingsverbanden betrokken is bij de Kickstart Medicatieoverdracht of het aanvullend beproeven HAP wordt daarvan expliciet melding gemaakt door de penvoerder bij het Ministerie van VWS. Dit kan door een e-mail te sturen naar: KickstartMedicatieoverdracht@minvws.nl.
+
+De Minister van VWS besluit binnen 13 weken na afloop van de aanvraagtermijn op de binnengekomen aanvragen. Het Ministerie van VWS kan voorafgaand aan het besluit advies van het Programma inwinnen over welke aanvragen het meest voldoen aan (een aantal van) de wegingscriteria, bedoeld in paragraaf 5.7.2. Dit advies wordt als motivering bij het te nemen subsidiebesluit gevoegd. Indien advies wordt ingewonnen kan de beslistermijn met maximaal 6 weken worden verlengd, dus tot 19 weken.
+
+### 5.9. Verantwoording en vaststelling
+
+Voor het aanvullend beproeven HAP wordt voor de verantwoording en vaststelling verwezen naar paragraaf 4.3. Verantwoording en vaststelling.
+
+### Bijlage 1. Maximale vergoedingen voor de kosten van ICT
+
 De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die gemoeid zijn met het implementeren van MP9 in de ICT-systemen die door de zorgaanbieders in het samenwerkingsverband worden gebruikt. Alle genoemde bedragen zijn maximale bedragen, exclusief BTW en afgerond.
 
 Deelnemende ICT-leveranciers komen in aanmerking voor de volgende maximale vergoeding voor aanpassen van de zorginformatiesystemen (XIS) conform de eisen en technische specificaties ten behoeve van MP9 (beleidskader paragraaf 2.2 activiteit 1):
 
-Persoonlijke gezondheidsomgeving (PGO) Dienstverlener in het persoonsdomein (DVP) € 75.000
+Persoonlijke gezondheidsomgeving (PGO) Dienstverlener in het persoonsdomein (DVP) € 103.000
 
 De vergoeding voor de ICT-systemen is een redelijke vergoeding voor een gemiddeld systeem binnen een bepaalde sector voor het implementeren van de scope zoals verwoord in het Plan van aanpak Kickstart. De maximale bedragen voor een redelijke vergoeding zijn gebaseerd op een door Nictiz en VZVZ uitgevoerde bouwkostenanalyse. Geen vergoeding is beschikbaar voor een Dienstverlener in het zorgaanbiedersdomein (DVZA).
 
@@ -344,13 +496,29 @@ Voor elke deelnemende ICT-leverancier gelden de volgende maximale aanvullende ve
 
 Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
 
-### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
+Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
 
 Voor elke ICT-leverancier:
 
-Voor de activiteit kennisdeling € 25.000 (beleidskader paragraaf 2.2 activiteit 3).
+### Bijlage 1A. Maximale vergoedingen voor de kosten van ICT voor het aanvullend beproeven HAP
 
-De penvoerder van het samenwerkingsverband komt in aanmerking voor de volgende maximale vergoedingen:
+De onderhavige bijlage bevat de vergoedingen voor de kosten die gemoeid zijn met het implementeren van MP9 in de ICT-systemen die door de zorgaanbieders in het samenwerkingsverband worden gebruikt, voor het aanvullend beproeven HAP.
+
+Alle genoemde bedragen zijn maximale bedragen, exclusief btw.
+
+ICT-leveranciers betrokken bij het aanvullend beproeven HAP komen in aanmerking voor de volgende maximale vergoeding voor aanpassen van de zorginformatiesystemen (XIS) conform de eisen en technische specificaties ten behoeve van MP9 (paragraaf 2.2, activiteit 1):
+
+De vergoeding voor de ICT-systemen is een redelijke vergoeding voor een gemiddeld systeem binnen de sector voor het implementeren van de scope zoals verwoord in het Plan van aanpak Kickstart. De maximale bedragen voor een redelijke vergoeding zijn gebaseerd op een door Nictiz en VZVZ uitgevoerde bouwkostenanalyse waarbij het systeem gelijkgesteld is aan een HIS (Huisartsen Informatie Systeem).
+
+Activiteiten kunnen maximaal één keer vergoed worden. Als in het kader van een andere subsidieregeling in feite al kosten voor het aanpassen van zorginformatiesystemen (deels) zijn vergoed, dan zullen deze in mindering worden gebracht op bovenstaande maximale bedragen.
+
+Voor alle aanvullende vergoedingen geldt een maximum uurtarief van € 100 exclusief btw.
+
+Voor ondersteuning en begeleiding van de zorgaanbieders tijdens testen en de eerste begeleide uitrol een maximale aanvullende vergoeding van:
+
+Voor de activiteit kennisdeling ontvangt de HAPIS ICT-leverancier € 25.000 (zie paragraaf 5.3, in samenhang met paragraaf 2.2, activiteit 3).
+
+### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
 
 De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die een zorgaanbieder maakt voor de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen. Alle genoemde bedragen zijn maximale bedragen, exclusief BTW en afgerond.
 
@@ -412,22 +580,28 @@ Voor de deelactiviteiten B.1. aanvullend projectmanagement, B.2. aanvullende pro
 
 B.4. Aansluiting/ontsluiting
 
-### Bijlage 3. Puntentelling bij de wegingscriteria als bedoeld in 3.2. van de Beleidsregel
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-### Bijlage 1. Maximale vergoedingen voor de kosten van ICT
-
-Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
-
-### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
-
 Voor activiteiten en middelen ten bate van aansluiting/ontsluiting
 
 Voor de activiteit kennisdeling € 25.000 (beleidskader paragraaf 2.2 activiteit 3).
 
 In aanvulling op al het bovenstaande is er een DAEB de-minimisverordening van € 750.000 van toepassing voor de vergoeding aan een zorgaanbieder.
 
+### Bijlage 2A. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders voor het aanvullend beproeven HAP
+
+De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die een zorgaanbieder maakt voor de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen in het kader van het aanvullend beproeven HAP. Alle genoemde bedragen zijn exclusief btw. Hierbij geldt een maximum uurtarief van € 100 exclusief btw.
+
+De penvoerder van het samenwerkingsverband komt in aanmerking voor de volgende vergoedingen:
+
+Deelnemende zorgaanbieders komen in aanmerking voor een vergoeding voor de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieders in het kader van het aanvullend beproeven HAP (paragraaf 2.2, activiteit 2).
+
+De vergoeding is beschikbaar voor zorgaanbieders die eerder een subsidie hebben ontvangen voor de Kickstart Medicatieoverdracht en voor zorgaanbieders die nog geen subsidie hebben ontvangen. Voor alle zorgaanbieders gelden de hieronder genoemde bedragen als maximale vergoedingen voor deze deelactiviteiten.
+
+De deelactiviteiten genoemd in bijlage 2, worden hier ook gehanteerd en samengevat weergegeven als: ‘A. Vergoedingen op basis van de Business Impact Analyses (BIA’s)’ en ‘B. Aanvullende vergoedingen specifiek voor de Kickstart’.
+
+Omdat huisartsenspoedposten niet specifiek zijn meegenomen in de BIA’s, wordt er gerekend met de BIA-berekening voor huisartsen. Er is geen mogelijkheid om binnen het samenwerkingsverband af te wijken van de maximum subsidiebedragen, de maximale vergoedingen, per deelnemer zoals die bij de subsidieverlening zijn vermeld.
+
 ### Bijlage 3. Puntentelling bij de wegingscriteria als bedoeld in 3.2. van de Beleidsregel
+
+### Bijlage 3A. Puntentelling bij de wegingscriteria als bedoeld in 5.7.2. aanvullend beproeven HAP
 
 Dit besluit zal in de Staatscourant worden geplaatst.
