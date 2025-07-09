@@ -4,7 +4,7 @@ identifier: "BWBR0050482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2024-11-30"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050482"
 soort: "ministeriele-regeling"
@@ -160,11 +160,9 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 - d. voor opleidingen waarvoor de Minister op grond van de [Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0020517) een subsidie kan verstrekken;
 
-- e. voor opleidingen waarvoor al subsidie is verstrekt op grond van de projectsubsidie SectorplanPlus; of
+- e. voor opleidingen waarvoor al subsidie is verstrekt op grond van de projectsubsidie SectorplanPlus.
 
-- f. in het geval aan de instelling al een subsidie kan worden of is verstrekt of een andere financiële bijdrage van de overheid kan worden of is ontvangen voor dezelfde activiteiten.
-
-3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2024-11-30&g=2024-11-30), heeft ingediend.
+3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2025-07-09&g=2025-07-09), heeft ingediend.
 
 ##### Artikel 5. Subsidieplafond
 
@@ -206,7 +204,7 @@ waarbij wordt verstaan onder:
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast totdat het volledige subsidieplafond is bereikt.
 
-5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2024-11-30&g=2024-11-30), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
+5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-07-09&g=2025-07-09), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
 
@@ -232,7 +230,7 @@ In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het
 
 4. De hoogte van de subsidie wordt berekend op basis van de daadwerkelijk gemaakte kosten per opleidingsproject.
 
-5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2024-11-30&g=2024-11-30).
+5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2025-07-09&g=2025-07-09).
 
 ##### Artikel 9. Aanvraag tot verlening
 
@@ -282,7 +280,7 @@ De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 2. In aanvulling op [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) gaat het financieel verslag voor de gerealiseerde kosten en opbrengsten van de activiteiten waarvoor subsidie is verleend vergezeld van een controleverklaring, opgesteld door een accountant overeenkomstig een door de Minister vastgesteld en bekendgemaakt accountantsprotocol.
 
-3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2024-11-30&g=2024-11-30) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
+3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-07-09&g=2025-07-09) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
 
 ##### Artikel 13. Vaststelling
 
@@ -302,7 +300,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Deze regeling wordt aangehaald als: Subsidieregeling Strategisch opleiden MSZ.
 
-## Bijlage I. Standaarduurtarieven per schaal voor personele kosten behorend bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=8&z=2024-11-30&g=2024-11-30)
+## Bijlage I. Standaarduurtarieven per schaal voor personele kosten behorend bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=8&z=2025-07-09&g=2025-07-09)
 
 In het kader van een subsidieaanvraag en de verantwoording daarvan kan voor het berekenen van de personele kosten worden gekozen voor het laagste uurtarief per salarisschaal van de desbetreffende functiegroep waartoe aan opleidingsactiviteiten deelnemende medewerkers behoren. Het standaarduurtarief is per salarisschaal vastgesteld in deze bijlage.
 
