@@ -4,7 +4,7 @@ identifier: "BWBR0048308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-11-15"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048308"
 soort: "ministeriele-regeling"
@@ -56,17 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **medische dienst:** staf van artsen werkzaam in een zorginstelling die de medische eindverantwoordelijkheid dragen voor de bewoners van de zorginstelling;
-
-- **OMT-V:** Outbreak Management Team Vaccinatie;
-
 - **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport genoemd in [artikel 2 van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=2);
 
 - **SiSa:** Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole als wijze waarop provincies, gemeenten en gemeenschappelijke regelingen zich jaarlijks verantwoorden over de besteding van specifieke uitkeringen of provinciale middelen;
 
-- **uitkering:** een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a);
-
-- **zorginstelling:** instelling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1).
+- **uitkering:** een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
 
 ##### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -76,11 +70,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Uitkering COVID-19-vaccinatie
 
-1. De minister verstrekt per GGD een uitkering voor de periode van 1 juli 2024 tot en met 31 december 2024 voor het toedienen van COVID-19-vaccinaties in het kader van het COVID-19-vaccinatieprogramma.
+1. De minister verstrekt per GGD een uitkering voor de periode van 1 januari 2025 tot en met 31 december 2025 voor het toedienen van COVID-19-vaccinaties in het kader van het COVID-19-vaccinatieprogramma.
 
-2. De GGD kan de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, in de periode van 1 juli tot en met 31 december 2024 inzetten voor andere activiteiten, voor zover het activiteiten zijn die vallen onder de algemene infectieziektebestrijding op grond van [artikel 6, eerste lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6).
+2. De GGD kan de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, in de periode van 1 september 2025 tot en met 31 december 2025 inzetten voor andere activiteiten, voor zover het activiteiten zijn die vallen onder de algemene infectieziektebestrijding op grond van [artikel 6, eerste lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6).
 
-3. De uitkering per GGD bedraagt ten hoogste het bedrag zoals genoemd in de tweede kolom van de tabel in de bijlage bij deze regeling.
+3. De hoogte van de uitkering wordt bepaald op basis van een vast bedrag per toegediende vaccinatie ter hoogte van € 25,89.
+
+4. Indien de kostprijs van een GGD voor het toedienen van een COVID-19-vaccinatie hoger ligt dan het in het eerste lid genoemde bedrag, ontvangt de desbetreffende GGD een aanvullende uitkering van ten hoogste het bedrag zoals genoemd in de vierde kolom van de tabel in de bijlage bij deze regeling.
+
+5. De uitkering per GGD voor het toedienen van COVID-19-vaccinaties bedraagt ten hoogste het bedrag zoals genoemd in de vijfde kolom van de tabel in de bijlage bij deze regeling.
 
 ##### Artikel 4. Aanvullende uitkering COVID-19-vaccinatiecampagne
 
@@ -88,7 +86,7 @@ Vervallen
 
 ##### Artikel 5. Dienst van algemeen economisch belang
 
-De GGD wordt voor het uitvoeren van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), belast met een dienst van algemeen economisch belang.
+De GGD wordt voor het uitvoeren van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), belast met een dienst van algemeen economisch belang.
 
 ##### Artikel 6. Dubbelfinanciering
 
@@ -96,19 +94,23 @@ Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al 
 
 ##### Artikel 7. Aanvraag, verlening en bevoorschotting
 
-1. De Minister verleent de uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), ambtshalve uiterlijk 1 september 2024.
+1. De aanvraag tot verlening van een specifieke uitkering als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), wordt uiterlijk op 31 augustus 2025 ontvangen.
 
-2. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de periode waarvoor de uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
+2. Voor de aanvraag tot verlening wordt een door de minister vastgesteld formulier gebruikt.
 
-3. De Minister verleent bij het besluit tot verlening van de uitkering een voorschot van 100% dat in één keer wordt betaald.
+3. De minister beslist binnen 13 weken na sluiting van de aanvraagtermijn, genoemd in het eerste lid, op een aanvraag tot verlening van een specifieke uitkering.
+
+4. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de periode waarvoor de uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
+
+5. De Minister verleent bij het besluit tot verlening van de uitkering een voorschot van 100% dat in één keer wordt betaald.
 
 ##### Artikel 8. Verplichtingen verbonden aan de uitkering
 
-1. De GGD doet de Minister uiterlijk 4 weken na afloop van elk kwartaal na ontvangst van een uitkering verslag over de realisatiecijfers van de activiteiten waarvoor de uitkering is verstrekt, volgens een door de Minister vastgesteld format.
+1. De GGD doet de Minister uiterlijk 4 weken na afloop van elk kwartaal na ontvangst van een uitkering verslag over het toegediende aantal vaccinaties.
 
-2. Onverminderd het eerste lid informeert de GGD de Minister op verzoek over de voortgang van de activiteiten en de daaraan verbonden kosten waarvoor een uitkering is verleend.
+2. Onverminderd het eerste lid informeert de GGD de Minister op verzoek over de voortgang van de activiteiten en de daaraan verbonden aantallen en kosten waarvoor een uitkering is verleend.
 
-3. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), doet de GGD hiervan onverwijld schriftelijk mededeling aan de Minister.
+3. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), doet de GGD hiervan onverwijld schriftelijk mededeling aan de Minister.
 
 4. De GGD draagt er zorg voor:
 
@@ -120,15 +122,17 @@ Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al 
 
 1. De GGD legt verantwoording af over de besteding van de uitkering op de wijze als bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), rekent de GGD de aan de infrastructuur verbonden kosten naar verhouding toe aan deze andere inzet.
+2. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), rekent de GGD de aan de infrastructuur verbonden kosten naar verhouding toe aan deze andere inzet.
 
 ##### Artikel 10. Vaststelling en terugvordering
 
-1. De Minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=9&z=2024-11-15&g=2024-11-15), over de vaststelling van de uitkering.
+1. De Minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=9&z=2025-07-09&g=2025-07-09), over de vaststelling van de uitkering.
 
-2. Indien de activiteiten waarvoor de uitkering is verleend zijn uitgevoerd en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+2. De uitkering wordt vastgesteld op het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), genoemde bedrag per toegediende vaccinatie, voor ten hoogste het maximum aantal vaccinaties dat door de minister bij de verlening is genoemd en ten laagste 75% van het in de verleningsbeschikking genoemde uitkeringsbedrag.
 
-3. Indien de informatie ten behoeve van de verantwoording te laat, niet of niet volledig wordt verstrekt, kan de Minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
+3. In afwijking van het tweede lid wordt de uitkering aan een GGD die een aanvullende uitkering heeft ontvangen als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), vastgesteld op een bedrag per toegediende vaccinatie waarvan de hoogte door de minister bij de verlening is genoemd, voor ten hoogste het maximum aantal vaccinaties dat is genoemd in de tweede kolom van de tabel in de bijlage bij deze regeling en ten laagste 85% van het in de verleningsbeschikkin genoemde bedrag.
+
+4. Indien de informatie ten behoeve van de verantwoording te laat, niet of niet volledig wordt verstrekt, kan de Minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
 ##### Artikel 11. Hardheidsclausule
 
@@ -144,45 +148,43 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering COVID-19-vaccinatie.
 
-## Bijlage. Tabel met het maximale uitkeringsbedrag per GGD voor de periode van 1 juli 2024 tot en met 31 december 2024
+## Bijlage. Tabel met het maximale uitkeringsbedrag per GGD voor de periode van 1 januari 2025 tot en met 31 december 2025 (bijlage als bedoeld in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09))
 
-(bijlage als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15)).
+Onderstaand is een lijst opgenomen waarin de GGD’en staan en het maximale uitkeringsbedrag dat zij kunnen ontvangen op grond van [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09), voor de periode 1 januari 2025 tot en met 31 december 2025.
 
-Onderstaand is een lijst opgenomen waarin de GGD’en staan en het maximale uitkeringsbedrag dat zij kunnen ontvangen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), voor de periode 1 juli 2024 tot en met 31 december 2024.
-
-De bedragen zijn per GGD gebaseerd op door hen ingediende en met het Ministerie van Volksgezondheid, Welzijn en Sport afgestemde begrotingen. Aan de hand van een door het RIVM bepaald landelijk gemiddeld aantal (q) vaccinaties per week zijn de begrotingen opgesteld voor:
+De bedragen zijn per GGD gebaseerd op het door het RIVM geprognotiseerde aantal vaccinaties per GGD en de vergoeding per vaccinatie ([artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09)). De vastgestelde aantallen bestaan uit:
 
 - a. het toedienen van vaccinaties aan mensen die op individuele basis worden doorverwezen door hun behandelend arts; en
 
-- b. het kunnen realiseren van vaccinaties tijdens de najaarscampagne1Zie de Kamerbrief van 29 februari 2024 (**Kamerstukken II** 2023-2024, 25 295, nr. 2167) waarmee de Kamer is geïnformeerd over het besluit om in het najaar van 2024 een vaccinatieronde te doen. In de Kamerbrief van 4 april 2024 (**Kamerstukken II** 2023-2024, 25 295, nr. 2172) is de invulling van de najaarsronde op basis van het advies van de Gezondheidsraad van 27 maart 2024 toegelicht. voor de door de Gezondheidsraad aangegeven doelgroepen.
+- b. het toedienen van vaccinaties tijdens de najaarsronde voor de door de Gezondheidsraad aangegeven doelgroepen.
 
-|   | Uitkering COVID-19-vaccinatie (artikel 3, eerste lid) |
-| --- | --- |
-| **Totaal** | **76.933.000** |
-| **Dienst Gezondheid & Jeugd ZHZ** | 2.626.000 |
-| **GGD Amsterdam** | 4.698.000 |
-| **GGD Brabant-Zuidoost** | 3.292.000 |
-| **GGD Drenthe** | 2.518.000 |
-| **GGD Flevoland** | 1.485.000 |
-| **GGD Fryslân** | 2.734.000 |
-| **GGD Gelderland-Zuid** | 2.397.000 |
-| **GGD Gooi en Vechtstreek** | 1.014.000 |
-| **GGD Groningen** | 2.408.000 |
-| **GGD Haaglanden** | 3.586.000 |
-| **GGD Hart voor Brabant** | 4.830.000 |
-| **GGD Hollands-Midden** | 3.500.000 |
-| **GGD Hollands-Noorden** | 2.765.000 |
-| **GGD IJsselland** | 2.086.000 |
-| **GGD Kennemerland** | 2.603.000 |
-| **GGD Limburg-Noord** | 2.281.000 |
-| **GGD Noord- en Oost-Gelderland** | 4.049.000 |
-| **GGD Regio Utrecht** | 5.817.000 |
-| **GGD Rotterdam-Rijnmond** | 5.366.000 |
-| **GGD Twente** | 2.935.000 |
-| **GGD West-Brabant** | 2.911.000 |
-| **GGD Zaanstreek/Waterland** | 1.697.000 |
-| **GGD Zeeland** | 2.917.000 |
-| **GGD Zuid-Limburg** | 2.883.000 |
-| **Veiligheids- en Gezondheidsregio Gelderland-Midden** | 3.537.000 |
+| GGD | Maximum aantal vaccinaties in 2025 | Vergoeding op basis van tarief per vaccinatie ([artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09)) | aanvullende uitkering ([artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2025-07-09&g=2025-07-09)) | Totaal |
+| --- | --- | --- | --- | --- |
+| GGD Drenthe | 83.865 | € 2.171.265 | n.v.t. | € 2.171.265 |
+| GGD Flevoland | 42.470 | € 1.099.548 | n.v.t. | € 1.099.548 |
+| GGD Fryslân | 82.914 | € 2.146.643 | n.v.t. | € 2.146.643 |
+| VG Gelderland-Midden | 112.926 | € 2.923.654 | € 212.301 | € 3.135.955 |
+| GGD Noord- en Oost-Gelderland | 128.545 | € 3.328.030 | € 173.536 | € 3.501.566 |
+| GGD Gelderland-Zuid | 83.137 | € 2.152.417 | n.v.t. | € 2.152.417 |
+| GGD Groningen | 76.711 | € 1.986.048 | € 67.506 | € 2.053.553 |
+| GGD Zuid-Limburg | 85.838 | € 2.222.346 | n.v.t. | € 2.222.346 |
+| GGD Limburg-Noord | 76.775 | € 1.987.705 | n.v.t. | € 1.987.705 |
+| GGD West-Brabant | 107.071 | € 2.772.068 | n.v.t. | € 2.772.068 |
+| GGD Hart voor Brabant | 159.115 | € 4.119.487 | € 114.563 | € 4.234.050 |
+| GGD Brabant-Zuidoost | 119.695 | € 3.098.904 | n.v.t. | € 3.098.904 |
+| GGD Zaanstreek/Waterland | 44.645 | € 1.155.859 | € 91.969 | € 1.247.828 |
+| GGD Kennemerland | 85.855 | € 2.222.786 | € 176.861 | € 2.399.647 |
+| GGD Hollands-Noorden | 95.513 | € 2.472.832 | n.v.t. | € 2.472.832 |
+| GGD Gooi en Vechtstreek | 39.083 | € 1.011.859 | n.v.t. | € 1.011.859 |
+| GGD Amsterdam | 100.328 | € 2.597.492 | € 206.676 | € 2.804.168 |
+| GGD Twente | 82.074 | € 2.124.896 | € 8.207 | € 2.133.103 |
+| GGD IJsselland | 71.574 | € 1.853.051 | n.v.t. | € 1.853.051 |
+| GGD Regio Utrecht | 182.932 | € 4.736.109 | € 146.346 | € 4.882.455 |
+| GGD Zeeland | 65.974 | € 1.708.067 | € 60.696 | € 1.768.763 |
+| GGD Rotterdam-Rijnmond | 140.950 | € 3.649.196 | € 290.357 | € 3.939.553 |
+| GGD Hollands-Midden | 100.852 | € 2.611.058 | € 207.755 | € 2.818.813 |
+| GGD Haaglanden | 139.256 | € 3.605.338 | n.v.t. | € 3.605.338 |
+| DGJ Zuid-Holland Zuid | 64.902 | € 1.680.313 | € 133.698 | € 1.814.011 |
+| **Totaal** | **2.373.000** | **€ 61.436.970** | **€ 1.890.470** | **€ 63.327.440** |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
