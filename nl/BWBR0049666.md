@@ -4,7 +4,7 @@ identifier: "BWBR0049666"
 country: "nl"
 rank: "kb"
 publication_date: "2025-07-10"
-last_updated: "2024-05-01"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049666"
 soort: "KB"
@@ -82,15 +82,15 @@ Te rekenen vanaf 22 juli 2023 worden voor een periode van twee jaar benoemd tot 
 
 2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,21.
 
-3. De gastdeskundigen ontvangen een vergoeding per vergadering van € 326 voor het jaar 2023 en een vergoeding per vergadering van € 330 voor de jaren 2024 en 2025.
+3. De gastdeskundigen ontvangen een vergoeding per vergadering van € 360.
 
 ##### Artikel 6
 
-Het adviescollege wordt ingesteld voor de duur van twee jaar en wordt opgeheven per 22 juli 2025.
+Het adviescollege wordt ingesteld voor de duur van vier jaar en wordt opgeheven per 22 juli 2027.
 
 ##### Artikel 7
 
-Voor de advisering, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049666&artikel=2&z=2024-05-01&g=2024-05-01), kan het adviescollege kennisnemen van de aanvragen indien noodzakelijk.
+Voor de advisering, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049666&artikel=2&z=2025-07-10&g=2025-07-10), kan het adviescollege kennisnemen van de aanvragen indien noodzakelijk.
 
 ##### Artikel 8
 
