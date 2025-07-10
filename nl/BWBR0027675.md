@@ -4,7 +4,7 @@ identifier: "BWBR0027675"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-10"
-last_updated: "2025-07-01"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027675"
 soort: "ministeriele-regeling"
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 136,31 netto per diensthond.
+1. Voor de kosten ten behoeve van het verzorgen van een diensthond heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 139,58 netto per diensthond.
 
-2. Indien bij woon-werkverkeer gebruik wordt gemaakt van eigen vervoer voor het vervoeren van een diensthond, heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 94,79 netto. Deze tegemoetkoming is bedoeld als compensatie voor het gebruik van de eigen auto voor het vervoer van de hond alsmede voor het schoonmaken van de eigen auto.
+2. Indien bij woon-werkverkeer gebruik wordt gemaakt van eigen vervoer voor het vervoeren van een diensthond, heeft de geleider aanspraak op een maandelijkse tegemoetkoming van € 97,06 netto. Deze tegemoetkoming is bedoeld als compensatie voor het gebruik van de eigen auto voor het vervoer van de hond alsmede voor het schoonmaken van de eigen auto.
 
 3. De tegemoetkoming, genoemd in het tweede lid, wordt toegekend op declaratiebasis en geldt niet per diensthond, maar is gekoppeld aan de eigen auto.
 
@@ -72,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Voor de permanente verantwoordelijkheid voor de diensthond heeft de geleider aanspraak op een maandelijkse compensatie van € 463,08.
+1. Voor de permanente verantwoordelijkheid voor de diensthond heeft de geleider aanspraak op een maandelijkse compensatie van € 474,19.
 
 2. De compensatie heeft geen betrekking op de noodzakelijke verzorging van de diensthond binnen werktijd.
 
 ##### Artikel 4
 
-De tegemoetkoming, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=2&z=2025-04-01&g=2025-07-01), en de compensatie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-04-01&g=2025-07-01), worden jaarlijks per 1 juli van elk kalenderjaar gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
+De tegemoetkoming, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=2&z=2025-07-10&g=2025-07-10), en de compensatie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-07-10&g=2025-07-10), worden jaarlijks per 1 juli van elk kalenderjaar gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
 
 ##### Artikel 5
 
@@ -96,11 +96,11 @@ De geleider heeft aanspraak op volledige vergoeding van:
 
 ##### Artikel 6
 
-Indien een diensthond na verstrijking van de periode dat deze voor inzet in de politiedienst geschikt is, met instemming van het bevoegd gezag, door de geleider als huisdier wordt overgenomen heeft de geleider aanspraak op een afbouwvoorziening. De afbouwvoorziening bestaat uit vergoeding van kosten als bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=5&z=2025-04-01&g=2025-07-01), voor een periode van ten hoogste drie maanden.
+Indien een diensthond na verstrijking van de periode dat deze voor inzet in de politiedienst geschikt is, met instemming van het bevoegd gezag, door de geleider als huisdier wordt overgenomen heeft de geleider aanspraak op een afbouwvoorziening. De afbouwvoorziening bestaat uit vergoeding van kosten als bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=5&z=2025-07-10&g=2025-07-10), voor een periode van ten hoogste drie maanden.
 
 ##### Artikel 7
 
-1. De aanspraak op de tegemoetkoming, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=2&z=2025-04-01&g=2025-07-01) en de compensatie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-04-01&g=2025-07-01), vervalt in het geval de geleider:
+1. De aanspraak op de tegemoetkoming, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=2&z=2025-07-10&g=2025-07-10) en de compensatie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-07-10&g=2025-07-10), vervalt in het geval de geleider:
 
 - a. tijdens ziekte de aan hem toegewezen diensthond niet verzorgt;
 
@@ -108,7 +108,7 @@ Indien een diensthond na verstrijking van de periode dat deze voor inzet in de p
 
 - c. een andere functie of andere taken als bedoeld in [artikel 64 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64) verricht en niet langer een diensthond verzorgt.
 
-2. De aanspraak op de afbouwvoorziening, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=6&z=2025-04-01&g=2025-07-01), vervalt indien de geleider de diensthond niet meer verzorgt.
+2. De aanspraak op de afbouwvoorziening, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=6&z=2025-07-10&g=2025-07-10), vervalt indien de geleider de diensthond niet meer verzorgt.
 
 #### Paragraaf 3. Vervoer van de geleider en de diensthond
 
@@ -136,15 +136,15 @@ Het bevoegd gezag voorziet in een geschikte kennel voor de diensthond op het woo
 
 ##### Artikel 12
 
-De uitrusting, bedoeld in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=3&artikel=9&z=2025-04-01&g=2025-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=4&artikel=10&z=2025-04-01&g=2025-07-01), en de kennel, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=4&artikel=11&z=2025-04-01&g=2025-07-01), blijven eigendom van de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1). Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd.
+De uitrusting, bedoeld in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=3&artikel=9&z=2025-07-10&g=2025-07-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=4&artikel=10&z=2025-07-10&g=2025-07-10), en de kennel, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=4&artikel=11&z=2025-07-10&g=2025-07-10), blijven eigendom van de politie, bedoeld in [artikel 1, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1). Indien de geleider zijn functie niet meer vervult, kan het bevoegd gezag bepalen dat de kennel niet wordt teruggevorderd.
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
 ##### Artikel 13
 
-1. De geleider die op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-04-01&g=2025-07-01), zoals dat artikel luidde voor 1 maart 2023, achttien uren compensatie in tijd per maand krijgt zal deze blijven ontvangen, tenzij hij vóór 1 maart 2023 schriftelijk kenbaar heeft gemaakt alsnog compensatie in geld te willen.
+1. De geleider die op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-07-10&g=2025-07-10), zoals dat artikel luidde voor 1 maart 2023, achttien uren compensatie in tijd per maand krijgt zal deze blijven ontvangen, tenzij hij vóór 1 maart 2023 schriftelijk kenbaar heeft gemaakt alsnog compensatie in geld te willen.
 
-2. Op geleiders die niet voor de in het eerste lid gestelde datum voor compensatie in geld, als bedoeld in het eerste lid, hebben gekozen, blijft [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-04-01&g=2025-07-01), zoals dat luidde voor 1 maart 2023, van toepassing.
+2. Op geleiders die niet voor de in het eerste lid gestelde datum voor compensatie in geld, als bedoeld in het eerste lid, hebben gekozen, blijft [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027675&paragraaf=2&artikel=3&z=2025-07-10&g=2025-07-10), zoals dat luidde voor 1 maart 2023, van toepassing.
 
 ##### Artikel 14
 
