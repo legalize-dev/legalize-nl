@@ -4,7 +4,7 @@ identifier: "BWBR0033859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-10"
-last_updated: "2025-04-01"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033859"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **levensloopbijdragen:** de algemene levensloopbijdrage, de toelage bezwarende functies en de inhaaltoelage bezwarende functies, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12b), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12c) en [12d van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d);
 
-- f. **uurloon:** het salaris per uur, als bedoeld in artikel 1, eerste lid, onderdeel n, van het Bbp;
+- f. **uurloon:** het salaris per uur, als bedoeld in artikel 1, eerste lid, van het Bbp;
 
 - g. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
