@@ -4,7 +4,7 @@ identifier: "BWBR0051210"
 country: "nl"
 rank: "reglement"
 publication_date: "2025-07-10"
-last_updated: "2025-07-02"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051210"
 soort: "reglement"
@@ -109,7 +109,7 @@ Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De 
 
 2. De Griffier, als voorzitter, kan aanvullende vergaderingen bijeenroepen of de externe leden om advies vragen voor zover hij dat nodig acht.
 
-3. De Griffier, als voorzitter, kan ook andere personen dan de leden genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=2&artikel=2&z=2025-07-10&g=2025-07-02) uitnodigen om voor een specifiek onderwerp aan de vergadering deel te nemen.
+3. De Griffier, als voorzitter, kan ook andere personen dan de leden genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=2&artikel=2&z=2025-07-10&g=2025-07-10) uitnodigen om voor een specifiek onderwerp aan de vergadering deel te nemen.
 
 4. De leden kunnen onderwerpen aandragen ter bespreking in de vergaderingen.
 
@@ -149,7 +149,7 @@ De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informati
 
 1. Het Audit Committee evalueert ten minste een keer in de drie jaar zelf zijn functioneren. Het Audit Committee legt de uitkomsten van de evaluatie schriftelijk vast.
 
-2. De evaluatie, bedoeld in het eerste lid, heeft in elk geval betrekking op de uitoefening van de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=4&artikel=7&z=2025-07-10&g=2025-07-02).
+2. De evaluatie, bedoeld in het eerste lid, heeft in elk geval betrekking op de uitoefening van de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=4&artikel=7&z=2025-07-10&g=2025-07-10).
 
 ### Hoofdstuk 8. Slotbepalingen
 
