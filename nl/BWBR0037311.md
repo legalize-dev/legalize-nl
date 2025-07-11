@@ -4,7 +4,7 @@ identifier: "BWBR0037311"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-07-11"
-last_updated: "2025-07-01"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037311"
 soort: "ministeriele-regeling-BES"
@@ -46,6 +46,8 @@ In deze regeling wordt verstaan onder:
 
 - –. **aanvrager:** persoon die een verklaring van vakbekwaamheid aanvraagt;
 
+- –. **BIG-registratie:** registratie, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+
 - –. **inspectie:** Inspectie gezondheidzorg en jeugd;
 
 - –. **medisch beroep:** beroep van geneeskundige, tandheelkundige, apotheker of verloskundige;
@@ -62,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Verzoek om een ontheffing
 
-Voor het verzoek om een ontheffing of een aanvraag voor een verklaring van vakbekwaamheid kan gebruik worden gemaakt van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-01) van deze regeling gevoegde formulieren.
+Voor het verzoek om een ontheffing of een aanvraag voor een verklaring van vakbekwaamheid kan gebruik worden gemaakt van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-11) van deze regeling gevoegde formulieren.
 
 ##### Artikel 3. Voorschriften en beperkingen
 
@@ -84,13 +86,13 @@ De Minister kan zich laten adviseren door de Commissie buitenslands gediplomeerd
 
 - a. bij een aanvraag voor een verklaring van vakbekwaamheid;
 
-- b. over de aan een ontheffing te verbinden voorschriften of beperkingen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&artikel=3&z=2025-07-11&g=2025-07-01).
+- b. over de aan een ontheffing te verbinden voorschriften of beperkingen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&artikel=3&z=2025-07-11&g=2025-07-11).
 
 ##### Artikel 6. Gegevens bij aanvraag voor verklaring van vakbekwaamheid
 
 1. Bij een aanvraag voor een verklaring van vakbekwaamheid worden in ieder geval de volgende bescheiden overgelegd:
 
-- a. het desbetreffende door de Minister beschikbaar te stellen aanvraagformulier als opgenomen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-01), dat door aanvrager is ingevuld en ondertekend;
+- a. het desbetreffende door de Minister beschikbaar te stellen aanvraagformulier als opgenomen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-11), dat door aanvrager is ingevuld en ondertekend;
 
 - b. een fotokopie van het deel van een geldig paspoort op basis waarvan de identiteit van de aanvrager met voldoende zekerheid kan worden vastgesteld;
 
@@ -140,13 +142,13 @@ Deze regeling treedt in werking met ingang van 1 januari 2016.
 
 Bij de indiening van een verzoek om een ontheffing worden de volgende bescheiden (in pdf formaat) verstrekt:
 
-### B. Formulier verzoek om ontheffing uitoefening medisch beroep BES door verzoeker met Europees diploma vermeld in bijlage V van [Richtlijn 2005/36/EG](32005L0036):
+### B. Formulier verzoek om ontheffing uitoefening medisch beroep BES door verzoeker met Europees diploma vermeld in bijlage V van [Richtlijn 2005/36/EG](32005L0036) niet zijnde een Nederlands diploma:
 
 ### Vereiste documenten
 
 Bij de indiening van een verzoek om een ontheffing worden de volgende bescheiden (in pdf formaat) verstrekt:
 
-### C. Formulier verzoek tot ontheffing uitoefening medisch beroep BES door verzoeker meteen Europees diploma dat niet in bijlage V van [richtlijn 2005/36/EG](32005L0036) vermeld staat of een niet-Europees diploma:
+### C. Formulier verzoek tot ontheffing uitoefening medisch beroep BES door verzoeker met een Europees diploma dat niet in bijlage V van [richtlijn 2005/36/EG](32005L0036) vermeld staat of een niet-Europees diploma:
 
 ### Vereiste documenten
 
@@ -154,7 +156,7 @@ Bij de indiening van een verzoek om een ontheffing worden de volgende bescheiden
 
 ### Toelichting bij bovenstaande formulieren A, B en C:
 
-Een verzoek om een ontheffing wordt ingediend door toezending van het daarvoor bestemde formulier, dat op de site www.besontheffingen.nl verkrijgbaar is. De verzoeker moet het formulier volledig ingevuld en ondertekend opsturen per mail naar OntheffingenBESeilanden@vws.nl. Van belang is dat de verzoeker zelf zijn ontheffingsaanvraag ondertekent. Hieruit blijkt dat hij van het ontheffingsverzoek op de hoogte is en kan worden aangemerkt als de verzoeker van de ontheffing.
+Een verzoek om ontheffing wordt ingediend door toezending van een daarvoor bestemd formulier, dat ook beschikbaar is via het CIBG. De verzoeker dient het formulier volledig ingevuld en ondertekend in te dienen bij het CIBG. Het is van belang dat de verzoeker de ontheffingsaanvraag zelf ondertekent. Hiermee wordt bevestigd dat de verzoeker op de hoogte is van het verzoek en kan worden aangemerkt als de aanvrager van de ontheffing.
 
 Het formulier wordt in het Nederlands en Engels aangeboden. Het formulier mag ook in bovengenoemde talen worden ingevuld door verzoeker. De gegevens en bescheiden mogen in een van de officiële talen van de Europese Unie of de Europese Economische Ruimte worden gesteld. Bij het ontheffingsverzoek dienen dan wel gekwalificeerde vertalingen in het Nederlands of Engels van die gegevens en bescheiden te worden overgelegd. Met gekwalificeerde vertalingen wordt bedoeld dat de vertalingen zijn opgesteld door beëdigde vertalers.
 
@@ -172,7 +174,7 @@ Op het formulier moet verzoeker aangeven aan welke onderwijsinstelling(en) hij s
 
 Verzoeker dient aan te geven voor hoe lang hij een ontheffing wenst te verkrijgen voor zijn werkzaamheden op de openbare lichamen.
 
-Een ontheffing wordt verleend aan een medisch beroepsbeoefenaar voor ten hoogste vier jaar. Een ontheffing kan dus ook voor een kortere periode dan vier jaar worden verleend. Er worden geen ontheffingen verstrekt voor onbepaalde tijd Dit houdt onder andere verband met het feit dat er voorschriften en beperkingen kunnen worden verbonden aan ontheffingen en het wenselijk is dat deze eventueel kunnen worden aangepast na verloop van tijd.
+Een ontheffing wordt verleend aan een medisch beroepsbeoefenaar voor ten hoogste vier jaar. Een ontheffing kan dus ook voor een kortere periode dan vier jaar worden verleend. Er worden geen ontheffingen verstrekt voor onbepaalde tijd. Dit houdt onder andere verband met het feit dat er voorschriften en beperkingen kunnen worden verbonden aan ontheffingen en het wenselijk is dat deze eventueel kunnen worden aangepast na verloop van tijd.
 
 Bij het verlenen van de ontheffing wordt rekening gehouden met de duur en aard van de uit te oefenen beroepsactiviteiten van de medisch beroepsbeoefenaren op de openbare lichamen. De minister houdt bij het toekennen van een ontheffing rekening met de omstandigheden van het geval. Visiterende artsen van buiten de BES die de BES bijvoorbeeld voor langere tijd elke week een dag bezoeken om medische werkzaamheden te verrichten op de BES, kunnen voor maximaal 4 jaar een ontheffing krijgen.
 
@@ -180,7 +182,7 @@ De ontheffing vervalt na de daaraan verbonden termijn. Het valt onder de eigen v
 
 ### Antecedenten:
 
-Voorts dient verzoeker op het formulier antwoord te geven op bepaalde vragen, zoals de vraag of hij onder curatele is gesteld wegens een stoornis van de geestvermogens of de vraag of hij is ontzet uit het recht om het betrokken beroep uit te oefenen. Het is namelijk van belang dat de minister antwoord krijgt op deze vragen, aangezien dergelijke gegevens van belang zijn in verband met het toetsen van de ontheffingsaanvraag. Een ontheffing dient volgens [artikel 4 van het Besluit uitoefenen medisch beroep BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028397&artikel=4) te worden geweigerd op grond van zwaarwegende redenen in het belang van de volksgezondheid. In de toelichting bij dit artikel is aangegeven dat bij zwaarwegende redenen onder andere dient te worden gedacht aan omstandigheden die het niet meer verantwoord maken dat een beoefenaar van een medisch beroep zijn beroep uitoefent op de BES. Dit kan bijvoorbeeld het geval zijn bij:
+Voorts dient verzoeker op het formulier antwoord te geven op bepaalde vragen, zoals de vraag of hij onder curatele is gesteld wegens een stoornis van de geestvermogens en de vraag of hij is ontzet uit het recht om het betrokken beroep uit te oefenen. Het is namelijk van belang dat de minister antwoord krijgt op deze vragen, aangezien dergelijke gegevens van belang zijn in verband met het toetsen van de ontheffingsaanvraag. Een ontheffing dient volgens [artikel 4 van het Besluit uitoefenen medisch beroep BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028397&artikel=4) te worden geweigerd op grond van zwaarwegende redenen in het belang van de volksgezondheid. In de toelichting bij dit artikel is aangegeven dat bij zwaarwegende redenen onder andere dient te worden gedacht aan omstandigheden die het niet meer verantwoord maken dat een beoefenaar van een medisch beroep zijn beroep uitoefent op de BES. Dit kan bijvoorbeeld het geval zijn bij:
 
 De aanwezigheid van een van de vorenbedoelde omstandigheden kan een weigering van de ontheffing opleveren. Het is daarom noodzakelijk dat verzoeker op het formulier aangeeft of bepaalde maatregelen of geestestoestanden op hem van toepassing zijn.
 
