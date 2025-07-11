@@ -4,7 +4,7 @@ identifier: "BWBR0045607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045607"
 soort: "ministeriele-regeling"
@@ -118,21 +118,21 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die het vbo-profiel maritiem en techniek, bedoeld in [artikel 2.26, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.26), aanbiedt als het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen, al dan niet in combinatie met een maritieme leeromgeving, een onlosmakelijk onderdeel vormt van het maritiem vbo op de school.
 
-2. De aanvullende bekostiging bestaat in 2024 uit:
+2. De aanvullende bekostiging bestaat in 2025 uit:
 
-- a. een bedrag per school ter hoogte van € 2.664.095,95 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen;
+- a. een bedrag per school ter hoogte van € 2.797.684,04 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen;
 
-- b. een bedrag per leerling ter hoogte van € 1.713,31 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen; en
+- b. een bedrag per leerling ter hoogte van € 1.799,22 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen; en
 
-- c. een bedrag per school ter hoogte van € 2.413.342,95 voor de kosten van de maritieme leeromgeving.
+- c. een bedrag per school ter hoogte van € 2.534.357,32 voor de kosten van de maritieme leeromgeving.
 
-3. De aanvullende bekostiging bestaat in 2025 uit:
+3. De aanvullende bekostiging bestaat in 2026 uit:
 
-- a. een bedrag per school ter hoogte van € 2.664.095,95 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen;
+- a. een bedrag per school ter hoogte van € 2.794.079,47 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen;
 
-- b. een bedrag per leerling ter hoogte van € 1.713,31 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen; en
+- b. een bedrag per leerling ter hoogte van € 1.796,90 voor de kosten van het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen; en
 
-- c. een bedrag per school ter hoogte van € 2.413.342,95 voor de kosten van de maritieme leeromgeving.
+- c. een bedrag per school ter hoogte van € 2.531.092,02 voor de kosten van de maritieme leeromgeving.
 
 4. De aanvullende bekostiging, bedoeld in het tweede lid, onderdeel b, en derde lid, onderdeel b, wordt berekend op basis van het aantal leerlingen dat op de teldatum staat ingeschreven op het vbo-profiel maritiem en techniek.
 
@@ -140,23 +140,23 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat aanbiedt.
 
-2. De hoogte van de aanvullende bekostiging in 2024 wordt vastgesteld op € 1.265,52 per bekostigde leerling die op de teldatum is toegelaten tot een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat.
+2. De hoogte van de aanvullende bekostiging in 2025 wordt vastgesteld op € 1.328,98 per bekostigde leerling die op de teldatum is toegelaten tot een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat.
 
-3. De hoogte van de aanvullende bekostiging in 2025 wordt vastgesteld op € 1.265,52 per bekostigde leerling die op de teldatum is toegelaten tot een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat.
+3. De hoogte van de aanvullende bekostiging in 2026 wordt vastgesteld op € 1.327,27 per bekostigde leerling die op de teldatum is toegelaten tot een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat.
 
 ##### Artikel 6. Aanvullende bekostiging leerlingen in gemengde leerweg
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die de gemengde leerweg aanbiedt.
 
-2. De hoogte van de aanvullende bekostiging in 2024 wordt vastgesteld op € 358,61 per leerling die op de teldatum staat ingeschreven in het derde of vierde leerjaar van de gemengde leerweg.
+2. De hoogte van de aanvullende bekostiging in 2025 wordt vastgesteld op € 376,59 per leerling die op de teldatum staat ingeschreven in het derde of vierde leerjaar van de gemengde leerweg.
 
-3. De hoogte van de aanvullende bekostiging in 2025 wordt vastgesteld op € 358,61 per leerling die op de teldatum staat ingeschreven in het derde of vierde leerjaar van de gemengde leerweg.
+3. De hoogte van de aanvullende bekostiging in 2026 wordt vastgesteld op € 376,11 per leerling die op de teldatum staat ingeschreven in het derde of vierde leerjaar van de gemengde leerweg.
 
 ##### Artikel 7. Beschikking en betaling
 
-1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2024-06-12&g=2025-01-01), in januari van het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2024-06-12&g=2025-01-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
+1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2025-07-11&g=2025-07-11), in januari van het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2025-07-11&g=2025-07-11), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
 
-2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2024-06-12&g=2025-01-01) vindt jaarlijks in één termijn plaats in november.
+2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2025-07-11&g=2025-07-11) vindt jaarlijks in één termijn plaats in november.
 
 3. De aanvullende bekostiging wordt, uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft, herzien en wordt berekend op basis van:
 
@@ -176,15 +176,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
-1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01), op aanvraag van het bevoegd gezag ook verstrekken indien:
+1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11), op aanvraag van het bevoegd gezag ook verstrekken indien:
 
-- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
+- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
 
 - b. er door het bevoegd gezag een bijdrage wordt geleverd aan het tegengaan van segregatie doordat de leerlingen van de verschillende schoolsoorten samenkomen op de vestigingen in reguliere onderwijstijd. Het bevoegd gezag voldoet hieraan indien:
 
-- 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
+- 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
 
-- 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
+- 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
 
 - 3°. het bevoegd gezag aantoont dat minimaal 50% van de leerlingen minimaal 20% van hun onderwijstijd gedurende het schooljaar onderwijs volgt op beide vestigingen.
 
@@ -200,7 +200,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 7. Het bevoegd gezag maakt er bij de Minister schriftelijk melding van indien niet meer wordt voldaan aan het eerste lid. De toekenning zal dan voor het kalenderjaar daaropvolgend stoppen.
 
-8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2024-06-12&g=2025-01-01), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
+8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2025-07-11&g=2025-07-11), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
 
 ##### Artikel 8a. Omhangbepaling
 
@@ -209,6 +209,8 @@ Deze regeling is gebaseerd op [artikel 5.9, eerste lid, van de wet](https://wett
 ## Bijlage. behorende bij [artikel 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2024-06-12&g=2025-01-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden
 
 ### Aanvraagformulier aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
+
+Met dit formulier dient u een aanvraag in om in aanmerking te komen voor de aanvullende bekostiging voor een schoolcampus met een breed onderwijsaanbod. U dient dit formulier uiterlijk op 1 mei in of in 2022 uiterlijk op 1 juni. Uiterlijk op 1 augustus wordt een beslissing genomen over uw aanvraag. De beschikking en betaling vindt uiterlijk plaats in november.
 
 Met dit formulier dient u een aanvraag in om in aanmerking te komen voor de aanvullende bekostiging voor een schoolcampus met een breed onderwijsaanbod. U dient dit formulier uiterlijk op 1 mei in of in 2022 uiterlijk op 1 juni. Uiterlijk op 1 augustus wordt een beslissing genomen over uw aanvraag. De beschikking en betaling vindt uiterlijk plaats in november.
 
@@ -224,9 +226,9 @@ Of per e-mail naar: mailboxDGFO@minocw.nl.
 
 duo.nl/zakelijk
 
-ICO/VO (070) 757 51 22 bereikbaar van 09:00-13:00 op werkdagen.
-
 ### 1. Gegevens bevoegd gezag
+
+1.1 Bevoegd gezag-nummer
 
 1.1 Bevoegd gezag-nummer
 
@@ -234,9 +236,9 @@ ICO/VO (070) 757 51 22 bereikbaar van 09:00-13:00 op werkdagen.
 
 1.3 Correspondentieadres
 
-1.4 Postcode en plaats
-
 ### 2. Gegevens contactpersoon
+
+2.1 Achternaam
 
 2.1 Achternaam
 
@@ -244,15 +246,15 @@ ICO/VO (070) 757 51 22 bereikbaar van 09:00-13:00 op werkdagen.
 
 2.3 Telefoon
 
-2.4 E-mailadres
-
 ### 3. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
 Er zijn twee mogelijkheden waarop de aanvrager kan voldoen aan de voorwaarden om in aanmerking te komen. De eerste is door spreiding van het onderwijsaanbod over de twee dicht bij elkaar gelegen vestigingen. De tweede is door te motiveren dat leerlingen van verschillende onderwijssoorten elkaar in reguliere onderwijstijd ontmoeten op de vestigingen.
 
-**Lees verder in de toelichting**
+Er zijn twee mogelijkheden waarop de aanvrager kan voldoen aan de voorwaarden om in aanmerking te komen. De eerste is door spreiding van het onderwijsaanbod over de twee dicht bij elkaar gelegen vestigingen. De tweede is door te motiveren dat leerlingen van verschillende onderwijssoorten elkaar in reguliere onderwijstijd ontmoeten op de vestigingen.
 
 ### 3.1. Gegevens van de twee vestigingen die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn en samen een breed onderwijsaanbod bieden.
+
+**Vestiging 1**
 
 **Vestiging 1**
 
@@ -274,15 +276,15 @@ Postcode en plaats
 
 **Geef in de tabel aan in welke leerjaren van welke onderwijssoorten bekostigde leerlingen zijn ingeschreven op teldatum t-1 op vestiging 2, zet een kruisje in het bijbehorende vakje:**
 
-Let op: Uit de gegevens die DUO tot zijn beschikking heeft wordt gecontroleerd of wordt voldaan aan de voorwaarden in [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2024-06-12&g=2025-01-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
-
 ### 3.2. Motivatie bevoegd gezag
 
 Mochten de opgegeven vestigingen niet voldoen aan [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2024-06-12&g=2025-01-01), dan kunt u motiveren waarom wordt voldaan aan het volgende criterium:
 
-Minimaal 50% van de leerlingen volgt minimaal 20% van hun onderwijstijd onderwijs op beide vestigingen.
+Mochten de opgegeven vestigingen niet voldoen aan [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2025-07-11&g=2025-07-11), dan kunt u motiveren waarom wordt voldaan aan het volgende criterium:
 
 ### 4. Ondertekening
+
+Het bevoegd gezag verklaart bij wijzigingen de Minister schriftelijk op de hoogte te stellen indien er niet meer wordt voldaan aan de voorwaarden van de regeling.
 
 Het bevoegd gezag verklaart bij wijzigingen de Minister schriftelijk op de hoogte te stellen indien er niet meer wordt voldaan aan de voorwaarden van de regeling.
 
@@ -300,19 +302,57 @@ Het bevoegd gezag verklaart bij wijzigingen de Minister schriftelijk op de hoogt
 
 4.7 Datum
 
-4.8 Handtekening
-
 ### Toelichting
+
+De aanvraag voor aanvullende bekostiging schoolcampus met een breed aanbod is gebaseerd op de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
 
 De aanvraag voor aanvullende bekostiging schoolcampus met een breed aanbod is gebaseerd op de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
 
 Een scholengemeenschap heeft een schoolcampus met een breed onderwijsaanbod indien op de betreffende vestigingen op de teldatum leerlingen staan ingeschreven in:
 
-De afstand wordt gebaseerd op de gegevens zoals vastgelegd in RIO en berekend op basis van de formule opgenomen in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2024-06-12&g=2025-01-01), van de regeling.
+De afstand wordt gebaseerd op de gegevens zoals vastgelegd in RIO en berekend op basis van de formule opgenomen in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2025-07-11&g=2025-07-11), van de regeling.
 
 Om in aanmerking te komen voor de aanvullende bekostiging moet tevens voldaan worden aan de volgende voorwaarden:
 
 Onder de tweede voorwaarde wordt het volgende verstaan:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Aanvullende bekostiging praktijkonderwijs voor aanvullende loopbaanbegeleiding
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage. behorende bij [artikel 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2025-07-11&g=2025-07-11), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden
+
+### Aanvraagformulier aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
+
+ICO/VO (070) 757 51 22 bereikbaar van 09:00-13:00 op werkdagen.
+
+### 1. Gegevens bevoegd gezag
+
+1.4 Postcode en plaats
+
+### 2. Gegevens contactpersoon
+
+2.4 E-mailadres
+
+### 3. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
+
+**Lees verder in de toelichting**
+
+### 3.1. Gegevens van de twee vestigingen die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn en samen een breed onderwijsaanbod bieden.
+
+Let op: Uit de gegevens die DUO tot zijn beschikking heeft wordt gecontroleerd of wordt voldaan aan de voorwaarden in [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2025-07-11&g=2025-07-11), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
+
+### 3.2. Motivatie bevoegd gezag
+
+Minimaal 50% van de leerlingen volgt minimaal 20% van hun onderwijstijd onderwijs op beide vestigingen.
+
+### 4. Ondertekening
+
+4.8 Handtekening
+
+### Toelichting
 
 Onderdelen één en twee worden door DUO gecontroleerd op basis van de gegevens die vastgelegd zijn in RIO en BAG. Mochten de vestigingen in uw aanvraag niet aan deze voorwaarden voldoen dan moet u aannemelijk maken waarom het derde onderdeel voor deze vestigingen opgaat.
 
