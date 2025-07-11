@@ -4,7 +4,7 @@ identifier: "BWBR0050502"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-11"
-last_updated: "2024-12-04"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050502"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- b. **adviescommissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050502&artikel=2&z=2024-12-04&g=2024-12-04).
+- b. **adviescommissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050502&artikel=2&z=2025-07-11&g=2025-07-11).
 
 ##### Artikel 2. Instelling
 
@@ -118,7 +118,7 @@ Ter gelegenheid van de instelling van de adviescommissie wordt tot lid, tevens v
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
 
 3. De voorzitter en de andere leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
