@@ -4,7 +4,7 @@ identifier: "BWBR0049599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2024-04-24"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049599"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Het doel van deze regeling is de inzet en doorontwikkeling van groepshulpen met 
 
 ##### Artikel 4. Subsidievoorwaarden
 
-Subsidie op grond van deze regeling wordt slechts verstrekt indien aan alle onderstaande voorwaarden is voldaan:
+1. Subsidie op grond van deze regeling wordt slechts verstrekt indien aan alle onderstaande voorwaarden is voldaan:
 
 - a. aan de aanvrager is ook subsidie verstrekt op grond van de [Subsidieregeling praktijkleren in de derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0046007) of op grond van de [Subsidieregeling praktijkleren](https://wetten.overheid.nl/jci1.3:c:BWBR0034144);
 
@@ -94,6 +94,20 @@ Subsidie op grond van deze regeling wordt slechts verstrekt indien aan alle onde
 
 - i. de aanvrager ontvangt door de subsidieverstrekking niet meer steun dan geoorloofd is op grond van artikel 3, tweede lid, van de [Verordening (EU) nr. 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L 2023/2831).
 
+2. De scholing via praktijkleren in het mbo of de gerealiseerde praktijkleerplaats, bedoeld in het eerste lid, onderdeel c, bestaat uit:
+
+- a. een beroepsopleiding op mbo-1 niveau als bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een onderdeel daarvan waarvoor een certificaat als bedoeld in [artikel 7.2.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3) of een verklaring als bedoeld in [artikel 7.4.6a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6a) kan worden verkregen;
+
+- b. een beroepsopleiding op mbo-2 niveau als bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een onderdeel daarvan waarvoor een certificaat als bedoeld in [artikel 7.2.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3) of een verklaring als bedoeld in [artikel 7.4.6a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6a) kan worden verkregen; of
+
+- c. een van de volgende mbo-3 niveau certificaten:
+
+- 1°. C0123 Ontwikkeling en spelen stimuleren in de kinderopvang;
+
+- 2°. C0125 Pedagogisch klimaat in de kinderopvang; of
+
+- 3°. C0126 Professioneel samenwerken en communiceren in de kinderopvang.
+
 ##### Artikel 5. Aanvraagtermijn
 
 1. Een subsidieaanvraag kan bij de minister worden ingediend in de volgende aanvraagtijdvakken:
@@ -104,7 +118,7 @@ Subsidie op grond van deze regeling wordt slechts verstrekt indien aan alle onde
 
 - c. van de eerste maandag van november 2026, 09:00 uur, tot en met de laatste vrijdag van november 2026, 17:00 uur.
 
-2. In geval het indienen van een subsidieaanvraag op of kort voor de sluitingsdatum van een aanvraagtijdvak langere tijd niet mogelijk is aan de kant van het elektronisch loket, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=2&artikel=8&z=2024-04-24&g=2024-04-24), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een subsidieaanvraag bepalen. De minister maakt dit tijdstip bekend op [www.rvo.nl](http://www.rvo.nl).
+2. In geval het indienen van een subsidieaanvraag op of kort voor de sluitingsdatum van een aanvraagtijdvak langere tijd niet mogelijk is aan de kant van het elektronisch loket, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=2&artikel=8&z=2025-07-12&g=2025-07-12), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een subsidieaanvraag bepalen. De minister maakt dit tijdstip bekend op [www.rvo.nl](http://www.rvo.nl).
 
 3. Alleen volledige subsidieaanvragen worden in behandeling genomen. Indien een subsidieaanvraag onvolledig is en de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn subsidieaanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de volledige aanvraag is ontvangen.
 
@@ -120,7 +134,11 @@ Het subsidieplafond bedraagt:
 
 ##### Artikel 7. Subsidiebedrag
 
-1. Iedere aanvrager ontvangt per aanvraagtijdvak subsidie voor maximaal twee groepshulpen.
+1. Iedere aanvrager ontvangt per aanvraagtijdvak subsidie voor maximaal:
+
+- a. twee groepshulpen in het aanvraagtijdvak in 2024;
+
+- b. tien groepshulpen in de aanvraagtijdvakken in 2025 en 2026.
 
 2. De subsidie betreft een tegemoetkoming in de loonkosten van de groepshulp naar rato van het aantal contracturen dat de groepshulp op basis van de arbeidsovereenkomst per week werkzaam is, met een maximum van 36 contracturen.
 
@@ -158,7 +176,7 @@ De minister beslist binnen 13 weken na sluiting van het aanvraagtijdvak op aanvr
 
 ##### Artikel 12. Bewaartermijn
 
-Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidieontvanger de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=1&artikel=4&z=2024-04-24&g=2024-04-24) gedurende vijf jaren bewaart na datum van het vaststellingsbesluit. Deze overeenkomst kan door de minister steekproefsgewijs worden opgevraagd met het oog op het toezicht op de naleving van deze regeling.
+Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidieontvanger de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=1&artikel=4&z=2025-07-12&g=2025-07-12) gedurende vijf jaren bewaart na datum van het vaststellingsbesluit. Deze overeenkomst kan door de minister steekproefsgewijs worden opgevraagd met het oog op het toezicht op de naleving van deze regeling.
 
 #### Paragraaf 3. Mandaatverlening en toezicht
 
@@ -180,7 +198,7 @@ Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidie
 
 1. De minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens op basis van deze regeling.
 
-2. RVO is verwerker voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde taken, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=3&artikel=13&z=2024-04-24&g=2024-04-24) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=4&artikel=16&z=2024-04-24&g=2024-04-24).
+2. RVO is verwerker voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde taken, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=3&artikel=13&z=2025-07-12&g=2025-07-12) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=4&artikel=16&z=2025-07-12&g=2025-07-12).
 
 ##### Artikel 15. Toezicht
 
