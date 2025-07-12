@@ -4,7 +4,7 @@ identifier: "BWBR0037142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2024-11-28"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037142"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **tentoonstelling:** tijdelijke tentoonstelling in Nederland die een compilatie vormt van belangrijke voorwerpen, al dan niet in combinatie met andere cultuurgoederen, in een samenhang die in het algemeen niet in Nederland te zien is en een visie biedt op periodes, kwesties, personen of producten van cultuurhistorische betekenis;
 
-- e. **indemniteitsverklaring:** beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2024-11-28&g=2024-11-28), wordt verleend;
+- e. **indemniteitsverklaring:** beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2025-07-12&g=2025-07-12), wordt verleend;
 
 - f. **indemniteitspercentage:** deel van de totale verzekerde waarde van de voorwerpen die voor een indemniteitsverklaring in aanmerking komen, uitgedrukt in procenten waarbij de totale verzekerde waarde 100 is.
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Aanvraag
 
-1. De aanvraag voor een indemniteitsverklaring wordt ingediend op uiterlijk 31 augustus 2025.
+1. De aanvraag voor een indemniteitsverklaring wordt ingediend op uiterlijk 31 augustus 2030.
 
 2. Bij de aanvraag wordt gebruik gemaakt van een door de minister vastgesteld aanvraagformulier.
 
@@ -100,9 +100,9 @@ In deze regeling wordt verstaan onder:
 
 4. De verzekeringsofferte bevat in ieder geval de verzekeringspremie zonder korting en een opgave van de korting die wordt gegeven bij een indemniteitspercentage van ten hoogste 30 procent, waarbij de gevraagde subsidie ten hoogste € 70 miljoen bedraagt.
 
-5. Bij de aanvraag verklaart een instelling te voldoen aan de eisen over de veiligheid van de voorwerpen en de beveiliging van de instelling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=8&z=2024-11-28&g=2024-11-28). Op verzoek van de minister overlegt de instelling de documenten, bedoeld in artikel 8, en worden de veiligheidsmaatregelen ter plekke getoond.
+5. Bij de aanvraag verklaart een instelling te voldoen aan de eisen over de veiligheid van de voorwerpen en de beveiliging van de instelling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=8&z=2025-07-12&g=2025-07-12). Op verzoek van de minister overlegt de instelling de documenten, bedoeld in artikel 8, en worden de veiligheidsmaatregelen ter plekke getoond.
 
-6. De aanvraag heeft betrekking op een periode die aanvangt voor de vervaldatum van deze regeling, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=14&z=2024-11-28&g=2024-11-28).
+6. De aanvraag heeft betrekking op een periode die aanvangt voor de vervaldatum van deze regeling, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=14&z=2025-07-12&g=2025-07-12).
 
 ##### Artikel 6. Subsidieverlening
 
@@ -114,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 4. Op de indemniteitsverklaring is een eigen risico van toepassing dat de minister overeenkomstig de tabellen in de bijlage vaststelt. Dit bedrag wordt in mindering gebracht op de subsidie in het geval zich verlies of schade voordoet waarop de indemniteitsverklaring van toepassing is.
 
-5. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister een aanvraag voor een indemniteitsverklaring indien de aanvraag betrekking heeft op een periode die aanvangt na de vervaldatum van deze regeling, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=14&z=2024-11-28&g=2024-11-28).
+5. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister een aanvraag voor een indemniteitsverklaring indien de aanvraag betrekking heeft op een periode die aanvangt na de vervaldatum van deze regeling, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=14&z=2025-07-12&g=2025-07-12).
 
 ##### Artikel 7. Algemene verplichtingen
 
@@ -146,13 +146,13 @@ Gedurende de periode waarop de indemniteitsverklaring betrekking heeft:
 
 ##### Artikel 10. Vaststelling subsidie
 
-1. Na ontvangst van de documenten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2024-11-28&g=2024-11-28), stelt de minister de subsidie binnen dertien weken vast.
+1. Na ontvangst van de documenten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2025-07-12&g=2025-07-12), stelt de minister de subsidie binnen dertien weken vast.
 
-2. De subsidie wordt vastgesteld op het bedrag van de schade waarop de indemniteitsverklaring van toepassing is met een maximum van het daarin aangegeven bedrag, verminderd met het eigen risico, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=6&z=2024-11-28&g=2024-11-28).
+2. De subsidie wordt vastgesteld op het bedrag van de schade waarop de indemniteitsverklaring van toepassing is met een maximum van het daarin aangegeven bedrag, verminderd met het eigen risico, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=6&z=2025-07-12&g=2025-07-12).
 
 ##### Artikel 11. Melding gewijzigde kosten en wijziging vaststelling
 
-1. Indien na de vaststelling van de subsidie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2024-11-28&g=2024-11-28), blijkt dat de kosten lager zijn dan de verstrekte subsidie, meldt de instelling dit aan de minister.
+1. Indien na de vaststelling van de subsidie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2025-07-12&g=2025-07-12), blijkt dat de kosten lager zijn dan de verstrekte subsidie, meldt de instelling dit aan de minister.
 
 2. In een geval als bedoeld in het eerste lid kan de minister de beschikking tot subsidievaststelling wijzigen.
 
@@ -166,7 +166,7 @@ Vervallen
 
 ##### Artikel 14. Inwerkingtreding en horizonbepaling
 
-Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2026.
+Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2031.
 
 ##### Artikel 15. Citeertitel
 
