@@ -4,7 +4,7 @@ identifier: "BWBR0048365"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2024-11-26"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048365"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling wordt verstaan onder:
 
 - **arbeidsorganisatie:** publieke of private werkgever die binnen een samenwerkingsverband de aanleiding vormt voor het ontwerpen en het ontwikkelen van een LLO-oplossing niet zijnde een publieke opleider;
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2024-11-26&g=2024-11-26);
+- **beoordelingscommissie:** commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2025-07-12&g=2025-07-12);
 
-- **cofinanciering:** cofinanciering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=17&z=2024-11-26&g=2024-11-26);
+- **cofinanciering:** cofinanciering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=17&z=2025-07-12&g=2025-07-12);
 
 - **co-makerschap:** vorm van partnerschap waarin de samenwerking dusdanig is dat alle deelnemers invloed hebben op en bijdragen aan het ontwikkelproces van een LLO-oplossing en een aantoonbaar belang hebben bij het resultaat van de samenwerking;
 
@@ -60,9 +60,9 @@ In deze regeling wordt verstaan onder:
 
 - **energie- en grondstoffentransitie:** overgang van het gebruik van fossiele energie naar energie uit hernieuwbare bronnen en de overgang van een lineaire economie naar een circulaire economie waarin geen verspilling bestaat;
 
-- **groot project:** project als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2024-11-26&g=2024-11-26);
+- **groot project:** project als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
-- **klein project:** project als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2024-11-26&g=2024-11-26);
+- **klein project:** project als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
 - **LLO:** Leven Lang Ontwikkelen;
 
@@ -74,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - **model:** beschrijving van het eindproduct van de LLO-oplossing waaruit in elk geval blijkt welk competentieknelpunt het eindproduct oplost, op welke doelgroep het is gericht en hoe de LLO-oplossing uitvoerbaar, kostendekkend en schaalbaar in de praktijk gebracht kan worden;
 
-- **penvoerder:** penvoerder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2024-11-26&g=2024-11-26);
+- **penvoerder:** penvoerder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
 - **project:** in het kader van deze subsidieregeling ontplooide activiteiten van een samenwerkingsverband om te komen tot een LLO-oplossing;
 
 - **publieke opleider:** instelling als bedoeld in [artikel 1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) of [1.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.2) of instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=4&z=2024-11-26&g=2024-11-26);
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=4&z=2025-07-12&g=2025-07-12);
 
 - **testen:** in de praktijk testen van een conceptversie van een LLO-oplossing of een onderdeel daarvan door de deelnemers aan een samenwerkingsverband, met het doel de LLO-oplossing door te ontwikkelen tot een eindproduct;
 
@@ -118,23 +118,29 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 5. Subsidieplafond
 
-1. Voor subsidieverstrekking op aanvragen die in de eerste aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2024-11-26&g=2024-11-26), zijn ingediend, is een bedrag van € 17.500.000 beschikbaar, waarvan:
+1. Voor subsidieverstrekking op aanvragen die in de eerste aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 17.500.000 beschikbaar, waarvan:
 
 - a. € 2.250.000 beschikbaar is voor kleine projecten; en
 
 - b. € 15.250.000 beschikbaar is voor grote projecten.
 
-2. Voor subsidieverstrekking op aanvragen die in de tweede aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2024-11-26&g=2024-11-26), zijn ingediend, is een bedrag van € 20.500.000 beschikbaar, waarvan:
+2. Voor subsidieverstrekking op aanvragen die in de tweede aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 20.500.000 beschikbaar, waarvan:
 
 - a. € 1.000.000 beschikbaar is voor kleine projecten; en
 
 - b. € 19.500.000 beschikbaar is voor grote projecten.
 
-3. Voor subsidieverstrekking op aanvragen die in de derde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2024-11-26&g=2024-11-26), zijn ingediend, is een bedrag van € 26.250.000 beschikbaar, waarvan:
+3. Voor subsidieverstrekking op aanvragen die in de derde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 26.250.000 beschikbaar, waarvan:
 
 - a. € 1.250.000 beschikbaar is voor kleine projecten; en
 
 - b. € 25.000.000 beschikbaar is voor grote projecten.
+
+4. Voor subsidieverstrekking op aanvragen die in de vierde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 5.450.257,00 beschikbaar, waarvan:
+
+- a. € 375.000 beschikbaar is voor kleine projecten; en
+
+- b. € 5.075.257 beschikbaar is voor grote projecten.
 
 ##### Artikel 6. Algemene bepalingen subsidieaanvraag
 
@@ -144,7 +150,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. van 1 april 2024 tot en met 15 april 2024;
 
-- c. van 18 november tot en met 2 december 2024.
+- c. van 18 november tot en met 2 december 2024;
+
+- d. van 15 september tot en met 22 september 2025.
 
 2. Aanvragen die buiten een in het eerste lid bedoelde aanvraagperiode worden ingediend, worden afgewezen.
 
@@ -158,7 +166,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 7. Te subsidiëren activiteiten
 
-1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een klein project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2024-11-26&g=2024-11-26).
+1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een klein project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12).
 
 2. Een klein project is gericht op een onderdeel van het ontwikkelproces van een LLO-oplossing in het kader van de energie- en grondstoffentransitie. Subsidiabele activiteiten voor een klein project zijn:
 
@@ -170,15 +178,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 8. Subsidieaanvraag klein project
 
-In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2024-11-26&g=2024-11-26), dient de penvoerder die subsidie aanvraagt voor een klein project de volgende documenten in:
+In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), dient de penvoerder die subsidie aanvraagt voor een klein project de volgende documenten in:
 
-- a. een visiedocument als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=9&z=2024-11-26&g=2024-11-26);
+- a. een visiedocument als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=9&z=2025-07-12&g=2025-07-12);
 
-- b. een activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=10&z=2024-11-26&g=2024-11-26);
+- b. een activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=10&z=2025-07-12&g=2025-07-12);
 
-- c. een begroting als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=11&z=2024-11-26&g=2024-11-26);
+- c. een begroting als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=11&z=2025-07-12&g=2025-07-12);
 
-- d. een samenwerkingsovereenkomst als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=12&z=2024-11-26&g=2024-11-26); en
+- d. een samenwerkingsovereenkomst als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=2&artikel=12&z=2025-07-12&g=2025-07-12); en
 
 - e. een samenvatting van de aanvraag die openbaar gemaakt kan worden.
 
@@ -268,7 +276,7 @@ Aan de penvoerder die subsidie ontvangt voor een klein project, worden de volgen
 
 ##### Artikel 14. Vaststelling en verantwoording
 
-1. Indien de aanvraag voor een klein project ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2024-11-26&g=2024-11-26) voor subsidie in aanmerking komt, stelt de minister de subsidie direct vast binnen 22 weken na de sluiting van de desbetreffende aanvraagronde.
+1. Indien de aanvraag voor een klein project ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12) voor subsidie in aanmerking komt, stelt de minister de subsidie direct vast binnen 22 weken na de sluiting van de desbetreffende aanvraagronde.
 
 2. De verantwoording over de verstrekte subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
@@ -284,7 +292,7 @@ Het subsidiebedrag voor een klein project wordt ineens betaald.
 
 ##### Artikel 16. Te subsidiëren activiteiten
 
-1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een groot project als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2024-11-26&g=2024-11-26).
+1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een groot project als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12).
 
 2. Een groot project is gericht op de ontwikkeling en de realisatie van een LLO-oplossing. Subsidiabele activiteiten voor een groot project zijn:
 
@@ -308,15 +316,15 @@ Het subsidiebedrag voor een klein project wordt ineens betaald.
 
 ##### Artikel 18. Subsidieaanvraag groot project
 
-In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2024-11-26&g=2024-11-26), dient de penvoerder die subsidie aanvraagt voor een groot project de volgende documenten in:
+In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), dient de penvoerder die subsidie aanvraagt voor een groot project de volgende documenten in:
 
-- a. een visiedocument als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=19&z=2024-11-26&g=2024-11-26);
+- a. een visiedocument als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=19&z=2025-07-12&g=2025-07-12);
 
-- b. een activiteitenplan als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=20&z=2024-11-26&g=2024-11-26);
+- b. een activiteitenplan als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=20&z=2025-07-12&g=2025-07-12);
 
-- c. een begroting als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=21&z=2024-11-26&g=2024-11-26);
+- c. een begroting als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=21&z=2025-07-12&g=2025-07-12);
 
-- d. een samenwerkingsovereenkomst als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=22&z=2024-11-26&g=2024-11-26); en
+- d. een samenwerkingsovereenkomst als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=22&z=2025-07-12&g=2025-07-12); en
 
 - e. een samenvatting van de aanvraag die openbaar gemaakt kan worden.
 
@@ -410,7 +418,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 - c. de penvoerder zendt binnen 13 weken na de afronding van het project, doch uiterlijk binnen 13 weken na het einde van de in onderdeel a bedoelde termijn, een eindrapportage aan de minister met daarin een model van de LLO-oplossing, die is opgesteld met gebruikmaking van het format dat daartoe door DUS-I beschikbaar is gesteld;
 
-- d. indien sprake is van een subsidietoekenning als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2024-11-26&g=2024-11-26), is de penvoerder verplicht om binnen vier maanden na ontvangst van de beschikkingsbrief een rapportage aan de Minister te sturen waarin hij aantoont dat de in de beschikking gestelde verbeteringen zijn doorgevoerd, en voert hij een toelichtingsgesprek met de beoordelingscommissie over de rapportage en de voortgang van het project. De beoordelingscommissie adviseert vervolgens de Minister over continuering van het project;
+- d. indien sprake is van een subsidietoekenning als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12), is de penvoerder verplicht om binnen vier maanden na ontvangst van de beschikkingsbrief een rapportage aan de Minister te sturen waarin hij aantoont dat de in de beschikking gestelde verbeteringen zijn doorgevoerd, en voert hij een toelichtingsgesprek met de beoordelingscommissie over de rapportage en de voortgang van het project. De beoordelingscommissie adviseert vervolgens de Minister over continuering van het project;
 
 - e. de penvoerder verleent gedurende de looptijd van de regeling op verzoek van de minister medewerking aan regionale of sectorale bijeenkomsten om aldaar de opgedane inzichten van het project toe te lichten;
 
@@ -428,9 +436,9 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 ##### Artikel 24. Verlening en verantwoording
 
-1. Indien een aanvraag ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2024-11-26&g=2024-11-26) voor subsidie in aanmerking komt, verleent de minister de subsidie. De Minister besluit binnen 22 weken op de aanvragen voor grote projecten.
+1. Indien een aanvraag ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12) voor subsidie in aanmerking komt, verleent de minister de subsidie. De Minister besluit binnen 22 weken op de aanvragen voor grote projecten.
 
-2. In afwijking van het eerste lid besluit de Minister voor subsidieaanvragen die zijn toegekend met een aanvullende verplichting als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2024-11-26&g=2024-11-26), binnen 13 weken na ontvangst van de rapportage, bedoeld in [artikel 23, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=23&z=2024-11-26&g=2024-11-26), of het project alsnog als voldoende wordt beoordeeld. Indien de Minister op basis van de rapportage en het advies van de beoordelingscommissie op basis van het toelichtingsgesprek, het project als onvoldoende beoordeelt, kan de subsidieontvanger de activiteiten waarvoor subsidie is verstrekt, niet voortzetten. De subsidieontvanger verantwoordt de niet-afgeronde activiteiten onder toepassing van het derde lid.
+2. In afwijking van het eerste lid besluit de Minister voor subsidieaanvragen die zijn toegekend met een aanvullende verplichting als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12), binnen 13 weken na ontvangst van de rapportage, bedoeld in [artikel 23, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=23&z=2025-07-12&g=2025-07-12), of het project alsnog als voldoende wordt beoordeeld. Indien de Minister op basis van de rapportage en het advies van de beoordelingscommissie op basis van het toelichtingsgesprek, het project als onvoldoende beoordeelt, kan de subsidieontvanger de activiteiten waarvoor subsidie is verstrekt, niet voortzetten. De subsidieontvanger verantwoordt de niet-afgeronde activiteiten onder toepassing van het derde lid.
 
 3. De verantwoording over de verleende subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 2.
 
@@ -444,7 +452,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 1. De subsidie voor een groot project wordt ieder kwartaal bij voorschot verleend, waarbij het eerste voorschot 35% van de totale toegekende subsidie bedraagt en de overige voorschotten als gelijke delen van het resterende subsidiebedrag worden uitgekeerd.
 
-2. In afwijking van het eerste lid, wordt voor een toegekende subsidie op een aanvraag met beoordeling bijna voldoende als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2024-11-26&g=2024-11-26), een voorschot toegekend van 20% van de totale toegekende subsidie. Na een positief besluit van de Minister op de rapportage, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=24&z=2024-11-26&g=2024-11-26), wordt de resterende 80% van het toegekende subsidiebedrag bevoorschot in gelijke delen per kwartaal van de resterende subsidieperiode.
+2. In afwijking van het eerste lid, wordt voor een toegekende subsidie op een aanvraag met beoordeling bijna voldoende als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12), een voorschot toegekend van 20% van de totale toegekende subsidie. Na een positief besluit van de Minister op de rapportage, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=24&z=2025-07-12&g=2025-07-12), wordt de resterende 80% van het toegekende subsidiebedrag bevoorschot in gelijke delen per kwartaal van de resterende subsidieperiode.
 
 #### Paragraaf 4. Beoordeling subsidieaanvragen en verdeling subsidie
 
@@ -454,7 +462,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 2. Na de sluitingsdatum van de desbetreffende aanvraagperiode worden de ingediende volledige aanvragen, voor grote en voor kleine projecten afzonderlijk, beoordeeld door de beoordelingscommissie en voorzien van een advies aan de minister.
 
-3. De beoordelingscommissie beoordeelt de aanvragen aan de hand van het beoordelingskader dat is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2024-11-26&g=2024-11-26) bij deze regeling.
+3. De beoordelingscommissie beoordeelt de aanvragen aan de hand van het beoordelingskader dat is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2025-07-12&g=2025-07-12) bij deze regeling.
 
 4. Aanvragen voor kleine projecten worden alleen schriftelijk beoordeeld als voldoende of onvoldoende.
 
@@ -462,9 +470,9 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 6. Aanvragen voor grote projecten die als voldoende zijn beoordeeld worden gerangschikt op basis van hun score zodanig dat een hoger toegekende puntenscore ook leidt tot een hogere rangschikking.
 
-7. Voor aanvragen van kleine en grote projecten geldt dat de minimale score voldoende moet zijn op elk van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2024-11-26&g=2024-11-26) bedoelde criteria Impact, Kwaliteit en Verankering, om direct van een positief advies voorzien te worden.
+7. Voor aanvragen van kleine en grote projecten geldt dat de minimale score voldoende moet zijn op elk van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2025-07-12&g=2025-07-12) bedoelde criteria Impact, Kwaliteit en Verankering, om direct van een positief advies voorzien te worden.
 
-8. De beoordelingscommissie kan adviseren om aanvragen voor grote projecten die niet op elk van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2024-11-26&g=2024-11-26) bedoelde criteria Impact, Kwaliteit en Verankering een voldoende scoren en waarbij het aannemelijk is dat het project met een extra kwaliteitsslag alsnog als voldoende kan worden beoordeeld, te beoordelen als bijna voldoende, waarbij de commissie adviseert over de verbeteringen die de subsidieaanvrager binnen uiterlijk vier maanden na ontvangst van de beschikking dient door te voeren om alsnog als voldoende te worden beoordeeld.
+8. De beoordelingscommissie kan adviseren om aanvragen voor grote projecten die niet op elk van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2025-07-12&g=2025-07-12) bedoelde criteria Impact, Kwaliteit en Verankering een voldoende scoren en waarbij het aannemelijk is dat het project met een extra kwaliteitsslag alsnog als voldoende kan worden beoordeeld, te beoordelen als bijna voldoende, waarbij de commissie adviseert over de verbeteringen die de subsidieaanvrager binnen uiterlijk vier maanden na ontvangst van de beschikking dient door te voeren om alsnog als voldoende te worden beoordeeld.
 
 9. Aanvragen die zijn beoordeeld als bijna voldoende komen uitsluitend in aanmerking voor een positief advies en worden uitsluitend onderling gerangschikt, indien er na rangschikking van de als voldoende beoordeelde grote projectaanvragen nog budget resteert.
 
@@ -488,15 +496,15 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 1. De minister beoordeelt de aanvragen met kennisneming van het advies van de beoordelingscommissie.
 
-2. Indien in een aanvraagronde bij toewijzing van alle door de minister als voldoende beoordeelde aanvragen voor een klein project, het desbetreffende subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=5&z=2024-11-26&g=2024-11-26), zou worden overschreden, bepaalt de minister de rangschikking van de aanvragen op basis van loting.
+2. Indien in een aanvraagronde bij toewijzing van alle door de minister als voldoende beoordeelde aanvragen voor een klein project, het desbetreffende subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=5&z=2025-07-12&g=2025-07-12), zou worden overschreden, bepaalt de minister de rangschikking van de aanvragen op basis van loting.
 
-3. De minister bepaalt de rangschikking van de als voldoende beoordeelde aanvragen voor grote projecten aan de hand van de kwaliteit van de aanvragen op basis van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2024-11-26&g=2024-11-26), en verdeelt het beschikbare bedrag op basis van deze rangschikking totdat het budget voor die aanvraagronde is uitgeput.
+3. De minister bepaalt de rangschikking van de als voldoende beoordeelde aanvragen voor grote projecten aan de hand van de kwaliteit van de aanvragen op basis van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&bijlage=1&z=2025-07-12&g=2025-07-12), en verdeelt het beschikbare bedrag op basis van deze rangschikking totdat het budget voor die aanvraagronde is uitgeput.
 
-4. Indien de minister aan meerdere aanvragen een gelijk puntenaantal heeft toegekend, en het desbetreffende in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=5&z=2024-11-26&g=2024-11-26) bedoelde subsidieplafond ontoereikend is om alle gelijke gewaardeerde aanvragen te kunnen toewijzen, bepaalt de minister de rangschikking van deze aanvragen op basis van loting.
+4. Indien de minister aan meerdere aanvragen een gelijk puntenaantal heeft toegekend, en het desbetreffende in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=5&z=2025-07-12&g=2025-07-12) bedoelde subsidieplafond ontoereikend is om alle gelijke gewaardeerde aanvragen te kunnen toewijzen, bepaalt de minister de rangschikking van deze aanvragen op basis van loting.
 
 5. Indien in een aanvraagronde voor grote projecten budget resteert, maar een gerangschikt voorstel niet volledig te honoreren is, wordt aan de subsidieaanvrager voorgesteld met het nog resterende bedrag van het subsidiebudget zijn project in volledige of aangepaste vorm uit te voeren. Indien de betreffende aanvrager hiermee niet akkoord gaat wordt de aanvraag niet toegekend.
 
-6. Indien in een aanvraagronde voor grote projecten na toepassing van het derde, vierde en vijfde lid van dit artikel budget resteert, kan de Minister de als bijna voldoende beoordeelde aanvragen toekennen met de aanvullende verplichting, bedoeld in [artikel 23, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=23&z=2024-11-26&g=2024-11-26). Ten aanzien van de rangschikking en toekenning van deze aanvragen zijn het derde, vierde en vijfde lid van overeenkomstige toepassing.
+6. Indien in een aanvraagronde voor grote projecten na toepassing van het derde, vierde en vijfde lid van dit artikel budget resteert, kan de Minister de als bijna voldoende beoordeelde aanvragen toekennen met de aanvullende verplichting, bedoeld in [artikel 23, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=23&z=2025-07-12&g=2025-07-12). Ten aanzien van de rangschikking en toekenning van deze aanvragen zijn het derde, vierde en vijfde lid van overeenkomstige toepassing.
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -512,7 +520,7 @@ Deze regeling wordt aangehaald als Subsidieregeling LLO-Katalysator (LLO-oplossi
 
 ## Bijlage 1. Beoordelingskader
 
-Deze bijlage behoort bij [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2024-11-26&g=2024-11-26), van de Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026
+Deze bijlage behoort bij [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2025-07-12&g=2025-07-12), van de Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026
 
 | Criterium | Minimumvereisten |
 | --- | --- |
