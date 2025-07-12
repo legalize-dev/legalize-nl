@@ -4,7 +4,7 @@ identifier: "BWBR0049581"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2025-01-01"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049581"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **de-minimisverordening:** [Verordening (EU) nr. 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de­minimissteun (Pb L van 15.12.2023);
 
-- **digitale of hybride processen in zorg of ondersteuning:** processen waarin zorg of ondersteuning aan cliënten geleverd wordt die digitaal of deels digitaal ingericht zijn en die voldoen aan de voorwaarden, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01);
+- **digitale of hybride processen in zorg of ondersteuning:** processen waarin zorg of ondersteuning aan cliënten geleverd wordt die digitaal of deels digitaal ingericht zijn en die voldoen aan de voorwaarden, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-07-12&g=2025-07-12);
 
 - **investering in of exploitatie van een innovatiecluster:** de bouw of het upgraden van een innovatiecluster als bedoeld in artikel 27, vijfde lid, van de algemene groepsvrijstellingsverordening of de exploitatie van een innovatiecluster als bedoeld in artikel 27, zevende lid, van de algemene groepsvrijstellingsverordening;
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **proces- en organisatie-innovatie:** procesinnovatie als bedoeld in artikel 2, onderdeel 97 en organisatie-innovatie als bedoeld in artikel 2, onderdeel 96, van de algemene groepsvrijstellingsverordening;
 
-- **samenwerkingsverband:** georganiseerd verband zonder rechtspersoonlijkheid, niet zijnde een vennootschap, dat voldoet aan de voorwaarden bedoeld in [artikel 11 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01);
+- **samenwerkingsverband:** georganiseerd verband zonder rechtspersoonlijkheid, niet zijnde een vennootschap, dat voldoet aan de voorwaarden bedoeld in [artikel 11 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-07-12&g=2025-07-12);
 
 - **STOZ-overzicht:** overzicht van digitale en hybride processen in zorg of ondersteuning dat staat gepubliceerd op [www.rvo.nl](http://www.rvo.nl);
 
@@ -156,13 +156,17 @@ De minister kan subsidie verstrekken aan:
 
 5. Het maximumbedrag aan subsidie voor strategievorming is € 25.000.
 
+6. De hoogte van de subsidie wordt berekend op basis van de werkelijk gemaakte kosten.
+
+7. In afwijking van het zesde lid kan de hoogte van de personele kosten worden berekend op basis van de laagste trede van de functieschaal of salarisschaal van de toepasselijke collectieve arbeidsovereenkomst.
+
 ##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bedraagt:
 
 - a. voor het jaar 2024 € 54.000.000;
 
-- b. voor het jaar 2025 € 27.000.000.
+- b. voor het jaar 2025 € 54.000.000.
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van volledige aanvragen.
 
@@ -202,7 +206,7 @@ Bij aanvragen vanaf € 125.000 wint de minister advies in bij de adviescommissi
 
 - b. bij hen gezamenlijk op zestig cliënten, mantelzorgers of zorg- of ondersteuningsmedewerkers, mantelzorgers of zorg- of ondersteuningsmedewerkers; en
 
-- c. op ten minste een van de twee doelen uit deze regeling zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=3&z=2025-01-01&g=2025-01-01).
+- c. op ten minste een van de twee doelen uit deze regeling zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=3&z=2025-07-12&g=2025-07-12).
 
 2. Digitale of hybride processen in zorg of ondersteuning zijn niet primair gericht op:
 
@@ -236,7 +240,7 @@ Bij aanvragen vanaf € 125.000 wint de minister advies in bij de adviescommissi
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht:
 
-- a. de inkoper die genoemd wordt in de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=9&z=2025-01-01&g=2025-01-01), de hele subsidieperiode te betrekken;
+- a. de inkoper die genoemd wordt in de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=9&z=2025-07-12&g=2025-07-12), de hele subsidieperiode te betrekken;
 
 - b. actief deel te nemen aan kennisdeling, onder andere door geleerde lessen en resultaten te delen;
 
@@ -268,7 +272,7 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-## Bijlage. Beoordelingscriteria als bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01)
+## Bijlage. Beoordelingscriteria als bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-07-12&g=2025-07-12)
 
 | **Criteria Kwaliteit Activiteitenplan** |
 | --- |
