@@ -4,7 +4,7 @@ identifier: "BWBV0007060"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-07-15"
-last_updated: "2018-07-23"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007060"
 soort: "verdrag"
@@ -54,7 +54,7 @@ De mogelijkheden voorzien in [artikel 16 van het Politieverdrag](https://wetten.
 
 1. Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
-- a. Contactpunt: aangewezen functionaris, zoals aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&bijlage=I&z=2018-07-23&g=2018-07-23) bij deze Uitvoeringsovereenkomst;
+- a. Contactpunt: aangewezen functionaris, zoals aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&bijlage=I&z=2025-07-15&g=2025-07-15) bij deze Uitvoeringsovereenkomst;
 
 - b. Gegevensset: verzameling van gegevens die raadpleegbaar zijn voor de uitvoering van politietaken en deel uitmaken van de in [bijlage 6 bij het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6) genoemde databanken;
 
@@ -74,7 +74,7 @@ De mogelijkheden voorzien in [artikel 16 van het Politieverdrag](https://wetten.
 
 3. De raadpleging beperkt zich tot de gegevenssets waartoe de ambtenaren van de bevoegde diensten van de Partij wier databanken worden geraadpleegd, toegang hebben tijdens de gemengde patrouilles of gemeenschappelijke controle.
 
-4. De gegevensset die raadpleegbaar is voor de bevoegde diensten van de andere Partij wordt vastgelegd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&bijlage=II&z=2018-07-23&g=2018-07-23) bij deze Uitvoeringsovereenkomst.
+4. De gegevensset die raadpleegbaar is voor de bevoegde diensten van de andere Partij wordt vastgelegd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&bijlage=II&z=2025-07-15&g=2025-07-15) bij deze Uitvoeringsovereenkomst.
 
 5. Externe databanken mogen alleen worden geraadpleegd voor zover deze opgenomen werden in [bijlage 6 bij het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6) en met inachtneming van de erop van toepassing zijnde nationale wetgeving.
 
@@ -96,9 +96,9 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 ##### Artikel 5. Autorisatieproces
 
-1. De Partijen verstrekken elkaar lijsten met de namen van hun ambtenaren voor wie ze een autorisatie als bedoeld in [artikel 16, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=16) wensen te bekomen, alsook telkens de gegevens van de eenheden van de bevoegde dienst of diensten van de andere Partij met wie de respectieve ambtenaren gewoonlijk de gemengde patrouilles en gemeenschappelijke controles zullen uitvoeren, evenals alle verdere gegevens die nodig zijn om aan te tonen dat de betreffende ambtenaren voldoen aan de voorwaarden vermeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2018-07-23&g=2018-07-23), van deze Uitvoeringsovereenkomst. De uitwisseling van deze gegevens vindt plaats tussen de contactpunten.
+1. De Partijen verstrekken elkaar lijsten met de namen van hun ambtenaren voor wie ze een autorisatie als bedoeld in [artikel 16, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=16) wensen te bekomen, alsook telkens de gegevens van de eenheden van de bevoegde dienst of diensten van de andere Partij met wie de respectieve ambtenaren gewoonlijk de gemengde patrouilles en gemeenschappelijke controles zullen uitvoeren, evenals alle verdere gegevens die nodig zijn om aan te tonen dat de betreffende ambtenaren voldoen aan de voorwaarden vermeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15), van deze Uitvoeringsovereenkomst. De uitwisseling van deze gegevens vindt plaats tussen de contactpunten.
 
-2. De contactpunten dragen zorg dat de autorisaties op naam worden verleend dan wel worden beëindigd. Ze houden hierbij rekening met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst vermelde voorwaarden voor autorisatie.
+2. De contactpunten dragen zorg dat de autorisaties op naam worden verleend dan wel worden beëindigd. Ze houden hierbij rekening met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst vermelde voorwaarden voor autorisatie.
 
 3. Personele mutaties als indiensttreding, uittreding, wijziging van eenheid of functie eenheid of langdurige afwezigheid worden wederzijds zo snel mogelijk doorgegeven via de contactpunten.
 
@@ -108,11 +108,11 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 ##### Artikel 6. Screening
 
-De Partijen zijn zelf verantwoordelijk voor de screening van hun ambtenaren als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst. De Partijen aanvaarden de waarde van elkaars screening en voeren geen aanvullende eigen screening uit.
+De Partijen zijn zelf verantwoordelijk voor de screening van hun ambtenaren als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst. De Partijen aanvaarden de waarde van elkaars screening en voeren geen aanvullende eigen screening uit.
 
 ##### Artikel 7. Opleidingen/instructies
 
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst bedoelde opleidingen en instructies worden verstrekt door de Partij die de autorisatie voor de toegang tot haar databanken dient te verlenen. De volgende elementen maken in elk geval deel uit van deze opleiding of instructie:
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst bedoelde opleidingen en instructies worden verstrekt door de Partij die de autorisatie voor de toegang tot haar databanken dient te verlenen. De volgende elementen maken in elk geval deel uit van deze opleiding of instructie:
 
 - a. de technisch-functionele omgang met elkaars databanken;
 
@@ -154,9 +154,9 @@ De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging 
 
 6. Bij signalen of vermoedens van oneigenlijke raadplegingen verstrekt de Partij die de raadpleging in kwestie heeft gelogd de relevante loggegevens aan de Partij wiens bevoegde dienst de gegevens heeft geraadpleegd.
 
-7. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=8&z=2018-07-23&g=2018-07-23), kunnen bij signalen of vermoedens van oneigenlijk gebruik per direct de autorisatie van de betrokken ambtenaar of de autorisaties van alle ambtenaren van de betrokken bevoegde dienst opschorten of beëindigen.
+7. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=8&z=2025-07-15&g=2025-07-15), kunnen bij signalen of vermoedens van oneigenlijk gebruik per direct de autorisatie van de betrokken ambtenaar of de autorisaties van alle ambtenaren van de betrokken bevoegde dienst opschorten of beëindigen.
 
-8. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=8&z=2018-07-23&g=2018-07-23), houden een register bij van de vastgestelde oneigenlijke raadplegingen, zoals bedoeld in het zesde en zevende lid van onderhavig artikel, dat telkens de aard van de oneigenlijke raadpleging, de aanduiding van de databank in kwestie en de genomen maatregel of maatregelen vermeldt. Deze registers worden aan de bevoegde toezichthoudende autoriteiten van beide Partijen, zoals bedoeld in artikel 41 van [Richtlijn (EU) 2016/680](32016L0680), bezorgd zodra deze daar om verzoeken.
+8. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=8&z=2025-07-15&g=2025-07-15), houden een register bij van de vastgestelde oneigenlijke raadplegingen, zoals bedoeld in het zesde en zevende lid van onderhavig artikel, dat telkens de aard van de oneigenlijke raadpleging, de aanduiding van de databank in kwestie en de genomen maatregel of maatregelen vermeldt. Deze registers worden aan de bevoegde toezichthoudende autoriteiten van beide Partijen, zoals bedoeld in artikel 41 van [Richtlijn (EU) 2016/680](32016L0680), bezorgd zodra deze daar om verzoeken.
 
 ##### Artikel 13. Geschillen
 
