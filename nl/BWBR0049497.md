@@ -4,7 +4,7 @@ identifier: "BWBR0049497"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-15"
-last_updated: "2025-03-18"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049497"
 soort: "AMvB"
@@ -176,7 +176,7 @@ De Autoriteit Financiële Markten: ten aanzien van artikelen 5 ter, en 15, voor 
 
 De Nederlandsche Bank: ten aanzien van de artikelen 4, eerste tot en met derde lid, 4 bis, 6 bis, tweede lid, 11, 12, voor zover de tegenpartij een bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 14 tot en met 21, 25 tot en met 35 en 40 tot en met 54.
 
-De Nederlandsche Bank: ten aanzien van de artikelen 4, eerste tot en met derde lid, 4 bis, 6 bis, tweede lid, 11, 12, voor zover de tegenpartij een bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 14 tot en met 21, 25 tot en met 35 en 40 tot en met 54.
+De Nederlandsche Bank: ten aanzien van de artikelen 4, eerste tot en met derde lid, 4 bis, 4 ter, eerste en tweede lid, 6 bis, tweede lid, 7 bis, 7 ter, 7 quinquies, 11, 12, voor zover de tegenpartij een bank, clearinginstelling, herverzekeraar, pensioenfonds of verzekeraar is, alsmede ten aanzien van de artikelen 7 sexies, 14 tot en met 21, 25 tot en met 35 en 40 tot en met 54.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
@@ -1172,7 +1172,7 @@ De Autoriteit Consument en Markt: ten aanzien van artikel 8.
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-De Autoriteit Financiële Markten: ten aanzien van de artikelen 4, 11, 12, voor zover de tegenpartij geen bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 4, derde lid bis, 5 tot en met 10, 36 tot en met 39, 57, 59, 61 tot en met 63, 68 en 71 tot en met 74.
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 4, eerste en tweede lid, 4 bis, 4 ter, eerste tot en met derde lid, 6 bis, tweede lid, 7 bis, 7 ter, 7 quinquies, 11, 12, voor zover de tegenpartij geen bank, clearinginstelling, herverzekeraar, pensioenfonds of verzekeraar is, alsmede ten aanzien van de artikelen 4, derde lid bis, 4 ter, vijfde lid, 5 tot en met 7, 7 quater, 8 tot en met 10, 36 tot en met 39, 57, 59, 61 tot en met 63, 68 en 71 tot en met 74.
 
 ### 3. Samenwerking bevoegde autoriteiten
 
