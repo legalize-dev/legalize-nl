@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-07-12"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Besluiten:
 | [Titel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26): Sanering garnalenvisserij | [Artikel 2.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) | Garnalenvissers |   |   | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
 | [Titel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.4): MKB-innovatiestimulering topsectoren | [3.4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.4.20) | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 08-04-2025 t/m 27-05-2025 | € 3.550.000 |
 |   |   | MIT-R&D-samenwerkingsprojecten |   |   | 10-06-2025 t/m 16-09-2025 | € 3.115.000, waarvan ten hoogste € 1.557.500 voor MIT-R&D-samenwerkingsprojecten groot |
-| [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   |   | 24-10-2024 t/m 30-01-2025 | € 7.500.000 |
+| [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   |   | 24-10-2024 t/m 30-01-2025 | € 9.500.000 |
 | [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | Innovatie (internationaal) | 01-01-2025 t/m 21-01-2025 | € 12.175.000 |
 |   | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | Innovatie (internationaal) | 07-07-2025 t/m 05-08-2025 | € 11.859.000 |
 | [Titel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.8): Internationaal Innoveren | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | ITEA4-Innovatieprojecten | Marktgerichte software innovatie | Marktgerichte software innovatie | 01-04-2025 t/m 18-04-2025 | € 7.250.000 |
@@ -84,6 +84,7 @@ Besluiten:
 |   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   |   | 01-01-2025 t/m 31-12-2025 | € 3.000.000 |
 |   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |   |   | 06-01-2025 t/m 04-03-2025 | € 4.950.000 |
 |   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2-innovatieve starter |   |   | 07-07-2025 t/m 16-09-2025 | € 4.950.000 |
+| [Titel 3.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.18a): Mijn cyberweerbare zaak | [3.18a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.18a.2) |   |   |   | 18-07 2025 t/m 31-10-2025 | € 1.000.000 |
 | [Titel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.19) Duurzame innovatieve scheepsbouw | [3.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.19.2) |   |   |   | 10-07-2025 t/m 13-11-2025 | € 5.000.000 |
 | [Titel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.22): Thematische Technology Transfer | [3.22.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2) |   |   |   | 16-12-2024 t/m 15-04-2025 | € 40.000.000 |
 |   | [3.22.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2a) |   | Thematisch technology transferplan gericht op pandemische paraatheid | Thematisch technology transferplan gericht op pandemische paraatheid | 16-12-2024 t/m 15-04-2025 | € 8.000.000 |
@@ -94,6 +95,8 @@ Besluiten:
 | [Titel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.28): Programma Digitaal Europa | [3.28.2, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 100.000 |
 |   | [3.28.2, eerste lid, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 1.250.000 |
 |   | [3.28.2, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 2.000.000 |
+|   | [3.28.2, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 04-08-2025 t/m 29-08-2025 | € 1.800.000 |
+|   | [3.28.2, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 04-08-2025 t/m 29-08-2025 | € 550.000 |
 | [Titel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.30): CircularPlastics NL | [3.30.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.30.2) | Circular Plastics NL-onderzoeksprojecten |   |   | 18-02-2025 t/m 20-05-2025 | € 4.500.000 |
 |   |   | Circular Plastics NL-showcase projecten |   |   | 18-02-2025 t/m 20-05-2025 | € 37.500.000 |
 | [Titel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.31): Circular Batteries | [3.31.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.31.2) |   | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 13.500.000 |
