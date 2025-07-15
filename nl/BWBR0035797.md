@@ -4,7 +4,7 @@ identifier: "BWBR0035797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-15"
-last_updated: "2024-07-26"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035797"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als beroepsopleiding of school als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035797&bijlage=A&z=2024-07-26&g=2024-07-26).
+Als beroepsopleiding of school als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035797&bijlage=A&z=2025-07-15&g=2025-07-15).
 
 ##### Artikel 2
 
@@ -2274,71 +2274,1865 @@ Deze regeling wordt aangehaald als: Regeling dubbele kinderbijslag om onderwijsr
 
 ## Bijlage A. Lijst van aangewezen beroepsopleidingen
 
+| erkende opleiding | erkende opleidingsnaam | niveau | leerweg | naam instelling | naam onderwijsaanbieder | postcode plaats vestiging | adres vestiging |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25881 | Mediamanager | 4 | bol voltijd | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25881 | Mediamanager | 4 | bol voltijd | Grafisch Lyceum Utrecht | Grafisch Lyceum Utrecht | 3521GH Utrecht | Vondellaan 178 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | ROC A12 | ROC A12 | 6883CN Velp | Gruttostraat 10 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Tilburg | 5038CB Tilburg | Spoorlaan 21 j |
+| 25582 | Adviseur leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Tilburg | 5038CB Tilburg | Spoorlaan 21 j |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25980 | Vakexpert voeding, kwaliteit en productontwikkeling | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25996 | Coördinator duurzaamheid | 4 | bol voltijd | Yuverta | Yuverta mbo Tilburg | 5038CB Tilburg | Spoorlaan 21 j |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25996 | Coördinator duurzaamheid | 4 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Amsterdam | 1069RS Amsterdam | Jan van Zutphenstraat 60 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25989 | Vakexpert agrohandel en logistiek | 4 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25996 | Coördinator duurzaamheid | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25881 | Mediamanager | 4 | bol voltijd | MBO Utrecht | Herman Brood Academie | 3526AB Utrecht | Australiëlaan 25 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | mboRijnland | mboRijnland MBO College Techniek & ICT | 2321KS Leiden | Bètaplein 18 |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | mboRijnland | mboRijnland MBO College Techniek & ICT | 2333CK Leiden | Zernikedreef 11 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | mboRijnland | mboRijnland MBO College Techniek & ICT | 2333CK Leiden | Zernikedreef 11 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | mboRijnland | mboRijnland MBO College Techniek & ICT | 2321KS Leiden | Bètaplein 18 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Deltion College | Deltion College – Sport, Opvoeding & Maatschappij | 8031AA Zwolle | Mozartlaan 15 |
+| 25653 | Musicalperformer | 4 | bol voltijd | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25631 | Opticien | 4 | bol voltijd | Deltion College | Deltion College – Welzijn & Gezondheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25941 | Technicus mechanica luchtvaartuigen | 4 | bol voltijd | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25938 | Eerste monteur luchtvaartuigen | 3 | bol voltijd | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25346 | Operationeel technicus | 3 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | ROC A12 | ROC A12 | 6717LG Ede | Reehorsterweg 80 |
+| 25716 | Allround medewerker AV-productie | 3 | bol voltijd | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7418CC Deventer | Schonenvaardersstraat 6 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25685 | Fashion Retailer | 3 | bol voltijd | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25985 | Vakbekwaam medewerker agrohandel en logistiek | 3 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25713 | Manager mobiliteitsbranche | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25608 | Facilitair leidinggevende | 4 | bbl | ROC AVENTUS | Aventus sector Economie & Handel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bbl | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | ROC A12 | ROC A12 | 6717LG Ede | Reehorsterweg 80 |
+| 25631 | Opticien | 4 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3318AL Dordrecht | Karel Lotsyweg 20 |
+| 25345 | Allround operationeel technicus | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25631 | Opticien | 4 | bbl | Deltion College | Deltion College – Welzijn & Gezondheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25185 | Meewerkend horeca ondernemer | 4 | bbl | Deltion College | Deltion College – Horeca, Reizen & Dienstverlening | 8031AA Zwolle | Mozartlaan 15 |
+| 25647 | Leidinggevende travel & hospitality | 4 | bbl | ROC A12 | ROC A12 | 6717LG Ede | Reehorsterweg 80 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Hoornbeeck College | Hoornbeeck College | 4043KD Opheusden | Bomenlaan 1 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bbl | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25889 | Eerste monteur koude- en klimaatsystemen | 3 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 6717LN Ede | Zandlaan 29 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25830 | Eerste verbrandingsmotortechnicus | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25661 | Allround interieurvakman woningstofferen | 3 | bbl | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 27010 | Eerste monteur gas-, water- of warmtedistributie | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 27014 | Eerste monteur hoogspanningstransport | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25956 | Allround keukenmonteur | 3 | bbl | Hoornbeeck College | Hoornbeeck College | 3818ET Amersfoort | Utrechtseweg 230 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25878 | Junior manager groothandel | 4 | bbl | Deltion College | Deltion College – Economie & Ondernemen | 8031AA Zwolle | Mozartlaan 15 |
+| 25876 | E-commerce specialist | 4 | bbl | Deltion College | Deltion College – Economie & Ondernemen | 8031AA Zwolle | Mozartlaan 15 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25987 | Vakbekwaam medewerker biologisch-dynamische landbouw | 3 | bbl | Aeres (V) MBO | Aeres MBO Dronten Warmonderhof | 8251PC Dronten | Wisentweg 10 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25713 | Manager mobiliteitsbranche | 4 | bbl | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25608 | Facilitair leidinggevende | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25597 | Allround medewerker maritieme techniek | 3 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Aeres (V) MBO | Aeres MBO Dronten Warmonderhof | 8251PC Dronten | Wisentweg 10 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223GW ’s-Hertogenbosch | Vlijmenseweg 2 |
+| 25749 | Medewerker evenementenorganisatie | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223GW ’s-Hertogenbosch | Vlijmenseweg 2 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bbl | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25276 | Technicus elektrotechniek | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223GW ’s-Hertogenbosch | Vlijmenseweg 2 |
+| 25913 | Hoefsmid | 3 | bbl | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 27010 | Eerste monteur gas-, water- of warmtedistributie | 3 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25277 | Technicus gas | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223GW ’s-Hertogenbosch | Vlijmenseweg 2 |
+| 25590 | Technicus water | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25277 | Technicus gas | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25950 | Machinist hijswerk | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25948 | Machinist grondverzet | 3 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | Summa College | Summa Automotive | 5282RL Boxtel | De Tijvert 2 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25839 | Technicus hout en restauratie | 3 | bbl | Talland College | Techniek | 1508GE Zaandam | Jufferstraat 1 |
+| 25971 | Schipper binnenvaart | 3 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25072 | Juwelier | 4 | bbl | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25011 | Vakkracht industrieel lakverwerker | 3 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25973 | Bootman | 3 | bbl | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Rijn IJssel | Economie, Uiterlijke Verzorging, CIOS & Veiligheid | 6825HN Arnhem | Middachtensingel 2 |
+| 25880 | Ondernemer handel | 4 | bbl | Firda | Firda Drachten | 9203KK Drachten | Burgemeester Wuiteweg 22 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25987 | Vakbekwaam medewerker biologisch-dynamische landbouw | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Dronten Warmonderhof | 8251PC Dronten | Wisentweg 10 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25954 | Technicus hout en restauratie | 3 | bol voltijd | Talland College | Techniek | 1508GE Zaandam | Jufferstraat 1 |
+| 25597 | Allround medewerker maritieme techniek | 3 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25856 | Basisgoudsmid | 3 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25913 | Hoefsmid | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8914BD Leeuwarden | Anne Wadmanwei 6 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25694 | Pedicure | 3 | bol voltijd | Rijn IJssel | Economie, Uiterlijke Verzorging, CIOS & Veiligheid | 6825HN Arnhem | Middachtensingel 2 |
+| 25630 | Allround Medewerker Optiek | 3 | bol voltijd | Zadkine | Zadkine Optiek College | 3068AV Rotterdam | Marten Meesweg 50 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7461AK Rijssen | Reggesingel 54 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25857 | Goudsmid | 4 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25652 | Danser | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25692 | Allround make-up and hair artist | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25652 | Danser | 4 | bol voltijd | ROC Nova College | Nova College Campus Haarlem | 2015CE Haarlem | Bijdorplaan 15 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25548 | Creatief Vakman | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25884 | Eerste autoschadehersteller | 3 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25957 | Vakexpert Geo, data & design | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25980 | Vakexpert voeding, kwaliteit en productontwikkeling | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25692 | Allround make-up and hair artist | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuid | 1079PC Amsterdam | Europaboulevard 13 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | Talland College | Techniek | 1624NP Hoorn | Maelsonstraat 24 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25834 | Eerste monteur utiliteit | 3 | bol voltijd | Yonder | Bouw-, installatie- en onderhoudstechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25582 | Adviseur leefomgeving | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25652 | Danser | 4 | bol voltijd | Noorderpoort | Lucia Marthas Institute for Performing Arts | 9747AS Groningen | Zernikeplein 7 |
+| 25613 | Machinist railvervoer | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Summa College | Summa Beauty and Lifestyle | 5624EB Eindhoven | Vijfkamplaan 4 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 27017 | Werkbegeleider zorgboerderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25881 | Mediamanager | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1217ZC Hilversum | Koos Postemalaan 4 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | Summa College | Summa Fashion | 5611BA Eindhoven | Professor Dr Dorgelolaan 2 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25652 | Danser | 4 | bol voltijd | Noorderpoort | Lucia Marthas Institute for Performing Arts | 1072HK Amsterdam | Rustenburgerstraat 436 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25653 | Musicalperformer | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6822ET Arnhem | Kazerneplein 6-1 |
+| 25793 | Aviation operations specialist | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132WV Hoofddorp | Diamantlaan 29 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Albeda | Albeda Beauty & Fashioncollege | 3079DC Rotterdam | Haastrechtstraat 3 |
+| 25631 | Opticien | 4 | bol voltijd | Zadkine | Zadkine Optiek College | 3068AV Rotterdam | Marten Meesweg 50 |
+| 25631 | Opticien | 4 | bol voltijd | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 6 |
+| 25971 | Schipper binnenvaart | 3 | bbl | ROC Nova College | Nova College Maritiem College | 8861KM Harlingen | Almenumerweg 1 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25652 | Danser | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuid | 1079PC Amsterdam | Europaboulevard 13 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bol voltijd | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | ROC Midden Nederland | Tech Campus | 3439MA Nieuwegein | Structuurbaan 19 |
+| 27017 | Werkbegeleider zorgboerderij | 3 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Zone.college | Zone.college mbo | 7417BJ Deventer | Snipperlingsdijk 2 |
+| 25652 | Danser | 4 | bol voltijd | ROC Midden Nederland | Creative College | 3562CS Utrecht | Brandenburchdreef 20 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuid | 1079PC Amsterdam | Europaboulevard 13 |
+| 25588 | Gezel schilder | 3 | bol voltijd | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25073 | Medewerker Juwelier | 3 | bbl | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25971 | Schipper binnenvaart | 3 | bbl | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | ROC Midden Nederland | Tech Campus | 3439MB Nieuwegein | Structuurbaan 6 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25969 | Audicien | 4 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25185 | Meewerkend horeca ondernemer | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 25631 | Opticien | 4 | bbl | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 6 |
+| 25749 | Medewerker evenementenorganisatie | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25631 | Opticien | 4 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6042GE Roermond | Bredeweg 235 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 23365 | Schoonheidsverzorging | 4 | bbl | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 4 |
+| 25880 | Ondernemer handel | 4 | bbl | ROC van Twente | ROC van Twente, College voor Commercie & Ondernemen | 7543BK Enschede | Wethouder Beversstraat 165 |
+| 25880 | Ondernemer handel | 4 | bbl | VISTA College | VISTA college | 6419AW Heerlen | Valkenburgerweg 148 |
+| 25631 | Opticien | 4 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | Noorderpoort | Europapark 2 | 9723ZS Groningen | Boumaboulevard 113 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 27005 | Decoratie- en restauratieschilder | 4 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25647 | Leidinggevende travel & hospitality | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25185 | Meewerkend horeca ondernemer | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25990 | Vakexpert veehouderij | 4 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25608 | Facilitair leidinggevende | 4 | bbl | Summa College | Summa Facilitair | 5631KA Eindhoven | Sterrenlaan 10 |
+| 25798 | Allround podium- en evenemententechnicus | 4 | bbl | ROC Midden Nederland | Creative College | 3562CS Utrecht | Brandenburchdreef 20 |
+| 25667 | Technisch oogheelkundig assistent | 4 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25985 | Vakbekwaam medewerker agrohandel en logistiek | 3 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25889 | Eerste monteur koude- en klimaatsystemen | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7606JJ Almelo | De Sumpel 4 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7553AE Hengelo | Lansinkesweg 28 A |
+| 25940 | Constructie repair specialist | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132XV Hoofddorp | Opaallaan 25 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25971 | Schipper binnenvaart | 3 | bbl | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25925 | Allround machineoperator meubelindustrie/(scheeps)interieurbouw | 3 | bbl | ROC Rivor | Gilde | 4204GH Gorinchem | Gildenweg 4 |
+| 25888 | Servicemonteur koude- en klimaatsystemen | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bbl | Zadkine | Techniek College Rotterdam – Mobiliteit | 3089JW Rotterdam | Scheepsbouwweg 1 |
+| 25978 | Vakbekwaam medewerker voeding, technologie en techniek | 3 | bbl | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25948 | Machinist grondverzet | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 23313 | Metselen | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5246JK Rosmalen | De Kleine Elst 11 |
+| 23330 | Tegelzetten | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5246JK Rosmalen | De Kleine Elst 11 |
+| 23313 | Metselen | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 23329 | Service- en onderhoudstechniek | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 23361 | Productietechniek | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 23375 | Luchtvaarttechniek | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132XV Hoofddorp | Opaallaan 25 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8914BD Leeuwarden | Anne Wadmanwei 6 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Summa College | Summa Bouw | 5503LL Veldhoven | De Run 4250 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25588 | Gezel schilder | 3 | bol voltijd | VISTA College | VISTA college | 6191BG Beek | Stationstraat 100 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25828 | Allround timmerman | 3 | bol voltijd | Talland College | Techniek | 1703DC Heerhugowaard | W.M. Dudokweg 66 |
+| 25828 | Allround timmerman | 3 | bol voltijd | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25602 | Aankomend onderofficier maritiem | 3 | bol voltijd | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4463AB Goes | Zwembadweg 3 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | Talland College | Techniek | 1508GE Zaandam | Jufferstraat 1 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1016SB Amsterdam | Elandsstraat 175 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25989 | Vakexpert agrohandel en logistiek | 4 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25778 | Air cargo specialist | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132WV Hoofddorp | Diamantlaan 29 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | Firda | Firda Heerenveen | 8448JA Heerenveen | Abe Lenstra boulevard 29 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25230 | Eerste Fietstechnicus | 3 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25346 | Operationeel technicus | 3 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25954 | Technicus hout en restauratie | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7553AE Hengelo | Lansinkesweg 28 A |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Creatieve industrie & ICT | 7511JX Enschede | Ariënsplein 3 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 25653 | Musicalperformer | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuid | 1057DT Amsterdam | Postjesweg 1 |
+| 25716 | Allround medewerker AV-productie | 3 | bol voltijd | C I B A P | Cibap vakschool voor vormgeving | 8031DZ Zwolle | Nijverheidstraat 11 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Zadkine | Zadkine Beauty & Fashion College | 3032CC Rotterdam | Benthemplein 15 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | Zadkine | Zadkine Beauty & Fashion College | 3032CC Rotterdam | Benthemplein 15 |
+| 25881 | Mediamanager | 4 | bol voltijd | ROC Nova College | Nova College Campus Haarlem | 2015CK Haarlem | Zijlweg 203 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | Summa College | Summa Brood en Banket | 5631KA Eindhoven | Sterrenlaan 10 |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | ROC Nijmegen eo | ROC Nijmegen directie Economie | 6512BT Nijmegen | Campusbaan 6 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25821 | Eerste monteur service en onderhoud werktuigkundige installaties | 3 | bol voltijd | VISTA College | VISTA college | 6224DC Maastricht | Sibemaweg 20 |
+| 25938 | Eerste monteur luchtvaartuigen | 3 | bol voltijd | VISTA College | VISTA college | 6199AC Maastricht-Airport | Horsterweg 13 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8924EP Leeuwarden | Egelantierstraat 70 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25925 | Allround machineoperator meubelindustrie/(scheeps)interieurbouw | 3 | bol voltijd | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Firda | Firda Emmeloord | 8302DC Emmeloord | Espelerlaan 74 |
+| 25875 | Consulent commerciële arbeidsbemiddeling | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8914BX Leeuwarden | Stadionplein 23 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | ROC Ter AA | Ter AA Bouw en infra | 5731PC Mierlo | Goorsedijk 6 |
+| 25938 | Eerste monteur luchtvaartuigen | 3 | bol voltijd | Yonder | Luchtvaarttechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25828 | Allround timmerman | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25803 | Handhaver toezicht en veiligheid Generieke opsporing (domein VI) | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132XV Hoofddorp | Opaallaan 25 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25602 | Aankomend onderofficier maritiem | 3 | bol voltijd | Zadkine | Zadkine Veiligheidsacademie & Sport | 3192CD Hoogvliet Rotterdam | Campusplein 16 |
+| 25805 | Handhaver toezicht en veiligheid Openbaar vervoer (domein IV) | 3 | bol voltijd | MBO Amersfoort | School voor Veiligheid | 3825BT Amersfoort | Valutaboulevard 20 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan Metaal-, Elektro-installatietechniek | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25965 | Uurwerktechnisch restauratiespecialist | 4 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25653 | Musicalperformer | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan Toerisme & Recreatie en evenementen | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan Autotechniek & Mobiliteit | 2491BE ’s-Gravenhage | Neckar 1 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | Summa College | Summa Automotive | 5708JZ Helmond | Automotive Campus 50 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25179 | Gespecialiseerd kok | 4 | bol voltijd | Albeda | Albeda Horecacollege | 3071AL Rotterdam | Rosestraat 1101 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25941 | Technicus mechanica luchtvaartuigen | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132XV Hoofddorp | Opaallaan 25 |
+| 25793 | Aviation operations specialist | 4 | bol voltijd | STC | College Logistiek en Vervoer | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25881 | Mediamanager | 4 | bol voltijd | SiNTLUCAS | SintLucas | 5617BB Eindhoven | Torenallee 75 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25948 | Machinist grondverzet | 3 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6042EX Roermond | Burghoffweg 9 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 23365 | Schoonheidsverzorging | 3 | bbl | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 4 |
+| 25597 | Allround medewerker maritieme techniek | 3 | bbl | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25648 | Zelfstandig medewerker leisure & hospitality | 3 | bbl | Zadkine | Zadkine Hospitality College | 3032CC Rotterdam | Benthemplein 15 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25949 | Machinist wegenbouw | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25662 | Allround interieurvakman parketvloeren | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25598 | Engineer maritieme techniek | 4 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25881 | Mediamanager | 4 | bol voltijd | Mediacollege Amsterdam Ma | Mediacollege Amsterdam MBO | 1014AN Amsterdam | Contactweg 36 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25123 | Werkvoorbereider gespecialiseerde aannemerij | 4 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Stichting Landstede | Landstede MBO | 8013ZC Zwolle | Fuchsiastraat 1 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 94 |
+| 25276 | Technicus elektrotechniek | 4 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 23279 | Fashion | 3 | bol voltijd | ROC Mondriaan | ROC Mondriaan Beauty, Hair & Fashion | 2521DB ’s-Gravenhage | Leeghwaterplein 72 |
+| 25276 | Technicus elektrotechniek | 4 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25876 | E-commerce specialist | 4 | bbl | Firda | Firda Drachten | 9203KK Drachten | Burgemeester Wuiteweg 22 |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bbl | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25649 | Zelfstandig medewerker travel & hospitality | 3 | bbl | ROC A12 | ROC A12 | 6717LG Ede | Reehorsterweg 80 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25694 | Pedicure | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Hospitality & Wellness | 7604BB Almelo | Wierdensestraat 65 |
+| 25715 | Eerste Autospuiter | 3 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25875 | Consulent commerciële arbeidsbemiddeling | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Commercie & Ondernemen | 7604BA Almelo | Stationsplein West 40 |
+| 25588 | Gezel schilder | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Noorderpoort | Beroepsonderwijs Stadskanaal | 9502CW Stadskanaal | Sportparklaan 5 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25805 | Handhaver toezicht en veiligheid Openbaar vervoer (domein IV) | 3 | bol voltijd | ROC Nova College | Nova College Campus Haarlem | 2015CK Haarlem | Zijlweg 203 |
+| 25663 | Pianotechnicus | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25276 | Technicus elektrotechniek | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 23085 | Keuken | 4 | bol voltijd | Talland College | Hospitality, Events & Security | 1702AJ Heerhugowaard | Umbriëllaan 2 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25947 | Uitvoerder | 4 | bbl | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25888 | Servicemonteur koude- en klimaatsystemen | 3 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 6717LN Ede | Zandlaan 29 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7461AK Rijssen | Reggesingel 54 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25713 | Manager mobiliteitsbranche | 4 | bbl | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25990 | Vakexpert veehouderij | 4 | bbl | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25716 | Allround medewerker AV-productie | 3 | bol voltijd | ROC Midden Nederland | Creative College | 3562CS Utrecht | Brandenburchdreef 20 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1014BC Amsterdam | Kabelweg 88 |
+| 25826 | Allround tegelzetter | 3 | bbl | Albeda | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25798 | Allround podium- en evenemententechnicus | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1217ZA Hilversum | Kees Buurmanlaan 2 |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25904 | Coördinator internationale havenlogistiek | 3 | bbl | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25037 | Gezel stukadoor | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25346 | Operationeel technicus | 3 | bol voltijd | STC | College Procestechniek | 3232AE Brielle | Kerkhoekstraat 1 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25954 | Technicus hout en restauratie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Koning Willem I College | Koning Willem I College | 5344CS Oss | Euterpelaan 100 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | Albeda | Techniek College Rotterdam – Bouwen & Wonen | 3089JW Rotterdam | Scheepsbouwweg 15 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | Talland College | Business & IT | 1817BC Alkmaar | Kruseman van Eltenweg 4 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25598 | Engineer maritieme techniek | 4 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25585 | Allround montagemedewerker houttechniek | 3 | bol voltijd | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | STC | College Procestechniek | 3232AE Brielle | Kerkhoekstraat 1 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25648 | Zelfstandig medewerker leisure & hospitality | 3 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25876 | E-commerce specialist | 4 | bbl | Summa College | Summa Business | 5631KA Eindhoven | Sterrenlaan 8 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25880 | Ondernemer handel | 4 | bbl | ROC Mondriaan | ROC Mondriaan Business & Law | 2493WN ’s-Gravenhage | Aspasialaan 19 |
+| 25011 | Vakkracht industrieel lakverwerker | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1112AZ Diemen | Volmerstraat 22 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25585 | Allround montagemedewerker houttechniek | 3 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | ROC Mondriaan | ROC Mondriaan Horeca & Facilitaire dienstverlening | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25905 | Specialist internationale havenlogistiek | 4 | bol voltijd | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25913 | Hoefsmid | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25954 | Technicus hout en restauratie | 3 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25990 | Vakexpert veehouderij | 4 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25276 | Technicus elektrotechniek | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25886 | Airco/warmtepompmonteur | 2 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25888 | Servicemonteur koude- en klimaatsystemen | 3 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25889 | Eerste monteur koude- en klimaatsystemen | 3 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25886 | Airco/warmtepompmonteur | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25277 | Technicus gas | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | ROC van Twente | ROC van Twente, College voor Technologie | 7553VZ Hengelo | Gieterij 200 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | Yonder | Bouw-, installatie- en onderhoudstechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25631 | Opticien | 4 | bbl | Zadkine | Zadkine Optiek College | 3068AV Rotterdam | Marten Meesweg 50 |
+| 25902 | Coördinator Havenoperaties | 4 | bbl | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25708 | Boomverzorger | 3 | bbl | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | Rijn IJssel | Techniek, ICT & KansRIJk | 6824BW Arnhem | Tivolilaan 40 |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | ROC van Twente | ROC van Twente, College voor Technologie | 7606JJ Almelo | De Sumpel 4 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25685 | Fashion Retailer | 3 | bol voltijd | Zadkine | Zadkine Beauty & Fashion College | 3032CC Rotterdam | Benthemplein 15 |
+| 27010 | Eerste monteur gas-, water- of warmtedistributie | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25037 | Gezel stukadoor | 3 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7202AG Zutphen | Dreef 8 a |
+| 25939 | Allround samenbouwer luchtvaartuigen | 3 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hoogeveen | 7903AA Hoogeveen | Voltastraat 33 |
+| 25708 | Boomverzorger | 3 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25114 | Allround sloper | 3 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hoogeveen | 7903AA Hoogeveen | Voltastraat 33 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7461AK Rijssen | Reggesingel 54 |
+| 25885 | Technisch specialist autoschadeherstel | 4 | bbl | Rijn IJssel | Techniek, ICT & KansRIJk | 6824BW Arnhem | Tivolilaan 40 |
+| 25590 | Technicus water | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25693 | Medisch Pedicure | 4 | bol voltijd | Albeda | Albeda Beauty & Fashioncollege | 3078WR Rotterdam | Sportlaan 90 |
+| 25761 | Procesoperator A | 2 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Summa College | Summa Fashion | 5611BA Eindhoven | Professor Dr Dorgelolaan 2 |
+| 25276 | Technicus elektrotechniek | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | ROC Nova College | Nova College CIOS Haarlem | 2024AV Haarlem | IJsbaanlaan 4 F |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 27006 | Monteur gas-, water- of warmtedistributie | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 6717LN Ede | Zandlaan 29 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bol voltijd | Firda | Firda Heerenveen | 8448JA Heerenveen | Abe Lenstra boulevard 29 |
+| 25613 | Machinist railvervoer | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7606JJ Almelo | De Sumpel 4 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Creatieve industrie & ICT | 7511JX Enschede | Ariënsplein 3 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25831 | Technisch specialist verbrandingsmotoren | 4 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25123 | Werkvoorbereider gespecialiseerde aannemerij | 4 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25901 | Gevorderd medewerker Havenoperaties | 3 | bbl | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25885 | Technisch specialist autoschadeherstel | 4 | bbl | Summa College | Summa Automotive | 5708JZ Helmond | Automotive Campus 250 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25841 | Vakexpert geo, data en design | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | Yonder | Mode en Uiterlijke Verzorging | 5022DD Tilburg | Stappegoorweg 183 |
+| 25011 | Vakkracht industrieel lakverwerker | 3 | bbl | Yonder | Bouw-, installatie- en onderhoudstechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 27006 | Monteur gas-, water- of warmtedistributie | 2 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25714 | Autospuiter | 2 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | ROC Mondriaan | ROC Mondriaan Autotechniek & Mobiliteit | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25629 | Medewerker steriele medische hulpmiddelen | 3 | bbl | Deltion College | Deltion College – Welzijn & Gezondheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25115 | Sloper | 2 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hoogeveen | 7903AA Hoogeveen | Voltastraat 33 |
+| 25346 | Operationeel technicus | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25080 | Betonreparateur | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 27006 | Monteur gas-, water- of warmtedistributie | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25826 | Allround tegelzetter | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25865 | Dakdekker riet | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25761 | Procesoperator A | 2 | bol voltijd | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Almere | 1362JA Almere | Heliumweg 1 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25719 | Medewerker fotografie | 2 | bol voltijd | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 25848 | Voeding- en leefstijladviseur | 4 | bol voltijd | Deltion College | Deltion College – Sport, Opvoeding & Maatschappij | 8031AA Zwolle | Mozartlaan 15 |
+| 25798 | Allround podium- en evenemententechnicus | 4 | bbl | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25037 | Gezel stukadoor | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7681NC Vroomshoop | Aziëlaan 3 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25839 | Technicus hout en restauratie | 3 | bol voltijd | Talland College | Techniek | 1508GE Zaandam | Jufferstraat 1 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25601 | Aankomend medewerker maritiem | 2 | bol voltijd | Vonk | Vonk Veiligheid en vakmanschap-maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25010 | Industrieel lakverwerker | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25694 | Pedicure | 3 | bol voltijd | Albeda | Albeda Beauty & Fashioncollege | 3078WR Rotterdam | Sportlaan 90 |
+| 25591 | Mediamaker | 2 | bbl | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25565 | Systeemontwerper koude- en klimaatsystemen | 4 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25621 | Medewerker hovenier | 2 | bbl | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | mboRijnland | mboRijnland MBO College Start-Up | 2722ZA Zoetermeer | Van Doornenplantsoen 11 |
+| 25589 | Schilder | 2 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 27014 | Eerste monteur hoogspanningstransport | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25631 | Opticien | 4 | bbl | Talland College | Hospitality, Events & Security | 1507EK Zaandam | Cypressehout 99 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25010 | Industrieel lakverwerker | 2 | bbl | Yonder | Bouw-, installatie- en onderhoudstechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bbl | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bol voltijd | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25799 | Medewerker podium- en evenemententechniek | 2 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8911BP Leeuwarden | Ruiterskwartier 41 |
+| 25591 | Mediamaker | 2 | bol voltijd | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25900 | Medewerker Havenoperaties | 2 | bbl | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25648 | Zelfstandig medewerker leisure & hospitality | 3 | bbl | SG De Rooi Pannen | DE ROOI PANNEN – TOERISME, LEISURE & MARKETING EINDHOVEN | 5623AD Eindhoven | Kaakstraat 1 |
+| 25955 | Keukenmonteur | 2 | bbl | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25854 | Meubelstoffeerder | 2 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25981 | Medewerker teelt | 2 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25704 | Bedrijfsleider/ondernemer bloem, groen en styling | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Drenthe College Terra | Drenthe College | 7822JJ Emmen | Anna Paulownalaan 1 |
+| 25920 | Commercieel technicus | 4 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25904 | Coördinator internationale havenlogistiek | 3 | bol voltijd | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25621 | Medewerker hovenier | 2 | bbl | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25751 | Allround waterbouwer | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | ROC Mondriaan | ROC Mondriaan Beauty, Hair & Fashion | 2521DB ’s-Gravenhage | Leeghwaterplein 72 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5912PN Venlo | Hagerhofweg 15 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25621 | Medewerker hovenier | 2 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25842 | Leidinggevende international hospitality | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan International Hotel & Management | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25661 | Allround interieurvakman woningstofferen | 3 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25589 | Schilder | 2 | bol voltijd | VISTA College | VISTA college | 6191BG Beek | Stationstraat 100 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25589 | Schilder | 2 | bol voltijd | ROC Mondriaan | ROC Mondriaan Bouw & Infra | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25123 | Werkvoorbereider gespecialiseerde aannemerij | 4 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hoogeveen | 7903AA Hoogeveen | Voltastraat 33 |
+| 25176 | 1e Medewerker fastservice | 3 | bol voltijd | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25786 | Metselaar | 2 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25010 | Industrieel lakverwerker | 2 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25231 | Fietstechnicus | 2 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | ROC van Twente | ROC van Twente, College voor Creatieve industrie & ICT | 7511JX Enschede | Ariënsplein 3 |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | Yonder | Mechatronica, Werktuigbouwkunde en Metaaltechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25955 | Keukenmonteur | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25231 | Fietstechnicus | 2 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 25629 | Medewerker steriele medische hulpmiddelen | 3 | bbl | Summa College | Summa Zorg | 5616EA Eindhoven | Willem de Rijkelaan 3 |
+| 25609 | Allround medewerker facilitaire dienstverlening | 3 | bbl | ROC van Twente | ROC van Twente, College voor Hospitality & Wellness | 7604BB Almelo | Wierdensestraat 65 |
+| 25589 | Schilder | 2 | bol voltijd | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25038 | Stukadoor | 2 | bbl | Koning Willem I College | Koning Willem I College | 5246JS Rosmalen | Meester Vriensstraat 2 |
+| 25038 | Stukadoor | 2 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7202AG Zutphen | Dreef 8 a |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25714 | Autospuiter | 2 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25778 | Air cargo specialist | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132WV Hoofddorp | Diamantlaan 29 |
+| 25724 | Assistant Business Services | 2 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25038 | Stukadoor | 2 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7681NC Vroomshoop | Aziëlaan 3 |
+| 25832 | Verbrandingsmotortechnicus | 2 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25178 | Medewerker fastservice | 2 | bbl | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25591 | Mediamaker | 2 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25591 | Mediamaker | 2 | bol voltijd | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25799 | Medewerker podium- en evenemententechniek | 2 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25714 | Autospuiter | 2 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1014BC Amsterdam | Kabelweg 88 |
+| 25591 | Mediamaker | 2 | bol voltijd | ROC van Twente | ROC van Twente, College voor Creatieve industrie & ICT | 7511JX Enschede | Ariënsplein 3 |
+| 27006 | Monteur gas-, water- of warmtedistributie | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25883 | Autoschadehersteller | 2 | bol voltijd | ROC Mondriaan | ROC Mondriaan Autotechniek & Mobiliteit | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25621 | Medewerker hovenier | 2 | bbl | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25939 | Allround samenbouwer luchtvaartuigen | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3312KW Dordrecht | Leerparkpromenade 100 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25038 | Stukadoor | 2 | bbl | Summa College | Summa Bouw | 5503LL Veldhoven | De Run 4250 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25178 | Medewerker fastservice | 2 | bbl | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25596 | Medewerker maritieme techniek | 2 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25621 | Medewerker hovenier | 2 | bbl | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25130 | Voeger | 2 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25038 | Stukadoor | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25038 | Stukadoor | 2 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7202AG Zutphen | Dreef 8 a |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25685 | Fashion Retailer | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Creatieve industrie & ICT | 7511JX Enschede | Ariënsplein 3 |
+| 25602 | Aankomend onderofficier maritiem | 3 | bol voltijd | Vonk | Vonk Veiligheid en vakmanschap-maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25613 | Machinist railvervoer | 3 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25583 | Montagemedewerker houttechniek | 2 | bol voltijd | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25786 | Metselaar | 2 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7322AJ Apeldoorn | Sleutelbloemstraat 69 B |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25883 | Autoschadehersteller | 2 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1014BC Amsterdam | Kabelweg 88 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Vonk | Vonk Schagen mbo | 1741MD Schagen | De Boomgaard 9 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25786 | Metselaar | 2 | bol voltijd | VISTA College | VISTA college | 6191BG Beek | Stationstraat 100 |
+| 25589 | Schilder | 2 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25786 | Metselaar | 2 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7418CC Deventer | Schonenvaardersstraat 6 |
+| 25714 | Autospuiter | 2 | bol voltijd | ROC Mondriaan | ROC Mondriaan Autotechniek & Mobiliteit | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25231 | Fietstechnicus | 2 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1014BC Amsterdam | Kabelweg 88 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25334 | Medewerker Operationele techniek | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Vonk | Vonk Hoorn mbo | 1625NT Hoorn | Blauwe Berg 3 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25886 | Airco/warmtepompmonteur | 2 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25591 | Mediamaker | 2 | bol voltijd | Grafisch Lyceum Utrecht | Grafisch Lyceum Utrecht | 3521GH Utrecht | Vondellaan 178 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1016SB Amsterdam | Elandsstraat 175 |
+| 25923 | Machineoperator houtverwerkende industrie | 2 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25027 | Plafond- en wandmonteur | 2 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7681NC Vroomshoop | Aziëlaan 3 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 27002 | Medewerker sign | 2 | bbl | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25568 | Medewerker versindustrie | 2 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25981 | Medewerker teelt | 2 | bbl | Aeres (V) MBO | Aeres MBO Dronten Warmonderhof | 8251PC Dronten | Wisentweg 10 |
+| 25977 | Medewerker voeding, technologie en techniek | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25873 | Middenkaderfunctionaris verkeer en stedenbouw | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25887 | Monteur koude- en klimaatsystemen | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25757 | Waterbouwer | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25038 | Stukadoor | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 23313 | Metselen | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5344CS Oss | Euterpelaan 100 |
+| 25169 | Gastronoom/sommelier | 4 | bbl | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25981 | Medewerker teelt | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25981 | Medewerker teelt | 2 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25981 | Medewerker teelt | 2 | bbl | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25981 | Medewerker teelt | 2 | bbl | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25970 | Matroos binnenvaart | 2 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25955 | Keukenmonteur | 2 | bbl | Hoornbeeck College | Hoornbeeck College | 3818ET Amersfoort | Utrechtseweg 230 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25866 | Monteur metalen daken en gevels | 2 | bbl | Hoornbeeck College | Hoornbeeck College | 7316JD Apeldoorn | Musschenbroekstraat 11 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25761 | Procesoperator A | 2 | bol voltijd | Talland College | Techniek | 1507EK Zaandam | Cypressehout 99 |
+| 25883 | Autoschadehersteller | 2 | bol voltijd | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25596 | Medewerker maritieme techniek | 2 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25977 | Medewerker voeding, technologie en techniek | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25761 | Procesoperator A | 2 | bol voltijd | Zadkine | Techniek College Rotterdam – Proces & Maintenance | 3089JW Rotterdam | Scheepsbouwweg 15 |
+| 25231 | Fietstechnicus | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25883 | Autoschadehersteller | 2 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25977 | Medewerker voeding, technologie en techniek | 2 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Emmeloord | 8303GZ Emmeloord | de Balkan 16 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bol voltijd | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25827 | Tegelzetter | 2 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25977 | Medewerker voeding, technologie en techniek | 2 | bbl | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Sneek | 8602JX Sneek | Harste 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bbl | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25621 | Medewerker hovenier | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25983 | Medewerker veehouderij | 2 | bbl | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 27008 | Monteur middenspanningsdistributie | 2 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25981 | Medewerker teelt | 2 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25981 | Medewerker teelt | 2 | bbl | Hoornbeeck College | Hoornbeeck College | 4043KD Opheusden | Bomenlaan 1 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Yuverta | Yuverta mbo Houten | 3992XH Houten | Randhoeve 2 |
+| 25178 | Medewerker fastservice | 2 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2321KS Leiden | Bètaplein 18 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Yuverta | Yuverta mbo Boxtel | 5281RE Boxtel | Schouwrooij 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25886 | Airco/warmtepompmonteur | 2 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 6717LN Ede | Zandlaan 29 |
+| 27002 | Medewerker sign | 2 | bbl | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25799 | Medewerker podium- en evenemententechniek | 2 | bol voltijd | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25827 | Tegelzetter | 2 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25999 | Medewerker ICT | 2 | bbl | ROC A12 | ROC A12 | 6717LG Ede | Reehorsterweg 80 |
+| 25999 | Medewerker ICT | 2 | bbl | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25948 | Machinist grondverzet | 3 | bbl | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25588 | Gezel schilder | 3 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25217 | Stand- en decorbouwer | 2 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25925 | Allround machineoperator meubelindustrie/(scheeps)interieurbouw | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25903 | Medewerker internationale havenlogistiek | 2 | bbl | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25648 | Zelfstandig medewerker leisure & hospitality | 3 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5913ES Venlo | Laaghuissingel 4 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25880 | Ondernemer handel | 4 | bbl | ROC Rivor | Academie voor Ondernemerschap en Dienstverlening (ROC Rivor) | 4003KZ Tiel | Bachstraat 1 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25661 | Allround interieurvakman woningstofferen | 3 | bbl | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25913 | Hoefsmid | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25038 | Stukadoor | 2 | bbl | Drenthe College Terra | Drenthe College | 9407TG Assen | Aziëweg 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | SG De Rooi Pannen | DE ROOI PANNEN – VORMGEVING & SIGNMAKING TILBURG | 5042EK Tilburg | Dr. Ahausstraat 1 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25903 | Medewerker internationale havenlogistiek | 2 | bol voltijd | STC | College Havens | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 7391HD Twello | Meester Zwiersweg 4 |
+| 25841 | Vakexpert geo, data en design | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25334 | Medewerker Operationele techniek | 2 | bol voltijd | STC | College Procestechniek | 3232AE Brielle | Kerkhoekstraat 1 |
+| 25621 | Medewerker hovenier | 2 | bbl | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25621 | Medewerker hovenier | 2 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25923 | Machineoperator houtverwerkende industrie | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25613 | Machinist railvervoer | 3 | bol voltijd | STC | College Logistiek en Vervoer | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25786 | Metselaar | 2 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25312 | Tekenaar constructeur | 4 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25609 | Allround medewerker facilitaire dienstverlening | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25589 | Schilder | 2 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25981 | Medewerker teelt | 2 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25981 | Medewerker teelt | 2 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25869 | Allround dakdekker metaal | 3 | bbl | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25908 | Sport- en bewegingsleider | 3 | bbl | Summa College | Summa Sport | 5624EB Eindhoven | Vijfkamplaan 4 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25660 | Interieurvakman parketvloeren | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25786 | Metselaar | 2 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4462EZ Goes | Industriestraat 7 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25886 | Airco/warmtepompmonteur | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25037 | Gezel stukadoor | 3 | bbl | Summa College | Summa Bouw | 5503LL Veldhoven | De Run 4250 |
+| 25621 | Medewerker hovenier | 2 | bbl | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25676 | Schipper rondvaartboot beperkt vaargebied | 2 | bbl | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25621 | Medewerker hovenier | 2 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC Ter AA | Ter AA Bouw en infra | 5731PC Mierlo | Goorsedijk 6 |
+| 27003 | Allround signmaker | 3 | bbl | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25216 | Allround stand- en decorbouwer | 3 | bbl | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25724 | Assistant Business Services | 2 | bbl | ROC Mondriaan | ROC Mondriaan Business & Logistics | 2612CA Delft | Brasserskade 1 |
+| 25801 | Praktijkopleider | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College West | 1066EC Amsterdam | Louwesweg 6 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | Albeda | Albeda Sportcollege | 3077AA Rotterdam | Van Zandvlietplein 20 |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte (domein I) | 3 | bbl | Talland College | Hospitality, Events & Security | 1817BC Alkmaar | Kruseman van Eltenweg 4 |
+| 25801 | Praktijkopleider | 4 | bbl | ROC Midden Nederland | Gezondheidszorg College (Amersfoort) | 3813TZ Amersfoort | Maatweg 3 |
+| 25801 | Praktijkopleider | 4 | bbl | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25801 | Praktijkopleider | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College West | 1061MA Amsterdam | Laan van Spartaan 2 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25614 | Boulanger | 4 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5913ES Venlo | Laaghuissingel 4 |
+| 25906 | Schoonheidspecialist | 3 | bbl | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 4 |
+| 25614 | Boulanger | 4 | bbl | Zadkine | Zadkine Brood & Banket College | 3032CC Rotterdam | Benthemplein 15 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Zone.college | Zone.college mbo | 7005BM Doetinchem | Gildenbroederslaan 3 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25685 | Fashion Retailer | 3 | bol voltijd | ROC Mondriaan | ROC Mondriaan Beauty, Hair & Fashion | 2521DB ’s-Gravenhage | Leeghwaterplein 72 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Drenthe College Terra | Drenthe College | 7821AX Emmen | Atlantis 2 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25653 | Musicalperformer | 4 | bol voltijd | Albeda | Albeda MBO Theaterschool | 3024BJ Rotterdam | Pieter de Hoochweg 222 |
+| 25119 | Uitvoerder bouw/infra | 4 | bol voltijd | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25797 | Patissier | 4 | bol voltijd | Summa College | Summa Brood en Banket | 5631KA Eindhoven | Sterrenlaan 10 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Zone.college | Zone.college mbo | 7417BJ Deventer | Snipperlingsdijk 2 |
+| 25682 | Maritiem officier alle schepen nautisch, visserij | 4 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 25176 | 1e Medewerker fastservice | 3 | bol voltijd | ROC Mondriaan | ROC Mondriaan Horeca & Facilitaire dienstverlening | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25632 | Verkoopmedewerker Optiek | 2 | bol voltijd | Zadkine | Zadkine Optiek College | 3068AV Rotterdam | Marten Meesweg 50 |
+| 25828 | Allround timmerman | 3 | bol voltijd | ROC Rivor | Academie voor Ambacht en Technologie (ROC Rivor) | 4191NZ Geldermalsen | Poppenbouwing 3 b |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte (domein I) | 3 | bbl | Koning Willem I College | Koning Willem I College | 5216JL ’s-Hertogenbosch | Jacob van Maerlantstraat 4 |
+| 25570 | Decoratiestukadoor | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7202AG Zutphen | Dreef 8 a |
+| 25912 | Trainer-coach/Instructeur | 4 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2332VW Leiden | Storm Buysingstraat 18 C |
+| 25614 | Boulanger | 4 | bbl | Deltion College | Deltion College – Horeca, Reizen & Dienstverlening | 8031AA Zwolle | Mozartlaan 15 |
+| 25912 | Trainer-coach/Instructeur | 4 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2717AX Zoetermeer | Buytenparklaan 14 |
+| 25614 | Boulanger | 4 | bbl | Noorderpoort | Europapark 2 | 9723ZS Groningen | Boumaboulevard 113 |
+| 25614 | Boulanger | 4 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2321KS Leiden | Bètaplein 18 |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2321KS Leiden | Bètaplein 18 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25672 | Chauffeur openbaar vervoer | 2 | bbl | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 27003 | Allround signmaker | 3 | bbl | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25685 | Fashion Retailer | 3 | bol voltijd | Albeda | Albeda Beauty & Fashioncollege | 3079DC Rotterdam | Haastrechtstraat 3 |
+| 25828 | Allround timmerman | 3 | bol voltijd | VISTA College | VISTA college | 6191BG Beek | Stationstraat 100 |
+| 25914 | Biotechnicus | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Barneveld | 3771RN Barneveld | Barnseweg 3 |
+| 25797 | Patissier | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25694 | Pedicure | 3 | bol voltijd | VISTA College | VISTA college | 6135LH Sittard | Milaanstraat 125 |
+| 25693 | Medisch Pedicure | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Hospitality & Wellness | 7604BB Almelo | Wierdensestraat 65 |
+| 25693 | Medisch Pedicure | 4 | bol voltijd | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 4 |
+| 25589 | Schilder | 2 | bol voltijd | Talland College | Techniek | 1703DC Heerhugowaard | W.M. Dudokweg 66 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bbl | Talland College | Techniek | 1702AJ Heerhugowaard | Umbriëllaan 2 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bol voltijd | Talland College | Techniek | 1702AJ Heerhugowaard | Umbriëllaan 2 |
+| 25647 | Leidinggevende travel & hospitality | 4 | bbl | Summa College | Summa Vrije tijd | 5624EB Eindhoven | Vijfkamplaan 4 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bol voltijd | Summa College | Summa Automotive | 5708JZ Helmond | Automotive Campus 50 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | Yonder | Mode en Uiterlijke Verzorging | 5022DD Tilburg | Stappegoorweg 183 |
+| 25880 | Ondernemer handel | 4 | bbl | Hoornbeeck College | Hoornbeeck College | 3084NA Rotterdam | Carnissesingel 210 |
+| 25178 | Medewerker fastservice | 2 | bbl | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25592 | Allround mediamaker | 3 | bbl | Grafisch Lyceum R’dam | Grafisch Lyceum Rotterdam | 3032AD Rotterdam | Heer Bokelweg 255 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | Vonk | Vonk Sport en bewegen | 1782ND Den Helder | Sportlaan 54 |
+| 25747 | Assistent procestechniek | 1 | bol voltijd | Talland College | Start | 1444HV Purmerend | Karekietpark 4 |
+| 25747 | Assistent procestechniek | 1 | bbl | Hoornbeeck College | Hoornbeeck College | 2801DE Gouda | Noordelijk Halfrond 10 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | Summa College | Summa Brood en Banket | 5631KA Eindhoven | Sterrenlaan 10 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | SiNTLUCAS | SintLucas | 5281CH Boxtel | Burgakker 17 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | Noorderpoort | Techniek | 9747AS Groningen | Zernikeplein 11 |
+| 25179 | Gespecialiseerd kok | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZN Amsterdam | Da Costastraat 36 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25941 | Technicus mechanica luchtvaartuigen | 4 | bol voltijd | Yonder | Luchtvaarttechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 25942 | Technicus avionica luchtvaartuigen | 4 | bol voltijd | VISTA College | VISTA college | 6199AC Maastricht-Airport | Horsterweg 13 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan Smart Technology | 2672ZX Naaldwijk | Europa 1 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | bol voltijd | Albeda | Techniek College Rotterdam – Maakindustrie & Onderhoud | 3089JR Rotterdam | RDM-kade 59 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | C I B A P | Cibap vakschool voor vormgeving | 8031DZ Zwolle | Nijverheidstraat 11 |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | Noorderpoort | Techniek | 9747AS Groningen | Zernikeplein 11 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 27005 | Decoratie- en restauratieschilder | 4 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25946 | Vastgoedadviseur | 4 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25998 | Software developer | 4 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hardenberg | 7772XP Hardenberg | Parkweg 1 -A1 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1112AZ Diemen | Volmerstraat 22 |
+| 25998 | Software developer | 4 | bbl | Deltion College | Deltion College – Design, Media & ICT | 8031AA Zwolle | Mozartlaan 15 |
+| 25871 | Middenkaderfunctionaris grond-, weg- en waterbouw | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 23278 | Maritiem officier | 4 | bol voltijd | ROC Nova College | Nova College Maritiem College | 8861KM Harlingen | Almenumerweg 1 |
+| 23278 | Maritiem officier | 4 | bol voltijd | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 23375 | Luchtvaarttechniek | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Airport | 2132XV Hoofddorp | Opaallaan 25 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25345 | Allround operationeel technicus | 4 | bbl | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25998 | Software developer | 4 | bbl | Firda | Firda Emmeloord | 8302DC Emmeloord | Espelerlaan 74 |
+| 25598 | Engineer maritieme techniek | 4 | bbl | Firda | Firda Sneek | 8602JX Sneek | Harste 4 |
+| 25184 | Manager/ondernemer horeca | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25905 | Specialist internationale havenlogistiek | 4 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5223DE ’s-Hertogenbosch | Onderwijsboulevard 3 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25897 | Researchinstrumentmaker | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Technologie | 7553VZ Hengelo | Gieterij 200 |
+| 25941 | Technicus mechanica luchtvaartuigen | 4 | bol voltijd | VISTA College | VISTA college | 6199AC Maastricht-Airport | Horsterweg 13 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25664 | Tandtechnicus kroon- en brugwerk | 4 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25942 | Technicus avionica luchtvaartuigen | 4 | bol voltijd | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7553AE Hengelo | Lansinkesweg 28 A |
+| 25664 | Tandtechnicus kroon- en brugwerk | 4 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Lelystad | 8224KP Lelystad | Agorawagenplein 1 |
+| 25665 | Tandtechnicus prothese | 4 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25953 | Biologisch medisch analist | 4 | bbl | Koning Willem I College | Koning Willem I College | 5344CS Oss | Euterpelaan 100 |
+| 25582 | Adviseur leefomgeving | 4 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 23373 | Meubels en (scheeps)interieurs maken | 4 | bol voltijd | Talland College | Techniek | 1702AJ Heerhugowaard | Umbriëllaan 2 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | Noorderpoort | Techniek | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25991 | Vakexpert biologisch-dynamische landbouw | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Dronten Warmonderhof | 8251PC Dronten | Wisentweg 10 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | VISTA College | VISTA college | 6224DC Maastricht | Sibemaweg 20 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | Summa College | Summa Bouw | 5503LL Veldhoven | De Run 4250 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5344CS Oss | Euterpelaan 100 |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8914BD Leeuwarden | Anne Wadmanwei 6 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25998 | Software developer | 4 | bbl | mboRijnland | mboRijnland MBO College Techniek & ICT | 2805TE Gouda | Groen van Prinsterersingel 52 |
+| 25998 | Software developer | 4 | bbl | ROC AVENTUS | Aventus sector Creatieve Industrie | 7417BH Deventer | Snipperlingsdijk 1 |
+| 23278 | Maritiem officier | 4 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25970 | Matroos binnenvaart | 2 | bbl | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25621 | Medewerker hovenier | 2 | bbl | Vonk | Vonk Schagen mbo | 1741MD Schagen | De Boomgaard 9 |
+| 25700 | Ondernemer vers | 4 | bbl | SVO | SVO Retail & Ambacht | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25700 | Ondernemer vers | 4 | bbl | SVO | SVO Retail & Ambacht | 3991CN Houten | Sleepboot 2 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BG Arnhem | Velperweg 39 |
+| 25702 | Traiteur vers | 3 | bbl | SVO | SVO Retail & Ambacht | 3991CN Houten | Sleepboot 2 |
+| 25566 | Productieleider versindustrie | 4 | bbl | SVO | SVO Industrie | 3991CN Houten | Sleepboot 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 8032VS Zwolle | Spui 2 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 8032VS Zwolle | Spui 2 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25700 | Ondernemer vers | 4 | bbl | SVO | SVO Retail & Ambacht | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 9727KB Groningen | Leonard Springerlaan 35 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 9727KB Groningen | Leonard Springerlaan 35 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 9727KB Groningen | Leonard Springerlaan 35 |
+| 25700 | Ondernemer vers | 4 | bbl | SVO | SVO Retail & Ambacht | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25700 | Ondernemer vers | 4 | bbl | SVO | SVO Retail & Ambacht | 8032VS Zwolle | Spui 2 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25186 | Ondernemer bakkerij | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6709PE Wageningen | Marijkeweg 5 |
+| 25733 | Proefdierverzorger | 3 | bbl | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25500 | Medewerker sport en recreatie | 2 | bbl | Albeda | Albeda Sportcollege | 3077AA Rotterdam | Van Zandvlietplein 20 |
+| 25971 | Schipper binnenvaart | 3 | bbl | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25312 | Tekenaar constructeur | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25948 | Machinist grondverzet | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 25601 | Aankomend medewerker maritiem | 2 | bol voltijd | Zadkine | Zadkine Veiligheidsacademie & Sport | 3192CD Hoogvliet Rotterdam | Campusplein 16 |
+| 25751 | Allround waterbouwer | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 25757 | Waterbouwer | 2 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 25861 | Orthopedisch technisch medewerker | 3 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6709PE Wageningen | Marijkeweg 5 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 3991CN Houten | Sleepboot 2 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 8032VS Zwolle | Spui 2 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 3991CN Houten | Sleepboot 2 |
+| 25169 | Gastronoom/sommelier | 4 | bbl | SG De Rooi Pannen | DE ROOI PANNEN – HORECA TILBURG | 5042EK Tilburg | Dr. Ahausstraat 1 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 9727KB Groningen | Leonard Springerlaan 35 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 3991CN Houten | Sleepboot 2 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 6882CT Velp | Larensteinselaan 26 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 3991CN Houten | Sleepboot 2 |
+| 25567 | Allround medewerker versindustrie | 3 | bbl | SVO | SVO Industrie | 2991LN Barendrecht | Koopliedenweg 20 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 7607XJ Almelo | Brugstraat 11 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 4702VX Roosendaal | Stationsplein 5 a |
+| 25908 | Sport- en bewegingsleider | 3 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2717AX Zoetermeer | Buytenparklaan 14 |
+| 25858 | Zilversmid | 4 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25880 | Ondernemer handel | 4 | bbl | Hoornbeeck College | Hoornbeeck College | 7316JD Apeldoorn | Musschenbroekstraat 11 |
+| 25752 | Asfaltafwerker | 2 | bbl | Talland College | Techniek | 1703WE Heerhugowaard | Stationsplein 129 |
+| 25630 | Allround Medewerker Optiek | 3 | bbl | Talland College | Hospitality, Events & Security | 1507EK Zaandam | Cypressehout 99 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | Curio | Curio techniek en technologie | 4826AA Breda | Terheijdenseweg 348 |
+| 25941 | Technicus mechanica luchtvaartuigen | 4 | bol voltijd | Curio | Curio techniek en technologie | 4631RV Hoogerheide | Aviolandalaan 35 |
+| 25998 | Software developer | 4 | bbl | Curio | Curio techniek en technologie | 4826AA Breda | Terheijdenseweg 350 |
+| 25942 | Technicus avionica luchtvaartuigen | 4 | bol voltijd | Curio | Curio techniek en technologie | 4631RV Hoogerheide | Aviolandalaan 35 |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | Curio | Curio techniek en technologie | 4826AA Breda | Terheijdenseweg 348 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25621 | Medewerker hovenier | 2 | bbl | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25038 | Stukadoor | 2 | bbl | Curio | Curio techniek en technologie | 4622AH Bergen op Zoom | Nobellaan 27 |
+| 25037 | Gezel stukadoor | 3 | bbl | Curio | Curio techniek en technologie | 4622AH Bergen op Zoom | Nobellaan 27 |
+| 25826 | Allround tegelzetter | 3 | bbl | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25276 | Technicus elektrotechniek | 4 | bbl | Curio | Curio techniek en technologie | 4622AJ Bergen op Zoom | Nobellaan 52 |
+| 25312 | Tekenaar constructeur | 4 | bbl | Curio | Curio techniek en technologie | 4826AA Breda | Terheijdenseweg 350 |
+| 25842 | Leidinggevende international hospitality | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4611BP Bergen op Zoom | Meeussenstraat 13 |
+| 25786 | Metselaar | 2 | bol voltijd | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25827 | Tegelzetter | 2 | bol voltijd | Curio | Curio techniek en technologie | 4622AH Bergen op Zoom | Nobellaan 27 |
+| 25872 | Middenkaderfunctionaris landmeetkunde | 4 | bbl | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4811KA Breda | Markendaalseweg 35 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25720 | Leidinggevende bakkerij | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25948 | Machinist grondverzet | 3 | bbl | Curio | Curio techniek en technologie | 4622AH Bergen op Zoom | Nobellaan 27 |
+| 25694 | Pedicure | 3 | bol voltijd | Curio | Curio zorg en welzijn | 4826KS Breda | Biesdonkweg 33 |
+| 25759 | Mechanisch operator A | 2 | bol voltijd | Curio | Curio techniek en technologie | 4622AJ Bergen op Zoom | Nobellaan 50 |
+| 25827 | Tegelzetter | 2 | bol voltijd | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25897 | Researchinstrumentmaker | 4 | bol voltijd | Leidse Instr Makers Sch | Leidse instrumentmakers School | 2333CC Leiden | Einsteinweg 61 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bbl | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25996 | Coördinator duurzaamheid | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25947 | Uitvoerder | 4 | bbl | Curio | Curio techniek en technologie | 4826KS Breda | Biesdonkweg 31 |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | Curio | Curio economie en ondernemen | 4817JX Breda | Wilhelminasingel 33 |
+| 25998 | Software developer | 4 | bbl | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25715 | Eerste Autospuiter | 3 | bol voltijd | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | ROC Mondriaan | ROC Mondriaan Metaal-, Elektro-installatietechniek | 2544ED ’s-Gravenhage | Tinwerf 10 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7417DH Deventer | Handelskade 75 |
+| 25621 | Medewerker hovenier | 2 | bbl | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 23313 | Metselen | 3 | bol voltijd | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25948 | Machinist grondverzet | 3 | bol voltijd | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25799 | Medewerker podium- en evenemententechniek | 2 | bol voltijd | Mediacollege Amsterdam Ma | Mediacollege Amsterdam MBO | 1014AN Amsterdam | Contactweg 36 |
+| 25312 | Tekenaar constructeur | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | Mediacollege Amsterdam Ma | Mediacollege Amsterdam MBO | 1014AN Amsterdam | Contactweg 36 |
+| 25716 | Allround medewerker AV-productie | 3 | bol voltijd | Curio | Curio economie en ondernemen | 4612PE Bergen op Zoom | Dr. Ir. Van Veenweg 8 |
+| 25842 | Leidinggevende international hospitality | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4811KA Breda | Markendaalseweg 35 |
+| 25845 | Adviseur duurzame leefomgeving | 4 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4816KA Breda | Frankenthalerstraat 15 |
+| 25897 | Researchinstrumentmaker | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4535HA Terneuzen | Vlietstraat 11 a |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25720 | Leidinggevende bakkerij | 4 | bbl | VISTA College | VISTA college | 6419AW Heerlen | Valkenburgerweg 148 |
+| 25847 | Allround instructeur buitensport | 3 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25875 | Consulent commerciële arbeidsbemiddeling | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuidoost | 1102CV Amsterdam | Fraijlemaborg 135 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bbl | Noorderpoort | Techniek | 9723AW Groningen | Bornholmstraat 31 |
+| 25803 | Handhaver toezicht en veiligheid Generieke opsporing (domein VI) | 3 | bol voltijd | ROC AVENTUS | Aventus sector Economie & Handel | 7316JD Apeldoorn | Musschenbroekstraat 20 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25548 | Creatief Vakman | 4 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25906 | Schoonheidspecialist | 3 | bbl | Rijn IJssel | Economie, Uiterlijke Verzorging, CIOS & Veiligheid | 6825HN Arnhem | Middachtensingel 2 |
+| 25821 | Eerste monteur service en onderhoud werktuigkundige installaties | 3 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3067GB Rotterdam | Prins Alexanderlaan 55 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25169 | Gastronoom/sommelier | 4 | bbl | ROC van Twente | ROC van Twente, College voor Hospitality & Wellness | 7604BB Almelo | Wierdensestraat 65 |
+| 25845 | Adviseur duurzame leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25582 | Adviseur leefomgeving | 4 | bbl | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25843 | Allround hospitality medewerker | 3 | bol voltijd | Curio | Curio voedsel, groen en gastvrijheid | 4811KA Breda | Markendaalseweg 35 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bbl | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25798 | Allround podium- en evenemententechnicus | 4 | bbl | Rijn IJssel | Creatieve Industrie & Vakschool Wageningen | 6824BW Arnhem | Tivolilaan 10 |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte (domein I) | 3 | bbl | Zadkine | Zadkine Veiligheidsacademie & Sport | 3192CD Hoogvliet Rotterdam | Campusplein 16 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 6882CT Velp | Larensteinselaan 26 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25724 | Assistant Business Services | 2 | bbl | ROC van Twente | ROC van Twente, College voor Zakelijke dienstverlening & Veiligheid | 7553VZ Hengelo | Gieterij 200 |
+| 25002 | Allround medewerker beheer openbare ruimte | 2 | bbl | ROC AVENTUS | Aventus MBO Basis & Lyceum | 2411ND Bodegraven | Klipperaak 2 |
+| 25747 | Assistent procestechniek | 1 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 5759PK Helenaveen | Lagebrugweg 10 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25567 | Allround medewerker versindustrie | 3 | bbl | SVO | SVO Industrie | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bol voltijd | SVO | SVO Retail & Ambacht | 3991CN Houten | Sleepboot 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 6041HZ Roermond | Kapellerpoort 1 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 7607XJ Almelo | Brugstraat 11 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bbl | SVO | SVO Retail & Ambacht | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 4811BB Breda | Stationsplein 14 |
+| 25568 | Medewerker versindustrie | 2 | bbl | SVO | SVO Industrie | 8032VS Zwolle | Spui 2 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 6041HZ Roermond | Kapellerpoort 1 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 1186MJ Amstelveen | Gondel 1 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 4811BB Breda | Stationsplein 14 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 6224DC Maastricht | Sibemaweg 20 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 3991CN Houten | Sleepboot 2 |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25567 | Allround medewerker versindustrie | 3 | bbl | SVO | SVO Industrie | 3991CN Houten | Sleepboot 2 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3317BS Dordrecht | Maarten Harpertsz. Trompweg 229 |
+| 27006 | Monteur gas-, water- of warmtedistributie | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25041 | Beheerder milieustraat | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 9727KB Groningen | Leonard Springerlaan 35 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 8032VS Zwolle | Spui 2 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bol voltijd | SVO | SVO Retail & Ambacht | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bol voltijd | SVO | SVO Retail & Ambacht | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 27005 | Decoratie- en restauratieschilder | 4 | bol voltijd | C I B A P | Cibap vakschool voor vormgeving | 8031DZ Zwolle | Nijverheidstraat 11 |
+| 25839 | Technicus hout en restauratie | 3 | bol voltijd | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25844 | Allround coördinator instructeur buitensport | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Drenthe College Terra | Drenthe College | 7943AE Meppel | Ambachtsweg 2 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25896 | Productietechnicus | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25827 | Tegelzetter | 2 | bol voltijd | Talland College | Techniek | 1703DC Heerhugowaard | W.M. Dudokweg 66 |
+| 25854 | Meubelstoffeerder | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25875 | Consulent commerciële arbeidsbemiddeling | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Poort | 1362LE Almere | Winterspelenplein 25 |
+| 25995 | Voeding- en leefstijladviseur | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25176 | 1e Medewerker fastservice | 3 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Zuid | 8931AH Leeuwarden | Julianalaan 97 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25346 | Operationeel technicus | 3 | bol voltijd | STC | College Procestechniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25828 | Allround timmerman | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5961BB Horst | Gebr. van Doornelaan 63 |
+| 25216 | Allround stand- en decorbouwer | 3 | bol voltijd | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25848 | Voeding- en leefstijladviseur | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bbl | ROC Nova College | Nova College Maritiem College | 8861KM Harlingen | Almenumerweg 1 |
+| 25038 | Stukadoor | 2 | bol voltijd | Curio | Curio techniek en technologie | 4622AH Bergen op Zoom | Nobellaan 27 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25613 | Machinist railvervoer | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7606JJ Almelo | De Sumpel 4 |
+| 25001 | Allround medewerker afvalbeheer | 2 | bbl | ROC AVENTUS | Aventus MBO Basis & Lyceum | 2411ND Bodegraven | Klipperaak 2 |
+| 25747 | Assistent procestechniek | 1 | bbl | Summa College | Summa Procestechnologie | 5657BX Eindhoven | BIC 1 |
+| 25042 | Teamleider AMBOR | 4 | bbl | ROC AVENTUS | Aventus MBO Basis & Lyceum | 2411ND Bodegraven | Klipperaak 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | Yonder | NCVB Bedrijfsopleidingen | 5046CV Tilburg | Kasteeldreef 116 |
+| 25801 | Praktijkopleider | 4 | bbl | Albeda | Albeda Zorgcollege | 3071AL Rotterdam | Rosestraat 1101 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bbl | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25868 | Allround dakdekker bitumen en kunststof | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25866 | Monteur metalen daken en gevels | 2 | bbl | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25583 | Montagemedewerker houttechniek | 2 | bol voltijd | Talland College | Techniek | 1703DC Heerhugowaard | W.M. Dudokweg 66 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25843 | Allround hospitality medewerker | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZH Amsterdam | Da Costastraat 91 |
+| 25848 | Voeding- en leefstijladviseur | 4 | bol voltijd | Yuverta | Yuverta mbo Den Bosch | 5223GW ’s-Hertogenbosch | Vlijmenseweg 1 A |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25864 | Dakdekker bitumen en kunststof | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25111 | Natuursteenbewerker machinaal | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25178 | Medewerker fastservice | 2 | bbl | SG De Rooi Pannen | DE ROOI PANNEN – HORECA TILBURG | 5042EK Tilburg | Dr. Ahausstraat 1 |
+| 25002 | Allround medewerker beheer openbare ruimte | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25043 | Voorman BOR | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25672 | Chauffeur openbaar vervoer | 2 | bbl | ROC Midden Nederland | Tech Campus | 3439MA Nieuwegein | Structuurbaan 19 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25080 | Betonreparateur | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | Summa College | Summa Elektro- en Installatietechniek | 5657BX Eindhoven | BIC 1 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25803 | Handhaver toezicht en veiligheid Generieke opsporing (domein VI) | 3 | bol voltijd | Vonk | Vonk Toezicht en veiligheid | 1741CD Schagen | Hofstraat 13 |
+| 25980 | Vakexpert voeding, kwaliteit en productontwikkeling | 4 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25989 | Vakexpert agrohandel en logistiek | 4 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8024AH Zwolle | Rechterland 1 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25990 | Vakexpert veehouderij | 4 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Albeda | Albeda Horecacollege | 3144PC Maassluis | De Vloot 68 |
+| 25181 | Leidinggevende keuken | 4 | bol voltijd | Albeda | Albeda Horecacollege | 3071AL Rotterdam | Rosestraat 1101 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25957 | Vakexpert Geo, data & design | 4 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 3844DD Harderwijk | Westeinde 33 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25957 | Vakexpert Geo, data & design | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25631 | Opticien | 4 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25597 | Allround medewerker maritieme techniek | 3 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25971 | Schipper binnenvaart | 3 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25962 | Allround uurwerktechnicus | 3 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bol voltijd | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 27010 | Eerste monteur gas-, water- of warmtedistributie | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25785 | Allround Metselaar | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5961BB Horst | Gebr. van Doornelaan 63 |
+| 25735 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | bol voltijd | Drenthe College Terra | Drenthe College | 7822JJ Emmen | Anna Paulownalaan 1 |
+| 25855 | Allround meubelstoffeerder | 3 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25978 | Vakbekwaam medewerker voeding, technologie en techniek | 3 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25978 | Vakbekwaam medewerker voeding, technologie en techniek | 3 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bol voltijd | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25988 | Vakexpert teelt en groene technologie | 4 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25994 | Vakexpert groen, grond en groene infra | 4 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25646 | Leidinggevende leisure & hospitality | 4 | bbl | Albeda | Albeda Travel & Leisure College | 3033BW Rotterdam | Zuster Hennekeplein 80 |
+| 25878 | Junior manager groothandel | 4 | bbl | Drenthe College Terra | Drenthe College | 7824EH Emmen | Ubbekingecamp 1 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Drenthe College Terra | MBO Terra | 9721AA Groningen | Hereweg 99 |
+| 25986 | Vakbekwaam medewerker veehouderij | 3 | bbl | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25993 | Vakbekwaam medewerker groen, grond en groene infra | 3 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25661 | Allround interieurvakman woningstofferen | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25597 | Allround medewerker maritieme techniek | 3 | bbl | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | MBO Amersfoort | School voor Techniek | 3771NB Barneveld | Gildeweg 18 |
+| 25872 | Middenkaderfunctionaris landmeetkunde | 4 | bbl | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25957 | Vakexpert Geo, data & design | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25037 | Gezel stukadoor | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25948 | Machinist grondverzet | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25855 | Allround meubelstoffeerder | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25889 | Eerste monteur koude- en klimaatsystemen | 3 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25925 | Allround machineoperator meubelindustrie/(scheeps)interieurbouw | 3 | bbl | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25085 | Allround betontimmerman | 3 | bbl | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 27017 | Werkbegeleider zorgboerderij | 3 | bbl | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 27003 | Allround signmaker | 3 | bbl | Stichting Landstede | Landstede MBO | 3844DD Harderwijk | Westeinde 33 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25989 | Vakexpert agrohandel en logistiek | 4 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25826 | Allround tegelzetter | 3 | bol voltijd | Talland College | Techniek | 1703DC Heerhugowaard | W.M. Dudokweg 66 |
+| 27002 | Medewerker sign | 2 | bbl | Nimeto | Nimeto Utrecht | 3572LP Utrecht | Smijerslaan 2 |
+| 25955 | Keukenmonteur | 2 | bbl | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25125 | Betontimmerman | 2 | bbl | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25752 | Asfaltafwerker | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25113 | Natuursteenbewerker ambachtelijk | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25591 | Mediamaker | 2 | bol voltijd | Mediacollege Amsterdam Ma | Mediacollege Amsterdam MBO | 1014AN Amsterdam | Contactweg 36 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25912 | Trainer-coach/Instructeur | 4 | bbl | Zadkine | Zadkine Veiligheidsacademie & Sport | 3192CE Hoogvliet Rotterdam | Elritsstraat 11 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25871 | Middenkaderfunctionaris grond-, weg- en waterbouw | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1112AZ Diemen | Volmerstraat 22 |
+| 25966 | Schoenhersteller | 2 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25970 | Matroos binnenvaart | 2 | bbl | ROC Nova College | Nova College Maritiem College | 8861KM Harlingen | Almenumerweg 1 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25983 | Medewerker veehouderij | 2 | bbl | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25970 | Matroos binnenvaart | 2 | bbl | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25583 | Montagemedewerker houttechniek | 2 | bol voltijd | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25955 | Keukenmonteur | 2 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 27008 | Monteur middenspanningsdistributie | 2 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25923 | Machineoperator houtverwerkende industrie | 2 | bbl | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25757 | Waterbouwer | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25621 | Medewerker hovenier | 2 | bbl | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25621 | Medewerker hovenier | 2 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25981 | Medewerker teelt | 2 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25983 | Medewerker veehouderij | 2 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | ROC Graafschap College | Zorg, Welzijn & Sport | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25886 | Airco/warmtepompmonteur | 2 | bbl | ROC Nijmegen eo | ROC Nijmegen directie Techniek | 6525EE Nijmegen | Heyendaalseweg 98 |
+| 25923 | Machineoperator houtverwerkende industrie | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Zone.college | Zone.college mbo | 7391HD Twello | Meester Zwiersweg 4 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Zone.college | Zone.college mbo | 7391HD Twello | Meester Zwiersweg 4 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25786 | Metselaar | 2 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5961BB Horst | Gebr. van Doornelaan 63 |
+| 25759 | Mechanisch operator A | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25583 | Montagemedewerker houttechniek | 2 | bol voltijd | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25761 | Procesoperator A | 2 | bol voltijd | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 25992 | Medewerker groen, grond en groene infra | 2 | bol voltijd | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25707 | Medewerker bloem, groen en styling | 2 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bol voltijd | Lentiz | Lentiz \| MBO Barendrecht | 2991VD Barendrecht | Gebroken Meeldijk 66 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Drenthe College Terra | MBO Terra | 7812BK Emmen | Huizingsbrinkweg 9 |
+| 25981 | Medewerker teelt | 2 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25982 | Medewerker agrohandel en logistiek | 2 | bol voltijd | Lentiz | Lentiz \| MBO Oostland | 2665KN Bleiswijk | Wilgenlei 2 b |
+| 25601 | Aankomend medewerker maritiem | 2 | bol voltijd | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4463AB Goes | Zwembadweg 3 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Zone.college | Zone.college mbo | 7417BJ Deventer | Snipperlingsdijk 2 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25917 | Instructeur paardensport en -houderij | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25968 | Maatschoenmaker | 4 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25665 | Tandtechnicus prothese | 4 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 25972 | Kapitein binnenvaart | 4 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | ROC Nova College | Nova College Campus Beverwijk | 1942LN Beverwijk | Laurens Baecklaan 23 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | STC | College Procestechniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25928 | Ondernemend meubelmaker/(scheeps)interieurbouwer | 4 | bol voltijd | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | STC | College Procestechniek | 3251LC Stellendam | Deltahaven 4 |
+| 23278 | Maritiem officier | 3 | bol voltijd | ROC Nova College | Nova College Maritiem College | 8861KM Harlingen | Almenumerweg 1 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25977 | Medewerker voeding, technologie en techniek | 2 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25983 | Medewerker veehouderij | 2 | bol voltijd | Zone.college | Zone.college mbo | 7521AG Enschede | Hengelosestraat 481 |
+| 25568 | Medewerker versindustrie | 2 | bbl | SVO | SVO Industrie | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 8032VS Zwolle | Spui 2 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 3751AT Bunschoten-Spakenburg | Kerkstraat 103 |
+| 25702 | Traiteur vers | 3 | bbl | SVO | SVO Retail & Ambacht | 3011GX Rotterdam | Verlengde Nieuwstraat 177 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 7514AC Enschede | Schuttersveld 1 D |
+| 25702 | Traiteur vers | 3 | bbl | SVO | SVO Retail & Ambacht | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25701 | Medewerker vers | 2 | bbl | SVO | SVO Retail & Ambacht | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25861 | Orthopedisch technisch medewerker | 3 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bol voltijd | SVO | SVO Retail & Ambacht | 8032VS Zwolle | Spui 2 |
+| 25703 | Vakbekwaam medewerker vers | 3 | bol voltijd | SVO | SVO Retail & Ambacht | 2288EW Rijswijk | Diepenhorstlaan 3 |
+| 25178 | Medewerker fastservice | 2 | bbl | SVO | SVO Out of Home | 6229PC Maastricht | Molensingel 99 |
+| 25702 | Traiteur vers | 3 | bbl | SVO | SVO Retail & Ambacht | 5611GT Eindhoven | Hooghuisstraat 24 |
+| 25702 | Traiteur vers | 3 | bbl | SVO | SVO Retail & Ambacht | 8032VS Zwolle | Spui 2 |
+| 25918 | Middenkaderfunctionaris smart building | 4 | bol voltijd | ROC Rivor | Academie voor Ambacht en Technologie (ROC Rivor) | 4001TJ Tiel | Teisterbantlaan 1 a |
+| 25688 | Fashion Product Coordinator | 4 | bol voltijd | ROC Mondriaan | ROC Mondriaan Beauty, Hair & Fashion | 2521DB ’s-Gravenhage | Leeghwaterplein 72 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Scalda | Scalda – Groen | 4462DZ Goes | Stationspark 39 |
+| 25345 | Allround operationeel technicus | 4 | bbl | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25276 | Technicus elektrotechniek | 4 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25010 | Industrieel lakverwerker | 2 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1112AZ Diemen | Volmerstraat 22 |
+| 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4535HA Terneuzen | Vlietstraat 11 a |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | SVO | SVO Out of Home | 1186MJ Amstelveen | Gondel 1 |
+| 25747 | Assistent procestechniek | 1 | bbl | Stichting Landstede | Landstede MBO | 8251GR Dronten | De Arend 4 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3245KG Sommelsdijk | Langeweg 111 |
+| 25613 | Machinist railvervoer | 3 | bbl | STC | College Logistiek en Vervoer | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25185 | Meewerkend horeca ondernemer | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25759 | Mechanisch operator A | 2 | bol voltijd | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25109 | Allround natuursteenbewerker | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25810 | Medewerker productpresentatie | 2 | bol voltijd | Nimeto | Nimeto | 3572LP Utrecht | Smijerslaan 2 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25842 | Leidinggevende international hospitality | 4 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZH Amsterdam | Da Costastraat 91 |
+| 25842 | Leidinggevende international hospitality | 4 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5913ES Venlo | Laaghuissingel 4 |
+| 25708 | Boomverzorger | 3 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bbl | Yonder | Autotechniek | 5022DD Tilburg | Stappegoorweg 183 |
+| 25846 | Werkbegeleider zorgbedrijf-dierhouderij | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 23278 | Maritiem officier | 3 | bol voltijd | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25598 | Engineer maritieme techniek | 4 | bol voltijd | STC | College Maritiem en Techniek | 3251LC Stellendam | Deltahaven 4 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | STC | College Procestechniek | 3089JA Rotterdam | Directiekade 32 |
+| 25589 | Schilder | 2 | bol voltijd | Nimeto | Nimeto | 3572LP Utrecht | Smijerslaan 2 |
+| 25113 | Natuursteenbewerker ambachtelijk | 2 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | ROC Midden Nederland | Tech College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | ROC Mondriaan | ROC Mondriaan Horeca & Facilitaire dienstverlening | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | HMC | Hout- en Meubileringscollege | 1043HR Amsterdam | Arlandaweg 173 |
+| 25660 | Interieurvakman parketvloeren | 2 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25217 | Stand- en decorbouwer | 2 | bbl | Nimeto | Nimeto | 3572LP Utrecht | Smijerslaan 2 |
+| 25038 | Stukadoor | 2 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25843 | Allround hospitality medewerker | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25621 | Medewerker hovenier | 2 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3241KC Middelharnis | Sportlaan 1 |
+| 25659 | Interieurvakman woningstofferen | 2 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25500 | Medewerker sport en recreatie | 2 | bbl | ROC Graafschap College | Zorg, Welzijn & Sport | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25346 | Operationeel technicus | 3 | bbl | STC | College Procestechniek | 3232AE Brielle | Kerkhoekstraat 1 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25841 | Vakexpert geo, data en design | 4 | bol voltijd | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25575 | Instructeur mbo | 4 | bol voltijd | Drenthe College Terra | Drenthe College | 9402NT Assen | Anne de Vriesstraat 70 |
+| 25843 | Allround hospitality medewerker | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Centrum | 1053ZP Amsterdam | Da Costastraat 60 |
+| 25217 | Stand- en decorbouwer | 2 | bol voltijd | Nimeto | Nimeto | 3572LP Utrecht | Smijerslaan 2 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25732 | Medewerker dierverzorging | 2 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3241KC Middelharnis | Sportlaan 1 |
+| 25889 | Eerste monteur koude- en klimaatsystemen | 3 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | ROC Midden Nederland | ROC Midden Nederland – Automotive College | 3439MA Nieuwegein | Structuurbaan 19 |
+| 25876 | E-commerce specialist | 4 | bbl | Zadkine | Zadkine Business College | 3032CC Rotterdam | Benthemplein 15 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | HMC | Hout- en Meubileringscollege | 3052KP Rotterdam | Erasmuspad 10 |
+| 25661 | Allround interieurvakman woningstofferen | 3 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25216 | Allround stand- en decorbouwer | 3 | bol voltijd | Nimeto | Nimeto | 3572LP Utrecht | Smijerslaan 2 |
+| 25881 | Mediamanager | 4 | bol voltijd | SiNTLUCAS | SintLucas | 5281CH Boxtel | Burgakker 17 |
+| 25705 | Vakexpert bloem, groen en styling | 4 | bol voltijd | Lentiz | Lentiz \| MBO Westland | 2672ZX Naaldwijk | Europa 1 |
+| 25778 | Air cargo specialist | 4 | bol voltijd | STC | College Logistiek en Vervoer | 3088HH Rotterdam | Waalhaven Z.z. 16 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Zone.college | Zone.college mbo | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25884 | Eerste autoschadehersteller | 3 | bbl | ROC Midden Nederland | ROC Midden Nederland – Automotive College | 3439MB Nieuwegein | Structuurbaan 6 |
+| 25037 | Gezel stukadoor | 3 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25855 | Allround meubelstoffeerder | 3 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25618 | Vakbekwaam hovenier | 3 | bbl | Lentiz | Lentiz \| MBO Middelharnis | 3241KC Middelharnis | Sportlaan 1 |
+| 25662 | Allround interieurvakman parketvloeren | 3 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25109 | Allround natuursteenbewerker | 3 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25888 | Servicemonteur koude- en klimaatsystemen | 3 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25834 | Eerste monteur utiliteit | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25791 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | bol voltijd | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25346 | Operationeel technicus | 3 | bol voltijd | STC | College Procestechniek | 3089JA Rotterdam | Directiekade 32 |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3241KC Middelharnis | Sportlaan 1 |
+| 25847 | Allround instructeur buitensport | 3 | bol voltijd | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25739 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | bol voltijd | Stichting Landstede | Landstede MBO | 3844DD Harderwijk | Westeinde 33 |
+| 25730 | Bedrijfsleider dierverzorging | 4 | bol voltijd | Lentiz | Lentiz \| MBO Middelharnis | 3241KC Middelharnis | Sportlaan 1 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bbl | Stichting Landstede | Landstede MBO | 8101AB Raalte | Zwolsestraat 63 a |
+| 25839 | Technicus hout en restauratie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25666 | Tandtechnisch medewerker basistechnieken | 3 | bbl | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25568 | Medewerker versindustrie | 2 | bbl | SVO | SVO Industrie | 1703DC Heerhugowaard | W.M. Dudokweg 78 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | Scalda | Scalda – Maritiem, ICT en Techniek | 4382AC Vlissingen | Boulevard Bankert 130 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25027 | Plafond- en wandmonteur | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25908 | Sport- en bewegingsleider | 3 | bbl | Vonk | Vonk Sport en bewegen | 1781XC Den Helder | Sperwerstraat 4 |
+| 25184 | Manager/ondernemer horeca | 4 | bbl | SVO | SVO Horeca Academie | 3991CN Houten | Sleepboot 2 |
+| 25990 | Vakexpert veehouderij | 4 | bbl | Drenthe College Terra | MBO Terra | 7944AV Meppel | Werkhorst 56 |
+| 27017 | Werkbegeleider zorgboerderij | 3 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25178 | Medewerker fastservice | 2 | bbl | ROC Mondriaan | ROC Mondriaan Horeca & Facilitaire dienstverlening | 2595GA ’s-Gravenhage | Koningin Marialaan 9 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bbl | Lentiz | Lentiz \| MBO Maasland | 3155AD Maasland | Commandeurskade 22 |
+| 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25178 | Medewerker fastservice | 2 | bbl | Yonder | NCVB Bedrijfsopleidingen | 5046CV Tilburg | Kasteeldreef 116 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25801 | Praktijkopleider | 4 | bbl | Scalda | Scalda – Zorg, Welzijn en Uiterlijke Verzorging | 4535HA Terneuzen | Vlietstraat 11 a |
+| 25566 | Productieleider versindustrie | 4 | bbl | SVO | SVO Industrie | 2991LN Barendrecht | Koopliedenweg 20 |
+| 25980 | Vakexpert voeding, kwaliteit en productontwikkeling | 4 | bbl | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25979 | Vakexpert voeding, technologie en techniek | 4 | bbl | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 25801 | Praktijkopleider | 4 | bbl | ROC Mondriaan | ROC Mondriaan Gezondheidszorg Den Haag | 2493WN ’s-Gravenhage | Aspasialaan 19 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25978 | Vakbekwaam medewerker voeding, technologie en techniek | 3 | bbl | Zone.college | Zone.college mbo | 7609PH Almelo | Bornerbroeksestraat 348 |
+| 25978 | Vakbekwaam medewerker voeding, technologie en techniek | 3 | bbl | Lentiz | Lentiz \| MBO LIFE College | 3112NA Schiedam | Parallelweg 401 |
+| 27010 | Eerste monteur gas-, water- of warmtedistributie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25079 | Allround betonreparateur | 3 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25176 | 1e Medewerker fastservice | 3 | bbl | SVO | SVO Out of Home | 1186MJ Amstelveen | Gondel 1 |
+| 25609 | Allround medewerker facilitaire dienstverlening | 3 | bbl | ROC Nijmegen eo | ROC Nijmegen directie Economie | 6512BT Nijmegen | Campusbaan 6 |
+| 25568 | Medewerker versindustrie | 2 | bbl | SVO | SVO Industrie | 2991LN Barendrecht | Koopliedenweg 20 |
+| 25001 | Allround medewerker afvalbeheer | 2 | bbl | ROC Midden Nederland | Tech Campus | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25927 | Werkvoorbereider meubelindustrie/(scheeps)interieurbouw | 4 | bol voltijd | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25871 | Middenkaderfunctionaris grond-, weg- en waterbouw | 4 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1022LD Amsterdam | Gare du Nord 13 |
+| 27008 | Monteur middenspanningsdistributie | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7061GA Terborg | Varsseveldseweg 12 |
+| 25689 | Basismedewerker fashion | 2 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Zuid | 1079PC Amsterdam | Europaboulevard 13 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25886 | Airco/warmtepompmonteur | 2 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25649 | Zelfstandig medewerker travel & hospitality | 3 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bbl | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bbl | ROC Nova College | Nova College Maritiem College | 1975BA IJmuiden | Kanaalstraat 7 |
+| 25120 | Uitvoerder gespecialiseerde aannemerij | 4 | bbl | SOMA College | Stichting SOMA | 3847LG Harderwijk | Ceintuurbaan 2 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25672 | Chauffeur openbaar vervoer | 2 | bbl | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 5912PN Venlo | Hagerhofweg 15 |
+| 27013 | Eerste monteur datadistributie | 3 | bbl | Drenthe College Terra | Drenthe College | 7811KL Emmen | Van Schaikweg 98 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | Summa College | Summa Wonen en Design | 5503LL Veldhoven | De Run 4250 |
+| 25785 | Allround Metselaar | 3 | bol voltijd | ROC Gilde Opleidingen | ROC Gilde Opleidingen | 6043HA Roermond | Kasteel Hillenraedtstraat 1 |
+| 25848 | Voeding- en leefstijladviseur | 4 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25617 | Opzichter/uitvoerder groene ruimte | 4 | bbl | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25747 | Assistent procestechniek | 1 | bbl | ROC van Twente | ROC van Twente, College voor Technologie | 7606JJ Almelo | De Sumpel 4 |
+| 25345 | Allround operationeel technicus | 4 | bol voltijd | Noorderpoort | Laboratoriumtechniek, Energy & Maritime | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25747 | Assistent procestechniek | 1 | bbl | ROC van Twente | ROC van Twente, College voor Technologie | 7513AB Enschede | M.H. Tromplaan 28 |
+| 25747 | Assistent procestechniek | 1 | bbl | ROC van Twente | ROC van Twente, College voor Technologie | 7772XP Hardenberg | Parkweg 1 -A2 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25277 | Technicus gas | 4 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25345 | Allround operationeel technicus | 4 | bbl | Noorderpoort | Laboratoriumtechniek, Energy & Maritime | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25041 | Beheerder milieustraat | 3 | bbl | ROC AVENTUS | Aventus MBO Basis & Lyceum | 2411ND Bodegraven | Klipperaak 2 |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25747 | Assistent procestechniek | 1 | bbl | Vonk | Vonk Mechatronica | 1781XC Den Helder | Sperwerstraat 4 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bol voltijd | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25646 | Leidinggevende leisure & hospitality | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4337WV Middelburg | Podium 15 |
+| 25914 | Biotechnicus | 4 | bbl | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4535HA Terneuzen | Vlietstraat 11 a |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Scalda | Scalda – Dienstverlening, Veiligheid en Gastvrijheid | 4462CM Goes | Bessestraat 4 |
+| 25608 | Facilitair leidinggevende | 4 | bbl | VISTA College | VISTA college | 6419AW Heerlen | Valkenburgerweg 148 |
+| 23278 | Maritiem officier | 4 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25757 | Waterbouwer | 2 | bbl | Talland College | Techniek | 1703WE Heerhugowaard | Stationsplein 129 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 27018 | Persoonlijk werkbegeleider zorgboerderij | 4 | bol voltijd | Vonk | Vonk Alkmaar mbo | 1824EX Alkmaar | Drechterwaard 10 |
+| 23278 | Maritiem officier | 3 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25828 | Allround timmerman | 3 | bol voltijd | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25984 | Vakbekwaam medewerker teelt | 3 | bbl | Yuverta | Yuverta mbo Horst-Spoorweg | 5963NJ Hegelsom | Spoorweg 8 |
+| 25998 | Software developer | 4 | bbl | Talland College | Business & IT | 1507EK Zaandam | Cypressehout 99 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | Drenthe College Terra | Drenthe College | 7822JJ Emmen | Anna Paulownalaan 1 |
+| 25847 | Allround instructeur buitensport | 3 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25839 | Technicus hout en restauratie | 3 | bol voltijd | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7553AE Hengelo | Lansinkesweg 28 A |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | Noorderpoort | Automotive | 9723AW Groningen | Bornholmstraat 31 |
+| 25585 | Allround montagemedewerker houttechniek | 3 | bol voltijd | Firda | Firda Heerenveen | 8447GH Heerenveen | Skrynmakker 1 |
+| 25827 | Tegelzetter | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5246JK Rosmalen | De Kleine Elst 11 |
+| 25761 | Procesoperator A | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25844 | Allround coördinator instructeur buitensport | 4 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25847 | Allround instructeur buitensport | 3 | bol voltijd | Yuverta | Yuverta mbo Geldermalsen | 4191PL Geldermalsen | Burgemeester Roozeveld van der Venlaan 7 |
+| 25890 | Technicus industriële koude- en klimaatsystemen | 4 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25844 | Allround coördinator instructeur buitensport | 4 | bol voltijd | Yuverta | Yuverta mbo Helmond | 5705KZ Helmond | Scheepsboulevard 1 |
+| 25844 | Allround coördinator instructeur buitensport | 4 | bol voltijd | Yuverta | Yuverta mbo Velp | 6882CT Velp | Larensteinselaan 26 b |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25672 | Chauffeur openbaar vervoer | 2 | bbl | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Firda | Firda Drachten | 9203KK Drachten | Burgemeester Wuiteweg 22 |
+| 25981 | Medewerker teelt | 2 | bbl | Aeres (V) MBO | Aeres MBO Buitenpost | 9285PS Buitenpost | Prof.Wassenberghstraat 3 |
+| 25177 | Manager/bedrijfsleider fastservice | 4 | bbl | Yonder | NCVB Bedrijfsopleidingen | 5046CV Tilburg | Kasteeldreef 116 |
+| 25673 | Touringcarchauffeur/reisleider | 3 | bbl | Noorderpoort | Europapark 1 | 9723AW Groningen | Bornholmstraat 31 |
+| 25629 | Medewerker steriele medische hulpmiddelen | 3 | bbl | mboRijnland | mboRijnland MBO College Welzijn en Zorg | 2311CS Leiden | Breestraat 46 |
+| 25672 | Chauffeur openbaar vervoer | 2 | bbl | VISTA College | VISTA college | 6135KT Sittard | Arendstraat 12 |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte (domein I) | 3 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2405EN Alphen aan den Rijn | Ambonstraat 1 |
+| 25752 | Asfaltafwerker | 2 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7451PR Holten | Produktieweg 13 |
+| 25825 | Technicus service en onderhoud werktuigkundige installaties | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25890 | Technicus industriële koude- en klimaatsystemen | 4 | bbl | Alfa-college | Alfa-college voor Techniek, Bouw & Interieur Groningen | 9726GR Groningen | Admiraal de Ruyterlaan 2 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 4261KC Wijk en Aalburg | Perzikstraat 7 a |
+| 25037 | Gezel stukadoor | 3 | bbl | Koning Willem I College | Koning Willem I College | 5246JS Rosmalen | Meester Vriensstraat 2 |
+| 25753 | Balkman | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7681NC Vroomshoop | Aziëlaan 3 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Westpoort | 1043EB Amsterdam | Tempelhofstraat 80 |
+| 25751 | Allround waterbouwer | 3 | bbl | Talland College | Techniek | 1703WE Heerhugowaard | Stationsplein 129 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7605AR Almelo | Veldkampsweg 24 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7324AG Apeldoorn | Boogschutterstraat 30 |
+| 25011 | Vakkracht industrieel lakverwerker | 3 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25587 | Werkvoorbereider houttechniek | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25043 | Voorman BOR | 3 | bbl | ROC AVENTUS | Aventus MBO Basis & Lyceum | 2411ND Bodegraven | Klipperaak 2 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3371KH Hardinxveld-Giessendam | Griendaak 5 |
+| 25724 | Assistant Business Services | 2 | bbl | Firda | Firda Emmeloord | 8302DC Emmeloord | Espelerlaan 74 |
+| 25277 | Technicus gas | 4 | bbl | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25751 | Allround waterbouwer | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7451PR Holten | Produktieweg 13 |
+| 25876 | E-commerce specialist | 4 | bbl | VISTA College | VISTA college | 6419AW Heerlen | Valkenburgerweg 148 |
+| 25969 | Audicien | 4 | bbl | ROC Da Vinci College | DA VINCI COLLEGE | 3318AL Dordrecht | Karel Lotsyweg 20 |
+| 25908 | Sport- en bewegingsleider | 3 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2332VW Leiden | Storm Buysingstraat 18 C |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25037 | Gezel stukadoor | 3 | bbl | Drenthe College Terra | Drenthe College | 9407TG Assen | Aziëweg 2 |
+| 25826 | Allround tegelzetter | 3 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25345 | Allround operationeel technicus | 4 | bbl | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25890 | Technicus industriële koude- en klimaatsystemen | 4 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | MBO Amersfoort | School voor Techniek | 3821BL Amersfoort | Hardwareweg 15 |
+| 25567 | Allround medewerker versindustrie | 3 | bbl | SVO | SVO Industrie | 8032VS Zwolle | Spui 2 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25801 | Praktijkopleider | 4 | bbl | Summa College | Summa Welzijn | 5616EA Eindhoven | Willem de Rijkelaan 3 |
+| 25841 | Vakexpert geo, data en design | 4 | bbl | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25821 | Eerste monteur service en onderhoud werktuigkundige installaties | 3 | bol voltijd | ROC van Flevoland | ROC van Flevoland – MBO College Almere | 1334PA Almere | Straat van Florida 1 |
+| 25803 | Handhaver toezicht en veiligheid Generieke opsporing (domein VI) | 3 | bol voltijd | VISTA College | VISTA college | 6419AW Heerlen | Valkenburgerweg 148 |
+| 27012 | Eerste monteur middenspanningsdistributie | 3 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte (domein I) | 3 | bbl | mboRijnland | mboRijnland MBO College Business en Hospitality | 2805TE Gouda | Groen van Prinsterersingel 52 |
+| 25907 | Allround Schoonheidspecialist | 4 | bbl | Summa College | Summa Beauty and Lifestyle | 5631KA Eindhoven | Sterrenlaan 4 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7461AK Rijssen | Reggesingel 54 |
+| 25648 | Zelfstandig medewerker leisure & hospitality | 3 | bbl | Alfa-college | Alfa-college voor Beroepsopleidingen Hardenberg | 7772XP Hardenberg | Parkweg 1 -A1 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bbl | Yuverta | Yuverta mbo Heerlen | 6415SB Heerlen | Heldevierlaan 12 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25752 | Asfaltafwerker | 2 | bbl | Zadkine | Techniek College Rotterdam – Bouwen & Wonen | 3112NA Schiedam | Parallelweg 403 |
+| 25916 | Bedrijfsleider paardensport en -houderij | 4 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25581 | Onderzoeker leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | bol voltijd | Noorderpoort | Laboratoriumtechniek, Energy & Maritime | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | Noorderpoort | Laboratoriumtechniek, Energy & Maritime | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25678 | Maritiem officier kleine schepen nautisch,visserij | 3 | bol voltijd | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25757 | Waterbouwer | 2 | bbl | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bbl | Firda | Firda Emmeloord | 8321XA Urk | Lange Riet 2 |
+| 25870 | Middenkaderfunctionaris bouw | 4 | bbl | Albeda | Techniek College Rotterdam – Bouwen & Wonen | 3118JB Schiedam | Schiedamseweg 245 |
+| 25897 | Researchinstrumentmaker | 4 | bol voltijd | Noorderpoort | Beroepsonderwijs Stadskanaal | 9502CW Stadskanaal | Sportparklaan 5 |
+| 25880 | Ondernemer handel | 4 | bbl | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25313 | Tekenaar ontwerper elektrotechniek | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25123 | Werkvoorbereider gespecialiseerde aannemerij | 4 | bbl | ROC Midden Nederland | Bouw & Interieur College (Nieuwegein) | 3438EB Nieuwegein | Harmonielaan 2 |
+| 25345 | Allround operationeel technicus | 4 | bbl | Firda | Firda Leeuwarden/Dokkum Noord | 8914BD Leeuwarden | Anne Wadmanwei 6 |
+| 25915 | Vakbekwaam medewerker paardensport en -houderij | 3 | bbl | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25843 | Allround hospitality medewerker | 3 | bol voltijd | Noorderpoort | Europapark 2 | 9723ZS Groningen | Boumaboulevard 113 |
+| 25848 | Voeding- en leefstijladviseur | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Ede | 6717LN Ede | Zandlaan 31 |
+| 25881 | Mediamanager | 4 | bol voltijd | MBO Utrecht | Herman Brood Academie | 3526AB Utrecht | Australiëlaan 23 |
+| 25845 | Adviseur duurzame leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Tilburg | 5038CB Tilburg | Spoorlaan 21 j |
+| 25844 | Allround coördinator instructeur buitensport | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Nijkerk | 3862WH Nijkerk | Luxoolseweg 1 |
+| 25893 | Technicus mechatronica | 4 | bol voltijd | Firda | Firda Leeuwarden/Dokkum Noord | 8914BD Leeuwarden | Anne Wadmanwei 6 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | Noorderpoort | Laboratoriumtechniek, Energy & Maritime | 9936HA Farmsum | Duurswoldlaan 2 A |
+| 25845 | Adviseur duurzame leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Nijmegen | 6541CW Nijmegen | Energieweg 19 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25803 | Handhaver toezicht en veiligheid Generieke opsporing (domein VI) | 3 | bol voltijd | Vonk | Vonk Toezicht en veiligheid | 1782ND Den Helder | Sportlaan 54 |
+| 25920 | Commercieel technicus | 4 | bol voltijd | ROC Nova College | Nova College Campus Haarlemmermeer | 2131PZ Hoofddorp | Paxlaan 26 |
+| 25314 | Tekenaar ontwerper werktuigkundige installaties | 4 | bbl | Deltion College | Deltion College – Techniek & Gebouwde Omgeving | 8031AA Zwolle | Mozartlaan 15 |
+| 25706 | Vakbekwaam medewerker bloem, groen en styling | 3 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25594 | Eerste Carrosseriebouwer | 3 | bbl | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25582 | Adviseur leefomgeving | 4 | bol voltijd | Yuverta | Yuverta mbo Roermond | 6042KA Roermond | Jagerstraat 6 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25618 | Vakbekwaam hovenier | 3 | bol voltijd | Yuverta | Yuverta mbo Rotterdam | 3028HT Rotterdam | Laanslootseweg 1 |
+| 25713 | Manager mobiliteitsbranche | 4 | bbl | Noorderpoort | Automotive | 9723AW Groningen | Bornholmstraat 31 |
+| 25186 | Ondernemer bakkerij | 4 | bol voltijd | Alfa-college | Alfa-college voor Beroepsopleidingen Hoogeveen | 7903AA Hoogeveen | Voltastraat 33 |
+| 25704 | Bedrijfsleider/ondernemer bloem, groen en styling | 4 | bol voltijd | Aeres (V) MBO | Aeres MBO Velp | 6881BA Velp | Pinkenbergseweg 5 f |
+| 25230 | Eerste Fietstechnicus | 3 | bol voltijd | Noorderpoort | Automotive | 9723AW Groningen | Bornholmstraat 31 |
+| 25677 | Maritiem officier kleine schepen nautisch, koopvaardij | 3 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25073 | Medewerker Juwelier | 3 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25072 | Juwelier | 4 | bol voltijd | Zadkine | Zadkine Vakschool Schoonhoven | 2871GS Schoonhoven | Mr. Kesperstraat 10 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25640 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | bol voltijd | Vonk | Vonk Maritiem | 1782ND Den Helder | Sportlaan 54 |
+| 25712 | Adviseur mobiliteitsbranche | 3 | bol voltijd | ROC AVENTUS | Aventus sector Techniek & Mobiel | 7331VZ Apeldoorn | Laan van de Mensenrechten 500 |
+| 25826 | Allround tegelzetter | 3 | bbl | ROC van Twente | ROC van Twente, College voor Bouw & Vervoer | 7681NC Vroomshoop | Aziëlaan 3 |
+| 25684 | Assistant Fashion Tailor | 3 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 25584 | Machineoperator houttechniek | 2 | bbl | ROC A12 | ROC A12 | 6717XA Ede | Bovenbuurtweg 7 |
+| 25566 | Productieleider versindustrie | 4 | bbl | SVO | SVO Industrie | 7547RX Enschede | Transportcentrum 24 |
+| 25666 | Tandtechnisch medewerker basistechnieken | 3 | bol voltijd | MBO Amersfoort | Dutch HealthTec Academy | 3565AK Utrecht | St.-Laurensdreef 22 |
+| 25207 | Basismedewerker printmedia | 2 | bbl | Grafisch Lyceum Utrecht | Grafisch Lyceum Utrecht | 3521GH Utrecht | Vondellaan 178 |
+| 25178 | Medewerker fastservice | 2 | bbl | ROC van Amsterdam | ROC van Amsterdam – MBO College Hilversum | 1213NW Hilversum | Arena 301 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Curio | Curio startcollege | 4816HB Breda | Beemd 10 |
+| 25961 | Medewerker sport en recreatie | 2 | bbl | Vonk | Vonk Sport en bewegen | 1781XC Den Helder | Sperwerstraat 4 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Aeres (V) MBO | Aeres MBO Heerenveen | 8448GK Heerenveen | Domela Nieuwenhuisweg 3 |
+| 25595 | Carrosseriebouwer | 2 | bbl | Deltion College | Deltion College – Mobiliteit, Logistiek & Veiligheid | 8031AA Zwolle | Mozartlaan 15 |
+| 25679 | Maritiem officier kleine schepen technisch | 3 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25683 | Maritiem officier alle schepen technisch | 4 | bol voltijd | STC | College Maritiem en Techniek | 2225GV Katwijk | Zuidstraat 135 A |
+| 25679 | Maritiem officier kleine schepen technisch | 3 | bol voltijd | STC | College Maritiem en Techniek | 8031AA Zwolle | Mozartlaan 15 |
+| 25799 | Medewerker podium- en evenemententechniek | 2 | bol voltijd | Albeda | Albeda MBO Theaterschool | 3024BJ Rotterdam | Pieter de Hoochweg 222 |
+| 25622 | Medewerker natuur, water en recreatie | 2 | bol voltijd | Zone.college | Zone.college mbo | 8017JN Zwolle | Koggelaan 7 |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | VISTA College | VISTA college | 6415GG Heerlen | Schandelermolenweg 21 |
+| 25732 | Medewerker dierverzorging | 2 | bbl | Yuverta | Yuverta mbo Dordrecht | 3315LA Dordrecht | Groenezoom 398 |
+| 25519 | Schipper-machinist beperkt werkgebied | 2 | bbl | STC | College Maritiem en Techniek | 3088GR Rotterdam | Soerweg 31 |
+| 25346 | Operationeel technicus | 3 | bol voltijd | STC | College Procestechniek | 3251LC Stellendam | Deltahaven 4 |
+| 25681 | Maritiem officier alle schepen nautisch, waterbouw | 4 | bol voltijd | STC | College Maritiem en Techniek | 3024EA Rotterdam | Lloydstraat 300 |
+| 25586 | Allround machineoperator houttechniek | 3 | bbl | ROC Graafschap College | Techniek & Informatica | 7001EA Doetinchem | J F Kennedylaan 49 |
+| 25786 | Metselaar | 2 | bol voltijd | ROC van Amsterdam | ROC van Amsterdam – MBO College Noord | 1112AZ Diemen | Volmerstraat 22 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Yuverta | Yuverta mbo Aalsmeer | 1431JV Aalsmeer | Linnaeuslaan 2 |
+| 25738 | Technicus elektrotechnische industriële systemen en installaties | 4 | bbl | Hoornbeeck College | Hoornbeeck College | 3771NB Barneveld | Gildeweg 18 |
+| 25308 | Monteur service en onderhoud installaties en systemen | 2 | bol voltijd | ROC van Twente | ROC van Twente, College voor Technologie | 7552HA Hengelo | Sportlaan Driene 2 |
+| 25707 | Medewerker bloem, groen en styling | 2 | bbl | Yuverta | Yuverta mbo Rijswijk | 2283SG Rijswijk | Huis te Landelaan 2 |
+| 25621 | Medewerker hovenier | 2 | bol voltijd | Aeres (V) MBO | Aeres MBO Leeuwarden | 8934BM Leeuwarden | Jansoniusstraat 2 a |
+| 25786 | Metselaar | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5467HA Veghel | Muntelaar 10 |
+| 25786 | Metselaar | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5344CS Oss | Euterpelaan 100 |
+| 25751 | Allround waterbouwer | 3 | bbl | Firda | Firda Drachten | 9202LC Drachten | Splitting 21 |
+| 25786 | Metselaar | 2 | bol voltijd | Koning Willem I College | Koning Willem I College | 5246JK Rosmalen | De Kleine Elst 11 |
+
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
 Deze regeling berust mede op [artikel 7, zesde lid, onderdeel b, onder 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7).
 
-## Bijlage B. Lijst van aangewezen scholen in het voortgezet onderwijs met een Topsporttalenschool-licentie of een DAMU-licentie
-
-| Naam | Adres | Postcode en plaats |
-| --- | --- | --- |
-| OSG Willem Blaeu | Robonsbosweg 11 | 1816 MK Alkmaar |
-| CSG Het Noordik | Noordikslaan 68 | 7600 CG Almelo |
-| OSG Echnaton/Helen Parkhurst | Zwolleweg 1 | 1324 EL Almere |
-| Scala College | Diamantstraat 31 | 2403 AS Alphen aan den Rijn |
-| Het Calandlyceum | Pieter Calandlaan 182 | 1068 NT Amsterdam |
-| Veluws College | Waltersingel 130 | 7314 NX Apeldoorn |
-| Beekdal Lyceum/’t Venster | Bernhardlaan 49 | 6824 LE Arnhem |
-| Graaf Engelbrecht | Ganzerik 3 | 4822 RK Breda |
-| Segbroek College | Klaverstraat 7 | 2565 BT Den Haag |
-| Sint-Joriscollege | Roostenlaan 296 | 5644 BS Eindhoven |
-| Carmelcollege Emmen | Wendeling 59 | 7824 TB Emmen |
-| Het Stedelijk Lyceum, locatie Zuid | Tiemeister 20 | 7541 WG Enschede |
-| Topsporttalentschool Groningen | Melisseweg 2 | 9731 BX Groningen |
-| OSG Sevenwolden | Buitenbaan 5 | 8441 HB Heerenveen |
-| CVO ’t Gooi | Bisonlaan 1 | 1217 GH Hilversum |
-| Haarlemmermeer Lyceum | Baron de Coubertinlaan 2 | 2134 CG Hoofddorp |
-| Tabor College | Maelsonstraat 26 | 1624 NP Hoorn |
-| Leonardo College | Noachstraat 2 | 2324 LT Leiden |
-| SSgN-OS voor Jenaplanonderwijs | IJsbeerstraat 12 | 6531 PL Nijmegen |
-| Rodenborch College | T.M. Kortenhorstlaan 4 | 5244 GD Rosmalen |
-| Thorbecke Voortgezet Onderwijs | Prinsenlaan 82 | 3066 KA Rotterdam |
-| Trevianum Scholengr. (HAVO/VWO) | Bradleystraat 25 | 6135 CV Sittard |
-| Da Capo College (VMBO) | Havikstraat 5 | 6135 ED Sittard |
-| Koning Willem II College | Tatraweg 80 | 5022 DS Tilburg |
-| Leidsche Rijn College/Via Nova Coll. | Maartvlinder 1 | 3544 DA Utrecht |
-| College Den Hulster | Hagerhofweg 15 | 5912 PN Venlo |
-| Scheldemond College | Weyevlietplein 7-13 | 4385 CH Vlissingen |
-| LVO Weert | Parklaan 1a | 6006 NT Weert |
-| CSE – Thomas a Kempis | Boerendanserdijk 2A | 8024 AH Zwolle |
-
-| Naam | Adres | Postcode en plaats |
-| --- | --- | --- |
-| Gerrit van der Veen College | Gerrit van der Veenstraat 99 | 1077 DT Amsterdam |
-| Individueel Voortgezet Kunstonderwijs, MSA | Rustenburgerstraat 15 | 1074 EP Amsterdam |
-| Beekdal Lyceum | Bernhardlaan 49 | 6824 LE Arnhem |
-| Het Stedelijk Lyceum (HSL) | Lyceumlaan 30 | 7522 GK Enschede |
-| Interfaculteit School voor Jong Talent | Turfmarkt 7 | 2511 DK Den Haag |
-| Harens Lyceum | Kerklaan 39 | 9751 NL Haren |
-| Bonnefanten College | Tongerseweg 135 | 6213 GB Maastricht |
-| Havo/Vwo voor dans en muziek | Kruisplein 26 | 3012 CC Rotterdam |
-| Thorbecke Voortgezet Onderwijs | Prinsenlaan 82 | 3066 KA Rotterdam |
-| Koning Willem II College | Tatraweg 80 | 5022 DS Tilburg |
-| Valuas College | Hogerweg 24 | 5911 EB Venlo |
-
 ## Bijlage B. Lijst van aangewezen scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie of een DAMU-licentie
 
-| Scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie | Scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie | Scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie |
-| --- | --- | --- |
 | Naam | Adres | Postcode en plaats |
+| --- | --- | --- |
 | OSG Willem Blaeu | Robonsbosweg 11 | 1816 MK Alkmaar |
 | CSG Het Noordik | Noordikslaan 68 | 7600 CG Almelo |
 | OSG Echnaton/Helen Parkhurst | Zwolleweg 1 | 1324 EL Almere |
 | Scala College | Kees Mustersstraat 6 | 2406 LK Alphen aan den Rijn |
 | Het Calandlyceum | Pieter Calandlaan 182 | 1068 NT Amsterdam |
-| Veluws College UDO – UGO | Waltersingel 130 | 7314 NX Apeldoorn |
+| Veluws College | Waltersingel 130 | 7314 NX Apeldoorn |
 | Beekdal Lyceum/’t Venster | Bernhardlaan 49 | 6824 LE Arnhem |
 | Graaf Engelbrecht | Ganzerik 3 | 4822 RK Breda |
 | Segbroek College | Klaverstraat 7 | 2565 BT Den Haag |
@@ -2359,42 +4153,21 @@ Deze regeling berust mede op [artikel 7, zesde lid, onderdeel b, onder 5°, van 
 | Koning Willem II College | Tatraweg 80 | 5022 DS Tilburg |
 | Leidsche Rijn College/Via Nova Coll. | Maartvlinder 1 | 3544 DA Utrecht |
 | College Den Hulster | Hagerhofweg 15 | 5912 PN Venlo |
-| Scheldemond College | Weyevlietplein 7 | 4385 CH Vlissingen |
+| Scheldemond College | Weyevlietplein 7-13 | 4385 CH Vlissingen |
 | LVO Weert | Parklaan 1a | 6006 NT Weert |
 | CSE – Thomas a Kempis | Boerendanserdijk 2A | 8024 AH Zwolle |
-| Mendel college | Pim Mulierlaan 4 – 6 | 2024 BT Haarlem |
+| Mendel College | Pim Mulierlaan 4 – 6 | 2024 BT Haarlem |
 | RSG ’t Rijks | Burg Stulemeijerlaan 24 | 4611 EG Bergen op Zoom |
-
-| Scholen in het voorgezet onderwijs met een DAMU-licentie | Scholen in het voorgezet onderwijs met een DAMU-licentie | Scholen in het voorgezet onderwijs met een DAMU-licentie |
-| --- | --- | --- |
-| Naam | Adres | Postcode en plaats |
-| Gerrit van der Veen College | Gerrit van der Veenstraat 99 | 1077 DT Amsterdam |
-| Individueel Voortgezet Kunstonderwijs, MSA | Rustenburgerstraat 15 | 1074 EP Amsterdam |
-| Beekdal Lyceum | Bernhardlaan 49 | 6824 LE Arnhem |
-| Het Stedelijk Lyceum (HSL) | Lyceumlaan 30 | 7522 GK Enschede |
-| Interfaculteit School voor Jong Talent | Turfmarkt 7 | 2511 DK Den Haag |
-| Harens Lyceum | Kerklaan 39 | 9751 NL Haren |
-| Bonnefanten College | Tongerseweg 135 | 6213 GB Maastricht |
-| Codarts Lyceum | Kruisplein 26 | 3012 CC Rotterdam |
-| Thorbecke Voortgezet Onderwijs | Prinsenlaan 82 | 3066 KA Rotterdam |
-| Koning Willem II College | Tatraweg 80 | 5022 DS Tilburg |
-| Valuas College | Hogerweg 24 | 5911 EB Venlo |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
 ## Bijlage C. Lijst van aangewezen voorbereidende middelbare beroepsopleidingen
 
-| School | Adres | Postcode en plaats |
+| Naam | Adres | Postcode en plaats |
 | --- | --- | --- |
-| Martieme academie Harlingen | Almenumerweg 1 | 8861 KM Harlingen |
-| Maritieme academie IJmuiden | Briniostraat 10 | 1971 HM IJmuiden |
+| Maritieme Academie Harlingen | Almenumerweg 1 | 8861 GG Harlingen |
+| Maritiem College IJmuiden | Briniostraat 10 | 1971 HM IJmuiden |
 | Scheepvaart en transportcollege | Anthony Fokkerweg 4 | 3088 GG Rotterdam |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-### Scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie
-
-### Scholen in het voorgezet onderwijs met een DAMU-licentie (Beleidsregel verstrekking DAMU-licentie VO)
 
 ## Bijlage D. Lijst van centra voor topsport
 
@@ -2405,9 +4178,45 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 | TeamNL centrum Noord | Abe Lenstraboulevard 23Q | 8448 JA HEERENVEEN |
 | TeamNL centrum Zuid | Antoon Coolenlaan 1 | 5644 RX EINDHOVEN |
 | TeamNL centrum Metropool | Mr. P. Drooglever Fortynweg 22 | 2533 SR DEN HAAG |
-| NTC Waterpolo | Woudenbergseweg 56 | 3707 HX ZEIST |
 | NTC Triathlon | Eggerweg 4 | 6135 LG SITTARD |
 | NTC KNLTB | Bovenkerkerweg 81 | 1187 XC Amstelveen |
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+### Scholen in het voortgezet onderwijs met een Topsporttalentschool-licentie
+
+### Scholen in het voorgezet onderwijs met een DAMU-licentie (Beleidsregel verstrekking DAMU-licentie VO)
+
+## Bijlage E. Lijst van aangewezen erkende niet door het Rijk bekostigde opleidingen
+
+| erkende opleiding | erkende opleidingsnaam | niveau | leerweg | naam instelling | postcode plaats instelling | adres instelling |
+| --- | --- | --- | --- | --- | --- | --- |
+| 25647 | Leidinggevende travel & hospitality | 4 | bbl | Laurentius College B.V. | 1118CL SCHIPHOL | Evert van de Beekstraat 39 NA |
+| 25693 | Medisch Pedicure | 4 | bol voltijd | Amice Academy | 3871KM HOEVELAKEN | Hogebrinkerweg 17 a |
+| 25694 | Pedicure | 3 | bol voltijd | Amice Academy | 3871KM HOEVELAKEN | Hogebrinkerweg 17 a |
+| 25713 | Manager mobiliteitsbranche | 4 | bol voltijd | IVA Driebergen business School | 3972JT DRIEBERGEN-RIJSENBURG | Hogesteeg 2 A |
+| 25727 | Marketing & Communication Specialist | 4 | bbl | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bbl | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25731 | Dierenartsassistent paraveterinair | 4 | bol voltijd | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25724 | Assistant Business Services | 2 | bbl | ORGB Opleidingen | 6067BR LINNE | Grotestraat 24 NA |
+| 25085 | Allround betontimmerman | 3 | bbl | Instituut Broers | 5022DL TILBURG | Stappegoorweg 190 NA |
+| 25085 | Allround betontimmerman | 3 | bbl | ORGB Opleidingen | 6067BR LINNE | Grotestraat 24 NA |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | Stg Vakopleiding Techniek | 5431NL CUIJK | Het Riet 7 NA |
+| 25122 | Werkvoorbereider fabricage | 4 | bbl | CRAFT Education | 5751PW DEURNE | Dukaat 17 NA |
+| 25869 | Allround dakdekker metaal | 3 | bbl | Essenzo | 2803PA GOUDA | Burg van Reenensingel 101 e |
+| 25876 | E-commerce specialist | 4 | bbl | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25906 | Schoonheidspecialist | 3 | bbl | Amice Academy | 3871KM HOEVELAKEN | Hogebrinkerweg 17 a |
+| 25907 | Allround Schoonheidspecialist | 4 | bbl | Amice Academy | 3871KM HOEVELAKEN | Hogebrinkerweg 17 a |
+| 25952 | Chemisch fysisch analist | 4 | bol voltijd | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25953 | Biologisch medisch analist | 4 | bol voltijd | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25953 | Biologisch medisch analist | 4 | bbl | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 25125 | Betontimmerman | 2 | bbl | Instituut Broers | 5022DL TILBURG | Stappegoorweg 190 NA |
+| 25734 | Zelfstandig medewerker dierverzorging | 3 | bbl | Marlijn Academie | 4771RB LANGEWEG | De Langeweg 22 NA |
+| 25207 | Basismedewerker printmedia | 2 | bbl | GOC | 3905PL VEENENDAAL | De Schutterij 10 NA |
+| 25998 | Software developer | 4 | bbl | Capabel Onderwijs Groep B.V. | 3526AB UTRECHT | Australielaan 14 – 16 |
+| 27007 | Monteur laagspanningsdistributie | 2 | bbl | Ponsioen Opleiding en Advies | 5705BZ HELMOND | Lage Dijk 6 b |
+| 27011 | Eerste monteur laagspanningsdistributie | 3 | bbl | Ponsioen Opleiding en Advies | 5705BZ HELMOND | Lage Dijk 6 b |
+| 25983 | Medewerker veehouderij | 2 | bbl | ORGB Opleidingen | 6067BR LINNE | Grotestraat 24 NA |
 
 ## Bijlage E. Lijst van aangewezen erkende niet door het Rijk bekostigde opleidingen
 
