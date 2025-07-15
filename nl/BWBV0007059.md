@@ -4,7 +4,7 @@ identifier: "BWBV0007059"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-07-15"
-last_updated: "2018-07-23"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007059"
 soort: "verdrag"
@@ -106,7 +106,7 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 ##### Artikel 6. Autorisatieproces
 
-1. De Partijen verstrekken elkaar lijsten met de namen van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=4&z=2018-07-23&g=2018-07-23), van deze Uitvoeringsovereenkomst bedoelde ambtenaren en alle verdere gegevens die nodig zijn om de autorisaties bedoeld in [artikel 15, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=15) te verlenen. De uitwisseling van deze gegevens vindt plaats tussen de contactpunten.
+1. De Partijen verstrekken elkaar lijsten met de namen van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=4&z=2025-07-15&g=2025-07-15), van deze Uitvoeringsovereenkomst bedoelde ambtenaren en alle verdere gegevens die nodig zijn om de autorisaties bedoeld in [artikel 15, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=15) te verlenen. De uitwisseling van deze gegevens vindt plaats tussen de contactpunten.
 
 2. De contactpunten dragen zorg dat de autorisaties op naam worden verleend dan wel worden beëindigd.
 
@@ -118,11 +118,11 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 ##### Artikel 7. Screening
 
-De Partijen zijn zelf verantwoordelijk voor de screening van hun ambtenaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=5&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst. De Partijen aanvaarden de waarde van elkaars screening en voeren geen aanvullende eigen screening uit.
+De Partijen zijn zelf verantwoordelijk voor de screening van hun ambtenaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=5&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst. De Partijen aanvaarden de waarde van elkaars screening en voeren geen aanvullende eigen screening uit.
 
 ##### Artikel 8. Opleidingen/instructies
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=5&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst bedoelde opleidingen en instructies worden verstrekt door de Partij die de autorisatie voor de toegang tot haar databanken dient te verlenen. De volgende elementen maken in elk geval deel uit van deze opleiding of instructie:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=5&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst bedoelde opleidingen en instructies worden verstrekt door de Partij die de autorisatie voor de toegang tot haar databanken dient te verlenen. De volgende elementen maken in elk geval deel uit van deze opleiding of instructie:
 
 - a. de technische-functionele omgang met elkaars databanken;
 
@@ -158,9 +158,9 @@ De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging 
 
 6. Bij signalen of vermoedens van oneigenlijke raadplegingen verstrekt de bevoegde dienst die de geraadpleegde gegevensset beheert de relevante loggegevens aan de Partij wiens bevoegde dienst de gegevens heeft geraadpleegd.
 
-7. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=9&z=2018-07-23&g=2018-07-23), kunnen bij signalen of vermoedens van oneigenlijk gebruik per direct de autorisatie van de betrokken ambtenaar of de autorisaties van alle ambtenaren van de betrokken bevoegde dienst opschorten of beëindigen.
+7. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=9&z=2025-07-15&g=2025-07-15), kunnen bij signalen of vermoedens van oneigenlijk gebruik per direct de autorisatie van de betrokken ambtenaar of de autorisaties van alle ambtenaren van de betrokken bevoegde dienst opschorten of beëindigen.
 
-8. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=9&z=2018-07-23&g=2018-07-23), houden een register bij van de vastgestelde oneigenlijke raadplegingen, zoals bedoeld in het zesde en zevende lid van dit artikel, dat telkens de aard van de oneigenlijke raadpleging, de aanduiding van de politiedatabank in kwestie en de genomen maatregel of maatregelen vermeldt. Deze registers worden aan de bevoegde toezichthoudende autoriteiten van beide Partijen, zoals bedoeld in artikel 41 van [Richtlijn (EU) 2016/680](32016L0680), bezorgd zodra deze daar om verzoeken.
+8. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007059&artikel=9&z=2025-07-15&g=2025-07-15), houden een register bij van de vastgestelde oneigenlijke raadplegingen, zoals bedoeld in het zesde en zevende lid van dit artikel, dat telkens de aard van de oneigenlijke raadpleging, de aanduiding van de politiedatabank in kwestie en de genomen maatregel of maatregelen vermeldt. Deze registers worden aan de bevoegde toezichthoudende autoriteiten van beide Partijen, zoals bedoeld in artikel 41 van [Richtlijn (EU) 2016/680](32016L0680), bezorgd zodra deze daar om verzoeken.
 
 ##### Artikel 13. Geschillen
 
