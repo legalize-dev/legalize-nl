@@ -4,7 +4,7 @@ identifier: "BWBR0013798"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-16"
-last_updated: "2025-03-01"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013798"
 soort: "wet"
@@ -52,19 +52,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **advies:** het advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01);
+- **advies:** het advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16);
 
 - **beschikking:** een beschikking ter zake van een subsidie, alsmede een beschikking ter zake van een vergunning, toekenning, goedkeuring, erkenning, registratie, aanwijzing of ontheffing voor zover:
 
-- 1°. bij de wet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), kan worden geweigerd, dan wel ingetrokken, of
+- 1°. bij de wet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), kan worden geweigerd, dan wel ingetrokken, of
 
-- 2°. bij de wet is bepaald dat bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), kan worden geweigerd, dan wel ingetrokken;
+- 2°. bij de wet is bepaald dat bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), kan worden geweigerd, dan wel ingetrokken;
 
 - **betrokkene:** de aanvrager van een beschikking, de subsidie-ontvanger, de vergunninghouder, de begunstigde van een andere beschikking, de gegadigde, de natuurlijke persoon of rechtspersoon aan wie een overheidsopdracht is of zal worden gegund, de onderaannemer, de natuurlijke persoon of rechtspersoon met wie een vastgoedtransactie is of zal worden aangegaan of met wie wordt onderhandeld over een dergelijke transactie, de beoogd verkrijger van de erfpacht of de opstal waarvoor toestemming is gevraagd als bedoeld in de begripsbepaling «vastgoedtransactie», onder 5°, en de beoogd verkrijger van een recht op eigendom of een zakelijk recht waarvoor toestemming is gevraagd als bedoeld in de begripsbepaling «vastgoedtransactie», onder 6°;
 
-- **Bureau:** het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-03-01&g=2025-03-01);
+- **Bureau:** het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-07-16&g=2025-07-16);
 
-- **eigen onderzoek:** eigen onderzoek, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01);
+- **eigen onderzoek:** eigen onderzoek, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16);
 
 - **gegadigde:** degene die zich heeft gemeld voor een aanbestedingsprocedure teneinde een aanbieding te doen, of heeft ingeschreven op een aanbestedingsprocedure dan wel in onderhandeling is getreden met een rechtspersoon met een overheidstaak;
 
@@ -106,7 +106,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. een overeenkomst waarmee een rechtspersoon met een overheidstaak zorg als bedoeld in [artikel 2.11 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) of [artikel 2.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.1) inkoopt bij een ondernemer in het kader van een systeem waarbij voornoemde rechtspersoon overeenkomsten sluit met iedere ondernemer die zich ertoe verbindt om diensten of goederen te leveren tegen vooraf vastgestelde voorwaarden zonder dat het aantal belangstellende ondernemers aan de hand van een gunningscriterium wordt beperkt, met dien verstande dat voor «gegadigde» wordt gelezen «ondernemer».
 
-5. In deze wet, met uitzondering van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3a&z=2025-03-01&g=2025-03-01), en de op deze wet berustende bepalingen wordt onder strafbaar feit mede verstaan: een overtreding waarvoor een bestuurlijke boete kan worden opgelegd.
+5. In deze wet, met uitzondering van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3a&z=2025-07-16&g=2025-07-16), en de op deze wet berustende bepalingen wordt onder strafbaar feit mede verstaan: een overtreding waarvoor een bestuurlijke boete kan worden opgelegd.
 
 6. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt een wijziging van een omgevingsplan op aanvraag als bedoeld in [artikel 4.19b van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.19b) gelijkgesteld met een beschikking.
 
@@ -130,7 +130,7 @@ Er is een Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 
 ##### Artikel 9
 
-1. Het Bureau heeft tot taak aan bestuursorganen, voorzover deze bij of krachtens de wet de bevoegdheid hebben gekregen het Bureau daartoe te verzoeken, op verzoek advies uit te brengen over de mate van gevaar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), of over de feiten en omstandigheden, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+1. Het Bureau heeft tot taak aan bestuursorganen, voorzover deze bij of krachtens de wet de bevoegdheid hebben gekregen het Bureau daartoe te verzoeken, op verzoek advies uit te brengen over de mate van gevaar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), of over de feiten en omstandigheden, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
 2. Voor zover het gaat om een overheidsopdracht, heeft het Bureau voorts tot taak rechtspersonen met een overheidstaak desgevraagd advies uit te brengen over:
 
@@ -150,13 +150,13 @@ Er is een Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 
 - c. de feiten en omstandigheden die er op wijzen of redelijkerwijs doen vermoeden dat ter verkrijging of behoud van een vastgoedtransactie een strafbaar feit is gepleegd.
 
-4. [Artikel 3, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
+4. [Artikel 3, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), is van overeenkomstige toepassing.
 
 5. Het Bureau kan afzien van het uitbrengen van een advies indien:
 
-- a. het bestuursorgaan of de rechtspersoon met een overheidstaak niet de in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), bedoelde informatie heeft toegezonden aan het Bureau; of
+- a. het bestuursorgaan of de rechtspersoon met een overheidstaak niet de in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), bedoelde informatie heeft toegezonden aan het Bureau; of
 
-- b. uit de in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), bedoelde informatie naar het oordeel van het Bureau blijkt dat het bestuursorgaan of de rechtspersoon met een overheidstaak onvoldoende gebruik heeft gemaakt van de mogelijkheden tot het verrichten van eigen onderzoek.
+- b. uit de in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), bedoelde informatie naar het oordeel van het Bureau blijkt dat het bestuursorgaan of de rechtspersoon met een overheidstaak onvoldoende gebruik heeft gemaakt van de mogelijkheden tot het verrichten van eigen onderzoek.
 
 ##### Artikel 10
 
@@ -178,11 +178,11 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 - b. persoonsgegevens die rechtstreeks zijn te herleiden tot gegevens uit openbare bronnen,
 
-- c. persoonsgegevens die zijn verstrekt op grond van de [artikelen 7a, vierde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-03-01&g=2025-03-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2025-03-01&g=2025-03-01) of [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27a&z=2025-03-01&g=2025-03-01), en
+- c. persoonsgegevens die zijn verstrekt op grond van de [artikelen 7a, vierde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-07-16&g=2025-07-16), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2025-07-16&g=2025-07-16) of [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27a&z=2025-07-16&g=2025-07-16), en
 
 - d. persoonsgegevens die zijn verkregen overeenkomstig artikel 6, eerste lid, aanhef en onder e, van de Algemene verordening gegevensbescherming.
 
-3. In afwijking van het tweede lid kan het Bureau in het geval dat het door de betrokkene ingevulde formulier, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), onvoldoende informatie verschaft voor het onderzoek ten behoeve van het advies, dan wel de gegevens die door middel van dat formulier en uit de verschillende bestanden of registraties zijn verkregen niet gelijkluidend zijn, de betrokkene verzoeken om nadere gegevens over:
+3. In afwijking van het tweede lid kan het Bureau in het geval dat het door de betrokkene ingevulde formulier, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), onvoldoende informatie verschaft voor het onderzoek ten behoeve van het advies, dan wel de gegevens die door middel van dat formulier en uit de verschillende bestanden of registraties zijn verkregen niet gelijkluidend zijn, de betrokkene verzoeken om nadere gegevens over:
 
 - a. de vertegenwoordigingsbevoegdheid van degene die het formulier heeft ingevuld;
 
@@ -198,7 +198,7 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 ##### Artikel 13
 
-1. Voor de uitvoering van de taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01), kan het Bureau de bevoegde buitenlandse autoriteiten verzoeken na te gaan of aldaar gegevens bekend zijn over natuurlijke personen of rechtspersonen tot wie zijn onderzoek zich uitstrekt. Het verzoek kan betrekking hebben op:
+1. Voor de uitvoering van de taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), kan het Bureau de bevoegde buitenlandse autoriteiten verzoeken na te gaan of aldaar gegevens bekend zijn over natuurlijke personen of rechtspersonen tot wie zijn onderzoek zich uitstrekt. Het verzoek kan betrekking hebben op:
 
 - a. strafrechtelijke gegevens, en
 
@@ -246,7 +246,7 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 ##### Artikel 20
 
-1. Voor zoveel nodig in afwijking van hetgeen in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en andere wetten is bepaald ten aanzien van verstrekking van gegevens, verstrekt het Bureau aan derden geen persoonsgegevens die het heeft verkregen in het kader van zijn taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01).
+1. Voor zoveel nodig in afwijking van hetgeen in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en andere wetten is bepaald ten aanzien van verstrekking van gegevens, verstrekt het Bureau aan derden geen persoonsgegevens die het heeft verkregen in het kader van zijn taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16).
 
 2. Onder derden als bedoeld in het eerste lid worden mede begrepen andere onder de Minister van Justitie en Veiligheid ressorterende dienstonderdelen en andere overheidsdiensten en -instellingen.
 
@@ -254,7 +254,7 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 - a. voorzover persoonsgegevens in het advies dienen te worden opgenomen in verband met de noodzakelijke motivering daarvan;
 
-- b. in de berichtgeving, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-03-01&g=2025-03-01) of [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-03-01&g=2025-03-01);
+- b. in de berichtgeving, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-07-16&g=2025-07-16) of [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-07-16&g=2025-07-16);
 
 - c. ten behoeve van de uitoefening van de controlerende of toezichthoudende bevoegdheid van:
 
@@ -276,7 +276,9 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 - g. aan een tot oplegging van een bestuurlijke boete bevoegd bestuursorgaan ten behoeve van het melden van een overtreding;
 
-- h. aan een opsporingsambtenaar ten behoeve van het doen van aangifte van een begaan strafbaar feit.
+- h. aan een opsporingsambtenaar ten behoeve van het doen van aangifte van een begaan strafbaar feit;
+
+- i. aan de Kamer van Koophandel, uitsluitend voor zover de gegevens noodzakelijk zijn om uitvoering te geven aan [artikel 38a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=38a) en [artikel 21 van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=21).
 
 #### Paragraaf 3.2. Werkwijze van het Bureau
 
@@ -314,7 +316,7 @@ Vervallen
 
 ##### Artikel 27
 
-1. De volgende bestuursorganen verstrekken het Bureau desgevraagd alle gegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01):
+1. De volgende bestuursorganen verstrekken het Bureau desgevraagd alle gegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16):
 
 - a. Onze Minister van Financiën, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door:
 
@@ -388,7 +390,7 @@ Vervallen
 
 ##### Artikel 43
 
-De bepalingen van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=5&z=2025-03-01&g=2025-03-01) genoemde wetten, zoals zij luiden na de inwerkingtreding van deze wet, zijn niet van toepassing op de aanvraag van een beschikking die voor die datum is ingediend, onderscheidenlijk de aanbestedingsprocedure of onderhandeling waarmee voor die datum een aanvang is gemaakt.
+De bepalingen van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=5&z=2025-07-16&g=2025-07-16) genoemde wetten, zoals zij luiden na de inwerkingtreding van deze wet, zijn niet van toepassing op de aanvraag van een beschikking die voor die datum is ingediend, onderscheidenlijk de aanbestedingsprocedure of onderhandeling waarmee voor die datum een aanvang is gemaakt.
 
 ##### Artikel 44
 
@@ -462,33 +464,33 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 4
 
-1. Indien toepassing wordt gegeven aan [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), wordt de weigering van de vergunninghouder, de begunstigde van een andere beschikking, of de subsidie-ontvanger om een formulier als bedoeld in artikel 7a, vijfde lid, volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+1. Indien toepassing wordt gegeven aan [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), wordt de weigering van de vergunninghouder, de begunstigde van een andere beschikking, of de subsidie-ontvanger om een formulier als bedoeld in artikel 7a, vijfde lid, volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
-2. Indien toepassing wordt gegeven aan [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-03-01&g=2025-03-01), wordt de weigering van de aanvrager van een beschikking, de subsidie-ontvanger, de vergunninghouder of de begunstigde van een andere beschikking om aanvullende gegevens te verschaffen, aangemerkt als een ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+2. Indien toepassing wordt gegeven aan [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-07-16&g=2025-07-16), wordt de weigering van de aanvrager van een beschikking, de subsidie-ontvanger, de vergunninghouder of de begunstigde van een andere beschikking om aanvullende gegevens te verschaffen, aangemerkt als een ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
 ### Hoofdstuk 2. Aanbestedingen, vastgoedtransacties, subsidies, vergunningen en ontheffingen
 
 ##### Artikel 5
 
-1. Een gegadigde voor een overheidsopdracht waarop de bepalingen, genoemd in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01), niet van toepassing zijn, kan van de gunning van die opdracht of van het sluiten van de met een gunningsbeslissing beoogde overeenkomst worden uitgesloten met inachtneming van de criteria voor de kwalitatieve selectie in de zin van de bepalingen, bedoeld in artikel 9, tweede lid, onderdeel a en b.
+1. Een gegadigde voor een overheidsopdracht waarop de bepalingen, genoemd in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), niet van toepassing zijn, kan van de gunning van die opdracht of van het sluiten van de met een gunningsbeslissing beoogde overeenkomst worden uitgesloten met inachtneming van de criteria voor de kwalitatieve selectie in de zin van de bepalingen, bedoeld in artikel 9, tweede lid, onderdeel a en b.
 
 2. De rechtspersoon met een overheidstaak kan het Bureau om een advies vragen:
 
 - a. voordat een beslissing wordt genomen inzake de gunning van een overheidsopdracht of het sluiten van de met een gunningsbeslissing beoogde overeenkomst;
 
-- b. in het geval die rechtspersoon bij overeenkomst heeft bedongen dat de overeenkomst ontbonden wordt, indien zich een van de situaties, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01), voordoet, alvorens zich op die ontbindende voorwaarde te beroepen;
+- b. in het geval die rechtspersoon bij overeenkomst heeft bedongen dat de overeenkomst ontbonden wordt, indien zich een van de situaties, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), voordoet, alvorens zich op die ontbindende voorwaarde te beroepen;
 
 - c. ten aanzien van een onderaannemer, uitsluitend met het oog op diens acceptatie als zodanig, indien de rechtspersoon met een overheidstaak in het bestek als voorwaarde heeft gesteld dat onderaannemers niet zonder toestemming van die rechtspersoon worden gecontracteerd en in het kader van die voorwaarde zich het recht heeft voorbehouden aan het Bureau een advies te vragen.
 
 ##### Artikel 6
 
-1. Een subsidie aan een rechtspersoon of aan een natuurlijke persoon kan worden geweigerd dan wel worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+1. Een subsidie aan een rechtspersoon of aan een natuurlijke persoon kan worden geweigerd dan wel worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
 2. Voordat een beslissing als bedoeld in het eerste lid wordt genomen, kan het bestuursorgaan dat tot die beslissing bevoegd is, het Bureau om een advies vragen.
 
 ##### Artikel 7
 
-1. Een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, kan door het college van burgemeester en wethouders respectievelijk de burgemeester worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+1. Een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, kan door het college van burgemeester en wethouders respectievelijk de burgemeester worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
 2. Voordat een beslissing als bedoeld in het eerste lid wordt genomen, kan het college van burgemeester en wethouders respectievelijk de burgemeester het Bureau om een advies vragen.
 
@@ -546,7 +548,7 @@ De officier van justitie, het bestuursorgaan dat of een rechtspersoon met een ov
 
 - m. een ander bestuursorgaan of andere rechtspersoon met een overheidstaak, voor zover:
 
-- 1°. uit toepassing van [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-03-01&g=2025-03-01), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2025-03-01&g=2025-03-01) of het tweede lid, onder d, van dit artikellid blijkt dat het verstrekkende bestuursorgaan of de verstrekkende rechtspersoon met een overheidstaak eerder advies heeft gevraagd over of eigen onderzoek heeft gedaan naar dezelfde persoon naar wie het ontvangende bestuursorgaan of de ontvangende rechtspersoon met een overheidstaak eigen onderzoek verricht;
+- 1°. uit toepassing van [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-07-16&g=2025-07-16), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2025-07-16&g=2025-07-16) of het tweede lid, onder d, van dit artikellid blijkt dat het verstrekkende bestuursorgaan of de verstrekkende rechtspersoon met een overheidstaak eerder advies heeft gevraagd over of eigen onderzoek heeft gedaan naar dezelfde persoon naar wie het ontvangende bestuursorgaan of de ontvangende rechtspersoon met een overheidstaak eigen onderzoek verricht;
 
 - 2°. de gegevens door het verstrekkende bestuursorgaan of de verstrekkende rechtspersoon met een overheidstaak niet langer dan vijf jaar geleden zijn verkregen uit eigen onderzoek of een advies van het Bureau;
 
@@ -566,9 +568,11 @@ De officier van justitie, het bestuursorgaan dat of een rechtspersoon met een ov
 
 - –. degene die redelijkerwijs met betrokkene gelijk kan worden gesteld op grond van zijn feitelijke invloed op de betrokkene;
 
-- n. de omgevingsdienst, bedoeld in [artikel 18.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.21), uitsluitend voor zover de gegevens noodzakelijk zijn om uitvoering te geven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01) van deze wet.
+- n. de omgevingsdienst, bedoeld in [artikel 18.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.21), uitsluitend voor zover de gegevens noodzakelijk zijn om uitvoering te geven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16) van deze wet;
 
-3. Bij de toepassing van [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2025-03-01&g=2025-03-01), verstrekt het bestuursorgaan of de rechtspersoon met een overheidstaak de betrokkene of de in artikel 33, eerste lid, bedoelde derde een afschrift van het advies en wijst hem daarbij schriftelijk op zijn geheimhoudingsplicht op grond van het eerste lid. De in artikel 33, eerste lid, bedoelde derde wordt het advies slechts verstrekt voor zover het op hem betrekking heeft.
+- o. de Kamer van Koophandel, uitsluitend voor zover de gegevens noodzakelijk zijn om uitvoering te geven aan [artikel 38a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=38a) en [artikel 21 van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=21).
+
+3. Bij de toepassing van [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2025-07-16&g=2025-07-16), verstrekt het bestuursorgaan of de rechtspersoon met een overheidstaak de betrokkene of de in artikel 33, eerste lid, bedoelde derde een afschrift van het advies en wijst hem daarbij schriftelijk op zijn geheimhoudingsplicht op grond van het eerste lid. De in artikel 33, eerste lid, bedoelde derde wordt het advies slechts verstrekt voor zover het op hem betrekking heeft.
 
 4. Indien een beschikking dan wel de intrekking van een subsidie of vergunning, de weigering van een overheidsopdracht of een vastgoedtransactie dan wel de ontbinding van een overeenkomst inzake een dergelijke opdracht of transactie, in rechte wordt aangevochten, is betrokkene bevoegd de in het eerste lid bedoelde gegevens bekend te maken aan de rechter.
 
@@ -584,7 +588,7 @@ Vervallen
 
 ##### Artikel 31
 
-Indien het bestuursorgaan een advies aanvraagt, wordt de wettelijke termijn waarbinnen de beschikking dient te worden gegeven, opgeschort voor de duur van de periode die begint met de dag waarop het advies is aangevraagd en eindigt met de dag waarop dat advies is ontvangen, met dien verstande dat deze opschorting niet langer duurt dan de in [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-03-01&g=2025-03-01), bedoelde termijn, vermeerderd met de duur van de eenmalige verlenging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-03-01&g=2025-03-01).
+Indien het bestuursorgaan een advies aanvraagt, wordt de wettelijke termijn waarbinnen de beschikking dient te worden gegeven, opgeschort voor de duur van de periode die begint met de dag waarop het advies is aangevraagd en eindigt met de dag waarop dat advies is ontvangen, met dien verstande dat deze opschorting niet langer duurt dan de in [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-07-16&g=2025-07-16), bedoelde termijn, vermeerderd met de duur van de eenmalige verlenging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-07-16&g=2025-07-16).
 
 ##### Artikel 32
 
@@ -592,13 +596,13 @@ Het bestuursorgaan of de rechtspersoon met een overheidstaak informeert de betro
 
 ##### Artikel 33
 
-1. Voordat een bestuursorgaan aan een beschikking voorschriften verbindt als bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), en voordat een bestuursorgaan een voor de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), dan wel op grond van feiten of omstandigheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), stelt het de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde in de gelegenheid zijn zienswijze naar voren te brengen.
+1. Voordat een bestuursorgaan aan een beschikking voorschriften verbindt als bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), en voordat een bestuursorgaan een voor de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), dan wel op grond van feiten of omstandigheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), stelt het de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde in de gelegenheid zijn zienswijze naar voren te brengen.
 
 2. Het eerste lid is van overeenkomstige toepassing op de rechtspersoon met een overheidstaak die een beslissing neemt ter zake van:
 
 - a. de gunning van een overheidsopdracht of het sluiten van de met een gunningsbeslissing beoogde overeenkomst;
 
-- b. de toestemming, bedoeld in [artikel 5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2025-03-01&g=2025-03-01);
+- b. de toestemming, bedoeld in [artikel 5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2025-07-16&g=2025-07-16);
 
 - c. de ontbinding van de overeenkomst met de partij aan wie de overheidsopdracht is gegund;
 
@@ -660,7 +664,7 @@ Een rechtspersoon met een overheidstaak kan het Bureau om een advies vragen over
 
 - a. alvorens een beslissing wordt genomen over het aangaan van een vastgoedtransactie;
 
-- b. in het geval dat bij een vastgoedtransactie is bedongen dat de overeenkomst kan worden opgeschort of ontbonden dan wel de rechtshandeling kan worden beëindigd indien zich één van de situaties, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01), voordoet, alvorens zich op die opschortende of ontbindende voorwaarde te beroepen.
+- b. in het geval dat bij een vastgoedtransactie is bedongen dat de overeenkomst kan worden opgeschort of ontbonden dan wel de rechtshandeling kan worden beëindigd indien zich één van de situaties, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), voordoet, alvorens zich op die opschortende of ontbindende voorwaarde te beroepen.
 
 ### Hoofdstuk 3. Het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 
@@ -692,9 +696,9 @@ Een rechtspersoon met een overheidstaak kan het Bureau om een advies vragen over
 
 - d. het bestuursorgaan dat of de rechtspersoon met een overheidstaak die het advies van het Bureau heeft gevraagd dan wel zonder dergelijk advies op basis van het eigen onderzoek heeft geconcludeerd dat sprake is van een ernstig gevaar of een mindere mate van gevaar.
 
-3. Het Bureau bericht of over de betrokkene in de afgelopen vijf jaar een melding is gedaan als bedoeld in [artikel 7a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-03-01&g=2025-03-01), ongeacht de vraag of tot een ernstig gevaar of mindere mate van gevaar is geconcludeerd.
+3. Het Bureau bericht of over de betrokkene in de afgelopen vijf jaar een melding is gedaan als bedoeld in [artikel 7a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), ongeacht de vraag of tot een ernstig gevaar of mindere mate van gevaar is geconcludeerd.
 
-4. Het Bureau verstrekt de gegevens op grond van dit artikel aan een bestuursorgaan of rechtspersoon met een overheidstaak ten behoeve van diens eigen onderzoek. Het Bureau kan de gegevens tevens zelf verwerken ten behoeve van diens onderzoek, om te bepalen welke bestuursorganen het bevraagt op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-03-01&g=2025-03-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2025-03-01&g=2025-03-01).
+4. Het Bureau verstrekt de gegevens op grond van dit artikel aan een bestuursorgaan of rechtspersoon met een overheidstaak ten behoeve van diens eigen onderzoek. Het Bureau kan de gegevens tevens zelf verwerken ten behoeve van diens onderzoek, om te bepalen welke bestuursorganen het bevraagt op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2025-07-16&g=2025-07-16) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2025-07-16&g=2025-07-16).
 
 #### Paragraaf 3.3. De verwerking van gegevens door het Bureau
 
@@ -720,7 +724,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3a
 
-1. Onder feiten en omstandigheden als bedoeld in [artikel 3, tweede lid, onder a, en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), die erop wijzen dat de betrokkene in relatie staat tot strafbare feiten, wordt verstaan:
+1. Onder feiten en omstandigheden als bedoeld in [artikel 3, tweede lid, onder a, en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), die erop wijzen dat de betrokkene in relatie staat tot strafbare feiten, wordt verstaan:
 
 - a. een veroordeling wegens een strafbaar feit;
 
@@ -732,9 +736,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - e. een beschikking tot het opleggen van een bestuurlijke boete waartegen beroep is ingesteld, waarop de bestuursrechter in eerste aanleg uitspraak heeft gedaan.
 
-2. Wordt een strafbaar feit niet vervolgd of de vervolging niet voortgezet, dan staat dat niet in de weg aan het geheel of ten dele op grond van dat strafbare feit vaststellen van de mate van gevaar als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01).
+2. Wordt een strafbaar feit niet vervolgd of de vervolging niet voortgezet, dan staat dat niet in de weg aan het geheel of ten dele op grond van dat strafbare feit vaststellen van de mate van gevaar als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
-3. In geval van een rechterlijke uitspraak houdende vrijspraak of ontslag van alle rechtsvervolging, wordt de mate van gevaar als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), niet op grond van dat strafbare feit vastgesteld.
+3. In geval van een rechterlijke uitspraak houdende vrijspraak of ontslag van alle rechtsvervolging, wordt de mate van gevaar als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), niet op grond van dat strafbare feit vastgesteld.
 
 ### Hoofdstuk 2. Overheidsopdrachten, vastgoedtransacties, subsidies, vergunningen en ontheffingen
 
@@ -772,7 +776,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7a
 
-1. Indien een bestuursorgaan of rechtspersoon met een overheidstaak bevoegd is om advies te vragen aan het Bureau, kan dat orgaan of die rechtspersoon tevens zelf onderzoek verrichten naar feiten en omstandigheden als bedoeld in [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-03-01&g=2025-03-01), en [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-03-01&g=2025-03-01).
+1. Indien een bestuursorgaan of rechtspersoon met een overheidstaak bevoegd is om advies te vragen aan het Bureau, kan dat orgaan of die rechtspersoon tevens zelf onderzoek verrichten naar feiten en omstandigheden als bedoeld in [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), en [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16).
 
 2. De betrokkene verschaft het bestuursorgaan of de rechtspersoon met een overheidstaak de gegevens en bescheiden om deze in staat te stellen tot het eigen onderzoek. Deze gegevens en bescheiden omvatten in ieder geval:
 
@@ -806,9 +810,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Bij ministeriële regeling worden een of meer formulieren vastgesteld voor het verstrekken van de in het tweede en derde lid bedoelde gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek.
 
-6. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing op de door het bestuursorgaan of de rechtspersoon met een overheidstaak van de betrokkene op grond van het tweede of derde lid verkregen gegevens alsmede op de bevindingen van het eigen onderzoek.
+6. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2025-07-16&g=2025-07-16), is van overeenkomstige toepassing op de door het bestuursorgaan of de rechtspersoon met een overheidstaak van de betrokkene op grond van het tweede of derde lid verkregen gegevens alsmede op de bevindingen van het eigen onderzoek.
 
-7. Indien het bestuursorgaan of de rechtspersoon met een overheidstaak na het eigen onderzoek zonder advies van het Bureau concludeert tot een ernstig gevaar of mindere mate van gevaar, meldt hij dit onder vermelding van de gegevens, bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-03-01&g=2025-03-01), onverwijld aan het Bureau. Dat bestuursorgaan of die rechtspersoon is en blijft verantwoordelijk voor de juistheid van deze gegevens en meldt onverwijld eventuele correcties, in het bijzonder indien de conclusie van een ernstig gevaar of mindere mate van gevaar is vervallen in een bezwaarprocedure of gerechtelijke procedure.
+7. Indien het bestuursorgaan of de rechtspersoon met een overheidstaak na het eigen onderzoek zonder advies van het Bureau concludeert tot een ernstig gevaar of mindere mate van gevaar, meldt hij dit onder vermelding van de gegevens, bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=11a&z=2025-07-16&g=2025-07-16), onverwijld aan het Bureau. Dat bestuursorgaan of die rechtspersoon is en blijft verantwoordelijk voor de juistheid van deze gegevens en meldt onverwijld eventuele correcties, in het bijzonder indien de conclusie van een ernstig gevaar of mindere mate van gevaar is vervallen in een bezwaarprocedure of gerechtelijke procedure.
 
 8. Het bestuursorgaan dat of de rechtspersoon met een overheidstaak die redelijkerwijs vermoedt dat een betrokkene zich vanwege het toepassen van deze wet terugtrekt uit de procedure nadat een eigen onderzoek is gestart of nadat advies is gevraagd aan het Bureau, meldt dit onverwijld aan het Bureau.
 
