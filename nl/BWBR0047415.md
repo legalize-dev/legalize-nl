@@ -4,7 +4,7 @@ identifier: "BWBR0047415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-18"
-last_updated: "2023-12-08"
+last_updated: "2025-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047415"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **onderzoeksinstituut:** een rechtspersoon die:
 
-- a. zich overwegend bezighoudt met het uitvoeren van onderzoeksprogramma’s als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08); en
+- a. zich overwegend bezighoudt met het uitvoeren van onderzoeksprogramma’s als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18); en
 
 - b. niet kwalificeert als:
 
@@ -102,17 +102,17 @@ In deze regeling wordt verstaan onder:
 
 - a. een regulier onderzoeksinstituut, dat door de minister is aangewezen als reguliere uitvoerder van strategisch belangrijke onderzoeksprogramma’s vanwege de belangrijke, substantiële of langdurige bijdrage die door dit onderzoeksinstituut met de uitvoering van onderzoeksprogramma’s geleverd is of naar verwachting geleverd zou kunnen worden aan de doelstellingen, bedoeld in het eerste lid; of
 
-- b. een niet-regulier onderzoeksinstituut, dat na toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2023-12-08&g=2023-12-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=8&z=2023-12-08&g=2023-12-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=9&z=2023-12-08&g=2023-12-08) door de minister incidenteel geselecteerd is voor het uitvoeren van een bepaald strategisch belangrijk onderzoeksprogramma vanwege de belangrijke en substantiële bijdrage die door dit onderzoeksinstituut met de uitvoering van dit onderzoeksprogramma naar verwachting ten minste eenmalig geleverd zou kunnen worden aan de doelstellingen, bedoeld in het eerste lid.
+- b. een niet-regulier onderzoeksinstituut, dat na toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2025-07-18&g=2025-07-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=8&z=2025-07-18&g=2025-07-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=9&z=2025-07-18&g=2025-07-18) door de minister incidenteel geselecteerd is voor het uitvoeren van een bepaald strategisch belangrijk onderzoeksprogramma vanwege de belangrijke en substantiële bijdrage die door dit onderzoeksinstituut met de uitvoering van dit onderzoeksprogramma naar verwachting ten minste eenmalig geleverd zou kunnen worden aan de doelstellingen, bedoeld in het eerste lid.
 
 ##### Artikel 3. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van reguliere onderzoeksinstituten
 
-1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een regulier onderzoeksinstituut voor een bepaald strategisch belangrijk onderzoeksprogramma, voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van dit programma in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2023-12-08&g=2023-12-08) van deze regeling heeft opengesteld.
+1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een regulier onderzoeksinstituut voor een bepaald strategisch belangrijk onderzoeksprogramma, voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van dit programma in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2025-07-18&g=2025-07-18) van deze regeling heeft opengesteld.
 
-2. De minister verstrekt geen subsidie aan een regulier onderzoeksinstituut voor het uitvoeren van een strategisch belangrijk onderzoeksprogramma indien aan dit reguliere onderzoeksinstituut voor het uitvoeren van een onderzoeksprogramma eerder subsidie verleend is op grond van deze regeling en de aanvraag om subsidieverlening niet vergezeld gaat van een verslag als bedoeld in [artikel 10, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08), waaruit volgt dat dit onderzoeksprogramma heeft geleid tot kwalitatief hoogwaardig onderzoek.
+2. De minister verstrekt geen subsidie aan een regulier onderzoeksinstituut voor het uitvoeren van een strategisch belangrijk onderzoeksprogramma indien aan dit reguliere onderzoeksinstituut voor het uitvoeren van een onderzoeksprogramma eerder subsidie verleend is op grond van deze regeling en de aanvraag om subsidieverlening niet vergezeld gaat van een verslag als bedoeld in [artikel 10, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), waaruit volgt dat dit onderzoeksprogramma heeft geleid tot kwalitatief hoogwaardig onderzoek.
 
 ##### Artikel 4. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van niet-reguliere onderzoeksinstituten
 
-1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een niet-regulier onderzoeksinstituut voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van een strategisch belangrijk onderzoeksprogramma op het gebied van een bepaald thema in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2023-12-08&g=2023-12-08) van deze regeling heeft opengesteld.
+1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een niet-regulier onderzoeksinstituut voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van een strategisch belangrijk onderzoeksprogramma op het gebied van een bepaald thema in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2025-07-18&g=2025-07-18) van deze regeling heeft opengesteld.
 
 2. Het subsidieplafond voor onderzoeksprogramma’s op het gebied van een bepaald thema als bedoeld in het eerste lid wordt achtereenvolgens verdeeld:
 
@@ -122,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 3. **De aanvragen om subsidieverlening** voor een onderzoeksprogramma waarop niet afwijzend is beslist worden op grond van het tweede lid, onderdeel a, hoger gerangschikt naarmate hieraan in totaal meer punten worden toegekend vanwege de omstandigheid dat:
 
-- a. het onderzoeksprogramma meer bijdraagt aan de doelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08);
+- a. het onderzoeksprogramma meer bijdraagt aan de doelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18);
 
 - b. de kwaliteit van het onderzoeksplan beter is, blijkend uit de uitwerking van de aanpak en methodiek, de omgang met risico’s voor de succesvolle uitvoering van het onderzoeksprogramma, de uitvoerbaarheid en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet;
 
@@ -158,9 +158,9 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie bedraagt niet meer dan is aangevraagd, doch ten hoogste:
 
-- a. € 20.000.000 per subsidieaanvrager per strategisch belangrijk onderzoeksprogramma, voor zover de activiteiten overwegend bestaan uit fundamenteel onderzoek of industrieel onderzoek;
+- a. € 35.000.000 per subsidieaanvrager per strategisch belangrijk onderzoeksprogramma, voor zover de activiteiten overwegend bestaan uit fundamenteel onderzoek of industrieel onderzoek;
 
-- b. € 15.000.000 per subsidieaanvrager per strategisch belangrijk onderzoeksprogramma, voor zover de activiteiten overwegend bestaan uit experimentele ontwikkeling.
+- b. € 25.000.000 per subsidieaanvrager per strategisch belangrijk onderzoeksprogramma, voor zover de activiteiten overwegend bestaan uit experimentele ontwikkeling.
 
 3. Onverminderd het eerste en tweede lid kan ten hoogste 25% van de totale subsidie van het desbetreffende strategisch belangrijke onderzoeksprogramma bestemd zijn voor de investering in de bouw of het upgraden van onderzoeksinfrastructuur ten behoeve van dit strategisch belangrijke onderzoeksprogramma.
 
@@ -234,7 +234,7 @@ De minister beslist afwijzend op een aanvraag om subsidieverlening voor zover de
 
 - 3°. zou leiden tot een overschrijding van de maximale steunintensiteit, die van toepassing is op de specifieke steuncategorie op grond van artikel 25 of artikel 26 van de algemene groepsvrijstellingsverordening;
 
-- 4°. in strijd zou zijn met het bepaalde bij of krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=5&z=2023-12-08&g=2023-12-08), of een bepaling betreffende het cumuleren van steun als bedoeld in artikel 8 van de algemene groepsvrijstellingsverordening;
+- 4°. in strijd zou zijn met het bepaalde bij of krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=5&z=2025-07-18&g=2025-07-18), of een bepaling betreffende het cumuleren van steun als bedoeld in artikel 8 van de algemene groepsvrijstellingsverordening;
 
 - 5°. in strijd zou zijn met de eisen inzake het stimulerend effect, bedoeld in artikel 6 van de algemene groepsvrijstellingsverordening;
 
@@ -254,7 +254,7 @@ De minister beslist afwijzend op een aanvraag om subsidieverlening voor zover de
 
 De minister beslist afwijzend op een aanvraag om subsidieverlening indien:
 
-- a. het onaannemelijk wordt geacht dat de activiteiten binnen de termijn, bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=12&z=2023-12-08&g=2023-12-08), kunnen worden voltooid;
+- a. het onaannemelijk wordt geacht dat de activiteiten binnen de termijn, bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=12&z=2025-07-18&g=2025-07-18), kunnen worden voltooid;
 
 - b. het onderzoeksprogramma voor meer dan 50 procent bestaat uit fundamenteel onderzoek;
 
@@ -292,7 +292,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - 1°. de omvang van de gevraagde subsidie;
 
-- 2°. de totale kosten van het onderzoeksprogramma, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08);
+- 2°. de totale kosten van het onderzoeksprogramma, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18);
 
 - 3°. informatie over de wijze waarop de subsidieaanvrager zijn eigen aandeel in de kosten van het onderzoeksprogramma financiert;
 
@@ -302,7 +302,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - e. voor zover van toepassing, een verslag van een door een onafhankelijk adviesbureau uitgevoerd onderzoek betreffende de kwaliteit van een eerder op grond van deze regeling gesubsidieerd onderzoeksprogramma, indien de aanvraag om subsidieverlening is ingediend door een regulier onderzoeksinstituut;
 
-- f. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het onderzoeksprogramma betrokken organisaties of personen, die relevant zijn om de geschiktheid van de subsidieaanvrager, bedoeld in [artikel 4, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2023-12-08&g=2023-12-08), te kunnen beoordelen, indien de aanvraag om subsidieverlening is ingediend door een niet-regulier onderzoeksinstituut.
+- f. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het onderzoeksprogramma betrokken organisaties of personen, die relevant zijn om de geschiktheid van de subsidieaanvrager, bedoeld in [artikel 4, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2025-07-18&g=2025-07-18), te kunnen beoordelen, indien de aanvraag om subsidieverlening is ingediend door een niet-regulier onderzoeksinstituut.
 
 ##### Artikel 11. Beschikking op de aanvraag om subsidieverlening
 
@@ -310,13 +310,13 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - a. binnen acht weken na ontvangst van deze aanvraag, indien de aanvraag om subsidieverlening is ingediend door een regulier onderzoeksinstituut;
 
-- b. binnen dertien weken na sluiting van de desbetreffende openstellingsperiode zoals deze wordt opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2023-12-08&g=2023-12-08) van deze regeling, indien de aanvraag om subsidieverlening is ingediend door een niet-regulier onderzoeksinstituut.
+- b. binnen dertien weken na sluiting van de desbetreffende openstellingsperiode zoals deze wordt opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2025-07-18&g=2025-07-18) van deze regeling, indien de aanvraag om subsidieverlening is ingediend door een niet-regulier onderzoeksinstituut.
 
 2. Indien een beschikking op een aanvraag om subsidieverlening niet kan worden gegeven binnen de toepasselijke termijn, genoemd in het eerste lid, onderdelen a of b, dan kan deze termijn eenmaal met acht weken respectievelijk met dertien weken worden verlengd.
 
 ##### Artikel 12. Algemene verplichtingen betreffende het onderzoeksprogramma
 
-1. Een op grond van deze regeling gesubsidieerd onderzoeksprogramma wordt uitgevoerd conform het ingediende onderzoeksplan en financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel a respectievelijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08), met dien verstande dat:
+1. Een op grond van deze regeling gesubsidieerd onderzoeksprogramma wordt uitgevoerd conform het ingediende onderzoeksplan en financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel a respectievelijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), met dien verstande dat:
 
 - a. met de uitvoering van het onderzoeksprogramma wordt gestart binnen twee maanden na de subsidieverlening; en
 
@@ -324,19 +324,19 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 2. **De subsidieontvanger doet onverwijld schriftelijk mededeling aan de minister:**
 
-- a. indien de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht dan wel met vertraging of essentiële wijzigingen kunnen worden verricht conform de wijze zoals omschreven in het onderzoeksplan, bedoeld in [artikel 10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08);
+- a. indien de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht dan wel met vertraging of essentiële wijzigingen kunnen worden verricht conform de wijze zoals omschreven in het onderzoeksplan, bedoeld in [artikel 10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18);
 
 - b. indien de subsidiabele kosten meer dan 25% afwijken van:
 
-- 1°. de liquiditeitsbegroting die voor het desbetreffende kalenderjaar is opgenomen in het financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08), indien de verstrekte liquiditeitsbegroting, bedoeld in artikel 10, vierde lid, onderdeel b, geen mijlpalen bevat; of
+- 1°. de liquiditeitsbegroting die voor het desbetreffende kalenderjaar is opgenomen in het financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), indien de verstrekte liquiditeitsbegroting, bedoeld in artikel 10, vierde lid, onderdeel b, geen mijlpalen bevat; of
 
-- 2°. de liquiditeitsbegroting die voor de mijlpalen in het desbetreffende kwartaal is opgenomen in het financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08), indien de verstrekte liquiditeitsbegroting, bedoeld in artikel 10, vierde lid, onderdeel b, mijlpalen bevat;
+- 2°. de liquiditeitsbegroting die voor de mijlpalen in het desbetreffende kwartaal is opgenomen in het financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), indien de verstrekte liquiditeitsbegroting, bedoeld in artikel 10, vierde lid, onderdeel b, mijlpalen bevat;
 
 - c. indien niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen of overige bij deze regeling gestelde regels zal worden voldaan;
 
 - d. op het moment waarop bij de rechtbank een verzoek is ingediend tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
-3. De minister kan op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichtingen, bedoeld in het eerste lid, indien er sprake is van het vertragen of het essentieel wijzigen van de wijze van uitvoering van de activiteiten of de wijziging van de aanverwante subsidiabele kosten, bedoeld in het tweede lid, onderdeel a, respectievelijk onderdeel b, tenzij hierdoor afbreuk wordt gedaan aan de doelstellingen als omschreven in het onderzoeksplan, bedoeld in [artikel 10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2023-12-08&g=2023-12-08).
+3. De minister kan op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichtingen, bedoeld in het eerste lid, indien er sprake is van het vertragen of het essentieel wijzigen van de wijze van uitvoering van de activiteiten of de wijziging van de aanverwante subsidiabele kosten, bedoeld in het tweede lid, onderdeel a, respectievelijk onderdeel b, tenzij hierdoor afbreuk wordt gedaan aan de doelstellingen als omschreven in het onderzoeksplan, bedoeld in [artikel 10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18).
 
 4. Aan de ontheffing, bedoeld in het derde lid, kunnen voorschriften worden verbonden.
 
@@ -416,7 +416,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - d. het aantal uren dat per persoon is besteed aan de activiteiten die voor subsidie in aanmerking komen; en
 
-- e. de berekening en samenstelling van het tarief, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=7&z=2023-12-08&g=2023-12-08).
+- e. de berekening en samenstelling van het tarief, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=7&z=2025-07-18&g=2025-07-18).
 
 2. De inrichting van de administratie sluit aan bij de bij de aanvraag ingediende begroting en onderzoeksplan.
 
@@ -464,9 +464,9 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - 1°. een omschrijving van de resultaten van het onderzoeksprogramma;
 
-- 2°. een omschrijving van op welke wijze het onderzoeksprogramma heeft bijgedragen aan de doelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08);
+- 2°. een omschrijving van op welke wijze het onderzoeksprogramma heeft bijgedragen aan de doelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18);
 
-- 3°. voor zover van toepassing, een omschrijving van de wijze waarop voldaan is aan de verplichtingen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=12&z=2023-12-08&g=2023-12-08), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=13&z=2023-12-08&g=2023-12-08) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=14&z=2023-12-08&g=2023-12-08);
+- 3°. voor zover van toepassing, een omschrijving van de wijze waarop voldaan is aan de verplichtingen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=12&z=2025-07-18&g=2025-07-18), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=13&z=2025-07-18&g=2025-07-18) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=14&z=2025-07-18&g=2025-07-18);
 
 - b. **een financieel eindverslag, met daarin ten minste:**
 
@@ -474,15 +474,15 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - 2°. **een overzicht van andere inkomsten, waaronder subsidies, waarmee het desbetreffende strategisch belangrijke onderzoeksprogramma is gefinancierd;**
 
-- c. indien de subsidiabele kosten worden berekend overeenkomstig de methode, genoemd in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=7&z=2023-12-08&g=2023-12-08), een afschrift van een rapport van feitelijke bevindingen betreffende de uitkomst van het onderzoek van een accountant betreffende de door de subsidieontvanger gehanteerde integrale kostensystematiek dat is opgesteld overeenkomstig het protocol, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=2&z=2023-12-08&g=2023-12-08) van deze regeling; en
+- c. indien de subsidiabele kosten worden berekend overeenkomstig de methode, genoemd in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=7&z=2025-07-18&g=2025-07-18), een afschrift van een rapport van feitelijke bevindingen betreffende de uitkomst van het onderzoek van een accountant betreffende de door de subsidieontvanger gehanteerde integrale kostensystematiek dat is opgesteld overeenkomstig het protocol, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=2&z=2025-07-18&g=2025-07-18) van deze regeling; en
 
-- d. een controleverklaring van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), die informatie bevat waaruit blijkt dat met de aanvraag tot subsidievaststelling wordt voldaan aan de voorschriften, genoemd in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45), en is opgesteld overeenkomstig de voorschriften uit het protocol, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=3&z=2023-12-08&g=2023-12-08) van deze regeling.
+- d. een controleverklaring van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), die informatie bevat waaruit blijkt dat met de aanvraag tot subsidievaststelling wordt voldaan aan de voorschriften, genoemd in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45), en is opgesteld overeenkomstig de voorschriften uit het protocol, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=3&z=2025-07-18&g=2025-07-18) van deze regeling.
 
 5. De minister kan ten behoeve van de vaststelling van de subsidie bij de subsidieontvanger aanvullende informatie of bewijsstukken opvragen die nodig zijn om te beoordelen of voldaan is aan de in deze regeling gestelde eisen.
 
 ##### Artikel 19. Beschikking tot subsidievaststelling
 
-1. De minister geeft een beschikking op een aanvraag tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2023-12-08&g=2023-12-08), is verstreken.
+1. De minister geeft een beschikking op een aanvraag tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2025-07-18&g=2025-07-18), is verstreken.
 
 2. Indien een beschikking tot subsidievaststelling niet binnen de in het eerste lid genoemde termijn kan worden gegeven, kan deze termijn eenmaal met dertien weken worden verlengd.
 
@@ -492,9 +492,9 @@ De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking
 
 ##### Artikel 21. Staatssteun
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08), bevat, met uitzondering van de subsidie voor het verrichten van niet-economische activiteiten, bedoeld in artikel 2, tweede lid, aanhef en onderdeel a, staatssteun en wordt gerechtvaardigd door:
+1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18), bevat, met uitzondering van de subsidie voor het verrichten van niet-economische activiteiten, bedoeld in artikel 2, tweede lid, aanhef en onderdeel a, staatssteun en wordt gerechtvaardigd door:
 
-- a. artikel 25 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op economisch fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling als bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08);
+- a. artikel 25 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op economisch fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling als bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18);
 
 - b. artikel 26 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur.
 
@@ -518,17 +518,17 @@ Deze regeling treedt in werking met ingang van 3 november 2022.
 
 Deze regeling wordt aangehaald als: Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO).
 
-## Bijlage 1. Aanvraagperiode en vastgestelde subsidieplafonds, behorende bij de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=3&z=2023-12-08&g=2023-12-08) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2023-12-08&g=2023-12-08)
+## Bijlage 1. Aanvraagperiode en vastgestelde subsidieplafonds, behorende bij de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=3&z=2025-07-18&g=2025-07-18) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2025-07-18&g=2025-07-18)
 
-### Openstelling voor reguliere onderzoeksinstituten als bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08)
+### Openstelling voor reguliere onderzoeksinstituten als bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18)
 
 De perioden waarin subsidieaanvragen kunnen worden ingediend door de in kolom 1 genoemde reguliere onderzoeksinstituten voor de in kolom 2 omschreven onderzoeksprogramma’s zijn opgenomen in kolom 3. De subsidieplafonds zijn opgenomen in kolom 4.
 
-### Openstelling voor niet-reguliere onderzoeksinstituten als bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2023-12-08&g=2023-12-08)
+### Openstelling voor niet-reguliere onderzoeksinstituten als bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18)
 
 In de komende periode wordt geen openstelling van de SBO voor niet-reguliere onderzoeksinstituten verwacht. Wanneer een dergelijke openstelling zal plaatsvinden, zal onderstaande tabel hierop worden aangepast.
 
-## Bijlage 2. Een protocol voor het opstellen van een rapport van feitelijke bevindingen, behorende bij [artikel 18, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2023-12-08&g=2023-12-08)
+## Bijlage 2. Een protocol voor het opstellen van een rapport van feitelijke bevindingen, behorende bij [artikel 18, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2025-07-18&g=2025-07-18)
 
 Deze bijlage bevat voorschriften waaraan een rapport van feitelijke bevindingen moet voldoen, waarvan een afschrift wordt verstrekt aan het ministerie dat subsidie heeft verstrekt op grond van de Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO)1Als afschrift van het rapport van feitelijke bevindingen wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van [verordening (EG) nr. 1906/2006](32006R1906) van het Europees parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU 2006, L 391) en, indien de subsidieontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.. Het rapport van feitelijke bevindingen wordt opgesteld in overeenstemming met de Nederlandse Standaard 4400N ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden’. In het rapport van feitelijke bevindingen rapporteert de accountant over de hieronder genoemde aspecten en aandachtspunten van de integrale kostensystematiek.
 
@@ -538,13 +538,13 @@ Deze bijlage bevat voorschriften waaraan een rapport van feitelijke bevindingen 
 
 ### 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten
 
-## Bijlage 3. Een controleprotocol voor een accountant of accountant-administratiefconsulent voor het controleren en vaststellen van de controleverklaring, behorende bij [artikel 18, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2023-12-08&g=2023-12-08)
+## Bijlage 3. Een controleprotocol voor een accountant of accountant-administratiefconsulent voor het controleren en vaststellen van de controleverklaring, behorende bij [artikel 18, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2025-07-18&g=2025-07-18)
 
 ### 1. Uitgangspunten
 
 ### 1.1. Doelstelling
 
-Dit protocol heeft als doel het geven van aanwijzingen over de reikwijdte en de diepgang van de controle aan de accountant, belast met de controle van de door de subsidieontvanger bij het subsidieverstrekkende ministerie in te dienen financieel eindverslag dat op grond van [artikel 18, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2023-12-08&g=2023-12-08), van de Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO) bij de aanvraag om subsidievaststelling gevoegd wordt (hierna: het financieel eindverslag). Financiële afrekening door het desbetreffende ministerie vindt plaats op basis van het bij de aanvraag tot subsidievaststelling gevoegde financieel eindverslag, voorzien van een controleverklaring van de accountant.
+Dit protocol heeft als doel het geven van aanwijzingen over de reikwijdte en de diepgang van de controle aan de accountant, belast met de controle van de door de subsidieontvanger bij het subsidieverstrekkende ministerie in te dienen financieel eindverslag dat op grond van [artikel 18, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2025-07-18&g=2025-07-18), van de Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO) bij de aanvraag om subsidievaststelling gevoegd wordt (hierna: het financieel eindverslag). Financiële afrekening door het desbetreffende ministerie vindt plaats op basis van het bij de aanvraag tot subsidievaststelling gevoegde financieel eindverslag, voorzien van een controleverklaring van de accountant.
 
 ### 1.2. Definities
 
