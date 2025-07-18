@@ -4,7 +4,7 @@ identifier: "BWBR0051267"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-18"
-last_updated: "2025-01-01"
+last_updated: "2025-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051267"
 soort: "zbo"
@@ -81,7 +81,7 @@ Deze regeling heeft tot doel uitvoering te geven aan het macrobeheersinstrument 
 
 Deze regeling is van toepassing op zorgaanbieders die in 2025 huisartsgeneeskundige zorg leveren zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=1&z=2025-07-18&g=2025-01-01) van deze regeling.
+Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=1&z=2025-07-18&g=2025-07-18) van deze regeling.
 
 Deze regeling is daarnaast van toepassing op degene die gegevens verzamelt, bewaart en bewerkt ten behoeve van zorgaanbieders of zorgverzekeraars zoals hierboven bedoeld, alsmede op de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), indien zorgaanbieders of zorgverzekeraars daartoe behoren.
 
@@ -89,7 +89,7 @@ Deze regeling is daarnaast van toepassing op degene die gegevens verzamelt, bewa
 
 De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit kan worden afgeleid:
 
-- –. de gerealiseerde omzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=1&z=2025-07-18&g=2025-01-01), van de zorgaanbieder;
+- –. de gerealiseerde omzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=1&z=2025-07-18&g=2025-07-18), van de zorgaanbieder;
 
 - –. de AGB-code van de zorgaanbieder behorend bij de gerealiseerde omzet.
 
@@ -111,21 +111,21 @@ De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit
 
 - –. het ingediende formulier zoals bedoeld in artikel 5.3;
 
-- –. een accountantsverklaring als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=7&z=2025-07-18&g=2025-01-01).
+- –. een accountantsverklaring als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=7&z=2025-07-18&g=2025-07-18).
 
 ##### Artikel 6. Uitzondering
 
-[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-01-01) is niet van toepassing, indien door de NZa in een collectieve beschikking kenbaar is gemaakt dat de bovengrens met betrekking tot de huisartsenzorg niet is overschreden.
+[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-07-18) is niet van toepassing, indien door de NZa in een collectieve beschikking kenbaar is gemaakt dat de bovengrens met betrekking tot de huisartsenzorg niet is overschreden.
 
 ##### Artikel 7. Accountantscontrole gegevensverstrekking
 
-De zorgverzekeraar draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de op grond van het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-01-01) verstrekte gegevens en inlichtingen vaststelt. Dit is overeenkomstig de wijze die is bepaald in de in artikel 5.3 en 5.4 genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol is aangegeven.
+De zorgverzekeraar draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de op grond van het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-07-18) verstrekte gegevens en inlichtingen vaststelt. Dit is overeenkomstig de wijze die is bepaald in de in artikel 5.3 en 5.4 genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol is aangegeven.
 
 ##### Artikel 8. Wijze van gegevensverstrekking
 
-1. De zorgverzekeraar verzendt de opgave als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-01-01) naar de NZa.
+1. De zorgverzekeraar verzendt de opgave als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-07-18) naar de NZa.
 
-2. Het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-01-01) bedoelde formulier en het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=7&z=2025-07-18&g=2025-01-01) bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa ([www.nza.nl](http://www.nza.nl)).
+2. Het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=5&z=2025-07-18&g=2025-07-18) bedoelde formulier en het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051267&artikel=7&z=2025-07-18&g=2025-07-18) bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa ([www.nza.nl](http://www.nza.nl)).
 
 ##### Artikel 9. Afdracht overschrijding
 
