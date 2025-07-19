@@ -4,7 +4,7 @@ identifier: "BWBR0047699"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-19"
-last_updated: "2023-03-16"
+last_updated: "2025-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047699"
 soort: "wet"
@@ -62,15 +62,23 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - b. aanslagen inkomstenbelasting of premie volksverzekeringen over de kalenderjaren 2021 of 2022.
 
-3. Het tweede lid is slechts van toepassing voor zover dit met betrekking tot de betreffende aanslag tot een lager voordeel uit sparen en beleggen leidt dan zonder toepassing van deze wet het geval is.
+3. Deze wet regelt tevens een tegenbewijsregeling op basis van het werkelijke rendement, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19), met betrekking tot de aanslagen, genoemd in het tweede lid, onderdelen a of b.
 
-4. Voor zover in deze wet niet wordt afgeweken van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), zijn die wet en de daarop berustende bepalingen mede van toepassing met betrekking tot deze wet.
+4. Het tweede lid is slechts van toepassing voor zover dit met betrekking tot de betreffende aanslag tot een lager voordeel uit sparen en beleggen leidt dan zonder toepassing van deze wet het geval is.
 
-5. In deze wet worden de artikelen uit de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of van het besluit bedoeld zoals deze luidden in het kalenderjaar waarover het voordeel uit sparen is of wordt vastgesteld.
+5. Voor zover in deze wet niet wordt afgeweken van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), zijn die wet en de daarop berustende bepalingen mede van toepassing met betrekking tot deze wet.
+
+6. Bij de toepassing van deze wet worden de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de daarop berustende bepalingen en het besluit toegepast zoals deze luidden in het kalenderjaar waarover het voordeel uit sparen en beleggen of het werkelijke rendement van bezittingen en schulden wordt vastgesteld, met dien verstande dat:
+
+- a. [afdeling 5.6 van die wet](onbekend) wordt toegepast zoals die luidt op het bij koninklijk besluit bepaalde tijdstip, bedoeld in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0051293&artikel=V);
+
+- b. bij de toepassing van [artikel 5.27, tweede lid, onderdeel b, van die wet](onbekend)[artikel 5.2, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) wordt toegepast zoals dat luidt op het bij koninklijk besluit bepaalde tijdstip, bedoeld in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0051293&artikel=V);
+
+- c. bij de toepassing van de [artikelen 5.35, eerste lid](onbekend), en [5.36, eerste lid, van die wet](onbekend) in plaats van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt gelezen: artikel 5.2, eerste lid.
 
 ##### Artikel 2. Voordeel uit sparen en beleggen
 
-1. Het voordeel uit sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt vastgesteld op het bedrag dat volgt uit de berekening, opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2023-03-16).
+1. Het voordeel uit sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt vastgesteld op het bedrag dat volgt uit de berekening, opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19).
 
 2. Het voordeel uit sparen en beleggen wordt gesteld op ten minste nihil.
 
@@ -101,25 +109,45 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 4. Forfaitaire percentages 2022
 
-1. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2023-03-16), derde lid, kolom I, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentepercentages op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
+1. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19), derde lid, kolom I, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentepercentages op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
-2. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2023-03-16), derde lid, kolom III, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentes over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
+2. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19), derde lid, kolom III, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentes over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
 ##### Artikel 5. Persoonsgebonden aftrek
 
-In afwijking van artikel [2.17, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17), wordt voor de persoonsgebonden aftrek, die voortvloeit uit een herrekening van het verzamelinkomen door toepassing van de artikelen 2 en 3, aangesloten bij de door de fiscale partners in de aangifte gekozen verdeling van uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5) of aftrekbare giften als bedoeld in [afdeling 6.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.9). Indien de belastingplichtige tezamen met zijn partner op een andere wijze het extra bedrag aan persoonsgebonden aftrek wil verdelen, kunnen zij hiervoor een verzoek om ambtshalve vermindering indienen bij de inspecteur waarin zij hun gezamenlijke keuze kenbaar maken.
+In afwijking van artikel [2.17, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17), wordt voor de persoonsgebonden aftrek, die voortvloeit uit een herrekening van het verzamelinkomen door toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=2&z=2025-07-19&g=2025-07-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19) of [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19), aangesloten bij de door de fiscale partners in de aangifte gekozen verdeling van uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5) of aftrekbare giften als bedoeld in [afdeling 6.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.9). Indien de belastingplichtige tezamen met zijn partner op een andere wijze het extra bedrag aan persoonsgebonden aftrek wil verdelen, kunnen zij hiervoor een verzoek om ambtshalve vermindering indienen bij de inspecteur waarin zij hun gezamenlijke keuze kenbaar maken.
 
 ##### Artikel 6. Voorkomen van dubbele belasting
 
-1. In afwijking van artikel 24, tweede lid, van het besluit, wordt de vermindering, bedoeld in het eerste lid van dat artikel, berekend met inachtneming van de inkomstenbelasting die over het belastbare inkomen uit sparen en beleggen na toepassing van deze wet, maar vóór de vermindering ter voorkoming van dubbele belasting, verschuldigd zou zijn.
+1. In afwijking van [artikel 24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24), wordt de vermindering, bedoeld in het eerste lid van dat artikel, berekend met inachtneming van de inkomstenbelasting die over het belastbare inkomen uit sparen en beleggen na toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=2&z=2025-07-19&g=2025-07-19), maar vóór de vermindering ter voorkoming van dubbele belasting, verschuldigd zou zijn.
 
-2. In afwijking van artikel 24, vijfde lid, onderdelen a en b, van het besluit wordt verstaan onder:
+2. In afwijking van [artikel 24, vijfde lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24) wordt verstaan onder:
 
-- a. **het forfaitaire rendement van de rendementsgrondslag in het buitenland:** het rendement van de bezittingen in het buitenland, bedoeld in artikel 23, tweede lid, van het besluit, verminderd met het rendement van de schulden in verband met die bezittingen;
+- a. **het forfaitaire rendement van de rendementsgrondslag in het buitenland:** het rendement van de bezittingen in het buitenland, bedoeld in [artikel 23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=23), verminderd met het rendement van de schulden in verband met die bezittingen;
 
-- b. **het noemerinkomen:** het belastbare inkomen uit sparen en beleggen zoals dat na toepassing van deze wet is vastgesteld.
+- b. **het noemerinkomen:** het belastbare inkomen uit sparen en beleggen zoals dat na toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=2&z=2025-07-19&g=2025-07-19) is vastgesteld.
 
-3. Voor de toepassing van het tweede lid, onderdeel a, wordt het rendement van de bezittingen in het buitenland en het rendement van de schulden in verband met die bezittingen bepaald met inachtneming van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2023-03-16&g=2023-03-16).
+3. Voor de toepassing van het tweede lid, onderdeel a, wordt het rendement van de bezittingen in het buitenland en het rendement van de schulden in verband met die bezittingen bepaald met inachtneming van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19).
+
+4. Indien het belastbare inkomen uit sparen en beleggen wordt bepaald met inachtneming van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19), vinden het eerste tot en met derde lid geen toepassing en wordt het besluit toegepast met inachtneming van het vijfde tot en met elfde lid.
+
+5. In afwijking van [artikel 23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=23) bestaat het buitenlandse voordeel uit sparen en beleggen uit het gezamenlijke bedrag aan werkelijk rendement van bezittingen in het buitenland en van schulden in verband met die bezittingen. Daarbij zijn bezittingen in het buitenland bezittingen als bedoeld in artikel 23, tweede lid, van het besluit voor zover de daaruit genoten opbrengsten zijn onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid waarin de bezittingen zijn gelegen, wordt geheven.
+
+6. In afwijking van [artikel 24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24) wordt de vermindering, bedoeld in het eerste lid van dat artikel, berekend met inachtneming van de inkomstenbelasting die over het belastbare inkomen uit sparen en beleggen na toepassing van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19), maar vóór de vermindering ter voorkoming van dubbele belasting, verschuldigd zou zijn.
+
+7. [Artikel 24, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24) blijft buiten toepassing.
+
+8. In afwijking van [artikel 24, vijfde lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24) wordt verstaan onder:
+
+- a. **het forfaitaire rendement van de rendementsgrondslag in het buitenland:** het werkelijke rendement van de bezittingen in het buitenland, bedoeld in [artikel 23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=23), en de schulden in verband met die bezittingen;
+
+- b. **het noemerinkomen:** het belastbare inkomen uit sparen en beleggen zoals dat na toepassing van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19) is vastgesteld.
+
+9. Voor de toepassing van het vijfde lid en het achtste lid, onderdeel a, worden het werkelijke rendement van de bezittingen in het buitenland en het werkelijke rendement van de schulden in verband met die bezittingen bepaald met inachtneming van [artikel 6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19).
+
+10. Voor de toepassing van [artikel 25, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=25) wordt onder het bedrag aan berekende belasting op het belastbaar inkomen uit sparen en beleggen verstaan: het bedrag aan berekende belasting op het belastbare inkomen uit sparen en beleggen na toepassing van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19).
+
+11. Bij de toepassing van [artikel 25b, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=25b) wordt [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19) toegepast bij het bepalen van het belastbare inkomen uit sparen en beleggen.
 
 ##### Artikel 7. Inwerkingtreding
 
