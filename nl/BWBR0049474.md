@@ -4,7 +4,7 @@ identifier: "BWBR0049474"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-23"
-last_updated: "2025-05-02"
+last_updated: "2025-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049474"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ Vervallen
 
 2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-3. In afwijking van het eerste en tweede lid wordt een aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-05-02&g=2025-05-02), en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02), voor de periode van 1 augustus 2024 tot en met 31 december 2024 op uiterlijk 1 mei 2024 ingediend.
+3. In afwijking van het eerste en tweede lid wordt een aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), voor de periode van 1 augustus 2024 tot en met 31 december 2024 op uiterlijk 1 mei 2024 ingediend.
 
 4. De coördinerende GGD consulteert de GGD’en in diens regio over de aanvraag.
 
@@ -142,7 +142,7 @@ Vervallen
 
 ### Hoofdstuk 3. Soa-zorg en seksualiteitshulpverlening
 
-##### Artikel 3.1. Nadere invulling activiteiten [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&z=2025-05-02&g=2025-05-02)
+##### Artikel 3.1. Nadere invulling activiteiten [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&z=2025-07-19&g=2025-07-19)
 
 1. Activiteiten in het kader van seksualiteitshulpverlening, zijn:
 
@@ -172,7 +172,7 @@ Vervallen
 
 ##### Artikel 3.2. Hoogte van de uitkering
 
-1. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-05-02&g=2025-05-02), met uitzondering van activiteiten bedoeld in artikel 3.1, tweede lid, onder c, in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2024 ten hoogste:
+1. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), met uitzondering van activiteiten bedoeld in artikel 3.1, tweede lid, onder c, in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2024 ten hoogste:
 
 - a. € 15.325.628,– voor de GGD van de gemeente Amsterdam;
 
@@ -190,7 +190,7 @@ Vervallen
 
 - h. € 1.903.453,– voor de GGD Regio Utrecht.
 
-2. De uitkering voor activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-05-02&g=2025-05-02), bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
+2. De uitkering voor activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
 
 - a. € 727.199,– voor de GGD van de gemeente Amsterdam;
 
@@ -208,7 +208,7 @@ Vervallen
 
 - h. € 143.022,– voor de GGD Regio Utrecht.
 
-3. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-05-02&g=2025-05-02), in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
+3. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
 
 - a. € 17.070.904,– voor de GGD van de gemeente Amsterdam;
 
@@ -226,7 +226,25 @@ Vervallen
 
 - h. € 2.246.707,– voor de GGD Regio Utrecht.
 
-4. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
+4. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2026 ten hoogste:
+
+- a. € 15.363.813,60 voor de GGD van de gemeente Amsterdam;
+
+- b. € 5.901.078,60 voor de GGD Regio Gelderland Zuid;
+
+- c. € 2.413.009,80 voor de GGD Groningen;
+
+- d. € 3.841.163,10 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+
+- e. € 5.393.194,20 voor de GGD Rotterdam-Rijnmond;
+
+- f. € 4.968.508,50 voor de GGD van het openbaar lichaam Hart voor Brabant;
+
+- g. € 2.672.142,30 voor de GGD Zuid-Limburg;
+
+- h. € 2.022.036,30 voor de GGD Regio Utrecht.
+
+5. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
 ##### Artikel 3.3. Voorwaarden
 
@@ -246,7 +264,7 @@ Vervallen
 
 - e. personen die slachtoffer zijn geworden van verkrachting of seksueel geweld.
 
-4. Diagnostiek als bedoeld in [artikel 3.1, tweede lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-05-02&g=2025-05-02), wordt uitgevoerd in een geaccrediteerd laboratorium gericht op de gezondheidszorg.
+4. Diagnostiek als bedoeld in [artikel 3.1, tweede lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-07-19&g=2025-07-19), wordt uitgevoerd in een geaccrediteerd laboratorium gericht op de gezondheidszorg.
 
 5. Soa-diagnostiek ten behoeve van soa-zorg wordt verricht ten behoeve van het stellen van een diagnose bij:
 
@@ -262,7 +280,7 @@ Vervallen
 
 - c. personen, bedoeld in het derde lid, met betrekking tot chlamydia, ten minste in het geval dat een cliënt klachten heeft die wijzen op een chlamydia-infectie of indien een cliënt gewaarschuwd is door een partner met een chlamydia-infectie met klachten.
 
-6. Diagnostiek ten behoeve van PrEP-zorg wordt verricht in het kader van het startconsult of het vervolgconsult, bedoeld in [artikel 4.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02), ten behoeve van het stellen van een diagnose voor hiv, syfilis, chlamydia, gonorroe, hepatitis-c en, indien diagnostiek hiernaar geïndiceerd is, de nierfunctie.
+6. Diagnostiek ten behoeve van PrEP-zorg wordt verricht in het kader van het startconsult of het vervolgconsult, bedoeld in [artikel 4.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), ten behoeve van het stellen van een diagnose voor hiv, syfilis, chlamydia, gonorroe, hepatitis-c en, indien diagnostiek hiernaar geïndiceerd is, de nierfunctie.
 
 ##### Artikel 3.4. Verplichtingen
 
@@ -272,7 +290,7 @@ De coördinerende GGD draagt er ten behoeve van diens regio zorg voor dat in het
 
 - b. bij soa-zorg, sprake is van een optimaal vindpercentage soa;
 
-- c. van personen, bedoeld in [artikel 3.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.3&z=2025-05-02&g=2025-05-02), geen betalingen worden verlangd;
+- c. van personen, bedoeld in [artikel 3.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.3&z=2025-07-19&g=2025-07-19), geen betalingen worden verlangd;
 
 - d. uiterlijk twee maanden na afloop van ieder kwartaal gegevens worden verstrekt aan het RIVM van alle consulten, waaronder aanvragen voor diagnostiek en -uitslagen; en
 
@@ -280,7 +298,7 @@ De coördinerende GGD draagt er ten behoeve van diens regio zorg voor dat in het
 
 ### Hoofdstuk 4. PrEP-zorg
 
-##### Artikel 4.1. Nadere invulling activiteiten [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&z=2025-05-02&g=2025-05-02)
+##### Artikel 4.1. Nadere invulling activiteiten [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&z=2025-07-19&g=2025-07-19)
 
 Activiteiten in het kader van PrEP-zorg, zijn:
 
@@ -296,15 +314,21 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 ##### Artikel 4.3. Kosten start- en vervolgconsulten
 
-1. Het gemiddelde tarief per startconsult is maximaal € 84,–.
+1. Het gemiddelde tarief voor het kalenderjaar 2024 is:
 
-2. Het gemiddelde tarief per vervolgconsult is maximaal € 53,–.
+- a. per startconsult maximaal € 80,–.
 
-3. De minister kan de gemiddelde tarieven uit het eerste en tweede lid jaarlijks indexeren.
+- b. per vervolgconsult maximaal € 50,–.
+
+2. Het gemiddelde tarief voor het kalenderjaar 2025 is:
+
+- a. per startconsult maximaal € 84,–.
+
+- b. per vervolgconsult maximaal € 53,–.
 
 ##### Artikel 4.4. Hoogte van de uitkering
 
-1. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02), en de coördinatie daarvan bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
+1. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), en de coördinatie daarvan bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
 
 - a. € 373.794,– voor de GGD van de gemeente Amsterdam;
 
@@ -322,7 +346,7 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 - h. € 73.628,– voor de GGD Regio Utrecht.
 
-2. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02), en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
+2. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
 
 - a. € 897.107,– voor de GGD van de gemeente Amsterdam;
 
@@ -340,7 +364,25 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 - h. € 176.709,– voor de GGD Regio Utrecht.
 
-3. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
+3. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), en de coördinatie daarvan bedraagt voor het kalenderjaar 2026 ten hoogste:
+
+- a. € 807.396,30 voor de GGD van de gemeente Amsterdam;
+
+- b. € 319.860,00 voor de GGD Regio Gelderland Zuid;
+
+- c. € 148.935,60 voor de GGD Groningen;
+
+- d. € 180.738,90 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+
+- e. € 327.943,80 voor de GGD Rotterdam-Rijnmond;
+
+- f. € 291.700,80 voor de GGD van het openbaar lichaam Hart voor Brabant;
+
+- g. € 149.238,90 voor de GGD Zuid-Limburg;
+
+- h. € 159.038,10 voor de GGD Regio Utrecht.
+
+4. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
 ##### Artikel 4.5. Verplichtingen
 
@@ -348,11 +390,11 @@ De coördinerende GGD draagt er ten behoeve van zijn regio zorg voor dat in het 
 
 - a. de GGD’en binnen de regio die medicatie voorschrijven aan een persoon, diens huisarts informeren, mits die persoon daarmee instemt;
 
-- b. van personen, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.2&z=2025-05-02&g=2025-05-02), geen betalingen worden verlangd;
+- b. van personen, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.2&z=2025-07-19&g=2025-07-19), geen betalingen worden verlangd;
 
-- c. uiterlijk twee maanden na afloop van ieder kwartaal gegevens worden verstrekt aan het RIVM over het aantal begeleide personen in PrEP-zorg en het aantal consulten, bedoeld in [artikel 4.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02); en
+- c. uiterlijk twee maanden na afloop van ieder kwartaal gegevens worden verstrekt aan het RIVM over het aantal begeleide personen in PrEP-zorg en het aantal consulten, bedoeld in [artikel 4.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19); en
 
-- d. de registratie, bedoeld in [artikel 4.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-05-02&g=2025-05-02), op een door de minister vastgestelde wijze wordt verstrekt aan het RIVM.
+- d. de registratie, bedoeld in [artikel 4.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-07-19&g=2025-07-19), op een door de minister vastgestelde wijze wordt verstrekt aan het RIVM.
 
 ### Hoofdstuk 5. Verplichtingen, verantwoording, vaststelling en egalisatiereserve
 
@@ -372,11 +414,11 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 2. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie over de vaststelling van de uitkering.
 
-3. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste de genoemde bedragen in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.2&z=2025-05-02&g=2025-05-02) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.4&z=2025-05-02&g=2025-05-02), verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=5&artikel=5.3&z=2025-05-02&g=2025-05-02).
+3. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste de genoemde bedragen in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.2&z=2025-07-19&g=2025-07-19) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.4&z=2025-07-19&g=2025-07-19), verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=5&artikel=5.3&z=2025-07-19&g=2025-07-19).
 
 ##### Artikel 5.3. Egalisatiereserve
 
-1. De ontvanger van een uitkering, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.3&z=2025-05-02&g=2025-05-02), vormt een egalisatiereserve.
+1. De ontvanger van een uitkering, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.3&z=2025-07-19&g=2025-07-19), vormt een egalisatiereserve.
 
 2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de uitkering dan wel ten hoogste een lager percentage dat door de minister bij het besluit tot verlening is bepaald.
 
@@ -386,7 +428,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 1. De egalisatiereserve wordt gevormd door een toevoeging bij een positief exploitatieresultaat en een onttrekking bij een negatief exploitatieresultaat.
 
-2. De maximale toevoeging aan de egalisatiereserve is het bedrag dat aan de egalisatiereserve kan worden toegevoegd zonder de maximale omvang, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=5&artikel=5.3&z=2025-05-02&g=2025-05-02), te overschrijden. De maximale onttrekking aan de egalisatiereserve is het bedrag van de egalisatiereserve.
+2. De maximale toevoeging aan de egalisatiereserve is het bedrag dat aan de egalisatiereserve kan worden toegevoegd zonder de maximale omvang, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=5&artikel=5.3&z=2025-07-19&g=2025-07-19), te overschrijden. De maximale onttrekking aan de egalisatiereserve is het bedrag van de egalisatiereserve.
 
 3. De toevoeging of onttrekking is gelijk aan het exploitatieresultaat vermenigvuldigd met de verleende uitkering gedeeld door de som van de in het besluit tot verlening vermelde begrote eigen bijdrage en de verleende uitkering.
 
@@ -424,7 +466,7 @@ Wijzigt de Regeling Geneesmiddelenwet.
 
 2. Deze regeling vervalt met ingang van 31 december 2035.
 
-3. In afwijking van het tweede lid, vervalt [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.4&z=2025-05-02&g=2025-05-02) op het tijdstip waarop artikel I, onderdelen B en D, van het bij koninklijke boodschap van 30 maart 2023 ingediende voorstel van wet tot wijziging van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele anderen wijzigingen (Kamerstukken 36 334) in werking treedt.
+3. In afwijking van het tweede lid, vervalt [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.4&z=2025-07-19&g=2025-07-19) op het tijdstip waarop artikel I, onderdelen B en D, van het bij koninklijke boodschap van 30 maart 2023 ingediende voorstel van wet tot wijziging van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele anderen wijzigingen (Kamerstukken 36 334) in werking treedt.
 
 ##### Artikel 6.5. Citeertitel
 
