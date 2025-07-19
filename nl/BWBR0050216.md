@@ -4,7 +4,7 @@ identifier: "BWBR0050216"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-19"
-last_updated: "2024-07-02"
+last_updated: "2025-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050216"
 soort: "ministeriele-regeling"
@@ -64,7 +64,9 @@ De Staatssecretaris van Sociale Zaken en Werkgelegenheid is binnen de grenzen va
 
 - –. Europees Sociaal Fonds;
 
-- –. SZW-domein Caribisch Nederland.
+- –. SZW-domein Caribisch Nederland;
+
+- –. Inburgering.
 
 ##### Artikel 2
 
