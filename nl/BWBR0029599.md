@@ -4,7 +4,7 @@ identifier: "BWBR0029599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-19"
-last_updated: "2022-11-24"
+last_updated: "2025-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029599"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **school:** een internationale school, een buitenlandse school of een ambassadeschool waaraan voltijds onderwijs wordt geboden aan leerlingen in een of meer van de leeftijdsgroepen variërend van 5 jaar tot 18 jaar;
 
-- d. **internationale school:** een school die als zodanig passend geaccrediteerd is, ofwel kandidaat is voor accreditatie, door een internationale accreditatieorganisatie die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2022-11-24&g=2022-11-24);
+- d. **internationale school:** een school die als zodanig passend geaccrediteerd is, ofwel kandidaat is voor accreditatie, door een internationale accreditatieorganisatie die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2025-07-19&g=2025-07-19);
 
 - e. **buitenlandse school:** een school die wat het aan de school te geven onderwijs betreft onder toezicht staat van de autoriteiten van een ander land;
 
@@ -74,11 +74,11 @@ Een aanvraag tot aanwijzing in de zin van [artikel 1a, eerste lid, van de wet](h
 
 1. Een aanvraag tot aanwijzing wordt schriftelijk en in de Nederlandse of Engelse taal ingediend bij DUO, postbus 30205, 2500 GE Den Haag.
 
-2. Met de aanvraag tot aanwijzing wordt het bewijs van toezicht, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24), meegezonden.
+2. Met de aanvraag tot aanwijzing wordt het bewijs van toezicht, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19), meegezonden.
 
 ##### Artikel 4. Bewijs van toezicht
 
-De school legt een in de Nederlandse of Engelse taal opgesteld bewijs over van een internationale accreditatieorganisatie die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2022-11-24&g=2022-11-24), of van de autoriteiten van het betreffende land, dat de school onder haar of hun toezicht staat.
+De school legt een in de Nederlandse of Engelse taal opgesteld bewijs over van een internationale accreditatieorganisatie die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2025-07-19&g=2025-07-19), of van de autoriteiten van het betreffende land, dat de school onder haar of hun toezicht staat.
 
 ##### Artikel 5. Besluit minister
 
@@ -88,9 +88,9 @@ De school legt een in de Nederlandse of Engelse taal opgesteld bewijs over van e
 
 ##### Artikel 6. Intrekking aanwijzing
 
-1. De minister kan de aanwijzing intrekken indien uit de wijzigingen in het toezicht, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=3&artikel=7&z=2022-11-24&g=2022-11-24), blijkt dat de school niet langer onder toezicht staat van een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24) bedoelde instanties.
+1. De minister kan de aanwijzing intrekken indien uit de wijzigingen in het toezicht, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=3&artikel=7&z=2025-07-19&g=2025-07-19), blijkt dat de school niet langer onder toezicht staat van een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19) bedoelde instanties.
 
-2. Alvorens een aanwijzing op grond van het eerste lid in te trekken, consulteert de minister de internationale accreditatieorganisatie, dan wel de autoriteiten van het betreffende land, onder het toezicht waarvan de school staat blijkens het eerder overgelegde bewijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24).
+2. Alvorens een aanwijzing op grond van het eerste lid in te trekken, consulteert de minister de internationale accreditatieorganisatie, dan wel de autoriteiten van het betreffende land, onder het toezicht waarvan de school staat blijkens het eerder overgelegde bewijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19).
 
 #### § 3. Verplichtingen aangewezen school
 
@@ -106,9 +106,9 @@ Een school die is aangewezen als school als bedoeld in [artikel 1, onderdeel b, 
 
 ##### Artikel 9. Nederlandse taal
 
-1. Tot het onderwijs aan leerlingen met de Nederlandse nationaliteit behoort onderwijs in de Nederlandse taal dat voldoet aan de criteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=2&z=2022-11-24&g=2022-11-24). De Inspectie van het onderwijs houdt toezicht op de naleving hiervan.
+1. Tot het onderwijs aan leerlingen met de Nederlandse nationaliteit behoort onderwijs in de Nederlandse taal dat voldoet aan de criteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=2&z=2025-07-19&g=2025-07-19). De Inspectie van het onderwijs houdt toezicht op de naleving hiervan.
 
-2. Tot het onderwijs aan leerlingen die meer dan één nationaliteit hebben, waaronder de Nederlandse nationaliteit, behoort onderwijs in de Nederlandse taal dat voldoet aan de criteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=2&z=2022-11-24&g=2022-11-24). De Inspectie van het onderwijs houdt toezicht op de naleving hiervan.
+2. Tot het onderwijs aan leerlingen die meer dan één nationaliteit hebben, waaronder de Nederlandse nationaliteit, behoort onderwijs in de Nederlandse taal dat voldoet aan de criteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=2&z=2025-07-19&g=2025-07-19). De Inspectie van het onderwijs houdt toezicht op de naleving hiervan.
 
 ##### Artikel 10. Voertaal
 
@@ -122,7 +122,7 @@ Een school die is aangewezen als school als bedoeld in [artikel 1, onderdeel b, 
 
 2. Indien het overleg als bedoeld in het eerste lid binnen de overeengekomen termijn met een maximum van een jaar niet leidt tot volledige naleving van de in deze paragraaf opgenomen verplichtingen, besluit de minister dat leerlingen met de Nederlandse nationaliteit niet langer hun leerplicht kunnen vervullen aan de school en stelt ook de leerplichtambtenaar van de gemeente waar de desbetreffende school gevestigd is op de hoogte van de beslissing.
 
-3. Alvorens tot een besluit te komen als bedoeld in het tweede lid, consulteert de minister door tussenkomst van de Minister van Buitenlandse Zaken de autoriteiten van het land dan wel de accreditatieorganisatie onder het toezicht waarvan de school staat blijkens het bewijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24).
+3. Alvorens tot een besluit te komen als bedoeld in het tweede lid, consulteert de minister door tussenkomst van de Minister van Buitenlandse Zaken de autoriteiten van het land dan wel de accreditatieorganisatie onder het toezicht waarvan de school staat blijkens het bewijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19).
 
 #### § 4. Slotbepalingen
 
@@ -138,17 +138,17 @@ Deze regeling treedt in werking op 1 april 2011.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing internationale en buitenlandse scholen.
 
-## Bijlage 1. bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24) van de Regeling aanwijzing internationale en buitenlandse scholen: internationale accreditatieorganisaties
+## Bijlage 1. bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19) van de Regeling aanwijzing internationale en buitenlandse scholen: internationale accreditatieorganisaties
 
-Als internationale accreditatieorganisaties bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24) van de regeling worden de volgende organisaties erkend.
-
-**AdvancED**
-
-Alpharetta, United States of America
+Als internationale accreditatieorganisaties bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19) van de regeling worden de volgende organisaties erkend.
 
 **AEFE (Agence pour l’enseignement français à l’étranger)**
 
 PARIS, France
+
+**COGNIA**
+
+Alpharetta, United States of America.
 
 **Council of British International Schools**
 
@@ -194,7 +194,7 @@ Decatur, United States of America
 
 Burlingame, United States of America
 
-## Bijlage 2. Bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=3&artikel=9&z=2022-11-24&g=2022-11-24) van de Regeling aanwijzing internationale en buitenlandse scholen: criteria onderwijs in de Nederlandse taal aan leerlingen met de Nederlandse nationaliteit
+## Bijlage 2. Bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=3&artikel=9&z=2025-07-19&g=2025-07-19) van de Regeling aanwijzing internationale en buitenlandse scholen: criteria onderwijs in de Nederlandse taal aan leerlingen met de Nederlandse nationaliteit
 
 In deze bijlage worden de in het Nederlandse onderwijs gebruikelijke termen ‘primair onderwijs’ en ‘voortgezet onderwijs’ gehanteerd. Voor de toepassing van de criteria van deze bijlage worden bedoeld met het primaire onderwijs: de eerste acht leerjaren van kinderen van 4 tot en met 11 of 12 jaar, en met het voortgezet onderwijs: de leerjaren daarna van kinderen tot 18 jaar of ouder. Met ‘bovenbouw van het voortgezet onderwijs’ wordt bedoeld de laatste twee, drie of vier leerjaren daarvan.
 
@@ -212,6 +212,6 @@ In deze bijlage worden de in het Nederlandse onderwijs gebruikelijke termen ‘p
 
 - 2. Als de resultaten zoals bedoeld onder 1.e. achterblijven hanteert de Inspectie daarnaast de onderwijstijd als criterium, waarbij geldt dat deze dient te zijn afgestemd op de ontwikkeling van de leerling, de voortgang in ontwikkeling van de leerling en het te bereiken taalniveau.
 
-- 3. Voor zover op basis van het toezicht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2022-11-24&g=2022-11-24) van de regeling aan het bevoegd gezag aanbevelingen zijn gedaan of aanwijzingen zijn gegeven het onderwijs betreffende, draagt het bevoegd gezag er zorg voor dat deze aanbevelingen of aanwijzingen, voor zover van toepassing, tevens voor het onderwijs Nederlandse taal worden uitgewerkt.
+- 3. Voor zover op basis van het toezicht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&paragraaf=2&artikel=4&z=2025-07-19&g=2025-07-19) van de regeling aan het bevoegd gezag aanbevelingen zijn gedaan of aanwijzingen zijn gegeven het onderwijs betreffende, draagt het bevoegd gezag er zorg voor dat deze aanbevelingen of aanwijzingen, voor zover van toepassing, tevens voor het onderwijs Nederlandse taal worden uitgewerkt.
 
-Deze regeling zal met de toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2022-11-24&g=2022-11-24) in de Staatscourant worden geplaatst. Een Engelse vertaling van de regeling zal worden gepubliceerd op www.ocwduo.nl.
+Deze regeling zal met de toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0029599&bijlage=1&z=2025-07-19&g=2025-07-19) in de Staatscourant worden geplaatst. Een Engelse vertaling van de regeling zal worden gepubliceerd op www.ocwduo.nl.
