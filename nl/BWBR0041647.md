@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2024-12-30"
+last_updated: "2025-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2024-12-30&g=2024-12-30) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2024-12-30&g=2024-12-30), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2024-12-30&g=2024-12-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2024-12-30&g=2024-12-30).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2025-07-22&g=2025-07-22).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -90,37 +90,39 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | Wft.A1.01 | [artikel 2:3g, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3g) (uitoefenen van het bedrijf van bewaarder) | € 5.500 |
 | Wft.A1.02 | [artikel 2:55, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) (aanbieden van beleggingsobjecten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
 | Wft.A1.03 | [artikel 2:60, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) (het aanbieden van krediet) | € 14.600 |
-| Wft.A1.04 | [artikel 2:65 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) (aanbieden van rechten van deelneming in beleggingsinstellingen) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A1.05 | [artikel 2:69b, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b) (aanbieden van rechten van deelneming in een instelling voor collectieve beleggingen in effecten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A1.06 | [artikel 2:75, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75) (adviseur voor zover het niet alleen de inbreng van een vergunninghoudende adviseur in een andere rechtspersoon betreft) | € 1.500 |
-| Wft.A1.07 | artikel 2:75, eerste lid, van de Wft (adviseur voor zover het enkel de inbreng van een vergunninghoudende adviseur in een andere rechtspersoon betreft) | € 400 |
-| Wft.A1.08 | [artikel 2:80, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) (bemiddelaar voor zover het niet alleen de inbreng van een vergunninghoudende bemiddelaar in een andere rechtspersoon betreft) | € 1.500 |
-| Wft.A1.09 | artikel 2:80, eerste lid, van de Wft (bemiddelaar voor zover het enkel de inbreng van een vergunninghoudende bemiddelaar in een andere rechtspersoon betreft) | € 400 |
-| Wft.A1.10 | [artikel 2:86, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86) (herverzekeringsbemiddelaar voor zover het niet alleen de inbreng van een vergunninghoudende herverzekeringsbemiddelaar in een andere rechtspersoon betreft) | € 1.500 |
-| Wft.A1.11 | artikel 2:86, eerste lid, van de Wft (herverzekeringsbemiddelaar voor zover het enkel de inbreng van een vergunninghoudende herverzekeringsbemiddelaar in een andere rechtspersoon betreft | € 400 |
-| Wft.A1.12 | [artikel 2:92, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92) (gevolmachtigde agent of ondergevolmachtigde agent voor zover het niet alleen de inbreng van een vergunninghoudende gevolmachtigde agent of ondergevolmachtigde agent in een andere rechtspersoon betreft) | € 1.500 |
-| Wft.A1.13 | artikel 2:92, eerste lid, van de Wft (gevolmachtigde agent of ondergevolmachtigde agent voor zover het enkel de inbreng van een vergunninghoudende gevolmachtigde agent of ondergevolmachtigde agent in een andere rechtspersoon betreft) | € 400 |
-| Wft.A1.14 | [artikel 2:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), voor zover het betreft een beleggingsonderneming die ingevolge [artikel 11, derde lid, van de Vrijstellingsregeling Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&artikel=11), is vrijgesteld van [artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99) en voor zover het niet alleen de inbreng van een vergunninghoudende beleggingsonderneming in een andere rechtspersoon betreft | € 1.500 |
-| Wft.A1.15 | artikel 2:96, eerste lid, van de Wft, voor zover het betreft een beleggingsonderneming die ingevolge artikel 11, derde lid, van de Vrijstellingsregeling Wft, is vrijgesteld van artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft en voor zover het enkel de inbreng van een vergunninghoudende beleggingsonderneming in een andere rechtspersoon betreft | € 400 |
-| Wft.A1.16 | artikel 2:96, eerste lid, van de Wft, (in de uitoefening van beroep of bedrijf exploiteren van een multilaterale handelsfaciliteit of een georganiseerde handelsfaciliteit) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A1.17 | artikel 2:96, eerste lid, van de Wft (het verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten, niet zijnde een aanvraag als bedoeld onder Wft.A1.14, Wft.A1.15 of Wft.A1.16) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A1.18 | [artikel 2:104a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104a) (verlenen van datarapporteringsdiensten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A1.19 | [artikel 5:26, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) (beheren of exploiteren van een gereglementeerde markt) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 150 000 |
+| Wft.A1.04 | [2:64a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64a) (servicen van een niet-renderende kredietovereenkomst) | € 14.600 |
+| Wft.A1.05 | [artikel 2:65 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) (aanbieden van rechten van deelneming in beleggingsinstellingen) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A1.06 | [artikel 2:69b, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b) (aanbieden van rechten van deelneming in een instelling voor collectieve beleggingen in effecten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A1.07 | [artikel 2:75, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75) (adviseur voor zover het niet alleen de inbreng van een vergunninghoudende adviseur in een andere rechtspersoon betreft) | € 1.500 |
+| Wft.A1.08 | artikel 2:75, eerste lid, van de Wft (adviseur voor zover het enkel de inbreng van een vergunninghoudende adviseur in een andere rechtspersoon betreft) | € 400 |
+| Wft.A1.09 | [artikel 2:80, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) (bemiddelaar voor zover het niet alleen de inbreng van een vergunninghoudende bemiddelaar in een andere rechtspersoon betreft) | € 1.500 |
+| Wft.A1.10 | artikel 2:80, eerste lid, van de Wft (bemiddelaar voor zover het enkel de inbreng van een vergunninghoudende bemiddelaar in een andere rechtspersoon betreft) | € 400 |
+| Wft.A1.11 | [artikel 2:86, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86) (herverzekeringsbemiddelaar voor zover het niet alleen de inbreng van een vergunninghoudende herverzekeringsbemiddelaar in een andere rechtspersoon betreft) | € 1.500 |
+| Wft.A1.12 | artikel 2:86, eerste lid, van de Wft (herverzekeringsbemiddelaar voor zover het enkel de inbreng van een vergunninghoudende herverzekeringsbemiddelaar in een andere rechtspersoon betreft | € 400 |
+| Wft.A1.13 | [artikel 2:92, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92) (gevolmachtigde agent of ondergevolmachtigde agent voor zover het niet alleen de inbreng van een vergunninghoudende gevolmachtigde agent of ondergevolmachtigde agent in een andere rechtspersoon betreft) | € 1.500 |
+| Wft.A1.14 | artikel 2:92, eerste lid, van de Wft (gevolmachtigde agent of ondergevolmachtigde agent voor zover het enkel de inbreng van een vergunninghoudende gevolmachtigde agent of ondergevolmachtigde agent in een andere rechtspersoon betreft) | € 400 |
+| Wft.A1.15 | [artikel 2:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), voor zover het betreft een beleggingsonderneming die ingevolge [artikel 11, derde lid, van de Vrijstellingsregeling Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&artikel=11), is vrijgesteld van [artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99) en voor zover het niet alleen de inbreng van een vergunninghoudende beleggingsonderneming in een andere rechtspersoon betreft | € 1.500 |
+| Wft.A1.16 | artikel 2:96, eerste lid, van de Wft, voor zover het betreft een beleggingsonderneming die ingevolge artikel 11, derde lid, van de Vrijstellingsregeling Wft, is vrijgesteld van artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft en voor zover het enkel de inbreng van een vergunninghoudende beleggingsonderneming in een andere rechtspersoon betreft | € 400 |
+| Wft.A1.17 | artikel 2:96, eerste lid, van de Wft, (in de uitoefening van beroep of bedrijf exploiteren van een multilaterale handelsfaciliteit of een georganiseerde handelsfaciliteit) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A1.18 | artikel 2:96, eerste lid, van de Wft (het verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten, niet zijnde een aanvraag als bedoeld onder Wft.A1.14, Wft.A1.15 of Wft.A1.16) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A1.19 | [artikel 2:104a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104a) (verlenen van datarapporteringsdiensten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A1.20 | [artikel 5:26, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) (beheren of exploiteren van een gereglementeerde markt) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 150 000 |
 | **Onderdeel Wft.A2:** | **De behandeling van een aanvraag om wijziging van een vergunning als bedoeld in** |   |
 | Wft.A2.01 | artikel 2:3g, eerste lid, van de Wft (uitoefenen van het bedrijf van bewaarder) | € 2.700 |
 | Wft.A2.02 | artikel 2:55, eerste lid, van de Wft (aanbieden van beleggingsobjecten) | € 10.500 |
 | Wft.A2.03 | artikel 2:60, eerste lid, van de Wft (aanbieden van krediet) | € 2.700 |
-| Wft.A2.04 | artikel 2:65 van de Wft (aanbieden van rechten van deelneming in beleggingsinstellingen) | € 10.500 |
-| Wft.A2.05 | artikel 2:69b van de Wft (aanbieden van rechten van deelneming in een icbe) | € 10.500 |
-| Wft.A2.06 | artikel 2:75, eerste lid, van de Wft (adviseur) | € 300 |
-| Wft.A2.07 | artikel 2:80, eerste lid, van de Wft (bemiddelaar) | € 300 |
-| Wft.A2.08 | artikel 2:86, eerste lid, van de Wft (herverzekeringsbemiddelaar) | € 300 |
-| Wft.A2.09 | artikel 2:92, eerste lid, van de Wft (gevolmachtigde agent of ondergevolmachtigde agent) | € 300 |
-| Wft.A2.10 | artikel 2:96, eerste lid, van de Wft, voor zover het betreft een beleggingsonderneming die ingevolge artikel 11, derde lid, van de Vrijstellingsregeling Wft is vrijgesteld van artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft | € 300 |
-| Wft.A2.11 | Wft.A1.16 of Wft.A1.17, in die zin dat deze mede zal strekken tot het in de uitoefening van een beroep of bedrijf exploiteren van een multilaterale handelsfaciliteit of een georganiseerde handelsfaciliteit | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100 000 |
-| Wft.A2.12 | artikel 2:96, eerste lid, van de Wft (verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten niet zijnde een wijziging als bedoeld onder Wft.A2.10 of Wft.A2.11) | € 10.500 |
-| Wft.A2.13 | [artikel 2:104a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104a) (verlenen van datarapporteringsdiensten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
-| Wft.A2.14 | artikel 5:26, eerste lid, van de Wft (beheren of exploiteren van een gereglementeerde markt) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 150.000 |
+| Wft.A2.04 | [2:64a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64a) (servicen van een niet-renderende kredietovereenkomst) | € 2.700 |
+| Wft.A2.05 | artikel 2:65 van de Wft (aanbieden van rechten van deelneming in beleggingsinstellingen) | € 10.500 |
+| Wft.A2.06 | artikel 2:69b van de Wft (aanbieden van rechten van deelneming in een icbe) | € 10.500 |
+| Wft.A2.07 | artikel 2:75, eerste lid, van de Wft (adviseur) | € 300 |
+| Wft.A2.08 | artikel 2:80, eerste lid, van de Wft (bemiddelaar) | € 300 |
+| Wft.A2.09 | artikel 2:86, eerste lid, van de Wft (herverzekeringsbemiddelaar) | € 300 |
+| Wft.A2.10 | artikel 2:92, eerste lid, van de Wft (gevolmachtigde agent of ondergevolmachtigde agent) | € 300 |
+| Wft.A2.11 | artikel 2:96, eerste lid, van de Wft, voor zover het betreft een beleggingsonderneming die ingevolge artikel 11, derde lid, van de Vrijstellingsregeling Wft is vrijgesteld van artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de Wft | € 300 |
+| Wft.A2.12 | Wft.A1.16 of Wft.A1.17, in die zin dat deze mede zal strekken tot het in de uitoefening van een beroep of bedrijf exploiteren van een multilaterale handelsfaciliteit of een georganiseerde handelsfaciliteit | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100 000 |
+| Wft.A2.13 | artikel 2:96, eerste lid, van de Wft (verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten niet zijnde een wijziging als bedoeld onder Wft.A2.10 of Wft.A2.11) | € 10.500 |
+| Wft.A2.14 | [artikel 2:104a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104a) (verlenen van datarapporteringsdiensten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| Wft.A2.15 | artikel 5:26, eerste lid, van de Wft (beheren of exploiteren van een gereglementeerde markt) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 150.000 |
 | **Onderdeel Wft.A3:** | **De behandeling van een aanvraag voor ontheffing als bedoeld in:** |   |
 | Wft.A3.01 | [artikel 2:55, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) (aanbieden van beleggingsobjecten) | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 50.000 |
 | Wft.A3.02 | artikel 2:60, tweede lid, van de Wft (aanbieden van krediet) | € 14.600 |
@@ -157,9 +159,9 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | Wft.A5.16 | Een inschrijving van een in Nederland gelegen of beheerde multilaterale handelsfaciliteit als mkb-groeimarkt als bedoeld in [artikel 4:91ea van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:91ea) | € 2.100 |
 | **Onderdeel Wft.A6:** | Vervallen |   |
 | **Onderdeel Wft.A7:** | **Toetsing persoon al dan niet in combinatie met een andere eenmalige handeling** |   |
-| Wft.A7.01 | De toetsing van de betrouwbaarheid van een persoon als bedoeld in [artikel 2:67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10) of [5:29 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29) of van een persoon als bedoeld in [artikel 2 van het Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2) | € 700 |
+| Wft.A7.01 | De toetsing van de betrouwbaarheid van een persoon als bedoeld in [artikel 2:67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10), [4:81b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81b) of [5:29 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29) of van een persoon als bedoeld in [artikel 2 van het Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2) | € 700 |
 | Wft.A7.02 | De toetsing van de geschiktheid van een persoon als bedoeld in [artikel 4:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) in verband met het aanbieden van beleggingsobjecten, of in [artikel 5:29, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29) in verband met het exploiteren of beheren van een gereglementeerde markt | € 2.900 |
-| Wft.A7.03 | De toetsing van de geschiktheid van een persoon als bedoeld in [artikel 4:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) in verband met het uitoefenen van het bedrijf van bewaarder, het aanbieden van krediet, het aanbieden van rechten van deelneming in een beleggingsinstelling of icbe, het verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten, of het verlenen van datarapporteringsdiensten | € 2.900 |
+| Wft.A7.03 | De toetsing van de geschiktheid van een persoon als bedoeld in [artikel 4:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) in verband met het uitoefenen van het bedrijf van bewaarder, het aanbieden van krediet, het servicen van een niet-renderende kredietovereenkomst, het aanbieden van rechten van deelneming in een beleggingsinstelling of icbe, het verlenen van beleggingsdiensten of verrichten van beleggingsactiviteiten, of het verlenen van datarapporteringsdiensten | € 2.900 |
 | Wft.A7.04 | De toetsing van de geschiktheid van een persoon als bedoeld in [artikel 4:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) in verband met het adviseren over een ander product dan een financieel instrument, bemiddelen, herverzekeringsbemiddelen, of optreden als gevolmachtigd agent of als ondergevolmachtigd agent, of de toetsing van de geschiktheid van een persoon als bedoeld in [artikel 2a van het Besluit Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2a) | € 1.000 |
 | **Onderdeel Wft.A8:** | Vervallen |   |
 | **Onderdeel Wft.A9:** | **openbare biedingen op effecten** |   |
