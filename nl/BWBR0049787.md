@@ -4,7 +4,7 @@ identifier: "BWBR0049787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-22"
-last_updated: "2024-06-18"
+last_updated: "2025-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049787"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=2&z=2024-06-18&g=2024-06-18).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=2&z=2025-07-22&g=2025-07-22).
 
 ##### Artikel 2
 
@@ -70,7 +70,9 @@ De personen, werkzaam in de functie van medewerker handhaving II of III in diens
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 15 personen als buitengewoonopsporingsambtenaar worden beëdigd.
+
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), artikel 7, lid 3 van de politiewet 2012, artikel 7, lid 4 van de politiewet 2012 (vervoersfouillering) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien.
 
 ##### Artikel 5
 
@@ -82,17 +84,17 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 1. De gemeente IJsselstein brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=2&z=2024-06-18&g=2024-06-18) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=2&z=2025-07-22&g=2025-07-22) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=5&z=2024-06-18&g=2024-06-18) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=5&z=2025-07-22&g=2025-07-22) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=8&z=2024-06-18&g=2024-06-18) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049787&artikel=8&z=2025-07-22&g=2025-07-22) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
