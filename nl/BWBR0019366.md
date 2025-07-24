@@ -4,7 +4,7 @@ identifier: "BWBR0019366"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-24"
-last_updated: "2024-07-11"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019366"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ De minister kan met het oog op de bevordering van de sociale en politieke aspect
 
 ##### Artikel 2.3
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=2&artikel=2.2&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=2&artikel=2.2&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. de mondigheid en organisatiegraad van burgers, de pluriformiteit van maatschappelijke organisaties, de mogelijkheden tot betrokkenheid van burgers bij de inrichting van hun maatschappij en het particulier initiatief;
 
@@ -124,7 +124,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 3.2
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&artikel=3.1&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&artikel=3.1&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. directe hulpverlening ter voorziening van de primaire behoeften van slachtoffers, meer in het bijzonder de meest kwetsbaren onder hen, op het terrein van:
 
@@ -176,7 +176,7 @@ Voor subsidieverlening op grond van deze afdeling komen uitsluitend in aanmerkin
 
 ##### Artikel 3.5
 
-In aanvulling op [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&artikel=3.2&z=2024-07-11&g=2024-07-11) blijkt uit aanvragen om subsidie op grond van deze afdeling dat:
+In aanvulling op [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&artikel=3.2&z=2025-07-24&g=2025-07-24) blijkt uit aanvragen om subsidie op grond van deze afdeling dat:
 
 - a. de activiteiten voldoen aan internationaal gangbare humanitaire hulpprincipes;
 
@@ -206,39 +206,73 @@ Aanvragen zullen mede worden beoordeeld aan de hand van de volgende criteria:
 
 Voor de toepassing van deze afdeling wordt verstaan onder:
 
-- –. **SDG’s:** door de Algemene Vergadering van de Verenigde Naties op 25 september 2015 in resolutie A/RES/70/1 vastgestelde duurzame ontwikkelingsdoelen;
+- –. **duurzame ontwikkelingsdoelen:** de door de Algemene Vergadering van de Verenigde Naties op 25 september 2015 in resolutie A/RES/70/1 vastgestelde duurzame ontwikkelingsdoelen;
 
-- –. **strategisch partnerschap:** een in een partnerschapsovereenkomst verankerd samenwerkingsverband van de minister met maatschappelijke organisaties verenigd in een alliantie;
+- –. **lage- en middeninkomenslanden:** landen die als zodanig zijn vermeld in de door het Development Assistence Committee (DAC) van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) meest recent vastgestelde List of Recipients of Official Development Assistence;1[Zie de OESO DAC landenlijst](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/oda-eligibility-and-conditions/DAC-List-of-ODA-Recipients-for-reporting-2024-25-flows.pdf)
 
-- –. **alliantie:** een samenwerkingsverband van maatschappelijke organisaties die onderling een samenwerkingsovereenkomst hebben gesloten;
+- –. **lokale maatschappelijke organisatie:** een maatschappelijke organisatie die statutair is gevestigd in een laag- of middeninkomensland en opereert op regionaal, nationaal of sub-nationaal niveau en zich richt op regionale, nationale en/of sub-nationale kwesties;
 
-- –. **maatschappelijke organisatie:** een niet op winst gerichte, niet aan een overheidsinstantie statutair of feitelijk verbonden organisatie met een maatschappelijk oogmerk, beschikkend over rechtspersoonlijkheid naar burgerlijk recht, die niet door een overheidsinstantie is opgericht, dan wel die na oprichting door een overheidsinstantie geheel verzelfstandigd is;
-
-- –. **penvoerder:** één van de alliantiepartners die namens de alliantie een subsidieaanvraag indient.
+- –. **maatschappelijke organisatie:** een niet op winst gerichte, niet aan een overheidsinstantie statutair of feitelijk verbonden organisatie met een maatschappelijk oogmerk, beschikkend over rechtspersoonlijkheid naar burgerlijk recht, die niet door een overheidsinstantie is opgericht, of die na oprichting door een overheidsinstantie geheel verzelfstandigd is.
 
 #### Paragraaf 1. Medefinanciering; activiteiten
 
 ##### Artikel 4.2
 
-De minister kan met het oog op de bevordering van de SDG’s, het naleven van internationale mensenrechtenstandaarden en de versterking van democratie en rechtsstatelijkheid subsidie verlenen aan maatschappelijke organisaties voor activiteiten op het terrein van capaciteitsversterking van maatschappelijke organisaties in hun rol als pleiter en beïnvloeder verricht in het kader van een strategisch partnerschap.
+1. De minister kan subsidie verlenen voor activiteiten die strekken tot of bijdragen aan de capaciteitsversterking van, dienstverlening door en het voeren van dialoog door maatschappelijke organisaties in of voor lage- en middeninkomenslanden om beleidsdoelstellingen te behalen op een van de volgende thema’s:
+
+- a). bestrijden van HIV/Aids;
+
+- b). tegengaan van schadelijke praktijken;
+
+- c). bevorderen van schone en eerlijke handel;
+
+- d). stimuleren van vrouwelijk ondernemerschap;
+
+- e). tegengaan van geweld tegen vrouwen en steun aan vrouwenrechtenverdedigers;
+
+- f). versterken van de positie van vrouwen in vrede- en veiligheidsprocessen; of
+
+- g). beschermen en promoten van mensenrechten en fundamentele vrijheden van religieuze minderheden en lhbtiq+ personen;
+
+uitgezonderd activiteiten gericht op beleidsbeïnvloeding in Nederland.
+
+2. De minister kan subsidie verlenen voor activiteiten die strekken tot of bijdragen aan het stimuleren van Nederlandse particuliere ontwikkelingsinitiatieven, uitgezonderd activiteiten gericht op beleidsbeïnvloeding in Nederland en activiteiten gericht op beleidsbeïnvloeding op internationaal niveau.
+
+3. Voor subsidie als bedoeld in het eerste en tweede lid kunnen alleen maatschappelijke organisaties in aanmerking komen.
 
 #### Paragraaf 2. Personele veiligheid
 
 ##### Artikel 4.3
 
-Voor subsidie op grond van deze afdeling kunnen uitsluitend penvoerders van een alliantie in aanmerking komen.
+1. Met het oog op en passend binnen de doelstelling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&artikel=4.2&z=2025-07-24&g=2025-07-24), komen op de in dat lid genoemde thema’s respectievelijk voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+
+- a). verbetering van de preventie en toegang tot de behandeling van HIV/Aids voor vrouwen, meisjes en kwetsbare groepen;
+
+- b). verbetering van de preventie van schadelijke praktijken en verbeterde zorg voor de gevolgen van dergelijke praktijken;
+
+- c). verbetering van arbeidsrechten en -omstandigheden en tegengaan van ontbossing en vervuiling in ontwikkelingslanden;
+
+- d). versterking van de economische positie van vrouwelijkeondernemers;
+
+- e). bestrijding van geweld tegen vrouwen en meisjes, verbeterde toegang tot zorg voor vrouwen en meisjes die slachtoffer zijn van geweld, en ondersteuning van vrouwenrechtenverdedigers en vrouwelijke mensenrechtenactivisten;
+
+- f). versterking van de positie van vrouwen in vredes- en veiligheidsprocessen en de bescherming en reïntegratie van slachtoffers van conflictgerelateerd seksueel geweld; of
+
+- g). bevordering van de vrijheid van religie en levensovertuiging en de bescherming van religieuze minderheden, alsmede de bevordering en bescherming van gelijke rechten voor lhbtiq+-personen.
+
+2. Met het oog op en passend binnen de doelstelling, bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&artikel=4.2&z=2025-07-24&g=2025-07-24), komen in aanmerking voor subsidie: activiteiten gericht op het versterken van de mate waarin Nederlandse particuliere ontwikkelingsinitiatieven in staat zijn om een bijdrage te leveren aan het behalen van de duurzame ontwikkelingsdoelen.
 
 #### Paragraaf 3. Uitgesloten activiteiten
 
 ##### Artikel 4.4
 
-1. Subsidie wordt met toepassing van [artikel 7, tweede lid, van het Subsidiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7) verleend.
+Om in aanmerking te kunnen komen voor subsidie als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&artikel=4.3&z=2025-07-24&g=2025-07-24) geldt in ieder geval dat activiteiten niet in strijd zijn met universele mensenrechten en:
 
-2. In afwijking van [artikel 6, eerste lid, van het Subsidiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) maakt de minister uiterlijk twaalf maanden voorafgaand aan het subsidietijdvak zijn beleidsregels bekend.
+- a. gericht zijn op versterking van de capaciteit van lokale maatschappelijke organisaties om hun dienstverlening en dialoog te verbeteren met dien verstande dat dialoog betrekking heeft op dialoog in of voor lage- en middeninkomenslanden op internationaal, regionaal, nationaal of sub-nationaal niveau, onverminderd het bepaalde in [artikel 4.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&artikel=4.2&z=2025-07-24&g=2025-07-24).
 
-3. De beoordeling van de aanvragen geschiedt in drie fasen, waarvan de eerste twee zijn gericht op de selectie van partners voor een strategisch partnerschap en de derde op de verstrekking van subsidie aan de alliantie, alsmede het sluiten van een partnerschapsovereenkomst.
+- b. bijdragen aan lokaal eigenaarschap van lokale maatschappelijke organisaties; en
 
-4. Na de tweede fase maakt de minister het subsidieplafond voor toepassing van deze afdeling bekend.
+- c. bijdragen aan de gelijke rechten van vrouwen en meisjes en aan gelijke deelname van vrouwen en meisjes aan de samenleving in lage- en middeninkomenslanden.
 
 #### Paragraaf 1. Algemeen
 
@@ -378,7 +412,7 @@ In de uiteenzetting over de voorgenomen werkzaamheden komen aan de orde:
 
 ##### Artikel 5.1
 
-De minister kan subsidie verlenen voor andere activiteiten, dan bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&z=2024-07-11&g=2024-07-11), in of ten behoeve van ontwikkelingslanden op het terrein van een of meer van de volgende thema’s:
+De minister kan subsidie verlenen voor andere activiteiten, dan bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&z=2025-07-24&g=2025-07-24), in of ten behoeve van ontwikkelingslanden op het terrein van een of meer van de volgende thema’s:
 
 - a. voedselzekerheid;
 
@@ -454,7 +488,7 @@ Vervallen
 
 ##### Artikel 6.1
 
-De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot of dienstig zijn aan de uitvoering van internationaal onderwijs en -onderzoek dat een bijdrage levert aan de ontwikkeling en uitvoering van het beleid van de minister op het gebied van de ontwikkelingssamenwerking.
+De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot of dienstig zijn aan de uitvoering van internationaal onderwijs en -onderzoek dat een bijdrage levert aan de ontwikkeling en uitvoering van het beleid van de minister op het gebied van de ontwikkelingshulp.
 
 #### Paragraaf 2. Buitenlandse betrekkingen
 
@@ -480,7 +514,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 6.5
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=6&paragraaf=3&artikel=6.4&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=6&paragraaf=3&artikel=6.4&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. samenwerking tussen Nederlandse onderwijsinstellingen en onderwijsinstellingen in ontwikkelingslanden;
 
@@ -540,7 +574,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 8.2
 
-1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2024-07-11&g=2024-07-11), komen in aanmerking:
+1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2025-07-24&g=2025-07-24), komen in aanmerking:
 
 - a. bezoekersprogramma’s voor buitenlandse cultuurdeskundigen;
 
@@ -550,7 +584,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 - d. kleinschalige lokale culturele projecten in het buitenland, gericht op de plaatselijke bevolking met een herkenbare Nederlandse component.
 
-2. Voor subsidie met het oog op en binnen het raam van de doelstelling, genoemd in [artikel 8.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2024-07-11&g=2024-07-11), komen in aanmerking activiteiten gericht op:
+2. Voor subsidie met het oog op en binnen het raam van de doelstelling, genoemd in [artikel 8.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2025-07-24&g=2025-07-24), komen in aanmerking activiteiten gericht op:
 
 - a. een krachtiger lokale cultuursector gericht op maatschappelijke innovatie;
 
@@ -560,7 +594,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 - d. duurzaam behoud van lokaal cultureel erfgoed.
 
-3. Subsidies verstrekt namens de Minister door een Nederlandse vertegenwoordiging in het buitenland met het oog op de doelstelling, genoemd in [artikel 8.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2024-07-11&g=2024-07-11), hebben betrekking op kleinschalige lokale culturele projecten, gericht op de plaatselijke bevolking.
+3. Subsidies verstrekt namens de Minister door een Nederlandse vertegenwoordiging in het buitenland met het oog op de doelstelling, genoemd in [artikel 8.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2025-07-24&g=2025-07-24), hebben betrekking op kleinschalige lokale culturele projecten, gericht op de plaatselijke bevolking.
 
 4. Subsidie voor activiteiten, bedoeld in het eerste lid, onder a en b, kan uitsluitend worden verleend aan sectorinstituten met een internationale taak die door de Minister van Onderwijs, Cultuur en Wetenschap zijn aangewezen en aan fondsen, bedoeld in [artikel 9 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=9).
 
@@ -568,7 +602,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 8.3
 
-1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2024-07-11&g=2024-07-11), komen in aanmerking:
+1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2025-07-24&g=2025-07-24), komen in aanmerking:
 
 - a. activiteiten gericht op de totstandkoming van cultuuruitingen met name in ontwikkelingslanden door kunstenaars en culturele instellingen afkomstig uit of werkzaam in ontwikkelingslanden,
 
@@ -592,7 +626,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 9.2
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=1&artikel=9.1&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=1&artikel=9.1&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. publieksvoorlichting in brede zin en voorlichting gericht op specifieke doelgroepen;
 
@@ -616,7 +650,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 9.4
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=2&artikel=9.3&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=2&artikel=9.3&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. publieksvoorlichting in brede zin en voorlichting gericht op specifieke doelgroepen;
 
@@ -722,7 +756,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Paragraaf 1. Ontwikkelingssamenwerking
+#### Paragraaf 1. Ontwikkelingshulp
 
 ##### Artikel 5.13
 
@@ -822,7 +856,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.6
 
-Met het oog op en binnen het raam van de doelstelling, genoemd in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=4&artikel=2.5&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstelling, genoemd in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=4&artikel=2.5&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. het functioneren van de rechtsstaat, de kwaliteit van wetgeving, rechtshandhaving en rechtspraak, de toegang tot recht en de rechtsbescherming van burgers;
 
@@ -838,7 +872,7 @@ Met het oog op en binnen het raam van de doelstelling, genoemd in [artikel 2.5](
 
 - g. het bevorderen en versterken van vredesopbouwinspanningen, inclusief conflictpreventie, conflictbeheersing en conflictresolutie;
 
-- h. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=4&artikel=2.5&z=2024-07-11&g=2024-07-11).
+- h. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=4&artikel=2.5&z=2025-07-24&g=2025-07-24).
 
 ### Afdeling 3. Noodhulp en personele veiligheid
 
@@ -1012,7 +1046,7 @@ De minister kan subsidie verlenen voor activiteiten die strekken tot of dienstig
 
 ##### Artikel 2.8
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. het bieden van bescherming aan vluchtelingen, intern ontheemden en kwetsbare gastgemeenschappen;
 
@@ -1022,11 +1056,11 @@ Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7
 
 - d. sociaaleconomische ontwikkeling van vluchtelingen, intern ontheemden en kwetsbare gastgemeenschappen;
 
-- e. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2024-07-11&g=2024-07-11).
+- e. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2025-07-24&g=2025-07-24).
 
 ##### Artikel 2.9
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2024-07-11&g=2024-07-11), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2025-07-24&g=2025-07-24), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. het voorkomen van irreguliere migratie;
 
@@ -1038,7 +1072,7 @@ Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7
 
 - e. het verbeteren en versterken van legale migratie;
 
-- f. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2024-07-11&g=2024-07-11).
+- f. het erkennen, respecteren en versterken van onafhankelijk leiderschap, participatie, besluitvorming en capaciteit van lokale en nationale actoren op het gebied van de doelstellingen, genoemd in [artikel 2.7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=5&artikel=2.7&z=2025-07-24&g=2025-07-24).
 
 #### Paragraaf 6. Gedetineerdenbegeleiding in het buitenland
 
@@ -1046,7 +1080,7 @@ Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.7
 
 De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot of dienstig zijn aan het verlenen van bijstand op maatschappelijk, juridisch, sociaal dan wel geestelijk vlak aan Nederlandse gedetineerden in het buitenland.
 
-### Afdeling 4. Mensenrechten, SDG’s; strategische partnerschappen
+### Afdeling 4. Capaciteitsversterking van maatschappelijke organisaties voor thematische beleidsdoelstellingen
 
 ### Afdeling 5. Thematische financiering
 
@@ -1056,6 +1090,6 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ### Afdeling 8. Cultuur en sport; regionale prioriteiten
 
-### Afdeling 9. Meningsvorming, voorlichting, draagvlakbevordering ontwikkelingssamenwerking en buitenlandse betrekkingen
+### Afdeling 9. Meningsvorming, voorlichting, draagvlakbevordering ontwikkelingshulp en buitenlandse betrekkingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
