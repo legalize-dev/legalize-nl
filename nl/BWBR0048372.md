@@ -4,7 +4,7 @@ identifier: "BWBR0048372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-25"
-last_updated: "2023-07-08"
+last_updated: "2025-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048372"
 soort: "ministeriele-regeling"
@@ -104,11 +104,11 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 2. Voor de berekening, bedoeld in het eerste lid, worden de volgende kosten niet aangemerkt als kosten voor het voorbereiden en het uitvoeren van het projectpakket:
 
-- a. de kosten, bedoeld in [artikel 5, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2023-07-08&g=2023-07-08); en
+- a. de kosten, bedoeld in [artikel 5, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2025-07-25&g=2025-07-25); en
 
 - b. kosten die op basis van een andere rijksregeling gefinancierd worden uit het deltafonds, bedoeld in [artikel 7.22a van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.22a).
 
-3. Voor de berekening van de kosten die niet voor subsidie in aanmerking komen, bedoeld in [artikel 5, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2023-07-08&g=2023-07-08), geldt een tarief van € 50,– per uur inclusief BTW.
+3. Voor de berekening van de kosten die niet voor subsidie in aanmerking komen, bedoeld in [artikel 5, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2025-07-25&g=2025-07-25), geldt een tarief van € 50,– per uur inclusief BTW.
 
 ##### Artikel 7. Subsidieplafond en verdeling
 
@@ -124,7 +124,7 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 2. Per waterschap kan ten hoogste driemaal een aanvraag worden ingediend binnen de periode, bedoeld in het eerste lid.
 
-3. Een aanvraag wordt ingediend bij de minister met gebruikmaking van een door dezer via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](onbekend) beschikbaar gesteld formulier.
+3. Een aanvraag wordt ingediend bij de minister met gebruikmaking van een door dezer via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](http://www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw) beschikbaar gesteld formulier.
 
 4. Een aanvraag gaat vergezeld van:
 
@@ -142,7 +142,7 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 - 6°. een beschrijving van een op te schalen leereffect, indien van toepassing;
 
-- b. de gevraagde subsidiebijdrage, onderbouwd met een specificatie en raming van de totale kosten per maatregel in het projectpakket, waarbij onderscheid wordt gemaakt tussen kosten die voor subsidie in aanmerking komen en de overige kosten voor de berekening van de hoogte van het subsidiebedrag overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=6&z=2023-07-08&g=2023-07-08);
+- b. de gevraagde subsidiebijdrage, onderbouwd met een specificatie en raming van de totale kosten per maatregel in het projectpakket, waarbij onderscheid wordt gemaakt tussen kosten die voor subsidie in aanmerking komen en de overige kosten voor de berekening van de hoogte van het subsidiebedrag overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=6&z=2025-07-25&g=2025-07-25);
 
 - c. een verdeling van de kosten over de kalenderjaren;
 
@@ -164,9 +164,9 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 - a. de uitvoering van een van de deelprojecten niet voldoende bijdraagt aan het verminderen van de wateropgaven zoals beschreven in de Gebiedsdocumenten agrarische wateropgave;
 
-- b. uit de beschrijving, bedoeld in [artikel 8, vierde lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=8&z=2023-07-08&g=2023-07-08), blijkt dat bij de uitvoering van het projectpakket niet of in zeer geringe mate wordt samengewerkt met een of meer agrariërs of agrarische samenwerkingsverbanden;
+- b. uit de beschrijving, bedoeld in [artikel 8, vierde lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=8&z=2025-07-25&g=2025-07-25), blijkt dat bij de uitvoering van het projectpakket niet of in zeer geringe mate wordt samengewerkt met een of meer agrariërs of agrarische samenwerkingsverbanden;
 
-- c. het deelbudget van een waterschap, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=7&z=2023-07-08&g=2023-07-08), zou worden overschreden door verlening van de subsidie; en
+- c. het deelbudget van een waterschap, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=7&z=2025-07-25&g=2025-07-25), zou worden overschreden door verlening van de subsidie; en
 
 - d. de aanvraag niet voldoet aan de in deze regeling opgenomen regels en criteria.
 
@@ -190,7 +190,7 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 ##### Artikel 11. Voorschot
 
-1. De minister besluit bij een beschikking tot verlening als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=10&z=2023-07-08&g=2023-07-08) tot het verlenen van voorschotten tot ten hoogste 80% van het subsidiebedrag.
+1. De minister besluit bij een beschikking tot verlening als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=10&z=2025-07-25&g=2025-07-25) tot het verlenen van voorschotten tot ten hoogste 80% van het subsidiebedrag.
 
 2. Het eerste voorschot wordt betaald binnen zes weken na een beschikking tot verlening van een voorschot en de andere voorschotten vervolgens in de maand juli van het betreffende kalenderjaar.
 
@@ -206,7 +206,7 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 5. De minister kan bij de beschikking tot verlening van een subsidie andere verplichtingen opleggen die naar het oordeel van de minister noodzakelijk zijn voor de verwezenlijking van het doel van de subsidie.
 
-6. Het format voor het monitoringsfiche, bedoeld in het tweede en derde lid, wordt beschikbaar gesteld via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](onbekend).
+6. Het format voor het monitoringsfiche, bedoeld in het tweede en derde lid, wordt beschikbaar gesteld via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](http://www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw).
 
 ##### Artikel 13. Verantwoording
 
@@ -238,7 +238,7 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 - b. een verslag van de lessen en resultaten van het uitvoeren van het projectpakket.
 
-5. Het format voor het monitoringsfiche, bedoeld in het tweede lid, onder a, wordt beschikbaar gesteld via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](onbekend).
+5. Het format voor het monitoringsfiche, bedoeld in het tweede lid, onder a, wordt beschikbaar gesteld via [www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw](http://www.klimaatadaptatienederland.nl/kennisdossiers/landbouw/impulsregeling-daw).
 
 ##### Artikel 14. Vaststelling van de subsidie
 
@@ -246,7 +246,7 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 2. Indien een beschikking tot subsidievaststelling niet uiterlijk op 31 december van het jaar, bedoeld in het eerste lid, kan worden gegeven, kan de minister de termijn voor het nemen van het besluit omtrent vaststelling van de subsidie eenmaal met dertien weken verlengen.
 
-3. De beschikking tot het vaststellen van de subsidie vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=13&z=2023-07-08&g=2023-07-08).
+3. De beschikking tot het vaststellen van de subsidie vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=13&z=2025-07-25&g=2025-07-25).
 
 ##### Artikel 15. Evaluatie
 
@@ -260,23 +260,23 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling word aangehaald als: Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer.
 
-## Bijlage. als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=7&z=2023-07-08&g=2023-07-08), van de Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer
+## Bijlage. als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=7&z=2025-07-25&g=2025-07-25), van de Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer
 
 | Waterschap | Deelbudget |
 | --- | --- |
-| Wetterskip | € 1.391.000 |
-| Drents Overijsselse Delta | € 1.391.000 |
-| Hunze en Aa's | € 1.391.000 |
-| Vechtstromen | € 1.182.000 |
+| Wetterskip Fryslan | € 1.488.000 |
+| Drents Overijsselse Delta | € 1.488.000 |
+| Hunze en Aa’s | € 1.100.000 |
+| Vechtstromen | € 1.279.000 |
 | Scheldestromen | € 1.182.000 |
 | Hollands Noorderkwartier | € 1.182.000 |
-| Rijn en IJssel | € 1.182.000 |
-| Rivierenland | € 1.182.000 |
+| Rijn en IJssel | € 1.898.291 |
+| Rivierenland | € 534.256 |
 | Zuiderzeeland | € 1.182.000 |
 | Aa en Maas | € 904.000 |
 | Noorderzijlvest | € 904.000 |
 | Brabantse Delta | € 904.000 |
-| Vallei en Veluwe | € 904.000 |
+| Vallei en Veluwe | € 835.453 |
 | De Dommel | € 904.000 |
 | Hollandse Delta | € 904.000 |
 | De Stichtse Rijnlanden | € 904.000 |
@@ -285,6 +285,6 @@ Deze regeling word aangehaald als: Subsidieregeling stimulering uitvoering maatr
 | Amstel, Gooi en Vecht | € 695.000 |
 | Schieland en de Krimpenerwaard | € 695.000 |
 | Delfland | € 418.000 |
-| Totaal | € 21.000.000 |
+| Totaal | € 21.000.0000 |
 
 Deze regeling zal mede toelichtingn de Staatscourant worden geplaatst.
