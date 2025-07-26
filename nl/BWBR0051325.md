@@ -4,7 +4,7 @@ identifier: "BWBR0051325"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-26"
-last_updated: "2022-01-01"
+last_updated: "2025-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051325"
 soort: "zbo"
@@ -39,9 +39,9 @@ Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondhe
 
 Op grond van [artikel 56a, tweede lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) geeft de NZa op aanvraag toepassing aan artikel 56a, eerste tot en met negende lid, van de Wmg.
 
-Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS, ten behoeve van de vervolgopleidingen tot (medisch) specialist als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) van deze beleidsregel, een vijftal aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven. Deze aanwijzingen dateren van 17 september 2012, 17 oktober 2013, 6 juli 2016, 26 juni 2018 en 6 juli 2020 en hebben respectievelijk als [kenmerk MC-U-3131142](https://wetten.overheid.nl/jci1.3:c:BWBR0032024), [132010-106827-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0034146), [984591-152516-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0038287),[1355023-177350-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0041116) en [1713658-207569-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0043858). Deze aanwijzingen zijn gepubliceerd in de Staatscourant onder nummer 20041, 30705, 36918, 37253 en 37007.
+Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS, ten behoeve van de vervolgopleidingen tot (medisch) specialist als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) van deze beleidsregel, een vijftal aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven. Deze aanwijzingen dateren van 17 september 2012, 17 oktober 2013, 6 juli 2016, 26 juni 2018 en 6 juli 2020 en hebben respectievelijk als [kenmerk MC-U-3131142](https://wetten.overheid.nl/jci1.3:c:BWBR0032024), [132010-106827-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0034146), [984591-152516-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0038287),[1355023-177350-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0041116) en [1713658-207569-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0043858). Deze aanwijzingen zijn gepubliceerd in de Staatscourant onder nummer 20041, 30705, 36918, 37253 en 37007.
 
-Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS, ten behoeve van de ziekenhuisopleidingen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) van deze beleidsregel, een aanwijzing op grond van artikel 7 van de Wmg aan de NZa gegeven. Deze aanwijzing dateert van 28 juni 2013 en heeft als kenmerk 125996-105636-MC.
+Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS, ten behoeve van de ziekenhuisopleidingen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) van deze beleidsregel, een aanwijzing op grond van artikel 7 van de Wmg aan de NZa gegeven. Deze aanwijzing dateert van 28 juni 2013 en heeft als kenmerk 125996-105636-MC.
 
 Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van VWS, ten behoeve van de medische opleidingen tot sportarts, klinisch neuropsycholoog en arts voor verstandelijk gehandicapten, een aanwijzing op grond van [artikel 7 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven. Deze aanwijzing dateert van 30 juni 2015 en heeft als kenmerk 776201-137544-MC.
 
@@ -163,7 +163,7 @@ Artikel 1.12 tot en met 1.23 beschrijven de begripsbepalingen die van toepassing
 
 - 1.21. **Opleidingsoverzicht** Overzicht uit het opleidingsregister van de per opleiding tot (medisch) specialist gerealiseerde opleidingsplaatsen per opleidende zorgaanbieder, uitgesplitst naar instroomplaatsen (medisch) specialist en doorstroomplaatsen (medisch) specialist.
 
-- 1.22. **Gerealiseerde opleidingsplaats** Het aantal uren dat de (medisch) specialist in opleiding feitelijk heeft besteed aan zijn opleiding. Hierbij gaan wij uit van de berekening zoals genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=4&z=2025-07-26&g=2022-01-01).
+- 1.22. **Gerealiseerde opleidingsplaats** Het aantal uren dat de (medisch) specialist in opleiding feitelijk heeft besteed aan zijn opleiding. Hierbij gaan wij uit van de berekening zoals genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=4&z=2025-07-26&g=2025-07-26).
 
 - 1.23. **Verdeelplan** Overzicht van de verdeling van het maximaal aantal instroomplaatsen en bijbehorende fte voor de vervolgopleidingen tot (medisch) specialist per specialisme per opleidende zorgaanbieder, zoals dat is opgesteld door de Minister.
 
@@ -191,7 +191,7 @@ Deze beleidsregel is van toepassing op het door een zorgaanbieder beschikbaar he
 
 4.1. De NZa verstrekt de beschikbaarheidbijdrage aan opleidende zorgaanbieders ter vergoeding van de kosten die de zorgaanbieder daadwerkelijk maakt voor het verzorgen van (medische) vervolgopleidingen, als bedoeld in [artikel 2 van het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel B, onder 1, sub a, b en c van de bijlage](onbekend).
 
-4.2. De NZa verstrekt uitsluitend beschikbaarheidbijdragen aan opleidende zorgaanbieders die door een registratiecommissie als genoemd in [artikel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01), de opleidingsinstituten als genoemd in artikel 1.18 en 1.19 of het CZO als genoemd in artikel 1.26, erkend zijn om een (medische) vervolgopleiding te verzorgen.
+4.2. De NZa verstrekt uitsluitend beschikbaarheidbijdragen aan opleidende zorgaanbieders die door een registratiecommissie als genoemd in [artikel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26), de opleidingsinstituten als genoemd in artikel 1.18 en 1.19 of het CZO als genoemd in artikel 1.26, erkend zijn om een (medische) vervolgopleiding te verzorgen.
 
 4.3. **Berekening aantal gerealiseerde fte**
 
@@ -202,7 +202,7 @@ De berekening van de realisatie per (medisch) specialist in opleiding (in fte) v
 
 De collectieve arbeidsovereenkomst of sectorale rechtspositieregeling wordt gehanteerd van de opleidende zorgaanbieder waar de (medisch) specialist in opleiding zijn formeel dienstverband heeft. Het aantal uren dat voor één persoon wordt ingevoerd in de aanvraag mag nooit leiden tot een realisatie hoger dan 1 fte.
 
-Boventallige (medisch) specialisten in opleiding, zoals beschreven in [artikel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01), komen niet in aanmerking voor een beschikbaarheidbijdrage en mogen niet in de berekening van de realisatie worden meegenomen.
+Boventallige (medisch) specialisten in opleiding, zoals beschreven in [artikel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26), komen niet in aanmerking voor een beschikbaarheidbijdrage en mogen niet in de berekening van de realisatie worden meegenomen.
 
 In de toelichting van deze beleidsregel worden een aantal rekenvoorbeelden gegeven van hoe het aantal gerealiseerde fte moet worden berekend.
 
@@ -224,7 +224,7 @@ Voor een aantal opleidingen in de ggz bestaat een maximum aantal uren dat een op
 
 4.5. In aanvulling op het ‘Uniform kader beschikbaarheidbijdrage NZa’ gelden de volgende voorwaarden, voorschriften en beperkingen ten aanzien van de beschikbaarheidbijdrage (medische) vervolgopleidingen:
 
-- a. De opleidende zorgaanbieder is verantwoordelijk voor het juist en tijdig laten registreren van de opleidingsgegevens van de (medisch) specialist in opleiding bij desbetreffende registratiecommissie, zoals genoemd in [artikel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) of het CZO als genoemd in artikel 1.26.
+- a. De opleidende zorgaanbieder is verantwoordelijk voor het juist en tijdig laten registreren van de opleidingsgegevens van de (medisch) specialist in opleiding bij desbetreffende registratiecommissie, zoals genoemd in [artikel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) of het CZO als genoemd in artikel 1.26.
 
 - b. Het is van belang dat de opleidende zorgaanbieder uiterlijk 31 december van het subsidiejaar (jaar t) een opleideling koppelt aan een toegekende instroomplaats in het opleidingsregister van de desbetreffende registratiecommissie. Als een opleideling uiterlijk 31 december van het subsidiejaar niet is gekoppeld aan een instroomplaats, dan ontvangt de zorgaanbieder voor dat subsidiejaar geen beschikbaarheidbijdrage voor deze instromer. De zorgaanbieder kan voor deze opleideling wel een doorstroomsubsidie voor jaar t+1 aanvragen als de opleideling door de registratiecommissie in jaar t+1 als doorstromer wordt aangemerkt. De situatie kan zich voordoen dat een zorgaanbieder een afwijzing ontvangt op zijn aanvraag tot verlening voor jaar t+1, omdat de zorgaanbieder alleen één doorstromer in opleiding heeft die niet tijdig als instromer is gekoppeld in jaar t. In afwijking van artikel 5.1.3 van het ‘Uniform kader beschikbaarheidbijdrage NZa’ kan de NZa in deze situatie de beschikbaarheidbijdrage voor jaar t+1 vaststellen zonder dat er voorafgaand een verleningsbeschikking is afgegeven. Voor de ziekenhuisopleidingen geldt het volgende: Het is van belang dat de opleidende zorgaanbieder de opleideling registreert in het Opleidingsregister van het CZO. Voor de ziekenhuisopleidingen waar zowel beschikbaarheidbijdrage voor instromers als gediplomeerden kan worden aangevraagd, is het volgende van toepassing: De opleideling dient uiterlijk 31 december van het instroomjaar geregistreerd te staan bij het CZO. Als een opleideling niet op 31 december van het instroomjaar is geregistreerd bij het CZO, dan ontvangt de zorgaanbieder geen beschikbaarheidbijdrage voor deze instromer. De zorgaanbieder kan voor deze opleideling nog wel een beschikbaarheidbijdrage voor diplomering ontvangen als registratie in het Opleidingsregister alsnog plaatsvindt en de diplomering uiterlijk 31 december van het jaar van diplomering is aangevraagd bij het CZO. Voor de ziekenhuisopleidingen waar alleen beschikbaarheidbijdrage per gediplomeerde kan worden aangevraagd, is het volgende van toepassing: de zorgaanbieder moet uiterlijk 31 december van het jaar van diplomering het diploma hebben aangevraagd bij het CZO.
 
@@ -282,7 +282,7 @@ Als een failliete zorgaanbieder een aanvraag indient voor de verlening van de be
 
 6.1. De NZa toetst het door de opleidende zorgaanbieder aangevraagde aantal instroomplaatsen voor (medisch) specialisten aan het verdeelplan. Het aantal opleidingsplaatsen (medisch) specialist per opleiding in de beschikking kan het aantal instroomplaatsen uit het verdeelplan niet overschrijden.
 
-6.2. Bij het berekenen van de hoogte van de beschikbaarheidbijdrage worden de instroomplaatsen voor (medisch) specialisten van vooropleidingen en opleidingen met een vooropleiding niet meegenomen. Instroomplaatsen van vooropleidingen en opleidingen met een vooropleiding worden achteraf gefinancierd, zie hiervoor [artikel 10.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=10&z=2025-07-26&g=2022-01-01).
+6.2. Bij het berekenen van de hoogte van de beschikbaarheidbijdrage worden de instroomplaatsen voor (medisch) specialisten van vooropleidingen en opleidingen met een vooropleiding niet meegenomen. Instroomplaatsen van vooropleidingen en opleidingen met een vooropleiding worden achteraf gefinancierd, zie hiervoor [artikel 10.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=10&z=2025-07-26&g=2025-07-26).
 
 6.3. De NZa verleent op aanvraag een beschikbaarheidbijdrage voor doorstroomplaatsen (medisch) specialist volgens de overzichten van de registratiecommissies met peildatum 31 oktober van jaar t-1.
 
@@ -296,9 +296,9 @@ Als een failliete zorgaanbieder een aanvraag indient voor de verlening van de be
 
 - b. De opleidingen tot arts voor verstandelijk gehandicapten, huisarts en specialist ouderengeneeskunde.
 
-Deze vergoedingsbedragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2022-01-01) van deze beleidsregel.
+Deze vergoedingsbedragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2025-07-26) van deze beleidsregel.
 
-6.7. Voor de opleidingen zoals genoemd in artikel 6.6 sub a met uitzondering van de opleiding tot verslavingsarts wordt bij de berekening van de beschikbaarheidbijdrage rekening gehouden met een staffel. De staffel geldt per opleiding op basis van het aantal fte opleidingen. Indien sprake is van een juridische fusie als bedoeld in [artikel 4.7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=4&z=2025-07-26&g=2022-01-01), die plaatsvindt voor of op 1 januari van jaar t, wordt de staffel in jaar t op de gefuseerde zorgaanbieder als bedoeld in dat artikel toegepast. Indien sprake is van een overname, zonder dat sprake is van een juridische fusie in de zin van [artikel 2:309 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309), gaat de NZa voor de verlening en vaststelling uit van de afzonderlijke opleidende zorgaanbieders en wordt de staffel in jaar t naar rato toegepast op de opleidende zorgaanbieders gezamenlijk indien de overname voor of op 1 januari van jaar t heeft plaatsgevonden. Heeft de overname na 1 januari in jaar t plaatsgevonden dan is de staffel in jaar t+1 op gelijke wijze van toepassing. Vervolgens wordt de beschikbaarheidbijdrage per rato aan de opleidende zorgaanbieders afzonderlijk toegekend. Hierbij wordt gebruik gemaakt van 3 staffels:
+6.7. Voor de opleidingen zoals genoemd in artikel 6.6 sub a met uitzondering van de opleiding tot verslavingsarts wordt bij de berekening van de beschikbaarheidbijdrage rekening gehouden met een staffel. De staffel geldt per opleiding op basis van het aantal fte opleidingen. Indien sprake is van een juridische fusie als bedoeld in [artikel 4.7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=4&z=2025-07-26&g=2025-07-26), die plaatsvindt voor of op 1 januari van jaar t, wordt de staffel in jaar t op de gefuseerde zorgaanbieder als bedoeld in dat artikel toegepast. Indien sprake is van een overname, zonder dat sprake is van een juridische fusie in de zin van [artikel 2:309 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309), gaat de NZa voor de verlening en vaststelling uit van de afzonderlijke opleidende zorgaanbieders en wordt de staffel in jaar t naar rato toegepast op de opleidende zorgaanbieders gezamenlijk indien de overname voor of op 1 januari van jaar t heeft plaatsgevonden. Heeft de overname na 1 januari in jaar t plaatsgevonden dan is de staffel in jaar t+1 op gelijke wijze van toepassing. Vervolgens wordt de beschikbaarheidbijdrage per rato aan de opleidende zorgaanbieders afzonderlijk toegekend. Hierbij wordt gebruik gemaakt van 3 staffels:
 
 |   | Staffel |
 | --- | --- |
@@ -318,7 +318,7 @@ Deze vergoedingsbedragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:
 
 De verlening van de beschikbaarheidbijdrage voor de gediplomeerden van de ziekenhuisopleidingen vindt per medisch beroepsbeoefenaar in opleiding na diplomering van de opleiding plaats.
 
-7.4. Voor alle ziekenhuisopleidingen als genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) ontvangt de opleidende zorgaanbieder een beschikbaarheidbijdrage per gediplomeerde.
+7.4. Voor alle ziekenhuisopleidingen als genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) ontvangt de opleidende zorgaanbieder een beschikbaarheidbijdrage per gediplomeerde.
 
 Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in service, radiodiagnostisch laborant in service, radiotherapeutisch laborant in service en klinisch perfusionist ontvangt de opleidende zorgaanbieder tevens een beschikbaarheidbijdrage per instromer.
 
@@ -326,7 +326,7 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 ##### Artikel 8. Bevoorschotting
 
-8.1. De op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2022-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=7&z=2025-07-26&g=2022-01-01) van deze beleidsregel totaal verleende beschikbaarheidbijdrage wordt voor 85% bevoorschot aan de opleidende zorgaanbieder die haar aanvraag voor 1 oktober van jaar t-1 heeft ingediend. Dit in afwijking van het ‘Uniform kader beschikbaarheidbijdrage NZa’.
+8.1. De op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2025-07-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=7&z=2025-07-26&g=2025-07-26) van deze beleidsregel totaal verleende beschikbaarheidbijdrage wordt voor 85% bevoorschot aan de opleidende zorgaanbieder die haar aanvraag voor 1 oktober van jaar t-1 heeft ingediend. Dit in afwijking van het ‘Uniform kader beschikbaarheidbijdrage NZa’.
 
 8.2. De bevoorschotting vindt in 10 termijnen plaats met de volgende verdeling: januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7% en oktober 8%. In de maanden november en december van jaar t vindt geen bevoorschotting plaats. Dit in afwijking van het ‘Uniform kader beschikbaarheidbijdrage NZa’.
 
@@ -338,7 +338,7 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 9.2. Volgens het ‘Uniform kader beschikbaarheidbijdrage NZa’ is iedere opleidende zorgaanbieder die een verleningsbeschikking heeft ontvangen met een bedrag van € 125.000 of meer, bij de aanvraag tot vaststelling verplicht een door een accountant opgesteld assurance-rapport mee te leveren.5De NZa publiceert elk jaar voor het uitvoeren van de controle en het opstellen van een assurance-rapport door de accountant een Accountantsprotocol beschikbaarheidbijdrage (medische) vervolgopleidingen op [https://puc.overheid.nl/nza](https://puc.overheid.nl/nza) Het bedrag aan ziekenhuisopleidingen in de aanvraag telt niet mee voor deze grens.
 
-9.3. In afwijking van [artikel 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=5&z=2025-07-26&g=2022-01-01) en 5.2.5 van het ‘Uniform kader beschikbaarheidbijdrage NZa’ controleert de NZa de aanvragen van opleidende zorgaanbieders waaraan een beschikbaarheidbijdrage is verleend van een bedrag minder dan € 125.000 (exclusief ziekenhuisopleidingen). De NZa raadpleegt hiervoor de overzichten van desbetreffende registratiecommissies. Wanneer de NZa significante afwijkingen constateert, neemt de NZa contact op met de zorgaanbieder. Indien de NZa het nodig acht heeft zij de bevoegdheid alsnog een assurance-rapport op te vragen bij de zorgaanbieder.
+9.3. In afwijking van [artikel 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=5&z=2025-07-26&g=2025-07-26) en 5.2.5 van het ‘Uniform kader beschikbaarheidbijdrage NZa’ controleert de NZa de aanvragen van opleidende zorgaanbieders waaraan een beschikbaarheidbijdrage is verleend van een bedrag minder dan € 125.000 (exclusief ziekenhuisopleidingen). De NZa raadpleegt hiervoor de overzichten van desbetreffende registratiecommissies. Wanneer de NZa significante afwijkingen constateert, neemt de NZa contact op met de zorgaanbieder. Indien de NZa het nodig acht heeft zij de bevoegdheid alsnog een assurance-rapport op te vragen bij de zorgaanbieder.
 
 9.4. De beschikbaarheidbijdrage kan lager worden vastgesteld als:
 
@@ -366,19 +366,19 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 - b. Het aantal instroomplaatsen en/of fte (medisch) specialist per opleiding per opleidende zorgaanbieder niet hoger vastgesteld kan worden dan het aantal opleidingsplaatsen dat voor die zorgaanbieder in het verdeelplan is vastgelegd, tenzij er sprake is van onderstaande uitzonderingen. Genoemde uitzonderingen moeten aan de hand van de hieronder nader gespecificeerde documenten bij de aanvraag worden aangetoond. De uitzonderingen zijn:
 
-- ○. Het intrekken van een opleidingserkenning van een opleidende zorgaanbieder waardoor een andere opleidende zorgaanbieder een of meer opleidingsplaatsen boven het verdeelplan kan aanvragen. Hier dient een besluit van de relevante registratiecommissie of opleidingsinstituten als genoemd in de [artikelen 1.17 tot en met en 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) aan ten grondslag te liggen.
+- ○. Het intrekken van een opleidingserkenning van een opleidende zorgaanbieder waardoor een andere opleidende zorgaanbieder een of meer opleidingsplaatsen boven het verdeelplan kan aanvragen. Hier dient een besluit van de relevante registratiecommissie of opleidingsinstituten als genoemd in de [artikelen 1.17 tot en met en 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) aan ten grondslag te liggen.
 
-- ○. Faillissement van een opleidende zorgaanbieder, waardoor een andere opleidende zorgaanbieder een of meer opleidingsplaatsen boven het verdeelplan krijgt toegewezen. Hiervoor is goedkeuring nodig van het nieuwe opleidingsschema door de relevante registratiecommissie of de opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01).
+- ○. Faillissement van een opleidende zorgaanbieder, waardoor een andere opleidende zorgaanbieder een of meer opleidingsplaatsen boven het verdeelplan krijgt toegewezen. Hiervoor is goedkeuring nodig van het nieuwe opleidingsschema door de relevante registratiecommissie of de opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26).
 
 - ○. Fusie van twee of meer opleidende zorgaanbieders waardoor één zorgaanbieder of de opvolgende rechtspersoon de opleidingsplaatsen krijgt toegewezen. Het totaal aantal plaatsen en fte’s van de gefuseerde zorgaanbieder kan niet hoger zijn dan het aantal plaatsen en fte’s van de afzonderlijke zorgaanbieders voor de fusie.
 
 - ○. Overplaatsing van de (medisch) specialist in opleiding door een uitspraak van een geschillencommissie of een centrale opleidingscommissie vanuit een opleidende zorgaanbieder naar een andere opleidende zorgaanbieder. De uitspraak moet bij de aanvraag tot vaststelling gevoegd worden.
 
-- ○. Verlenging van de duur van de opleiding van de (medisch) specialist in opleiding vanwege opleidingsinhoudelijke redenen. Hier dient een besluit van de registratiecommissie of opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01) aan ten grondslag te liggen waaruit blijkt dat de duur van de opleiding wordt verlengd.
+- ○. Verlenging van de duur van de opleiding van de (medisch) specialist in opleiding vanwege opleidingsinhoudelijke redenen. Hier dient een besluit van de registratiecommissie of opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26) aan ten grondslag te liggen waaruit blijkt dat de duur van de opleiding wordt verlengd.
 
 - c. Het aantal instroomplaatsen (medisch) specialist van vooropleidingen en opleidingen met een vooropleiding wordt vastgesteld op basis van de aanvraag tot vaststelling.
 
-- d. Een (medisch) specialist in opleiding7Deze situatie heeft geen betrekking op de verpleegkundig specialist ggz. een deel van de opleiding buiten Nederland kan volgen als er vooraf toestemming is van de relevante registratiecommissie of opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01). Voorwaarden zijn:
+- d. Een (medisch) specialist in opleiding7Deze situatie heeft geen betrekking op de verpleegkundig specialist ggz. een deel van de opleiding buiten Nederland kan volgen als er vooraf toestemming is van de relevante registratiecommissie of opleidingsinstituut als genoemd in de [artikelen 1.17 tot en met 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26). Voorwaarden zijn:
 
 - ○. Het dienstverband en/of de arbeidsovereenkomst tussen de opleidende zorgaanbieder en de (medisch) specialist in opleiding moet voortduren;
 
@@ -386,7 +386,7 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 - ○. De opleiding buiten Nederland mag niet leiden tot verlenging van de duur van de opleiding.
 
-10.2. De beschikbaarheidbijdrage kan naast de in [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=9&z=2025-07-26&g=2022-01-01) genoemde omstandigheden lager worden vastgesteld als:
+10.2. De beschikbaarheidbijdrage kan naast de in [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=9&z=2025-07-26&g=2025-07-26) genoemde omstandigheden lager worden vastgesteld als:
 
 - a. Een (medisch) specialist in opleiding (tijdelijk) stopt met de opleiding. Dit wordt aangemerkt als uitval, ongeacht de reden hiervan, zoals zwangerschapsverlof. Uitzonderingen hierop zijn:
 
@@ -406,9 +406,9 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 - a. Opleidingen niet altijd per 1 januari van het jaar beginnen.
 
-- b. Een (medisch) specialist in opleiding die een doorstroomplaats (medisch) specialist bezet, gedurende het jaar kan wisselen van opleidende zorgaanbieder volgens de regels van de registratiecommissie. De wijzigingen worden door de NZa verwerkt bij de vaststelling van de beschikbaarheidbijdrage. Mutaties kunnen alleen plaatsvinden bij doorstroomplaatsen (medisch) specialist in opleiding, met uitzondering van de situatie als genoemd in [artikel 1.14 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2022-01-01).
+- b. Een (medisch) specialist in opleiding die een doorstroomplaats (medisch) specialist bezet, gedurende het jaar kan wisselen van opleidende zorgaanbieder volgens de regels van de registratiecommissie. De wijzigingen worden door de NZa verwerkt bij de vaststelling van de beschikbaarheidbijdrage. Mutaties kunnen alleen plaatsvinden bij doorstroomplaatsen (medisch) specialist in opleiding, met uitzondering van de situatie als genoemd in [artikel 1.14 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=1&z=2025-07-26&g=2025-07-26).
 
-- c. De opleidende zorgaanbieder een aanvraag indient voor vaststelling van de beschikbaarheidbijdrage van de instroomplaatsen (medisch) specialist van vooropleidingen en opleidingen met een vooropleiding. Gelet op [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2022-01-01) vindt de bekostiging van deze vooropleidingen en opleidingen met een vooropleiding volledig bij de vaststelling plaats.
+- c. De opleidende zorgaanbieder een aanvraag indient voor vaststelling van de beschikbaarheidbijdrage van de instroomplaatsen (medisch) specialist van vooropleidingen en opleidingen met een vooropleiding. Gelet op [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2025-07-26) vindt de bekostiging van deze vooropleidingen en opleidingen met een vooropleiding volledig bij de vaststelling plaats.
 
 - d. Een instroomplaats (medisch) specialist in opleiding met een vooropleiding in het verdeelplan wordt toegewezen aan de opleidende zorgaanbieder waar de eindopleiding wordt gevolgd.
 
@@ -416,9 +416,9 @@ Voor de opleidingen tot operatieassistent in service, anesthesiemedewerker in se
 
 - a. Het aantal gerealiseerde fte per opleiding wordt bepaald, rekening houdend met de criteria van de artikelen 10.1 tot en met 10.3. De vergoedingsbedragen, zoals vastgesteld door de Minister en geïndexeerd door de NZa, worden bepaald per opleiding. Bij de berekening van de beschikbaarheidbijdrage vergoedingsbedragen wordt er rekening gehouden met de staffel zoals omschreven in artikel 6, tweede lid van de aanwijzing.8De aanwijzing van 17 september 2012, MC-U-3131142.
 
-- b. In afwijking op artikel 10.4 sub a zijn de vergoedingsbedragen voor de opleidingen tot gezondheidszorgpsycholoog, psychotherapeut, klinisch psycholoog, klinisch neuropsycholoog, psychiater in de ggz, klinisch geriater in de ggz en verpleegkundig specialist in de ggz en verslavingsarts door de NZa vastgesteld. Deze vergoedingsbedragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2022-01-01) van deze beleidsregel. Bij de berekening van de beschikbaarheidbijdrage voor deze opleidingen is met uitzondering van de opleiding tot verslavingsarts rekening gehouden met de staffel zoals beschreven in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2022-01-01).
+- b. In afwijking op artikel 10.4 sub a zijn de vergoedingsbedragen voor de opleidingen tot gezondheidszorgpsycholoog, psychotherapeut, klinisch psycholoog, klinisch neuropsycholoog, psychiater in de ggz, klinisch geriater in de ggz en verpleegkundig specialist in de ggz en verslavingsarts door de NZa vastgesteld. Deze vergoedingsbedragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2025-07-26) van deze beleidsregel. Bij de berekening van de beschikbaarheidbijdrage voor deze opleidingen is met uitzondering van de opleiding tot verslavingsarts rekening gehouden met de staffel zoals beschreven in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&artikel=6&z=2025-07-26&g=2025-07-26).
 
-- c. In afwijking op artikel 10.4 sub a zijn de vergoedingsbedragen voor de arts verstandelijk gehandicapten, huisarts en specialist ouderengeneeskunde door de NZa vastgesteld. Deze vergoedingsbijdragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2022-01-01) van deze beleidsregel.
+- c. In afwijking op artikel 10.4 sub a zijn de vergoedingsbedragen voor de arts verstandelijk gehandicapten, huisarts en specialist ouderengeneeskunde door de NZa vastgesteld. Deze vergoedingsbijdragen staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051325&bijlage=1&z=2025-07-26&g=2025-07-26) van deze beleidsregel.
 
 - d. Het aantal gerealiseerde fte per opleiding vermenigvuldigd wordt met het corresponderende vergoedingsbedrag.
 
