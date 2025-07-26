@@ -4,7 +4,7 @@ identifier: "BWBR0051320"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-26"
-last_updated: "2025-07-02"
+last_updated: "2025-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051320"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissieleden worden door de minister benoemd.
 
-3. De benoeming geschiedt voor de duur van de werkzaamheden van de commissie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=4&z=2025-07-26&g=2025-07-02) van dit besluit.
+3. De benoeming geschiedt voor de duur van de werkzaamheden van de commissie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=4&z=2025-07-26&g=2025-07-26) van dit besluit.
 
 4. De commissieleden kunnen op eigen verzoek, wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst of ontslagen door de minister.
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-1. De commissie wordt opgeheven zes weken nadat het eindrapport is uitgebracht, zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=7&z=2025-07-26&g=2025-07-02) van dit besluit.
+1. De commissie wordt opgeheven zes weken nadat het eindrapport is uitgebracht, zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=7&z=2025-07-26&g=2025-07-26) van dit besluit.
 
 2. De minister kan de duur van de instelling van de commissie eenmalig verlengen.
 
