@@ -4,7 +4,7 @@ identifier: "BWBR0049732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-29"
-last_updated: "2024-09-05"
+last_updated: "2025-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049732"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Te rekenen vanaf 22 april 2024 tot 1 september 2024 wordt de heer ir. J.J. de Jo
 
 ##### Artikel 4
 
-De speciaal gezant heeft als opdracht om een nationaal versterkingsplan van microchip-talent te ontwikkelen conform de afspraken die daarover zijn gemaakt in het convenant.
+De speciaal gezant heeft als opdracht om een nationaal versterkingsplan van microchip-talent te ontwikkelen conform de afspraken die daarover zijn gemaakt in het convenant en mede invulling te geven aan de verdere uitwerking van het nationaal versterkingsplan.
 
 ##### Artikel 5
 
@@ -70,7 +70,7 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de speciaal gezant
 
 ##### Artikel 7
 
-Van 1 september 2024 tot en met 20 december 2024 wordt aan de speciaal gezant nationaal versterkingsplan van microchip-talent een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,222.
+Van 1 januari 2025 tot en met 31 december 2026 wordt aan de speciaal gezant nationaal versterkingsplan van microchip-talent een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,222.
 
 ##### Artikel 8
 
