@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2024-03-21"
+last_updated: "2025-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. de afdeling BDI, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. twee teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider;
+- 1°. drie teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider;
 
 - 2°. een team voor inning en beheer;
 
