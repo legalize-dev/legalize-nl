@@ -4,7 +4,7 @@ identifier: "BWBR0039392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2025-01-01"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039392"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Aan het College wordt mandaat verleend ten aanzien van de tot de verantwoordelij
 
 - 6°. de Nationale ombudsman voor zover het gaat om het geven van een verbod als bedoeld in [artikel 14 Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=14).
 
-- b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2023-03-23&g=2025-01-01) aan de secretaris-generaal zijn verleend.
+- b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2025-08-01&g=2025-08-01) aan de secretaris-generaal zijn verleend.
 
 ##### Artikel 4
 
@@ -108,19 +108,23 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 - b. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;
 
-- c. de directeur van de Dienstverleningsorganisatie Openbaar Ministerie; en
+- c. de directeur van de Landelijke Bedrijfsvoering Openbaar Ministerie;
 
-- d. de directeur van de Rijksrecherche.
+- d. de directeur van de Rijksrecherche; en
+
+- e. de directeur Informatievoorziening Openbaar Ministerie.
 
 2. Het in het eerste lid bedoelde ondermandaat kan slechts twee hiërarchische niveaus verder worden doorgeven.
 
 ##### Artikel 7
 
-1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2023-03-23&g=2025-01-01), bedoelde bezwaarschriften kan worden verleend aan:
+1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde bezwaarschriften kan worden verleend aan:
 
 - a. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;
 
-- b. het hoofd van het parket Centrale Verwerking Openbaar Ministerie voor zover het gaat om beroepschriften in zaken die het parket Centrale Verwerking Openbaar Ministerie betreffen.
+- b. het hoofd van het parket Centrale Verwerking Openbaar Ministerie voor zover het gaat om beroepschriften in zaken die het parket Centrale Verwerking Openbaar Ministerie betreffen; en
+
+- c. de directeur van de Landelijke Bedrijfsvoering Openbaar Ministerie.
 
 2. De in het eerste lid genoemde functionarissen wordt toegestaan ten aanzien van de bevoegdheid tot het behandelen van beroepschriften ondermandaat te verlenen aan onder hen ressorterende medewerkers die met die taak zijn belast.
 
