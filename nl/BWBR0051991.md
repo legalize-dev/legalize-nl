@@ -915,39 +915,3 @@ De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4]
 ### VI. De Dienst Nederlandse Emissieautoriteit
 
 Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Klimaat en Groene Groei.
-
-#### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
-
-#### § 3. Instructies
-
-#### § 4. Ondermandaat
-
-#### § 5. Vervanging
-
-#### § 6. Ondertekening bij afwezigheid minister
-
-#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
-
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
-
-#### § 7.2. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
-
-#### § 7.3. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken
-
-#### § 7.4. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 8. Ondermandaat, volmacht en machtiging aan functionarissen van het Ministerie van Economische Zaken en het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 9. Instructies aan niet-ondergeschikten
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage 2
-
-### VI. De Dienst Nederlandse Emissieautoriteit
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
