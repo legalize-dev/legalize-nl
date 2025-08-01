@@ -4,7 +4,7 @@ identifier: "BWBR0048464"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2024-11-30"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048464"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Dit besluit wordt aangehaald als: Beleidsregel advieskader nieuwe scholen 2023.
 
 ## Bijlage. Advieskader nieuwe scholen voor een kwaliteitstoets op aanvragen van nieuwe scholen voor basisonderwijs en voortgezet onderwijs
 
-Geldig per 1 augustus 2024
+Geldig per 1 augustus 2025
 
 **Inhoud**
 
@@ -74,7 +74,7 @@ Deze versie van het advieskader treedt op 1 augustus 2024 in werking.
 
 ### 1.1. Wettelijk kader toezicht op nieuwe scholen
 
-In de Wet Meer Ruimte voor Nieuwe Scholen (hierna: de wet)1Formeel: Wijziging van diverse onderwijswetten door het wijzigen van de systematiek van het in aanmerking brengen voor bekostiging van nieuwe openbare en bijzondere scholen zodat er meer ruimte is voor een nieuw onderwijsaanbod (Stb. 2020, 160). is de procedure voor het starten van nieuwe openbare en bijzondere scholen in het basis- en voorgezet onderwijs geregeld. Het bestuur dient bij de minister een aanvraag in voor bekostiging van een openbare of een bijzondere school ([art. 74, eerste lid, Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74) (hierna: WPO), [art. 4.5, eerste lid, Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5) (hierna: WVO 2020). De wet bepaalt dat de inspectie de minister adviseert of de aanvraag voldoet aan specifieke in de wet opgenomen verplichtingen ([art. 75, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75) en [art. 4.5, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a)). Deze adviesverplichting is ook van toepassing op Caribisch Nederland ([art. 75, eerste lid, Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75)(hierna: WPO BES) en [art. 11.45, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45)).
+In de Wet Meer Ruimte voor Nieuwe Scholen (hierna: de wet)1Formeel: Wijziging van diverse onderwijswetten door het wijzigen van de systematiek van het in aanmerking brengen voor bekostiging van nieuwe openbare en bijzondere scholen zodat er meer ruimte is voor een nieuw onderwijsaanbod (Stb. 2020, 160). is de procedure voor het starten van nieuwe openbare en bijzondere scholen in het basis- en voorgezet onderwijs geregeld. Het bestuur dient bij de minister een aanvraag in voor bekostiging van een openbare of een bijzondere school ([art. 74, eerste lid, Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74) (hierna: WPO), [art. 4.5, eerste lid, Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5) (hierna: WVO 2020). De wet bepaalt dat de inspectie de minister adviseert of de aanvraag voldoet aan specifieke in de wet opgenomen verplichtingen ([art. 75, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75) en [art. 4.5, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a)). Deze adviesverplichting is ook van toepassing op Caribisch Nederland ([art. 75, eerste lid, Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75)(hierna: WPO BES) en [art. 11.45, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45)).
 
 ### 1.2. Deugdelijkheidseisen en overige elementen van kwaliteit
 
@@ -188,11 +188,13 @@ De burgerschapswet creëert geen nieuwe basiswaarden. Ook onder de eerdere wette
 
 Actieve bevordering van de basiswaarden van de democratische rechtsstaat neemt binnen de wettelijke opdracht een centrale plaats in. Van scholen wordt verwacht dat zij werken aan borging en overdracht van de basiswaarden. Ten overvloede zij daarbij opgemerkt dat uit deze opdracht ook volgt dat onderwijs of handelen van de school niet in strijd met basiswaarden kan zijn. Goed burgerschapsonderwijs sluit aan bij de leefwereld van leerlingen en de interesses, problemen en risico’s die hiermee gepaard gaan. Uitgangspunt bij het toezicht is dat scholen blijk geven van inzicht in hun leerlingenpopulatie en hun leefwereld en dit, indien nodig, vertalen naar het onderwijs. Verder is van belang dat basiswaarden structureel onderdeel zijn van de schoolcultuur en dat deze daarmee in overeenstemming is. De inspectie ziet toe op de naleving daarvan via de zorg van het bestuur voor een schoolcultuur waarin alle betrokkenen basiswaarden als centrale spelregels hanteren en voorleven en voor een omgeving waarin leerlingen worden gestimuleerd actief te oefenen met de omgang met basiswaarden.
 
+1 De basisondersteuningsvoorzieningen, die gelden voor alle scholen behorend tot het betreffende samenwerkingsverband, zijn beschreven in het ondersteuningsplan van het betreffende samenwerkingsverband. De aanvraag beschrijft alleen de extra ondersteuning die de school biedt.
+
 1 In geval van een nieuwe rechtspersoon geldt dat in de oprichtingsakte wordt vermeld wie de bestuurders en intern toezichthouders zijn. Bij oprichting van een nieuwe rechtspersoon is er daarom nog geen sprake van openbare profielen.
 
-2 Idem
-
 ### 3.3. Uitwerking overige elementen van kwaliteit
+
+Deze paragraaf beschrijft per overig element van kwaliteit welke informatie van de initiatiefnemer verwacht wordt. Daarnaast is, waar van toepassing, de wettelijke onderbouwing bij elk onderdeel beschreven, net zoals dat in de reguliere onderzoekskader is gedaan. Daar waar nodig is onderscheid gemaakt tussen basisonderwijs en voortgezet onderwijs. De selectie van deze overige elementen voor het advieskader is beschreven in [art. 74, derde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74) en [art. 4.5a, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a).
 
 Deze paragraaf beschrijft per overig element van kwaliteit welke informatie van de initiatiefnemer verwacht wordt. Daarnaast is, waar van toepassing, de wettelijke onderbouwing bij elk onderdeel beschreven, net zoals dat in de reguliere onderzoekskader is gedaan. Daar waar nodig is onderscheid gemaakt tussen basisonderwijs en voortgezet onderwijs. De selectie van deze overige elementen voor het advieskader is beschreven in [art. 74, derde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74) en [art. 4.5a, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a).
 
@@ -220,8 +222,6 @@ De inspectie geeft in haar advies aan de minister geen oordeel over de invulling
 
 2 Art. 4.5, lid 3, onderdeel h, WVO 2020
 
-1 Art. 74, lid 3, onderdeel i, WPO en art. 4.5a, lid 3, onderdeel i, WVO 2020
-
 ### 4. Normering en totstandkoming advies
 
 In dit hoofdstuk is beschreven hoe de inspectie met behulp van het advieskader uit hoofdstuk 3 tot een advies komt over de te verwachten kwaliteit van het onderwijs bij nieuwe initiatieven.
@@ -234,7 +234,7 @@ Op het moment dat het initiatief aan alle deugdelijkheidseisen voldoet, is het a
 
 Het advies van de inspectie heeft een wettelijke basis en komt tot stand na analyse van documenten die bij de aanvraag zijn aangeleverd en een gesprek met de initiatiefnemer. In voorkomende gevallen kan informatie van derden worden opgehaald en betrokken. De inspectie stelt een conceptadvies op en geeft de initiatiefnemer twee weken de tijd daarop te reageren. Op basis van de reactie van de initiatiefnemer op het conceptadvies en eventueel daarbij aangeleverde aanvullende documenten kan het advies worden bijgesteld.
 
-Het advies komt in overleg tussen minimaal twee inspecteurs en eventueel na consultatie van juristen tot stand. Referenten beoordelen het conceptadvies voordat het naar de initiatiefnemer wordt verstuurd. Met deze werkwijze komt de inspectie tot een afgewogen advies.
+Het advies van de inspectie heeft een wettelijke basis en komt tot stand na analyse van documenten die bij de aanvraag zijn aangeleverd en een gesprek met de initiatiefnemer. In voorkomende gevallen kan informatie van derden worden opgehaald en betrokken. De inspectie stelt een conceptadvies op en geeft de initiatiefnemer twee weken de tijd daarop te reageren. Op basis van de reactie van de initiatiefnemer op het conceptadvies en eventueel daarbij aangeleverde aanvullende documenten kan het advies worden bijgesteld.
 
 ### 5. Werkwijze advisering
 
@@ -246,19 +246,19 @@ De adviesprocedure heeft tot doel een antwoord te formuleren op de volgende cent
 
 ### 5.2. Voorbereiding
 
-### 5.2.1. Informatie naar DUO
+### 5.2. Voorbereiding
 
 De beoogde startdatum van de bekostiging is 1 augustus van het jaar X. Een initiatiefnemer levert voor 1 november van het jaar X–2 de aanvraag met de vereiste informatie aan bij DUO. De inspectie ontvangt deze informatie van DUO.
 
-Voor verzelfstandiging van een nevenvestiging in het primair onderwijs geldt dat de bekostiging aanvangt op 1 augustus van het jaar na indiening van de aanvraag.
+De beoogde startdatum van de bekostiging is 1 augustus van het jaar X. Een initiatiefnemer levert voor 1 november van het jaar X–2 de aanvraag met de vereiste informatie aan bij DUO. De inspectie ontvangt deze informatie van DUO.
+
+### 5.2.2. Expertanalyse
+
+Ook in de situatie van de verzelfstandiging van een dislocatie of nevenvestiging in het po, de splitsing van een vo-school of vo-scholengemeenschap, het stichten van een extra schoolsoort in het vo of het stichten van een extra vbo-profiel dient de initiatiefnemer toe te lichten hoe hij invulling geeft aan de deugdelijkheidseisen en overige elementen van kwaliteit. De initiatiefnemer kan hiervoor ook bestaande documenten aanleveren. Bij deze bestaande documenten moet de initiatiefnemer duidelijk maken over welke deugdelijkheidseis of overig element van kwaliteit het document informatie bevat en dat de documenten ook gaan over de situatie die geldt vanaf de oprichting van de nieuwe school, scholengemeenschap, schoolsoort of vbo-profiel.
 
 ### 5.2.2. Expertanalyse
 
 De inspectie ordent en analyseert informatie in de aanvraag voor de nieuwe school en beschrijft in een expertanalyse hoe deze informatie zich verhoudt tot de deugdelijkheidseisen en de overige elementen van kwaliteit. De inspectie kan bij de aanvraag tot verzelfstandiging van een al bestaande locatie ook een recent inspectierapport over deze locatie betrekken bij de expertanalyse. De expertanalyse maakt duidelijk op welke onderdelen nadere toelichting vereist is en welke overige elementen van kwaliteit aandacht vragen in het gesprek.
-
-### 5.3. Gesprek met initiatiefnemer
-
-De inspectie nodigt de initiatiefnemer uit voor een gesprek over de aanvraag. Het gesprek heeft verschillende functies:
 
 De inspectie nodigt de initiatiefnemer uit voor een gesprek over de aanvraag. Het gesprek heeft verschillende functies:
 
@@ -272,19 +272,21 @@ De inspectie stelt op basis van het gesprek een conceptadvies op. Dit gebeurt do
 
 ### 5.4.2. Advies aan de minister
 
+Ook bevat het conceptadvies een korte weergave van het gesprek over de overige elementen van kwaliteit en eventuele overige gespreksonderwerpen. De initiatiefnemer krijgt twee weken de tijd om te reageren op het conceptadvies en, desgewenst, aanvullende informatie over de deugdelijkheidseisen schriftelijk aan te leveren.
+
+### 5.4.2. Advies aan de minister
+
 De inspectie adviseert op basis van de aanvraag, het gesprek en de reactie op het conceptadvies (met inbegrip van eventueel aangeleverde informatie) de minister schriftelijk over zijn te nemen besluit over de aanvraag. De inspectie geeft de minister ook informatie over de overige elementen van kwaliteit, maar betrekt dit niet in haar advies.
 
 ### 5.5. Besluit van de minister
 
 Op basis van het advies van de inspectie besluit de minister voor 1 juni van het jaar X–14Voor een verzelfstandiging van een nevenvestiging in het basisonderwijs geldt X i.p.v. X–1 om de school al dan niet voor bekostiging in aanmerking te brengen en publiceert dit besluit in de Staatscourant. Dit besluit geeft tevens het advies van de inspectie weer. Tegen het advies van de inspectie staan geen bezwaar en beroep open, het is immers geen besluit. Tegen het besluit van de minister staan wel bezwaar en beroep open.
 
-### 5.6. Doorlooptijden
-
-De initiatiefnemer dient zijn aanvraag tot bekostiging uiterlijk 1 november van het jaar X–2 in. De inspectie adviseert uiterlijk 1 mei van het jaar X–1 aan de minister, zodat de minister voor 1 juni van het jaar X–1 een besluit kan nemen over het al dan niet voor bekostiging in aanmerking brengen van een nieuwe school.
-
 De initiatiefnemer dient zijn aanvraag tot bekostiging uiterlijk 1 november van het jaar X–2 in. De inspectie adviseert uiterlijk 1 mei van het jaar X–1 aan de minister, zodat de minister voor 1 juni van het jaar X–1 een besluit kan nemen over het al dan niet voor bekostiging in aanmerking brengen van een nieuwe school.
 
 ### 5.7. Inrichten vervolgtoezicht
+
+Voor verzelfstandiging van een nevenvestiging in het basisonderwijs geldt dat de bekostiging aanvangt op 1 augustus van het jaar na indiening van de aanvraag.
 
 Het toezicht na een positief besluit wordt als volgt ingericht:
 
@@ -300,13 +302,13 @@ Indien de inspectie het noodzakelijk vindt, neemt zij tussen het moment van het 
 
 Binnen een maand na aanvang van de bekostiging van een instelling verstrekt de instelling aan de inspectie gegevens met betrekking tot ([art. 11b, eerste lid, WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11b)):
 
-**Risicoanalyse**
+### 6. Deugdelijkheidseisen en overige elementen van kwaliteit voor Caribisch Nederland
+
+Op basis van deze informatie maakt de inspectie uiterlijk drie maanden nadat de bekostiging is gestart een risicoanalyse en besluit de inspectie hoe ze het vervolgtoezicht op de nieuwe school inricht. De inspectie voert in elk geval in het eerste jaar na de start van de bekostiging van de school een kwaliteitsonderzoek uit, conform het betreffende reguliere onderzoekskader. Dit kwaliteitsonderzoek wordt uitgevoerd door inspecteurs die niet betrokken zijn geweest bij de adviesprocedure over de betreffende school. Op basis van de uitkomsten van dit kwaliteitsonderzoek bepaalt de inspectie bij nieuwe besturen wanneer zij een vierjaarlijks onderzoek bij bestuur en scholen uitvoert. Bij bestaande besturen kan het leiden tot een aanpassing van de planning van het vierjaarlijks onderzoek.
 
 ### 6. Deugdelijkheidseisen en overige elementen van kwaliteit voor Caribisch Nederland
 
 In dit hoofdstuk zijn de deugdelijkheidseisen en overige elementen van kwaliteit voor Caribisch Nederland uitgewerkt. De normering en werkwijze voor Caribisch Nederland is dezelfde als beschreven in hoofdstuk 4 en 5.
-
-### 6.1. Uitwerking deugdelijkheidseisen voor Caribisch Nederland
 
 Deze paragraaf beschrijft per deugdelijkheidseis wanneer de initiatiefnemer aan deze eis voldoet. Daarnaast wordt de wettelijke onderbouwing bij elke deugdelijkheidseis beschreven, net zoals dat in de reguliere onderzoekskaders voor primair en voortgezet onderwijs is gedaan. De selectie van deze deugdelijkheidseisen voor het advieskader is beschreven in [art. 72, derde lid onder b van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72) en [art. 11.45a, tweede lid onder b, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a).
 
@@ -354,9 +356,9 @@ De burgerschapswet creëert geen nieuwe basiswaarden. Ook onder de eerdere wette
 
 Actieve bevordering van de basiswaarden van de democratische rechtsstaat neemt binnen de wettelijke opdracht een centrale plaats in. Van scholen wordt verwacht dat zij werken aan borging en overdracht van de basiswaarden. Ten overvloede zij daarbij opgemerkt dat uit deze opdracht ook volgt dat onderwijs of handelen van de school niet in strijd met basiswaarden kan zijn. Goed burgerschapsonderwijs sluit aan bij de leefwereld van leerlingen en de interesses, problemen en risico’s die hiermee gepaard gaan. Uitgangspunt bij het toezicht is dat scholen blijk geven van inzicht in hun leerlingenpopulatie en hun leefwereld en dit, indien nodig, vertalen naar het onderwijs. Verder is van belang dat basiswaarden structureel onderdeel zijn van de schoolcultuur en dat deze daarmee in overeenstemming is. De inspectie ziet toe op de naleving daarvan via de zorg van het bestuur voor een schoolcultuur waarin alle betrokkenen basiswaarden als centrale spelregels hanteren en voorleven en voor een omgeving waarin leerlingen worden gestimuleerd actief te oefenen met de omgang met basiswaarden.
 
-1 In geval van een nieuwe rechtspersoon geldt dat in de oprichtingsakte wordt vermeld wie de bestuurders en intern toezichthouders zijn. Bij oprichting van een nieuwe rechtspersoon is er daarom nog geen sprake van openbare profielen.
-
 ### 6.2. Uitwerking overige elementen van kwaliteit voor Caribisch Nederland
+
+2 Idem
 
 Deze paragraaf beschrijft per overig element van kwaliteit welke informatie van de initiatiefnemer verwacht wordt. Daarnaast is, waar van toepassing, de wettelijke onderbouwing bij elk onderdeel beschreven, net zoals dat in de reguliere onderzoekskaders is gedaan. De selectie van deze overige elementen voor het advieskader is beschreven in [art. 72, vierde lid van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72) en [art. 11.45a, derde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a).
 
@@ -382,11 +384,9 @@ De inspectie betrekt deze acht overige elementen van kwaliteit niet in het advie
 
 2 Zowel huisvesting als kinderopvang zijn na de start van de school geen deugdelijkheidseisen waaraan voldaan moet worden
 
-1 WPO BES, art. 72, lid 4, onderdeel g en WVO 2020, art.11.45a, lid 3, onderdeel g
-
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-Ook in de situatie van de verzelfstandiging van een dislocatie of nevenvestiging in het po, de splitsing van een vo-school of vo-scholengemeenschap, het stichten van een extra schoolsoort in het vo of het stichten van een extra vbo-profiel dient de initiatiefnemer toe te lichten hoe hij invulling geeft aan de deugdelijkheidseisen en overige elementen van kwaliteit. De initiatiefnemer kan hiervoor ook bestaande documenten aanleveren. Bij deze bestaande documenten moet de initiatiefnemer duidelijk maken over welke deugdelijkheidseis of overig element van kwaliteit het document informatie bevat en dat de documenten ook gaan over de situatie die geldt vanaf de oprichting van de nieuwe school, scholengemeenschap, schoolsoort of vbo-profiel.
+Voor verzelfstandiging van een nevenvestiging in het primair onderwijs geldt dat de bekostiging aanvangt op 1 augustus van het jaar na indiening van de aanvraag.
 
 ### 5.2.2. Expertanalyse
 
@@ -394,11 +394,11 @@ De inspectie ordent en analyseert informatie in de aanvraag voor de nieuwe schoo
 
 ### 5.3. Gesprek met initiatiefnemer
 
-Wanneer de initiatiefnemer niet ingaat op de uitnodiging voor het gesprek met de inspectie, leidt dit tot een negatief advies van de inspectie aan de minister. Het gesprek dient mede als basis voor de inspectie om advies te geven en is in die zin een wettelijke verplichting. Zonder de informatie uit het gesprek kan de inspectie de informatie uit de aanvraag niet verifiëren ([art. 75, elfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), [art. 4.5, negende lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5), [art. 75, elfde lid, WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), [art. 11.45, zevende lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45)).
+De inspectie nodigt de initiatiefnemer uit voor een gesprek over de aanvraag. Het gesprek heeft verschillende functies:
 
-### 5.4.1. Het conceptadvies
+### 5.4. Afronding
 
-Ook bevat het conceptadvies een korte weergave van het gesprek over de overige elementen van kwaliteit en eventuele overige gespreksonderwerpen. De initiatiefnemer krijgt twee weken de tijd om te reageren op het conceptadvies en, desgewenst, aanvullende informatie over de deugdelijkheidseisen schriftelijk aan te leveren.
+De inspectie stelt op basis van het gesprek een conceptadvies op. Dit gebeurt door per deugdelijkheidseis aan te geven wat de conclusie erover is (voldoet wel of niet aan de deugdelijkheidseis), een onderbouwing van deze conclusie en een toelichting op de wijze waarop de conclusie tot stand is gekomen.
 
 ### 5.4.2. Advies aan de minister
 
@@ -410,11 +410,11 @@ Op basis van het advies van de inspectie besluit de minister voor 1 juni van het
 
 ### 5.6. Doorlooptijden
 
-Voor verzelfstandiging van een nevenvestiging in het basisonderwijs geldt dat de bekostiging aanvangt op 1 augustus van het jaar na indiening van de aanvraag.
+De initiatiefnemer dient zijn aanvraag tot bekostiging uiterlijk 1 november van het jaar X–2 in. De inspectie adviseert uiterlijk 1 mei van het jaar X–1 aan de minister, zodat de minister voor 1 juni van het jaar X–1 een besluit kan nemen over het al dan niet voor bekostiging in aanmerking brengen van een nieuwe school.
 
 ### 5.7. Inrichten vervolgtoezicht
 
-Op basis van deze informatie maakt de inspectie uiterlijk drie maanden nadat de bekostiging is gestart een risicoanalyse en besluit de inspectie hoe ze het vervolgtoezicht op de nieuwe school inricht. De inspectie voert in elk geval in het eerste jaar na de start van de bekostiging van de school een kwaliteitsonderzoek uit, conform het betreffende reguliere onderzoekskader. Dit kwaliteitsonderzoek wordt uitgevoerd door inspecteurs die niet betrokken zijn geweest bij de adviesprocedure over de betreffende school. Op basis van de uitkomsten van dit kwaliteitsonderzoek bepaalt de inspectie bij nieuwe besturen wanneer zij een vierjaarlijks onderzoek bij bestuur en scholen uitvoert. Bij bestaande besturen kan het leiden tot een aanpassing van de planning van het vierjaarlijks onderzoek.
+**Risicoanalyse**
 
 ### 6. Deugdelijkheidseisen en overige elementen van kwaliteit voor Caribisch Nederland
 
@@ -422,7 +422,53 @@ In dit hoofdstuk zijn de deugdelijkheidseisen en overige elementen van kwaliteit
 
 ### 6.1. Uitwerking deugdelijkheidseisen voor Caribisch Nederland
 
+1 In geval van een nieuwe rechtspersoon geldt dat in de oprichtingsakte wordt vermeld wie de bestuurders en intern toezichthouders zijn. Bij oprichting van een nieuwe rechtspersoon is er daarom nog geen sprake van openbare profielen.
+
+### 6.2. Uitwerking overige elementen van kwaliteit voor Caribisch Nederland
+
+1 WPO BES, art. 72, lid 4, onderdeel g en WVO 2020, art.11.45a, lid 3, onderdeel g
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
 2 Idem
+
+### 3.3. Uitwerking overige elementen van kwaliteit
+
+1 Art. 74, lid 3, onderdeel i, WPO en art. 4.5a, lid 3, onderdeel i, WVO 2020
+
+### 4. Normering en totstandkoming advies
+
+In dit hoofdstuk is beschreven hoe de inspectie met behulp van het advieskader uit hoofdstuk 3 tot een advies komt over de te verwachten kwaliteit van het onderwijs bij nieuwe initiatieven.
+
+### 4.1. Normering deugdelijkheidseisen
+
+Op het moment dat het initiatief aan alle deugdelijkheidseisen voldoet, is het advies aan de inspectie aan de minister inzake het in aanmerking brengen voor bekostiging van een nieuwe school positief. Als aan één of meerdere van de deugdelijkheidseisen niet wordt voldaan, geeft de inspectie een negatief advies af. De minister besluit vervolgens of het initiatief voor bekostiging in aanmerking komt en betrekt daarbij het advies van de inspectie.
+
+### 4.2. Hoe komt de inspectie tot haar advies?
+
+Het advies komt in overleg tussen minimaal twee inspecteurs en eventueel na consultatie van juristen tot stand. Referenten beoordelen het conceptadvies voordat het naar de initiatiefnemer wordt verstuurd. Met deze werkwijze komt de inspectie tot een afgewogen advies.
+
+### 5. Werkwijze advisering
+
+Hiervoor is beschreven hoe het advies van de inspectie over de aanvraag tot stand komt en welke deugdelijkheidseisen daarbij betrokken worden. In dit hoofdstuk worden de hoofdlijnen van de werkwijze beschreven.
+
+### 5.1. Doel en onderzoeksvragen
+
+De adviesprocedure heeft tot doel een antwoord te formuleren op de volgende centrale vraag.
+
+### 5.2.1. Informatie naar DUO
+
+### 5.3. Gesprek met initiatiefnemer
+
+Wanneer de initiatiefnemer niet ingaat op de uitnodiging voor het gesprek met de inspectie, leidt dit tot een negatief advies van de inspectie aan de minister. Het gesprek dient mede als basis voor de inspectie om advies te geven en is in die zin een wettelijke verplichting. Zonder de informatie uit het gesprek kan de inspectie de informatie uit de aanvraag niet verifiëren ([art. 75, elfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), [art. 4.5, negende lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5), [art. 75, elfde lid, WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), [art. 11.45, zevende lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45)).
+
+### 5.4.1. Het conceptadvies
+
+### 5.6. Doorlooptijden
+
+### 5.7. Inrichten vervolgtoezicht
+
+### 6.1. Uitwerking deugdelijkheidseisen voor Caribisch Nederland
 
 ### 6.2. Uitwerking overige elementen van kwaliteit voor Caribisch Nederland
 
