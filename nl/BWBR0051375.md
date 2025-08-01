@@ -75,7 +75,3 @@ Het <college van burgemeester en wethouders van de gemeente [naam gemeente] / da
 <niet voor dagelijks bestuur waterschap> Daarnaast levert het <college van burgemeester en wethouders van de gemeente [naam gemeente] / bestuurscollege van het openbaar lichaam [naam openbaar lichaam]> een lijst van alle stembureaus in de <gemeente/openbaar lichaam>, zoals deze is gedeeld met de kiezers, via een uitwisselplatform aan bij de Kiesraad.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-Modellen als bedoeld in artikel 1 van Stcrt. 2026/6394 gepubliceerd op [https://zoek.officielebekendmakingen.nl/stcrt-2026-6394-b1](https://zoek.officielebekendmakingen.nl/stcrt-2026-6394-b1).
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
