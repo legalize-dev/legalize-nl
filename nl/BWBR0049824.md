@@ -4,7 +4,7 @@ identifier: "BWBR0049824"
 country: "nl"
 rank: "wet"
 publication_date: "2025-08-01"
-last_updated: "2025-01-01"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049824"
 soort: "wet"
@@ -47,8 +47,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Wet op de expertisecentra.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. Wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
 Wijzigt de Wet op het primair onderwijs.
@@ -57,8 +55,6 @@ Wijzigt de Wet op het primair onderwijs.
 
 Wijzigt de Wet primair onderwijs BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. Wijziging van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt de Wet voortgezet onderwijs 2020.
@@ -66,8 +62,6 @@ Wijzigt de Wet voortgezet onderwijs 2020.
 ##### Artikel V. Wijziging van de [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685)
 
 Wijzigt de Wet medezeggenschap op scholen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. Inwerkingtreding
 
