@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2025-05-27"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-05-27&g=2025-05-27) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-08-01&g=2025-08-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-05-27&g=2025-05-27).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-08-01&g=2025-08-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-05-27&g=2025-05-27)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-08-01&g=2025-08-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -458,10 +458,19 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor keuzedelen vanaf januari 2025** | **Certificaten voor keuzedelen vanaf januari 2025** |
 | K1470 | Installatie en onderhoud van elektrische voortstuwingssystemen van kleine vaartuigen |
 | K1453 | Grote meetinstallaties drinkwater |
+|   |   |
+| **Certificaten voor keuzedelen vanaf augustus 2025** | **Certificaten voor keuzedelen vanaf augustus 2025** |
+| K1504 | Jeugd- en opvoedhulp |
+| K1505 | Jongerenwerk |
+| K1494 | Sociale hygiëne |
+| K1212 | STCW Cargo handling and stowage management level |
+| K1244 | Visserij |
+| K1350 | Werkgeluk: succesvol samenwerken |
+| K1511 | Wijkgericht werken |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-05-27&g=2025-05-27)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-08-01&g=2025-08-01)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -666,6 +675,11 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0186 | Afleveringsklaar maken van nieuwe fietsen | 27038 | Fietstechnicus (Gewijzigd 2025) |
 | C0187 | Gebruikers ondersteunen bij een ICT-servicedesk | 27016 | ICT system engineer |
 | C0190 | Onderhoud van fietsen (Versie 2) | 27038 | Fietstechnicus (Gewijzigd 2025) |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2025** |
+| C0197 | Regelt en begeleidt het onderhoud van het industriële productieproces | 25802 | Operator C |
+| C0198 | Sturen en regelen vanuit de controlekamer | 25802 | Operator C |
+| C0199 | Werken in de groene wijk | 25621 | Medewerker hovenier |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
