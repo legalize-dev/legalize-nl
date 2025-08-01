@@ -4,7 +4,7 @@ identifier: "BWBR0011522"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-12-01"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011522"
 soort: "ministeriele-regeling"
@@ -141,10 +141,24 @@ Vervallen
 
 - d. naam van de onderwijsinstelling.
 
-##### Artikel 11. Inwerkingtreding
+##### Artikel 11. Hoogte lesgeld
+
+Het lesgeld, bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&artikel=3a), wordt voor het cursusjaar 2025–2026 na toepassing van artikel 3a, tweede lid, van het besluit vastgesteld op € 1.458.
+
+##### Artikel 12. Hoogte cursusgeldtarieven
+
+De cursusgeldtarieven, bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&artikel=15), worden voor het cursusjaar 2025–2026 na toepassing van artikel 15, tweede lid, van het besluit als volgt vastgesteld:
+
+- a. voor opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding, de entreeopleiding en de basisberoepsopleiding: € 303.
+
+- b. voor opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 735.
+
+- c. voor opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 2.4 tot en met 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), of onderdelen van dat diploma: € 0,97 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden.
+
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2000.
 
-##### Artikel 12. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Les- en cursusgeldwet.
