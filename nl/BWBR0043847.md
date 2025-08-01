@@ -4,7 +4,7 @@ identifier: "BWBR0043847"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2022-10-22"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043847"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaat groen middelbaar beroepsonderwijs beroepsgerichte onderdelen
 
-Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=1&z=2022-10-22&g=2022-10-22).
+Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=1&z=2025-08-01&g=2025-08-01).
 
 ##### Artikel 2. Certificaat groen middelbaar beroepsonderwijs keuzedelen
 
-Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan keuzedelen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=2&z=2022-10-22&g=2022-10-22).
+Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan keuzedelen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=2&z=2025-08-01&g=2025-08-01).
 
 ##### Artikel 3. Vervallen regeling
 
@@ -62,23 +62,23 @@ Deze regeling treedt in werking met ingang van 1 augustus 2020.
 
 Deze regeling wordt aangehaald als: ‘Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs’.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=1&z=2022-10-22&g=2022-10-22)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=1&z=2025-08-01&g=2025-08-01)
 
 Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2020:
 
 ### Toelichting bij bijlage 1
 
-Bij een aantal kwalificaties voor de sector Landbouw, Natuur en Voedselkwaliteit (hierna: sector LNV) zijn wettelijke beroepsvereisten aan beroepsgerichte onderdelen verbonden. In deze regeling is bepaald in welke gevallen een certificaat voor deze wettelijke beroepsvereisten kan worden behaald. In het kwalificatiedossier is per kwalificatie aangegeven in hoeverre het behalen van al deze onderdelen een verplichting is voor het behalen van het diploma voor deze kwalificatie, of dat sprake is van een verplichte keuze uit deze beroepsgerichte onderdelen. Zie hiervoor de betreffende kwalificatiedossiers (https://www.s-bb.nl/onderwijs/kwalificeren-en-examineren/kwalificatiedossiers).
+Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2025
 
 Bij een aantal kwalificaties voor de sector Landbouw, Natuur en Voedselkwaliteit (hierna: sector LNV) zijn wettelijke beroepsvereisten aan beroepsgerichte onderdelen verbonden. In deze regeling is bepaald in welke gevallen een certificaat voor deze wettelijke beroepsvereisten kan worden behaald. In het kwalificatiedossier is per kwalificatie aangegeven in hoeverre het behalen van al deze onderdelen een verplichting is voor het behalen van het diploma voor deze kwalificatie, of dat sprake is van een verplichte keuze uit deze beroepsgerichte onderdelen. Zie hiervoor de betreffende kwalificatiedossiers (https://www.s-bb.nl/onderwijs/kwalificeren-en-examineren/kwalificatiedossiers).
 
 ## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=2&z=2020-08-01&g=2020-08-01)
 
-Certificaten voor keuzedelen vanaf 1 augustus 2020:
+Sommige onderdelen waaraan een certificaat is verbonden, zijn in de loop van de jaren tekstueel aangepast. Deze aanpassingen noopten niet tot het vaststellen van een nieuwe naam en code voor het onderdeel waaraan een certificaat is verbonden. Deze certificaten hebben dus dezelfde naam en code behouden en zijn voor wat betreft de civiele waarde gelijkwaardig aan de eerdere certificaten met dezelfde naam en code.
 
 ### Toelichting bij bijlage 2
 
-Certificaten voor keuzedelen vanaf 1 augustus 2022
+Certificaten voor keuzedelen vanaf 1 augustus 2020:
 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
 
@@ -86,11 +86,23 @@ Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2022
 
 ### Toelichting bij bijlage 1
 
-Sommige onderdelen waaraan een certificaat is verbonden, zijn in de loop van de jaren tekstueel aangepast. Deze aanpassingen noopten niet tot het vaststellen van een nieuwe naam en code voor het onderdeel waaraan een certificaat is verbonden. Deze certificaten hebben dus dezelfde naam en code behouden en zijn voor wat betreft de civiele waarde gelijkwaardig aan de eerdere certificaten met dezelfde naam en code.
+Bij een aantal kwalificaties voor de sector Landbouw, Natuur en Voedselkwaliteit (hierna: sector LNV) zijn wettelijke beroepsvereisten aan beroepsgerichte onderdelen verbonden. In deze regeling is bepaald in welke gevallen een certificaat voor deze wettelijke beroepsvereisten kan worden behaald. In het kwalificatiedossier is per kwalificatie aangegeven in hoeverre het behalen van al deze onderdelen een verplichting is voor het behalen van het diploma voor deze kwalificatie, of dat sprake is van een verplichte keuze uit deze beroepsgerichte onderdelen. Zie hiervoor de betreffende kwalificatiedossiers (https://www.s-bb.nl/onderwijs/kwalificeren-en-examineren/kwalificatiedossiers).
 
 ## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=2&z=2022-10-22&g=2022-10-22)
 
 Certificaten voor keuzedelen vanaf 1 augustus 2020:
+
+### Toelichting bij bijlage 2
+
+Deze keuzedelen zijn eerder door de minister van EZ vastgesteld als keuzedeel waaraan een certificaat is verbonden bij regeling van 29 september 2016, Staatscourant 2016, 50631.
+
+Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
+
+### Toelichting bij bijlage 1
+
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=2&z=2025-08-01&g=2025-08-01)
+
+Certificaten voor keuzedelen vanaf 1 augustus 2022
 
 ### Toelichting bij bijlage 2
 
