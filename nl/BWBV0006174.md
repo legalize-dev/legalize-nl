@@ -4,7 +4,7 @@ identifier: "BWBV0006174"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-08-01"
-last_updated: "2013-05-21"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006174"
 soort: "verdrag"
@@ -78,7 +78,7 @@ In deze Overeenkomst wordt het kader vastgesteld voor militaire samenwerking tus
 
 ##### Artikel 2
 
-De uitvoeringsbepalingen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006174&artikel=1&z=2013-05-21&g=2013-05-21) van deze Overeenkomst genoemde samenwerkingsactiviteiten worden door middel van een passend juridisch instrument in onderlinge overeenstemming tussen beide partijen vastgesteld.
+De uitvoeringsbepalingen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006174&artikel=1&z=2025-08-01&g=2025-08-01) van deze Overeenkomst genoemde samenwerkingsactiviteiten worden door middel van een passend juridisch instrument in onderlinge overeenstemming tussen beide partijen vastgesteld.
 
 ##### Artikel 3
 
