@@ -1,0 +1,573 @@
+---
+title: "Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)"
+identifier: "BWBR0050938"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050938"
+soort: "zbo"
+stam_id: "17403563"
+version_id: "30685872"
+internal_id: "C43990061"
+label_id: "17306754"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050938/2025-08-01/0"
+intitule_bron: "Stcrt.2025-12741"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-10"
+intitule_published: "2025-04-14"
+intitule_in_force: "2025-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12741"
+original_signed_date: "2025-03-10"
+original_published_date: "2025-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-12741"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBR0050938&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0050938&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES"
+signed_date: "2025-03-10"
+entry_into_force: "2025-08-01"
+---
+# Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)
+
+Gelet op [artikel 3a, eerste lid, onderdeel g, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
+
+Gezien de goedkeuring van de Staatssecretaris voor Onderwijs, Cultuur en Wetenschap, gegeven op 28 maart 2025, nummer 51401875,
+
+Besluit:
+
+Treedt in werking op het tijdstip waarop artikel V, onderdeel G, van de Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
+
+##### Artikel 1. Beoordelingskader
+
+Het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen als bedoeld in [artikel 3a, eerste lid, onderdeel g, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050938&bijlage=1&z=2025-08-01&g=2025-08-01) van deze regeling.
+
+##### Artikel 2. Inwerkingtreding
+
+Deze regeling treedt in werking op het tijdstip waarop [artikel V, onderdeel G, van de Wet van 9 februari 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=V)tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
+
+##### Artikel 3. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES.
+
+## Bijlage 1. Beoordelingskader voor de toetsen behorende tot leerling- en onderwijs volgsystemen voor primair onderwijs op Bonaire, Sint Eustatius en Saba (BES)
+
+Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050938&artikel=1&z=2025-08-01&g=2025-08-01) van de Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES.
+
+### 1. Inleiding
+
+### 1.1. Begrippen en definities
+
+### 1.2. Reikwijdte
+
+Scholen zijn ingevolge respectievelijk [artikel 51a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51a) en [51b van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51b) verplicht om in ieder geval gebruik te maken van door het CvTE erkende toetsen verbonden aan het LVS. Voor scholen op Saba en Sint Eustatius geldt die verplichting voor de terreinen Rekenen, Engels en Nederlands. Voor de scholen op Bonaire geldt de verplichting voor Rekenen, Papiamentu en Nederlands. Dit beoordelingskader is daarnaast ook toepasbaar op LVS-instrumenten voor het derde tot en met het achtste leerjaar voor de niet wettelijk verplichte terreinen. Scholen mogen ook LVS-instrumenten voor het derde tot en met het achtste leerjaar inzetten die niet door het CvTE goedgekeurd zijn voor de wettelijk verplichte terreinen, mits zij daarnaast ook door het CvTE erkende LVS-instrumenten voor het derde tot en met het achtste leerjaar gebruiken. Verder staat het scholen vrij om LVS-instrumenten van verschillende toetsaanbieders te combineren. Toetsaanbieders kunnen ook onderdelen van een LVS door het CvTE laten beoordelen. Het onderhavige beoordelingskader biedt criteria voor de kwaliteit van de toetsen behorende tot het LVS. Aanbieders van een LVS voor (ook) de eerste twee leerjaren kunnen hun instrument eveneens door het CvTE laten beoordelen.
+
+In dit beoordelingskader wordt een onderscheid gemaakt in vier typen instrumenten die kunnen worden ingezet om de leerling te volgen:
+
+Het CvTE beoordeelt alleen leerlingvolgsystemen die worden gebruikt in het onderwijs. Daar vallen dus geen screeningsinstrumenten onder die worden afgenomen bij individuele leerlingen om diagnoses te kunnen stellen door een zorgaanbieder.
+
+### 1.3. Is er sprake van een leerlingvolgsysteem?
+
+Een LVS bestaat uit observatie- en registratie instrumenten die in vier typen worden onderscheiden.
+
+### 1.3.1. Observatie- en registratie-instrumenten – type (I) en (II)
+
+De aanvraag voor erkenning van observatie- en registratie-instrument type (I) en (II) bevat de volgende kenmerken en bescheiden:
+
+Alvorens het CvTE een aanvraag in behandeling neemt, moet de aanvrager de navolgende gegevens en bescheiden verstrekken:
+
+Let op: bovenstaande opsomming is niet uitputtend en een indicatie voor de aan te leveren documentatie. Met het invullen van de leeswijzer maakt een aanbieder helder in welke documentatie de kwaliteitscriteria precies worden verantwoord. Ook wanneer een aanbieder een kwaliteitscriterium niet van toepassing acht, moet in de verantwoordingsdocumenten duidelijk worden waarom een aanbieder dit kwaliteitscriterium niet van toepassing acht en moet de leeswijzer hiernaar verwijzen.
+
+Als de aanvraag niet compleet is, wordt de aanvrager in gelegenheid gesteld zijn aanvraag aan te vullen. Als de aanvrager niet alsnog de informatie verstrekt die noodzakelijk is voor het behandelen van diens aanvraag, kan het CvTE besluiten de aanvraag buiten behandeling te laten.
+
+### 1.3.1.1. Aanvullende voorwaarden voor observatie- en registratie-instrumenten groep 1-2 – type (I)
+
+Verder gelden als aanvullende voorwaarden voor observatie- en registratie-instrumenten voor leerlingen in de eerste twee leerjaren (type I):
+
+### 1.3.2. Kenmerken LVS-instrumenten – type (III) en (IV)
+
+De aanvraag voor erkenning van LVS-instrument type (III) of (IV) bevat de volgende gegevens en bescheiden:
+
+Aanvullend dient voor een LVS-instrument van het type (III) het aangeleverde informatiepakket eveneens te bestaan uit:
+
+Let op: bovenstaande opsomming is niet uitputtend en een indicatie voor de aan te leveren documentatie. Met het invullen van de leeswijzer maakt een aanbieder helder in welke documentatie de kwaliteitscriteria precies worden verantwoord. Ook wanneer een aanbieder een kwaliteitscriterium niet van toepassing acht, moet in de verantwoordingsdocumenten duidelijk worden waarom een aanbieder dit kwaliteitscriterium niet van toepassing acht en moet de leeswijzer hiernaar verwijzen.
+
+Als de aanvraag niet compleet is, wordt de aanvrager in gelegenheid gesteld zijn aanvraag aan te vullen. Als de aanvrager niet alsnog de informatie verstrekt die noodzakelijk is voor het behandelen van diens aanvraag, kan het CvTE besluiten de aanvraag buiten behandeling te laten.
+
+### 1.4. Algemene criteria
+
+Op basis van [artikel 11, eerste lid, onderdeel b, Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=11) geeft het CvTE een oordeel over de volgende algemene criteria van observatie- en registratie-instrumenten en toetsinstrumenten: inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering. In paragraaf 1.4.1 en 1.4.2 worden deze algemene criteria voor observatie- en registratie-instrumenten en LVS-instrumenten toegelicht.
+
+### 1.4.1. Oordeel observatie- en registratie-instrumenten – type (I) en (II)
+
+Conform het [Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216) worden bij het kwaliteitsoordeel over observatie- en registratie-instrumenten (type I en II) in ieder geval betrokken:
+
+In paragraaf 1.5 wordt uiteengezet hoe deze criteria worden geoperationaliseerd.
+
+### 1.4.2. Oordeel LVS-instrumenten – type (III) en (IV)
+
+Bij het kwaliteitsoordeel over LVS-instrumenten (type III en IV) worden in ieder geval betrokken:
+
+In de paragraaf 1.5 wordt uiteengezet hoe deze criteria worden geoperationaliseerd.
+
+### 1.5. Operationalisering in onderwijskundige, psychometrische en organisatorische aspecten
+
+De voorgaande algemene criteria uit paragraaf 1.4 zijn in dit beoordelingskader in de onderstaande tabellen per type instrument gespecificeerd naar de voor dat type instrument geldende kwaliteitseisen voor onderwijskundige aspecten (kwaliteitseisen O.I.1 t/m O.VI.5 in hoofdstuk 2), psychometrische aspecten (kwaliteitseisen P.I.1 t/m P.VIII.3 in hoofdstuk 3) en organisatorische aspecten (kwaliteitseisen B.I.1 t/m B.I.7 in hoofdstuk 4).
+
+De onderwijskundige aspecten richten zich op de inhoudsvaliditeit en de eerdergenoemde punten b) en c) in de paragrafen 1.4.1 en 1.4.2. De psychometrische aspecten richten zich op de in paragraaf 3.1 genoemde betrouwbaarheid en deugdelijke normering en het eerdergenoemde punt a) in de paragrafen 1.4.1 en 1.4.2. De organisatorische aspecten richten zich op de criteria voor veilig toetsen.
+
+Per kwaliteitseis is per type instrument met zwarte balletjes aangegeven wanneer de eis altijd beantwoord en beoordeeld moet worden. Doorzichtige balletjes betekenen dat de kwaliteitseis ook niet van toepassing kan zijn. Wanneer dat geldt, wordt beschreven bij de kwaliteitseisen in de betreffende paragrafen. Voor wat betreft de psychometrische kwaliteitseisen voor instrument type II heeft de aanbieder de keuzemogelijkheid om de psychometrische kwaliteitseisen voor instrument type I te volgen, de psychometrische kwaliteitseisen voor instrument type III en IV te volgen, of om een combinatie van de psychometrische kwaliteitseisen voor instrument type I en voor instrument type III en IV te volgen. Welke combinaties mogelijk zijn, wordt eveneens in onderstaande tabellen aangegeven.
+
+### 1.6. Wijze van beoordelen
+
+De aanbieder kan het observatie- en registratie-instrument voor het volgen van de leerling indienen bij het CvTE. Een adviseur heeft de taak om het CvTE te adviseren over de onderwijskundige, psychometrische en organisatorische aspecten van de LVS-instrumenten en de observatie- en registratie-instrumenten. De procedure voor het beoordelen van de instrumenten en het bijbehorende tijdpad zijn gepubliceerd op de website van het CvTE.
+
+### 1.6.1. Beslisregel om te komen tot een kwaliteitsoordeel
+
+De onderwijskundige aspecten, psychometrische aspecten en organisatorische aspecten uit paragraaf 1.5 zijn alle drie geconcretiseerd in kwaliteitseisen in vraagvorm inclusief bijbehorende codes. De vragen van de separate kwaliteitseisen zijn te beantwoorden met ‘ja’, ‘nee’ of soms met ‘niet van toepassing’. De beslisregel is als volgt: Om een aspect met een voldoende te kunnen afsluiten, dienen alle vragen van de kwaliteitseisen van het betreffende aspect met ‘ja’ of ‘niet van toepassing’ te worden beantwoord.
+
+Op basis van de beslisregels worden de drie aspecten uit paragraaf 1.5 separaat gescoord met:
+
+Bij ‘onvoldoende’ geeft het CvTE aan welke kwaliteitseisen per aspect nog niet voldoende zijn.
+
+Ingevolge [artikel 3a, derde lid, Wet CvTE](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) besluit het College binnen 15 weken.
+
+### 1.7. Initiële beoordeling en tussentijdse check
+
+### 1.7.1. Initiële beoordeling
+
+De initiële beoordeling door het CvTE is een uitgebreide beoordeling van de onderwijskundige, psychometrische en organisatorische aspecten van het instrument. De erkenning van de toetsen is vanaf de datum van afgifte tien jaar geldig.
+
+### 1.7.2. Tussentijdse check
+
+De erkenning door het CvTE van een LVS-instrument is tien jaar geldig. In tien jaar kunnen er echter veel ontwikkelingen plaatsvinden die de kwaliteit van een LVS-instrument beïnvloeden. Daarom vinden er één of meerdere tussentijdse checks plaats. De aanbieder is gehouden de informatie aan het CvTE te verstrekken die het nodig heeft om een tussentijdse check uit te voeren.
+
+Een tussentijdse check kan resulteren in het oordeel 'voldoende of 'onvoldoende’. Bij een oordeel 'onvoldoende' volgt intrekking van de erkenning.
+
+De volgende drie scenario’s omschrijven de noodzakelijkheid voor een tussentijdse check:
+
+Voor een instrument dat in tien jaar niet is gewijzigd, vindt vijf jaar na het afgeven van een kwaliteitsoordeel een tussentijdse check plaats. De aanbieder wordt hierbij gevraagd om aan te tonen dat het instrument nog steeds aan alle kwaliteitseisen uit het kader voldoet. Dit houdt in dat het instrument aansluit bij de actuele eisen en standaarden, en dat de items, observatiecategorieën en normering nog steeds actueel en passend zijn.
+
+De volgende drie vragen dienen als leidraad voor de verantwoording van de beoordelingscriteria tijdens de tussentijdse check:
+
+Indien nodig wordt voor een tussentijdse check zonder wijzigingen in de toelichtingen van bepaalde eisen aanvullende informatie gegeven.
+
+Als de inhoud van de toets periodiek wezenlijk verandert en dit in de verantwoording beschreven staat, maakt het CvTE bij de initiële beoordeling met de aanbieder afspraken over de frequentie en omvang van tussentijdse checks. Dit zou bijvoorbeeld bij jaarlijkse verversing van items in een itembank het geval kunnen zijn.
+
+Als er incidenteel fundamentele wijzigingen worden voorzien, zoals het vervangen van enkele items, het wijzigen van de afnamevorm (digitaal in plaats van papier) of het wijzigen van de normering (bijvoorbeeld het type normering of een wijziging van de schaal) meldt de aanbieder dit bij het CvTE. Over de relevantie en impact van de veranderingen en de noodzaak van een tussentijdse check, vindt overleg plaats tussen het CvTE en de aanbieder. Afhankelijk van de wijzigingen vindt er al dan niet een extra tussentijdse check plaats of dient de aanbieder de instrumenten (deels) opnieuw in.
+
+### 2. Onderwijskundige aspecten
+
+### 2.1. Inleiding
+
+De beoordeling van de onderwijskundige aspecten van een LVS-instrument richt zich op de in paragraaf 1.4 genoemde inhoudsvaliditeit.
+
+De kwaliteitseisen onderwijskundige aspecten voor observatie- en registratie-instrumenten type (I) en (II) zijn te vinden in de paragrafen 2.2.1 en 2.2.2. De kwaliteitseisen onderwijskundige aspecten voor LVS-instrumenten type (III) en (IV) zijn te vinden in de paragrafen 2.3.1 tot en met 2.3.4.
+
+### 2.2. Kwaliteitseisen onderwijskundige aspecten observatie- en registratie-instrumenten – type (I) en (II)
+
+### 2.2.1. Uitgangspunten van de constructie
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de uitgangspunten van de constructie van het observatie- en registratie-instrument, met specifieke aandacht voor de kwaliteitseis **inhoudsvaliditeit**.
+
+**Toelichting bij O.I.1:**
+
+De aanbieder beschrijft ten minste op passende, gedegen en complete wijze zijn visie op de ontwikkeling van het kind en geeft hiervoor een deugdelijke onderbouwing, indien nodig inclusief leeswijzer, bijvoorbeeld door middel van referenties naar de actuele pedagogische en/of psychologische wetenschappelijke literatuur.
+
+**Toelichting bij O.I.2:**
+
+Met de actuele inhoudelijke verantwoording is er sprake van een (kwalitatieve) verantwoording van de representativiteit van de ontwikkelingsdoelen voor de onderbouwde theorie (in voorkomend geval inhoud) van het instrument. Daarmee wordt voldaan aan de eis voor inhoudsvaliditeit, zijnde de eigenschap dat de operationalisering van de inhoud van het instrument een representatieve weergave is van de te observeren en te volgen ontwikkeling van het kind.
+
+**Toelichting bij O.I.3:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren (in voorkomend geval observatie-categorieën) van observeerbare (gedrags)kenmerken, wordt er een actuele gedegen en gedetailleerde onderbouwing van het ontwikkelingsverloop van de ontwikkelingsdoelen en eventuele tussentijdse mijlpalen gegeven.
+
+**Als voorbeeld:** er is een actuele gedegen en gedetailleerde beschrijving van het ontwikkelingsverloop van Papiamentu, met een verbijzondering in het domein Mondelinge taalvaardigheid. De inhoud van dit domein wordt gedegen en in detail beschreven in bijvoorbeeld de mijlpalen Gesprekken voeren. De mijlpalen worden daarbij geoperationaliseerd in indicatoren van observeerbare (gedrags)kenmerken (bijvoorbeeld: de leerling begrijpt dat lezen van links naar rechts gaat) op basis waarvan de leerkracht zijn of haar observaties over een zelf gekozen dan wel over een door het instrument voorgeschreven periode kan registreren in het instrument. Ter inspiratie kan bijvoorbeeld gekeken worden naar de inhoudskaarten met aanbodsdoelen voor het jonge kind van Expertisecentrum SLO.
+
+**Toelichting bij O.I.4:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags)kenmerken, voldoet de formulering van deze indicatoren aan de kwaliteitscriteria voor observatie-categorieën: relevantie, objectiviteit, efficiëntie, specificiteit en neutraliteit, een en ander zoals gespecificeerd in de Checklist voor het beoordelen van de kwaliteit van observatie-categorieën en toetsopgaven.
+
+**Toelichting bij O.I.5:**
+
+De definitie van de doelgroep van het instrument betreft het noemen van de leerjaren waarin het instrument ingezet kan worden. Indien van toepassing dient de aanbieder in aanvulling hierop aan te geven in welke bijzondere situaties(s) en/of bij welke individuele ondersteuningsbehoeften van een leerling het instrument niet geschikt is.
+
+**Toelichting O.I.6:**
+
+Er is in de verantwoording aangegeven dat het gebruiksdoel het observeren, registreren en, indien van toepassing, signaleren van de individuele ontwikkeling van het (jonge) kind betreft, zoals gedefinieerd in de doelgroep en een en ander conform de in hoofdstuk 1 genoemde bepalingen.
+
+### 2.2.2. Inzicht in de individuele ontwikkeling
+
+Deze paragraaf beschrijft de kwaliteitseisen betreffende het inzicht in de individuele ontwikkeling, met specifieke aandacht voor de kwaliteitseisen **signaleringsfunctie** en/of **volgaspect.**
+
+**Toelichting O.II.1:**
+
+Er is bij een volgaspect altijd sprake van een aantal (twee of meer) verschillende observatiemomenten op hetzelfde construct; de afnamemomenten kunnen daarbij vast of variabel zijn.
+
+**Toelichting O.II.2:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, bevat het rapport per leerling per registratiemoment de wel (en nog niet of niet langer) bij hem of haar door de leerkracht geobserveerde indicatoren van de verbijzonderde ontwikkelingsdoelen. Het betreft hier een neutrale registratie van de observatie, zonder waardeoordeel. Zo geeft het rapport een overzichtelijk beeld van de individuele ontwikkeling in de tijd zowel op de verschillende ontwikkelingsdoelen afzonderlijk als in samenhang met elkaar voor wat betreft de ontwikkelingsdoelen per construct, waarbij geen sprake is van een relatieve normering van de individuele leerling. Het rapport maakt het op deze manier voor de leerkracht mogelijk om observaties van een leerling op verschillende momenten en in verschillende situaties met elkaar te kunnen vergelijken. Daarmee heeft het instrument tevens een signaleringsfunctie in de zin dat het instrument de eigen ontwikkeling van de individuele leerling weergeeft.
+
+**Toelichting O.II.3:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags)kenmerken, bevat het individuele rapport een toelichting over hoe de geregistreerde indicatoren geïnterpreteerd dienen te worden, waarmee het instrument begrijpelijke handvatten geeft voor de interpretatie van het verloop van de ontwikkeling (groei en/of stagnatie) van de individuele leerling door de leerkrachten.
+
+**Toelichting O.II.4:**
+
+Een aanbieder hoeft de resultaten niet per se via een leerlingrapportage beschikbaar en helder te maken voor ouders. Een aanbieder moet een leerlingrapportage zo insteken dat leerkrachten ouders goed en volledig kunnen informeren, een zogenoemde informatieplicht. Informatie gericht op ouders kan ook op een andere wijze beschikbaar gesteld worden (bijvoorbeeld via een ouderbrochure of een website).
+
+**Toelichting O.II.5:**
+
+De informatie in het individuele rapport dient dusdanig concreet en gedetailleerd te zijn, dat het duidelijk is welk verloop in de ontwikkeling van de (jonge) leerling aandacht verdient. Het ondersteunt de leerkracht in het zelfstandig en professioneel formuleren van passende vervolgstappen in lijn met de door de aanbieder van het instrument geoperationaliseerde en bij de visie passende ontwikkelingsdoelen en eventuele tussentijdse mijlpalen.
+
+### 2.3. Kwaliteitseisen onderwijskundige aspecten LVS-instrumenten – type (III) en (IV)
+
+### 2.3.1. Uitgangspunten van de toetsconstructie
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de uitgangspunten van de toetsconstructie.
+
+**Toelichting O.III.1:**
+
+In de handleiding van het instrument is op gedegen en complete wijze aangegeven voor welk afnamevorm(en), papier of digitaal, het instrument geschikt is.
+
+**Toelichting O.III.2:**
+
+De definitie van de doelgroep(en) van het instrument betreft het noemen van de leerjaren waarin het instrument kan worden ingezet. Daarnaast is er ook relevante informatie gegeven over het vereiste niveau van de leerlingen en is er vermeld in welke situatie(s) en/of bij welke individuele ondersteuningsbehoeften het instrument niet geschikt is. In plaats van genoemde toelichting mag de toetsaanbieder er ook voor kiezen om expliciet te benoemen voor welke doelgroep(en) het instrument **niet** geschikt is.
+
+**Toelichting O.III.3:**
+
+De definitie van het meetdoel betreft het benoemen van wat de leerling op het moment van inzetten van het instrument dient te beheersen. De aanbieder onderbouwt het meetdoel op gedegen wijze en verwijst naar actuele en relevante brondocumenten ter onderbouwing van het meetdoel.
+
+**Toelichting O.III.4:**
+
+Er is, indien van toepassing op het type instrument, aangegeven hoe de inhoud van het instrument aansluit bij het theoretische kader. En er is aangegeven op welke (analyse)methoden de indeling van de vaardigheden is gebaseerd.
+
+**Toelichting O.III.5:**
+
+De definitie van het gebruiksdoel bestaat uit een gedegen en complete beschrijving van de combinatie van niveaubepaling en inzicht in de leervorderingen.
+
+### 2.3.2. Inhoudsvaliditeit
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de inhoudsvaliditeit/ representativiteit van het LVS-instrument.
+
+**Toelichting O.IV.1:**
+
+De toetsmatrijs is een adequate, schematische representatie van het meetdoel. Dit blijkt uit het gegeven dat:
+
+**Toelichting O.IV.2:**
+
+De vijf kwaliteitscriteria relevantie, objectiviteit, efficiëntie, specificiteit en neutraliteit staan beschreven in de Checklist, deze wordt gebruikt voor het beoordelen van de kwaliteit van observatie-categorieën en toetsopgaven. Alle toetsopgaven dienen hieraan te voldoen.
+
+**Toelichting bij O.IV.3:**
+
+De constructievoorschriften voor toetsvragen staan beschreven in de Checklist voor het beoordelen van de kwaliteit van observatie-categorieën en toetsopgaven. Alle toetsopgaven dienen hieraan te voldoen. Aanvullend beschrijft de aanbieder het constructieproces van de toetsopgaven.
+
+### 2.3.3. Niveaus
+
+Deze paragraaf is alleen van toepassing op type (III) instrumenten en beschrijft ten behoeve daarvan de kwaliteitseisen voor de referentie- en ERK-niveaus.
+
+LVS-instrumenten van het type (III) maken onderdeel uit van de doorlopende, methodevrije leerlijn (bij Bonaire gericht op de doorstroomtoets in groep 8). Het is daarom belangrijk dat ook de LVS-instrumenten van het type (III) vanaf groep 6 een uitspraak doen over de referentie- en ERK-niveaus (indien van toepassing aansluitend bij de doorstroomtoets). Ongeacht de toetsvorm, moet het instrument het mogelijk maken om voor elke leerling vanaf groep 6 in ieder geval uitspraken te doen over de beheersing van het 1F en/of 1S niveau (Rekenen), 1F en/of 2F niveau (Papiamentu) als ook het A1, A2 en/of B1 niveau (Engels en Nederlands). Er is dan inzicht in de vorderingen van de leerling richting het eindniveau.
+
+**Toelichting O.V.1a:**
+
+Dit aspect moet uit de toetsmatrijs naar voren komen. Evenwichtig wil zeggen dat de verdeling van de vragen over de domeinen, subdomeinen, onderdelen en kenmerken van de taakuitvoering in balans is.
+
+**Toelichting O.V.1b:**
+
+Dit aspect moet uit de toetsmatrijs naar voren komen. Dat wil zeggen dat de verdeling vragen over de (referentie en/of ERK-)niveaus in de toetsmatrijs is gespecificeerd en dat de verhouding van de vragen erin wordt benoemd. Evenwichtig wil zeggen dat het aantal en de verhouding vragen over de (referentie en/of ERK-)niveaus gezamenlijk inhoudelijk dat niveau representeren.
+
+**Toelichting O.V.2a:**
+
+Indien er sprake is van een CAT, dient voor elke individuele leerling voor de ingediende terreinen in de periode groep 6-8 een uitspraak over het behaalde niveau 1F en/of 2F/1S, ofwel A1, A2 en/of B1 te worden gedaan.
+
+**Toelichting O.V.2b**
+
+Indien er sprake is van een MST, dient elke routing binnen het MST design voor elke individuele leerling voor de ingediende terreinen in de periode groep 6-8 een uitspraak over het behaalde niveau 1F of 2F/1S ofwel A1, A2 en/of B1 te doen.
+
+### 2.3.4. Inzicht in de leervorderingen
+
+Deze paragraaf beschrijft de kwaliteitseisen betreffende het inzicht in de leervorderingen.
+
+**Toelichting O.VI.1:**
+
+Deze kwaliteitseis behoeft geen nadere toelichting.
+
+**Toelichting O.VI.2:**
+
+In het leerlingrapport van een LVS-instrument van het type (III) vanaf groep 6 hoeft het referentie of ERK-niveau niet verplicht te worden vermeld. Wel kan de toetsaanbieder ervoor kiezen om een vaardigheidsschaal te construeren aan de hand van de LVS-instrumenten, op basis waarvan er een uitspraak kan worden afgeleid over de weg richting de referentie- en ERK-niveaus.
+
+**Toelichting O.VI.3:**
+
+Er dient een geschreven toelichting te worden geboden, die de leerkracht duidelijke en begrijpelijke handvatten biedt voor de interpretatie van de leervorderingen van de leerling. Deze toelichting moet de leerkracht in staat stellen de voortgang van de leerling goed te begrijpen en toe te passen in de begeleiding.
+
+**Toelichting O.VI.4:**
+
+Er dient een geschreven toelichting te worden geboden waarin begrijpelijke handvatten worden gegeven voor de interpretatie van de leervorderingen van de leerling ten behoeve van ouders, verzorgers en voogden. De aanbieder is vrij om te kiezen hoe deze informatie beschikbaar wordt gesteld; dit kan bijvoorbeeld via een leerlingrapportage, een ouderbrochure, een website of andere geschikte communicatiemiddelen. Het is belangrijk dat de gekozen manier leerkrachten in staat stelt om ouders goed en volledig te informeren, in lijn met de informatieplicht.
+
+**Toelichting O.VI.5:**
+
+De informatie moet dusdanig concreet en gedetailleerd zijn dat het duidelijk is welke lacunes in de ontwikkeling van de leerling in het onderwijs aandacht verdienen.
+
+### 3. Psychometrische aspecten
+
+### 3.1. Inleiding
+
+De beoordeling van de psychometrische aspecten van een LVS-instrument richt zich op de in paragraaf 1.4 genoemde betrouwbaarheid en deugdelijke normering, de (construct)validiteit en op het in paragraaf 1.4.1 en 1.4.2 genoemde punt a) betreffende de wijze waarop de vorderingen van leerlingen op cognitief of niet-cognitief gebied systematisch worden gemeten.
+
+De (optionele) kwaliteitseisen psychometrische aspecten voor observatie- en registratie-instrumenten type (I) zijn te vinden in de paragrafen 3.2.1 en 3.2.2. De kwaliteitseisen psychometrische aspecten voor LVS-instrumenten type (III) en (IV) zijn te vinden in de paragrafen 3.3.1 tot en met 3.3.5.
+
+Voor een observatie- en registratie-instrument van het type (II) heeft de aanbieder de keuzemogelijkheid om de psychometrische kwaliteitseisen voor instrument type I te volgen, de psychometrische kwaliteitseisen voor instrument type III en IV te volgen, of om een combinatie van de psychometrische kwaliteitseisen voor instrument type I en voor instrument type III en IV te volgen. Welke combinaties mogelijk zijn, is in de tabellen in paragraaf 1.5 aangegeven.
+
+### 3.2. Kwaliteitseisen psychometrische aspecten observatie- en registratie-instrumenten – type (I) en (II)
+
+De beoordeling van de psychometrische aspecten van een observatie- en registratie-instrument type (I) richt zich op de dataverzameling (paragraaf 3.2.1), de onderbouwing van de kwaliteit van de resultaten / uitspraken van het instrument (paragraaf 3.2.2) en op de interbeoordelaarsbetrouwbaarheid (paragraaf 3.2.3).
+
+### 3.2.1. Dataverzameling
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de dataverzameling, met specifieke aandacht voor de kwaliteitseis **steekproef van leerlingen**.
+
+Deze paragraaf 3.2.1 en de hierin opgenomen kwaliteitseis P.I.1 is van toepassing op een observatie- en registratie-instrument type (I), indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, zoals verantwoord in de kwaliteitseisen O.I.3 en O.I.4 in paragraaf 2.2.1.
+
+Toelichting P.I.1:
+
+Indien van toepassing dient de aanbieder te verantwoorden dat de steekproef groot genoeg is, adequaat is gestratificeerd of gewogen naar betekenisvolle achtergrondvariabelen, representatief is voor de indicatoren van observeerbare (gedrags-)kenmerken, en is verzameld onder omstandigheden die redelijk vergelijkbaar zijn met de omstandigheden waarin de gegevens in een operationele setting zouden worden verzameld. Indien van toepassing, wordt de aanbieder gevraagd om effectgroottes aan te leveren ten behoeve van de gemaakte vergelijking.
+
+### 3.2.2. IJking van het instrument1In het geval van een instrument van het type (I) of (II) wordt gesproken over ijken. In het geval van een instrument van het type (III) of (IV) wordt in dit beoordelingskader de term normeren gehanteerd.
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de ijking van het instrument, met specifieke aandacht voor de kwaliteitseis **niet relatieve normering**.
+
+Deze paragraaf 3.2.2 en de hierin opgenomen kwaliteitseisen P.II.1 tot en met P.II.3 zijn van toepassing op een observatie- en registratie-instrument type (I), indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, zoals verantwoord in de kwaliteitseisen O.I.3 en O.I.4 in paragraaf 2.2.1.
+
+Het volgen van de ontwikkeling van de leerling met betrekking tot de verschillende ontwikkelingsdoelen en eventuele tussentijdse mijlpalen heeft nadrukkelijk niet als doel om waardeoordeel over het niveau van de leerling in relatie tot het niveau van andere leerlingen uit te spreken. Het doel is om de leerkracht van informatie te voorzien waarmee hij of zij zelfstandig en op basis van de eigen professionaliteit de specifieke ontwikkelbehoefte van individuele leerlingen kan signaleren en desgewenst een voor die specifieke leerling passende interventie kan doen.
+
+Om de gebruiker te kunnen ondersteunen in het bepalen van de mate waarin een individuele leerling zich op zeker moment een specifiek ontwikkelingsdoel eigen heeft gemaakt, dienen de indicatoren van observeerbare (gedrags-)kenmerken van de ontwikkelingsdoelen en eventuele tussentijdse mijlpalen in het instrument te worden voorzien van ijkpunten (in voorkomend geval referentiepunten). Dit noemt men ook wel het normeren van het instrument.
+
+De leerkracht kan met behulp van het instrument op basis van observaties vaststellen en volgen hoe individuele leerlingen gedurende de kleuterjaren zich ontwikkelen in het aantal en soort bij hem of haar geobserveerde indicatoren van (gedrags-)kenmerken. De ijkpunten van de indicatoren geven daarbij een objectiever beeld van de individuele ontwikkeling, zonder dat de leerkracht een waardeoordeel over het niveau van de leerling in relatie tot het niveau van andere leerlingen hoeft uit te spreken.
+
+De ijkpunten worden bij de initiële ontwikkeling van het instrument door experts bepaald en vervolgens periodiek geëvalueerd. Het ijken vindt plaats op grond van de inhoud van het instrument, zoals verantwoord bij de kwaliteitseisen O.I.1 tot en met O.I.4 uit paragraaf 2.2.1 en derhalve niet op grond van de relatieve positie van het ene kind ten opzichte van andere kinderen. Er zijn verschillende methodes om een instrument te ijken, bijvoorbeeld de in de literatuur beschreven standaardbepalingsmethoden. Deze methoden hebben gemeenschappelijk dat externe experts worden geraadpleegd en dat deze experts op inhoudelijke en/of op kwantitatieve gronden tot voldoende overeenstemming moeten komen over de te bepalen ijkpunten van de indicatoren van observeerbare (gedrags-)kenmerken van de ontwikkelingsdoelen en eventuele tussentijdse mijlpalen in het instrument.
+
+**Toelichting P.II.1:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, blijkt uit de verstrekte informatie dat er gebruik is gemaakt van een beproefde ijkingsmethode.
+
+In dat geval blijkt uit de verstrekte informatie ook waarom de gebruikte methode past bij het doel.
+
+**Toelichting P.II.2:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, onderbouwt de aanbieder de selectieprocedure op gedegen wijze, heeft er een selectie van voldoende experts voor de gekozen methode met aantoonbaar inhoudelijke vakdeskundigheid plaatsgevonden en zijn deze experts getraind in de betreffende ijkingsmethode. De aanbieder beargumenteert waarom het aantal experts voor de gekozen methode als voldoende wordt beschouwd.
+
+**Toelichting P.II.3:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, toont de aanbieder aan dat de mate van overeenstemming tussen de experts resulteert in een coëfficiënt voor overeenstemming waarbij de proportie overeenstemming representatief is voor een instrument voor minder belangrijke beslissingen (een zogenaamd medium stakes instrument) op individueel niveau. De toetsaanbieder dient de gehanteerde methode en gekozen grenswaarden te verklaren en deze te onderbouwen aan de hand van relevante literatuur.
+
+### 3.2.3. Interbeoordelaarsbetrouwbaarheid
+
+Deze paragraaf beschrijft de kwaliteitseisen voor de interbeoordelaarsbetrouwbaarheid.
+
+Deze paragraaf 3.2.3 en de hierin opgenomen kwaliteitseisen P.III.1 en P.III.2 zijn van toepassing op een observatie- en registratie-instrument type (I), indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags)kenmerken, zoals verantwoord in de kwaliteitseisen O.I.3 en O.I.4 in paragraaf 2.2.1.
+
+Bij observatie- en registratie-instrumenten van het type (I) die van in het instrument getrainde observatoren / leerkrachten (holistische) oordelen van de gedragingen van jonge kinderen in de dagelijkse praktijk verlangen, dient te worden aangetoond dat de betreffende observatoren / leerkrachten deze gedragingen eenduidig kunnen interpreteren en correct in het instrument kunnen registreren. De mate waarin op deze manier betrouwbaar met het instrument wordt gewerkt, dient de aanbieder aan te tonen, zowel na de initiële ontwikkeling van het instrument als periodiek tijdens de tussentijdse check (zie paragraaf 1.7.2) van het instrument.
+
+**Toelichting P.III.1:**
+
+De aanbieder van het observatie- en registratie-instrument dient bewijslast in te leveren, waaruit blijkt dat de in het instrument getrainde observatoren / leerkrachten betrouwbaar werken met het instrument.
+
+De bewijslast bevat een methode die strookt met de interpretatie van de observatie / resultaten. De toetsaanbieder dient de gehanteerde methode en gekozen grenswaarden te verklaren en deze te onderbouwen aan de hand van relevante literatuur.
+
+**Toelichting P.III.2:**
+
+Indien de ontwikkelingsdoelen in het instrument zijn verbijzonderd in inhoudelijk bijpassende indicatoren van observeerbare (gedrags-)kenmerken, verduidelijkt de aanbieder dat de observatoren / leerkrachten die zijn ingezet om de interbeoordelaarsovereenstemming te schatten, op dezelfde wijze zijn geïnstrueerd en/of getraind als beoordelaars in de praktijk (bijvoorbeeld door middel van de handleiding voor leerkrachten).
+
+### 3.3. Kwaliteitseisen psychometrische aspecten LVS-instrumenten – type (III) en (IV)
+
+De verantwoording en de beoordeling van de kwaliteit van de psychometrische aspecten van een LVS-instrument type (III) of type (IV) bestaat uit de volgende vijf fasen.
+
+De toetsaanbieder verantwoordt de psychometrische analyses in de wetenschappelijke handleiding.
+
+### 3.3.1. Kwaliteit van de dataverzameling
+
+Deze paragraaf beschrijft de kwaliteitseisen voor Fase 1 van de psychometrische verantwoording van een LVS-instrument van het type (III) en (IV), zijnde de kwaliteit van de dataverzameling in een pretestprocedure.
+
+De kwaliteit van de normering van een LVS-instrument type (III) en (IV) en van de betrouwbaarheid van de beslissingen die op basis van de genormeerde scores worden genomen, hangt grotendeels af van de kwaliteit van de dataverzameling. Hierop zijn de normering en de betrouwbaarheidsgegevens gebaseerd. Daarom wordt de kwaliteit van de dataverzameling eerst behandeld.
+
+De kwaliteit van de dataverzameling wordt beoordeeld volgens onderstaande kwaliteitseisen.
+
+De dataverzameling kan plaatsvinden door nieuwe items aan te bieden aan scholen via een vrijwillige proeftoets, of door nieuwe items direct toe te voegen aan (de itembank van) het bestaande LVS-instrument. Wanneer, in dit tweede scenario, blijkt dat de nieuw geconstrueerde items naar behoren functioneren, kan de toetsaanbieder ervoor kiezen om deze direct mee te laten tellen. Voor een leerling mag het niet herkenbaar zijn of een vraag wel of niet meetelt.
+
+Voor beide scenario’s geldt dat de toetsaanbieder er voor kan kiezen om (een deel van) de nieuwe items die worden gepretest eerst door het CvTE te laten beoordelen op de kwaliteitseisen voor inhoudsvaliditeit O.IV.2 en O.IV.3 uit paragraaf 2.3.2.
+
+Voor een tussentijdse check dient de aanbieder te onderzoeken of er vaardigheidsverschillen zijn tussen de huidige steekproef van het instrument en de steekproef waarop het instrument oorspronkelijk is gebaseerd. Daarnaast moet de aanbieder aantonen dat er geen sprake is van differential item functioning (DIF) tussen de initiële afname en de huidige afname van het instrument. Als er geen vaardigheidsverschillen zijn en geen DIF is tussen de afnames, kan worden aangenomen dat de psychometrische kwaliteit van het instrument in de tussentijd niet is veranderd en dat het instrument aan de gestelde eisen voldoet. Indien er wel vaardigheidsverschillen worden gevonden en/of DIF is tussen de afnames, moet de aanbieder op basis van de onderstaande psychometrische eisen aantonen dat het instrument alsnog voldoet aan de gestelde eisen.
+
+**Toelichting P.IV.1:**
+
+De steekproef dient groot genoeg te zijn voor het schatten van de moeilijkheidsgraad, het discriminerend vermogen en de kwaliteit van de afleiders van de items. Voor het pretesten van nieuwe items in een proeftoets omgeving, volstaan zowel het gebruik van de klassieke toets theorie als de itemresponstheorie (1PLM of 2PLM).
+
+Voor alle genoemde pretestmogelijkheden en toetsvormen geldt in ieder geval dat de steekproef representatief is voor de doelgroep (in voorkomend geval de landelijke populatie leerlingen). De steekproef dient beschreven te worden op basis van belangrijke deelpopulaties (bijvoorbeeld eilanden of leerjaren) en indien nodig te worden gestratificeerd/gewogen.
+
+Bij de steekproef is in een steekproefkader een beschrijving gegeven van de procedure waarmee de steekproef tot stand is gekomen. Daarnaast zijn de omstandigheden waaronder de data verzameld zijn, vergelijkbaar met de omstandigheden waaronder de operationele toets wordt afgenomen. De steekproefgegevens over SBO en SO scholen worden buiten beschouwing gelaten en, indien van toepassing, aanvullend separaat gerapporteerd en verantwoord.
+
+Bij het pretesten van nieuwe items in een proeftoets of in een operationele toets bij gebruik van KTT is een steekproefgrootte van minimaal 200 observaties van elk pretest item vereist. Voor het pretesten van nieuwe items in een proeftoets of in een operationele toets bij gebruik van een 1PL is een steekproefgrootte van minimaal 300 observaties van elk pretest item vereist bij gebruik van een 2PL model en minimaal 600 observaties.
+
+Wanneer de LVS-instrumenten worden ontwikkeld voor een specifiek vaardigheidsschaal, dan geldt het minimumaantal observaties per pretest item voor die specifieke schaal.
+
+Aanbieders mogen van de boven genoemde aantallen afwijken, mits dit gedegen en volledig wordt onderbouwd.
+
+**Toelichting P.IV.2:**
+
+Wanneer een LVS-instrument van het type (III) of (IV) of eventueel de itembank van het betreffende instrument uit afzonderlijke items bestaat, worden data vaak verzameld in een onvolledig verbonden design, waarbij niet alle leerlingen alle items maken. Men spreekt vaak van een boekjesdesign. Het staat de toetsaanbieder vrij om zelf een best passend dataverzamelingsdesign te kiezen, mits de keuze wordt onderbouwd.
+
+Als gebruik wordt gemaakt van een verbonden design, dan dient deze te bestaan uit een overzicht of beschrijving van:
+
+Verder gelden de volgende aanvullende eisen:
+
+### 3.3.2. Normering
+
+Deze paragraaf beschrijft de kwaliteitseisen voor Fase 2 van de psychometrische verantwoording van een LVS-instrument van het type (III) en (IV), zijnde de kwaliteit van het normeren van het LVS-instrument.
+
+Na het verzamelen van de observaties voert de toetsaanbieder een kalibratie uit met de verzamelde pretestdata. In de kalibratie schat de toetsaanbieder de itemparameters, zodat de kwaliteit van de in de proeftoets en/of in de operationele versie van de toets nieuw gepreteste items kan worden vastgesteld. Vervolgens kan de toetsaanbieder het LVS-instrument normeren. Er is onderscheid te maken tussen absolute en relatieve normen.
+
+Absolute normen plaatsen een leerling op een schaal die betrekking heeft op een analyse van een inhoudelijk domein. Een absolute norm is gebaseerd op een minimaal acceptabel beheersingsniveau van dat inhoudelijke domein. Absolute normen kan men bepalen via een standaardsettingsmethode waarbij inhoudelijke experts de minimaal acceptabele beheersingsniveaus vaststellen.
+
+Relatieve normen plaatsen de leerling op een schaal die betrekking heeft op de relatieve positie van een leerling in een populatie. Een relatieve norm is derhalve gebaseerd op een onderlinge vergelijking van de toetsprestaties van de kandidaten in een adequaat omschreven populatie. Om deze normen vast te stellen is een pretest met een zuivere steekproef nodig, waarna de normen met een psychometrische methode worden vastgesteld.
+
+Het staat de toetsaanbieder vrij om, binnen de eisen van het beoordelingskader, hiervoor zelf een best passende wijze van normeren te kiezen. De toetsaanbieder beargumenteert dat de eigen gemaakte keuze deugdelijk is. Dit betekent dat er naast de methode van standaardsetting met experts of het definiëren van relatieve normen via pretesten ook gebruik gemaakt mag worden van andere manieren. Bijvoorbeeld door de normen af te leiden van de referentie- en ERK-niveaus. Dat kan op verschillende manieren worden gerealiseerd. Bijvoorbeeld door een toets voor de leerjaren 6-8 te pretesten samen met items uit beschikbare referentiesets of door LVS items via een pretest te kalibreren op dezelfde schaal als de ankeritems van de doorstroomtoets.
+
+**Toelichting P.V.1:**
+
+De toetsaanbieder verantwoordt de kwaliteit van de gekozen standaard- of cesuurbepalingsmethode op gedegen en complete wijze en onderbouwt dat de methode correct is uitgevoerd door de erbij betrokken experts met vakdeskundigheid.
+
+**Toelichting P.V.2:**
+
+De toetsaanbieder onderbouwt de selectieprocedure op gedegen en complete wijze; er zijn voldoende experts met aantoonbaar inhoudelijke vakdeskundigheid geselecteerd, zij hebben een gedocumenteerde training gevolgd in de betreffende standaardbepalingsmethode.
+
+**Toelichting P.V.3:**
+
+De toetsaanbieder toont aan dat de mate van overeenstemming tussen de experts resulteert in een coëfficiënt voor overeenstemming waarbij de proportie overeenstemming representatief is voor een instrument voor minder belangrijke beslissingen (een zogenaamd medium-stakes instrument) op individueel niveau.
+
+**Toelichting P.V.4:**
+
+De toetsaanbieder toont aan dat de normgroep bestaat uit het bij kwaliteitseis P.IV.1 genoemde minimum aantal observaties per item.
+
+**Toelichting P.V.5:**
+
+Een beschrijving van de samenstelling van de normgroep voor belangrijke deelpopulaties (bijvoorbeeld eilanden of leerjaren) is beschikbaar en er is gebruik gemaakt van een aselect steekproefmodel. Als er geen gebruik is gemaakt van een aselect steekproefmodel dient de aanbieder dit op juiste en volledige wijze te onderbouwen.
+
+**Toelichting P.V.6:**
+
+De toetsaanbieder onderbouwt op gedegen en complete wijze de betekenis en beperkingen van de normschaal en het gebruikte model. Ook toont de aanbieder aan dat het type normschaal in overeenstemming is met het doel van het LVS-instrument van het type (III) of (IV).
+
+**Toelichting P.V.7:**
+
+Bij LVS-instrumenten van het type (III), waarbij de standaard / cesuur al min of meer vastligt in de onderliggende referentie- en/of ERK-sets dient de cesuur te worden overgebracht middels linking en niet door een afzonderlijke standaardbepaling. De toetsaanbieder verantwoordt op gedegen en complete wijze dat de cesuren correct zijn overgebracht.
+
+**Toelichting P.V.8:**
+
+Het beoordelingskader LVS laat ruimte voor alternatieve vormen van normeren, zoals bijvoorbeeld continue normeren waarbij leerlingen uit een lagere groep bij de normering ook een ‘moeilijkere’ toets maken voor een hoger leerjaar. Alternatieve vormen van normeren dienen inhoudelijk en psychometrisch te worden beargumenteerd door de toetsaanbieder.
+
+### 3.3.3. Betrouwbaarheid
+
+Deze paragraaf beschrijft de kwaliteitseisen voor Fase 3 van de psychometrische verantwoording van een LVS-instrument van het type (III) en (IV), zijnde de kwaliteit van de betrouwbaarheid van het LVS-instrument.
+
+Leerlingen worden na afname van het LVS-instrument gecategoriseerd. De toetsaanbieder schat de betrouwbaarheid van het volledige LVS-instrument van het type (III) of (IV) en berekent het percentage misclassificaties van de verschillende categorieën van het LVS-instrument van het type (III) of (IV).
+
+Voor het schatten van de betrouwbaarheid van niveaubepaling en groei mag alleen gebruik gemaakt worden van items die onderwijskundig en psychometrisch goed functioneren. Wanneer de toetsaanbieder er toch voor kiest om, om andere redenen, minder goed functionerende items mee te nemen, dan dient de toetsaanbieder dit te beargumenteren.
+
+**Toelichting P.VI.1:**
+
+Bij een LVS-instrument van het type (III) of (IV) is er normaliter sprake van meerdere categorieën of van een relatieve categorisatie ten opzichte van een referentiepopulatie. De betrouwbaarheid van het LVS-instrument van het type (III) of (IV) hangt samen met percentage verwachte misclassificaties. De betrouwbaarheid moet adequaat worden aangetoond. In de psychometrie maakt men een onderscheid tussen globale en lokale betrouwbaarheid.
+
+Globale betrouwbaarheid heeft betrekking op de mate waarin men twee willekeurig getrokken leerlingen uit een adequaat gedefinieerde populatie kan onderscheiden. Een maat voor de globale betrouwbaarheid is een variantieratio: de verhouding tussen de relevante variatie in de te meten vaardigheid (de ware variantie) en de totale variantie, die de som is van de ware variantie en irrelevante variatie (de ruis). Deze ratio is zowel met CTT als met een IRT model te berekenen. Het is hierbij belangrijk om alle variantie-componenten in de schatting van de betrouwbaarheid mee te nemen. Dus ook variantie tussen beoordelaars, of de effecten van clustering van leerlingen in schoolklassen op de variantieschatting. Zoiets is bijvoorbeeld te realiseren met generaliseerbaarheidstheorie en multilevelanalyse. Vaak kan men de globale betrouwbaarheid correct schatten met Cronbach's Alpha, maar bij hiërarchische steekproeven en beoordelingen door beoordelaars, zijn de genoemde meer geavanceerde technieken nodig.
+
+Lokale betrouwbaarheid heeft betrekking op de meetprecisie bij specifieke punten op de schaal. Bijvoorbeeld bij categoriegrenzen. Voor het schatten van de lokale betrouwbaarheid is IRT het meest geëigend. Meestal gebruikt men Fishers informatie bij bepaalde punten op de latente vaardigheidsschaal.
+
+**Toelichting P.VI.2:**
+
+Bij een LVS-instrument van het type (III) of (IV) is de coëfficiënt voor globale betrouwbaarheid berekend over minimaal 300 kandidaten, ofwel gedegen verantwoord bij minder kandidaten dan 300. Bij hiërarchische steekproeven moet bij het bepalen van steekproefgrootten ook rekening gehouden worden met de effecten van clustering van leerlingen. De betrouwbaarheidscoëfficiënt moet voldoende zijn voor een medium stakes instrument, wat neerkomt op een betrouwbaarheid ≥ 0,70.
+
+Lokale betrouwbaarheid kan gebruikt worden om een schatting te maken van het percentage leerlingen dat foutief wordt geclassificeerd. Wat in dit nog acceptabel is, hangt af van de meetpretentie van de toets. Goed vergelijkingsmateriaal is te vinden in de schattingen van percentages misclassificaties in verantwoordingen van andere LVS-toetsen en doorstroomtoetsen voor het primair onderwijs (zie ook P.VI.3).
+
+**Toelichting P.VI.3:**
+
+De toetsaanbieder geeft een indicatie van het percentage misclassificaties van de verschillende categorieën van het LVS-instrument van het type (III) of (IV) en dient deze te duiden door middel van bijvoorbeeld de plus-minus 1 niveau-index (Pilliner 1969) of de marginal classification accuracy. De aanbieder legt uit waarom voor een bepaalde statistische methode en de gehanteerde grenzen is gekozen.
+
+### 3.3.4. Constructvaliditeit
+
+Deze paragraaf beschrijft de kwaliteitseisen voor Fase 4 van de psychometrische verantwoording van een LVS-instrument van het type (III) en (IV), zijnde de kwaliteit van de constructvaliditeit van het LVS-instrument.
+
+De construct- of begripsvaliditeit is de eigenschap die het LVS-instrument heeft als kan worden aangetoond dat het instrument het door de constructeur beoogde kenmerk van de leerling (onderliggende trek, vaardigheid) meet. De toetsaanbieder kan de constructvaliditeit kwantitatief en/of kwalitatief aantonen.
+
+**Toelichting P.VII.1:**
+
+De resultaten van de uitgevoerde kalibratie maken het aannemelijk dat er bij het LVS-instrument van het type (III) of (IV) sprake is van unidimensionaliteit. Dit betekent dat met elke willekeurige subset van items uit de gekalibreerde itembank dezelfde onderliggende vaardigheid kan worden vastgesteld. De unidimensionaliteit kan op klassieke wijze worden aangetoond met bijvoorbeeld latente correlaties tussen verschillende inhoudelijke subvaardigheden of een confirmatieve factoranalyse gekoppeld aan multidimensionale betrouwbaarheidsindices2Zie bijvoorbeeld: Widhiarso, W., & Ravand, H. (2014). **Estimating reliability coefficient for multidimensional measures: A pedagogical illustration**. Review of psychology, 21(2), 111-121.). Het gebruik van IRT biedt daarnaast de mogelijkheid om met multidimensionele IRT modellen, testlet modellen of bi-factormodellen een complexere dimensiestructuur te modelleren.
+
+**Toelichting P.VII.2:**
+
+De itemkwaliteit wordt aangetoond met een passende moeilijkheidsparameter en met voldoende discriminerend vermogen. De aanbieder onderbouwt de gekozen grenswaarden voor de p- en rit-waarden op een juiste en gedegen wijze.
+
+**Toelichting P.VII.3:**
+
+De aanbieder laat op basis van onderzoek zien dat het te meten onderdeel hoog correleert met andere toetsen die hetzelfde construct meten (convergente validiteit) en laag correleert met andere toetsen die een ander construct meten (divergente validiteit). Indien het aantonen van convergente validiteit niet mogelijk is, bijvoorbeeld als er geen vergelijkbare instrumenten beschikbaar zijn of als naar mate de complexiteit van het te meten onderdeel toeneemt (bv. het meer complexe onderdeel sociaal-emotionele ontwikkeling versus het meer overzichtelijk terrein Rekenen) wegen de inhoudelijke argumenten zwaarder dan de kwantitatieve argumenten. Met bijvoorbeeld een Multi Trait Multi Method matrix kan worden onderbouwd hoe een instrument zich gedraagt. Voor de meer complexe onderdelen is er vaak beperkt of geen extern vergelijkingsmateriaal om de convergente validiteit te onderzoeken. In die situatie biedt een meer argument-based approach (Kane, 2004) of bijvoorbeeld een operationalisering van de inhoudsvaliditeit uitkomst. Dit betreft een meer beschrijvende manier op basis van de blueprint /toetsmatrijs, waarbij gelet wordt op de representativiteit en evenwichtigheid.
+
+**Toelichting P.VII.4:**
+
+In het kader van itembias is er onderzoek uitgevoerd naar differentieel item functioneren (DIF). Wat interessant zou kunnen zijn is wanneer aanbieders, indien er sprake is van meerdere afnamevormen (papier/digitaal) van het instrument, onderzoek doen naar bias naar afnamevorm.
+
+Als er sprake is van een tussentijdse check dient de aanbieder onderzoek naar DIF uit te voeren tussen de afnames van de initiële indiening en de tussentijdse check om aan te tonen dat de items nog hetzelfde functioneren.
+
+**Toelichting P.VII.5:**
+
+De prestaties van relevante subgroepen is onderzocht door de gemiddelde score en standaarddeviatie per subgroep (bijvoorbeeld leerjaren of eilanden). Tevens dienen de effectgroottes te worden toegevoegd, waarbij geldt dat een klein effect < 0.2 voldoende is. Op gedegen en complete wijze onderbouwt de aanbieder de keuze van de relevante subgroepen en verantwoordt eventuele verschillen op basis van theoretische inzichten en/of eerder onderzoek.
+
+### 3.3.5. Volgaspect
+
+Deze paragraaf beschrijft de kwaliteitseisen voor Fase 5 van de psychometrische verantwoording van een LVS-instrument van het type (III) en (IV), zijnde de kwaliteit van het volgaspect of de signaleringsfunctie.
+
+Om leervorderingen te kunnen meten, moeten de scores van de leerling op een schaal te plaatsen zijn die de ontwikkeling van leerlingen zichtbaar maakt. Dit leidt voor LVS-instrumenten van het type (III) of (IV) tot drie criteria met betrekking tot de schaal waarop groei wordt uitgedrukt: (1) de opbouw van de schaal, (2) de betrouwbaarheid van de metingen, en (3) het gebruik van de schaal.
+
+**Toelichting P.VIII.1:**
+
+Er dient duidelijk invulling te worden gegeven aan het begrip ‘volgsysteem’. Het betreft een systeem met onderliggende data waarmee de ontwikkeling van de leerling kan worden gevolgd over de tijd heen en waarmee kan worden geïnterpreteerd in hoeverre deze ontwikkeling in lijn is met de leerdoelen van de verschillende leerjaren en/of met de ontwikkeling van de andere leerlingen uit hetzelfde leerjaar. Het volgsysteem moet hierom bestaan uit werkelijke gegevens om scores van verschillende afnames met elkaar te kunnen vergelijken en/of om duiding te kunnen geven in termen van bijvoorbeeld groei. Tevens dienen er duidelijke handvatten voor testgebruikers te komen hoe zij de toetsresultaten kunnen gebruiken als volgsysteem. Bij het gebruik van bijvoorbeeld IRT modellen wordt de vergelijkbaarheid al iets makkelijker (uitgaande van een juiste linking tussen alle items/toetsversies). Omdat veel docenten en ouders niet weten hoe IRT werkt en hoe dit moet worden toegepast, moeten de toetsaanbieders uitleggen hoe zij de resultaten moeten lezen en interpreteren.
+
+Alle overwegingen over steekproeftrekking, betrouwbaarheid en normering gelden eveneens voor een reeks van twee of meer opeenvolgende meetmomenten. Dus beide steekproeven moeten representatief zijn en het design, dat in dit geval bijna per definitie onvolledig is, moet adequaat zijn in de termen die hierboven zijn gedefinieerd.
+
+Verder moet er empirische informatie zijn over de schaalbaarheid van opeenvolgende meetmomenten. Het hoeft niet het geval te zijn dat de schaal strikt uni-dimensioneel is in de zin van een uni-dimensioneel IRT model (hoewel dit wel de meest voor de hand liggende schaal is). Wel dient er in ieder geval betekenisvolle informatie gegeven te worden over de samenhang tussen de twee (of meer) meetmomenten. Essentieel is dat de aanbieder de schaal waarop de groei wordt weergegeven grondig en compleet onderbouwt.
+
+De aanbieder dient ook aan te geven of het instrument deel uitmaakt van een overkoepelend LVS (bijvoorbeeld, als alleen de toetsen voor groepen 3 tot en met 5 zijn ingediend voor een leerlingvolgsysteem dat bedoeld is voor groepen 3 tot en met 8). Als dit het geval is, dient de aanbieder duidelijk en volledig te onderbouwen hoe de schalen van de verschillende toetsen binnenhet overkoepelend LVS aan elkaar zijn gekoppeld.
+
+**Toelichting P.VIII.2:**
+
+Voor een LVS-instrument van het type (III) of (IV) is het van belang om een indicatie van de betrouwbaarheid van die gevolgtrekking weer te geven.
+
+Hiervoor is het belangrijk om te bepalen of de focus ligt op individuele verandering of op verschillen tussen personen op groepsniveau.3Zie bijvoorbeeld: Gu, Z., Emons, W.H.M. & Sijtsma, K. (2018). Review of Issues About Classical Change Scores: A Multilevel Modeling Perspective on Some Enduring Beliefs. **Psychometrika** 83, 674–695. [https://doi.org/10.1007/s11336-018-9611-3](https://doi.org/10.1007/s11336-018-9611-3) Wanneer het instrument bedoeld is voor het nemen van beslissingen op individueel niveau, dient de aanbieder de meetprecisie van de verschillende meetmomenten in kaart te brengen en de betrouwbaarheid van de verschilscores (reliable change index4Zie bijvoorbeeld: Gu, Z., Emons, W.H.M. & Sijtsma, K. (2018). Review of Issues About Classical Change Scores: A Multilevel Modeling Perspective on Some Enduring Beliefs. **Psychometrika** 83, 674–695. [https://doi.org/10.1007/s11336-018-9611-3](https://doi.org/10.1007/s11336-018-9611-3)en5Zie bijvoorbeeld: Jacobson, N.S., & Truax, P. (1991) Clinical significance: A statistical approach to definingmeaningful change in psychotherapy research. Journal of Consulting and ClinicalPsychology, 59, 12-19. [https://psycnet.apa.org/record/1992-97624-042](https://psycnet.apa.org/record/1992-97624-042) te berekenen en de gekozen methode te onderbouwen. Als het instrument wordt gebruikt om de groei van leerlingen relatief te positioneren, bijvoorbeeld ten opzichte van een gemiddelde groeiscore, moet de aanbieder ook de betrouwbaarheid van de groeimetingen berekenen en deze zorgvuldig onderbouwen.6Zie bijvoorbeeld: Trafimow, D. (2015) A defense against the alleged unreliability of difference scores, Cogent Mathematics, 2:1, 1064626, DOI: 10.1080/23311835.2015.1064626
+
+Bij gebruik van percentielscores moet de betrouwbaarheid van de verandering van de percentielscores geschat zijn. Binnen de CTT-methodologie zijn percentielscores gebaseerd op een somscore die een meetfout bevat. Het verschil in percentielscores kan vertaald worden in het verschil in onderliggende scores en hun betrouwbaarheid. Bij IRT zijn de percentielscores gebaseerd op vaardigheidsscores die geschat zijn met een zekere mate van betrouwbaarheid.7Zie bijvoorbeeld: May, K., & Nicewander, W. A. (1994). **Reliability and information functions for percentile ranks**. Journal of Educational Measurement, 31(4), 313-325.
+
+Omdat de transformatie van ruwe scores of theta scores naar percentielscores niet lineair is, kan dit wel resulteren in een zekere bias8Zie bijvoorbeeld: Rogosa, D. R. (2000). **Accuracy of individual scores expressed in percentile ranks: Classical test theory calculations**. Center for the Study of Evaluation, National Center for Research on Evaluation, Standards, and Student Testing, Graduate School of Education & Information Studies, University of California, Los Angeles..
+
+**Toelichting P.VIII.3:**
+
+De handleiding moet een beschrijving bevatten van hoe de gebruiker (zoals docenten en ouders) de gegevens met betrekking tot de groei (en/of stagnatie) van een leerling inhoudelijk en/of relatief ten opzichte van een referentiepopulatie dient te interpreteren. De geschreven toelichting moet consistent zijn met de resultaten uit het betrouwbaarheids-, validiteits- en normeringsonderzoek, dat wil zeggen dat de gebruiker een goed beeld moet krijgen van de (relatieve) onderwijskundige waarde en meetpretentie van de resultaten en de meetpretentie van het instrument als geheel.
+
+### 4. Organisatorische aspecten
+
+### 4.1. Afname
+
+De beoordeling van de organisatorische aspecten van een LVS-instrument richt zich op de criteria voor veilig toetsen en observeren / registreren. Onderstaande kwaliteitseisen zijn van toepassing op zowel observatie- en registratie-instrumenten type (I) en (II) als op LVS-instrumenten type (III) en (IV).
+
+Indien de aanbieder ISO 27001 is gecertificeerd, volstaat het om dit certificaat inclusief een verklaring van toepasbaarheid (in voorkomend geval de scope van het certificaat) aan te leveren. Indien voorgaande wordt aangeleverd, zijn onderstaande kwaliteitseisen niet van toepassing.
+
+**Toelichting B.I.1 t/m B.I.7:**
+
+Indien een aanbieder niet ISO 27001-gecertificeerd is, kan hij voldoen aan de kwaliteitseisen door bijvoorbeeld te verwijzen naar een verwerkersovereenkomst. Deze overeenkomst moet ingaan op de eisen B.I.1 tot en met B.I.7. De aanbieder moet daarbij bewijsmateriaal aanleveren voor de gevraagde documenten, contracten en protocollen bij B.I.2, B.I.3, B.I.4, B.I.5 en B.I.6. Dit bewijsmateriaal kan bestaan uit afzonderlijke documenten of specifieke hoofdstukken in het beleid die duidelijk maken hoe aan de eisen wordt voldaan.
+
+Voor B.I.6 moet de aanbieder een beschrijving leveren van het gebruik van het instrument in verschillende afname-omstandigheden (zoals papier, digitaal en observatie). Dit helpt de schoolleider en leerkracht om het instrument correct toe te passen en te voldoen aan de eisen voor beveiliging en privacy.
+
+Ter verduidelijking wordt vermeld dat de verantwoordelijkheid voor het goed gebruik van het instrument en de ermee verzamelde informatie in de dagelijkse praktijk bij de school / de eindgebruiker zelf ligt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
