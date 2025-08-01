@@ -4,7 +4,7 @@ identifier: "BWBR0043557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-12-18"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043557"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 ##### Artikel 5. Scoring van aanvragen
 
-De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2023-12-18&g=2023-12-18). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
+De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2025-08-01&g=2025-08-01). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
 
 ##### Artikel 6. Rangschikking van aanvragen
 
@@ -128,7 +128,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 2. Indien na toepassing van het eerste lid nog steeds meerdere aanvragen gelijk scoren worden die aanvragen onderling gerangschikt op grond van de hoogte van de gevraagde bijdrage per woning, waarbij de aanvraag met de laagste bijdrage per woning het hoogst eindigt.
 
-3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2023-12-18&g=2023-12-18), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
+3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2025-08-01&g=2025-08-01), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
 
 ##### Artikel 7. Weigeringsgronden
 
@@ -156,7 +156,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vier leden.
 
-2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2023-12-18&g=2023-12-18), is uitgeput.
+2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2025-08-01&g=2025-08-01), is uitgeput.
 
 3. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -178,7 +178,36 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit woningbouwim
 
 Deze regeling wordt aangehaald als: Regeling Woningbouwimpuls 2020.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2023-12-18&g=2023-12-18) van de Regeling Woningbouwimpuls 2020
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2025-08-01&g=2025-08-01)
+
+De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak × 0,30 + deelscore effectiviteit × 0,30 + deelscore efficiëntie × 0,15 + deelscore urgentie × 0,25.
+
+In dit criterium staat de beoordeling van de noodzaak van de aangevraagde specifieke uitkering centraal. Daarvoor wordt gekeken of er sprake is van een realistisch en marktconform publiek tekort en de gevraagde bijdrage die daaruit voortkomt. De beoordeling van dit onderdeel omvat in ieder geval een toetsing op in hoeverre er daadwerkelijk sprake is van een tekort, hoe goed dit tekort is onderbouwd, of de gehanteerde uitgangspunten passen bij het beleid en in welke mate het tekort kwalitatief, programmatisch en financieel is geoptimaliseerd.
+
+Aan de hand van het eerste subcriterium wordt bepaald in hoeverre het realistisch is dat het project start met de bouw binnen de gestelde termijnen van drie jaar (eerste woning) en 10 jaar (laatste woning). Daarbij wordt gekeken naar de hardheid van de plannen, zoals de huidige status van het proces, de nog te doorlopen planologische procedures en de mate van zekerheid dat het project bij een positief besluit doorgaat, tijdig van start gaat en voortvarend wordt gerealiseerd. Ook de mate waarin relevante stakeholders de inschrijving steunen wordt meegewogen in de beoordeling. Daarnaast wordt gekeken of de inzet van instrumenten als parallel plannen of een (regionale) versnellingstafel kunnen bijdragen aan de haalbaarheid van het project.
+
+Aan de hand van het tweede subcriterium wordt bepaald in hoeverre het project bijdraagt aan de betaalbaarheidsprogrammering in de regionale woningbouwopgave (indicator 1) en de nationale woningbouwopgave (indicator 2). De bijdrage aan de doelstellingen ten aanzien van de betaalbaarheidsprogrammering in de regionale woningbouwopgave, zijnde: 30% sociaal en 2/3e betaalbaar en in hoeverre de bijdrage van het project overeenkomt met de betaalbaarheidsprogrammering van de minister en deze niet overschrijdt.
+
+Op basis van dit criterium wordt beoordeeld in hoeverre sprake is van een gerichte en doelmatige inzet van financiële middelen. De beoordeling richt zich op de proportionaliteit van de aangevraagde specifieke uitkering ten opzichte van het aantal te realiseren woningen. Hierbij wordt onder meer gekeken naar de gemiddelde bijdrage per woning en de verhouding tussen de aangevraagde uitkering en de gemeentelijke bijdrage.
+
+Dit hoofdcriterium onderscheidt zich van de andere drie hoofdcriteria omdat de score op dit criterium vaststaat en niet afzonderlijk beoordeeld hoeft te worden door de commissie. De score wordt wel meegenomen bij het bepalen van de totaalscore door de toetsingscommissie. Het hoofdcriterium urgentie betreft:
+
+- •. **Omvang van de woningbouwopgave:** de relatieve omvang van de woningbouwopgave in het functioneel woningmarktgebied waar de aanvragende gemeente is gelegen. De relatieve woningbouwopgave wordt bepaald op basis van de nieuwbouwopgave als aandeel van de bestaande voorraad. Gemeenten krijgen een score tussen de 2 en 8 punten voor het subcriterium omvang woningbouwopgave. In [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=7&z=2025-08-01&g=2025-08-01), is beschreven hoe de woningbouwopgave wordt bepaald.
+
+- •. **Locatie specifieke opgave;** Voor het subcriterium locatie specifieke opgave kunnen maximaal 2 punten worden gehaald. De twee manieren om de punten te behalen zijn:
+
+- i. De locatie is gelegen in een gebied dat valt onder het Nationaal Programma Leefbaarheid en Veiligheid
+
+- ii. De locatie is gelegen in een regionale grootschalige woningbouwlocatie.
+
+|   | Criteria ter beoordeling door de Toetsingscommissie | Criteria ter beoordeling door de Toetsingscommissie | Criteria ter beoordeling door de Toetsingscommissie | Aanvullend criterium |
+| --- | --- | --- | --- | --- |
+|   | 1. Noodzaak bijdrage | 2. Effectiviteit project | 3. Efficiëntie project | 4. Urgentie |
+| Weging deelscore % | 30% | 30% | 15% | 25% |
+| Subcriterium 1 | Realiteitsgehalte tekort | Hardheid: zekerheid tijdig realiseren van woningen | Proportionaliteit van de gevraagde bijdrage | Omvang woningbouwopgave |
+| Indicatoren | 1. Onderbouwing kosten activiteiten en omvang financieel tekort. 2. Aantonen dat alle mogelijkheden tot verhaal zijn uitgeput. 3. De mate waarin het project kwalitatief en financieel is geoptimaliseerd binnen de randvoorwaarden. | 1. Moment van startbouw en planning voor startbouw 2. Planologische status project. 3. Steun van relevante partijen, zoals corporatie(s) en ontwikkelaar(s) 4. Aantonen van voldoende garanties voor het tijdig realiseren van het project waarvoor bijdrage gevraagd wordt, waaronder de eventuele inzet van de instrumenten parallel plannen en de (regionale) versnellingstafel. | 1. Gevraagde bijdrage per woning. 2. Gevraagde bijdrage per betaalbare woning. 3. Gevraagde bijdrage als percentage van het financiële tekort. | 1. De relatieve omvang van de woningbouwopgave in het functionele woningmarktgebied |
+| Subcriterium 2 | Niet van toepassing | Kwaliteit van het betaalbare woningbouwprogramma 1. De bijdrage van het project aan de doelstellingen ten aanzien van de betaalbaarheidsprogrammering in de regionale woningbouwopgave, zijnde: 30% sociaal en 2/3e betaalbaar. 2. In hoeverre de bijdrage van het project overeenkomt met de betaalbaarheidsprogrammering van de minister en deze niet overschrijdt. | Niet van toepassing | Locatiespecifieke opgave |
+| Indicatoren |   |   | 1. De bijdrage van het project aan de doelstellingen ten aanzien van de betaalbaarheidsprogrammering in de regionale woningbouwopgave, zijnde: 30% sociaal en 2/3e betaalbaar. 2. In hoeverre de bijdrage van het project overeenkomt met de betaalbaarheidsprogrammering van de minister en deze niet overschrijdt. | 1. Regionale grootschalige woningbouwlocatie 2. Nationaal Programma Leefbaarheid en Veiligheid. |
 
 ### Beoordelingscriteria en weging
 
@@ -209,5 +238,7 @@ De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krij
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
