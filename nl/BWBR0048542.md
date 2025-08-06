@@ -4,7 +4,7 @@ identifier: "BWBR0048542"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-06"
-last_updated: "2024-08-31"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048542"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **aandoening:** een ziekte, beperking, handicap of psychische kwetsbaarheid zoals beschreven in de ICD dan wel in de DSM;
 
-- **aandoeningsoverstijgend:** betrekking hebbend op aspecten van het leven met een aandoening, die voor meerdere aandoeningen tegelijkertijd van toepassing kunnen zijn;
+- **aandoeningsoverstijgend thema:** een thema, niet zijnde een product of dienst, dat speelt bij verschillende aandoeningen waarbij de nadruk ligt op maatschappelijke, sociale of levensfase gerelateerde aspecten, in plaats van op de aandoeningen;
 
 - **backoffice taken:** taken die worden verricht ter ondersteuning van de primaire activiteiten van pg-organisaties of federatieve samenwerkingsverbanden;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **PFN:** Vereniging Patiëntenfederatie Nederland;
 
-- **pg-organisatie:** een stichting of vereniging, niet zijnde een federatief samenwerkingsverband, met volledige rechtsbevoegdheid, die zich primair richt op de belangen van mensen met één of meerdere aandoeningen of daaraan gerelateerde aandoeningsoverstijgende thema’s of op de belangen van hun naasten of wettelijke vertegenwoordigers;
+- **pg-organisatie:** een stichting of vereniging, niet zijnde een federatief samenwerkingsverband, met volledige rechtsbevoegdheid, die zich primair richt op de belangen van mensen met één of meerdere aandoeningen en zich secundair richt op de belangen van hun naasten of wettelijk vertegenwoordigers en eventueel aanvullend op een aandoeningsoverstijgend thema;
 
 - **reeds gesubsidieerd federatief samenwerkingsverband:** een federatief samenwerkingsverband dat in het boekjaar voorafgaand aan het boekjaar waarvoor een instellingssubsidie wordt aangevraagd reeds een instellingssubsidie heeft ontvangen op grond van deze subsidieregeling;
 
@@ -106,7 +106,11 @@ Deze regeling heeft betrekking op het verstrekken van:
 
 ##### Artikel 1.4. Niet-subsidiabele activiteiten
 
-Subsidie wordt niet verstrekt voor activiteiten in het kader van het verrichten van wetenschappelijk onderzoek naar aandoeningen, behandelingen of medische hulpmiddelen.
+Subsidie wordt niet verstrekt voor activiteiten in het kader van:
+
+- a. juridische procedures van, of namens, de doelgroep; of
+
+- b. het verrichten van wetenschappelijk onderzoek naar aandoeningen, behandelingen of medische hulpmiddelen.
 
 ##### Artikel 1.5. Subsidiabele kosten
 
@@ -118,7 +122,7 @@ Subsidie wordt niet verstrekt voor activiteiten in het kader van het verrichten 
 
 ##### Artikel 2.1. Subsidiabele activiteiten
 
-De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan een pg-organisatie voor de volgende activiteiten:
+1. De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan een pg-organisatie voor de volgende activiteiten:
 
 - a. belangenbehartiging, waaronder het vergaren en inzetten van collectieve ervaringsdeskundigheid;
 
@@ -128,17 +132,21 @@ De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan ee
 
 - d. het verrichten of uitbesteden van backoffice taken.
 
+2. De activiteiten, bedoeld in het eerste lid, onder a tot en met c, hebben landelijk bereik.
+
 ##### Artikel 2.2. Subsidievoorwaarden
 
 1. De instellingssubsidie wordt uitsluitend verstrekt aan een pg-organisatie die:
 
-- a. zich blijkens de statuten richt op mensen met één of meerdere aandoeningen, hun naasten of wettelijk vertegenwoordigers of op een aandoeningsoverstijgend thema;
+- a. zich blijkens de statuten richt op mensen met één of meerdere aandoeningen, hun naasten of wettelijk vertegenwoordigers en eventueel aanvullend op een aandoeningsoverstijgend thema;
 
 - b. een landelijk bereik heeft;
 
 - c. een leden- of donateursadministratie heeft die, op 1 september voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, ten minste honderd natuurlijke personen bevat, welke per kalenderjaar elk ten minste € 25,– bijdragen;
 
-- d. een gedragscode met interne regels voor omgangsvormen heeft.
+- d. een gedragscode met interne regels voor omgangsvormen heeft; en
+
+- e. informatie verstrekt voor doelgroepen die in lijn is met de stand van de wetenschap, medische praktijk of collectieve ervaringsdeskundigheid van de doelgroep en niet eenzijdig is.
 
 2. In afwijking van het eerste lid, kan de minister ook een instellingssubsidie verstrekken aan een pg-organisatie die zich richt op mensen met een ziekte, beperking, handicap of psychische kwetsbaarheid die niet is omschreven in de ICD of in de DSM, indien deze als voldoende eigenstandig onderscheiden kan worden en op weg is naar internationale erkenning.
 
@@ -146,51 +154,59 @@ De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan ee
 
 1. Een instellingssubsidie aan een nieuwe toetreder wordt uitsluitend verstrekt indien:
 
-- a. deze gedurende minstens 12 maanden voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, activiteiten als bedoeld in [artikel 2.1, onder a tot en met c,](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.1&z=2024-08-31&g=2024-08-31) heeft ontplooid zonder subsidie op grond van deze subsidieregeling of op grond van het [Besluit vaststelling beleidskader inzake subsidiëring van patiënten- en gehandicaptenorganisaties 2019–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0041087); en
+- a. deze gedurende minstens 12 maanden voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, activiteiten als bedoeld in [artikel 2.1, onder a tot en met c,](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.1&z=2025-08-06&g=2025-08-06) heeft ontplooid zonder subsidie op grond van deze subsidieregeling of op grond van het [Besluit vaststelling beleidskader inzake subsidiëring van patiënten- en gehandicaptenorganisaties 2019–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0041087);
 
 - b. er geen reeds gesubsidieerde pg-organisatie is die zich richt op:
 
 - 1°. één of meer dezelfde, verwante of vergelijkbare aandoeningen; of
 
-- 2°. eenzelfde thema of onderwerp voor dezelfde doelgroep.
+- 2°. eenzelfde aandoeningsoverstijgend thema voor dezelfde doelgroep; en
+
+- c. ten minste de helft van de bestuursleden bestaat uit personen die geen zorgverlener zijn binnen de sector van de doelgroep.
 
 2. In afwijking van het eerste lid, onder b, kan de minister een instellingssubsidie verstrekken aan een nieuwe toetreder indien deze, op 1 september voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, over 50% meer betalende leden of over 50% meer donateurs beschikt dan de reeds gesubsidieerde pg-organisatie.
 
 ##### Artikel 2.4. Afbouw reeds gesubsidieerde pg-organisatie
 
-1. Indien toepassing wordt gegeven aan [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2024-08-31&g=2024-08-31), kan de minister de subsidieaanvraag van de reeds gesubsidieerde pg-organisatie verlenen onder de voorwaarde dat de instellingssubsidie in een periode van twee jaar wordt afgebouwd, waarbij de instellingssubsidie in het eerste afbouwjaar maximaal 75% en in het tweede afbouwjaar maximaal 50% bedraagt van het subsidiebedrag genoemd in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.5&z=2024-08-31&g=2024-08-31).
+1. Indien toepassing wordt gegeven aan [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2025-08-06&g=2025-08-06), kan de minister de subsidieaanvraag van de reeds gesubsidieerde pg-organisatie verlenen onder de voorwaarde dat de instellingssubsidie in een periode van twee jaar wordt afgebouwd, waarbij de instellingssubsidie in het eerste afbouwjaar maximaal 75% en in het tweede afbouwjaar maximaal 50% bedraagt van het subsidiebedrag genoemd in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.5&z=2025-08-06&g=2025-08-06).
 
 2. Indien de situatie, als bedoeld in het eerste lid, zich voordoet, wordt er in de vier jaar na bovengenoemde verlening geen instellingssubsidie op grond van de onderhavige regeling verstrekt aan de reeds gesubsidieerde pg-organisatie, bedoeld in het eerste lid.
 
 ##### Artikel 2.5. Subsidiebedrag
 
-1. De instellingssubsidie, bedoeld in hoofdstuk 2, bedraagt ten hoogste € 78.150 per aanvrager.
+1. De instellingssubsidie, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&z=2025-08-06&g=2025-08-06), bedraagt ten hoogste € 80.985 per aanvrager.
 
 2. In afwijking van het eerste lid bedraagt de instellingssubsidie voor
 
-- a. een reeds gesubsidieerde pg-organisatie die is ontstaan uit een fusie ten hoogste € 62.520 per bij de fusie betrokken pg-organisatie; of
+- a. een reeds gesubsidieerde pg-organisatie die is ontstaan uit een fusie ten hoogste € 64.790 per bij de fusie betrokken pg-organisatie; of
 
-- b. een pg-organisatie ontstaan uit een fusie van twee of meer reeds gesubsidieerde pg-organisaties ten hoogste € 62.520 per bij de fusie betrokken reeds gesubsidieerde pg-organisatie.
+- b. een pg-organisatie ontstaan uit een fusie van twee of meer reeds gesubsidieerde pg-organisaties ten hoogste € 64.790 per bij de fusie betrokken reeds gesubsidieerde pg-organisatie.
 
 ##### Artikel 2.6. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor hoofdstuk 2 bedraagt voor het kalenderjaar 2024 € 17.500.000.
+1. Het subsidieplafond voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2024 € 17.500.000.
 
-2. Het subsidieplafond voor hoofdstuk 2 bedraagt voor het kalenderjaar 2025 € 19.700.000.
+2. Het subsidieplafond voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2025 € 18.060.000.
 
-3. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag over de reeds gesubsidieerde pg-organisaties en de nieuwe toetreders, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2024-08-31&g=2024-08-31), op volgorde van ontvangst van de aanvragen.
+3. Het subsidieplafond voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2026 € 19.700.000.
 
-4. Indien na toepassing van het tweede lid het uit hoofde van het subsidieplafond beschikbare bedrag niet wordt uitgeput, verdeelt de minister het restant over de nieuwe toetreders, genoemd in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2024-08-31&g=2024-08-31), op volgorde van ontvangst van de aanvragen.
+4. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag over de reeds gesubsidieerde pg-organisaties en de nieuwe toetreders, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2025-08-06&g=2025-08-06), op volgorde van ontvangst van de aanvragen.
+
+5. Indien na toepassing van het vierde lid het uit hoofde van het subsidieplafond beschikbare bedrag niet wordt uitgeput, verdeelt de minister het restant over de nieuwe toetreders, genoemd in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.3&z=2025-08-06&g=2025-08-06), op volgorde van ontvangst van de aanvragen.
+
+6. Indien het subsidieplafond voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&z=2025-08-06&g=2025-08-06) in het betreffende kalenderjaar niet wordt bereikt, kan de minister het resterende bedrag van het subsidieplafond in hetzelfde kalenderjaar beschikbaar stellen ten behoeve van het subsidieplafond voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=3&z=2025-08-06&g=2025-08-06), genoemd in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=3&artikel=3.3&z=2025-08-06&g=2025-08-06).
 
 ##### Artikel 2.7. Aanvraag tot subsidieverlening
 
 1. De aanvraag tot verlening van de instellingssubsidie kan jaarlijks worden ingediend in de periode van de tweede maandag van september om 9:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd tot en met de eerste maandag van oktober om 17:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
-2. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
+2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-3. Op verzoek van de minister gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van een geanonimiseerde leden- of donateursadministratie.
+3. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-4. Indien de instellingssubsidie zal worden aangewend voor het uitbesteden van backoffice taken gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van:
+4. Op verzoek van de minister gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van een geanonimiseerde leden- of donateursadministratie.
+
+5. Indien de instellingssubsidie zal worden aangewend voor het uitbesteden van backoffice taken gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van:
 
 - a. het nummer van de Kamer van de Koophandel van de partij of partijen die de backoffice taken voor de pg-organisatie gaat of gaan uitvoeren;
 
@@ -200,11 +216,11 @@ De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan ee
 
 - d. indien de pg-organisatie lid is van een federatief samenwerkingswerkingsverband, een verklaring dat er geen sprake is van dubbelfinanciering voor het verrichten of uitbesteden van backoffice taken.
 
-5. In aanvulling op [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) en [8.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.3) gaat de aanvraag van een nieuwe toetreder, die een pg-organisatie is als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.2&z=2024-08-31&g=2024-08-31), vergezeld van wetenschappelijke documentatie van een medische beroepsgroep waaruit blijkt dat de ziekte, beperking, handicap of psychische kwetsbaarheid die niet is omschreven in de ICD of in de DSM, als voldoende eigenstandig onderscheiden kan worden en op weg is naar internationale erkenning.
+6. In aanvulling op [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) en [8.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.3) gaat de aanvraag van een nieuwe toetreder, die een pg-organisatie is als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.2&z=2025-08-06&g=2025-08-06), vergezeld van wetenschappelijke documentatie van een medische beroepsgroep waaruit blijkt dat de ziekte, beperking, handicap of psychische kwetsbaarheid die niet is omschreven in de ICD of in de DSM, als voldoende eigenstandig onderscheiden kan worden en op weg is naar internationale erkenning.
 
-6. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
+7. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
 
-7. Indien de subsidie voor het verrichten of uitbesteden van backoffice taken meer dan 20% van het door de pg-organisatie totaal aangevraagde subsidiebedrag bedraagt, dan gaat de aanvraag vergezeld van een de-minimisverklaring.
+8. Indien de subsidie voor het verrichten of uitbesteden van backoffice taken meer dan 20% van het door de pg-organisatie totaal aangevraagde subsidiebedrag bedraagt, dan gaat de aanvraag vergezeld van een de-minimisverklaring.
 
 ##### Artikel 2.8. Subsidieverplichtingen
 
@@ -212,19 +228,15 @@ De minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken aan ee
 
 2. De informatievoorziening voor doelgroepen:
 
-- a. wordt op toegankelijke wijze en kosteloos beschikbaar gesteld voor het algemeen publiek;
+- a. wordt op toegankelijke wijze en kosteloos beschikbaar gesteld voor het algemeen publiek; en
 
-- b. is in lijn met de stand van de wetenschap, medische praktijk of collectieve ervaringsdeskundigheid van de doelgroep;
-
-- c. wordt in ieder geval aangeboden in de Nederlandse taal; en
-
-- d. is niet eenzijdig.
+- b. wordt in ieder geval aangeboden in de Nederlandse taal.
 
 ### Hoofdstuk 3. Subsidiestroom 2: Projectsubsidie ter verbetering van impact en bereik van pg-organisaties
 
 ##### Artikel 3.1. Subsidiabele activiteiten
 
-1. Indien een pg-organisatie een instellingsubsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.1&z=2024-08-31&g=2024-08-31) ontvangt, welke niet wordt afgebouwd op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.4&z=2024-08-31&g=2024-08-31), kan de minister tevens eenmalig een projectsubsidie voor de duur van maximaal twee jaar verstrekken voor personele ondersteuning bij de uitvoering van activiteiten ter verbetering van de maatschappelijke impact en het bereik van de pg-organisatie.
+1. Indien een pg-organisatie een instellingsubsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.1&z=2025-08-06&g=2025-08-06) ontvangt, welke niet wordt afgebouwd op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.4&z=2025-08-06&g=2025-08-06), kan de minister tevens eenmalig een projectsubsidie voor de duur van maximaal twee jaar verstrekken voor personele ondersteuning bij de uitvoering van activiteiten ter verbetering van de maatschappelijke impact en het bereik van de pg-organisatie.
 
 2. De activiteiten, bedoeld in het eerste lid, bestaan uit:
 
@@ -248,11 +260,13 @@ De projectsubsidie, bedoeld in hoofdstuk 3, bedraagt ten hoogste € 124.999 per
 
 ##### Artikel 3.3. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor hoofdstuk 3 bedraagt voor het kalenderjaar 2024 € 3.000.000.
+1. Het subsidieplafond voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=3&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2024 € 3.000.000.
 
-2. Het subsidieplafond voor hoofdstuk 3 bedraagt voor het kalenderjaar 2025 € 1.500.000.
+2. Het subsidieplafond voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=3&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2025 € 3.140.000.
 
-3. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van ontvangst van de aanvragen.
+3. Het subsidieplafond voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=3&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2026 € 1.500.000.
+
+4. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van ontvangst van de aanvragen.
 
 ##### Artikel 3.4. Aanvraag tot subsidieverlening
 
@@ -272,11 +286,11 @@ De projectsubsidie, bedoeld in hoofdstuk 3, bedraagt ten hoogste € 124.999 per
 
 De minister kan jaarlijks aan een federatief samenwerkingsverband op aanvraag een instellingssubsidie verstrekken voor ten minste drie van de volgende activiteiten die betrekking hebben op:
 
-- a. aandoeningsoverstijgende belangenbehartiging gericht op de groep aandoeningen die wordt vertegenwoordigd, waaronder het vergaren en inzetten van collectieve ervaringsdeskundigheid;
+- a. collectieve belangenbehartiging gericht op de groep aandoeningen die wordt vertegenwoordigd, waaronder het vergaren en inzetten van collectieve ervaringsdeskundigheid;
 
-- b. aandoeningsoverstijgend lotgenotencontact;
+- b. collectief lotgenotencontact;
 
-- c. aandoeningsoverstijgende informatievoorziening; of
+- c. collectieve informatievoorziening; of
 
 - d. het faciliteren en ondersteunen van de als lid aangesloten pg-organisaties, het bevorderen van inhoudelijke samenwerking of het uitbesteden van backoffice taken ten behoeve van deze pg-organisaties.
 
@@ -286,7 +300,7 @@ Een instellingssubsidie wordt uitsluitend verstrekt aan een federatief samenwerk
 
 - a. zich blijkens de statuten primair en rechtstreeks richt op het ondersteunen van pg-organisaties en hun doelgroepen;
 
-- b. ten minste vijf reeds gesubsidieerde pg-organisaties als lid heeft, van wie de instellingssubsidie niet wordt afgebouwd op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.4&z=2024-08-31&g=2024-08-31);
+- b. ten minste vijf reeds gesubsidieerde pg-organisaties als lid heeft, van wie de instellingssubsidie niet wordt afgebouwd op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=2&artikel=2.4&z=2025-08-06&g=2025-08-06);
 
 - c. per kalenderjaar ten minste:
 
@@ -300,31 +314,37 @@ Een instellingssubsidie wordt uitsluitend verstrekt aan een federatief samenwerk
 
 - f. een overzicht van aangesloten organisaties heeft;
 
-- g. een gedragscode met interne regels voor omgangsvormen heeft.
+- g. een gedragscode met interne regels voor omgangsvormen heeft; en
+
+- h. informatie verstrekt voor doelgroepen die in lijn is met de stand van de wetenschap, medische praktijk of collectieve ervaringsdeskundigheid van de doelgroep en niet eenzijdig is.
 
 ##### Artikel 4.3. Subsidiebedrag
 
-De instellingssubsidie, bedoeld in hoofdstuk 4, bedraagt € 20.840 per aangesloten en reeds gesubsidieerde pg-organisatie, tot een maximum van € 312.600 per federatief samenwerkingsverband.
+De instellingssubsidie, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&z=2025-08-06&g=2025-08-06), bedraagt € 21.760 per aangesloten en reeds gesubsidieerde pg-organisatie, tot een maximum van € 326.400 per federatief samenwerkingsverband.
 
 ##### Artikel 4.4. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor hoofdstuk 4 bedraagt voor het kalenderjaar 2024 € 2.100.000.
+1. Het subsidieplafond voor [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2024 € 2.100.000.
 
-2. Het subsidieplafond voor hoofdstuk 4 bedraagt voor het kalenderjaar 2025 € 2.100.000.
+2. Het subsidieplafond voor [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2025 € 2.100.000.
 
-3. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag voor het boekjaar 2024 over de nieuwe toetreders op volgorde van ontvangst van de aanvragen.
+3. Het subsidieplafond voor [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&z=2025-08-06&g=2025-08-06) bedraagt voor het kalenderjaar 2026 € 2.100.000.
 
-4. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag vanaf het boekjaar 2025 over de reeds gesubsidieerde federatieve samenwerkingsverbanden op volgorde van ontvangst van de aanvragen.
+4. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag voor het boekjaar 2024 over de nieuwe toetreders op volgorde van ontvangst van de aanvragen.
 
-5. Indien na toepassing van het derde lid het uit hoofde van het subsidieplafond beschikbare bedrag niet wordt uitgeput, verdeelt de minister het restant over de nieuwe toetreders op volgorde van ontvangst van de aanvragen.
+5. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag vanaf het boekjaar 2025 over de reeds gesubsidieerde federatieve samenwerkingsverbanden op volgorde van ontvangst van de aanvragen.
+
+6. Indien na toepassing van het derde lid het uit hoofde van het subsidieplafond beschikbare bedrag niet wordt uitgeput, verdeelt de minister het restant over de nieuwe toetreders op volgorde van ontvangst van de aanvragen.
 
 ##### Artikel 4.5. Aanvraag tot subsidieverlening
 
 1. De aanvraag tot verlening van de instellingssubsidie kan jaarlijks worden ingediend in de periode van de tweede maandag van september om 9:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd tot en met de eerste maandag van oktober om 17:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
-2. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
+2. De minister kan vrijstelling of ontheffing verlenen voor de termijn, bedoeld in het eerste lid.
 
-3. Indien de instellingssubsidie zal worden aangewend voor het uitbesteden van backoffice taken gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van:
+3. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
+
+4. Indien de instellingssubsidie zal worden aangewend voor het uitbesteden van backoffice taken gaat de aanvraag in aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) vergezeld van:
 
 - a. het nummer van de Kamer van de Koophandel van de partij of partijen die de backoffice taken voor de pg-organisatie gaat of gaan uitvoeren;
 
@@ -332,19 +352,15 @@ De instellingssubsidie, bedoeld in hoofdstuk 4, bedraagt € 20.840 per aangeslo
 
 - c. een verklaring dat sprake is van marktconformiteit.
 
-4. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
+5. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
 
 ##### Artikel 4.6. Subsidieverplichtingen
 
 De informatievoorziening voor doelgroepen:
 
-- a. wordt op toegankelijke wijze en kosteloos beschikbaar gesteld voor het algemeen publiek;
+- a. wordt op toegankelijke wijze en kosteloos beschikbaar gesteld voor het algemeen publiek; en
 
-- b. is in lijn met de stand van de wetenschap, medische praktijk of collectieve ervaringsdeskundigheid;
-
-- c. wordt in ieder geval aangeboden in de Nederlandse taal; en
-
-- d. is niet eenzijdig.
+- b. wordt in ieder geval aangeboden in de Nederlandse taal.
 
 ### Hoofdstuk 5. Instellingssubsidie voor de drie landelijke pg-koepels
 
@@ -352,9 +368,9 @@ De informatievoorziening voor doelgroepen:
 
 De minister kan jaarlijks aan de landelijke pg-koepels op aanvraag een instellingssubsidie verstrekken voor activiteiten die betrekking hebben op:
 
-- a. collectieve aandoeningsoverstijgende belangenbehartiging;
+- a. collectieve belangenbehartiging;
 
-- b. aandoeningsoverstijgende informatievoorziening;
+- b. informatievoorziening;
 
 - c. bevorderen van de ontwikkeling en inzet van collectieve ervaringsdeskundigheid alsmede het realiseren van een infrastructuur ter ontsluiting daarvan; en
 
@@ -362,21 +378,23 @@ De minister kan jaarlijks aan de landelijke pg-koepels op aanvraag een instellin
 
 ##### Artikel 5.2. Subsidiebedrag
 
-De instellingssubsidie, bedoeld in hoofdstuk 5, bedraagt jaarlijks voor:
+De instellingssubsidie, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=5&z=2025-08-06&g=2025-08-06), bedraagt jaarlijks voor:
 
-- a. MIND maximaal € 1.969.180,68;
+- a. MIND maximaal € 2.061.585;
 
-- b. Patiëntenfederatie Nederland maximaal € 2.600.044,62; en
+- b. Patiëntenfederatie Nederland maximaal € 2.724.284,43; en
 
-- c. Ieder(in) maximaal € 3.881.484,06.
+- c. Ieder(in) maximaal € 4.067.524,05.
 
 ##### Artikel 5.3. Aanvraag tot subsidieverlening
 
 1. De aanvraag tot verlening van de instellingssubsidie kan jaarlijks worden ingediend in de periode van de tweede maandag van september om 9:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd tot en met de eerste maandag van oktober om 17:00 uur van het boekjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
-2. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
+2. De minister kan vrijstelling of ontheffing verlenen voor de termijn, bedoeld in het eerste lid.
 
-3. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
+3. Voor de aanvraag tot verlening van de instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
+
+4. De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de verlening van de instellingssubsidie.
 
 ##### Artikel 5.4. Subsidieverplichtingen
 
@@ -416,15 +434,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een instellingssubsidie aan een nieuwe toetreder wordt uitsluitend verstrekt indien:
 
-- a. deze gedurende ministens 12 maanden voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, activiteiten als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.1&z=2024-08-31&g=2024-08-31) heeft ontplooid zonder subsidie op grond van deze regeling; en
+- a. deze gedurende ministens 12 maanden voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, activiteiten als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.1&z=2025-08-06&g=2025-08-06) heeft ontplooid zonder subsidie op grond van deze regeling; en
 
-- b. er geen reeds gesubsidieerd federatief samenwerkingsverband is dat zich richt op eenzelfde thema of onderwerp voor dezelfde doelgroep.
+- b. er geen reeds gesubsidieerd federatief samenwerkingsverband is dat zich richt op eenzelfde onderwerp voor dezelfde doelgroep.
 
 2. In afwijking van het eerste lid, onder b, kan de minister een instellingssubsidie verstrekken aan een nieuwe toetreder indien deze op 1 september voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft over 50% meer reeds gesubsidieerde pg-organisaties beschikt dan het reeds gesubsidieerde federatieve samenwerkingsverband.
 
 ##### Artikel 4.2b. Afbouw reeds gesubsidieerde federatieve samenwerkingsverbanden
 
-1. Indien toepassing wordt gegeven aan [artikel 4.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.2a&z=2024-08-31&g=2024-08-31), kan de minister de subsidieaanvraag van het reeds gesubsidieerde federatieve samenwerkingsverband verlenen onder de voorwaarde dat de instellingssubsidie in een periode van twee jaar wordt afgebouwd, waarbij de instellingssubsidie in het eerste afbouwjaar maximaal 75% en in het tweede afbouwjaar maximaal 50% bedraagt van het subsidiebedrag genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.3&z=2024-08-31&g=2024-08-31).
+1. Indien toepassing wordt gegeven aan [artikel 4.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.2a&z=2025-08-06&g=2025-08-06), kan de minister de subsidieaanvraag van het reeds gesubsidieerde federatieve samenwerkingsverband verlenen onder de voorwaarde dat de instellingssubsidie in een periode van twee jaar wordt afgebouwd, waarbij de instellingssubsidie in het eerste afbouwjaar maximaal 75% en in het tweede afbouwjaar maximaal 50% bedraagt van het subsidiebedrag genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.3&z=2025-08-06&g=2025-08-06).
 
 2. Indien de situatie, als bedoeld in het eerste lid, zich voordoet, wordt er in de vier jaar na bovengenoemde verlening geen instellingssubsidie op grond van de onderhavige regeling verstrekt aan het reeds gesubsidieerde federatieve samenwerkingsverband, bedoeld in het eerste lid.
 
