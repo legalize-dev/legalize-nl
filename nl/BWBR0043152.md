@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2023-11-01"
+last_updated: "2025-08-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -66,6 +66,8 @@ Besluit:
 
 - iv. Bekostiging Subsidies en Vorderingenbeheer;
 
+- v. staf;
+
 - h. **LO-Plein:** de afdeling Leer- en Ontwikkelplein;
 
 - i. **directeur:** de directeur van de directie DSU;
@@ -80,7 +82,9 @@ Besluit:
 
 - n. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
 
-- o. **Europese fondsen:** in ieder geval het Europees Sociaal Fonds plus (ESF en ESF+), het Fonds voor asiel, migratie en integratie (AMIF), het Fonds voor interne veiligheid (ISF), het Fonds voor geïntegreerd grensbeheer van het Instrument voor financiële steun voor grensbeheer en visumbeleid (BMVI), het Europees Globalisering Fonds (EGF), het Just Transition Fund (JTF) en het Europees Fonds voor de meest behoeftigen (EFMB).
+- o. **Europese fondsen:** in ieder geval het Europees Sociaal Fonds plus (ESF en ESF+), het Fonds voor asiel, migratie en integratie (AMIF), het Fonds voor interne veiligheid (ISF), het Fonds voor geïntegreerd grensbeheer van het Instrument voor financiële steun voor grensbeheer en visumbeleid (BMVI), het Europees Globalisering Fonds (EGF), het Just Transition Fund (JTF) en het Europees Fonds voor de meest behoeftigen (EFMB);
+
+- p. **kasbeheerder:** een functionaris die het kasbeheer verzorgt.
 
 #### § 2. Organisatie
 
@@ -188,9 +192,11 @@ Het hoofd FDC is verantwoordelijk voor:
 
 - b. het opstellen van de financiële verantwoordingsinformatie voor de aangesloten ministeries;
 
-- c. het verzorgen van het functioneel- en applicatiebeheer van het financiële systeem van het SAP HANA;
+- c. het verzorgen van het functioneel- en applicatiebeheer van het financiële systeem;
 
-- d. het financieel administratief ondersteunen van beleidsdirecties van de Ministeries van SZW en BZK op het gebied van bekostiging van en/of de subsidieverlening aan gemeenten en ZBO’s overige externe organisaties op basis van wet- en regelgeving.
+- d. het financieel administratief ondersteunen van beleidsdirecties van de ministeries van SZW, VRO en BZK op het gebied van bekostiging van en/of de subsidieverlening aan gemeenten en ZBO’s, overige externe organisaties op basis van wet- en regelgeving;
+
+- e. het verzorgen van het kas- en autorisatiebeheer en het fungeren als beheerder van de administratieve organisatie (ao) en interne controle (ic), een en ander voor zover het andere verantwoordelijkheden betreft dan die van de kasbeheerders als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=3&artikel=8a&z=2025-08-13&g=2025-08-13).
 
 ##### Artikel 9
 
@@ -224,7 +230,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2023-11-01&g=2023-11-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2025-08-13&g=2025-08-13) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
