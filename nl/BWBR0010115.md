@@ -4,7 +4,7 @@ identifier: "BWBR0010115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-14"
-last_updated: "2025-06-06"
+last_updated: "2025-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010115"
 soort: "ministeriele-regeling"
@@ -49,33 +49,33 @@ Besluit:
 
 - 1°. Minister,
 
-- 2°. een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-06-06&g=2025-06-06) bij deze regeling erkende instantie, of
+- 2°. een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-08-14&g=2025-08-14) bij deze regeling erkende instantie, of
 
 - 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie;
 
 - c. **ADN:** Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN).
 
-2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-06-06&g=2025-06-06), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-06-06&g=2025-06-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-06-06&g=2025-06-06), voor zover daarin niet anders is bepaald.
+2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-08-14&g=2025-08-14), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-08-14&g=2025-08-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-08-14&g=2025-08-14), voor zover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 1. Bij deze regeling behoren de volgende bijlagen:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06): voorschriften betreffende het vervoer van gevaarlijke stoffen over de binnenwateren, zijnde de Nederlandse vertaling van het ADN en de daarvan deel uitmakende bijlagen;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14): voorschriften betreffende het vervoer van gevaarlijke stoffen over de binnenwateren, zijnde de Nederlandse vertaling van het ADN en de daarvan deel uitmakende bijlagen;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-06-06&g=2025-06-06): Regeling vervoer gevaarlijke stoffen met zeeschepen;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-08-14&g=2025-08-14): Regeling vervoer gevaarlijke stoffen met zeeschepen;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-06-06&g=2025-06-06): voorschriften in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06);
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-08-14&g=2025-08-14): voorschriften in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14);
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-06-06&g=2025-06-06): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2025-06-06&g=2025-06-06).
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2025-08-14&g=2025-08-14): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2025-08-14&g=2025-08-14).
 
-2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) is van toepassing op de binnenwateren, voor zover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-06-06&g=2025-06-06) niet van toepassing is.
+2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) is van toepassing op de binnenwateren, voor zover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-08-14&g=2025-08-14) niet van toepassing is.
 
-3. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-06-06&g=2025-06-06) zijn niet van toepassing op handelingen, genoemd in [artikel 3B.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.1).
+3. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2025-08-14&g=2025-08-14) zijn niet van toepassing op handelingen, genoemd in [artikel 3B.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.1).
 
 ##### Artikel 3
 
-Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
+Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
 ##### Artikel 4
 
@@ -83,13 +83,13 @@ Vervallen
 
 ##### Artikel 5
 
-1. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-06-06&g=2025-06-06) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+1. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-08-14&g=2025-08-14) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-2. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-06-06&g=2025-06-06) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+2. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2025-08-14&g=2025-08-14) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ##### Artikel 6
 
-[Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) wordt bekendgemaakt op [https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat).
+[Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) wordt bekendgemaakt op [https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat).
 
 ##### Artikel 7
 
@@ -99,7 +99,7 @@ Deze regeling treedt in werking op 1 januari 1999.
 
 Deze regeling wordt aangehaald als: Regeling vervoer over de binnenwateren van gevaarlijke stoffen.
 
-## Bijlage 1. als bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-06-06&g=2025-06-06), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=3&z=2025-06-06&g=2025-06-06) van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+## Bijlage 1. als bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-08-14&g=2025-08-14), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=3&z=2025-08-14&g=2025-08-14) van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
 Gepubliceerd op https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat.
 
@@ -300,11 +300,11 @@ Bij het uitoefenen van zijn bevoegdheden als bedoeld in artikel 1 van deze bijla
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-06-06&g=2025-06-06), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-08-14&g=2025-08-14), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
 ##### Artikel 1
 
-De bepalingen van deze bijlage zijn van toepassing op vervoer van gevaarlijke stoffen over de binnenwateren en hebben voorrang boven de bepalingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06).
+De bepalingen van deze bijlage zijn van toepassing op vervoer van gevaarlijke stoffen over de binnenwateren en hebben voorrang boven de bepalingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14).
 
 ##### Artikel 2
 
@@ -346,7 +346,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 1a. Multilaterale overeenkomsten
 
-1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06), die door Nederland zijn ondertekend.
+1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14), die door Nederland zijn ondertekend.
 
 2. Bij het vervoer dat voldoet aan de in het eerste lid bedoelde multilaterale overeenkomsten worden de voorschriften met betrekking tot het vervoer in acht genomen die in deze overeenkomst zijn opgenomen.
 
@@ -374,11 +374,11 @@ Op het vervoer van gevaarlijke stoffen op de Westerschelde en haar mondingen, op
 
 1. Duwstellen, waarvan de afmetingen 195 bij 24 meter overschrijden, mogen geen tankschepen bevatten, die gevaarlijke goederen vervoeren of niet ontgast zijn.
 
-2. Stoffen of voorwerpen, bedoeld in randnummer 7.1.5.1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) mogen slechts dan met duwstellen of gekoppelde samenstellen worden vervoerd indien de afmetingen ervan niet groter zijn dan 195 bij 24 meter. Tijdelijk voorspan is echter toegestaan.
+2. Stoffen of voorwerpen, bedoeld in randnummer 7.1.5.1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) mogen slechts dan met duwstellen of gekoppelde samenstellen worden vervoerd indien de afmetingen ervan niet groter zijn dan 195 bij 24 meter. Tijdelijk voorspan is echter toegestaan.
 
 ##### Artikel 6. Bewaartermijn opleidingsdossiers
 
-De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
+De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
 
 ##### Artikel 7. Vervoerdocument
 
@@ -396,11 +396,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8. Uitzondering verplichting veiligheidsadviseur
 
-De voorschriften onder randnummer 1.8.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) zijn niet van toepassing op ondernemingen als bedoeld in randnummer 1.8.3.2.
+De voorschriften onder randnummer 1.8.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) zijn niet van toepassing op ondernemingen als bedoeld in randnummer 1.8.3.2.
 
-## Bijlage 4. als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-06-06&g=2025-06-06), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+## Bijlage 4. als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2025-08-14&g=2025-08-14), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
-In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-06-06&g=2025-06-06) voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
+In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2025-08-14&g=2025-08-14) voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
 
 ### Artikel 3
 
