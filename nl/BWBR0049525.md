@@ -4,7 +4,7 @@ identifier: "BWBR0049525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2025-07-01"
+last_updated: "2025-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049525"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- **nationale sportbond:** organisatie die voldoet aan de voorwaarden van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=2&z=2024-06-19&g=2025-07-01);
+- **nationale sportbond:** organisatie die voldoet aan de voorwaarden van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=2&z=2025-08-16&g=2025-08-16);
 
 - **Nationale Topsportevenementen Strategie 2021–2030:** gezamenlijke evenementenstrategie, ontwikkeld door de Minister, NOC*NSF en Vereniging Sport en Gemeenten;
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - c. is erkend als vertegenwoordiger van zijn tak van sport en is aangesloten bij NOC*NSF en de Internationale Federatie van de betreffende tak van sport, tenzij het een nieuwe tak van sport betreft, waarvan de sportbond nog niet is aangesloten bij NOC*NSF
 
-3. De Minister verstrekt per tak van sport hoogstens eens per drie jaar subsidie voor een topsportevenement met als deelnemers:
+3. De Minister verstrekt per tak van sport subsidie voor een topsportevenement met als deelnemers:
 
 - a. mannen in de categorie senioren zonder handicap;
 
@@ -112,7 +112,7 @@ Een topsportevenement is een evenement dat:
 
 - e. gericht is op:
 
-- 1°. een tak van sport die is opgenomen in de lijst topsport- en internationale wedstrijdsportdisciplines gehanteerd door NOC*NSF; of
+- 1°. een tak van sport die is opgenomen in de lijst indeling topsportdisciplines 2025–2028 gehanteerd door NOC*NSF; of
 
 - 2°. het leveren van een bijdrage aan de ontwikkeling van een nieuwe tak van sport of nieuwe vormen van een bestaande tak van sport;
 
@@ -140,11 +140,17 @@ Een topsportevenement is een evenement dat:
 
 - a. dat deel uitmaakt van een jaarlijkse reeks;
 
-- b. waarvan de eigendomsrechten niet liggen bij een internationale sportfederatie die erkend is door het Internationaal Olympisch Comité of het Internationaal Paralympisch Comité; of
+- b. waarvan de eigendomsrechten niet liggen bij een internationale sportfederatie die erkend is door het Internationaal Olympisch Comité of het Internationaal Paralympisch Comité;
 
-- c. waarbij op voorhand vaststaat dat er geen Nederlands team of Nederlandse individuele deelnemers in actie komen.
+- c. waarbij op voorhand vaststaat dat er geen Nederlands team of Nederlandse individuele deelnemers in actie komen;
 
-2. De subsidie wordt uitsluitend verstrekt als de aanvrager met de Staat een overeenkomst sluit waarbij de Staat de aanvrager belast met en de aanvrager zich verplicht tot het verrichten van de dienst van algemeen economisch belang.
+- d. dat aanvangt voordat drie jaar zijn verstreken gerekend vanaf de startdatum van het voorgaande evenement voor dezelfde categorie deelnemers in dezelfde tak van sport, genoemd in artikel 2, derde lid, onder a tot en met h; of
+
+- e. dat niet past binnen het topsportbeleid van de betreffende nationale sportbond.
+
+2. In afwijking van het eerste lid, onderdeel d, kan de Minister op verzoek van de subsidieontvanger toestemming verlenen om tot 31 dagen voor het verstrijken van de genoemde termijn met het evenement te starten.
+
+3. De subsidie wordt uitsluitend verstrekt als de aanvrager met de Staat een overeenkomst sluit waarbij de Staat de aanvrager belast met en de aanvrager zich verplicht tot het verrichten van de dienst van algemeen economisch belang.
 
 ##### Artikel 5. Subsidieplafond
 
@@ -152,7 +158,13 @@ Een topsportevenement is een evenement dat:
 
 2. Het subsidieplafond bedraagt voor het kalenderjaar 2024 € 4,7 miljoen.
 
-3. Het subsidieplafond bedraagt voor de kalenderjaren 2025 tot en met 2028 jaarlijks € 9,1 miljoen.
+3. Het subsidieplafond bedraagt:
+
+- a. voor de kalenderjaren 2025 en 2026: jaarlijks € 10,5 miljoen;
+
+- b. voor het kalenderjaar 2027: € 11 miljoen; en
+
+- c. voor het kalenderjaar 2028: € 10,3 miljoen.
 
 4. De Minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
 
@@ -168,17 +180,21 @@ De volgende kosten komen niet voor subsidie in aanmerking:
 
 ##### Artikel 7. Subsidiebedrag
 
-De subsidie bedraagt voor de organisatie van een topsportevenement met als deelnemers:
+De subsidie bedraagt voor de organisatie van een topsportevenement met als categorie deelnemers:
 
-- a. senioren zonder handicap: ten hoogste 25% van de totale subsidiabele kosten, tot ten hoogste € 2,5 miljoen;
+- a. talenten zonder handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 2 miljoen;
 
-- b. talenten zonder handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 2 miljoen;
+- b. senioren zonder handicap: ten hoogste 25% van de totale subsidiabele kosten, tot ten hoogste € 2,5 miljoen;
 
-- c. talenten of senioren met een handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 3 miljoen;
+- c. talenten met een handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 2,5 miljoen;
 
-- d. zowel talenten met een handicap als talenten zonder een handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 2,5 miljoen; of
+- d. senioren met een handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 3 miljoen;
 
-- e. zowel senioren met een handicap als senioren zonder een handicap: ten hoogste 50% van de subsidiabele kosten voor het deel voor senioren met een handicap en ten hoogste 25% van de subsidiabele kosten voor het deel voor senioren zonder een handicap, tot ten hoogste € 3 miljoen.
+- e. een combinatie van talenten zonder handicap met talenten met een handicap: ten hoogste 50% van de totale subsidiabele kosten, tot ten hoogste € 2,5 miljoen;
+
+- f. een combinatie van senioren zonder handicap met talenten: ten hoogste 25% van de subsidiabele kosten voor het deel voor senioren zonder handicap en ten hoogste 50% van de subsidiabele kosten voor het deel voor talenten, tot ten hoogste € 2,5 miljoen;
+
+- g. een combinatie anders dan de in de onderdelen e en f genoemde: ten hoogste 25% van de subsidiabele kosten voor het deel voor senioren zonder een handicap en ten hoogste 50% van de subsidiabele kosten voor het deel voor senioren met een handicap en talenten, tot ten hoogste € 3 miljoen.
 
 ##### Artikel 8. Aanvraagtermijn
 
@@ -212,9 +228,11 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als deeln
 
 - b. de financiële haalbaarheid van het topsportevenement, waarbij wordt vermeld en toegelicht welke acties de aanvrager heeft ondernomen om de kosten voor de organisatie van het topsportevenement te dekken vanuit een eigen bijdrage of een bijdrage van derden;
 
-- c. de maatschappelijke waarde, met een beschrijving van de relatie met de Nationale Topsportevenementen Strategie 2021–2030 en de manier waarop het topsportevenement gebruikt wordt voor maatschappelijke of economische vraagstukken, en een toelichting op de onderdelen, bedoeld in [artikel 3, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=3&z=2024-06-19&g=2025-07-01); en
+- c. de maatschappelijke waarde, met een beschrijving van de relatie met de Nationale Topsportevenementen Strategie 2021–2030 en de manier waarop het topsportevenement gebruikt wordt voor maatschappelijke of economische vraagstukken, en een toelichting op de onderdelen, bedoeld in [artikel 3, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0049525&artikel=3&z=2025-08-16&g=2025-08-16); en
 
-- d. hoe het evenement past in het strategisch kader topsport 2032 en in het topsportbeleid van de nationale sportbond.
+- d. hoe het evenement past in het strategisch kader topsport 2032;
+
+- e. hoe het evenement past in het topsportbeleid van de nationale sportbond, onderbouwd met actuele documentatie van de sportbond.
 
 3. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag vergezeld van een door de aanvrager ondertekende overeenkomst als bedoeld in artikel 4, tweede lid.
 
