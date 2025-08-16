@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2025-04-23"
+last_updated: "2025-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 2
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, dan wel over te dragen aan, daaronder begrepen over te brengen naar, gewapende groepen en daarmee geassocieerde personen die in de Centraal-Afrikaanse Republiek actief zijn, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+Vervallen
 
 ##### Artikel 3
 
