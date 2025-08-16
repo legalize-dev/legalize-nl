@@ -4,7 +4,7 @@ identifier: "BWBR0047743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2025-04-23"
+last_updated: "2025-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047743"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder **Verordening (EU) 2022/2309**: [Verordeni
 
 ##### Artikel 3
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, dan wel over te dragen aan, daaronder begrepen over te brengen naar, personen of entiteiten in Haïti ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+Vervallen
 
 ##### Artikel 4
 
