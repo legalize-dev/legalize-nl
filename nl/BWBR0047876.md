@@ -4,7 +4,7 @@ identifier: "BWBR0047876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-06-03"
+last_updated: "2025-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047876"
 soort: "ministeriele-regeling"
@@ -72,17 +72,17 @@ In deze regeling wordt verstaan onder:
 
 - **opleidingscoördinator:** een natuurlijke persoon, werkzaam bij de GGD als verantwoordelijke voor de planning, organisatie en kwaliteit van de opleidingen;
 
-- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
+- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
 
-- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
+- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
 
-- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
+- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
 
-- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel samenwerken op bovenregionaal niveau;
+- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), met als doel samenwerken op bovenregionaal niveau;
 
-- **pijler 5a:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel de activiteiten binnen pijler 5b te coördineren en te bevorderen;
+- **pijler 5a:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), met als doel de activiteiten binnen pijler 5b te coördineren en te bevorderen;
 
-- **pijler 5b:** het geheel aan activiteiten, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
+- **pijler 5b:** het geheel aan activiteiten, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
 
 - **pijler 6:** activiteiten die worden uitgevoerd door een GGD ten behoeve van de aansluiting van de GGD op de LFI;
 
@@ -160,11 +160,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Hoogte van de uitkering
 
-De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2025-06-03&g=2025-06-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2025-06-03&g=2025-06-03) bij deze regeling.
+De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2025-08-21&g=2025-08-21) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2025-08-21&g=2025-08-21) bij deze regeling.
 
 ##### Artikel 5. Aanvraag tot verlening
 
-1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03), wordt op aanvraag verstrekt.
+1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21), wordt op aanvraag verstrekt.
 
 2. Voor de aanvraag tot verlening van een uitkering wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -178,11 +178,11 @@ De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 20
 
 2. De minister geeft ambtshalve een beschikking tot verlening van een uitkering als bedoeld in:
 
-- a. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 17 mei 2024;
+- a. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21): uiterlijk 17 mei 2024;
 
-- b. [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 28 februari 2025;
+- b. [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21): uiterlijk 28 februari 2025;
 
-- c. [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-06-03&g=2025-06-03): uiterlijk 27 februari 2026.
+- c. [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-08-21&g=2025-08-21): uiterlijk 27 februari 2026.
 
 3. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
@@ -204,7 +204,7 @@ De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 20
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2025-06-03&g=2025-06-03), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2025-08-21&g=2025-08-21), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -265,7 +265,7 @@ Hieronder staan twee tabellen met een lijst van het maximale uitkeringsbedrag da
 |   | Pijler 5a | Pijler 5a | Pijler 5b |
 | --- | --- | --- | --- |
 |   | Uitkering voor het jaar 2023 | Uitkering voor het jaar 2024 | Uitkering voor de periode van 2023 t/m 2025 |
-| Regio Utrecht | € 132.000 | € 132.000 | € 14.212.920 |
+| Regio Utrecht | € 132.000 | € 132.000 | € 14.476.920 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
