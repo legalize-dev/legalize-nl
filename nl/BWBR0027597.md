@@ -4,7 +4,7 @@ identifier: "BWBR0027597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-21"
-last_updated: "2024-06-01"
+last_updated: "2025-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027597"
 soort: "ministeriele-regeling"
@@ -122,13 +122,13 @@ In deze regeling wordt verstaan onder:
 
 1. De artikelen van dit hoofdstuk zijn uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) of [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c).
 
-2. [Paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&z=2024-06-01&g=2024-06-01) is niet van toepassing op de verstrekking van subsidies op grond van [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c).
+2. [Paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&z=2025-08-21&g=2025-08-21) is niet van toepassing op de verstrekking van subsidies op grond van [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c).
 
 #### § 2.2. Subsidieaanvraag
 
 ##### Artikel 2.2. Aanvraagtermijnen
 
-Om in aanmerking te komen voor subsidie, dient de instelling overeenkomstig de aanvraagtermijn in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&z=2024-06-01&g=2024-06-01) een subsidieaanvraag in.
+Om in aanmerking te komen voor subsidie, dient de instelling overeenkomstig de aanvraagtermijn in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&z=2025-08-21&g=2025-08-21) een subsidieaanvraag in.
 
 ##### Artikel 2.3. In te dienen documenten
 
@@ -206,7 +206,7 @@ De minister beslist op de aanvraag voor subsidie binnen 40 weken na afloop van d
 
 4. De liquiditeitsbehoefte, bedoeld in het derde lid, volgt uit documenten van de aanvrager, dan wel wordt ambtshalve vastgesteld door de minister.
 
-5. Indien de subsidie wordt gewijzigd op grond van [artikel 2.10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2024-06-01&g=2024-06-01), wordt de bevoorschotting overeenkomstig de wijziging aangepast.
+5. Indien de subsidie wordt gewijzigd op grond van [artikel 2.10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2025-08-21&g=2025-08-21), wordt de bevoorschotting overeenkomstig de wijziging aangepast.
 
 #### § 2.4. Verplichtingen van de subsidieontvanger
 
@@ -250,11 +250,13 @@ De subsidieontvanger zorgt ervoor dat de werkzaamheden op een zodanige manier wo
 
 4. Het beknopte kwantitatieve activiteitenoverzicht heeft betrekking op de activiteiten die zijn verricht in het jaar waarop het bestuursverslag betrekking heeft.
 
-5. Op het bestuursverslag en het beknopte kwantitatieve activiteitenoverzicht is [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2024-06-01&g=2024-06-01) van toepassing. Het bestuur van de subsidieontvanger ondertekent het bestuursverslag.
+5. Op het bestuursverslag en het beknopte kwantitatieve activiteitenoverzicht is [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2025-08-21&g=2025-08-21) van toepassing. Het bestuur van de subsidieontvanger ondertekent het bestuursverslag.
 
-6. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2024-06-01&g=2024-06-01), [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2024-06-01&g=2024-06-01) van toepassing.
+6. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2025-08-21&g=2025-08-21), [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2025-08-21&g=2025-08-21) van toepassing.
 
-7. In afwijking van het eerste lid dient de ontvanger van een subsidie die wordt verstrekt op grond van [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.26&z=2024-06-01&g=2024-06-01), na het eerste, tweede en derde jaar van de periode waarvoor subsidie is verleend, over het betreffende jaar, uiterlijk op 30 april van het daarop volgende jaar een activiteitenverslag en een financieel verslag in. De [artikelen 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.11&z=2024-06-01&g=2024-06-01), en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2024-06-01&g=2024-06-01) zijn van overeenkomstige toepassing.
+7. In afwijking van het eerste lid dient de ontvanger van een subsidie die wordt verstrekt op grond van [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2025-08-21&g=2025-08-21), na het eerste, tweede en derde jaar van de periode waarvoor subsidie is verleend, over het betreffende jaar, uiterlijk op 30 april van het daarop volgende jaar een activiteitenverslag en een financieel verslag in. De [artikelen 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.11&z=2025-08-21&g=2025-08-21), en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2025-08-21&g=2025-08-21) zijn van overeenkomstige toepassing.
+
+8. De indiening van de stukken, bedoeld in het eerste lid, geschiedt op een door de minister te bepalen elektronische wijze en conform de voorschriften van de handboeken verantwoording cultuursubsidies die de minister op [www.cultuursubsidie.nl](http://www.cultuursubsidie.nl/) beschikbaar heeft gesteld.
 
 ##### Artikel 2.16. Reserveringen
 
@@ -288,7 +290,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 1. De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.
 
-2. Als bij de minister het vermoeden is gerezen dat [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2024-06-01&g=2024-06-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie te overleggen.
+2. Als bij de minister het vermoeden is gerezen dat [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2025-08-21&g=2025-08-21) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie te overleggen.
 
 ##### Artikel 2.21. Code
 
@@ -304,15 +306,19 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 2. Aanvragen die worden ingediend voorafgaand aan de termijn, bedoeld in het eerste lid, worden geacht ontvangen te zijn op de eerste dag van die termijn.
 
+3. De indiening van een aanvraag, als bedoeld in het eerste lid, geschiedt op een door de minister te bepalen elektronische wijze en conform de voorschriften van de handboeken verantwoording cultuursubsidies die de minister op [www.cultuursubsidie.nl](http://www.cultuursubsidie.nl/) beschikbaar heeft gesteld.
+
+4. Het derde lid is niet van toepassing op instellingen die uitsluitend projectsubsidie ontvangen op grond van [artikel 1 van het Besluit op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=1) juncto [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.2&artikel=5.2&z=2025-08-21&g=2025-08-21), van deze regeling.
+
 ##### Artikel 2.23. Aanvraag voor vaststelling van subsidie
 
-1. De aanvraag tot vaststelling van de subsidie gaat vergezeld van een bestuursverslag, een jaarrekening en een beknopt kwantitatief activiteitenoverzicht als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01). Het bestuursverslag geeft een toelichting op het vierde jaar van de subsidie.
+1. De aanvraag tot vaststelling van de subsidie gaat vergezeld van een bestuursverslag, een jaarrekening en een beknopt kwantitatief activiteitenoverzicht als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21). Het bestuursverslag geeft een toelichting op het vierde jaar van de subsidie.
 
-2. Op het bestuursverslag is [artikel 2.15, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01), van overeenkomstige toepassing.
+2. Op het bestuursverslag is [artikel 2.15, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21), van overeenkomstige toepassing.
 
-3. Op het beknopte kwantitatieve activiteitenoverzicht is [artikel 2.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01), van overeenkomstige toepassing.
+3. Op het beknopte kwantitatieve activiteitenoverzicht is [artikel 2.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21), van overeenkomstige toepassing.
 
-4. In afwijking van het eerste lid gaat de aanvraag tot vaststelling van een subsidie die wordt verstrekt op grond van [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.26&z=2024-06-01&g=2024-06-01), vergezeld van een activiteitenverslag en een financieel verslag over het vierde jaar van de periode waarvoor subsidie is verleend. De [artikelen 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.11&z=2024-06-01&g=2024-06-01), en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2024-06-01&g=2024-06-01) zijn van overeenkomstige toepassing.
+4. In afwijking van het eerste lid gaat de aanvraag tot vaststelling van een subsidie die wordt verstrekt op grond van [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.26&z=2025-08-21&g=2025-08-21), vergezeld van een activiteitenverslag en een financieel verslag over het vierde jaar van de periode waarvoor subsidie is verleend. De [artikelen 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.11&z=2025-08-21&g=2025-08-21), en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2025-08-21&g=2025-08-21) zijn van overeenkomstige toepassing.
 
 ##### Artikel 2.24. Aanvraag voor vaststelling van subsidie onder € 125.000
 
@@ -344,9 +350,9 @@ De minister kan modellen vaststellen voor het bestuursverslag, de jaarrekening e
 
 ##### Artikel 2.29. Vaststelling
 
-1. Na ontvangst van de aanvraag tot vaststelling van de subsidie stelt de minister de subsidie binnen 22 weken vast.
+1. Na afloop van de termijn van de aanvraag tot vaststelling van de subsidie, bedoeld in [artikel 2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2025-08-21&g=2025-08-21), stelt de minister de subsidie binnen 22 weken vast.
 
-2. Onverminderd [artikel 4.46, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) kan de subsidie lager worden vastgesteld, indien het percentage of bedrag, bedoeld in [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2024-06-01&g=2024-06-01), wordt overschreden.
+2. Onverminderd [artikel 4.46, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) kan de subsidie lager worden vastgesteld, indien het percentage of bedrag, bedoeld in [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2025-08-21&g=2025-08-21), wordt overschreden.
 
 ##### Artikel 2.30. Terugvordering
 
@@ -366,9 +372,9 @@ De artikelen van dit hoofdstuk zijn uitsluitend van toepassing op de verstrekkin
 
 1. Uiterlijk op 31 januari in het jaar voorafgaand aan de aanvang van de subsidieperiode van vier kalenderjaren worden een begroting en een beleidsplan ingediend.
 
-2. Op de begroting is [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2024-06-01&g=2024-06-01) van overeenkomstige toepassing.
+2. Op de begroting is [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2025-08-21&g=2025-08-21) van overeenkomstige toepassing.
 
-3. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2024-06-01&g=2024-06-01) is van overeenkomstige toepassing bij de indiening van de begroting.
+3. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2025-08-21&g=2025-08-21) is van overeenkomstige toepassing bij de indiening van de begroting.
 
 4. Het beleidsplan wordt opgesteld aan de hand van het voor het desbetreffende fonds door de minister bekendgemaakte beleidskader.
 
@@ -380,7 +386,7 @@ De artikelen van dit hoofdstuk zijn uitsluitend van toepassing op de verstrekkin
 
 2. De minister kan voorschriften verbinden aan het toevoegen of onttrekken van middelen aan het bestemmingsfonds OCW. Hij maakt deze bekend op de website www.cultuursubsidie.nl.
 
-3. Toevoegingen of onttrekkingen aan het bestemmingsfonds OCW worden toegelicht in de documenten, bedoeld in de [artikelen 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01), en [2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2024-06-01&g=2024-06-01).
+3. Toevoegingen of onttrekkingen aan het bestemmingsfonds OCW worden toegelicht in de documenten, bedoeld in de [artikelen 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21), en [2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2025-08-21&g=2025-08-21).
 
 4. Tegelijkertijd met de vaststelling van de subsidie neemt de minister een besluit over de besteding van het bedrag van het bestemmingsfonds OCW.
 
@@ -412,7 +418,7 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 1. Een aanvraag gaat vergezeld van een activiteitenplan en een begroting.
 
-2. Op het activiteitenplan is [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2024-06-01&g=2024-06-01) van overeenkomstige toepassing.
+2. Op het activiteitenplan is [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2025-08-21&g=2025-08-21) van overeenkomstige toepassing.
 
 3. De begroting behelst een overzicht van de geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de activiteiten waarvoor subsidie wordt gevraagd.
 
@@ -420,9 +426,9 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 5. Indien de minister hierom verzoekt, verstrekt de aanvrager tevens een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd.
 
-6. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2024-06-01&g=2024-06-01) is van overeenkomstige toepassing.
+6. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2025-08-21&g=2025-08-21) is van overeenkomstige toepassing.
 
-7. In afwijking van het eerste lid gaat een subsidieaanvraag voor reeds verrichte activiteiten vergezeld van een verslag van de aard, duur en omvang van de gerealiseerde activiteiten en een jaarrekening of financieel verslag. Op de jaarrekening of het financieel verslag zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2024-06-01&g=2024-06-01) en [2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01), onderscheidenlijk [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2024-06-01&g=2024-06-01) van overeenkomstige toepassing.
+7. In afwijking van het eerste lid gaat een subsidieaanvraag voor reeds verrichte activiteiten vergezeld van een verslag van de aard, duur en omvang van de gerealiseerde activiteiten en een jaarrekening of financieel verslag. Op de jaarrekening of het financieel verslag zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2025-08-21&g=2025-08-21) en [2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21), onderscheidenlijk [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2025-08-21&g=2025-08-21) van overeenkomstige toepassing.
 
 #### § 3.2.1. Theater
 
@@ -434,17 +440,17 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 3. Een beschikking tot subsidieverlening vermeldt de activiteiten waarvoor subsidie wordt verleend, het subsidiebedrag en de datum waarop de activiteiten uiterlijk zijn afgerond.
 
-4. Indien de minister op een aanvraag als bedoeld in [artikel 5.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2024-06-01&g=2024-06-01), beslist tot subsidieverstrekking, stelt hij de subsidie zonder voorafgaande verlening vast.
+4. Indien de minister op een aanvraag als bedoeld in [artikel 5.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2025-08-21&g=2025-08-21), beslist tot subsidieverstrekking, stelt hij de subsidie zonder voorafgaande verlening vast.
 
 5. In gevallen waarbij de minister besluit tot subsidieverstrekking zonder daarvoor een financiële of inhoudelijke verantwoording noodzakelijk te achten, kan hij, onverminderd het vierde lid, de subsidie zonder voorafgaande verlening vaststellen.
 
 ##### Artikel 5.5. Weigeringsgronden
 
-[Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2024-06-01&g=2024-06-01) is van overeenkomstige toepassing.
+[Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2025-08-21&g=2025-08-21) is van overeenkomstige toepassing.
 
 ##### Artikel 5.6. Voorschotten en betaling
 
-1. [Artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2024-06-01&g=2024-06-01) is van overeenkomstige toepassing op de bevoorschotting.
+1. [Artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2025-08-21&g=2025-08-21) is van overeenkomstige toepassing op de bevoorschotting.
 
 2. In afwijking van het eerste lid wordt een verleend subsidiebedrag dat minder dan € 25.000 bedraagt bij de subsidieverlening in één keer als voorschot betaald.
 
@@ -452,9 +458,9 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 ##### Artikel 5.7. Overeenkomstige verplichtingen
 
-1. De verplichtingen, bedoeld in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2024-06-01&g=2024-06-01), [2.13, tweede tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2024-06-01&g=2024-06-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2024-06-01&g=2024-06-01) en [2.17 tot en met 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2024-06-01&g=2024-06-01), zijn van overeenkomstige toepassing op de ontvanger van een verleende subsidie die € 25.000 of meer bedraagt.
+1. De verplichtingen, bedoeld in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2025-08-21&g=2025-08-21), [2.13, tweede tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2025-08-21&g=2025-08-21), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2025-08-21&g=2025-08-21) en [2.17 tot en met 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2025-08-21&g=2025-08-21), zijn van overeenkomstige toepassing op de ontvanger van een verleende subsidie die € 25.000 of meer bedraagt.
 
-2. De minister kan bij de verlening van een subsidie die € 25.000 of meer bedraagt, [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2024-06-01&g=2024-06-01) toepassen.
+2. De minister kan bij de verlening van een subsidie die € 25.000 of meer bedraagt, [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2025-08-21&g=2025-08-21) toepassen.
 
 ##### Artikel 5.8. Publicaties en auteursrecht
 
@@ -472,21 +478,21 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 3. De subsidieontvanger doet onverwijld een melding aan de minister, indien aannemelijk is dat:
 
-- a. de activiteiten waarvoor de subsidie is verleend, niet voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2024-06-01&g=2024-06-01), zijn verricht; of
+- a. de activiteiten waarvoor de subsidie is verleend, niet voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2025-08-21&g=2025-08-21), zijn verricht; of
 
-- b. voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2024-06-01&g=2024-06-01), niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+- b. voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2025-08-21&g=2025-08-21), niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
 #### § 5.5. Subsidievaststelling
 
 ##### Artikel 5.10. Aanvraag
 
-1. De ontvanger van een subsidie die € 25.000 of meer bedraagt, dient binnen 13 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2024-06-01&g=2024-06-01), een aanvraag tot vaststelling van de subsidie in.
+1. De ontvanger van een subsidie die € 25.000 of meer bedraagt, dient binnen 18 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2025-08-21&g=2025-08-21), een aanvraag tot vaststelling van de subsidie in.
 
 2. In afwijking van het eerste lid kan een subsidieontvanger die tevens een subsidie op grond van artikel 4a of 4c van de wet ontvangt ervoor kiezen, een aanvraag tot vaststelling in te dienen door verantwoording af te leggen in:
 
-- a. de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01), indien de activiteiten waarvoor subsidie is verleend dienen te zijn afgerond in het eerste, tweede of derde jaar van de vierjaarsperiode, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c); of
+- a. de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21), indien de activiteiten waarvoor subsidie is verleend dienen te zijn afgerond in het eerste, tweede of derde jaar van de vierjaarsperiode, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c); of
 
-- b. de aanvraag tot vaststelling, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2024-06-01&g=2024-06-01), indien de activiteiten waarvoor subsidie is verleend dienen te zijn afgerond in het laatste jaar van de vierjaarsperiode, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c), voor zover de verantwoording van de subsidie daarin voldoende inzichtelijk is.
+- b. de aanvraag tot vaststelling, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2025-08-21&g=2025-08-21), indien de activiteiten waarvoor subsidie is verleend dienen te zijn afgerond in het laatste jaar van de vierjaarsperiode, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c), voor zover de verantwoording van de subsidie daarin voldoende inzichtelijk is.
 
 3. In afwijking van het eerste lid en onverminderd het tweede lid, kan de minister bij de subsidieverlening bepalen dat de ontvanger van een subsidie die twee of meer jaren bestrijkt, jaarlijks voor een in de beschikking tot verlening van de subsidie op te nemen datum een aanvraag tot vaststelling indient.
 
@@ -498,21 +504,21 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van subsid
 
 3. Het activiteitenverslag beschrijft de aard, duur en omvang van de activiteiten waarvoor subsidie werd verleend. De minister kan een model vaststellen voor het activiteitenverslag op de website www.cultuursubsidie.nl.
 
-4. Op het bestuursverslag is [artikel 2.15, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2024-06-01&g=2024-06-01), van overeenkomstige toepassing.
+4. Op het bestuursverslag is [artikel 2.15, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2025-08-21&g=2025-08-21), van overeenkomstige toepassing.
 
-5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2024-06-01&g=2024-06-01), met uitzondering van het vierde lid, en [2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01), van overeenkomstige toepassing.
+5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2025-08-21&g=2025-08-21), met uitzondering van het vierde lid, en [2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21), van overeenkomstige toepassing.
 
 ##### Artikel 5.12. Financieel verslag
 
 1. Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de besteding van de subsidie door de subsidieontvanger. Het financieel verslag sluit aan op de indeling van de begroting, die voorafgaand aan de subsidieverlening is overgelegd. Belangrijke verschillen tussen financieel verslag en begroting worden toegelicht.
 
-2. Op het financieel verslag is [artikel 2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01), van overeenkomstige toepassing.
+2. Op het financieel verslag is [artikel 2.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21), van overeenkomstige toepassing.
 
 ##### Artikel 5.13. Vaststelling
 
 1. Na ontvangst van de aanvraag tot vaststelling van de subsidie stelt de minister de subsidie binnen 22 weken vast.
 
-2. Indien het verleende subsidiebedrag minder dan € 25.000 bedraagt, stelt de minister de subsidie binnen 22 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2024-06-01&g=2024-06-01), ambtshalve vast.
+2. Indien het verleende subsidiebedrag minder dan € 25.000 bedraagt, stelt de minister de subsidie binnen 22 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2025-08-21&g=2025-08-21), ambtshalve vast.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -538,7 +544,7 @@ De [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.n
 
 ##### Artikel 6.11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2010, met uitzondering van [artikel 6.5, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.3&artikel=6.5&z=2024-06-01&g=2024-06-01), dat in werking treedt met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
+Deze regeling treedt in werking met ingang van 1 juli 2010, met uitzondering van [artikel 6.5, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.3&artikel=6.5&z=2025-08-21&g=2025-08-21), dat in werking treedt met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
 ##### Artikel 6.12. Citeertitel
 
@@ -1902,7 +1908,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 3.3. In te dienen documenten subsidieaanvraag
 
-In aanvulling op [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2024-06-01&g=2024-06-01) gaat de subsidieaanvraag vergezeld van:
+In aanvulling op [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-08-21&g=2025-08-21) gaat de subsidieaanvraag vergezeld van:
 
 - a. een verklaring waaruit blijkt dat de instelling de Fair Practice Code, de Governance Code Cultuur, alsmede de Code Diversiteit en Inclusie onderschrijft;
 
@@ -1912,7 +1918,7 @@ In aanvulling op [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 ##### Artikel 3.4. Nadere eisen activiteitenplan
 
-In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2024-06-01&g=2024-06-01) bevat het activiteitenplan een omschrijving waaruit blijkt:
+In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2025-08-21&g=2025-08-21) bevat het activiteitenplan een omschrijving waaruit blijkt:
 
 - a. op welke wijze de instelling de Code Diversiteit en Inclusie, de Fair Practice Code en de Governance Code Cultuur naleeft; en
 
@@ -1922,35 +1928,35 @@ In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 1. Een aanvraag voor subsidie voor de jaren 2025 tot en met 2028 op grond van dit hoofdstuk kan worden ingediend na 2 december 2023 tot en met uiterlijk 31 januari 2024 om 23.59 uur.
 
-2. In afwijking van het eerste lid kan een aanvraag voor subsidie voor de jaren 2025 tot en met 2028 op grond van [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2024-06-01&g=2024-06-01) worden ingediend na 2 december 2023 tot en met uiterlijk 28 februari 2024 om 23.59 uur.
+2. In afwijking van het eerste lid kan een aanvraag voor subsidie voor de jaren 2025 tot en met 2028 op grond van [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2025-08-21&g=2025-08-21) worden ingediend na 2 december 2023 tot en met uiterlijk 28 februari 2024 om 23.59 uur.
 
-3. Indien het door technische problemen aan de kant van de minister onverhoopt onmogelijk is om de aanvraag tijdig in te dienen op de door de minister te bepalen wijze, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2024-06-01&g=2024-06-01), besluit de minister om de desbetreffende aanvraagperiode te verlengen met een door hem te bepalen redelijke termijn.
+3. Indien het door technische problemen aan de kant van de minister onverhoopt onmogelijk is om de aanvraag tijdig in te dienen op de door de minister te bepalen wijze, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2025-08-21&g=2025-08-21), besluit de minister om de desbetreffende aanvraagperiode te verlengen met een door hem te bepalen redelijke termijn.
 
 ##### Artikel 3.6. Wijze van indiening
 
 1. De indiening van een aanvraag voor subsidie geschiedt op een door de minister te bepalen elektronische wijze, met gebruikmaking van het aanvraagformulier dat de minister daartoe op [www.cultuursubsidie.nl](http://www.cultuursubsidie.nl) beschikbaar heeft gesteld.
 
-2. Een aanvraag voor subsidie als bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2024-06-01&g=2024-06-01), kan tevens worden aangemerkt als een aanvraag voor subsidie op grond van artikel 3.12, derde lid.
+2. Een aanvraag voor subsidie als bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2025-08-21&g=2025-08-21), kan tevens worden aangemerkt als een aanvraag voor subsidie op grond van artikel 3.12, derde lid.
 
 ##### Artikel 3.7. Wijze verdeling beschikbare middelen
 
-1. De minister beslist gelijktijdig op alle aanvragen op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de bij of krachtens de wet gestelde regels, aan de hand van de criteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2024-06-01&g=2024-06-01), en de afwegingsaspecten, bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.10&z=2024-06-01&g=2024-06-01).
+1. De minister beslist gelijktijdig op alle aanvragen op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de bij of krachtens de wet gestelde regels, aan de hand van de criteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2025-08-21&g=2025-08-21), en de afwegingsaspecten, bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.10&z=2025-08-21&g=2025-08-21).
 
-2. De minister vraagt de Raad om advies omtrent de te nemen besluiten op de aanvragen. De Raad stelt ten behoeve van zijn advisering een beoordelingskader vast aan de hand van de criteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2024-06-01&g=2024-06-01) en de afwegingsaspecten, bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.10&z=2024-06-01&g=2024-06-01).
+2. De minister vraagt de Raad om advies omtrent de te nemen besluiten op de aanvragen. De Raad stelt ten behoeve van zijn advisering een beoordelingskader vast aan de hand van de criteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2025-08-21&g=2025-08-21) en de afwegingsaspecten, bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.10&z=2025-08-21&g=2025-08-21).
 
 3. Indien na beoordeling van alle aanvragen een bepaald beschikbaar bedrag niet geheel wordt verleend, kan de minister het resterende bedrag toevoegen aan een ander subsidieplafond binnen die paragraaf onderscheidenlijk afdeling.
 
-4. Het derde lid is niet van toepassing op [paragraaf 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2024-06-01&g=2024-06-01).
+4. Het derde lid is niet van toepassing op [paragraaf 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2025-08-21&g=2025-08-21).
 
 ##### Artikel 3.8. Weigeringsgronden en intrekkingsgrond
 
-1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2024-06-01&g=2024-06-01) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidieverlening in ieder geval geweigerd, voor zover de aanvraag niet voldoet aan het bepaalde in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.3&z=2024-06-01&g=2024-06-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.4&z=2024-06-01&g=2024-06-01).
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2025-08-21&g=2025-08-21) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidieverlening in ieder geval geweigerd, voor zover de aanvraag niet voldoet aan het bepaalde in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.3&z=2025-08-21&g=2025-08-21) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.4&z=2025-08-21&g=2025-08-21).
 
-2. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2024-06-01&g=2024-06-01) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidieverlening tevens geweigerd, indien de aanvrager een instelling is waaraan voor het jaar 2023 subsidie is verstrekt voor haar exploitatie en subsidie uitsluitend is verstrekt afkomstig uit middelen van de begrotingsstaat, met uitzondering van de artikelen 14 en 15, behorende bij de Wet van 21 december 2022 tot vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2023 (Stb. 2023, 19).
+2. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2025-08-21&g=2025-08-21) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidieverlening tevens geweigerd, indien de aanvrager een instelling is waaraan voor het jaar 2023 subsidie is verstrekt voor haar exploitatie en subsidie uitsluitend is verstrekt afkomstig uit middelen van de begrotingsstaat, met uitzondering van de artikelen 14 en 15, behorende bij de Wet van 21 december 2022 tot vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2023 (Stb. 2023, 19).
 
-3. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2024-06-01&g=2024-06-01) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan subsidie worden geweigerd, indien de activiteiten waarvoor de subsidie is aangevraagd naar het oordeel van de minister onlosmakelijk verbonden zijn met de kernactiviteiten van de instelling waarvoor deze in de periode 2025–2028 meerjarige subsidie van een fonds ontvangt.
+3. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2025-08-21&g=2025-08-21) en [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan subsidie worden geweigerd, indien de activiteiten waarvoor de subsidie is aangevraagd naar het oordeel van de minister onlosmakelijk verbonden zijn met de kernactiviteiten van de instelling waarvoor deze in de periode 2025–2028 meerjarige subsidie van een fonds ontvangt.
 
-4. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) kan de minister een reeds op grond van dit hoofdstuk verleende subsidie intrekken, indien de subsidieontvanger zich niet met ingang van 1 januari 2025 heeft aangesloten bij de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.3&z=2024-06-01&g=2024-06-01), bedoelde collectieve afspraken, onderscheidenlijk de in dat onderdeel bedoelde honoreringsrichtlijn.
+4. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) kan de minister een reeds op grond van dit hoofdstuk verleende subsidie intrekken, indien de subsidieontvanger zich niet met ingang van 1 januari 2025 heeft aangesloten bij de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.3&z=2025-08-21&g=2025-08-21), bedoelde collectieve afspraken, onderscheidenlijk de in dat onderdeel bedoelde honoreringsrichtlijn.
 
 ### Afdeling 3.2. Podiumkunsten
 
@@ -1986,9 +1992,9 @@ In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 ##### Artikel 3.10. Nadere afwegingaspecten
 
-1. Indien meerdere aanvragen zijn ingediend die subsidiabel worden geacht op basis van de beoordelingscriteria, bedoeld in [artikel 3.9, eerste lid, onderdelen a tot en met d, onderscheidenlijk het tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2024-06-01&g=2024-06-01), terwijl het desbetreffende subsidieplafond niet toereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de desbetreffende aanvragen gerangschikt aan de hand van het criterium, bedoeld in artikel 3.9, eerste lid, onderdeel e, onderscheidenlijk tweede lid, onderdeel e.
+1. Indien meerdere aanvragen zijn ingediend die subsidiabel worden geacht op basis van de beoordelingscriteria, bedoeld in [artikel 3.9, eerste lid, onderdelen a tot en met d, onderscheidenlijk het tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2025-08-21&g=2025-08-21), terwijl het desbetreffende subsidieplafond niet toereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de desbetreffende aanvragen gerangschikt aan de hand van het criterium, bedoeld in artikel 3.9, eerste lid, onderdeel e, onderscheidenlijk tweede lid, onderdeel e.
 
-2. Indien met toepassing van het eerste lid niet kan worden gekomen tot een rangschikking van twee of meer van de desbetreffende aanvragen, worden deze aanvragen gerangschikt aan de hand van een integrale afweging van de beoordelingscriteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2024-06-01&g=2024-06-01), alsmede de volgende aspecten:
+2. Indien met toepassing van het eerste lid niet kan worden gekomen tot een rangschikking van twee of meer van de desbetreffende aanvragen, worden deze aanvragen gerangschikt aan de hand van een integrale afweging van de beoordelingscriteria, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2025-08-21&g=2025-08-21), alsmede de volgende aspecten:
 
 - a. pluriformiteit; en
 
@@ -2000,7 +2006,7 @@ In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 1. Indien in de navolgende afdelingen een maximum is gesteld aan het aantal instellingen waaraan per regio of kernpunt subsidie kan worden verstrekt, en geen van de subsidieaanvragen die is ingediend voor die regio of dat kernpunt voldoet aan alle daarvoor in deze regeling gestelde vereisten, kan de minister niettemin aan ten hoogste het voor de betreffende regio of kernpunt gestelde aantal instellingen subsidie verstrekken, voor zover het met deze regeling te dienen doel van geografische spreiding naar zijn oordeel in onvoldoende mate zou worden bereikt ingeval van het niet verstrekken van subsidie.
 
-2. Het eerste lid vindt in ieder geval geen toepassing, voor zover een aanvraag naar het oordeel van de minister in onvoldoende mate beantwoordt aan het criterium, bedoeld in [artikel 3.9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2024-06-01&g=2024-06-01).
+2. Het eerste lid vindt in ieder geval geen toepassing, voor zover een aanvraag naar het oordeel van de minister in onvoldoende mate beantwoordt aan het criterium, bedoeld in [artikel 3.9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2025-08-21&g=2025-08-21).
 
 ##### Artikel 3.12. Theater
 
@@ -2028,11 +2034,11 @@ In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 ##### Artikel 3.13. Subsidieplafonds
 
-1. Voor subsidieverstrekking op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+1. Voor subsidieverstrekking op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2024-06-01&g=2024-06-01): € 3.375.200; en
+- a. voor een instelling als bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2025-08-21&g=2025-08-21): € 3.375.200; en
 
-- b. voor een instelling als bedoeld in [artikel 3.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2024-06-01&g=2024-06-01): € 2.022.500.
+- b. voor een instelling als bedoeld in [artikel 3.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.12&z=2025-08-21&g=2025-08-21): € 2.022.500.
 
 2. In afwijking van het eerste lid, onderdeel a, is ten hoogste 110 procent van het daar genoemde bedrag beschikbaar voor ten hoogste één instelling die zich internationaal onderscheidt door een excellent uitvoeringsniveau.
 
@@ -2064,15 +2070,15 @@ In aanvulling op [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&h
 
 ##### Artikel 3.15. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01): € 8.753.900;
+- a. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21): € 8.753.900;
 
-- b. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01): € 8.255.200;
+- b. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21): € 8.255.200;
 
-- c. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01): € 3.683.500; en
+- c. voor een instelling als bedoeld in [artikel 3.14, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21): € 3.683.500; en
 
-- d. voor instellingen als bedoeld in [artikel 3.14, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01): in totaal € 4.207.300.
+- d. voor instellingen als bedoeld in [artikel 3.14, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21): in totaal € 4.207.300.
 
 ##### Artikel 3.16. Symfonieorkesten
 
@@ -2082,7 +2088,7 @@ Voor subsidieverstrekking op grond van [artikel 3.14](https://wetten.overheid.nl
 
 - b. haar activiteiten geografisch op een geconcentreerde wijze spreidt in de regio of het verzorgingsgebied waarin zij haar standplaats heeft;
 
-- c. ten minste eenmaal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01) of [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01);
+- c. ten minste eenmaal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21) of [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21);
 
 - d. een beleid voert dat talentontwikkeling bevordert; en
 
@@ -2090,35 +2096,35 @@ Voor subsidieverstrekking op grond van [artikel 3.14](https://wetten.overheid.nl
 
 2. De minister verstrekt op grond van het eerste lid aan ten hoogste zes instellingen subsidie, waarbij in de regio Noord, de regio Oost, de regio Zuid, de gemeente Amsterdam, de gemeente Rotterdam en de gemeente Den Haag er telkens ten hoogste één instelling haar standplaats heeft.
 
-3. In afwijking van het eerste lid, onderdeel c, zijn de instellingen in regio Oost en in regio Zuid ten minste tweemaal per jaar om niet beschikbaar voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01) of [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01).
+3. In afwijking van het eerste lid, onderdeel c, zijn de instellingen in regio Oost en in regio Zuid ten minste tweemaal per jaar om niet beschikbaar voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21) of [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21).
 
 ##### Artikel 3.17. Symfonieorkest met begeleidingsactiviteiten primair voor opera
 
 De minister kan subsidie verstrekken aan ten hoogste één instelling met als kernactiviteiten het begeleiden van operaproducties en het verzorgen van symfonisch aanbod, indien de instelling:
 
-- a. voldoet aan [artikel 3.16, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01);
+- a. voldoet aan [artikel 3.16, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21);
 
 - b. in aanvulling op haar activiteiten een relevante seizoensprogrammering aanbiedt van symfonische concerten in het verzorgingsgebied van de gemeente Haarlem; en
 
-- c. ten minste zes maal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01).
+- c. ten minste zes maal per jaar om niet beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21).
 
 ##### Artikel 3.18. Symfonieorkest met begeleidingsactiviteiten voor dans
 
 De minister kan subsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het begeleiden van dansproducties, indien de instelling:
 
-- a. beschikbaar is voor de begeleiding van de producties van een instelling die een subsidie ontvangt op grond van [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01); en
+- a. beschikbaar is voor de begeleiding van de producties van een instelling die een subsidie ontvangt op grond van [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21); en
 
-- b. ten minste eenmaal per jaar beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01);
+- b. ten minste eenmaal per jaar beschikbaar is voor de begeleiding van een productie van een instelling die een subsidie ontvangt op grond van [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21);
 
 voor zover de begeleiding in de basisbezetting van haar orkest om niet plaatsvindt, en niet meer dan een redelijke prijs in rekening wordt gebracht voor de kosten die verband houden met een aanvullende bezetting bij repertoire waarbij een basisbezetting naar algemeen gangbare artistieke maatstaven niet volstaat.
 
 ##### Artikel 3.19. Symfonieorkest met aanbod van pop- en jazzmuziek
 
-De minister kan subsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verzorgen van pop- en jazzaanbod in een symfonische bezetting, indien de instelling voldoet aan [artikel 3.16, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01).
+De minister kan subsidie verstrekken aan ten hoogste één instelling met als kernactiviteit het verzorgen van pop- en jazzaanbod in een symfonische bezetting, indien de instelling voldoet aan [artikel 3.16, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21).
 
 ##### Artikel 3.20. Muziekensembles en koren
 
-1. De minister kan subsidie verstrekken aan een instelling met als kernactiviteit het verzorgen van muziekaanbod van een ensemble of koor, niet zijnde aanbod of begeleiding als bedoeld in de [artikelen 3.16 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01) onderscheidenlijk aanbod als bedoeld in [paragraaf 3.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&z=2024-06-01&g=2024-06-01), indien de instelling:
+1. De minister kan subsidie verstrekken aan een instelling met als kernactiviteit het verzorgen van muziekaanbod van een ensemble of koor, niet zijnde aanbod of begeleiding als bedoeld in de [artikelen 3.16 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21) onderscheidenlijk aanbod als bedoeld in [paragraaf 3.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&z=2025-08-21&g=2025-08-21), indien de instelling:
 
 - a. in een internationale context een repertoire aanbiedt van:
 
@@ -2138,21 +2144,21 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 ##### Artikel 3.21. Subsidieplafonds
 
-1. Voor subsidieverstrekking op grond van de [artikelen 3.16 tot en met 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+1. Voor subsidieverstrekking op grond van de [artikelen 3.16 tot en met 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01), in de regio Noord: € 8.102.600;
+- a. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21), in de regio Noord: € 8.102.600;
 
-- b. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01), in de regio Oost, gemeente Den Haag en de gemeente Rotterdam gezamenlijk en de regio Zuid: € 9.459.400;
+- b. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21), in de regio Oost, gemeente Den Haag en de gemeente Rotterdam gezamenlijk en de regio Zuid: € 9.459.400;
 
-- c. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2024-06-01&g=2024-06-01), in de gemeente Amsterdam: € 8.407.500;
+- c. voor een instelling als bedoeld in [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.16&z=2025-08-21&g=2025-08-21), in de gemeente Amsterdam: € 8.407.500;
 
-- d. voor een instelling als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.17&z=2024-06-01&g=2024-06-01): € 13.517.700;
+- d. voor een instelling als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.17&z=2025-08-21&g=2025-08-21): € 13.517.700;
 
-- e. voor een instelling als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.18&z=2024-06-01&g=2024-06-01): € 5.600.400;
+- e. voor een instelling als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.18&z=2025-08-21&g=2025-08-21): € 5.600.400;
 
-- f. voor een instelling als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.19&z=2024-06-01&g=2024-06-01): € 4.956.600; en
+- f. voor een instelling als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.19&z=2025-08-21&g=2025-08-21): € 4.956.600; en
 
-- g. voor instellingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.20&z=2024-06-01&g=2024-06-01): in totaal € 7.167.200.
+- g. voor instellingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.1&artikel=3.20&z=2025-08-21&g=2025-08-21): in totaal € 7.167.200.
 
 2. In afwijking van het eerste lid, onderdelen a, b of c, is ten hoogste 110 procent van het daar genoemde bedrag beschikbaar voor ten hoogste één instelling die zich:
 
@@ -2168,7 +2174,7 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling die haar s
 
 - b. zich richt op een groot landelijk publieksbereik;
 
-- c. een beleid voert dat, in samenwerking met de instellingen, bedoeld in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert en coördinerende activiteiten op dit gebied uitvoert; en
+- c. een beleid voert dat, in samenwerking met de instellingen, bedoeld in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert en coördinerende activiteiten op dit gebied uitvoert; en
 
 - d. zich internationaal onderscheidt door een excellent uitvoeringsniveau.
 
@@ -2178,31 +2184,31 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling die haar s
 
 1. De minister kan subsidie verstrekken aan ten hoogste één instelling die haar standplaats heeft in de regio Oost en met als kernactiviteit het verzorgen van opera-aanbod, indien de instelling:
 
-- a. voldoet aan [artikel 3.22, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01);
+- a. voldoet aan [artikel 3.22, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21);
 
 - b. haar activiteiten geografisch op een geconcentreerde wijze spreidt; en
 
-- c. een beleid voert dat, in samenwerking met de instelling, bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert.
+- c. een beleid voert dat, in samenwerking met de instelling, bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert.
 
 2. De minister kan subsidie verstrekken aan ten hoogste één instelling die haar standplaats heeft in de regio Zuid en met als kernactiviteit het verzorgen van opera-aanbod, indien de instelling:
 
-- a. voldoet aan [artikel 3.22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01);
+- a. voldoet aan [artikel 3.22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21);
 
 - b. haar activiteiten geografisch in haar regio op een geconcentreerde wijze spreidt;
 
 - c. samenwerkt met andere instellingen die opera-aanbod verzorgen; en
 
-- d. een beleid voert dat, in samenwerking met een instelling als bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert.
+- d. een beleid voert dat, in samenwerking met een instelling als bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21), en bij voorkeur in samenwerking met derden talentontwikkeling bevordert.
 
 ##### Artikel 3.24. Subsidieplafonds opera
 
-Voor subsidieverstrekking op grond van de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01) en [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21) en [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2024-06-01&g=2024-06-01): € 30.760.300;
+- a. voor een instelling als bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.22&z=2025-08-21&g=2025-08-21): € 30.760.300;
 
-- b. voor een instelling als bedoeld in [artikel 3.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01): € 5.658.300; en
+- b. voor een instelling als bedoeld in [artikel 3.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21): € 5.658.300; en
 
-- c. voor een instelling als bedoeld in [artikel 3.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2024-06-01&g=2024-06-01): € 1.888.300.
+- c. voor een instelling als bedoeld in [artikel 3.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&sub-paragraaf=3.2.3.2&artikel=3.23&z=2025-08-21&g=2025-08-21): € 1.888.300.
 
 ##### Artikel 3.25. Festivals
 
@@ -2218,7 +2224,7 @@ Voor subsidieverstrekking op grond van de [artikelen 3.22](https://wetten.overhe
 
 ##### Artikel 3.26. Subsidieplafond
 
-Voor subsidieverstrekking op grond van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.25&z=2024-06-01&g=2024-06-01) is jaarlijks in totaal ten hoogste € 9.054.400 beschikbaar.
+Voor subsidieverstrekking op grond van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.25&z=2025-08-21&g=2025-08-21) is jaarlijks in totaal ten hoogste € 9.054.400 beschikbaar.
 
 ##### Artikel 3.27. Jeugdpodiumkunsten
 
@@ -2230,11 +2236,11 @@ Voor subsidieverstrekking op grond van [artikel 3.25](https://wetten.overheid.nl
 
 2. De minister verstrekt op grond van het eerste lid aan ten hoogste dertien instellingen subsidie, waarbij in de regio Noord ten minste één, in de regio Zuid ten minste twee, in de regio Oost ten minste één, en in de regio Midden ten minste twee instellingen hun standplaats hebben.
 
-3. Aan een instelling waaraan subsidie wordt verstrekt op grond van [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01), juncto [tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2024-06-01&g=2024-06-01), verstrekt de minister geen subsidie op grond van het eerste lid.
+3. Aan een instelling waaraan subsidie wordt verstrekt op grond van [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21), juncto [tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2025-08-21&g=2025-08-21), verstrekt de minister geen subsidie op grond van het eerste lid.
 
 ##### Artikel 3.28. Subsidieplafond
 
-Voor subsidieverstrekking op grond van [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&artikel=3.27&z=2024-06-01&g=2024-06-01) is jaarlijks in totaal ten hoogste € 14.231.700 beschikbaar.
+Voor subsidieverstrekking op grond van [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&artikel=3.27&z=2025-08-21&g=2025-08-21) is jaarlijks in totaal ten hoogste € 14.231.700 beschikbaar.
 
 ### Afdeling 3.3. Regionale musea en sectorcollecties
 
@@ -2260,21 +2266,21 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling waarvan de
 
 - a. bewustwording, deskundigheidsbevordering en kennisdeling over behoud en beheer, ontsluiting en netwerkvorming worden gestimuleerd;
 
-- b. de sectorcollecties in samenwerking met een instelling als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2024-06-01&g=2024-06-01) duurzaam digitaal verbonden en toegankelijk worden gemaakt volgens de uitgangspunten van de Nationale Strategie Digitaal Erfgoed; en
+- b. de sectorcollecties in samenwerking met een instelling als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2025-08-21&g=2025-08-21) duurzaam digitaal verbonden en toegankelijk worden gemaakt volgens de uitgangspunten van de Nationale Strategie Digitaal Erfgoed; en
 
-- c. de activiteiten van de instelling afgestemd worden met die van relevante partijen, waaronder de instelling die subsidie ontvangt op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2024-06-01&g=2024-06-01) van deze regeling.
+- c. de activiteiten van de instelling afgestemd worden met die van relevante partijen, waaronder de instelling die subsidie ontvangt op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2025-08-21&g=2025-08-21) van deze regeling.
 
 ### Afdeling 3.4. Beeldende kunst
 
 ##### Artikel 3.32. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van de [artikelen 3.29 tot en met 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.29 tot en met 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2024-06-01&g=2024-06-01): € 298.100;
+- a. voor een instelling als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.29&z=2025-08-21&g=2025-08-21): € 298.100;
 
-- b. voor een instelling als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.30&z=2024-06-01&g=2024-06-01): € 596.100;
+- b. voor een instelling als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.30&z=2025-08-21&g=2025-08-21): € 596.100;
 
-- c. voor een instelling als bedoeld in [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.31&z=2024-06-01&g=2024-06-01): € 1.192.200.
+- c. voor een instelling als bedoeld in [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.3&artikel=3.31&z=2025-08-21&g=2025-08-21): € 1.192.200.
 
 ##### Artikel 3.33. Presentatie-instellingen
 
@@ -2304,11 +2310,11 @@ Voor subsidieverstrekking op grond van de [artikelen 3.29 tot en met 3.31](https
 
 ##### Artikel 3.35. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van de [artikelen 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.33&z=2024-06-01&g=2024-06-01) en [3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.34&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.33&z=2025-08-21&g=2025-08-21) en [3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.34&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor instellingen als bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.33&z=2024-06-01&g=2024-06-01): in totaal € 4.784.100; en
+- a. voor instellingen als bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.33&z=2025-08-21&g=2025-08-21): in totaal € 4.784.100; en
 
-- b. voor instellingen als bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.34&z=2024-06-01&g=2024-06-01): in totaal € 7.009.800 en per deelnemer ten hoogste € 66.760.
+- b. voor instellingen als bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&artikel=3.34&z=2025-08-21&g=2025-08-21): in totaal € 7.009.800 en per deelnemer ten hoogste € 66.760.
 
 ##### Artikel 3.36. Festivals
 
@@ -2356,11 +2362,11 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 ##### Artikel 3.38. Subsidieplafonds
 
-1. Voor subsidieverstrekking op grond van de [artikelen 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.36&z=2024-06-01&g=2024-06-01) en [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.37&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+1. Voor subsidieverstrekking op grond van de [artikelen 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.36&z=2025-08-21&g=2025-08-21) en [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.37&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor instellingen als bedoeld in [artikel 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.36&z=2024-06-01&g=2024-06-01): in totaal € 5.827.100; en
+- a. voor instellingen als bedoeld in [artikel 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.36&z=2025-08-21&g=2025-08-21): in totaal € 5.827.100; en
 
-- b. voor een instelling als bedoeld in [artikel 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.37&z=2024-06-01&g=2024-06-01): € 2.481.000.
+- b. voor een instelling als bedoeld in [artikel 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&artikel=3.37&z=2025-08-21&g=2025-08-21): € 2.481.000.
 
 ### Afdeling 3.8. Bibliotheken
 
@@ -2386,17 +2392,17 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 ##### Artikel 3.41. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van de [artikelen 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2024-06-01&g=2024-06-01) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.40&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2025-08-21&g=2025-08-21) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.40&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2024-06-01&g=2024-06-01): € 3.530.600;
+- a. voor een instelling als bedoeld in [artikel 3.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2025-08-21&g=2025-08-21): € 3.530.600;
 
-- b. voor een instelling als bedoeld in [artikel 3.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2024-06-01&g=2024-06-01): € 1.110.300;
+- b. voor een instelling als bedoeld in [artikel 3.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2025-08-21&g=2025-08-21): € 1.110.300;
 
-- c. voor een instelling als bedoeld in [artikel 3.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2024-06-01&g=2024-06-01): € 528.900;
+- c. voor een instelling als bedoeld in [artikel 3.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2025-08-21&g=2025-08-21): € 528.900;
 
-- d. voor een instelling als bedoeld in [artikel 3.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2024-06-01&g=2024-06-01): € 625.200; en
+- d. voor een instelling als bedoeld in [artikel 3.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.39&z=2025-08-21&g=2025-08-21): € 625.200; en
 
-- e. voor een instelling als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.40&z=2024-06-01&g=2024-06-01): € 654.600.
+- e. voor een instelling als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&artikel=3.40&z=2025-08-21&g=2025-08-21): € 654.600.
 
 ##### Artikel 3.42. Ondersteunende instelling
 
@@ -2420,7 +2426,7 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 - 2°. de sectorcollecties duurzaam digitaal verbonden en toegankelijk worden gemaakt volgens de uitgangspunten van de Nationale Strategie Digitaal Erfgoed; en
 
-- 3°. de activiteiten van de instelling afgestemd worden met die van relevante partijen, waaronder de instelling die subsidie ontvangt op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2024-06-01&g=2024-06-01).
+- 3°. de activiteiten van de instelling afgestemd worden met die van relevante partijen, waaronder de instelling die subsidie ontvangt op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2025-08-21&g=2025-08-21).
 
 ### Afdeling 3.7. Ontwerp
 
@@ -2458,15 +2464,15 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 ##### Artikel 3.46. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van de [artikelen 3.42 tot en met 3.45](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.42&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.42 tot en met 3.45](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.42&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.42&z=2024-06-01&g=2024-06-01): € 1.937.300;
+- a. voor een instelling als bedoeld in [artikel 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.42&z=2025-08-21&g=2025-08-21): € 1.937.300;
 
-- b. voor instellingen als bedoeld in [artikel 3.43](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.43&z=2024-06-01&g=2024-06-01): in totaal € 1.779.900;
+- b. voor instellingen als bedoeld in [artikel 3.43](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.43&z=2025-08-21&g=2025-08-21): in totaal € 1.779.900;
 
-- c. voor een instelling als bedoeld in [artikel 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.44&z=2024-06-01&g=2024-06-01): € 1.241.100; en
+- c. voor een instelling als bedoeld in [artikel 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.44&z=2025-08-21&g=2025-08-21): € 1.241.100; en
 
-- d. voor instellingen als bedoeld in [artikel 3.45](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.45&z=2024-06-01&g=2024-06-01): in totaal € 1.737.500, met een minimum van € 376.700 per instelling en een maximum van € 1.004.500 per instelling.
+- d. voor instellingen als bedoeld in [artikel 3.45](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&artikel=3.45&z=2025-08-21&g=2025-08-21): in totaal € 1.737.500, met een minimum van € 376.700 per instelling en een maximum van € 1.004.500 per instelling.
 
 ### Hoofdstuk 4. Specifieke bepalingen voor verstrekking van vierjaarlijkse instellingssubsidies aan fondsen op grond van [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c)
 
@@ -2904,7 +2910,7 @@ Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden gepl
 
 ##### Artikel 3.47. Ontwikkelinstellingen
 
-1. De minister kan subsidie verstrekken aan een instelling die als kernactiviteit heeft het faciliteren, begeleiden en ontwikkelen van talentvolle of innovatieve makers of het ontwikkelen, aan de hand van onderzoek, van een discipline op een terrein als bedoeld in [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&z=2024-06-01&g=2024-06-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&z=2024-06-01&g=2024-06-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&z=2024-06-01&g=2024-06-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&z=2024-06-01&g=2024-06-01) of [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&z=2024-06-01&g=2024-06-01) dan wel een combinatie daarvan, indien de instelling:
+1. De minister kan subsidie verstrekken aan een instelling die als kernactiviteit heeft het faciliteren, begeleiden en ontwikkelen van talentvolle of innovatieve makers of het ontwikkelen, aan de hand van onderzoek, van een discipline op een terrein als bedoeld in [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.2&z=2025-08-21&g=2025-08-21), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.4&z=2025-08-21&g=2025-08-21), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.5&z=2025-08-21&g=2025-08-21), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.6&z=2025-08-21&g=2025-08-21) of [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.7&z=2025-08-21&g=2025-08-21) dan wel een combinatie daarvan, indien de instelling:
 
 - a. beschikt over voorzieningen die daarvoor geschikt zijn; en
 
@@ -2922,7 +2928,7 @@ Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden gepl
 
 ##### Artikel 3.48. Subsidieplafond
 
-Voor subsidieverstrekking op grond van [artikel 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.8&artikel=3.47&z=2024-06-01&g=2024-06-01) is jaarlijks in totaal ten hoogste € 11.100.300 beschikbaar, met een minimum van € 366.600 per instelling en een maximum van € 977.800 per instelling.
+Voor subsidieverstrekking op grond van [artikel 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.8&artikel=3.47&z=2025-08-21&g=2025-08-21) is jaarlijks in totaal ten hoogste € 11.100.300 beschikbaar, met een minimum van € 366.600 per instelling en een maximum van € 977.800 per instelling.
 
 ##### Artikel 3.49. Cultuureducatie en cultuurparticipatie
 
@@ -3122,19 +3128,19 @@ De minister kan subsidie verstrekken aan ten hoogste één instelling met als ke
 
 ##### Artikel 3.55. Subsidieplafonds
 
-Voor subsidieverstrekking op grond van de [artikelen 3.49 tot en met 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.49&z=2024-06-01&g=2024-06-01) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
+Voor subsidieverstrekking op grond van de [artikelen 3.49 tot en met 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.49&z=2025-08-21&g=2025-08-21) zijn jaarlijks ten hoogste de volgende bedragen beschikbaar:
 
-- a. voor een instelling als bedoeld in [artikel 3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.49&z=2024-06-01&g=2024-06-01): € 6.083.800;
+- a. voor een instelling als bedoeld in [artikel 3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.49&z=2025-08-21&g=2025-08-21): € 6.083.800;
 
-- b. voor een instelling als bedoeld in [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.50&z=2024-06-01&g=2024-06-01): € 1.173.100;
+- b. voor een instelling als bedoeld in [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.50&z=2025-08-21&g=2025-08-21): € 1.173.100;
 
-- c. voor een instelling als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2024-06-01&g=2024-06-01): € 3.694.700;
+- c. voor een instelling als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.51&z=2025-08-21&g=2025-08-21): € 3.694.700;
 
-- d. voor een instelling als bedoeld in [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.52&z=2024-06-01&g=2024-06-01): € 1.770.400;
+- d. voor een instelling als bedoeld in [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.52&z=2025-08-21&g=2025-08-21): € 1.770.400;
 
-- e. voor een instelling als bedoeld in [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.53&z=2024-06-01&g=2024-06-01): € 2.008.900; en
+- e. voor een instelling als bedoeld in [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.53&z=2025-08-21&g=2025-08-21): € 2.008.900; en
 
-- f. voor een instelling als bedoeld in [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.54&z=2024-06-01&g=2024-06-01): € 1.279.000.
+- f. voor een instelling als bedoeld in [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.9&artikel=3.54&z=2025-08-21&g=2025-08-21): € 1.279.000.
 
 ##### Artikel 3.56. Debat en reflectie
 
@@ -3454,7 +3460,7 @@ Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden gepl
 
 ##### Artikel 3.57. Subsidieplafond
 
-Voor subsidieverstrekking op grond van [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.10&artikel=3.56&z=2024-06-01&g=2024-06-01) is jaarlijks ten hoogste een bedrag van € 298.700 beschikbaar.
+Voor subsidieverstrekking op grond van [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&afdeling=3.10&artikel=3.56&z=2025-08-21&g=2025-08-21) is jaarlijks ten hoogste een bedrag van € 298.700 beschikbaar.
 
 ### Hoofdstuk 4. Specifieke bepalingen voor verstrekking van subsidies aan fondsen op grond van [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c)
 
@@ -3468,11 +3474,11 @@ Voor subsidieverstrekking op grond van [artikel 3.56](https://wetten.overheid.nl
 
 Vervallen
 
-## Bijlage IIa. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01), van de Regeling op het specifiek cultuurbeleid
+## Bijlage IIa. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21), van de Regeling op het specifiek cultuurbeleid
 
 Vervallen
 
-## Bijlage IIb. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2024-06-01&g=2024-06-01), van de Regeling op het specifiek cultuurbeleid
+## Bijlage IIb. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2025-08-21&g=2025-08-21), van de Regeling op het specifiek cultuurbeleid
 
 Vervallen
 
