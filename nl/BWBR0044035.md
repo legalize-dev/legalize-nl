@@ -4,7 +4,7 @@ identifier: "BWBR0044035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-22"
-last_updated: "2025-01-01"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044035"
 soort: "ministeriele-regeling"
@@ -52,8 +52,6 @@ In deze regeling wordt verstaan onder:
 
 - **kernziekenhuis:** een ziekenhuis binnen een cluster op IC-niveau waar een donatie-intensivist en een donatiecoördinator vanuit de IC verantwoordelijk zijn voor de implementatie en ondersteuning van ziekenhuizen binnen het cluster op het gebied van orgaan- en weefseldonatie;
 
-- **kleine donatieregio:** een regio met minder dan 10 ziekenhuizen en maar één kernziekenhuis;
-
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
 - **NTS:** Nederlandse Transplantatie Stichting.
@@ -64,7 +62,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3. Staatssteun
 
-1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2025-01-01&g=2025-01-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2025-08-22&g=2025-08-22), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
@@ -76,35 +74,33 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - a. 0,1 fte supervisor per donatieregio;
 
-- b. 0,1 fte regionaal teamleider per kernziekenhuis binnen de donatieregio;
+- b. 0,1 fte voorzitter van het supervisorenoverleg;
 
-- c. 0,2 fte regionaal teamleider per kernziekenhuis binnen een kleine donatieregio;
+- c. 1,0 fte manager bedrijfsvoering gestationeerd bij een universitair medisch centrum;
 
-- d. 0,2 fte coördinerend donatie-intensivist per donatieregio;
+- d. 0,1 fte regionaal teamleider per kernziekenhuis binnen de donatieregio;
 
-- e. 0,2 fte donatie-intensivist per kernziekenhuis binnen de donatieregio;
+- e. 0,2 fte coördinerend donatie-intensivist per donatieregio;
 
-- f. 0,4 fte donatiecoördinator per ziekenhuis binnen de donatieregio, waarbij de donatiecoördinatoren zijn aangesteld in het kernziekenhuis;
+- f. 0,2 fte donatie-intensivist per kernziekenhuis binnen de donatieregio;
 
-- g. 1,0 fte manager bedrijfsvoering gestationeerd bij één universitair medisch centrum;
+- g. 0,4 fte donatiecoördinator per ziekenhuis binnen de donatieregio.
 
-- h. 0,1 fte voorzitter van het supervisorenoverleg.
-
-3. In afwijking van het eerste lid, kan subsidie voor het uitvoeren van de structurele functies, bedoeld in het tweede lid, onder a, b, c en g, uitsluitend door een universitair medisch centrum worden aangevraagd.
+3. In afwijking van het eerste lid, kan subsidie voor het uitvoeren van de structurele functies, bedoeld in het tweede lid, onder a tot en met e, uitsluitend door een universitair medisch centrum worden aangevraagd.
 
 ##### Artikel 5. Hoogte van de subsidie
 
 1. De subsidie voor het uitoefenen van een structurele functie of daarmee samenhangende activiteiten als hieronder vermeld, bedraagt maximaal:
 
-- a. € 123.231 voor de functie van regionaal teamleider;
+- a. € 288.650,– voor de functie van supervisor of voorzitter van het supervisorenoverleg;
 
-- b. € 82.711 voor de functie van donatiecoördinator;
+- b. € 164.205,– voor de functie van manager bedrijfsvoering;
 
-- c. € 274.434 voor de functie van (coördinerend) donatie-intensivist;
+- c. € 129.615,– voor de functie van regionaal teamleider;
 
-- d. € 274.434 voor de functie van supervisor of voorzitter van het supervisorenoverleg;
+- d. € 288.650,– voor de functie van (coördinerend) donatie-intensivist;
 
-- e. € 156.118 voor de functie van manager bedrijfsvoering;
+- e. € 86.995,– voor de functie van donatiecoördinator;
 
 - f. € 3.100 voor het trainen van professionals per kernziekenhuis;
 
@@ -124,7 +120,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2025-01-01&g=2025-01-01).
+2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2025-08-22&g=2025-08-22).
 
 3. In aanvulling op het tweede lid gaat de aanvraag tot verlening van de subsidie van een universitair medisch centrum vergezeld van een schriftelijke verklaring over de geldigheidsduur van bestaande convenanten met het betrokken kernziekenhuis en dienstverleningsovereenkomsten met de NTS.
 
@@ -150,7 +146,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. De aanvraag tot vaststelling wordt ingediend binnen 22 weken na afloop van het boekjaar waarvoor de subsidie is verleend.
 
-4. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het tweede lid.
+4. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
@@ -160,7 +156,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 12. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2026.
+Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 13. Citeertitel
 
