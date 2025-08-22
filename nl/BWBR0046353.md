@@ -4,7 +4,7 @@ identifier: "BWBR0046353"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-22"
-last_updated: "2024-08-28"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046353"
 soort: "ministeriele-regeling"
@@ -74,33 +74,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvraag
 
-1. De Minister stelt het recht op de verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), op aanvraag vast.
+1. De Minister stelt het recht op de verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), op aanvraag vast.
 
-2. Het recht op de verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), wordt door de Minister ambtshalve vastgesteld op basis van de gegevens die de gerepatrieerde of evacué in het kader van de registratie als gerepatrieerde of evacué heeft verstrekt.
+2. Het recht op de verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), wordt door de Minister ambtshalve vastgesteld op basis van de gegevens die de gerepatrieerde of evacué in het kader van de registratie als gerepatrieerde of evacué heeft verstrekt.
 
 3. Een aanvraag wordt bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier.
 
 ##### Artikel 4. Onthouden verstrekkingen
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28) bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een gerepatrieerde of evacué worden onthouden, indien de gerepatrieerde of evacué niet desgevraagd de gegevens verstrekt die nodig zijn voor het vaststellen van het recht op verstrekkingen. Daartoe behoren in ieder geval gegevens die noodzakelijk zijn voor het vaststellen van de naam, de geboortedatum, de nationaliteit, het land van herkomst, de gezinssamenstelling, de datum van aankomst in Nederland, de middelen waarover in Nederland kan worden beschikt en de aanwezige verzekeringen voor ziektekosten en wettelijke aansprakelijkheid.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22) bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een gerepatrieerde of evacué worden onthouden, indien de gerepatrieerde of evacué niet desgevraagd de gegevens verstrekt die nodig zijn voor het vaststellen van het recht op verstrekkingen. Daartoe behoren in ieder geval gegevens die noodzakelijk zijn voor het vaststellen van de naam, de geboortedatum, de nationaliteit, het land van herkomst, de gezinssamenstelling, de datum van aankomst in Nederland, de middelen waarover in Nederland kan worden beschikt en de aanwezige verzekeringen voor ziektekosten en wettelijke aansprakelijkheid.
 
-2. De Minister kan een verstrekking als bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), geheel of gedeeltelijk weigeren, indien blijkt dat de gerepatrieerde of evacué hier te lande redelijkerwijs over voldoende middelen kan beschikken om geheel of gedeeltelijk in de kosten van die verstrekking te voorzien.
+2. De Minister kan een verstrekking als bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), geheel of gedeeltelijk weigeren, indien blijkt dat de gerepatrieerde of evacué hier te lande redelijkerwijs over voldoende middelen kan beschikken om geheel of gedeeltelijk in de kosten van die verstrekking te voorzien.
 
 ##### Artikel 5. Beëindiging verstrekkingen
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28) bedoelde verstrekkingen eindigen in ieder geval met ingang van de dag waarop de gerepatrieerde of evacué:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22) bedoelde verstrekkingen eindigen in ieder geval met ingang van de dag waarop de gerepatrieerde of evacué:
 
 - a. Nederland verlaat; of
 
 - b. zich blijvend in Nederland vestigt.
 
-2. De Minister kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28) bedoelde verstrekkingen beëindigen indien, naar diens oordeel blijkt dat, een gerepatrieerde of evacué in strijd met de waarheid gegevens heeft verstrekt of verzwegen waardoor hij ten onrechte, of tot een te hoog bedrag, verstrekkingen heeft verkregen.
+2. De Minister kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22) bedoelde verstrekkingen beëindigen indien, naar diens oordeel blijkt dat, een gerepatrieerde of evacué in strijd met de waarheid gegevens heeft verstrekt of verzwegen waardoor hij ten onrechte, of tot een te hoog bedrag, verstrekkingen heeft verkregen.
 
 ##### Artikel 6. Hoogte en betaling eenmalige en wekelijkse verstrekkingen
 
-1. De hoogte van de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), bedoelde eenmalige tegemoetkoming voor de aanloopkosten bedraagt: € 70,–.
+1. De hoogte van de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), bedoelde eenmalige tegemoetkoming voor de aanloopkosten bedraagt: € 70,–.
 
-2. De hoogte van de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), bedoelde wekelijkse toelage bedraagt:
+2. De hoogte van de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), bedoelde wekelijkse toelage bedraagt:
 
 - a. bij een één- of tweepersoonshuishouden: voor de meerderjarige gerepatrieerde of evacué en de alleenstaande minderjarige gerepatrieerde of evacué: € 70,– en voor de minderjarige gerepatrieerde of evacué: € 60,–;
 
@@ -108,9 +108,9 @@ In deze regeling wordt verstaan onder:
 
 - c. bij vier- of meerpersoonhuishouden: voor de meerderjarige gerepatrieerde of evacué: € 50,– en voor de minderjarige gerepatrieerde of evacué: € 50,–.
 
-3. De verstrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), worden op een door de Minister te bepalen tijdstip en wijze aan de gerepatrieerde of evacué beschikbaar gesteld.
+3. De verstrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), worden op een door de Minister te bepalen tijdstip en wijze aan de gerepatrieerde of evacué beschikbaar gesteld.
 
-4. De verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), voor een minderjarige gerepatrieerde of evacué, die een kind is van, of verzorgd wordt door één of meer in Nederland verblijvende meerderjarige gerepatrieerden of evacués worden uitbetaald aan één van die gerepatrieerden of evacués.
+4. De verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), voor een minderjarige gerepatrieerde of evacué, die een kind is van, of verzorgd wordt door één of meer in Nederland verblijvende meerderjarige gerepatrieerden of evacués worden uitbetaald aan één van die gerepatrieerden of evacués.
 
 ##### Artikel 7. Buitengewone kosten
 
@@ -122,27 +122,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Verzekeringen
 
-1. Het treffen van een ziektekostenregeling als bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), houdt in het door de Minister ten behoeve van de gerepatrieerde of evacué sluiten van een verzekering tegen de in [artikel 10 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=10) en [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) bedoelde risico’s, alsmede het door de Minister betalen van de daarvoor verschuldigde kosten.
+1. Het treffen van een ziektekostenregeling als bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), houdt in het door de Minister ten behoeve van de gerepatrieerde of evacué sluiten van een verzekering tegen de in [artikel 10 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=10) en [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) bedoelde risico’s, alsmede het door de Minister betalen van de daarvoor verschuldigde kosten.
 
-2. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), houdt in het door de Minister ten behoeve van de gerepatrieerde of evacué sluiten van een verzekering voor de wettelijke aansprakelijkheid van de gerepatrieerde of evacué jegens een derde voor een som van maximaal € 1.000.000,- per gebeurtenis, alsmede het door de Minister betalen van de daarvoor verschuldigde kosten.
+2. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), houdt in het door de Minister ten behoeve van de gerepatrieerde of evacué sluiten van een verzekering voor de wettelijke aansprakelijkheid van de gerepatrieerde of evacué jegens een derde voor een som van maximaal € 1.000.000,- per gebeurtenis, alsmede het door de Minister betalen van de daarvoor verschuldigde kosten.
 
 3. Ten behoeve van de in het eerste en tweede lid bedoelde verzekeringen is een mantelovereenkomst afgesloten.
 
 ##### Artikel 9. Terugvordering
 
-Indien blijkt dat een gerepatrieerde of evacué in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of anderen ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2024-08-28&g=2024-08-28), heeft verkregen, of dit op andere wijze heeft bewerkstelligd, is de Minister bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
+Indien blijkt dat een gerepatrieerde of evacué in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of anderen ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=2&z=2025-08-22&g=2025-08-22), heeft verkregen, of dit op andere wijze heeft bewerkstelligd, is de Minister bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
 
 ##### Artikel 10. Mandaat
 
 1. De Minister van Sociale Zaken en Werkgelegenheid verleent aan de Raad van Bestuur van de SVB mandaat tot het nemen van:
 
-- a. besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2024-08-28&g=2024-08-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2024-08-28&g=2024-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2024-08-28&g=2024-08-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2024-08-28&g=2024-08-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2024-08-28&g=2024-08-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2024-08-28&g=2024-08-28);
+- a. besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2025-08-22&g=2025-08-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2025-08-22&g=2025-08-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2025-08-22&g=2025-08-22), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2025-08-22&g=2025-08-22), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2025-08-22&g=2025-08-22) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2025-08-22&g=2025-08-22);
 
-- b. beschikkingen op bezwaarschriften en, volmacht en machtiging voor het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze gericht zijn tegen of verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2024-08-28&g=2024-08-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2024-08-28&g=2024-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2024-08-28&g=2024-08-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2024-08-28&g=2024-08-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2024-08-28&g=2024-08-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2024-08-28&g=2024-08-28);
+- b. beschikkingen op bezwaarschriften en, volmacht en machtiging voor het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze gericht zijn tegen of verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2025-08-22&g=2025-08-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2025-08-22&g=2025-08-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2025-08-22&g=2025-08-22), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2025-08-22&g=2025-08-22), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2025-08-22&g=2025-08-22) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2025-08-22&g=2025-08-22);
 
-- c. volmacht en machtiging voor het verrichten van andere rechtshandelingen en feitelijke handelingen met betrekking tot besluiten als bedoeld in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2024-08-28&g=2024-08-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2024-08-28&g=2024-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2024-08-28&g=2024-08-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2024-08-28&g=2024-08-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2024-08-28&g=2024-08-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2024-08-28&g=2024-08-28).
+- c. volmacht en machtiging voor het verrichten van andere rechtshandelingen en feitelijke handelingen met betrekking tot besluiten als bedoeld in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2025-08-22&g=2025-08-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2025-08-22&g=2025-08-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2025-08-22&g=2025-08-22), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2025-08-22&g=2025-08-22), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2025-08-22&g=2025-08-22) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2025-08-22&g=2025-08-22).
 
-2. De Raad van bestuur van de SVB is bevoegd voor de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2024-08-28&g=2024-08-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2024-08-28&g=2024-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2024-08-28&g=2024-08-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2024-08-28&g=2024-08-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2024-08-28&g=2024-08-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2024-08-28&g=2024-08-28) bedoelde aangelegenheden ondermandaat, volmacht en machtiging te verlenen aan de onder hem ressorterende functionarissen.
+2. De Raad van bestuur van de SVB is bevoegd voor de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=3&z=2025-08-22&g=2025-08-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=4&z=2025-08-22&g=2025-08-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=5&z=2025-08-22&g=2025-08-22), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=7&z=2025-08-22&g=2025-08-22), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=8&z=2025-08-22&g=2025-08-22) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2025-08-22&g=2025-08-22) bedoelde aangelegenheden ondermandaat, volmacht en machtiging te verlenen aan de onder hem ressorterende functionarissen.
 
 3. Het krachtens mandaat en ondermandaat, ondertekenen van besluiten en beschikkingen op bezwaar geschiedt als volgt:
 
@@ -160,7 +160,7 @@ namens deze,
 
 1. De lasten van deze regeling voor de SVB worden gefinancierd door een rijksbijdrage aan de SVB.
 
-2. Op de lasten van deze regeling voor de SVB komt in mindering de waarde van de ten onrechte toegekende verstrekkingen, die wordt teruggevorderd op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2024-08-28&g=2024-08-28).
+2. Op de lasten van deze regeling voor de SVB komt in mindering de waarde van de ten onrechte toegekende verstrekkingen, die wordt teruggevorderd op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046353&artikel=9&z=2025-08-22&g=2025-08-22).
 
 3. [Artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) en [artikel 120, derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=120) zijn van overeenkomstige toepassing.
 
@@ -172,11 +172,11 @@ namens deze,
 
 ##### Artikel 12. Inwerkingtreding en beëindiging regeling
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werkt terug tot en met 24 februari 2022 en vervalt met ingang van 1 september 2025.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werkt terug tot en met 24 februari 2022 en vervalt met ingang van 1 september 2026.
 
 2. In afwijking van het eerste lid kan de Minister beslissen de regeling met ingang van een eerdere datum te laten vervallen voor zover de Minister van Buitenlandse Zaken het woonland van de gerepatrieerden of evacués veilig heeft verklaard.
 
-3. In afwijking van het eerste lid kan de Minister beslissen de regeling na 1 september 2025 te verlengen.
+3. In afwijking van het eerste lid kan de Minister beslissen de regeling na 1 september 2026 te verlengen.
 
 4. De regeling, zoals die voor de datum waarop deze vervalt geldt, blijft van toepassing op de financiële afwikkeling van deze regeling.
 
