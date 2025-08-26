@@ -4,7 +4,7 @@ identifier: "BWBR0051423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-26"
-last_updated: "2025-06-19"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051423"
 soort: "ministeriele-regeling"
@@ -200,19 +200,19 @@ Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volm
 
 ##### Artikel 5
 
-Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) over informatie die verband houdt met de uitoefening van de bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-06-19), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-06-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-06-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-06-19).
+Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) over informatie die verband houdt met de uitoefening van de bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-08-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-08-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-08-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-08-26).
 
 ##### Artikel 6
 
-Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op bezwaar, het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-06-19), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-06-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-06-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-06-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=5&z=2025-08-26&g=2025-06-19) en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
+Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten op bezwaar, het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-08-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-08-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-08-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-08-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=5&z=2025-08-26&g=2025-08-26) en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
 
 ##### Artikel 7
 
-De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-06-19), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-06-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-06-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-06-19), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=5&z=2025-08-26&g=2025-06-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=6&z=2025-08-26&g=2025-06-19) ondermandaat of machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend.
+De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=1&z=2025-08-26&g=2025-08-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=2&z=2025-08-26&g=2025-08-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=3&z=2025-08-26&g=2025-08-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=4&z=2025-08-26&g=2025-08-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=5&z=2025-08-26&g=2025-08-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=6&z=2025-08-26&g=2025-08-26) ondermandaat of machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend.
 
 ##### Artikel 8
 
-De Directeur-Generaal van de Dienst Uitvoering Onderwijs en de onder hem ressorterende functionarissen aan wie op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=7&z=2025-08-26&g=2025-06-19) ondermandaat of machtiging is verleend, zijn gehouden in de ondertekening van stukken die op basis van deze regeling worden ondertekend, de vertegenwoordigingsbevoegdheid tot uiting te brengen door opneming van de volgende formule:
+De Directeur-Generaal van de Dienst Uitvoering Onderwijs en de onder hem ressorterende functionarissen aan wie op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051423&artikel=7&z=2025-08-26&g=2025-08-26) ondermandaat of machtiging is verleend, zijn gehouden in de ondertekening van stukken die op basis van deze regeling worden ondertekend, de vertegenwoordigingsbevoegdheid tot uiting te brengen door opneming van de volgende formule:
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
 
