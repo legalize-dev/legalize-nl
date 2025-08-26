@@ -4,7 +4,7 @@ identifier: "BWBR0035289"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-08-26"
-last_updated: "2014-07-05"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035289"
 soort: "beleidsregel"
@@ -42,17 +42,17 @@ Besluit:
 
 ##### Artikel 1
 
-1. Ontheffing van het verbod, bedoeld in [artikel 32a van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=32a), voor het gebruik van in het eerste lid van dat artikel genoemde vistuigen ten behoeve van de visserij op wolhandkrab en Noordzeekrab, wordt op aanvraag verleend.
+1. Een vergunning als bedoeld in [artikel 36, eerste en derde lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het gebruik van vistuigen, genoemd in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=32a), van die regeling, ten behoeve van de visserij op andere soorten dan aal, wordt op aanvraag verleend.
 
-2. Ontheffing wordt verleend indien:
+2. Een vergunning wordt verleend indien:
 
-- a. uit de aanvraag naar het oordeel van de Minister van Economische Zaken blijkt dat voldoende is geborgd dat geen aal aan de wateren wordt onttrokken, doordat in ieder geval:
+- a. uit de aanvraag naar het oordeel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur blijkt dat voldoende is geborgd dat geen aal aan de wateren wordt onttrokken, doordat in ieder geval:
 
-- 1°. door de aanvrager voor adequate controle op de naleving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=3&z=2014-07-05&g=2014-07-05) bedoelde voorschriften wordt gezorgd door onafhankelijke controleurs, en in elk geval is voorzien in onaangekondigde controles;
+- 1°. door de aanvrager voor adequate controle op de naleving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=3&z=2025-08-26&g=2025-08-26) bedoelde voorschriften wordt gezorgd door onafhankelijke controleurs, en in elk geval is voorzien in onaangekondigde controles;
 
 - 2°. door de aanvrager is voorzien in voldoende afschrikwekkende sancties voor degene ten aanzien waarvan bij de controles, bedoeld in subonderdeel 1°, is gebleken dat hij de in dat subonderdeel bedoelde voorschriften heeft overtreden;
 
-- 3°. de aanvrager heeft voorzien in een systeem waarin de locatie van in het water geplaatste vistuigen als bedoeld in het eerste lid, en de visserijactiviteit van degenen die voor de ontheffinghouder de visserij verrichten, worden geregistreerd, en
+- 3°. de aanvrager heeft voorzien in een systeem waarin de locatie van in het water geplaatste vistuigen als bedoeld in het eerste lid, en de visserijactiviteit van degenen die voor de vergunninghouder de visserij verrichten, worden geregistreerd, en
 
 - 4°. uit de aanvraag blijkt dat de visserij zal plaatsvinden met vistuigen die zijn vormgegeven volgens de nieuwste inzichten met betrekking tot beperking van bijvangst van aal, en
 
@@ -60,7 +60,7 @@ Besluit:
 
 ##### Artikel 2
 
-Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2014-07-05&g=2014-07-05), gaat vergezeld van een projectplan waarin:
+Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26), gaat vergezeld van een projectplan waarin:
 
 - a. uiteen is gezet op welke wijze in controle wordt voorzien, waarbij in ieder geval melding wordt gemaakt van de aard en de frequentie van de controles;
 
@@ -68,34 +68,34 @@ Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/j
 
 - c. wordt aangegeven met welke vistuigen de visserij plaatsvindt en hoe daarmee de kans op bijvangst van aal wordt beperkt, en
 
-- d. in voorkomend geval uiteen wordt gezet hoe wordt voldaan aan de overige eisen, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2014-07-05&g=2014-07-05).
+- d. in voorkomend geval uiteen wordt gezet hoe wordt voldaan aan de overige eisen, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26).
 
 ##### Artikel 3
 
-1. Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2014-07-05&g=2014-07-05) zijn in ieder geval de volgende voorschriften verbonden:
+1. Aan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26) zijn in ieder geval de volgende voorschriften verbonden:
 
 - a. gevangen aal wordt onmiddellijk teruggezet in het water waarin het is gevangen;
 
-- b. de visserij, die met de ontheffing mogelijk wordt gemaakt, vindt plaats overeenkomstig het projectplan dat is ingediend bij de aanvraag, en
+- b. de visserij, die met de vergunning mogelijk wordt gemaakt, vindt plaats overeenkomstig het projectplan dat is ingediend bij de aanvraag, en
 
-- c. de ontheffinghouder rapporteert voor 31 december van het jaar waarin de ontheffing is verleend over:
+- c. de vergunninghouder rapporteert voor 31 december van het jaar waarin de vergunning is verleend over:
 
-- 1°. de bevindingen in het kader van de controles, bedoeld in [artikel 1, tweede lid, onderdeel a, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2014-07-05&g=2014-07-05);
+- 1°. de bevindingen in het kader van de controles, bedoeld in [artikel 1, tweede lid, onderdeel a, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26);
 
 - 2°. de sancties, die zijn opgelegd aan degene bij wie een overtreding is geconstateerd, en
 
-- 3°. door controleurs, die zijn ingezet door de ontheffinghouder, tijdens het lichten van bij de visserij gebruikte fuiken aangetroffen aal, onderscheiden naar typen vistuig waarin deze werd aantroffen, en bevindingen ten aanzien van slijm van alen die uit de vistuigen zijn ontsnapt, onderscheiden naar typen vistuig.
+- 3°. door controleurs, die zijn ingezet door de vergunninghouder, tijdens het lichten van bij de visserij gebruikte fuiken aangetroffen aal, onderscheiden naar typen vistuig waarin deze werd aantroffen, en bevindingen ten aanzien van slijm van alen die uit de vistuigen zijn ontsnapt, onderscheiden naar typen vistuig.
 
-2. Aan de ontheffing kunnen andere voorschriften worden verbonden met het oog op het voorkomen van bijvangst van aal.
+2. Aan de vergunning kunnen andere voorschriften worden verbonden met het oog op het voorkomen van bijvangst van aal.
 
-3. Indien niet aan de voorschriften wordt voldaan kan de ontheffing worden ingetrokken.
+3. Indien niet aan de voorschriften wordt voldaan kan de vergunning worden ingetrokken.
 
 ##### Artikel 4
 
-Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
+Deze beleidsregel berust op [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
 
 ##### Artikel 5
 
-Deze beleidsregels worden aangehaald als: Beleidsregels ontheffing wolhandkrab- en Noordzeekrabvisserij.
+Deze beleidsregel wordt aangehaald als: Beleidsregel vergunning visserij met aangepaste aalvistuigen op andere soorten dan aal.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
