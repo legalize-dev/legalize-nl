@@ -4,7 +4,7 @@ identifier: "BWBR0048579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-28"
-last_updated: "2025-08-01"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048579"
 soort: "ministeriele-regeling"
@@ -42,41 +42,41 @@ Besluit:
 
 ##### Artikel 1. Vaststelling erkende opleidingscodetabel vo en vso
 
-1. De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs op 1 oktober worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-01) vastgesteld.
+1. De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs op 1 oktober worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-28) vastgesteld.
 
-2. De opleidingscodes voor de telling van leerlingen in het voorgezet speciaal onderwijs op 1 februari worden in [bijlage Ib](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ib&z=2025-08-28&g=2025-08-01) vastgesteld.
+2. De opleidingscodes voor de telling van leerlingen in het voorgezet speciaal onderwijs op 1 februari worden in [bijlage Ib](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ib&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 2. Vaststelling erkende opleidingscodetabel vo Caribisch Nederland
 
-De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs in Caribisch Nederland op 1 oktober worden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=II&z=2025-08-28&g=2025-08-01) vastgesteld.
+De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs in Caribisch Nederland op 1 oktober worden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=II&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 3. Vaststelling erkende opleidingscodetabel staatsexamens vo en staatsexamens vo BES
 
-1. De opleidingscodes voor kandidaten die het staatsexamen vo doen worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-01) vastgesteld.
+1. De opleidingscodes voor kandidaten die het staatsexamen vo doen worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-28) vastgesteld.
 
-2. De opleidingscodes voor kandidaten die het staatsexamen vo doen zonder profiel worden in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIa&z=2025-08-28&g=2025-08-01) vastgesteld.
+2. De opleidingscodes voor kandidaten die het staatsexamen vo doen zonder profiel worden in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIa&z=2025-08-28&g=2025-08-28) vastgesteld.
 
-3. De opleidingscodes voor kandidaten die het staatsexamen vo doen op grond van de regelgeving zoals die gold op 31 juli 2016 en in aanmerking komen voor een sectordiploma, worden in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIb&z=2025-08-28&g=2025-08-01) vastgesteld.
+3. De opleidingscodes voor kandidaten die het staatsexamen vo doen op grond van de regelgeving zoals die gold op 31 juli 2016 en in aanmerking komen voor een sectordiploma, worden in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIb&z=2025-08-28&g=2025-08-28) vastgesteld.
 
-4. De opleidingscodes voor kandidaten in Caribisch Nederland die het staatsexamen vo BES doen, worden in [bijlage IIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIc&z=2025-08-28&g=2025-08-01) vastgesteld.
+4. De opleidingscodes voor kandidaten in Caribisch Nederland die het staatsexamen vo BES doen, worden in [bijlage IIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIc&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 4. Vaststelling erkende opleidingscodetabel staatsexamens Nederlands als tweede taal (Nt2)
 
-De opleidingscodes voor de verwerking van behaalde examenresultaten en waardedocumenten van het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192), worden in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IV&z=2025-08-28&g=2025-08-01)vastgesteld.
+De opleidingscodes voor de verwerking van behaalde examenresultaten en waardedocumenten van het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192), worden in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IV&z=2025-08-28&g=2025-08-28)vastgesteld.
 
 ##### Artikel 5. Vaststelling opleidingencodetabel vavo
 
-De opleidingscodes betreffende het voortgezet algemeen volwassenenonderwijs voor regionale opleidingscentra als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), worden in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=V&z=2025-08-28&g=2025-08-01) vastgesteld.
+De opleidingscodes betreffende het voortgezet algemeen volwassenenonderwijs voor regionale opleidingscentra als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), worden in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=V&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 6. Vaststelling vakcodetabel vo, vso en volwasseneneducatie
 
-De vakcodes voor scholen voor voortgezet onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), en voor instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395), voor zover het betreft de daaraan verzorgde opleidingen voortgezet algemeen volwassenenonderwijs, worden in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VI&z=2025-08-28&g=2025-08-01) vastgesteld.
+De vakcodes voor scholen voor voortgezet onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), en voor instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395), voor zover het betreft de daaraan verzorgde opleidingen voortgezet algemeen volwassenenonderwijs, worden in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VI&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 7. Vaststelling generieke examenonderdelencodetabel mbo en examenonderdelencodetabel staatsexamens Nederlands als tweede taal (NT2)
 
-1. De examenonderdelencodes voor instellingen als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) betreffende het beroepsonderwijs worden in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIa&z=2025-08-28&g=2025-08-01) vastgesteld.
+1. De examenonderdelencodes voor instellingen als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) betreffende het beroepsonderwijs worden in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIa&z=2025-08-28&g=2025-08-28) vastgesteld.
 
-2. De examenonderdelencodes voor het College voor toetsen en examens, bedoeld in [artikel 1 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=1), betreffende het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taa](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)l, worden in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIb&z=2025-08-28&g=2025-08-01) vastgesteld.
+2. De examenonderdelencodes voor het College voor toetsen en examens, bedoeld in [artikel 1 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=1), betreffende het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taa](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)l, worden in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIb&z=2025-08-28&g=2025-08-28) vastgesteld.
 
 ##### Artikel 8. Intrekking
 
@@ -90,19 +90,19 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling codetabellen vo, vso en mbo.
 
-## Bijlage Ia. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage Ia. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 ### Technische toelichting bijlage Ia
 
 In de bijlage worden specifieke erkende opleidingscodes opgenomen voor de combinatieklassen van de kaderberoepsgerichte en theoretische leerwegen in de onderbouw van het voortgezet onderwijs. De code 0028 is bedoeld voor de reguliere leerlingen. De code 0047 voor leerlingen met een lwoo-indicatie.
 
-## Bijlage Ib. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage Ib. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 ### Technische toelichting bijlage Ib
 
 In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor de combinatieklassen van de kaderberoepsgerichte en theoretische leerwegen in de onderbouw van het voortgezet speciaal onderwijs.
 
-## Bijlage II. Behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=2&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage II. Behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=2&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | Registratiecode | Korte omschrijving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -219,10 +219,11 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0942 | Seaman Operations, level 2 |   |   |   | 4 | 5 |   |
 | 0943 | Cosmetology, level 2 |   |   |   | 4 | 5 |   |
 | 0944 | Furniture Making, level 2 |   |   |   | 4 | 5 |   |
+| 0945 | Data operations, level 2 |   |   |   | 4 | 5 |   |
 | 0950 | Carribean secundary education certificate |   |   |   | 4 | 5 |   |
 | 0951 | Carribean Advanced Proficiency Examination |   |   |   |   |   | 6en7 |
 
-## Bijlage IIIa. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage IIIa. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | Registratiecode | Omschrjving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -234,7 +235,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0086 | VMBO KB zonder profiel |   |   |   | 4 |   |   |
 | 0087 | VMBO BB zonder profiel |   |   |   | 4 |   |   |
 
-## Bijlage IIIb. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage IIIb. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | Registratiecode | Naam | jaar 1 | jaar 2 | jaar 3 | jaar 4 | jaar 5 | jaar 6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -255,7 +256,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 5043 | VMBO TL Economie |   |   |   | 4 |   |   |
 | 5044 | VMBO TL Landbouw |   |   |   | 4 |   |   |
 
-## Bijlage IIIc. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage IIIc. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | Registratiecode | Korte Omschrijving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -279,14 +280,14 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0472 | MAVO/Theor Lw-Profiel Economie |   |   | 3 | 4 |   |   |
 | 0473 | MAVO/Theor Lw-Profiel Groen |   |   | 3 | 4 |   |   |
 
-## Bijlage IV. Behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=4&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage IV. Behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=4&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | erkende opleidingscode | naam |
 | --- | --- |
 | 0088 | Nederlands als 2e taal B1 |
 | 0089 | Nederlands als 2e taal B2 |
 
-## Bijlage V. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=5&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage V. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=5&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | Code | Korte Omschrijving |
 | --- | --- |
@@ -327,7 +328,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 5453 | VAVO MAVO/Theor Lw-Profiel Groen |
 | 5490 | VAVO MAVO/theorethische leerweg-vmbo voorexamenklas |
 
-## Bijlage VI. Behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2025-08-28&g=2025-08-01) van de regeling codetabellen vo, vso en mbo
+## Bijlage VI. Behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2025-08-28&g=2025-08-28) van de regeling codetabellen vo, vso en mbo
 
 |   |   |   |   |   | HAVO | HAVO | HAVO | VWO | VWO | VWO |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -428,80 +429,18 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | praktijkgericht programma maatschappij (groot) | pp maatschappij groot | ppmg | 1154 |   | 2024 |   |   |   |   |   |
 | praktijkroute havo-educatie | pp praktijkroute educatie | pred | 1155 |   | 2024 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
+| beproeving Chinese taal en cultuur | bepr Chinese taal cult | bcc | 1160 |   |   |   |   |   |   |   |
+| beproeving Latijnse taal en cultuur | bepr Latijnse taal cult | blc |   | 1161 |   |   |   |   |   |   |
+| beproeving Griekse taal en cultuur | bepr Griekse taal cult | bgc |   | 1162 |   |   |   |   |   |   |
+| beproeving wiskunde cultuur en maatschappij | bepr wiskunde cult maats | bwcm |   | 1163 |   |   |   |   |   |   |
+| beproeving wiskunde economie en maatschappij | bepr wiskunde eco maats | bwem | 1164 | 1164 |   |   |   |   |   |   |
+| beproeving wiskunde natuur en gezondheid | bepr wiskunde nat gez | bwng | 1165 | 1165 |   |   |   |   |   |   |
+| beproeving wiskunde natuur en techniek | bepr wiskunde nat tech | bwnt | 1166 | 1166 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **vakken BES** |   |   |   |   |   |   |   |   |   |   |
 | Papiaments | Papiaments | pap | 1108 | 1108 |   |   |   |   |   |   |
 | Papiaments (elementair) | Papiaments (elementair) | pape | 1109 | 1109 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |
-| **oud** |   |   |   |   |   |   |   |   |   |   |
-| Arabische taal (oud) | Arabisch | ar |   | 0111 |   | 2012 |   |   | 2012 |   |
-| Arabische taal 1 | Arabisch 1 | ar1 | 0112 |   |   | 2012 |   |   | 2012 |   |
-| Arabische taal 1,2 | Arabisch 1,2 | ar12 | 0113 |   |   | 2012 |   |   | 2012 |   |
-| Arabische taal (elementair) | Arabisch-e | ar-e | 0114 | 0114 |   | 2012 |   |   | 2012 |   |
-| biologie (oud) | biologie | bi | 0191 |   |   | 2012 |   |   | 2012 |   |
-| biologie 1 | biologie 1 | bi1 |   | 0192 |   | 2012 |   |   | 2012 |   |
-| biologie 1,2 | biologie 1,2 | bi12 |   | 0193 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 1 | ckv1 | ckv1 | 0401 | 0401 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 2 | ckv2 | ckv2 | 0402 | 0402 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 3 (beeldende vormgeving) | beeldend 3 | bv3 | 0403 | 0403 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 3 muziek) | muziek 3 | mu3 | 0404 | 0404 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 3 (drama) | drama 3 | dr3 | 0405 | 0405 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 3 (dans) | dans 3 | da3 | 0406 | 0406 |   | 2012 |   |   | 2012 |   |
-| culturele en kunstzinnige vorming 2 in combinatie met: |   |   |   |   |   | 2012 |   |   | 2012 |   |
-| * culturele en kunstzinnige vorming 3 (beeldende vormgeving) | beeldend 2,3 | bv23 | 0407 | 0407 |   | 2012 |   |   | 2012 |   |
-| * culturele en kunstzinnige vorming 3 (muziek) | muziek 2,3 | mu23 | 0408 | 0408 |   | 2012 |   |   | 2012 |   |
-| * culturele en kunstzinnige vorming 3 (drama) | drama 2,3 | dr23 | 0409 | 0409 |   | 2012 |   |   | 2012 |   |
-| * culturele en kunstzinnige vorming 3 (dans) | dans 2,3 | da23 | 0411 | 0411 |   | 2012 |   |   | 2012 |   |
-| Duitse taal 1 | Duits 1 | du1 | 0061 | 0061 |   | 2012 |   |   | 2012 |   |
-| Duitse taal 1,2 | Duits 1,2 | du12 | 0062 | 0062 |   | 2012 |   |   | 2012 |   |
-| economie 1 | economie 1 | ec1 | 0231 | 0231 |   | 2012 |   |   | 2012 |   |
-| economie 1,2 | economie 1,2 | ec12 | 0232 | 0232 |   | 2012 |   |   | 2012 |   |
-| Engelse taal (oud) | Engels | en | 0071 | 0071 |   | 2012 |   |   | 2012 |   |
-| Franse taal 1 | Frans 1 | fa1 | 0051 | 0051 |   | 2012 |   |   | 2012 |   |
-| Franse taal 1,2 | Frans 1,2 | fa12 | 0052 | 0052 |   | 2012 |   |   | 2012 |   |
-| Friese taal | Fries | fr |   | 0021 |   | 2012 |   |   | 2012 |   |
-| Friese taal 1 | Fries 1 | fr1 | 0022 |   |   | 2012 |   |   | 2012 |   |
-| Friese taal 1,2 | Fries 1,2 | fr12 | 0023 |   |   | 2012 |   |   | 2012 |   |
-| geschiedenis (oud) | geschiedenis | gs | 0121 |   |   | 2012 |   |   | 2012 |   |
-| geschiedenis 1 (gemeenschappelijk deel) | geschiedenis1 | gs1 |   | 0122 |   | 2012 |   |   | 2012 |   |
-| geschiedenis (profieldeel of vrije deel) | geschiedenis | gs |   | 0123 |   | 2012 |   |   | 2012 |   |
-| geschiedenis en maatschappijleer | gesch/mijleer | gm | 0124 | 0124 |   | 2012 |   |   | 2012 |   |
-| Griekse taal en letterkunde | Grieks | gr |   | 0041 |   | 2012 |   |   | 2012 |   |
-| handvaardigheid I (handenarbeid) | handv. I | ha | 0280 | 0280 |   | 2012 |   |   | 2012 |   |
-| handvaardigheid II (textiele werkvormen) | handv. II | tw | 0290 | 0290 |   | 2012 |   |   | 2012 |   |
-| Italiaanse taal (oud) | Italiaans | it |   | 0201 |   | 2012 |   |   | 2012 |   |
-| Italiaanse taal 1 | Italiaans 1 | it1 | 0202 |   |   | 2012 |   |   | 2012 |   |
-| Italiaanse taal 1,2 | Italiaans 1,2 | it12 | 0203 |   |   | 2012 |   |   | 2012 |   |
-| Italiaanse taal (elementair) | Italiaans-e | it-e | 0204 | 0204 |   | 2012 |   |   | 2012 |   |
-| Latijnse taal en letterkunde | Latijn | la |   | 0031 |   | 2012 |   |   | 2012 |   |
-| letterkunde | letterkunde | lett | 0361 | 0361 |   | 2012 |   |   | 2012 |   |
-| lichamelijke opvoeding 1 | lo 1 | lo1 | 0351 | 0351 |   | 2012 |   |   | 2012 |   |
-| lichamelijke opvoeding 2 | lo 2 | lo2 | 0352 | 0352 |   | 2012 |   |   | 2012 |   |
-| maatschappijleer 1 (gemeenschapelijk deel) | mijleer 1 | ma1 | 0321 | 0321 |   | 2012 |   |   | 2012 |   |
-| maatschappijleer (voor profiel- of vrij deel) | mijleer | ma | 0322 | 0322 |   | 2012 |   |   | 2012 |   |
-| natuurkunde 1 | natuurkunde 1 | na1 | 0171 | 0171 |   | 2012 |   |   | 2012 |   |
-| natuurkunde 1,2 | natuurkunde 1,2 | na12 | 0172 | 0172 |   | 2012 |   |   | 2012 |   |
-| Nederlandse taal (oud) | Nederlands | ne | 0011 | 0011 |   | 2012 |   |   | 2012 |   |
-| Russische taal (oud) | Russisch | ru |   | 0091 |   | 2012 |   |   | 2012 |   |
-| Russische taal 1 | Russisch 1 | ru1 | 0092 |   |   | 2012 |   |   | 2012 |   |
-| Russische taal 1,2 | Russisch 1,2 | ru12 | 0093 |   |   | 2012 |   |   | 2012 |   |
-| Russische taal (elementair) | Russisch-e | ru-e | 0094 | 0094 |   | 2012 |   |   | 2012 |   |
-| scheikunde (oud) | scheikunde | sk | 0181 |   |   | 2012 |   |   | 2012 |   |
-| scheikunde 1 | scheikunde 1 | sk1 |   | 0182 |   | 2012 |   |   | 2012 |   |
-| scheikunde 1,2 | scheikunde 1,2 | sk12 |   | 0183 |   | 2012 |   |   | 2012 |   |
-| Spaanse taal (oud) | Spaans | sp |   | 0081 |   | 2012 |   |   | 2012 |   |
-| Spaanse taal 1 | Spaans 1 | sp1 | 0082 |   |   | 2012 |   |   | 2012 |   |
-| Spaanse taal 1,2 | Spaans 1,2 | sp12 | 0083 |   |   | 2012 |   |   | 2012 |   |
-| Spaanse taal (elementair) | Spaans-e | sp-e | 0084 | 0084 |   | 2012 |   |   | 2012 |   |
-| Turkse taal (oud) | Turks | tu |   | 0101 |   | 2012 |   |   | 2012 |   |
-| Turkse taal 1 | Turks 1 | tu1 | 0102 |   |   | 2012 |   |   | 2012 |   |
-| Turkse taal 1,2 | Turks 1,2 | tu12 | 0103 |   |   | 2012 |   |   | 2012 |   |
-| Turkse taal (elementair) | Turks-e | tu-e | 0104 | 0104 |   | 2012 |   |   | 2012 |   |
-| wiskunde A1 | wiskunde A1 | wa1 | 0141 | 0141 |   | 2012 |   |   | 2012 |   |
-| wiskunde A1,2 | wiskunde A1,2 | wa12 | 0142 | 0142 |   | 2012 |   |   | 2012 |   |
-| wiskunde B1 | wiskunde B1 | wb1 | 0151 | 0151 |   | 2012 |   |   | 2012 |   |
-| wiskunde B1,2 | wiskunde B1,2 | wb12 | 0152 | 0152 |   | 2012 |   |   | 2012 |   |
 
 | Wettelijke vaknaam | Roepnaam | Afk. | BB | BB | KB | GL | TL | Examenjaar vanaf | Examenjaar t/m | Bezemklas in |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -516,15 +455,15 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | Franse taal | Frans | fa | 0053 | 0053 | 0053 | 0053 | 0053 |   |   |   |
 | geschiedenis en staatsinrichting | gesch/staatsinr | gs | 0125 | 0125 | 0125 | 0125 | 0125 |   |   |   |
 | kunstvakken I | kunstv I | kv1 | 0416 | 0416 | 0416 | 0416 | 0416 |   | 2018 | 2019 |
-| kunstvakken II beeldende vakken – audiovisuele vormgeving | beeldend-av | bav |   |   |   | 0420 | 0420 |   |   |   |
-| kunstvakken II beeldende vakken – film | beeldend-fi | bfi |   |   |   | 0421 | 0421 |   |   |   |
-| kunstvakken II beeldende vakken – fotografie | beeldend-fo | bfo |   |   |   | 0422 | 0422 |   |   |   |
-| kunstvakken II beeldende vakken – handvaardigheid/handenarbeid | beeldend-ha | bha |   |   |   | 0417 | 0417 |   |   |   |
-| kunstvakken II beeldende vakken – handvaardigheid/textiele werkvormen | beeldend-tw | btw |   |   |   | 0419 | 0419 |   |   |   |
-| kunstvakken II beeldende vakken – tekenen | beeldend-te | bte |   |   |   | 0418 | 0418 |   |   |   |
-| kunstvakken II dans | dans | kda |   |   |   | 0414 | 0414 |   |   |   |
-| kunstvakken II drama | drama | kdr |   |   |   | 0415 | 0415 |   |   |   |
-| kunstvakken II muziek | muziek | kmu |   |   |   | 0413 | 0413 |   |   |   |
+| beeldende vakken – audiovisuele vorming | beeldend-av | bav |   |   |   | 0420 | 0420 |   |   |   |
+| beeldende vakken – film | beeldend-fi | bfi |   |   |   | 0421 | 0421 |   |   |   |
+| beeldende vakken – fotografie | beeldend-fo | bfo |   |   |   | 0422 | 0422 |   |   |   |
+| beeldende vakken – handvaardigheid/handenarbeid | beeldend-ha | bha |   |   |   | 0417 | 0417 |   |   |   |
+| beeldende vakken – handvaardigheid/textiele werkvormen | beeldend-tw | btw |   |   |   | 0419 | 0419 |   |   |   |
+| beeldende vakken – tekenen | beeldend-te | bte |   |   |   | 0418 | 0418 |   |   |   |
+| dans | dans | kda |   |   |   | 0414 | 0414 |   |   |   |
+| drama | drama | kdr |   |   |   | 0415 | 0415 |   |   |   |
+| muziek | muziek | kmu |   |   |   | 0413 | 0413 |   |   |   |
 | lichamelijke opvoeding | lo | lo | 0353 | 0353 | 0353 | 0353 | 0353 |   |   |   |
 | maatschappijleer | mijleer | ma | 0322 | 0322 | 0322 | 0322 | 0322 |   |   |   |
 | maatschappijleer II | mijleer II | ma2 | 0323 | 0323 | 0323 | 0323 | 0323 |   |   |   |
@@ -572,7 +511,10 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | praktijkgericht programma produceren, installeren en energie | pp produceren, installeren&ene | pppi |   |   |   | 1146 | 1146 | 2024 | 2025 | 2026 |
 | praktijkgericht programma mobiliteit en transport | pp mobiliteit&transport | ppmt |   |   |   | 1147 | 1147 | 2024 | 2025 | 2026 |
 | oriëntatiejaar praktijkgericht programma gemengde en theoretische leerwegen | oj pp gl&tl | opgt |   |   |   | 1152 | 1152 |   |   |   |
-| wiskunde 1,2 | wiskunde1,2 | wi12 | 1156 | 1156 | 1156 | 1156 | 1156 |   |   |   |
+| wiskunde (nieuwe stijl) | wiskunde nw stijl | wins | 1156 | 1156 | 1156 | 1156 | 1156 |   |   |   |
+| beproeving Friese taal en cultuur | bepr Friese taal cult | bftc | 1167 | 1167 | 1167 |   |   |   |   |   |
+| beproeving gecijferdheid | bepr gecijferdheid | bge | 1168 | 1168 | 1168 | 1168 | 1168 |   |   |   |
+| horeca, bakkerij en recreatie / zorg en welzijn | hbr_zw | hbzw | 2400 | 2400 | 2400 | 2400 |   |   |   |   |
 | bouwen, wonen, interieur / produceren, installeren en energie | bwi_pie | bwpi | 2200 | 2200 | 2200 | 2200 |   | 2025 |   |   |
 | bouwen, wonen, interieur / produceren, installeren en energie / mobiliteit en transport | bwi_pie_mtr | bwpm | 2300 | 2300 | 2300 | 2300 |   | 2025 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
@@ -614,6 +556,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | tegelzetten voor het vmbo | tegelzetten voor het vmbo | tzvv | 1230 | 1230 | 1230 | 1230 |   | 2020 |   |   |
 | meubelstofferen voor het vmbo | meubelstofferen vh vmbo | msvv | 1231 | 1231 | 1231 | 1231 |   | 2020 |   |   |
 | duurzaam en circulair bouwen | duurzaam circulair bouw | dcb | 1232 | 1232 | 1232 | 1232 |   | 2022 |   |   |
+| biobased en natuurlijk bouwen | biobased natuurlijk bouw | bnb | 1233 | 1233 | 1233 | 1233 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **profielvak produceren, installeren en energie** |   |   |   |   |   |   |   |   |   |   |
 | produceren, installeren en energie | prodinstallenergie | pie | 1300 | 1300 | 1300 | 1300 |   |   |   |   |
@@ -651,6 +594,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | dronetechniek II | dronetechniek II | dt2 | 1336 | 1336 | 1336 | 1336 |   | 2021 |   |   |
 | edelmetaal bewerken | edelmetaal bewerken | edel |   |   | 1337 | 1337 |   | 2023 |   |   |
 | water, techniek en duurzaamheid | water, techniek&duurzaamheid | wt&d | 1338 | 1338 | 1338 | 1338 |   | 2023 |   |   |
+| composiet | composiet | cmp | 1340 | 1340 | 1340 | 1340 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **profielvak mobiliteit en transport** |   |   |   |   |   |   |   |   |   |   |
 | mobiliteit en transport | mobiliteittransport | mobt | 1400 | 1400 | 1400 | 1400 |   |   |   |   |
@@ -701,7 +645,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | innovatie en prototyping | innovatie en prototyping | inpt | 1517 | 1517 | 1517 | 1517 |   | 2020 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **profielvak economie en ondernemen** |   |   |   |   |   |   |   |   |   |   |
-| economie en ondernemen | eco&ondern | eo | 1700 | 1700 | 1700 | 1700 |   |   | 2024 | 2025 |
+| economie en ondernemen | eco&ondern | eo | 1700 | 1700 | 1700 | 1700 |   |   | 2024 2025 | 2025 2026 |
 | economie en ondernemen (nieuwe stijl) | eco&ondern nw stijl | eons | 1722 | 1722 | 1722 | 1722 |   | 2024 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **profielmodule economie en ondernemen** |   |   |   |   |   |   |   |   |   |   |
@@ -806,6 +750,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | actief in de natuur | actiefindenatuur | actn | 2021 | 2021 | 2021 | 2021 |   |   |   |   |
 | visstandbeheer en sportvisserij | visstandbeheer & sportvisserij | viss | 2022 | 2022 | 2022 | 2022 |   | 2020 |   |   |
 | duurzame melkveehouderij bedrijven en biodiversiteit vergroten | duurz melkv biod vergroten | dmbv | 2023 | 2023 | 2023 | 2023 |   | 2022 |   |   |
+| paard en welzijn | paard welzijn | paw | 2025 | 2025 | 2025 | 2025 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 | **profielvak maritiem en techniek** |   |   |   |   |   |   |   |   |   |   |
 | maritiem en techniek | maritiemtechn | mate | 2100 | 2100 | 2100 | 2100 |   |   |   |   |
@@ -857,15 +802,15 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 |   |   |   |   |   |   |   |   |   |   |   |
 | **praktijkgerichte vakken** |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
-| praktijkgericht vak bouwen, wonen en interieur | pv bouwen, wonen en interieur | pvbw |   |   |   | 1234 |   | 2025 |   |   |
-| praktijkgericht vak produceren, installeren en energie | pv produceren, installeren&ener | pvpi |   |   |   | 1339 |   | 2025 |   |   |
-| praktijkgericht vak mobiliteit en transport | pv mobiliteit en transport | pvmt |   |   |   | 1420 |   | 2025 |   |   |
-| praktijkgericht vak media, vormgeving en ict | pv media, vormgeving en ict | pvmv |   |   |   | 1518 |   | 2025 |   |   |
+| praktijkgericht vak bouwen, wonen en interieur | pv bouwen, wonen en interieur | pvbw |   |   |   | 1234 | 1234 | 2025 |   |   |
+| praktijkgericht vak produceren, installeren en energie | pv produceren, installeren&ener | pvpi |   |   |   | 1339 | 1339 | 2025 |   |   |
+| praktijkgericht vak mobiliteit en transport | pv mobiliteit en transport | pvmt |   |   |   | 1420 | 1420 | 2025 |   |   |
+| praktijkgericht vak media, vormgeving en ict | pv media, vormgeving en ict | pvmv |   |   |   | 1518 | 1518 | 2025 |   |   |
 | praktijkgericht vak economie en ondernemen | pv economie en ondernemen | pveo |   |   |   | 1727 | 1727 | 2025 |   |   |
-| praktijkgericht vak horeca, bakkerij en recreatie | pv horeca, bakkerij&recreatie | pvhb |   |   |   | 1823 |   | 2025 |   |   |
+| praktijkgericht vak horeca, bakkerij en recreatie | pv horeca, bakkerij&recreatie | pvhb |   |   |   | 1823 | 1823 | 2025 |   |   |
 | praktijkgericht vak zorg en welzijn | pv zorg en welzijn | pvzw |   |   |   | 1633 | 1633 | 2025 |   |   |
-| praktijkgericht vak groen | pv groen | pvgr |   |   |   | 2024 |   | 2025 |   |   |
-| praktijkgericht vak maritiem en techniek | pv maritiem en techniek | pvma |   |   |   | 2122 |   | 2025 |   |   |
+| praktijkgericht vak groen | pv groen | pvgr |   |   |   | 2024 | 2024 | 2025 |   |   |
+| praktijkgericht vak maritiem en techniek | pv maritiem en techniek | pvma |   |   |   | 2122 | 2122 | 2025 |   |   |
 | praktijkgericht vak dienstverlening en producten | pv dienstverlening en producten | pvdp |   |   |   | 1919 | 1919 | 2025 |   |   |
 | praktijkgericht vak informatietechnologie | pv informatietechnologie | pvit |   |   |   | 1157 | 1157 | 2025 |   |   |
 | praktijkgericht vak technologie en toepassing | pv technologie en toepassing | pvtt |   |   |   | 1158 | 1158 | 2025 |   |   |
@@ -941,7 +886,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 
 Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2024-08-01) en toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage VIIa. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage VIIa. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 ### Technische toelichting bij bijlage VIIa
 
@@ -949,7 +894,7 @@ De vakcodes rekenen 2F (3002) en rekenen 2ER (3004), kunnen tot en met schooljaa
 
 De vakcodes rekenen 3F (3006) en rekenen 3ER (3007) kunnen eveneens tot en met schooljaar 2026–2027 worden gebruikt voor de studenten die voor het schooljaar 2022–2023 zijn gestart met hun middenkader- of specialistenopleiding (mbo niveau 4) opleiding en deze opleiding willen afronden.
 
-## Bijlage VIIb. Behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=7&z=2025-08-28&g=2025-08-01) van de Regeling codetabellen vo, vso en mbo
+## Bijlage VIIb. Behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=7&z=2025-08-28&g=2025-08-28) van de Regeling codetabellen vo, vso en mbo
 
 | examenonderdeel | code |
 | --- | --- |
@@ -962,4 +907,4 @@ De vakcodes rekenen 3F (3006) en rekenen 3ER (3007) kunnen eveneens tot en met s
 | luisteren B2 | 3025 |
 | schrijven B2 | 3026 |
 
-Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-01) en toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2025-08-28&g=2025-08-28) en toelichting in de Staatscourant worden geplaatst.
