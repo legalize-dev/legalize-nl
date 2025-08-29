@@ -4,7 +4,7 @@ identifier: "BWBR0047660"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-23"
-last_updated: "2024-11-01"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047660"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. (verstrekking subsidie)
 
-De minister verstrekt jaarlijks op aanvraag exploitatiesubsidie aan een regionale ontwikkelingsmaatschappij, voor niet-economische activiteiten die betrekking hebben op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&bijlage=1&z=2024-11-01&g=2024-11-01) bij deze regeling opgenomen taakvelden.
+De minister verstrekt jaarlijks op aanvraag exploitatiesubsidie aan een regionale ontwikkelingsmaatschappij, voor niet-economische activiteiten die betrekking hebben op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&bijlage=1&z=2025-08-29&g=2025-08-29) bij deze regeling opgenomen taakvelden.
 
 ##### Artikel 4. (aanvraagtermijn)
 
@@ -86,11 +86,11 @@ De minister verstrekt jaarlijks op aanvraag exploitatiesubsidie aan een regional
 
 ##### Artikel 6. (activiteitenplan)
 
-In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:62) bevat het activiteitenplan een beschrijving van de prestatie-indicatoren waarmee de subsidieaanvrager inzicht geeft in de mate waarin de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), bijdragen aan het bevorderen van de innovatie- en concurrentiekracht van Nederlandse regio’s.
+In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:62) bevat het activiteitenplan een beschrijving van de prestatie-indicatoren waarmee de subsidieaanvrager inzicht geeft in de mate waarin de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), bijdragen aan het bevorderen van de innovatie- en concurrentiekracht van Nederlandse regio’s.
 
 ##### Artikel 7. (in aanmerking komende kosten)
 
-Voor subsidie komen in aanmerking de redelijk gemaakte exploitatiekosten die rechtstreeks voortvloeien uit de ontwikkeltaken, voor zover de exploitatiekosten verbonden zijn aan de uitvoering van de niet-economische activiteiten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), en die zien op:
+Voor subsidie komen in aanmerking de redelijk gemaakte exploitatiekosten die rechtstreeks voortvloeien uit de ontwikkeltaken, voor zover de exploitatiekosten verbonden zijn aan de uitvoering van de niet-economische activiteiten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), en die zien op:
 
 - a. personeelskosten;
 
@@ -100,11 +100,11 @@ Voor subsidie komen in aanmerking de redelijk gemaakte exploitatiekosten die rec
 
 ##### Artikel 8. (subsidieplafond)
 
-De minister maakt jaarlijks uiterlijk op 1 november in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&bijlage=2&z=2024-11-01&g=2024-11-01) bij deze regeling per regionale ontwikkelingsmaatschappij het subsidieplafond bekend voor de exploitatiesubsidie in het aankomende boekjaar of de aankomende boekjaren.
+De minister maakt jaarlijks uiterlijk op 1 november in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&bijlage=2&z=2025-08-29&g=2025-08-29) bij deze regeling per regionale ontwikkelingsmaatschappij het subsidieplafond bekend voor de exploitatiesubsidie in het aankomende boekjaar of de aankomende boekjaren.
 
 ##### Artikel 9. (cumulatie)
 
-Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten van de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens de toepasselijke Europese steunkaders kan worden verstrekt.
+Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten van de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens de toepasselijke Europese steunkaders kan worden verstrekt.
 
 ##### Artikel 10. (afwijzingsgronden)
 
@@ -132,7 +132,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 8. De subsidieontvanger gebruikt de exploitatiesubsidie niet voor economische activiteiten.
 
-9. Indien de subsidieontvanger naast de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), ook economische activiteiten verricht, voert de subsidieontvanger met betrekking tot de financiering van en de kosten en inkomsten uit economische activiteiten een gescheiden boekhouding.
+9. Indien de subsidieontvanger naast de niet-economische activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), ook economische activiteiten verricht, voert de subsidieontvanger met betrekking tot de financiering van en de kosten en inkomsten uit economische activiteiten een gescheiden boekhouding.
 
 10. De subsidieontvanger zorgt ervoor dat bij de uitvoering van activiteiten voor derden, niet zijnde gesubsidieerde activiteiten:
 
@@ -146,7 +146,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 12. (administratievoorschriften)
 
-1. De inrichting van de administratie sluit aan bij de bij de aanvraag ingediende begroting en activiteitenplan, zodat daaruit ten allen tijde de subsidiabele kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=7&z=2024-11-01&g=2024-11-01), kunnen worden afgelezen.
+1. De inrichting van de administratie sluit aan bij de bij de aanvraag ingediende begroting en activiteitenplan, zodat daaruit ten allen tijde de subsidiabele kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=7&z=2025-08-29&g=2025-08-29), kunnen worden afgelezen.
 
 2. Ter zake van de loonkosten is een door middel van een urenadministratie vastgestelde urenverantwoording aanwezig.
 
@@ -158,7 +158,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 14. (staatssteun)
 
-De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), bevat geen staatssteun.
+De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), bevat geen staatssteun.
 
 ##### Artikel 15. (subsidievaststelling)
 
@@ -168,7 +168,7 @@ De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.
 
 - a. een rapport van feitelijke bevindingen van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat informatie bevat waaruit blijkt dat met de aanvraag tot subsidievaststelling wordt voldaan aan de voorschriften, genoemd in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45). De subsidieaanvrager stemt voorafgaand aan het indienen van de aanvraag tot subsidievaststelling de opzet van het rapport van feitelijke bevindingen met de minister af.
 
-- b. een eindrapport waarin het verloop en eindresultaten zijn vastgelegd van de in het activiteitenplan genoemde niet-economische activiteiten, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01), en waarin aan de hand van de prestatie-indicatoren inzicht wordt gegeven in de mate waarin deze activiteiten hebben bijgedragen aan het bevorderen van de innovatie- en concurrentiekracht van Nederlandse regio’s.
+- b. een eindrapport waarin het verloop en eindresultaten zijn vastgelegd van de in het activiteitenplan genoemde niet-economische activiteiten, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29), en waarin aan de hand van de prestatie-indicatoren inzicht wordt gegeven in de mate waarin deze activiteiten hebben bijgedragen aan het bevorderen van de innovatie- en concurrentiekracht van Nederlandse regio’s.
 
 3. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe, dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
@@ -247,7 +247,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 #### § 3. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2024-11-01&g=2024-11-01) (taakvelden)
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=3&z=2025-08-29&g=2025-08-29) (taakvelden)
 
 ### Taakveld 1 – Ontwikkeling en innovatie
 
@@ -257,39 +257,32 @@ Aandachtspunten bij de hiervoor genoemde activiteiten zijn:
 
 Aandachtspunt bij de activiteit gevraagd en ongevraagd delen van actualiteiten en ontwikkelingen in de regio onder de taakvelden 1 en 2 is dat de actualiteiten en ontwikkelingen betrekking hebben op individuele bedrijven en clusters uit het netwerk van de regionale ontwikkelingsmaatschappij en in het verlengde liggen van de reguliere activiteiten (investeren, innoveren en internationaliseren).
 
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=8&z=2024-11-01&g=2024-11-01) (subsidieplafond)
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047660&paragraaf=2&artikel=8&z=2025-08-29&g=2025-08-29) (subsidieplafond)
 
-In onderstaande tabel bevinden zich de subsidieplafonds voor de exploitatiesubsidie. Dit betreffen subsidieplafonds voor het huidige en het komende boekjaar of boekjaren.
+In onderstaande tabel bevinden zich de subsidieplafonds voor de exploitatiesubsidie.
 
 | Regionale ontwikkelingsmaatschappij | Boekjaar | Subsidieplafond (€) |
 | --- | --- | --- |
-| Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2024 | 1.697.000,00 |
 | Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2024–2025 | 90.000,00 |
 | Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2024–2027 | 350.000,00 |
-| Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2025 | 1.487.000,00 |
-| Horizon B.V. | 2024 | 730.000,00 |
+| Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2025 | 1.963.900,00 |
+| Brabantse Ontwikkelingsmaatschappij Holding B.V. | 2025–2026 | 210.000,00 |
 | Horizon B.V. | 2024–2027 | 200.000,00 |
-| Horizon B.V. | 2025 | 730.000,00 |
-| Ontwikkelingsmaatschappij Oost Nederland B.V. | 2024 | 1.487.000,00 |
+| Horizon B.V. | 2025 | 865.775,00 |
 | Ontwikkelingsmaatschappij Oost Nederland B.V. | 2024–2027 | 650.000,00 |
-| Ontwikkelingsmaatschappij Oost Nederland B.V. | 2025 | 1.487.000,00 |
-| Regionale Ontwikkelingsmaatschappij InnovationQuarter B.V. | 2024 | 1.487.000,00 |
+| Ontwikkelingsmaatschappij Oost Nederland B.V. | 2025 | 1.563.900,00 |
 | Regionale Ontwikkelingsmaatschappij InnovationQuarter B.V. | 2024–2027 | 1.050.000,00 |
-| Regionale Ontwikkelingsmaatschappij InnovationQuarter B.V. | 2025 | 1.487.000,00 |
-| N.V. LIOF | 2024 | 1.492.000,00 |
+| Regionale Ontwikkelingsmaatschappij InnovationQuarter B.V. | 2025 | 1.563.900,00 |
 | N.V. LIOF | 2024–2027 | 100.000,00 |
-| N.V. LIOF | 2025 | 1.492.000,00 |
-| N.V. NOM, Investerings- en Ontwikkelingsmaatschappij voor Noord Nederland | 2024 | 1.487.000,00 |
+| N.V. LIOF | 2025 | 1.544.200,00 |
 | N.V. NOM, Investerings- en Ontwikkelingsmaatschappij voor Noord Nederland | 2024–2027 | 50.000,00 |
-| N.V. NOM, Investerings- en Ontwikkelingsmaatschappij voor Noord Nederland | 2025 | 1.487.000,00 |
-| N.V. Economische Impuls Zeeland | 2024 | 730.000,00 |
+| N.V. NOM, Investerings- en Ontwikkelingsmaatschappij voor Noord Nederland | 2025 | 2.820.496,90 |
 | N.V. Economische Impuls Zeeland | 2024–2027 | 200.000,00 |
-| N.V. Economische Impuls Zeeland | 2025 | 730.000,00 |
-| ROM InWest B.V. | 2024 | 1.355.000,00 |
+| N.V. Economische Impuls Zeeland | 2025 | 782.200,00 |
 | ROM InWest B.V. | 2024–2027 | 50.000,00 |
-| ROM InWest B.V. | 2025 | 1.355.000,00 |
-| ROM Regio Utrecht B.V. | 2024 | 1.377.000,00 |
+| ROM InWest B.V. | 2025 | 1.407.200,00 |
 | ROM Regio Utrecht B.V. | 2024–2027 | 1.350.000,00 |
-| ROM Regio Utrecht B.V. | 2025 | 1.377.000,00 |
+| ROM Regio Utrecht B.V. | 2025 | 1.429.200,00 |
+| ROM Regio Utrecht B.V. | 2025–2026 | 400.000,00 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
