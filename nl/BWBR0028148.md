@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2025-04-10"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -280,9 +280,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028148&artikel=2&z=2025-04-10&g=2025-04-10)
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028148&artikel=2&z=2025-08-30&g=2025-08-30)
 
-| wo bachelor in combinatie met educatieve minor1 of de wo bachelor verbonden aan de educatieve module | CROHO code | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
+| wo bachelor in combinatie met educatieve minor1 of de wo bachelor verbonden aan de educatieve module | Opleidingscode | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
 | --- | --- | --- | --- |
 | Aarde en economie | 50668 | Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
 | Aardwetenschappen | 56986 | Universiteit Utrecht, Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
@@ -300,7 +300,6 @@ Vervallen
 | Technische Planologie | 56194 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
 | Arabische Taal en Cultuur | 56040 | Universiteit van Amsterdam | Leraar Arabisch |
 | Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden, Rijksuniversiteit Groningen3 | Leraar Arabisch |
-| Fiscale Economie | 56402 | Universiteit Maastricht | Leraar Bedrijfseconomie |
 | Animal Sciences (leertraject onderwijsbevoegdheid Biologie)4 | 56849 | Wageningen University | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biomedische Wetenschappen) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
@@ -311,7 +310,7 @@ Vervallen
 | Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Biologie |
 | Geneeskunde | 56551 | Universiteit Maastricht | Leraar Biologie |
 | Gezondheid en Leven5 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
-| Gezondheidswetenschappen | 56553 | Universiteit Maastricht | Leraar Biologie |
+| Gezondheidswetenschappen (specialisatie Biologie & Gezondheid) | 56553 | Universiteit Maastricht | Leraar Biologie |
 | Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Biologie |
 | Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)6 | 56835 | Wageningen University | Leraar Biologie |
 | Psychobiologie | 50014 | Universiteit van Amsterdam | Leraar Biologie |
@@ -332,7 +331,8 @@ Vervallen
 | Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University, Universiteit Utrecht | Leraar Economie |
 | Economie en Bedrijfskunde | 50905 | Universiteit van Amsterdam | Leraar Economie |
 | Economie en Beleid | 50101 | Wageningen University | Leraar Economie |
-| Fiscale Economie | 56402 | Universiteit van Amsterdam | Leraar Economie |
+| Economie & Samenleving | 50996 | Universiteit Leiden | Leraar Economie |
+| Fiscale Economie | 56402 | Universiteit Maastricht, Universiteit van Amsterdam | Leraar Economie |
 | International Business Administration | 50952 | Universiteit Twente, Vrije Universiteit Amsterdam | Leraar Economie |
 | Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Economie |
 | Communicatie- en Informatiewetenschappen | 56826 | Vrije Universiteit Amsterdam | Leraar Engels |
@@ -371,7 +371,7 @@ Vervallen
 | Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Informatica |
 | Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
 | Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Informatica |
-| Informatiekunde | 56842 | Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
+| Informatiekunde | 56842 | Rijksuniversiteit Groningen, Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
 | Information Sciences | 56869 | Vrije Universiteit Amsterdam | Leraar Informatica |
 | Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
 | Technical Computer Science | 59335 | Universiteit Twente | Leraar Informatica |
@@ -483,6 +483,7 @@ Vervallen
 | Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
 | Actuariële Wetenschappen | 56411 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Advanced Technology | 50002 | Universiteit Twente | Leraar Wiskunde |
+| Agrotechnologie | 56831 | Wageningen University | Leraar Wiskunde |
 | Applied Mathematics | 59336 | Universiteit Twente | Leraar Wiskunde |
 | Bèta-gamma (afstudeerrichting Wiskunde) | 50250 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Biomedische Technologie | 56226 | Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
