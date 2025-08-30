@@ -4,7 +4,7 @@ identifier: "BWBR0047510"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-30"
-last_updated: "2023-01-01"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047510"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Voor de behandeling van meervoudige strafzaken die aanhangig zijn gemaakt bij de
 
 ##### Artikel 2
 
-Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt op 1 januari 2026.
+Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt op 1 januari 2027.
 
 ##### Artikel 3
 
