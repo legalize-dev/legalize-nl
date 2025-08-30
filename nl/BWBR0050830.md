@@ -4,7 +4,7 @@ identifier: "BWBR0050830"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-08-30"
-last_updated: "2025-03-06"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050830"
 soort: "zbo"
@@ -155,7 +155,7 @@ Het Zorginstituut verdeelt het budget voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 8
 
-Voor de bepaling van het aantal Wlz-verzekerden, bedoeld in [artikel 7 eerste lid, onderdeel b en j](https://wetten.overheid.nl/jci1.3:c:BWBR0050830&paragraaf=2&artikel=7&z=2025-03-06&g=2025-03-06) en artikel 7, tweede lid, gebruikt het Zorginstituut de opgaven van de Wlz-uitvoerder van de aantallen Wlz-verzekerden per 30 juni van het jaar t-1. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz van de Wlz-uitvoerder voor het jaar t-1. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal Wlz-verzekerden, bedoeld in [artikel 7 eerste lid, onderdeel b en j](https://wetten.overheid.nl/jci1.3:c:BWBR0050830&paragraaf=2&artikel=7&z=2025-08-30&g=2025-08-30) en artikel 7, tweede lid, gebruikt het Zorginstituut de opgaven van de Wlz-uitvoerder van de aantallen Wlz-verzekerden per 30 juni van het jaar t-1. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz van de Wlz-uitvoerder voor het jaar t-1. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 9
 
@@ -163,7 +163,7 @@ Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede li
 
 ##### Artikel 10
 
-Voor een nieuwe Wlz-uitvoerder, die geen rechtsopvolger is van een of meer bestaande Wlz-uitvoerders, kan het Zorginstituut uitgaan van andere dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050830&paragraaf=2&artikel=8&z=2025-03-06&g=2025-03-06) genoemde definitie voor verzekerdenaantallen.
+Voor een nieuwe Wlz-uitvoerder, die geen rechtsopvolger is van een of meer bestaande Wlz-uitvoerders, kan het Zorginstituut uitgaan van andere dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050830&paragraaf=2&artikel=8&z=2025-08-30&g=2025-08-30) genoemde definitie voor verzekerdenaantallen.
 
 #### § 3. Nadere vaststelling beheerskostenbudget jaar 2025
 
@@ -185,9 +185,7 @@ Op basis van de nadere vaststelling van het beheerskostenbudget van jaar t stelt
 
 1. Uiterlijk in jaar t+2 stelt het Zorginstituut het beheerskostenbudget voor het jaar t voor de zorgkantoren, de Wlz-uitvoerders definitief vast op basis van de in de Tweede nadere aanwijzing gewijzigde bedragen.
 
-2. Indien macro-onderschrijdingen plaatsvinden bij de geoormerkte bedragen uit [artikel 7, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0050830&paragraaf=2&artikel=7&z=2025-03-06&g=2025-03-06), verrekent het Zorginstituut het overschot over Wlz-uitvoerders met een zorgkantoor met een tekort. Het Zorginstituut verdeelt een eventueel restant over de Wlz-uitvoerders met een zorgkantoor op basis van het aantal bij hen ingeschreven Wlz-verzekerden.
-
-3. Het Zorginstituut betrekt bij de definitieve vaststelling eventuele correcties van de NZa voor het beheerskostenbudget van de Wlz-uitvoerders en de zorgkantoren.
+2. Het Zorginstituut betrekt bij de definitieve vaststelling eventuele correcties van de NZa voor het beheerskostenbudget van de Wlz-uitvoerders en de zorgkantoren.
 
 ##### Artikel 15
 
