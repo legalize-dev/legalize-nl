@@ -4,7 +4,7 @@ identifier: "BWBR0049399"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-01"
-last_updated: "2024-04-01"
+last_updated: "2025-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049399"
 soort: "ministeriele-regeling"
@@ -49,6 +49,8 @@ In deze regeling wordt verstaan onder:
 - **associate degree-opleiding:** bestaande opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
 
 - **bacheloropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+
+- **CAFY:** Caribbean Academic Foundation Year aangeboden door een gesubsidieerde onderwijsinstelling in Sint Maarten;
 
 - **gesubsidieerde onderwijsinstelling in Aruba:** door Aruba gesubsidieerde onderwijsinstelling University of Aruba, Colegio EPI of Instituto Pedagogico Arubano;
 
@@ -100,6 +102,8 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Een subsidie wordt verstrekt voor de duur van ten minste twee en ten hoogste zes maanden.
 
+3. In afwijking van het tweede lid, wordt een subsidie als bedoeld in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01), verstrekt voor de duur van ten minste 21 kalenderdagen en ten hoogste zes maanden.
+
 ##### Artikel 4. Te subsidiëren stage
 
 1. De minister kan subsidie verstrekken voor een stage binnen het Koninkrijk, voor zover deze een verplicht of extra-curriculair onderdeel is van de opleiding, aan een student die:
@@ -118,19 +122,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Een subsidie wordt verstrekt voor de duur van ten minste twee en ten hoogste zes maanden.
 
+3. In afwijking van het tweede lid, wordt een subsidie als bedoeld in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01), verstrekt voor de duur van ten minste 21 kalenderdagen en ten hoogste zes maanden.
+
 ##### Artikel 5. Hoogte subsidie
 
-1. De maximale subsidie per student per studie-uitwisseling of stage is vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&bijlage=1&z=2024-04-01&g=2024-04-01).
+1. De maximale subsidie per student per studie-uitwisseling of stage is vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&bijlage=1&z=2025-09-01&g=2025-09-01).
 
 2. De laatste studie- of stagemaand komt in aanmerking voor subsidie indien de periode bestaat uit ten minste 21 kalenderdagen.
 
+3. In afwijking van bovengenoemde leden, geldt voor een subsidie als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01), dat de hoogte van de subsidie wordt bepaald door het aantal personen waarvoor reis- en verblijfskosten worden gemaakt, waarbij een vast bedrag van € 1.000,00 per persoon geldt.
+
 ##### Artikel 6. Aanvrager
 
-De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), wordt uitsluitend verstrekt aan een student die:
+1. De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), wordt uitsluitend verstrekt aan een student die:
 
 - a. de Nederlandse nationaliteit bezit of op grond van [artikel 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) met een Nederlander wordt gelijkgesteld;
 
-- b. voltijds staat ingeschreven voor een opleiding aan een zendende instelling, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), waarbij voor secundair en middelbaar beroepsonderwijs in Aruba, Curaçao, of Sint Maarten niveau 3, 4 of 5 geldt;
+- b. voltijds staat ingeschreven voor een opleiding aan een zendende instelling, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), waarbij voor secundair en middelbaar beroepsonderwijs in Aruba, Curaçao, of Sint Maarten niveau 3, 4 of 5 geldt;
 
 - c. het eerste studiejaar heeft afgerond, met dien verstande dat een student die:
 
@@ -144,17 +152,19 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. niet eerder subsidie heeft ontvangen op grond van deze regeling.
 
+2. De subsidie, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01), wordt verstrekt aan een gesubsidieerde onderwijsinstelling in Sint Maarten.
+
 ##### Artikel 7. Aanvraag
 
-1. Een aanvraag voor een subsidie als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01) wordt gedaan met gebruikmaking van het aanvraagformulier dat daartoe op de website van de Rijksdienst Caribisch Nederland beschikbaar is gesteld.
+1. Een aanvraag voor een subsidie als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) wordt gedaan met gebruikmaking van het aanvraagformulier dat daartoe op de website van de Rijksdienst Caribisch Nederland beschikbaar is gesteld.
 
-2. Een aanvraag voor een subsidie gaat vergezeld van:
+2. Een aanvraag voor een subsidie als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) gaat vergezeld van:
 
-- a. een kopie van het identiteitsbewijs of verblijfsvergunning van de aanvrager, waaruit blijkt dat voldaan wordt aan het vereiste, bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2024-04-01&g=2024-04-01), ontdaan van een documentnummer en pasfoto;
+- a. een kopie van het identiteitsbewijs of verblijfsvergunning van de aanvrager, waaruit blijkt dat voldaan wordt aan het vereiste, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2025-09-01&g=2025-09-01), ontdaan van een documentnummer en pasfoto;
 
 - b. de bankgegevens van de aanvrager, bestaande uit de Bank Identifier Code, de landcode, het International Bank Account Number en de naam van de rekeninghouder;
 
-- c. een door de zendende instelling afgegeven bewijs van inschrijving als voltijdstudent voor een opleiding als genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01);
+- c. een door de zendende instelling afgegeven bewijs van inschrijving als voltijdstudent voor een opleiding als genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01);
 
 - d. een verklaring van de zendende instelling, bestaande uit de onderdelen benoemd in het derde of vierde lid;
 
@@ -162,7 +172,7 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - f. de verklaring dat de subsidieaanvrager de Rijksdienst Caribisch Nederland onverwijld schriftelijk informeert, indien de studie-uitwisseling of stage waar subsidie voor is verstrekt, niet of niet geheel is gestart, aanzienlijk is vertraagd of voortijdig is beëindigd.
 
-3. Voor de aanvraag voor een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) bevat de verklaring, bedoeld in het tweede lid, onderdeel d, ten minste:
+3. Voor de aanvraag voor een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) bevat de verklaring, bedoeld in het tweede lid, onderdeel d, ten minste:
 
 - a. de naam van de student,
 
@@ -172,11 +182,11 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. de duur van de uitwisseling;
 
-- e. de bevestiging dat de aanvrager voldoet aan het vereiste, bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2024-04-01&g=2024-04-01); en
+- e. de bevestiging dat de aanvrager voldoet aan het vereiste, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2025-09-01&g=2025-09-01); en
 
-- f. de bevestiging dat de student, bedoeld in [artikel 3, eerste lid, onderdeel a,](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) voor de activiteit waarvoor subsidie wordt aangevraagd geen beurs vanuit het NL Scholarship ontvangt.
+- f. de bevestiging dat de student, bedoeld in [artikel 3, eerste lid, onderdeel a,](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) voor de activiteit waarvoor subsidie wordt aangevraagd geen beurs vanuit het NL Scholarship ontvangt.
 
-4. Voor de aanvraag voor een subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01) bevat de verklaring, bedoeld in het tweede lid, onderdeel d, ten minste:
+4. Voor de aanvraag voor een subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) bevat de verklaring, bedoeld in het tweede lid, onderdeel d, ten minste:
 
 - a. de naam van de student
 
@@ -188,11 +198,21 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - e. de beoogde stagegever;
 
-- f. de bevestiging dat de aanvrager voldoet aan het vereiste, bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2024-04-01&g=2024-04-01);
+- f. de bevestiging dat de aanvrager voldoet aan het vereiste, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2025-09-01&g=2025-09-01);
 
-- g. de bevestiging dat de student, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), voor de activiteit waarvoor subsidie wordt aangevraagd geen beurs vanuit het NL Scholarship ontvangt; en
+- g. de bevestiging dat de student, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), voor de activiteit waarvoor subsidie wordt aangevraagd geen beurs vanuit het NL Scholarship ontvangt; en
 
-- h. de bevestiging dat de student, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), voor de activiteit waarvoor subsidie wordt aangevraagd geen tegemoetkoming uit het stagefonds KoninkrijksBPV ontvangt.
+- h. de bevestiging dat de student, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), voor de activiteit waarvoor subsidie wordt aangevraagd geen tegemoetkoming uit het stagefonds KoninkrijksBPV ontvangt.
+
+5. Een aanvraag voor een subsidie als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) gaat vergezeld van ten minste:
+
+- a. het aantal CAFY-cursisten en begeleiders;
+
+- b. het aangevraagde subsidiebedrag;
+
+- c. een verklaring dat voldaan wordt aan de vereisten, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01); en
+
+- d. de bankgegevens van de aanvrager, bestaande uit de Bank Identifier Code, de landcode, het International Bank Account Number en de naam van de rekeninghouder.
 
 ##### Artikel 8. Termijn indiening aanvraag
 
@@ -202,33 +222,45 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 1 september 2025 en 31 oktober 2025 wordt vóór 15 mei 2025 ingediend.
 
-4. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 1 februari 2026 en 31 maart 2026 wordt vóór 15 oktober 2025 ingediend.
+4. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 15 januari 2026 en 31 juli 2026 wordt vóór 15 oktober 2025, 06:00 uur CET, ingediend.
 
-5. In afwijking van bovengenoemde leden, geldt dat bij studie-uitwisseling met een gesubsidieerde onderwijsinstelling in Sint Maarten als ontvangende instelling, een eerdere startdatum van respectievelijk 1 augustus 2024 en 2025 en 15 januari 2025 en 2026 voor subsidie in aanmerking komt, met dien verstande dat de termijnen vermeld in [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=11&z=2024-04-01&g=2024-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=12&z=2024-04-01&g=2024-04-01) van overeenkomstige toepassing blijven.
+5. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 1 augustus 2026 en 14 januari 2027 wordt vóór 15 mei 2026, 06:00 uur CET, ingediend.
+
+6. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 15 januari 2027 en 31 juli 2027 wordt vóór 15 oktober 2026, 06:00 uur CET, ingediend.
+
+7. Een aanvraag voor een subsidie op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) wordt uiterlijk ingediend binnen 180 dagen na de start van het studiejaar waar de subsidie betrekking op heeft.
 
 ##### Artikel 9. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in het studiejaar 2024–2025 een bedrag van € 604.000 beschikbaar, € 302.000 voor studie-uitwisseling of stage startend tussen 1 september 2024 en 31 oktober 2024 en € 302.000 voor studie-uitwisseling of stage startend tussen 1 februari 2025 en 31 maart 2025.
 
-2. Voor subsidieverstrekking op grond van deze regeling is in het studiejaar 2025–2026 een bedrag van € 604.000 beschikbaar, € 302.000 voor studie-uitwisseling of stage startend tussen 1 september 2025 en 31 oktober 2025 en € 302.000 voor studie-uitwisseling of stage startend tussen 1 februari 2026 en 31 maart 2026.
+2. Voor subsidieverstrekking op grond van [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) van deze regeling is in het studiejaar 2025–2026 een bedrag van € 604.000 beschikbaar, € 302.000 voor studie-uitwisseling of stage startend tussen 1 september 2025 en 31 oktober 2025 en € 302.000 voor studie-uitwisseling of stage startend tussen 15 januari 2026 en 31 juli 2026.
+
+3. Voor subsidieverstrekking op grond van [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) van deze regeling is in het studiejaar 2026–2027 een bedrag van € 604.000 beschikbaar, € 302.000 voor studie-uitwisseling of stage startend tussen 1 augustus 2026 en 14 januari 2027 en € 302.000 voor studie-uitwisseling of stage startend tussen 15 januari 2027 en 31 juli 2027.
+
+4. Voor subsidieverstrekking op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) van deze regeling is in het studiejaar 2025–2026 een bedrag van € 46.000 beschikbaar.
+
+5. Voor subsidieverstrekking op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) van deze regeling is in het studiejaar 2026–2027 een bedrag van € 46.000 beschikbaar.
 
 ##### Artikel 10. Wijze van verdeling beschikbare middelen
 
-1. De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=9&z=2024-04-01&g=2024-04-01), door middel van loting in ten hoogste drie rondes.
+1. De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=9&z=2025-09-01&g=2025-09-01), door middel van loting in ten hoogste drie rondes.
 
-2. In de eerste ronde wordt een vast aantal plekken verdeeld met gebruik van lotingsklassen op basis van de geografische ligging en het onderwijstype van de zendende instelling, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&bijlage=2&z=2024-04-01&g=2024-04-01).
+2. In de eerste ronde wordt een subsidiebedrag verdeeld met gebruik van lotingsklassen op basis van de geografische ligging en het onderwijstype van de zendende instelling, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&bijlage=2&z=2025-09-01&g=2025-09-01).
 
-3. In de tweede ronde wordt het resterende subsidiebedrag verdeeld door ongewogen loting tussen studenten bedoeld in [artikel 3, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), en [artikel 4, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), die een subsidieaanvraag hebben ingediend voor studie-uitwisseling of stage met bestemming één van de Caribische delen van het Koninkrijk en in de eerste ronde zijn uitgeloot.
+3. In de tweede ronde wordt het resterende subsidiebedrag verdeeld door ongewogen loting tussen studenten bedoeld in [artikel 3, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01), en [artikel 4, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), die een subsidieaanvraag hebben ingediend voor studie-uitwisseling of stage met bestemming één van de Caribische delen van het Koninkrijk en in de eerste ronde zijn uitgeloot.
 
-4. Indien het beschikbare subsidiebudget in ronde twee niet is uitgeput, wordt in de derde ronde het resterende subsidiebedrag verdeeld door ongewogen loting tussen de studenten die in de eerste en tweede ronde zijn uitgeloot.
+4. In afwijking van het derde lid wordt in de tweede ronde het resterende subsidiebedrag verdeeld door ongewogen loting tussen studenten bedoeld in [artikel 3, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01), en [artikel 4, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), die een subsidieaanvraag hebben ingediend voor studie-uitwisseling of stage in de aanvraagperioden bedoeld in [artikel 8, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01), en in de eerste ronde zijn uitgeloot.
 
-5. Indien er sprake is van onderuitputting van het beschikbare subsidiebudget in het eerste semester van het studiejaar, dan kan de minister besluiten het overgebleven subsidiebedrag door te schuiven naar het tweede semester.
+5. Indien het beschikbare subsidiebudget in ronde twee niet is uitgeput, wordt in de derde ronde het resterende subsidiebedrag verdeeld door ongewogen loting tussen de studenten die in de eerste en tweede ronde zijn uitgeloot.
+
+6. Indien er sprake is van onderuitputting van het beschikbare subsidiebudget in het eerste semester van het studiejaar, dan kan de minister besluiten het overgebleven subsidiebedrag door te schuiven naar het tweede semester.
 
 ##### Artikel 11. Besluit en beslistermijn
 
 1. De subsidie wordt direct vastgesteld.
 
-2. De minister besluit uiterlijk 45 dagen na afloop van de aanvraagtermijn, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2024-04-01&g=2024-04-01).
+2. De minister besluit uiterlijk 45 dagen na afloop van de aanvraagtermijn, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01).
 
 ##### Artikel 12. Betaling
 
@@ -240,7 +272,9 @@ De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13. Afronding
 
-De Rijksdienst Caribisch Nederland kan na afloop van de studie-uitwisseling of stage bij de subsidieaanvrager een door de zendende instelling goedgekeurd en ondertekend afrondingsbewijs opvragen.
+1. De Rijksdienst Caribisch Nederland kan na afloop van de studie-uitwisseling of stage bij de subsidieaanvrager een door de zendende instelling goedgekeurd en ondertekend afrondingsbewijs opvragen.
+
+2. De subsidieaanvrager, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=6&z=2025-09-01&g=2025-09-01), stuurt binnen 22 weken na afronding van de subsidieactiviteit, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01), een activiteitenverslag naar de Rijksdienst Caribisch Nederland.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -266,33 +300,53 @@ Deze regeling wordt aangehaald als: Subsidieregeling Koninkrijksbeurzenprogramma
 | Studenten uit Europees Nederland die naar de Caribisch delen van het Koninkrijk komen | € 800 | € 650 | € 4.700 |
 | Uitwisseling binnen de Caribisch delen van het Koninkrijk | € 300 Indien geen directe vluchten worden aangeboden: € 500 | € 650 | € 4.200 – € 4.400 |
 
-## Bijlage 2. Behorende bij [artikel 10, tweede lid, van de subsidieregeling koninkrijksbeurzenprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=10&z=2024-04-01&g=2024-04-01)
+## Bijlage 1. Behorende bij [artikel 5, eerste lid, van de subsidieregeling koninkrijksbeurzenprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=5&z=2025-09-01&g=2025-09-01)
 
-Aantal plekken lotingsronde 1:
+|   | Vergoeding reiskosten (eenmalig) | Vergoeding levensonderhoud (per maand) | Maximaal beschikbare subsidiebedrag per aanvrager |
+| --- | --- | --- | --- |
+| Studenten uit de Caribische delen van het Koninkrijk die naar Europees Nederland komen | € 800 | € 850 | € 5.900 |
+| Studenten uit Europees Nederland die naar de Caribisch delen van het Koninkrijk komen | € 800 | € 650 | € 4.700 |
+| Uitwisseling binnen de Caribisch delen van het Koninkrijk | € 300 Indien geen directe vluchten worden aangeboden: € 500 | € 650 | € 4.200 – € 4.400 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Te subsidiëren reis- en verblijfskosten voor het CAFY
+
+De minister kan subsidie verstrekken aan een gesubsidieerde onderwijsinstelling in Sint Maarten ter tegemoetkoming in reis- en verblijfskosten voor het CAFY, indien:
+
+- a. de subsidie betrekking heeft op kosten voor CAFY-cursisten en maximaal zes begeleiders, waarvan minimaal één en maximaal twee uit Saba en minimaal één en maximaal twee uit Sint Eustatius; en
+
+- b. de reisbestemming gelegen is in het Caribisch deel van het Koninkrijk der Nederlanden.
+
+### Hoofdstuk 3. Slotbepalingen
+
+## Bijlage 2. behorende bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=10&z=2025-09-01&g=2025-09-01), van de Subsidieregeling Koninkrijksbeurzenprogramma
+
+Beschikbaar budget in lotingsronde 1:
 
 | Nederland | Nederland |
 | --- | --- |
-| **Aantal plekken per semester** | **13** |
-| Waarvan mbo Europees Nederland | 3 |
-| Waarvan hoger onderwijs Europees Nederland | 6 |
-| Waarvan Caribisch Nederland | 4 |
+| **Per semester** | € 65.900,00 |
+| Waarvan gereserveerd voor mbo Europees Nederland | € 14.100,00 |
+| Waarvan gereserveerd voor hoger onderwijs Europees Nederland | € 28.200,00 |
+| Waarvan gereserveerd voor Caribisch Nederland | € 23.600,00 |
 
 | Aruba | Aruba |
 | --- | --- |
-| **Aantal plekken per semester** | **14** |
-| Waarvan mbo | 5 |
-| Waarvan hbo en universiteit | 9 |
+| **Per semester** | € 82.600,00 |
+| Waarvan gereserveerd voor mbo | € 29.500,00 |
+| Waarvan gereserveerd voor hbo en universiteit | € 53.100,00 |
 
 | Sint Maarten | Sint Maarten |
 | --- | --- |
-| **Aantal plekken per semester** | **6** |
-| Waarvan mbo | 2 |
-| Waarvan universiteit | 4 |
+| **Per semester** | € 35.400,00 |
+| Waarvan gereserveerd voor mbo | € 11.800,00 |
+| Waarvan gereserveerd voor universiteit | € 23.600,00 |
 
 | Curaçao | Curaçao |
 | --- | --- |
-| **Aantal plekken per semester** | **20** |
-| Waarvan sbo | 7 |
-| Waarvan universiteit | 13 |
+| **Per semester** | € 118.000,00 |
+| Waarvan gereserveerd voor sbo | € 41.300,00 |
+| Waarvan gereserveerd voor universiteit | € 76.700,00 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
