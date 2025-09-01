@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2025-01-01&g=2025-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2025-09-01&g=2025-09-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
@@ -150,9 +150,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. de Verenigde Staten van Amerika.
 
-2. De uitbetaling, bedoeld in het eerste lid, aan een mbo-student vindt plaats in de maanden augustus en december.
+2. De uitbetaling, bedoeld in het eerste lid, aan een mbo-student vindt plaats in de maanden juli en december.
 
-3. De uitbetaling, bedoeld in het eerste lid, aan een ho-student vindt plaats in de maanden september en december.
+3. De uitbetaling, bedoeld in het eerste lid, aan een ho-student vindt plaats in de maanden juli en december.
 
 4. In afwijking van het eerste lid, vindt de uitbetaling van de studiefinanciering BES op aanvraag van de student plaats per kalendermaand.
 
@@ -218,18 +218,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.10a van de wet.
 
-##### Artikel 3b.2. Gegevensuitwisseling met Inspectie SZW
+##### Artikel 3b.2. Gegevensuitwisseling met Nederlandse Arbeidsinspectie
 
-1. De Minister verstrekt gegevens als bedoeld in [artikel 7.4a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.4a), slechts op verzoek van de Inspectie SZW.
+1. De Minister verstrekt gegevens als bedoeld in [artikel 7.4a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.4a), slechts op verzoek van de Nederlandse Arbeidsinspectie.
 
-2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met een tot een persoon herleidbaar nummer.
+2. In het verzoek, bedoeld in het eerste lid, duidt de Nederlandse Arbeidsinspectie de persoon waarop het verzoek betrekking heeft aan met een tot een persoon herleidbaar nummer.
 
 3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
 
-4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
+4. De Minister bewaart het informatieverzoek van de Nederlandse Arbeidsinspectie niet.
 
 ##### Artikel 3b.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
 
-1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), vindt plaats via een beveiligde verbinding tussen de Minister en de Nederlandse Arbeidsinspectie. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
 
 2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62), van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
