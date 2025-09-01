@@ -4,7 +4,7 @@ identifier: "BWBR0012690"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012690"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1.1
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -53,13 +53,13 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Regeling omtrent aanvraag
 
-##### Artikel 2.1
+##### Artikel 2.1. Formulieren
 
 Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming en van de hoogte daarvan, worden door de aanvrager, bedoeld in [artikel 1.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=1.3), of diens partner uitsluitend verstrekt door invulling en inlevering van daartoe bestemde door de Minister te verstrekken formulieren.
 
-##### Artikel 2.2
+##### Artikel 2.2. Verstrekking gegevens
 
-1. Indien het betreft een aanvraag van een tegemoetkoming op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5), doen de aanvrager en diens partner opgave van hun burgerservicenummer.
+1. Indien het betreft een aanvraag van een tegemoetkoming op grond van [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5), doen de aanvrager en diens partner opgave van hun burgerservicenummer.
 
 2. Indien het betreft een aanvraag van een tegemoetkoming op grond van [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4), doen de leerling, alsmede de TOS-ouder en diens partner, opgave van hun burgerservicenummer.
 
@@ -69,27 +69,25 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 ##### Artikel 2.3
 
-1. De datum, bedoeld in [artikel 3.10, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.10) is 1 januari van het schooljaar.
+Vervallen
 
-2. Het tijdstip, bedoeld in [artikel 10.9, derde, vierde, zevende en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.9), is telkens 1 januari van het schooljaar.
-
-##### Artikel 2.4
+##### Artikel 2.4. Langdurige afwezigheid in het vavo
 
 [Artikel 4.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12) is van overeenkomstige toepassing op een vavo-student die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.
 
 ### Hoofdstuk 2a. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b)
 
-##### Artikel 3.1
+##### Artikel 3.1. Verrekening na herziening
 
 1. Indien uit een beschikking tot herziening, bedoeld in [artikel 7.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=7.1) blijkt dat teveel tegemoetkoming is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.
 
 2. Eerst wordt het teveel uitbetaalde bedrag zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de beschikking, bedoeld in het eerste lid, aan de aanvrager zouden moeten worden gedaan.
 
-3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2025-01-01&g=2025-01-01). Wanneer die betalingen met ingang van 1 januari 2025 hoger zijn dan € 78,51, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2025-09-01&g=2025-09-01). Wanneer die betalingen met ingang van 1 januari 2025 hoger zijn dan € 78,51, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over de reeds op het tijdstip van afgifte van die beschikking verstreken betalingsperiode betaalbaar zouden worden gesteld indien geen sprake zou zijn van verrekening als bedoeld in het tweede lid.
 
-##### Artikel 3.2
+##### Artikel 3.2. Terugbetaling na herziening
 
 1. Voorzover het teveel uitbetaalde bedrag niet kan worden verrekend, wordt dit op eerste vordering binnen 4 weken geheel terugbetaald.
 
@@ -101,39 +99,29 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 5. Indien een, met inachtneming van het tweede en derde lid berekende, termijn niet op de vervaldatum is ontvangen, vervalt de toestemming, bedoeld in het tweede lid, van rechtswege. Het nog niet door de betaling van het in de reeds betaalde maandelijkse termijnen begrepen bedrag aan aflossing op het bedrag, bedoeld in het eerste lid, vermeerderd met het verschuldigde bedrag aan wettelijke rente, wordt op eerste vordering binnen twee weken door de debiteur geheel voldaan.
 
-##### Artikel 3.3
+##### Artikel 3.3. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), van het besluit.
+Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2025-09-01&g=2025-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5).
 
 ### Hoofdstuk 3. Terugbetaling en verrekening
 
-##### Artikel 4.1
+##### Artikel 4.1. Verrekening met onderwijsbijdrage
 
-De tegemoetkoming, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4), met uitzondering van de basistoelage, bedoeld in [artikel 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), wordt verrekend met de aan de Minister verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de Minister is betaald, wordt het bedrag door de Minister terugbetaald binnen 8 weken na het besluit, bedoeld in [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.8), dan wel [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
+De tegemoetkoming, bedoeld in [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4), met uitzondering van de basistoelage, bedoeld in [artikel 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), wordt verrekend met de aan de Minister verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de Minister is betaald, wordt het bedrag door de Minister terugbetaald binnen 8 weken na het besluit, bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
 
-##### Artikel 4.2
+##### Artikel 4.2. Tijdstip van uitbetaling
 
-1. Indien op een aanvraag om tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) voor 1 januari van het schooljaar een besluit is genomen, wordt de helft van de tegemoetkoming in de schoolkosten, uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.8), en wordt het resterende deel van de tegemoetkoming in de schoolkosten uitbetaald in de maand februari van het schooljaar.
+1. De tegemoetkoming, bedoeld in [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4), wordt uitbetaald tussen de twintigste en de dertigste dag van elke maand.
 
-2. Indien op een aanvraag om tegemoetkoming op grond van in [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) na 31 december van het schooljaar een besluit is genomen, wordt de tegemoetkoming uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.8).
+2. De tegemoetkoming, bedoeld in [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 5.5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.5).
 
-3. De overbruggingstegemoetkoming, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.6) en [3.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.7), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.8).
-
-4. De tegemoetkoming, bedoeld in [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4), wordt uitbetaald tussen de twintigste en de dertigste dag van elke maand.
-
-5. De tegemoetkoming, bedoeld in [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 5.5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.5).
-
-6. De tegemoetkoming, bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 10.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.8).
-
-7. In afwijking van het eerste lid wordt de tegemoetkoming, bedoeld in [artikel 3.5, eerste lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.5), voor het schooljaar 2008–2009, voor wat betreft een leerling in de onderbouw van het volledig op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs en een leerling in het volledig op grond van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum en een leerling in de bovenbouw van het volledig op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs, binnen vier weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.8) uitbetaald.
-
-##### Artikel 4.3
+##### Artikel 4.3. Wijze van uitbetaling
 
 De tegemoetkoming wordt uitbetaald door bijschrijving op de bankrekening van degene aan wie de tegemoetkoming is toegekend. Indien degene aan wie een tegemoetkoming is toegekend, hierom verzoekt, wordt met ingang van de eerstvolgende uitbetaling het gehele uit te betalen bedrag uitbetaald door bijschrijving op een door hem aangewezen bankrekening.
 
 ### Hoofdstuk 4. Uitbetaling na verrekening met onderwijsbijdrage
 
-##### Artikel 5.1
+##### Artikel 5.1. Verstrekken van inlichtingen
 
 Inlichtingen, bedoeld in [artikel 9.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.4), worden uitsluitend verstrekt door middel van daartoe bestemde formulieren.
 
@@ -141,19 +129,19 @@ Inlichtingen, bedoeld in [artikel 9.4 van de wet](https://wetten.overheid.nl/jci
 
 ##### Artikel 6.1
 
-Wijzigt deze regeling.
+Vervallen
 
 ### Hoofdstuk 5. Toezicht en sancties
 
 ##### Artikel 7.1
 
-De Regeling tegemoetkoming studiekosten wordt ingetrokken.
+Vervallen
 
-##### Artikel 7.2
+##### Artikel 7.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2001.
 
-##### Artikel 7.3
+##### Artikel 7.3. Citeertitel
 
 Deze regeling wordt aangehaald als ”Regeling tegemoetkoming onderwijsbijdrage en schoolkosten”.
 
@@ -169,19 +157,19 @@ Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van de
 
 4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.22b van de wet.
 
-##### Artikel 2a.2. Gegevensuitwisseling met Inspectie SZW
+##### Artikel 2a.2. Gegevensuitwisseling met Nederlandse Arbeidsinspectie
 
-1. De Minister verstrekt gegevens als bedoeld in [artikel 9.5a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.5a), slechts op verzoek van de Inspectie SZW.
+1. De Minister verstrekt gegevens als bedoeld in [artikel 9.5a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.5a), slechts op verzoek van de Nederlandse Arbeidsinspectie.
 
-2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met het burgerservicenummer.
+2. In het verzoek, bedoeld in het eerste lid, duidt de Nederlandse Arbeidsinspectie de persoon waarop het verzoek betrekking heeft aan met het burgerservicenummer.
 
 3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
 
-4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
+4. De Minister bewaart het informatieverzoek van de Nederlandse Arbeidsinspectie niet.
 
 ##### Artikel 2a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging tegen verlies of onrechtmatige verwerking en hoe daarop wordt toegezien
 
-1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), vindt plaats via een beveiligde verbinding tussen de Minister en de Nederlandse Arbeidsinspectie. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
 
 2. De functionaris voor gegevensbescherming van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
 
