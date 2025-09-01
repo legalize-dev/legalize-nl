@@ -4,7 +4,7 @@ identifier: "BWBR0046747"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2024-01-01"
+last_updated: "2025-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046747"
 soort: "wet"
@@ -75,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de tot stand gebrachte gemeenschappelijke onderneming die in Nederland is gevestigd;
 
-- d. de onderneming die na een splitsing als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), of [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01), een in Nederland gevestigde onderneming is;
+- d. de onderneming die na een splitsing als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), of [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01), een in Nederland gevestigde onderneming is;
 
 - e. de in Nederland gevestigde onderneming of de persoon handelend voor de in Nederland gevestigde onderneming die is opgehouden te bestaan, waarvan vermogensbestanddelen worden vervreemd; of
 
@@ -113,19 +113,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. bij een vereniging of coöperatie: stemmen die kunnen worden uitgebracht in de algemene vergadering, waarbij de [artikelen 5:45, vijfde, zesde en negende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) van overeenkomstige toepassing zijn;
 
-- **sensitieve technologie:** sensitieve technologie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2024-01-01&g=2024-01-01);
+- **sensitieve technologie:** sensitieve technologie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2025-09-01&g=2025-09-01);
 
-- **significante invloed:** significante invloed als bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2024-01-01);
+- **significante invloed:** significante invloed als bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-09-01&g=2025-09-01);
 
 - **toetsingsbesluit:** besluit waarin wordt bepaald dat:
 
 - a. een verwervingsactiviteit wordt:
 
-- 1°. toegelaten op voorwaarde dat aan bepaalde eisen of nadere voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01) of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2024-01-01&g=2024-01-01) wordt voldaan; of
+- 1°. toegelaten op voorwaarde dat aan bepaalde eisen of nadere voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01) of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-09-01&g=2025-09-01) wordt voldaan; of
 
 - 2°. verboden; of
 
-- b. wordt verboden dat de zeggenschap of significante invloed wordt gehouden, indien er sprake is van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01);
+- b. wordt verboden dat de zeggenschap of significante invloed wordt gehouden, indien er sprake is van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01);
 
 - **verordening 806/2014:** verordening (EU) nr. 806/2014 van het Europees Parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees Parlement en de Raad (PbEU 2014, L 225);
 
@@ -145,7 +145,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. de partij die onder algemene titel als bedoeld in [artikel 80, tweede lid, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=80), met uitzondering van een fusie of splitsing, in de doelonderneming goederen als bedoeld in [artikel 1 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=1) wil verkrijgen om zeggenschap te verkrijgen of significante invloed op de doelonderneming te verkrijgen of te vergroten;
 
-- **verwervingsactiviteit:** activiteit als omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01), waarbij een verwerver betrokken is;
+- **verwervingsactiviteit:** activiteit als omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01), waarbij een verwerver betrokken is;
 
 - **vitale aanbieder:** onderneming die een dienst exploiteert, beheert of beschikbaar stelt waarvan de continuïteit van vitaal belang is voor de Nederlandse samenleving;
 
@@ -217,7 +217,7 @@ Deze wet is tevens van toepassing op de volgende verwervingsactiviteiten, indien
 
 ##### Artikel 5
 
-1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01) is deze wet niet van toepassing indien:
+1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01) is deze wet niet van toepassing indien:
 
 - a. het bij een bepaalde verwervingsactiviteit, op grond van een wettelijk voorschrift, slechts mogelijk is voor de Staat der Nederlanden, provincies, gemeenten of andere openbare lichamen om verwerver te zijn, onmiddellijk, dan wel middellijk;
 
@@ -229,13 +229,13 @@ Deze wet is tevens van toepassing op de volgende verwervingsactiviteiten, indien
 
 - e. de verwerver de Staat der Nederlanden, een provincie of een gemeente gelegen in Nederland of een ander openbaar lichaam naar Nederlands recht is; of
 
-- f. de verwerver een rechtspersoon is die statutair ten doel heeft het behartigen van de belangen van het financiële stelsel die gemoeid zijn met een ordentelijke en gecontroleerde wijze van afwikkeling van een entiteit als bedoeld in [artikel 7, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2024-01-01&g=2024-01-01), waarvan door De Nederlandsche Bank of, al naar gelang de bevoegdheidsverdeling op grond van artikel 7 van [verordening 806/2014](32014R0806), de afwikkelingsraad genoemd in artikel 42 van die verordening, is vastgesteld dat aan de voorwaarden voor afwikkeling van die doelonderneming is voldaan.
+- f. de verwerver een rechtspersoon is die statutair ten doel heeft het behartigen van de belangen van het financiële stelsel die gemoeid zijn met een ordentelijke en gecontroleerde wijze van afwikkeling van een entiteit als bedoeld in [artikel 7, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-09-01&g=2025-09-01), waarvan door De Nederlandsche Bank of, al naar gelang de bevoegdheidsverdeling op grond van artikel 7 van [verordening 806/2014](32014R0806), de afwikkelingsraad genoemd in artikel 42 van die verordening, is vastgesteld dat aan de voorwaarden voor afwikkeling van die doelonderneming is voldaan.
 
 2. Als verwerver als bedoeld in het eerste lid, onderdeel f, wordt in ieder geval beschouwd een overbruggingsstichting als bedoeld in [artikel 7b van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=7b), een overbruggingsonderneming als bedoeld in [artikel 7c van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=7c), en een entiteit voor activa- en passivabeheer als bedoeld in [artikel 7d, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=7d).
 
 ##### Artikel 6
 
-Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale aanbieder of beheerder van een bedrijfscampus is tevens verstaan een doelonderneming die zeggenschap heeft over een in Nederland gevestigde vitale aanbieder of beheerder van een bedrijfscampus en onder een doelonderneming die actief is op het gebied van sensitieve technologie wordt tevens een doelonderneming verstaan die zeggenschap heeft over of significante invloed heeft op een in Nederland gevestigde onderneming die actief is op het gebied van sensitieve technologie.
+Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale aanbieder of beheerder van een bedrijfscampus is tevens verstaan een onderneming waarop een verwervingsactiviteit als bedoeld in artikel 2 betrekking heeft en die zeggenschap heeft over een in Nederland gevestigde vitale aanbieder of beheerder van een bedrijfscampus en onder een doelonderneming die actief is op het gebied van sensitieve technologie wordt tevens een onderneming verstaan waarop een verwervingsactiviteit als bedoeld in artikel 3 betrekking heeft en die zeggenschap heeft over of significante invloed heeft op een in Nederland gevestigde onderneming die actief is op het gebied van sensitieve technologie.
 
 #### § 2.2. Vitale aanbieders en sensitieve technologie
 
@@ -339,7 +339,7 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 ##### Artikel 10
 
-1. Een verwervingsactiviteit, uitgezonderd een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01), vindt niet plaats voordat:
+1. Een verwervingsactiviteit, uitgezonderd een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01), vindt niet plaats voordat:
 
 - a. Onze Minister een mededeling heeft gedaan aan een meldingsplichtige dat geen toetsingsbesluit vereist is; of
 
@@ -357,17 +357,17 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 2. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke informatie een melding bevat, op welke wijze de melding wordt gedaan en kunnen voorschriften worden gesteld met betrekking tot de melding.
 
-3. Een meldingsplichtige die voorafgaand aan een melding op grond van een wettelijke plicht informatie aan een bestuursorgaan, dienst, toezichthouder of andere persoon als bedoeld bij of krachtens [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), heeft verstrekt, die hetzelfde is als de informatie die een melding dient te bevatten, kan ten aanzien van die informatie in de melding volstaan met te vermelden dat die eerder is verstrekt, indien bij of krachtens algemene maatregel van bestuur onder daarin vast te stellen voorwaarden is bepaald dat dit is toegestaan.
+3. Een meldingsplichtige die voorafgaand aan een melding op grond van een wettelijke plicht informatie aan een bestuursorgaan, dienst, toezichthouder of andere persoon als bedoeld bij of krachtens [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2025-09-01&g=2025-09-01), heeft verstrekt, die hetzelfde is als de informatie die een melding dient te bevatten, kan ten aanzien van die informatie in de melding volstaan met te vermelden dat die eerder is verstrekt, indien bij of krachtens algemene maatregel van bestuur onder daarin vast te stellen voorwaarden is bepaald dat dit is toegestaan.
 
 4. De informatie die bij de melding wordt verstrekt of waarnaar op grond van het derde lid bij de melding wordt verwezen, is waarheidsgetrouw en zo volledig als redelijkerwijs van de meldingsplichtige verwacht kan worden.
 
 5. De meldplicht op grond van het eerste lid geldt niet ten aanzien van een verwerver die wegens een geheimhoudingsplicht van de doelonderneming niet kan weten dat een verwervingsactiviteit binnen de reikwijdte valt van deze wet. De doelonderneming waarvoor deze geheimhoudingsplicht geldt, meldt het voornemen een verwervingsactiviteit uit te voeren in dat geval aan Onze Minister zodra zij daar kennis van heeft.
 
-6. In afwijking van het eerste lid, wordt een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01), door de verwerver gemeld aan Onze Minister binnen twee weken nadat deze heeft plaatsgevonden.
+6. In afwijking van het eerste lid, wordt een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01), door de verwerver gemeld aan Onze Minister binnen twee weken nadat deze heeft plaatsgevonden.
 
 ##### Artikel 12
 
-1. Onze Minister deelt binnen acht weken na ontvangst van een melding als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01) mede of een toetsingsbesluit vereist is.
+1. Onze Minister deelt binnen acht weken na ontvangst van een melding als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01) mede of een toetsingsbesluit vereist is.
 
 2. Onze Minister bepaalt dat een toetsingsbesluit vereist is, indien een verwervingsactiviteit kan leiden tot een risico voor de nationale veiligheid.
 
@@ -379,7 +379,7 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 6. Onze Minister kan de termijn voor het nemen van een toetsingsbesluit als bedoeld in het vijfde lid verlengen met een redelijke termijn, doch uiterlijk met zes maanden, verminderd met de termijn die is verstreken voor het doen van nader onderzoek als bedoeld in het derde lid.
 
-7. Onverminderd de toepasselijkheid van [artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) op het nemen van een toetsingsbesluit op aanvraag, wordt de termijn voor het doen van een mededeling als bedoeld in het eerste lid, opgeschort met ingang van de dag waarop Onze Minister op grond van [artikel 34, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), verzoekt om aanvullende informatie, tot de dag waarop de verzochte informatie is verstrekt.
+7. Onverminderd de toepasselijkheid van [artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) op het nemen van een toetsingsbesluit op aanvraag, wordt de termijn voor het doen van een mededeling als bedoeld in het eerste lid, opgeschort met ingang van de dag waarop Onze Minister op grond van [artikel 34, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2025-09-01&g=2025-09-01), verzoekt om aanvullende informatie, tot de dag waarop de verzochte informatie is verstrekt.
 
 8. Indien na een melding blijkt dat er sprake is van een buitenlandse directe investering die valt binnen de reikwijdte van [Verordening (EU) 2019/452](32352R2019) van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79), kan de termijn, bedoeld in het derde of zesde lid, met nog ten hoogste drie maanden verlengd worden.
 
@@ -391,7 +391,7 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 ##### Artikel 13
 
-1. Onze Minister kan op verzoek van de meldingsplichtige ontheffing verlenen van het in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), gestelde verbod nadat de meldingsplichtige aan Onze Minister melding heeft gedaan van het voornemen de verwervingsactiviteit te willen uitvoeren.
+1. Onze Minister kan op verzoek van de meldingsplichtige ontheffing verlenen van het in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), gestelde verbod nadat de meldingsplichtige aan Onze Minister melding heeft gedaan van het voornemen de verwervingsactiviteit te willen uitvoeren.
 
 2. Ontheffing kan alleen worden verleend indien het algemeen belang in het geding is, met een risico op economische, fysieke of sociaalmaatschappelijke schade aan de samenleving of delen daarvan of nadelige gevolgen voor de financiële stabiliteit, indien de ontheffing niet wordt verleend.
 
@@ -401,7 +401,7 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 5. Een verleende ontheffing vervalt, zodra Onze Minister:
 
-- a. naar aanleiding van een melding als bedoeld in het eerste lid schriftelijk mededeelt dat geen toetsingsbesluit vereist is of niet binnen de termijnen waarnaar in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01), wordt verwezen, mededeelt dat een toetsingsbesluit vereist is;
+- a. naar aanleiding van een melding als bedoeld in het eerste lid schriftelijk mededeelt dat geen toetsingsbesluit vereist is of niet binnen de termijnen waarnaar in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-09-01&g=2025-09-01), wordt verwezen, mededeelt dat een toetsingsbesluit vereist is;
 
 - b. schriftelijk mededeelt dat een toetsingsbesluit vereist is en niet binnen een in die mededeling door Onze Minister gestelde redelijke termijn een aanvraag voor een toetsingsbesluit is ingediend;
 
@@ -439,13 +439,13 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 3. Onze Minister neemt een ambtshalve toetsingsbesluit als bedoeld in het eerste lid binnen acht weken nadat hij bekend is geworden met de plaatsgevonden verwervingsactiviteit of binnen acht weken na het doen van de mededeling dat een toetsingsbesluit vereist is, indien die mededeling nog niet was gedaan op het tijdstip waarop hij bekend werd met de plaatsgevonden verwervingsactiviteit.
 
-4. Het eerste lid is niet van toepassing indien voor de verwervingsactiviteit die met inachtneming van een ontheffing heeft plaatsgevonden, een aanvraag voor een toetsingsbesluit is ingediend op een tijdstip waarop de ontheffing werking heeft en op de aanvraag een toetsingsbesluit wordt genomen. De termijn voor een toetsingsbesluit op aanvraag, genoemd in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01), is van toepassing en artikel 12, zesde tot en met negende lid, is van overeenkomstige toepassing.
+4. Het eerste lid is niet van toepassing indien voor de verwervingsactiviteit die met inachtneming van een ontheffing heeft plaatsgevonden, een aanvraag voor een toetsingsbesluit is ingediend op een tijdstip waarop de ontheffing werking heeft en op de aanvraag een toetsingsbesluit wordt genomen. De termijn voor een toetsingsbesluit op aanvraag, genoemd in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-09-01&g=2025-09-01), is van toepassing en artikel 12, zesde tot en met negende lid, is van overeenkomstige toepassing.
 
 ##### Artikel 16
 
-1. Indien een verwervingsactiviteit heeft plaatsgevonden zonder voorafgaande melding van het voornemen daarvan aan Onze Minister, dan wel niet voldaan is aan de verplichting, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), en bij Onze Minister ondanks het ontbreken van de melding of het niet voldoen aan die verplichting de verwervingsactiviteit bekend is geworden, deelt Onze Minister op basis van een beoordeling op risico’s voor de nationale veiligheid aan een meldingsplichtige schriftelijk mede dat geen toetsingsbesluit vereist is of neemt hij ambtshalve een toetsingsbesluit.
+1. Indien een verwervingsactiviteit heeft plaatsgevonden zonder voorafgaande melding van het voornemen daarvan aan Onze Minister, dan wel niet voldaan is aan de verplichting, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), en bij Onze Minister ondanks het ontbreken van de melding of het niet voldoen aan die verplichting de verwervingsactiviteit bekend is geworden, deelt Onze Minister op basis van een beoordeling op risico’s voor de nationale veiligheid aan een meldingsplichtige schriftelijk mede dat geen toetsingsbesluit vereist is of neemt hij ambtshalve een toetsingsbesluit.
 
-2. Alvorens een schriftelijke mededeling te doen of een ambtshalve toetsingsbesluit te nemen als bedoeld in het eerste lid, kan Onze Minister binnen drie maanden nadat de verwervingsactiviteit bij hem bekend werd, een meldingsplichtige gelasten binnen een redelijke termijn alsnog van de verwervingsactiviteit melding te doen. Een meldingsplichtige geeft uitvoering aan de last en op het doen van de melding is [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+2. Alvorens een schriftelijke mededeling te doen of een ambtshalve toetsingsbesluit te nemen als bedoeld in het eerste lid, kan Onze Minister binnen drie maanden nadat de verwervingsactiviteit bij hem bekend werd, een meldingsplichtige gelasten binnen een redelijke termijn alsnog van de verwervingsactiviteit melding te doen. Een meldingsplichtige geeft uitvoering aan de last en op het doen van de melding is [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), van overeenkomstige toepassing.
 
 3. Onze Minister doet een schriftelijke mededeling als bedoeld in het eerste lid of neemt ambtshalve een toetsingsbesluit binnen acht weken:
 
@@ -455,9 +455,9 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 ##### Artikel 17
 
-1. Indien het voornemen van een verwervingsactiviteit is gemeld aan Onze Minister of als is voldaan aan [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), en bij hem bekend is geworden of een redelijk vermoeden is ontstaan dat door een meldingsplichtige onjuiste of onvolledige informatie is verstrekt, bevestigt Onze Minister op basis van een beoordeling op risico’s voor de nationale veiligheid schriftelijk dat een eerdere gedane mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), of een eerder genomen toetsingsbesluit in stand blijft of neemt hij ambtshalve een toetsingsbesluit dat de eerdere gedane mededeling vervangt of het eerder genomen toetsingsbesluit vervangt of aanvult.
+1. Indien het voornemen van een verwervingsactiviteit is gemeld aan Onze Minister of als is voldaan aan [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), en bij hem bekend is geworden of een redelijk vermoeden is ontstaan dat door een meldingsplichtige onjuiste of onvolledige informatie is verstrekt, bevestigt Onze Minister op basis van een beoordeling op risico’s voor de nationale veiligheid schriftelijk dat een eerdere gedane mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), of een eerder genomen toetsingsbesluit in stand blijft of neemt hij ambtshalve een toetsingsbesluit dat de eerdere gedane mededeling vervangt of het eerder genomen toetsingsbesluit vervangt of aanvult.
 
-2. Alvorens een schriftelijke bevestiging te geven of een ambtshalve toetsingsbesluit te nemen als bedoeld in het eerste lid, kan Onze Minister binnen drie maanden nadat bij Onze Minister bekend is geworden of een redelijk vermoeden is ontstaan dat door een meldingsplichtige onjuiste of onvolledige informatie is verstrekt, de meldingsplichtige gelasten binnen een redelijke termijn aan Onze Minister een hernieuwde melding van de voorgenomen of inmiddels uitgevoerde verwervingsactiviteit te doen. De meldingsplichtige geeft uitvoering aan de last en op het doen van de melding is [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+2. Alvorens een schriftelijke bevestiging te geven of een ambtshalve toetsingsbesluit te nemen als bedoeld in het eerste lid, kan Onze Minister binnen drie maanden nadat bij Onze Minister bekend is geworden of een redelijk vermoeden is ontstaan dat door een meldingsplichtige onjuiste of onvolledige informatie is verstrekt, de meldingsplichtige gelasten binnen een redelijke termijn aan Onze Minister een hernieuwde melding van de voorgenomen of inmiddels uitgevoerde verwervingsactiviteit te doen. De meldingsplichtige geeft uitvoering aan de last en op het doen van de melding is [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), van overeenkomstige toepassing.
 
 3. Onze Minister geeft een schriftelijke bevestiging als bedoeld in het eerste lid of neemt ambtshalve een toetsingsbesluit ter vervanging of aanvulling van het eerder genomen toetsingsbesluit binnen acht weken na:
 
@@ -467,9 +467,9 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 ##### Artikel 18
 
-1. De termijn van acht weken, bedoeld voor het nemen van een ambtshalve toetsingsbesluit als bedoeld in deze paragraaf, het doen van een schriftelijke mededeling als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2024-01-01&g=2024-01-01), of het afgeven van een schriftelijke bevestiging als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01), kan Onze Minister verlengen met een redelijke termijn, doch uiterlijk met zes maanden. De verlengde termijn, bedoeld in de vorige volzin, kan met nog ten hoogste drie maanden verlengd worden als blijkt dat er sprake is van een buitenlandse directe investering als bedoeld in [artikel 12, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01).
+1. De termijn van acht weken, bedoeld voor het nemen van een ambtshalve toetsingsbesluit als bedoeld in deze paragraaf, het doen van een schriftelijke mededeling als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2025-09-01&g=2025-09-01), of het afgeven van een schriftelijke bevestiging als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01), kan Onze Minister verlengen met een redelijke termijn, doch uiterlijk met zes maanden. De verlengde termijn, bedoeld in de vorige volzin, kan met nog ten hoogste drie maanden verlengd worden als blijkt dat er sprake is van een buitenlandse directe investering als bedoeld in [artikel 12, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-09-01&g=2025-09-01).
 
-2. De termijn voor het afgeven van een schriftelijke bevestiging of het doen van een schriftelijke mededeling, of de verlenging daarvan, wordt opgeschort met ingang van de dag waarop Onze Minister op grond van [artikel 34, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), verzoekt om aanvullende informatie, tot de dag waarop de verzochte informatie is verstrekt.
+2. De termijn voor het afgeven van een schriftelijke bevestiging of het doen van een schriftelijke mededeling, of de verlenging daarvan, wordt opgeschort met ingang van de dag waarop Onze Minister op grond van [artikel 34, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2025-09-01&g=2025-09-01), verzoekt om aanvullende informatie, tot de dag waarop de verzochte informatie is verstrekt.
 
 3. De gronden tot en duur van de opschorting, bedoeld in [artikel 4:15, eerste lid, onderdeel b, en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15), zijn van overeenkomstige toepassing op het door Onze Minister opschorten van de termijn tot het nemen van een ambtshalve toetsingsbesluit.
 
@@ -493,15 +493,15 @@ Voor de toepassing van deze wet wordt onder een doelonderneming die een vitale a
 
 - d. de verwerver heeft een misdrijf begaan dat overeenkomt met een voor de toepassing van dit onderdeel bij ministeriële regeling aangewezen misdrijf, of staat onder invloed van een persoon of rechtspersoon die een dergelijk misdrijf heeft begaan;
 
-- e. een verwerver heeft niet of onvoldoende meegewerkt aan het onderzoek naar de factoren onder a tot en met d en, voor zover van toepassing, de factoren genoemd in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=20&z=2024-01-01&g=2024-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=21&z=2024-01-01&g=2024-01-01);
+- e. een verwerver heeft niet of onvoldoende meegewerkt aan het onderzoek naar de factoren onder a tot en met d en, voor zover van toepassing, de factoren genoemd in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=20&z=2025-09-01&g=2025-09-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=21&z=2025-09-01&g=2025-09-01);
 
-- f. indien de beoordeling betrekking heeft op een melding op grond van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01): de aard van de onjuist aangeleverde informatie en het motief voor het fout aanleveren van die informatie.
+- f. indien de beoordeling betrekking heeft op een melding op grond van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01): de aard van de onjuist aangeleverde informatie en het motief voor het fout aanleveren van die informatie.
 
 2. Met een misdrijf als bedoeld in het eerste lid, onderdeel d, wordt gelijkgesteld een strafbaar feit naar buitenlands recht, dat naar het oordeel van Onze Minister gelijksoortig is aan een bij ministeriële regeling aangewezen misdrijf naar Nederlands recht.
 
 ##### Artikel 20
 
-In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2024-01-01&g=2024-01-01), houdt Onze Minister bij de beoordeling of een verwervingsactiviteit die betrekking heeft op een vitale aanbieder kan leiden tot een risico voor de nationale veiligheid, voorts rekening met de volgende factoren:
+In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-09-01&g=2025-09-01), houdt Onze Minister bij de beoordeling of een verwervingsactiviteit die betrekking heeft op een vitale aanbieder kan leiden tot een risico voor de nationale veiligheid, voorts rekening met de volgende factoren:
 
 - a. een verwerver heeft geen goede staat van dienst inzake de exploitatie of het beheer van het relevante proces waarvan de continuïteit van vitaal belang is voor de Nederlandse samenleving of de naleving van wettelijke voorschriften ten aanzien hiervan;
 
@@ -513,7 +513,7 @@ In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl
 
 ##### Artikel 21
 
-In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2024-01-01&g=2024-01-01), houdt Onze Minister bij de beoordeling of een verwervingsactiviteit die betrekking heeft op een onderneming die actief is op het gebied van sensitieve technologie kan leiden tot een risico voor de nationale veiligheid, voorts rekening met de volgende factoren:
+In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-09-01&g=2025-09-01), houdt Onze Minister bij de beoordeling of een verwervingsactiviteit die betrekking heeft op een onderneming die actief is op het gebied van sensitieve technologie kan leiden tot een risico voor de nationale veiligheid, voorts rekening met de volgende factoren:
 
 - a. een verwerver heeft geen goede staat van dienst inzake de beveiliging, de verhandeling of het gebruik van sensitieve technologie en de naleving van de toepasselijke wettelijke voorschriften inzake beveiliging, rubricering of exportcontrole;
 
@@ -529,13 +529,13 @@ In aanvulling op de toepasselijkheid van [artikel 19](https://wetten.overheid.nl
 
 ##### Artikel 22
 
-Onze Minister stelt bij ministeriële regeling de strafbare feiten vast die op grond van [artikel 19, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2024-01-01&g=2024-01-01), van invloed kunnen zijn op de beoordeling van een risico voor de nationale veiligheid.
+Onze Minister stelt bij ministeriële regeling de strafbare feiten vast die op grond van [artikel 19, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-09-01&g=2025-09-01), van invloed kunnen zijn op de beoordeling van een risico voor de nationale veiligheid.
 
 #### § 3.6. In het toetsingsbesluit op te nemen eisen en voorschriften of verbod
 
 ##### Artikel 23
 
-1. Aan een verwervingsactiviteit die naar het oordeel van Onze Minister op basis van de beoordeling, bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&z=2024-01-01&g=2024-01-01), leidt tot een risico voor de nationale veiligheid, kan Onze Minister, voor zover toepasbaar, in het toetsingsbesluit de volgende eisen stellen of de volgende nadere voorschriften verbinden, indien dit noodzakelijk is om hieraan verbonden risico’s voor de nationale veiligheid te voorkomen of tot een aanvaardbaar niveau te beperken:
+1. Aan een verwervingsactiviteit die naar het oordeel van Onze Minister op basis van de beoordeling, bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&z=2025-09-01&g=2025-09-01), leidt tot een risico voor de nationale veiligheid, kan Onze Minister, voor zover toepasbaar, in het toetsingsbesluit de volgende eisen stellen of de volgende nadere voorschriften verbinden, indien dit noodzakelijk is om hieraan verbonden risico’s voor de nationale veiligheid te voorkomen of tot een aanvaardbaar niveau te beperken:
 
 - a. de naleving van, ten opzichte van de geldende wet- en regelgeving, aanvullende veiligheids- en gebruiksvoorschriften met betrekking tot de omgang met gevoelige informatie van afnemers van goederen en diensten die door de doelonderneming worden verstrekt;
 
@@ -547,7 +547,7 @@ Onze Minister stelt bij ministeriële regeling de strafbare feiten vast die op g
 
 - 2°. advies te geven over de veiligheids- en integriteitsrisico’s of afwezigheid daarvan bij de werving en aanstelling van bestuurders en medewerkers voor sleutelfuncties die toegang geven tot gevoelige informatie of bedrijfsprocessen; en
 
-- 3°. inbreuken of dreigende inbreuken op beperkingen of verboden betreffende toegang tot of overdracht van informatie of toegang tot bedrijfsprocessen, te rapporteren aan Onze Minister zonder voorafgaande toestemming van enige leidinggevende of bestuurder en, indien nodig, te doen vergezellen van een handhavingsverzoek dat gericht is aan de toezichthoudende ambtenaren, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2024-01-01&g=2024-01-01), ter bescherming tegen inbreuken;
+- 3°. inbreuken of dreigende inbreuken op beperkingen of verboden betreffende toegang tot of overdracht van informatie of toegang tot bedrijfsprocessen, te rapporteren aan Onze Minister zonder voorafgaande toestemming van enige leidinggevende of bestuurder en, indien nodig, te doen vergezellen van een handhavingsverzoek dat gericht is aan de toezichthoudende ambtenaren, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2025-09-01&g=2025-09-01), ter bescherming tegen inbreuken;
 
 - d. het in een aparte in Nederland gevestigde dochtermaatschappij bundelen en onderbrengen van bepaalde delen van de onderneming die deel uitmaken van vitale processen in Nederland of met behulp waarvan voor de nationale veiligheid gevoelige dienstverlening aan de Nederlandse overheid wordt verzorgd.
 
@@ -561,7 +561,7 @@ Onze Minister stelt bij ministeriële regeling de strafbare feiten vast die op g
 
 - i. het verplichten tot certificering van alle of een deel van de aandelen van de verwerver via een stichting. Deze certificaten worden niet geacht te zijn uitgegeven met medewerking van de vennootschap;
 
-- j. het verbinden van de toestemming van Onze Minister aan de beëindiging van de verhandeling van aandelen van een beursgenoteerde doelonderneming met gebruikmaking van een effectenafwikkelingssysteem, op enig moment na een voorgenomen investering en waarbij het verlenen van die toestemming afhankelijk wordt gesteld van een beoordeling overeenkomstig de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2024-01-01&g=2024-01-01).
+- j. het verbinden van de toestemming van Onze Minister aan de beëindiging van de verhandeling van aandelen van een beursgenoteerde doelonderneming met gebruikmaking van een effectenafwikkelingssysteem, op enig moment na een voorgenomen investering en waarbij het verlenen van die toestemming afhankelijk wordt gesteld van een beoordeling overeenkomstig de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-09-01&g=2025-09-01).
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden over de wijze waarop moet worden voldaan aan de eisen of nadere voorschriften die in een toetsingsbesluit aan een verwervingsactiviteit kunnen worden gesteld of verbonden.
 
@@ -571,13 +571,13 @@ Onze Minister stelt bij ministeriële regeling de strafbare feiten vast die op g
 
 ##### Artikel 24
 
-In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01) kan Onze Minister in het toetsingsbesluit de volgende eisen stellen of de volgende nadere voorschriften verbinden aan een verwervingsactiviteit die betrekking heeft op een onderneming die actief is op het gebied van sensitieve technologie, indien dit noodzakelijk is om hieraan verbonden risico’s voor de nationale veiligheid te voorkomen of tot een aanvaardbaar niveau te beperken:
+In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01) kan Onze Minister in het toetsingsbesluit de volgende eisen stellen of de volgende nadere voorschriften verbinden aan een verwervingsactiviteit die betrekking heeft op een onderneming die actief is op het gebied van sensitieve technologie, indien dit noodzakelijk is om hieraan verbonden risico’s voor de nationale veiligheid te voorkomen of tot een aanvaardbaar niveau te beperken:
 
 - a. de verplichting bepaalde technologie, broncode, genetische code, of kennis bij de Staat of een derde partij in Nederland in bewaring te geven en toe te staan dat deze ter beschikking kan worden gesteld door de staat of een derde partij voor niet-commerciële doeleinden bij acute risico’s voor bepaalde vitale processen of veiligheidsbelangen voor de duur dat die risico’s zich voordoen;
 
 - b. verplichten tot het delen van informatie jegens Onze Minister voordat wordt overgegaan tot beëindiging of verplaatsing van een ondernemingsactiviteit naar een derde land en daarbij het in de gelegenheid stellen van Onze Minister om binnen een redelijke termijn voorafgaand aan deze beëindiging of verplaatsing:
 
-- 1.°. aanvullende eisen te stellen of voorschriften op te leggen als bedoeld in dit artikel of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01);
+- 1.°. aanvullende eisen te stellen of voorschriften op te leggen als bedoeld in dit artikel of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01);
 
 - 2.°. de onderneming, delen van de onderneming of bepaalde vermogensbestanddelen, met inbegrip van intellectuele eigendomsrechten, te verwerven voor een redelijke en op dat moment marktconforme prijs;
 
@@ -593,23 +593,23 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 - b. de verwervingsactiviteit verbieden.
 
-3. Indien een verwervingsactiviteit naar het oordeel van Onze Minister leidt tot een risico voor de nationale veiligheid, dat niet in voldoende mate beperkt kan worden door eisen of voorschriften als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01), of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2024-01-01&g=2024-01-01), verbiedt Onze Minister:
+3. Indien een verwervingsactiviteit naar het oordeel van Onze Minister leidt tot een risico voor de nationale veiligheid, dat niet in voldoende mate beperkt kan worden door eisen of voorschriften als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01), of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-09-01&g=2025-09-01), verbiedt Onze Minister:
 
 - a. de verwervingsactiviteit; of
 
-- b. de zeggenschap of significante invloed te houden, indien er sprake is van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01).
+- b. de zeggenschap of significante invloed te houden, indien er sprake is van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), of [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-09-01&g=2025-09-01).
 
 ##### Artikel 26
 
-1. Het is verboden in strijd te handelen met een op grond van de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01) opgelegde eis of ander nader voorschrift, last of verbod.
+1. Het is verboden in strijd te handelen met een op grond van de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01) opgelegde eis of ander nader voorschrift, last of verbod.
 
-2. Onze Minister is bevoegd, voor zover eisen worden gesteld of nadere voorschriften worden verbonden aan een verwervingsactiviteit, een uitvoeringsovereenkomst te sluiten met een doelonderneming over de aanwijzing door de doelonderneming van een onafhankelijke persoon die informatie verzamelt over de eerbiediging van bepaalde gestelde eisen of nadere voorschriften en die hierover periodiek rapporteert aan de toezichthoudende ambtenaren, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2024-01-01&g=2024-01-01).
+2. Onze Minister is bevoegd, voor zover eisen worden gesteld of nadere voorschriften worden verbonden aan een verwervingsactiviteit, een uitvoeringsovereenkomst te sluiten met een doelonderneming over de aanwijzing door de doelonderneming van een onafhankelijke persoon die informatie verzamelt over de eerbiediging van bepaalde gestelde eisen of nadere voorschriften en die hierover periodiek rapporteert aan de toezichthoudende ambtenaren, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2025-09-01&g=2025-09-01).
 
 #### § 3.7. Toetsingsbesluit op basis van hernieuwde beoordeling
 
 ##### Artikel 27
 
-1. Onze Minister kan een verwervingsactiviteit waarvoor eerder een mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), of [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2024-01-01&g=2024-01-01), is gedaan of, al dan niet ambtshalve, een toetsingsbesluit is genomen, opnieuw beoordelen op risico’s voor de nationale veiligheid als feiten die zich voordoen nadat een toetsingsbesluit is genomen, leiden tot:
+1. Onze Minister kan een verwervingsactiviteit waarvoor eerder een mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), of [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2025-09-01&g=2025-09-01), is gedaan of, al dan niet ambtshalve, een toetsingsbesluit is genomen, opnieuw beoordelen op risico’s voor de nationale veiligheid als feiten die zich voordoen nadat een toetsingsbesluit is genomen, leiden tot:
 
 - a. een potentiële maatschappelijke ontwrichting met economische, sociale of fysieke gevolgen; of
 
@@ -619,7 +619,7 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 3. Onze Minister neemt het besluit tot herbeoordeling in overeenstemming met het gevoelen van de ministerraad.
 
-4. Indien Onze Minister op grond van [artikel 34, achtste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), verzoekt om informatie, wordt de termijn, bedoeld in het eerste lid, opgeschort met ingang van de dag waarop Onze Minister het verzoek om informatie heeft gedaan tot de dag waarop de verzochte informatie is verstrekt.
+4. Indien Onze Minister op grond van [artikel 34, achtste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2025-09-01&g=2025-09-01), verzoekt om informatie, wordt de termijn, bedoeld in het eerste lid, opgeschort met ingang van de dag waarop Onze Minister het verzoek om informatie heeft gedaan tot de dag waarop de verzochte informatie is verstrekt.
 
 ### Hoofdstuk 4. Gevolgen uitvoering niet-toegestane verwervingsactiviteiten
 
@@ -627,9 +627,9 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 ##### Artikel 28
 
-1. Het uitvoeren van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), in strijd met een verbod op grond van [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), is nietig, tenzij de afwikkeling van deze activiteit plaatsvindt met gebruikmaking van een effectenafwikkelingssysteem.
+1. Het uitvoeren van een verwervingsactiviteit als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-09-01&g=2025-09-01), in strijd met een verbod op grond van [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), is nietig, tenzij de afwikkeling van deze activiteit plaatsvindt met gebruikmaking van een effectenafwikkelingssysteem.
 
-2. Indien de uitvoering van een verwervingsactiviteit niet met gebruikmaking van een effectenafwikkelingssysteem is afgewikkeld, terwijl er ten tijde van of na de uitvoering sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), of van artikel 25, derde lid, onderdeel a, kan Onze Minister de verwerver of doelonderneming gelasten, binnen een door Onze Minister vast te stellen redelijke termijn, de noodzakelijke handelingen te verrichten om de ongewenste effecten van de verwervingsactiviteit te voorkomen of de verwervingsactiviteit ongedaan te maken.
+2. Indien de uitvoering van een verwervingsactiviteit niet met gebruikmaking van een effectenafwikkelingssysteem is afgewikkeld, terwijl er ten tijde van of na de uitvoering sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), of van artikel 25, derde lid, onderdeel a, kan Onze Minister de verwerver of doelonderneming gelasten, binnen een door Onze Minister vast te stellen redelijke termijn, de noodzakelijke handelingen te verrichten om de ongewenste effecten van de verwervingsactiviteit te voorkomen of de verwervingsactiviteit ongedaan te maken.
 
 3. Onverminderd de toepasselijkheid van het tweede lid, zijn door een rechterlijke uitspraak vernietigbaar:
 
@@ -637,7 +637,7 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 - b. andere verwervingsactiviteiten als bedoeld in het tweede lid, die niet nietig zijn op grond van het eerste lid.
 
-4. Indien Onze Minister een verbod heeft opgelegd als bedoeld in [25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), gelast Onze Minister de verwerver, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap of significante invloed die met deze verwervingsactiviteit is verkregen terug te brengen of te beëindigen, zodat niet meer wordt gehandeld in strijd met het opgelegde verbod.
+4. Indien Onze Minister een verbod heeft opgelegd als bedoeld in [25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), gelast Onze Minister de verwerver, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap of significante invloed die met deze verwervingsactiviteit is verkregen terug te brengen of te beëindigen, zodat niet meer wordt gehandeld in strijd met het opgelegde verbod.
 
 5. De verwerver of doelonderneming geeft uitvoering aan de last, opgelegd op grond van het tweede of vierde lid.
 
@@ -649,7 +649,7 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 ##### Artikel 29
 
-1. Indien na verloop van de termijn, bedoeld in [artikel 28, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2024-01-01&g=2024-01-01), de zeggenschap of significante invloed niet overeenkomstig de last is teruggebracht, is Onze Minister bij uitsluiting onherroepelijk gemachtigd om namens en voor rekening van de verwerver of doelonderneming, diens aandelen overeenkomstig de last te vervreemden of anderszins uitvoering te geven aan de opgelegde last, alsmede gehouden om een eventuele opbrengst te verstrekken aan of ten bate te doen komen van de verwerver.
+1. Indien na verloop van de termijn, bedoeld in [artikel 28, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-09-01&g=2025-09-01), de zeggenschap of significante invloed niet overeenkomstig de last is teruggebracht, is Onze Minister bij uitsluiting onherroepelijk gemachtigd om namens en voor rekening van de verwerver of doelonderneming, diens aandelen overeenkomstig de last te vervreemden of anderszins uitvoering te geven aan de opgelegde last, alsmede gehouden om een eventuele opbrengst te verstrekken aan of ten bate te doen komen van de verwerver.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over:
 
@@ -663,25 +663,25 @@ In aanvulling op de toepasselijkheid van [artikel 23](https://wetten.overheid.nl
 
 De door een verwerver of doelonderneming met een verwervingsactiviteit verworven rechten worden niet uitgeoefend, met uitzondering van, voor zo ver van toepassing, het recht op de opbrengsten van een onderneming, dividend en de ontvangst van uitkeringen uit de reserves, indien:
 
-- a. een verwervingsactiviteit is uitgevoerd in strijd met [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01);
+- a. een verwervingsactiviteit is uitgevoerd in strijd met [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01);
 
-- b. de op grond van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2024-01-01&g=2024-01-01) of [25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), aan een verwervingsactiviteit verbonden eisen of nadere voorschriften niet of niet naar behoren worden uitgevoerd;
+- b. de op grond van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-09-01&g=2025-09-01) of [25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), aan een verwervingsactiviteit verbonden eisen of nadere voorschriften niet of niet naar behoren worden uitgevoerd;
 
-- c. er sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), of 25, derde lid, onderdeel a, en de strijdigheid met het verbod nog niet is opgeheven;
+- c. er sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), of 25, derde lid, onderdeel a, en de strijdigheid met het verbod nog niet is opgeheven;
 
-- d. er sprake is van een verbod op grond van [artikel 25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), en de strijdigheid met het verbod nog niet is opgeheven;
+- d. er sprake is van een verbod op grond van [artikel 25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), en de strijdigheid met het verbod nog niet is opgeheven;
 
-- e. Onze Minister een last heeft opgelegd als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2024-01-01&g=2024-01-01), en er nog geen schriftelijke mededeling of toetsingsbesluit als bedoeld in dat lid is gedaan respectievelijk genomen of een last heeft opgelegd als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01), en er nog geen schriftelijke bevestiging of toetsingsbesluit als bedoeld in dat lid is gedaan respectievelijk genomen;
+- e. Onze Minister een last heeft opgelegd als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2025-09-01&g=2025-09-01), en er nog geen schriftelijke mededeling of toetsingsbesluit als bedoeld in dat lid is gedaan respectievelijk genomen of een last heeft opgelegd als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01), en er nog geen schriftelijke bevestiging of toetsingsbesluit als bedoeld in dat lid is gedaan respectievelijk genomen;
 
-- f. Onze Minister gebruik maakt van de bevoegdheid, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.7&artikel=27&z=2024-01-01&g=2024-01-01), vanaf het moment dat in overeenstemming met het gevoelen van de ministerraad is vastgesteld dat een van de omstandigheden, bedoeld in dat lid, zich voordoet, totdat is medegedeeld dat geen toetsingsbesluit nodig is, een toetsingsbesluit in stand blijft of een nieuw toetsingsbesluit is genomen.
+- f. Onze Minister gebruik maakt van de bevoegdheid, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.7&artikel=27&z=2025-09-01&g=2025-09-01), vanaf het moment dat in overeenstemming met het gevoelen van de ministerraad is vastgesteld dat een van de omstandigheden, bedoeld in dat lid, zich voordoet, totdat is medegedeeld dat geen toetsingsbesluit nodig is, een toetsingsbesluit in stand blijft of een nieuw toetsingsbesluit is genomen.
 
 ##### Artikel 31
 
-Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01) geeft, voor zover mogelijk, gevolg aan de schorsing, bedoeld in dat artikel.
+Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01) geeft, voor zover mogelijk, gevolg aan de schorsing, bedoeld in dat artikel.
 
 ##### Artikel 32
 
-1. Indien dat naar het oordeel van Onze Minister nodig is om de effectiviteit van de schorsing, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01) te verzekeren, kan Onze Minister een of meer personen aanwijzen met in ieder geval kennis en ervaring op het gebied van controle op naleving van wettelijke voorschriften, die opdrachten kan of kunnen verstrekken aan de doelonderneming die uitsluitend ertoe strekken om de medewerking van de verwerver of doelonderneming aan de effectiviteit van de schorsing te verzekeren.
+1. Indien dat naar het oordeel van Onze Minister nodig is om de effectiviteit van de schorsing, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01) te verzekeren, kan Onze Minister een of meer personen aanwijzen met in ieder geval kennis en ervaring op het gebied van controle op naleving van wettelijke voorschriften, die opdrachten kan of kunnen verstrekken aan de doelonderneming die uitsluitend ertoe strekken om de medewerking van de verwerver of doelonderneming aan de effectiviteit van de schorsing te verzekeren.
 
 2. Onze Minister maakt een besluit tot benoeming van een aangewezen persoon bekend in de Staatscourant.
 
@@ -693,7 +693,7 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 6. Onze Minister kan de aangewezen persoon vervangen door een andere persoon.
 
-7. Onze Minister trekt een aanwijzing als bedoeld in het eerste lid in zodra deze niet meer nodig is, maar in ieder geval niet later dan het moment waarop de schorsing van rechten als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01), niet meer van toepassing is.
+7. Onze Minister trekt een aanwijzing als bedoeld in het eerste lid in zodra deze niet meer nodig is, maar in ieder geval niet later dan het moment waarop de schorsing van rechten als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01), niet meer van toepassing is.
 
 8. Onverminderd de aansprakelijkheid van de staat, is een aangewezen persoon niet aansprakelijk voor schade ten gevolge van door hem verstrekte opdrachten.
 
@@ -701,7 +701,7 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 1. Onze Minister kan een of meer personen aanwijzen die het bestuur of de leiding van een doelonderneming die een vitale aanbieder is, vervangt dan wel vervangen, indien er:
 
-- a. sprake is van een schorsing van rechten als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01); en
+- a. sprake is van een schorsing van rechten als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01); en
 
 - b. sprake is van een risico op misbruik of uitval van de doelonderneming.
 
@@ -715,17 +715,17 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 4. Voor zover dit verenigbaar is met de doelen, genoemd in het derde lid, richt de aangewezen vervanger zich naar het belang van de doelonderneming.
 
-5. [Artikel 32, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2024-01-01&g=2024-01-01), zijn van overeenkomstige toepassing, met dien verstande dat onder het doel, bedoeld in artikel 32, derde lid, wordt verstaan: het doel van de werkzaamheden van de aangewezen vervanger, bedoeld in het derde lid.
+5. [Artikel 32, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-09-01&g=2025-09-01), zijn van overeenkomstige toepassing, met dien verstande dat onder het doel, bedoeld in artikel 32, derde lid, wordt verstaan: het doel van de werkzaamheden van de aangewezen vervanger, bedoeld in het derde lid.
 
 ### Hoofdstuk 5. Gegevensverwerking
 
 ##### Artikel 34
 
-1. Onze op grond van [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), betrokken Ministers en de partijen, bedoeld in het derde tot en met zesde lid, verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor het overeenkomstig deze wet beoordelen van, vaststellen van en beschermen tegen risico’s voor de nationale veiligheid die door de uitvoering van een verwervingsactiviteit ten aanzien van een doelonderneming waarop deze wet van toepassing is, kunnen ontstaan.
+1. Onze op grond van [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), betrokken Ministers en de partijen, bedoeld in het derde tot en met zesde lid, verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor het overeenkomstig deze wet beoordelen van, vaststellen van en beschermen tegen risico’s voor de nationale veiligheid die door de uitvoering van een verwervingsactiviteit ten aanzien van een doelonderneming waarop deze wet van toepassing is, kunnen ontstaan.
 
 2. De verwerking van persoonsgegevens, bedoeld in het eerste lid, is toegestaan voor zover dit noodzakelijk is voor het:
 
-- a. doen van een mededeling of een toetsingsbesluit vereist is, het nemen van een, al dan niet ambtshalve, toetsingsbesluit, het afgeven van een schriftelijke bevestiging als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01), of het verbinden van andere eisen of voorschriften als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), aan een toetsingsbesluit;
+- a. doen van een mededeling of een toetsingsbesluit vereist is, het nemen van een, al dan niet ambtshalve, toetsingsbesluit, het afgeven van een schriftelijke bevestiging als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01), of het verbinden van andere eisen of voorschriften als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), aan een toetsingsbesluit;
 
 - b. verlenen van een ontheffing;
 
@@ -735,17 +735,17 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 - e. opleggen van een last en het doen van de mededeling daarvan;
 
-- f. machtigen krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=29&z=2024-01-01&g=2024-01-01) of [artikel 43, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2024-01-01&g=2024-01-01);
+- f. machtigen krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=29&z=2025-09-01&g=2025-09-01) of [artikel 43, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2025-09-01&g=2025-09-01);
 
-- g. verstrekken van een opdracht als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2024-01-01&g=2024-01-01);
+- g. verstrekken van een opdracht als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2025-09-01&g=2025-09-01);
 
 - h. verrichten van werkzaamheden die noodzakelijk zijn ter uitvoering van de onderdelen a tot en met g, waaronder de beoordeling van een verwervingsactiviteit op risico’s voor de nationale veiligheid.
 
-- i. kunnen identificeren van personen op basis van gegevens verkregen bij of krachtens [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&z=2024-01-01&g=2024-01-01) tot uitvoering van deze wet; en
+- i. kunnen identificeren van personen op basis van gegevens verkregen bij of krachtens [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&z=2025-09-01&g=2025-09-01) tot uitvoering van deze wet; en
 
-- j. toepassen van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&z=2024-01-01&g=2024-01-01) en [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=8&artikel=56&z=2024-01-01&g=2024-01-01) van deze wet.
+- j. toepassen van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&z=2025-09-01&g=2025-09-01) en [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=8&artikel=56&z=2025-09-01&g=2025-09-01) van deze wet.
 
-3. Onze Minister maakt voor de uitvoering van deze wet, naast gegevens die door de meldingsplichtige op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01) worden aangeleverd of waarnaar wordt verwezen, gebruik van gegevens die afkomstig zijn uit:
+3. Onze Minister maakt voor de uitvoering van deze wet, naast gegevens die door de meldingsplichtige op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01) worden aangeleverd of waarnaar wordt verwezen, gebruik van gegevens die afkomstig zijn uit:
 
 - a. het handelsregister;
 
@@ -765,7 +765,7 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 - d. de Autoriteit Consument en Markt, voor zover het gegevens betreft die worden verwerkt in het kader van [hoofdstuk 5 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5);
 
-- e. de veiligheidscommissie of beveiligingsfunctionaris, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01), voor zover het gegevens betreft inzake inbreuken of dreigende inbreuken op beperkingen of verboden ten aanzien van toegang tot gevoelige informatie of bedrijfsprocessen;
+- e. de veiligheidscommissie of beveiligingsfunctionaris, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01), voor zover het gegevens betreft inzake inbreuken of dreigende inbreuken op beperkingen of verboden ten aanzien van toegang tot gevoelige informatie of bedrijfsprocessen;
 
 - f. bij algemene maatregel van bestuur aan te wijzen bestuursorganen, diensten, toezichthouders of andere personen.
 
@@ -777,9 +777,9 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 8. Onze Minister verzoekt ingeval van:
 
-- a. een beoordeling of op grond van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01), een nieuwe melding gedaan moet worden slechts om informatie, indien er bij Onze Minister een op redelijke gronden gebaseerd vermoeden is ontstaan dat sprake kan zijn van de verstrekking van onjuiste of onvolledige informatie door de meldingsplichtige;
+- a. een beoordeling of op grond van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01), een nieuwe melding gedaan moet worden slechts om informatie, indien er bij Onze Minister een op redelijke gronden gebaseerd vermoeden is ontstaan dat sprake kan zijn van de verstrekking van onjuiste of onvolledige informatie door de meldingsplichtige;
 
-- b. een beoordeling of er sprake is van feiten als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.7&artikel=27&z=2024-01-01&g=2024-01-01), slechts om informatie, indien er overeenstemming met de ministerraad, bedoeld in artikel 27, derde lid, is bereikt over het uitvoeren van die beoordeling.
+- b. een beoordeling of er sprake is van feiten als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.7&artikel=27&z=2025-09-01&g=2025-09-01), slechts om informatie, indien er overeenstemming met de ministerraad, bedoeld in artikel 27, derde lid, is bereikt over het uitvoeren van die beoordeling.
 
 9. Ten behoeve van de naleving van de verplichting, bedoeld in het zesde lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=22).
 
@@ -787,7 +787,7 @@ Een doelonderneming die zelf geen rechten heeft verworven als bedoeld in [artike
 
 11. Onze Minister is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze wet.
 
-12. Onze Minister deelt gegevens die op grond van deze wet zijn verkregen met de Minister van Justitie en Veiligheid en, indien van toepassing, Onze Minister of Ministers die het mede aangaat als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), en andere Ministers als bedoeld in artikel 10, derde lid, voor zover dit noodzakelijk is voor de uitvoering van deze wet.
+12. Onze Minister deelt gegevens die op grond van deze wet zijn verkregen met de Minister van Justitie en Veiligheid en, indien van toepassing, Onze Minister of Ministers die het mede aangaat als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), en andere Ministers als bedoeld in artikel 10, derde lid, voor zover dit noodzakelijk is voor de uitvoering van deze wet.
 
 13. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de gegevens die op grond van het derde lid, onderdelen c en d, gebruikt worden.
 
@@ -827,9 +827,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 37
 
-1. Indien de meldplicht op grond van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), betrekking heeft op een openbaar bod op een beursgenoteerde doelonderneming wordt de melding gelijktijdig gedaan met een aankondiging van het openbaar bod als bedoeld in [artikel 5:70, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) of een aankondiging als bedoeld in [artikel 5, eerste tot en met derde lid, van het Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=5).
+1. Indien de meldplicht op grond van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), betrekking heeft op een openbaar bod op een beursgenoteerde doelonderneming wordt de melding gelijktijdig gedaan met een aankondiging van het openbaar bod als bedoeld in [artikel 5:70, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) of een aankondiging als bedoeld in [artikel 5, eerste tot en met derde lid, van het Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=5).
 
-2. Een verplicht bod als bedoeld in [artikel 5:70, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) wordt niet gestand gedaan overeenkomstig [artikel 16 van het Besluit Openbare Biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=16), voordat Onze Minister een mededeling heeft gedaan aan een meldingsplichtige dat geen toetsingsbesluit vereist is, een toetsingsbesluit is genomen of als een toetsingsbesluit is vastgesteld overeenkomstig [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01).
+2. Een verplicht bod als bedoeld in [artikel 5:70, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) wordt niet gestand gedaan overeenkomstig [artikel 16 van het Besluit Openbare Biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=16), voordat Onze Minister een mededeling heeft gedaan aan een meldingsplichtige dat geen toetsingsbesluit vereist is, een toetsingsbesluit is genomen of als een toetsingsbesluit is vastgesteld overeenkomstig [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01).
 
 #### § 6.3. Identiteitsonderzoek en -vaststelling
 
@@ -843,11 +843,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 4. De medewerking, bedoeld in het derde lid, wordt door een partij als bedoeld in het derde lid die een instelling in het buitenland met een zetel buiten de Europese Economische Ruimte is of die een instelling met een zetel buiten de Europese Economische Ruimte met een functie vergelijkbaar met die van centraal instituut is, uitsluitend verleend voor zover de wetgeving van dat land zich daartegen niet verzet.
 
-5. Indien, ondanks het onderzoek, bedoeld in het eerste lid, de identiteit van de houder of houders van een aandelenbelang niet met zekerheid is vast te stellen, wordt voor de toepassing van deze wet ingeval van een beursgenoteerde doelonderneming onder verwerver telkens verstaan de natuurlijke persoon of rechtspersoon die op grond van het tweede lid, geacht is verwerver te zijn. De toepassing van dit artikellid wordt actief kenbaar gemaakt bij de toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2024-01-01&g=2024-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2024-01-01&g=2024-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2024-01-01&g=2024-01-01) aan de alsdan vastgestelde verwerver.
+5. Indien, ondanks het onderzoek, bedoeld in het eerste lid, de identiteit van de houder of houders van een aandelenbelang niet met zekerheid is vast te stellen, wordt voor de toepassing van deze wet ingeval van een beursgenoteerde doelonderneming onder verwerver telkens verstaan de natuurlijke persoon of rechtspersoon die op grond van het tweede lid, geacht is verwerver te zijn. De toepassing van dit artikellid wordt actief kenbaar gemaakt bij de toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2025-09-01&g=2025-09-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=23&z=2025-09-01&g=2025-09-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=24&z=2025-09-01&g=2025-09-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2025-09-01&g=2025-09-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2025-09-01&g=2025-09-01) aan de alsdan vastgestelde verwerver.
 
 ##### Artikel 39
 
-1. Het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), omvat het inwinnen van informatie bij partijen in de bewaarketen.
+1. Het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), omvat het inwinnen van informatie bij partijen in de bewaarketen.
 
 2. Op het onderzoek, bedoeld in eerste lid, zijn de [artikelen 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=49a), [49b, eerste, tweede, vierde, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=49b), [49d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=49d) en [49e van de Wet giraal effectenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=49e) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -861,9 +861,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 40
 
-1. Een beursgenoteerde onderneming stelt bij de uitvoering van een onderzoek als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), telkens de tot dusver als laatste geïdentificeerde natuurlijke persoon of rechtspersoon die niet de verwerver is er van op de hoogte dat hij wordt geacht verwerver te zijn als bedoeld in artikel 38, tweede lid, en welke gevolgen daarvan op grond van deze wet verbonden kunnen zijn.
+1. Een beursgenoteerde onderneming stelt bij de uitvoering van een onderzoek als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), telkens de tot dusver als laatste geïdentificeerde natuurlijke persoon of rechtspersoon die niet de verwerver is er van op de hoogte dat hij wordt geacht verwerver te zijn als bedoeld in artikel 38, tweede lid, en welke gevolgen daarvan op grond van deze wet verbonden kunnen zijn.
 
-2. De tijdens het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), tot dusver als laatste geïdentificeerde natuurlijke persoon of rechtspersoon die een partij in de bewaarketen is en die aan de beursgenoteerde onderneming de identiteit niet kenbaar maakt van een deelgenoot in een door die partij gehouden depot of van een cliënt voor wie die partij de door de beursgenoteerde onderneming uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, geleidt een van de beursgenoteerde onderneming afkomstig schriftelijk bericht met een verzoek tot identiteitsvaststelling onverwijld door naar de deelgenoten of cliënten voor wie die partij direct of indirect een aandelenbelang houdt respectievelijk bewaart, administreert of aanhoudt.
+2. De tijdens het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), tot dusver als laatste geïdentificeerde natuurlijke persoon of rechtspersoon die een partij in de bewaarketen is en die aan de beursgenoteerde onderneming de identiteit niet kenbaar maakt van een deelgenoot in een door die partij gehouden depot of van een cliënt voor wie die partij de door de beursgenoteerde onderneming uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, geleidt een van de beursgenoteerde onderneming afkomstig schriftelijk bericht met een verzoek tot identiteitsvaststelling onverwijld door naar de deelgenoten of cliënten voor wie die partij direct of indirect een aandelenbelang houdt respectievelijk bewaart, administreert of aanhoudt.
 
 3. De informatie die in een door te geleiden bericht als bedoeld in het tweede lid wordt verzocht, is:
 
@@ -885,7 +885,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 5. De beursgenoteerde onderneming informeert de tot dusver als laatste geïdentificeerde natuurlijke persoon of rechtspersoon die tevens partij in een bewaarketen, bedoeld in het tweede lid, is, indien de hoedanigheid als laatste geïdentificeerde op een ander is overgegaan als resultaat van de informatie-uitwisseling op grond van het tweede tot en met vierde lid.
 
-6. Bij het beëindigen van het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), stelt de beursgenoteerde onderneming de als laatste geïdentificeerde natuurlijke persoon of rechtspersoon hiervan op de hoogte.
+6. Bij het beëindigen van het onderzoek, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), stelt de beursgenoteerde onderneming de als laatste geïdentificeerde natuurlijke persoon of rechtspersoon hiervan op de hoogte.
 
 7. De beursgenoteerde onderneming verstrekt krachtens dit artikel verkregen gegevens onverwijld aan Onze Minister en deelt aan de natuurlijke persoon of rechtspersoon, bedoeld in het tweede lid, die het bericht, bedoeld in het tweede lid, heeft doorgeleid of aan een door deze natuurlijke persoon of rechtspersoon aangewezen derde, mede dat de verzochte gegevens zijn verkregen.
 
@@ -893,21 +893,21 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 1. Een beursgenoteerde onderneming:
 
-- a. is verplicht tot geheimhouding van de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), waarvan zij kennis neemt;
+- a. is verplicht tot geheimhouding van de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), waarvan zij kennis neemt;
 
-- b. verleent geen volmacht om namens haar gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), te ontvangen;
+- b. verleent geen volmacht om namens haar gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), te ontvangen;
 
-- c. verwerkt de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), uitsluitend voor zover dit noodzakelijk is ter uitvoering van deze wet.
+- c. verwerkt de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), uitsluitend voor zover dit noodzakelijk is ter uitvoering van deze wet.
 
-2. Rechtspersonen hebben het recht om gegevens betreffende hun identiteit die door de beursgenoteerde onderneming verkregen zijn na doorgeleiding van een bericht als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), te corrigeren wanneer deze onvolledig of onjuist zijn gebleken.
+2. Rechtspersonen hebben het recht om gegevens betreffende hun identiteit die door de beursgenoteerde onderneming verkregen zijn na doorgeleiding van een bericht als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), te corrigeren wanneer deze onvolledig of onjuist zijn gebleken.
 
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze van verwerking van de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), en over de bewaartermijnen daarvan door de doelonderneming en door Onze Minister die deze gegevens ter uitvoering van deze wet heeft verkregen.
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze van verwerking van de gegevens, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), en over de bewaartermijnen daarvan door de doelonderneming en door Onze Minister die deze gegevens ter uitvoering van deze wet heeft verkregen.
 
 #### § 6.4. Terugbrengen verboden zeggenschap of significante invloed
 
 ##### Artikel 42
 
-1. Indien een verwervingsactiviteit is uitgevoerd, terwijl er ten tijde van of na de uitvoering sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2024-01-01&g=2024-01-01), of artikel 25, derde lid, onderdeel a, en de afwikkeling van de verwervingsactiviteit heeft plaatsgevonden met gebruikmaking van een effectenafwikkelingssysteem, gelast Onze Minister de verwerver, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap of significante invloed die met deze verwervingsactiviteit is verkregen terug te brengen of te beëindigen zodat niet meer wordt gehandeld in strijd met het opgelegde verbod.
+1. Indien een verwervingsactiviteit is uitgevoerd, terwijl er ten tijde van of na de uitvoering sprake is van een verbod op grond van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=25&z=2025-09-01&g=2025-09-01), of artikel 25, derde lid, onderdeel a, en de afwikkeling van de verwervingsactiviteit heeft plaatsgevonden met gebruikmaking van een effectenafwikkelingssysteem, gelast Onze Minister de verwerver, binnen een door Onze Minister vast te stellen redelijke termijn de zeggenschap of significante invloed die met deze verwervingsactiviteit is verkregen terug te brengen of te beëindigen zodat niet meer wordt gehandeld in strijd met het opgelegde verbod.
 
 2. De verwerver of doelonderneming geeft uitvoering aan de last, opgelegd op grond van het eerste lid.
 
@@ -919,7 +919,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 43
 
-1. Indien na verloop van de termijn, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2024-01-01&g=2024-01-01), de zeggenschap of significante invloed in een beursgenoteerde doelonderneming niet overeenkomstig de last, bedoeld in artikel 42, eerste lid, is teruggebracht:
+1. Indien na verloop van de termijn, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2025-09-01&g=2025-09-01), de zeggenschap of significante invloed in een beursgenoteerde doelonderneming niet overeenkomstig de last, bedoeld in artikel 42, eerste lid, is teruggebracht:
 
 - a. is de beursgenoteerde doelonderneming bij uitsluiting onherroepelijk gemachtigd tot gehele vervreemding of tot terugbrenging namens en voor rekening van de verwerver van de zeggenschap of het aandelenbelang; en
 
@@ -949,7 +949,7 @@ De toepassing van de vorige volzin wordt herhaald totdat aan de opdracht uitvoer
 
 ##### Artikel 44
 
-1. Indien ondanks een door de beursgenoteerde doelonderneming verstrekte opdracht als bedoeld in [artikel 43, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2024-01-01&g=2024-01-01), geen enkele partij daaraan uitvoering geeft of kan geven, meldt de beursgenoteerde doelonderneming dit aan Onze Minister.
+1. Indien ondanks een door de beursgenoteerde doelonderneming verstrekte opdracht als bedoeld in [artikel 43, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2025-09-01&g=2025-09-01), geen enkele partij daaraan uitvoering geeft of kan geven, meldt de beursgenoteerde doelonderneming dit aan Onze Minister.
 
 2. Na een melding als bedoeld in het eerste lid te hebben gedaan, draagt Onze Minister de beursgenoteerde doelonderneming op om het aandelenbelang waarvoor de verwerver direct of indirect deelgenoot in een depot is dat door een centraal instituut of instelling wordt gehouden met uitsluiting van anderen te leveren aan de verwerver door de volgende handelingen te verrichten:
 
@@ -969,7 +969,7 @@ De toepassing van de vorige volzin wordt herhaald totdat aan de opdracht uitvoer
 
 7. De inschrijving en wijziging van tenaamstelling in het aandeelhoudersregister kan worden tegengeworpen aan een ieder die na de datum van opdracht tot tenaamstelling, bedoeld in het tweede lid, deelgenoot is geworden in een depot of voor wie na deze datum een aandelenbelang wordt bewaard, geadministreerd of aangehouden.
 
-8. Nadat de beursgenoteerde doelonderneming het aandelenregister heeft gewijzigd, bedoeld in het tweede lid, geeft de beursgenoteerde doelonderneming uitvoering aan de verplichting, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2024-01-01&g=2024-01-01), en wordt een eventuele opbrengst verstrekt aan of komt een eventuele opbrengst ten bate van de verwerver.
+8. Nadat de beursgenoteerde doelonderneming het aandelenregister heeft gewijzigd, bedoeld in het tweede lid, geeft de beursgenoteerde doelonderneming uitvoering aan de verplichting, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2025-09-01&g=2025-09-01), en wordt een eventuele opbrengst verstrekt aan of komt een eventuele opbrengst ten bate van de verwerver.
 
 9. Op de uitvoering van een opdracht als bedoeld in het tweede lid, zijn de [artikelen 26, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=26) en [45, derde en vierde lid, van de Wet giraal effectenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&artikel=45) niet van toepassing.
 
@@ -977,9 +977,9 @@ De toepassing van de vorige volzin wordt herhaald totdat aan de opdracht uitvoer
 
 ##### Artikel 45
 
-1. Een partij in de bewaarketen onthoudt zich van gedragingen waarvan hij weet of redelijkerwijs behoort te weten dat de verwerver of beursgenoteerde doelonderneming, daardoor in strijd met het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01) kan handelen.
+1. Een partij in de bewaarketen onthoudt zich van gedragingen waarvan hij weet of redelijkerwijs behoort te weten dat de verwerver of beursgenoteerde doelonderneming, daardoor in strijd met het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01) kan handelen.
 
-2. In geval van een schorsing als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01), verzoekt de beursgenoteerde doelonderneming een partij in de bewaarketen, een bericht door te geleiden aan de verwerver waarin het volgende wordt vermeld:
+2. In geval van een schorsing als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01), verzoekt de beursgenoteerde doelonderneming een partij in de bewaarketen, een bericht door te geleiden aan de verwerver waarin het volgende wordt vermeld:
 
 - a. de adresgegevens van de beursgenoteerde doelonderneming en het e-mailadres waaronder deze onderneming bereikbaar is;
 
@@ -991,7 +991,7 @@ De toepassing van de vorige volzin wordt herhaald totdat aan de opdracht uitvoer
 
 4. Indien de medewerking niet wordt verleend, meldt een beursgenoteerde doelonderneming dit aan Onze Minister.
 
-5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aan de verplichting, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2024-01-01&g=2024-01-01), gevolg wordt gegeven door de doelonderneming. Deze regels hebben in ieder geval betrekking op de wijze waarop:
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aan de verplichting, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2025-09-01&g=2025-09-01), gevolg wordt gegeven door de doelonderneming. Deze regels hebben in ieder geval betrekking op de wijze waarop:
 
 - a. deelname van de verwerver aan de algemene vergadering wordt verhinderd;
 
@@ -1009,7 +1009,7 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze
 
 ##### Artikel 47
 
-1. De op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2024-01-01&g=2024-01-01) aangewezen ambtenaren zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd een woning zonder toestemming van de bewoner binnen te treden en te doorzoeken, voor zover:
+1. De op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2025-09-01&g=2025-09-01) aangewezen ambtenaren zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd een woning zonder toestemming van de bewoner binnen te treden en te doorzoeken, voor zover:
 
 - a. dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is; en
 
@@ -1023,11 +1023,11 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze
 
 ##### Artikel 48
 
-1. Voor het binnentreden en doorzoeken, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=47&z=2024-01-01&g=2024-01-01), is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam, waaraan een verzoek van een op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2024-01-01&g=2024-01-01) aangewezen ambtenaar ten grondslag ligt. De vereiste machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.
+1. Voor het binnentreden en doorzoeken, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=47&z=2025-09-01&g=2025-09-01), is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam, waaraan een verzoek van een op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2025-09-01&g=2025-09-01) aangewezen ambtenaar ten grondslag ligt. De vereiste machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.
 
 2. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.
 
-3. Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2024-01-01&g=2024-01-01) aangewezen ambtenaren binnen veertien dagen beroep open bij de rechtbank Rotterdam.
+3. Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=46&z=2025-09-01&g=2025-09-01) aangewezen ambtenaren binnen veertien dagen beroep open bij de rechtbank Rotterdam.
 
 4. Het binnentreden en doorzoeken vindt plaats onder toezicht van de rechter-commissaris.
 
@@ -1037,7 +1037,7 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze
 
 ##### Artikel 49
 
-1. Een machtiging als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=48&z=2024-01-01&g=2024-01-01), is met redenen omkleed en ondertekend en vermeldt:
+1. Een machtiging als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=48&z=2025-09-01&g=2025-09-01), is met redenen omkleed en ondertekend en vermeldt:
 
 - a. de naam van de rechter-commissaris die de machtiging heeft gegeven;
 
@@ -1055,7 +1055,7 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze
 
 ##### Artikel 50
 
-1. De ambtenaar die een doorzoeking als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=47&z=2024-01-01&g=2024-01-01), heeft verricht, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent de doorzoeking.
+1. De ambtenaar die een doorzoeking als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=7&artikel=47&z=2025-09-01&g=2025-09-01), heeft verricht, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent de doorzoeking.
 
 2. In het verslag vermeldt hij:
 
@@ -1079,17 +1079,17 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze
 
 ##### Artikel 51
 
-1. Onze Minister kan in geval van overtreding van de [artikelen 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2024-01-01&g=2024-01-01), [14, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.3&artikel=14&z=2024-01-01&g=2024-01-01), [16, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2024-01-01&g=2024-01-01), [17, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2024-01-01&g=2024-01-01), [28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2024-01-01&g=2024-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2024-01-01&g=2024-01-01), [32, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2024-01-01&g=2024-01-01), [34, zesde lid, zevende lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), [40, eerste lid, tweede lid, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2024-01-01&g=2024-01-01), [43, eerste lid, onderdeel b, tweede lid, derde lid, vierde lid, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2024-01-01&g=2024-01-01), [44, vierde lid, vijfde lid, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2024-01-01&g=2024-01-01), [45, eerste lid, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2024-01-01&g=2024-01-01) de overtreder:
+1. Onze Minister kan in geval van overtreding van de [artikelen 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2025-09-01&g=2025-09-01), [14, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.3&artikel=14&z=2025-09-01&g=2025-09-01), [16, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2025-09-01&g=2025-09-01), [17, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=17&z=2025-09-01&g=2025-09-01), [28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-09-01&g=2025-09-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2025-09-01&g=2025-09-01), [32, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2025-09-01&g=2025-09-01), [34, zesde lid, zevende lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=34&z=2025-09-01&g=2025-09-01), [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=5&artikel=35&z=2025-09-01&g=2025-09-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), [40, eerste lid, tweede lid, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2025-09-01&g=2025-09-01), [43, eerste lid, onderdeel b, tweede lid, derde lid, vierde lid, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2025-09-01&g=2025-09-01), [44, vierde lid, vijfde lid, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2025-09-01&g=2025-09-01), [45, eerste lid, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2025-09-01&g=2025-09-01) de overtreder:
 
 - a. een last onder bestuursdwang opleggen; en
 
 - b. een bestuurlijke boete opleggen.
 
-2. Onze Minister kan in geval van overtreding van de [artikelen, 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2024-01-01&g=2024-01-01), [28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2024-01-01&g=2024-01-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.2&artikel=37&z=2024-01-01&g=2024-01-01), [40, zesde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), [41 eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2024-01-01&g=2024-01-01), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2024-01-01&g=2024-01-01), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2024-01-01&g=2024-01-01), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2024-01-01&g=2024-01-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=9&artikel=58&z=2024-01-01&g=2024-01-01), de overtreder een bestuurlijke boete opleggen.
+2. Onze Minister kan in geval van overtreding van de [artikelen, 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2025-09-01&g=2025-09-01), [28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2025-09-01&g=2025-09-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2025-09-01&g=2025-09-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.2&artikel=37&z=2025-09-01&g=2025-09-01), [40, zesde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), [41 eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2025-09-01&g=2025-09-01), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=42&z=2025-09-01&g=2025-09-01), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2025-09-01&g=2025-09-01), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2025-09-01&g=2025-09-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=9&artikel=58&z=2025-09-01&g=2025-09-01), de overtreder een bestuurlijke boete opleggen.
 
 3. De bestuurlijke boete, bedoeld in het eerste en tweede lid, bedraagt ten hoogste een geldboete van het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien de zesde categorie geen passende bestraffing toelaat, ten hoogste 10% van de omzet van de desbetreffende onderneming.
 
-4. Onze Minister kan in het geval van een overtreding van de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2024-01-01&g=2024-01-01), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2024-01-01&g=2024-01-01), [43, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2024-01-01&g=2024-01-01), [44, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2024-01-01&g=2024-01-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2024-01-01&g=2024-01-01) en 45, derde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de groep waarvan de desbetreffende partij in de bewaarketen, deel uitmaakt.
+4. Onze Minister kan in het geval van een overtreding van de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=38&z=2025-09-01&g=2025-09-01), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.3&artikel=40&z=2025-09-01&g=2025-09-01), [43, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=43&z=2025-09-01&g=2025-09-01), [44, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.4&artikel=44&z=2025-09-01&g=2025-09-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=6&paragraaf=6.5&artikel=45&z=2025-09-01&g=2025-09-01) en 45, derde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de groep waarvan de desbetreffende partij in de bewaarketen, deel uitmaakt.
 
 ### Hoofdstuk 8. Wijziging van andere wetten
 
@@ -1121,15 +1121,15 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 58
 
-1. Indien bij Onze Minister een op redelijke gronden gebaseerd vermoeden is ontstaan dat een verwervingsactiviteit die heeft plaatsgevonden voorafgaand aan de inwerkingtreding van deze wet, maar na 8 september 2020, een risico voor de nationale veiligheid zou kunnen opleveren, kan Onze Minister de betrokkenen bij de verwervingsactiviteit binnen acht maanden na de inwerkingtreding van deze wet gelasten alsnog een melding te doen, waarna Onze Minister de verwervingsactiviteit kan beoordelen op risico’s voor de nationale veiligheid en op basis van deze beoordeling een mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-01-01&g=2024-01-01), kan doen of een ambtshalve toetsingsbesluit kan nemen.
+1. Indien bij Onze Minister een op redelijke gronden gebaseerd vermoeden is ontstaan dat een verwervingsactiviteit die heeft plaatsgevonden voorafgaand aan de inwerkingtreding van deze wet, maar na 8 september 2020, een risico voor de nationale veiligheid zou kunnen opleveren, kan Onze Minister de betrokkenen bij de verwervingsactiviteit binnen acht maanden na de inwerkingtreding van deze wet gelasten alsnog een melding te doen, waarna Onze Minister de verwervingsactiviteit kan beoordelen op risico’s voor de nationale veiligheid en op basis van deze beoordeling een mededeling als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-09-01&g=2025-09-01), kan doen of een ambtshalve toetsingsbesluit kan nemen.
 
-2. De betrokkenen geven uitvoering aan de last, opgelegd op grond van het eerste lid, tot het doen van melding, waarop [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing is.
+2. De betrokkenen geven uitvoering aan de last, opgelegd op grond van het eerste lid, tot het doen van melding, waarop [artikel 11, tweede tot en met vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.2&artikel=11&z=2025-09-01&g=2025-09-01), van overeenkomstige toepassing is.
 
-3. Op het nemen van een ambtshalve toetsingsbesluit is [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2024-01-01&g=2024-01-01), en [artikel 18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=18&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+3. Op het nemen van een ambtshalve toetsingsbesluit is [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2025-09-01&g=2025-09-01), en [artikel 18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=3&paragraaf=3.4&artikel=18&z=2025-09-01&g=2025-09-01), van overeenkomstige toepassing.
 
 4. Het eerste lid is niet van toepassing op een verwervingsactiviteit die betrekking heeft op een doelonderneming:
 
-- a. die actief is op het gebied van sensitieve technologie, die is aangewezen op grond van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2024-01-01&g=2024-01-01);
+- a. die actief is op het gebied van sensitieve technologie, die is aangewezen op grond van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2025-09-01&g=2025-09-01);
 
 - b. die dat is door zeggenschap of significante invloed uit te oefenen op een doelonderneming als bedoeld in onderdeel a; of
 
