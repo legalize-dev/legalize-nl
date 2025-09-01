@@ -1,0 +1,133 @@
+---
+title: "Besluit van de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland van 1 september 2025, houdende instelling van de evaluatiecommissie Onderlinge regeling samenwerking bij hervormingen (Instellingsbesluit evaluatiecommissie Onderlinge regeling)"
+identifier: "BWBR0052142"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-14"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052142"
+soort: "ministeriele-regeling"
+stam_id: "17728063"
+version_id: "31286092"
+internal_id: "C44730301"
+label_id: "17626694"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052142/2026-01-14/0"
+intitule_bron: "Stcrt.2026-455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-01"
+intitule_published: "2026-01-13"
+intitule_in_force: "2026-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-455"
+original_signed_date: "2025-09-01"
+original_published_date: "2026-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-455"
+entry_into_force_date: "2026-01-14"
+jci_1_3: "jci1.3:c:BWBR0052142&z=2026-01-14&g=2026-01-14"
+jci_1_0: "1.0:c:BWBR0052142&g=2026-01-14"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit evaluatiecommissie Onderlinge regeling"
+signed_date: "2025-09-01"
+entry_into_force: "2026-01-14"
+---
+# Besluit van de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland van 1 september 2025, houdende instelling van de evaluatiecommissie Onderlinge regeling samenwerking bij hervormingen (Instellingsbesluit evaluatiecommissie Onderlinge regeling)
+
+Handelende in overeenstemming met het gevoelen van de raad van Ministers van het Koninkrijk;
+
+Gelet op [artikel 10 van de Onderlinge regeling samenwerking bij hervormingen](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&artikel=10);
+
+Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
+
+Besluiten:
+
+##### Artikel 1. Begripsbepalingen
+
+In dit besluit wordt verstaan onder:
+
+- a. **de minister:** de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten of de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland, afhankelijk van het land dat het aangaat;
+
+- b. **de ministers:** de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland gezamenlijk;
+
+- c. **de evaluatiecommissie:** de evaluatiecommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01).
+
+##### Artikel 2. Instelling en taak
+
+1. Er is een evaluatiecommissie Onderlinge regeling samenwerking bij hervormingen.
+
+2. De evaluatiecommissie heeft tot taak het evaluatieverslag op te stellen, bedoeld in [artikel 10, vierde lid, van de Onderlinge regeling samenwerking bij hervormingen](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&artikel=10).
+
+##### Artikel 3. Samenstelling
+
+1. Als leden van de commissie worden benoemd:
+
+- a. mevrouw Maria van der Sluijs-Plantz, tevens voorzitter;
+
+- b. de heer Angel Bermudez, namens Aruba;
+
+- c. de heer Francis de Lanoy, namens Curaçao;
+
+- d. de heer Franklyn Richards, namens Sint Maarten;
+
+- e. de heer Cees Slager, namens Nederland.
+
+2. De benoeming loopt af van rechtswege wanneer de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01) bedoelde taak door de evaluatiecommissie is afgerond.
+
+##### Artikel 4. Ondersteuning evaluatiecommissie
+
+1. De evaluatiecommissie wordt ondersteund door een secretaris.
+
+2. De secretaris is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter en de leden van de evaluatiecommissie.
+
+3. De Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland voorziet in de secretaris.
+
+##### Artikel 5. Werkwijze
+
+De evaluatiecommissie stelt met inachtneming van dit besluit en [artikel 10 van de Onderlinge regeling samenwerking bij hervormingen](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&artikel=10) haar eigen werkwijze vast.
+
+##### Artikel 6. Informatieplicht
+
+De evaluatiecommissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+##### Artikel 7. Evaluatieverslag
+
+1. De evaluatiecommissie zendt vóór 1 oktober 2025 een onderzoeksopzet voor de evaluatie, met daarin een begroting, ter vaststelling toe aan de ministers.
+
+2. De evaluatiecommissie zendt vóór 1 maart 2026 het evaluatieverslag toe aan de ministers.
+
+##### Artikel 8. Vergoeding en kosten lidmaatschap
+
+1. De voorzitter en leden ontvangen een vergoeding per vergadering, met een maximum van één vergadering per dag. De vergoeding per vergadering bedraagt maximaal 3% van het maximum van salarisschaal 18, trede 10, zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Nederlandse Staat werkzaam zijn. Voor de voorzitter kan een verhoging van dat bedrag worden toegepast tot maximaal 130%.
+
+2. De voorzitter en de leden ontvangen een vergoeding van reis- en verblijfskosten op voet van de regeling van het land dat hen voorgedragen heeft. Dit betreft uitsluitend de reis- en verblijfskosten voor noodzakelijk bezoek dat past binnen de vastgestelde werkzaamheden van de evaluatiecommissie en voor zover goedgekeurd door de ministers.
+
+3. In afwijking van [artikel 10, zesde lid, van de Onderlinge regeling samenwerking bij hervormingen](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&artikel=10) komt de bekostiging van de voorzitter en de secretaris ten laste van de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties; de bekostiging van de leden en hun eventuele ondersteuning komt ten laste van de begrotingen van de Ministeries van Algemene Zaken en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties die het lid voordragen.
+
+##### Artikel 9. Overige kosten van de evaluatiecommissie
+
+1. De overige kosten van de evaluatiecommissie komen, voor zover opgenomen in de begroting van de evaluatiecommissie, voor rekening van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van Nederland.
+
+2. Onder overige kosten worden in ieder geval verstaan: de kosten voor inhuur van een extern onderzoeksbureau.
+
+##### Artikel 10. Openbaarmaking
+
+Het evaluatieverslag en andere producten die door of namens de evaluatiecommissie worden vervaardigd of vergaard, worden niet door de evaluatiecommissie openbaar gemaakt, maar uitsluitend aan de ministers uitgebracht of overgedragen.
+
+##### Artikel 11. Archiefbescheiden
+
+De evaluatiecommissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Directoraat-Generaal Koninkrijksrelaties van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van Nederland. Aruba, Curaçao en Sint Maarten verkrijgen op verzoek een (elektronische) kopie van genoemde bescheiden.
+
+##### Artikel 12. Inwerkingtreding
+
+1. Dit besluit treedt in werking met ingang van 1 september 2025. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2025, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2025.
+
+2. Dit besluit vervalt zodra de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01) bedoelde taak door de evaluatiecommissie is afgerond.
+
+##### Artikel 13. Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit evaluatiecommissie Onderlinge regeling.
+
+Dit besluit zal in de Staatscourant, het Afkondigingsblad van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst en in afschrift worden gezonden aan betrokkenen.
