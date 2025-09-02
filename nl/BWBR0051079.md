@@ -4,7 +4,7 @@ identifier: "BWBR0051079"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2025-06-03"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051079"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - **sociaal minimum:** door de Rijksoverheid aangegeven halfjaarlijks bepaalde bedrag in de Normenbrief, ontleend aan de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en gebaseerd op iemands leeftijd en burgerlijke staat, dat iemand minimaal nodig heeft om van te leven;
 
-- **standaard voor woningisolatie:** standaard voor de maximale warmtebehoefte om een gebouw aardgasvrij te maken, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&bijlage=II&z=2025-06-03&g=2025-06-03) bij deze regeling;
+- **standaard voor woningisolatie:** standaard voor de maximale warmtebehoefte om een gebouw aardgasvrij te maken, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&bijlage=II&z=2025-06-03&g=2025-09-02) bij deze regeling;
 
 - **SVOH:** [Subsidieregeling Verduurzaming en Onderhoud Huurwoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0046234);
 
@@ -148,13 +148,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Staatssteun
 
-1. Bij de verstrekking van een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-06-03) van deze regeling, wordt toepassing gegeven aan de de-minimisverordening.
+1. Bij de verstrekking van een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-09-02) van deze regeling, wordt toepassing gegeven aan de de-minimisverordening.
 
-2. Bij de verstrekking van een subsidie op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&z=2025-06-03&g=2025-06-03) van deze regeling, wordt toepassing gegeven aan hoofdstukken I en II en artikel 38bis, leden 11, 14 tot en met 16, van de algemene groepsvrijstellingverordening of de de-minimisverordening.
+2. Bij de verstrekking van een subsidie op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&z=2025-06-03&g=2025-09-02) van deze regeling, wordt toepassing gegeven aan hoofdstukken I en II en artikel 38bis, leden 11, 14 tot en met 16, van de algemene groepsvrijstellingverordening of de de-minimisverordening.
 
 ##### Artikel 4. Activiteiten
 
-1. De minister verstrekt op aanvraag van een woningeigenaar, eigenaar-bewoner, het bestuur van een VvE, verhuurder, bestuur van een wooncoöperatie of bestuur van een woonvereniging die behoort tot de doelgroep uit [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=2&z=2025-06-03&g=2025-06-03), subsidie voor de volgende activiteiten:
+1. De minister verstrekt op aanvraag van een woningeigenaar, eigenaar-bewoner, het bestuur van een VvE, verhuurder, bestuur van een wooncoöperatie of bestuur van een woonvereniging die behoort tot de doelgroep uit [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=2&z=2025-06-03&g=2025-09-02), subsidie voor de volgende activiteiten:
 
 - a. isolatiemaatregelen, inhoudende:
 
@@ -218,9 +218,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het subsidieplafond bedraagt in 2025 € 125 miljoen.
 
-2. In de beschikking tot subsidieverlening verleent de minister een voorschot van maximaal 100% voor de isolatie- en ventilatiemaatregelen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-06-03), indien door de aanvrager bij de aanvraag een factuur daarvan is overgelegd.
+2. In de beschikking tot subsidieverlening verleent de minister een voorschot van maximaal 100% voor de isolatie- en ventilatiemaatregelen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-09-02), indien door de aanvrager bij de aanvraag een factuur daarvan is overgelegd.
 
-3. De minister kan na de beschikking tot subsidieverlening en vóór de beschikking tot subsidievaststelling een voorschot van maximaal 100% voor de isolatie- en ventilatiemaatregelen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-06-03), verlenen, indien een aanvrager hierom verzoekt en bij de aanvraag daartoe een deel- dan wel eindfactuur van deze isolatie of ventilatiemaatregelen overlegt.
+3. De minister kan na de beschikking tot subsidieverlening en vóór de beschikking tot subsidievaststelling een voorschot van maximaal 100% voor de isolatie- en ventilatiemaatregelen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-09-02), verlenen, indien een aanvrager hierom verzoekt en bij de aanvraag daartoe een deel- dan wel eindfactuur van deze isolatie of ventilatiemaatregelen overlegt.
 
 4. De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.
 
@@ -230,7 +230,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Uitbetaling van de subsidie
 
-1. De subsidie wordt uitbetaald aan de aanvrager, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-06-03), indien het een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-06-03) van deze regeling betreft, of een subsidie op grond van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-06-03), of [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-06-03), of indien de aanvrager een doe-het-zelver is.
+1. De subsidie wordt uitbetaald aan de aanvrager, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-09-02), indien het een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-09-02) van deze regeling betreft, of een subsidie op grond van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-09-02), of [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-09-02), of indien de aanvrager een doe-het-zelver is.
 
 2. Indien het een andere subsidie betreft dan de subsidies, bedoeld in het eerste lid, wordt de subsidie uitbetaald aan:
 
@@ -248,11 +248,11 @@ In deze regeling wordt verstaan onder:
 
 3. De subsidie is gebonden aan het gebouw, de woonboot of woonwagen.
 
-4. In afwijking van het derde lid is de aanvullende subsidie die aan aanvragers met een verzamelinkomen tot 140% van het sociaal minimum wordt verstrekt op grond van [artikelen 13, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-06-03), of [17, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-06-03), persoonsgebonden en bedoeld voor het treffen van isolatie- en ventilatiemaatregelen die onder deze regeling vallen en waartoe een aanvraag is ingediend.
+4. In afwijking van het derde lid is de aanvullende subsidie die aan aanvragers met een verzamelinkomen tot 140% van het sociaal minimum wordt verstrekt op grond van [artikelen 13, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-09-02), of [17, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-09-02), persoonsgebonden en bedoeld voor het treffen van isolatie- en ventilatiemaatregelen die onder deze regeling vallen en waartoe een aanvraag is ingediend.
 
-5. Als op grond van deze regeling al subsidie is verstrekt voor het treffen van maatregelen aan een gebouw, woonboot of woonwagen en deze van eigenaar verandert, heeft de nieuwe eigenaar alleen recht op het eventuele restant van het subsidiebedrag, bedoeld in de [artikelen 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-06-03), of [17, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-06-03), voor de isolatie- en ventilatiemaatregelen waarvoor niet eerder subsidie is verstrekt op grond van deze regeling, indien ook wordt voldaan aan de overige voorwaarden die hieraan verbonden zijn.
+5. Als op grond van deze regeling al subsidie is verstrekt voor het treffen van maatregelen aan een gebouw, woonboot of woonwagen en deze van eigenaar verandert, heeft de nieuwe eigenaar alleen recht op het eventuele restant van het subsidiebedrag, bedoeld in de [artikelen 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-09-02), of [17, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-09-02), voor de isolatie- en ventilatiemaatregelen waarvoor niet eerder subsidie is verstrekt op grond van deze regeling, indien ook wordt voldaan aan de overige voorwaarden die hieraan verbonden zijn.
 
-6. Een nieuwe eigenaar heeft geen recht op de aanvullende subsidie van € 1.000, bedoeld in de [artikelen 13 vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-06-03), of [17, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-06-03), als die al aan een vorige eigenaar is verstrekt.
+6. Een nieuwe eigenaar heeft geen recht op de aanvullende subsidie van € 1.000, bedoeld in de [artikelen 13 vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-09-02), of [17, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-09-02), als die al aan een vorige eigenaar is verstrekt.
 
 7. Voor subsidie komen alle bestaande woongedeelten van een gebouw, woonboot of woonwagen met een bouwjaar van vóór 1 juli 2012 met een adres dat is ontstaan op of vóór 25 april 2023 in aanmerking.
 
@@ -260,7 +260,7 @@ In deze regeling wordt verstaan onder:
 
 9. Alle sloop-nieuwbouw gebouwen met een bouwjaar na 1 juli 2012 zijn uitgesloten van subsidie.
 
-10. Een aanvrager overlegt bij de aanvraag een isolatieplan, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=8&z=2025-06-03&g=2025-06-03), tenzij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=9&z=2025-06-03&g=2025-06-03) op hem van toepassing is.
+10. Een aanvrager overlegt bij de aanvraag een isolatieplan, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=8&z=2025-06-03&g=2025-09-02), tenzij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=9&z=2025-06-03&g=2025-09-02) op hem van toepassing is.
 
 11. Een aanvrager kan het uitvoeren van een isolatie- en ventilatiemaatregel niet over meerdere subsidieaanvragen verdelen, tenzij de verduurzaming gefaseerd wordt uitgevoerd in verschillende delen van het gebouw, de woonboot of woonwagen.
 
@@ -268,7 +268,7 @@ In deze regeling wordt verstaan onder:
 
 13. Voordat een aanvraag kan worden ingediend voor subsidie op grond van deze regeling, dient een verhuurder, VvE, wooncoöperatie of woonvereniging, een vaststellingsbeschikking te hebben ontvangen gedateerd vanaf 25 april 2023 op grond van de [SVOH](https://wetten.overheid.nl/jci1.3:c:BWBR0046234) dan wel de [SVVE](https://wetten.overheid.nl/jci1.3:c:BWBR0047596).
 
-14. In aanvulling op het dertiende lid wordt de subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-06-03) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&z=2025-06-03&g=2025-06-03) pas vastgesteld nadat de subsidie op grond van de [SVOH](https://wetten.overheid.nl/jci1.3:c:BWBR0046234) of [SVVE](https://wetten.overheid.nl/jci1.3:c:BWBR0047596) is verleend dan wel de aanvraag daartoe is afgewezen.
+14. In aanvulling op het dertiende lid wordt de subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-09-02) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&z=2025-06-03&g=2025-09-02) pas vastgesteld nadat de subsidie op grond van de [SVOH](https://wetten.overheid.nl/jci1.3:c:BWBR0046234) of [SVVE](https://wetten.overheid.nl/jci1.3:c:BWBR0047596) is verleend dan wel de aanvraag daartoe is afgewezen.
 
 15. Ten aanzien van een aanvraag voor subsidie door een VvE of wooncoöperatie geldt de aanvullende voorwaarde dat het bestuur daarvan middels de notulen van de algemene ledenvergadering aantoont dat is besloten in de VvE of wooncoöperatie isolatie- en ventilatiemaatregelen aan de gezamenlijke delen van het gebouw waarop de subsidieaanvraag ziet uit te voeren of uitgevoerd te hebben.
 
@@ -334,7 +334,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het isoleren met schuimbeton.
 
-3. Er hoeft geen isolatieplan te worden overgelegd indien het een subsidieaanvraag op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-06-03) betreft.
+3. Er hoeft geen isolatieplan te worden overgelegd indien het een subsidieaanvraag op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-06-03&g=2025-09-02) betreft.
 
 ##### Artikel 10. Gegevensuitwisseling
 
@@ -412,7 +412,7 @@ In deze regeling wordt verstaan onder:
 
 - q. indien de aanvrager een verzamelinkomen heeft tot 140% van het sociaal minimum: een inkomensverklaring van de aanvrager en indien van toepassing diens echtgenoot, geregistreerd partner, of fiscaal partner op een andere wijze, waaruit blijkt dat de aanvrager in het jaar voorafgaande aan de aanvraag binnen deze categorie valt.
 
-4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 13, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-06-03), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, is ingediend.
+4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 13, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-06-03&g=2025-09-02), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, is ingediend.
 
 ##### Artikel 12. Afwijzingsgronden
 
@@ -474,13 +474,13 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 ##### Artikel 14. Verplichtingen
 
-De subsidieontvanger bewaart gedurende vijf jaar de facturen en betaalbewijzen van de gesubsidieerde activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-06-03), gerekend vanaf de dag na de verzenddatum van de beschikking tot subsidievaststelling.
+De subsidieontvanger bewaart gedurende vijf jaar de facturen en betaalbewijzen van de gesubsidieerde activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-09-02), gerekend vanaf de dag na de verzenddatum van de beschikking tot subsidievaststelling.
 
 ### Hoofdstuk 3. Subsidiabele activiteiten waartoe opdracht is verstrekt of die door een doe-het-zelver zijn gestart vanaf de datum van inwerkingtreding van deze regeling
 
 ##### Artikel 15. Aanvraag tot subsidieverlening
 
-1. Indien vanaf de datum van inwerkingtreding van deze regeling een opdracht is verstrekt tot uitvoering van de subsidiabele activiteiten of, in het geval van een doe-het-zelver, de uitvoering daarvan is gestart, kan een aanvraag tot verlening van de subsidie door een aanvrager worden ingediend vanaf het moment, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&bijlage=I&z=2025-06-03&g=2025-06-03), op basis van de postcode waartoe het gebouw, de woonboot of woonwagen van de aanvrager behoort tot en met 3 juni 2035.
+1. Indien vanaf de datum van inwerkingtreding van deze regeling een opdracht is verstrekt tot uitvoering van de subsidiabele activiteiten of, in het geval van een doe-het-zelver, de uitvoering daarvan is gestart, kan een aanvraag tot verlening van de subsidie door een aanvrager worden ingediend vanaf het moment, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&bijlage=I&z=2025-06-03&g=2025-09-02), op basis van de postcode waartoe het gebouw, de woonboot of woonwagen van de aanvrager behoort tot en met 3 juni 2035.
 
 2. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister ter beschikking wordt gesteld.
 
@@ -522,7 +522,7 @@ De subsidieontvanger bewaart gedurende vijf jaar de facturen en betaalbewijzen v
 
 - 3°. ongeoorloofde cumulatie van steun op grond van de algemene groepsvrijstellingsverordening.
 
-4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 17, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-06-03), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, of de aanvraag, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=19&z=2025-06-03&g=2025-06-03), is ingediend.
+4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 17, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-06-03&g=2025-09-02), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, of de aanvraag, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=19&z=2025-06-03&g=2025-09-02), is ingediend.
 
 ##### Artikel 16. Afwijzingsgronden
 
@@ -562,7 +562,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 - b. het aanbrengen van schuimbeton;
 
-- c. een maatregel als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-06-03), waarmee een hogere isolatiewaarde wordt behaald dan noodzakelijk is om de standaard voor woningisolatie te behalen; of
+- c. een maatregel als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-06-03&g=2025-09-02), waarmee een hogere isolatiewaarde wordt behaald dan noodzakelijk is om de standaard voor woningisolatie te behalen; of
 
 - d. het vervangen van bestaand glas door triple glas met nieuwe kozijnen, waarbij de voorwaarde geldt dat het triple glas een U-waarde heeft van maximaal 0,7 W/m2K en de kozijnen een Uf-waarde hebben van maximaal 1,5 W/m2K.
 
@@ -632,7 +632,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 ##### Artikel 19. Aanvraag tot subsidievaststelling
 
-1. Een subsidieontvanger dient binnen 6 maanden na het verstrijken van de uitvoeringstermijn, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=18&z=2025-06-03&g=2025-06-03), een aanvraag tot subsidievaststelling in, die ten minste de volgende gegevens bevat:
+1. Een subsidieontvanger dient binnen 6 maanden na het verstrijken van de uitvoeringstermijn, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=18&z=2025-06-03&g=2025-09-02), een aanvraag tot subsidievaststelling in, die ten minste de volgende gegevens bevat:
 
 - a. het adres van het gebouw, de woonboot of woonwagen waarvoor subsidie is aangevraagd;
 
@@ -642,7 +642,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 - d. in geval van een uitgevoerde energiebesparende maatregel: de naam, het type, de dikte en de Rc-waarde of U-waarde ervan, inclusief vermelding van de locatie binnen het gebouw waar de activiteit is uitgevoerd en de oppervlakte die is geïsoleerd;
 
-- e. in geval een ventilatiesysteem als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=3&z=2025-06-03&g=2025-06-03),is geplaatst: de naam en het type ervan;
+- e. in geval een ventilatiesysteem als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=3&z=2025-06-03&g=2025-09-02),is geplaatst: de naam en het type ervan;
 
 - f. in geval van glas- of deurisolatie: de glasmaat en de netto afmetingen van het glas, inclusief vermelding van de locatie binnen het gebouw waar de activiteit is uitgevoerd en de oppervlakte die is geïsoleerd;
 
@@ -654,7 +654,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 - h. indien van toepassing: een bewijs van betalingen aan het branchegerelateerd bedrijf, een bewijs van betalingen die gedaan zijn uit het bouwdepot van het Warmtefonds dan wel bij voorfinanciering door de gemeenten.
 
-2. In afwijking van het eerste lid en van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=15&z=2025-06-03&g=2025-06-03) dient een aanvrager direct een aanvraag tot subsidievaststelling in binnen vierentwintig maanden na de datum van de laatste factuur of het laatste betaalbewijs met betrekking tot de isolatie- en ventilatiemaatregelen. De aanvraag bevat ten minste de gegevens, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=11&z=2025-06-03&g=2025-06-03).
+2. In afwijking van het eerste lid en van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=15&z=2025-06-03&g=2025-09-02) dient een aanvrager direct een aanvraag tot subsidievaststelling in binnen vierentwintig maanden na de datum van de laatste factuur of het laatste betaalbewijs met betrekking tot de isolatie- en ventilatiemaatregelen. De aanvraag bevat ten minste de gegevens, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=11&z=2025-06-03&g=2025-09-02).
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -680,10 +680,10 @@ Deze regeling wordt aangehaald als: Subsidieregeling isolatie en ventilatie gebo
 
 ## Bijlage I. Postcodefasering indienen subsidieaanvraag
 
-### Bijlage bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=15&z=2025-06-03&g=2025-06-03)
+### Bijlage bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=15&z=2025-06-03&g=2025-09-02)
 
 ## Bijlage II. Standaard voor woningisolatie
 
-### Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=1&z=2025-06-03&g=2025-06-03)
+### Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=1&z=2025-06-03&g=2025-09-02)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
