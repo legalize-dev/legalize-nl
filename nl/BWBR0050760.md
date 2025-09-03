@@ -4,7 +4,7 @@ identifier: "BWBR0050760"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-03"
-last_updated: "2025-02-08"
+last_updated: "2025-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050760"
 soort: "ministeriele-regeling"
@@ -98,9 +98,9 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2025 aan:
 
-- a. het bevoegd gezag van een basisschool met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=1&z=2025-02-08&g=2025-02-08) bij deze regeling; en
+- a. het bevoegd gezag van een basisschool met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=1&z=2025-09-03&g=2025-09-03) bij deze regeling; en
 
-- b. het bevoegd gezag van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=1&z=2025-02-08&g=2025-02-08) van deze regeling.
+- b. het bevoegd gezag van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=1&z=2025-09-03&g=2025-09-03) van deze regeling.
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
@@ -108,11 +108,11 @@ In deze regeling wordt verstaan onder:
 
 4. Het bedrag per leerling bedraagt:
 
-- a. € 325,75 voor vestigingen van basisscholen, waarbij vestigingen met minder dan 150 leerlingen in aanvulling daarop een vaste voet ontvangen van € 10.739,57 met aftrek van € 71,60 per leerling;
+- a. € 343,11 voor vestigingen van basisscholen, waarbij vestigingen met minder dan 150 leerlingen in aanvulling daarop een vaste voet ontvangen van € 11.311,91 met aftrek van € 75,41 per leerling;
 
-- b. € 653,13 voor vestigingen van speciale scholen voor basisonderwijs; en
+- b. € 687,94 voor vestigingen van speciale scholen voor basisonderwijs; en
 
-- c. € 1.369,77 voor vestigingen van scholen voor (voortgezet) speciaal onderwijs.
+- c. € 1.442,77 voor vestigingen van scholen voor (voortgezet) speciaal onderwijs.
 
 5. De aanvullende bekostiging, bedoeld in het eerste lid, wordt uiterlijk in april 2025 vastgesteld.
 
@@ -124,17 +124,17 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2025 aan het bevoegd gezag van een school:
 
-- a). voor voortgezet onderwijs, met één of meer pro-vestigingen, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=2&z=2025-02-08&g=2025-02-08) bij deze regeling; en
+- a). voor voortgezet onderwijs, met één of meer pro-vestigingen, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=2&z=2025-09-03&g=2025-09-03) bij deze regeling; en
 
-- b). voor voortgezet onderwijs, met één of meer vestigingen (niet zijnde pro-vestigingen) opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=3&z=2025-02-08&g=2025-02-08) bij deze regeling;
+- b). voor voortgezet onderwijs, met één of meer vestigingen (niet zijnde pro-vestigingen) opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=3&z=2025-09-03&g=2025-09-03) bij deze regeling;
 
-- c). voor voortgezet onderwijs met één of meer vestigingen (niet zijnde pro-vestigingen) waar meer dan 20% van de leerlingen op teldatum 1 oktober 2023 bestond uit nieuwkomers die korter dan 1 jaar in Nederland verbleven, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=4&z=2025-02-08&g=2025-02-08) bij deze regeling.
+- c). voor voortgezet onderwijs met één of meer vestigingen (niet zijnde pro-vestigingen) waar meer dan 20% van de leerlingen op teldatum 1 oktober 2023 bestond uit nieuwkomers die korter dan 1 jaar in Nederland verbleven, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&bijlage=4&z=2025-09-03&g=2025-09-03) bij deze regeling.
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
 3. De hoogte van de aanvullende bekostiging, bedoeld in het eerste lid, wordt berekend op grond van het aantal leerlingen op 1 oktober 2024.
 
-4. Het bedrag per leerling bedraagt € 1.047,85 voor pro-vestigingen en € 837,83 voor de overige vestigingen van scholen voor voortgezet onderwijs waaronder de vestigingen als bedoeld in lid 1, sub c.
+4. Het bedrag per leerling bedraagt € 1.104,35 voor pro-vestigingen en € 883,00 voor de overige vestigingen van scholen voor voortgezet onderwijs waaronder de vestigingen als bedoeld in lid 1, sub c.
 
 5. De aanvullende bekostiging, bedoeld in het eerste lid, wordt uiterlijk in april 2025 vastgesteld.
 
@@ -148,7 +148,7 @@ De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in
 
 ##### Artikel 6. Monitoring en evaluatie
 
-Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=2&z=2025-02-08&g=2025-02-08).
+Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=2&z=2025-09-03&g=2025-09-03).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -160,7 +160,7 @@ Ten behoeve van de monitoring van de implementatie en effecten van deze regeling
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025.
 
-## Bijlage 1. Lijst met po-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=3&z=2025-02-08&g=2025-02-08), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
+## Bijlage 1. Lijst met po-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=3&z=2025-09-03&g=2025-09-03), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
 
 | Vestigingsnummer | Sector |
 | --- | --- |
@@ -1206,7 +1206,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering 
 | 01JO02 | (v)so |
 | 01RB01 | (v)so |
 
-## Bijlage 2. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-02-08&g=2025-02-08), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
+## Bijlage 2. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-09-03&g=2025-09-03), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
 
 | Vestigingsnummer |
 | --- |
@@ -1234,7 +1234,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering 
 | 26HP00 |
 | 31HN02 |
 
-## Bijlage 3. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-02-08&g=2025-02-08), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
+## Bijlage 3. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-09-03&g=2025-09-03), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
 
 | Brin |
 | --- |
@@ -1425,7 +1425,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering 
 | 20DB03 |
 | 31CH01 |
 
-## Bijlage 4. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-02-08&g=2025-02-08), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
+## Bijlage 4. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=4&z=2025-09-03&g=2025-09-03), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025
 
 | Brin |
 | --- |
