@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2024-01-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
 
-- k. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01);
+- k. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2025-09-04&g=2025-09-04);
 
 - l. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
 
@@ -162,7 +162,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2025-09-04&g=2025-09-04).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -206,7 +206,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2025-09-04&g=2025-09-04), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -226,7 +226,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - b. de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=2);
 
-- c. Dienst specialistische operaties van de Landelijke eenheid;
+- c. Dienst specialistische operaties van de Eenheid landelijke expertise en operaties van de politie;
 
 - d. de Inspectie Leefomgeving en Transport.
 
