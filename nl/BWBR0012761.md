@@ -4,7 +4,7 @@ identifier: "BWBR0012761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2025-07-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012761"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 Met het toezicht op de naleving van het bij of krachtens de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681) bepaalde zijn belast:
 
-- a. de ambtenaren van het Korps Nationale Politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij het district Zeehavenpolitie van de Regionale Eenheid Rotterdam;
+- a. de ambtenaren van de politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij het district Zeehavenpolitie van de Regionale Eenheid Rotterdam;
 
-- b. de ambtenaren van het Korps Nationale Politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de Dienst Infrastructuur van de Landelijke Eenheid; en
+- b. de ambtenaren van de politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de Dienst infrastructuur van de Eenheid landelijke expertise en operaties van de politie; en
 
 - c. de ambtenaren van de Koninklijke Marechaussee.
 
