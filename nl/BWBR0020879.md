@@ -4,7 +4,7 @@ identifier: "BWBR0020879"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2013-01-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020879"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De keuringsdienst van de dienst Specialistische recherche toepassingen van de Landelijke eenheid wordt aangewezen als instantie voor de uitvoering van de keuring, bedoeld in [artikel 22 van het Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=22).
+De keuringsdienst van de Dienst specialistische operaties van de Eenheid landelijke expertise en operaties van de politie wordt aangewezen als instantie voor de uitvoering van de keuring, bedoeld in [artikel 22 van het Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=22).
 
 ##### Artikel 2
 
