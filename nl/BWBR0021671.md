@@ -4,7 +4,7 @@ identifier: "BWBR0021671"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2025-04-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021671"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie Landelijke eenheid verstaan onder:
+Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden verstaan onder:
 
 - 1. medewerker: de ambtenaar, aangesteld voor de uitvoering van de politietaak, en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
@@ -68,7 +68,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 3. Voor of bij aanvang van de plaatsgebonden consignatie, als bedoeld in de leden 1 en 2, wordt de locatie bepaald.
 
-4. Voor Dienst koninklijke en diplomatieke beveiliging van de Landelijke eenheid geldt dat de volgende planningsmogelijkheden beschikbaar zijn:
+4. Voor Dienst koninklijke diplomatieke beveiliging van de Eenheid landelijke expertise en operaties van de politie geldt dat de volgende planningsmogelijkheden beschikbaar zijn:
 
 - a. in Nederland vindt planning plaats in dienst, plaatsgebonden consignatie of vrije tijd met dien verstande dat:
 
@@ -88,7 +88,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 ##### Artikel 4. Slotbepalingen
 
-1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie Landelijke eenheid’.
+1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden’.
 
 2.
 
