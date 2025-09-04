@@ -4,7 +4,7 @@ identifier: "BWBR0024380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2013-01-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024380"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 - a. een regionale eenheid, of
 
-- b. de Landelijke eenheid.
+- b. een landelijke eenheid.
 
 3. De korpschef wijst een begeleider aan.
 
