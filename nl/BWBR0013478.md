@@ -4,7 +4,7 @@ identifier: "BWBR0013478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2025-06-28"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013478"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 73, ee
 
 - b. de ambtenaren van de Inspectie Leefomgeving en Transport, die zijn belast met toezicht;
 
-- c. de ambtenaren van de dienst Operationele samenwerking van de Landelijke eenheid.
+- c. de ambtenaren van de Dienst specialistische operaties van de Eenheid landelijke expertise en operaties van de politie.
 
 ##### Artikel 2
 
@@ -55,9 +55,9 @@ Vervallen
 
 ##### Artikel 3
 
-1. Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2025-06-28&g=2025-06-28) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchthavens Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+1. Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2025-09-04&g=2025-09-04) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchthavens Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
 
-2. Als personen, bedoeld in [artikel 62, eerste en tweede lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62) worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2025-06-28&g=2025-06-28) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Flamingo Luchthaven, F.D. Roosevelt vliegveld en Juancho Yrausquin vliegveld.
+2. Als personen, bedoeld in [artikel 62, eerste en tweede lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62) worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2025-09-04&g=2025-09-04) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Flamingo Luchthaven, F.D. Roosevelt vliegveld en Juancho Yrausquin vliegveld.
 
 ##### Artikel 4
 
