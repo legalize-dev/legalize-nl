@@ -4,7 +4,7 @@ identifier: "BWBR0025814"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2025-04-01"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025814"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 3. Het bevoegd gezag kan tijdens de duur van de opleiding de op grond van het vorige lid bepaalde mate van organisatiebelang wijzigen ten gunste van de ambtenaar.
 
-4. Het bevoegd gezag betrekt bij de vaststelling van het organisatiebelang het belang van de eigen regionale eenheid, de Landelijke eenheid, of ondersteunende dienst, het belang van de politiedienst en het belang van een loopbaanpad buiten de politiedienst.
+4. Het bevoegd gezag betrekt bij de vaststelling van het organisatiebelang het belang van de eigen regionale of landelijke eenheid of ondersteunende dienst, het belang van de politiedienst en het belang van een loopbaanpad buiten de politiedienst.
 
 ##### Artikel 7
 
@@ -144,7 +144,7 @@ Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding in de 
 
 - a. zelfstudieverlof van 75% onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
-- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale eenheid, de Landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
+- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale of landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
 - c. een vergoeding van de reis- en verblijfskosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064), waarbij de reis van en naar de onderwijsinstelling ten behoeve van het afleggen van examens en het bijwonen van informatiedagen wordt aangemerkt als dienstreis;
 
@@ -156,7 +156,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 - a. zelfstudieverlof voor 50% onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
-- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale eenheid, de Landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
+- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale of landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
 - c. een vergoeding van de reis- en verblijfskosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064), waarbij de reis van en naar de onderwijsinstelling ten behoeve van het afleggen van examens en het bijwonen van informatiedagen wordt aangemerkt als dienstreis;
 
@@ -212,7 +212,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 
-## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), van de Regeling studiefaciliteiten politie
+## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2025-09-04&g=2025-09-04), van de Regeling studiefaciliteiten politie
 
 ### Verklaring
 
