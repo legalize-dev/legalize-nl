@@ -4,7 +4,7 @@ identifier: "BWBR0048064"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-05"
-last_updated: "2024-07-01"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048064"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Autoriteit:** de autoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01);
+- –. **Autoriteit:** de autoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=2&artikel=2&z=2025-09-05&g=2025-09-05);
 
 - –. **terroristische inhoud:** een of meer van de soorten materiaal als bedoeld in artikel 2, zevende lid, van de verordening;
 
@@ -73,7 +73,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De leden van de Autoriteit en de bij besluit van de Autoriteit aangewezen ambtenaren zijn belast met het toezicht op de naleving van de artikelen 3, derde en zesde lid, artikel 4, tweede en zevende lid, artikel 5, eerste, tweede, derde, vijfde en zesde lid, artikelen 6, 7, 10 en 11, artikel 14, vijfde lid, artikel 15, eerste lid en artikel 17 van de verordening.
 
-5. De Autoriteit heeft tevens tot taak het nemen van beslissingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2024-07-01&g=2024-07-01).
+5. De Autoriteit heeft tevens tot taak het nemen van beslissingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2025-09-05&g=2025-09-05).
 
 ##### Artikel 3. Inrichting
 
@@ -161,13 +161,23 @@ De Autoriteit is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 ##### Artikel 13. Openbaarmaking
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Autoriteit kan een beschikking tot oplegging van een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=3&artikel=12&z=2025-09-05&g=2025-09-05), openbaar maken.
+
+2. Op de openbaarmaking is [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing.
+
+3. De openbaarmaking geschiedt niet eerder dan nadat twee weken zijn verstreken na de dag waarop het besluit bekend is gemaakt.
+
+4. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de openbaarmaking opgeschort totdat de voorzieningenrechter uitspraak heeft gedaan of het verzoek is ingetrokken.
+
+5. Bij de openbaarmaking wordt vermeld of tegen het besluit tot oplegging van een bestuurlijke boete een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.
+
+6. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de wijze waarop de openbaarmaking plaatsvindt en de mogelijke reactie van de geadresseerde in verband met de openbaarmaking van zijn gegevens.
 
 #### Paragraaf 4. Klachten
 
 ##### Artikel 14. Informatie over klachtprocedure
 
-Een aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de verordening, die zijn hoofdvestiging in Nederland heeft of waarvan zijn wettelijke vertegenwoordiger zijn verblijf- of vestigingsplaats in Nederland heeft, wijst aanbieders van inhoud die verwijderd is of waartoe de toegang geblokkeerd is ten gevolge van specifieke maatregelen op grond van artikel 5 van de verordening, steeds op de mogelijkheid om een klacht in te dienen als bedoeld in artikel 10 van de verordening, en op de mogelijkheid van geschillenbeslechting door de Autoriteit, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2024-07-01&g=2024-07-01).
+Een aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de verordening, die zijn hoofdvestiging in Nederland heeft of waarvan zijn wettelijke vertegenwoordiger zijn verblijf- of vestigingsplaats in Nederland heeft, wijst aanbieders van inhoud die verwijderd is of waartoe de toegang geblokkeerd is ten gevolge van specifieke maatregelen op grond van artikel 5 van de verordening, steeds op de mogelijkheid om een klacht in te dienen als bedoeld in artikel 10 van de verordening, en op de mogelijkheid van geschillenbeslechting door de Autoriteit, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2025-09-05&g=2025-09-05).
 
 ##### Artikel 15. Berichtgeving over klachten
 
@@ -175,7 +185,15 @@ Elke aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de 
 
 ##### Artikel 16. Geschillenbeslechting klachten
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanbieder van inhoud als bedoeld in artikel 2, tweede lid, van de verordening, die een geschil heeft over de afhandeling van een klacht als bedoeld in artikel 10 van de verordening met een aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de verordening die zijn hoofdvestiging in Nederland heeft of waarvan zijn wettelijke vertegenwoordiger zijn verblijf- of vestigingsplaats in Nederland heeft, kan binnen een termijn van zes maanden na de klachtafhandeling door de aanbieder van hostingdiensten over het geschil een klacht indienen bij de Autoriteit.
+
+2. De Autoriteit beslist op de klacht binnen zes weken na ontvangst ervan. Deze termijn kan met zes weken worden verlengd als de Autoriteit om aanvullende gegevens verzoekt. Met instemming van de klager is verdere verlenging mogelijk.
+
+3. De beslissing van de Autoriteit is bindend.
+
+4. Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende aanbieder van inhoud een hem ter beschikking staand rechtsmiddel aan te wenden.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 #### Paragraaf 5. Wijziging van andere wetten
 
