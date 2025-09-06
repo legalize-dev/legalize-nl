@@ -4,7 +4,7 @@ identifier: "BWBR0050719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-06"
-last_updated: "2024-05-01"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050719"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Voor de toepassing van dit besluit wordt met de verlening van mandaat gelijkgest
 
 ##### Artikel 2. Verlening volmacht en ondervolmacht
 
-1. Aan de waarnemend directeur-generaal Herstelbeleid, de programmadirecteur Herstelbeleid en Parlementaire Zaken, de programmadirecteur Schulden, de programmamanager Schulden, het afdelingshoofd Staf en het afdelingshoofd Herstelbeleid en Parlementaire Zaken van het tijdelijk programmadirectoraat-generaal Herstel wordt volmacht verleend om vaststellingsovereenkomsten in de zin van [artikel 7:900 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) te ondertekenen ter uitvoering van de [artikelen 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1), en [2.6, derde lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6).
+1. Aan de directeur-generaal Herstelbeleid, de programmadirecteur Herstelbeleid en Parlementaire Zaken, de programmadirecteur Schulden, de programmamanager Schulden, het afdelingshoofd Staf en het afdelingshoofd Herstelbeleid en Parlementaire Zaken van het tijdelijk programmadirectoraat-generaal Herstel wordt volmacht verleend om vaststellingsovereenkomsten in de zin van [artikel 7:900 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) en de daarmee samenhangende begeleidingsbrieven te ondertekenen ter uitvoering van de [artikelen 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1), en [2.6, derde lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6).
 
-2. De waarnemend directeur-generaal Herstelbeleid kan met betrekking tot de volmacht, genoemd in het eerste lid, ondervolmacht verlenen aan medewerkers van het tijdelijk programmadirectoraat-generaal Herstel.
+2. De directeur-generaal Herstelbeleid kan met betrekking tot de volmacht, genoemd in het eerste lid, ondervolmacht verlenen aan medewerkers van het tijdelijk programmadirectoraat-generaal Herstel.
 
 3. [Artikel 8 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=8) wordt van overeenkomstige toepassing verklaard.
 
