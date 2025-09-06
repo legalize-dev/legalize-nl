@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-08-30"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -127,6 +127,7 @@ Besluiten:
 | [Titel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5): Investeringssubsidie duurzame energie en energiebesparing (ISDE) | [4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken. |   |   | 01-01-2025 t/m 31-12-2025 | € 550.000.000 |
 |   | [4.5.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in installaties voor de productie van hernieuwbare elektriciteit met één of meer windturbines |   |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
 | [Titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.6): Versnelde klimaatinvesteringen in de industrie | [4.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.6.2) |   |   |   | 22-04-2024 t/m 31-01-2025 | € 130.000.000 |
+|   |   |   |   |   | 16-09-2025 t/m 02-02-2026 | € 148.000.000 |
 | [Titel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.7): Investeringssubsidie maakindustrie klimaatneutrale economie (IMKE) | [4.7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Batterijen |   |   | 01-10-2024 t/m 31-01-2025 | € 20.000.000 |
 |   | [4.7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Elektrolyse-installaties |   |   | 01-10-2024 t/m 31-01-2025 | € 100.000.000 |
 |   | [4.7.3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Essentiële onderdelen voor de zonnepanelen, genoemd in [artikel 4.7.3, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3), namelijk heterojunctionzonnecellen, perovskietfolies, perovskietzonnecellen of tandemzonnecellen |   |   | 02-12-2024 t/m 31-01-2025 | € 28.000.000 |
