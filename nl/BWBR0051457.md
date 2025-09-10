@@ -4,7 +4,7 @@ identifier: "BWBR0051457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-10"
-last_updated: "2025-01-01"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051457"
 soort: "ministeriele-regeling"
@@ -78,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien de aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=3&z=2025-09-10&g=2025-01-01), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
+Indien de aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=3&z=2025-09-10&g=2025-09-10), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
 
 #### §. Subsidiabele kosten
 
 ##### Artikel 5
 
-Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=2&z=2025-09-10&g=2025-01-01), komen in aanmerking de in redelijkheid gemaakte kosten:
+Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=2&z=2025-09-10&g=2025-09-10), komen in aanmerking de in redelijkheid gemaakte kosten:
 
 - a. om de veiligheid van de deelnemers aan een activiteit van een Joodse instelling of van de bezoekers van een Joods evenement te bevorderen;
 
@@ -100,7 +100,7 @@ Niet in aanmerking komen de kosten:
 
 - b. die zijn gemaakt door de organisator van een Joods evenement in het kader van een andere activiteit, niet zijnde een Joods evenement;
 
-- c. waarvoor reeds aan de Joodse instelling of de organisator van een Joods evenement subsidie is verstrekt door een bestuursorgaan voor het geheel of een gedeelte van de kosten zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=5&z=2025-09-10&g=2025-01-01). In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
+- c. waarvoor reeds aan de Joodse instelling of de organisator van een Joods evenement subsidie is verstrekt door een bestuursorgaan voor het geheel of een gedeelte van de kosten zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051457&artikel=5&z=2025-09-10&g=2025-09-10). In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
 
 #### §. Subsidieplafond en verdeelsystematiek
 
