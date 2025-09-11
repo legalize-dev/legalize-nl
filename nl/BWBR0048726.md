@@ -4,7 +4,7 @@ identifier: "BWBR0048726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-11"
-last_updated: "2023-10-26"
+last_updated: "2025-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048726"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=2&z=2023-10-26&g=2023-10-26).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=2&z=2025-09-11&g=2025-09-11).
 
 ##### Artikel 2
 
@@ -74,7 +74,7 @@ De personen, werkzaam in de functie van natuurinspecteur in dienst van de Omgevi
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 ##### Artikel 5
 
@@ -90,17 +90,17 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 1. De Omgevingsdienst Brabant Noord brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=2&z=2023-10-26&g=2023-10-26) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=2&z=2025-09-11&g=2025-09-11) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=5&z=2023-10-26&g=2023-10-26) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=5&z=2025-09-11&g=2025-09-11) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=9&z=2023-10-26&g=2023-10-26) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048726&artikel=9&z=2025-09-11&g=2025-09-11) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
