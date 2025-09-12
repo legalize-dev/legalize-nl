@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-09-06"
+last_updated: "2025-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -72,6 +72,7 @@ Besluiten:
 |   | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | XECS-Innovatieprojecten | Marktgerichte innovatie voor micro- en nanoelektronica | Marktgerichte innovatie voor micro- en nanoelektronica | 01-04-2025 t/m 18-04-2025 | € 7.250.000 |
 |   | [3.8.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | Global Stars-innovatieprojecten als bedoeld in de Global Stars-innovatiecall Japan te raadplegen via [www.rvo.nl/globalstars](http://www.rvo.nl/globalstars) |   |   | 01-01-2025 t/m 14-01-2025 | € 925.000 |
 |   | [3.8.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | Global Stars-innovatieprojecten als bedoeld in de Global Stars-innovatiecall High Tech en Duurzaamheid te raadplegen via [www.rvo.nl/globalstars](http://www.rvo.nl/globalstars) |   |   | 07-07-2025 t/m 09-09-2025 | € 2.000.000 |
+|   | [3.8.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | TechBridge-innovatieprojecten, onderdeel b, Quantum technologies, als bedoeld in de TechBridge-innovatiecall Verenigd Koninkrijk 2025, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   |   | 15-09-2025 t/m 28-10-2025 | € 600.000 |
 | [Titel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.9): Innovatiekredieten | [3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.2) | Innovatiekredieten | Klinische ontwikkelprojecten en technische ontwikkelprojecten | Klinische ontwikkelprojecten en technische ontwikkelprojecten | 01-01-2025 t/m 31-12-2025 | € 50.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
 | [Titel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.10): Seed capital technostarters | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   |   | 01-01-2025 t/m 02-04-2025 | € 20.000.000 |
 |   | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   |   | 01-08-2025 t/m 01-10-2025 | € 20.000.000 |
