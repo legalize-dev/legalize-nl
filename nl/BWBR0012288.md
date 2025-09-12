@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2025-07-25"
+last_updated: "2025-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -7903,7 +7903,7 @@ Geen bijzonderheden.
 
 ### 30. Het asielbeleid ten aanzien van Somalië
 
-Het onderstaande beleid is van toepassing op geheel Somalië, tenzij anders is vermeld. Voor de verschillende gebiedsaanduidingen wordt verwezen naar het algemeen ambtsbericht Somalië van 30 juni 2023 van de Minister van Buitenlandse zaken.
+Het onderstaande beleid is van toepassing op geheel Somalië, tenzij anders is vermeld. Voor de verschillende gebiedsaanduidingen wordt verwezen naar het algemeen ambtsbericht Somalië van 4 april 2025 van de Minister van Buitenlandse zaken.
 
 ### 30.1. Besluitmoratorium
 
@@ -7923,21 +7923,21 @@ Geen bijzonderheden
 
 ### 30.3.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
-De IND merkt voor Zuid- en Centraal- Somalië de volgende groepen aan als risicoprofiel:
+De IND merkt gebieden in Somalië die onder controle staan van Al-Shabaab de volgende groepen aan als risicoprofiel:
 
-### 30.3.2.1. Toelichting personen die werken bij, of door Al-Shabaab geassocieerd worden met, de overheid, AMISOM/ATMIS of andere internationale actoren
+### 30.3.2.1. Toelichting personen die werken bij, of door Al-Shabaab geassocieerd worden met, de overheid, ATMIS/AUSSOM of andere internationale actoren
 
-Een vreemdeling die afkomstig is uit een gebied dat niet onder controle staat van Al-Shabaab (inclusief Mogadishu) en die zich erop beroept dat hij door Al-Shabaab geassocieerd wordt met de overheid, AMISOM/ATMIS of andere internationale actoren moet dit aannemelijk maken. Daarnaast moet hij aannemelijk maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
+Een vreemdeling die afkomstig is uit een gebied dat niet onder controle staat van Al-Shabaab (inclusief Mogadishu) en die zich erop beroept dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren moet dit aannemelijk maken. Daarnaast moet hij aannemelijk maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
 ### 30.3.2.1. Toelichting personen die werken bij, of door Al-Shabaab geassocieerd worden met, de overheid, AMISOM/ATMIS of andere internationale actoren
 
 ### 30.3.2.2. Toelichting alleenstaande vrouwen
 
-Aan een alleenstaande vrouw uit Somalië verleent de IND in de regel een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw.
+Aan een alleenstaande vrouw uit Somalië verleent de IND in de regel een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 ### 30.3.2.2. Toelichting alleenstaande vrouwen
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw aan een alleenstaande vrouw als op grond van haar individuele asielrelaas aannemelijk is dat zij geen bescherming op grond van haar alleenstaande status nodig heeft. Hierbij wordt onder andere meegewogen of, en hoe, zij zich in het verleden zelfstandig heeft kunnen handhaven in het dagelijks leven in Somalië.
+De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw als op grond van haar individuele asielrelaas aannemelijk is dat zij geen bescherming op grond van haar alleenstaande status nodig heeft. Hierbij wordt onder andere meegewogen of, en hoe, zij zich in het verleden zelfstandig heeft kunnen handhaven in het dagelijks leven in Somalië.
 
 ### 30.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -7951,7 +7951,7 @@ Onder voorwaarden kan een binnenlands beschermingsalternatief worden tegengeworp
 
 ### 30.4.1.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
-Geen bijzonderheden.
+De IND merkt voor gebieden in Somalië die onder controle staan van Al-Shabaab de volgende groep aan als risicoprofiel:
 
 ## Bijlage
 
@@ -8083,7 +8083,7 @@ Geen bijzonderheden
 
 ### 30.3.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
-De IND merkt uitsluitend mensenrechtenactivisten en journalisten voor geheel Somalië aan als risicoprofiel.
+De IND merkt uitsluitend de volgende risicoprofielen aan voor geheel Somalië:
 
 ### 30.3.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
@@ -8095,7 +8095,7 @@ Bij de beoordeling of een vrouw in Somalië als alleenstaand wordt gezien en op 
 
 ### 30.4.1.1. Systematische blootstelling in de zin van paragraaf C2/3.3.2.1 Vc
 
-In gebieden in Somalië waar Al-Shabaab aan de macht is of het gebied controleert, is de mensenrechtensituatie zodanig dat voor iedere terugkeerder een reëel risico bestaat op ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, Vw. Dit risico op ernstige schade wordt ook aangenomen voor vreemdelingen die afkomstig zijn uit een gebied waar Al-Shabaab niet aan de macht is of het gebied controleert, maar over land moeten reizen door een gebied waar Al-Shabaab wel de macht heeft of het gebied controleert.
+In gebieden in Somalië waar Al-Shabaab aan de macht is of het gebied controleert, is de mensenrechtensituatie zodanig dat voor iedere terugkeerder een reëel risico bestaat op ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29). Dit risico op ernstige schade wordt ook aangenomen voor vreemdelingen die afkomstig zijn uit een gebied waar Al-Shabaab niet aan de macht is of het gebied controleert, maar over land moeten reizen door een gebied waar Al-Shabaab wel de macht heeft of het gebied controleert.
 
 ## Bijlage
 
@@ -8155,11 +8155,11 @@ Geen bijzonderheden.
 
 ### 30.3.2.1. Toelichting personen die werken bij, of door Al-Shabaab geassocieerd worden met, de overheid, AMISOM/ATMIS of andere internationale actoren
 
-Voor een vreemdeling die afkomstig is uit gebied waar Al-Shabaab aan de macht is of het gebied controleert geldt dat hij aannemelijk moet maken dat hij door Al-Shabaab geassocieerd wordt met de overheid, AMISOM/ATMIS of andere internationale actoren. De enkele terugkeer uit het Westen is daartoe onvoldoende.
+Voor een vreemdeling die afkomstig is uit gebied waar Al-Shabaab aan de macht is of het gebied controleert geldt dat hij aannemelijk moet maken dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw aan een alleenstaande vrouw als op grond van haar individuele asielrelaas aannemelijk is dat zij geen bescherming op grond van haar alleenstaande status nodig heeft. Hierbij wordt onder andere meegewogen of, en hoe, zij zich in het verleden zelfstandig heeft kunnen handhaven in het dagelijks leven in Somalië.
 
-### 30.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 30.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 ### 30.4.1.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
@@ -8265,7 +8265,7 @@ Ondanks voornoemd uitgangspunt kan in een voorkomend geval – na onderzoek – 
 
 ### 30.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
-De IND neemt voor Somalië aan dat sprake is van een relatief lager niveau van willekeurig geweld in de stad Mogadishu en de regio’s Galmudug, Jubbaland, South West State en Hirshabelle.
+De IND neemt voor Somalië aan dat sprake is van een relatief lager niveau van willekeurig geweld in de regio’s Benadir (inclusief de hoofdstad Mogadishu), Galgaduud, Hiraan, Mudug, Lower Juba, Lower Shabelle en Middle Shabelle.
 
 ### 30.5. Bescherming
 
