@@ -4,7 +4,7 @@ identifier: "BWBR0051499"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-09-12"
-last_updated: "2025-07-01"
+last_updated: "2025-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051499"
 soort: "zbo"
@@ -62,8 +62,6 @@ er inhoudelijk geen wijzigingen plaatsvinden ten opzichte van het [Besluit ‘ge
 Besluit vast te stellen:
 
 **Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025**
-
-De terugwerkende kracht betreft herplaatsing van de regeling.
 
 ##### Artikel 1. Aanwijzing ligplaatsen alle categorieën
 
