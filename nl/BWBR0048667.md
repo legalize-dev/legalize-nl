@@ -4,7 +4,7 @@ identifier: "BWBR0048667"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-17"
-last_updated: "2024-01-01"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048667"
 soort: "AMvB"
@@ -102,7 +102,7 @@ De te verwerken persoonsgegevens voor de inning van het toltarief en de controle
 
 - b. het kenteken van het motorrijtuig waarvoor het verschuldigde toltarief rechtstreeks aan Onze Minister is betaald, als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=7), alsmede de naam van de rekeninghouder, het rekeningnummer van degene die de betaling heeft verricht en de locatie, datum en het tijdstip van passage;
 
-- c. het kenteken van het motorrijtuig, de naam, het adres, de woonplaats, het KvK-nummer, het KvK-vestigingsnummer en de contactgegevens van de houder aan wie een aanmaning als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=8) wordt gezonden;
+- c. het kenteken van het motorrijtuig, de naam, de geboortedatum, het burgerservicenummer, het adres, de woonplaats, het KvK-nummer, het KvK-vestigingsnummer en de contactgegevens van de houder aan wie een aanmaning als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=8) wordt gezonden;
 
 - d. het kenteken van het motorrijtuig waarvoor een dienstverleningsovereenkomst als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=7) is gesloten alsmede het unieke kenmerk van de dienstverleningsovereenkomst.
 
@@ -110,7 +110,7 @@ De te verwerken persoonsgegevens voor de inning van het toltarief en de controle
 
 De te verwerken persoonsgegevens voor de handhaving, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=10) betreffen uitsluitend:
 
-- a. het kenteken van het motorrijtuig en de naam, het adres, de woonplaats, het KvK-nummer, het KvK-vestigingsnummer en de contactgegevens van de houder aan wie een bestuurlijke boete als bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=12) wordt opgelegd;
+- a. het kenteken van het motorrijtuig en de naam, de geboortedatum, het burgerservicenummer, het adres, de woonplaats, het KvK-nummer, het KvK-vestigingsnummer en de contactgegevens van de houder aan wie een bestuurlijke boete als bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=12) wordt opgelegd;
 
 - b. de naam van de rekeninghouder en het rekeningnummer van degene die de boete, bedoeld in onderdeel a, heeft betaald;
 
