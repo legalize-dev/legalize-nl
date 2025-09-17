@@ -4,7 +4,7 @@ identifier: "BWBR0051511"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "2025-01-01"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051511"
 soort: "wet"
@@ -62,7 +62,7 @@ Wijzigt de Wet luchtvaart.
 
 ##### Artikel V
 
-Deze wet treedt in werking op 1 januari 2025. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 januari 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij voor [artikel I, onderdelen A, B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0051511&artikel=I&z=2025-09-17&g=2025-01-01) terug tot en met 1 januari 2025.
+Deze wet treedt in werking op 1 januari 2025. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 januari 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij voor [artikel I, onderdelen A, B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0051511&artikel=I&z=2025-09-17&g=2025-09-17) terug tot en met 1 januari 2025.
 
 ##### Artikel VI
 
