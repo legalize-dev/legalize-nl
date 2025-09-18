@@ -4,7 +4,7 @@ identifier: "BWBR0050230"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-09-18"
-last_updated: "2024-09-27"
+last_updated: "2025-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050230"
 soort: "ministeriele-regeling-BES"
@@ -46,11 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - **advies:** op medische gegevens gebaseerd advies;
 
-- **adviseur:** adviseur als bedoeld in [artikel 4, onder a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=4&z=2024-09-27&g=2024-09-27);
+- **adviseur:** adviseur als bedoeld in [artikel 4, onder a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=4&z=2025-09-18&g=2025-09-18);
 
 - **ingezetene:** degene die in een openbaar lichaam woont;
 
-- **intensieve zorg:** zorg als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=5&z=2024-09-27&g=2024-09-27);
+- **intensieve zorg:** zorg als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=5&z=2025-09-18&g=2025-09-18);
 
 - **kind:** eigen kind, aangehuwd kind of pleegkind als bedoeld in [artikel 3 van de Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=3);
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Recht op tegemoetkoming kinderen met intensieve zorg
 
-1. Een ingezetene van een openbaar lichaam heeft eenmaal recht op een tegemoetkoming voor een kind, indien op enig moment gedurende het tijdvak, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2024-09-27&g=2024-09-27):
+1. Een ingezetene van een openbaar lichaam heeft per tijdvak, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2025-09-18&g=2025-09-18), eenmaal recht op een tegemoetkoming voor een kind, indien op enig moment gedurende het betreffende tijdvak:
 
 - a. voor die persoon door de minister recht op kinderbijslag BES, als bedoeld in de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347), is vastgesteld;
 
@@ -68,11 +68,13 @@ In deze regeling wordt verstaan onder:
 
 - c. sprake is van intensieve zorg.
 
-2. Indien voor een ingezetene recht op een tegemoetkoming is vastgesteld op basis van de [Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0047397), wordt voor de beoordeling van recht op een tegemoetkoming op basis van deze regeling sprake van intensieve zorg voorondersteld.
+2. Indien voor een ingezetene recht op een tegemoetkoming is vastgesteld op basis van een aanvraag voor een eerder tijdvak, of de [Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0047397), wordt voor de beoordeling van recht op een tegemoetkoming sprake van intensieve zorg voorondersteld.
 
 ##### Artikel 3. Bedrag tegemoetkoming
 
-De tegemoetkoming bedraagt USD 3.879,31.
+1. De tegemoetkoming bedraagt USD 3.982,76 voor het tijdvak in 2025.
+
+2. De hoogte van de tegemoetkoming voor een tijdvak na 2025 wordt gebaseerd op de tegemoetkoming van het voorgaande tijdvak, gewijzigd overeenkomstig de wijziging van het kinderbijslagbedrag op grond van [artikel 10 van de Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=10). Het gewijzigde bedrag wordt bekend gemaakt op [www.rijksdienstcn.com](http://www.rijksdienstcn.com).
 
 ##### Artikel 4. Aanwijzing adviseur intensieve zorg
 
@@ -88,7 +90,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 1. Van intensieve zorg is sprake als een kind zodanig ernstig beperkt is in het dagelijks functioneren als gevolg van een ziekte of stoornis van lichamelijke, verstandelijke, zintuiglijke of geestelijke aard dat de verzorging en oppassing door de ouders in ernstige mate wordt verzwaard.
 
-2. Het advies, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=4&z=2024-09-27&g=2024-09-27), komt tot stand aan de hand van de volgende onderwerpen:
+2. Het advies, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=4&z=2025-09-18&g=2025-09-18), komt tot stand aan de hand van de volgende onderwerpen:
 
 - a. lichaamshygiëne;
 
@@ -124,7 +126,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 ##### Artikel 6. Beoordeling herstelperspectief
 
-1. In aanvulling op de beoordeling, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=5&z=2024-09-27&g=2024-09-27), beoordeelt de adviseur ook het herstelperspectief van het kind.
+1. In aanvulling op de beoordeling, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=5&z=2025-09-18&g=2025-09-18), beoordeelt de adviseur ook het herstelperspectief van het kind.
 
 2. Er is sprake van herstelperspectief als het aannemelijk is dat de zorgbehoefte voor het achttiende jaar in zulke mate kan veranderen dat er geen sprake meer zal zijn van intensieve zorg.
 
@@ -138,7 +140,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 3. De beslistermijn kan éénmaal met maximaal acht weken worden verlengd.
 
-4. Onverminderd het eerste lid kan de minister ambtshalve recht op een tegemoetkoming in het tweede tijdvak vaststellen, als voor die ingezetene al recht op een tegemoetkoming is vastgesteld op basis van de [Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0047397).
+4. Onverminderd het eerste lid kan de minister ambtshalve recht op een tegemoetkoming in het tweede tijdvak vaststellen, als voor die ingezetene al recht op een tegemoetkoming is vastgesteld op basis van een aanvraag in een eerder jaar, of de [Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0047397).
 
 5. Uiterlijk twee weken voorafgaand aan de ambtshalve vaststelling van het recht op een tegemoetkoming, maar niet later dan donderdag 31 oktober, maakt de minister het voornemen tot het ambtshalve verstrekken van de tegemoetkoming bekend.
 
@@ -158,7 +160,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 ##### Artikel 8. De aanvraag
 
-1. Een aanvraag wordt door middel van een door de minister beschikbaar gesteld aanvraagformulier ingediend in de periode van dinsdag 1 oktober 2024 8:00 lokale tijd tot en met vrijdag 13 december 2024 17:00 uur lokale tijd.
+1. Een aanvraag kan jaarlijks door middel van een door de Minister beschikbaar gesteld aanvraagformulier worden ingediend in het tijdvak van 1 oktober 8:00 lokale tijd tot en met 15 december 17:00 uur lokale tijd.
 
 2. Onderdeel van de aanvraag is een verklaring van de aanvrager dat er bij het kind sprake is van een ziekte of stoornis van lichamelijke, verstandelijke, zintuiglijke of geestelijke aard, waarbij wordt vermeld bij welke medisch behandelaar voor deze regeling relevante medische informatie over het kind kan worden opgevraagd.
 
@@ -170,7 +172,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 ##### Artikel 9. Bekendmaking
 
-De bekendmaking van een voornemen als bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2024-09-27&g=2024-09-27), of een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
+De bekendmaking van een voornemen als bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2025-09-18&g=2025-09-18), of een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
 
 ##### Artikel 10. Terugvordering
 
@@ -206,9 +208,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 201
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026.
-
-3. In afwijking van het eerste lid blijft deze regeling van toepassing op de afwikkeling van verleende tegemoetkomingen op grond van deze regeling.
+2. In afwijking van het eerste lid blijft deze regeling van toepassing op de afwikkeling van verleende tegemoetkomingen op grond van deze regeling.
 
 ##### Artikel 15. Citeertitel
 
