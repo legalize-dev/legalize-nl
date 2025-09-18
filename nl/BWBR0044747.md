@@ -4,7 +4,7 @@ identifier: "BWBR0044747"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-18"
-last_updated: "2020-12-01"
+last_updated: "2025-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044747"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. **de minister:** de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - b. **adviescommissie:** de Adviescommissie Nationale Parken.
 
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 2. De adviescommissie heeft tot taak om de minister te adviseren over aanvragen voor statusaanwijzing van een gebied als nationaal park.
 
-3. De adviescommissie adviseert over de aanvragen op grond van de eisen die voortvloeien uit de [Wet Natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en de Standaard voor de gebiedsaanduiding nationale parken 2018.
+3. De adviesommissie adviseert over de aanvragen op grond van [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44) in samenhang met [artikel 3.68 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.68) en de [Beleidsregel aanwijzing Nationale Parken 2024–2030](https://wetten.overheid.nl/jci1.3:c:BWBR0049721).
 
 ##### Artikel 3
 
