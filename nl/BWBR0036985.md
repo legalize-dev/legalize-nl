@@ -4,7 +4,7 @@ identifier: "BWBR0036985"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-18"
-last_updated: "2015-09-09"
+last_updated: "2025-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036985"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ besluit: de papieren archivering en documentatie te vervangen door digitale arch
 
 - a. deel uitmaken van de werkprocessen van de bewindspersonen van het ministerie en die, op grond van de geldende selectielijsten voor de daaronder ressorterende organisatieonderdelen, voor vernietiging dan wel voor permanente bewaring in aanmerking komen, en
 
-- b. worden ontvangen en opgemaakt in de periode vanaf de inwerkingtreding van dit besluit tot en met tien jaar na de inwerkingtreding van dit besluit.
+- b. worden ontvangen en opgemaakt in de periode vanaf de inwerkingtreding van dit besluit.
 
 2. De vervanging heeft tevens betrekking op alle archiefbescheiden die worden opgenomen in het documentmanagement systeem Digidoc en zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit, alsmede op alle documenten die op het moment van de inwerkingtreding van dit besluit zijn opgenomen in het documentmanagement systeem Digidoc en nog niet zijn afgedaan.
 
@@ -59,7 +59,7 @@ besluit: de papieren archivering en documentatie te vervangen door digitale arch
 
 1. De digitale vervanging heeft betrekking op papieren archiefbescheiden en documentatie die na vervanging worden opgenomen in het documentmanagement systeem Digidoc, waarbij
 
-- a. aan de bepalingen zoals die zijn opgenomen in de [Beleidsregel digitale vervanging archiefbescheiden](https://wetten.overheid.nl/jci1.3:c:BWBR0023395) (Staatscourant 2008, 21) wordt voldaan;
+- a. aan de bepalingen zoals die zijn opgenomen in [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) wordt voldaan;
 
 - b. een **Handboek digitale vervanging archiefbescheiden Financiën** is opgesteld en goedgekeurd door de Chief Information Officer (CIO) van het bestuursdepartement van het ministerie van Financiën.
 
