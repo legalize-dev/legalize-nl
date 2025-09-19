@@ -4,7 +4,7 @@ identifier: "BWBR0045253"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-09-19"
-last_updated: "2021-08-01"
+last_updated: "2025-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045253"
 soort: "beleidsregel"
@@ -57,5 +57,17 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boeten NVWA-ex
 ##### Artikel 3
 
 Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Overtredingen van het bepaalde bij of krachtens [30 van het Besluit experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=30) worden bestraft met een bestuurlijke boete van € 4.500. Dit bedrag wordt verhoogd tot:
+
+- –. € 13.500 indien de natuurlijke persoon aan wie of de rechtspersoon waaraan de overtreding kan worden toegerekend voor een soortgelijke overtreding eerder is beboet en er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boete onherroepelijk is geworden;
+
+- –. € 22.500 indien binnen drie jaar na het onherroepelijk worden van de bestuurlijke boete voor de eerste overtreding, een soortgelijke overtreding voor de derde maal wordt begaan; en
+
+- –. € 45.000 indien binnen vijf jaar na het onherroepelijk worden van de bestuurlijke boete voor de eerste overtreding, een soortgelijke overtreding voor de vierde maal wordt begaan.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
