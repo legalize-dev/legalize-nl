@@ -4,7 +4,7 @@ identifier: "BWBR0044923"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-20"
-last_updated: "2025-01-01"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044923"
 soort: "AMvB"
@@ -402,7 +402,7 @@ Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevi
 
 ##### Artikel 7.2. (toelichting hoofdstukken bruidsschat omgevingsplan)
 
-Het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, eerste lid, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), wordt voorzien van de toelichting die is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=I&z=2025-01-01&g=2025-01-01) bij dit besluit.
+Het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, eerste lid, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), wordt voorzien van de toelichting die is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=I&z=2025-09-20&g=2025-09-20) bij dit besluit.
 
 ### Afdeling 7.2. Bruidsschat in waterschapsverordening
 
@@ -540,7 +540,7 @@ Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de watersch
 
 ##### Artikel 7.25. (toelichting hoofdstukken bruidsschat waterschapsverordening)
 
-De waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), wordt voorzien van de toelichting die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=II&z=2025-01-01&g=2025-01-01) bij dit besluit.
+De waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), wordt voorzien van de toelichting die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=II&z=2025-09-20&g=2025-09-20) bij dit besluit.
 
 ### Hoofdstuk 8. Overgangsrecht
 
@@ -732,7 +732,7 @@ Een verordening als bedoeld in [artikel 2.17, zevende lid](https://wetten.overhe
 
 ##### Artikel 8.2.3. (informeren emissie zeer zorgwekkende stof)
 
-[Artikel 5.23 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.23) treedt in werking met ingang van 1 januari van het kalenderjaar na het kalenderjaar waarin het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) in werking is getreden. Tot dat tijdstip blijft [artikel 2.4, derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.4), zoals dat luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), van toepassing.
+Vervallen
 
 #### § 8.2.3. Overgangsbepaling [Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771)
 
@@ -926,7 +926,7 @@ De [artikelen 5.8 tot en met 5.11 van het Besluit activiteiten leefomgeving](htt
 
 ##### Artikel 9.1. (overgangsrecht)
 
-Als een bepaling, opgenomen in een algemene maatregel van bestuur, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=5&z=2025-01-01&g=2025-01-01) of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01), wordt vervangen door een bepaling in een ministeriële regeling, kan de overgangsbepaling die daarvoor nodig is, in een ministeriële regeling worden opgenomen.
+Als een bepaling, opgenomen in een algemene maatregel van bestuur, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=5&z=2025-09-20&g=2025-09-20) of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=6&artikel=6.1&z=2025-09-20&g=2025-09-20), wordt vervangen door een bepaling in een ministeriële regeling, kan de overgangsbepaling die daarvoor nodig is, in een ministeriële regeling worden opgenomen.
 
 ##### Artikel 9.2. (inwerkingtreding)
 
@@ -940,7 +940,7 @@ Dit besluit wordt aangehaald als: Invoeringsbesluit Omgevingswet.
 
 1. Na de inwerkingtreding van:
 
-- a. de [hoofdstukken 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=1&z=2025-01-01&g=2025-01-01) van dit besluit;
+- a. de [hoofdstukken 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=1&z=2025-09-20&g=2025-09-20) van dit besluit;
 
 - b. [hoofdstuk 1 van het Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679&hoofdstuk=1);
 
@@ -968,7 +968,7 @@ kan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de nummering van
 
 Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
 
-## Bijlage I. behorend bij [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.1&artikel=7.2&z=2025-01-01&g=2025-01-01)
+## Bijlage I. behorend bij [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.1&artikel=7.2&z=2025-09-20&g=2025-09-20)
 
 Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
 
@@ -1042,7 +1042,7 @@ Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [art
 
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage II. behorend bij [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.2&artikel=7.25&z=2025-01-01&g=2025-01-01)
+## Bijlage II. behorend bij [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.2&artikel=7.25&z=2025-09-20&g=2025-09-20)
 
 Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijziging in Stb. 2022, 172.
 
