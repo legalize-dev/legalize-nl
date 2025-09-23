@@ -4,7 +4,7 @@ identifier: "BWBR0051529"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2025-04-01"
+last_updated: "2025-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051529"
 soort: "AMvB"
@@ -70,17 +70,17 @@ Wijzigt het Verzamelbesluit rechtspositie politie 2023.
 
 ##### Artikel VI
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=I&z=2025-09-23&g=2025-04-01) en [artikel II, onderdelen E, G, en H](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01), die in werking treden met ingang van 1 november 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=I&z=2025-09-23&g=2025-09-23) en [artikel II, onderdelen E, G, en H](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23), die in werking treden met ingang van 1 november 2025.
 
-2. [Artikel II, onderdelen J, K, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01) en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=III&z=2025-09-23&g=2025-04-01), werken terug tot en met 1 april 2025.
+2. [Artikel II, onderdelen J, K, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23) en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=III&z=2025-09-23&g=2025-09-23), werken terug tot en met 1 april 2025.
 
-3. [Artikel II, onderdeel Q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01), werkt terug tot en met 8 januari 2025.
+3. [Artikel II, onderdeel Q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23), werkt terug tot en met 8 januari 2025.
 
-4. [Artikel II, onderdeel Q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01), werkt terug tot en met 15 augustus 2024.
+4. [Artikel II, onderdeel Q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23), werkt terug tot en met 15 augustus 2024.
 
-5. [Artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01), werkt terug tot en met 1 januari 2024.
+5. [Artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23), werkt terug tot en met 1 januari 2024.
 
-6. [Artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-04-01), werkt terug tot en met 1 augustus 2022.
+6. [Artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051529&artikel=II&z=2025-09-23&g=2025-09-23), werkt terug tot en met 1 augustus 2022.
 
 ##### Artikel VI*
 
