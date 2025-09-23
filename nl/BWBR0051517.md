@@ -4,7 +4,7 @@ identifier: "BWBR0051517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-23"
-last_updated: "2025-08-01"
+last_updated: "2025-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051517"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2025. Indien de Staats
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing Branchecode goed bestuur in het mbo 2025.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051517&artikel=1&z=2025-09-23&g=2025-08-01)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051517&artikel=1&z=2025-09-23&g=2025-09-23)
 
 ### Code goed bestuur mbo 2025
 
