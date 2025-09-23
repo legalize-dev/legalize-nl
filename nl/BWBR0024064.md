@@ -4,7 +4,7 @@ identifier: "BWBR0024064"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2025-05-13"
+last_updated: "2025-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024064"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, bedoeld in artikel 1, eerste lid, van dat besluit;
+- **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), met uitzondering van de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, bedoeld in artikel 1, eerste lid van dat besluit, tenzij deze ambtenaar opsporingsbevoegdheid bezit of in opleiding is om deze opsporingsbevoegdheid te verkrijgen;
 
 - **ambtenaar in opleiding:** de ambtenaar in opleiding, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
@@ -80,7 +80,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 - b. de woning en een door de ambtenaar gekozen andere locatie, waar hij zijn werkzaamheden verricht, dan de plaats van tewerkstelling;
 
-- c. de woning en de aangewezen meerdere plaatsen van tewerkstelling, indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen als bedoeld in [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10);
+- c. de woning en de aangewezen meerdere plaatsen van tewerkstelling, indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen als bedoeld in [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10);
 
 - d. de tijdelijke huisvesting en de plaats van tewerkstelling, indien aan de ambtenaar de verhuisplicht is opgelegd en hij tijdelijk elders is gehuisvest nabij zijn plaats van tewerkstelling;
 
@@ -98,21 +98,21 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 4. Openbaar vervoer
 
-1. Voor reizen, als bedoeld in [artikel 3, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-05-13&g=2025-05-13), verstrekt het bevoegd gezag een vervoersbewijs op basis van het tarief van de tweede klasse.
+1. Voor reizen, als bedoeld in [artikel 3, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23), verstrekt het bevoegd gezag een vervoersbewijs op basis van het tarief van de tweede klasse.
 
 2. Indien de ambtenaar een vervoersbewijs wenst op basis van eerste klasse of indien de ambtenaar een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het eerste lid, komen de meerkosten hiervan voor rekening van de ambtenaar.
 
 3. Behalve voor de reizen, bedoeld in het eerste lid, gebruikt de ambtenaar het vervoersbewijs ter voldoening van de gemaakte kosten voor:
 
-- a. een door hem gebruikte OV-fiets voor het traject tussen de openbaar vervoer locatie en de werklocatie voor reizen als bedoeld in [artikel 3, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-05-13&g=2025-05-13);
+- a. een door hem gebruikte OV-fiets voor het traject tussen de openbaar vervoer locatie en de werklocatie voor reizen als bedoeld in [artikel 3, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23);
 
-- b. de stalling van een fiets bij een openbaar vervoer locatie bij reizen als bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-05-13&g=2025-05-13).
+- b. de stalling van een fiets bij een openbaar vervoer locatie bij reizen als bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23).
 
 4. In het geval de ambtenaar niet beschikt over het vervoersbewijs, bedoeld in het eerste lid, kan het bevoegd gezag de ambtenaar de door hem op grond van het eerste en derde lid gemaakte kosten vergoeden.
 
 ##### Artikel 5. Berekening en procedures bij reizen met openbaar vervoer
 
-1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-05-13&g=2025-05-13) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
+1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-09-23&g=2025-09-23) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
 
 2. De ambtenaar, bedoeld in het eerste lid, dient wijzigingen die van invloed zijn op het vervoersbewijs of de hoogte van de tegemoetkoming onverwijld en schriftelijk door te geven aan het bevoegd gezag.
 
@@ -132,25 +132,25 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 1. Voor reizen waarbij gebruik wordt gemaakt van eigen vervoer, wordt voor woon-werkverkeer een tegemoetkoming van € 0,23 per afgelegde kilometer verstrekt. Voor iedere combinatie van reizen met openbaar vervoer en reizen met eigen vervoer, wordt voor de afzonderlijke delen een vergoeding toegekend, gelijk aan de voor eigen vervoer en openbaar vervoer vastgestelde vergoedingen.
 
-2. Voor de tegemoetkoming, bedoeld in het eerste lid, geldt een maximum van 300 kilometer per enkele reis, heen- en terugreis, per dienst.
+2. Voor de tegemoetkoming, bedoeld in het eerste lid, geldt een maximum van 300 kilometer per enkele reis.
 
 3. In afwijking van het tweede lid geldt voor de ambtenaar, die geleider is van een surveillancehond of een politiespeurhond, die niet de beschikking heeft over een dienstvoertuig, en voor wie het noodzakelijk is dat hij in het kader van zijn dienstuitoefening met een surveillancehond of een politiespeurhond met eigen vervoer reist, voor de afstand tussen de woning en de plaats van tewerkstelling of oefenterrein het maximum van 300 km niet.
 
-4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-05-13&g=2025-05-13), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
+4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
 
-5. De tegemoetkoming voor reizen, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-05-13&g=2025-05-13), bedraagt ten hoogste het bedrag van de tegemoetkoming voor reizen, bedoeld in artikel 3, eerste lid, onderdeel a.
+5. De tegemoetkoming voor reizen, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23), bedraagt ten hoogste het bedrag van de tegemoetkoming voor reizen, bedoeld in artikel 3, eerste lid, onderdeel a.
 
 6. Bij ministeriële regeling kan in geval van een reorganisatie als bedoeld in [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b), van de beperking van het maximum aantal kilometers enkele reis, zoals bedoeld in het tweede lid, worden afgeweken ter voorkoming van negatieve financiële gevolgen voor de ambtenaar.
 
 ##### Artikel 7. Berekening en procedure eigen vervoer al of niet in combinatie met openbaar vervoer
 
-1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-05-13&g=2025-05-13), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
+1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-09-23&g=2025-09-23), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
 
 2. Bij de berekening van de vaste tegemoetkoming, bedoeld in het eerste lid, wordt bij een gemiddelde werkweek van vijf dagen uitgegaan van 206 werkdagen per kalenderjaar.
 
 3. Indien het aantal te werken dagen minder is dan vijf, wordt de vaste tegemoetkoming berekend naar rato.
 
-4. In het geval er sprake is van meerdere plaatsen van tewerkstelling, als bedoeld in [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10) wordt de vaste tegemoetkoming per dienst bepaald door een gemiddelde afstand die de ambtenaar in een periode van vier weken moet afleggen.
+4. In het geval er sprake is van meerdere plaatsen van tewerkstelling, als bedoeld in [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10) wordt de vaste tegemoetkoming per dienst bepaald door een gemiddelde afstand die de ambtenaar in een periode van vier weken moet afleggen.
 
 5. Het bevoegd gezag kan van de termijn, bedoeld in het vierde lid, bij een aspirant, afwijken indien het meer voor de hand ligt om het gemiddelde per kwartiel te berekenen.
 
@@ -174,7 +174,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 1. Onder dienstreis wordt in deze paragraaf verstaan: het door de ambtenaar, in het kader van zijn werkzaamheden, reizen en verblijven binnen Nederland en buiten de plaats van tewerkstelling, tenzij de ambtenaar kiest om zijn werkzaamheden te verrichten op een andere locatie dan de plaats van tewerkstelling.
 
-2. Indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen op grond van [artikel 10, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10), wordt wanneer de ambtenaar binnen één dienst reist tussen de aangewezen plaatsen van tewerkstelling, deze reis aangemerkt als dienstreis. De dienstreis eindigt in dit geval op het moment dat de ambtenaar zijn andere plaats van tewerkstelling heeft bereikt.
+2. Indien aan de ambtenaar meerdere plaatsen van tewerkstelling zijn aangewezen op grond van [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10), wordt wanneer de ambtenaar binnen één dienst reist tussen de aangewezen plaatsen van tewerkstelling, deze reis aangemerkt als dienstreis. De dienstreis eindigt in dit geval op het moment dat de ambtenaar zijn andere plaats van tewerkstelling heeft bereikt.
 
 3. Dienstreizen die binnen Nederland zijn begonnen, waarbij het reisgedeelte buiten Nederland gering is, of waarbij de grensoverschrijding niet leidt tot uitgaven voor maaltijden of overnachting in het buitenland worden eveneens aangemerkt als dienstreis.
 
@@ -196,7 +196,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 11. Dienstreis met openbaar vervoer
 
-1. Indien er geen door de dienst beschikbaar gesteld vervoermiddel voorhanden is, wordt de dienstreis met openbaar vervoer gemaakt met gebruikmaking van het vervoersbewijs, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-05-13&g=2025-05-13). De ambtenaar kan gebruikmaken van de eerste vervoersklasse.
+1. Indien er geen door de dienst beschikbaar gesteld vervoermiddel voorhanden is, wordt de dienstreis met openbaar vervoer gemaakt met gebruikmaking van het vervoersbewijs, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-09-23&g=2025-09-23). De ambtenaar kan gebruikmaken van de eerste vervoersklasse.
 
 2. Indien het noodzakelijk is, dat tijdens een dienstreis vóór of na gebruik van het openbaar vervoer gebruik wordt gemaakt van een taxi of eigen vervoer, worden deze kosten eveneens vergoed.
 
@@ -246,7 +246,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 1. Indien een ambtenaar overeenkomstig [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62) wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 146,45 per dag, op basis van overgelegde bewijsstukken.
 
-2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-05-13&g=2025-05-13) van dit besluit.
+2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-09-23&g=2025-09-23) van dit besluit.
 
 3. De ambtenaar, bedoeld in het eerste lid, heeft maximaal eenmaal per week aanspraak op een tegemoetkoming in de reiskosten naar zijn oorspronkelijke woning. De tegemoetkoming is gelijk aan de kosten voor openbaar vervoer in de tweede vervoersklasse of, bij gebruik van eigen vervoer € 0,23 per kilometer.
 
@@ -276,7 +276,7 @@ Onder dienstreis wordt in deze paragraaf verstaan: een reis naar, in of uit het 
 
 - c. gehuurd vervoermiddel of taxi.
 
-2. Het bevoegd gezag kan bij geven van een opdracht voor een dienstreis bepalen welke vervoersmiddelen daarvoor mogen worden gebruikt, behoudens het bepaalde in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=16a&z=2025-05-13&g=2025-05-13).
+2. Het bevoegd gezag kan bij geven van een opdracht voor een dienstreis bepalen welke vervoersmiddelen daarvoor mogen worden gebruikt, behoudens het bepaalde in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=16a&z=2025-09-23&g=2025-09-23).
 
 ##### Artikel 18. Vliegtuig, boot of openbaar vervoer
 
@@ -332,7 +332,7 @@ Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt 
 
 - b. bij openbaar vervoer of een boot: de laagste vervoersklasse.
 
-3. [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2025-05-13&g=2025-05-13), is van overeenkomstige toepassing.
+3. [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2025-09-23&g=2025-09-23), is van overeenkomstige toepassing.
 
 ##### Artikel 22. Verblijfkosten
 
@@ -360,7 +360,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 - a. voor een reisgedeelte per vliegtuig voor zover het betreft vliegreizen in de businessklasse;
 
-- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2025-05-13&g=2025-05-13) in zijn woonplaats verblijft.
+- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2025-09-23&g=2025-09-23) in zijn woonplaats verblijft.
 
 ##### Artikel 24. Vergoeding van overige reiskosten
 
@@ -376,11 +376,11 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 6. De in verband met een dienstreis gemaakte kosten voor interlokale en internationale telefoongesprekken en voor gebruik van internet voor dienstdoeleinden worden op basis van overgelegde bewijsstukken vergoed. Indien geen bewijsstukken worden overgelegd, moet de ambtenaar aannemelijk maken dat hij die kosten heeft gemaakt.
 
-7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2025-05-13&g=2025-05-13) bij dit besluit, worden gerekend.
+7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2025-09-23&g=2025-09-23) bij dit besluit, worden gerekend.
 
 ##### Artikel 25. Declaraties
 
-[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2025-05-13&g=2025-05-13) is van overeenkomstige toepassing.
+[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2025-09-23&g=2025-09-23) is van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Verhuizen
 
@@ -400,7 +400,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 27. Tegemoetkoming in verhuiskosten en pensionkosten mét verhuisplicht
 
-1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-05-13&g=2025-05-13).
+1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23).
 
 2. De ambtenaar, bedoeld in het eerste lid, die nog niet is verhuisd en die naar het oordeel van het bevoegd gezag niet dagelijks heen en weer kan reizen heeft aanspraak op een tegemoetkoming in de pensionkosten voor verblijf in een pension in of nabij het werkgebied, tenzij van overheidswege al dan niet tegen betaling in huisvesting wordt voorzien. De tegemoetkoming bedraagt voor de ambtenaar die gewoonlijk met gezinsleden samenwoont 90% en voor de overige ambtenaren 60% van de betaalde pensionkosten, voor zover deze kosten redelijk zijn.
 
@@ -410,7 +410,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 28. Tegemoetkoming in (verhuis)kosten zonder verhuisplicht
 
-1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-05-13&g=2025-05-13), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
+1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
 
 2. De ambtenaar dient de hem op grond van het eerste lid toegekende tegemoetkoming in verhuiskosten terug te betalen, indien binnen drie jaren na de verhuizing één van de volgende omstandigheden zich voordoet:
 
@@ -444,19 +444,19 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 2. Voor het vaststellen van de tegemoetkoming, bedoeld in het eerste lid, onderdeel d, geldt:
 
-- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-05-13&g=2025-05-13), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
+- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-09-23&g=2025-09-23), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
 
 - b. de tegemoetkoming bedraagt maximaal € 5.445,00.
 
 3. Geen aanspraak op een tegemoetkoming als bedoeld in het eerste lid, onderdeel d, bestaat indien de ambtenaar geen eigen huishouding voert.
 
-4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-05-13&g=2025-05-13).
+4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-09-23&g=2025-09-23).
 
-5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-05-13&g=2025-05-13).
+5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-09-23&g=2025-09-23).
 
 ##### Artikel 30. Berekeningsbasis en berekeningstijdstip
 
-1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-05-13&g=2025-05-13), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
+1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
 
 2. Het berekeningstijdstip voor de tegemoetkoming in de verhuiskosten is de datum waarop de ambtenaar verhuist óf, als de ambtenaar is verhuisd vóór de datum dat de functie feitelijk wordt vervuld, de datum van ingang van de functievervulling óf bij het overlijden dan wel ontslag van de ambtenaar de datum waarop laatstelijk bezoldiging werd genoten.
 
@@ -524,7 +524,7 @@ Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het 
 
 ##### Artikel 38
 
-De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-05-13&g=2025-05-13), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2025-05-13&g=2025-05-13), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2025-05-13&g=2025-05-13), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
+De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-09-23&g=2025-09-23), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2025-09-23&g=2025-09-23), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2025-09-23&g=2025-09-23), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
 
 ##### Artikel 39
 
@@ -1475,6 +1475,8 @@ Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
 Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
+Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
+
 China: Peking
 
 Finland: Helsinki
@@ -1489,9 +1491,9 @@ Noord- en Zuidpool
 
 Noorwegen: Oslo
 
-Oekraïne: Kiew
-
 ### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
+
+Polen: Warschau
 
 Russische Federatie: Moskou, St. Petersburg
 
@@ -1633,9 +1635,9 @@ Thailand: Bangkok
 
 Trinidad: Piarco, Port of Spain
 
-Venezuela: Caracas
-
 ### **III Gebieden met tropische warmte in de maanden mei tot en met september**
+
+Verenigde Arabische Emiraten: Abu Dhabi, Dubai
 
 Verenigde Staten: Hawaii, Miami
 
@@ -1645,17 +1647,15 @@ Zaïre: Kinshasa
 
 Zambia: Lusaka
 
-Algerije: Algiers
+### **III Gebieden met tropische warmte in de maanden mei tot en met september**
 
-### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
+Algerije: Algiers
 
 Egypte: Cairo
 
 Libanon: Beiroet
 
 Libië: Tripoli
-
-Tunesië: Tunis
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -2380,11 +2380,11 @@ Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
 ### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
 
-Polen: Warschau
+Oekraïne: Kiew
 
 ### **III Gebieden met tropische warmte in de maanden mei tot en met september**
 
-Verenigde Arabische Emiraten: Abu Dhabi, Dubai
+Venezuela: Caracas
 
 ### **III Gebieden met tropische warmte in de maanden mei tot en met september**
 
@@ -2430,7 +2430,7 @@ Vervallen
 
 ##### Artikel 38a
 
-[Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&z=2025-05-13&g=2025-05-13) is niet van toepassing op de vrijwillige ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+[Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&z=2025-09-23&g=2025-09-23) is niet van toepassing op de vrijwillige ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ## Bijlage I. , behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2012-10-25&g=2012-10-25), van het Besluit reis-, verblijf-, en verhuiskosten politie, zoals deze luidt met ingang van 1 oktober 2012
 
@@ -3895,7 +3895,7 @@ Vervallen
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Argentinië: Buenos Aires
+Tunesië: Tunis
 
 Argentinië: Buenos Aires
 
@@ -3903,25 +3903,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 31a. Tijdelijke tegemoetkoming dubbele woonlasten politiechef
 
-1. In aanvulling op [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=29), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=27&z=2025-05-13&g=2025-05-13), wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.
-
-2. De tegemoetkoming bestaat uit het bedrag van de daadwerkelijk gemaakte kosten van de huisvesting en bedraagt het eerste jaar ten hoogste 18% en het tweede jaar ten hoogste 15% van de bezoldiging met een maximum van € 1.552,79 per maand.
-
-3. Onder de daadwerkelijk gemaakte kosten van de huisvesting, bedoeld in het tweede lid, worden verstaan:
-
-- a. het bedrag van de huur van de (tijdelijke) woning in het werkgebied van de regionale eenheid waar de politiechef is aangesteld, vermeerderd met de kosten voor elektriciteit, gas en water; of
-
-- b. de rente van schulden ter verwerving van de woning in het werkgebied van de regionale eenheid waar de politiechef is aangesteld, vermeerderd met de kosten voor elektriciteit, gas en water.
-
-4. De tegemoetkoming gaat in op de eerste dag van de maand na de benoeming waarop de dubbele woonlasten ontstaan, maar niet eerder dan op de eerste dag van de maand waarop de tegemoetkoming wordt aangevraagd, en eindigt met ingang van de eerste dag van de maand waarin de woning waar de politiechef tot zijn aanstelling woonde, is verkocht, of na afloop van de in het eerste lid bedoelde maximale duur. De datum van verkoop wordt bepaald op de dag dat de akte betreffende de overdracht van de woning bij de notaris is gepasseerd.
-
-5. De tegemoetkoming wordt slechts verleend indien:
-
-- a. de politiechef in het werkgebied van de regionale eenheid binnen een jaar na zijn aanstelling een woning huurt of koopt; en
-
-- b. de woning waar de politiechef tot zijn aanstelling woonde kenbaar in de verkoop staat en de rente van de schulden ter verwerving van die woning drukt op het huishouden van de politiechef.
-
-6. De eventuele verschuldigde loon- en inkomstenbelasting over de tegemoetkoming worden door de regionale eenheid aan de politiechef vergoed.
+Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
@@ -3937,7 +3919,7 @@ Vervallen
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Peru: Lima
+Argentinië: Buenos Aires
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -3953,7 +3935,7 @@ Vervallen
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Uruguay: Montevideo
+Peru: Lima
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -3972,6 +3954,34 @@ Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/j
 4. Indien het bevoegd gezag opdracht geeft voor een dienstreis waarvoor de enkele reis een reisafstand van minimaal zevenhonderd kilometer van de plaats van tewerkstelling behelst en gebruik wordt gemaakt van het vliegtuig, wordt in beginsel gekozen voor de vlucht waarvoor het minste aantal keren overstappen noodzakelijk is.
 
 ### Hoofdstuk IV. Verhuizen
+
+### Hoofdstuk V. Overgangs- en slotbepalingen
+
+## Bijlage I. behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2025-09-23&g=2025-09-23), van het Besluit reis-, verblijf-, en verhuiskosten politie per 1 oktober 2020
+
+Vervallen
+
+### Gebieden met polaire koude en gebieden met tropische warmte
+
+### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
+
+### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
+
+Uruguay: Montevideo
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 30a
+
+1. Voor de duur van de vervulling van het ambt kan aan de korpschef een verblijfsvoorziening in of nabij ‘s-Gravenhage ter beschikking worden gesteld, indien:
+
+- a. de afstand tussen de woonplaats en de plaats van tewerkstelling minstens 100 km bedraagt of de reistijd meer bedraagt dan 1,5 uur enkele reis; en
+
+- b. het onredelijk is om een verhuisplicht op te leggen vanwege bijzondere familieomstandigheden; en
+
+- c. de veiligheid van de korpschef dat noodzakelijk maakt.
+
+2. Een verstrekking als bedoeld in het eerste lid wordt aangemerkt als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
