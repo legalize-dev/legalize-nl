@@ -4,7 +4,7 @@ identifier: "BWBR0029933"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-09-24"
-last_updated: "2011-01-01"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029933"
 soort: "ministeriele-regeling-BES"
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - b. nemen van besluiten als bedoeld in [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=23), betreffende het verlenen van zorg en het vaststellen van een bijdrage.
 
-2. Een beslissing op bezwaar wordt genomen door een ander dan degene die een besluit heeft genomen als bedoeld in het eerste lid, niet zijnde diens ondergeschikte.
+2. Vervallen.
 
 ##### Artikel 3
 
