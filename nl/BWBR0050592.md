@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-09-12"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -171,7 +171,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 |   | [5.7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.7.7) |   | Demonstratieprojecten duurzame landbouw verzorgd door een demonstratiebedrijf | 01-07-2025 t/m 12-08-2025 | € 4.200.000 |
 |   | [5.7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.7.8) |   | Verstrekking van een bedrijfsplanvoucher voor omschakeling aan een landbouwer | 07-10-2025 t/m 18 -11-2025 | € 1.500.000 |
 | [Titel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.8) | [5.8.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.8.5.1) |   | Verbetering watersysteem veenweidegebieden | 5-8-2025 t/m 31-10-2025 | € 45.623.000 |
-| [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) |   | Vestigen van landbouwbedrijf door jonge landbouwer met actueel bedrijfsplan | 28-04-2025 tot en met 27-06-2025 | € 47.360.000 |
+| [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) |   | Vestigen van landbouwbedrijf door jonge landbouwer met actueel bedrijfsplan | 28-04-2025 tot en met 27-06-2025 | € 60.133.139 |
 
 ##### Artikel 4. Intrekken Regelingen
 
