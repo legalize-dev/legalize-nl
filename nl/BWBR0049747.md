@@ -4,7 +4,7 @@ identifier: "BWBR0049747"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-09-24"
-last_updated: "2025-01-01"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049747"
 soort: "ministeriele-regeling-BES"
@@ -50,7 +50,7 @@ Besluit:
 
 - c. een identiteitskaart en een nationaal, diplomatiek of dienstpaspoort uitgegeven in Liechtenstein, Noorwegen, IJsland of Zwitserland.
 
-2. Vervallen.
+2. De identiteitsdocumenten, aangewezen in [artikel 2, eerste lid, van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) en in het eerste lid, mogen op de dag van de stemming, bedoeld in [artikel J 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_1), maximaal vijf jaren hun geldigheid hebben verloren.
 
 ##### Artikel 2
 
@@ -60,6 +60,6 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing documenten vaststellen i
 
 1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049747&artikel=1&z=2025-01-01&g=2025-01-01), van deze regeling vervalt met ingang van 1 januari 2025.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049747&artikel=1&z=2025-09-24&g=2025-09-24), van deze regeling vervalt met ingang van 1 januari 2028.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
