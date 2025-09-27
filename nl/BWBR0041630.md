@@ -4,7 +4,7 @@ identifier: "BWBR0041630"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-27"
-last_updated: "2018-12-06"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041630"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1. Ondertekeningsmandaat
 
-1. Van het ingevolge [artikel 1 van de Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=1) aan de directeur-generaal Politie verleende ondermandaat met betrekking tot de bevoegdheden van het bevoegd (werkgevers)gezag van de ambtenaren van het politiekorps Bonaire, Sint Eustatius en Saba wordt ondertekeningsmandaat verleend aan de directeur Politieel Beleid en Taakuitvoering.
+1. Van het ingevolge [artikel 1 van de Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=1) aan de directeur-generaal Politie verleende ondermandaat met betrekking tot de bevoegdheden van het bevoegd (werkgevers)gezag van de ambtenaren van het politiekorps Bonaire, Sint Eustatius en Saba wordt ondertekeningsmandaat verleend aan de directeur Politieorganisatie en -middelen en Staf.
 
-2. Van het ingevolge [artikel 5 van de Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=5) aan de directeur-generaal Politie verleende ondermandaat met betrekking tot de bevoegdheden van het bevoegd (werkgevers)gezag van de ambtenaren van het brandweerkorps Bonaire, Sint Eustatius en Saba wordt ondertekeningsmandaat verleend aan de directeur Politieel Beleid en Taakuitvoering.
+2. Van het ingevolge [artikel 5 van de Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=5) aan de directeur-generaal Politie verleende ondermandaat met betrekking tot de bevoegdheden van het bevoegd (werkgevers)gezag van de ambtenaren van het brandweerkorps Bonaire, Sint Eustatius en Saba wordt ondertekeningsmandaat verleend aan de directeur Politieorganisatie en -middelen en Staf.
 
 3. Ingeval er sprake is van een ondertekeningsmandaat als bedoeld in het eerste of tweede lid, geschiedt ondertekening van de door de directeur-generaal Politie genomen besluiten op de volgende wijze:
 
@@ -54,7 +54,7 @@ Overeenkomstig het namens de Minister van Binnenlandse Zaken en Koninkrijkrelati
 
 (naam)
 
-Directeur Politieel Beleid en Taakuitvoering
+De directeur Politieorganisatie en -middelen en Staf
 
 ##### Artikel 2. Inwerkingtreding
 
