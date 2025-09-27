@@ -4,7 +4,7 @@ identifier: "BWBR0050920"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-27"
-last_updated: "2025-04-05"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050920"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-04-05&g=2025-04-05), een subsidieplafond van € 1.000.000.
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-09-27&g=2025-09-27), een subsidieplafond van € 1.000.000.
 
-2. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-04-05&g=2025-04-05), een subsidieplafond van € 1.000.000.
+2. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-09-27&g=2025-09-27), een subsidieplafond van € 1.000.000.
 
-3. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-04-05&g=2025-04-05), een subsidieplafond van € 1.000.000.
+3. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-09-27&g=2025-09-27), een subsidieplafond van € 1.000.000.
 
 ##### Artikel 4
 
@@ -124,9 +124,9 @@ De activiteiten waarvoor subsidie wordt gevraagd hebben een maximale looptijd va
 
 ### 4.5. Omvang van de subsidie
 
-De subsidie is per aanvraag maximaal 75% van de subsidiabele kosten tot een maximum van € 150.000.
+De totale kosten die opgevoerd worden in de begroting bij de aanvraag voor subsidie zijn voor activiteiten zoals opgenomen in paragraaf 4.3, onderdelen a en b.
 
-Voor het deel van de totale subsidiabele kosten dat niet door de subsidie wordt gedekt, dient de aanvrager zelf middelen aan te wenden, bekend als de eigen bijdrage of cofinanciering. Deze bijdrage mag niet afkomstig zijn van directe of indirecte subsidies of bijdragen vanuit de begroting van het Ministerie van Buitenlandse Zaken.
+De subsidie wordt berekend over de kosten voor de activiteiten zoals opgenomen in paragraaf 4.3, onderdeel a, waarbij een subsidie geldt tot maximaal 100% van de kosten en tot een maximum van € 150.000 per aanvraag.
 
 ### 5. Subsidiabele kosten
 
