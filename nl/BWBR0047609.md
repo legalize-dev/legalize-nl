@@ -4,7 +4,7 @@ identifier: "BWBR0047609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2025-01-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047609"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **academisch centrum kinder- en jeugdpsychiatrie (ACKJP):** een instelling voor specialistische kinder- en jeugdpsychiatrie waar naast zorg ook medisch specialisten worden opgeleid en wetenschappelijke kennis wordt gegenereerd, toegepast en verspreid, als onderdeel van of gelieerd aan een universitair medisch centrum met academische infrastructuur zondervolledige financiering door het Landelijk Transitiearrangement;
 
-- –. **bovenregionaal gebied:** een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2025-01-01&g=2025-01-01);
+- –. **bovenregionaal gebied:** een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2025-10-01&g=2025-10-01);
 
-- –. **coördinerende gemeente:** de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2025-01-01&g=2025-01-01), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
+- –. **coördinerende gemeente:** de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2025-10-01&g=2025-10-01), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
 
 - –. **expertisenetwerk jeugdhulp:** netwerk in een bovenregionaal gebied dat ten doel heeft om te zorgen voor een passende oplossing voor jongeren met complexe en meervoudige problematiek die vastlopen in de zorg of niet de juiste hulp krijgen en te voorkomen dat de zorgvraag van jongeren steeds complexer wordt;
 
@@ -108,21 +108,21 @@ In deze regeling wordt verstaan onder:
 
 - b. het monitoren van de capaciteitsbehoefte en beschikbare capaciteit in de gesloten jeugdhulp.
 
-##### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond
+##### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond 2025
 
-De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt jaarlijks maximaal:
+De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt voor 2025 maximaal:
 
 - 1. Expertisenetwerken:
 
-| a) | Amsterdam | € 3.814.533,50 |
+| a) | Amsterdam | € 3.897.690,33 |
 | --- | --- | --- |
-| b) | Rotterdam | € 4.897.304,57 |
-| c) | Eindhoven | € 3.846.850,91 |
-| d) | Roermond | € 1.805.283,34 |
-| e) | Groningen | € 2.620.442,66 |
-| f) | Utrecht | € 2.752.217,83 |
-| g) | Nijmegen | € 3.168.397,24 |
-| h) | Enschede | € 2.094.969,95 |
+| b) | Rotterdam | € 5.004.065,81 |
+| c) | Eindhoven | € 3.930.712,26 |
+| d) | Roermond | € 1.844.638,51 |
+| e) | Groningen | € 2.677.568,31 |
+| f) | Utrecht | € 2.812.216,18 |
+| g) | Nijmegen | € 3.237.468,30 |
+| h) | Enschede | € 2.140.640,29 |
 
 - 2. Academische centra:
 
@@ -141,17 +141,42 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 | d) | Tilburg | € 115.000,00 |
 | e) | Utrecht | € 115.000,00 |
 
-##### Artikel 5. Ontwikkeling prijspeil en arbeidsvoorwaarden
+##### Artikel 5. Hoogte van de specifieke uitkering en uitkeringsplafond vanaf 2026
 
-1. De minister kan het bedrag van de uitkering zoals genoemd in [artikel 4, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2025-01-01&g=2025-01-01), bijstellen, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling van de arbeidsvoorwaarden.
+De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt vanaf 2026 maximaal:
 
-2. Indien de uitkering met toepassing van het eerste lid wordt bijgesteld, wordt 20% van het bedrag van de uitkering in aanmerking genomen voor een bijstelling in verband met de ontwikkeling van het prijspeil en wordt 80% van het bedrag van de uitkering in aanmerking genomen voor een bijstelling in verband met de ontwikkeling van de arbeidsvoorwaarden.
+- 1. Expertisenetwerken:
 
-3. Indien de uitkering met toepassing van het eerste lid wordt bijgesteld, kan de bevoorschotting overeenkomstig worden gewijzigd.
+| a) | Amsterdam | € 3.433.080,15 |
+| --- | --- | --- |
+| b) | Rotterdam | € 4.407.574,11 |
+| c) | Eindhoven | € 3.462.165,82 |
+| d) | Roermond | € 1.624.755,01 |
+| e) | Groningen | € 2.358.398,39 |
+| f) | Utrecht | € 2.476.996,05 |
+| g) | Nijmegen | € 2.851.557,52 |
+| h) | Enschede | € 1.885.472,95 |
+
+- 2. Academische centra:
+
+| a) | Amsterdam | € 941.053,02 |
+| --- | --- | --- |
+| b) | Groningen | € 1.453.242,50 |
+| c) | Leiden | € 840.822,36 |
+| d) | Nijmegen | € 1.676.077,18 |
+
+- 3. Plaatsingscoördinatie gesloten jeugdhulp:
+
+| a) | Arnhem | € 91.458,03 |
+| --- | --- | --- |
+| b) | Den Haag | € 142.268,04 |
+| c) | Leeuwarden | € 91.458,03 |
+| d) | Tilburg | € 116.863,04 |
+| e) | Utrecht | € 116.863,04 |
 
 ##### Artikel 6. Verlening
 
-1. De minister neemt jaarlijks vóór 1 februari een besluit omtrent de verlening van de specifieke uitkering voor een periode van minimaal een jaar.
+1. De minister neemt jaarlijks vóór 1 februari een besluit omtrent de verlening van de specifieke uitkering voor een periode van een jaar.
 
 2. Het besluit tot verlening vermeldt in elk geval het doel waarvoor de specifieke uitkering wordt verleend, het bedrag van de specifieke uitkering, de periode waarvoor de specifieke uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
@@ -199,11 +224,11 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 2. Daar waar sprake is van overdracht van middelen naar een medeoverheid is SiSa tussen medeoverheden van toepassing conform [artikel 17a, tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2025-01-01&g=2025-01-01), niet of niet geheel in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
+3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2025-10-01&g=2025-10-01), niet of niet geheel in het jaar of in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
 
 ##### Artikel 12. Vaststelling
 
-1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2025-01-01&g=2025-01-01), over de vaststelling van de specifieke uitkering.
+1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2025-10-01&g=2025-10-01), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend, zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering, wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
