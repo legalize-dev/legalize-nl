@@ -4,7 +4,7 @@ identifier: "BWBR0049064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-04-09"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049064"
 soort: "ministeriele-regeling"
@@ -232,9 +232,103 @@ In aanvulling op artikel 22.61a van de bruidsschat geldt dat artikel ook voor ac
 
 ##### Artikel 7.1a. (vervallen bij inwerkingtreding Energiewet)
 
-[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2025-04-09&g=2025-04-09) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
+[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2025-10-01&g=2025-10-01) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
 
 ### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
+
+### Hoofdstuk 6. Aanvullingen op [hoofdstuk 2 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&hoofdstuk=2)
+
+### Hoofdstuk 7. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.2a. (aanvulling artikel 22.37 – eisen voor de situering van mantelzorgwoningen)
+
+In aanvulling op artikel 22.37, tweede lid, van de bruidsschat is dat lid alleen van toepassing als een bijbehorend bouwwerk als bedoeld in dat lid niet voldoet aan de in artikel 22.36, onder a, onder 3°, van de bruidsschat gestelde eisen.
+
+##### Artikel 2.3a. (aanvulling artikel 22.54 – geluidregels niet van toepassing op dove gevels [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) of afwijken via [Interimwet stad-en-milieubenadering](https://wetten.overheid.nl/jci1.3:c:BWBR0019466))
+
+In aanvulling op artikel 22.54 van de bruidsschat is paragraaf 22.3.4 van de bruidsschat niet van toepassing op:
+
+- a. een bouwkundige constructie die op grond van [artikel 1b, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1b) niet als gevel werd beschouwd; en
+
+- b. een gevel waarvoor met toepassing van de [Interimwet stad-en-milieubenadering](https://wetten.overheid.nl/jci1.3:c:BWBR0019466) is afgeweken van de wettelijke normen voor geluid.
+
+##### Artikel 2.3b. (aanvulling artikel 22.55 – geluidregels niet van toepassing op mantelzorgwoningen)
+
+In aanvulling op artikel 22.55 van de bruidsschat is paragraaf 22.3.4 van de bruidsschat ook niet van toepassing op het geluid door een activiteit op een geluidgevoelig gebouw waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat.
+
+##### Artikel 2.4b. (aanvulling artikel 22.84 – regels trillingen niet van toepassing op mantelzorgwoningen)
+
+In aanvulling op artikel 22.84 van de bruidsschat is paragraaf 22.3.5 van de bruidsschat niet van toepassing op trillingen door een activiteit op een trillinggevoelig gebouw waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat.
+
+##### Artikel 2.4c. (aanvulling artikel 22.91 – geurregels niet van toepassing op mantelzorgwoningen)
+
+In aanvulling op artikel 22.91 van de bruidsschat zijn de waarden, bedoeld in de paragrafen 22.3.6.2 en 22.3.6.5 van de bruidsschat, en de afstanden, bedoeld in de paragrafen 22.3.6.2 en 22.3.6.4 en artikel 22.245 van de bruidsschat, ook niet van toepassing op de geur door een activiteit op een geurgevoelig gebouw of geurgevoelig object waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat.
+
+##### Artikel 2.4d. (aanvulling artikel 22.200 – geurregels voedingsmiddelenindustrie niet van toepassing op mantelzorgwoningen)
+
+In aanvulling op artikel 22.200 van de bruidsschat is paragraaf 22.3.16 van de bruidsschat ook niet van toepassing op de geur door een activiteit op een geurgevoelig gebouw waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat.
+
+##### Artikel 2.4e. (aanvulling artikel 22.215 – regels slagschaduw niet van toepassing op mantelzorgwoningen)
+
+In aanvulling op artikel 22.215 van de bruidsschat is paragraaf 22.3.18 van de bruidsschat ook niet van toepassing op slagschaduw door een windturbine in een verblijfsruimte van een slagschaduwgevoelig gebouw waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat.
+
+##### Artikel 2.4f. (aanvulling afdeling 22.4 – rekenregels)
+
+1. In aanvulling op afdeling 22.4 van de bruidsschat gelden de volgende regels bij het bepalen en het beoordelen van het geluid door een weg of spoorweg als bedoeld in die afdeling.
+
+2. Onder het geluid door een weg of spoorweg wordt verstaan: het geluid door de aan te leggen of te wijzigen weg of spoorweg.
+
+3. Het geluid door een weg of spoorweg wordt bepaald:
+
+- a. voor het geluid door een gemeenteweg of waterschapsweg op een geluidgevoelig gebouw: volgens [bijlage IVe bij de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe); en
+
+- b. voor het geluid door een lokale spoorweg die niet bij omgevingsverordening is aangewezen op een geluidgevoelig gebouw: volgens [bijlage IVf bij de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf).
+
+4. Voor een hogere waarde voor het geluid door een weg op de gevel van een geluidgevoelig gebouw die is vastgesteld op grond van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), de [Experimentenwet Stad en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0010041), de [Interimwet stad-en-milieubenadering](https://wetten.overheid.nl/jci1.3:c:BWBR0019466) of de [Spoedwet wegverbreding](https://wetten.overheid.nl/jci1.3:c:BWBR0015158), wordt:
+
+- a. de aftrek opgeteld die bij het vaststellen van die hogere waarde is toegepast op grond van [artikel 110g van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110g); en
+
+- b. een hogere waarde in dB(A) omgerekend tot een waarde in dB, door de getalswaarde van die hogere waarde te verminderen met het verschil tussen de heersende waarde in dB(A) en de heersende waarde in dB, waarbij het verschil op een geheel getal wordt afgerond en waarbij een halve eenheid wordt afgerond naar het meest dichtbijgelegen even getal.
+
+##### Artikel 2.4g. (aanvulling artikel 22.272 – toepassingsbereik binnenplanse omgevingsvergunning omgevingsplanactiviteit geluid weg of spoorweg)
+
+1. In aanvulling op artikel 22.272, eerste lid, van de bruidsschat is dat lid van de bruidsschat niet van toepassing als het gaat om een geluidgevoelig gebouw:
+
+- a. waarin huisvesting in verband met mantelzorg alleen is toegelaten op grond van artikel 22.36, aanhef en onder a of c, van de bruidsschat; of
+
+- b. dat is toegelaten voor een duur van niet meer dan tien jaar:
+
+- 1°. op grond van dit omgevingsplan, met uitzondering van het tijdelijke deel van dit omgevingsplan, bedoeld in [artikel 22.1, onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1); of
+
+- 2°. op grond van een omgevingsvergunning voor een omgevingsplanactiviteit die is aangevraagd na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
+
+2. In afwijking van artikel 22.272, tweede lid, onder f, onder 1°, van de bruidsschat wordt in plaats van ‘50 dB’ gelezen: 52 dB.
+
+3. In afwijking van artikel 22.272, tweede lid, onder f, onder 2° en 3°, van de bruidsschat wordt in plaats van ‘2 dB’ gelezen: 1 dB.
+
+4. In afwijking van artikel 22.272, tweede lid, onder f, onder 3°, van de bruidsschat wordt in plaats van ‘hoger is dan 48 dB’ gelezen: hoger is dan 51 dB.
+
+##### Artikel 2.4h. (aanvulling artikel 22.274 – aanvraagvereiste binnenplanse omgevingsvergunning omgevingsplanactiviteit geluid weg of spoorweg)
+
+In afwijking van artikel 22.274, onder a, onder 3°, van de bruidsschat wordt in plaats van ‘2 dB’ gelezen: 1 dB.
+
+##### Artikel 2.4i. (aanvulling artikel 22.275 – beoordelingsregel aanvraag binnenplanse omgevingsvergunning omgevingsplanactiviteit geluid weg of spoorweg)
+
+In aanvulling op artikel 22.275 van de bruidsschat wordt de omgevingsvergunning verleend als de grenswaarde alleen wordt overschreden op:
+
+- a. een niet-geluidgevoelige gevel;
+
+- b. een bouwkundige constructie die op grond van [artikel 1b, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1b) niet als gevel werd beschouwd; of
+
+- c. een gevel waarvoor met toepassing van de [Interimwet stad-en-milieubenadering](https://wetten.overheid.nl/jci1.3:c:BWBR0019466) is afgeweken van de wettelijke normen voor geluid.
+
+### Hoofdstuk 3. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277&hoofdstuk=3)
+
+### Hoofdstuk 4. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3)
+
+### Hoofdstuk 5. Aanvullingen op [hoofdstuk 4 van de Aanvullingswet grondeigendom Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043371&hoofdstuk=4)
 
 ### Hoofdstuk 6. Aanvullingen op [hoofdstuk 2 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&hoofdstuk=2)
 
