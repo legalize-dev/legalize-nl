@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-09-24"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -40,9 +40,9 @@ Gelet op [artikel 3, derde lid, van de Kaderwet EZK- en LNV-subsidies](https://w
 
 Besluiten:
 
-##### Artikel 1. Openstelling [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 1. Openstelling [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
-1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
 2. Als subsidieplafond wordt per in kolom 5 genoemde periode het daarbij behorende in kolom 6 genoemde bedrag vastgesteld.
 
@@ -61,10 +61,11 @@ Besluiten:
 | [Titel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.19): Behoud graslandareaal | [2.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.19.2) | Landbouwer, bedoeld in [artikel 2.19.3, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.19.3) | Behoud graslandareaal | Behoud graslandareaal | 14-07-2025 t/m 25-08-2025 | € 160.000.000 |
 | [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | Warmte-infrastructuur glastuinbouw | 31-01-2025 t/m 31-03-2025 | € 90.000.000 |
 | [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
-| [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.25.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
-| [Titel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26): Sanering garnalenvisserij | [Artikel 2.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) | Garnalenvissers |   |   | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
+| [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
+| [Titel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26): Sanering garnalenvisserij | [artikel 2.26.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) | Garnalenvissers |   |   | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
 | [Titel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.4): MKB-innovatiestimulering topsectoren | [3.4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.4.20) | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 08-04-2025 t/m 27-05-2025 | € 3.550.000 |
 |   |   | MIT-R&D-samenwerkingsprojecten |   |   | 10-06-2025 t/m 16-09-2025 | € 3.115.000, waarvan ten hoogste € 1.557.500 voor MIT-R&D-samenwerkingsprojecten groot |
+| [Titel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.5): Connecting Europe Facility-projecten (CEF-projecten) | [artikel 3.5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.5.2) |   | Een Nederlands CEF-project op het deelgebied ‘Quantum Communication Infrastructure’, opgenomen in het toepasselijke werkprogramma als bedoeld in de CEF call ‘Quantum Communication Infrastructure’, te raadplegen via [https://hadea.ec.europa.eu/calls-proposals/quantum-communication-infrastructure_en](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhadea.ec.europa.eu%2Fcalls-proposals%2Fquantum-communication-infrastructure_en&data=05%7C02%7Cs.dewit%40minezk.nl%7Ca3a46f81e9e84d089ed008dd0491844a%7C1321633ef6b944e2a44f59b9d264ecb7%7C0%7C0%7C638671745219795759%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qO9YqTLFLU08vmJn%2FDROvOuvsldl1t3wm6Azeu1yUa8%3D&reserved=0) | Een Nederlands CEF-project op het deelgebied ‘Quantum Communication Infrastructure’, opgenomen in het toepasselijke werkprogramma als bedoeld in de CEF call ‘Quantum Communication Infrastructure’, te raadplegen via [https://hadea.ec.europa.eu/calls-proposals/quantum-communication-infrastructure_en](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhadea.ec.europa.eu%2Fcalls-proposals%2Fquantum-communication-infrastructure_en&data=05%7C02%7Cs.dewit%40minezk.nl%7Ca3a46f81e9e84d089ed008dd0491844a%7C1321633ef6b944e2a44f59b9d264ecb7%7C0%7C0%7C638671745219795759%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qO9YqTLFLU08vmJn%2FDROvOuvsldl1t3wm6Azeu1yUa8%3D&reserved=0) | 08-10-2025 t/m 31-10-2025 | € 5.200.000 |
 | [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   |   | 24-10-2024 t/m 30-01-2025 | € 9.500.000 |
 | [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | Innovatie (internationaal) | 01-01-2025 t/m 21-01-2025 | € 12.175.000 |
 |   | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | Innovatie (internationaal) | 07-07-2025 t/m 05-08-2025 | € 11.859.000 |
@@ -139,9 +140,9 @@ Besluiten:
 |   | [4.12.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsmaatregelen | Flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 6.750.000 |
 | [Titel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.13): Nationale Investeringsmodule Klimaatprojecten Industrie (NIKI) | [4.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.13.2) |   |   |   | 01-09-2025 t/m 30-9-2025 | € 211.000.000 |
 
-##### Artikel 2. Rentepercentages [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
-De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.9), bedragen voor de in 2025 aangevraagde subsidies voor innovatiekredieten:
+De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.9), bedragen voor de in 2025 aangevraagde subsidies voor innovatiekredieten:
 
 - a. het basispercentage: 3 procent per jaar;
 
@@ -149,9 +150,9 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 
 - c. de opslag voor klinische ontwikkelingsprojecten: 25 procent.
 
-##### Artikel 3. Openstelling [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
+##### Artikel 3. Openstelling [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
 
-1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
 
 2. Als subsidieplafond wordt per in kolom 5 genoemde periode het daarbij behorende in kolom 6 genoemde bedrag vastgesteld.
 
@@ -160,6 +161,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
 | [Paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.4): Innovatieve projecten in de aquacultuur | [3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.4.1) |   | Innovatie in de aquacultuur | 30-04-2025 t/m 29-08-2025 | € 3.300.000 |
 | [Paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.5): Innovatieve projecten in de visserij | [3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.5.1) |   | Innovatie in de visserij | 30-04-2025 t/m 29-08-2025 | € 7.700.000 |
+| [Paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.6): Vernieuwingen in de keten van visserij en aquacultuur | [3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.6.1) |   | Bevordering van de afzet, de kwaliteit en de toegevoegde waarde van visserij- en aquacultuurproducten en de verwerking van die producten | 20-10-2025 t/m 22-1-2026 | € 1.800.000 |
 | [Paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.7): Investeringen in een blackbox-systeem voor de garnalenvisserij | [3.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.7.2) |   | Het bijdragen tot een goede milieutoestand via uitvoering en monitoring van beschermde mariene gebieden. | 02-06-2025 t/m 31-07-2025 | € 1.500.000 |
 | [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.260.000 |
 | [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
@@ -187,6 +189,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2025.
 
 ##### Artikel 6. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling openstelling EZK- en LNV-subsidies 2025.
+Deze regeling wordt aangehaald als: Regeling openstelling EZ-, LVVN- en KGG-subsidies 2025.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
