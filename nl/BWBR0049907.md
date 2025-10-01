@@ -4,7 +4,7 @@ identifier: "BWBR0049907"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2024-07-02"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049907"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **Erfgoedprogramma:** programma van de provincie Groningen, de Nationaal Coördinator Groningen, het Ministerie van Onderwijs, Cultuur en Wetenschap, de Rijksdienst voor het Cultureel Erfgoed en de aardbevingsgemeenten waarin deze partijen een gezamenlijk erfgoedbeleid formuleren voor het behouden, versterken en doorontwikkelen van het Gronings erfgoed en de gebiedsidentiteit, zowel tijdens als na uitvoering van schadeherstel en de versterkingsopgave;
 
-- **gemeente:** één van de gemeenten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=3&z=2024-07-02&g=2024-07-02);
+- **gemeente:** één van de gemeenten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=3&z=2025-10-01&g=2025-10-01);
 
 - **Minister:** Minister van Economische Zaken en Klimaat;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitkeringsperiode:** periode van 2024 tot en met 2030;
 
-- **uitvoeringsperiode:** de periode genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- **uitvoeringsperiode:** de periode genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
 - **versterking:** versterking van een woning in het kader van het bouwkundig versterkingsprogramma als gevolg van de gaswinning Groningerveld;
 
@@ -100,55 +100,55 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 - a. De gemeente:
 
-- 1°. Eemsdelta, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- 1°. Eemsdelta, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- 2°. Het Hogeland, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- 2°. Het Hogeland, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- 3°. Midden-Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- 3°. Midden-Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- 4°. Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- 4°. Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, d, e, h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- 5°. Oldambt, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, e, h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02); en
+- 5°. Oldambt, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a, b, c, e, h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01); en
 
-- 6°. Westerkwartier voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02); en
+- 6°. Westerkwartier voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01); en
 
-- b. de provincie Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel e, f, g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02).
+- b. de provincie Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel e, f, g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
 ##### Artikel 4. Uitkeringsplafond per activiteit
 
-1. Voor de activiteiten, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02), wordt in totaal voor alle gemeenten en de provincie samen een bedrag van € 1.333.900.000, inclusief BTW, beschikbaar gesteld.
+1. Voor de activiteiten, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01), wordt in totaal voor alle gemeenten en de provincie samen een bedrag van € 1.649.100.000, inclusief BTW, beschikbaar gesteld.
 
-2. Het besteedbare bedrag, genoemd in het eerste lid, wordt als volgt verdeeld over de activiteiten genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02), inclusief BTW:
+2. Het besteedbare bedrag, genoemd in het eerste lid, wordt als volgt verdeeld over de activiteiten genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01), inclusief BTW:
 
-- a. € 132,7 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- a. € 132,7 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- b. € 200 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- b. € 200 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- c. € 229,5 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- c. € 229,5 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- d. € 143,8 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- d. € 242 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- e. € 93,7 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- e. € 93,7 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- f. € 27,2 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- f. € 57,2 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- g. € 73 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- g. € 73 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- h. € 43 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02);
+- h. € 43 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- i. € 59,8 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02); en
+- i. € 59,8 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01); en
 
-- j. € 331,2 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02).
+- j. € 518,2 miljoen voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
 3. De minister kan besluiten een gedeelte van het besteedbare bedrag voor de activiteiten genoemd in het tweede lid, onderdeel a, toe te kennen aan het besteedbare bedrag voor de activiteiten, bedoeld in het tweede lid, onderdeel h, indien het bedrag voor de activiteiten, genoemd in het tweede lid, onderdeel h, niet volledig toereikend blijkt voor de uitvoering van de activiteiten waarvoor het is verstrekt. Gemeenten en provincie informeren de minister schriftelijk over de noodzaak hiervan.
 
-4. De specifieke uitkering wordt niet verstrekt voor btw die verschuldigd is over kosten voor de uitvoering van activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02), voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
+4. De specifieke uitkering wordt niet verstrekt voor btw die verschuldigd is over kosten voor de uitvoering van activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01), voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-##### Artikel 5. Aanvraag, verdeling en bevoorschotting van de specifieke uitkeringen, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02)
+##### Artikel 5. Aanvraag, verdeling en bevoorschotting van de specifieke uitkeringen, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
 
-1. Een gemeente of provincie doet uiterlijk op 1 oktober 2024 eenmalig een aanvraag voor het verstrekken van een specifieke uitkering voor de gehele uitkeringsperiode, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02).
+1. Een gemeente of provincie doet uiterlijk op 1 oktober 2024 eenmalig een aanvraag voor het verstrekken van een specifieke uitkering voor de gehele uitkeringsperiode, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
-2. De gemeenten en provincie bepalen onderling de van toepassing zijnde verdeelsleutel voor de te verstrekken specifieke uitkering per gemeente en provincie, per activiteit genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02). Indien de minister een besluit neemt over herverdeling van gelden, als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=4&z=2024-07-02&g=2024-07-02), dan bepalen de gemeenten en provincie opnieuw de hoogte en verdeling van de te verstrekken specifieke uitkering voor de onderdelen a en h.
+2. De gemeenten en provincie bepalen onderling de van toepassing zijnde verdeelsleutel voor de te verstrekken specifieke uitkering per gemeente en provincie, per activiteit genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01). Indien de minister een besluit neemt over herverdeling van gelden, als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=4&z=2025-10-01&g=2025-10-01), dan bepalen de gemeenten en provincie opnieuw de hoogte en verdeling van de te verstrekken specifieke uitkering voor de onderdelen a en h.
 
 3. De minister kan voorschotten verlenen tot 100% van de te verstrekken specifieke uitkering aan de gemeente of provincie.
 
@@ -158,9 +158,9 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 6. In afwijking van het vijfde lid vindt de betaling van het voorschot voor 2024 uiterlijk plaats in december 2024.
 
-##### Artikel 6. Aanvraag, verdeling en bevoorschotting van de specifieke uitkering, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02)
+##### Artikel 6. Aanvraag, verdeling en bevoorschotting van de specifieke uitkering, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
 
-1. Een gemeente of provincie doet in de kalenderjaren 2024 tot en met 2028, hoogstens twee maal per kalenderjaar, uiterlijk op 1 maart respectievelijk 1 oktober, een aanvraag voor het verstrekken van een specifieke uitkering voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02).
+1. Een gemeente of provincie doet in de kalenderjaren 2024 tot en met 2028, hoogstens twee maal per kalenderjaar, uiterlijk op 1 maart respectievelijk 1 oktober, een aanvraag voor het verstrekken van een specifieke uitkering voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
 2. De minister kan voorschotten verlenen tot 100% van de te verstrekken specifieke uitkering aan de gemeente of provincie.
 
@@ -180,13 +180,13 @@ Een aanvraag voor een specifieke uitkering bevat in ieder geval:
 
 - e. de datum van de aanvraag;
 
-- f. indien het een aanvraag voor de specifieke uitkering voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02) betreft, tevens:
+- f. indien het een aanvraag voor de specifieke uitkering voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01) betreft, tevens:
 
 - i. de gewenste bevoorschotting op basis van het kasritme, zijnde de gewenste verdeling van de bevoorschotting verdeeld over zeven jaar; en
 
-- ii. informatie over de verdeelsleutel bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=5&z=2024-07-02&g=2024-07-02);
+- ii. informatie over de verdeelsleutel bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=5&z=2025-10-01&g=2025-10-01);
 
-- g. indien het een aanvraag voor de specifieke uitkering voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2024-07-02&g=2024-07-02) betreft, tevens:
+- g. indien het een aanvraag voor de specifieke uitkering voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01) betreft, tevens:
 
 - i. een omschrijving van de projecten die met de specifieke uitkering gefinancierd zullen worden, onder voorwaarde dat de desbetreffende projecten zijn goedgekeurd door het Algemeen of Dagelijks Bestuur van Nationaal Programma Groningen; en
 
@@ -204,7 +204,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - a. er gegronde redenen bestaan om aan te nemen dat de gemeente of provincie niet zal voldoen aan deze regeling; of
 
-- b. het aangevraagde bedrag hoger is dan het bedrag waar de desbetreffende gemeente of provincie op basis van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=5&z=2024-07-02&g=2024-07-02), genoemde verdeelsleutel aanspraak op kan maken.
+- b. het aangevraagde bedrag hoger is dan het bedrag waar de desbetreffende gemeente of provincie op basis van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=5&z=2025-10-01&g=2025-10-01), genoemde verdeelsleutel aanspraak op kan maken.
 
 ##### Artikel 10. Informatievoorziening na verlening
 
