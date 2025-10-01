@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2025-07-22"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-10-01&g=2025-10-01) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-10-01&g=2025-10-01), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-07-22&g=2025-07-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2025-07-22&g=2025-07-22).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-10-01&g=2025-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2025-10-01&g=2025-10-01).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -276,88 +276,78 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 | Code | Eenmalige handeling | Vergoeding |
 | --- | --- | --- |
 | **Onderdeel Wft.D1:** | **De behandeling van een aanvraag tot verlening van een vergunning** |   |
-| Wft.D1.01 | [artikel 2:3a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) (uitoefening van het bedrijf van betaaldienstverlener) | € 6.800 |
-| Wft.D1.02 | [artikel 2:4, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:4) (uitoefening van het bedrijf van clearinginstelling) | € 44.300 |
-| Wft.D1.03 | [artikel 2:6, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6) (uitoefening van het bedrijf van clearinginstelling vanuit een in Nederland gelegen bijkantoor) | € 44.300 |
-| Wft.D1.04 | [artikel 2:11, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) (uitoefening van het bedrijf van bank waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in [artikel 3:269 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:269), en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is) | € 44.300 |
-| Wft.D1.05 | [artikel 2:10a van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) (uitoefening van het bedrijf van elektronischgeldinstelling) | € 6.800 |
-| Wft.D1.06 | artikel 2:11, eerste lid, van de Wft, (uitoefening van het bedrijf van bank anders dan bedoeld onder Wft.D1.04) | € 31.500 |
-| Wft.D1.07 | [artikel 2:20, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:20) (uitoefening van het bedrijf van bank vanuit een in Nederland gelegen bijkantoor waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in artikel 3:269 van de Wft, en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is) | € 44.300 |
-| Wft.D1.08 | artikel 2:20, eerste lid, van de Wft (uitoefening van het bedrijf van bank vanuit een in Nederland gelegen bijkantoor anders dan bedoeld onder Wft.D1.07) | € 31.500 |
-| Wft. D1.09 | [artikel 2:54o van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o) (uitoefening van het bedrijf van kredietunie) | € 8.500,- |
-| Wft.D1.10 | [artikel 2:26a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26a) (uitoefening van het bedrijf van herverzekeraar) | € 26.000 |
-| Wft.D1.11 | [artikel 2:26d, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26d) (uitoefening van het bedrijf van herverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 22.400 |
-| Wft.D1.12 | [artikel 2:27, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar) | € 26.000 |
-| Wft.D1.13 | [artikel 2:40 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 22.400 |
-| Wft.D1.14 | [artikel 2:48, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar met beperkte risico-omvang) | € 5.000 |
-| Wft.D1.15 | artikel 2:48, eerste lid, van de Wft (uitoefening van het bedrijf van natura-uitvaartverzekeraar) | € 3.100 |
-| Wft.D1.16 | [artikel 2:50, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar met beperkte risico-omvang) | € 5.000 |
-| Wft.D1.17 | artikel 2:50, eerste lid, van de Wft (uitoefening van het bedrijf van natura-uitvaartverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 2.800 |
-| Wft.D1.18 | [artikel 2:54a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 26.000 |
-| Wft.D1.19 | [artikel 2:54d, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54d) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 22.400 |
-| Wft.D1.20 | [artikelen 2:54i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) en [2:54l van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) (uitoefening van het bedrijf van wisselinstelling) | € 4.400 |
-| Wft.D1.21 | [artikel 2:54g, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54g) (uitoefenen van het bedrijf van premiepensioeninstelling) | € 26.000 |
-| Wft.D1.22 | [artikel 3:4, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4) waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in artikel 3:269 van de Wft, en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is | € 44.300 |
-| Wft.D1.23 | artikel 3:4, eerste lid, van de Wft, anders dan bedoeld onder Wft.D1.22 | € 31.500 |
+| Wft.D1.01 | [artikel 2:3a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) (uitoefening van het bedrijf van betaaldienstverlener) | € 10.000 |
+| Wft.D1.02 | [artikel 2:4, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:4) (uitoefening van het bedrijf van clearinginstelling) | € 63.700 |
+| Wft.D1.03 | [artikel 2:6, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6) (uitoefening van het bedrijf van clearinginstelling vanuit een in Nederland gelegen bijkantoor) | € 63.700 |
+| Wft.D1.04 | [artikel 2:11, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) (uitoefening van het bedrijf van bank waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in [artikel 3:269 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:269), en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is) | € 63.700 |
+| Wft.D1.05 | [artikel 2:10a van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) (uitoefening van het bedrijf van elektronischgeldinstelling) | € 10.000 |
+| Wft.D1.06 | [artikel 2:11, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) (uitoefening van het bedrijf van bank anders dan bedoeld onder Wft.D1.04) | € 45.300 |
+| Wft.D1.07 | [artikel 2:20, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:20) (uitoefening van het bedrijf van bank vanuit een in Nederland gelegen bijkantoor waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in artikel 3:269 van de Wft, en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is) | € 63.700 |
+| Wft.D1.08 | artikel 2:20, eerste lid, van de Wft (uitoefening van het bedrijf van bank vanuit een in Nederland gelegen bijkantoor anders dan bedoeld onder Wft.D1.07) | € 45.300 |
+| Wft.D1.09 | [artikel 2:54o van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o) (uitoefening van het bedrijf van kredietunie) | € 12.200 |
+| Wft.D1.10 | [artikel 2:26a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26a) (uitoefening van het bedrijf van herverzekeraar) | € 37.400 |
+| Wft.D1.11 | [artikel 2:26d, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26d) (uitoefening van het bedrijf van herverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 32.200 |
+| Wft.D1.12 | [artikel 2:27, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar) | € 37.400 |
+| Wft.D1.13 | [artikel 2:40 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 32.200 |
+| Wft.D1.14 | [artikel 2:48, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar met beperkte risico-omvang) | € 7.200 |
+| Wft.D1.15 | artikel 2:48, eerste lid, van de Wft (uitoefening van het bedrijf van natura-uitvaartverzekeraar) | € 4.500 |
+| Wft.D1.16 | [artikel 2:50, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) (uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar met beperkte risico-omvang) | € 7.200 |
+| Wft.D1.17 | artikel 2:50, eerste lid, van de Wft (uitoefening van het bedrijf van natura-uitvaartverzekeraar vanuit een in Nederland gelegen bijkantoor) | € 4.000 |
+| Wft.D1.18 | [artikel 2:54a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 37.400 |
+| Wft.D1.19 | [artikel 2:54d, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54d) (uitoefening van het bedrijf van entiteit voor risico-acceptatie) | € 32.200 |
+| Wft.D1.20 | [artikelen 2:54i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) en [2:54l van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) (uitoefening van het bedrijf van wisselinstelling) | € 6.300 |
+| Wft.D1.21 | [artikel 2:54g, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54g) (uitoefenen van het bedrijf van premiepensioeninstelling) | € 37.400 |
+| Wft.D1.22 | [artikel 3:4, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4) waarop het bepaalde ten aanzien van de solvabiliteit, de bedrijfsvoering, bedoeld in artikel 3:269 van de Wft, en de liquiditeit op basis van subconsolidatie of op individuele basis van toepassing is | € 63.700 |
+| Wft.D1.23 | artikel 3:4, eerste lid, van de Wft, anders dan bedoeld onder Wft.D1.22 | € 45.300 |
 | **Onderdeel Wft.D2:** | **De behandeling van een aanvraag tot wijziging van een vergunning als bedoeld onder** |   |
-| Wft.D2.01 | Wft.D1.01, Wft. D1.09 of Wft.D1.05 | € 1.800 |
-| Wft.D2.02 | Wft.D1.10, Wft.D1.11, Wft.D1.12, Wft.D1.14, Wft.D1.18, Wft.D1.19 of Wft.D1.21 | € 9.600 |
-| Wft.D2.03 | Wft.D1.02, Wft.D1.03, Wft.D1.04, Wft.D1.07 of Wft.D1.22 | € 44.300 |
-| Wft.D2.04 | Wft.D1.06, Wft.D1.08 of Wft.D1.23 | € 31.500 |
+| Wft.D2.01 | Wft.D1.01, Wft. D1.09 of Wft.D1.05 | € 2.600 |
+| Wft.D2.02 | Wft.D1.10, Wft.D1.11, Wft.D1.12, Wft.D1.14, Wft.D1.18, Wft.D1.19 of Wft.D1.21 | € 13.800 |
+| Wft.D2.03 | Wft.D1.02, Wft.D1.03, Wft.D1.04, Wft.D1.07 of Wft.D1.22 | € 63.700 |
+| Wft.D2.04 | Wft.D1.06, Wft.D1.08 of Wft.D1.23 | € 45.300 |
 | **Onderdeel Wft.D3:** | **Behandeling aanvraag tot verlening ontheffing als bedoeld in** |   |
-| Wft.D3.01 | [artikelen 2:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:23), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2), [3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), of [3:7 vierde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) | € 3.600 |
+| Wft.D3.01 | [artikelen 2:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:23), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2), [3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), of [3:7 vierde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) | € 5.200 |
 | **Onderdeel Wft.D4:** | **De behandeling van een aanvraag tot verlening van een verklaring van geen bezwaar als bedoeld in** |   |
-| Wft.D4.01 | [artikel 3:95, eerste lid, aanhef en onderdeel b, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95), indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.02 | artikel 3:95, eerste lid, aanhef en onderdeel b, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.03 | artikel 3:95, eerste lid, aanhef en onderdeel b, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30 500 |
-| Wft.D4.04 | artikel 3:95, eerste lid, aanhef en onderdeel c, van de Wft | € 1.600 |
-| Wft.D4.05 | artikel 3:95, eerste lid, aanhef en onderdeel d, van de Wft | € 1.600 |
-| Wft.D4.06 | artikel 3:95, eerste lid, aanhef en onderdeel e, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.07 | artikel 3:95, eerste lid, aanhef en onderdeel e, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.08 | artikel 3:95, eerste lid, aanhef en onderdeel e, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30 500 |
-| Wft.D4.09 | artikel 3:95, eerste lid, aanhef en onderdeel f, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.10 | artikel 3:95, eerste lid, aanhef en onderdeel f, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.11 | artikel 3:95, eerste lid, aanhef en onderdeel f, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
-| Wft.D4.12 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.13 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.14 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30 500 |
-| Wft.D4.15 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.16 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.17 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
-| Wft.D4.18 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.19 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.20 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
-| Wft.D4.21 | [artikel 3:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96), indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.22 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.23 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
-| **Onderdeel Wft.D5:** | **behandeling van een aanvraag tot verlening van een verklaring van ondertoezichtstelling als bedoeld in** |   |
-| Wft.D5.01 | [artikel 3:110, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) | € 44.300 |
+| Wft.D4.01 | [artikel 3:95, eerste lid, aanhef en onderdeel b, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) | € 7.000 |
+| Wft.D4.02 | artikel 3:95, eerste lid, aanhef en onderdeel c, van de Wft | € 2.300 |
+| Wft.D4.03 | artikel 3:95, eerste lid, aanhef en onderdeel d, van de Wft | € 2.300 |
+| Wft.D4.04 | artikel 3:95, eerste lid, aanhef en onderdeel e, van de Wft | € 7.000 |
+| Wft.D4.05 | artikel 3:95, eerste lid, aanhef en onderdeel f, van de Wft | € 7.000 |
+| Wft.D4.06 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft | € 7.000 |
+| Wft.D4.07 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft | € 7.000 |
+| Wft.D4.08 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft | € 7.000 |
+| Wft.D4.09 | [artikel 3:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) | € 7.000 |
+| Wft.D4.D10 | [artikel 3:97, eerste lid, aanhef en onderdeel a, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97) | € 7.000 |
+| Wft.D4.D11 | artikel 3:97, eerste lid, aanhef en onderdeel b, van de Wft | € 7.000 |
+| **Onderdeel Wft.D5:** | **Behandeling van een aanvraag tot verlening van een verklaring van ondertoezichtstelling als bedoeld in** |   |
+| Wft.D5.01 | [artikel 3:110, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) | € 63.700 |
 | **Onderdeel Wft.D6:** | **Inschrijving als bedoeld in** |   |
-| Wft.D6.01 | [1:107, tweede lid, aanhef en onderdeel a, onder 2°, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) van een onderlinge waarborgmaatschappij die een verklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&artikel=3) of [4 van het Besluit reikwijdtebepalingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&artikel=4) heeft aangevraagd | € 1.800 |
-| **Onderdeel Wft.D7:** | **toetsing persoon niet in combinatie met een aanvraag of vergunning** |   |
-| Wft.D7.01 | van een elektronischgeldinstelling, wisselinstelling of vrijgestelde onderlinge waarborgmaatschappij, van wie de geschiktheid op grond van [artikel 3:8 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8)dient te worden vastgesteld | € 800 |
-| Wft.D7.02 | anders dan bedoeld onder Wft.D7.01, van wie de geschiktheid op grond van artikel 3:8 van de Wft dient te worden vastgesteld | € 2.000 |
-| Wft.D7.03 | Van wie de betrouwbaarheid op grond van [artikel 3:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) dient te worden vastgesteld | € 1.100 |
-| Wft.D7.04 | van een premiepensioeninstelling, van wie de betrouwbaarheid op grond van [artikel 5, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=5) dient te worden vastgesteld | € 1.100 |
-| Wft.D7.05 | van een wisselinstelling, van wie de betrouwbaarheid en de geschiktheid op grond van [artikel 3:9a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9a) dient te worden vastgesteld | € 1.300 |
+| Wft.D6.01 | [1:107, tweede lid, aanhef en onderdeel a, onder 2°, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) van een onderlinge waarborgmaatschappij die een verklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&artikel=3) of [4 van het Besluit reikwijdtebepalingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&artikel=4) heeft aangevraagd | € 2.600 |
+| **Onderdeel Wft.D7:** | **Toetsing persoon, al dan niet in combinatie met een aanvraag** |   |
+| Wft.D7.01 | van een elektronischgeldinstelling, wisselinstelling of vrijgestelde onderlinge waarborgmaatschappij, van wie de geschiktheid wordt vastgesteld op grond van de [artikel 3:8 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) of op grond van een verordening als bedoeld in [artikel 1:24, derde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:24) | € 1.100 |
+| Wft.D7.02 | van wie de geschiktheid, niet zijnde een persoon als bedoeld onder Wft.D7.01, wordt vastgesteld op grond van artikel 3:8 van de Wft of op grond van een verordening als bedoeld in artikel 1:24, derde lid, van de Wft | € 2.800 |
+| Wft.D7.03 | van wie de betrouwbaarheid wordt vastgesteld op grond van de [artikelen 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9), [3:99](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) en [3:100, eerste lid, onderdeel a, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100) of op grond van een verordening als bedoeld in artikel 1:24, derde lid, van de Wft | € 1.500 |
+| Wft.D7.04 | van een premiepensioeninstelling, van wie de betrouwbaarheid wordt vastgesteld op grond van [artikel 5, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=5) | € 1.500 |
+| Wft.D7.05 | van een wisselinstelling, van wie de betrouwbaarheid en de geschiktheid wordt vastgesteld op grond van [artikel 3:9a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9a) | € 1.800 |
+| Wft.D7.06 | van wie de reputatie wordt vastgesteld als bedoeld in [artikel 3:99a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99a) en 3:100, onderdeel b, van de Wft of op grond van een verordening als bedoeld in artikel 1:24, derde lid, van de Wft | € 1.800 |
 | **Onderdeel PW.D1** | **Behandeling aanvraag vergunning Pensioenwet** |   |
-| PW.D1.01 | [artikel 112a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=112a) (uitoefening van het bedrijf van algemeen pensioenfonds) | € 26.000 |
+| PW.D1.01 | [artikel 112a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=112a) (uitoefening van het bedrijf van algemeen pensioenfonds) | € 37.400 |
 | **Onderdeel Wtt.D1:** | **Behandeling aanvraag vergunning trustkantoor als bedoeld in** |   |
-| Wtt.D1.01 | [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), of [artikel 4 van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4) | € 4.500 |
+| Wtt.D1.01 | [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), of [artikel 4 van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4) | € 6.500 |
 | **Onderdeel Wtt.D2:** | **Behandeling van aanvraag verlening ontheffing trustkantoor als bedoeld in** |   |
-| Wtt.D2.01 | [artikel 5, tweede lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=5) | € 1.600 |
-| **Onderdeel** **Wtt.D3:** | **Toetsing persoon, niet in combinatie met een vergunning, als bedoeld in** |   |
-| Wtt.D3.01 | [Artikel 10, eerste lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=10) | € 2.000 |
-| W66.D3.02 | Artikel 10, tweede en derde lid, van de Wet toezicht trustkantoren 2018 | € 1.100 |
-| Wtt.D3.03 | Artikel 10, vierde lid, van de Wet toezicht trustkantoren 2018 | € 1.300 |
+| Wtt.D2.01 | [artikel 5, tweede lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=5) | € 2.300 |
+| **Onderdeel Wtt.D3:** | **Toetsing persoon, al niet dan niet in combinatie met een aanvraag** |   |
+| Wtt.D3.01 | van wie de geschiktheid wordt vastgesteld op grond van [artikel 10, eerste lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=10) | € 2.800 |
+| Wtt.D3.02 | van wie de betrouwbaarheid wordt vastgesteld op grond van artikel 10, tweede en derde lid, van de Wet toezicht trustkantoren 2018 | € 1.500 |
+| Wtt.D3.03 | van wie de reputatie wordt vastgesteld als bedoeld in artikel 10, vierde lid, van de Wet toezicht trustkantoren 2018 | € 1.800 |
 | **Onderdeel EU.D1:** | **MiCAR** |   |
-| EU.D1.01 | De beoordeling van een voorgenomen verwerving als bedoeld in artikel 41, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (gekwalificeerde deelneming in aanbieder van activagerelateerde tokens) | € 1.600 |
-| EU.D1.02 | De behandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 21, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (uitgifte van activagerelateerde tokens) | € 10.000 |
-| EU.D1.03 | De behandeling van een kennisgeving als bedoeld in artikel 48, zesde lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (uitgifte van e-moneytokens door een elektronischgeldinstelling of bank) | € 3.200 |
-| EU.D1.04 | De toetsing van de kennis, vaardigheden, ervaring en betrouwbaarheid van een lid van een leidinggevend orgaan als bedoeld in artikel 34, tweede lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) | € 1.900 |
-| EU.D1.05 | De toetsing van de betrouwbaarheid van een aandeelhouder of lid met een gekwalificeerde deelneming als bedoeld in artikel 34, vierde lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) | € 1.100 |
-| EU.D1.06 | De toetsing van de betrouwbaarheid van een aandeelhouder of lid met een gekwalificeerde deelneming als bedoeld in artikel 68, tweede lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) | € 1.100 |
-| EU.D1.07 | De beoordeling van een voorgenomen verwerving als bedoeld in artikel 83, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (gekwalificeerde deelneming in een aanbieder van cryptoactivadiensten) | € 1.600 |
+| EU.D1.01 | De beoordeling van een voorgenomen verwerving als bedoeld in artikel 41, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (gekwalificeerde deelneming in aanbieder van activagerelateerde tokens) | € 2.300 |
+| EU.D1.02 | De behandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 21, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (uitgifte van activagerelateerde tokens) | € 14.400 |
+| EU.D1.03 | De behandeling van een kennisgeving als bedoeld in artikel 48, zesde lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (uitgifte van e-moneytokens door een elektronischgeldinstelling of bank) | € 4.600 |
+| EU.D1.04 | De toetsing van de kennis, vaardigheden, ervaring en betrouwbaarheid van een lid van een leidinggevend orgaan als bedoeld in artikel 34, tweede lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) | € 2.700 |
+| EU.D1.05 | De toetsing van de betrouwbaarheid van een aandeelhouder of lid met een gekwalificeerde deelneming als bedoeld in artikel 34, vierde lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR), al dan niet in combinatie met een aanvraag. | € 1.600 |
+| EU.D1.06 | De toetsing van de betrouwbaarheid van een aandeelhouder of lid met een gekwalificeerde deelneming als bedoeld in artikel 68, tweede lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR), al dan niet in combinatie met een aanvraag. | € 1.600 |
+| EU.D1.07 | De beoordeling van een voorgenomen verwerving als bedoeld in artikel 83, eerste lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR) (gekwalificeerde deelneming in een aanbieder van cryptoactivadiensten) | € 2.300 |
+| EU.D1.08 | De toetsing van de reputatie van de voorgenomen verwerver als bedoeld in artikel 42, tweede lid, of artikel 84, tweede lid, van [verordening (EU) 2023/1114](32023R1114) (MiCAR), al dan niet in combinatie met een aanvraag. | € 1.800 |
 
 #### § 4. Slotbepalingen
 
