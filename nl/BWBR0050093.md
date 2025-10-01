@@ -4,7 +4,7 @@ identifier: "BWBR0050093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2024-08-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050093"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **certificerende instelling:** de certificerende instelling, bedoeld in [artikel 3.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **KMI:** het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2024-08-01&g=2024-08-01);
+- –. **KMI:** het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2025-10-01&g=2025-10-01);
 
 - –. **Staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid.
 
@@ -58,13 +58,13 @@ Het Keurmerkinstituut B.V., gevestigd te Zoetermeer, wordt aangewezen als certif
 
 ##### Artikel 3
 
-Onverminderd [artikel 3.1.5 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.5) kan de aanwijzing in ieder geval worden ingetrokken indien KMI niet voldoet aan de bij of krachtens de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde voorschriften of de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=4&z=2024-08-01&g=2024-08-01), of zich dusdanig gewijzigde omstandigheden voordoen die ertoe leiden dat er onvoldoende grondslag is om de aanwijzing voort te zetten.
+Onverminderd [artikel 3.1.5 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.5) kan de aanwijzing in ieder geval worden ingetrokken indien KMI niet voldoet aan de bij of krachtens de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde voorschriften of de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=4&z=2025-10-01&g=2025-10-01), of zich dusdanig gewijzigde omstandigheden voordoen die ertoe leiden dat er onvoldoende grondslag is om de aanwijzing voort te zetten.
 
 ##### Artikel 4
 
 Aan de aanwijzing zijn de volgende voorwaarden verbonden:
 
-- a. KMI past bij de besluitvorming inzake de afgifte van een certificaat of voorlopig certificaat het certificatieschema toe dat als bijlage bij dit besluit is opgenomen;
+- a. KMI past bij de besluitvorming inzake de afgifte van een certificaat of voorlopig certificaat het certificatieschema toe zoals dat is vastgesteld op grond van [artikel 3.4, vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
 - b. KMI maakt voor de uitoefening van de taken als certificerende instelling uitsluitend gebruik van auditors die een verklaring omtrent het gedrag hebben verkregen als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
 
@@ -101,5 +101,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit certificerende instelling Jeugdwet 2024.
 
 ## Bijlage
+
+Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
