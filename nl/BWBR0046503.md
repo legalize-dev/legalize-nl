@@ -4,7 +4,7 @@ identifier: "BWBR0046503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2025-01-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046503"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ##### Artikel 4
 
-1. Het college van burgemeester en wethouders kan een ontheemde uitsluiten van de opvang, bedoeld in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=I&artikel=2&z=2025-01-01&g=2025-01-01), indien:
+1. Het college van burgemeester en wethouders kan een ontheemde uitsluiten van de opvang, bedoeld in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=I&artikel=2&z=2025-10-01&g=2025-10-01), indien:
 
 - a. de ontheemde rechtens van zijn vrijheid is ontnomen;
 
@@ -164,17 +164,17 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ##### Artikel 7
 
-1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), beperken of intrekken indien:
+1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), beperken of intrekken indien:
 
 - a. de opvang van de ontheemde beëindigd wordt omdat opvang (of onderdak) elders is voorzien;
 
 - b. de ontheemde de opvang definitief verlaat of langer dan 28 dagen per kalenderjaar niet in de opvang is verschenen zonder het college van burgemeester en wethouders hiervan op de hoogte te stellen;
 
-- c. de ontheemde ernstig inbreuk maakt op de verplichtingen, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01);
+- c. de ontheemde ernstig inbreuk maakt op de verplichtingen, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01);
 
 - d. de ontheemde een ernstige vorm van geweld pleegt jegens medebewoners die in dezelfde opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening, of aan anderen.
 
-2. Het college van burgemeester en wethouders trekt, met ingang van de eerstvolgende maand, de verstrekkingen, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), geheel of ten dele in, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
+2. Het college van burgemeester en wethouders trekt, met ingang van de eerstvolgende maand, de verstrekkingen, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), geheel of ten dele in, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
 
 - a. inkomsten uit arbeid in Nederland of in een ander land heeft en zulks blijkt uit de door de ontheemde opgegeven of van het Uitvoeringsinstituut Werknemersverzekeringen ontvangen informatie over zijn inkomsten uit arbeid;
 
@@ -186,7 +186,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 3. De intrekking bedraagt niet meer dan er is verstrekt.
 
-4. Het college van burgemeester en wethouders brengt, met ingang van de eerstvolgende maand, in de opvangvoorziening waarin de ontheemden niet zelf het eigen eten verzorgen, een bedrag ter hoogte van de financiële toelage als bedoeld in [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-01-01&g=2025-01-01), geheel of gedeeltelijk in rekening indien de meerderjarige ontheemde of een meerderjarig gezinslid:
+4. Het college van burgemeester en wethouders brengt, met ingang van de eerstvolgende maand, in de opvangvoorziening waarin de ontheemden niet zelf het eigen eten verzorgen, een bedrag ter hoogte van de financiële toelage als bedoeld in [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-10-01&g=2025-10-01), geheel of gedeeltelijk in rekening indien de meerderjarige ontheemde of een meerderjarig gezinslid:
 
 - a. inkomsten uit arbeid in Nederland of in een ander land heeft en zulks blijkt uit de door de ontheemde opgegeven of van het Uitvoeringsinstituut Werknemersverzekeringen ontvangen informatie over zijn inkomsten uit arbeid;
 
@@ -196,13 +196,13 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 - d. inkomsten verborgen heeft gehouden en daardoor ten onrechte van de verstrekkingen gebruik heeft gemaakt.
 
-5. In geval van een gezin met meerdere meerderjarige gezinsleden wordt bij toepassing van het vierde lid een maximum gesteld van twee keer de financiële toelage als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-01-01&g=2025-01-01).
+5. In geval van een gezin met meerdere meerderjarige gezinsleden wordt bij toepassing van het vierde lid een maximum gesteld van twee keer de financiële toelage als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-10-01&g=2025-10-01).
 
-6. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
+6. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders brengt, met ingang van de eerstvolgende maand, een vergoeding in de kosten van de opvang van de meerderjarige ontheemde alsmede de opvang van diens meerderjarige gezinslid in rekening, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
+1. Het college van burgemeester en wethouders brengt, met ingang van de eerstvolgende maand, een vergoeding in de kosten van de opvang van de meerderjarige ontheemde alsmede de opvang van diens meerderjarige gezinslid geheel of gedeeltelijk in rekening, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
 
 - a. inkomsten uit arbeid in Nederland of in een ander land heeft en zulks blijkt uit de door de ontheemde opgegeven of van het Uitvoeringsinstituut Werknemersverzekeringen ontvangen informatie over zijn inkomsten uit arbeid;
 
@@ -212,17 +212,17 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 - d. inkomsten verborgen heeft gehouden en daardoor ten onrechte van de verstrekkingen gebruik heeft gemaakt.
 
-2. De vergoeding bedraagt € 105,00 per maand per meerderjarige ontheemde en diens meerderjarige gezinslid tot een maximum van € 210,00.
+2. De vergoeding bedraagt € 244,22 per maand per meerderjarige ontheemde en diens meerderjarige gezinslid tot een maximum van € 488,44.
 
 ##### Artikel 9
 
-1. Het college van burgemeester en wethouders bepaalt in welke opvangvoorziening binnen de gemeente een ontheemde wordt geplaatst en is bevoegd een ontheemde naar een andere voorziening binnen de gemeente over te plaatsen indien dit in het belang van de openbare orde of de veiligheid van andere ontheemden noodzakelijk wordt geacht.
+1. Het college van burgemeester en wethouders bepaalt in welke opvangvoorziening binnen de gemeente een ontheemde wordt geplaatst en is bevoegd een ontheemde naar een andere voorziening binnen de gemeente over te plaatsen.
 
 2. Bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, zorgt het college van burgemeester en wethouders ervoor dat de eenheid van het gezin in de mate van het mogelijke en met instemming van de betrokken gezinsleden bewaard wordt.
 
 ##### Artikel 10
 
-1. De door de ontheemde te ontvangen financiële toelage, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven conform de Bekostigingsregeling opvang ontheemden Oekraïne.
+1. De door de ontheemde te ontvangen financiële toelage, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven conform de Bekostigingsregeling opvang ontheemden Oekraïne.
 
 2. De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de ontheemden volledig zelf het eigen eten verzorgen, wordt berekend aan de hand van de volgende bedragen per persoon, per maand:
 
@@ -240,13 +240,13 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 6. De financiële toelage voor een ontheemde jonger dan 18 jaar, die een kind is van, onder voogdij staat van, of begeleid wordt door, een of meer in de desbetreffende opvangvoorziening verblijvende ontheemden wordt uitbetaald aan één van die ontheemden.
 
-7. Aan een ontheemde die overeenkomstig de Regeling Medische zorg Asielzoekers, verblijft in een instelling voor langdurige zorg die niet een gemeentelijke opvang is, verstrekt het college van burgemeester en wethouders het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het vierde lid.
+7. Aan een ontheemde die overeenkomstig de Regeling Medische zorg Asielzoekers, verblijft in een instelling voor langdurige zorg die niet een gemeentelijke opvang is, verstrekt het college van burgemeester en wethouders het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het derde lid.
 
 8. Het college van burgemeester en wethouders draagt zorg voor de maaltijden in de gemeentelijke opvangvoorziening waarin de bewoners niet in de gelegenheid zijn deze zelf te verzorgen.
 
 ##### Artikel 11
 
-1. Een ontheemde kan een vergoeding ontvangen voor buitengewone kosten, als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), die hij heeft gemaakt.
+1. Een ontheemde kan een vergoeding ontvangen voor buitengewone kosten, als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), die hij heeft gemaakt. Voor toepassing van dit artikel wordt onder buitengewone kosten mede verstaan kosten die de ontheemde heeft moeten maken die verband houden met het verblijf in een instelling voor langdurige zorg, als bedoeld in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-10-01&g=2025-10-01).
 
 2. Buitengewone kosten zijn noodzakelijke kosten die vanwege hun aard of hoogte in redelijkheid niet geacht worden door de ontheemde zelf te worden betaald.
 
@@ -288,13 +288,13 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ##### Artikel 13
 
-1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-01-01&g=2025-01-01), beperken of intrekken indien:
+1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), beperken of intrekken indien:
 
 - a. de particuliere opvang van de ontheemde beëindigd wordt omdat opvang (of onderdak) elders is voorzien;
 
 - b. de ontheemde de particuliere opvang definitief verlaat of langer dan 28 dagen per kalenderjaar niet in de particuliere opvang is verschenen.
 
-2. Het college van burgemeester en wethouders trekt, met ingang van de eerstvolgende maand, de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-01-01&g=2025-01-01), geheel of ten dele in, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
+2. Het college van burgemeester en wethouders trekt, met ingang van de eerstvolgende maand, de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), geheel of ten dele in, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
 
 - a. inkomsten uit arbeid in Nederland of in een ander land heeft en zulks blijkt uit de door de ontheemde opgegeven of van het Uitvoeringsinstituut Werknemersverzekeringen ontvangen informatie over zijn inkomsten uit arbeid;
 
@@ -304,7 +304,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 - d. inkomsten verborgen heeft gehouden en daardoor ten onrechte van de verstrekkingen gebruik heeft gemaakt.
 
-3. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-01-01&g=2025-01-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
+3. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
 
 ##### Artikel 14
 
@@ -318,7 +318,7 @@ Vervallen
 
 2. Ten uitvoering van het eerste lid bepaalt het college van burgemeester en wethouders of de ontheemde bijzondere opvangbehoeften heeft.
 
-3. Indien de ontheemde overeenkomstig het tweede lid bijzondere opvangbehoefte heeft, wordt naast verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-01-01&g=2025-01-01), specifieke steun en begeleiding geboden.
+3. Indien de ontheemde overeenkomstig het tweede lid bijzondere opvangbehoefte heeft, wordt naast verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), specifieke steun en begeleiding geboden.
 
 ##### Artikel 16
 
@@ -346,7 +346,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De vergoeding die een ontheemde ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt niet meer dan € 14,– per week.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), is niet van toepassing op de situatie, bedoeld in het eerste lid.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-10-01&g=2025-10-01), is niet van toepassing op de situatie, bedoeld in het eerste lid.
 
 ### Hoofdstuk V. Verstrekkingen in particuliere opvangvoorzieningen
 
@@ -360,7 +360,11 @@ De ontheemde is verplicht om onverwijld uit eigen beweging dan wel uiterlijk bin
 
 ##### Artikel 2b
 
-Toepassing van de [artikelen 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=8&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=13&z=2025-01-01&g=2025-01-01), blijft achterwege als de ontheemde of een gezinslid daardoor onevenredig zwaar zou worden getroffen.
+1. Toepassing van de [artikelen 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-10-01&g=2025-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=8&z=2025-10-01&g=2025-10-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=13&z=2025-10-01&g=2025-10-01), blijft achterwege als de ontheemde of een gezinslid daardoor onevenredig zwaar zou worden getroffen.
+
+2. Toepassing van de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-10-01&g=2025-10-01), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=13&z=2025-10-01&g=2025-10-01), blijft in elk geval achterwege als de inkomsten als bedoeld in artikel 7, tweede lid aanhef en onder a en b, na toepassing daarvan minder bedragen dan 115% van het bedrag, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01).
+
+3. Toepassing van de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-10-01&g=2025-10-01), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=8&z=2025-10-01&g=2025-10-01), blijft in elk geval achterwege als de inkomsten als bedoeld in artikel 8, eerste lid aanhef en onder a en b, na toepassing daarvan minder bedragen dan 115% van het bedrag, bedoeld in [artikel 6, eerste lid aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), vermeerderd met het bedrag, bedoeld in artikel 8, tweede lid. Indien de ontheemde verblijft in een opvangvoorziening als bedoeld in artikel 7, vierde lid, worden de inkomsten geacht te zijn vermeerderd met het bedrag genoemd in [artikel 10, tweede lid aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-10-01&g=2025-10-01).
 
 ### Hoofdstuk II. Toelating tot de opvang
 
