@@ -4,7 +4,7 @@ identifier: "BWBR0048388"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-10-01"
-last_updated: "2025-07-05"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048388"
 soort: "beleidsregel"
@@ -58,9 +58,9 @@ In deze beleidsregel wordt verstaan onder:
 
 1. De Minister besluit voor subsidies die verstrekt worden in het kader van [verordening 2021/1139](33039R2021), tot het verlagen van subsidie in de gevallen genoemd in deze beleidsregel op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
-2. De Minister besluit voor subsidies die verstrekt worden in het kader van de [Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-07-05&g=2025-07-05) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
+2. De Minister besluit voor subsidies die verstrekt worden in het kader van de [Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-10-01&g=2025-10-01) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
-3. De minister besluit voor subsidies die verstrekt worden in het kader van de [Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-07-05&g=2025-07-05) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
+3. De minister besluit voor subsidies die verstrekt worden in het kader van de [Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26), tot het verlagen van subsidie in het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=10&z=2025-10-01&g=2025-10-01) genoemde geval op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
 ##### Artikel 3. Toepassen kortingspercentage
 
@@ -70,15 +70,15 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 4. Niet aanleveren gevraagde informatie
 
-Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) of in een beschikking tot subsidieverlening opgenomen verplichting om juiste en volledige informatie aan te leveren, wordt het subsidiebedrag met twee procent verlaagd.
+Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) of in een beschikking tot subsidieverlening opgenomen verplichting om juiste en volledige informatie aan te leveren, wordt het subsidiebedrag met twee procent verlaagd.
 
 ##### Artikel 5. Niet voldoen aan een meldingsplicht
 
-Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) of in een beschikking tot subsidieverlening opgenomen meldingsplicht, wordt het subsidiebedrag met twee procent verlaagd.
+Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) of in een beschikking tot subsidieverlening opgenomen meldingsplicht, wordt het subsidiebedrag met twee procent verlaagd.
 
 ##### Artikel 6. Niet voldoen aan administratieverplichtingen
 
-1. Indien een subsidieontvanger zijn administratie niet voert of bewaart overeenkomstig [artikel 2.17 van de Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=2.17), of zoals verplicht in een beschikking tot subsidieverlening, wordt het subsidiebedrag met twee procent verlaagd, indien de subsidieontvanger het niet voldoen aan deze verplichting niet binnen drie weken heeft hersteld.
+1. Indien een subsidieontvanger zijn administratie niet voert of bewaart overeenkomstig [artikel 2.17 van de Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=2.17), of zoals verplicht in een beschikking tot subsidieverlening, wordt het subsidiebedrag met twee procent verlaagd, indien de subsidieontvanger het niet voldoen aan deze verplichting niet binnen drie weken heeft hersteld.
 
 2. De hersteltermijn, bedoeld in het eerste lid, vangt aan met ingang van de dag na die, waarop schriftelijk aan de subsidieontvanger is medegedeeld dat hij niet voldoet aan de verplichting.
 
@@ -108,7 +108,7 @@ Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZK- 
 
 ##### Artikel 9. Niet voldoen aan instandhoudingsplicht
 
-1. Indien een subsidieontvanger niet voldoet aan [artikel 1.8 van de Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=1.8) of een in een beschikking tot subsidieverlening opgenomen verplichting tot instandhouding van een investering, wordt het subsidiebedrag dat betrekking heeft op de investering verlaagd met een percentage dat wordt bepaald door het aantal dagen dat de investering onterecht niet in stand is gehouden, te delen door het aantal dagen dat de instandhoudingsplicht van toepassing is, vermenigvuldigd met 100.
+1. Indien een subsidieontvanger niet voldoet aan [artikel 1.8 van de Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=1.8) of een in een beschikking tot subsidieverlening opgenomen verplichting tot instandhouding van een investering, wordt het subsidiebedrag dat betrekking heeft op de investering verlaagd met een percentage dat wordt bepaald door het aantal dagen dat de investering onterecht niet in stand is gehouden, te delen door het aantal dagen dat de instandhoudingsplicht van toepassing is, vermenigvuldigd met 100.
 
 2. De subsidieontvanger toont aan hoeveel dagen een investering in stand is gehouden.
 
@@ -120,7 +120,7 @@ Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZK- 
 
 ##### Artikel 10. Niet voldoen aan artikel 11, eerste lid, van [verordening 2021/1139](33039R2021)
 
-1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in [artikel 3.1.7, eerste lid, van de Regeling Europese EZK en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.1.7), [artikel 1.8, derde lid van de Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962&artikel=1.8), [artikel 2.25.9, zevende lid, van de Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.9) of een in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 11, eerste lid, onderdeel a, b of c, van [verordening 2021/1139](33039R2021), wordt:
+1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in [artikel 3.1.7, eerste lid, van de Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.1.7), [artikel 1.8, derde lid van de Tijdelijke subsidieregeling BAR visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0046962&artikel=1.8), [artikel 2.26.9, zevende lid, van de Regeling sanering garnalenvisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.9) of een in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 11, eerste lid, onderdeel a, b of c, van [verordening 2021/1139](33039R2021), wordt:
 
 - a. indien de beschikking tot subsidievaststelling nog niet is gegeven, het subsidiebedrag verlaagd met 100%;
 
@@ -146,17 +146,17 @@ Indien de subsidieontvanger herhaaldelijk niet voldoet aan hetzelfde voorschrift
 
 ##### Artikel 12. Cumulatie
 
-In afwijking van de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=4&z=2025-07-05&g=2025-07-05) wordt het subsidiebedrag met één procent verlaagd, in geval van cumulatie van het niet voldoen aan een verplichting als bedoeld in een van deze artikelen met het niet voldoen aan een verplichting als bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-07-05&g=2025-07-05). Deze korting van één procent komt bovenop de korting van het andere artikel waarvoor het hoogste kortingspercentage geldt.
+In afwijking van de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=4&z=2025-10-01&g=2025-10-01) wordt het subsidiebedrag met één procent verlaagd, in geval van cumulatie van het niet voldoen aan een verplichting als bedoeld in een van deze artikelen met het niet voldoen aan een verplichting als bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-10-01&g=2025-10-01). Deze korting van één procent komt bovenop de korting van het andere artikel waarvoor het hoogste kortingspercentage geldt.
 
 ##### Artikel 13. Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel verlagen EMFAF, BAR en Regeling sanering garnalenvisserij.
+Deze beleidsregel wordt aangehaald als: Beleidsregel verlagen subsidies EMFAF, BAR en Regeling sanering garnalenvisserij.
 
 ##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-07-05&g=2025-07-05)
+## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048388&artikel=8&z=2025-10-01&g=2025-10-01)
 
 | Nr. | Overtreding | Korting |
 | --- | --- | --- |
