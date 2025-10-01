@@ -4,7 +4,7 @@ identifier: "BWBR0044188"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-01"
-last_updated: "2020-07-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044188"
 soort: "zbo"
@@ -79,6 +79,30 @@ In dit besluit wordt verstaan onder:
 
 - k. **Wbtv:** [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704).
 
+- l. **Brontaal (vertalers):** de taal van waaruit vertaald wordt;
+
+- m. **Brontekst:** tekst in de brontaal;
+
+- n. **C1-niveau:** C1-niveau van het Europees Referentiekader voor de Talen;
+
+- o. **Doeltaal (vertalers):** de taal waarin vertaald wordt:
+
+- p. **Doeltekst:** vertaling van de brontekst naar de doeltaal;
+
+- q. **Klassieke vertaalopdrachten:** een in opdracht van een opdrachtgever verrichte vertaling op basis van een afgesproken geldelijke vergoeding;
+
+- r. **Machine Translation (machinevertaling):** het proces waarbij de tekst machinaal, met behulp van complexe algoritmes automatisch van de ene taal naar de andere vertaald wordt, zonder menselijke tussenkomst;
+
+- u. **Post-editing:** het proces waarbij een met Machine Translation vertaalde tekst door een menselijke vertaler gecontroleerd, gecorrigeerd en waar nodig aangepast wordt;
+
+- v. **Raad:** Raad voor Rechtsbijstand;
+
+- w. **Revisie/reviseren:** het grondig controleren, corrigeren en waar nodig aanpassen van een vertaling om ervoor te zorgen dat deze voldoet aan de gewenste normen en eisen;
+
+- x. **Vertaalrichting:** de combinatie van de brontaal van waaruit de vertaler werkt en de doeltaal waarnaar de vertaler vertaalt;
+
+- y. **Vertaaltechnieken:** het geheel van technieken en strategieën die de vertaler toepast om nauwkeurige en cultureel passende communicatie over taalbarrières heen mogelijk te maken.
+
 ##### Artikel 2
 
 Een tolk of vertaler kan worden ingeschreven in het Rbtv indien hij voldoet aan de formele vereisten die voortvloeien uit de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) en het [Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896) en zich verklaart te houden aan de ‘Gedragscode voor tolken en vertalers in het kader van de Wbtv’.
@@ -133,13 +157,15 @@ Indien een **tolk** niet beschikt over een diploma van een tolkopleiding op mini
 
 ##### Artikel 5
 
-Indien een **vertaler** niet beschikt over een diploma van een vertaalopleiding op minimaal bachelor niveau in de betreffende vertaalrichting, kan hij worden ingeschreven in het Rbtv **op C1-niveau,**als de vertaler aantoont te beschikken over:
+Indien een **vertaler** niet beschikt over een diploma van een vertaalopleiding op minimaal bachelorniveau in de betreffende vertaalrichting, kan hij worden ingeschreven in het Rbtv **op C1-niveau**, als de vertaler aantoont te beschikken over:
 
 - 1.
 
 - a. integriteit;
 
-- b. een getuigschrift waaruit blijkt dat de vertaler in de betreffende vertaalrichting een vertaalvaardigheidstoets op C1-niveau van het ERK met goed gevolg heeft afgelegd die voldoet aan het Kader voor integrale taalgebonden vertaalvaardigheidstoetsen; of:
+- b. een getuigschrift waaruit blijkt dat de vertaler in de betreffende vertaalrichting een vertaalvaardigheidstoets op C1-niveau van het ERK met goed gevolg heeft afgelegd die voldoet aan het Kader voor integrale taalgebonden vertaalvaardigheidstoetsen;
+
+Of:
 
 - 2.
 
@@ -149,11 +175,31 @@ Indien een **vertaler** niet beschikt over een diploma van een vertaalopleiding 
 
 - c. taalvaardigheid van de doeltaal op ten minste C1-niveau van het ERK;
 
-- d. kennis van de cultuur van het land of gebied van de bron- en doeltaal;
+- d. kennis van de cultuur van het land of gebied van de brontaal, respectievelijk van de doeltaal;
 
-- e. ten minste 420 uur scholing om vertaalvaardigheid en -attitude op ten minste de onderdelen tekst en tekstbegrip, tekst en cultuur, technische aspecten van het vertalen en vertaalhouding te ontwikkelen;
+- e. ten minste 15 EC (420 uren studiebelasting) met succes behaalde en afgeronde scholing in vertaalvaardigheid en vertaalattitude, bestaande uit de volgende verplichte onderdelen:
 
-- f. ten minste vijf jaar werkervaring als beroepsvertaler in de betreffende vertaalrichting direct voorafgaand aan het verzoek tot inschrijving in het Rbtv, waarvan ten minste één jaar na afronding van de scholing als bedoeld in artikel 5, tweede lid onder e. Het [Besluit inschrijving Rbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0043759) is gepubliceerd in de Staatscourant van 3 juli 2020 nr. 35860.
+- –. tekst en tekstbegrip;
+
+- –. tekst en cultuur en culturele duiding;
+
+- –. vertaaltechnieken;
+
+- –. technische aspecten van het vertalen;
+
+- –. vertaalstrategie;
+
+- –. vertaalattitude.
+
+- f. ten minste vijf jaar werkervaring als beroepsvertaler in de betreffende vertaalrichting, direct voorafgaand aan het verzoek. De werkervaring moet bestaan uit minimaal 300.000 woorden in de brontekst, of de combinatie van:
+
+- –. ten minste 200.000 woorden uit klassieke vertaalopdrachten;
+
+- –. ten minste 250.000 woorden uit post-editingopdrachten;
+
+- –. ten minste 250.000 woorden uit revisie-opdrachten.
+
+- g. de vertaler moet beschikken over ten minste 1 jaar werkervaring in de betreffende vertaalrichting na het afronden van de scholing als bedoeld in artikel 5 aanhef, tweede lid onder e.
 
 ### Commissie btv
 
@@ -170,5 +216,11 @@ Het [Besluit inschrijving Rbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033581)
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als Besluit inschrijving Rbtv.
+
+Dit besluit treedt in werking op 1 juli 2020.
+
+##### Artikel 7a
+
+De inschrijfvoorwaarden voor tolken en vertalers worden elke vijf jaar geëvalueerd.
 
 Dit besluit treedt in werking op 1 juli 2020.
