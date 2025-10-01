@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-10-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -63,7 +63,7 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 |   | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen elektriciteitsbedrijven, als bedoeld in Bijlage II van de NIB-richtlijn | Levering of aankoop van elektriciteit |
 | **Energie: gas** | De netbeheerder van het landelijk gastransportnet, aangewezen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
 | **Energie: gas** | De regionale netbeheerders, aangewezen krachtens [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5) | Transmissie en distributie van gas |
-| **Energie: gas** | De Nederlandse Aardolie Maatschappij B.V. | Het opsporen en winnen van gas op basis van de concessie voor de aardgaswinning uit het Groningenveld op grond van het koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 1963, 126) Het opslaan van gas op basis van de opslagvergunning «Norg» van 31 maart 2003 (Stcrt. 2003, 68) |
+| **Energie: gas** | De Nederlandse Aardolie Maatschappij B.V. | Het opslaan van gas op basis van de opslagvergunning «Norg» van 31 maart 2003 (Stcrt. 2003, 68) |
 | **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen leveringsbedrijven, als bedoeld in Bijlage II van de NIB-richtlijn | Levering van gas |
 | **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen opslagsysteembeheerders, als bedoeld in Bijlage II van de NIB-richtlijn | Opslag van gas |
 | **Energie: gas** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen LNG-systeembeheerders, als bedoeld in Bijlage II van de NIB-richtlijn | Het vloeibaar maken van aardgas of de invoer, de verlading en de hervergassing van LNG |
@@ -72,7 +72,7 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 | **Energie: aardolie** | Stichting Centraal Orgaan Voorraadvorming Aardolieproducten | Het beheren van strategische olievoorraden |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van oliepijpleidingen, als bedoeld in Bijlage II van de NIB-richtlijn | Beheer van oliepijpleidingen |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van voorzieningen voor de productie, opslag, transport, raffinage en behandeling van olie, bedoeld in Bijlage II van de NIB-richtlijn | Productie, opslag, transport, raffinage, of behandeling van olie |
-| **Vervoer: luchtvervoer** | • Nederlandse luchtvaartmaatschappijen die beschikken over een Air Operator Certificate (AOC) en die niet conform artikel 4, vierde lid van [Verordening (EG) nr. 300/2008](32008R0300)1[Verordening (EG) Nr. 300/2008](32008R0300) van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van [Verordening (EG) nr. 2320/2002](32002R2320) (**PbEU 2008, L 97**). zijn uitgezonderd van de gemeenschappelijke basisnormen voor de beveiliging van de burgerluchtvaart zoals opgenomen in deze Verordening; • De exploitant van Luchthaven Schiphol; • De exploitanten van de luchthavens, genoemd in [artikel 8.1, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) voor zover op die luchthavens verkeersvluchten plaatsvinden van luchtvaartmaatschappijen die: a. open staan voor individuele boekingen voor passagiers, vracht of post; en b. betreffen geregelde vluchten, zijnde lijnvluchten of commerciële vluchten uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling, en niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter; • De burgerexploitant van de luchthaven Eindhoven; • Aircraft Fuel Supply B.V.; • Koninklijke marechaussee; • Luchtverkeersleiding Nederland (LVNL); • Maastricht Upper Area Control Centre (MUAC). | Een veilige en vlotte vlucht- en vliegtuigafhandeling |
+| **Vervoer: luchtvervoer** | • Nederlandse luchtvaartmaatschappijen die beschikken over een Air Operator Certificate (AOC) en die niet conform artikel 4, vierde lid van [Verordening (EG) nr. 300/2008](32008R0300)1 zijn uitgezonderd van de gemeenschappelijke basisnormen voor de beveiliging van de burgerluchtvaart zoals opgenomen in deze Verordening; • De exploitant van Luchthaven Schiphol; • De exploitanten van de luchthavens, genoemd in [artikel 8.1, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) voor zover op die luchthavens verkeersvluchten plaatsvinden van luchtvaartmaatschappijen die: a. open staan voor individuele boekingen voor passagiers, vracht of post; en b. betreffen geregelde vluchten, zijnde lijnvluchten of commerciële vluchten uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling, en niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter; • De burgerexploitant van de luchthaven Eindhoven; • Aircraft Fuel Supply B.V.; • Koninklijke marechaussee; • Luchtverkeersleiding Nederland (LVNL); • Maastricht Upper Area Control Centre (MUAC). | Een veilige en vlotte vlucht- en vliegtuigafhandeling |
 | **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen infrastructuurbeheerders, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het beheer van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) |
 | **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen spoorwegondernemingen, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het vervoer van personen of goederen over (hoofd)spoorweginfrastructuur |
 | **Vervoer: vervoer over water** | De Divisie Havenmeester van het Havenbedrijf Rotterdam N.V. | Het afwikkelen van scheepvaartverkeer |
@@ -84,6 +84,8 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 | **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van internetknooppunten, bedoeld in bijlage II van de NIB-richtlijn | Het faciliteren van het internet- en dataverkeer |
 | **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van registers voor topleveldomeinnamen, als bedoeld in bijlage II van de NIB-richtlijn | Het beheren en registreren van domeinnamen onder een topleveldomein |
 | **Digitale infrastructuur** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen aanbieders van DNS-dienstverleners, als bedoeld in bijlage II van de NIB-richtlijn | Het verlenen van DNS-diensten |
+
+1 [Verordening (EG) Nr. 300/2008](32008R0300) van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van [Verordening (EG) nr. 2320/2002](32002R2320) (**PbEU 2008, L 97**).
 
 ##### Artikel 3. (aanwijzing andere vitale aanbieders)
 
@@ -106,7 +108,7 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-10-01&g=2023-10-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2023-10-01&g=2023-10-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2025-10-01&g=2025-10-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2025-10-01&g=2025-10-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -140,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
 
-## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-10-01&g=2023-10-01), van het Besluit beveiliging netwerk- en informatiesystemen
+## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2025-10-01&g=2025-10-01), van het Besluit beveiliging netwerk- en informatiesystemen
 
 ### Beveiliging aanbieders van een essentiële dienst
 
