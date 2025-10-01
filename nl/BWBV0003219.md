@@ -4,7 +4,7 @@ identifier: "BWBV0003219"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-10-01"
-last_updated: "2025-02-01"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003219"
 soort: "verdrag"
@@ -392,13 +392,15 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .3. waarbij, naar het oordeel van de Administratie, beoogd wordt de levensduur met ten minste tien jaar te verlengen, of
 
-- .4. die leidt tot veranderingen in het ballastwatersysteem anders dan vervanging van onderdelen met soortgelijke onderdelen. Verbouwing van een schip teneinde te voldoen aan de bepalingen van [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-02-01&g=2025-02-01) wordt voor de toepassing van deze Bijlage niet aangemerkt als een belangrijke verbouwing.
+- .4. die leidt tot veranderingen in het ballastwatersysteem anders dan vervanging van onderdelen met soortgelijke onderdelen. Verbouwing van een schip teneinde te voldoen aan de bepalingen van [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-10-01&g=2025-10-01) wordt voor de toepassing van deze Bijlage niet aangemerkt als een belangrijke verbouwing.
 
 - 6. „van het dichtstbijzijnde land”, van de basislijn van waaruit de territoriale zee van het betrokken gebied wordt bepaald overeenkomstig het internationale recht, behoudens dat, voor de toepassing van het Verdrag „van het dichtstbijzijnde land” onder de noordoostkust van Australië betekent: „van een lijn getrokken van een punt op de kust van Australië gelegen op: 11°00` zuiderbreedte en 142°08` oosterlengte naar een punt op 10°35` zuiderbreedte en 141°55` oosterlengte vandaar naar een punt op 10°00` zuiderbreedte en 142°00` oosterlengte vandaar naar een punt op 9°10` zuiderbreedte en 143°52` oosterlengte vandaar naar een punt op 9°00` zuiderbreedte en 144°30` oosterlengte vandaar naar een punt op 10°41` zuiderbreedte en 145°00` oosterlengte vandaar naar een punt op 13°00` zuiderbreedte en 145°00` oosterlengte vandaar naar een punt op 15°00` zuiderbreedte en 146°00` oosterlengte vandaar naar een punt op 17°30` zuiderbreedte en 147°00` oosterlengte vandaar naar een punt op 21°00` zuiderbreedte en 152°55` oosterlengte vandaar naar een punt op 24°30` zuiderbreedte en 154°00` oosterlengte vandaar naar een punt op de kust van Australië op 24°42` zuiderbreedte en 153°15` oosterlengte.
 
 - 7. „actieve stof”, een stof die of organisme, virussen of schimmels daaronder begrepen, dat een algemeen of specifiek effect heeft op schadelijke aquatische organismen en ziektekiemen.
 
-- 8. BWMS Code, de Code voor de goedkeuring van ballastwaterbeheersystemen, aangenomen bij resolutie MEPC.300(72), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden overeenkomstig het bepaalde in [artikel 19 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&artikel=19&z=2025-02-01&g=2025-02-01) betreffende de procedure voor wijziging die van toepassing is op deze Bijlage.
+- 8. BWMS Code, de Code voor de goedkeuring van ballastwaterbeheersystemen, aangenomen bij resolutie MEPC.300(72), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden overeenkomstig het bepaalde in [artikel 19 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&artikel=19&z=2025-10-01&g=2025-10-01) betreffende de procedure voor wijziging die van toepassing is op deze Bijlage.
+
+- 9. elektronisch journaal, een door de Administratie goedgekeurd apparaat of systeem dat in plaats van een papieren journaal gebruikt wordt voor het elektronisch vastleggen van notities voor elke ballastwateroperatie zoals vereist ingevolge dit Verdrag.
 
 ##### Voorschrift A-2. Algemene toepasbaarheid
 
@@ -470,7 +472,7 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 ##### Voorschrift B-2. Ballastwaterjournaal
 
-- 1. Aan boord van ieder schip dient een ballastwaterjournaal te zijn dat een elektronisch bestand kan zijn of opgenomen kan zijn in een ander journaal of systeem en ten minste de in Aanhangsel II omschreven informatie bevat.
+- 1. Aan boord van ieder schip dient een ballastwaterjournaal te zijn dat een elektronisch journaal kan zijn of opgenomen kan zijn in een ander journaal of systeem en ten minste de in Aanhangsel II omschreven informatie bevat. Elektronische journaals dienen te worden goedgekeurd door de Administratie, rekening houdend met door de Organisatie op te stellen richtlijnen.
 
 - 2. De notities in het ballastwaterjournaal dienen ten minste twee jaar nadat de laatste notitie heeft plaatsgevonden aan boord te blijven en daarna ten minste gedurende drie jaar in de macht te blijven van de Maatschappij.
 
@@ -478,7 +480,7 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - 4. Het ballastwaterjournaal dient op redelijke tijdstippen onmiddellijk beschikbaar te zijn voor inzage en in het geval van een onbemand schip op sleep kan het aan boord van de sleepboot worden bewaard.
 
-- 5. Elke ballastwateroperatie dient onverwijld en volledig in het ballastwaterjournaal te worden genoteerd. Elke notitie dient te worden ondertekend door de voor de desbetreffende operatie verantwoordelijke officier en elke ingevulde pagina dient te worden ondertekend door de kapitein. De notities in het ballastwaterjournaal dienen te worden opgesteld in de werktaal van het schip. Ingeval die taal een andere is dan de Engelse, de Franse of de Spaanse taal dienen de notities te zijn voorzien van een vertaling in één van deze talen. Wanneer de notities tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
+- 5. Elke ballastwateroperatie dient onverwijld en volledig in het ballastwaterjournaal te worden genoteerd. Elke notitie dient te worden ondertekend door de voor de desbetreffende operatie verantwoordelijke officier en elke ingevulde pagina dient te worden ondertekend door de kapitein, of, in het geval van een groep elektronische notities, tijdig door de kapitein te worden geverifieerd. De notities in het ballastwaterjournaal dienen te worden opgesteld in de werktaal van het schip. Ingeval die taal een andere is dan de Engelse, de Franse of de Spaanse taal dienen de notities te zijn voorzien van een vertaling in één van deze talen. Wanneer de notities tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
 - 6. Functionarissen die naar behoren zijn gemachtigd door een Partij mogen het ballastwaterjournaal aan boord van een schip waarop dit voorschrift van toepassing is terwijl het schip zich in haar haven of bij een laad- of losplaats buitengaats bevindt controleren en een afschrift maken van notities en van de kapitein verlangen dat deze het afschrift voor eensluidend waarmerkt. Een aldus gewaarmerkt afschrift dient in gerechtelijke procedures toegelaten te worden als bewijs van de feiten weergegeven in de notitie. De controle van een ballastwaterjournaal en het maken van een gewaarmerkt afschrift dienen zo spoedig mogelijk plaats te vinden zonder te leiden tot onnodige vertraging van het schip.
 
@@ -486,27 +488,27 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - 1. Op schepen gebouwd vóór 2009:
 
-- .1. met een ballastwatercapaciteit van 1.500 tot en met 5.000 kubieke meter, dient het ballastwater tot de herkeuring omschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-02-01&g=2025-02-01) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01), en nadien ten minste aan de normen beschreven in voorschrift D-2;
+- .1. met een ballastwatercapaciteit van 1.500 tot en met 5.000 kubieke meter, dient het ballastwater tot de herkeuring omschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-10-01&g=2025-10-01) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01), en nadien ten minste aan de normen beschreven in voorschrift D-2;
 
-- .2. met een ballastwatercapaciteit van minder dan 1.500 of meer dan 5.000 kubieke meter, dient het ballastwater tot de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-02-01&g=2025-02-01) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01) en nadien ten minste aan de normen beschreven in voorschrift D-2.
+- .2. met een ballastwatercapaciteit van minder dan 1.500 of meer dan 5.000 kubieke meter, dient het ballastwater tot de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-10-01&g=2025-10-01) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01) en nadien ten minste aan de normen beschreven in voorschrift D-2.
 
-- 2. Op schepen gebouwd in of na 2009 en vóór 8 september 2017 met een ballastwatercapaciteit van minder dan 5.000 kubieke meter dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01).
+- 2. Op schepen gebouwd in of na 2009 en vóór 8 september 2017 met een ballastwatercapaciteit van minder dan 5.000 kubieke meter dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01).
 
 - 3. Op schepen gebouwd in of na 2009, maar vóór 2012, met een ballastwatercapaciteit van 5.000 kubieke meter of meer dient het ballastwater te worden beheerd in overeenstemming met punt 1.2.
 
-- 4. Op schepen gebouwd in of na 2012 en vóór 8 september 2017 met een ballastwatercapaciteit van 5.000 kubieke meter of meer dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01).
+- 4. Op schepen gebouwd in of na 2012 en vóór 8 september 2017 met een ballastwatercapaciteit van 5.000 kubieke meter of meer dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01).
 
-- 5. Op schepen gebouwd op of na 8 september 2017 dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01).
+- 5. Op schepen gebouwd op of na 8 september 2017 dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01).
 
 - 6. De vereisten van dit voorschrift zijn niet van toepassing op schepen die ballastwater lozen bij een ontvangstinrichting die overeenkomstig de door de Organisatie voor dergelijke inrichtingen opgestelde richtlijnen is ontworpen.
 
 - 7. Andere methoden voor ballastwaterbeheer kunnen worden aanvaard als alternatief voor de vereisten beschreven in de punten 1 tot en met 5 en punt 8, mits deze methoden ten minste dezelfde mate van bescherming van het milieu, de gezondheid van de mens, van goederen of hulpbronnen waarborgen en deze in beginsel zijn goedgekeurd door de Commissie.
 
-- 8. Op schepen gebouwd vóór 8 september 2017 waarop de in punt 10 beschreven herkeuring niet van toepassing is, dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01) vanaf de door de Administratie te bepalen datum, maar niet later dan 8 september 2024.
+- 8. Op schepen gebouwd vóór 8 september 2017 waarop de in punt 10 beschreven herkeuring niet van toepassing is, dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01) vanaf de door de Administratie te bepalen datum, maar niet later dan 8 september 2024.
 
-- 9. Schepen waarop de punten 2, 4 of 8 van toepassing zijn dienen te voldoen aan hetzij [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-02-01&g=2025-02-01), hetzij [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-02-01&g=2025-02-01) tot het moment waarop zij dienen te voldoen aan voorschrift D-2.
+- 9. Schepen waarop de punten 2, 4 of 8 van toepassing zijn dienen te voldoen aan hetzij [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2025-10-01&g=2025-10-01), hetzij [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2025-10-01&g=2025-10-01) tot het moment waarop zij dienen te voldoen aan voorschrift D-2.
 
-- 10. Niettegenstaande [voorschrift E-1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=E&artikel=E-1&z=2025-02-01&g=2025-02-01) wordt onder de in de punten 1.1, 1.2, 2 en 4 bedoelde herkeuring verstaan:
+- 10. Niettegenstaande [voorschrift E-1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=E&artikel=E-1&z=2025-10-01&g=2025-10-01) wordt onder de in de punten 1.1, 1.2, 2 en 4 bedoelde herkeuring verstaan:
 
 - .1. de eerste herkeuring, zoals bepaald door de Commissie, op of na 8 september 2017 indien:
 
