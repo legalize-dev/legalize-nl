@@ -4,7 +4,7 @@ identifier: "BWBR0048957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-02"
-last_updated: "2023-11-28"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048957"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Per provincie wordt één specifieke uitkering verstrekt.
 
-4. De specifieke uitkering wordt verstrekt voor kosten gemaakt in de periode 1 maart 2023 tot en met 31 december 2025.
+4. De specifieke uitkering wordt verstrekt voor kosten gemaakt in de periode 1 maart 2023 tot en met 31 december 2027.
 
 5. De specifieke uitkering wordt niet verstrekt voor kosten:
 
@@ -118,7 +118,7 @@ De minister verleent de specifieke uitkering binnen acht weken na ontvangst van 
 
 ##### Artikel 8. verlenging periode
 
-Indien de volledige besteding van de specifieke uitkering in de periode, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048957&artikel=2&z=2023-11-28&g=2023-11-28), niet mogelijk is, kan de minister deze periode op verzoek van de provincie eenmalig verlengen met een periode van ten hoogste twee jaar.
+Vervallen
 
 ##### Artikel 9. verantwoording en vaststelling
 
@@ -136,7 +136,7 @@ Indien de volledige besteding van de specifieke uitkering in de periode, bedoeld
 
 Deze regeling wordt aangehaald als: Regeling uitvoering aanpak piekbelasting.
 
-## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048957&artikel=3&z=2023-11-28&g=2023-11-28): maximale rijksbijdrage
+## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048957&artikel=3&z=2025-10-02&g=2025-10-02): maximale rijksbijdrage
 
 | **Provincie** | **maximale rijksbijdrage** |
 | --- | --- |
