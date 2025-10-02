@@ -4,7 +4,7 @@ identifier: "BWBR0050340"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-02"
-last_updated: "2024-10-30"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050340"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **subsidiabele kosten:** in aanmerking komende kosten als bedoeld in artikel 56 ter, tweede lid bis, van de algemene groepsvrijstellingsverordening;
 
-- **walstroomvoorziening:** vaste of mobiele haveninfrastructuur waarmee een haven vaartuigen van elektrische stroom kan voorzien voor gebruik aan de kade;
+- **walstroomvoorziening:** vaste of mobiele haveninfrastructuur inclusief, indien aanwezig, een installatie voor de productie van hernieuwbare elektriciteit ter plaatse dan wel opslageenheden voor de opslag van hernieuwbare elektriciteit als bedoeld in artikel 56 ter, lid 2 bis, van de Algemene vrijstellingsverordening waarmee een haven vaartuigen van elektrische stroom kan voorzien voor gebruik aan de kade;
 
 - **zeehaven:** een haven zoals bedoeld in artikel 2 van [verordening (EU) 2017/352](32017R0352) van het Europees Parlement en de Raad van 15 februari 2017 tot vaststelling van een kader voor het verrichten van havendiensten en gemeenschappelijke regels inzake de financiële transparantie van havens (PbEU 2017, L 57);
 
@@ -72,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Subsidieplafond en subsidiemaximum
 
-1. Voor de periode tot en met 31 december 2027 is voor projecten, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=1&z=2024-10-30&g=2024-10-30), ten hoogste € 18.800.000,00 beschikbaar:
+1. Voor de periode tot en met 31 december 2027 is voor projecten, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=1&z=2025-10-02&g=2025-10-02), ten hoogste € 18.800.000,00 beschikbaar:
 
-- a. € 4.700.000,00 voor de eerste tenderronde zoals bedoeld in [artikel 10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30);
+- a. € 4.700.000,00 voor de eerste tenderronde zoals bedoeld in [artikel 10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02);
 
-- b. € 4.700.000,00 voor de tweede tenderronde zoals bedoeld in [artikel 10, tweede, lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30);
+- b. € 4.700.000,00 voor de tweede tenderronde zoals bedoeld in [artikel 10, tweede, lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02);
 
-- c. € 4.700.000,00 voor de derde tenderronde zoals bedoeld in [artikel 10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30);
+- c. € 4.700.000,00 voor de derde tenderronde zoals bedoeld in [artikel 10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02);
 
-- d. € 4.700.000,00 voor de vierde tenderronde zoals bedoeld in [artikel 10, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30).
+- d. € 4.700.000,00 voor de vierde tenderronde zoals bedoeld in [artikel 10, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02).
 
 2. De subsidie wordt verleend met toepassing van artikel 56 ter van de algemene groepsvrijstellingsverordening.
 
@@ -98,13 +98,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2024-10-30&g=2024-10-30), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2025-10-02&g=2025-10-02), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
 ##### Artikel 5. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2024-10-30&g=2024-10-30), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij het project betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2025-10-02&g=2025-10-02), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij het project betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Berekening subsidiabele kosten bij toepassing forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2024-10-30&g=2024-10-30), wordt een uurtarief gehanteerd van € 80,00 per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=3&z=2025-10-02&g=2025-10-02), wordt een uurtarief gehanteerd van € 80,00 per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij het project betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
@@ -152,7 +152,7 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 1. Een aanvraag tot subsidie heeft betrekking op één project.
 
-2. Subsidieverlening vindt plaats door de subsidieaanvragen in een tenderronde, zoals bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30), te rangschikken.
+2. Subsidieverlening vindt plaats door de subsidieaanvragen in een tenderronde, zoals bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02), te rangschikken.
 
 3. De rangschikking wordt bepaald op basis van de volgende selectiecriteria:
 
@@ -188,11 +188,11 @@ Bij de beschikking tot subsidieverlening wordt een voorschot van 80% verleend.
 
 - a. de gegevens bedoeld in artikel 6, tweede lid, van de Algemene groepsvrijstellingsverordening;
 
-- b. een berekening van de in [artikel 8, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2024-10-30&g=2024-10-30), bedoelde gemiddelde stikstofdepositiereductie in mol/hectare/jaar;
+- b. een berekening van de in [artikel 8, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2025-10-02&g=2025-10-02), bedoelde gemiddelde stikstofdepositiereductie in mol/hectare/jaar;
 
 - c. een met de AERIUS-calculator uitgevoerde berekening van de stikstofdepositiereductie per hexagoon met stikstof overbelaste Natura 2000-gebieden binnen een straal van 25 kilometer rondom de walstroomvoorziening, die de basis vormt voor de onder a bedoelde berekening;
 
-- d. het in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2024-10-30&g=2024-10-30), bedoelde aantal hectare;
+- d. het in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2025-10-02&g=2025-10-02), bedoelde aantal hectare;
 
 - e. een situatieschets van de betreffende walstroomvoorziening;
 
@@ -204,15 +204,15 @@ Bij de beschikking tot subsidieverlening wordt een voorschot van 80% verleend.
 
 1. Het project wordt binnen 48 maanden na de startdatum van het project afgerond. De startdatum is maximaal 6 maanden na de beschikking tot subsidieverlening.
 
-2. De subsidieontvanger doet gedurende de uitvoering van het project, onverminderd het bepaalde in [hoofdstuk 8 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=8), middels een jaarrapport en een eindrapport verslag van de voortgang van het project. Het eindrapport geeft de mate weer waarin het project naar verwachting gaat bijdragen aan het doel van deze regeling zoals opgenomen in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=2&z=2024-10-30&g=2024-10-30).
+2. De subsidieontvanger doet gedurende de uitvoering van het project, onverminderd het bepaalde in [hoofdstuk 8 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=8), middels een jaarrapport en een eindrapport verslag van de voortgang van het project. Het eindrapport geeft de mate weer waarin het project naar verwachting gaat bijdragen aan het doel van deze regeling zoals opgenomen in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=2&z=2025-10-02&g=2025-10-02).
 
 3. De subsidieontvanger toont aan dat het project waarvoor de subsidie is verleend is verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 4. De subsidieontvanger verleent medewerking aan een evaluatie door middel van verstrekking van gegevens die betrekking hebben op de effecten van de door hem op grond van deze regeling uitgevoerde activiteiten tot vijf jaar na de datum van de subsidievaststelling en voor zover medewerking redelijkerwijs van hem verwacht kan worden.
 
-5. De subsidieontvanger verschaft aan de Minister desgevraagd tot vijf jaar na de datum van subsidievaststelling gegevens over de hoeveelheid jaarlijkse geleverde elektriciteit van de walstroomvoorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=2&z=2024-10-30&g=2024-10-30).
+5. De subsidieontvanger verschaft aan de Minister desgevraagd tot vijf jaar na de datum van subsidievaststelling gegevens over de hoeveelheid jaarlijkse geleverde elektriciteit van de walstroomvoorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=2&z=2025-10-02&g=2025-10-02).
 
-6. Met de Minister voor Natuur en Stikstof kunnen gegevens van de aanvrager worden gedeeld met betrekking tot de criteria genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2024-10-30&g=2024-10-30), het aanvraagvereiste in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2024-10-30&g=2024-10-30), en de verplichting in het vijfde lid van dit artikel.
+6. Met de Minister voor Natuur en Stikstof kunnen gegevens van de aanvrager worden gedeeld met betrekking tot de criteria genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=8&z=2025-10-02&g=2025-10-02), het aanvraagvereiste in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050340&artikel=10&z=2025-10-02&g=2025-10-02), en de verplichting in het vijfde lid van dit artikel.
 
 ##### Artikel 12. Subsidievaststelling
 
