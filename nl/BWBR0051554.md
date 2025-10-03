@@ -4,7 +4,7 @@ identifier: "BWBR0051554"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-03"
-last_updated: "2025-09-04"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051554"
 soort: "zbo"
@@ -121,7 +121,7 @@ Deze subsidieregeling heeft tot doel een kader te stellen onder welke voorwaarde
 
 ##### Artikel 5. Aanvragen vergoeding en besluit
 
-1. De vergoeding zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051554&hoofdstuk=II&artikel=4&z=2025-10-03&g=2025-09-04) wordt door de deelnemende rechtsbijstandverlener binnen drie maanden na de verrichte werkzaamheden gedeclareerd op een door de Raad voor Rechtsbijstand voorgeschreven formulier. In dit formulier wordt toegelicht waaruit de werkzaamheden hebben bestaan en hoeveel tijd daaraan is besteed.
+1. De vergoeding zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051554&hoofdstuk=II&artikel=4&z=2025-10-03&g=2025-10-03) wordt door de deelnemende rechtsbijstandverlener binnen drie maanden na de verrichte werkzaamheden gedeclareerd op een door de Raad voor Rechtsbijstand voorgeschreven formulier. In dit formulier wordt toegelicht waaruit de werkzaamheden hebben bestaan en hoeveel tijd daaraan is besteed.
 
 2. Het bestuur neemt op basis van het declaratieformulier een besluit over de vergoeding. Het besluit wordt binnen dertig dagen na ontvangst van het declaratieformulier kenbaar gemaakt. Indien de vergoeding wordt toegekend zal dit geschieden door het uitbetalen van de vergoeding. Bij het niet toekennen van de vergoeding ontvangt de rechtsbijstandverlener een schriftelijk besluit tot afwijzing van die vergoeding.
 
