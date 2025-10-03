@@ -4,7 +4,7 @@ identifier: "BWBR0050141"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-26"
-last_updated: "2024-08-16"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050141"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Besluit:
 
 ##### Artikel 2. Beroep en hoger beroep
 
-1. Aan de programmadirecteur Schulden van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor het behandelen van (hoger) beroepschriften ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2024-08-16&g=2024-08-16).
+1. Aan de programmadirecteur Schulden van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor het behandelen van (hoger) beroepschriften ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2025-10-03).
 
-2. Aan de vaktechnisch coördinatoren en aan de medewerkers bezwaar en beroep van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor alle voorbereidingshandelingen en het optreden ter zitting in het kader van (hoger) beroepsprocedures ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2024-08-16&g=2024-08-16).
+2. Aan de vaktechnisch coördinatoren en aan de medewerkers bezwaar en beroep van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor alle voorbereidingshandelingen en het optreden ter zitting in het kader van (hoger) beroepsprocedures ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2025-10-03).
 
 ##### Artikel 3. Ondertekening
 
