@@ -4,7 +4,7 @@ identifier: "BWBR0024869"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-04"
-last_updated: "2025-08-01"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024869"
 soort: "AMvB"
@@ -56,7 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - a. **wet:** de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
 
-- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+
+- c. **intermediaire activiteit:** persoonlijke dienstverlening die gericht is op de vervanging of ondersteuning van een door ziekte of gebrek geheel of gedeeltelijk ontbrekende lichaamsfunctie;
+
+- d. **cluster 1, 2, 3 onderscheidenlijk 4:** de clusters, bedoeld in [artikel 2, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
 
 ##### Artikel 2. Uitgangspunten verlening voorzieningen
 
@@ -86,13 +90,17 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 - a. vervoersvoorzieningen die er toe strekken dat de persoon, bedoeld in [artikel 19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), zijn opleidingslocatie kan bereiken;
 
-- b. intermediaire activiteiten ten behoeve van personen met een auditieve handicap;
+- b. intermediaire activiteiten;
 
 - c. meeneembare voorzieningen ten behoeve van de inrichting van de opleidingslocatie en de bij de opleiding te gebruiken hulpmiddelen, die in overwegende mate op het individu van de persoon, bedoeld in [artikel 19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), zijn afgestemd.
 
 2. Onder voorzieningen als bedoeld in [artikel 19a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) worden niet verstaan:
 
-- a. voorzieningen waarvoor een regeling is getroffen in of op basis van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. voorzieningen waarvoor een regeling is getroffen bij of krachtens:
+
+- 1°. de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); of
+
+- 2°. de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), tenzij het gaat om intermediaire activiteiten voor leerlingen die ingeschreven zijn op een school behorend tot cluster 2, ten behoeve van het volgen van een stage of symbiose-onderwijs als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9), respectievelijk [artikel 12 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=12), of om intermediaire activiteiten voor leerlingen die ingeschreven staan op een school behorend tot cluster 1, 3 of 4;
 
 - b. voorzieningen waarvoor een regeling is getroffen onder verantwoordelijkheid van Onze Minister van Volksgezondheid, Welzijn en Sport of aanvullingen op die voorzieningen waarvoor een eigen bijdrage wordt betaald, met uitzondering van bij ministeriële regeling aangewezen hulpmiddelen, genoemd in de [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715), voor zover die hulpmiddelen vrijwel uitsluitend worden gebruikt in de onderwijssituatie;
 
@@ -128,9 +136,9 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 3. Na beëindiging van de vervoersvoorziening, verleend op grond van [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), wordt de leefvervoersvoorziening voortgezet gedurende de termijn die is voorzien in de beschikking van UWV waarbij de voorziening is toegekend, doch ten hoogste voor de duur van twaalf maanden.
 
-##### Artikel 8. Intermediaire activiteiten voor personen met een auditieve handicap
+##### Artikel 8. Intermediaire activiteiten
 
-1. De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), vindt plaats door vergoeding van de kosten voor bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
+1. De verlening van een intermediaire activiteit vindt plaats door vergoeding van de kosten voor bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
 
 2. Een intermediaire activiteit, bedoeld in het eerste lid, worden verleend indien er een verklaring is van de huisarts of de behandelend medisch specialist, waaruit blijkt dat deze persoon op het gebruik van een intermediaire activiteit is aangewezen. Deze verklaring wordt eenmalig gevraagd, tenzij het UWV op grond van [artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a) deze al heeft verkregen voor de uitvoering van aan het UWV opgedragen taken. Bij de uitvoering van dit artikel is het UWV bevoegd de verklaring te gebruiken, die het UWV heeft verkregen voor de uitvoering van aanspraken op intermediaire activiteiten op grond van de [Wet arbeidsongeschiktheidsvoorzieningen jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
@@ -162,13 +170,13 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 4. Het UWV neemt in het gedeelte van het bestuursverslag met jaarrekening, bedoeld in het eerste lid, ten minste een verslag van de werkzaamheden en het gevoerde beleid met betrekking tot de voorzieningen, bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), op en tevens een toelichting op het gedeelte van de jaarrekening en de balans dat betrekking heeft op de uitvoering van dit besluit.
 
-5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2024-01-01&g=2025-08-01), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
+5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2025-10-04&g=2025-10-04), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
 
 ##### Artikel 12. Tijdstip, inhoud en inrichting aanvraag voorschot, vaststelling kosten
 
 1. Het UWV dient jaarlijks vóór 1 december van het jaar voorafgaand aan het begrotingsjaar waarin de kosten zullen worden gemaakt de aanvraag om een voorschot aan Onze Minister in.
 
-2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2024-01-01&g=2025-08-01), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2024-01-01&g=2025-08-01).
+2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2025-10-04&g=2025-10-04), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2025-10-04&g=2025-10-04).
 
 3. Onze Minister stelt de hoogte van het voorschot vast en verstrekt met ingang van het begrotingsjaar waarop het voorschot betrekking heeft maandelijks voor de 11e van de maand een twaalfde deel van het vastgestelde voorschot.
 
@@ -178,7 +186,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 ##### Artikel 13. Nadere regels
 
-Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2024-01-01&g=2025-08-01), worden ingericht en aangeboden.
+Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2025-10-04&g=2025-10-04), worden ingericht en aangeboden.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -186,6 +194,6 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 19a van de wet](ht
 
 ##### Artikel 15. Citeertitel
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap.
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit onderwijsvoorzieningen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
