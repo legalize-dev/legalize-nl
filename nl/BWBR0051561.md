@@ -4,7 +4,7 @@ identifier: "BWBR0051561"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-04"
-last_updated: "2025-09-23"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051561"
 soort: "zbo"
@@ -96,7 +96,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. Tot de vergadering hebben toegang de voorzitter, de andere leden, de secretaris en genodigden tenzij een lid en/of de voorzitter besluit tot een vergadering met enkel de voorzitter en de leden.
 
-4. Een buitengewoon lid kan in deze vergadering deelnemen aan de beraadslagingen, maar niet aan de besluitvorming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=10&z=2025-10-04&g=2025-09-23).
+4. Een buitengewoon lid kan in deze vergadering deelnemen aan de beraadslagingen, maar niet aan de besluitvorming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=10&z=2025-10-04&g=2025-10-04).
 
 ##### Artikel 8
 
@@ -190,7 +190,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 ##### Artikel 17
 
-De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaamheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=2&z=2025-10-04&g=2025-09-23) worden in de Staatscourant en op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
+De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaamheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=2&z=2025-10-04&g=2025-10-04) worden in de Staatscourant en op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
 
 ### Hoofdstuk 4. Raad van advies
 
