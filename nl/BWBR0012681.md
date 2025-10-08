@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2025-04-23"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -222,7 +222,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 25°. de EU-operatie ‘EUNAVFOR ASPIDES’ voor zover deze deelname heeft plaatsgehad in de zeegebieden van de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte, van 29 april 2024 tot 23 augustus 2024;
 
-- 26°. de EU-operatie ‘EUM Armenië’ voor zover deze deelname vanaf 20 februari 2023 heeft plaatsgehad in Armenië: EU-OPERATIES;
+- 26°. de EU-operatie ‘EUM Armenië’ voor zover deze deelname vanaf 20 februari 2023 heeft plaatsgehad in Armenië;
+
+- 27°. het EU Security and Defence Initiative Gulf of Guinea ‘EU SDI GoG’, voor zover deze deelname vanaf 6 november 2024 heeft plaatsgehad in Benin, Ghana, Ivoorkust of Togo: EU-OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
@@ -238,7 +240,7 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005;
 
-- 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank;
+- 3°. de operatie United States Security Coördinator Dayton ‘USSC Dayton’, vanaf 20 januari 2025 Office of the Security Coördinator (OSC) genoemd, voor zover deze deelname heeft plaatsgehad in Ramallah, West Bank;
 
 - 4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf 1 januari 2006;
 
@@ -266,7 +268,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 16°. de missie PACIFIC ARCHER 2024 voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte van 26 maart 2024 tot 26 april 2024 of in de Zuid-Chinese Zee en de Straat van Taiwan in de periode van 12 mei tot en met 9 juni 2024, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft;
 
-- 17°. United Nations Command ‘UNC’ voor zover deze deelname vanaf 1 januari 2025 heeft plaatsgehad vanaf HQ UNC te Camp Humphreys in Zuid-Korea: MULTINATIONALE OPERATIES;
+- 17°. United Nations Command ‘UNC’ voor zover deze deelname vanaf 1 januari 2025 heeft plaatsgehad vanaf HQ UNC te Camp Humphreys in Zuid-Korea;
+
+- 18°. de missie Pacific Security Maritime Exchange ‘PSMX’ Enforcement Coördination Cell ‘ECC’ voor zover deze deelname vanaf 1 juli 2025 heeft plaatsgehad vanaf 7th Fleet marinebasis te Yokosuka in Japan: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
