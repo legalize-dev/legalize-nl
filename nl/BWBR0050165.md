@@ -4,7 +4,7 @@ identifier: "BWBR0050165"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-09"
-last_updated: "2024-08-24"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050165"
 soort: "ministeriele-regeling"
@@ -42,14 +42,14 @@ Besluit:
 
 ##### Artikel 1
 
-Als niet-coöperatieve rechtsgebieden als bedoeld in [artikel 8, eerste lid, onderdeel b, van het Implementatiebesluit Richtlijn openbaarmaking winstbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=8) worden aangewezen: Amerikaans Samoa, Anguilla, Antigua en Barbuda, Fiji, Guam, Palau, Panama, de Russische Federatie, Samoa, Trinidad en Tobago, de Amerikaanse Maagdeneilanden en Vanuatu.
+Als niet-coöperatieve rechtsgebieden als bedoeld in [artikel 8, eerste lid, onderdeel b, van het Implementatiebesluit Richtlijn openbaarmaking winstbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=8) worden aangewezen: de Amerikaanse Maagdeneilanden, Amerikaans-Samoa, Anguilla, Fiji, Guam, Palau, Panama, de Russische Federatie, Samoa, Trinidad en Tobago en Vanuatu.
 
 ##### Artikel 2
 
-Als coöperatieve rechtsgebieden als bedoel in [artikel 8, eerste lid, onderdeel b, van het Implementatiebesluit Richtlijn openbaarmaking winstbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=8) worden aangewezen: Armenië, Belize, de Britse Maagdeneilanden, Costa Rica, Curaçao, Eswatini, Maleisië, de Seychellen, Turkije en Vietnam.
+Als coöperatieve rechtsgebieden als bedoel in [artikel 8, eerste lid, onderdeel b, van het Implementatiebesluit Richtlijn openbaarmaking winstbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=8) worden aangewezen: Belize, de Britse Maagdeneilanden, Eswatini, de Seychellen, Turkije en Vietnam.
 
 ##### Artikel 3
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en is van toepassing op verslagen inzake de winstbelasting die worden opgesteld over boekjaren die aanvangen op of na 22 juni 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en is van toepassing op verslagen inzake de winstbelasting die worden opgesteld over boekjaren die aanvangen op of na 1 januari 2025.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
