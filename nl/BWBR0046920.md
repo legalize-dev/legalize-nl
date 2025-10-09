@@ -4,7 +4,7 @@ identifier: "BWBR0046920"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-09"
-last_updated: "2024-01-01"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046920"
 soort: "ministeriele-regeling"
@@ -95,6 +95,7 @@ Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU)
 | Slikken van de Heen | 100 meter vanaf Campweg nr. 5 4675 PW Sint Philipsland |
 | Slikken van Flakkee | Nabij Bouwdijk bij nummer 25 3248 LA Melissant |
 | Slufter | Krimweg 73 1795 LR De Cocksdorp |
+| Tiengemeten | 3267 LE Goudswaard |
 | Trekweg | Tussen de Praamweg, de Trekweg, de A6 en de Vaartplas 8218 Lelystad |
 | Vroongronden | Ten noorden van Vroonweg 17 (Vroongronden) 4325 KA Renesse |
 | Westerbroekstermadepolder | Westerbroekstermapolder 9607 PW Foxhol |
