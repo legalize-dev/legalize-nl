@@ -4,7 +4,7 @@ identifier: "BWBR0031950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-10"
-last_updated: "2025-05-01"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031950"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder
 
 - c. **gevaar of schade:** beperking van de beschikbaarheid en betrouwbaarheid van de ICT, schending van de vertrouwelijkheid van in ICT opgeslagen informatie of schade aan de integriteit van die informatie;
 
-- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2024-04-06&g=2025-05-01);
+- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2025-10-10&g=2025-10-10);
 
 - d. **Nationale Cyber Security Strategie:** een integraal plan van aanpak voor het versterken van de veiligheid van de digitale samenleving om het vertrouwen in het gebruik van ICT door burger, bedrijfsleven en overheid te verhogen.
 
@@ -100,7 +100,7 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 4. Vergoeding
 
-1. De medevoorzitter en de leden, genoemd in [artikel 2a, eerste lid, onderdelen b tot en met h en o tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2a&z=2024-04-06&g=2025-05-01), ontvangen een vergoeding per vergaderdag en ontvangen een vergoeding van reis- en verblijfskosten overeenkomstig de CAO Rijk.
+1. De medevoorzitter en de leden, genoemd in [artikel 2a, eerste lid, onderdelen b tot en met h en o tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2a&z=2025-10-10&g=2025-10-10), ontvangen een vergoeding per vergaderdag en ontvangen een vergoeding van reis- en verblijfskosten overeenkomstig de CAO Rijk.
 
 2. De vergoeding per vergadering, bedoeld in het eerste lid, bedraagt voor de leden een bedrag dat gelijk is aan 3% van het maximum van salarisschaal 18 van de CAO Rijk. De vergoeding voor de medevoorzitter bedraagt 130% van de hoogte van de vergoeding voor de leden.
 
@@ -142,9 +142,9 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Cyber Security Raad.
 
 - f. De heer mr. J.F.E. Farwerck, namens de overige vitale sectoren, lid;
 
-- g. De heer drs. J.P. de Bruin, namens NLdigital, lid;
+- g. De heer R. Bravenboer, namens NLdigital, lid;
 
-- h. Mevrouw T. Netelenbos, namens ECP, lid;
+- h. De heer E.F.M. van Nispen tot Sevenaer, namens ECP, lid;
 
 - i. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst, lid;
 
