@@ -4,7 +4,7 @@ identifier: "BWBR0050773"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-11"
-last_updated: "2025-02-14"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050773"
 soort: "zbo"
@@ -72,13 +72,13 @@ Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het 
 
 - c. een indicatie hoe vaak (frequentie) de aanvrager de activiteiten gaat aanbieden per locatie;
 
-- d. een indicatie met welke maatschappelijke dienstverleners de aanvrager de hulp bij belastingen en toeslagen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050773&artikel=2&z=2025-02-14&g=2025-02-14) gaat inrichten en wat de rolverdeling daarbij is;
+- d. een indicatie met welke maatschappelijke dienstverleners de aanvrager de hulp bij belastingen en toeslagen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050773&artikel=2&z=2025-10-11&g=2025-10-11) gaat inrichten en wat de rolverdeling daarbij is;
 
 - e. hoe de lokale bibliotheek dit gaat realiseren.
 
 ##### Artikel 5. Verlening en bijstelling subsidie onder begrotingsvoorbehoud
 
-1. De subsidie wordt uiterlijk binnen acht weken na ontvangst van het aanvraagformulier verleend voor de periode van 1 januari van het betreffende kalenderjaar tot en met 31 december van het betreffende kalenderjaar.
+1. De subsidie wordt uiterlijk binnen acht weken na ontvangst van het aanvraagformulier verleend voor de periode van 1 januari van het betreffende kalenderjaar tot en met 31 december 2027.
 
 2. De subsidie wordt verleend onder het voorbehoud dat aan de Koninklijke Bibliotheek voldoende financiële middelen ter beschikking worden gesteld om de subsidie te kunnen verlenen.
 
