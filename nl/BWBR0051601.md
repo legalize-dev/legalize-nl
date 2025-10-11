@@ -4,7 +4,7 @@ identifier: "BWBR0051601"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-11"
-last_updated: "2025-09-01"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051601"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Financiën;
 
-- b. **commissie:** Commissie Beleidskwaliteit Ministerie van Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051601&artikel=2&z=2025-10-11&g=2025-09-01);
+- b. **commissie:** Commissie Beleidskwaliteit Ministerie van Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051601&artikel=2&z=2025-10-11&g=2025-10-11);
 
 - c. **secretaris-generaal:** secretaris-generaal van het Ministerie van Financiën.
 
