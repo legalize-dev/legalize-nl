@@ -4,7 +4,7 @@ identifier: "BWBR0050154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-11"
-last_updated: "2024-10-01"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050154"
 soort: "ministeriele-regeling"
@@ -44,19 +44,25 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-In deze aanwijzing wordt verstaan onder:
+- –. **Aanwijzing inzake de prestatie impactvolle transformaties:** [Aanwijzing van 9 oktober 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048769), 3696063-1053658-PZo, inzake de prestatie impactvolle transformaties;
 
-- a). **beoordelingskader:** Beoordelingskader Impactvolle zorgtransformaties en inzet transformatiemiddelen. Bijlage bij Kamerstukken II 2022/23, 31 765, nr. 704;
+- –. **Aanwijzing inzake de prestatie impactvolle transformaties binnen de Wlz:** Aanwijzing van 13 augustus 2024, 3871925-1068062-PZo, inzake de prestatie impactvolle transformaties binnen de Wet langdurige zorg;
 
-- b). **overig ventiel:** het gaat hier om (het deel van) de kosten van de impactvolle transformaties die niet via zorgverzekeraars of zorgkantoren worden gefinancierd;
+- –. **AZWA:** Aanvullend Zorg- en Welzijnsakkoord;
 
-- c). **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- –. **beoordelingskader:** Beoordelingskader Impactvolle zorgtransformaties en inzet transformatiemiddelen. Bijlage bij **Kamerstukken II** 2022/23, 31 765, nr. 704;
 
-- d). **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- –. **overig ventiel:** het gaat hier om (het deel van) de kosten van de impactvolle transformaties die niet via zorgverzekeraars of zorgkantoren worden gefinancierd;
 
-- e). **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- –. **ventiel:** het gaat hier om (het deel van) de kosten van de impactvolle transformaties die niet via de zorgverzekeraars worden gefinancierd, maar op een andere manier worden gealloceerd;
 
-- f). **Zvw:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+- –. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+
+- –. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+
+- –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+
+- –. **Zvw:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 2. Werkingssfeer
 
@@ -74,15 +80,15 @@ Deze aanwijzing is van toepassing op zorg of overige diensten als bedoeld in de 
 
 3. De vaststelling van de prestatiebeschrijvingen, zoals genoemd in het eerste lid, vindt plaats op tweezijdige aanvraag van zorgkantoor en zorgaanbieder, inclusief een voorstel voor die prestatiebeschrijvingen en een bovengrens.
 
-4. De zorgautoriteit neemt na 31 december 2027 geen nieuwe tweezijdige aanvraag voor impactvolle transformaties in behandeling.
+4. De zorgautoriteit neemt na 31 december 2028 geen nieuwe tweezijdige aanvraag voor impactvolle transformaties in behandeling.
 
 ##### Artikel 4. Macrobeheersbaarheid
 
 1. De zorgautoriteit stelt voor alle betrokken zorgaanbieders van de betreffende zorg binnen een impactvolle transformatie één bovengrens vast als bedoeld in [artikel 50, tweede lid, aanhef en onder c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-2. Deze bovengrens bepaalt de zorgautoriteit op basis van de tweezijdige aanvraag van zorgkantoor en zorgaanbieder met dien verstande dat zij tot ten hoogste voor een bedrag van € 2,395 miljard aan bovengrenzen vaststelt. De € 2,395 miljard omvat ook het overig ventiel en de kosten voor de impactvolle transformaties die ten laste komen van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). De door de zorgautoriteit vastgestelde bovengrenzen en de geraamde kosten van transformaties die via het overig ventiel lopen, brengt zij in mindering op genoemd bedrag.
+2. Deze bovengrens bepaalt de zorgautoriteit op basis van de tweezijdige aanvraag van zorgkantoor en zorgaanbieder met dien verstande dat zij tot ten hoogste voor een bedrag van € 1,961 miljard aan bovengrenzen vaststelt. De € 1,961 miljard omvat ook het overig ventiel en de kosten voor de impactvolle transformaties die ten laste komen van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). De door de zorgautoriteit vastgestelde bovengrenzen en de geraamde kosten van transformaties die via het overig ventiel lopen, brengt zij in mindering op genoemd bedrag.
 
-3. De tarieven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050154&artikel=3&z=2024-10-01&g=2024-10-01), vallen buiten het bedrag als bedoeld in [artikel 49e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e).
+3. De tarieven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050154&artikel=3&z=2025-10-11&g=2025-10-11), vallen buiten het bedrag als bedoeld in [artikel 49e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e).
 
 ##### Artikel 5. Opdracht
 
