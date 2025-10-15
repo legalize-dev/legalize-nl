@@ -4,7 +4,7 @@ identifier: "BWBR0032606"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2013-01-01"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032606"
 soort: "ministeriele-regeling"
@@ -108,6 +108,12 @@ Deze regeling wordt aangehaald als: Regeling operationele functies politie.
 |   | Medewerker Intake & Service |
 |   | Assistent Intake & Service B |
 |   | Assistent Intake & Service A |
+| Operationele Begeleiding | Operationeel Begeleider B |
+|   | Operationeel Begeleider A |
+| Operationeel Docenten | Operationeel Docent D |
+|   | Operationeel Docent C |
+|   | Operationeel Docent B |
+|   | Operationeel Docent A |
 | Operationeel Specialismen | Operationeel Specialist F 1+3 |
 |   | Operationeel Specialist E 1+3 |
 |   | Operationeel Specialist D 1+3 |
