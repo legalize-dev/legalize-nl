@@ -4,7 +4,7 @@ identifier: "BWBR0048802"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2024-06-21"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048802"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De aspirant die tussen 1 januari 2024 en 1 januari 2026 met de politieopleiding begint en op dat moment het praktijkexamen rijopleiding rijbewijs B nog niet met goed gevolg heeft behaald, heeft aanspraak op een tegemoetkoming in de kosten van:
+1. De aspirant die tussen 1 januari 2024 en 1 januari 2027 met de politieopleiding begint en op dat moment het praktijkexamen rijopleiding rijbewijs B nog niet met goed gevolg heeft behaald, heeft aanspraak op een tegemoetkoming in de kosten van:
 
 - a. het volgen van een theoriecursus rijvaardigheid B;
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048802&paragraaf=2&artikel=2&z=2024-06-21&g=2024-06-21), genoemde voorschot vervalt en moet door de aspirant worden terugbetaald indien de aspirant niet voldoet aan de voorwaarden opgenomen in artikel 2, vijfde en zesde lid, van deze regeling.
+Het in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048802&paragraaf=2&artikel=2&z=2025-10-15&g=2025-10-15), genoemde voorschot vervalt en moet door de aspirant worden terugbetaald indien de aspirant niet voldoet aan de voorwaarden opgenomen in artikel 2, vijfde en zesde lid, van deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
