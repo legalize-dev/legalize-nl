@@ -4,7 +4,7 @@ identifier: "BWBR0048398"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-16"
-last_updated: "2024-06-28"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048398"
 soort: "ministeriele-regeling"
@@ -59,9 +59,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Ondermandaat en ondermachtiging
 
-1. Aan de General Manager wordt ondermandaat en ondermachtiging verleend ten aanzien van alle bevoegdheden die op grond van het [Besluit mandaat en machtiging KIWA N.V. (I)](https://wetten.overheid.nl/jci1.3:c:BWBR0027827) aan de voorzitter zijn verleend.
-
-2. Dit besluit laat onverlet de door de voorzitter verleende ondermandaten en ondermachtigingen op grond van [artikel 5 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035484&artikel=5) van de Staatssecretaris met de titel ‘[Besluit mandaat en machtiging Kiwa N.V. (luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0035484)’ ten aanzien van alle taken en bevoegdheden die voortvloeien uit de overeenkomst.
+Aan de General Manager wordt ondermandaat en ondermachtiging verleend ten aanzien van alle bevoegdheden die op grond van het [Besluit mandaat en machtiging KIWA N.V. (I)](https://wetten.overheid.nl/jci1.3:c:BWBR0027827) aan de voorzitter zijn verleend.
 
 ##### Artikel 3. Ondertekening
 
