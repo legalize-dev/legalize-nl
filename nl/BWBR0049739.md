@@ -4,7 +4,7 @@ identifier: "BWBR0049739"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-16"
-last_updated: "2024-06-01"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049739"
 soort: "ministeriele-regeling"
@@ -78,9 +78,9 @@ In deze regeling wordt verstaan onder:
 
 - a. in 2024 € 2.726.000;
 
-- b. in 2025 € 3.700.000; en
+- b. in 2025 € 2.000.000; en
 
-- c. in 2026 € 3.700.000.
+- c. in 2026 € 1.600.000.
 
 2. De maximumhoogte van een uitkering die per aanvraag kan worden verleend bedraagt € 35.000 voor een groot gezin van zes tot en met negen personen en € 50.000 voor een groot gezin van tien personen of meer.
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag bevat in ieder geval:
 
-- a. het adres waarvoor de specifieke uitkering wordt aangevraagd en op welke wijze aan de voorwaarden wordt voldaan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=2&z=2024-06-01&g=2024-06-01);
+- a. het adres waarvoor de specifieke uitkering wordt aangevraagd en op welke wijze aan de voorwaarden wordt voldaan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=2&z=2025-10-16&g=2025-10-16);
 
 - b. de omvang van het beoogde grote gezin dat in het object gaat wonen en op welke wijze het object daarop wordt aangepast;
 
@@ -110,11 +110,11 @@ In deze regeling wordt verstaan onder:
 
 2. Een aanvraag geldt als binnengekomen op het moment dat een volledige aanvraag is ontvangen.
 
-3. Indien de minister op de dag dat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2024-06-01&g=2024-06-01), wordt bereikt meer dan één volledige aanvraag ontvangt, wordt de onderlinge rangschikking vastgesteld door middel van loting.
+3. Indien de minister op de dag dat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2025-10-16&g=2025-10-16), wordt bereikt meer dan één volledige aanvraag ontvangt, wordt de onderlinge rangschikking vastgesteld door middel van loting.
 
 ##### Artikel 6. Verplichtingen
 
-1. Het college moet binnen een jaar na verlening van de specifieke uitkering het project realiseren, waarbij een groot gezin is gehuisvest dat valt binnen de bandbreedte, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2024-06-01&g=2024-06-01), waartoe de specifieke uitkering is verleend. Indien dit niet mogelijk blijkt, kan de minister deze termijn op schriftelijk en gemotiveerd verzoek van het college verlengen.
+1. Het college moet binnen een jaar na verlening van de specifieke uitkering het project realiseren, waarbij een groot gezin is gehuisvest dat valt binnen de bandbreedte, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2025-10-16&g=2025-10-16), waartoe de specifieke uitkering is verleend. Indien dit niet mogelijk blijkt, kan de minister deze termijn op schriftelijk en gemotiveerd verzoek van het college verlengen.
 
 2. Op verzoek van de minister informeert het college over de voortgang van het project waarvoor de specifieke uitkering is verleend.
 
@@ -126,9 +126,9 @@ De minister wijst een aanvraag voor een specifieke uitkering geheel of gedeeltel
 
 - a. sprake is van een onvolledige aanvraag, waarbij de aanvrager eerst in de gelegenheid is gesteld om dit verzuim binnen een redelijke termijn te herstellen;
 
-- b. het project niet voldoet aan de gestelde voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=2&z=2024-06-01&g=2024-06-01);
+- b. het project niet voldoet aan de gestelde voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=2&z=2025-10-16&g=2025-10-16);
 
-- c. de verlening van de aangevraagde hoogte leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2024-06-01&g=2024-06-01); of
+- c. de verlening van de aangevraagde hoogte leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2025-10-16&g=2025-10-16); of
 
 - d. al een specifieke uitkering is verleend voor dezelfde activiteiten dan wel voor zover die uit andere hoofde zijn of worden gesubsidieerd of gefinancierd.
 
@@ -140,7 +140,7 @@ De minister wijst een aanvraag voor een specifieke uitkering geheel of gedeeltel
 
 - a. het object waarvoor een specifieke uitkering wordt verleend;
 
-- b. de omvang van het beoogde grote gezin dat erin wordt gehuisvest en of dit, gelet op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2024-06-01&g=2024-06-01), binnen de bandbreedte van zes tot en met negen personen of tien personen of meer valt;
+- b. de omvang van het beoogde grote gezin dat erin wordt gehuisvest en of dit, gelet op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=3&z=2025-10-16&g=2025-10-16), binnen de bandbreedte van zes tot en met negen personen of tien personen of meer valt;
 
 - c. een beschrijving van het project waaraan de specifieke uitkering moet worden besteed; en
 
@@ -160,7 +160,7 @@ De minister kan de specifieke uitkering lager vaststellen, indien zij niet of on
 
 ##### Artikel 12. Terugvordering
 
-1. De minister kan de specifieke uitkering geheel of gedeeltelijk van het college terugvorderen, indien sprake is van een situatie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=11&z=2024-06-01&g=2024-06-01).
+1. De minister kan de specifieke uitkering geheel of gedeeltelijk van het college terugvorderen, indien sprake is van een situatie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049739&artikel=11&z=2025-10-16&g=2025-10-16).
 
 2. Terugvordering kan plaatsvinden tot het moment dat vijf jaren zijn verstreken, gerekend vanaf de dag na de verzenddatum van het besluit tot verlening van de specifieke uitkering.
 
