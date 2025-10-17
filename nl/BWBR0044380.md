@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2025-10-01"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2025-10-17&g=2025-10-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2025-10-17&g=2025-10-17).
 
 ##### Artikel 2. Instelling en taak
 
@@ -151,6 +151,14 @@ In dit besluit wordt verstaan onder:
 - a. Alihan Uzun BSc te Hendrik-Ido-Ambacht;
 
 - b. Akram Achahboun te Den Haag.
+
+14. Te rekenen vanaf 1 oktober 2025 wordt voor een periode van 1 jaar tot studentlid van de commissie herbenoemd:
+
+- a. Akram Achahboun te Den Haag.
+
+15. Te rekenen vanaf 1 oktober 2025 wordt voor een periode van 1 jaar tot studentlid van de commissie benoemd:
+
+- a. Veronika Vygon BSc BA te Amsterdam.
 
 ##### Artikel 5. Instellingsduur
 
