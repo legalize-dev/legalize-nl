@@ -4,7 +4,7 @@ identifier: "BWBR0048411"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-18"
-last_updated: "2024-03-13"
+last_updated: "2025-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048411"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - **IZA:** Integraal Zorgakkoord, Samen werken aan gezonde zorg van september 2022, Kamerstukken II 2022/23, 31 765, nr. 655, bijlage;
 
-- **mandaathouder:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-03-13) bij deze regeling als zodanig genoemde gemeente of openbaar lichaam dat is ingesteld op grond van [hoofdstuk I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
+- **mandaathouder:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2025-10-18&g=2025-10-18) bij deze regeling als zodanig genoemde gemeente of openbaar lichaam dat is ingesteld op grond van [hoofdstuk I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
 
 - **minister:** Minister voor Langdurige Zorg en Sport;
 
 - **regiobeeld:** een door een samenwerkingsregio met inachtneming van de criteria voor regiobeelden opgesteld document, dat prognoses van en verwachte ontwikkelingen in de zorgbehoefte en daarmee samenhangende informatie over de inwoners van de samenwerkingsregio bevat, alsmede een weergave van de capaciteit en prestaties van zorg, welzijn en ondersteuning in die regio;
 
-- **regionale mandaatstructuur:** de wijze waarop door de gemeenten in een samenwerkingsregio, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-03-13) bij deze regeling, de onderlinge verantwoordelijkheidsverdeling tussen de gemeenten uit de samenwerkingsregio en de mandaathouder is vastgelegd;
+- **regionale mandaatstructuur:** de wijze waarop door de gemeenten in een samenwerkingsregio, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2025-10-18&g=2025-10-18) bij deze regeling, de onderlinge verantwoordelijkheidsverdeling tussen de gemeenten uit de samenwerkingsregio en de mandaathouder is vastgelegd;
 
 - **regioplan:** een door een samenwerkingsregio met inachtneming van de criteria voor regioplannen opgesteld document waarin op basis van het regiobeeld inzichtelijk gemaakt wordt welke de opgaven voor de regio zijn waarbij de risico’s het grootst zijn dat de toegankelijkheid, betaalbaarheid en de kwaliteit van zorg in het geding komen en daarom met prioriteit worden opgepakt;
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Hoogte van de uitkering
 
-De uitkering voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=3&z=2024-03-13&g=2024-03-13) bedraagt per kalenderjaar ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-03-13) bij deze regeling bij de desbetreffende mandaathouder en het desbetreffende jaar genoemde bedrag.
+De uitkering voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=3&z=2025-10-18&g=2025-10-18) bedraagt per kalenderjaar ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2025-10-18&g=2025-10-18) bij deze regeling bij de desbetreffende mandaathouder en het desbetreffende jaar genoemde bedrag.
 
 ##### Artikel 5. Dubbelfinanciering
 
@@ -124,7 +124,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 ##### Artikel 7. Verplichtingen verbonden aan de uitkering
 
-1. Indien bij de aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=6&z=2024-03-13&g=2024-03-13), geen regioplan wordt overgelegd, kan de minister bij de verleningsbeschikking nadere verplichtingen opleggen.
+1. Indien bij de aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=6&z=2025-10-18&g=2025-10-18), geen regioplan wordt overgelegd, kan de minister bij de verleningsbeschikking nadere verplichtingen opleggen.
 
 2. De mandaathouder werkt mee aan de afspraken in het IZA ten aanzien van monitoring.
 
@@ -142,7 +142,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=8&z=2024-03-13&g=2024-03-13), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=8&z=2025-10-18&g=2025-10-18), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op ter hoogte van een bedrag per jaar dat bestaat uit de bestedingen in het betreffende jaar, tot ten hoogste het in de verleningsbeschikking genoemde bedrag per jaar.
 
@@ -164,51 +164,51 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering IZA-doelen 202
 
 ## Bijlage 1
 
-Bijlage behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=4&z=2024-03-13&g=2024-03-13).
+Bijlage behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=4&z=2025-10-18&g=2025-10-18).
 
-|   | Samenwerkingsregio | Mandaathouder | Gemeenten in de samenwerkingsregio | Maximumbedrag per jaar 2023–2026 |
-| --- | --- | --- | --- | --- |
-| 1. | Achterhoek | Doetinchem | Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre, Oude IJsselstreek, Winterswijk | € 2.598.073 |
-| 2. | Amstelland | Amstelveen | Aalsmeer, Amstelveen, Ouder-Amstel, Uithoorn | € 1.154.542 |
-| 3. | Amsterdam | Amsterdam | Amsterdam, Diemen | € 7.158.749 |
-| 4. | Apeldoorn/Zutphen | Apeldoorn | Apeldoorn, Brummen, Epe, Hattem, Heerde, Lochem, Zutphen | € 2.717.144 |
-| 5. | Arnhem/Centraal Gelderland | Arnhem | Arnhem, Doesburg, Duiven, Lingewaard, Overbetuwe, Renkum, Rheden, Rozendaal, Wageningen, Westervoort, Zevenaar | € 3.592.513 |
-| 6. | Drenthe | Emmen | Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld | € 4.210.322 |
-| 7. | DWO-gemeenten | Delft | Delft, Lansingerland, Midden-Delfland, Pijnacker-Nootdorp, Westland | € 2.521.097 |
-| 8. | Flevoland | Almere | Almere, Dronten, Lelystad, Noordoostpolder, Urk | € 3.161.954 |
-| 9. | Friesland | Smallingerland | Achtkarspelen, Ameland, Dantumadiel, De Fryske Marren, Harlingen, Heerenveen, Leeuwarden, Noardeast-Fryslân, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Waadhoeke, Weststellingwerf | € 5.725.525 |
-| 10. | Gelderse Vallei | Ede | Barneveld, Ede, Renswoude, Rhenen, Scherpenzeel, Veenendaal | € 2.412.577 |
-| 11. | Gooi en Vechtstreek | Hilversum | Blaricum, Eemnes, Gooise Meren, Hilversum, Huizen, Laren, Wijdemeren | € 1.751.705 |
-| 12. | Groningen (hele provincie) | Groningen | Eemsdelta, Groningen, Het Hogeland, Midden-Groningen, Oldambt, Pekela, Stadskanaal, Veendam, Westerkwartier, Westerwolde | € 4.988.597 |
-| 13. | Haaglanden | Zoetermeer | 's-Gravenhage, Leidschendam-Voorburg, Rijswijk, Wassenaar, Zoetermeer | € 6.724.900 |
-| 14. | Haarlemmermeer | Haarlemmermeer | Haarlemmermeer | € 1.120.028 |
-| 15. | Hart van Brabant/Midden-Brabant | Tilburg | Dongen, Gilze en Rijen, Goirle, Heusden, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk | € 3.940.505 |
-| 16. | Helmond-de Peel | Helmond | Asten, Deurne, Gemert-Bakel, Helmond, Laarbeek, Someren | € 1.962.470 |
-| 17. | Holland Rijnland | Leiden | Alphen aan den Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude | € 4.213.903 |
-| 18. | Kennemerland | Haarlem | Beverwijk, Bloemendaal, Haarlem, Heemskerk, Heemstede, Velsen, Zandvoort | € 2.860.103 |
-| 19. | Lekstroom | IJsselstein | Houten, IJsselstein, Lopik, Nieuwegein, Vijfheerenlanden | € 1.691.662 |
-| 20. | Midden Holland | Gouda | Bodegraven-Reeuwijk, Gouda, Krimpenerwaard, Waddinxveen, Zuidplas | € 1.895.797 |
-| 21. | Midden-IJssel | Deventer | Deventer, Olst-Wijhe, Raalte, Voorst | € 1.438.963 |
-| 22. | MVS gemeenten | Vlaardingen | Maassluis, Schiedam, Vlaardingen | € 1.805.426 |
-| 23. | Noord en Midden Limburg | Venlo | Beesel, Bergen (L.), Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert | € 4.747.850 |
-| 24. | Noord-Holland Noord | Hoorn | Alkmaar, Bergen (NH.), Castricum, Den Helder, Dijk en Waard, Drechterland, Enkhuizen, Heiloo, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Stede Broec, Texel, Uitgeest | € 5.407.422 |
-| 25. | Noordoost Brabant | 's-Hertogenbosch | 's-Hertogenbosch, Bernheze, Boekel, Boxtel, Land van Cuijk, Maasdriel, Maashorst, Meierijstad, Oss, Sint-Michielsgestel, Vught, Zaltbommel | € 5.508.786 |
-| 26. | Noord Veluwe | Elburg | Elburg, Ermelo, Harderwijk, Nunspeet, Oldebroek, Putten, Zeewolde | € 1.632.231 |
-| 27. | Rijk van Nijmegen | Nijmegen | Berg en Dal, Beuningen, Druten, Heumen, Mook en Middelaar, Nijmegen, Wijchen | € 2.552.974 |
-| 28. | Rivierenland | Tiel | Buren, Culemborg, Neder-Betuwe, Tiel, West Betuwe, West Maas en Waal | € 1.671.177 |
-| 29. | Rotterdam Rijnmond | Rotterdam | Capelle aan den IJssel, Krimpen aan den IJssel, Rotterdam | € 6.964.010 |
-| 30. | Twente | Openbaar Lichaam SamenTwente | Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden | € 5.326.438 |
-| 31. | Utrecht-Eemland | Amersfoort | Amersfoort, Baarn, Bunschoten, Leusden, Nijkerk, Soest, Woudenberg | € 2.398.589 |
-| 32. | Utrecht/Utrecht | Utrecht | Utrecht | € 2.291.765 |
-| 33. | Utrecht/West | De Ronde Venen | De Ronde Venen, Montfoort, Oudewater, Stichtse Vecht, Woerden | € 1.332.512 |
-| 34. | Utrecht Zuidoost | Zeist | Bunnik, De Bilt, Utrechtse Heuvelrug, Wijk bij Duurstede, Zeist | € 1.271.457 |
-| 35. | Waardenland | Dordrecht | Alblasserdam, Dordrecht, Gorinchem, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Molenlanden, Papendrecht, Sliedrecht, Zwijndrecht | € 3.210.118 |
-| 36. | West-Brabant | Breda | Alphen-Chaam, Altena, Baarle-Nassau, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Woensdrecht, Zundert | € 6.039.634 |
-| 37. | IJssel-Vecht | Zwolle | Dalfsen, Hardenberg, Kampen, Ommen, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle | € 3.023.765 |
-| 38. | Zaanstreek Waterland | Purmerend | Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad | € 2.851.418 |
-| 39. | Zeeland | Goes | Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen | € 3.336.908 |
-| 40. | ZHE-BAR (Zuid Hollandse Eilanden en BAR gemeenten) | Nissewaard | Albrandswaard, Barendrecht, Goeree-Overflakkee, Hoeksche Waard, Nissewaard, Ridderkerk, Voorne aan Zee | € 3.427.099 |
-| 41. | Zuid-Limburg | Sittard-Geleen | Beek, Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal | € 5.823.733 |
-| 42. | Zuid Oost Brabant | Eindhoven | Bergeijk, Best, Bladel, Cranendonck, Eersel, Eindhoven, Geldrop-Mierlo, Heeze-Leende, Nuenen c.a., Oirschot, Reusel-De Mierden, Son en Breugel, Valkenswaard, Veldhoven, Waalre | € 4.435.561 |
+|   | Samenwerkingsregio | Mandaathouder | Gemeenten in de samenwerkingsregio | Maximumbedrag per jaar 2023–2025 | Maximumbedrag per jaar 2026 |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Achterhoek | Doetinchem | Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre, Oude IJsselstreek, Winterswijk | € 2.598.073 | € 2.785.666 |
+| 2. | Amstelland | Amstelveen | Aalsmeer, Amstelveen, Ouder-Amstel, Uithoorn | € 1.154.542 | € 1.237.905 |
+| 3. | Amsterdam | Amsterdam | Amsterdam, Diemen | € 7.158.749 | € 7.675.644 |
+| 4. | Apeldoorn/Zutphen | Apeldoorn | Apeldoorn, Brummen, Epe, Hattem, Heerde, Lochem, Zutphen | € 2.717.144 | € 2.913.334 |
+| 5. | Arnhem/Centraal Gelderland | Arnhem | Arnhem, Doesburg, Duiven, Lingewaard, Overbetuwe, Renkum, Rheden, Rozendaal, Wageningen, Westervoort, Zevenaar | € 3.592.513 | € 3.851.909 |
+| 6. | Drenthe | Emmen | Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld | € 4.210.322 | € 4.514.327 |
+| 7. | DWO-gemeenten | Delft | Delft, Lansingerland, Midden-Delfland, Pijnacker-Nootdorp, Westland | € 2.521.097 | € 2.703.132 |
+| 8. | Flevoland | Almere | Almere, Dronten, Lelystad, Noordoostpolder, Urk | € 3.161.954 | € 3.390.262 |
+| 9. | Friesland | Smallingerland | Achtkarspelen, Ameland, Dantumadiel, De Fryske Marren, Harlingen, Heerenveen, Leeuwarden, Noardeast-Fryslân, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Waadhoeke, Weststellingwerf | € 5.725.525 | € 6.134.496 |
+| 10. | Gelderse Vallei | Ede | Barneveld, Ede, Renswoude, Rhenen, Scherpenzeel, Veenendaal | € 2.412.577 | € 2.586.776 |
+| 11. | Gooi en Vechtstreek | Hilversum | Blaricum, Eemnes, Gooise Meren, Hilversum, Huizen, Laren, Wijdemeren | € 1.751.705 | € 1.878.187 |
+| 12. | Groningen (hele provincie) | Groningen | Eemsdelta, Groningen, Het Hogeland, Midden-Groningen, Oldambt, Pekela, Stadskanaal, Veendam, Westerkwartier, Westerwolde | € 4.988.597 | € 5.348.797 |
+| 13. | Haaglanden | Zoetermeer | 's-Gravenhage, Leidschendam-Voorburg, Rijswijk, Wassenaar, Zoetermeer | € 6.724.900 | € 7.210.469 |
+| 14. | Haarlemmermeer | Haarlemmermeer | Haarlemmermeer | € 1.120.028 | € 1.200.899 |
+| 15. | Hart van Brabant/Midden-Brabant | Tilburg | Dongen, Gilze en Rijen, Goirle, Heusden, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk | € 3.940.505 | € 4.225.027 |
+| 16. | Helmond-de Peel | Helmond | Asten, Deurne, Gemert-Bakel, Helmond, Laarbeek, Someren | € 1.962.470 | € 2.104.169 |
+| 17. | Holland Rijnland | Leiden | Alphen aan den Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude | € 4.213.903 | € 4.518.166 |
+| 18. | Kennemerland | Haarlem | Beverwijk, Bloemendaal, Haarlem, Heemskerk, Heemstede, Velsen, Zandvoort | € 2.860.103 | € 3.066.615 |
+| 19. | Lekstroom | IJsselstein | Houten, IJsselstein, Lopik, Nieuwegein, Vijfheerenlanden | € 1.691.662 | € 1.813.808 |
+| 20. | Midden Holland | Gouda | Bodegraven-Reeuwijk, Gouda, Krimpenerwaard, Waddinxveen, Zuidplas | € 1.895.797 | € 2.032.682 |
+| 21. | Midden-IJssel | Deventer | Deventer, Olst-Wijhe, Raalte, Voorst | € 1.438.963 | € 1.542.862 |
+| 22. | MVS gemeenten | Vlaardingen | Maassluis, Schiedam, Vlaardingen | € 1.805.426 | € 1.935.786 |
+| 23. | Noord en Midden Limburg | Venlo | Beesel, Bergen (L.), Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert | € 4.747.850 | € 5.090.666 |
+| 24. | Noord-Holland Noord | Hoorn | Alkmaar, Bergen (NH.), Castricum, Den Helder, Dijk en Waard, Drechterland, Enkhuizen, Heiloo, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Stede Broec, Texel, Uitgeest | € 5.407.422 | € 5.797.863 |
+| 25. | Noordoost Brabant | 's-Hertogenbosch | 's-Hertogenbosch, Bernheze, Boekel, Boxtel, Land van Cuijk, Maasdriel, Maashorst, Meierijstad, Oss, Sint-Michielsgestel, Vught, Zaltbommel | € 5.508.786 | € 5.906.546 |
+| 26. | Noord Veluwe | Elburg | Elburg, Ermelo, Harderwijk, Nunspeet, Oldebroek, Putten, Zeewolde | € 1.632.231 | € 1.750.085 |
+| 27. | Rijk van Nijmegen | Nijmegen | Berg en Dal, Beuningen, Druten, Heumen, Mook en Middelaar, Nijmegen, Wijchen | € 2.552.974 | € 2.737.310 |
+| 28. | Rivierenland | Tiel | Buren, Culemborg, Neder-Betuwe, Tiel, West Betuwe, West Maas en Waal | € 1.671.177 | € 1.791.844 |
+| 29. | Rotterdam Rijnmond | Rotterdam | Capelle aan den IJssel, Krimpen aan den IJssel, Rotterdam | € 6.964.010 | € 7.466.844 |
+| 30. | Twente | Openbaar Lichaam SamenTwente | Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden | € 5.326.438 | € 5.711.031 |
+| 31. | Utrecht-Eemland | Amersfoort | Amersfoort, Baarn, Bunschoten, Leusden, Nijkerk, Soest, Woudenberg | € 2.398.589 | € 2.571.778 |
+| 32. | Utrecht/Utrecht | Utrecht | Utrecht | € 2.291.765 | € 2.457.241 |
+| 33. | Utrecht/West | De Ronde Venen | De Ronde Venen, Montfoort, Oudewater, Stichtse Vecht, Woerden | € 1.332.512 | € 1.428.726 |
+| 34. | Utrecht Zuidoost | Zeist | Bunnik, De Bilt, Utrechtse Heuvelrug, Wijk bij Duurstede, Zeist | € 1.271.457 | € 1.363.262 |
+| 35. | Waardenland | Dordrecht | Alblasserdam, Dordrecht, Gorinchem, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Molenlanden, Papendrecht, Sliedrecht, Zwijndrecht | € 3.210.118 | € 3.441.903 |
+| 36. | West-Brabant | Breda | Alphen-Chaam, Altena, Baarle-Nassau, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Woensdrecht, Zundert | € 6.039.634 | € 6.475.723 |
+| 37. | IJssel-Vecht | Zwolle | Dalfsen, Hardenberg, Kampen, Ommen, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle | € 3.023.765 | € 3.242.094 |
+| 38. | Zaanstreek Waterland | Purmerend | Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad | € 2.851.418 | € 3.057.304 |
+| 39. | Zeeland | Goes | Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen | € 3.336.908 | € 3.577.848 |
+| 40. | ZHE-BAR (Zuid Hollandse Eilanden en BAR gemeenten) | Nissewaard | Albrandswaard, Barendrecht, Goeree-Overflakkee, Hoeksche Waard, Nissewaard, Ridderkerk, Voorne aan Zee | € 3.427.099 | € 3.674.551 |
+| 41. | Zuid-Limburg | Sittard-Geleen | Beek, Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal | € 5.823.733 | € 6.244.233 |
+| 42. | Zuid Oost Brabant | Eindhoven | Bergeijk, Best, Bladel, Cranendonck, Eersel, Eindhoven, Geldrop-Mierlo, Heeze-Leende, Nuenen c.a., Oirschot, Reusel-De Mierden, Son en Breugel, Valkenswaard, Veldhoven, Waalre | € 4.435.561 | € 4.755.829 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
