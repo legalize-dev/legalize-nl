@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2025-08-01"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-08-01&g=2025-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-10-21&g=2025-10-21) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-08-01&g=2025-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-10-21&g=2025-10-21).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-08-01&g=2025-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-10-21&g=2025-10-21)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -467,10 +467,13 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1244 | Visserij |
 | K1350 | Werkgeluk: succesvol samenwerken |
 | K1511 | Wijkgericht werken |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2025** | **Certificaten voor keuzedelen vanaf oktober 2025** |
+| K0793 | BSO 4 tot 8 jaar |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-08-01&g=2025-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-10-21&g=2025-10-21)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -680,6 +683,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0197 | Regelt en begeleidt het onderhoud van het industriële productieproces | 25802 | Operator C |
 | C0198 | Sturen en regelen vanuit de controlekamer | 25802 | Operator C |
 | C0199 | Werken in de groene wijk | 25621 | Medewerker hovenier |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** |
+| C0200 | Begeleiden van collega’s en derden in het industriële productieproces | 25802 | Operator C |
+| C0203 | Projectmanagement in de techniek | 27048 | Leidinggevende van technici |
+| C0204 | Realiseren van aansluitingen op laagspanningsdistributienetten | 27007 | Monteur laagspanningsdistributie |
+| C0206 | Taakgericht leidinggeven aan technici | 27048 | Leidinggevende van technici |
+| C0207 | Uitvoeren van onderhoudswerkzaamheden aan voertuigen en/of mobiele werktuigen | 25668 | Basis technicus voertuigen en mobiele werktuigen (Gewijzigd 2021) |
+| C0208 | Uitvoeren van stukadoorswerk | 25038 | Stukadoor |
+| C0209 | Verzwaren meterkast laagspanning | 27007 | Monteur laagspanningsdistributie (Gewijzigd 2024) |
+| C0210 | Werken aan warmtedistributienetten | 27010 | Eerste monteur gas-, water- of warmtedistributie (Gewijzigd 2024) |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
