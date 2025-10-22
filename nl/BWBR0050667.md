@@ -4,7 +4,7 @@ identifier: "BWBR0050667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-22"
-last_updated: "2025-01-15"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050667"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** een gemeente, niet behorend tot de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, een provincie, de Vervoerregio Amsterdam, de Metropoolregio Rotterdam Den Haag namens een tot die regio’s behorende gemeente of een waterschap;
+- **aanvrager:** een gemeente, niet behorend tot de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, een provincie, de Vervoerregio Amsterdam, de Metropoolregio Rotterdam Den Haag namens een tot die regio’s behorende gemeente, het openbaar lichaam Bonaire, Sint Eustatius of Saba of een waterschap;
 
 - **aanvraagtijdvak:** termijn waarbinnen een aanvraag voor een rijksbijdrage kan worden ingediend;
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
-- **rijksbijdrage:** specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a) of een subsidie op grond van deze regeling.
+- **rijksbijdrage:** specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91) of een subsidie op grond van deze regeling.
 
 ##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
@@ -62,7 +62,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 4. Kosten die in aanmerking komen voor rijksbijdrage
 
-1. De minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2025-01-15&g=2025-01-15) bij deze regeling.
+1. De minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2025-10-22&g=2025-10-22) bij deze regeling.
 
 2. De volgende kosten komen voor de verstrekking van een rijksbijdrage in aanmerking:
 
@@ -72,7 +72,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 3. Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
-- a. maatregelen waarvoor reeds een specifieke uitkering of een subsidie door het Rijk is verstrekt;
+- a. maatregelen waarvoor reeds een specifieke uitkering, bijzondere uitkering of een subsidie door het Rijk is verstrekt;
 
 - b. maatregelen waarvoor in de begroting van de aanvrager al volledige dekking is;
 
@@ -88,7 +88,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 5. Plafond, wijze van verdeling en bekendmaking aanvraagtijdvak
 
-1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-15) bij deze regeling is voor elke aanvrager bepaald welk bedrag van de rijksbijdrage voor de aanvrager ten hoogste beschikbaar is.
+1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-10-22&g=2025-10-22) bij deze regeling is voor elke aanvrager bepaald welk bedrag van de rijksbijdrage voor de aanvrager ten hoogste beschikbaar is.
 
 2. De minister stelt per aanvraagtijdvak een plafond vast voor rijksbijdragen die op grond van deze regeling worden verstrekt. Een aanvraagtijdvak en het plafond worden uiterlijk zes weken voor aanvang ervan bekendgemaakt in de Staatscourant. Aanvraagtijdvakken vinden alleen plaats in het jaar 2025.
 
@@ -96,7 +96,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 6. Hoogte van de rijksbijdrage
 
-De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-15) bij deze regeling.
+De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-10-22&g=2025-10-22), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-10-22&g=2025-10-22) bij deze regeling.
 
 ##### Artikel 7. Aanvraag tot verlening
 
@@ -136,19 +136,19 @@ De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de
 
 - d. en de periode waarvoor de rijksbijdrage wordt verleend.
 
-2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), in geval van honorering van de aanvraag zou worden overschreden.
+2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-10-22&g=2025-10-22), in geval van honorering van de aanvraag zou worden overschreden.
 
 3. De minister kan een aanvraag voor een rijksbijdrage tevens afwijzen, indien de aanvrager naar zijn oordeel in het verleden aanwijsbaar onvoldoende inspanning heeft gepleegd om eerder toegekende maatregelen te realiseren.
 
 ##### Artikel 9. Bevoorschotting en betaling
 
-1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2025-01-15&g=2025-01-15), een voorschot van 100% uit.
+1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2025-10-22&g=2025-10-22), een voorschot van 100% uit.
 
 2. Het voorschot wordt uiterlijk zes weken na de dagtekening van het besluit tot verlening uitgekeerd.
 
 ##### Artikel 10. Voorwaardelijke verlening
 
-Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
+Voor zover de rijksbijdrage wordt verleend ten laste van een nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Waterstaat, wordt in de beschikking tot verlening van een rijksbijdrage vermeld dat de verlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de Wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Waterstaat.
 
 ##### Artikel 11. Verplichtingen ontvanger
 
@@ -162,9 +162,11 @@ Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt
 
 2. Waterschappen leggen verantwoording af over de besteding van de rijksbijdrage overeenkomstig de [Regeling informatieverstrekking sisa](https://wetten.overheid.nl/jci1.3:c:BWBR0029251).
 
+3. De openbare lichamen Bonaire, Sint Eustatius en Saba zenden informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de Minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
+
 ##### Artikel 13. Vaststelling van de rijksbijdrage
 
-De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2025-01-15&g=2025-01-15), heeft plaatsgevonden.
+De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2025-10-22&g=2025-10-22), heeft plaatsgevonden.
 
 ##### Artikel 14. Evaluatieverslag
 
@@ -192,15 +194,99 @@ De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanm
 
 ### 60 km/uur wegen
 
-### 80 km/uur wegen
+### Algemeen
 
-### 100 km/uur wegen
+### Fietsinfrastructuur
 
 ## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-01-15&g=2025-01-15)
 
 Op de volgende rijksbijdrage kan de aanvrager ten hoogste aanspraak maken gedurende de looptijd van deze regeling.
 
+### 60 km/uur wegen
+
+### 80 km/uur wegen
+
+### 100 km/uur wegen
+
+### Gemeenten binnen Metropoolregio Rotterdam Den Haag
+
+### Gemeenten
+
 ### Provincies
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel a1. Grondslagen BES
+
+Deze regeling berust mede op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) in samenhang met [artikel 92, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92).
+
+##### Artikel 13a. Beschikking tot vaststelling bijzondere uitkering BES
+
+1. De Minister stelt de bijzondere uitkering overeenkomstig de verlening vast.
+
+2. In afwijking van het eerste lid kan de bijzondere uitkering lager worden vastgesteld dan het bij beschikking verleende bedrag als:
+
+- a. de activiteiten waarvoor de bijzondere uitkering is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
+
+- b. de aanvrager niet heeft voldaan aan de verplichtingen die zijn verbonden aan de bijzondere uitkering;
+
+- c. de aanvrager onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot verlening van een bijzondere uitkering zou hebben geleid; of
+
+- d. de verlening van een bijzondere uitkering anderszins onjuist was en de aanvrager dit wist of behoorde te weten.
+
+3. De Minister kan de bijzondere uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien:
+
+- a. de aanvrager niet tijdig de laatste verantwoording heeft ingediend; of
+
+- b. de beschikking tot verlening van een bijzondere uitkering wordt ingetrokken of ten nadele van de aanvrager wordt gewijzigd.
+
+##### Artikel 13b. Intrekken en wijzigen verlening bijzondere uitkering BES
+
+1. Zolang de bijzondere uitkering niet is vastgesteld kan de Minister de verlening van de bijzondere uitkering intrekken of ten nadele van de ontvanger wijzigen, indien:
+
+- a. de activiteiten waarvoor bijzondere uitkering is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
+
+- b. de ontvanger niet heeft voldaan aan de aan de bijzondere uitkering verbonden verplichtingen;
+
+- c. de ontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot verlening van de bijzondere uitkering zou hebben geleid; of
+
+- d. de verlening van de bijzondere uitkering anderszins onjuist was en de ontvanger dit wist of behoorde te weten.
+
+2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de bijzondere uitkering is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
+
+##### Artikel 13c. Intrekking en wijziging vaststelling bijzondere uitkering BES
+
+1. De Minister kan de vaststelling van de bijzondere uitkering intrekken of ten nadele van de ontvanger wijzigen:
+
+- a. op grond van feiten of omstandigheden waarvan het bij de vaststelling van de bijzondere uitkering redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de bijzondere uitkering lager dan overeenkomstig de verlening van de bijzondere uitkering zou zijn vastgesteld;
+
+- b. indien de vaststelling van de bijzondere uitkering onjuist was en de ontvanger van de bijzondere uitkering dit wist of behoorde te weten; of
+
+- c. indien de ontvanger van de bijzondere uitkering na de vaststelling van de bijzondere uitkering niet heeft voldaan aan de aan de bijzondere uitkering verbonden verplichtingen.
+
+2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de bijzondere uitkering is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.
+
+3. De vaststelling van de bijzondere uitkering kan niet meer worden ingetrokken of ten nadele van de ontvanger worden gewijzigd indien vijf jaren zijn verstreken sedert de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel c, sedert de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
+
+##### Artikel 13d. Betaling en terugvordering bijzondere uitkering BES
+
+1. De verplichting tot betaling van een bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de Minister aan de ontvanger van de bijzondere uitkering schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13b&z=2025-10-22&g=2025-10-22) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2025-10-22&g=2025-10-22), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
+
+2. De Minister kan onverschuldigd betaalde bedragen van de bijzondere uitkering terugvorderen.
+
+3. Terugvordering van een bijzondere uitkering of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in [artikel 13c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2025-10-22&g=2025-10-22), heeft plaatsgevonden, vijf jaren zijn verstreken.
+
+## Bijlage 1. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-10-22&g=2025-10-22)
+
+De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanmerking.
+
+### 30 km/uur wegen
+
+### 50 km/uur wegen
+
+## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-10-22&g=2025-10-22), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-10-22&g=2025-10-22)
+
+Op de volgende rijksbijdrage kan de aanvrager ten hoogste aanspraak maken gedurende de looptijd van deze regeling.
 
 ### Waterschappen
 
