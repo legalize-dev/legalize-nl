@@ -4,7 +4,7 @@ identifier: "BWBR0003677"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-25"
-last_updated: "2025-01-01"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003677"
 soort: "AMvB"
@@ -73,7 +73,7 @@ behandeling: een behandeling, gericht op het afbreken van zwangerschap.
 
 ##### Artikel 4
 
-Door het bestuur van het ziekenhuis en de kliniek worden, na overleg met de artsen die behandelingen verrichten en de deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), regels gesteld omtrent hun onderlinge samenwerking en omtrent het toezicht van de geneesheer-directeur op de juiste uitvoering daarvan.
+Door het bestuur van het ziekenhuis en de kliniek worden, na overleg met de artsen die behandelingen verrichten en de deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), regels gesteld omtrent hun onderlinge samenwerking en omtrent het toezicht van de geneesheer-directeur op de juiste uitvoering daarvan.
 
 ##### Artikel 5
 
@@ -173,7 +173,7 @@ Met betrekking tot een kliniek waar behandelingen worden verricht, gericht op he
 
 ##### Artikel 22
 
-Tijdens een behandeling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01) dienen ten minste twee artsen in de kliniek aanwezig te zijn.
+Tijdens een behandeling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-10-25&g=2025-10-25) dienen ten minste twee artsen in de kliniek aanwezig te zijn.
 
 ##### Artikel 23
 
@@ -181,13 +181,13 @@ Zodanige voorzieningen moeten worden getroffen dat een vrouw die in de kliniek e
 
 ##### Artikel 24
 
-Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-01-01&g=2025-01-01) dient in ieder geval te worden gesloten met een ziekenhuis waar eveneens behandelingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01) worden verricht.
+Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-10-25&g=2025-10-25) dient in ieder geval te worden gesloten met een ziekenhuis waar eveneens behandelingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-10-25&g=2025-10-25) worden verricht.
 
 #### § 4a. Voorschriften met betrekking tot de medicamenteuze afbreking van de zwangerschap via de huisarts
 
 ##### Artikel 25
 
-1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01) gestelde voorschriften wordt voldaan.
+1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2025-10-25&g=2025-10-25) gestelde voorschriften wordt voldaan.
 
 2. De kliniek verstrekt naast de in het eerste lid bedoelde gegevens tevens de volgende gegevens:
 
@@ -199,7 +199,7 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 - d. het adres van de kliniek met een beschrijving van de voor behandelingen beschikbare ruimten;
 
-- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-01-01&g=2025-01-01) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
+- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-10-25&g=2025-10-25) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
 
 #### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
 
@@ -217,7 +217,7 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 28
 
-1. De arts, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11), dan wel de huisarts, bedoeld in [artikel 11a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a), draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste en tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), onderscheidenlijk [artikel 6a, derde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) verantwoord is te achten.
+1. De arts, bedoeld in [artikel 11, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) dan wel de huisarts, bedoeld in [artikel 11a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a) draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste en tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), onderscheidenlijk [artikel 6a, derde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) verantwoord is te achten.
 
 2. Aan de hand van de gegevens, vervat in de aantekeningen, dient de inspecteur zich een oordeel te kunnen vormen of de arts overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5) dan wel de huisarts overeenkomstig [artikel 6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) handelt.
 
@@ -253,13 +253,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24b
 
-De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01), en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing op de huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), met dien verstande dat:
+De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=3&z=2025-10-25&g=2025-10-25), en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=5&z=2025-10-25&g=2025-10-25), zijn van overeenkomstige toepassing op de huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), met dien verstande dat:
 
-- a. de beschikbaarheid van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), bedoelde deskundigen ook het bieden van nazorg aan de vrouw omvat;
+- a. de beschikbaarheid van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), bedoelde deskundigen ook het bieden van nazorg aan de vrouw omvat;
 
-- b. de zorgplicht van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01), erop is gericht om te komen tot een zorgvuldige besluitvorming overeenkomstig [artikel 6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a);
+- b. de zorgplicht van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=3&z=2025-10-25&g=2025-10-25), erop is gericht om te komen tot een zorgvuldige besluitvorming overeenkomstig [artikel 6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a);
 
-- c. de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01) van toepassing zijn indien de huisarts tot wie de vrouw zich heeft gewend voor het afbreken van de zwangerschap niet haar eigen huisarts is, in welk geval de controle, bedoeld in artikel 7, tweede lid, kan worden verricht door de huisarts die de afbreking van de zwangerschap heeft uitgevoerd.
+- c. de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=6&z=2025-10-25&g=2025-10-25) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=7&z=2025-10-25&g=2025-10-25) van toepassing zijn indien de huisarts tot wie de vrouw zich heeft gewend voor het afbreken van de zwangerschap niet haar eigen huisarts is, in welk geval de controle, bedoeld in artikel 7, tweede lid, kan worden verricht door de huisarts die de afbreking van de zwangerschap heeft uitgevoerd.
 
 #### § 5. Gegevens, te verstrekken bij het aanvragen van een vergunning
 
