@@ -4,7 +4,7 @@ identifier: "BWBR0048998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2023-11-30"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048998"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **project:** het geheel aan activiteiten, werkzaamheden en op te leveren producten zoals opgenomen in het projectplan;
 
-- **projectcoördinator:** projectcoördinator als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=5&artikel=7&z=2023-11-30&g=2023-11-30);
+- **projectcoördinator:** projectcoördinator als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=5&artikel=7&z=2025-10-25&g=2025-10-25);
 
 - **projectplan:** projectplan ‘Zuivering medicijnresten op rioolwaterzuivering (X)’ of een programma voor meerdere rioolwaterzuiveringen van een waterschap;
 
@@ -100,11 +100,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doel
 
-Deze regeling heeft tot doel om met subsidieverstrekking aan een waterschap genoemd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=I&z=2023-11-30&g=2023-11-30), de implementatie en kennisontwikkeling van direct toepasbare vergaande zuiveringstechnieken op rioolwaterzuiveringen door waterschappen te stimuleren, om medicijnresten en andere organische microverontreinigingen verregaand te verwijderen uit stedelijk afvalwater ter bevordering van de waterkwaliteit.
+Deze regeling heeft tot doel om met subsidieverstrekking aan een waterschap genoemd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=I&z=2025-10-25&g=2025-10-25), de implementatie en kennisontwikkeling van direct toepasbare vergaande zuiveringstechnieken op rioolwaterzuiveringen door waterschappen te stimuleren, om medicijnresten en andere organische microverontreinigingen verregaand te verwijderen uit stedelijk afvalwater ter bevordering van de waterkwaliteit.
 
 ##### Artikel 3. Bepalingen [Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) van overeenkomstige toepassing
 
-De [artikelen 4, eerste lid onder a, b, e, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste en vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [17, eerste lid onder a, b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) en [22 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) zijn van overeenkomstige toepassing op een subsidie die op grond van deze regeling wordt verstrekt.
+De [artikelen 4, eerste lid onder a, b, e, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste en vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [17, eerste lid onder a, b, c, e en f en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) en [22 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) zijn van overeenkomstige toepassing op een subsidie die op grond van deze regeling wordt verstrekt.
 
 ### Hoofdstuk 3. Kosten
 
@@ -140,7 +140,7 @@ Kosten voor aanpassingen aan de reguliere zuivering die nodig zijn voor het beha
 
 - b. een variabel bedrag per zuiveringtechnisch werk dat wordt bepaald aan de hand van het aantal kubieke meter inkomend vergaand te zuiveren afvalwater voor een periode van 5 jaar, berekend volgens de formule: € 0,07 x 5 x aantal m3/jaar, gerekend vanaf het moment van functionele inbedrijfstelling van de installatie.
 
-3. Subsidie kan worden verstrekt aan de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=I&z=2023-11-30&g=2023-11-30) genoemde waterschappen, tot een maximumbedrag van € 4 miljoen per zuiveringtechnisch werk.
+3. Subsidie kan worden verstrekt aan de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=I&z=2025-10-25&g=2025-10-25) genoemde waterschappen, tot een maximumbedrag van € 4 miljoen per zuiveringtechnisch werk.
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
@@ -172,7 +172,7 @@ Kosten voor aanpassingen aan de reguliere zuivering die nodig zijn voor het beha
 
 - e. de inpasbaarheid van de vergaande zuivering.
 
-3. De rapportage wordt opgesteld aan de hand van de inhoudsopgave voor jaarlijkse voortgangsrapportage demo-installatie voor vergaande zuivering op een rioolwaterzuivering zoals uitgewerkt in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=III&z=2023-11-30&g=2023-11-30). Hiervan kan in overleg met de Minister worden afgeweken.
+3. De rapportage wordt opgesteld aan de hand van de inhoudsopgave voor jaarlijkse voortgangsrapportage demo-installatie voor vergaande zuivering op een rioolwaterzuivering zoals uitgewerkt in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=III&z=2025-10-25&g=2025-10-25). Hiervan kan in overleg met de Minister worden afgeweken.
 
 ##### Artikel 9. Openbaarheid
 
@@ -192,21 +192,21 @@ De binnen het project gegenereerde resultaten en de opgedane kennis en ervaring 
 
 - d. het projectplan.
 
-2. Voor de analyse, bedoeld in het eerste lid, onder c, maakt het waterschap gebruik van de bemonsterings- en berekeningswijze van de zuiveringsprestaties zoals uitgewerkt in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=II&z=2023-11-30&g=2023-11-30). Hiervan kan in overleg met de Minister worden afgeweken.
+2. Voor de analyse, bedoeld in het eerste lid, onder c, maakt het waterschap gebruik van de bemonsterings- en berekeningswijze van de zuiveringsprestaties zoals uitgewerkt in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&bijlage=II&z=2025-10-25&g=2025-10-25). Hiervan kan in overleg met de Minister worden afgeweken.
 
 ### Hoofdstuk 7. Vaststellingsbeschikking
 
 ##### Artikel 11. Ambtshalve vaststelling van de subsidie
 
-1. De Minister geeft de beschikking tot subsidievaststelling af binnen 13 weken na ontvangst van de inbedrijfsstellingsrapportage, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2023-11-30&g=2023-11-30).
+1. De Minister geeft de beschikking tot subsidievaststelling af binnen 13 weken na ontvangst van de inbedrijfsstellingsrapportage, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2025-10-25&g=2025-10-25).
 
-2. De beschikking tot het vaststellen van de subsidie vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2023-11-30&g=2023-11-30).
+2. De beschikking tot het vaststellen van de subsidie vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2025-10-25&g=2025-10-25).
 
 3. In de beschikking wordt opgenomen voor welke activiteiten subsidie wordt verstrekt.
 
 ##### Artikel 12. Reeds betaalde bedragen
 
-De voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=3&artikel=4&z=2023-11-30&g=2023-11-30) van deze regeling voor 31 december 2023 betaalde bedragen, worden bij de beschikking tot subsidievaststelling bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=7&artikel=11&z=2023-11-30&g=2023-11-30) verrekend.
+De voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=3&artikel=4&z=2025-10-25&g=2025-10-25) van deze regeling voor 31 december 2023 betaalde bedragen, worden bij de beschikking tot subsidievaststelling bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=7&artikel=11&z=2025-10-25&g=2025-10-25) verrekend.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -220,7 +220,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 15. Vervallen van de regeling
 
-Deze regeling vervalt op 31 december 2025, met dien verstande dat zij van toepassing blijft op subsidies aan waterschappen die de installatie uiterlijk 31 december 2024 functioneel in bedrijf hebben gesteld, en met uitzondering van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=8&artikel=13&z=2023-11-30&g=2023-11-30), dat vervalt met ingang van 1 januari 2030.
+Deze regeling vervalt op 31 december 2025, met dien verstande dat zij van toepassing blijft op subsidies aan waterschappen die de installatie uiterlijk 31 december 2024 functioneel in bedrijf hebben gesteld, en met uitzondering van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=8&artikel=13&z=2025-10-25&g=2025-10-25), dat vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 17. Citeertitel
 
@@ -244,7 +244,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling stimulering verwijdering me
 | Waterschap Limburg | Simpelveld |
 | Hoogheemraadschap Delfland | De Groote Lucht |
 
-## Bijlage II. Als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2023-11-30&g=2023-11-30), van de subsidieregeling stimulering verwijdering medicijnresten eerste tranche
+## Bijlage II. Als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=6&artikel=10&z=2025-10-25&g=2025-10-25), van de subsidieregeling stimulering verwijdering medicijnresten eerste tranche
 
 | Een vergaande zuiveringsstap op rioolwaterzuiveringen is gericht op: a. het bereiken van een substantiële verbetering van de effluentkwaliteit door een aanzienlijke reductie in concentraties van medicijnresten/organische microverontreinigingen in het effluent van een rioolwaterzuivering, waarbij in elk watermonster een minimaal zuiveringsrendement van 70% wordt behaald; en b. het streven naar een substantiële vermindering van de ecotoxicologische risico’s voor het watermilieu. |
 | --- |
@@ -279,7 +279,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling stimulering verwijdering me
 
 4 Voorlopige Handreiking voor het uitvoeren van biologische effectmonitoring bij vergaande zuivering van RWZI-effluenten (versie 0.8, dd 8 juni 2023.
 
-## Bijlage III. Als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=5&artikel=8&z=2023-11-30&g=2023-11-30), van de subsidieregeling stimulering verwijdering medicijnresten eerste tranche
+## Bijlage III. Als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048998&hoofdstuk=5&artikel=8&z=2025-10-25&g=2025-10-25), van de subsidieregeling stimulering verwijdering medicijnresten eerste tranche
 
 | De inhoudsopgave van de voortgangsrapportage ziet er als volgt uit. Er wordt hieronder onderscheid gemaakt tussen het verplichte deel voor de Minister (**cursief**aangegeven) en het informatieve deel voor de waterschappen en de rest van de Nederlandse zuiveringspraktijk. |
 | --- |
