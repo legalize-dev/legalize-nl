@@ -4,7 +4,7 @@ identifier: "BWBR0047862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-29"
-last_updated: "2023-11-11"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047862"
 soort: "ministeriele-regeling"
@@ -2858,7 +2858,7 @@ In deze regeling wordt verstaan onder:
 
 - **gezondheidsbevordering:** proces dat zich richt op het veranderen van gedrag van mensen en hun omstandigheden met als doel gezondheid te bevorderen of ziekte te voorkomen;
 
-- **GALA:** Gezond en Actief Leven Akkoord, akkoord waarin afspraken zijn vastgelegd tussen het Ministerie van Volksgezondheid, Sport en Welzijn, gemeenten, GGD’s en zorgverzekeraars over landelijke doelen op het gebied van gezondheid, [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=I&z=2023-11-11&g=2023-11-11);
+- **GALA:** Gezond en Actief Leven Akkoord, akkoord waarin afspraken zijn vastgelegd tussen het Ministerie van Volksgezondheid, Sport en Welzijn, gemeenten, GGD’s en zorgverzekeraars over landelijke doelen op het gebied van gezondheid, [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=I&z=2025-10-29&g=2025-10-29);
 
 - **GGD:** gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
@@ -2866,7 +2866,7 @@ In deze regeling wordt verstaan onder:
 
 - **GHOR:** de geneeskundige hulpverleningsorganisatie in de regio als bedoeld in [artikel 1 van de Wet veiligheidsregio's](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- **Hoofdlijnen Sportakkoord II:** akkoord waarin afspraken zijn vastgelegd tussen de minister, VSG, VNG, het Platform Ondernemende Sportaanbieders en NOC*NSF over sport en bewegen, met addendum, [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=II&z=2023-11-11&g=2023-11-11);
+- **Hoofdlijnen Sportakkoord II:** akkoord waarin afspraken zijn vastgelegd tussen de minister, VSG, VNG, het Platform Ondernemende Sportaanbieders en NOC*NSF over sport en bewegen, met addendum, [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=II&z=2025-10-29&g=2025-10-29);
 
 - **integrale aanpak:** domeinoverstijgende werkwijze waarbij organisaties die werkzaam zijn op de beleidsterreinen van de in deze regeling genoemde onderdelen, samenwerken;
 
@@ -2918,7 +2918,7 @@ In deze regeling wordt verstaan onder:
 
 - c. Ondersteunende onderdelen.
 
-3. Aan de hoofdthema’s als bedoeld in het tweede lid, onder a tot en met c, zijn de in de [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11) genoemde onderdelen gekoppeld.
+3. Aan de hoofdthema’s als bedoeld in het tweede lid, onder a tot en met c, zijn de in de [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29) genoemde onderdelen gekoppeld.
 
 ##### Artikel 2.1. Nadere begripsbepalingen
 
@@ -2928,7 +2928,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 2.2. Onderdelen Sport, bewegen en cultuur
 
-Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [artikel 1.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [artikel 1.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Lokaal Sportakkoord;
 
@@ -2936,9 +2936,9 @@ Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [art
 
 ##### Artikel 2.3. Specifieke verplichtingen voor het verstrekken van een uitkering Sport, bewegen en Cultuur
 
-1. De ontvanger van een uitkering voor het onderdeel Lokaal Sportakkoord, bedoeld in [artikel 2.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), voert ten minste een lokaal sportakkoord uit.
+1. De ontvanger van een uitkering voor het onderdeel Lokaal Sportakkoord, bedoeld in [artikel 2.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), voert ten minste een lokaal sportakkoord uit.
 
-2. De ontvanger van een uitkering voor het onderdeel Brede Regeling Combinatiefuncties, bedoeld in [artikel 2.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), coördineert dat natuurlijke personen worden aangesteld die zich beroepsmatig bezighouden met sport, bewegen en cultuurparticipatie, zoals bedoeld in het addendum Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2023–2026, behorende bij het Hoofdlijnen Sportakkoord II.
+2. De ontvanger van een uitkering voor het onderdeel Brede Regeling Combinatiefuncties, bedoeld in [artikel 2.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), coördineert dat natuurlijke personen worden aangesteld die zich beroepsmatig bezighouden met sport, bewegen en cultuurparticipatie, zoals bedoeld in het addendum Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2023–2026, behorende bij het Hoofdlijnen Sportakkoord II.
 
 ##### Artikel 3.1. Nadere begripsbepalingen
 
@@ -2952,13 +2952,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **gezondheidsachterstand:** individuele negatieve afwijking ten opzichte van de landelijk gemiddelde levensverwachting, het gemiddeld aantal gezonde jaren en de ervaren gezondheid;
 
-- **interventie Kansrijke Start:** een erkende interventie die is opgenomen in de databank interventies op [www.loketgezondleven.nl](onbekend) van het RIVM;
+- **interventie Kansrijke Start:** een erkende interventie die is opgenomen in de databank interventies op [www.loketgezondleven.nl](http://www.loketgezondleven.nl) van het RIVM;
 
 - **kansrijke Start:** programma dat de doelen nastreeft die zijn opgenomen in het Actieprogramma Kansrijke Start, Kamerstukken II 2017–2018, 32 279, nr. 124, bijlage, en de Vervolgaanpak actieprogramma Kansrijke Start 2022–2025, Kamerstukken II 2021–2022, 32 279, nr. 233, bijlage;
 
-- **ketenaanpak valpreventie:** een ketenaanpak gericht op thuiswonende personen van 65 jaar of ouder met een verhoogd valrisico, bestaande uit opsporing, screening, aanbod interventies, doorverwijzing naar structureel beweegaanbod, gepubliceerd op [www.loketgezondleven.nl](onbekend) van het RIVM.
+- **ketenaanpak valpreventie:** een ketenaanpak gericht op thuiswonende personen van 65 jaar of ouder met een verhoogd valrisico, bestaande uit opsporing, screening, aanbod interventies, doorverwijzing naar structureel beweegaanbod, gepubliceerd op [www.loketgezondleven.nl](http://www.loketgezondleven.nl) van het RIVM.
 
-- **landelijk model ketenaanpak voor kinderen met overgewicht en obesitas:** het door de Vrije Universiteit Amsterdam, Care for Obesity ontwikkelde model voor de aanpak van overgewicht en obesitas bij kinderen, zoals te vinden op [www.kindnaargezondergewicht.nl](onbekend);
+- **landelijk model ketenaanpak voor kinderen met overgewicht en obesitas:** het door de Vrije Universiteit Amsterdam, Care for Obesity ontwikkelde model voor de aanpak van overgewicht en obesitas bij kinderen, zoals te vinden op [www.kindnaargezondergewicht.nl](http://www.kindnaargezondergewicht.nl);
 
 - **lokale coalitie kansrijke start:** samenwerkingsverband van ten minste een gemeente, een partij uit de geboortezorg en een partij uit het sociaal domein;
 
@@ -2986,7 +2986,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 3.2. Onderdelen Gezondheid & Sociale Basis
 
-Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [artikel 1.3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [artikel 1.3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Terugdringen Gezondheidsachterstanden;
 
@@ -3012,25 +3012,25 @@ Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [ar
 
 ##### Artikel 3.3. Specifieke verplichtingen voor het verstrekken van een uitkering Gezondheid & Sociale Basis
 
-1. De ontvanger van een uitkering voor het onderdeel Terugdringen Gezondheidsachterstanden, bedoeld in [artikel 3.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), richt zich bij de activiteiten in het kader van de ontvangen uitkering ten minste op wijken en dorpen, gelegen binnen de gemeentegrenzen, waar bovengemiddeld veel personen met een gezondheidsachterstand woonachtig zijn.
+1. De ontvanger van een uitkering voor het onderdeel Terugdringen Gezondheidsachterstanden, bedoeld in [artikel 3.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), richt zich bij de activiteiten in het kader van de ontvangen uitkering ten minste op wijken en dorpen, gelegen binnen de gemeentegrenzen, waar bovengemiddeld veel personen met een gezondheidsachterstand woonachtig zijn.
 
-2. De ontvanger van een uitkering voor het onderdeel Kansrijke Start, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), zet ten minste lokale coalities kansrijke start voort, of richt deze op, maakt regionale samenwerkingsafspraken als bedoeld in het GALA en zet bij de implementatie en uitvoering van de activiteiten in het kader van de ontvangen uitkering, de interventies Kansrijke Start in, die zijn opgenomen in de databank interventies op [www.loketgezondleven.nl](onbekend) van het RIVM.
+2. De ontvanger van een uitkering voor het onderdeel Kansrijke Start, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), zet ten minste lokale coalities kansrijke start voort, of richt deze op, maakt regionale samenwerkingsafspraken als bedoeld in het GALA en zet bij de implementatie en uitvoering van de activiteiten in het kader van de ontvangen uitkering, de interventies Kansrijke Start in, die zijn opgenomen in de databank interventies op [www.loketgezondleven.nl](http://www.loketgezondleven.nl) van het RIVM.
 
-3. De ontvanger van een uitkering voor het onderdeel Mentale Gezondheid, bedoeld in [artikel 3.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), maakt het onderwerp mentale gezondheid onderdeel van het lokale gezondheidsbeleid of geeft verdere uitvoering aan dit onderwerp.
+3. De ontvanger van een uitkering voor het onderdeel Mentale Gezondheid, bedoeld in [artikel 3.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), maakt het onderwerp mentale gezondheid onderdeel van het lokale gezondheidsbeleid of geeft verdere uitvoering aan dit onderwerp.
 
-4. De ontvanger van een uitkering voor het onderdeel Aanpak overgewicht en obesitas, bedoeld in [artikel 3.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), voert het landelijk model ketenaanpak voor kinderen met overgewicht en obesitas uit, of draagt zorg voor de samenwerking rondom de uitvoering en implementatie van GLI-programma’s voor volwassenen als bedoeld in het GALA.
+4. De ontvanger van een uitkering voor het onderdeel Aanpak overgewicht en obesitas, bedoeld in [artikel 3.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), voert het landelijk model ketenaanpak voor kinderen met overgewicht en obesitas uit, of draagt zorg voor de samenwerking rondom de uitvoering en implementatie van GLI-programma’s voor volwassenen als bedoeld in het GALA.
 
-5. De ontvanger van een uitkering voor het onderdeel Valpreventie, bedoeld in [artikel 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), geeft uitvoering aan de ketenaanpak valpreventie.
+5. De ontvanger van een uitkering voor het onderdeel Valpreventie, bedoeld in [artikel 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), geeft uitvoering aan de ketenaanpak valpreventie.
 
-6. De ontvanger van een uitkering voor het onderdeel Leefomgeving, bedoeld in [artikel 3.2, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), weegt bij de inrichting van het fysieke domein in ieder geval het aspect gezondheid mee.
+6. De ontvanger van een uitkering voor het onderdeel Leefomgeving, bedoeld in [artikel 3.2, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), weegt bij de inrichting van het fysieke domein in ieder geval het aspect gezondheid mee.
 
-7. De ontvanger van een uitkering voor het onderdeel OKO & Vroegsignalering alcoholproblematiek, bedoeld in [artikel 3.2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), geeft uitvoering aan OKO of Vroegsignalering alcoholproblematiek.
+7. De ontvanger van een uitkering voor het onderdeel OKO & Vroegsignalering alcoholproblematiek, bedoeld in [artikel 3.2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), geeft uitvoering aan OKO of Vroegsignalering alcoholproblematiek.
 
-8. De ontvanger van een uitkering voor het onderdeel Versterken sociale basis, bedoeld in [artikel 3.2 onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), stelt een wijk- of dorpsaanpak op, verbetert of bestendigt deze en voert deze uit.
+8. De ontvanger van een uitkering voor het onderdeel Versterken sociale basis, bedoeld in [artikel 3.2 onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), stelt een wijk- of dorpsaanpak op, verbetert of bestendigt deze en voert deze uit.
 
-9. De ontvanger van een uitkering voor het onderdeel Mantelzorg, bedoeld in [artikel 3.2, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), bevordert de ondersteuning van mantelzorgers door het opstellen, verbeteren of bestendigen van een wijk- of dorpsaanpak, gericht op mantelzorg en respijtzorg en de uitvoering hiervan.
+9. De ontvanger van een uitkering voor het onderdeel Mantelzorg, bedoeld in [artikel 3.2, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), bevordert de ondersteuning van mantelzorgers door het opstellen, verbeteren of bestendigen van een wijk- of dorpsaanpak, gericht op mantelzorg en respijtzorg en de uitvoering hiervan.
 
-10. De ontvanger van een uitkering voor het onderdeel Eén tegen Eenzaamheid, bedoeld in [artikel 3.2, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), werkt samen met of neemt deel aan lokale coalities tegen eenzaamheid en streeft de doelen na die zijn verwoord in het actieprogramma Eén tegen eenzaamheid.
+10. De ontvanger van een uitkering voor het onderdeel Eén tegen Eenzaamheid, bedoeld in [artikel 3.2, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), werkt samen met of neemt deel aan lokale coalities tegen eenzaamheid en streeft de doelen na die zijn verwoord in het actieprogramma Eén tegen eenzaamheid.
 
 ### Hoofdstuk 4. Hoofdthema ondersteunende onderdelen
 
@@ -3042,7 +3042,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 4.2. Ondersteunende onderdelen
 
-Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [artikel 1.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [artikel 1.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Versterking kennis- en adviesfunctie GGD;
 
@@ -3050,39 +3050,41 @@ Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [art
 
 ##### Artikel 4.3. Specifieke verplichtingen voor het verstrekken van een uitkering Ondersteunende onderdelen
 
-1. De ontvanger van een uitkering voor het onderdeel Versterking kennis- en adviesfunctie GGD, bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), investeert in de GGD voor het opbouwen en uitbreiden van de voor deze uitkering relevante kennis ten behoeve van advisering aan ten minste het college van burgemeester en wethouders.
+1. De ontvanger van een uitkering voor het onderdeel Versterking kennis- en adviesfunctie GGD, bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), investeert in de GGD voor het opbouwen en uitbreiden van de voor deze uitkering relevante kennis ten behoeve van advisering aan ten minste het college van burgemeester en wethouders.
 
-2. De ontvanger van een uitkering voor het onderdeel Coördinatiekosten regionale aanpak preventie, bedoeld in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), maakt bovengemeentelijke afspraken met in elk geval de GGD en zorgverzekeraars over voor welke onderdelen die behoren tot het hoofdthema Gezondheid & sociale basis, bedoeld in [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), een uitkering wordt aangevraagd.
+2. De ontvanger van een uitkering voor het onderdeel Coördinatiekosten regionale aanpak preventie, bedoeld in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), maakt bovengemeentelijke afspraken met in elk geval de GGD en zorgverzekeraars over voor welke onderdelen die behoren tot het hoofdthema Gezondheid & sociale basis, bedoeld in [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), een uitkering wordt aangevraagd.
 
 ### Hoofdstuk 5. Uitkeringsplafond, hoogte van de uitkering en wijze van verdeling
 
 ##### Artikel 5.1. Uitkeringsplafonds onderdelen
 
-Voor de onderdelen bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), gelden jaarlijks de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=III&z=2023-11-11&g=2023-11-11) vermelde, cumulatieve uitkeringsplafonds.
+Voor de onderdelen bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), gelden jaarlijks de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=III&z=2025-10-29&g=2025-10-29) vermelde, cumulatieve uitkeringsplafonds.
 
 ##### Artikel 5.2. Hoogte van de uitkering
 
-De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), aan een gemeente toekennen ter hoogte van de bedragen zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-11-11&g=2023-11-11).
+De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), aan een gemeente toekennen ter hoogte van de bedragen zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2025-10-29&g=2025-10-29).
 
 ##### Artikel 5.3. Wijze van verdeling
 
-1. Indien een uitkeringsplafond als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-11-11&g=2023-11-11) niet volledig wordt benut, kan de minister in overleg met de Minister van Financiën bepalen dat het resterende bedrag voor het betreffende onderdeel geheel of ten dele evenredig worden uitgekeerd aan de aanvragers waaraan een uitkering voor het betreffende onderdeel is verleend.
+1. Indien een uitkeringsplafond als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2025-10-29&g=2025-10-29) niet volledig wordt benut, kan de minister in overleg met de Minister van Financiën bepalen dat het resterende bedrag voor het betreffende onderdeel geheel of ten dele evenredig wordt uitgekeerd aan de aanvragers waaraan een uitkering voor het betreffende onderdeel is verleend.
 
-2. Een uitkering die is toegekend voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), mag jaarlijks tot een maximum van 15% worden aangewend voor een ander onderdeel dat behoort tot hetzelfde hoofdthema als bedoeld in [artikel 1.3, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11).
+2. Indien een uitkering die voor een bepaald jaar is toegekend voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), niet volledig wordt benut, kan het resterende bedrag in het betreffende jaar worden besteed aan een ander onderdeel.
 
-3. Indien een voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), voor het jaar 2023 verleende uitkering niet of niet geheel in het jaar 2023 is besteed, kan het overschot tot een maximum van 20% in het jaar 2024 worden besteed aan het betreffende onderdeel.
+3. Indien een voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), voor het jaar 2023 verleende uitkering niet of niet geheel in het jaar 2023 is besteed, kan het overschot tot een maximum van 20% in het jaar 2024 worden besteed aan het betreffende onderdeel.
+
+4. Indien een voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), voor het jaar 2025 verleende uitkering niet of niet geheel in 2025 is besteed, kan het overschot tot een maximum van 10% in het jaar 2026 worden besteed aan hetzelfde onderdeel of aan een ander onderdeel.
 
 ### Hoofdstuk 6. Aanvraag tot verlening van een uitkering
 
 ##### Artikel 6.1. Aanvraagtermijn
 
-1. Een aanvraag tot een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), kan worden ingediend in de periode van:
+1. Een aanvraag tot een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), kan worden ingediend in de periode van:
 
 - a. 6 februari 2023 tot en met 31 maart 2023 en
 
 - b. 1 september 2023 tot en met 31 oktober 2023.
 
-2. Een aanvraag ingediend tijdens de in het eerste lid, onder b, bedoelde termijn heeft betrekking op alle resterende jaren waarin voor het desbetreffende onderdeel middelen ter beschikking zijn gesteld, zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-11-11&g=2023-11-11).
+2. Een aanvraag ingediend tijdens de in het eerste lid, onder b, bedoelde termijn heeft betrekking op alle resterende jaren waarin voor het desbetreffende onderdeel middelen ter beschikking zijn gesteld, zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2025-10-29&g=2025-10-29).
 
 ##### Artikel 6.2. De aanvraag
 
@@ -3142,17 +3144,17 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 1. De minister neemt een besluit over de verlening van de uitkering:
 
-- a. binnen 8 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-11-11&g=2023-11-11);
+- a. binnen 8 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2025-10-29&g=2025-10-29);
 
-- b. binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-11-11&g=2023-11-11).
+- b. binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2025-10-29&g=2025-10-29).
 
-2. Het besluit tot verlening vermeldt in elk geval voor welke onderdelen als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
+2. Het besluit tot verlening vermeldt in elk geval voor welke onderdelen als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
 ##### Artikel 8.2. Bevoorschotting
 
 1. De minister verleent ambtshalve voorschotten voor 100% van het aangevraagde bedrag.
 
-2. Het voorschot voor 2024 en volgende jaren wordt verleend na indiening van het plan van aanpak, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.3&z=2023-11-11&g=2023-11-11).
+2. Het voorschot voor 2024 en volgende jaren wordt verleend na indiening van het plan van aanpak, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.3&z=2025-10-29&g=2025-10-29).
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
@@ -3184,7 +3186,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026.
 
-## Bijlage I. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-11-11&g=2023-11-11)
+## Bijlage I. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2025-10-29&g=2025-10-29)
 
 **GALA**
 
@@ -3206,9 +3208,9 @@ De stip op de horizon is een gezonde generatie in 2040, met weerbare, gezonde me
 
 Gezondheid is ons kapitaal, als mens en als samenleving. Uit onderzoek van het CBS blijkt dat gezondheid belangrijk is voor het geluksgevoel. Mensen willen zo lang mogelijk zelfstandig kunnen blijven. Gezondheid vraagt dan ook om een beweging naar het versterken van het normale leven, de weerbaarheid, demedicaliseren en gezondheidsvaardigheden. Voor het versterken van de weerbaarheid is het belangrijk om zoveel mogelijk in te zetten op preventie vanuit de lokale basisvoorzieningen (denk aan: ‘natuurlijke’ vindplaatsen als de school, de huisarts en het sociaal wijkteam en sterke verbindingen tussen deze ‘natuurlijke’ vindplaatsen in het medisch, sociaal en fysieke domein.
 
-Gezondheid is breder dan de afwezigheid van ziekte en klachten. Het idee van ‘positieve gezondheid’1Definitie positieve gezondheid: het vermogen van mensen om met de fysieke, emotionele en sociale levensuitdagingen om te gaan en zoveel mogelijk eigen regie te voeren (Machteld Huber, [www.iph.nl](onbekend)). biedt een bredere kijk op gezondheid. Mensen zijn niet hun aandoening. Toch focust de zorg daar vaak wel op. De aandacht gaat te vaak uit medische klachten en gezondheidsproblemen, en hoe we die kunnen oplossen. Positieve Gezondheid kiest een andere invalshoek. Het accent ligt niet op ziekte, maar op mensen zelf, op hun veerkracht en op wat hun leven betekenisvol maakt. Gezondheid raakt iedereen, ook de mensen met een handicap, een beperking of een (chronische) ziekte. De voorzieningen die er zijn om mensen te helpen een gezond en actief leven te leiden moeten voor iedereen toegankelijk zijn.
+Gezondheid is breder dan de afwezigheid van ziekte en klachten. Het idee van ‘positieve gezondheid’1Definitie positieve gezondheid: het vermogen van mensen om met de fysieke, emotionele en sociale levensuitdagingen om te gaan en zoveel mogelijk eigen regie te voeren (Machteld Huber, [www.iph.nl](http://www.iph.nl)). biedt een bredere kijk op gezondheid. Mensen zijn niet hun aandoening. Toch focust de zorg daar vaak wel op. De aandacht gaat te vaak uit medische klachten en gezondheidsproblemen, en hoe we die kunnen oplossen. Positieve Gezondheid kiest een andere invalshoek. Het accent ligt niet op ziekte, maar op mensen zelf, op hun veerkracht en op wat hun leven betekenisvol maakt. Gezondheid raakt iedereen, ook de mensen met een handicap, een beperking of een (chronische) ziekte. De voorzieningen die er zijn om mensen te helpen een gezond en actief leven te leiden moeten voor iedereen toegankelijk zijn.
 
-Mensen in een kwetsbare sociaal economische situatie kampen veelal met armoede, schulden, problemen rondom huisvesting, eenzaamheid of werkloosheid. Deze omstandigheden maken dat zij een hoger risico op een slechtere (ervaren) gezondheid hebben. Mensen met een lager opleidingsniveau leven gemiddeld ruim 4 jaar korter en krijgen ruim 14 jaar eerder te maken met een slechter ervaren gezondheid dan hoogopgeleiden2Bron: [www.staatvenz.nl](onbekend). Daarnaast kunnen taalbarrières of verschillende sociaal-culturele waarden goede zorg in de weg staan. Ook komt het vaker voor dat mensen met een lager opleidingsniveau roken of overgewicht hebben, een hoger risico op soa’s, hiv en onbedoelde zwangerschappen hebben en minder vaak vaccinaties halen in het kader van het Rijksvaccinatieprogramma. Daarnaast geldt dat de (mentale) gezondheid van veel mensen onder druk staat in een samenleving die snel verandert en gepaard gaat met grote onzekerheden. Gezondheidsachterstanden zijn maatschappelijk onwenselijk omdat dit een negatieve impact heeft op de kwaliteit van leven van mensen en op de mogelijkheden voor mensen om te participeren in het economisch en maatschappelijk leven.
+Mensen in een kwetsbare sociaal economische situatie kampen veelal met armoede, schulden, problemen rondom huisvesting, eenzaamheid of werkloosheid. Deze omstandigheden maken dat zij een hoger risico op een slechtere (ervaren) gezondheid hebben. Mensen met een lager opleidingsniveau leven gemiddeld ruim 4 jaar korter en krijgen ruim 14 jaar eerder te maken met een slechter ervaren gezondheid dan hoogopgeleiden2Bron: [www.staatvenz.nl](http://www.staatvenz.nl). Daarnaast kunnen taalbarrières of verschillende sociaal-culturele waarden goede zorg in de weg staan. Ook komt het vaker voor dat mensen met een lager opleidingsniveau roken of overgewicht hebben, een hoger risico op soa’s, hiv en onbedoelde zwangerschappen hebben en minder vaak vaccinaties halen in het kader van het Rijksvaccinatieprogramma. Daarnaast geldt dat de (mentale) gezondheid van veel mensen onder druk staat in een samenleving die snel verandert en gepaard gaat met grote onzekerheden. Gezondheidsachterstanden zijn maatschappelijk onwenselijk omdat dit een negatieve impact heeft op de kwaliteit van leven van mensen en op de mogelijkheden voor mensen om te participeren in het economisch en maatschappelijk leven.
 
 Daarbij staat ons zorgstelsel zelf ook onder druk. Nu al werkt 1 op de 6 werknemers in de zorg en geven we 13 procent van ons nationale inkomen uit aan zorg. De komende decennia neemt de zorgvraag alleen maar verder toe, onder meer vanwege de vergrijzing. Het voorkomen van gezondheidsproblemen (universele en selectieve preventie), de inzet van (leefstijl)interventies bij hoog risico op ziekte (geïndiceerde preventie) en leefstijl als (onderdeel van de) behandeling (zorggerelateerde preventie) is belangrijk om de kwaliteit, toegankelijkheid en houdbaarheid van het Nederlandse zorgstelsel in de toekomst te kunnen waarborgen. De coronapandemie heeft dit besef ook versterkt.
 
@@ -3264,7 +3266,7 @@ In onderstaande figuur wordt de samenhang weergegeven.
 
 ### 3. Gezondheidsdoelen en resultaten die we willen behalen
 
-Het kabinet heeft een gezonde generatie in 2040 met een focus op de jeugd door sport, voeding en bewegen in het regeerakkoord als doel omarmd. Dat betekent dat de Nederlandse jeugd in 2040 de gezondste van de wereld is. Een ambitie waar breed in de samenleving veel draagvlak voor is4[www.gezondegeneratie.nl](onbekend); Brief Initiatiefgroep preventieakkoord aan informateur, mei 2021, en waarbij meer aandacht is voor preventie en een gezonde leefstijl van jongs af aan. Want kinderen die ongezond opgroeien staan veelal op een achterstand. Het verminderen van vermijdbare gezondheidsachterstanden5Coalitieakkoord dec 2021 ‘Omzien naar elkaar, vooruitkijken naar de toekomst’, pagina 32 vergt dan ook extra aandacht, vanaf de eerste duizend dagen van een kind. Het verminderen van gezondheidsachterstanden is weliswaar apart als doel benoemd, maar snijdt dwars door de overige doelen heen.
+Het kabinet heeft een gezonde generatie in 2040 met een focus op de jeugd door sport, voeding en bewegen in het regeerakkoord als doel omarmd. Dat betekent dat de Nederlandse jeugd in 2040 de gezondste van de wereld is. Een ambitie waar breed in de samenleving veel draagvlak voor is4[www.gezondegeneratie.nl](http://www.gezondegeneratie.nl/); Brief Initiatiefgroep preventieakkoord aan informateur, mei 2021, en waarbij meer aandacht is voor preventie en een gezonde leefstijl van jongs af aan. Want kinderen die ongezond opgroeien staan veelal op een achterstand. Het verminderen van vermijdbare gezondheidsachterstanden5Coalitieakkoord dec 2021 ‘Omzien naar elkaar, vooruitkijken naar de toekomst’, pagina 32 vergt dan ook extra aandacht, vanaf de eerste duizend dagen van een kind. Het verminderen van gezondheidsachterstanden is weliswaar apart als doel benoemd, maar snijdt dwars door de overige doelen heen.
 
 Naast de focus op kinderen en jongeren richten we ons met de gezonde generatie ook op volwassenen met onderstaande gemeenschappelijke doelen en op (het behoud van) de vitaliteit van het toenemend aantal ouderen.
 
@@ -3274,7 +3276,7 @@ Elk doel en de beoogde resultaten worden hierna toegelicht. Tevens zijn de actie
 
 ### 3A. Terugdringen gezondheidsachterstanden (waaronder Kansrijke Start)
 
-Iemand die opgroeit in een gezin met een hoog inkomen en een hoog opleidingsniveau heeft meer kans om langer te leven in een goede gezondheid, dan iemand die opgroeit in een gezin met een laag inkomen en een laag opleidingsniveau. Mensen met een lager opleidingsniveau leven gemiddeld ruim 4 jaar korter en krijgen bovendien ruim 14 jaar eerder te maken met een slechter ervaren gezondheid dan hoogopgeleiden6Bron: [www.staatvenz.nl](onbekend). De aanpak van gezondheidsachterstanden vergt meer dan alleen de inzet op gezondheid. Er is vaak sprake van achterliggende problematiek zoals bestaansonzekerheid, armoede en kansenongelijkheid, een ongezonde leefomgeving en zwakke gezondheidsvaardigheden. Mensen met schulden, zonder baan of zorgen over hun woning kunnen het zich niet veroorloven om gezond te leven of hebben hier geen mentale ruimte voor. Een bredere blik op gezondheid en een integrale langdurige aanpak gericht op de wijken en mensen die kampen met gezondheidsachterstanden is nodig met oog voor gezondheidsvaardigheden en cultuursensitiviteit. Dit moet een aanpak zijn zich richt op verschillende factoren zoals de financiële situatie, de huisvesting, het sociaal netwerk, onderwijs, de gezinssituatie en de arbeidsmarkt.
+Iemand die opgroeit in een gezin met een hoog inkomen en een hoog opleidingsniveau heeft meer kans om langer te leven in een goede gezondheid, dan iemand die opgroeit in een gezin met een laag inkomen en een laag opleidingsniveau. Mensen met een lager opleidingsniveau leven gemiddeld ruim 4 jaar korter en krijgen bovendien ruim 14 jaar eerder te maken met een slechter ervaren gezondheid dan hoogopgeleiden6Bron: [www.staatvenz.nl](http://www.staatvenz.nl). De aanpak van gezondheidsachterstanden vergt meer dan alleen de inzet op gezondheid. Er is vaak sprake van achterliggende problematiek zoals bestaansonzekerheid, armoede en kansenongelijkheid, een ongezonde leefomgeving en zwakke gezondheidsvaardigheden. Mensen met schulden, zonder baan of zorgen over hun woning kunnen het zich niet veroorloven om gezond te leven of hebben hier geen mentale ruimte voor. Een bredere blik op gezondheid en een integrale langdurige aanpak gericht op de wijken en mensen die kampen met gezondheidsachterstanden is nodig met oog voor gezondheidsvaardigheden en cultuursensitiviteit. Dit moet een aanpak zijn zich richt op verschillende factoren zoals de financiële situatie, de huisvesting, het sociaal netwerk, onderwijs, de gezinssituatie en de arbeidsmarkt.
 
 Om impact te maken bij mensen in kwetsbare sociaal economische posities is het belangrijk om in beleidsontwikkeling te differentiëren en zo rekening te houden met kansengelijkheid op het bereiken van een goede gezondheid voor iedereen: verschil maken om verschil te verminderen.
 
@@ -3298,7 +3300,7 @@ Een gezonde fysieke omgeving is van belang om gezond en actief leven te bevorder
 
 VWS en gemeenten zorgen ervoor dat gezondheid in brede zin geborgd wordt bij het opstellen van omgevingsbeleid. Zo ook in omgevingsvisies, omgevingsplannen en andere belangrijke besluiten. Ze kunnen hiervoor gebruik maken van beschikbare kennis bij het RIVM en GGD-en. Als inspiratie kunnen de verschillende aspecten van gezondheid worden gebruikt, zoals benoemd in het VNG-position paper **Samenwerken aan de gezonde leefomgeving**. Samen met de Minister van VRO (Volkshuisvesting en Ruimtelijke Ordening) wordt met het Programma Wonen en Zorg voor ouderen ingezet op een leefomgeving die uitnodigt tot bewegen en ontmoeten
 
-VWS en gemeenten willen bereiken dat de leefomgeving van mensen in Nederland gezonder wordt en bevordert dat mensen gezonde keuzes maken. Dit gaat in het bijzonder over de leefomgeving van mensen die om verschillende redenen kwetsbaarder zijn voor gezondheidsdreigingen, zoals kinderen, ouderen en mensen met minder mogelijkheden om zelf iets aan hun leefomgeving te veranderen. Extra aandacht moet er zijn voor gebieden waar verschillende gezondheidsdreigingen stapelen. We willen de slechtste omgevingen verbeteren (eventueel ten koste van andere maatschappelijke belangen) en overal de ruimtelijke keuzes optimaliseren voor een gezonde leefstijl (zie ook de ambities in de Landelijke nota gezondheidsbeleid[https://www.rijksoverheid.nl/documenten/rapporten/2020/02/29/gezondheid-breed-op-de-agenda](onbekend)). Voor de voedselomgeving geldt dat het streven van VWS en gemeenten is dat de gezonde keuze ook de makkelijkste keuze is.
+VWS en gemeenten willen bereiken dat de leefomgeving van mensen in Nederland gezonder wordt en bevordert dat mensen gezonde keuzes maken. Dit gaat in het bijzonder over de leefomgeving van mensen die om verschillende redenen kwetsbaarder zijn voor gezondheidsdreigingen, zoals kinderen, ouderen en mensen met minder mogelijkheden om zelf iets aan hun leefomgeving te veranderen. Extra aandacht moet er zijn voor gebieden waar verschillende gezondheidsdreigingen stapelen. We willen de slechtste omgevingen verbeteren (eventueel ten koste van andere maatschappelijke belangen) en overal de ruimtelijke keuzes optimaliseren voor een gezonde leefstijl (zie ook de ambities in de Landelijke nota gezondheidsbeleid[https://www.rijksoverheid.nl/documenten/rapporten/2020/02/29/gezondheid-breed-op-de-agenda](https://www.rijksoverheid.nl/documenten/rapporten/2020/02/29/gezondheid-breed-op-de-agenda)). Voor de voedselomgeving geldt dat het streven van VWS en gemeenten is dat de gezonde keuze ook de makkelijkste keuze is.
 
 **Acties gemeenten:**
 
@@ -3384,7 +3386,7 @@ We verwachten dat gemeenten bij de uitwerking van hun beleidsplannen over preven
 
 ### 3E. Versterking mentale weerbaarheid en mentale gezondheid
 
-Mentale gezondheid en weerbaarheid zijn belangrijke voorwaarden om gezond te leven en gezond op te groeien. Er bestaan al langer zorgen over de mentale gezondheid van de Nederlandse bevolking; zo noemt de Volksgezondheidstoekomstverkenning 2020 dit een van de grootste gezondheidsrisico’s voor de toekomst13[Home | Volksgezondheid Toekomst Verkenning](onbekend). Mensen met een goede mentale gezondheid hebben een 15 tot 20 jaar langere levensverwachting dan mensen met een slechte mentale gezondheid, onder meer omdat mensen met een goede mentale gezondheid sneller herstellen van lichamelijke ziekten. Daarmee is er een intrinsieke, maatschappelijk en economische waarde ontstaan om in te zetten op mentale gezondheidsbevordering.
+Mentale gezondheid en weerbaarheid zijn belangrijke voorwaarden om gezond te leven en gezond op te groeien. Er bestaan al langer zorgen over de mentale gezondheid van de Nederlandse bevolking; zo noemt de Volksgezondheidstoekomstverkenning 2020 dit een van de grootste gezondheidsrisico’s voor de toekomst13[Home | Volksgezondheid Toekomst Verkenning](https://www.volksgezondheidtoekomstverkenning.nl/). Mensen met een goede mentale gezondheid hebben een 15 tot 20 jaar langere levensverwachting dan mensen met een slechte mentale gezondheid, onder meer omdat mensen met een goede mentale gezondheid sneller herstellen van lichamelijke ziekten. Daarmee is er een intrinsieke, maatschappelijk en economische waarde ontstaan om in te zetten op mentale gezondheidsbevordering.
 
 De rijksoverheid zet zich onder meer via de aanpak ‘Mentale gezondheid: van ons allemaal’ samen met gemeenten, de doelgroep en stakeholders in voor een mentaal gezond Nederland. Daarbij is met name aandacht voor jongeren en jongvolwassenen, werkenden en inwoners in een kwetsbare sociaal-economische positie. Het streven is om de mentale gezondheid bij mensen te versterken, ervoor zorgen dat iedereen mee kan blijven doen en de maatschappelijke kosten en sociale impact van mentale gezondheidsklachten te verminderen. Samen met de doelgroep zelf en de partners uit het veld – waaronder gemeenten – gaat VWS de drie doelen van de aanpak mentale gezondheid die ook onderdeel zijn van het GALA de komende periode verder uitwerken en concretiseren. Dit vanuit het perspectief dat de doelen op lokaal niveau uitgevoerd moeten worden. Beoogd resultaat hiervan zijn handvatten waarmee inwoners van Nederland aan de slag kunnen met hun mentale gezondheid en oog kunnen hebben voor de mentale gezondheid van anderen. In dit akkoord stimuleren we gemeenten om het beleid voor mentale gezondheidsbevordering samen met hun partners en inwoners verder uit te werken. Het inzetten van erkende en/of kansrijke interventies passend bij de leefomgeving en de lokale situatie staan daarbij centraal.
 
@@ -3406,11 +3408,11 @@ De afspraken die in het kader van GALA worden gemaakt, richten zich op preventie
 
 [Artikel 5a van de Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5a) geeft gemeenten opdracht om zorg te dragen voor de uitvoering van de ouderengezondheidszorg. Met het oog op de vergrijzing wordt het steeds belangrijker hoe hier invulling aan gegeven wordt. Daarbij is het zinvol om goed werkende praktijkvoorbeelden in kaart te brengen en deze onder gemeenten te verspreiden. Gemeenten hebben onder andere de taak om de gezondheidstoestand van ouderen op systematische wijze te volgen, ontwikkelingen te signaleren en de behoefte aan zorg te ramen. Dit zou logischerwijs onderdeel van het regiobeeld kunnen zijn (zie ook paragraaf 3G). Ook is de lokale verbinding tussen de uitvoering van artikel 5a en preventieactiviteiten in het kader van de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) van belang.
 
-Voor ouderen16Onder ouderen verstaan we in deze paragraaf 70-plussers. is gezonde voeding een belangrijke motor om vitaal te blijven. Ondervoeding speelt, naast overgewicht, een belangrijke rol in een afnemende zelfstandigheid. Bij 7–12% van de ouderen die zelfstandig thuis wonen is er sprake van ondervoeding, bij ouderen die gebruik maken van thuiszorg loopt dit percentage op tot 30–40 procent17Bron: Voedingscentrum (2022), [Factsheet Ouderen en voeding.pdf (voedingscentrum.nl)](onbekend). Vaak wordt dit niet tijdig gesignaleerd.
+Voor ouderen16Onder ouderen verstaan we in deze paragraaf 70-plussers. is gezonde voeding een belangrijke motor om vitaal te blijven. Ondervoeding speelt, naast overgewicht, een belangrijke rol in een afnemende zelfstandigheid. Bij 7–12% van de ouderen die zelfstandig thuis wonen is er sprake van ondervoeding, bij ouderen die gebruik maken van thuiszorg loopt dit percentage op tot 30–40 procent17Bron: Voedingscentrum (2022), [Factsheet Ouderen en voeding.pdf (voedingscentrum.nl)](https://www.voedingscentrum.nl/Assets/Uploads/voedingscentrum/Documents/Professionals/Pers/Factsheets/Factsheet%20Ouderen%20en%20voeding.pdf). Vaak wordt dit niet tijdig gesignaleerd.
 
 In bijgaand figuur is een aantal gevolgen van ondervoeding in beeld gebracht.
 
-Het is belangrijk dat alle professionals in het sociaal domein en het zorgdomein aandacht hebben voor een gezond voedingspatroon en specifiek het verminderen van ondervoeding. Informatie over een gezond voedingspatroon en voedingsadviezen zijn te vinden via: [Factsheets | Voedingscentrum](onbekend)
+Het is belangrijk dat alle professionals in het sociaal domein en het zorgdomein aandacht hebben voor een gezond voedingspatroon en specifiek het verminderen van ondervoeding. Informatie over een gezond voedingspatroon en voedingsadviezen zijn te vinden via: [Factsheets | Voedingscentrum](https://www.voedingscentrum.nl/nl/pers/factsheets.aspx)
 
 Voor ouderen is bewegen net als voor iedereen een belangrijk onderdeel van een gezonde levensstijl. Sporten en bewegen is een manier om contacten op te doen, eenzaamheid tegen te gaan, een leuke dag te hebben en het helpt om vitaal en mentaal gezond te blijven. Bewegen en sporten dragen bij aan een verminderd beroep op de zorg. Het kan bijdragen aan het voorkomen van een verhoogd valrisico en kan tevens bijdragen aan het verkleinen van de kans op dementie. Juist de groep kwetsbare ouderen, met chronische aandoeningen en ouderdomsmotoriek, heeft behoefte aan sport- en beweegaanbod afgestemd op hun kunnen. Gemeenten kunnen hier via de buurtsport en -cultuurcoaches en een passend beweegaanbod aan bijdragen.
 
@@ -3506,7 +3508,7 @@ Wat betreft alcohol onderschatten we de gevolgen en risico’s van alcoholgebrui
 
 Het Ministerie van VWS is bij diverse dossiers van andere departementen actief betrokken om (de consequenties op) gezondheid in beeld te brengen en onderdeel te maken van de besluitvorming. In het kader hieronder zijn voorbeelden van deze betrokkenheid opgenomen. Een bredere blik op gezondheid en het bevorderen van gezondheid is nodig.
 
-Een belangrijk vraagstuk dat momenteel speelt op het terrein van (interdepartementale) gezondheidsmaatregelen en preventie is dat er duidelijkheid komt over wanneer de overheid wel of niet moet kiezen voor de implementatie/invoering van een gezondheids-/preventiemaatregel bijvoorbeeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), een bevolkingsonderzoek of vaccinatieprogramma. De staatsecretaris heeft aan het kennisplatform Preventie24[Kennisagenda Preventie: aanbevelingen voor gezonde leefstijl - ZonMw](onbekend), een onafhankelijk platform met experts uit beleid, onderzoek en praktijk die eerder hebben geadviseerd over kennisontwikkeling op het thema preventie, gevraagd een advies uit te brengen hoe de brede kosten en baten van preventie en de budgettaire effecten voor de rijksbegroting meegenomen kunnen worden in de besluitvorming. Daarbij zal ook nader gevraagd worden in te gaan op het gebruik van de uitkomstmaat QALY (extra levensjaar in goede gezondheid).
+Een belangrijk vraagstuk dat momenteel speelt op het terrein van (interdepartementale) gezondheidsmaatregelen en preventie is dat er duidelijkheid komt over wanneer de overheid wel of niet moet kiezen voor de implementatie/invoering van een gezondheids-/preventiemaatregel bijvoorbeeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), een bevolkingsonderzoek of vaccinatieprogramma. De staatsecretaris heeft aan het kennisplatform Preventie24[Kennisagenda Preventie: aanbevelingen voor gezonde leefstijl - ZonMw](https://www.zonmw.nl/nl/actueel/nieuws/detail/item/kennisagenda-preventie-aanbevelingen-voor-gezonde-leefstijl/), een onafhankelijk platform met experts uit beleid, onderzoek en praktijk die eerder hebben geadviseerd over kennisontwikkeling op het thema preventie, gevraagd een advies uit te brengen hoe de brede kosten en baten van preventie en de budgettaire effecten voor de rijksbegroting meegenomen kunnen worden in de besluitvorming. Daarbij zal ook nader gevraagd worden in te gaan op het gebruik van de uitkomstmaat QALY (extra levensjaar in goede gezondheid).
 
 In aanvulling op de acties die zijn opgenomen over het agenderen van gezondheid bij andere departementen in de paragrafen over het terugdringen van gezondheidsachterstanden en de inrichting van een fysieke gezonde leefomgeving, zijn de volgende acties geformuleerd:
 
@@ -3518,7 +3520,7 @@ De huidige kennisinfrastructuur, waarin de samenwerking en uitwisseling van best
 
 De komende jaren wordt beoogd de kennisinfrastructuur te versterken zodat de landelijke kennisontwikkeling en kennisdeling beter ten dienste staat van lokale behoeften en lokale ervaringen beter worden meegenomen bij het (door)ontwikkelen van interventies en aanpakken.
 
-Het RIVM Gezond Leven heeft een taak in het bundelen, delen en doorontwikkelen van kennis over effectieve aanpakken en interventies. Op het [Loket Gezond Leven | Loketgezondleven.nl](onbekend) van het RIVM is veel en brede informatie te vinden over erkende interventies voor gezondheidsbevordering en over hoe gezondheidsbevordering samenhangend toe te passen is in de lokale praktijk.
+Het RIVM Gezond Leven heeft een taak in het bundelen, delen en doorontwikkelen van kennis over effectieve aanpakken en interventies. Op het [Loket Gezond Leven | Loketgezondleven.nl](https://www.loketgezondleven.nl/) van het RIVM is veel en brede informatie te vinden over erkende interventies voor gezondheidsbevordering en over hoe gezondheidsbevordering samenhangend toe te passen is in de lokale praktijk.
 
 Het RIVM schakelt nauw met verschillende landelijke kennisinstellingen die vanuit hun eigen expertise bijdragen aan het bevorderen van gezondheid en preventie, afhankelijk van thema, setting of doelgroep (zoals voeding, sport en bewegen, mensen met gezondheidsachterstanden en mentale gezondheid). Denk aan kennispartijen als Trimbos, het Voedingscentrum, JOGG, Pharos, Rutgers, Veiligheid NL, kenniscentrum Sport en Bewegen, Movisie, NJC, NJI en Academische werkplaatsen publieke gezondheid (AWPG).
 
@@ -3634,7 +3636,7 @@ Daarnaast voeren VNG en ZN jaarlijks het ‘Venster op de regionale samenwerking
 
 ### Overzicht van voor gemeenten relevante afspraken in het IZA
 
-## Bijlage II. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-11-11&g=2023-11-11)
+## Bijlage II. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2025-10-29&g=2025-10-29)
 
 **Hoofdlijnen Sportakkoord II**
 
@@ -3792,7 +3794,7 @@ De uitvoeringskracht van lokale Sportakkoorden is in grote mate afhankelijk van 
 
 De partners hebben geconstateerd dat het ondersteuningsaanbod voor sportaanbieders de afgelopen jaren te versnipperd werd aangeboden. Lokale clubondersteuning werkt beter als aanbieders bij één loket terechtkunnen met al hun vragen. Ze krijgen toegang tot een breed ondersteuningsaanbod dat aangeboden wordt door NOC*NSF, bonden, sportserviceorganisaties, POS en andere maatschappelijke partijen. De ondersteuning bestaat onder andere uit:
 
-We stellen kaders aan de invulling van lokale Sportakkoorden door concreet te maken waartoe we lokale partijen met dit Sportakkoord uitnodigen (zie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&z=2023-11-11&g=2023-11-11)). Gemeenten, in samenwerking met de lokale kernteams, herijken hun lokale beleidsambities in een lokaal Sportakkoord. Het raamwerk voor herijking staat in bijlage 2. Deze ambities worden vormgegeven aan de hand van het richtinggevend kader in dit Sportakkoord: hoe bereiken we meer sportaanbieders en potentiële sporters? Hoe versterken we het sportaanbod en benutten we de waarde van sport nog beter? En hoe wordt het aanbod veiliger en toegankelijker? Als randvoorwaarde wordt gesteld dat gemeenten de herijking vormgeven met een kernteam van betrokken sport- en maatschappelijke partijen.
+We stellen kaders aan de invulling van lokale Sportakkoorden door concreet te maken waartoe we lokale partijen met dit Sportakkoord uitnodigen (zie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&z=2025-10-29&g=2025-10-29)). Gemeenten, in samenwerking met de lokale kernteams, herijken hun lokale beleidsambities in een lokaal Sportakkoord. Het raamwerk voor herijking staat in bijlage 2. Deze ambities worden vormgegeven aan de hand van het richtinggevend kader in dit Sportakkoord: hoe bereiken we meer sportaanbieders en potentiële sporters? Hoe versterken we het sportaanbod en benutten we de waarde van sport nog beter? En hoe wordt het aanbod veiliger en toegankelijker? Als randvoorwaarde wordt gesteld dat gemeenten de herijking vormgeven met een kernteam van betrokken sport- en maatschappelijke partijen.
 
 Er zijn in Nederland nu al tientallen gemeenten en honderden sportplekken waar ingesleten patronen zijn doorbroken en succesvolle resultaten worden geboekt. Daar worden de ambities van het Sportakkoord voor een belangrijk deel gerealiseerd. Op die plekken bestaan bijvoorbeeld lokale sportnetwerken die gezamenlijk de sportaanbieders ondersteunen, sportparken waar voor alle leeftijden passend aanbod is en locaties waar niet of nauwelijks tieners uitstromen. En daar krijgen sporters begeleiding van trainers en coaches met de juiste kwaliteiten. Voorbeelden hiervan (maar niet limitatief) zijn: hockeyclub Feyenoord, Triple Threat Haarlem, voetbalclub Kampong, Fletiomare, sportvereniging Helios, maar ook de regionale aanpakken in de Achterhoek en in Zeeuws Vlaanderen (Terneuzen).
 
@@ -3860,7 +3862,7 @@ Verder spreken de partners af om in 2025 een evaluatie van het hele Sportakkoord
 
 Naast het volgen van de inhoudelijke opgaven van het Sportakkoord, besteden de partners aandacht aan periodieke evaluatie van de strategie en het proces. In jaarlijkse bijeenkomsten wordt met de coördinatieteams stilgestaan bij tussentijds geleerde lessen over het werkend mechanisme van het Sportakkoord: wat werkt er goed, wat weten we nog niet, en waar moeten we in de uitvoering op bijsturen? Procesevaluatie gaat meer over de onderlinge samenwerking. Op (in ieder geval) jaarbasis bespreken de partners binnen de coördinatieteams en stuurgroepen hoe de onderlinge samenwerking verloopt, of dit voldoet aan de verwachtingen en in hoeverre afspraken worden nagekomen.
 
-Bij het vorige Sportakkoord is een ‘[Reflectietool Sportakkoord](onbekend)’ ontwikkeld, die gemeenten en lokale kernteams inzicht geeft in de voortgang van het lokale Sportakkoord. Met name de lokale samenwerking en de effectiviteit ervan staan hierbij centraal. Kernteams kunnen met elkaar evalueren hoe de uitvoering verloopt en wat er nog beter kan. Met het invullen van de korte vragenlijsten wordt tegelijkertijd een landelijke database gevuld waarmee wij inzicht krijgen in de voortgang van het Sportakkoord op landelijk niveau. De partners vinden het belangrijk om de reflectietool opnieuw onder de aandacht van gemeenten en kernteams te brengen.
+Bij het vorige Sportakkoord is een ‘[Reflectietool Sportakkoord](https://www.sportakkoord.nl/reflectietool-lokaal-sportakkoord/)’ ontwikkeld, die gemeenten en lokale kernteams inzicht geeft in de voortgang van het lokale Sportakkoord. Met name de lokale samenwerking en de effectiviteit ervan staan hierbij centraal. Kernteams kunnen met elkaar evalueren hoe de uitvoering verloopt en wat er nog beter kan. Met het invullen van de korte vragenlijsten wordt tegelijkertijd een landelijke database gevuld waarmee wij inzicht krijgen in de voortgang van het Sportakkoord op landelijk niveau. De partners vinden het belangrijk om de reflectietool opnieuw onder de aandacht van gemeenten en kernteams te brengen.
 
 ### Bijlage 1. – Opgaven Hoofdlijnen Sportakkoord II
 
@@ -3948,7 +3950,7 @@ De gezamenlijke ministeries en VNG/VSG zetten zich in om de komende jaren vraagg
 
 De inhoudelijke afspraken bouwen nadrukkelijk voort op het Nationaal Sportakkoord en de ‘**Geactualiseerde Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2019–2022’**. De herziene bestuurlijke afspraken kennen een looptijd van 1 januari 2023 t/m 31 december 2026.
 
-Belangrijke inhoudelijke speerpunten zijn de gestelde doelen in [Hoofdlijnen Sportakkoord II](onbekend), het programma School en omgeving en de [meerjarenbrief](onbekend) ‘De kracht van creativiteit’ (2023–2025).
+Belangrijke inhoudelijke speerpunten zijn de gestelde doelen in [Hoofdlijnen Sportakkoord II](https://www.rijksoverheid.nl/documenten/rapporten/2022/12/14/hoofdlijnen-sportakkoord-ii), het programma School en omgeving en de [meerjarenbrief](https://open.overheid.nl/repository/ronl-7122b5ac078a494230d6606e2044a231c50b26e3/1/pdf/meerjarenbrief-de-kracht-van-creativiteit.pdf) ‘De kracht van creativiteit’ (2023–2025).
 
 Met het onderbrengen van de Brede Regeling Combinatiefuncties in de brede specifieke uitkering (SPUK) gericht op gezondheid, sport- en beweegstimulering, cultuurparticipatie en het versterken van de sociale basis zetten we de volgende stap in het doelgericht inzetten van functionarissen. Als onderdeel van de brede SPUK kunnen gemeenten een budget aanvragen voor sport-, beweeg en cultuurstimulering. Middels deze financiële constructie kunnen zij beter zicht houden op de besteding van de middelen.
 
@@ -3970,27 +3972,27 @@ De verantwoordelijkheid van de landelijke coördinatie van deze ondersteuning li
 
 De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de impact en resultaten geëvalueerd. Gemeenten dragen bij aan kennisdeling en de daarmee gepaard gaande monitoring zoals ook vastgesteld in de brede Specifieke uitkering ten behoeve van het bevorderen van de gezondheid, sport- en beweegstimulering, cultuurparticipatie en het versterken van de sociale basis.
 
-## Bijlage III. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-11-11&g=2023-11-11)
+## Bijlage III. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2025-10-29&g=2025-10-29)
 
 | Naam onderdeel | 2023 | 2024 | 2025 | 2026 |
 | --- | --- | --- | --- | --- |
-| Lokaal Sportakkoord | € 12.978.290 | € 12.997.276 | € 12.997.276 | € 9.995.528 |
-| Brede Regeling Combinatiefuncties | € 89.350.534 | € 89.396.017 | € 89.396.017 | € 86.365.632 |
-| Terugdringen Gezondheidsachterstanden | € 19.966.600 | € 19.982.696 | € 19.982.696 | € 19.981.855 |
-| Kansrijke Start | € 14.974.950 | € 16.001.429 | € 16.001.429 | € 19.980.801 |
-| Mentale Gezondheid | € 6.988.310 | € 4.995.672 | € 4.995.672 | € 0 |
-| Aanpak overgewicht en obesitas | € 17.470.775 | € 17.484.860 | € 17.484.860 | € 0 |
-| Valpreventie | € 51.413.995 | € 47.458.907 | € 47.458.909 | € 48.955.542 |
-| Leefomgeving | € 9.983.300 | € 9.991.352 | € 9.991.352 | € 0 |
-| OKO & Vroegsignalering alcoholproblematiek | € 2.495.825 | € 2.497.836 | € 2.497.836 | € 0 |
-| Versterken sociale basis | € 36.439.045 | € 35.968.854 | € 35.968.855 | € 26.975.508 |
-| Mantelzorg | € 9.983.300 | € 9.991.352 | € 9.991.352 | € 8.991.839 |
-| Eén tegen eenzaamheid | € 9.983.300 | € 9.991.352 | € 7.993.079 | € 0 |
-| Welzijn op recept | € 5.490.815 | € 9.491.781 | € 11.490.050 | € 13.487.748 |
-| Versterking kennis- en adviesfunctie GGD | € 2.495.825 | € 2.497.836 | € 2.497.836 | € 0 |
-| Coördinatiekosten regionale aanpak en preventie | € 8.885.137 | € 7.293.683 | € 7.293.683 | € 0 |
+| Lokaal Sportakkoord | € 12.978.290 | € 12.997.276 | € 12.978.246 | € 8.982.318 |
+| Brede Regeling Combinatiefuncties | € 89.350.534 | € 89.396.017 | € 89.350.234 | € 77.697.053 |
+| Terugdringen Gezondheidsachterstanden | € 19.966.600 | € 19.982.696 | € 19.966.533 | € 17.964.637 |
+| Kansrijke Start | € 14.974.950 | € 16.001.429 | € 15.973.226 | € 20.958.743 |
+| Mentale Gezondheid | € 6.988.310 | € 4.995.672 | € 7.487.450 | € 4.990.177 |
+| Aanpak overgewicht en obesitas | € 17.470.775 | € 17.484.860 | € 17.470.716 | € 16.966.601 |
+| Valpreventie | € 51.413.995 | € 47.458.907 | € 47.420.515 | € 44.013.360 |
+| Leefomgeving | € 9.983.300 | € 9.991.352 | € 9.983.266 | € 0 |
+| OKO & Vroegsignalering alcoholproblematiek | € 2.495.825 | € 2.497.836 | € 2.495.817 | € 0 |
+| Versterken sociale basis | € 36.439.045 | € 35.968.854 | € 35.939.759 | € 24.252.259 |
+| Mantelzorg | € 9.983.300 | € 9.991.352 | € 9.983.266 | € 26.048.723 |
+| Eén tegen eenzaamheid | € 9.983.300 | € 9.991.352 | € 7.986.613 | € 0 |
+| Welzijn op recept | € 5.490.815 | € 9.491.781 | € 11.480.756 | € 12.126.130 |
+| Versterking kennis- en adviesfunctie GGD | € 2.495.825 | € 2.497.836 | € 2.495.817 | € 0 |
+| Coördinatiekosten regionale aanpak en preventie | € 8.885.137 | € 7.293.683 | € 7.287.784 | € 0 |
 
-## Bijlage IV. behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.2&z=2023-11-11&g=2023-11-11)
+## Bijlage IV. behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.2&z=2025-10-29&g=2025-10-29)
 
 | 2023 | Lokaal Sportakkoord | Brede Regeling Combinatiefuncties | Terugdringen Gezondheidsachterstanden | Kansrijke Start | Mentale Gezondheid | Aanpak overgewicht en obesitas | Valpreventie |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5374,1382 +5376,1727 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 
 | 2025 | Lokaal Sportakkoord | Brede Regeling Combinatiefuncties | Terugdringen Gezondheidsachterstanden | Kansrijke Start | Mentale Gezondheid | Aanpak overgewicht en obesitas | Valpreventie |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aa en Hunze | € 16.787 | € 115.574 | € 25.826 | € 20.661 | € 6.457 | € 22.598 | € 61.338 |
-| Aalsmeer | € 22.054 | € 151.836 | € 33.930 | € 27.144 | € 8.482 | € 29.689 | € 80.583 |
-| Aalten | € 22.004 | € 151.489 | € 33.852 | € 27.082 | € 8.463 | € 29.621 | € 80.399 |
-| Achtkarspelen | € 25.130 | € 173.010 | € 38.662 | € 30.929 | € 9.665 | € 33.829 | € 91.821 |
-| Alblasserdam | € 16.396 | € 112.877 | € 25.224 | € 20.179 | € 6.306 | € 22.071 | € 59.907 |
-| Albrandswaard | € 15.384 | € 105.910 | € 23.667 | € 18.934 | € 5.917 | € 20.709 | € 56.209 |
-| Alkmaar | € 80.421 | € 553.669 | € 123.725 | € 98.980 | € 30.931 | € 108.259 | € 293.847 |
-| Almelo | € 64.550 | € 444.400 | € 99.307 | € 79.446 | € 24.827 | € 86.894 | € 235.855 |
-| Almere | € 145.507 | € 1.001.757 | € 223.856 | € 179.085 | € 55.964 | € 195.874 | € 531.659 |
-| Alphen aan den Rijn | € 78.523 | € 540.598 | € 120.804 | € 96.643 | € 30.201 | € 105.704 | € 286.910 |
-| Alphen-Chaam | € 6.933 | € 47.732 | € 10.666 | € 8.533 | € 2.667 | € 9.333 | € 25.333 |
-| Altena | € 46.493 | € 320.087 | € 71.528 | € 57.222 | € 17.882 | € 62.587 | € 169.878 |
-| Ameland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.138 |
-| Amersfoort | € 96.947 | € 667.443 | € 149.149 | € 119.319 | € 37.287 | € 130.506 | € 354.229 |
-| Amstelveen | € 54.375 | € 374.351 | € 83.654 | € 66.923 | € 20.913 | € 73.197 | € 198.678 |
-| Amsterdam | € 631.941 | € 4.350.669 | € 972.216 | € 777.773 | € 243.054 | € 850.689 | € 2.309.014 |
-| Apeldoorn | € 122.369 | € 842.466 | € 188.261 | € 150.608 | € 47.065 | € 164.728 | € 447.119 |
-| Arnhem | € 126.738 | € 872.542 | € 194.982 | € 155.985 | € 48.745 | € 170.609 | € 463.081 |
-| Assen | € 47.268 | € 325.419 | € 72.719 | € 58.175 | € 18.180 | € 63.629 | € 172.708 |
-| Asten | € 13.252 | € 91.235 | € 20.388 | € 16.310 | € 5.097 | € 17.839 | € 48.421 |
-| Baarle-Nassau | € 5.652 | € 38.909 | € 8.695 | € 6.956 | € 2.174 | € 7.608 | € 20.650 |
-| Baarn | € 16.199 | € 111.522 | € 24.921 | € 19.937 | € 6.230 | € 21.806 | € 59.187 |
-| Barendrecht | € 29.790 | € 205.094 | € 45.831 | € 36.665 | € 11.458 | € 40.102 | € 108.849 |
-| Barneveld | € 41.486 | € 285.612 | € 63.824 | € 51.059 | € 15.956 | € 55.846 | € 151.582 |
-| Beek | € 12.399 | € 85.362 | € 19.075 | € 15.260 | € 4.769 | € 16.691 | € 45.304 |
-| Beekdaelen | € 28.091 | € 193.395 | € 43.217 | € 34.573 | € 10.804 | € 37.815 | € 102.640 |
-| Beesel | € 11.616 | € 79.973 | € 17.871 | € 14.297 | € 4.468 | € 15.637 | € 42.444 |
-| Berg en Dal | € 28.829 | € 198.480 | € 44.353 | € 35.482 | € 11.088 | € 38.809 | € 105.338 |
-| Bergeijk | € 13.040 | € 89.777 | € 20.062 | € 16.050 | € 5.015 | € 17.554 | € 47.647 |
-| Bergen (L.) | € 11.237 | € 77.363 | € 17.288 | € 13.830 | € 4.322 | € 15.127 | € 41.059 |
-| Bergen (NH.) | € 18.174 | € 125.120 | € 27.960 | € 22.368 | € 6.990 | € 24.465 | € 66.405 |
-| Bergen op Zoom | € 54.635 | € 376.140 | € 84.054 | € 67.243 | € 21.013 | € 73.547 | € 199.628 |
-| Berkelland | € 33.781 | € 232.568 | € 51.970 | € 41.576 | € 12.993 | € 45.474 | € 123.430 |
-| Bernheze | € 23.547 | € 162.112 | € 36.226 | € 28.981 | € 9.057 | € 31.698 | € 86.037 |
-| Best | € 19.408 | € 133.617 | € 29.858 | € 23.887 | € 7.465 | € 26.126 | € 70.914 |
-| Beuningen | € 18.238 | € 125.560 | € 28.058 | € 22.446 | € 7.015 | € 24.551 | € 66.638 |
-| Beverwijk | € 33.141 | € 228.166 | € 50.987 | € 40.789 | € 12.747 | € 44.613 | € 121.093 |
-| Bladel | € 14.867 | € 102.352 | € 22.872 | € 18.298 | € 5.718 | € 20.013 | € 54.321 |
-| Blaricum | € 6.250 | € 43.029 | € 9.616 | € 7.692 | € 2.404 | € 8.414 | € 22.837 |
-| Bloemendaal | € 10.556 | € 72.674 | € 16.240 | € 12.992 | € 4.060 | € 14.210 | € 38.570 |
-| Bodegraven-Reeuwijk | € 23.686 | € 163.070 | € 36.440 | € 29.152 | € 9.110 | € 31.885 | € 86.546 |
-| Boekel | € 7.957 | € 54.784 | € 12.242 | € 9.794 | € 3.061 | € 10.712 | € 29.075 |
-| Borger-Odoorn | € 20.409 | € 140.509 | € 31.399 | € 25.119 | € 7.850 | € 27.474 | € 74.572 |
-| Borne | € 15.307 | € 105.382 | € 23.549 | € 18.839 | € 5.887 | € 20.605 | € 55.929 |
-| Borsele | € 16.407 | € 112.956 | € 25.242 | € 20.193 | € 6.310 | € 22.086 | € 59.949 |
-| Boxtel | € 25.952 | € 178.667 | € 39.926 | € 31.941 | € 9.981 | € 34.935 | € 94.823 |
-| Breda | € 124.059 | € 854.097 | € 190.860 | € 152.688 | € 47.715 | € 167.002 | € 453.292 |
-| Bronckhorst | € 26.695 | € 183.786 | € 41.069 | € 32.856 | € 10.267 | € 35.936 | € 97.540 |
-| Brummen | € 16.031 | € 110.369 | € 24.663 | € 19.731 | € 6.166 | € 21.580 | € 58.576 |
-| Brunssum | € 27.696 | € 190.676 | € 42.609 | € 34.087 | € 10.652 | € 37.283 | € 101.197 |
-| Bunnik | € 7.784 | € 53.588 | € 11.975 | € 9.580 | € 2.994 | € 10.478 | € 28.440 |
-| Bunschoten | € 17.162 | € 118.155 | € 26.403 | € 21.123 | € 6.601 | € 23.103 | € 62.708 |
-| Buren | € 21.633 | € 148.932 | € 33.281 | € 26.625 | € 8.320 | € 29.121 | € 79.042 |
-| Capelle aan den IJssel | € 52.076 | € 358.524 | € 80.117 | € 64.094 | € 20.029 | € 70.102 | € 190.278 |
-| Castricum | € 20.104 | € 138.407 | € 30.929 | € 24.743 | € 7.732 | € 27.063 | € 73.456 |
-| Coevorden | € 28.942 | € 199.255 | € 44.526 | € 35.621 | € 11.132 | € 38.960 | € 105.750 |
-| Cranendonck | € 16.668 | € 114.752 | € 25.643 | € 20.514 | € 6.411 | € 22.437 | € 60.902 |
-| Culemborg | € 20.656 | € 142.208 | € 31.778 | € 25.423 | € 7.945 | € 27.806 | € 75.473 |
-| Dalfsen | € 20.516 | € 141.246 | € 31.563 | € 25.251 | € 7.891 | € 27.618 | € 74.963 |
-| Dantumadiel | € 17.223 | € 118.572 | € 26.497 | € 21.197 | € 6.624 | € 23.184 | € 62.929 |
-| De Bilt | € 24.491 | € 168.609 | € 37.678 | € 30.142 | € 9.419 | € 32.968 | € 89.485 |
-| De Fryske Marren | € 39.212 | € 269.962 | € 60.327 | € 48.261 | € 15.082 | € 52.786 | € 143.276 |
-| De Ronde Venen | € 29.086 | € 200.246 | € 44.748 | € 35.798 | € 11.187 | € 39.154 | € 106.276 |
-| De Wolden | € 17.234 | € 118.651 | € 26.514 | € 21.211 | € 6.629 | € 23.200 | € 62.971 |
-| Delft | € 67.527 | € 464.897 | € 103.888 | € 83.110 | € 25.972 | € 90.902 | € 246.733 |
-| Den Helder | € 50.148 | € 345.250 | € 77.151 | € 61.721 | € 19.288 | € 67.507 | € 183.233 |
-| Deurne | € 26.283 | € 180.951 | € 40.436 | € 32.349 | € 10.109 | € 35.382 | € 96.036 |
-| Deventer | € 73.382 | € 505.205 | € 112.895 | € 90.316 | € 28.224 | € 98.783 | € 268.125 |
-| Diemen | € 17.093 | € 117.680 | € 26.297 | € 21.038 | € 6.574 | € 23.010 | € 62.456 |
-| Dijk en Waard | € 58.766 | € 404.583 | € 90.410 | € 72.328 | € 22.602 | € 79.108 | € 214.723 |
-| Dinkelland | € 17.091 | € 117.667 | € 26.294 | € 21.035 | € 6.574 | € 23.007 | € 62.449 |
-| Doesburg | € 9.647 | € 66.419 | € 14.842 | € 11.874 | € 3.711 | € 12.987 | € 35.250 |
-| Doetinchem | € 44.045 | € 303.233 | € 67.762 | € 54.209 | € 16.940 | € 59.291 | € 160.934 |
-| Dongen | € 19.822 | € 136.468 | € 30.496 | € 24.396 | € 7.624 | € 26.684 | € 72.427 |
-| Dordrecht | € 96.972 | € 667.618 | € 149.188 | € 119.351 | € 37.297 | € 130.540 | € 354.322 |
-| Drechterland | € 14.640 | € 100.792 | € 22.523 | € 18.019 | € 5.631 | € 19.708 | € 53.493 |
-| Drimmelen | € 21.507 | € 148.068 | € 33.088 | € 26.470 | € 8.272 | € 28.952 | € 78.584 |
-| Dronten | € 28.523 | € 196.371 | € 43.882 | € 35.105 | € 10.970 | € 38.397 | € 104.219 |
-| Druten | € 14.376 | € 98.976 | € 22.118 | € 17.694 | € 5.529 | € 19.353 | € 52.529 |
-| Duiven | € 17.633 | € 121.393 | € 27.127 | € 21.702 | € 6.782 | € 23.736 | € 64.427 |
-| Echt-Susteren | € 28.421 | € 195.670 | € 43.725 | € 34.980 | € 10.931 | € 38.260 | € 103.847 |
-| Edam-Volendam | € 27.999 | € 192.762 | € 43.075 | € 34.460 | € 10.769 | € 37.691 | € 102.304 |
-| Ede | € 80.261 | € 552.569 | € 123.479 | € 98.783 | € 30.870 | € 108.044 | € 293.263 |
-| Eemnes | € 5.140 | € 35.388 | € 7.908 | € 6.326 | € 1.977 | € 6.919 | € 18.781 |
-| Eemsdelta | € 40.848 | € 281.224 | € 62.843 | € 50.275 | € 15.711 | € 54.988 | € 149.253 |
-| Eersel | € 12.546 | € 86.375 | € 19.302 | € 15.441 | € 4.825 | € 16.889 | € 45.842 |
-| Eijsden-Margraten | € 16.816 | € 115.769 | € 25.870 | € 20.696 | € 6.468 | € 22.636 | € 61.441 |
-| Eindhoven | € 175.982 | € 1.211.568 | € 270.741 | € 216.593 | € 67.685 | € 236.899 | € 643.011 |
-| Elburg | € 18.563 | € 127.798 | € 28.558 | € 22.847 | € 7.140 | € 24.988 | € 67.826 |
-| Emmen | € 99.920 | € 687.913 | € 153.724 | € 122.979 | € 38.431 | € 134.508 | € 365.093 |
-| Enkhuizen | € 15.104 | € 103.985 | € 23.237 | € 18.589 | € 5.809 | € 20.332 | € 55.187 |
-| Enschede | € 130.942 | € 901.483 | € 201.449 | € 161.159 | € 50.362 | € 176.268 | € 478.441 |
-| Epe | € 26.763 | € 184.252 | € 41.174 | € 32.939 | € 10.293 | € 36.027 | € 97.787 |
-| Ermelo | € 18.273 | € 125.802 | € 28.112 | € 22.490 | € 7.028 | € 24.598 | € 66.766 |
-| Etten-Leur | € 32.747 | € 225.452 | € 50.380 | € 40.304 | € 12.595 | € 44.083 | € 119.653 |
-| Geertruidenberg | € 17.723 | € 122.016 | € 27.266 | € 21.813 | € 6.817 | € 23.858 | € 64.757 |
-| Geldrop-Mierlo | € 29.860 | € 205.575 | € 45.939 | € 36.751 | € 11.485 | € 40.196 | € 109.104 |
-| Gemert-Bakel | € 24.559 | € 169.081 | € 37.783 | € 30.227 | € 9.446 | € 33.061 | € 89.736 |
-| Gennep | € 12.927 | € 88.996 | € 19.887 | € 15.910 | € 4.972 | € 17.401 | € 47.232 |
-| Gilze en Rijen | € 19.536 | € 134.496 | € 30.055 | € 24.044 | € 7.514 | € 26.298 | € 71.381 |
-| Goeree-Overflakkee | € 40.459 | € 278.546 | € 62.245 | € 49.796 | € 15.561 | € 54.464 | € 147.832 |
-| Goes | € 30.480 | € 209.845 | € 46.893 | € 37.514 | € 11.723 | € 41.031 | € 111.370 |
-| Goirle | € 15.809 | € 108.838 | € 24.321 | € 19.457 | € 6.080 | € 21.281 | € 57.763 |
-| Gooise Meren | € 32.082 | € 220.870 | € 49.356 | € 39.485 | € 12.339 | € 43.187 | € 117.222 |
-| Gorinchem | € 30.650 | € 211.012 | € 47.153 | € 37.723 | € 11.788 | € 41.259 | € 111.989 |
-| Gouda | € 54.207 | € 373.196 | € 83.396 | € 66.717 | € 20.849 | € 72.971 | € 198.065 |
-| Groningen | € 145.572 | € 1.002.210 | € 223.957 | € 179.166 | € 55.989 | € 195.963 | € 531.899 |
-| Gulpen-Wittem | € 11.521 | € 79.317 | € 17.724 | € 14.180 | € 4.431 | € 15.509 | € 42.096 |
-| Haaksbergen | € 17.265 | € 118.864 | € 26.562 | € 21.250 | € 6.640 | € 23.242 | € 63.084 |
-| Haarlem | € 108.935 | € 749.977 | € 167.593 | € 134.074 | € 41.898 | € 146.644 | € 398.033 |
-| Haarlemmermeer | € 101.416 | € 698.210 | € 156.025 | € 124.820 | € 39.006 | € 136.522 | € 370.559 |
-| Halderberge | € 25.406 | € 174.910 | € 39.086 | € 31.269 | € 9.771 | € 34.200 | € 92.829 |
-| Hardenberg | € 47.486 | € 326.926 | € 73.056 | € 58.445 | € 18.264 | € 63.924 | € 173.508 |
-| Harderwijk | € 35.624 | € 245.258 | € 54.806 | € 43.845 | € 13.702 | € 47.955 | € 130.165 |
-| Hardinxveld-Giessendam | € 13.635 | € 93.869 | € 20.976 | € 16.781 | € 5.244 | € 18.354 | € 49.819 |
-| Harlingen | € 13.923 | € 95.858 | € 21.421 | € 17.137 | € 5.355 | € 18.743 | € 50.874 |
-| Hattem | € 8.364 | € 57.586 | € 12.868 | € 10.295 | € 3.217 | € 11.260 | € 30.563 |
-| Heemskerk | € 29.132 | € 200.561 | € 44.818 | € 35.854 | € 11.205 | € 39.216 | € 106.443 |
-| Heemstede | € 13.683 | € 94.205 | € 21.051 | € 16.841 | € 5.263 | € 18.420 | € 49.997 |
-| Heerde | € 14.724 | € 101.367 | € 22.652 | € 18.122 | € 5.663 | € 19.820 | € 53.798 |
-| Heerenveen | € 39.493 | € 271.891 | € 60.758 | € 48.606 | € 15.189 | € 53.163 | € 144.300 |
-| Heerlen | € 90.872 | € 625.620 | € 139.803 | € 111.843 | € 34.951 | € 122.328 | € 332.033 |
-| Heeze-Leende | € 9.360 | € 64.437 | € 14.399 | € 11.519 | € 3.600 | € 12.599 | € 34.198 |
-| Heiloo | € 13.500 | € 92.945 | € 20.770 | € 16.616 | € 5.192 | € 18.174 | € 49.328 |
-| Hellendoorn | € 26.889 | € 185.118 | € 41.367 | € 33.094 | € 10.342 | € 36.196 | € 98.247 |
-| Helmond | € 80.317 | € 552.950 | € 123.564 | € 98.851 | € 30.891 | € 108.119 | € 293.465 |
-| Hendrik-Ido-Ambacht | € 19.623 | € 135.096 | € 30.189 | € 24.151 | € 7.547 | € 26.416 | € 71.699 |
-| Hengelo | € 58.607 | € 403.490 | € 90.165 | € 72.132 | € 22.541 | € 78.895 | € 214.143 |
-| Het Hogeland | € 39.006 | € 268.541 | € 60.009 | € 48.007 | € 15.002 | € 52.508 | € 142.522 |
-| Heumen | € 10.006 | € 68.886 | € 15.393 | € 12.315 | € 3.848 | € 13.469 | € 36.559 |
-| Heusden | € 34.629 | € 238.407 | € 53.275 | € 42.620 | € 13.319 | € 46.616 | € 126.529 |
-| Hillegom | € 16.786 | € 115.567 | € 25.825 | € 20.660 | € 6.456 | € 22.597 | € 61.334 |
-| Hilvarenbeek | € 9.997 | € 68.823 | € 15.379 | € 12.304 | € 3.845 | € 13.457 | € 36.526 |
-| Hilversum | € 64.611 | € 444.818 | € 99.401 | € 79.521 | € 24.850 | € 86.976 | € 236.077 |
-| Hoeksche Waard | € 62.697 | € 431.644 | € 96.457 | € 77.165 | € 24.114 | € 84.400 | € 229.085 |
-| Hof van Twente | € 25.524 | € 175.720 | € 39.267 | € 31.414 | € 9.817 | € 34.359 | € 93.259 |
-| Hollands Kroon | € 37.438 | € 257.743 | € 57.596 | € 46.077 | € 14.399 | € 50.397 | € 136.791 |
-| Hoogeveen | € 50.212 | € 345.690 | € 77.249 | € 61.799 | € 19.312 | € 67.593 | € 183.467 |
-| Hoorn | € 55.550 | € 382.443 | € 85.462 | € 68.370 | € 21.366 | € 74.779 | € 202.972 |
-| Horst aan de Maas | € 31.438 | € 216.435 | € 48.365 | € 38.692 | € 12.091 | € 42.320 | € 114.868 |
-| Houten | € 26.745 | € 184.126 | € 41.146 | € 32.916 | € 10.286 | € 36.002 | € 97.721 |
-| Huizen | € 28.645 | € 197.210 | € 44.069 | € 35.255 | € 11.017 | € 38.561 | € 104.664 |
-| Hulst | € 23.617 | € 162.595 | € 36.334 | € 29.067 | € 9.084 | € 31.792 | € 86.293 |
-| IJsselstein | € 22.429 | € 154.416 | € 34.506 | € 27.605 | € 8.627 | € 30.193 | € 81.952 |
-| Kaag en Braassem | € 20.232 | € 139.289 | € 31.126 | € 24.901 | € 7.782 | € 27.235 | € 73.925 |
-| Kampen | € 42.024 | € 289.320 | € 64.653 | € 51.722 | € 16.163 | € 56.571 | € 153.550 |
-| Kapelle | € 9.440 | € 64.988 | € 14.522 | € 11.618 | € 3.631 | € 12.707 | € 34.491 |
-| Katwijk | € 51.083 | € 351.686 | € 78.589 | € 62.871 | € 19.647 | € 68.766 | € 186.649 |
-| Kerkrade | € 49.868 | € 343.323 | € 76.720 | € 61.376 | € 19.180 | € 67.130 | € 182.211 |
-| Koggenland | € 15.066 | € 103.720 | € 23.178 | € 18.542 | € 5.794 | € 20.280 | € 55.047 |
-| Krimpen aan den IJssel | € 22.778 | € 156.817 | € 35.043 | € 28.034 | € 8.761 | € 30.663 | € 83.227 |
-| Krimpenerwaard | € 42.598 | € 293.274 | € 65.536 | € 52.429 | € 16.384 | € 57.344 | € 155.648 |
-| Laarbeek | € 17.912 | € 123.317 | € 27.557 | € 22.045 | € 6.889 | € 24.112 | € 65.448 |
-| Land van Cuijk | € 67.497 | € 464.688 | € 103.841 | € 83.073 | € 25.960 | € 90.861 | € 246.622 |
-| Landgraaf | € 35.306 | € 243.065 | € 54.316 | € 43.453 | € 13.579 | € 47.527 | € 129.001 |
-| Landsmeer | € 7.064 | € 48.633 | € 10.868 | € 8.694 | € 2.717 | € 9.509 | € 25.811 |
-| Lansingerland | € 35.071 | € 241.449 | € 53.955 | € 43.164 | € 13.489 | € 47.211 | € 128.143 |
-| Laren | € 6.451 | € 44.413 | € 9.925 | € 7.940 | € 2.481 | € 8.684 | € 23.571 |
-| Leeuwarden | € 91.505 | € 629.977 | € 140.777 | € 112.622 | € 35.194 | € 123.180 | € 334.345 |
-| Leiden | € 79.028 | € 544.079 | € 121.582 | € 97.266 | € 30.396 | € 106.384 | € 288.757 |
-| Leiderdorp | € 16.564 | € 114.034 | € 25.482 | € 20.386 | € 6.371 | € 22.297 | € 60.521 |
-| Leidschendam-Voorburg | € 49.967 | € 344.004 | € 76.872 | € 61.498 | € 19.218 | € 67.263 | € 182.572 |
-| Lelystad | € 62.160 | € 427.950 | € 95.631 | € 76.505 | € 23.908 | € 83.677 | € 227.124 |
-| Leudal | € 26.846 | € 184.827 | € 41.302 | € 33.042 | € 10.326 | € 36.139 | € 98.092 |
-| Leusden | € 16.486 | € 113.502 | € 25.364 | € 20.291 | € 6.341 | € 22.193 | € 60.238 |
-| Lingewaard | € 34.428 | € 237.023 | € 52.966 | € 42.373 | € 13.241 | € 46.345 | € 125.794 |
-| Lisse | € 17.227 | € 118.603 | € 26.504 | € 21.203 | € 6.626 | € 23.191 | € 62.946 |
-| Lochem | € 22.307 | € 153.576 | € 34.319 | € 27.455 | € 8.580 | € 30.029 | € 81.507 |
-| Loon op Zand | € 18.638 | € 128.314 | € 28.674 | € 22.939 | € 7.168 | € 25.089 | € 68.100 |
-| Lopik | € 10.892 | € 74.984 | € 16.756 | € 13.405 | € 4.189 | € 14.662 | € 39.796 |
-| Losser | € 17.828 | € 122.738 | € 27.428 | € 21.942 | € 6.857 | € 23.999 | € 65.140 |
-| Maasdriel | € 20.719 | € 142.639 | € 31.875 | € 25.500 | € 7.969 | € 27.890 | € 75.702 |
-| Maasgouw | € 19.720 | € 135.767 | € 30.339 | € 24.271 | € 7.585 | € 26.547 | € 72.055 |
-| Maashorst | € 44.347 | € 305.310 | € 68.226 | € 54.581 | € 17.056 | € 59.698 | € 162.036 |
-| Maassluis | € 28.427 | € 195.710 | € 43.734 | € 34.987 | € 10.933 | € 38.267 | € 103.868 |
-| Maastricht | € 98.752 | € 679.870 | € 151.926 | € 121.541 | € 37.982 | € 132.936 | € 360.825 |
-| Medemblik | € 35.732 | € 245.998 | € 54.972 | € 43.977 | € 13.743 | € 48.100 | € 130.557 |
-| Meerssen | € 13.864 | € 95.450 | € 21.330 | € 17.064 | € 5.332 | € 18.663 | € 50.658 |
-| Meierijstad | € 62.069 | € 427.320 | € 95.490 | € 76.392 | € 23.873 | € 83.554 | € 226.790 |
-| Meppel | € 25.143 | € 173.098 | € 38.681 | € 30.945 | € 9.670 | € 33.846 | € 91.868 |
-| Middelburg | € 35.460 | € 244.132 | € 54.555 | € 43.644 | € 13.639 | € 47.735 | € 129.567 |
-| Midden-Delfland | € 11.073 | € 76.234 | € 17.036 | € 13.629 | € 4.259 | € 14.906 | € 40.460 |
-| Midden-Drenthe | € 23.041 | € 158.631 | € 35.448 | € 28.359 | € 8.862 | € 31.017 | € 84.189 |
-| Midden-Groningen | € 53.397 | € 367.616 | € 82.149 | € 65.719 | € 20.537 | € 71.880 | € 195.103 |
-| Moerdijk | € 28.673 | € 197.400 | € 44.112 | € 35.289 | € 11.028 | € 38.598 | € 104.765 |
-| Molenlanden | € 31.310 | € 215.554 | € 48.169 | € 38.535 | € 12.042 | € 42.147 | € 114.400 |
-| Montferland | € 31.196 | € 214.776 | € 47.995 | € 38.396 | € 11.999 | € 41.995 | € 113.987 |
-| Montfoort | € 9.443 | € 65.014 | € 14.528 | € 11.623 | € 3.632 | € 12.712 | € 34.505 |
-| Mook en Middelaar | € 4.418 | € 30.415 | € 6.797 | € 5.437 | € 1.699 | € 5.947 | € 16.142 |
-| Neder-Betuwe | € 20.290 | € 139.688 | € 31.215 | € 24.972 | € 7.804 | € 27.313 | € 74.136 |
-| Nederweert | € 14.089 | € 96.996 | € 21.675 | € 17.340 | € 5.419 | € 18.966 | € 51.478 |
-| Nieuwegein | € 48.388 | € 333.131 | € 74.443 | € 59.554 | € 18.611 | € 65.137 | € 176.801 |
-| Nieuwkoop | € 20.839 | € 143.471 | € 32.061 | € 25.649 | € 8.015 | € 28.053 | € 76.144 |
-| Nijkerk | € 31.668 | € 218.020 | € 48.720 | € 38.976 | € 12.180 | € 42.630 | € 115.709 |
-| Nijmegen | € 126.202 | € 868.851 | € 194.157 | € 155.325 | € 48.539 | € 169.887 | € 461.122 |
-| Nissewaard | € 69.791 | € 480.487 | € 107.371 | € 85.897 | € 26.843 | € 93.950 | € 255.007 |
-| Noardeast-Fryslân | € 39.644 | € 272.933 | € 60.991 | € 48.793 | € 15.248 | € 53.367 | € 144.853 |
-| Noord-Beveland | € 5.284 | € 36.377 | € 8.129 | € 6.503 | € 2.032 | € 7.113 | € 19.306 |
-| Noordenveld | € 20.899 | € 143.881 | € 32.152 | € 25.722 | € 8.038 | € 28.133 | € 76.362 |
-| Noordoostpolder | € 34.456 | € 237.213 | € 53.009 | € 42.407 | € 13.252 | € 46.382 | € 125.895 |
-| Noordwijk | € 30.651 | € 211.023 | € 47.156 | € 37.725 | € 11.789 | € 41.261 | € 111.995 |
-| Nuenen, Gerwen en Nederwetten | € 13.269 | € 91.350 | € 20.413 | € 16.331 | € 5.103 | € 17.862 | € 48.482 |
-| Nunspeet | € 21.584 | € 148.597 | € 33.206 | € 26.565 | € 8.301 | € 29.055 | € 78.864 |
-| Oegstgeest | € 11.124 | € 76.582 | € 17.113 | € 13.691 | € 4.278 | € 14.974 | € 40.644 |
-| Oirschot | € 13.164 | € 90.626 | € 20.252 | € 16.201 | € 5.063 | € 17.720 | € 48.098 |
-| Oisterwijk | € 21.731 | € 149.610 | € 33.432 | € 26.746 | € 8.358 | € 29.253 | € 79.402 |
-| Oldambt | € 37.442 | € 257.773 | € 57.603 | € 46.082 | € 14.401 | € 50.402 | € 136.807 |
-| Oldebroek | € 21.041 | € 144.861 | € 32.371 | € 25.897 | € 8.093 | € 28.325 | € 76.882 |
-| Oldenzaal | € 24.321 | € 167.444 | € 37.418 | € 29.934 | € 9.354 | € 32.740 | € 88.867 |
-| Olst-Wijhe | € 12.914 | € 88.909 | € 19.868 | € 15.894 | € 4.967 | € 17.384 | € 47.186 |
-| Ommen | € 13.533 | € 93.172 | € 20.820 | € 16.656 | € 5.205 | € 18.218 | € 49.449 |
-| Oost Gelre | € 20.772 | € 143.007 | € 31.957 | € 25.565 | € 7.989 | € 27.962 | € 75.897 |
-| Oosterhout | € 43.833 | € 301.777 | € 67.436 | € 53.949 | € 16.859 | € 59.007 | € 160.161 |
-| Ooststellingwerf | € 20.787 | € 143.109 | € 31.980 | € 25.584 | € 7.995 | € 27.982 | € 75.951 |
-| Oostzaan | € 6.725 | € 46.296 | € 10.346 | € 8.276 | € 2.586 | € 9.052 | € 24.571 |
-| Opmeer | € 8.503 | € 58.537 | € 13.081 | € 10.465 | € 3.270 | € 11.446 | € 31.067 |
-| Opsterland | € 21.983 | € 151.346 | € 33.820 | € 27.056 | € 8.455 | € 29.593 | € 80.323 |
-| Oss | € 74.074 | € 509.973 | € 113.960 | € 91.168 | € 28.490 | € 99.715 | € 270.656 |
-| Oude IJsselstreek | € 34.103 | € 234.783 | € 52.465 | € 41.972 | € 13.116 | € 45.907 | € 124.605 |
-| Ouder-Amstel | € 7.902 | € 54.400 | € 12.156 | € 9.725 | € 3.039 | € 10.637 | € 28.871 |
-| Oudewater | € 7.184 | € 49.461 | € 11.053 | € 8.842 | € 2.763 | € 9.671 | € 26.250 |
-| Overbetuwe | € 32.323 | € 222.534 | € 49.728 | € 39.783 | € 12.432 | € 43.512 | € 118.105 |
-| Papendrecht | € 23.581 | € 162.343 | € 36.278 | € 29.022 | € 9.069 | € 31.743 | € 86.160 |
-| Peel en Maas | € 35.441 | € 244.000 | € 54.525 | € 43.620 | € 13.631 | € 47.709 | € 129.497 |
-| Pekela | € 12.564 | € 86.500 | € 19.330 | € 15.464 | € 4.832 | € 16.913 | € 45.908 |
-| Pijnacker-Nootdorp | € 30.518 | € 210.107 | € 46.951 | € 37.561 | € 11.738 | € 41.082 | € 111.509 |
-| Purmerend | € 71.914 | € 495.097 | € 110.636 | € 88.509 | € 27.659 | € 96.807 | € 262.761 |
-| Putten | € 19.492 | € 134.193 | € 29.987 | € 23.990 | € 7.497 | € 26.239 | € 71.220 |
-| Raalte | € 27.183 | € 187.144 | € 41.820 | € 33.456 | € 10.455 | € 36.592 | € 99.322 |
-| Reimerswaal | € 18.560 | € 127.780 | € 28.554 | € 22.843 | € 7.139 | € 24.985 | € 67.816 |
-| Renkum | € 20.163 | € 138.814 | € 31.020 | € 24.816 | € 7.755 | € 27.142 | € 73.672 |
-| Renswoude | € 3.562 | € 24.522 | € 5.480 | € 4.384 | € 1.370 | € 4.795 | € 13.014 |
-| Reusel-De Mierden | € 9.600 | € 66.093 | € 14.769 | € 11.816 | € 3.692 | € 12.923 | € 35.078 |
-| Rheden | € 35.325 | € 243.197 | € 54.346 | € 43.477 | € 13.586 | € 47.552 | € 129.071 |
-| Rhenen | € 14.808 | € 101.947 | € 22.781 | € 18.225 | € 5.695 | € 19.934 | € 54.106 |
-| Ridderkerk | € 40.705 | € 280.238 | € 62.623 | € 50.098 | € 15.656 | € 54.795 | € 148.730 |
-| Rijssen-Holten | € 27.625 | € 190.189 | € 42.500 | € 34.000 | € 10.625 | € 37.188 | € 100.938 |
-| Rijswijk | € 40.444 | € 278.440 | € 62.221 | € 49.777 | € 15.555 | € 54.444 | € 147.776 |
-| Roerdalen | € 16.546 | € 113.916 | € 25.456 | € 20.365 | € 6.364 | € 22.274 | € 60.458 |
-| Roermond | € 51.607 | € 355.296 | € 79.396 | € 63.517 | € 19.849 | € 69.471 | € 188.565 |
-| Roosendaal | € 63.086 | € 434.320 | € 97.055 | € 77.644 | € 24.264 | € 84.923 | € 230.505 |
-| Rotterdam | € 558.121 | € 3.842.450 | € 858.648 | € 686.918 | € 214.662 | € 751.317 | € 2.039.289 |
-| Rozendaal | € 3.070 | € 21.144 | € 4.724 | € 3.781 | € 1.180 | € 4.134 | € 11.222 |
-| Rucphen | € 22.600 | € 155.594 | € 34.770 | € 27.816 | € 8.692 | € 30.423 | € 82.578 |
-| Schagen | € 32.567 | € 224.211 | € 50.103 | € 40.082 | € 12.526 | € 43.840 | € 118.995 |
-| Scherpenzeel | € 7.372 | € 50.756 | € 11.342 | € 9.074 | € 2.836 | € 9.924 | € 26.938 |
-| Schiedam | € 69.355 | € 477.481 | € 106.700 | € 85.360 | € 26.675 | € 93.362 | € 253.412 |
-| Schiermonnikoog | € 6.000 | € 20.000 | € 5.951 | € 8.580 | € 1.486 | € 5.208 | € 14.138 |
-| Schouwen-Duiveland | € 26.130 | € 179.895 | € 40.200 | € 32.160 | € 10.050 | € 35.175 | € 95.475 |
-| 's-Gravenhage | € 417.997 | € 2.877.747 | € 643.072 | € 514.458 | € 160.768 | € 562.688 | € 1.527.296 |
-| 's-Hertogenbosch | € 113.021 | € 778.103 | € 173.878 | € 139.102 | € 43.469 | € 152.143 | € 412.960 |
-| Simpelveld | € 9.493 | € 65.359 | € 14.605 | € 11.684 | € 3.651 | € 12.780 | € 34.687 |
-| Sint-Michielsgestel | € 19.349 | € 133.209 | € 29.767 | € 23.814 | € 7.442 | € 26.047 | € 70.698 |
-| Sittard-Geleen | € 81.885 | € 563.745 | € 125.977 | € 100.781 | € 31.494 | € 110.230 | € 299.194 |
-| Sliedrecht | € 21.422 | € 147.483 | € 32.957 | € 26.366 | € 8.239 | € 28.837 | € 78.273 |
-| Sluis | € 18.876 | € 129.952 | € 29.040 | € 23.232 | € 7.260 | € 25.410 | € 68.969 |
-| Smallingerland | € 45.783 | € 315.198 | € 70.435 | € 56.348 | € 17.609 | € 61.631 | € 167.284 |
-| Soest | € 30.542 | € 210.267 | € 46.987 | € 37.590 | € 11.747 | € 41.114 | € 111.594 |
-| Someren | € 15.895 | € 109.429 | € 24.453 | € 19.563 | € 6.113 | € 21.397 | € 58.077 |
-| Son en Breugel | € 9.773 | € 67.280 | € 15.035 | € 12.028 | € 3.759 | € 13.155 | € 35.707 |
-| Stadskanaal | € 31.552 | € 217.224 | € 48.542 | € 38.833 | € 12.135 | € 42.474 | € 115.287 |
-| Staphorst | € 12.668 | € 87.216 | € 19.490 | € 15.592 | € 4.872 | € 17.053 | € 46.288 |
-| Stede Broec | € 18.687 | € 128.655 | € 28.750 | € 23.000 | € 7.187 | € 25.156 | € 68.280 |
-| Steenbergen | € 21.008 | € 144.630 | € 32.320 | € 25.856 | € 8.080 | € 28.280 | € 76.759 |
-| Steenwijkerland | € 34.929 | € 240.472 | € 53.737 | € 42.989 | € 13.434 | € 47.020 | € 127.625 |
-| Stein | € 21.883 | € 150.653 | € 33.665 | € 26.932 | € 8.416 | € 29.457 | € 79.955 |
-| Stichtse Vecht | € 42.314 | € 291.319 | € 65.099 | € 52.079 | € 16.275 | € 56.962 | € 154.611 |
-| Súdwest-Fryslân | € 68.997 | € 475.017 | € 106.149 | € 84.919 | € 26.537 | € 92.880 | € 252.104 |
-| Terneuzen | € 47.551 | € 327.370 | € 73.155 | € 58.524 | € 18.289 | € 64.011 | € 173.744 |
-| Terschelling | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.137 |
-| Texel | € 10.205 | € 70.258 | € 15.700 | € 12.560 | € 3.925 | € 13.738 | € 37.288 |
-| Teylingen | € 21.812 | € 150.170 | € 33.558 | € 26.846 | € 8.389 | € 29.363 | € 79.699 |
-| Tholen | € 21.647 | € 149.032 | € 33.303 | € 26.643 | € 8.326 | € 29.140 | € 79.095 |
-| Tiel | € 35.934 | € 247.391 | € 55.283 | € 44.226 | € 13.821 | € 48.373 | € 131.297 |
-| Tilburg | € 175.767 | € 1.210.089 | € 270.411 | € 216.329 | € 67.603 | € 236.610 | € 642.226 |
-| Tubbergen | € 14.243 | € 98.055 | € 21.912 | € 17.529 | € 5.478 | € 19.173 | € 52.041 |
-| Twenterand | € 28.754 | € 197.960 | € 44.237 | € 35.390 | € 11.059 | € 38.707 | € 105.063 |
-| Tynaarlo | € 19.158 | € 131.899 | € 29.475 | € 23.580 | € 7.369 | € 25.790 | € 70.002 |
-| Tytsjerksteradiel | € 24.491 | € 168.611 | € 37.678 | € 30.143 | € 9.420 | € 32.969 | € 89.486 |
-| Uitgeest | € 7.183 | € 49.454 | € 11.051 | € 8.841 | € 2.763 | € 9.670 | € 26.246 |
-| Uithoorn | € 20.190 | € 139.000 | € 31.062 | € 24.849 | € 7.765 | € 27.179 | € 73.771 |
-| Urk | € 15.046 | € 103.588 | € 23.148 | € 18.519 | € 5.787 | € 20.255 | € 54.977 |
-| Utrecht | € 207.614 | € 1.429.340 | € 319.406 | € 255.524 | € 79.851 | € 279.480 | € 758.588 |
-| Utrechtse Heuvelrug | € 28.140 | € 193.733 | € 43.292 | € 34.634 | € 10.823 | € 37.881 | € 102.819 |
-| Vaals | € 9.536 | € 65.650 | € 14.670 | € 11.736 | € 3.668 | € 12.837 | € 34.842 |
-| Valkenburg aan de Geul | € 13.422 | € 92.407 | € 20.650 | € 16.520 | € 5.162 | € 18.068 | € 49.043 |
-| Valkenswaard | € 25.532 | € 175.779 | € 39.280 | € 31.424 | € 9.820 | € 34.370 | € 93.290 |
-| Veendam | € 25.176 | € 173.327 | € 38.732 | € 30.986 | € 9.683 | € 33.891 | € 91.989 |
-| Veenendaal | € 48.997 | € 337.327 | € 75.380 | € 60.304 | € 18.845 | € 65.958 | € 179.029 |
-| Veere | € 13.699 | € 94.309 | € 21.075 | € 16.860 | € 5.269 | € 18.440 | € 50.052 |
-| Veldhoven | € 30.143 | € 207.520 | € 46.373 | € 37.099 | € 11.593 | € 40.577 | € 110.136 |
-| Velsen | € 51.174 | € 352.311 | € 78.729 | € 62.983 | € 19.682 | € 68.888 | € 186.981 |
-| Venlo | € 94.554 | € 650.965 | € 145.467 | € 116.374 | € 36.367 | € 127.284 | € 345.484 |
-| Venray | € 35.467 | € 244.180 | € 54.565 | € 43.652 | € 13.641 | € 47.745 | € 129.593 |
-| Vijfheerenlanden | € 45.303 | € 311.892 | € 69.697 | € 55.757 | € 17.424 | € 60.984 | € 165.529 |
-| Vlaardingen | € 66.004 | € 454.409 | € 101.544 | € 81.235 | € 25.386 | € 88.851 | € 241.167 |
-| Vlieland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.139 |
-| Vlissingen | € 36.230 | € 249.430 | € 55.739 | € 44.591 | € 13.935 | € 48.771 | € 132.379 |
-| Voerendaal | € 9.164 | € 63.088 | € 14.098 | € 11.278 | € 3.524 | € 12.336 | € 33.482 |
-| Voorne aan Zee | € 52.459 | € 361.160 | € 80.706 | € 64.565 | € 20.177 | € 70.618 | € 191.677 |
-| Voorschoten | € 13.601 | € 93.639 | € 20.925 | € 16.740 | € 5.231 | € 18.309 | € 49.697 |
-| Voorst | € 17.341 | € 119.386 | € 26.678 | € 21.343 | € 6.670 | € 23.344 | € 63.361 |
-| Vught | € 19.629 | € 135.138 | € 30.198 | € 24.159 | € 7.550 | € 26.424 | € 71.721 |
-| Waadhoeke | € 37.787 | € 260.146 | € 58.133 | € 46.507 | € 14.533 | € 50.867 | € 138.066 |
-| Waalre | € 9.120 | € 62.784 | € 14.030 | € 11.224 | € 3.508 | € 12.276 | € 33.321 |
-| Waalwijk | € 42.105 | € 289.878 | € 64.777 | € 51.822 | € 16.194 | € 56.680 | € 153.846 |
-| Waddinxveen | € 21.266 | € 146.408 | € 32.717 | € 26.173 | € 8.179 | € 28.627 | € 77.702 |
-| Wageningen | € 22.314 | € 153.623 | € 34.329 | € 27.463 | € 8.582 | € 30.038 | € 81.532 |
-| Wassenaar | € 15.068 | € 103.735 | € 23.181 | € 18.545 | € 5.795 | € 20.283 | € 55.055 |
-| Waterland | € 10.761 | € 74.086 | € 16.555 | € 13.244 | € 4.139 | € 14.486 | € 39.319 |
-| Weert | € 41.518 | € 285.835 | € 63.874 | € 51.099 | € 15.968 | € 55.889 | € 151.700 |
-| West Betuwe | € 38.139 | € 262.570 | € 58.675 | € 46.940 | € 14.669 | € 51.341 | € 139.353 |
-| West Maas en Waal | € 15.075 | € 103.787 | € 23.193 | € 18.554 | € 5.798 | € 20.294 | € 55.083 |
-| Westerkwartier | € 44.577 | € 306.894 | € 68.580 | € 54.864 | € 17.145 | € 60.007 | € 162.877 |
-| Westerveld | € 14.255 | € 98.140 | € 21.931 | € 17.545 | € 5.483 | € 19.189 | € 52.085 |
-| Westervoort | € 11.691 | € 80.490 | € 17.987 | € 14.389 | € 4.497 | € 15.738 | € 42.718 |
-| Westerwolde | € 23.696 | € 163.136 | € 36.455 | € 29.164 | € 9.114 | € 31.898 | € 86.580 |
-| Westland | € 84.444 | € 581.367 | € 129.914 | € 103.931 | € 32.479 | € 113.675 | € 308.547 |
-| Weststellingwerf | € 22.528 | € 155.095 | € 34.658 | € 27.727 | € 8.665 | € 30.326 | € 82.313 |
-| Wierden | € 16.115 | € 110.943 | € 24.792 | € 19.833 | € 6.198 | € 21.693 | € 58.880 |
-| Wijchen | € 29.787 | € 205.070 | € 45.826 | € 36.661 | € 11.456 | € 40.098 | € 108.836 |
-| Wijdemeren | € 15.651 | € 107.748 | € 24.078 | € 19.262 | € 6.019 | € 21.068 | € 57.185 |
-| Wijk bij Duurstede | € 14.908 | € 102.633 | € 22.935 | € 18.348 | € 5.734 | € 20.068 | € 54.470 |
-| Winterswijk | € 24.034 | € 165.464 | € 36.975 | € 29.580 | € 9.244 | € 32.353 | € 87.816 |
-| Woensdrecht | € 17.415 | € 119.896 | € 26.792 | € 21.434 | € 6.698 | € 23.443 | € 63.632 |
-| Woerden | € 33.284 | € 229.148 | € 51.206 | € 40.965 | € 12.802 | € 44.805 | € 121.615 |
-| Wormerland | € 11.810 | € 81.308 | € 18.169 | € 14.536 | € 4.542 | € 15.898 | € 43.152 |
-| Woudenberg | € 8.786 | € 60.488 | € 13.517 | € 10.813 | € 3.379 | € 11.827 | € 32.102 |
-| Zaanstad | € 122.473 | € 843.178 | € 188.420 | € 150.736 | € 47.105 | € 164.867 | € 447.496 |
-| Zaltbommel | € 22.304 | € 153.551 | € 34.313 | € 27.451 | € 8.578 | € 30.024 | € 81.494 |
-| Zandvoort | € 13.350 | € 91.912 | € 20.539 | € 16.431 | € 5.135 | € 17.972 | € 48.780 |
-| Zeewolde | € 13.889 | € 95.620 | € 21.368 | € 17.094 | € 5.342 | € 18.697 | € 50.748 |
-| Zeist | € 40.395 | € 278.105 | € 62.146 | € 49.717 | € 15.537 | € 54.378 | € 147.597 |
-| Zevenaar | € 38.492 | € 265.003 | € 59.218 | € 47.375 | € 14.805 | € 51.816 | € 140.644 |
-| Zoetermeer | € 86.752 | € 597.253 | € 133.464 | € 106.771 | € 33.366 | € 116.781 | € 316.978 |
-| Zoeterwoude | € 5.427 | € 37.363 | € 8.349 | € 6.679 | € 2.087 | € 7.306 | € 19.829 |
-| Zuidplas | € 29.843 | € 205.457 | € 45.912 | € 36.730 | € 11.478 | € 40.173 | € 109.041 |
-| Zundert | € 17.522 | € 120.630 | € 26.956 | € 21.565 | € 6.739 | € 23.587 | € 64.022 |
-| Zutphen | € 36.854 | € 253.728 | € 56.699 | € 45.359 | € 14.175 | € 49.612 | € 134.660 |
-| Zwartewaterland | € 18.158 | € 125.010 | € 27.935 | € 22.348 | € 6.984 | € 24.443 | € 66.346 |
-| Zwijndrecht | € 38.064 | € 262.053 | € 58.559 | € 46.847 | € 14.640 | € 51.239 | € 139.078 |
-| Zwolle | € 85.143 | € 586.178 | € 130.990 | € 104.792 | € 32.747 | € 114.616 | € 311.100 |
+| Aa en Hunze | € 16.787 | € 115.574 | € 25.826 | € 20.661 | € 9.685 | € 22.598 | € 61.338 |
+| Aalsmeer | € 22.054 | € 151.836 | € 33.930 | € 27.144 | € 12.724 | € 29.689 | € 80.583 |
+| Aalten | € 22.004 | € 151.489 | € 33.852 | € 27.082 | € 12.695 | € 29.621 | € 80.399 |
+| Achtkarspelen | € 25.130 | € 173.010 | € 38.662 | € 30.929 | € 14.498 | € 33.829 | € 91.821 |
+| Alblasserdam | € 16.396 | € 112.877 | € 25.224 | € 20.179 | € 9.459 | € 22.071 | € 59.907 |
+| Albrandswaard | € 15.384 | € 105.910 | € 23.667 | € 18.934 | € 8.875 | € 20.709 | € 56.209 |
+| Alkmaar | € 80.421 | € 553.669 | € 123.725 | € 98.980 | € 46.397 | € 108.259 | € 293.847 |
+| Almelo | € 64.550 | € 444.400 | € 99.307 | € 79.446 | € 37.241 | € 86.894 | € 235.855 |
+| Almere | € 145.507 | € 1.001.757 | € 223.856 | € 179.085 | € 83.947 | € 195.874 | € 531.659 |
+| Alphen aan den Rijn | € 78.523 | € 540.598 | € 120.804 | € 96.643 | € 45.302 | € 105.704 | € 286.910 |
+| Alphen-Chaam | € 6.933 | € 47.732 | € 10.666 | € 8.533 | € 4.000 | € 9.333 | € 25.333 |
+| Altena | € 46.493 | € 320.087 | € 71.528 | € 57.222 | € 26.823 | € 62.587 | € 169.878 |
+| Ameland | € 2.431 | € 16.740 | € 3.741 | € 2.993 | € 1.403 | € 3.273 | € 8.884 |
+| Amersfoort | € 96.947 | € 667.443 | € 149.149 | € 119.319 | € 55.932 | € 130.506 | € 354.229 |
+| Amstelveen | € 54.375 | € 374.351 | € 83.654 | € 66.923 | € 31.371 | € 73.197 | € 198.678 |
+| Amsterdam | € 631.941 | € 4.350.669 | € 972.216 | € 777.773 | € 364.586 | € 850.689 | € 2.309.014 |
+| Apeldoorn | € 122.369 | € 842.466 | € 188.261 | € 150.608 | € 70.599 | € 164.728 | € 447.119 |
+| Arnhem | € 126.738 | € 872.542 | € 194.982 | € 155.985 | € 73.119 | € 170.609 | € 463.081 |
+| Assen | € 47.268 | € 325.419 | € 72.719 | € 58.175 | € 27.270 | € 63.629 | € 172.708 |
+| Asten | € 13.252 | € 91.235 | € 20.388 | € 16.310 | € 7.645 | € 17.839 | € 48.421 |
+| Baarle-Nassau | € 5.652 | € 38.909 | € 8.695 | € 6.956 | € 3.261 | € 7.608 | € 20.650 |
+| Baarn | € 16.199 | € 111.522 | € 24.921 | € 19.937 | € 9.346 | € 21.806 | € 59.187 |
+| Barendrecht | € 29.790 | € 205.094 | € 45.831 | € 36.665 | € 17.187 | € 40.102 | € 108.849 |
+| Barneveld | € 41.486 | € 285.612 | € 63.824 | € 51.059 | € 23.934 | € 55.846 | € 151.582 |
+| Beek | € 12.399 | € 85.362 | € 19.075 | € 15.260 | € 7.153 | € 16.691 | € 45.304 |
+| Beekdaelen | € 28.091 | € 193.395 | € 43.217 | € 34.573 | € 16.206 | € 37.815 | € 102.640 |
+| Beesel | € 11.616 | € 79.973 | € 17.871 | € 14.297 | € 6.702 | € 15.637 | € 42.444 |
+| Berg en Dal | € 28.829 | € 198.480 | € 44.353 | € 35.482 | € 16.633 | € 38.809 | € 105.338 |
+| Bergeijk | € 13.040 | € 89.777 | € 20.062 | € 16.050 | € 7.523 | € 17.554 | € 47.647 |
+| Bergen (L.) | € 11.237 | € 77.363 | € 17.288 | € 13.830 | € 6.483 | € 15.127 | € 41.059 |
+| Bergen (NH.) | € 18.174 | € 125.120 | € 27.960 | € 22.368 | € 10.485 | € 24.465 | € 66.405 |
+| Bergen op Zoom | € 54.635 | € 376.140 | € 84.054 | € 67.243 | € 31.521 | € 73.547 | € 199.628 |
+| Berkelland | € 33.781 | € 232.568 | € 51.970 | € 41.576 | € 19.489 | € 45.474 | € 123.430 |
+| Bernheze | € 23.547 | € 162.112 | € 36.226 | € 28.981 | € 13.585 | € 31.698 | € 86.037 |
+| Best | € 19.408 | € 133.617 | € 29.858 | € 23.887 | € 11.197 | € 26.126 | € 70.914 |
+| Beuningen | € 18.238 | € 125.560 | € 28.058 | € 22.446 | € 10.522 | € 24.551 | € 66.638 |
+| Beverwijk | € 33.141 | € 228.166 | € 50.987 | € 40.789 | € 19.120 | € 44.613 | € 121.093 |
+| Bladel | € 14.867 | € 102.352 | € 22.872 | € 18.298 | € 8.577 | € 20.013 | € 54.321 |
+| Blaricum | € 6.250 | € 43.029 | € 9.616 | € 7.692 | € 3.606 | € 8.414 | € 22.837 |
+| Bloemendaal | € 10.556 | € 72.674 | € 16.240 | € 12.992 | € 6.090 | € 14.210 | € 38.570 |
+| Bodegraven-Reeuwijk | € 23.686 | € 163.070 | € 36.440 | € 29.152 | € 13.665 | € 31.885 | € 86.546 |
+| Boekel | € 7.957 | € 54.784 | € 12.242 | € 9.794 | € 4.591 | € 10.712 | € 29.075 |
+| Borger-Odoorn | € 20.409 | € 140.509 | € 31.399 | € 25.119 | € 11.775 | € 27.474 | € 74.572 |
+| Borne | € 15.307 | € 105.382 | € 23.549 | € 18.839 | € 8.831 | € 20.605 | € 55.929 |
+| Borsele | € 16.407 | € 112.956 | € 25.242 | € 20.193 | € 9.466 | € 22.086 | € 59.949 |
+| Boxtel | € 25.952 | € 178.667 | € 39.926 | € 31.941 | € 14.972 | € 34.935 | € 94.823 |
+| Breda | € 124.059 | € 854.097 | € 190.860 | € 152.688 | € 71.573 | € 167.002 | € 453.292 |
+| Bronckhorst | € 26.695 | € 183.786 | € 41.069 | € 32.856 | € 15.401 | € 35.936 | € 97.540 |
+| Brummen | € 16.031 | € 110.369 | € 24.663 | € 19.731 | € 9.249 | € 21.580 | € 58.576 |
+| Brunssum | € 27.696 | € 190.676 | € 42.609 | € 34.087 | € 15.979 | € 37.283 | € 101.197 |
+| Bunnik | € 7.784 | € 53.588 | € 11.975 | € 9.580 | € 4.491 | € 10.478 | € 28.440 |
+| Bunschoten | € 17.162 | € 118.155 | € 26.403 | € 21.123 | € 9.901 | € 23.103 | € 62.708 |
+| Buren | € 21.633 | € 148.932 | € 33.281 | € 26.625 | € 12.481 | € 29.121 | € 79.042 |
+| Capelle aan den IJssel | € 52.076 | € 358.524 | € 80.117 | € 64.094 | € 30.044 | € 70.102 | € 190.278 |
+| Castricum | € 20.104 | € 138.407 | € 30.929 | € 24.743 | € 11.598 | € 27.063 | € 73.456 |
+| Coevorden | € 28.942 | € 199.255 | € 44.526 | € 35.621 | € 16.698 | € 38.960 | € 105.750 |
+| Cranendonck | € 16.668 | € 114.752 | € 25.643 | € 20.514 | € 9.616 | € 22.437 | € 60.902 |
+| Culemborg | € 20.656 | € 142.208 | € 31.778 | € 25.423 | € 11.917 | € 27.806 | € 75.473 |
+| Dalfsen | € 20.516 | € 141.246 | € 31.563 | € 25.251 | € 11.836 | € 27.618 | € 74.963 |
+| Dantumadiel | € 17.223 | € 118.572 | € 26.497 | € 21.197 | € 9.936 | € 23.184 | € 62.929 |
+| De Bilt | € 24.491 | € 168.609 | € 37.678 | € 30.142 | € 14.129 | € 32.968 | € 89.485 |
+| De Fryske Marren | € 39.212 | € 269.962 | € 60.327 | € 48.261 | € 22.623 | € 52.786 | € 143.276 |
+| De Ronde Venen | € 29.086 | € 200.246 | € 44.748 | € 35.798 | € 16.781 | € 39.154 | € 106.276 |
+| De Wolden | € 17.234 | € 118.651 | € 26.514 | € 21.211 | € 9.943 | € 23.200 | € 62.971 |
+| Delft | € 67.527 | € 464.897 | € 103.888 | € 83.110 | € 38.958 | € 90.902 | € 246.733 |
+| Den Helder | € 50.148 | € 345.250 | € 77.151 | € 61.721 | € 28.932 | € 67.507 | € 183.233 |
+| Deurne | € 26.283 | € 180.951 | € 40.436 | € 32.349 | € 15.164 | € 35.382 | € 96.036 |
+| Deventer | € 73.382 | € 505.205 | € 112.895 | € 90.316 | € 42.336 | € 98.783 | € 268.125 |
+| Diemen | € 17.093 | € 117.680 | € 26.297 | € 21.038 | € 9.862 | € 23.010 | € 62.456 |
+| Dijk en Waard | € 58.766 | € 404.583 | € 90.410 | € 72.328 | € 33.904 | € 79.108 | € 214.723 |
+| Dinkelland | € 17.091 | € 117.667 | € 26.294 | € 21.035 | € 9.860 | € 23.007 | € 62.449 |
+| Doesburg | € 9.647 | € 66.419 | € 14.842 | € 11.874 | € 5.566 | € 12.987 | € 35.250 |
+| Doetinchem | € 44.045 | € 303.233 | € 67.762 | € 54.209 | € 25.411 | € 59.291 | € 160.934 |
+| Dongen | € 19.822 | € 136.468 | € 30.496 | € 24.396 | € 11.436 | € 26.684 | € 72.427 |
+| Dordrecht | € 96.972 | € 667.618 | € 149.188 | € 119.351 | € 55.946 | € 130.540 | € 354.322 |
+| Drechterland | € 14.640 | € 100.792 | € 22.523 | € 18.019 | € 8.446 | € 19.708 | € 53.493 |
+| Drimmelen | € 21.507 | € 148.068 | € 33.088 | € 26.470 | € 12.408 | € 28.952 | € 78.584 |
+| Dronten | € 28.523 | € 196.371 | € 43.882 | € 35.105 | € 16.456 | € 38.397 | € 104.219 |
+| Druten | € 14.376 | € 98.976 | € 22.118 | € 17.694 | € 8.294 | € 19.353 | € 52.529 |
+| Duiven | € 17.633 | € 121.393 | € 27.127 | € 21.702 | € 10.173 | € 23.736 | € 64.427 |
+| Echt-Susteren | € 28.421 | € 195.670 | € 43.725 | € 34.980 | € 16.397 | € 38.260 | € 103.847 |
+| Edam-Volendam | € 27.999 | € 192.762 | € 43.075 | € 34.460 | € 16.153 | € 37.691 | € 102.304 |
+| Ede | € 80.261 | € 552.569 | € 123.479 | € 98.783 | € 46.305 | € 108.044 | € 293.263 |
+| Eemnes | € 5.140 | € 35.388 | € 7.908 | € 6.326 | € 2.966 | € 6.919 | € 18.781 |
+| Eemsdelta | € 40.848 | € 281.224 | € 62.843 | € 50.275 | € 23.567 | € 54.988 | € 149.253 |
+| Eersel | € 12.546 | € 86.375 | € 19.302 | € 15.441 | € 7.238 | € 16.889 | € 45.842 |
+| Eijsden-Margraten | € 16.816 | € 115.769 | € 25.870 | € 20.696 | € 9.701 | € 22.636 | € 61.441 |
+| Eindhoven | € 175.982 | € 1.211.568 | € 270.741 | € 216.593 | € 101.529 | € 236.899 | € 643.011 |
+| Elburg | € 18.563 | € 127.798 | € 28.558 | € 22.847 | € 10.709 | € 24.988 | € 67.826 |
+| Emmen | € 99.920 | € 687.913 | € 153.724 | € 122.979 | € 57.647 | € 134.508 | € 365.093 |
+| Enkhuizen | € 15.104 | € 103.985 | € 23.237 | € 18.589 | € 8.714 | € 20.332 | € 55.187 |
+| Enschede | € 130.942 | € 901.483 | € 201.449 | € 161.159 | € 75.544 | € 176.268 | € 478.441 |
+| Epe | € 26.763 | € 184.252 | € 41.174 | € 32.939 | € 15.440 | € 36.027 | € 97.787 |
+| Ermelo | € 18.273 | € 125.802 | € 28.112 | € 22.490 | € 10.542 | € 24.598 | € 66.766 |
+| Etten-Leur | € 32.747 | € 225.452 | € 50.380 | € 40.304 | € 18.893 | € 44.083 | € 119.653 |
+| Geertruidenberg | € 17.723 | € 122.016 | € 27.266 | € 21.813 | € 10.225 | € 23.858 | € 64.757 |
+| Geldrop-Mierlo | € 29.860 | € 205.575 | € 45.939 | € 36.751 | € 17.227 | € 40.196 | € 109.104 |
+| Gemert-Bakel | € 24.559 | € 169.081 | € 37.783 | € 30.227 | € 14.169 | € 33.061 | € 89.736 |
+| Gennep | € 12.927 | € 88.996 | € 19.887 | € 15.910 | € 7.458 | € 17.401 | € 47.232 |
+| Gilze en Rijen | € 19.536 | € 134.496 | € 30.055 | € 24.044 | € 11.271 | € 26.298 | € 71.381 |
+| Goeree-Overflakkee | € 40.459 | € 278.546 | € 62.245 | € 49.796 | € 23.342 | € 54.464 | € 147.832 |
+| Goes | € 30.480 | € 209.845 | € 46.893 | € 37.514 | € 17.585 | € 41.031 | € 111.370 |
+| Goirle | € 15.809 | € 108.838 | € 24.321 | € 19.457 | € 9.121 | € 21.281 | € 57.763 |
+| Gooise Meren | € 32.082 | € 220.870 | € 49.356 | € 39.485 | € 18.509 | € 43.187 | € 117.222 |
+| Gorinchem | € 30.650 | € 211.012 | € 47.153 | € 37.723 | € 17.683 | € 41.259 | € 111.989 |
+| Gouda | € 54.207 | € 373.196 | € 83.396 | € 66.717 | € 31.274 | € 72.971 | € 198.065 |
+| Groningen | € 145.572 | € 1.002.210 | € 223.957 | € 179.166 | € 83.985 | € 195.963 | € 531.899 |
+| Gulpen-Wittem | € 11.521 | € 79.317 | € 17.724 | € 14.180 | € 6.647 | € 15.509 | € 42.096 |
+| Haaksbergen | € 17.265 | € 118.864 | € 26.562 | € 21.250 | € 9.961 | € 23.242 | € 63.084 |
+| Haarlem | € 108.935 | € 749.977 | € 167.593 | € 134.074 | € 62.848 | € 146.644 | € 398.033 |
+| Haarlemmermeer | € 101.416 | € 698.210 | € 156.025 | € 124.820 | € 58.510 | € 136.522 | € 370.559 |
+| Halderberge | € 25.406 | € 174.910 | € 39.086 | € 31.269 | € 14.657 | € 34.200 | € 92.829 |
+| Hardenberg | € 47.486 | € 326.926 | € 73.056 | € 58.445 | € 27.396 | € 63.924 | € 173.508 |
+| Harderwijk | € 35.624 | € 245.258 | € 54.806 | € 43.845 | € 20.553 | € 47.955 | € 130.165 |
+| Hardinxveld-Giessendam | € 13.635 | € 93.869 | € 20.976 | € 16.781 | € 7.866 | € 18.354 | € 49.819 |
+| Harlingen | € 13.923 | € 95.858 | € 21.421 | € 17.137 | € 8.033 | € 18.743 | € 50.874 |
+| Hattem | € 8.364 | € 57.586 | € 12.868 | € 10.295 | € 4.826 | € 11.260 | € 30.563 |
+| Heemskerk | € 29.132 | € 200.561 | € 44.818 | € 35.854 | € 16.807 | € 39.216 | € 106.443 |
+| Heemstede | € 13.683 | € 94.205 | € 21.051 | € 16.841 | € 7.894 | € 18.420 | € 49.997 |
+| Heerde | € 14.724 | € 101.367 | € 22.652 | € 18.122 | € 8.495 | € 19.820 | € 53.798 |
+| Heerenveen | € 39.493 | € 271.891 | € 60.758 | € 48.606 | € 22.784 | € 53.163 | € 144.300 |
+| Heerlen | € 90.872 | € 625.620 | € 139.803 | € 111.843 | € 52.427 | € 122.328 | € 332.033 |
+| Heeze-Leende | € 9.360 | € 64.437 | € 14.399 | € 11.519 | € 5.400 | € 12.599 | € 34.198 |
+| Heiloo | € 13.500 | € 92.945 | € 20.770 | € 16.616 | € 7.789 | € 18.174 | € 49.328 |
+| Hellendoorn | € 26.889 | € 185.118 | € 41.367 | € 33.094 | € 15.513 | € 36.196 | € 98.247 |
+| Helmond | € 80.317 | € 552.950 | € 123.564 | € 98.851 | € 46.337 | € 108.119 | € 293.465 |
+| Hendrik-Ido-Ambacht | € 19.623 | € 135.096 | € 30.189 | € 24.151 | € 11.321 | € 26.416 | € 71.699 |
+| Hengelo | € 58.607 | € 403.490 | € 90.165 | € 72.132 | € 33.812 | € 78.895 | € 214.143 |
+| Het Hogeland | € 39.006 | € 268.541 | € 60.009 | € 48.007 | € 22.504 | € 52.508 | € 142.522 |
+| Heumen | € 10.006 | € 68.886 | € 15.393 | € 12.315 | € 5.773 | € 13.469 | € 36.559 |
+| Heusden | € 34.629 | € 238.407 | € 53.275 | € 42.620 | € 19.979 | € 46.616 | € 126.529 |
+| Hillegom | € 16.786 | € 115.567 | € 25.825 | € 20.660 | € 9.685 | € 22.597 | € 61.334 |
+| Hilvarenbeek | € 9.997 | € 68.823 | € 15.379 | € 12.304 | € 5.767 | € 13.457 | € 36.526 |
+| Hilversum | € 64.611 | € 444.818 | € 99.401 | € 79.521 | € 37.276 | € 86.976 | € 236.077 |
+| Hoeksche Waard | € 62.697 | € 431.644 | € 96.457 | € 77.165 | € 36.172 | € 84.400 | € 229.085 |
+| Hof van Twente | € 25.524 | € 175.720 | € 39.267 | € 31.414 | € 14.725 | € 34.359 | € 93.259 |
+| Hollands Kroon | € 37.438 | € 257.743 | € 57.596 | € 46.077 | € 21.599 | € 50.397 | € 136.791 |
+| Hoogeveen | € 50.212 | € 345.690 | € 77.249 | € 61.799 | € 28.969 | € 67.593 | € 183.467 |
+| Hoorn | € 55.550 | € 382.443 | € 85.462 | € 68.370 | € 32.049 | € 74.779 | € 202.972 |
+| Horst aan de Maas | € 31.438 | € 216.435 | € 48.365 | € 38.692 | € 18.137 | € 42.320 | € 114.868 |
+| Houten | € 26.745 | € 184.126 | € 41.146 | € 32.916 | € 15.430 | € 36.002 | € 97.721 |
+| Huizen | € 28.645 | € 197.210 | € 44.069 | € 35.255 | € 16.526 | € 38.561 | € 104.664 |
+| Hulst | € 23.617 | € 162.595 | € 36.334 | € 29.067 | € 13.625 | € 31.792 | € 86.293 |
+| IJsselstein | € 22.429 | € 154.416 | € 34.506 | € 27.605 | € 12.940 | € 30.193 | € 81.952 |
+| Kaag en Braassem | € 20.232 | € 139.289 | € 31.126 | € 24.901 | € 11.672 | € 27.235 | € 73.925 |
+| Kampen | € 42.024 | € 289.320 | € 64.653 | € 51.722 | € 24.245 | € 56.571 | € 153.550 |
+| Kapelle | € 9.440 | € 64.988 | € 14.522 | € 11.618 | € 5.446 | € 12.707 | € 34.491 |
+| Katwijk | € 51.083 | € 351.686 | € 78.589 | € 62.871 | € 29.471 | € 68.766 | € 186.649 |
+| Kerkrade | € 49.868 | € 343.323 | € 76.720 | € 61.376 | € 28.770 | € 67.130 | € 182.211 |
+| Koggenland | € 15.066 | € 103.720 | € 23.178 | € 18.542 | € 8.692 | € 20.280 | € 55.047 |
+| Krimpen aan den IJssel | € 22.778 | € 156.817 | € 35.043 | € 28.034 | € 13.141 | € 30.663 | € 83.227 |
+| Krimpenerwaard | € 42.598 | € 293.274 | € 65.536 | € 52.429 | € 24.576 | € 57.344 | € 155.648 |
+| Laarbeek | € 17.912 | € 123.317 | € 27.557 | € 22.045 | € 10.334 | € 24.112 | € 65.448 |
+| Land van Cuijk | € 67.497 | € 464.688 | € 103.841 | € 83.073 | € 38.941 | € 90.861 | € 246.622 |
+| Landgraaf | € 35.306 | € 243.065 | € 54.316 | € 43.453 | € 20.369 | € 47.527 | € 129.001 |
+| Landsmeer | € 7.064 | € 48.633 | € 10.868 | € 8.694 | € 4.075 | € 9.509 | € 25.811 |
+| Lansingerland | € 35.071 | € 241.449 | € 53.955 | € 43.164 | € 20.233 | € 47.211 | € 128.143 |
+| Laren | € 6.451 | € 44.413 | € 9.925 | € 7.940 | € 3.722 | € 8.684 | € 23.571 |
+| Leeuwarden | € 91.505 | € 629.977 | € 140.777 | € 112.622 | € 52.792 | € 123.180 | € 334.345 |
+| Leiden | € 79.028 | € 544.079 | € 121.582 | € 97.266 | € 45.594 | € 106.384 | € 288.757 |
+| Leiderdorp | € 16.564 | € 114.034 | € 25.482 | € 20.386 | € 9.556 | € 22.297 | € 60.521 |
+| Leidschendam-Voorburg | € 49.967 | € 344.004 | € 76.872 | € 61.498 | € 28.828 | € 67.263 | € 182.572 |
+| Lelystad | € 62.160 | € 427.950 | € 95.631 | € 76.505 | € 35.862 | € 83.677 | € 227.124 |
+| Leudal | € 26.846 | € 184.827 | € 41.302 | € 33.042 | € 15.489 | € 36.139 | € 98.092 |
+| Leusden | € 16.486 | € 113.502 | € 25.364 | € 20.291 | € 9.511 | € 22.193 | € 60.238 |
+| Lingewaard | € 34.428 | € 237.023 | € 52.966 | € 42.373 | € 19.863 | € 46.345 | € 125.794 |
+| Lisse | € 17.227 | € 118.603 | € 26.504 | € 21.203 | € 9.939 | € 23.191 | € 62.946 |
+| Lochem | € 22.307 | € 153.576 | € 34.319 | € 27.455 | € 12.870 | € 30.029 | € 81.507 |
+| Loon op Zand | € 18.638 | € 128.314 | € 28.674 | € 22.939 | € 10.753 | € 25.089 | € 68.100 |
+| Lopik | € 10.892 | € 74.984 | € 16.756 | € 13.405 | € 6.284 | € 14.662 | € 39.796 |
+| Losser | € 17.828 | € 122.738 | € 27.428 | € 21.942 | € 10.285 | € 23.999 | € 65.140 |
+| Maasdriel | € 20.719 | € 142.639 | € 31.875 | € 25.500 | € 11.953 | € 27.890 | € 75.702 |
+| Maasgouw | € 19.720 | € 135.767 | € 30.339 | € 24.271 | € 11.377 | € 26.547 | € 72.055 |
+| Maashorst | € 44.347 | € 305.310 | € 68.226 | € 54.581 | € 25.585 | € 59.698 | € 162.036 |
+| Maassluis | € 28.427 | € 195.710 | € 43.734 | € 34.987 | € 16.400 | € 38.267 | € 103.868 |
+| Maastricht | € 98.752 | € 679.870 | € 151.926 | € 121.541 | € 56.973 | € 132.936 | € 360.825 |
+| Medemblik | € 35.732 | € 245.998 | € 54.972 | € 43.977 | € 20.615 | € 48.100 | € 130.557 |
+| Meerssen | € 13.864 | € 95.450 | € 21.330 | € 17.064 | € 7.999 | € 18.663 | € 50.658 |
+| Meierijstad | € 62.069 | € 427.320 | € 95.490 | € 76.392 | € 35.809 | € 83.554 | € 226.790 |
+| Meppel | € 25.143 | € 173.098 | € 38.681 | € 30.945 | € 14.506 | € 33.846 | € 91.868 |
+| Middelburg | € 35.460 | € 244.132 | € 54.555 | € 43.644 | € 20.458 | € 47.735 | € 129.567 |
+| Midden-Delfland | € 11.073 | € 76.234 | € 17.036 | € 13.629 | € 6.388 | € 14.906 | € 40.460 |
+| Midden-Drenthe | € 23.041 | € 158.631 | € 35.448 | € 28.359 | € 13.293 | € 31.017 | € 84.189 |
+| Midden-Groningen | € 53.397 | € 367.616 | € 82.149 | € 65.719 | € 30.806 | € 71.880 | € 195.103 |
+| Moerdijk | € 28.673 | € 197.400 | € 44.112 | € 35.289 | € 16.542 | € 38.598 | € 104.765 |
+| Molenlanden | € 31.310 | € 215.554 | € 48.169 | € 38.535 | € 18.063 | € 42.147 | € 114.400 |
+| Montferland | € 31.196 | € 214.776 | € 47.995 | € 38.396 | € 17.998 | € 41.995 | € 113.987 |
+| Montfoort | € 9.443 | € 65.014 | € 14.528 | € 11.623 | € 5.448 | € 12.712 | € 34.505 |
+| Mook en Middelaar | € 4.418 | € 30.415 | € 6.797 | € 5.437 | € 2.549 | € 5.947 | € 16.142 |
+| Neder-Betuwe | € 20.290 | € 139.688 | € 31.215 | € 24.972 | € 11.706 | € 27.313 | € 74.136 |
+| Nederweert | € 14.089 | € 96.996 | € 21.675 | € 17.340 | € 8.128 | € 18.966 | € 51.478 |
+| Nieuwegein | € 48.388 | € 333.131 | € 74.443 | € 59.554 | € 27.916 | € 65.137 | € 176.801 |
+| Nieuwkoop | € 20.839 | € 143.471 | € 32.061 | € 25.649 | € 12.023 | € 28.053 | € 76.144 |
+| Nijkerk | € 31.668 | € 218.020 | € 48.720 | € 38.976 | € 18.270 | € 42.630 | € 115.709 |
+| Nijmegen | € 126.202 | € 868.851 | € 194.157 | € 155.325 | € 72.810 | € 169.887 | € 461.122 |
+| Nissewaard | € 69.791 | € 480.487 | € 107.371 | € 85.897 | € 40.265 | € 93.950 | € 255.007 |
+| Noardeast-Fryslân | € 39.644 | € 272.933 | € 60.991 | € 48.793 | € 22.872 | € 53.367 | € 144.853 |
+| Noord-Beveland | € 5.284 | € 36.377 | € 8.129 | € 6.503 | € 3.048 | € 7.113 | € 19.306 |
+| Noordenveld | € 20.899 | € 143.881 | € 32.152 | € 25.722 | € 12.057 | € 28.133 | € 76.362 |
+| Noordoostpolder | € 34.456 | € 237.213 | € 53.009 | € 42.407 | € 19.878 | € 46.382 | € 125.895 |
+| Noordwijk | € 30.651 | € 211.023 | € 47.156 | € 37.725 | € 17.684 | € 41.261 | € 111.995 |
+| Nuenen, Gerwen en Nederwetten | € 13.269 | € 91.350 | € 20.413 | € 16.331 | € 7.655 | € 17.862 | € 48.482 |
+| Nunspeet | € 21.584 | € 148.597 | € 33.206 | € 26.565 | € 12.452 | € 29.055 | € 78.864 |
+| Oegstgeest | € 11.124 | € 76.582 | € 17.113 | € 13.691 | € 6.418 | € 14.974 | € 40.644 |
+| Oirschot | € 13.164 | € 90.626 | € 20.252 | € 16.201 | € 7.594 | € 17.720 | € 48.098 |
+| Oisterwijk | € 21.731 | € 149.610 | € 33.432 | € 26.746 | € 12.537 | € 29.253 | € 79.402 |
+| Oldambt | € 37.442 | € 257.773 | € 57.603 | € 46.082 | € 21.601 | € 50.402 | € 136.807 |
+| Oldebroek | € 21.041 | € 144.861 | € 32.371 | € 25.897 | € 12.139 | € 28.325 | € 76.882 |
+| Oldenzaal | € 24.321 | € 167.444 | € 37.418 | € 29.934 | € 14.032 | € 32.740 | € 88.867 |
+| Olst-Wijhe | € 12.914 | € 88.909 | € 19.868 | € 15.894 | € 7.451 | € 17.384 | € 47.186 |
+| Ommen | € 13.533 | € 93.172 | € 20.820 | € 16.656 | € 7.808 | € 18.218 | € 49.449 |
+| Oost Gelre | € 20.772 | € 143.007 | € 31.957 | € 25.565 | € 11.984 | € 27.962 | € 75.897 |
+| Oosterhout | € 43.833 | € 301.777 | € 67.436 | € 53.949 | € 25.289 | € 59.007 | € 160.161 |
+| Ooststellingwerf | € 20.787 | € 143.109 | € 31.980 | € 25.584 | € 11.993 | € 27.982 | € 75.951 |
+| Oostzaan | € 6.725 | € 46.296 | € 10.346 | € 8.276 | € 3.880 | € 9.052 | € 24.571 |
+| Opmeer | € 8.503 | € 58.537 | € 13.081 | € 10.465 | € 4.905 | € 11.446 | € 31.067 |
+| Opsterland | € 21.983 | € 151.346 | € 33.820 | € 27.056 | € 12.683 | € 29.593 | € 80.323 |
+| Oss | € 74.074 | € 509.973 | € 113.960 | € 91.168 | € 42.736 | € 99.715 | € 270.656 |
+| Oude IJsselstreek | € 34.103 | € 234.783 | € 52.465 | € 41.972 | € 19.675 | € 45.907 | € 124.605 |
+| Ouder-Amstel | € 7.902 | € 54.400 | € 12.156 | € 9.725 | € 4.559 | € 10.637 | € 28.871 |
+| Oudewater | € 7.184 | € 49.461 | € 11.053 | € 8.842 | € 4.145 | € 9.671 | € 26.250 |
+| Overbetuwe | € 32.323 | € 222.534 | € 49.728 | € 39.783 | € 18.648 | € 43.512 | € 118.105 |
+| Papendrecht | € 23.581 | € 162.343 | € 36.278 | € 29.022 | € 13.604 | € 31.743 | € 86.160 |
+| Peel en Maas | € 35.441 | € 244.000 | € 54.525 | € 43.620 | € 20.447 | € 47.709 | € 129.497 |
+| Pekela | € 12.564 | € 86.500 | € 19.330 | € 15.464 | € 7.249 | € 16.913 | € 45.908 |
+| Pijnacker-Nootdorp | € 30.518 | € 210.107 | € 46.951 | € 37.561 | € 17.607 | € 41.082 | € 111.509 |
+| Purmerend | € 71.914 | € 495.097 | € 110.636 | € 88.509 | € 41.489 | € 96.807 | € 262.761 |
+| Putten | € 19.492 | € 134.193 | € 29.987 | € 23.990 | € 11.245 | € 26.239 | € 71.220 |
+| Raalte | € 27.183 | € 187.144 | € 41.820 | € 33.456 | € 15.683 | € 36.592 | € 99.322 |
+| Reimerswaal | € 18.560 | € 127.780 | € 28.554 | € 22.843 | € 10.708 | € 24.985 | € 67.816 |
+| Renkum | € 20.163 | € 138.814 | € 31.020 | € 24.816 | € 11.633 | € 27.142 | € 73.672 |
+| Renswoude | € 3.562 | € 24.522 | € 5.480 | € 4.384 | € 2.055 | € 4.795 | € 13.014 |
+| Reusel-De Mierden | € 9.600 | € 66.093 | € 14.769 | € 11.816 | € 5.539 | € 12.923 | € 35.078 |
+| Rheden | € 35.325 | € 243.197 | € 54.346 | € 43.477 | € 20.380 | € 47.552 | € 129.071 |
+| Rhenen | € 14.808 | € 101.947 | € 22.781 | € 18.225 | € 8.543 | € 19.934 | € 54.106 |
+| Ridderkerk | € 40.705 | € 280.238 | € 62.623 | € 50.098 | € 23.484 | € 54.795 | € 148.730 |
+| Rijssen-Holten | € 27.625 | € 190.189 | € 42.500 | € 34.000 | € 15.938 | € 37.188 | € 100.938 |
+| Rijswijk | € 40.444 | € 278.440 | € 62.221 | € 49.777 | € 23.333 | € 54.444 | € 147.776 |
+| Roerdalen | € 16.546 | € 113.916 | € 25.456 | € 20.365 | € 9.546 | € 22.274 | € 60.458 |
+| Roermond | € 51.607 | € 355.296 | € 79.396 | € 63.517 | € 29.774 | € 69.471 | € 188.565 |
+| Roosendaal | € 63.086 | € 434.320 | € 97.055 | € 77.644 | € 36.396 | € 84.923 | € 230.505 |
+| Rotterdam | € 558.121 | € 3.842.450 | € 858.648 | € 686.918 | € 321.998 | € 751.317 | € 2.039.289 |
+| Rozendaal | € 713 | € 4.910 | € 1.097 | € 878 | € 411 | € 960 | € 2.606 |
+| Rucphen | € 22.600 | € 155.594 | € 34.770 | € 27.816 | € 13.039 | € 30.423 | € 82.578 |
+| Schagen | € 32.567 | € 224.211 | € 50.103 | € 40.082 | € 18.789 | € 43.840 | € 118.995 |
+| Scherpenzeel | € 7.372 | € 50.756 | € 11.342 | € 9.074 | € 4.253 | € 9.924 | € 26.938 |
+| Schiedam | € 69.355 | € 477.481 | € 106.700 | € 85.360 | € 40.013 | € 93.362 | € 253.412 |
+| Schiermonnikoog | € 609 | € 4.194 | € 937 | € 750 | € 351 | € 820 | € 2.226 |
+| Schouwen-Duiveland | € 26.130 | € 179.895 | € 40.200 | € 32.160 | € 15.075 | € 35.175 | € 95.475 |
+| 's-Gravenhage | € 417.997 | € 2.877.747 | € 643.072 | € 514.458 | € 241.155 | € 562.688 | € 1.527.296 |
+| 's-Hertogenbosch | € 113.021 | € 778.103 | € 173.878 | € 139.102 | € 65.205 | € 152.143 | € 412.960 |
+| Simpelveld | € 9.493 | € 65.359 | € 14.605 | € 11.684 | € 5.477 | € 12.780 | € 34.687 |
+| Sint-Michielsgestel | € 19.349 | € 133.209 | € 29.767 | € 23.814 | € 11.163 | € 26.047 | € 70.698 |
+| Sittard-Geleen | € 81.885 | € 563.745 | € 125.977 | € 100.781 | € 47.242 | € 110.230 | € 299.194 |
+| Sliedrecht | € 21.422 | € 147.483 | € 32.957 | € 26.366 | € 12.359 | € 28.837 | € 78.273 |
+| Sluis | € 18.876 | € 129.952 | € 29.040 | € 23.232 | € 10.890 | € 25.410 | € 68.969 |
+| Smallingerland | € 45.783 | € 315.198 | € 70.435 | € 56.348 | € 26.414 | € 61.631 | € 167.284 |
+| Soest | € 30.542 | € 210.267 | € 46.987 | € 37.590 | € 17.620 | € 41.114 | € 111.594 |
+| Someren | € 15.895 | € 109.429 | € 24.453 | € 19.563 | € 9.170 | € 21.397 | € 58.077 |
+| Son en Breugel | € 9.773 | € 67.280 | € 15.035 | € 12.028 | € 5.638 | € 13.155 | € 35.707 |
+| Stadskanaal | € 31.552 | € 217.224 | € 48.542 | € 38.833 | € 18.203 | € 42.474 | € 115.287 |
+| Staphorst | € 12.668 | € 87.216 | € 19.490 | € 15.592 | € 7.309 | € 17.053 | € 46.288 |
+| Stede Broec | € 18.687 | € 128.655 | € 28.750 | € 23.000 | € 10.781 | € 25.156 | € 68.280 |
+| Steenbergen | € 21.008 | € 144.630 | € 32.320 | € 25.856 | € 12.120 | € 28.280 | € 76.759 |
+| Steenwijkerland | € 34.929 | € 240.472 | € 53.737 | € 42.989 | € 20.152 | € 47.020 | € 127.625 |
+| Stein | € 21.883 | € 150.653 | € 33.665 | € 26.932 | € 12.625 | € 29.457 | € 79.955 |
+| Stichtse Vecht | € 42.314 | € 291.319 | € 65.099 | € 52.079 | € 24.413 | € 56.962 | € 154.611 |
+| Súdwest-Fryslân | € 68.997 | € 475.017 | € 106.149 | € 84.919 | € 39.806 | € 92.880 | € 252.104 |
+| Terneuzen | € 47.551 | € 327.370 | € 73.155 | € 58.524 | € 27.434 | € 64.011 | € 173.744 |
+| Terschelling | € 3.241 | € 22.312 | € 4.986 | € 3.989 | € 1.870 | € 4.363 | € 11.842 |
+| Texel | € 10.205 | € 70.258 | € 15.700 | € 12.560 | € 5.888 | € 13.738 | € 37.288 |
+| Teylingen | € 21.812 | € 150.170 | € 33.558 | € 26.846 | € 12.584 | € 29.363 | € 79.699 |
+| Tholen | € 21.647 | € 149.032 | € 33.303 | € 26.643 | € 12.489 | € 29.140 | € 79.095 |
+| Tiel | € 35.934 | € 247.391 | € 55.283 | € 44.226 | € 20.731 | € 48.373 | € 131.297 |
+| Tilburg | € 175.767 | € 1.210.089 | € 270.411 | € 216.329 | € 101.406 | € 236.610 | € 642.226 |
+| Tubbergen | € 14.243 | € 98.055 | € 21.912 | € 17.529 | € 8.217 | € 19.173 | € 52.041 |
+| Twenterand | € 28.754 | € 197.960 | € 44.237 | € 35.390 | € 16.589 | € 38.707 | € 105.063 |
+| Tynaarlo | € 19.158 | € 131.899 | € 29.475 | € 23.580 | € 11.053 | € 25.790 | € 70.002 |
+| Tytsjerksteradiel | € 24.491 | € 168.611 | € 37.678 | € 30.143 | € 14.130 | € 32.969 | € 89.486 |
+| Uitgeest | € 7.183 | € 49.454 | € 11.051 | € 8.841 | € 4.144 | € 9.670 | € 26.246 |
+| Uithoorn | € 20.190 | € 139.000 | € 31.062 | € 24.849 | € 11.648 | € 27.179 | € 73.771 |
+| Urk | € 15.046 | € 103.588 | € 23.148 | € 18.519 | € 8.681 | € 20.255 | € 54.977 |
+| Utrecht | € 207.614 | € 1.429.340 | € 319.406 | € 255.524 | € 119.779 | € 279.480 | € 758.588 |
+| Utrechtse Heuvelrug | € 28.140 | € 193.733 | € 43.292 | € 34.634 | € 16.235 | € 37.881 | € 102.819 |
+| Vaals | € 9.536 | € 65.650 | € 14.670 | € 11.736 | € 5.501 | € 12.837 | € 34.842 |
+| Valkenburg aan de Geul | € 13.422 | € 92.407 | € 20.650 | € 16.520 | € 7.744 | € 18.068 | € 49.043 |
+| Valkenswaard | € 25.532 | € 175.779 | € 39.280 | € 31.424 | € 14.730 | € 34.370 | € 93.290 |
+| Veendam | € 25.176 | € 173.327 | € 38.732 | € 30.986 | € 14.525 | € 33.891 | € 91.989 |
+| Veenendaal | € 48.997 | € 337.327 | € 75.380 | € 60.304 | € 28.268 | € 65.958 | € 179.029 |
+| Veere | € 13.699 | € 94.309 | € 21.075 | € 16.860 | € 7.903 | € 18.440 | € 50.052 |
+| Veldhoven | € 30.143 | € 207.520 | € 46.373 | € 37.099 | € 17.390 | € 40.577 | € 110.136 |
+| Velsen | € 51.174 | € 352.311 | € 78.729 | € 62.983 | € 29.524 | € 68.888 | € 186.981 |
+| Venlo | € 94.554 | € 650.965 | € 145.467 | € 116.374 | € 54.551 | € 127.284 | € 345.484 |
+| Venray | € 35.467 | € 244.180 | € 54.565 | € 43.652 | € 20.462 | € 47.745 | € 129.593 |
+| Vijfheerenlanden | € 45.303 | € 311.892 | € 69.697 | € 55.757 | € 26.137 | € 60.984 | € 165.529 |
+| Vlaardingen | € 66.004 | € 454.409 | € 101.544 | € 81.235 | € 38.080 | € 88.851 | € 241.167 |
+| Vlieland | € 863 | € 5.942 | € 1.328 | € 1.062 | € 498 | € 1.162 | € 3.154 |
+| Vlissingen | € 36.230 | € 249.430 | € 55.739 | € 44.591 | € 20.902 | € 48.771 | € 132.379 |
+| Voerendaal | € 9.164 | € 63.088 | € 14.098 | € 11.278 | € 5.287 | € 12.336 | € 33.482 |
+| Voorne aan Zee | € 52.459 | € 361.160 | € 80.706 | € 64.565 | € 30.265 | € 70.618 | € 191.677 |
+| Voorschoten | € 13.601 | € 93.639 | € 20.925 | € 16.740 | € 7.847 | € 18.309 | € 49.697 |
+| Voorst | € 17.341 | € 119.386 | € 26.678 | € 21.343 | € 10.005 | € 23.344 | € 63.361 |
+| Vught | € 19.629 | € 135.138 | € 30.198 | € 24.159 | € 11.325 | € 26.424 | € 71.721 |
+| Waadhoeke | € 37.787 | € 260.146 | € 58.133 | € 46.507 | € 21.800 | € 50.867 | € 138.066 |
+| Waalre | € 9.120 | € 62.784 | € 14.030 | € 11.224 | € 5.261 | € 12.276 | € 33.321 |
+| Waalwijk | € 42.105 | € 289.878 | € 64.777 | € 51.822 | € 24.292 | € 56.680 | € 153.846 |
+| Waddinxveen | € 21.266 | € 146.408 | € 32.717 | € 26.173 | € 12.269 | € 28.627 | € 77.702 |
+| Wageningen | € 22.314 | € 153.623 | € 34.329 | € 27.463 | € 12.874 | € 30.038 | € 81.532 |
+| Wassenaar | € 15.068 | € 103.735 | € 23.181 | € 18.545 | € 8.693 | € 20.283 | € 55.055 |
+| Waterland | € 10.761 | € 74.086 | € 16.555 | € 13.244 | € 6.208 | € 14.486 | € 39.319 |
+| Weert | € 41.518 | € 285.835 | € 63.874 | € 51.099 | € 23.953 | € 55.889 | € 151.700 |
+| West Betuwe | € 38.139 | € 262.570 | € 58.675 | € 46.940 | € 22.003 | € 51.341 | € 139.353 |
+| West Maas en Waal | € 15.075 | € 103.787 | € 23.193 | € 18.554 | € 8.697 | € 20.294 | € 55.083 |
+| Westerkwartier | € 44.577 | € 306.894 | € 68.580 | € 54.864 | € 25.718 | € 60.007 | € 162.877 |
+| Westerveld | € 14.255 | € 98.140 | € 21.931 | € 17.545 | € 8.224 | € 19.189 | € 52.085 |
+| Westervoort | € 11.691 | € 80.490 | € 17.987 | € 14.389 | € 6.745 | € 15.738 | € 42.718 |
+| Westerwolde | € 23.696 | € 163.136 | € 36.455 | € 29.164 | € 13.671 | € 31.898 | € 86.580 |
+| Westland | € 84.444 | € 581.367 | € 129.914 | € 103.931 | € 48.719 | € 113.675 | € 308.547 |
+| Weststellingwerf | € 22.528 | € 155.095 | € 34.658 | € 27.727 | € 12.997 | € 30.326 | € 82.313 |
+| Wierden | € 16.115 | € 110.943 | € 24.792 | € 19.833 | € 9.297 | € 21.693 | € 58.880 |
+| Wijchen | € 29.787 | € 205.070 | € 45.826 | € 36.661 | € 17.185 | € 40.098 | € 108.836 |
+| Wijdemeren | € 15.651 | € 107.748 | € 24.078 | € 19.262 | € 9.029 | € 21.068 | € 57.185 |
+| Wijk bij Duurstede | € 14.908 | € 102.633 | € 22.935 | € 18.348 | € 8.601 | € 20.068 | € 54.470 |
+| Winterswijk | € 24.034 | € 165.464 | € 36.975 | € 29.580 | € 13.866 | € 32.353 | € 87.816 |
+| Woensdrecht | € 17.415 | € 119.896 | € 26.792 | € 21.434 | € 10.047 | € 23.443 | € 63.632 |
+| Woerden | € 33.284 | € 229.148 | € 51.206 | € 40.965 | € 19.203 | € 44.805 | € 121.615 |
+| Wormerland | € 11.810 | € 81.308 | € 18.169 | € 14.536 | € 6.814 | € 15.898 | € 43.152 |
+| Woudenberg | € 8.786 | € 60.488 | € 13.517 | € 10.813 | € 5.069 | € 11.827 | € 32.102 |
+| Zaanstad | € 122.473 | € 843.178 | € 188.420 | € 150.736 | € 70.658 | € 164.867 | € 447.496 |
+| Zaltbommel | € 22.304 | € 153.551 | € 34.313 | € 27.451 | € 12.868 | € 30.024 | € 81.494 |
+| Zandvoort | € 13.350 | € 91.912 | € 20.539 | € 16.431 | € 7.702 | € 17.972 | € 48.780 |
+| Zeewolde | € 13.889 | € 95.620 | € 21.368 | € 17.094 | € 8.013 | € 18.697 | € 50.748 |
+| Zeist | € 40.395 | € 278.105 | € 62.146 | € 49.717 | € 23.305 | € 54.378 | € 147.597 |
+| Zevenaar | € 38.492 | € 265.003 | € 59.218 | € 47.375 | € 22.207 | € 51.816 | € 140.644 |
+| Zoetermeer | € 86.752 | € 597.253 | € 133.464 | € 106.771 | € 50.050 | € 116.781 | € 316.978 |
+| Zoeterwoude | € 5.427 | € 37.363 | € 8.349 | € 6.679 | € 3.131 | € 7.306 | € 19.829 |
+| Zuidplas | € 29.843 | € 205.457 | € 45.912 | € 36.730 | € 17.217 | € 40.173 | € 109.041 |
+| Zundert | € 17.522 | € 120.630 | € 26.956 | € 21.565 | € 10.109 | € 23.587 | € 64.022 |
+| Zutphen | € 36.854 | € 253.728 | € 56.699 | € 45.359 | € 21.262 | € 49.612 | € 134.660 |
+| Zwartewaterland | € 18.158 | € 125.010 | € 27.935 | € 22.348 | € 10.476 | € 24.443 | € 66.346 |
+| Zwijndrecht | € 38.064 | € 262.053 | € 58.559 | € 46.847 | € 21.960 | € 51.239 | € 139.078 |
+| Zwolle | € 85.143 | € 586.178 | € 130.990 | € 104.792 | € 49.122 | € 114.616 | € 311.100 |
 
-| 2025 | Leefomgeving | Opgroeien in een Kansrijke Omgeving en Vroegsignalering Alcoholproblematiek | Versterken sociale basis | Mantelzorg | Eén tegen Eenzaamheid | Welzijn op recept | Versterking kennis- en adviesfunctie GGD | Coördinatie-kosten regionale aanpak preventie |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aa en Hunze | € 12.913 | € 3.228 | € 46.488 | € 12.913 | € 10.331 | € 14.850 | € 3.228 | € 9.427 |
-| Aalsmeer | € 16.965 | € 4.241 | € 61.074 | € 16.965 | € 13.572 | € 19.510 | € 4.241 | € 12.384 |
-| Aalten | € 16.926 | € 4.232 | € 60.934 | € 16.926 | € 13.541 | € 19.465 | € 4.232 | € 12.356 |
-| Achtkarspelen | € 19.331 | € 4.833 | € 69.591 | € 19.331 | € 15.465 | € 22.230 | € 4.833 | € 14.111 |
-| Alblasserdam | € 12.612 | € 3.153 | € 45.403 | € 12.612 | € 10.090 | € 14.504 | € 3.153 | € 9.207 |
-| Albrandswaard | € 11.834 | € 2.958 | € 42.601 | € 11.834 | € 9.467 | € 13.609 | € 2.958 | € 8.638 |
-| Alkmaar | € 61.862 | € 15.466 | € 222.705 | € 61.862 | € 49.490 | € 71.142 | € 15.466 | € 45.160 |
-| Almelo | € 49.654 | € 12.413 | € 178.753 | € 49.654 | € 39.723 | € 57.102 | € 12.413 | € 36.247 |
-| Almere | € 111.928 | € 27.982 | € 402.941 | € 111.928 | € 89.543 | € 128.717 | € 27.982 | € 81.708 |
-| Alphen aan den Rijn | € 60.402 | € 15.101 | € 217.447 | € 60.402 | € 48.322 | € 69.462 | € 15.101 | € 44.094 |
-| Alphen-Chaam | € 5.333 | € 1.333 | € 19.199 | € 5.333 | € 4.267 | € 6.133 | € 1.333 | € 3.893 |
-| Altena | € 35.764 | € 8.941 | € 128.750 | € 35.764 | € 28.611 | € 41.128 | € 8.941 | € 26.108 |
-| Ameland | € 745 | € 10.715 | € 2.976 | € 2.381 | € 3.423 | € 745 | € 2.172 | € 745 |
-| Amersfoort | € 74.575 | € 18.644 | € 268.469 | € 74.575 | € 59.660 | € 85.761 | € 18.644 | € 54.439 |
-| Amstelveen | € 41.827 | € 10.457 | € 150.577 | € 41.827 | € 33.462 | € 48.101 | € 10.457 | € 30.534 |
-| Amsterdam | € 486.108 | € 121.527 | € 1.749.990 | € 486.108 | € 388.887 | € 559.024 | € 121.527 | € 354.859 |
-| Apeldoorn | € 94.130 | € 23.533 | € 338.869 | € 94.130 | € 75.304 | € 108.250 | € 23.533 | € 68.715 |
-| Arnhem | € 97.491 | € 24.373 | € 350.967 | € 97.491 | € 77.993 | € 112.114 | € 24.373 | € 71.168 |
-| Assen | € 36.360 | € 9.090 | € 130.895 | € 36.360 | € 29.088 | € 41.814 | € 9.090 | € 26.543 |
-| Asten | € 10.194 | € 2.548 | € 36.698 | € 10.194 | € 8.155 | € 11.723 | € 2.548 | € 7.442 |
-| Baarle-Nassau | € 4.347 | € 1.087 | € 15.650 | € 4.347 | € 3.478 | € 4.999 | € 1.087 | € 3.174 |
-| Baarn | € 12.461 | € 3.115 | € 44.858 | € 12.461 | € 9.968 | € 14.330 | € 3.115 | € 9.096 |
-| Barendrecht | € 22.916 | € 5.729 | € 82.496 | € 22.916 | € 18.332 | € 26.353 | € 5.729 | € 16.728 |
-| Barneveld | € 31.912 | € 7.978 | € 114.883 | € 31.912 | € 25.530 | € 36.699 | € 7.978 | € 23.296 |
-| Beek | € 9.538 | € 2.384 | € 34.335 | € 9.538 | € 7.630 | € 10.968 | € 2.384 | € 6.962 |
-| Beekdaelen | € 21.608 | € 5.402 | € 77.790 | € 21.608 | € 17.287 | € 24.850 | € 5.402 | € 15.774 |
-| Beesel | € 8.936 | € 2.234 | € 32.168 | € 8.936 | € 7.148 | € 10.276 | € 2.234 | € 6.523 |
-| Berg en Dal | € 22.177 | € 5.544 | € 79.835 | € 22.177 | € 17.741 | € 25.503 | € 5.544 | € 16.189 |
-| Bergeijk | € 10.031 | € 2.508 | € 36.112 | € 10.031 | € 8.025 | € 11.536 | € 2.508 | € 7.323 |
-| Bergen (L.) | € 8.644 | € 2.161 | € 31.118 | € 8.644 | € 6.915 | € 9.941 | € 2.161 | € 6.310 |
-| Bergen (NH.) | € 13.980 | € 3.495 | € 50.328 | € 13.980 | € 11.184 | € 16.077 | € 3.495 | € 10.205 |
-| Bergen op Zoom | € 42.027 | € 10.507 | € 151.297 | € 42.027 | € 33.621 | € 48.331 | € 10.507 | € 30.680 |
-| Berkelland | € 25.985 | € 6.496 | € 93.547 | € 25.985 | € 20.788 | € 29.883 | € 6.496 | € 18.969 |
-| Bernheze | € 18.113 | € 4.528 | € 65.207 | € 18.113 | € 14.490 | € 20.830 | € 4.528 | € 13.223 |
-| Best | € 14.929 | € 3.732 | € 53.745 | € 14.929 | € 11.943 | € 17.169 | € 3.732 | € 10.898 |
-| Beuningen | € 14.029 | € 3.507 | € 50.504 | € 14.029 | € 11.223 | € 16.133 | € 3.507 | € 10.241 |
-| Beverwijk | € 25.493 | € 6.373 | € 91.776 | € 25.493 | € 20.395 | € 29.317 | € 6.373 | € 18.610 |
-| Bladel | € 11.436 | € 2.859 | € 41.169 | € 11.436 | € 9.149 | € 13.151 | € 2.859 | € 8.348 |
-| Blaricum | € 4.808 | € 1.202 | € 17.308 | € 4.808 | € 3.846 | € 5.529 | € 1.202 | € 3.510 |
-| Bloemendaal | € 8.120 | € 2.030 | € 29.232 | € 8.120 | € 6.496 | € 9.338 | € 2.030 | € 5.928 |
-| Bodegraven-Reeuwijk | € 18.220 | € 4.555 | € 65.592 | € 18.220 | € 14.576 | € 20.953 | € 4.555 | € 13.301 |
-| Boekel | € 6.121 | € 1.530 | € 22.036 | € 6.121 | € 4.897 | € 7.039 | € 1.530 | € 4.468 |
-| Borger-Odoorn | € 15.699 | € 3.925 | € 56.517 | € 15.699 | € 12.559 | € 18.054 | € 3.925 | € 11.460 |
-| Borne | € 11.775 | € 2.944 | € 42.388 | € 11.775 | € 9.420 | € 13.541 | € 2.944 | € 8.595 |
-| Borsele | € 12.621 | € 3.155 | € 45.435 | € 12.621 | € 10.097 | € 14.514 | € 3.155 | € 9.213 |
-| Boxtel | € 19.963 | € 4.991 | € 71.866 | € 19.963 | € 15.970 | € 22.957 | € 4.991 | € 14.573 |
-| Breda | € 95.430 | € 23.857 | € 343.547 | € 95.430 | € 76.344 | € 109.744 | € 23.857 | € 69.664 |
-| Bronckhorst | € 20.535 | € 5.134 | € 73.925 | € 20.535 | € 16.428 | € 23.615 | € 5.134 | € 14.990 |
-| Brummen | € 12.332 | € 3.083 | € 44.394 | € 12.332 | € 9.865 | € 14.181 | € 3.083 | € 9.002 |
-| Brunssum | € 21.305 | € 5.326 | € 76.696 | € 21.305 | € 17.044 | € 24.500 | € 5.326 | € 15.552 |
-| Bunnik | € 5.987 | € 1.497 | € 21.555 | € 5.987 | € 4.790 | € 6.886 | € 1.497 | € 4.371 |
-| Bunschoten | € 13.202 | € 3.300 | € 47.526 | € 13.202 | € 10.561 | € 15.182 | € 3.300 | € 9.637 |
-| Buren | € 16.640 | € 4.160 | € 59.906 | € 16.640 | € 13.312 | € 19.137 | € 4.160 | € 12.148 |
-| Capelle aan den IJssel | € 40.059 | € 10.015 | € 144.211 | € 40.059 | € 32.047 | € 46.067 | € 10.015 | € 29.243 |
-| Castricum | € 15.464 | € 3.866 | € 55.672 | € 15.464 | € 12.372 | € 17.784 | € 3.866 | € 11.289 |
-| Coevorden | € 22.263 | € 5.566 | € 80.147 | € 22.263 | € 17.810 | € 25.603 | € 5.566 | € 16.252 |
-| Cranendonck | € 12.821 | € 3.205 | € 46.157 | € 12.821 | € 10.257 | € 14.745 | € 3.205 | € 9.360 |
-| Culemborg | € 15.889 | € 3.972 | € 57.201 | € 15.889 | € 12.711 | € 18.272 | € 3.972 | € 11.599 |
-| Dalfsen | € 15.782 | € 3.945 | € 56.814 | € 15.782 | € 12.625 | € 18.149 | € 3.945 | € 11.521 |
-| Dantumadiel | € 13.248 | € 3.312 | € 47.694 | € 13.248 | € 10.599 | € 15.236 | € 3.312 | € 9.671 |
-| De Bilt | € 18.839 | € 4.710 | € 67.820 | € 18.839 | € 15.071 | € 21.665 | € 4.710 | € 13.752 |
-| De Fryske Marren | € 30.163 | € 7.541 | € 108.588 | € 30.163 | € 24.131 | € 34.688 | € 7.541 | € 22.019 |
-| De Ronde Venen | € 22.374 | € 5.593 | € 80.546 | € 22.374 | € 17.899 | € 25.730 | € 5.593 | € 16.333 |
-| De Wolden | € 13.257 | € 3.314 | € 47.725 | € 13.257 | € 10.606 | € 15.246 | € 3.314 | € 9.678 |
-| Delft | € 51.944 | € 12.986 | € 186.998 | € 51.944 | € 41.555 | € 59.735 | € 12.986 | € 37.919 |
-| Den Helder | € 38.575 | € 9.644 | € 138.872 | € 38.575 | € 30.860 | € 44.362 | € 9.644 | € 28.160 |
-| Deurne | € 20.218 | € 5.055 | € 72.785 | € 20.218 | € 16.174 | € 23.251 | € 5.055 | € 14.759 |
-| Deventer | € 56.447 | € 14.112 | € 203.211 | € 56.447 | € 45.158 | € 64.915 | € 14.112 | € 41.207 |
-| Diemen | € 13.149 | € 3.287 | € 47.335 | € 13.149 | € 10.519 | € 15.121 | € 3.287 | € 9.598 |
-| Dijk en Waard | € 45.205 | € 11.301 | € 162.737 | € 45.205 | € 36.164 | € 51.985 | € 11.301 | € 32.999 |
-| Dinkelland | € 13.147 | € 3.287 | € 47.330 | € 13.147 | € 10.518 | € 15.119 | € 3.287 | € 9.597 |
-| Doesburg | € 7.421 | € 1.855 | € 26.716 | € 7.421 | € 5.937 | € 8.534 | € 1.855 | € 5.417 |
-| Doetinchem | € 33.881 | € 8.470 | € 121.971 | € 33.881 | € 27.105 | € 38.963 | € 8.470 | € 24.733 |
-| Dongen | € 15.248 | € 3.812 | € 54.892 | € 15.248 | € 12.198 | € 17.535 | € 3.812 | € 11.131 |
-| Dordrecht | € 74.594 | € 18.649 | € 268.539 | € 74.594 | € 59.675 | € 85.783 | € 18.649 | € 54.454 |
-| Drechterland | € 11.262 | € 2.815 | € 40.542 | € 11.262 | € 9.009 | € 12.951 | € 2.815 | € 8.221 |
-| Drimmelen | € 16.544 | € 4.136 | € 59.558 | € 16.544 | € 13.235 | € 19.026 | € 4.136 | € 12.077 |
-| Dronten | € 21.941 | € 5.485 | € 78.987 | € 21.941 | € 17.553 | € 25.232 | € 5.485 | € 16.017 |
-| Druten | € 11.059 | € 2.765 | € 39.812 | € 11.059 | € 8.847 | € 12.718 | € 2.765 | € 8.073 |
-| Duiven | € 13.563 | € 3.391 | € 48.829 | € 13.563 | € 10.851 | € 15.598 | € 3.391 | € 9.901 |
-| Echt-Susteren | € 21.863 | € 5.466 | € 78.705 | € 21.863 | € 17.490 | € 25.142 | € 5.466 | € 15.960 |
-| Edam-Volendam | € 21.538 | € 5.384 | € 77.536 | € 21.538 | € 17.230 | € 24.768 | € 5.384 | € 15.722 |
-| Ede | € 61.740 | € 15.435 | € 222.262 | € 61.740 | € 49.392 | € 71.000 | € 15.435 | € 45.070 |
-| Eemnes | € 3.954 | € 988 | € 14.234 | € 3.954 | € 3.163 | € 4.547 | € 988 | € 2.886 |
-| Eemsdelta | € 31.422 | € 7.855 | € 113.118 | € 31.422 | € 25.137 | € 36.135 | € 7.855 | € 22.938 |
-| Eersel | € 9.651 | € 2.413 | € 34.743 | € 9.651 | € 7.721 | € 11.099 | € 2.413 | € 7.045 |
-| Eijsden-Margraten | € 12.935 | € 3.234 | € 46.566 | € 12.935 | € 10.348 | € 14.875 | € 3.234 | € 9.443 |
-| Eindhoven | € 135.371 | € 33.843 | € 487.334 | € 135.371 | € 108.297 | € 155.676 | € 33.843 | € 98.821 |
-| Elburg | € 14.279 | € 3.570 | € 51.405 | € 14.279 | € 11.423 | € 16.421 | € 3.570 | € 10.424 |
-| Emmen | € 76.862 | € 19.215 | € 276.702 | € 76.862 | € 61.489 | € 88.391 | € 19.215 | € 56.109 |
-| Enkhuizen | € 11.618 | € 2.905 | € 41.826 | € 11.618 | € 9.295 | € 13.361 | € 2.905 | € 8.481 |
-| Enschede | € 100.724 | € 25.181 | € 362.608 | € 100.724 | € 80.580 | € 115.833 | € 25.181 | € 73.529 |
-| Epe | € 20.587 | € 5.147 | € 74.113 | € 20.587 | € 16.469 | € 23.675 | € 5.147 | € 15.028 |
-| Ermelo | € 14.056 | € 3.514 | € 50.602 | € 14.056 | € 11.245 | € 16.164 | € 3.514 | € 10.261 |
-| Etten-Leur | € 25.190 | € 6.298 | € 90.685 | € 25.190 | € 20.152 | € 28.969 | € 6.298 | € 18.389 |
-| Geertruidenberg | € 13.633 | € 3.408 | € 49.079 | € 13.633 | € 10.906 | € 15.678 | € 3.408 | € 9.952 |
-| Geldrop-Mierlo | € 22.969 | € 5.742 | € 82.689 | € 22.969 | € 18.375 | € 26.415 | € 5.742 | € 16.768 |
-| Gemert-Bakel | € 18.892 | € 4.723 | € 68.010 | € 18.892 | € 15.113 | € 21.725 | € 4.723 | € 13.791 |
-| Gennep | € 9.944 | € 2.486 | € 35.797 | € 9.944 | € 7.955 | € 11.435 | € 2.486 | € 7.259 |
-| Gilze en Rijen | € 15.027 | € 3.757 | € 54.099 | € 15.027 | € 12.022 | € 17.282 | € 3.757 | € 10.970 |
-| Goeree-Overflakkee | € 31.122 | € 7.781 | € 112.041 | € 31.122 | € 24.898 | € 35.791 | € 7.781 | € 22.719 |
-| Goes | € 23.446 | € 5.862 | € 84.407 | € 23.446 | € 18.757 | € 26.963 | € 5.862 | € 17.116 |
-| Goirle | € 12.161 | € 3.040 | € 43.778 | € 12.161 | € 9.729 | € 13.985 | € 3.040 | € 8.877 |
-| Gooise Meren | € 24.678 | € 6.170 | € 88.842 | € 24.678 | € 19.743 | € 28.380 | € 6.170 | € 18.015 |
-| Gorinchem | € 23.577 | € 5.894 | € 84.876 | € 23.577 | € 18.861 | € 27.113 | € 5.894 | € 17.211 |
-| Gouda | € 41.698 | € 10.424 | € 150.112 | € 41.698 | € 33.358 | € 47.953 | € 10.424 | € 30.439 |
-| Groningen | € 111.979 | € 27.995 | € 403.123 | € 111.979 | € 89.583 | € 128.776 | € 27.995 | € 81.744 |
-| Gulpen-Wittem | € 8.862 | € 2.216 | € 31.904 | € 8.862 | € 7.090 | € 10.192 | € 2.216 | € 6.469 |
-| Haaksbergen | € 13.281 | € 3.320 | € 47.811 | € 13.281 | € 10.625 | € 15.273 | € 3.320 | € 9.695 |
-| Haarlem | € 83.796 | € 20.949 | € 301.667 | € 83.796 | € 67.037 | € 96.366 | € 20.949 | € 61.171 |
-| Haarlemmermeer | € 78.012 | € 19.503 | € 280.844 | € 78.012 | € 62.410 | € 89.714 | € 19.503 | € 56.949 |
-| Halderberge | € 19.543 | € 4.886 | € 70.355 | € 19.543 | € 15.634 | € 22.474 | € 4.886 | € 14.266 |
-| Hardenberg | € 36.528 | € 9.132 | € 131.501 | € 36.528 | € 29.222 | € 42.007 | € 9.132 | € 26.665 |
-| Harderwijk | € 27.403 | € 6.851 | € 98.651 | € 27.403 | € 21.922 | € 31.514 | € 6.851 | € 20.004 |
-| Hardinxveld-Giessendam | € 10.488 | € 2.622 | € 37.757 | € 10.488 | € 8.391 | € 12.061 | € 2.622 | € 7.656 |
-| Harlingen | € 10.710 | € 2.678 | € 38.557 | € 10.710 | € 8.568 | € 12.317 | € 2.678 | € 7.819 |
-| Hattem | € 6.434 | € 1.609 | € 23.163 | € 6.434 | € 5.147 | € 7.399 | € 1.609 | € 4.697 |
-| Heemskerk | € 22.409 | € 5.602 | € 80.673 | € 22.409 | € 17.927 | € 25.770 | € 5.602 | € 16.359 |
-| Heemstede | € 10.526 | € 2.631 | € 37.892 | € 10.526 | € 8.421 | € 12.105 | € 2.631 | € 7.684 |
-| Heerde | € 11.326 | € 2.831 | € 40.773 | € 11.326 | € 9.061 | € 13.025 | € 2.831 | € 8.268 |
-| Heerenveen | € 30.379 | € 7.595 | € 109.364 | € 30.379 | € 24.303 | € 34.936 | € 7.595 | € 22.177 |
-| Heerlen | € 69.902 | € 17.475 | € 251.646 | € 69.902 | € 55.921 | € 80.387 | € 17.475 | € 51.028 |
-| Heeze-Leende | € 7.200 | € 1.800 | € 25.919 | € 7.200 | € 5.760 | € 8.280 | € 1.800 | € 5.256 |
-| Heiloo | € 10.385 | € 2.596 | € 37.386 | € 10.385 | € 8.308 | € 11.943 | € 2.596 | € 7.581 |
-| Hellendoorn | € 20.684 | € 5.171 | € 74.461 | € 20.684 | € 16.547 | € 23.786 | € 5.171 | € 15.099 |
-| Helmond | € 61.782 | € 15.446 | € 222.416 | € 61.782 | € 49.426 | € 71.049 | € 15.446 | € 45.101 |
-| Hendrik-Ido-Ambacht | € 15.095 | € 3.774 | € 54.340 | € 15.095 | € 12.076 | € 17.359 | € 3.774 | € 11.019 |
-| Hengelo | € 45.083 | € 11.271 | € 162.298 | € 45.083 | € 36.066 | € 51.845 | € 11.271 | € 32.910 |
-| Het Hogeland | € 30.005 | € 7.501 | € 108.016 | € 30.005 | € 24.004 | € 34.505 | € 7.501 | € 21.903 |
-| Heumen | € 7.697 | € 1.924 | € 27.708 | € 7.697 | € 6.157 | € 8.851 | € 1.924 | € 5.619 |
-| Heusden | € 26.638 | € 6.659 | € 95.896 | € 26.638 | € 21.310 | € 30.633 | € 6.659 | € 19.445 |
-| Hillegom | € 12.912 | € 3.228 | € 46.485 | € 12.912 | € 10.330 | € 14.849 | € 3.228 | € 9.426 |
-| Hilvarenbeek | € 7.690 | € 1.922 | € 27.683 | € 7.690 | € 6.152 | € 8.843 | € 1.922 | € 5.614 |
-| Hilversum | € 49.700 | € 12.425 | € 178.921 | € 49.700 | € 39.760 | € 57.155 | € 12.425 | € 36.281 |
-| Hoeksche Waard | € 48.228 | € 12.057 | € 173.622 | € 48.228 | € 38.583 | € 55.463 | € 12.057 | € 35.207 |
-| Hof van Twente | € 19.634 | € 4.908 | € 70.681 | € 19.634 | € 15.707 | € 22.579 | € 4.908 | € 14.332 |
-| Hollands Kroon | € 28.798 | € 7.200 | € 103.673 | € 28.798 | € 23.038 | € 33.118 | € 7.200 | € 21.023 |
-| Hoogeveen | € 38.625 | € 9.656 | € 139.048 | € 38.625 | € 30.900 | € 44.418 | € 9.656 | € 28.196 |
-| Hoorn | € 42.731 | € 10.683 | € 153.832 | € 42.731 | € 34.185 | € 49.141 | € 10.683 | € 31.194 |
-| Horst aan de Maas | € 24.183 | € 6.046 | € 87.058 | € 24.183 | € 19.346 | € 27.810 | € 6.046 | € 17.653 |
-| Houten | € 20.573 | € 5.143 | € 74.062 | € 20.573 | € 16.458 | € 23.659 | € 5.143 | € 15.018 |
-| Huizen | € 22.035 | € 5.509 | € 79.324 | € 22.035 | € 17.628 | € 25.340 | € 5.509 | € 16.085 |
-| Hulst | € 18.167 | € 4.542 | € 65.401 | € 18.167 | € 14.534 | € 20.892 | € 4.542 | € 13.262 |
-| IJsselstein | € 17.253 | € 4.313 | € 62.111 | € 17.253 | € 13.803 | € 19.841 | € 4.313 | € 12.595 |
-| Kaag en Braassem | € 15.563 | € 3.891 | € 56.027 | € 15.563 | € 12.450 | € 17.898 | € 3.891 | € 11.361 |
-| Kampen | € 32.326 | € 8.082 | € 116.375 | € 32.326 | € 25.861 | € 37.175 | € 8.082 | € 23.598 |
-| Kapelle | € 7.261 | € 1.815 | € 26.140 | € 7.261 | € 5.809 | € 8.350 | € 1.815 | € 5.301 |
-| Katwijk | € 39.295 | € 9.824 | € 141.460 | € 39.295 | € 31.436 | € 45.189 | € 9.824 | € 28.685 |
-| Kerkrade | € 38.360 | € 9.590 | € 138.096 | € 38.360 | € 30.688 | € 44.114 | € 9.590 | € 28.003 |
-| Koggenland | € 11.589 | € 2.897 | € 41.720 | € 11.589 | € 9.271 | € 13.327 | € 2.897 | € 8.460 |
-| Krimpen aan den IJssel | € 17.522 | € 4.380 | € 63.077 | € 17.522 | € 14.017 | € 20.150 | € 4.380 | € 12.791 |
-| Krimpenerwaard | € 32.768 | € 8.192 | € 117.965 | € 32.768 | € 26.214 | € 37.683 | € 8.192 | € 23.921 |
-| Laarbeek | € 13.778 | € 3.445 | € 49.602 | € 13.778 | € 11.023 | € 15.845 | € 3.445 | € 10.058 |
-| Land van Cuijk | € 51.920 | € 12.980 | € 186.914 | € 51.920 | € 41.536 | € 59.709 | € 12.980 | € 37.902 |
-| Landgraaf | € 27.158 | € 6.790 | € 97.769 | € 27.158 | € 21.726 | € 31.232 | € 6.790 | € 19.825 |
-| Landsmeer | € 5.434 | € 1.358 | € 19.562 | € 5.434 | € 4.347 | € 6.249 | € 1.358 | € 3.967 |
-| Lansingerland | € 26.978 | € 6.744 | € 97.119 | € 26.978 | € 21.582 | € 31.024 | € 6.744 | € 19.694 |
-| Laren | € 4.962 | € 1.241 | € 17.865 | € 4.962 | € 3.970 | € 5.707 | € 1.241 | € 3.623 |
-| Leeuwarden | € 70.388 | € 17.597 | € 253.398 | € 70.388 | € 56.311 | € 80.947 | € 17.597 | € 51.384 |
-| Leiden | € 60.791 | € 15.198 | € 218.848 | € 60.791 | € 48.633 | € 69.910 | € 15.198 | € 44.377 |
-| Leiderdorp | € 12.741 | € 3.185 | € 45.868 | € 12.741 | € 10.193 | € 14.652 | € 3.185 | € 9.301 |
-| Leidschendam-Voorburg | € 38.436 | € 9.609 | € 138.370 | € 38.436 | € 30.749 | € 44.202 | € 9.609 | € 28.058 |
-| Lelystad | € 47.816 | € 11.954 | € 172.136 | € 47.816 | € 38.252 | € 54.988 | € 11.954 | € 34.905 |
-| Leudal | € 20.651 | € 5.163 | € 74.344 | € 20.651 | € 16.521 | € 23.749 | € 5.163 | € 15.075 |
-| Leusden | € 12.682 | € 3.170 | € 45.654 | € 12.682 | € 10.145 | € 14.584 | € 3.170 | € 9.258 |
-| Lingewaard | € 26.483 | € 6.621 | € 95.339 | € 26.483 | € 21.186 | € 30.455 | € 6.621 | € 19.333 |
-| Lisse | € 13.252 | € 3.313 | € 47.706 | € 13.252 | € 10.601 | € 15.240 | € 3.313 | € 9.674 |
-| Lochem | € 17.159 | € 4.290 | € 61.774 | € 17.159 | € 13.727 | € 19.733 | € 4.290 | € 12.526 |
-| Loon op Zand | € 14.337 | € 3.584 | € 51.612 | € 14.337 | € 11.469 | € 16.487 | € 3.584 | € 10.466 |
-| Lopik | € 8.378 | € 2.095 | € 30.161 | € 8.378 | € 6.702 | € 9.635 | € 2.095 | € 6.116 |
-| Losser | € 13.714 | € 3.428 | € 49.370 | € 13.714 | € 10.971 | € 15.771 | € 3.428 | € 10.011 |
-| Maasdriel | € 15.937 | € 3.984 | € 57.375 | € 15.937 | € 12.750 | € 18.328 | € 3.984 | € 11.634 |
-| Maasgouw | € 15.170 | € 3.792 | € 54.610 | € 15.170 | € 12.136 | € 17.445 | € 3.792 | € 11.074 |
-| Maashorst | € 34.113 | € 8.528 | € 122.806 | € 34.113 | € 27.290 | € 39.230 | € 8.528 | € 24.902 |
-| Maassluis | € 21.867 | € 5.467 | € 78.721 | € 21.867 | € 17.494 | € 25.147 | € 5.467 | € 15.963 |
-| Maastricht | € 75.963 | € 18.991 | € 273.467 | € 75.963 | € 60.771 | € 87.358 | € 18.991 | € 55.453 |
-| Medemblik | € 27.486 | € 6.871 | € 98.949 | € 27.486 | € 21.989 | € 31.609 | € 6.871 | € 20.065 |
-| Meerssen | € 10.665 | € 2.666 | € 38.393 | € 10.665 | € 8.532 | € 12.265 | € 2.666 | € 7.785 |
-| Meierijstad | € 47.745 | € 11.936 | € 171.883 | € 47.745 | € 38.196 | € 54.907 | € 11.936 | € 34.854 |
-| Meppel | € 19.341 | € 4.835 | € 69.626 | € 19.341 | € 15.472 | € 22.242 | € 4.835 | € 14.119 |
-| Middelburg | € 27.277 | € 6.819 | € 98.198 | € 27.277 | € 21.822 | € 31.369 | € 6.819 | € 19.912 |
-| Midden-Delfland | € 8.518 | € 2.129 | € 30.664 | € 8.518 | € 6.814 | € 9.795 | € 2.129 | € 6.218 |
-| Midden-Drenthe | € 17.724 | € 4.431 | € 63.807 | € 17.724 | € 14.179 | € 20.383 | € 4.431 | € 12.939 |
-| Midden-Groningen | € 41.074 | € 10.269 | € 147.868 | € 41.074 | € 32.859 | € 47.236 | € 10.269 | € 29.984 |
-| Moerdijk | € 22.056 | € 5.514 | € 79.401 | € 22.056 | € 17.645 | € 25.364 | € 5.514 | € 16.101 |
-| Molenlanden | € 24.084 | € 6.021 | € 86.703 | € 24.084 | € 19.267 | € 27.697 | € 6.021 | € 17.582 |
-| Montferland | € 23.997 | € 5.999 | € 86.390 | € 23.997 | € 19.198 | € 27.597 | € 5.999 | € 17.518 |
-| Montfoort | € 7.264 | € 1.816 | € 26.151 | € 7.264 | € 5.811 | € 8.354 | € 1.816 | € 5.303 |
-| Mook en Middelaar | € 3.398 | € 850 | € 12.234 | € 3.398 | € 2.719 | € 3.908 | € 850 | € 2.481 |
-| Neder-Betuwe | € 15.608 | € 3.902 | € 56.187 | € 15.608 | € 12.486 | € 17.949 | € 3.902 | € 11.394 |
-| Nederweert | € 10.838 | € 2.709 | € 39.015 | € 10.838 | € 8.670 | € 12.463 | € 2.709 | € 7.911 |
-| Nieuwegein | € 37.221 | € 9.305 | € 133.997 | € 37.221 | € 29.777 | € 42.805 | € 9.305 | € 27.172 |
-| Nieuwkoop | € 16.030 | € 4.008 | € 57.709 | € 16.030 | € 12.824 | € 18.435 | € 4.008 | € 11.702 |
-| Nijkerk | € 24.360 | € 6.090 | € 87.695 | € 24.360 | € 19.488 | € 28.014 | € 6.090 | € 17.783 |
-| Nijmegen | € 97.078 | € 24.270 | € 349.482 | € 97.078 | € 77.663 | € 111.640 | € 24.270 | € 70.867 |
-| Nissewaard | € 53.686 | € 13.421 | € 193.268 | € 53.686 | € 42.949 | € 61.739 | € 13.421 | € 39.191 |
-| Noardeast-Fryslân | € 30.495 | € 7.624 | € 109.783 | € 30.495 | € 24.396 | € 35.070 | € 7.624 | € 22.262 |
-| Noord-Beveland | € 4.064 | € 1.016 | € 14.632 | € 4.064 | € 3.252 | € 4.674 | € 1.016 | € 2.967 |
-| Noordenveld | € 16.076 | € 4.019 | € 57.874 | € 16.076 | € 12.861 | € 18.488 | € 4.019 | € 11.736 |
-| Noordoostpolder | € 26.504 | € 6.626 | € 95.415 | € 26.504 | € 21.203 | € 30.480 | € 6.626 | € 19.348 |
-| Noordwijk | € 23.578 | € 5.894 | € 84.881 | € 23.578 | € 18.862 | € 27.115 | € 5.894 | € 17.212 |
-| Nuenen, Gerwen en Nederwetten | € 10.207 | € 2.552 | € 36.744 | € 10.207 | € 8.165 | € 11.738 | € 2.552 | € 7.451 |
-| Nunspeet | € 16.603 | € 4.151 | € 59.771 | € 16.603 | € 13.282 | € 19.093 | € 4.151 | € 12.120 |
-| Oegstgeest | € 8.557 | € 2.139 | € 30.804 | € 8.557 | € 6.845 | € 9.840 | € 2.139 | € 6.246 |
-| Oirschot | € 10.126 | € 2.531 | € 36.453 | € 10.126 | € 8.101 | € 11.645 | € 2.531 | € 7.392 |
-| Oisterwijk | € 16.716 | € 4.179 | € 60.178 | € 16.716 | € 13.373 | € 19.224 | € 4.179 | € 12.203 |
-| Oldambt | € 28.801 | € 7.200 | € 103.685 | € 28.801 | € 23.041 | € 33.122 | € 7.200 | € 21.025 |
-| Oldebroek | € 16.186 | € 4.046 | € 58.268 | € 16.186 | € 12.948 | € 18.613 | € 4.046 | € 11.816 |
-| Oldenzaal | € 18.709 | € 4.677 | € 67.352 | € 18.709 | € 14.967 | € 21.515 | € 4.677 | € 13.657 |
-| Olst-Wijhe | € 9.934 | € 2.483 | € 35.762 | € 9.934 | € 7.947 | € 11.424 | € 2.483 | € 7.252 |
-| Ommen | € 10.410 | € 2.603 | € 37.477 | € 10.410 | € 8.328 | € 11.972 | € 2.603 | € 7.599 |
-| Oost Gelre | € 15.978 | € 3.995 | € 57.522 | € 15.978 | € 12.783 | € 18.375 | € 3.995 | € 11.664 |
-| Oosterhout | € 33.718 | € 8.430 | € 121.385 | € 33.718 | € 26.974 | € 38.776 | € 8.430 | € 24.614 |
-| Ooststellingwerf | € 15.990 | € 3.997 | € 57.563 | € 15.990 | € 12.792 | € 18.388 | € 3.997 | € 11.673 |
-| Oostzaan | € 5.173 | € 1.293 | € 18.622 | € 5.173 | € 4.138 | € 5.949 | € 1.293 | € 3.776 |
-| Opmeer | € 6.540 | € 1.635 | € 23.545 | € 6.540 | € 5.232 | € 7.521 | € 1.635 | € 4.774 |
-| Opsterland | € 16.910 | € 4.228 | € 60.877 | € 16.910 | € 13.528 | € 19.447 | € 4.228 | € 12.344 |
-| Oss | € 56.980 | € 14.245 | € 205.129 | € 56.980 | € 45.584 | € 65.527 | € 14.245 | € 41.596 |
-| Oude IJsselstreek | € 26.233 | € 6.558 | € 94.438 | € 26.233 | € 20.986 | € 30.168 | € 6.558 | € 19.150 |
-| Ouder-Amstel | € 6.078 | € 1.520 | € 21.881 | € 6.078 | € 4.863 | € 6.990 | € 1.520 | € 4.437 |
-| Oudewater | € 5.526 | € 1.382 | € 19.895 | € 5.526 | € 4.421 | € 6.355 | € 1.382 | € 4.034 |
-| Overbetuwe | € 24.864 | € 6.216 | € 89.511 | € 24.864 | € 19.891 | € 28.594 | € 6.216 | € 18.151 |
-| Papendrecht | € 18.139 | € 4.535 | € 65.300 | € 18.139 | € 14.511 | € 20.860 | € 4.535 | € 13.241 |
-| Peel en Maas | € 27.263 | € 6.816 | € 98.145 | € 27.263 | € 21.810 | € 31.352 | € 6.816 | € 19.902 |
-| Pekela | € 9.665 | € 2.416 | € 34.793 | € 9.665 | € 7.732 | € 11.115 | € 2.416 | € 7.055 |
-| Pijnacker-Nootdorp | € 23.476 | € 5.869 | € 84.512 | € 23.476 | € 18.780 | € 26.997 | € 5.869 | € 17.137 |
-| Purmerend | € 55.318 | € 13.830 | € 199.145 | € 55.318 | € 44.254 | € 63.616 | € 13.830 | € 40.382 |
-| Putten | € 14.994 | € 3.748 | € 53.977 | € 14.994 | € 11.995 | € 17.243 | € 3.748 | € 10.945 |
-| Raalte | € 20.910 | € 5.227 | € 75.276 | € 20.910 | € 16.728 | € 24.046 | € 5.227 | € 15.264 |
-| Reimerswaal | € 14.277 | € 3.569 | € 51.398 | € 14.277 | € 11.422 | € 16.419 | € 3.569 | € 10.422 |
-| Renkum | € 15.510 | € 3.877 | € 55.836 | € 15.510 | € 12.408 | € 17.836 | € 3.877 | € 11.322 |
-| Renswoude | € 2.740 | € 685 | € 9.863 | € 2.740 | € 2.192 | € 3.151 | € 685 | € 2.000 |
-| Reusel-De Mierden | € 7.385 | € 1.846 | € 26.585 | € 7.385 | € 5.908 | € 8.492 | € 1.846 | € 5.391 |
-| Rheden | € 27.173 | € 6.793 | € 97.822 | € 27.173 | € 21.738 | € 31.249 | € 6.793 | € 19.836 |
-| Rhenen | € 11.391 | € 2.848 | € 41.007 | € 11.391 | € 9.113 | € 13.099 | € 2.848 | € 8.315 |
-| Ridderkerk | € 31.311 | € 7.828 | € 112.721 | € 31.311 | € 25.049 | € 36.008 | € 7.828 | € 22.857 |
-| Rijssen-Holten | € 21.250 | € 5.313 | € 76.501 | € 21.250 | € 17.000 | € 24.438 | € 5.313 | € 15.513 |
-| Rijswijk | € 31.111 | € 7.778 | € 111.998 | € 31.111 | € 24.889 | € 35.777 | € 7.778 | € 22.711 |
-| Roerdalen | € 12.728 | € 3.182 | € 45.821 | € 12.728 | € 10.182 | € 14.637 | € 3.182 | € 9.291 |
-| Roermond | € 39.698 | € 9.924 | € 142.912 | € 39.698 | € 31.758 | € 45.653 | € 9.924 | € 28.979 |
-| Roosendaal | € 48.527 | € 12.132 | € 174.698 | € 48.527 | € 38.822 | € 55.806 | € 12.132 | € 35.425 |
-| Rotterdam | € 429.324 | € 107.331 | € 1.545.566 | € 429.324 | € 343.459 | € 493.723 | € 107.331 | € 313.407 |
-| Rozendaal | € 590 | € 8.505 | € 2.364 | € 1.890 | € 2.717 | € 590 | € 1.723 | € 590 |
-| Rucphen | € 17.385 | € 4.346 | € 62.585 | € 17.385 | € 13.908 | € 19.993 | € 4.346 | € 12.691 |
-| Schagen | € 25.052 | € 6.263 | € 90.186 | € 25.052 | € 20.041 | € 28.809 | € 6.263 | € 18.288 |
-| Scherpenzeel | € 5.671 | € 1.418 | € 20.416 | € 5.671 | € 4.537 | € 6.522 | € 1.418 | € 4.140 |
-| Schiedam | € 53.350 | € 13.337 | € 192.059 | € 53.350 | € 42.680 | € 61.352 | € 13.337 | € 38.945 |
-| Schiermonnikoog | € 743 | € 10.715 | € 2.979 | € 2.382 | € 3.423 | € 743 | € 2.172 | € 743 |
-| Schouwen-Duiveland | € 20.100 | € 5.025 | € 72.360 | € 20.100 | € 16.080 | € 23.115 | € 5.025 | € 14.673 |
-| 's-Gravenhage | € 321.536 | € 80.384 | € 1.157.529 | € 321.536 | € 257.229 | € 369.766 | € 80.384 | € 234.721 |
-| 's-Hertogenbosch | € 86.939 | € 21.735 | € 312.980 | € 86.939 | € 69.551 | € 99.980 | € 21.735 | € 63.465 |
-| Simpelveld | € 7.303 | € 1.826 | € 26.289 | € 7.303 | € 5.842 | € 8.398 | € 1.826 | € 5.331 |
-| Sint-Michielsgestel | € 14.884 | € 3.721 | € 53.581 | € 14.884 | € 11.907 | € 17.116 | € 3.721 | € 10.865 |
-| Sittard-Geleen | € 62.988 | € 15.747 | € 226.758 | € 62.988 | € 50.391 | € 72.437 | € 15.747 | € 45.981 |
-| Sliedrecht | € 16.479 | € 4.120 | € 59.323 | € 16.479 | € 13.183 | € 18.950 | € 4.120 | € 12.029 |
-| Sluis | € 14.520 | € 3.630 | € 52.271 | € 14.520 | € 11.616 | € 16.698 | € 3.630 | € 10.599 |
-| Smallingerland | € 35.218 | € 8.804 | € 126.784 | € 35.218 | € 28.174 | € 40.500 | € 8.804 | € 25.709 |
-| Soest | € 23.494 | € 5.873 | € 84.577 | € 23.494 | € 18.795 | € 27.018 | € 5.873 | € 17.150 |
-| Someren | € 12.227 | € 3.057 | € 44.016 | € 12.227 | € 9.781 | € 14.061 | € 3.057 | € 8.926 |
-| Son en Breugel | € 7.517 | € 1.879 | € 27.062 | € 7.517 | € 6.014 | € 8.645 | € 1.879 | € 5.488 |
-| Stadskanaal | € 24.271 | € 6.068 | € 87.375 | € 24.271 | € 19.417 | € 27.912 | € 6.068 | € 17.718 |
-| Staphorst | € 9.745 | € 2.436 | € 35.081 | € 9.745 | € 7.796 | € 11.206 | € 2.436 | € 7.114 |
-| Stede Broec | € 14.375 | € 3.594 | € 51.749 | € 14.375 | € 11.500 | € 16.531 | € 3.594 | € 10.494 |
-| Steenbergen | € 16.160 | € 4.040 | € 58.175 | € 16.160 | € 12.928 | € 18.584 | € 4.040 | € 11.797 |
-| Steenwijkerland | € 26.868 | € 6.717 | € 96.726 | € 26.868 | € 21.495 | € 30.899 | € 6.717 | € 19.614 |
-| Stein | € 16.833 | € 4.208 | € 60.598 | € 16.833 | € 13.466 | € 19.358 | € 4.208 | € 12.288 |
-| Stichtse Vecht | € 32.550 | € 8.137 | € 117.179 | € 32.550 | € 26.040 | € 37.432 | € 8.137 | € 23.761 |
-| Súdwest-Fryslân | € 53.075 | € 13.269 | € 191.068 | € 53.075 | € 42.460 | € 61.036 | € 13.269 | € 38.744 |
-| Terneuzen | € 36.578 | € 9.144 | € 131.680 | € 36.578 | € 29.262 | € 42.064 | € 9.144 | € 26.702 |
-| Terschelling | € 744 | € 10.716 | € 2.976 | € 2.381 | € 3.423 | € 744 | € 2.173 | € 744 |
-| Texel | € 7.850 | € 1.963 | € 28.260 | € 7.850 | € 6.280 | € 9.028 | € 1.963 | € 5.731 |
-| Teylingen | € 16.779 | € 4.195 | € 60.404 | € 16.779 | € 13.423 | € 19.296 | € 4.195 | € 12.248 |
-| Tholen | € 16.652 | € 4.163 | € 59.946 | € 16.652 | € 13.321 | € 19.149 | € 4.163 | € 12.156 |
-| Tiel | € 27.642 | € 6.910 | € 99.509 | € 27.642 | € 22.113 | € 31.788 | € 6.910 | € 20.178 |
-| Tilburg | € 135.205 | € 33.801 | € 486.740 | € 135.205 | € 108.164 | € 155.486 | € 33.801 | € 98.700 |
-| Tubbergen | € 10.956 | € 2.739 | € 39.441 | € 10.956 | € 8.765 | € 12.599 | € 2.739 | € 7.998 |
-| Twenterand | € 22.118 | € 5.530 | € 79.626 | € 22.118 | € 17.695 | € 25.436 | € 5.530 | € 16.146 |
-| Tynaarlo | € 14.737 | € 3.684 | € 53.054 | € 14.737 | € 11.790 | € 16.948 | € 3.684 | € 10.758 |
-| Tytsjerksteradiel | € 18.839 | € 4.710 | € 67.821 | € 18.839 | € 15.071 | € 21.665 | € 4.710 | € 13.753 |
-| Uitgeest | € 5.526 | € 1.381 | € 19.892 | € 5.526 | € 4.420 | € 6.354 | € 1.381 | € 4.034 |
-| Uithoorn | € 15.531 | € 3.883 | € 55.911 | € 15.531 | € 12.425 | € 17.860 | € 3.883 | € 11.337 |
-| Urk | € 11.574 | € 2.894 | € 41.667 | € 11.574 | € 9.259 | € 13.310 | € 2.894 | € 8.449 |
-| Utrecht | € 159.703 | € 39.926 | € 574.930 | € 159.703 | € 127.762 | € 183.658 | € 39.926 | € 116.583 |
-| Utrechtse Heuvelrug | € 21.646 | € 5.412 | € 77.926 | € 21.646 | € 17.317 | € 24.893 | € 5.412 | € 15.802 |
-| Vaals | € 7.335 | € 1.834 | € 26.407 | € 7.335 | € 5.868 | € 8.435 | € 1.834 | € 5.355 |
-| Valkenburg aan de Geul | € 10.325 | € 2.581 | € 37.169 | € 10.325 | € 8.260 | € 11.874 | € 2.581 | € 7.537 |
-| Valkenswaard | € 19.640 | € 4.910 | € 70.704 | € 19.640 | € 15.712 | € 22.586 | € 4.910 | € 14.337 |
-| Veendam | € 19.366 | € 4.842 | € 69.718 | € 19.366 | € 15.493 | € 22.271 | € 4.842 | € 14.137 |
-| Veenendaal | € 37.690 | € 9.423 | € 135.685 | € 37.690 | € 30.152 | € 43.344 | € 9.423 | € 27.514 |
-| Veere | € 10.537 | € 2.634 | € 37.934 | € 10.537 | € 8.430 | € 12.118 | € 2.634 | € 7.692 |
-| Veldhoven | € 23.187 | € 5.797 | € 83.472 | € 23.187 | € 18.549 | € 26.665 | € 5.797 | € 16.926 |
-| Velsen | € 39.364 | € 9.841 | € 141.712 | € 39.364 | € 31.491 | € 45.269 | € 9.841 | € 28.736 |
-| Venlo | € 72.734 | € 18.183 | € 261.841 | € 72.734 | € 58.187 | € 83.644 | € 18.183 | € 53.096 |
-| Venray | € 27.283 | € 6.821 | € 98.218 | € 27.283 | € 21.826 | € 31.375 | € 6.821 | € 19.916 |
-| Vijfheerenlanden | € 34.848 | € 8.712 | € 125.454 | € 34.848 | € 27.879 | € 40.076 | € 8.712 | € 25.439 |
-| Vlaardingen | € 50.772 | € 12.693 | € 182.779 | € 50.772 | € 40.618 | € 58.388 | € 12.693 | € 37.064 |
-| Vlieland | € 744 | € 10.714 | € 2.977 | € 2.380 | € 3.420 | € 744 | € 2.174 | € 744 |
-| Vlissingen | € 27.869 | € 6.967 | € 100.329 | € 27.869 | € 22.295 | € 32.050 | € 6.967 | € 20.345 |
-| Voerendaal | € 7.049 | € 1.762 | € 25.376 | € 7.049 | € 5.639 | € 8.106 | € 1.762 | € 5.146 |
-| Voorne aan Zee | € 40.353 | € 10.088 | € 145.271 | € 40.353 | € 32.282 | € 46.406 | € 10.088 | € 29.458 |
-| Voorschoten | € 10.462 | € 2.616 | € 37.665 | € 10.462 | € 8.370 | € 12.032 | € 2.616 | € 7.638 |
-| Voorst | € 13.339 | € 3.335 | € 48.021 | € 13.339 | € 10.671 | € 15.340 | € 3.335 | € 9.738 |
-| Vught | € 15.099 | € 3.775 | € 54.357 | € 15.099 | € 12.079 | € 17.364 | € 3.775 | € 11.022 |
-| Waadhoeke | € 29.067 | € 7.267 | € 104.640 | € 29.067 | € 23.253 | € 33.427 | € 7.267 | € 21.219 |
-| Waalre | € 7.015 | € 1.754 | € 25.254 | € 7.015 | € 5.612 | € 8.067 | € 1.754 | € 5.121 |
-| Waalwijk | € 32.389 | € 8.097 | € 116.599 | € 32.389 | € 25.911 | € 37.247 | € 8.097 | € 23.644 |
-| Waddinxveen | € 16.358 | € 4.090 | € 58.890 | € 16.358 | € 13.087 | € 18.812 | € 4.090 | € 11.942 |
-| Wageningen | € 17.165 | € 4.291 | € 61.793 | € 17.165 | € 13.732 | € 19.739 | € 4.291 | € 12.530 |
-| Wassenaar | € 11.590 | € 2.898 | € 41.726 | € 11.590 | € 9.272 | € 13.329 | € 2.898 | € 8.461 |
-| Waterland | € 8.278 | € 2.069 | € 29.800 | € 8.278 | € 6.622 | € 9.519 | € 2.069 | € 6.043 |
-| Weert | € 31.937 | € 7.984 | € 114.973 | € 31.937 | € 25.549 | € 36.727 | € 7.984 | € 23.314 |
-| West Betuwe | € 29.337 | € 7.334 | € 105.615 | € 29.337 | € 23.470 | € 33.738 | € 7.334 | € 21.416 |
-| West Maas en Waal | € 11.596 | € 2.899 | € 41.747 | € 11.596 | € 9.277 | € 13.336 | € 2.899 | € 8.465 |
-| Westerkwartier | € 34.290 | € 8.572 | € 123.443 | € 34.290 | € 27.432 | € 39.433 | € 8.572 | € 25.032 |
-| Westerveld | € 10.965 | € 2.741 | € 39.475 | € 10.965 | € 8.772 | € 12.610 | € 2.741 | € 8.005 |
-| Westervoort | € 8.993 | € 2.248 | € 32.376 | € 8.993 | € 7.195 | € 10.342 | € 2.248 | € 6.565 |
-| Westerwolde | € 18.227 | € 4.557 | € 65.619 | € 18.227 | € 14.582 | € 20.962 | € 4.557 | € 13.306 |
-| Westland | € 64.957 | € 16.239 | € 233.846 | € 64.957 | € 51.966 | € 74.701 | € 16.239 | € 47.419 |
-| Weststellingwerf | € 17.329 | € 4.332 | € 62.385 | € 17.329 | € 13.863 | € 19.928 | € 4.332 | € 12.650 |
-| Wierden | € 12.396 | € 3.099 | € 44.625 | € 12.396 | € 9.917 | € 14.255 | € 3.099 | € 9.049 |
-| Wijchen | € 22.913 | € 5.728 | € 82.486 | € 22.913 | € 18.330 | € 26.350 | € 5.728 | € 16.726 |
-| Wijdemeren | € 12.039 | € 3.010 | € 43.340 | € 12.039 | € 9.631 | € 13.845 | € 3.010 | € 8.788 |
-| Wijk bij Duurstede | € 11.467 | € 2.867 | € 41.282 | € 11.467 | € 9.174 | € 13.187 | € 2.867 | € 8.371 |
-| Winterswijk | € 18.488 | € 4.622 | € 66.555 | € 18.488 | € 14.790 | € 21.261 | € 4.622 | € 13.496 |
-| Woensdrecht | € 13.396 | € 3.349 | € 48.226 | € 13.396 | € 10.717 | € 15.406 | € 3.349 | € 9.779 |
-| Woerden | € 25.603 | € 6.401 | € 92.171 | € 25.603 | € 20.482 | € 29.444 | € 6.401 | € 18.690 |
-| Wormerland | € 9.085 | € 2.271 | € 32.705 | € 9.085 | € 7.268 | € 10.447 | € 2.271 | € 6.632 |
-| Woudenberg | € 6.758 | € 1.690 | € 24.330 | € 6.758 | € 5.407 | € 7.772 | € 1.690 | € 4.934 |
-| Zaanstad | € 94.210 | € 23.552 | € 339.155 | € 94.210 | € 75.368 | € 108.341 | € 23.552 | € 68.773 |
-| Zaltbommel | € 17.157 | € 4.289 | € 61.764 | € 17.157 | € 13.725 | € 19.730 | € 4.289 | € 12.524 |
-| Zandvoort | € 10.269 | € 2.567 | € 36.970 | € 10.269 | € 8.216 | € 11.810 | € 2.567 | € 7.497 |
-| Zeewolde | € 10.684 | € 2.671 | € 38.462 | € 10.684 | € 8.547 | € 12.286 | € 2.671 | € 7.799 |
-| Zeist | € 31.073 | € 7.768 | € 111.863 | € 31.073 | € 24.859 | € 35.734 | € 7.768 | € 22.683 |
-| Zevenaar | € 29.609 | € 7.402 | € 106.593 | € 29.609 | € 23.687 | € 34.051 | € 7.402 | € 21.615 |
-| Zoetermeer | € 66.732 | € 16.683 | € 240.236 | € 66.732 | € 53.386 | € 76.742 | € 16.683 | € 48.714 |
-| Zoeterwoude | € 4.175 | € 1.044 | € 15.029 | € 4.175 | € 3.340 | € 4.801 | € 1.044 | € 3.047 |
-| Zuidplas | € 22.956 | € 5.739 | € 82.642 | € 22.956 | € 18.365 | € 26.399 | € 5.739 | € 16.758 |
-| Zundert | € 13.478 | € 3.370 | € 48.522 | € 13.478 | € 10.783 | € 15.500 | € 3.370 | € 9.839 |
-| Zutphen | € 28.349 | € 7.087 | € 102.058 | € 28.349 | € 22.680 | € 32.602 | € 7.087 | € 20.695 |
-| Zwartewaterland | € 13.968 | € 3.492 | € 50.283 | € 13.968 | € 11.174 | € 16.063 | € 3.492 | € 10.196 |
-| Zwijndrecht | € 29.280 | € 7.320 | € 105.407 | € 29.280 | € 23.424 | € 33.672 | € 7.320 | € 21.374 |
-| Zwolle | € 65.495 | € 16.374 | € 235.781 | € 65.495 | € 52.396 | € 75.319 | € 16.374 | € 47.811 |
+| 2025 | Leefomgeving | Opgroeien in een Kansrijke Omgeving en Vroegsignalering Alcoholproblematiek | Versterken sociale basis | Mantelzorg | Eén tegen Eenzaamheid | Welzijn op recept | Versterking kennis- en adviesfunctie GGD | Coördinatie-kosten regionale aanpak preventie | Totaalbedrag excl. Loon- en prijsontwikkeling (LPO) | Totaalbedrag incl. loon- en prijsontwikkeling (LPO) uit 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aa en Hunze | € 12.913 | € 3.228 | € 46.488 | € 12.913 | € 10.331 | € 14.850 | € 3.228 | € 9.427 | € 385.853 | € 401.280 |
+| Aalsmeer | € 16.965 | € 4.241 | € 61.074 | € 16.965 | € 13.572 | € 19.510 | € 4.241 | € 12.384 | € 506.917 | € 527.184 |
+| Aalten | € 16.926 | € 4.232 | € 60.934 | € 16.926 | € 13.541 | € 19.465 | € 4.232 | € 12.356 | € 505.760 | € 525.980 |
+| Achtkarspelen | € 19.331 | € 4.833 | € 69.591 | € 19.331 | € 15.465 | € 22.230 | € 4.833 | € 14.111 | € 577.612 | € 600.704 |
+| Alblasserdam | € 12.612 | € 3.153 | € 45.403 | € 12.612 | € 10.090 | € 14.504 | € 3.153 | € 9.207 | € 376.851 | € 391.917 |
+| Albrandswaard | € 11.834 | € 2.958 | € 42.601 | € 11.834 | € 9.467 | € 13.609 | € 2.958 | € 8.638 | € 353.591 | € 367.728 |
+| Alkmaar | € 61.862 | € 15.466 | € 222.705 | € 61.862 | € 49.490 | € 71.142 | € 15.466 | € 45.160 | € 1.848.476 | € 1.922.377 |
+| Almelo | € 49.654 | € 12.413 | € 178.753 | € 49.654 | € 39.723 | € 57.102 | € 12.413 | € 36.247 | € 1.483.671 | € 1.542.987 |
+| Almere | € 111.928 | € 27.982 | € 402.941 | € 111.928 | € 89.543 | € 128.717 | € 27.982 | € 81.708 | € 3.344.461 | € 3.478.172 |
+| Alphen aan den Rijn | € 60.402 | € 15.101 | € 217.447 | € 60.402 | € 48.322 | € 69.462 | € 15.101 | € 44.094 | € 1.804.839 | € 1.876.996 |
+| Alphen-Chaam | € 5.333 | € 1.333 | € 19.199 | € 5.333 | € 4.267 | € 6.133 | € 1.333 | € 3.893 | € 159.357 | € 165.728 |
+| Altena | € 35.764 | € 8.941 | € 128.750 | € 35.764 | € 28.611 | € 41.128 | € 8.941 | € 26.108 | € 1.068.640 | € 1.111.364 |
+| Ameland | € 1.870 | € 468 | € 6.733 | € 1.870 | € 1.496 | € 2.151 | € 468 | € 1.365 | € 87.500 | € 91.053 |
+| Amersfoort | € 74.575 | € 18.644 | € 268.469 | € 74.575 | € 59.660 | € 85.761 | € 18.644 | € 54.439 | € 2.228.321 | € 2.317.408 |
+| Amstelveen | € 41.827 | € 10.457 | € 150.577 | € 41.827 | € 33.462 | € 48.101 | € 10.457 | € 30.534 | € 1.249.806 | € 1.299.773 |
+| Amsterdam | € 486.108 | € 121.527 | € 1.749.990 | € 486.108 | € 388.887 | € 559.024 | € 121.527 | € 354.859 | € 14.525.119 | € 15.105.830 |
+| Apeldoorn | € 94.130 | € 23.533 | € 338.869 | € 94.130 | € 75.304 | € 108.250 | € 23.533 | € 68.715 | € 2.812.652 | € 2.925.101 |
+| Arnhem | € 97.491 | € 24.373 | € 350.967 | € 97.491 | € 77.993 | € 112.114 | € 24.373 | € 71.168 | € 2.913.065 | € 3.029.529 |
+| Assen | € 36.360 | € 9.090 | € 130.895 | € 36.360 | € 29.088 | € 41.814 | € 9.090 | € 26.543 | € 1.086.441 | € 1.129.877 |
+| Asten | € 10.194 | € 2.548 | € 36.698 | € 10.194 | € 8.155 | € 11.723 | € 2.548 | € 7.442 | € 304.597 | € 316.774 |
+| Baarle-Nassau | € 4.347 | € 1.087 | € 15.650 | € 4.347 | € 3.478 | € 4.999 | € 1.087 | € 3.174 | € 129.901 | € 135.094 |
+| Baarn | € 12.461 | € 3.115 | € 44.858 | € 12.461 | € 9.968 | € 14.330 | € 3.115 | € 9.096 | € 372.326 | € 387.211 |
+| Barendrecht | € 22.916 | € 5.729 | € 82.496 | € 22.916 | € 18.332 | € 26.353 | € 5.729 | € 16.728 | € 684.725 | € 712.100 |
+| Barneveld | € 31.912 | € 7.978 | € 114.883 | € 31.912 | € 25.530 | € 36.699 | € 7.978 | € 23.296 | € 953.542 | € 991.665 |
+| Beek | € 9.538 | € 2.384 | € 34.335 | € 9.538 | € 7.630 | € 10.968 | € 2.384 | € 6.962 | € 284.988 | € 296.382 |
+| Beekdaelen | € 21.608 | € 5.402 | € 77.790 | € 21.608 | € 17.287 | € 24.850 | € 5.402 | € 15.774 | € 645.667 | € 671.480 |
+| Beesel | € 8.936 | € 2.234 | € 32.168 | € 8.936 | € 7.148 | € 10.276 | € 2.234 | € 6.523 | € 266.999 | € 277.673 |
+| Berg en Dal | € 22.177 | € 5.544 | € 79.835 | € 22.177 | € 17.741 | € 25.503 | € 5.544 | € 16.189 | € 662.643 | € 689.136 |
+| Bergeijk | € 10.031 | € 2.508 | € 36.112 | € 10.031 | € 8.025 | € 11.536 | € 2.508 | € 7.323 | € 299.730 | € 311.713 |
+| Bergen (L.) | € 8.644 | € 2.161 | € 31.118 | € 8.644 | € 6.915 | € 9.941 | € 2.161 | € 6.310 | € 258.285 | € 268.611 |
+| Bergen (NH.) | € 13.980 | € 3.495 | € 50.328 | € 13.980 | € 11.184 | € 16.077 | € 3.495 | € 10.205 | € 417.725 | € 434.426 |
+| Bergen op Zoom | € 42.027 | € 10.507 | € 151.297 | € 42.027 | € 33.621 | € 48.331 | € 10.507 | € 30.680 | € 1.255.780 | € 1.305.986 |
+| Berkelland | € 25.985 | € 6.496 | € 93.547 | € 25.985 | € 20.788 | € 29.883 | € 6.496 | € 18.969 | € 776.449 | € 807.491 |
+| Bernheze | € 18.113 | € 4.528 | € 65.207 | € 18.113 | € 14.490 | € 20.830 | € 4.528 | € 13.223 | € 541.226 | € 562.864 |
+| Best | € 14.929 | € 3.732 | € 53.745 | € 14.929 | € 11.943 | € 17.169 | € 3.732 | € 10.898 | € 446.092 | € 463.927 |
+| Beuningen | € 14.029 | € 3.507 | € 50.504 | € 14.029 | € 11.223 | € 16.133 | € 3.507 | € 10.241 | € 419.193 | € 435.952 |
+| Beverwijk | € 25.493 | € 6.373 | € 91.776 | € 25.493 | € 20.395 | € 29.317 | € 6.373 | € 18.610 | € 761.752 | € 792.207 |
+| Bladel | € 11.436 | € 2.859 | € 41.169 | € 11.436 | € 9.149 | € 13.151 | € 2.859 | € 8.348 | € 341.712 | € 355.373 |
+| Blaricum | € 4.808 | € 1.202 | € 17.308 | € 4.808 | € 3.846 | € 5.529 | € 1.202 | € 3.510 | € 143.658 | € 149.401 |
+| Bloemendaal | € 8.120 | € 2.030 | € 29.232 | € 8.120 | € 6.496 | € 9.338 | € 2.030 | € 5.928 | € 242.628 | € 252.328 |
+| Bodegraven-Reeuwijk | € 18.220 | € 4.555 | € 65.592 | € 18.220 | € 14.576 | € 20.953 | € 4.555 | € 13.301 | € 544.425 | € 566.191 |
+| Boekel | € 6.121 | € 1.530 | € 22.036 | € 6.121 | € 4.897 | € 7.039 | € 1.530 | € 4.468 | € 182.901 | € 190.214 |
+| Borger-Odoorn | € 15.699 | € 3.925 | € 56.517 | € 15.699 | € 12.559 | € 18.054 | € 3.925 | € 11.460 | € 469.102 | € 487.856 |
+| Borne | € 11.775 | € 2.944 | € 42.388 | € 11.775 | € 9.420 | € 13.541 | € 2.944 | € 8.595 | € 351.829 | € 365.895 |
+| Borsele | € 12.621 | € 3.155 | € 45.435 | € 12.621 | € 10.097 | € 14.514 | € 3.155 | € 9.213 | € 377.115 | € 392.192 |
+| Boxtel | € 19.963 | € 4.991 | € 71.866 | € 19.963 | € 15.970 | € 22.957 | € 4.991 | € 14.573 | € 596.498 | € 620.346 |
+| Breda | € 95.430 | € 23.857 | € 343.547 | € 95.430 | € 76.344 | € 109.744 | € 23.857 | € 69.664 | € 2.851.484 | € 2.965.486 |
+| Bronckhorst | € 20.535 | € 5.134 | € 73.925 | € 20.535 | € 16.428 | € 23.615 | € 5.134 | € 14.990 | € 613.586 | € 638.117 |
+| Brummen | € 12.332 | € 3.083 | € 44.394 | € 12.332 | € 9.865 | € 14.181 | € 3.083 | € 9.002 | € 368.476 | € 383.208 |
+| Brunssum | € 21.305 | € 5.326 | € 76.696 | € 21.305 | € 17.044 | € 24.500 | € 5.326 | € 15.552 | € 636.589 | € 662.039 |
+| Bunnik | € 5.987 | € 1.497 | € 21.555 | € 5.987 | € 4.790 | € 6.886 | € 1.497 | € 4.371 | € 178.908 | € 186.061 |
+| Bunschoten | € 13.202 | € 3.300 | € 47.526 | € 13.202 | € 10.561 | € 15.182 | € 3.300 | € 9.637 | € 394.470 | € 410.241 |
+| Buren | € 16.640 | € 4.160 | € 59.906 | € 16.640 | € 13.312 | € 19.137 | € 4.160 | € 12.148 | € 497.224 | € 517.103 |
+| Capelle aan den IJssel | € 40.059 | € 10.015 | € 144.211 | € 40.059 | € 32.047 | € 46.067 | € 10.015 | € 29.243 | € 1.196.966 | € 1.244.821 |
+| Castricum | € 15.464 | € 3.866 | € 55.672 | € 15.464 | € 12.372 | € 17.784 | € 3.866 | € 11.289 | € 462.083 | € 480.557 |
+| Coevorden | € 22.263 | € 5.566 | € 80.147 | € 22.263 | € 17.810 | € 25.603 | € 5.566 | € 16.252 | € 665.230 | € 691.826 |
+| Cranendonck | € 12.821 | € 3.205 | € 46.157 | € 12.821 | € 10.257 | € 14.745 | € 3.205 | € 9.360 | € 383.109 | € 398.425 |
+| Culemborg | € 15.889 | € 3.972 | € 57.201 | € 15.889 | € 12.711 | € 18.272 | € 3.972 | € 11.599 | € 474.773 | € 493.755 |
+| Dalfsen | € 15.782 | € 3.945 | € 56.814 | € 15.782 | € 12.625 | € 18.149 | € 3.945 | € 11.521 | € 471.562 | € 490.415 |
+| Dantumadiel | € 13.248 | € 3.312 | € 47.694 | € 13.248 | € 10.599 | € 15.236 | € 3.312 | € 9.671 | € 395.864 | € 411.690 |
+| De Bilt | € 18.839 | € 4.710 | € 67.820 | € 18.839 | € 15.071 | € 21.665 | € 4.710 | € 13.752 | € 562.917 | € 585.422 |
+| De Fryske Marren | € 30.163 | € 7.541 | € 108.588 | € 30.163 | € 24.131 | € 34.688 | € 7.541 | € 22.019 | € 901.295 | € 937.329 |
+| De Ronde Venen | € 22.374 | € 5.593 | € 80.546 | € 22.374 | € 17.899 | € 25.730 | € 5.593 | € 16.333 | € 668.542 | € 695.270 |
+| De Wolden | € 13.257 | € 3.314 | € 47.725 | € 13.257 | € 10.606 | € 15.246 | € 3.314 | € 9.678 | € 396.127 | € 411.964 |
+| Delft | € 51.944 | € 12.986 | € 186.998 | € 51.944 | € 41.555 | € 59.735 | € 12.986 | € 37.919 | € 1.552.104 | € 1.614.156 |
+| Den Helder | € 38.575 | € 9.644 | € 138.872 | € 38.575 | € 30.860 | € 44.362 | € 9.644 | € 28.160 | € 1.152.650 | € 1.198.733 |
+| Deurne | € 20.218 | € 5.055 | € 72.785 | € 20.218 | € 16.174 | € 23.251 | € 5.055 | € 14.759 | € 604.123 | € 628.276 |
+| Deventer | € 56.447 | € 14.112 | € 203.211 | € 56.447 | € 45.158 | € 64.915 | € 14.112 | € 41.207 | € 1.686.674 | € 1.754.107 |
+| Diemen | € 13.149 | € 3.287 | € 47.335 | € 13.149 | € 10.519 | € 15.121 | € 3.287 | € 9.598 | € 392.885 | € 408.592 |
+| Dijk en Waard | € 45.205 | € 11.301 | € 162.737 | € 45.205 | € 36.164 | € 51.985 | € 11.301 | € 32.999 | € 1.350.738 | € 1.404.740 |
+| Dinkelland | € 13.147 | € 3.287 | € 47.330 | € 13.147 | € 10.518 | € 15.119 | € 3.287 | € 9.597 | € 392.841 | € 408.547 |
+| Doesburg | € 7.421 | € 1.855 | € 26.716 | € 7.421 | € 5.937 | € 8.534 | € 1.855 | € 5.417 | € 221.745 | € 230.610 |
+| Doetinchem | € 33.881 | € 8.470 | € 121.971 | € 33.881 | € 27.105 | € 38.963 | € 8.470 | € 24.733 | € 1.012.373 | € 1.052.847 |
+| Dongen | € 15.248 | € 3.812 | € 54.892 | € 15.248 | € 12.198 | € 17.535 | € 3.812 | € 11.131 | € 455.611 | € 473.826 |
+| Dordrecht | € 74.594 | € 18.649 | € 268.539 | € 74.594 | € 59.675 | € 85.783 | € 18.649 | € 54.454 | € 2.228.906 | € 2.318.017 |
+| Drechterland | € 11.262 | € 2.815 | € 40.542 | € 11.262 | € 9.009 | € 12.951 | € 2.815 | € 8.221 | € 336.505 | € 349.958 |
+| Drimmelen | € 16.544 | € 4.136 | € 59.558 | € 16.544 | € 13.235 | € 19.026 | € 4.136 | € 12.077 | € 494.340 | € 514.104 |
+| Dronten | € 21.941 | € 5.485 | € 78.987 | € 21.941 | € 17.553 | € 25.232 | € 5.485 | € 16.017 | € 655.604 | € 681.815 |
+| Druten | € 11.059 | € 2.765 | € 39.812 | € 11.059 | € 8.847 | € 12.718 | € 2.765 | € 8.073 | € 330.441 | € 343.652 |
+| Duiven | € 13.563 | € 3.391 | € 48.829 | € 13.563 | € 10.851 | € 15.598 | € 3.391 | € 9.901 | € 405.283 | € 421.486 |
+| Echt-Susteren | € 21.863 | € 5.466 | € 78.705 | € 21.863 | € 17.490 | € 25.142 | € 5.466 | € 15.960 | € 653.263 | € 679.380 |
+| Edam-Volendam | € 21.538 | € 5.384 | € 77.536 | € 21.538 | € 17.230 | € 24.768 | € 5.384 | € 15.722 | € 643.554 | € 669.283 |
+| Ede | € 61.740 | € 15.435 | € 222.262 | € 61.740 | € 49.392 | € 71.000 | € 15.435 | € 45.070 | € 1.844.804 | € 1.918.558 |
+| Eemnes | € 3.954 | € 988 | € 14.234 | € 3.954 | € 3.163 | € 4.547 | € 988 | € 2.886 | € 118.146 | € 122.870 |
+| Eemsdelta | € 31.422 | € 7.855 | € 113.118 | € 31.422 | € 25.137 | € 36.135 | € 7.855 | € 22.938 | € 938.894 | € 976.430 |
+| Eersel | € 9.651 | € 2.413 | € 34.743 | € 9.651 | € 7.721 | € 11.099 | € 2.413 | € 7.045 | € 288.372 | € 299.901 |
+| Eijsden-Margraten | € 12.935 | € 3.234 | € 46.566 | € 12.935 | € 10.348 | € 14.875 | € 3.234 | € 9.443 | € 386.505 | € 401.957 |
+| Eindhoven | € 135.371 | € 33.843 | € 487.334 | € 135.371 | € 108.297 | € 155.676 | € 33.843 | € 98.821 | € 4.044.933 | € 4.206.649 |
+| Elburg | € 14.279 | € 3.570 | € 51.405 | € 14.279 | € 11.423 | € 16.421 | € 3.570 | € 10.424 | € 426.665 | € 443.723 |
+| Emmen | € 76.862 | € 19.215 | € 276.702 | € 76.862 | € 61.489 | € 88.391 | € 19.215 | € 56.109 | € 2.296.662 | € 2.388.482 |
+| Enkhuizen | € 11.618 | € 2.905 | € 41.826 | € 11.618 | € 9.295 | € 13.361 | € 2.905 | € 8.481 | € 347.163 | € 361.042 |
+| Enschede | € 100.724 | € 25.181 | € 362.608 | € 100.724 | € 80.580 | € 115.833 | € 25.181 | € 73.529 | € 3.009.688 | € 3.130.014 |
+| Epe | € 20.587 | € 5.147 | € 74.113 | € 20.587 | € 16.469 | € 23.675 | € 5.147 | € 15.028 | € 615.143 | € 639.736 |
+| Ermelo | € 14.056 | € 3.514 | € 50.602 | € 14.056 | € 11.245 | € 16.164 | € 3.514 | € 10.261 | € 420.001 | € 436.793 |
+| Etten-Leur | € 25.190 | € 6.298 | € 90.685 | € 25.190 | € 20.152 | € 28.969 | € 6.298 | € 18.389 | € 752.693 | € 782.786 |
+| Geertruidenberg | € 13.633 | € 3.408 | € 49.079 | € 13.633 | € 10.906 | € 15.678 | € 3.408 | € 9.952 | € 407.363 | € 423.649 |
+| Geldrop-Mierlo | € 22.969 | € 5.742 | € 82.689 | € 22.969 | € 18.375 | € 26.415 | € 5.742 | € 16.768 | € 686.333 | € 713.772 |
+| Gemert-Bakel | € 18.892 | € 4.723 | € 68.010 | € 18.892 | € 15.113 | € 21.725 | € 4.723 | € 13.791 | € 564.493 | € 587.061 |
+| Gennep | € 9.944 | € 2.486 | € 35.797 | € 9.944 | € 7.955 | € 11.435 | € 2.486 | € 7.259 | € 297.121 | € 309.000 |
+| Gilze en Rijen | € 15.027 | € 3.757 | € 54.099 | € 15.027 | € 12.022 | € 17.282 | € 3.757 | € 10.970 | € 449.028 | € 466.980 |
+| Goeree-Overflakkee | € 31.122 | € 7.781 | € 112.041 | € 31.122 | € 24.898 | € 35.791 | € 7.781 | € 22.719 | € 929.952 | € 967.132 |
+| Goes | € 23.446 | € 5.862 | € 84.407 | € 23.446 | € 18.757 | € 26.963 | € 5.862 | € 17.116 | € 700.588 | € 728.597 |
+| Goirle | € 12.161 | € 3.040 | € 43.778 | € 12.161 | € 9.729 | € 13.985 | € 3.040 | € 8.877 | € 363.367 | € 377.894 |
+| Gooise Meren | € 24.678 | € 6.170 | € 88.842 | € 24.678 | € 19.743 | € 28.380 | € 6.170 | € 18.015 | € 737.396 | € 766.877 |
+| Gorinchem | € 23.577 | € 5.894 | € 84.876 | € 23.577 | € 18.861 | € 27.113 | € 5.894 | € 17.211 | € 704.483 | € 732.648 |
+| Gouda | € 41.698 | € 10.424 | € 150.112 | € 41.698 | € 33.358 | € 47.953 | € 10.424 | € 30.439 | € 1.245.951 | € 1.295.763 |
+| Groningen | € 111.979 | € 27.995 | € 403.123 | € 111.979 | € 89.583 | € 128.776 | € 27.995 | € 81.744 | € 3.345.972 | € 3.479.743 |
+| Gulpen-Wittem | € 8.862 | € 2.216 | € 31.904 | € 8.862 | € 7.090 | € 10.192 | € 2.216 | € 6.469 | € 264.807 | € 275.394 |
+| Haaksbergen | € 13.281 | € 3.320 | € 47.811 | € 13.281 | € 10.625 | € 15.273 | € 3.320 | € 9.695 | € 396.840 | € 412.706 |
+| Haarlem | € 83.796 | € 20.949 | € 301.667 | € 83.796 | € 67.037 | € 96.366 | € 20.949 | € 61.171 | € 2.503.871 | € 2.603.975 |
+| Haarlemmermeer | € 78.012 | € 19.503 | € 280.844 | € 78.012 | € 62.410 | € 89.714 | € 19.503 | € 56.949 | € 2.331.041 | € 2.424.236 |
+| Halderberge | € 19.543 | € 4.886 | € 70.355 | € 19.543 | € 15.634 | € 22.474 | € 4.886 | € 14.266 | € 583.953 | € 607.299 |
+| Hardenberg | € 36.528 | € 9.132 | € 131.501 | € 36.528 | € 29.222 | € 42.007 | € 9.132 | € 26.665 | € 1.091.473 | € 1.135.110 |
+| Harderwijk | € 27.403 | € 6.851 | € 98.651 | € 27.403 | € 21.922 | € 31.514 | € 6.851 | € 20.004 | € 818.816 | € 851.552 |
+| Hardinxveld-Giessendam | € 10.488 | € 2.622 | € 37.757 | € 10.488 | € 8.391 | € 12.061 | € 2.622 | € 7.656 | € 313.390 | € 325.919 |
+| Harlingen | € 10.710 | € 2.678 | € 38.557 | € 10.710 | € 8.568 | € 12.317 | € 2.678 | € 7.819 | € 320.031 | € 332.825 |
+| Hattem | € 6.434 | € 1.609 | € 23.163 | € 6.434 | € 5.147 | € 7.399 | € 1.609 | € 4.697 | € 192.257 | € 199.943 |
+| Heemskerk | € 22.409 | € 5.602 | € 80.673 | € 22.409 | € 17.927 | € 25.770 | € 5.602 | € 16.359 | € 669.592 | € 696.362 |
+| Heemstede | € 10.526 | € 2.631 | € 37.892 | € 10.526 | € 8.421 | € 12.105 | € 2.631 | € 7.684 | € 314.511 | € 327.085 |
+| Heerde | € 11.326 | € 2.831 | € 40.773 | € 11.326 | € 9.061 | € 13.025 | € 2.831 | € 8.268 | € 338.424 | € 351.954 |
+| Heerenveen | € 30.379 | € 7.595 | € 109.364 | € 30.379 | € 24.303 | € 34.936 | € 7.595 | € 22.177 | € 907.734 | € 944.025 |
+| Heerlen | € 69.902 | € 17.475 | € 251.646 | € 69.902 | € 55.921 | € 80.387 | € 17.475 | € 51.028 | € 2.088.690 | € 2.172.195 |
+| Heeze-Leende | € 7.200 | € 1.800 | € 25.919 | € 7.200 | € 5.760 | € 8.280 | € 1.800 | € 5.256 | € 215.129 | € 223.730 |
+| Heiloo | € 10.385 | € 2.596 | € 37.386 | € 10.385 | € 8.308 | € 11.943 | € 2.596 | € 7.581 | € 310.306 | € 322.712 |
+| Hellendoorn | € 20.684 | € 5.171 | € 74.461 | € 20.684 | € 16.547 | € 23.786 | € 5.171 | € 15.099 | € 618.034 | € 642.743 |
+| Helmond | € 61.782 | € 15.446 | € 222.416 | € 61.782 | € 49.426 | € 71.049 | € 15.446 | € 45.101 | € 1.846.075 | € 1.919.881 |
+| Hendrik-Ido-Ambacht | € 15.095 | € 3.774 | € 54.340 | € 15.095 | € 12.076 | € 17.359 | € 3.774 | € 11.019 | € 451.032 | € 469.065 |
+| Hengelo | € 45.083 | € 11.271 | € 162.298 | € 45.083 | € 36.066 | € 51.845 | € 11.271 | € 32.910 | € 1.347.089 | € 1.400.945 |
+| Het Hogeland | € 30.005 | € 7.501 | € 108.016 | € 30.005 | € 24.004 | € 34.505 | € 7.501 | € 21.903 | € 896.548 | € 932.392 |
+| Heumen | € 7.697 | € 1.924 | € 27.708 | € 7.697 | € 6.157 | € 8.851 | € 1.924 | € 5.619 | € 229.981 | € 239.176 |
+| Heusden | € 26.638 | € 6.659 | € 95.896 | € 26.638 | € 21.310 | € 30.633 | € 6.659 | € 19.445 | € 795.945 | € 827.766 |
+| Hillegom | € 12.912 | € 3.228 | € 46.485 | € 12.912 | € 10.330 | € 14.849 | € 3.228 | € 9.426 | € 385.831 | € 401.256 |
+| Hilvarenbeek | € 7.690 | € 1.922 | € 27.683 | € 7.690 | € 6.152 | € 8.843 | € 1.922 | € 5.614 | € 229.773 | € 238.959 |
+| Hilversum | € 49.700 | € 12.425 | € 178.921 | € 49.700 | € 39.760 | € 57.155 | € 12.425 | € 36.281 | € 1.485.069 | € 1.544.441 |
+| Hoeksche Waard | € 48.228 | € 12.057 | € 173.622 | € 48.228 | € 38.583 | € 55.463 | € 12.057 | € 35.207 | € 1.441.085 | € 1.498.699 |
+| Hof van Twente | € 19.634 | € 4.908 | € 70.681 | € 19.634 | € 15.707 | € 22.579 | € 4.908 | € 14.332 | € 586.658 | € 610.113 |
+| Hollands Kroon | € 28.798 | € 7.200 | € 103.673 | € 28.798 | € 23.038 | € 33.118 | € 7.200 | € 21.023 | € 860.500 | € 894.902 |
+| Hoogeveen | € 38.625 | € 9.656 | € 139.048 | € 38.625 | € 30.900 | € 44.418 | € 9.656 | € 28.196 | € 1.154.118 | € 1.200.260 |
+| Hoorn | € 42.731 | € 10.683 | € 153.832 | € 42.731 | € 34.185 | € 49.141 | € 10.683 | € 31.194 | € 1.276.822 | € 1.327.869 |
+| Horst aan de Maas | € 24.183 | € 6.046 | € 87.058 | € 24.183 | € 19.346 | € 27.810 | € 6.046 | € 17.653 | € 722.590 | € 751.479 |
+| Houten | € 20.573 | € 5.143 | € 74.062 | € 20.573 | € 16.458 | € 23.659 | € 5.143 | € 15.018 | € 614.723 | € 639.300 |
+| Huizen | € 22.035 | € 5.509 | € 79.324 | € 22.035 | € 17.628 | € 25.340 | € 5.509 | € 16.085 | € 658.403 | € 684.725 |
+| Hulst | € 18.167 | € 4.542 | € 65.401 | € 18.167 | € 14.534 | € 20.892 | € 4.542 | € 13.262 | € 542.838 | € 564.540 |
+| IJsselstein | € 17.253 | € 4.313 | € 62.111 | € 17.253 | € 13.803 | € 19.841 | € 4.313 | € 12.595 | € 515.531 | € 536.142 |
+| Kaag en Braassem | € 15.563 | € 3.891 | € 56.027 | € 15.563 | € 12.450 | € 17.898 | € 3.891 | € 11.361 | € 465.031 | € 483.623 |
+| Kampen | € 32.326 | € 8.082 | € 116.375 | € 32.326 | € 25.861 | € 37.175 | € 8.082 | € 23.598 | € 965.922 | € 1.004.540 |
+| Kapelle | € 7.261 | € 1.815 | € 26.140 | € 7.261 | € 5.809 | € 8.350 | € 1.815 | € 5.301 | € 216.968 | € 225.642 |
+| Katwijk | € 39.295 | € 9.824 | € 141.460 | € 39.295 | € 31.436 | € 45.189 | € 9.824 | € 28.685 | € 1.174.139 | € 1.221.080 |
+| Kerkrade | € 38.360 | € 9.590 | € 138.096 | € 38.360 | € 30.688 | € 44.114 | € 9.590 | € 28.003 | € 1.146.216 | € 1.192.042 |
+| Koggenland | € 11.589 | € 2.897 | € 41.720 | € 11.589 | € 9.271 | € 13.327 | € 2.897 | € 8.460 | € 346.280 | € 360.124 |
+| Krimpen aan den IJssel | € 17.522 | € 4.380 | € 63.077 | € 17.522 | € 14.017 | € 20.150 | € 4.380 | € 12.791 | € 523.550 | € 544.481 |
+| Krimpenerwaard | € 32.768 | € 8.192 | € 117.965 | € 32.768 | € 26.214 | € 37.683 | € 8.192 | € 23.921 | € 979.121 | € 1.018.266 |
+| Laarbeek | € 13.778 | € 3.445 | € 49.602 | € 13.778 | € 11.023 | € 15.845 | € 3.445 | € 10.058 | € 411.706 | € 428.165 |
+| Land van Cuijk | € 51.920 | € 12.980 | € 186.914 | € 51.920 | € 41.536 | € 59.709 | € 12.980 | € 37.902 | € 1.551.406 | € 1.613.431 |
+| Landgraaf | € 27.158 | € 6.790 | € 97.769 | € 27.158 | € 21.726 | € 31.232 | € 6.790 | € 19.825 | € 811.496 | € 843.939 |
+| Landsmeer | € 5.434 | € 1.358 | € 19.562 | € 5.434 | € 4.347 | € 6.249 | € 1.358 | € 3.967 | € 162.365 | € 168.856 |
+| Lansingerland | € 26.978 | € 6.744 | € 97.119 | € 26.978 | € 21.582 | € 31.024 | € 6.744 | € 19.694 | € 806.101 | € 838.329 |
+| Laren | € 4.962 | € 1.241 | € 17.865 | € 4.962 | € 3.970 | € 5.707 | € 1.241 | € 3.623 | € 148.278 | € 154.206 |
+| Leeuwarden | € 70.388 | € 17.597 | € 253.398 | € 70.388 | € 56.311 | € 80.947 | € 17.597 | € 51.384 | € 2.103.236 | € 2.187.323 |
+| Leiden | € 60.791 | € 15.198 | € 218.848 | € 60.791 | € 48.633 | € 69.910 | € 15.198 | € 44.377 | € 1.816.461 | € 1.889.083 |
+| Leiderdorp | € 12.741 | € 3.185 | € 45.868 | € 12.741 | € 10.193 | € 14.652 | € 3.185 | € 9.301 | € 380.714 | € 395.935 |
+| Leidschendam-Voorburg | € 38.436 | € 9.609 | € 138.370 | € 38.436 | € 30.749 | € 44.202 | € 9.609 | € 28.058 | € 1.148.491 | € 1.194.408 |
+| Lelystad | € 47.816 | € 11.954 | € 172.136 | € 47.816 | € 38.252 | € 54.988 | € 11.954 | € 34.905 | € 1.428.750 | € 1.485.871 |
+| Leudal | € 20.651 | € 5.163 | € 74.344 | € 20.651 | € 16.521 | € 23.749 | € 5.163 | € 15.075 | € 617.062 | € 641.732 |
+| Leusden | € 12.682 | € 3.170 | € 45.654 | € 12.682 | € 10.145 | € 14.584 | € 3.170 | € 9.258 | € 378.937 | € 394.087 |
+| Lingewaard | € 26.483 | € 6.621 | € 95.339 | € 26.483 | € 21.186 | € 30.455 | € 6.621 | € 19.333 | € 791.323 | € 822.960 |
+| Lisse | € 13.252 | € 3.313 | € 47.706 | € 13.252 | € 10.601 | € 15.240 | € 3.313 | € 9.674 | € 395.969 | € 411.800 |
+| Lochem | € 17.159 | € 4.290 | € 61.774 | € 17.159 | € 13.727 | € 19.733 | € 4.290 | € 12.526 | € 512.728 | € 533.227 |
+| Loon op Zand | € 14.337 | € 3.584 | € 51.612 | € 14.337 | € 11.469 | € 16.487 | € 3.584 | € 10.466 | € 428.389 | € 445.516 |
+| Lopik | € 8.378 | € 2.095 | € 30.161 | € 8.378 | € 6.702 | € 9.635 | € 2.095 | € 6.116 | € 250.341 | € 260.350 |
+| Losser | € 13.714 | € 3.428 | € 49.370 | € 13.714 | € 10.971 | € 15.771 | € 3.428 | € 10.011 | € 409.774 | € 426.156 |
+| Maasdriel | € 15.937 | € 3.984 | € 57.375 | € 15.937 | € 12.750 | € 18.328 | € 3.984 | € 11.634 | € 476.215 | € 495.254 |
+| Maasgouw | € 15.170 | € 3.792 | € 54.610 | € 15.170 | € 12.136 | € 17.445 | € 3.792 | € 11.074 | € 453.273 | € 471.394 |
+| Maashorst | € 34.113 | € 8.528 | € 122.806 | € 34.113 | € 27.290 | € 39.230 | € 8.528 | € 24.902 | € 1.019.308 | € 1.060.059 |
+| Maassluis | € 21.867 | € 5.467 | € 78.721 | € 21.867 | € 17.494 | € 25.147 | € 5.467 | € 15.963 | € 653.395 | € 679.518 |
+| Maastricht | € 75.963 | € 18.991 | € 273.467 | € 75.963 | € 60.771 | € 87.358 | € 18.991 | € 55.453 | € 2.269.812 | € 2.360.558 |
+| Medemblik | € 27.486 | € 6.871 | € 98.949 | € 27.486 | € 21.989 | € 31.609 | € 6.871 | € 20.065 | € 821.287 | € 854.122 |
+| Meerssen | € 10.665 | € 2.666 | € 38.393 | € 10.665 | € 8.532 | € 12.265 | € 2.666 | € 7.785 | € 318.669 | € 331.410 |
+| Meierijstad | € 47.745 | € 11.936 | € 171.883 | € 47.745 | € 38.196 | € 54.907 | € 11.936 | € 34.854 | € 1.426.647 | € 1.483.684 |
+| Meppel | € 19.341 | € 4.835 | € 69.626 | € 19.341 | € 15.472 | € 22.242 | € 4.835 | € 14.119 | € 577.904 | € 601.008 |
+| Middelburg | € 27.277 | € 6.819 | € 98.198 | € 27.277 | € 21.822 | € 31.369 | € 6.819 | € 19.912 | € 815.057 | € 847.643 |
+| Midden-Delfland | € 8.518 | € 2.129 | € 30.664 | € 8.518 | € 6.814 | € 9.795 | € 2.129 | € 6.218 | € 254.516 | € 264.692 |
+| Midden-Drenthe | € 17.724 | € 4.431 | € 63.807 | € 17.724 | € 14.179 | € 20.383 | € 4.431 | € 12.939 | € 529.603 | € 550.777 |
+| Midden-Groningen | € 41.074 | € 10.269 | € 147.868 | € 41.074 | € 32.859 | € 47.236 | € 10.269 | € 29.984 | € 1.227.319 | € 1.276.387 |
+| Moerdijk | € 22.056 | € 5.514 | € 79.401 | € 22.056 | € 17.645 | € 25.364 | € 5.514 | € 16.101 | € 659.037 | € 685.385 |
+| Molenlanden | € 24.084 | € 6.021 | € 86.703 | € 24.084 | € 19.267 | € 27.697 | € 6.021 | € 17.582 | € 719.648 | € 748.420 |
+| Montferland | € 23.997 | € 5.999 | € 86.390 | € 23.997 | € 19.198 | € 27.597 | € 5.999 | € 17.518 | € 717.049 | € 745.717 |
+| Montfoort | € 7.264 | € 1.816 | € 26.151 | € 7.264 | € 5.811 | € 8.354 | € 1.816 | € 5.303 | € 217.056 | € 225.733 |
+| Mook en Middelaar | € 3.398 | € 850 | € 12.234 | € 3.398 | € 2.719 | € 3.908 | € 850 | € 2.481 | € 101.544 | € 105.603 |
+| Neder-Betuwe | € 15.608 | € 3.902 | € 56.187 | € 15.608 | € 12.486 | € 17.949 | € 3.902 | € 11.394 | € 466.360 | € 485.005 |
+| Nederweert | € 10.838 | € 2.709 | € 39.015 | € 10.838 | € 8.670 | € 12.463 | € 2.709 | € 7.911 | € 323.830 | € 336.776 |
+| Nieuwegein | € 37.221 | € 9.305 | € 133.997 | € 37.221 | € 29.777 | € 42.805 | € 9.305 | € 27.172 | € 1.112.190 | € 1.156.655 |
+| Nieuwkoop | € 16.030 | € 4.008 | € 57.709 | € 16.030 | € 12.824 | € 18.435 | € 4.008 | € 11.702 | € 478.993 | € 498.143 |
+| Nijkerk | € 24.360 | € 6.090 | € 87.695 | € 24.360 | € 19.488 | € 28.014 | € 6.090 | € 17.783 | € 727.880 | € 756.980 |
+| Nijmegen | € 97.078 | € 24.270 | € 349.482 | € 97.078 | € 77.663 | € 111.640 | € 24.270 | € 70.867 | € 2.900.740 | € 3.016.711 |
+| Nissewaard | € 53.686 | € 13.421 | € 193.268 | € 53.686 | € 42.949 | € 61.739 | € 13.421 | € 39.191 | € 1.604.150 | € 1.668.283 |
+| Noardeast-Fryslân | € 30.495 | € 7.624 | € 109.783 | € 30.495 | € 24.396 | € 35.070 | € 7.624 | € 22.262 | € 911.213 | € 947.643 |
+| Noord-Beveland | € 4.064 | € 1.016 | € 14.632 | € 4.064 | € 3.252 | € 4.674 | € 1.016 | € 2.967 | € 121.446 | € 126.302 |
+| Noordenveld | € 16.076 | € 4.019 | € 57.874 | € 16.076 | € 12.861 | € 18.488 | € 4.019 | € 11.736 | € 480.361 | € 499.566 |
+| Noordoostpolder | € 26.504 | € 6.626 | € 95.415 | € 26.504 | € 21.203 | € 30.480 | € 6.626 | € 19.348 | € 791.959 | € 823.621 |
+| Noordwijk | € 23.578 | € 5.894 | € 84.881 | € 23.578 | € 18.862 | € 27.115 | € 5.894 | € 17.212 | € 704.520 | € 732.686 |
+| Nuenen, Gerwen en Nederwetten | € 10.207 | € 2.552 | € 36.744 | € 10.207 | € 8.165 | € 11.738 | € 2.552 | € 7.451 | € 304.981 | € 317.174 |
+| Nunspeet | € 16.603 | € 4.151 | € 59.771 | € 16.603 | € 13.282 | € 19.093 | € 4.151 | € 12.120 | € 496.105 | € 515.939 |
+| Oegstgeest | € 8.557 | € 2.139 | € 30.804 | € 8.557 | € 6.845 | € 9.840 | € 2.139 | € 6.246 | € 255.676 | € 265.898 |
+| Oirschot | € 10.126 | € 2.531 | € 36.453 | € 10.126 | € 8.101 | € 11.645 | € 2.531 | € 7.392 | € 302.564 | € 314.660 |
+| Oisterwijk | € 16.716 | € 4.179 | € 60.178 | € 16.716 | € 13.373 | € 19.224 | € 4.179 | € 12.203 | € 499.488 | € 519.457 |
+| Oldambt | € 28.801 | € 7.200 | € 103.685 | € 28.801 | € 23.041 | € 33.122 | € 7.200 | € 21.025 | € 860.598 | € 895.005 |
+| Oldebroek | € 16.186 | € 4.046 | € 58.268 | € 16.186 | € 12.948 | € 18.613 | € 4.046 | € 11.816 | € 483.633 | € 502.969 |
+| Oldenzaal | € 18.709 | € 4.677 | € 67.352 | € 18.709 | € 14.967 | € 21.515 | € 4.677 | € 13.657 | € 559.028 | € 581.378 |
+| Olst-Wijhe | € 9.934 | € 2.483 | € 35.762 | € 9.934 | € 7.947 | € 11.424 | € 2.483 | € 7.252 | € 296.830 | € 308.697 |
+| Ommen | € 10.410 | € 2.603 | € 37.477 | € 10.410 | € 8.328 | € 11.972 | € 2.603 | € 7.599 | € 311.062 | € 323.498 |
+| Oost Gelre | € 15.978 | € 3.995 | € 57.522 | € 15.978 | € 12.783 | € 18.375 | € 3.995 | € 11.664 | € 477.442 | € 496.530 |
+| Oosterhout | € 33.718 | € 8.430 | € 121.385 | € 33.718 | € 26.974 | € 38.776 | € 8.430 | € 24.614 | € 1.007.510 | € 1.047.790 |
+| Ooststellingwerf | € 15.990 | € 3.997 | € 57.563 | € 15.990 | € 12.792 | € 18.388 | € 3.997 | € 11.673 | € 477.782 | € 496.883 |
+| Oostzaan | € 5.173 | € 1.293 | € 18.622 | € 5.173 | € 4.138 | € 5.949 | € 1.293 | € 3.776 | € 154.564 | € 160.744 |
+| Opmeer | € 6.540 | € 1.635 | € 23.545 | € 6.540 | € 5.232 | € 7.521 | € 1.635 | € 4.774 | € 195.430 | € 203.243 |
+| Opsterland | € 16.910 | € 4.228 | € 60.877 | € 16.910 | € 13.528 | € 19.447 | € 4.228 | € 12.344 | € 505.283 | € 525.484 |
+| Oss | € 56.980 | € 14.245 | € 205.129 | € 56.980 | € 45.584 | € 65.527 | € 14.245 | € 41.596 | € 1.702.592 | € 1.770.661 |
+| Oude IJsselstreek | € 26.233 | € 6.558 | € 94.438 | € 26.233 | € 20.986 | € 30.168 | € 6.558 | € 19.150 | € 783.845 | € 815.183 |
+| Ouder-Amstel | € 6.078 | € 1.520 | € 21.881 | € 6.078 | € 4.863 | € 6.990 | € 1.520 | € 4.437 | € 181.619 | € 188.880 |
+| Oudewater | € 5.526 | € 1.382 | € 19.895 | € 5.526 | € 4.421 | € 6.355 | € 1.382 | € 4.034 | € 165.130 | € 171.732 |
+| Overbetuwe | € 24.864 | € 6.216 | € 89.511 | € 24.864 | € 19.891 | € 28.594 | € 6.216 | € 18.151 | € 742.951 | € 772.654 |
+| Papendrecht | € 18.139 | € 4.535 | € 65.300 | € 18.139 | € 14.511 | € 20.860 | € 4.535 | € 13.241 | € 541.997 | € 563.665 |
+| Peel en Maas | € 27.263 | € 6.816 | € 98.145 | € 27.263 | € 21.810 | € 31.352 | € 6.816 | € 19.902 | € 814.617 | € 847.185 |
+| Pekela | € 9.665 | € 2.416 | € 34.793 | € 9.665 | € 7.732 | € 11.115 | € 2.416 | € 7.055 | € 288.789 | € 300.335 |
+| Pijnacker-Nootdorp | € 23.476 | € 5.869 | € 84.512 | € 23.476 | € 18.780 | € 26.997 | € 5.869 | € 17.137 | € 701.461 | € 729.506 |
+| Purmerend | € 55.318 | € 13.830 | € 199.145 | € 55.318 | € 44.254 | € 63.616 | € 13.830 | € 40.382 | € 1.652.929 | € 1.719.012 |
+| Putten | € 14.994 | € 3.748 | € 53.977 | € 14.994 | € 11.995 | € 17.243 | € 3.748 | € 10.945 | € 448.017 | € 465.928 |
+| Raalte | € 20.910 | € 5.227 | € 75.276 | € 20.910 | € 16.728 | € 24.046 | € 5.227 | € 15.264 | € 624.798 | € 649.778 |
+| Reimerswaal | € 14.277 | € 3.569 | € 51.398 | € 14.277 | € 11.422 | € 16.419 | € 3.569 | € 10.422 | € 426.607 | € 443.663 |
+| Renkum | € 15.510 | € 3.877 | € 55.836 | € 15.510 | € 12.408 | € 17.836 | € 3.877 | € 11.322 | € 463.443 | € 481.972 |
+| Renswoude | € 2.740 | € 685 | € 9.863 | € 2.740 | € 2.192 | € 3.151 | € 685 | € 2.000 | € 81.868 | € 85.141 |
+| Reusel-De Mierden | € 7.385 | € 1.846 | € 26.585 | € 7.385 | € 5.908 | € 8.492 | € 1.846 | € 5.391 | € 220.659 | € 229.481 |
+| Rheden | € 27.173 | € 6.793 | € 97.822 | € 27.173 | € 21.738 | € 31.249 | € 6.793 | € 19.836 | € 811.936 | € 844.397 |
+| Rhenen | € 11.391 | € 2.848 | € 41.007 | € 11.391 | € 9.113 | € 13.099 | € 2.848 | € 8.315 | € 340.360 | € 353.968 |
+| Ridderkerk | € 31.311 | € 7.828 | € 112.721 | € 31.311 | € 25.049 | € 36.008 | € 7.828 | € 22.857 | € 935.601 | € 973.006 |
+| Rijssen-Holten | € 21.250 | € 5.313 | € 76.501 | € 21.250 | € 17.000 | € 24.438 | € 5.313 | € 15.513 | € 634.964 | € 660.350 |
+| Rijswijk | € 31.111 | € 7.778 | € 111.998 | € 31.111 | € 24.889 | € 35.777 | € 7.778 | € 22.711 | € 929.600 | € 966.765 |
+| Roerdalen | € 12.728 | € 3.182 | € 45.821 | € 12.728 | € 10.182 | € 14.637 | € 3.182 | € 9.291 | € 380.318 | € 395.523 |
+| Roermond | € 39.698 | € 9.924 | € 142.912 | € 39.698 | € 31.758 | € 45.653 | € 9.924 | € 28.979 | € 1.186.190 | € 1.233.614 |
+| Roosendaal | € 48.527 | € 12.132 | € 174.698 | € 48.527 | € 38.822 | € 55.806 | € 12.132 | € 35.425 | € 1.450.018 | € 1.507.989 |
+| Rotterdam | € 429.324 | € 107.331 | € 1.545.566 | € 429.324 | € 343.459 | € 493.723 | € 107.331 | € 313.407 | € 12.828.383 | € 13.341.258 |
+| Rozendaal | € 549 | € 137 | € 1.975 | € 549 | € 439 | € 631 | € 137 | € 400 | € 70.000 | € 72.892 |
+| Rucphen | € 17.385 | € 4.346 | € 62.585 | € 17.385 | € 13.908 | € 19.993 | € 4.346 | € 12.691 | € 519.466 | € 540.234 |
+| Schagen | € 25.052 | € 6.263 | € 90.186 | € 25.052 | € 20.041 | € 28.809 | € 6.263 | € 18.288 | € 748.551 | € 778.478 |
+| Scherpenzeel | € 5.671 | € 1.418 | € 20.416 | € 5.671 | € 4.537 | € 6.522 | € 1.418 | € 4.140 | € 169.455 | € 176.230 |
+| Schiedam | € 53.350 | € 13.337 | € 192.059 | € 53.350 | € 42.680 | € 61.352 | € 13.337 | € 38.945 | € 1.594.116 | € 1.657.848 |
+| Schiermonnikoog | € 469 | € 117 | € 1.687 | € 469 | € 375 | € 539 | € 117 | € 342 | € 87.500 | € 91.127 |
+| Schouwen-Duiveland | € 20.100 | € 5.025 | € 72.360 | € 20.100 | € 16.080 | € 23.115 | € 5.025 | € 14.673 | € 600.598 | € 624.609 |
+| 's-Gravenhage | € 321.536 | € 80.384 | € 1.157.529 | € 321.536 | € 257.229 | € 369.766 | € 80.384 | € 234.721 | € 9.607.630 | € 9.991.741 |
+| 's-Hertogenbosch | € 86.939 | € 21.735 | € 312.980 | € 86.939 | € 69.551 | € 99.980 | € 21.735 | € 63.465 | € 2.597.771 | € 2.701.629 |
+| Simpelveld | € 7.303 | € 1.826 | € 26.289 | € 7.303 | € 5.842 | € 8.398 | € 1.826 | € 5.331 | € 218.206 | € 226.930 |
+| Sint-Michielsgestel | € 14.884 | € 3.721 | € 53.581 | € 14.884 | € 11.907 | € 17.116 | € 3.721 | € 10.865 | € 444.732 | € 462.512 |
+| Sittard-Geleen | € 62.988 | € 15.747 | € 226.758 | € 62.988 | € 50.391 | € 72.437 | € 15.747 | € 45.981 | € 1.882.117 | € 1.957.364 |
+| Sliedrecht | € 16.479 | € 4.120 | € 59.323 | € 16.479 | € 13.183 | € 18.950 | € 4.120 | € 12.029 | € 492.387 | € 512.072 |
+| Sluis | € 14.520 | € 3.630 | € 52.271 | € 14.520 | € 11.616 | € 16.698 | € 3.630 | € 10.599 | € 433.857 | € 451.203 |
+| Smallingerland | € 35.218 | € 8.804 | € 126.784 | € 35.218 | € 28.174 | € 40.500 | € 8.804 | € 25.709 | € 1.052.318 | € 1.094.390 |
+| Soest | € 23.494 | € 5.873 | € 84.577 | € 23.494 | € 18.795 | € 27.018 | € 5.873 | € 17.150 | € 701.997 | € 730.063 |
+| Someren | € 12.227 | € 3.057 | € 44.016 | € 12.227 | € 9.781 | € 14.061 | € 3.057 | € 8.926 | € 365.340 | € 379.947 |
+| Son en Breugel | € 7.517 | € 1.879 | € 27.062 | € 7.517 | € 6.014 | € 8.645 | € 1.879 | € 5.488 | € 224.622 | € 233.602 |
+| Stadskanaal | € 24.271 | € 6.068 | € 87.375 | € 24.271 | € 19.417 | € 27.912 | € 6.068 | € 17.718 | € 725.224 | € 754.219 |
+| Staphorst | € 9.745 | € 2.436 | € 35.081 | € 9.745 | € 7.796 | € 11.206 | € 2.436 | € 7.114 | € 291.177 | € 302.819 |
+| Stede Broec | € 14.375 | € 3.594 | € 51.749 | € 14.375 | € 11.500 | € 16.531 | € 3.594 | € 10.494 | € 429.526 | € 446.698 |
+| Steenbergen | € 16.160 | € 4.040 | € 58.175 | € 16.160 | € 12.928 | € 18.584 | € 4.040 | € 11.797 | € 482.863 | € 502.167 |
+| Steenwijkerland | € 26.868 | € 6.717 | € 96.726 | € 26.868 | € 21.495 | € 30.899 | € 6.717 | € 19.614 | € 802.837 | € 834.934 |
+| Stein | € 16.833 | € 4.208 | € 60.598 | € 16.833 | € 13.466 | € 19.358 | € 4.208 | € 12.288 | € 502.969 | € 523.077 |
+| Stichtse Vecht | € 32.550 | € 8.137 | € 117.179 | € 32.550 | € 26.040 | € 37.432 | € 8.137 | € 23.761 | € 972.596 | € 1.011.480 |
+| Súdwest-Fryslân | € 53.075 | € 13.269 | € 191.068 | € 53.075 | € 42.460 | € 61.036 | € 13.269 | € 38.744 | € 1.585.890 | € 1.649.294 |
+| Terneuzen | € 36.578 | € 9.144 | € 131.680 | € 36.578 | € 29.262 | € 42.064 | € 9.144 | € 26.702 | € 1.092.956 | € 1.136.652 |
+| Terschelling | € 2.493 | € 623 | € 8.975 | € 2.493 | € 1.994 | € 2.867 | € 623 | € 1.820 | € 87.500 | € 91.021 |
+| Texel | € 7.850 | € 1.963 | € 28.260 | € 7.850 | € 6.280 | € 9.028 | € 1.963 | € 5.731 | € 234.564 | € 243.942 |
+| Teylingen | € 16.779 | € 4.195 | € 60.404 | € 16.779 | € 13.423 | € 19.296 | € 4.195 | € 12.248 | € 501.356 | € 521.400 |
+| Tholen | € 16.652 | € 4.163 | € 59.946 | € 16.652 | € 13.321 | € 19.149 | € 4.163 | € 12.156 | € 497.557 | € 517.449 |
+| Tiel | € 27.642 | € 6.910 | € 99.509 | € 27.642 | € 22.113 | € 31.788 | € 6.910 | € 20.178 | € 825.940 | € 858.961 |
+| Tilburg | € 135.205 | € 33.801 | € 486.740 | € 135.205 | € 108.164 | € 155.486 | € 33.801 | € 98.700 | € 4.039.997 | € 4.201.515 |
+| Tubbergen | € 10.956 | € 2.739 | € 39.441 | € 10.956 | € 8.765 | € 12.599 | € 2.739 | € 7.998 | € 327.367 | € 340.455 |
+| Twenterand | € 22.118 | € 5.530 | € 79.626 | € 22.118 | € 17.695 | € 25.436 | € 5.530 | € 16.146 | € 660.909 | € 687.332 |
+| Tynaarlo | € 14.737 | € 3.684 | € 53.054 | € 14.737 | € 11.790 | € 16.948 | € 3.684 | € 10.758 | € 440.356 | € 457.961 |
+| Tytsjerksteradiel | € 18.839 | € 4.710 | € 67.821 | € 18.839 | € 15.071 | € 21.665 | € 4.710 | € 13.753 | € 562.924 | € 585.429 |
+| Uitgeest | € 5.526 | € 1.381 | € 19.892 | € 5.526 | € 4.420 | € 6.354 | € 1.381 | € 4.034 | € 165.106 | € 171.706 |
+| Uithoorn | € 15.531 | € 3.883 | € 55.911 | € 15.531 | € 12.425 | € 17.860 | € 3.883 | € 11.337 | € 464.066 | € 482.619 |
+| Urk | € 11.574 | € 2.894 | € 41.667 | € 11.574 | € 9.259 | € 13.310 | € 2.894 | € 8.449 | € 345.838 | € 359.665 |
+| Utrecht | € 159.703 | € 39.926 | € 574.930 | € 159.703 | € 127.762 | € 183.658 | € 39.926 | € 116.583 | € 4.771.987 | € 4.962.770 |
+| Utrechtse Heuvelrug | € 21.646 | € 5.412 | € 77.926 | € 21.646 | € 17.317 | € 24.893 | € 5.412 | € 15.802 | € 646.796 | € 672.655 |
+| Vaals | € 7.335 | € 1.834 | € 26.407 | € 7.335 | € 5.868 | € 8.435 | € 1.834 | € 5.355 | € 219.178 | € 227.940 |
+| Valkenburg aan de Geul | € 10.325 | € 2.581 | € 37.169 | € 10.325 | € 8.260 | € 11.874 | € 2.581 | € 7.537 | € 308.509 | € 320.843 |
+| Valkenswaard | € 19.640 | € 4.910 | € 70.704 | € 19.640 | € 15.712 | € 22.586 | € 4.910 | € 14.337 | € 586.853 | € 610.316 |
+| Veendam | € 19.366 | € 4.842 | € 69.718 | € 19.366 | € 15.493 | € 22.271 | € 4.842 | € 14.137 | € 578.668 | € 601.803 |
+| Veenendaal | € 37.690 | € 9.423 | € 135.685 | € 37.690 | € 30.152 | € 43.344 | € 9.423 | € 27.514 | € 1.126.200 | € 1.171.225 |
+| Veere | € 10.537 | € 2.634 | € 37.934 | € 10.537 | € 8.430 | € 12.118 | € 2.634 | € 7.692 | € 314.860 | € 327.448 |
+| Veldhoven | € 23.187 | € 5.797 | € 83.472 | € 23.187 | € 18.549 | € 26.665 | € 5.797 | € 16.926 | € 692.826 | € 720.525 |
+| Velsen | € 39.364 | € 9.841 | € 141.712 | € 39.364 | € 31.491 | € 45.269 | € 9.841 | € 28.736 | € 1.176.223 | € 1.223.249 |
+| Venlo | € 72.734 | € 18.183 | € 261.841 | € 72.734 | € 58.187 | € 83.644 | € 18.183 | € 53.096 | € 2.173.310 | € 2.260.198 |
+| Venray | € 27.283 | € 6.821 | € 98.218 | € 27.283 | € 21.826 | € 31.375 | € 6.821 | € 19.916 | € 815.217 | € 847.809 |
+| Vijfheerenlanden | € 34.848 | € 8.712 | € 125.454 | € 34.848 | € 27.879 | € 40.076 | € 8.712 | € 25.439 | € 1.041.281 | € 1.082.911 |
+| Vlaardingen | € 50.772 | € 12.693 | € 182.779 | € 50.772 | € 40.618 | € 58.388 | € 12.693 | € 37.064 | € 1.517.088 | € 1.577.740 |
+| Vlieland | € 664 | € 166 | € 2.390 | € 664 | € 531 | € 764 | € 166 | € 485 | € 87.500 | € 91.116 |
+| Vlissingen | € 27.869 | € 6.967 | € 100.329 | € 27.869 | € 22.295 | € 32.050 | € 6.967 | € 20.345 | € 832.746 | € 866.038 |
+| Voerendaal | € 7.049 | € 1.762 | € 25.376 | € 7.049 | € 5.639 | € 8.106 | € 1.762 | € 5.146 | € 210.624 | € 219.045 |
+| Voorne aan Zee | € 40.353 | € 10.088 | € 145.271 | € 40.353 | € 32.282 | € 46.406 | € 10.088 | € 29.458 | € 1.205.768 | € 1.253.974 |
+| Voorschoten | € 10.462 | € 2.616 | € 37.665 | € 10.462 | € 8.370 | € 12.032 | € 2.616 | € 7.638 | € 312.623 | € 325.122 |
+| Voorst | € 13.339 | € 3.335 | € 48.021 | € 13.339 | € 10.671 | € 15.340 | € 3.335 | € 9.738 | € 398.581 | € 414.516 |
+| Vught | € 15.099 | € 3.775 | € 54.357 | € 15.099 | € 12.079 | € 17.364 | € 3.775 | € 11.022 | € 451.171 | € 469.208 |
+| Waadhoeke | € 29.067 | € 7.267 | € 104.640 | € 29.067 | € 23.253 | € 33.427 | € 7.267 | € 21.219 | € 868.522 | € 903.246 |
+| Waalre | € 7.015 | € 1.754 | € 25.254 | € 7.015 | € 5.612 | € 8.067 | € 1.754 | € 5.121 | € 209.612 | € 217.992 |
+| Waalwijk | € 32.389 | € 8.097 | € 116.599 | € 32.389 | € 25.911 | € 37.247 | € 8.097 | € 23.644 | € 967.785 | € 1.006.477 |
+| Waddinxveen | € 16.358 | € 4.090 | € 58.890 | € 16.358 | € 13.087 | € 18.812 | € 4.090 | € 11.942 | € 488.796 | € 508.338 |
+| Wageningen | € 17.165 | € 4.291 | € 61.793 | € 17.165 | € 13.732 | € 19.739 | € 4.291 | € 12.530 | € 512.886 | € 533.391 |
+| Wassenaar | € 11.590 | € 2.898 | € 41.726 | € 11.590 | € 9.272 | € 13.329 | € 2.898 | € 8.461 | € 346.328 | € 360.174 |
+| Waterland | € 8.278 | € 2.069 | € 29.800 | € 8.278 | € 6.622 | € 9.519 | € 2.069 | € 6.043 | € 247.342 | € 257.231 |
+| Weert | € 31.937 | € 7.984 | € 114.973 | € 31.937 | € 25.549 | € 36.727 | € 7.984 | € 23.314 | € 954.286 | € 992.438 |
+| West Betuwe | € 29.337 | € 7.334 | € 105.615 | € 29.337 | € 23.470 | € 33.738 | € 7.334 | € 21.416 | € 876.616 | € 911.663 |
+| West Maas en Waal | € 11.596 | € 2.899 | € 41.747 | € 11.596 | € 9.277 | € 13.336 | € 2.899 | € 8.465 | € 346.504 | € 360.357 |
+| Westerkwartier | € 34.290 | € 8.572 | € 123.443 | € 34.290 | € 27.432 | € 39.433 | € 8.572 | € 25.032 | € 1.024.594 | € 1.065.557 |
+| Westerveld | € 10.965 | € 2.741 | € 39.475 | € 10.965 | € 8.772 | € 12.610 | € 2.741 | € 8.005 | € 327.649 | € 340.749 |
+| Westervoort | € 8.993 | € 2.248 | € 32.376 | € 8.993 | € 7.195 | € 10.342 | € 2.248 | € 6.565 | € 268.723 | € 279.466 |
+| Westerwolde | € 18.227 | € 4.557 | € 65.619 | € 18.227 | € 14.582 | € 20.962 | € 4.557 | € 13.306 | € 544.643 | € 566.418 |
+| Westland | € 64.957 | € 16.239 | € 233.846 | € 64.957 | € 51.966 | € 74.701 | € 16.239 | € 47.419 | € 1.940.948 | € 2.018.546 |
+| Weststellingwerf | € 17.329 | € 4.332 | € 62.385 | € 17.329 | € 13.863 | € 19.928 | € 4.332 | € 12.650 | € 517.800 | € 538.501 |
+| Wierden | € 12.396 | € 3.099 | € 44.625 | € 12.396 | € 9.917 | € 14.255 | € 3.099 | € 9.049 | € 370.394 | € 385.202 |
+| Wijchen | € 22.913 | € 5.728 | € 82.486 | € 22.913 | € 18.330 | € 26.350 | € 5.728 | € 16.726 | € 684.647 | € 712.019 |
+| Wijdemeren | € 12.039 | € 3.010 | € 43.340 | € 12.039 | € 9.631 | € 13.845 | € 3.010 | € 8.788 | € 359.726 | € 374.108 |
+| Wijk bij Duurstede | € 11.467 | € 2.867 | € 41.282 | € 11.467 | € 9.174 | € 13.187 | € 2.867 | € 8.371 | € 342.649 | € 356.348 |
+| Winterswijk | € 18.488 | € 4.622 | € 66.555 | € 18.488 | € 14.790 | € 21.261 | € 4.622 | € 13.496 | € 552.416 | € 574.502 |
+| Woensdrecht | € 13.396 | € 3.349 | € 48.226 | € 13.396 | € 10.717 | € 15.406 | € 3.349 | € 9.779 | € 400.284 | € 416.287 |
+| Woerden | € 25.603 | € 6.401 | € 92.171 | € 25.603 | € 20.482 | € 29.444 | € 6.401 | € 18.690 | € 765.032 | € 795.618 |
+| Wormerland | € 9.085 | € 2.271 | € 32.705 | € 9.085 | € 7.268 | € 10.447 | € 2.271 | € 6.632 | € 271.455 | € 282.308 |
+| Woudenberg | € 6.758 | € 1.690 | € 24.330 | € 6.758 | € 5.407 | € 7.772 | € 1.690 | € 4.934 | € 201.944 | € 210.017 |
+| Zaanstad | € 94.210 | € 23.552 | € 339.155 | € 94.210 | € 75.368 | € 108.341 | € 23.552 | € 68.773 | € 2.815.028 | € 2.927.572 |
+| Zaltbommel | € 17.157 | € 4.289 | € 61.764 | € 17.157 | € 13.725 | € 19.730 | € 4.289 | € 12.524 | € 512.646 | € 533.141 |
+| Zandvoort | € 10.269 | € 2.567 | € 36.970 | € 10.269 | € 8.216 | € 11.810 | € 2.567 | € 7.497 | € 306.856 | € 319.124 |
+| Zeewolde | € 10.684 | € 2.671 | € 38.462 | € 10.684 | € 8.547 | € 12.286 | € 2.671 | € 7.799 | € 319.238 | € 332.001 |
+| Zeist | € 31.073 | € 7.768 | € 111.863 | € 31.073 | € 24.859 | € 35.734 | € 7.768 | € 22.683 | € 928.478 | € 965.599 |
+| Zevenaar | € 29.609 | € 7.402 | € 106.593 | € 29.609 | € 23.687 | € 34.051 | € 7.402 | € 21.615 | € 884.737 | € 920.108 |
+| Zoetermeer | € 66.732 | € 16.683 | € 240.236 | € 66.732 | € 53.386 | € 76.742 | € 16.683 | € 48.714 | € 1.993.985 | € 2.073.704 |
+| Zoeterwoude | € 4.175 | € 1.044 | € 15.029 | € 4.175 | € 3.340 | € 4.801 | € 1.044 | € 3.047 | € 124.739 | € 129.726 |
+| Zuidplas | € 22.956 | € 5.739 | € 82.642 | € 22.956 | € 18.365 | € 26.399 | € 5.739 | € 16.758 | € 685.937 | € 713.361 |
+| Zundert | € 13.478 | € 3.370 | € 48.522 | € 13.478 | € 10.783 | € 15.500 | € 3.370 | € 9.839 | € 402.735 | € 418.836 |
+| Zutphen | € 28.349 | € 7.087 | € 102.058 | € 28.349 | € 22.680 | € 32.602 | € 7.087 | € 20.695 | € 847.095 | € 880.962 |
+| Zwartewaterland | € 13.968 | € 3.492 | € 50.283 | € 13.968 | € 11.174 | € 16.063 | € 3.492 | € 10.196 | € 417.358 | € 434.044 |
+| Zwijndrecht | € 29.280 | € 7.320 | € 105.407 | € 29.280 | € 23.424 | € 33.672 | € 7.320 | € 21.374 | € 874.888 | € 909.865 |
+| Zwolle | € 65.495 | € 16.374 | € 235.781 | € 65.495 | € 52.396 | € 75.319 | € 16.374 | € 47.811 | € 1.957.012 | € 2.035.253 |
 
-| 2026 | Lokaal Sportakkoord | Brede Regeling Combinatiefuncties | Terugdringen Gezondheidsachterstanden | Kansrijke Start | Mentale Gezondheid | Aanpak overgewicht en obesitas | Valpreventie |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Aa en Hunze | € 12.908 | € 111.650 | € 25.815 | € 25.815 | € 0 | € 0 | € 63.247 |
-| Aalsmeer | € 16.957 | € 146.681 | € 33.915 | € 33.915 | € 0 | € 0 | € 83.091 |
-| Aalten | € 16.919 | € 146.346 | € 33.837 | € 33.837 | € 0 | € 0 | € 82.901 |
-| Achtkarspelen | € 19.322 | € 167.137 | € 38.645 | € 38.645 | € 0 | € 0 | € 94.679 |
-| Alblasserdam | € 12.606 | € 109.045 | € 25.213 | € 25.213 | € 0 | € 0 | € 61.771 |
-| Albrandswaard | € 11.828 | € 102.315 | € 23.657 | € 23.657 | € 0 | € 0 | € 57.959 |
-| Alkmaar | € 61.835 | € 534.874 | € 123.670 | € 123.670 | € 0 | € 0 | € 302.992 |
-| Almelo | € 49.632 | € 429.314 | € 99.263 | € 99.263 | € 0 | € 0 | € 243.195 |
-| Almere | € 111.879 | € 967.752 | € 223.758 | € 223.758 | € 0 | € 0 | € 548.206 |
-| Alphen aan den Rijn | € 60.375 | € 522.247 | € 120.751 | € 120.751 | € 0 | € 0 | € 295.840 |
-| Alphen-Chaam | € 5.331 | € 46.112 | € 10.662 | € 10.662 | € 0 | € 0 | € 26.121 |
-| Altena | € 35.748 | € 309.221 | € 71.496 | € 71.496 | € 0 | € 0 | € 175.166 |
-| Ameland | € 6.000 | € 20.000 | € 8.931 | € 8.580 | € 0 | € 0 | € 21.882 |
-| Amersfoort | € 74.542 | € 644.786 | € 149.083 | € 149.083 | € 0 | € 0 | € 365.254 |
-| Amstelveen | € 41.808 | € 361.643 | € 83.617 | € 83.617 | € 0 | € 0 | € 204.862 |
-| Amsterdam | € 485.894 | € 4.202.982 | € 971.788 | € 971.788 | € 0 | € 0 | € 2.380.880 |
-| Apeldoorn | € 94.089 | € 813.868 | € 188.178 | € 188.178 | € 0 | € 0 | € 461.035 |
-| Arnhem | € 97.448 | € 842.923 | € 194.896 | € 194.896 | € 0 | € 0 | € 477.494 |
-| Assen | € 36.344 | € 314.372 | € 72.687 | € 72.687 | € 0 | € 0 | € 178.084 |
-| Asten | € 10.189 | € 88.138 | € 20.379 | € 20.379 | € 0 | € 0 | € 49.928 |
-| Baarle-Nassau | € 4.345 | € 37.588 | € 8.691 | € 8.691 | € 0 | € 0 | € 21.293 |
-| Baarn | € 12.455 | € 107.736 | € 24.910 | € 24.910 | € 0 | € 0 | € 61.030 |
-| Barendrecht | € 22.905 | € 198.132 | € 45.811 | € 45.811 | € 0 | € 0 | € 112.236 |
-| Barneveld | € 31.898 | € 275.917 | € 63.796 | € 63.796 | € 0 | € 0 | € 156.300 |
-| Beek | € 9.533 | € 82.464 | € 19.067 | € 19.067 | € 0 | € 0 | € 46.714 |
-| Beekdaelen | € 21.599 | € 186.830 | € 43.198 | € 43.198 | € 0 | € 0 | € 105.834 |
-| Beesel | € 8.932 | € 77.259 | € 17.863 | € 17.863 | € 0 | € 0 | € 43.765 |
-| Berg en Dal | € 22.167 | € 191.742 | € 44.333 | € 44.333 | € 0 | € 0 | € 108.617 |
-| Bergeijk | € 10.027 | € 86.730 | € 20.053 | € 20.053 | € 0 | € 0 | € 49.130 |
-| Bergen (L.) | € 8.640 | € 74.737 | € 17.280 | € 17.280 | € 0 | € 0 | € 42.337 |
-| Bergen (NH.) | € 13.974 | € 120.873 | € 27.947 | € 27.947 | € 0 | € 0 | € 68.471 |
-| Bergen op Zoom | € 42.008 | € 363.372 | € 84.017 | € 84.017 | € 0 | € 0 | € 205.841 |
-| Berkelland | € 25.974 | € 224.673 | € 51.948 | € 51.948 | € 0 | € 0 | € 127.271 |
-| Bernheze | € 18.105 | € 156.609 | € 36.210 | € 36.210 | € 0 | € 0 | € 88.715 |
-| Best | € 14.923 | € 129.081 | € 29.845 | € 29.845 | € 0 | € 0 | € 73.121 |
-| Beuningen | € 14.023 | € 121.297 | € 28.046 | € 28.046 | € 0 | € 0 | € 68.712 |
-| Beverwijk | € 25.482 | € 220.420 | € 50.964 | € 50.964 | € 0 | € 0 | € 124.862 |
-| Bladel | € 11.431 | € 98.878 | € 22.862 | € 22.862 | € 0 | € 0 | € 56.012 |
-| Blaricum | € 4.806 | € 41.569 | € 9.611 | € 9.611 | € 0 | € 0 | € 23.548 |
-| Bloemendaal | € 8.116 | € 70.207 | € 16.233 | € 16.233 | € 0 | € 0 | € 39.770 |
-| Bodegraven-Reeuwijk | € 18.212 | € 157.535 | € 36.424 | € 36.424 | € 0 | € 0 | € 89.239 |
-| Boekel | € 6.118 | € 52.924 | € 12.237 | € 12.237 | € 0 | € 0 | € 29.980 |
-| Borger-Odoorn | € 15.692 | € 135.739 | € 31.385 | € 31.385 | € 0 | € 0 | € 76.893 |
-| Borne | € 11.769 | € 101.805 | € 23.539 | € 23.539 | € 0 | € 0 | € 57.670 |
-| Borsele | € 12.615 | € 109.122 | € 25.230 | € 25.230 | € 0 | € 0 | € 61.815 |
-| Boxtel | € 19.954 | € 172.602 | € 39.908 | € 39.908 | € 0 | € 0 | € 97.775 |
-| Breda | € 95.388 | € 825.104 | € 190.776 | € 190.776 | € 0 | € 0 | € 467.400 |
-| Bronckhorst | € 20.526 | € 177.547 | € 41.051 | € 41.051 | € 0 | € 0 | € 100.576 |
-| Brummen | € 12.326 | € 106.622 | € 24.653 | € 24.653 | € 0 | € 0 | € 60.399 |
-| Brunssum | € 21.295 | € 184.203 | € 42.590 | € 42.590 | € 0 | € 0 | € 104.346 |
-| Bunnik | € 5.985 | € 51.769 | € 11.970 | € 11.970 | € 0 | € 0 | € 29.326 |
-| Bunschoten | € 13.196 | € 114.144 | € 26.392 | € 26.392 | € 0 | € 0 | € 64.659 |
-| Buren | € 16.633 | € 143.876 | € 33.266 | € 33.266 | € 0 | € 0 | € 81.502 |
-| Capelle aan den IJssel | € 40.041 | € 346.354 | € 80.082 | € 80.082 | € 0 | € 0 | € 196.200 |
-| Castricum | € 15.458 | € 133.708 | € 30.915 | € 30.915 | € 0 | € 0 | € 75.742 |
-| Coevorden | € 22.253 | € 192.491 | € 44.507 | € 44.507 | € 0 | € 0 | € 109.041 |
-| Cranendonck | € 12.816 | € 110.856 | € 25.631 | € 25.631 | € 0 | € 0 | € 62.797 |
-| Culemborg | € 15.882 | € 137.380 | € 31.764 | € 31.764 | € 0 | € 0 | € 77.822 |
-| Dalfsen | € 15.775 | € 136.451 | € 31.549 | € 31.549 | € 0 | € 0 | € 77.296 |
-| Dantumadiel | € 13.242 | € 114.547 | € 26.485 | € 26.485 | € 0 | € 0 | € 64.888 |
-| De Bilt | € 18.831 | € 162.885 | € 37.661 | € 37.661 | € 0 | € 0 | € 92.270 |
-| De Fryske Marren | € 30.150 | € 260.798 | € 60.300 | € 60.300 | € 0 | € 0 | € 147.735 |
-| De Ronde Venen | € 22.364 | € 193.449 | € 44.728 | € 44.728 | € 0 | € 0 | € 109.584 |
-| De Wolden | € 13.251 | € 114.623 | € 26.502 | € 26.502 | € 0 | € 0 | € 64.931 |
-| Delft | € 51.921 | € 449.116 | € 103.842 | € 103.842 | € 0 | € 0 | € 254.413 |
-| Den Helder | € 38.558 | € 333.530 | € 77.117 | € 77.117 | € 0 | € 0 | € 188.936 |
-| Deurne | € 20.209 | € 174.809 | € 40.418 | € 40.418 | € 0 | € 0 | € 99.025 |
-| Deventer | € 56.423 | € 488.055 | € 112.845 | € 112.845 | € 0 | € 0 | € 276.471 |
-| Diemen | € 13.143 | € 113.685 | € 26.286 | € 26.286 | € 0 | € 0 | € 64.400 |
-| Dijk en Waard | € 45.185 | € 390.849 | € 90.370 | € 90.370 | € 0 | € 0 | € 221.406 |
-| Dinkelland | € 13.141 | € 113.672 | € 26.283 | € 26.283 | € 0 | € 0 | € 64.392 |
-| Doesburg | € 7.418 | € 64.164 | € 14.836 | € 14.836 | € 0 | € 0 | € 36.347 |
-| Doetinchem | € 33.866 | € 292.940 | € 67.732 | € 67.732 | € 0 | € 0 | € 165.943 |
-| Dongen | € 15.241 | € 131.835 | € 30.482 | € 30.482 | € 0 | € 0 | € 74.681 |
-| Dordrecht | € 74.561 | € 644.955 | € 149.123 | € 149.123 | € 0 | € 0 | € 365.350 |
-| Drechterland | € 11.257 | € 97.371 | € 22.514 | € 22.514 | € 0 | € 0 | € 55.158 |
-| Drimmelen | € 16.537 | € 143.042 | € 33.073 | € 33.073 | € 0 | € 0 | € 81.030 |
-| Dronten | € 21.931 | € 189.705 | € 43.863 | € 43.863 | € 0 | € 0 | € 107.463 |
-| Druten | € 11.054 | € 95.616 | € 22.108 | € 22.108 | € 0 | € 0 | € 54.164 |
-| Duiven | € 13.558 | € 117.272 | € 27.115 | € 27.115 | € 0 | € 0 | € 66.432 |
-| Echt-Susteren | € 21.853 | € 189.028 | € 43.706 | € 43.706 | € 0 | € 0 | € 107.079 |
-| Edam-Volendam | € 21.528 | € 186.218 | € 43.056 | € 43.056 | € 0 | € 0 | € 105.488 |
-| Ede | € 61.712 | € 533.812 | € 123.425 | € 123.425 | € 0 | € 0 | € 302.390 |
-| Eemnes | € 3.952 | € 34.187 | € 7.904 | € 7.904 | € 0 | € 0 | € 19.366 |
-| Eemsdelta | € 31.408 | € 271.678 | € 62.816 | € 62.816 | € 0 | € 0 | € 153.898 |
-| Eersel | € 9.647 | € 83.443 | € 19.293 | € 19.293 | € 0 | € 0 | € 47.268 |
-| Eijsden-Margraten | € 12.929 | € 111.839 | € 25.859 | € 25.859 | € 0 | € 0 | € 63.354 |
-| Eindhoven | € 135.311 | € 1.170.440 | € 270.622 | € 270.622 | € 0 | € 0 | € 663.024 |
-| Elburg | € 14.273 | € 123.460 | € 28.546 | € 28.546 | € 0 | € 0 | € 69.937 |
-| Emmen | € 76.828 | € 664.561 | € 153.656 | € 153.656 | € 0 | € 0 | € 376.457 |
-| Enkhuizen | € 11.613 | € 100.455 | € 23.227 | € 23.227 | € 0 | € 0 | € 56.905 |
-| Enschede | € 100.680 | € 870.882 | € 201.360 | € 201.360 | € 0 | € 0 | € 493.332 |
-| Epe | € 20.578 | € 177.997 | € 41.155 | € 41.155 | € 0 | € 0 | € 100.831 |
-| Ermelo | € 14.050 | € 121.531 | € 28.100 | € 28.100 | € 0 | € 0 | € 68.844 |
-| Etten-Leur | € 25.179 | € 217.799 | € 50.358 | € 50.358 | € 0 | € 0 | € 123.377 |
-| Geertruidenberg | € 13.627 | € 117.874 | € 27.254 | € 27.254 | € 0 | € 0 | € 66.773 |
-| Geldrop-Mierlo | € 22.959 | € 198.597 | € 45.918 | € 45.918 | € 0 | € 0 | € 112.500 |
-| Gemert-Bakel | € 18.883 | € 163.341 | € 37.767 | € 37.767 | € 0 | € 0 | € 92.529 |
-| Gennep | € 9.939 | € 85.975 | € 19.879 | € 19.879 | € 0 | € 0 | € 48.702 |
-| Gilze en Rijen | € 15.021 | € 129.931 | € 30.042 | € 30.042 | € 0 | € 0 | € 73.602 |
-| Goeree-Overflakkee | € 31.109 | € 269.091 | € 62.217 | € 62.217 | € 0 | € 0 | € 152.433 |
-| Goes | € 23.436 | € 202.722 | € 46.872 | € 46.872 | € 0 | € 0 | € 114.837 |
-| Goirle | € 12.155 | € 105.144 | € 24.311 | € 24.311 | € 0 | € 0 | € 59.561 |
-| Gooise Meren | € 24.667 | € 213.373 | € 49.335 | € 49.335 | € 0 | € 0 | € 120.870 |
-| Gorinchem | € 23.566 | € 203.849 | € 47.133 | € 47.133 | € 0 | € 0 | € 115.475 |
-| Gouda | € 41.680 | € 360.528 | € 83.359 | € 83.359 | € 0 | € 0 | € 204.230 |
-| Groningen | € 111.929 | € 968.189 | € 223.859 | € 223.859 | € 0 | € 0 | € 548.454 |
-| Gulpen-Wittem | € 8.858 | € 76.624 | € 17.717 | € 17.717 | € 0 | € 0 | € 43.406 |
-| Haaksbergen | € 13.275 | € 114.829 | € 26.550 | € 26.550 | € 0 | € 0 | € 65.048 |
-| Haarlem | € 83.759 | € 724.519 | € 167.519 | € 167.519 | € 0 | € 0 | € 410.421 |
-| Haarlemmermeer | € 77.978 | € 674.509 | € 155.956 | € 155.956 | € 0 | € 0 | € 382.092 |
-| Halderberge | € 19.534 | € 168.972 | € 39.069 | € 39.069 | € 0 | € 0 | € 95.718 |
-| Hardenberg | € 36.512 | € 315.828 | € 73.024 | € 73.024 | € 0 | € 0 | € 178.909 |
-| Harderwijk | € 27.391 | € 236.932 | € 54.782 | € 54.782 | € 0 | € 0 | € 134.216 |
-| Hardinxveld-Giessendam | € 10.484 | € 90.682 | € 20.967 | € 20.967 | € 0 | € 0 | € 51.369 |
-| Harlingen | € 10.706 | € 92.604 | € 21.411 | € 21.411 | € 0 | € 0 | € 52.458 |
-| Hattem | € 6.431 | € 55.631 | € 12.863 | € 12.863 | € 0 | € 0 | € 31.514 |
-| Heemskerk | € 22.399 | € 193.753 | € 44.798 | € 44.798 | € 0 | € 0 | € 109.756 |
-| Heemstede | € 10.521 | € 91.007 | € 21.042 | € 21.042 | € 0 | € 0 | € 51.553 |
-| Heerde | € 11.321 | € 97.926 | € 22.642 | € 22.642 | € 0 | € 0 | € 55.473 |
-| Heerenveen | € 30.366 | € 262.662 | € 60.731 | € 60.731 | € 0 | € 0 | € 148.791 |
-| Heerlen | € 69.871 | € 604.382 | € 139.742 | € 139.742 | € 0 | € 0 | € 342.367 |
-| Heeze-Leende | € 7.196 | € 62.250 | € 14.393 | € 14.393 | € 0 | € 0 | € 35.263 |
-| Heiloo | € 10.380 | € 89.790 | € 20.761 | € 20.761 | € 0 | € 0 | € 50.864 |
-| Hellendoorn | € 20.674 | € 178.834 | € 41.349 | € 41.349 | € 0 | € 0 | € 101.305 |
-| Helmond | € 61.755 | € 534.180 | € 123.510 | € 123.510 | € 0 | € 0 | € 302.599 |
-| Hendrik-Ido-Ambacht | € 15.088 | € 130.511 | € 30.176 | € 30.176 | € 0 | € 0 | € 73.931 |
-| Hengelo | € 45.063 | € 389.793 | € 90.126 | € 90.126 | € 0 | € 0 | € 220.808 |
-| Het Hogeland | € 29.991 | € 259.425 | € 59.983 | € 59.983 | € 0 | € 0 | € 146.957 |
-| Heumen | € 7.693 | € 66.547 | € 15.387 | € 15.387 | € 0 | € 0 | € 37.697 |
-| Heusden | € 26.626 | € 230.314 | € 53.252 | € 53.252 | € 0 | € 0 | € 130.467 |
-| Hillegom | € 12.907 | € 111.644 | € 25.814 | € 25.814 | € 0 | € 0 | € 63.243 |
-| Hilvarenbeek | € 7.686 | € 66.487 | € 15.373 | € 15.373 | € 0 | € 0 | € 37.663 |
-| Hilversum | € 49.678 | € 429.719 | € 99.357 | € 99.357 | € 0 | € 0 | € 243.425 |
-| Hoeksche Waard | € 48.207 | € 416.992 | € 96.414 | € 96.414 | € 0 | € 0 | € 236.215 |
-| Hof van Twente | € 19.625 | € 169.755 | € 39.250 | € 39.250 | € 0 | € 0 | € 96.162 |
-| Hollands Kroon | € 28.785 | € 248.994 | € 57.571 | € 57.571 | € 0 | € 0 | € 141.049 |
-| Hoogeveen | € 38.608 | € 333.955 | € 77.215 | € 77.215 | € 0 | € 0 | € 189.177 |
-| Hoorn | € 42.712 | € 369.461 | € 85.424 | € 85.424 | € 0 | € 0 | € 209.290 |
-| Horst aan de Maas | € 24.172 | € 209.088 | € 48.344 | € 48.344 | € 0 | € 0 | € 118.443 |
-| Houten | € 20.564 | € 177.876 | € 41.127 | € 41.127 | € 0 | € 0 | € 100.762 |
-| Huizen | € 22.025 | € 190.515 | € 44.050 | € 44.050 | € 0 | € 0 | € 107.922 |
-| Hulst | € 18.159 | € 157.075 | € 36.318 | € 36.318 | € 0 | € 0 | € 88.979 |
-| IJsselstein | € 17.246 | € 149.174 | € 34.491 | € 34.491 | € 0 | € 0 | € 84.503 |
-| Kaag en Braassem | € 15.556 | € 134.561 | € 31.112 | € 31.112 | € 0 | € 0 | € 76.225 |
-| Kampen | € 32.312 | € 279.499 | € 64.624 | € 64.624 | € 0 | € 0 | € 158.329 |
-| Kapelle | € 7.258 | € 62.782 | € 14.516 | € 14.516 | € 0 | € 0 | € 35.564 |
-| Katwijk | € 39.277 | € 339.748 | € 78.555 | € 78.555 | € 0 | € 0 | € 192.459 |
-| Kerkrade | € 38.343 | € 331.669 | € 76.686 | € 76.686 | € 0 | € 0 | € 187.882 |
-| Koggenland | € 11.584 | € 100.199 | € 23.167 | € 23.167 | € 0 | € 0 | € 56.760 |
-| Krimpen aan den IJssel | € 17.514 | € 151.494 | € 35.028 | € 35.028 | € 0 | € 0 | € 85.818 |
-| Krimpenerwaard | € 32.754 | € 283.318 | € 65.507 | € 65.507 | € 0 | € 0 | € 160.492 |
-| Laarbeek | € 13.772 | € 119.131 | € 27.545 | € 27.545 | € 0 | € 0 | € 67.485 |
-| Land van Cuijk | € 51.898 | € 448.914 | € 103.795 | € 103.795 | € 0 | € 0 | € 254.298 |
-| Landgraaf | € 27.146 | € 234.814 | € 54.292 | € 54.292 | € 0 | € 0 | € 133.016 |
-| Landsmeer | € 5.431 | € 46.982 | € 10.863 | € 10.863 | € 0 | € 0 | € 26.614 |
-| Lansingerland | € 26.966 | € 233.253 | € 53.931 | € 53.931 | € 0 | € 0 | € 132.132 |
-| Laren | € 4.960 | € 42.906 | € 9.920 | € 9.920 | € 0 | € 0 | € 24.305 |
-| Leeuwarden | € 70.357 | € 608.592 | € 140.715 | € 140.715 | € 0 | € 0 | € 344.751 |
-| Leiden | € 60.764 | € 525.610 | € 121.528 | € 121.528 | € 0 | € 0 | € 297.745 |
-| Leiderdorp | € 12.736 | € 110.163 | € 25.471 | € 25.471 | € 0 | € 0 | € 62.405 |
-| Leidschendam-Voorburg | € 38.419 | € 332.327 | € 76.839 | € 76.839 | € 0 | € 0 | € 188.255 |
-| Lelystad | € 47.795 | € 413.423 | € 95.589 | € 95.589 | € 0 | € 0 | € 234.193 |
-| Leudal | € 20.642 | € 178.553 | € 41.284 | € 41.284 | € 0 | € 0 | € 101.145 |
-| Leusden | € 12.676 | € 109.649 | € 25.352 | € 25.352 | € 0 | € 0 | € 62.113 |
-| Lingewaard | € 26.471 | € 228.977 | € 52.943 | € 52.943 | € 0 | € 0 | € 129.709 |
-| Lisse | € 13.246 | € 114.577 | € 26.492 | € 26.492 | € 0 | € 0 | € 64.905 |
-| Lochem | € 17.152 | € 148.363 | € 34.304 | € 34.304 | € 0 | € 0 | € 84.044 |
-| Loon op Zand | € 14.330 | € 123.959 | € 28.661 | € 28.661 | € 0 | € 0 | € 70.219 |
-| Lopik | € 8.374 | € 72.439 | € 16.749 | € 16.749 | € 0 | € 0 | € 41.035 |
-| Losser | € 13.708 | € 118.572 | € 27.415 | € 27.415 | € 0 | € 0 | € 67.168 |
-| Maasdriel | € 15.930 | € 137.797 | € 31.861 | € 31.861 | € 0 | € 0 | € 78.059 |
-| Maasgouw | € 15.163 | € 131.159 | € 30.326 | € 30.326 | € 0 | € 0 | € 74.298 |
-| Maashorst | € 34.098 | € 294.946 | € 68.196 | € 68.196 | € 0 | € 0 | € 167.079 |
-| Maassluis | € 21.857 | € 189.066 | € 43.715 | € 43.715 | € 0 | € 0 | € 107.101 |
-| Maastricht | € 75.930 | € 656.792 | € 151.859 | € 151.859 | € 0 | € 0 | € 372.055 |
-| Medemblik | € 27.474 | € 237.647 | € 54.947 | € 54.947 | € 0 | € 0 | € 134.621 |
-| Meerssen | € 10.660 | € 92.210 | € 21.320 | € 21.320 | € 0 | € 0 | € 52.235 |
-| Meierijstad | € 47.724 | € 412.814 | € 95.448 | € 95.448 | € 0 | € 0 | € 233.848 |
-| Meppel | € 19.332 | € 167.222 | € 38.664 | € 38.664 | € 0 | € 0 | € 94.727 |
-| Middelburg | € 27.265 | € 235.845 | € 54.531 | € 54.531 | € 0 | € 0 | € 133.600 |
-| Midden-Delfland | € 8.514 | € 73.647 | € 17.028 | € 17.028 | € 0 | € 0 | € 41.719 |
-| Midden-Drenthe | € 17.716 | € 153.246 | € 35.433 | € 35.433 | € 0 | € 0 | € 86.810 |
-| Midden-Groningen | € 41.056 | € 355.137 | € 82.112 | € 82.112 | € 0 | € 0 | € 201.176 |
-| Moerdijk | € 22.046 | € 190.699 | € 44.092 | € 44.092 | € 0 | € 0 | € 108.026 |
-| Molenlanden | € 24.074 | € 208.237 | € 48.147 | € 48.147 | € 0 | € 0 | € 117.961 |
-| Montferland | € 23.987 | € 207.485 | € 47.973 | € 47.973 | € 0 | € 0 | € 117.535 |
-| Montfoort | € 7.261 | € 62.807 | € 14.522 | € 14.522 | € 0 | € 0 | € 35.579 |
-| Mook en Middelaar | € 3.397 | € 29.383 | € 6.794 | € 6.794 | € 0 | € 0 | € 16.644 |
-| Neder-Betuwe | € 15.601 | € 134.946 | € 31.201 | € 31.201 | € 0 | € 0 | € 76.443 |
-| Nederweert | € 10.833 | € 93.703 | € 21.665 | € 21.665 | € 0 | € 0 | € 53.080 |
-| Nieuwegein | € 37.205 | € 321.823 | € 74.410 | € 74.410 | € 0 | € 0 | € 182.304 |
-| Nieuwkoop | € 16.023 | € 138.601 | € 32.047 | € 32.047 | € 0 | € 0 | € 78.514 |
-| Nijkerk | € 24.349 | € 210.619 | € 48.698 | € 48.698 | € 0 | € 0 | € 119.310 |
-| Nijmegen | € 97.035 | € 839.357 | € 194.071 | € 194.071 | € 0 | € 0 | € 475.474 |
-| Nissewaard | € 53.662 | € 464.176 | € 107.324 | € 107.324 | € 0 | € 0 | € 262.944 |
-| Noardeast-Fryslân | € 30.482 | € 263.668 | € 60.964 | € 60.964 | € 0 | € 0 | € 149.361 |
-| Noord-Beveland | € 4.063 | € 35.142 | € 8.125 | € 8.125 | € 0 | € 0 | € 19.907 |
-| Noordenveld | € 16.069 | € 138.997 | € 32.138 | € 32.138 | € 0 | € 0 | € 78.738 |
-| Noordoostpolder | € 26.493 | € 229.161 | € 52.985 | € 52.985 | € 0 | € 0 | € 129.814 |
-| Noordwijk | € 23.568 | € 203.860 | € 47.135 | € 47.135 | € 0 | € 0 | € 115.481 |
-| Nuenen, Gerwen en Nederwetten | € 10.202 | € 88.249 | € 20.404 | € 20.404 | € 0 | € 0 | € 49.991 |
-| Nunspeet | € 16.596 | € 143.553 | € 33.191 | € 33.191 | € 0 | € 0 | € 81.319 |
-| Oegstgeest | € 8.553 | € 73.982 | € 17.106 | € 17.106 | € 0 | € 0 | € 41.909 |
-| Oirschot | € 10.121 | € 87.550 | € 20.243 | € 20.243 | € 0 | € 0 | € 49.595 |
-| Oisterwijk | € 16.709 | € 144.532 | € 33.418 | € 33.418 | € 0 | € 0 | € 81.873 |
-| Oldambt | € 28.789 | € 249.022 | € 57.577 | € 57.577 | € 0 | € 0 | € 141.065 |
-| Oldebroek | € 16.178 | € 139.944 | € 32.357 | € 32.357 | € 0 | € 0 | € 79.275 |
-| Oldenzaal | € 18.701 | € 161.760 | € 37.401 | € 37.401 | € 0 | € 0 | € 91.633 |
-| Olst-Wijhe | € 9.930 | € 85.891 | € 19.859 | € 19.859 | € 0 | € 0 | € 48.655 |
-| Ommen | € 10.406 | € 90.009 | € 20.811 | € 20.811 | € 0 | € 0 | € 50.988 |
-| Oost Gelre | € 15.971 | € 138.152 | € 31.943 | € 31.943 | € 0 | € 0 | € 78.260 |
-| Oosterhout | € 33.703 | € 291.533 | € 67.406 | € 67.406 | € 0 | € 0 | € 165.146 |
-| Ooststellingwerf | € 15.983 | € 138.251 | € 31.965 | € 31.965 | € 0 | € 0 | € 78.315 |
-| Oostzaan | € 5.170 | € 44.725 | € 10.341 | € 10.341 | € 0 | € 0 | € 25.335 |
-| Opmeer | € 6.538 | € 56.550 | € 13.075 | € 13.075 | € 0 | € 0 | € 32.034 |
-| Opsterland | € 16.903 | € 146.208 | € 33.805 | € 33.805 | € 0 | € 0 | € 82.823 |
-| Oss | € 56.955 | € 492.661 | € 113.910 | € 113.910 | € 0 | € 0 | € 279.080 |
-| Oude IJsselstreek | € 26.221 | € 226.813 | € 52.442 | € 52.442 | € 0 | € 0 | € 128.484 |
-| Ouder-Amstel | € 6.076 | € 52.553 | € 12.151 | € 12.151 | € 0 | € 0 | € 29.770 |
-| Oudewater | € 5.524 | € 47.782 | € 11.048 | € 11.048 | € 0 | € 0 | € 27.067 |
-| Overbetuwe | € 24.853 | € 214.980 | € 49.706 | € 49.706 | € 0 | € 0 | € 121.781 |
-| Papendrecht | € 18.131 | € 156.832 | € 36.262 | € 36.262 | € 0 | € 0 | € 88.841 |
-| Peel en Maas | € 27.251 | € 235.717 | € 54.501 | € 54.501 | € 0 | € 0 | € 133.528 |
-| Pekela | € 9.661 | € 83.564 | € 19.321 | € 19.321 | € 0 | € 0 | € 47.337 |
-| Pijnacker-Nootdorp | € 23.465 | € 202.975 | € 46.931 | € 46.931 | € 0 | € 0 | € 114.980 |
-| Purmerend | € 55.294 | € 478.291 | € 110.587 | € 110.587 | € 0 | € 0 | € 270.939 |
-| Putten | € 14.987 | € 129.638 | € 29.974 | € 29.974 | € 0 | € 0 | € 73.437 |
-| Raalte | € 20.901 | € 180.791 | € 41.801 | € 41.801 | € 0 | € 0 | € 102.414 |
-| Reimerswaal | € 14.271 | € 123.443 | € 28.542 | € 28.542 | € 0 | € 0 | € 69.927 |
-| Renkum | € 15.503 | € 134.102 | € 31.006 | € 31.006 | € 0 | € 0 | € 75.965 |
-| Renswoude | € 2.739 | € 23.689 | € 5.477 | € 5.477 | € 0 | € 0 | € 13.419 |
-| Reusel-De Mierden | € 7.381 | € 63.850 | € 14.763 | € 14.763 | € 0 | € 0 | € 36.169 |
-| Rheden | € 27.161 | € 234.941 | € 54.322 | € 54.322 | € 0 | € 0 | € 133.088 |
-| Rhenen | € 11.386 | € 98.486 | € 22.771 | € 22.771 | € 0 | € 0 | € 55.790 |
-| Ridderkerk | € 31.298 | € 270.725 | € 62.595 | € 62.595 | € 0 | € 0 | € 153.359 |
-| Rijssen-Holten | € 21.241 | € 183.733 | € 42.482 | € 42.482 | € 0 | € 0 | € 104.080 |
-| Rijswijk | € 31.097 | € 268.989 | € 62.194 | € 62.194 | € 0 | € 0 | € 152.375 |
-| Roerdalen | € 12.722 | € 110.049 | € 25.445 | € 25.445 | € 0 | € 0 | € 62.340 |
-| Roermond | € 39.680 | € 343.236 | € 79.361 | € 79.361 | € 0 | € 0 | € 194.434 |
-| Roosendaal | € 48.506 | € 419.577 | € 97.012 | € 97.012 | € 0 | € 0 | € 237.679 |
-| Rotterdam | € 429.135 | € 3.712.015 | € 858.269 | € 858.269 | € 0 | € 0 | € 2.102.760 |
-| Rozendaal | € 2.977 | € 25.763 | € 5.959 | € 5.959 | € 0 | € 0 | € 14.595 |
-| Rucphen | € 17.377 | € 150.312 | € 34.754 | € 34.754 | € 0 | € 0 | € 85.148 |
-| Schagen | € 25.041 | € 216.600 | € 50.081 | € 50.081 | € 0 | € 0 | € 122.699 |
-| Scherpenzeel | € 5.669 | € 49.033 | € 11.337 | € 11.337 | € 0 | € 0 | € 27.776 |
-| Schiedam | € 53.326 | € 461.273 | € 106.653 | € 106.653 | € 0 | € 0 | € 261.299 |
-| Schiermonnikoog | € 6.000 | € 20.000 | € 8.933 | € 8.580 | € 0 | € 0 | € 21.879 |
-| Schouwen-Duiveland | € 20.091 | € 173.789 | € 40.182 | € 40.182 | € 0 | € 0 | € 98.447 |
-| 's-Gravenhage | € 321.394 | € 2.780.060 | € 642.788 | € 642.788 | € 0 | € 0 | € 1.574.831 |
-| 's-Hertogenbosch | € 86.901 | € 751.690 | € 173.801 | € 173.801 | € 0 | € 0 | € 425.813 |
-| Simpelveld | € 7.299 | € 63.140 | € 14.599 | € 14.599 | € 0 | € 0 | € 35.767 |
-| Sint-Michielsgestel | € 14.877 | € 128.687 | € 29.754 | € 29.754 | € 0 | € 0 | € 72.898 |
-| Sittard-Geleen | € 62.961 | € 544.609 | € 125.921 | € 125.921 | € 0 | € 0 | € 308.507 |
-| Sliedrecht | € 16.471 | € 142.477 | € 32.943 | € 32.943 | € 0 | € 0 | € 80.709 |
-| Sluis | € 14.513 | € 125.541 | € 29.027 | € 29.027 | € 0 | € 0 | € 71.116 |
-| Smallingerland | € 35.202 | € 304.498 | € 70.404 | € 70.404 | € 0 | € 0 | € 172.490 |
-| Soest | € 23.483 | € 203.130 | € 46.966 | € 46.966 | € 0 | € 0 | € 115.068 |
-| Someren | € 12.221 | € 105.715 | € 24.443 | € 24.443 | € 0 | € 0 | € 59.885 |
-| Son en Breugel | € 7.514 | € 64.996 | € 15.028 | € 15.028 | € 0 | € 0 | € 36.819 |
-| Stadskanaal | € 24.260 | € 209.851 | € 48.520 | € 48.520 | € 0 | € 0 | € 118.875 |
-| Staphorst | € 9.740 | € 84.255 | € 19.481 | € 19.481 | € 0 | € 0 | € 47.728 |
-| Stede Broec | € 14.368 | € 124.288 | € 28.737 | € 28.737 | € 0 | € 0 | € 70.406 |
-| Steenbergen | € 16.153 | € 139.721 | € 32.305 | € 32.305 | € 0 | € 0 | € 79.148 |
-| Steenwijkerland | € 26.856 | € 232.309 | € 53.713 | € 53.713 | € 0 | € 0 | € 131.597 |
-| Stein | € 16.825 | € 145.539 | € 33.651 | € 33.651 | € 0 | € 0 | € 82.444 |
-| Stichtse Vecht | € 32.535 | € 281.430 | € 65.071 | € 65.071 | € 0 | € 0 | € 159.423 |
-| Súdwest-Fryslân | € 53.051 | € 458.893 | € 106.102 | € 106.102 | € 0 | € 0 | € 259.951 |
-| Terneuzen | € 36.562 | € 316.257 | € 73.123 | € 73.123 | € 0 | € 0 | € 179.152 |
-| Terschelling | € 6.000 | € 20.000 | € 8.933 | € 8.580 | € 0 | € 0 | € 21.879 |
-| Texel | € 7.847 | € 67.873 | € 15.693 | € 15.693 | € 0 | € 0 | € 38.449 |
-| Teylingen | € 16.771 | € 145.072 | € 33.543 | € 33.543 | € 0 | € 0 | € 82.180 |
-| Tholen | € 16.644 | € 143.973 | € 33.289 | € 33.289 | € 0 | € 0 | € 81.557 |
-| Tiel | € 27.629 | € 238.994 | € 55.259 | € 55.259 | € 0 | € 0 | € 135.384 |
-| Tilburg | € 135.146 | € 1.169.012 | € 270.292 | € 270.292 | € 0 | € 0 | € 662.215 |
-| Tubbergen | € 10.951 | € 94.727 | € 21.902 | € 21.902 | € 0 | € 0 | € 53.660 |
-| Twenterand | € 22.109 | € 191.240 | € 44.217 | € 44.217 | € 0 | € 0 | € 108.333 |
-| Tynaarlo | € 14.731 | € 127.421 | € 29.462 | € 29.462 | € 0 | € 0 | € 72.181 |
-| Tytsjerksteradiel | € 18.831 | € 162.887 | € 37.662 | € 37.662 | € 0 | € 0 | € 92.271 |
-| Uitgeest | € 5.523 | € 47.775 | € 11.046 | € 11.046 | € 0 | € 0 | € 27.063 |
-| Uithoorn | € 15.524 | € 134.282 | € 31.048 | € 31.048 | € 0 | € 0 | € 76.067 |
-| Urk | € 11.569 | € 100.072 | € 23.138 | € 23.138 | € 0 | € 0 | € 56.688 |
-| Utrecht | € 159.632 | € 1.380.820 | € 319.265 | € 319.265 | € 0 | € 0 | € 782.199 |
-| Utrechtse Heuvelrug | € 21.637 | € 187.157 | € 43.273 | € 43.273 | € 0 | € 0 | € 106.019 |
-| Vaals | € 7.332 | € 63.421 | € 14.664 | € 14.664 | € 0 | € 0 | € 35.926 |
-| Valkenburg aan de Geul | € 10.320 | € 89.270 | € 20.640 | € 20.640 | € 0 | € 0 | € 50.569 |
-| Valkenswaard | € 19.631 | € 169.812 | € 39.263 | € 39.263 | € 0 | € 0 | € 96.194 |
-| Veendam | € 19.358 | € 167.443 | € 38.715 | € 38.715 | € 0 | € 0 | € 94.852 |
-| Veenendaal | € 37.674 | € 325.877 | € 75.347 | € 75.347 | € 0 | € 0 | € 184.601 |
-| Veere | € 10.533 | € 91.108 | € 21.065 | € 21.065 | € 0 | € 0 | € 51.610 |
-| Veldhoven | € 23.176 | € 200.476 | € 46.353 | € 46.353 | € 0 | € 0 | € 113.564 |
-| Velsen | € 39.347 | € 340.351 | € 78.694 | € 78.694 | € 0 | € 0 | € 192.800 |
-| Venlo | € 72.701 | € 628.868 | € 145.403 | € 145.403 | € 0 | € 0 | € 356.237 |
-| Venray | € 27.271 | € 235.891 | € 54.541 | € 54.541 | € 0 | € 0 | € 133.626 |
-| Vijfheerenlanden | € 34.833 | € 301.305 | € 69.666 | € 69.666 | € 0 | € 0 | € 170.681 |
-| Vlaardingen | € 50.750 | € 438.984 | € 101.499 | € 101.499 | € 0 | € 0 | € 248.673 |
-| Vlieland | € 6.000 | € 20.000 | € 8.932 | € 8.580 | € 0 | € 0 | € 21.882 |
-| Vlissingen | € 27.857 | € 240.963 | € 55.714 | € 55.714 | € 0 | € 0 | € 136.499 |
-| Voerendaal | € 7.046 | € 60.946 | € 14.092 | € 14.092 | € 0 | € 0 | € 34.524 |
-| Voorne aan Zee | € 40.335 | € 348.900 | € 80.671 | € 80.671 | € 0 | € 0 | € 197.643 |
-| Voorschoten | € 10.458 | € 90.461 | € 20.916 | € 20.916 | € 0 | € 0 | € 51.244 |
-| Voorst | € 13.333 | € 115.333 | € 26.667 | € 26.667 | € 0 | € 0 | € 65.333 |
-| Vught | € 15.093 | € 130.551 | € 30.185 | € 30.185 | € 0 | € 0 | € 73.953 |
-| Waadhoeke | € 29.054 | € 251.315 | € 58.108 | € 58.108 | € 0 | € 0 | € 142.364 |
-| Waalre | € 7.012 | € 60.653 | € 14.024 | € 14.024 | € 0 | € 0 | € 34.358 |
-| Waalwijk | € 32.374 | € 280.038 | € 64.749 | € 64.749 | € 0 | € 0 | € 158.634 |
-| Waddinxveen | € 16.351 | € 141.438 | € 32.702 | € 32.702 | € 0 | € 0 | € 80.121 |
-| Wageningen | € 17.157 | € 148.409 | € 34.314 | € 34.314 | € 0 | € 0 | € 84.070 |
-| Wassenaar | € 11.585 | € 100.213 | € 23.171 | € 23.171 | € 0 | € 0 | € 56.768 |
-| Waterland | € 8.274 | € 71.571 | € 16.548 | € 16.548 | € 0 | € 0 | € 40.543 |
-| Weert | € 31.923 | € 276.132 | € 63.846 | € 63.846 | € 0 | € 0 | € 156.422 |
-| West Betuwe | € 29.325 | € 253.657 | € 58.649 | € 58.649 | € 0 | € 0 | € 143.690 |
-| West Maas en Waal | € 11.591 | € 100.264 | € 23.182 | € 23.182 | € 0 | € 0 | € 56.797 |
-| Westerkwartier | € 34.275 | € 296.476 | € 68.549 | € 68.549 | € 0 | € 0 | € 167.946 |
-| Westerveld | € 10.961 | € 94.808 | € 21.921 | € 21.921 | € 0 | € 0 | € 53.707 |
-| Westervoort | € 8.989 | € 77.757 | € 17.979 | € 17.979 | € 0 | € 0 | € 44.048 |
-| Westerwolde | € 18.219 | € 157.598 | € 36.439 | € 36.439 | € 0 | € 0 | € 89.275 |
-| Westland | € 64.929 | € 561.632 | € 129.857 | € 129.857 | € 0 | € 0 | € 318.150 |
-| Weststellingwerf | € 17.321 | € 149.830 | € 34.643 | € 34.643 | € 0 | € 0 | € 84.875 |
-| Wierden | € 12.390 | € 107.177 | € 24.781 | € 24.781 | € 0 | € 0 | € 60.713 |
-| Wijchen | € 22.903 | € 198.109 | € 45.806 | € 45.806 | € 0 | € 0 | € 112.224 |
-| Wijdemeren | € 12.034 | € 104.090 | € 24.067 | € 24.067 | € 0 | € 0 | € 58.964 |
-| Wijk bij Duurstede | € 11.462 | € 99.149 | € 22.925 | € 22.925 | € 0 | € 0 | € 56.165 |
-| Winterswijk | € 18.479 | € 159.847 | € 36.959 | € 36.959 | € 0 | € 0 | € 90.549 |
-| Woensdrecht | € 13.390 | € 115.826 | € 26.781 | € 26.781 | € 0 | € 0 | € 65.612 |
-| Woerden | € 25.592 | € 221.369 | € 51.184 | € 51.184 | € 0 | € 0 | € 125.400 |
-| Wormerland | € 9.081 | € 78.548 | € 18.161 | € 18.161 | € 0 | € 0 | € 44.496 |
-| Woudenberg | € 6.755 | € 58.434 | € 13.511 | € 13.511 | € 0 | € 0 | € 33.102 |
-| Zaanstad | € 94.168 | € 814.555 | € 188.336 | € 188.336 | € 0 | € 0 | € 461.424 |
-| Zaltbommel | € 17.149 | € 148.339 | € 34.298 | € 34.298 | € 0 | € 0 | € 84.030 |
-| Zandvoort | € 10.265 | € 88.792 | € 20.530 | € 20.530 | € 0 | € 0 | € 50.298 |
-| Zeewolde | € 10.679 | € 92.375 | € 21.358 | € 21.358 | € 0 | € 0 | € 52.328 |
-| Zeist | € 31.059 | € 268.664 | € 62.119 | € 62.119 | € 0 | € 0 | € 152.191 |
-| Zevenaar | € 29.596 | € 256.007 | € 59.192 | € 59.192 | € 0 | € 0 | € 145.021 |
-| Zoetermeer | € 66.703 | € 576.978 | € 133.405 | € 133.405 | € 0 | € 0 | € 326.843 |
-| Zoeterwoude | € 4.173 | € 36.094 | € 8.346 | € 8.346 | € 0 | € 0 | € 20.447 |
-| Zuidplas | € 22.946 | € 198.483 | € 45.892 | € 45.892 | € 0 | € 0 | € 112.435 |
-| Zundert | € 13.472 | € 116.535 | € 26.945 | € 26.945 | € 0 | € 0 | € 66.014 |
-| Zutphen | € 28.337 | € 245.115 | € 56.674 | € 56.674 | € 0 | € 0 | € 138.851 |
-| Zwartewaterland | € 13.961 | € 120.766 | € 27.923 | € 27.923 | € 0 | € 0 | € 68.411 |
-| Zwijndrecht | € 29.267 | € 253.157 | € 58.533 | € 58.533 | € 0 | € 0 | € 143.407 |
-| Zwolle | € 65.466 | € 566.280 | € 130.932 | € 130.932 | € 0 | € 0 | € 320.783 |
+| 2026 | Lokaal Sportakkoord | Brede regeling combinatiefuncties | Terugdringen Gezondheidsachterstanden | Kansrijke Start | Mentale Gezondheid |
+| --- | --- | --- | --- | --- | --- |
+| Aa en Hunze | € 11.618,70 | € 100.501,74 | € 23.237,40 | € 27.110,30 | € 6.454,83 |
+| Aalsmeer | € 15.264,14 | € 132.034,79 | € 30.528,27 | € 35.616,32 | € 8.480,08 |
+| Aalten | € 15.229,28 | € 131.733,24 | € 30.458,55 | € 35.534,98 | € 8.460,71 |
+| Achtkarspelen | € 17.392,87 | € 150.448,30 | € 34.785,73 | € 40.583,36 | € 9.662,70 |
+| Alblasserdam | € 11.347,62 | € 98.156,94 | € 22.695,25 | € 26.477,79 | € 6.304,23 |
+| Albrandswaard | € 10.647,24 | € 92.098,59 | € 21.294,47 | € 24.843,55 | € 5.915,13 |
+| Alkmaar | € 55.660,73 | € 481.465,34 | € 111.321,46 | € 129.875,04 | € 30.922,63 |
+| Almelo | € 44.675,84 | € 386.446,00 | € 89.351,68 | € 104.243,62 | € 24.819,91 |
+| Almere | € 100.707,39 | € 871.118,93 | € 201.414,78 | € 234.983,91 | € 55.948,55 |
+| Alphen aan den Rijn | € 54.346,77 | € 470.099,53 | € 108.693,53 | € 126.809,12 | € 30.192,65 |
+| Alphen-Chaam | € 4.798,52 | € 41.507,16 | € 9.597,03 | € 11.196,54 | € 2.665,84 |
+| Altena | € 32.178,56 | € 278.344,56 | € 64.357,12 | € 75.083,31 | € 17.876,98 |
+| Ameland | € 1.682,85 | € 14.556,63 | € 3.365,69 | € 3.926,64 | € 934,91 |
+| Amersfoort | € 67.098,51 | € 580.402,07 | € 134.197,01 | € 156.563,18 | € 37.276,95 |
+| Amstelveen | € 37.633,77 | € 325.532,13 | € 75.267,55 | € 87.812,14 | € 20.907,65 |
+| Amsterdam | € 437.375,94 | € 3.783.301,88 | € 874.751,88 | € 1.020.543,86 | € 242.986,63 |
+| Apeldoorn | € 84.693,72 | € 732.600,70 | € 169.387,45 | € 197.618,69 | € 47.052,07 |
+| Arnhem | € 87.717,33 | € 758.754,94 | € 175.434,67 | € 204.673,78 | € 48.731,85 |
+| Assen | € 32.714,58 | € 282.981,12 | € 65.429,16 | € 76.334,02 | € 18.174,77 |
+| Asten | € 9.171,92 | € 79.337,08 | € 18.343,83 | € 21.401,14 | € 5.095,51 |
+| Baarle-Nassau | € 3.911,54 | € 33.834,78 | € 7.823,07 | € 9.126,92 | € 2.173,08 |
+| Baarn | € 11.211,35 | € 96.978,20 | € 22.422,70 | € 26.159,82 | € 6.228,53 |
+| Barendrecht | € 20.618,23 | € 178.347,67 | € 41.236,45 | € 48.109,20 | € 11.454,57 |
+| Barneveld | € 28.712,77 | € 248.365,49 | € 57.425,55 | € 66.996,47 | € 15.951,54 |
+| Beek | € 8.581,47 | € 74.229,72 | € 17.162,94 | € 20.023,43 | € 4.767,48 |
+| Beekdaelen | € 19.442,11 | € 168.174,28 | € 38.884,23 | € 45.364,93 | € 10.801,17 |
+| Beesel | € 8.039,78 | € 69.544,12 | € 16.079,57 | € 18.759,49 | € 4.466,55 |
+| Berg en Dal | € 19.953,31 | € 172.596,17 | € 39.906,63 | € 46.557,73 | € 11.085,17 |
+| Bergeijk | € 9.025,37 | € 78.069,47 | € 18.050,74 | € 21.059,20 | € 5.014,10 |
+| Bergen (L.) | € 7.777,39 | € 67.274,44 | € 15.554,78 | € 18.147,25 | € 4.320,77 |
+| Bergen (NH.) | € 12.578,41 | € 108.803,27 | € 25.156,82 | € 29.349,63 | € 6.988,01 |
+| Bergen op Zoom | € 37.813,68 | € 327.088,30 | € 75.627,35 | € 88.231,91 | € 21.007,60 |
+| Berkelland | € 23.380,20 | € 202.238,75 | € 46.760,40 | € 54.553,80 | € 12.989,00 |
+| Bernheze | € 16.297,24 | € 140.971,13 | € 32.594,48 | € 38.026,89 | € 9.054,02 |
+| Best | € 13.432,59 | € 116.191,88 | € 26.865,18 | € 31.342,70 | € 7.462,55 |
+| Beuningen | € 12.622,60 | € 109.185,48 | € 25.245,20 | € 29.452,73 | € 7.012,55 |
+| Beverwijk | € 22.937,66 | € 198.410,73 | € 45.875,31 | € 53.521,20 | € 12.743,14 |
+| Bladel | € 10.289,51 | € 89.004,29 | € 20.579,03 | € 24.008,86 | € 5.716,40 |
+| Blaricum | € 4.325,77 | € 37.417,95 | € 8.651,55 | € 10.093,47 | € 2.403,21 |
+| Bloemendaal | € 7.305,94 | € 63.196,40 | € 14.611,89 | € 17.047,20 | € 4.058,86 |
+| Bodegraven-Reeuwijk | € 16.393,57 | € 141.804,39 | € 32.787,14 | € 38.251,67 | € 9.107,54 |
+| Boekel | € 5.507,47 | € 47.639,64 | € 11.014,95 | € 12.850,77 | € 3.059,71 |
+| Borger-Odoorn | € 14.125,45 | € 122.185,11 | € 28.250,89 | € 32.959,37 | € 7.847,47 |
+| Borne | € 10.594,17 | € 91.639,57 | € 21.188,34 | € 24.719,73 | € 5.885,65 |
+| Borsele | € 11.355,58 | € 98.225,75 | € 22.711,16 | € 26.496,35 | € 6.308,65 |
+| Boxtel | € 17.961,56 | € 155.367,47 | € 35.923,11 | € 41.910,30 | € 9.978,64 |
+| Breda | € 85.863,02 | € 742.715,09 | € 171.726,03 | € 200.347,04 | € 47.701,68 |
+| Bronckhorst | € 18.476,10 | € 159.818,29 | € 36.952,21 | € 43.110,91 | € 10.264,50 |
+| Brummen | € 11.095,44 | € 95.975,57 | € 22.190,88 | € 25.889,36 | € 6.164,13 |
+| Brunssum | € 19.168,77 | € 165.809,84 | € 38.337,54 | € 44.727,13 | € 10.649,32 |
+| Bunnik | € 5.387,22 | € 46.599,48 | € 10.774,45 | € 12.570,19 | € 2.992,90 |
+| Bunschoten | € 11.878,17 | € 102.746,14 | € 23.756,33 | € 27.715,72 | € 6.598,98 |
+| Buren | € 14.972,25 | € 129.509,98 | € 29.944,51 | € 34.935,26 | € 8.317,92 |
+| Capelle aan den IJssel | € 36.042,68 | € 311.769,18 | € 72.085,36 | € 84.099,59 | € 20.023,71 |
+| Castricum | € 13.914,11 | € 120.357,05 | € 27.828,22 | € 32.466,25 | € 7.730,06 |
+| Coevorden | € 20.031,21 | € 173.270,00 | € 40.062,43 | € 46.739,50 | € 11.128,45 |
+| Cranendonck | € 11.536,05 | € 99.786,86 | € 23.072,11 | € 26.917,46 | € 6.408,92 |
+| Culemborg | € 14.296,23 | € 123.662,36 | € 28.592,45 | € 33.357,86 | € 7.942,35 |
+| Dalfsen | € 14.199,54 | € 122.826,03 | € 28.399,08 | € 33.132,26 | € 7.888,63 |
+| Dantumadiel | € 11.920,13 | € 103.109,09 | € 23.840,25 | € 27.813,63 | € 6.622,29 |
+| De Bilt | € 16.950,38 | € 146.620,79 | € 33.900,76 | € 39.550,89 | € 9.416,88 |
+| De Fryske Marren | € 27.139,52 | € 234.756,84 | € 54.279,04 | € 63.325,55 | € 15.077,51 |
+| De Ronde Venen | € 20.130,92 | € 174.132,48 | € 40.261,85 | € 46.972,15 | € 11.183,85 |
+| De Wolden | € 11.928,05 | € 103.177,61 | € 23.856,10 | € 27.832,11 | € 6.626,69 |
+| Delft | € 46.736,47 | € 404.270,50 | € 93.472,95 | € 109.051,77 | € 25.964,71 |
+| Den Helder | € 34.708,26 | € 300.226,42 | € 69.416,51 | € 80.985,93 | € 19.282,36 |
+| Deurne | € 18.191,17 | € 157.353,62 | € 36.382,34 | € 42.446,06 | € 10.106,21 |
+| Deventer | € 50.788,62 | € 439.321,52 | € 101.577,23 | € 118.506,77 | € 28.215,90 |
+| Diemen | € 11.830,42 | € 102.333,16 | € 23.660,85 | € 27.604,32 | € 6.572,46 |
+| Dijk en Waard | € 40.673,00 | € 351.821,47 | € 81.346,01 | € 94.903,67 | € 22.596,11 |
+| Dinkelland | € 11.829,10 | € 102.321,74 | € 23.658,21 | € 27.601,24 | € 6.571,72 |
+| Doesburg | € 6.677,11 | € 57.756,99 | € 13.354,22 | € 15.579,92 | € 3.709,50 |
+| Doetinchem | € 30.484,27 | € 263.688,91 | € 60.968,53 | € 71.129,96 | € 16.935,70 |
+| Dongen | € 13.719,22 | € 118.671,24 | € 27.438,44 | € 32.011,51 | € 7.621,79 |
+| Dordrecht | € 67.116,12 | € 580.554,46 | € 134.232,25 | € 156.604,29 | € 37.286,73 |
+| Drechterland | € 10.132,74 | € 87.648,17 | € 20.265,47 | € 23.643,05 | € 5.629,30 |
+| Drimmelen | € 14.885,42 | € 128.758,86 | € 29.770,84 | € 34.732,64 | € 8.269,68 |
+| Dronten | € 19.741,36 | € 170.762,75 | € 39.482,72 | € 46.063,17 | € 10.967,42 |
+| Druten | € 9.950,15 | € 86.068,75 | € 19.900,29 | € 23.217,01 | € 5.527,86 |
+| Duiven | € 12.203,75 | € 105.562,45 | € 24.407,50 | € 28.475,42 | € 6.779,86 |
+| Echt-Susteren | € 19.670,86 | € 170.152,90 | € 39.341,71 | € 45.898,66 | € 10.928,25 |
+| Edam-Volendam | € 19.378,50 | € 167.623,99 | € 38.756,99 | € 45.216,49 | € 10.765,83 |
+| Ede | € 55.550,16 | € 480.508,92 | € 111.100,33 | € 129.617,05 | € 30.861,20 |
+| Eemnes | € 3.557,58 | € 30.773,08 | € 7.115,16 | € 8.301,02 | € 1.976,43 |
+| Eemsdelta | € 28.271,68 | € 244.550,02 | € 56.543,36 | € 65.967,25 | € 15.706,49 |
+| Eersel | € 8.683,38 | € 75.111,23 | € 17.366,76 | € 20.261,22 | € 4.824,10 |
+| Eijsden-Margraten | € 11.638,31 | € 100.671,36 | € 23.276,62 | € 27.156,05 | € 6.465,73 |
+| Eindhoven | € 121.799,79 | € 1.053.568,21 | € 243.599,59 | € 284.199,52 | € 67.666,55 |
+| Elburg | € 12.847,61 | € 111.131,82 | € 25.695,22 | € 29.977,76 | € 7.137,56 |
+| Emmen | € 69.156,40 | € 598.202,83 | € 138.312,79 | € 161.364,93 | € 38.420,22 |
+| Enkhuizen | € 10.453,65 | € 90.424,09 | € 20.907,31 | € 24.391,86 | € 5.807,58 |
+| Enschede | € 90.626,80 | € 783.921,78 | € 181.253,59 | € 211.462,52 | € 50.348,22 |
+| Epe | € 18.522,99 | € 160.223,85 | € 37.045,98 | € 43.220,31 | € 10.290,55 |
+| Ermelo | € 12.646,96 | € 109.396,17 | € 25.293,91 | € 29.509,56 | € 7.026,09 |
+| Etten-Leur | € 22.664,87 | € 196.051,12 | € 45.329,74 | € 52.884,70 | € 12.591,59 |
+| Geertruidenberg | € 12.266,38 | € 106.104,19 | € 24.532,76 | € 28.621,55 | € 6.814,66 |
+| Geldrop-Mierlo | € 20.666,64 | € 178.766,39 | € 41.333,27 | € 48.222,15 | € 11.481,46 |
+| Gemert-Bakel | € 16.997,84 | € 147.031,30 | € 33.995,68 | € 39.661,62 | € 9.443,24 |
+| Gennep | € 8.946,81 | € 77.389,90 | € 17.893,62 | € 20.875,89 | € 4.970,45 |
+| Gilze en Rijen | € 13.520,99 | € 116.956,60 | € 27.041,99 | € 31.548,99 | € 7.511,66 |
+| Goeree-Overflakkee | € 28.002,44 | € 242.221,10 | € 56.004,88 | € 65.339,02 | € 15.556,91 |
+| Goes | € 21.095,88 | € 182.479,39 | € 42.191,77 | € 49.223,73 | € 11.719,93 |
+| Goirle | € 10.941,59 | € 94.644,72 | € 21.883,17 | € 25.530,37 | € 6.078,66 |
+| Gooise Meren | € 22.204,24 | € 192.066,71 | € 44.408,49 | € 51.809,90 | € 12.335,69 |
+| Gorinchem | € 21.213,17 | € 183.493,93 | € 42.426,34 | € 49.497,40 | € 11.785,09 |
+| Gouda | € 37.517,69 | € 324.527,98 | € 75.035,37 | € 87.541,27 | € 20.843,16 |
+| Groningen | € 100.752,88 | € 871.512,37 | € 201.505,75 | € 235.090,04 | € 55.973,82 |
+| Gulpen-Wittem | € 7.973,78 | € 68.973,16 | € 15.947,55 | € 18.605,48 | € 4.429,88 |
+| Haaksbergen | € 11.949,53 | € 103.363,41 | € 23.899,05 | € 27.882,23 | € 6.638,63 |
+| Haarlem | € 75.395,79 | € 652.173,60 | € 150.791,58 | € 175.923,51 | € 41.886,55 |
+| Haarlemmermeer | € 70.191,60 | € 607.157,32 | € 140.383,19 | € 163.780,39 | € 38.995,33 |
+| Halderberge | € 17.583,82 | € 152.100,01 | € 35.167,63 | € 41.028,90 | € 9.768,79 |
+| Hardenberg | € 32.866,12 | € 284.291,90 | € 65.732,23 | € 76.687,60 | € 18.258,95 |
+| Harderwijk | € 24.655,94 | € 213.273,86 | € 49.311,88 | € 57.530,52 | € 13.697,74 |
+| Hardinxveld-Giessendam | € 9.436,69 | € 81.627,41 | € 18.873,39 | € 22.018,95 | € 5.242,61 |
+| Harlingen | € 9.636,67 | € 83.357,16 | € 19.273,33 | € 22.485,55 | € 5.353,70 |
+| Hattem | € 5.789,18 | € 50.076,43 | € 11.578,37 | € 13.508,09 | € 3.216,21 |
+| Heemskerk | € 20.162,55 | € 174.406,10 | € 40.325,11 | € 47.045,96 | € 11.201,42 |
+| Heemstede | € 9.470,47 | € 81.919,53 | € 18.940,93 | € 22.097,75 | € 5.261,37 |
+| Heerde | € 10.190,52 | € 88.148,01 | € 20.381,04 | € 23.777,88 | € 5.661,40 |
+| Heerenveen | € 27.333,42 | € 236.434,06 | € 54.666,83 | € 63.777,97 | € 15.185,23 |
+| Heerlen | € 62.894,00 | € 544.033,10 | € 125.788,00 | € 146.752,67 | € 34.941,11 |
+| Heeze-Leende | € 6.477,89 | € 56.033,76 | € 12.955,78 | € 15.115,08 | € 3.598,83 |
+| Heiloo | € 9.343,83 | € 80.824,10 | € 18.687,65 | € 21.802,26 | € 5.191,01 |
+| Hellendoorn | € 18.610,07 | € 160.977,06 | € 37.220,13 | € 43.423,49 | € 10.338,93 |
+| Helmond | € 55.588,46 | € 480.840,18 | € 111.176,92 | € 129.706,41 | € 30.882,48 |
+| Hendrik-Ido-Ambacht | € 13.581,35 | € 117.478,68 | € 27.162,70 | € 31.689,82 | € 7.545,19 |
+| Hengelo | € 40.563,13 | € 350.871,11 | € 81.126,27 | € 94.647,31 | € 22.535,07 |
+| Het Hogeland | € 26.996,58 | € 233.520,40 | € 53.993,16 | € 62.992,02 | € 14.998,10 |
+| Heumen | € 6.925,13 | € 59.902,34 | € 13.850,25 | € 16.158,63 | € 3.847,29 |
+| Heusden | € 23.967,24 | € 207.316,66 | € 47.934,49 | € 55.923,57 | € 13.315,14 |
+| Hillegom | € 11.618,01 | € 100.495,81 | € 23.236,03 | € 27.108,70 | € 6.454,45 |
+| Hilvarenbeek | € 6.918,84 | € 59.847,99 | € 13.837,69 | € 16.143,97 | € 3.843,80 |
+| Hilversum | € 44.717,93 | € 386.810,10 | € 89.435,86 | € 104.341,84 | € 24.843,29 |
+| Hoeksche Waard | € 43.393,51 | € 375.353,85 | € 86.787,02 | € 101.251,52 | € 24.107,50 |
+| Hof van Twente | € 17.665,27 | € 152.804,62 | € 35.330,55 | € 41.218,97 | € 9.814,04 |
+| Hollands Kroon | € 25.911,11 | € 224.131,07 | € 51.822,21 | € 60.459,25 | € 14.395,06 |
+| Hoogeveen | € 34.752,46 | € 300.608,76 | € 69.504,92 | € 81.089,07 | € 19.306,92 |
+| Hoorn | € 38.447,26 | € 332.568,82 | € 76.894,52 | € 89.710,28 | € 21.359,59 |
+| Horst aan de Maas | € 21.758,41 | € 188.210,28 | € 43.516,83 | € 50.769,63 | € 12.088,01 |
+| Houten | € 18.510,35 | € 160.114,56 | € 37.020,71 | € 43.190,83 | € 10.283,53 |
+| Huizen | € 19.825,62 | € 171.491,60 | € 39.651,24 | € 46.259,78 | € 11.014,23 |
+| Hulst | € 16.345,77 | € 141.390,90 | € 32.691,54 | € 38.140,13 | € 9.080,98 |
+| IJsselstein | € 15.523,53 | € 134.278,49 | € 31.047,05 | € 36.221,56 | € 8.624,18 |
+| Kaag en Braassem | € 14.002,87 | € 121.124,85 | € 28.005,74 | € 32.673,37 | € 7.779,37 |
+| Kampen | € 29.085,56 | € 251.590,12 | € 58.171,12 | € 67.866,31 | € 16.158,65 |
+| Kapelle | € 6.533,27 | € 56.512,75 | € 13.066,53 | € 15.244,29 | € 3.629,59 |
+| Katwijk | € 35.355,30 | € 305.823,37 | € 70.710,61 | € 82.495,71 | € 19.641,83 |
+| Kerkrade | € 34.514,52 | € 298.550,59 | € 69.029,04 | € 80.533,88 | € 19.174,73 |
+| Koggenland | € 10.427,08 | € 90.194,21 | € 20.854,15 | € 24.329,84 | € 5.792,82 |
+| Krimpen aan den IJssel | € 15.764,98 | € 136.367,06 | € 31.529,96 | € 36.784,95 | € 8.758,32 |
+| Krimpenerwaard | € 29.483,01 | € 255.028,00 | € 58.966,01 | € 68.793,68 | € 16.379,45 |
+| Laarbeek | € 12.397,15 | € 107.235,35 | € 24.794,30 | € 28.926,68 | € 6.887,31 |
+| Land van Cuijk | € 46.715,47 | € 404.088,82 | € 93.430,94 | € 109.002,76 | € 25.953,04 |
+| Landgraaf | € 24.435,51 | € 211.367,18 | € 48.871,02 | € 57.016,19 | € 13.575,28 |
+| Landsmeer | € 4.889,08 | € 42.290,50 | € 9.778,15 | € 11.407,84 | € 2.716,15 |
+| Lansingerland | € 24.273,08 | € 209.962,10 | € 48.546,15 | € 56.637,18 | € 13.485,04 |
+| Laren | € 4.464,90 | € 38.621,38 | € 8.929,80 | € 10.418,10 | € 2.480,50 |
+| Leeuwarden | € 63.332,01 | € 547.821,90 | € 126.664,02 | € 147.774,69 | € 35.184,45 |
+| Leiden | € 54.696,71 | € 473.126,58 | € 109.393,43 | € 127.625,67 | € 30.387,06 |
+| Leiderdorp | € 11.463,94 | € 99.163,04 | € 22.927,87 | € 26.749,18 | € 6.368,85 |
+| Leidschendam-Voorburg | € 34.583,02 | € 299.143,13 | € 69.166,04 | € 80.693,72 | € 19.212,79 |
+| Lelystad | € 43.022,09 | € 372.141,11 | € 86.044,19 | € 100.384,89 | € 23.901,16 |
+| Leudal | € 18.580,78 | € 160.723,73 | € 37.161,56 | € 43.355,15 | € 10.322,65 |
+| Leusden | € 11.410,44 | € 98.700,32 | € 22.820,88 | € 26.624,36 | € 6.339,13 |
+| Lingewaard | € 23.828,07 | € 206.112,81 | € 47.656,14 | € 55.598,83 | € 13.237,82 |
+| Lisse | € 11.923,29 | € 103.136,49 | € 23.846,59 | € 27.821,02 | € 6.624,05 |
+| Lochem | € 15.439,10 | € 133.548,25 | € 30.878,21 | € 36.024,58 | € 8.577,28 |
+| Loon op Zand | € 12.899,53 | € 111.580,96 | € 25.799,07 | € 30.098,91 | € 7.166,41 |
+| Lopik | € 7.538,21 | € 65.205,47 | € 15.076,41 | € 17.589,15 | € 4.187,89 |
+| Losser | € 12.338,98 | € 106.732,16 | € 24.677,96 | € 28.790,95 | € 6.854,99 |
+| Maasdriel | € 14.339,64 | € 124.037,91 | € 28.679,29 | € 33.459,17 | € 7.966,47 |
+| Maasgouw | € 13.648,80 | € 118.062,15 | € 27.297,61 | € 31.847,21 | € 7.582,67 |
+| Maashorst | € 30.693,08 | € 265.495,10 | € 61.386,15 | € 71.617,18 | € 17.051,71 |
+| Maassluis | € 19.674,84 | € 170.187,32 | € 39.349,67 | € 45.907,95 | € 10.930,46 |
+| Maastricht | € 68.347,87 | € 591.209,07 | € 136.695,74 | € 159.478,36 | € 37.971,04 |
+| Medemblik | € 24.730,34 | € 213.917,45 | € 49.460,68 | € 57.704,13 | € 13.739,08 |
+| Meerssen | € 9.595,68 | € 83.002,62 | € 19.191,36 | € 22.389,92 | € 5.330,93 |
+| Meierijstad | € 42.958,76 | € 371.593,26 | € 85.917,52 | € 100.237,10 | € 23.865,98 |
+| Meppel | € 17.401,67 | € 150.524,42 | € 34.803,33 | € 40.603,89 | € 9.667,59 |
+| Middelburg | € 24.542,75 | € 212.294,80 | € 49.085,50 | € 57.266,42 | € 13.634,86 |
+| Midden-Delfland | € 7.663,91 | € 66.292,82 | € 15.327,82 | € 17.882,46 | € 4.257,73 |
+| Midden-Drenthe | € 15.947,25 | € 137.943,73 | € 31.894,50 | € 37.210,25 | € 8.859,58 |
+| Midden-Groningen | € 36.956,66 | € 319.675,12 | € 73.913,32 | € 86.232,21 | € 20.531,48 |
+| Moerdijk | € 19.844,73 | € 171.656,88 | € 39.689,45 | € 46.304,36 | € 11.024,85 |
+| Molenlanden | € 21.669,83 | € 187.444,05 | € 43.339,67 | € 50.562,94 | € 12.038,80 |
+| Montferland | € 21.591,57 | € 186.767,10 | € 43.183,14 | € 50.380,34 | € 11.995,32 |
+| Montfoort | € 6.535,91 | € 56.535,64 | € 13.071,82 | € 15.250,46 | € 3.631,06 |
+| Mook en Middelaar | € 3.057,65 | € 26.448,68 | € 6.115,30 | € 7.134,52 | € 1.698,69 |
+| Neder-Betuwe | € 14.042,89 | € 121.471,02 | € 28.085,79 | € 32.766,75 | € 7.801,61 |
+| Nederweert | € 9.751,06 | € 84.346,67 | € 19.502,12 | € 22.752,47 | € 5.417,26 |
+| Nieuwegein | € 33.489,92 | € 289.687,83 | € 66.979,85 | € 78.143,15 | € 18.605,51 |
+| Nieuwkoop | € 14.423,28 | € 124.761,39 | € 28.846,56 | € 33.654,32 | € 8.012,93 |
+| Nijkerk | € 21.917,69 | € 189.588,05 | € 43.835,39 | € 51.141,29 | € 12.176,50 |
+| Nijmegen | € 87.346,20 | € 755.544,66 | € 174.692,41 | € 203.807,81 | € 48.525,67 |
+| Nissewaard | € 48.303,67 | € 417.826,77 | € 96.607,35 | € 112.708,57 | € 26.835,37 |
+| Noardeast-Fryslân | € 27.438,17 | € 237.340,17 | € 54.876,34 | € 64.022,40 | € 15.243,43 |
+| Noord-Beveland | € 3.656,96 | € 31.632,69 | € 7.313,92 | € 8.532,90 | € 2.031,64 |
+| Noordenveld | € 14.464,49 | € 125.117,83 | € 28.928,98 | € 33.750,47 | € 8.035,83 |
+| Noordoostpolder | € 23.847,23 | € 206.278,52 | € 47.694,46 | € 55.643,53 | € 13.248,46 |
+| Noordwijk | € 21.214,29 | € 183.503,60 | € 42.428,58 | € 49.500,01 | € 11.785,72 |
+| Nuenen, Gerwen en Nederwetten | € 9.183,48 | € 79.437,14 | € 18.366,97 | € 21.428,13 | € 5.101,94 |
+| Nunspeet | € 14.938,55 | € 129.218,46 | € 29.877,10 | € 34.856,62 | € 8.299,19 |
+| Oegstgeest | € 7.698,84 | € 66.594,95 | € 15.397,68 | € 17.963,96 | € 4.277,13 |
+| Oirschot | € 9.110,71 | € 78.807,68 | € 18.221,43 | € 21.258,33 | € 5.061,51 |
+| Oisterwijk | € 15.040,43 | € 130.099,71 | € 30.080,86 | € 35.094,33 | € 8.355,79 |
+| Oldambt | € 25.914,07 | € 224.156,72 | € 51.828,14 | € 60.466,17 | € 14.396,71 |
+| Oldebroek | € 14.563,01 | € 125.970,06 | € 29.126,02 | € 33.980,36 | € 8.090,56 |
+| Oldenzaal | € 16.833,28 | € 145.607,83 | € 33.666,55 | € 39.277,64 | € 9.351,82 |
+| Olst-Wijhe | € 8.938,06 | € 77.314,20 | € 17.876,11 | € 20.855,47 | € 4.965,59 |
+| Ommen | € 9.366,61 | € 81.021,14 | € 18.733,21 | € 21.855,41 | € 5.203,67 |
+| Oost Gelre | € 14.376,58 | € 124.357,41 | € 28.753,16 | € 33.545,35 | € 7.986,99 |
+| Oosterhout | € 30.337,84 | € 262.422,28 | € 60.675,67 | € 70.788,28 | € 16.854,35 |
+| Ooststellingwerf | € 14.386,81 | € 124.445,94 | € 28.773,63 | € 33.569,23 | € 7.992,67 |
+| Oostzaan | € 4.654,19 | € 40.258,78 | € 9.308,39 | € 10.859,79 | € 2.585,66 |
+| Opmeer | € 5.884,73 | € 50.902,90 | € 11.769,46 | € 13.731,03 | € 3.269,29 |
+| Opsterland | € 15.214,92 | € 131.609,09 | € 30.429,85 | € 35.501,49 | € 8.452,74 |
+| Oss | € 51.267,93 | € 443.467,61 | € 102.535,86 | € 119.625,17 | € 28.482,18 |
+| Oude IJsselstreek | € 23.602,90 | € 204.165,12 | € 47.205,81 | € 55.073,44 | € 13.112,72 |
+| Ouder-Amstel | € 5.468,85 | € 47.305,52 | € 10.937,69 | € 12.760,64 | € 3.038,25 |
+| Oudewater | € 4.972,35 | € 43.010,83 | € 9.944,70 | € 11.602,15 | € 2.762,42 |
+| Overbetuwe | € 22.371,52 | € 193.513,67 | € 44.743,05 | € 52.200,22 | € 12.428,62 |
+| Papendrecht | € 16.320,43 | € 141.171,75 | € 32.640,87 | € 38.081,01 | € 9.066,91 |
+| Peel en Maas | € 24.529,49 | € 212.180,13 | € 49.058,99 | € 57.235,49 | € 13.627,50 |
+| Pekela | € 8.695,94 | € 75.219,85 | € 17.391,87 | € 20.290,52 | € 4.831,08 |
+| Pijnacker-Nootdorp | € 21.122,19 | € 182.706,93 | € 42.244,38 | € 49.285,11 | € 11.734,55 |
+| Purmerend | € 49.772,49 | € 430.532,00 | € 99.544,97 | € 116.135,80 | € 27.651,38 |
+| Putten | € 13.490,55 | € 116.693,22 | € 26.981,09 | € 31.477,94 | € 7.494,75 |
+| Raalte | € 18.813,74 | € 162.738,86 | € 37.627,48 | € 43.898,73 | € 10.452,08 |
+| Reimerswaal | € 12.845,86 | € 111.116,71 | € 25.691,72 | € 29.973,68 | € 7.136,59 |
+| Renkum | € 13.955,06 | € 120.711,29 | € 27.910,12 | € 32.561,81 | € 7.752,81 |
+| Renswoude | € 2.465,17 | € 21.323,74 | € 4.930,34 | € 5.752,07 | € 1.369,54 |
+| Reusel-De Mierden | € 6.644,43 | € 57.474,29 | € 13.288,85 | € 15.503,66 | € 3.691,35 |
+| Rheden | € 24.448,76 | € 211.481,77 | € 48.897,52 | € 57.047,10 | € 13.582,64 |
+| Rhenen | € 10.248,82 | € 88.652,31 | € 20.497,64 | € 23.913,92 | € 5.693,79 |
+| Ridderkerk | € 28.172,52 | € 243.692,31 | € 56.345,04 | € 65.735,88 | € 15.651,40 |
+| Rijssen-Holten | € 19.119,84 | € 165.386,61 | € 38.239,68 | € 44.612,96 | € 10.622,13 |
+| Rijswijk | € 27.991,83 | € 242.129,32 | € 55.983,66 | € 65.314,27 | € 15.551,02 |
+| Roerdalen | € 11.452,01 | € 99.059,93 | € 22.904,03 | € 26.721,37 | € 6.362,23 |
+| Roermond | € 35.718,20 | € 308.962,45 | € 71.436,41 | € 83.342,47 | € 19.843,45 |
+| Roosendaal | € 43.662,50 | € 377.680,60 | € 87.324,99 | € 101.879,16 | € 24.256,94 |
+| Rotterdam | € 386.284,34 | € 3.341.359,50 | € 772.568,67 | € 901.330,12 | € 214.602,41 |
+| Rozendaal | € 493,59 | € 4.269,59 | € 987,19 | € 1.151,72 | € 274,22 |
+| Rucphen | € 15.642,00 | € 135.303,33 | € 31.284,01 | € 36.498,01 | € 8.690,00 |
+| Schagen | € 22.540,14 | € 194.972,24 | € 45.080,29 | € 52.593,67 | € 12.522,30 |
+| Scherpenzeel | € 5.102,58 | € 44.137,34 | € 10.205,16 | € 11.906,03 | € 2.834,77 |
+| Schiedam | € 48.001,53 | € 415.213,26 | € 96.003,07 | € 112.003,58 | € 26.667,52 |
+| Schiermonnikoog | € 421,59 | € 3.646,72 | € 843,17 | € 983,70 | € 234,21 |
+| Schouwen-Duiveland | € 18.085,01 | € 156.435,38 | € 36.170,03 | € 42.198,37 | € 10.047,23 |
+| 's-Gravenhage | € 289.302,02 | € 2.502.462,46 | € 578.604,04 | € 675.038,04 | € 160.723,34 |
+| 's-Hertogenbosch | € 78.223,27 | € 676.631,30 | € 156.446,54 | € 182.520,97 | € 43.457,37 |
+| Simpelveld | € 6.570,54 | € 56.835,20 | € 13.141,09 | € 15.331,27 | € 3.650,30 |
+| Sint-Michielsgestel | € 13.391,62 | € 115.837,55 | € 26.783,25 | € 31.247,12 | € 7.439,79 |
+| Sittard-Geleen | € 56.673,73 | € 490.227,80 | € 113.347,47 | € 132.238,71 | € 31.485,41 |
+| Sliedrecht | € 14.826,59 | € 128.250,04 | € 29.653,19 | € 34.595,39 | € 8.237,00 |
+| Sluis | € 13.064,17 | € 113.005,09 | € 26.128,34 | € 30.483,07 | € 7.257,87 |
+| Smallingerland | € 31.687,08 | € 274.093,27 | € 63.374,17 | € 73.936,53 | € 17.603,93 |
+| Soest | € 21.138,33 | € 182.846,58 | € 42.276,66 | € 49.322,78 | € 11.743,52 |
+| Someren | € 11.001,02 | € 95.158,79 | € 22.002,03 | € 25.669,04 | € 6.111,68 |
+| Son en Breugel | € 6.763,74 | € 58.506,36 | € 13.527,48 | € 15.782,06 | € 3.757,63 |
+| Stadskanaal | € 21.837,73 | € 188.896,37 | € 43.675,46 | € 50.954,71 | € 12.132,07 |
+| Staphorst | € 8.767,85 | € 75.841,87 | € 17.535,69 | € 20.458,31 | € 4.871,03 |
+| Stede Broec | € 12.933,76 | € 111.877,02 | € 25.867,52 | € 30.178,77 | € 7.185,42 |
+| Steenbergen | € 14.539,81 | € 125.769,34 | € 29.079,62 | € 33.926,22 | € 8.077,67 |
+| Steenwijkerland | € 24.174,78 | € 209.111,87 | € 48.349,57 | € 56.407,83 | € 13.430,43 |
+| Stein | € 15.145,24 | € 131.006,31 | € 30.290,48 | € 35.338,89 | € 8.414,02 |
+| Stichtse Vecht | € 29.286,52 | € 253.328,40 | € 58.573,04 | € 68.335,21 | € 16.270,29 |
+| Súdwest-Fryslân | € 47.753,85 | € 413.070,77 | € 95.507,69 | € 111.425,64 | € 26.529,91 |
+| Terneuzen | € 32.910,76 | € 284.678,06 | € 65.821,52 | € 76.791,77 | € 18.283,75 |
+| Terschelling | € 2.243,02 | € 19.402,09 | € 4.486,03 | € 5.233,71 | € 1.246,12 |
+| Texel | € 7.063,13 | € 61.096,10 | € 14.126,27 | € 16.480,64 | € 3.923,96 |
+| Teylingen | € 15.096,68 | € 130.586,31 | € 30.193,37 | € 35.225,59 | € 8.387,05 |
+| Tholen | € 14.982,28 | € 129.596,76 | € 29.964,57 | € 34.958,66 | € 8.323,49 |
+| Tiel | € 24.870,45 | € 215.129,39 | € 49.740,90 | € 58.031,05 | € 13.816,92 |
+| Tilburg | € 121.651,14 | € 1.052.282,39 | € 243.302,29 | € 283.852,67 | € 67.583,97 |
+| Tubbergen | € 9.857,57 | € 85.267,99 | € 19.715,14 | € 23.001,00 | € 5.476,43 |
+| Twenterand | € 19.901,08 | € 172.144,37 | € 39.802,17 | € 46.435,86 | € 11.056,16 |
+| Tynaarlo | € 13.259,86 | € 114.697,76 | € 26.519,71 | € 30.939,67 | € 7.366,59 |
+| Tytsjerksteradiel | € 16.950,59 | € 146.622,57 | € 33.901,17 | € 39.551,37 | € 9.416,99 |
+| Uitgeest | € 4.971,61 | € 43.004,41 | € 9.943,22 | € 11.600,42 | € 2.762,00 |
+| Uithoorn | € 13.973,81 | € 120.873,46 | € 27.947,62 | € 32.605,56 | € 7.763,23 |
+| Urk | € 10.413,77 | € 90.079,10 | € 20.827,54 | € 24.298,79 | € 5.785,43 |
+| Utrecht | € 143.692,61 | € 1.242.941,11 | € 287.385,23 | € 335.282,76 | € 79.829,23 |
+| Utrechtse Heuvelrug | € 19.476,12 | € 168.468,41 | € 38.952,23 | € 45.444,27 | € 10.820,07 |
+| Vaals | € 6.599,82 | € 57.088,40 | € 13.199,63 | € 15.399,57 | € 3.666,56 |
+| Valkenburg aan de Geul | € 9.289,73 | € 80.356,18 | € 18.579,46 | € 21.676,04 | € 5.160,96 |
+| Valkenswaard | € 17.671,15 | € 152.855,47 | € 35.342,30 | € 41.232,69 | € 9.817,31 |
+| Veendam | € 17.424,66 | € 150.723,35 | € 34.849,33 | € 40.657,55 | € 9.680,37 |
+| Veenendaal | € 33.911,78 | € 293.336,86 | € 67.823,55 | € 79.127,48 | € 18.839,88 |
+| Veere | € 9.480,97 | € 82.010,41 | € 18.961,95 | € 22.122,27 | € 5.267,21 |
+| Veldhoven | € 20.862,17 | € 180.457,80 | € 41.724,35 | € 48.678,40 | € 11.590,10 |
+| Velsen | € 35.418,08 | € 306.366,38 | € 70.836,16 | € 82.642,18 | € 19.676,71 |
+| Venlo | € 65.442,03 | € 566.073,60 | € 130.884,07 | € 152.698,08 | € 36.356,69 |
+| Venray | € 24.547,57 | € 212.336,46 | € 49.095,14 | € 57.277,66 | € 13.637,54 |
+| Vijfheerenlanden | € 31.354,74 | € 271.218,46 | € 62.709,47 | € 73.161,05 | € 17.419,30 |
+| Vlaardingen | € 45.682,08 | € 395.149,98 | € 91.364,16 | € 106.591,52 | € 25.378,93 |
+| Vlieland | € 597,35 | € 5.167,10 | € 1.194,71 | € 1.393,82 | € 331,86 |
+| Vlissingen | € 25.075,38 | € 216.902,02 | € 50.150,76 | € 58.509,22 | € 13.930,77 |
+| Voerendaal | € 6.342,26 | € 54.860,52 | € 12.684,51 | € 14.798,60 | € 3.523,48 |
+| Voorne aan Zee | € 36.307,70 | € 314.061,64 | € 72.615,41 | € 84.717,98 | € 20.170,95 |
+| Voorschoten | € 9.413,62 | € 81.427,84 | € 18.827,25 | € 21.965,12 | € 5.229,79 |
+| Voorst | € 12.001,93 | € 103.816,73 | € 24.003,87 | € 28.004,51 | € 6.667,74 |
+| Vught | € 13.585,51 | € 117.514,67 | € 27.171,02 | € 31.699,52 | € 7.547,51 |
+| Waadhoeke | € 26.152,68 | € 226.220,65 | € 52.305,35 | € 61.022,91 | € 14.529,26 |
+| Waalre | € 6.311,76 | € 54.596,73 | € 12.623,52 | € 14.727,44 | € 3.506,53 |
+| Waalwijk | € 29.141,65 | € 252.075,28 | € 58.283,30 | € 67.997,18 | € 16.189,81 |
+| Waddinxveen | € 14.718,47 | € 127.314,78 | € 29.436,94 | € 34.343,10 | € 8.176,93 |
+| Wageningen | € 15.443,87 | € 133.589,52 | € 30.887,75 | € 36.035,71 | € 8.579,93 |
+| Wassenaar | € 10.428,53 | € 90.206,80 | € 20.857,06 | € 24.333,24 | € 5.793,63 |
+| Waterland | € 7.447,90 | € 64.424,35 | € 14.895,80 | € 17.378,44 | € 4.137,72 |
+| Weert | € 28.735,18 | € 248.559,28 | € 57.470,35 | € 67.048,75 | € 15.963,99 |
+| West Betuwe | € 26.396,39 | € 228.328,77 | € 52.792,78 | € 61.591,58 | € 14.664,66 |
+| West Maas en Waal | € 10.433,81 | € 90.252,46 | € 20.867,62 | € 24.345,56 | € 5.796,56 |
+| Westerkwartier | € 30.852,26 | € 266.872,02 | € 61.704,51 | € 71.988,60 | € 17.140,14 |
+| Westerveld | € 9.866,08 | € 85.341,56 | € 19.732,15 | € 23.020,84 | € 5.481,15 |
+| Westervoort | € 8.091,70 | € 69.993,17 | € 16.183,39 | € 18.880,62 | € 4.495,39 |
+| Westerwolde | € 16.400,13 | € 141.861,16 | € 32.800,27 | € 38.266,98 | € 9.111,19 |
+| Westland | € 58.445,22 | € 505.551,13 | € 116.890,44 | € 136.372,17 | € 32.469,57 |
+| Weststellingwerf | € 15.591,83 | € 134.869,34 | € 31.183,66 | € 36.380,94 | € 8.662,13 |
+| Wierden | € 11.153,18 | € 96.475,02 | € 22.306,36 | € 26.024,09 | € 6.196,21 |
+| Wijchen | € 20.615,87 | € 178.327,24 | € 41.231,73 | € 48.103,69 | € 11.453,26 |
+| Wijdemeren | € 10.831,96 | € 93.696,48 | € 21.663,93 | € 25.274,58 | € 6.017,76 |
+| Wijk bij Duurstede | € 10.317,73 | € 89.248,37 | € 20.635,46 | € 24.074,71 | € 5.732,07 |
+| Winterswijk | € 16.634,19 | € 143.885,76 | € 33.268,38 | € 38.813,12 | € 9.241,22 |
+| Woensdrecht | € 12.053,23 | € 104.260,42 | € 24.106,46 | € 28.124,20 | € 6.696,24 |
+| Woerden | € 23.036,40 | € 199.264,89 | € 46.072,81 | € 53.751,61 | € 12.798,00 |
+| Wormerland | € 8.173,98 | € 70.704,95 | € 16.347,97 | € 19.072,63 | € 4.541,10 |
+| Woudenberg | € 6.080,86 | € 52.599,47 | € 12.161,73 | € 14.188,68 | € 3.378,26 |
+| Zaanstad | € 84.765,26 | € 733.219,50 | € 169.530,52 | € 197.785,61 | € 47.091,81 |
+| Zaltbommel | € 15.436,63 | € 133.526,85 | € 30.873,26 | € 36.018,80 | € 8.575,91 |
+| Zandvoort | € 9.239,95 | € 79.925,53 | € 18.479,89 | € 21.559,87 | € 5.133,30 |
+| Zeewolde | € 9.612,79 | € 83.150,64 | € 19.225,58 | € 22.429,84 | € 5.340,44 |
+| Zeist | € 27.958,06 | € 241.837,21 | € 55.916,12 | € 65.235,47 | € 15.532,25 |
+| Zevenaar | € 26.640,92 | € 230.443,92 | € 53.281,83 | € 62.162,14 | € 14.800,51 |
+| Zoetermeer | € 60.042,25 | € 519.365,48 | € 120.084,50 | € 140.098,59 | € 33.356,81 |
+| Zoeterwoude | € 3.756,11 | € 32.490,35 | € 7.512,22 | € 8.764,26 | € 2.086,73 |
+| Zuidplas | € 20.654,73 | € 178.663,45 | € 41.309,47 | € 48.194,38 | € 11.474,85 |
+| Zundert | € 12.127,04 | € 104.898,90 | € 24.254,08 | € 28.296,43 | € 6.737,24 |
+| Zutphen | € 25.507,47 | € 220.639,57 | € 51.014,93 | € 59.517,42 | € 14.170,81 |
+| Zwartewaterland | € 12.567,35 | € 108.707,55 | € 25.134,69 | € 29.323,81 | € 6.981,86 |
+| Zwijndrecht | € 26.344,35 | € 227.878,59 | € 52.688,69 | € 61.470,14 | € 14.635,75 |
+| Zwolle | € 58.928,94 | € 509.735,36 | € 117.857,89 | € 137.500,87 | € 32.738,30 |
 
-| 2026 | Leefomgeving | Opgroeien in een Kansrijke Omgeving en Vroegsignalering Alcoholproblematiek | Versterken sociale basis | Mantelzorg | Eén tegen Eenzaamheid | Welzijn op recept | Versterking kennis- en adviesfunctie GGD | Coördinatie-kosten regionale aanpak preventie |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aa en Hunze | € 0 | € 0 | € 34.850 | € 11.617 | € 0 | € 17.425 | € 0 | € 0 |
-| Aalsmeer | € 0 | € 0 | € 45.785 | € 15.262 | € 0 | € 22.892 | € 0 | € 0 |
-| Aalten | € 0 | € 0 | € 45.680 | € 15.227 | € 0 | € 22.840 | € 0 | € 0 |
-| Achtkarspelen | € 0 | € 0 | € 52.170 | € 17.390 | € 0 | € 26.085 | € 0 | € 0 |
-| Alblasserdam | € 0 | € 0 | € 34.037 | € 11.346 | € 0 | € 17.019 | € 0 | € 0 |
-| Albrandswaard | € 0 | € 0 | € 31.936 | € 10.645 | € 0 | € 15.968 | € 0 | € 0 |
-| Alkmaar | € 0 | € 0 | € 166.955 | € 55.652 | € 0 | € 83.477 | € 0 | € 0 |
-| Almelo | € 0 | € 0 | € 134.006 | € 44.669 | € 0 | € 67.003 | € 0 | € 0 |
-| Almere | € 0 | € 0 | € 302.073 | € 100.691 | € 0 | € 151.036 | € 0 | € 0 |
-| Alphen aan den Rijn | € 0 | € 0 | € 163.014 | € 54.338 | € 0 | € 81.507 | € 0 | € 0 |
-| Alphen-Chaam | € 0 | € 0 | € 14.393 | € 4.798 | € 0 | € 7.197 | € 0 | € 0 |
-| Altena | € 0 | € 0 | € 96.520 | € 32.173 | € 0 | € 48.260 | € 0 | € 0 |
-| Ameland | € 0 | € 0 | € 12.058 | € 4.020 | € 0 | € 6.029 | € 0 | € 0 |
-| Amersfoort | € 0 | € 0 | € 201.263 | € 67.088 | € 0 | € 100.631 | € 0 | € 0 |
-| Amstelveen | € 0 | € 0 | € 112.883 | € 37.628 | € 0 | € 56.441 | € 0 | € 0 |
-| Amsterdam | € 0 | € 0 | € 1.311.913 | € 437.304 | € 0 | € 655.957 | € 0 | € 0 |
-| Apeldoorn | € 0 | € 0 | € 254.040 | € 84.680 | € 0 | € 127.020 | € 0 | € 0 |
-| Arnhem | € 0 | € 0 | € 263.109 | € 87.703 | € 0 | € 131.555 | € 0 | € 0 |
-| Assen | € 0 | € 0 | € 98.128 | € 32.709 | € 0 | € 49.064 | € 0 | € 0 |
-| Asten | € 0 | € 0 | € 27.511 | € 9.170 | € 0 | € 13.756 | € 0 | € 0 |
-| Baarle-Nassau | € 0 | € 0 | € 11.733 | € 3.911 | € 0 | € 5.866 | € 0 | € 0 |
-| Baarn | € 0 | € 0 | € 33.629 | € 11.210 | € 0 | € 16.814 | € 0 | € 0 |
-| Barendrecht | € 0 | € 0 | € 61.845 | € 20.615 | € 0 | € 30.922 | € 0 | € 0 |
-| Barneveld | € 0 | € 0 | € 86.124 | € 28.708 | € 0 | € 43.062 | € 0 | € 0 |
-| Beek | € 0 | € 0 | € 25.740 | € 8.580 | € 0 | € 12.870 | € 0 | € 0 |
-| Beekdaelen | € 0 | € 0 | € 58.317 | € 19.439 | € 0 | € 29.158 | € 0 | € 0 |
-| Beesel | € 0 | € 0 | € 24.115 | € 8.038 | € 0 | € 12.058 | € 0 | € 0 |
-| Berg en Dal | € 0 | € 0 | € 59.850 | € 19.950 | € 0 | € 29.925 | € 0 | € 0 |
-| Bergeijk | € 0 | € 0 | € 27.072 | € 9.024 | € 0 | € 13.536 | € 0 | € 0 |
-| Bergen (L.) | € 0 | € 0 | € 23.328 | € 7.776 | € 0 | € 11.664 | € 0 | € 0 |
-| Bergen (NH.) | € 0 | € 0 | € 37.729 | € 12.576 | € 0 | € 18.865 | € 0 | € 0 |
-| Bergen op Zoom | € 0 | € 0 | € 113.422 | € 37.807 | € 0 | € 56.711 | € 0 | € 0 |
-| Berkelland | € 0 | € 0 | € 70.129 | € 23.376 | € 0 | € 35.065 | € 0 | € 0 |
-| Bernheze | € 0 | € 0 | € 48.884 | € 16.295 | € 0 | € 24.442 | € 0 | € 0 |
-| Best | € 0 | € 0 | € 40.291 | € 13.430 | € 0 | € 20.146 | € 0 | € 0 |
-| Beuningen | € 0 | € 0 | € 37.862 | € 12.621 | € 0 | € 18.931 | € 0 | € 0 |
-| Beverwijk | € 0 | € 0 | € 68.802 | € 22.934 | € 0 | € 34.401 | € 0 | € 0 |
-| Bladel | € 0 | € 0 | € 30.863 | € 10.288 | € 0 | € 15.432 | € 0 | € 0 |
-| Blaricum | € 0 | € 0 | € 12.975 | € 4.325 | € 0 | € 6.488 | € 0 | € 0 |
-| Bloemendaal | € 0 | € 0 | € 21.914 | € 7.305 | € 0 | € 10.957 | € 0 | € 0 |
-| Bodegraven-Reeuwijk | € 0 | € 0 | € 49.173 | € 16.391 | € 0 | € 24.586 | € 0 | € 0 |
-| Boekel | € 0 | € 0 | € 16.520 | € 5.507 | € 0 | € 8.260 | € 0 | € 0 |
-| Borger-Odoorn | € 0 | € 0 | € 42.369 | € 14.123 | € 0 | € 21.185 | € 0 | € 0 |
-| Borne | € 0 | € 0 | € 31.777 | € 10.592 | € 0 | € 15.889 | € 0 | € 0 |
-| Borsele | € 0 | € 0 | € 34.061 | € 11.354 | € 0 | € 17.031 | € 0 | € 0 |
-| Boxtel | € 0 | € 0 | € 53.876 | € 17.959 | € 0 | € 26.938 | € 0 | € 0 |
-| Breda | € 0 | € 0 | € 257.547 | € 85.849 | € 0 | € 128.773 | € 0 | € 0 |
-| Bronckhorst | € 0 | € 0 | € 55.419 | € 18.473 | € 0 | € 27.710 | € 0 | € 0 |
-| Brummen | € 0 | € 0 | € 33.281 | € 11.094 | € 0 | € 16.640 | € 0 | € 0 |
-| Brunssum | € 0 | € 0 | € 57.497 | € 19.166 | € 0 | € 28.748 | € 0 | € 0 |
-| Bunnik | € 0 | € 0 | € 16.159 | € 5.386 | € 0 | € 8.080 | € 0 | € 0 |
-| Bunschoten | € 0 | € 0 | € 35.629 | € 11.876 | € 0 | € 17.814 | € 0 | € 0 |
-| Buren | € 0 | € 0 | € 44.909 | € 14.970 | € 0 | € 22.455 | € 0 | € 0 |
-| Capelle aan den IJssel | € 0 | € 0 | € 108.110 | € 36.037 | € 0 | € 54.055 | € 0 | € 0 |
-| Castricum | € 0 | € 0 | € 41.736 | € 13.912 | € 0 | € 20.868 | € 0 | € 0 |
-| Coevorden | € 0 | € 0 | € 60.084 | € 20.028 | € 0 | € 30.042 | € 0 | € 0 |
-| Cranendonck | € 0 | € 0 | € 34.603 | € 11.534 | € 0 | € 17.301 | € 0 | € 0 |
-| Culemborg | € 0 | € 0 | € 42.882 | € 14.294 | € 0 | € 21.441 | € 0 | € 0 |
-| Dalfsen | € 0 | € 0 | € 42.592 | € 14.197 | € 0 | € 21.296 | € 0 | € 0 |
-| Dantumadiel | € 0 | € 0 | € 35.755 | € 11.918 | € 0 | € 17.877 | € 0 | € 0 |
-| De Bilt | € 0 | € 0 | € 50.843 | € 16.948 | € 0 | € 25.421 | € 0 | € 0 |
-| De Fryske Marren | € 0 | € 0 | € 81.405 | € 27.135 | € 0 | € 40.703 | € 0 | € 0 |
-| De Ronde Venen | € 0 | € 0 | € 60.383 | € 20.128 | € 0 | € 30.191 | € 0 | € 0 |
-| De Wolden | € 0 | € 0 | € 35.778 | € 11.926 | € 0 | € 17.889 | € 0 | € 0 |
-| Delft | € 0 | € 0 | € 140.187 | € 46.729 | € 0 | € 70.093 | € 0 | € 0 |
-| Den Helder | € 0 | € 0 | € 104.108 | € 34.703 | € 0 | € 52.054 | € 0 | € 0 |
-| Deurne | € 0 | € 0 | € 54.565 | € 18.188 | € 0 | € 27.282 | € 0 | € 0 |
-| Deventer | € 0 | € 0 | € 152.341 | € 50.780 | € 0 | € 76.170 | € 0 | € 0 |
-| Diemen | € 0 | € 0 | € 35.485 | € 11.828 | € 0 | € 17.743 | € 0 | € 0 |
-| Dijk en Waard | € 0 | € 0 | € 121.999 | € 40.666 | € 0 | € 61.000 | € 0 | € 0 |
-| Dinkelland | € 0 | € 0 | € 35.482 | € 11.827 | € 0 | € 17.741 | € 0 | € 0 |
-| Doesburg | € 0 | € 0 | € 20.028 | € 6.676 | € 0 | € 10.014 | € 0 | € 0 |
-| Doetinchem | € 0 | € 0 | € 91.438 | € 30.479 | € 0 | € 45.719 | € 0 | € 0 |
-| Dongen | € 0 | € 0 | € 41.151 | € 13.717 | € 0 | € 20.575 | € 0 | € 0 |
-| Dordrecht | € 0 | € 0 | € 201.315 | € 67.105 | € 0 | € 100.658 | € 0 | € 0 |
-| Drechterland | € 0 | € 0 | € 30.393 | € 10.131 | € 0 | € 15.197 | € 0 | € 0 |
-| Drimmelen | € 0 | € 0 | € 44.649 | € 14.883 | € 0 | € 22.324 | € 0 | € 0 |
-| Dronten | € 0 | € 0 | € 59.214 | € 19.738 | € 0 | € 29.607 | € 0 | € 0 |
-| Druten | € 0 | € 0 | € 29.846 | € 9.949 | € 0 | € 14.923 | € 0 | € 0 |
-| Duiven | € 0 | € 0 | € 36.605 | € 12.202 | € 0 | € 18.303 | € 0 | € 0 |
-| Echt-Susteren | € 0 | € 0 | € 59.003 | € 19.668 | € 0 | € 29.501 | € 0 | € 0 |
-| Edam-Volendam | € 0 | € 0 | € 58.126 | € 19.375 | € 0 | € 29.063 | € 0 | € 0 |
-| Ede | € 0 | € 0 | € 166.623 | € 55.541 | € 0 | € 83.312 | € 0 | € 0 |
-| Eemnes | € 0 | € 0 | € 10.671 | € 3.557 | € 0 | € 5.336 | € 0 | € 0 |
-| Eemsdelta | € 0 | € 0 | € 84.801 | € 28.267 | € 0 | € 42.401 | € 0 | € 0 |
-| Eersel | € 0 | € 0 | € 26.046 | € 8.682 | € 0 | € 13.023 | € 0 | € 0 |
-| Eijsden-Margraten | € 0 | € 0 | € 34.909 | € 11.636 | € 0 | € 17.455 | € 0 | € 0 |
-| Eindhoven | € 0 | € 0 | € 365.340 | € 121.780 | € 0 | € 182.670 | € 0 | € 0 |
-| Elburg | € 0 | € 0 | € 38.537 | € 12.846 | € 0 | € 19.268 | € 0 | € 0 |
-| Emmen | € 0 | € 0 | € 207.435 | € 69.145 | € 0 | € 103.718 | € 0 | € 0 |
-| Enkhuizen | € 0 | € 0 | € 31.356 | € 10.452 | € 0 | € 15.678 | € 0 | € 0 |
-| Enschede | € 0 | € 0 | € 271.836 | € 90.612 | € 0 | € 135.918 | € 0 | € 0 |
-| Epe | € 0 | € 0 | € 55.560 | € 18.520 | € 0 | € 27.780 | € 0 | € 0 |
-| Ermelo | € 0 | € 0 | € 37.935 | € 12.645 | € 0 | € 18.967 | € 0 | € 0 |
-| Etten-Leur | € 0 | € 0 | € 67.984 | € 22.661 | € 0 | € 33.992 | € 0 | € 0 |
-| Geertruidenberg | € 0 | € 0 | € 36.793 | € 12.264 | € 0 | € 18.397 | € 0 | € 0 |
-| Geldrop-Mierlo | € 0 | € 0 | € 61.990 | € 20.663 | € 0 | € 30.995 | € 0 | € 0 |
-| Gemert-Bakel | € 0 | € 0 | € 50.985 | € 16.995 | € 0 | € 25.493 | € 0 | € 0 |
-| Gennep | € 0 | € 0 | € 26.836 | € 8.945 | € 0 | € 13.418 | € 0 | € 0 |
-| Gilze en Rijen | € 0 | € 0 | € 40.556 | € 13.519 | € 0 | € 20.278 | € 0 | € 0 |
-| Goeree-Overflakkee | € 0 | € 0 | € 83.994 | € 27.998 | € 0 | € 41.997 | € 0 | € 0 |
-| Goes | € 0 | € 0 | € 63.277 | € 21.092 | € 0 | € 31.639 | € 0 | € 0 |
-| Goirle | € 0 | € 0 | € 32.819 | € 10.940 | € 0 | € 16.410 | € 0 | € 0 |
-| Gooise Meren | € 0 | € 0 | € 66.602 | € 22.201 | € 0 | € 33.301 | € 0 | € 0 |
-| Gorinchem | € 0 | € 0 | € 63.629 | € 21.210 | € 0 | € 31.815 | € 0 | € 0 |
-| Gouda | € 0 | € 0 | € 112.535 | € 37.512 | € 0 | € 56.267 | € 0 | € 0 |
-| Groningen | € 0 | € 0 | € 302.209 | € 100.736 | € 0 | € 151.105 | € 0 | € 0 |
-| Gulpen-Wittem | € 0 | € 0 | € 23.917 | € 7.972 | € 0 | € 11.959 | € 0 | € 0 |
-| Haaksbergen | € 0 | € 0 | € 35.843 | € 11.948 | € 0 | € 17.921 | € 0 | € 0 |
-| Haarlem | € 0 | € 0 | € 226.150 | € 75.383 | € 0 | € 113.075 | € 0 | € 0 |
-| Haarlemmermeer | € 0 | € 0 | € 210.540 | € 70.180 | € 0 | € 105.270 | € 0 | € 0 |
-| Halderberge | € 0 | € 0 | € 52.743 | € 17.581 | € 0 | € 26.371 | € 0 | € 0 |
-| Hardenberg | € 0 | € 0 | € 98.582 | € 32.861 | € 0 | € 49.291 | € 0 | € 0 |
-| Harderwijk | € 0 | € 0 | € 73.956 | € 24.652 | € 0 | € 36.978 | € 0 | € 0 |
-| Hardinxveld-Giessendam | € 0 | € 0 | € 28.305 | € 9.435 | € 0 | € 14.153 | € 0 | € 0 |
-| Harlingen | € 0 | € 0 | € 28.905 | € 9.635 | € 0 | € 14.453 | € 0 | € 0 |
-| Hattem | € 0 | € 0 | € 17.365 | € 5.788 | € 0 | € 8.682 | € 0 | € 0 |
-| Heemskerk | € 0 | € 0 | € 60.478 | € 20.159 | € 0 | € 30.239 | € 0 | € 0 |
-| Heemstede | € 0 | € 0 | € 28.407 | € 9.469 | € 0 | € 14.203 | € 0 | € 0 |
-| Heerde | € 0 | € 0 | € 30.567 | € 10.189 | € 0 | € 15.283 | € 0 | € 0 |
-| Heerenveen | € 0 | € 0 | € 81.987 | € 27.329 | € 0 | € 40.993 | € 0 | € 0 |
-| Heerlen | € 0 | € 0 | € 188.651 | € 62.884 | € 0 | € 94.326 | € 0 | € 0 |
-| Heeze-Leende | € 0 | € 0 | € 19.430 | € 6.477 | € 0 | € 9.715 | € 0 | € 0 |
-| Heiloo | € 0 | € 0 | € 28.027 | € 9.342 | € 0 | € 14.013 | € 0 | € 0 |
-| Hellendoorn | € 0 | € 0 | € 55.821 | € 18.607 | € 0 | € 27.911 | € 0 | € 0 |
-| Helmond | € 0 | € 0 | € 166.738 | € 55.579 | € 0 | € 83.369 | € 0 | € 0 |
-| Hendrik-Ido-Ambacht | € 0 | € 0 | € 40.737 | € 13.579 | € 0 | € 20.369 | € 0 | € 0 |
-| Hengelo | € 0 | € 0 | € 121.670 | € 40.557 | € 0 | € 60.835 | € 0 | € 0 |
-| Het Hogeland | € 0 | € 0 | € 80.977 | € 26.992 | € 0 | € 40.488 | € 0 | € 0 |
-| Heumen | € 0 | € 0 | € 20.772 | € 6.924 | € 0 | € 10.386 | € 0 | € 0 |
-| Heusden | € 0 | € 0 | € 71.890 | € 23.963 | € 0 | € 35.945 | € 0 | € 0 |
-| Hillegom | € 0 | € 0 | € 34.848 | € 11.616 | € 0 | € 17.424 | € 0 | € 0 |
-| Hilvarenbeek | € 0 | € 0 | € 20.753 | € 6.918 | € 0 | € 10.377 | € 0 | € 0 |
-| Hilversum | € 0 | € 0 | € 134.132 | € 44.711 | € 0 | € 67.066 | € 0 | € 0 |
-| Hoeksche Waard | € 0 | € 0 | € 130.159 | € 43.386 | € 0 | € 65.080 | € 0 | € 0 |
-| Hof van Twente | € 0 | € 0 | € 52.987 | € 17.662 | € 0 | € 26.494 | € 0 | € 0 |
-| Hollands Kroon | € 0 | € 0 | € 77.721 | € 25.907 | € 0 | € 38.860 | € 0 | € 0 |
-| Hoogeveen | € 0 | € 0 | € 104.240 | € 34.747 | € 0 | € 52.120 | € 0 | € 0 |
-| Hoorn | € 0 | € 0 | € 115.323 | € 38.441 | € 0 | € 57.661 | € 0 | € 0 |
-| Horst aan de Maas | € 0 | € 0 | € 65.265 | € 21.755 | € 0 | € 32.632 | € 0 | € 0 |
-| Houten | € 0 | € 0 | € 55.522 | € 18.507 | € 0 | € 27.761 | € 0 | € 0 |
-| Huizen | € 0 | € 0 | € 59.467 | € 19.822 | € 0 | € 29.734 | € 0 | € 0 |
-| Hulst | € 0 | € 0 | € 49.029 | € 16.343 | € 0 | € 24.515 | € 0 | € 0 |
-| IJsselstein | € 0 | € 0 | € 46.563 | € 15.521 | € 0 | € 23.281 | € 0 | € 0 |
-| Kaag en Braassem | € 0 | € 0 | € 42.002 | € 14.001 | € 0 | € 21.001 | € 0 | € 0 |
-| Kampen | € 0 | € 0 | € 87.242 | € 29.081 | € 0 | € 43.621 | € 0 | € 0 |
-| Kapelle | € 0 | € 0 | € 19.597 | € 6.532 | € 0 | € 9.798 | € 0 | € 0 |
-| Katwijk | € 0 | € 0 | € 106.049 | € 35.350 | € 0 | € 53.024 | € 0 | € 0 |
-| Kerkrade | € 0 | € 0 | € 103.527 | € 34.509 | € 0 | € 51.763 | € 0 | € 0 |
-| Koggenland | € 0 | € 0 | € 31.276 | € 10.425 | € 0 | € 15.638 | € 0 | € 0 |
-| Krimpen aan den IJssel | € 0 | € 0 | € 47.287 | € 15.762 | € 0 | € 23.644 | € 0 | € 0 |
-| Krimpenerwaard | € 0 | € 0 | € 88.435 | € 29.478 | € 0 | € 44.217 | € 0 | € 0 |
-| Laarbeek | € 0 | € 0 | € 37.185 | € 12.395 | € 0 | € 18.593 | € 0 | € 0 |
-| Land van Cuijk | € 0 | € 0 | € 140.124 | € 46.708 | € 0 | € 70.062 | € 0 | € 0 |
-| Landgraaf | € 0 | € 0 | € 73.295 | € 24.432 | € 0 | € 36.647 | € 0 | € 0 |
-| Landsmeer | € 0 | € 0 | € 14.665 | € 4.888 | € 0 | € 7.332 | € 0 | € 0 |
-| Lansingerland | € 0 | € 0 | € 72.807 | € 24.269 | € 0 | € 36.404 | € 0 | € 0 |
-| Laren | € 0 | € 0 | € 13.393 | € 4.464 | € 0 | € 6.696 | € 0 | € 0 |
-| Leeuwarden | € 0 | € 0 | € 189.965 | € 63.322 | € 0 | € 94.982 | € 0 | € 0 |
-| Leiden | € 0 | € 0 | € 164.063 | € 54.688 | € 0 | € 82.032 | € 0 | € 0 |
-| Leiderdorp | € 0 | € 0 | € 34.386 | € 11.462 | € 0 | € 17.193 | € 0 | € 0 |
-| Leidschendam-Voorburg | € 0 | € 0 | € 103.732 | € 34.577 | € 0 | € 51.866 | € 0 | € 0 |
-| Lelystad | € 0 | € 0 | € 129.045 | € 43.015 | € 0 | € 64.523 | € 0 | € 0 |
-| Leudal | € 0 | € 0 | € 55.733 | € 18.578 | € 0 | € 27.867 | € 0 | € 0 |
-| Leusden | € 0 | € 0 | € 34.226 | € 11.409 | € 0 | € 17.113 | € 0 | € 0 |
-| Lingewaard | € 0 | € 0 | € 71.473 | € 23.824 | € 0 | € 35.736 | € 0 | € 0 |
-| Lisse | € 0 | € 0 | € 35.764 | € 11.921 | € 0 | € 17.882 | € 0 | € 0 |
-| Lochem | € 0 | € 0 | € 46.310 | € 15.437 | € 0 | € 23.155 | € 0 | € 0 |
-| Loon op Zand | € 0 | € 0 | € 38.692 | € 12.897 | € 0 | € 19.346 | € 0 | € 0 |
-| Lopik | € 0 | € 0 | € 22.611 | € 7.537 | € 0 | € 11.305 | € 0 | € 0 |
-| Losser | € 0 | € 0 | € 37.011 | € 12.337 | € 0 | € 18.505 | € 0 | € 0 |
-| Maasdriel | € 0 | € 0 | € 43.012 | € 14.337 | € 0 | € 21.506 | € 0 | € 0 |
-| Maasgouw | € 0 | € 0 | € 40.940 | € 13.647 | € 0 | € 20.470 | € 0 | € 0 |
-| Maashorst | € 0 | € 0 | € 92.064 | € 30.688 | € 0 | € 46.032 | € 0 | € 0 |
-| Maassluis | € 0 | € 0 | € 59.015 | € 19.672 | € 0 | € 29.507 | € 0 | € 0 |
-| Maastricht | € 0 | € 0 | € 205.010 | € 68.337 | € 0 | € 102.505 | € 0 | € 0 |
-| Medemblik | € 0 | € 0 | € 74.179 | € 24.726 | € 0 | € 37.089 | € 0 | € 0 |
-| Meerssen | € 0 | € 0 | € 28.782 | € 9.594 | € 0 | € 14.391 | € 0 | € 0 |
-| Meierijstad | € 0 | € 0 | € 128.855 | € 42.952 | € 0 | € 64.428 | € 0 | € 0 |
-| Meppel | € 0 | € 0 | € 52.196 | € 17.399 | € 0 | € 26.098 | € 0 | € 0 |
-| Middelburg | € 0 | € 0 | € 73.616 | € 24.539 | € 0 | € 36.808 | € 0 | € 0 |
-| Midden-Delfland | € 0 | € 0 | € 22.988 | € 7.663 | € 0 | € 11.494 | € 0 | € 0 |
-| Midden-Drenthe | € 0 | € 0 | € 47.834 | € 15.945 | € 0 | € 23.917 | € 0 | € 0 |
-| Midden-Groningen | € 0 | € 0 | € 110.852 | € 36.951 | € 0 | € 55.426 | € 0 | € 0 |
-| Moerdijk | € 0 | € 0 | € 59.524 | € 19.841 | € 0 | € 29.762 | € 0 | € 0 |
-| Molenlanden | € 0 | € 0 | € 64.999 | € 21.666 | € 0 | € 32.499 | € 0 | € 0 |
-| Montferland | € 0 | € 0 | € 64.764 | € 21.588 | € 0 | € 32.382 | € 0 | € 0 |
-| Montfoort | € 0 | € 0 | € 19.605 | € 6.535 | € 0 | € 9.802 | € 0 | € 0 |
-| Mook en Middelaar | € 0 | € 0 | € 9.171 | € 3.057 | € 0 | € 4.586 | € 0 | € 0 |
-| Neder-Betuwe | € 0 | € 0 | € 42.122 | € 14.041 | € 0 | € 21.061 | € 0 | € 0 |
-| Nederweert | € 0 | € 0 | € 29.248 | € 9.749 | € 0 | € 14.624 | € 0 | € 0 |
-| Nieuwegein | € 0 | € 0 | € 100.453 | € 33.484 | € 0 | € 50.227 | € 0 | € 0 |
-| Nieuwkoop | € 0 | € 0 | € 43.263 | € 14.421 | € 0 | € 21.631 | € 0 | € 0 |
-| Nijkerk | € 0 | € 0 | € 65.742 | € 21.914 | € 0 | € 32.871 | € 0 | € 0 |
-| Nijmegen | € 0 | € 0 | € 261.996 | € 87.332 | € 0 | € 130.998 | € 0 | € 0 |
-| Nissewaard | € 0 | € 0 | € 144.887 | € 48.296 | € 0 | € 72.444 | € 0 | € 0 |
-| Noardeast-Fryslân | € 0 | € 0 | € 82.301 | € 27.434 | € 0 | € 41.151 | € 0 | € 0 |
-| Noord-Beveland | € 0 | € 0 | € 10.969 | € 3.656 | € 0 | € 5.485 | € 0 | € 0 |
-| Noordenveld | € 0 | € 0 | € 43.386 | € 14.462 | € 0 | € 21.693 | € 0 | € 0 |
-| Noordoostpolder | € 0 | € 0 | € 71.530 | € 23.843 | € 0 | € 35.765 | € 0 | € 0 |
-| Noordwijk | € 0 | € 0 | € 63.632 | € 21.211 | € 0 | € 31.816 | € 0 | € 0 |
-| Nuenen, Gerwen en Nederwetten | € 0 | € 0 | € 27.546 | € 9.182 | € 0 | € 13.773 | € 0 | € 0 |
-| Nunspeet | € 0 | € 0 | € 44.808 | € 14.936 | € 0 | € 22.404 | € 0 | € 0 |
-| Oegstgeest | € 0 | € 0 | € 23.093 | € 7.698 | € 0 | € 11.546 | € 0 | € 0 |
-| Oirschot | € 0 | € 0 | € 27.328 | € 9.109 | € 0 | € 13.664 | € 0 | € 0 |
-| Oisterwijk | € 0 | € 0 | € 45.114 | € 15.038 | € 0 | € 22.557 | € 0 | € 0 |
-| Oldambt | € 0 | € 0 | € 77.730 | € 25.910 | € 0 | € 38.865 | € 0 | € 0 |
-| Oldebroek | € 0 | € 0 | € 43.682 | € 14.561 | € 0 | € 21.841 | € 0 | € 0 |
-| Oldenzaal | € 0 | € 0 | € 50.492 | € 16.831 | € 0 | € 25.246 | € 0 | € 0 |
-| Olst-Wijhe | € 0 | € 0 | € 26.810 | € 8.937 | € 0 | € 13.405 | € 0 | € 0 |
-| Ommen | € 0 | € 0 | € 28.095 | € 9.365 | € 0 | € 14.048 | € 0 | € 0 |
-| Oost Gelre | € 0 | € 0 | € 43.123 | € 14.374 | € 0 | € 21.561 | € 0 | € 0 |
-| Oosterhout | € 0 | € 0 | € 90.999 | € 30.333 | € 0 | € 45.499 | € 0 | € 0 |
-| Ooststellingwerf | € 0 | € 0 | € 43.153 | € 14.384 | € 0 | € 21.577 | € 0 | € 0 |
-| Oostzaan | € 0 | € 0 | € 13.960 | € 4.653 | € 0 | € 6.980 | € 0 | € 0 |
-| Opmeer | € 0 | € 0 | € 17.651 | € 5.884 | € 0 | € 8.826 | € 0 | € 0 |
-| Opsterland | € 0 | € 0 | € 45.637 | € 15.212 | € 0 | € 22.819 | € 0 | € 0 |
-| Oss | € 0 | € 0 | € 153.779 | € 51.260 | € 0 | € 76.889 | € 0 | € 0 |
-| Oude IJsselstreek | € 0 | € 0 | € 70.797 | € 23.599 | € 0 | € 35.399 | € 0 | € 0 |
-| Ouder-Amstel | € 0 | € 0 | € 16.404 | € 5.468 | € 0 | € 8.202 | € 0 | € 0 |
-| Oudewater | € 0 | € 0 | € 14.915 | € 4.972 | € 0 | € 7.457 | € 0 | € 0 |
-| Overbetuwe | € 0 | € 0 | € 67.104 | € 22.368 | € 0 | € 33.552 | € 0 | € 0 |
-| Papendrecht | € 0 | € 0 | € 48.953 | € 16.318 | € 0 | € 24.477 | € 0 | € 0 |
-| Peel en Maas | € 0 | € 0 | € 73.576 | € 24.525 | € 0 | € 36.788 | € 0 | € 0 |
-| Pekela | € 0 | € 0 | € 26.084 | € 8.695 | € 0 | € 13.042 | € 0 | € 0 |
-| Pijnacker-Nootdorp | € 0 | € 0 | € 63.356 | € 21.119 | € 0 | € 31.678 | € 0 | € 0 |
-| Purmerend | € 0 | € 0 | € 149.293 | € 49.764 | € 0 | € 74.647 | € 0 | € 0 |
-| Putten | € 0 | € 0 | € 40.465 | € 13.488 | € 0 | € 20.233 | € 0 | € 0 |
-| Raalte | € 0 | € 0 | € 56.432 | € 18.811 | € 0 | € 28.216 | € 0 | € 0 |
-| Reimerswaal | € 0 | € 0 | € 38.531 | € 12.844 | € 0 | € 19.266 | € 0 | € 0 |
-| Renkum | € 0 | € 0 | € 41.858 | € 13.953 | € 0 | € 20.929 | € 0 | € 0 |
-| Renswoude | € 0 | € 0 | € 7.394 | € 2.465 | € 0 | € 3.697 | € 0 | € 0 |
-| Reusel-De Mierden | € 0 | € 0 | € 19.930 | € 6.643 | € 0 | € 9.965 | € 0 | € 0 |
-| Rheden | € 0 | € 0 | € 73.334 | € 24.445 | € 0 | € 36.667 | € 0 | € 0 |
-| Rhenen | € 0 | € 0 | € 30.741 | € 10.247 | € 0 | € 15.371 | € 0 | € 0 |
-| Ridderkerk | € 0 | € 0 | € 84.504 | € 28.168 | € 0 | € 42.252 | € 0 | € 0 |
-| Rijssen-Holten | € 0 | € 0 | € 57.350 | € 19.117 | € 0 | € 28.675 | € 0 | € 0 |
-| Rijswijk | € 0 | € 0 | € 83.962 | € 27.987 | € 0 | € 41.981 | € 0 | € 0 |
-| Roerdalen | € 0 | € 0 | € 34.350 | € 11.450 | € 0 | € 17.175 | € 0 | € 0 |
-| Roermond | € 0 | € 0 | € 107.137 | € 35.712 | € 0 | € 53.569 | € 0 | € 0 |
-| Roosendaal | € 0 | € 0 | € 130.966 | € 43.655 | € 0 | € 65.483 | € 0 | € 0 |
-| Rotterdam | € 0 | € 0 | € 1.158.664 | € 386.221 | € 0 | € 579.332 | € 0 | € 0 |
-| Rozendaal | € 0 | € 0 | € 8.045 | € 2.683 | € 0 | € 4.021 | € 0 | € 0 |
-| Rucphen | € 0 | € 0 | € 46.918 | € 15.639 | € 0 | € 23.459 | € 0 | € 0 |
-| Schagen | € 0 | € 0 | € 67.609 | € 22.536 | € 0 | € 33.805 | € 0 | € 0 |
-| Scherpenzeel | € 0 | € 0 | € 15.305 | € 5.102 | € 0 | € 7.653 | € 0 | € 0 |
-| Schiedam | € 0 | € 0 | € 143.981 | € 47.994 | € 0 | € 71.991 | € 0 | € 0 |
-| Schiermonnikoog | € 0 | € 0 | € 12.060 | € 4.023 | € 0 | € 6.025 | € 0 | € 0 |
-| Schouwen-Duiveland | € 0 | € 0 | € 54.246 | € 18.082 | € 0 | € 27.123 | € 0 | € 0 |
-| 's-Gravenhage | € 0 | € 0 | € 867.764 | € 289.255 | € 0 | € 433.882 | € 0 | € 0 |
-| 's-Hertogenbosch | € 0 | € 0 | € 234.631 | € 78.210 | € 0 | € 117.316 | € 0 | € 0 |
-| Simpelveld | € 0 | € 0 | € 19.708 | € 6.569 | € 0 | € 9.854 | € 0 | € 0 |
-| Sint-Michielsgestel | € 0 | € 0 | € 40.168 | € 13.389 | € 0 | € 20.084 | € 0 | € 0 |
-| Sittard-Geleen | € 0 | € 0 | € 169.993 | € 56.664 | € 0 | € 84.997 | € 0 | € 0 |
-| Sliedrecht | € 0 | € 0 | € 44.473 | € 14.824 | € 0 | € 22.236 | € 0 | € 0 |
-| Sluis | € 0 | € 0 | € 39.186 | € 13.062 | € 0 | € 19.593 | € 0 | € 0 |
-| Smallingerland | € 0 | € 0 | € 95.046 | € 31.682 | € 0 | € 47.523 | € 0 | € 0 |
-| Soest | € 0 | € 0 | € 63.405 | € 21.135 | € 0 | € 31.702 | € 0 | € 0 |
-| Someren | € 0 | € 0 | € 32.998 | € 10.999 | € 0 | € 16.499 | € 0 | € 0 |
-| Son en Breugel | € 0 | € 0 | € 20.288 | € 6.763 | € 0 | € 10.144 | € 0 | € 0 |
-| Stadskanaal | € 0 | € 0 | € 65.502 | € 21.834 | € 0 | € 32.751 | € 0 | € 0 |
-| Staphorst | € 0 | € 0 | € 26.299 | € 8.766 | € 0 | € 13.150 | € 0 | € 0 |
-| Stede Broec | € 0 | € 0 | € 38.795 | € 12.932 | € 0 | € 19.397 | € 0 | € 0 |
-| Steenbergen | € 0 | € 0 | € 43.612 | € 14.537 | € 0 | € 21.806 | € 0 | € 0 |
-| Steenwijkerland | € 0 | € 0 | € 72.513 | € 24.171 | € 0 | € 36.256 | € 0 | € 0 |
-| Stein | € 0 | € 0 | € 45.428 | € 15.143 | € 0 | € 22.714 | € 0 | € 0 |
-| Stichtse Vecht | € 0 | € 0 | € 87.845 | € 29.282 | € 0 | € 43.923 | € 0 | € 0 |
-| Súdwest-Fryslân | € 0 | € 0 | € 143.238 | € 47.746 | € 0 | € 71.619 | € 0 | € 0 |
-| Terneuzen | € 0 | € 0 | € 98.716 | € 32.905 | € 0 | € 49.358 | € 0 | € 0 |
-| Terschelling | € 0 | € 0 | € 12.057 | € 4.020 | € 0 | € 6.025 | € 0 | € 0 |
-| Texel | € 0 | € 0 | € 21.186 | € 7.062 | € 0 | € 10.593 | € 0 | € 0 |
-| Teylingen | € 0 | € 0 | € 45.283 | € 15.094 | € 0 | € 22.641 | € 0 | € 0 |
-| Tholen | € 0 | € 0 | € 44.940 | € 14.980 | € 0 | € 22.470 | € 0 | € 0 |
-| Tiel | € 0 | € 0 | € 74.599 | € 24.866 | € 0 | € 37.300 | € 0 | € 0 |
-| Tilburg | € 0 | € 0 | € 364.894 | € 121.631 | € 0 | € 182.447 | € 0 | € 0 |
-| Tubbergen | € 0 | € 0 | € 29.568 | € 9.856 | € 0 | € 14.784 | € 0 | € 0 |
-| Twenterand | € 0 | € 0 | € 59.693 | € 19.898 | € 0 | € 29.847 | € 0 | € 0 |
-| Tynaarlo | € 0 | € 0 | € 39.773 | € 13.258 | € 0 | € 19.887 | € 0 | € 0 |
-| Tytsjerksteradiel | € 0 | € 0 | € 50.843 | € 16.948 | € 0 | € 25.422 | € 0 | € 0 |
-| Uitgeest | € 0 | € 0 | € 14.912 | € 4.971 | € 0 | € 7.456 | € 0 | € 0 |
-| Uithoorn | € 0 | € 0 | € 41.915 | € 13.972 | € 0 | € 20.957 | € 0 | € 0 |
-| Urk | € 0 | € 0 | € 31.236 | € 10.412 | € 0 | € 15.618 | € 0 | € 0 |
-| Utrecht | € 0 | € 0 | € 431.007 | € 143.669 | € 0 | € 215.504 | € 0 | € 0 |
-| Utrechtse Heuvelrug | € 0 | € 0 | € 58.419 | € 19.473 | € 0 | € 29.209 | € 0 | € 0 |
-| Vaals | € 0 | € 0 | € 19.796 | € 6.599 | € 0 | € 9.898 | € 0 | € 0 |
-| Valkenburg aan de Geul | € 0 | € 0 | € 27.865 | € 9.288 | € 0 | € 13.932 | € 0 | € 0 |
-| Valkenswaard | € 0 | € 0 | € 53.005 | € 17.668 | € 0 | € 26.502 | € 0 | € 0 |
-| Veendam | € 0 | € 0 | € 52.265 | € 17.422 | € 0 | € 26.133 | € 0 | € 0 |
-| Veenendaal | € 0 | € 0 | € 101.719 | € 33.906 | € 0 | € 50.859 | € 0 | € 0 |
-| Veere | € 0 | € 0 | € 28.438 | € 9.479 | € 0 | € 14.219 | € 0 | € 0 |
-| Veldhoven | € 0 | € 0 | € 62.576 | € 20.859 | € 0 | € 31.288 | € 0 | € 0 |
-| Velsen | € 0 | € 0 | € 106.237 | € 35.412 | € 0 | € 53.118 | € 0 | € 0 |
-| Venlo | € 0 | € 0 | € 196.294 | € 65.431 | € 0 | € 98.147 | € 0 | € 0 |
-| Venray | € 0 | € 0 | € 73.631 | € 24.544 | € 0 | € 36.815 | € 0 | € 0 |
-| Vijfheerenlanden | € 0 | € 0 | € 94.049 | € 31.350 | € 0 | € 47.024 | € 0 | € 0 |
-| Vlaardingen | € 0 | € 0 | € 137.024 | € 45.675 | € 0 | € 68.512 | € 0 | € 0 |
-| Vlieland | € 0 | € 0 | € 12.059 | € 4.017 | € 0 | € 6.029 | € 0 | € 0 |
-| Vlissingen | € 0 | € 0 | € 75.214 | € 25.071 | € 0 | € 37.607 | € 0 | € 0 |
-| Voerendaal | € 0 | € 0 | € 19.024 | € 6.341 | € 0 | € 9.512 | € 0 | € 0 |
-| Voorne aan Zee | € 0 | € 0 | € 108.905 | € 36.302 | € 0 | € 54.453 | € 0 | € 0 |
-| Voorschoten | € 0 | € 0 | € 28.236 | € 9.412 | € 0 | € 14.118 | € 0 | € 0 |
-| Voorst | € 0 | € 0 | € 36.000 | € 12.000 | € 0 | € 18.000 | € 0 | € 0 |
-| Vught | € 0 | € 0 | € 40.750 | € 13.583 | € 0 | € 20.375 | € 0 | € 0 |
-| Waadhoeke | € 0 | € 0 | € 78.445 | € 26.148 | € 0 | € 39.223 | € 0 | € 0 |
-| Waalre | € 0 | € 0 | € 18.932 | € 6.311 | € 0 | € 9.466 | € 0 | € 0 |
-| Waalwijk | € 0 | € 0 | € 87.411 | € 29.137 | € 0 | € 43.705 | € 0 | € 0 |
-| Waddinxveen | € 0 | € 0 | € 44.148 | € 14.716 | € 0 | € 22.074 | € 0 | € 0 |
-| Wageningen | € 0 | € 0 | € 46.324 | € 15.441 | € 0 | € 23.162 | € 0 | € 0 |
-| Wassenaar | € 0 | € 0 | € 31.280 | € 10.427 | € 0 | € 15.640 | € 0 | € 0 |
-| Waterland | € 0 | € 0 | € 22.340 | € 7.447 | € 0 | € 11.170 | € 0 | € 0 |
-| Weert | € 0 | € 0 | € 86.191 | € 28.730 | € 0 | € 43.096 | € 0 | € 0 |
-| West Betuwe | € 0 | € 0 | € 79.176 | € 26.392 | € 0 | € 39.588 | € 0 | € 0 |
-| West Maas en Waal | € 0 | € 0 | € 31.296 | € 10.432 | € 0 | € 15.648 | € 0 | € 0 |
-| Westerkwartier | € 0 | € 0 | € 92.542 | € 30.847 | € 0 | € 46.271 | € 0 | € 0 |
-| Westerveld | € 0 | € 0 | € 29.593 | € 9.864 | € 0 | € 14.797 | € 0 | € 0 |
-| Westervoort | € 0 | € 0 | € 24.271 | € 8.090 | € 0 | € 12.136 | € 0 | € 0 |
-| Westerwolde | € 0 | € 0 | € 49.192 | € 16.397 | € 0 | € 24.596 | € 0 | € 0 |
-| Westland | € 0 | € 0 | € 175.307 | € 58.436 | € 0 | € 87.654 | € 0 | € 0 |
-| Weststellingwerf | € 0 | € 0 | € 46.768 | € 15.589 | € 0 | € 23.384 | € 0 | € 0 |
-| Wierden | € 0 | € 0 | € 33.454 | € 11.151 | € 0 | € 16.727 | € 0 | € 0 |
-| Wijchen | € 0 | € 0 | € 61.837 | € 20.612 | € 0 | € 30.919 | € 0 | € 0 |
-| Wijdemeren | € 0 | € 0 | € 32.491 | € 10.830 | € 0 | € 16.245 | € 0 | € 0 |
-| Wijk bij Duurstede | € 0 | € 0 | € 30.948 | € 10.316 | € 0 | € 15.474 | € 0 | € 0 |
-| Winterswijk | € 0 | € 0 | € 49.894 | € 16.631 | € 0 | € 24.947 | € 0 | € 0 |
-| Woensdrecht | € 0 | € 0 | € 36.154 | € 12.051 | € 0 | € 18.077 | € 0 | € 0 |
-| Woerden | € 0 | € 0 | € 69.098 | € 23.033 | € 0 | € 34.549 | € 0 | € 0 |
-| Wormerland | € 0 | € 0 | € 24.518 | € 8.173 | € 0 | € 12.259 | € 0 | € 0 |
-| Woudenberg | € 0 | € 0 | € 18.240 | € 6.080 | € 0 | € 9.120 | € 0 | € 0 |
-| Zaanstad | € 0 | € 0 | € 254.254 | € 84.751 | € 0 | € 127.127 | € 0 | € 0 |
-| Zaltbommel | € 0 | € 0 | € 46.302 | € 15.434 | € 0 | € 23.151 | € 0 | € 0 |
-| Zandvoort | € 0 | € 0 | € 27.715 | € 9.238 | € 0 | € 13.858 | € 0 | € 0 |
-| Zeewolde | € 0 | € 0 | € 28.834 | € 9.611 | € 0 | € 14.417 | € 0 | € 0 |
-| Zeist | € 0 | € 0 | € 83.860 | € 27.953 | € 0 | € 41.930 | € 0 | € 0 |
-| Zevenaar | € 0 | € 0 | € 79.910 | € 26.637 | € 0 | € 39.955 | € 0 | € 0 |
-| Zoetermeer | € 0 | € 0 | € 180.097 | € 60.032 | € 0 | € 90.049 | € 0 | € 0 |
-| Zoeterwoude | € 0 | € 0 | € 11.266 | € 3.755 | € 0 | € 5.633 | € 0 | € 0 |
-| Zuidplas | € 0 | € 0 | € 61.954 | € 20.651 | € 0 | € 30.977 | € 0 | € 0 |
-| Zundert | € 0 | € 0 | € 36.375 | € 12.125 | € 0 | € 18.188 | € 0 | € 0 |
-| Zutphen | € 0 | € 0 | € 76.510 | € 25.503 | € 0 | € 38.255 | € 0 | € 0 |
-| Zwartewaterland | € 0 | € 0 | € 37.696 | € 12.565 | € 0 | € 18.848 | € 0 | € 0 |
-| Zwijndrecht | € 0 | € 0 | € 79.020 | € 26.340 | € 0 | € 39.510 | € 0 | € 0 |
-| Zwolle | € 0 | € 0 | € 176.758 | € 58.919 | € 0 | € 88.379 | € 0 | € 0 |
+| 2026 | Aanpak overgewicht en obesitas | Valpreventie | Leef-omgeving | Opgroeien in een Kansrijke Omgeving & Vroegsignalering Alcohol-problematiek | Versterken Sociale Basis | Mantelzorg |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aa en Hunze | € 21.946,43 | € 56.931,62 | € 0,00 | € 0,00 | € 31.370,48 | € 33.694,22 |
+| Aalsmeer | € 28.832,26 | € 74.794,27 | € 0,00 | € 0,00 | € 41.213,17 | € 44.266,00 |
+| Aalten | € 28.766,41 | € 74.623,45 | € 0,00 | € 0,00 | € 41.119,05 | € 44.164,90 |
+| Achtkarspelen | € 32.853,19 | € 85.225,05 | € 0,00 | € 0,00 | € 46.960,74 | € 50.439,32 |
+| Alblasserdam | € 21.434,40 | € 55.603,35 | € 0,00 | € 0,00 | € 30.638,58 | € 32.908,11 |
+| Albrandswaard | € 20.111,45 | € 52.171,46 | € 0,00 | € 0,00 | € 28.747,54 | € 30.876,98 |
+| Alkmaar | € 105.136,94 | € 272.737,59 | € 0,00 | € 0,00 | € 150.283,98 | € 161.416,12 |
+| Almelo | € 84.387,70 | € 218.911,61 | € 0,00 | € 0,00 | € 120.624,76 | € 129.559,93 |
+| Almere | € 190.225,07 | € 493.466,22 | € 0,00 | € 0,00 | € 271.909,96 | € 292.051,43 |
+| Alphen aan den Rijn | € 102.655,00 | € 266.299,16 | € 0,00 | € 0,00 | € 146.736,27 | € 157.605,62 |
+| Alphen-Chaam | € 9.063,86 | € 23.512,72 | € 0,00 | € 0,00 | € 12.955,99 | € 13.915,69 |
+| Altena | € 60.781,73 | € 157.674,95 | € 0,00 | € 0,00 | € 86.882,12 | € 93.317,83 |
+| Ameland | € 3.178,71 | € 8.245,95 | € 0,00 | € 0,00 | € 4.543,69 | € 4.880,26 |
+| Amersfoort | € 126.741,62 | € 328.782,68 | € 0,00 | € 0,00 | € 181.165,96 | € 194.585,66 |
+| Amstelveen | € 71.086,02 | € 184.405,49 | € 0,00 | € 0,00 | € 101.611,19 | € 109.137,94 |
+| Amsterdam | € 826.154,55 | € 2.143.142,11 | € 0,00 | € 0,00 | € 1.180.915,04 | € 1.268.390,23 |
+| Apeldoorn | € 159.977,03 | € 414.999,24 | € 0,00 | € 0,00 | € 228.673,05 | € 245.611,80 |
+| Arnhem | € 165.688,30 | € 429.814,94 | € 0,00 | € 0,00 | € 236.836,80 | € 254.380,27 |
+| Assen | € 61.794,21 | € 160.301,45 | € 0,00 | € 0,00 | € 88.329,37 | € 94.872,28 |
+| Asten | € 17.324,73 | € 44.942,39 | € 0,00 | € 0,00 | € 24.764,18 | € 26.598,56 |
+| Baarle-Nassau | € 7.388,46 | € 19.166,52 | € 0,00 | € 0,00 | € 10.561,14 | € 11.343,45 |
+| Baarn | € 21.177,00 | € 54.935,63 | € 0,00 | € 0,00 | € 30.270,65 | € 32.512,92 |
+| Barendrecht | € 38.945,54 | € 101.029,31 | € 0,00 | € 0,00 | € 55.669,21 | € 59.792,86 |
+| Barneveld | € 54.235,24 | € 140.692,59 | € 0,00 | € 0,00 | € 77.524,49 | € 83.267,04 |
+| Beek | € 16.209,44 | € 42.049,20 | € 0,00 | € 0,00 | € 23.169,97 | € 24.886,26 |
+| Beekdaelen | € 36.723,99 | € 95.266,35 | € 0,00 | € 0,00 | € 52.493,70 | € 56.382,13 |
+| Beesel | € 15.186,26 | € 39.394,94 | € 0,00 | € 0,00 | € 21.707,41 | € 23.315,37 |
+| Berg en Dal | € 37.689,59 | € 97.771,24 | € 0,00 | € 0,00 | € 53.873,95 | € 57.864,61 |
+| Bergeijk | € 17.047,93 | € 44.224,32 | € 0,00 | € 0,00 | € 24.368,51 | € 26.173,58 |
+| Bergen (L.) | € 14.690,63 | € 38.109,22 | € 0,00 | € 0,00 | € 20.998,96 | € 22.554,44 |
+| Bergen (NH.) | € 23.759,22 | € 61.634,22 | € 0,00 | € 0,00 | € 33.961,71 | € 36.477,40 |
+| Bergen op Zoom | € 71.425,83 | € 185.287,01 | € 0,00 | € 0,00 | € 102.096,92 | € 109.659,66 |
+| Berkelland | € 44.162,60 | € 114.562,99 | € 0,00 | € 0,00 | € 63.126,55 | € 67.802,59 |
+| Bernheze | € 30.783,68 | € 79.856,48 | € 0,00 | € 0,00 | € 44.002,55 | € 47.262,00 |
+| Best | € 25.372,67 | € 65.819,68 | € 0,00 | € 0,00 | € 36.267,99 | € 38.954,50 |
+| Beuningen | € 23.842,69 | € 61.850,73 | € 0,00 | € 0,00 | € 34.081,02 | € 36.605,54 |
+| Beverwijk | € 43.326,68 | € 112.394,52 | € 0,00 | € 0,00 | € 61.931,67 | € 66.519,20 |
+| Bladel | € 19.435,75 | € 50.418,61 | € 0,00 | € 0,00 | € 27.781,69 | € 29.839,59 |
+| Blaricum | € 8.170,91 | € 21.196,30 | € 0,00 | € 0,00 | € 11.679,59 | € 12.544,75 |
+| Bloemendaal | € 13.800,11 | € 35.799,12 | € 0,00 | € 0,00 | € 19.726,05 | € 21.187,23 |
+| Bodegraven-Reeuwijk | € 30.965,63 | € 80.328,50 | € 0,00 | € 0,00 | € 44.262,64 | € 47.541,36 |
+| Boekel | € 10.403,00 | € 26.986,62 | € 0,00 | € 0,00 | € 14.870,18 | € 15.971,67 |
+| Borger-Odoorn | € 26.681,40 | € 69.214,69 | € 0,00 | € 0,00 | € 38.138,70 | € 40.963,79 |
+| Borne | € 20.011,21 | € 51.911,43 | € 0,00 | € 0,00 | € 28.604,26 | € 30.723,09 |
+| Borsele | € 21.449,42 | € 55.642,33 | € 0,00 | € 0,00 | € 30.660,06 | € 32.931,17 |
+| Boxtel | € 33.927,39 | € 88.011,63 | € 0,00 | € 0,00 | € 48.496,20 | € 52.088,52 |
+| Breda | € 162.185,70 | € 420.728,78 | € 0,00 | € 0,00 | € 231.830,14 | € 249.002,75 |
+| Bronckhorst | € 34.899,31 | € 90.532,91 | € 0,00 | € 0,00 | € 49.885,48 | € 53.580,70 |
+| Brummen | € 20.958,06 | € 54.367,66 | € 0,00 | € 0,00 | € 29.957,69 | € 32.176,78 |
+| Brunssum | € 36.207,67 | € 93.926,96 | € 0,00 | € 0,00 | € 51.755,67 | € 55.589,43 |
+| Bunnik | € 10.175,87 | € 26.397,40 | € 0,00 | € 0,00 | € 14.545,50 | € 15.622,95 |
+| Bunschoten | € 22.436,54 | € 58.203,02 | € 0,00 | € 0,00 | € 32.071,05 | € 34.446,68 |
+| Buren | € 28.280,92 | € 73.364,04 | € 0,00 | € 0,00 | € 40.425,08 | € 43.419,53 |
+| Capelle aan den IJssel | € 68.080,62 | € 176.609,13 | € 0,00 | € 0,00 | € 97.315,24 | € 104.523,77 |
+| Castricum | € 26.282,21 | € 68.179,14 | € 0,00 | € 0,00 | € 37.568,09 | € 40.350,92 |
+| Coevorden | € 37.836,74 | € 98.152,95 | € 0,00 | € 0,00 | € 54.084,28 | € 58.090,52 |
+| Cranendonck | € 21.790,32 | € 56.526,66 | € 0,00 | € 0,00 | € 31.147,35 | € 33.454,56 |
+| Culemborg | € 27.003,98 | € 70.051,51 | € 0,00 | € 0,00 | € 38.599,81 | € 41.459,06 |
+| Dalfsen | € 26.821,36 | € 69.577,75 | € 0,00 | € 0,00 | € 38.338,76 | € 41.178,67 |
+| Dantumadiel | € 22.515,79 | € 58.408,62 | € 0,00 | € 0,00 | € 32.184,34 | € 34.568,36 |
+| De Bilt | € 32.017,38 | € 83.056,86 | € 0,00 | € 0,00 | € 45.766,03 | € 49.156,10 |
+| De Fryske Marren | € 51.263,54 | € 132.983,64 | € 0,00 | € 0,00 | € 73.276,70 | € 78.704,61 |
+| De Ronde Venen | € 38.025,08 | € 98.641,52 | € 0,00 | € 0,00 | € 54.353,49 | € 58.379,68 |
+| De Wolden | € 22.530,76 | € 58.447,43 | € 0,00 | € 0,00 | € 32.205,73 | € 34.591,34 |
+| Delft | € 88.280,01 | € 229.008,72 | € 0,00 | € 0,00 | € 126.188,48 | € 135.535,77 |
+| Den Helder | € 65.560,04 | € 170.070,46 | € 0,00 | € 0,00 | € 93.712,29 | € 100.653,94 |
+| Deurne | € 34.361,10 | € 89.136,73 | € 0,00 | € 0,00 | € 49.116,16 | € 52.754,39 |
+| Deventer | € 95.934,05 | € 248.864,21 | € 0,00 | € 0,00 | € 137.129,26 | € 147.286,98 |
+| Diemen | € 22.346,36 | € 57.969,07 | € 0,00 | € 0,00 | € 31.942,14 | € 34.308,23 |
+| Dijk en Waard | € 76.826,78 | € 199.297,71 | € 0,00 | € 0,00 | € 109.817,11 | € 117.951,71 |
+| Dinkelland | € 22.343,86 | € 57.962,61 | € 0,00 | € 0,00 | € 31.938,58 | € 34.304,40 |
+| Doesburg | € 12.612,32 | € 32.717,83 | € 0,00 | € 0,00 | € 18.028,19 | € 19.363,62 |
+| Doetinchem | € 57.581,39 | € 149.372,91 | € 0,00 | € 0,00 | € 82.307,52 | € 88.404,37 |
+| Dongen | € 25.914,08 | € 67.224,17 | € 0,00 | € 0,00 | € 37.041,89 | € 39.785,73 |
+| Dordrecht | € 126.774,90 | € 328.869,00 | € 0,00 | € 0,00 | € 181.213,53 | € 194.636,76 |
+| Drechterland | € 19.139,61 | € 49.650,41 | € 0,00 | € 0,00 | € 27.358,39 | € 29.384,94 |
+| Drimmelen | € 28.116,90 | € 72.938,55 | € 0,00 | € 0,00 | € 40.190,63 | € 43.167,71 |
+| Dronten | € 37.289,23 | € 96.732,66 | € 0,00 | € 0,00 | € 53.301,67 | € 57.249,94 |
+| Druten | € 18.794,72 | € 48.755,71 | € 0,00 | € 0,00 | € 26.865,39 | € 28.855,42 |
+| Duiven | € 23.051,53 | € 59.798,38 | € 0,00 | € 0,00 | € 32.950,13 | € 35.390,88 |
+| Echt-Susteren | € 37.156,06 | € 96.387,19 | € 0,00 | € 0,00 | € 53.111,31 | € 57.045,48 |
+| Edam-Volendam | € 36.603,83 | € 94.954,63 | € 0,00 | € 0,00 | € 52.321,94 | € 56.197,64 |
+| Ede | € 104.928,09 | € 272.195,81 | € 0,00 | € 0,00 | € 149.985,44 | € 161.095,48 |
+| Eemnes | € 6.719,88 | € 17.432,15 | € 0,00 | € 0,00 | € 9.605,47 | € 10.316,99 |
+| Eemsdelta | € 53.402,06 | € 138.531,23 | € 0,00 | € 0,00 | € 76.333,53 | € 81.987,87 |
+| Eersel | € 16.401,94 | € 42.548,56 | € 0,00 | € 0,00 | € 23.445,12 | € 25.181,80 |
+| Eijsden-Margraten | € 21.983,47 | € 57.027,71 | € 0,00 | € 0,00 | € 31.423,43 | € 33.751,09 |
+| Eindhoven | € 230.066,28 | € 596.818,99 | € 0,00 | € 0,00 | € 328.859,44 | € 353.219,40 |
+| Elburg | € 24.267,71 | € 62.953,29 | € 0,00 | € 0,00 | € 34.688,55 | € 37.258,07 |
+| Emmen | € 130.628,75 | € 338.866,34 | € 0,00 | € 0,00 | € 186.722,27 | € 200.553,55 |
+| Enkhuizen | € 19.745,79 | € 51.222,90 | € 0,00 | € 0,00 | € 28.224,86 | € 30.315,59 |
+| Enschede | € 171.183,95 | € 444.071,30 | € 0,00 | € 0,00 | € 244.692,35 | € 262.817,71 |
+| Epe | € 34.987,87 | € 90.762,64 | € 0,00 | € 0,00 | € 50.012,07 | € 53.716,67 |
+| Ermelo | € 23.888,69 | € 61.970,08 | € 0,00 | € 0,00 | € 34.146,78 | € 36.676,17 |
+| Etten-Leur | € 42.811,42 | € 111.057,86 | € 0,00 | € 0,00 | € 61.195,15 | € 65.728,12 |
+| Geertruidenberg | € 23.169,83 | € 60.105,26 | € 0,00 | € 0,00 | € 33.119,23 | € 35.572,50 |
+| Geldrop-Mierlo | € 39.036,98 | € 101.266,51 | € 0,00 | € 0,00 | € 55.799,91 | € 59.933,24 |
+| Gemert-Bakel | € 32.107,03 | € 83.289,40 | € 0,00 | € 0,00 | € 45.894,16 | € 49.293,73 |
+| Gennep | € 16.899,53 | € 43.839,37 | € 0,00 | € 0,00 | € 24.156,39 | € 25.945,75 |
+| Gilze en Rijen | € 25.539,66 | € 66.252,87 | € 0,00 | € 0,00 | € 36.506,68 | € 39.210,88 |
+| Goeree-Overflakkee | € 52.893,50 | € 137.211,95 | € 0,00 | € 0,00 | € 75.606,58 | € 81.207,07 |
+| Goes | € 39.847,78 | € 103.369,83 | € 0,00 | € 0,00 | € 56.958,88 | € 61.178,06 |
+| Goirle | € 20.667,44 | € 53.613,77 | € 0,00 | € 0,00 | € 29.542,28 | € 31.730,60 |
+| Gooise Meren | € 41.941,35 | € 108.800,79 | € 0,00 | € 0,00 | € 59.951,46 | € 64.392,31 |
+| Gorinchem | € 40.069,32 | € 103.944,54 | € 0,00 | € 0,00 | € 57.275,56 | € 61.518,20 |
+| Gouda | € 70.866,74 | € 183.836,66 | € 0,00 | € 0,00 | € 101.297,75 | € 108.801,29 |
+| Groningen | € 190.310,99 | € 493.689,09 | € 0,00 | € 0,00 | € 272.032,76 | € 292.183,34 |
+| Gulpen-Wittem | € 15.061,58 | € 39.071,50 | € 0,00 | € 0,00 | € 21.529,20 | € 23.123,95 |
+| Haaksbergen | € 22.571,33 | € 58.552,68 | € 0,00 | € 0,00 | € 32.263,72 | € 34.653,63 |
+| Haarlem | € 142.414,27 | € 369.439,38 | € 0,00 | € 0,00 | € 203.568,64 | € 218.647,80 |
+| Haarlemmermeer | € 132.584,13 | € 343.938,83 | € 0,00 | € 0,00 | € 189.517,31 | € 203.555,63 |
+| Halderberge | € 33.213,87 | € 86.160,70 | € 0,00 | € 0,00 | € 47.476,30 | € 50.993,07 |
+| Hardenberg | € 62.080,44 | € 161.043,96 | € 0,00 | € 0,00 | € 88.738,51 | € 95.311,73 |
+| Harderwijk | € 46.572,33 | € 120.814,10 | € 0,00 | € 0,00 | € 66.571,03 | € 71.502,22 |
+| Hardinxveld-Giessendam | € 17.824,87 | € 46.239,81 | € 0,00 | € 0,00 | € 25.479,08 | € 27.366,42 |
+| Harlingen | € 18.202,59 | € 47.219,66 | € 0,00 | € 0,00 | € 26.019,00 | € 27.946,33 |
+| Hattem | € 10.935,12 | € 28.367,00 | € 0,00 | € 0,00 | € 15.630,79 | € 16.788,63 |
+| Heemskerk | € 38.084,83 | € 98.796,52 | € 0,00 | € 0,00 | € 54.438,90 | € 58.471,41 |
+| Heemstede | € 17.888,66 | € 46.405,28 | € 0,00 | € 0,00 | € 25.570,26 | € 27.464,35 |
+| Heerde | € 19.248,76 | € 49.933,56 | € 0,00 | € 0,00 | € 27.514,41 | € 29.552,51 |
+| Heerenveen | € 51.629,79 | € 133.933,74 | € 0,00 | € 0,00 | € 73.800,23 | € 79.266,91 |
+| Heerlen | € 118.799,78 | € 308.180,60 | € 0,00 | € 0,00 | € 169.813,80 | € 182.392,60 |
+| Heeze-Leende | € 12.236,02 | € 31.741,67 | € 0,00 | € 0,00 | € 17.490,31 | € 18.785,88 |
+| Heiloo | € 17.649,45 | € 45.784,75 | € 0,00 | € 0,00 | € 25.228,33 | € 27.097,10 |
+| Hellendoorn | € 35.152,35 | € 91.189,32 | € 0,00 | € 0,00 | € 50.247,18 | € 53.969,19 |
+| Helmond | € 105.000,42 | € 272.383,45 | € 0,00 | € 0,00 | € 150.088,84 | € 161.206,53 |
+| Hendrik-Ido-Ambacht | € 25.653,66 | € 66.548,62 | € 0,00 | € 0,00 | € 36.669,65 | € 39.385,92 |
+| Hengelo | € 76.619,25 | € 198.759,36 | € 0,00 | € 0,00 | € 109.520,46 | € 117.633,09 |
+| Het Hogeland | € 50.993,54 | € 132.283,23 | € 0,00 | € 0,00 | € 72.890,76 | € 78.290,08 |
+| Heumen | € 13.080,79 | € 33.933,12 | € 0,00 | € 0,00 | € 18.697,84 | € 20.082,87 |
+| Heusden | € 45.271,46 | € 117.439,50 | € 0,00 | € 0,00 | € 64.711,56 | € 69.505,01 |
+| Hillegom | € 21.945,14 | € 56.928,26 | € 0,00 | € 0,00 | € 31.368,63 | € 33.692,24 |
+| Hilvarenbeek | € 13.068,93 | € 33.902,33 | € 0,00 | € 0,00 | € 18.680,88 | € 20.064,65 |
+| Hilversum | € 84.467,20 | € 219.117,86 | € 0,00 | € 0,00 | € 120.738,41 | € 129.682,00 |
+| Hoeksche Waard | € 81.965,52 | € 212.628,19 | € 0,00 | € 0,00 | € 117.162,47 | € 125.841,17 |
+| Hof van Twente | € 33.367,74 | € 86.559,84 | € 0,00 | € 0,00 | € 47.696,24 | € 51.229,30 |
+| Hollands Kroon | € 48.943,20 | € 126.964,42 | € 0,00 | € 0,00 | € 69.959,99 | € 75.142,21 |
+| Hoogeveen | € 65.643,53 | € 170.287,04 | € 0,00 | € 0,00 | € 93.831,64 | € 100.782,13 |
+| Hoorn | € 72.622,61 | € 188.391,59 | € 0,00 | € 0,00 | € 103.807,61 | € 111.497,06 |
+| Horst aan de Maas | € 41.099,23 | € 106.616,23 | € 0,00 | € 0,00 | € 58.747,72 | € 63.099,40 |
+| Houten | € 34.964,00 | € 90.700,74 | € 0,00 | € 0,00 | € 49.977,96 | € 53.680,03 |
+| Huizen | € 37.448,39 | € 97.145,53 | € 0,00 | € 0,00 | € 53.529,17 | € 57.494,29 |
+| Hulst | € 30.875,34 | € 80.094,27 | € 0,00 | € 0,00 | € 44.133,57 | € 47.402,73 |
+| IJsselstein | € 29.322,21 | € 76.065,27 | € 0,00 | € 0,00 | € 41.913,52 | € 45.018,22 |
+| Kaag en Braassem | € 26.449,87 | € 68.614,08 | € 0,00 | € 0,00 | € 37.807,76 | € 40.608,33 |
+| Kampen | € 54.939,40 | € 142.519,26 | € 0,00 | € 0,00 | € 78.531,02 | € 84.348,13 |
+| Kapelle | € 12.340,61 | € 32.013,00 | € 0,00 | € 0,00 | € 17.639,82 | € 18.946,47 |
+| Katwijk | € 66.782,24 | € 173.240,98 | € 0,00 | € 0,00 | € 95.459,32 | € 102.530,38 |
+| Kerkrade | € 65.194,09 | € 169.121,14 | € 0,00 | € 0,00 | € 93.189,20 | € 100.092,10 |
+| Koggenland | € 19.695,59 | € 51.092,67 | € 0,00 | € 0,00 | € 28.153,10 | € 30.238,52 |
+| Krimpen aan den IJssel | € 29.778,29 | € 77.248,39 | € 0,00 | € 0,00 | € 42.565,44 | € 45.718,44 |
+| Krimpenerwaard | € 55.690,12 | € 144.466,73 | € 0,00 | € 0,00 | € 79.604,12 | € 85.500,72 |
+| Laarbeek | € 23.416,84 | € 60.746,04 | € 0,00 | € 0,00 | € 33.472,31 | € 35.951,74 |
+| Land van Cuijk | € 88.240,33 | € 228.905,80 | € 0,00 | € 0,00 | € 126.131,77 | € 135.474,86 |
+| Landgraaf | € 46.155,97 | € 119.734,01 | € 0,00 | € 0,00 | € 65.975,88 | € 70.862,98 |
+| Landsmeer | € 9.234,92 | € 23.956,47 | € 0,00 | € 0,00 | € 13.200,50 | € 14.178,32 |
+| Lansingerland | € 45.849,14 | € 118.938,07 | € 0,00 | € 0,00 | € 65.537,30 | € 70.391,92 |
+| Laren | € 8.433,70 | € 21.878,01 | € 0,00 | € 0,00 | € 12.055,23 | € 12.948,21 |
+| Leeuwarden | € 119.627,13 | € 310.326,86 | € 0,00 | € 0,00 | € 170.996,43 | € 183.662,83 |
+| Leiden | € 103.316,02 | € 268.013,90 | € 0,00 | € 0,00 | € 147.681,13 | € 158.620,47 |
+| Leiderdorp | € 21.654,10 | € 56.173,29 | € 0,00 | € 0,00 | € 30.952,63 | € 33.245,41 |
+| Leidschendam-Voorburg | € 65.323,48 | € 169.456,80 | € 0,00 | € 0,00 | € 93.374,16 | € 100.290,76 |
+| Lelystad | € 81.263,96 | € 210.808,26 | € 0,00 | € 0,00 | € 116.159,65 | € 124.764,07 |
+| Leudal | € 35.097,03 | € 91.045,81 | € 0,00 | € 0,00 | € 50.168,10 | € 53.884,26 |
+| Leusden | € 21.553,06 | € 55.911,16 | € 0,00 | € 0,00 | € 30.808,19 | € 33.090,28 |
+| Lingewaard | € 45.008,58 | € 116.757,54 | € 0,00 | € 0,00 | € 64.335,79 | € 69.101,40 |
+| Lisse | € 22.521,78 | € 58.424,14 | € 0,00 | € 0,00 | € 32.192,89 | € 34.577,55 |
+| Lochem | € 29.162,75 | € 75.651,61 | € 0,00 | € 0,00 | € 41.685,58 | € 44.773,40 |
+| Loon op Zand | € 24.365,78 | € 63.207,71 | € 0,00 | € 0,00 | € 34.828,74 | € 37.408,64 |
+| Lopik | € 14.238,83 | € 36.937,20 | € 0,00 | € 0,00 | € 20.353,15 | € 21.860,79 |
+| Losser | € 23.306,96 | € 60.460,99 | € 0,00 | € 0,00 | € 33.315,24 | € 35.783,04 |
+| Maasdriel | € 27.085,99 | € 70.264,25 | € 0,00 | € 0,00 | € 38.717,04 | € 41.584,96 |
+| Maasgouw | € 25.781,07 | € 66.879,14 | € 0,00 | € 0,00 | € 36.851,77 | € 39.581,53 |
+| Maashorst | € 57.975,81 | € 150.396,07 | € 0,00 | € 0,00 | € 82.871,30 | € 89.009,92 |
+| Maassluis | € 37.163,58 | € 96.406,69 | € 0,00 | € 0,00 | € 53.122,05 | € 57.057,02 |
+| Maastricht | € 129.101,53 | € 334.904,56 | € 0,00 | € 0,00 | € 184.539,25 | € 198.208,82 |
+| Medemblik | € 46.712,87 | € 121.178,67 | € 0,00 | € 0,00 | € 66.771,92 | € 71.717,99 |
+| Meerssen | € 18.125,17 | € 47.018,82 | € 0,00 | € 0,00 | € 25.908,33 | € 27.827,47 |
+| Meierijstad | € 81.144,32 | € 210.497,92 | € 0,00 | € 0,00 | € 115.988,65 | € 124.580,40 |
+| Meppel | € 32.869,82 | € 85.268,17 | € 0,00 | € 0,00 | € 46.984,50 | € 50.464,84 |
+| Middelburg | € 46.358,53 | € 120.259,48 | € 0,00 | € 0,00 | € 66.265,43 | € 71.173,98 |
+| Midden-Delfland | € 14.476,27 | € 37.553,16 | € 0,00 | € 0,00 | € 20.692,56 | € 22.225,34 |
+| Midden-Drenthe | € 30.122,59 | € 78.141,53 | € 0,00 | € 0,00 | € 43.057,58 | € 46.247,03 |
+| Midden-Groningen | € 69.807,03 | € 181.087,64 | € 0,00 | € 0,00 | € 99.782,99 | € 107.174,32 |
+| Moerdijk | € 37.484,48 | € 97.239,16 | € 0,00 | € 0,00 | € 53.580,76 | € 57.549,70 |
+| Molenlanden | € 40.931,91 | € 106.182,18 | € 0,00 | € 0,00 | € 58.508,55 | € 62.842,52 |
+| Montferland | € 40.784,08 | € 105.798,70 | € 0,00 | € 0,00 | € 58.297,25 | € 62.615,56 |
+| Montfoort | € 12.345,61 | € 32.025,97 | € 0,00 | € 0,00 | € 17.646,96 | € 18.954,15 |
+| Mook en Middelaar | € 5.775,56 | € 14.982,49 | € 0,00 | € 0,00 | € 8.255,66 | € 8.867,19 |
+| Neder-Betuwe | € 26.525,46 | € 68.810,18 | € 0,00 | € 0,00 | € 37.915,81 | € 40.724,39 |
+| Nederweert | € 18.418,67 | € 47.780,19 | € 0,00 | € 0,00 | € 26.327,86 | € 28.278,07 |
+| Nieuwegein | € 63.258,74 | € 164.100,62 | € 0,00 | € 0,00 | € 90.422,79 | € 97.120,78 |
+| Nieuwkoop | € 27.243,98 | € 70.674,08 | € 0,00 | € 0,00 | € 38.942,86 | € 41.827,52 |
+| Nijkerk | € 41.400,09 | € 107.396,70 | € 0,00 | € 0,00 | € 59.177,77 | € 63.561,31 |
+| Nijmegen | € 164.987,27 | € 427.996,40 | € 0,00 | € 0,00 | € 235.834,75 | € 253.303,99 |
+| Nissewaard | € 91.240,27 | € 236.688,00 | € 0,00 | € 0,00 | € 130.419,92 | € 140.080,65 |
+| Noardeast-Fryslân | € 51.827,66 | € 134.447,03 | € 0,00 | € 0,00 | € 74.083,06 | € 79.570,69 |
+| Noord-Beveland | € 6.907,59 | € 17.919,10 | € 0,00 | € 0,00 | € 9.873,79 | € 10.605,18 |
+| Noordenveld | € 27.321,81 | € 70.876,00 | € 0,00 | € 0,00 | € 39.054,12 | € 41.947,02 |
+| Noordoostpolder | € 45.044,76 | € 116.851,42 | € 0,00 | € 0,00 | € 64.387,51 | € 69.156,96 |
+| Noordwijk | € 40.071,43 | € 103.950,02 | € 0,00 | € 0,00 | € 57.278,58 | € 61.521,44 |
+| Nuenen, Gerwen en Nederwetten | € 17.346,58 | € 44.999,07 | € 0,00 | € 0,00 | € 24.795,41 | € 26.632,10 |
+| Nunspeet | € 28.217,26 | € 73.198,90 | € 0,00 | € 0,00 | € 40.334,09 | € 43.321,80 |
+| Oegstgeest | € 14.542,25 | € 37.724,31 | € 0,00 | € 0,00 | € 20.786,86 | € 22.326,63 |
+| Oirschot | € 17.209,13 | € 44.642,50 | € 0,00 | € 0,00 | € 24.598,93 | € 26.421,07 |
+| Oisterwijk | € 28.409,70 | € 73.698,10 | € 0,00 | € 0,00 | € 40.609,16 | € 43.617,24 |
+| Oldambt | € 48.948,80 | € 126.978,95 | € 0,00 | € 0,00 | € 69.967,99 | € 75.150,81 |
+| Oldebroek | € 27.507,91 | € 71.358,76 | € 0,00 | € 0,00 | € 39.320,13 | € 42.232,74 |
+| Oldenzaal | € 31.796,19 | € 82.483,05 | € 0,00 | € 0,00 | € 45.449,84 | € 48.816,50 |
+| Olst-Wijhe | € 16.883,00 | € 43.796,48 | € 0,00 | € 0,00 | € 24.132,76 | € 25.920,37 |
+| Ommen | € 17.692,48 | € 45.896,37 | € 0,00 | € 0,00 | € 25.289,84 | € 27.163,16 |
+| Oost Gelre | € 27.155,76 | € 70.445,24 | € 0,00 | € 0,00 | € 38.816,76 | € 41.692,08 |
+| Oosterhout | € 57.304,80 | € 148.655,39 | € 0,00 | € 0,00 | € 81.912,16 | € 87.979,72 |
+| Ooststellingwerf | € 27.175,09 | € 70.495,39 | € 0,00 | € 0,00 | € 38.844,40 | € 41.721,76 |
+| Oostzaan | € 8.791,25 | € 22.805,55 | € 0,00 | € 0,00 | € 12.566,32 | € 13.497,16 |
+| Opmeer | € 11.115,60 | € 28.835,17 | € 0,00 | € 0,00 | € 15.888,77 | € 17.065,71 |
+| Opsterland | € 28.739,30 | € 74.553,12 | € 0,00 | € 0,00 | € 41.080,29 | € 44.123,28 |
+| Oss | € 96.839,43 | € 251.212,86 | € 0,00 | € 0,00 | € 138.423,42 | € 148.677,00 |
+| Oude IJsselstreek | € 44.583,26 | € 115.654,23 | € 0,00 | € 0,00 | € 63.727,84 | € 68.448,42 |
+| Ouder-Amstel | € 10.330,04 | € 26.797,35 | € 0,00 | € 0,00 | € 14.765,89 | € 15.859,66 |
+| Oudewater | € 9.392,22 | € 24.364,52 | € 0,00 | € 0,00 | € 13.425,35 | € 14.419,82 |
+| Overbetuwe | € 42.257,32 | € 109.620,46 | € 0,00 | € 0,00 | € 60.403,11 | € 64.877,42 |
+| Papendrecht | € 30.827,49 | € 79.970,13 | € 0,00 | € 0,00 | € 44.065,17 | € 47.329,26 |
+| Peel en Maas | € 46.333,49 | € 120.194,52 | € 0,00 | € 0,00 | € 66.229,64 | € 71.135,53 |
+| Pekela | € 16.425,66 | € 42.610,09 | € 0,00 | € 0,00 | € 23.479,03 | € 25.218,21 |
+| Pijnacker-Nootdorp | € 39.897,47 | € 103.498,72 | € 0,00 | € 0,00 | € 57.029,91 | € 61.254,35 |
+| Purmerend | € 94.014,69 | € 243.885,18 | € 0,00 | € 0,00 | € 134.385,71 | € 144.340,21 |
+| Putten | € 25.482,14 | € 66.103,68 | € 0,00 | € 0,00 | € 36.424,47 | € 39.122,58 |
+| Raalte | € 35.537,07 | € 92.187,33 | € 0,00 | € 0,00 | € 50.797,10 | € 54.559,85 |
+| Reimerswaal | € 24.264,41 | € 62.944,73 | € 0,00 | € 0,00 | € 34.683,83 | € 37.253,00 |
+| Renkum | € 26.359,56 | € 68.379,80 | € 0,00 | € 0,00 | € 37.678,67 | € 40.469,68 |
+| Renswoude | € 4.656,44 | € 12.079,34 | € 0,00 | € 0,00 | € 6.655,96 | € 7.149,00 |
+| Reusel-De Mierden | € 12.550,58 | € 32.557,69 | € 0,00 | € 0,00 | € 17.939,95 | € 19.268,84 |
+| Rheden | € 46.180,99 | € 119.798,92 | € 0,00 | € 0,00 | € 66.011,65 | € 70.901,40 |
+| Rhenen | € 19.358,89 | € 50.219,23 | € 0,00 | € 0,00 | € 27.671,82 | € 29.721,58 |
+| Ridderkerk | € 53.214,76 | € 138.045,36 | € 0,00 | € 0,00 | € 76.065,81 | € 81.700,31 |
+| Rijssen-Holten | € 36.115,25 | € 93.687,21 | € 0,00 | € 0,00 | € 51.623,56 | € 55.447,53 |
+| Rijswijk | € 52.873,45 | € 137.159,96 | € 0,00 | € 0,00 | € 75.577,94 | € 81.176,30 |
+| Roerdalen | € 21.631,58 | € 56.114,87 | € 0,00 | € 0,00 | € 30.920,44 | € 33.210,84 |
+| Roermond | € 67.467,72 | € 175.019,19 | € 0,00 | € 0,00 | € 96.439,15 | € 103.582,79 |
+| Roosendaal | € 82.473,61 | € 213.946,24 | € 0,00 | € 0,00 | € 117.888,74 | € 126.621,24 |
+| Rotterdam | € 729.648,19 | € 1.892.793,24 | € 0,00 | € 0,00 | € 1.042.967,70 | € 1.120.224,57 |
+| Rozendaal | € 932,34 | € 2.418,61 | € 0,00 | € 0,00 | € 1.332,70 | € 1.431,42 |
+| Rucphen | € 29.546,01 | € 76.645,82 | € 0,00 | € 0,00 | € 42.233,41 | € 45.361,81 |
+| Schagen | € 42.575,83 | € 110.446,70 | € 0,00 | € 0,00 | € 60.858,39 | € 65.366,41 |
+| Scherpenzeel | € 9.638,21 | € 25.002,65 | € 0,00 | € 0,00 | € 13.776,97 | € 14.797,49 |
+| Schiedam | € 90.669,56 | € 235.207,51 | € 0,00 | € 0,00 | € 129.604,14 | € 139.204,45 |
+| Schiermonnikoog | € 796,33 | € 2.065,77 | € 0,00 | € 0,00 | € 1.138,28 | € 1.222,60 |
+| Schouwen-Duiveland | € 34.160,58 | € 88.616,57 | € 0,00 | € 0,00 | € 48.829,54 | € 52.446,54 |
+| 's-Gravenhage | € 546.459,37 | € 1.417.579,89 | € 0,00 | € 0,00 | € 781.115,45 | € 838.975,85 |
+| 's-Hertogenbosch | € 147.755,07 | € 383.294,03 | € 0,00 | € 0,00 | € 211.202,84 | € 226.847,49 |
+| Simpelveld | € 12.411,03 | € 32.195,66 | € 0,00 | € 0,00 | € 17.740,47 | € 19.054,57 |
+| Sint-Michielsgestel | € 25.295,29 | € 65.618,96 | € 0,00 | € 0,00 | € 36.157,39 | € 38.835,71 |
+| Sittard-Geleen | € 107.050,39 | € 277.701,30 | € 0,00 | € 0,00 | € 153.019,08 | € 164.353,83 |
+| Sliedrecht | € 28.005,79 | € 72.650,31 | € 0,00 | € 0,00 | € 40.031,80 | € 42.997,12 |
+| Sluis | € 24.676,77 | € 64.014,44 | € 0,00 | € 0,00 | € 35.273,26 | € 37.886,10 |
+| Smallingerland | € 59.853,38 | € 155.266,71 | € 0,00 | € 0,00 | € 85.555,12 | € 91.892,54 |
+| Soest | € 39.927,96 | € 103.577,83 | € 0,00 | € 0,00 | € 57.073,50 | € 61.301,16 |
+| Someren | € 20.779,70 | € 53.904,98 | € 0,00 | € 0,00 | € 29.702,74 | € 31.902,95 |
+| Son en Breugel | € 12.775,96 | € 33.142,33 | € 0,00 | € 0,00 | € 18.262,10 | € 19.614,85 |
+| Stadskanaal | € 41.249,05 | € 107.004,88 | € 0,00 | € 0,00 | € 58.961,87 | € 63.329,42 |
+| Staphorst | € 16.561,49 | € 42.962,45 | € 0,00 | € 0,00 | € 23.673,18 | € 25.426,75 |
+| Stede Broec | € 24.430,44 | € 63.375,42 | € 0,00 | € 0,00 | € 34.921,15 | € 37.507,90 |
+| Steenbergen | € 27.464,08 | € 71.245,06 | € 0,00 | € 0,00 | € 39.257,48 | € 42.165,44 |
+| Steenwijkerland | € 45.663,48 | € 118.456,44 | € 0,00 | € 0,00 | € 65.271,91 | € 70.106,87 |
+| Stein | € 28.607,67 | € 74.211,67 | € 0,00 | € 0,00 | € 40.892,14 | € 43.921,19 |
+| Stichtse Vecht | € 55.318,98 | € 143.503,95 | € 0,00 | € 0,00 | € 79.073,61 | € 84.930,91 |
+| Súdwest-Fryslân | € 90.201,71 | € 233.993,85 | € 0,00 | € 0,00 | € 128.935,39 | € 138.486,16 |
+| Terneuzen | € 62.164,77 | € 161.262,71 | € 0,00 | € 0,00 | € 88.859,05 | € 95.441,20 |
+| Terschelling | € 4.236,81 | € 10.990,78 | € 0,00 | € 0,00 | € 6.056,15 | € 6.504,75 |
+| Texel | € 13.341,47 | € 34.609,35 | € 0,00 | € 0,00 | € 19.070,46 | € 20.483,08 |
+| Teylingen | € 28.515,96 | € 73.973,75 | € 0,00 | € 0,00 | € 40.761,04 | € 43.780,38 |
+| Tholen | € 28.299,87 | € 73.413,19 | € 0,00 | € 0,00 | € 40.452,17 | € 43.448,62 |
+| Tiel | € 46.977,52 | € 121.865,21 | € 0,00 | € 0,00 | € 67.150,22 | € 72.124,31 |
+| Tilburg | € 229.785,49 | € 596.090,60 | € 0,00 | € 0,00 | € 328.458,09 | € 352.788,32 |
+| Tubbergen | € 18.619,86 | € 48.302,10 | € 0,00 | € 0,00 | € 26.615,44 | € 28.586,95 |
+| Twenterand | € 37.590,93 | € 97.515,31 | € 0,00 | € 0,00 | € 53.732,92 | € 57.713,14 |
+| Tynaarlo | € 25.046,40 | € 64.973,30 | € 0,00 | € 0,00 | € 35.801,61 | € 38.453,58 |
+| Tytsjerksteradiel | € 32.017,77 | € 83.057,87 | € 0,00 | € 0,00 | € 45.766,58 | € 49.156,70 |
+| Uitgeest | € 9.390,81 | € 24.360,88 | € 0,00 | € 0,00 | € 13.423,34 | € 14.417,66 |
+| Uithoorn | € 26.394,97 | € 68.471,67 | € 0,00 | € 0,00 | € 37.729,29 | € 40.524,05 |
+| Urk | € 19.670,45 | € 51.027,47 | € 0,00 | € 0,00 | € 28.117,18 | € 30.199,93 |
+| Utrecht | € 271.419,38 | € 704.093,81 | € 0,00 | € 0,00 | € 387.970,06 | € 416.708,58 |
+| Utrechtse Heuvelrug | € 36.788,22 | € 95.432,97 | € 0,00 | € 0,00 | € 52.585,52 | € 56.480,74 |
+| Vaals | € 12.466,32 | € 32.339,10 | € 0,00 | € 0,00 | € 17.819,50 | € 19.139,46 |
+| Valkenburg aan de Geul | € 17.547,27 | € 45.519,69 | € 0,00 | € 0,00 | € 25.082,28 | € 26.940,22 |
+| Valkenswaard | € 33.378,84 | € 86.588,65 | € 0,00 | € 0,00 | € 47.712,11 | € 51.246,34 |
+| Veendam | € 32.913,26 | € 85.380,86 | € 0,00 | € 0,00 | € 47.046,59 | € 50.531,53 |
+| Veenendaal | € 64.055,58 | € 166.167,70 | € 0,00 | € 0,00 | € 91.561,79 | € 98.344,15 |
+| Veere | € 17.908,50 | € 46.456,77 | € 0,00 | € 0,00 | € 25.598,63 | € 27.494,82 |
+| Veldhoven | € 39.406,33 | € 102.224,65 | € 0,00 | € 0,00 | € 56.327,87 | € 60.500,30 |
+| Velsen | € 66.900,82 | € 173.548,59 | € 0,00 | € 0,00 | € 95.628,81 | € 102.712,43 |
+| Venlo | € 123.612,73 | € 320.665,97 | € 0,00 | € 0,00 | € 176.693,49 | € 189.781,90 |
+| Venray | € 46.367,63 | € 120.283,08 | € 0,00 | € 0,00 | € 66.278,43 | € 71.187,95 |
+| Vijfheerenlanden | € 59.225,61 | € 153.638,21 | € 0,00 | € 0,00 | € 84.657,79 | € 90.928,73 |
+| Vlaardingen | € 86.288,37 | € 223.842,19 | € 0,00 | € 0,00 | € 123.341,61 | € 132.478,03 |
+| Vlieland | € 1.128,33 | € 2.927,03 | € 0,00 | € 0,00 | € 1.612,85 | € 1.732,32 |
+| Vlissingen | € 47.364,60 | € 122.869,35 | € 0,00 | € 0,00 | € 67.703,52 | € 72.718,60 |
+| Voerendaal | € 11.979,82 | € 31.077,06 | € 0,00 | € 0,00 | € 17.124,09 | € 18.392,55 |
+| Voorne aan Zee | € 68.581,22 | € 177.907,75 | € 0,00 | € 0,00 | € 98.030,80 | € 105.292,34 |
+| Voorschoten | € 17.781,29 | € 46.126,75 | € 0,00 | € 0,00 | € 25.416,78 | € 27.299,51 |
+| Voorst | € 22.670,32 | € 58.809,48 | € 0,00 | € 0,00 | € 32.405,22 | € 34.805,61 |
+| Vught | € 25.661,52 | € 66.569,00 | € 0,00 | € 0,00 | € 36.680,88 | € 39.397,98 |
+| Waadhoeke | € 49.399,50 | € 128.148,11 | € 0,00 | € 0,00 | € 70.612,23 | € 75.842,76 |
+| Waalre | € 11.922,22 | € 30.927,63 | € 0,00 | € 0,00 | € 17.041,76 | € 18.304,11 |
+| Waalwijk | € 55.045,34 | € 142.794,09 | € 0,00 | € 0,00 | € 78.682,46 | € 84.510,79 |
+| Waddinxveen | € 27.801,56 | € 72.120,51 | € 0,00 | € 0,00 | € 39.739,87 | € 42.683,57 |
+| Wageningen | € 29.171,76 | € 75.674,99 | € 0,00 | € 0,00 | € 41.698,46 | € 44.787,24 |
+| Wassenaar | € 19.698,34 | € 51.099,81 | € 0,00 | € 0,00 | € 28.157,04 | € 30.242,74 |
+| Waterland | € 14.068,26 | € 36.494,72 | € 0,00 | € 0,00 | € 20.109,33 | € 21.598,91 |
+| Weert | € 54.277,56 | € 140.802,37 | € 0,00 | € 0,00 | € 77.584,98 | € 83.332,01 |
+| West Betuwe | € 49.859,85 | € 129.342,31 | € 0,00 | € 0,00 | € 71.270,25 | € 76.549,53 |
+| West Maas en Waal | € 19.708,31 | € 51.125,67 | € 0,00 | € 0,00 | € 28.171,29 | € 30.258,05 |
+| Westerkwartier | € 58.276,48 | € 151.176,06 | € 0,00 | € 0,00 | € 83.301,09 | € 89.471,54 |
+| Westerveld | € 18.635,92 | € 48.343,77 | € 0,00 | € 0,00 | € 26.638,40 | € 28.611,62 |
+| Westervoort | € 15.284,32 | € 39.649,31 | € 0,00 | € 0,00 | € 21.847,58 | € 23.465,92 |
+| Westerwolde | € 30.978,03 | € 80.360,66 | € 0,00 | € 0,00 | € 44.280,36 | € 47.560,39 |
+| Westland | € 110.396,52 | € 286.381,57 | € 0,00 | € 0,00 | € 157.802,09 | € 169.491,13 |
+| Weststellingwerf | € 29.451,24 | € 76.399,97 | € 0,00 | € 0,00 | € 42.097,94 | € 45.216,31 |
+| Wierden | € 21.067,12 | € 54.650,59 | € 0,00 | € 0,00 | € 30.113,59 | € 32.344,23 |
+| Wijchen | € 38.941,08 | € 101.017,74 | € 0,00 | € 0,00 | € 55.662,84 | € 59.786,01 |
+| Wijdemeren | € 20.460,37 | € 53.076,62 | € 0,00 | € 0,00 | € 29.246,30 | € 31.412,69 |
+| Wijk bij Duurstede | € 19.489,05 | € 50.556,88 | € 0,00 | € 0,00 | € 27.857,87 | € 29.921,42 |
+| Winterswijk | € 31.420,14 | € 81.507,54 | € 0,00 | € 0,00 | € 44.912,32 | € 48.239,16 |
+| Woensdrecht | € 22.767,21 | € 59.060,82 | € 0,00 | € 0,00 | € 32.543,72 | € 34.954,36 |
+| Woerden | € 43.513,21 | € 112.878,38 | € 0,00 | € 0,00 | € 62.198,29 | € 66.805,57 |
+| Wormerland | € 15.439,74 | € 40.052,51 | € 0,00 | € 0,00 | € 22.069,75 | € 23.704,55 |
+| Woudenberg | € 11.486,08 | € 29.796,23 | € 0,00 | € 0,00 | € 16.418,33 | € 17.634,51 |
+| Zaanstad | € 160.112,16 | € 415.349,78 | € 0,00 | € 0,00 | € 228.866,20 | € 245.819,26 |
+| Zaltbommel | € 29.158,08 | € 75.639,48 | € 0,00 | € 0,00 | € 41.678,90 | € 44.766,23 |
+| Zandvoort | € 17.453,23 | € 45.275,74 | € 0,00 | € 0,00 | € 24.947,85 | € 26.795,84 |
+| Zeewolde | € 18.157,49 | € 47.102,67 | € 0,00 | € 0,00 | € 25.954,53 | € 27.877,09 |
+| Zeist | € 52.809,67 | € 136.994,49 | € 0,00 | € 0,00 | € 75.486,76 | € 81.078,37 |
+| Zevenaar | € 50.321,73 | € 130.540,49 | € 0,00 | € 0,00 | € 71.930,47 | € 77.258,66 |
+| Zoetermeer | € 113.413,14 | € 294.207,04 | € 0,00 | € 0,00 | € 162.114,08 | € 174.122,53 |
+| Zoeterwoude | € 7.094,87 | € 18.404,94 | € 0,00 | € 0,00 | € 10.141,50 | € 10.892,72 |
+| Zuidplas | € 39.014,50 | € 101.208,20 | € 0,00 | € 0,00 | € 55.767,78 | € 59.898,73 |
+| Zundert | € 22.906,63 | € 59.422,50 | € 0,00 | € 0,00 | € 32.743,01 | € 35.168,42 |
+| Zutphen | € 48.180,77 | € 124.986,58 | € 0,00 | € 0,00 | € 68.870,16 | € 73.971,65 |
+| Zwartewaterland | € 23.738,32 | € 61.580,00 | € 0,00 | € 0,00 | € 33.931,84 | € 36.445,30 |
+| Zwijndrecht | € 49.761,54 | € 129.087,29 | € 0,00 | € 0,00 | € 71.129,73 | € 76.398,60 |
+| Zwolle | € 111.310,23 | € 288.751,82 | € 0,00 | € 0,00 | € 159.108,15 | € 170.893,93 |
+
+| 2026 | Eén tegen Eenzaamheid | Welzijn op Recept | Versterken Kennis- en adviesfunctie GGD | Coördinatie-kosten regionale aanpak preventie | Totaalbedrag excl. loon- en prijsontwikkeling (LPO) | Totaalbedrag incl. loon- en prijsontwikkeling (LPO) uit 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aa en Hunze | € 0,00 | € 15.685,24 | € 0,00 | € 0,00 | € 328.550,96 | **€ 341.674,00** |
+| Aalsmeer | € 0,00 | € 20.606,59 | € 0,00 | € 0,00 | € 431.635,89 | **€ 448.877,00** |
+| Aalten | € 0,00 | € 20.559,52 | € 0,00 | € 0,00 | € 430.650,08 | **€ 447.851,00** |
+| Achtkarspelen | € 0,00 | € 23.480,37 | € 0,00 | € 0,00 | € 491.831,63 | **€ 511.477,00** |
+| Alblasserdam | € 0,00 | € 15.319,29 | € 0,00 | € 0,00 | € 320.885,56 | **€ 333.703,00** |
+| Albrandswaard | € 0,00 | € 14.373,77 | € 0,00 | € 0,00 | € 301.080,18 | **€ 313.106,00** |
+| Alkmaar | € 0,00 | € 75.141,99 | € 0,00 | € 0,00 | € 1.573.961,82 | **€ 1.636.830,00** |
+| Almelo | € 0,00 | € 60.312,38 | € 0,00 | € 0,00 | € 1.263.333,44 | **€ 1.313.794,00** |
+| Almere | € 0,00 | € 135.954,98 | € 0,00 | € 0,00 | € 2.847.781,23 | **€ 2.961.529,00** |
+| Alphen aan den Rijn | € 0,00 | € 73.368,14 | € 0,00 | € 0,00 | € 1.536.805,79 | **€ 1.598.190,00** |
+| Alphen-Chaam | € 0,00 | € 6.478,00 | € 0,00 | € 0,00 | € 135.691,34 | **€ 141.111,00** |
+| Altena | € 0,00 | € 43.441,06 | € 0,00 | € 0,00 | € 909.938,22 | **€ 946.284,00** |
+| Ameland | € 0,00 | € 2.271,84 | € 0,00 | € 0,00 | € 87.500,00 | **€ 91.066,00** |
+| Amersfoort | € 0,00 | € 90.582,98 | € 0,00 | € 0,00 | € 1.897.396,62 | **€ 1.973.184,00** |
+| Amstelveen | € 0,00 | € 50.805,59 | € 0,00 | € 0,00 | € 1.064.199,46 | **€ 1.106.706,00** |
+| Amsterdam | € 0,00 | € 590.457,52 | € 0,00 | € 0,00 | € 12.368.019,65 | **€ 12.862.031,00** |
+| Apeldoorn | € 0,00 | € 114.336,53 | € 0,00 | € 0,00 | € 2.394.950,27 | **€ 2.490.611,00** |
+| Arnhem | € 0,00 | € 118.418,40 | € 0,00 | € 0,00 | € 2.480.451,29 | **€ 2.579.527,00** |
+| Assen | € 0,00 | € 44.164,68 | € 0,00 | € 0,00 | € 925.095,65 | **€ 962.046,00** |
+| Asten | € 0,00 | € 12.382,09 | € 0,00 | € 0,00 | € 259.361,43 | **€ 269.721,00** |
+| Baarle-Nassau | € 0,00 | € 5.280,57 | € 0,00 | € 0,00 | € 110.609,52 | **€ 115.028,00** |
+| Baarn | € 0,00 | € 15.135,33 | € 0,00 | € 0,00 | € 317.032,13 | **€ 329.695,00** |
+| Barendrecht | € 0,00 | € 27.834,61 | € 0,00 | € 0,00 | € 583.037,65 | **€ 606.326,00** |
+| Barneveld | € 0,00 | € 38.762,24 | € 0,00 | € 0,00 | € 811.933,42 | **€ 844.364,00** |
+| Beek | € 0,00 | € 11.584,98 | € 0,00 | € 0,00 | € 242.664,91 | **€ 252.358,00** |
+| Beekdaelen | € 0,00 | € 26.246,85 | € 0,00 | € 0,00 | € 549.779,74 | **€ 571.739,00** |
+| Beesel | € 0,00 | € 10.853,71 | € 0,00 | € 0,00 | € 227.347,19 | **€ 236.428,00** |
+| Berg en Dal | € 0,00 | € 26.936,97 | € 0,00 | € 0,00 | € 564.235,39 | **€ 586.772,00** |
+| Bergeijk | € 0,00 | € 12.184,25 | € 0,00 | € 0,00 | € 255.217,47 | **€ 265.412,00** |
+| Bergen (L.) | € 0,00 | € 10.499,48 | € 0,00 | € 0,00 | € 219.927,35 | **€ 228.712,00** |
+| Bergen (NH.) | € 0,00 | € 16.980,86 | € 0,00 | € 0,00 | € 355.689,55 | **€ 369.897,00** |
+| Bergen op Zoom | € 0,00 | € 51.048,46 | € 0,00 | € 0,00 | € 1.069.286,72 | **€ 1.111.997,00** |
+| Berkelland | € 0,00 | € 31.563,27 | € 0,00 | € 0,00 | € 661.140,16 | **€ 687.548,00** |
+| Bernheze | € 0,00 | € 22.001,27 | € 0,00 | € 0,00 | € 460.849,74 | **€ 479.257,00** |
+| Best | € 0,00 | € 18.133,99 | € 0,00 | € 0,00 | € 379.843,73 | **€ 395.016,00** |
+| Beuningen | € 0,00 | € 17.040,51 | € 0,00 | € 0,00 | € 356.939,04 | **€ 371.196,00** |
+| Beverwijk | € 0,00 | € 30.965,84 | € 0,00 | € 0,00 | € 648.625,95 | **€ 674.534,00** |
+| Bladel | € 0,00 | € 13.890,84 | € 0,00 | € 0,00 | € 290.964,57 | **€ 302.586,00** |
+| Blaricum | € 0,00 | € 5.839,80 | € 0,00 | € 0,00 | € 122.323,30 | **€ 127.209,00** |
+| Bloemendaal | € 0,00 | € 9.863,02 | € 0,00 | € 0,00 | € 206.595,82 | **€ 214.848,00** |
+| Bodegraven-Reeuwijk | € 0,00 | € 22.131,32 | € 0,00 | € 0,00 | € 463.573,76 | **€ 482.090,00** |
+| Boekel | € 0,00 | € 7.435,09 | € 0,00 | € 0,00 | € 155.739,10 | **€ 161.960,00** |
+| Borger-Odoorn | € 0,00 | € 19.069,35 | € 0,00 | € 0,00 | € 399.436,22 | **€ 415.391,00** |
+| Borne | € 0,00 | € 14.302,13 | € 0,00 | € 0,00 | € 299.579,59 | **€ 311.546,00** |
+| Borsele | € 0,00 | € 15.330,03 | € 0,00 | € 0,00 | € 321.110,50 | **€ 333.936,00** |
+| Boxtel | € 0,00 | € 24.248,10 | € 0,00 | € 0,00 | € 507.912,92 | **€ 528.200,00** |
+| Breda | € 0,00 | € 115.915,07 | € 0,00 | € 0,00 | € 2.428.015,30 | **€ 2.524.997,00** |
+| Bronckhorst | € 0,00 | € 24.942,74 | € 0,00 | € 0,00 | € 522.463,14 | **€ 543.332,00** |
+| Brummen | € 0,00 | € 14.978,85 | € 0,00 | € 0,00 | € 313.754,42 | **€ 326.287,00** |
+| Brunssum | € 0,00 | € 25.877,84 | € 0,00 | € 0,00 | € 542.050,16 | **€ 563.701,00** |
+| Bunnik | € 0,00 | € 7.272,75 | € 0,00 | € 0,00 | € 152.338,71 | **€ 158.424,00** |
+| Bunschoten | € 0,00 | € 16.035,52 | € 0,00 | € 0,00 | € 335.888,16 | **€ 349.304,00** |
+| Buren | € 0,00 | € 20.212,54 | € 0,00 | € 0,00 | € 423.382,03 | **€ 440.293,00** |
+| Capelle aan den IJssel | € 0,00 | € 48.657,62 | € 0,00 | € 0,00 | € 1.019.206,89 | **€ 1.059.917,00** |
+| Castricum | € 0,00 | € 18.784,05 | € 0,00 | € 0,00 | € 393.460,09 | **€ 409.176,00** |
+| Coevorden | € 0,00 | € 27.042,14 | € 0,00 | € 0,00 | € 566.438,21 | **€ 589.063,00** |
+| Cranendonck | € 0,00 | € 15.573,67 | € 0,00 | € 0,00 | € 326.213,96 | **€ 339.244,00** |
+| Culemborg | € 0,00 | € 19.299,91 | € 0,00 | € 0,00 | € 404.265,51 | **€ 420.413,00** |
+| Dalfsen | € 0,00 | € 19.169,38 | € 0,00 | € 0,00 | € 401.531,48 | **€ 417.570,00** |
+| Dantumadiel | € 0,00 | € 16.092,17 | € 0,00 | € 0,00 | € 337.074,67 | **€ 350.538,00** |
+| De Bilt | € 0,00 | € 22.883,01 | € 0,00 | € 0,00 | € 479.319,09 | **€ 498.464,00** |
+| De Fryske Marren | € 0,00 | € 36.638,35 | € 0,00 | € 0,00 | € 767.445,30 | **€ 798.099,00** |
+| De Ronde Venen | € 0,00 | € 27.176,75 | € 0,00 | € 0,00 | € 569.257,75 | **€ 591.995,00** |
+| De Wolden | € 0,00 | € 16.102,86 | € 0,00 | € 0,00 | € 337.298,69 | **€ 350.771,00** |
+| Delft | € 0,00 | € 63.094,24 | € 0,00 | € 0,00 | € 1.321.603,63 | **€ 1.374.392,00** |
+| Den Helder | € 0,00 | € 46.856,15 | € 0,00 | € 0,00 | € 981.472,37 | **€ 1.020.675,00** |
+| Deurne | € 0,00 | € 24.558,08 | € 0,00 | € 0,00 | € 514.405,87 | **€ 534.953,00** |
+| Deventer | € 0,00 | € 68.564,63 | € 0,00 | € 0,00 | € 1.436.189,17 | **€ 1.493.554,00** |
+| Diemen | € 0,00 | € 15.971,07 | € 0,00 | € 0,00 | € 334.538,08 | **€ 347.900,00** |
+| Dijk en Waard | € 0,00 | € 54.908,55 | € 0,00 | € 0,00 | € 1.150.142,13 | **€ 1.196.082,00** |
+| Dinkelland | € 0,00 | € 15.969,29 | € 0,00 | € 0,00 | € 334.500,75 | **€ 347.862,00** |
+| Doesburg | € 0,00 | € 9.014,10 | € 0,00 | € 0,00 | € 188.813,79 | **€ 196.356,00** |
+| Doetinchem | € 0,00 | € 41.153,76 | € 0,00 | € 0,00 | € 862.027,33 | **€ 896.459,00** |
+| Dongen | € 0,00 | € 18.520,95 | € 0,00 | € 0,00 | € 387.949,02 | **€ 403.445,00** |
+| Dordrecht | € 0,00 | € 90.606,77 | € 0,00 | € 0,00 | € 1.897.894,80 | **€ 1.973.702,00** |
+| Drechterland | € 0,00 | € 13.679,19 | € 0,00 | € 0,00 | € 286.531,26 | **€ 297.976,00** |
+| Drimmelen | € 0,00 | € 20.095,31 | € 0,00 | € 0,00 | € 420.926,53 | **€ 437.739,00** |
+| Dronten | € 0,00 | € 26.650,83 | € 0,00 | € 0,00 | € 558.241,74 | **€ 580.539,00** |
+| Druten | € 0,00 | € 13.432,70 | € 0,00 | € 0,00 | € 281.367,99 | **€ 292.607,00** |
+| Duiven | € 0,00 | € 16.475,06 | € 0,00 | € 0,00 | € 345.094,97 | **€ 358.879,00** |
+| Echt-Susteren | € 0,00 | € 26.555,65 | € 0,00 | € 0,00 | € 556.248,07 | **€ 578.466,00** |
+| Edam-Volendam | € 0,00 | € 26.160,97 | € 0,00 | € 0,00 | € 547.980,81 | **€ 569.869,00** |
+| Ede | € 0,00 | € 74.992,72 | € 0,00 | € 0,00 | € 1.570.835,21 | **€ 1.633.579,00** |
+| Eemnes | € 0,00 | € 4.802,74 | € 0,00 | € 0,00 | € 100.600,50 | **€ 104.619,00** |
+| Eemsdelta | € 0,00 | € 38.166,77 | € 0,00 | € 0,00 | € 799.460,25 | **€ 831.393,00** |
+| Eersel | € 0,00 | € 11.722,56 | € 0,00 | € 0,00 | € 245.546,67 | **€ 255.354,00** |
+| Eijsden-Margraten | € 0,00 | € 15.711,72 | € 0,00 | € 0,00 | € 329.105,48 | **€ 342.251,00** |
+| Eindhoven | € 0,00 | € 164.429,72 | € 0,00 | € 0,00 | € 3.444.227,49 | **€ 3.581.799,00** |
+| Elburg | € 0,00 | € 17.344,27 | € 0,00 | € 0,00 | € 363.301,84 | **€ 377.813,00** |
+| Emmen | € 0,00 | € 93.361,14 | € 0,00 | € 0,00 | € 1.955.589,22 | **€ 2.033.701,00** |
+| Enkhuizen | € 0,00 | € 14.112,43 | € 0,00 | € 0,00 | € 295.606,06 | **€ 307.413,00** |
+| Enschede | € 0,00 | € 122.346,17 | € 0,00 | € 0,00 | € 2.562.724,38 | **€ 2.665.086,00** |
+| Epe | € 0,00 | € 25.006,03 | € 0,00 | € 0,00 | € 523.788,94 | **€ 544.710,00** |
+| Ermelo | € 0,00 | € 17.073,39 | € 0,00 | € 0,00 | € 357.627,80 | **€ 371.912,00** |
+| Etten-Leur | € 0,00 | € 30.597,57 | € 0,00 | € 0,00 | € 640.912,14 | **€ 666.512,00** |
+| Geertruidenberg | € 0,00 | € 16.559,61 | € 0,00 | € 0,00 | € 346.865,97 | **€ 360.721,00** |
+| Geldrop-Mierlo | € 0,00 | € 27.899,96 | € 0,00 | € 0,00 | € 584.406,51 | **€ 607.749,00** |
+| Gemert-Bakel | € 0,00 | € 22.947,08 | € 0,00 | € 0,00 | € 480.661,08 | **€ 499.860,00** |
+| Gennep | € 0,00 | € 12.078,19 | € 0,00 | € 0,00 | € 252.995,89 | **€ 263.101,00** |
+| Gilze en Rijen | € 0,00 | € 18.253,34 | € 0,00 | € 0,00 | € 382.343,67 | **€ 397.615,00** |
+| Goeree-Overflakkee | € 0,00 | € 37.803,29 | € 0,00 | € 0,00 | € 791.846,74 | **€ 823.475,00** |
+| Goes | € 0,00 | € 28.479,44 | € 0,00 | € 0,00 | € 596.544,69 | **€ 620.372,00** |
+| Goirle | € 0,00 | € 14.771,14 | € 0,00 | € 0,00 | € 309.403,75 | **€ 321.762,00** |
+| Gooise Meren | € 0,00 | € 29.975,73 | € 0,00 | € 0,00 | € 627.886,67 | **€ 652.966,00** |
+| Gorinchem | € 0,00 | € 28.637,78 | € 0,00 | € 0,00 | € 599.861,33 | **€ 623.821,00** |
+| Gouda | € 0,00 | € 50.648,88 | € 0,00 | € 0,00 | € 1.060.916,77 | **€ 1.103.293,00** |
+| Groningen | € 0,00 | € 136.016,38 | € 0,00 | € 0,00 | € 2.849.067,42 | **€ 2.962.867,00** |
+| Gulpen-Wittem | € 0,00 | € 10.764,60 | € 0,00 | € 0,00 | € 225.480,67 | **€ 234.487,00** |
+| Haaksbergen | € 0,00 | € 16.131,86 | € 0,00 | € 0,00 | € 337.906,07 | **€ 351.403,00** |
+| Haarlem | € 0,00 | € 101.784,32 | € 0,00 | € 0,00 | € 2.132.025,45 | **€ 2.217.184,00** |
+| Haarlemmermeer | € 0,00 | € 94.758,66 | € 0,00 | € 0,00 | € 1.984.862,39 | **€ 2.064.143,00** |
+| Halderberge | € 0,00 | € 23.738,15 | € 0,00 | € 0,00 | € 497.231,23 | **€ 517.092,00** |
+| Hardenberg | € 0,00 | € 44.369,26 | € 0,00 | € 0,00 | € 929.380,70 | **€ 966.503,00** |
+| Harderwijk | € 0,00 | € 33.285,52 | € 0,00 | € 0,00 | € 697.215,13 | **€ 725.064,00** |
+| Hardinxveld-Giessendam | € 0,00 | € 12.739,54 | € 0,00 | € 0,00 | € 266.848,76 | **€ 277.507,00** |
+| Harlingen | € 0,00 | € 13.009,50 | € 0,00 | € 0,00 | € 272.503,48 | **€ 283.388,00** |
+| Hattem | € 0,00 | € 7.815,40 | € 0,00 | € 0,00 | € 163.705,22 | **€ 170.244,00** |
+| Heemskerk | € 0,00 | € 27.219,45 | € 0,00 | € 0,00 | € 570.152,24 | **€ 592.926,00** |
+| Heemstede | € 0,00 | € 12.785,13 | € 0,00 | € 0,00 | € 267.803,73 | **€ 278.501,00** |
+| Heerde | € 0,00 | € 13.757,20 | € 0,00 | € 0,00 | € 288.165,31 | **€ 299.675,00** |
+| Heerenveen | € 0,00 | € 36.900,11 | € 0,00 | € 0,00 | € 772.928,29 | **€ 803.801,00** |
+| Heerlen | € 0,00 | € 84.906,90 | € 0,00 | € 0,00 | € 1.778.502,54 | **€ 1.849.541,00** |
+| Heeze-Leende | € 0,00 | € 8.745,15 | € 0,00 | € 0,00 | € 183.180,37 | **€ 190.497,00** |
+| Heiloo | € 0,00 | € 12.614,17 | € 0,00 | € 0,00 | € 264.222,64 | **€ 274.776,00** |
+| Hellendoorn | € 0,00 | € 25.123,59 | € 0,00 | € 0,00 | € 526.251,29 | **€ 547.271,00** |
+| Helmond | € 0,00 | € 75.044,42 | € 0,00 | € 0,00 | € 1.571.918,12 | **€ 1.634.705,00** |
+| Hendrik-Ido-Ambacht | € 0,00 | € 18.334,82 | € 0,00 | € 0,00 | € 384.050,40 | **€ 399.390,00** |
+| Hengelo | € 0,00 | € 54.760,23 | € 0,00 | € 0,00 | € 1.147.035,30 | **€ 1.192.851,00** |
+| Het Hogeland | € 0,00 | € 36.445,38 | € 0,00 | € 0,00 | € 763.403,25 | **€ 793.896,00** |
+| Heumen | € 0,00 | € 9.348,92 | € 0,00 | € 0,00 | € 195.827,18 | **€ 203.649,00** |
+| Heusden | € 0,00 | € 32.355,78 | € 0,00 | € 0,00 | € 677.740,40 | **€ 704.811,00** |
+| Hillegom | € 0,00 | € 15.684,32 | € 0,00 | € 0,00 | € 328.531,58 | **€ 341.654,00** |
+| Hilvarenbeek | € 0,00 | € 9.340,44 | € 0,00 | € 0,00 | € 195.649,51 | **€ 203.464,00** |
+| Hilversum | € 0,00 | € 60.369,21 | € 0,00 | € 0,00 | € 1.264.523,70 | **€ 1.315.032,00** |
+| Hoeksche Waard | € 0,00 | € 58.581,24 | € 0,00 | € 0,00 | € 1.227.071,99 | **€ 1.276.084,00** |
+| Hof van Twente | € 0,00 | € 23.848,12 | € 0,00 | € 0,00 | € 499.534,70 | **€ 519.487,00** |
+| Hollands Kroon | € 0,00 | € 34.979,99 | € 0,00 | € 0,00 | € 732.708,50 | **€ 761.975,00** |
+| Hoogeveen | € 0,00 | € 46.915,82 | € 0,00 | € 0,00 | € 982.722,28 | **€ 1.021.975,00** |
+| Hoorn | € 0,00 | € 51.903,80 | € 0,00 | € 0,00 | € 1.087.203,14 | **€ 1.130.629,00** |
+| Horst aan de Maas | € 0,00 | € 29.373,86 | € 0,00 | € 0,00 | € 615.279,60 | **€ 639.855,00** |
+| Houten | € 0,00 | € 24.988,98 | € 0,00 | € 0,00 | € 523.431,68 | **€ 544.339,00** |
+| Huizen | € 0,00 | € 26.764,58 | € 0,00 | € 0,00 | € 560.624,42 | **€ 583.017,00** |
+| Hulst | € 0,00 | € 22.066,79 | € 0,00 | € 0,00 | € 462.222,01 | **€ 480.684,00** |
+| IJsselstein | € 0,00 | € 20.956,76 | € 0,00 | € 0,00 | € 438.970,79 | **€ 456.504,00** |
+| Kaag en Braassem | € 0,00 | € 18.903,88 | € 0,00 | € 0,00 | € 395.970,12 | **€ 411.786,00** |
+| Kampen | € 0,00 | € 39.265,51 | € 0,00 | € 0,00 | € 822.475,07 | **€ 855.327,00** |
+| Kapelle | € 0,00 | € 8.819,91 | € 0,00 | € 0,00 | € 184.746,23 | **€ 192.125,00** |
+| Katwijk | € 0,00 | € 47.729,66 | € 0,00 | € 0,00 | € 999.769,39 | **€ 1.039.703,00** |
+| Kerkrade | € 0,00 | € 46.594,60 | € 0,00 | € 0,00 | € 975.993,90 | **€ 1.014.978,00** |
+| Koggenland | € 0,00 | € 14.076,55 | € 0,00 | € 0,00 | € 294.854,53 | **€ 306.632,00** |
+| Krimpen aan den IJssel | € 0,00 | € 21.282,72 | € 0,00 | € 0,00 | € 445.798,55 | **€ 463.605,00** |
+| Krimpenerwaard | € 0,00 | € 39.802,06 | € 0,00 | € 0,00 | € 833.713,89 | **€ 867.015,00** |
+| Laarbeek | € 0,00 | € 16.736,15 | € 0,00 | € 0,00 | € 350.563,87 | **€ 364.566,00** |
+| Land van Cuijk | € 0,00 | € 63.065,88 | € 0,00 | € 0,00 | € 1.321.009,68 | **€ 1.373.774,00** |
+| Landgraaf | € 0,00 | € 32.987,94 | € 0,00 | € 0,00 | € 690.981,97 | **€ 718.582,00** |
+| Landsmeer | € 0,00 | € 6.600,25 | € 0,00 | € 0,00 | € 138.252,19 | **€ 143.774,00** |
+| Lansingerland | € 0,00 | € 32.768,65 | € 0,00 | € 0,00 | € 686.388,63 | **€ 713.805,00** |
+| Laren | € 0,00 | € 6.027,61 | € 0,00 | € 0,00 | € 126.257,43 | **€ 131.300,00** |
+| Leeuwarden | € 0,00 | € 85.498,22 | € 0,00 | € 0,00 | € 1.790.888,54 | **€ 1.862.421,00** |
+| Leiden | € 0,00 | € 73.840,56 | € 0,00 | € 0,00 | € 1.546.701,53 | **€ 1.608.481,00** |
+| Leiderdorp | € 0,00 | € 15.476,31 | € 0,00 | € 0,00 | € 324.174,63 | **€ 337.123,00** |
+| Leidschendam-Voorburg | € 0,00 | € 46.687,08 | € 0,00 | € 0,00 | € 977.930,98 | **€ 1.016.992,00** |
+| Lelystad | € 0,00 | € 58.079,83 | € 0,00 | € 0,00 | € 1.216.569,21 | **€ 1.265.162,00** |
+| Leudal | € 0,00 | € 25.084,05 | € 0,00 | € 0,00 | € 525.423,12 | **€ 546.410,00** |
+| Leusden | € 0,00 | € 15.404,10 | € 0,00 | € 0,00 | € 322.661,93 | **€ 335.550,00** |
+| Lingewaard | € 0,00 | € 32.167,89 | € 0,00 | € 0,00 | € 673.804,88 | **€ 700.718,00** |
+| Lisse | € 0,00 | € 16.096,45 | € 0,00 | € 0,00 | € 337.164,24 | **€ 350.631,00** |
+| Lochem | € 0,00 | € 20.842,79 | € 0,00 | € 0,00 | € 436.583,56 | **€ 454.022,00** |
+| Loon op Zand | € 0,00 | € 17.414,37 | € 0,00 | € 0,00 | € 364.770,11 | **€ 379.340,00** |
+| Lopik | € 0,00 | € 10.176,58 | € 0,00 | € 0,00 | € 213.163,69 | **€ 221.678,00** |
+| Losser | € 0,00 | € 16.657,62 | € 0,00 | € 0,00 | € 348.918,88 | **€ 362.856,00** |
+| Maasdriel | € 0,00 | € 19.358,52 | € 0,00 | € 0,00 | € 405.493,24 | **€ 421.690,00** |
+| Maasgouw | € 0,00 | € 18.425,89 | € 0,00 | € 0,00 | € 385.957,85 | **€ 401.374,00** |
+| Maashorst | € 0,00 | € 41.435,65 | € 0,00 | € 0,00 | € 867.931,97 | **€ 902.599,00** |
+| Maassluis | € 0,00 | € 26.561,03 | € 0,00 | € 0,00 | € 556.360,61 | **€ 578.583,00** |
+| Maastricht | € 0,00 | € 92.269,62 | € 0,00 | € 0,00 | € 1.932.725,88 | **€ 2.009.924,00** |
+| Medemblik | € 0,00 | € 33.385,96 | € 0,00 | € 0,00 | € 699.319,10 | **€ 727.252,00** |
+| Meerssen | € 0,00 | € 12.954,17 | € 0,00 | € 0,00 | € 271.344,46 | **€ 282.183,00** |
+| Meierijstad | € 0,00 | € 57.994,32 | € 0,00 | € 0,00 | € 1.214.778,23 | **€ 1.263.300,00** |
+| Meppel | € 0,00 | € 23.492,25 | € 0,00 | € 0,00 | € 492.080,48 | **€ 511.735,00** |
+| Middelburg | € 0,00 | € 33.132,71 | € 0,00 | € 0,00 | € 694.014,47 | **€ 721.735,00** |
+| Midden-Delfland | € 0,00 | € 10.346,28 | € 0,00 | € 0,00 | € 216.718,32 | **€ 225.375,00** |
+| Midden-Drenthe | € 0,00 | € 21.528,79 | € 0,00 | € 0,00 | € 450.952,83 | **€ 468.965,00** |
+| Midden-Groningen | € 0,00 | € 49.891,49 | € 0,00 | € 0,00 | € 1.045.052,26 | **€ 1.086.794,00** |
+| Moerdijk | € 0,00 | € 26.790,38 | € 0,00 | € 0,00 | € 561.164,74 | **€ 583.579,00** |
+| Molenlanden | € 0,00 | € 29.254,27 | € 0,00 | € 0,00 | € 612.774,72 | **€ 637.251,00** |
+| Montferland | € 0,00 | € 29.148,62 | € 0,00 | € 0,00 | € 610.561,69 | **€ 634.949,00** |
+| Montfoort | € 0,00 | € 8.823,48 | € 0,00 | € 0,00 | € 184.821,07 | **€ 192.203,00** |
+| Mook en Middelaar | € 0,00 | € 4.127,83 | € 0,00 | € 0,00 | € 86.463,56 | **€ 89.917,00** |
+| Neder-Betuwe | € 0,00 | € 18.957,91 | € 0,00 | € 0,00 | € 397.101,81 | **€ 412.963,00** |
+| Nederweert | € 0,00 | € 13.163,93 | € 0,00 | € 0,00 | € 275.738,31 | **€ 286.752,00** |
+| Nieuwegein | € 0,00 | € 45.211,40 | € 0,00 | € 0,00 | € 947.020,59 | **€ 984.847,00** |
+| Nieuwkoop | € 0,00 | € 19.471,43 | € 0,00 | € 0,00 | € 407.858,35 | **€ 424.149,00** |
+| Nijkerk | € 0,00 | € 29.588,89 | € 0,00 | € 0,00 | € 619.783,68 | **€ 644.539,00** |
+| Nijmegen | € 0,00 | € 117.917,37 | € 0,00 | € 0,00 | € 2.469.956,53 | **€ 2.568.613,00** |
+| Nissewaard | € 0,00 | € 65.209,96 | € 0,00 | € 0,00 | € 1.365.920,54 | **€ 1.420.479,00** |
+| Noardeast-Fryslân | € 0,00 | € 37.041,53 | € 0,00 | € 0,00 | € 775.890,48 | **€ 806.882,00** |
+| Noord-Beveland | € 0,00 | € 4.936,89 | € 0,00 | € 0,00 | € 103.410,67 | **€ 107.541,00** |
+| Noordenveld | € 0,00 | € 19.527,06 | € 0,00 | € 0,00 | € 409.023,60 | **€ 425.361,00** |
+| Noordoostpolder | € 0,00 | € 32.193,76 | € 0,00 | € 0,00 | € 674.346,60 | **€ 701.282,00** |
+| Noordwijk | € 0,00 | € 28.639,29 | € 0,00 | € 0,00 | € 599.892,95 | **€ 623.854,00** |
+| Nuenen, Gerwen en Nederwetten | € 0,00 | € 12.397,70 | € 0,00 | € 0,00 | € 259.688,52 | **€ 270.061,00** |
+| Nunspeet | € 0,00 | € 20.167,04 | € 0,00 | € 0,00 | € 422.429,01 | **€ 439.302,00** |
+| Oegstgeest | € 0,00 | € 10.393,43 | € 0,00 | € 0,00 | € 217.706,04 | **€ 226.402,00** |
+| Oirschot | € 0,00 | € 12.299,46 | € 0,00 | € 0,00 | € 257.630,75 | **€ 267.921,00** |
+| Oisterwijk | € 0,00 | € 20.304,58 | € 0,00 | € 0,00 | € 425.309,90 | **€ 442.298,00** |
+| Oldambt | € 0,00 | € 34.984,00 | € 0,00 | € 0,00 | € 732.792,37 | **€ 762.062,00** |
+| Oldebroek | € 0,00 | € 19.660,07 | € 0,00 | € 0,00 | € 411.809,63 | **€ 428.258,00** |
+| Oldenzaal | € 0,00 | € 22.724,92 | € 0,00 | € 0,00 | € 476.007,62 | **€ 495.021,00** |
+| Olst-Wijhe | € 0,00 | € 12.066,38 | € 0,00 | € 0,00 | € 252.748,40 | **€ 262.844,00** |
+| Ommen | € 0,00 | € 12.644,92 | € 0,00 | € 0,00 | € 264.866,81 | **€ 275.446,00** |
+| Oost Gelre | € 0,00 | € 19.408,38 | € 0,00 | € 0,00 | € 406.537,70 | **€ 422.776,00** |
+| Oosterhout | € 0,00 | € 40.956,08 | € 0,00 | € 0,00 | € 857.886,57 | **€ 892.153,00** |
+| Ooststellingwerf | € 0,00 | € 19.422,20 | € 0,00 | € 0,00 | € 406.827,12 | **€ 423.077,00** |
+| Oostzaan | € 0,00 | € 6.283,16 | € 0,00 | € 0,00 | € 131.610,25 | **€ 136.867,00** |
+| Opmeer | € 0,00 | € 7.944,38 | € 0,00 | € 0,00 | € 166.407,03 | **€ 173.054,00** |
+| Opsterland | € 0,00 | € 20.540,15 | € 0,00 | € 0,00 | € 430.244,22 | **€ 447.429,00** |
+| Oss | € 0,00 | € 69.211,71 | € 0,00 | € 0,00 | € 1.449.743,17 | **€ 1.507.650,00** |
+| Oude IJsselstreek | € 0,00 | € 31.863,92 | € 0,00 | € 0,00 | € 667.437,66 | **€ 694.097,00** |
+| Ouder-Amstel | € 0,00 | € 7.382,94 | € 0,00 | € 0,00 | € 154.646,83 | **€ 160.824,00** |
+| Oudewater | € 0,00 | € 6.712,67 | € 0,00 | € 0,00 | € 140.607,03 | **€ 146.223,00** |
+| Overbetuwe | € 0,00 | € 30.201,56 | € 0,00 | € 0,00 | € 632.616,96 | **€ 657.885,00** |
+| Papendrecht | € 0,00 | € 22.032,59 | € 0,00 | € 0,00 | € 461.505,61 | **€ 479.939,00** |
+| Peel en Maas | € 0,00 | € 33.114,82 | € 0,00 | € 0,00 | € 693.639,60 | **€ 721.345,00** |
+| Pekela | € 0,00 | € 11.739,51 | € 0,00 | € 0,00 | € 245.901,75 | **€ 255.724,00** |
+| Pijnacker-Nootdorp | € 0,00 | € 28.514,95 | € 0,00 | € 0,00 | € 597.288,54 | **€ 621.146,00** |
+| Purmerend | € 0,00 | € 67.192,86 | € 0,00 | € 0,00 | € 1.407.455,28 | **€ 1.463.673,00** |
+| Putten | € 0,00 | € 18.212,24 | € 0,00 | € 0,00 | € 381.482,67 | **€ 396.720,00** |
+| Raalte | € 0,00 | € 25.398,55 | € 0,00 | € 0,00 | € 532.010,77 | **€ 553.261,00** |
+| Reimerswaal | € 0,00 | € 17.341,91 | € 0,00 | € 0,00 | € 363.252,44 | **€ 377.762,00** |
+| Renkum | € 0,00 | € 18.839,33 | € 0,00 | € 0,00 | € 394.618,14 | **€ 410.380,00** |
+| Renswoude | € 0,00 | € 3.327,98 | € 0,00 | € 0,00 | € 70.000,00 | **€ 72.797,00** |
+| Reusel-De Mierden | € 0,00 | € 8.969,98 | € 0,00 | € 0,00 | € 187.889,63 | **€ 195.394,00** |
+| Rheden | € 0,00 | € 33.005,82 | € 0,00 | € 0,00 | € 691.356,58 | **€ 718.971,00** |
+| Rhenen | € 0,00 | € 13.835,91 | € 0,00 | € 0,00 | € 289.813,90 | **€ 301.390,00** |
+| Ridderkerk | € 0,00 | € 38.032,90 | € 0,00 | € 0,00 | € 796.656,31 | **€ 828.477,00** |
+| Rijssen-Holten | € 0,00 | € 25.811,78 | € 0,00 | € 0,00 | € 540.666,55 | **€ 562.262,00** |
+| Rijswijk | € 0,00 | € 37.788,97 | € 0,00 | € 0,00 | € 791.546,72 | **€ 823.163,00** |
+| Roerdalen | € 0,00 | € 15.460,22 | € 0,00 | € 0,00 | € 323.837,52 | **€ 336.772,00** |
+| Roermond | € 0,00 | € 48.219,57 | € 0,00 | € 0,00 | € 1.010.031,40 | **€ 1.050.375,00** |
+| Roosendaal | € 0,00 | € 58.944,37 | € 0,00 | € 0,00 | € 1.234.678,40 | **€ 1.283.995,00** |
+| Rotterdam | € 0,00 | € 521.483,85 | € 0,00 | € 0,00 | € 10.923.262,59 | **€ 11.359.567,00** |
+| Rozendaal | € 0,00 | € 666,35 | € 0,00 | € 0,00 | € 70.000,00 | **€ 72.896,00** |
+| Rucphen | € 0,00 | € 21.116,70 | € 0,00 | € 0,00 | € 442.321,10 | **€ 459.989,00** |
+| Schagen | € 0,00 | € 30.429,19 | € 0,00 | € 0,00 | € 637.385,16 | **€ 662.844,00** |
+| Scherpenzeel | € 0,00 | € 6.888,49 | € 0,00 | € 0,00 | € 144.289,69 | **€ 150.053,00** |
+| Schiedam | € 0,00 | € 64.802,07 | € 0,00 | € 0,00 | € 1.357.376,69 | **€ 1.411.594,00** |
+| Schiermonnikoog | € 0,00 | € 569,14 | € 0,00 | € 0,00 | € 87.500,00 | **€ 91.130,00** |
+| Schouwen-Duiveland | € 0,00 | € 24.414,77 | € 0,00 | € 0,00 | € 511.404,03 | **€ 531.831,00** |
+| 's-Gravenhage | € 0,00 | € 390.557,73 | € 0,00 | € 0,00 | € 8.180.818,20 | **€ 8.507.582,00** |
+| 's-Hertogenbosch | € 0,00 | € 105.601,42 | € 0,00 | € 0,00 | € 2.211.980,31 | **€ 2.300.333,00** |
+| Simpelveld | € 0,00 | € 8.870,23 | € 0,00 | € 0,00 | € 185.800,36 | **€ 193.222,00** |
+| Sint-Michielsgestel | € 0,00 | € 18.078,69 | € 0,00 | € 0,00 | € 378.685,37 | **€ 393.811,00** |
+| Sittard-Geleen | € 0,00 | € 76.509,54 | € 0,00 | € 0,00 | € 1.602.607,25 | **€ 1.666.620,00** |
+| Sliedrecht | € 0,00 | € 20.015,90 | € 0,00 | € 0,00 | € 419.263,13 | **€ 436.010,00** |
+| Sluis | € 0,00 | € 17.636,63 | € 0,00 | € 0,00 | € 369.425,75 | **€ 384.182,00** |
+| Smallingerland | € 0,00 | € 42.777,56 | € 0,00 | € 0,00 | € 896.040,28 | **€ 931.830,00** |
+| Soest | € 0,00 | € 28.536,75 | € 0,00 | € 0,00 | € 597.745,07 | **€ 621.621,00** |
+| Someren | € 0,00 | € 14.851,37 | € 0,00 | € 0,00 | € 311.084,30 | **€ 323.510,00** |
+| Son en Breugel | € 0,00 | € 9.131,05 | € 0,00 | € 0,00 | € 191.263,56 | **€ 198.903,00** |
+| Stadskanaal | € 0,00 | € 29.480,94 | € 0,00 | € 0,00 | € 617.522,51 | **€ 642.188,00** |
+| Staphorst | € 0,00 | € 11.836,59 | € 0,00 | € 0,00 | € 247.935,21 | **€ 257.838,00** |
+| Stede Broec | € 0,00 | € 17.460,58 | € 0,00 | € 0,00 | € 365.737,99 | **€ 380.347,00** |
+| Steenbergen | € 0,00 | € 19.628,74 | € 0,00 | € 0,00 | € 411.153,46 | **€ 427.576,00** |
+| Steenwijkerland | € 0,00 | € 32.635,96 | € 0,00 | € 0,00 | € 683.609,14 | **€ 710.914,00** |
+| Stein | € 0,00 | € 20.446,07 | € 0,00 | € 0,00 | € 428.273,69 | **€ 445.380,00** |
+| Stichtse Vecht | € 0,00 | € 39.536,80 | € 0,00 | € 0,00 | € 828.157,72 | **€ 861.237,00** |
+| Súdwest-Fryslân | € 0,00 | € 64.467,69 | € 0,00 | € 0,00 | € 1.350.372,67 | **€ 1.404.310,00** |
+| Terneuzen | € 0,00 | € 44.429,52 | € 0,00 | € 0,00 | € 930.643,11 | **€ 967.815,00** |
+| Terschelling | € 0,00 | € 3.028,07 | € 0,00 | € 0,00 | € 87.500,00 | **€ 91.038,00** |
+| Texel | € 0,00 | € 9.535,23 | € 0,00 | € 0,00 | € 199.729,69 | **€ 207.707,00** |
+| Teylingen | € 0,00 | € 20.380,52 | € 0,00 | € 0,00 | € 426.900,65 | **€ 443.952,00** |
+| Tholen | € 0,00 | € 20.226,08 | € 0,00 | € 0,00 | € 423.665,71 | **€ 440.588,00** |
+| Tiel | € 0,00 | € 33.575,11 | € 0,00 | € 0,00 | € 703.281,06 | **€ 731.372,00** |
+| Tilburg | € 0,00 | € 164.229,04 | € 0,00 | € 0,00 | € 3.440.024,00 | **€ 3.577.428,00** |
+| Tubbergen | € 0,00 | € 13.307,72 | € 0,00 | € 0,00 | € 278.750,19 | **€ 289.884,00** |
+| Twenterand | € 0,00 | € 26.866,46 | € 0,00 | € 0,00 | € 562.758,40 | **€ 585.236,00** |
+| Tynaarlo | € 0,00 | € 17.900,81 | € 0,00 | € 0,00 | € 374.959,28 | **€ 389.936,00** |
+| Tytsjerksteradiel | € 0,00 | € 22.883,29 | € 0,00 | € 0,00 | € 479.324,89 | **€ 498.470,00** |
+| Uitgeest | € 0,00 | € 6.711,67 | € 0,00 | € 0,00 | € 140.586,02 | **€ 146.201,00** |
+| Uithoorn | € 0,00 | € 18.864,64 | € 0,00 | € 0,00 | € 395.148,30 | **€ 410.932,00** |
+| Urk | € 0,00 | € 14.058,59 | € 0,00 | € 0,00 | € 294.478,25 | **€ 306.240,00** |
+| Utrecht | € 0,00 | € 193.985,03 | € 0,00 | € 0,00 | € 4.063.307,79 | **€ 4.225.607,00** |
+| Utrechtse Heuvelrug | € 0,00 | € 26.292,76 | € 0,00 | € 0,00 | € 550.741,31 | **€ 572.739,00** |
+| Vaals | € 0,00 | € 8.909,75 | € 0,00 | € 0,00 | € 186.628,11 | **€ 194.083,00** |
+| Valkenburg aan de Geul | € 0,00 | € 12.541,14 | € 0,00 | € 0,00 | € 262.692,97 | **€ 273.186,00** |
+| Valkenswaard | € 0,00 | € 23.856,06 | € 0,00 | € 0,00 | € 499.700,91 | **€ 519.660,00** |
+| Veendam | € 0,00 | € 23.523,30 | € 0,00 | € 0,00 | € 492.730,80 | **€ 512.412,00** |
+| Veenendaal | € 0,00 | € 45.780,90 | € 0,00 | € 0,00 | € 958.949,65 | **€ 997.253,00** |
+| Veere | € 0,00 | € 12.799,31 | € 0,00 | € 0,00 | € 268.100,84 | **€ 278.809,00** |
+| Veldhoven | € 0,00 | € 28.163,93 | € 0,00 | € 0,00 | € 589.935,89 | **€ 613.499,00** |
+| Velsen | € 0,00 | € 47.814,41 | € 0,00 | € 0,00 | € 1.001.544,57 | **€ 1.041.549,00** |
+| Venlo | € 0,00 | € 88.346,75 | € 0,00 | € 0,00 | € 1.850.555,32 | **€ 1.924.471,00** |
+| Venray | € 0,00 | € 33.139,22 | € 0,00 | € 0,00 | € 694.150,67 | **€ 721.877,00** |
+| Vijfheerenlanden | € 0,00 | € 42.328,89 | € 0,00 | € 0,00 | € 886.642,25 | **€ 922.057,00** |
+| Vlaardingen | € 0,00 | € 61.670,81 | € 0,00 | € 0,00 | € 1.291.787,68 | **€ 1.343.385,00** |
+| Vlieland | € 0,00 | € 806,43 | € 0,00 | € 0,00 | € 87.500,00 | **€ 91.121,00** |
+| Vlissingen | € 0,00 | € 33.851,76 | € 0,00 | € 0,00 | € 709.075,98 | **€ 737.398,00** |
+| Voerendaal | € 0,00 | € 8.562,05 | € 0,00 | € 0,00 | € 179.344,94 | **€ 186.508,00** |
+| Voorne aan Zee | € 0,00 | € 49.015,40 | € 0,00 | € 0,00 | € 1.026.701,18 | **€ 1.067.710,00** |
+| Voorschoten | € 0,00 | € 12.708,39 | € 0,00 | € 0,00 | € 266.196,33 | **€ 276.829,00** |
+| Voorst | € 0,00 | € 16.202,61 | € 0,00 | € 0,00 | € 339.388,03 | **€ 352.944,00** |
+| Vught | € 0,00 | € 18.340,44 | € 0,00 | € 0,00 | € 384.168,05 | **€ 399.513,00** |
+| Waadhoeke | € 0,00 | € 35.306,11 | € 0,00 | € 0,00 | € 739.539,57 | **€ 769.079,00** |
+| Waalre | € 0,00 | € 8.520,88 | € 0,00 | € 0,00 | € 178.482,58 | **€ 185.612,00** |
+| Waalwijk | € 0,00 | € 39.341,23 | € 0,00 | € 0,00 | € 824.061,12 | **€ 856.976,00** |
+| Waddinxveen | € 0,00 | € 19.869,94 | € 0,00 | € 0,00 | € 416.205,68 | **€ 432.830,00** |
+| Wageningen | € 0,00 | € 20.849,23 | € 0,00 | € 0,00 | € 436.718,46 | **€ 454.162,00** |
+| Wassenaar | € 0,00 | € 14.078,52 | € 0,00 | € 0,00 | € 294.895,71 | **€ 306.675,00** |
+| Waterland | € 0,00 | € 10.054,67 | € 0,00 | € 0,00 | € 210.610,10 | **€ 219.022,00** |
+| Weert | € 0,00 | € 38.792,49 | € 0,00 | € 0,00 | € 812.566,95 | **€ 845.023,00** |
+| West Betuwe | € 0,00 | € 35.635,13 | € 0,00 | € 0,00 | € 746.431,24 | **€ 776.246,00** |
+| West Maas en Waal | € 0,00 | € 14.085,64 | € 0,00 | € 0,00 | € 295.044,96 | **€ 306.830,00** |
+| Westerkwartier | € 0,00 | € 41.650,55 | € 0,00 | € 0,00 | € 872.433,25 | **€ 907.281,00** |
+| Westerveld | € 0,00 | € 13.319,20 | € 0,00 | € 0,00 | € 278.990,70 | **€ 290.134,00** |
+| Westervoort | € 0,00 | € 10.923,79 | € 0,00 | € 0,00 | € 228.815,19 | **€ 237.955,00** |
+| Westerwolde | € 0,00 | € 22.140,18 | € 0,00 | € 0,00 | € 463.759,35 | **€ 482.283,00** |
+| Westland | € 0,00 | € 78.901,04 | € 0,00 | € 0,00 | € 1.652.700,88 | **€ 1.718.714,00** |
+| Weststellingwerf | € 0,00 | € 21.048,97 | € 0,00 | € 0,00 | € 440.902,34 | **€ 458.513,00** |
+| Wierden | € 0,00 | € 15.056,79 | € 0,00 | € 0,00 | € 315.387,19 | **€ 327.985,00** |
+| Wijchen | € 0,00 | € 27.831,42 | € 0,00 | € 0,00 | € 582.970,89 | **€ 606.256,00** |
+| Wijdemeren | € 0,00 | € 14.623,15 | € 0,00 | € 0,00 | € 306.303,83 | **€ 318.538,00** |
+| Wijk bij Duurstede | € 0,00 | € 13.928,94 | € 0,00 | € 0,00 | € 291.762,51 | **€ 303.416,00** |
+| Winterswijk | € 0,00 | € 22.456,16 | € 0,00 | € 0,00 | € 470.378,00 | **€ 489.166,00** |
+| Woensdrecht | € 0,00 | € 16.271,86 | € 0,00 | € 0,00 | € 340.838,51 | **€ 354.452,00** |
+| Woerden | € 0,00 | € 31.099,14 | € 0,00 | € 0,00 | € 651.418,29 | **€ 677.438,00** |
+| Wormerland | € 0,00 | € 11.034,88 | € 0,00 | € 0,00 | € 231.142,06 | **€ 240.374,00** |
+| Woudenberg | € 0,00 | € 8.209,17 | € 0,00 | € 0,00 | € 171.953,32 | **€ 178.822,00** |
+| Zaanstad | € 0,00 | € 114.433,10 | € 0,00 | € 0,00 | € 2.396.973,20 | **€ 2.492.715,00** |
+| Zaltbommel | € 0,00 | € 20.839,45 | € 0,00 | € 0,00 | € 436.513,58 | **€ 453.949,00** |
+| Zandvoort | € 0,00 | € 12.473,93 | € 0,00 | € 0,00 | € 261.285,15 | **€ 271.722,00** |
+| Zeewolde | € 0,00 | € 12.977,27 | € 0,00 | € 0,00 | € 271.828,35 | **€ 282.686,00** |
+| Zeist | € 0,00 | € 37.743,38 | € 0,00 | € 0,00 | € 790.591,77 | **€ 822.170,00** |
+| Zevenaar | € 0,00 | € 35.965,24 | € 0,00 | € 0,00 | € 753.345,90 | **€ 783.437,00** |
+| Zoetermeer | € 0,00 | € 81.057,04 | € 0,00 | € 0,00 | € 1.697.861,47 | **€ 1.765.679,00** |
+| Zoeterwoude | € 0,00 | € 5.070,75 | € 0,00 | € 0,00 | € 106.214,44 | **€ 110.457,00** |
+| Zuidplas | € 0,00 | € 27.883,89 | € 0,00 | € 0,00 | € 584.069,97 | **€ 607.399,00** |
+| Zundert | € 0,00 | € 16.371,50 | € 0,00 | € 0,00 | € 342.925,74 | **€ 356.623,00** |
+| Zutphen | € 0,00 | € 34.435,08 | € 0,00 | € 0,00 | € 721.294,43 | **€ 750.105,00** |
+| Zwartewaterland | € 0,00 | € 16.965,92 | € 0,00 | € 0,00 | € 355.376,63 | **€ 369.571,00** |
+| Zwijndrecht | € 0,00 | € 35.564,87 | € 0,00 | € 0,00 | € 744.959,55 | **€ 774.715,00** |
+| Zwolle | € 0,00 | € 79.554,07 | € 0,00 | € 0,00 | € 1.666.379,56 | **€ 1.732.939,00** |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
