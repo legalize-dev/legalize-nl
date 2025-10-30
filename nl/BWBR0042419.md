@@ -4,7 +4,7 @@ identifier: "BWBR0042419"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-30"
-last_updated: "2025-04-01"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042419"
 soort: "ministeriele-regeling"
@@ -76,31 +76,33 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2020 tot en met 31 maart 2026 per boekjaar beschikbaar:
 
-- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01): een bedrag van maximaal € 680.000;
+- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 680.000;
 
-- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01): een bedrag van maximaal € 3.600.000;
+- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 3.600.000;
 
-- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01): een bedrag van maximaal € 500.000.
+- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 500.000.
 
-2. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 758.000 beschikbaar.
+2. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 758.000 beschikbaar.
 
-3. In afwijking van het eerste lid, onderdeel a, zijn de volgende bedragen beschikbaar voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01):
+3. In afwijking van het eerste lid, onderdeel a, zijn de volgende bedragen beschikbaar voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30):
 
 - a. voor het boekjaar van 1 april 2023 tot en met 31 maart 2024: maximaal € 857.490.
 
 - b. voor het boekjaar van 1 april 2024 tot en met 31 maart 2025: maximaal € 857.490.
 
-4. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 3.827.000 beschikbaar.
+4. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 3.827.000 beschikbaar.
 
-5. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2023 tot en met 31 maart 2024 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 4.434.000 beschikbaar.
+5. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2023 tot en met 31 maart 2024 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.434.000 beschikbaar.
 
-6. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 4.610.000 beschikbaar.
+6. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.610.000 beschikbaar.
 
-7. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 580.000 beschikbaar.
+7. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
 
-8. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 857.490 beschikbaar.
+8. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 907.000 beschikbaar.
 
-9. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een bedrag van maximaal € 4.610.000 beschikbaar.
+9. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.817.000 beschikbaar.
+
+10. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
 
 ##### Artikel 5. Subsidieaanvraag
 
@@ -116,9 +118,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De in het tweede lid, onderdeel c, bedoelde bescheiden zijn voorzien van een controleverklaring van een accountant.
 
-4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), wordt een aanvraag ingediend.
+4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), wordt een aanvraag ingediend.
 
-5. Een aanvrager kan voor een of meer van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), een aanvraag indienen.
+5. Een aanvrager kan voor een of meer van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een aanvraag indienen.
 
 6. De subsidie wordt aangevraagd met het formulier dat is bekendgemaakt op de website www.dus-i.nl/subsidies/vakwedstrijden en kan via deze website worden ingediend.
 
@@ -130,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De minister beslist binnen 13 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend gelijktijdig op de aanvragen.
 
-4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), ontvangt één rechtspersoon subsidie. Dezelfde rechtspersoon kan voor meer activiteiten subsidie ontvangen.
+4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), ontvangt één rechtspersoon subsidie. Dezelfde rechtspersoon kan voor meer activiteiten subsidie ontvangen.
 
 ##### Artikel 7. Beoordeling subsidieaanvraag
 
@@ -178,7 +180,7 @@ Indien de activiteit waarvoor de subsidie is verleend geheel is verricht en voll
 
 2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
 
-3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-04-01&g=2025-04-01), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
+3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
 
 4. [Paragraaf 8.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&paragraaf=8.5) is van overeenkomstige toepassing.
 
