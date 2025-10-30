@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2024-11-06"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -168,21 +168,21 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste lid heeft de inspecteur-generaal van het onderwijs mandaat om:
 
-- a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [artikel 129 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=129), [artikel 146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), [artikel 10.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=10.1), [artikel 184 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=184), [artikel 11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1), [artikel 10.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=10.2) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.1);
+- a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 155 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=155), [artikel 123 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=123), [artikel 133 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=133), [artikel 10.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=10.1), [artikel 38 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=38), [artikel 11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1), [artikel 10.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=10.2) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.1);
 
 - b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5),
 
-- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
+- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
 
 - d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3), [6.2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) en [6.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.3.2) en de [artikelen 6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.3), [6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.4) en [6.3.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.3.1) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), 6.1.5b, [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2), 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de [artikelen 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.1), 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te nemen;
 
-- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27), [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39), [artikel 15.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.7), en [artikel 15.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.8), [artikel 11.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.2), alsmede, vanaf het moment dat het bij Koninklijke boodschap van 14 april 2023 ingediende voorstel van wet houdende de vaststelling van regels voor het Nederlandse kwalificatieraamwerk voor een leven lang leren (Wet NLQF, Kamerstuk 2023 II 36 341, nr. 2) tot wet is verheven, artikel 4.3 van de Wet NLQF, of
+- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27), [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39), [artikel 15.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.7), en [artikel 15.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.8), [artikel 11.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.2), alsmede [artikel 4.3 van de Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&artikel=4.3), of
 
-- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
+- f. in afwijking van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14b&z=2025-10-30&g=2025-10-30) te beslissen op een aan de Inspectie van het Onderwijs gericht verzoek om informatie in de zin van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), alsmede op een tegen een dergelijk besluit of een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2024-11-06&g=2024-11-06), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2025-10-30&g=2025-10-30), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -218,7 +218,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2024-11-06&g=2024-11-06),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2025-10-30&g=2025-10-30),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -240,7 +240,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2024-11-06&g=2024-11-06).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2025-10-30&g=2025-10-30).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Funderend Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -260,7 +260,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak en de daarbij gegeven instructies, mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2024-11-06&g=2024-11-06) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2025-10-30&g=2025-10-30) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -286,7 +286,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2024-11-06&g=2024-11-06) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2025-10-30&g=2025-10-30) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De Staat der Nederlanden,**
 
@@ -300,7 +300,7 @@ naam van de gemandateerde.
 
 **naam van de gevolmachtigde**
 
-3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2024-11-06&g=2024-11-06) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2025-10-30&g=2025-10-30) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -986,7 +986,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
 
-De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen over een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en tot de gehele of gedeeltelijke afwijzing van een verzoek op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen over een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en tot de gehele of gedeeltelijke afwijzing van een verzoek op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795). Hij kan met betrekking tot dit mandaat ondermandaat verlenen. Als hij ondermandaat verleent aan een functionaris die niet onder hem ressorteert, behoeft deze instemming van de gemandateerde en diens direct-leidinggevende.
 
 ##### Artikel 14c. Bestedingsplan
 
@@ -1280,9 +1280,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De bewindspersonen van het ministerie zijn:
 
-- –. dr. E.E.W. Bruins, Minister van Onderwijs, Cultuur en Wetenschap
+- –. G. Moes, Minister van Onderwijs, Cultuur en Wetenschap
 
-- –. drs. M.L.J. Paul, Staatssecretaris van Onderwijs, Cultuur en Wetenschap
+- –. dr. K.M. Becking, Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 
 De bestuursraad van het ministerie bestaat uit:
 
