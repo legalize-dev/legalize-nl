@@ -4,7 +4,7 @@ identifier: "BWBR0019741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2019-11-22"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019741"
 soort: "ministeriele-regeling"
@@ -50,6 +50,10 @@ In deze regeling wordt verstaan onder:
 
 - c. identiteitsbewijs: een bewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
+- d. wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
+
+- e. de Minister: de Staatssecretaris van Justitie en Veiligheid.
+
 ##### Artikel 2
 
 Een bezoeker dient zich desgevraagd bij binnenkomst in een penitentiaire inrichting te identificeren door middel van een geldig identiteitsbewijs.
@@ -58,13 +62,13 @@ Een bezoeker dient zich desgevraagd bij binnenkomst in een penitentiaire inricht
 
 1. Een minderjarige jonger dan twaalf jaar en een minderjarige ouder dan twaalf maar jonger dan veertien jaar die niet in het bezit is van een geldig identiteitsbewijs, is het niet toegestaan de inrichting zonder meerderjarige begeleider te bezoeken.
 
-2. Een minderjarige jonger dan zestien jaar is het niet toegestaan de extra beveiligde inrichting zonder meerderjarige begeleider te bezoeken.
+2. Een minderjarige jonger dan veertien jaar is het niet toegestaan een gedetineerde die is geplaatst in een afdeling voor intensief toezicht of in een extra beveiligde inrichting te bezoeken zonder meerderjarige begeleider.
 
 3. Een diplomatieke of consulaire vertegenwoordiger die uit hoofde van zijn diplomatieke of consulaire vertegenwoordiging, gedetineerde vreemdelingen bezoekt, dient zich te identificeren door middel van een door de Minister van Buitenlandse Zaken afgegeven legitimatiebewijs voor personeelsleden van in Nederland werkzame diplomatieke missies of consulaire posten.
 
 ##### Artikel 4
 
-1. De individuele leden van een groep dienen zich afzonderlijk te identificeren overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019741&artikel=2&z=2019-11-22&g=2019-11-22).
+1. De individuele leden van een groep dienen zich afzonderlijk te identificeren overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019741&artikel=2&z=2025-11-01&g=2025-11-01).
 
 2. De individuele leden van een groep worden als groep in het daartoe bestemde register in- en uitgeschreven. De namen van de individuele leden van een groep worden afzonderlijk genoteerd en dienen hiertoe vooraf aan de inrichting bekend te worden gemaakt.
 
@@ -86,7 +90,11 @@ De beslissing tot het weigeren van bezoek voor de maximumtermijn van twaalf maan
 
 - b. een gedetineerde die al dan niet onherroepelijk is veroordeeld voor het begaan van een terroristisch misdrijf;
 
-- c. een gedetineerde waarbij de bescherming van slachtoffers van of anderszins betrokkenen bij misdrijven een weigering voor een zo lang mogelijke termijn vergt.
+- c. een gedetineerde waarbij de bescherming van slachtoffers van of anderszins betrokkenen bij misdrijven een weigering voor een zo lang mogelijke termijn vergt;
+
+- d. een gedetineerde die is geplaatst in een afdeling voor intensief toezicht;
+
+- e. een gedetineerde die is geplaatst in een extra beveiligde inrichting.
 
 ##### Artikel 7
 
@@ -140,7 +148,97 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring kan een beroepspas toekennen aan medewerkers van overige organisaties die door hem zijn goedgekeurd. Aan het toekennen van de beroepspas kan de directeur voorwaarden stellen.
 
-3. In de huisregels van de extra beveiligde inrichting en in de huisregels van de terroristenafdeling kunnen nadere voorwaarden worden gesteld voor bezoek met de beroepspas.
+3. In de huisregels van een extra beveiligde inrichting in de huisregels van een afdeling voor intensief toezicht, en in de huisregels van de terroristenafdeling kunnen nadere voorwaarden worden gesteld voor bezoek met de beroepspas.
+
+## Bijlage
+
+Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan wel de organisatie bezoeken:
+
+- –. Ambtenaren van het Ministerie van Justitie en Veiligheid: de rijkspas;
+
+- –. Reclasseringswerkers: bewijs verstrekt door de Stichting Reclassering Nederland;
+
+- –. Leden van de Raad voor Strafrechtstoepassing en Jeugdbescherming: een door de Dienst Justitiële Inrichtingen uitgegeven bewijs;
+
+- –. Leden van de Commissies van Toezicht: er bestaat geen specifieke pas voor leden van de Commissie van Toezicht. Zo gewenst kan door de desbetreffende inrichting een beroepspasje verstrekt worden;
+
+- –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
+
+- –. Medewerker van niet-justitiegebonden organisaties: de instemmingsbrief van de directeur tot verstrekking van een beroepspas en daarmee tot toegang tot een gedetineerde. Personen die kunnen worden aangemerkt als medewerker van niet-justitiegebonden organisaties zijn:
+
+- ○. Vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie door de Minister voor Rechtsbescherming is verleend, in het kader van ondersteuning van gedetineerden;
+
+- ○. Medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde;
+
+- ○. Medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde;
+
+- ○. Medewerkers van overige organisaties die zijn goedgekeurd door de directeur divisie Gevangeniswezen en Vreemdelingenbewaring.
+
+- –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+1. Een telefoongesprek als bedoeld in [artikel 40b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40b), of [artikel 40c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40c) vindt niet eerder plaats dan nadat uit onderzoek van de directeur is gebleken dat geen bezwaar bestaat tegen contact tussen de gedetineerde en de persoon met wie de gedetineerde wenst te telefoneren.
+
+2. Een telefoongesprek wordt beëindigd indien het telefoongesprek in een andere taal wordt gevoerd dan is toegestaan of als het telefoongesprek aan de zijde van de contactpersoon van de gedetineerde door meerdere personen tegelijk wordt gevoerd.
+
+##### Artikel 6b
+
+1. De gedetineerde geeft ten minste 48 uur voorafgaand aan het telefoongesprek binnen Nederland aan in welke taal hij het telefoongesprek wenst te voeren.
+
+2. Plaatsen binnen Nederland als bedoeld in [artikel 39, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39) zijn in beginsel de penitentiaire inrichtingen zoals genoemd in de bijlage van deze regeling.
+
+3. Voor het voeren van telefoongesprekken buiten Nederland als bedoeld in [artikel 39, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39), dient de gedetineerde een schriftelijke aanvraag te doen bij de directeur. Bij deze aanvraag wordt in ieder geval vermeld in welke taal de gedetineerde de telefoongesprekken wenst te voeren, een kopie van een geldig identiteitsbewijs van de persoon gevoegd en een gelegaliseerd bewijs van inschrijving, dan wel een bewijs van inschrijving voorzien van een apostille gevoegd niet ouder dan twaalf maanden waaruit blijkt dat de persoon met wie de gedetineerde telefoneert een vaste woon- of verblijfplaats heeft in het buitenland.
+
+4. De directeur neemt de aanvraag van de gedetineerde voor het voeren van telefoongesprekken buiten Nederland in ontvangst. Deze aanvraag dient de directeur met de stukken bij de Minister in.
+
+5. De Minister bepaalt aan de hand van de aanvraag of toestemming voor het voeren van telefoongesprekken buiten Nederland wordt verleend.
+
+6. Indien toestemming door de Minister wordt verleend, wordt daarbij bepaald voor welke periode de toestemming wordt gegeven, in welke taal de telefoongesprekken worden gevoerd en op welke locatie de telefoongesprekken plaatsvinden. Tevens kan de Minister aanvullende voorwaarden stellen aan de telefoongesprekken buiten Nederland die dienstig zijn aan het toezicht op de telefoongesprekken of aan het identificeren van de persoon met wie de gedetineerde telefoneert.
+
+7. De Minister kan de toestemming intrekken, naar een andere locatie verplaatsen en daar nadere voorwaarden aan verbinden als sprake is van gewijzigde omstandigheden. De directeur informeert de Minister onverwijld over gewijzigde omstandigheden.
+
+8. De toestemming vervalt wanneer de termijn waarvoor de toestemming is verleend is verstreken of als opnieuw toestemming wordt verleend.
+
+##### Artikel 6c
+
+1. Een tijdelijke verruiming als bedoeld in [artikel 40b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40b) kan worden verleend mits de veiligheid dit toestaat en als de wekelijkse contactmomenten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) niet kunnen worden afgewacht en contact noodzakelijk is wegens een bijzondere omstandigheid in de persoonlijke sfeer van de gedetineerde:
+
+- a. geboorte van een kind van de gedetineerde;
+
+- b. aanstaand of daadwerkelijk overlijden van de levenspartner, een kind, ouder, schoonouder, broer of zuster van de gedetineerde; of
+
+- c. een andere onvoorziene klemmende reden gelegen in de persoonlijke sfeer.
+
+2. Een tijdelijke verruiming bestaat uit:
+
+- a. één uur extra ontvangst van bezoek in één week;
+
+- b. het voeren van één extra telefoongesprek van maximaal tien minuten in één week; of
+
+- c. één extra minderjarige dan wel meerderjarige bezoeker tijdens het wekelijkse bezoekmoment op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
+
+3. Voordat een tijdelijke verruiming wordt verleend, dient ten aanzien van de persoon waarmee extra contact wordt toegestaan vast te staan dat:
+
+- a. de beweerde band bestaat,
+
+- b. de relatie hecht is,
+
+- c. de persoon waarmee extra contact wordt toegestaan daartegen geen bezwaar heeft, en
+
+- d. uit onderzoek van de directeur is gebleken dat geen bezwaar bestaat tegen contact tussen de gedetineerde en die persoon.
+
+4. Van een situatie als bedoeld in het eerste lid onder a respectievelijk b kan slechts sprake zijn indien de desbetreffende toestand of gebeurtenis door een arts respectievelijk door de burgerlijke stand is bevestigd.
+
+##### Artikel 6d
+
+1. De gedetineerde in een extra beveiligde inrichting of een afdeling voor intensief toezicht die een verzoek indient tot toepassing van het bepaalde in [artikel 40b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40b), vermeldt in het verzoek de bijzondere toestand of gebeurtenis waarvoor om tijdelijke verruiming wordt verzocht, de concrete noodzaak voor die tijdelijke verruiming alsmede de wens op welke wijze door de Minister invulling aan die tijdelijke verruiming zou moeten worden gegeven, waarbij bewijsstukken worden overgelegd waaruit van de bijzondere toestand of gebeurtenis en de noodzaak voor tijdelijke verruiming blijkt.
+
+2. De Minister beslist over de precieze invulling en de duur van de tijdelijke verruiming genoemd in [artikel 6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019741&artikel=6c&z=2025-11-01&g=2025-11-01) en kan daaraan voorwaarden verbinden. Voordat de Minister beslist krijgt de gedetineerde de gelegenheid zijn verzoek schriftelijk of mondeling toe te lichten.
+
+3. De Minister kan te allen tijde een reeds toegestaan contact of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen en daar nadere voorwaarden aan verbinden, indien nieuwe feiten of omstandigheden daartoe aanleiding geven. De Minister wordt onverwijld door de directeur van gewijzigde omstandigheden in kennis gesteld.
 
 ## Bijlage
 
