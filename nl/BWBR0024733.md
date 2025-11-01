@@ -4,7 +4,7 @@ identifier: "BWBR0024733"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2024-02-01"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024733"
 soort: "ministeriele-regeling"
@@ -58,7 +58,9 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 - a. de aan of ten behoeve van de asielzoeker en zijn gezinsleden verstrekte financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven en de in natura verstrekte maaltijden;
 
-- b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum.
+- b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum;
+
+- c. de kosten van medische verstrekkingen overeenkomstig een daarvoor getroffen ziektekostenregeling.
 
 #### Paragraaf 3. De economische waarde
 
@@ -66,9 +68,11 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), bedraagt:
 
-- a. van de verstrekkingen bedoeld in artikel 2, onderdeel a: de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=14), die aan of ten behoeve van de asielzoeker of vergunninghouder wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;
+- a. van de verstrekkingen bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=14), die aan of ten behoeve van de asielzoeker of vergunninghouder wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;
 
-- b. van de verstrekkingen bedoeld in artikel 2, onderdeel b: € 50,00 voor een alleenstaande asielzoeker of vergunninghouder of eerste gezinslid, € 25,00, voor het tweede gezinslid en € 12,50 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 433,00.
+- b. van de verstrekkingen bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): € 50,00 voor een alleenstaande asielzoeker of vergunninghouder of eerste gezinslid, € 25,00, voor het tweede gezinslid en € 12,50 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 433,00;
+
+- c. van de verstrekkingen bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): een geldbedrag gelijk aan de gemiddelde basis zorgpremie als bedoeld in [artikel 2b van het Besluit minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=2b) minus de maximale zorgtoeslag.
 
 ### Hoofdstuk 2. De eigen bijdrage
 
@@ -76,13 +80,13 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 ##### Artikel 4
 
-De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2024-02-01&g=2024-02-01).
+De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2025-11-01&g=2025-11-01).
 
 #### Paragraaf 2. De middelen
 
 ##### Artikel 5
 
-1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-02-01&g=2024-02-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
+1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-11-01&g=2025-11-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
 
 2. Niet tot de middelen van de asielzoeker worden gerekend:
 
@@ -90,7 +94,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - b. vergoedingen en tegemoetkomingen, waaronder begrepen de tegemoetkoming ontvangen op grond van het [Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555), voor, alsmede de vermindering of teruggave van loonbelasting of inkomensbelasting en van premies volksverzekeringen op grond van kosten die niet tot de algemeen noodzakelijke bestaanskosten behoren;
 
-- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2024-02-01&g=2024-02-01), niet in aanmerking genomen vermogen;
+- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2025-11-01&g=2025-11-01), niet in aanmerking genomen vermogen;
 
 - d. een uitkering in verband met geleden immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, uit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord is;
 
@@ -130,7 +134,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - a. de waarde van de bezittingen waarover de asielzoeker bij de aanvang van de opvang beschikt of redelijkerwijs kan beschikken, verminderd met de op dat tijdstip aanwezige schulden. De waarde van de bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering;
 
-- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2024-02-01&g=2024-02-01).
+- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2025-11-01&g=2025-11-01).
 
 2. Niet als vermogen wordt in aanmerking genomen:
 
@@ -168,7 +172,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tre
 
 1. [Artikel 1, eerste lid, onder d en f, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=1) en [artikel 3, tweede en derde lid van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3) zijn van overeenkomstige toepassing.
 
-2. Indien het college overeenkomstig [artikel 22a van de Regeling verstrekkingen asielzoekers en andere categorieën 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=22a) een opvangvoorziening exploiteert zijn de [artikelen 1 tot en met 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=1&artikel=1&z=2024-02-01&g=2024-02-01), van toepassing.
+2. Indien het college overeenkomstig [artikel 22a van de Regeling verstrekkingen asielzoekers en andere categorieën 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=22a) een opvangvoorziening exploiteert zijn de [artikelen 1 tot en met 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=1&artikel=1&z=2025-11-01&g=2025-11-01), van toepassing.
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
