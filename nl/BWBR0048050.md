@@ -4,7 +4,7 @@ identifier: "BWBR0048050"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-01"
-last_updated: "2025-10-12"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048050"
 soort: "wet"
@@ -119,7 +119,7 @@ De ambtenaren bedoeld in de [onderdelen b, c en d van artikel 141 van het Wetboe
 
 - d. artikel 50, tweede lid, van de Etias-verordening.
 
-2. Bij de uitoefening van de taken en bevoegdheden, bedoeld in het eerste lid, treedt de officier van justitie volledig onafhankelijk op ten opzichte van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048050&paragraaf=2&artikel=3&z=2025-11-01&g=2025-10-12) aangewezen autoriteiten alsmede van de officier van justitie die het gezag over die autoriteiten uitoefent.
+2. Bij de uitoefening van de taken en bevoegdheden, bedoeld in het eerste lid, treedt de officier van justitie volledig onafhankelijk op ten opzichte van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048050&paragraaf=2&artikel=3&z=2025-11-01&g=2025-11-01) aangewezen autoriteiten alsmede van de officier van justitie die het gezag over die autoriteiten uitoefent.
 
 #### Paragraaf 3. Overige bepalingen ter uitvoering van de verordeningen
 
