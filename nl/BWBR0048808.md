@@ -4,7 +4,7 @@ identifier: "BWBR0048808"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-19"
-last_updated: "2025-05-13"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048808"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUIT:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Expertgroep:** Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-05-13&g=2025-05-13);
+- a. **Expertgroep:** Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-05-13&g=2025-11-01);
 
 - b. **Groenstaalplan:** de complete set aan plannen van het bedrijf Tata Steel om schoon en duurzaam staal te gaan produceren;
 
@@ -154,7 +154,7 @@ In dit besluit wordt verstaan onder:
 
 - i. Mevrouw prof. dr. E.G. Smit, te Hilversum.
 
-2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-05-13&g=2025-05-13), wordt als lid van de expertgroep benoemd:
+2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-05-13&g=2025-11-01), wordt als lid van de expertgroep benoemd:
 
 - a. voor de periode 1 november 2023 – 2 maart 2025 mevrouw prof. dr. K. Stronks, te Abcoude;
 
