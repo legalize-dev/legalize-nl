@@ -4,7 +4,7 @@ identifier: "BWBR0042315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2019-06-22"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042315"
 soort: "ministeriele-regeling"
@@ -42,7 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als databank waarmee de Passagiersinformatie-eenheid bij het beoordelen van de passagiers als bedoeld in het eerste lid, onderdeel a, de [Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven de passagiersgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0042301) als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=1) bevoegd is te vergelijken, wordt aangewezen de SIS II-databank als bedoeld in artikel 4 van de [Verordening (EG) Nr. 1987/2006](32006R1987) van het Europees Parlement en de Raad van 20 december 2006 betreffende de instelling, de werking en het gebruik van het Schengeninformatiesysteem van de tweede generatie (SIS II).
+Als databank waarmee de Passagiersinformatie-eenheid bij het beoordelen van de passagiers als bedoeld in het eerste lid, onderdeel a, de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven de passagiersgegevens als bedoeld in artikel 1 van die wet bevoegd is te vergelijken, wordt aangewezen:
+
+- a. het Schengeninformatiesysteem (SIS) waarnaar wordt verwezen in artikel 44, eerste lid, aanhef en onder c van Verordening (EU)/2018/1862 van 28 november 2018 betreffende de instelling, de werking en het gebruik van het Schengeninformatiesysteem (SIS) op het gebied van politiële en justitiële samenwerking in strafzaken, tot wijziging en intrekking van Besluit 2007/533/JBZ van de Raad en tot intrekking van [Verordening (EG) nr. 1986/2006](32006R1986) van het Europees Parlement en de Raad en Besluit 2010/261/EU van de Commissie, PbEU 2018, L 312, en
+
+- b. het Schengeninformatiesysteem (SIS) waarnaar in artikel 34, eerste lid, aanhef en onder c, van [Verordening (EU) 2018/1861](32018R1861) van 28 november 2018 betreffende de instelling, de werking en het gebruik van het Schengeninformatiesysteem (SIS) op het gebied van grenscontroles, tot wijziging van de Overeenkomst ter uitvoering van het Akkoord van Schengen en tot wijziging en intrekking van [Verordening (EG) nr. 1987/2006](32006R1987), PbEU 2018, L 312
 
 ##### Artikel 2
 
