@@ -4,7 +4,7 @@ identifier: "BWBR0049977"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2025-08-11"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049977"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **gemeenschap:** de nazaten van tot slaaf gemaakten en de groep mensen met wie ze op basis van gedeelde kenmerken, belangen of een gevoel van saamhorigheid verbonden zijn;
 
-- **initiatieven:** projecten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11);
+- **initiatieven:** projecten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01);
 
 - **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -74,57 +74,57 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 1. De minister stelt in de periode 11 augustus 2025 tot en met 6 maart 2028 € 29.333.333,33 beschikbaar, welk bedrag wordt verdeeld in door de minister vast te stellen aanvraagtijdvakken met voor elk van die aanvraagtijdvakken en de Caribische delen van het Koninkrijk afzonderlijk vast te stellen subsidieplafonds.
 
-2. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-08-11&g=2025-08-11), bedraagt in het eerste aanvraagtijdvak € 1.260.000 en in het tweede aanvraagtijdvak € 900.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 210.000 en in het tweede aanvraagtijdvak € 150.000.
+2. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-11-01&g=2025-11-01), bedraagt in het eerste aanvraagtijdvak € 1.260.000 en in het tweede aanvraagtijdvak € 900.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 210.000 en in het tweede aanvraagtijdvak € 150.000.
 
-3. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-08-11&g=2025-08-11), bedraagt in het eerste aanvraagtijdvak € 2.190.000 en in het tweede aanvraagtijdvak € 1.800.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 365.000 en het tweede aanvraagtijdvak € 300.000.
+3. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-11-01&g=2025-11-01), bedraagt in het eerste aanvraagtijdvak € 2.190.000 en in het tweede aanvraagtijdvak € 1.800.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 365.000 en het tweede aanvraagtijdvak € 300.000.
 
-4. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-08-11&g=2025-08-11), bedraagt in het eerste aanvraagtijdvak € 5.110.000 en in het tweede aanvraagtijdvak € 3.600.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 851.666 en in het tweede aanvraagtijdvak € 600.000.
+4. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-11-01&g=2025-11-01), bedraagt in het eerste aanvraagtijdvak € 5.110.000 en in het tweede aanvraagtijdvak € 3.600.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 851.666 en in het tweede aanvraagtijdvak € 600.000.
 
-5. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-08-11&g=2025-08-11), bedraagt in het eerste aanvraagtijdvak € 7.873.333 en in het tweede aanvraagtijdvak € 6.600.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 1.312.222 en in het tweede aanvraagtijdvak € 1.100.000.
+5. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-11-01&g=2025-11-01), bedraagt in het eerste aanvraagtijdvak € 7.873.333 en in het tweede aanvraagtijdvak € 6.600.000. Dit betekent voor elk eiland van het Caribisch deel van het Koninkrijk in het eerste aanvraagtijdvak € 1.312.222 en in het tweede aanvraagtijdvak € 1.100.000.
 
 ##### Artikel 4. Aanvraagtijdvakken
 
 1. De mogelijkheid tot het indienen van aanvragen voor subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken.
 
-2. Een subsidieaanvraag op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt ingediend in het eerste aanvraagtijdvak 11 augustus 2025, 09:00 uur CET, tot 12 september 2025, 17:00 uur CET, of het tweede aanvraagtijdvak van 2 november 2026, 09:00 uur CET tot 12 januari 2027, 17:00 uur CET.
+2. Een subsidieaanvraag op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt ingediend in het eerste aanvraagtijdvak 11 augustus 2025, 09:00 uur CET, tot 12 september 2025, 17:00 uur CET, of het tweede aanvraagtijdvak van 2 november 2026, 09:00 uur CET tot 12 januari 2027, 17:00 uur CET.
 
-3. Een subsidieaanvraag op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt ingediend in het eerste aanvraagtijdvak van 1 december 2025, 09:00 uur CET, tot 12 januari 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 10 januari 2028, 09:00 uur CET, tot 6 maart 2028, 17:00 uur CET.
+3. Een subsidieaanvraag op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt ingediend in het eerste aanvraagtijdvak van 1 december 2025, 09:00 uur CET, tot 12 januari 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 10 januari 2028, 09:00 uur CET, tot 6 maart 2028, 17:00 uur CET.
 
-4. Een subsidieaanvraag op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt ingediend in het eerste aanvraagtijdvak van 1 april 2026, 09:00 uur CET, tot 1 juni 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 1 juni 2027, 09:00 uur CET, tot 29 juli 2027, 17:00 uur CET.
+4. Een subsidieaanvraag op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt ingediend in het eerste aanvraagtijdvak van 1 april 2026, 09:00 uur CET, tot 1 juni 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 1 juni 2027, 09:00 uur CET, tot 29 juli 2027, 17:00 uur CET.
 
-5. Een subsidieaanvraag op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt ingediend in het eerste aanvraagtijdvak van 1 april 2026, 09:00 uur CET, tot 1 juni 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 1 april 2027, 09:00 uur CET, tot 7 juni 2027, 17:00 uur CET.
+5. Een subsidieaanvraag op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt ingediend in het eerste aanvraagtijdvak van 1 april 2026, 09:00 uur CET, tot 1 juni 2026, 17:00 uur CET, of het tweede aanvraagtijdvak van 1 april 2027, 09:00 uur CET, tot 7 juni 2027, 17:00 uur CET.
 
 ##### Artikel 5. Subsidiecategorieën
 
-1. De minister kan subsidie verstrekken voor activiteiten met een maximale looptijd van 1 jaar voor het professionaliseren van aanvragers die werkzaam zijn in het Caribisch deel van het Koninkrijk die werken ten behoeve van de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-08-11&g=2025-08-11).
+1. De minister kan subsidie verstrekken voor activiteiten met een maximale looptijd van 1 jaar voor het professionaliseren van aanvragers die werkzaam zijn in het Caribisch deel van het Koninkrijk die werken ten behoeve van de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-11-01&g=2025-11-01).
 
-2. De minister kan subsidie verstrekken voor kleinschalige maatschappelijke initiatieven met een maximale looptijd van 1 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-08-11&g=2025-08-11).
+2. De minister kan subsidie verstrekken voor kleinschalige maatschappelijke initiatieven met een maximale looptijd van 1 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-11-01&g=2025-11-01).
 
-3. De minister kan subsidie verstrekken voor middelgrote maatschappelijke initiatieven met een maximale looptijd van 4 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-08-11&g=2025-08-11).
+3. De minister kan subsidie verstrekken voor middelgrote maatschappelijke initiatieven met een maximale looptijd van 4 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-11-01&g=2025-11-01).
 
-4. De minister kan subsidie verstrekken voor grootschalige maatschappelijke initiatieven met een maximale looptijd van 4 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-08-11&g=2025-08-11).
+4. De minister kan subsidie verstrekken voor grootschalige maatschappelijke initiatieven met een maximale looptijd van 4 jaar in het Caribisch deel van het Koninkrijk en die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-11-01&g=2025-11-01).
 
 ##### Artikel 6. Hoogte van subsidie
 
-1. De subsidie op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), bedraagt USD 10.000,–.
+1. De subsidie op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), bedraagt USD 10.000,–.
 
-2. De subsidie op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), bedraagt 100% van de subsidiabele kosten van minimaal USD 10.000,– tot USD 25.000,–.
+2. De subsidie op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), bedraagt 100% van de subsidiabele kosten van minimaal USD 10.000,– tot USD 25.000,–.
 
-3. De subsidie op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), bedraagt 100% van de subsidiabele kosten van minimaal USD 25.000,– tot USD 125.000,–.
+3. De subsidie op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), bedraagt 100% van de subsidiabele kosten van minimaal USD 25.000,– tot USD 125.000,–.
 
-4. De subsidie op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), bedraagt 100% van de subsidiabele kosten van minimaal USD 125.000,– en ten hoogste USD 500.000,–.
+4. De subsidie op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), bedraagt 100% van de subsidiabele kosten van minimaal USD 125.000,– en ten hoogste USD 500.000,–.
 
 ##### Artikel 7. Subsidiabele activiteiten
 
-1. Voor subsidies op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), komen uitsluitend de volgende activiteiten in aanmerking:
+1. Voor subsidies op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), komen uitsluitend de volgende activiteiten in aanmerking:
 
 - a. een opleiding, cursus of training die wordt gegeven volgens een vooraf vastgesteld programma en door een daartoe bevoegd docent en die wordt afgesloten met een diploma, certificaat of bewijs van deelname. De activiteit is bedoeld voor de bestuursleden van de aanvrager en gericht op het vergroten van kennis en vaardigheden voor het uitoefenen van hun bestuurlijke taken of de inrichting of verbetering van de administratieve organisatie van de aanvrager;
 
 - b. een opleiding, cursus of training die wordt gegeven volgens een vooraf vastgesteld programma en door een daartoe bevoegd docent en die wordt afgesloten met een diploma, certificaat of bewijs van deelname. De activiteit is bedoeld voor de werknemers in loondienst bij de aanvrager en is gericht op de inrichting of verbetering van de administratieve organisatie van de aanvrager;
 
-- c. het bouwen of verbeteren van de website van aanvrager met als doel om activiteiten die aansluiten op de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-08-11&g=2025-08-11), onder de aandacht te kunnen brengen.
+- c. het bouwen of verbeteren van de website van aanvrager met als doel om activiteiten die aansluiten op de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=2&z=2025-11-01&g=2025-11-01), onder de aandacht te kunnen brengen.
 
-2. Voor subsidies op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), komen uitsluitend de volgende activiteiten in aanmerking:
+2. Voor subsidies op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), komen uitsluitend de volgende activiteiten in aanmerking:
 
 - a. projecten om de veerkracht van de gemeenschap tegen discriminatie en racisme te vergroten;
 
@@ -140,7 +140,7 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 - g. kunstuitingen, waaronder tentoonstellingen en voorstellingen.
 
-3. Onverminderd het tweede lid, komen voor subsidies op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), uitsluitend projecten in aanmerking met een blijvende of langdurige impact of met een groot bereik die het slavernijverleden en de gedeelde geschiedenis zichtbaar maken.
+3. Onverminderd het tweede lid, komen voor subsidies op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), uitsluitend projecten in aanmerking met een blijvende of langdurige impact of met een groot bereik die het slavernijverleden en de gedeelde geschiedenis zichtbaar maken.
 
 ##### Artikel 8. Subsidiabele kosten
 
@@ -150,19 +150,19 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 - b. een toeslag van 15% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten ter subsidiëring van overige gemaakte kosten.
 
-2. Onverminderd het eerste lid, komen voor activiteiten op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), voor subsidie in aanmerking:
+2. Onverminderd het eerste lid, komen voor activiteiten op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), voor subsidie in aanmerking:
 
-- a. een vrijwilligersvergoeding voor de aan de subsidiabele activiteiten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=7&z=2025-08-11&g=2025-08-11), toe te rekenen uren;
+- a. een vrijwilligersvergoeding van USD 5,60 per uur voor de aan de subsidiabele activiteiten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=7&z=2025-11-01&g=2025-11-01), toe te rekenen uren;
 
-- b. directe loonkosten die zijn verbonden met de uitvoering van de subsidiabele activiteiten, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=7&z=2025-08-11&g=2025-08-11), waarvoor een vastgesteld uurtarief van USD 65,– wordt gehanteerd; c. indien van toepassing, een vergoeding van USD 10.000,– voor de kosten van een controleverklaring als bedoeld in [artikel 24, eerste lid, onderdeel b, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=24);
+- b. directe loonkosten die zijn verbonden met de uitvoering van de subsidiabele activiteiten, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=7&z=2025-11-01&g=2025-11-01), waarvoor een vastgesteld uurtarief van USD 65,– wordt gehanteerd; c. indien van toepassing, een vergoeding van USD 10.000,– voor de kosten van een controleverklaring als bedoeld in [artikel 24, eerste lid, onderdeel b, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=24);
 
 - d. een opslag ter vergoeding van het honorarium van een subsidieadviseur of de regeldrukkosten van de aanvrager, ten hoogte van:
 
-- 1°. USD 1.000,– voor aanvragen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-08-11&g=2025-08-11);
+- 1°. USD 1.000,– voor aanvragen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-11-01&g=2025-11-01);
 
-- 2°. USD 2.500,– voor aanvragen op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-08-11&g=2025-08-11);
+- 2°. USD 2.500,– voor aanvragen op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-11-01&g=2025-11-01);
 
-- 3°. USD 3.750,– voor aanvragen op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-08-11&g=2025-08-11).
+- 3°. USD 3.750,– voor aanvragen op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=6&z=2025-11-01&g=2025-11-01).
 
 3. Voor zover de kosten, bedoeld in het eerste en tweede lid, bestaan uit kosten van externe opdrachten met een waarde van ten minste USD 50.000, zijn deze kosten slechts subsidiabel indien zij marktconform zijn, wat wordt aangetoond aan de hand van:
 
@@ -208,7 +208,7 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 - j. aankoop onroerend goed of kunstvoorwerpen.
 
-7. Voor aanvragen op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), zijn opleidingskosten niet subsidiabel.
+7. Voor aanvragen op grond van [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), zijn opleidingskosten niet subsidiabel.
 
 ##### Artikel 9. Aanvragers
 
@@ -234,13 +234,13 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 ##### Artikel 11. Beoordeling aanvragen
 
-1. Bij overschrijding van het subsidieplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=3&z=2025-08-11&g=2025-08-11), stelt de minister na afloop van het aanvraagtijdvak, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-08-11&g=2025-08-11), door middel van loting de volgorde vast waarin de ontvangen aanvragen worden afgehandeld.
+1. Bij overschrijding van het subsidieplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=3&z=2025-11-01&g=2025-11-01), stelt de minister na afloop van het aanvraagtijdvak, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=4&z=2025-11-01&g=2025-11-01), door middel van loting de volgorde vast waarin de ontvangen aanvragen worden afgehandeld.
 
 2. Alleen volledige subsidieaanvragen worden in behandeling genomen.
 
 3. Onvolledige subsidieaanvragen worden, na aanvulling door de subsidieaanvrager, geplaatst aan het einde van de lijst die volgt uit de loting, waarbij het tijdstip van ontvangst van de volledige subsidieaanvraag bepalend is voor de volgorde van plaatsing op die lijst.
 
-4. Indien de minister voornemens is negatief te beschikken omdat een project, op grond van artikel 5, derde en vierde lid, onvoldoende verband houdt met het slavernijverleden en de daarop gerichte doelen, zal eerst advies worden ingewonnen bij de adviescommissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=12&z=2025-08-11&g=2025-08-11).
+4. Indien de minister voornemens is negatief te beschikken omdat een project, op grond van artikel 5, derde en vierde lid, onvoldoende verband houdt met het slavernijverleden en de daarop gerichte doelen, zal eerst advies worden ingewonnen bij de adviescommissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=12&z=2025-11-01&g=2025-11-01).
 
 5. De projectperiode, de periode waarin subsidiabele activiteiten kunnen worden uitgevoerd en subsidiabele kosten kunnen worden gemaakt, vangt aan op de datum van de beschikking tot subsidieverlening. De subsidiabele activiteiten starten niet later dan 13 weken nadat de subsidieverlening is beschikt.
 
@@ -248,7 +248,7 @@ De minister kan subsidie verstrekken voor initiatieven in het Caribisch deel van
 
 1. De minister stelt een adviescommissie in.
 
-2. De adviescommissie adviseert de minister over de toepassing van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=11&z=2025-08-11&g=2025-08-11).
+2. De adviescommissie adviseert de minister over de toepassing van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=11&z=2025-11-01&g=2025-11-01).
 
 3. Indien de adviescommissie adviseert om een aanvraag te subsidiëren, kan de minister gemotiveerd anders besluiten.
 
@@ -266,15 +266,13 @@ De minister wijst een aanvraag voor een subsidie af voor zover:
 
 - d. het een aanvraag betreft van een aanvrager die reeds subsidie heeft aangevraagd op grond van deze regeling in hetzelfde tijdvak;
 
-- e. de aanvrager reeds eerder subsidie toegekend heeft gekregen voor een aanvraag op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), en hier nogmaals een subsidieaanvraag voor indient;
-
-- f. de aanvrager in het direct voorafgaand tijdvak al een subsidie verleend heeft gekregen.
+- e. de aanvrager reeds eerder subsidie toegekend heeft gekregen voor een aanvraag op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), en hier nogmaals een subsidieaanvraag voor indient.
 
 ##### Artikel 14. Wijze van subsidieverstrekking
 
-1. Bij subsidieverstrekking op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt een beschikking tot subsidieverlening gegeven met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
+1. Bij subsidieverstrekking op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt een beschikking tot subsidieverlening gegeven met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
-2. Bij subsidieverstrekking op grond van [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt de subsidie verstrekt in de vorm van een vast bedrag op basis van de gegevens die worden ingediend bij de aanvraag. Een beschikking tot subsidieverlening wordt gegeven met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en de datum waarop een verzoek tot subsidievaststelling moet worden gedaan.
+2. Bij subsidieverstrekking op grond van [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt de subsidie verstrekt in de vorm van een vast bedrag op basis van de gegevens die worden ingediend bij de aanvraag. Een beschikking tot subsidieverlening wordt gegeven met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en de datum waarop een verzoek tot subsidievaststelling moet worden gedaan.
 
 3. De subsidieaanvrager dient het verzoek tot subsidievaststelling in door middel van het daartoe bestemde elektronisch formulier op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
@@ -282,7 +280,7 @@ De minister wijst een aanvraag voor een subsidie af voor zover:
 
 1. Indien in de activiteit gebruik wordt gemaakt van vrijwilligers, wordt een vrijwilligersovereenkomst afgesloten.
 
-2. Voor activiteiten als bedoeld in [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-08-11&g=2025-08-11), wordt een urenadministratie bijgehouden.
+2. Voor activiteiten als bedoeld in [artikel 5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049977&artikel=5&z=2025-11-01&g=2025-11-01), wordt een urenadministratie bijgehouden.
 
 ##### Artikel 16. Inwerkingtreding
 
