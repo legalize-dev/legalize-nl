@@ -4,7 +4,7 @@ identifier: "BWBR0045901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2025-07-03"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045901"
 soort: "ministeriele-regeling"
@@ -119,7 +119,7 @@ Met ingang van 1 maart 2025 zijn voor de duur van de adviescommissie tot lid ben
 
 ### 3. Ingetrokken besluit
 
-Met ingang van 1 maart 2025 wordt voor de duur van één jaar tot lid benoemd:
+Met ingang van 1 maart 2025 wordt voor de duur van de adviescommissie tot lid benoemd:
 
 ### Artikel 2
 
@@ -141,7 +141,7 @@ Met ingang van 1 juni 2025 wordt voor de duur van de adviescommissie tot lid ben
 
 ### Artikel 2. Vergoedingen
 
-Met ingang van 1 juni 2025 wordt voor de duur van één jaar tot lid benoemd:
+Met ingang van 1 juni 2025 wordt voor de duur van de adviescommissie tot lid benoemd:
 
 ### 4. Inwerkingtreding en vervaldatum
 
