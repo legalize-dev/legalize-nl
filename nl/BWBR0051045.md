@@ -4,7 +4,7 @@ identifier: "BWBR0051045"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-04"
-last_updated: "2025-05-17"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051045"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ entry_into_force: "2025-05-17"
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-05-17&g=2025-05-17);
+- a. **commissie:** de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-11-04&g=2025-11-04);
 
 - b. **minister:** de Minister van Defensie;
 
@@ -77,17 +77,19 @@ De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (e
 
 ##### Artikel 3. Samenstelling, benoeming en ontslag
 
-1. De commissie bestaat uit twee leden, waaronder een voorzitter:
+1. De commissie bestaat uit drie leden, waaronder een voorzitter:
 
 - a. De heer mr. H. N. (Harm) Brouwer, tevens voorzitter;
 
-- b. De heer A. J. (Aad) Meijboom.
+- b. De heer A. J. (Aad) Meijboom,
 
-2. De voorzitter en het tweede lid hebben zitting op persoonlijke titel en oefenen hun functie onafhankelijk en onpartijdig uit.
+- c. De heer prof. mr. dr. E.R. Muller.
 
-3. De voorzitter wordt door de minister benoemd, het tweede lid wordt op voordracht van de voorzitter door de minister benoemd.
+2. De voorzitter en de twee leden hebben zitting op persoonlijke titel en oefenen hun functie onafhankelijk en onpartijdig uit.
 
-4. De benoeming geschiedt voor de duur van de commissie.
+3. De voorzitter wordt door de minister benoemd, de twee leden worden op voordracht van de voorzitter door de minister benoemd.
+
+4. De benoeming van de voorzitter en lid Meijboom geschiedt voor de duur van de commissie. De benoeming van lid Muller geschiedt vanaf 1 oktober 2025.
 
 5. Het lid van de commissie kan (op eigen verzoek, wegens ongeschiktheid of op andere zwaarwegende gronden) op voordracht van de voorzitter worden geschorst en ontslagen door de minister. De voorzitter kan (op eigen verzoek, wegens ongeschiktheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de minister.
 
@@ -121,11 +123,11 @@ De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (e
 
 ##### Artikel 7. Inwinnen van informatie
 
-1. De commissie is bevoegd om zich voor het inwinnen van informatie rechtstreeks te wenden tot personen en instellingen en hen te verzoeken alle medewerking te verlenen die naar het oordeel van de commissie nodig is voor de vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-05-17&g=2025-05-17) genoemde taken, daarbij het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=6&z=2025-05-17&g=2025-05-17) bedoelde protocol in acht nemend.
+1. De commissie is bevoegd om zich voor het inwinnen van informatie rechtstreeks te wenden tot personen en instellingen en hen te verzoeken alle medewerking te verlenen die naar het oordeel van de commissie nodig is voor de vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-11-04&g=2025-11-04) genoemde taken, daarbij het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=6&z=2025-11-04&g=2025-11-04) bedoelde protocol in acht nemend.
 
 2. Ambtenaren van het ministerie zijn verplicht om de commissie de verlangde medewerking te verlenen voor zover deze samenhangt met hun (huidige dan wel voormalige) ambtelijke taak, conform hun ambtseed.
 
-3. Het ministerie verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft voor de vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-05-17&g=2025-05-17) genoemde taken, daarbij het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=6&z=2025-05-17&g=2025-05-17) bedoelde protocol in acht nemend.
+3. Het ministerie verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft voor de vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-11-04&g=2025-11-04) genoemde taken, daarbij het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=6&z=2025-11-04&g=2025-11-04) bedoelde protocol in acht nemend.
 
 4. De commissie is gerechtigd in het kader van haar onderzoek kennis te nemen van gegevens die berusten bij het ministerie ongeacht de merking of rubricering. Een geheimhoudingsplicht ter zake, rustend op personen in dienst van het ministerie, vindt in dat geval ten overstaan van de commissie geen toepassing.
 
@@ -137,7 +139,7 @@ De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (e
 
 ##### Artikel 8. Vergoeding
 
-Op de werkzaamheden van de voorzitter en het tweede lid is het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) van toepassing.
+Op de werkzaamheden van de voorzitter en de twee leden is het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) van toepassing.
 
 ##### Artikel 9. Kosten van de onderzoekscommissie
 
@@ -179,7 +181,7 @@ Bij de beëindiging van haar werkzaamheden brengt de commissie haar eindrapport 
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=8&z=2025-05-17&g=2025-05-17) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=9&z=2025-05-17&g=2025-05-17) terug tot en met 15 april 2025 voor zover het gaat om voorbereidende werkzaamheden.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=8&z=2025-11-04&g=2025-11-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=9&z=2025-11-04&g=2025-11-04) terug tot en met 15 april 2025 voor zover het gaat om voorbereidende werkzaamheden.
 
 ##### Artikel 14. Citeertitel
 
