@@ -4,7 +4,7 @@ identifier: "BWBR0050428"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-04"
-last_updated: "2024-11-19"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050428"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **volwassenen-ggz:** geestelijke gezondheidszorg voor volwassenen die deels of geheel in aanmerking komt voor vergoeding op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **werkwijze Toekomstscenario:** de werkwijze, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19).
+- **werkwijze Toekomstscenario:** de werkwijze, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04).
 
 ##### Artikel 2. Subsidiabele activiteiten
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Subsidiabele kosten
 
-Subsidiabele kosten zijn uitsluitend de volgende kosten, voor zover deze kosten worden gemaakt voor het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19):
+Subsidiabele kosten zijn uitsluitend de volgende kosten, voor zover deze kosten worden gemaakt voor het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04):
 
 - a. de loonkosten van een projectleider van de proeftuin;
 
@@ -104,11 +104,11 @@ Subsidiabele kosten zijn uitsluitend de volgende kosten, voor zover deze kosten 
 
 ##### Artikel 4. Subsidievoorwaarden met betrekking tot regionale verbanden
 
-Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag van voldoende onderbouwing dat in alle bij dat verband aangesloten gemeenten in 2024 aan de basis van de werkwijze Toekomstscenario is gewerkt en dat deze activiteiten en werkwijzen in 2025 in die gemeenten worden voortgezet. In ieder geval wordt schriftelijke informatie overlegd waaruit voldoende blijkt dat:
+Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag van voldoende onderbouwing dat in alle bij dat verband aangesloten gemeenten in 2024 respectievelijk 2025 aan de basis van de werkwijze Toekomstscenario is gewerkt en dat deze activiteiten en werkwijzen in 2025 respectievelijk 2026 in die gemeenten worden voortgezet. In ieder geval wordt schriftelijke informatie overlegd waaruit voldoende blijkt dat:
 
-- a. voor de voortzetting van de activiteiten en de werkwijze Toekomstscenario in 2025 bestuurlijk draagvlak bestaat onder en actieve betrokkenheid is door alle organisaties van het regionaal verband en dat zij actief deelnemen aan de proeftuin;
+- a. voor de voortzetting van de activiteiten en de werkwijze Toekomstscenario in 2025 respectievelijk 2026 bestuurlijk draagvlak bestaat onder en actieve betrokkenheid is door alle organisaties van het regionaal verband en dat zij actief deelnemen aan de proeftuin;
 
-- b. in alle aangesloten gemeenten sinds 2024 of eerder een doorontwikkeling van lokale teams is ingezet conform de landelijk vastgestelde vijf basisfuncties voor lokale teams en de leidraad over werken aan veiligheid voor lokale teams en gemeenten en dat deze doorontwikkeling wordt voortgezet in 2025;
+- b. in alle aangesloten gemeenten sinds 2024 respectievelijk 2025 of eerder een doorontwikkeling van lokale teams is ingezet conform de landelijk vastgestelde vijf basisfuncties voor lokale teams en de leidraad over werken aan veiligheid voor lokale teams en gemeenten en dat deze doorontwikkeling wordt voortgezet in 2025 respectievelijk 2026;
 
 - c. samenwerking plaatsvindt op domeinoverstijgende volwassenenproblematiek, waarbij lokale teams en veiligheidspartners afspraken hebben gemaakt over de inzet van expertise vanuit de volwassenen-ggz binnen gezinnen en huishoudens;
 
@@ -116,33 +116,33 @@ Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de p
 
 ##### Artikel 5. Subsidievoorwaarden met betrekking tot de proeftuin
 
-1. Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag voorts van voldoende onderbouwing dat dit verband in 2024 een proeftuin onderhoudt. De aanvraag wordt in ieder geval onderbouwd met schriftelijke informatie waaruit blijkt dat in 2024 in die proeftuin:
+1. Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag voorts van voldoende onderbouwing dat dit verband in 2024 respectievelijk 2025 een proeftuin onderhoudt. De aanvraag wordt in ieder geval onderbouwd met schriftelijke informatie waaruit blijkt dat in 2024 respectievelijk 2025 in die proeftuin:
 
-- a. is gewerkt met lokale teams die voldoen aan de vereisten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=6&z=2024-11-19&g=2024-11-19);
+- a. is gewerkt met lokale teams die voldoen aan de vereisten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=6&z=2025-11-04&g=2025-11-04);
 
-- b. ervaring is opgedaan met het regionaal veiligheidsteam, waarbij wordt voldaan aan de vereisten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=7&z=2024-11-19&g=2024-11-19);
+- b. ervaring is opgedaan met het regionaal veiligheidsteam, waarbij wordt voldaan aan de vereisten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=7&z=2025-11-04&g=2025-11-04);
 
-- c. ervaring is opgedaan door het regionaal veiligheidsteam met verschillende vormen van veiligheidsproblematiek binnen gezinnen en huishoudens blijkens de gegevens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=8&z=2024-11-19&g=2024-11-19);
+- c. ervaring is opgedaan door het regionaal veiligheidsteam met verschillende vormen van veiligheidsproblematiek binnen gezinnen en huishoudens blijkens de gegevens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=8&z=2025-11-04&g=2025-11-04);
 
 - d. voortgang is geboekt in het opbouwen van een netwerk van specialisten met kennis over specifieke uitingsvormen van geweld.
 
-2. De aanvraag gaat voorts vergezeld van een plan van aanpak voor de werkzaamheden van de proeftuin in 2025, waaruit in ieder geval blijkt:
+2. De aanvraag gaat voorts vergezeld van een plan van aanpak voor de werkzaamheden van de proeftuin in 2025 respectievelijk 2026, waaruit in ieder geval blijkt:
 
-- a. op welke wijze de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19) genoemde activiteiten en werkwijzen worden beproefd en doorontwikkeld in 2025;
+- a. op welke wijze de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04) genoemde activiteiten en werkwijzen worden beproefd en doorontwikkeld in 2025 respectievelijk 2026;
 
-- b. dat de ontwikkelde werkwijze in 2025 wordt beproefd in een afgebakend postcodegebied met minimaal 30.000 inwoners;
+- b. dat de ontwikkelde werkwijze in 2025 respectievelijk 2026 wordt beproefd in een afgebakend postcodegebied met minimaal 30.000 inwoners;
 
 - c. de gezinnen en huishoudens in het afgebakende postcodegebied bij ernstige onveiligheid en zonder voorafgaande casusselectie via het lokale team of via een melding worden doorgeleid naar het regionaal veiligheidsteam;
 
 - d. welke activiteiten worden ondernomen om samenhang, het overzicht en de eenvoud te bevorderen met voor de doelgroep relevante samenwerkingsverbanden;
 
-- e. welke activiteiten worden ondernomen rond de ontwikkeling van de meld- en crisisfunctie van het regionaal veiligheidsteam in samenhang met bestaande en in 2025 door te ontwikkelen afspraken met de politie, het openbaar ministerie, de reclassering, de geestelijke gezondheidszorg, de openbare geestelijke gezondheidszorg (bemoeizorg) en jeugdhulpspecialisten;
+- e. welke activiteiten worden ondernomen rond de ontwikkeling van de meld- en crisisfunctie van het regionaal veiligheidsteam in samenhang met bestaande en in 2025 respectievelijk 2026 door te ontwikkelen afspraken met de politie, het openbaar ministerie, de reclassering, de geestelijke gezondheidszorg, de openbare geestelijke gezondheidszorg (bemoeizorg) en jeugdhulpspecialisten;
 
 - f. op welke wijze en voor welke activiteiten de aangevraagde middelen worden ingezet.
 
 ##### Artikel 6. Vereisten met betrekking tot lokale teams
 
-De lokale teams, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2024-11-19&g=2024-11-19):
+De lokale teams, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04):
 
 - a. werken volgens de vijf basisfuncties voor lokale teams en de leidraad over werken aan veiligheid voor lokale wijkteams en gemeenten;
 
@@ -158,7 +158,7 @@ De lokale teams, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.over
 
 ##### Artikel 7. Vereisten met betrekking tot het regionaal veiligheidsteam
 
-In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2024-11-19&g=2024-11-19):
+In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04):
 
 - a. werken de professionals aan een gezamenlijke opdracht;
 
@@ -180,33 +180,33 @@ In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](ht
 
 - h. worden de professionals in ieder geval ondersteund door een gedragswetenschapper en voorts op afroep door een juridisch adviseur of een vertrouwensarts;
 
-- i. zijn voorbereidingen getroffen om vanaf 2025 de bouwstenen als beschreven in de eindrapportage ‘Onderzoek Inrichting Regionale Veiligheidsteams’ te beproeven binnen de huidige wettelijke kaders.
+- i. zijn voorbereidingen getroffen om vanaf 2025 respectievelijk 2026 de bouwstenen als beschreven in de eindrapportage ‘Onderzoek Inrichting Regionale Veiligheidsteams’ te beproeven binnen de huidige wettelijke kaders.
 
 ##### Artikel 8. Vereisten met betrekking tot de ervaringen met veiligheidsproblematiek
 
-1. De gegevens, bedoeld in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2024-11-19&g=2024-11-19), bevatten voldoende onderbouwing en tonen voldoende aan dat:
+1. De gegevens, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04), bevatten voldoende onderbouwing en tonen voldoende aan dat:
 
-- a. het team in 2024 bij minimaal dertig gezinnen of huishoudens actief betrokken is geweest;
+- a. het team in 2024 respectievelijk 2025 bij minimaal dertig gezinnen of huishoudens actief betrokken is geweest;
 
-- b. in het team in 2024 voor een aantal van deze gezinnen door daartoe bevoegde professionals juridische interventies zijn voorbereid of aangevraagd en uitgevoerd.
+- b. in het team in 2024 respectievelijk 2025 voor een aantal van deze gezinnen door daartoe bevoegde professionals juridische interventies zijn voorbereid of aangevraagd en uitgevoerd.
 
-2. De gegevens, bedoeld in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2024-11-19&g=2024-11-19), omvatten in ieder geval:
+2. De gegevens, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04), omvatten in ieder geval:
 
-- a. de beschikbare gegevens uit de monitor met betrekking tot het eerder in 2024 beproeven van de werkwijze Toekomstscenario; of
+- a. de beschikbare gegevens uit de monitor met betrekking tot het eerder in 2024 respectievelijk 2025 beproeven van de werkwijze Toekomstscenario; of
 
-- b. gegevens uit eigen rapportages met betrekking tot het eerder in 2024 beproeven van de werkwijze Toekomstscenario, indien geen monitorgegevens beschikbaar zijn.
+- b. gegevens uit eigen rapportages met betrekking tot het eerder in 2024 respectievelijk 2025 beproeven van de werkwijze Toekomstscenario, indien geen monitorgegevens beschikbaar zijn.
 
 ##### Artikel 9. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal ten hoogste € 5.000.000 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in de periode van 1 januari tot en met 31 december 2025 ten hoogste € 5.000.000 beschikbaar en is in de periode van 1 januari tot en met 31 december 2026 ten hoogste € 3.000.000 beschikbaar.
 
-2. De Minister verdeelt het beschikbare bedrag naar evenredigheid over het aantal toegewezen aanvragen, nadat op alle aanvragen is beslist.
+2. De Minister verdeelt het bedrag dat beschikbaar is in de periode van 1 januari tot en met 31 december 2025 naar evenredigheid over het aantal voor die periode toegewezen aanvragen, nadat op al die aanvragen is beslist. De Minister verdeelt het bedrag dat beschikbaar is in de periode van 1 januari tot en met 31 december 2026 naar evenredigheid over het aantal voor die periode toegewezen aanvragen en wijzigingsaanvragen, nadat op al die aanvragen is beslist.
 
-3. De Minister kan per aanvrager die in aanmerking komt voor subsidie één subsidie verstrekken van ten hoogste € 750.000.
+3. De Minister kan per aanvrager die in aanmerking komt voor subsidie één subsidie verstrekken van ten hoogste € 1.000.000, waarvan ten hoogste € 500.000 wordt verstrekt voor de periode van 1 januari tot en met 31 december 2025 en ten hoogste € 500.000 wordt verstrekt voor de periode van 1 januari tot en met 31 december 2026.
 
 ##### Artikel 10. Aanvraagtijdvak
 
-Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19) kan worden aangevraagd vanaf het moment van inwerkingtreding van deze regeling tot 1 december 2024.
+Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04) kan worden aangevraagd vanaf het moment van inwerkingtreding van deze regeling tot 8 december 2025.
 
 ##### Artikel 11. Aanvraag
 
@@ -216,15 +216,15 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Bij de aanvraag wordt in ieder geval bijgesloten:
 
-- a. een document waarin wordt onderbouwd dat is voldaan aan de subsidievoorwaarden en vereisten, bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=4&z=2024-11-19&g=2024-11-19);
+- a. een document waarin wordt onderbouwd dat is voldaan aan de subsidievoorwaarden en vereisten, bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=4&z=2025-11-04&g=2025-11-04);
 
-- b. een begroting waarin wordt vermeld voor welk deel van het subsidiebedrag, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=9&z=2024-11-19&g=2024-11-19), iedere deelnemende rechtspersoon de subsidie aanvraagt.
+- b. een begroting waarin wordt vermeld voor welk deel van het subsidiebedrag, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=9&z=2025-11-04&g=2025-11-04), iedere deelnemende rechtspersoon de subsidie aanvraagt.
 
 ##### Artikel 12. Verplichtingen
 
-1. De subsidiabele activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19), worden tussen 1 januari 2025 en 31 december 2025 uitgevoerd.
+1. De subsidiabele activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04), worden tussen 1 januari 2025 en 31 december 2026 uitgevoerd.
 
-2. De rechtspersonen die deelnemen aan het regionaal verband financieren gezamenlijk minimaal de helft van de subsidiabele kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=3&z=2024-11-19&g=2024-11-19).
+2. De rechtspersonen die deelnemen aan het regionaal verband financieren gezamenlijk minimaal de helft van de subsidiabele kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=3&z=2025-11-04&g=2025-11-04).
 
 3. De penvoerder levert aan de Minister de gegevens die nodig zijn voor het monitoren van de uitvoering van de gesubsidieerde activiteiten.
 
@@ -232,19 +232,19 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. Het verzoek tot vaststelling van de subsidie wordt door de penvoerder voorzien van:
 
-- a. een inhoudelijk eindverslag over de gehele periode over de uitvoering en het verloop van het project en de bereikte resultaten van de subsidiabele activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2024-11-19&g=2024-11-19);
+- a. een inhoudelijk eindverslag over de gehele periode over de uitvoering en het verloop van het project en de bereikte resultaten van de subsidiabele activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04);
 
 - b. een financieel verslag op basis van werkelijk gemaakte kosten, inclusief een door een externe accountant opgemaakte en goedkeurende accountantsverklaring.
 
-2. Het verzoek wordt uiterlijk 1 juli 2026 ingediend bij de Minister.
+2. Het verzoek wordt uiterlijk 1 juli 2027 ingediend bij de Minister.
 
 ##### Artikel 14. Hardheidsclausule
 
-1. De Minister kan de termijn, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=12&z=2024-11-19&g=2024-11-19), verlengen met maximaal drie maanden, indien de penvoerder of de betreffende subsidieontvanger een daartoe voldoende gemotiveerd verzoek ten minste vier weken voor het einde van die termijn indient.
+1. De Minister kan de termijn, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=12&z=2025-11-04&g=2025-11-04), verlengen met maximaal drie maanden, indien de penvoerder of de betreffende subsidieontvanger een daartoe voldoende gemotiveerd verzoek ten minste vier weken voor het einde van die termijn indient.
 
 2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van onvoorziene of andere bijzondere omstandigheden die hebben geleid tot vertraging in de uitvoering van de subsidiabele activiteiten en het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger, mits de verzoeker het voorgaande voldoende schriftelijk kan aantonen en onderbouwen.
 
-3. Indien het verzoek tot verlenging wordt ingewilligd, wordt de beschikking tot subsidieverlening zodanig gewijzigd dan wel aangevuld dat daarin de uiterste datum voor verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=13&z=2024-11-19&g=2024-11-19), met dezelfde duur wordt verlengd, als wordt toegestaan op grond van het eerste lid.
+3. Indien het verzoek tot verlenging wordt ingewilligd, wordt de beschikking tot subsidieverlening zodanig gewijzigd dan wel aangevuld dat daarin de uiterste datum voor verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=13&z=2025-11-04&g=2025-11-04), met dezelfde duur wordt verlengd, als wordt toegestaan op grond van het eerste lid.
 
 ##### Artikel 15. Inwerkingtreding en uitwerkingtreding
 
