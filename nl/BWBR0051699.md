@@ -4,7 +4,7 @@ identifier: "BWBR0051699"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-24"
-last_updated: "2025-10-29"
+last_updated: "2025-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051699"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Voor subsidieverlening van [artikel 1.2 van de Kaderregeling subsidies OCW, SZW 
 
 ##### Artikel 4
 
-1. Uit oogpunt van doelmatigheid zal slechts één van de ingezonden subsidieaanvragen voor subsidieverlening in aanmerking kunnen komen. Van alle aanvragen die voldoen aan de criteria, vermeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051699&artikel=1&z=2026-01-24&g=2025-10-29), genoemde beleidsregels, zal slechts de aanvraag die de hoogste score behaald op grond die criteria voor subsidie in aanmerking kunnen komen.
+1. Uit oogpunt van doelmatigheid zal slechts één van de ingezonden subsidieaanvragen voor subsidieverlening in aanmerking kunnen komen. Van alle aanvragen die voldoen aan de criteria, vermeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051699&artikel=1&z=2025-11-05&g=2025-11-05), genoemde beleidsregels, zal slechts de aanvraag die de hoogste score behaald op grond die criteria voor subsidie in aanmerking kunnen komen.
 
 ##### Artikel 5
 
