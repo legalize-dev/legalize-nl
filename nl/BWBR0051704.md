@@ -4,7 +4,7 @@ identifier: "BWBR0051704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-05"
-last_updated: "2025-02-11"
+last_updated: "2025-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051704"
 soort: "ministeriele-regeling"
@@ -74,15 +74,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-- 1). Tot leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk worden aangewezen de in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-02-11) bij dit besluit genoemde functionarissen, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom 2 van die bijlage.
+- 1). Tot leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk worden aangewezen de in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-11-05) bij dit besluit genoemde functionarissen, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom 2 van die bijlage.
 
-- 2). Aan de functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-02-11) wordt voorts mandaat verleend om besluiten te nemen die bij of krachtens de [Wrra](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) aan de minister zijn toegekend, een en ander zoals vermeld in kolom 3 van die bijlage.
+- 2). Aan de functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-11-05) wordt voorts mandaat verleend om besluiten te nemen die bij of krachtens de [Wrra](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) aan de minister zijn toegekend, een en ander zoals vermeld in kolom 3 van die bijlage.
 
 ##### Artikel 4
 
-- 1). Het mandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 1 van tabel 1 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-02-11) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van tabel 1 in die bijlage.
+- 1). Het mandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 1 van tabel 1 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van tabel 1 in die bijlage.
 
-- 2). Het ondermandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven in geval van afwezigheid van de in lid 1 van dit artikel genoemde aangewezen ambtenaren. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 2 van tabel 2 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-02-11) bij deze regeling voor zover het betreft de OM-onderdelen, genoemd in kolom 1 van tabel 2 in die bijlage.
+- 2). Het ondermandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven in geval van afwezigheid van de in lid 1 van dit artikel genoemde aangewezen ambtenaren. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 2 van tabel 2 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling voor zover het betreft de OM-onderdelen, genoemd in kolom 1 van tabel 2 in die bijlage.
 
 ##### Artikel 5
 
@@ -140,13 +140,13 @@ Dit besluit wordt aangehaald als: Mandaatbesluit College van procureurs-generaal
 
 ## Bijlage 1
 
-Behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=3&z=2025-11-05&g=2025-02-11) van het **Mandaatbesluit College van procureurs-generaal, beheer OM 2025**
+Behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=3&z=2025-11-05&g=2025-11-05) van het **Mandaatbesluit College van procureurs-generaal, beheer OM 2025**
 
-De functionarissen (genoemd in kolom 1) bij wie in **kolom 2** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-02-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend. Onder ‘Topmanager’ valt de (plv.) directeur en de directeur bedrijfsvoering.
+De functionarissen (genoemd in kolom 1) bij wie in **kolom 2** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-11-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend. Onder ‘Topmanager’ valt de (plv.) directeur en de directeur bedrijfsvoering.
 
-De functionarissen bij wie in **kolom 3** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-02-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de [Wrra](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) of de [Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530) aan de functionele autoriteit of aan de minister zijn toegekend. De functionarissen met de aanduiding **A*** zijn de (wettelijke) vervanger van het hoofd van het parket in geval van afwezigheid, belet of ontstentenis van het hoofd van het parket.
+De functionarissen bij wie in **kolom 3** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-11-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de [Wrra](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) of de [Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530) aan de functionele autoriteit of aan de minister zijn toegekend. De functionarissen met de aanduiding **A*** zijn de (wettelijke) vervanger van het hoofd van het parket in geval van afwezigheid, belet of ontstentenis van het hoofd van het parket.
 
-De functionarissen aan wie in de p-portal (P-Direkt) de rol van manager/leidinggevende is toegekend, zijn onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-02-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die aan de leidinggevende met een A-bevoegdheid zijn toegekend, met uitzondering van de bevoegdheden tot:
+De functionarissen aan wie in de p-portal (P-Direkt) de rol van manager/leidinggevende is toegekend, zijn onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&artikel=5&z=2025-11-05&g=2025-11-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die aan de leidinggevende met een A-bevoegdheid zijn toegekend, met uitzondering van de bevoegdheden tot:
 
 - a). het aangaan van een arbeidsovereenkomst;
 
