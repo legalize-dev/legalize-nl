@@ -4,7 +4,7 @@ identifier: "BWBR0051717"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-05"
-last_updated: "2025-02-11"
+last_updated: "2025-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051717"
 soort: "ministeriele-regeling"
@@ -64,15 +64,15 @@ In dit besluit wordt verstaan onder:
 
 - 1). Aan de algemeen directeur van de rijksrecherche wordt mandaat verleend om ten aanzien van medewerkers van de rijksrecherche op te treden als bevoegd gezag. De bepalingen van paragraaf 2 van het [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) (melden van een vermoeden van een misstand) zijn van dit (onder)mandaat uitgesloten.
 
-- 2). De in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=1&z=2025-11-05&g=2025-02-11) bij dit besluit genoemde functionarissen zijn bevoegd om de beslissingen te nemen die zijn genoemd in kolom 2 van die bijlage.
+- 2). De in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=1&z=2025-11-05&g=2025-11-05) bij dit besluit genoemde functionarissen zijn bevoegd om de beslissingen te nemen die zijn genoemd in kolom 2 van die bijlage.
 
 - 3). Aan de directeur van de rijksrecherche wordt ondermandaat verleend ten aanzien van het ten overstaan afleggen van eden dan wel verklaringen of beloften als bedoeld in [artikel 9 lid van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=9).
 
 ##### Artikel 4
 
-- 1). Het mandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 1 van tabel 1 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=2&z=2025-11-05&g=2025-02-11) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van tabel 1 in die bijlage.
+- 1). Het mandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 1 van tabel 1 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van tabel 1 in die bijlage.
 
-- 2). Het ondermandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven in geval van afwezigheid van de in lid 1 van dit artikel genoemde aangewezen ambtenaren. Hiervoor worden aangewezen de ambtenaren, genoemd tabel 2 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=2&z=2025-11-05&g=2025-02-11) bij deze regeling.
+- 2). Het ondermandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven in geval van afwezigheid van de in lid 1 van dit artikel genoemde aangewezen ambtenaren. Hiervoor worden aangewezen de ambtenaren, genoemd tabel 2 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling.
 
 ##### Artikel 5
 
@@ -116,9 +116,9 @@ Dit besluit wordt aangehaald als: Mandaatbesluit College van procureurs-generaal
 
 ## Bijlage 1
 
-Behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&artikel=3&z=2025-11-05&g=2025-02-11) van het **Mandaatbesluit College van procureurs-generaal, beheer rijksrecherche 2025**
+Behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&artikel=3&z=2025-11-05&g=2025-11-05) van het **Mandaatbesluit College van procureurs-generaal, beheer rijksrecherche 2025**
 
-De functionarissen (genoemd in kolom 1) bij wie in **kolom 2** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&artikel=5&z=2025-11-05&g=2025-02-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de [Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) aan het bevoegd gezag of de Minister zijn toegekend.
+De functionarissen (genoemd in kolom 1) bij wie in **kolom 2** de letter **A** is geplaatst zijn, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051717&artikel=5&z=2025-11-05&g=2025-11-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de [Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) aan het bevoegd gezag of de Minister zijn toegekend.
 
 De functionarissen met de aanduiding **A*** zijn de vervanger van de functionaris met de A-bevoegdheid in geval van afwezigheid, belet of ontstentenis.
 
