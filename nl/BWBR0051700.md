@@ -4,7 +4,7 @@ identifier: "BWBR0051700"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-06"
-last_updated: "2025-10-30"
+last_updated: "2025-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051700"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-De terugwerkende kracht betreft herplaatsing van de regeling.
-
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
@@ -74,21 +72,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvraag
 
-1. De minister stelt het recht op de verstrekkingen, bedoeld in [artikel |2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), op aanvraag vast.
+1. De minister stelt het recht op de verstrekkingen, bedoeld in [artikel |2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), op aanvraag vast.
 
-2. Het recht op de verzekering, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), wordt door de minister ambtshalve vastgesteld op basis van de gegevens die de medisch geëvacueerde en diens begeleider in het kader van de registratie als evacué hebben verstrekt.
+2. Het recht op de verzekering, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), wordt door de minister ambtshalve vastgesteld op basis van de gegevens die de medisch geëvacueerde en diens begeleider in het kader van de registratie als evacué hebben verstrekt.
 
 3. Een aanvraag wordt bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier.
 
 ##### Artikel 4. Onthouden verstrekkingen
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30) bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een medisch geëvacueerde en diens begeleider worden onthouden, indien zij niet desgevraagd de gegevens verstrekken die nodig zijn voor het vaststellen van het recht op verstrekkingen. Daartoe behoren in ieder geval gegevens die noodzakelijk zijn voor het vaststellen van de naam, de geboortedatum, de nationaliteit, het land van herkomst, en de aanwezige verzekering voor wettelijke aansprakelijkheid.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een medisch geëvacueerde en diens begeleider worden onthouden, indien zij niet desgevraagd de gegevens verstrekken die nodig zijn voor het vaststellen van het recht op verstrekkingen. Daartoe behoren in ieder geval gegevens die noodzakelijk zijn voor het vaststellen van de naam, de geboortedatum, de nationaliteit, het land van herkomst, en de aanwezige verzekering voor wettelijke aansprakelijkheid.
 
-2. De minister kan een verstrekking als bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), geheel of gedeeltelijk weigeren, indien blijkt dat de medisch geëvacueerde en begeleider hier te lande redelijkerwijs over voldoende middelen kunnen beschikken om geheel of gedeeltelijk in de kosten van die verstrekking te voorzien.
+2. De minister kan een verstrekking als bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), geheel of gedeeltelijk weigeren, indien blijkt dat de medisch geëvacueerde en begeleider hier te lande redelijkerwijs over voldoende middelen kunnen beschikken om geheel of gedeeltelijk in de kosten van die verstrekking te voorzien.
 
 ##### Artikel 5. Beëindiging verstrekkingen
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30) bedoelde verstrekkingen eindigen in ieder geval met ingang van de dag waarop de begunstigde:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen eindigen in ieder geval met ingang van de dag waarop de begunstigde:
 
 - a. Nederland verlaat;
 
@@ -96,21 +94,21 @@ In deze regeling wordt verstaan onder:
 
 - c. niet langer beschikt over een geldig visum, verleend ten behoeve van de medische behandeling.
 
-2. De minister kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30) bedoelde verstrekkingen beëindigen indien, naar diens oordeel, blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen waardoor hij ten onrechte, of tot een te hoog bedrag, verstrekkingen heeft verkregen.
+2. De minister kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen beëindigen indien, naar diens oordeel, blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen waardoor hij ten onrechte, of tot een te hoog bedrag, verstrekkingen heeft verkregen.
 
 ##### Artikel 6. Hoogte en betaling eenmalige en wekelijkse verstrekkingen
 
-1. De hoogte van de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), bedoelde eenmalige tegemoetkoming voor de aanloopkosten bedraagt: € 70 per persoon.
+1. De hoogte van de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), bedoelde eenmalige tegemoetkoming voor de aanloopkosten bedraagt: € 70 per persoon.
 
-2. De hoogte van de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), bedoelde wekelijkse toelage bedraagt:
+2. De hoogte van de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), bedoelde wekelijkse toelage bedraagt:
 
 - a. bij een medisch geëvacueerde met één begeleider: voor een minderjarige € 60 en voor een meerderjarige € 70;
 
 - b. bij een medisch geëvacueerde met twee begeleiders: voor een minderjarige € 50 en voor een meerderjarige € 60.
 
-3. De verstrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), worden op een door de minister te bepalen tijdstip en wijze aan de medisch geëvacueerde en diens begeleider beschikbaar gesteld.
+3. De verstrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), worden op een door de minister te bepalen tijdstip en wijze aan de medisch geëvacueerde en diens begeleider beschikbaar gesteld.
 
-4. De verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), worden uitbetaald aan de meerderjarige begeleider.
+4. De verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), worden uitbetaald aan de meerderjarige begeleider.
 
 ##### Artikel 7. Buitengewone kosten
 
@@ -122,13 +120,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Verzekeringen
 
-1. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), houdt in het door de minister ten behoeve van de medisch geëvacueerde en diens begeleider afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de medisch geëvacueerde en diens begeleider jegens een derde voor een som van maximaal € 1.000.000 per gebeurtenis, alsmede het door de minister betalen van de daarvoor verschuldigde kosten.
+1. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), houdt in het door de minister ten behoeve van de medisch geëvacueerde en diens begeleider afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de medisch geëvacueerde en diens begeleider jegens een derde voor een som van maximaal € 1.000.000 per gebeurtenis, alsmede het door de minister betalen van de daarvoor verschuldigde kosten.
 
 2. Ten behoeve van de in het eerste lid bedoelde verzekering is een mantelovereenkomst afgesloten.
 
 ##### Artikel 9. Terugvordering
 
-Indien blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor zij of anderen ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-10-30), hebben verkregen, of dit op andere wijze hebben bewerkstelligd, is de minister bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
+Indien blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor zij of anderen ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), hebben verkregen, of dit op andere wijze hebben bewerkstelligd, is de minister bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
 
 ##### Artikel 10. Mandaat
 
@@ -136,17 +134,17 @@ Indien blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de
 
 - a. mandaat tot het nemen van:
 
-- 1°. besluiten in de zin van de Algemene wet bestuursrecht ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-10-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-10-30), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-10-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-10-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-10-30);
+- 1°. besluiten in de zin van de Algemene wet bestuursrecht ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-11-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-11-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-11-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-11-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-11-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-11-06);
 
 - 2°. beschikkingen op bezwaarschriften, en
 
 - b. volmacht en machtiging voor:
 
-- 1°. het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze gericht zijn tegen of verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-10-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-10-30), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-10-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-10-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-10-30);
+- 1°. het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze gericht zijn tegen of verband houden met de uitoefening van de bevoegdheden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-11-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-11-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-11-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-11-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-11-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-11-06);
 
-- 2°. het verrichten van andere rechtshandelingen en feitelijke handelingen met betrekking tot besluiten als bedoeld in artikelen [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-10-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-10-30), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-10-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-10-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-10-30).
+- 2°. het verrichten van andere rechtshandelingen en feitelijke handelingen met betrekking tot besluiten als bedoeld in artikelen [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-11-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-11-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-11-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-11-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-11-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-11-06).
 
-2. De Raad van bestuur van de SVB is bevoegd voor de in de artikelen [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-10-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-10-30), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-10-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-10-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-10-30) bedoelde aangelegenheden ondermandaat, volmacht en machtiging te verlenen aan de onder hem ressorterende functionarissen.
+2. De Raad van bestuur van de SVB is bevoegd voor de in de artikelen [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=3&z=2025-11-06&g=2025-11-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=4&z=2025-11-06&g=2025-11-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=5&z=2025-11-06&g=2025-11-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=7&z=2025-11-06&g=2025-11-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=8&z=2025-11-06&g=2025-11-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-11-06) bedoelde aangelegenheden ondermandaat, volmacht en machtiging te verlenen aan de onder hem ressorterende functionarissen.
 
 3. Het krachtens mandaat en ondermandaat ondertekenen van besluiten en beschikkingen op bezwaarschriften geschiedt als volgt:
 
@@ -164,7 +162,7 @@ namens deze,
 
 1. De lasten van deze regeling voor de SVB worden gefinancierd door een rijksbijdrage aan de SVB.
 
-2. Op de lasten van deze regeling voor de SVB komt in mindering de waarde van de ten onrechte toegekende verstrekkingen, die wordt teruggevorderd op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-10-30).
+2. Op de lasten van deze regeling voor de SVB komt in mindering de waarde van de ten onrechte toegekende verstrekkingen, die wordt teruggevorderd op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=9&z=2025-11-06&g=2025-11-06).
 
 3. [Artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) en [artikel 120, derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=120) zijn van overeenkomstige toepassing.
 
