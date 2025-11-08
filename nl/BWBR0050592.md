@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-11-05"
+last_updated: "2025-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -122,11 +122,11 @@ Besluiten:
 | [Titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.2): Topsector energieprojecten | [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.9) | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | Onderdeel A. Elektriciteit | 01-04-2025 t/m 06-05-2025 | € 5.000.000 |
 |   |   |   | Onderdeel B. Gebouwde Omgeving | Onderdeel B. Gebouwde Omgeving | 01-04-2025 t/m 06-05-2025 | € 5.000.000 |
 |   |   |   | Onderdeel C. Industrie | Onderdeel C. Industrie | 01-04-2025 t/m 13-05-2025 | € 3.000.000 |
-|   |   |   | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | 06-05-2025 t/m 21-08-2025 | € 2.500.000 |
+|   |   |   | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | 06-05-2025 t/m 21-08-2025 | € 2.978.900 |
 |   |   |   | Onderdeel D. Circulaire Economie, 2. Circulaire Plastics | Onderdeel D. Circulaire Economie, 2. Circulaire Plastics | 06-05-2025 t/m 21-08-2025 | € 4.000.000 |
 |   |   |   | Onderdeel D. Circulaire Economie, 3. Biobased Circular | Onderdeel D. Circulaire Economie, 3. Biobased Circular | 01-04-2025 t/m 13-05-2025 | € 5.535.441 |
 |   | [4.2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.44) | Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI) | 1. MOOI-missie Elektriciteit: Innovatiethema 4 | 1. MOOI-missie Elektriciteit: Innovatiethema 4 | 05-01-2026 t/m 12-02-2026 | € 10.000.000 |
-|   |   |   | 4. MOOI-missie Systeemintegratie | 4. MOOI-missie Systeemintegratie | 03-06-2025 t/m 04-09-2025 | € 16.500.000 |
+|   |   |   | 4. MOOI-missie Systeemintegratie | 4. MOOI-missie Systeemintegratie | 03-06-2025 t/m 04-09-2025 | € 21.500.000 |
 |   | [4.2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.65) | Demonstratie energie- en klimaatinnovatie (DEI+) | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3. Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen 2.9 Waterstof en groene chemie | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3. Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen 2.9 Waterstof en groene chemie | 28-01-2025 t/m 28-08-2025 | € 175.000.000 |
 |   |   |   | 2.5 Circulaire economie | 2.5 Circulaire economie | 28-01-2025 t/m 28-08-2025 | € 80.000.000 |
 |   |   |   | 2.7 Aardgasloze gebouwde omgeving | 2.7 Aardgasloze gebouwde omgeving | 28-01-2025 t/m 28-08-2025 | € 6.000.000 |
