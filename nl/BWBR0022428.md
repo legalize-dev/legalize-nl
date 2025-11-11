@@ -4,7 +4,7 @@ identifier: "BWBR0022428"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-11"
-last_updated: "2018-07-28"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022428"
 soort: "wet"
@@ -65,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. ieder ander dan een overheidsorgaan of degene aan wie het burgerservicenummer is toegekend, voor zover deze werkzaamheden verricht waarbij het gebruik door hem of haar van het burgerservicenummer bij of krachtens de wet is voorgeschreven;
 
-- e. beheervoorziening: de beheervoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28);
+- e. beheervoorziening: de beheervoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11);
 
 - f. nummerregister: het nummerregister dat deel uitmaakt van de beheervoorziening.
 
@@ -103,7 +103,7 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 1. Het nummerregister bevat:
 
-- a. de aangemaakte nummers, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28), en
+- a. de aangemaakte nummers, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11), en
 
 - b. de bij algemene maatregel van bestuur te bepalen administratieve gegevens, die op deze nummers betrekking hebben.
 
@@ -111,7 +111,7 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 ##### Artikel 5
 
-1. Een college van burgemeester en wethouders verschaft Onze Minister onverwijld de inlichtingen omtrent de toekenning, die voor de bijhouding van het nummerregister van belang zijn.
+1. Een college van burgemeester en wethouders of een bestuurscollege verschaft Onze Minister onverwijld de inlichtingen omtrent de toekenning, die voor de bijhouding van het nummerregister van belang zijn.
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de in het eerste lid bedoelde inlichtingen.
 
@@ -129,13 +129,15 @@ Onze Minister draagt er zorg voor dat een nummer dat als burgerservicenummer kan
 
 1. Het college van burgemeester en wethouders, onderscheidenlijk Onze Minister, kent onmiddellijk na de inschrijving van een persoon als ingezetene, onderscheidenlijk niet-ingezetene, in de basisregistratie personen, aan de ingeschrevene een burgerservicenummer toe, tenzij aan hem reeds een burgerservicenummer is toegekend.
 
-2. Het burgerservicenummer wordt toegekend uit de nummers die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-07-28) ter beschikking zijn gesteld.
+2. Het bestuurscollege kent onmiddellijk na een inschrijving in de basisadministratie als bedoeld in [artikel 5 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=5), aan de ingeschrevene een burgerservicenummer toe, tenzij aan hem reeds een burgerservicenummer is toegekend.
 
-3. Een burgerservicenummer wordt foutloos en slechts éénmaal toegekend.
+3. Het burgerservicenummer wordt toegekend uit de nummers die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=7&z=2025-11-11&g=2025-11-11) ter beschikking zijn gesteld.
 
-4. In verband met de uitvoering van dit artikel maakt het bestuursorgaan dat het burgerservicenummer toekent, gebruik van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28).
+4. Een burgerservicenummer wordt foutloos en slechts éénmaal toegekend.
 
-5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de uitvoering van dit artikel, waaronder regels betreffende de verplichtingen van overheidsorganen om gegevens te verstrekken die voor de uitvoering noodzakelijk zijn. De maatregel bepaalt in ieder geval welke gegevens in verband met de uitvoering van dit artikel worden verstrekt aan het bestuursorgaan dat het burgerservicenummer toekent.
+5. In verband met de uitvoering van dit artikel maakt het bestuursorgaan dat het burgerservicenummer toekent, gebruik van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11).
+
+6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de uitvoering van dit artikel, waaronder regels betreffende de verplichtingen van overheidsorganen om gegevens te verstrekken die voor de uitvoering noodzakelijk zijn. De maatregel bepaalt in ieder geval welke gegevens in verband met de uitvoering van dit artikel worden verstrekt aan het bestuursorgaan dat het burgerservicenummer toekent.
 
 ##### Artikel 9
 
@@ -179,7 +181,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 ##### Artikel 15
 
-1. Aan een overheidsorgaan worden in verband met de uitvoering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=12&z=2018-07-28&g=2018-07-28) op zijn verzoek uit de registraties, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28), de gegevens verstrekt, die hij nodig heeft teneinde na te gaan:
+1. Aan een overheidsorgaan worden in verband met de uitvoering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=12&z=2025-11-11&g=2025-11-11) op zijn verzoek uit de registraties, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11), de gegevens verstrekt, die hij nodig heeft teneinde na te gaan:
 
 - a. of aan een bepaalde persoon reeds een burgerservicenummer is toegekend en zo ja, welk burgerservicenummer;
 
@@ -189,7 +191,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 2. Met betrekking tot een gebruiker, niet zijnde een overheidsorgaan, is het eerste lid, aanhef en onder c, van overeenkomstige toepassing.
 
-3. Bij of krachtens de wet kunnen gevallen worden geregeld, waarin een gebruiker, niet zijnde een overheidsorgaan, in verband met de uitvoering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=12&z=2018-07-28&g=2018-07-28) bevoegd dan wel gehouden is een registratie als bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28), te raadplegen teneinde na te gaan:
+3. Bij of krachtens de wet kunnen gevallen worden geregeld, waarin een gebruiker, niet zijnde een overheidsorgaan, in verband met de uitvoering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=12&z=2025-11-11&g=2025-11-11) bevoegd dan wel gehouden is een registratie als bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11), te raadplegen teneinde na te gaan:
 
 - a. of aan een bepaalde persoon reeds een burgerservicenummer is toegekend en zo ja, welk burgerservicenummer;
 
@@ -203,7 +205,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 - a. het nummerregister;
 
-- b. de voorzieningen, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28).
+- b. de voorzieningen, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11).
 
 2. Bij of krachtens de maatregel, bedoeld in het eerste lid, worden regels gesteld omtrent de verplichtingen van overheidsorganen om gegevens te verstrekken die voor de uitvoering van deze paragraaf noodzakelijk zijn. De maatregel bepaalt in ieder geval welke gegevens in verband met de uitvoering van deze paragraaf aan een gebruiker worden verstrekt.
 
@@ -213,15 +215,15 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 ##### Artikel 17
 
-1. Bij algemene maatregel van bestuur, op voordracht van Onze Minister die het aangaat, kan worden bepaald dat bij of krachtens de maatregel aangewezen gebruikers of categorieën van gebruikers uitsluitend door tussenkomst van een bij de algemene maatregel van bestuur ingestelde sectorale berichtenvoorziening gebruik kunnen maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28). De maatregel bepaalt wie met betrekking tot de sectorale berichtenvoorziening de verantwoordelijke is.
+1. Bij algemene maatregel van bestuur, op voordracht van Onze Minister die het aangaat, kan worden bepaald dat bij of krachtens de maatregel aangewezen gebruikers of categorieën van gebruikers uitsluitend door tussenkomst van een bij de algemene maatregel van bestuur ingestelde sectorale berichtenvoorziening gebruik kunnen maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11). De maatregel bepaalt wie met betrekking tot de sectorale berichtenvoorziening de verantwoordelijke is.
 
-2. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, kan tevens worden bepaald dat voor bij of krachtens de maatregel aangewezen gebruikers of categorieën van gebruikers een bevoegdheid of een verplichting geldt als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2018-07-28&g=2018-07-28).
+2. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, kan tevens worden bepaald dat voor bij of krachtens de maatregel aangewezen gebruikers of categorieën van gebruikers een bevoegdheid of een verplichting geldt als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2025-11-11&g=2025-11-11).
 
-3. De verantwoordelijke, bedoeld in het eerste lid, tweede volzin, levert de inlichtingen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=14&z=2018-07-28&g=2018-07-28), alsmede de gegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2018-07-28&g=2018-07-28), door aan de gebruiker die door tussenkomst van de sectorale berichtenvoorziening de inlichtingen, onderscheidenlijk de gegevens, verzocht.
+3. De verantwoordelijke, bedoeld in het eerste lid, tweede volzin, levert de inlichtingen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=14&z=2025-11-11&g=2025-11-11), alsmede de gegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2025-11-11&g=2025-11-11), door aan de gebruiker die door tussenkomst van de sectorale berichtenvoorziening de inlichtingen, onderscheidenlijk de gegevens, verzocht.
 
-4. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=14&z=2018-07-28&g=2018-07-28) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing op de verantwoordelijke, bedoeld in het eerste lid, tweede volzin.
+4. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=14&z=2025-11-11&g=2025-11-11) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=2&artikel=15&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing op de verantwoordelijke, bedoeld in het eerste lid, tweede volzin.
 
-5. De verantwoordelijke, bedoeld in het eerste lid, tweede volzin, gaat na of degene die door tussenkomst van de sectorale berichtenvoorziening toegang tot een voorziening als bedoeld in [artikel 3, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-07-28&g=2018-07-28), verlangt een krachtens het eerste lid aangewezen gebruiker is dan wel behoort tot een daartoe krachtens het eerste lid aangewezen categorie van gebruikers.
+5. De verantwoordelijke, bedoeld in het eerste lid, tweede volzin, gaat na of degene die door tussenkomst van de sectorale berichtenvoorziening toegang tot een voorziening als bedoeld in [artikel 3, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11), verlangt een krachtens het eerste lid aangewezen gebruiker is dan wel behoort tot een daartoe krachtens het eerste lid aangewezen categorie van gebruikers.
 
 6. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, worden nadere regels gesteld met betrekking tot de inrichting, de instandhouding, de werking en de beveiliging van de sectorale berichtenvoorziening.
 
@@ -253,7 +255,7 @@ Vervallen
 
 2. De bestuursorganen die burgerservicenummers toekennen, verschaffen Onze Minister desgevraagd de inlichtingen betreffende de toekenning van burgerservicenummers.
 
-3. Onze Minister die het aangaat verricht eens per drie jaar een onderzoek naar de inrichting, de werking en de beveiliging van een sectorale berichtenvoorziening als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=3&artikel=17&z=2018-07-28&g=2018-07-28), die onder zijn verantwoordelijkheid valt.
+3. Onze Minister die het aangaat verricht eens per drie jaar een onderzoek naar de inrichting, de werking en de beveiliging van een sectorale berichtenvoorziening als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=3&artikel=17&z=2025-11-11&g=2025-11-11), die onder zijn verantwoordelijkheid valt.
 
 4. Bij of krachtens algemene maatregel van bestuur, op voordracht van Onze Minister, onderscheidenlijk Onze Minister die het aangaat in overeenstemming met Onze Minister, worden nadere regels gesteld met betrekking tot de beoordelingscriteria en de wijze van uitvoering van de onderzoeken, bedoeld in het eerste, onderscheidenlijk het derde lid.
 
@@ -261,11 +263,13 @@ Vervallen
 
 ##### Artikel 22
 
-Vervallen
+1. Het bestuurscollege kent onmiddellijk een burgerservicenummer toe aan een persoon die op het moment van inwerkingtreding van [artikel I, onderdeel C, van de Wet invoering BSN en voorzieningen digitale overheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051725&artikel=I) reeds in de basisadministratie is ingeschreven op grond van [artikel 5 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=5), tenzij aan hem reeds een burgerservicenummer is toegekend.
+
+2. [Artikel 8, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
-Vervallen
+Na de inwerkingtreding van [artikel I, onderdeel C, van de Wet invoering BSN en voorzieningen digitale overheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051725&artikel=I) berust het [Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829) mede op de [artikelen 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=6&artikel=22&z=2025-11-11&g=2025-11-11), van deze wet.
 
 ##### Artikel 24
 
@@ -278,5 +282,33 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 26
 
 Deze wet wordt aangehaald als: Wet algemene bepalingen burgerservicenummer.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. In afwijking van het eerste lid is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-11-11&g=2025-11-11) eerst van toepassing met ingang van een bij Koninklijk Besluit te bepalen tijdstip.
+
+### Hoofdstuk 2. Nummerbeheer
+
+#### Paragraaf 1. De beheervoorziening
+
+#### Paragraaf 2. Het nummerregister
+
+### Hoofdstuk 3. Aanmaken en toekennen van burgerservicenummers
+
+### Hoofdstuk 4. Algemene bepalingen betreffende het gebruik van het burgerservicenummer en de beheervoorziening
+
+#### Paragraaf 1. Het gebruik van het burgerservicenummer
+
+#### Paragraaf 2. Het verstrekken van inlichtingen aan gebruikers
+
+#### Paragraaf 3. Sectorale berichtenvoorzieningen
+
+### Hoofdstuk 5. Bescherming van persoonsgegevens, toezicht en controle
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
