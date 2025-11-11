@@ -4,7 +4,7 @@ identifier: "BWBR0037457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2025-04-05"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037457"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Het MT van S&I wordt gevormd door de directeur, de portefeuillehouders en de dir
 
 ##### Artikel 3
 
-1. Het MT is, namens de Staatssecretaris van Justitie en Veiligheid, verantwoordelijk voor de volgende taken op het terrein van inburgering:
+Het MT is verantwoordelijk voor de volgende taken:
 
 - a. de uitvoering en beleidsmatige doorontwikkeling van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), de afbouw van de oude stelsels onder de [Wet inburgering 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) en de Wet inburgering 2013 en de uitvoering van het opdrachtgeverschap van de Dienst Uitvoering Onderwijs (DUO), het Centraal Orgaan opvang Asielzoekers (COA), de Immigratie- en Naturalisatiedienst (IND), het Centraal Bureau voor de Statistiek en het College voor Toetsen en Examens (CvTE);
 
@@ -68,27 +68,25 @@ Het MT van S&I wordt gevormd door de directeur, de portefeuillehouders en de dir
 
 - d. de informatievoorziening over inburgering tussen ketenpartners, zowel voor kaderstelling bij de doorontwikkeling als voor het beheer van onder andere ketenprocessen en informatiemodel;
 
-- e. het zorgdragen voor beleid en regelgeving ten aanzien van de inzet van het Asiel- en Migratiefonds in Nederland, dat in lijn is met het integratiebeleid.
+- e. het zorgdragen voor beleid en regelgeving ten aanzien van de inzet van het Asiel- en Migratiefonds in Nederland, dat in lijn is met het integratiebeleid;
 
-2. Het MT is verder verantwoordelijk voor de volgende taken:
+- f. de beleidsontwikkeling en -uitvoering van activiteiten gericht op het bevorderen van samenleven in verscheidenheid in de Nederlandse samenleving, de preventie van discriminatie en racisme en het stimuleren van maatregelen rondom het uitoefenen van het recht op zelfbeschikking door personen uit gesloten gemeenschappen;
 
-- a. beleidsontwikkeling en -uitvoering van activiteiten gericht op het bevorderen van samenleven in verscheidenheid in de Nederlandse samenleving, de preventie van discriminatie en racisme en het stimuleren van maatregelen rondom het uitoefenen van het recht op zelfbeschikking door personen uit gesloten gemeenschappen;
+- g. het komen tot gelijkwaardige kansen op de Nederlandse arbeidsmarkt voor mensen met een migratie achtergrond, op weg naar gelijke posities, primair door de opschaling van effectieve aanpakken uit het programma en in de Werkagenda Verdere Integratie op de Arbeidsmarkt;
 
-- b. het komen tot gelijkwaardige kansen op de Nederlandse arbeidsmarkt voor mensen met een migratie achtergrond, op weg naar gelijke posities, primair door de opschaling van effectieve aanpakken uit het programma en in de Werkagenda Verdere Integratie op de Arbeidsmarkt;
+- h. het voeren van het secretariaat van de Ministeriële Commissie Migratie en Samenleving (MCMS) inclusief ambtelijke portalen als Ambtelijke Commissie Migratie en Samenleving (ACMS) (op directeur-generaalniveau) en Interdepartementale Commissie Migratie en Samenleving (IDMS) (op directeurenniveau);
 
-- c. het voeren van het secretariaat van de Ministeriële Commissie Migratie en Samenleving (MCMS) inclusief ambtelijke portalen als Ambtelijke Commissie Migratie en Samenleving (ACMS) (op directeur-generaalniveau) en Interdepartementale Commissie Migratie en Samenleving (IDMS) (op directeurenniveau);
+- i. het vorm en richting geven aan de kennisfunctie op het terrein van integratie en inburgering onder andere middels het Kennisplatform Samenleven en Inclusief Samenleven (KIS) en uitvoering van de bijbehorende onderzoeksprogrammering bij onder andere het CBS, het Sociaal en Cultureel Planbureau, het Centraal Planbureau en het Wetenschappelijk Onderzoek- en Datacentrum;
 
-- d. het vorm en richting geven aan de kennisfunctie op het terrein van integratie en inburgering onder andere middels het Kennisplatform Samenleven en Inclusief Samenleven (KIS) en uitvoering van de bijbehorende onderzoeksprogrammering bij onder andere het CBS, het Sociaal en Cultureel Planbureau, het Centraal Planbureau en het Wetenschappelijk Onderzoek- en Datacentrum;
+- j. de beleidsontwikkeling en – uitvoering inzake weerbaarheid en veerkracht voor doelgroepen die vatbaar zijn voor onder andere radicalisering, ongewenste polarisatie en ongewenste buitenlandse inmenging en vormgeven aan informele scholing en een imamopleiding;
 
-- e. de beleidsontwikkeling en -uitvoering inzake weerbaarheid en veerkracht voor doelgroepen die vatbaar zijn voor onder andere radicalisering, ongewenste polarisatie en ongewenste buitenlandse inmenging en vormgeven aan informele scholing en een imamopleiding;
+- k. het tegengaan van maatschappelijke spanningen, polarisatie en radicalisering waaronder problematisch gedrag;
 
-- f. het tegengaan van maatschappelijke spanningen, polarisatie en radicalisering waaronder problematisch gedrag;
+- l. het ontwikkelen en uitvoeren van een Actie-agenda Integratie;
 
-- g. het ontwikkelen en uitvoeren van een Actie-agenda Integratie;
+- m. het vorm geven aan vormen van dialoog met maatschappelijke organisaties in het kader van de taken genoemd onder a tot en met f;
 
-- h. het vorm geven aan vormen van dialoog met maatschappelijke organisaties in het kader van de taken genoemd onder a tot en met f;
-
-- i. de uitvoering en verbetering van de implementatie van de [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424).
+- n. de uitvoering en verbetering van de implementatie van de [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424).
 
 #### § 3. Bevoegdheden
 
