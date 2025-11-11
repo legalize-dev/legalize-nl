@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2024-01-01"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -70,9 +70,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage. Logisch Ontwerp BSN, versie 2024.Q1
 
-### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2024-01-01&g=2024-01-01)
+### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2025-12-06&g=2025-11-11)
 
-Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend).
+Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](https://www.rvig.nl/).
 
 ### Inleiding
 
