@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2024-11-28"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -74,12 +74,12 @@ in welke formule voorstelt:
 
 ##### Artikel 3
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2025 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2026 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
 
 | Uitkeringsontvanger | Bedrag |
 | --- | --- |
-| Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 101.284.037 |
-| Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 107.120.268 |
+| Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 119.913.630,– |
+| Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 131.369.545,– |
 
 ##### Artikel 4
 
@@ -107,7 +107,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2024-11-28&g=2024-11-28) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2024-11-28&g=2024-11-28), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2025-11-12&g=2025-11-12) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2025-11-12&g=2025-11-12), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
