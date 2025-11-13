@@ -4,7 +4,7 @@ identifier: "BWBR0051747"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-13"
-last_updated: "2025-11-01"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051747"
 soort: "ministeriele-regeling"
@@ -56,8 +56,6 @@ gelet op [artikel 27, eerste lid, onder f, van het Algemeen organisatiebesluit d
 gelet op het [Algemeen mandaat-, volmacht- en machtigingsbesluit Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046551),
 
 Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
