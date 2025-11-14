@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2025-09-27"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - c. het kalenderjaar 2024 een bedrag beschikbaar van ten hoogste € 57.250.000,–;
 
-- d. de kalenderjaren 2025, 2026, 2027 en 2028 jaarlijks een bedrag beschikbaar van ten hoogste € 54.240.000,–.
+- d. de kalenderjaren 2025, 2026, 2027 en 2028 jaarlijks een bedrag beschikbaar van ten hoogste € 57.500.000,–.
 
 2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -110,13 +110,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 5. Bedrag zij-instroomsubsidie
 
-De subsidie bedraagt ten hoogste € 25.000 per zij-instromer.
+De subsidie bedraagt € 25.000 per zij-instromer.
 
 ##### Artikel 6. Aanvraag zij-instroomsubsidie
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2025-09-27&g=2025-09-27), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2025-11-14&g=2025-11-14), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -124,7 +124,7 @@ De subsidie bedraagt ten hoogste € 25.000 per zij-instromer.
 
 2. In afwijking van het eerste lid wordt de subsidie uiterlijk vóór 1 maart van het daaropvolgende kalenderjaar direct vastgesteld, indien:
 
-- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2025-09-27&g=2025-09-27), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
+- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2025-11-14&g=2025-11-14), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
 
 - b. de aanvraag is ingediend in de periode van 16 oktober tot en met 31 december van het kalenderjaar waarin de scholing is aangevangen.
 
@@ -160,7 +160,7 @@ Deze regeling wordt aangehaald als: Regeling subsidie zij-instroom.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2025-09-27&g=2025-09-27), opleidingen bèta en techniek in het mbo
+## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2025-11-14&g=2025-11-14), opleidingen bèta en techniek in het mbo
 
 Vervallen
 
