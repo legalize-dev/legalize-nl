@@ -4,7 +4,7 @@ identifier: "BWBR0051748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2025-01-01"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051748"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2025 is voor de beheerskosten [Wlz](https://wetten.overheid.nl/jci
 
 ##### Artikel 2
 
-Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051748&artikel=1&z=2025-11-14&g=2025-01-01) genoemd van € 2,005 miljoen is € 0,654 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 1,351 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders.
+Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051748&artikel=1&z=2025-11-14&g=2025-11-14) genoemd van € 2,005 miljoen is € 0,654 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 1,351 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders.
 
 ##### Artikel 3
 
