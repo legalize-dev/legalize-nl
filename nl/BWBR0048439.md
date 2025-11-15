@@ -4,7 +4,7 @@ identifier: "BWBR0048439"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2025-04-01"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048439"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Het is verboden zonder vergunning van de Minister geavanceerde productieapparatu
 
 ##### Artikel 3
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-04-01) wordt gedaan door de exporteur en ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-11-15) wordt gedaan door de exporteur en ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -76,13 +76,13 @@ Het is verboden zonder vergunning van de Minister geavanceerde productieapparatu
 
 ##### Artikel 4
 
-1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-04-01) kunnen voorwaarden en voorschriften worden verbonden.
+1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-11-15) kunnen voorwaarden en voorschriften worden verbonden.
 
-2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-04-01) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-11-15) kan onder beperkingen worden verleend.
 
 ##### Artikel 5
 
-Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-04-01) kan in ieder geval ingetrokken worden als:
+Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-04-01&g=2025-11-15) kan in ieder geval ingetrokken worden als:
 
 - a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;
 
