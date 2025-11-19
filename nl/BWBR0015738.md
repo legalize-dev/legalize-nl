@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2025-11-18"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Vervallen
 
 3. Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
 
-4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2025-11-19&g=2025-11-18).
+4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2025-11-19&g=2025-11-19).
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711).
 
@@ -178,13 +178,15 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - bb. het eenmalige bedrag, bedoeld in het [Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0048840);
 
-- cc. de betalingen die verband houden met de herziening van de door de Minister van Onderwijs, Cultuur en Wetenschap genomen besluiten inzake: die zijn genomen op grond van de controlewerkwijze waarvan de Minister van Onderwijs, Cultuur en Wetenschap heeft geconstateerd dat sprake was van indirecte discriminatie.
+- cc. de betalingen die verband houden met de herziening van de door de Minister van Onderwijs, Cultuur en Wetenschap genomen besluiten inzake: die zijn genomen op grond van de controlewerkwijze waarvan de Minister van Onderwijs, Cultuur en Wetenschap heeft geconstateerd dat sprake was van indirecte discriminatie;
 
 - 1°. herziening van het recht op studiefinanciering;
 
 - 2°. terugvordering van studiefinanciering; en
 
 - 3°. boete,
+
+- dd. de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051149&artikel=2), en het bedrag gelijk aan de betaalde en verrekende bedragen, bedoeld in [artikel 4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051149&artikel=4).
 
 #### § 4. Toetsing lijfrenten
 
@@ -206,7 +208,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2025-11-19&g=2025-11-18), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2025-11-19&g=2025-11-18), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2025-11-19&g=2025-11-18) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2025-11-19&g=2025-11-18) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2025-11-19&g=2025-11-19), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2025-11-19&g=2025-11-19), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2025-11-19&g=2025-11-19) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2025-11-19&g=2025-11-19) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -400,7 +402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 15b. Aantallen beschut werk
 
-Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2025 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2025-11-19&g=2025-11-18) bij deze regeling bepaalde aantal per gemeente.
+Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2025 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2025-11-19&g=2025-11-19) bij deze regeling bepaalde aantal per gemeente.
 
 #### § 8. Slotbepalingen
 
@@ -1534,7 +1536,7 @@ De tegemoetkoming voor een huishouden dat in het jaar 2025 voldoet aan de voorwa
 
 #### § 8. Slotbepalingen
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2025-11-19&g=2025-11-18) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2025-11-19&g=2025-11-19) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
 | --- | --- | --- | --- |
@@ -1729,7 +1731,7 @@ De tegemoetkoming voor een huishouden dat in het jaar 2025 voldoet aan de voorwa
 | Indicator LKS | -2,4951136 | 5-1-2022 | 31-12-2023 |
 | Constante | 2,3696823 | n.v.t. | n.v.t. |
 
-## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2025-11-19&g=2025-11-18) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2025-11-19&g=2025-11-19) van de Regeling Participatiewet, IOAW en IOAZ
 
 | CBS-code | Gemeente | ultimo 2025 |
 | --- | --- | --- |
