@@ -4,7 +4,7 @@ identifier: "BWBR0045694"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-19"
-last_updated: "2021-10-15"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045694"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
-- **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2021-10-15&g=2021-10-15).
+- **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2025-11-19&g=2025-11-19).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -56,7 +56,7 @@ Deze regeling heeft tot doel het stimuleren van het nemen van maatregelen die do
 
 ##### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden aangevraagd
 
-Tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2&z=2021-10-15&g=2021-10-15) genoemde doel kan de minister overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020 op aanvraag van een provincie of een gemeente een specifieke uitkering verstrekken voor:
+Tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2&z=2025-11-19&g=2025-11-19) genoemde doel kan de minister overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020 op aanvraag van een provincie of een gemeente een specifieke uitkering verstrekken voor:
 
 - a. organisatorische inbedding van levering van actuele en betrouwbare data voor digitale mobiliteitsdiensten en het data-gedreven uitvoeren van overheidstaken in het mobiliteitsdomein en daarop gerichte planvorming;
 
@@ -94,13 +94,13 @@ Tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2
 
 ##### Artikel 5. Percentage van de kosten dat ten hoogste in aanmerking komt voor een specifieke uitkering
 
-Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=4&z=2021-10-15&g=2021-10-15), dat ten hoogste in aanmerking komt voor een specifieke uitkering, wordt vastgesteld overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020.
+Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=4&z=2025-11-19&g=2025-11-19), dat ten hoogste in aanmerking komt voor een specifieke uitkering, wordt vastgesteld overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020.
 
 ##### Artikel 6. Hoogte specifieke uitkering
 
-1. De hoogte van het budget dat voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2021-10-15&g=2021-10-15), beschikbaar is en de wijze van verdeling daarvan worden vastgesteld overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020.
+1. De hoogte van het budget dat voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2025-11-19&g=2025-11-19), beschikbaar is en de wijze van verdeling daarvan worden vastgesteld overeenkomstig de afspraken die hierover zijn gemaakt in het kader van de Bestuurlijke Overleggen MIRT 2020.
 
-2. Een specifieke uitkering bedraagt niet meer dan het overeenkomstig het eerste lid vastgestelde bedrag verminderd met de omzetbelasting over de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=4&z=2021-10-15&g=2021-10-15), die in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
+2. Een specifieke uitkering bedraagt niet meer dan het overeenkomstig het eerste lid vastgestelde bedrag verminderd met de omzetbelasting over de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=4&z=2025-11-19&g=2025-11-19), die in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
 ##### Artikel 7. Aanvraag voor verlening specifieke uitkering
 
@@ -110,7 +110,7 @@ Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.
 
 - a. een overzicht van de activiteiten waarvoor een specifieke uitkering wordt aangevraagd;
 
-- b. een beschrijving van de wijze waarop en de mate waarin de activiteiten bijdragen aan de doelen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2&z=2021-10-15&g=2021-10-15);
+- b. een beschrijving van de wijze waarop en de mate waarin de activiteiten bijdragen aan de doelen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2&z=2025-11-19&g=2025-11-19);
 
 - c. een specificatie en raming van de kosten van de activiteiten;
 
@@ -132,15 +132,15 @@ Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.
 
 ##### Artikel 9. Voorschotverlening
 
-De minister verstrekt bij een besluit tot verlening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=8&z=2021-10-15&g=2021-10-15) een voorschot van 100% van het verleende bedrag.
+De minister verstrekt bij een besluit tot verlening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=8&z=2025-11-19&g=2025-11-19) een voorschot van 100% van het verleende bedrag.
 
 ##### Artikel 10. Verplichtingen ontvanger
 
-1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 januari 2025 gerealiseerd.
+1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 oktober 2026 gerealiseerd.
 
 2. De ontvanger van een specifieke uitkering werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-3. Bij een besluit tot verlening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=8&z=2021-10-15&g=2021-10-15) kan de minister ook andere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de specifieke uitkering.
+3. Bij een besluit tot verlening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=8&z=2025-11-19&g=2025-11-19) kan de minister ook andere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de specifieke uitkering.
 
 ##### Artikel 11. Verantwoording
 
@@ -148,11 +148,11 @@ Verantwoording over de besteding van een specifieke uitkering vindt plaats op de
 
 ##### Artikel 12. Vaststelling specifieke uitkering
 
-De minister stelt de specifieke uitkering vast binnen zes maanden nadat de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd, de eindverantwoording overeenkomstig [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) heeft plaatsgevonden en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=10&z=2021-10-15&g=2021-10-15).
+De minister stelt de specifieke uitkering vast binnen zes maanden nadat de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd, de eindverantwoording overeenkomstig [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) heeft plaatsgevonden en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=10&z=2025-11-19&g=2025-11-19).
 
 ##### Artikel 13. Inwerkingtreding en verval
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2026, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 oktober 2026, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 14. Citeertitel
 
