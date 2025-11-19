@@ -4,7 +4,7 @@ identifier: "BWBR0041699"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-19"
-last_updated: "2025-11-01"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041699"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en V
 
 ##### Artikel 2
 
-De hoofden van de dienstonderdelen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun ressorterende ambtenaren.
+De hoofden van de dienstonderdelen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun ressorterende ambtenaren.
 
 ##### Artikel 3
 
@@ -106,7 +106,7 @@ Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, 
 
 - a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
 
-- b. aanstelling, bevordering en ontslag van alsmede het treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van de hoofden, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), betreffen;
+- b. aanstelling, bevordering en ontslag van alsmede het treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van de hoofden, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), betreffen;
 
 - c. betrekking heeft op de beëindiging van de arbeidsovereenkomst van een functionaris die tijdelijk is ontheven van de uitoefening van diens functie bij het ministerie en niet in de uitoefening van de functie kan worden hersteld naar het oordeel van diens leidinggevende met A-mandaat als bedoeld in bijlage 1 van het betreffende ondermandaatbesluit, wanneer de functionaris ophoudt met het bekleden van één van de volgende functies:
 
@@ -116,25 +116,25 @@ Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, 
 
 - 3. Het vervullen van een functie substituut-ombudsman.
 
-3. Voor zover het de verlening van ondermandaat aan de in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), genoemde functionaris betreft, blijven beslissingen op verzoeken van cliënten van de raad voor de kinderbescherming om een schadevergoeding, waarbij een bedrag hoger dan € 50.000,– wordt toegekend, voorbehouden aan de secretaris-generaal.
+3. Voor zover het de verlening van ondermandaat aan de in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionaris betreft, blijven beslissingen op verzoeken van cliënten van de raad voor de kinderbescherming om een schadevergoeding, waarbij een bedrag hoger dan € 50.000,– wordt toegekend, voorbehouden aan de secretaris-generaal.
 
-4. In afwijking van het eerste lid, onderdeel c is het gemaakte voorbehoud inzake het verstrekken van reisopdracht aan ondergeschikte functionarissen naar landen buiten Europa alsmede Turkije niet van toepassing voor de functionarissen genoemd in [artikel 1, onderdelen a, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01). Deze bevoegdheid kan niet worden doorgegeven.
+4. In afwijking van het eerste lid, onderdeel c is het gemaakte voorbehoud inzake het verstrekken van reisopdracht aan ondergeschikte functionarissen naar landen buiten Europa alsmede Turkije niet van toepassing voor de functionarissen genoemd in [artikel 1, onderdelen a, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19). Deze bevoegdheid kan door de functionarissen genoemd in artikel 1, onderdelen a en i niet worden doorgegeven. De functionaris genoemd in artikel 1, onderdeel h, is toegestaan deze bevoegdheid door te geven voor zover het de dienstreizen betreft van de medewerkers die op basis van [Verordening (EU) 2019/1240](32019R1240) tijdelijk in het buitenland werkzaam zijn.
 
 ##### Artikel 5
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01) genoemde functionarissen kunnen geen ondermandaat verlenen van de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen kunnen geen ondermandaat verlenen van de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
-2. De in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), genoemde functionaris kan geen ondermandaat verlenen tot het beslissen op verzoeken van cliënten van de raad voor de kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500,– te boven gaan.
+2. De in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionaris kan geen ondermandaat verlenen tot het beslissen op verzoeken van cliënten van de raad voor de kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500,– te boven gaan.
 
 ##### Artikel 6
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01) genoemde functionarissen wordt toegestaan de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten verder dan één hiërarchisch niveau door te geven.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen wordt toegestaan de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten verder dan één hiërarchisch niveau door te geven.
 
-2. De in [artikel 1, onderdelen a, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), genoemde functionarissen worden gemandateerd om de bevoegdheid tot het nemen van besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verder dan één hiërarchisch niveau door te geven.
+2. De in [artikel 1, onderdelen a, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionarissen worden gemandateerd om de bevoegdheid tot het nemen van besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verder dan één hiërarchisch niveau door te geven.
 
 ##### Artikel 7
 
-Ondermandaten, volmachten en machtigingen verleend door of namens de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01) genoemde functionarissen blijven van kracht.
+Ondermandaten, volmachten en machtigingen verleend door of namens de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen blijven van kracht.
 
 ##### Artikel 8
 
@@ -174,9 +174,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-De in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), genoemde functionaris kan geen ondermandaat verlenen van de bevoegdheid op grond van [artikel 40d van de Penitentiaire Beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40d).
+De in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionaris kan geen ondermandaat verlenen van de bevoegdheid op grond van [artikel 40d van de Penitentiaire Beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40d).
 
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=3&z=2025-11-01&g=2025-11-01) van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid
+## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=3&z=2025-11-19&g=2025-11-19) van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid
 
 Daar waar in de kolommen 2, 3 en 4 geen X staat, is de ambtenaar voor die taken niet aangewezen.
 
