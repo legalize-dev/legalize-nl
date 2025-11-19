@@ -4,7 +4,7 @@ identifier: "BWBR0012954"
 country: "nl"
 rank: "kb"
 publication_date: "2025-11-19"
-last_updated: "2025-07-01"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012954"
 soort: "KB"
@@ -54,11 +54,11 @@ De voorzitter en de leden van de Commissie ontvangen een vaste jaarlijkse vergoe
 
 ##### Artikel 3
 
-De vergoeding van de voorzitter wordt vastgesteld op € 6663.
+De vergoeding van de voorzitter wordt vastgesteld op € 7.683,–.
 
 ##### Artikel 4
 
-De vergoeding van de leden wordt vastgesteld op € 5330.
+De vergoeding van de leden wordt vastgesteld op € 6.146,–.
 
 ##### Artikel 5
 
@@ -70,7 +70,7 @@ Vervallen
 
 ##### Artikel 7
 
-Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2025-11-19&g=2025-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2025-11-19&g=2025-07-01) naar evenredigheid vastgesteld.
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2025-11-19&g=2025-11-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2025-11-19&g=2025-11-19) naar evenredigheid vastgesteld.
 
 ##### Artikel 8
 
