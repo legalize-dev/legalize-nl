@@ -4,7 +4,7 @@ identifier: "BWBR0044855"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-20"
-last_updated: "2023-03-04"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044855"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Plantgezon
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194), het bepaalde bij of krachtens [verordening 2016/2031](32031R2016) en het bepaalde bij of krachtens [verordening 2017/625](32525R2017) met betrekking tot beschermende maatregelen tegen schadelijke organismen bij planten zijn belast:
 
-- a. de technisch directeur, de inspecteurs, de assistent specialisten kwaliteitszaken, de assistent specialisten fytosanitaire zaken, de specialisten kwaliteitszaken, de specialisten fytosanitaire zaken, de rayonmanagers, de planners, de coördinator planner, het hoofd kwalificatie en kennisbeheer, de assistent hoofd buitendienst en het hoofd buitendienst van de Stichting Kwaliteits-Controle-Bureau;
+- a. de daartoe gekwalificeerde medewerkers van de Stichting Kwaliteits-Controle-Bureau;
 
 - b. de daartoe gekwalificeerde medewerkers van de Stichting Bloembollenkeuringsdienst;
 
-- c. de directeur, het hoofd Keuringen, de keurmeesters, de managers Keuringen en de inspectiemedewerkers bacterievuurcontrole van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
+- c. de keurmeesters en controleurs van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- d. de directeur, de directiesecretaris, de (senior-)keurmeesters, de monsternemers, de controleurs, de vakspecialisten, de teamleiders, de regiohoofden, de technisch coördinator en de managers van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen.
+- d. de keurmeesters en controleurs van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen.
 
 ##### Artikel 3
 
