@@ -4,7 +4,7 @@ identifier: "BWBR0045555"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-02"
-last_updated: "2025-09-01"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045555"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) wordt
 
 1. Indien het bij koninklijke boodschap van 3 juni 2020 ingediende voorstel van wet houdende regels over inburgering in de Nederlandse samenleving ([Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)) (Kamerstukken 35 483) tot wet is of wordt verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-2. In afwijking van het eerste lid, treedt [artikel 8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=8&artikel=8.1&z=2025-07-10&g=2025-09-01), van dit besluit, in werking met ingang van 1 januari van het eerste kalenderjaar na inwerkingtreding van dit besluit.
+2. In afwijking van het eerste lid, treedt [artikel 8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=8&artikel=8.1&z=2025-11-20&g=2025-11-20), van dit besluit, in werking met ingang van 1 januari van het eerste kalenderjaar na inwerkingtreding van dit besluit.
 
 ##### Artikel 12.3. Citeertitel
 
@@ -230,7 +230,7 @@ De duur van de periode dat een persoon leerplichtig of kwalificatieplichtig is g
 
 - b. maximaal drie van de vier examenonderdelen van de mondelinge en schriftelijke vaardigheden op ten minste het niveau B1 of het examen KNM als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8) van de onderwijsroute; of
 
-- c. het participatiegedeelte van de zelfredzaamheidsroute, bedoeld in [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-07-10&g=2025-09-01), met uitzondering van de activiteiten van het participatieverklaringstraject en de module Arbeidsmarkt en Participatie.
+- c. het participatiegedeelte van de zelfredzaamheidsroute, bedoeld in [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-11-20&g=2025-11-20), met uitzondering van de activiteiten van het participatieverklaringstraject en de module Arbeidsmarkt en Participatie.
 
 4. Indien Onze Minister op grond van de deskundigenverklaring, bedoeld in het eerste lid, van oordeel is dat de inburgeringsplichtige wel aan een of meerdere onderdelen van het inburgeringsexamen dan wel een of meerdere examenonderdelen van de onderwijsroute als bedoeld in het derde lid, kan voldoen onder examenomstandigheden die zijn aangepast aan de mogelijkheden van die inburgeringsplichtige, geldt dat:
 
@@ -270,7 +270,7 @@ De duur van de periode dat een persoon leerplichtig of kwalificatieplichtig is g
 
 4. Bij het participatieverklaringstraject worden door het college de aanwezigheid van de inburgeringsplichtige bij de inleiding op de Nederlandse kernwaarden en de ondertekening van de participatieverklaring geregistreerd.
 
-5. Indien in het kader van de brede intake door de inburgeringsplichtige activiteiten zijn verricht die voldoen aan het gestelde in dit artikel, kunnen deze bestede uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-07-10&g=2025-09-01), in mindering worden gebracht op de urennorm, genoemd in het derde lid.
+5. Indien in het kader van de brede intake door de inburgeringsplichtige activiteiten zijn verricht die voldoen aan het gestelde in dit artikel, kunnen deze bestede uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-11-20&g=2025-11-20), in mindering worden gebracht op de urennorm, genoemd in het derde lid.
 
 6. De tekst van de participatieverklaring, bedoeld in [artikel 6, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=6), is opgenomen als bijlage bij dit besluit.
 
@@ -298,7 +298,7 @@ De duur van de periode dat een persoon leerplichtig of kwalificatieplichtig is g
 
 2. De module Arbeidsmarkt en Participatie wordt afgesloten met een eindgesprek tussen de inburgeringsplichtige en het college.
 
-3. Indien in het kader van de brede intake door de inburgeringsplichtige activiteiten zijn verricht die voldoen aan het gestelde in dit artikel, kunnen deze bestede uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-07-10&g=2025-09-01), in mindering worden gebracht op de voor de module Arbeidsmarkt en Participatie geldende urennorm.
+3. Indien in het kader van de brede intake door de inburgeringsplichtige activiteiten zijn verricht die voldoen aan het gestelde in dit artikel, kunnen deze bestede uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-11-20&g=2025-11-20), in mindering worden gebracht op de voor de module Arbeidsmarkt en Participatie geldende urennorm.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de onderdelen, bedoeld in het eerste en tweede lid, waaronder een urennorm.
 
@@ -358,35 +358,35 @@ Het inburgeringsexamen bestaat wat betreft de examinering van de mondelinge en s
 
 ##### Artikel 3.6. Aanmelding examen
 
-1. Degene die wenst te worden toegelaten tot de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), meldt zich daartoe schriftelijk aan overeenkomstig de bij ministeriële regeling gestelde regels.
+1. Degene die wenst te worden toegelaten tot de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), meldt zich daartoe schriftelijk aan overeenkomstig de bij ministeriële regeling gestelde regels.
 
 2. Onze Minister bevestigt de aanmelding schriftelijk.
 
 ##### Artikel 3.7. Examengeld
 
-1. Bij ministeriële regeling worden regels gesteld over de hoogte en het betalen van het examengeld, voor de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), en op welke wijze het verschuldigde examengeld wordt voldaan, waarbij onderscheid kan worden gemaakt tussen groepen inburgeringsplichtigen.
+1. Bij ministeriële regeling worden regels gesteld over de hoogte en het betalen van het examengeld, voor de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), en op welke wijze het verschuldigde examengeld wordt voldaan, waarbij onderscheid kan worden gemaakt tussen groepen inburgeringsplichtigen.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent het kosteloos afleggen van een of meerdere examenpogingen van onderdelen van het inburgeringsexamen door groepen van inburgeringsplichtigen, in welk geval Onze Minister het examengeld voor het afleggen van het staatsexamen Nederlands als tweede taal voldoet.
 
 ##### Artikel 3.8. Identificatie bij examen
 
-Op verzoek van degene die de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), afneemt of daarop toezicht houdt, identificeert de kandidaat zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+Op verzoek van degene die de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), afneemt of daarop toezicht houdt, identificeert de kandidaat zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
 ##### Artikel 3.9. Aangepaste examenomstandigheden
 
-1. Onze Minister kan de kandidaat met een psychische of lichamelijke belemmering, of een verstandelijke beperking op diens verzoek in de gelegenheid stellen om de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), af te leggen op een wijze die is aangepast aan zijn mogelijkheden.
+1. Onze Minister kan de kandidaat met een psychische of lichamelijke belemmering, of een verstandelijke beperking op diens verzoek in de gelegenheid stellen om de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), af te leggen op een wijze die is aangepast aan zijn mogelijkheden.
 
 2. De inburgeringsplichtige kan kosteloos een deskundigenverklaring aanvragen van een door Onze Minister aangewezen arts, niet zijnde de behandeld arts van de inburgeringsplichtige, die is ingeschreven in het register, bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), waarin deze arts zich uitlaat over de noodzaak tot het treffen van aangepaste examenomstandigheden bij het afleggen van een of meerdere onderdelen van het inburgeringsexamen en welke mogelijke aangepaste examenomstandigheden dit kunnen betreffen.
 
 3. Bij het verzoek, bedoeld in het eerste lid, legt de kandidaat de deskundigenverklaring, bedoeld in het tweede lid, over, waaruit blijkt dat hij een of meerdere van de examens, bedoeld in het eerste lid, slechts kan afleggen op een wijze die is aangepast aan zijn mogelijkheden.
 
-4. Indien Onze Minister bij de toepassing van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=4&artikel=2.7&z=2025-07-10&g=2025-09-01) heeft geoordeeld dat de inburgeringsplichtige een of meerdere van de examens, bedoeld in het eerste lid, slechts kan afleggen op een wijze die is aangepast aan de mogelijkheden van die inburgeringsplichtige, legt de kandidaat bij de aanmelding voor het voornoemde examen, de beschikking, bedoeld in het vierde lid, onderdeel a, van dat artikel over.
+4. Indien Onze Minister bij de toepassing van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=4&artikel=2.7&z=2025-11-20&g=2025-11-20) heeft geoordeeld dat de inburgeringsplichtige een of meerdere van de examens, bedoeld in het eerste lid, slechts kan afleggen op een wijze die is aangepast aan de mogelijkheden van die inburgeringsplichtige, legt de kandidaat bij de aanmelding voor het voornoemde examen, de beschikking, bedoeld in het vierde lid, onderdeel a, van dat artikel over.
 
 5. Bij ministeriële regeling worden regels gesteld over de toepassing van dit artikel.
 
 ##### Artikel 3.10. Onregelmatigheden
 
-1. Indien een kandidaat zich ten aanzien van een onderdeel van de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), aan enige onregelmatigheid schuldig maakt of heeft gemaakt, kan Onze Minister het betreffende examen ongeldig verklaren en bepalen dat de kandidaat het examen of een onderdeel daarvan opnieuw moet afleggen.
+1. Indien een kandidaat zich ten aanzien van een onderdeel van de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), aan enige onregelmatigheid schuldig maakt of heeft gemaakt, kan Onze Minister het betreffende examen ongeldig verklaren en bepalen dat de kandidaat het examen of een onderdeel daarvan opnieuw moet afleggen.
 
 2. Indien de onregelmatigheid eerst na afloop van het examen wordt ontdekt, kan Onze Minister het examenresultaat ongeldig verklaren.
 
@@ -396,7 +396,7 @@ Op verzoek van degene die de examens, bedoeld in [artikel 3.5, tweede lid](https
 
 ##### Artikel 3.11. Normen voor de kwaliteit van de examinering
 
-Bij ministeriële regeling worden normen voor de kwaliteit van de examinering van de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-07-10&g=2025-09-01), vastgesteld die in ieder geval betrekking hebben op:
+Bij ministeriële regeling worden normen voor de kwaliteit van de examinering van de examens, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.5&z=2025-11-20&g=2025-11-20), vastgesteld die in ieder geval betrekking hebben op:
 
 - a. de afname van de examens;
 
@@ -448,9 +448,9 @@ De advisering met betrekking tot voor onderdelen van het inburgeringsexamen vrij
 
 5. De uren gemoeid met de module Arbeidsmarkt en Participatie en het participatieverklaringstraject worden in mindering gebracht op de urennorm, bedoeld in het tweede lid, onderdeel b.
 
-6. Indien in het kader van de brede intake door de inburgeringsplichtige cursusuren Nederlands als tweede taal of kennis van de Nederlandse maatschappij zijn gevolgd of activiteiten zijn verricht, of gedurende de brede intake activiteiten zijn verricht in het kader van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), of in het kader van de maatschappelijke begeleiding, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13), activiteiten zijn verricht, die voldoen aan het gestelde in dit artikel, kunnen de hiermee gemoeide uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-07-10&g=2025-09-01), in mindering worden gebracht op de urennorm, die geldt op grond van het tweede of achtste lid.
+6. Indien in het kader van de brede intake door de inburgeringsplichtige cursusuren Nederlands als tweede taal of kennis van de Nederlandse maatschappij zijn gevolgd of activiteiten zijn verricht, of gedurende de brede intake activiteiten zijn verricht in het kader van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), of in het kader van de maatschappelijke begeleiding, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13), activiteiten zijn verricht, die voldoen aan het gestelde in dit artikel, kunnen de hiermee gemoeide uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-11-20&g=2025-11-20), in mindering worden gebracht op de urennorm, die geldt op grond van het tweede of achtste lid.
 
-7. Indien de inburgeringsplichtige een of meerdere van de examenonderdelen, genoemd in [artikel 3.3, aanhef en onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.3&z=2025-07-10&g=2025-09-01), op het niveau A2, of het examenonderdeel, genoemd in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.4&z=2025-07-10&g=2025-09-01), wenst af te leggen en het college de inburgeringsplichtige daartoe in staat acht, legt het college dit vast in het persoonlijk plan inburgering en participatie.
+7. Indien de inburgeringsplichtige een of meerdere van de examenonderdelen, genoemd in [artikel 3.3, aanhef en onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.3&z=2025-11-20&g=2025-11-20), op het niveau A2, of het examenonderdeel, genoemd in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.4&z=2025-11-20&g=2025-11-20), wenst af te leggen en het college de inburgeringsplichtige daartoe in staat acht, legt het college dit vast in het persoonlijk plan inburgering en participatie.
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de onderdelen, bedoeld in het tweede lid, waarbij voor inburgeringsplichtigen met een auditieve of visuele beperking onder nader vast te stellen voorwaarden, een lagere urennorm kan worden vastgesteld dan de norm, bedoeld in het tweede lid, onderdeel a, of voor deze groep kan worden vastgesteld dat voor bepaalde vaardigheden van een cursus Nederlands als tweede taal, geen cursusuren hoeven te worden gevolgd.
 
@@ -470,7 +470,7 @@ De advisering met betrekking tot voor onderdelen van het inburgeringsexamen vrij
 
 1. Degene die heeft voldaan aan de inburgeringsplicht en in dat kader het inburgeringsexamen of de onderwijsroute heeft behaald, ontvangt een inburgeringsdiploma.
 
-2. Degene die de examenonderdelen, bedoeld in [artikel 6.2a, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.2a&z=2025-07-10&g=2025-09-01), met goed gevolg heeft afgelegd, ontvangt een inburgeringsdiploma als bedoeld in [artikel 1.1, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1).
+2. Degene die de examenonderdelen, bedoeld in [artikel 6.2a, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.2a&z=2025-11-20&g=2025-11-20), met goed gevolg heeft afgelegd, ontvangt een inburgeringsdiploma als bedoeld in [artikel 1.1, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1).
 
 3. Onze Minister verstrekt het inburgeringsdiploma.
 
@@ -516,7 +516,7 @@ De advisering met betrekking tot voor onderdelen van het inburgeringsexamen vrij
 
 1. Onze Minister bekostigt de voorbereiding op de inburgering.
 
-2. De kosten voor de uitvoering van deze taak door de aangewezen instelling, bedoeld in [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=6&artikel=3.17&z=2025-07-10&g=2025-09-01), komen ten laste van de begroting van het Ministerie van Sociale Zaken en Werkgelegenheid.
+2. De kosten voor de uitvoering van deze taak door de aangewezen instelling, bedoeld in [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=6&artikel=3.17&z=2025-11-20&g=2025-11-20), komen ten laste van de begroting van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ### Afdeling 7. Internationale diplomawaardering en indicatie onderwijsniveau
 
@@ -532,7 +532,7 @@ In dit hoofdstuk wordt verstaan onder termijn de termijn, bedoeld in [artikel 11
 
 ##### Artikel 4.2. Verlenging termijn na tijdelijke beëindiging
 
-De termijn wordt verlengd met de duur van de periode, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.1&z=2025-07-10&g=2025-09-01).
+De termijn wordt verlengd met de duur van de periode, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.1&z=2025-11-20&g=2025-11-20).
 
 ##### Artikel 4.3. Verlenging bij geen verwijtbaarheid
 
@@ -618,7 +618,7 @@ De maatschappelijke begeleiding, bedoeld in [artikel 13, tweede lid, van de wet]
 
 1. De termijn, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=17), bedraagt maximaal anderhalf jaar vanaf de aanvang van de termijn, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=11), met dien verstande dat gedurende het gehele inburgeringstraject de onderwijsroute kan worden gewijzigd in de B1-route.
 
-2. Indien de inburgeringsplichtige een niet vrijstellende opleiding als bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-07-10&g=2025-09-01), heeft afgerond of voortijdig heeft beëindigd na het verstrijken van de termijn, bedoeld in het eerste lid, kan het college, in afwijking van de termijn, bedoeld in het eerste lid, na het afronden van deze opleiding de door de inburgeringsplichtige te volgen leerroute wijzigen.
+2. Indien de inburgeringsplichtige een niet vrijstellende opleiding als bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-11-20&g=2025-11-20), heeft afgerond of voortijdig heeft beëindigd na het verstrijken van de termijn, bedoeld in het eerste lid, kan het college, in afwijking van de termijn, bedoeld in het eerste lid, na het afronden van deze opleiding de door de inburgeringsplichtige te volgen leerroute wijzigen.
 
 3. In bijzondere gevallen die de inburgeringsplichtige betreffen, kan het college afwijken van de termijn, bedoeld in het eerste lid.
 
@@ -626,19 +626,19 @@ De maatschappelijke begeleiding, bedoeld in [artikel 13, tweede lid, van de wet]
 
 - a. de onderwijsroute of de zelfredzaamheidsroute naar de B1-route:
 
-- i. bij het bepalen van de intensiteit van de leerroute rekening wordt gehouden met de reeds gevolgde cursusuren Nederlands als tweede taal en cursusuren kennis van de Nederlandse maatschappij bij een instelling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8) of met de gevolgde cursusuren, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-07-10&g=2025-09-01);
+- i. bij het bepalen van de intensiteit van de leerroute rekening wordt gehouden met de reeds gevolgde cursusuren Nederlands als tweede taal en cursusuren kennis van de Nederlandse maatschappij bij een instelling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8) of met de gevolgde cursusuren, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-11-20&g=2025-11-20);
 
 - ii. de in de onderwijsroute reeds gedane examenpogingen en behaalde examenonderdelen van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal op ten minste het niveau B1 of kennis van de Nederlandse maatschappij, gelden als gedane examenpogingen en behaalde examenonderdelen van het inburgeringsexamen.
 
 - b. de B1-route naar de onderwijsroute: de reeds gedane examenpogingen en behaalde examenonderdelen van het inburgeringsexamen gelden als gedane examenpogingen en behaalde examenonderdelen van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal op ten minste het niveau B1 of kennis van de Nederlandse maatschappij als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8).
 
-- c. de B1-route of de onderwijsroute naar de zelfredzaamheidsroute: de reeds gevolgde cursusuren Nederlands als tweede taal en cursusuren kennis van de Nederlandse maatschappij bij een cursusinstelling die voldoet aan het bepaalde op grond van [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=32) of bij een instelling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8), in mindering worden gebracht op de urennorm, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-07-10&g=2025-09-01).
+- c. de B1-route of de onderwijsroute naar de zelfredzaamheidsroute: de reeds gevolgde cursusuren Nederlands als tweede taal en cursusuren kennis van de Nederlandse maatschappij bij een cursusinstelling die voldoet aan het bepaalde op grond van [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=32) of bij een instelling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8), in mindering worden gebracht op de urennorm, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=4&artikel=3.14&z=2025-11-20&g=2025-11-20).
 
 ##### Artikel 5.5. Afschalen naar niveau A2
 
 1. Van aanzienlijke inspanningen, bedoeld in [artikel 17, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=17), is sprake indien de inburgeringsplichtige in totaal 600 cursusuren Nederlands als tweede taal, waarvan alfabetiseringsonderwijs onderdeel kan zijn, heeft gevolgd bij een instelling die voldoet aan het bepaalde op grond van [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=32) of bij een instelling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=8) en voorts uit de relevante feiten en omstandigheden blijkt dat hij zich gedurende deze taallessen voldoende heeft ingespannen.
 
-2. Indien in het kader van de brede intake door de inburgeringsplichtige cursusuren Nederlands als tweede taal, waarvan alfabetiseringsonderwijs onderdeel kan zijn, zijn gevolgd die voldoen aan het gestelde in het eerste lid, kunnen deze uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-07-10&g=2025-09-01), in mindering worden gebracht de urennorm, genoemd in het eerste lid.
+2. Indien in het kader van de brede intake door de inburgeringsplichtige cursusuren Nederlands als tweede taal, waarvan alfabetiseringsonderwijs onderdeel kan zijn, zijn gevolgd die voldoen aan het gestelde in het eerste lid, kunnen deze uren, in afwijking van [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=5&afdeling=3&artikel=5.3&z=2025-11-20&g=2025-11-20), in mindering worden gebracht de urennorm, genoemd in het eerste lid.
 
 ### Hoofdstuk 6. Sociale lening
 
@@ -684,13 +684,13 @@ Tenzij uitdrukkelijk anders is bepaald, zijn de bepalingen in dit hoofdstuk van 
 
 ##### Artikel 6.3. Duur en betaling van de lening
 
-1. De inburgeringsplichtige, bedoeld in [artikel 19, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=19) heeft, behoudens het bepaalde in [artikel 20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=20), aanspraak op de lening gedurende de termijn, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=11), gedurende de verlengde termijn bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=12) en gedurende de termijn, genoemd in de boetebeschikking, bedoeld in de [artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=24), en [25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=25). Een persoon als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-07-10&g=2025-09-01) heeft aanspraak op de lening gedurende drie jaar nadat hij rechtmatig verblijf verkrijgt.
+1. De inburgeringsplichtige, bedoeld in [artikel 19, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=19) heeft, behoudens het bepaalde in [artikel 20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=20), aanspraak op de lening gedurende de termijn, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=11), gedurende de verlengde termijn bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=12) en gedurende de termijn, genoemd in de boetebeschikking, bedoeld in de [artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=24), en [25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=25). Een persoon als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-11-20&g=2025-11-20) heeft aanspraak op de lening gedurende drie jaar nadat hij rechtmatig verblijf verkrijgt.
 
 2. Het geleende bedrag wordt niet uitbetaald, indien de inburgeringsplichtige:
 
 - a. niet langer ingezetene is in de zin van de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
 
-- b. als vreemdeling geen rechtmatig verblijf meer heeft in de zin van [artikel 8, onderdelen a, c, e van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan wel, in de in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.2&z=2025-07-10&g=2025-09-01), bedoelde gevallen, in de zin van artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000, voor zover dit ziet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en [45 van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45); of
+- b. als vreemdeling geen rechtmatig verblijf meer heeft in de zin van [artikel 8, onderdelen a, c, e van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan wel, in de in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.2&z=2025-11-20&g=2025-11-20), bedoelde gevallen, in de zin van artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000, voor zover dit ziet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en [45 van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45); of
 
 - c. overeenkomstig [artikel 20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=20) geen of niet langer aanspraak heeft op een lening.
 
@@ -700,7 +700,7 @@ Tenzij uitdrukkelijk anders is bepaald, zijn de bepalingen in dit hoofdstuk van 
 
 1. In de aanvraag vermeldt de aanvrager zijn: naam- en adresgegevens, burgerservicenummer en rekeningnummer.
 
-2. Bij de aanvraag overlegt de aanvrager een door hem ondertekende verklaring waarin hij Onze Minister machtigt het bedrag van de maandelijkse termijnen die hij op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-07-10&g=2025-09-01) of [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.12&z=2025-07-10&g=2025-09-01) moet terugbetalen, automatisch van zijn bankrekening af te schrijven.
+2. Bij de aanvraag overlegt de aanvrager een door hem ondertekende verklaring waarin hij Onze Minister machtigt het bedrag van de maandelijkse termijnen die hij op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-11-20&g=2025-11-20) of [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.12&z=2025-11-20&g=2025-11-20) moet terugbetalen, automatisch van zijn bankrekening af te schrijven.
 
 ##### Artikel 6.5. Vaststelling van de lening
 
@@ -722,25 +722,25 @@ Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikki
 
 3. Gedurende de in [artikel 21, derde lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=21) bedoelde aanloopfase van zes maanden bestaat geen verplichting tot terugbetaling, doch is wel rente verschuldigd over het bedrag van de lening.
 
-4. In afwijking van het tweede lid, vangt de terugbetalingsperiode voor een persoon als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-07-10&g=2025-09-01) aan zes maanden nadat drie jaar zijn verstreken sedert de verstrekking van de lening of, indien dat eerder is, zes maanden nadat het inburgeringsexamen is behaald.
+4. In afwijking van het tweede lid, vangt de terugbetalingsperiode voor een persoon als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-11-20&g=2025-11-20) aan zes maanden nadat drie jaar zijn verstreken sedert de verstrekking van de lening of, indien dat eerder is, zes maanden nadat het inburgeringsexamen is behaald.
 
 ##### Artikel 6.8. Maandelijks termijnbedrag
 
 1. De terugbetaling van de lening geschiedt in maandelijkse termijnbedragen, behoudens in de bij ministeriële regeling genoemde gevallen.
 
-2. De hoogte van het maandelijkse termijnbedrag wordt op basis van het aantal maanden van de terugbetalingsperiode tot een gelijk bedrag vastgesteld bij de aanvang van de aanloopfase, bedoeld in [artikel 6.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.7&z=2025-07-10&g=2025-09-01), dan wel binnen acht weken na ontvangst van een verzoek als bedoeld in 6.7, tweede lid, tweede volzin.
+2. De hoogte van het maandelijkse termijnbedrag wordt op basis van het aantal maanden van de terugbetalingsperiode tot een gelijk bedrag vastgesteld bij de aanvang van de aanloopfase, bedoeld in [artikel 6.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.7&z=2025-11-20&g=2025-11-20), dan wel binnen acht weken na ontvangst van een verzoek als bedoeld in 6.7, tweede lid, tweede volzin.
 
 3. Bij ministeriële regeling worden nadere regels gesteld over de hoogte van het termijnbedrag alsmede de wijze waarop dit wordt berekend.
 
 ##### Artikel 6.9. Beschikking tot terugbetaling
 
-1. Binnen acht weken na de aanvang van de aanloopfase, bedoeld in [artikel 6.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.7&z=2025-07-10&g=2025-09-01), dan wel de ontvangst van een verzoek als bedoeld in artikel 6.7, tweede lid, tweede volzin, stelt Onze Minister het termijnbedrag vast dat de debiteur overeenkomstig de [artikelen 6.6 tot en met 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.6&z=2025-07-10&g=2025-09-01) maandelijks moet terugbetalen alsmede de periode waarbinnen dit moet gebeuren.
+1. Binnen acht weken na de aanvang van de aanloopfase, bedoeld in [artikel 6.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.7&z=2025-11-20&g=2025-11-20), dan wel de ontvangst van een verzoek als bedoeld in artikel 6.7, tweede lid, tweede volzin, stelt Onze Minister het termijnbedrag vast dat de debiteur overeenkomstig de [artikelen 6.6 tot en met 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.6&z=2025-11-20&g=2025-11-20) maandelijks moet terugbetalen alsmede de periode waarbinnen dit moet gebeuren.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld voor het geval de debiteur meer betaalt dan het termijnbedrag.
 
 ##### Artikel 6.10. Aanvraag vaststelling draagkracht debiteur
 
-Indien de debiteur niet in staat is het overeenkomstig [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-07-10&g=2025-09-01) vastgestelde termijnbedrag te voldoen, kan hij bij Onze Minister een aanvraag indienen om zijn draagkracht vast te stellen voor de resterende terugbetalingsperiode.
+Indien de debiteur niet in staat is het overeenkomstig [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-11-20&g=2025-11-20) vastgestelde termijnbedrag te voldoen, kan hij bij Onze Minister een aanvraag indienen om zijn draagkracht vast te stellen voor de resterende terugbetalingsperiode.
 
 ##### Artikel 6.11. Berekening draagkracht debiteur
 
@@ -752,9 +752,9 @@ Indien de debiteur niet in staat is het overeenkomstig [artikel 6.9](https://wet
 
 ##### Artikel 6.12. Beschikking aanpassing draagkracht
 
-1. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.10&z=2025-07-10&g=2025-09-01), een beschikking.
+1. Onze Minister geeft binnen acht weken na ontvangst van de aanvraag, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.10&z=2025-11-20&g=2025-11-20), een beschikking.
 
-2. Indien het bedrag van de draagkracht lager is dan het overeenkomstig [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-07-10&g=2025-09-01) vastgestelde termijnbedrag, wordt het termijnbedrag opnieuw vastgesteld met ingang van de eerste dag van de maand volgend op de maand waarin Onze Minister het nieuwe termijnbedrag aan de debiteur bekend heeft gemaakt.
+2. Indien het bedrag van de draagkracht lager is dan het overeenkomstig [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.9&z=2025-11-20&g=2025-11-20) vastgestelde termijnbedrag, wordt het termijnbedrag opnieuw vastgesteld met ingang van de eerste dag van de maand volgend op de maand waarin Onze Minister het nieuwe termijnbedrag aan de debiteur bekend heeft gemaakt.
 
 ##### Artikel 6.13. Verzuim, aanmaning en invordering
 
@@ -762,13 +762,13 @@ Bij ministeriële regeling worden regels gesteld omtrent verzuim, aanmaning en d
 
 ##### Artikel 6.14. Van rechtswege tenietgaan schuld
 
-1. De schuld die bij het einde van de terugbetalingsperiode resteert omdat overeenkomstig [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.12&z=2025-07-10&g=2025-09-01), het termijnbedrag opnieuw is vastgesteld, gaat op dat ogenblik teniet, met uitzondering van achterstallige termijnbedragen.
+1. De schuld die bij het einde van de terugbetalingsperiode resteert omdat overeenkomstig [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=2&artikel=6.12&z=2025-11-20&g=2025-11-20), het termijnbedrag opnieuw is vastgesteld, gaat op dat ogenblik teniet, met uitzondering van achterstallige termijnbedragen.
 
 2. De schuld die resteert bij het overlijden van de debiteur gaat op dat ogenblik teniet.
 
 ##### Artikel 6.15. Termijnverlenging
 
-De termijnen, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.3&z=2025-07-10&g=2025-09-01), worden verlengd met de duur van de periode, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.1&z=2025-07-10&g=2025-09-01).
+De termijnen, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.3&z=2025-11-20&g=2025-11-20), worden verlengd met de duur van de periode, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=2&afdeling=1&artikel=2.1&z=2025-11-20&g=2025-11-20).
 
 #### § 3. Slotbepaling
 
@@ -960,7 +960,7 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), [4]
 
 - a. de datum van vaststelling van het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=15);
 
-- b. het uitblijven van het inburgeringsaanbod, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=16), met het oog op de verlenging, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-07-10&g=2025-09-01) en, indien van toepassing, of de inburgeringsplichtige een niet vrijstellende opleiding volgt als bedoeld in het tweede lid van dat artikel.
+- b. het uitblijven van het inburgeringsaanbod, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=16), met het oog op de verlenging, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-11-20&g=2025-11-20) en, indien van toepassing, of de inburgeringsplichtige een niet vrijstellende opleiding volgt als bedoeld in het tweede lid van dat artikel.
 
 3. Onze Minister verstrekt het college de gegevens over:
 
@@ -976,7 +976,7 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), [4]
 
 - a. de vaststelling van het recht op maatschappelijke begeleiding;
 
-- b. de niet vrijstellende opleiding, bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-07-10&g=2025-09-01).
+- b. de niet vrijstellende opleiding, bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=4&artikel=4.3&z=2025-11-20&g=2025-11-20).
 
 3. De instelling die is belast met de voorinburgering, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=10), verstrekt het college de volgende gegevens over de inburgeringsplichtige:
 
@@ -998,9 +998,9 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), [4]
 
 - b. factuurgegevens.
 
-4. Het college verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-07-10&g=2025-09-01), mede voor het doel, bedoeld in het eerste lid.
+4. Het college verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-11-20&g=2025-11-20), mede voor het doel, bedoeld in het eerste lid.
 
-5. Onze Minister van Justitie en Veiligheid verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.1&z=2025-07-10&g=2025-09-01), mede voor het doel, bedoeld in het eerste lid.
+5. Onze Minister van Justitie en Veiligheid verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.1&z=2025-11-20&g=2025-11-20), mede voor het doel, bedoeld in het eerste lid.
 
 ##### Artikel 9.6. Gegevensuitwisseling ten behoeve van de handhaving van de inburgeringsplicht
 
@@ -1008,9 +1008,9 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), [4]
 
 2. De gegevens die door de instantie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=14), aan het college worden verstrekt, worden mede gebruikt voor het doel, bedoeld in het eerste lid.
 
-3. De gegevens, bedoeld in [artikel 9.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-07-10&g=2025-09-01), die de cursusinstelling verstrekt aan het college, worden mede gebruikt voor het doel, bedoeld in het eerste lid.
+3. De gegevens, bedoeld in [artikel 9.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-11-20&g=2025-11-20), die de cursusinstelling verstrekt aan het college, worden mede gebruikt voor het doel, bedoeld in het eerste lid.
 
-4. Het college verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-07-10&g=2025-09-01), mede voor het doel, bedoeld in het eerste lid, en verstrekt, op verzoek, gegevens over opgelegde boetes.
+4. Het college verstrekt Onze Minister de gegevens, bedoeld in [artikel 9.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=9&artikel=9.2&z=2025-11-20&g=2025-11-20), mede voor het doel, bedoeld in het eerste lid, en verstrekt, op verzoek, gegevens over opgelegde boetes.
 
 5. Onze Minister verstrekt het college gegevens over opgelegde boetes.
 
@@ -1062,7 +1062,7 @@ Ten behoeve van de uitvoering van [artikel 1.6, eerste lid, onderdeel g, van de 
 
 - i. gegevens over een tijdelijke of definitief niet invorderbare schuld terzake van een lening.
 
-3. In afwijking van de in het eerste lid, onderdeel a, genoemde termijn worden de volgende gegevens van personen als bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=19) en [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-07-10&g=2025-09-01) van dit besluit verwijderd na verloop van vijf jaar nadat de lening is voldaan, kwijtgescholden, of teniet gegaan:
+3. In afwijking van de in het eerste lid, onderdeel a, genoemde termijn worden de volgende gegevens van personen als bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=19) en [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.1&z=2025-11-20&g=2025-11-20) van dit besluit verwijderd na verloop van vijf jaar nadat de lening is voldaan, kwijtgescholden, of teniet gegaan:
 
 - a. burgerservicenummer;
 
@@ -1108,15 +1108,17 @@ De instanties, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.ov
 
 1. De voorlopige uitkering voor een gemeente in het uitvoeringsjaar t wordt bepaald aan de hand van de volgende formule:
 
-U = BGO + BA
+U = BGO + BA + ABO
 
 Waarbij:
 
 - a. U de uitkering is in jaar t;
 
-- b. BGO het deel van de uitkering is voor gezinsmigranten en overige migranten; en
+- b. BGO het deel van de uitkering is voor gezinsmigranten en overige migranten;
 
-- c. BA het deel van de uitkering is voor asielstatushouders.
+- c. BA het deel van de uitkering is voor asielstatushouders; en
+
+- d. ABO het deel van de uitkering is dat ziet op het eenmalige aanvullend budget voor de onderwijsroute voor asielstatushouders bij wie in het persoonlijke plan inburgering en participatie, bedoeld in [artikel 15, derde lid, van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=15), de onderwijsroute is vastgelegd.
 
 2. Het deel van de uitkering voor gezinsmigranten en overige migranten, bedoeld in het eerste lid, onderdeel b, wordt berekend aan de hand van de volgende formule:
 
@@ -1187,9 +1189,23 @@ Waarbij:
 
 - f. [a t/m c] staat voor de bedragen per asielstatushouder per variabele in de formule.
 
+6. Het deel van de uitkering voor asielstatushouders in de onderwijsroute, bedoeld in het eerste lid, onderdeel d, wordt berekend aan de hand van de volgende formule:
+
+ABO = GPAS (cohort jaar t) * PA (jaar t) * PO (jaar t) * [a]
+
+Waarbij:
+
+- a. GPAS staat voor de gemeentelijke prognose aantal asielstatushouders in het betreffende jaar;
+
+- b. PA staat voor het te verwachten percentage asielstatushouders in de gemeentelijke huisvestingstaakstelling onderscheidenlijk de gemeentelijke prognose aantal asielstatushouders in het betreffende jaar;
+
+- c. PO staat voor het te verwachten percentage asielstatushouders bij wie in het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=15), de onderwijsroute wordt vastgelegd; en
+
+- d. [a] staat voor het bedrag aan uitkering per asielstatushouder in de onderwijsroute.
+
 ##### Artikel 10.2. Berekening definitieve uitkering gemeente
 
-1. Voor de bepaling van de definitieve uitkering, wordt het deel van de uitkering voor gezinsmigranten en overige migranten, bedoeld in [artikel 10.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), berekend aan de hand van de volgende formule:
+1. Voor de bepaling van de definitieve uitkering, wordt het deel van de uitkering voor gezinsmigranten en overige migranten, bedoeld in [artikel 10.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), berekend aan de hand van de volgende formule:
 
 BGO = AGO (cohort t) * a
 
@@ -1201,7 +1217,7 @@ Waarbij:
 
 - c. a staat voor het bedrag aan uitkering per gezinsmigrant of overige migrant in jaar t.
 
-2. Voor de bepaling van de definitieve uitkering, wordt het totaal beschikbare landelijke budget in jaar t voor asielstatushouders, bedoeld in [artikel 10.1, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), berekend aan de hand van de volgende formule:
+2. Voor de bepaling van de definitieve uitkering, wordt het totaal beschikbare landelijke budget in jaar t voor asielstatushouders, bedoeld in [artikel 10.1, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), berekend aan de hand van de volgende formule:
 
 | TBA = |   | LAA (cohort jaar t) | * [a] |
 | --- | --- | --- | --- |
@@ -1216,7 +1232,7 @@ Waarbij:
 
 - c. [a t/m c] staat voor de bedragen per asielstatushouder per variabele in de formule.
 
-3. Voor de bepaling van de definitieve uitkering, wordt de gemeentelijke grondslag, bedoeld in [artikel 10.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), berekend aan de hand van de volgende formule:
+3. Voor de bepaling van de definitieve uitkering, wordt de gemeentelijke grondslag, bedoeld in [artikel 10.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), berekend aan de hand van de volgende formule:
 
 | GG = |   | AA (cohort jaar t) | * [a] |
 | --- | --- | --- | --- |
@@ -1234,39 +1250,51 @@ Waarbij:
 
 - d. [a t/m d] staat voor de gewichten die toegekend worden aan de afzonderlijke variabelen in de formule.
 
+4. Voor de bepaling van de definitieve uitkering, wordt het deel van de uitkering voor asielstatushouders in de onderwijsroute, bedoeld in [artikel 10.1, eerste lid, onderdeel d, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), berekend aan de hand van de volgende formule:
+
+ABO = AAO (jaar t) * [a]
+
+Waarbij:
+
+- a. AAO staat voor het aantal gehuisveste asielstatushouders in het betreffende jaar bij wie in het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=15), de onderwijsroute is vastgelegd en voor wie niet eerder een aanvullend bedrag is uitgekeerd voor de onderwijsroute; en
+
+- b. [a] staat voor het bedrag aan uitkering per asielstatushouder in de onderwijsroute.
+
 ##### Artikel 10.3. Nadere bepalingen voor de berekening van de uitkering
 
-1. Bij een wijziging van de gemeentelijke indeling wordt voor de bepaling van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), uitgegaan van een redelijke inschatting van de situatie zoals die zou zijn geweest als de instelling, splitsing of opheffing van gemeenten in de van belang zijnde jaren al was ingegaan.
+1. Bij een wijziging van de gemeentelijke indeling wordt voor de bepaling van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), uitgegaan van een redelijke inschatting van de situatie zoals die zou zijn geweest als de instelling, splitsing of opheffing van gemeenten in de van belang zijnde jaren al was ingegaan.
 
-2. Bij ministeriële regeling wordt het te verwachten percentage asielstatushouders in de gemeentelijke huisvestingstaakstelling onderscheidenlijk de gemeentelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en het te verwachten percentage asielstatushouders in de landelijke huisvestingstaakstelling onderscheidenlijk de landelijke prognose aantal asielstatushouders, bedoeld in artikel 10.1, vijfde lid, onderdeel b, vastgesteld.
+2. Bij ministeriële regeling wordt het te verwachten percentage asielstatushouders in de gemeentelijke huisvestingstaakstelling onderscheidenlijk de gemeentelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), het te verwachten percentage asielstatushouders in de onderwijsroute, bedoeld in artikel 10.1, zesde lid, onderdeel c, en het te verwachten percentage asielstatushouders in de landelijke huisvestingstaakstelling onderscheidenlijk de landelijke prognose aantal asielstatushouders, bedoeld in artikel 10.1, vijfde lid, onderdeel b, vastgesteld.
 
-3. Bij ministeriële regeling wordt het bedrag per gezinsmigrant of overige migrant, bedoeld in de [artikelen 10.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en [10.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), en worden de bedragen per asielstatushouder per variabele a tot en met c, bedoeld in de artikelen 10.1, vijfde lid, onderdeel f en 10.2, tweede lid, onderdeel c, vastgesteld.
+3. Bij ministeriële regeling wordt het bedrag per gezinsmigrant of overige migrant, bedoeld in de [artikelen 10.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en [10.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), het aanvullend bedrag per asielstatushouder in de onderwijsroute, bedoeld in artikel 10.1, zesde lid, onderdeel d, en artikel 10.2, vierde lid, onderdeel b, en worden de bedragen per asielstatushouder per variabele a tot en met c, bedoeld in de artikelen 10.1, vijfde lid, onderdeel f en 10.2, tweede lid, onderdeel c, vastgesteld.
 
-4. Bij ministeriële regeling worden de gewichten a tot en met d, bedoeld in [artikel 10.1, vierde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en [10.2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), vastgesteld.
+4. Bij ministeriële regeling worden de gewichten a tot en met d, bedoeld in [artikel 10.1, vierde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en [10.2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), vastgesteld.
 
-5. Bij de berekening van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en de definitieve uitkering, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), zal in het eerste jaar nadat bij ministeriële regeling aan het aantal met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten in jaar t-2, bedoeld in artikelen 10.1, vierde lid, onderdeel e en 10.2, derde lid, onderdeel c, een gewicht wordt toegekend dat groter is dan 0, alle vanaf de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) aangevangen en inmiddels met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten van asielstatushouders tot en met jaar t-2 worden meegeteld.
+5. Bij de berekening van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en de definitieve uitkering, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), zal in het eerste jaar nadat bij ministeriële regeling aan het aantal met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten in jaar t-2, bedoeld in artikelen 10.1, vierde lid, onderdeel e en 10.2, derde lid, onderdeel c, een gewicht wordt toegekend dat groter is dan 0, alle vanaf de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) aangevangen en inmiddels met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten van asielstatushouders tot en met jaar t-2 worden meegeteld.
 
-6. Voor de berekening van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en de definitieve uitkering, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), worden onder asielstatushouders en gezinsmigranten en overige migranten, mede verstaan de personen die in het jaar waarin ze in een Nederlandse gemeente waren gehuisvest onder de definitie vielen van een asielstatushouder of gezinsmigrant of overige migrant, maar die op een peilmoment, bedoeld in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.4&z=2025-07-10&g=2025-09-01), op basis waarvan de uitkering wordt bepaald, reeds aan hun inburgeringsplicht hebben voldaan.
+6. Voor de berekening van de voorlopige uitkering, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en de definitieve uitkering, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), worden onder asielstatushouders en gezinsmigranten en overige migranten, mede verstaan de personen die in het jaar waarin ze in een Nederlandse gemeente waren gehuisvest onder de definitie vielen van een asielstatushouder of gezinsmigrant of overige migrant, maar die op een peilmoment, bedoeld in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.4&z=2025-11-20&g=2025-11-20), op basis waarvan de uitkering wordt bepaald, reeds aan hun inburgeringsplicht hebben voldaan.
 
 ##### Artikel 10.4. Bronnen en peildata gehanteerde gegevens voor de berekening van de uitkering
 
-Voor de variabelen in de formules, bedoeld in de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01) en [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), geldt dat:
+Voor de variabelen in de formules, bedoeld in de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20) en [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), geldt dat:
 
-- a. het aantal gezinsmigranten en overige migranten in de gemeente, bedoeld in [artikel 10.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), wordt bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente ultimo jaar t-2;
+- a. het aantal gezinsmigranten en overige migranten in de gemeente, bedoeld in [artikel 10.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), wordt bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente ultimo jaar t-2;
 
-- b. het aantal gezinsmigranten en overige migranten in de gemeente, bedoeld in [artikel 10.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), wordt bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente ultimo jaar t;
+- b. het aantal gezinsmigranten en overige migranten in de gemeente, bedoeld in [artikel 10.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), wordt bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente ultimo jaar t;
 
-- c. de landelijke huisvestingstaakstelling, bedoeld in [artikel 10.1, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), bepaald wordt aan de hand van de op die jaren betrekking hebbende landelijke halfjaarlijkse huisvestingstaakstellingen van het Ministerie van Justitie en Veiligheid;
+- c. de landelijke huisvestingstaakstelling, bedoeld in [artikel 10.1, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), bepaald wordt aan de hand van de op die jaren betrekking hebbende landelijke halfjaarlijkse huisvestingstaakstellingen van het Ministerie van Justitie en Veiligheid;
 
-- d. de landelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), wordt afgeleid van het voorstel van wet tot vaststelling van de begrotingsstaat voor het jaar t van onze Minister zoals bekend op de derde dinsdag van september voorafgaand aan het betreffende jaar;
+- d. de landelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), wordt afgeleid van het voorstel van wet tot vaststelling van de begrotingsstaat voor het jaar t van onze Minister zoals bekend op de derde dinsdag van september voorafgaand aan het betreffende jaar;
 
-- e. de gemeentelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), wordt vastgesteld op basis van de landelijke prognose aantal asielstatushouders, bedoeld in artikel 10.1, vijfde lid, onderdeel a, en wordt verdeeld onder gemeenten op basis van het aantal inwoners conform de formule, bedoeld in [artikel 29, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=29), met dien verstande dat voor de toepassing van deze formule in plaats van «vg» moet worden gelezen «landelijke prognose aantal asielstatushouders»;
+- e. de gemeentelijke prognose aantal asielstatushouders, bedoeld in [artikel 10.1, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en artikel 10.1, zesde lid, onderdeel a, wordt vastgesteld op basis van de landelijke prognose aantal asielstatushouders, bedoeld in artikel 10.1, vijfde lid, onderdeel a, en wordt verdeeld onder gemeenten op basis van het aantal inwoners conform de formule, bedoeld in [artikel 29, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=29), met dien verstande dat voor de toepassing van deze formule in plaats van «vg» moet worden gelezen «landelijke prognose aantal asielstatushouders»;
 
-- f. het landelijk voorlopig aantal asielstatushouders, bedoeld in [artikel 10.1, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en het voorlopig aantal asielstatushouders, bedoeld in artikel 10.1, vierde lid, onderdeel c, worden bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente jaar t-2;
+- f. het landelijk voorlopig aantal asielstatushouders, bedoeld in [artikel 10.1, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en het voorlopig aantal asielstatushouders, bedoeld in artikel 10.1, vierde lid, onderdeel c, worden bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente jaar t-2;
 
-- g. het landelijk aantal asielstatushouders, bedoeld in [artikel 10.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), en het aantal asielstatushouders, bedoeld in artikel 10.2, derde lid, onderdeel a, worden bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente jaar t;
+- g. het landelijk aantal asielstatushouders, bedoeld in [artikel 10.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), en het aantal asielstatushouders, bedoeld in artikel 10.2, derde lid, onderdeel a, worden bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente jaar t;
 
-- h. het aantal met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten van asielstatushouders, bedoeld in de [artikelen 10.1, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-07-10&g=2025-09-01), en [10.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-07-10&g=2025-09-01), wordt bepaald aan de hand van cijfers van DUO over het gehele jaar t-2.
+- h. het aantal met een inburgeringsdiploma of inburgeringscertificaat afgeronde inburgeringstrajecten van asielstatushouders, bedoeld in de [artikelen 10.1, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.1&z=2025-11-20&g=2025-11-20), en [10.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), wordt bepaald aan de hand van cijfers van DUO over het gehele jaar t-2;
+
+- i. Het landelijk aantal asielstatushouders in de onderwijsroute, bedoeld in [artikel 10.2, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=10&artikel=10.2&z=2025-11-20&g=2025-11-20), wordt bepaald aan de hand van gegevens van DUO met als peildatum voor de woongemeente ultimo jaar t.
 
 ##### Artikel 10.5. Reserveringsregeling
 
@@ -1310,7 +1338,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6.2a. Verstrekken van een lening aan anderen dan inburgeringsplichtigen
 
-1. [Artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.2&z=2025-07-10&g=2025-09-01), is niet van toepassing op de persoon, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=3), die rechtmatig verblijf verkrijgt als bedoeld in [artikel 8, onderdeel e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+1. [Artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=6&afdeling=1&artikel=6.2&z=2025-11-20&g=2025-11-20), is niet van toepassing op de persoon, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=3), die rechtmatig verblijf verkrijgt als bedoeld in [artikel 8, onderdeel e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. Aan de persoon, bedoeld in het eerste lid, kan op aanvraag een lening van ten hoogste € 10.000 worden verstrekt ten behoeve van de kosten voor:
 
@@ -1360,6 +1388,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-## Bijlage. Participatieverklaring als bedoeld in [artikel 3.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=1&artikel=3.1&z=2025-07-10&g=2025-09-01)
+## Bijlage. Participatieverklaring als bedoeld in [artikel 3.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&hoofdstuk=3&afdeling=1&artikel=3.1&z=2025-11-20&g=2025-11-20)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
