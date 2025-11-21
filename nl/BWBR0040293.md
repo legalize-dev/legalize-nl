@@ -4,7 +4,7 @@ identifier: "BWBR0040293"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-16"
-last_updated: "2025-11-19"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040293"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **bestuursdepartement:** de departementsleiding alsmede de beleids-, staf- en bedrijfsvoeringonderdelen ter ondersteuning van de departementsleiding;
 
-- e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-19&g=2025-11-19).
+- e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-21&g=2025-11-21).
 
 ##### Artikel 2
 
@@ -116,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
+1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
 
 - a. het Centraal Orgaan opvang asielzoekers;
 
@@ -144,17 +144,17 @@ In dit besluit wordt verstaan onder:
 
 - m. de Autoriteit online Terroristisch en Kinderpornografisch materiaal (ATKM).
 
-2. De secretaris-generaal wordt bij afwezigheid vervangen door de plaatsvervangend secretaris-generaal. Bij afwezigheid van de secretaris-generaal en de plaatsvervangend secretaris-generaal vindt vervanging plaats door de hoofddirecteur bedrijfsvoering. Bij afwezigheid van zowel de secretaris-generaal, de plaatsvervangend secretaris-generaal als de hoofddirecteur bedrijfsvoering vindt vervanging plaats door een van de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) of de Nationaal Coördinator Terrorismebestrijding en Veiligheid, in volgorde van de datum van benoeming. De plaatsvervangend secretaris-generaal en de hoofddirecteur bedrijfsvoering zullen elkaar bij afwezigheid vervangen.
+2. De secretaris-generaal wordt bij afwezigheid vervangen door de plaatsvervangend secretaris-generaal. Bij afwezigheid van de secretaris-generaal en de plaatsvervangend secretaris-generaal vindt vervanging plaats door de hoofddirecteur bedrijfsvoering. Bij afwezigheid van zowel de secretaris-generaal, de plaatsvervangend secretaris-generaal als de hoofddirecteur bedrijfsvoering vindt vervanging plaats door een van de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) of de Nationaal Coördinator Terrorismebestrijding en Veiligheid, in volgorde van de datum van benoeming. De plaatsvervangend secretaris-generaal en de hoofddirecteur bedrijfsvoering zullen elkaar bij afwezigheid vervangen.
 
 3. De hoofden van de clusters zijn belast met de beleids- en bedrijfsvoering van de tot hun cluster behorende onderdelen tenzij anders is bepaald.
 
-4. De directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), de directeur Wetgeving en Juridische Zaken en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vervullen de rol van opdrachtgever als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’.
+4. De directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), de directeur Wetgeving en Juridische Zaken en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vervullen de rol van opdrachtgever als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’.
 
-5. De hoofden van de diensten, baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), de zelfstandige bestuursorganen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-19&g=2025-11-19), en het secretariaat van het Schadefonds Geweldsmisdrijven vervullen de rol van opdrachtnemer als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286).
+5. De hoofden van de diensten, baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), de zelfstandige bestuursorganen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-21&g=2025-11-21), en het secretariaat van het Schadefonds Geweldsmisdrijven vervullen de rol van opdrachtnemer als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286).
 
 6. Eén van de tot het directoraat-generaal behorende directeuren wordt op voordracht van de desbetreffende directeur-generaal namens de bewindspersoon door de secretaris-generaal aangewezen als plaatsvervangend directeur-generaal. Het voorgaande is van overeenkomstige toepassing op de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de inspecteur-generaal van de Inspectie Justitie en Veiligheid.
 
-7. De secretaris-generaal (voorzitter), de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vormen samen de bestuursraad. De bestuursraad formuleert de ministeriebrede en gemeenschappelijke kaders en bewaakt dat de activiteiten en het beleid van de onderscheiden clusters daarbinnen blijven.
+7. De secretaris-generaal (voorzitter), de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vormen samen de bestuursraad. De bestuursraad formuleert de ministeriebrede en gemeenschappelijke kaders en bewaakt dat de activiteiten en het beleid van de onderscheiden clusters daarbinnen blijven.
 
 De voorzitter van het College van procureurs-generaal, de directeur-generaal van de Dienst Justitiële Inrichtingen, de directeur-generaal van de Immigratie- en Naturalisatiedienst en de korpschef van de Nationale Politie nemen als toehoorder deel aan de bestuursraad.
 
@@ -324,7 +324,7 @@ De directie Innovatie, Kennis en Strategie is belast met het versterken van de f
 
 - d. de advisering over kaders en richtlijnen voor diensten en verzelfstandigde organisaties en het coördineren van ontwikkelingen daaromtrent.
 
-2. Het aandachtsgebied van de taken van de DEA omvat de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-19&g=2025-11-19).
+2. Het aandachtsgebied van de taken van de DEA omvat de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-21&g=2025-11-21).
 
 ##### Artikel 13
 
@@ -368,7 +368,7 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - d. dienstverlening op het terrein van bedrijfsvoering ter ondersteuning van de primaire processen op het bestuursdepartement.
 
-2. De hoofddirectie bedrijfsvoering is tevens belast met de advisering en ondersteuning van de eigenaar ten aanzien van de organisaties genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-19&g=2025-11-19), tweede lid.
+2. De hoofddirectie bedrijfsvoering is tevens belast met de advisering en ondersteuning van de eigenaar ten aanzien van de organisaties genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2025-11-21&g=2025-11-21), tweede lid.
 
 3. De hoofddirectie bedrijfsvoering bestaat uit de Landelijke Eenheid Vertrouwenspersonen en de volgende dienstonderdelen:
 
@@ -492,21 +492,21 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 
 ##### Artikel 18b
 
-1. De directie Openbaarmaking is belast met de kerntaken:
+1. De directie Openbaarmaking is belast met de volgende kerntaken:
 
-- a. Passieve openbaarmaking;
+- a. Openbaarmaking op verzoek, waaronder het uitvoeren, opstellen van beleid alsmede adviseren hierover;
 
-- b. Actieve openbaarmaking;
+- b. Openbaarmaking uit eigen beweging, waaronder het opstellen van beleid voor, en het faciliteren van openbaarmaking uit eigen beweging alsmede het adviseren hierover;
 
-- c. (Onderzoeks-)commissies & parlementaire enquêtes.
+- c. Het coördineren en faciliteren van parlementaire enquêtes alsook onderzoekscommissies van gelijksoortige insteek.
 
 2. De directie Openbaarmaking bestaat uit:
 
-- a. de afdeling Passieve openbaarmaking;
+- a. de afdeling Openbaarmaking (OBM);
 
-- b. het team Staf;
+- b. de afdeling Beleid, Strategie en Informatie (BSI);
 
-- c. het team Verkenning, ontwikkeling en ondersteuning.
+- c. de programma-afdeling Parlementaire Enquête Corona (PECO).
 
 ### Hoofdstuk 4. Directoraat-generaal Straffen en Beschermen (DGSenB)
 
@@ -608,7 +608,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 ##### Artikel 23
 
-1. De directie Advies, Regie en Centrale autoriteit (DARC) is belast met financiële advisering aan de directeur-generaal en de directeuren van de andere onderdelen als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2025-11-19&g=2025-11-19). Deze advisering heeft in ieder geval betrekking op uitvoeringsdiensten, zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en gesubsidieerde organisaties op het terrein van het directoraat-generaal, voor zover het geen taak van DFEZ of DEA betreft.
+1. De directie Advies, Regie en Centrale autoriteit (DARC) is belast met financiële advisering aan de directeur-generaal en de directeuren van de andere onderdelen als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2025-11-21&g=2025-11-21). Deze advisering heeft in ieder geval betrekking op uitvoeringsdiensten, zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en gesubsidieerde organisaties op het terrein van het directoraat-generaal, voor zover het geen taak van DFEZ of DEA betreft.
 
 2. Daarnaast is de directie belast met:
 
@@ -636,7 +636,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 5. Het team Subsidieportaal, genoemd in het zevende lid, onder d, is belast met:
 
-- a. het voor de hoofden van de clusters, bedoeld in [artikel 2, tweede lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), voorbereiden en uitvoeren van beslissingen met betrekking tot subsidies en financiële bijdragen aan medeoverheden met uitzondering van subsidies en bijdragen aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, alsmede met uitzondering van EU-subsidies;
+- a. het voor de hoofden van de clusters, bedoeld in [artikel 2, tweede lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), voorbereiden en uitvoeren van beslissingen met betrekking tot subsidies en financiële bijdragen aan medeoverheden met uitzondering van subsidies en bijdragen aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, alsmede met uitzondering van EU-subsidies;
 
 - b. de feitelijke uitvoering van betaalopdrachten ter uitvoering van beslissingen als bedoeld in onderdeel a, voor zover de beslissingsbevoegde daartoe machtiging heeft verleend;
 
@@ -1484,7 +1484,7 @@ Het secretariaat van het Schadefonds Geweldsmisdrijven (secretariaat SGM) is bel
 
 ##### Artikel 64
 
-Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) genoemde dienstonderdelen en daaronder ressorterende dienstonderdelen liggen voor het daarbij werkzame personeel ter inzage:
+Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) genoemde dienstonderdelen en daaronder ressorterende dienstonderdelen liggen voor het daarbij werkzame personeel ter inzage:
 
 - a. een exemplaar van dit besluit;
 
@@ -1498,13 +1498,13 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ##### Artikel 66
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport en, voor zover van toepassing, een taakbesluit en een baten-lastenagentschapsregeling.
+1. Elk onderdeel dat ressorteert onder de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport en, voor zover van toepassing, een taakbesluit en een baten-lastenagentschapsregeling.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen a, b, i of j en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), of het secretariaat van het Schadefonds Geweldsmisdrijven, is de secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen a, b, i of j en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), of het secretariaat van het Schadefonds Geweldsmisdrijven, is de secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
-3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19), is de directeur-generaal onder wie het onderdeel ressorteert, bevoegd het document namens de bewindspersoon vast te stellen.
+3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21), is de directeur-generaal onder wie het onderdeel ressorteert, bevoegd het document namens de bewindspersoon vast te stellen.
 
-4. De secretaris-generaal respectievelijk de directeur-generaal van de clusters als bedoeld in [artikel 2, tweede lid, onderdelen d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-19&g=2025-11-19) kan de in het tweede respectievelijk derde lid bedoelde bevoegdheid mandateren aan een onder hem ressorterende ambtenaar.
+4. De secretaris-generaal respectievelijk de directeur-generaal van de clusters als bedoeld in [artikel 2, tweede lid, onderdelen d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2025-11-21&g=2025-11-21) kan de in het tweede respectievelijk derde lid bedoelde bevoegdheid mandateren aan een onder hem ressorterende ambtenaar.
 
 5. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. De directeur Financieel Economische Zaken en de directeur Personeel en Organisatie adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
@@ -1520,7 +1520,7 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 2. Besluiten of handelingen die vóór de inwerkingtreding van dit besluit namens de bewindspersoon zijn genomen of verricht door een functionaris van een dienstonderdeel zoals dat dienstonderdeel vóór 26 oktober 2017 werd aangeduid, behouden hun rechtskracht.
 
-3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2025-11-19&g=2025-11-19) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2025-11-19&g=2025-11-19) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
+3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2025-11-21&g=2025-11-21) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2025-11-21&g=2025-11-21) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
 
 4. Ondermandaten, volmachten en machtigingen verleend door of namens de directeur-generaal Politie dan wel de directeur-generaal Straffen en beschermen blijven van kracht.
 
