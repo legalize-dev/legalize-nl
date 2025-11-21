@@ -4,7 +4,7 @@ identifier: "BWBR0051334"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-11-21"
-last_updated: "2025-07-30"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051334"
 soort: "zbo"
@@ -92,7 +92,7 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 12 maanden voor 
 
 ##### Artikel 1.5. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal 738.000 euro beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in totaal 861.000 euro beschikbaar.
 
 2. Als op grond van de beoordeling de in aanmerking komende aanvragen leiden tot overschrijding van het subsidieplafond, weigert het Stimuleringsfonds een subsidie voor zover door de verstrekking van de subsidie het subsidieplafond zou worden overschreden.
 
@@ -120,7 +120,7 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 12 maanden voor 
 
 ##### Artikel 2.1. Subsidieaanvrager
 
-1. Subsidie kan uitsluitend worden aangevraagd door nieuwsorganisaties als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=1&artikel=1.1&z=2025-07-30&g=2025-07-30).
+1. Subsidie kan uitsluitend worden aangevraagd door nieuwsorganisaties als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=1&artikel=1.1&z=2025-11-21&g=2025-11-21).
 
 2. Een nieuwsorganisatie kan op grond van deze regeling slechts één keer subsidie aanvragen.
 
@@ -146,7 +146,7 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 12 maanden voor 
 
 - h). indien aanwezig de meest recente jaarrekening en het meest recente jaarverslag.
 
-2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.3&z=2025-07-30&g=2025-07-30), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
+2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.3&z=2025-11-21&g=2025-11-21), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
 
 ##### Artikel 2.3. Termijn aanvraag
 
@@ -162,7 +162,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a). de aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.1&z=2025-07-30&g=2025-07-30). Subsidieaanvragers die behoren tot fase 3 worden tevens beoordeeld aan de hand van het volgende drempelcriterium:
+- a). de aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.1&z=2025-11-21&g=2025-11-21). Subsidieaanvragers die behoren tot fase 3 worden tevens beoordeeld aan de hand van het volgende drempelcriterium:
 
 - b). 20 procent van de kosten die voor subsidie in aanmerking komen wordt bekostigd door de subsidieaanvrager zelf.
 
@@ -170,7 +170,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.3. Inhoudelijke criteria
 
-1. Alleen indien de aanvraag voldoet aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=3&artikel=3.2&z=2025-07-30&g=2025-07-30), wordt de aanvraag beoordeeld aan de hand van de volgende inhoudelijke criteria:
+1. Alleen indien de aanvraag voldoet aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=3&artikel=3.2&z=2025-11-21&g=2025-11-21), wordt de aanvraag beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
 - a). **Redactionele leiding:** in welke mate is de redactionele leiding betrokken bij dit project en worden journalisten adequaat begeleid?
 
@@ -184,7 +184,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.4. Beoordeling inhoudelijke criteria en rangschikking
 
-1. Het Stimuleringsfonds weegt bij de beoordeling van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=3&artikel=3.3&z=2025-07-30&g=2025-07-30) mee in welke ontwikkelingsfase de aanvrager zich bevindt.
+1. Het Stimuleringsfonds weegt bij de beoordeling van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=3&artikel=3.3&z=2025-11-21&g=2025-11-21) mee in welke ontwikkelingsfase de aanvrager zich bevindt.
 
 2. Bij beoordeling op de inhoudelijke criteria 'Redactionele leiding', 'Visie' en 'Duurzaamheid' wordt het oordeel door het Stimuleringsfonds vertaald in een waardering per criterium. Hierbij wordt gewerkt met een systeem waarin deze waardering wordt omgezet in een cijfer. Zowel de waardering als het cijfer staan op zichzelf; aanvragen worden niet direct met elkaar vergeleken.
 
@@ -220,7 +220,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.5. Besluit
 
-Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.3&z=2025-07-30&g=2025-07-30) en maakt het besluit bekend aan de aanvrager.
+Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=2&artikel=2.3&z=2025-11-21&g=2025-11-21) en maakt het besluit bekend aan de aanvrager.
 
 ##### Artikel 3.6. Subsidiehoogte
 
@@ -262,7 +262,7 @@ Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voors
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 31 januari 2027 ingediend.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=5&artikel=5.2&z=2025-07-30&g=2025-07-30).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051334&hoofdstuk=5&artikel=5.2&z=2025-11-21&g=2025-11-21).
 
 ##### Artikel 5.2. Inhoudelijk verslag en financieel verslag
 
