@@ -4,7 +4,7 @@ identifier: "BWBR0010591"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2021-06-07"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010591"
 soort: "wet"
@@ -190,6 +190,8 @@ Het recht, bedoeld in artikel 2, eerste lid, komt toe aan:
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, is niet van toepassing op databanken waarvan de openbare macht de producent is, tenzij het recht hetzij in het algemeen bij de wet, besluit of verordening, hetzij in een bepaald geval blijkens mededeling op de databank zelf of bij de terbeschikkingstelling aan het publiek van de databank uitdrukkelijk is voorbehouden.
 
+Het recht, bedoeld in artikel 2, eerste lid, is niet van toepassing wanneer gegevens worden verkregen uit of gegenereerd door een verbonden product of gerelateerde dienst als bedoeld in artikel 43 van [Verordening (EU) 2023/2854](32023R2854) van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van [Verordening (EU) 2017/2394](32017R2394) en [Richtlijn (EU) 2020/1828](32020L1828) (Dataverordening).
+
 Deze wet wordt aangehaald als: Databankenwet.
 
 ##### ARTIKEL II
@@ -202,7 +204,7 @@ Wijzigt de Auteurswet 1912.
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.
 
-B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2021-06-07&g=2021-06-07) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
+B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2025-11-21&g=2025-11-21) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
 C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
