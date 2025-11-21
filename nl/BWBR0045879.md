@@ -4,7 +4,7 @@ identifier: "BWBR0045879"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-11-21"
-last_updated: "2025-05-01"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045879"
 soort: "zbo"
@@ -56,11 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- f. **teammanagers:** de teammanagers van de Dienst Nederlandse Emissieautoriteit;
-
-- g. **projectdirecteur CBAM Toelatingstaak:** de Projectdirecteur CBAM Toelatingstaak van PricewaterhouseCoopers Advisory N.V., dan wel diens plaatsvervanger;
-
-- h. **Verordening koolstofcorrectie aan de grens:** [Verordening (EU) 2023/956](32023R0956) van het Europees Parlement en de Raad van 10 mei 2023 tot instelling van een mechanisme voor koolstofgrenscorrectie (PbEU 2023, L130).
+- f. **teammanagers:** de teammanagers van de Dienst Nederlandse Emissieautoriteit.
 
 #### § 2. Taakverdeling
 
@@ -134,9 +130,13 @@ Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende mede
 
 - e. het besluit inzake het virtueel locatiebezoek door de verificateur;
 
-**afdeling energie voor vervoer**
+- f. een aanvraag voor de status van toegelaten CBAM-aangever;
 
-- f. de opening, opschorting of sluiting rekening in het Register hernieuwbare energie.
+- g. de intrekking van de status van toegelaten CBAM-aangever;
+
+**afdeling hernieuwbare energie**
+
+- h. de opening, opschorting of sluiting rekening in het Register hernieuwbare energie voor vervoer.
 
 ##### Artikel 2b
 
@@ -162,11 +162,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 2c
 
-Aan de projectdirecteur CBAM Toelatingstaak wordt mandaat verleend voor het nemen van besluiten op grond van artikel 17 van de Verordening koolstofcorrectie aan de grens:
-
-- a. op een aanvraag voor de status van toegelaten CBAM-aangever;
-
-- b. over de intrekking van de status van toegelaten CBAM-aangever.
+Vervallen
 
 #### § 3. Vervanging
 
