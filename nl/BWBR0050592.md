@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-11-08"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -107,6 +107,7 @@ Besluiten:
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 06-05-2025 t/m 01-07-2025 | € 200.000 |
 | [Titel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.25): High-performance computing-projecten (HPC-projecten) | [3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | Digital Autonomy for RISC-V in Europe (DARE) | Digital Autonomy for RISC-V in Europe (DARE) | 15-12-2024 t/m 31-01-2025 | € 7.500.000 |
 |   | [artikel 3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | European Quantum Excellence Centres in applications for science and industry | European Quantum Excellence Centres in applications for science and industry | 01-05-2025 t/m 31-05-2025 | € 1.000.000 |
+| [Titel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.26): Regeneratief geneeskundige onderzoeksprojecten | Artikel 3.26, eerste lid |   |   |   | 24-11-2025 t/m 17-02-2026 | € 10.000.000 |
 | [Titel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.28): Programma Digitaal Europa | [3.28.2, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 100.000 |
 |   | [3.28.2, eerste lid, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 1.250.000 |
 |   | [3.28.2, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   |   | 07-04-2025 t/m 18-04-2025 | € 2.000.000 |
