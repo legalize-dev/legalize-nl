@@ -4,7 +4,7 @@ identifier: "BWBR0050482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2025-07-09"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050482"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - **opleidingsproject:** opleidingsactiviteiten die te onderscheiden zijn naar de aard, omvang, duur of wijze van uitvoering;
 
-- **organisatorisch verband:** organisatorisch verband dat medisch specialistische zorg, als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), verleent waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en op 1 januari 2024 beschikt over een AGB-code die begint met 06, 18, 19, 20 of 22;
+- **organisatorisch verband:** organisatorisch verband dat medisch specialistische zorg, als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), verleent waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en op 1 januari 2025 beschikt over een AGB-code die begint met 06, 18, 19, 20 of 22;
 
 - **strategisch opleidingsplan:** met een werknemersvertegenwoordiging afgestemd meerjarig strategisch opleidingsplan waarin de inhoudelijke prioriteiten wat betreft het opleiden van personeel zijn opgenomen en wordt ingegaan op tenminste één of meer van de volgende thema’s:
 
@@ -140,11 +140,9 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 1. De Minister kan op aanvraag aan een instelling ten behoeve van een organisatorisch verband subsidie verstrekken voor een opleidingsproject dat past of meerdere opleidingsprojecten die passen binnen het jaarplan.
 
-2. In aanvulling op het eerste lid geldt dat in een subsidiejaar ten hoogste voor vijftien opleidingsprojecten subsidie kan worden verstrekt.
+2. In afwijking van het eerste lid wordt geen subsidie verstrekt ten behoeve van een organisatorisch verband dat uitsluitend geneeskundige geestelijke gezondheidszorg verleent.
 
-3. In afwijking van het eerste lid wordt geen subsidie verstrekt ten behoeve van een organisatorisch verband dat uitsluitend geneeskundige geestelijke gezondheidszorg verleent.
-
-4. Het opleidingsproject, bedoeld in het eerste lid, is subsidiabel voor zover het wordt verricht in het subsidiejaar waarvoor de subsidie wordt verleend.
+3. Het opleidingsproject, bedoeld in het eerste lid, is subsidiabel voor zover het wordt verricht in het subsidiejaar waarvoor de subsidie wordt verleend.
 
 ##### Artikel 4. Weigeringsgronden
 
@@ -158,17 +156,15 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 - c. voor opleidingen waarvoor de Minister op grond van de [Subsidieregeling stageplaatsen zorg II](https://wetten.overheid.nl/jci1.3:c:BWBR0030326) een subsidie kan verstrekken;
 
-- d. voor opleidingen waarvoor de Minister op grond van de [Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0020517) een subsidie kan verstrekken;
+- d. voor opleidingen waarvoor de Minister op grond van de [Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0020517) een subsidie kan verstrekken.
 
-- e. voor opleidingen waarvoor al subsidie is verstrekt op grond van de projectsubsidie SectorplanPlus.
-
-3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2025-07-09&g=2025-07-09), heeft ingediend.
+3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2025-11-22&g=2025-11-22), heeft ingediend.
 
 ##### Artikel 5. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 95.765.186,76.
+1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 99.337.000.
 
-2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 23.432.813,24.
+2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 24.307.000.
 
 ##### Artikel 6. Verdeling in geval van overschrijding subsidieplafond instellingen niet zijnde een universitair medisch centrum
 
@@ -202,13 +198,15 @@ waarbij wordt verstaan onder:
 
 - G:. het aanvullende beschikbare subsidiebedrag ten behoeve van het organisatorische verband.
 
-4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast totdat het volledige subsidieplafond is bereikt.
+4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast tot ten hoogste het per instelling aangevraagde bedrag en totdat het volledige subsidieplafond is bereikt.
 
-5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-07-09&g=2025-07-09), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
+5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
 
-In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor universitair medische centra verdeeld op basis van ten hoogste de volgende percentages:
+1.
+
+In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor universitair medische centra verdeeld op basis van de volgende percentages tot ten hoogste het aangevraagde subsidiebedrag:
 
 | Universitair Medisch Centrum | Percentage dat ten hoogste beschikbaar is |
 | --- | --- |
@@ -220,6 +218,22 @@ In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het
 | Universitair Medisch Centrum Utrecht | 14,30% |
 | Erasmus Universitair Medisch Centrum Rotterdam | 16,56% |
 
+2. Indien na de verdeling op basis van de percentages in het eerste lid het subsidieplafond niet volledig wordt benut, wordt het resterende subsidiebedrag verdeeld over de universitair medische centra waarvan het aangevraagde subsidiebedrag hoger is dan de uitkomst op basis van de percentages.
+
+3. Bij een verdeling als bedoeld in het tweede lid, geldt de formule:
+
+(P/(100%-U))*R
+
+waarbij wordt verstaan onder:
+
+P: het percentage van de subsidie dat ten hoogste beschikbaar is voor de aanvrager op basis van het eerste lid;
+
+U: de som van de percentages van de subsidie dat ten hoogste beschikbaar is voor de aanvragers die het volledige door hen aangevraagde subsidiebedrag reeds verleend zouden krijgen op basis van het eerste lid, of door herhaalde toepassing van deze formule op basis van het vierde lid;
+
+R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van subsidie op basis van het eerste lid, of door herhaalde toepassing van deze formule op basis van het vierde lid.
+
+4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast tot ten hoogste het per universitair medisch centrum aangevraagde bedrag en totdat het volledige subsidieplafond is bereikt.
+
 ##### Artikel 8. Hoogte van de subsidie en subsidiabele kosten
 
 1. Subsidie die wordt verstrekt op grond van deze regeling bedraagt per opleidingsproject ten hoogste 50% van de subsidiabele kosten.
@@ -230,7 +244,7 @@ In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het
 
 4. De hoogte van de subsidie wordt berekend op basis van de daadwerkelijk gemaakte kosten per opleidingsproject.
 
-5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2025-07-09&g=2025-07-09).
+5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2025-11-22&g=2025-11-22).
 
 ##### Artikel 9. Aanvraag tot verlening
 
@@ -246,17 +260,27 @@ In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het
 
 - e. verklaring van een werknemersvertegenwoordiging waaruit blijkt dat deze met het jaarplan heeft ingestemd;
 
-- f. jaarrekening van het tweede jaar voorafgaand aan het subsidiejaar.
+- f. een door een accountant gewaarmerkte jaarrekening van het tweede jaar voorafgaand aan het subsidiejaar.
 
-2. In afwijking van het eerste lid, onderdeel f, hoeft een aanvraag tot verlening niet van een jaarrekening vergezeld gaan indien de aanvrager reeds een door een accountant gewaarmerkte jaarrekening van het betreffende jaar beschikbaar heeft gesteld op DigiMV.
+2. In afwijking van het eerste lid, onderdeel f, hoeft een aanvraag tot verlening niet van een gewaarmerkte jaarrekening vergezeld te gaan indien de aanvrager:
+
+- a. in het tweede en derde jaar voorafgaand aan het subsidiejaar aan ten minste twee van de volgende voorwaarden heeft voldaan: of
+
+- 1°. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 7.500.000;
+
+- 2°. de netto-omzet over het boekjaar bedraagt niet meer dan € 15.000.000; of
+
+- 3°. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 50;
+
+- b. een door een accountant gewaarmerkte jaarrekening van het betreffende tweede jaar voorafgaand aan het subsidiejaar beschikbaar heeft gesteld op DigiMV.
 
 3. Voor de aanvraag, het activiteitenplan en begroting wordt een door de Minister vastgesteld formulier gebruikt.
 
 4. De aanvraag wordt ondertekend door een persoon die bevoegd is de instelling te vertegenwoordigen.
 
-5. De aanvraag voor het subsidiejaar 2025 wordt uiterlijk 30 december 2024 om 16.00 uur ontvangen en wordt voor het subsidiejaar 2026 uiterlijk 30 december 2025 om 16.00 uur ontvangen.
+5. De aanvraag voor het subsidiejaar 2026 kan worden ingediend van 8 december 2025 09:00 uur tot en met 30 december 2025 13:00 uur.
 
-6. Een aanvraag die na de termijn, bedoeld in het vierde lid, wordt ontvangen, wordt afgewezen.
+6. Een aanvraag die na de termijn, bedoeld in het vijfde lid, wordt ontvangen, wordt afgewezen.
 
 7. Op verzoek van de Minister legt de instelling een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd over.
 
@@ -266,7 +290,7 @@ In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het
 
 ##### Artikel 10. Meldingsplicht
 
-1. De subsidieontvanger meldt onverwijld schriftelijk aan de Minister indien aannemelijk is geworden dat meer dan 15% van het verleende subsidiebedrag niet kan worden besteed.
+1. Een melding als bedoeld in [artikel 5.7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7) wordt in elk geval onverwijld schriftelijk gedaan indien aannemelijk is geworden dat 15% of meer van het verleende subsidiebedrag niet kan worden besteed.
 
 2. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
@@ -280,9 +304,9 @@ De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 2. In aanvulling op [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) gaat het financieel verslag voor de gerealiseerde kosten en opbrengsten van de activiteiten waarvoor subsidie is verleend vergezeld van een controleverklaring, opgesteld door een accountant overeenkomstig een door de Minister vastgesteld en bekendgemaakt accountantsprotocol.
 
-3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-07-09&g=2025-07-09) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
+3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
 
-##### Artikel 13. Vaststelling
+##### Artikel 13. Steekproef
 
 De Minister kan een steekproef bij aanvragen tot € 125.000 uitvoeren voorafgaand aan de vaststelling van de subsidie. Hiervoor wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -300,49 +324,49 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Deze regeling wordt aangehaald als: Subsidieregeling Strategisch opleiden MSZ.
 
-## Bijlage I. Standaarduurtarieven per schaal voor personele kosten behorend bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=8&z=2025-07-09&g=2025-07-09)
+## Bijlage I. Standaarduurtarieven per schaal voor personele kosten behorend bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=8&z=2025-11-22&g=2025-11-22)
 
 In het kader van een subsidieaanvraag en de verantwoording daarvan kan voor het berekenen van de personele kosten worden gekozen voor het laagste uurtarief per salarisschaal van de desbetreffende functiegroep waartoe aan opleidingsactiviteiten deelnemende medewerkers behoren. Het standaarduurtarief is per salarisschaal vastgesteld in deze bijlage.
 
 De formule voor het berekenen van het standaarduurtarief per salarisschaal houdt in ((12 maanden * bruto maandloon * vakantiegeldtoeslag conform CAO * eindejaarsuitkering conform CAO)* werkgeverslasten 30%) / werkbare uren = standaarduurtarief.
 
-| Functiegroep / Salarisschaal | Standaarduurtarief |
+| Salarisschaal / Functiegroep | Standaarduurtarief |
 | --- | --- |
-| 5 | € 28,77 |
-| 10 | € 28,77 |
-| 15 | € 28,77 |
-| 20 | € 28,77 |
-| 25 | € 28,77 |
-| 30 | € 29,55 |
-| 35 | € 29,55 |
-| 40 | € 29,55 |
-| 45 | € 33,53 |
-| 50 | € 36,55 |
-| 55 | € 41,68 |
-| 60 | € 48,05 |
-| 65 | € 54,59 |
-| 70 | € 65,19 |
-| 75 | € 77,39 |
-| 80 | € 89,79 |
+| 5 | € 29,36 |
+| 10 | € 29,36 |
+| 15 | € 29,36 |
+| 20 | € 29,36 |
+| 25 | € 30,15 |
+| 30 | € 30,15 |
+| 35 | € 30,15 |
+| 40 | € 30,15 |
+| 45 | € 34,20 |
+| 50 | € 37,29 |
+| 55 | € 42,52 |
+| 60 | € 49,02 |
+| 65 | € 55,68 |
+| 70 | € 66,50 |
+| 75 | € 78,94 |
+| 80 | € 91,59 |
 
 | Salarisschaal / Functiegroep | Standaarduurtarief |
 | --- | --- |
-| 5 | € 29,08 |
-| 10 | € 29,08 |
-| 15 | € 29,08 |
-| 20 | € 29,08 |
-| 25 | € 29,08 |
-| 30 | € 29,08 |
-| 35 | € 29,08 |
-| 40 | € 30,42 |
-| 45 | € 35,70 |
-| 50 | € 38,30 |
-| 55 | € 43,17 |
-| 60 | € 46,97 |
-| 65 | € 53,36 |
-| 70 | € 64,03 |
-| 75 | € 75,60 |
-| 80 | € 87,39 |
+| 5 | € 30,27 |
+| 10 | € 30,27 |
+| 15 | € 30,27 |
+| 20 | € 30,27 |
+| 25 | € 30,27 |
+| 30 | € 30,27 |
+| 35 | € 30,27 |
+| 40 | € 31,64 |
+| 45 | € 37,14 |
+| 50 | € 39,86 |
+| 55 | € 44,91 |
+| 60 | € 48,86 |
+| 65 | € 55,52 |
+| 70 | € 66,62 |
+| 75 | € 78,65 |
+| 80 | € 90,92 |
 
 | Salarisschaal | Standaarduurtarief |
 | --- | --- |
@@ -365,7 +389,7 @@ De formule voor het berekenen van het standaarduurtarief per salarisschaal houdt
 | 17 | € 104,40 |
 | 18 | € 114,03 |
 |   |   |
-| **Salarisschalen middengroepen patiëntenzorg** |   |
+| Salarisschalen middengroepen patiëntenzorg |   |
 | 5M | € 30,78 |
 | 6M | € 33,16 |
 | 7M | € 36,57 |
@@ -373,28 +397,47 @@ De formule voor het berekenen van het standaarduurtarief per salarisschaal houdt
 | 9M | € 46,05 |
 | 10M | € 48,26 |
 |   |   |
-| **Verpleegkundigen** |   |
+| Verpleegkundigen |   |
 | 8aM | € 43,94 |
 | 8M | € 41,81 |
 | 9aM | € 48,26 |
 | 9M | € 46,05 |
 |   |   |
-| **Arts-assistenten** |   |
+| Arts-assistenten |   |
 | 11a | € 53,53 |
 |   |   |
-| **Medisch specialist (MS)** |   |
+| Medisch specialist (MS) |   |
 | Schaal 0 | € 74,06 |
 |   |   |
-| **Universitair MS** |   |
+| Universitair MS |   |
 | Schaal 0 | € 96,48 |
 |   |   |
-| **Hoogleraar / MS** |   |
+| Hoogleraar / MS |   |
 | Schaal 0 | € 121,27 |
 |   |   |
-| **Hoogleraar/Afdelingshoofd** |   |
+| Hoogleraar/Afdelingshoofd |   |
 | Schaal 0 | € 140,83 |
 |   |   |
-| **Onderzoekers in opleiding** |   |
+| Onderzoekers in opleiding |   |
 | Schaal 0 | € 37,10 |
+
+| Salarisschaal / Functiegroep | Standaarduurtarief |
+| --- | --- |
+| 5 | € 24,95 |
+| 10 | € 25,33 |
+| 15 | € 25,72 |
+| 20 | € 26,53 |
+| 25 | € 27,35 |
+| 30 | € 27,77 |
+| 35 | € 30,40 |
+| 40 | € 33,90 |
+| 45 | € 35,72 |
+| 50 | € 38,58 |
+| 55 | € 41,56 |
+| 60 | € 47,72 |
+| 65 | € 54,06 |
+| 70 | € 65,40 |
+| 75 | € 77,62 |
+| 80 | € 90,89 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
