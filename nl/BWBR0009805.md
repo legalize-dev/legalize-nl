@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2025-04-01"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -158,11 +158,12 @@ Deze regeling wordt aangehaald als: Regeling model huisregels penitentiaire inri
 | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** | **Trefwoordenlijst (Aan de inrichting, niet bijgevoegd)** |
 | **Bijlage** | **Bijlage** | **Bijlage** |
 | I. | Begripsbepalingen | 24 |
-| II. | Huisregels voor de Beperkt beveiligde afdeling (BBA) | 25 |
+| II. | Huisregels voor de Beperkt beveiligde afdeling (BBA) voor extramurale arbeid | 25 |
+| III | Huisregels voor de Afdeling voor kortgestrafte zelfmelders (AKZ) |   |
 
 **(Op de navolgende bepalingen na, aan de directeur)**
 
-Voor u liggen de huisregels van de (naam en de plaats van de inrichting). Indien de inrichting een Beperkt beveiligde afdeling (BBA) heeft, gelden op de BBA tevens de specifieke huisregels voor de BBA (zie bijlage II).
+Voor u liggen de huisregels van de (naam en de plaats van de inrichting). Indien de inrichting een Beperkt beveiligde afdeling (BBA) voor extramurale arbeid en/of een Afdeling voor kortgestrafte zelfmelders (AKZ) heeft, gelden op de BBA en de AKZ tevens de specifieke huisregels voor de BBA respectievelijk de AKZ (zie bijlage II en III)
 
 In de huisregels zijn uw rechten en plichten gegroepeerd per onderwerp opgenomen. Voor een aantal van deze onderwerpen geldt, dat niet alle van belang zijnde regelgeving is opgenomen maar alleen de voor u belangrijkste bepalingen. Zoveel mogelijk is per onderwerp aangegeven waar u desgewenst meer regelgeving over het onderwerp kunt vinden.
 
@@ -1834,7 +1835,7 @@ Voor de toepassing van deze huisregels wordt verstaan onder:
 
 - u. **consulair ambtenaar:** de consulair ambtenaar als bedoeld in artikel 1 onder d van het verdrag van Wenen van 24 april 1963.
 
-Voor u liggen de aanvullende huisregels van [PI naam], voor de Beperkt beveiligde afdeling [BBA].
+Voor u liggen de aanvullende huisregels van [PI naam], voor de Beperkt beveiligde afdeling voor extramurale arbeid [BBA].
 
 In de BBA huisregels zijn uw rechten en plichten gegroepeerd per onderwerp opgenomen. Het gaat hierbij alleen om de regels die specifiek gelden voor de BBA. De algemene huisregels van de inrichting zijn ook van toepassing ten aanzien van de BBA voor zover hiervan in deze regeling niet wordt afgeweken. Voor een aantal van deze onderwerpen geldt dat niet alle van belang zijnde regelgeving is opgenomen maar alleen de voor u belangrijkste bepalingen. Zoveel mogelijk is per onderwerp aangegeven waar u desgewenst meer regelgeving over het onderwerp kunt vinden.
 
@@ -2045,5 +2046,71 @@ Nadere regelgeving:
 - −. [Regeling selectie plaatsing en overplaatsing gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558), [hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=Ia)
 
 - −. [Regeling tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171), art. 20ab
+
+Voor u liggen de aanvullende huisregels van [PI naam], voor de Afdeling voor kortgestrafte zelfmelders [AKZ].
+
+In de AKZ huisregels zijn uw rechten en plichten gegroepeerd per onderwerp opgenomen. Het gaat hierbij alleen om de regels die specifiek gelden voor de AKZ. De algemene huisregels van de inrichting zijn ook van toepassing ten aanzien van de AKZ voor zover hiervan in deze regeling niet wordt afgeweken. Voor een aantal van deze onderwerpen geldt dat niet alle van belang zijnde regelgeving is opgenomen maar alleen de voor u belangrijkste bepalingen. Zoveel mogelijk is per onderwerp aangegeven waar u desgewenst meer regelgeving over het onderwerp kunt vinden.
+
+De directeur is bevoegd om, als dit noodzakelijk is in het belang van de handhaving van de orde of veiligheid in de inrichting of een ongestoorde tenuitvoerlegging van de vrijheidsbeneming, aan u opdrachten te geven. U bent verplicht deze opdrachten op te volgen.
+
+Ambtenaren en medewerkers zijn door de directeur gemachtigd tot de uitoefening van de hem bij of krachtens de wet gegeven bevoegdheden en de naleving van zijn zorgplichten.
+
+Indien u in vrijheid wordt gesteld zal een door de directeur getekend bewijs van ontslag aan u worden uitgereikt.
+
+Aan het hoofd van deze inrichting staat de vestigingsdirecteur. Deze heeft de algehele leiding over PI [naam].
+
+Nadere regelgeving:
+
+Daar waar deze huisregels voor de AKZ niet voorzien wordt u verwezen naar de algemene huisregels van de PI [naam].
+
+Daar waar de huisregels niet voorzien wordt u verwezen naar de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
+
+Daar waar onduidelijkheden zijn zal de directeur een beslissing nemen.
+
+Adres:
+
+Telefoon:
+
+Telefoon:
+
+Email:
+
+Bij binnenkomst op de AKZ kunt u op een meerpersoonskamer worden geplaatst. De inventaris van uw kamer mag niet worden verplaatst. Er wordt verwacht dat uw kamer voldoet aan de hygiënevoorschriften zoals deze gesteld worden door het personeel. Voor het ophangen van papieren, kaarten, enz. dient u het daarvoor bestemde prikbord te gebruiken en niet de muren.
+
+U dient gekleed van en naar de doucheruimte te gaan.
+
+U bent zelf verantwoordelijk voor uw eigendommen, de inrichting is niet aansprakelijk bij verlies, diefstal of schade.
+
+Bij ontslag of overplaatsing dient u de kamer schoon achter te laten en wordt de kamerinventaris gecontroleerd.
+
+Alle bewoners van de AKZ zijn verantwoordelijk voor de hygiëne van de algemene ruimtes. Middels een corveelijst is inzichtelijk wie welke taken moet uitvoeren.
+
+Maaltijden worden indien mogelijk gezamenlijk genuttigd in de daarvoor bestemde huiskamer.
+
+Na gebruik dient u de douches, toiletten, keuken en het kookgerei weer schoon achter te laten.
+
+Vier weken na binnenkomst in de AKZ wordt u in de gelegenheid gesteld een detentie- en re-integratieplan vast te stellen. U krijgt hiervoor een mentor en een casemanager toegewezen.
+
+Tijdens de avond- en nachturen bent u verplicht om op uw kamer te verblijven, m.u.v. toiletbezoek. U dient tijdens deze nachtelijke uren geen overlast (geluid) te veroorzaken.
+
+(tijdstippen nader te bepalen door de inrichting; niet langer dan van 17.00 uur tot 7.30 uur)
+
+(nader in te vullen door de inrichtingen)
+
+Bij uw binnenkomst op de AKZ, wordt u als nieuwe inkomst aangemeld. U wordt door middel van uw oproepbrief en uw identificatiebewijs aangemeld.
+
+Vier weken na binnenkomst in de AKZ wordt, zo veel mogelijk in overleg met u, een detentie- en re-integratieplan vastgesteld. Dit is het uitgangspunt voor uw detentie en re-integratietraject binnen de AKZ.
+
+De eigen kleding kunt u, indien gewenst, op de AKZ wassen. Hiervoor is een wasmachine en een droger beschikbaar. Linnen- en beddengoed wordt door de inrichting verzorgd.
+
+DJI biedt u een maaltijd aan. Indien u deze niet wenst, dient u dit aan te geven.
+
+U kan worden overgeplaatst wanneer u de regels overtreedt, ontoelaatbaar gedrag vertoont of ongewenst gedrag vertoont. Dit betekent dat u om op de AKZ te verblijven zich gewenst dient te gedragen. Dat betekent dat u zich tijdens de detentie gedraagt zoals beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=1) en [2 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=2) (Regeling spog). De beoordeling van het gedrag van deze gedetineerden geschiedt op basis van observaties van het personeel van de inrichting.
+
+Nadere regelgeving:
+
+- –. [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5)
+
+- –. [Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558), [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=2)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt ter inzage gelegd.
