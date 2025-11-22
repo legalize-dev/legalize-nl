@@ -4,7 +4,7 @@ identifier: "BWBR0035372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2019-07-16"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035372"
 soort: "ministeriele-regeling"
@@ -194,9 +194,7 @@ Het is de justitiabele tijdens een transport slechts toegestaan gebruik te maken
 
 ##### Artikel 19. Medisch transport
 
-1. Een medisch onderzoek geschiedt in bijzijn van de transportgeleider. De transportgeleider neemt daarbij discretie in acht.
-
-2. Een justitiabele wordt slechts buiten de tegenwoordigheid van de transportgeleider onderzocht of behandeld, indien de behandelaar uitdrukkelijk de wens daartoe te kennen heeft gegeven en de transportgeleider of de transportaanvrager dit met het oog op de veiligheid van het transport verantwoord acht.
+Indien dit in verband met de veiligheid van de arts of ander medisch personeel, vluchtgevaar of andere veiligheidsbelangen strikt noodzakelijk is, kan de directeur van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen namens de directeur van de inrichting van waaruit de justitiabele vervoerd wordt voor een medisch onderzoek, beslissen dat een medisch onderzoek buiten de inrichting in het bijzijn van een medewerker, belast met de beveiliging, geschiedt.
 
 ##### Artikel 20. Begeleiding door verpleegkundige of andere functionaris
 
@@ -232,7 +230,7 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 
 - d. bijzonderheden het voertuig betreffende;
 
-- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2019-07-16&g=2019-07-16);
+- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2025-11-22&g=2025-11-22);
 
 - f. conflict met medische behandelaar over de aanwezigheid van een transportgeleider bij een onderzoek;
 
