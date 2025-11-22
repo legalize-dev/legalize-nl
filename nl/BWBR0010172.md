@@ -4,7 +4,7 @@ identifier: "BWBR0010172"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2021-12-01"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010172"
 soort: "ministeriele-regeling"
@@ -81,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 - c. stukarbeid gelijk aan het door de directeur te bepalen bedrag per product vermenigvuldigd met het aantal gedurende de week door de gedetineerde gefabriceerde producten.
 
-5. Het loon, bedoeld in het derde lid, daaronder begrepen de loonvervangende financiële tegemoetkomingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2021-12-01&g=2021-12-01), is niet lager dan 80% van het basisuurloon vermenigvuldigd met twintig.
+5. Het loon, bedoeld in het derde lid, daaronder begrepen de loonvervangende financiële tegemoetkomingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2025-11-22&g=2025-11-22), is niet lager dan 80% van het basisuurloon vermenigvuldigd met twintig.
 
 6. Uitbetaling vindt wekelijks achteraf plaats.
 
@@ -121,7 +121,7 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 - a. zijn deelname, met toestemming van de directeur, aan activiteiten, vastgelegd in het detentie- en re-integratieplan; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon, vermeerderd met de gemiddeld voor de voor hem aangewezen arbeid geldende toeslag;
 
-- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2021-12-01&g=2021-12-01); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
+- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2025-11-22&g=2025-11-22); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
 - c. de situatie dat de directeur niet kan voorzien in een aanbod van arbeid; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
@@ -213,7 +213,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 5°. een veroordeelde die is aangehouden nadat zijn voorwaardelijke invrijheidstelling is herroepen.
 
-- c. ten opzichte van een gedetineerde die is geplaatst in een Justitieel Medisch Centrum, als bedoeld in [artikel 19 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=19).
+- c. ten opzichte van een gedetineerde die is geplaatst in een Justitieel Medisch Centrum, als bedoeld in [artikel 19 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=19);
+
+- d. gedurende de periode dat een gedetineerde verblijft in een afdeling voor kortgestrafte zelfmelders als bedoeld in [artikel 2 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2).
 
 2. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid vervalt ten aanzien van een gedetineerde die vanwege zijn gedrag tijdens de arbeid op grond van een besluit van de directeur structureel is uitgesloten van toegang tot arbeid. In het besluit bepaalt de directeur de duur van de uitsluiting.
 
