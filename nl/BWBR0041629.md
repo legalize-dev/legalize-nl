@@ -4,7 +4,7 @@ identifier: "BWBR0041629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2025-06-05"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041629"
 soort: "ministeriele-regeling"
@@ -187,6 +187,14 @@ Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trust
 ### Hoofdstuk 3. Gegevens vergunningaanvraag
 
 ### Hoofdstuk 4. Gegevens melding incidenten
+
+### Hoofdstuk 4a. Betrouwbaarheid
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a
+
+De Nederlandsche Bank kan bij het verkrijgen van inzicht als bedoeld in [artikel 6 van het Besluit toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&artikel=6) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in de [bijlage behorend bij artikel 5 van het Besluit toezicht trustkantoren](onbekend).
 
 ### Hoofdstuk 5. Slotbepalingen
 
