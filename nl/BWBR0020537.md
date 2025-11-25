@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2025-01-01"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ Vervallen
 
 ### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
-### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
+### Hoofdstuk 4a. Betrouwbaarheid
 
 ## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2001-06-02)
 
@@ -220,17 +220,17 @@ Vervallen
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2025-01-01&g=2025-01-01).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2025-11-25&g=2025-11-25).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-01-01&g=2025-01-01).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-11-25&g=2025-11-25).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-11-25&g=2025-11-25) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-11-25&g=2025-11-25).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-11-25&g=2025-11-25) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-11-25&g=2025-11-25).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -304,7 +304,7 @@ De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van to
 
 als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01)
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-11-25&g=2025-11-25)
 
 ### **Volmacht**
 
@@ -324,7 +324,7 @@ Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [b
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-01-01&g=2025-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-11-25&g=2025-11-25) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ### **Paragraaf III**
 
@@ -402,7 +402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-Vervallen
+De toezichthouder kan bij het verkrijgen van inzicht als bedoeld in [artikel 7 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=7), [artikel 14 van het Besluit gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=14) en [artikel 31 van het besluit reikwijdtebepalingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&artikel=31) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in [bijlage A behorend bij het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A), [bijlage C behorend bij het Besluit gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C) en [bijlage behorende bij artikel 30 van het Besluit reikwijdtebepalingen Wft](onbekend).
 
 ### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
@@ -600,7 +600,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-11-25&g=2025-11-25)
 
 ### **Paragraaf IV**
 
