@@ -4,7 +4,7 @@ identifier: "BWBR0048419"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2024-12-05"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048419"
 soort: "ministeriele-regeling"
@@ -60,13 +60,13 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **selectievoorstel Uitvoeringsagenda Faro:** door het Faro-netwerk opgestelde lijst van initiatieven als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=8&z=2024-12-05&g=2024-12-05);
+- **selectievoorstel Uitvoeringsagenda Faro:** door het Faro-netwerk opgestelde lijst van initiatieven als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=8&z=2025-11-25&g=2025-11-25);
 
 - **Selectielijst Uitvoeringsagenda Faro:** door de Minister per aanvraagronde vastgestelde lijst, die als bijlage bij deze regeling is gevoegd, met initiatieven in het kader van Faro-thema’s, bestaande uit:
 
-- a. een onderdeel A met initiatieven, gerangschikt op volgorde van hoge prioriteit naar lagere prioriteit, waarvoor een aanvraag kan worden gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2024-12-05&g=2024-12-05), tot maximaal het bij het desbetreffende initiatief genoemde bedrag;
+- a. een onderdeel A met initiatieven, gerangschikt op volgorde van hoge prioriteit naar lagere prioriteit, waarvoor een aanvraag kan worden gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25), tot maximaal het bij het desbetreffende initiatief genoemde bedrag;
 
-- b. een onderdeel B met initiatieven, gerangschikt op volgorde van hoge prioriteit naar lagere prioriteit, waarvoor alleen een aanvraag kan worden gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2024-12-05&g=2024-12-05), indien de initiatiefnemer van het desbetreffende initiatief daartoe onder toepassing van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), in de gelegenheid is gesteld;
+- b. een onderdeel B met initiatieven, gerangschikt op volgorde van hoge prioriteit naar lagere prioriteit, waarvoor alleen een aanvraag kan worden gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25), indien de initiatiefnemer van het desbetreffende initiatief daartoe onder toepassing van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), in de gelegenheid is gesteld;
 
 - **Uitvoeringsagenda Faro:** publicatie ‘Onderweg naar Faro. De betekenis van het Verdrag van Faro voor het Nederlandse erfgoedveld en een vertaling in ambities. Uitvoeringsagenda Faro – deel I’, Rijksdienst voor het Cultureel Erfgoed, december 2022, gepubliceerd op de website [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl).
 
@@ -82,11 +82,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 4. Subsidieplafonds
 
-1. De bedragen die ten hoogste voor subsidieverstrekking beschikbaar zijn, zullen voorafgaand aan de opening van elk in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), bedoeld aanvraagtijdvak, door wijziging van dit artikel aan de regeling worden toegevoegd, met dien verstande dat het totaalbedrag van deze subsidieplafonds niet meer kan bedragen dan € 4.800.000,–.
+1. De bedragen die ten hoogste voor subsidieverstrekking beschikbaar zijn, zullen voorafgaand aan de opening van elk in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), bedoeld aanvraagtijdvak, door wijziging van dit artikel aan de regeling worden toegevoegd, met dien verstande dat het totaalbedrag van deze subsidieplafonds niet meer kan bedragen dan € 4.800.000,–.
 
-2. Voor subsidieverstrekking die betrekking heeft op het eerste aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), ten behoeve van initiatieven die zijn opgenomen in de ‘Selectielijst Uitvoeringsagenda Faro: eerste aanvraagtijdvak’, zoals vastgesteld als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=1&z=2024-12-05&g=2024-12-05) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.132.845 beschikbaar.
+2. Voor subsidieverstrekking die betrekking heeft op het eerste aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), ten behoeve van initiatieven die zijn opgenomen in de ‘Selectielijst Uitvoeringsagenda Faro: eerste aanvraagtijdvak’, zoals vastgesteld als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=1&z=2025-11-25&g=2025-11-25) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.132.845 beschikbaar.
 
-3. Voor subsidieverstrekking die betrekking heeft op het tweede aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), ten behoeve van initiatieven die zijn opgenomen in de 'Selectielijst Uitvoeringsagenda Faro: tweede aanvraagtijdvak', zoals vastgesteld als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=2&z=2024-12-05&g=2024-12-05) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.168.926 beschikbaar.
+3. Voor subsidieverstrekking die betrekking heeft op het tweede aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), ten behoeve van initiatieven die zijn opgenomen in de 'Selectielijst Uitvoeringsagenda Faro: tweede aanvraagtijdvak', zoals vastgesteld als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=2&z=2025-11-25&g=2025-11-25) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.168.926 beschikbaar.
+
+4. Voor subsidieverstrekking die betrekking heeft op het derde aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), ten behoeve van initiatieven die zijn opgenomen in de 'Selectielijst Uitvoeringsagenda Faro: derde aanvraagtijdvak', zoals vastgesteld als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=3&z=2025-11-25&g=2025-11-25) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.995.441 beschikbaar.
 
 ##### Artikel 5. Hoogte subsidiebedrag
 
@@ -96,7 +98,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 6. Subsidiabele kosten
 
-1. Voor subsidie komen uitsluitend in aanmerking de redelijke kosten die noodzakelijk zijn voor de uitvoering van de initiatieven, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2024-12-05&g=2024-12-05).
+1. Voor subsidie komen uitsluitend in aanmerking de redelijke kosten die noodzakelijk zijn voor de uitvoering van de initiatieven, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25).
 
 2. Kosten die voorafgaand aan of ten behoeve van de indiening van de aanvraag zijn gemaakt, komen niet voor subsidie in aanmerking.
 
@@ -104,7 +106,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 7. Aanvraag subsidie
 
-1. Aanvragen om subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2024-12-05&g=2024-12-05), kunnen worden ingediend gedurende twee weken na de dag van bekendmaking van de Selectielijst Uitvoeringsagenda Faro in de Staatscourant. Op deze wijze zullen in totaal ten hoogste drie aanvraagtijdvakken worden opengesteld.
+1. Aanvragen om subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25), kunnen worden ingediend gedurende twee weken na de dag van bekendmaking van de Selectielijst Uitvoeringsagenda Faro in de Staatscourant. Op deze wijze zullen in totaal ten hoogste drie aanvraagtijdvakken worden opengesteld.
 
 2. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat in afwijking van [artikel 3.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1)door de Rijksdienst voor het Cultureel Erfgoed bekend is gemaakt op [https://faro.cultureelerfgoed.nl](https://faro.cultureelerfgoed.nl).
 
@@ -118,7 +120,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Het activiteitenplan en de begroting bij de aanvraag om subsidie wijken, behoudens voor zover sprake is van het herstel van evidente onjuistheden, niet af van het activiteitenplan en de begroting die ten grondslag liggen aan het selectievoorstel Uitvoeringsagenda Faro.
 
-6. In afwijking van het eerste lid kan de Minister de initiatiefnemer van een initiatief uit onderdeel B van de Selectielijst Uitvoeringsagenda Faro, bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=8&z=2024-12-05&g=2024-12-05), dat met inachtneming van de rangorde in aanmerking komt en waarvan de aanvraag volledig kan worden gehonoreerd, in de gelegenheid stellen om binnen twee weken na een schriftelijke mededeling van de Minister een aanvraag om subsidie in te dienen, indien er na beoordeling van de aanvragen voor initiatieven uit onderdeel A, bedoeld in artikel 8, derde lid, onderdeel a, nog budget resteert.
+6. In afwijking van het eerste lid kan de Minister de initiatiefnemer van een initiatief uit onderdeel B van de Selectielijst Uitvoeringsagenda Faro, bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=8&z=2025-11-25&g=2025-11-25), dat met inachtneming van de rangorde in aanmerking komt en waarvan de aanvraag volledig kan worden gehonoreerd, in de gelegenheid stellen om binnen twee weken na een schriftelijke mededeling van de Minister een aanvraag om subsidie in te dienen, indien er na beoordeling van de aanvragen voor initiatieven uit onderdeel A, bedoeld in artikel 8, derde lid, onderdeel a, nog budget resteert.
 
 ##### Artikel 8. Selectievoorstel Uitvoeringsagenda Faro
 
@@ -180,9 +182,9 @@ De Minister stelt aan de hand van het selectievoorstel Uitvoeringsagenda Faro ee
 
 1. De Minister beslist op een aanvraag:
 
-- a. indien het een aanvraag betreft als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), binnen 13 weken na sluiting van het desbetreffende aanvraagtijdvak; of
+- a. indien het een aanvraag betreft als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), binnen 13 weken na sluiting van het desbetreffende aanvraagtijdvak; of
 
-- b. indien het een aanvraag betreft als bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), binnen 13 weken na de in dat lid bedoelde door de Minister gestelde termijn.
+- b. indien het een aanvraag betreft als bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), binnen 13 weken na de in dat lid bedoelde door de Minister gestelde termijn.
 
 2. Onverminderd [artikel 6.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1) stemt de Minister de hoogte en het betalingsritme van voorschotten af op de door de subsidieontvanger aangegeven liquiditeitsbehoefte en de begrotingssystematiek van het Rijk.
 
@@ -190,7 +192,7 @@ De Minister stelt aan de hand van het selectievoorstel Uitvoeringsagenda Faro ee
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidie geheel of gedeeltelijk worden geweigerd voor zover:
 
-- a. de kosten van de activiteiten waarvoor subsidie wordt gevraagd, reeds uit anderen hoofde zijn of worden vergoed en subsidieverstrekking tot gevolg zou hebben dat de aanvrager in totaal meer dan 100% van het bedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=5&z=2024-12-05&g=2024-12-05), zou ontvangen;
+- a. de kosten van de activiteiten waarvoor subsidie wordt gevraagd, reeds uit anderen hoofde zijn of worden vergoed en subsidieverstrekking tot gevolg zou hebben dat de aanvrager in totaal meer dan 100% van het bedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=5&z=2025-11-25&g=2025-11-25), zou ontvangen;
 
 - b. de aanvraag om subsidie afwijkt van de informatie op basis waarvan de Selectielijst Uitvoeringsagenda Faro tot stand is gekomen.
 
@@ -216,7 +218,7 @@ Voor de subsidieontvanger geldt in aanvulling op [hoofdstuk 5 van de Kaderregeli
 
 ##### Artikel 15. Verantwoording en vaststelling subsidies aan bekostigde onderwijsinstellingen
 
-1. Indien de subsidieontvanger een bekostigde onderwijsinstelling is als bedoeld in [artikel 9.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=13&z=2024-12-05&g=2024-12-05) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=14&z=2024-12-05&g=2024-12-05) niet van toepassing.
+1. Indien de subsidieontvanger een bekostigde onderwijsinstelling is als bedoeld in [artikel 9.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=13&z=2025-11-25&g=2025-11-25) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=14&z=2025-11-25&g=2025-11-25) niet van toepassing.
 
 2. Indien de subsidie aan de bekostigde onderwijsinstelling niet meer bedraagt dan € 125.000,– stelt de Minister de subsidie onder toepassing van [artikel 9.1, vierde lid, onderdeel a, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) direct vast. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
@@ -238,7 +240,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling Uitvoeringsagenda Faro.
 
 ## Bijlage 1. Selectielijst Uitvoeringsagenda Faro: eerste aanvraagtijdvak
 
-Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=9&z=2024-12-05&g=2024-12-05) van de Subsidieregeling Uitvoeringsagenda Faro.
+Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=9&z=2025-11-25&g=2025-11-25) van de Subsidieregeling Uitvoeringsagenda Faro.
 
 | **A-lijst** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend |
 | --- | --- | --- | --- | --- |
@@ -277,7 +279,7 @@ Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ## Bijlage 2. Selectielijst Uitvoeringsagenda Faro: tweede aanvraagtijdvak
 
-Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=9&z=2024-12-05&g=2024-12-05) van de Subsidieregeling Uitvoeringsagenda Faro.
+Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=9&z=2025-11-25&g=2025-11-25) van de Subsidieregeling Uitvoeringsagenda Faro.
 
 | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend |
 | --- | --- | --- | --- | --- |
@@ -300,7 +302,7 @@ Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR004
 | 16 | Waardevol en helend: Erfgoedcollecties voor en met de zorg | Erfgoed als hulpbron en partner in het sociale domein | Rijksmuseum Boerhaave | € 50.240 |
 | 17 | Inspiratie aanbod bouwrituelen | Democratische vernieuwing | Buro Bouwrituelen | € 24.999 |
 |   |   |   |   |   |
-| **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2024-12-05&g=2024-12-05), van de Subsidieregeling Uitvoeringsagenda Faro). |
+| **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), van de Subsidieregeling Uitvoeringsagenda Faro). |
 | 1 | Dagbesteding in Brabantse erfgoedinstellingen | Erfgoed als hulpbron en partner in het sociale domein | Erfgoed Brabant | € 42.764 |
 | 2 | Het koloniale verleden op kastelen en buitenplaatsen in beeld | Meerstemmigheid | Nederlandse kastelenstichting | € 123.635 |
 | 3 | Voetbal in de erfgoedspiegel | Democratische vernieuwing | Reinwardt Academie | € 59.365 |
@@ -309,3 +311,56 @@ Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR004
 | 6 | Ruimte voor nieuwe generaties | Internationaal | Stichting Act!On | € 144.515 |
 | 7 | Cultureel erfgoed van Turks- en Marokkaans-Nederlandse gemeenschappen | Meerstemmigheid | Fermin Onderzoek & Advies | € 84.000 |
 | 8 | Europese molenvrienden | Internationaal | Vereniging de Hollandsche Molen | € 35.000 |
+
+## Bijlage 3. Selectielijst Uitvoeringsagenda Faro: derde aanvraagtijdvak
+
+Deze bijlage behoort bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=9&z=2025-11-25&g=2025-11-25) van de Subsidieregeling Uitvoeringsagenda Faro.
+
+| **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend | **A-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de A-lijst kan binnen twee weken na bekendmaking van de selectielijst in de Staatscourant een subsidieaanvraag worden ingediend |
+| --- | --- | --- | --- | --- |
+| **Rangorde** | **Naam initiatief** | **Thema Uitvoeringsagenda Faro** | **Initiatiefnemer** | **Maximale subsidie** |
+| 1 | Erf(goed) van de Toekomst | Dynamische Leefomgeving | Jong WCL (onderdeel van Waardevol Cultuurlandschap Winterswijk) | € 125.000 |
+| 2 | Democratie als levend erfgoed | Internationaal | Stichting Dutch Culture, Dutch Center for International Cooperation | € 59.560 |
+| 3 | Samen het Verhaal in | Ondersteuning Erfgoedparticipatie | Erfgoedhuis Zuid-Holland | € 72.000 |
+| 4 | Van Gogh Europe \| Erfgoed, Natuur en Mentaal welzijn | Internationaal | Van Gogh Sites Foundation | € 120.000 |
+| 5 | SDG, ESG en musea: van beleid naar praktijk voor maatschappelijke impact | Erfgoed als hulpbron en partner in het sociaal domein | Erasmus School of History, Culture and Communication | € 136.865 |
+| 6 | Onderzoeksnetwerk Familiegeschiedenis en Migratie | Ondersteuning erfgoedparticipatie | CBG\|Centrum voor familiegeschiedenis | € 187.258 |
+| 7 | Positieversterking en co-creatie immaterieel erfgoed Oirschot | Werkwijzen en wegwijzen | Stichting Immaterieel Erfgoed Oirschot | € 98.631 |
+| 8 | AI voor helderheid: meertalige toegang tot koloniaal erfgoed | Meerstemmigheid | Wereldmuseum (Stichting Nationaal Museum van Wereldculturen) | € 100.133 |
+| 9 | Moslimerfgoed online: samen geschiedenis schrijven | Archieven | Stichting Moslim Archief | € 77.000 |
+| 10 | Fantoompijn en het gesprek over verdwenen erfgoed | Waarderen van erfgoed | Academiehuis | € 76.000 |
+| 11 | Europa: zit er (nog) klaviermuziek in erfgoed? | Internationaal | Stichting Museum Geelvinck | € 88.000 |
+| 12 | Kermiserfgoed in Europa | Internationaal | Stichting Kermiserfgoed | € 82.116 |
+| 13 | Ruimte voor nieuwe generaties | Internationaal | Stichting Act!On | € 49.615 |
+| 14 | Gegronde Herinneringen: Metaaldetectie als Mindful Erfgoed in Actie | Waarderen van erfgoed | Meertens Instituut | € 49.238 |
+| 15 | Hands-on archiefworkshops voor erfgoedwerkers en schenkers | Archieven | Nieuwe Instituut | € 195.024 |
+| 16 | In dialoog zorgen voor hedendaagse kunst | Werkwijzen en wegwijzen | SBMK (Stichting Behoud Moderne Kunst) | € 99.975 |
+| 17 | Voetbalerfgoed: kans voor de sector en samenleving | Democratische vernieuwing | Reinwardt Academie | € 77.116 |
+| 18 | Nieuw religieus erfgoed met oude wortels | Werkwijzen en wegwijzen | Museum Catharijneconvent | € 30.000 |
+| 19 | Wijken met wortels | Dynamische leefomgeving | Stichting het Oversticht | € 70.781 |
+| 20 | Een haalbaarheidsonderzoek voor een erkend certificaat voor vrijwillige archeologen | Archeologie | AWN Nederland | € 32.004 |
+| 21 | Inside-Out Time Machines | Digitaal erfgoed | Erfgoedhuis Hilversum (werkgroep Hilversum Time Machine) | € 99.600 |
+| 22 | Omgang met de ethische aspecten van oral history – Betrekken van oriëntaals orthodoxe gemeenschap in Nederland bij interviews als praktijktoets | Oral History | Stichting Arab West Foundation | € 44.525 |
+| 23 | ‘Een gedeeld verleden van de buitenplaats’ | Meerstemmigheid | Nederlandse Kastelenstichting | € 25.000 |
+|   |   |   |   |   |
+| **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de Minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van artikel 7, zesde lid, van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de Minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van artikel 7, zesde lid, van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de Minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van artikel 7, zesde lid, van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de Minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van artikel 7, zesde lid, van de Subsidieregeling Uitvoeringsagenda Faro). | **B-lijst subsidies Uitvoeringsagenda Faro** Voor voorstellen voor initiatieven op de B-lijst kan geen subsidieaanvraag worden ingediend, omdat het subsidieplafond voor deze aanvraagronde met de voorstellen op de A-lijst wordt bereikt. Mocht er na beoordeling van de aanvragen budget vrijvallen, dan stelt de Minister met inachtneming van de rangorde de initiatiefnemer van het eerstvolgende initiatief dat met het vrijgevallen budget volledig kan worden uitgevoerd, in de gelegenheid binnen twee weken een aanvraag in te dienen (zulks op grond van artikel 7, zesde lid, van de Subsidieregeling Uitvoeringsagenda Faro). |
+| 1 | Power in our Past’s Future: Fellowship in Community Empowerment through Participatory Research of Afrikan Cultural Heritage | Caribisch Nederland | St. Eustatius Afrikan Burial Ground Alliance (SE-ABG) | € 159.236 |
+| 2 | Doof Erfgoed in media | Archieven | Turkoois BV | € 85.480 |
+| 3 | Samen vormgeven aan Erfgoed en Gezondheid | Erfgoed als hulpbron en partner in het sociale domein | Hogeschool Utrecht en De emigratie generatie | € 118.353 |
+| 4 | Platform Joods Erfgoed en Identiteit (JEI) | Erfgoed als hulpbron en partner in het sociale domein | Stichting Joods Maatschappelijk Werk | € 100.000 |
+| 5 | Erfgoedverbinder in plattelandsgemeenschappen | Erfgoed als hulpbron en partner in het sociale domein | Heleen Westerman Communicatie en Advies | € 94.630 |
+| 6 | Learning from Neighbours – Heritage participation in European post-war neighbourhoods | Internationaal | Delft University of Technology | € 68.330 |
+| 7 | Beyond Wikipedia: jongeren delen hún cultuur in data en beeld | Digitaal erfgoed | Wikimedia Nederland | € 48.512 |
+| 8 | Het Verhaal van Hilversum – een verhaal met effect | Werkwijzen en wegwijzen | Consortium Het Verhaal van Hilversum | € 22.940 |
+| 9 | Leergang Systemisch werken aan Erfgoedopgaven | Werkwijzen en wegwijzen | ErfgoedAcademie | € 161.990 |
+| 10 | Slow Archaeology | Erfgoed als hulpbron en partner in het sociale domein | Erfgoed Zeeland | € 284.360 |
+| 11 | De erfgoedparticipatiecoach als werkwijze om vanuit de gemeenschappen te co-creëren met de erfgoedinstelling | Werkwijzen en wegwijzen | Centre Céramique – Maastricht Museum | € 115.000 |
+| 12 | Meerstemmige en participatieve beleidsanalyse van de internationale toepassing van het Faro gedachtegoed op Inheems erfgoed | Internationaal | Inheems Kennis Centrum Internationaal | € 117.399 |
+| 13 | Twee Duuster | Erfgoedbewustzijn en educatie | Tijdlab | € 131.257 |
+| 14 | Brabants Kloosterpad als bron van mentaal welzijn voor jongeren | Erfgoed als hulpbron en partner in het sociale domein | Brabant Partners | € 99.845 |
+| 15 | 500 jaar Overijssel: een jubileumviering voor iedereen? | Democratische vernieuwing | 500 jaar Overijssel: een jubileumviering voor iedereen? | € 150.000 |
+| 16 | De Verhalenwerkplaats | Digitaal Erfgoed | Stichting DRU Industriepark | € 149.500 |
+| 17 | Toekomstagenda Historische Kringen/Verenigingen | Democratische vernieuwing | Stichting Tussen Vecht en Eem | € 66.550 |
+| 18 | The Ultimate Guide to Public Outreach | Werkwijzen en wegwijzen | Mosaic Productions | € 77.000 |
+| 19 | Interventies voor representatief verzamelen en bewaren | Werkwijzen en wegwijzen | Prospektor | € 198.854 |
+| 20 | Gemeenschapsplekken als Erfgoed van de Toekomst. ‘Tussen Traditie en Transformatie: een landelijke verkenning van sociale ontmoetingsplekken als cultureel ankerpunt’ | Erfgoed als hulpbron en partner in het sociale domein | Studio Locus | € 78.231 |
