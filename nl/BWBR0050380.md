@@ -4,7 +4,7 @@ identifier: "BWBR0050380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-26"
-last_updated: "2025-01-01"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050380"
 soort: "ministeriele-regeling"
@@ -68,9 +68,7 @@ De voltijdse opleidingen in het wetenschappelijk onderwijs met een substantiële
 
 - –. het deel van de Onderwijs- en Examenregeling (OER) waarin de substantiële praktijkcomponent wordt beschreven;
 
-- –. instemming van de opleidingscommissie inzake de werkwijze bij de totstandkoming van het studieplan;
-
-- –. een positief advies van de examencommissie op de invulling van de substantiële praktijkcomponent;
+- –. een positief advies van de opleidingscommissie op de substantiële praktijkcomponent;
 
 - –. instemming van de betrokken docenten bij de betreffende opleiding.
 
