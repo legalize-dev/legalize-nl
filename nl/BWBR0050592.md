@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-11-22"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -63,6 +63,8 @@ Besluiten:
 | [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
 | [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
 | [Titel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26): Sanering garnalenvisserij | [artikel 2.26.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) | Garnalenvissers |   |   | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
+| [Titel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.28): Hygiënisatie- en drooginstallaties | [2.28.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.28.2) | Intermediaire onderneming | Inrichting van een hygiënisatieinstallatie | Inrichting van een hygiënisatieinstallatie | 1-12-2025 t/m 27-02-2026 | 3.750.000 |
+|   | [2.28.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.28.2) | Intermediaire onderneming | Inrichting van een drooginstallatie | Inrichting van een drooginstallatie | 1-12-2025 t/m 27-02-2026 | 3.750.000 |
 | [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.2): PPS-Innovatie | 3.2.2 | Stichting TKI Agri&Food |   |   | 07-11-2025 t/m 31-12-2025 | € 11.447.336 |
 | [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.2): PPS-Innovatie | 3.2.2 | Stichting TKI CLICKNL |   |   | 07-11-2025 t/m 31-12-2025 | € 3.855.334 |
 | [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.2): PPS-Innovatie | 3.2.2 | Stichting TKI Deltatechnologie |   |   | 07-11-2025 t/m 31-12-2025 | € 4.899.467 |
