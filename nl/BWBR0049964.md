@@ -4,7 +4,7 @@ identifier: "BWBR0049964"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-11-26"
-last_updated: "2025-03-22"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049964"
 soort: "zbo"
@@ -76,9 +76,9 @@ Deze regeling is van toepassing op projecten van makers die leiden tot literaire
 
 2. Subsidie kan alleen worden aangevraagd door een professionele literaire maker:
 
-- a. die in de periode 2021-2024 minstens eenmaal deelnam aan een programma of project van een door het Letterenfonds ondersteunde organisatie en hiervoor een honorering ontving; of
+- a. die in de periode 2021–2028 minstens eenmaal deelnam aan een programma of project van een door het Letterenfonds ondersteunde organisatie en hiervoor een honorering ontving; of
 
-- b. van wie een publicatie is verschenen in een literair tijdschrift dat een subsidie kreeg toegekend in het kader van de [Regeling Literaire tijdschriften 2021-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0044335); of
+- b. van wie een publicatie is verschenen in een literair tijdschrift dat een subsidie kreeg toegekend in het kader van de [Regeling Literaire tijdschriften 2021-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0044335) of de [Regeling Literaire tijdschriften 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0049981); of
 
 - c. van wie op het moment van het indienen van de aanvraag minimaal één literair werk werd gepubliceerd op grond van een uitgave-overeenkomst;
 
@@ -102,13 +102,13 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 7. Aanvrager kan geen subsidie aanvragen indien twee of meer projecten voor het schrijven van werken waarvoor hij op grond van andere subsidieregelingen subsidie heeft ontvangen van het Letterenfonds nog niet zijn gerealiseerd.
 
-8. Aanvragen kunnen na een afwijzend besluit op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=6&z=2025-03-22&g=2025-03-22), niet meer opnieuw worden ingediend.
+8. Aanvragen kunnen na een afwijzend besluit op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=6&z=2025-11-26&g=2025-11-26), niet meer opnieuw worden ingediend.
 
 ##### Artikel 5. Advies inwinnen
 
-1. Over aanvragen die voldoen aan de vereisten, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=3&z=2025-03-22&g=2025-03-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=4&z=2025-03-22&g=2025-03-22), en waarop geen van de weigeringsgronden van toepassing is, wordt door het bestuur advies gevraagd bij ten minste twee externe adviseurs.
+1. Over aanvragen die voldoen aan de vereisten, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=3&z=2025-11-26&g=2025-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=4&z=2025-11-26&g=2025-11-26), en waarop geen van de weigeringsgronden van toepassing is, wordt door het bestuur advies gevraagd bij ten minste twee externe adviseurs.
 
-2. De adviseurs brengen advies uit over de mate waarin de aanvraag voldoet aan de beoordelingscriteria genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=6&z=2025-03-22&g=2025-03-22) en de mate waarin deze aanvraag in te willigen is.
+2. De adviseurs brengen advies uit over de mate waarin de aanvraag voldoet aan de beoordelingscriteria genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=6&z=2025-11-26&g=2025-11-26) en de mate waarin deze aanvraag in te willigen is.
 
 3. Het bestuur betrekt deze adviezen bij zijn besluit. Subsidie wordt slechts toegekend als de aanvraag op alle beoordelingscriteria positief is beoordeeld.
 
@@ -174,7 +174,7 @@ De beslistermijn bedraagt dertien weken na ontvangst van de aanvraag.
 
 2. Als het bestuur constateert dat substantiële wijzigingen zijn opgetreden ten opzichte van de bij de aanvraag verstrekte gegevens, kan het bestuur de subsidievaststelling intrekken of wijzigen.
 
-3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=9&z=2025-03-22&g=2025-03-22), is overschreden en de ontvanger naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
+3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=9&z=2025-11-26&g=2025-11-26), is overschreden en de ontvanger naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
 
 4. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
@@ -194,7 +194,7 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2026. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 16. Citeertitel
 
