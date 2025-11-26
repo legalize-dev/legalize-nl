@@ -4,7 +4,7 @@ identifier: "BWBR0050569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-26"
-last_updated: "2025-06-26"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050569"
 soort: "ministeriele-regeling"
@@ -76,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 - **leerlab:** leerlab 1, leerlab 2 of leerlab 3;
 
-- **leerlab 1:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-06-26&g=2025-06-26);
+- **leerlab 1:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26);
 
-- **leerlab 2:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-06-26&g=2025-06-26);
+- **leerlab 2:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26);
 
-- **leerlab 3:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-06-26&g=2025-06-26);
+- **leerlab 3:** leerlab als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26);
 
 - **monument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) of een op grond van een provinciale verordening of gemeentelijke verordening beschermd monument;
 
@@ -130,7 +130,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 ##### Artikel 4. In aanmerking komende kosten
 
-1. De minister kan op aanvraag van een bevoegd gezag subsidie verstrekken voor de deelname aan een leerlab, voor activiteiten die kunnen bijdragen aan de realisatie van de doelstelling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=3&z=2025-06-26&g=2025-06-26). Daarbij komen de volgende kosten voor subsidie in aanmerking:
+1. De minister kan op aanvraag van een bevoegd gezag subsidie verstrekken voor de deelname aan een leerlab, voor activiteiten die kunnen bijdragen aan de realisatie van de doelstelling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=3&z=2025-11-26&g=2025-11-26). Daarbij komen de volgende kosten voor subsidie in aanmerking:
 
 - a. innovatiekosten; en
 
@@ -184,23 +184,23 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 - e. een door een erkend deskundige opgestelde bouwkundige rapportage conform NEN 2767 van het te renoveren of te vervangen schoolgebouw;
 
-- f. een bewijs van deelname aan het gesprek, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-06-26&g=2025-06-26);
+- f. een bewijs van deelname aan het gesprek, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26);
 
 - g. indien sprake is van renovatie, een document waaruit het oorspronkelijke bouwjaar van het te renoveren schoolgebouw blijkt, indien het bouwjaar niet juist is geregistreerd in de Basisregistratie Adressen en Gebouwen;
 
-- h. indien sprake is van een dislocatie waarbij de leerlingen staan ingeschreven op een andere vestiging dan de binnen het bouwproject betrokken schoolvestiging, wordt het aantal geprognosticeerde leerlingen op de dislocatie doorgegeven en het Brin-nummer met vestigingserkenning-code van de vestiging waarop de leerlingen ingeschreven staan. Het door aanvrager opgegeven aantal leerlingen op de dislocatie mag niet hoger zijn dan het aantal leerlingen, als bedoeld in [artikel 10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-06-26&g=2025-06-26), van deze vestiging;
+- h. indien sprake is van een dislocatie waarbij de leerlingen staan ingeschreven op een andere vestiging dan de binnen het bouwproject betrokken schoolvestiging, wordt het aantal geprognosticeerde leerlingen op de dislocatie doorgegeven en het Brin-nummer met vestigingserkenning-code van de vestiging waarop de leerlingen ingeschreven staan. Het door aanvrager opgegeven aantal leerlingen op de dislocatie mag niet hoger zijn dan het aantal leerlingen, als bedoeld in [artikel 10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-11-26&g=2025-11-26), van deze vestiging;
 
-- i. indien sprake is van een vestiging binnen het voortgezet onderwijs, waarvan niet alle leerlingen van deze vestiging in het te renoveren of nieuw te bouwen schoolgebouw worden gehuisvest, wordt het geprognotiseerde aantal van deze leerlingen doorgegeven en het Brin-nummer met vestigingserkenning-code van de vestiging waarop de leerlingen ingeschreven staan. Het door aanvrager opgeven aantal leerlingen mag niet hoger zijn dan het aantal leerlingen, als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-06-26&g=2025-06-26), van deze vestiging;
+- i. indien sprake is van een vestiging binnen het voortgezet onderwijs, waarvan niet alle leerlingen van deze vestiging in het te renoveren of nieuw te bouwen schoolgebouw worden gehuisvest, wordt het geprognotiseerde aantal van deze leerlingen doorgegeven en het Brin-nummer met vestigingserkenning-code van de vestiging waarop de leerlingen ingeschreven staan. Het door aanvrager opgeven aantal leerlingen mag niet hoger zijn dan het aantal leerlingen, als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-11-26&g=2025-11-26), van deze vestiging;
 
-- j. indien de gemeente als bouwheer optreedt, een afschrift van een samenwerkingsovereenkomst tussen het bevoegd gezag en de gemeente als bouwheer ter uitvoering van het bouwproject, waarbij de samenwerkingsovereenkomst in elk geval afspraken bevat over de medewerking van de gemeente als bouwheer van het bouwproject aan de uitvoering van het bouwproject en de naleving van de aan de subsidie verbonden verplichtingen, bedoeld in [artikel 12, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-06-26&g=2025-06-26), en voor zover van toepassing [artikel 13, eerste lid, onderdelen a, b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-06-26&g=2025-06-26), [artikel 14, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-06-26&g=2025-06-26) en [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-06-26&g=2025-06-26);
+- j. indien de gemeente als bouwheer optreedt, een afschrift van een samenwerkingsovereenkomst tussen het bevoegd gezag en de gemeente als bouwheer ter uitvoering van het bouwproject, waarbij de samenwerkingsovereenkomst in elk geval afspraken bevat over de medewerking van de gemeente als bouwheer van het bouwproject aan de uitvoering van het bouwproject en de naleving van de aan de subsidie verbonden verplichtingen, bedoeld in [artikel 12, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), en voor zover van toepassing [artikel 13, eerste lid, onderdelen a, b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-11-26&g=2025-11-26), [artikel 14, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-11-26&g=2025-11-26) en [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-11-26&g=2025-11-26);
 
 - k. indien sprake is van vervangende nieuwbouw of renovatie, voor zover de kosten voor renovatie deels dan wel geheel voor rekening van de gemeente komen, een verklaring van het college van burgemeester en wethouders waaruit blijkt dat de gemeente zich heeft gecommitteerd aan de aanvraag van de subsidie en dat het bouwproject waarvoor de subsidie wordt aangevraagd als voorziening is opgenomen in het programma voor huisvestingsvoorzieningen, bedoeld in [artikel 95 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=95), [artikel 6.5 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.5) of [artikel 93 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=93) of een verklaring anderszins waaruit blijkt dat de financiering voor het bouwproject door de gemeente is toegezegd;
 
 - l. indien sprake is van renovatie en voor zover de kosten voor renovatie deels dan wel geheel voor rekening van het bevoegd gezag komen, een verklaring van het bevoegd gezag waarin financiering wordt toegezegd voor deze kosten;
 
-- m. indien sprake is van doordecentralisatie van huisvestingstaken als bedoeld in [artikel 111 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=111), [artikel 6.21 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.21) of [artikel 109 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=109), een verklaring van het bevoegd gezag waarin financiering uit de structurele doordecentralisatievergoeding wordt toegezegd voor de kosten bedoeld in [artikel 4, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-06-26&g=2025-06-26);
+- m. indien sprake is van doordecentralisatie van huisvestingstaken als bedoeld in [artikel 111 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=111), [artikel 6.21 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.21) of [artikel 109 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=109), een verklaring van het bevoegd gezag waarin financiering uit de structurele doordecentralisatievergoeding wordt toegezegd voor de kosten bedoeld in [artikel 4, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-11-26&g=2025-11-26);
 
-- n. indien een groei van het leerlingenaantal in het speciaal onderwijs wordt verwacht het verwachte aantal leerlingen in 2039, bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-06-26&g=2025-06-26).
+- n. indien een groei van het leerlingenaantal in het speciaal onderwijs wordt verwacht het verwachte aantal leerlingen in 2039, bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-11-26&g=2025-11-26).
 
 8. Indien een bouwproject door meerdere bevoegde gezagsorganen wordt uitgevoerd, treedt één van deze partijen als penvoerder op. De subsidie wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden. Bij de aanvraag wordt een door alle in het bouwproject vertegenwoordigde bevoegde gezagsorganen getekende overeenkomst gevoegd waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen en dat alle gegevens die noodzakelijk zijn voor de verantwoording op verzoek aan de aanvrager worden verstrekt.
 
@@ -218,7 +218,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 4. Het bouwproject bevindt zich ten tijde van de indiening van de aanvraag in een fase waarin de kwaliteitseisen vanuit het innovatieprogramma kunnen worden bepaald.
 
-5. Subsidie wordt uitsluitend verstrekt indien sprake is van financiering van de kosten, bedoeld in [artikel 4, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-06-26&g=2025-06-26), of [artikel 5, zevende lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-06-26&g=2025-06-26).
+5. Subsidie wordt uitsluitend verstrekt indien sprake is van financiering van de kosten, bedoeld in [artikel 4, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-11-26&g=2025-11-26), of [artikel 5, zevende lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26).
 
 6. Het bouwproject is ofwel gericht op scholenbouw binnen het basisonderwijs, speciaal basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs of praktijkonderwijs, ofwel gericht op scholenbouw binnen het voorbereidend beroepsonderwijs, mavo, havo of vwo.
 
@@ -226,21 +226,21 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 ##### Artikel 7. Specifieke voorwaarden
 
-1. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-06-26&g=2025-06-26) komen aanvragen voor deelname aan leerlab 1 en 2 uitsluitend in aanmerking voor subsidie indien het bouwproject waarvoor de subsidie wordt aangevraagd onderdeel vormt van een bundel. Voor leerlab 2 geldt dat de bundel bestaat uit bouwprojecten die ofwel gericht zijn op renovatie van scholenbouw binnen het basisonderwijs, speciaal basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs of praktijkonderwijs ofwel gericht zijn op renovatie van scholenbouw binnen het voorbereidend beroepsonderwijs, mavo, havo of vwo.
+1. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) komen aanvragen voor deelname aan leerlab 1 en 2 uitsluitend in aanmerking voor subsidie indien het bouwproject waarvoor de subsidie wordt aangevraagd onderdeel vormt van een bundel. Voor leerlab 2 geldt dat de bundel bestaat uit bouwprojecten die ofwel gericht zijn op renovatie van scholenbouw binnen het basisonderwijs, speciaal basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs of praktijkonderwijs ofwel gericht zijn op renovatie van scholenbouw binnen het voorbereidend beroepsonderwijs, mavo, havo of vwo.
 
-2. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-06-26&g=2025-06-26) geldt als voorwaarde voor deelname aan leerlab 1 en 2 dat ten minste 66% van de leerlingen van alle vestigingen binnen een bundel ingeschreven staat op een vestiging met een positieve achterstandsscore. Hierbij wordt uitgegaan van de leerlingtelling op basis waarvan de achterstandsscores door CBS zijn berekend. Voor vestigingen van scholen voor speciaal onderwijs of voortgezet speciaal onderwijs, of van speciale scholen voor basisonderwijs, geldt dat alle vestigingen worden beschouwd als een vestiging met een positieve achterstandsscore en wordt uitgegaan van de leerlingtelling van 1 februari 2024.
+2. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) geldt als voorwaarde voor deelname aan leerlab 1 en 2 dat ten minste 66% van de leerlingen van alle vestigingen binnen een bundel ingeschreven staat op een vestiging met een positieve achterstandsscore. Hierbij wordt uitgegaan van de leerlingtelling op basis waarvan de achterstandsscores door CBS zijn berekend. Voor vestigingen van scholen voor speciaal onderwijs of voortgezet speciaal onderwijs, of van speciale scholen voor basisonderwijs, geldt dat alle vestigingen worden beschouwd als een vestiging met een positieve achterstandsscore en wordt uitgegaan van de leerlingtelling van 1 februari 2024.
 
 3. Het tweede lid is niet van toepassing voor deelname aan leerlab 2, indien een bundel is gericht op renovatie binnen het voorbereidend beroepsonderwijs, mavo, havo of vwo.
 
-4. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-06-26&g=2025-06-26) geldt als voorwaarde voor deelname aan leerlab 2 en 3 dat het te renoveren schoolgebouw initieel gebouwd is in de periode van 1946 tot 1992. Een schoolgebouw dat als monument staat geregistreerd is uitgesloten van deelname.
+4. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) geldt als voorwaarde voor deelname aan leerlab 2 en 3 dat het te renoveren schoolgebouw initieel gebouwd is in de periode van 1946 tot 1992. Een schoolgebouw dat als monument staat geregistreerd is uitgesloten van deelname.
 
 ##### Artikel 8. Weigeringsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wijst de minister een aanvraag voor een subsidie af, indien:
 
-- a. niet is voldaan aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-06-26&g=2025-06-26); of
+- a. niet is voldaan aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-11-26&g=2025-11-26); of
 
-- b. niet is voldaan aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-06-26&g=2025-06-26) en voor zover van toepassing [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=7&z=2025-06-26&g=2025-06-26).
+- b. niet is voldaan aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) en voor zover van toepassing [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=7&z=2025-11-26&g=2025-11-26).
 
 2. Indien één aanvraag binnen een bundel wordt afgewezen worden de overige aanvragen binnen de desbetreffende bundel ook afgewezen.
 
@@ -272,7 +272,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 - d. voor de plafonds, bedoeld in het eerste lid, onderdelen d tot en met g, steeds voor ten hoogste één bouwproject subsidie kan worden verstrekt.
 
-3. Voor zover het maximaal uit te keren subsidiebedrag per bundel, bedoeld in het tweede lid, onderdelen a en b, wordt overschreden, wordt het bedrag van overschrijding naar rato leerlingaantal als bedoeld in het derde en vierde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-06-26&g=2025-06-26), in mindering gebracht op het uit te keren bedrag per bouwproject.
+3. Voor zover het maximaal uit te keren subsidiebedrag per bundel, bedoeld in het tweede lid, onderdelen a en b, wordt overschreden, wordt het bedrag van overschrijding naar rato leerlingaantal als bedoeld in het derde en vierde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=10&z=2025-11-26&g=2025-11-26), in mindering gebracht op het uit te keren bedrag per bouwproject.
 
 4. Indien het beschikbare bedrag als bedoeld in het eerste lid, niet volledig wordt benut, worden de resterende bedragen van de afzonderlijke deelplafonds in zijn geheel beschikbaar gesteld voor een nog open te stellen opvolgende subsidieronde.
 
@@ -308,19 +308,15 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 - f. voor renovatie ten behoeve van het speciaal onderwijs of voortgezet speciaal onderwijs € 12.060,– per leerling;
 
-- g. voor vervangende nieuwbouw ten behoeve van het voortgezet onderwijs voor vwo, havo, vmbo theoretische leerweg of vmbo gemengde leerweg, € 5.646,– per leerling;
+- g. voor vervangende nieuwbouw ten behoeve van het voortgezet onderwijs voor vwo, havo, vmbo of praktijkonderwijs, € 9.905,– per leerling; en
 
-- h. voor vervangende nieuwbouw ten behoeve van het vmbo kaderberoepsgerichte leerweg, vmbo basisberoepsgerichte leerweg, of praktijkonderwijs € 9.905,– per leerling;
-
-- i. voor renovatie ten behoeve van het voortgezet onderwijs voor vwo, havo, vmbo theoretische leerweg of vmbo gemengde leerweg € 5.637,– per leerling; en
-
-- j. voor renovatie ten behoeve van het vmbo kaderberoepsgerichte leerweg, vmbo basisberoepsgerichte leerweg of praktijkonderwijs € 9.890,– per leerling.
+- h. voor renovatie ten behoeve van het voortgezet onderwijs voor vwo, havo, vmbo of praktijkonderwijs € 9.890,– per leerling.
 
 ##### Artikel 11. Wijze van verdeling
 
 De minister verdeelt het beschikbare bedrag binnen het deelplafond op grond van loting. Een bundel krijgt één lotnummer. De bundel valt hierdoor in zijn geheel binnen of buiten de loting.
 
-Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=9&z=2025-06-26&g=2025-06-26), waarbij de desbetreffende bundel voldoet aan de voorwaarde, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=7&z=2025-06-26&g=2025-06-26), krijgen voorrang op aanvragen voor deelname aan leerlab 2, als bedoeld in artikel 9, eerste lid, onderdeel c, waarbij de desbetreffende bundel niet voldoet aan de voorwaarde, bedoeld in artikel 7, tweede lid.
+Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=9&z=2025-11-26&g=2025-11-26), waarbij de desbetreffende bundel voldoet aan de voorwaarde, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=7&z=2025-11-26&g=2025-11-26), krijgen voorrang op aanvragen voor deelname aan leerlab 2, als bedoeld in artikel 9, eerste lid, onderdeel c, waarbij de desbetreffende bundel niet voldoet aan de voorwaarde, bedoeld in artikel 7, tweede lid.
 
 ##### Artikel 12. Algemene verplichtingen
 
@@ -328,7 +324,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 2. De subsidieontvangerzorgt ervoor dat per bouwproject ten minste één vertegenwoordiger namens de bouwheer deelneemt aan de bijeenkomsten in het leerlab.
 
-3. De subsidieontvanger informeert de minister op verzoek over de jaarlijkse voortgang van de activiteiten waarvoor de subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-06-26&g=2025-06-26), is verstrekt.
+3. De subsidieontvanger informeert de minister op verzoek over de jaarlijkse voortgang van de activiteiten waarvoor de subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=4&z=2025-11-26&g=2025-11-26), is verstrekt.
 
 4. De subsidieontvanger werkt mee aan de monitoring- en effectstudie van het programma en stelt de daarvoor benodigde gegevens, alsmede de gegevens ten behoeve van de ontwikkeling van de open standaarden aan het programmabureau beschikbaar.
 
@@ -344,11 +340,11 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 7. De subsidieontvanger verleent op verzoek van de minister medewerking aan een evaluatieonderzoek.
 
-8. Indien de gemeente als bouwheer optreedt draagt de subsidieontvanger er zorg voor dat deze gemeente als bouwheer zich inspant om te voldoen aan de subsidieverplichtingen, bedoeld in het eerste, tweede en zesde lid, en voor zover van toepassing [artikel 13, eerste lid, onderdelen a, b, c,d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-06-26&g=2025-06-26), [artikel 14, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-06-26&g=2025-06-26) en [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-06-26&g=2025-06-26).
+8. Indien de gemeente als bouwheer optreedt draagt de subsidieontvanger er zorg voor dat deze gemeente als bouwheer zich inspant om te voldoen aan de subsidieverplichtingen, bedoeld in het eerste, tweede en zesde lid, en voor zover van toepassing [artikel 13, eerste lid, onderdelen a, b, c,d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-11-26&g=2025-11-26), [artikel 14, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-11-26&g=2025-11-26) en [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-11-26&g=2025-11-26).
 
 ##### Artikel 13. Specifieke verplichtingen leerlab 1
 
-1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-06-26&g=2025-06-26), ten aanzien van leerlab 1 de volgende aanvullende verplichtingen verbonden:
+1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 1 de volgende aanvullende verplichtingen verbonden:
 
 - a. subsidieontvanger stelt informatie, kennis en expertise beschikbaar aan partnergemeenten en partnerschoolbesturen binnen de bundel;
 
@@ -366,11 +362,11 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 ##### Artikel 14. Specifieke verplichtingen leerlab 2
 
-1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-06-26&g=2025-06-26), ten aanzien van leerlab 2 de volgende aanvullende verplichtingen verbonden:
+1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 2 de volgende aanvullende verplichtingen verbonden:
 
 - a. de subsidieontvanger stelt informatie, kennis en expertise beschikbaar aan partnergemeenten en partnerschoolbesturen binnen de bundel;
 
-- b. de subsidieontvanger zorgt ervoor dat het bouwproject wordt aanbesteed met een generiek programma van eisen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&bijlage=1&z=2025-06-26&g=2025-06-26) bij deze regeling;
+- b. de subsidieontvanger zorgt ervoor dat het bouwproject wordt aanbesteed met een generiek programma van eisen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&bijlage=1&z=2025-11-26&g=2025-11-26) bij deze regeling;
 
 - c. de bouwprojecten binnen een bundel worden afzonderlijk van elkaar aanbesteed; en
 
@@ -382,7 +378,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 ##### Artikel 15. Specifieke verplichtingen leerlab 3
 
-1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-06-26&g=2025-06-26), ten aanzien van leerlab 3 de volgende aanvullende verplichtingen verbonden:
+1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 3 de volgende aanvullende verplichtingen verbonden:
 
 - a. de subsidieontvanger besteedt het bouwproject voor wat betreft vervangende nieuwbouw aan op basis van een geïntegreerd contract waarin minimaal het ontwerp en de uitvoering worden gecombineerd.
 
@@ -392,7 +388,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 ##### Artikel 16. Verlening en voorschot
 
-1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie verleend binnen dertien weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-06-26&g=2025-06-26).
+1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie verleend binnen dertien weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26).
 
 2. De minister verleent bij het besluit tot verlening een voorschot van 100%. Het voorschot wordt als volgt uitbetaald:
 
@@ -410,7 +406,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 2. Indien de activiteiten waarvoor de subsidie is verstrekt geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd. Het eventuele niet-aangewende deel van de subsidie kan worden besteed aan andere activiteiten waarvoor aan de subsidieontvanger bekostiging wordt verstrekt.
 
-3. De vaststelling vindt plaats binnen een jaar na de indiening van het jaarverslag over laatste jaar van de uitvoering van de bouwactiviteiten, bedoeld in [artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-06-26&g=2025-06-26), [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-06-26&g=2025-06-26), onderscheidenlijk [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-06-26&g=2025-06-26).
+3. De vaststelling vindt plaats binnen een jaar na de indiening van het jaarverslag over laatste jaar van de uitvoering van de bouwactiviteiten, bedoeld in [artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-11-26&g=2025-11-26), [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-11-26&g=2025-11-26), onderscheidenlijk [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-11-26&g=2025-11-26).
 
 ##### Artikel 18. Hardheidsclausule
 
