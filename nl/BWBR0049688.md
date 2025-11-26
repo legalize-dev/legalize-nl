@@ -4,7 +4,7 @@ identifier: "BWBR0049688"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-26"
-last_updated: "2025-06-28"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049688"
 soort: "AMvB"
@@ -84,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 - **richtlijn:** [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151);
 
-- **producten:** door middel van een productieproces vervaardigde stof, preparaat of goed, uitgezonderd levensmiddelen, diervoeder, levende planten en dieren, producten van menselijke oorsprong en rechtstreeks met hun toekomstige reproductie verband houdende producten van planten en dieren, voor zover behorend tot een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-06-28&g=2025-06-28) genoemde categorie;
+- **producten:** door middel van een productieproces vervaardigde stof, preparaat of goed, uitgezonderd levensmiddelen, diervoeder, levende planten en dieren, producten van menselijke oorsprong en rechtstreeks met hun toekomstige reproductie verband houdende producten van planten en dieren, voor zover behorend tot een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26) genoemde categorie;
 
 - **uit de handel nemen:** maatregel om te voorkomen dat producten in de toeleveringsketen op de markt wordt aangeboden.
 
@@ -114,17 +114,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Verbod op het in de handel brengen van producten
 
-Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-06-28&g=2025-06-28), die niet voldoen aan de in dit besluit gestelde voorschriften, in de handel te brengen.
+Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26), die niet voldoen aan de in dit besluit gestelde voorschriften, in de handel te brengen.
 
 ##### Artikel 4. Verplichtingen fabrikanten
 
-1. Fabrikanten voldoen bij het ontwerpen, vervaardigen en in de handel brengen van producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-06-28&g=2025-06-28), van dit besluit aan artikel 7 van de richtlijn en aan afdeling I en II van bijlage I bij de richtlijn.
+1. Fabrikanten voldoen bij het ontwerpen, vervaardigen en in de handel brengen van producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26), van dit besluit aan artikel 7 van de richtlijn en aan afdeling I en II van bijlage I bij de richtlijn.
 
 2. In afwijking van het eerste lid, worden zelfbedieningsterminals ontworpen en vervaardigd overeenkomstig de toegankelijkheidsvoorschriften van afdeling I van bijlage I bij de richtlijn.
 
 3. De in artikel 7, tweede lid, van de richtlijn voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 en de voorgeschreven CE-markering aan de artikelen 17 en 18 van de richtlijn.
 
-4. De in artikel 7, zesde en zevende lid, van de richtlijn voorgeschreven taal is Nederlands. De in artikel 7, negende lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
+4. De in artikel 7, zesde en zevende lid, van de richtlijn voorgeschreven taal is Nederlands. De in artikel 7, negende lid, en artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
 ##### Artikel 5. Gemachtigden
 
@@ -134,13 +134,17 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 3. Een gemachtigde als bedoeld in het eerste lid, voldoet aan de artikelen 8, tweede lid, en 12 van de richtlijn.
 
-4. De in artikel 8, tweede lid, onder a, voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 van de richtlijn.
+4. De in artikel 8, tweede lid, onder a, voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 van de richtlijn. De in artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
 ##### Artikel 6. Verplichtingen importeurs
 
 1. Importeurs voldoen bij het in de handel brengen van producten als bedoeld in artikel 2, aan artikel 9 van de richtlijn.
 
-2. In afwijking van het eerste lid voldoen importeurs, voor zover zij ingevolge artikel 11 van de richtlijn als fabrikant worden beschouwd, aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=3&z=2025-06-28&g=2025-06-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28) van dit besluit.
+2. In afwijking van het eerste lid voldoen importeurs, voor zover zij ingevolge artikel 11 van de richtlijn als fabrikant worden beschouwd, aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=3&z=2025-11-26&g=2025-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26) van dit besluit.
+
+3. De in artikel 9, vierde en vijfde lid, van de richtlijn voorgeschreven taal is Nederlands. De in artikel 9, negende lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
+
+4. De in artikel 9, zevende lid, van de richtlijn voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 van de richtlijn. De in artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
 ##### Artikel 7. Verplichtingen distributeurs
 
@@ -148,11 +152,11 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 2. De in artikel 10, tweede lid, van de richtlijn voorgeschreven taal is Nederlands.
 
-3. In afwijking van het eerste lid voldoen distributeurs, voor zover zij ingevolge artikel 11 van de richtlijn als fabrikant worden beschouwd, aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=3&z=2025-06-28&g=2025-06-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28) van dit besluit.
+3. In afwijking van het eerste lid voldoen distributeurs, voor zover zij ingevolge artikel 11 van de richtlijn als fabrikant worden beschouwd, aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=3&z=2025-11-26&g=2025-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26) van dit besluit.
 
 ##### Artikel 8. Fundamentele wijziging en onevenredige last
 
-1. De in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=6&z=2025-06-28&g=2025-06-28), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=7&z=2025-06-28&g=2025-06-28), bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
+1. De in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=6&z=2025-11-26&g=2025-11-26), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=7&z=2025-11-26&g=2025-11-26), bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
 
 - a. geen ingrijpende wijziging van de betreffende producten vereist, resulterend in een fundamentele wijziging van de wezenlijke aard ervan, of
 
@@ -174,9 +178,9 @@ De bevoegde nationale autoriteit, bedoeld in de artikelen 7, achtste en negende 
 
 ##### Artikel 10. Vermoeden van EU-conformiteit van producten
 
-1. Producten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28) bedoelde toegankelijkheidsvoorschriften voor zover die voorschriften door deze normen of delen daarvan worden bestreken.
+1. Producten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26) bedoelde toegankelijkheidsvoorschriften voor zover die voorschriften door deze normen of delen daarvan worden bestreken.
 
-2. Producten die in overeenstemming zijn met op grond van artikel 15, derde lid, van de richtlijn vastgestelde technische specificaties of delen daarvan worden geacht in overeenstemming te zijn met de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=6&z=2025-06-28&g=2025-06-28), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=7&z=2025-06-28&g=2025-06-28), bedoelde toegankelijkheidsvoorschriften.
+2. Producten die in overeenstemming zijn met op grond van artikel 15, derde lid, van de richtlijn vastgestelde technische specificaties of delen daarvan worden geacht in overeenstemming te zijn met de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=6&z=2025-11-26&g=2025-11-26), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=7&z=2025-11-26&g=2025-11-26), bedoelde toegankelijkheidsvoorschriften.
 
 3. Producten waarvan de kenmerken, onderdelen en functies voldoen aan de overeenkomstig afdeling VI van bijlage I van de richtlijn vastgestelde toegankelijkheidsvoorschriften, worden voor wat deze kenmerken, onderdelen en functies betreft geacht te voldoen aan de desbetreffende verplichtingen inzake toegankelijkheid krachtens andere Uniehandelingen dan de richtlijn, tenzij in die andere handelingen anders wordt bepaald.
 
