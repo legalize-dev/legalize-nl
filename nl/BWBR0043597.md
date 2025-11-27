@@ -4,7 +4,7 @@ identifier: "BWBR0043597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2023-11-01"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043597"
 soort: "ministeriele-regeling"
@@ -46,19 +46,23 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie CIO-office en Integrale Veiligheid;
+- a. **directie:** de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
-- b. **directeur:** de directeur CIO-office en Integrale Veiligheid;
+- b. **directeur:** de directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
-- c. **CIO:** Chief Information Officer;
+- c. **CIO:** Chief Information Officer, de functionaris als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3), en [artikel 9, eerste lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- d. **beveiligingsambtenaar:** de functionaris bedoeld in [Beveiligingsvoorschrift Rijksdienst 2013, artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033512&artikel=4);
+- d. **CISO:** Chief Information Security Officer, de functionaris als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=5), en [artikel 9, derde lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- e. **functionaris gegevensbescherming:** de functionaris zoals bedoeld in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid;
+- e. **Besluit CIO-stelsel:** het [Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613);
 
-- f. **IV:** informatievoorziening;
+- f. **beveiligingsautoriteit:** de functionaris als bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3);
 
-- g. **ICT:** informatie- en communicatietechnologie.
+- g. **functionaris gegevensbescherming:** de functionaris zoals bedoeld in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid;
+
+- h. **IV:** informatievoorziening;
+
+- i. **ICT:** informatie- en communicatietechnologie.
 
 #### § 2. Organisatie
 
@@ -66,19 +70,25 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De directie CIV bestaat uit de volgende onderdelen:
 
-- a. het team CIO-office;
+- a. de afdeling CIO-office;
 
-- b. het team Veiligheid en Privacy.
+- b. de afdeling Informatie voor Beleid en Bedrijfsvoering;
 
-2. Het team CIO-office ressorteert rechtstreeks onder de directeur. De directeur stuurt het team CIO-office aan. De directeur is tevens CIO SZW.
+- c. de afdeling Veiligheid.
 
-3. Het team Veiligheid en Privacy ressorteert onder de beveiligingsambtenaar. De beveiligingsambtenaar stuurt het team Veiligheid en privacy aan.
+2. De directeur stuurt de directie aan en is tevens CIO. Voorts is de directeur voorzitter van het managementteam van de directie, bestaande uit de directeur, de afdelingshoofden en de directiesecretaris.
+
+3. De afdeling CIO-office ressorteert onder het afdelingshoofd CIO-office. Het afdelingshoofd stuurt de afdeling CIO-office aan. Het afdelingshoofd is tevens plaatsvervangend directeur en plaatsvervangend CIO.
+
+4. De afdeling Informatie voor Beleid en Bedrijfsvoering ressorteert onder het afdelingshoofd Informatie voor Beleid en Bedrijfsvoering. Het afdelingshoofd stuurt de afdeling Informatie voor Beleid en Bedrijfsvoering aan.
+
+5. De afdeling Veiligheid ressorteert onder het afdelingshoofd Veiligheid. Het afdelingshoofd stuurt de afdeling Veiligheid aan. Het afdelingshoofd is tevens beveiligingsautoriteit.
 
 #### § 3. Verantwoordelijkheden
 
 ##### Artikel 3
 
-De directeur wordt voor de dagelijkse aansturing van het team CIO-office bijgestaan door de plaatsvervangend CIO’s. De directeur is hierbij verantwoordelijk voor de volgende taken:
+1. De directeur wordt voor de dagelijkse aansturing van de directie ondersteund door het managementteam. De directeur is hierbij verantwoordelijk voor de volgende taken:
 
 - a. het adviseren over informatievoorziening, beleidstrajecten met een informatievoorziening en ICT-component, de ICT-projecten, het portfolio-management voor het ministerie, veiligheid en privacy mede op basis van de rijksbrede kaders;
 
@@ -100,21 +110,27 @@ De directeur wordt voor de dagelijkse aansturing van het team CIO-office bijgest
 
 - j. het adviseren van de eigenaar en opdrachtgevers van de Sociale Verzekeringsbank en het Uitvoeringsinstituut Werknemersregelingen over de aandachtsgebieden van het team.
 
+2. De directeur wordt in de rol van CIO ondersteund door de plaatsvervangend CIO en de afdeling CIO-office. Verder wordt de directeur ondersteund door de specialistisch coördinator die, indien en slechts voor zover hij acteert vanuit zijn adviserende en toetsende rol bij de kwaliteit van IV-projecten, ook als plaatsvervangend CIO mag acteren.
+
+3. De CIO is verantwoordelijk voor de ontwikkeling en coördinatie van het informatievoorzienings- en digitaliseringsbeleid en het zorgdragen voor de ontwikkeling en het beheer van de informatiesystemen van het ministerie. Voorts is de CIO verantwoordelijk voor de taken als bedoeld in [artikel 4 van het Besluit CIO-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=4) en:
+
+- a. het stimuleren van het werken met architectuur door onder andere het opstellen en actueel houden van de Enterprise architectuur en het coördineren van architectuurprocessen voor het ministerie, inclusief de Nederlandse Arbeidsinspectie en de ketens van het ministerie;
+
+- b. het stimuleren van het op een verantwoorde manier datagedreven werken bij het ministerie.
+
 ##### Artikel 4
 
-1. De beveiligingsambtenaar is, onverminderd het bepaalde in de Algemene Verordening Gegevensbescherming, verantwoordelijk voor:
+1. De beveiligingsautoriteit is, onverminderd het bepaalde in de Algemene Verordening Gegevensbescherming, verantwoordelijk voor de taken als bedoeld in [artikel 4 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4) en:
 
-- a. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten;
+- a. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de afdeling;
 
-- b. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van het team;
+- b. het genereren van beleidsinformatie op de aandachtsgebieden van de afdeling;
 
-- c. het genereren van beleidsinformatie op de aandachtsgebieden van het team;
+- c. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de afdeling;
 
-- d. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van het team;
+- d. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de afdeling.
 
-- e. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van het team;
-
-- f. het houden van toezicht op de naleving van de kaders en regelingen binnen het ministerie voor integrale veiligheid.
+Op de aangewezen piketmedewerker van de afdeling Veiligheid is [artikel 5 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=5) van overeenkomstige toepassing, met dien verstande dat de bevoegdheden namens de beveiligingsautoriteit worden uitgeoefend.
 
 2. De functionaris gegevensbescherming is conform het bepaalde in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid, verantwoordelijk voor het houden van toezicht op naleving van kaders en regelingen voor privacy van het ministerie SZW.
 
@@ -122,11 +138,11 @@ De directeur wordt voor de dagelijkse aansturing van het team CIO-office bijgest
 
 ##### Artikel 5
 
-Aan de beveiligingsambtenaar van het team Veiligheid en Privacy wordt mandaat, volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan elk van de afdelingshoofden wordt mandaat, volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
-- a. de taken van het eigen team;
+- a. de taken van de eigen afdeling;
 
-- b. de personeelsaangelegenheden van het eigen team voor zover het betreft:
+- b. de personeelsaangelegenheden van de eigen afdeling voor zover het betreft:
 
 - 1°. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -138,19 +154,19 @@ Aan de beveiligingsambtenaar van het team Veiligheid en Privacy wordt mandaat, v
 
 ##### Artikel 6
 
-Het hoofd van het team Veiligheid en Privacy is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043597&paragraaf=3&artikel=4&z=2025-11-27&g=2023-11-01), tot een bedrag van € 5.000,– per overeenkomst.
+Elk van de afdelingshoofden is gevolmachtigd tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder hun verantwoordelijkheid.
 
 ##### Artikel 7
 
-Aan de beveiligingsambtenaar en de plaatsvervangend CIO’s wordt mandaat en machtiging verleend met betrekking tot:
+Aan elk van de afdelingshoofden wordt mandaat en machtiging verleend met betrekking tot:
 
-- a. het afdoen van informatieve brieven die betrekking hebben op de taken van de eigen teams;
+- a. het afdoen van informatieve brieven die betrekking hebben op de taken van de eigen afdelingen;
 
 - b. het paraferen van stukken waar de directie geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
 
 ##### Artikel 8
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de door hem aangewezen functionarissen, met dien verstande dat de CIO-taken van de directeur worden bij afwezigheid of verhindering waargenomen door de plaatsvervangend CIO’s.
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
 #### § 5. Slotbepaling
 
