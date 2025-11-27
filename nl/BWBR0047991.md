@@ -4,7 +4,7 @@ identifier: "BWBR0047991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2024-07-05"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047991"
 soort: "ministeriele-regeling"
@@ -114,9 +114,9 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 6. Hoogte specifieke uitkering
 
-1. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05), bedraagt 80 procent van de kosten, met een maximum van € 440.000 inclusief btw.
+1. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27), bedraagt 80 procent van de kosten, met een maximum van € 440.000 inclusief btw.
 
-2. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05), bedraagt 80 procent van de kosten, met een maximum van € 220.000 inclusief btw.
+2. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27), bedraagt 80 procent van de kosten, met een maximum van € 220.000 inclusief btw.
 
 ##### Artikel 7. Aanvraag voor een specifieke uitkering
 
@@ -144,7 +144,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 8. Wijze van verdelen beschikbare middelen
 
-1. De minister beslist per aanvraagperiode als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2024-07-05&g=2024-07-05), gelijktijdig op alle aanvragen waarbij verlening van een specifieke uitkering geschiedt op basis van de rangschikking zoals geregeld in dit artikel.
+1. De minister beslist per aanvraagperiode als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2025-11-27&g=2025-11-27), gelijktijdig op alle aanvragen waarbij verlening van een specifieke uitkering geschiedt op basis van de rangschikking zoals geregeld in dit artikel.
 
 2. Een eerste rangschikking vindt als volgt plaats:
 
@@ -168,7 +168,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 9. Beslistermijn
 
-Op de aanvragen wordt binnen dertien weken na afloop van de aanvraagperioden, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2024-07-05&g=2024-07-05), beslist.
+Op de aanvragen wordt binnen dertien weken na afloop van de aanvraagperioden, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2025-11-27&g=2025-11-27), beslist.
 
 ##### Artikel 10. Voorschot en betaling
 
@@ -180,7 +180,7 @@ Aan de verlening van een specifieke uitkering zijn de volgende verplichtingen ve
 
 - a. de gemeente is verplicht de activiteiten uit te voeren overeenkomstig de beschrijving in de aanvraag;
 
-- b. de gemeente is verplicht de activiteiten uiterlijk op 31 december 2025 af te ronden;
+- b. de gemeente is verplicht de activiteiten uiterlijk op 31 december 2026 af te ronden;
 
 - c. de gemeente werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek en overleg dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor de werking van deze regeling en de ontwikkeling van het door de minister te voeren bibliothekenbeleid; en
 
@@ -198,17 +198,17 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 ##### Artikel 13. Vaststelling
 
-1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2024-07-05&g=2024-07-05), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
+1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2025-11-27&g=2025-11-27), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
 
 2. Als de activiteiten waarvoor een specifieke uitkering is verleend geheel zijn uitgevoerd, wordt de specifieke uitkering vastgesteld op het in de verleningsbeschikking genoemde bedrag.
 
-3. De specifieke uitkering wordt op een lager bedrag worden vastgesteld als:
+3. De specifieke uitkering kan op een lager bedrag worden vastgesteld als:
 
 - a. de werkelijke kosten lager zijn dan het verleende bedrag;
 
 - b. de specifieke uitkering anderszins niet of niet volledig overeenkomstig het doel van deze regeling is besteed; of
 
-- c. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2024-07-05&g=2024-07-05), of de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2024-07-05&g=2024-07-05).
+- c. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2025-11-27&g=2025-11-27), of de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2025-11-27&g=2025-11-27).
 
 4. De minister kan onverschuldigd betaalde specifieke uitkeringen en voorschotten terugvorderen voor zover na de dag waarop de beschikking waarbij de specifieke uitkering is vastgesteld, nog geen vijf jaren zijn verstreken.
 
@@ -216,7 +216,7 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 ##### Artikel 14. Doel van de subsidie
 
-De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteuningsinstellingen als tegemoetkoming in de kosten van werkzaamheden die zij verrichten ter ondersteuning bij de uitvoering van activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05).
+De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteuningsinstellingen als tegemoetkoming in de kosten van werkzaamheden die zij verrichten ter ondersteuning bij de uitvoering van activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27).
 
 ##### Artikel 15. Subsidieplafond en subsidiehoogte
 
@@ -243,7 +243,7 @@ Bij verlening van een subsidie wordt het verleende bedrag in één keer bij wijz
 
 ##### Artikel 17. Verplichtingen
 
-1. [Artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2024-07-05&g=2024-07-05), is van overeenkomstige toepassing.
+1. [Artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2025-11-27&g=2025-11-27), is van overeenkomstige toepassing.
 
 2. De subsidieontvanger is verplicht de activiteiten uiterlijk op 31 december 2024 af te ronden.
 
@@ -275,8 +275,8 @@ Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering en s
 
 ##### Artikel 18a
 
-1. In aanvulling op [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=3&z=2024-07-05&g=2024-07-05), is voor het jaar 2024 een aanvullend bedrag van € 11.000.000 beschikbaar voor het verstrekken van specifieke uitkeringen aan gemeenten wier aanvragen in 2024 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde uitkeringsplafond.
+1. In aanvulling op [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=3&z=2025-11-27&g=2025-11-27), is voor het jaar 2024 een aanvullend bedrag van € 11.000.000 beschikbaar voor het verstrekken van specifieke uitkeringen aan gemeenten wier aanvragen in 2024 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde uitkeringsplafond.
 
 2. De minister verstrekt de specifieke uitkering, bedoeld in het eerste lid, ambtshalve op uiterlijk 1 september 2024.
 
-3. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=3&z=2024-07-05&g=2024-07-05), [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2024-07-05&g=2024-07-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=8&z=2024-07-05&g=2024-07-05) en [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=10&z=2024-07-05&g=2024-07-05) zijn van overeenkomstige toepassing, met dien verstande dat een gemeente die een in het eerste lid bedoelde specifieke uitkering ontvangt, in afwijking van [artikel 11, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2024-07-05&g=2024-07-05), verplicht is de activiteiten uiterlijk op 30 juni 2026 af te ronden.
+3. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=3&z=2025-11-27&g=2025-11-27), [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2025-11-27&g=2025-11-27), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=8&z=2025-11-27&g=2025-11-27) en [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=10&z=2025-11-27&g=2025-11-27) zijn van overeenkomstige toepassing, met dien verstande dat een gemeente die een in het eerste lid bedoelde specifieke uitkering ontvangt, in afwijking van [artikel 11, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2025-11-27&g=2025-11-27), verplicht is de activiteiten uiterlijk op 31 december 2026 af te ronden.
