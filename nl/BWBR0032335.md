@@ -4,7 +4,7 @@ identifier: "BWBR0032335"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-27"
-last_updated: "2023-10-07"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032335"
 soort: "AMvB"
@@ -52,7 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
+- –. **Benelux-beschikking over gekwalificeerde personen:** beschikking van het Benelux Comité van Ministers van 18 december 2019 betreffende de algemene wederzijdse erkenning van de hoedanigheid van gekwalificeerd persoon op het gebied van gezondheid en hygiëne van vrij wild (Benelux Publicatieblad 1, 2020);
+
 - –. **boerderijmelk:** rauwe melk die door een melkveehouder kennelijk bestemd is voor aflevering anders dan aan consumenten;
+
+- –. **gekwalificeerd persoon:** persoon als bedoeld in bijlage III, sectie IV, hoofdstuk I, van [verordening (EG) nr. 853/2004](32004R0853);
 
 - –. **kaas:** product dat wordt verkregen door stremming van melk waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken, de verwijdering van wei en de rijping tot voor de consumptie gereed product;
 
@@ -114,11 +118,11 @@ Rechtstreekse levering van kleine hoeveelheden vlees van op het bedrijf geslacht
 
 2. Het is verboden bij rechtstreekse levering als bedoeld in artikel 1, derde lid, onderdeel e, van verordening (EG) nr. 853/2004 van klein vrij wild te handelen in strijd met bijlage III, sectie IV, hoofdstuk III, onderdelen 1, 2 en 4, van die verordening.
 
-3. Het onderzoek, bedoeld in bijlage III, sectie IV, hoofdstuk II, onderdeel 2, en hoofdstuk III, onderdeel 1, van verordening (EG) nr. 853/2004, wordt uitgevoerd door een gekwalificeerd persoon als bedoeld in bijlage III, sectie IV, hoofdstuk I, van die verordening.
+3. Het onderzoek, bedoeld in bijlage III, sectie IV, hoofdstuk II, onderdeel 2, en hoofdstuk III, onderdeel 1, van verordening (EG) nr. 853/2004, wordt uitgevoerd door een gekwalificeerd persoon.
 
 ##### Artikel 2.4. Onderzoek wilde zwijnen
 
-1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2023-10-07&g=2023-10-07), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, tweede lid, tweede alinea, van [verordening (EU) nr. 1375/2015](32015R1375).
+1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-11-27&g=2025-11-27), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, tweede lid, tweede alinea, van [verordening (EU) nr. 1375/2015](32015R1375).
 
 2. De bemonstering en het onderzoek van het monster vinden plaats overeenkomstig bijlage I, hoofdstuk I, onderdeel 1, onderdeel 2, onder c, tweede alinea, onderdeel 3, onder I en II, en bijlage III, aanhef en onderdelen a, d, en f, van [verordening (EU) nr. 1375/2015](32015R1375).
 
@@ -154,9 +158,9 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.7. Regels ter uitvoering EU-rechtshandelingen
 
-1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-10-07&g=2023-10-07) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
+1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
 
-2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-10-07&g=2023-10-07) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
+2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
 
 ##### Artikel 2.8. Nationale kwaliteitsvoorschriften voor kaas
 
@@ -178,7 +182,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.9. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
-1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2023-10-07&g=2023-10-07) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2023-10-07&g=2023-10-07), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
+1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2025-11-27&g=2025-11-27) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2025-11-27&g=2025-11-27), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
 
 - a. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8), [11, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), en [13 tot en met 13y van de Landbouwkwaliteitswet](onbekend);
 
@@ -186,7 +190,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 2. Op de uitvoering van het toezicht op de naleving van regels over de kwaliteit van levensmiddelen van dierlijke oorsprong door Onze Minister, is [artikel 11, tweede en vierde tot en met zevende lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) van overeenkomstige toepassing.
 
-3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-10-07&g=2023-10-07).
+3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27).
 
 ##### Artikel 2.10. Controles en bewijsstukken
 
@@ -240,7 +244,7 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 2. De tarieven, alsmede wijzigingen daarvan, behoeven de goedkeuring van Onze Minister.
 
-3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-10-07&g=2023-10-07).
+3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-11-27&g=2025-11-27).
 
 4. Indien de vanaf een kalenderjaar te berekenen tarieven niet voor 1 januari van dat jaar zijn goedgekeurd, kan Onze Minister de tarieven vaststellen.
 
@@ -250,7 +254,7 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 ##### Artikel 3.5. Extra kosten
 
-Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-10-07&g=2023-10-07), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
+Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-11-27&g=2025-11-27), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
 
 ### Hoofdstuk 3. Niet voor menselijke consumptie bestemde dierlijke producten
 
@@ -304,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Dierlijke bijproducten
 
-### Hoofdstuk 4. Overige bepalingen
+### Hoofdstuk 3. Niet voor menselijke consumptie bestemde dierlijke producten
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -413,6 +417,72 @@ Ingeval artikel 234, derde lid, van verordening (EU) nr. 2016/429 van toepassing
 - e. de verpakking van levende producten;
 
 - f. het vervoer van en de handel in levende producten en de begeleidende documenten daarbij.
+
+### Hoofdstuk 4. Overige bepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.5a. Regels met betrekking tot gekwalificeerde personen
+
+1. Een gekwalificeerd persoon die in Nederland een opleiding heeft afgerond die voldoet aan bijlage III, sectie IV, hoofdstuk I, onderdeel 4, van [verordening (EG) nr. 853/2004](32004R0853), niet zijnde een gekwalificeerd persoon met de Belgische of Luxemburgse nationaliteit die in het eigen land bevoegd is te handelen als gekwalificeerd persoon, registreert zich in een daartoe door Onze Minister beschikbaar gesteld register met de volgende gegevens:
+
+- a. naam;
+
+- b. adres en woonplaats;
+
+- c. geboortedatum;
+
+- d. telefoonnummer;
+
+- e. e-mailadres; en
+
+- f. het unieke nummer, en de maand en jaar van afgifte van het bewijs dat met goed gevolg een opleiding is afgerond die voldoet aan bijlage III, sectie IV, hoofdstuk I, onderdeel 4, van [verordening (EG) nr. 853/2004](32004R0853).
+
+2. Een gekwalificeerd persoon meldt in het register:
+
+- a. het unieke nummer, en de maand en jaar van afgifte van het bewijs van bijscholing ten aanzien van de kennis, bedoeld in bijlage III, sectie IV, hoofdstuk I, onderdeel 1, van [verordening (EG) nr. 853/2004](32004R0853); en
+
+- b. elke wijziging van gegevens als bedoeld in onderdeel a, en in het eerste lid, onderdelen a tot en met e.
+
+3. In afwijking van het eerste en tweede lid:
+
+- a. verzoekt een in Nederland werkzaam gekwalificeerd persoon, niet zijnde een gekwalificeerd persoon met de Belgische of Luxemburgse nationaliteit die in het eigen land bevoegd is te handelen als gekwalificeerd persoon, die niet beschikt over een bewijs als bedoeld in het eerste lid, onderdeel f, maar wel aantoonbaar beschikt over de kennis, bedoeld in het tweede lid, onderdeel a, Onze Minister hem op te nemen in het register, bedoeld in het eerste lid, aanhef, met de gegevens, bedoeld in het eerste lid, onderdelen a tot en met e; en
+
+- b. meldt de gekwalificeerde persoon, bedoeld in onderdeel a, in het register elke wijziging van zijn gegevens als bedoeld in het eerste lid, onderdelen a tot en met e.
+
+4. Onze Minister haalt een registratie als bedoeld in het eerste lid door, indien de gekwalificeerde persoon:
+
+- a. niet langer als zodanig werkzaam is;
+
+- b. niet meer beschikt over voldoende kennis als bedoeld in het tweede lid, onderdeel a;
+
+- c. daar zelf toe verzoekt;
+
+- d. is overleden;
+
+- e. op grond van artikel 138, tweede lid, van [verordening (EU) nr. 2017/625](32017R0625), gelast is zijn werkzaamheden als gekwalificeerde persoon gedurende een passende periode stop te zetten; of
+
+- f. niet tijdig de gegevens, bedoeld in het tweede lid of het derde lid, onderdeel b, in het register meldt.
+
+5. Een doorhaling als bedoeld in het vierde lid geschiedt niet eerder dan nadat de gekwalificeerde persoon in de gelegenheid is gesteld om zijn zienswijzen omtrent de doorhaling naar eigen keuze mondeling of schriftelijk naar voren te brengen.
+
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld over:
+
+- a. de wijze van registratie van de gegevens, bedoeld in het eerste en derde lid, onderdeel a, alsmede de wijze van melding van de gegevens, bedoeld in het tweede en derde lid, onderdeel b;
+
+- b. de bewaartermijn van de gegevens, bedoeld in het eerste tot en met het derde lid;
+
+- c. de termijn waarbinnen een gekwalificeerd persoon de registratie, bedoeld in het eerste en derde lid, onderdeel a, of de melding, bedoeld in het tweede en derde lid, onderdeel b, doet.
+
+7. Ter uitvoering van de Benelux-beschikking over gekwalificeerde personen verstrekt Onze Minister desgevraagd de gegevens, bedoeld in het eerste lid, onderdelen a, c en f, of, wanneer het gaat om een gekwalificeerde persoon als bedoeld in het derde lid, onderdeel a, de gegevens, bedoeld in het eerste lid, onderdelen a en c, aan de bevoegde autoriteiten van België en Luxemburg. Wanneer door of namens de Benelux Unie een register van gekwalificeerde personen is opgezet, verstrekt Onze Minister de gegevens ook in het kader van het opnemen van deze gegevens in dat register.
+
+8. Onze Minister, en een organisatie verantwoordelijk voor de afgifte van de bewijzen, bedoeld in het eerste lid onderdeel f, en het tweede lid, onderdeel a, verstrekken elkaar de gegevens, bedoeld in het eerste lid, onderdelen a tot en met c en f, en het tweede lid, onderdeel a. Deze gegevensverwerking heeft als doel te bepalen of de door de gekwalificeerde persoon geregistreerde gegevens correct zijn.
+
+#### § 2. Kwaliteit van levensmiddelen van dierlijke oorsprong
+
+#### § 1. Dierlijke bijproducten
+
+#### § 2. Levende dierlijke producten
 
 ### Hoofdstuk 4. Overige bepalingen
 
