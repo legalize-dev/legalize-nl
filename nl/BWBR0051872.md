@@ -4,7 +4,7 @@ identifier: "BWBR0051872"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2025-11-01"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051872"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ gevolgd door de functie en naam van de gemandateerde functionaris en de datum va
 
 ##### Artikel 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 november 2025 en werkt ten aanzien van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051872&artikel=3&z=2025-11-27&g=2025-11-01) terug tot en met 1 mei 2025.
+Dit besluit treedt in werking met ingang van 1 november 2025 en werkt ten aanzien van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051872&artikel=3&z=2025-11-27&g=2025-11-27) terug tot en met 1 mei 2025.
 
 ##### Artikel 6. Citeertitel
 
