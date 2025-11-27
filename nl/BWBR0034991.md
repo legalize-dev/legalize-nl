@@ -4,7 +4,7 @@ identifier: "BWBR0034991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2025-07-01"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034991"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.ov
 
 ##### Artikel 3
 
-Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-07-01&g=2025-07-01), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
+Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
 
 ##### Artikel 4
 
@@ -82,11 +82,11 @@ Bij de vervaardiging van verpakkingen en gebruiksartikelen mogen grond- en hulps
 
 ##### Artikel 5
 
-Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-07-01&g=2025-07-01), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
+Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
 
 ##### Artikel 6
 
-Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-07-01&g=2025-07-01), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
+Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 7
 
