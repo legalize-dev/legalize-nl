@@ -4,7 +4,7 @@ identifier: "BWBR0049658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-28"
-last_updated: "2024-05-04"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049658"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ In deze regeling wordt verstaan onder:
 
 - f. toekomstbestendig omgaan met nazorg;
 
-- **buitenproportionele opgave categorie A:** buitenproportionele opgave als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04);
+- **buitenproportionele opgave categorie A:** buitenproportionele opgave als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28);
 
-- **buitenproportionele opgave categorie B:** buitenproportionele opgave als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04);
+- **buitenproportionele opgave categorie B:** buitenproportionele opgave als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28);
 
 - **college:** college van gedeputeerde staten;
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - **grondwaterrichtlijn:** [Richtlijn 2006/118/EG](32006L0118) van het Europees Parlement en de Raad van 12 december 2006 betreffende de bescherming van het grondwater tegen verontreiniging en achteruitgang van de toestand (PbEU 2006, L 372);
 
-- **historische spoedopgaven:** aanpak van historische spoedeisende bodemverontreiniging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04);
+- **historische spoedopgaven:** aanpak van historische spoedeisende bodemverontreiniging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2025-11-28&g=2025-11-28);
 
 - **kaderrichtlijn water:** [Richtlijn 2000/60/EG](32000L0060) van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG 2000, L 327);
 
@@ -104,7 +104,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8]
 
 ##### Artikel 3. Doel
 
-Het doel van deze regeling is om door middel van het verstrekken van uitkeringen bevoegde gezagen Wbb, bevoegde gezagen Ow, colleges verantwoordelijk voor de kwaliteit van het grondwater en waterschappen als bevoegd gezagen regionale waterbodems onder de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wat betreft waterbodems die onder de historische spoedopgaven vallen, in staat te stellen om in de periode van 2024 tot en met 2030 een aantal taken op het gebied van bodemsanering goed af te ronden en nieuwe bodemkwaliteitsopgaven te signaleren en daarop te reageren met een passende aanpak.
+Het doel van deze regeling is om door middel van het verstrekken van uitkeringen bevoegde gezagen Wbb, bevoegde gezagen Ow, colleges verantwoordelijk voor de kwaliteit van het grondwater en waterschappen als bevoegd gezagen regionale waterbodems onder de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wat betreft waterbodems die onder de historische spoedopgaven vallen, in staat te stellen om in de periode van 2024 tot en met 2030 een aantal taken op het gebied van bodemsanering goed af te ronden en nieuwe bodemkwaliteitsopgaven te signaleren en daarop te reageren met een passende aanpak. Specifiek voor PFAS is het doel om tot en met 2030 primair in te zetten op het inventariseren van de opgave wat betreft de aanpak van bodemverontreiniging en de locaties met de hoogste prioriteit aan te laten pakken.
 
 ##### Artikel 4. Uitkeringsplafonds en wijze van verdelen
 
@@ -126,15 +126,15 @@ Het doel van deze regeling is om door middel van het verstrekken van uitkeringen
 
 3. Het uitkeringsplafond voor buitenproportionele opgaven categorie B bedraagt in ieder van de jaren 2024 en 2025 € 4.000.000,–.
 
-4. De minister stelt in 2025, 2027 en 2029 het uitkeringsplafond vast voor de onderdelen, genoemd in het tweede en derde lid, alsmede de toedeling over die onderdelen en de desbetreffende elementen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
+4. De minister stelt in 2025, 2027 en 2029 het uitkeringsplafond vast voor de onderdelen, genoemd in het tweede lid, onderdelen a, b, subonderdeel 1, c en d en derde lid, alsmede de toedeling over die onderdelen en de desbetreffende elementen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
 
 5. De bedragen, bedoeld in het eerste, tweede, derde en vierde lid, zijn exclusief compensabele btw.
 
-6. De beschikbare bedragen worden na het verstrijken van de desbetreffende aanvraagperiode evenredig verdeeld over de voor honorering in aanmerking komende aanvragen.
+6. De beschikbare bedragen, bedoeld in het vierde lid, worden na het verstrijken van de desbetreffende aanvraagperiode evenredig verdeeld over de voor honorering in aanmerking komende aanvragen.
 
 7. Indien ingevolge een evenredige verdeling als bedoeld in het zesde lid, een aanvraag niet volledig wordt gehonoreerd, voert het bevoegd gezag Wbb, het bevoegd gezag Ow, het college of het waterschap binnen de bestedingsduur opgenomen in de beschikking tot verlening van de uitkering, een evenredig deel uit van alle projecten binnen de budgetpost waarvoor de aanvraag is gehonoreerd.
 
-8. Indien een beschikbaar bedrag als bedoeld in het tweede, derde of vierde lid, na de verdeling, bedoeld in het zesde lid, niet is uitgeput, kan de minister na het einde van de desbetreffende aanvraagperiode het resterende bedrag verdelen overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=7&artikel=31&z=2024-05-04&g=2024-05-04) of [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=7&artikel=32&z=2024-05-04&g=2024-05-04).
+8. Indien een beschikbaar bedrag als bedoeld in het tweede, derde of vierde lid, na de verdeling, bedoeld in het zesde lid, niet is uitgeput, kan de minister na het einde van de desbetreffende aanvraagperiode het resterende bedrag verdelen overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=7&artikel=31&z=2025-11-28&g=2025-11-28) of [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=7&artikel=32&z=2025-11-28&g=2025-11-28).
 
 ##### Artikel 5. Start activiteiten
 
@@ -144,7 +144,7 @@ Een uitkering kan worden verleend voor activiteiten als bedoeld in deze regeling
 
 - b. in het jaar voorafgaand aan een aanvraagperiode die is gelegen na 2024,
 
-mits die activiteiten zijn opgenomen in de aanvraag voor de desbetreffende uitkering en aan de bestedingsvoorwaarden, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=14&z=2024-05-04&g=2024-05-04), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=22&z=2024-05-04&g=2024-05-04), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2024-05-04&g=2024-05-04) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=30&z=2024-05-04&g=2024-05-04) wordt voldaan.
+mits die activiteiten zijn opgenomen in de aanvraag voor de desbetreffende uitkering en aan de bestedingsvoorwaarden, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=14&z=2025-11-28&g=2025-11-28), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=22&z=2025-11-28&g=2025-11-28), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2025-11-28&g=2025-11-28) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=30&z=2025-11-28&g=2025-11-28) wordt voldaan.
 
 #### § 2. Algemene bepalingen inzake aanvraag uitkering
 
@@ -152,13 +152,13 @@ mits die activiteiten zijn opgenomen in de aanvraag voor de desbetreffende uitke
 
 1. De minister kan op aanvraag een uitkering verlenen aan:
 
-- a. een bevoegd gezag Wbb voor de aanpak van een of meer historische spoedopgaven, met uitzondering van de waterbodems, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04), of voor de aanpak van een oude afspraak;
+- a. een bevoegd gezag Wbb voor de aanpak van een of meer historische spoedopgaven, met uitzondering van de waterbodems, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2025-11-28&g=2025-11-28), of voor de aanpak van een oude afspraak;
 
 - b. een bevoegd gezag Wbb of een bevoegd gezag Ow voor de aanpak van een buitenproportionele opgave categorie A of categorie B of voor het toekomstbestendig omgaan met nazorg;
 
 - c. een college voor de aanpak van een buitenproportionele opgave categorie A of categorie B of voor het toekomstbestendig omgaan met nazorg indien dat college verantwoordelijk is voor de grondwaterkwaliteit; of
 
-- d. een waterschap als bevoegd gezag regionale waterbodems onder de Omgevingswet voor de aanpak van een historische spoedopgave voor zover het de waterbodems, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04), betreft.
+- d. een waterschap als bevoegd gezag regionale waterbodems onder de Omgevingswet voor de aanpak van een historische spoedopgave voor zover het de waterbodems, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=10&z=2025-11-28&g=2025-11-28), betreft.
 
 2. Indien een of meer bevoegd gezagen dan wel colleges als bedoeld in het eerste lid een samenwerkingsverband zijn aangegaan, kan een aanvraag voor een uitkering worden ingediend door de penvoerder, zijnde een provincie, gemeente of een omgevingsdienst.
 
@@ -174,7 +174,7 @@ mits die activiteiten zijn opgenomen in de aanvraag voor de desbetreffende uitke
 
 - c. de begroting van de daarvoor benodigde middelen; en
 
-- d. een overzicht van alle projecten per onderdeel, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04), waarvoor een aanvraag voor een uitkering wordt gedaan en de middelen die daarvoor aangevraagd worden.
+- d. een overzicht van alle projecten per onderdeel, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28), waarvoor een aanvraag voor een uitkering wordt gedaan en de middelen die daarvoor aangevraagd worden.
 
 6. Indien eenzelfde project, activiteit of financiële verplichting onder verschillende budgetposten kan vallen, wordt een uitkering slechts voor een van die budgetposten gehonoreerd.
 
@@ -186,7 +186,7 @@ mits die activiteiten zijn opgenomen in de aanvraag voor de desbetreffende uitke
 
 - b. 2026, 2028 en 2030 van de eerste werkdag van februari tot en met de eerste werkdag van maart.
 
-2. Een aanvraag voor de aanpak van buitenproportionele opgaven categorie B kan tevens worden ingediend in 2025, 2027 en 2029 eerste werkdag van februari tot en met de eerste werkdag van maart.
+2. Een aanvraag voor de aanpak van buitenproportionele opgaven categorie B kan tevens worden ingediend in 2025, 2027 en 2029 van de eerste werkdag van februari tot en met de eerste werkdag van maart.
 
 3. Een aanvraag wordt ingediend met gebruikmaking van een door de minister beschikbaar gesteld formulier dat is geplaatst op de website van de Rijksdienst voor Ondernemend Nederland.
 
@@ -232,7 +232,7 @@ Een historische spoedopgave betreft een historische spoedopgave als bedoeld in d
 
 ##### Artikel 12. Aanvraag uitkering historische spoedopgaven 2026, 2028, 2030
 
-1. Een bevoegd gezag Wbb kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een historische spoedopgave indien het een of meer projecten of het aangaan van financiële verplichtingen betreft, die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), een lagere uitkering is verleend.
+1. Een bevoegd gezag Wbb kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een historische spoedopgave indien het een of meer projecten of het aangaan van financiële verplichtingen betreft, die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), een lagere uitkering is verleend.
 
 2. Een aanvraag die in 2026 wordt gedaan, kan een of meer projecten of financiële verplichtingen betreffen, die in de periode van 2026 tot en met 2030 worden uitgevoerd respectievelijk worden aangegaan.
 
@@ -246,7 +246,7 @@ Een historische spoedopgave betreft een historische spoedopgave als bedoeld in d
 
 - b. de voortgang van de activiteiten waarvoor de desbetreffende uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
-6. [Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=11&z=2024-05-04&g=2024-05-04), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid.
+6. [Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=11&z=2025-11-28&g=2025-11-28), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid.
 
 ##### Artikel 13. Aanvraag uitkering onvoorziene kosten historische spoedopgaven 2021, 2022, 2023
 
@@ -260,7 +260,7 @@ Een historische spoedopgave betreft een historische spoedopgave als bedoeld in d
 
 - a. de in de beschikking tot verlening van de uitkering genoemde projecten of locaties voor zover het gaat om kosten voor onderzoek, saneringsmaatregelen of andere activiteiten die nodig zijn voor het wegnemen of beheersen van onaanvaardbare humane, ecologische dan wel verspreidingsrisico’s bij die projecten of locaties; of
 
-- b. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2024-05-04&g=2024-05-04), en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2024-05-04&g=2024-05-04), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
+- b. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2025-11-28&g=2025-11-28), en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2025-11-28&g=2025-11-28), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
 
 2. Het bevoegd gezag besteedt de uitkering, bedoeld in het eerste lid bovendien uitsluitend aan activiteiten waarvan de kosten niet kunnen worden verhaald op de veroorzaker van de bodemverontreiniging of aan activiteiten waarvan de kosten wegens onvoldoende draagkracht niet of niet volledig kunnen worden gedragen door de eigenaar van de locatie.
 
@@ -298,7 +298,7 @@ Een historische spoedopgave betreft een historische spoedopgave als bedoeld in d
 
 1. Kosten die voor een uitkering voor de aanpak van het element PFAS, het element diffuus verspreid lood en van een buitenproportionele opgave categorie B in aanmerking komen, zijn:
 
-- a. kosten die rechtstreeks verband houden met onderzoek, bodemsanering of andere maatregelen met als doel het verminderen, beheersen of wegnemen van de risico’s, bedoeld in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04);
+- a. kosten die rechtstreeks verband houden met onderzoek, bodemsanering of andere maatregelen met als doel het verminderen, beheersen of wegnemen van de risico’s, bedoeld in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28);
 
 - b. kosten voor de inzet van het juridisch instrumentarium inzake kostenverhaal; of
 
@@ -308,13 +308,13 @@ Een historische spoedopgave betreft een historische spoedopgave als bedoeld in d
 
 ##### Artikel 17. Maximaal bedrag uitkering ontgraving niet openbaar gebied in verband met aanpak diffuus verspreid lood
 
-Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04), een sanering van particuliere tuinen betreft, waarbij een wijkgerichte aanpak het uitgangspunt is, volkstuinen of een ontwikkelingslocatie betreft, bedraagt een uitkering maximaal 50% van de kosten voor een leeflaagsanering die kan bestaan uit afgraven, ophogen dan wel aanvullen met grond of een combinatie daarvan tot een diepte van maximaal 0,5 meter. Kosten voor het aanbrengen van verharding worden niet vergoed.
+Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28), een sanering van particuliere tuinen betreft, waarbij een wijkgerichte aanpak het uitgangspunt is, volkstuinen of een ontwikkelingslocatie betreft, bedraagt een uitkering maximaal 50% van de kosten voor een leeflaagsanering die kan bestaan uit afgraven, ophogen dan wel aanvullen met grond of een combinatie daarvan tot een diepte van maximaal 0,5 meter. Kosten voor het aanbrengen van verharding worden niet vergoed.
 
 ##### Artikel 18. Aanvraag uitkering voor buitenproportionele opgaven categorie A 2024
 
 1. Een aanvraag voor een uitkering voor de aanpak van de buitenproportionele opgave categorie A betreft een of meer projecten en bevat per project in ieder geval een projectplan.
 
-2. Ieder projectplan bevat slechts een van de elementen, genoemd in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2024-05-04&g=2024-05-04).
+2. Ieder projectplan bevat slechts een van de elementen, genoemd in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=15&z=2025-11-28&g=2025-11-28).
 
 3. Een projectplan bevat:
 
@@ -330,7 +330,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 ##### Artikel 19. Aanvraag uitkering buitenproportionele opgaven categorie A 2026, 2028, 2030
 
-1. Een bevoegd gezag Wbb, een bevoegd gezag Ow of een college kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een buitenproportionele opgave categorie A indien het een of meer projecten betreft die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), een lagere uitkering is verleend.
+1. Een bevoegd gezag Wbb, een bevoegd gezag Ow of een college kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een buitenproportionele opgave categorie A indien het een of meer projecten betreft die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), een lagere uitkering is verleend.
 
 2. Een aanvraag die in 2026 wordt gedaan, kan een of meer projecten betreffen die in de periode van 2026 tot en met 2030 worden uitgevoerd.
 
@@ -344,7 +344,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 - b. de voortgang van de activiteiten waarvoor de desbetreffende uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
-6. [Artikel 18, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2024-05-04&g=2024-05-04), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
+6. [Artikel 18, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2025-11-28&g=2025-11-28), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
 
 ##### Artikel 20. Aanvraag uitkering buitenproportionele opgaven categorie B 2024–2030
 
@@ -364,7 +364,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 - b. de voortgang van de activiteiten waarvoor de desbetreffende uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
-7. [Artikel 18, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2024-05-04&g=2024-05-04), is van overeenkomstige toepassing op een aanvraag als bedoeld in het vijfde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
+7. [Artikel 18, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2025-11-28&g=2025-11-28), is van overeenkomstige toepassing op een aanvraag als bedoeld in het vijfde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
 
 ##### Artikel 21. Aanvraag uitkering onvoorziene kosten buitenproportionele opgaven 2021, 2022, 2023
 
@@ -378,7 +378,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 - a. de voorbereiding, begeleiding en uitvoering van de activiteiten zoals opgenomen in het projectplan; of
 
-- b. aan andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2024-05-04&g=2024-05-04) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2024-05-04&g=2024-05-04), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
+- b. aan andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2025-11-28&g=2025-11-28) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2025-11-28&g=2025-11-28), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
 
 2. Het bevoegd gezag besteedt de uitkering, bedoeld in het eerste lid, bovendien uitsluitend aan activiteiten waarvan de kosten niet kunnen worden verhaald op de veroorzaker van de bodemverontreiniging of aan activiteiten waarvan de kosten wegens onvoldoende draagkracht niet of niet volledig kunnen worden gedragen door de eigenaar van de locatie.
 
@@ -396,13 +396,13 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 1. Een aanvraag voor een uitkering voor een of meer oude afspraken bevat in ieder geval een projectplan voor de uitwerking van de beoogde maatregelen voor de aanpak van een of meer gevallen van ernstige bodemverontreiniging of van de gebiedsgerichte aanpak van ernstige bodemverontreiniging als bedoeld in een oude afspraak.
 
-2. De aanpak van een oude afspraak voldoet aan de bestedingsvoorwaarden, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2024-05-04&g=2024-05-04) en het doel van de aanpak is concreet beschreven.
+2. De aanpak van een oude afspraak voldoet aan de bestedingsvoorwaarden, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2025-11-28&g=2025-11-28) en het doel van de aanpak is concreet beschreven.
 
 3. Een aanvraag die in 2024 wordt gedaan, kan een of meer projecten betreffen die in de periode van 2024 tot en met 2030 worden uitgevoerd.
 
 ##### Artikel 24. Aanvraag uitkering oude afspraken 2026, 2028, 2030
 
-1. Een bevoegd gezag Wbb kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een oude afspraak, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=23&z=2024-05-04&g=2024-05-04), indien het een of meer projecten betreft die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), een lagere uitkering is verleend.
+1. Een bevoegd gezag Wbb kan in 2026, 2028 of 2030 een aanvraag doen voor een uitkering voor de aanpak van een oude afspraak, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=23&z=2025-11-28&g=2025-11-28), indien het een of meer projecten betreft die niet in een eerdere aanvraag op grond van deze regeling zijn opgenomen of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), een lagere uitkering is verleend.
 
 2. Een aanvraag die in 2026 wordt gedaan, kan projecten betreffen die in de periode van 2026 tot en met 2030 worden uitgevoerd.
 
@@ -416,7 +416,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 - b. de voortgang van de activiteiten waarvoor de desbetreffende uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
-6. [Artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=23&z=2024-05-04&g=2024-05-04), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist, indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
+6. [Artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=23&z=2025-11-28&g=2025-11-28), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist, indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
 
 ##### Artikel 25. Aanvraag uitkering onvoorziene kosten oude afspraken 2021, 2022, 2023
 
@@ -434,7 +434,7 @@ Indien de aanpak van het element diffuus verspreid lood, bedoeld in [artikel 15,
 
 - c. het wegnemen van onvoorziene milieuhygiënische risico’s bij de reeds overeengekomen gevalsgerichte aanpak van ernstige bodemverontreiniging; of
 
-- d. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in[artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2024-05-04&g=2024-05-04) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2024-05-04&g=2024-05-04), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
+- d. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in[artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2025-11-28&g=2025-11-28) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2025-11-28&g=2025-11-28), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
 
 2. Het bevoegd gezag besteedt de uitkering, bedoeld in het eerste lid, bovendien uitsluitend aan activiteiten waarvan de kosten niet kunnen worden verhaald op de veroorzaker van de bodemverontreiniging of aan activiteiten waarvan de kosten wegens onvoldoende draagkracht niet of niet volledig kunnen worden gedragen door de eigenaar van de locatie.
 
@@ -468,7 +468,7 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 ##### Artikel 29. Aanvraag uitkering toekomstbestendig omgaan met nazorg 2026, 2028, 2030
 
-1. Een bevoegd gezag Wbb, een bevoegd gezag Ow of een college kan in 2026, 2028 of 2030 een aanvraag voor een uitkering voor het toekomstbestendig omgaan met nazorg doen indien daarvoor niet eerder een aanvraag is ingediend op grond van deze regeling of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), een lagere uitkering is verleend.
+1. Een bevoegd gezag Wbb, een bevoegd gezag Ow of een college kan in 2026, 2028 of 2030 een aanvraag voor een uitkering voor het toekomstbestendig omgaan met nazorg doen indien daarvoor niet eerder een aanvraag is ingediend op grond van deze regeling of waarvoor na de verdeling, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), een lagere uitkering is verleend.
 
 2. Een aanvraag die in 2026 wordt gedaan, kan een of meer projecten betreffen die in de periode van 2026 tot en met 2030 worden uitgevoerd.
 
@@ -482,7 +482,7 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 - b. de voortgang van de activiteiten waarvoor de desbetreffende uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
-6. [Artikel 28, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=28&z=2024-05-04&g=2024-05-04), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
+6. [Artikel 28, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=28&z=2025-11-28&g=2025-11-28), is van overeenkomstige toepassing op een aanvraag als bedoeld in het eerste, tweede, derde en vierde lid, met dien verstande dat een projectplan niet is vereist indien een aanvraag tot wijziging een bijstelling van de kosten naar beneden betreft.
 
 ##### Artikel 30. Besteding uitkering voor toekomstbestendig omgaan met nazorg
 
@@ -502,7 +502,7 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 - b. planvorming voor ontwikkeling ter plaatse van nazorglocaties, waarbij de locatie langdurig geschikt wordt gemaakt voor een hoogwaardiger gebruik en nazorg dan wel gebruiksbeperkingen worden verminderd of afgebouwd of langdurig geregeld binnen het beoogde hoogwaardige gebruik; of
 
-- c. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2024-05-04&g=2024-05-04) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2024-05-04&g=2024-05-04), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
+- c. andere activiteiten binnen de werkvoorraad om mee – en tegenvallers in de kosten of de planning binnen de werkvoorraad op te vangen, met uitzondering van een sanering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2025-11-28&g=2025-11-28) en het opstellen van een plan als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2025-11-28&g=2025-11-28), met dien verstande dat de projecten opgenomen in de beschikking tot verlening van de uitkering worden uitgevoerd.
 
 2. De activiteiten opgenomen in de beschikking tot verlening van de uitkering mogen in geval van onvoorziene vertraging in de uitvoering uiterlijk zijn uitgevoerd:
 
@@ -514,7 +514,7 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 ##### Artikel 31. Verdeling resterende middelen over budgetposten
 
-1. De minister kan resterende middelen als bedoeld in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), verdelen over gehonoreerde aanvragen waarvoor niet het volledige bedrag is toegekend.
+1. De minister kan resterende middelen als bedoeld in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), verdelen over gehonoreerde aanvragen waarvoor niet het volledige bedrag is toegekend.
 
 2. De minister hanteert bij de verdeling over de budgetposten de volgende prioritering:
 
@@ -522,7 +522,11 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 - b. oude afspraken;
 
-- c. PFAS en andere niet genormeerde stoffen;
+- c. PFAS en andere niet genormeerde stoffen:
+
+- 1°. onderzoek voor het in beeld brengen van de opgaven voor PFAS en andere niet genormeerde stoffen en andere activiteiten die nodig zijn om te komen tot een aanpak van die opgaven;
+
+- 2°. aanpak van PFAS;
 
 - d. buitenproportionele opgaven categorie B;
 
@@ -536,13 +540,13 @@ Een uitkering voor het opstellen van een plan voor de aanpak van het toekomstbes
 
 ##### Artikel 32. Tweede aanvraagronde
 
-1. Indien een of meer van de beschikbare bedragen, bedoeld in [artikel 4, tweede, derde, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), na de verdeling, bedoeld in artikel 4, zesde lid, niet zijn uitgeput, kan de minister voor het resterende bedrag een tweede aanvraagronde voor een uitkering als bedoeld in deze regeling openstellen.
+1. Indien een of meer van de beschikbare bedragen, bedoeld in [artikel 4, tweede, derde, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), na de verdeling, bedoeld in artikel 4, zesde lid, niet zijn uitgeput, kan de minister voor het resterende bedrag een tweede aanvraagronde voor een uitkering als bedoeld in deze regeling openstellen.
 
 2. De minister maakt de indieningstermijn en het resterende bedrag, bedoeld in het eerste lid, in de Staatscourant bekend, alsmede voor welke budgetpost een aanvraag kan worden ingediend.
 
 3. De minister verdeelt het bedrag, bedoeld in het tweede lid, op volgorde van binnenkomst.
 
-4. De [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=2&artikel=7&z=2024-05-04&g=2024-05-04), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=11&z=2024-05-04&g=2024-05-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=12&z=2024-05-04&g=2024-05-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=13&z=2024-05-04&g=2024-05-04), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=14&z=2024-05-04&g=2024-05-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=16&z=2024-05-04&g=2024-05-04), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2024-05-04&g=2024-05-04), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2024-05-04&g=2024-05-04), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=19&z=2024-05-04&g=2024-05-04), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=20&z=2024-05-04&g=2024-05-04), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=21&z=2024-05-04&g=2024-05-04), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=22&z=2024-05-04&g=2024-05-04), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=24&z=2024-05-04&g=2024-05-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=25&z=2024-05-04&g=2024-05-04), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2024-05-04&g=2024-05-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2024-05-04&g=2024-05-04), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=28&z=2024-05-04&g=2024-05-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=29&z=2024-05-04&g=2024-05-04) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=30&z=2024-05-04&g=2024-05-04) zijn van overeenkomstige toepassing op een tweede aanvraagronde.
+4. De [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=2&artikel=7&z=2025-11-28&g=2025-11-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=11&z=2025-11-28&g=2025-11-28), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=12&z=2025-11-28&g=2025-11-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=13&z=2025-11-28&g=2025-11-28), 13a, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=14&z=2025-11-28&g=2025-11-28), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=16&z=2025-11-28&g=2025-11-28), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=17&z=2025-11-28&g=2025-11-28), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=18&z=2025-11-28&g=2025-11-28), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=19&z=2025-11-28&g=2025-11-28), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=20&z=2025-11-28&g=2025-11-28), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=21&z=2025-11-28&g=2025-11-28), 21a, [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=22&z=2025-11-28&g=2025-11-28), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=24&z=2025-11-28&g=2025-11-28), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=25&z=2025-11-28&g=2025-11-28), 25a, [26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2025-11-28&g=2025-11-28), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=27&z=2025-11-28&g=2025-11-28), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=28&z=2025-11-28&g=2025-11-28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=29&z=2025-11-28&g=2025-11-28) 29a, en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=30&z=2025-11-28&g=2025-11-28) zijn van overeenkomstige toepassing op een tweede aanvraagronde.
 
 #### § 8. Verantwoording en vaststelling uitkering
 
@@ -562,7 +566,7 @@ Verantwoording over de besteding van een uitkering dan wel de middelen die uit e
 
 2. Indien een beschikking tot vaststelling van de uitkering niet uiterlijk op 31 december van het jaar, bedoeld in het eerste lid, kan worden gegeven, kan de minister de termijn voor het nemen van die beschikking eenmaal met dertien weken verlengen.
 
-#### § 9. Wijziging tijdelijke regelingen specifieke uitkering bodem
+#### § 7. Wijze van verdelen van resterende middelen
 
 ##### Artikel 35. Wijziging Tijdelijke regelingen specifieke uitkering bodem jaren 2021, 2022 en 2023
 
@@ -579,5 +583,85 @@ Wijzigt de Tijdelijke Regeling specifieke uitkering bodem overbruggingsjaar 2021
 ##### Artikel 37. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling uitkering bodem 2024–2030.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Uitkeringsplafond buitenproportionele opgaven categorie A
+
+1. De minister stelt in 2025, 2027 en 2029 in afwijking van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4&z=2025-11-28&g=2025-11-28), het uitkeringsplafond vast voor de buitenproportionele opgaven categorie A voor:
+
+- a. onderzoek voor het inventariseren van de opgaven voor PFAS en andere niet genormeerde stoffen en andere activiteiten die nodig zijn om te komen tot een aanpak van die opgaven; en
+
+- b. activiteiten met betrekking tot de aanpak van PFAS.
+
+2. De bedragen, bedoeld in het eerste lid, zijn exclusief compensabele btw.
+
+3. De minister maakt het uitkeringsplafond en de toedeling, bedoeld in het eerste lid, bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
+
+##### Artikel 4b. Wijze van verdelen buitenproportionele opgaven categorie A, aanpak PFAS
+
+1. Het beschikbare bedrag, bedoeld in [artikel 4a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=1&artikel=4a&z=2025-11-28&g=2025-11-28), wordt verdeeld op volgorde van rangschikking van de aanvragen waarbij de tijdig en volledig ingediende aanvragen voor een specifieke uitkering worden gerangschikt naar geschiktheid op grond van de volgende criteria:
+
+- a. mate van aansluiting bij het doel van de regeling en de reikwijdte van de buitenproportionele opgaven categorie A, aanpak van PFAS;
+
+- b. maatschappelijke urgentie van de aanpak;
+
+- c. mate van risico’s die worden aangepakt;
+
+- d. doelmatigheid van de aanpak; en
+
+- e. haalbaarheid van de aanpak.
+
+2. Voor de rangschikking scoort de aanpak voor het criterium, bedoeld in het eerste lid, onderdeel a, ten minste 2 punten en scoort de aanpak voor het criterium, bedoeld in het eerste lid, onderdeel c, ten minste 10 punten.
+
+3. De toe te kennen punten zijn voor het criterium, bedoeld in eerste lid,:
+
+- a. onderdeel a: maximaal 5 punten;
+
+- b. onderdeel b: maximaal 5 punten:
+
+- c. onderdeel c: maximaal 40 punten;
+
+- d. onderdeel d: maximaal 40 punten; en
+
+- e. onderdeel e: maximaal 10 punten.
+
+De aanvraag met de meeste punten wordt het hoogst gerangschikt.
+
+4. Indien aan twee of meer ingediende aanvragen voor een aanpak een gelijk aantal punten is toegekend worden de aanvragen daarvoor gerangschikt waarbij de aanvraag voor de aanpak die het meest bijdraagt aan het criterium, genoemd in het eerste lid, onderdeel a, het hoogst wordt gerangschikt. Indien na de rangschikking, bedoeld in de eerste volzin, aan twee of meer ingediende aanvragen voor een aanpak een gelijk aantal punten is toegekend voor het criterium, genoemd in het eerste lid, onderdeel a, worden de aanvragen daarvoor gerangschikt waarbij de aanvraag voor de aanpak die het meest bijdraagt aan het criterium, genoemd in het eerste lid, onderdeel c, het hoogst wordt gerangschikt.
+
+5. De aanvragen worden ter beoordeling van de rangschikking voorgelegd aan een adviescommissie die de minister adviseert over de aanvragen.
+
+#### § 2. Algemene bepalingen inzake aanvraag uitkering
+
+#### § 3. Historische spoedopgaven
+
+#### § 4. Buitenproportionele opgaven
+
+#### § 5. Oude afspraken
+
+#### § 6. Toekomstbestendig omgaan met nazorg
+
+#### § 6a. Aanvraag in geval van resterende middelen bij ontvanger
+
+##### Artikel 30a. Resterende middelen ontvanger
+
+1. Een aanvrager als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=2&artikel=6&z=2025-11-28&g=2025-11-28) vermeldt in een aanvraag als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=12&z=2025-11-28&g=2025-11-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=13&z=2025-11-28&g=2025-11-28), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=19&z=2025-11-28&g=2025-11-28), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=20&z=2025-11-28&g=2025-11-28), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=21&z=2025-11-28&g=2025-11-28), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=24&z=2025-11-28&g=2025-11-28), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=25&z=2025-11-28&g=2025-11-28), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=28&z=2025-11-28&g=2025-11-28) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=29&z=2025-11-28&g=2025-11-28), indien van toepassing, het bedrag aan niet bestede middelen van een verleende uitkering op grond van deze regeling, een eerdere ministeriële regeling specifieke uitkering voor bodemsanering of een incidentele specifieke uitkering voor bodemsanering.
+
+2. De middelen, bedoeld in eerste lid, mogen uitsluitend worden besteed aan de activiteiten, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=3&artikel=14&z=2025-11-28&g=2025-11-28), respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=4&artikel=22&z=2025-11-28&g=2025-11-28), respectievelijk [26](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=5&artikel=26&z=2025-11-28&g=2025-11-28) of respectievelijk [30](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=6&artikel=30&z=2025-11-28&g=2025-11-28) voor zover de aanvraag, bedoeld in het eerste lid is gehonoreerd.
+
+3. Het bedrag aan niet bestede middelen, bedoeld in het eerste lid, wordt in mindering gebracht op de totaal te verlenen uitkering.
+
+#### § 6b. Wijziging op aanvraag
+
+##### Artikel 30b. Budgetneutrale wijziging
+
+Op aanvraag van een bevoegd gezag Wbb, een bevoegd gezag Ow, een college voor zover het verantwoordelijk is voor het grondwater of een waterschap als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049658&paragraaf=2&artikel=6&z=2025-11-28&g=2025-11-28), aan wie een uitkering op grond van deze regeling is verstrekt, kan de minister het besluit tot verlening van de uitkering wijzigen indien de aanvraag betrekking heeft op een wijziging van een in dat besluit genoemd project of genoemde activiteit, mits de kosten daarvoor niet hoger zijn dan die van het oorspronkelijke project of de oorspronkelijke activiteit.
+
+#### § 8. Verantwoording en vaststelling uitkering
+
+#### § 9. Wijziging tijdelijke regelingen specifieke uitkering bodem
+
+#### § 10. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
