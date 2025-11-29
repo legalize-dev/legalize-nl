@@ -4,7 +4,7 @@ identifier: "BWBR0049398"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-29"
-last_updated: "2024-01-01"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049398"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-Voor subsidieverstrekking in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (DTIF) door de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, met het oog op het stimuleren van investeringen in DTIF-landen door ondernemingen, door middel van het verstrekken van financiering, gelden de als bijlage bij dit besluit gevoegde beleidsregels.
+Voor subsidieverstrekking in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (DTIF) door de Minister van Buitenlandse Zaken, met het oog op het stimuleren van investeringen in DTIF-landen door ondernemingen, door middel van het verstrekken van financiering, gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
 ##### Artikel 2
 
-1. Voor de toepassing van dit besluit geldt voor de periode van 1 januari 2024 tot en met 31 december 2026 een subsidieplafond van in totaal € 79.017.000. Dit bedrag is uitgesplitst naar een deelplafond voor de op grond van de beleidsregels te verstrekken leningen ter hoogte van € 45.717.000,– en een deelplafond voor de op grond van de beleidsregels te verstrekken aanspraken op garantstelling ter hoogte van € 33.300.000.
+1. Voor de toepassing van dit besluit geldt voor de periode van 1 januari 2024 tot en met 31 december 2031 een subsidieplafond van in totaal € 100.000.000. Dit bedrag is uitgesplitst naar een deelplafond voor de op grond van de beleidsregels te verstrekken leningen ter hoogte van € 66.700.000 en een deelplafond voor de op grond van de beleidsregels te verstrekken aanspraken op garantstelling ter hoogte van € 33.3000.000.
 
 2. Niet benutte middelen van een deelplafond kunnen worden toegevoegd aan het andere deelplafond.
 
@@ -62,7 +62,7 @@ Aanvragen worden in volgorde van binnenkomst behandeld.
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2024. Het besluit vervalt met ingang van 1 januari 2027 met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2024. Het besluit vervalt met ingang van 1 januari 2032 met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 
 ## Bijlage
 
@@ -96,7 +96,7 @@ Deze beleidsregels hebben uitsluitend betrekking op bovengenoemd onderdeel 1.
 
 DTIF onderdeel 1 biedt (deels via Investeringsfondsen) financieringsmogelijkheden aan Ondernemingen met een goed investeringsplan waarbij niet alleen gekeken wordt naar de financiële prestaties, maar ook wordt getoetst of het bedrijf en de investering voldoen aan de eisen van (Internationaal) maatschappelijk verantwoord ondernemen (MVO). Uitgangspunt is dat uitsluitend activiteiten gefinancierd worden waar een goede business case aan ten grondslag ligt en die rendabel zijn.
 
-Daarnaast geldt dat (in ieder geval) geen financiering kan worden aangevraagd voor investeringen in vastgoed. Op [https://www.investinternational.nl](onbekend) staat een nadere toelichting hierbij.
+Daarnaast geldt dat (in ieder geval) geen financiering kan worden aangevraagd voor investeringen in vastgoed. Op [https://www.investinternational.nl](http://www.investinternational.nl/) staat een nadere toelichting hierbij.
 
 ### 2.2. Doelgroep
 
@@ -196,7 +196,7 @@ Ondernemers en Investeringsfondsen dienen een goede reputatie te hebben op het g
 
 De mate waarin de wederpartij van Invest International Public Programmes B.V. zelf in staat moet zijn om de vereiste due diligence onderzoeken en de monitoring en rapportages met betrekking tot de voor de ontwikkelingsdoelstellingen en de IMVO relevante aspecten uit te voeren, hangt mede af van de betrokkenheid van meerdere partijen en de wijze waarop de financiering wordt vormgegeven: indien een lening of garantie wordt verstrekt aan een financier met het oog op de financiering van een derde partij, kunnen due diligence en monitoring worden uitgevoerd door Invest International Public Programmes B.V. indien deze als cofinancier optreedt van dezelfde onderneming. Indien Invest International Public Programmes B.V. niet als cofinancier optreedt, kan de financier due diligence, monitoring en rapportages voor zijn rekening moeten nemen. Case by case wordt beoordeeld welke partij hiermee zal worden belast.
 
-Het DTIF zal geen activiteiten financieren die op de FMO uitsluitingslijst, te vinden op [http://www.fmo.nl/exclusion-list](onbekend), worden genoemd, met dien verstande dat onder ‘wapens en munitie’ wordt verstaan hetgeen in de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804)1 daaronder wordt verstaan. Tevens zal van aanvragers worden geëist dat zij geen gebruik maken van kunstmatige constructies om hun winsten of te betalen bronheffingen te verlagen in DTIF landen. ‘Onder kunstmatige constructies’ vallen alle (juridisch legale) constructies, die enkel gericht zijn op het geheel of gedeeltelijk ontlopen van belastingen in DTIF landen dan wel het kunstmatig verlagen van de belastingaanslag in die landen.
+Het DTIF zal geen activiteiten financieren die op de FMO uitsluitingslijst, te vinden op [http://www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list), worden genoemd, met dien verstande dat onder ‘wapens en munitie’ wordt verstaan hetgeen in de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804)1 daaronder wordt verstaan. Tevens zal van aanvragers worden geëist dat zij geen gebruik maken van kunstmatige constructies om hun winsten of te betalen bronheffingen te verlagen in DTIF landen. ‘Onder kunstmatige constructies’ vallen alle (juridisch legale) constructies, die enkel gericht zijn op het geheel of gedeeltelijk ontlopen van belastingen in DTIF landen dan wel het kunstmatig verlagen van de belastingaanslag in die landen.
 
 Aan de financiering zal de bijzondere meldingsplicht, bedoeld in de [Wet bestuurlijke boete meldingsplichten subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155), worden verbonden: De ontvanger van de financiering dient er zorg voor te dragen dat de projectpartners en de eerste wezenlijke toeleverancier geen gebruik maken van kinderarbeid en/of dwangarbeid, noch voor het project waar de aanvraag betrekking op heeft, noch voor andere activiteiten. De ontvanger dient eventuele feiten of omstandigheden die wijzen op kinder- of dwangarbeid bij deze bedrijven onverwijld te melden bij Invest International Public Programmes B.V. Als die meldingsplicht niet wordt nageleefd, kan de Minister een boete opleggen.
 
@@ -204,7 +204,7 @@ Aan de financiering zal de bijzondere meldingsplicht, bedoeld in de [Wet bestuur
 
 ### 5.1. Uitvoerder
 
-Invest International Public Programmes B.V., een dochter van Invest International B.V., voert deze beleidsregels uit namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking. Daartoe is een passend mandaat, volmacht en machtiging verstrekt.
+Invest International Public Programmes B.V., een dochter van Invest International B.V., voert deze beleidsregels uit namens de Minister van Buitenlandse Zaken. Daartoe is een passend mandaat, volmacht en machtiging verstrekt.
 
 ### 5.2. Aanvraag
 
@@ -212,7 +212,7 @@ Afhankelijk van het gewenste instrument kan de Onderneming of het Investeringsfo
 
 In aanvulling op **artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken** dient er bij toepassing van de de-minimisverordening in de uitvoering van deze beleidsregels een ingevulde en ondertekende de-minimisverklaring bijgevoegd te worden.
 
-Tevens moet de aanvrager, en indien van toepassing de partners, verklaren op de hoogte te zijn van en te zullen handelen naar de OESO richtlijnen ([www.oesorichtlijnen.nl](onbekend)). Ook dienen zij te verklaren op de hoogte te zijn van de FMO-uitsluitingslijst en geen activiteiten uit te voeren die op deze lijst benoemd staan ([www.fmo.nl/exclusion-list](onbekend)), met dien verstande dat onder ‘wapens en munitie’ wordt verstaan hetgeen in de **Wet wapens en munitie** daaronder wordt verstaan.
+Tevens moet de aanvrager, en indien van toepassing de partners, verklaren op de hoogte te zijn van en te zullen handelen naar de OESO richtlijnen ([www.oesorichtlijnen.nl](http://www.oesorichtlijnen.nl)). Ook dienen zij te verklaren op de hoogte te zijn van de FMO-uitsluitingslijst en geen activiteiten uit te voeren die op deze lijst benoemd staan ([www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list%29)), met dien verstande dat onder ‘wapens en munitie’ wordt verstaan hetgeen in de **Wet wapens en munitie** daaronder wordt verstaan.
 
 ### 5.3. Besluitvorming
 
