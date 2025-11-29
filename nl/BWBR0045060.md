@@ -4,7 +4,7 @@ identifier: "BWBR0045060"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-29"
-last_updated: "2023-01-24"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045060"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - **restitutie:** teruggave aan de oorspronkelijke eigenaar of aan diens rechtsopvolgers krachtens erfrecht van cultuurgoederen, waarvan de oorspronkelijke eigenaar het bezit onvrijwillig, door omstandigheden die direct verband hielden met het naziregime, heeft verloren;
 
-- **Restitutiecommissie:** Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24);
+- **Restitutiecommissie:** Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29);
 
 - **Staat:** Staat der Nederlanden;
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Behandeling verzoeken door Restitutiecommissie
 
-1. De Restitutiecommissie behandelt verzoeken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24):
+1. De Restitutiecommissie behandelt verzoeken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29):
 
 - a. aan de hand van het beoordelingskader, opgenomen als bijlage bij dit besluit; en
 
@@ -116,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Buiten toepassing laten openbaarheidsbeperkingen
 
-Indien de Restitutiecommissie of de medewerkers van het Expertisecentrum ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24), inzage behoeven in archiefbescheiden die in een rijksarchiefbewaarplaats of in de algemene rijksarchiefbewaarplaats berusten, blijven de eventueel op die archiefbescheiden rustende openbaarheidsbeperkingen, bedoeld in [artikel 15, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), jegens hen buiten toepassing.
+Indien de Restitutiecommissie of de medewerkers van het Expertisecentrum ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), inzage behoeven in archiefbescheiden die in een rijksarchiefbewaarplaats of in de algemene rijksarchiefbewaarplaats berusten, blijven de eventueel op die archiefbescheiden rustende openbaarheidsbeperkingen, bedoeld in [artikel 15, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), jegens hen buiten toepassing.
 
 ##### Artikel 7. Jaarlijkse verslaglegging
 
@@ -130,21 +130,21 @@ De archiefbescheiden van de Restitutiecommissie worden na haar opheffing of zove
 
 1. De adviezen of bindende adviezen, uitgebracht door de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken en cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, worden geacht te zijn uitgebracht door de Restitutiecommissie.
 
-2. Verzoeken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24), die voor de inwerkingtreding van dit besluit aanhangig zijn gemaakt bij de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, maar waarover de commissie nog geen advies of bindend advies heeft gegeven, worden geacht aanhangig te zijn bij de Restitutiecommissie.
+2. Verzoeken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), die voor de inwerkingtreding van dit besluit aanhangig zijn gemaakt bij de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, maar waarover de commissie nog geen advies of bindend advies heeft gegeven, worden geacht aanhangig te zijn bij de Restitutiecommissie.
 
-3. In afwijking van dit besluit en het op grond van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=4&z=2023-01-24&g=2023-01-24), vastgestelde reglement, zijn op verzoeken als bedoeld in het tweede lid het [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833) en het op grond van [artikel 4, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=4) vastgestelde reglement van toepassing, zoals die luidden op de dag voorafgaand aan de inwerkingtreding van dit besluit.
+3. In afwijking van dit besluit en het op grond van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=4&z=2025-11-29&g=2025-11-29), vastgestelde reglement, zijn op verzoeken als bedoeld in het tweede lid het [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833) en het op grond van [artikel 4, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=4) vastgestelde reglement van toepassing, zoals die luidden op de dag voorafgaand aan de inwerkingtreding van dit besluit.
 
-4. In afwijking van het derde lid zijn dit besluit en het op grond van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=4&z=2023-01-24&g=2023-01-24), vastgestelde reglement, onverkort van toepassing:
+4. In afwijking van het derde lid zijn dit besluit en het op grond van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=4&z=2025-11-29&g=2025-11-29), vastgestelde reglement, onverkort van toepassing:
 
-- a. op aanhangige verzoeken als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24), indien de verzoeker daarmee instemt;
+- a. op aanhangige verzoeken als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), indien de verzoeker daarmee instemt;
 
-- b. op aanhangige verzoeken als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2023-01-24&g=2023-01-24), indien de verzoeker en de bezitter daar beiden mee instemmen.
+- b. op aanhangige verzoeken als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), indien de verzoeker en de bezitter daar beiden mee instemmen.
 
 ##### Artikel 10. Overgangsrecht benoemingen
 
 1. De personen die op de dag voorafgaand aan de inwerkingtreding van dit besluit waren benoemd als leden van de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, gelden als leden van de Restitutiecommissie voor de resterende duur van hun benoeming.
 
-2. [Artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=3&z=2023-01-24&g=2023-01-24), is van overeenkomstige toepassing, met dien verstande dat een persoon die eerder is herbenoemd als lid van de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, niet opnieuw als lid van de Restitutiecommissie kan worden benoemd.
+2. [Artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=3&z=2025-11-29&g=2025-11-29), is van overeenkomstige toepassing, met dien verstande dat een persoon die eerder is herbenoemd als lid van de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, niet opnieuw als lid van de Restitutiecommissie kan worden benoemd.
 
 ##### Artikel 11. Intrekking [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833)
 
@@ -252,7 +252,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De Minister kan de benoeming van een persoon die op 1 januari 2023 lid was van de Restitutiecommissie, verlengen tot een totaalduur van ten hoogste vier jaar.
 
-2. Een verlenging als bedoeld in het eerste lid laat een eventuele herbenoeming op grond van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=3&z=2023-01-24&g=2023-01-24), onverlet.
+2. Een verlenging als bedoeld in het eerste lid laat een eventuele herbenoeming op grond van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=3&z=2025-11-29&g=2025-11-29), onverlet.
+
+3. De Minister kan een persoon die eerder reeds als lid benoemd was voor een termijn korter dan vier jaar, herbenoemen voor een aanvullende periode van meer dan vier jaren, maar slechts tot een termijn van bij elkaar genomen ten hoogste acht jaren.
 
 ## Beoordelingskader Restitutiecommissie
 
