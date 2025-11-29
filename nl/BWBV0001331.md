@@ -4,7 +4,7 @@ identifier: "BWBV0001331"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-11-29"
-last_updated: "2018-11-06"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001331"
 soort: "verdrag"
@@ -48,7 +48,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Aanduiding van het netwerk
 
-1. De Verdragsluitende Partijen nemen de bepalingen van dit Verdrag aan als een gecoördineerd plan voor de ontwikkeling en aanleg van een net van waterwegen, hierna te noemen „het net van waterwegen die van internationaal belang zijn” of „het net van E-waterwegen”, welk plan zij voornemens zijn uit te voeren binnen het kader van hun desbetreffende programma's. Het net van E-waterwegen, met betrekking tot dit Verdrag, bestaat uit de waterwegen en kustroutes die door binnenvaart-/zeeschepen worden gebruikt alsmede de havens van internationaal belang die aan deze waterwegen en routes gelegen zijn en die zijn vermeld in de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06) bij dit Verdrag.
+1. De Verdragsluitende Partijen nemen de bepalingen van dit Verdrag aan als een gecoördineerd plan voor de ontwikkeling en aanleg van een net van waterwegen, hierna te noemen „het net van waterwegen die van internationaal belang zijn” of „het net van E-waterwegen”, welk plan zij voornemens zijn uit te voeren binnen het kader van hun desbetreffende programma's. Het net van E-waterwegen, met betrekking tot dit Verdrag, bestaat uit de waterwegen en kustroutes die door binnenvaart-/zeeschepen worden gebruikt alsmede de havens van internationaal belang die aan deze waterwegen en routes gelegen zijn en die zijn vermeld in de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29) bij dit Verdrag.
 
 2.
 
@@ -56,13 +56,13 @@ De Verdragsluitende Partijen nemen de noodzakelijke maatregelen met het oog op d
 
 ##### Artikel 2. Technische en operationele kenmerken van het net
 
-1. Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=1&z=2018-11-06&g=2018-11-06) bedoelde net van waterwegen die van internationaal belang zijn dient de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06) bij dit Verdrag beschreven kenmerken te hebben of tijdens toekomstige verbeteringswerkzaamheden met de bepalingen van die Bijlage in overeenstemming te worden gebracht.
+1. Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=1&z=2025-11-29&g=2025-11-29) bedoelde net van waterwegen die van internationaal belang zijn dient de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29) bij dit Verdrag beschreven kenmerken te hebben of tijdens toekomstige verbeteringswerkzaamheden met de bepalingen van die Bijlage in overeenstemming te worden gebracht.
 
 2. De Verdragsluitende Partijen worden opgeroepen nationale actieplannen op te stellen en/of bilaterale of multilaterale overeenkomsten aan te gaan, zoals internationale verdragen, richtlijnen, memoranda van overeenstemming, gezamenlijke onderzoeken of andere soortgelijke regelingen, gericht op het wegnemen van bestaande knelpunten en het aanvullen van ontbrekende stukken in het net van E-waterwegen die de grenzen van de desbetreffende landen overschrijden.
 
 ##### Artikel 3. Bijlagen
 
-De [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06) bij dit Verdrag vormen een integrerend deel van het Verdrag.
+De [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29) bij dit Verdrag vormen een integrerend deel van het Verdrag.
 
 ##### Artikel 4. Aanwijzing van de depositaris
 
@@ -76,13 +76,13 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Verdrag
 
 ##### Artikel 6. Bekrachtiging, aanvaarding of goedkeuring
 
-1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=5&z=2018-11-06&g=2018-11-06).
+1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=5&z=2025-11-29&g=2025-11-29).
 
 2. De bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
 ##### Artikel 7. Toetreding
 
-1. Dit Verdrag staat vanaf 1 oktober 1996 open voor toetreding door elke Staat als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=5&z=2018-11-06&g=2018-11-06).
+1. Dit Verdrag staat vanaf 1 oktober 1996 open voor toetreding door elke Staat als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=5&z=2025-11-29&g=2025-11-29).
 
 2. Toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
@@ -108,11 +108,11 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Verdrag
 
 ##### Artikel 11. Voorbehouden
 
-Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij zich niet gebonden acht door [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=10&z=2018-11-06&g=2018-11-06) van dit Verdrag.
+Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij zich niet gebonden acht door [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=10&z=2025-11-29&g=2025-11-29) van dit Verdrag.
 
 ##### Artikel 12. Wijziging van het Verdrag
 
-1. Dit Verdrag kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=13&z=2018-11-06&g=2018-11-06) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=14&z=2018-11-06&g=2018-11-06).
+1. Dit Verdrag kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=13&z=2025-11-29&g=2025-11-29) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&artikel=14&z=2025-11-29&g=2025-11-29).
 
 2. Op verzoek van een Verdragsluitende Partij wordt elke door haar voorgestelde wijziging bestudeerd in de Werkgroep voor vervoer over waterwegen van de Economische Commissie voor Europa van de Verenigde Naties.
 
@@ -122,11 +122,11 @@ Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van z
 
 5. Indien overeenkomstig het vierde lid van dit artikel een bezwaar tegen de voorgestelde wijziging ter kennis is gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
 
-##### Artikel 13. Wijziging van de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06)
+##### Artikel 13. Wijziging van de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29)
 
 1. De Bijlagen I en II bij dit Verdrag kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Verdragsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06) bestudeerd door de Werkgroep voor vervoer over waterwegen van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Verdragsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29) bestudeerd door de Werkgroep voor vervoer over waterwegen van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de voorgestelde wijziging wordt aangenomen door de meerderheid van de Verdragsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt daarvan door de Secretaris-Generaal van de Verenigde Naties mededeling gedaan aan de rechtstreeks betrokken Verdragsluitende Partijen ter fine van aanvaarding. Voor de toepassing van dit artikel wordt een Verdragsluitende Partij geacht rechtstreeks betrokken te zijn indien haar grondgebied, in geval van opneming van een nieuwe waterweg of haven van internationaal belang, dan wel de wijziging van deze voorzieningen, door die waterweg wordt doorsneden of indien de beoogde haven op bedoeld grondgebied is gelegen.
 
@@ -138,11 +138,11 @@ Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van z
 
 7. De depositaris wordt er door het Secretariaat van de Economische Commissie voor Europa steeds onverwijld van in kennis gesteld welke Verdragsluitende Partijen rechtstreeks betrokken zijn bij een voorgestelde wijziging.
 
-##### Artikel 14. Wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06)
+##### Artikel 14. Wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29)
 
 1. Bijlage III bij dit Verdrag kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Verdragsluitende Partij wordt elke door haar voorgestelde wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2018-11-06&g=2018-11-06) bij dit Verdrag bestudeerd door de Werkgroep voor vervoer over waterwegen van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Verdragsluitende Partij wordt elke door haar voorgestelde wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001331&bijlage=I-III&z=2025-11-29&g=2025-11-29) bij dit Verdrag bestudeerd door de Werkgroep voor vervoer over waterwegen van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de voorgestelde wijziging wordt aangenomen door de meerderheid van de Verdragsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties daarvan mededeling gedaan aan alle Verdragsluitende Partijen ter fine van aanvaarding.
 
