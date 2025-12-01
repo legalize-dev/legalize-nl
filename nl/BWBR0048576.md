@@ -4,7 +4,7 @@ identifier: "BWBR0048576"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-01"
-last_updated: "2023-08-30"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048576"
 soort: "zbo"
@@ -60,13 +60,15 @@ In dit besluit wordt verstaan onder:
 
 - a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland;
 
-- b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1)
+- b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- d). **Blootstellingen in Noorwegen:** alle blootstellingen in Noorwegen overeenkomstig artikel 133 van de CRD.
+- d). **Blootstellingen in Noorwegen:** alle blootstellingen in Noorwegen overeenkomstig artikel 133 van de CRD;
+
+- e). **CRR:** [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van [Verordening (EU) nr. 648/2012](32012R0648), oftewel verordening kapitaalvereisten of de Capital Requirements Regulation.
 
 ##### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in Noorwegen
 
-1. Een instelling waarvan de risicogewogen blootstellingen in Noorwegen meer dan 5 miljard Noorse Kroon bedragen, beschikt voor blootstellingen in Noorwegen over een systeemrisicobuffer van 4,5%, berekend overeenkomstig artikel 133, tweede lid, van de CRD.
+1. Een instelling waarvan de risicogewogen blootstellingen in Noorwegen meer dan 5 miljard Noorse Kroon bedragen, beschikt voor blootstellingen in Noorwegen over een overeenkomstig artikel 133, tweede lid, CRD berekende systeemrisicobuffer van 4,5% op individuele, gesubconsolideerde en geconsolideerde basis, zoals van toepassing in overeenstemming met deel één, titel II, van de CRR.
 
 ##### Artikel 3. Inwerkingtreding
 
