@@ -4,7 +4,7 @@ identifier: "BWBV0006317"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-12-01"
-last_updated: "2013-12-18"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006317"
 soort: "verdrag"
@@ -168,13 +168,13 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 De partijen passen de volgende beginselen toe op onder deze overeenkomst vallende samenwerkingsactiviteiten:
 
-- 1. wederzijds voordeel op basis van een algemeen evenwicht van rechten en verplichtingen, met inbegrip van bijdragen en toegang tot alle diensten, in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=15&z=2013-12-18&g=2013-12-18);
+- 1. wederzijds voordeel op basis van een algemeen evenwicht van rechten en verplichtingen, met inbegrip van bijdragen en toegang tot alle diensten, in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=15&z=2025-12-01&g=2025-12-01);
 
 - 2. wederzijdse mogelijkheden om aan samenwerkingsactiviteiten in de Europese Unie en in het kader van Zwitserse GNSS-projecten deel te nemen;
 
 - 3. tijdige uitwisseling van informatie die van invloed kan zijn op de samenwerkingsactiviteiten;
 
-- 4. adequate en effectieve bescherming van intellectuele eigendomsrechten zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=9&z=2013-12-18&g=2013-12-18);
+- 4. adequate en effectieve bescherming van intellectuele eigendomsrechten zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=9&z=2025-12-01&g=2025-12-01);
 
 - 5. vrijheid om satellietnavigatiediensten te verlenen op de grondgebieden van de partijen;
 
@@ -184,7 +184,7 @@ De partijen passen de volgende beginselen toe op onder deze overeenkomst vallend
 
 ##### Artikel 4. Samenwerkingsactiviteiten
 
-1. De volgende sectoren komen in aanmerking voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en tijdbepaling: radiospectrum, wetenschappelijk onderzoek en opleiding, industriële samenwerking, overheidsopdrachten, intellectuele eigendomsrechten, exportcontrole, handels- en marktontwikkeling, normen, certificering en regulerende maatregelen, veiligheid, uitwisseling van gerubriceerde informatie, uitwisseling van personeel en toegang tot diensten. De partijen kunnen deze lijst van sectoren overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=25&z=2013-12-18&g=2013-12-18) wijzigen.
+1. De volgende sectoren komen in aanmerking voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en tijdbepaling: radiospectrum, wetenschappelijk onderzoek en opleiding, industriële samenwerking, overheidsopdrachten, intellectuele eigendomsrechten, exportcontrole, handels- en marktontwikkeling, normen, certificering en regulerende maatregelen, veiligheid, uitwisseling van gerubriceerde informatie, uitwisseling van personeel en toegang tot diensten. De partijen kunnen deze lijst van sectoren overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=25&z=2025-12-01&g=2025-12-01) wijzigen.
 
 2. Deze overeenkomst is niet van invloed op de institutionele autonomie van de Europese Unie bij de regulering van de Europese GNSS-programma's, noch op de ten behoeve van de activiteiten van de Europese GNSS-programma's door de Europese Unie ingestelde structuur. Deze overeenkomst is evenmin van invloed op de toepasselijke regulerende maatregelen ter uitvoering van non-proliferatieverbintenissen, exportcontrole, controles van immateriële overdrachten van technologie. Zij is evenmin van invloed op nationale veiligheidsmaatregelen.
 
@@ -224,7 +224,7 @@ Ter vergemakkelijking van industriële samenwerking verlenen en verzekeren de pa
 
 1. Om de toepassing van een uniform beleid van exportcontrole en non-proliferatie betreffende de Europese GNSS-programma's tussen de partijen te verzekeren, neemt Zwitserland, binnen zijn rechtsgebied en in overeenstemming met zijn nationale wetgeving en procedures, tijdig maatregelen voor exportcontrole en non-proliferatie van technologieën, gegevens en artikelen, en handhaaft het deze. Deze maatregelen moeten een niveau van exportcontrole en non-proliferatie verzekeren dat gelijkwaardig is aan dat van de Europese Unie.
 
-2. Mocht zich een gebeurtenis voordoen waarbij een gelijkwaardig niveau van exportcontrole en non-proliferatie als bedoeld in lid 1 van dit artikel niet kan worden bereikt, dan is de procedure van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2013-12-18&g=2013-12-18) van toepassing.
+2. Mocht zich een gebeurtenis voordoen waarbij een gelijkwaardig niveau van exportcontrole en non-proliferatie als bedoeld in lid 1 van dit artikel niet kan worden bereikt, dan is de procedure van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2025-12-01&g=2025-12-01) van toepassing.
 
 ##### Artikel 11. Handels- en marktontwikkeling
 
@@ -250,11 +250,11 @@ Een van de doelstellingen van deze coördinatie is het bevorderen van het brede 
 
 ##### Artikel 13. Beveiliging
 
-1. Om de Europese GNSS-systemen tegen bedreigingen zoals misbruik, interferentie, verstoring en vijandige handelingen te beschermen, doen de partijen alle praktisch uitvoerbare stappen om de continuïteit, veiligheid en beveiliging van de satellietnavigatiediensten en gerelateerde infrastructuur en kritieke voorzieningen op hun grondgebieden te verzekeren, onverminderd het bepaalde in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=4&z=2013-12-18&g=2013-12-18).
+1. Om de Europese GNSS-systemen tegen bedreigingen zoals misbruik, interferentie, verstoring en vijandige handelingen te beschermen, doen de partijen alle praktisch uitvoerbare stappen om de continuïteit, veiligheid en beveiliging van de satellietnavigatiediensten en gerelateerde infrastructuur en kritieke voorzieningen op hun grondgebieden te verzekeren, onverminderd het bepaalde in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=II&artikel=4&z=2025-12-01&g=2025-12-01).
 
 2. Voor de toepassing van lid 1 neemt Zwitserland, binnen zijn rechtsgebied en in overeenstemming met zijn nationale wetgeving en procedures, tijdig maatregelen die in een gelijkwaardig niveau van beveiliging en veiligheid voorzien als die welke in de Europese Unie van toepassing zijn met betrekking tot bescherming, controle en beheer van gevoelige voorzieningen, informatie en technologieën van de Europese GNSS-programma's wat betreft bedreigingen en ongewenste proliferatie.
 
-3. Mocht zich een gebeurtenis voordoen waarbij een gelijkwaardig niveau van beveiliging en veiligheid als bedoeld in lid 2 van dit artikel niet kan worden bereikt, dan is de procedure van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2013-12-18&g=2013-12-18) van toepassing.
+3. Mocht zich een gebeurtenis voordoen waarbij een gelijkwaardig niveau van beveiliging en veiligheid als bedoeld in lid 2 van dit artikel niet kan worden bereikt, dan is de procedure van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2025-12-01&g=2025-12-01) van toepassing.
 
 ##### Artikel 14. Uitwisseling van gerubriceerde informatie
 
@@ -306,11 +306,11 @@ Aangezien Zwitserland de Europese GNSS niet in eigendom zal hebben, draagt het g
 
 2. Het gemengd comité stelt zijn reglement van orde op, waarin onder meer bepalingen voor het bijeenroepen van vergaderingen, het aanwijzen van de voorzitter en het vaststellen van diens mandaat zijn vervat.
 
-3. Het gemengd comité komt bijeen wanneer dat nodig is. De Europese Unie of Zwitserland kan verzoeken een vergadering te beleggen. Het gemengd comité komt bijeen binnen vijftien dagen na de indiening van het in [artikel 22, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2013-12-18&g=2013-12-18), bedoelde verzoek.
+3. Het gemengd comité komt bijeen wanneer dat nodig is. De Europese Unie of Zwitserland kan verzoeken een vergadering te beleggen. Het gemengd comité komt bijeen binnen vijftien dagen na de indiening van het in [artikel 22, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2025-12-01&g=2025-12-01), bedoelde verzoek.
 
 4. Het gemengd comité kan naar eigen inzicht besluiten tot de oprichting van werkgroepen of groepen van deskundigen om het bij de vervulling van zijn taken bij te staan.
 
-5. Het gemengd comité kan besluiten [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&bijlage=I&z=2013-12-18&g=2013-12-18) te wijzigen.
+5. Het gemengd comité kan besluiten [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&bijlage=I&z=2025-12-01&g=2025-12-01) te wijzigen.
 
 ##### Artikel 21. Raadplegingen
 
@@ -322,11 +322,11 @@ Aangezien Zwitserland de Europese GNSS niet in eigendom zal hebben, draagt het g
 
 1. Elke partij kan, na overleg binnen het gemengd comité, passende vrijwaringsmaatregelen nemen, met inbegrip van de schorsing van een of meerdere samenwerkingsactiviteiten, als zij van oordeel is dat een gelijkwaardig niveau van exportcontrole of beveiliging niet langer is gewaarborgd tussen de partijen. Wanneer uitstel de goede werking van GNSS in gevaar dreigt te brengen, mogen zonder voorafgaand overleg voorlopige beschermende maatregelen worden genomen, op voorwaarde dat er onmiddellijk nadat die maatregelen zijn genomen, overleg plaatsvindt.
 
-2. De reikwijdte en de duur van de in lid 1 bedoelde maatregelen moeten beperkt blijven tot wat nodig is om de situatie te regelen en een juist evenwicht tussen de uit deze overeenkomst voortvloeiende rechten en verplichtingen te garanderen. De andere partij kan het gemengd comité verzoeken overleg over de evenredigheid van die maatregelen op gang te brengen. Indien het niet mogelijk is het geschil binnen zes maanden te regelen, kan het door elk van beide partijen worden voorgelegd voor bindende arbitrage, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&bijlage=I&z=2013-12-18&g=2013-12-18) vastgestelde procedure. Kwesties betreffende de uitlegging van bepalingen van deze overeenkomst die identiek zijn aan overeenkomstige bepalingen van het recht van de Europese Unie kunnen in dat kader niet worden geregeld.
+2. De reikwijdte en de duur van de in lid 1 bedoelde maatregelen moeten beperkt blijven tot wat nodig is om de situatie te regelen en een juist evenwicht tussen de uit deze overeenkomst voortvloeiende rechten en verplichtingen te garanderen. De andere partij kan het gemengd comité verzoeken overleg over de evenredigheid van die maatregelen op gang te brengen. Indien het niet mogelijk is het geschil binnen zes maanden te regelen, kan het door elk van beide partijen worden voorgelegd voor bindende arbitrage, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&bijlage=I&z=2025-12-01&g=2025-12-01) vastgestelde procedure. Kwesties betreffende de uitlegging van bepalingen van deze overeenkomst die identiek zijn aan overeenkomstige bepalingen van het recht van de Europese Unie kunnen in dat kader niet worden geregeld.
 
 ##### Artikel 23. Geschillenbeslechting
 
-Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2013-12-18&g=2013-12-18) worden alle geschillen betreffende de interpretatie of toepassing van deze overeenkomst beslecht middels overleg binnen het gemengd comité.
+Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=22&z=2025-12-01&g=2025-12-01) worden alle geschillen betreffende de interpretatie of toepassing van deze overeenkomst beslecht middels overleg binnen het gemengd comité.
 
 ##### Artikel 24. Bijlagen
 
@@ -350,7 +350,7 @@ Deze overeenkomst kan te allen tijde met instemming van de partijen worden gewij
 
 2. Onverminderd het bepaalde in lid 1, stemmen Zwitserland en de Europese Unie, wat betreft onderdelen van deze overeenkomst die binnen de bevoegdheid van de Europese Unie vallen, ermee in deze overeenkomst voorlopig toe te passen vanaf de eerste dag van de maand volgende op de tweede kennisgeving waarin wordt bevestigd dat de hiertoe vereiste procedures zijn voltooid.
 
-Tijdens de voorlopige toepassing van deze overeenkomst bestaat het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=20&z=2013-12-18&g=2013-12-18) bedoelde gemengd comité uit vertegenwoordigers van Zwitserland en de Europese Unie.
+Tijdens de voorlopige toepassing van deze overeenkomst bestaat het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006317&deel=IV&artikel=20&z=2025-12-01&g=2025-12-01) bedoelde gemengd comité uit vertegenwoordigers van Zwitserland en de Europese Unie.
 
 3. Deze overeenkomst wordt voor onbepaalde tijd gesloten.
 
