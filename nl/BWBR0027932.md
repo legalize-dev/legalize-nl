@@ -4,7 +4,7 @@ identifier: "BWBR0027932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2024-01-01"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027932"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2024-01-01&g=2024-01-01);
+**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2025-12-01&g=2025-12-01);
 
 **burstlading:** pyrotechnische stoffen of preparaten welke zijn bedoeld om het vuurwerk open te rijten en de effectlading te verspreiden en zo nodig te ontsteken;
 
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 **externe ondersteuner:** drager welke geen integraal onderdeel uitmaakt van het consumentenvuurwerk of die moet worden bevestigd aan het consumentenvuurwerk voorafgaand aan gebruik en zorgt voor stabiliteit;
 
-**knallading:**: pyrotechnische stoffen of preparaten met een knal als beoogd effect;
+**knallading:** pyrotechnische stoffen of preparaten met een knal als beoogd effect;
 
 **lanceerbuis:** voorwerp dat uitsluitend is geproduceerd om vuurwerk de lucht in te schieten;
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2024-01-01&g=2024-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2024-01-01&g=2024-01-01) genoemde categorie en voldoet aan de volgende eisen:
+1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2025-12-01&g=2025-12-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2025-12-01&g=2025-12-01) genoemde categorie en voldoet aan de volgende eisen:
 
 - a. het vuurwerk is bestemd om het in de bijlage bij de betrokken categorie aangegeven effect te bewerkstelligen;
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2024-01-01&g=2024-01-01) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde eisen.
+Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2025-12-01&g=2025-12-01) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2025-12-01&g=2025-12-01), bedoelde eisen.
 
 ##### Artikel 4
 
@@ -124,17 +124,17 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing consumentenvuurwerk.
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2024-01-01&g=2024-01-01))
+## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2025-12-01&g=2025-12-01))
 
 | Nederlandse naam | Engelse naam | effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
-| Batterij enkelschotsbuizen | shot tube batteries | uitstoot van de pyrotechnische units, waardoor licht- of geluidseffecten in de lucht ontstaan | F2 | 500 gram pyrotechnische stoffen of preparaten in totaal; per compartiment maximaal 15 gram pyrotechnische stoffen of preparaten; per compartiment als burstlading of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 2 gram perchloraat/metaal; knallading is niet toegestaan |
+| Batterij enkelschotsbuizen | shot tube batteries | uitstoot van de pyrotechnische units, waardoor licht- of geluidseffecten in de lucht ontstaan | F2 | 500 gram pyrotechnische stoffen of preparaten in totaal; per compartiment maximaal 15 gram pyrotechnische stoffen of preparaten; per compartiment als burstlading of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 0,75 gram perchloraat/metaal, waarbij een maximum van 5% burstlading per compartiment geldt; knallading is niet toegestaan |
 |   |   |   |   |   |
 | Batterij fonteinen of mijnen of Romeinse kaarsen | batteries | effecten van meerdere fonteinen of mijnen of Romeinse kaarsen | F2 | 200 gram pyrotechnische stoffen of preparaten; alleen batterijen toegestaan van fonteinen of mijnen of Romeinse kaarsen, waarbij fonteinen en mijnen afzonderlijk functioneren en voldoen aan de individuele eisen die in deze tabel aan de genoemde onderdelen zijn gesteld en waarbij Romeinse kaarsen aan de volgende individuele eisen voldoen: |
 |   |   |   |   |   |
-| Combinaties van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen | combinations | Gecombineerde effecten van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen. | F2 | 500 gram pyrotechnische stoffen of preparaten; alleen combinaties toegestaan van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen, waarbij fonteinen en mijnen afzonderlijk functioneren en voldoen aan de individuele eisen die in deze tabel aan de genoemde onderdelen zijn gesteld en waarbij enkelschotsbuizen aan de volgende individuele eisen voldoen: 25 gram pyrotechnische stoffen of preparaten in totaal; de burstlading van de pyrotechnische unit bevat of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 2 gram perchloraat/metaal; knallading is niet toegestaan; en Romeinse kaarsen aan de volgende individuele eisen voldoen: |
+| Combinaties van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen | combinations | Gecombineerde effecten van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen. | F2 | 500 gram pyrotechnische stoffen of preparaten; alleen combinaties toegestaan van fonteinen, mijnen, Romeinse kaarsen en enkelschotsbuizen, waarbij fonteinen en mijnen afzonderlijk functioneren en voldoen aan de individuele eisen die in deze tabel aan de genoemde onderdelen zijn gesteld en waarbij enkelschotsbuizen aan de volgende individuele eisen voldoen: 25 gram pyrotechnische stoffen of preparaten in totaal; de burstlading van de pyrotechnische unit bevat of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 1,25 gram perchloraat/metaal, waarbij een maximum van 5% burstlading per pyrotechnische unit geldt; knallading is niet toegestaan; en Romeinse kaarsen aan de volgende individuele eisen voldoen: |
 |   |   |   |   |   |
-| Samengesteld vuurwerk met twee lonten | compound fireworks | gecombineerde effecten van individuele artikelen | F2 | 2000 gram pyrotechnische stoffen of preparaten in totaal; voor de gebruikte artikelen geldt het maximaal toegestane gewicht aan pyrotechnische stoffen en preparaten die in deze tabel aan de genoemde onderdelen zijn gesteld alsmede de individuele eisen. |
+| Samengesteld vuurwerk met twee lonten | compound fireworks | gecombineerde effecten van individuele artikelen | F2 | 2000 gram pyrotechnische stoffen of preparaten in totaal; voor de gebruikte artikelen geldt het maximaal toegestane gewicht aan pyrotechnische stoffen en preparaten die in deze tabel aan de genoemde onderdelen zijn gesteld alsmede de individuele eisen, waarbij een maximum van 5% burstlading per pyrotechnische unit geldt. |
 |   |   |   |   |   |
 | Flitstabletten | flash pellets | meervoudige lichtflitsen | F2 | 30 gram pyrotechnische stoffen of preparaten |
 |   |   |   |   |   |
@@ -146,13 +146,13 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Springtollen | jumping groundspinners | draaiende beweging over de grond, veelvuldig onderbroken door een opspringende beweging, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 5 gram pyrotechnische stoffen of preparaten; knallading is niet toegestaan |
 |   |   |   |   |   |
-| Mijnen | mines | eenmalige uitstoot van de gehele inhoud | F2 | 50 gram pyrotechnische stoffen of preparaten; niet meer dan 5 pyrotechnische units met burstlading met ieder of maximaal 5 gram zwart buskruit, of maximaal 2 gram nitraat/metaal of maximaal 1 gram perchloraat/metaal; knallading is niet toegestaan; indien ook niet-pyrotechnische voorwerpen aanwezig zijn, bedraagt het maximaal toegestane gewicht van de voortdrijvende lading 8 gram nitrocellulose met een massafractie nitraat van maximaal 12,6% |
+| Mijnen | mines | eenmalige uitstoot van de gehele inhoud | F2 | 50 gram pyrotechnische stoffen of preparaten; niet meer dan 5 pyrotechnische units met burstlading met ieder of maximaal 5 gram zwart buskruit, of maximaal 2 gram nitraat/metaal of maximaal 0,5 gram perchloraat/metaal, waarbij een maximum van 5% burstlading per pyrotechnische unit geldt; knallading is niet toegestaan; indien ook niet-pyrotechnische voorwerpen aanwezig zijn, bedraagt het maximaal toegestane gewicht van de voortdrijvende lading 8 gram nitrocellulose met een massafractie nitraat van maximaal 12,6% |
 |   |   |   |   |   |
 | Stijgtollen | spinners | gecombineerde draaiende en stijgende beweging, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 5 gram zwart buskruit; knallading is niet toegestaan |
 |   |   |   |   |   |
-| Draaizonnen | wheels | draaiende beweging rond een vast punt, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 40 gram pyrotechnische stoffen of preparaten; het gewicht aan pyrotechnische stoffen van een eventuele effectlading met fluiteffect per compartiment niet meer dan 5 gram; knallading is niet toegestaan |
+| Draaizonnen | wheels | draaiende beweging rond een vast punt, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 40 gram pyrotechnische stoffen of preparaten; het gewicht aan pyrotechnische stoffen van een eventuele effectlading met fluiteffect per compartiment niet meer dan 5 gram; waarbij een maximale hoeveelheid fluitlading per fluiteffect geldt van 5 gram, met een maximum van 10 gram per draaizon; knallading is niet toegestaan |
 
-## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2024-01-01&g=2024-01-01))
+## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2025-12-01&g=2025-12-01))
 
 | Nederlandse naam | Engelse naam | beoogde effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
@@ -190,7 +190,7 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Knalerwten | throwdowns | knal als gevolg van het op de grond gooien van het artikel | F1 | 2,5 milligram zilverfulminaat |
 
-## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2024-01-01&g=2024-01-01))
+## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2025-12-01&g=2025-12-01))
 
 Vervallen
 
