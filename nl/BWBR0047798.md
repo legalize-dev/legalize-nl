@@ -4,7 +4,7 @@ identifier: "BWBR0047798"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-01"
-last_updated: "2024-03-07"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047798"
 soort: "zbo"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in België
 
-Een instelling waarvan de blootstellingen met betrekking tot particulieren en kleine partijen ten aanzien van natuurlijke personen die gedekt zijn door niet-zakelijk onroerend goed in België meer dan € 2 miljard bedragen en die voor de berekening van risicogewogen posten voor die blootstellingen gebruikmaakt van de interneratingbenadering, beschikt voor die blootstellingen over een systeemrisicobuffer van 6%, berekend overeenkomstig artikel 133, tweede lid, van de CRD.
+Een instelling waarvan de blootstellingen met betrekking tot particulieren en kleine partijen ten aanzien van natuurlijke personen die gedekt zijn door niet-zakelijk onroerend goed in België meer dan € 2 miljard bedragen en die voor de berekening van risicogewogen posten voor die blootstellingen gebruikmaakt van de interneratingbenadering, beschikt voor die blootstellingen over een overeenkomstig artikel 133, tweede lid, CRD berekende systeemrisicobuffer van 6% op individuele, gesubconsolideerde en geconsolideerde basis, zoals van toepassing in overeenstemming met deel één, titel II, van de CRR.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -76,6 +76,6 @@ Dit besluit treedt inwerking op de dag na publicatie daarvan in de Staatscourant
 
 ##### Artikel 4. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit erkenning 6% systeemrisicobuffer België 2023.
+Dit besluit wordt aangehaald als: Besluit erkenning 6% systeemrisicobuffer België 2025.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
