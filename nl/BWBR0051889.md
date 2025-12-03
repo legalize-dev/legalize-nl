@@ -4,7 +4,7 @@ identifier: "BWBR0051889"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-03"
-last_updated: "2025-06-13"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051889"
 soort: "ministeriele-regeling"
@@ -66,12 +66,12 @@ Wijzigt de Regeling bekostiging financieel toezicht 2025.
 
 ##### Artikel VII
 
-De in de [artikelen I tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0051889&artikel=I&z=2025-12-03&g=2025-06-13) genoemde regelingen, zoals die regelingen na inwerkingtreding van deze regeling luiden, zijn van toepassing op heffingsbesluiten over de jaren 2020 tot en met 2024 die nog niet onherroepelijk zijn.
+De in de [artikelen I tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0051889&artikel=I&z=2025-12-03&g=2025-12-03) genoemde regelingen, zoals die regelingen na inwerkingtreding van deze regeling luiden, zijn van toepassing op heffingsbesluiten over de jaren 2020 tot en met 2024 die nog niet onherroepelijk zijn.
 
 ##### Artikel VIII
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051889&artikel=VI&z=2025-12-03&g=2025-06-13) werkt terug tot en met 13 juni 2025.
+2. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051889&artikel=VI&z=2025-12-03&g=2025-12-03) werkt terug tot en met 13 juni 2025.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
