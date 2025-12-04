@@ -4,7 +4,7 @@ identifier: "BWBR0051894"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2025-07-01"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051894"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 2. De reünievereniging geeft jaarlijks wijzigingen in het aantal leden van de ledenlijst of donateurslijst door aan het defensieonderdeel, bedoeld in het eerste lid.
 
-3. Indien naar het oordeel van het hoofd defensieonderdeel, na consultering van het Nederlands Veteraneninstituut, de reünievereniging voldoet aan de omschrijving, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-03-11&g=2025-07-01), beslist het hoofd defensieonderdeel namens Onze Minister of het reüniecertificaat wordt toegekend.
+3. Indien naar het oordeel van het hoofd defensieonderdeel, na consultering van het Nederlands Veteraneninstituut, de reünievereniging voldoet aan de omschrijving, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2025-12-04&g=2025-12-04), beslist het hoofd defensieonderdeel namens Onze Minister of het reüniecertificaat wordt toegekend.
 
 4. Na toekenning wordt door zorg van het Nederlands Veteraneninstituut het reüniecertificaat opgenomen in het reünieregister en verstrekt aan de reünievereniging.
 
@@ -101,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Belangenvereniging
 
-1. Een belangenvereniging kan ten laste van Defensie per kalenderjaar eenmalig aanspraak maken op een tegemoetkoming in de kosten van een reünie die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van de belangenvereniging en het actieve defensiepersoneel te bevorderen en te onderhouden, tot een maximum normbedrag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-03-11&g=2025-07-01), per lid, ongeacht of de reünie al dan niet plaatsvindt op een defensielocatie.
+1. Een belangenvereniging kan ten laste van Defensie per kalenderjaar eenmalig aanspraak maken op een tegemoetkoming in de kosten van een reünie die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van de belangenvereniging en het actieve defensiepersoneel te bevorderen en te onderhouden, tot een maximum normbedrag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2025-12-04&g=2025-12-04), per lid, ongeacht of de reünie al dan niet plaatsvindt op een defensielocatie.
 
 2. De tegemoetkoming geldt voor elk lid van een belangenvereniging die zich heeft aangemeld voor de reünie, alsmede voor elke:
 
@@ -109,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 - b. begeleider van een lid van een belangenvereniging, indien dit lid om sociaal-medische redenen niet zelfstandig naar een reünie kan reizen of niet zelfstandig kan bijwonen.
 
-3. De aanvraag voor de tegemoetkoming wordt door een belangenvereniging ingediend bij commandant Divisie Personeel en Organisatie Defensie die tevens zorg draagt voor de ondersteuning bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=4&z=2026-03-11&g=2025-07-01).
+3. De aanvraag voor de tegemoetkoming wordt door een belangenvereniging ingediend bij commandant Divisie Personeel en Organisatie Defensie die tevens zorg draagt voor de ondersteuning bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=4&z=2025-12-04&g=2025-12-04).
 
 ##### Artikel 6. Intrekking
 
@@ -117,7 +117,7 @@ De [Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en po
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van [artikel 1, rechthebbenden, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-03-11&g=2025-07-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-03-11&g=2025-07-01), terug tot en met 1 januari 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van [artikel 1, rechthebbenden, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2025-12-04&g=2025-12-04), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2025-12-04&g=2025-12-04), terug tot en met 1 januari 2024.
 
 ##### Artikel 8. Citeertitel
 
