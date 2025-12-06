@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-01-01"
+last_updated: "2025-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a v
 
 - d. belanghebbenden:
 
-- 1°. die op grond van [artikel 2.68 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.68) als niet-ingezetene zijn ingeschreven in de basisregistratie personen;
+- 1°. die op grond van [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.68) of [2.83 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.83) als niet-ingezetene respectievelijk ingezetene van een openbaar lichaam zijn ingeschreven in de basisregistratie personen;
 
 - 2°. die rechtspersoon zijn en in de administratie van de Belastingdienst zijn opgenomen met een vestigingsadres buiten Nederland;
 
