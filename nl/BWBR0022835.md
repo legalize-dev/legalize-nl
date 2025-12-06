@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2025-11-11"
+last_updated: "2025-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -44,15 +44,21 @@ Treedt in werking op het tijdstip waarop het Besluit burgerservicenummer in werk
 
 ##### Artikel 1
 
-De inlichtingen, bedoeld in [artikel 5, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=5), worden door het college van burgemeester en wethouders verstrekt in de gevallen en op de wijze, beschreven in de systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2).
+De inlichtingen, bedoeld in [artikel 5, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=5), worden door het college van burgemeester en wethouders of het bestuurscollege verstrekt in de gevallen en op de wijze, beschreven in de systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2).
 
 ##### Artikel 2
 
-De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=9), geschiedt indien mogelijk door middel van of gezamenlijk met de toezending van een volledig overzicht van de persoonslijst als bedoeld in [artikel 2.54, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.54).
+1. De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=9), geschiedt indien mogelijk door middel van of gezamenlijk met de toezending van een volledig overzicht van de persoonslijst als bedoeld in [artikel 2.54, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.54).
+
+2. In afwijking van het eerste lid geschiedt de kennisgeving aan ingezetenen van een openbaar lichaam:
+
+- a. door middel van of gezamenlijk met de toezending van een volledig overzicht van de persoonslijst als bedoeld in [artikel 17b, eerste en tweede lid, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=17b), indien het nummer is toegekend op grond van [artikel 8, tweede lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8); of
+
+- b. door middel van een schriftelijke mededeling indien het nummer is toegekend op grond van [artikel 22, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22).
 
 ##### Artikel 3
 
-De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch Ontwerp BSN, versie 2024.Q1, dat als bijlage bij deze regeling is gevoegd.
+De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch Ontwerp BSN, versie 2025.Q4, dat als bijlage bij deze regeling is gevoegd.
 
 ##### Artikel 4
 
@@ -68,9 +74,9 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Logisch Ontwerp BSN, versie 2024.Q1
+## Bijlage. Logisch Ontwerp BSN, versie 2025.Q4
 
-### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2025-12-06&g=2025-11-11)
+### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2025-12-06&g=2025-12-06)
 
 Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](https://www.rvig.nl/).
 
