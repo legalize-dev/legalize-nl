@@ -4,7 +4,7 @@ identifier: "BWBR0048167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2024-03-28"
+last_updated: "2025-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048167"
 soort: "ministeriele-regeling"
@@ -76,17 +76,19 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 1. Een rechthebbende kan, als beoogde gebruiker, DigiD aanvragen. Dit geschiedt op de volgende manier:
 
-- a. Een aanvraag voor DigiD op betrouwbaarheidsniveau laag geschiedt via [www.digid.nl](http://www.digid.nl) of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b, van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank.
+- a. Een aanvraag voor DigiD op betrouwbaarheidsniveau laag geschiedt via [www.digid.nl](http://www.digid.nl) of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b en c van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank;
 
-- b. Een aanvraag voor DigiD op betrouwbaarheidsniveau substantieel geschiedt via [www.digid.nl](http://www.digid.nl/), via de DigiD app of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b, van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank. De beoogde gebruiker gebruikt daarbij een apparaat dat digitaal met een document als bedoeld in het derde lid kan communiceren.
+- b. Een aanvraag voor DigiD op betrouwbaarheidsniveau substantieel geschiedt via [www.digid.nl](http://www.digid.nl/), via de DigiD app of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b en c van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank. De beoogde gebruiker gebruikt daarbij een apparaat dat digitaal met een document als bedoeld in het derde lid kan communiceren;
 
 - c. Een aanvraag voor DigiD op betrouwbaarheidsniveau hoog, verband houdend met een Nederlandse identiteitskaart of een Nederlands rijbewijs waarop een elektronisch identificatiemiddel is geplaatst, geschiedt volgens het aanvraagproces voor het desbetreffende document.
 
 2. DigiD op betrouwbaarheidsniveau laag wordt slechts verstrekt aan een beoogde gebruiker die:
 
-- a. als ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en zijn e-mailadres verstrekt;
+- a. als ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en e-mailadres verstrekt;
 
-- b. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en e-mailadres verstrekt.
+- b. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en e-mailadres verstrekt; of
+
+- c. als ingezetene van een openbaar lichaam is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en e-mailadres verstrekt.
 
 3. DigiD op betrouwbaarheidsniveau substantieel wordt slechts verstrekt aan een beoogde gebruiker die zijn telefoonnummer en e-mailadres verstrekt en die houder is van een geldig Nederlands paspoort, Nederlandse identiteitskaart of Nederlands rijbewijs, waarmee digitaal gecommuniceerd kan worden.
 
