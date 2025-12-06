@@ -4,7 +4,7 @@ identifier: "BWBR0028622"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2025-12-06"
-last_updated: "2025-11-11"
+last_updated: "2025-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028622"
 soort: "AMvB-BES"
@@ -67,9 +67,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=I&z=2025-12-06&g=2025-11-11) bevat de algemene, bijzondere en administratieve gegevens, als bedoeld in [artikel 10, eerste lid, onderdeel a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10).
+1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=I&z=2025-12-06&g=2025-12-06) bevat de algemene, bijzondere en administratieve gegevens, als bedoeld in [artikel 10, eerste lid, onderdeel a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10).
 
-2. [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=II&z=2025-12-06&g=2025-11-11) bevat de verwijsgegevens en de administratieve gegevens in verband met de verwijsgegevens, als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=11).
+2. [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=II&z=2025-12-06&g=2025-12-06) bevat de verwijsgegevens en de administratieve gegevens in verband met de verwijsgegevens, als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=11).
 
 ##### Artikel 4
 
@@ -95,15 +95,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-11-11), dan wel artikel 4, derde lid, worden geen gegevens ontleend over het huwelijk dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één niet de Nederlandse nationaliteit heeft, voordat aan het bestuurscollege een verklaring is overgelegd als bedoeld in [artikel 44, eerste lid, onderdeel h, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=44).
+Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-12-06), dan wel artikel 4, derde lid, worden geen gegevens ontleend over het huwelijk dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één niet de Nederlandse nationaliteit heeft, voordat aan het bestuurscollege een verklaring is overgelegd als bedoeld in [artikel 44, eerste lid, onderdeel h, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=44).
 
 ##### Artikel 6
 
-1. Indien aannemelijk is dat omtrent een gegeven over de familierechtelijke betrekkingen tot de ouders of de kinderen, over het huwelijk en de eerdere huwelijken, over de echtgenoot en de eerdere echtgenoten, over het geregistreerd partnerschap en de eerdere geregistreerde partnerschappen of over de geregistreerde partner en de eerdere geregistreerde partners een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-11-11), kan worden verschaft, mogen deze gegevens niet worden ontleend aan een geschrift als bedoeld in artikel 4, tweede lid, onderdeel e.
+1. Indien aannemelijk is dat omtrent een gegeven over de familierechtelijke betrekkingen tot de ouders of de kinderen, over het huwelijk en de eerdere huwelijken, over de echtgenoot en de eerdere echtgenoten, over het geregistreerd partnerschap en de eerdere geregistreerde partnerschappen of over de geregistreerde partner en de eerdere geregistreerde partners een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-12-06), kan worden verschaft, mogen deze gegevens niet worden ontleend aan een geschrift als bedoeld in artikel 4, tweede lid, onderdeel e.
 
-2. Aan een geschrift, als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-11-11), alsmede artikel 4, derde lid, worden geen gegevens ontleend, voor zover de openbare orde zich verzet tegen de erkenning van de rechtsgeldigheid van de in deze geschriften vermelde feiten.
+2. Aan een geschrift, als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-12-06), alsmede artikel 4, derde lid, worden geen gegevens ontleend, voor zover de openbare orde zich verzet tegen de erkenning van de rechtsgeldigheid van de in deze geschriften vermelde feiten.
 
-3. Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-11-11), worden geen gegevens ontleend, indien aannemelijk is dat de gegevens onjuist zijn.
+3. Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-12-06&g=2025-12-06), worden geen gegevens ontleend, indien aannemelijk is dat de gegevens onjuist zijn.
 
 ##### Artikel 7
 
@@ -173,7 +173,7 @@ Bij de inschrijving op grond van geboorte worden de gegevens omtrent het adres o
 
 2. Als datum van vertrek geldt de dag waarop de aangifte is ontvangen, dan wel de dag waarop van het voornemen tot ambtshalve opneming van gegevens betreffende het vertrek aan de ingeschrevene schriftelijk mededeling is gedaan.
 
-3. Indien de ingezetene in de aangifte van vertrek meldt te gaan verblijven in een ander openbaar lichaam, een ander land binnen het Koninkrijk of een gemeente, wordt aan hem kosteloos een verhuisbericht verstrekt. In het geval van vertrek naar een gemeente worden tevens de in [artikel 27a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=27a) bedoelde gegevens aan het college van burgemeester en wethouders van de desbetreffende gemeente verstrekt.
+3. Indien de ingezetene in de aangifte van vertrek meldt te gaan verblijven in een ander openbaar lichaam, een ander land binnen het Koninkrijk of een gemeente, wordt aan hem kosteloos een verhuisbericht verstrekt. In het geval van vertrek naar een gemeente worden tevens de in [artikel 27b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=27b) bedoelde gegevens aan het college van burgemeester en wethouders van de desbetreffende gemeente verstrekt.
 
 ##### Artikel 17
 
@@ -185,9 +185,7 @@ Bij de inschrijving op grond van geboorte worden de gegevens omtrent het adres o
 
 ##### Artikel 18
 
-1. Het identiteitsnummer wordt opgenomen overeenkomstig de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279).
-
-2. De identiteitsnummers van ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen worden ontleend aan de desbetreffende persoonslijsten in de basisadministratie.
+Vervallen
 
 ##### Artikel 19
 
@@ -201,7 +199,7 @@ Met betrekking tot de ingeschrevene die geen ingezetene is, worden geen nieuwe a
 
 ##### Artikel 21
 
-Omtrent de beslissing dat een opgenomen gegeven onjuist is of, indien het een gegeven over de burgerlijke staat betreft, in strijd is met de openbare orde, omtrent een onderzoek naar die onjuistheid of strijdigheid, alsmede omtrent het van toepassing zijn van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=20&z=2025-12-06&g=2025-11-11), wordt een aantekening geplaatst bij de desbetreffende gegevens.
+Omtrent de beslissing dat een opgenomen gegeven onjuist is of, indien het een gegeven over de burgerlijke staat betreft, in strijd is met de openbare orde, omtrent een onderzoek naar die onjuistheid of strijdigheid, alsmede omtrent het van toepassing zijn van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=20&z=2025-12-06&g=2025-12-06), wordt een aantekening geplaatst bij de desbetreffende gegevens.
 
 #### Paragraaf 2. De verplichtingen van instanties belast met de uitvoering van publiekrechtelijke taken
 
@@ -217,7 +215,7 @@ De ambtenaar van de burgerlijke stand die in een van de onder hem berustende reg
 
 2. Bij een aangifte als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), verstrekt de betrokkene de inlichtingen en overlegt hij de geschriften ter zake van feiten betreffende zijn burgerlijke staat, zijn nationaliteit en zijn eerdere verblijf in het openbaar lichaam, die noodzakelijk zijn voor de bijhouding van de op hem betrekking hebbende gegevens in de basisadministratie. Indien hij zich in het openbaar lichaam vestigt, komende vanuit een ander openbaar lichaam, Aruba, Curaçao of Sint Maarten dan wel een gemeente, is hij verplicht een hem betreffend verhuisbericht over te leggen, verstrekt door de verantwoordelijke voor de verwerking van persoonsgegevens in de andere basisadministratie waar hij laatstelijk als ingezetene was ingeschreven.
 
-3. De persoon die ophoudt te behoren tot een categorie, als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-12-06&g=2025-11-11), en die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in het openbaar lichaam verblijf zal houden, doet aangifte van verblijf en adres overeenkomstig [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13).
+3. De persoon die ophoudt te behoren tot een categorie, als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-12-06&g=2025-12-06), en die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in het openbaar lichaam verblijf zal houden, doet aangifte van verblijf en adres overeenkomstig [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13).
 
 4. Bij een aangifte als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), doet de betrokkene in de aangifte mededeling van het nieuwe en het oude adres.
 
@@ -229,7 +227,7 @@ De ambtenaar van de burgerlijke stand die in een van de onder hem berustende reg
 
 - a. het verblijf aanvangt door geboorte en inschrijving plaats vindt op grond van een geboorteakte;
 
-- b. de betrokkene behoort tot een categorie als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-12-06&g=2025-11-11).
+- b. de betrokkene behoort tot een categorie als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-12-06&g=2025-12-06).
 
 2. Niet verplicht tot het doen van aangifte van vertrek, als bedoeld in [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), is de ingezetene die vanaf het tijdstip van vertrek naar redelijke verwachting niet langer dan twee jaar buiten het openbaar lichaam zal verblijven en die gedurende zijn verblijf buiten het openbaar lichaam vaart aan boord van een schip dat het openbaar lichaam als thuishaven heeft.
 
@@ -297,13 +295,13 @@ Degene ten aanzien van wie het bestuurscollege het redelijk vermoeden heeft dat 
 
 1. De systematische wijzen van verstrekking van gegevens, die kunnen plaatsvinden op grond van een besluit van Onze Minister als bedoeld in [artikel 20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=20), worden vastgelegd in een ministeriële regeling.
 
-2. De verantwoordelijke voor de verstrekking van gegevens houdt gedurende het jaar volgend op de verstrekking aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit de basisregistratie of de verstrekkingenvoorziening dan wel van de verstrekking ingevolge [artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-11-11), geen mededeling wordt gedaan.
+2. De verantwoordelijke voor de verstrekking van gegevens houdt gedurende het jaar volgend op de verstrekking aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit de basisregistratie of de verstrekkingenvoorziening dan wel van de verstrekking ingevolge [artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-12-06), geen mededeling wordt gedaan.
 
 #### Paragraaf 2. De verstrekking aan overheidsorganen en aan derden
 
 ##### Artikel 31a
 
-De door derden verrichte werkzaamheden met een bijzonder maatschappelijk belang, bedoeld in [artikel 26, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=26), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens en de bepaling of [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=28) op de verstrekking van toepassing is, zijn opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=III&z=2025-12-06&g=2025-11-11).
+De door derden verrichte werkzaamheden met een bijzonder maatschappelijk belang, bedoeld in [artikel 26, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=26), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens en de bepaling of [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=28) op de verstrekking van toepassing is, zijn opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=III&z=2025-12-06&g=2025-12-06).
 
 ##### Artikel 32
 
@@ -311,7 +309,7 @@ De door derden verrichte werkzaamheden met een bijzonder maatschappelijk belang,
 
 2. Een verzoek, als bedoeld in het eerste lid, kan de betrokkene aan het bestuurscollege richten tot uiterlijk acht weken nadat hij van de verbetering, de aanvulling of de verwijdering, kennis heeft kunnen nemen.
 
-3. Het bestuurscollege doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-11-11), is van overeenkomstige toepassing.
+3. Het bestuurscollege doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-12-06), is van overeenkomstige toepassing.
 
 4. [Artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=32) is van toepassing.
 
@@ -1033,7 +1031,7 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 - –. codering van de inhoud van het besluit om geen gegevens van de persoonslijst aan derden te verstrekken.
 
-## Bijlage I. bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-12-06&g=2025-11-11)
+## Bijlage I. bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-12-06&g=2025-12-06)
 
 - A. algemene gegevens:
 
@@ -1215,9 +1213,9 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 - –. data van kracht worden van de administratienummers
 
-- 8. gegevens over het ID-nummer van de ingeschrevene
+- 8. gegevens over het burgerservicenummer van de ingeschrevene
 
-- 9. gegevens over de ID-nummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen
+- 9. gegevens over de burgerservicenummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen
 
 - 10. gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, echtgenote of geregistreerd partner dan wel de eerdere echtgenoot, echtgenote of geregistreerd partner:
 
@@ -1379,7 +1377,7 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 ### Hoofdstuk IV. Slotbepalingen
 
-## Bijlage II. bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-12-06&g=2025-11-11)
+## Bijlage II. bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-12-06&g=2025-12-06)
 
 - A. Verwijsgegevens
 
@@ -1407,13 +1405,7 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 - –. datum van kracht worden administratienummer.
 
-- 3. Gegevens over het ID-nummer
-
-- –. het ID-nummer;
-
-- –. datum van kracht worden ID-nummer.
-
-- 4. Gegevens over het openbaar lichaam dan wel Aruba, Curaçao of Sint Maarten waar de persoon is ingeschreven, over het adres in dat openbaar lichaam dan wel in Aruba, Curaçao of Sint Maarten en over de datum van vestiging:
+- 3. Gegevens over het openbaar lichaam dan wel Aruba, Curaçao of Sint Maarten waar de persoon is ingeschreven, over het adres in dat openbaar lichaam dan wel in Aruba, Curaçao of Sint Maarten en over de datum van vestiging:
 
 - a. Aanduiding inschrijving in een openbaar lichaam dan wel in Aruba, Curaçao of Sint Maarten:
 
@@ -1459,7 +1451,7 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 - –. codering van de inhoud van het besluit om geen gegevens aan derden te verstrekken.
 
-## Bijlage III. bij [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-11-11)
+## Bijlage III. bij [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2025-12-06&g=2025-12-06)
 
 | **Werkzaamheden** | **Categorieën van derden** | **Clausulering van de werkzaamheden** | **Artikel 28 toepasselijk** |
 | --- | --- | --- | --- |
@@ -1499,6 +1491,6 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 ### Hoofdstuk IV. Slotbepalingen
 
-## Bijlage IV. bij [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=1&artikel=31&z=2025-12-06&g=2025-11-11)
+## Bijlage IV. bij [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=1&artikel=31&z=2025-12-06&g=2025-12-06)
 
 [Vervallen]
