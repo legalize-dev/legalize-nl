@@ -4,7 +4,7 @@ identifier: "BWBR0039881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2025-11-01"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039881"
 soort: "ministeriele-regeling"
@@ -79,9 +79,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - h. de aanspraken op grond van [artikel 62 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62), indien en voor zover de minister dit bepaalt;
 
-- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2025-09-11&g=2025-11-01) van deze regeling;
+- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2025-12-09&g=2025-12-09) van deze regeling;
 
-- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2025-09-11&g=2025-11-01) van deze regeling;
+- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2025-12-09&g=2025-12-09) van deze regeling;
 
 - k. de overgangstoelage personenchauffeur, bedoeld in [artikel 11 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=11);
 
@@ -95,9 +95,53 @@ Het pensioengevend inkomen bestaat uit:
 
 ### Hoofdstuk 2. Toelagen voor risico’s, inconveniënten en functiegebonden werkzaamheden
 
-##### Artikel 4
+##### Artikel 4. Toelage munitieruimen
 
-[Vervallen]
+1. In dit artikel wordt verstaan onder:
+
+- **categorie A:**
+
+- a. het onschadelijk maken van explosieven – munitie daaronder begrepen – die door welke oorzaak dan ook in een gevaarlijke toestand zijn komen te verkeren of waarvan wordt aangenomen dat zij zich in een gevaarlijke toestand bevinden; daaronder wordt niet mede verstaan het door middel van een vernietigingslading doen springen van niet-geëxplodeerde munitie bij schietoefeningen;
+
+- b. het gereedmaken van gevaarlijke explosieven of munitie voor vernietiging;
+
+- c. het vervoeren van explosieven, bedoeld onder a, indien daarbij ontploffingsgevaar bestaat.
+
+- **categorie B:**
+
+- a. renovatiewerkzaamheden aan eigen munitie of munitie van bekende samenstelling, omvattende:
+
+- 1°. het verwijderen van niet afgevuurde ontstekingsdoppen uit hulzen;
+
+- 2°. het plaatsen van ontstekingsdoppen in hulzen;
+
+- 3°. het verwijderen van de voortdrijvende lading uit hulzen;
+
+- 4°. het plaatsen van de voortdrijvende lading in hulzen;
+
+- 5°. het depatorneren van patroonmunitie;
+
+- 6°. het patroneren van patroonmunitie;
+
+- 7°. het monteren van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
+
+- 8°. het verwijderen van buizen of ontstekingsinrichtingen van munitie, indien dit op andere wijze dan met de normale munitie moet geschieden;
+
+- 9°. het demonteren van buizen of ontstekingsinrichtingen;
+
+- 10°. het schoonstralen met staalgrit van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
+
+- 11°. het verwijderen van springstof, rooksas, lichtsas of brandsas uit munitie door middel van branden, stomen, steken, spoelen of schrappen;
+
+- 12°. het boren, zagen, afdraaien of persen van springstof, rooksas, lichtsas of brandsas;
+
+- b. onderzoekingswerkzaamheden aan eigen munitie of munitie van bekende samenstelling, waarbij tot gehele of gedeeltelijke demontage moet worden overgegaan.
+
+2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+
+3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+
+4. Aanspraak op de toelage, bedoeld in het derde lid, heeft ook de ambtenaar die zich in opdracht van de commandant in een ruimte bevindt waarin te zelfder tijd tot de in het eerste lid behorende werkzaamheden worden verricht, indien dat met het oog op die werkzaamheden noodzakelijk is.
 
 ##### Artikel 5. Toelage bezwarende arbeidsomstandigheden
 
@@ -179,7 +223,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 ##### Artikel 6. Duiktoelage
 
-1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-09-11&g=2025-11-01).
+1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
 
 2. Voor de toepassing van het eerste lid wordt:
 
@@ -193,7 +237,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 1. In dit artikel wordt verstaan onder onderwaterlaboratorium: een in het water neergelaten toestel waarin de druk gelijk kan worden gemaakt aan de omgevende waterdruk en waarin zodanige voorzieningen zijn aangebracht dat één of meerdere personen daarin gedurende langere tijd en zonder gebruikmaking van ademhalingsapparatuur kunnen verblijven.
 
-2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-09-11&g=2025-11-01).
+2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
 
 3. De bedragen, bedoeld in het tweede lid, worden verdubbeld, indien wordt verbleven in een onverwarmd onderwaterlaboratorium binnen de poolcirkel of in het tijdvak van 1 oktober tot en met 30 april in de gematigde luchtstreken.
 
@@ -349,7 +393,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 - b. vijf jaar vóór de datum waarop hij aanspraak zou hebben gehad op een gratificatie wegens trouwe dienst bij het bereiken van een diensttijd van vijfentwintig, veertig of vijftig jaar.
 
-5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2025-09-11&g=2025-11-01), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
+5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2025-12-09&g=2025-12-09), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
 
 6. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd over een proportionele diensttijdgratificatie die is afgeleid van een diensttijdgratificatie wegens vijfentwintig of veertig jaar trouwe dienst, als bedoeld in het tweede lid, onderdeel b, en in het vierde lid, onderdeel b, komen voor rekening van Defensie.
 
