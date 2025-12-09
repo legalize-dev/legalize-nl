@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-11-26"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -155,6 +155,8 @@ Besluiten:
 |   | [4.12.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 10.000.000 |
 |   | [4.12.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsmaatregelen | Flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 6.750.000 |
 | [Titel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.13): Nationale Investeringsmodule Klimaatprojecten Industrie (NIKI) | [4.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.13.2) |   |   |   | 01-09-2025 t/m 30-9-2025 | € 211.000.000 |
+| [Titel 4a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4a.3): Cyberbeveiligingsinnovatieprojecten | [4a.3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het bevorderen van crypto-agility’. | Het deelgebied ‘het bevorderen van crypto-agility’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
+|   | [4a.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 
 ##### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
