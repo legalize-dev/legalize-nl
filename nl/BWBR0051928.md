@@ -4,7 +4,7 @@ identifier: "BWBR0051928"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2025-11-01"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051928"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **Onderzoek:** Periodieke Rapportage Toeslagen, waarvoor de DG Fiscale Zaken en DG Toeslagen opdracht hebben gegeven;
 
-- d. **De commissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051928&artikel=2&z=2025-12-10&g=2025-11-01);
+- d. **De commissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051928&artikel=2&z=2025-12-10&g=2025-12-10);
 
 - e. **Ambtelijke werkgroep:** ondersteunende werkgroep waarin ambtenaren van het Ministerie van Financiën plaatsnemen;
 
