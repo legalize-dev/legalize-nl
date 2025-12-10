@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2024-10-12"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2024-10-12&g=2024-10-12) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2025-12-10&g=2025-12-10) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -198,17 +198,16 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=2&z=2024-10-12&g=2024-10-12):
+## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=2&z=2025-12-10&g=2025-12-10):
 
-| nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar |
-| --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 54.000 |
-| 2. | Klinisch psycholoog in ggz | € 101.600 |
-| 3. | Psychiater in ggz | € 102.600 |
-| 4. | Psychotherapeut in ggz | € 68.800 |
-| 5. | Klinisch Neuropsycholoog in ggz | € 106.600 |
-| 6. | Verpleegkundig specialist ggz | € 100.300 |
-|   | Prijspeil voorlopig 2024 |   |
+| Nr. | Zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar, voor jaren 2024 en 2027 | Subsidiebedrag per opleidingsplaats per jaar, voor jaren 2025 en 2026 |
+| --- | --- | --- | --- |
+| 1. | Gezondheidszorgpsycholoog in ggz | € 54.000 | € 56.600 |
+| 2. | Klinisch psycholoog in ggz | € 101.600 | € 106.500 |
+| 3. | Psychiater in ggz | € 102.600 | € 107.500 |
+| 4. | Psychotherapeut in ggz | € 68.800 | € 72.100 |
+| 5. | Klinisch Neuropsycholoog in ggz | € 106.600 | € 111.700 |
+| 6. | Verpleegkundig specialist ggz | € 100.300 | € 105.100 |
 
 **Ministerie van Volksgezondheid, Welzijn en Sport**
 
