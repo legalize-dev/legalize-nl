@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-12-09"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -105,6 +105,7 @@ Besluiten:
 | [Titel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.19) Duurzame innovatieve scheepsbouw | [3.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.19.2) |   |   |   | 10-07-2025 t/m 13-11-2025 | € 5.000.000 |
 | [Titel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.22): Thematische Technology Transfer | [3.22.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2) |   |   |   | 16-12-2024 t/m 15-04-2025 | € 40.000.000 |
 |   | [3.22.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2a) |   | Thematisch technology transferplan gericht op pandemische paraatheid | Thematisch technology transferplan gericht op pandemische paraatheid | 16-12-2024 t/m 15-04-2025 | € 8.000.000 |
+|   | [3.22.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2b) |   | Thematisch technology transferplan gericht op dual-use en defensiethema’s | Thematisch technology transferplan gericht op dual-use en defensiethema’s | 16-12-2025 t/m 15-04-2026 | € 13.800.000 |
 | [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 01-01-2025 t/m 04-02-2025 | € 100.000 |
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   |   | 06-05-2025 t/m 01-07-2025 | € 200.000 |
 | [Titel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.25): High-performance computing-projecten (HPC-projecten) | [3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | Digital Autonomy for RISC-V in Europe (DARE) | Digital Autonomy for RISC-V in Europe (DARE) | 15-12-2024 t/m 31-01-2025 | € 7.500.000 |
