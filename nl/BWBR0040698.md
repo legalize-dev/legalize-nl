@@ -4,7 +4,7 @@ identifier: "BWBR0040698"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-11"
-last_updated: "2025-09-04"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040698"
 soort: "ministeriele-regeling-BES"
@@ -68,7 +68,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 3. (subsidiebedragen)
 
-De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-09-04&g=2025-09-04), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
 | Omschrijving / kalenderjaar | 2022 | 2023 | 2024 | 2025 | 2026 |
 | --- | --- | --- | --- | --- | --- |
@@ -101,12 +101,12 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 | Koopkracht pakket |   |   | 93,981 |   | 145,982 |
 | Subtotaal 3a | 1.082 | 1.058 | 1.177,981 | 1.110 | 1.281,982 |
 |   |   |   |   |   |   |
-| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 1.500 | 1.500 2.045 |   |   |   |
-| Subtotaal 3b | 1.500 | 3.545 |   |   |   |
+| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 1.500 | 1.500 2.045 |   | 1.000 |   |
+| Subtotaal 3b | 1.500 | 3.545 |   | 1.000 |   |
 |   |   |   |   |   |   |
-| **TOTAAL SINT EUSTATIUS** | **2.582** | **4.603** | **1.177,981** | **1.110** | **1.281,982** |
+| **TOTAAL SINT EUSTATIUS** | **2.582** | **4.603** | **1.177,981** | **2.110** | **1.281,982** |
 |   |   |   |   |   |   |
-| **TOTALEN 1,2,3** | **10.782** | **11.947** | **9.334,999** | **8.886,814** | **8.794,139** |
+| **TOTALEN 1,2,3** | **10.782** | **11.947** | **9.334,999** | **9.886,814** | **8.794,139** |
 
 ##### Artikel 4. (aanvraag)
 
@@ -114,7 +114,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-09-04&g=2025-09-04), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -134,7 +134,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 5. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-09-04&g=2025-09-04).
+6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11).
 
 ##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
@@ -178,11 +178,11 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2025-09-04&g=2025-09-04) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2025-12-11&g=2025-12-11) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2025-09-04&g=2025-09-04) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2025-09-04&g=2025-09-04) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2025-12-11&g=2025-12-11) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2025-12-11&g=2025-12-11) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
@@ -198,7 +198,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. (afwijking)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2025-09-04&g=2025-09-04), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2025-12-11&g=2025-12-11), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
 
 - a. tot verlenging van de in dat lid bedoelde termijn of tijdvak tot een daarbij genoemde datum tot welke de subsidie kan worden aangewend;
 
