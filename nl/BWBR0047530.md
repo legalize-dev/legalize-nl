@@ -4,7 +4,7 @@ identifier: "BWBR0047530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-12"
-last_updated: "2025-01-18"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047530"
 soort: "ministeriele-regeling"
@@ -44,19 +44,17 @@ Besluit:
 
 Als organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek over dreigingen en incidenten met betrekking tot netwerk- en informatiesystemen te informeren als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=3), en [artikel 20, tweede lid, onderdeel a, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=20) worden aangewezen:
 
-- a. het Digital Trust Center, onderdeel van het Ministerie van Economische Zaken en Klimaat;
+- a. de Stichting Nationale Beheersorganisatie Internet Providers;
 
-- b. de Stichting Nationale Beheersorganisatie Internet Providers;
+- b. de Stichting Cyber Weerbaarheidscentrum Brainport;
 
-- c. de Stichting Cyber Weerbaarheidscentrum Brainport;
+- c. de Vereniging Cyberveilig Nederland;
 
-- d. de Vereniging Cyberveilig Nederland;
+- d. de Stichting Connect2Trust;
 
-- e. de Stichting Connect2Trust;
+- e. de Stichting FERM;
 
-- f. de Stichting FERM;
-
-- g. de Stichting NL CISO Circle of Trust.
+- f. de Stichting NL CISO Circle of Trust.
 
 ##### Artikel 2
 
