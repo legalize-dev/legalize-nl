@@ -4,7 +4,7 @@ identifier: "BWBR0050400"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2025-01-01"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050400"
 soort: "AMvB"
@@ -88,7 +88,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Rechtsvormvergelijking
 
-1. Een buitenlandse rechtsvorm waarvan de aard en inrichting onder het recht van de staat door wiens recht die rechtsvorm wordt beheerst vergelijkbaar is met de aard en inrichting, waaronder de in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&z=2025-01-01&g=2025-01-01) opgenomen wezenlijke kenmerken, van een Nederlandse rechtsvorm als bedoeld in [artikel 1, tweede lid, onderdeel b, onder 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), is vergelijkbaar met die Nederlandse rechtsvorm.
+1. Een buitenlandse rechtsvorm waarvan de aard en inrichting onder het recht van de staat door wiens recht die rechtsvorm wordt beheerst vergelijkbaar is met de aard en inrichting, waaronder de in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&z=2025-12-12&g=2025-12-12) opgenomen wezenlijke kenmerken, van een Nederlandse rechtsvorm als bedoeld in [artikel 1, tweede lid, onderdeel b, onder 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=I&artikel=1&z=2025-12-12&g=2025-12-12), is vergelijkbaar met die Nederlandse rechtsvorm.
 
 2. Een buitenlandse rechtsvorm is een niet-vergelijkbare rechtsvorm indien die buitenlandse rechtsvorm op grond van het eerste lid:
 
@@ -98,7 +98,7 @@ Hebben goedgevonden en verstaan:
 
 3. Een buitenlandse rechtsvorm als genoemd in de rechtsvormenlijst wordt vermoed in overeenstemming met die lijst vergelijkbaar of niet vergelijkbaar te zijn met een Nederlandse rechtsvorm, tenzij het relevante recht van de staat door wiens recht die buitenlandse rechtsvorm wordt beheerst wezenlijk is veranderd na afloop van het in de rechtsvormenlijst genoemde kwalificatiejaar.
 
-4. Niettegenstaande het bepaalde in het eerste tot en met derde lid wordt als vergelijkbaar met een Nederlandse rechtsvorm als bedoeld in [artikel 1, tweede lid, onderdeel b, onder 10° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), aangemerkt de buitenlandse rechtsvorm van een lichaam dat voldoet aan de voorwaarden van [artikel 2, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), onderscheidenlijk [artikel 2.14bis, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis).
+4. Niettegenstaande het bepaalde in het eerste tot en met derde lid wordt als vergelijkbaar met een Nederlandse rechtsvorm als bedoeld in [artikel 1, tweede lid, onderdeel b, onder 10° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=I&artikel=1&z=2025-12-12&g=2025-12-12), aangemerkt de buitenlandse rechtsvorm van een lichaam dat voldoet aan de voorwaarden van [artikel 2, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), onderscheidenlijk [artikel 2.14bis, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis).
 
 ### Afdeling 2. Wezenlijke kenmerken van de Nederlandse niet-transparante rechtsvormen en van de Nederlandse personenvennootschappen
 
@@ -172,7 +172,7 @@ De naamloze vennootschap en de besloten vennootschap bezitten de volgende wezenl
 
 ##### Artikel 6. Vereniging
 
-De vereniging, niet zijnde een vereniging als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=4&z=2025-01-01&g=2025-01-01), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=5&z=2025-01-01&g=2025-01-01), bezit de volgende wezenlijke kenmerken:
+De vereniging, niet zijnde een vereniging als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=4&z=2025-12-12&g=2025-12-12), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=5&z=2025-12-12&g=2025-12-12), bezit de volgende wezenlijke kenmerken:
 
 - a. het is niet mogelijk om deel te nemen in het vermogen van de vereniging;
 
@@ -280,15 +280,17 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 
 | naar het recht van | in kwalificatiejaar | met de naam | afgekort | is vergelijkbaar met de Nederlandse: | is niet vergelijkbaar met een Nederlandse rechtsvorm |
 | --- | --- | --- | --- | --- | --- |
+| Albanië | 2023 | Shoqëri me përgjegjësi të kufizuar | ShPK | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Argentinië | 2023 | Sociedad de Responsabilidad Limitada | SRL | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Australië | 2023 | Partnership |   | Maatschap of vennootschap onder firma |   |
 |   | 2023 | Proprietary Company Limited by Shares | Pty.Ltd. | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Azerbeidzjan | 2023 | Mahdud Masuliyyatli Camiyyat | MMC | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
-| België | 2023 | Naamloze Vennootschap / Sociëté Anonyme | NV/SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
-|   | 2023 | Besloten Vennootschap / Société à Responsabilité Limitée | BV/SRL | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+| België | 2023 | Besloten Vennootschap / Société à Responsabilité Limitée | BV/SRL | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+|   | 2025 | Commanditaire Vennootschap | CommV | Commanditaire vennootschap |   |
 |   | 2023 | Coöperatieve Vennootschap / Société Coopérative | CV/SC |   | X |
+|   | 2023 | Maatschap / Société Simple | MS/SS | Maatschap of vennootschap onder firma |   |
+|   | 2023 | Naamloze Vennootschap / Sociëté Anonyme | NV/SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Vennootschap onder Firma / Société en Nom Collectif | VOF/SNC | Maatschap of vennootschap onder firma |   |
-|   | 2023 | Maatschap / Société Simple | MS / SS | Maatschap of vennootschap onder firma |   |
 | Belize | 2023 | Society Anonyme/Sociedad Anonima | SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Bermuda | 2023 | Limited Partnership | LP | Commanditaire vennootschap |   |
 | Bosnië Herzegovina | 2023 | Društvo s ograničenom odgovornošću | DOO | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
@@ -312,7 +314,8 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 | China, Hong Kong | 2023 | Company limited by Shares | Ltd. by shares | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Unlimited Partnership | UP | Maatschap of vennootschap onder firma |   |
 | Costa Rica | 2023 | Sociedad Anonima | SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
-| Curaçao | 2023 | Commanditaire Vennootschap | CV | Commanditaire vennootschap |   |
+| Curaçao | 2025 | Besloten vennootschap | BV | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+|   | 2023 | Commanditaire Vennootschap | CV | Commanditaire vennootschap |   |
 |   | 2023 | Cooperatie (U.A.) |   | Coöperatie en vereniging op coöperatieve grondslag |   |
 |   | 2023 | Stichting Particulier Fonds (SPF) |   | – | X |
 | Cyprus | 2023 | Idiotikí Etaireía Periorisménis Efthýnis me Metochés | IEPEM | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
@@ -407,6 +410,7 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 |   | 2023 | Atvērta Akciju Sabiedrība | AAS | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Sabiedribas ar Ierobezotu Atbildibu | SIA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Liberia | 2023 | Limited Liability Company | LLC | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+| Liechtenstein | 2025 | Aktiengesellschaft | AG | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Litouwen | 2023 | Akcinė Bendrovė | AB | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Uždaroji Akcinė Bendrovė | UAB | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Luxemburg | 2023 | Société Anonyme | SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
@@ -442,6 +446,7 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 |   | 2023 | Mas'uliyati Cheklangan Jamiyat Xorijiy Korxonasi | MCHJ XK | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Oostenrijk | 2023 | Aktien Gesellschaft | AG | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Gesellschaft mit beschränkter Haftung | GmbH | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+|   | 2024 | Kommanditgesellschaft | KG | Commanditaire vennootschap |   |
 |   | 2023 | Offene Gesellschaft | OG | Maatschap of vennootschap onder firma |   |
 |   | 2023 | Privatstiftung | – | – | X |
 | Panama | 2023 | Sociedad Anónima | SA | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
@@ -471,6 +476,7 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 | Servië | 2023 | Akcionarsko Društvo | AD | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Društvo sa Ogranicenom Odgovornoscu | DOO | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Singapore | 2023 | Private Limited | Pte Ltd. | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+|   | 2024 | Variable Capital Company | VCC | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Slovenië | 2023 | Delniska Druzba | DD | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Druzba z Omejeno Odgovornostjo | DOO | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Komanditna Druzba | KD | Commanditaire vennootschap |   |
@@ -516,6 +522,8 @@ Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen
 |   | 2023 | Limited Liability partnership | LLP |   | X |
 |   | 2023 | Unlimited Company having a share capital | ULC |   | X |
 | Verenigd Koninkrijk (Schotland) | 2024 | Private Fund Limited Partnership | PFLP | Commanditaire vennootschap |   |
+| Vietnam | 2025 |   | LLC | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
+|   | 2025 |   | JSC | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Zuid-Afrika | 2023 | Public Company | Ltd | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 |   | 2023 | Private Company (ook: Proprietary Limited Company) | Pty.Ltd. | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
 | Zuid-Korea | 2023 | Chusik Hoesa | CH | Naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid |   |
