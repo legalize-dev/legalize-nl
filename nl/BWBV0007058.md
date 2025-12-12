@@ -4,7 +4,7 @@ identifier: "BWBV0007058"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-12-12"
-last_updated: "2018-07-23"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007058"
 soort: "verdrag"
@@ -94,7 +94,7 @@ Aangezien beide Partijen beschikken over een eigen lijst met referentiegegevens 
 
 ##### Artikel 7
 
-1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=6&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst bedoelde eigen lijsten met referentiegegevens die de Partijen samenstellen met gegevens uit het SIS, worden niet als dusdanig aan elkaar verstrekt.
+1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=6&z=2025-12-12&g=2025-12-12) van deze Uitvoeringsovereenkomst bedoelde eigen lijsten met referentiegegevens die de Partijen samenstellen met gegevens uit het SIS, worden niet als dusdanig aan elkaar verstrekt.
 
 2. In de referentiegegevens die worden verstrekt op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) kunnen gegevens voorkomen die betrekking hebben op personen of voertuigen die het voorwerp uitmaken van een signalering in het SIS, op voorwaarde dat deze gegevens eveneens voorkomen in een databank beheerd door de bevoegde dienst die de referentiegegevens verstrekt.
 
@@ -250,7 +250,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 ##### Artikel 19
 
-1. Indien een hit plaatsvindt op een voertuig dat niet het voorwerp uitmaakt van een internationale signalering als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=17&z=2018-07-23&g=2018-07-23), van deze Uitvoeringsovereenkomst, moet dit aan de bevoegde dienst die de referentiegegevens heeft verstrekt, worden gemeld via de nationale contactpunten als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2018-07-23&g=2018-07-23), van deze Uitvoeringsovereenkomst, behoudens in de gevallen voorzien in het tweede en derde lid van dit artikel.
+1. Indien een hit plaatsvindt op een voertuig dat niet het voorwerp uitmaakt van een internationale signalering als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=17&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst, moet dit aan de bevoegde dienst die de referentiegegevens heeft verstrekt, worden gemeld via de nationale contactpunten als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst, behoudens in de gevallen voorzien in het tweede en derde lid van dit artikel.
 
 2. Indien de referentiegegevens enkel ingezet worden in de grensstreek zoals gedefinieerd in [bijlage 3 bij het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=3), kunnen de hits worden gemeld via een vooraf te bepalen regionaal contactpunt als bedoeld in [artikel 6, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=6) of via een vooraf te bepalen gemeenschappelijk politiecentrum als bedoeld in [artikel 30 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=30).
 
@@ -266,7 +266,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 1. Om te bepalen welke referentiegegevens de bevoegde diensten van de Partijen aan elkaar verstrekken op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), is het leidende principe steeds dat er een opvolgingshandeling wordt gevraagd die kan worden uitgevoerd door de ontvangende bevoegde dienst op basis van diens nationale wetgeving of een internationale signalering.
 
-2. Door middel van het formulier opgenomen in de Bijlage bij deze Uitvoeringsovereenkomst maken de betrokken bevoegde diensten concrete afspraken over de verstrekking van specifieke referentiegegevens, daarbij inbegrepen de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=11&z=2018-07-23&g=2018-07-23) van deze Uitvoeringsovereenkomst bedoelde criteria inzake plaats, tijd en frequentie van de inzet van de referentiegegevens.
+2. Door middel van het formulier opgenomen in de Bijlage bij deze Uitvoeringsovereenkomst maken de betrokken bevoegde diensten concrete afspraken over de verstrekking van specifieke referentiegegevens, daarbij inbegrepen de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=11&z=2025-12-12&g=2025-12-12) van deze Uitvoeringsovereenkomst bedoelde criteria inzake plaats, tijd en frequentie van de inzet van de referentiegegevens.
 
 3. De in het tweede lid van dit artikel bedoelde afspraken worden gemaakt in onderling overleg tussen de betrokken bevoegde diensten, rekening houdend met de capaciteit die bij de bevoegde diensten die de referentiegegevens ontvangen beschikbaar is voor de uitvoering van de gevraagde opvolgingshandelingen en voor de verwerking van de te verwachten hits.
 
@@ -276,7 +276,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 1. De bepalingen in het nationale recht van de Partijen die gelden ter omzetting van [richtlijn (EU) 2016/680](32016L0680) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad zijn van toepassing op de uitwisseling van gegevens als bedoeld in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
 
-2. De bevoegde diensten die referentiegegevens verstrekken, gaan voorafgaand aan de verstrekking na of de verwerking van de betrokken gegevens in overeenstemming is met de van toepassing zijnde nationale wet- en regelgeving. Ze zorgen er tevens voor dat deze referentiegegevens correct zijn op het ogenblik dat ze worden verstrekt aan een bevoegde dienst van een andere Partij. Indien een van de betrokken bevoegde diensten echter vaststelt dat bepaalde gegevens toch niet correct zijn, meldt hij dit onverwijld aan de andere betrokken bevoegde dienst of diensten, via de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2018-07-23&g=2018-07-23), van deze Uitvoeringsovereenkomst bedoelde nationale contactpunten. De bevoegde dienst die de foutieve gegevens had verstrekt, zal vervolgens zo snel mogelijk een gecorrigeerde versie van de referentiegegevens verstrekken aan de ontvangende bevoegde dienst of diensten.
+2. De bevoegde diensten die referentiegegevens verstrekken, gaan voorafgaand aan de verstrekking na of de verwerking van de betrokken gegevens in overeenstemming is met de van toepassing zijnde nationale wet- en regelgeving. Ze zorgen er tevens voor dat deze referentiegegevens correct zijn op het ogenblik dat ze worden verstrekt aan een bevoegde dienst van een andere Partij. Indien een van de betrokken bevoegde diensten echter vaststelt dat bepaalde gegevens toch niet correct zijn, meldt hij dit onverwijld aan de andere betrokken bevoegde dienst of diensten, via de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst bedoelde nationale contactpunten. De bevoegde dienst die de foutieve gegevens had verstrekt, zal vervolgens zo snel mogelijk een gecorrigeerde versie van de referentiegegevens verstrekken aan de ontvangende bevoegde dienst of diensten.
 
 3. De bevoegde diensten van de ontvangende Partij mogen de ontvangen referentiegegevens slechts doorverstrekken aan derden onder de voorwaarden bepaald in [artikel 9 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=9).
 
