@@ -4,7 +4,7 @@ identifier: "BWBR0051948"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2025-06-18"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051948"
 soort: "AMvB"
@@ -74,15 +74,15 @@ Wijzigt het Invoeringsbesluit Invorderingswet 1990.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat:
 
-- a. het in [artikel I, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=I&z=2025-12-12&g=2025-06-18), opgenomen [artikel 12a, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=12a), terugwerkt tot en met 27 november 2024;
+- a. het in [artikel I, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=I&z=2025-12-12&g=2025-12-12), opgenomen [artikel 12a, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=12a), terugwerkt tot en met 27 november 2024;
 
-- b. [artikel I, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=I&z=2025-12-12&g=2025-06-18), terugwerkt tot en met 18 juni 2025;
+- b. [artikel I, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=I&z=2025-12-12&g=2025-12-12), terugwerkt tot en met 18 juni 2025;
 
-- c. [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=II&z=2025-12-12&g=2025-06-18), terugwerkt tot en met 1 januari 2001;
+- c. [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=II&z=2025-12-12&g=2025-12-12), terugwerkt tot en met 1 januari 2001;
 
-- d. [artikel II, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=II&z=2025-12-12&g=2025-06-18), terugwerkt tot en met 1 januari 2023;
+- d. [artikel II, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=II&z=2025-12-12&g=2025-12-12), terugwerkt tot en met 1 januari 2023;
 
-- e. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=VI&z=2025-12-12&g=2025-06-18) terugwerkt tot en met 1 januari 2025.
+- e. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=VI&z=2025-12-12&g=2025-12-12) terugwerkt tot en met 1 januari 2025.
 
 ##### Artikel VIII
 
