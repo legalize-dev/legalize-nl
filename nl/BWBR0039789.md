@@ -4,7 +4,7 @@ identifier: "BWBR0039789"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-26"
-last_updated: "2025-04-02"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039789"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepasselijkheid
 
-- 1. Deze regeling is van toepassing op de militair die is ingezet in het kader van een operatie. Een overzicht van de operaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2025-04-02&g=2025-04-02), onderdeel a, onder 1°, is opgenomen in tabel 3. Een overzicht van de operaties als bedoeld in artikel 1, onderdeel a, onder 2°, is opgenomen in tabel 4.
+- 1. Deze regeling is van toepassing op de militair die is ingezet in het kader van een operatie. Een overzicht van de operaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2025-12-13&g=2025-12-13), onderdeel a, onder 1°, is opgenomen in tabel 3. Een overzicht van de operaties als bedoeld in artikel 1, onderdeel a, onder 2°, is opgenomen in tabel 4.
 
 - 2. Op de militair is niet van toepassing [hoofdstuk 7 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7), met uitzondering van [artikel 54e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54e), voor zover de verkorting van de arbeidsduur wordt toegekend in de vorm van spaaruren. De werk- en rusttijden van de militair worden bepaald aan de hand van hetgeen in het belang van de dienst tijdens de operatie noodzakelijk is.
 
@@ -95,7 +95,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Samenloop
 
-Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2025-04-02&g=2025-04-02), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2025-04-02&g=2025-04-02) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2025-04-02&g=2025-04-02) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
+Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2025-12-13&g=2025-12-13), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2025-12-13&g=2025-12-13) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2025-12-13&g=2025-12-13) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
 
 #### Paragraaf 2. Financiële voorzieningen
 
@@ -127,11 +127,11 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. Op verzoek van de militair kan de Commandant der Strijdkrachten, indien de uitzendduur tenminste vier maanden bedraagt, toestaan dat de militair de recuperatie voor eigen rekening en risico elders doorbrengt. In dat geval bestaat daarvoor geen aanspraak op vergoeding van verblijfskosten. Voor de vaststelling van de duur van de recuperatie wordt per maand inzet 2,5 dag recuperatie opgebouwd.
 
-- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2025-04-02&g=2025-04-02), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
+- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2025-12-13&g=2025-12-13), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
 
 ##### Artikel 8. Recuperatiereis
 
-- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2025-04-02&g=2025-04-02), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
+- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2025-12-13&g=2025-12-13), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
 
 - 2. Voor het maken van de recuperatiereis dient gebruik te worden gemaakt van het door de Koninklijke Luchtmacht ingezette luchttransport. Indien een dergelijk transport ontbreekt dan wel niet beschikbaar is, kan bij uitzondering gebruik worden gemaakt van een commerciële retourvlucht voor rekening van Defensie.
 
@@ -145,9 +145,9 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 2. Vrijstelling van werkzaamheden in het kader van werk- en rusttijden, alsmede verlof verleend door of vanwege het orgaan, is geen verlof als bedoeld in [hoofdstuk 8 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8). Voor zover vorenbedoelde vrije tijd of verlof niet reeds is genoten, vervallen deze bij definitief vertrek uit het operatiegebied.
 
-- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2025-04-02&g=2025-04-02).
+- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2025-12-13&g=2025-12-13).
 
-- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2025-04-02&g=2025-04-02) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
+- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2025-12-13&g=2025-12-13) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
 
 - a. ernstige ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad;
 
@@ -279,7 +279,7 @@ Vervallen
 
 1 Betreft datum inwerkingtreding VVHO
 
-| B. | Overzicht van een andere door de Minister aangemerkte vormen van daadwerkelijke militaire inzet buiten Nederland | Afkorting | Datum aanvang | Datum einde |
+| B. | Overzicht van een andere door de minister aangemerkte vormen van daadwerkelijke militaire inzet buiten Nederland | Afkorting | Datum aanvang | Datum einde |
 | --- | --- | --- | --- | --- |
 | 004 | Operatie Enduring Freedom in gebied van verantwoordelijkheid van USCENTCOM | OEF | 05-11-2001 | 31-12-2021 |
 | 014 | Operatie Active Endeavour (OAE) in het Middellandse Zeegebied | OAE | 22-04-2007 | 14-10-2010 |
@@ -300,7 +300,7 @@ Vervallen
 | 061 | The Partnership for Actions in Western Africa | PAWA | 01-10-2020 |   |
 | 062 | UK Carrier Strike Group ’21 (Operatie FORTIS) | UK CSG21 | 01-04-2021 | 31-12-2022 |
 | 064 | Combined Maritime Forces | CMF | 09-09-2013 |   |
-| 065 | Non-combatant Evacuatie Operatie | NEO | 01-12-2021 |   |
+| 065 | Non-combatant Evacuatie Operatie | NEO | 01-12-2021 | 01-10-2024 |
 | 066 | Air Policing Bulgarije | AP Bulgarije | 01-02-2022 |   |
 | 067 | Chirurgisch Team Djibouti | IDR Djibouti | 01-02-2022 |   |
 | 068 | Binationale Air Missile Defense Task Force Slowakije | BAMDTF SLV | 01-03-2022 |   |
@@ -315,10 +315,12 @@ Vervallen
 | 077 | EUNAVFOR ASPIDES | ASPIDES | 01-04-2024 |   |
 | 078 | Enhanced Air Policing Estland | eAP EST | 01-02-2024 |   |
 | 079 | United Nations Command | UNC | 01-07-2024 |   |
+| 080 | Inzet in het kader van evacuatie of repatriëring |   | 01-10-2024 |   |
+| 081 | Pacific Security Maritime Exchange | PSMX | 01-04-2025 |   |
 
 **Tabel 4: Overzicht humanitaire operaties per**
 
-(ad [artikel 1, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2025-04-02&g=2025-04-02), VVHO)
+(ad [artikel 1, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2025-12-13&g=2025-12-13), VVHO)
 
 |   | Inzet in het kader van de Nederlandse bijdrage aan de humanitaire operatie: | Datum aanvang | Datum einde |
 | --- | --- | --- | --- |
