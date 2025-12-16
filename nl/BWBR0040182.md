@@ -4,7 +4,7 @@ identifier: "BWBR0040182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-16"
-last_updated: "2023-10-11"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040182"
 soort: "ministeriele-regeling"
@@ -64,9 +64,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. **CDI:** Coördinerend directeur inkoop;
 
-- j. **UBR Personeel:** Onderdeel van Uitvoeringsorganisatie Bedrijfsvoering Rijk;
+- j. **O&P Rijk:** Organisatie & Personeel Rijk;
 
-- k. **P-Direkt:** Salaris- en personeelsadministratie dienstverlener binnen het Rijk.
+- k. **P-Direkt:** Salaris- en personeelsadministratie dienstverlener binnen het Rijk;
+
+- l. **RvIHH:** Rijksorganisatie voor Informatiehuishouding.
 
 #### § 2. Organisatie
 
@@ -112,7 +114,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 - i. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de afdeling;
 
-- j. liaison- en afnemerstaken op het gebied van SSC-ICT, FMH, Rijksvastgoedbedrijf, Doc-Direkt, Nationaal Archief en andere leveranciers die vallen binnen de aandachtsgebieden van de afdeling;
+- j. liaison- en afnemerstaken op het gebied van SSC-ICT, FMH, Rijksvastgoedbedrijf, RvIHH, Nationaal Archief en andere leveranciers die vallen binnen de aandachtsgebieden van de afdeling;
 
 - k. het houden van toezicht op de naleving van de geldende wetgeving en rijksbrede en departementale kaders en regelingen op het gebied van de aandachtsgebieden van de afdeling.
 
@@ -146,7 +148,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 - m. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de afdeling;
 
-- n. liaison- en afnemerstaken op het gebied van UBR Personeel, P-direkt, het Leer- en Ontwikkelplein en andere leveranciers die vallen binnen het domein van de afdeling;
+- n. liaison- en afnemerstaken op het gebied van O&P Rijk, P-direkt, het Leer- en Ontwikkelplein en andere leveranciers die vallen binnen het domein van de afdeling;
 
 - o. het houden van toezicht op de naleving van de geldende wetgeving en rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
 
@@ -156,17 +158,13 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 1. Het hoofd van de afdeling Ondersteuning, Beheer en Evenementen is verantwoordelijk voor:
 
-- a. de managementondersteuning van de directie alsmede van de directies CIO-office en Integrale Veiligheid, Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, Communicatie en Dienstverlening, Samenwerkingsverbanden en Uitvoering;
+- a. de managementondersteuning van de directie alsmede van de directies CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid, Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, Bedrijfsvoering Financiën en Control, Communicatie en Dienstverlening, Samenwerkingsverbanden en Uitvoering;
 
 - b. het bieden van ambtelijke ondersteuning aan de Departementale Ondernemingsraad en de Ondernemingsraad Kern;
 
-- c. het beheren van het intranet voor de directie en voor de directie CIO-office en Integrale Veiligheid;
+- c. het verlenen van administratieve ondersteuning aan medewerkers door gecoördineerde inzet van mensen met afstand tot de arbeidsmarkt;
 
-- d. het uitvoeren van het functioneel beheer en het applicatiebeheer van ondersteunende bedrijfsvoeringssystemen van de directie en van de directie CIO-office en Integrale Veiligheid, en het genereren van managementinformatie ten aanzien van het functioneren van deze systemen;
-
-- e. het voeren van de financiële administratie en het financieel beheer voor de directie en voor de directie CIO-office en Integrale Veiligheid;
-
-- f. het ondersteunen van het organiseren van evenementen.
+- d. het uitvoeren van het functioneel beheer en het applicatiebeheer van ondersteunende bedrijfsvoeringssystemen van de directie en van de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid, en het genereren van managementinformatie ten aanzien van het functioneren van deze systemen.
 
 2. Het hoofd van de afdeling Ondersteuning wordt bijgestaan door een onder hem ressorterende teamleider.
 
@@ -178,27 +176,19 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 - b. het kenbaar maken van de kaders op de aandachtsgebieden van de afdeling;
 
-- c. het opzetten, controleren en beoordelen van de werking van de administratieve organisatie en de interne controle van de directie;
+- c. het gevraagd en ongevraagd advies geven over de kwaliteit en de planning van werkprocessen van de directie;
 
-- d. het gevraagd en ongevraagd advies geven over de kwaliteit en de planning van werkprocessen van de directie;
+- d. het opstellen en het monitoren van de uitvoering van het jaarplan van de directie;
 
-- e. het beoordelen van de opzet van het risicomanagement van de directie;
+- e. het coördineren en beschikbaar stellen van managementinformatie voor het ministerie;
 
-- f. het opstellen en het monitoren van de uitvoering van het jaarplan van de directie;
+- f. het voeren van het directiesecretariaat voor het managementteam van de directie;
 
-- g. het coördineren en beschikbaar stellen van managementinformatie voor het ministerie;
+- g. het beheren van intranet voor de directie en directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
-- h. het coördineren van privacy- en informatiebeveiligingszaken van de directie en voor de directies Bestuursondersteuning, CIO-office en Integrale Veiligheid, Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden en Communicatie.
+- h. het adviseren van de CDI en het management van het ministerie over het opschorten of bijsturen van grote of risicovolle aanbestedingen;
 
-- i. het uitvoeren van Informatiemanagement taken voor de directie en voor de directies Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, CIO-office en Integrale Veiligheid en Communicatie;
-
-- j. het voeren van het directiesecretariaat voor het managementteam van de directie
-
-- k. het ontwikkelen van een communicatiestrategie voor de directie en het ondersteunen van de afdelingen en van de directie CIO-office en Integrale Veiligheid in hun communicatieactiviteiten;
-
-- l. het adviseren van de CDI en het management van het ministerie over het opschorten of bijsturen van grote of risicovolle aanbestedingen;
-
-- m. het uitvoeren van de taken van de CDI, inhoudende:
+- i. het uitvoeren van de taken van de CDI, inhoudende:
 
 - 1°. het zorgdragen voor kaders en handreikingen voor het ministerie ten behoeve van de taken, bevoegdheden en verantwoordelijkheden en verduidelijking daarvan op het terrein van inkoop;
 
@@ -238,7 +228,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 - 19°. het adviseren bij de selectie en benoeming van de Chief Procurement Officer Rijk;
 
-- n. het houden van toezicht op de naleving van geldende wetgeving en de rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
+- j. het houden van toezicht op de naleving van geldende wetgeving en de rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
 
 #### § 4. Bevoegdheden
 
@@ -246,7 +236,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende medewerkers.
 
-2. Aan de teamleiders en rijkstraineecoördinator SZW, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2023-10-11&g=2023-10-11), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2023-10-11&g=2023-10-11) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+2. Aan de teamleiders en rijkstraineecoördinator SZW, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2025-12-16&g=2025-12-16), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2025-12-16&g=2025-12-16) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -264,13 +254,21 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 ##### Artikel 10
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
+1. Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
+
+2. Aan de teamleiders van de afdelingen wordt mandaat en machtiging verleend met betrekking tot een waarde van € 5.000,- inclusief BTW tot het aangaan van de volgende overeenkomsten:
+
+- a. overeenkomsten met betrekking tot het organiseren en accorderen van activiteiten binnen de eigen organisatorische eenheid;
+
+- b. overeenkomsten met betrekking tot het accorderen van door de eigen organisatorische eenheid ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde bestedingsplan van de directie;
+
+- c. overeenkomsten met betrekking tot de personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
 ##### Artikel 11
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.
 
-2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2023-10-11&g=2023-10-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2023-10-11&g=2023-10-11) uit te oefenen.
+2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2025-12-16&g=2025-12-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2025-12-16&g=2025-12-16) uit te oefenen.
 
 3. Overige doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
