@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-12-11"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -186,7 +186,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 | [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
 | [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, eerste lid en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | a. Het behouden en aantrekken van jonge landbouwers om te kiezen voor het agrarisch ondernemerschap. | 24-03-2025 t/m 26-05-2025 | € 490.000 |
 |   | [5.6.2, eerste lid en zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | b. Het minder toepassen van het verwijderen van een deel van de staart bij biggen in de varkenshouderij | 19-02-2025 t/m 02-04-2025 | € 1.780.990,39 |
-|   | [5.6.2, eerste lid en zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | d. andere innovaties die bijdragen aan de NSP-doelstellingen | 03-06 2025 t/m 15-07-2025 | € 6.288.778,43 |
+|   | [5.6.2, eerste lid en zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | d. andere innovaties die bijdragen aan de NSP-doelstellingen | 03-06 2025 t/m 15-07-2025 | € 11.337.579,17 |
 |   | [5.6.2, eerste lid en zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | e. Het op orde brengen van digitale randvoorwaarden om digitale innovaties in de agrarische bedrijfsvoering en landbouwrobots te kunnen ontwikkelen of implementeren, om bij te dragen aan het versterken en versnellen van de groene transitie en het reduceren van arbeidsmarkttekorten door middel van een grotere inzet van digitalisering en landbouwrobots voor een toekomstbestendig landbouw- en voedselsysteem en een robuuste natuur. | 11-11-2025 t/m 7-1-2026 | € 10.470.000 |
 | [Titel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.7): Stimuleren van kennisoverdracht via de Subsidiemodule Agrarische Bedrijfsadvisering en Educatie (SABE) | [5.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.7.2) |   | Projectsubsidies | 01-07-2025 t/m 12-08-2025 | € 2.250.000 |
 |   | [5.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.7.3) |   | Verstrekking adviesvoucher aan een landbouwer | 07-10-2025 t/m 18 -11-2025 | € 5.700.000 |
