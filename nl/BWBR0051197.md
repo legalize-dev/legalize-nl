@@ -4,7 +4,7 @@ identifier: "BWBR0051197"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-17"
-last_updated: "2025-07-08"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051197"
 soort: "ministeriele-regeling"
@@ -70,11 +70,7 @@ Deze aanwijzing is van toepassing op activiteiten verricht in het kader van de o
 
 ##### Artikel 3. Verstrekken beschikbaarheidbijdrage
 
-In afwijking van de [aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032024) (Stcrt. 2012, 20041):
-
-- 1. verleent de zorgautoriteit jaarlijks beschikbaarheidbijdragen op basis van de toewijzingsvoorstellen van TOP Opleidingsplaatsen en Stichting BOLS voor het desbetreffende subsidiejaar voor activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051197&artikel=2&z=2025-07-08&g=2025-07-08) door daartoe opleidende zorgaanbieders.
-
-- 2. stelt de zorgautoriteit jaarlijks beschikbaarheidbijdragen vast op basis van het overzicht van het aantal instromende fulltime-equivalenten of opleidingsplaatsen per opleidende zorgaanbieder onderverdeeld naar specialisatie zoals zal worden opgenomen in [onderdeel D van de Bijlage](onbekend) voor het desbetreffende subsidiejaar voor activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051197&artikel=2&z=2025-07-08&g=2025-07-08) door daartoe opleidende zorgaanbieders.
+Vervallen
 
 ##### Artikel 4. Berekenen beschikbaarheidbijdrage
 
