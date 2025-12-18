@@ -4,7 +4,7 @@ identifier: "BWBR0051974"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-18"
-last_updated: "2025-05-28"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051974"
 soort: "zbo"
@@ -184,7 +184,7 @@ Het Handboek vervanging geeft in ieder geval inzicht in de aspecten van het verv
 
 ##### Artikel 9. Vernietiging
 
-1. Vernietiging van archiefbescheiden vindt enkel plaats op grond van een geldige selectielijst of na vervanging van archiefbescheiden door reproducties als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051974&hoofdstuk=4&artikel=8&z=2025-12-18&g=2025-05-28) van deze regeling.
+1. Vernietiging van archiefbescheiden vindt enkel plaats op grond van een geldige selectielijst of na vervanging van archiefbescheiden door reproducties als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051974&hoofdstuk=4&artikel=8&z=2025-12-18&g=2025-12-18) van deze regeling.
 
 2. De proceseigenaar moet schriftelijk akkoord gaan met de voorgenomen vernietiging van archiefbescheiden die onder zijn verantwoordelijkheid vallen.
 
