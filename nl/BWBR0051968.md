@@ -4,7 +4,7 @@ identifier: "BWBR0051968"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2025-05-01"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051968"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **NGF:** Nationaal Groeifonds
 
-- **programmaraad:** programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-05-01)
+- **programmaraad:** programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-12-18)
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 4. De deelnemende organisaties worden door de minister benoemd en, in voorkomend geval, door de minister geschorst of tussentijds ontslagen.
 
-5. De benoeming geschiedt voor de duur dat de programmaraad is ingesteld, overeenkomstig [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-05-01).
+5. De benoeming geschiedt voor de duur dat de programmaraad is ingesteld, overeenkomstig [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-12-18).
 
 6. De programmaraad kiest uit haar midden de voorzitter.
 
