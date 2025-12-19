@@ -4,7 +4,7 @@ identifier: "BWBR0051991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-26"
-last_updated: "2025-08-01"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051991"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De organisatie van het Ministerie van Klimaat en Groene Groei wordt vastgesteld overeenkomstig de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=1&z=2025-12-19&g=2025-08-01).
+De organisatie van het Ministerie van Klimaat en Groene Groei wordt vastgesteld overeenkomstig de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=1&z=2025-12-19&g=2025-12-19).
 
 ##### Artikel 3
 
@@ -178,7 +178,7 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 ##### Artikel 5
 
-1. Aan de hoofden van dienst wordt, voor zover van toepassing, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2025-12-19&g=2025-08-01) van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of aan een ander hoofd van dienst.
+1. Aan de hoofden van dienst wordt, voor zover van toepassing, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2025-12-19&g=2025-12-19) van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of aan een ander hoofd van dienst.
 
 2. Aan de hoofden van dienst wordt voorts, ieder voor zijn werkterrein, mandaat en machtiging verleend voor aangelegenheden inzake de benoeming, ontslag en vergoeding van leden van adviescommissies ter zake van subsidieverlening.
 
@@ -278,19 +278,19 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 1. De secretaris-generaal kan aan een hoofd van dienst binnen diens werkterrein ondermandaat en machtiging verlenen voor benoeming, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen, commissies en colleges.
 
-2. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerst lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2025-12-19&g=2025-08-01). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
+2. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerst lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2025-12-19&g=2025-12-19). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
 
 3. De secretaris-generaal kan voor wat betreft de bevoegdheden verband houdend met de rol van CIO ondermandaat, volmacht en machtiging verlenen aan de uitvoerend CIO.
 
 ##### Artikel 11
 
-De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=5&z=2025-12-19&g=2025-08-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=6&z=2025-12-19&g=2025-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=7&z=2025-12-19&g=2025-08-01), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=5&z=2025-12-19&g=2025-12-19), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=6&z=2025-12-19&g=2025-12-19) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=7&z=2025-12-19&g=2025-12-19), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 ##### Artikel 12
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2025-12-19&g=2025-08-01) wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2025-12-19&g=2025-12-19) wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -856,7 +856,7 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de hoof
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
-2. Na de inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2025-12-19&g=2025-08-01) van dit besluit:
+2. Na de inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2025-12-19&g=2025-12-19) van dit besluit:
 
 - –. het [Besluit verlening ondermandaat, volmacht en machtiging voor secretariaat Wetenschappelijke Klimaatraad](https://wetten.overheid.nl/jci1.3:c:BWBR0048630), en
 
@@ -872,7 +872,7 @@ Het Ministerie van Klimaat en Groene Groei bestaat uit de secretaris-generaal en
 
 Hoewel de werkorganisatie beheersmatig is opgehangen binnen het Ministerie van Economische Zaken is de secretaris-generaal van het Ministerie van Klimaat en Groene Groei verantwoordelijk voor de sturing op de directeuren-generaal van het Ministerie van Klimaat en Groene Groei en op de stafdirecties WJZ, FEZ, DC, BPZ, IV en M&O waar het aangelegenheden betreft onder de politieke verantwoordelijkheid van de Minister van Klimaat en Groene Groei.
 
-De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2025-12-19&g=2025-08-01) van dit besluit. Onder de secretaris-generaal ressorteert de directeur Financieel-Economische Zaken. De directeur Financieel-Economische Zaken heeft tot taak de aangelegenheden genoemd in [paragraaf III van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2025-12-19&g=2025-08-01) bij dit besluit.
+De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2025-12-19&g=2025-12-19) van dit besluit. Onder de secretaris-generaal ressorteert de directeur Financieel-Economische Zaken. De directeur Financieel-Economische Zaken heeft tot taak de aangelegenheden genoemd in [paragraaf III van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2025-12-19&g=2025-12-19) bij dit besluit.
 
 ## Bijlage 2
 
