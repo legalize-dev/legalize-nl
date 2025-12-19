@@ -4,7 +4,7 @@ identifier: "BWBR0048808"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-19"
-last_updated: "2025-11-01"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048808"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUIT:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Expertgroep:** Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-05-13&g=2025-11-01);
+- a. **Expertgroep:** Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-12-19&g=2025-12-19);
 
 - b. **Groenstaalplan:** de complete set aan plannen van het bedrijf Tata Steel om schoon en duurzaam staal te gaan produceren;
 
@@ -154,11 +154,31 @@ In dit besluit wordt verstaan onder:
 
 - i. Mevrouw prof. dr. E.G. Smit, te Hilversum.
 
-2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-05-13&g=2025-11-01), wordt als lid van de expertgroep benoemd:
+2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-12-19&g=2025-12-19), wordt als lid van de expertgroep benoemd:
 
 - a. voor de periode 1 november 2023 – 2 maart 2025 mevrouw prof. dr. K. Stronks, te Abcoude;
 
 - b. voor de periode 3 maart 2025 – 1 november 2025 de heer prof. dr. J.O. Mierau, te Groningen.
+
+3. Vanaf 1 november 2025 worden, op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=4&z=2025-12-19&g=2025-12-19), voor een periode van een jaar tot lid van de expertgroep benoemd:
+
+- a. De heer prof. dr. M. Levi te Amsterdam, tevens voorzitter;
+
+- b. De heer prof. dr. ir. H. E. A. van den Akker, te Culemborg;
+
+- c. De heer prof. dr. J. de Boer, te Velsen-Zuid;
+
+- d. De heer dr. ir. G. Hoek, te Utrecht;
+
+- e. Mevrouw dr. I.M. de Kleer, te Rotterdam;
+
+- f. Mevrouw mr. drs. N.U.N. Kien, te Rotterdam;
+
+- g. Mevrouw dr. I.A. Kreis, te London, VK;
+
+- h. Mevrouw prof. dr. E.G. Smit, te Hilversum;
+
+- i. De heer prof. dr. J.O. Mierau, te Groningen.
 
 ##### Artikel 9. (Kosten van de expertgroep)
 
