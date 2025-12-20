@@ -4,7 +4,7 @@ identifier: "BWBR0052001"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2025-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052001"
 soort: "AMvB"
@@ -68,6 +68,6 @@ Wijzigt het Besluit consumentenprijsindex voor kinderbijslagbedragen.
 
 ##### Artikel VI. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=I&z=2025-12-20&g=2025-07-01), van toepassing is met ingang van 1 januari 2026 en artikel I, onderdeel I terugwerkt tot en met 1 juli 2025 en met uitzondering van de tweede wijziging van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=III&z=2025-12-20&g=2025-07-01), die in werking treedt op het moment dat de Wet van 4 december 2025 tot wijziging van de Pensioenwet, de Wet op de loonbelasting 1964 en enige andere wetten in verband met de verlenging van de transitieperiode naar het nieuwe pensioenstelsel in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=I&z=2025-12-20&g=2025-12-20), van toepassing is met ingang van 1 januari 2026 en artikel I, onderdeel I terugwerkt tot en met 1 juli 2025 en met uitzondering van de tweede wijziging van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=III&z=2025-12-20&g=2025-12-20), die in werking treedt op het moment dat de Wet van 4 december 2025 tot wijziging van de Pensioenwet, de Wet op de loonbelasting 1964 en enige andere wetten in verband met de verlenging van de transitieperiode naar het nieuwe pensioenstelsel in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
