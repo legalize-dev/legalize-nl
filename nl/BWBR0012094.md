@@ -4,7 +4,7 @@ identifier: "BWBR0012094"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-09-30"
+last_updated: "2025-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012094"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. oude werkgever: de voor een fusie bestaande werkgever bij wie de werknemers in dienst waren voor wie vrijstelling was verleend;
 
-- g. verplichte vrijstelling: een vrijstelling welke is verleend op een van de gronden, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30).
+- g. verplichte vrijstelling: een vrijstelling welke is verleend op een van de gronden, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20).
 
 ##### Artikel 2. Vrijstelling in verband met bestaande pensioenregeling of -voorziening
 
@@ -104,7 +104,7 @@ Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle w
 
 ##### Artikel 6. Vrijstelling om andere redenen
 
-Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever ook om andere redenen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-09-30&g=2025-09-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-09-30&g=2025-09-30), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4a&z=2025-09-30&g=2025-09-30) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), vrijstelling worden verleend.
+Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever ook om andere redenen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-12-20&g=2025-12-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-12-20&g=2025-12-20), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4a&z=2025-12-20&g=2025-12-20) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), vrijstelling worden verleend.
 
 ##### Artikel 7. Voorschriften bij het verlenen van vrijstelling
 
@@ -114,15 +114,15 @@ Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle wer
 
 3. Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever een andere pensioenvoorziening heeft en deze heeft ondergebracht als bedoeld in [artikel 23, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=23) dan wel dat de werkgever binnen 12 maanden na het moment waarop de vrijstelling wordt verleend een andere pensioenvoorziening zal treffen en deze zal onderbrengen als bedoeld in artikel 23, eerste lid, van de Pensioenwet.
 
-4. Aan de vrijstelling, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-09-30&g=2025-09-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-09-30&g=2025-09-30), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30) kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens de op grond van het negende lid gestelde regels, tenzij partijen anders overeenkomen.
+4. Aan de vrijstelling, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-12-20&g=2025-12-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-12-20&g=2025-12-20), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20) kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens de op grond van het negende lid gestelde regels, tenzij partijen anders overeenkomen.
 
-5. Aan de vrijstelling, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30) wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van de op grond van het negende lid gestelde regels te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds. Indien het bedrijfstakpensioenfonds en de werkgever daarmee instemmen en de pensioenregeling van de werkgever dezelfde soorten pensioen kent als de pensioenregeling van het bedrijfstakpensioenfonds, kan worden afgezien van de berekening van de actuariële gelijkwaardigheid, bedoeld in de vorige zin. Ten behoeve van de toets op gelijkwaardigheid verstrekt het bedrijfstakpensioenfonds de werkgever informatie over de pensioenregeling van het bedrijfstakpensioenfonds.
+5. Aan de vrijstelling, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20) wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van de op grond van het negende lid gestelde regels te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds. Indien het bedrijfstakpensioenfonds en de werkgever daarmee instemmen en de pensioenregeling van de werkgever dezelfde soorten pensioen kent als de pensioenregeling van het bedrijfstakpensioenfonds, kan worden afgezien van de berekening van de actuariële gelijkwaardigheid, bedoeld in de vorige zin. Ten behoeve van de toets op gelijkwaardigheid verstrekt het bedrijfstakpensioenfonds de werkgever informatie over de pensioenregeling van het bedrijfstakpensioenfonds.
 
-6. Aan de vrijstelling, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste gelijkwaardige aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.
+6. Aan de vrijstelling, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste gelijkwaardige aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.
 
 7. De vrijstelling, bedoeld in het vierde, vijfde en zesde lid, wordt verleend nadat de werkgever een financiële bijdrage als bedoeld in het vierde lid heeft betaald, dan wel nadat de werkgever heeft aangetoond aan de voorschriften, bedoeld in het vijfde en zesde lid, te voldoen.
 
-8. Aan de vrijstelling voor het nettopensioen, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4a&z=2025-09-30&g=2025-09-30), wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever te allen tijde ten minste:
+8. Aan de vrijstelling voor het nettopensioen, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4a&z=2025-12-20&g=2025-12-20), wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever te allen tijde ten minste:
 
 - a. een even hoog maximaal in te leggen premie bevat als de maximaal in te leggen premie in de pensioenregeling van het bedrijfstakpensioenfonds;
 
@@ -134,11 +134,11 @@ Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle wer
 
 ##### Artikel 8. Intrekking van de vrijstelling
 
-1. Een vrijstelling kan door het bedrijfstakpensioenfonds worden ingetrokken, indien niet meer wordt voldaan aan de voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-09-30&g=2025-09-30) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-09-30&g=2025-09-30), indien niet meer wordt voldaan aan de reden tot vrijstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), of indien wordt gehandeld in strijd met een of meer aan de vrijstelling verbonden voorschriften.
+1. Een vrijstelling kan door het bedrijfstakpensioenfonds worden ingetrokken, indien niet meer wordt voldaan aan de voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2025-12-20&g=2025-12-20) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2025-12-20&g=2025-12-20), indien niet meer wordt voldaan aan de reden tot vrijstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), of indien wordt gehandeld in strijd met een of meer aan de vrijstelling verbonden voorschriften.
 
-2. De vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), wordt uitsluitend op verzoek van de werkgever voor wiens werknemers vrijstelling is verleend ingetrokken.
+2. De vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), wordt uitsluitend op verzoek van de werkgever voor wiens werknemers vrijstelling is verleend ingetrokken.
 
-3. In afwijking van het tweede lid kan de vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), door het bedrijfstakpensioenfonds worden ingetrokken indien wordt gehandeld in strijd met de voorschriften die aan de vrijstelling verbonden zijn.
+3. In afwijking van het tweede lid kan de vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), door het bedrijfstakpensioenfonds worden ingetrokken indien wordt gehandeld in strijd met de voorschriften die aan de vrijstelling verbonden zijn.
 
 ##### Artikel 9. Overgangsbepalingen
 
@@ -146,9 +146,9 @@ Vervallen
 
 ##### Artikel 10. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2001 met dien verstande dat [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), met ingang van 1 januari 2002 in werking treedt.
+1. Dit besluit treedt in werking met ingang van 1 januari 2001 met dien verstande dat [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), met ingang van 1 januari 2002 in werking treedt.
 
-2. De [artikelen 1, onderdeel d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=1&z=2025-09-30&g=2025-09-30), en [7a tot en met 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7a&z=2025-09-30&g=2025-09-30) treden in werking met ingang van de datum van het besluit van 22 juli 2004 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met het opstellen van regels hoe na een fusie, splitsing of doorstart van een onderneming moet worden omgegaan met verleende vrijstellingen van de verplichte deelname aan een bedrijfstakpensioenfonds alsmede enkele andere wijzigingen (Stb. 2004, 397).
+2. De [artikelen 1, onderdeel d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=1&z=2025-12-20&g=2025-12-20), en [7a tot en met 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7a&z=2025-12-20&g=2025-12-20) treden in werking met ingang van de datum van het besluit van 22 juli 2004 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met het opstellen van regels hoe na een fusie, splitsing of doorstart van een onderneming moet worden omgegaan met verleende vrijstellingen van de verplichte deelname aan een bedrijfstakpensioenfonds alsmede enkele andere wijzigingen (Stb. 2004, 397).
 
 ##### Artikel 11. Citeertitel
 
@@ -280,9 +280,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a. Fusie werkgevers met vrijstellingen van zelfde bedrijfstakpensioenfonds
 
-1. Na een fusie tussen oude werkgevers aan wie voor hun werknemers door eenzelfde bedrijfstakpensioenfonds een verplichte vrijstelling is verleend, gaan de verleende vrijstellingen over op de nieuwe werkgever en blijven deze in stand zolang voldaan wordt aan de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30). De nieuwe werkgever deelt het bedrijfstakpensioenfonds mee dat de voor de fusie bestaande pensioenregelingen worden voortgezet en welke pensioenregeling van toepassing zal zijn op na de fusie in dienst tredende werknemers.
+1. Na een fusie tussen oude werkgevers aan wie voor hun werknemers door eenzelfde bedrijfstakpensioenfonds een verplichte vrijstelling is verleend, gaan de verleende vrijstellingen over op de nieuwe werkgever en blijven deze in stand zolang voldaan wordt aan de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20). De nieuwe werkgever deelt het bedrijfstakpensioenfonds mee dat de voor de fusie bestaande pensioenregelingen worden voortgezet en welke pensioenregeling van toepassing zal zijn op na de fusie in dienst tredende werknemers.
 
-2. In afwijking van het eerste lid wordt op verzoek van de nieuwe werkgever in de situatie dat voor alle werknemers van de nieuwe werkgever dezelfde bestaande pensioenregeling gaat gelden, de daarvoor verleende vrijstelling, met de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), van toepassing op alle huidige en toekomstige werknemers van die nieuwe werkgever.
+2. In afwijking van het eerste lid wordt op verzoek van de nieuwe werkgever in de situatie dat voor alle werknemers van de nieuwe werkgever dezelfde bestaande pensioenregeling gaat gelden, de daarvoor verleende vrijstelling, met de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), van toepassing op alle huidige en toekomstige werknemers van die nieuwe werkgever.
 
 ##### Artikel 7b. Fusie werkgevers met en zonder vrijstellingen van zelfde bedrijfstakpensioenfonds
 
@@ -296,7 +296,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien de nieuwe werkgever een verzoek doet tot uitbreiding van de vrijstelling, bedoeld in het tweede lid, onderdeel a, kan het bedrijfstakpensioenfonds daaraan de voorwaarde verbinden dat de nieuwe werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het bedrijfstakpensioenfonds hierdoor lijdt. De hoogte van deze bijdrage wordt berekend volgens de op grond van het vijfde lid gestelde regels, tenzij partijen anders overeenkomen.
 
-4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het tweede lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
+4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het tweede lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
 
 5. Bij ministeriële regeling worden regels gesteld voor de berekening van het verzekeringstechnisch nadeel, bedoeld in het derde lid.
 
@@ -308,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Op verzoek van een nieuwe werkgever die is ontstaan na een fusie tussen oude werkgevers op wie verschillende verplichtstellingen van toepassing waren en op wie na de fusie verschillende verplichtstellingen van toepassing blijven, wordt een aan één of meer oude werkgevers verleende vrijstelling gehandhaafd voor alle werknemers van die oude werkgever en voor de toekomstige werknemers van de nieuwe werkgever die onder dezelfde verplichtstelling vallen.
 
-4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het eerste, tweede en derde lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
+4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het eerste, tweede en derde lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
 
 ##### Artikel 7d. Vrijstelling na splitsing
 
@@ -322,11 +322,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. nieuwe werkgever: de na een zuivere splitsing of afsplitsing ontstane werkgever.
 
-2. In geval van zuivere splitsing blijft op verzoek van de nieuwe werkgevers een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), in stand, indien op de nieuwe werkgevers dezelfde verplichtstelling van toepassing blijft. De nieuwe werkgevers delen het bedrijfstakpensioenfonds mee welke werknemers bij hen in dienst zijn.
+2. In geval van zuivere splitsing blijft op verzoek van de nieuwe werkgevers een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), in stand, indien op de nieuwe werkgevers dezelfde verplichtstelling van toepassing blijft. De nieuwe werkgevers delen het bedrijfstakpensioenfonds mee welke werknemers bij hen in dienst zijn.
 
 3. De vrijstelling wordt vanaf het tijdstip van de splitsing geacht te zijn verleend aan de nieuwe werkgevers en geldt voor de huidige en toekomstige werknemers.
 
-4. In geval van een afsplitsing blijft een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), in stand, indien de voor de afsplitsing bestaande pensioenregeling wordt voortgezet. De oude werkgever deelt dit mede aan het bedrijfstakpensioenfonds.
+4. In geval van een afsplitsing blijft een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), in stand, indien de voor de afsplitsing bestaande pensioenregeling wordt voortgezet. De oude werkgever deelt dit mede aan het bedrijfstakpensioenfonds.
 
 5. In geval van een afsplitsing wordt op verzoek van een nieuwe werkgever, die onder dezelfde verplichtstelling valt als de oude werkgever, aan de nieuwe werkgever een vrijstelling verleend voor zijn huidige en toekomstige werknemers onder dezelfde voorwaarden als welke zijn verbonden aan de aan de oude werkgever verleende vrijstelling. Deze vrijstelling wordt vanaf het moment van afsplitsing geacht te zijn verleend aan de nieuwe werkgever.
 
@@ -338,7 +338,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. ten minste 50% van de werknemers van de gefailleerde werkgever in dienst is gekomen bij die werkgever.
 
-2. Bij de handhaving van de vrijstelling, bedoeld in het eerste lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), van toepassing en wordt de vrijstelling vanaf het tijdstip van doorstart geacht te zijn verleend aan de werkgever die de doorstart maakt voor zijn huidige en toekomstige werknemers.
+2. Bij de handhaving van de vrijstelling, bedoeld in het eerste lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), van toepassing en wordt de vrijstelling vanaf het tijdstip van doorstart geacht te zijn verleend aan de werkgever die de doorstart maakt voor zijn huidige en toekomstige werknemers.
 
 ## Bijlage 1. Performance toets
 
@@ -550,7 +550,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Termijnen
 
-1. Een bedrijfstakpensioenfonds hanteert bij de behandeling van de verzoeken tot vrijstelling, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), de volgende termijnen:
+1. Een bedrijfstakpensioenfonds hanteert bij de behandeling van de verzoeken tot vrijstelling, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), de volgende termijnen:
 
 - a. na ontvangst van het verzoek wordt binnen twee weken beoordeeld of het verzoek in behandeling kan worden genomen;
 
@@ -560,19 +560,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De termijn, bedoeld in het eerste lid, onderdeel b, wordt verlengd:
 
-- a. met 12 weken indien aan de vrijstelling het voorschrift van een gelijkwaardige pensioenregeling wordt verbonden, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30); of
+- a. met 12 weken indien aan de vrijstelling het voorschrift van een gelijkwaardige pensioenregeling wordt verbonden, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20); of
 
-- b. met vier weken indien een financiële bijdrage is vereist ter vergoeding van verzekeringstechnisch nadeel als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30).
+- b. met vier weken indien een financiële bijdrage is vereist ter vergoeding van verzekeringstechnisch nadeel als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20).
 
 3. Nadat de werkgever, in de situatie bedoeld in het tweede lid, onderdeel a, de gegevens heeft overgelegd beslist het bedrijfstakpensioenfonds binnen 6 weken of er sprake is van een gelijkwaardige pensioenregeling. Indien naar het oordeel van het bedrijfstakpensioenfonds de pensioenregeling nog niet geheel gelijkwaardig is, krijgt de werkgever maximaal 12 weken om de gelijkwaardigheid alsnog aan te tonen.
 
 ##### Artikel 5a. Performancetoets na fusie van bedrijfstakpensioenfondsen
 
-Voor de performancetoets, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), van een bedrijfstakpensioenfonds dat is ontstaan door de fusie van twee of meer bedrijfstakpensioenfondsen waarop [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30) niet van toepassing is, wordt, voor de kalenderjaren vóór de fusie, gebruik gemaakt van de gegevens van de gefuseerde bedrijfstakpensioenfondsen waarbij de verhouding tussen deze gegevens gelijk is aan de verhouding tussen de totale vermogens van de gefuseerde bedrijfstakpensioenfondsen ten tijde van de fusie.
+Voor de performancetoets, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), van een bedrijfstakpensioenfonds dat is ontstaan door de fusie van twee of meer bedrijfstakpensioenfondsen waarop [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20) niet van toepassing is, wordt, voor de kalenderjaren vóór de fusie, gebruik gemaakt van de gegevens van de gefuseerde bedrijfstakpensioenfondsen waarbij de verhouding tussen deze gegevens gelijk is aan de verhouding tussen de totale vermogens van de gefuseerde bedrijfstakpensioenfondsen ten tijde van de fusie.
 
 ##### Artikel 9a. Overgangsrecht
 
-[Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=1a&z=2025-09-30&g=2025-09-30) is van toepassing indien het verzoek tot vrijstelling, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), wordt gedaan na inwerkingtreding van artikel I, onderdeel A, van het Besluit van 29 augustus 2007 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met de invoering van termijnen voor de behandeling van een verzoek tot vrijstelling en enige andere wijzigingen.
+[Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=1a&z=2025-12-20&g=2025-12-20) is van toepassing indien het verzoek tot vrijstelling, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), wordt gedaan na inwerkingtreding van artikel I, onderdeel A, van het Besluit van 29 augustus 2007 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met de invoering van termijnen voor de behandeling van een verzoek tot vrijstelling en enige andere wijzigingen.
 
 ## Bijlage 2. Rekenregels verzekeringstechnisch nadeel
 
@@ -624,7 +624,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8b. Recidive
 
-De door de toezichthouder met toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8a&z=2025-09-30&g=2025-09-30) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8a&z=2025-12-20&g=2025-12-20) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 8c. Draagkracht
 
@@ -636,7 +636,7 @@ De door de toezichthouder met toepassing van [artikel 8a](https://wetten.overhei
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete voor pensioenuitvoerders rekening met schade voor derden.
 
-2. De toezichthouder kan de op te leggen bestuurlijke boete, na inachtneming van de bepalingen, bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8a&z=2025-09-30&g=2025-09-30), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8b&z=2025-09-30&g=2025-09-30) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8c&z=2025-09-30&g=2025-09-30) verlagen met maximaal 75 procent.
+2. De toezichthouder kan de op te leggen bestuurlijke boete, na inachtneming van de bepalingen, bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8a&z=2025-12-20&g=2025-12-20), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8b&z=2025-12-20&g=2025-12-20) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8c&z=2025-12-20&g=2025-12-20) verlagen met maximaal 75 procent.
 
 ##### Artikel 8e. Overtredingen
 
@@ -856,15 +856,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9b. Overgangsrecht [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328)
 
-1. In het geval van een vrijstelling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), blijven de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b&z=2025-09-30&g=2025-09-30) en [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2025-09-30&g=2025-09-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=3&z=2025-09-30&g=2025-09-30), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds dan wel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
+1. In het geval van een vrijstelling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), blijven de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b&z=2025-12-20&g=2025-12-20) en [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2025-12-20&g=2025-12-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=3&z=2025-12-20&g=2025-12-20), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds dan wel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
 
-2. In het geval van een vrijstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), blijven de artikelen 5, [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5a&z=2025-09-30&g=2025-09-30) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=1&z=2025-09-30&g=2025-09-30), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
+2. In het geval van een vrijstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), blijven de artikelen 5, [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5a&z=2025-12-20&g=2025-12-20) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=1&z=2025-12-20&g=2025-12-20), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
 
-3. In het geval van een vrijstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30), blijven de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b&z=2025-09-30&g=2025-09-30) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2025-09-30&g=2025-09-30), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds dan wel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
+3. In het geval van een vrijstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20), blijven de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b&z=2025-12-20&g=2025-12-20) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2025-12-20&g=2025-12-20), zoals die luidden op 30 juni 2023, van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds dan wel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i).
 
-4. Indien bij een vrijstelling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), is afgezien van de berekening van de actuariële en financiële gelijkwaardigheid op grond van [artikel 7, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), zoals dat luidde op 30 juni 2023, wordt vanaf het tijdstip dat het bedrijfstakpensioenfonds of de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i), de gelijkwaardigheid aangetoond door aan te tonen dat de pensioenregeling van de werkgever ten minste financieel gelijkwaardig is aan de pensioenregeling van het bedrijfstakpensioenfonds.
+4. Indien bij een vrijstelling als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), is afgezien van de berekening van de actuariële en financiële gelijkwaardigheid op grond van [artikel 7, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), zoals dat luidde op 30 juni 2023, wordt vanaf het tijdstip dat het bedrijfstakpensioenfonds of de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i), de gelijkwaardigheid aangetoond door aan te tonen dat de pensioenregeling van de werkgever ten minste financieel gelijkwaardig is aan de pensioenregeling van het bedrijfstakpensioenfonds.
 
-5. De gelijkwaardigheid kan in afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-09-30&g=2025-09-30), voor de duur van de hierna genoemde periode worden aangetoond door een toets op enkel de financiële gelijkwaardigheid, bedoeld in de krachtens artikel 7, negende lid, vastgestelde ministeriële regeling. Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-09-30&g=2025-09-30) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-09-30&g=2025-09-30), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). In de genoemde periode kan in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8&z=2025-09-30&g=2025-09-30), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
+5. De gelijkwaardigheid wordt in afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2025-12-20&g=2025-12-20), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de financiële gelijkwaardigheid, bedoeld in de krachtens artikel 7, negende lid, vastgestelde ministeriële regeling. Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2025-12-20&g=2025-12-20) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2025-12-20&g=2025-12-20), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). In de genoemde periode kan in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8&z=2025-12-20&g=2025-12-20), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
 
 6. De financiële gelijkwaardigheid, bedoeld in het vierde en vijfde lid, wordt geacht te zijn aangetoond indien de werkgever voor de vrijgestelde werknemers een pensioenregeling heeft die aansluit bij de maximale begrenzingen die zijn opgenomen in de [hoofdstukken IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) en [VIII van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIII).
 
@@ -880,9 +880,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Indien naar het oordeel van Onze Minister inlichtingen nodig zijn voor een onderzoek naar de doeltreffendheid of effecten van dit besluit, verstrekt het bedrijfstakpensioenfonds op verzoek van Onze Minister inlichtingen omtrent:
 
-- a. de beleggingsperformance van het bedrijfstakpensioenfonds, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30);
+- a. de beleggingsperformance van het bedrijfstakpensioenfonds, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20);
 
-- b. de benchmark, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-09-30&g=2025-09-30); en
+- b. de benchmark, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2025-12-20&g=2025-12-20); en
 
 - c. de kosten van vermogensbeheer, bedoeld in [artikel 10a, tweede lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=10a).
 
