@@ -4,7 +4,7 @@ identifier: "BWBR0022744"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-20"
-last_updated: "2017-01-01"
+last_updated: "2025-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022744"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Onder de consumentenprijsindex, bedoeld in [artikel 13, tweede en derde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13) wordt verstaan de consumentenprijsindex alle huishoudens (afgeleide reeks 2015=100), zoals die voor elke kalendermaand wordt berekend en door het Centraal Bureau voor de Statistiek wordt gepubliceerd.
+Onder de consumentenprijsindex, bedoeld in [artikel 13, derde en vierde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13) wordt verstaan de consumentenprijsindex alle huishoudens afgeleid, zoals die voor elke kalendermaand wordt berekend en door het Centraal Bureau voor de Statistiek wordt gepubliceerd.
 
 ##### Artikel 2
 
