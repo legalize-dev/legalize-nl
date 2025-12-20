@@ -4,7 +4,7 @@ identifier: "BWBR0052011"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-20"
-last_updated: "2025-06-30"
+last_updated: "2025-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052011"
 soort: "ministeriele-regeling"
@@ -60,9 +60,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel III
 
-1. Klachten, ingediend op grond van de [Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0039805) zoals vermeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0052011&artikel=II&z=2025-12-20&g=2025-06-30), waarin voor de inwerkingtreding van artikel II nog geen uitspraak is gedaan, worden afgehandeld door de Klachtencommissie Ongewenste Omgangsvormen SZW.
+1. Klachten, ingediend op grond van de [Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0039805) zoals vermeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0052011&artikel=II&z=2025-12-20&g=2025-12-20), waarin voor de inwerkingtreding van artikel II nog geen uitspraak is gedaan, worden afgehandeld door de Klachtencommissie Ongewenste Omgangsvormen SZW.
 
-2. Ten aanzien van klachten als bedoeld in het eerste lid blijft de [Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0039805) (Stcrt, 2017, nr. 40638) zoals deze luidde voor de inwerkingtreding van [artikel II, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052011&artikel=II&z=2025-12-20&g=2025-06-30), van kracht.
+2. Ten aanzien van klachten als bedoeld in het eerste lid blijft de [Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0039805) (Stcrt, 2017, nr. 40638) zoals deze luidde voor de inwerkingtreding van [artikel II, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052011&artikel=II&z=2025-12-20&g=2025-12-20), van kracht.
 
 ##### Artikel IV
 
