@@ -4,7 +4,7 @@ identifier: "BWBR0036478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-21"
-last_updated: "2025-02-14"
+last_updated: "2025-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036478"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.1
 
-De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-02-14) vastgestelde wegvakken.
+De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-12-21&g=2025-12-21) vastgestelde wegvakken.
 
 ##### Artikel 3.2
 
@@ -70,7 +70,7 @@ Vervallen
 
 ##### Artikel 4.1
 
-De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2025-02-14&g=2025-02-14) vastgestelde zones.
+De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2025-12-21&g=2025-12-21) vastgestelde zones.
 
 ##### Artikel 4.2
 
@@ -190,6 +190,66 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. Uitwerking prioritaire actie E (gedelegeerde verordening (EU) 885/2013)
 
+#### § 4a. Uitwerking beschikbaarheid van gegevens en invoering van ITS-diensten [(Richtlijn 2010/40/EU](32010L0040))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4.3
+
+De verplichting tot beschikbaarheid van gegevens inzake intelligente vervoerssystemen, indien de onderliggende informatie reeds bestaat, als bedoeld in artikel 6 bis van [Richtlijn 2010/40/EU](32010L0040), met inachtneming van de in die richtlijn gestelde eisen, is van toepassing op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=3&z=2025-12-21&g=2025-12-21) van deze regeling vastgestelde gegevenstypen en geografische dekking.
+
+##### Artikel 4.4
+
+De verplichting als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4a&artikel=4.3&z=2025-12-21&g=2025-12-21) van deze regeling wordt uitgevoerd door de partijen waarop de verplichting rust tot het toegankelijk maken van gegevenstypen waarop de gedelegeerde verordeningen als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=1&artikel=1.1&z=2025-12-21&g=2025-12-21) van deze regeling van toepassing zijn.
+
+##### Artikel 4.5
+
+Dienstverleners verwerken en integreren gegevens over minimale universele verkeersveiligheidsinformatiediensten die door de bevoegde autoriteiten zijn ingevoerd in de relevante diensten die zij aan eindgebruikers verstrekken, zonder extra kosten, mits deze voldoen aan de tussen de bevoegde autoriteiten en dienstverleners overeengekomen minimale kwaliteitseisen en via het nationaal toegangspunt als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2025-12-21&g=2025-12-21) van deze regeling in een digitaal machineleesbaar formaat toegankelijk zijn gemaakt.
+
+##### Artikel 4.6
+
+De verplichting als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4a&artikel=4.5&z=2025-12-21&g=2025-12-21) van deze regeling is van toepassing op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=3&z=2025-12-21&g=2025-12-21) van deze regeling vastgestelde geografische dekking.
+
 #### § 5. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-12-21&g=2025-12-21) van de ITS-regeling
+
+De in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-12-21&g=2025-12-21) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
+
+## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-12-21&g=2025-12-21) van de ITS-Regeling
+
+De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-12-21&g=2025-12-21) bedoelde zones zijn vijf kilometer breed, gemeten in een rechte lijn, vanaf de volgende hoofdwegen en weergegeven in de volgende kaart:
+
+- •. A1 Amsterdam-Oldenzaal
+
+- •. A2 Amsterdam-Maastricht
+
+- •. A4 Amsterdam-Rotterdam
+
+- •. A12 Den Haag-Zevenaar
+
+- •. A16 Rotterdam-Hazeldonk
+
+- •. A/N15 Maasvlakte-Duitsland
+
+- •. A20 Rotterdam-Gouda
+
+- •. A27 Utrecht-Breda
+
+- •. A50 Valburg-Beekbergen
+
+- •. A58 Bergen op Zoom-Breda
+
+- •. A67 Eersel-Venlo
+
+- •. A76 Stein, Geleen, Heerlen, Bocholtz, en
+
+- •. de zone rondom de Amsterdamse haven tussen de A5, A10, A8 en A9, tot en met de zeemonding en de gemeentes IJmuiden en Velsen.
+
+## Bijlage 3. Digitale kaart met gegevenstypen en geografische dekking
+
+(bijlage als bedoeld in [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4a&artikel=4.3&z=2025-12-21&g=2025-12-21) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4a&artikel=4.6&z=2025-12-21&g=2025-12-21))
+
+Deze bijlage betreft de digitale kaart ‘ITS-scope viewer’. Deze bijlage wordt bekendgemaakt op [https://ntm.ndw.nu/its-scope-viewer/](https://ntm.ndw.nu/its-scope-viewer/)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
