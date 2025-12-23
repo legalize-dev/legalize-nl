@@ -4,7 +4,7 @@ identifier: "BWBR0049737"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-09-24"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049737"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Beoordelingskader:** het Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen waaraan een transformatieplan wordt getoetst zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&bijlage=I&z=2025-09-24&g=2025-09-24);
+- **Beoordelingskader:** het Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen waaraan een transformatieplan wordt getoetst zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&bijlage=I&z=2025-12-23&g=2025-12-23);
 
 - **bestuurlijke afspraken:** afspraken tussen het Rijk en gemeenten zoals vastgelegd in het GALA en het IZA;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Doel van de regeling
 
-De Minister kan op aanvraag aan een gemeente een specifieke uitkering verstrekken voor de voorbereiding en uitvoering van een transformatieplan in de periode van 1 januari 2024 tot en met 31 december 2027 met, conform de IZA-doelen, een substantiële impact op:
+De Minister kan op aanvraag aan een gemeente een specifieke uitkering verstrekken voor de voorbereiding en uitvoering van een transformatieplan in de periode van 1 januari 2024 tot en met 31 december 2028 met, conform de IZA-doelen, een substantiële impact op:
 
 - a. het zorggebruik in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
@@ -96,7 +96,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 ##### Artikel 5. Uitkeringsplafond
 
-1. Het uitkeringsplafond voor aanvragen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=3&z=2025-09-24&g=2025-09-24) bedraagt voor de gehele looptijd van de regeling € 64.742.677.
+1. Het uitkeringsplafond voor aanvragen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=3&z=2025-12-23&g=2025-12-23) bedraagt voor de gehele looptijd van de regeling € 185.742.677.
 
 2. Het ingevolge het uitkeringsplafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van volledige aanvragen.
 
@@ -190,13 +190,13 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 16 juli 2029, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
+2. Deze regeling vervalt met ingang van 16 juli 2030, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
 
 ##### Artikel 13. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling specifieke uitkering transformatiemiddelen IZA 2024-2027.
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering transformatiemiddelen IZA & AZWA 2024–2028.
 
-## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=1&z=2025-09-24&g=2025-09-24)
+## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=1&z=2025-12-23&g=2025-12-23)
 
 ### Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen
 
