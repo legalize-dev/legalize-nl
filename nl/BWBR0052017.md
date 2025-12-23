@@ -4,7 +4,7 @@ identifier: "BWBR0052017"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-23"
-last_updated: "2024-09-17"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052017"
 soort: "zbo"
@@ -82,13 +82,13 @@ In dit besluit wordt verstaan onder:
 
 5. De dienst van de huurcommissie is ingericht naar afzonderlijke taakgebieden. Dit zijn de volgende:
 
-- a. De Operatie, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=2&artikel=3&z=2025-12-23&g=2024-09-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=2&artikel=4&z=2025-12-23&g=2024-09-17);
+- a. De Operatie, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=2&artikel=3&z=2025-12-23&g=2025-12-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=2&artikel=4&z=2025-12-23&g=2025-12-23);
 
-- b. Klant en Kwaliteit, genoemd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=3&artikel=5&z=2025-12-23&g=2024-09-17) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=3&artikel=6&z=2025-12-23&g=2024-09-17);
+- b. Klant en Kwaliteit, genoemd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=3&artikel=5&z=2025-12-23&g=2025-12-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=3&artikel=6&z=2025-12-23&g=2025-12-23);
 
-- c. Beleid, Bestuur en Communicatie, genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=4&artikel=7&z=2025-12-23&g=2024-09-17) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=4&artikel=8&z=2025-12-23&g=2024-09-17);
+- c. Beleid, Bestuur en Communicatie, genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=4&artikel=7&z=2025-12-23&g=2025-12-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=4&artikel=8&z=2025-12-23&g=2025-12-23);
 
-- d. Bedrijfsvoering en Informatievoorziening, genoemd in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=5&artikel=9&z=2025-12-23&g=2024-09-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=5&artikel=10&z=2025-12-23&g=2024-09-17).
+- d. Bedrijfsvoering en Informatievoorziening, genoemd in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=5&artikel=9&z=2025-12-23&g=2025-12-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0052017&paragraaf=5&artikel=10&z=2025-12-23&g=2025-12-23).
 
 6. Ieder taakgebied staat onder leiding van een strategisch manager. Taakgebied de Operatie kent twee strategisch managers.
 
