@@ -4,7 +4,7 @@ identifier: "BWBR0036191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2023-12-07"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036191"
 soort: "ministeriele-regeling"
@@ -92,11 +92,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente of gemeenten waar de instelling media-aanbod verzorgt.
 
-2. De in het eerste lid bedoelde capaciteit vormt een achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
+2. De in het eerste lid bedoelde capaciteit vormt ten minste een achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
 
 3. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling, die niet beschikt over een vergunning als bedoeld in [artikel 3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), is voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente of gemeenten waar de instelling media-aanbod wil verzorgen.
 
-4. Per lokale publieke media-instelling wordt ten hoogste één vergunning verleend voor het gebruik van één achttiende deel van de capaciteit in een allotment.
+4. Per lokale publieke media-instelling worden ten hoogste twee vergunningen verleend die ieder zien op het gebruik van één achttiende deel van de capaciteit in een allotment.
 
 5. Aanvragen kunnen worden ingediend vanaf een door de Minister te bepalen tijdstip en gedurende een door de Minister vast te stellen termijn.
 
@@ -106,6 +106,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan elk van de lokale publieke media-instellingen van de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar voor één programmakanaal voor de lokale verspreiding van multiculturele radioprogramma’s die overwegend zijn bestemd voor jongeren en jong volwassenen, in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeenten Amsterdam, Den Haag, Rotterdam of Utrecht.
 
-2. De in het eerste lid bedoelde capaciteit vormt één achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036191&artikel=4&z=2023-12-07&g=2023-12-07).
+2. De in het eerste lid bedoelde capaciteit vormt één achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036191&artikel=4&z=2025-12-24&g=2025-12-24).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
