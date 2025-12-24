@@ -4,7 +4,7 @@ identifier: "BWBR0043213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-11-26"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043213"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in 
 
 1. Voor de uitzending via de FM-band van radioprogramma’s als bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, wordt ten hoogste een hoeveelheid frequentieruimte gebruikt of verworven waarvan het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent.
 
-2. Het demografisch bereik van in bijlage 14, tabel 2, genoemde allotments waarin één rechtspersoon vergunningen verwerft of gebruikt, bedraagt tezamen niet meer dan 50 procent.
+2. Het demografisch bereik van in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2025-12-24&g=2025-12-24), tabel 2, genoemde allotments waarin één rechtspersoon vergunningen verwerft of gebruikt, bedraagt tezamen niet meer dan 50 procent.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -104,15 +104,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Scheiding commerciële radio-omroepmarkten
 
-Eén rechtspersoon gebruikt of verwerft slechts frequentieruimte uit één van de categorieën, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2024-11-26&g=2024-11-26).
+Eén rechtspersoon gebruikt of verwerft slechts frequentieruimte uit één van de categorieën, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2025-12-24&g=2025-12-24).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3b. Overgangsrecht scheiding commerciële radio-markten
 
-[Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-11-26&g=2024-11-26), zoals dat luidde vóór inwerkingtreding van de [Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049835) blijft van toepassing op frequentieruimte die door een rechtspersoon is verkregen of werd gebruikt vóór inwerkingtreding van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
+[Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2025-12-24&g=2025-12-24), zoals dat luidde vóór inwerkingtreding van de [Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049835) blijft van toepassing op frequentieruimte die door een rechtspersoon is verkregen of werd gebruikt vóór inwerkingtreding van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
 
-## Bijlage 1. als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-11-26&g=2024-11-26)
+## Bijlage 1. als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2025-12-24&g=2025-12-24)
 
 | Vergunningen voor landelijke commerciële radio radio-omroep |
 | --- |
