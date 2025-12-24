@@ -4,7 +4,7 @@ identifier: "BWBR0049549"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-07-01"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049549"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **aanpak:** de preventieve aanpak van jeugdcriminaliteit in de gemeente;
 
-- –. **gemeente:** een gemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01);
+- –. **gemeente:** een gemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2025-12-24);
 
 - –. **Ministers:** de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming.
 
@@ -98,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 3. De specifieke uitkering wordt uitsluitend verstrekt voor de hierna volgende activiteiten:
 
-- a. de totstandkoming en uitwerking van een probleemanalyse die voldoet aan de voorwaarden gesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=3&z=2025-12-24&g=2024-07-01);
+- a. de totstandkoming en uitwerking van een probleemanalyse die voldoet aan de voorwaarden gesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=3&z=2025-12-24&g=2025-12-24);
 
 - b. de programmaondersteuning of de programmacoördinatie dan wel allebei ten behoeve van de aanpak; en
 
@@ -114,9 +114,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Nadere voorwaarden
 
-1. De probleemanalyse, bedoeld in [artikel 2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01), wordt met inachtneming van geldende wet- en regelgeving verricht op het gebied van (online) jeugdcriminaliteit, waaronder de trends op dat gebied binnen het lokale en, waar relevant, het regionale domein met als doel de informatiepositie van de gemeente te verbeteren met betrekking tot de specifieke doelgroep in een bepaald gebied en het kennisniveau van betrokken professionals bij de lokale en, waar relevant, de regionale aanpak te vergroten.
+1. De probleemanalyse, bedoeld in [artikel 2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2025-12-24), wordt met inachtneming van geldende wet- en regelgeving verricht op het gebied van (online) jeugdcriminaliteit, waaronder de trends op dat gebied binnen het lokale en, waar relevant, het regionale domein met als doel de informatiepositie van de gemeente te verbeteren met betrekking tot de specifieke doelgroep in een bepaald gebied en het kennisniveau van betrokken professionals bij de lokale en, waar relevant, de regionale aanpak te vergroten.
 
-2. Voor de activiteiten, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01), wordt gebruik gemaakt van een programmaondersteuner of een programmacoördinator dan wel allebei. Deze personen:
+2. Voor de activiteiten, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2025-12-24), wordt gebruik gemaakt van een programmaondersteuner of een programmacoördinator dan wel allebei. Deze personen:
 
 - a. fungeren voor betrokken partners en belanghebbenden als aanspreekpunt van de gemeente voor de lokale aanpak; en
 
@@ -160,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het verlenen van de specifieke uitkeringen aan de gemeenten is ten hoogste € 30.000.000 beschikbaar in de periode van 1 juli 2024 tot en met 1 juli 2027. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) is van overeenkomstige toepassing.
 
-2. Een gemeente kan over de gehele periode, bedoeld in het eerste lid, ten hoogste € 1.500.000 inclusief BTW aanvragen, waarvan maximaal € 500.000 per jaar wordt besteed en waarbij het compensabele BTW-deel niet aan de gemeente wordt uitgekeerd. De Ministers storten het compensabele BTW-deel in het BTW-compensatiefonds.
+2. Een gemeente kan over de gehele periode, bedoeld in het eerste lid, ten hoogste € 1.500.000 inclusief BTW aanvragen, waarbij het compensabele BTW-deel niet aan de gemeente wordt uitgekeerd. De Ministers storten het compensabele BTW-deel in het BTW-compensatiefonds.
 
 ##### Artikel 6. Wijze van verstrekking
 
@@ -208,7 +208,7 @@ De gemeente die een eenmalige specifieke uitkering heeft ontvangen, is verplicht
 
 ##### Artikel 10. Terugvordering
 
-De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=9&z=2025-12-24&g=2024-07-01), terugvorderen.
+De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=9&z=2025-12-24&g=2025-12-24), terugvorderen.
 
 ##### Artikel 11. Inwerkingtreding
 
