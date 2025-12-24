@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2025-04-16"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -2540,19 +2540,17 @@ Vervallen.
 
 Omroep als bedoeld in [artikel 6.9 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9) ten behoeve van een evenement of bedrijfsondersteunende dienst met een zendbereik dat beperkt is tot de locatie waarop het evenement plaatsvindt dan wel de locatie waarop het bedrijf zijn activiteiten uitoefent.
 
-Vanaf 1 juni 2022 tot 1 september 2025 is de frequentieruimte behorend bij een commerciële middengolfvergunning (C-kavel) telkens gekoppeld met 1/12e deel van de capaciteit van een bijbehorend digitaal frequentieblok overeenkomstig de onderstaande tabel ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de commerciële middengolfvergunning worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de middengolfband bestemd voor commerciële omroep die voor de betreffende commerciële middengolfvergunning tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/12e deel van het gekoppelde frequentieblok houdt of gaat houden.
+Vervallen.
 
-Bestemming niet-landelijke commerciële radio-omroep voor de periode vanaf 1 juni 2022 tot 1 september 2025
-
-Vanaf 1 juni 2022 tot 1 september 2025 is de frequentieruimte behorend bij een FM-vergunning voor niet-landelijke commerciële radio-omroep overeenkomstig de onderstaande tabel telkens gekoppeld met 1/12e deel van de capaciteit van een bijbehorend digitaal frequentieblok ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van niet-landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor commerciële omroepen die voor elke vergunning voor niet-landelijke commerciële radio-omroep tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/12e deel van het gekoppelde frequentieblok houden of gaan houden.
+Vervallen.
 
 Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gelegerde buitenlandse strijdkrachten.
 
-Vanaf 1 juni 2022 tot 1 september 2025 is 1/12e deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments HOL2401, HOL2402, HOL2403, HOL2404, HOL2405, HOL2406, HOL2407 bestemd voor een commerciële middengolfomroep of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/12e deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
-
-Voor het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, geldt tot en met 31 augustus 2025, in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel, vergunningverlening op volgorde van binnenkomst van de aanvraag.
+Vervallen.
 
 Vervallen.
+
+De frequentieblokken in de onderstaande tabel en afbeelding zijn bestemd voor digitale radio-omroep.
 
 Vervallen.
 
@@ -2580,9 +2578,9 @@ CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dien
 
 De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
 
-**AIS –**Automatic Identification System
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -2788,11 +2786,11 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VSAT**
 
+**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
+
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 **WRC –** **World Radio Conference**
-
-The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -2854,6 +2852,8 @@ Email: frequenties@minez.nl
 
 Email: frequenties@minez.nl
 
+Email: frequenties@minez.nl
+
 2500 EK Den Haag
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
@@ -2862,7 +2862,7 @@ Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derd
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
-**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
+**WRC –** **World Radio Conference**
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -2895,5 +2895,7 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 The use of the range 275–1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1 000 GHz frequency range.
 
 ### Annex 3, De nationale voetnoten
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
