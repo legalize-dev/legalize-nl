@@ -4,7 +4,7 @@ identifier: "BWBR0047700"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-12-24"
-last_updated: "2024-12-19"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047700"
 soort: "beleidsregel"
@@ -78,7 +78,7 @@ Bij de voorbereiding en de vaststelling van een beschikking inzake het verlenen,
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze beleidsregel geldt tot 1 januari 2026 of totdat een voor die dag bij de Staten-Generaal ingediend wetsvoorstel waarin het voorzieningenbeleid op verzorgingsplaatsen wordt geregeld, is verworpen of tot wet is verheven en in werking is getreden.
+2. Deze beleidsregel geldt tot 1 januari 2027 of totdat een voor die dag bij de Staten-Generaal ingediend wetsvoorstel waarin het voorzieningenbeleid op verzorgingsplaatsen wordt geregeld, is verworpen of tot wet is verheven en in werking is getreden.
 
 ##### Artikel 6. (citeertitel)
 
