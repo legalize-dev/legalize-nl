@@ -4,7 +4,7 @@ identifier: "BWBR0044597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-06-01"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044597"
 soort: "ministeriele-regeling"
@@ -254,7 +254,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Industriegebieden en locaties
 
-Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2024-06-01&g=2024-06-01).
+Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2025-12-25&g=2025-12-25).
 
 ##### Artikel 6. Vitale infrastructuur en beveiligde gebieden
 
@@ -312,191 +312,189 @@ Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de ope
 
 - y. 53°01'08''N 06°25'32''E;
 
-- z. 51°39'52.42"N 05°15'24.42"E;
+- z. 52°25'57''N 04°46'20''E;
 
-- aa. 52°25'57''N 04°46'20''E;
+- aa. 52°07'09''N 06°13'20''E;
 
-- bb. 52°07'09''N 06°13'20''E;
+- bb. 52°29'48''N 06°06'52''E;
 
-- cc. 52°29'48''N 06°06'52''E;
+- cc. 51°33'21''N 04°46'55''E;
 
-- dd. 51°33'21''N 04°46'55''E;
+- dd. 51°51'42''N 04°17'42''E;
 
-- ee. 51°51'42''N 04°17'42''E;
+- ee. 51°50'08''N 05°53'21''E;
 
-- ff. 51°50'08''N 05°53'21''E;
+- ff. 52°24'12''N 05°19'37''E;
 
-- gg. 52°24'12''N 05°19'37''E;
+- gg. 52°35'43''N 06°23'26''E;
 
-- hh. 52°35'43''N 06°23'26''E;
+- hh. 53°00'49''N 06°34'14''E;
 
-- ii. 53°00'49''N 06°34'14''E;
+- ii. 52°39'15''N 04°47'27''E;
 
-- jj. 52°39'15''N 04°47'27''E;
+- jj. 52°24'11''N 05°16'08''E;
 
-- kk. 52°24'11''N 05°16'08''E;
+- kk. 52°04'46''N 04°19'18''E;
 
-- ll. 52°04'46''N 04°19'18''E;
+- ll. 51°45'07''N 05°44'04''E;
 
-- mm. 51°45'07''N 05°44'04''E;
+- mm. 52°59'31''N 06°32'18''E;
 
-- nn. 52°59'31''N 06°32'18''E;
+- nn. 52°03'20''N 05°06'52''E;
 
-- oo. 52°03'20''N 05°06'52''E;
+- oo. 53°00'19''N 06°35'57''E;
 
-- pp. 53°00'19''N 06°35'57''E;
+- pp. 51°56'40''N 04°24'15''E;
 
-- qq. 51°56'40''N 04°24'15''E;
+- qq. 52°19'17''N 04°45'10''E;
 
-- rr. 52°19'17''N 04°45'10''E;
+- rr. 50°59'58''N 05°50'28''E;
 
-- ss. 50°59'58''N 05°50'28''E;
+- ss. 52°06'43''N 05°18'04''E;
 
-- tt. 52°06'43''N 05°18'04''E;
+- tt. 52°53'11''N 07°01'48''E;
 
-- uu. 52°53'11''N 07°01'48''E;
+- uu. 51°32'38''N 05°04'16''E;
 
-- vv. 51°32'38''N 05°04'16''E;
+- vv. 52°26'00''N 04°49'39''E;
 
-- ww. 52°26'00''N 04°49'39''E;
+- ww. 52°02'05''N 04°30'03''E;
 
-- xx. 52°02'05''N 04°30'03''E;
+- xx. 52°29'16''N 06°07'53''E;
 
-- yy. 52°29'16''N 06°07'53''E;
+- yy. 52°06'59''N 06°13'22''E;
 
-- zz. 52°06'59''N 06°13'22''E;
+- zz. 51°25'52''N 03°43'03''E;
 
-- aaa. 51°25'52''N 03°43'03''E;
+- aaa. 51°26'24''N 03°42'49''E;
 
-- bbb. 51°26'24''N 03°42'49''E;
+- bbb. 51°53'59''N 05°41'13''E;
 
-- ccc. 51°53'59''N 05°41'13''E;
+- ccc. 51°59'27''N 04°22'54''E;
 
-- ddd. 51°59'27''N 04°22'54''E;
+- ddd. 52°47'02''N 04°40'26''E;
 
-- eee. 52°47'02''N 04°40'26''E;
+- eee. 52°20'07''N 06°41'31''E;
 
-- fff. 52°20'07''N 06°41'31''E;
+- fff. 52°20'18''N 06°41'27''E;
 
-- ggg. 52°20'18''N 06°41'27''E;
+- ggg. 51°25'51''N 04°20'51''E;
 
-- hhh. 51°25'51''N 04°20'51''E;
+- hhh. 52°12'43.77"N 5°42'29.99"E;
 
-- iii. 52°12'43.77"N 5°42'29.99"E;
+- iii. 52°57'27''N 04°48'04''E;
 
-- jjj. 52°57'27''N 04°48'04''E;
+- jjj. 53°21'42''N 06°15'42''E;
 
-- kkk. 53°21'42''N 06°15'42''E;
+- kkk. 52°07'26''N 05°15'32''E;
 
-- lll. 52°07'26''N 05°15'32''E;
+- lll. 52°21'42''N 05°27'23''E;
 
-- mmm. 52°21'42''N 05°27'23''E;
+- mmm. 51°48'26.50"N 3°53'35.56"E;
 
-- nnn. 51°48'26.50"N 3°53'35.56"E;
+- nnn. 52°55'8.99"N 4°44'36.93"E;
 
-- ooo. 52°55'8.99"N 4°44'36.93"E;
+- ooo. 52°15'27''N 05°16'52''E;
 
-- ppp. 52°15'27''N 05°16'52''E;
+- ppp. 53°20'9.14"N 6°51'33.49"E;
 
-- qqq. 53°20'9.14"N 6°51'33.49"E;
+- qqq. 52°15'37''N 06°16'13''E;
 
-- rrr. 52°15'37''N 06°16'13''E;
+- rrr. 52°57'05''N 04°47'25''E;
 
-- sss. 52°57'05''N 04°47'25''E;
+- sss. 52°56'47''N 04°47'23''E;
 
-- ttt. 52°56'47''N 04°47'23''E;
+- ttt. 52°38'32''N 06°43'21''E;
 
-- uuu. 52°38'32''N 06°43'21''E;
+- uuu. 53°01'49''N 06°25'02''E;
 
-- vvv. 53°01'49''N 06°25'02''E;
+- vvv. 52°45'40''N 06°24'44''E;
 
-- www. 52°45'40''N 06°24'44''E;
+- www. 51°29'46''N 04°55'37''E;
 
-- xxx. 51°29'46''N 04°55'37''E;
+- xxx. 52°38'14''N 06°15'34''E;
 
-- yyy. 52°38'14''N 06°15'34''E;
+- yyy. 50°56'24''N 05°59'10''E;
 
-- zzz. 50°56'24''N 05°59'10''E;
+- zzz. 53°17'04''N 06°12'58''E;
 
-- aaaa. 53°17'04''N 06°12'58''E;
+- aaaa. 52°05'50''N 04°19'31''E;
 
-- bbbb. 52°05'50''N 04°19'31''E;
+- bbbb. 52°06'34''N 04°19'28''E;
 
-- cccc. 52°06'34''N 04°19'28''E;
+- cccc. 52°04'49''N 05°08'50''E;
 
-- dddd. 52°04'49''N 05°08'50''E;
+- dddd. 53°15'27''N 05°37'12''E;
 
-- eeee. 53°15'27''N 05°37'12''E;
+- eeee. 51°31'32''N 04°34'08''E;
 
-- ffff. 51°31'32''N 04°34'08''E;
+- ffff. 51°37'02''N 04°56'32''E;
 
-- gggg. 51°37'02''N 04°56'32''E;
+- gggg. 52°57'27''N 04°48'04''E;
 
-- hhhh. 52°57'27''N 04°48'04''E;
+- hhhh. 52°57'42''N 04°43'57''E;
 
-- iiii. 52°57'42''N 04°43'57''E;
+- iiii. 52°22'22''N 04°55'04''E;
 
-- jjjj. 52°22'22''N 04°55'04''E;
+- jjjj. 51°54'34''N 04°31'38''E;
 
-- kkkk. 51°54'34''N 04°31'38''E;
+- kkkk. 52°02'45''N 05°19'37''E;
 
-- llll. 52°02'45''N 05°19'37''E;
+- llll. 52°55'25''N 04°47'17''E;
 
-- mmmm. 52°55'25''N 04°47'17''E;
+- mmmm. 52°07'36''N 05°19'06''E;
 
-- nnnn. 52°07'36''N 05°19'06''E;
+- nnnn. 53°21'42''N 06°15'42''E;
 
-- oooo. 53°21'42''N 06°15'42''E;
+- oooo. 52°08'52''N 05°21'11''E;
 
-- pppp. 52°08'52''N 05°21'11''E;
+- pppp. 52°06'08''N 04°18'45''E;
 
-- qqqq. 52°06'08''N 04°18'45''E;
+- qqqq. 52°07'29''N 05°45'48''E;
 
-- rrrr. 52°07'29''N 05°45'48''E;
+- rrrr. 52°24'15''N 05°53'52''E;
 
-- ssss. 52°24'15''N 05°53'52''E;
+- ssss. 51°32'04''N 05°51'16''E;
 
-- tttt. 51°32'04''N 05°51'16''E;
+- tttt. 52°04'45''N 04°18'57''E;
 
-- uuuu. 52°04'45''N 04°18'57''E;
+- uuuu. 52°01'38''N 05°52'18''E;
 
-- vvvv. 52°01'38''N 05°52'18''E;
+- vvvv. 52°18'09''N 05°39'19''E;
 
-- wwww. 52°18'09''N 05°39'19''E;
+- wwww. 52°26'36''N 05°59'49''E;
 
-- xxxx. 52°26'36''N 05°59'49''E;
+- xxxx. 51°39'33''N 05°15'34''E;
 
-- yyyy. 51°39'33''N 05°15'34''E;
+- yyyy. 51°28'38''N 05°22'30''E;
 
-- zzzz. 51°28'38''N 05°22'30''E;
+- zzzz. 52°04'39''N 06°40'16''E;
 
-- aaaaa. 52°04'39''N 06°40'16''E;
+- aaaaa. 51°31'44''N 04°28'42''E;
 
-- bbbbb. 51°31'44''N 04°28'42''E;
+- bbbbb. 52°03'49.1"N 4°29'08.5"E;
 
-- ccccc. 52°03'49.1"N 4°29'08.5"E;
+- ccccc. 52°03'50.7"N 4°29'18.4"E;
 
-- ddddd. 52°03'50.7"N 4°29'18.4"E;
+- ddddd. 52°14'13.5"N 5°56'57.1"E;
 
-- eeeee. 52°14'13.5"N 5°56'57.1"E;
+- eeeee. 52°14'07.2"N 5°56'32.8"E;
 
-- fffff. 52°14'07.2"N 5°56'32.8"E;
+- fffff. 52°12'15.3"N 5°55'36.9"E;
 
-- ggggg. 52°12'15.3"N 5°55'36.9"E;
+- ggggg. 52°05'58.2"N 4°15'47.5"E;
 
-- hhhhh. 52°05'58.2"N 4°15'47.5"E;
+- hhhhh. 51°48'05.4"N 4°38'19.3"E;
 
-- iiiii. 51°48'05.4"N 4°38'19.3"E;
+- iiiii. 52°29'55.2"N 5°25'13.7"E;
 
-- jjjjj. 52°29'55.2"N 5°25'13.7"E;
+- jjjjj. 51°40'30.1"N 4°36'25.2"E;
 
-- kkkkk. 51°40'30.1"N 4°36'25.2"E;
+- kkkkk. 52°03'47.5"N 4°29'17.8"E;
 
-- lllll. 52°03'47.5"N 4°29'17.8"E;
+- lllll. 53°00'41.30''N 06°24'43.30''E;
 
-- mmmmm. 53°00'41.30''N 06°24'43.30''E;
-
-- nnnnn. 52°06'24.90''N 05°4'50.00''E.
+- mmmmm. 52°06'24.90''N 05°4'50.00''E.
 
 - 3). Het verbod bedoeld in het eerste lid geldt voor de volgende cirkelvormige geografische zones met een straal van 400 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
 
@@ -520,7 +518,7 @@ Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de ope
 
 - d. 52°23'01.0"N 4°39'51.4"E.
 
-- 7). Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=2&z=2024-06-01&g=2024-06-01).
+- 7). Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=2&z=2025-12-25&g=2025-12-25).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -530,9 +528,9 @@ Deze regeling treedt in werking met ingang van 31 december 2020.
 
 Deze regeling wordt aangehaald als: Regeling zonering onbemande luchtvaartuigen.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2024-06-01&g=2024-06-01) van de Regeling zonering onbemande luchtvaartuigen
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2025-12-25&g=2025-12-25) van de Regeling zonering onbemande luchtvaartuigen
 
-Het verbod, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2024-06-01&g=2024-06-01), geldt voor de volgende cirkelvormige geografische zones met een straal van 500 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+Het verbod, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2025-12-25&g=2025-12-25), geldt voor de volgende cirkelvormige geografische zones met een straal van 500 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
 
 - 1. 50°53'50''N 06°04'10''E;
 
@@ -1050,9 +1048,9 @@ Het verbod, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR00445
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorende bij [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2024-06-01&g=2024-06-01), van de Regeling zonering onbemande luchtvaartuigen
+## Bijlage 2. behorende bij [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2025-12-25&g=2025-12-25), van de Regeling zonering onbemande luchtvaartuigen
 
-Het verbod, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2024-06-01&g=2024-06-01), geldt voor de volgende geografische zones:
+Het verbod, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2025-12-25&g=2025-12-25), geldt voor de volgende geografische zones:
 
 - 1. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°56'58.0 9"N 04°43'47.50"E; 52°57'10.19"N 04°43'56.61"E; 52°57'05.68"N 04°44'13.03"E; 52°56'53.58"N 04°44'03.92"E; terug naar beginpunt.
 
