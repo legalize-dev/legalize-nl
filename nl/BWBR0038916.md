@@ -4,7 +4,7 @@ identifier: "BWBR0038916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2023-05-02"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038916"
 soort: "ministeriele-regeling"
@@ -68,7 +68,9 @@ Vervallen
 
 1. Het is verboden te handelen in strijd met de artikelen 2, eerste en tweede lid, 9, 10, eerste lid, en 11 van [Verordening (EU) nr. 2016/1686](33586R2016) van de Raad van de Europese Unie van 20 september 2016 tot vaststelling van bijkomende beperkende maatregelen tegen ISIS (Da’esh) en Al Qaida en daarmee verbonden natuurlijke en rechtspersonen, entiteiten of lichamen (Pb EU L 255), met dien verstande dat het verbod te handelen in strijd met vorenbedoeld artikel 2, eerste en tweede lid, niet van toepassing is in gevallen waarin artikel 2, derde lid, 5, 6, 7 of 8 van [Verordening (EU) nr. 2016/1686](33586R2016) van toepassing is.
 
-2. De bevoegde autoriteit, bedoeld in de artikelen 5, 6, 7, 8 en 10, eerste en derde lid, van [Verordening (EU) nr. 2016/1686](32016R1686), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt. De bevoegde autoriteit, bedoeld in artikel 11, tweede lid, van Verordening (EU) nr. 2016/1686, is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+2. Het verbod te handelen in strijd met artikel 2, eerste en tweede lid, van [Verordening (EU) nr. 2016/1686](32016R1686) van de Raad van de Europese Unie van 20 september 2016 tot vaststelling van bijkomende beperkende maatregelen tegen ISIS (Da’esh) en Al Qaida en daarmee verbonden natuurlijke en rechtspersonen, entiteiten of lichamen (PbEU 2016, L 255) is niet van toepassing op de ‘Allied Democratic Forces’ (Geallieerde Democratische Strijdkrachten) in geval artikel 2, eerste of tweede lid, van [Verordening (EG) nr. 1183/2005](32005R1183) van de Raad van 18 juli 2005 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen bepaalde personen die handelen in strijd met het wapenembargo tegen de Democratische Republiek Congo (PbEG 2005, L 193) op die entiteit van toepassing is.
+
+3. De bevoegde autoriteit, bedoeld in de artikelen 5, 6, 7, 8 en 10, eerste en derde lid, van [Verordening (EU) nr. 2016/1686](32016R1686), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt. De bevoegde autoriteit, bedoeld in artikel 11, tweede lid, van Verordening (EU) nr. 2016/1686, is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 ##### Artikel 6
 
