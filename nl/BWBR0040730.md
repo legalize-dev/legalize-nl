@@ -4,7 +4,7 @@ identifier: "BWBR0040730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2025-09-04"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040730"
 soort: "ministeriele-regeling"
@@ -361,23 +361,27 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - b. EHP 26 (Koninklijke paleizen en regeringsgebouwen) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°03'43.00"N 004°18'20.00"E; 52°06'25.00"N 004°24'20.00"E; 52°07'37.00"N 004°26'03.00"E; 52°08'36.00"N 004°23'50.00"E; 52°05'17.00"N 004°16'27.00"E; terug naar beginpunt; tot 2000 ft AMSL, dagelijks van 00.00 uur tot 24.00 uur lokale tijd;
 
-- c. EHP 26A (Scheveningen) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°06'26.46"N 004°16'38.89"E; 52°07'10.98"N 004°18'05.07"E; 52°06'47.72"N 004°19'48.69"E; 52°05'58.33"N 004°17'58.83"E; terug naar beginpunt; tot 2000 ft AMSL, dagelijks van 00.00 uur tot 24.00 uur lokale tijd.
+- c. EHP 26A (Scheveningen) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°06'26.46"N 004°16'38.89"E; 52°07'10.98"N 004°18'05.07"E; 52°06'47.72"N 004°19'48.69"E; 52°05'58.33"N 004°17'58.83"E; terug naar beginpunt; tot 2000 ft AMSL, dagelijks van 00.00 uur tot 24.00 uur lokale tijd;
+
+- d. EHP 29 (Penitentiaire Inrichting Vught – bemand) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,7 nautische mijl (3.150 meter) vanuit positie 51°39’48.96" N005°15’22.68"E; tot 1500 ft AMSL, dagelijks van 00.00 uur tot 24.00 uur lokale tijd;
+
+- e. EHP 30 (Penitentiaire Inrichting Vught – onbemand) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°40’47.63" N005°15’46.80"E; 51°40’01.40" N005°16’28.04"E; 51°39’44.47" N005°16’54.41"E; 51°39’24.09" N005°16’22.09"E; 51°39’07.92" N005°15’59.56"E; 51°39’06.76" N005°16’03.57"E; 51°38’49.14" N005°15’19.25"E; 51°38’53.94" N005°15’01.29"E; 51°39’00.56" N005°14’46.44"E; 51°39’01.20" N005°14’43.63"E; 51°39’02.22" N005°14’33.07"E; 51°39’02.19" N005°14’30.00"E; 51°39’01.86" N005°14’26.98"E; 51°39’03.83" N005°14’22.29"E; 51°39’12.29" N005°14’08.90"E; 51°39’13.64" N005°14’07.02"E; 51°39’14.94" N005°14’06.65"E; 51°39’16.52" N005°14’06.70"E; 51°39’17.92" N005°14’07.37"E; 51°39’21.71" N005°14’10.53"E; 51°39’38.06" N005°14’19.53"E; 51°39’38.51" N005°14’16.61"E; 51°39’41.38" N005°14’07.50"E; 51°39’44.54" N005°14’00.83"E; 51°39’45.61" N005°14’00.93"E; 51°39’49.97" N005°13’57.53"E; 51°39’58.81" N005°13’59.53"E; 51°40’04.21" N005°14’01.39"E; 51°40’08.59" N005°14’04.18"E; 51°40’11.08" N005°14’06.88"E; 51°40’14.12" N005°14’06.71"E; 51°40’17.14" N005°14’10.03"E; 51°40’21.12" N005°14’12.73"E; 51°40’36.96" N005°14’23.86"E; terug naar beginpunt; tot 1500 ft ASML, dagelijks van 00.00 uur tot 24.00 uur lokale tijd.
 
 ##### Artikel 6. Vluchten uitgezonderd van de verboden
 
-1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-09-04&g=2025-09-04) (gebied EHR 3), is niet van toepassing op:
+1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-12-25&g=2025-12-25) (gebied EHR 3), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties van de politie, en
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2025-09-04&g=2025-09-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2025-09-04&g=2025-09-04), zijn niet van toepassing op:
+2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2025-12-25&g=2025-12-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2025-12-25&g=2025-12-25), zijn niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties van de politie;
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-09-04&g=2025-09-04) (gebied EHP 25), is niet van toepassing op:
+3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25) (gebied EHP 25), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties van de politie;
 
@@ -385,7 +389,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-09-04&g=2025-09-04) (gebied EHP 26A), is niet van toepassing op:
+4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25) (gebied EHP 26A), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties van de politie;
 
@@ -397,7 +401,27 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. vluchten door civiel geregistreerde historische militaire luchtvaartuigen die deelnemen aan de luchtvaartvertoning ter gelegenheid van de Nederlandse Veteranendag.
 
-5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2025-09-04&g=2025-09-04), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-09-04&g=2025-09-04). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
+5. Het verbod, genoemd in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25) (gebied EHP 29), is niet van toepassing op:
+
+- a. vluchten uitgevoerd met onbemande luchtvaartuigen, voor zover niet anders is bepaald in [artikel 5, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25), van deze regeling;
+
+- b. vluchten uitgevoerd met een vliegtuig of helikopter in het kader van de politietaak, bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3);
+
+- c. vluchten uitgevoerd met een helikopter krachtens een AOC met voorziening A3-Emergency medical service (HEMS);
+
+- d. vluchten uitgevoerd door de brandweer.
+
+6. Het verbod, genoemd in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25) (gebied EHP 30), is niet van toepassing op:
+
+- a. vluchten uitgevoerd met bemande luchtvaartuigen, voor zover niet anders is bepaald in [artikel 5, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2025-12-25&g=2025-12-25), van deze regeling;
+
+- b. vluchten uitgevoerd in het kader van de politietaak, bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3);
+
+- c. vluchten uitgevoerd door de brandweer;
+
+- d. vluchten uitgevoerd door de Dienst Justitiële Inrichtingen.
+
+7. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2025-12-25&g=2025-12-25), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2025-12-25&g=2025-12-25). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 7. Coördinatie militaire oefeningen
 
