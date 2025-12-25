@@ -4,7 +4,7 @@ identifier: "BWBR0047095"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2025-05-20"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047095"
 soort: "zbo"
@@ -50,45 +50,51 @@ In dit besluit wordt verstaan onder:
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als ambtenaren, bedoeld in [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a), belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
-- a. [Artikel 48, vierde lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=48);
+- –. de [Drinkwaterwet: artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=48);
 
-- b. [Artikel 5, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=5);
+- –. de [Elektriciteitswet 1998: artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=5);
 
-- c. [Artikel 1a, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1a);
+- –. de [Energiewet: artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.1);
 
-- d. [Artikel 45b, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45b);
+- –. de [Gaswet: artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1a);
 
-- e. [Artikel 2 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2);
+- –. de [Loodsenwet: artikel 45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45b);
 
-- f. [Artikel 37 van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=37);
+- –. de [Mededingingswet: artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2);
 
-- g. [Artikel 70, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=70);
+- –. de [Postwet 2009: artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=37);
 
-- h. [Artikel 15.1, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1);
+- –. de [Spoorwegwet: artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=70);
 
-- i. [Artikel 2 lid 6 van de Uitvoeringswet datagovernanceverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050415&artikel=2);
+- –. de [Telecommunicatiewet: artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1);
 
-- j. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.1) en [2.2 van de Uitvoeringswet digitaledienstenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.2);
+- –. de [Uitvoeringswet dataverordening: artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051796&artikel=3) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051796&artikel=5);
 
-- k. [Artikel 2 van de Uitvoeringswet digitalemarktenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050710&artikel=2);
+- –. de [Uitvoeringswet datagovernanceverordening: artikel 2 zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050415&artikel=2);
 
-- l. [Artikel 8, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
+- –. de [Uitvoeringswet digitaledienstenverordening: artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.1) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&artikel=2.2);
 
-- m. [Artikel 15 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
+- –. de [Uitvoeringswet digitalemarktenverordening: artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050710&artikel=2);
 
-- n. [Artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
+- –. de [Uitvoeringswet EU-zeehavenverordening, artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
 
-- o. [Artikel 8, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
+- –. de [Warmtewet, artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
 
-- p. [Artikel 11.14a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
+- –. de Wet collectieve warmte: artikel 10.1, eerste lid;
 
-- q. [Artikel 7, tweede lid, van de Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
+- –. de [Wet handhaving consumentenbescherming: artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
 
-- r. [Artikel 87, vijfde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
+- –. [Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong: artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
 
-- s. [Artikel 3 van de Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0050295&artikel=3);
+- –. de [Wet luchtvaart: artikel 11.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
 
-- t. [Artikel 19 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
+- –. de [Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen: artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
+
+- –. de [Wet personenvervoer 2000: artikel 87, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
+
+- –. de [Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten: artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050295&artikel=3);
+
+- –. de [Wet uitvoering EU-handelingen energie-efficiëntie: artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
 
 alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
