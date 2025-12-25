@@ -4,7 +4,7 @@ identifier: "BWBR0039881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2025-12-09"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039881"
 soort: "ministeriele-regeling"
@@ -79,9 +79,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - h. de aanspraken op grond van [artikel 62 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62), indien en voor zover de minister dit bepaalt;
 
-- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2025-12-09&g=2025-12-09) van deze regeling;
+- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2025-12-25&g=2025-12-25) van deze regeling;
 
-- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2025-12-09&g=2025-12-09) van deze regeling;
+- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2025-12-25&g=2025-12-25) van deze regeling;
 
 - k. de overgangstoelage personenchauffeur, bedoeld in [artikel 11 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=11);
 
@@ -137,9 +137,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - b. onderzoekingswerkzaamheden aan eigen munitie of munitie van bekende samenstelling, waarbij tot gehele of gedeeltelijke demontage moet worden overgegaan.
 
-2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-25&g=2025-12-25).
 
-3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-25&g=2025-12-25).
 
 4. Aanspraak op de toelage, bedoeld in het derde lid, heeft ook de ambtenaar die zich in opdracht van de commandant in een ruimte bevindt waarin te zelfder tijd tot de in het eerste lid behorende werkzaamheden worden verricht, indien dat met het oog op die werkzaamheden noodzakelijk is.
 
@@ -223,7 +223,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 ##### Artikel 6. Duiktoelage
 
-1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-25&g=2025-12-25).
 
 2. Voor de toepassing van het eerste lid wordt:
 
@@ -237,7 +237,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 1. In dit artikel wordt verstaan onder onderwaterlaboratorium: een in het water neergelaten toestel waarin de druk gelijk kan worden gemaakt aan de omgevende waterdruk en waarin zodanige voorzieningen zijn aangebracht dat één of meerdere personen daarin gedurende langere tijd en zonder gebruikmaking van ademhalingsapparatuur kunnen verblijven.
 
-2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-09&g=2025-12-09).
+2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-25&g=2025-12-25).
 
 3. De bedragen, bedoeld in het tweede lid, worden verdubbeld, indien wordt verbleven in een onverwarmd onderwaterlaboratorium binnen de poolcirkel of in het tijdvak van 1 oktober tot en met 30 april in de gematigde luchtstreken.
 
@@ -393,7 +393,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 - b. vijf jaar vóór de datum waarop hij aanspraak zou hebben gehad op een gratificatie wegens trouwe dienst bij het bereiken van een diensttijd van vijfentwintig, veertig of vijftig jaar.
 
-5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2025-12-09&g=2025-12-09), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
+5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2025-12-25&g=2025-12-25), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
 
 6. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd over een proportionele diensttijdgratificatie die is afgeleid van een diensttijdgratificatie wegens vijfentwintig of veertig jaar trouwe dienst, als bedoeld in het tweede lid, onderdeel b, en in het vierde lid, onderdeel b, komen voor rekening van Defensie.
 
@@ -421,7 +421,7 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 - a. voor Nederland: € 3,40;
 
-- b. voor de overige landen: € 5,53.
+- b. voor de overige landen: € 7,67.
 
 ##### Artikel 12. Tegemoetkoming in de kosten van recepties
 
@@ -499,11 +499,11 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
 
-2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 306,01 per maand.
+2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 321,31 per maand.
 
 3. Het verschuldigde bedrag voor kost voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 143,52 per maand.
 
-4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 208,70 per maand.
+4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 219,14 per maand.
 
 5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
 
