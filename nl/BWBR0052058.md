@@ -4,7 +4,7 @@ identifier: "BWBR0052058"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2025-12-08"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052058"
 soort: "zbo"
@@ -188,7 +188,7 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 3. Binnen de kaders die in het jaarplan en in de begroting daarvoor zijn aangegeven is de algemeen directeur/bestuurder onbeperkt bevoegd om rechtshandelingen te verrichten.
 
-4. Ieder lid van het managementteam en iedere medewerker van de Raad voor Rechtsbijstand die daartoe door de algemeen directeur/bestuurder is aangewezen, is bevoegd tot het ondertekenen van betalingsopdrachten. In [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052058&artikel=11&z=2025-12-25&g=2025-12-08) van dit Reglement is hiertoe een nadere regeling opgenomen.
+4. Ieder lid van het managementteam en iedere medewerker van de Raad voor Rechtsbijstand die daartoe door de algemeen directeur/bestuurder is aangewezen, is bevoegd tot het ondertekenen van betalingsopdrachten. In [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052058&artikel=11&z=2025-12-25&g=2025-12-25) van dit Reglement is hiertoe een nadere regeling opgenomen.
 
 5. Een betalingsopdracht wordt steeds door 2 personen ondertekend. Tekeningsbevoegd zijn de algemeen directeur/bestuurder, de leden van het managementteam, de concernliaison en het hoofd financiën, faciliteiten en inkoop.
 
