@@ -4,7 +4,7 @@ identifier: "BWBR0050914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2025-04-03"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050914"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Commissie herziening bekostiging mbo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050914&artikel=2&z=2025-04-03&g=2025-04-03).
+- b. **commissie:** Commissie herziening bekostiging mbo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050914&artikel=2&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 2. Instelling en taak
 
@@ -78,7 +78,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 april 2025 en wordt opgeheven per 1 januari 2026.
+De commissie wordt ingesteld met ingang van 1 april 2025 en wordt opgeheven per 1 juli 2026.
 
 ##### Artikel 6. Secretariaat
 
@@ -96,9 +96,9 @@ De commissie wordt ingesteld met ingang van 1 april 2025 en wordt opgeheven per 
 
 ##### Artikel 8. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 0,076.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 0,036.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 0,059.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 0,026.
 
 ##### Artikel 9. Kosten van de commissie
 
@@ -128,7 +128,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2026.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 14. Citeertitel
 
