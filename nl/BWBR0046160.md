@@ -4,7 +4,7 @@ identifier: "BWBR0046160"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-31"
-last_updated: "2022-08-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046160"
 soort: "AMvB"
@@ -178,9 +178,9 @@ In dit besluit wordt, in alfabetische volgorde, verstaan onder:
 
 ##### Artikel 7. Overzicht aantal leerlingen
 
-1. Onze Minister stelt jaarlijks een overzicht vast van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=13&z=2022-08-01&g=2022-08-01), in aanmerking wordt genomen.
+1. Onze Minister stelt jaarlijks een overzicht vast van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-12-31&g=2025-12-31), in aanmerking wordt genomen.
 
-2. Het overzicht wordt uiterlijk acht weken na de teldatum toegezonden aan het bevoegd gezag. Indien toepassing is gegeven aan [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=6&z=2022-08-01&g=2022-08-01), wordt het overzicht uiterlijk vier weken na afloop van de daar bedoelde verlengde termijn toegezonden aan het bevoegd gezag.
+2. Het overzicht wordt uiterlijk acht weken na de teldatum toegezonden aan het bevoegd gezag. Indien toepassing is gegeven aan [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=6&z=2025-12-31&g=2025-12-31), wordt het overzicht uiterlijk vier weken na afloop van de daar bedoelde verlengde termijn toegezonden aan het bevoegd gezag.
 
 3. Het overzicht is onderverdeeld in leerlingen met een niet-Nederlandse culturele achtergrond en overige leerlingen.
 
@@ -220,9 +220,9 @@ In dit besluit wordt, in alfabetische volgorde, verstaan onder:
 
 ##### Artikel 11. Bewaren gegevens
 
-1. De gegevens, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=10&z=2022-08-01&g=2022-08-01), worden in ieder geval gedurende vijf jaar nadat de desbetreffende leerling van de school is uitgeschreven in de leerlingenadministratie bewaard.
+1. De gegevens, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=10&z=2025-12-31&g=2025-12-31), worden in ieder geval gedurende vijf jaar nadat de desbetreffende leerling van de school is uitgeschreven in de leerlingenadministratie bewaard.
 
-2. De gegevens, bedoeld in [artikel 10, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=10&z=2022-08-01&g=2022-08-01), worden binnen acht weken na het verstrijken van de termijn, bedoeld in het eerste lid, vernietigd.
+2. De gegevens, bedoeld in [artikel 10, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=3&artikel=10&z=2025-12-31&g=2025-12-31), worden binnen acht weken na het verstrijken van de termijn, bedoeld in het eerste lid, vernietigd.
 
 ### Hoofdstuk 4. Vaststelling bekostiging en extra bekostiging
 
@@ -230,7 +230,7 @@ In dit besluit wordt, in alfabetische volgorde, verstaan onder:
 
 ##### Artikel 12. Reikwijdte hoofdstuk 4
 
-Dit hoofdstuk is, met uitzondering van [artikel 13, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=13&z=2022-08-01&g=2022-08-01), niet van toepassing op instellingen.
+Dit hoofdstuk is, met uitzondering van [artikel 13, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-12-31&g=2025-12-31), niet van toepassing op instellingen.
 
 ##### Artikel 13. Vaststelling bekostiging en gewijzigde vaststelling
 
@@ -368,19 +368,19 @@ De vergoedingen, bedoeld in de paragrafen 2 en 3 van dit hoofdstuk, zijn niet la
 
 ##### Artikel 24. Hoogte vergoeding
 
-1. De vergoeding, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2022-08-01&g=2022-08-01), bedraagt 5% van de geschatte waarde, onderscheidenlijk het in de tweede volzin van het eerste lid van dat artikel bedoelde bedrag waarover de vergoeding dient te worden berekend.
+1. De vergoeding, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2025-12-31&g=2025-12-31), bedraagt 5% van de geschatte waarde, onderscheidenlijk het in de tweede volzin van het eerste lid van dat artikel bedoelde bedrag waarover de vergoeding dient te worden berekend.
 
 2. Het college van burgemeester en wethouders kan, op verzoek van het bevoegd gezag van de bijzondere school, bepalen dat in verband met de op het bevoegd gezag rustende geldelijke verplichtingen, gedurende een door hem vast te stellen termijn de vergoeding naar een hoger percentage zal worden berekend.
 
 ##### Artikel 25. Vermindering van de vergoeding
 
-1. Indien voor de bouw van nieuwe lokalen gebruik wordt gemaakt van een gebouw of terrein als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2022-08-01&g=2022-08-01), of indien overeenkomstig [artikel 108 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=108) is vastgesteld dat een gedeelte van een zodanig gebouw of terrein ten gevolge van het in gebruik nemen van nieuwe of andere lokalen blijvend niet meer voor de school wordt gebruikt, wordt de geschatte waarde, bedoeld in dat artikel, verminderd met de geschatte waarde van de niet meer gebruikte lokalen, en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding gaat in op het tijdstip waarop de lokalen buiten gebruik zijn gesteld.
+1. Indien voor de bouw van nieuwe lokalen gebruik wordt gemaakt van een gebouw of terrein als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2025-12-31&g=2025-12-31), of indien overeenkomstig [artikel 108 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=108) is vastgesteld dat een gedeelte van een zodanig gebouw of terrein ten gevolge van het in gebruik nemen van nieuwe of andere lokalen blijvend niet meer voor de school wordt gebruikt, wordt de geschatte waarde, bedoeld in dat artikel, verminderd met de geschatte waarde van de niet meer gebruikte lokalen, en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding gaat in op het tijdstip waarop de lokalen buiten gebruik zijn gesteld.
 
-2. Indien het meubilair in gebouwen als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2022-08-01&g=2022-08-01) wordt vervangen, wordt de geschatte waarde, bedoeld in dat artikel, verminderd met het bedrag waarop de waarde van het oude meubilair was bepaald, en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding gaat in op het tijdstip van ingebruikneming van het nieuwe meubilair.
+2. Indien het meubilair in gebouwen als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2025-12-31&g=2025-12-31) wordt vervangen, wordt de geschatte waarde, bedoeld in dat artikel, verminderd met het bedrag waarop de waarde van het oude meubilair was bepaald, en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding gaat in op het tijdstip van ingebruikneming van het nieuwe meubilair.
 
 ##### Artikel 26. Vervreemding en buitengebruikstelling
 
-1. Wanneer de gebouwen en terreinen, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2022-08-01&g=2022-08-01), anders dan ingevolge [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=58) worden vervreemd, of zodra voor die gebouwen en terreinen overeenkomstig [artikel 108 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=108) is vastgesteld dat zij blijvend niet meer voor het onderwijs aan de school worden gebruikt, betaalt het bevoegd gezag van een bijzondere school aan de gemeente terug het bedrag dat de gemeente aan uitbreiding, verbouwing of vernieuwing van het gebouw en terrein op grond van de bepalingen van de Lager-onderwijswet 1920 of de Overgangswet ISOVSO zoals luidend op 31 december 1996 heeft uitgegeven, verminderd, behoudens voor zover het betreft door de gemeente bekostigde grond, met 2% voor wat betreft de uitbreiding en met 5% voor wat betreft de verbouwing of de vernieuwing, voor elk vol jaar dat is verstreken vanaf het tijdstip waarop de uitgaven zijn gedaan. De terugbetaling kan in termijnen plaatsvinden.
+1. Wanneer de gebouwen en terreinen, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=2&artikel=23&z=2025-12-31&g=2025-12-31), anders dan ingevolge [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=58) worden vervreemd, of zodra voor die gebouwen en terreinen overeenkomstig [artikel 108 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=108) is vastgesteld dat zij blijvend niet meer voor het onderwijs aan de school worden gebruikt, betaalt het bevoegd gezag van een bijzondere school aan de gemeente terug het bedrag dat de gemeente aan uitbreiding, verbouwing of vernieuwing van het gebouw en terrein op grond van de bepalingen van de Lager-onderwijswet 1920 of de Overgangswet ISOVSO zoals luidend op 31 december 1996 heeft uitgegeven, verminderd, behoudens voor zover het betreft door de gemeente bekostigde grond, met 2% voor wat betreft de uitbreiding en met 5% voor wat betreft de verbouwing of de vernieuwing, voor elk vol jaar dat is verstreken vanaf het tijdstip waarop de uitgaven zijn gedaan. De terugbetaling kan in termijnen plaatsvinden.
 
 2. Het bevoegd gezag van een bijzondere school betaalt aan de gemeente terug het bedrag dat de gemeente aan uitbreiding, algehele aanpassing, partiële aanpassing, ingrijpend onderhoud of energiebesparende maatregelen op grond van de bepalingen van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs zoals die luidde op 31 december 1996 heeft uitgegeven, verminderd, behoudens voor zover het betreft door de gemeente bekostigde grond, met de ten behoeve van een voorziening als de onderhavige voor de desbetreffende school door het Rijk aan de gemeente verstrekte vergoedingen. De terugbetaling kan in termijnen plaatsvinden.
 
@@ -396,11 +396,11 @@ De vergoedingen, bedoeld in de paragrafen 2 en 3 van dit hoofdstuk, zijn niet la
 
 1. Voor de gebouwen en terreinen waarvoor voor 1 januari 1989 vergoeding werd genoten op grond van artikel 184 van het Besluit buitengewoon onderwijs 1967, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding gelijk aan het bedrag dat voor huur van de gebouwen en terreinen, met inbegrip van de inrichting, het meubilair en het onderwijsleerpakket, redelijk is te achten, verminderd met de kosten van instandhouding van het gebouw. De vergoeding bedraagt niet meer dan het bedrag dat een redelijke vergoeding oplevert voor een overeenkomstige school, bestemd voor hetzelfde aantal leerlingen, die in normale omstandigheden verkeert. De vergoeding wordt in overleg tussen burgemeester en wethouders en het bevoegd gezag vastgesteld. Indien voor gebouw en terrein, met inbegrip van de inrichting, het meubilair en het onderwijsleerpakket, een vergoeding uit de openbare kassen is of wordt genoten, wordt de vergoeding dienovereenkomstig verminderd.
 
-2. Aan het bevoegd gezag van een school, niet zijnde een instelling, waarvoor de in het eerste lid bedoelde vergoeding wordt betaald, verstrekt het Rijk jaarlijks een bedrag ter bestrijding van de kosten van de school waarvoor de in het eerste lid bedoelde vergoeding niet is bestemd. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=12&z=2022-08-01&g=2022-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=2&artikel=15&z=2022-08-01&g=2022-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=2&artikel=16&z=2022-08-01&g=2022-08-01) zijn van overeenkomstige toepassing.
+2. Aan het bevoegd gezag van een school, niet zijnde een instelling, waarvoor de in het eerste lid bedoelde vergoeding wordt betaald, verstrekt het Rijk jaarlijks een bedrag ter bestrijding van de kosten van de school waarvoor de in het eerste lid bedoelde vergoeding niet is bestemd. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=1&artikel=12&z=2025-12-31&g=2025-12-31), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=2&artikel=15&z=2025-12-31&g=2025-12-31) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=4&paragraaf=2&artikel=16&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing.
 
 ##### Artikel 28. Vervreemding en buitengebruikstelling
 
-1. Indien het bevoegd gezag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=3&artikel=27&z=2022-08-01&g=2022-08-01), eigenaar is van het gebouw en terrein, en het gebouw en terrein niet meer voor het speciaal onderwijs, het voortgezet speciaal onderwijs of het speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) worden gebruikt, dan wel het gebouw en terrein na 1 september 1987 zijn of worden vervreemd, betaalt het bevoegd gezag voor elk jaar dat de gemeente met betrekking tot het gebouw en terrein een vergoeding heeft verstrekt, doch voor ten hoogste 40 jaren, aan de gemeente 1/40 deel van de waarde van het gebouw en terrein in het economisch verkeer, met dien verstande dat het college van burgemeester en wethouders kan besluiten in verband met eigen investeringen van het bevoegd gezag een lagere waarde vast te stellen. Indien toepassing is gegeven aan [artikel VI, vierde lid, van de Wet van 2 april 1998 tot wijziging van enkele onderwijswetten en technische wijziging van enkele andere wetten in verband met het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&artikel=VI) (Stb. 1998, 228), wordt de gemeente geacht gedurende 40 jaren een vergoeding met betrekking tot het gebouw en terrein te hebben verstrekt.
+1. Indien het bevoegd gezag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&hoofdstuk=7&paragraaf=3&artikel=27&z=2025-12-31&g=2025-12-31), eigenaar is van het gebouw en terrein, en het gebouw en terrein niet meer voor het speciaal onderwijs, het voortgezet speciaal onderwijs of het speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) worden gebruikt, dan wel het gebouw en terrein na 1 september 1987 zijn of worden vervreemd, betaalt het bevoegd gezag voor elk jaar dat de gemeente met betrekking tot het gebouw en terrein een vergoeding heeft verstrekt, doch voor ten hoogste 40 jaren, aan de gemeente 1/40 deel van de waarde van het gebouw en terrein in het economisch verkeer, met dien verstande dat het college van burgemeester en wethouders kan besluiten in verband met eigen investeringen van het bevoegd gezag een lagere waarde vast te stellen. Indien toepassing is gegeven aan [artikel VI, vierde lid, van de Wet van 2 april 1998 tot wijziging van enkele onderwijswetten en technische wijziging van enkele andere wetten in verband met het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&artikel=VI) (Stb. 1998, 228), wordt de gemeente geacht gedurende 40 jaren een vergoeding met betrekking tot het gebouw en terrein te hebben verstrekt.
 
 2. In afwijking van het eerste lid, kan het bevoegd gezag de eigendom van het gebouw overdragen aan de gemeente.
 
@@ -416,7 +416,7 @@ De vergoedingen, bedoeld in de paragrafen 2 en 3 van dit hoofdstuk, zijn niet la
 
 1. Het subsidiebedrag dat wordt verstrekt aan de rechtspersoon, bedoeld in [artikel 171, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=171), bestaat uit een bedrag dat is bestemd voor personeelskosten voor de leraren die het godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs verzorgen en een bedrag dat is bestemd voor overige kosten.
 
-2. Het bedrag dat is bestemd voor personeelskosten kan met maximaal 2% per jaar stijgen ten opzichte van het meest recent vastgestelde subsidiebedrag dat is bestemd voor personeelskosten.
+2. Vervallen.
 
 3. Het tweede lid vervalt met ingang van 31 december 2025.
 
