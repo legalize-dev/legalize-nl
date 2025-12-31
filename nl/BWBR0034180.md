@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2025-11-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -242,29 +242,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2025-11-01&g=2025-11-01) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2025-12-31&g=2025-12-31) van de Kiesregeling
 
 8. Het model voor de stempas voor de verkiezing van de leden van het kiescollege luidt als volgt:
 
-### Model N 10-1. Proces-verbaal van een stembureau
+### Model P 2a. Proces-verbaal nieuwe zitting gemeentelijk stembureau/stembureau voor het openbaar lichaam (in opdracht van centraal stembureau)
 
-### Model N 10-2. Proces-verbaal van een stembureau in een gemeente/openbaar lichaam waar een centrale stemopneming wordt verricht
+### Model P 2c. Proces-verbaal nieuwe zitting briefstembureau (in opdracht van centraal stembureau)
 
-### Model N 29-1. Proces-verbaal van de stemming bij een briefstembureau
+### Model Pa 11
 
-### Model N 29-2. Proces-verbaal van de stemopneming bij een briefstembureau
+### Model T 4
 
-### Model Na 14-1. Corrigendum bij het proces-verbaal van een stembureau
+### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
 
-### Model Na 14-2. Corrigendum bij het proces-verbaal van een gemeentelijk stembureau/stembureau voor het openbaar lichaam
+### Model Y 32. Verklaring stemmen voor Europees Parlement in Nederland
 
-### Model Na 14-3. Corrigendum bij de processen-verbaal van een briefstembureau
+### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
 
-### Model Na 31-1. Proces-verbaal van een gemeentelijk stembureau/stembureau voor het openbaar lichaam
+### Model Ya 7
 
-### Model Na 31-2. Proces-verbaal van een gemeentelijk stembureau/stembureau voor het openbaar lichaam in een gemeente/openbaar lichaam waar een centrale stemopneming wordt verricht
+### Model Ya 9
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2025-12-31&g=2025-12-31) van de Kiesregeling
+
+Vervallen
 
 ### Model O 20. Proces-verbaal van het nationaal briefstembureau
 
@@ -282,7 +284,9 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 ### Model O 7. Proces-verbaal van een hoofdstembureau
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2025-12-31&g=2025-12-31) van de Kies- en referendumregeling
+
+Vervallen
 
 ### Model P 1f-1. Corrigendum bij het proces-verbaal van een hoofdstembureau
 
@@ -541,5 +545,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2025-11-01&g=2025-11-01) van de Kies- en referendumregeling
 
 Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
