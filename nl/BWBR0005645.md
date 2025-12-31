@@ -4,7 +4,7 @@ identifier: "BWBR0005645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-02-12"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005645"
 soort: "wet"
@@ -147,13 +147,13 @@ Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot li
 
 - i. lid van de rekenkamer;
 
-- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-02-12&g=2025-02-12);
+- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-12-31&g=2025-12-31);
 
 - k. ambtenaar, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt of werkzaam ten behoeve van die provincie.
 
 2. In afwijking van het eerste lid, aanhef en onder h, kan een lid van provinciale staten tevens gedeputeerde zijn gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2025-02-12&g=2025-02-12), aftreden, of
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2025-12-31&g=2025-12-31), aftreden, of
 
 - b. aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
 
@@ -373,7 +373,7 @@ De leden van provinciale staten stemmen zonder last.
 
 ##### Artikel 35
 
-1. Provinciale staten benoemen de gedeputeerden. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-02-12&g=2025-02-12) is van toepassing op de stemming inzake de benoeming.
+1. Provinciale staten benoemen de gedeputeerden. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-12-31&g=2025-12-31) is van toepassing op de stemming inzake de benoeming.
 
 2. De commissaris van de Koning wordt geïnformeerd over de uitkomsten van de college-onderhandelingen. Hij wordt alsdan in de gelegenheid gesteld zijn opvattingen over voorstellen ten behoeve van het collegeprogramma kenbaar te maken.
 
@@ -383,7 +383,7 @@ De benoeming van gedeputeerden na de verkiezing van de leden van provinciale sta
 
 ##### Artikel 37
 
-In het geval van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=36&z=2025-02-12&g=2025-02-12) gaat de benoeming van degene die zijn benoeming tot gedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-02-12&g=2025-02-12) bepaalde aantal gedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
+In het geval van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=36&z=2025-12-31&g=2025-12-31) gaat de benoeming van degene die zijn benoeming tot gedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-12-31&g=2025-12-31) bepaalde aantal gedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
 
 ##### Artikel 38
 
@@ -399,9 +399,9 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 41
 
-1. Na de verkiezing van de leden van provinciale staten treden de gedeputeerden af op het moment dat provinciale staten ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-02-12&g=2025-02-12) bepaalde aantal gedeputeerden heeft benoemd en deze benoemingen zijn aanvaard
+1. Na de verkiezing van de leden van provinciale staten treden de gedeputeerden af op het moment dat provinciale staten ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-12-31&g=2025-12-31) bepaalde aantal gedeputeerden heeft benoemd en deze benoemingen zijn aanvaard
 
-2. Indien zoveel gedeputeerden hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-02-12&g=2025-02-12) bepaalde aantal gedeputeerden in functie is, treedt de commissaris van de Koning in de plaats van gedeputeerde staten totdat dit wel het geval is.
+2. Indien zoveel gedeputeerden hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-12-31&g=2025-12-31) bepaalde aantal gedeputeerden in functie is, treedt de commissaris van de Koning in de plaats van gedeputeerde staten totdat dit wel het geval is.
 
 ##### Artikel 42
 
@@ -441,7 +441,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 45
 
-1. Indien degene wiens benoeming tot gedeputeerde is ingegaan, een functie bekleedt als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2025-02-12&g=2025-02-12), eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
+1. Indien degene wiens benoeming tot gedeputeerde is ingegaan, een functie bekleedt als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2025-12-31&g=2025-12-31), eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
 
 2. Provinciale staten verlenen hem ontslag indien hij dit nalaat.
 
@@ -451,7 +451,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 46
 
-1. Indien een gedeputeerde niet langer voldoet aan de vereisten voor het ambt van gedeputeerde, bedoeld in [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35b&z=2025-02-12&g=2025-02-12), eerste en tweede lid, of een functie gaat bekleden als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2025-02-12&g=2025-02-12), eerste lid, en het tweede of het derde lid van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan provinciale staten.
+1. Indien een gedeputeerde niet langer voldoet aan de vereisten voor het ambt van gedeputeerde, bedoeld in [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35b&z=2025-12-31&g=2025-12-31), eerste en tweede lid, of een functie gaat bekleden als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2025-12-31&g=2025-12-31), eerste lid, en het tweede of het derde lid van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan provinciale staten.
 
 2. Artikel 45, tweede, derde en vierde lid, is van overeenkomstige toepassing.
 
@@ -465,7 +465,7 @@ Vervallen
 
 ##### Artikel 49
 
-Indien een uitspraak van provinciale staten inhoudende de opzegging van hun vertrouwen in een gedeputeerde er niet toe leidt dat de betrokken gedeputeerde onmiddellijk ontslag neemt, kunnen provinciale staten besluiten tot ontslag. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-02-12&g=2025-02-12) is van toepassing op de stemming inzake het ontslag. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
+Indien een uitspraak van provinciale staten inhoudende de opzegging van hun vertrouwen in een gedeputeerde er niet toe leidt dat de betrokken gedeputeerde onmiddellijk ontslag neemt, kunnen provinciale staten besluiten tot ontslag. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-12-31&g=2025-12-31) is van toepassing op de stemming inzake het ontslag. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
 
 ##### Artikel 50
 
@@ -509,7 +509,7 @@ De leden van gedeputeerde staten en andere personen die deelnemen aan de beraads
 
 ##### Artikel 58
 
-De [artikelen 28, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=28&z=2025-02-12&g=2025-02-12), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=30&z=2025-02-12&g=2025-02-12) zijn ten aanzien van de vergaderingen van gedeputeerde staten van overeenkomstige toepassing.
+De [artikelen 28, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=28&z=2025-12-31&g=2025-12-31), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=30&z=2025-12-31&g=2025-12-31) zijn ten aanzien van de vergaderingen van gedeputeerde staten van overeenkomstige toepassing.
 
 ##### Artikel 59
 
@@ -573,11 +573,11 @@ De [artikelen 28, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 61c
 
-1. De beraadslagingen, bedoeld in de [artikelen 61, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-02-12&g=2025-02-12), [61a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2025-02-12&g=2025-02-12), en [61b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2025-02-12&g=2025-02-12), vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
+1. De beraadslagingen, bedoeld in de [artikelen 61, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-12-31&g=2025-12-31), [61a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2025-12-31&g=2025-12-31), en [61b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2025-12-31&g=2025-12-31), vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
 
 2. Ten aanzien van de beraadslagingen en de stukken die aan provinciale staten worden gezonden dan wel die door provinciale staten aan Onze Minister worden gezonden geldt een geheimhoudingsplicht.
 
-3. De aanbevelingen van provinciale staten, bedoeld in [artikel 61, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-02-12&g=2025-02-12), [61a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2025-02-12&g=2025-02-12), en [61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2025-02-12&g=2025-02-12), zijn openbaar met dien verstande dat ten aanzien van de aanbeveling inzake de benoeming, bedoeld in [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-02-12&g=2025-02-12), de openbaarheid uitsluitend de als eerste aanbevolen persoon geldt. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-02-12&g=2025-02-12) is van toepassing op de stemmingen inzake de aanbevelingen.
+3. De aanbevelingen van provinciale staten, bedoeld in [artikel 61, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-12-31&g=2025-12-31), [61a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2025-12-31&g=2025-12-31), en [61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2025-12-31&g=2025-12-31), zijn openbaar met dien verstande dat ten aanzien van de aanbeveling inzake de benoeming, bedoeld in [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=61&z=2025-12-31&g=2025-12-31), de openbaarheid uitsluitend de als eerste aanbevolen persoon geldt. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=31&z=2025-12-31&g=2025-12-31) is van toepassing op de stemmingen inzake de aanbevelingen.
 
 ##### Artikel 61d
 
@@ -639,7 +639,7 @@ Sa wier helpe my God Almachtich!»
 
 7. Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de commissaris gegevens over de inkomsten, bedoeld in het zevende lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.
 
-8. De [artikelen 43a tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43a&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde» wordt gelezen «commissaris» en voor «[artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-02-12&g=2025-02-12)» «[artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=65&z=2025-02-12&g=2025-02-12)».
+8. De [artikelen 43a tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43a&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing, met dien verstande dat voor «gedeputeerde» wordt gelezen «commissaris» en voor «[artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-12-31&g=2025-12-31)» «[artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=65&z=2025-12-31&g=2025-12-31)».
 
 ##### Artikel 66
 
@@ -681,7 +681,7 @@ De commissaris is niet tevens:
 
 - m. lid van de rekenkamer van een in de provincie gelegen gemeente;
 
-- n. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-02-12&g=2025-02-12);
+- n. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-12-31&g=2025-12-31);
 
 - o. ambtenaar, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt;
 
@@ -697,7 +697,7 @@ De commissaris is niet tevens:
 
 ##### Artikel 68
 
-1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing op de commissaris.
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing op de commissaris.
 
 2. Provinciale staten stellen voor de commissaris een gedragscode vast.
 
@@ -749,7 +749,7 @@ Vervallen
 
 ##### Artikel 76
 
-1. Indien de regering het in het belang van de provincie nodig oordeelt, voorziet zij in afwijking van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=75&z=2025-02-12&g=2025-02-12) in de waarneming. Alvorens daartoe over te gaan hoort zij provinciale staten, tenzij gewichtige redenen zich daartegen verzetten.
+1. Indien de regering het in het belang van de provincie nodig oordeelt, voorziet zij in afwijking van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=75&z=2025-12-31&g=2025-12-31) in de waarneming. Alvorens daartoe over te gaan hoort zij provinciale staten, tenzij gewichtige redenen zich daartegen verzetten.
 
 2. Hij die door de regering met de waarneming van het ambt van commissaris is belast, legt in handen van Onze Minister een overeenkomstig artikel 64 luidende eed (verklaring en belofte) af.
 
@@ -759,7 +759,7 @@ De toekenning van een vergoeding aan degene die met de waarneming van het ambt v
 
 ##### Artikel 78
 
-Ten aanzien van degene die met de waarneming van het ambt van commissaris is belast, zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=63&z=2025-02-12&g=2025-02-12), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=66&z=2025-02-12&g=2025-02-12), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=67&z=2025-02-12&g=2025-02-12) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=68&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
+Ten aanzien van degene die met de waarneming van het ambt van commissaris is belast, zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=63&z=2025-12-31&g=2025-12-31), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=66&z=2025-12-31&g=2025-12-31), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=67&z=2025-12-31&g=2025-12-31) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=68&z=2025-12-31&g=2025-12-31) van overeenkomstige toepassing.
 
 ##### Artikel 79
 
@@ -779,7 +779,7 @@ Ten aanzien van degene die met de waarneming van het ambt van commissaris is bel
 
 4. Een lid van provinciale staten is voorzitter van een statencommissie.
 
-5. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-02-12&g=2025-02-12) en [21 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=21&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op een vergadering van een statencommissie, met dien verstande dat in artikel 19 voor «commissaris» wordt gelezen «voorzitter van de statencommissie».
+5. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-12-31&g=2025-12-31) en [21 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=21&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing op een vergadering van een statencommissie, met dien verstande dat in artikel 19 voor «commissaris» wordt gelezen «voorzitter van de statencommissie».
 
 ##### Artikel 81
 
@@ -789,17 +789,17 @@ Ten aanzien van degene die met de waarneming van het ambt van commissaris is bel
 
 3. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit tot instelling van een bestuurscommissie.
 
-4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-02-12&g=2025-02-12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-02-12&g=2025-02-12) en [23, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door provinciale staten ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-02-12&g=2025-02-12), voor «de commissaris» wordt gelezen: de voorzitter van een bestuurscommissie.
+4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-12-31&g=2025-12-31), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-12-31&g=2025-12-31) en [23, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-12-31&g=2025-12-31), zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door provinciale staten ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-12-31&g=2025-12-31), voor «de commissaris» wordt gelezen: de voorzitter van een bestuurscommissie.
 
 5. Voor zover zulks in verband met de aard en omvang van de overgedragen bevoegdheden nodig is, regelen gedeputeerde staten de openbaarheid van vergaderingen van een door hen ingestelde bestuurscommissie.
 
 ##### Artikel 82
 
-1. Provinciale staten of gedeputeerde staten kunnen andere commissies dan bedoeld in de [artikelen 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2025-02-12&g=2025-02-12), en [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2025-02-12&g=2025-02-12), instellen.
+1. Provinciale staten of gedeputeerde staten kunnen andere commissies dan bedoeld in de [artikelen 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2025-12-31&g=2025-12-31), en [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2025-12-31&g=2025-12-31), instellen.
 
-2. [Artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing.
+2. [Artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing.
 
-3. Provinciale staten of gedeputeerde staten regelen ten aanzien van een door hen ingestelde andere commissie de openbaarheid van de vergaderingen. [Artikel 23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing op vergaderingen met gesloten deuren van een door provinciale staten ingestelde andere commissie.
+3. Provinciale staten of gedeputeerde staten regelen ten aanzien van een door hen ingestelde andere commissie de openbaarheid van de vergaderingen. [Artikel 23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing op vergaderingen met gesloten deuren van een door provinciale staten ingestelde andere commissie.
 
 4. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
 
@@ -813,17 +813,17 @@ Ten aanzien van degene die met de waarneming van het ambt van commissaris is bel
 
 ##### Artikel 84
 
-Provinciale staten, gedeputeerde staten, de commissaris van de Koning en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12) kunnen op grond van een belang, genoemd in [artikel 5.1, eerste en tweede lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), een verplichting tot geheimhouding opleggen ten aanzien van informatie die bij dat orgaan berust.
+Provinciale staten, gedeputeerde staten, de commissaris van de Koning en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31) kunnen op grond van een belang, genoemd in [artikel 5.1, eerste en tweede lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), een verplichting tot geheimhouding opleggen ten aanzien van informatie die bij dat orgaan berust.
 
 ##### Artikel 85
 
-1. Provinciale staten kunnen informatie ten aanzien waarvan krachtens [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-02-12&g=2025-02-12), een verplichting tot geheimhouding geldt of zij een verplichting tot geheimhouding hebben opgelegd, verstrekken aan gedeputeerde staten, de commissaris van de Koning, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12).
+1. Provinciale staten kunnen informatie ten aanzien waarvan krachtens [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-12-31&g=2025-12-31), een verplichting tot geheimhouding geldt of zij een verplichting tot geheimhouding hebben opgelegd, verstrekken aan gedeputeerde staten, de commissaris van de Koning, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31).
 
-2. Gedeputeerde staten kunnen informatie ten aanzien waarvan zij een verplichting tot geheimhouding hebben opgelegd, verstrekken aan provinciale staten, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12).
+2. Gedeputeerde staten kunnen informatie ten aanzien waarvan zij een verplichting tot geheimhouding hebben opgelegd, verstrekken aan provinciale staten, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31).
 
-3. De commissaris van de Koning kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan provinciale staten, gedeputeerde staten, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12).
+3. De commissaris van de Koning kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan provinciale staten, gedeputeerde staten, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31).
 
-4. Een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12) kan informatie ten aanzien waarvan zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan provinciale staten, gedeputeerde staten, de commissaris van de Koning en de rekenkamer.
+4. Een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31) kan informatie ten aanzien waarvan zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan provinciale staten, gedeputeerde staten, de commissaris van de Koning en de rekenkamer.
 
 5. Indien gedeputeerde staten of de commissaris van de Koning overeenkomstig het tweede of derde lid informatie verstrekken aan een commissie waarin leden van provinciale staten zitting hebben, verstrekken gedeputeerde staten of de commissaris van de Koning die informatie tevens aan provinciale staten.
 
@@ -839,7 +839,7 @@ Provinciale staten, gedeputeerde staten, de commissaris van de Koning en een com
 
 4. Indien informatie ten aanzien waarvan een verplichting tot geheimhouding geldt aan provinciale staten is verstrekt, duurt die verplichting in afwijking van het derde lid voort totdat de provinciale staten haar opheffen.
 
-5. Een lid van provinciale staten of van een door provinciale staten ingestelde commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-02-12&g=2025-02-12) dat in strijd handelt met het tweede lid kan bij besluit van provinciale staten ten hoogste drie maanden worden uitgesloten van het ontvangen van informatie ten aanzien waarvan een verplichting tot geheimhouding geldt.
+5. Een lid van provinciale staten of van een door provinciale staten ingestelde commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&z=2025-12-31&g=2025-12-31) dat in strijd handelt met het tweede lid kan bij besluit van provinciale staten ten hoogste drie maanden worden uitgesloten van het ontvangen van informatie ten aanzien waarvan een verplichting tot geheimhouding geldt.
 
 ##### Artikel 87
 
@@ -873,7 +873,7 @@ Vervallen
 
 2. Provinciale staten kunnen bij verordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere voorzieningen die verband houden met de vervulling van het lidmaatschap van provinciale staten.
 
-3. Het eerste en het tweede lid zijn niet van toepassing op een lid van provinciale staten dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=13&z=2025-02-12&g=2025-02-12), tevens gedeputeerde is.
+3. Het eerste en het tweede lid zijn niet van toepassing op een lid van provinciale staten dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=13&z=2025-12-31&g=2025-12-31), tevens gedeputeerde is.
 
 4. De verordeningen, bedoeld in het eerste en het tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
 
@@ -885,7 +885,7 @@ Vervallen
 
 - b. van reis- en verblijfskosten.
 
-2. In bijzondere gevallen kunnen provinciale staten bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=82&z=2025-02-12&g=2025-02-12) een vaste vergoeding voor hun werkzaamheden ontvangen.
+2. In bijzondere gevallen kunnen provinciale staten bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=82&z=2025-12-31&g=2025-12-31) een vaste vergoeding voor hun werkzaamheden ontvangen.
 
 3. Ten aanzien van een vergoeding, bedoeld in het eerste lid, onder a, worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld. Ten aanzien van de overige vergoedingen, bedoeld in dit artikel, kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
 
@@ -909,7 +909,7 @@ De verordeningen bedoeld in de artikelen 93 en 94 worden aan Onze Minister gezon
 
 ##### Artikel 98
 
-[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing op de secretaris en de griffier.
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing op de secretaris en de griffier.
 
 ##### Artikel 99
 
@@ -933,7 +933,7 @@ Vervallen
 
 1. Gedeputeerde staten regelen de vervanging van de secretaris.
 
-2. De [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=97&z=2025-02-12&g=2025-02-12), en [98 tot en met 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=98&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
+2. De [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=97&z=2025-12-31&g=2025-12-31), en [98 tot en met 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=98&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
 
 ##### Artikel 104
 
@@ -953,7 +953,7 @@ Vervallen
 
 2. Regeling en bestuur kunnen van het provinciebestuur worden gevorderd bij of krachtens een andere dan deze wet ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het provinciebestuur en het aan het provinciebestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.
 
-3. Onverminderd het bepaalde in de [artikelen 108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12), en [117, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=117&z=2025-02-12&g=2025-02-12), worden de kosten verbonden aan de uitvoering van het tweede lid voor zover zij ten laste van de betrokken provincies blijven, door het Rijk aan hen vergoed.
+3. Onverminderd het bepaalde in de [artikelen 108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31), en [117, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=117&z=2025-12-31&g=2025-12-31), worden de kosten verbonden aan de uitvoering van het tweede lid voor zover zij ten laste van de betrokken provincies blijven, door het Rijk aan hen vergoed.
 
 ##### Artikel 106
 
@@ -993,29 +993,29 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen provincie
 
 5. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt van een provinciebestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de provincie worden gecompenseerd.
 
-6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-02-12&g=2025-02-12).
+6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 109
 
-1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
+1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
 
 - a. dit noodzakelijk is uit een oogpunt van afstemming tussen provinciaal beleid en het beleid van het Rijk, of
 
 - b. de ontwikkeling van beleid op een nieuw beleidsterrein dit noodzakelijk maakt.
 
-2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
+2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
 
 - a. het provinciebestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
 
 - b. de bestuurslasten niet in redelijke verhouding staan tot de te verwachten baten of een aanzienlijk beslag leggen op de voor het betrokken beleidsterrein beschikbare middelen;
 
-- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), of de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12), mogelijk is;
+- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), of de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31), mogelijk is;
 
 - d. het bevorderen van de samenhang in het provinciaal beleid door onderlinge afstemming van onderdelen daarvan onmogelijk wordt;
 
 - e. het uitsluitend dient tot het verkrijgen van informatie.
 
-3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-02-12&g=2025-02-12) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
+3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2025-12-31&g=2025-12-31) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
 
 #### § 2. Verhouding tot het Rijk
 
@@ -1207,9 +1207,9 @@ Vervallen
 
 1. Provinciale verordeningen worden door provinciale staten vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door provinciale staten krachtens de wet aan gedeputeerde staten of de commissaris van de Koning is toegekend.
 
-2. De overige bevoegdheden, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=105&z=2025-02-12&g=2025-02-12), berusten bij provinciale staten.
+2. De overige bevoegdheden, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=105&z=2025-12-31&g=2025-12-31), berusten bij provinciale staten.
 
-3. De overige bevoegdheden, bedoeld in [artikel 105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=105&z=2025-02-12&g=2025-02-12), berusten bij gedeputeerde staten, voor zover deze niet bij of krachtens de wet aan provinciale staten of de commissaris van de Koning zijn toegekend.
+3. De overige bevoegdheden, bedoeld in [artikel 105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=105&z=2025-12-31&g=2025-12-31), berusten bij gedeputeerde staten, voor zover deze niet bij of krachtens de wet aan provinciale staten of de commissaris van de Koning zijn toegekend.
 
 ##### Artikel 144
 
@@ -1255,7 +1255,7 @@ Vervallen
 
 1. Een lid van provinciale staten kan gedeputeerde staten of de commissaris van de Koning mondeling of schriftelijk vragen stellen.
 
-2. Een lid van provinciale staten kan provinciale staten verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-02-12&g=2025-02-12), om gedeputeerde staten of de commissaris van de Koning hierover inlichtingen te vragen. Provinciale staten stellen hierover nadere regels.
+2. Een lid van provinciale staten kan provinciale staten verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-12-31&g=2025-12-31), om gedeputeerde staten of de commissaris van de Koning hierover inlichtingen te vragen. Provinciale staten stellen hierover nadere regels.
 
 ##### Artikel 152
 
@@ -1263,19 +1263,19 @@ Vervallen
 
 2. Provinciale staten kunnen in ieder geval niet overdragen de bevoegdheid tot:
 
-- a. de instelling van een onderzoek als bedoeld in [artikel 151a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-02-12&g=2025-02-12), of [artikel 151g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-02-12&g=2025-02-12);
+- a. de instelling van een onderzoek als bedoeld in [artikel 151a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-12-31&g=2025-12-31), of [artikel 151g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-12-31&g=2025-12-31);
 
-- b. de vaststelling of wijziging van de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12);
+- b. de vaststelling of wijziging van de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31);
 
-- c. de vaststelling van de jaarrekening, bedoeld in [artikel 202](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-02-12&g=2025-02-12);
+- c. de vaststelling van de jaarrekening, bedoeld in [artikel 202](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-12-31&g=2025-12-31);
 
 - d. het stellen van straf op overtreding van de provinciale verordeningen;
 
-- e. de vaststelling van de verordeningen, bedoeld in de [artikelen 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-02-12&g=2025-02-12), [217, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12) en [217a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-02-12&g=2025-02-12);
+- e. de vaststelling van de verordeningen, bedoeld in de [artikelen 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-12-31&g=2025-12-31), [217, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31) en [217a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-12-31&g=2025-12-31);
 
-- f. de aanwijzing van een of meer accountants, bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12);
+- f. de aanwijzing van een of meer accountants, bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31);
 
-- g. de heffing van andere belastingen dan de rechten, bedoeld in [artikel 223, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=223&z=2025-02-12&g=2025-02-12), en de rechten waarvan de heffing krachtens andere wetten dan deze wet geschiedt.
+- g. de heffing van andere belastingen dan de rechten, bedoeld in [artikel 223, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=223&z=2025-12-31&g=2025-12-31), en de rechten waarvan de heffing krachtens andere wetten dan deze wet geschiedt.
 
 3. De bevoegdheid tot het vaststellen van verordeningen, door strafbepaling of bestuursdwang te handhaven, kunnen provinciale staten slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hen in hun verordeningen aangewezen onderwerpen.
 
@@ -1381,9 +1381,9 @@ Vervallen
 
 3. Zij geven provinciale staten mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
 
-4. Zij geven provinciale staten vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 158, eerste lid, onder d, e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2025-02-12&g=2025-02-12), indien provinciale staten daarom verzoeken of indien de uitoefening ingrijpende gevolgen kan hebben voor de provincie. In het laatste geval nemen gedeputeerde staten geen besluit dan nadat provinciale staten hun wensen en bedenkingen terzake ter kennis van gedeputeerde staten hebben kunnen brengen.
+4. Zij geven provinciale staten vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 158, eerste lid, onder d, e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2025-12-31&g=2025-12-31), indien provinciale staten daarom verzoeken of indien de uitoefening ingrijpende gevolgen kan hebben voor de provincie. In het laatste geval nemen gedeputeerde staten geen besluit dan nadat provinciale staten hun wensen en bedenkingen terzake ter kennis van gedeputeerde staten hebben kunnen brengen.
 
-5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 158, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2025-02-12&g=2025-02-12), geen uitstel kan lijden, geven zij in afwijking van het vierde lid provinciale staten zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
+5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 158, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2025-12-31&g=2025-12-31), geen uitstel kan lijden, geven zij in afwijking van het vierde lid provinciale staten zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
 
 ##### Artikel 168
 
@@ -1505,7 +1505,7 @@ Vervallen
 
 - c. het adviseren en bemiddelen bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is;
 
-- d. het uitbrengen van adviezen aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=116&z=2025-02-12&g=2025-02-12);
+- d. het uitbrengen van adviezen aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=116&z=2025-12-31&g=2025-12-31);
 
 - e. de coördinatie van de voorbereiding van de civiele verdediging door de in de provincie werkzame ambtenaren, in dienst van de Staat, het provinciebestuur, de gemeentebesturen en de waterschapsbesturen;
 
@@ -1519,7 +1519,7 @@ Vervallen
 
 5. Een krachtens het vierde lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-6. De [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=79&z=2025-02-12&g=2025-02-12) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XI&artikel=179&z=2025-02-12&g=2025-02-12) zijn niet van toepassing. De commissaris rapporteert Onze Minister periodiek over de werkzaamheden die hij ter uitvoering van de ambtsinstructie heeft verricht.
+6. De [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=79&z=2025-12-31&g=2025-12-31) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XI&artikel=179&z=2025-12-31&g=2025-12-31) zijn niet van toepassing. De commissaris rapporteert Onze Minister periodiek over de werkzaamheden die hij ter uitvoering van de ambtsinstructie heeft verricht.
 
 7. Verzoeken op grond van [artikel 4.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.1) om openbaarmaking van rapportages als bedoeld in het zesde lid, worden uitsluitend behandeld door Onze Minister.
 
@@ -1529,7 +1529,7 @@ Vervallen
 
 ##### Artikel 183
 
-1. De rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door het provinciebestuur gevoerde beleid. Een door de rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door het provinciebestuur gevoerde beleid bevat geen controle van de jaarrekening als bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12).
+1. De rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door het provinciebestuur gevoerde beleid. Een door de rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door het provinciebestuur gevoerde beleid bevat geen controle van de jaarrekening als bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31).
 
 2. Op verzoek van provinciale staten kan de rekenkamer een onderzoek instellen
 
@@ -1577,7 +1577,7 @@ Vervallen
 
 4. De rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar.
 
-5. De rekenkamer zendt een afschrift van haar rapporten en haar verslag aan provinciale staten en gedeputeerde staten. Indien zij met toepassing van [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XIA&artikel=185&z=2025-02-12&g=2025-02-12) een onderzoek heeft ingesteld, zendt de rekenkamer tevens een afschrift van het rapport aan de betrokken instelling. Indien de rekenkamer een onderzoek heeft ingesteld bij een vennootschap als bedoeld in artikel 185, eerste lid, onderdeel c, zendt zij tevens een afschrift van het rapport ter kennisneming aan de gedeputeerde staten van de andere deelnemende provincies, de colleges van de deelnemende gemeenten, de dagelijks besturen van de deelnemende waterschappen of Onze Minister die het aangaat in het geval van deelneming van de Staat.
+5. De rekenkamer zendt een afschrift van haar rapporten en haar verslag aan provinciale staten en gedeputeerde staten. Indien zij met toepassing van [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XIA&artikel=185&z=2025-12-31&g=2025-12-31) een onderzoek heeft ingesteld, zendt de rekenkamer tevens een afschrift van het rapport aan de betrokken instelling. Indien de rekenkamer een onderzoek heeft ingesteld bij een vennootschap als bedoeld in artikel 185, eerste lid, onderdeel c, zendt zij tevens een afschrift van het rapport ter kennisneming aan de gedeputeerde staten van de andere deelnemende provincies, de colleges van de deelnemende gemeenten, de dagelijks besturen van de deelnemende waterschappen of Onze Minister die het aangaat in het geval van deelneming van de Staat.
 
 6. De rapporten en de verslagen van de rekenkamer zijn openbaar.
 
@@ -1605,7 +1605,7 @@ Vervallen
 
 3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen nadere regels worden gesteld ten aanzien van het periodiek verstrekken van informatie voor derden. In overeenstemming met Onze Minister van Economische Zaken kan worden bepaald dat de informatie voor derden wordt gezonden aan het Centraal Bureau voor de Statistiek.
 
-4. De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de [artikelen 195, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=195&z=2025-02-12&g=2025-02-12), en [204](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=204&z=2025-02-12&g=2025-02-12). [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van overeenkomstige toepassing.
+4. De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de [artikelen 195, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=195&z=2025-12-31&g=2025-12-31), en [204](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=204&z=2025-12-31&g=2025-12-31). [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van overeenkomstige toepassing.
 
 5. Indien Onze Minister vaststelt dat de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, doet hij daarvan mededeling aan gedeputeerde staten.
 
@@ -1633,7 +1633,7 @@ Vervallen
 
 2. Provinciale staten zien erop toe dat de begroting structureel en reëel in evenwicht is. Hiervan kunnen zij afwijken indien aannemelijk is dat het structureel en reëel evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.
 
-3. Behoudens het bepaalde in de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=212&z=2025-02-12&g=2025-02-12) en [213](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=213&z=2025-02-12&g=2025-02-12) kunnen ten laste van de provincie slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.
+3. Behoudens het bepaalde in de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=212&z=2025-12-31&g=2025-12-31) en [213](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=213&z=2025-12-31&g=2025-12-31) kunnen ten laste van de provincie slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.
 
 4. Het begrotingsjaar is het kalenderjaar.
 
@@ -1687,9 +1687,9 @@ Vervallen
 
 1. Gedeputeerde staten leggen aan provinciale staten over elk begrotingsjaar verantwoording af over het door hen gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
 
-2. Gedeputeerde staten voegen daarbij de verslagen, bedoeld in [artikel 217a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-02-12&g=2025-02-12).
+2. Gedeputeerde staten voegen daarbij de verslagen, bedoeld in [artikel 217a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-12-31&g=2025-12-31).
 
-3. Provinciale staten leggen de in het eerste en tweede lid, alsmede de in [artikel 217, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12), bedoelde stukken, wanneer de bespreking daarvan geagendeerd is op de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-02-12&g=2025-02-12) bedoelde wijze, voor een ieder ter inzage en stellen ze algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. Provinciale staten beraadslagen over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
+3. Provinciale staten leggen de in het eerste en tweede lid, alsmede de in [artikel 217, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31), bedoelde stukken, wanneer de bespreking daarvan geagendeerd is op de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2025-12-31&g=2025-12-31) bedoelde wijze, voor een ieder ter inzage en stellen ze algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. Provinciale staten beraadslagen over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
 
 ##### Artikel 202
 
@@ -1707,11 +1707,11 @@ Behoudens later in rechte gebleken onregelmatigheden, ontlast de vaststelling va
 
 ##### Artikel 204
 
-Gedeputeerde staten zenden de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-02-12&g=2025-02-12) bedoelde stukken, binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister. Gedeputeerde staten voegen daarbij, indien van toepassing, het besluit van provinciale staten over een voorstel voor een indemniteitsbesluit met de reactie van gedeputeerde staten, bedoeld in [artikel 202, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-02-12&g=2025-02-12).
+Gedeputeerde staten zenden de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-12-31&g=2025-12-31) bedoelde stukken, binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister. Gedeputeerde staten voegen daarbij, indien van toepassing, het besluit van provinciale staten over een voorstel voor een indemniteitsbesluit met de reactie van gedeputeerde staten, bedoeld in [artikel 202, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 205
 
-Indien provinciale staten de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststellen, zenden gedeputeerde staten de jaarrekening, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-02-12&g=2025-02-12) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan Onze Minister.
+Indien provinciale staten de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststellen, zenden gedeputeerde staten de jaarrekening, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-12-31&g=2025-12-31) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan Onze Minister.
 
 ##### Artikel 206
 
@@ -1721,13 +1721,13 @@ Vervallen
 
 ##### Artikel 207
 
-1. De begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), niet structureel en reëel in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=194&z=2025-02-12&g=2025-02-12), niet aannemelijk is dat in de eerstvolgende jaren een structureel en reëel evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciebestuur.
+1. De begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), niet structureel en reëel in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=194&z=2025-12-31&g=2025-12-31), niet aannemelijk is dat in de eerstvolgende jaren een structureel en reëel evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciebestuur.
 
-2. Onze Minister kan bepalen dat de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen zijn goedkeuring behoeven, indien:
+2. Onze Minister kan bepalen dat de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen zijn goedkeuring behoeven, indien:
 
-- a. de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-02-12&g=2025-02-12), niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 195](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=195&z=2025-02-12&g=2025-02-12), of
+- a. de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2025-12-31&g=2025-12-31), niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 195](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=195&z=2025-12-31&g=2025-12-31), of
 
-- b. de jaarrekening, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-02-12&g=2025-02-12), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=204&z=2025-02-12&g=2025-02-12).
+- b. de jaarrekening, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2025-12-31&g=2025-12-31), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=204&z=2025-12-31&g=2025-12-31).
 
 3. Onze Minister maakt een besluit als bedoeld in het tweede lid voor de aanvang van het begrotingsjaar aan het provinciebestuur bekend.
 
@@ -1749,7 +1749,7 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 211
 
-1. Indien een besluit is genomen als bedoeld in [artikel 207, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=207&z=2025-02-12&g=2025-02-12), vangt de termijn, bedoeld in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31), voor de al ingezonden begroting aan op de dag waarop dat besluit is genomen.
+1. Indien een besluit is genomen als bedoeld in [artikel 207, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=207&z=2025-12-31&g=2025-12-31), vangt de termijn, bedoeld in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31), voor de al ingezonden begroting aan op de dag waarop dat besluit is genomen.
 
 2. Indien op de dag waarop een besluit tot wijziging van de begroting aan Onze Minister wordt aangeboden, de begroting nog niet is goedgekeurd, vangt de in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31) bedoelde termijn aan op de dag van de goedkeuring van de begroting.
 
@@ -1783,7 +1783,7 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 215
 
-Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=207&z=2025-02-12&g=2025-02-12), is onderworpen aan goedkeuring, kan Onze Minister bepalen dat door hem aan te wijzen beslissingen van het provinciebestuur die financiële gevolgen voor de provincie hebben of kunnen hebben, door gedeputeerde staten binnen twee weken aan Onze Minister worden toegezonden.
+Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=207&z=2025-12-31&g=2025-12-31), is onderworpen aan goedkeuring, kan Onze Minister bepalen dat door hem aan te wijzen beslissingen van het provinciebestuur die financiële gevolgen voor de provincie hebben of kunnen hebben, door gedeputeerde staten binnen twee weken aan Onze Minister worden toegezonden.
 
 ### Hoofdstuk XIV. De administratie en de controle
 
@@ -1795,7 +1795,7 @@ Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede l
 
 - a. regels voor waardering en afschrijving van activa;
 
-- b. grondslagen voor de berekening van door het provinciebestuur in rekening te brengen prijzen en tarieven voor rechten als bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=225&z=2025-02-12&g=2025-02-12);
+- b. grondslagen voor de berekening van door het provinciebestuur in rekening te brengen prijzen en tarieven voor rechten als bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=225&z=2025-12-31&g=2025-12-31);
 
 - c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie.
 
@@ -1803,7 +1803,7 @@ Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede l
 
 1. Provinciale staten stellen bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
 
-2. Provinciale staten wijzen een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-02-12&g=2025-02-12) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.
+2. Provinciale staten wijzen een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2025-12-31&g=2025-12-31) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.
 
 3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
 
@@ -1811,7 +1811,7 @@ Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede l
 
 - b. de baten en lasten, alsmede de balansmutaties met betrekking tot specifieke uitkeringen als bedoeld in [artikel 17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) rechtmatig tot stand zijn gekomen;
 
-- c. de jaarrekening is opgesteld overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XII&artikel=190&z=2025-02-12&g=2025-02-12) en
+- c. de jaarrekening is opgesteld overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XII&artikel=190&z=2025-12-31&g=2025-12-31) en
 
 - d. het jaarverslag met de jaarrekening verenigbaar is.
 
@@ -1839,11 +1839,11 @@ Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede l
 
 ##### Artikel 218
 
-Gedeputeerde staten zenden de verordeningen, bedoeld in de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-02-12&g=2025-02-12), [217](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12) en [217a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-02-12&g=2025-02-12), binnen twee weken na vaststelling door provinciale staten aan Onze Minister.
+Gedeputeerde staten zenden de verordeningen, bedoeld in de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-12-31&g=2025-12-31), [217](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31) en [217a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2025-12-31&g=2025-12-31), binnen twee weken na vaststelling door provinciale staten aan Onze Minister.
 
 ##### Artikel 219
 
-Onze Minister kan te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-02-12&g=2025-02-12).
+Onze Minister kan te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2025-12-31&g=2025-12-31).
 
 ### Hoofdstuk XIA. De bevoegdheid van de rekenkamer
 
@@ -1989,29 +1989,29 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 227b
 
-1. Het college van gedeputeerde staten kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) voor de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar een andere provincieambtenaar in de plaats treedt.
+1. Het college van gedeputeerde staten kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) voor de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar een andere provincieambtenaar in de plaats treedt.
 
 2. De colleges van gedeputeerde staten van twee of meer provincies kunnen met betrekking tot een of meer provinciale belastingen bepalen dat ambtenaren van een van die provincies worden aangewezen als:
 
-- a. de in [artikel 227a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;
+- a. de in [artikel 227a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;
 
-- b. de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;
+- b. de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;
 
-- c. de in [artikel 227a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaren van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;
+- c. de in [artikel 227a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaren van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;
 
-- d. de in [artikel 227a, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van die provincies, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.
+- d. de in [artikel 227a, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van die provincies, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.
 
 3. Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van gedeputeerde staten van de provincie waarvan de ambtenaar belast met de invordering van provinciale belastingen op grond van het tweede lid, onderdeel b, wordt aangewezen.
 
 4. Indien voor de heffing of de invordering van provinciale belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam of een bedrijfsvoeringsorganisatie is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam of die bedrijfsvoeringsorganisatie wordt aangewezen als:
 
-- a. de in [artikel 227a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;
+- a. de in [artikel 227a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;
 
-- b. de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;
+- b. de in [artikel 227a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;
 
-- c. de in [artikel 227a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaren van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;
+- c. de in [artikel 227a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaren van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;
 
-- d. de in artikel [227a, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-02-12&g=2025-02-12), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.
+- d. de in artikel [227a, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=227a&z=2025-12-31&g=2025-12-31), bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.
 
 5. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.
 
@@ -2033,7 +2033,7 @@ Provinciale belastingen kunnen worden geheven bij wege van aanslag, bij wege van
 
 ##### Artikel 228
 
-Bij de heffing van provinciale belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) van die wet buiten toepassing.
+Bij de heffing van provinciale belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66a), [66b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66b), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) van die wet buiten toepassing.
 
 ##### Artikel 228a
 
@@ -2255,7 +2255,7 @@ Vervallen
 
 1. Beslissingen van provinciebesturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet bepaalde gevallen.
 
-2. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVII&artikel=259&z=2025-02-12&g=2025-02-12) alsmede [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
+2. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVII&artikel=259&z=2025-12-31&g=2025-12-31) alsmede [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
 
 ##### Artikel 254
 
@@ -2307,7 +2307,7 @@ Vervallen
 
 1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het provinciebestuur kan bij koninklijk besluit worden vernietigd.
 
-2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [artikelen 266 tot en met 274a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=266&z=2025-02-12&g=2025-02-12) alsmede de [afdelingen 10.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
+2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [artikelen 266 tot en met 274a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=266&z=2025-12-31&g=2025-12-31) alsmede de [afdelingen 10.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
 ##### Artikel 262
 
@@ -2365,13 +2365,13 @@ Vervallen
 
 ##### Artikel 274
 
-1. Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan [artikel 271a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=271a&z=2025-02-12&g=2025-02-12).
+1. Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan [artikel 271a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=271a&z=2025-12-31&g=2025-12-31).
 
-2. In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De [artikelen 121 tot en met 121f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.
+2. In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De [artikelen 121 tot en met 121f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.
 
 ##### Artikel 274a
 
-In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=261&z=2025-02-12&g=2025-02-12), dan wel tegen een vernietigingsbesluit als bedoeld in [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=83&z=2025-02-12&g=2025-02-12), beroep instellen.
+In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=261&z=2025-12-31&g=2025-12-31), dan wel tegen een vernietigingsbesluit als bedoeld in [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=83&z=2025-12-31&g=2025-12-31), beroep instellen.
 
 ## Titel VI
 
@@ -2409,11 +2409,11 @@ Vervallen
 
 ##### Artikel 282
 
-[Artikel 43, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-02-12&g=2025-02-12), onderscheidenlijk [artikel 65, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=65&z=2025-02-12&g=2025-02-12), is niet van toepassing op de bij inwerkingtreding van die bepalingen zittende gedeputeerde onderscheidenlijk commissaris van de Koning, zolang deze zonder onderbreking zijn ambt vervult in dezelfde provincie.
+[Artikel 43, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-12-31&g=2025-12-31), onderscheidenlijk [artikel 65, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=65&z=2025-12-31&g=2025-12-31), is niet van toepassing op de bij inwerkingtreding van die bepalingen zittende gedeputeerde onderscheidenlijk commissaris van de Koning, zolang deze zonder onderbreking zijn ambt vervult in dezelfde provincie.
 
 ##### Artikel 283
 
-[Artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=91&z=2025-02-12&g=2025-02-12) zoals dat artikel luidde voor inwerkingtreding van [Artikel II van de Wet bevorderen integriteit en functioneren decentraal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0047451&artikel=II) blijft van toepassing op stukken waarop voor die datum geheimhouding is opgelegd op grond van dat artikel.
+[Artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=91&z=2025-12-31&g=2025-12-31) zoals dat artikel luidde voor inwerkingtreding van [Artikel II van de Wet bevorderen integriteit en functioneren decentraal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0047451&artikel=II) blijft van toepassing op stukken waarop voor die datum geheimhouding is opgelegd op grond van dat artikel.
 
 ##### Artikel 284
 
@@ -2525,7 +2525,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 35b
 
-1. Voor het ambt van gedeputeerde gelden de vereisten voor het lidmaatschap van provinciale staten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=10&z=2025-02-12&g=2025-02-12).
+1. Voor het ambt van gedeputeerde gelden de vereisten voor het lidmaatschap van provinciale staten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=10&z=2025-12-31&g=2025-12-31).
 
 2. Bij de benoeming is de beoogde gedeputeerde in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan drie maanden.
 
@@ -2555,7 +2555,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - i. lid van de rekenkamer;
 
-- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-02-12&g=2025-02-12);
+- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-12-31&g=2025-12-31);
 
 - k. lid van de raad van een gemeente;
 
@@ -2579,7 +2579,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. In afwijking van het eerste lid, aanhef en onder h, kan een gedeputeerde tevens lid van provinciale staten zijn van de provincie waar hij gedeputeerde is gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming van de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2025-02-12&g=2025-02-12), aftreden, of
+- a. aanvangt op de dag van de stemming van de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2025-12-31&g=2025-12-31), aftreden, of
 
 - b. aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
 
@@ -2623,7 +2623,7 @@ Sa wier helpe my God Almachtich!»
 
 ##### Artikel 40c
 
-1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing op gedeputeerden.
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing op gedeputeerden.
 
 2. Provinciale staten stellen voor de gedeputeerden een gedragscode vast.
 
@@ -2691,7 +2691,7 @@ Sa wier helpe my God Almachtich!»
 
 3. Het onderzoek wordt uitgevoerd door een door provinciale staten in te stellen onderzoekscommissie. De commissie heeft ten minste drie leden en bestaat uitsluitend uit leden van provinciale staten.
 
-4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-02-12&g=2025-02-12), [23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-02-12&g=2025-02-12), [80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2025-02-12&g=2025-02-12), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=84&z=2025-02-12&g=2025-02-12) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=86&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op de onderzoekscommissie.
+4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-12-31&g=2025-12-31), [23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2025-12-31&g=2025-12-31), [80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2025-12-31&g=2025-12-31), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=84&z=2025-12-31&g=2025-12-31) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=86&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing op de onderzoekscommissie.
 
 5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
 
@@ -2703,15 +2703,15 @@ Sa wier helpe my God Almachtich!»
 
 ##### Artikel 151b
 
-1. Leden en gewezen leden van provinciale staten, de commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van de door de provinciale staten ingestelde rekenkamer, leden en gewezen leden van een door provinciale staten of gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-02-12&g=2025-02-12) nodig is.
+1. Leden en gewezen leden van provinciale staten, de commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van de door de provinciale staten ingestelde rekenkamer, leden en gewezen leden van een door provinciale staten of gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-12-31&g=2025-12-31) nodig is.
 
 2. Indien een vordering als bedoeld in het eerste lid betrekking heeft op bescheiden die afkomstig zijn van een instelling van de Europese Unie of van het Rijk en kennisneming van die bescheiden door de onderzoekscommissie het belang van de Europese Unie of van de Staat kan schaden, wordt niet dan met toestemming van Onze Minister aan de vordering voldaan.
 
-3. Ambtenaren, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-02-12&g=2025-02-12) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
+3. Ambtenaren, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-12-31&g=2025-12-31) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
 
 ##### Artikel 151c
 
-1. Personen als bedoeld in [artikel 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
+1. Personen als bedoeld in [artikel 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
 
 2. Een getuige of deskundige die door de onderzoekscommissie wordt gehoord, is niet tevens lid van de onderzoekscommissie.
 
@@ -2741,7 +2741,7 @@ Sa wier helpe my God Almachtich!»
 
 2. Zij die uit hoofde van hun ambt, beroep of betrekking tot geheimhouding verplicht zijn, kunnen zich verschonen getuigenis af te leggen, doch uitsluitend met betrekking tot hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd. Zij kunnen inzage, afschrift of kennisneming anderszins weigeren van bescheiden of gedeelten daarvan tot welke hun plicht tot geheimhouding zich uitstrekt.
 
-3. De commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van een door gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt, zijn niet verplicht aan [artikel 151b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), en [artikel 151c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-02-12&g=2025-02-12), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
+3. De commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van een door gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt, zijn niet verplicht aan [artikel 151b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), en [artikel 151c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-12-31&g=2025-12-31), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
 
 4. De onderzoekscommissie kan verlangen dat een beroep als bedoeld in het derde lid op strijd met het openbaar belang wordt bevestigd door gedeputeerde staten, of, voor zover de inlichtingen betrekking hebben op het door de commissaris van de Koning gevoerde bestuur, door de commissaris.
 
@@ -2849,7 +2849,7 @@ Provinciale staten stellen het aantal leden van de rekenkamer vast.
 
 - indien hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- indien hij handelt in strijd met [artikel 79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2025-02-12&g=2025-02-12) juncto [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-02-12&g=2025-02-12).
+- indien hij handelt in strijd met [artikel 79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2025-12-31&g=2025-12-31) juncto [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 79d
 
@@ -2861,13 +2861,13 @@ Provinciale staten stellen het aantal leden van de rekenkamer vast.
 
 - hij onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. Provinciale staten kunnen een lid van de rekenkamer op non-activiteit stellen, indien tegen hem een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 79c, zesde lid, onder a, en zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79c&z=2025-02-12&g=2025-02-12), zouden kunnen leiden.
+2. Provinciale staten kunnen een lid van de rekenkamer op non-activiteit stellen, indien tegen hem een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 79c, zesde lid, onder a, en zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79c&z=2025-12-31&g=2025-12-31), zouden kunnen leiden.
 
 3. Provinciale staten beëindigen de non-activiteit zodra de grond voor de maatregel is vervallen, met dien verstande dat in een geval als bedoeld in het tweede lid de non-activiteit in ieder geval eindigt na zes maanden. In dat geval kunnen provinciale staten de maatregel telkens voor ten hoogste drie maanden verlengen.
 
 ##### Artikel 79e
 
-[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2025-02-12&g=2025-02-12) is van overeenkomstige toepassing op de leden van de rekenkamer.
+[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2025-12-31&g=2025-12-31) is van overeenkomstige toepassing op de leden van de rekenkamer.
 
 ##### Artikel 79f
 
@@ -2891,7 +2891,7 @@ Provinciale staten stellen het aantal leden van de rekenkamer vast.
 
 - i. gedeputeerde van de provincie;
 
-- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-02-12&g=2025-02-12);
+- j. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 79q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=1&artikel=79q&z=2025-12-31&g=2025-12-31);
 
 - k. lid van een commissie van de provincie;
 
@@ -2933,7 +2933,7 @@ Sa wier helpe my God Almachtich!»
 
 ##### Artikel 79h
 
-[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing op de leden van de rekenkamer.
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2025-12-31&g=2025-12-31), is van overeenkomstige toepassing op de leden van de rekenkamer.
 
 ##### Artikel 79i
 
@@ -2959,17 +2959,17 @@ De leden van de rekenkamer ontvangen een bij verordening van provinciale staten 
 
 ##### Artikel 79l
 
-In afwijking van [artikel 79a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79a&z=2025-02-12&g=2025-02-12) kunnen provinciale staten met provinciale staten van een of meer andere provincies met toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) en [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=41), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), of met de raad of de raden van één of meer gemeenten of met het algemeen bestuur of de algemene besturen van een of meer waterschappen, al dan niet met provinciale staten van één of meer andere provincies tezamen, met toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) een gemeenschappelijke rekenkamer instellen. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=43) en [54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=54) zijn niet van toepassing.
+In afwijking van [artikel 79a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79a&z=2025-12-31&g=2025-12-31) kunnen provinciale staten met provinciale staten van een of meer andere provincies met toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) en [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=41), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), of met de raad of de raden van één of meer gemeenten of met het algemeen bestuur of de algemene besturen van een of meer waterschappen, al dan niet met provinciale staten van één of meer andere provincies tezamen, met toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) een gemeenschappelijke rekenkamer instellen. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=43) en [54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=54) zijn niet van toepassing.
 
 ##### Artikel 79m
 
-1. De [artikelen 79b tot en met 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2025-02-12&g=2025-02-12), [79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2025-02-12&g=2025-02-12), [79i](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2025-02-12&g=2025-02-12), [79j, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de [artikelen 79b tot en met 79d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2025-02-12&g=2025-02-12), [79i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2025-02-12&g=2025-02-12), en [79j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2025-02-12&g=2025-02-12), voor «provinciale staten» telkens wordt gelezen «provinciale staten van de deelnemende provincies gezamenlijk» of, indien de rekenkamer mede is ingesteld door gemeenten of waterschappen, «provinciale staten, de raden en de algemene besturen van de deelnemende provincies, gemeenten en waterschappen gezamenlijk».
+1. De [artikelen 79b tot en met 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2025-12-31&g=2025-12-31), [79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2025-12-31&g=2025-12-31), [79i](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2025-12-31&g=2025-12-31), [79j, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2025-12-31&g=2025-12-31), zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de [artikelen 79b tot en met 79d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2025-12-31&g=2025-12-31), [79i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2025-12-31&g=2025-12-31), en [79j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2025-12-31&g=2025-12-31), voor «provinciale staten» telkens wordt gelezen «provinciale staten van de deelnemende provincies gezamenlijk» of, indien de rekenkamer mede is ingesteld door gemeenten of waterschappen, «provinciale staten, de raden en de algemene besturen van de deelnemende provincies, gemeenten en waterschappen gezamenlijk».
 
-2. [Artikel 79g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79g&z=2025-02-12&g=2025-02-12) is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «provinciale staten» wordt gelezen «provinciale staten van de provincie die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, zijn aangewezen» of, indien de rekenkamer mede is ingesteld door gemeenten of waterschappen, «provinciale staten van de provincie, de raad van de gemeente of het algemeen bestuur van het waterschap dat daartoe in de regeling waarbij de gemeenschappelijke regeling is ingesteld zijn of is aangewezen».
+2. [Artikel 79g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79g&z=2025-12-31&g=2025-12-31) is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «provinciale staten» wordt gelezen «provinciale staten van de provincie die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, zijn aangewezen» of, indien de rekenkamer mede is ingesteld door gemeenten of waterschappen, «provinciale staten van de provincie, de raad van de gemeente of het algemeen bestuur van het waterschap dat daartoe in de regeling waarbij de gemeenschappelijke regeling is ingesteld zijn of is aangewezen».
 
 ##### Artikel 79n
 
-Indien provinciale staten van één of meer provincies met de raad of raden van een of meer gemeenten of het algemeen bestuur van een of meer waterschappen een gemeenschappelijke rekenkamer instellen, is, onverminderd [artikel 79m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=2&artikel=79m&z=2025-02-12&g=2025-02-12), juncto [artikel 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79f&z=2025-02-12&g=2025-02-12), een lid van de rekenkamer niet tevens:
+Indien provinciale staten van één of meer provincies met de raad of raden van een of meer gemeenten of het algemeen bestuur van een of meer waterschappen een gemeenschappelijke rekenkamer instellen, is, onverminderd [artikel 79m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=2&artikel=79m&z=2025-12-31&g=2025-12-31), juncto [artikel 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79f&z=2025-12-31&g=2025-12-31), een lid van de rekenkamer niet tevens:
 
 - a. burgemeester;
 
@@ -3021,7 +3021,7 @@ Vervallen
 
 1. Provinciale staten regelen de vervanging van de griffier.
 
-2. De [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=97&z=2025-02-12&g=2025-02-12), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=98&z=2025-02-12&g=2025-02-12) en [104 tot en met 104b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=3&artikel=104&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op degene die de griffier vervangt.
+2. De [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=97&z=2025-12-31&g=2025-12-31), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=98&z=2025-12-31&g=2025-12-31) en [104 tot en met 104b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=3&artikel=104&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing op degene die de griffier vervangt.
 
 ##### Artikel 104e
 
@@ -3173,7 +3173,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 32a
 
-1. De stukken die van provinciale staten uitgaan, worden door de commissaris ondertekend en door de griffier medeondertekend. Bij verhindering of ontstentenis van de commissaris worden de stukken die van provinciale staten uitgaan, ondertekend door degene die krachtens [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=75&z=2025-02-12&g=2025-02-12) de commissaris als voorzitter van provinciale staten vervangt.
+1. De stukken die van provinciale staten uitgaan, worden door de commissaris ondertekend en door de griffier medeondertekend. Bij verhindering of ontstentenis van de commissaris worden de stukken die van provinciale staten uitgaan, ondertekend door degene die krachtens [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=75&z=2025-12-31&g=2025-12-31) de commissaris als voorzitter van provinciale staten vervangt.
 
 2. Provinciale staten kunnen de commissaris toestaan de ondertekening op te dragen aan de griffier of aan een of meer andere bij de griffie werkzame ambtenaren. In dat geval blijft medeondertekening achterwege.
 
@@ -3289,7 +3289,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 79s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79s&z=2025-02-12&g=2025-02-12);
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 79s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79s&z=2025-12-31&g=2025-12-31);
 
 - d. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
 
@@ -3309,7 +3309,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. De ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2025-02-12&g=2025-02-12) is van overeenkomstige toepassing op de ombudsman.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2025-12-31&g=2025-12-31) is van overeenkomstige toepassing op de ombudsman.
 
 ##### Artikel 79t
 
@@ -3359,7 +3359,7 @@ De ombudsman ontvangt een bij verordening van provinciale staten vastgestelde ve
 
 1. De ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan provinciale staten.
 
-2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 79r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79r&z=2025-02-12&g=2025-02-12), [79s](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79s&z=2025-02-12&g=2025-02-12), [79t](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79t&z=2025-02-12&g=2025-02-12), [79u](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79u&z=2025-02-12&g=2025-02-12) en [79w](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79w&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
+2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 79r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79r&z=2025-12-31&g=2025-12-31), [79s](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79s&z=2025-12-31&g=2025-12-31), [79t](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79t&z=2025-12-31&g=2025-12-31), [79u](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79u&z=2025-12-31&g=2025-12-31) en [79w](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79w&z=2025-12-31&g=2025-12-31) van overeenkomstige toepassing.
 
 #### § 1. Algemene bepaling
 
@@ -3369,7 +3369,7 @@ De ombudsman ontvangt een bij verordening van provinciale staten vastgestelde ve
 
 2. De ombudsman of de ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de vertegenwoordigende organen van de deelnemende rechtspersonen.
 
-3. Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de [artikelen 79r tot en met 79u](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79r&z=2025-02-12&g=2025-02-12), [79w](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79w&z=2025-02-12&g=2025-02-12) en [79x](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=3&artikel=79x&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
+3. Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de [artikelen 79r tot en met 79u](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79r&z=2025-12-31&g=2025-12-31), [79w](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=2&artikel=79w&z=2025-12-31&g=2025-12-31) en [79x](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVC&paragraaf=3&artikel=79x&z=2025-12-31&g=2025-12-31) van overeenkomstige toepassing.
 
 ##### Artikel 79aa
 
@@ -3441,7 +3441,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 185a
 
-De rekenkamer is belast met het toezicht op de naleving van [artikel 217, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-02-12&g=2025-02-12).
+De rekenkamer is belast met het toezicht op de naleving van [artikel 217, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2025-12-31&g=2025-12-31).
 
 ## Titel IV. De financiën van de provincie
 
@@ -3515,7 +3515,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 44b
 
-1. Provinciale staten kunnen een vervanger benoemen voor de gedeputeerde die met verlof is gegaan. [Artikel 35a, eerste en derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-02-12&g=2025-02-12), is niet van toepassing.
+1. Provinciale staten kunnen een vervanger benoemen voor de gedeputeerde die met verlof is gegaan. [Artikel 35a, eerste en derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2025-12-31&g=2025-12-31), is niet van toepassing.
 
 2. De vervanger is van rechtswege ontslagen met ingang van de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.
 
@@ -3597,7 +3597,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 121a
 
-1. Bij de uitvoering van het besluit tot indeplaatsstelling, beschikt Onze Minister wie het aangaat over de bevoegdheden waarover provinciale staten, gedeputeerde staten of de commissaris van de Koning bij of krachtens deze wet en de andere wet, bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-02-12&g=2025-02-12) beschikken. In afwijking van [artikel 176, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XI&artikel=176&z=2025-02-12&g=2025-02-12), vertegenwoordigt Onze Minister wie het aangaat de provincie zonodig in en buiten rechte.
+1. Bij de uitvoering van het besluit tot indeplaatsstelling, beschikt Onze Minister wie het aangaat over de bevoegdheden waarover provinciale staten, gedeputeerde staten of de commissaris van de Koning bij of krachtens deze wet en de andere wet, bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-12-31&g=2025-12-31) beschikken. In afwijking van [artikel 176, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XI&artikel=176&z=2025-12-31&g=2025-12-31), vertegenwoordigt Onze Minister wie het aangaat de provincie zonodig in en buiten rechte.
 
 2. Voor zover het provinciebestuur, had hij de bevoegdheden, bedoeld in het eerste lid, zelf uitgeoefend, de kosten van de uitvoering in rekening kan brengen bij derden, heeft hij bij die derden verhaal voor de door Onze Minister wie het aangaat ten laste van de provincie gebrachte kosten. Het provinciebestuur kan het bedrag invorderen bij dwangbevel.
 
@@ -3625,7 +3625,7 @@ Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezi
 
 ##### Artikel 121f
 
-Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister wie het aangaat, betreffende de uitvoering door het provinciebestuur van de andere wet, bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-02-12&g=2025-02-12). Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister wie het aangaat, betreffende de uitvoering door het provinciebestuur van de andere wet, bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-12-31&g=2025-12-31). Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.
 
 ##### Artikel 121g
 
@@ -3657,13 +3657,13 @@ Vervallen
 
 ##### Artikel 271a
 
-1. In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van [artikel 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=274&z=2025-02-12&g=2025-02-12) genomen besluit in werking is getreden.
+1. In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van [artikel 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=274&z=2025-12-31&g=2025-12-31) genomen besluit in werking is getreden.
 
-2. Indien, gelet op het koninklijk besluit, het provinciebestuur bij de toepassing van [artikel 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=274&z=2025-02-12&g=2025-02-12) niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.
+2. Indien, gelet op het koninklijk besluit, het provinciebestuur bij de toepassing van [artikel 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=274&z=2025-12-31&g=2025-12-31) niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.
 
 3. In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.
 
-4. In het koninklijk besluit kan het provinciebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De [artikelen 121 tot en met 121f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.
+4. In het koninklijk besluit kan het provinciebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De [artikelen 121 tot en met 121f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=121&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.
 
 5. Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.
 
@@ -3681,7 +3681,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Op de bezoldiging is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
-2. Kostenvergoedingen krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-02-12&g=2025-02-12), zijn niet vatbaar voor beslag.
+2. Kostenvergoedingen krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-12-31&g=2025-12-31), zijn niet vatbaar voor beslag.
 
 ##### Artikel 43b
 
@@ -3691,7 +3691,7 @@ Onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
 
 1. Met de bezoldiging kan worden verrekend hetgeen de gedeputeerde zelf als zodanig aan de provincie verschuldigd is.
 
-2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 43d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43d&z=2025-02-12&g=2025-02-12).
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 43d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43d&z=2025-12-31&g=2025-12-31).
 
 3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
@@ -3705,7 +3705,7 @@ Onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
 
 ##### Artikel 43e
 
-Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 43c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43c&z=2025-02-12&g=2025-02-12), en [artikel 43d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43d&z=2025-02-12&g=2025-02-12), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 43c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43c&z=2025-12-31&g=2025-12-31), en [artikel 43d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43d&z=2025-12-31&g=2025-12-31), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 43f
 
@@ -3727,7 +3727,7 @@ Beslag omvat in deze wet ook de invordering, bedoeld in [artikel 19 van de Invor
 
 ##### Artikel 43j
 
-Met bezoldiging worden in de [artikelen 43a tot en met 43h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43a&z=2025-02-12&g=2025-02-12) gelijkgesteld de bedragen – onder de benaming van uitkering of welke benaming ook – waarop de gedeputeerde krachtens [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-02-12&g=2025-02-12), aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden krachtens artikel 43, eerste lid, aanspraak hebben.
+Met bezoldiging worden in de [artikelen 43a tot en met 43h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43a&z=2025-12-31&g=2025-12-31) gelijkgesteld de bedragen – onder de benaming van uitkering of welke benaming ook – waarop de gedeputeerde krachtens [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=43&z=2025-12-31&g=2025-12-31), aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden krachtens artikel 43, eerste lid, aanspraak hebben.
 
 ### Hoofdstuk IV. De commissaris van de Koning
 
@@ -3813,7 +3813,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. De regeling waarbij de gemeenschappelijke onderzoekscommissie wordt ingesteld houdt bepalingen in omtrent het onderzoek, bedoeld in het eerste lid. In elk geval worden bepalingen opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de gemeenschappelijke onderzoekscommissie.
 
-7. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-02-12&g=2025-02-12) en [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=91&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie.
+7. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2025-12-31&g=2025-12-31) en [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VA&artikel=91&z=2025-12-31&g=2025-12-31), zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie.
 
 8. De gemeenschappelijke onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
 
@@ -3825,21 +3825,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 151h
 
-De [artikelen 151b tot en met 151f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie, bedoeld in [artikel 151g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-02-12&g=2025-02-12), met dien verstande dat:
+De [artikelen 151b tot en met 151f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31) zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie, bedoeld in [artikel 151g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-12-31&g=2025-12-31), met dien verstande dat:
 
-- a. in de [artikelen 151b tot en met 151e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12) voor «onderzoekscommissie» telkens wordt gelezen «gemeenschappelijke onderzoekscommissie»;
+- a. in de [artikelen 151b tot en met 151e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31) voor «onderzoekscommissie» telkens wordt gelezen «gemeenschappelijke onderzoekscommissie»;
 
-- b. de verplichtingen, bedoeld in de [artikelen 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), en [151c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-02-12&g=2025-02-12), ook van toepassing zijn op de leden en gewezen leden van een door het algemeen bestuur van een openbaar lichaam ingestelde commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24a) en [25 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=25) en de ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van het openbaar lichaam of de bedrijfsvoeringsorganisatie als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) of uit andere hoofde aan het bestuur van het openbaar lichaam of de bedrijfsvoeringsorganisatie ondergeschikt;
+- b. de verplichtingen, bedoeld in de [artikelen 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), en [151c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-12-31&g=2025-12-31), ook van toepassing zijn op de leden en gewezen leden van een door het algemeen bestuur van een openbaar lichaam ingestelde commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24a) en [25 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=25) en de ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van het openbaar lichaam of de bedrijfsvoeringsorganisatie als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) of uit andere hoofde aan het bestuur van het openbaar lichaam of de bedrijfsvoeringsorganisatie ondergeschikt;
 
-- c. de verplichtingen, bedoeld in de [artikelen 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), en [151c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-02-12&g=2025-02-12), ook van toepassing zijn op leden en gewezen leden van de raad, de burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van de door de raad ingestelde rekenkamer, personen die de rekenkamerfunctie uitoefenen, leden en gewezen leden van een door de raad, het college of de burgemeester ingestelde commissie en ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de gemeente of uit andere hoofde aan het gemeentebestuur ondergeschikt, indien het een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) betreft;
+- c. de verplichtingen, bedoeld in de [artikelen 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), en [151c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-12-31&g=2025-12-31), ook van toepassing zijn op leden en gewezen leden van de raad, de burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van de door de raad ingestelde rekenkamer, personen die de rekenkamerfunctie uitoefenen, leden en gewezen leden van een door de raad, het college of de burgemeester ingestelde commissie en ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de gemeente of uit andere hoofde aan het gemeentebestuur ondergeschikt, indien het een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) betreft;
 
-- d. bij de toepassing van [artikel 151b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), voor «het provinciebestuur» wordt gelezen «het provinciebestuur, het gemeentebestuur, indien onderzoek gedaan wordt naar de bestuursvoering van een instelling ingesteld bij een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), en het bestuur van een openbaar lichaam of bedrijfsvoeringsorganisatie ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of artikel 51 van de Wet gemeenschappelijke regelingen» en voor «[artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-02-12&g=2025-02-12)» wordt gelezen «[artikel 151g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-02-12&g=2025-02-12)»;
+- d. bij de toepassing van [artikel 151b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), voor «het provinciebestuur» wordt gelezen «het provinciebestuur, het gemeentebestuur, indien onderzoek gedaan wordt naar de bestuursvoering van een instelling ingesteld bij een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), en het bestuur van een openbaar lichaam of bedrijfsvoeringsorganisatie ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of artikel 51 van de Wet gemeenschappelijke regelingen» en voor «[artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2025-12-31&g=2025-12-31)» wordt gelezen «[artikel 151g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151g&z=2025-12-31&g=2025-12-31)»;
 
-- e. bij de toepassing van [artikel 151e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151e&z=2025-02-12&g=2025-02-12) het derde lid komt te luiden:
+- e. bij de toepassing van [artikel 151e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151e&z=2025-12-31&g=2025-12-31) het derde lid komt te luiden:
 
-- 3. De commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van een commissie ingesteld door gedeputeerde staten, het college, de burgemeester, of het bestuur van het openbaar lichaam ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), die uitsluitend of mede is getroffen door gedeputeerde staten, commissarissen van de Koning, colleges van burgemeester en wethouders of burgemeesters zijn niet verplicht aan [artikel 151b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-02-12&g=2025-02-12), en [artikel 151c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-02-12&g=2025-02-12), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang. Dit geldt evenzo voor ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de provincie of de gemeente of uit andere hoofde aan het bestuur hiervan ondergeschikt en de ambtenaren en gewezen ambtenaren in dienst van het openbaar lichaam of de bedrijfsvoeringsorganisatie of uit andere hoofde ondergeschikt aan het bestuur daarvan, ingesteld bij een regeling als bedoeld in artikel 40 of 51 van de Wet gemeenschappelijke regelingen, die uitsluitend of mede is getroffen door gedeputeerde staten, colleges van burgemeester en wethouders, burgemeesters, commissarissen van de Koning, of een combinatie van deze organen.
+- 3. De commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van een commissie ingesteld door gedeputeerde staten, het college, de burgemeester, of het bestuur van het openbaar lichaam ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), die uitsluitend of mede is getroffen door gedeputeerde staten, commissarissen van de Koning, colleges van burgemeester en wethouders of burgemeesters zijn niet verplicht aan [artikel 151b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2025-12-31&g=2025-12-31), en [artikel 151c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2025-12-31&g=2025-12-31), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang. Dit geldt evenzo voor ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de provincie of de gemeente of uit andere hoofde aan het bestuur hiervan ondergeschikt en de ambtenaren en gewezen ambtenaren in dienst van het openbaar lichaam of de bedrijfsvoeringsorganisatie of uit andere hoofde ondergeschikt aan het bestuur daarvan, ingesteld bij een regeling als bedoeld in artikel 40 of 51 van de Wet gemeenschappelijke regelingen, die uitsluitend of mede is getroffen door gedeputeerde staten, colleges van burgemeester en wethouders, burgemeesters, commissarissen van de Koning, of een combinatie van deze organen.
 
-- f. bij de toepassing van [artikel 151e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151e&z=2025-02-12&g=2025-02-12), voor «de commissaris van de Koning gevoerde bestuur, door de commissaris» wordt gelezen «de commissaris van de Koning, het college, de burgemeester of het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) gevoerde bestuur, door de commissaris van de Koning, het college, de burgemeester of door het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan».
+- f. bij de toepassing van [artikel 151e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151e&z=2025-12-31&g=2025-12-31), voor «de commissaris van de Koning gevoerde bestuur, door de commissaris» wordt gelezen «de commissaris van de Koning, het college, de burgemeester of het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan ingesteld bij een regeling als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) of [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) gevoerde bestuur, door de commissaris van de Koning, het college, de burgemeester of door het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan».
 
 ### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
 
