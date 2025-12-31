@@ -4,7 +4,7 @@ identifier: "BWBR0049148"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049148"
 soort: "wet"
@@ -170,8 +170,6 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIVa
 
 Wijzigt de Wet belastingen op milieugrondslag.
@@ -228,8 +226,6 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
 Wijzigt de Invorderingswet 1990.
@@ -264,29 +260,29 @@ Vervallen
 
 ##### Artikel XXXV
 
-Voor zover de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met inachtneming van [artikel XXXVA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXVa&z=2025-01-01&g=2025-01-01), bij het begin van de kalenderjaren 2024 tot en met 2034 worden toegepast op het in [artikel 8.14a, tweede lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a) als tweede vermelde bedrag, worden met overeenkomstige toepassing van die artikelen gewijzigd:
+Voor zover de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met inachtneming van [artikel XXXVA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXVa&z=2025-12-31&g=2025-12-31), bij het begin van de kalenderjaren 2024 tot en met 2034 worden toegepast op het in [artikel 8.14a, tweede lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a) als tweede vermelde bedrag, worden met overeenkomstige toepassing van die artikelen gewijzigd:
 
-- a. bij het begin van het kalenderjaar 2024: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-01-01&g=2025-01-01), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) en artikel XVII vermelde bedragen;
+- a. bij het begin van het kalenderjaar 2024: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-12-31&g=2025-12-31), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) en artikel XVII vermelde bedragen;
 
-- b. bij het begin van het kalenderjaar 2025: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-01-01&g=2025-01-01), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- b. bij het begin van het kalenderjaar 2025: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-12-31&g=2025-12-31), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- c. bij het begin van het kalenderjaar 2026: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-01-01&g=2025-01-01), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- c. bij het begin van het kalenderjaar 2026: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-12-31&g=2025-12-31), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- d. bij het begin van het kalenderjaar 2027: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-01-01&g=2025-01-01), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- d. bij het begin van het kalenderjaar 2027: de in [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-12-31&g=2025-12-31), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- e. bij het begin van het kalenderjaar 2028: de in [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- e. bij het begin van het kalenderjaar 2028: de in [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- f. bij het begin van het kalenderjaar 2029: de in [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- f. bij het begin van het kalenderjaar 2029: de in [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), en de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- g. bij het begin van het kalenderjaar 2030: de in de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- g. bij het begin van het kalenderjaar 2030: de in de [artikelen VIA tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- h. bij het begin van het kalenderjaar 2031: de in de [artikelen VIB tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIb&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- h. bij het begin van het kalenderjaar 2031: de in de [artikelen VIB tot en met VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIb&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- i. bij het begin van het kalenderjaar 2032: de in de [artikelen VIC](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIc&z=2025-01-01&g=2025-01-01), [VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-01-01&g=2025-01-01) en [VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- i. bij het begin van het kalenderjaar 2032: de in de [artikelen VIC](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIc&z=2025-12-31&g=2025-12-31), [VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-12-31&g=2025-12-31) en [VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- j. bij het begin van het kalenderjaar 2033: de in de [artikelen VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-01-01&g=2025-01-01) en [VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-01-01&g=2025-01-01) vermelde bedragen;
+- j. bij het begin van het kalenderjaar 2033: de in de [artikelen VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-12-31&g=2025-12-31) en [VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-12-31&g=2025-12-31) vermelde bedragen;
 
-- k. bij het begin van het kalenderjaar 2034: het in [artikel VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-01-01&g=2025-01-01) vermelde bedrag.
+- k. bij het begin van het kalenderjaar 2034: het in [artikel VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-12-31&g=2025-12-31) vermelde bedrag.
 
 ##### Artikel XXXVa
 
@@ -296,7 +292,7 @@ Voor zover de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&a
 
 ##### Artikel XXXVI
 
-Bij de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2024 met betrekking tot het in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en artikel [22a, tweede lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=I&z=2025-01-01&g=2025-01-01), in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) als tweede vermelde bedrag te vermenigvuldigen met 1,094941 en vervolgens te verhogen met het in artikel I, onderdeel S, vermelde bedrag.
+Bij de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2024 met betrekking tot het in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en artikel [22a, tweede lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=I&z=2025-12-31&g=2025-12-31), in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) als tweede vermelde bedrag te vermenigvuldigen met 1,094941 en vervolgens te verhogen met het in artikel I, onderdeel S, vermelde bedrag.
 
 ##### Artikel XXXVII
 
@@ -328,7 +324,7 @@ Met betrekking tot een gebouw in eigen gebruik dat vóór 1 januari 2024 reeds t
 
 ##### Artikel XL
 
-[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XXV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXV&z=2025-01-01&g=2025-01-01) opgenomen verhoging van de accijns.
+[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XXV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXV&z=2025-12-31&g=2025-12-31) opgenomen verhoging van de accijns.
 
 ##### Artikel XLI
 
@@ -338,37 +334,37 @@ Ingeval de samenloop van wetten die in 2023 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 
-- a. [artikel I, onderdelen D, O, P en Ub](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=I&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2023;
+- a. [artikel I, onderdelen D, O, P en Ub](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=I&z=2025-12-31&g=2025-12-31), terugwerkt tot en met 1 januari 2023;
 
-- b. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-01-01&g=2025-01-01), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2027 zijn toegepast;
+- b. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IV&z=2025-12-31&g=2025-12-31), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2027 zijn toegepast;
 
-- c. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-01-01&g=2025-01-01), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2028 zijn toegepast;
+- c. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=V&z=2025-12-31&g=2025-12-31), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2028 zijn toegepast;
 
-- d. [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-01-01&g=2025-01-01), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2029 zijn toegepast;
+- d. [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VI&z=2025-12-31&g=2025-12-31), toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2029 zijn toegepast;
 
-- e. [artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-01-01&g=2025-01-01) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2030 zijn toegepast;
+- e. [artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIa&z=2025-12-31&g=2025-12-31) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2030 zijn toegepast;
 
-- f. [artikel VIB](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIb&z=2025-01-01&g=2025-01-01) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2031 zijn toegepast;
+- f. [artikel VIB](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIb&z=2025-12-31&g=2025-12-31) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2031 zijn toegepast;
 
-- g. [artikel VIC](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIc&z=2025-01-01&g=2025-01-01) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2032 zijn toegepast;
+- g. [artikel VIC](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIc&z=2025-12-31&g=2025-12-31) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2032 zijn toegepast;
 
-- h. [artikel VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-01-01&g=2025-01-01) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2033 zijn toegepast;
+- h. [artikel VID](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VId&z=2025-12-31&g=2025-12-31) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2033 zijn toegepast;
 
-- i. [artikel VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-01-01&g=2025-01-01) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-01-01&g=2025-01-01), bij het begin van het kalenderjaar 2034 zijn toegepast;
+- i. [artikel VIE](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=VIe&z=2025-12-31&g=2025-12-31) toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel XXXV, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXV&z=2025-12-31&g=2025-12-31), bij het begin van het kalenderjaar 2034 zijn toegepast;
 
-- j. [artikel XIII, onderdelen A, B, Bb, C, D, E, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XIII&z=2025-01-01&g=2025-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2024;
+- j. [artikel XIII, onderdelen A, B, Bb, C, D, E, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XIII&z=2025-12-31&g=2025-12-31), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2024;
 
-- k. [artikel XXVIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXVIII&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 juli 2023;
+- k. [artikel XXVIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXVIII&z=2025-12-31&g=2025-12-31), terugwerkt tot en met 1 juli 2023;
 
-- l. [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXII&z=2025-01-01&g=2025-01-01) toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=II), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=X) en [XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XXVIII), [artikel XLV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLV), en [artikel LIII van het Belastingplan 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=LIII) worden toegepast;
+- l. [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXII&z=2025-12-31&g=2025-12-31) toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=II), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=X) en [XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XXVIII), [artikel XLV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLV), en [artikel LIII van het Belastingplan 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=LIII) worden toegepast;
 
-- m. [artikel XXXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXIIa&z=2025-01-01&g=2025-01-01) toepassing vindt voordat [artikel XXV, onderdeel A, onder 1, 1a en 3, van de Wet fiscale maatregelen Klimaatakkoord](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XXV) wordt toegepast.
+- m. [artikel XXXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXXIIa&z=2025-12-31&g=2025-12-31) toepassing vindt voordat [artikel XXV, onderdeel A, onder 1, 1a en 3, van de Wet fiscale maatregelen Klimaatakkoord](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XXV) wordt toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXIV&z=2025-01-01&g=2025-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXIV&z=2025-12-31&g=2025-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. In afwijking van het eerste lid treedt [artikel XXIII, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXIII&z=2025-01-01&g=2025-01-01), in werking met ingang van 1 juli 2024.
+3. In afwijking van het eerste lid treedt [artikel XXIII, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXIII&z=2025-12-31&g=2025-12-31), in werking met ingang van 1 juli 2024.
 
-4. In afwijking van het eerste lid treedt [artikel XXVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXVIIIa&z=2025-01-01&g=2025-01-01) in werking met ingang van 31 december 2025 of op een bij koninklijk besluit te bepalen eerder tijdstip.
+4. In afwijking van het eerste lid treedt [artikel XXVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=XXVIIIa&z=2025-12-31&g=2025-12-31) in werking met ingang van 31 december 2025 of op een bij koninklijk besluit te bepalen eerder tijdstip.
 
 ##### Artikel XLIII
 
