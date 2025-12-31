@@ -4,7 +4,7 @@ identifier: "BWBR0052033"
 country: "nl"
 rank: "wet"
 publication_date: "2025-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052033"
 soort: "wet"
@@ -54,11 +54,11 @@ Wijzigt de Wet minimumbelasting 2024.
 
 Deze wet treedt in werking met ingang van 31 december 2025, met dien verstande dat:
 
-- a. [artikel I, onderdelen A, B, D, onder 2, F, H, onder 2, I, J, K, L, onder 2 en 3, N, onder 1 en O, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2024-12-31), terugwerkt tot en met 31 december 2023 en voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2023;
+- a. [artikel I, onderdelen A, B, D, onder 2, F, H, onder 2, I, J, K, L, onder 2 en 3, N, onder 1 en O, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2025-12-31), terugwerkt tot en met 31 december 2023 en voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2023;
 
-- b. [artikel I, onderdeel M, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2024-12-31), terugwerkt tot en met 31 december 2024 en voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2024;
+- b. [artikel I, onderdeel M, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2025-12-31), terugwerkt tot en met 31 december 2024 en voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2024;
 
-- c. [artikel I, onderdelen C, D, onder 1, E, G, H, onder 1, L, onder 1 en 4, M, onder 2, N, onder 2, O, onder 1, P en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2024-12-31) voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2025.
+- c. [artikel I, onderdelen C, D, onder 1, E, G, H, onder 1, L, onder 1 en 4, M, onder 2, N, onder 2, O, onder 1, P en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0052033&artikel=I&z=2025-12-31&g=2025-12-31) voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2025.
 
 ##### Artikel III
 
