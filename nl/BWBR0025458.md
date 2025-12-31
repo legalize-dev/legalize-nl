@@ -4,7 +4,7 @@ identifier: "BWBR0025458"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025458"
 soort: "wet"
@@ -52,9 +52,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
-- **deltafonds:** fonds, bedoeld in [artikel 7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2024-01-01&g=2024-01-01);
+- **deltafonds:** fonds, bedoeld in [artikel 7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2025-12-31&g=2025-12-31);
 
-- **deltaprogramma:** programma, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=4a&artikel=4.9&z=2024-01-01&g=2024-01-01);
+- **deltaprogramma:** programma, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=4a&artikel=4.9&z=2025-12-31&g=2025-12-31);
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
 
@@ -528,7 +528,7 @@ Vervallen
 
 - **gebouwde onroerende zaak:** gebouwde onroerende zaak als bedoeld in [artikel 117, eerste lid, onder d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=117);
 
-- **heffingsambtenaar:** ambtenaar, bedoeld in [artikel 123, derde lid, onder b, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123) onderscheidenlijk ambtenaar, bedoeld in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2024-01-01&g=2024-01-01), die voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treedt van de inspecteur;
+- **heffingsambtenaar:** ambtenaar, bedoeld in [artikel 123, derde lid, onder b, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123) onderscheidenlijk ambtenaar, bedoeld in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2025-12-31&g=2025-12-31), die voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treedt van de inspecteur;
 
 - **ingezetene:** ingezetene als bedoeld in [artikel 116, onder a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=116);
 
@@ -536,7 +536,7 @@ Vervallen
 
 - **woonruimte:** een ruimte die blijkens zijn inrichting bestemd is om als een afzonderlijk geheel te voorzien in woongelegenheid en waarvan de delen blijkens de inrichting van die ruimte niet bestemd zijn om afzonderlijk in gebruik te worden gegeven.
 
-2. Voor de toepassing van de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&z=2024-01-01&g=2024-01-01) wordt de exclusieve economische zone niet tot enig oppervlaktewaterlichaam gerekend.
+2. Voor de toepassing van de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&z=2025-12-31&g=2025-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&z=2025-12-31&g=2025-12-31) wordt de exclusieve economische zone niet tot enig oppervlaktewaterlichaam gerekend.
 
 ##### Artikel 7.2
 
@@ -622,7 +622,7 @@ Vervallen
 
 1. De verontreinigingsheffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt door Onze Minister bij wege van aanslag geheven. De heffing wordt geheven over het kalenderjaar.
 
-2. Onverminderd het overigens in deze paragraaf bepaalde, wordt de in het eerste lid bedoelde heffing geheven met overeenkomstige toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86) en [87 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87).
+2. Onverminderd het overigens in deze paragraaf bepaalde, wordt de in het eerste lid bedoelde heffing geheven met overeenkomstige toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66a), [66b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66b), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86) en [87 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87).
 
 3. Voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) treedt Onze Minister in de plaats van Onze Minister van Financiën.
 
@@ -632,13 +632,13 @@ Vervallen
 
 ##### Artikel 7.11
 
-1. Indien een bedrijfs- of woonruimte of een zuiveringtechnisch werk bij meer dan één persoon in gebruik of beheer is, kan de heffingsambtenaar een belastingaanslag inzake de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2024-01-01&g=2024-01-01), bedoelde heffing ter zake van die ruimte of van dat zuiveringtechnisch werk ten name van één van die personen stellen.
+1. Indien een bedrijfs- of woonruimte of een zuiveringtechnisch werk bij meer dan één persoon in gebruik of beheer is, kan de heffingsambtenaar een belastingaanslag inzake de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2025-12-31&g=2025-12-31), bedoelde heffing ter zake van die ruimte of van dat zuiveringtechnisch werk ten name van één van die personen stellen.
 
-2. De heffingsambtenaar is bevoegd voor een zelfde in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&artikel=7.2&z=2024-01-01&g=2024-01-01), bedoelde heffingplichtige, bestemde belastingaanslagen van dezelfde soort op één aanslagbiljet te verenigen.
+2. De heffingsambtenaar is bevoegd voor een zelfde in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&artikel=7.2&z=2025-12-31&g=2025-12-31), bedoelde heffingplichtige, bestemde belastingaanslagen van dezelfde soort op één aanslagbiljet te verenigen.
 
 ##### Artikel 7.12
 
-De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treden van de ambtenaren van de rijksbelastingdienst, zijn, voor zover dit voor het heffen van de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2024-01-01&g=2024-01-01), bedoelde heffing redelijkerwijs nodig is, bevoegd:
+De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treden van de ambtenaren van de rijksbelastingdienst, zijn, voor zover dit voor het heffen van de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2025-12-31&g=2025-12-31), bedoelde heffing redelijkerwijs nodig is, bevoegd:
 
 - a. elke plaats met medeneming van de benodigde apparatuur, zo nodig met behulp van de sterke arm, met uitzondering van een woonruimte zonder toestemming van de gebruiker of de gebruikers, te betreden;
 
@@ -702,9 +702,9 @@ Vervallen
 
 - 1°. wijziging van krachtens [artikel 2.15, eerste lid, aanhef en onder d, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15) gestelde omgevingswaarden, de krachtens artikel 2.15, derde lid, van de Omgevingswet voor de toepassing van het eerste lid, onder d, van die wet gestelde regels, of de krachtens [artikel 20.3, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.3) over de uitvoering van de monitoring voor die omgevingswaarden gestelde regels;
 
-- 2°. de overgang van de op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) dan wel krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2024-01-01&g=2024-01-01), gestelde regels, zoals die luidden op 31 december 2016, naar de normen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=III&z=2024-01-01&g=2024-01-01) dan wel de krachtens artikel 2.3 gestelde regels, zoals die luidden per 1 januari 2017; of
+- 2°. de overgang van de op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2025-12-31&g=2025-12-31) dan wel krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-12-31&g=2025-12-31) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2025-12-31&g=2025-12-31), gestelde regels, zoals die luidden op 31 december 2016, naar de normen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=III&z=2025-12-31&g=2025-12-31) dan wel de krachtens artikel 2.3 gestelde regels, zoals die luidden per 1 januari 2017; of
 
-- 3°. wijziging van de krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2024-01-01&g=2024-01-01), gestelde regels, zoals deze artikelen luidden op 31 december 2016;
+- 3°. wijziging van de krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-12-31&g=2025-12-31) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2025-12-31&g=2025-12-31), gestelde regels, zoals deze artikelen luidden op 31 december 2016;
 
 - b. de maatregelen voor het kalenderjaar waarin de subsidie wordt verstrekt zijn opgenomen in een jaarlijks door Onze Minister vast te stellen programma; en
 
@@ -794,13 +794,13 @@ Vervallen
 
 ##### Artikel 10.3
 
-Indien voorafgaand aan de inwerkingtreding van de wet van 14 maart 2018 tot wijziging van de Waterwet en van de Wet maritiem beheer BES in verband met de uitvoering van de wijziging van het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (mariene geo-engineering) (Stb. 98) voor een activiteit als bedoeld in [artikel 6.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2024-01-01&g=2024-01-01), een watervergunning is verleend, berust deze op artikel 6.3, eerste lid, aanhef en onderdeel d, mits de activiteit in bijlage 4 bij het op 7 november 1996 te Londen tot stand gekomen Protocol bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (Trb. 1998, 134) is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
+Indien voorafgaand aan de inwerkingtreding van de wet van 14 maart 2018 tot wijziging van de Waterwet en van de Wet maritiem beheer BES in verband met de uitvoering van de wijziging van het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (mariene geo-engineering) (Stb. 98) voor een activiteit als bedoeld in [artikel 6.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-12-31&g=2025-12-31), een watervergunning is verleend, berust deze op artikel 6.3, eerste lid, aanhef en onderdeel d, mits de activiteit in bijlage 4 bij het op 7 november 1996 te Londen tot stand gekomen Protocol bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (Trb. 1998, 134) is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
 
 ##### Artikel 10.4
 
 1. Onze Minister zendt binnen vijf jaar na de volledige inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet.
 
-2. Onverminderd het eerste lid zendt Onze Minister vóór 1 januari 2025 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 7.23 tot en met 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2024-01-01&g=2024-01-01).
+2. Onverminderd het eerste lid zendt Onze Minister vóór 1 januari 2025 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 7.23 tot en met 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 10.5
 
@@ -922,9 +922,9 @@ Vervallen
 
 - a. wijziging van krachtens [artikel 2.15, eerste lid, aanhef en onder d, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15) gestelde omgevingswaarden, de krachtens artikel 2.15, derde lid, van de Omgevingswet voor de toepassing van het eerste lid, onder d, van die wet gestelde regels of de krachtens [artikel 20.3, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.3) over de uitvoering van de monitoring voor die omgevingswaarden gestelde regels;
 
-- b. de overgang van de op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) dan wel krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2024-01-01&g=2024-01-01), gestelde regels, zoals die luidden op 31 december 2016, naar de normen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=III&z=2024-01-01&g=2024-01-01) dan wel de krachtens artikel 2.3 gestelde regels, zoals die luidden per 1 januari 2017; of
+- b. de overgang van de op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2025-12-31&g=2025-12-31) dan wel krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-12-31&g=2025-12-31) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2025-12-31&g=2025-12-31), gestelde regels, zoals die luidden op 31 december 2016, naar de normen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=III&z=2025-12-31&g=2025-12-31) dan wel de krachtens artikel 2.3 gestelde regels, zoals die luidden per 1 januari 2017; of
 
-- c. wijziging van de krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2024-01-01&g=2024-01-01), gestelde regels, zoals deze artikelen luidden op 31 december 2016.
+- c. wijziging van de krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2025-12-31&g=2025-12-31) of [2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=4&artikel=2.12&z=2025-12-31&g=2025-12-31), gestelde regels, zoals deze artikelen luidden op 31 december 2016.
 
 2. De jaarlijkse bijdrage wordt berekend volgens de formule:
 
@@ -932,9 +932,9 @@ B = 0,50 x R1 (I/IT + WG/WGT) + 0,40 x R2 (I/IT + WG/WGT), waarin
 
 B voorstelt: de te berekenen bijdrage in euro’s;
 
-R1 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in [artikel 7.22c, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22c&z=2024-01-01&g=2024-01-01), ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor de maatregelen die zijn aangewezen krachtens [artikel 7.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2024-01-01&g=2024-01-01), en dat tezamen met R2 niet hoger is dan het in het vierde lid genoemde maximum;
+R1 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in [artikel 7.22c, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22c&z=2025-12-31&g=2025-12-31), ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor de maatregelen die zijn aangewezen krachtens [artikel 7.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2025-12-31&g=2025-12-31), en dat tezamen met R2 niet hoger is dan het in het vierde lid genoemde maximum;
 
-R2 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in [artikel 7.22c, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2024-01-01&g=2024-01-01), ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor maatregelen als bedoeld in het eerste lid, die niet zijn aangewezen krachtens [artikel 7.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2024-01-01&g=2024-01-01), en dat tezamen met R1 niet hoger is dan het in het vierde lid genoemde maximum;
+R2 voorstelt: een bedrag in euro’s dat gelijk is aan het bedrag dat ten laste van een begroting als bedoeld in [artikel 7.22c, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4&artikel=7.22&z=2025-12-31&g=2025-12-31), ten bate van de begroting van het desbetreffende jaar wordt toegevoegd aan het deltafonds ten behoeve van subsidies voor maatregelen als bedoeld in het eerste lid, die niet zijn aangewezen krachtens [artikel 7.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2025-12-31&g=2025-12-31), en dat tezamen met R1 niet hoger is dan het in het vierde lid genoemde maximum;
 
 I voorstelt: het aantal ingezetenen in het gebied van het waterschap op de peildatum;
 
@@ -952,13 +952,13 @@ WGT voorstelt: de som van de op basis van [hoofdstuk IV van de Wet waardering on
 
 - a. uitgaven van het Rijk ten behoeve van zodanige maatregelen, mits deze uitgaven de kosten van een subsidie voor zodanige maatregelen niet te boven gaan;
 
-- b. uitgaven of subsidies ten behoeve van een of meer andere maatregelen, al dan niet zijnde waterbeheermaatregelen, die tezamen een vergelijkbaar beschermingsniveau bieden, indien een maatregel als bedoeld in het eerste lid zeer kostbaar of maatschappelijk zeer ingrijpend is en de uitgaven of subsidies voor dergelijke andere maatregelen de kosten van een subsidie voor een maatregel als bedoeld in het eerste lid niet te boven gaan, waarbij zo nodig kan worden afgeweken van de [artikelen 7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2024-01-01&g=2024-01-01) en [7.22d](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22d&z=2024-01-01&g=2024-01-01);
+- b. uitgaven of subsidies ten behoeve van een of meer andere maatregelen, al dan niet zijnde waterbeheermaatregelen, die tezamen een vergelijkbaar beschermingsniveau bieden, indien een maatregel als bedoeld in het eerste lid zeer kostbaar of maatschappelijk zeer ingrijpend is en de uitgaven of subsidies voor dergelijke andere maatregelen de kosten van een subsidie voor een maatregel als bedoeld in het eerste lid niet te boven gaan, waarbij zo nodig kan worden afgeweken van de [artikelen 7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2025-12-31&g=2025-12-31) en [7.22d](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22d&z=2025-12-31&g=2025-12-31);
 
 - c. eenmalige subsidies voor maatregelen die nodig zijn om bij algemene maatregel van bestuur aan te wijzen andere dan primaire waterkeringen in overeenstemming te brengen met de omgevingswaarden, bedoeld in [artikel 2.13, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.13).
 
 ##### Artikel 7.25
 
-Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2024-01-01&g=2024-01-01), verschaft het dagelijks bestuur van een waterschap Onze Minister voor 1 maart van het kalenderjaar dat volgt op het kalenderjaar waarin de peildatum valt, de volgende gegevens:
+Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2025-12-31&g=2025-12-31), verschaft het dagelijks bestuur van een waterschap Onze Minister voor 1 maart van het kalenderjaar dat volgt op het kalenderjaar waarin de peildatum valt, de volgende gegevens:
 
 - a. het aantal ingezetenen in het gebied van het waterschap op de peildatum, en
 
@@ -966,7 +966,7 @@ Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artik
 
 ##### Artikel 7.26
 
-1. Onze Minister stelt de verplichting tot betaling van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2024-01-01&g=2024-01-01), jaarlijks voor 1 mei vast.
+1. Onze Minister stelt de verplichting tot betaling van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2025-12-31&g=2025-12-31), jaarlijks voor 1 mei vast.
 
 2. Indien de slotwet van de begroting van het deltafonds daartoe aanleiding geeft, wordt de verplichting tot betaling door Onze Minister gewijzigd.
 
@@ -1018,7 +1018,7 @@ De deltacommissaris verkrijgt ten behoeve van de totstandkoming en de uitvoering
 
 ##### Artikel 3.6d
 
-1. Ter uitvoering van [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2024-01-01&g=2024-01-01) voert de deltacommissaris regelmatig overleg met betrokken bestuursorganen van provincies, waterschappen en gemeenten.
+1. Ter uitvoering van [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2025-12-31&g=2025-12-31) voert de deltacommissaris regelmatig overleg met betrokken bestuursorganen van provincies, waterschappen en gemeenten.
 
 2. Aan het overleg kunnen, op uitnodiging, ook andere betrokken bestuursorganen deelnemen.
 
@@ -1068,7 +1068,7 @@ Tevens geeft het indicatief aan welke maatregelen of soorten van maatregelen in 
 
 6. Het deltaprogramma maakt zichtbaar op welke wijze daarmee bijgedragen wordt aan het bereiken van de aan waterveiligheid en zoetwatervoorziening gerelateerde hoofdzaken van het voor de fysieke leefomgeving te voeren integrale beleid zoals opgenomen in de nationale omgevingsvisie.
 
-7. In het deltaprogramma wordt aangegeven op welke wijze rekening is gehouden met het voorstel en de adviezen, bedoeld in [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2024-01-01&g=2024-01-01).
+7. In het deltaprogramma wordt aangegeven op welke wijze rekening is gehouden met het voorstel en de adviezen, bedoeld in [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 4.10
 
@@ -1160,7 +1160,7 @@ De ontvangsten van het deltafonds zijn:
 
 4. Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-5. Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in [artikel 7.22a, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2024-01-01&g=2024-01-01), alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel c, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.
+5. Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in [artikel 7.22a, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=4a&artikel=7.22a&z=2025-12-31&g=2025-12-31), alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel c, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.
 
 6. Ten laste van het deltafonds komen tevens uitgaven ten behoeve van het bureau ter ondersteuning van de werkzaamheden van de deltacommissaris, de huisvestingskosten van het bureau en verdere aan de taakvervulling van de deltacommissaris verbonden uitgaven.
 
@@ -1178,7 +1178,7 @@ De ontvangsten van het deltafonds zijn:
 
 ## Bijlage I. Primaire waterkeringen en dijktrajecten als bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2018-02-17&g=2018-02-17)
 
-## Bijlage I. Primaire waterkeringen en dijktrajecten als bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2024-01-01&g=2024-01-01)
+## Bijlage I. Primaire waterkeringen en dijktrajecten als bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2025-12-31&g=2025-12-31)
 
 ### A. Veiligheidsnormen behorende bij dijkringen, weergegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=I&z=2015-01-01&g=2015-01-01)
 
@@ -1210,7 +1210,7 @@ Vervallen
 
 ### Hoofdstuk 10. Slotbepalingen
 
-## Bijlage IA. Rijksdriehoekscoördinaten begrenzingen dijktrajecten als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2024-01-01&g=2024-01-01)
+## Bijlage IA. Rijksdriehoekscoördinaten begrenzingen dijktrajecten als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1&paragraaf=2&artikel=1.3&z=2025-12-31&g=2025-12-31)
 
 | Traject | Beginpunt | Beginpunt | Eindpunt | Eindpunt |   |
 | --- | --- | --- | --- | --- | --- |
@@ -1457,7 +1457,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-## Bijlage II. Normen voor dijktrajecten als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) (signaleringswaarden)
+## Bijlage II. Normen voor dijktrajecten als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2025-12-31&g=2025-12-31) (signaleringswaarden)
 
 | Traject | Overstromingskans als bedoeld in artikel 2.2 eerste lid, tweede zin, aanhef en onderdeel a | Faalkans als bedoeld in artikel 2.2, eerste lid, tweede zin, aanhef en onderdeel b |
 | --- | --- | --- |
@@ -1703,7 +1703,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Vervallen
 
-## Bijlage III. Normen voor dijktrajecten als bedoeld in [artikel 2.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) (ondergrenzen)
+## Bijlage III. Normen voor dijktrajecten als bedoeld in [artikel 2.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2025-12-31&g=2025-12-31) (ondergrenzen)
 
 | Traject | Overstromingskans als bedoeld in artikel 2.2, tweede lid, tweede zin, aanhef en onderdeel a | Faalkans als bedoeld in artikel 2.2, tweede lid, tweede zin, aanhef en onderdeel b | Overstromingskans als bedoeld in artikel 2.2, tweede lid, tweede zin, aanhef en onderdeel c | Overstromingskans als bedoeld in artikel 2.2, derde lid, aanhef en onderdeel a | Kans op niet-sluiten als bedoeld in artikel 2.2, derde lid, aanhef en onderdeel b |
 | --- | --- | --- | --- | --- | --- |
