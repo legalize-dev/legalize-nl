@@ -4,7 +4,7 @@ identifier: "BWBR0046159"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-31"
-last_updated: "2022-04-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046159"
 soort: "AMvB"
@@ -108,9 +108,9 @@ Dit besluit wordt aangehaald als: Besluit bekostiging WPO 2022.
 
 ##### Artikel 42. Inwerkingtreding
 
-1. Dit besluit treedt, met uitzondering van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=8&artikel=35&z=2022-04-01&g=2022-04-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Dit besluit treedt, met uitzondering van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=8&artikel=35&z=2025-12-31&g=2025-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=8&artikel=35&z=2022-04-01&g=2022-04-01) van dit besluit treedt in werking met ingang van 1 februari 2022.
+2. [Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=8&artikel=35&z=2025-12-31&g=2025-12-31) van dit besluit treedt in werking met ingang van 1 februari 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -118,7 +118,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 In dit besluit wordt verstaan onder:
 
-- **achterstandsscore:** overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) berekende score van een basisschool, niet zijnde een school als bedoeld in [artikel 193 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193), voor de toekenning van aanvullende bekostiging voor de bestrijding van onderwijsachterstanden.
+- **achterstandsscore:** overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=18&z=2025-12-31&g=2025-12-31) berekende score van een basisschool, niet zijnde een school als bedoeld in [artikel 193 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193), voor de toekenning van aanvullende bekostiging voor de bestrijding van onderwijsachterstanden.
 
 - **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
 
@@ -322,7 +322,7 @@ In dit besluit wordt verstaan onder:
 
 - b. op de teldatum op grond van artikel 4.1 van het Inrichtingsbesluit WPO tijdelijk buiten de school waar zij staan ingeschreven zijn geplaatst.
 
-2. Onze Minister neemt voor het bepalen van het aantal leerlingen op de teldatum en het aantal leerlingen op de eerste dag van de maand, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=16&z=2022-04-01&g=2022-04-01), de leerlingen in aanmerking van wie het persoonsgebonden nummer tezamen met de basisgegevens, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8) binnen vier weken na die dag zijn opgenomen in het register onderwijsdeelnemers overeenkomstig [artikel 14 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14).
+2. Onze Minister neemt voor het bepalen van het aantal leerlingen op de teldatum en het aantal leerlingen op de eerste dag van de maand, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=16&z=2025-12-31&g=2025-12-31), de leerlingen in aanmerking van wie het persoonsgebonden nummer tezamen met de basisgegevens, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8) binnen vier weken na die dag zijn opgenomen in het register onderwijsdeelnemers overeenkomstig [artikel 14 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14).
 
 3. De termijn, bedoeld in het tweede lid, kan worden verlengd. Bij ministeriële regeling worden regels gesteld over de verlenging.
 
@@ -330,11 +330,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Overzicht aantal leerlingen
 
-1. Onze Minister stelt jaarlijks een overzicht vast van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=1&artikel=13&z=2022-04-01&g=2022-04-01), in aanmerking wordt genomen.
+1. Onze Minister stelt jaarlijks een overzicht vast van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-12-31&g=2025-12-31), in aanmerking wordt genomen.
 
-2. Het overzicht wordt uiterlijk acht weken na de teldatum toegezonden aan het bevoegd gezag. Indien toepassing is gegeven aan [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=7&z=2022-04-01&g=2022-04-01), wordt het overzicht uiterlijk vier weken na afloop van de daar bedoelde verlengde termijn toegezonden aan het bevoegd gezag.
+2. Het overzicht wordt uiterlijk acht weken na de teldatum toegezonden aan het bevoegd gezag. Indien toepassing is gegeven aan [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=7&z=2025-12-31&g=2025-12-31), wordt het overzicht uiterlijk vier weken na afloop van de daar bedoelde verlengde termijn toegezonden aan het bevoegd gezag.
 
-3. Het overzicht is voor basisscholen in ieder geval onderverdeeld in leerlingen als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=15&z=2022-04-01&g=2022-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=19&z=2022-04-01&g=2022-04-01) en overige leerlingen.
+3. Het overzicht is voor basisscholen in ieder geval onderverdeeld in leerlingen als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=15&z=2025-12-31&g=2025-12-31) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-12-31&g=2025-12-31) en overige leerlingen.
 
 4. Het overzicht is voor speciale scholen voor basisonderwijs onderverdeeld in leerlingen met een niet-Nederlandse culturele achtergrond en overige leerlingen.
 
@@ -372,9 +372,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 12. Bewaren gegevens
 
-1. De gegevens, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=11&z=2022-04-01&g=2022-04-01), worden in ieder geval gedurende vijf jaar nadat de desbetreffende leerling van de school is uitgeschreven in de leerlingenadministratie bewaard.
+1. De gegevens, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=11&z=2025-12-31&g=2025-12-31), worden in ieder geval gedurende vijf jaar nadat de desbetreffende leerling van de school is uitgeschreven in de leerlingenadministratie bewaard.
 
-2. De gegevens, bedoeld in [artikel 11, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=11&z=2022-04-01&g=2022-04-01), worden binnen acht weken na het verstrijken van de termijn, bedoeld in het eerste lid, vernietigd.
+2. De gegevens, bedoeld in [artikel 11, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=11&z=2025-12-31&g=2025-12-31), worden binnen acht weken na het verstrijken van de termijn, bedoeld in het eerste lid, vernietigd.
 
 ### Hoofdstuk 4. Vaststelling bekostiging en extra bekostiging
 
@@ -384,7 +384,7 @@ In dit besluit wordt verstaan onder:
 
 1. Onze Minister stelt jaarlijks uiterlijk op 1 januari de bekostiging, bedoeld in de [artikelen 116, tweede lid en vierde lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), en [121 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), vast voor zover deze mede gebaseerd is op het aantal leerlingen op de teldatum.
 
-2. Onze Minister stelt de extra bekostiging voor groei, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=16&z=2022-04-01&g=2022-04-01) vast binnen 14 weken na de voor de desbetreffende bekostiging relevante teldatum.
+2. Onze Minister stelt de extra bekostiging voor groei, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=16&z=2025-12-31&g=2025-12-31) vast binnen 14 weken na de voor de desbetreffende bekostiging relevante teldatum.
 
 3. Onze Minister kan de bekostiging, bedoeld in het eerste en tweede lid, wijzigen vanwege loonontwikkelingen of andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -400,7 +400,7 @@ In dit besluit wordt verstaan onder:
 
 2. De extra bekostiging, bedoeld in het eerste lid, bestaat uit het verschil tussen een startbedrag en een verminderingsbedrag vermenigvuldigd met het aantal leerlingen van de basisschool op de teldatum. Het startbedrag en het verminderingsbedrag worden bij ministeriële regeling vastgesteld.
 
-3. Indien de totale bekostiging berekend op grond van [artikel 116, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) vermeerderd met de bekostiging, bedoeld in het eerste lid en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01), voor een basisschool minder bedraagt dan het basisbedrag, ontvangt de basisschool het verschil als extra bekostiging.
+3. Indien de totale bekostiging berekend op grond van [artikel 116, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) vermeerderd met de bekostiging, bedoeld in het eerste lid en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=18&z=2025-12-31&g=2025-12-31), voor een basisschool minder bedraagt dan het basisbedrag, ontvangt de basisschool het verschil als extra bekostiging.
 
 4. Het basisbedrag, bedoeld in het derde lid, wordt bij ministeriële regeling vastgesteld en is gebaseerd op een minimale schoolgrootte van 23 leerlingen.
 
@@ -442,9 +442,9 @@ Z = 4% van het aantal leerlingen, bedoeld bij factor Y.
 
 - b. 60% van het verschil tussen:
 
-- 1°. de som van de extra bekostiging voor kleine scholen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2022-04-01&g=2022-04-01), die de hoofdvestiging en de nevenvestigingen als zelfstandige scholen tezamen zouden ontvangen; en
+- 1°. de som van de extra bekostiging voor kleine scholen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2025-12-31&g=2025-12-31), die de hoofdvestiging en de nevenvestigingen als zelfstandige scholen tezamen zouden ontvangen; en
 
-- 2°. de extra bekostiging voor kleine scholen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2022-04-01&g=2022-04-01), die de basisschool ontvangt.
+- 2°. de extra bekostiging voor kleine scholen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2025-12-31&g=2025-12-31), die de basisschool ontvangt.
 
 2. Indien een speciale school voor basisonderwijs bestaat uit een hoofdvestiging en een of meer nevenvestigingen, wordt de bekostiging vermeerderd met een vast bedrag per nevenvestiging.
 
@@ -546,11 +546,11 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 1. In geval van voortijdige beëindiging van een samenwerkingsovereenkomst wordt voor elk kalenderjaar, of gedeelte daarvan, dat een bijzondere school dan wel een openbare school op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 143, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=143), in stand werd gehouden, door het Rijk een bedrag ingehouden op de bekostiging van de school.
 
-2. Het bedrag, bedoeld in het eerste lid, is de som van de bekostiging, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2022-04-01&g=2022-04-01), in elk van die kalenderjaren of gedeelten daarvan. Indien de school niet het gehele kalenderjaar werd bekostigd, wordt daarbij de bekostiging, bedoeld in artikel 14 berekend naar rato van het aantal maanden dat de school in dat kalenderjaar op grond van de samenwerkingsovereenkomst in stand werd gehouden.
+2. Het bedrag, bedoeld in het eerste lid, is de som van de bekostiging, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=14&z=2025-12-31&g=2025-12-31), in elk van die kalenderjaren of gedeelten daarvan. Indien de school niet het gehele kalenderjaar werd bekostigd, wordt daarbij de bekostiging, bedoeld in artikel 14 berekend naar rato van het aantal maanden dat de school in dat kalenderjaar op grond van de samenwerkingsovereenkomst in stand werd gehouden.
 
 3. Voor elk kalenderjaar, of gedeelte daarvan, dat een bijzondere dan wel een openbare nevenvestiging op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 143, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=143), in stand werd gehouden, wordt door het Rijk een bedrag ingehouden op de bekostiging van de nevenvestiging.
 
-4. Het bedrag, bedoeld in het derde lid, is de bekostiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), in elk van die kalenderjaren, of gedeelten daarvan. Indien de nevenvestiging niet het gehele kalenderjaar werd bekostigd, wordt daarbij de bekostiging, bedoeld in artikel 17 berekend naar rato van het aantal maanden dat de nevenvestiging in dat kalenderjaar op grond van de samenwerkingsovereenkomst in stand werd gehouden.
+4. Het bedrag, bedoeld in het derde lid, is de bekostiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=2&artikel=17&z=2025-12-31&g=2025-12-31), in elk van die kalenderjaren, of gedeelten daarvan. Indien de nevenvestiging niet het gehele kalenderjaar werd bekostigd, wordt daarbij de bekostiging, bedoeld in artikel 17 berekend naar rato van het aantal maanden dat de nevenvestiging in dat kalenderjaar op grond van de samenwerkingsovereenkomst in stand werd gehouden.
 
 ### Hoofdstuk 6. Bekostigingscorrecties
 
@@ -578,7 +578,7 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 1. Het subsidiebedrag dat wordt verstrekt aan de rechtspersoon, bedoeld in [artikel 192, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=192), bestaat uit een bedrag dat is bestemd voor personeelskosten voor de leraren die het godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs verzorgen, en een bedrag dat is bestemd voor overige kosten.
 
-2. Het bedrag dat is bestemd voor personeelskosten kan met maximaal 2% per jaar stijgen ten opzichte van het meest recent vastgestelde subsidiebedrag dat is bestemd voor personeelskosten.
+2. Vervallen.
 
 3. Het tweede lid vervalt met ingang van 31 december 2025.
 
