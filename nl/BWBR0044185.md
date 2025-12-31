@@ -4,7 +4,7 @@ identifier: "BWBR0044185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2025-01-01"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044185"
 soort: "ministeriele-regeling"
@@ -80,21 +80,21 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 1. De subsidie voor het verzorgen van een opleiding tot abortusarts bedraagt maximaal:
 
-- a. € 88.122 per opleidingsplaats eerste trimester abortusarts;
+- a. € 92.736 per opleidingsplaats eerste trimester abortusarts;
 
-- b. € 169.489 per opleidingsplaats tweede trimester A abortusarts;
+- b. € 178.368 per opleidingsplaats tweede trimester A abortusarts;
 
-- c. € 201.226 per opleidingsplaats tweede trimester B abortusarts.
+- c. € 211.767 per opleidingsplaats tweede trimester B abortusarts.
 
 2. De subsidie voor het verzorgen van een opleiding tot sedationist bedraagt maximaal:
 
-- a. € 10.558 per opleidingsplaats voor een eerste trimester opleideling;
+- a. € 11.086 per opleidingsplaats voor een eerste trimester opleideling;
 
-- b. € 17.670 per opleidingsplaats voor een eerste trimester abortusarts;
+- b. € 18.571 per opleidingsplaats voor een eerste trimester abortusarts;
 
-- c. € 21.385 per opleidingsplaats voor een tweede trimester A abortusarts;
+- c. € 22.480 per opleidingsplaats voor een tweede trimester A abortusarts;
 
-- d. € 23.676 per opleidingsplaats voor een tweede trimester B abortusarts.
+- d. € 24.891 per opleidingsplaats voor een tweede trimester B abortusarts.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
@@ -142,7 +142,7 @@ De abortuskliniek is voor de duur van de subsidie in het bezit van een geldige e
 
 1. De aanvraag tot vaststelling wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
-2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het tweede lid.
+2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
 ##### Artikel 12. Vaststelling
 
@@ -154,7 +154,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2026.
+Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2031.
 
 ##### Artikel 15. Citeertitel
 
