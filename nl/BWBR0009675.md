@@ -4,7 +4,7 @@ identifier: "BWBR0009675"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2019-12-14"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009675"
 soort: "AMvB"
@@ -98,19 +98,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Het is verboden vlees, wildezwijnenvlees, separatorvlees, gehakt vlees, vleesbereidingen, gehakt, en vleesproducten, te bereiden of te verhandelen die niet voldoen aan de bij of krachtens dit besluit met betrekking tot hun samenstelling gestelde eisen.
+1. Het is verboden vlees, wilde zwijnenvlees, separatorvlees, gehakt vlees, vleesbereidingen, gehakt en vleesproducten te bereiden, te behandelen, te bewerken, te verwerken, te verpakken, te bewaren, te vervoeren of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
-2. Het is verboden vleesbereidingen en gehakt vlees te bereiden, te behandelen, te bewerken, of te verwerken anders dan met inachtneming van de krachtens dit besluit gestelde voorschriften.
+2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen en vermeldingen andere waren te verhandelen dan die waaraan die aanduidingen en vermeldingen bij dit besluit zijn voorbehouden.
 
-3. Het is verboden vleesbereidingen en gehakt vlees te bereiden, te behandelen, te bewerken, of te verwerken anders dan in werkplaatsen die krachtens dit besluit zijn erkend.
-
-4. Het is verboden vleesbereidingen en gehakt vlees te verhandelen, niet zijnde verhandeling aan de eindverbruiker, anders dan in een verpakking die voldoet aan de krachtens dit besluit gestelde eisen.
-
-5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
-
-6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2019-12-14&g=2019-12-14).
-
-7. Het is verboden te handelen in strijd met artikel 11, eerste streepje, artikel 13, eerste, tweede en vijfde lid, artikel 14, of artikel 15, van [verordening (EG) 1760/2000](32000R1760), of met artikel 1, artikel 2, tweede lid, artikel 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
+3. Het is verboden te handelen in strijd met de artikelen 11, 13, eerste, tweede en vijfde lid, 14, 15 en 15bis van [verordening (EG) 1760/2000](32000R1760) en met de artikelen 1, 2, tweede lid, 4, eerste en tweede lid, 5bis, eerste lid, 5ter, 5quater, eerste en tweede lid, en 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
 
 #### § 2a:. implementatie [richtlijn 94/65/EG](31994L0065) – voorschriften inzake de productie en het in de handel brengen van vleesbereidingen en gehakt vlees
 
@@ -150,11 +142,11 @@ wordt niet bereid, verhandeld of verwerkt in eet- of drinkwaren.
 
 ##### Artikel 3b
 
-Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zijn “.” .
+Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees.
 
 ##### Artikel 4
 
-1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2019-12-14&g=2019-12-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2019-12-14&g=2019-12-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2019-12-14&g=2019-12-14),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2019-12-14&g=2019-12-14) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2019-12-14&g=2019-12-14) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -230,7 +222,7 @@ De vermelding **mager** of **magere** mag worden gebezigd bij:
 
 ##### Artikel 14
 
-Onze Minister is de bevoegde autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onderdeel a, van [verordening (EG) 1825/2000](32000R1825).
+Onze Minister is de bevoegde autoriteit, bedoeld in artikel 22bis van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onderdeel a, van [verordening (EG) 1825/2000](32000R1825).
 
 ##### Artikel 15
 
