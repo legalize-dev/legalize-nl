@@ -4,7 +4,7 @@ identifier: "BWBR0041248"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041248"
 soort: "zbo"
@@ -38,7 +38,7 @@ Gelet op de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artik
 
 - 1.1. **Stoppen-met-rokenprogramma** Zorg zoals huisartsen, medisch specialisten, verloskundigen en klinisch psychologen die bieden en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken. De programmatische aanpak bij stoppen met roken bestaat altijd uit begeleiding gericht op gedragsverandering en wordt indien nodig aangevuld met farmacologische ondersteuning. De zorgmodule Stoppen met Roken en de richtlijn Behandeling van tabaksverslaving en stoppen met roken ondersteuning worden hierbij als uitgangspunt gehanteerd.
 
-- 1.2. **Zorgaanbieder** De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) voor zover deze zorg aanbiedt als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041248&artikel=3&z=2019-01-01&g=2019-01-01) van deze regeling.
+- 1.2. **Zorgaanbieder** De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) voor zover deze zorg aanbiedt als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041248&artikel=3&z=2026-01-01&g=2026-01-01) van deze regeling.
 
 - 1.3. **Zorgmodule** De zorgmodule Stoppen met Roken is een generieke module opgesteld door de stichting Partnership Stop met roken die de norm voor de zorg bij de zorgvraag stoppen met roken functioneel omschrijft.De zorgmodule bevat een zorginhoudelijke en organisatorische uitwerking van het programma. De module dient om cliënten inzicht te geven in kwaliteitsnormen en faciliteert verzekeraars en aanbieders bij het sluiten van overeenkomsten.
 
@@ -74,7 +74,7 @@ Voor de prestatie stoppen-met-rokenprogramma geldt een vrij tarief.
 
 4.2. **Declaratie door hoofdcontractant**
 
-De hoofdcontractant kan, met inachtneming van onderstaande bepalingen, de prestatie als omschreven in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041248&artikel=1&z=2019-01-01&g=2019-01-01) van deze regeling na beëindiging van het zorgprogramma in rekening brengen bij de zorgverzekeraar of de cliënt aan wie de prestatie is geleverd.
+De hoofdcontractant kan, met inachtneming van onderstaande bepalingen, de prestatie als omschreven in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041248&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling na beëindiging van het zorgprogramma in rekening brengen bij de zorgverzekeraar of de cliënt aan wie de prestatie is geleverd.
 
 De peildatum voor vergoeding en tariefbepaling is de startdatum waarop de cliënt ‘in zorg’ treedt.
 
@@ -87,6 +87,8 @@ De prestatie stoppen-met-rokenprogramma kan door de hoofdcontractant in rekening
 Indien sprake is van onderlinge dienstverlening verdeeld de hoofdcontractant het tarief onder bij de betrokken zorgaanbieders, volgens de (contract)afspraken die hij met hen heeft gemaakt.
 
 De uitvoerende zorgaanbieder die (een deel van) het stoppen-met-rokenprogramma levert in het kader van onderlinge dienstverlening declareert deze zorg aan de hoofdcontractant.
+
+De betrokken zorgaanbieders leveren elkaar de daarvoor benodigde persoonsgegevens aan.
 
 De tarieven voor onderlinge dienstverlening in het kader van de prestatie stoppen-met-rokenprogramma zijn vrije tarieven.
 
