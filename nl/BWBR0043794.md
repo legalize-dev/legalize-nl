@@ -4,7 +4,7 @@ identifier: "BWBR0043794"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2020-07-04"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043794"
 soort: "beleidsregel"
@@ -44,25 +44,25 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- −. **afnemer:** afnemer op wie het verbod van toepassing is;
+- –. **aangeslotene:** aangeslotene op het transmissie- of distributiesysteem van gas op wie het verbod van toepassing is;
 
 - −. **brutowinstpercentage:** omzet minus inkoopwaarde van de afzet op jaarbasis, uitgedrukt in een percentage van de omzet;
 
-- −. **minister:** Minister van Economische Zaken en Klimaat;
+- –. **minister:** Minister van Klimaat en Groene Groei;
 
 - −. **normjaaromzet:** gemiddelde omzet op jaarbasis, berekend over de drie jaren voorafgaand aan het jaar waarin is omgeschakeld of afgesloten;
 
 - −. **normbrutowinstpercentage:** gemiddeld brutowinstpercentage, berekend over de drie jaren voorafgaand aan het jaar waarin is omgeschakeld of afgesloten;
 
-- −. **omschakelen:** omschakelen als bedoeld in [artikel 1, eerste lid, onderdeel bd, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
+- −. **omschakelen:** omschakelen als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- −. **verbod:** verbod als bedoeld in [artikel 10g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g);
+- −. **verbod:** verbod als bedoeld in [artikel 2.63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63);
 
-- −. **wet:** [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440).
+- –. **wet:** [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
 
 ##### Artikel 2. Soorten schade
 
-1. De minister stelt vast of schade als bedoeld in [artikel 10m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) eenmalig of tijdelijk is, of jaarlijks terugkeert.
+1. De minister stelt vast of schade als bedoeld in [artikel 5.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) eenmalig of tijdelijk is, of jaarlijks terugkeert.
 
 2. Schade als bedoeld in het eerste lid die jaarlijks terugkeert, kan voor vergoeding in aanmerking komen volgens de formule: jaarlijks nadeel als gevolg van het verbod x 5, waarbij voor:
 
@@ -76,7 +76,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3. Normaal ondernemersrisico
 
-1. De minister bepaalt het normale maatschappelijke risico, bedoeld in [artikel 10m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m), volgens de formule: (normjaaromzet x normbrutowinstpercentage) x n x 0,1, waarin n, al naar gelang het normbrutowinstpercentage van de onderneming van de afnemer, bedraagt:
+1. De minister bepaalt het normale maatschappelijke risico, bedoeld in [artikel 5.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15), volgens de formule: (normjaaromzet x normbrutowinstpercentage) x n x 0,1, waarin n, al naar gelang het normbrutowinstpercentage van de onderneming van de afnemer, bedraagt:
 
 | Normbrutowinstpercentage | ‘n’ |
 | --- | --- |
@@ -88,15 +88,15 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 4. Risicoaanvaarding
 
-Van risicoaanvaarding als bedoeld in [artikel 10m, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) is sprake als:
+Van risicoaanvaarding als bedoeld in [artikel 5.15, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.5) is sprake als:
 
-- a. het ontstaan van die schade voor de afnemer redelijkerwijs voorzienbaar was ten tijde van de investeringsbeslissing, tenzij redelijkerwijs niet anders van de afnemer kon worden verwacht;
+- a. het ontstaan van die schade voor de aangeslotene redelijkerwijs voorzienbaar was ten tijde van de investeringsbeslissing, tenzij redelijkerwijs niet anders van de aangeslotene kon worden verwacht;
 
-- b. een afnemer heeft nagelaten zijn belang te verwezenlijken toen hij daartoe redelijkerwijs in de gelegenheid was, terwijl hij redelijkerwijs kon voorzien dat een maatregel genomen zou worden die aan verwezenlijking daarvan in de weg zou te staan.
+- b. een aangeslotene heeft nagelaten zijn belang te verwezenlijken toen hij daartoe redelijkerwijs in de gelegenheid was, terwijl hij redelijkerwijs kon voorzien dat een maatregel genomen zou worden die aan verwezenlijking daarvan in de weg zou te staan.
 
 ##### Artikel 5. Vergoeding
 
-Indien de minister een vergoeding als bedoeld in [artikel 10m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) toekent, vergoedt de minister ook:
+Indien de minister een vergoeding als bedoeld in [artikel 5.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) toekent, vergoedt de minister ook:
 
 - a. redelijke kosten ter voorkoming of beperking van schade;
 
@@ -106,11 +106,11 @@ Indien de minister een vergoeding als bedoeld in [artikel 10m van de wet](https:
 
 ##### Artikel 6. Schadebeperking
 
-Tot een omstandigheid die aan de afnemer kan worden toegerekend als bedoeld in [artikel 10m, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) wordt in elk geval de omstandigheid gerekend dat schade ontstaat doordat een afnemer niet alle gegevens of niet de juiste gegevens als bedoeld in [artikel 10g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g), heeft verstrekt, terwijl die gegevens ten tijde van de melding wel bij de afnemer bekend waren of redelijkerwijs bekend hadden kunnen zijn.
+Tot een omstandigheid die aan de aangeslotene kan worden toegerekend als bedoeld in [artikel 5.15, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) wordt in elk geval de omstandigheid gerekend dat schade ontstaat doordat een aangeslotene niet alle gegevens of niet de juiste gegevens als bedoeld in [artikel 2.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63), heeft verstrekt, terwijl die gegevens ten tijde van de melding wel bij de aangeslotene bekend waren of redelijkerwijs bekend hadden kunnen zijn.
 
 ##### Artikel 7. Verzekerde schade
 
-Vergoeding van schade is in elk geval anderszins verzekerd als bedoeld in [artikel 10m, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m), indien de schade voortvloeit uit het verrichten van activiteiten met het oog waarop aan de afnemer subsidie is verleend.
+Vergoeding van schade is in elk geval anderszins verzekerd als bedoeld in [artikel 5.15, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15), indien de schade voortvloeit uit het verrichten van activiteiten met het oog waarop aan de aangeslotene subsidie is verleend.
 
 ##### Artikel 8. Deskundigenadvies
 
@@ -123,5 +123,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Beleidsregel nadeelcompensatie verbod laagcalorisch gas grootste afnemers.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Uitbreiding grondslag
+
+Deze beleidsregel berust mede op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
