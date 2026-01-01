@@ -4,7 +4,7 @@ identifier: "BWBR0049322"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049322"
 soort: "wet"
@@ -49,15 +49,15 @@ In deze wet wordt verstaan onder:
 
 - **broeikasgas:** CO2 of een van de andere broeikasgassen als bedoeld in de begripsomschrijving van broeikasgassen, in [artikel 1 van de Klimaatwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&artikel=1);
 
-- **fonds:** Klimaatfonds als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2024-07-01&g=2024-07-01);
+- **fonds:** Klimaat- en energiefonds als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- **meerjarenprogramma:** Meerjarenprogramma Klimaatfonds als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=4&z=2024-07-01&g=2024-07-01);
+- **meerjarenprogramma:** Meerjarenprogramma Klimaat- en energiefonds als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- **Onze Minister:** Onze Minister voor Klimaat en Energie.
+- **Onze Minister:** Onze Minister van Klimaat en Groene Groei.
 
 ##### Artikel 2. Instelling en doel van het fonds
 
-1. Er is een Klimaatfonds.
+1. Er is een Klimaat- en energiefonds.
 
 2. Het fonds heeft als doel het faciliteren van maatregelen die bijdragen aan het terugdringen van emissies van broeikasgassen tot de niveaus, bedoeld in [artikel 2, eerste en tweede lid, van de Klimaatwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&artikel=2), en bijdragen aan de transitie naar een klimaatneutrale energievoorziening, economie en samenleving en om bij te dragen aan een rechtvaardige klimaattransitie door middel van het beschikbaar stellen van financiële middelen voor:
 
@@ -77,7 +77,7 @@ In deze wet wordt verstaan onder:
 
 2. Onze Minister beheert het fonds.
 
-3. Onze Minister beoordeelt de maatregelen die overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2024-07-01&g=2024-07-01), gefaciliteerd kunnen worden onder meer met betrekking tot:
+3. Onze Minister beoordeelt de maatregelen die overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2026-01-01&g=2026-01-01), gefaciliteerd kunnen worden onder meer met betrekking tot:
 
 - a. de overeenstemming met het klimaatplan, bedoeld in [artikel 3 van de Klimaatwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&artikel=3);
 
@@ -91,15 +91,15 @@ In deze wet wordt verstaan onder:
 
 5. Onze Minister die het aangaat overlegt het ontwerp van een algemene maatregel van bestuur of van een ministeriële regeling voor een maatregel die voor facilitering door het fonds in aanmerking komt aan beide Kamers der Staten Generaal, voor zover de wens daartoe door of namens een der Kamers der Staten-Generaal of door ten minste een derde van het grondwettelijk aantal leden van een der Kamers bij de behandeling van een meerjarenprogramma te kennen is gegeven. De voordracht voor de desbetreffende algemene maatregel van bestuur of de vaststelling van de desbetreffende ministeriële regeling gebeurt niet eerder dan vier weken nadat het ontwerp is overgelegd.
 
-##### Artikel 4. Meerjarenprogramma Klimaatfonds
+##### Artikel 4. Meerjarenprogramma Klimaat- en energiefonds
 
-1. Onze Minister biedt jaarlijks gelijktijdig met het voorstel van wet tot vaststelling van de begrotingsstaat van het fonds een Meerjarenprogramma Klimaatfonds aan de Staten-Generaal aan.
+1. Onze Minister biedt jaarlijks gelijktijdig met het voorstel van wet tot vaststelling van de begrotingsstaat van het fonds een Meerjarenprogramma Klimaat- en energiefonds aan de Staten-Generaal aan.
 
 2. Het meerjarenprogramma verschaft informatie over de meerjarige financiële verplichtingen van het fonds om het doel van het fonds te realiseren.
 
 3. Het meerjarenprogramma maakt zichtbaar welke uitgaven ten laste komen van middelen uit het fonds, naar welk begrotingsartikel van een andere begroting van het Rijk als bedoeld in [artikel 2.1, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) deze middelen worden overgeheveld en wat de daaruit voortvloeiende uitgaven voor afzonderlijke projecten, projectpakketten en subsidieregelingen zijn.
 
-4. Het meerjarenprogramma geeft inzicht in de beoordeling van de maatregelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2024-07-01&g=2024-07-01), aan de criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=3&z=2024-07-01&g=2024-07-01), en in de stand van de uitvoering van afzonderlijke maatregelen die het fonds faciliteert, en bevat een overzicht van de wijzigingen ten opzichte van het voorgaande jaar.
+4. Het meerjarenprogramma geeft inzicht in de beoordeling van de maatregelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=2&z=2026-01-01&g=2026-01-01), aan de criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=3&z=2026-01-01&g=2026-01-01), en in de stand van de uitvoering van afzonderlijke maatregelen die het fonds faciliteert, en bevat een overzicht van de wijzigingen ten opzichte van het voorgaande jaar.
 
 ##### Artikel 5. Ontvangsten van het fonds
 
@@ -117,7 +117,7 @@ De ontvangsten van het fonds zijn:
 
 1. In het kader van het bereiken van het doel van het fonds komen bijdragen aan andere begrotingen van het Rijk als bedoeld in [artikel 2.1, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) ten laste van het fonds.
 
-2. Bijdragen als bedoeld in het eerste lid die niet zijn besteed, komen als bijdrage als bedoeld in [artikel 5, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=5&z=2024-07-01&g=2024-07-01), ten bate van het fonds. Onze Minister beslist gezamenlijk met Onze Minister die het aangaat over het overhevelen van de desbetreffende bijdragen naar het fonds.
+2. Bijdragen als bedoeld in het eerste lid die niet zijn besteed, komen als bijdrage als bedoeld in [artikel 5, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=5&z=2026-01-01&g=2026-01-01), ten bate van het fonds. Onze Minister beslist gezamenlijk met Onze Minister die het aangaat over het overhevelen van de desbetreffende bijdragen naar het fonds.
 
 3. In aanvulling op [artikel 2.31 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.31) biedt het jaarverslag van het fonds tevens inzicht in de uitvoering en mogelijke knelpunten van de afzonderlijke maatregelen die door het fonds worden gefaciliteerd.
 
@@ -135,10 +135,10 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de 
 
 1. Deze wet treedt in werking en vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Met ingang van 1 januari 2031 worden geen nieuwe ontvangsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=5&z=2024-07-01&g=2024-07-01) aan het fonds toegevoegd.
+2. Met ingang van 1 januari 2031 worden geen nieuwe ontvangsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049322&artikel=5&z=2026-01-01&g=2026-01-01) aan het fonds toegevoegd.
 
 ##### Artikel 10. Citeertitel
 
-Deze wet wordt aangehaald als: Tijdelijke wet Klimaatfonds.
+Deze wet wordt aangehaald als: Tijdelijke wet Klimaat- en energiefonds.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
