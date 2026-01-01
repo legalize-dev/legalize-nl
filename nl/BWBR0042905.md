@@ -4,7 +4,7 @@ identifier: "BWBR0042905"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-06-28"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042905"
 soort: "wet"
@@ -52,7 +52,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **kolen:** producten van de GN-codes 2701, 2702 en 2704 als bedoeld in bijlage I bij [Verordening (EEG) nr. 2658/87](31987R2658) van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEU 1987, L 256);
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- **Onze Minister:** Onze Minister van Klimaat en Groene Groei;
 
 - **productie-installatie:** een installatie, bestaande uit één of meer productie-eenheden, voor de opwekking van elektriciteit.
 
@@ -62,29 +62,15 @@ Het is verboden om in een productie-installatie elektriciteit op te wekken met b
 
 ##### Artikel 3
 
-Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2024-06-28&g=2024-06-28), is:
+Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2026-01-01&g=2026-01-01), is:
 
 - a. tot en met 31 december 2024 niet van toepassing op alle productie-installaties;
 
 - b. tot 1 januari 2030 niet van toepassing op een productie-installatie met een elektrisch rendement van 44% of meer.
 
-2. Vervallen.
-
-3. Vervallen.
-
-4. Vervallen.
-
-5. Vervallen.
-
-6. Vervallen.
-
-7. Abusievelijk heeft de wetgever verzuimd het zevende lid te laten vervallen.
-
-In aanvulling op het vierde lid wordt de hoeveelheid CO2 die in een kalenderjaar is geproduceerd voor het opwekken van elektriciteit met kolen in het geval van een productie-installatie waarin naast elektriciteit warmte wordt geproduceerd die wordt geleverd aan een partij anders dan de exploitant van de desbetreffende productie-installatie tevens vastgesteld op basis van een geverifieerd activiteitenverslag dat overeenkomstig artikel 3 van de [Uitvoeringsverordening (EU) 2019/1842](32019R1842) van de Commissie van 31 oktober 2019 tot vaststelling van bepalingen ter uitvoering van [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad wat de verdere regelingen voor de aanpassingen van de kosteloze toewijzing van emissierechten als gevolg van veranderingen in het activiteitsniveau betreft (PbEU 2019, L 282) is ingediend.
-
 ##### Artikel 3a
 
-In afwijking van [artikel 3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2024-06-28&g=2024-06-28), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2024-06-28&g=2024-06-28), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
+In afwijking van [artikel 3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2026-01-01&g=2026-01-01), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2026-01-01&g=2026-01-01), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
 
 - a. een elektrisch rendement van minder dan 44% heeft;
 
@@ -102,7 +88,7 @@ Onze Minister kan op verzoek van een exploitant van een productie-installatie ee
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2024-06-28&g=2024-06-28) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
+3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2026-01-01&g=2026-01-01) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
 
 4. Verstrekking aan een bestuursorgaan vindt uitsluitend plaats indien de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd.
 
@@ -138,6 +124,6 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6a
 
-[Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=4&z=2024-06-28&g=2024-06-28), en de daarop berustende bepalingen, zoals die luidden voor 21 juni 2022, blijven van toepassing op schade die is ontstaan in de periode van 1 januari 2022 tot en met 20 juni 2022 als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2024-06-28&g=2024-06-28), zoals dat luidde voor 21 juni 2022.
+[Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=4&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen, zoals die luidden voor 21 juni 2022, blijven van toepassing op schade die is ontstaan in de periode van 1 januari 2022 tot en met 20 juni 2022 als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2026-01-01&g=2026-01-01), zoals dat luidde voor 21 juni 2022.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
