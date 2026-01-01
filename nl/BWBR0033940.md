@@ -4,7 +4,7 @@ identifier: "BWBR0033940"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033940"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 - –. **vergunning:** de vergunning, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=10);
 
-- –. **warmte koude systemen:** systemen als bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01);
+- –. **warmte koude systemen:** systemen als bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01);
 
 - –. **wet:** de [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
 
@@ -82,7 +82,7 @@ Ww = het jaarverbruik van de warmteverbruiker, uitgedrukt in gigajoule.
 
 ##### Artikel 3
 
-1. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), wordt het gebruiksonafhankelijk deel van de maximumprijs vastgesteld met inachtneming van de formule:
+1. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt het gebruiksonafhankelijk deel van de maximumprijs vastgesteld met inachtneming van de formule:
 
 VKw = VKg + ΔGK
 
@@ -118,9 +118,9 @@ GKw = de gebruikskosten bij warmte, bestaande uit:
 
 - b. de meetkosten op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten, niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t;
 
-2. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), bedraagt het gebruiksonafhankelijk deel maximaal de helft van het gebruiksonafhankelijk deel dat is vastgesteld met behulp van de formule, bedoeld in het eerste lid.
+2. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), bedraagt het gebruiksonafhankelijk deel maximaal de helft van het gebruiksonafhankelijk deel dat is vastgesteld met behulp van de formule, bedoeld in het eerste lid.
 
-3. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), wordt het gebruiksonafhankelijk deel:
+3. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt het gebruiksonafhankelijk deel:
 
 - a. voor aansluitingen voor levering van warmte met een vermogen tot en met 3 kilowatt vastgesteld met inachtneming van de formule: VKw = BTw
 
@@ -136,7 +136,7 @@ VKw ≤100 kW = de vaste kosten van een aansluiting voor levering van warmte met
 
 VKw 1000 kW = de vaste kosten van een aansluiting voor levering van warmte met een vermogen van 1000 kilowatt berekend met in achtneming van de formule, bedoeld in het eerste lid.
 
-6. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), bedraagt de opslag maximaal de helft van de opslag die is vastgesteld met behulp van de formule, bedoeld in het vijfde lid.
+6. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), bedraagt de opslag maximaal de helft van de opslag die is vastgesteld met behulp van de formule, bedoeld in het vijfde lid.
 
 7. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan de elementen, genoemd in het eerste, derde of vijfde lid.
 
@@ -144,11 +144,11 @@ VKw 1000 kW = de vaste kosten van een aansluiting voor levering van warmte met e
 
 1. Het gebruiksafhankelijk deel van de maximumprijs voor:
 
-- a. de levering van warmte tot maximaal 31 gigajoule per jaar met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), wordt vastgesteld met inachtneming van de formule:
+- a. de levering van warmte tot maximaal 31 gigajoule per jaar met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt vastgesteld met inachtneming van de formule:
 
-- b. de levering van warmte vanaf 31 gigajoule per jaar met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), wordt vastgesteld met inachtneming van de formule:
+- b. de levering van warmte vanaf 31 gigajoule per jaar met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt vastgesteld met inachtneming van de formule:
 
-- c. de levering van warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), wordt vastgesteld met inachtneming van de formule: **Pw** = 0 waarbij: **Pw** = de variabele kosten in het jaar t, uitgedrukt in euro per gigajoule; **Pg** 1 = de gemiddelde gebruiksafhankelijke gasprijs uitgedrukt in euro per m3 op basis van het gewogen gemiddelde van het gebruiksafhankelijke deel van de gasprijs van de overeenkomsten tussen de leverancier en verbruiker voor het standaardproduct voor een jaar met vaste prijs op basis van het G1 tarief van de tien grootste Nederlandse gasleveranciers, voor het jaar t, vermeerderd met het laagste van de volgende bedragen: waarbij voor de jaarlijkse inflatiecorrectie gebruik wordt gemaakt van de tabelcorrectiefactor, bedoeld in [artikel 10.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) en waarbij deze jaarlijkse inflatiecorrectie wordt toegepast vanaf 2025; **Pg** 2 = de gemiddelde gebruiksafhankelijke gasprijs uitgedrukt in euro per m3 op basis van het gewogen gemiddelde van het gebruiksafhankelijke deel van de gasprijs van de overeenkomsten tussen de leverancier en verbruiker voor het standaardproduct voor een jaar met vaste prijs op basis van het G1 tarief van de tien grootste Nederlandse gasleveranciers, voor het jaar t, vermeerderd met het laagste van de volgende bedragen: waarbij voor de jaarlijkse inflatiecorrectie gebruik wordt gemaakt van de tabelcorrectiefactor, bedoeld in [artikel 10.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) en waarbij deze jaarlijkse inflatiecorrectie wordt toegepast vanaf 2025; **η** = het brandstofrendement van de warmteproductie, en **CVg** = de bovenwaarde van de verbrandingswaarde van aardgas.
+- c. de levering van warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt vastgesteld met inachtneming van de formule: **Pw** = 0 waarbij: **Pw** = de variabele kosten in het jaar t, uitgedrukt in euro per gigajoule; **Pg** 1 = de gemiddelde gebruiksafhankelijke gasprijs uitgedrukt in euro per m3 op basis van het gewogen gemiddelde van het gebruiksafhankelijke deel van de gasprijs van de overeenkomsten tussen de leverancier en verbruiker voor het standaardproduct voor een jaar met vaste prijs op basis van het G1 tarief van de tien grootste Nederlandse gasleveranciers, dat door de gasleveranciers wordt aangeboden in de maanden september, oktober en november in het jaar t-1, vermeerderd met het laagste van de volgende bedragen: waarbij voor de jaarlijkse inflatiecorrectie gebruik wordt gemaakt van de tabelcorrectiefactor, bedoeld in [artikel 10.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) en waarbij deze jaarlijkse inflatiecorrectie wordt toegepast vanaf 2025; **Pg** 2 = de gemiddelde gebruiksafhankelijke gasprijs uitgedrukt in euro per m3 op basis van het gewogen gemiddelde van het gebruiksafhankelijke deel van de gasprijs van de overeenkomsten tussen de leverancier en verbruiker voor het standaardproduct voor een jaar met vaste prijs op basis van het G1 tarief van de tien grootste Nederlandse gasleveranciers, dat door de gasleveranciers wordt aangeboden in de maanden september, oktober en november in het jaar t-1, vermeerderd met het laagste van de volgende bedragen: waarbij voor de jaarlijkse inflatiecorrectie gebruik wordt gemaakt van de tabelcorrectiefactor, bedoeld in [artikel 10.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) en waarbij deze jaarlijkse inflatiecorrectie wordt toegepast vanaf 2025; **η** = het brandstofrendement van de warmteproductie, en **CVg** = de bovenwaarde van de verbrandingswaarde van aardgas.
 
 - 1°. een bedrag van € 0,58301 dat ieder achtereenvolgend jaar voor inflatie wordt gecorrigeerd;
 
@@ -214,9 +214,9 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - c. als bedoeld in het eerste lid, onderdeel d, is gebaseerd op het maximum bedrag voor een aansluiting als bedoeld in het eerste lid, onderdeel c, en een vast bedrag per meter vanaf een lengte van de aansluiting van 25 meter;
 
-- d. als bedoeld in het eerste lid, onderdeel e, is gelijk aan het bedrag dat in rekening gebracht wordt voor het tijdelijk afsluiten van een individuele aansluiting, bedoeld in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2025-01-01&g=2025-01-01);
+- d. als bedoeld in het eerste lid, onderdeel e, is gelijk aan het bedrag dat in rekening gebracht wordt voor het tijdelijk afsluiten van een individuele aansluiting, bedoeld in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2026-01-01&g=2026-01-01);
 
-- e. als bedoeld in het eerste lid, onderdeel f, is gelijk aan het bedrag dat in rekening gebracht wordt voor het tijdelijk afsluiten van een centrale aansluiting, bedoeld in [artikel 5a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2025-01-01&g=2025-01-01).
+- e. als bedoeld in het eerste lid, onderdeel f, is gelijk aan het bedrag dat in rekening gebracht wordt voor het tijdelijk afsluiten van een centrale aansluiting, bedoeld in [artikel 5a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2026-01-01&g=2026-01-01).
 
 #### § 3. Boekhouding en jaarrekening
 
@@ -234,7 +234,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - a. welke tarieven, volumes en omzetten bij een verbruiker in rekening zijn gebracht, waarbij de vergunninghouder, voor zover relevant voor het betreffende tarief, in ieder geval onderscheid maakt naar:
 
-- 1°. de verschillende categorieën en functionaliteiten van afleversets, bedoeld in [artikel 5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5b&z=2025-01-01&g=2025-01-01);
+- 1°. de verschillende categorieën en functionaliteiten van afleversets, bedoeld in [artikel 5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5b&z=2026-01-01&g=2026-01-01);
 
 - 2°. de verschillende typen warmtemeters;
 
@@ -242,9 +242,9 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - 4°. de verschillende kostenverdeelsystematieken;
 
-- 5°. het tijdelijk en definitief afsluiten van verbruikers in de situaties, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2025-01-01&g=2025-01-01);
+- 5°. het tijdelijk en definitief afsluiten van verbruikers in de situaties, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5a&z=2026-01-01&g=2026-01-01);
 
-- 6°. de verschillende categorieën aansluitingen van verbruikers, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01);
+- 6°. de verschillende categorieën aansluitingen van verbruikers, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01);
 
 - 7°. de verschillende tarieven voor de levering van warmte, en
 
@@ -252,7 +252,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - b. welke kosten zijn gemaakt ten behoeve van de levering van warmte, waarbij in ieder geval een onderscheid als bedoeld in onderdeel a wordt gemaakt;
 
-- c. over hoeveel verbruikers het tarief dat in rekening is gebracht voor het in gebruik nemen van een collectieve afleverset is omgeslagen op grond van [artikel 5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5b&z=2025-01-01&g=2025-01-01), en
+- c. over hoeveel verbruikers het tarief dat in rekening is gebracht voor het in gebruik nemen van een collectieve afleverset is omgeslagen op grond van [artikel 5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=5b&z=2026-01-01&g=2026-01-01), en
 
 - d. welke methoden en criteria zijn gehanteerd bij het opstellen van de boekhouding.
 
@@ -388,7 +388,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De maximumprijs die een leverancier aan een verbruiker in rekening mag brengen voor het gebruik van een warmte koude systeem bestaat uit:
 
-- a. een maximumprijs voor de levering van warmte, die wordt vastgesteld overeenkomstig de methode beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), en
+- a. een maximumprijs voor de levering van warmte, die wordt vastgesteld overeenkomstig de methode beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en
 
 - b. een maximumprijs voor de levering van koude, die wordt vastgesteld met toepassing van het tweede lid.
 
@@ -398,13 +398,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. voor aansluitingen voor levering van koude met een vermogen vanaf 2 kilowatt wordt vastgesteld met inachtneming van de formule: VKk = BTk + Ok>2kW * (AVk – 2 kW) Waarbij: VKk : de vaste kosten voor koude in het jaar t; BTk : het basistarief voor koude bij een aansluiting voor levering van koude van 2 kilowatt; Ok>2 kW: opslag voor koude per kilowatt extra vermogen van de aansluiting voor levering van koude voor aansluitingen groter dan 2 kilowatt, en AVk : het aansluitvermogen van de aansluiting in kilowatt, zoals vastgelegd in de leveringsovereenkomst.
 
-3. De maximumprijs voor de levering van koude is, indien het warmte koude systeem in gebruik is genomen voor de datum van inwerkingtreding van dit artikel en met dit systeem warmte wordt geleverd met een temperatuurcategorie als bedoeld in [artikel 1a, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01):
+3. De maximumprijs voor de levering van koude is, indien het warmte koude systeem in gebruik is genomen voor de datum van inwerkingtreding van dit artikel en met dit systeem warmte wordt geleverd met een temperatuurcategorie als bedoeld in [artikel 1a, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01):
 
 - a. niet van toepassing op leveringsovereenkomsten met een bepaalde looptijd, indien de leveringsovereenkomst is gesloten voor de datum van inwerkingtreding van dit artikel, en
 
 - b. gedurende 15 jaar na de datum waarop het warmte koude systeem voor het eerst in gebruik is genomen niet van toepassing op leveringsovereenkomsten met een onbepaalde looptijd, indien de leveringsovereenkomst is gesloten voor de datum van inwerkingtreding van dit artikel.
 
-4. In afwijking van het eerste lid wordt de maximumprijs voor het gebruik van een warmte koude systeem waarmee warmte wordt geleverd met een temperatuurcategorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2025-01-01&g=2025-01-01), vastgesteld op de maximumprijs voor levering van warmte van de temperatuurcategorie bedoeld in artikel 1a, eerste lid, onderdeel a, gedurende:
+4. In afwijking van het eerste lid wordt de maximumprijs voor het gebruik van een warmte koude systeem waarmee warmte wordt geleverd met een temperatuurcategorie als bedoeld in [artikel 1a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), vastgesteld op de maximumprijs voor levering van warmte van de temperatuurcategorie bedoeld in artikel 1a, eerste lid, onderdeel a, gedurende:
 
 - a. de resterende looptijd van een overeenkomst indien:
 
@@ -568,7 +568,7 @@ De producent, netbeheerder en de leverancier treden binnen 2 maanden na ontvangs
 
 ##### Artikel 11a
 
-[Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), geldt niet voor zover de vergunninghouder ten genoegen van de Autoriteit Consument en Markt voldoende aannemelijk kan maken dat het niet of slechts tegen zeer hoge kosten mogelijk is om in zijn boekhouding aan te geven:
+[Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), geldt niet voor zover de vergunninghouder ten genoegen van de Autoriteit Consument en Markt voldoende aannemelijk kan maken dat het niet of slechts tegen zeer hoge kosten mogelijk is om in zijn boekhouding aan te geven:
 
 - a. welke tarieven bij een verbruiker in rekening zijn gebracht voor het moment van inwerkingtreding van het Besluit van 26 maart 2019 tot wijziging van het Warmtebesluit Stb. 133 of
 
