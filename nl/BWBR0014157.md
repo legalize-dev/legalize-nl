@@ -4,7 +4,7 @@ identifier: "BWBR0014157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014157"
 soort: "ministeriele-regeling"
@@ -41,9 +41,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. De kosten, bedoeld in [artikel 18, tweede lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=18), bedragen: € 9,06.
+1. De kosten, bedoeld in [artikel 18, tweede lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=18), bedragen: € 9,53.
 
-2. Het in het eerste lid genoemde bedrag geldt tot en met 31 december 2025 en wordt jaarlijks met ingang van 1 januari door Onze Minister gewijzigd overeenkomstig de indexeringsformule die in [artikel 14 van het Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&artikel=14) is opgenomen.
+2. Het in het eerste lid genoemde bedrag geldt tot en met 31 december 2026 en wordt jaarlijks met ingang van 1 januari door Onze Minister gewijzigd overeenkomstig de indexeringsformule die in [artikel 14 van het Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&artikel=14) is opgenomen.
 
 ##### Artikel 2
 
