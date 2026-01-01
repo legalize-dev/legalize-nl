@@ -4,7 +4,7 @@ identifier: "BWBR0048679"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048679"
 soort: "zbo"
@@ -119,7 +119,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - ee. Overig zorgproduct (ozp) Een prestatie binnen de medisch-specialistische zorg, niet zijnde een dbc-zorgproduct. Overige zorgproducten zijn onderverdeeld in vijf hoofdcategorieën: supplementaire producten, eerstelijnsdiagnostiek (ELD), paramedische behandeling en onderzoek, overige verrichtingen en facultatieve prestaties medisch-specialistische zorg.
 
-- ff. **Poortfunctie** Typering van een zorgaanbieder die een zorgtraject voor medisch-specialistische zorg mag starten. De poortfunctie kan uitgevoerd worden door de poortspecialist en de volgende ondersteunende specialisten: interventie-radioloog (0362), anesthesist als pijnbestrijder (0389), klinisch geneticus (0390) en SEH-arts. Daarnaast kan de poortfunctie ook uitgevoerd worden door de volgende beroepsbeoefenaren, niet zijnde medisch specialisten: arts-assistent, klinisch fysicus audioloog (1900), specialist ouderengeneeskunde (8418), verpleegkundig specialist, physician assistant en klinisch technoloog. Kaakchirurgen kunnen ook de poortfunctie uitvoeren, maar declareren alleen overige zorgproducten. **Figuur 1 Overzicht beroepsbeoefenaren**
+- ff. **Poortfunctie** Typering van een zorgaanbieder die een zorgtraject voor medisch-specialistische zorg mag starten. De poortfunctie kan uitgevoerd worden door de poortspecialist en de volgende ondersteunende specialisten: interventie-radioloog (0362), anesthesist als pijnbestrijder (0389), klinisch geneticus (0390) en SEH-arts. Daarnaast kan de poortfunctie ook uitgevoerd worden door de volgende beroepsbeoefenaren, niet zijnde medisch specialisten: arts-assistent, klinisch fysicus audioloog (1900), specialist ouderengeneeskunde (8418), verpleegkundig specialist, physician assistant, klinisch technoloog en klinisch verloskundige. Kaakchirurgen kunnen ook de poortfunctie uitvoeren, maar declareren alleen overige zorgproducten. Figuur 1:**Overzicht beroepsbeoefenaren**
 
 - gg. **Poortspecialist** De medisch specialist van het poortspecialisme waarnaar een patiënt wordt verwezen voor medisch-specialistische zorg. Als poortspecialismen worden de volgende specialismen onderscheiden: oogheelkunde (0301), KNO (0302), heelkunde/chirurgie (0303), plastische chirurgie (0304), orthopedie (0305), urologie (0306), gynaecologie (0307), neurochirurgie (0308), dermatologie (0310), inwendige geneeskunde (0313), kindergeneeskunde/neonatologie (0316), gastro-enterologie/mdl (0318), cardiologie (0320), longgeneeskunde (0322), reumatologie (0324), allergologie (0326), revalidatie (0327), cardio-pulmonale chirurgie (0328), consultatieve psychiatrie (0329), neurologie (0330), klinische geriatrie (0335), radiotherapie (0361) en sportgeneeskunde (8416).
 
@@ -193,7 +193,7 @@ Het doel van deze beleidsregel is inzicht te verschaffen in de manier waarop de 
 
 - –. (huisartsen)laboratoria voor (eerstelijns) diagnostisch onderzoek;
 
-- –. solisten, indien en voor zo ver in bezit van een beschikking als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=IV&artikel=16&z=2025-01-01&g=2025-01-01).
+- –. solisten, indien en voor zo ver in bezit van een beschikking als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=IV&artikel=16&z=2026-01-01&g=2026-01-01).
 
 - b. zintuiglijk gehandicaptenzorg.
 
@@ -337,7 +337,7 @@ Facultatieve prestaties die behoren tot subcategorie a maken deel uit van het pr
 
 Facultatieve prestaties die behoren tot subcategorie b worden eveneens los gedeclareerd, maar maken géén onderdeel uit van het profiel van een dbc-zorgproduct.
 
-Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie zij behoren, betrekking hebben op alle zorg die onder de reikwijdte van deze beleidsregel valt, met uitzondering van de supplementaire producten ‘add-on geneesmiddelen’ en ‘ozp-stollingsfactoren’. De inhoud van de facultatieve prestatie wordt in eerste instantie bepaald door de partijen die hiertoe een aanvraag bij de NZa indienen. De procedure en voorwaarden die gelden bij het indienen van een aanvraag voor een facultatieve prestatie msz zijn vastgelegd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12&z=2025-01-01&g=2025-01-01) van deze beleidsregel.
+Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie zij behoren, betrekking hebben op alle zorg die onder de reikwijdte van deze beleidsregel valt, met uitzondering van de supplementaire producten ‘add-on geneesmiddelen’ en ‘ozp-stollingsfactoren’. De inhoud van de facultatieve prestatie wordt in eerste instantie bepaald door de partijen die hiertoe een aanvraag bij de NZa indienen. De procedure en voorwaarden die gelden bij het indienen van een aanvraag voor een facultatieve prestatie msz zijn vastgelegd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
 4. Alle overige zorgproducten en daarbij behorende voorschriften, voorwaarden en beperkingen worden vastgesteld in de ‘[Prestatie- en tariefbeschikking medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041394)’ en omschreven in de [Regeling medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041392). De door de NZa vastgestelde overige zorgproducten zijn weergegeven in het ‘Overzicht overige zorgproducten’ dat als bijlage aan de Regeling medisch-specialistische zorg is gekoppeld (te raadplegen via puc.overheid.nl/nza)
 
@@ -349,7 +349,7 @@ Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie z
 
 - a. Add-ons ic zijn overige zorgproducten voor de intensive care zorg, uitgedrukt in zorgactiviteiten. De volgende zorgtypes worden onderscheiden voor de add-ons ic: Zorgtype 51: zorgtrajecten voor opname op de ic en voor ic intercollegiaal consult buiten de ic met een bijbehorende behandeling door een beroepsbeoefenaar die de poortfunctie uitvoert. De add-on ic is gekoppeld aan het dbc-zorgproduct van de beroepsbeoefenaar die de poortfunctie uitvoert. Zorgtype 52: zorgtrajecten voor opname op de ic zonder een bijbehorende behandeling door een beroepsbeoefenaar die de poortfunctie uitvoert. Het tarief voor de ic-dag is inclusief kosten voor opname en beademing en is alleen van toepassing op ic-patiënten die behandeld worden op de ic.
 
-- b. Een add-ongeneesmiddel is een overig zorgproduct, dat is gekoppeld aan een ZI-nummer en behoort bij een zorgtraject. In [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&z=2025-01-01&g=2025-01-01) van deze beleidsregel wordt het beleid met betrekking tot add-ongeneesmiddelen uiteengezet.
+- b. Een add-ongeneesmiddel is een overig zorgproduct, dat is gekoppeld aan een ZI-nummer en behoort bij een zorgtraject. In [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&z=2026-01-01&g=2026-01-01) van deze beleidsregel wordt het beleid met betrekking tot add-ongeneesmiddelen uiteengezet.
 
 - c. Een ozp-stollingsfactor is een overig zorgproduct, dat is gekoppeld aan een ZI-nummer. In hoofdstuk II van deze beleidsregel wordt het beleid met betrekking tot ozp-stollingsfactoren uiteengezet.
 
@@ -397,9 +397,13 @@ Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie z
 
 ##### Artikel 8. Onderlinge dienstverlening
 
-1. Voor onderlinge dienstverlening is één algemene prestatie (genaamd: ‘onderlinge dienstverlening (190064)’) vastgesteld met een vrij tarief voor het in rekening brengen van delen van een dbc-zorgproduct indien de volledige prestatie door twee of meer zorgaanbieders wordt geleverd.
+Voor onderlinge dienstverlening is één algemene prestatie (genaamd: 'onderlinge dienstverlening (190064)') vastgesteld met een vrij tarief. De prestatie wordt gebruikt voor het in rekening brengen van:
 
-2. Alle denkbare (delen van) dbc-zorgproducten respectievelijk zorgactiviteiten die in het kader van onderlinge dienstverlening tussen zorgaanbieders (instellingen, natuurlijke personen, rechtspersonen, solisten, et cetera) plaatsvinden, kunnen in rekening worden gebracht.
+- •. het uitgevoerde deel van het dbc-zorgproduct, of;
+
+- •. het uitgevoerde deel van een overig zorgproduct, of;
+
+- •. een volledig uitgevoerd overig zorgproduct.
 
 ### Hoofdstuk II. Procedure dbc-productstructuur en overige zorgproducten
 
@@ -429,7 +433,7 @@ Bij een apotheekbereiding:
 
 - •. Het betreft een apotheekbereiding waarbij de apotheek op basis van grondstoffen een geneesmiddel bereidt; en
 
-- •. De kosten voor de apotheekbereiding die betrekking hebben op een prestatie voor geneeskundige zorg zoals medisch specialisten die plegen, gemiddeld meer dan € 1.000 per patiënt per jaar bedragen of waarvan voor een geregistreerd equivalent een add-ongeneesmiddel of ozp-stollingsfactor geldig is. Onder ‘kosten’ wordt hier verstaan: de kosten die onderdeel zijn van de kostprijs zoals beschreven in [artikel 15 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=III&artikel=15&z=2025-01-01&g=2025-01-01) van deze beleidsregel, en
+- •. De kosten voor de apotheekbereiding die betrekking hebben op een prestatie voor geneeskundige zorg zoals medisch specialisten die plegen, gemiddeld meer dan € 1.000 per patiënt per jaar bedragen of waarvan voor een geregistreerd equivalent een add-ongeneesmiddel of ozp-stollingsfactor geldig is. Onder ‘kosten’ wordt hier verstaan: de kosten die onderdeel zijn van de kostprijs zoals beschreven in [artikel 15 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=III&artikel=15&z=2026-01-01&g=2026-01-01) van deze beleidsregel, en
 
 - •. De apotheekbereiding is opgenomen in de G-standaard van Z-index.
 
@@ -503,9 +507,9 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 ##### Artikel 12a. Voorwaarden bij indiening van een aanvraag facultatieve prestatie msz
 
-1. Een aanvraag voor een facultatieve prestatie voldoet, naast de criteria genoemd in [artikel 12b, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12b&z=2025-01-01&g=2025-01-01), aan de onderstaande cumulatieve voorwaarden:
+1. Een aanvraag voor een facultatieve prestatie voldoet, naast de criteria genoemd in [artikel 12b, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12b&z=2026-01-01&g=2026-01-01), aan de onderstaande cumulatieve voorwaarden:
 
-- a. de aanvragers geven aan of de aanvraag betrekking heeft op een add-on facultatieve prestatie, of op een losse facultatieve prestatie als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=I&artikel=7&z=2025-01-01&g=2025-01-01);
+- a. de aanvragers geven aan of de aanvraag betrekking heeft op een add-on facultatieve prestatie, of op een losse facultatieve prestatie als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=I&artikel=7&z=2026-01-01&g=2026-01-01);
 
 - b. de aanvragers geven aan of er bestaande prestaties (dbc-zorgproducten of overige zorgproducten) zijn die vanwege het risico op dubbele bekostiging niet in combinatie met de facultatieve prestatie in rekening kunnen worden gebracht en zo ja, welke prestaties dit zijn;
 
@@ -535,7 +539,7 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 6. Tenslotte onthoudt de NZa, met inachtneming van [artikel 4:84 van de Algemene wet bestuursrecht](onbekend), goedkeuring aan een aanvraag voor een facultatieve prestatie, indien:
 
-- a. deze, ook na een door de NZa geboden redelijke hersteltermijn, niet voldoet aan een of meer voorwaarden genoemd in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12a&z=2025-01-01&g=2025-01-01);
+- a. deze, ook na een door de NZa geboden redelijke hersteltermijn, niet voldoet aan een of meer voorwaarden genoemd in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12a&z=2026-01-01&g=2026-01-01);
 
 - b. deze naar het oordeel van de NZa is ingediend met het oogmerk om de reguliere bekostiging waarvoor een maximumtarief geldt, te omzeilen; of
 
