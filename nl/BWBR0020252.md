@@ -4,7 +4,7 @@ identifier: "BWBR0020252"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020252"
 soort: "AMvB"
@@ -53,21 +53,21 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet uitkeringen burger
 
 De toeslag, bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op:
 
-- a. € 114 per 1 januari 2025: € 237,22 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt;
+- a. € 114 per 1 januari 2026: € 238,00 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt;
 
-- b. € 114 per 1 januari 2025: € 237,22 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- b. € 114 per 1 januari 2026: € 238,00 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
 
-- c. € 184 per 1 januari 2025: € 382,90 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;
+- c. € 184 per 1 januari 2026: € 384,16 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;
 
-- d. € 118 per 1 januari 2025: € 245,53 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt;
+- d. € 118 per 1 januari 2026: € 246,34 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt;
 
-- e. € 118 per 1 januari 2025: € 245,53 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- e. € 118 per 1 januari 2026: € 246,34 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
 
-- f. € 236 per 1 januari 2025: € 491,10 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.
+- f. € 236 per 1 januari 2026: € 492,72 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.
 
 ##### Artikel 2
 
-Het bedrag, bedoeld in de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op € 186,50 per 1 januari 2025: € 388,39 per verzekerde per maand.
+Het bedrag, bedoeld in de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op € 186,50 per 1 januari 2026: € 389,67 per verzekerde per maand.
 
 ##### Artikel 3
 
