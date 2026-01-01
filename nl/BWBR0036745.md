@@ -4,7 +4,7 @@ identifier: "BWBR0036745"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036745"
 soort: "wet"
@@ -53,11 +53,7 @@ Wijzigt de Wet op de naburige rechten.
 
 ##### Artikel III
 
-1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding blijft van toepassing op overeenkomsten die voor dat tijdstip zijn gesloten, met dien verstande dat de [artikelen 25e, eerste tot en met vijfde lid en het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25e) en [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25f) en [artikel 25fa van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25fa) wel van toepassing zijn op overeenkomsten die voor het tijdstip van inwerkingtreding zijn gesloten, alsmede [artikel 45d, zevende lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45d) en [artikel 2b van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=2b) voorzover in die artikelen artikel 25e eerste tot en met vijfde lid en het zevende lid en artikel 25f van de Auteurswet van overeenkomstige toepassing zijn verklaard.
-
-2. In afwijking van het in het eerste lid bepaalde blijft het recht zoals dat gold voor het tijdstip van inwerkingtreding van toepassing op filmwerken die voor dat tijdstip zijn voltooid, met dien verstande dat de [artikelen 25e, eerste tot en met vijfde lid en het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25e) en [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25f) en [artikel 25fa van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25fa) wel van toepassing zijn op filmwerken die voor het tijdstip van inwerkingtreding zijn voltooid, alsmede [artikel 45d, zevende lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45d) en [artikel 2b van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=2b) voorzover in die artikelen artikel 25e eerste tot en met vijfde lid en het zevende lid en artikel 25f van de Auteurswet van overeenkomstige toepassing zijn verklaard.
-
-3. In afwijking van het in het eerste en tweede lid bepaalde is het recht op een proportionele billijke vergoeding als bedoeld in [artikel 45d, tweede en derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45d) vanaf het tijdstip van inwerkingtreding van toepassing op het uitzenden of doen uitzenden en op enige andere wijze mededelen aan het publiek zoals bedoeld in artikel 45d lid 2, van een filmwerk.
+Vervallen
 
 ##### Artikel IV
 
