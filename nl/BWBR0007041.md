@@ -4,7 +4,7 @@ identifier: "BWBR0007041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-06-06"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007041"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De aanvraag van een schorsing op de wijze, bedoeld in [artikel 50, eerste lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50) alsmede de aanvraag van beëindiging van de schorsing op de wijze, bedoeld in [artikel 51, eerste lid onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51), geschiedt bij een bij een erkende instantie als bedoeld in de [artikelen 61a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=61) of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst.
+De aanvraag van een schorsing op de wijze, bedoeld in [artikel 50, eerste lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50) alsmede de aanvraag van beëindiging van de schorsing op de wijze, bedoeld in [artikel 51, eerste lid onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51), geschiedt bij een bij een erkend bedrijf tenaamstellen voertuigen voor derden als bedoeld in artikel 4 van het Besluit erkenningen wegverkeer of een erkend bedrijf tenaamstellen voertuigen vanuit bedrijfsvoorraad als bedoeld in artikel 5 van het Besluit erkenningen wegverkeer of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst.
 
 ##### Artikel 2
 
