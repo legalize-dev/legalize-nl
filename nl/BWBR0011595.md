@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-09-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Drager:** drager als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01);
+- **Drager:** drager als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01);
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
@@ -79,7 +79,7 @@ De student, bedoeld in [artikel 3.24, tweede lid, van de wet](https://wetten.ove
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De student, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2025-09-01&g=2025-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De student, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de student blijft ingeschreven, verklaard:
 
@@ -117,27 +117,27 @@ Vervallen
 
 ##### Artikel 4.2. Verkrijging reisrecht
 
-1. Om met het reisrecht te kunnen reizen moet het reisproduct door de student in zijn persoonlijke online account worden gekoppeld aan een van de dragers als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01).
+1. Om met het reisrecht te kunnen reizen moet het reisproduct door de student in zijn persoonlijke online account worden gekoppeld aan een van de dragers als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01).
 
-2. Indien de student reist met een drager als bedoeld in [artikel 4.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01), moet de student om met het reisrecht te kunnen reizen, in aanvulling op het eerste lid, het reisproduct bij een daartoe bestemde automaat van de vervoerbedrijven op de drager laden na de koppeling in het persoonlijke online account.
+2. Indien de student reist met een drager als bedoeld in [artikel 4.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01), moet de student om met het reisrecht te kunnen reizen, in aanvulling op het eerste lid, het reisproduct bij een daartoe bestemde automaat van de vervoerbedrijven op de drager laden na de koppeling in het persoonlijke online account.
 
 ##### Artikel 4.3. Tijdelijk reisproduct
 
 1. Op aanvraag bij RSR kan de student tijdelijk met het reisrecht reizen. In dat geval wordt het studentenreisproduct gekoppeld aan een andere aan de student toebehorende drager die is geverifieerd door de RSR.
 
-2. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01) kan het tijdelijke reisproduct worden gekoppeld aan een anonieme OV-chipkaart. Indien een student het tijdelijk reisproduct koppelt aan een persoonlijke of anonieme OV-chipkaart, moet de student om met het reisrecht te kunnen reizen, in aanvulling op [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2025-09-01&g=2025-09-01), het reisproduct bij een daartoe bestemde automaat van de vervoerbedrijven op de drager laden na de koppeling in het persoonlijke online account.
+2. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01) kan het tijdelijke reisproduct worden gekoppeld aan een anonieme OV-chipkaart. Indien een student het tijdelijk reisproduct koppelt aan een persoonlijke of anonieme OV-chipkaart, moet de student om met het reisrecht te kunnen reizen, in aanvulling op [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), het reisproduct bij een daartoe bestemde automaat van de vervoerbedrijven op de drager laden na de koppeling in het persoonlijke online account.
 
 ##### Artikel 4.4. Beëindiging reisrecht
 
-Het reisrecht wordt beëindigd door het reisproduct dat aan een drager is gekoppeld, stop te zetten op de wijze, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2025-09-01&g=2025-09-01).
+Het reisrecht wordt beëindigd door het reisproduct dat aan een drager is gekoppeld, stop te zetten op de wijze, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 4.5. Stopzetten
 
-1. Met stopzetten wordt in dit artikel bedoeld het stopzetten, bedoeld in de [artikelen 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27) en [3.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.28) en [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.4&z=2025-09-01&g=2025-09-01).
+1. Met stopzetten wordt in dit artikel bedoeld het stopzetten, bedoeld in de [artikelen 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27) en [3.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.28) en [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01).
 
-2. Het reisproduct dat is gekoppeld aan de drager, bedoeld in [artikel 4.1, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01), kan door de Minister of student worden stopgezet door RSR te verzoeken de koppeling tussen het reisproduct en de drager te verbreken.
+2. Het reisproduct dat is gekoppeld aan de drager, bedoeld in [artikel 4.1, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01), kan door de Minister of student worden stopgezet door RSR te verzoeken de koppeling tussen het reisproduct en de drager te verbreken.
 
-3. Het reisproduct dat is geladen op de drager, bedoeld in [artikel 4.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2025-09-01&g=2025-09-01), wordt door de student stopgezet bij een daartoe bestemde automaat van de vervoerbedrijven.
+3. Het reisproduct dat is geladen op de drager, bedoeld in [artikel 4.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01), wordt door de student stopgezet bij een daartoe bestemde automaat van de vervoerbedrijven.
 
 4. De Minister kan, indien de met een reisproduct geladen drager technische gebreken heeft of indien de automaten van de vervoerbedrijven of het persoonlijke online account bij RSR niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een aangetekende brief.
 
@@ -149,7 +149,7 @@ Het reisrecht wordt beëindigd door het reisproduct dat aan een drager is gekopp
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoerbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een student als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via [www.duo.nl](http://www.duo.nl) aan de Minister door alvorens hij zijn reisproduct aan zijn drager koppelt zoals beschreven in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2025-09-01&g=2025-09-01).
+2. Indien een student als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via [www.duo.nl](http://www.duo.nl) aan de Minister door alvorens hij zijn reisproduct aan zijn drager koppelt zoals beschreven in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 4.7. Wisselen van soort reisrecht
 
@@ -163,7 +163,7 @@ Het reisrecht wordt beëindigd door het reisproduct dat aan een drager is gekopp
 
 3. In afwijking van het tweede lid wordt op de aanvraag om te wisselen met ingang van een periode die gelegen is na het ingaan van een eerder toegekend reisrecht besloten uiterlijk op de tiende werkdag nadat het eerder toegekende reisrecht is ingegaan.
 
-4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2025-09-01&g=2025-09-01) bedoelde wijze.
+4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01) bedoelde wijze.
 
 5. Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag aan een drager worden gekoppeld.
 
@@ -183,7 +183,7 @@ De student die beschikking heeft over een reisproduct heeft uitsluitend voor zic
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de student voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de student eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd. Na toekenning daarvan kan het reisproduct na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4,2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2025-09-01&g=2025-09-01) bedoelde wijze.
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de student voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de student eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd. Na toekenning daarvan kan het reisproduct na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4,2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01) bedoelde wijze.
 
 5. Dit artikel berust op [artikel 3.24, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.24).
 
@@ -235,7 +235,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de in het eerste lid bedoelde beschikking aan de student zouden moeten worden gedaan.
 
-3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=13). Wanneer die maandbetalingen met ingang van 1 januari 2025 hoger zijn dan € 208,65, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=13). Wanneer die maandbetalingen met ingang van 1 januari 2026 hoger zijn dan € 215,64, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de student betaalbaar zouden worden gesteld.
 
@@ -245,7 +245,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2025-09-01&g=2025-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 6a. Kopopleidingen
 
@@ -261,13 +261,13 @@ Vervallen
 
 Vervallen
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2025-09-01&g=2025-09-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01)
 
-1. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2025-09-01&g=2025-09-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden betalingsverzoek.
+1. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden betalingsverzoek.
 
-2. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2025-09-01&g=2025-09-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+2. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2025-09-01&g=2025-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2025-09-01&g=2025-09-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
@@ -1609,7 +1609,7 @@ wordt het aantal maanden waarover het collegegeldkrediet of levenlanglerenkredie
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2025-09-01&g=2025-09-01)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
