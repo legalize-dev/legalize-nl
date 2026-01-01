@@ -4,7 +4,7 @@ identifier: "BWBR0047929"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047929"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - **IPS-traject:** een re-integratietraject Individuele Plaatsing en Steun dat het totaal aan ondersteuningsactiviteiten bevat gericht op het vinden en behoud van werk die een klant doorloopt;
 
-- **klant:** een persoon als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), in samenhang met de artikelen 7, derde lid, [10f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10f), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13) en [16, van de Participatiewet en met uitzondering van artikel 7, eerste lid, onderdeel a, tweede subonderdeel, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=16);
+- **klant:** een persoon als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), in samenhang met de artikelen 7, derde lid, [7a, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13) en [16, van de Participatiewet en met uitzondering van artikel 7, eerste lid, onderdeel a, tweede subonderdeel, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=16);
 
 - **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -82,13 +82,13 @@ Het doel van deze regeling is om door middel van subsidie de inzet van IPS-traje
 
 ##### Artikel 3. Subsidieverstrekking
 
-1. De Minister verstrekt subsidie overeenkomstig deze regeling aan een GGZ-instelling voor een IPS-traject. Indien het traject ten tijde van de aanvraag reeds van start is gegaan, ligt de startdatum niet voor 20 november 2024.
+1. De Minister verstrekt subsidie overeenkomstig deze regeling aan een GGZ-instelling voor een IPS-traject. Indien het traject ten tijde van de aanvraag reeds van start is gegaan, ligt de startdatum niet voor 20 november 2025.
 
 2. De Minister neemt binnen zes weken na ontvangst van de subsidieaanvraag een besluit omtrent verlening.
 
 3. Het besluit tot subsidieverlening bevat de datum waarop uiterlijk de subsidie wordt vastgesteld.
 
-4. De Minister verleent voorschotten op de subsidie overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01).
+4. De Minister verleent voorschotten op de subsidie overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01).
 
 5. De subsidie wordt ambtshalve vastgesteld.
 
@@ -100,19 +100,21 @@ Het doel van deze regeling is om door middel van subsidie de inzet van IPS-traje
 
 - b. voor aanvragen gedaan in het jaar 2024 10,750 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 4,988 miljoen euro in 2024, 3,569 miljoen euro in 2025 en 2,193 miljoen euro in 2026;
 
-- c. voor aanvragen gedaan in het jaar 2025 9,996 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 4,638 miljoen euro in 2025, 3,319 miljoen euro in 2026 en 2,039 miljoen euro in 2027.
+- c. voor aanvragen gedaan in het jaar 2025 9,996 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 4,638 miljoen euro in 2025, 3,319 miljoen euro in 2026 en 2,039 miljoen euro in 2027;
+
+- d. voor aanvragen gedaan in het jaar 2026 10,1 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 5,4 miljoen euro in 2026, 2,9 miljoen euro in 2027 en 1,8 miljoen euro in 2028.
 
 2. Het subsidiebedrag voor een volledig IPS-traject van maximaal 24 maanden vanwege CMD of 36 maanden vanwege EPA bedraagt:
 
 - a. in de jaren 2023 en 2024 6.611,57 euro exclusief BTW en 8.000 euro inclusief BTW voor CMD en 9.360 exclusief BTW en 11.325,60 euro inclusief BTW voor EPA;
 
-- b. in het jaar 2025 6.902 euro exclusief BTW en 8.352 euro inclusief BTW voor CMD en 9.772 exclusief BTW en 11.824,34 euro inclusief BTW voor EPA.
+- b. in de jaren 2025 en 2026 6.902 euro exclusief BTW en 8.352 euro inclusief BTW voor CMD en 9.772 exclusief BTW en 11.824,34 euro inclusief BTW voor EPA.
 
 ##### Artikel 5. Mandaat, volmacht en machtiging
 
 1. De Minister verleent aan de colleges:
 
-- a. mandaat tot het nemen van besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) alsmede, volmacht en machtiging voor het verrichten van andere rechtshandelingen en feitelijke handelingen ter uitoefening van de bevoegdheden, bedoeld in [§1 tot en met §3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze regeling, met uitzondering van de bevoegdheden, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01) en [13, eerste en derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), en
+- a. mandaat tot het nemen van besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) alsmede, volmacht en machtiging voor het verrichten van andere rechtshandelingen en feitelijke handelingen ter uitoefening van de bevoegdheden, bedoeld in [§1 tot en met §3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&z=2026-01-01&g=2026-01-01) van deze regeling, met uitzondering van de bevoegdheden, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01) en [13, eerste en derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), en
 
 - b. mandaat tot het beschikken op bezwaarschriften alsmede volmacht en machtiging voor het voeren van gerechtelijke procedures en het behandelen van klachten voor zover deze verband houden met de uitoefening van hun bevoegdheden, bedoeld onder a.
 
@@ -122,7 +124,7 @@ Het doel van deze regeling is om door middel van subsidie de inzet van IPS-traje
 
 ##### Artikel 6. Volmacht en machtiging
 
-De Minister verleent aan UWV volmacht en machtiging om het subsidiebudget voor IPS-trajecten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), te administreren en feitelijk te beheren, alsmede om betaling van subsidiebedragen van toegewezen aanvragen voor IPS-trajecten aan de GGZ-instelling te doen, inclusief de betaling van voorschotten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01).
+De Minister verleent aan UWV volmacht en machtiging om het subsidiebudget voor IPS-trajecten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), te administreren en feitelijk te beheren, alsmede om betaling van subsidiebedragen van toegewezen aanvragen voor IPS-trajecten aan de GGZ-instelling te doen, inclusief de betaling van voorschotten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01).
 
 #### § 2. Voorwaarden subsidie
 
@@ -142,7 +144,7 @@ De Minister verleent aan UWV volmacht en machtiging om het subsidiebudget voor I
 
 - a. jobcoaching: het ondersteunen van de klant bij het verrichten van de aan hem opgedragen taken na het aanvaarden van werk, waarbij de ondersteuning een compensatie biedt voor de beperkingen van de klant en de activiteiten en handelingen die in dit kader worden verricht erop zijn gericht om de klant zelfstandiger zijn werkzaamheden uit te laten voeren; en
 
-- b. het rapporteren over het uitgevoerde traject in overeenstemming met [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=14&z=2025-01-01&g=2025-01-01).
+- b. het rapporteren over het uitgevoerde traject in overeenstemming met [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01).
 
 2. De duur van het IPS-traject bedraagt vanaf de start van het IPS-traject ten hoogste 24 maanden voor een klant met CMD en ten hoogste 36 maanden voor een klant met EPA.
 
@@ -154,7 +156,7 @@ Subsidie voor een IPS-traject wordt uitsluitend verstrekt aan een GGZ-instelling
 
 ##### Artikel 10. Aanvraag
 
-1. Een subsidieaanvraag voor een IPS-traject kan worden ingediend vanaf 1 januari 2025, 9.00 uur, tot en met 19 november 2025, 17.00 uur.
+1. Een subsidieaanvraag voor een IPS-traject kan worden ingediend vanaf 1 januari 2026, 9.00 uur, tot en met 19 november 2026, 17.00 uur.
 
 2. Een GGZ-instelling dient de aanvraag schriftelijk in bij het college van de gemeente waar de klant woonachtig is.
 
@@ -164,9 +166,9 @@ Subsidie voor een IPS-traject wordt uitsluitend verstrekt aan een GGZ-instelling
 
 ##### Artikel 11. Volgorde behandeling aanvragen
 
-1. Het college dat voornemens is een subsidieaanvraag van een GGZ-instelling toe te wijzen, stelt UWV van dit voornemen in kennis door middel van een formulier. Dit formulier bevat de gegevens, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01).
+1. Het college dat voornemens is een subsidieaanvraag van een GGZ-instelling toe te wijzen, stelt UWV van dit voornemen in kennis door middel van een formulier. Dit formulier bevat de gegevens, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01).
 
-2. Om te bepalen wanneer de plafonds, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), zijn bereikt, worden de formulieren, bedoeld in het eerste lid, op volgorde van binnenkomst bij UWV behandeld.
+2. Om te bepalen wanneer de plafonds, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), zijn bereikt, worden de formulieren, bedoeld in het eerste lid, op volgorde van binnenkomst bij UWV behandeld.
 
 3. Indien honorering van de subsidiebedragen vermeld in de formulieren die op dezelfde dag zijn binnengekomen, leidt tot overschrijding van het plafond en de volgorde van binnenkomst van die formulieren niet kan worden vastgesteld, stelt UWV de volgorde door loting vast.
 
@@ -216,19 +218,19 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 15. Verwerkingsverantwoordelijke
 
-De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens voor de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01).
+De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens voor de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 16. Verwerkers
 
-1. De colleges zijn verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde bevoegdheden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=5&z=2025-01-01&g=2025-01-01).
+1. De colleges zijn verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde bevoegdheden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01).
 
-2. UWV is verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens ter uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01), die UWV onder volmacht en machtiging uitoefent.
+2. UWV is verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens ter uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), die UWV onder volmacht en machtiging uitoefent.
 
 3. De verwerker, genoemd in het eerste lid, voldoet bij de verwerking van persoonsgegevens in het kader van deze regeling aan de voorwaarden vermeld in de bijlage bij deze regeling.
 
 ##### Artikel 17. Gegevensverwerking door de colleges
 
-1. Ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), kunnen de colleges namens de Minister gegevens verwerken die noodzakelijk zijn voor de uitvoering van de aan de colleges gemandateerde bevoegdheden, bedoeld in [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01).
+1. Ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), kunnen de colleges namens de Minister gegevens verwerken die noodzakelijk zijn voor de uitvoering van de aan de colleges gemandateerde bevoegdheden, bedoeld in [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01).
 
 2. De gegevens, bedoeld in het eerste lid, zijn:
 
@@ -240,7 +242,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 - d. zakelijke contactgegevens van de aanvrager namens de instelling.
 
-3. De colleges zijn namens de Minister bevoegd om ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), aan UWV, handelend in naam van de Minister, gegevens te verstrekken die noodzakelijk zijn voor de taak, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01), die UWV onder volmacht en machtiging uitvoert.
+3. De colleges zijn namens de Minister bevoegd om ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), aan UWV, handelend in naam van de Minister, gegevens te verstrekken die noodzakelijk zijn voor de taak, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), die UWV onder volmacht en machtiging uitvoert.
 
 4. De gegevens, bedoeld in het derde lid, zijn:
 
@@ -254,7 +256,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 ##### Artikel 18. Gegevensverwerking door UWV
 
-1. Ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), kan UWV gegevens verwerken die noodzakelijk zijn voor de taak, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01), die UWV onder volmacht en machtiging uitvoert.
+1. Ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), kan UWV gegevens verwerken die noodzakelijk zijn voor de taak, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), die UWV onder volmacht en machtiging uitvoert.
 
 2. De gegevens, bedoeld in het eerste lid, zijn:
 
@@ -266,7 +268,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 - d. zakelijke contactgegevens van de aanvrager namens de instelling en de aanvrager namens het college.
 
-3. UWV is namens de Minister bevoegd om ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), aan GGZ-instellingen gegevens te verstrekken.
+3. UWV is namens de Minister bevoegd om ten behoeve van het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), aan GGZ-instellingen gegevens te verstrekken.
 
 4. De gegevens, bedoeld in het derde lid, zijn:
 
@@ -278,7 +280,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 ##### Artikel 19. Gegevensverstrekking door GGZ-instellingen
 
-1. In verband met een subsidieaanvraag, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=10&z=2025-01-01&g=2025-01-01), verstrekt een GGZ-instelling de gegevens die daarvoor noodzakelijk zijn aan het college waar de aanvraag wordt ingediend.
+1. In verband met een subsidieaanvraag, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), verstrekt een GGZ-instelling de gegevens die daarvoor noodzakelijk zijn aan het college waar de aanvraag wordt ingediend.
 
 2. De gegevens, bedoeld in het eerste lid zijn:
 
@@ -292,7 +294,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 ##### Artikel 20. Financiering
 
-1. Het Rijk voorziet in de middelen tot dekking van de lasten verbonden aan deze regeling. De lasten betreffen het door UWV namens de Minister te verstrekken subsidiebudget voor IPS-trajecten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), en de uitvoeringskosten van UWV voor de taken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01).
+1. Het Rijk voorziet in de middelen tot dekking van de lasten verbonden aan deze regeling. De lasten betreffen het door UWV namens de Minister te verstrekken subsidiebudget voor IPS-trajecten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), en de uitvoeringskosten van UWV voor de taken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01).
 
 2. UWV administreert en beheert afzonderlijk de middelen, bedoeld in het eerste lid.
 
@@ -302,17 +304,17 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 ##### Artikel 21. Verslag uitvoeringskosten UWV
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten, waaronder de ontvangen voorschotten, en lasten opgenomen, met betrekking tot de uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01).
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten, waaronder de ontvangen voorschotten, en lasten opgenomen, met betrekking tot de uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01).
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 ##### Artikel 22. Verslag beheer subsidiegelden UWV
 
-1. Overeenkomstig de bij of krachtens [artikel 49, van de van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) gestelde regels, worden met betrekking tot de subsidiegelden bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), de baten, waaronder de door UWV ontvangen voorschotten, en de lasten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), opgenomen.
+1. Overeenkomstig de bij of krachtens [artikel 49, van de van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) gestelde regels, worden met betrekking tot de subsidiegelden bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), de baten, waaronder de door UWV ontvangen voorschotten, en de lasten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
-3. UWV werkt tot zes jaar na de inwerkingtreding van deze regeling, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de verstrekking van de subsidiegelden.
+3. UWV werkt tot zeven jaar na de inwerkingtreding van deze regeling, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de verstrekking van de subsidiegelden.
 
 4. Met het oog op de verplichting bedoeld in het derde lid, geldt met betrekking tot de gegevens die in dit verband bewaard dienen te worden een bewaartermijn voor de duur vermeld in het derde lid.
 
@@ -320,9 +322,9 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 1. De colleges voeren bij de uitoefening van het verleende mandaat een ordentelijke en voor de Minister transparante administratie en verschaffen de Minister desgevraagd alle inlichtingen die betrekking hebben op de uitoefening van de gemandateerde bevoegdheden.
 
-2. De administratie geeft inzage in alle voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01), en de behandeling van de aanvragen tot subsidie voor een IPS-traject van belang zijnde gegevens.
+2. De administratie geeft inzage in alle voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), en de behandeling van de aanvragen tot subsidie voor een IPS-traject van belang zijnde gegevens.
 
-3. De colleges werken tot zes jaar na de inwerkingtreding van deze regeling, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de subsidie, of de ontwikkeling van het beleid van de Minister.
+3. De colleges werken tot zeven jaar na de inwerkingtreding van deze regeling, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de subsidie, of de ontwikkeling van het beleid van de Minister.
 
 4. Met het oog op de verplichting bedoeld in het derde lid, geldt met betrekking tot de gegevens die in dit verband bewaard dienen te worden een bewaartermijn voor de duur vermeld in het derde lid.
 
@@ -332,7 +334,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 1. Deze regeling treedt in werking met ingang van 1 maart 2023.
 
-2. Deze regeling vervalt zes jaar na haar inwerkingtreding.
+2. Deze regeling vervalt zeven jaar na haar inwerkingtreding.
 
 3. In afwijking van het tweede lid blijft deze regeling, zoals die luidde op de dag voorafgaand aan de datum waarop deze regeling vervalt, van toepassing op lopende besluitvorming, de financiële afwikkeling en ingestelde bezwaar- en beroepsprocedures op grond van deze regeling.
 
@@ -340,7 +342,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 Deze regeling wordt aangehaald als: Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep.
 
-## Bijlage. bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=16&z=2025-01-01&g=2025-01-01): gegevensverwerking door gemeenten
+## Bijlage. bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=16&z=2026-01-01&g=2026-01-01): gegevensverwerking door gemeenten
 
 ### Doel
 
@@ -360,7 +362,7 @@ Bij de verwerking van de gegevens en de daaruit voortvloeiende administratie die
 
 Verder schrijft de regeling voor dat de persoonsgegevens uitsluitend mogen worden verwerkt voor het doel van de regeling. Subsidiedossiers dienen na het vaststellen van de subsidie te worden gearchiveerd. Na de bewaartermijn van dit archief die in de regeling is voorgeschreven dienen de gegevens te worden vernietigd.
 
-De bewaartermijn volgt uit de bepaling dat tot vijf jaar na de inwerkingtreding van deze regeling door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de subsidieverstrekking, en is eveneens opgenomen in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=5&artikel=23&z=2025-01-01&g=2025-01-01).
+De bewaartermijn volgt uit de bepaling dat tot vijf jaar na de inwerkingtreding van deze regeling door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de subsidieverstrekking, en is eveneens opgenomen in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=5&artikel=23&z=2026-01-01&g=2026-01-01).
 
 ### Werkproces
 
@@ -372,13 +374,13 @@ Hieronder zijn de belangrijkste stappen in dat werkproces weergegeven.
 
 De gemeente ontvangt van een GGZ-instelling een subsidieaanvraag middels een formulier dat de navolgende gegevens bevat:
 
-Daarnaast geeft de GGZ-instelling aan of de subsidie aangevraagd wordt voor een IPS-traject van maximaal twee- of drie-jaar. Dit in verband met de hoogte van de subsidie die aangevraagd wordt. De clientgegevens en trajectgegevens die de gemeente ontvangt van een GGZ-instelling zijn limitatief beschreven in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01), van de regeling.
+Daarnaast geeft de GGZ-instelling aan of de subsidie aangevraagd wordt voor een IPS-traject van maximaal twee- of drie-jaar. Dit in verband met de hoogte van de subsidie die aangevraagd wordt. De clientgegevens en trajectgegevens die de gemeente ontvangt van een GGZ-instelling zijn limitatief beschreven in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van de regeling.
 
 Wanneer de aanvraag wordt ingediend voor een IPS-traject dat is gestart voorafgaand aan de subsidieaanvraag, wordt tevens de startdatum van het traject gedeeld.
 
 ### Besluit gemeente op aanvraag
 
-Gemeente stuurt UWV een voorgenomen besluit tot subsidieverlening teneinde te verifiëren of het subsidiebudget toereikend is. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01), van deze regeling, beschrijft limitatief welke gegevens de gemeente verstrekt aan UWV.
+Gemeente stuurt UWV een voorgenomen besluit tot subsidieverlening teneinde te verifiëren of het subsidiebudget toereikend is. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van deze regeling, beschrijft limitatief welke gegevens de gemeente verstrekt aan UWV.
 
 Bij een afwijzend besluit stelt de gemeente via een beveiligd mailsysteem (zivver) de GGZ-instelling daarvan op de hoogte. Bij een toewijzend besluit stelt de gemeente via een beveiligd mailsysteem (zivver) de GGZ-instelling daarvan op de hoogte en informeert UWV hierover.
 
