@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-12-16"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluiten:
 |   | [2.18.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.18.2) | Herinrichting van een hoogwaardige mestverwerkingsinstallatie |   |   | 01-09-2025 t/m 13-10-2025 | € 3.500.000 |
 | [Titel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.19): Behoud graslandareaal | [2.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.19.2) | Landbouwer, bedoeld in [artikel 2.19.3, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.19.3) | Behoud graslandareaal | Behoud graslandareaal | 14-07-2025 t/m 25-08-2025 | € 160.000.000 |
 | [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | Warmte-infrastructuur glastuinbouw | 31-01-2025 t/m 31-03-2025 | € 90.000.000 |
-| [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
+| [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   |   | 05-01-2026 t/m 13-02-2026 | € 2.420.000 |
 | [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) |   | Innovatie | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
 | [Titel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.26): Sanering garnalenvisserij | [artikel 2.26.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.26.2) | Garnalenvissers |   |   | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
 | [Titel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.28): Hygiënisatie- en drooginstallaties | [2.28.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.28.2) | Intermediaire onderneming | Inrichting van een hygiënisatieinstallatie | Inrichting van een hygiënisatieinstallatie | 1-12-2025 t/m 27-02-2026 | 3.750.000 |
