@@ -4,7 +4,7 @@ identifier: "BWBR0048326"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048326"
 soort: "AMvB"
@@ -104,7 +104,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de vrijwilligheid van de pensioenregeling;
 
-- c. de wijze waarop en de termijnen waarin de verschuldigde premie moet worden voldaan met in achtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=4&z=2023-07-01&g=2023-07-01);
+- c. de wijze waarop en de termijnen waarin de verschuldigde premie moet worden voldaan met in achtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=4&z=2026-01-01&g=2026-01-01);
 
 - d. de fiscale behandeling, waaronder begrepen de fiscale behandeling van premies, uitkeringen en de fiscale consequenties van afkoop in algemene zin;
 
@@ -116,7 +116,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. de duur van het experiment;
 
-- i. het gebruik van het recht van de pensioenuitvoerder om aan het einde van het experiment de pensioenregeling te beëindigen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=9&z=2023-07-01&g=2023-07-01);
+- i. het gebruik van het recht van de pensioenuitvoerder om aan het einde van het experiment de pensioenregeling te beëindigen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=9&z=2026-01-01&g=2026-01-01);
 
 - j. de gevolgen en keuzemogelijkheden bij de beëindiging van het experiment;
 
@@ -142,7 +142,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5. Nabestaandenpensioen
 
-De voortzetting van het nabestaandenpensioen voor de periode van drie maanden of periode van zes maanden na beëindiging deelneming, bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55), is van overeenkomstige toepassing indien de zelfstandige niet meer deelneemt omdat degene niet meer valt onder de definitie van zelfstandige of indien sprake is van een situatie als bedoeld in [artikel 9, derde lid, of vierde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=9&z=2023-07-01&g=2023-07-01).
+De voortzetting van het nabestaandenpensioen voor de periode van drie maanden of periode van zes maanden na beëindiging deelneming, bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55), is van overeenkomstige toepassing indien de zelfstandige niet meer deelneemt omdat degene niet meer valt onder de definitie van zelfstandige of indien sprake is van een situatie als bedoeld in [artikel 9, derde lid, of vierde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=9&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 6. Afkoop klein ouderdomspensioen
 
@@ -164,7 +164,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - f. het gegeven of sprake is van een eigen pensioenregeling voor zelfstandigen of van een openstelling van een bestaande pensioenregeling;
 
-- g. voor zover van toepassing, het gegeven of het bedrijfstakpensioenfonds wel of niet gebruikmaakt van het aanschrijven van zelfstandigen, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=3&z=2023-07-01&g=2023-07-01); en
+- g. voor zover van toepassing, het gegeven of het bedrijfstakpensioenfonds wel of niet gebruikmaakt van het aanschrijven van zelfstandigen, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=3&z=2026-01-01&g=2026-01-01); en
 
 - h. informatie over de keuzemogelijkheden van de zelfstandige waarin de pensioenregeling voorziet.
 
@@ -176,7 +176,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. De pensioenuitvoerder is bevoegd tot het verwerken van persoonsgegevens van de zelfstandige voor zover dat noodzakelijk is voor het bewaken van het experiment en de evaluatie daarvan.
 
-3. Het onafhankelijke onderzoeksbureau, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=10&z=2023-07-01&g=2023-07-01) is bevoegd tot het verwerken van gegevens, waaronder persoonsgegevens, voor zover dat noodzakelijk is voor het bewaken van het experiment en de evaluatie daarvan.
+3. Het onafhankelijke onderzoeksbureau, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=10&z=2026-01-01&g=2026-01-01) is bevoegd tot het verwerken van gegevens, waaronder persoonsgegevens, voor zover dat noodzakelijk is voor het bewaken van het experiment en de evaluatie daarvan.
 
 4. De pensioenuitvoerder is bevoegd uit eigen beweging en is verplicht op verzoek van Onze Minister gegevens, waaronder persoonsgegevens, te verstrekken aan Onze Minister voor zover dat noodzakelijk is voor het bewaken van het experiment en de evaluatie daarvan.
 
@@ -190,7 +190,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Indien dit experiment wordt omgezet in een structurele wettelijke regeling, als bedoeld in [artikel 150a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), heeft de pensioenuitvoerder het recht om na afloop van de duur van het experiment de pensioenregeling te beëindigen.
 
-4. Indien het experiment wordt beëindigd en dit besluit als gevolg komt te vervallen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=10&z=2023-07-01&g=2023-07-01), geldt het volgende:
+4. Indien het experiment wordt beëindigd en dit besluit als gevolg komt te vervallen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=10&z=2026-01-01&g=2026-01-01), geldt het volgende:
 
 - a. de pensioenuitvoerder kan voor de zelfstandige vrijwillige voortzetting van de pensioenregeling uitvoeren als bedoeld in [artikel 54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=54), waarbij een termijn van tien jaar geldt voor zover degene gedurende de vrijwillige voortzetting een zelfstandige is;
 
@@ -214,7 +214,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Een onafhankelijk onderzoeksbureau, aan wie de opdracht door Onze Minister is verstrekt, bewaakt het experiment ten behoeve van de evaluatie en voert deze evaluatie uit.
 
-2. Het onafhankelijke onderzoeksbureau is bevoegd in aanvulling op [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=8&z=2023-07-01&g=2023-07-01) gedurende de experimenteerperiode gegevens te verzamelen ten behoeve van de evaluatie en de uitvoering daarvan.
+2. Het onafhankelijke onderzoeksbureau is bevoegd in aanvulling op [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=8&z=2026-01-01&g=2026-01-01) gedurende de experimenteerperiode gegevens te verzamelen ten behoeve van de evaluatie en de uitvoering daarvan.
 
 3. De pensioenuitvoerder die in het kader van dit besluit een pensioenregeling voor zelfstandigen aanbiedt, verstrekt op verzoek van het onafhankelijke onderzoeksbureau de relevante informatie ten behoeve van de evaluatie en de uitvoering daarvan.
 
@@ -230,7 +230,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. de mate waarin de pensioenregeling aansluit op de behoeften van deelnemende zelfstandigen;
 
-- c. de mate waarin en de wijze waarop zelfstandigen vertegenwoordigd en betrokken zijn bij de totstandkoming van pensioenregeling; de effecten van pensioenregelingen waarbij het initiatief tot deelname is genomen door de pensioenuitvoerder door middel van automatisch aanschrijven, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=3&z=2023-07-01&g=2023-07-01), afgezet tegen de effecten van pensioenregelingen waarbij het initiatief tot deelname is genomen door de zelfstandige; en
+- c. de mate waarin en de wijze waarop zelfstandigen vertegenwoordigd en betrokken zijn bij de totstandkoming van pensioenregeling; de effecten van pensioenregelingen waarbij het initiatief tot deelname is genomen door de pensioenuitvoerder door middel van automatisch aanschrijven, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048326&artikel=3&z=2026-01-01&g=2026-01-01), afgezet tegen de effecten van pensioenregelingen waarbij het initiatief tot deelname is genomen door de zelfstandige; en
 
 - d. voor zover van toepassing, de effecten van het experiment op de deelnemers, gewezen deelnemers en pensioengerechtigden waarbij de pensioenregeling is opengesteld voor zelfstandigen bij een ondernemingspensioenfonds, bedrijfstakpensioenfonds en een algemeen pensioenfonds.
 
@@ -242,7 +242,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Dit besluit vervalt op een bij koninklijk besluit te bepalen tijdstip dat niet later ligt dan vijf jaar na het tijdstip van inwerkingtreding.
 
-3. Indien toepassing wordt gegeven aan [artikel 150a, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), vervalt dit besluit, in afwijking van het tweede lid, op een bij koninklijk besluit te bepalen tijdstip met inachtneming van genoemd artikellid.
+3. Indien toepassing wordt gegeven aan [artikel 150a, tweede lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), vervalt dit besluit, in afwijking van het tweede lid, op een bij koninklijk besluit te bepalen tijdstip met inachtneming van genoemd artikellid.
 
 ##### Artikel 12. Citeertitel
 
