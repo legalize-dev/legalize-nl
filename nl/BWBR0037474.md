@@ -4,7 +4,7 @@ identifier: "BWBR0037474"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037474"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling verstaat onder besluit: [Uitvoeringsbesluit identificatie- en rapp
 
 ##### Artikel 3. Aanwijzing rechtsgebieden
 
-Als rechtsgebieden als bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037469&artikel=11) worden aangewezen: Albanië, Andorra, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbeidzjan, Bahamas, Bahrein, Barbados, België, Belize, Bermuda, Brazilië, Britse Maagdeneilanden, Brunei Darussalam, Bulgarije, Canada, Chili, China, Colombia, Cook Eilanden, Costa Rica, Curaçao, Cyprus, Denemarken, Dominica, Duitsland, Ecuador, Estland, Faröer Eilanden, Finland, Frankrijk, Georgië, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guernsey, Hongarije, Hong Kong, Ierland, IJsland, India, Indonesië, Israël, Italië, Jamaica, Japan, Jersey, Kaaimaneilanden, Kameroen, Kazachstan, Kenia, Koeweit, Korea, Kroatië, Letland, Libanon, Liberia, Liechtenstein, Litouwen, Luxemburg, Macau, Malediven, Maleisië, Malta, Isle of Man, Marokko, Marshall Eilanden, Mauritius, Mexico, Moldavië, Monaco, Montenegro, Montserrat, Nauru, Nieuw-Caledonië, Nieuw-Zeeland, Nigeria, Niue, Noorwegen, Oekraïne, Oman, Oostenrijk, Pakistan, Panama, Peru, Polen, Portugal, Qatar, Roemenië, Rusland, Rwanda, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadinen, Samoa, San Marino, Saoedi Arabië, Senegal, Seychellen, Singapore, Sint Maarten, Slovenië, Slowakije, Spanje, Thailand, Tsjechië, Turkije, Turks- en Caicoseilanden, Uganda, Uruguay, Vanuatu, Verenigd Koninkrijk, Verenigde Arabische Emiraten, Zuid-Afrika, Zweden en Zwitserland.
+Als rechtsgebieden als bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037469&artikel=11) worden aangewezen: Albanië, Andorra, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbeidzjan, Bahamas, Bahrein, Barbados, België, Belize, Bermuda, Brazilië, Britse Maagdeneilanden, Brunei Darussalam, Bulgarije, Canada, Chili, China, Colombia, Cook Eilanden, Costa Rica, Curaçao, Cyprus, Denemarken, Dominica, Duitsland, Ecuador, Estland, Faröer Eilanden, Finland, Frankrijk, Georgië, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guernsey, Hongarije, Hong Kong, Ierland, IJsland, India, Indonesië, Israël, Italië, Jamaica, Japan, Jersey, Kaaimaneilanden, Kameroen, Kazachstan, Kenia, Koeweit, Korea, Kroatië, Letland, Libanon, Liberia, Liechtenstein, Litouwen, Luxemburg, Macau, Malediven, Maleisië, Malta, Isle of Man, Marokko, Marshall Eilanden, Mauritius, Mexico, Moldavië, Monaco, Mongolië, Montenegro, Montserrat, Nauru, Nieuw-Caledonië, Nieuw-Zeeland, Nigeria, Niue, Noorwegen, Oekraïne, Oman, Oostenrijk, Pakistan, Panama, Papoea-Nieuw-Guinea, Peru, Polen, Portugal, Qatar, Roemenië, Rusland, Rwanda, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadinen, Samoa, San Marino, Saoedi Arabië, Senegal, Seychellen, Singapore, Sint Maarten, Slovenië, Slowakije, Spanje, Thailand, Trinidad en Tobago, Tsjechië, Turkije, Turks- en Caicoseilanden, Uganda, Uruguay, Vanuatu, Verenigd Koninkrijk, Verenigde Arabische Emiraten, Zuid-Afrika, Zweden en Zwitserland.
 
 ##### Artikel 4. Citeertitel
 
