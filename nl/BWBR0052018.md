@@ -4,7 +4,7 @@ identifier: "BWBR0052018"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-04-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052018"
 soort: "wet"
@@ -70,13 +70,13 @@ Onze Minister van Financiën zendt binnen vijf jaar na de inwerkingtreding van d
 
 Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
-- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=I&z=2026-01-01&g=2025-04-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=III&z=2026-01-01&g=2025-04-01) voor het eerst toepassing vinden met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2026;
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=III&z=2026-01-01&g=2026-01-01) voor het eerst toepassing vinden met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2026;
 
-- b. [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2025-04-01), terugwerkt tot en met 1 januari 2025;
+- b. [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 1 januari 2025;
 
-- c. [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2025-04-01), terugwerkt terug tot en met 1 april 2025;
+- c. [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2026-01-01), terugwerkt terug tot en met 1 april 2025;
 
-- d. [artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2025-04-01), terugwerkt tot en met 15 juli 2023.
+- d. [artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0052018&artikel=II&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 15 juli 2023.
 
 ##### Artikel VII
 
