@@ -4,7 +4,7 @@ identifier: "BWBR0026845"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026845"
 soort: "ministeriele-regeling"
@@ -262,27 +262,53 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik, VeO, wordt berekend door de som van het aantal gedurende elk etmaal van het heffingsjaar afgevoerde hoeveelheden zuurstofverbruik, uitgedrukt in kilogrammen, te delen door 54,8 kilogram.
 
-2. De gedurende een etmaal afgevoerde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule:
+2. De gedurende een etmaal geloosde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule:
+
+| (Q × (3 × TOC + 4,57 × (TNb – TON)) | [kg/etm] |
+| --- | --- |
+| 1000 | [kg/etm] |
 
 waarbij:
 
-Q = het debiet in m3/etmaal;
+Q: afvalwaterhoeveelheid (m3/d)
 
-CZV = het chemisch zuurstofverbruik bepaald volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2024-01-01&g=2024-01-01) vermelde analysevoorschriften, in mg/l;
+TOC: totaal organisch koolstof (mg/l)
 
-NKj = de som van ammonium-stikstof en organisch gebonden stikstof, bepaald volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l.
+TNb: totaal gebonden stikstof (mg/l)
 
-3. Indien de CZV-waarde voor ten minste 25% afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen in het afvalwater, wordt op die waarde een correctie toegepast door deze te vermenigvuldigen met de breuk
+TON: totaal oxideerbare stikstof (mg/l) = (NO2+NO3)
+
+NO2: nitriet stikstof (mg/l)
+
+NO3: nitraat stikstof (mg/l)
+
+3. Indien het zuurstofverbruik, zoals berekend volgens het tweede lid, voor tenminste 25% afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen in het afvalwater, wordt op die waarde een correctie toegepast door deze te vermenigvuldigen met de correctiefactor f:
+
+| **f =** | (100 – T) |   |
+| --- | --- | --- |
+| **f =** | 75 |   |
 
 waarbij:
 
-T = het percentage CZV, afkomstig van biologisch niet of nagenoeg niet afbreekbare stoffen.
+f = correctiefactor
+
+T = het percentage van het zuurstofverbruik, zoals berekend volgens het tweede lid, dat afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen.
 
 T wordt berekend bij:
 
-- a. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen, vanuit een inrichting, in gebruik bij een provincie, een gemeente, een waterschap of een ander openbaar lichaam of het brengen van zuurstofbindende stoffen met biochemisch zuurstofverbruik van niet meer dan 20 mg/l vanuit een bedrijfsruimte als bedoeld in [artikel 7.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.1), met behulp van de methode van het biochemisch zuurstofverbruik na vijf dagen, volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2024-01-01&g=2024-01-01) vermelde analysevoorschriften, in mg/l;
+- a. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen, vanuit een inrichting, in gebruik bij een provincie, een gemeente, een waterschap of een ander openbaar lichaam of het brengen van zuurstofbindende stoffen met biochemisch zuurstofverbruik van niet meer dan 20 mg/l vanuit een bedrijfsruimte met behulp van de methode van het biochemisch zuurstofverbruik na vijf dagen, volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2026-01-01&g=2026-01-01) vermelde analysevoorschriften, in mg/l;
 
 - b. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen in andere dan de onder a bedoelde gevallen met behulp van een andere toereikende bepalingsmethode.
+
+4. Voor het bepalen van de correctie, bedoeld in het derde lid, wordt door de heffingplichtige een aanvraag ingediend. De aanvraag bevat in ieder geval:
+
+- a. een omschrijving van de afvalwaterstromen waarvoor de correctie wordt aangevraagd;
+
+- b. de wijze en frequentie van meten, bemonsteren en analyseren;
+
+- c. het type, aantal en te volgen methodieken van de uit te voeren toxiciteitstesten en biodegradatieonderzoeken.
+
+5. De heffingsambtenaar beslist op de aanvraag, bedoeld in het vierde lid, bij voor bezwaar vatbare beschikking waaraan voorschriften kunnen worden verbonden. Daarbij kan het in ieder geval gaan om voorschriften over de frequentie van meten, bemonsteren en analyseren.
 
 ##### Artikel 7.3
 
@@ -290,7 +316,7 @@ Vervallen
 
 ##### Artikel 7.4
 
-Voor de berekening van de frequentie van meting, bemonstering en analyse als bedoeld in [artikel 7.5, eerste en tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) wordt gebruik gemaakt van de volgende formule:
+Voor de berekening van de frequentie van meting, bemonstering en analyse, bedoeld in [artikel 7.5, eerste en tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) wordt gebruik gemaakt van de volgende formule:
 
 waarbij:
 
@@ -302,7 +328,7 @@ tso = toelaatbare statische onnauwkeurigheid =
 
 N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden geloosd;
 
-σ = spreidingspercentage in de meetwaarden, uitgedrukt ten opzichte van het gemiddelde van de hoeveelheden zuurstofverbruik van de afgevoerde stoffen in de etmalen waarop gedurende het heffingsjaar onderzoek heeft plaatsgehad.
+σ = spreidingspercentage in de meetwaarden, uitgedrukt ten opzichte van het gemiddelde van de hoeveelheden zuurstofverbruik van de geloosde stoffen in de etmalen waarop gedurende het heffingsjaar onderzoek heeft plaatsgehad.
 
 ##### Artikel 7.5
 
@@ -352,7 +378,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 - a. de besluiten, bedoeld in het tweede en zesde lid, wijzigen of intrekken, in verband met het bepaalde in het eerste lid;
 
-- b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.4&z=2024-01-01&g=2024-01-01) leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.
+- b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01) leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.
 
 ##### Artikel 7.6
 
@@ -374,7 +400,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 1. Het debiet wordt in de afvalwaterstroom gemeten.
 
-2. In afwijking van het eerste lid kan het debiet worden bepaald op basis van meting van de hoeveelheid water in het watertoevoersysteem van het bedrijf of van de bedrijfsonderdelen. De per etmaal afgevoerde hoeveelheid afvalwater is niet groter dan de in dezelfde periode toegevoerde hoeveelheid water.
+2. In afwijking van het eerste lid kan het debiet worden bepaald op basis van meting van de hoeveelheid water in het watertoevoersysteem van het bedrijf of van de bedrijfsonderdelen. De per etmaal geloosde hoeveelheid afvalwater is niet groter dan de in dezelfde periode toegevoerde hoeveelheid water.
 
 ##### Artikel 7.8
 
@@ -404,7 +430,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 - a. het controleren van de meetversterker en het registeren en corrigeren van afwijkingen waarbij de meetversterker wordt gecontroleerd op lineariteit, versterkingsfactor en nulpuntsinstelling, en
 
-- b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de meetbuis op vervuiling waarbij de in de meetbuis aanwezige vervuiling wordt daarbij verwijderd.
+- b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de meetbuis op vervuiling waarbij de in de meetbuis aanwezige vervuiling wordt verwijderd.
 
 4. De meetapparatuur wordt ten minste éénmaal voor 1 januari 2014 nat gekalibreerd in ingebouwde toestand en daarna ten minste éénmaal per vijf jaar.
 
@@ -436,7 +462,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 ##### Artikel 7.12
 
-1. Bij bemonstering met behulp van ‘in-line’-monstername-apparatuur bevindt het bemonsteringspunt zich niet in een bocht of een vernauwing in de leiding. Indien het te bemonsteren afvalwater wordt afgevoerd met behulp van een pomp dan bevindt het bemonsteringspunt zich aan de perszijde van deze pomp.
+1. Bij bemonstering met behulp van ‘in-line’-monstername-apparatuur bevindt het bemonsteringspunt zich niet in een bocht of een vernauwing in de leiding. Indien het te bemonsteren afvalwater wordt geloosd met behulp van een pomp dan bevindt het bemonsteringspunt zich aan de perszijde van deze pomp.
 
 2. Als een gesloten meetsysteem wordt gecombineerd met vacuümmonstername-apparatuur bevindt het aanzuigpunt zich op het punt waar de gesloten leiding uitmondt in een open afvoersysteem of er is vanuit de gesloten leiding een aftakking gemaakt, uitmondend in een doorstroomd buffervat waaruit wordt bemonsterd. De stroomsnelheid van het afvalwater in de aftakking is in dat geval ten minste gelijk aan die in de hoofdleiding.
 
@@ -463,12 +489,17 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 | Voor analyse op onderstaande parameter/stof | Omgevingstemperatuur | Omgevingstemperatuur | Methode conservering | Maximale bewaartijd |
 | --- | --- | --- | --- | --- |
 |   | tijdens transport | tot einde bewaartermijn |   |   |
-| biochemisch zuurstofverbruik | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen onder uitsluiting van licht. | 1 dag |
-| biochemisch zuurstofverbruik | tussen 2 en 8 °C | <– 18 °C | Invriezen binnen 12 uur | 1 mnd (indien BZV < =50 mg/l) 6 mnd (indien BZV >50 mg/l) |
-| chemisch zuurstofverbruik | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren met H2SO4 tot pH < 2 | 6 maanden |
-| chemisch zuurstofverbruik | tussen 2 en 8 °C | <– 18 °C | Invriezen binnen 12 uur | 6 maanden |
-| som ammoniumstikstof en organisch gebonden stikstof | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren met H2SO4 tot pH < 2 | 1 maand |
-| som ammoniumstikstof en organisch gebonden stikstof | tussen 2 en 8 °C | <– 18 °C | Invriezen binnen 12 uur | 6 maanden |
+| totaal organisch koolstof (TOC) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren tot pH < 2 | 8 dagen |
+| totaal organisch koolstof (TOC) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 1 maand |
+| totaal gebonden stikstof (TNb) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren tot pH < 2 | 8 dagen |
+| totaal gebonden stikstof (TNb) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 1 maand |
+| som nitriet- en nitraatstikstof (TON) | tussen 2 en 8 °C | tussen 1 en 5 °C | Filtreren | 4 dagen |
+| som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren met H2S04 tot pH < 2 | 8 dagen |
+| som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 1 maand |
+| chemisch zuurstofverbruik (CZV) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen en aanzuren met H2SO4 tot pH < 2 | 6 maanden |
+| chemisch zuurstofverbruik (CZV) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 6 maanden |
+| biochemisch zuurstofverbruik (BZV) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen onder uitsluiting van licht. | 1 dag |
+| biochemisch zuurstofverbruik (BZV) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 1 maand (indien BZV ≤ 50 mg/l) 6 maanden (indien BZV > 50 mg/l) |
 
 ##### Artikel 7.15
 
@@ -478,24 +509,28 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 3. De in tabel B vermelde aantoonbaarheidsgrenzen zijn de concentraties van de desbetreffende stoffen die bij de analyse ten minste aangetoond worden.
 
-| Parameter/stof | Ontsluiting volgens normblad | Meting volgens normblad | Aantoonbaarheidsgrens |
+| Parameter/stof | Ontsluiting volgens normblad | Meting volgens normblad | Aantoonbaarheidsgrens1 en 2 |
 | --- | --- | --- | --- |
-| biochemisch zuurstofverbruik |   | NEN-EN 1899-1 | 1 mg/l |
-| chemisch zuurstofverbruik |   | NEN-ISO 15705 of NEN 6633 | 5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN 6645 | NEN 6604 of ISO 15923 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN 6645 | NEN 6646 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN 6645 | NEN-EN-ISO 11732 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN-EN 12260 | NEN-EN 12260 en voor correctie nitriet/nitraat: NEN-EN-ISO 13395, NEN 6604 of ISO 15923-1 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN-ISO 5663 | NEN 6604 of ISO 15923-1 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN-ISO 5663 | NEN-ISO 5663 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN 6646 | NEN 6646 | 0,5 mg/l |
-| som ammoniumstikstof en organisch gebonden stikstof | NEN 6646 | NEN 6604 of ISO 15923 | 0,5 mg/l |
+| totaal organisch koolstof (TOC) |   | NEN-EN-ISO 20236:2024 en | 1 mg/l |
+| totaal gebonden stikstof (TNb) |   | NEN-EN-ISO 20236:2024 en | 1 mg/l |
+| som nitriet- en nitraatstikstof (TON) |   | NEN-EN-ISO 13395:1997 nl; of NEN-EN-ISO 15923-1:2024 en |   |
+| som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) | NEN 6645:2005 nl3 | NEN-EN-ISO 15923-1:2024 en | 0,5 mg/l |
+| som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) | NEN 6645:2005 nl3 | NEN 6646+C1:2015 nl | 0,5 mg/l |
+| som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) | NEN 6645:2005 nl3 | NEN-EN-ISO 11732:2005 en | 0,5 mg/l |
+| chemisch zuurstofverbruik (CZV) |   | NEN 6633:2006 nl of NEN-ISO 15705:2003 en4 | 5 mg/l5 |
+| biochemisch zuurstofverbruik (BZV) |   | NEN-EN-ISO 5815-1:2019 en | Volgens norm; 1 mg/l |
 
-4. Indien een concentratie gerapporteerd wordt als zijnde kleiner dan de aantoonbaarheidsgrens, wordt voor de aanslag van de verontreinigingsheffing een concentratie van de helft van de aantoonbaarheidsgrens aangehouden.
+1De aantoonbaarheidsgrenzen voor zware metalen zijn gebaseerd op een afvalwatermonster met een soortelijke geleiding tot 1.500 μS/cm en bij onopgeloste stoffen tot een gehalte van 100 mg/l. Bij afvalwatermonsters met een matrix die groter is dan genoemde waarden voor elektrisch geleidingsvermogen en onopgeloste stoffen kan een hogere aantoonbaarheidsgrens gelden.
 
-5. De meting volgens normblad NEN-ISO 15705 is toepasbaar voor onverdunde monsters met een gehalte zuurstofverbruik tot aan 1.000 mg/l en chlorideconcentraties die lager zijn dan 1.000 mg/l.
+2Indien een concentratie gerapporteerd wordt als zijnde kleiner dan de aantoonbaarheidsgrens, wordt voor de aanslag van de verontreinigingsheffing een concentratie van de helft van de aantoonbaarheidsgrens aangehouden.
 
-6. In afwijking van de in tabel B opgenomen aantoonbaarheidsgrens heeft de meting volgens normblad NEN-ISO 15705 een aantoonbaarheidsgrens van 6 mg/l voor fotometrische detectie bij 600 nm en 15 mg/l voor titrimetrische detectie (gebaseerd op één enkelvoudige meting van één laboratorium) wanneer cuvetten worden gebruikt met een bereik van maximaal 1.000 mg/l.
+3Voor het bepalen van de som totaal gebonden stikstof verminderd met nitriet- en nitraatstikstof (TNb-TON) mag de analyse alleen volgens normblad NEN 6645:2005 nl plaatsvinden als TNb groter is dan 10mb N/L en voor meer dan 30% bestaat uit TON.
+
+4De analyse volgens normblad NEN-ISO 15705:2003 en is toepasbaar voor onverdunde monsters met een gehalte aan zuurstofverbruik tot aan 1.000 mg/l en chlorideconcentratie die lager zijn dan 1.000 mg/l. De heffingsambtenaar kan de methode niet toepasbaar verklaren als naar zijn oordeel andere omstandigheden daartoe aanleiding geven.
+
+5De analyse volgens normblad NEN-ISO 15705:2003 en heeft een aantoonbaarheidsgrens van 6 mg/l voor fotometrische detectie bij 600nm en 15 mg/l voor titrimetrische detectie (gebaseerd op één enkelvoudige meting van één laboratorium) wanneer cuvetten worden gebruikt met een bereik van maximaal 1.000 mg/l.
+
+4. De in dit artikel genoemde internationale normbladen worden bekendgemaakt door terinzagelegging bij het Nederlands Normalisatie Instituut te Delft en bij Rijkswaterstaat te Rotterdam. De nationale normbladen zijn kosteloos in te zien op de website van het Nederlands Normalisatie Instituut.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -505,7 +540,7 @@ Vervallen
 
 ##### Artikel 8.2
 
-Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van [artikel 6.18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.18&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van 10 oktober 2011.
+Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van [artikel 6.18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.18&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van 10 oktober 2011.
 
 ##### Artikel 8.3
 
@@ -2273,11 +2308,11 @@ Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage II. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+## Bijlage I. Bedrijven en bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.3) (bijlage bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van de Waterregeling)
 
 Vervallen
 
-## Bijlage III. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), van de Waterregeling)
+## Bijlage II. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01), en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-01-01&g=2026-01-01) van de Waterregeling)
 
 Vervallen
 
@@ -2323,7 +2358,7 @@ Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage IV. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert en van rijkswateren waar een niet tot het Rijk behorend overheidslichaam het waterstaatkundig beheer voert (bijlage bij de [artikelen 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), [3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2024-01-01&g=2024-01-01) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&artikel=6.7&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+## Bijlage III. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01), van de Waterregeling)
 
 Vervallen
 
@@ -2367,7 +2402,7 @@ Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage V. Formulieren voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4) (bijlage bij [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+## Bijlage IV. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert en van rijkswateren waar een niet tot het Rijk behorend overheidslichaam het waterstaatkundig beheer voert (bijlage bij de [artikelen 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01), [3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2026-01-01&g=2026-01-01) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&artikel=6.7&z=2026-01-01&g=2026-01-01) van de Waterregeling)
 
 Vervallen
 
@@ -2387,20 +2422,76 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2023-08-01&g=2023-08-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
+## Bijlage V. Formulieren voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4) (bijlage bij [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01) van de Waterregeling)
+
+Vervallen
+
 ## Bijlage VI. Voorschriften voor het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de resultaten daarvan (bijlage bij artikel 6.3 van de Waterregeling)
 
 Vervallen
 
-## Bijlage VII. Parameters en frequentie van bemonstering en analyse van te infiltreren water (bijlage bij [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=3&artikel=6.5&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+## Bijlage VII. Parameters en frequentie van bemonstering en analyse van te infiltreren water (bijlage bij [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=3&artikel=6.5&z=2026-01-01&g=2026-01-01) van de Waterregeling)
 
 Vervallen
 
-## Bijlage VIII. Aanwijzing van de stroomvoerende delen van de rijkswateren (bijlage bij [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.2&artikel=6.13&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+## Bijlage VIII. Aanwijzing van de stroomvoerende delen van de rijkswateren (bijlage bij [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.2&artikel=6.13&z=2026-01-01&g=2026-01-01) van de Waterregeling)
 
 Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2024-01-01&g=2024-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2024-01-01&g=2024-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2024-01-01&g=2024-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2024-01-01&g=2024-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+##### Artikel 7.16
+
+1. Voor het bepalen van de verhouding in het kalenderjaar tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof beslist de heffingsambtenaar op een aanvraag van een heffingplichtige als bedoeld in [artikel 7.5, vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) bij voor bezwaar vatbare beschikking en geeft daarin in ieder geval voorschriften met betrekking tot de:
+
+- a. afvalwaterstromen en de stoffen die in het vergelijkend onderzoek worden betrokken;
+
+- b. tijdvakken waarin meting en bemonstering geschieden, hetzij ieder etmaal van die tijdvakken, hetzij één of meer daartoe aangewezen etmalen daarvan;
+
+- c. wijze waarop de op de voet van onderdeel b verkregen uitkomsten worden herleid tot de verhouding tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof over het heffingsjaar.
+
+2. Een afwijkende verhouding tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof in de geloosde stoffen als bedoeld in [artikel 7.5, vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) geldt tot het heffingsjaar waarin een nieuwe verhouding wordt vastgesteld.
+
+3. Veranderingen in de bedrijfsomstandigheden, die aanleiding kunnen geven tot een wijziging in de verhouding tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof in de geloosde stoffen in het kalenderjaar, worden door de heffingplichtige onverwijld gemeld aan de heffingsambtenaar.
+
+4. Indien op grond van [artikel 7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) door de heffingsambtenaar is ingestemd met meting, bemonstering en analyse in een beperkt aantal etmalen, wordt de voor deze etmalen vastgestelde verhouding tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof representatief geacht voor elk kalenderjaar in de door de heffingsambtenaar bepaalde looptijd van de beschikking.
+
+5. [Artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.2&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing bij een afwijkende verhouding tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof in de geloosde stoffen, met dien verstande dat in artikel 7.2, derde lid, voor ‘het zuurstofverbruik, zoals berekend volgens het tweede lid’ wordt gelezen: het zuurstofverbruik zoals berekend volgens de formule:
+
+| Q × (X × ((TOC-DOC) + (DOC × f)) + 4,57 × (TNb – TON)) |   |
+| --- | --- |
+| 1000 |   |
+
+Waarbij:
+
+Q: afvalwaterhoeveelheid (m3/d)
+
+X: de afwijkende verhouding
+
+TOC: totaal organisch koolstof (mg/l)
+
+TNb: totaal gebonden stikstof (mg/l)
+
+TON: totaal oxideerbare stikstof (mg/l) = (NO2+NO3)
+
+NO2: nitriet stikstof (mg/l)
+
+NO3: nitraat stikstof (mg/l)
+
+6. De heffingsambtenaar beslist op aanvraag van de heffingplichtige, die aannemelijk maakt dat daardoor de uitkomsten van de meting, bemonstering en analyse voor het bepalen van de verhouding in het kalenderjaar tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof niet wordt beïnvloed, dat van één of meer van de in deze regeling opgenomen voorschriften kan worden afgeweken en kan daaromtrent nadere voorschriften geven.
+
+7. De beslissing van de heffingsambtenaar op een aanvraag als bedoeld in het zesde lid bevat in elk geval:
+
+- a. de voorschriften van deze regeling waarvan mag worden afgeweken;
+
+- b. de toegestane afwijkingen van de in deze regeling opgenomen voorschriften;
+
+- c. nadere voorschriften van de heffingsambtenaar.
+
+### Hoofdstuk 8. Slotbepalingen
 
 ## Bijlage IX. Aanvraagformulier voor de watervergunning (bijlage bij artikel 6.18 van de Waterregeling)
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2024-01-01&g=2024-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2024-01-01&g=2024-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2024-01-01&g=2024-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2024-01-01&g=2024-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2026-01-01&g=2026-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2026-01-01&g=2026-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2026-01-01&g=2026-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2026-01-01&g=2026-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
