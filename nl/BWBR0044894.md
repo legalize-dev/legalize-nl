@@ -4,7 +4,7 @@ identifier: "BWBR0044894"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044894"
 soort: "AMvB"
@@ -92,19 +92,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het college stelt de loonwaarde vast op basis van de feitelijke werkzaamheden op de werkplek van de werknemer bij de werkgever met inachtneming van het bij of krachtens deze paragraaf gestelde op grond van het rapport, bedoeld in het derde lid, onderdeel d, en met inbreng van de werknemer en de werkgever die voornemens is een dienstbetrekking aan te gaan dan wel een dienstbetrekking is aangegaan met de werknemer.
 
-2. De loonwaarde bedraagt de som van de arbeidsprestaties per hoofdtaak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2025-07-01&g=2025-07-01), rekenkundig afgerond op hele procenten.
+2. De loonwaarde bedraagt de som van de arbeidsprestaties per hoofdtaak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01), rekenkundig afgerond op hele procenten.
 
 3. De loonwaardedeskundige:
 
-- a. bepaalt de normfunctie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=4&z=2025-07-01&g=2025-07-01);
+- a. bepaalt de normfunctie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- b. stelt de arbeidsprestaties per hoofdtaak vast overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2025-07-01&g=2025-07-01);
+- b. stelt de arbeidsprestaties per hoofdtaak vast overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01);
 
 - c. berekent de loonwaarde; en
 
 - d. legt de bevindingen, nadat de werknemer en de werkgever die een dienstbetrekking is aangegaan met de werknemer of dat voornemens is in staat zijn gesteld hun zienswijze kenbaar te maken, vast in een rapport dat voldoet aan bij ministeriële regeling te stellen regels.
 
-4. Het college draagt er zorg voor dat de loonwaardedeskundige aan de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01) gestelde kwaliteitseisen voldoet en in voldoende mate onafhankelijk functioneert.
+4. Het college draagt er zorg voor dat de loonwaardedeskundige aan de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01) gestelde kwaliteitseisen voldoet en in voldoende mate onafhankelijk functioneert.
 
 ##### Artikel 4. Bepalen van de normfunctie
 
@@ -174,7 +174,7 @@ Dit besluit wordt aangehaald als: Besluit loonkostensubsidie en minimumbedragen 
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2021, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4&artikel=7&z=2025-07-01&g=2025-07-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
+Dit besluit treedt in werking met ingang van 1 juli 2021, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -182,27 +182,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Het bedrag, bedoeld in [artikel 36b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b) bedraagt per maand minimaal voor:
 
-- a. 21-jarigen en ouder: € 376,22;
+- a. 21-jarigen en ouder: € 385,14;
 
-- b. 20-jarigen: € 300,98;
+- b. 20-jarigen: € 308,12;
 
-- c. 19-jarigen: € 225,74;
+- c. 19-jarigen: € 231,09;
 
-- d. 18-jarigen: € 188,11;
+- d. 18-jarigen: € 192,57;
 
-- e. 17-jarigen: € 148,61;
+- e. 17-jarigen: € 152,14;
 
-- f. 16-jarigen: € 129,80;
+- f. 16-jarigen: € 132,88;
 
-- g. 15-jarigen: € 112,87.
+- g. 15-jarigen: € 115,55.
 
 ##### Artikel 7b. Vrijlating stagevergoeding
 
-Het bedrag, bedoeld in [artikel 36b, vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b) bedraagt per maand € 225,74.
+Het bedrag, bedoeld in [artikel 36b, vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b) bedraagt per maand € 231,09.
 
 ##### Artikel 7c. Indexering
 
-1. Met ingang van de dag waarop het netto minimumloon, bedoeld in [artikel 37, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=37) wijzigt, worden de bedragen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7a&z=2025-07-01&g=2025-07-01) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7b&z=2025-07-01&g=2025-07-01), gewijzigd met het percentage van die wijziging.
+1. Met ingang van de dag waarop het netto minimumloon, bedoeld in [artikel 37, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=37) wijzigt, worden de bedragen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7a&z=2026-01-01&g=2026-01-01) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&paragraaf=4a&artikel=7b&z=2026-01-01&g=2026-01-01), gewijzigd met het percentage van die wijziging.
 
 2. De gewijzigde bedragen en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
