@@ -4,7 +4,7 @@ identifier: "BWBR0045187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2023-11-15"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045187"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 4. De subsidie, bedoeld in het eerste tot en met derde lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
 
-5. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2023-11-15).
+5. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2026-01-01).
 
 6. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste tot en met derde lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. De aanvraag
 
-In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2023-11-15) ten minste:
+In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2026-01-01) ten minste:
 
 - a. het adres van het gebouw ten behoeve waarvan subsidie wordt aangevraagd;
 
@@ -190,21 +190,21 @@ De subsidiabele kosten voor verbetering van het gebouw zijn de kosten voor verbe
 
 ##### Artikel 7. Subsidiabele kosten vóór indiening van de aanvraag
 
-In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15) en [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2023-11-15), tevens voor subsidie in aanmerking indien deze zijn betaald vóór de indiening van de aanvraag doch na 6 november 2020.
+In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01) en [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2026-01-01), tevens voor subsidie in aanmerking indien deze zijn betaald vóór de indiening van de aanvraag doch na 6 november 2020.
 
 ##### Artikel 8. Hoogte van de subsidie
 
-1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
+1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
 
-2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
+2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
 
-3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2023-11-15) bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
+3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2026-01-01) bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
 
 ##### Artikel 9. Vaststelling van de subsidie
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling wordt toepassing gegeven aan [artikel 16, tweede lid, onderdeel b, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
-2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2023-11-15&g=2023-11-15) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
+2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2023-11-15&g=2026-01-01) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
 
 ##### Artikel 10. Afwijzingsgronden
 
@@ -212,15 +212,15 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 11. Subsidieplafonds
 
-1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15) is € 266.000.000.
+1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01) is € 266.000.000.
 
-2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), is:
+2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), is:
 
 - a. in 2021: € 79.200.000;
 
 - b. op 10 januari 2022: € 238.000.000.
 
-3. Het subsidieplafond voor aanvragen op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2023-11-15) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2b&z=2023-11-15&g=2023-11-15), is van 6 juli 2022 tot en met 31 december 2025: € 232.800.000.
+3. Het subsidieplafond voor aanvragen op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2023-11-15&g=2026-01-01) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2b&z=2023-11-15&g=2026-01-01), is van 6 juli 2022 tot en met 31 december 2025: € 232.800.000.
 
 4. De minister verdeelt de subsidieplafonds, genoemd in het eerste en het tweede lid, op volgorde van binnenkomst van de aanvragen.
 
@@ -234,7 +234,7 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 2. De minister kan op verzoek van de aanvrager de in het eerste lid genoemde termijn met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat niet aan de in het eerste lid genoemde termijn kan worden voldaan.
 
-3. De minister kan op verzoek van de aanvrager de in het eerste lid genoemde termijn voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15), verlengen tot een jaar nadat de versterkingsmaatregelen aan het gebouw zijn uitgevoerd, indien dat later is dan de in het eerste lid genoemde termijn.
+3. De minister kan op verzoek van de aanvrager de in het eerste lid genoemde termijn voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01), verlengen tot een jaar nadat de versterkingsmaatregelen aan het gebouw zijn uitgevoerd, indien dat later is dan de in het eerste lid genoemde termijn.
 
 4. De subsidieontvanger houdt alle facturen en betalingsbewijzen met betrekking tot de activiteiten waarvoor de subsidie is vastgesteld gedurende drie jaar na vaststelling van de subsidie beschikbaar. De minister kan gedurende deze drie jaar op elk moment verzoeken om deze gegevens.
 
@@ -260,7 +260,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
 
 - a. bestemd of mede bestemd is voor bewoning;
 
@@ -294,7 +294,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De subsidie, bedoeld in het eerste lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
 
-4. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2023-11-15).
+4. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2026-01-01).
 
 5. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
 
@@ -304,7 +304,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2023-11-15) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2023-11-15&g=2026-01-01) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
 
 - a. bestemd of mede bestemd is voor bewoning;
 
@@ -342,7 +342,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De subsidie, bedoeld in het eerste lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
 
-4. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2023-11-15).
+4. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2023-11-15&g=2026-01-01).
 
 5. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
 
