@@ -4,7 +4,7 @@ identifier: "BWBR0044474"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044474"
 soort: "ministeriele-regeling"
@@ -48,7 +48,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **A1-urgentie:** een spoedeisende urgentie naar aanleiding van een zorgvraag waarbij uit triage blijkt dat er sprake is van een direct of op korte termijn levensbedreigende situatie als gevolg van een gezondheidsprobleem of letsel dat plotseling is ontstaan of verergert of in het geval dat dit gevaar pas na beoordeling door de ambulancezorgprofessional ter plaatse kan worden uitgesloten;
 
-- –. **minister:** Minister voor Medische Zorg;
+- –. **Kwaliteitskader Inzet van ambulancezorgprofessionals op de meldkamer ambulancezorg:** een kader voor de meldkamer ambulancezorg, waarmee de deskundigheid van de ambulancezorgprofessionals en daarmee de kwaliteit van de triage op de meldkamer ambulancezorg wordt geborgd;
+
+- –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
 - –. **MICU:** mobiele intensive care unit;
 
@@ -62,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **Regionale Ambulancevoorziening:** Regionale Ambulancevoorziening als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
 
-- –. **responstijd:** de tijdsduur tussen het aannemen van de melding door de verpleegkundig centralist van de Regionale Ambulancevoorziening en het moment waarop de ambulance arriveert bij de plaats waar de patiënt zich bevindt of waar de ambulance nog kan komen;
+- –. **responstijd:** de tijdsduur tussen het aannemen van de melding door de ambulancezorgprofessional van de Regionale Ambulancevoorziening op de meldkamer ambulancezorg en het moment waarop de ambulance arriveert bij de plaats waar de patiënt zich bevindt of waar de ambulance nog kan komen;
 
 - –. **triage:** het maken van een inschatting van de medische nood en het bepalen van de passende inzet van zorgverlening met daarbij behorende urgentie;
 
@@ -100,9 +102,9 @@ De Regionale Ambulancevoorziening zorgt ervoor dat de spreiding van de standplaa
 
 ##### Artikel 6
 
-1. De Regionale Ambulancevoorziening analyseert jaarlijks de prestaties in relatie tot de streefwaarde, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de streefwaarde zoveel mogelijk te realiseren.
+1. De Regionale Ambulancevoorziening analyseert jaarlijks de prestaties in relatie tot de streefwaarde, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de streefwaarde zoveel mogelijk te realiseren.
 
-2. De Regionale Ambulancevoorziening analyseert jaarlijks de realisatie van de afspraken, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de niet spoedeisende ambulancezorg zo goed mogelijk af te stemmen op de reële behoeften van de patiënten en de zorginstellingen.
+2. De Regionale Ambulancevoorziening analyseert jaarlijks de realisatie van de afspraken, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de niet spoedeisende ambulancezorg zo goed mogelijk af te stemmen op de reële behoeften van de patiënten en de zorginstellingen.
 
 #### § 3. Zorgdifferentiatie
 
@@ -134,7 +136,7 @@ De Regionale Ambulancevoorziening zorgt ervoor dat de spreiding van de standplaa
 
 6. Ambulancezorgprofessionals die op basis van de triage worden ingezet voor zorg aan mensen met een psychische zorgvraag voldoen aan de vaardigheden en deskundigheden uit het Kwaliteitskader mobiele zorgverlening met psychiatrische hulpverlening. Naast de in het tweede tot en met vijfde lid genoemde ambulancezorgprofessionals inclusief chauffeurs kunnen hiervoor ook verpleegkundigen met ervaring in de ggz of mensen met ten minste een opleiding maatschappelijke zorg, niveau 4 of vergelijkbaar, met ervaring in de ggz worden ingezet mits somatische problematiek is uitgesloten.
 
-7. De triage in het kader van de meldkamerfunctie van de ambulancezorg wordt uitgevoerd door een verpleegkundige, bedoeld in [artikel 3, eerste lid, van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+7. De triage in het kader van de meldkamerfunctie van de ambulancezorg wordt uitgevoerd door een ambulancezorgprofessional die voldoet aan de vaardigheden en deskundigheden uit het Kwaliteitskader Inzet van ambulancezorgprofessionals op de meldkamer ambulancezorg.
 
 #### § 4. Samenwerking in de zorgketen en met buur- en grensregio’s
 
