@@ -4,7 +4,7 @@ identifier: "BWBR0003237"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003237"
 soort: "AMvB"
@@ -82,31 +82,31 @@ Vervallen
 
 1. De in [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) bedoelde waardering van de kwaliteit van woonruimte vindt plaats:
 
-- a. voor woonruimte, welke een zelfstandige woning vormt, overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting;
+- a. voor woonruimte, welke een zelfstandige woning vormt, overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting;
 
-- b. voor een woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder B, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting en de bij bijlage I, onder A, gegeven toelichting voor zover deze mede op bijlage I, onder B, van toepassing is;
+- b. voor een woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder B, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting en de bij bijlage I, onder A, gegeven toelichting voor zover deze mede op bijlage I, onder B, van toepassing is;
 
-- c. voor een woonwagen of een standplaats overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder C, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting.
+- c. voor een woonwagen of een standplaats overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder C, van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting.
 
 2. De huurcommissie, het college van burgemeester en wethouders en de rechter kan, indien de aard van de woonruimte daartoe aanleiding geeft, de kwaliteit van woonruimte beoordelen in afwijking van het in het eerste lid bepaalde.
 
 ##### Artikel 6
 
-1. Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12), of [artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=16) neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01) van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld:
+1. Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12), of [artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=16) neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01) van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld:
 
-- a. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit: 20% van de overeengekomen huurprijs;
+- a. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit: 20% van de overeengekomen huurprijs;
 
-- b. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit: 30% van de overeengekomen huurprijs;
+- b. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit: 30% van de overeengekomen huurprijs;
 
-- c. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit: 40% van de overeengekomen huurprijs.
+- c. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit: 40% van de overeengekomen huurprijs.
 
 2. Teneinde huurder en verhuurder inzicht te bieden in het beleid van de huurcommissie inzake de in het eerste lid bedoelde categorieën en de daarbij behorende verlaging van de in rekening te brengen huurprijs die de huurcommissie doorgaans redelijk zal achten, stellen het bestuur en de zittingsvoorzitters op basis van door hen geformuleerde regels een geschrift op, genaamd gebrekenboek. Het gebrekenboek is openbaar en ligt bij de huurcommissie ter inzage.
 
-3. In het gebrekenboek, bedoeld in het tweede lid, wordt voor ieder van de in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit bedoelde omstandigheden aangegeven welke de door de huurcommissie ten laagste uit te spreken in rekening te brengen huurprijs zal zijn.
+3. In het gebrekenboek, bedoeld in het tweede lid, wordt voor ieder van de in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit bedoelde omstandigheden aangegeven welke de door de huurcommissie ten laagste uit te spreken in rekening te brengen huurprijs zal zijn.
 
-4. Indien de huurcommissie de in [bijlage II, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit beschreven categorieën heeft onderverdeeld naar de mate van de ernst waarin de bewoonbaarheid naar haar oordeel wordt geschaad, is het derde lid op die onderverdeling van overeenkomstige toepassing.
+4. Indien de huurcommissie de in [bijlage II, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit beschreven categorieën heeft onderverdeeld naar de mate van de ernst waarin de bewoonbaarheid naar haar oordeel wordt geschaad, is het derde lid op die onderverdeling van overeenkomstige toepassing.
 
-5. Indien zich tegelijkertijd twee of meer omstandigheden voordoen als bedoeld in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2025-01-01&g=2025-01-01), van dit besluit wordt voor de toepassing van het eerste lid door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld de huurprijs, behorend bij de omstandigheid waarvan door het bestuur en de zittingsvoorzitters in het gebrekenboek de laagste in rekening te brengen huurprijs is aangegeven.
+5. Indien zich tegelijkertijd twee of meer omstandigheden voordoen als bedoeld in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit wordt voor de toepassing van het eerste lid door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld de huurprijs, behorend bij de omstandigheid waarvan door het bestuur en de zittingsvoorzitters in het gebrekenboek de laagste in rekening te brengen huurprijs is aangegeven.
 
 ##### Artikel 7
 
@@ -122,15 +122,15 @@ Vervallen
 
 ##### Artikel 8a
 
-1. De maximale huurprijs wordt met 35% vermeerderd indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) en de huurovereenkomst betreffende die woonruimte is afgesloten na het tijdstip van inwerkingtreding van de [Wet betaalbare huur](https://wetten.overheid.nl/jci1.3:c:BWBR0049889).
+1. De maximale huurprijsgrens wordt met 35% vermeerderd indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) en de huurovereenkomst betreffende die woonruimte is afgesloten na het tijdstip van inwerkingtreding van de [Wet betaalbare huur](https://wetten.overheid.nl/jci1.3:c:BWBR0049889).
 
-2. Indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) en de huurovereenkomst betreffende die woonruimte is afgesloten voor het tijdstip van inwerkingtreding van de [Wet betaalbare huur](https://wetten.overheid.nl/jci1.3:c:BWBR0049889), wordt de waardering voor een zelfstandige woonruimte in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, met 50 punten vermeerderd en de waardering voor een onzelfstandige woonruimte in bijlage I, onder B, met 10 punten vermeerderd.
+2. Indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) en de huurovereenkomst betreffende die woonruimte is afgesloten voor het tijdstip van inwerkingtreding van de [Wet betaalbare huur](https://wetten.overheid.nl/jci1.3:c:BWBR0049889), wordt de waardering voor een zelfstandige woonruimte in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, met 50 punten vermeerderd en de waardering voor een onzelfstandige woonruimte in bijlage I, onder B, met 10 punten vermeerderd.
 
 3. De maximale huurprijsgrens wordt met 15% vermeerderd indien de woonruimte bestaat uit of deel uitmaakt van een door het college van burgemeester en wethouders aangewezen gemeentelijk monument of een door gedeputeerde staten aangewezen provinciaal monument.
 
-4. De maximale huurprijs, behorende bij de kwaliteit van een middeldure huurwoonruimte als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1), wordt met 10% vermeerderd indien die woonruimte na 1 juli 2024 voor het eerst in gebruik wordt genomen als woonruimte en de bouw van deze woonruimte, of de verbouw van een ruimte met een andere gebruiksfunctie dan een woonfunctie naar een woonruimte met een woonfunctie, voor 1 januari 2028 is gestart. De vermeerdering geldt voor twintig jaar vanaf de dag van ingebruikname.
+4. De maximale huurprijsgrens, behorende bij de kwaliteit van een middeldure huurwoonruimte als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1), wordt met 10% vermeerderd indien die woonruimte na 1 juli 2024 voor het eerst in gebruik wordt genomen als woonruimte en de bouw van deze woonruimte, of de verbouw van een ruimte met een andere gebruiksfunctie dan een woonfunctie naar een woonruimte met een woonfunctie, voor 1 januari 2028 is gestart. De vermeerdering geldt voor twintig jaar vanaf de dag van ingebruikname.
 
-5. De maximale huurprijs wordt met 5% vermeerderd indien:
+5. De maximale huurprijsgrens wordt met 5% vermeerderd indien:
 
 - a. die woonruimte behoort tot een rijksbeschermd stads- of dorpsgezicht als bedoeld in [artikel 2.34, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.34),
 
@@ -140,7 +140,7 @@ Vervallen
 
 6. Voor het bepalen of een woonruimte onder de in [artikel 7:247 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=247) genoemde grens valt, wordt gerekend met de huurprijsgrens die geldt voor de woonruimte voordat de huurprijsvermeerdering, bedoeld in het eerste, derde, vierde of vijfde lid is toegepast.
 
-7. De vermeerdering, bedoeld in het eerste, derde, vierde of vijfde lid, wordt toegepast op de krachtens [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) geldende maximale huurprijs.
+7. De vermeerdering, bedoeld in het eerste, derde, vierde of vijfde lid, wordt toegepast op de krachtens [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) geldende maximale huurprijsgrens.
 
 ##### Artikel 9
 
@@ -276,7 +276,7 @@ Voor de puntentoekenningen in de tabellen wordt onderscheid gemaakt tussen eenge
 
 Als douche moet worden meegeteld iedere door de verhuurder aangebrachte installatie voor het nemen van een stortbad. Baden worden met 6 punten gewaardeerd, ongeacht de lengte van het bad. Indien een bad tevens is voorzien van een (hand)douche, dient het douche-garnituur niet afzonderlijk geteld te worden. Indien in de badruimte behalve het bad tevens een afzonderlijke douche is aangebracht, geldt een waardering van 7 punten.
 
-Indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument, een provinciaal monument of een gemeentelijke monument als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a&z=2025-01-01&g=2025-01-01) worden voor deze rubriek geen minpunten toegekend. Voor energielabel E, F en G en daaraan gelijkgestelde Energie-indexen en bouwjaren, geldt in afwijking van de bovenstaande tabellen in dat geval een toekenning van nul punten.
+Indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument, een provinciaal monument of een gemeentelijke monument als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a&z=2026-01-01&g=2026-01-01) worden voor deze rubriek geen minpunten toegekend. Voor energielabel E, F en G en daaraan gelijkgestelde Energie-indexen en bouwjaren, geldt in afwijking van de bovenstaande tabellen in dat geval een toekenning van nul punten.
 
 ### 4.3. Energieprestatievergoeding
 
@@ -430,7 +430,7 @@ Een laadpaal moet bestemd zijn voor het elektrisch opladen van een gemotoriseerd
 
 Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij zorgwoningen geldende toeslag) afgerond op hele punten. Bij 0,5 punten of meer wordt afgerond naar boven op hele punten, bij minder dan 0,5 punten wordt afgerond naar beneden op hele punten.
 
-De punten die conform deze bijlage worden gehaald resulteren in een maximale huurprijs waarbij de bedragen zijn gegeven in de [Uitvoeringsregeling huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0015386). Op deze maximale huurprijs kan daarnaast sprake zijn van een prijsopslag op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a&z=2025-01-01&g=2025-01-01) van dit besluit. Er geldt een opslag voor monumenten, voor woningen in beschermde dorps- en stadsgezichten en voor nieuwbouw. Als meerdere opslagen van toepassing zijn, worden deze percentages bij elkaar opgeteld alvorens daarmee de huurprijs vermeerderd wordt.
+De punten die conform deze bijlage worden gehaald resulteren in een maximale huurprijsgrens waarbij de bedragen zijn gegeven in de [Uitvoeringsregeling huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0015386). Op deze maximale huurprijsgrens kan daarnaast sprake zijn van een prijsopslag op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a&z=2026-01-01&g=2026-01-01) van dit besluit. Er geldt een opslag voor monumenten, voor woningen in beschermde dorps- en stadsgezichten en voor nieuwbouw. Als meerdere opslagen van toepassing zijn, worden deze percentages bij elkaar opgeteld alvorens daarmee de huurprijs vermeerderd wordt.
 
 Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij zorgwoningen geldende toeslag) afgerond op hele punten. Bij 0,5 punten of meer wordt afgerond naar boven op hele punten, bij minder dan 0,5 punten wordt afgerond naar beneden op hele punten.
 
@@ -678,7 +678,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 2
 
-1. Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3), is de in de ministeriële regeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12&z=2025-01-01&g=2025-01-01), genoemde huurprijsgrens, behorende bij de kwaliteit voor een woonruimte met 186 punten.
+1. Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3), is de in de ministeriële regeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12&z=2026-01-01&g=2026-01-01), genoemde huurprijsgrens, behorende bij de kwaliteit voor een woonruimte met 186 punten.
 
 2. Een woonruimte met een waardering die bij aanvang van de huurovereenkomst boven de grens ligt, bedoeld in het eerste lid, komt tot beëindiging van de huurovereenkomst, niet door een mindering van punten voor de WOZ-waarde onder de grens, bedoeld in het eerste lid, te vallen.
 
@@ -716,7 +716,7 @@ Indien er nog geen WOZ-waarde bekend is, bijvoorbeeld wanneer nieuwe woonruimten
 
 ### II. Woonomgeving:
 
-Voor de toepassing van de WOZ-waarde geldt een cohortensystematiek. Dit betekent dat de peildatum van de WOZ-waarde bepaalt met welke getallen er dient te worden gerekend volgens deze rubriek. Dit is nodig omdat de rekencijfers jaarlijks worden geïndexeerd. Hiermee wordt voorkomen dat reeds met nieuwe geïndexeerde rekencijfers moet worden gerekend terwijl er nog geen nieuwe WOZ-beschikking is afgegeven. Daarnaast voorkomt dit dat het puntentotaal verandert door indexatie van rekencijfers. Door dit te koppelen aan de peildatum van de afgegeven WOZ-beschikking, kan een verhuurder jaarlijks wanneer hij de WOZ-beschikking krijgt, berekenen wat zijn WOZ-punten zijn conform deze rubriek. Indien de woning geen afwijkende waardeontwikkeling heeft dan wat landelijk gemiddeld is, zal de woning niet in punten doen af- of toenemen. In de rubriek is op jaartal van de peildatum van de WOZ-beschikking aangegeven met welke cijfers moet worden gerekend. Hierna volgen twee rekenvoorbeelden, één met peildatum 1 januari 2022 en één met peildatum 1 januari 2023.
+Voor de toepassing van de WOZ-waarde geldt een cohortensystematiek. Dit betekent dat de peildatum van de WOZ-waarde bepaalt met welke getallen er dient te worden gerekend volgens deze rubriek. Dit is nodig omdat de rekencijfers jaarlijks worden geïndexeerd. Hiermee wordt voorkomen dat reeds met nieuwe geïndexeerde rekencijfers moet worden gerekend terwijl er nog geen nieuwe WOZ-beschikking is afgegeven. Daarnaast voorkomt dit dat het puntentotaal verandert door indexatie van rekencijfers. Door dit te koppelen aan de peildatum van de afgegeven WOZ-beschikking, kan een verhuurder jaarlijks wanneer hij de WOZ-beschikking krijgt, berekenen wat zijn WOZ-punten zijn conform deze rubriek. Indien de woning geen afwijkende waardeontwikkeling heeft dan wat landelijk gemiddeld is, zal de woning niet in punten doen af- of toenemen. In de rubriek is op jaartal van de peildatum van de WOZ-beschikking aangegeven met welke cijfers moet worden gerekend. Hierna volgen twee rekenvoorbeelden, één met peildatum 1 januari 2024 en één met peildatum 1 januari 2025.
 
 Indien sprake is van een woning tot 40 m2 gebouwd in het kalenderjaar 2018, 2019, 2020, 2021 of 2022 en die is gelegen in een gemeente, gelegen in het COROP-gebied Amsterdam of Utrecht, geeft onderdeel 11.1 onder a een berekeningsmethodiek die leidt tot een hoger puntenaantal.
 
@@ -980,17 +980,17 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 12a
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2&z=2025-01-01&g=2025-01-01) zoals dat luidde op de dag voor de datum van inwerkingtreding van de Wet betaalbare huur blijft van toepassing op huurovereenkomsten die voor die datum zijn gesloten.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2&z=2026-01-01&g=2026-01-01) zoals dat luidde op de dag voor de datum van inwerkingtreding van de Wet betaalbare huur blijft van toepassing op huurovereenkomsten die voor die datum zijn gesloten.
 
 ##### Artikel 12b
 
-1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, onderdeel 4.4 (nieuw) vervalt met ingang van 1 januari 2025.
+1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, onderdeel 4.4 (nieuw) vervalt met ingang van 1 januari 2025.
 
-2. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, onderdeel 11.1 (nieuw), onder a, vervalt met ingang van 1 januari 2039.
+2. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, onderdeel 11.1 (nieuw), onder a, vervalt met ingang van 1 januari 2039.
 
-3. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, onderdeel 11.2 (nieuw), vervalt met ingang van 1 januari 2042.
+3. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, onderdeel 11.2 (nieuw), vervalt met ingang van 1 januari 2042.
 
-4. In de toelichting bij [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2025-01-01&g=2025-01-01), onder A, vervalt paragraaf 4.4 (nieuw) met ingang van 1 januari 2025.
+4. In de toelichting bij [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, vervalt paragraaf 4.4 (nieuw) met ingang van 1 januari 2025.
 
 ## Bijlage I. bij het Besluit huurprijzen woonruimte:
 
@@ -1763,7 +1763,7 @@ Vervallen
 
 De woonruimte vertoont een gebrek dat of een tekortkoming die:
 
-### 2. Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen ten aanzien van de categorieën van omstandigheden als bedoeld in [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2025-01-01&g=2025-01-01)
+### 2. Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen ten aanzien van de categorieën van omstandigheden als bedoeld in [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2026-01-01&g=2026-01-01)
 
 De woonruimte vertoont een gebrek dat of een tekortkoming die:
 
@@ -1851,7 +1851,7 @@ Vervallen
 
 ## Bijlage II. bij het Besluit huurprijzen woonruimte
 
-### 1. Categorieën van omstandigheden als bedoeld in [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2025-01-01&g=2025-01-01)
+### 1. Categorieën van omstandigheden als bedoeld in [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2026-01-01&g=2026-01-01)
 
 ### Categorie A. Zeer ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
