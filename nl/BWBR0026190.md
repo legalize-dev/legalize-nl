@@ -4,7 +4,7 @@ identifier: "BWBR0026190"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026190"
 soort: "AMvB"
@@ -58,17 +58,17 @@ In dit besluit wordt verstaan onder:
 
 - c. **geregistreerde deskundige:** degene die als deskundige in het register is ingeschreven;
 
-- d. **het College:** het College, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3&z=2020-01-01&g=2020-01-01);
+- d. **het College:** het College, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3&z=2026-01-01&g=2026-01-01);
 
-- e. **de secretaris:** de secretaris van het College, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10&z=2020-01-01&g=2020-01-01);
+- e. **de secretaris:** de secretaris van het College, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10&z=2026-01-01&g=2026-01-01);
 
-- f. **het bureau:** het bureau ter ondersteuning van het College, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11&z=2020-01-01&g=2020-01-01);
+- f. **het bureau:** het bureau ter ondersteuning van het College, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11&z=2026-01-01&g=2026-01-01);
 
 - g. **aanvrager:** degene die bij het College een aanvraag tot registratie heeft ingediend.
 
 ##### Artikel 2
 
-Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die naar het oordeel van het College gerechtelijk deskundigen voldoen aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), genoemde kwaliteitseisen, te bevorderen door de gegevens van deze deskundigen, voor zover zij relevant zijn voor potentiële opdrachtgevers, bijeen te brengen en openbaar te maken.
+Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die naar het oordeel van het College gerechtelijk deskundigen voldoen aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), genoemde kwaliteitseisen, te bevorderen door de gegevens van deze deskundigen, voor zover zij relevant zijn voor potentiële opdrachtgevers, bijeen te brengen en openbaar te maken.
 
 ##### Artikel 3
 
@@ -80,9 +80,9 @@ Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die 
 
 Het College heeft tot taak:
 
-- a. het overeenkomstig het bepaalde in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01) en [17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2020-01-01&g=2020-01-01) beslissen op een aanvraag tot inschrijving of tot herinschrijving en overeenkomstig het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2020-01-01&g=2020-01-01) over de eventuele doorhaling uit het register, het doen inrichten en onderhouden van het register waarin die beslissingen worden verwerkt alsmede het geven van aanwijzingen daaromtrent aan het bureau;
+- a. het overeenkomstig het bepaalde in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01) en [17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2026-01-01&g=2026-01-01) beslissen op een aanvraag tot inschrijving of tot herinschrijving en overeenkomstig het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01) over de eventuele doorhaling uit het register, het doen inrichten en onderhouden van het register waarin die beslissingen worden verwerkt alsmede het geven van aanwijzingen daaromtrent aan het bureau;
 
-- b. te bevorderen dat per deskundigheidsgebied specifieke eisen worden opgesteld ter nadere uitwerking van de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), bedoelde eisen;
+- b. te bevorderen dat per deskundigheidsgebied specifieke eisen worden opgesteld ter nadere uitwerking van de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), bedoelde eisen;
 
 - c. het vaststellen van een gedragscode die de gedragsregels bevat waaraan de geregistreerde deskundige zich dient te houden;
 
@@ -90,19 +90,19 @@ Het College heeft tot taak:
 
 ##### Artikel 5
 
-1. De leden van het College worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2020-01-01&g=2020-01-01) genoemde taken alsmede op grond van hun brede maatschappelijke kennis en ervaring.
+1. De leden van het College worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2026-01-01&g=2026-01-01) genoemde taken alsmede op grond van hun brede maatschappelijke kennis en ervaring.
 
 2. Het College bestaat uit een door Onze Minister te bepalen oneven aantal leden, waarvan in elk geval deel uitmaken:
 
 - a. één met rechtspraak belast lid van de rechterlijke macht, tevens voorzitter;
 
-- b. één lid van het openbaar ministerie;
+- b. één lid op aanbeveling van het College van procureurs-generaal;
 
 - c. één advocaat;
 
-- d. één politiefunctionaris en
+- d. één lid op aanbeveling van de korpschef, bedoeld in [artikel 1, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
 
-- e. drie gerechtelijke deskundigen.
+- e. drie deskundigen op een voor het vervullen van de taken van het College relevant terrein van wetenschapsbeoefening, waarvan ten minste één gerechtelijk deskundige.
 
 ##### Artikel 6
 
@@ -116,7 +116,7 @@ Het College heeft tot taak:
 
 1. Het College bepaalt zijn eigen werkwijze.
 
-2. Het College stelt maatstaven op aan de hand waarvan per deskundigheidsgebied wordt beoordeeld of een aanvraag voldoet aan de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01) bedoelde eisen, en maakt deze openbaar.
+2. Het College stelt maatstaven op aan de hand waarvan per deskundigheidsgebied wordt beoordeeld of een aanvraag voldoet aan de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01) bedoelde eisen, en maakt deze openbaar.
 
 3. Het College benoemt een bezwaaradviescommissie, normstellingsadviescommissies en toetsingsadviescommissies, en kan ook uit zijn midden commissies samenstellen en belasten met de uitoefening van bepaalde taken.
 
@@ -126,13 +126,13 @@ Het College heeft tot taak:
 
 ##### Artikel 8
 
-1. Onze Minister benoemt, behalve bij gelegenheid van de instelling van het College, op voordracht van het College de voorzitter en de leden, bedoeld in [artikel 5, tweede lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=5&z=2020-01-01&g=2020-01-01).
+1. Onze Minister benoemt, behalve bij gelegenheid van de instelling van het College, op voordracht van het College de voorzitter en de leden, bedoeld in [artikel 5, tweede lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=5&z=2026-01-01&g=2026-01-01).
 
-2. Onze Minister benoemt op voordracht van het College tevens zoveel plaatsvervangende leden van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=5&z=2020-01-01&g=2020-01-01), onderscheiden leden worden benoemd als nodig is.
+2. Onze Minister benoemt op voordracht van het College tevens zoveel plaatsvervangende leden van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=5&z=2026-01-01&g=2026-01-01), onderscheiden leden worden benoemd als nodig is.
 
-3. De benoeming van de leden en plaatsvervangende leden van het College geschiedt voor de tijd van vier jaar, behoudens de mogelijkheid van eerder ontslag. Zij kunnen eenmaal voor gelijke termijn worden herbenoemd. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaar.
+3. De benoeming van de leden en plaatsvervangende leden van het College geschiedt voor een periode van ten minste vier jaar en ten hoogste zes jaar, behoudens de mogelijkheid van eerder ontslag. Zij kunnen eenmaal voor een gelijke periode worden herbenoemd. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaar.
 
-4. Onze Minister stelt de vergoeding vast aan degenen die op verzoek van het College op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=7&z=2020-01-01&g=2020-01-01), bijstand verlenen, voor zover zij niet in dienst zijn van het Rijk.
+4. Onze Minister stelt de vergoeding vast aan degenen die op verzoek van het College op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=7&z=2026-01-01&g=2026-01-01), bijstand verlenen, voor zover zij niet in dienst zijn van het Rijk.
 
 ##### Artikel 9
 
@@ -154,9 +154,9 @@ Het College heeft tot taak:
 
 - a. het ondersteunen van het College bij zijn werkzaamheden;
 
-- b. het voorbereiden en verrichten van de door het College overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2020-01-01&g=2020-01-01) vastgestelde activiteiten;
+- b. het voorbereiden en verrichten van de door het College overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2026-01-01&g=2026-01-01) vastgestelde activiteiten;
 
-- c. het overeenkomstig de aanwijzingen van het College onderhouden van het register en verwerken van de beslissingen van het College inzake inschrijving, doorhaling en herinschrijving in het register alsmede het het vernietigen van de gegevens overeenkomstig [artikel 18, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2020-01-01&g=2020-01-01);
+- c. het overeenkomstig de aanwijzingen van het College onderhouden van het register en verwerken van de beslissingen van het College inzake inschrijving, doorhaling en herinschrijving in het register alsmede het het vernietigen van de gegevens overeenkomstig [artikel 18, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01);
 
 - d. het desgewenst verstrekken van de in het register opgenomen gegevens en het fungeren als vraagbaak voor deskundigen en opdrachtgevers;
 
@@ -206,7 +206,7 @@ Het College heeft tot taak:
 
 - d. een verklaring inhoudende dat de aanvraag tot inschrijving naar waarheid is opgesteld;
 
-- e. een verklaring inhoudende dat de aanvrager instemt met openbaarmaking van zijn gegevens overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=16&z=2020-01-01&g=2020-01-01);
+- e. een verklaring inhoudende dat de aanvrager instemt met openbaarmaking van zijn gegevens overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=16&z=2026-01-01&g=2026-01-01);
 
 - f. een ondertekende verklaring, inhoudende dat hij kennis heeft genomen van de door het College vastgestelde gedragscode en zich gedurende de registratie aan de daarin opgenomen gedragsregels zal houden.
 
@@ -226,11 +226,11 @@ Het College heeft tot taak:
 
 ##### Artikel 14
 
-1. De aanvraag wordt niet in behandeling genomen indien de aanvrager ook na aanmaning heeft verzuimd de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2020-01-01&g=2020-01-01) genoemde gegevens en bescheiden over te leggen.
+1. De aanvraag wordt niet in behandeling genomen indien de aanvrager ook na aanmaning heeft verzuimd de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01) genoemde gegevens en bescheiden over te leggen.
 
 2. De aanvraag tot inschrijving wordt afgewezen indien:
 
-- a. de aanvrager naar het oordeel van het College niet voldoet aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), genoemde kwaliteitseisen, behoudens wanneer toepassing wordt gegeven aan het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2020-01-01&g=2020-01-01);
+- a. de aanvrager naar het oordeel van het College niet voldoet aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), genoemde kwaliteitseisen, behoudens wanneer toepassing wordt gegeven aan het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01);
 
 - b. de aanvrager de aanvraag niet naar waarheid blijkt te hebben opgesteld;
 
@@ -240,7 +240,7 @@ Het College heeft tot taak:
 
 In de overige gevallen wordt de aanvraag toegewezen.
 
-3. Het College beslist binnen drie maanden na het in behandeling nemen van een aanvraag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01).
+3. Het College beslist binnen drie maanden na het in behandeling nemen van een aanvraag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 15
 
@@ -254,15 +254,15 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 - b. de deskundigheid waarvoor de deskundige is geregistreerd;
 
-- c. het gegeven dat de integriteit van de deskundige niet objectief door het College kon worden vastgesteld, bij toepassing van [artikel 13, tweede lid, onderdeel b, derde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2020-01-01&g=2020-01-01).
+- c. het gegeven dat de integriteit van de deskundige niet objectief door het College kon worden vastgesteld, bij toepassing van [artikel 13, tweede lid, onderdeel b, derde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 17
 
-1. Inschrijving in het register vindt, behoudens een inschrijving onder voorwaarden overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2020-01-01&g=2020-01-01) of een doorhaling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2020-01-01&g=2020-01-01), telkens plaats voor een periode van vijf jaar.
+1. Inschrijving in het register vindt, behoudens een inschrijving onder voorwaarden overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01) of een doorhaling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01), telkens plaats voor een periode van vijf jaar.
 
 2. Uiterlijk zes maanden voor ommekomst van de in het eerste lid genoemde termijn wordt de deskundige door het bureau schriftelijk gevraagd of hij in aanmerking wenst te komen voor herregistratie.
 
-3. Het bepaalde in de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de herinschrijving.
+3. Het bepaalde in de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op de herinschrijving.
 
 ##### Artikel 18
 
@@ -272,9 +272,9 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 - b. de deskundige is overleden;
 
-- c. de aanvraag overeenkomstig [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=14&z=2020-01-01&g=2020-01-01), wordt afgewezen;
+- c. de aanvraag overeenkomstig [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=14&z=2026-01-01&g=2026-01-01), wordt afgewezen;
 
-- d. de desbetreffende deskundige naar het oordeel van het College niet langer voldoet aan de vereisten, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), of deze de door het College gestelde voorwaarden, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2020-01-01&g=2020-01-01), niet nakomt.
+- d. de desbetreffende deskundige naar het oordeel van het College niet langer voldoet aan de vereisten, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), of deze de door het College gestelde voorwaarden, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01), niet nakomt.
 
 2. Indien de deskundige voor meer dan één deskundigheid in het register is ingeschreven, kan de doorhaling worden beperkt tot één of meer van de deskundigheden.
 
@@ -286,13 +286,13 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 6. Het College kan overgaan tot onderzoek ten behoeve van de toepassing van het eerste lid, onderdeel d. Bij klemmende redenen kan het College gedurende het onderzoek de inschrijving tijdelijk doorhalen.
 
-7. Het College vernietigt de gegevens die het met betrekking tot een deskundige heeft verwerkt, in verband met de uitvoering van zijn taak, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2020-01-01&g=2020-01-01),
+7. Het College vernietigt de gegevens die het met betrekking tot een deskundige heeft verwerkt, in verband met de uitvoering van zijn taak, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2026-01-01&g=2026-01-01),
 
 - a. vijf jaar nadat de beslissing tot afwijzing van de aanvraag tot inschrijving onherroepelijk is geworden;
 
 - b. twee jaar nadat de beslissing tot doorhaling van de inschrijving onherroepelijk is geworden;
 
-- c. twee jaar na het verstrijken van de termijn, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2020-01-01&g=2020-01-01), indien de geregistreerde deskundige te kennen heeft gegeven dat hij niet in aanmerking wenst te komen voor herregistratie;
+- c. twee jaar na het verstrijken van de termijn, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2026-01-01&g=2026-01-01), indien de geregistreerde deskundige te kennen heeft gegeven dat hij niet in aanmerking wenst te komen voor herregistratie;
 
 - d. een maand na ontvangst van het verzoek dat de geregistreerde deskundige niet langer in het register wenst te zijn ingeschreven;
 
@@ -300,17 +300,17 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 ##### Artikel 19
 
-1. Een deskundige die niet aan alle vereisten, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), voldoet, kan op zijn aanvraag als bedoeld in artikel 12, eerste lid, telkens voor een periode van ten hoogste twee jaar voorwaardelijk in het register als deskundige worden ingeschreven, behoudens doorhaling overeenkomstig het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2020-01-01&g=2020-01-01). Het College stelt de voorwaarden waaraan en de termijnen waarbinnen de deskundige moet voldoen.
+1. Een deskundige die niet aan alle vereisten, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), voldoet, kan op zijn aanvraag als bedoeld in artikel 12, eerste lid, telkens voor een periode van ten hoogste twee jaar voorwaardelijk in het register als deskundige worden ingeschreven, behoudens doorhaling overeenkomstig het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01). Het College stelt de voorwaarden waaraan en de termijnen waarbinnen de deskundige moet voldoen.
 
-2. Een voorwaardelijke inschrijving in het register vindt alleen plaats wanneer naar het oordeel van het College redelijkerwijs de verwachting bestaat dat de deskundige binnen de termijn van de voorwaardelijke registratie aan alle vereisten als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), zal voldoen binnen de daartoe gestelde termijnen.
+2. Een voorwaardelijke inschrijving in het register vindt alleen plaats wanneer naar het oordeel van het College redelijkerwijs de verwachting bestaat dat de deskundige binnen de termijn van de voorwaardelijke registratie aan alle vereisten als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), zal voldoen binnen de daartoe gestelde termijnen.
 
 3. Bij herhaalde toepassing van het bepaalde in het eerste lid, kunnen de door het College te stellen voorwaarden niet opeenvolgend dezelfde zijn, tenzij de deskundige door bijzondere omstandigheden niet aan de eerdere door het College gestelde voorwaarden heeft kunnen voldoen.
 
-4. De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2020-01-01&g=2020-01-01) en [17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
+4. De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01) en [17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Alvorens een deskundige te benoemen, die niet is opgenomen in het register, beoordeelt de rechter diens geschiktheid om als zodanig op te treden zoveel mogelijk aan de hand van de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2020-01-01&g=2020-01-01), genoemde kwaliteitseisen.
+Alvorens een deskundige te benoemen, die niet is opgenomen in het register, beoordeelt de rechter diens geschiktheid om als zodanig op te treden zoveel mogelijk aan de hand van de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), genoemde kwaliteitseisen.
 
 ##### Artikel 21
 
