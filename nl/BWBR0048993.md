@@ -4,7 +4,7 @@ identifier: "BWBR0048993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048993"
 soort: "ministeriele-regeling"
@@ -44,9 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **amateursport:** sport die voldoet aan de voorwaarden van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=4&z=2025-01-01&g=2025-01-01);
+- **amateursport:** sport die voldoet aan de voorwaarden van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- **amateursportorganisatie:** organisatie die voldoet aan de voorwaarden van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2025-01-01&g=2025-01-01);
+- **amateursportorganisatie:** organisatie die voldoet aan de voorwaarden van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2026-01-01&g=2026-01-01);
+
+- **energieprestatie:** berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van een gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting;
 
 - **gezamenlijke aanvraag:** aanvraag ingediend door één amateursportorganisatie waarin de kosten van de subsidiabele activiteiten van meerdere amateursportorganisaties zijn samengevoegd;
 
@@ -56,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **POS:** Platform Ondernemende Sportaanbieders;
 
-- **sportaccommodatie:** accommodatie die voldoet aan de voorwaarden van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2025-01-01&g=2025-01-01);
+- **sportaccommodatie:** accommodatie die voldoet aan de voorwaarden van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2026-01-01&g=2026-01-01);
 
 - **sportbeoefenaar:** persoon die amateursport beoefent;
 
-- **sportmaterialen:** materialen die voor de beoefening van amateursport gebruikt worden;
+- **sportmaterialen:** stoffelijke materialen die voor de beoefening van amateursport gebruikt worden;
 
 - **stichting:** stichting als bedoeld in [artikel 285 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=285);
 
@@ -78,17 +80,23 @@ Op deze regeling zijn de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. de aanschaf of het onderhoud van sportmaterialen; of
 
-- c. activiteiten, opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2025-01-01&g=2025-01-01), die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie.
+- c. activiteiten, zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2026-01-01&g=2026-01-01), categorie A en categorie C, onderdeel 5, mits de activiteiten uiterlijk 31 december 2025 zijn uitgevoerd;
+
+- d. activiteiten, zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2026-01-01&g=2026-01-01), categorie B, C, met uitzondering van onderdeel 5, en D.
 
 2. Subsidie wordt niet verstrekt als:
 
-- a. voor de kosten van de subsidiabele activiteiten op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op aftrek van omzetbelasting bestaat;
+- a. voor de kosten van de subsidiabele activiteiten op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op volledige aftrek van omzetbelasting bestaat;
 
-- b. voor de kosten van de subsidiabele activiteiten een specifieke uitkering op grond van de [Regeling specifieke uitkering stimulering sport](https://wetten.overheid.nl/jci1.3:c:BWBR0041177) is verstrekt;
+- b. voor de kosten van de subsidiabele activiteiten een specifieke uitkering op grond van de [Regeling specifieke uitkering stimulering sport 2024–2026](https://wetten.overheid.nl/jci1.3:c:BWBR0049559) is verstrekt;
 
 - c. de subsidie minder dan € 2.500 bedraagt; of
 
-- d. de subsidie voor een kalenderjaar meer dan € 2.500.000 bedraagt.
+- d. de subsidie voor een kalenderjaar meer dan € 2.500.000 bedraagt;
+
+- e. het gaat om activiteiten ten behoeve van het verbeteren van de energieprestatie of energie-efficiëntie van sportaccommodaties, die aanvangen vanaf 1 januari 2026, met uitzondering van activiteiten, zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2026-01-01&g=2026-01-01), categorie C en D; of
+
+- f. het gaat om activiteiten voor verbouwing of onderhoud als bedoeld in het eerste lid, onder a, met betrekking tot beglazing, verwarming, verkoeling, ventilatie of sportverlichting, die aanvangen vanaf 1 januari 2026.
 
 ##### Artikel 4. Voorwaarden amateursport
 
@@ -106,25 +114,23 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 ##### Artikel 5. Aanvullende voorwaarden
 
-1. Een amateursportorganisatie is een stichting of vereniging met volledige rechtsbevoegdheid met als hoofddoel het faciliteren van amateursport door:
+1. Een amateursportorganisatie is een stichting of vereniging met volledige rechtsbevoegdheid, die als hoofddoel heeft om amateursport te faciliteren en die:
 
-- a. het aanbieden van amateursport; of
+- a. amateursport aanbiedt en aangesloten is bij een lid opgenomen op de ledenlijst NOC*NSF of bij een deelnemende organisatie van het POS; of
 
-- b. het ter beschikking stellen van een sportaccommodatie.
+- b. een sportaccommodatie ter beschikking stelt die wordt gebruikt door ten minste één amateursportorganisatie als bedoeld onder a.
 
-2. Een amateursportorganisatie die amateursport aanbiedt, is aangesloten bij een lid opgenomen op de ledenlijst NOC*NSF of bij een deelnemende organisatie van het POS.
-
-3. Een sportaccommodatie is een accommodatie, bestemd en in gebruik voor amateursport, als:
+2. Een sportaccommodatie is een accommodatie, bestemd en in gebruik voor amateursport, als:
 
 - a. de locatie van de accommodatie in het omgevingsplan de enkelbestemming ‘sport’ heeft; of
 
 - b. ingeval die locatie niet de enkelbestemming ‘sport’ heeft, de accommodatie minimaal 50% in vierkante meters en minimaal 50% van de tijd bestemd is en gebruikt wordt voor amateursport wat wordt aangetoond conform een door de minister vastgesteld formulier.
 
-4. Subsidie wordt uitsluitend verstrekt voor activiteiten waarover de subsidieaanvrager btw heeft betaald, tenzij het om de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat.
+3. Subsidie wordt uitsluitend verstrekt voor activiteiten waarover de subsidieaanvrager btw heeft betaald, tenzij het om de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat.
 
-5. Indien subsidie wordt aangevraagd voor de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat de aanvraag daarvan vergezeld van een factuur met het KvK-nummer van de verkoper.
+4. Indien subsidie wordt aangevraagd voor de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat de aanvraag daarvan vergezeld van een factuur met het KvK-nummer van de verkoper.
 
-6. Subsidie voor een gezamenlijke aanvraag wordt uitsluitend verstrekt indien de subsidiabele kosten waarvoor subsidie wordt aangevraagd op naam en rekening staan van de aanvragende amateursportorganisatie.
+5. Subsidie voor een gezamenlijke aanvraag wordt uitsluitend verstrekt indien de subsidiabele kosten waarvoor subsidie wordt aangevraagd op naam en rekening staan van de aanvragende amateursportorganisatie.
 
 ##### Artikel 6. Subsidiabele periode
 
@@ -136,13 +142,13 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 - c. een amateursportorganisatie gedurende de termijn, bedoeld onder a, ook subsidie kan aanvragen voor andere subsidiabele activiteiten.
 
-2. De subsidiabele activiteiten en de daarmee samenhangende kosten voor een subsidie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01) zijn subsidiabel tot uiterlijk 12 maanden voorafgaand aan de aanvraag tot vaststelling.
+2. De subsidiabele activiteiten en de daarmee samenhangende kosten voor een subsidie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01) zijn subsidiabel tot uiterlijk 53 weken voorafgaand aan de aanvraag tot vaststelling.
 
 ##### Artikel 7. Hoogte van de subsidie
 
-1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), bedraagt ten hoogste 20% van de subsidiabele kosten, inclusief btw.
+1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste 20% van de subsidiabele kosten, inclusief btw.
 
-2. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), bedraagt ten hoogste 30% van de subsidiabele kosten, inclusief btw.
+2. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste 30% van de subsidiabele kosten, inclusief btw.
 
 ##### Artikel 8. Subsidieplafond
 
@@ -166,7 +172,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 1. De volgende kosten komen in ieder geval in aanmerking voor subsidie:
 
-- a. de kosten van de bouw, de verbouwing of het onderhoud van een sportaccommodatie;
+- a. de kosten van de bouw, de verbouwing of het onderhoud van een sportaccommodatie, met uitzondering van de kosten voor de bouw, verbouwing of het onderhoud van een horecavoorziening behorende bij een sportaccommodatie;
 
 - b. de kosten van de bouw, de verbouwing of het onderhoud van onroerende zaken behorende bij een sportaccommodatie;
 
@@ -184,29 +190,29 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 2. De volgende kosten komen in ieder geval niet in aanmerking voor subsidie:
 
-- a. de kosten voor de bouw, de verbouwing of het onderhoud van een horecavoorziening van een sportaccommodatie;
+- a. de kosten voor het tijdelijk huren van faciliteiten ten behoeve van het opslaan van sportmaterialen;
 
-- b. de kosten voor het tijdelijk huren van faciliteiten ten behoeve van het opslaan van sportmaterialen;
+- b. de kosten voor aankoop, erfpacht of huur van grond;
 
-- c. de kosten voor aankoop, erfpacht of huur van grond;
+- c. de kosten voor verzekeringen, anders dan een CAR-verzekering;
 
-- d. de kosten voor verzekeringen, anders dan een CAR-verzekering;
+- d. de kosten voor opleidingen;
 
-- e. de kosten voor opleidingen;
+- e. de kosten voor reclame, advertenties, sponsoring of promotiemateriaal;
 
-- f. de kosten voor reclame, advertenties, sponsoring of promotiemateriaal;
+- f. verbruikskosten ten behoeve van een sportaccommodatie, ongeacht of deze samenhangen met onderhoud;
 
-- g. verbruikskosten ten behoeve van een sportaccommodatie, ongeacht of deze samenhangen met onderhoud; en
+- g. de kosten voor ICT-apparatuur; en
 
-- h. de kosten voor beeldschermen, desktops, laptops, printers, tablets of telefoons.
+- h. de kosten voor vervoersmiddelen om sporters, sportmaterialen en dieren mee te vervoeren.
 
-3. Wanneer bestedingen van een amateursportorganisatie door een gemeente in haar aanvraag voor een specifieke uitkering op grond van de [Regeling specifieke uitkering stimulering sport](https://wetten.overheid.nl/jci1.3:c:BWBR0041177) worden meegenomen, komt deze amateursportorganisatie voor het kalenderjaar van deze aanvraag in het geheel niet meer in aanmerking voor een subsidie op grond van onderhavige regeling.
+3. Wanneer bestedingen van een amateursportorganisatie door een gemeente in haar aanvraag voor een specifieke uitkering op grond van de [Regeling specifieke uitkering stimulering sport 2024–2026](https://wetten.overheid.nl/jci1.3:c:BWBR0049559) worden meegenomen, komt deze amateursportorganisatie voor het kalenderjaar van deze aanvraag in het geheel niet meer in aanmerking voor een subsidie op grond van onderhavige regeling.
 
 ##### Artikel 10. Subsidieverstrekking bij subsidies tot € 25.000
 
 1. Als de subsidie minder dan € 25.000 bedraagt, wordt de subsidie zonder voorafgaande verlening direct vastgesteld nadat de subsidiabele activiteiten hebben plaatsgevonden op een bedrag waarvan de hoogte door de minister bij de vaststelling wordt genoemd.
 
-2. De aanvraag tot vaststelling van de subsidie wordt uiterlijk 12 maanden na de factuurdatum van die subsidiabele kosten ingediend.
+2. De aanvraag tot vaststelling van de subsidie wordt uiterlijk 53 weken na de factuurdatum van die subsidiabele kosten ingediend.
 
 3. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -222,7 +228,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 1. Als de subsidie € 25.000 of meer bedraagt, maar minder dan € 125.000 en de subsidiabele activiteiten al hebben plaatsgevonden, wordt subsidie zonder voorafgaande verlening direct vastgesteld op een bedrag waarvan de hoogte door de minister bij de vaststelling wordt genoemd.
 
-2. De aanvraag tot vaststelling van de subsidie wordt uiterlijk 12 maanden na de factuurdatum van die subsidiabele kosten ingediend.
+2. De aanvraag tot vaststelling van de subsidie wordt uiterlijk 53 weken na de factuurdatum van die subsidiabele kosten ingediend.
 
 3. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -240,7 +246,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 2. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-3. De aanvraag tot verlening van de subsidie gaat vergezeld van een offerte op naam van de subsidieaanvrager voor de subsidiabele kosten van de activiteiten.
+3. De aanvraag tot verlening van de subsidie gaat vergezeld van een offerte op naam van de subsidieaanvrager voor de subsidiabele kosten van de activiteiten, die niet ouder is dan drie maanden op het moment dat de aanvraag wordt ingediend.
 
 4. De subsidieontvanger draagt er zorg voor dat de activiteiten binnen 9 maanden na verlening van de subsidie zijn gestart.
 
@@ -268,7 +274,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 2. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-3. De aanvraag tot verlening van de subsidie gaat vergezeld van een offerte op naam van de subsidieaanvrager voor de subsidiabele kosten van de activiteiten.
+3. De aanvraag tot verlening van de subsidie gaat vergezeld van een offerte op naam van de subsidieaanvrager voor de subsidiabele kosten van de activiteiten, die niet ouder is dan drie maanden op het moment dat de aanvraag wordt ingediend.
 
 4. De subsidieontvanger draagt er zorg voor dat de activiteiten binnen 9 maanden na verlening van de subsidie zijn gestart.
 
@@ -282,7 +288,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 9. De subsidieontvanger legt rekening en verantwoording af aan de hand van een financieel verslag.
 
-10. Als er sprake is van een subsidie op grond van [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), gaat de aanvraag tot vaststelling van de subsidie vergezeld van een door de minister vastgesteld formulier waarin wordt verklaard dat de activiteiten overeenkomstig de voorwaarden in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2025-01-01&g=2025-01-01) van deze regeling zijn verricht.
+10. Als er sprake is van een subsidie op grond van [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01), gaat de aanvraag tot vaststelling van de subsidie vergezeld van een door de minister vastgesteld formulier waarin wordt verklaard dat de activiteiten overeenkomstig de voorwaarden in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2026-01-01&g=2026-01-01) van deze regeling zijn verricht.
 
 11. De minister besluit binnen 22 weken op een aanvraag tot vaststelling van de subsidie, waarbij afrekening tot maximaal de resterende 20% van het subsidiebedrag plaatsvindt als alle activiteiten zijn uitgevoerd en aan alle aan de verleende subsidie verbonden verplichtingen is voldaan.
 
@@ -314,7 +320,7 @@ Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waar
 
 De maatregelen voor energiebesparing en duurzame energieopwekking zijn onder andere overeenkomstig de maatregelen van de Energie Investeringsaftrek en voor zover zij toegepast kunnen worden op de sportaccommodaties.
 
-Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waarvoor een aanvullende subsidie kan worden aangevraagd zoals geformuleerd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01) van deze regeling. Deze maatregelen zijn onder te verdelen in drie categorieën (A,C,D) die aansluiten op de Routekaart Duurzame Sport en een categorie (B) voor verbeterde toegankelijkheid:
+Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waarvoor een aanvullende subsidie kan worden aangevraagd zoals geformuleerd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01) van deze regeling. Deze maatregelen zijn onder te verdelen in drie categorieën (A,C,D) die aansluiten op de Routekaart Duurzame Sport en een categorie (B) voor verbeterde toegankelijkheid:
 
 **Bestaande sportaccommodaties:**
 
@@ -342,9 +348,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Aanvraag tot verlening of vaststelling 2024
 
-1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01), kunnen er geen aanvragen tot directe vaststelling van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
+1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01), kunnen er geen aanvragen tot directe vaststelling van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
 
-2. In afwijking van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2025-01-01&g=2025-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2025-01-01&g=2025-01-01), kunnen er geen aanvragen tot verlening van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
+2. In afwijking van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2026-01-01&g=2026-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2026-01-01&g=2026-01-01), kunnen er geen aanvragen tot verlening van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
 
 ## Bijlage 1. Activiteiten die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2024-07-26&g=2024-07-26)
 
@@ -370,15 +376,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8b. Indienen aanvraag
 
-1. Een aanvraag tot verlening of vaststelling van een subsidie kan vanaf de eerste maandag van januari van enig kalenderjaar gedurende het hele kalenderjaar worden ingediend.
+1. Een aanvraag tot verlening of vaststelling van een subsidie kan vanaf de eerste maandag van januari om 9:00 uur van enig kalenderjaar gedurende het hele kalenderjaar worden ingediend.
 
-2. Indien het totaal aangevraagde subsidiebedrag in enig kalenderjaar 155% bedraagt van het op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=8&z=2025-01-01&g=2025-01-01) voor dat kalenderjaar vastgestelde subsidieplafond kunnen er gedurende de resterende periode van dat kalenderjaar geen aanvragen tot directe vaststelling van een subsidie, als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01), en geen aanvragen tot verlening van een subsidie, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2025-01-01&g=2025-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2025-01-01&g=2025-01-01), meer worden ingediend.
+2. Indien het totaal aangevraagde subsidiebedrag in enig kalenderjaar 155% bedraagt van het op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=8&z=2026-01-01&g=2026-01-01) voor dat kalenderjaar vastgestelde subsidieplafond kunnen er gedurende de resterende periode van dat kalenderjaar geen aanvragen tot directe vaststelling van een subsidie, als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01), en geen aanvragen tot verlening van een subsidie, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2026-01-01&g=2026-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2026-01-01&g=2026-01-01), meer worden ingediend.
 
 ##### Artikel 16a. Overgangsbepaling
 
-[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=7&z=2025-01-01&g=2025-01-01), zoals dat luidde vóór 1 januari 2025, blijft van toepassing op subsidies die vóór 1 januari 2025 zijn aangevraagd, verleend of vastgesteld.
+[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=7&z=2026-01-01&g=2026-01-01), zoals dat luidde vóór 1 januari 2025, blijft van toepassing op subsidies die vóór 1 januari 2025 zijn aangevraagd, verleend of vastgesteld.
 
-## Bijlage 1. Activiteiten die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01)
+## Bijlage 1. Activiteiten die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01)
 
 ### A. Maatregelen energiebesparing
 
