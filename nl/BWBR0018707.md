@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2022-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2022-01-01&g=2022-01-01) bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2022-01-01&g=2026-01-01) bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
 2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
 
@@ -117,5 +117,13 @@ In situaties als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/
 - a. bekend wordt dat van de belanghebbende een bedrag wordt teruggevorderd ter zake waarvan terstond een dwangbevel wordt uitgevaardigd, of
 
 - b. een vermogensbestanddeel van de belanghebbende aan wie reeds een dwangbevel is betekend, wordt aangetroffen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2b. Buiten beschouwing laten van beschikkingen inzake het eindigen van rechtmatig verblijf
+
+1. Als een type van beschikkingen als bedoeld in [artikel 21b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21b) wordt aangewezen een beschikking op grond waarvan het rechtmatig verblijf, bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), van de belanghebbende, diens partner of diens medebewoner eindigt.
+
+2. De Dienst Toeslagen wordt geacht op de hoogte te zijn van de beschikking op de dag waarop die beschikking in de basisregistratie personen is verwerkt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
