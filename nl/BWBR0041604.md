@@ -4,7 +4,7 @@ identifier: "BWBR0041604"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-09-11"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041604"
 soort: "ministeriele-regeling"
@@ -144,7 +144,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 - b. aan de financiële instellingen, aangewezen in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282), ten behoeve van de verificatie van een als identiteitsdocument overgelegd rijbewijs;
 
-- c. aan erkenninghouders als bedoeld in de [artikelen 61a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=61a) en [62 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62), in het kader van de tenaamstelling van voertuigen.
+- c. aan erkenninghouders tenaamstellen voertuigen van derden en erkenninghouders bedrijfsvoorraad, in het kader van de tenaamstelling van voertuigen.
 
 #### § 4. Overige bepalingen
 
