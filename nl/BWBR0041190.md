@@ -4,7 +4,7 @@ identifier: "BWBR0041190"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-04-22"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041190"
 soort: "ministeriele-regeling"
@@ -44,31 +44,31 @@ Treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasr
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het instellingen betreft als bedoeld in [artikel 1a, vierde lid, onderdeel g, h, i, j, k, o en p, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), de medewerkers van het onderdeel de Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft, van de Belastingdienst.
+Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het natuurlijke personen, rechtspersonen of vennootschappen betreft als bedoeld in [artikel 1a, vierde lid, onderdeel g, h, i, j, k, m en n, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), de medewerkers van de Dienst Financieel-Economische Integriteit.
 
 ##### Artikel 2
 
-1. Aan de landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst wordt mandaat verleend voor de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in de paragrafen 4.2 en 4.3 van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
+1. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt mandaat verleend voor de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in de [paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&paragraaf=4.2) en [4.3 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&paragraaf=4.3).
 
-2. De landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst kan voor de uitoefening van de bevoegdheden, bedoeld in het eerste lid, ondermandaat verlenen aan de medewerkers van het onderdeel Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft, van de Belastingdienst.
+2. De directeur van de Dienst Financieel-Economische Integriteit kan voor de uitoefening van de bevoegdheden, bedoeld in het eerste lid, ondermandaat verlenen aan de medewerkers van de Dienst Financieel-Economische Integriteit.
 
 ##### Artikel 3
 
-1. Aan de landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst wordt machtiging en volmacht verleend voor het verrichten van feitelijke handelingen of rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+1. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt mandaat verleend voor het nemen van besluiten in het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), met uitzondering van het in rekening brengen van een vergoeding voor een aanmaning.
 
-2. Aan de landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst wordt mandaat verleend voor de uitoefening van de bevoegdheid om verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), in te vorderen bij dwangbevel.
+2. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt volmacht verleend voor het verrichten van privaatrechtelijke rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
 
-3. De landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst kan voor de uitoefening van de bevoegdheden, bedoeld in het eerste en tweede lid, machtiging, respectievelijk volmacht of ondermandaat verlenen aan medewerkers van het onderdeel Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft, van de Belastingdienst.
+3. De directeur van de Dienst Financieel-Economische Integriteit kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat respectievelijk ondervolmacht verlenen aan medewerkers van de Dienst Financieel-Economische Integriteit.
 
 ##### Artikel 4
 
-1. Aan de directeur-generaal van de Belastingdienst wordt mandaat verleend om te beslissen op bezwaarschriften tegen op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=2&z=2021-04-22&g=2021-04-22), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=3&z=2021-04-22&g=2021-04-22), in mandaat genomen besluiten.
+1. Aan de secretaris-generaal van het Ministerie van Financiën wordt mandaat verleend om te beslissen op bezwaarschriften tegen op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=2&z=2026-01-01&g=2026-01-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=3&z=2026-01-01&g=2026-01-01), in mandaat genomen besluiten.
 
-2. De directeur-generaal van de Belastingdienst kan ondermandaat verlenen aan de landelijk directeur van het onderdeel Belastingdienst/Grote ondernemingen van de Belastingdienst, voor zover dit ziet op besluiten die de landelijk directeur niet in mandaat neemt.
+2. De secretaris-generaal van het Ministerie van Financiën kan ondermandaat verlenen aan de directeur van de Dienst Financieel-Economische Integriteit, voor zover dit ziet op besluiten die de directeur niet in mandaat neemt.
 
 ##### Artikel 5
 
-De directeur-generaal van de Belastingdienst en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2021-04-22&g=2021-04-22), bedoelde landelijk directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+De secretaris-generaal van het Ministerie van Financiën en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4). Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermachtiging verlenen.
 
 ##### Artikel 6
 
@@ -93,5 +93,15 @@ Dit besluit treedt in werking op het tijdstip waarop de Implementatiewet vierde 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Aanwijzings- en mandaatbesluit Wwft 2018.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Aan de algemeen directeur van het CJIB wordt machtiging verleend voor het verrichten van feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+
+2. In het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), wordt aan de algemeen directeur van het CJIB mandaat verleend voor het in rekening brengen van een vergoeding voor een aanmaning als bedoeld in [artikel 4:113 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), alsmede voor het treffen van betalingsregelingen en het verlenen van uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
+
+3. De algemeen directeur van het CJIB kan voor de in het eerste en tweede lid bedoelde aangelegenheden machtiging respectievelijk ondermandaat verlenen aan medewerkers van het CJIB.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
