@@ -4,7 +4,7 @@ identifier: "BWBR0019756"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019756"
 soort: "wet"
@@ -67,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 3
 
-1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2&z=2015-07-01&g=2015-07-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
+1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2&z=2026-01-01&g=2026-01-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
 
 2. Bij of krachtens algemene maatregel van bestuur of bij een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.
 
@@ -101,7 +101,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 - m. de maatregelen om misbruik en oneigenlijk gebruik van subsidie te voorkomen.
 
-2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen de aanvraag van de subsidie uitsluitend langs elektronische weg kan geschieden.
+2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen de aanvraag van de subsidie uitsluitend langs elektronische weg kan geschieden. Daarbij kan worden afgeweken van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
 
 ##### Artikel 5
 
