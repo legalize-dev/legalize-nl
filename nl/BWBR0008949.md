@@ -4,7 +4,7 @@ identifier: "BWBR0008949"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-08-27"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008949"
 soort: "AMvB"
@@ -56,13 +56,13 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan de [artikelen 2a tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27) van dit besluit.
+Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan de [artikelen 2a tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 #### § 2. Opleidingseisen
 
 ##### Artikel 3
 
-1. De opleiding tot tandarts is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de tandheelkundige beroepsuitoefening:
+1. De opleiding tot tandarts is gericht op het verwerven van kennis, inzicht en vaardigheid voor alle werkzaamheden die verband houden met de preventie, de diagnose en de behandeling van afwijkingen en ziekten van tanden, mond, kaken en omliggende weefsels en meer in het bijzonder de volgende aspecten van de tandheelkundige beroepsuitoefening:
 
 - a. de professionele tandheelkundige vorming;
 
@@ -88,7 +88,7 @@ Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&
 
 ##### Artikel 4
 
-Het aspect professionele tandheelkundige vorming is zodanig ingericht dat de betrokkene in staat is tot:
+Het aspect professionele tandheelkundige vorming is zodanig ingericht dat de betrokkene voldoende kennis verwerft van de wetenschappen waarop de tandheelkunde berust, alsmede een goed inzicht in de wetenschappelijke methoden en met name de beginselen van de meting van biologische functies, in de beoordeling van wetenschappelijk vastgestelde feiten alsmede in de analyse van gegevens en in staat is tot:
 
 - a. het verwerven en het verwerken van informatie op een wetenschappelijke en effectieve manier;
 
@@ -114,11 +114,21 @@ Het aspect communicatie en voorlichting is zodanig ingericht dat de betrokkene i
 
 ##### Artikel 6
 
-Het aspect onderzoek en diagnose van tandheelkundige problemen en het op basis daarvan opstellen van een behandelplan is zodanig ingericht dat de betrokkene in staat is tot:
+1. Het aspect onderzoek en diagnose van tandheelkundige problemen is zodanig ingericht dat de betrokkene:
+
+- a. voldoende kennis verwerft van het gestel, de fysiologie en het gedrag van gezonde en zieke personen, alsmede van de wijze waarop de gezondheidstoestand van de mens wordt beïnvloed door zijn natuurlijke en sociale omgeving; een en ander voor zover dat in relatie staat tot de tandheelkunde;
+
+- b. voldoende kennis opdoet van de structuur en functie van de tanden, de mond, de kaken en de omliggende weefsels, zowel in gezonde als zieke toestand, en de relatie daarvan tot de algemene gezondheidstoestand en het fysieke en sociale welzijn van de patiënt;
+
+- c. voldoende kennis opdoet van de klinische studievakken en methoden die aan de tandheelkundige een samenhangend beeld geven van de anomalieën, kwetsuren en ziekten van tanden, mond, kaken en omliggende weefsels, alsmede van de preventieve, diagnostische en therapeutische aspecten van de odontologie;
+
+- d. voldoende kennis verwerft van digitale tandheelkunde en een goed inzicht in het gebruik en de veilige toepassing ervan in de praktijk.
+
+2. De in het eerste lid genoemde kennis en bekwaamheden dienen als basis voor het opstellen van een behandelplan en leiden ertoe dat de betrokkene is in staat tot:
 
 - a. het afnemen van een anamnese, omvattende tandheelkundige, medische, persoonlijke en sociaal-culturele achtergronden van de patiënt en het herkennen van afwijkingen van het normale beeld;
 
-- b. het diagnostiseren en registreren van orale en dentale ziekten;
+- b. het diagnosticeren en registreren van orale en dentale ziekten;
 
 - c. het herkennen van orale manifestaties van systeemziekten;
 
@@ -126,13 +136,13 @@ Het aspect onderzoek en diagnose van tandheelkundige problemen en het op basis d
 
 - e. het stellen van een diagnose van de oorzaak van pijn in het orofaciale gebied;
 
-- f. het uitvoeren van tandheelkundig beeldvormend diagnostisch onderzoek en het nemen van maatregelen gericht op bescherming tegen ioniserende straling;
+- f. het uitvoeren van tandheelkundig beeldvormend diagnostisch onderzoek en het – in voorkomende gevallen – nemen van maatregelen gericht op bescherming tegen ioniserende straling;
 
 - g. het opstellen van een behandelplan en het verwijzen van de patiënt naar een andere hulpverlener indien dit in het belang van diens gezondheid noodzakelijk is.
 
 ##### Artikel 7
 
-Het aspect instellen en handhaven van een optimale mondgezondheid is zodanig ingericht dat de betrokkene in staat is tot:
+1. Het aspect instellen en handhaven van een optimale mondgezondheid is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het treffen van preventieve maatregelen voor het handhaven of het bevorderen van mondgezondheid;
 
@@ -153,6 +163,8 @@ Het aspect instellen en handhaven van een optimale mondgezondheid is zodanig ing
 - i. het behandelen van algemene orale en dentale ziekten, waaronder in elk geval ziekten van de mucosa en botziekten;
 
 - j. het beoordelen van de werking en bijwerking van geneesmiddelen die bij tandheelkundige behandelingen worden gebruikt en het begrijpen van de implicaties voor de tandheelkundige behandeling van geneesmiddelen die gebruikt worden voor algemene ziekten.
+
+2. Tijdens de opleiding tot tandarts wordt voldoende klinische ervaring onder deskundig toezicht opgedaan.
 
 ##### Artikel 8
 
