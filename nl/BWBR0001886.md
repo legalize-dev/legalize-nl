@@ -4,7 +4,7 @@ identifier: "BWBR0001886"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001886"
 soort: "wet"
@@ -55,11 +55,11 @@ Het auteursrecht is het uitsluitend recht van den maker van een werk van letterk
 
 2. De maker, of zijn rechtverkrijgende, kan aan een derde een licentie verlenen voor het geheel of een gedeelte van het auteursrecht.
 
-3. De levering vereist voor gehele of gedeeltelijke overdracht, alsmede de verlening van een exclusieve licentie, geschiedt bij een daartoe bestemde akte. De overdracht of de verlening van een exclusieve licentie omvat alleen die bevoegdheden die in de akte staan vermeld of die uit de aard en de strekking van de titel of licentieverlening noodzakelijkerwijs voortvloeien.
+3. De overeenkomst op grond waarvan het auteursrecht geheel of gedeeltelijk wordt overgedragen of waarin een exclusieve licentie wordt verleend, wordt schriftelijk aangegaan. De overdracht of de verlening van een exclusieve licentie door de maker of door een natuurlijke persoon die het auteursrecht als erfgenaam of legataris van de maker heeft verkregen, omvat alleen die bevoegdheden die uitdrukkelijk in de overeenkomst staan vermeld of die uit de aard en de strekking ervan noodzakelijkerwijs voortvloeien. De levering vereist voor overdracht geschiedt ingevolge [artikel 95 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=95) bij een daartoe bestemde akte.
 
 4. Het auteursrecht dat toekomt aan de maker van een werk, alsmede, na het overlijden van de maker, het auteursrecht op niet openbaar gemaakte werken dat toekomt aan degene die het als erfgenaam of legataris van de maker heeft verkregen, is niet vatbaar voor beslag.
 
-5. Het derde lid, tweede volzin, en het vierde lid zijn niet van toepassing op een maker als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01).
+5. Het derde lid, tweede volzin, en het vierde lid zijn niet van toepassing op een maker als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01).
 
 #### § 2. De maker van het werk
 
@@ -153,7 +153,9 @@ Er bestaat geen auteursrecht op wetten, besluiten en verordeningen, door de open
 
 - 5°. het uitzenden van een in een radio- of televisieprogramma opgenomen werk door middel van een satelliet of een andere zender of een omroepnetwerk als bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
 
-- 6°. de openbaarmaking door middel van doorgifte van een werk via de kabel of langs andere weg.
+- 6°. de openbaarmaking door middel van doorgifte van een werk via de kabel of langs andere weg;
+
+- 7°. de beschikbaarstelling voor het publiek van het werk, per draad of draadloos, op zodanige wijze dat de leden van het publiek op een door hen gekozen individuele plaats en tijd toegang hebben tot het werk.
 
 2. Onder verhuren als bedoeld in het eerste lid, onder 3°, wordt verstaan het voor een beperkte tijd en tegen een direct of indirect economisch of commercieel voordeel voor gebruik ter beschikking stellen.
 
@@ -179,7 +181,7 @@ Er bestaat geen auteursrecht op wetten, besluiten en verordeningen, door de open
 
 ##### Artikel 12a
 
-1. Indien de maker het verhuurrecht, bedoeld in [artikel 12, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), met betrekking tot een op een fonogram vastgelegd werk van letterkunde, wetenschap of kunst aan de producent daarvan heeft overgedragen, is de producent de maker een billijke vergoeding verschuldigd voor de verhuur.
+1. Indien de maker het verhuurrecht, bedoeld in [artikel 12, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), met betrekking tot een op een fonogram vastgelegd werk van letterkunde, wetenschap of kunst aan de producent daarvan heeft overgedragen, is de producent de maker een billijke vergoeding verschuldigd voor de verhuur.
 
 2. Van het in het eerste lid bedoelde recht op een billijke vergoeding kan geen afstand worden gedaan.
 
@@ -205,7 +207,7 @@ Onder het verveelvoudigen van een werk van letterkunde, wetenschap of kunst word
 
 - 1°. het overnemen geschiedt door een dag-, nieuws- of weekblad of tijdschrift, in een radio- of televisieprogramma of ander medium dat een zelfde functie vervult;
 
-- 2°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01) in acht wordt genomen;
+- 2°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01) in acht wordt genomen;
 
 - 3°. de bron, waaronder de naam van de maker, op duidelijke wijze wordt vermeld; en
 
@@ -221,7 +223,7 @@ Onder het verveelvoudigen van een werk van letterkunde, wetenschap of kunst word
 
 - 2°. het citeren in overeenstemming is met hetgeen naar de regels van het maatschappelijk verkeer redelijkerwijs geoorloofd is en aantal en omvang der geciteerde gedeelten door het te bereiken doel zijn gerechtvaardigd;
 
-- 3°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01) in acht wordt genomen; en
+- 3°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01) in acht wordt genomen; en
 
 - 4°. voor zover redelijkerwijs mogelijk, de bron, waaronder de naam van de maker, op duidelijke wijze wordt vermeld.
 
@@ -235,25 +237,25 @@ Als inbreuk op het auteursrecht op een door of vanwege de openbare macht openbaa
 
 ##### Artikel 15c
 
-1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het uitlenen, bedoeld in [artikel 12, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), een exemplaar van het werk die door of met toestemming van de maker of zijn rechtverkrijgende in het verkeer is gebracht, mits degene die de uitlening verricht of doet verrichten een billijke vergoeding betaalt. De eerste zin is niet van toepassing op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01) tenzij dat werk onderdeel uitmaakt van een van gegevens voorziene informatiedrager en uitsluitend dient om die gegevens toegankelijk te maken.
+1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het uitlenen, bedoeld in [artikel 12, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), een exemplaar van het werk die door of met toestemming van de maker of zijn rechtverkrijgende in het verkeer is gebracht, mits degene die de uitlening verricht of doet verrichten een billijke vergoeding betaalt. De eerste zin is niet van toepassing op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) tenzij dat werk onderdeel uitmaakt van een van gegevens voorziene informatiedrager en uitsluitend dient om die gegevens toegankelijk te maken.
 
 2. Instellingen van onderwijs en instellingen van onderzoek en de aan die instellingen verbonden bibliotheken en de Koninklijke Bibliotheek in haar hoedanigheid van onderzoeksinstelling zijn vrijgesteld van de betaling van een vergoeding voor uitlenen als bedoeld in het eerste lid.
 
-3. Openbare bibliotheekvoorzieningen, die in overwegende mate door gemeenten, provincies of het rijk worden gesubsidieerd of in stand gehouden, zijn voor het uitlenen van op basis van de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2025-07-01&g=2025-07-01) of [15j, eerste lid, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), omgezette werken of een onder [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2025-07-01&g=2025-07-01) door een toegelaten entiteit ingevoerd omgezet werk aan bij die voorzieningen ingeschreven personen met een handicap, vrijgesteld van betaling van de vergoeding, bedoeld in het eerste lid.
+3. Openbare bibliotheekvoorzieningen, die in overwegende mate door gemeenten, provincies of het rijk worden gesubsidieerd of in stand gehouden, zijn voor het uitlenen van op basis van de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2026-01-01&g=2026-01-01) of [15j, eerste lid, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), omgezette werken of een onder [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2026-01-01&g=2026-01-01) door een toegelaten entiteit ingevoerd omgezet werk aan bij die voorzieningen ingeschreven personen met een handicap, vrijgesteld van betaling van de vergoeding, bedoeld in het eerste lid.
 
-4. De in het eerste lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de maker of diens rechtverkrijgende afstand heeft gedaan van het recht op een billijke vergoeding. De maker of diens rechtverkrijgende dient de afstand schriftelijk mee te delen aan de in de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15d&z=2025-07-01&g=2025-07-01) en [15f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15f&z=2025-07-01&g=2025-07-01) bedoelde rechtspersonen.
+4. De in het eerste lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de maker of diens rechtverkrijgende afstand heeft gedaan van het recht op een billijke vergoeding. De maker of diens rechtverkrijgende dient de afstand schriftelijk mee te delen aan de in de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15d&z=2026-01-01&g=2026-01-01) en [15f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15f&z=2026-01-01&g=2026-01-01) bedoelde rechtspersonen.
 
 ##### Artikel 15d
 
-De hoogte van de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01), bedoelde vergoeding wordt vastgesteld door een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen stichting waarvan het bestuur zodanig is samengesteld dat de belangen van de makers of hun rechtverkrijgenden en de ingevolge [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01), betalingsplichtigen op evenwichtige wijze worden behartigd. De voorzitter van het bestuur van deze stichting wordt benoemd door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap. Het aantal bestuursleden van deze stichting dient oneven te zijn.
+De hoogte van de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01), bedoelde vergoeding wordt vastgesteld door een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen stichting waarvan het bestuur zodanig is samengesteld dat de belangen van de makers of hun rechtverkrijgenden en de ingevolge [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01), betalingsplichtigen op evenwichtige wijze worden behartigd. De voorzitter van het bestuur van deze stichting wordt benoemd door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap. Het aantal bestuursleden van deze stichting dient oneven te zijn.
 
 ##### Artikel 15e
 
-Geschillen met betrekking tot de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01), bedoelde vergoeding worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.
+Geschillen met betrekking tot de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01), bedoelde vergoeding worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.
 
 ##### Artikel 15f
 
-1. De betaling van de in [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01) bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen naar hun oordeel representatieve rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van deze vergoeding. In aangelegenheden betreffende de vaststelling van de hoogte van de vergoeding en de inning daarvan alsmede de uitoefening van het uitsluitende recht vertegenwoordigt de in de vorige zin bedoelde rechtspersoon de rechthebbenden in en buiten rechte.
+1. De betaling van de in [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01) bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen naar hun oordeel representatieve rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van deze vergoeding. In aangelegenheden betreffende de vaststelling van de hoogte van de vergoeding en de inning daarvan alsmede de uitoefening van het uitsluitende recht vertegenwoordigt de in de vorige zin bedoelde rechtspersoon de rechthebbenden in en buiten rechte.
 
 2. De rechtspersoon, bedoeld in het eerste lid, staat onder toezicht van het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
@@ -261,7 +263,7 @@ Geschillen met betrekking tot de in [artikel 15c, eerste lid](https://wetten.ove
 
 ##### Artikel 15g
 
-Degene die tot betaling van de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01), bedoelde vergoeding verplicht is, is gehouden, voor zover geen ander tijdstip is overeengekomen, vóór 1 april van ieder kalenderjaar aan de in [artikel 15f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15f&z=2025-07-01&g=2025-07-01), bedoelde rechtspersoon opgave te doen van het aantal rechtshandelingen, bedoeld in [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2025-07-01&g=2025-07-01). Hij is voorts gehouden desgevraagd aan deze rechtspersoon onverwijld de bescheiden of andere informatiedragers ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.
+Degene die tot betaling van de in [artikel 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01), bedoelde vergoeding verplicht is, is gehouden, voor zover geen ander tijdstip is overeengekomen, vóór 1 april van ieder kalenderjaar aan de in [artikel 15f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15f&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon opgave te doen van het aantal rechtshandelingen, bedoeld in [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15c&z=2026-01-01&g=2026-01-01). Hij is voorts gehouden desgevraagd aan deze rechtspersoon onverwijld de bescheiden of andere informatiedragers ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.
 
 ##### Artikel 16
 
@@ -271,15 +273,15 @@ Degene die tot betaling van de in [artikel 15c, eerste lid](https://wetten.overh
 
 - 2°. het overnemen in overeenstemming is met hetgeen naar de regels van het maatschappelijk verkeer redelijkerwijs geoorloofd is;
 
-- 3°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01) in acht wordt genomen;
+- 3°. [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01) in acht wordt genomen;
 
 - 4°. Voor zover redelijkerwijs mogelijk, de bron, waaronder de naam van de maker, op duidelijke wijze wordt vermeld; en
 
 - 5°. aan de maker of zijn rechtverkrijgenden een billijke vergoeding wordt betaald.
 
-2. Waar het geldt een kort werk of een werk als bedoeld in [artikel 10, eerste lid onder 6°., onder 9°. of onder 11°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01) mag voor hetzelfde doel en onder dezelfde voorwaarden het gehele werk worden overgenomen.
+2. Waar het geldt een kort werk of een werk als bedoeld in [artikel 10, eerste lid onder 6°., onder 9°. of onder 11°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) mag voor hetzelfde doel en onder dezelfde voorwaarden het gehele werk worden overgenomen.
 
-3. Waar het het overnemen in een compilatiewerk betreft, mag van dezelfde maker niet meer worden overgenomen dan enkele korte werken of korte gedeelten van zijn werken, en waar het geldt werken als bedoeld in [artikel 10, eerste lid onder 6°., onder 9°. of onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01). niet meer dan enkele van die werken en in zodanige verveelvoudiging, dat deze door haar grootte of door de werkwijze, volgens welke zij vervaardigd is, een duidelijk verschil vertoont met het oorspronkelijke met dien verstande, dat wanneer van deze werken er twee of meer verenigd openbaar zijn gemaakt, die verveelvoudiging slechts ten aanzien van een daarvan geoorloofd is.
+3. Waar het het overnemen in een compilatiewerk betreft, mag van dezelfde maker niet meer worden overgenomen dan enkele korte werken of korte gedeelten van zijn werken, en waar het geldt werken als bedoeld in [artikel 10, eerste lid onder 6°., onder 9°. of onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01). niet meer dan enkele van die werken en in zodanige verveelvoudiging, dat deze door haar grootte of door de werkwijze, volgens welke zij vervaardigd is, een duidelijk verschil vertoont met het oorspronkelijke met dien verstande, dat wanneer van deze werken er twee of meer verenigd openbaar zijn gemaakt, die verveelvoudiging slechts ten aanzien van een daarvan geoorloofd is.
 
 4. De bepalingen van dit artikel zijn mede van toepassing ten aanzien van het overnemen in een andere taal dan de oorspronkelijke.
 
@@ -301,13 +303,13 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 - b. in een dag-, nieuws- of weekblad of tijdschrift verschenen korte artikelen, berichten of andere stukken.
 
-3. Waar het geldt een werk, als bedoeld bij [artikel 10, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), moet de verveelvoudiging door haar grootte of door de werkwijze, volgens welke zij vervaardigd is, een duidelijk verschil vertonen met het oorspronkelijke werk.
+3. Waar het geldt een werk, als bedoeld bij [artikel 10, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), moet de verveelvoudiging door haar grootte of door de werkwijze, volgens welke zij vervaardigd is, een duidelijk verschil vertonen met het oorspronkelijke werk.
 
 4. Indien een ingevolge dit artikel toegelaten verveelvoudiging heeft plaatsgevonden, mogen de vervaardigde exemplaren niet zonder toestemming van de maker of zijn rechtverkrijgenden aan derden worden afgegeven, tenzij de afgifte geschiedt ten behoeve van een rechterlijke of bestuurlijke procedure.
 
 5. Bij algemene maatregel van bestuur kan worden bepaald dat voor de verveelvoudiging, bedoeld in het eerste lid, ten behoeve van de maker of diens rechtverkrijgenden een billijke vergoeding is verschuldigd. Daarbij kunnen nadere regelen worden gegeven en voorwaarden worden gesteld.
 
-6. Dit artikel is niet van toepassing op het reproduceren, bedoeld in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01), noch op het nabouwen van bouwwerken.
+6. Dit artikel is niet van toepassing op het reproduceren, bedoeld in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01), noch op het nabouwen van bouwwerken.
 
 ##### Artikel 16c
 
@@ -325,29 +327,29 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 7. Indien een ingevolge dit artikel toegelaten reproductie heeft plaatsgevonden, mogen voorwerpen als bedoeld in het eerste lid niet zonder toestemming van de maker of zijn rechtverkrijgenden aan derden worden afgegeven, tenzij de afgifte geschiedt ten behoeve van een rechterlijke of bestuurlijke procedure.
 
-8. Dit artikel is niet van toepassing op het verveelvoudigen van een met elektronische middelen toegankelijke verzameling als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01).
+8. Dit artikel is niet van toepassing op het verveelvoudigen van een met elektronische middelen toegankelijke verzameling als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 16d
 
-1. De betaling van de in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid aan te wijzen, naar zijn oordeel representatieve rechtspersoon, die belast is met de inning en de verdeling van deze vergoeding overeenkomstig een reglement, dat is opgesteld door deze rechtspersoon, en dat is goedgekeurd door het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779). In aangelegenheden betreffende de inning en vergoeding vertegenwoordigt deze rechtspersoon de makers of hun rechtverkrijgenden in en buiten rechte.
+1. De betaling van de in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid aan te wijzen, naar zijn oordeel representatieve rechtspersoon, die belast is met de inning en de verdeling van deze vergoeding overeenkomstig een reglement, dat is opgesteld door deze rechtspersoon, en dat is goedgekeurd door het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779). In aangelegenheden betreffende de inning en vergoeding vertegenwoordigt deze rechtspersoon de makers of hun rechtverkrijgenden in en buiten rechte.
 
 2. De rechtspersoon, bedoeld in het eerste lid, staat onder toezicht van het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
 ##### Artikel 16e
 
-De hoogte van de in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) bedoelde vergoeding wordt vastgesteld door een door Onze Minister van Justitie en Veiligheid aan te wijzen stichting waarvan het bestuur zodanig is samengesteld dat de belangen van de makers of hun rechtverkrijgenden en de ingevolge [artikel 16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01), betalingsplichtigen op evenwichtige wijze worden behartigd. De voorzitter van het bestuur van deze stichting wordt benoemd door Onze Minister van Justitie en Veiligheid.
+De hoogte van de in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) bedoelde vergoeding wordt vastgesteld door een door Onze Minister van Justitie en Veiligheid aan te wijzen stichting waarvan het bestuur zodanig is samengesteld dat de belangen van de makers of hun rechtverkrijgenden en de ingevolge [artikel 16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01), betalingsplichtigen op evenwichtige wijze worden behartigd. De voorzitter van het bestuur van deze stichting wordt benoemd door Onze Minister van Justitie en Veiligheid.
 
 ##### Artikel 16f
 
-Degene die tot betaling van de in [artikel 16**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) bedoelde vergoeding verplicht is, is gehouden onverwijld of binnen een met de in [artikel 16**d**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2025-07-01&g=2025-07-01), bedoelde rechtspersoon overeengekomen tijdvak opgave te doen aan deze rechtspersoon van het aantal van de door hem geïmporteerde of vervaardigde voorwerpen, bedoeld in [artikel 16**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01). Hij is voorts gehouden aan deze rechtspersoon op diens aanvrage onverwijld die bescheiden ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.
+Degene die tot betaling van de in [artikel 16**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) bedoelde vergoeding verplicht is, is gehouden onverwijld of binnen een met de in [artikel 16**d**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon overeengekomen tijdvak opgave te doen aan deze rechtspersoon van het aantal van de door hem geïmporteerde of vervaardigde voorwerpen, bedoeld in [artikel 16**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01). Hij is voorts gehouden aan deze rechtspersoon op diens aanvrage onverwijld die bescheiden ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.
 
 ##### Artikel 16g
 
-Geschillen met betrekking tot de vergoeding, bedoeld in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2025-07-01&g=2025-07-01), [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2025-07-01&g=2025-07-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2025-07-01&g=2025-07-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) en [16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.
+Geschillen met betrekking tot de vergoeding, bedoeld in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2026-01-01&g=2026-01-01), [15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2026-01-01&g=2026-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) en [16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.
 
 ##### Artikel 17
 
-Als inbreuk op een werk van letterkunde, wetenschap of kunst als bedoeld in [artikel 10, eerste lid, onder 5 of 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), wordt niet beschouwd de reproductie of beschikbaarstelling door een publieke media-instelling als bedoeld in [Hoofdstuk 2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2) van een in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk als bedoeld in [artikel 16o, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), dat door de publieke media-instelling is geproduceerd vóór 1 januari 2003 en is gearchiveerd. De [artikelen 16o tot en met 16r](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+Als inbreuk op een werk van letterkunde, wetenschap of kunst als bedoeld in [artikel 10, eerste lid, onder 5 of 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), wordt niet beschouwd de reproductie of beschikbaarstelling door een publieke media-instelling als bedoeld in [Hoofdstuk 2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2) van een in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk als bedoeld in [artikel 16o, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), dat door de publieke media-instelling is geproduceerd vóór 1 januari 2003 en is gearchiveerd. De [artikelen 16o tot en met 16r](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 17a
 
@@ -357,7 +359,7 @@ Vervallen
 
 1. Tenzij anders is overeengekomen, sluit de bevoegdheid tot openbaarmaking door uitzending van een radio- of televisieprogramma via radio of televisie, of een ander medium dat eenzelfde functie vervult niet in de bevoegdheid het werk vast te leggen.
 
-2. De omroeporganisatie die bevoegd is tot de openbaarmaking, bedoeld in het eerste lid, is echter gerechtigd met haar eigen middelen en uitsluitend voor uitzending van haar eigen radio- of televisieprogramma's het ter uitzending bestemde werk tijdelijk vast te leggen. De omroeporganisatie, die dientengevolge gerechtigd is tot vastlegging, is desalniettemin verplicht de rechten van de maker van het werk, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01), te eerbiedigen.
+2. De omroeporganisatie die bevoegd is tot de openbaarmaking, bedoeld in het eerste lid, is echter gerechtigd met haar eigen middelen en uitsluitend voor uitzending van haar eigen radio- of televisieprogramma's het ter uitzending bestemde werk tijdelijk vast te leggen. De omroeporganisatie, die dientengevolge gerechtigd is tot vastlegging, is desalniettemin verplicht de rechten van de maker van het werk, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01), te eerbiedigen.
 
 3. Vastleggingen die met inachtneming van het tweede lid zijn vervaardigd en een uitzonderlijke documentaire waarde bezitten, mogen in officiële archieven worden bewaard.
 
@@ -367,11 +369,11 @@ Als inbreuk op het auteursrecht op een werk van letterkunde of kunst wordt niet 
 
 ##### Artikel 17d
 
-Een krachtens de [artikelen 15j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), [16b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2025-07-01&g=2025-07-01), [16c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01), [16h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), [16m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16m&z=2025-07-01&g=2025-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=17a&z=2025-07-01&g=2025-07-01), [29a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29a&z=2025-07-01&g=2025-07-01), [29c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2025-07-01&g=2025-07-01), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2025-07-01&g=2025-07-01), of [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=2&artikel=45&z=2025-07-01&g=2025-07-01), vastgestelde algemene maatregel van bestuur of een wijziging daarvan treedt niet eerder in werking dan acht weken na datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
+Een krachtens de [artikelen 15j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), [16b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2026-01-01&g=2026-01-01), [16c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01), [16h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), [16m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16m&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=17a&z=2026-01-01&g=2026-01-01), [29a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29a&z=2026-01-01&g=2026-01-01), [29c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2026-01-01&g=2026-01-01), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2026-01-01&g=2026-01-01), [45da, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45da&z=2026-01-01&g=2026-01-01), of [45db](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45db&z=2026-01-01&g=2026-01-01), vastgestelde algemene maatregel van bestuur of een wijziging daarvan treedt niet eerder in werking dan acht weken na datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
 ##### Artikel 18
 
-Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of op een werk, betrekkelijk tot de bouwkunde als bedoeld in [artikel 10, eerste lid, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), dat is gemaakt om permanent in openbare plaatsen te worden geplaatst, wordt niet beschouwd de verveelvoudiging of openbaarmaking van afbeeldingen van het werk zoals het zich aldaar bevindt. Waar het betreft het overnemen in een compilatiewerk, mag van dezelfde maker niet meer worden overgenomen dan enkele van zijn werken.
+Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), of op een werk, betrekkelijk tot de bouwkunde als bedoeld in [artikel 10, eerste lid, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), dat is gemaakt om permanent in openbare plaatsen te worden geplaatst, wordt niet beschouwd de verveelvoudiging of openbaarmaking van afbeeldingen van het werk zoals het zich aldaar bevindt. Waar het betreft het overnemen in een compilatiewerk, mag van dezelfde maker niet meer worden overgenomen dan enkele van zijn werken.
 
 ##### Artikel 19
 
@@ -411,7 +413,7 @@ Tenzij anders is overeengekomen blijft de maker van eenig schilderwerk, niettege
 
 ##### Artikel 24a
 
-1. Als inbreuk op het auteursrecht op een verzameling als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), wordt niet beschouwd de verveelvoudiging, vervaardigd door de rechtmatige gebruiker van de verzameling, die noodzakelijk is om toegang te verkrijgen tot en normaal gebruik te maken van de verzameling.
+1. Als inbreuk op het auteursrecht op een verzameling als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), wordt niet beschouwd de verveelvoudiging, vervaardigd door de rechtmatige gebruiker van de verzameling, die noodzakelijk is om toegang te verkrijgen tot en normaal gebruik te maken van de verzameling.
 
 2. Indien de rechtmatige gebruiker slechts gerechtigd is tot het gebruik van een deel van de verzameling geldt het eerste lid slechts voor de toegang tot en het normaal gebruik van dat deel.
 
@@ -429,7 +431,7 @@ Tenzij anders is overeengekomen blijft de maker van eenig schilderwerk, niettege
 
 - d. het recht zich te verzetten tegen elke misvorming, verminking of andere aantasting van het werk, welke nadeel zou kunnen toebrengen aan de eer of de naam van de maker of aan zijn waarde in deze hoedanigheid.
 
-2. De in het eerste lid genoemde rechten komen, na het overlijden van de maker tot aan het vervallen van het auteursrecht, toe aan de door de maker bij uiterste wilsbeschikking aangewezene.
+2. De in het eerste lid genoemde rechten komen, na het overlijden van de maker tot aan het vervallen van het auteursrecht, toe aan de door de maker bij uiterste wilsbeschikking aangewezene, en bij gebreke van dien aan zijn nabestaanden.
 
 3. Van het recht, in het eerste lid, onder **a** genoemd kan afstand worden gedaan. Van de rechten onder **b** en **c** genoemd kan afstand worden gedaan voor zover het wijzigingen in het werk of in de benaming daarvan betreft.
 
@@ -469,11 +471,11 @@ Indien aan twee of meer personen een gemeenschappelijk auteursrecht op een zelfd
 
 ##### Artikel 26b
 
-Partijen zijn verplicht de onderhandelingen over de toestemming voor de openbaarmaking door middel van doorgifte, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2025-07-01&g=2025-07-01), te goeder trouw te voeren en niet zonder geldige reden te verhinderen of te belemmeren.
+Partijen zijn verplicht de onderhandelingen over de toestemming voor de openbaarmaking door middel van doorgifte, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2026-01-01&g=2026-01-01), te goeder trouw te voeren en niet zonder geldige reden te verhinderen of te belemmeren.
 
 ##### Artikel 26c
 
-1. Indien over de openbaarmaking door middel van doorgifte, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2025-07-01&g=2025-07-01), geen overeenstemming kan worden bereikt, kan iedere partij een beroep doen op een of meer bemiddelaars. De bemiddelaars worden zodanig geselecteerd dat over hun onafhankelijkheid en onpartijdigheid in redelijkheid geen twijfel kan bestaan.
+1. Indien over de openbaarmaking door middel van doorgifte, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2026-01-01&g=2026-01-01), geen overeenstemming kan worden bereikt, kan iedere partij een beroep doen op een of meer bemiddelaars. De bemiddelaars worden zodanig geselecteerd dat over hun onafhankelijkheid en onpartijdigheid in redelijkheid geen twijfel kan bestaan.
 
 2. De bemiddelaars verlenen bijstand bij het voeren van de onderhandelingen en zijn bevoegd aan de partijen voorstellen te betekenen. Tot drie maanden na de dag van ontvangst van de voorstellen van de bemiddelaars kan een partij zijn bezwaren tegen deze voorstellen betekenen aan de andere partij. De voorstellen van de bemiddelaars binden de partijen, tenzij binnen de in de vorige zin bedoelde termijn door een van hen bezwaren zijn betekend. De voorstellen en de bezwaren worden aan de partijen betekend overeenkomstig het bepaalde in de [eerste titel, zesde afdeling, van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
 
@@ -509,7 +511,7 @@ Partijen zijn verplicht de onderhandelingen over de toestemming voor de openbaar
 
 6. Tenzij anders is overeengekomen, heeft de licentienemer het recht de uit het eerste tot en met vijfde lid voortvloeiende bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.
 
-7. Gelijke bevoegdheid als bedoeld in het eerste lid bestaat ten aanzien van de inrichtingen, producten en onderdelen als bedoeld in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29a&z=2025-07-01&g=2025-07-01) alsmede de reproducties van werken als bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29b&z=2025-07-01&g=2025-07-01), die geen registergoederen zijn.
+7. Gelijke bevoegdheid als bedoeld in het eerste lid bestaat ten aanzien van de inrichtingen, producten en onderdelen als bedoeld in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29a&z=2026-01-01&g=2026-01-01) alsmede de reproducties van werken als bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), die geen registergoederen zijn.
 
 8. Bij de beoordeling van de maatregelen die de gerechtigde of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste, tweede en zevende lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.
 
@@ -519,9 +521,9 @@ Partijen zijn verplicht de onderhandelingen over de toestemming voor de openbaar
 
 ##### Artikel 29
 
-1. De in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2025-07-01&g=2025-07-01), bedoelde bevoegdheid kan niet worden uitgeoefend ten aanzien van zaken die onder personen berusten, die niet in soortgelijke zaken handeldrijven en deze uitsluitend voor eigen gebruik hebben verkregen, tenzij zij zelf inbreuk op het betreffende auteursrecht hebben gemaakt.
+1. De in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2026-01-01&g=2026-01-01), bedoelde bevoegdheid kan niet worden uitgeoefend ten aanzien van zaken die onder personen berusten, die niet in soortgelijke zaken handeldrijven en deze uitsluitend voor eigen gebruik hebben verkregen, tenzij zij zelf inbreuk op het betreffende auteursrecht hebben gemaakt.
 
-2. De vordering, bedoeld in [artikel 28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2025-07-01&g=2025-07-01), kan slechts worden ingesteld tegen de eigenaar of houder van de zaak, die schuld heeft aan de inbreuk op het betreffende auteursrecht.
+2. De vordering, bedoeld in [artikel 28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2026-01-01&g=2026-01-01), kan slechts worden ingesteld tegen de eigenaar of houder van de zaak, die schuld heeft aan de inbreuk op het betreffende auteursrecht.
 
 ##### Artikel 29a
 
@@ -529,7 +531,7 @@ Vervallen
 
 ##### Artikel 30
 
-Indien iemand zonder daartoe gerechtigd te zijn een portret openbaar maakt gelden ten aanzien van het recht van den geportretteerde dezelfde bepalingen als in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2025-07-01&g=2025-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29&z=2025-07-01&g=2025-07-01) met betrekking tot het auteursrecht zijn gesteld.
+Indien iemand zonder daartoe gerechtigd te zijn een portret openbaar maakt gelden ten aanzien van het recht van den geportretteerde dezelfde bepalingen als in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=28&z=2026-01-01&g=2026-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01) met betrekking tot het auteursrecht zijn gesteld.
 
 ##### Artikel 30a
 
@@ -571,7 +573,7 @@ wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van d
 
 ##### Artikel 31b
 
-Hij die van het plegen van de misdrijven, als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31&z=2025-07-01&g=2025-07-01) en [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31a&z=2025-07-01&g=2025-07-01), zijn beroep maakt of het plegen van deze misdrijven als bedrijf uitoefent, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie.
+Hij die van het plegen van de misdrijven, als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31&z=2026-01-01&g=2026-01-01) en [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31a&z=2026-01-01&g=2026-01-01), zijn beroep maakt of het plegen van deze misdrijven als bedrijf uitoefent, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie.
 
 ##### Artikel 32
 
@@ -589,7 +591,7 @@ wordt gestraft met geldboete van de derde categorie.
 
 ##### Artikel 32a
 
-Hij die opzettelijk middelen die uitsluitend bestemd zijn om het zonder toestemming van de maker of zijn rechtverkrijgende verwijderen van of het ontwijken van een technische voorziening ter bescherming van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), te vergemakkelijken
+Hij die opzettelijk middelen die uitsluitend bestemd zijn om het zonder toestemming van de maker of zijn rechtverkrijgende verwijderen van of het ontwijken van een technische voorziening ter bescherming van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), te vergemakkelijken
 
 - a. openlijk ter verspreiding aanbiedt,
 
@@ -603,7 +605,7 @@ wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van 
 
 ##### Artikel 33
 
-De feiten strafbaar gesteld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31&z=2025-07-01&g=2025-07-01), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31a&z=2025-07-01&g=2025-07-01), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31b&z=2025-07-01&g=2025-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=32&z=2025-07-01&g=2025-07-01) en [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=32a&z=2025-07-01&g=2025-07-01) zijn misdrijven.
+De feiten strafbaar gesteld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31&z=2026-01-01&g=2026-01-01), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31a&z=2026-01-01&g=2026-01-01), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=31b&z=2026-01-01&g=2026-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=32&z=2026-01-01&g=2026-01-01) en [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=32a&z=2026-01-01&g=2026-01-01) zijn misdrijven.
 
 ##### Artikel 34
 
@@ -619,7 +621,7 @@ De feiten strafbaar gesteld in de [artikelen 31](https://wetten.overheid.nl/jci1
 
 ##### Artikel 35a
 
-1. Hij die, zonder dat de vereischte toestemming van Onze Minister van Justitie en Veiligheid is verkregen, handelingen verricht, die behooren tot een bedrijf als bedoeld bij [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=30a&z=2025-07-01&g=2025-07-01), wordt gestraft met geldboete van de vierde categorie.
+1. Hij die, zonder dat de vereischte toestemming van Onze Minister van Justitie en Veiligheid is verkregen, handelingen verricht, die behooren tot een bedrijf als bedoeld bij [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=30a&z=2026-01-01&g=2026-01-01), wordt gestraft met geldboete van de vierde categorie.
 
 2. Het feit wordt beschouwd als eene overtreding.
 
@@ -631,11 +633,11 @@ De feiten strafbaar gesteld in de [artikelen 31](https://wetten.overheid.nl/jci1
 
 ##### Artikel 35c
 
-Degene die een schriftelijke opgave aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2025-07-01&g=2025-07-01), bedoelde rechtspersoon, dienende voor de vaststelling van het op grond van [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) verschuldigde, opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
+Degene die een schriftelijke opgave aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon, dienende voor de vaststelling van het op grond van [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) verschuldigde, opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
 
 ##### Artikel 35d
 
-Degene die een opgave als bedoeld in [artikel 15g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15g&z=2025-07-01&g=2025-07-01) opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
+Degene die een opgave als bedoeld in [artikel 15g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15g&z=2026-01-01&g=2026-01-01) opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
 
 ##### Artikel 36
 
@@ -673,11 +675,11 @@ Vervallen
 
 2. Hetzelfde geldt ten aanzien van werken, waarvan een openbare instelling, een vereniging, stichting of vennootschap als maker wordt aangemerkt, tenzij de natuurlijke persoon, die het werk heeft gemaakt, als zodanig is aangeduid op of in exemplaren van het werk, die zijn openbaar gemaakt.
 
-3. Indien de maker vóór het verstrijken van de in het eerste lid genoemde termijn zijn identiteit openbaart, zal de duur van het auteursrecht op dat werk worden berekend naar de bepalingen van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=37&z=2025-07-01&g=2025-07-01).
+3. Indien de maker vóór het verstrijken van de in het eerste lid genoemde termijn zijn identiteit openbaart, zal de duur van het auteursrecht op dat werk worden berekend naar de bepalingen van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 39
 
-Voor werken, waarvan de duur van het auteursrecht niet wordt berekend naar de bepalingen van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=37&z=2025-07-01&g=2025-07-01) en die niet binnen 70 jaren na hun totstandkoming op rechtmatige wijze zijn openbaar gemaakt, vervalt het auteursrecht.
+Voor werken, waarvan de duur van het auteursrecht niet wordt berekend naar de bepalingen van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01) en die niet binnen 70 jaren na hun totstandkoming op rechtmatige wijze zijn openbaar gemaakt, vervalt het auteursrecht.
 
 ##### Artikel 40
 
@@ -685,7 +687,7 @@ Het auteursrecht op een filmwerk vervalt door verloop van 70 jaren, te rekenen v
 
 ##### Artikel 41
 
-Ten aanzien van werken, in verschillende banden, delen, nummers of afleveringen verschenen, wordt voor de toepassing van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=38&z=2025-07-01&g=2025-07-01) iedere band, deel, nummer of aflevering als een afzonderlijk werk aangemerkt.
+Ten aanzien van werken, in verschillende banden, delen, nummers of afleveringen verschenen, wordt voor de toepassing van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III&artikel=38&z=2026-01-01&g=2026-01-01) iedere band, deel, nummer of aflevering als een afzonderlijk werk aangemerkt.
 
 ##### Artikel 42
 
@@ -707,7 +709,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 44
 
-1. Een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1) die een niet-exclusieve licentie voor niet-commerciële doeleinden verleent aan een cultureel erfgoedinstelling als bedoeld in [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25a&z=2025-07-01&g=2025-07-01), voor het reproduceren en openbaar maken van niet in de handel verkrijgbare werken van letterkunde, wetenschap of kunst die permanent deel uitmaken van de collectie van die erfgoedinstelling, is bevoegd om ook de belangen te behartigen van makers of hun rechtverkrijgenden die de collectieve beheersorganisatie niet door middel van overdracht, licentieverlening of een andere overeenkomst hebben gemachtigd om de rechten ten behoeve van hen te beheren als het de uitoefening van dezelfde rechten betreft als in haar statuten vermeld, mits:
+1. Een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1) die een niet-exclusieve licentie voor niet-commerciële doeleinden verleent aan een cultureel erfgoedinstelling als bedoeld in [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25a&z=2026-01-01&g=2026-01-01), voor het reproduceren en openbaar maken van niet in de handel verkrijgbare werken van letterkunde, wetenschap of kunst die permanent deel uitmaken van de collectie van die erfgoedinstelling, is bevoegd om ook de belangen te behartigen van makers of hun rechtverkrijgenden die de collectieve beheersorganisatie niet door middel van overdracht, licentieverlening of een andere overeenkomst hebben gemachtigd om de rechten ten behoeve van hen te beheren als het de uitoefening van dezelfde rechten betreft als in haar statuten vermeld, mits:
 
 - 1°. de collectieve beheerorganisatie, op basis van haar machtigingen, voldoende representatief is voor de makers in het soort werken in kwestie en voor de rechten die het onderwerp uitmaken van de licentie; en
 
@@ -749,13 +751,13 @@ tenzij de collectieve beheersorganisatie op basis van haar machtigingen voldoend
 
 1. Onder filmwerk wordt verstaan een werk dat bestaat uit een reeks beelden met of zonder geluid, ongeacht de wijze van vastlegging van het werk, indien het is vastgelegd.
 
-2. Onverminderd het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01) bepaalde worden als de makers van een filmwerk aangemerkt de natuurlijke personen die tot het ontstaan van het filmwerk een daartoe bestemde bijdrage van scheppend karakter hebben geleverd.
+2. Onverminderd het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) bepaalde worden als de makers van een filmwerk aangemerkt de natuurlijke personen die tot het ontstaan van het filmwerk een daartoe bestemde bijdrage van scheppend karakter hebben geleverd.
 
 3. Producent van het filmwerk is de natuurlijke of rechtspersoon die verantwoordelijk is voor de totstandbrenging van het filmwerk met het oog op de exploitatie daarvan.
 
 ##### Artikel 45b
 
-Indien een van de makers zijn bijdrage tot het filmwerk niet geheel tot stand wil of kan brengen, kan hij zich, tenzij schriftelijk anders overeengekomen is, niet verzetten tegen het gebruik door de producent van die bijdrage, voor zover deze reeds tot stand is gebracht, ten behoeve van de voltooiing van het filmwerk. Voor de door hem tot stand gebrachte bijdrage geldt hij als maker in de zin van [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45a&z=2025-07-01&g=2025-07-01).
+Indien een van de makers zijn bijdrage tot het filmwerk niet geheel tot stand wil of kan brengen, kan hij zich, tenzij schriftelijk anders overeengekomen is, niet verzetten tegen het gebruik door de producent van die bijdrage, voor zover deze reeds tot stand is gebracht, ten behoeve van de voltooiing van het filmwerk. Voor de door hem tot stand gebrachte bijdrage geldt hij als maker in de zin van [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45a&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 45c
 
@@ -763,23 +765,13 @@ Het filmwerk geldt als voltooid op het tijdstip waarop het vertoningsgereed is. 
 
 ##### Artikel 45d
 
-1. Tenzij de makers en de producent van een filmwerk schriftelijk anders zijn overeengekomen, worden de makers geacht aan de producent het recht overgedragen te hebben om vanaf het in [artikel 45c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45c&z=2025-07-01&g=2025-07-01) bedoelde tijdstip het filmwerk te verhuren en anderszins openbaar te maken, dit te verveelvoudigen in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=14&z=2025-07-01&g=2025-07-01), er ondertitels bij aan te brengen en de teksten ervan na te synchroniseren. Het vorenstaande geldt niet ten aanzien van degene die ten behoeve van het filmwerk de muziek heeft gemaakt en degene die de bij de muziek behorende tekst heeft gemaakt. Ongeacht de wijze van overdracht is de producent aan de makers voor de overdracht van rechten en de exploitatie van het filmwerk een billijke vergoeding verschuldigd. Van het recht op een billijke vergoeding kan geen afstand worden gedaan.
+1. Tenzij de makers en de producent van een filmwerk schriftelijk anders zijn overeengekomen, worden de makers geacht aan de producent het recht overgedragen te hebben om vanaf het in [artikel 45c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45c&z=2026-01-01&g=2026-01-01) bedoelde tijdstip het filmwerk te verhuren en anderszins openbaar te maken, dit te verveelvoudigen in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=14&z=2026-01-01&g=2026-01-01), er ondertitels bij aan te brengen en de teksten ervan na te synchroniseren. Het vorenstaande geldt niet ten aanzien van degene die ten behoeve van het filmwerk de muziek heeft gemaakt en degene die de bij de muziek behorende tekst heeft gemaakt. Ongeacht de wijze van overdracht is de producent aan de makers voor de overdracht van rechten en de exploitatie van het filmwerk een billijke vergoeding verschuldigd. De billijke vergoeding wordt schriftelijk overeengekomen. Van het recht op een billijke vergoeding kan geen afstand worden gedaan.
 
-2. Onverminderd het in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2025-07-01&g=2025-07-01) bepaalde is eenieder die het filmwerk openbaar maakt als bedoeld in [artikel 12, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Bij een openbaarmaking als bedoeld in [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12c&z=2025-07-01&g=2025-07-01) is enkel degene die het filmwerk uitzendt aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Eenieder die het filmwerk op andere wijze dan vorenbedoeld mededeelt aan het publiek, met uitzondering van de beschikbaarstelling van het filmwerk op zodanige wijze dat het filmwerk voor de leden van het publiek op een door hen individueel gekozen plaats en tijd toegankelijk is, is aan de hoofdregisseur en de scenarioschrijver van het filmwerk die deze rechten aan de producent heeft overgedragen, een proportionele billijke vergoeding verschuldigd. Van het recht op een proportionele billijke vergoeding kan geen afstand worden gedaan.
-
-3. Het recht op de vergoeding, bedoeld in het tweede lid, wordt uitgeoefend door een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1). [Artikel 26a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
-
-4. Degene die de in het tweede lid bedoelde vergoeding verschuldigd is, is gehouden aan de collectieve beheersorganisaties bedoeld in het derde lid de bescheiden of andere informatiedragers ter inzage te geven, waarvan de kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid, de hoogte en de verdeling van de vergoeding.
-
-5. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitoefening van het recht bedoeld in het tweede lid.
-
-6. Het recht op een proportionele billijke vergoeding bedoeld in het tweede lid is niet van toepassing op een filmwerk waarvan de exploitatie als zodanig niet het doel is.
-
-7. De [artikelen 25ca](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25ca&z=2025-07-01&g=2025-07-01), [25d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25d&z=2025-07-01&g=2025-07-01) en [25e](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25e&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing. [Artikel 25c, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25c&z=2025-07-01&g=2025-07-01), en [artikel 25g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25g&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de billijke vergoeding bedoeld in het eerste lid.
+2. [Hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&z=2026-01-01&g=2026-01-01) is, met uitzondering van [artikel 25fa](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25fa&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing. Voor de overdracht van het recht bedoeld in [artikel 12, eerste lid, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), overeenkomstig het in het eerste lid bepaalde geldt, in afwijking van de tweede zin van [artikel 25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25c&z=2026-01-01&g=2026-01-01), dat de vergoeding die tot stand komt na onderhandelingen tussen een vereniging van makers en een producent of een vereniging van producenten, wordt vermoed billijk te zijn, indien de vergoeding passend is en in verhouding staat tot het gebruik dat van het recht wordt gemaakt door de producent of een derde aan wie de producent het recht heeft overgedragen of gelicentieerd.
 
 ##### Artikel 45e
 
-Iedere maker heeft met betrekking tot het filmwerk naast de rechten, bedoeld in [artikel 25, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01), het recht
+Iedere maker heeft met betrekking tot het filmwerk naast de rechten, bedoeld in [artikel 25, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01), het recht
 
 - a. zijn naam op de daarvoor gebruikelijke plaats in het filmwerk te doen vermelden met vermelding van zijn hoedanigheid of zijn bijdrage aan het filmwerk;
 
@@ -789,37 +781,37 @@ Iedere maker heeft met betrekking tot het filmwerk naast de rechten, bedoeld in 
 
 ##### Artikel 45f
 
-De maker wordt, tenzij schriftelijk anders overeengekomen is, verondersteld tegenover de producent afstand gedaan te hebben van het recht zich te verzetten tegen wijzigingen als bedoeld in [artikel 25, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2025-07-01&g=2025-07-01), in zijn bijdrage.
+De maker wordt, tenzij schriftelijk anders overeengekomen is, verondersteld tegenover de producent afstand gedaan te hebben van het recht zich te verzetten tegen wijzigingen als bedoeld in [artikel 25, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=25&z=2026-01-01&g=2026-01-01), in zijn bijdrage.
 
 ##### Artikel 45g
 
-Iedere maker behoudt, tenzij schriftelijk anders overeengekomen is, het auteursrecht op zijn bijdrage, indien deze een van het filmwerk scheidbaar werk vormt. Na het in [artikel 45c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45c&z=2025-07-01&g=2025-07-01) bedoelde tijdstip mag iedere maker, tenzij schriftelijk anders overeengekomen is, zijn bijdrage afzonderlijk openbaar maken en verveelvoudigen, mits hij daardoor geen schade toebrengt aan de exploitatie van het filmwerk.
+Iedere maker behoudt, tenzij schriftelijk anders overeengekomen is, het auteursrecht op zijn bijdrage, indien deze een van het filmwerk scheidbaar werk vormt. Na het in [artikel 45c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45c&z=2026-01-01&g=2026-01-01) bedoelde tijdstip mag iedere maker, tenzij schriftelijk anders overeengekomen is, zijn bijdrage afzonderlijk openbaar maken en verveelvoudigen, mits hij daardoor geen schade toebrengt aan de exploitatie van het filmwerk.
 
 ### Hoofdstuk VI. Bijzondere bepalingen betreffende computerprogramma's
 
 ##### Artikel 45h
 
-Voor het openbaar maken door middel van verhuren van het geheel of een gedeelte van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of van een verveelvoudiging daarvan die door de rechthebbende of met zijn toestemming in het verkeer is gebracht, is de toestemming van de maker of zijn rechtverkrijgende vereist.
+Voor het openbaar maken door middel van verhuren van het geheel of een gedeelte van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), of van een verveelvoudiging daarvan die door de rechthebbende of met zijn toestemming in het verkeer is gebracht, is de toestemming van de maker of zijn rechtverkrijgende vereist.
 
 ##### Artikel 45i
 
-Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2025-07-01&g=2025-07-01) wordt onder het verveelvoudigen van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), mede verstaan het laden, het in beeld brengen, de uitvoering, de transmissie of de opslag, voor zover voor deze handelingen het verveelvoudigen van dat werk noodzakelijk is.
+Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2026-01-01&g=2026-01-01) wordt onder het verveelvoudigen van een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), mede verstaan het laden, het in beeld brengen, de uitvoering, de transmissie of de opslag, voor zover voor deze handelingen het verveelvoudigen van dat werk noodzakelijk is.
 
 ##### Artikel 45j
 
-Tenzij anders is overeengekomen, wordt niet als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), beschouwd de verveelvoudiging, vervaardigd door de rechtmatige verkrijger van een exemplaar van eerder genoemd werk, die noodzakelijk is voor het met dat werk beoogde gebruik. De verveelvoudiging, als bedoeld in de eerste zin, die geschiedt in het kader van het laden, het in beeld brengen of het verbeteren van fouten, kan niet bij overeenkomst worden verboden.
+Tenzij anders is overeengekomen, wordt niet als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), beschouwd de verveelvoudiging, vervaardigd door de rechtmatige verkrijger van een exemplaar van eerder genoemd werk, die noodzakelijk is voor het met dat werk beoogde gebruik. De verveelvoudiging, als bedoeld in de eerste zin, die geschiedt in het kader van het laden, het in beeld brengen of het verbeteren van fouten, kan niet bij overeenkomst worden verboden.
 
 ##### Artikel 45k
 
-Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), wordt niet beschouwd de verveelvoudiging, vervaardigd door de rechtmatige gebruiker van eerder genoemd werk, die dient als reservekopie indien zulks voor het met dat werk beoogde gebruik noodzakelijk is.
+Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), wordt niet beschouwd de verveelvoudiging, vervaardigd door de rechtmatige gebruiker van eerder genoemd werk, die dient als reservekopie indien zulks voor het met dat werk beoogde gebruik noodzakelijk is.
 
 ##### Artikel 45l
 
-Hij die bevoegd is tot het verrichten van de in [artikel 45i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=VI&artikel=45i&z=2025-07-01&g=2025-07-01) bedoelde handelingen, is mede bevoegd tijdens deze handelingen de werking van dat werk waar te nemen, te bestuderen en te testen teneinde de daaraan ten grondslag liggende ideeën en beginselen te achterhalen.
+Hij die bevoegd is tot het verrichten van de in [artikel 45i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=VI&artikel=45i&z=2026-01-01&g=2026-01-01) bedoelde handelingen, is mede bevoegd tijdens deze handelingen de werking van dat werk waar te nemen, te bestuderen en te testen teneinde de daaraan ten grondslag liggende ideeën en beginselen te achterhalen.
 
 ##### Artikel 45m
 
-1. Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), worden niet beschouwd het vervaardigen van een kopie van dat werk en het vertalen van de codevorm daarvan, indien deze handelingen onmisbaar zijn om de informatie te verkrijgen die nodig is om de interoperabiliteit van een onafhankelijk vervaardigd computerprogramma met andere computerprogramma’s tot stand te brengen, mits:
+1. Als inbreuk op het auteursrecht op een werk als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), worden niet beschouwd het vervaardigen van een kopie van dat werk en het vertalen van de codevorm daarvan, indien deze handelingen onmisbaar zijn om de informatie te verkrijgen die nodig is om de interoperabiliteit van een onafhankelijk vervaardigd computerprogramma met andere computerprogramma’s tot stand te brengen, mits:
 
 - a. deze handelingen worden verricht door een persoon die op rechtmatige wijze de beschikking heeft gekregen over een exemplaar van het computerprogramma of door een door hem daartoe gemachtigde derde;
 
@@ -837,13 +829,13 @@ Hij die bevoegd is tot het verrichten van de in [artikel 45i](https://wetten.ove
 
 ##### Artikel 45n
 
-De [artikelen 15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2025-07-01&g=2025-07-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2025-07-01&g=2025-07-01) en [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) en [hoofdstuk IA](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&z=2025-07-01&g=2025-07-01) zijn niet van toepassing op werken als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01).
+De [artikelen 15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2026-01-01&g=2026-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2026-01-01&g=2026-01-01) en [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) en [hoofdstuk IA](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op werken als bedoeld in [artikel 10, eerste lid, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
 
 ##### Artikel 45o
 
-1. Hij die een niet eerder uitgegeven werk voor de eerste maal rechtmatig openbaar maakt na het verstrijken van de duur van het auteursrecht, geniet het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) genoemde uitsluitende recht.
+1. Hij die een niet eerder uitgegeven werk voor de eerste maal rechtmatig openbaar maakt na het verstrijken van de duur van het auteursrecht, geniet het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) genoemde uitsluitende recht.
 
 2. Het in het eerste lid genoemde recht vervalt door verloop van 25 jaren, te rekenen van de 1e januari van het jaar, volgende op dat, waarin de eerste openbaarmaking van dat werk rechtmatig heeft plaatsgehad.
 
@@ -875,13 +867,13 @@ Deze wet blijft van toepassing op alle werken van letterkunde, wetenschap of kun
 
 ##### Artikel 47b
 
-1. Deze wet is van toepassing op het uitzenden van een in een radio- of televisieprogramma opgenomen werk door middel van een satelliet, indien de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), in Nederland plaatsvindt.
+1. Deze wet is van toepassing op het uitzenden van een in een radio- of televisieprogramma opgenomen werk door middel van een satelliet, indien de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), in Nederland plaatsvindt.
 
 2. Deze wet is voorts van toepassing op het uitzenden van een in een radio- of televisieprogramma opgenomen werk door middel van een satelliet, indien:
 
-- a. de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), plaatsvindt in een land dat niet tot de Europese Unie behoort of dat niet partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992;
+- a. de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), plaatsvindt in een land dat niet tot de Europese Unie behoort of dat niet partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992;
 
-- b. het land waar de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), plaatsvindt niet het niveau van bescherming biedt, voorzien in hoofdstuk II van [richtlijn nr. 93/83/EEG](31993L0083) van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248); en
+- b. het land waar de handeling, bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), plaatsvindt niet het niveau van bescherming biedt, voorzien in hoofdstuk II van [richtlijn nr. 93/83/EEG](31993L0083) van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248); en
 
 - c. hetzij de programmadragende signalen naar de satelliet worden doorgezonden vanuit een grondstation in Nederland, hetzij een omroeporganisatie, die in Nederland haar hoofdvestiging heeft, opdracht heeft gegeven tot de uitzending en geen gebruik wordt gemaakt van een grondstation in een lid-staat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992.
 
@@ -949,27 +941,27 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Een reprografische verveelvoudiging van het gehele werk wordt niet beschouwd als inbreuk op het auteursrecht, indien van een boek naar redelijkerwijs mag worden aangenomen geen nieuwe exemplaren tegen betaling, in welke vorm dan ook, aan derden ter beschikking worden gesteld, mits voor deze verveelvoudiging een vergoeding wordt betaald.
 
-3. Bij algemene maatregel van bestuur kan worden bepaald dat ten aanzien van de verveelvoudiging van werken als bedoeld bij [artikel 10, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), van het in een of meer der voorgaande leden bepaalde mag worden afgeweken ten behoeve van de uitoefening van de openbare dienst, alsmede ten behoeve van de vervulling van taken waarmee in het algemeen belang werkzame instellingen zijn belast. Daarbij kunnen nadere regelen worden gegeven en nadere voorwaarden worden gesteld.
+3. Bij algemene maatregel van bestuur kan worden bepaald dat ten aanzien van de verveelvoudiging van werken als bedoeld bij [artikel 10, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), van het in een of meer der voorgaande leden bepaalde mag worden afgeweken ten behoeve van de uitoefening van de openbare dienst, alsmede ten behoeve van de vervulling van taken waarmee in het algemeen belang werkzame instellingen zijn belast. Daarbij kunnen nadere regelen worden gegeven en nadere voorwaarden worden gesteld.
 
 ##### Artikel 16i
 
-De vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), wordt berekend over iedere pagina waarop een werk als bedoeld in het eerste en tweede lid van dat artikel reprografisch verveelvoudigd is.
+De vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), wordt berekend over iedere pagina waarop een werk als bedoeld in het eerste en tweede lid van dat artikel reprografisch verveelvoudigd is.
 
 Bij algemene maatregel van bestuur wordt de hoogte van de vergoeding vastgesteld en kunnen nadere regelen en voorwaarden worden gesteld.
 
 ##### Artikel 16j
 
-Een met inachtneming van [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01) vervaardigde reprografische verveelvoudiging mag, zonder toestemming van de maker of zijn rechtverkrijgende, alleen worden afgegeven aan personen die in dezelfde onderneming, organisatie of instelling werkzaam zijn, tenzij de afgifte geschiedt ten behoeve van een rechterlijke of administratieve procedure.
+Een met inachtneming van [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01) vervaardigde reprografische verveelvoudiging mag, zonder toestemming van de maker of zijn rechtverkrijgende, alleen worden afgegeven aan personen die in dezelfde onderneming, organisatie of instelling werkzaam zijn, tenzij de afgifte geschiedt ten behoeve van een rechterlijke of administratieve procedure.
 
 ##### Artikel 16k
 
-De verplichting tot betaling van de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), vervalt door verloop van drie jaar na het tijdstip waarop de verveelvoudiging vervaardigd is.
+De verplichting tot betaling van de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), vervalt door verloop van drie jaar na het tijdstip waarop de verveelvoudiging vervaardigd is.
 
 De vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de maker of diens rechtverkrijgende afstand heeft gedaan van het recht op de vergoeding.
 
 ##### Artikel 16l
 
-1. De betaling van de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), dient te geschieden aan een door Onze Minister van Justitie en Veiligheid aan te wijzen, naar zijn oordeel representatieve rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van deze vergoeding.
+1. De betaling van de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), dient te geschieden aan een door Onze Minister van Justitie en Veiligheid aan te wijzen, naar zijn oordeel representatieve rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van deze vergoeding.
 
 2. In aangelegenheden betreffende de inning van de vergoeding vertegenwoordigt de rechtspersoon, bedoeld in het eerste lid, de makers of hun rechtverkrijgenden in en buiten rechte.
 
@@ -981,7 +973,7 @@ De vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat
 
 ##### Artikel 16m
 
-1. Degene die de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), dient te betalen aan de rechtspersoon, bedoeld in [artikel 16l](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16l&z=2025-07-01&g=2025-07-01), eerste lid, is gehouden aan deze opgave te doen van het totale aantal reprografische verveelvoudigingen dat hij per jaar maakt.
+1. Degene die de vergoeding, bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), dient te betalen aan de rechtspersoon, bedoeld in [artikel 16l](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16l&z=2026-01-01&g=2026-01-01), eerste lid, is gehouden aan deze opgave te doen van het totale aantal reprografische verveelvoudigingen dat hij per jaar maakt.
 
 2. De opgave, bedoeld in het eerste lid, behoeft niet gedaan te worden, indien per jaar minder dan een bij algemene maatregel van bestuur te bepalen aantal reprografische verveelvoudigingen gemaakt wordt.
 
@@ -1007,9 +999,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16ga
 
-1. De verkoper van de in [artikel 16c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01) bedoelde voorwerpen is gehouden aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2025-07-01&g=2025-07-01), bedoelde rechtspersoon op diens aanvraag onverwijld die bescheiden ter inzage te geven waarvan de kennisneming noodzakelijk is om vast te stellen of de in [artikel 16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01), bedoelde vergoeding door de fabrikant of de importeur betaald is.
+1. De verkoper van de in [artikel 16c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01) bedoelde voorwerpen is gehouden aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon op diens aanvraag onverwijld die bescheiden ter inzage te geven waarvan de kennisneming noodzakelijk is om vast te stellen of de in [artikel 16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01), bedoelde vergoeding door de fabrikant of de importeur betaald is.
 
-2. Indien de verkoper niet kan aantonen dat de vergoeding door de fabrikant of de importeur betaald is, is hij verplicht tot betaling daarvan aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2025-07-01&g=2025-07-01), bedoelde rechtspersoon, tenzij uit de in het eerste lid genoemde bescheiden blijkt wie de fabrikant of de importeur is.
+2. Indien de verkoper niet kan aantonen dat de vergoeding door de fabrikant of de importeur betaald is, is hij verplicht tot betaling daarvan aan de in [artikel 16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16d&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon, tenzij uit de in het eerste lid genoemde bescheiden blijkt wie de fabrikant of de importeur is.
 
 ### Hoofdstuk II. De uitoefening en de handhaving van het auteursrecht en bepalingen van strafrecht
 
@@ -1047,7 +1039,7 @@ Tenzij anders overeengekomen, wordt niet als inbreuk op het auteursrecht op een 
 
 ##### Artikel 15i
 
-1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de verveelvoudiging of openbaarmaking die uitsluitend bestemd is voor mensen met een handicap, mits deze direct met de handicap verband houdt, van niet commerciële aard is en wegens die handicap noodzakelijk is, onverminderd het bepaalde in [artikel 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01).
+1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de verveelvoudiging of openbaarmaking die uitsluitend bestemd is voor mensen met een handicap, mits deze direct met de handicap verband houdt, van niet commerciële aard is en wegens die handicap noodzakelijk is, onverminderd het bepaalde in [artikel 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01).
 
 2. Voor de verveelvoudiging of openbaarmaking, bedoeld in het eerste lid, is ten behoeve van de maker of diens rechtverkrijgenden een billijke vergoeding verschuldigd.
 
@@ -1087,9 +1079,9 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 handelt onrechtmatig.
 
-4. Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de maker of zijn rechtverkrijgenden er toe verplichten aan de gebruiker van een werk van letterkunde, wetenschap of kunst voor doeleinden als omschreven in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2025-07-01&g=2025-07-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2025-07-01&g=2025-07-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2025-07-01&g=2025-07-01), [16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2025-07-01&g=2025-07-01), [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=17b&z=2025-07-01&g=2025-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=22&z=2025-07-01&g=2025-07-01) van deze wet de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang tot het door de technische voorziening beschermde werk heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van werken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd.
+4. Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de maker of zijn rechtverkrijgenden er toe verplichten aan de gebruiker van een werk van letterkunde, wetenschap of kunst voor doeleinden als omschreven in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15i&z=2026-01-01&g=2026-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16b&z=2026-01-01&g=2026-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16c&z=2026-01-01&g=2026-01-01), [16h](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16h&z=2026-01-01&g=2026-01-01), [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=17b&z=2026-01-01&g=2026-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=22&z=2026-01-01&g=2026-01-01) van deze wet de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang tot het door de technische voorziening beschermde werk heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van werken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd.
 
-5. Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de maker of zijn rechtverkrijgende er toe verplichten aan de gebruiker van een werk van letterkunde, wetenschap of kunst voor het gebruik als omschreven in de [artikelen 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), [15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2025-07-01&g=2025-07-01), [15o](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15o&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2025-07-01&g=2025-07-01), [16n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16n&z=2025-07-01&g=2025-07-01) van deze wet de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang tot het werk heeft dat door de technische voorziening is beschermd.
+5. Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de maker of zijn rechtverkrijgende er toe verplichten aan de gebruiker van een werk van letterkunde, wetenschap of kunst voor het gebruik als omschreven in de [artikelen 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), [15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2026-01-01&g=2026-01-01), [15o](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15o&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01), [16n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16n&z=2026-01-01&g=2026-01-01) van deze wet de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang tot het werk heeft dat door de technische voorziening is beschermd.
 
 ##### Artikel 29b
 
@@ -1117,29 +1109,29 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 43b
 
-Bij algemene maatregel van bestuur wordt de hoogte van de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2025-07-01&g=2025-07-01), vastgesteld en kunnen regelen worden gesteld omtrent de verschuldigdheid van de vergoeding.
+Bij algemene maatregel van bestuur wordt de hoogte van de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2026-01-01&g=2026-01-01), vastgesteld en kunnen regelen worden gesteld omtrent de verschuldigdheid van de vergoeding.
 
 ##### Artikel 43c
 
-1. De verplichting tot betaling van de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2025-07-01&g=2025-07-01), rust op de bij de verkoop betrokken professionele kunsthandelaar. Indien meer dan één professionele kunsthandelaar bij een verkoop is betrokken, zijn zij hoofdelijk voor deze vergoeding aansprakelijk.
+1. De verplichting tot betaling van de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2026-01-01&g=2026-01-01), rust op de bij de verkoop betrokken professionele kunsthandelaar. Indien meer dan één professionele kunsthandelaar bij een verkoop is betrokken, zijn zij hoofdelijk voor deze vergoeding aansprakelijk.
 
-2. Een rechtsvordering tot betaling van de vergoeding bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2025-07-01&g=2025-07-01), verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de rechthebbende zowel met de opeisbaarheid van de vergoeding als met de tot de betaling van de vergoeding verplichte persoon bekend is geworden, en in ieder geval door verloop van twintig jaren na het tijdtip waarop de vergoeding opeisbaar is geworden.
+2. Een rechtsvordering tot betaling van de vergoeding bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2026-01-01&g=2026-01-01), verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de rechthebbende zowel met de opeisbaarheid van de vergoeding als met de tot de betaling van de vergoeding verplichte persoon bekend is geworden, en in ieder geval door verloop van twintig jaren na het tijdtip waarop de vergoeding opeisbaar is geworden.
 
 ##### Artikel 43d
 
-De gerechtigde op het volgrecht kan gedurende drie jaar na het tijdstip waarop de vergoeding bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2025-07-01&g=2025-07-01), opeisbaar is geworden, van degene die verplicht is tot betaling van de vergoeding alle inlichtingen verlangen die noodzakelijk zijn om de betaling van de vergoeding veilig te stellen.
+De gerechtigde op het volgrecht kan gedurende drie jaar na het tijdstip waarop de vergoeding bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2026-01-01&g=2026-01-01), opeisbaar is geworden, van degene die verplicht is tot betaling van de vergoeding alle inlichtingen verlangen die noodzakelijk zijn om de betaling van de vergoeding veilig te stellen.
 
 ##### Artikel 43e
 
 1. Het volgrecht vervalt op het tijdstip waarop het auteursrecht vervalt.
 
-2. In afwijking van het eerste lid is bij een verkoop van een origineel van een kunstwerk tot 1 januari 2010 de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2025-07-01&g=2025-07-01), niet verschuldigd aan de rechtverkrijgenden van de maker krachtens erfopvolging.
+2. In afwijking van het eerste lid is bij een verkoop van een origineel van een kunstwerk tot 1 januari 2010 de vergoeding, bedoeld in [artikel 43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43a&z=2026-01-01&g=2026-01-01), niet verschuldigd aan de rechtverkrijgenden van de maker krachtens erfopvolging.
 
 3. Bij algemene maatregel van bestuur kan de in het tweede lid bedoelde periode worden verlengd tot uiterlijk 1 januari 2012.
 
 ##### Artikel 43f
 
-Onverminderd het bepaalde in [artikel 43g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43g&z=2025-07-01&g=2025-07-01) is dit hoofdstuk van toepassing op originelen van kunstwerken die op 1 januari 2006 in ten minste één lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 beschermd worden door de nationale wetgeving op het gebied van het auteursrecht.
+Onverminderd het bepaalde in [artikel 43g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IV&artikel=43g&z=2026-01-01&g=2026-01-01) is dit hoofdstuk van toepassing op originelen van kunstwerken die op 1 januari 2006 in ten minste één lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 beschermd worden door de nationale wetgeving op het gebied van het auteursrecht.
 
 ##### Artikel 43g
 
@@ -1169,7 +1161,7 @@ De rechter kan op vordering van de maker, tussenpersonen wier diensten door derd
 
 ##### Artikel 26e
 
-De voorzieningenrechter kan op vordering van de maker of zijn rechtverkrijgende tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de maker of zijn rechtverkrijgende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in [artikel 26d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26d&z=2025-07-01&g=2025-07-01) toestaan.
+De voorzieningenrechter kan op vordering van de maker of zijn rechtverkrijgende tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de maker of zijn rechtverkrijgende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in [artikel 26d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26d&z=2026-01-01&g=2026-01-01) toestaan.
 
 ### Hoofdstuk III. De duur van het auteursrecht
 
@@ -1195,11 +1187,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16o
 
-1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst als bedoeld in [artikel 10, eerste lid, onder 1, 5 of 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), wordt niet beschouwd de reproductie of beschikbaarstelling door voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea, alsmede archieven en instellingen voor cinematografisch of audiovisueel erfgoed die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, van een voor het eerst in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk mits:
+1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst als bedoeld in [artikel 10, eerste lid, onder 1, 5 of 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), wordt niet beschouwd de reproductie of beschikbaarstelling door voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea, alsmede archieven en instellingen voor cinematografisch of audiovisueel erfgoed die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, van een voor het eerst in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte openbaar gemaakt werk mits:
 
 - a. het werk deel uitmaakt van de eigen verzameling van de hiervoor bedoelde organisaties;
 
-- b. de rechthebbende op het werk na een zorgvuldig onderzoek als bedoeld in [artikel 16p](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16q&z=2025-07-01&g=2025-07-01) niet is geïdentificeerd en opgespoord; en
+- b. de rechthebbende op het werk na een zorgvuldig onderzoek als bedoeld in [artikel 16p](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16q&z=2026-01-01&g=2026-01-01) niet is geïdentificeerd en opgespoord; en
 
 - c. de reproductie en beschikbaarstelling geschiedt in het kader van de uitoefening van een publieke taak, in het bijzonder het behouden en restaureren van de werken en het verstrekken van voor culturele en onderwijsdoeleinden bestemde toegang tot de werken uit de eigen verzameling van de hiervoor bedoelde organisaties.
 
@@ -1211,15 +1203,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16p
 
-1. Het zorgvuldig onderzoek naar de rechthebbende, als bedoeld in [artikel 16o, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), wordt uitgevoerd door voor ieder werk als bedoeld in artikel 16o, eerste lid, en voor ieder daarin opgenomen werk van letterkunde, wetenschap of kunst de voor de desbetreffende categorie van werken geschikte bronnen voor het opsporen van rechthebbenden te raadplegen. Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij algemene maatregel van bestuur regels gegeven ten aanzien van de bij het onderzoek te raadplegen bronnen.
+1. Het zorgvuldig onderzoek naar de rechthebbende, als bedoeld in [artikel 16o, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), wordt uitgevoerd door voor ieder werk als bedoeld in artikel 16o, eerste lid, en voor ieder daarin opgenomen werk van letterkunde, wetenschap of kunst de voor de desbetreffende categorie van werken geschikte bronnen voor het opsporen van rechthebbenden te raadplegen. Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij algemene maatregel van bestuur regels gegeven ten aanzien van de bij het onderzoek te raadplegen bronnen.
 
 2. Het onderzoek vindt plaats in de lidstaat waarin het werk voor het eerst is openbaar gemaakt. Voor filmwerken vindt het onderzoek plaats in de lidstaat waar de producent zijn zetel of gewone woonplaats heeft.
 
-3. Voor een werk als bedoeld in [artikel 16o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), vindt het onderzoek plaats in de lidstaat waar de organisatie die het werk met toestemming van de rechthebbende in de eigen verzameling heeft opgenomen, is gevestigd.
+3. Voor een werk als bedoeld in [artikel 16o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), vindt het onderzoek plaats in de lidstaat waar de organisatie die het werk met toestemming van de rechthebbende in de eigen verzameling heeft opgenomen, is gevestigd.
 
 4. Indien er aanwijzingen zijn dat informatie over de rechthebbende aanwezig is in een andere lidstaat, worden ook de in die lidstaat voor een zorgvuldig onderzoek voorgeschreven bronnen geraadpleegd.
 
-5. De organisaties, bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), houden bij welke bronnen in het kader van het onderzoek zijn geraadpleegd en welke informatie hieruit is voortgekomen. De organisaties verstrekken de volgende gegevens aan een op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap bij of krachtens algemene maatregel van bestuur aan te wijzen instantie, ten behoeve van doorgeleiding aan het Harmonisatiebureau voor de Interne Markt:
+5. De organisaties, bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), houden bij welke bronnen in het kader van het onderzoek zijn geraadpleegd en welke informatie hieruit is voortgekomen. De organisaties verstrekken de volgende gegevens aan een op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap bij of krachtens algemene maatregel van bestuur aan te wijzen instantie, ten behoeve van doorgeleiding aan het Harmonisatiebureau voor de Interne Markt:
 
 - a. de resultaten van het zorgvuldig onderzoek dat door de organisaties is verricht en dat tot de conclusie heeft geleid dat het werk verweesd is;
 
@@ -1231,15 +1223,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld over de aan te leveren gegevens en de wijze van aanleveren.
 
-6. Voor verweesde werken opgenomen in de databank van het Harmonisatiebureau, genoemd in het vijfde lid, is voor de reproductie en beschikbaarstelling als bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), een zorgvuldig onderzoek als bedoeld in artikel 16o, eerste lid, onder b, niet noodzakelijk.
+6. Voor verweesde werken opgenomen in de databank van het Harmonisatiebureau, genoemd in het vijfde lid, is voor de reproductie en beschikbaarstelling als bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), een zorgvuldig onderzoek als bedoeld in artikel 16o, eerste lid, onder b, niet noodzakelijk.
 
 ##### Artikel 16q
 
-Het gebruik van een werk van letterkunde, wetenschap of kunst overeenkomstig artikel 16o, eerste lid, wordt beëindigd indien een rechthebbende met betrekking tot de rechten waar hij over beschikt, gebruik maakt van de mogelijkheid om de status van verweesd werk te beëindigen. De organisaties bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), zijn aan de rechthebbende een billijke vergoeding verschuldigd voor het gebruik dat op grond van artikel 16o van het werk is gemaakt.
+Het gebruik van een werk van letterkunde, wetenschap of kunst overeenkomstig artikel 16o, eerste lid, wordt beëindigd indien een rechthebbende met betrekking tot de rechten waar hij over beschikt, gebruik maakt van de mogelijkheid om de status van verweesd werk te beëindigen. De organisaties bedoeld in [artikel 16o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2026-01-01&g=2026-01-01), zijn aan de rechthebbende een billijke vergoeding verschuldigd voor het gebruik dat op grond van artikel 16o van het werk is gemaakt.
 
 ##### Artikel 16r
 
-Voor de toepassing van de [artikelen 16o](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16o&z=2025-07-01&g=2025-07-01), [16p](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16p&z=2025-07-01&g=2025-07-01), [16q](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16q&z=2025-07-01&g=2025-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=17&z=2025-07-01&g=2025-07-01) wordt onder beschikbaarstelling verstaan het, per draad of draadloos, beschikbaar stellen van een werk van letterkunde, wetenschap of kunst voor het publiek op zodanige wijze dat de leden van het publiek op een door hen gekozen individuele plaats en tijd toegang hebben tot het werk.
+Vervallen
 
 ### Hoofdstuk Ia. De exploitatieovereenkomst
 
@@ -1261,25 +1253,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Dit hoofdstuk is van toepassing op een overeenkomst die de verlening van exploitatiebevoegdheid ten aanzien van het auteursrecht van de maker aan een wederpartij tot doel heeft.
 
-2. [Artikel 25f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25f&z=2025-07-01&g=2025-07-01), is van toepassing op een overeenkomst waarbij de maker het auteursrecht geheel of gedeeltelijk overdraagt of waarbij door de maker een exclusieve licentie is verleend.
+2. [Artikel 25f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25f&z=2026-01-01&g=2026-01-01), is van toepassing op een overeenkomst waarbij de maker het auteursrecht geheel of gedeeltelijk overdraagt of waarbij door de maker een exclusieve licentie is verleend.
 
-3. Dit hoofdstuk is niet van toepassing op de maker als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01). Met uitzondering van [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25f&z=2025-07-01&g=2025-07-01) is dit hoofdstuk niet van toepassing op overeenkomsten die door een maker worden gesloten met een collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 1 van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1).
+3. Dit hoofdstuk is niet van toepassing op de maker als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01). Met uitzondering van [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25f&z=2026-01-01&g=2026-01-01) is dit hoofdstuk niet van toepassing op overeenkomsten die door een maker worden gesloten met een collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 1 van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1).
 
 4. Dit hoofdstuk is van overeenkomstige toepassing op de natuurlijke persoon die het auteursrecht als erfgenaam of legataris van de maker heeft verkregen.
 
 ##### Artikel 25c
 
-1. De maker heeft recht op een in de overeenkomst te bepalen billijke vergoeding voor de verlening van exploitatiebevoegdheid.
+1. De maker heeft recht op een in de overeenkomst te bepalen billijke vergoeding voor de verlening van exploitatiebevoegdheid. De vergoeding die tot stand komt na onderhandelingen tussen een vereniging van makers die blijkens haar statuten de belangen behartigt van makers die zelfstandigen zonder personeel zijn, en een exploitant of een vereniging van exploitanten, wordt vermoed billijk te zijn.
 
-2. Onze Minister van Onderwijs, Cultuur en Wetenschap kan, een bij algemene maatregel van bestuur, op voordracht van Onze voornoemde Minister, aan te wijzen adviesorgaan gehoord, de hoogte van een billijke vergoeding vaststellen voor een specifieke branche en voor een bepaalde periode na overleg met Onze Minister van Justitie en Veiligheid. De vaststelling van een billijke vergoeding geschiedt met inachtneming van het belang van het behoud van de culturele diversiteit, de toegankelijkheid van cultuur, een doelstelling van sociaal beleid en het belang van de consument.
-
-3. Onze Minister van Onderwijs, Cultuur en Wetenschap gaat alleen over tot vaststelling als bedoeld in het tweede lid op gezamenlijk verzoek van een in de desbetreffende branche bestaande vereniging van makers en een exploitant of een vereniging van exploitanten. Het verzoek bevat een gezamenlijk gedragen advies inzake een billijke vergoeding, alsmede een duidelijke afbakening van de branche waarop het verzoek betrekking heeft.
-
-4. Een vereniging als bedoeld in het derde lid is representatief en onafhankelijk. Uit de statuten van de vereniging blijkt dat zij tot doel heeft Onze Minister van Onderwijs, Cultuur en Wetenschap een advies als bedoeld in het derde lid uit te brengen.
-
-5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld in verband met de indiening van het verzoek door verenigingen van makers en exploitanten en de vaststelling van een billijke vergoeding door Onze Minister van Onderwijs, Cultuur en Wetenschap.
-
-6. Indien de maker exploitatiebevoegdheden heeft verleend ten aanzien van een exploitatie op een ten tijde van sluiting van de overeenkomst nog onbekende wijze en de wederpartij gaat hiertoe over, is hij de maker hiervoor een aanvullende billijke vergoeding verschuldigd. Is de bevoegdheid door de wederpartij van de maker overgedragen aan een derde die tot de bedoelde exploitatie overgaat, dan kan de maker de aanvullende billijke vergoeding van de derde vorderen.
+2. Indien de maker exploitatiebevoegdheden heeft verleend ten aanzien van een exploitatie op een ten tijde van sluiting van de overeenkomst nog onbekende wijze en de wederpartij gaat hiertoe over, is hij de maker hiervoor een aanvullende billijke vergoeding verschuldigd. Is de bevoegdheid door de wederpartij van de maker overgedragen aan een derde die tot de bedoelde exploitatie overgaat, dan kan de maker de aanvullende billijke vergoeding van de derde vorderen.
 
 ##### Artikel 25d
 
@@ -1289,19 +1273,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 25e
 
-1. De maker kan de overeenkomst geheel of gedeeltelijk ontbinden indien de wederpartij het auteursrecht op het werk niet binnen een redelijke termijn na het sluiten van de overeenkomst in voldoende mate exploiteert of, na het aanvankelijk verrichten van exploitatiehandelingen, het auteursrecht niet langer in voldoende mate exploiteert. De voorgaande zin is niet van toepassing indien het aan de maker is toe te rekenen dat het auteursrecht binnen de termijn niet in voldoende mate wordt geëxploiteerd.
+1. De maker kan de overeenkomst geheel of gedeeltelijk opzeggen indien de wederpartij het auteursrecht op het werk niet binnen een redelijke termijn na het sluiten van de overeenkomst in voldoende mate exploiteert of, na het aanvankelijk verrichten van exploitatiehandelingen, het auteursrecht niet langer in voldoende mate exploiteert. Onder een gedeeltelijke opzegging wordt mede verstaan het beëindigen van de exclusiviteit van de overeenkomst. De eerste zin is niet van toepassing indien het aan de maker is toe te rekenen dat het auteursrecht binnen de termijn niet in voldoende mate wordt geëxploiteerd.
 
-2. Indien het auteursrecht aan meerdere makers toebehoort en de bijdrage van de maker geen scheidbaar werk vormt, kan de maker de overeenkomst alleen ontbinden met instemming van de andere makers. Indien een maker zijn instemming onthoudt en de overige makers hierdoor onevenredig worden benadeeld, kan de ontbinding van de overeenkomst uitsluitend in rechte geschieden.
+2. Indien het auteursrecht aan meerdere makers toebehoort en de bijdrage van de maker geen scheidbaar werk vormt, kan de maker de overeenkomst alleen opzeggen met instemming van de andere makers. Indien een maker zijn instemming onthoudt en de overige makers hierdoor onevenredig worden benadeeld, kan de beëindiging van de overeenkomst uitsluitend in rechte geschieden.
 
-3. Voorzover exploitatie door de wederpartij niet blijvend onmogelijk is, ontstaat de bevoegdheid tot ontbinding van de overeenkomst pas nadat de maker aan de wederpartij schriftelijk een redelijke termijn heeft gegund het werk alsnog in voldoende mate te exploiteren en exploitatie binnen deze termijn uitblijft.
+3. Voorzover exploitatie door de wederpartij niet blijvend onmogelijk is, ontstaat de bevoegdheid tot opzegging van de overeenkomst pas nadat de maker aan de wederpartij schriftelijk een redelijke termijn heeft gegund het werk alsnog in voldoende mate te exploiteren en exploitatie binnen deze termijn uitblijft.
 
 4. Op verzoek van de maker verstrekt de wederpartij voor het verstrijken van de termijn bedoeld in het derde lid hem een schriftelijke opgave van de omvang van de exploitatie.
 
-5. In overeenstemming met [artikel 6:267 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=267) vindt ontbinding van de overeenkomst plaats door een schriftelijke verklaring van de maker aan de wederpartij. Op vordering van de maker kan de ontbinding van de overeenkomst ook door de rechter worden uitgesproken.
+5. De opzegging geschiedt door een schriftelijke verklaring van de maker aan de wederpartij. Op vordering van de maker kan de beëindiging van de overeenkomst ook door de rechter worden uitgesproken.
 
-6. Indien het auteursrecht door de wederpartij van de maker is overgedragen aan een derde, kan de maker zijn uit de ontbinding voortvloeiende rechten ook tegen deze derde geldend maken, nadat hij deze zo spoedig mogelijk schriftelijk van de ontbinding mededeling heeft gedaan.
+6. Indien het auteursrecht door de wederpartij van de maker is overgedragen aan een derde, kan de maker zijn uit de opzegging voortvloeiende rechten ook tegen deze derde geldend maken, nadat hij deze zo spoedig mogelijk schriftelijk van de opzegging mededeling heeft gedaan.
 
-7. Indien de wederpartij of de derde niet binnen een hem gestelde redelijke termijn tot teruglevering van het auteursrecht overgaat, kan de rechter op vordering van de maker een in de gegeven omstandigheden redelijk bedrag vaststellen dat de wederpartij dan wel de derde aan de maker dient te vergoeden, naast de mogelijk aan de maker verschuldigde schadevergoeding.
+7. De wederpartij of de derde is gehouden binnen een hem gestelde redelijke termijn tot teruglevering van het auteursrecht over te gaan, bij gebreke waarvan de rechter, op vordering van de maker, een in de gegeven omstandigheden redelijk bedrag kan vaststellen dat de wederpartij dan wel de derde aan de maker dient te vergoeden, naast de mogelijk aan de maker verschuldigde schadevergoeding.
 
 ##### Artikel 25f
 
@@ -1317,17 +1301,17 @@ De maker van een kort werk van wetenschap waarvoor het onderzoek geheel of gedee
 
 ##### Artikel 25g
 
-1. Onze Minister van Justitie en Veiligheid kan een geschillencommissie aanwijzen voor de beslechting van geschillen tussen een maker en zijn wederpartij of een derde inzake de toepassing van [artikel 25c, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25c&z=2025-07-01&g=2025-07-01), [artikel 25ca](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25ca&z=2025-07-01&g=2025-07-01), [25d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25d&z=2025-07-01&g=2025-07-01), [25e](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25e&z=2025-07-01&g=2025-07-01) of [25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25f&z=2025-07-01&g=2025-07-01).
+1. Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Justitie en Veiligheid kan een geschillencommissie aanwijzen voor de beslechting van geschillen tussen een maker en zijn wederpartij of een derde inzake de toepassing van de [artikelen 25c tot en met 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25c&z=2026-01-01&g=2026-01-01). Bij regeling van Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Justitie en Veiligheid, kunnen nadere regels worden gesteld omtrent de samenstelling, inrichting, procedures, bekostiging, werkwijze van en toezicht op de geschillencommissie.
 
 2. Wordt het geschil niet binnen drie maanden nadat afschrift van de uitspraak van de geschillencommissie aan partijen werd verzonden bij de rechter aanhangig gemaakt, dan wordt hetgeen in de uitspraak is vastgesteld na het verstrijken van deze termijn geacht te zijn overeengekomen tussen partijen.
 
 3. Een geschil kan ook ten behoeve van makers aanhangig worden gemaakt door een stichting of vereniging met volledige rechtsbevoegdheid voorzover zij de belangen van makers ingevolge haar statuten behartigt.
 
-4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de financiering, samenstelling, inrichting, procedures, bekostiging, werkwijze van en toezicht op de geschillencommissie.
+4. Bij algemene maatregel van bestuur kan een exploitant die met publieke middelen wordt gefinancierd, verplicht worden zich aan te sluiten bij de door de Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen geschillencommissie en kunnen nadere regels worden gegeven en voorwaarden worden gesteld ter uitvoering van die verplichting.
 
 ##### Artikel 25h
 
-1. Van het bepaalde in dit hoofdstuk kan door de maker geen afstand worden gedaan.
+1. Van het bepaalde in dit hoofdstuk kan door de maker geen afstand worden gedaan. Bij overeenkomst gesloten tussen een vereniging van makers en een exploitant of een vereniging van exploitanten kan nadere invulling worden gegeven aan de rechten en verplichtingen die volgen uit de [artikelen 25c tot en met 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25c&z=2026-01-01&g=2026-01-01).
 
 2. Ongeacht het recht dat de overeenkomst beheerst, zijn de bepalingen van dit hoofdstuk van toepassing indien:
 
@@ -1367,7 +1351,7 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 ##### Artikel 15l
 
-1. Een toegelaten entiteit die een omgezet werk grensoverschrijdend openbaar maakt op basis van [artikel 15j, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), dan wel invoert op basis van [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2025-07-01&g=2025-07-01), heeft beleid om te waarborgen dat zij:
+1. Een toegelaten entiteit die een omgezet werk grensoverschrijdend openbaar maakt op basis van [artikel 15j, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), dan wel invoert op basis van [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2026-01-01&g=2026-01-01), heeft beleid om te waarborgen dat zij:
 
 - 1°. omgezette werken uitsluitend openbaar maakt aan leesgehandicapten of andere toegelaten entiteiten;
 
@@ -1377,7 +1361,7 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 - 4°. op haar website, in voorkomend geval, of via andere online- of offlinekanalen, informatie publiceert en actualiseert over de manier waarop zij voldoet aan de verplichtingen van het bepaalde onder 1° tot en met 3°;
 
-2. Een toegelaten entiteit die een omgezet werk grensoverschrijdend openbaar maakt op basis van [artikel 15j, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), dan wel invoert op basis van [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2025-07-01&g=2025-07-01), verstrekt desgevraagd aan een leesgehandicapte, een andere toegelaten entiteit of de maker of diens rechtverkrijgenden:
+2. Een toegelaten entiteit die een omgezet werk grensoverschrijdend openbaar maakt op basis van [artikel 15j, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), dan wel invoert op basis van [artikel 15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2026-01-01&g=2026-01-01), verstrekt desgevraagd aan een leesgehandicapte, een andere toegelaten entiteit of de maker of diens rechtverkrijgenden:
 
 - 1°. de lijst met omgezette werken, alsmede de beschikbare vormen; en
 
@@ -1385,7 +1369,7 @@ Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst
 
 ##### Artikel 15m
 
-Voor de toepassing van de [artikelen 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2025-07-01&g=2025-07-01), [15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2025-07-01&g=2025-07-01) en [15l](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15l&z=2025-07-01&g=2025-07-01) wordt verstaan onder:
+Voor de toepassing van de [artikelen 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15j&z=2026-01-01&g=2026-01-01), [15k](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15k&z=2026-01-01&g=2026-01-01) en [15l](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15l&z=2026-01-01&g=2026-01-01) wordt verstaan onder:
 
 - a. **leesgehandicapte:** een persoon
 
@@ -1431,7 +1415,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 15o
 
-1. Onverminderd het bepaalde in [artikel 15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2025-07-01&g=2025-07-01) wordt een reproductie in het kader van tekst- en datamining niet als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst beschouwd mits degene die de tekst- en datamining verricht rechtmatig toegang heeft tot het werk en het auteursrecht door de maker of zijn rechtverkrijgenden niet uitdrukkelijk op passende wijze is voorbehouden, zoals door middel van machinaal leesbare middelen bij een online ter beschikking gesteld werk.
+1. Onverminderd het bepaalde in [artikel 15n](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2026-01-01&g=2026-01-01) wordt een reproductie in het kader van tekst- en datamining niet als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst beschouwd mits degene die de tekst- en datamining verricht rechtmatig toegang heeft tot het werk en het auteursrecht door de maker of zijn rechtverkrijgenden niet uitdrukkelijk op passende wijze is voorbehouden, zoals door middel van machinaal leesbare middelen bij een online ter beschikking gesteld werk.
 
 2. De reproductie gemaakt overeenkomstig het in het eerste lid bepaalde mag worden bewaard zolang dit nodig is voor tekst- en datamining.
 
@@ -1447,9 +1431,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - 4°. de naam van de maker wordt vermeld, tenzij dit niet mogelijk blijkt.
 
-2. De [artikelen 44, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2025-07-01&g=2025-07-01), en [44b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44b&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 44, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2026-01-01&g=2026-01-01), en [44b](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44b&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-3. Dit artikel is niet van toepassing op soorten werken waarvoor een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1) bestaat die voldoet aan het in [artikel 44, eerste lid, onder 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2025-07-01&g=2025-07-01) bepaalde.
+3. Dit artikel is niet van toepassing op soorten werken waarvoor een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1) bestaat die voldoet aan het in [artikel 44, eerste lid, onder 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2026-01-01&g=2026-01-01) bepaalde.
 
 ### Hoofdstuk Ia. De exploitatieovereenkomst
 
@@ -1459,7 +1443,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Indien de wederpartij of zijn rechtsopvolger ten behoeve van de exploitatie aan een derde een licentie heeft verleend en de wederpartij of zijn rechtsopvolger ten aanzien van onder de licentie vallende exploitatie niet over alle informatie bedoeld in het eerste lid beschikt, verstrekt de licentienemer aan de maker en de wederpartij of zijn rechtsopvolger, op verzoek van één van hen, de ontbrekende informatie. De maker ontvangt van de wederpartij of zijn rechtsopvolger desgevraagd informatie over de identiteit van de licentienemer.
 
-3. De informatieverplichting geldt niet, indien het aandeel van de maker bij de totstandkoming van het gehele werk niet significant is, tenzij de maker aantoont dat hij de informatie nodig heeft om een beroep op [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25d&z=2025-07-01&g=2025-07-01) te kunnen doen.
+3. De informatieverplichting geldt niet, indien het aandeel van de maker bij de totstandkoming van het gehele werk niet significant is, tenzij de maker aantoont dat hij de informatie nodig heeft om een beroep op [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia&artikel=25d&z=2026-01-01&g=2026-01-01) te kunnen doen.
 
 4. Indien de administratieve lasten van het verstrekken van de informatie gelet op de exploitatie-inkomsten van het werk aantoonbaar onevenredig zouden zijn, is de informatieplicht beperkt tot de onder de omstandigheden redelijkerwijs te verwachten informatie.
 
@@ -1497,7 +1481,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 29d
 
-1. In afwijking van het in [artikel 29c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2025-07-01&g=2025-07-01), bepaalde is een aanbieder van een onlinedienst voor het delen van inhoud die zijn dienst minder dan drie jaar aanbiedt in de Europese Unie of de Europese Economische Ruimte en een jaaromzet heeft van minder dan 10 miljoen euro, niet aansprakelijk voor de inbreuk op het openbaarmakingsrecht, indien hij aantoont dat:
+1. In afwijking van het in [artikel 29c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2026-01-01&g=2026-01-01), bepaalde is een aanbieder van een onlinedienst voor het delen van inhoud die zijn dienst minder dan drie jaar aanbiedt in de Europese Unie of de Europese Economische Ruimte en een jaaromzet heeft van minder dan 10 miljoen euro, niet aansprakelijk voor de inbreuk op het openbaarmakingsrecht, indien hij aantoont dat:
 
 - 1°. hij zich naar beste vermogen heeft ingespannen om toestemming te verkrijgen; en
 
@@ -1517,7 +1501,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 29e
 
-Artikel 6, eerste lid, van [verordening (EU) 2022/2065](32022R2065) van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van [Richtlijn 2000/31/EG](32000L0031) (digitaledienstenverordening) (PbEU 2022, L 277) is niet van toepassing, voor zover een aanbieder van een onlinedienst voor het delen van inhoud de door de gebruikers van zijn dienst aangeboden werken van letterkunde, wetenschap of kunst openbaar maakt onder de in de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2025-07-01&g=2025-07-01) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29d&z=2025-07-01&g=2025-07-01) gestelde voorwaarden.
+Artikel 6, eerste lid, van [verordening (EU) 2022/2065](32022R2065) van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van [Richtlijn 2000/31/EG](32000L0031) (digitaledienstenverordening) (PbEU 2022, L 277) is niet van toepassing, voor zover een aanbieder van een onlinedienst voor het delen van inhoud de door de gebruikers van zijn dienst aangeboden werken van letterkunde, wetenschap of kunst openbaar maakt onder de in de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29c&z=2026-01-01&g=2026-01-01) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=29d&z=2026-01-01&g=2026-01-01) gestelde voorwaarden.
 
 ### Hoofdstuk V. Bijzondere bepalingen betreffende filmwerken
 
@@ -1525,7 +1509,7 @@ Artikel 6, eerste lid, van [verordening (EU) 2022/2065](32022R2065) van het Euro
 
 Indien partijen over de beschikbaarstelling voor het publiek van een filmwerk op een video-on-demanddienst geen overeenstemming kunnen bereiken, kunnen zij beroep doen op één of meer bemiddelaars. De bemiddelaars helpen de partijen bij de onderhandelingen en het sluiten van overeenkomsten. In voorkomend geval kunnen de bemiddelaars daartoe voorstellen aan partijen doen.
 
-### Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
+### Hoofdstuk VI. Bijzondere bepalingen betreffende computerprogramma's
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
@@ -1549,7 +1533,7 @@ Wanneer een omroeporganisatie de programmadragende signalen rechtstreeks aanleve
 
 ##### Artikel 44a
 
-Een overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2025-07-01&g=2025-07-01) verleende licentie kan betrekking hebben op het gebruik door een cultureel erfgoedinstelling van niet in de handel verkrijgbare werken van letterkunde, wetenschap of kunst in alle lidstaten van de Europese Unie en Europese Economische Ruimte.
+Een overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2026-01-01&g=2026-01-01) verleende licentie kan betrekking hebben op het gebruik door een cultureel erfgoedinstelling van niet in de handel verkrijgbare werken van letterkunde, wetenschap of kunst in alle lidstaten van de Europese Unie en Europese Economische Ruimte.
 
 ##### Artikel 44b
 
@@ -1557,7 +1541,7 @@ Een overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&
 
 - 1°. de identificatie van de werken;
 
-- 2°. de mogelijkheden van de makers of zijn rechtverkrijgenden als bedoeld in [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2025-07-01&g=2025-07-01); en
+- 2°. de mogelijkheden van de makers of zijn rechtverkrijgenden als bedoeld in [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa&paragraaf=1&artikel=44&z=2026-01-01&g=2026-01-01); en
 
 - 3°. de partijen bij de verleende licenties, de gedekte grondgebieden en de toegestane gebruikswijzen;
 
@@ -1573,7 +1557,7 @@ ten minste zes maanden voordat de werken openbaar worden gemaakt door de culture
 
 ### Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
 
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
+### Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
 
 ##### Artikel 47c
 
@@ -1597,8 +1581,28 @@ door middel van een ondersteunende onlinedienst die door of onder controle en ve
 
 ##### Artikel 47d
 
-1. Het gebruik van een werk van letterkunde, wetenschap of kunst dat uitsluitend dient ter toelichting bij het onderwijs op grond van de [artikelen 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2025-07-01&g=2025-07-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2025-07-01&g=2025-07-01) door middel van een beveiligde elektronische omgeving wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar de onderwijsinstelling is gevestigd.
+1. Het gebruik van een werk van letterkunde, wetenschap of kunst dat uitsluitend dient ter toelichting bij het onderwijs op grond van de [artikelen 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) door middel van een beveiligde elektronische omgeving wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar de onderwijsinstelling is gevestigd.
 
-2. Het gebruik van een werk dat niet in de handel verkrijgbaar is door een cultureel erfgoedinstelling overeenkomstig het in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=18c&z=2025-07-01&g=2025-07-01) bepaalde wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar die cultureel erfgoedinstelling is gevestigd.
+2. Het gebruik van een werk dat niet in de handel verkrijgbaar is door een cultureel erfgoedinstelling overeenkomstig het in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=18c&z=2026-01-01&g=2026-01-01) bepaalde wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar die cultureel erfgoedinstelling is gevestigd.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 45da
+
+1. Onverminderd [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2026-01-01&g=2026-01-01) is eenieder die het filmwerk openbaar maakt als bedoeld in [artikel 12, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Bij een openbaarmaking als bedoeld in [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=4&artikel=12c&z=2026-01-01&g=2026-01-01) is enkel degene die het filmwerk uitzendt aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Eenieder die het filmwerk op andere wijze dan vorenbedoeld mededeelt aan het publiek, met uitzondering van een beschikbaarstelling voor het publiek als bedoeld in artikel 12, eerste lid, onder 7° behoudens het in [artikel 45db](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45db&z=2026-01-01&g=2026-01-01) bepaalde, is aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Van het recht op een proportionele billijke vergoeding kan geen afstand worden gedaan.
+
+2. Het recht op de vergoeding, bedoeld in het eerste lid, wordt uitgeoefend door een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1). [Artikel 26a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=II&artikel=26a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+3. Degene die de in het eerste lid bedoelde vergoeding verschuldigd is, is gehouden aan de collectieve beheersorganisaties, bedoeld in het tweede lid, de bescheiden of andere informatiedragers ter inzage te geven, waarvan de kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid, de hoogte en de verdeling van de vergoeding.
+
+4. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitoefening van het recht bedoeld in het eerste lid.
+
+5. Het recht op een proportionele billijke vergoeding, bedoeld in het eerste lid, is niet van toepassing op een filmwerk waarvan de exploitatie als zodanig niet het doel is.
+
+##### Artikel 45db
+
+Bij algemene maatregel van bestuur kan [artikel 45da](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45da&z=2026-01-01&g=2026-01-01) van toepassing worden verklaard op de beschikbaarstelling voor het publiek van het filmwerk. [Artikel 45d, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=V&artikel=45d&z=2026-01-01&g=2026-01-01) is alsdan niet van toepassing.
+
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
