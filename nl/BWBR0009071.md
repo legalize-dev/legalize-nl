@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -123,7 +123,7 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - b. Op een niet-kentekenplichtige aanhangwagen mag het kenteken slechts zijn aangebracht op een kentekenplaat in een kleur en volgens een model als genoemd in het tweede lid, onder a, indien het kenteken op het trekkend motorrijtuig op een kentekenplaat in dezelfde kleur is aangebracht.
 
-- c. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2025-07-01&g=2025-07-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- c. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2026-01-01&g=2026-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
 - d. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage.
 
@@ -187,17 +187,15 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2025-07-01&g=2025-07-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2026-01-01&g=2026-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
-- b. zij zijn afgegeven door houders van een goedkeuring of machtiging als bedoeld in [artikel 25 van de Erkenningsregeling fabrikanten kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0011082&artikel=25), of
-
-- c. het model 18.2 betreft voor motorrijtuigen die vóór 31 augustus 2002 in gebruik zijn genomen.
+- b. het model 18.2 betreft voor motorrijtuigen die vóór 31 augustus 2002 in gebruik zijn genomen.
 
 3. De kentekenplaten volgens de modellen 27.24A tot en met 27.26E en de modellen 30.13 en 30.14 mogen worden gebruikt voor motorrijtuigen die overeenkomstig [artikel 31 tot en met 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31) voorgoed buiten Nederland worden gebracht en waarvoor overeenkomstig [artikel 17, tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17) een kentekenbewijs deel II is uitgereikt. De kentekenplaten mogen zijn voorzien van een zwarte rand en behoeven niet te zijn voorzien van een Europees embleem en landenindicator en behoeven niet te behoren tot een goedgekeurde soort.
 
-4. Het door de lamineerder, bedoeld in de [Regeling erkenning lamineerders](https://wetten.overheid.nl/jci1.3:c:BWBR0011084), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slecht vier cijfers in zijn opgenomen, beginnend met een 3. Het door de foliefabrikant, bedoeld in de [Erkenningsregeling foliefabrikanten](https://wetten.overheid.nl/jci1.3:c:BWBR0011083), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slechts vier cijfers in zijn opgenomen, beginnend met een 2.
+4. Het door de lamineerder, bedoeld in [artikel 1 van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=1), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slecht vier cijfers in zijn opgenomen, beginnend met een 3. Het door de foliefabrikant, bedoeld in [artikel 1 van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=1), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slechts vier cijfers in zijn opgenomen, beginnend met een 2.
 
 ##### Artikel 6
 
@@ -205,7 +203,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van de bijlage mogen voorts in witte cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de tenaamstelling in het kentekenregister vervalt.
 
-2. Op de donkerblauwe, groene of gele achtergrond van een kentekenplaat volgens de modellen 11.1 tot en met 18.2E van de bijlage mag niets anders voorkomen dan het kenteken, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. Voor zover het betreft een kentekenplaat volgens de modellen 13.1 en 14.1 van de bijlage mogen voorts in witte dan wel gele retroflecterende cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de tenaamstelling in het kentekenregister vervalt. Voor zover het betreft een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage met een gele dan wel lichtblauwe achtergrond is deze tevens voorzien van een lamineercode.
+2. Op de donkerblauwe, groene of gele achtergrond van een kentekenplaat volgens de modellen 11.1 tot en met 18.2E van de bijlage mag niets anders voorkomen dan het kenteken, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. Voor zover het betreft een kentekenplaat volgens de modellen 13.1 en 14.1 van de bijlage mogen voorts in witte dan wel gele retroflecterende cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de tenaamstelling in het kentekenregister vervalt. Voor zover het betreft een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage met een gele dan wel lichtblauwe achtergrond is deze tevens voorzien van een unieke lamineercode volgens model E.
 
 3. Op de witte achtergrond van kentekenplaten volgens de modellen 11.1, 12.1, 18.1 en 19.1 tot en met 26.1 mag niets anders voorkomen dan het kenteken en het merk van de fabrikant. Op de achtergrond van een kentekenplaat volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.26E, 27.30A tot en met 27.31E en 30.1 tot en met 30.16 van de bijlage mag niets anders voorkomen dan hetgeen is vermeld in die modellen, alsmede de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. De kentekenplaten volgens de modellen 27.15A tot en met 27.17E, 30.7 en 30.8 moeten zijn voorzien van een maandaanduiding, die uitsluitend mag bestaan uit het nummer van de lopende of de volgende maand.
 
@@ -269,11 +267,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2025-07-01&g=2025-07-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2026-01-01&g=2026-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
 
 ##### Artikel 8a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2025-07-01&g=2025-07-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2026-01-01&g=2026-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
 
 ## Bijlage
 
