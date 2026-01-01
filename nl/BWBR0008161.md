@@ -4,7 +4,7 @@ identifier: "BWBR0008161"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-10-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008161"
 soort: "wet"
@@ -58,8 +58,6 @@ Wijzigt de Ambtenarenwet.
 
 2. Een beding in strijd met het eerste lid is nietig.
 
-3. Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
-
 ##### ARTIKEL IV
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
@@ -75,5 +73,13 @@ Wijzigt deze wet.
 ##### ARTIKEL VII
 
 Deze wet treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### ARTIKEL Va
+
+1. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0008161&artikel=V&z=2026-01-01&g=2026-01-01) van deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. Waar in deze wet wordt gesproken over aanstelling wordt tevens aanstelling van ambtenaren als bedoeld in de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) begrepen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
