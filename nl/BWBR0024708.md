@@ -4,7 +4,7 @@ identifier: "BWBR0024708"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-03-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024708"
 soort: "AMvB"
@@ -210,13 +210,13 @@ De werkzaamheden inzake het ramen van de behoeften aan zorg omvatten de volgende
 
 ##### Artikel 7
 
-1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2025-03-01&g=2025-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2025-03-01&g=2025-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2025-03-01&g=2025-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2025-03-01&g=2025-03-01) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
+1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
 
-2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2025-03-01&g=2025-03-01), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2025-03-01&g=2025-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2025-03-01&g=2025-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2025-03-01&g=2025-03-01), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
+2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
 
 ##### Artikel 8
 
-De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2025-03-01&g=2025-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2025-03-01&g=2025-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2025-03-01&g=2025-03-01) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
+De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
 
 ##### Artikel 9
 
@@ -224,7 +224,7 @@ Vervallen
 
 ##### Artikel 10
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2025-03-01&g=2025-03-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
 
 ### Hoofdstuk IV. Infectieziektebestrijding
 
@@ -300,9 +300,9 @@ De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucello
 
 ##### Artikel 14
 
-Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2025-03-01&g=2025-03-01) van dit besluit, tevens over de volgende voorzieningen:
+Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01) van dit besluit, tevens over de volgende voorzieningen:
 
-- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2025-03-01&g=2025-03-01) van dit besluit,
+- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01) van dit besluit,
 
 - b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.
 
@@ -322,7 +322,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 16
 
-1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2025-03-01&g=2025-03-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
+1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
 
 2. In afwijking van het eerste lid wordt, indien de maatregelen onafgebroken gedurende één jaar worden getroffen, de aanvraag uiterlijk twaalf maanden na het verstrijken van dat jaar ingediend.
 
@@ -330,7 +330,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2025-03-01&g=2025-03-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
+5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
 
 6. Onze Minister kan de vaststelling van een bijdrage intrekken of ten nadele van de ontvanger wijzigen:
 
@@ -430,9 +430,9 @@ Het bevolkingsonderzoek, bedoeld in [artikel 12a, eerste lid, van de wet](https:
 
 - e. het bevolkingsonderzoek naar darmkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-### Hoofdstuk V. Gemeentelijke gezondheidsdiensten
+### Hoofdstuk IVb. Integrale suïcidepreventie
 
-### Hoofdstuk Va. Vergunning- en meldplicht poliovirus
+### Hoofdstuk V. Gemeentelijke gezondheidsdiensten
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -460,7 +460,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 17b
 
-Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=Va&artikel=17a&z=2025-03-01&g=2025-03-01), aangewezen typen poliovirus geldt dat degene die de handelingen daarmee verricht of beoogt te verrichten:
+Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=Va&artikel=17a&z=2026-01-01&g=2026-01-01), aangewezen typen poliovirus geldt dat degene die de handelingen daarmee verricht of beoogt te verrichten:
 
 - a. een essentiële faciliteit is; en
 
@@ -491,6 +491,24 @@ Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in 
 3. De meldplicht is niet van toepassing op handelingen door een zorgverlener en daarmee samenhangende handelingen voor zover deze noodzakelijk zijn ten behoeve van diagnostiek.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de meldplicht.
+
+### Hoofdstuk VI. Overige bepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 16b
+
+1. Het integraal beleid, bedoeld in [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) is gericht op het bevorderen van een duurzame en brede aandacht en inzet voor suïcidepreventie, binnen de beschikbare middelen, en kan daartoe de volgende instrumenten omvatten:
+
+- a. een landelijke agenda suïcidepreventie gericht op een integrale aanpak van preventieve maatregelen, die gebaseerd zijn op de actuele stand van de wetenschap en de praktijk, vertaald naar acties en doelstellingen die, waar mogelijk, ook te vertalen zijn naar gemeentelijke doelstellingen;
+
+- b. een nationale communicatiestrategie suïcidepreventie om gedachten aan suïcide bespreekbaar te maken en suïcidepreventie algemene bekendheid te geven;
+
+- c. een onderzoeksprogramma suïcidepreventie voor het ontwikkelen en verspreiden van kennis op het gebied van suïcide en suïcidepreventie.
+
+2. Het integraal beleid wordt door Onze Minister en Onze Ministers die het mede aangaat opgesteld, waar nodig in samenspraak met vertegenwoordigers van de wetenschap en uit de praktijk en met ervaringsdeskundigen.
+
+### Hoofdstuk Va. Vergunning- en meldplicht poliovirus
 
 ### Hoofdstuk VI. Overige bepalingen
 
