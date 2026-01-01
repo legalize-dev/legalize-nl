@@ -4,7 +4,7 @@ identifier: "BWBV0006123"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006123"
 soort: "verdrag"
@@ -76,7 +76,7 @@ De Partijen bij dit Protocol verbinden zich aan de Secretaris-Generaal van de In
 
 ##### Artikel V. Inwerkingtreding
 
-1. Dit Protocol treedt in werking zes maanden na de datum waarop niet minder dan vijftien Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006123&artikel=IV&z=2017-01-01&g=2017-01-01) van dit Protocol, met dien verstande dat dit Protocol niet in werking treedt voordat het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) in werking is getreden.
+1. Dit Protocol treedt in werking zes maanden na de datum waarop niet minder dan vijftien Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006123&artikel=IV&z=2026-01-01&g=2026-01-01) van dit Protocol, met dien verstande dat dit Protocol niet in werking treedt voordat het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) in werking is getreden.
 
 2. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
 
