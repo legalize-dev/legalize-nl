@@ -4,7 +4,7 @@ identifier: "BWBR0048465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-16"
-last_updated: "2025-04-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048465"
 soort: "ministeriele-regeling"
@@ -154,7 +154,7 @@ De subsidie wordt aangevraagd door een in Nederland gevestigde, niet-gouvernemen
 
 1. Een subsidie kan uitsluitend worden verstrekt als de minister de mogelijkheid tot het doen van een aanvraag voor subsidie heeft opengesteld door vaststelling van een subsidieplafond en van een tijdvak voor de indiening van een aanvraag voor subsidie.
 
-2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2025-04-01&g=2025-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2025-04-01&g=2025-04-01).
+2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2026-01-16&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2026-01-16&g=2026-01-01).
 
 3. Het subsidieplafond wordt verdeeld op volgorde van ontvangst van de volledige subsidieaanvragen.
 
@@ -346,7 +346,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - l. kosten voor woon-werkverkeer, tenzij een cao van toepassing is waarin staat dat medewerkers recht hebben op vergoeding hiervan;
 
-- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2025-04-01&g=2025-04-01), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
+- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2026-01-16&g=2026-01-01), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
 
 - n. kosten die reeds uit andere nationale of Europese middelen worden gefinancierd zodanig dat de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
@@ -482,7 +482,7 @@ Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de
 
 ##### Artikel 22. Subsidieplafond
 
-Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2025-04-01&g=2025-04-01), € 1.800.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2026-01-16&g=2026-01-01), € 1.800.000.
 
 ### Hoofdstuk 3. Bepalingen die zien op doelgroep b
 
@@ -492,7 +492,7 @@ Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 2. Een Nederlandse gemeente die het project meefinanciert dient een door het bevoegde gezag ondertekende co-financieringsverklaring op te stellen.
 
-3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2025-04-01&g=2025-04-01), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
+3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2026-01-16&g=2026-01-01), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
 
 ##### Artikel 24. Specifieke verplichtingen
 
@@ -538,7 +538,7 @@ Subsidieaanvragen met betrekking tot een project voor doelgroep B worden door de
 
 ##### Artikel 28. Subsidieplafond
 
-Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2025-04-01&g=2025-04-01), € 4.000.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2026-01-16&g=2026-01-01), € 4.000.000.
 
 ### Hoofdstuk 4. Slotbepalingen
 
