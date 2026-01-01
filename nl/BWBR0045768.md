@@ -4,7 +4,7 @@ identifier: "BWBR0045768"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-08-02"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045768"
 soort: "ministeriele-regeling"
@@ -121,9 +121,15 @@ Voor de periode van 2 augustus 2021 tot en met 31 december 2025 geldt dat:
 
 Voor de periode van 1 januari 2026 tot en met 31 december 2030 geldt dat:
 
-- a. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor lichte bedrijfsvoertuigen en diensten houden aan het voor Nederland bepaalde minimumstreefcijfer in de tweede kolom van tabel 3 van de bijlage bij [Richtlijn 2019/1161](32019L1161);
+- a. deze regeling niet van toepassing is op:
 
-- b. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor zware bedrijfsvoertuigen en diensten, houden aan de voor Nederland bepaalde minimumstreefcijfers in de tweede en vierde kolom van tabel 4 van de bijlage bij [Richtlijn 2019/1161](32019L1161).
+- 1°. voertuigen als bedoeld in artikel 2, tweede lid, onderdeel d, en derde lid, onderdelen a en b, van [Verordening 2018/858](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32758R2018); en
+
+- 2°. voertuigen als bedoeld in de punten 5.2 tot en met 5.5 en 5.7 van deel A van Bijlage I bij [Verordening 2018/858](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32758R2018);
+
+- b. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor lichte bedrijfsvoertuigen en diensten houden aan het voor Nederland bepaalde minimumstreefcijfer in de tweede kolom van tabel 3 van de bijlage bij [Richtlijn 2019/1161](32019L1161);
+
+- c. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor zware bedrijfsvoertuigen en diensten, houden aan de voor Nederland bepaalde minimumstreefcijfers in de tweede en vierde kolom van tabel 4 van de bijlage bij [Richtlijn 2019/1161](32019L1161).
 
 ##### Artikel 5
 
