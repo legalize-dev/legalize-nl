@@ -4,7 +4,7 @@ identifier: "BWBR0043608"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043608"
 soort: "wet"
@@ -83,9 +83,9 @@ Wijzigt deze wet en Wijzigingswet Wet educatie en beroepsonderwijs en de Wet edu
 
 Wijzigt deze wet.
 
-##### Artikel XI. Samenloop met wetsvoorstel wet voortgezet onderwijs 20xx (kamerstukken 35 297)
+##### Artikel XI. Samenloop met wetsvoorstel Wet voortgezet onderwijs 20xx (kamerstukken 35 297)
 
-Wijzigt deze wet en het voorstel van wet houdende Regels over het voortgezet onderwijs (Wet voortgezet onderwijs 20xx) (Kamerstukken 35 297).
+Wijzigt de Wet voortgezet onderwijs 2020.
 
 ##### Artikel XIa. Evaluatiebepaling
 
