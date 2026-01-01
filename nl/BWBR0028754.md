@@ -4,7 +4,7 @@ identifier: "BWBR0028754"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028754"
 soort: "ministeriele-regeling-BES"
@@ -70,11 +70,17 @@ Besluit:
 
 - m. het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595);
 
-- n. de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
+- n. de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347);
+
+- o. de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299);
+
+- p. de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771), voor zover het betreft [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.2) en de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=4).
 
 2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Nederlandse Arbeidsinspectie van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
 
 3. Naast de in het eerste en tweede lid genoemde ambtenaren worden tevens de ambtenaren die bij de RCN-unit SZW werkzaam zijn als medewerker of coördinator onderstand, aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595).
+
+4. Naast de in het eerste, tweede en derde lid genoemde ambtenaren worden tevens de ambtenaren van de Inspectie van het Onderwijs en de Openbare Lichamen van Bonaire, Sint Eustatius en Saba aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 2 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2) en de uitoefening van de in dit kader geregelde bevoegdheden in [hoofdstuk 5 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5).
 
 ##### Artikel 2
 
