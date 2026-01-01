@@ -4,7 +4,7 @@ identifier: "BWBR0051831"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-12-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051831"
 soort: "ministeriele-regeling"
@@ -50,6 +50,6 @@ Op aanvragen om subsidie die zien op het jaar 2025 of eerdere jaren, op subsidie
 
 ##### Artikel III
 
-Deze regeling treedt in werking met ingang van 1 januari 2026, met uitzondering van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051831&artikel=I&z=2025-12-01&g=2025-12-01), dat in werking op 1 december 2025.
+Deze regeling treedt in werking met ingang van 1 januari 2026, met uitzondering van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0051831&artikel=I&z=2026-01-01&g=2026-01-01), dat in werking op 1 december 2025.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
