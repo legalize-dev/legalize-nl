@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -54,17 +54,17 @@ Een toegelaten instelling wordt ingedeeld in een bezoldigingsklasse overeenkomst
 
 ##### Artikel 3. Bezoldigingsmaxima
 
-De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt per bezoldigingsklasse in 2025 ten hoogste:
+De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt per bezoldigingsklasse in 2026 ten hoogste:
 
 | Bezoldigingsklasse | Maximale bezoldiging |
 | --- | --- |
-| A | 115.000 |
-| B | 131.000 |
-| C | 145.000 |
-| D | 154.000 |
-| E | 180.000 |
-| F | 206.000 |
-| G | 230.000 |
+| A | € 123.000 |
+| B | € 140.000 |
+| C | € 155.000 |
+| D | € 164.000 |
+| E | € 192.000 |
+| F | € 219.000 |
+| G | € 245.000 |
 | H | De maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
@@ -105,10 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2025-01-01&g=2025-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld. Indien er sprake is van een nieuw opgerichte toegelaten instelling wordt voor de bepaling van het aantal verhuureenheden in het jaar van oprichting alsmede het daaropvolgende jaar uitgegaan van het aantal verhuureenheden dat de nieuwe instelling aan de Autoriteit woningcorporaties bekend heeft gemaakt dat ze voornemens is in die jaren te exploiteren. De klasse wordt op de fusiedatum opnieuw vastgesteld.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2026-01-01&g=2026-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld. Indien er sprake is van een nieuw opgerichte toegelaten instelling wordt voor de bepaling van het aantal verhuureenheden in het jaar van oprichting alsmede het daaropvolgende jaar uitgegaan van het aantal verhuureenheden dat de nieuwe instelling aan de Autoriteit woningcorporaties bekend heeft gemaakt dat ze voornemens is in die jaren te exploiteren. De klasse wordt op de fusiedatum opnieuw vastgesteld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2025-01-01&g=2025-01-01), van toepassing zijn.
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2026-01-01&g=2026-01-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
