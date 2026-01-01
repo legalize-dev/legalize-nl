@@ -4,7 +4,7 @@ identifier: "BWBR0047683"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047683"
 soort: "beleidsregel"
@@ -58,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **ANLb:** agrarisch natuur- en landschapsbeheer op grond van paragraaf 3 van de SVNL 2016;
 
-- –. **baselinevoorwaarden:** eisen, normen, voorschriften en voorwaarden als bedoeld in artikel 70, derde lid, van [verordening (EU) 2021/2115](32115R2021), zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=3&z=2024-10-08&g=2025-01-01) van de onderhavige beleidsregel;
+- –. **baselinevoorwaarden:** eisen, normen, voorschriften en voorwaarden als bedoeld in artikel 70, derde lid, van [verordening (EU) 2021/2115](32115R2021), zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=3&z=2026-01-01&g=2026-01-01) van de onderhavige beleidsregel;
 
 - –. **bedrijfsperceel:** oppervlakte die een deelnemer als behorende tot zijn bedrijf heeft geregistreerd bij de Rijksdienst voor Ondernemend Nederland op de door of namens de minister aangegeven wijze;
 
@@ -66,9 +66,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **betaalverzoek:** verantwoording als bedoeld in artikel 3.11, onderdeel g, van de SVNL 2016;
 
-- –. **bevoegd gezag:** afhankelijk van de betreffende subsidieregeling de Minister van Landbouw, Natuur en Voedselkwaliteit of Gedeputeerde Staten van de onderscheiden provincies;
+- –. **bevoegd gezag:** afhankelijk van de betreffende subsidieregeling de minister of Gedeputeerde Staten van de onderscheiden provincies;
 
-- –. **conditionaliteiten:** beheerseisen en GLMC-normen voor het in goede landbouw- en milieuconditie houden van landbouwareaal zoals opgenomen in de [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3) en [4 van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4);
+- –. **conditionaliteiten:** beheerseisen en GLMC-normen voor het in goede landbouw- en milieuconditie houden van landbouwareaal en de sociale conditionaliteiten zoals opgenomen in de [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4) en [4a van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4a);
 
 - –. **controle:** uitoefening door ambtenaren van het bevoegd gezag of een controle instantie met de bevoegdheid tot toezicht op de naleving van het bepaalde bij of krachtens de van toepassing zijnde wetgeving;
 
@@ -78,7 +78,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **maximale vergoeding:** maximale vergoeding die betaald mag worden voor het uitvoeren van een beheeractiviteit in het kader van het ANLb;
 
-- –. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- –. **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - –. **Nationaal Strategisch Plan GLB:** het Nederlandse Nationaal Strategisch Plan, zijnde een strategisch GLB-plan als bedoeld in artikel 104, eerste lid, van [verordening (EU) 2021/2115](32115R2021);
 
@@ -86,7 +86,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **plattelandsinterventie:** interventie als bedoeld in artikel 69 van [verordening (EU) 2021/2115](32115R2021);
 
-- –. **REES 2021:** [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685);
+- –. **REES 2021:** [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685);
 
 - –. **referentieperceel:** oppervlakte als bedoeld in artikel 2, tweede lid, van [verordening (EU) nr. 2022/1172](33072R2022);
 
@@ -142,7 +142,7 @@ Deze beleidsregel is van toepassing op subsidies voor plattelandsinterventies en
 
 - c. de subsidieontvanger te goeder trouw heeft gehandeld.
 
-3. Het bevoegd gezag geeft geen toepassing aan [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.3&z=2024-10-08&g=2025-01-01), indien de niet-naleving het gevolg is van een kennelijke fout.
+3. Het bevoegd gezag geeft geen toepassing aan [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.3&z=2026-01-01&g=2026-01-01), indien de niet-naleving het gevolg is van een kennelijke fout.
 
 ##### Artikel 1.6. Omzeilingsclausule
 
@@ -166,7 +166,7 @@ Het bevoegd gezag kan ter uitvoering van artikel 62 van [verordening (EU) 2021/2
 
 1. De administratieve sancties die op grond van dit hoofdstuk toegepast worden, kunnen niet meer dan 100% van de totale subsidie of de jaarbetaling bedragen.
 
-2. [Artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2024-10-08&g=2025-01-01), is niet van toepassing indien de onverschuldigde betaling mede samenhangt met een niet-naleving van de conditionaliteiten als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.11&z=2024-10-08&g=2025-01-01) en het totaalbedrag van de onverschuldigde betaling hierdoor hoger is dan 100 euro.
+2. [Artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2026-01-01&g=2026-01-01), is niet van toepassing indien de onverschuldigde betaling mede samenhangt met een niet-naleving van de conditionaliteiten als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.11&z=2026-01-01&g=2026-01-01) en het totaalbedrag van de onverschuldigde betaling hierdoor hoger is dan 100 euro.
 
 ##### Artikel 2.2. Berekening jaarbetaling
 
@@ -184,7 +184,7 @@ Het bevoegd gezag kan ter uitvoering van artikel 62 van [verordening (EU) 2021/2
 
 ##### Artikel 2.3. Verlagingen in verband met beheer en herstelmogelijkheid
 
-1. Indien een agrarisch collectief een beheeractiviteit waartoe zij zich heeft verbonden niet of niet juist uitvoert, legt het bevoegd gezag voor die beheeractiviteit een administratieve sanctie op overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=1&z=2024-10-08&g=2025-01-01).
+1. Indien een agrarisch collectief een beheeractiviteit waartoe zij zich heeft verbonden niet of niet juist uitvoert, legt het bevoegd gezag voor die beheeractiviteit een administratieve sanctie op overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 2. Indien een niet-naleving als bedoeld in het eerste lid wordt geconstateerd, wordt de toekenning en uitbetaling van de subsidie of jaarbetaling geschorst en het agrarisch collectief verzocht de niet-naleving te herstellen binnen een termijn van maximaal drie maanden, tenzij:
 
@@ -202,7 +202,7 @@ Het bevoegd gezag kan ter uitvoering van artikel 62 van [verordening (EU) 2021/2
 
 1. Indien in een beheeractiviteit is opgenomen dat die activiteit op een bepaald minimumpercentage van het leefgebied uitgevoerd moet worden en het agrarisch collectief hieraan niet voldoet, dan wordt de subsidiabele omvang van dat leefgebied voor het betreffende kalenderjaar door het bevoegd gezag zodanig verlaagd dat de oppervlakte waarop de betreffende beheeractiviteit is uitgevoerd gelijk is aan het vereiste minimumpercentage van het leefgebied.
 
-2. Voor de berekening of de beheeractiviteit op het vereiste minimumpercentage is uitgevoerd tellen beheeractiviteiten waarvan de wijziging of melding is gedaan na de in de derde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01) gestelde termijn niet mee.
+2. Voor de berekening of de beheeractiviteit op het vereiste minimumpercentage is uitgevoerd tellen beheeractiviteiten waarvan de wijziging of melding is gedaan na de in de derde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01) gestelde termijn niet mee.
 
 3. Na de toepassing van het eerste en tweede lid wordt door het bevoegd gezag voor de betreffende beheeractiviteit een administratieve sanctie opgelegd die wordt berekend door het aantal hectares van het leefgebied dat niet langer subsidiabel is te vermenigvuldigen met:
 
@@ -232,7 +232,7 @@ Het bevoegd gezag kan ter uitvoering van artikel 62 van [verordening (EU) 2021/2
 
 - a. verrekent het bevoegd gezag het nog openstaande bedrag overeenkomstig artikel 31 van [verordening (EU) 2022/128](32028R2022) of, indien dit niet mogelijk is;
 
-- b. vordert het bevoegd gezag het nog openstaande bedrag terug overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2024-10-08&g=2025-01-01).
+- b. vordert het bevoegd gezag het nog openstaande bedrag terug overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2.6. Intekenen buiten bedrijfsperceel
 
@@ -244,7 +244,7 @@ Indien een agrarisch collectief in het betaalverzoek oppervlaktes opgeeft die ge
 
 2. In afwijking van het eerste lid wordt, indien een deelnemer de uitvoering van de controle ter plaatse verhindert, door het bevoegd gezag geen jaarbetaling verstrekt voor de hectares waarmee die deelnemer in het betreffende jaar deelneemt aan het beheer.
 
-3. Indien het agrarisch collectief of een deelnemer verhindert dat door of namens het bevoegd gezag monitoringswerkzaamheden inzake het beheer worden uitgevoerd, wordt de jaarbetaling voor de beheeractiviteiten die zijn uitgevoerd op de oppervlakte waarop de monitoringswerkzaamheden betrekking hadden door het bevoegd gezag geweigerd of, indien de jaarbetaling voor die beheeractiviteiten reeds is uitbetaald, teruggevorderd overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2024-10-08&g=2025-01-01).
+3. Indien het agrarisch collectief of een deelnemer verhindert dat door of namens het bevoegd gezag monitoringswerkzaamheden inzake het beheer worden uitgevoerd, wordt de jaarbetaling voor de beheeractiviteiten die zijn uitgevoerd op de oppervlakte waarop de monitoringswerkzaamheden betrekking hadden door het bevoegd gezag geweigerd of, indien de jaarbetaling voor die beheeractiviteiten reeds is uitbetaald, teruggevorderd overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.7&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2.8. Niet-naleving administratieve verplichtingen
 
@@ -252,9 +252,9 @@ Indien een agrarisch collectief in het betaalverzoek oppervlaktes opgeeft die ge
 
 2. In afwijking van het eerste lid wordt de jaarbetaling door het bevoegd gezag geweigerd indien een agrarisch collectief de in artikel 3.11, onderdelen b en g, van de SVNL 2016 genoemde termijnen met meer dan 25 werkdagen overschrijdt.
 
-3. Indien een agrarisch collectief een opgave, wijziging of melding doet na het verstrijken van de daarvoor in de derde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01) gestelde termijn, wordt de jaarbetaling voor de betreffende beheeractiviteit door het bevoegd gezag verlaagd met 1% per werkdag dat niet voldaan wordt aan de betreffende termijn.
+3. Indien een agrarisch collectief een opgave, wijziging of melding doet na het verstrijken van de daarvoor in de derde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01) gestelde termijn, wordt de jaarbetaling voor de betreffende beheeractiviteit door het bevoegd gezag verlaagd met 1% per werkdag dat niet voldaan wordt aan de betreffende termijn.
 
-4. In afwijking van het derde lid wordt de jaarbetaling voor de betreffende beheeractiviteit door het bevoegd gezag geweigerd indien een agrarisch collectief een opgave, wijziging of melding doet na het verstrijken van de daarvoor in de vierde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01) gestelde termijn.
+4. In afwijking van het derde lid wordt de jaarbetaling voor de betreffende beheeractiviteit door het bevoegd gezag geweigerd indien een agrarisch collectief een opgave, wijziging of melding doet na het verstrijken van de daarvoor in de vierde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01) gestelde termijn.
 
 5. Indien uit het betaalverzoek blijkt dat een agrarisch collectief niet heeft voldaan aan de verplichting, bedoeld in artikel 3.11, onderdeel m, van de SVNL 2016, dan wordt door het bevoegd gezag geen jaarbetaling verstrekt voor de beheeractiviteit waarvan het leefgebied en de beheerfunctie niet overeenkomt met het leefgebied en de beheerfunctie van de als eerste opgegeven beheeractiviteit.
 
@@ -262,15 +262,19 @@ Indien een agrarisch collectief in het betaalverzoek oppervlaktes opgeeft die ge
 
 7. Indien een deelnemer niet heeft voldaan aan de verplichting, bedoeld in artikel 3.11a van de SVNL 2016, dan wordt door het bevoegd gezag geen jaarbetaling verstrekt voor de beheeractiviteiten die door de betreffende deelnemer op de betreffende oppervlakte zijn uitgevoerd, tenzij de overdracht van het recht tot gebruik van de betreffende oppervlakte plaatsvindt na 1 september.
 
+8. Indien een agrarisch collectief een activiteit wijzigt nadat het voornemen om een controle ter plaatse te verrichten kenbaar is gemaakt waarbij vervolgens een niet-naleving wordt geconstateerd, of nadat zij kennis krijgt dat bij een niet-aangekondigde controle ter plaatse een niet-naleving is geconstateerd, wordt de jaarbetaling voor die gewijzigde activiteit door het bevoegd gezag geweigerd.
+
+9. Indien een agrarisch collectief of een deelnemer binnen de daartoe gestelde termijn niet heeft voldaan aan de verplichting, bedoeld in artikel 3.11b van de SVNL 2016, wordt de jaarbetaling voor de betreffende activiteit door het bevoegd gezag geweigerd.
+
 ##### Artikel 2.9. Herhaalde niet-naleving
 
-1. In geval van een herhaalde niet-naleving van de in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.4&z=2024-10-08&g=2025-01-01), [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.5&z=2024-10-08&g=2025-01-01), of [artikel 2.8, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2024-10-08&g=2025-01-01), bedoelde subsidieverplichtingen, worden de in die artikelen genoemde administratieve sancties door het bevoegde gezag verhoogd met:
+1. In geval van een herhaalde niet-naleving van de in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.4&z=2026-01-01&g=2026-01-01), [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.5&z=2026-01-01&g=2026-01-01), of [artikel 2.8, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2026-01-01&g=2026-01-01), bedoelde subsidieverplichtingen, worden de in die artikelen genoemde administratieve sancties door het bevoegde gezag verhoogd met:
 
 - a. 1% bij een eerste herhaling van dezelfde niet-naleving;
 
 - b. 5% bij een tweede of verdere herhaling van dezelfde niet-naleving.
 
-2. In geval van een herhaalde niet-naleving van de in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.3&z=2024-10-08&g=2025-01-01), bedoelde subsidieverplichting, wordt de in dat artikel genoemde administratieve sanctie door het bevoegde gezag verhoogd met:
+2. In geval van een herhaalde niet-naleving van de in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01), bedoelde subsidieverplichting, wordt de in dat artikel genoemde administratieve sanctie door het bevoegde gezag verhoogd met:
 
 - a. 5% bij een eerste herhaling van dezelfde niet-naleving;
 
@@ -280,11 +284,11 @@ Indien een agrarisch collectief in het betaalverzoek oppervlaktes opgeeft die ge
 
 ##### Artikel 2.10. Niet-naleving van baselinevoorwaarden
 
-1. Indien een deelnemer één of meerdere baselinevoorwaarden als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=3&z=2024-10-08&g=2025-01-01) niet naleeft, wordt voor de hectares waarop de niet-naleving heeft plaatsgevonden door het bevoegd gezag geen jaarbetaling verstrekt.
+1. Indien een deelnemer één of meerdere baselinevoorwaarden als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=3&z=2026-01-01&g=2026-01-01) niet naleeft, wordt voor de hectares waarop de niet-naleving heeft plaatsgevonden door het bevoegd gezag geen jaarbetaling verstrekt.
 
-2. Het bevoegd gezag past de in het eerste lid bedoelde administratieve sanctie slechts toe voor zover de niet-naleving verband houdt met het beheer waarmee de deelnemer in het betreffende jaar deelneemt, tenzij er sprake is van een situatie als bedoeld in [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.12&z=2024-10-08&g=2025-01-01).
+2. Het bevoegd gezag past de in het eerste lid bedoelde administratieve sanctie slechts toe voor zover de niet-naleving verband houdt met het beheer waarmee de deelnemer in het betreffende jaar deelneemt, tenzij er sprake is van een situatie als bedoeld in [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.12&z=2026-01-01&g=2026-01-01).
 
-3. Indien de betreffende baselinevoorwaarde tevens een conditionaliteit is, laat de toepassing van het eerste en tweede lid de op het bevoegd gezag rustende verplichting onverlet om over de resterende hectares waarmee de deelnemer in het betreffende jaar deelneemt aan het beheer een administratieve sanctie overeenkomstig [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.11&z=2024-10-08&g=2025-01-01) toe te passen.
+3. Indien de betreffende baselinevoorwaarde tevens een conditionaliteit is, laat de toepassing van het eerste en tweede lid de op het bevoegd gezag rustende verplichting onverlet om over de resterende hectares waarmee de deelnemer in het betreffende jaar deelneemt aan het beheer een administratieve sanctie overeenkomstig [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.11&z=2026-01-01&g=2026-01-01) toe te passen.
 
 ##### Artikel 2.11. Niet-naleving van de conditionaliteiten
 
@@ -294,17 +298,21 @@ Indien een agrarisch collectief in het betaalverzoek oppervlaktes opgeeft die ge
 
 3. De [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=33) en [35 van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=35) zijn van overeenkomstige toepassing. Waar in voornoemde artikelen gesproken wordt van ‘landbouwer’ en ‘de minister’ wordt voor de toepassing van het onderhavige artikel gelezen ‘deelnemer’ respectievelijk ‘het bevoegd gezag’.
 
-4. Het bevoegd gezag geeft geen toepassing aan artikel 84, tweede lid, onderdeel b, van [verordening (EU) 2021/2116](32116R2021).
+4. Het bevoegd gezag geeft geen toepassing aan artikel 84, tweede lid, onderdeel b, en artikel 88, tweede lid, onderdeel a, van [verordening (EU) 2021/2116](32116R2021).
 
-##### Artikel 2.12. Inzet ANLb-beheer als bufferstrook of niet-productieve grond
+5. In afwijking van het eerste lid wordt de jaarvergoeding door het bevoegd gezag niet verlaagd indien het landbouwareaal dat op 15 mei van het betreffende kalenderjaar tot het bedrijf van de betreffende deelnemer behoort, niet groter is dan 10 hectare.
+
+##### Artikel 2.12. Inzet ANLb-beheer als bufferstrook
 
 1. Voor zover een deelnemer een oppervlakte waarmee hij in het betreffende jaar deelneemt aan het beheer inzet als bufferstrook, bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), in samenhang met [bijlage 4, onder 4 en 4.a, van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4), wordt door het bevoegd gezag geen jaarbetaling verstrekt voor zover in die bufferstrook een beheeractiviteit wordt uitgevoerd die is gericht op het gebruik van gewasbeschermingsmiddelen of meststoffen, dan wel het geheel of gedeeltelijk afzien daarvan.
 
-2. Het in het kader van het beheer gebruiken van meststoffen of chemische gewasbeschermingsmiddelen in de in het eerste lid bedoelde bufferstrook is een niet-naleving als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.10&z=2024-10-08&g=2025-01-01).
+2. Het in het kader van het beheer gebruiken van meststoffen of chemische gewasbeschermingsmiddelen in de in het eerste lid bedoelde bufferstrook is een niet-naleving als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.10&z=2026-01-01&g=2026-01-01).
 
-3. Voor zover een deelnemer een oppervlakte waarmee hij in het betreffende jaar deelneemt aan het beheer inzet als niet-productieve grond als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), in samenhang met [bijlage 4, onder 8, eerste tot en met zevende lid, van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4), wordt door het bevoegd gezag de jaarbetaling voor de betreffende beheeractiviteit verlaagd met de inkomstendervingscomponent zoals die voor het betreffende jaar en de betreffende activiteit is opgenomen in bijlage 4, onderdeel A, van de SVNL 2016.
+3. In afwijking van het tweede lid is geen sprake van een niet-naleving als in de bufferstrook chemische gewasbeschermingsmiddelen worden gebruikt voor de bestrijding van:
 
-4. Onverminderd het derde lid is het in het kader van het beheer gebruiken van meststoffen of chemische gewasbeschermingsmiddelen op de in het derde lid bedoelde niet-productieve grond een niet-naleving als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.11&z=2024-10-08&g=2025-01-01).
+- a. knolcyperus en invasieve exoten waarvoor een bestrijdingsverplichting geldt en door het bevoegde gezag een gewasaanzegging is gedaan of een teeltverbod is opgelegd, met inachtneming van de nationale regelgeving met betrekking tot de teeltvrije zone;
+
+- b. wilde haver waarvoor een bestrijdingsverplichting geldt, mits er een melding is gedaan bij het daartoe bevoegde gezag en bij de controle aantoonbaar kan worden gemaakt dat er sprake was van wilde haver op het perceel, met inachtneming van de nationale regelgeving met betrekking tot de teeltvrije zone.
 
 ##### Artikel 2.13. Intrekken certificaat
 
@@ -318,25 +326,25 @@ De beschikking tot subsidieverlening wordt met terugwerkende kracht tot de ingan
 
 1. Deze paragraaf is van toepassing op plattelandsinterventies, met uitzondering van agrarisch natuur- en landschapsbeheer, en op sectorale interventies.
 
-2. In aanvulling op het eerste lid is [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=2&z=2024-10-08&g=2025-01-01) van dit hoofdstuk van toepassing op subsidies die worden verstrekt op grond van [hoofdstuk 5, titel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.2) en [5.3, van de REES 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.3).
+2. In aanvulling op het eerste lid is [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=2&z=2026-01-01&g=2026-01-01) van dit hoofdstuk van toepassing op subsidies die worden verstrekt op grond van [hoofdstuk 5, titel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.2) en [5.3, van de REES 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.3).
 
-3. Dit hoofdstuk is, met uitzondering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=3&z=2024-10-08&g=2025-01-01), niet van toepassing op subsidies verstrekt op grond van [hoofdstuk 5, titel 5.5, van de REES 2021](onbekend).
+3. Dit hoofdstuk is, met uitzondering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=3&z=2026-01-01&g=2026-01-01), niet van toepassing op subsidies verstrekt op grond van [hoofdstuk 5, titel 5.5, van de REES 2021](onbekend).
 
 ##### Artikel 3.2. Subsidie verlagen
 
-1. Het bevoegd gezag besluit over het verlagen van de subsidies, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2024-10-08&g=2025-01-01), overeenkomstig [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&z=2024-10-08&g=2025-01-01) en dit hoofdstuk en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2024-10-08&g=2025-01-01).
+1. Het bevoegd gezag besluit over het verlagen van de subsidies, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2026-01-01&g=2026-01-01), overeenkomstig [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&z=2026-01-01&g=2026-01-01) en dit hoofdstuk en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2026-01-01&g=2026-01-01).
 
-2. De administratieve sanctie wordt bij de subsidievaststelling toegepast op het, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2024-10-08&g=2025-01-01), tabel I, bepaalde verleende of vastgestelde, subsidiebedrag van de activiteit waarop de niet-naleving betrekking heeft.
+2. De administratieve sanctie wordt bij de subsidievaststelling toegepast op het, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2026-01-01&g=2026-01-01), tabel I, bepaalde verleende of vastgestelde, subsidiebedrag van de activiteit waarop de niet-naleving betrekking heeft.
 
 3. In afwijking van het tweede lid geldt voor de sectorale interventies dat de administratieve sanctie bij de vaststelling van een activiteit of uitgavenpost wordt toegepast op het aangevraagde subsidiebedrag voor die activiteit of uitgavenpost.
 
 4. In afwijking van het eerste lid kan het bevoegd gezag een hoger verlagingspercentage toepassen indien de ernst, omvang of het permanente karakter van de niet-naleving daar aanleiding toe geven.
 
-5. Indien sprake is van een andere niet-naleving dan bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2024-10-08&g=2025-01-01), wordt een administratieve sanctie toegepast waarbij voor het verlagingspercentage wordt aangesloten bij de verlagingspercentages zoals opgenomen in Bijlage 4, deel I.
+5. Indien sprake is van een andere niet-naleving dan bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2026-01-01&g=2026-01-01), wordt een administratieve sanctie toegepast waarbij voor het verlagingspercentage wordt aangesloten bij de verlagingspercentages zoals opgenomen in Bijlage 4, deel I.
 
 ##### Artikel 3.3. Herstelmogelijkheden
 
-1. Het bevoegd gezag geeft pas toepassing aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-10-08&g=2025-01-01) nadat zij heeft geconstateerd dat een herstelmogelijkheid niet passend is.
+1. Het bevoegd gezag geeft pas toepassing aan [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01) nadat zij heeft geconstateerd dat een herstelmogelijkheid niet passend is.
 
 2. Een herstelmogelijkheid is in ieder geval niet passend als de niet-naleving een permanent karakter heeft of indien niet alsnog aan de gestelde verplichtingen kan worden voldaan.
 
@@ -344,7 +352,7 @@ De beschikking tot subsidieverlening wordt met terugwerkende kracht tot de ingan
 
 ##### Artikel 3.4. Herhaalde niet-naleving
 
-1. In geval van een herhaalde niet-naleving verhoogt het bevoegd gezag de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2024-10-08&g=2025-01-01), tabel I, genoemde percentages met:
+1. In geval van een herhaalde niet-naleving verhoogt het bevoegd gezag de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2026-01-01&g=2026-01-01), tabel I, genoemde percentages met:
 
 - a. 1 procentpunt bij de eerste herhaling van dezelfde niet-naleving;
 
@@ -370,13 +378,13 @@ De beschikking tot subsidieverlening wordt met terugwerkende kracht tot de ingan
 
 - b. de subsidieontvanger de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) niet of niet geheel naleeft; en
 
-- c. sprake is van een overtreding genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2024-10-08&g=2025-01-01), tabel II.
+- c. sprake is van een overtreding genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=4&z=2026-01-01&g=2026-01-01), tabel II.
 
 2. Het bevoegd gezag past geen verlaging toe voor het niet naleven van de aanbestedingsregels als de niet-naleving slechts van formele aard is, zonder mogelijke financiële gevolgen.
 
 ##### Artikel 3.7. Controle verhinderen
 
-Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle verhindert, wordt de betrokken steun- of betalingsaanvraag afgewezen, behalve in gevallen als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.4&z=2024-10-08&g=2025-01-01).
+Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle verhindert, wordt de betrokken steun- of betalingsaanvraag afgewezen, behalve in gevallen als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=1&artikel=1.4&z=2026-01-01&g=2026-01-01).
 
 #### Paragraaf 2. Specifieke bepalingen sectorale interventie groenten en fruit
 
@@ -384,9 +392,9 @@ Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle v
 
 1. Wanneer aan het einde van het meerjarige operationeel programma niet is voldaan aan de voorwaarden van artikel 50, derde lid en zevende lid, onderdelen a, b en c van [verordening (EU) 2021/2115](32021R2115), wordt de totale steunbetaling voor het laatste jaar van het operationeel programma verlaagd naar evenredigheid van de bedragen aan verleende uitgaven over het meerjarige operationeel programma die niet aan de betreffende doelstellingen zijn besteed en wordt het kortingsbedrag met 2% verhoogd voor elk jaar van het meerjarige operationeel programma vanaf uitvoeringsjaar 2025 waarin niet aan de voorwaarden is voldaan.
 
-2. Indien in een uitvoeringsjaar het maximum voor de uitgaven voor interventies, bedoeld in artikel 50, zevende lid, onderdeel d, van [verordening 2021/2115](32115R2021), wordt overschreden, wordt de subsidie verlaagd tot het bedrag dat overeenkomt met dat percentage.
+2. Indien over de volledige looptijd van een operationeel programma het maximum voor de uitgaven voor interventies, bedoeld in artikel 50, zevende lid, onderdeel d, van [verordening 2021/2115](32115R2021), wordt overschreden, wordt de subsidie verlaagd tot het bedrag dat overeenkomt met dat percentage.
 
-3. Indien in aanvulling op [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2024-10-08&g=2025-01-01), een producentenorganisatie, inclusief haar leden of relevante vertegenwoordigers, de uitvoering van een controle verhindert in het kader van een verzoek tot erkenning of controle op de erkenningsvoorwaarden, wordt de goedkeuring van een operationeel programma of een vaststellingsaanvraag afgewezen.
+3. Indien in aanvulling op [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2026-01-01&g=2026-01-01), een producentenorganisatie, inclusief haar leden of relevante vertegenwoordigers, de uitvoering van een controle verhindert in het kader van een verzoek tot erkenning of controle op de erkenningsvoorwaarden, wordt de goedkeuring van een operationeel programma of een vaststellingsaanvraag afgewezen.
 
 ##### Artikel 3.9. Uit de markt nemen
 
@@ -474,7 +482,7 @@ Deze beleidsregel treedt in werking met ingang 1 januari 2023.
 | Heeft een aanzienlijk effect op de realisatie van de doelstelling van de beheeractiviteit. | Verlaging bedraagt 15% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 30% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 60% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. |
 | De realisatie van de doelstelling van de beheeractiviteit komt in gevaar. | Verlaging bedraagt 30% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 60% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 100% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. |
 
-## Bijlage 1. Verlagingen ANLb-beheer als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.3&z=2024-10-08&g=2025-01-01)
+## Bijlage 1. Verlagingen ANLb-beheer als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01)
 
 | Omvang, ernst en duur | Effect op 0%–25% van de beheerde oppervlakte | Effect op 25%–50% van de beheerde oppervlakte | Effect op 50%–100% van de beheerde oppervlakte |
 | --- | --- | --- | --- |
@@ -483,22 +491,22 @@ Deze beleidsregel treedt in werking met ingang 1 januari 2023.
 | Heeft een aanzienlijk effect op de realisatie van de doelstelling van de beheeractiviteit. | Verlaging bedraagt 15% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 30% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 60% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. |
 | De realisatie van de doelstelling van de beheeractiviteit komt in gevaar. | Verlaging bedraagt 30% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 60% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. | Verlaging bedraagt 100% van de betaling in het jaar dat de niet-naleving heeft plaatsgevonden. |
 
-## Bijlage 2. Opgave-, wijzigings- en meldingstermijnen ANLb als bedoeld in de [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.4&z=2024-10-08&g=2025-01-01), en [2.8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2024-10-08&g=2025-01-01)
+## Bijlage 2. Opgave-, wijzigings- en meldingstermijnen ANLb als bedoeld in de [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.4&z=2026-01-01&g=2026-01-01), en [2.8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2026-01-01&g=2026-01-01)
 
 |   | Verplichting | Korting met 1% per werkdag indien de onderstaande termijnen worden overschreden: | Geen jaarbetaling indien de onderstaande termijnen worden overschreden: |
 | --- | --- | --- | --- |
-| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren nieuwe activiteiten c.q. wijzigen van activiteiten | Uiterlijk 7 kalenderdagen vóór het starten van de activiteit | Daags vóór de start van de activiteit |
-| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • periode verlengen (=verlengen rustperiode of inundatieperiode) | 7 kalenderdagen vóór de oorspronkelijke einddatum | Daags vóór de oorspronkelijke einddatum |
-| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • periode verkorten (=verkorten of naar voren halen rustperiode of inundatieperiode) | 7 kalenderdagen vóór de nieuwe einddatum | Daags vóór de nieuwe einddatum |
-| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren c.q. wijzigen startdatum1 | 7 kalenderdagen vóór de (nieuwe) startdatum | Daags vóór de (nieuwe) startdatum |
-| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren c.q. wijzigen ingangsdatum aanwezigheid gewasresten (activiteit 9)2 | 7 kalenderdagen vóór de (nieuwe) ingangsdatum aanwezigheid van de gewasresten | Daags vóór de (nieuwe) ingangsdatum aanwezigheid van de gewasresten |
-| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 5 (melden van startdatum rustperiode)3 | 7 kalenderdagen ná startdatum rustperiode | 7 kalenderdagen ná startdatum rustperiode |
-| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 6 (bemesten met vaste strorijke mest (ruige stalmest) of het gebruik van een bodemverbeteraar) | 14 kalenderdagen na uitvoering4 | Uiterlijk 28 kalenderdagen na uitvoering4 |
+| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren nieuwe activiteiten c.q. wijzigen van activiteiten | Uiterlijk 7 kalenderdagen voor het starten van de activiteit | Daags voor de start van de activiteit |
+| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • periode verlengen (=verlengen rustperiode of inundatieperiode) | 7 kalenderdagen vóór de oorspronkelijke einddatum | Daags voor de oorspronkelijke einddatum |
+| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • periode verkorten (=verkorten of naar voren halen rustperiode of inundatieperiode) | 7 kalenderdagen voor de nieuwe einddatum | Daags voor de nieuwe einddatum |
+| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren c.q. wijzigen startdatum1 | 7 kalenderdagen voor de (nieuwe) startdatum | Daags voor de (nieuwe) startdatum |
+| Artikel 3.11, onderdeel d, van de SVNL 2016 (opgave en wijzigen van beheeractiviteiten) | • Opvoeren c.q. wijzigen ingangsdatum aanwezigheid gewasresten (activiteit 9)2 | 7 kalenderdagen voor de (nieuwe) ingangsdatum aanwezigheid van de gewasresten | Daags voor de (nieuwe) ingangsdatum aanwezigheid van de gewasresten |
+| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 5 (melden van startdatum rustperiode)3 | n.v.t. | 7 kalenderdagen na startdatum rustperiode |
+| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 6 (bemesten met vaste strorijke mest (ruige stalmest) of het gebruik van een bodemverbeteraar) | n.v.t. | Uiterlijk 14 kalenderdagen na uitvoering4 |
 | Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 16 (schoonmaken van watergangen) | 14 kalenderdagen na uitvoering4 | Uiterlijk 28 kalenderdagen na uitvoering4 |
 | Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 22 (snoeien) | 14 kalenderdagen na uitvoering, doch uiterlijk 28 maart (m.b.t. snoeien in de periode 16 juli jaar x-1 tot 15 maart jaar x)5 | Uiterlijk 28 kalenderdagen na uitvoering, doch uiterlijk 11 april (m.b.t. snoeien in de periode 16 juli jaar x-1 tot 15 maart jaar x)5 |
 | Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 23 (maaien en/of schonen) | 14 kalenderdagen na uitvoering4 | Uiterlijk 28 kalenderdagen na uitvoering4 |
-| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 26 (spuiten van bagger) | 14 kalenderdagen na uitvoering4 | Uiterlijk 28 kalenderdagen na uitvoering4 |
-| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 30 (onderwerken bodemverbeteraar) | 14 kalenderdagen na uitvoering4 | Uiterlijk 28 kalenderdagen na uitvoering4 |
+| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 26 (spuiten van bagger) | n.v.t. | Uiterlijk 14 kalenderdagen na uitvoering4 |
+| Artikel 3.11, onderdeel l, van de SVNL 2016 (melden uitvoeren van beheeractiviteiten) | • Activiteit 30 (onderwerken bodemverbeteraar) | n.v.t. | Uiterlijk 14 kalenderdagen na uitvoering4 |
 
 1 Het opvoeren van de startdatum van de rustperiode in het kader van activiteit 5 valt hier niet onder. Een eventuele wijziging van de startdatum wél.
 
@@ -506,7 +514,7 @@ Deze beleidsregel treedt in werking met ingang 1 januari 2023.
 
 3 Melding is niet nodig indien de startdatum van de rustperiode al gedefinieerd is.
 
-4 Zie [artikel 2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8a&z=2024-10-08&g=2025-01-01).
+4 Zie [artikel 2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8a&z=2026-01-01&g=2026-01-01).
 
 5 Het snoeien in de periode 16 juli t/m 31 december 2022 telt niet mee voor het beheerjaar 2023.
 
@@ -514,15 +522,15 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.8a. Subsidiabiliteit activiteiten 6, 16, 23, 26 en 30 van de SVNL2016
 
-1. In afwijking van [artikel 2.8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2024-10-08&g=2025-01-01), zijn de activiteiten 6, 16, 23, 26 of 30, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01), indien deze worden uitgevoerd na 17 november, voor het betreffende kalenderjaar alleen subsidiabel indien:
+1. In afwijking van [artikel 2.8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.8&z=2026-01-01&g=2026-01-01), zijn de activiteiten 6, 16, 23, 26 of 30, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01), indien deze worden uitgevoerd na 17 november, voor het betreffende kalenderjaar alleen subsidiabel indien:
 
 - a. de activiteiten uiterlijk 15 december zijn uitgevoerd, en;
 
-- b. in afwijking van hetgeen in de derde en vierde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01) ten aanzien van de hierboven genoemde activiteiten is bepaald, de melding door het agrarisch collectief is gedaan binnen de termijn die voortvloeit uit de toepassing van het tweede en derde lid van dit artikel.
+- b. in afwijking van hetgeen in de derde en vierde kolom van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01) ten aanzien van de hierboven genoemde activiteiten is bepaald, de melding door het agrarisch collectief is gedaan binnen de termijn die voortvloeit uit de toepassing van het tweede en derde lid van dit artikel.
 
-2. De uiterste meldingstermijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01), derde kolom, wordt telkens met één kalenderdag verminderd voor elke kalenderdag dat de betreffende activiteit na 1 december wordt uitgevoerd.
+2. De uiterste meldingstermijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01), derde kolom, wordt telkens met één kalenderdag verminderd voor elke kalenderdag dat de betreffende activiteit na 1 december wordt uitgevoerd.
 
-3. De uiterste meldingstermijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2024-10-08&g=2025-01-01), vierde kolom, wordt telkens met één kalenderdag verminderd voor elke kalenderdag dat de betreffende activiteit na 17 november wordt uitgevoerd.
+3. De uiterste meldingstermijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&bijlage=2&z=2026-01-01&g=2026-01-01), vierde kolom, wordt telkens met één kalenderdag verminderd voor elke kalenderdag dat de betreffende activiteit na 17 november wordt uitgevoerd.
 
 4. Indien de betreffende activiteit wordt uitgevoerd tussen 18 november en 1 december, maar de melding van het uitvoeren daarvan door het agrarisch collectief wordt gedaan op of ná 2 december, wordt de jaarbetaling voor de betreffende activiteit door het bevoegd gezag verlaagd met 1% per werkdag dat de melding méér dan 14 kalenderdagen na de uitvoering daarvan is gedaan.
 
@@ -538,7 +546,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-## Bijlage 3. Baselinevoorwaarden ANLb als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.10&z=2024-10-08&g=2025-01-01)
+## Bijlage 3. Baselinevoorwaarden ANLb als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=2&artikel=2.10&z=2026-01-01&g=2026-01-01)
 
 | **Nr. beheeractiviteit** | **Nederlands wetgevingskader** | **Artikelen** | **Onderwerp van controle** | **Aanvullende opmerking** |
 | --- | --- | --- | --- | --- |
@@ -554,7 +562,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 | 7 | [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) | [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=20), slechts in samenhang met artikel 55, eerste en tweede zin, van [Verordening (EG) nr. 1107/2009](32009R1107) | De verplichting dat een middel dat gebruikt wordt als gewasbeschermingsmiddel, in Nederland toegelaten moet zijn. Het gewasbeschermingsmiddel moet gebruikt worden volgens de voorschriften die ‘overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=31) zijn vastgesteld en op het etiket nader zijn aangegeven’. |   |
 | 7 | [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) | [Artikel 4.723d](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.723d) jo. de [artikelen 4.723e tot en met 4.723g](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.723e) | Het verbod om in een teeltvrije zone gewasbeschermingsmiddelen te gebruiken, tenzij de daarbij behorende voorschriften in acht zijn genomen. | Alleen voor zover de activiteit in een teeltvrije zone wordt uitgevoerd. |
 | 7 | [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) | [Artikel 4.723h](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.723h) | Het verbod om op braakliggende landbouwgrond binnen 50cm vanaf de insteek van een oppervlaktewaterlichaam gewasbeschermingsmiddelen te gebruiken. | Alleen voor zover de activiteit in de in de hiernaast bedoelde zone wordt uitgevoerd. |
-| 7 | [Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444) | [Artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), jo. [bijlage 4, paragraaf 2, onder 4 en 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4) | Het verbod om in een verplichte bufferstrook chemische gewasbeschermingsmiddelen of biociden te gebruiken. | Alleen voor zover de activiteit in een verplichte bufferstrook wordt uitgevoerd. |
+| 7 | [Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444) in samenhang met de [Beleidregel verlagen subsidie GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0047683) | [Artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), jo. [bijlage 4, paragraaf 2, onder 4 en 4a van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4) in samenhang met [artikel 2.12, derde lid van de Beleidsregel verlagen subsidie GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&artikel=2.12) | Het verbod om in een verplichte bufferstrook chemische gewasbeschermingsmiddelen of biociden te gebruiken, tenzij dit nodig is ter bestrijding van de in [artikel 2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&artikel=2.12), bedoelde plantensoorten en de daarbij horende voorschriften in acht zijn genomen. | Alleen voor zover de activiteit in een verplichte bufferstrook wordt uitgevoerd. |
 | 19a | [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) | [Artikel 11.54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.45) jo. [bijlage, onderdeel IX, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IX) | Het verbod om bepaalde vaatplanten in hun natuurlijke verspreidingsgebied te plukken, te verzamelen, af te snijden, te ontwortelen of te vernielen. | Alleen voor zover de activiteit gericht is op het beschermen van vaatplanten van de soort akkerboterbloem, bosboterbloem, groene nachtorchis, kalkboterbloem, kleine ereprijs, liggende ereprijs of vroege ereprijs. |
 | 22 | [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) | [Artikelen 11.126](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.126), [11.128](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.128) en [11.129](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.129) | Het verbod om een houtopstand (anders dan bij wijze van dunning) zonder voorafgaande tijdige kennisgeving of in strijd met een kapverbod te (doen) vellen, of te (doen) vellen zonder deze te herbeplanten op een bosbouwkundig verantwoorde wijze. | Geldt niet zover de activiteit wordt uitgevoerd op een houtopstand als bedoeld in [artikel 11.111, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.111) |
 | 22 | [Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444) | [Artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=32), jo. [bijlage 4, paragraaf 4, onder 8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4) | Het verbod om heggen en bomen te snoeien in de periode 15 maart t/m 15 juli en in het geval buiten die periode door vogels wordt gebroed. |   |
@@ -580,7 +588,7 @@ Indien de producentenorganisatie de begroting, bedoeld in [artikel 5.2.45, derde
 
 ### Hoofdstuk 4. Slotbepalingen
 
-## Bijlage 4. Verlagingen NSP niet grondgebonden subsidie als bedoeld in de [artikelen 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-10-08&g=2025-01-01), en [3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2024-10-08&g=2025-01-01)
+## Bijlage 4. Verlagingen NSP niet grondgebonden subsidie als bedoeld in de [artikelen 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01), en [3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047683&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2026-01-01&g=2026-01-01)
 
 | Nr. | Omschrijving niet-naleving | Administratieve sanctie | Vindplaats niet-naleving in regelgeving | Van toepassing op sectorale interventie groenten en fruit (g&f) en bijenteelt |
 | --- | --- | --- | --- | --- |
