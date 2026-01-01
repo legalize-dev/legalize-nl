@@ -4,7 +4,7 @@ identifier: "BWBR0042394"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-07-22"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042394"
 soort: "wet"
@@ -53,17 +53,19 @@ In deze wet wordt verstaan onder:
 
 - **broeikasgassen:** gassen genoemd in bijlage V, deel 2, van de Verordening governance van de Energie-unie;
 
+- **CO2-neutrale elektriciteitsproductie:** elektriciteitsproductie waarbij geen broeikasgassen vrijkomen in de atmosfeer of waarbij biomassa als brandstof gebruikt wordt;
+
+- **Europese klimaatwet:** [Verordening (EU) 2021/1119](32021R1119) van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van [Verordening (EG) nr. 401/2009](32009R0401) en [Verordening (EU) 2018/1999](32018R1999) (Pb EU 2021, L 243);
+
 - **hernieuwbare energie:** energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de Richtlijn hernieuwbare energie;
 
-- **CO2-neutrale elektriciteitsproductie:** elektriciteitsproductie waarbij geen broeikasgassen vrijkomen in de atmosfeer of waarbij biomassa als brandstof gebruikt wordt;
+- **Onze Minister:** Onze Minister van Klimaat en Groene Groei;
 
 - **Richtlijn hernieuwbare energie:** [Richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEU 2009, L 140)
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
-
 - **verordening governance van de energie-unie:** [Verordening (EU) 2018/1999](32018R1999) van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van [Richtlijn 94/22/EG](31994L0022), [Richtlijn 98/70/EG](31998L0070), [Richtlijn 2009/31/EG](32009L0031), Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, [Richtlijn 2009/73/EG](32009L0073), [Richtlijn 2009/119/EG](32009L0119) van de Raad, [Richtlijn 2010/31](32010L0031)/EU, [Richtlijn 2012/27](32012L0027)/EU, [Richtlijn 2013/30](32013L0030)/EU en [Richtlijn (EU) 2015/652](32015L0652) van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328);
 
-- **Europese klimaatwet:** [Verordening (EU) 2021/1119](32021R1119) van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van [Verordening (EG) nr. 401/2009](32009R0401) en [Verordening (EU) 2018/1999](32018R1999) (Pb EU 2021, L 243).
+- **Wetenschappelijke Klimaatraad:** de Wetenschappelijke Klimaatraad, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2
 
@@ -81,11 +83,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), voor de eerstvolgende tien jaren.
+1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voor de eerstvolgende tien jaren.
 
 2. Het klimaatplan bevat tevens:
 
-- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), worden bereikt;
+- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), worden bereikt;
 
 - b. het verwachte aandeel hernieuwbare energie en de verwachte besparing op het primaire energiegebruik;
 
@@ -103,9 +105,7 @@ In deze wet wordt verstaan onder:
 
 1. Het klimaatplan wordt voor de eerste maal vastgesteld in 2019 en ten minste eens in de vijf jaren opnieuw vastgesteld.
 
-2. Iedere twee jaar na de vaststelling van het klimaatplan wordt over de voortgang van de uitvoering gerapporteerd en, als deze daartoe aanleiding geeft in het licht van de doelstellingen van deze wet, worden maatregelen genomen.
-
-3. Het eerste klimaatplan heeft betrekking op de periode van 2021 tot en met 2030.
+2. Het eerste klimaatplan heeft betrekking op de periode van 2021 tot en met 2030.
 
 ##### Artikel 5
 
@@ -115,7 +115,7 @@ In deze wet wordt verstaan onder:
 
 3. De Afdeling advisering van de Raad van State wordt over het klimaatplan gehoord.
 
-4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
+4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Verantwoording
 
@@ -135,7 +135,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Onze Minister zendt de klimaat- en energieverkenning op de vierde donderdag van oktober aan beide kamers der Staten-Generaal, tenzij deze datum valt in een periode waarin de Tweede Kamer der Staten-Generaal met reces is of wanneer deze datum een nationale feestdag is. In dat geval zendt Onze Minister de klimaat- en energieverkenning, na overleg met de voorzitters van beide kamers der Staten-Generaal, uiterlijk op 1 november van hetzelfde jaar aan beide kamers der Staten-Generaal.
+1. Onze Minister zendt de klimaat- en energieverkenning op de derde dinsdag van september aan beide kamers der Staten-Generaal.
 
 2. Onze Minister zendt gelijktijdig met de verzending van de klimaat- en energieverkenning de klimaatnota aan beide kamers der Staten-Generaal.
 
@@ -147,31 +147,41 @@ In deze wet wordt verstaan onder:
 
 - c. een weergave van de gevolgen voor de departementale begrotingen van het klimaatbeleid;
 
-- d. de financiële gevolgen voor huishoudens, ondernemingen en overheden van significante ontwikkelingen in het klimaatbeleid die afwijken van het klimaatplan;
+- d. de financiële gevolgen voor huishoudens, ondernemingen en overheden van significante ontwikkelingen in het klimaatbeleid die afwijken van het klimaatplan; en
 
-- e. de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan, en
-
-- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2023-07-22&g=2023-07-22), als deze is uitgevoerd.
+- e. de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan.
 
 4. De Afdeling advisering van de Raad van State wordt over de klimaatnota gehoord.
 
-### Hoofdstuk 4. Participatie
+### Hoofdstuk 4. Advisering en overleg
 
 ##### Artikel 8
 
-1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
+1. Er is een Wetenschappelijke Klimaatraad.
 
-2. In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.
+2. De Wetenschappelijke Klimaatraad bestaat uit een voorzitter en ten hoogste negen andere leden.
 
-3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22).
+3. De Wetenschappelijke Klimaatraad heeft tot taak de regering en beide kamers der Staten-Generaal te adviseren over het te voeren klimaatbeleid. De Wetenschappelijke Klimaatraad brengt daarbij ten minste een advies uit ter voorbereiding van het klimaatplan, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 9
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
+
+2. In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.
+
+3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 10
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 11
 
 Deze wet wordt aangehaald als: Klimaatwet.
 
