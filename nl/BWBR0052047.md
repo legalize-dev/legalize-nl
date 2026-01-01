@@ -4,7 +4,7 @@ identifier: "BWBR0052047"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-09-06"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052047"
 soort: "wet"
@@ -146,27 +146,27 @@ Wijzigt deze wet.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
-- a. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2025-09-06), toepassing vindt nadat [artikel 10b.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10b.1) is toegepast;
+- a. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2026-01-01), toepassing vindt nadat [artikel 10b.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10b.1) is toegepast;
 
-- b. [artikel I, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2025-09-06), [artikel IV, onderdelen E, onder 2, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2025-09-06), [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=VII&z=2026-01-01&g=2025-09-06), [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=VIII&z=2026-01-01&g=2025-09-06), [artikel XVI, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVI&z=2026-01-01&g=2025-09-06), [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVII&z=2026-01-01&g=2025-09-06), en [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XXI&z=2026-01-01&g=2025-09-06) terugwerken tot en met 1 januari 2025;
+- b. [artikel I, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2026-01-01), [artikel IV, onderdelen E, onder 2, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2026-01-01), [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=VII&z=2026-01-01&g=2026-01-01), [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=VIII&z=2026-01-01&g=2026-01-01), [artikel XVI, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVI&z=2026-01-01&g=2026-01-01), [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVII&z=2026-01-01&g=2026-01-01), en [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XXI&z=2026-01-01&g=2026-01-01) terugwerken tot en met 1 januari 2025;
 
-- c. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2025-09-06), terugwerkt tot en met 1 januari 2023, waarbij artikel I, onderdeel D, geen toepassing vindt voor het jaar 2024;
+- c. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=I&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 1 januari 2023, waarbij artikel I, onderdeel D, geen toepassing vindt voor het jaar 2024;
 
-- d. [artikel IV, onderdelen A en E, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2025-09-06), en [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVI&z=2026-01-01&g=2025-09-06), terugwerken tot en met 1 januari 2023;
+- d. [artikel IV, onderdelen A en E, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2026-01-01), en [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XVI&z=2026-01-01&g=2026-01-01), terugwerken tot en met 1 januari 2023;
 
-- e. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2025-09-06), toepassing vindt nadat [artikel 35o van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35o) met ingang van 1 januari 2026 is toegepast;
+- e. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IV&z=2026-01-01&g=2026-01-01), toepassing vindt nadat [artikel 35o van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35o) met ingang van 1 januari 2026 is toegepast;
 
-- f. [artikel IX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IX&z=2026-01-01&g=2025-09-06), toepassing vindt voordat [artikel XXA, onderdeel C, van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=XXA) wordt toegepast en terugwerkt tot en met 1 januari 2025;
+- f. [artikel IX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=IX&z=2026-01-01&g=2026-01-01), toepassing vindt voordat [artikel XXA, onderdeel C, van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=XXA) wordt toegepast en terugwerkt tot en met 1 januari 2025;
 
-- g. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XII&z=2026-01-01&g=2025-09-06) terugwerkt tot en met 25 maart 2025;
+- g. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XII&z=2026-01-01&g=2026-01-01) terugwerkt tot en met 25 maart 2025;
 
-- h. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIII&z=2026-01-01&g=2025-09-06) terugwerkt tot en met 6 september 2025;
+- h. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIII&z=2026-01-01&g=2026-01-01) terugwerkt tot en met 6 september 2025;
 
-- i. [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIX&z=2026-01-01&g=2025-09-06) toepassing vindt voordat [artikel IV, onderdeel C, onder 2 en 3, van de Wet aanpassing bedrijfsopvolgingsfaciliteiten 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050614&artikel=IV) wordt toegepast.
+- i. [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIX&z=2026-01-01&g=2026-01-01) toepassing vindt voordat [artikel IV, onderdeel C, onder 2 en 3, van de Wet aanpassing bedrijfsopvolgingsfaciliteiten 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050614&artikel=IV) wordt toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIV&z=2026-01-01&g=2025-09-06) in werking met ingang van de dag waarop [artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=I) in werking treedt.
+2. In afwijking van het eerste lid treedt [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XIV&z=2026-01-01&g=2026-01-01) in werking met ingang van de dag waarop [artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=I) in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XI&z=2026-01-01&g=2025-09-06) in werking op het tijdstip waarop [artikel 30 van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=30) in werking treedt.
+3. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XI&z=2026-01-01&g=2026-01-01) in werking op het tijdstip waarop [artikel 30 van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=30) in werking treedt.
 
 ##### Artikel XXIV
 
