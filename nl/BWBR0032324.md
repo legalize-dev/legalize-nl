@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De gebieden, bedoeld in [artikel 2.47, derde lid, van de Wet voortgezet onderwij
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2022-08-01&g=2022-08-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2022-08-01&g=2022-08-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2026-01-01&g=2026-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2026-01-01&g=2026-01-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -4739,9 +4739,9 @@ Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverband
 | 1362 | Almere | PO2401 | VO2401 |
 | 1363 | Almere | PO2401 | VO2401 |
 | 1364 | Almere | PO2401 | VO2401 |
-| 1381 | Weesp | PO2709 | VO2710 |
-| 1382 | Weesp | PO2709 | VO2710 |
-| 1383 | Weesp | PO2709 | VO2710 |
+| 1381 | Weesp | PO2709 | VO2708 |
+| 1382 | Weesp | PO2709 | VO2708 |
+| 1383 | Weesp | PO2709 | VO2708 |
 | 1391 | De Ronde Venen | PO2604 | VO2604 |
 | 1393 | Stichtse Vecht | PO2604 | VO2601 |
 | 1394 | Wijdemeren | PO2709 | VO2710 |
@@ -7679,6 +7679,7 @@ Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverband
 | 8265 | Kampen | PO2305 | VO2305 |
 | 8266 | Kampen | PO2305 | VO2305 |
 | 8267 | Kampen | PO2305 | VO2305 |
+| 8269 | Kampen | PO2305 | VO2305 |
 | 8271 | Kampen | PO2305 | VO2305 |
 | 8274 | Kampen | PO2305 | VO2305 |
 | 8275 | Kampen | PO2305 | VO2305 |
@@ -8309,11 +8310,11 @@ Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverband
 | 9467 | Aa en Hunze | PO2201 | VO2201 |
 | 9468 | Aa en Hunze | PO2201 | VO2201 |
 | 9469 | Aa en Hunze | PO2201 | VO2201 |
-| 9471 | Tynaarlo | PO2201 | VO2001 |
-| 9472 | Tynaarlo | PO2201 | VO2001 |
-| 9473 | Tynaarlo | PO2201 | VO2001 |
-| 9474 | Tynaarlo | PO2201 | VO2001 |
-| 9475 | Tynaarlo | PO2201 | VO2001 |
+| 9471 | Tynaarlo | PO2201 | VO2201 |
+| 9472 | Tynaarlo | PO2201 | VO2201 |
+| 9473 | Tynaarlo | PO2201 | VO2201 |
+| 9474 | Tynaarlo | PO2201 | VO2201 |
+| 9475 | Tynaarlo | PO2201 | VO2201 |
 | 9479 | Haren | PO2001 | VO2001 |
 | 9481 | Tynaarlo | PO2201 | VO2201 |
 | 9482 | Tynaarlo | PO2201 | VO2201 |
