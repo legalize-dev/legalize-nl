@@ -4,7 +4,7 @@ identifier: "BWBR0041860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041860"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2025-01-01&g=2025-01-01).
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2. Instelling commissie
 
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
 
-3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2025-01-01&g=2025-01-01) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-01-01&g=2026-01-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
@@ -120,25 +120,21 @@ In dit besluit wordt verstaan onder:
 
 Tot leden van de commissie worden benoemd:
 
-- a. mevrouw dr. W.D. Bult-Spiering te Enschede, tevens voorzitter;
+- a. de heer E. Berends te Haarlem, tevens voorzitter;
 
 - b. de heer bc. P. Dirckx te Wessem;
 
-- c. de heer E. van den Berg te Vijfhuizen;
+- c. mevrouw dr. M.J.M. van den Berg te Rotterdam;
 
-- d. mevrouw dr. A.M.C. Sluijter te Oegstgeest;
+- d. mevrouw M. Wagner te Zandvoort;
 
-- e. mevrouw M. Wagner te Zandvoort;
+- e. mevrouw C.M.C. van Berkel te Rotterdam;
 
-- f. de heer E. Berends te Haarlem;
+- f. de heer P.W. van Amersfoort te Amsterdam;
 
-- g. mevrouw C.M.C. van Berkel te Rotterdam;
+- g. de heer H.A. Lukken te Assen; en
 
-- h. de heer P.W. van Amersfoort te Amsterdam;
-
-- i. de heer H.A. Lukken te Assen; en
-
-- j. de heer J.A.L.M. van Erp te ’s-Hertogenbosch.
+- h. de heer J.A.L.M. van Erp te ’s-Hertogenbosch.
 
 ##### Artikel 7. Secretariaat
 
