@@ -4,7 +4,7 @@ identifier: "BWBR0049573"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049573"
 soort: "zbo"
@@ -105,7 +105,7 @@ Het subsidieplafond is vastgesteld op maximaal € 300.000 exclusief btw per kal
 
 1. Deze subsidieregeling treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
-2. Deze subsidieregeling vervalt op 1 januari 2026.
+2. Deze subsidieregeling vervalt op 1 januari 2027.
 
 ##### Artikel 8. Citeertitel
 
