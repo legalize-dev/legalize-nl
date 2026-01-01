@@ -4,7 +4,7 @@ identifier: "BWBR0028776"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028776"
 soort: "ministeriele-regeling-BES"
@@ -40,7 +40,7 @@ entry_into_force: "2016-06-23"
 
 ##### Artikel 1. Aanmelding pensioenfonds
 
-Het bestuur van een pensioenfonds meldt de oprichting van het pensioenfonds overeenkomstig [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4) door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+Het bestuur van een pensioenfonds meldt de oprichting van het pensioenfonds overeenkomstig [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4) door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is gevoegd.
 
 #### Paragraaf 2. Toetsing betrouwbaarheid beleidsbepalers
 
@@ -72,7 +72,7 @@ In deze paragraaf wordt verstaan onder:
 
 - –. rechtschapenheid.
 
-- c. antecedenten: voornemens, handelingen, en strafrechtelijke-, financiële-, toezichts- en overige antecedenten. De strafrechtelijke-, financiële-, toezichts- en overige antecedenten omvatten de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2025-01-01&g=2025-01-01) genoemde feiten en omstandigheden.
+- c. antecedenten: voornemens, handelingen, en strafrechtelijke-, financiële-, toezichts- en overige antecedenten. De strafrechtelijke-, financiële-, toezichts- en overige antecedenten omvatten de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2026-01-01&g=2026-01-01) genoemde feiten en omstandigheden.
 
 - d. betrokkenen:beleidsbepalers bij onder toezicht staande pensioenfondsen.
 
@@ -82,7 +82,7 @@ De betrouwbaarheidstoetsing:
 
 - a. is gebaseerd op het antecedentenonderzoek zoals in de wet bepaald;
 
-- b. is toepasbaar op alle betrokkenen als bedoeld in [artikel 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01); en
+- b. is toepasbaar op alle betrokkenen als bedoeld in [artikel 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01); en
 
 - c. dient ter waarborging van de integriteit van een pensioenfonds, door middel van toetsing van bovengenoemde betrokkenen.
 
@@ -96,9 +96,9 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 ##### Artikel 5. Onverenigbaarheid van belangen
 
-1. Gelet op aard en de ernst van de misdrijven genoemd in [bijlage 2.A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2025-01-01&g=2025-01-01), worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de wet beoogt te beschermen.
+1. Gelet op aard en de ernst van de misdrijven genoemd in [bijlage 2.A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2026-01-01&g=2026-01-01), worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de wet beoogt te beschermen.
 
-2. Indien de antecedenten van de betrokkene kunnen worden gekwalificeerd als feiten en omstandigheden in de zin van zowel [bijlage 2.A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2025-01-01&g=2025-01-01) als bijlage 2.A.2, dan geldt het bepaalde van het eerste lid, tenzij sedert de dag waarop deze uitspraak onherroepelijk is geworden acht jaren of meer zijn verstreken.
+2. Indien de antecedenten van de betrokkene kunnen worden gekwalificeerd als feiten en omstandigheden in de zin van zowel [bijlage 2.A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2026-01-01&g=2026-01-01) als bijlage 2.A.2, dan geldt het bepaalde van het eerste lid, tenzij sedert de dag waarop deze uitspraak onherroepelijk is geworden acht jaren of meer zijn verstreken.
 
 #### Paragraaf 3. Continuïteitsanalyse
 
@@ -116,13 +116,13 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 De bedragen, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), worden vastgesteld op:
 
-- 1. USD 1.963, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+- 1. USD 2.028, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
 
-- 2. USD 1.813, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+- 2. USD 1.848, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
 
-- 3. USD 1.876, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+- 3. USD 1.941, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
 
-- 4. USD 1.813, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- 4. USD 1.848, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 8. Uitzondering op afkoop
 
@@ -176,7 +176,7 @@ De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](http
 
 De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wanneer aan de volgende voorwaarden is voldaan:
 
-- a. de gewezen deelnemer verstrekt de in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=10&z=2025-01-01&g=2025-01-01), bedoelde opgave aan de ontvangende pensioenuitvoerder;
+- a. de gewezen deelnemer verstrekt de in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=10&z=2026-01-01&g=2026-01-01), bedoelde opgave aan de ontvangende pensioenuitvoerder;
 
 - b. de ontvangende pensioenuitvoerder verstrekt aan de gewezen deelnemer een opgave van de aanspraken die de gewezen deelnemer in de nieuwe pensioenregeling in verband met de waardeoverdracht zal ontvangen; en
 
@@ -184,7 +184,7 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 ##### Artikel 12. Realisatie waardeoverdracht
 
-1. De overdragende pensioenuitvoerder draagt de overdrachtswaarde over aan de ontvangende pensioenuitvoerder binnen drie maanden na ontvangst van het in [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=11&z=2025-01-01&g=2025-01-01), bedoelde verzoek.
+1. De overdragende pensioenuitvoerder draagt de overdrachtswaarde over aan de ontvangende pensioenuitvoerder binnen drie maanden na ontvangst van het in [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde verzoek.
 
 2. Door de overdracht vervallen de pensioenaanspraken van de gewezen deelnemer jegens de overdragende pensioenuitvoerder.
 
@@ -210,19 +210,19 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 1. Indien de overdragende pensioenuitvoerder een rentestandskorting toepast, wordt de over te dragen overdrachtswaarde vermenigvuldigd met de factor (100 - X ) : 100, waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
-2. Indien ontvangende pensioenuitvoerder een rentestandskorting toepast, wordt voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=16&z=2025-01-01&g=2025-01-01) het bedrag van de beschikbaar gestelde overdrachtswaarde vermenigvuldigd met de factor 100 : ( 100 - X ), waarin X de waarde van de bedoelde rentestandskorting voorstelt.
+2. Indien ontvangende pensioenuitvoerder een rentestandskorting toepast, wordt voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=16&z=2026-01-01&g=2026-01-01) het bedrag van de beschikbaar gestelde overdrachtswaarde vermenigvuldigd met de factor 100 : ( 100 - X ), waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
 ##### Artikel 16. Berekening deelnemingsjaren
 
 1. De ontvangende pensioenuitvoerder berekent fictieve deelnemingsjaren gelijk aan W: CWP, waarin:
 
-W = het bedrag van de beschikbaar gestelde overdrachtswaarde, na toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=15&z=2025-01-01&g=2025-01-01); en
+W = het bedrag van de beschikbaar gestelde overdrachtswaarde, na toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=15&z=2026-01-01&g=2026-01-01); en
 
-CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de contante-waardefactoren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=14&z=2025-01-01&g=2025-01-01).
+CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de contante-waardefactoren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=14&z=2026-01-01&g=2026-01-01).
 
 Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en weduwnaarspensioen per dienstjaar.
 
-2. Voor de toepassing van het eerste lid wordt gebruik gemaakt van het inkomen op de datum, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=13&z=2025-01-01&g=2025-01-01).
+2. Voor de toepassing van het eerste lid wordt gebruik gemaakt van het inkomen op de datum, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=13&z=2026-01-01&g=2026-01-01).
 
 3. De fictieve deelnemingsjaren, bedoeld in het eerste lid, worden door de ontvangende pensioenuitvoerder behandeld alsof zij zijn opgebouwd in de pensioenovereenkomst met de nieuwe werkgever.
 
@@ -268,7 +268,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 1. Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in [artikel 23, eerste lid, van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=23), gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren:
 
-- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen rentefactoren;
+- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=3&z=2026-01-01&g=2026-01-01) opgenomen rentefactoren;
 
 - b. het aandelen- en vastgoedrisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in:
 
@@ -298,7 +298,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 ##### Artikel 20. Correlaties
 
-1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2025-01-01&g=2025-01-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
+1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2026-01-01&g=2026-01-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
 
 - a. tussen het aandelen- en vastgoedrisico enerzijds en het renterisico anderzijds: een correlatie (ρ) van 0,50;
 
@@ -306,7 +306,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 - c. tussen de overige risico’s: een correlatie (ρ”) van 0.
 
-2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen formules en de in dat onderdeel beschreven procedure gebruikt.
+2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=3&z=2026-01-01&g=2026-01-01) opgenomen formules en de in dat onderdeel beschreven procedure gebruikt.
 
 ##### Artikel 21. Risicoprofiel
 
@@ -348,13 +348,13 @@ Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met 
 
 - a. geeft, als de uitkomsten van het intern model verschillen met die van het voorgaande jaar, aan de Bank aan waaruit die verschillen bestaan; en
 
-- b. dient bij de Bank eens in de 3 jaar een analyse in volgens het standaardmodel, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2025-01-01&g=2025-01-01).
+- b. dient bij de Bank eens in de 3 jaar een analyse in volgens het standaardmodel, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2026-01-01&g=2026-01-01).
 
 6. De Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.
 
 ##### Artikel 24. Overgangsregeling
 
-1. In afwijking van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=23&z=2025-01-01&g=2025-01-01), kan de Bank een fonds dat niet voldoet aan de in artikel 23, eerste lid, genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
+1. In afwijking van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=23&z=2026-01-01&g=2026-01-01), kan de Bank een fonds dat niet voldoet aan de in artikel 23, eerste lid, genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
 
 - a. naar het oordeel van de Bank de regels waaraan het fonds niet voldoet het gebruik van een intern model niet belemmeren; en
 
@@ -572,7 +572,7 @@ S1 voor het vereist eigen vermogen voor het renterisico.
 
 ### Artikel 2. Formules en procedure standaardmodel
 
-Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2025-01-01&g=2025-01-01) wordt als volgt aangeduid:
+Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2026-01-01&g=2026-01-01) wordt als volgt aangeduid:
 
 S1 voor het vereist eigen vermogen voor het renterisico.
 
@@ -712,9 +712,9 @@ De betrokkene wordt terzake van een of meer van de hiervoor onder 1 genoemde str
 
 Onder voorwaardelijke of onvoorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen buiten de openbare lichamen ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
-### Bijlage 2.A.2:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01)
+### Bijlage 2.A.2:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01)
 
-### Bijlage 2.B:. Financiële antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01)
+### Bijlage 2.B:. Financiële antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01)
 
 ### Bijlage 2.D:. Fiscaal bestuursrechtelijke antecedenten
 
@@ -724,7 +724,7 @@ Onder toezichtsantecedenten, van belang voor de beoordeling van de daaraan ten g
 
 ## Bijlage 3. behorend bij [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&z=2016-01-01&g=2016-01-01)
 
-### Bijlage 2.E:. Overige antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01)
+### Bijlage 2.E:. Overige antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01)
 
 ### Artikel 2. Formules en procedure standaardmodel
 
@@ -806,7 +806,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 #### Paragraaf 8. Slotbepalingen
 
-## Bijlage 1. behorend bij [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=1&z=2025-01-01&g=2025-01-01)
+## Bijlage 1. behorend bij [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=1&z=2026-01-01&g=2026-01-01)
 
 Formulier pensioenfonds als bedoeld in [artikel 4, tweede lid, Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4)
 
@@ -872,16 +872,16 @@ Formulier pensioenfonds als bedoeld in [artikel 4, tweede lid, Pensioenwet BES](
 | Naam |   |   |
 | handtekening |   |   |
 
-## Bijlage 2. behorend bij [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&z=2025-01-01&g=2025-01-01)
+## Bijlage 2. behorend bij [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&z=2026-01-01&g=2026-01-01)
 
-### Bijlage 2.A.1:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), en [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01)
+### Bijlage 2.A.1:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01)
 
 Onder transacties wordt ook verstaan in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
-### Bijlage 2.C:. Toezichtsantecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01)
+### Bijlage 2.C:. Toezichtsantecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01)
 
 Aan betrokkene is op grond van de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) een straf opgelegd ter zake van één of meer van de hierna genoemde strafbare feiten:
 
-## Bijlage 3. behorend bij [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&z=2025-01-01&g=2025-01-01)
+## Bijlage 3. behorend bij [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&z=2026-01-01&g=2026-01-01)
 
 ### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
