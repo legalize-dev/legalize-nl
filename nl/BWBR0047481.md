@@ -4,7 +4,7 @@ identifier: "BWBR0047481"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-02-22"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047481"
 soort: "AMvB"
@@ -90,7 +90,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 ##### Artikel 3. Delegatiegrondslag
 
-Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent het verstrekken van een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), waaronder in ieder geval voorschriften over:
+Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent het verstrekken van een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), waaronder in ieder geval voorschriften over:
 
 - a. de hoogte van de specifieke uitkering;
 
@@ -120,36 +120,42 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent het verst
 
 Na de inwerkingtreding van dit besluit berust:
 
-- a. de [Regeling eenmalige specifieke uitkering woningbouw Waddengemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047591) op [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- a. de [Regeling eenmalige specifieke uitkering woningbouw Waddengemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0047591) op [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- b. de [Regeling specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals](https://wetten.overheid.nl/jci1.3:c:BWBR0047218) op [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- b. de [Regeling specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals](https://wetten.overheid.nl/jci1.3:c:BWBR0047218) op [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- c. de [Regeling specifieke uitkering tweede tranche voor huisvesting aandachtsgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0045633) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- c. de [Regeling specifieke uitkering tweede tranche voor huisvesting aandachtsgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0045633) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- d. de [Regeling specifieke uitkering vergunninghouders](https://wetten.overheid.nl/jci1.3:c:BWBR0045989) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- d. de [Regeling specifieke uitkering vergunninghouders](https://wetten.overheid.nl/jci1.3:c:BWBR0045989) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- e. de [Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0046932) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- e. de [Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0046932) op [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- f. de [Regeling specifieke uitkering snelheid woningbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0045985) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- f. de [Regeling specifieke uitkering snelheid woningbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0045985) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- g. de [Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw tweede tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0046948) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- g. de [Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw tweede tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0046948) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- h. de [Stimuleringsregeling flex- en transformatiewoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0047455) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- h. de [Stimuleringsregeling flex- en transformatiewoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0047455) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- i. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken](https://wetten.overheid.nl/jci1.3:c:BWBR0046413) (Stct. 2022, 6641) op [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- i. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken](https://wetten.overheid.nl/jci1.3:c:BWBR0046413) (Stct. 2022, 6641) op [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- j. de [Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan de provincies Noord-Holland, Utrecht, Limburg, Zeeland, Overijssel, Groningen en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVI-gebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0045931) (Stct. 2021, 47806) op [artikel 2, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- j. de [Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan de provincies Noord-Holland, Utrecht, Limburg, Zeeland, Overijssel, Groningen en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVI-gebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0045931) (Stct. 2021, 47806) op [artikel 2, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- k. de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening tot wijziging van de Regeling houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken (Stcrt. 2022, nr. 6641) in verband met het toevoegen van twee gemeenten op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit;
+- k. de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening tot wijziging van de Regeling houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken (Stcrt. 2022, nr. 6641) in verband met het toevoegen van twee gemeenten op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- l. de [Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0047108) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit; en
+- l. de [Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0047108) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit; en
 
-- m. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners, verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0047844) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2023-02-22&g=2023-02-22), van dit besluit.
+- m. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners, verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0047844) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit.
 
 ##### Artikel 5. Inwerkingtreding
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. In het koninklijk besluit kan worden bepaald dat dit besluit terugwerkt tot en met 22 september 2022.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen volkshuisvesting
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
