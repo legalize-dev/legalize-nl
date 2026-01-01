@@ -4,7 +4,7 @@ identifier: "BWBR0003299"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003299"
 soort: "wet"
@@ -66,25 +66,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Het feit dat een persoon het in het tweede en derde lid bedoelde gedrag afwijst of lijdzaam ondergaat, mag niet ten grondslag liggen aan een beslissing die die persoon treft.
 
-5. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2015-07-01&g=2015-07-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2015-07-01&g=2015-07-01), en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2015-07-01&g=2015-07-01), zijn niet van toepassing op het verbod van intimidatie en seksuele intimidatie, bedoeld in het eerste lid.
+5. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op het verbod van intimidatie en seksuele intimidatie, bedoeld in het eerste lid.
 
 ##### Artikel 1b
 
 1. In de openbare dienst mag het bevoegd gezag geen onderscheid maken bij de aanstelling tot ambtenaar of indienstneming op arbeidsovereenkomst naar burgerlijk recht, in de arbeidsvoorwaarden, bij de arbeidsomstandigheden, bij het verstrekken van onderricht, bij de bevordering en bij de beëindiging van het dienstverband.
 
-2. Tot de openbare dienst, bedoeld in het eerste lid, worden gerekend alle instellingen, diensten en bedrijven door de staat en de openbare lichamen beheerd.
+2. Tot de openbare dienst, bedoeld in het eerste lid, worden gerekend alle instellingen, diensten en bedrijven door de staat en de openbare lichamen beheerd. Waar in deze wet wordt gesproken over openbare dienst worden tevens openbare lichamen als bedoeld in [artikel 132a van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=132a) begrepen.
 
 3. Van het in het eerste lid bepaalde mag worden afgeweken in de gevallen waarin het de bescherming van de vrouw betreft, met name in verband met zwangerschap en moederschap.
 
 4. Het bevoegd gezag mag het dienstverband van degene die krachtens aanstelling of arbeidsovereenkomst naar burgerlijk recht werkzaam is in de openbare dienst niet beëindigen of betrokkene niet anderszins benadelen wegens de omstandigheid dat deze in of buiten rechte een beroep heeft gedaan op het in het eerste lid bepaalde of terzake bijstand heeft verleend.
 
-5. In geval van een beëindiging van de arbeidsovereenkomst van degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is in openbare dienst door het bevoegd gezag in strijd met deze wet, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
+5. In geval van een beëindiging van de arbeidsovereenkomst van degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is in openbare dienst door het bevoegd gezag in strijd met deze wet, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of [artikel 1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
 
 6. Elk beding dat strijdig is met het in het eerste lid bepaalde is nietig.
 
 ##### Artikel 2
 
-1. Het is niet toegelaten onderscheid te maken met betrekking tot de voorwaarden voor de toegang tot en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep, alsmede wat betreft regelingen tussen beroepsgenoten inzake sociale zekerheid niet zijnde pensioenvoorzieningen als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12a&z=2015-07-01&g=2015-07-01).
+1. Het is niet toegelaten onderscheid te maken met betrekking tot de voorwaarden voor de toegang tot en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep, alsmede wat betreft regelingen tussen beroepsgenoten inzake sociale zekerheid niet zijnde pensioenvoorzieningen als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12a&z=2026-01-01&g=2026-01-01).
 
 2. Indien een regeling als bedoeld in het eerste lid betrekking heeft op ziekte of arbeidsongeschiktheid mag daarin geen uitzondering worden gemaakt voor zwangerschap en bevalling, onverminderd de bevoegdheid bepalingen op te nemen ter voorkoming van misbruik en oneigenlijk gebruik.
 
@@ -112,9 +112,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 5
 
-1. Van het in de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2015-07-01&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2015-07-01&g=2015-07-01) bepaalde mag worden afgeweken indien het gemaakte onderscheid beoogt vrouwen in een bevoorrechte positie te plaatsen teneinde nadelen op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot het beoogde doel.
+1. Van het in de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) bepaalde mag worden afgeweken indien het gemaakte onderscheid beoogt vrouwen in een bevoorrechte positie te plaatsen teneinde nadelen op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot het beoogde doel.
 
-2. Voor zover het betreft de toegang tot beroepsactiviteiten of de hiervoor noodzakelijke opleidingen mag van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2015-07-01&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2015-07-01&g=2015-07-01) worden afgeweken indien het gemaakte onderscheid is gebaseerd op een kenmerk dat verband houdt met het geslacht en dat kenmerk wegens de aard van de betrokken specifieke beroepsactiviteiten of de context waarin deze worden uitgevoerd, een wezenlijk en bepalend beroepsvereiste is, mits het doel legitiem is en het vereiste evenredig aan dat doel is.
+2. Voor zover het betreft de toegang tot beroepsactiviteiten of de hiervoor noodzakelijke opleidingen mag van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) worden afgeweken indien het gemaakte onderscheid is gebaseerd op een kenmerk dat verband houdt met het geslacht en dat kenmerk wegens de aard van de betrokken specifieke beroepsactiviteiten of de context waarin deze worden uitgevoerd, een wezenlijk en bepalend beroepsvereiste is, mits het doel legitiem is en het vereiste evenredig aan dat doel is.
 
 3. Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor een kenmerk als bedoeld in het tweede lid, een wezenlijk en bepalend beroepsvereiste is, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor geestelijke ambten dan wel beroepsactiviteiten die bij algemene maatregel van bestuur zijn aangewezen.
 
@@ -136,19 +136,19 @@ Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt
 
 ##### Artikel 8
 
-Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01) wordt arbeid gewaardeerd volgens een deugdelijk stelsel van functiewaardering, waarbij zoveel mogelijk wordt aangesloten bij het stelsel dat gebruikelijk is in de onderneming waarin de belanghebbende werknemer werkzaam is. Bij gebreke van een zodanig stelsel wordt de arbeid, gelet op de beschikbare gegevens, naar billijkheid gewaardeerd.
+Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) wordt arbeid gewaardeerd volgens een deugdelijk stelsel van functiewaardering, waarbij zoveel mogelijk wordt aangesloten bij het stelsel dat gebruikelijk is in de onderneming waarin de belanghebbende werknemer werkzaam is. Bij gebreke van een zodanig stelsel wordt de arbeid, gelet op de beschikbare gegevens, naar billijkheid gewaardeerd.
 
 ##### Artikel 9
 
-1. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01) wordt het loon van de belanghebbende werknemer geacht gelijk te zijn aan het loon dat een werknemer van de andere kunne voor arbeid van gelijke waarde pleegt te ontvangen, indien het is berekend op grondslag van gelijkwaardige maatstaven.
+1. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) wordt het loon van de belanghebbende werknemer geacht gelijk te zijn aan het loon dat een werknemer van de andere kunne voor arbeid van gelijke waarde pleegt te ontvangen, indien het is berekend op grondslag van gelijkwaardige maatstaven.
 
-2. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01) worden andere dan geldelijke loonbestanddelen in aanmerking genomen naar de waarde, welke daaraan in het economisch verkeer kan worden toegekend.
+2. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) worden andere dan geldelijke loonbestanddelen in aanmerking genomen naar de waarde, welke daaraan in het economisch verkeer kan worden toegekend.
 
 3. Ingeval een arbeidsduur is overeengekomen, welke korter is dan die welke in overeenkomstige arbeidsverhoudingen in de regel geacht wordt een volledige dienstbetrekking te vormen, wordt het loon, voorzover het naar tijdsduur wordt berekend, naar evenredigheid verminderd.
 
 ##### Artikel 10
 
-Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=8&z=2015-07-01&g=2015-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=9&z=2015-07-01&g=2015-07-01) bepaalde.
+Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) bepaalde.
 
 ##### Artikel 11
 
@@ -156,7 +156,7 @@ Vervallen
 
 ##### Artikel 12
 
-Bij de toepassing van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2015-07-01&g=2015-07-01) van deze wet is deze paragraaf van overeenkomstige toepassing.
+Bij de toepassing van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2026-01-01&g=2026-01-01) van deze wet is deze paragraaf van overeenkomstige toepassing.
 
 #### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
 
@@ -166,21 +166,21 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder pensi
 
 ##### Artikel 12b
 
-1. Het is ook aan anderen dan de werkgever bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of het bevoegd gezag bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01) niet toegestaan onderscheid te maken wat betreft de bepaling van de kring van personen voor wie een pensioenvoorziening tot stand wordt gebracht, wat betreft de bepaling van de inhoud van een pensioenvoorziening of wat betreft de wijze van uitvoering daarvan.
+1. Het is ook aan anderen dan de werkgever bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of het bevoegd gezag bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01) niet toegestaan onderscheid te maken wat betreft de bepaling van de kring van personen voor wie een pensioenvoorziening tot stand wordt gebracht, wat betreft de bepaling van de inhoud van een pensioenvoorziening of wat betreft de wijze van uitvoering daarvan.
 
-2. Bepalingen krachtens welke de verwerving van pensioenaanspraken wordt onderbroken gedurende de periode van zwangerschaps- en bevallingsverlof op grond van een wettelijke bepaling of overeenkomst, worden voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01) en het eerste lid beschouwd als strijdig met het verbod van ongelijke behandeling van mannen en vrouwen.
+2. Bepalingen krachtens welke de verwerving van pensioenaanspraken wordt onderbroken gedurende de periode van zwangerschaps- en bevallingsverlof op grond van een wettelijke bepaling of overeenkomst, worden voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01) en het eerste lid beschouwd als strijdig met het verbod van ongelijke behandeling van mannen en vrouwen.
 
 ##### Artikel 12c
 
-1. In geval van een uitkeringsovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2015-07-01&g=2015-07-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01) buiten beschouwing, voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
+1. In geval van een uitkeringsovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2026-01-01&g=2026-01-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01) buiten beschouwing, voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
 
-2. In geval van een premieovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een kapitaalovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2015-07-01&g=2015-07-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01) buiten beschouwing en wordt:
+2. In geval van een premieovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een kapitaalovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2026-01-01&g=2026-01-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01) buiten beschouwing en wordt:
 
 - a. of de omvang van de uit de premieovereenkomst of kapitaaloverovereenkomst voortvloeiende periodieke pensioenuitkering voor mannen en vrouwen gelijk getrokken;
 
 - b. of de door de werkgever beschikbaar gestelde premie respectievelijk de opbouw van aanspraak op kapitaal zodanig vastgesteld dat naar het inzicht op het tijdstip van vaststelling, de omvang van de pensioenen voor mannen en vrouwen gelijk wordt getrokken.
 
-3. In geval van een uitkeringsregeling als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) blijft de omvang van de geldelijke bijdrage van de beroepsgenoot voor de toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01) buiten beschouwing voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
+3. In geval van een uitkeringsregeling als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) blijft de omvang van de geldelijke bijdrage van de beroepsgenoot voor de toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01) buiten beschouwing voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
 
 4. In geval van een premieregeling of een aanspraak op kapitaal op basis van een kapitaalregeling als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) wordt de omvang van het daaruit voortvloeiende pensioen voor mannen en vrouwen gelijk getrokken.
 
@@ -188,15 +188,15 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder pensi
 
 ##### Artikel 12d
 
-In afwijking van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01) zijn toegestaan bepalingen die betrekking hebben op bescherming van de vrouw met name in verband met zwangerschap en moederschap.
+In afwijking van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01) zijn toegestaan bepalingen die betrekking hebben op bescherming van de vrouw met name in verband met zwangerschap en moederschap.
 
 ##### Artikel 12e
 
-Iedere bepaling die strijdig is met het verbod van ongelijke behandeling van mannen en vrouwen bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01) is nietig.
+Iedere bepaling die strijdig is met het verbod van ongelijke behandeling van mannen en vrouwen bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01) is nietig.
 
 ##### Artikel 12f
 
-Het bepaalde in [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) is van overeenkomstige toepassing bij beëindiging van de dienstbetrekking door de werkgever wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2015-07-01&g=2015-07-01).
+Het bepaalde in [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of [artikel 1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) is van overeenkomstige toepassing bij beëindiging van de dienstbetrekking door de werkgever wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 13
 
@@ -240,7 +240,7 @@ Vervallen
 
 1. Met het toezicht op de naleving van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen ambtenaren. Onze Minister van Sociale Zaken en Werkgelegenheid kan ten behoeve van dit toezicht een onderzoek doen instellen door die ambtenaren. Voorzover het de openbare dienst betreft kan Onze Minister van Binnenlandse Zaken Onze Minister van Sociale Zaken en Werkgelegenheid verzoeken een onderzoek als bedoeld in de tweede volzin te doen instellen. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-2. Indien uit een onderzoek blijkt dat een onderscheid is of wordt gemaakt als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of in deze wet doet Onze Minister van Sociale Zaken en Werkgelegenheid hiervan mededeling aan de natuurlijke persoon, rechtspersoon of het bevoegde gezag dat het onderscheid heeft gemaakt of maakt, en, indien het een onderscheid als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2015-07-01&g=2015-07-01) of [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2015-07-01&g=2015-07-01) van deze wet betreft, aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel.
+2. Indien uit een onderzoek blijkt dat een onderscheid is of wordt gemaakt als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of in deze wet doet Onze Minister van Sociale Zaken en Werkgelegenheid hiervan mededeling aan de natuurlijke persoon, rechtspersoon of het bevoegde gezag dat het onderscheid heeft gemaakt of maakt, en, indien het een onderscheid als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01) of [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2026-01-01&g=2026-01-01) van deze wet betreft, aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel.
 
 De mededeling aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken personen ten nadele van wie het onderscheid is of wordt gemaakt kan worden afgeleid.
 
@@ -250,7 +250,7 @@ Vervallen
 
 ##### Artikel 23
 
-De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2015-07-01&g=2015-07-01), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2015-07-01&g=2015-07-01) wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
+De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
 
 ##### Artikel 24
 
@@ -262,7 +262,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 1c
 
-Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
+Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of de [artikelen 1614aa](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614aa) en [1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
 
 ##### Artikel 4a
 
@@ -275,5 +275,11 @@ Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder 
 #### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
 
 #### § 4. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 23a
+
+De [artikelen 1 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
