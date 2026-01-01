@@ -4,7 +4,7 @@ identifier: "BWBR0036709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-06-27"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036709"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. De minister start het opstellen van zijn zienswijze, indien de aanvraag volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-06-27&g=2025-06-27), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
+1. De minister start het opstellen van zijn zienswijze, indien de aanvraag volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
 
 2. Indien de toegelaten instelling verzuimt de bij de aanvraag ontbrekende bescheiden te verstrekken, kan de minister besluiten de aanvraag niet in behandeling te nemen. Hij stelt de toegelaten instelling onverwijld daarvan in kennis.
 
@@ -152,7 +152,7 @@ Vervallen
 
 - d. is dat taxatierapport en de daarin gehanteerde waardepeildatum op het tijdstip van ondertekening van een koopovereenkomst, strekkende tot vervreemding van een daarin getaxeerde woongelegenheid, niet ouder dan zes maanden, of niet ouder dan vierentwintig maanden, met dien verstande dat het taxatierapport in dat laatste geval vergezeld gaat van een markttechnische update van maximaal drie maanden oud.
 
-2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2025-06-27&g=2025-06-27), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
+2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
 
 - a. doorlopend toezicht op de naleving van de gedragsregels;
 
@@ -196,7 +196,7 @@ De voorwaarden, bedoeld in [artikel 22, eerste lid, onderdeel a, onder 2°, onde
 
 5. Indien uit de gegevens, bedoeld in het derde lid, een huishoudinkomen blijkt dat hoger is dan het bedrag, genoemd in [artikel 22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), terwijl naar het oordeel van degene die als eigenaar de betrokken woongelegenheid wenst te betrekken het huishoudinkomen niet hoger is dan dat bedrag, kan hij dat oordeel met een onderbouwing daarvan aan de toegelaten instelling overleggen, in welk geval de gegevens, bedoeld in het eerste lid, onderdeel b, voorts zijn de gegevens overeenkomstig het vierde lid, onderdeel b, onder 1° en 2°.
 
-6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2025-06-27&g=2025-06-27) bij deze regeling.
+6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 12
 
@@ -210,25 +210,25 @@ Vervallen
 
 ##### Artikel 14
 
-1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) bij deze regeling.
+1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) bij deze regeling.
+2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 15
 
-1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2025-06-27&g=2025-06-27) bij deze regeling.
+1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2025-06-27&g=2025-06-27) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
+2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
 
-3. In de toelichting van de jaarrekening worden de beleidswaarde en de maatschappelijke bestemming overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) opgenomen.
+3. In de toelichting van de jaarrekening worden de beleidswaarde en de maatschappelijke bestemming overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) opgenomen.
 
 ##### Artikel 16
 
-Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2025-06-27&g=2025-06-27) bij deze regeling.
+Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 17
 
-Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2025-06-27&g=2025-06-27) bij deze regeling.
+Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ### Hoofdstuk III. Werkzaamheden van toegelaten instellingen
 
@@ -242,9 +242,9 @@ Vervallen
 
 ##### Artikel 19
 
-1. Het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), wordt ingericht overeenkomstig het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=5&z=2025-06-27&g=2025-06-27) bij deze regeling opgenomen model.
+1. Het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), wordt ingericht overeenkomstig het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=5&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen model.
 
-2. De definities ‘beheer’ en ‘onderhoud’ als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) zijn van overeenkomstige toepassing op het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a).
+2. De definities ‘beheer’ en ‘onderhoud’ als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a).
 
 #### § 1. Uitvoering van de gemeentelijke woonvisie
 
@@ -312,9 +312,9 @@ Vervallen
 
 - d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
 
-10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2025-06-27&g=2025-06-27) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
+10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
 
-11. De in [bijlage 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4) genoemde index I1 en index I2 zijn 1,0413 respectievelijk 1,1279.
+11. De in [bijlage 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4) genoemde index I1 en index I2 zijn 1,0376 respectievelijk 1,0805.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -410,9 +410,9 @@ De waardering van de activa bedoeld in [artikel 86, tweede lid, onder c van het 
 
 Het percentage, bedoeld in:
 
-- a. [artikel 54, eerste lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=54), bedraagt 4,5;
+- a. [artikel 54, eerste lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=54), bedraagt 3,6;
 
-- b. artikel 54, eerste lid, tweede zin, van de wet, bedraagt 4,6.
+- b. artikel 54, eerste lid, tweede zin, van de wet, bedraagt 3,7.
 
 #### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling (gereserveerd)
 
@@ -466,7 +466,7 @@ Het percentage, bedoeld in:
 
 ##### Artikel 43
 
-De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2025-06-27&g=2025-06-27) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2025-06-27&g=2025-06-27) bij deze regeling.
+De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
@@ -584,7 +584,7 @@ Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring v
 
 Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2024-04-24&g=2024-04-24), en [artikel 22, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2024-04-24&g=2024-04-24), van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
 
-Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2025-06-27&g=2025-06-27), en [artikel 22, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2025-06-27&g=2025-06-27), van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
+Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid, aanhef, en onder b,](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01) en [artikel 22, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2026-01-01&g=2026-01-01), van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
 
 ### •. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
@@ -592,15 +592,15 @@ Schema A. betreft toetsing aan de hand van gegevens van de Belastingdienst.
 
 ### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
-Ter bepaling van het huishoudinkomen (in 2025) worden de verzamelinkomens uit het jaar 2024 respectievelijk 2023 geïndexeerd met index I1 (=1,0413) respectievelijk index I2 (=1,1279). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2024, respectievelijk 2023.
+Ter bepaling van het huishoudinkomen (in 2026) worden de verzamelinkomens uit het jaar 2025 respectievelijk 2024 geïndexeerd met index I1 (=1,0376) respectievelijk index I2 (=1,0805). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2025, respectievelijk 2024.
 
 ### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
 ### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
-Bepaal de samenstelling van het huishouden (woningzoekende en eventuele medebewoners, inclusief eventuele kinderen), en bepaal aan de hand daarvan of het huishoudinkomen moet worden getoetst.1**Uitzondering op de inkomenstoets:**i.statushouders die, uitsluitend met medebewoners die statushouder zijn, vanuit een COA-voorziening een sociale huurwoning betrekken (een verklaring van het COA, niet ouder dan 6 maanden, volstaat);ii.woningzoekenden die studiefinanciering genieten, die voltijds studeren of gaan promoveren en die de woongelegenheid als enig student of met maximaal één andere student willen betrekken (bewijs van inschrijving aan de onderwijsinstelling waaruit blijkt dat de betrokkene bij één van de genoemde doelgroepen behoort of bewijs van studiefinanciering verstrekt door DUO volstaat);iii.uit het buitenland afkomstige studenten aan een instelling voor hoger of wetenschappelijk onderwijs (bewijs van inschrijving aan de onderwijsinstelling volstaat);iv.woningzoekenden met een zorgindicatie zoals bedoeld in artikel 57, onderdeel b tot en met d, van het Besluit toegelaten instellingen volkshuisvesting 2015 en die op grond daarvan ook bij een inkomen boven de inkomensgrens van € 49.669 voor eenpersoonshuishoudens of de tijdelijk verhoogde inkomensgrens van € 54.847 voor meerpersoonshuishoudens (in 2025) recht hebben op een sociale huurwoning (bij de toetsing kan worden volstaan met de indicatie voor verblijf of voor ADL-assistentie, dan wel het deel van het zorgplan van de wijkverpleegkundige waaruit blijkt dat de betrokkene een zorgindicatie voor minimaal 10 uur verpleging of verzorging per week voor een periode van ten minste één jaar heeft). (zie uitzonderingen)
+Bepaal de samenstelling van het huishouden (woningzoekende en eventuele medebewoners, inclusief eventuele kinderen), en bepaal aan de hand daarvan of het huishoudinkomen moet worden getoetst.1**Uitzondering op de inkomenstoets:**i. statushouders die, uitsluitend met medebewoners die statushouder zijn, vanuit een COA-voorziening een sociale huurwoning betrekken (een verklaring van het COA, niet ouder dan 6 maanden, volstaat);ii. woningzoekenden die studiefinanciering genieten, die voltijds studeren of gaan promoveren en die de woongelegenheid als enig student of met maximaal één andere student willen betrekken (bewijs van inschrijving aan de onderwijsinstelling waaruit blijkt dat de betrokkene bij één van de genoemde doelgroepen behoort of bewijs van studiefinanciering verstrekt door DUO volstaat);iii. uit het buitenland afkomstige studenten aan een instelling voor hoger of wetenschappelijk onderwijs (bewijs van inschrijving aan de onderwijsinstelling volstaat);iv. woningzoekenden met een zorgindicatie zoals bedoeld in artikel 57, onderdeel b tot en met d, van het Besluit toegelaten instellingen volkshuisvesting 2015 en die op grond daarvan ook bij een inkomen boven de inkomensgrens van € 49.669 voor eenpersoonshuishoudens of de tijdelijk verhoogde inkomensgrens van € 54.847 voor meerpersoonshuishoudens (in 2025) recht hebben op een sociale huurwoning (bij de toetsing kan worden volstaan met de indicatie voor verblijf of voor ADL-assistentie, dan wel het deel van het zorgplan van de wijkverpleegkundige waaruit blijkt dat de betrokkene een zorgindicatie voor minimaal 10 uur verpleging of verzorging per week voor een periode van ten minste één jaar heeft). (zie uitzonderingen)
 
-Toets huishoudinkomen van woningzoekende en overige leden huishouden (indien van toepassing; exclusief het inkomen van de eventuele kinderen) o.b.v. (voorlopige) aanslag IB of inkomensverklaring van de Belastingdienst. 2**Uitzonderingen op de verplichte toetsing aan de hand van belastingbescheiden zijn:**i.woningzoekenden van wie de inkomensgegevens blijkens een verklaring van die dienst niet bekend zijn bij de Belastingdienst;ii.woningzoekenden van wie het actuele inkomen dusdanig is gedaald ten opzichte van het door de Belastingdienst vermelde inkomen dat het inmiddels onder de voor hen toepasselijke inkomensgrens is komen te liggen;iii.woningzoekenden die, blijkens een specificatie daarvan, een algemene bijstandsuitkering ingevolge de Participatiewet ontvangen;iv.woningzoekende arbeidsmigranten uit een van de lidstaten als bedoeld in artikel 22, achtste lid, van deze regeling, aan wie een woning wordt toegewezen via een rechtspersoon die beschikt over een in dat artikellid genoemd keurmerk. (zie uitzonderingen)
+Toets huishoudinkomen van woningzoekende en overige leden huishouden (indien van toepassing; exclusief het inkomen van de eventuele kinderen) o.b.v. (voorlopige) aanslag IB of inkomensverklaring van de Belastingdienst.2**Uitzonderingen op de verplichte toetsing aan de hand van belastingbescheiden zijn:**i. woningzoekenden van wie de inkomensgegevens blijkens een verklaring van die dienst niet bekend zijn bij de Belastingdienst;ii. woningzoekenden van wie het actuele inkomen dusdanig is gedaald ten opzichte van het door de Belastingdienst vermelde inkomen dat het inmiddels onder de voor hen toepasselijke inkomensgrens is komen te liggen;iii. woningzoekenden die, blijkens een specificatie daarvan, een algemene bijstandsuitkering ingevolge de Participatiewet ontvangen;iv. woningzoekende arbeidsmigranten uit een van de lidstaten als bedoeld in artikel 22, achtste lid, van deze regeling, aan wie een woning wordt toegewezen via een rechtspersoon die beschikt over een in dat artikellid genoemd keurmerk. (zie uitzonderingen)
 
 N.b. de aanwezigheid van kinderen in het huishouden dient te worden opgegeven om de voor het huishouden toepasselijke aftoppingsgrens voor de huurtoeslag te bepalen. Het inkomen van deze kinderen telt niet mee voor de toets.
 
@@ -608,7 +608,7 @@ Huishoudinkomen =
 
 ### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
-Verzamelinkomen als door Belastingdienst vastgesteld over 2023 x 1,1279
+Verzamelinkomen als door Belastingdienst vastgesteld over 2024 × 1,0805
 
 Bepaal of het huishoudinkomen:
 
@@ -624,7 +624,7 @@ Controleer het door de woningzoekende geschatte actuele huishoudinkomen o.b.v. o
 
 ### Actualisatie peildatum 31 december 2020
 
-Bij **inkomen uit overige werkzaamheden** (niet in loondienst en geen inkomen uit onderneming) wordt een schatting gemaakt van het belastbaar jaarinkomen uit de opbrengsten van die werkzaamheden minus de daarvoor gemaakte kosten.
+Bij inkomen uit overige werkzaamheden (niet in loondienst en geen inkomen uit onderneming) wordt een schatting gemaakt van het belastbaar jaarinkomen uit de opbrengsten van die werkzaamheden minus de daarvoor gemaakte kosten.
 
 ### 1. Vooraf
 
@@ -668,7 +668,7 @@ Het [Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.n
 
 ### 1.1. Eerdere versies van het handboek
 
-Op basis van [artikel 31 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) kunnen ook nadere voorschriften worden gegeven aan de waardering op marktwaarde. Overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2025-06-27&g=2025-06-27) van de Regeling toegelaten instellingen volkshuisvesting (RTIV) is dit handboek daar het uitvloeisel van. Omdat de marktwaarde in verhuurde staat wordt bepaald op basis van een systematiek die vergelijkbaar is met de marktwaardebepaling voor commerciële partijen, is in de waardering een aantal aspecten opgenomen, die niet per definitie in lijn liggen met het beleid van een toegelaten instelling. Deze aspecten zien onder meer op de verkoopfictie, het inrekenen van marktconforme huurprijzen na woningmutatie alsmede het onderhouds- en beheerlasten niveau. In dit waarderingshandboek is derhalve bepaald dat een toegelaten instelling bij de waardering op marktwaarde ook moet aangeven welk deel van de marktwaarde zij kan realiseren rekening houdend met haar beleid (de beleidswaarde) en welk deel van de marktwaarde zij niet zal realiseren (de maatschappelijke bestemming). De beleidswaarde en de maatschappelijke bestemming dienen in de toelichting van de jaarrekening te worden opgenomen.
+Op basis van [artikel 31 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) kunnen ook nadere voorschriften worden gegeven aan de waardering op marktwaarde. Overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting (RTIV) is dit handboek daar het uitvloeisel van. Omdat de marktwaarde in verhuurde staat wordt bepaald op basis van een systematiek die vergelijkbaar is met de marktwaardebepaling voor commerciële partijen, is in de waardering een aantal aspecten opgenomen, die niet per definitie in lijn liggen met het beleid van een toegelaten instelling. Deze aspecten zien onder meer op de verkoopfictie, het inrekenen van marktconforme huurprijzen na woningmutatie alsmede het onderhouds- en beheerlasten niveau. In dit waarderingshandboek is derhalve bepaald dat een toegelaten instelling bij de waardering op marktwaarde ook moet aangeven welk deel van de marktwaarde zij kan realiseren rekening houdend met haar beleid (de beleidswaarde) en welk deel van de marktwaarde zij niet zal realiseren (de maatschappelijke bestemming). De beleidswaarde en de maatschappelijke bestemming dienen in de toelichting van de jaarrekening te worden opgenomen.
 
 ### 1.2. Werkwijze totstandkoming
 
@@ -1555,21 +1555,21 @@ Schema B. moet worden toegepast indien Belastingdienst gegevens ontbreken.
 
 ### Inhoudsopgave
 
-Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring van de Belastingdienst of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in [artikel 22, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2025-06-27&g=2025-06-27), van de ministeriële regeling zich voordoen (zie ook hierna).
+Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring van de Belastingdienst of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in [artikel 22, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2026-01-01&g=2026-01-01), van de ministeriële regeling zich voordoen (zie ook hierna).
 
 Schema B. moet worden toegepast indien gegevens van de Belastingdienst ontbreken.
 
-Verzamelinkomen als door Belastingdienst vastgesteld over 2024 x 1,0413, of
+Verzamelinkomen als door Belastingdienst vastgesteld over 2025 × 1,0376, of
 
 ### 1.1. Eerdere versies van het handboek
 
-N.b. de laatstbedoelde inkomensgrens is tevens de grens die geldt bij verkoop onder voorwaarden met korting als bedoeld in [artikel 11, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2025-06-27&g=2025-06-27), van deze regeling.
+N.b. de laatstbedoelde inkomensgrens is tevens de grens die geldt bij verkoop onder voorwaarden met korting als bedoeld in [artikel 11, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), van deze regeling.
 
 ### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
 
 ### ** Uitzonderingen op de verplichte toetsing aan de hand van belastingbescheiden zijn:
 
-Voor het lopende jaar (2025) kan dit jaarinkomen vastgesteld worden aan de hand van de laatste winst- en verliesrekening, waarbij het aldus vastgesteld belastbaar inkomen (over 2024) vermenigvuldigd dient te worden met 1,0413. Voor het lopende jaar kan de verwachte winst bepaald worden op basis van een prognose.
+Voor het lopende jaar (2026) kan dit jaarinkomen vastgesteld worden aan de hand van de laatste winst- en verliesrekening, waarbij het aldus vastgesteld belastbaar inkomen (over 2025) vermenigvuldigd dient te worden met 1,0376. Voor het lopende jaar kan de verwachte winst bepaald worden op basis van een prognose.
 
 ### 2. Inleiding
 
@@ -2682,7 +2682,7 @@ De hoogten van I1 en I2 worden jaarlijks bij ministeriële regeling gepubliceerd
 
 ### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
 
-Voor het lopende jaar (2025) kan dit jaarinkomen vastgesteld worden door het belastbaar jaarinkomen van 2024 te vermenigvuldigen met 1,0413. Voor het lopende jaar kan het betreffende belastbaar jaarinkomen bepaald worden op basis van een prognose.
+Voor het lopende jaar (2026) kan dit jaarinkomen vastgesteld worden door het belastbaar jaarinkomen van 2025 te vermenigvuldigen met 1,0376. Voor het lopende jaar kan het betreffende belastbaar jaarinkomen bepaald worden op basis van een prognose.
 
 ### 1.4. Overige punten
 
@@ -3277,7 +3277,7 @@ De gevallen, bedoeld in [artikel 22, eerste lid, onderdeel d, van het besluit](h
 
 ##### Artikel 19b
 
-Binnen vier weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2025-06-27&g=2025-06-27), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
+Binnen vier weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2026-01-01&g=2026-01-01), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
 
 ##### Artikel 19c
 
@@ -5432,7 +5432,7 @@ De verouderingsopslag van 100% op het instandhoudingsonderhoud is in het uitpond
 
 ### Onderzoeksobjecten
 
-## Bijlage 4. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=17&z=2025-06-27&g=2025-06-27) van de Regeling toegelaten instellingen volkshuisvesting 2015 (verslagjaar 2024)
+## Bijlage 4. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015 (verslagjaar 2025)
 
 ### Accountantsprotocol
 
@@ -5442,7 +5442,7 @@ Voor de beleidswaarde geldt dat de overdrachtskosten 0 zijn. Het effect van geen
 
 De Autoriteit woningcorporaties (Aw) steunt bij het uitvoeren van de toezichtstaken op de controlewerkzaamheden van de accountants bij woningcorporaties. Het accountantsprotocol beschrijft de minimale werkzaamheden van de accountants bij woningcorporaties.
 
-Het accountantsprotocol wordt jaarlijks geactualiseerd. Dit gebeurt op basis van onder andere aangepaste wet- en regelgeving, gewijzigde inzichten, actuele ontwikkelingen en risico inschattingen. De controlewerkzaamheden beschreven in rubriek B en C zijn beperkt gewijzigd voor verslagjaar 2024. Ook vervallen voor verslagjaar 2024 de controlewerkzaamheden van de huursombenadering in rubriek C weer.
+Het accountantsprotocol wordt jaarlijks geactualiseerd. Dit gebeurt op basis van onder andere aangepaste wet- en regelgeving, gewijzigde inzichten, actuele ontwikkelingen en risico inschattingen. De controlewerkzaamheden beschreven in rubriek B en C zijn beperkt gewijzigd voor verslagjaar 2025.
 
 Verder zijn door het hele accountantsprotocol tekstuele wijzigingen doorgevoerd en is de presentatie aangepast voor betere leesbaarheid. Waar in het protocol gesproken wordt over woningcorporaties, worden toegelaten instellingen volgens [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) bedoeld.
 
@@ -6016,7 +6016,7 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 - b. de bepaling dat de rente ten hoogste het door de borgingsvoorziening ten behoeve van de borging van leningen aan toegelaten instellingen gehanteerde spottarief inzake het actuele rentemaximum bij een looptijd tot en met vijf jaar bedraagt;
 
-- c. de bepaling dat, indien zodanige leningen worden aangetrokken zonder gebruikmaking van de borgingsvoorziening, gebruik wordt gemaakt van de modelovereenkomst die is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2025-06-27&g=2025-06-27) bij deze regeling;
+- c. de bepaling dat, indien zodanige leningen worden aangetrokken zonder gebruikmaking van de borgingsvoorziening, gebruik wordt gemaakt van de modelovereenkomst die is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2026-01-01&g=2026-01-01) bij deze regeling;
 
 - d. de bepaling dat zodanige leningen uitsluitend worden verstrekt uit middelen die zijn ondergebracht in de daeb-tak.
 
@@ -6028,7 +6028,7 @@ Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.o
 
 #### § 2. Slotbepalingen
 
-## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2025-06-27&g=2025-06-27), en [22, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2025-06-27&g=2025-06-27), van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [22, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2026-01-01&g=2026-01-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 1.4. Overige punten
 
@@ -6270,9 +6270,9 @@ Ten aanzien van scenario 3, interne waardering, kan het volgende stappenplan als
 
 De Aw stelt geen specifieke eisen aan de controle van de jaarrekening. Rubriek A van het accountantsprotocol is feitelijk een samenvatting van de wet- en regelgeving die van toepassing is op de jaarrekening van woningcorporaties en op de controle door accountants bij woningcorporaties.
 
-Sinds 1 januari 2020 zijn woningcorporaties met meer dan 5.000 verhuureenheden aangemerkt als Organisatie van Openbaar Belang (OOB)1Het ministerie verwacht dat de voorgenomen verhoging van de OOB grens naar 10.000 verhuureenheden vanaf 1 januari 2026 voor corporaties geldt. Zie kamerbrief met referentie 2024-0000243132 van 19 juni 2024.. Door deze wijziging [meldt de accountant situaties zoals beschreven in artikel 12 van de EU-verordening online bij de Aw.](https://www.ilent.nl/onderwerpen/meldingen-vragen-en-klachten-over-woningcorporaties/verplichte-meldingen-voor-accountantsorganisaties)
+Sinds 1 januari 2020 zijn woningcorporaties met meer dan 5.000 verhuureenheden aangemerkt als Organisatie van Openbaar Belang (OOB)3Het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO)verwacht dat de voorgenomen verhoging van de OOB grens naar 20.000 verhuureenheden vanaf 1 januari 2026 voor corporaties geldt. Zie kamerbrief met referentie 2024-0000904449 van 4 december 2024.. Door deze wijziging [meldt de accountant situaties zoals beschreven in artikel 12 van de EU-verordening online bij de Aw](https://www.ilent.nl/onderwerpen/meldingen-vragen-en-klachten-over-woningcorporaties/verplichte-meldingen-voor-accountantsorganisaties).
 
-De modelteksten voor de controleverklaring en de assurance-rapporten vindt u op de [website van de Nederlandse Beroepsvereniging voor Accountants (NBA).](https://www.nba.nl/)
+De modelteksten voor de controleverklaring en de assurance-rapporten vindt u op de [website van de Nederlandse Beroepsvereniging voor Accountants (NBA)](https://www.nba.nl/).
 
 ## Bijlage 8. bij [artikel 22e](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22e&z=2017-10-01&g=2017-10-01) Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -6370,7 +6370,7 @@ Naam: ___________________
 
 ### 20.2.2. Stap 1: beschikbaarheid (doorexploiteren)
 
-Deze onderzoeksobjecten en de accountantswerkzaamheden die daaraan zijn gekoppeld, worden in dit accountantsprotocol behandeld in de rubrieken A, B en C. Hierbij zijn de verdere doelstellingen per onderdeel uitgewerkt en vindt u de regelgeving die hierop specifiek van toepassing is. Verder worden per onderdeel verdere aanwijzingen voor de werkzaamheden van de accountant benoemd. Zie hiervoor [hoofdstuk 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&z=2025-06-27&g=2025-06-27).
+Deze onderzoeksobjecten en de accountantswerkzaamheden die daaraan zijn gekoppeld, worden in dit accountantsprotocol behandeld in de rubrieken A, B en C. Hierbij zijn de verdere doelstellingen per onderdeel uitgewerkt en vindt u de regelgeving die hierop specifiek van toepassing is. Verder worden per onderdeel verdere aanwijzingen voor de werkzaamheden van de accountant benoemd. Zie hiervoor hoofdstuk 2 tot en met 4.
 
 De accountantswerkzaamheden met betrekking tot de onderzoeksobjecten leiden tot een aantal accountantsrapportages. Deze vindt u op de website van de NBA. De accountant levert de volgende rapportages:
 
@@ -6394,7 +6394,7 @@ Voor de uitkomst van het onderzoek bij het 3e punt mag de accountant volstaan me
 
 ### 2.3. Materialiteit (betrouwbaarheid en nauwkeurigheid)
 
-Bij de controle past de accountant de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen toe. Het is de verantwoordelijkheid van de accountant om deze normen te bepalen, met inachtneming van wat hierover in de NV COS is opgenomen. Voor de werkzaamheden die volgen uit de [Regeling Controleprotocol WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0049784), is de materialiteit die in dat protocol is opgenomen van toepassing.
+Bij de controle past de accountant de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen toe. Het is de verantwoordelijkheid van de accountant om deze normen te bepalen, met inachtneming van wat hierover in de NV COS is opgenomen. Voor de werkzaamheden die volgen uit de [Regeling Controleprotocol WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0051144), is de materialiteit die in dat protocol is opgenomen van toepassing.
 
 De definitie van onderhoud vanuit eigen beleid is gelijk aan de definitie gehanteerd in de post ‘lasten onderhoudsactiviteiten’ in de functionele winst en verliesrekening in de rubriek ‘Netto resultaat exploitatie vastgoedportefeuille’, met uitzondering van het deel dat betrekking heeft op de zogenaamde ingrijpende verbouwing. Een toelichting van deze definitie is opgenomen in bijlage 1 van dit handboek.
 
@@ -6404,7 +6404,7 @@ De huuraanpassing van geliberaliseerde woningen is in de beleidswaarde gelijk aa
 
 ### 3.1. Doel
 
-Het doel van de werkzaamheden van de accountant die leiden tot een assurance-rapport is om een redelijke mate van zekerheid te geven over de nauwkeurigheid en volledigheid van de opgave in onderdeel 5.1 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi. De term nauwkeurigheid vervangt de oude term juistheid, zie standaard 315.A190 (NV COS).
+Het doel van de werkzaamheden van de accountant die leiden tot een assurance-rapport is om een redelijke mate van zekerheid te geven over de nauwkeurigheid en volledigheid van de opgave in onderdeel 5.1 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi.
 
 ### 20.2.4.3. EFG-labels
 
@@ -6418,7 +6418,7 @@ De materialiteit voor de verschillende onderdelen in rubriek B (zie paragraaf 3.
 
 ### 20.2.4.1. Definitie onderhoud
 
-2 De algemene materialiteit die geldt voor de jaarrekeningcontrole.
+2De algemene materialiteit die geldt voor de jaarrekeningcontrole.
 
 ### 20.2.4.2. Achterstallig onderhoud
 
@@ -6428,8 +6428,6 @@ De materialiteit voor de verschillende onderdelen in rubriek B (zie paragraaf 3.
 
 Het assurance-rapport strekt zich uit over de genoemde 5 onderdelen. De accountant verstrekt per onderdeel een afzonderlijk oordeel. De accountant omschrijft en onderbouwt een afwijkend oordeel in het assurance-rapport.
 
-**Het verschil van de uitkomst van deze stap met de uitkomst uit stap 3 is de afslag voor **beheer**.**
-
 Deze paragraaf beschrijft de controlewerkzaamheden met betrekking tot een aantal specifieke artikelen uit de geldende regelgeving. Het gaat om bepalingen wat betreft:
 
 Over de naleving van deze wettelijke bepalingen heeft de woningcorporatie verantwoording afgelegd in onderdeel 5.1 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi.
@@ -6437,6 +6435,8 @@ Over de naleving van deze wettelijke bepalingen heeft de woningcorporatie verant
 De accountant stelt vast dat de woningcorporatie in het verslagjaar aan verbindingen geen aanvullend of ander vermogen heeft verschaft ([Woningwet artikel 21a, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a)). Heeft de woningcorporatie wel vermogen verschaft? Dan stelt de accountant vast dat er ontheffing is verleend zoals bedoeld in de Woningwet, artikel 21a, lid 3. De controle op het verschaffen van vermogen aan verbindingen, heeft betrekking op verbindingen zoals bedoeld in de [Woningwet artikel 1, lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) (dochtermaatschappij), b (deelneming in de zin van [artikel 24c BW2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24c)) en c (duurzame band).
 
 Voor alle vermogensverschaffingen van € 250.000 of hoger stelt de accountant vast dat de vereiste ontheffing is verleend. Dit drempelbedrag geldt alleen voor de controle en de conclusie van de accountant. Voor de woningcorporaties gelden de normale wettelijke bepalingen.
+
+De accountant stelt vast dat de woningcorporatie in het verslagjaar geen nieuwe garantstellingen aan haar verbindingen heeft verleend. Heeft de woningcorporatie wel nieuwe garantstellingen verleend? Dan stelt de accountant vast dat er ontheffing is verleend, zoals bedoeld in [artikel 21a, lid 3 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a). De controle op het verschaffen van garantstellingen aan verbindingen heeft betrekking op verbindingen als bedoeld in de [Woningwet artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) onder a (dochtermaatschappij), b (deelneming in de zin van [artikel 24c boek 2 van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24c)) en c (duurzame band).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -7324,7 +7324,7 @@ De som van alle contante waarden levert de eindwaarde VON ultimo jaar 15 op. Voo
 
 Bij dit handboek hoort ter informatie een tabel met alle viercijferige postcodes en de bij die postcodes horende gebiedsindeling: gemeente, provincie, landsdeel en COROP+4 gebieden.
 
-Geen inhoudelijke wijzigingen.
+Het accountantsprotocol wordt op één punt versoepeld: de controle op meervoudig aanbesteden bij maatschappelijk onroerend goed (MOG) komt te vervallen. Deze aanpassing volgt uit een analyse van de aanbestedingsplicht op dit onderdeel. Uit die analyse blijkt dat de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) weliswaar een aanbestedingsplicht kent, maar geen specifieke verplichting tot meervoudig aanbesteden bij MOG voorschrijft. Op basis daarvan heeft de Aw besloten om de accountantscontrole op dit onderdeel te laten vervallen.
 
 ## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2019-03-30&g=2019-03-30) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -7438,19 +7438,19 @@ Voor de controleverklaring gebruikt de accountant de tekst die is opgenomen op d
 
 De waardering van de marktwaarde bevat de mogelijkheid tot het opnemen van achterstallig onderhoud. Dit is opgevoerd in combinatie/relatie tot de jaarlijkse onderhoudsnorm in de marktwaarde. Wanneer de corporatie haar langjarige beleidsonderhoud opvoert kan dit tot mogelijke dubbelingen leiden, wanneer het eigen onderhoudsbeleid elementen bevat die reeds in de waardering onder achterstallig onderhoud zijn gecorrigeerd op de waarde. De corporatie dient in dat geval de post achterstallig onderhoud te corrigeren voor elementen die reeds in beleidsonderhoudsbegroting zijn opgenomen.
 
-De accountant controleert of de verantwoording over de onderwerpen die in paragraaf 3.5 van dit protocol staan nauwkeurig en volledig is. Dit houdt in dat de accountant toetst of aan de relevante onderdelen van de wet- en regelgeving is voldaan. De accountant stelt vast dat de verantwoording in onderdeel 5.1 van de dVi nauwkeurig en volledig is.
+De accountant controleert of de verantwoording over de onderwerpen die in [paragraaf 3.5](onbekend) van dit protocol staan nauwkeurig en volledig is. Dit houdt in dat de accountant toetst of aan de relevante onderdelen van de wet- en regelgeving is voldaan. De accountant stelt vast dat de verantwoording in onderdeel 5.1 van de dVi nauwkeurig en volledig is.
 
 Voor zover deze niet al in de betreffende paragraaf van dit protocol specifiek zijn benoemd, is de volgende regelgeving en toelichtingen van toepassing op de werkzaamheden van de accountant:
 
-1 Een materialiteit van 0% geldt, in die zin dat de uitkomst goed (geen afwijking van regelgeving), fout (wel afwijking van regelgeving) of onzeker (onzekerheid over de afwijking van de regelgeving) is.
+1Een materialiteit van 0% geldt, in die zin dat de uitkomst goed (geen afwijking van regelgeving), fout (wel afwijking van regelgeving) of onzeker (onzekerheid over de afwijking van de regelgeving) is.
 
-3 Dit betekent dat de accountant alle geconstateerde afwijkingen bij deze onderdelen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’). Ook als dit geen invloed heeft op het afgegeven oordeel.
+3Dit betekent dat de accountant alle geconstateerde afwijkingen bij deze onderdelen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’). Ook als dit geen invloed heeft op het afgegeven oordeel.
 
-Medewerkers die een specifieke functie binnen de organisatie bekleden, kunnen in de praktijk ook binnen andere activiteiten (al dan niet meer operationele) werkzaamheden verrichten. De toerekening aan de diverse onderscheiden activiteiten, dient te zijn gebaseerd op een zo goed mogelijk benadering van de daadwerkelijke omvang van de inzet per activiteit, daarbij rekening houdend met aard en omvang van de organisatie.
+Het assurance-rapport strekt zich uit over de genoemde 4 onderdelen. De accountant verstrekt per onderdeel een afzonderlijk oordeel. De accountant omschrijft en onderbouwt een afwijkend oordeel in het assurance-rapport.
 
 ### 20.2.5. Stap 4: beheer
 
-De accountant stelt vast dat de woningcorporatie in het verslagjaar geen nieuwe garantstellingen aan haar verbindingen heeft verleend. Heeft de woningcorporatie wel nieuwe garantstellingen verleend? Dan stelt de accountant vast dat er ontheffing is verleend, zoals bedoeld in [artikel 21a, lid 3 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a). De controle op het verschaffen van garantstellingen aan verbindingen heeft betrekking op verbindingen als bedoeld in de [Woningwet artikel 1, lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) (dochtermaatschappij), b (deelneming in de zin van [artikel 24c boek 2 van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24c)) en c (duurzame band).
+De accountant onderzoekt of de woningcorporatie in het verslagjaar heeft voldaan aan de verkoopregels uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en Rtiv. Om te bepalen of een vervreemding valt in deze periode, is de datum van het transport van de onroerende zaak bij de notaris bepalend. Voor de werkzaamheden in deze paragraaf geldt dat er geen onderscheid is tussen vervreemding van bestaande woongelegenheden en de vervreemding van nieuwbouw woongelegenheden.
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -7462,7 +7462,7 @@ De accountant stelt vast dat de woningcorporatie in het verslagjaar geen nieuwe 
 
 ### 20.2.9. Nadere toetsing beleidswaarde
 
-Dit is omdat de woningcorporatie niet alle belangrijke rechten op economische voordelen en alle belangrijkste risico’s heeft overgedragen aan de koper. Het is belangrijk om te vermelden dat dergelijke transacties in relatie tot de regelgeving wel kwalificeren als verkooptransactie. De ‘normale’ bepalingen wat betreft de correcte toepassing van de kortingspercentages, melding van verkopen en de bepaling van de waarde bij vervreemdingen zijn van toepassing.
+In het reglement financieel beleid en beheer van de corporatie staan de bepalingen voor derivaten. De Aw heeft vastgesteld dat deze bepalingen in overeenstemming zijn met het gestelde in de [artikelen 106 tot en met 108 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=106).
 
 ### 20.2.6. Stap 5: disconteringsvoet
 
@@ -7470,19 +7470,19 @@ Dit is omdat de woningcorporatie niet alle belangrijke rechten op economische vo
 
 ### Accountantsprotocol
 
-### 20.2.7. Aanvullende objectgegevens voor berekening beleidswaarde
-
-### 1. Algemeen
-
 ### 4. Rubriek C: het assurance-rapport met betrekking tot de dVi over het verslagjaar (cijfermatige verantwoording)
 
 ### 4.1. Doel
+
+### 4. Rubriek C: het assurance-rapport met betrekking tot de dVi over het verslagjaar (cijfermatige verantwoording)
+
+### 4.2. Specifiek van toepassing zijnde regelgeving
 
 ### 20.2.8. Overdrachtskosten beleidswaarde
 
 ### 4.2. Specifiek van toepassing zijnde regelgeving
 
-### 20.2.9. Nadere toetsing beleidswaarde
+### 4.3. Materialiteit
 
 ### 4.1. Doel
 
@@ -7496,11 +7496,11 @@ Dit is omdat de woningcorporatie niet alle belangrijke rechten op economische vo
 
 ### 1. Algemeen
 
-### 8. Onderdeel dVi 5.1.8 (nieuwe beleggingen)
+### 4.4. Oordelen in het assurance-rapport
 
 ### 4.3. Materialiteit
 
-### 4.4. Oordelen in het assurance-rapport
+### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
 
 ### 10. Onderdeel dVi 5.1.10 (Verhuur van woongelegenheden via derden)
 
@@ -7526,13 +7526,13 @@ Dit is omdat de woningcorporatie niet alle belangrijke rechten op economische vo
 
 ### 2.3. Materialiteit (betrouwbaarheid en nauwkeurigheid)
 
-Bij de hiervoor beschreven deelwaarneming op de woningtoewijzing voldoet de woningcorporatie aan de volgende voorwaarden:
-
-Voor 2024 geldt dat woningcorporaties minimaal 92,5% van hun woningen met een huurprijs tot en met € 879,66 moeten toewijzen aan eenpersoonshuishoudens met een huishoudinkomen tot € 47.699 en meerpersoonshuishoudens met een gezamenlijk huishoudinkomen tot € 52.671. De resterende 7,5% van de woningen tot aan deze huurprijsgrens mag in deze periode vrij worden toegewezen. De woningcorporatie kan in de prestatieafspraken afwijkende normen overeenkomen. Hierbij geldt een minimale norm van 85%.
-
 In de sector zijn diverse initiatieven in ontwikkeling om de woningtoewijzing deels of geheel te automatiseren. Zowel de reguliere manier van woningtoewijzing als deze nieuwe initiatieven kunnen naast elkaar bestaan. Dit kan betekenen dat een deel van de woningtoewijzing op de reguliere manier gaat, terwijl een ander deel via een geautomatiseerde toewijzing gebeurt. De reguliere toewijzingen toetst de accountant door de deelwaarneming. De accountant kan voor het geautomatiseerde deel van de toewijzingen kiezen voor een systeemgerichte controle, inclusief gebruik maken van een assurance-rapportage van een accountantsorganisatie bij initiatieven om woningtoewijzingen te automatiseren, waaronder bijvoorbeeld inkomenstoetsing. De accountant kan ook kiezen voor de reguliere gegevensgerichte controle.
 
 De woningcorporatie blijft in alle gevallen verantwoordelijk voor de compliance. Uitgangspunt is dat de accountant dezelfde mate van assurance geeft over de totale woningtoewijzing, ongeacht op welke manier dit gaat.
+
+Doel van de werkzaamheden van de accountant is het vaststellen of de verantwoording onder 5.2.2 nauwkeurig en volledig is. Dit leidt tot één (1) en niet meer dan 1 oordeel dat betrekking heeft op 5.2.2 als geheel. Als er sprake is van een oordeelsonthouding vanwege het niet kunnen vaststellen van de volledigheid van de verantwoording, voert de accountant wel de werkzaamheden met betrekking de nauwkeurigheid uit. Het oordeel met betrekking tot de nauwkeurigheid van de gegevens die in de dVi zijn verantwoord komt tot uitdrukking in het assurance-rapport.
+
+De accountant betrekt de volgende aspecten bij zijn werkzaamheden:
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2020-08-12&g=2020-08-12) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -7632,25 +7632,25 @@ Naam: ___________________
 
 ### 2.2. Wet- en regelgeving die specifiek van toepassing is
 
-Bij verhuur door intermediaire verhuurders blijven de eisen voor inkomenstoetsing en verantwoording onverkort van kracht. Woningcorporaties moeten met hen hierover (contractuele) afspraken maken. Het onderscheid tussen gebruik en verhuur staat in de toelichting op de modelverklaring.
+De accountant stelt vast of de woningcorporatie het inkomen heeft vastgesteld volgens de regelgeving ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-01-01&g=2026-01-01) van de Rtiv). Uitgangspunt daarbij zijn de inkomensgegevens die door de Belastingdienst zijn vastgesteld en/of verstrekt. Dit is een definitieve of voorlopige aanslag voor de inkomstenbelasting, of een verklaring over het inkomen. De woningcorporatie kan ook, al dan niet rechtstreeks, inkomensgegevens van de (aspirant)huurders verkrijgen via een pdf, schermafbeelding of andere digitale informatie4Ontbreekt bij het digitaal document, waarop minimaal het inkomen, geslachtsnaam en geboortedatum van de (aspirant)huurders staat vermeld, een digitaal waarmerk van de overheid? Dan volstaat, als onderbouwing voor de authenticiteit van de gegevens bij het gehanteerde woonruimteverdeelsysteem, een NV COS 3402 type 2 rapportage of een NV COS 3000A rapportage die toeziet op de authenticiteit van deze gegevens. Het uitgangspunt blijft dat de accountant in dit geheel zijn eigenstandige verantwoordelijkheid behoudt., waaruit blijkt dat deze zijn ontleend aan MijnOverheid.nl of MijnBelastingdienst.nl. Als de corporatie voor haar verantwoording van de toewijzingen gebruik maakt van digitale informatie en de accountant wil daar voor zijn controle op steunen, dan stelt de accountant opzet, bestaan en werking van het onderliggende systeem vast.
 
-De accountant stelt de nauwkeurigheid van de verantwoording van het aantal aangegane huurovereenkomsten (voor wat betreft de woningen met een huur van € 879,66 of lager) aan de doelgroep vast. De doelgroep heeft een huishoudinkomen van maximaal € 47.699 of 52.671 per jaar, of is op een andere manier toerekenbaar aan de doelgroep.
+Aan de hand van de aanwijzingen uit [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-01-01&g=2026-01-01) van de Rtiv moeten inkomens uit 2023 en 2024 zijn geactualiseerd.
 
 ### 2.4. Controleverklaring
 
-Aan de hand van de aanwijzingen uit [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2025-06-27&g=2025-06-27) van de Rtiv moeten inkomens uit 2022 en 2023 zijn geactualiseerd.
-
-Geeft de Belastingdienst in de inkomensverklaring aan dat het inkomen onbekend is? Dan is deze verklaring niet bruikbaar voor de inkomenstoetsing. In dat geval moet er een inkomenstoetsing plaatsvinden aan de hand van (actuele) inkomensbescheiden, zoals vermeld in schema B van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2025-06-27&g=2025-06-27) van de Rtiv.
-
-### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
+De uitgangspunten in de Rtiv zijn als volgt:
 
 De accountant voert een risicogerichte deelwaarneming uit op de toewijzingen. De omvang van de reguliere deelwaarneming is 10% van de toewijzingen met een minimumaantal van 25 en een maximumaantal van 50. Door het uitvoeren van deze deelwaarneming stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi nauwkeurig is.
 
-### 9. Onderdeel dVi 5.2.2 – Aangegane huurovereenkomsten met betrekking tot woongelegenheden met een huurprijs tot en met € 752,33 in de gevallen dat het huishoudinkomen ten hoogste € 40.024 dan wel € 44.655 per jaar is, dan wel op een andere toegestane basis
+### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
 Ten aanzien van toewijzingen uit de deelwaarneming waarvoor digitale informatie is gebruikt, kan de accountant de nauwkeurigheid systeemgericht toetsen door de opzet, het bestaan en de werking van het gebruikte systeem vast te stellen. Dit betekent dat, als een subset van de deelwaarneming wordt gevormd door een aantal toewijzingen op basis van digitale inkomensverklaringen, het in dit geval kan volstaan om slechts één item te toetsen. Als geen bevindingen worden geconstateerd, hoeven de overige items van deze subset niet te worden gecontroleerd.
 
-Als uit de deelwaarneming fouten in de verantwoording blijken, dan worden deze fouten vertaald naar de massa van de genoemde deelgroep. De accountant bepaalt wat de impact is van deze fouten op de totale hoeveelheid aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden. Dit leidt mogelijk tot een aanvullende deelwaarneming.
+### 9. Onderdeel dVi 5.2.2 – Aangegane huurovereenkomsten met betrekking tot woongelegenheden met een huurprijs tot en met € 752,33 in de gevallen dat het huishoudinkomen ten hoogste € 40.024 dan wel € 44.655 per jaar is, dan wel op een andere toegestane basis
+
+Naast de waarschijnlijkheidstoetsen zoals hierboven beschreven, besteedt de accountant ook aandacht aan getoetste inkomens die net onder de grens van € 49.669 en € 54.847 liggen. Afhankelijk van de omvang voert de accountant een gegevensgerichte deelwaarneming uit. De omvang van deze deelwaarneming baseert de accountant op basis van ‘professional judgement’.
+
+Bij de controle geldt een materialiteit van 0%, omdat het gaat om het vaststellen van de aansluiting van de dVi-informatie met de (onderbouwing van de) gecertificeerde jaarrekening.
 
 ### 3.3. Materialiteit
 
@@ -7662,25 +7662,25 @@ Om na te gaan of de verantwoording in onderdeel 5.1.3 van de dVi nauwkeurig en v
 
 ### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
-‘Verkoop van een woning door de woningcorporatie met een terugkoopplicht en verkoop met een terugkooprecht tegen een prijs die significant lager is dan de verwachte reële waarde op het terugkoopmoment.’
+OVERWEGENDE DAT
 
 ### 3.4. Oordelen in het assurance-rapport
 
-OVERWEGENDE DAT
+TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
 
 ### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
 TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
 
-### Artikel 4. 2 Als geldgever en geldnemer de rente baseren op het euribor-tarief moet de tekst van artikel 4 worden vervangen door de tekst op de website
+### Modelovereenkomst collegiale geldlening toegelaten instellingen
 
-De accountant stelt vast of er in het verslagjaar nieuwe overeenkomsten zijn gesloten wat betreft verhuur van woongelegenheden via derden (intermediaire verhuur). En zo ja, of in deze overeenkomsten de toegankelijkheid van de verhuuradministratie van de derde partij zo is geregeld dat de nauwkeurigheid en volledigheid van de verhuringen kan worden vastgesteld, zoals bepaald in [artikel 58 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=58).
-
-De accountant stelt vast dat de woningcorporatie in het verslagjaar aan verbindingen geen aanvullend of ander vermogen heeft verschaft ([Woningwet artikel 21a, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a)). Heeft de woningcorporatie wel vermogen verschaft? Dan stelt de accountant vast dat er ontheffing is verleend zoals bedoeld in de [Woningwet, artikel 21a, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21a). De controle op het verschaffen van vermogen aan verbindingen, heeft betrekking op verbindingen zoals bedoeld in de [Woningwet artikel 1, lid 2 onder a (dochtermaatschappij), b (deelneming in de zin van artikel 24c BW2) en c (duurzame band)](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
-
-### 4.1. Doel
+De ondergetekenden:
 
 verklaren het volgende te zijn overeengekomen:
+
+### Artikel 1
+
+Geldgever zal aan Geldnemer ter leen verstrekken en deze zal bij Geldgever ter leen opnemen een som van [•]1Bedrag in euro’s (zegge: [•]) tegen een koers van 100%.
 
 ### Artikel 1
 
@@ -7690,15 +7690,15 @@ Geldgever zal aan Geldnemer ter leen verstrekken en deze zal bij Geldgever ter l
 
 In Richtlijn 645 van de Richtlijnen voor de Jaarverslaggeving wordt het volgende niet gekwalificeerd als een verkooptransactie volgens Richtlijn 270:
 
-De uitbetaling van het geleende bedrag zal geschieden door overschrijving op rekeningnummer [•] bij [•] ten gunste van geldnemer.
+De lening heeft een looptijd van [•] jaar / [•] jaar [•] maanden, derhalve tot [•]
 
-De door de accountant te hanteren materialiteitsnormen staan voor de dVi-onderdelen 1 tot en met 6 en 9 (per onderdeel) in de paragraaf ‘Onderdelen assurance-rapport’.
+Alsdan zal het schuldrestant geheel en ineens door Geldnemer worden terugbetaald.
 
 De lening heeft een looptijd van [•] jaar / [•] jaar [•] maanden, derhalve tot [•]
 
 Alsdan zal het schuldrestant geheel en ineens door Geldnemer worden terugbetaald.
 
-De accountant hanteert de volgende fout- en onzekerheidsdefinities. Van een fout in de verantwoording is sprake als naar aanleiding van het uitgevoerde onderzoek blijkt dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
+Geldnemer verbindt zich jegens geldgever om betalingen te doen wegens rente en aflossing, in overeenstemming met het hieronder opgenomen/het als bijlage aan deze akte gehechte9Tweede variant opnemen indien het schema van rente en aflossing in een bijlage wordt opgenomen. schema (welk schema met ingang van elke wijzigingsdatum als bedoeld in artikel 4 lid 2 wordt vervangen door een nieuw schema op basis van het nieuwe overeengekomen rentepercentage, als bedoeld in artikel 4 lid 2)10Deze tekst alleen opnemen indien méér dan één wijzigingsdatum is overeengekomen..
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -7712,11 +7712,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### E. Overdrachtskosten
 
-Datum 18 september 2024
+Datum 1 oktober 2025
 
-Het voorliggende accountantsprotocol over het verslagjaar sluit aan bij de nummering in de dVi.
+Geen inhoudelijke wijzingen. Het voorliggende accountantsprotocol over het verslagjaar sluit aan bij de nummering in de dVi.
 
-Volgens [artikel 37, lid 4 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), stelt [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2025-06-27&g=2025-06-27) van de Regeling toegelaten instellingen volkshuisvesting (Rtiv) voorwaarden aan de werkzaamheden van de accountants van de woningcorporaties. Dit accountantsprotocol is de invulling hiervan. Doel van het protocol is om instructies te geven voor de werkzaamheden en rapportages van de accountant.
+Volgens [artikel 37, lid 4 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), stelt [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting (Rtiv) voorwaarden aan de werkzaamheden van de accountants van de woningcorporaties. Dit accountantsprotocol is de invulling hiervan. Doel van het protocol is om instructies te geven voor de werkzaamheden en rapportages van de accountant.
 
 De onderzoeksobjecten voor de accountantswerkzaamheden bij woningcorporaties zijn:
 
@@ -7746,9 +7746,9 @@ De huuraanpassing van geliberaliseerde woningen is in de beleidswaarde gelijk aa
 
 ### 3.4. Oordelen in het assurance-rapport
 
-### 20.2.4.2. Achterstallig onderhoud
+### 3.4. Oordelen in het assurance-rapport
 
-### 20.2.4.3. EFG-labels
+### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
 ### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
@@ -7770,7 +7770,7 @@ De accountant betrekt bij zijn onderzoek van bovenstaande punten ook de [veelges
 
 De accountant stelt vast of er in het verslagjaar nieuwe overeenkomsten zijn gesloten wat betreft verhuur van woongelegenheden via derden (intermediaire verhuur). En zo ja, of in deze overeenkomsten de toegankelijkheid van de verhuuradministratie van de derde partij zo is geregeld dat de nauwkeurigheid en volledigheid van de verhuringen kan worden vastgesteld, zoals bepaald in [artikel 58 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=58).
 
-De Autoriteit woningcorporaties (Aw) steunt bij het uitvoeren van de toezichtstaken op de controlewerkzaamheden van de accountants bij woningcorporaties. Het accountantsprotocol beschrijft de minimale werkzaamheden van de accountants bij woningcorporaties.
+Het doel van de werkzaamheden van de accountant, zoals bedoeld in [artikel 37 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), die leiden tot een assurance-rapport is om een redelijke mate van zekerheid te verlenen over de nauwkeurige en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar. Dit is inclusief verantwoording over woningtoewijzingen.
 
 Het accountantsprotocol wordt jaarlijks geactualiseerd. Dit gebeurt op basis van onder andere aangepaste wet- en regelgeving, gewijzigde inzichten, actuele ontwikkelingen en risico inschattingen. De controlewerkzaamheden beschreven in rubriek B en C zijn beperkt gewijzigd voor verslagjaar 2024. Ook vervallen voor verslagjaar 2024 de controlewerkzaamheden van de huursombenadering in rubriek C weer.
 
@@ -7840,25 +7840,25 @@ Naam: ____________________
 
 ## Bijlage 13. bij [artikel 40a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=40a&z=2019-03-30&g=2019-03-30), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-In de benadering van de onzekerheid bepaalt de accountant de weging op basis van professional judgement. De toepassing van de bovenstaande tabel is per onderdeel aangegeven (zie onderdelen 7 en 8).
+Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom: als er onzekerheid is over het wel of niet voldoen aan de wet- en regelgeving. Voor een onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert. Wanneer er sprake is van zowel fouten als onzekerheden, dan weegt de accountant deze fouten en onzekerheden bij de oordeelsvorming altijd in onderlinge samenhang.
 
 De accountant hanteert de volgende fout- en onzekerheidsdefinities. Van een fout in de verantwoording is sprake als naar aanleiding van het uitgevoerde onderzoek blijkt dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
 
 De onderzoeksobjecten voor de accountantswerkzaamheden bij woningcorporaties zijn:
 
-Het assurance-rapport strekt zich uit over de genoemde 10 onderdelen. De accountant moet per onderdeel een afzonderlijk oordeel formuleren.
-
 De accountant geeft een oordeel over de hierna genoemde elementen uit de dVi over het verslagjaar.
 
 Bij de controle van de onderdelen a en b geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de gecertificeerde jaarrekening of de onderliggende specificaties.
 
-Bij de controle van de onderdelen a en b geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de marktwaardeberekening en de beleidswaardeberekening met de gecertificeerde jaarrekening, ongeacht of deze berekening op alle gegevens door de accountant bij de jaarrekeningcontrole is gecontroleerd. Hierbij is de uitkomst goed (geen verschil) of fout (wel verschil).
+Bij de controle van de onderdelen a, b en c geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de (toelichting bij de) gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil).
 
 Bij de controle van de onderdelen a, b en c geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de (toelichting bij de) gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil).
 
-De accountant voert een deelwaarneming uit op het overzicht van 5.2.1a, 1b, 1c en 1d. Hierbij wordt 10% van het aantal toewijzingen beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. De uitwerking van de deelwaarneming staat in onderdeel 9. De accountant zorgt bij de selectie van de posten voor een redelijke spreiding van de selectie over de aspecten huurgrenzen, huishoudsamenstelling (1-, 2-, of 3- en meerpersoonshuishoudens) en over inkomensgrenzen. Verder is het belangrijk dat de toewijzingen aan huurders van onzelfstandige woongelegenheden niet worden verantwoord onder 5.2.1. Uitzondering op deze regel zijn onzelfstandige woongelegenheden waarvoor geldt dat een verzoek van de woningcorporatie of intermediaire verhuurder aan de Belastingdienst is toegekend om deze woningen voor begeleid wonen (bijvoorbeeld Thomashuizen) of groepswonen voor ouderen te laten aanwijzen. Dat geldt ook voor studentenwoningen die in het verleden door de Belastingdienst in dit kader zijn aangewezen. Deze toewijzingen in de aangewezen complexen worden **wel** onder 5.2.1. verantwoord, omdat ze ook meetellen voor de passendheidsnorm.
+Door het uitvoeren van deze deelwaarneming stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi nauwkeurig is.
 
 Blijken uit de deelwaarneming fouten in de verantwoording? Dan worden deze fouten vertaald naar de massa van de genoemde deelgroep. De accountant bepaalt wat de impact van deze fouten is op de totale hoeveelheid woningtoewijzingen. Dit leidt mogelijk tot een aanvullende deelwaarneming.
+
+Voor 2025 geldt dat woningcorporaties minimaal 92,5% van hun woningen met een huurprijs tot en met € 900,07 moeten toewijzen aan eenpersoonshuishoudens met een huishoudinkomen tot € 49.669 en meerpersoonshuishoudens met een gezamenlijk huishoudinkomen tot € 54.847. De resterende 7,5% van de woningen tot aan deze huurprijsgrens mag in deze periode vrij worden toegewezen. De woningcorporatie kan in de prestatieafspraken afwijkende normen overeenkomen. Hierbij geldt een minimale norm van 85%.
 
 ### 1. Onderdeel dVi 2.1 – Opgave verhuureenheden
 
@@ -7866,27 +7866,27 @@ Blijken uit de deelwaarneming fouten in de verantwoording? Dan worden deze foute
 
 ### 3.1. Doel
 
-De accountant betrekt de volgende aspecten bij zijn werkzaamheden:
-
-De werkzaamheden van de accountant zijn gericht op alle woongelegenheden in eigendom van de woningcorporatie, dus ongeacht of de woningcorporatie deze zelf verhuurt of door een derde laat verhuren (intermediaire verhuur). De accountant stelt op basis van de huuradministratie (inclusief de intermediaire verhuur) de volledigheid vast van de aantallen aangegane huurovereenkomsten die in het verslagjaar zijn opgenomen in onderdeel 5.2.2. De accountant stelt dit vast voor wat betreft het totaal van de huurovereenkomsten met betrekking tot de woongelegenheden met een huurprijs die bij aanvang van de bewoning niet hoger is dan € 879,66, voor wat betreft de 3 (inkomens)groepen. Biedt de huuradministratie (inclusief de intermediaire verhuur) daarvoor onvoldoende zicht? Dan vertaalt de accountant dat naar een oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
-
-### 3.2. Regelgeving die specifiek van toepassing is
+Het kan zijn dat de accountant door het aspect van intermediaire verhuur de volledigheid van de verantwoording onder 5.2.2 niet kan vaststellen. Het externe toezicht rekent het de woningcorporatie niet in alle gevallen aan dat het oordeel ‘volledigheid’ ontbreekt. Daarom is het belangrijk dat de accountant in voorkomende gevallen zichtbaar maakt waarom het oordeel ‘volledigheid’ achterwege is gebleven. Het is belangrijk om aan te geven of ontoegankelijkheid van de huuradministratie van de intermediaire verhuurder een **doorslaggevende betekenis** heeft voor het niet kunnen vaststellen van de volledigheid. Dit betekent dat de accountant de volledigheid van de verantwoording op dit punt wel had kunnen vaststellen als het aspect van intermediaire verhuur buiten beschouwing was gebleven.
 
 Als kader voor de werkzaamheden bij het aspect volledigheid van de accountant geldt dat:
 
-### 3.3. Materialiteit
+### 3.2. Regelgeving die specifiek van toepassing is
 
 De bestuursverklaring van de intermediaire verhuurder is belangrijk. Hierop mag de accountant zich baseren, om de volledigheid van de verantwoording over de toewijzing van de betreffende woongelegenheden vast te stellen.
 
-De accountant stelt vast of de woningcorporatie het inkomen heeft vastgesteld volgens de regelgeving ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2025-06-27&g=2025-06-27) van de Rtiv). Uitgangspunt daarbij zijn de inkomensgegevens die door de Belastingdienst zijn vastgesteld en/of verstrekt. Dit is een definitieve of voorlopige aanslag voor de inkomstenbelasting, of een verklaring over het inkomen. De woningcorporatie kan ook, al dan niet rechtstreeks, inkomensgegevens van de (aspirant)huurders verkrijgen via een pdf, schermafbeelding of andere digitale informatie3Ontbreekt bij het digitaal document, waarop minimaal het inkomen, geslachtsnaam en geboortedatum van de (aspirant)huurders staat vermeld, een digitaal waarmerk van de overheid? Dan volstaat, als onderbouwing voor de authenticiteit van de gegevens bij het gehanteerde woonruimteverdeelsysteem, een NV COS 3402 type 2 rapportage of een NV COS 3000A rapportage die ziet op de authenticiteit van deze gegevens. Het uitgangspunt blijft dat de accountant in dit geheel zijn eigenstandige verantwoordelijkheid behoudt., waaruit blijkt dat deze zijn ontleend aan MijnOverheid.nl of MijnBelastingdienst.nl. Als de corporatie voor haar verantwoording van de toewijzingen gebruik maakt van digitale informatie en de accountant wil daar voor zijn controle op steunen, dan stelt de accountant opzet, bestaan en werking van het onderliggende systeem vast.
+### 3.3. Materialiteit
 
-De uitgangspunten in de Rtiv zijn als volgt:
+Bij verhuur door intermediaire verhuurders blijven de eisen voor inkomenstoetsing en verantwoording onverkort van kracht. Woningcorporaties moeten met hen hierover (contractuele) afspraken maken. Het onderscheid tussen gebruik en verhuur staat in de toelichting op de modelverklaring.
+
+Geeft de Belastingdienst in de inkomensverklaring aan dat het inkomen onbekend is? Dan is deze verklaring niet bruikbaar voor de inkomenstoetsing. In dat geval moet er een inkomenstoetsing plaatsvinden aan de hand van (actuele) inkomensbescheiden, zoals vermeld in schema B van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-01-01&g=2026-01-01) van de Rtiv.
+
+De deelwaarneming kan bestaan uit:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14a
 
-1. De definities ‘beheer’ en ‘onderhoud’ als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) zijn van overeenkomstige toepassing op:
+1. De definities ‘beheer’ en ‘onderhoud’ als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op:
 
 - a. de posten ‘Lasten onderhoudsactiviteiten’, ‘Lasten verhuur en beheeractiviteiten’ en ‘Overige directe operationele lasten exploitatie bezit’ in de jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35);
 
@@ -7968,17 +7968,17 @@ De corporatie heeft beschikking over passende informatie qua referenties en onde
 
 Het eigen onderhoudsbeleid kan afwijken van de in de marktwaarde gehanteerde marktnormen. In deze stap worden de componenten instandhoudingsonderhoud en mutatieonderhoud uit de DCF-berekening vervangen door een nominale (gecorrigeerd voor inflatie) eigen onderhoudsbegroting. De onderhoudsbegroting is gebaseerd op de langjarige onderhoudscyclus van het object op basis van instandhouding, voortvloeiend uit de door de corporatie vastgestelde meerjarenonderhoudsbegroting, voordat er correcties als gevolg van clustering vanwege ingrijpende verbouwing zijn verwerkt. In voorgaande jaren moest de gehele begroting omgerekend worden naar één norm in de beginperiode. Met de overgang naar een exploitatieperiode van 60 jaar kunnen de bedragen per jaar variëren conform de onderliggende onderhoudsbegroting. Voor die perioden en gevallen waarin geen onderhoudsbegroting beschikbaar is, kan een onderhoudsnorm gehanteerd worden. De definitie is nog steeds gelijk met voorgaande jaren. De onderhoudskosten in de onderhoudsbegroting dienen geïndexeerd te worden met de bouwkostenstijging (conform paragraaf 4.3).
 
-De accountant stelt vast dat de verantwoording in onderdeel 5.1.3 van de dVi nauwkeurig en volledig is. Daartoe stelt de accountant vast dat de woningcorporatie in het verslagjaar voldoet aan de regelgeving voor het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming. Dit is beschreven in [artikel 45, lid 2, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2) en [3 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3). En in [artikel 27, lid 1, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 tot en met 25 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 tot en met 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2025-06-27&g=2025-06-27) van de Rtiv.
-
 Om na te gaan of de verantwoording in onderdeel 5.1.3 van de dVi nauwkeurig en volledig is, stelt de accountant vast:
+
+In Richtlijn 645 van de Richtlijnen voor de Jaarverslaggeving wordt het volgende niet gekwalificeerd als een verkooptransactie volgens Richtlijn 270:
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2019-10-01&g=2019-10-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2019-10-01&g=2019-10-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-In het reglement financieel beleid en beheer van de corporatie staan de bepalingen voor derivaten. De Aw heeft vastgesteld dat deze bepalingen in overeenstemming zijn met het gestelde in de [artikelen 106 tot en met 108 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=106).
+De accountant betrekt bij zijn onderzoek van bovenstaande punten ook de vragen en antwoorden over derivaten [(op de website van de Aw)](https://www.ilent.nl/onderwerpen/bedrijfsvoering-en-financien/documenten/leefomgeving-en-wonen/autoriteit-woningcorporaties/publicaties-cijfers-en-wetgeving/publicaties/vragen-en-antwoorden-regelgeving-derivaten).
 
-Op grond van de [artikelen 104 tot en met 108 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=104) en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=41&z=2025-06-27&g=2025-06-27) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2025-06-27&g=2025-06-27) van de Rtiv gelden de bepalingen voor derivaten en beleggingen zowel voor woningcorporaties als dochtermaatschappijen en verbonden ondernemingen. Om te bepalen of de verantwoording in onderdeel 5.1.5 van de dVi nauwkeurig en volledig is, controleert de accountant of de aangegane derivatentransacties in het verslagjaar zijn toegestaan volgens het reglement zoals bedoeld in [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en [55a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) en [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=105), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=106) en [107 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107). De accountant stelt vast dat:
+De accountant stelt vast of er in het verslagjaar nieuwe overeenkomsten zijn gesloten wat betreft verhuur van woongelegenheden via derden (intermediaire verhuur). En zo ja, of in deze overeenkomsten de toegankelijkheid van de verhuuradministratie van de derde partij zo is geregeld dat de nauwkeurigheid en volledigheid van de verhuringen kan worden vastgesteld, zoals bepaald in [artikel 58 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=58).
 
 ## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2019-10-01&g=2019-10-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8247,23 +8247,23 @@ Handtekening: ________________________________________
 
 Naam: ____________________
 
-De door de accountant te hanteren materialiteitsnormen staan voor de dVi-onderdelen 1 tot en met 6 en 9 (per onderdeel) in de paragraaf ‘Onderdelen assurance-rapport’.
+In de benadering van de onzekerheid bepaalt de accountant de weging op basis van professional judgement. De toepassing van de bovenstaande tabel is per onderdeel aangegeven (zie onderdelen 7 en 8).
 
-Bij de dVi-onderdelen 7 en 8 voert de accountant een deelwaarneming uit. Die geldt mede als basis om een oordeel te formuleren. De tabel ‘Vertaling naar oordeel’ hierna geeft aan hoe de accountant met de bevindingen omgaat in relatie tot het te formuleren oordeel over de betreffende dVi-onderdelen 7 en 8. De percentages hebben bij beide onderdelen betrekking op aantallen (toewijzingen).
+De accountant hanteert de volgende fout- en onzekerheidsdefinities. Van een fout in de verantwoording is sprake als naar aanleiding van het uitgevoerde onderzoek blijkt dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
 
-Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom: als er onzekerheid is over het wel of niet voldoen aan de wet- en regelgeving. Voor een onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert. Wanneer er sprake is van zowel fouten als onzekerheden, dan weegt de accountant deze fouten en onzekerheden bij de oordeelsvorming altijd in onderlinge samenhang.
+Het assurance-rapport strekt zich uit over de genoemde 9 onderdelen. De accountant moet per onderdeel een afzonderlijk oordeel formuleren.
 
-Hieronder staat per onderdeel een verdere toelichting waarbij ook wordt ingegaan op de nauwkeurigheid van de uit te voeren werkzaamheden.
-
-Bij de controle van de onderdelen a, b en c geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de (toelichting bij de) gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil).
+Bij de controle van de onderdelen a en b geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de marktwaardeberekening en de beleidswaardeberekening met de gecertificeerde jaarrekening, ongeacht of deze berekening op alle gegevens door de accountant bij de jaarrekeningcontrole is gecontroleerd. Hierbij is de uitkomst goed (geen verschil) of fout (wel verschil).
 
 Bij de controle van de onderdelen a, b en c geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de (toelichting bij de) gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil).
 
-Doel van de werkzaamheden van de accountant is het vaststellen of de verantwoording onder 5.2.2 nauwkeurig en volledig is. Dit leidt tot één (1) en niet meer dan 1 oordeel dat betrekking heeft op 5.2.2 als geheel. Als er sprake is van een oordeelsonthouding vanwege het niet kunnen vaststellen van de volledigheid van de verantwoording, voert de accountant wel de werkzaamheden met betrekking de nauwkeurigheid uit. Het oordeel met betrekking tot de nauwkeurigheid van de gegevens die in de dVi zijn verantwoord komt tot uitdrukking in het assurance-rapport.
+De accountant voert een deelwaarneming uit op het overzicht van 5.2.1a, 1b, 1c en 1d. Hierbij wordt 10% van het aantal toewijzingen beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. De uitwerking van de deelwaarneming staat in onderdeel 9. De accountant zorgt bij de selectie van de posten voor een redelijke spreiding van de selectie over de aspecten huurgrenzen, huishoudsamenstelling (1-, 2-, of 3- en meerpersoonshuishoudens) en over inkomensgrenzen. Verder is het belangrijk dat de toewijzingen aan huurders van onzelfstandige woongelegenheden niet worden verantwoord onder 5.2.1. Uitzondering op deze regel zijn onzelfstandige woongelegenheden waarvoor geldt dat een verzoek van de woningcorporatie of intermediaire verhuurder aan de Belastingdienst is toegekend om deze woningen voor begeleid wonen (bijvoorbeeld Thomashuizen) of groepswonen voor ouderen te laten aanwijzen. Dat geldt ook voor studentenwoningen die in het verleden door de Belastingdienst in dit kader zijn aangewezen. Deze toewijzingen in de aangewezen complexen worden **wel** onder 5.2.1. verantwoord, omdat ze ook meetellen voor de passendheidsnorm.
+
+De werkzaamheden van de accountant zijn gericht op alle woongelegenheden in eigendom van de woningcorporatie, dus ongeacht of de woningcorporatie deze zelf verhuurt of door een derde laat verhuren (intermediaire verhuur). De accountant stelt op basis van de huuradministratie (inclusief de intermediaire verhuur) de volledigheid vast van de aantallen aangegane huurovereenkomsten die in het verslagjaar zijn opgenomen in onderdeel 5.2.2. De accountant stelt dit vast voor wat betreft het totaal van de huurovereenkomsten met betrekking tot de woongelegenheden met een huurprijs die bij aanvang van de bewoning niet hoger is dan € 900,07, voor wat betreft de 3 (inkomens)groepen. Biedt de huuradministratie (inclusief de intermediaire verhuur) daarvoor onvoldoende zicht? Dan vertaalt de accountant dat naar een oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
 
 ### 2. Rubriek A: de controleverklaring met betrekking tot de jaarrekening en het bestuursverslag
 
-De [meest recente bestuursverklaring vindt u op de website van de Aw.](https://www.ilent.nl/documenten/publicaties/2019/2/18/model-bestuursverklaring-verantwoording-intermediaire-verhuur---februari-2019)
+De accountant stelt de nauwkeurigheid van de verantwoording van het aantal aangegane huurovereenkomsten (voor wat betreft de woningen met een huur van € 900,07 of lager) aan de doelgroep vast. De doelgroep heeft een huishoudinkomen van maximaal € 49.669 of 54.847 per jaar, of is op een andere manier toerekenbaar aan de doelgroep.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -8299,33 +8299,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 20.2.3.4. Correctie erfpacht
 
-De accountant onderzoekt of de woningcorporatie in het verslagjaar heeft voldaan aan de verkoopregels uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en Rtiv. Om te bepalen of een vervreemding valt in deze periode, is de datum van het transport van de onroerende zaak bij de notaris bepalend. Voor de werkzaamheden in deze paragraaf geldt dat er geen onderscheid is tussen vervreemding van bestaande woongelegenheden en de vervreemding van nieuwbouw woongelegenheden.
+De accountant stelt vast dat de verantwoording in onderdeel 5.1.3 van de dVi nauwkeurig en volledig is. Daartoe stelt de accountant vast dat de woningcorporatie in het verslagjaar voldoet aan de regelgeving voor het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming. Dit is beschreven in [artikel 45, lid 2, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=2) en [3 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3). En in [artikel 27, lid 1, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 tot en met 25 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 tot en met 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) van de Rtiv.
 
-‘Verkoop van een woning door de woningcorporatie met een terugkoopplicht en verkoop met een terugkooprecht tegen een prijs die significant lager is dan de verwachte reële waarde op het terugkoopmoment.’
+Dit is omdat de woningcorporatie niet alle belangrijke rechten op economische voordelen en alle belangrijkste risico’s heeft overgedragen aan de koper. Het is belangrijk om te vermelden dat dergelijke transacties in relatie tot de regelgeving wel kwalificeren als verkooptransactie. De ‘normale’ bepalingen wat betreft de correcte toepassing van de kortingspercentages, melding van verkopen en de bepaling van de waarde bij vervreemdingen zijn van toepassing.
 
-Het doel van de werkzaamheden van de accountant, zoals bedoeld in [artikel 37 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), die leiden tot een assurance-rapport is om een redelijke mate van zekerheid te verlenen over de nauwkeurige en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar. Dit is inclusief verantwoording over woningtoewijzingen.
-
-De Aw stelt geen specifieke eisen aan de controle van de jaarrekening. Rubriek A van het accountantsprotocol is feitelijk een samenvatting van de wet- en regelgeving die van toepassing is op de jaarrekening van woningcorporaties en op de controle door accountants bij woningcorporaties.
+Voor verslagjaar 2025 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet al in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
 
 Bij een aantal onderdelen wordt van de accountant gevraagd om de gegevens in de dVi aan te laten sluiten met de jaarrekening. Tenzij anders opgenomen, worden hierbij geen andere aanvullende werkzaamheden gevraagd.
 
-Geen inhoudelijke wijzigingen.
+Voor 9 onderdelen van de dVi (zie verder de paragraaf ‘Onderdelen assurance-rapport’) wordt per onderdeel een oordeel van de accountant gevraagd. Voor al deze onderdelen geldt een betrouwbaarheidsnorm van 95%.
 
-Voor 10 onderdelen van de dVi (zie verder de paragraaf ‘Onderdelen assurance-rapport’) wordt per onderdeel een oordeel van de accountant gevraagd. Voor al deze onderdelen geldt een betrouwbaarheidsnorm van 95%.
+De door de accountant te hanteren materialiteitsnormen staan voor de dVi-onderdelen 1 tot en met 6 en 9 (per onderdeel) in de paragraaf ‘Onderdelen assurance-rapport’.
 
-De accountantswerkzaamheden met betrekking tot de onderzoeksobjecten leiden tot een aantal accountantsrapportages. Deze vindt u op de website van de NBA. De accountant levert de volgende rapportages:
+Bij de dVi-onderdelen 7 en 8 voert de accountant een deelwaarneming uit. Die geldt mede als basis om een oordeel te formuleren. De tabel ‘Vertaling naar oordeel’ hierna geeft aan hoe de accountant met de bevindingen omgaat in relatie tot het te formuleren oordeel over de betreffende dVi-onderdelen 7 en 8. De percentages hebben bij beide onderdelen betrekking op aantallen (toewijzingen).
+
+Hieronder staat per onderdeel een verdere toelichting waarbij ook wordt ingegaan op de nauwkeurigheid van de uit te voeren werkzaamheden.
 
 ### 2.2. Wet- en regelgeving die specifiek van toepassing is
 
-Door het uitvoeren van deze deelwaarneming stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi nauwkeurig is.
+Bij de hiervoor beschreven deelwaarneming op de woningtoewijzing voldoet de woningcorporatie aan de volgende voorwaarden:
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2020-08-12&g=2020-08-12) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 2. Rubriek A: de controleverklaring met betrekking tot de jaarrekening en het bestuursverslag
 
-Het kan zijn dat de accountant door het aspect van intermediaire verhuur de volledigheid van de verantwoording onder 5.2.2 niet kan vaststellen. Het externe toezicht rekent het de woningcorporatie niet in alle gevallen aan dat het oordeel ‘volledigheid’ ontbreekt. Daarom is het belangrijk dat de accountant in voorkomende gevallen zichtbaar maakt waarom het oordeel ‘volledigheid’ achterwege is gebleven. Het is belangrijk om aan te geven of ontoegankelijkheid van de huuradministratie van de intermediaire verhuurder een **doorslaggevende betekenis** heeft voor het niet kunnen vaststellen van de volledigheid. Dit betekent dat de accountant de volledigheid van de verantwoording op dit punt wel had kunnen vaststellen als het aspect van intermediaire verhuur buiten beschouwing was gebleven.
-
 Is er sprake van intermediaire verhuur? Dan kan de controlerend accountant van de woningcorporatie als dat nodig is gebruik maken van de werkzaamheden van de accountant van de intermediair. De controlerend accountant van de woningcorporatie past dan alle relevante bepalingen uit standaard 600 (NV COS) toe.
+
+De meest recente bestuursverklaring vindt u op de website van de Aw.
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2023-08-26&g=2023-08-26) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8411,7 +8411,7 @@ Naam: ___________________
 
 ### 3.1. Doel
 
-De deelwaarneming kan bestaan uit:
+Als uit de deelwaarneming fouten in de verantwoording blijken, dan worden deze fouten vertaald naar de massa van de genoemde deelgroep. De accountant bepaalt wat de impact is van deze fouten op de totale hoeveelheid aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden. Dit leidt mogelijk tot een aanvullende deelwaarneming.
 
 ### 3.2. Regelgeving die specifiek van toepassing is
 
@@ -8419,9 +8419,9 @@ Naast de waarschijnlijkheidstoetsen zoals hierboven beschreven, besteedt de acco
 
 Bij de controle geldt een materialiteit van 0%, omdat het gaat om het vaststellen van de aansluiting van de dVi-informatie met de (onderbouwing van de) gecertificeerde jaarrekening.
 
-### Artikel 1
+### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
-**DEZE RAAMOVEREENKOMST** is opgesteld op [•] tussen:
+VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
 
 ### 3.4. Oordelen in het assurance-rapport
 
@@ -8431,21 +8431,21 @@ De accountant betrekt bij zijn onderzoek van bovenstaande punten ook de [veelges
 
 ### Artikel 3
 
-### Modelovereenkomst collegiale geldlening toegelaten instellingen
+### Artikel 5
 
 ### Artikel 5
 
 Geldnemer verbindt zich jegens geldgever om betalingen te doen wegens rente en aflossing, in overeenstemming met het hieronder opgenomen/het als bijlage aan deze akte gehechte9Tweede variant opnemen indien het schema van rente en aflossing in een bijlage wordt opgenomen. schema (welk schema met ingang van elke wijzigingsdatum als bedoeld in artikel 4 lid 2 wordt vervangen door een nieuw schema op basis van het nieuwe overeengekomen rentepercentage, als bedoeld in artikel 4 lid 2)10Deze tekst alleen opnemen indien méér dan één wijzigingsdatum is overeengekomen..
 
-1 Dit aflossingsschema niet opnemen indien er sprake is van een bijgevoegd aflossingsschema.
+Indien Geldnemer het aan aflossing en/of rente verschuldigde niet op tijd en/of overeenkomstig het bepaalde in deze overeenkomst voldoet, betaalt hij aan Geldgever een boete, welke in plaats van de contractueel verschuldigde rente verschuldigd is over het achterstallige bedrag gedurende de periode van verzuim. Deze boete wordt berekend over een percentage dat gelijk is aan depositorente van de Europese Centrale Bank gedurende een periode van verzuim vermeerderd met 4,25 procentpunt, alsmede vermeerderd met eventuele bancaire opslagen, doch hetwelk minimaal drie-en-een-half procentpunt hoger is dan het nominale rentepercentage van de lening.
 
 Het doel van de werkzaamheden van de accountant, zoals bedoeld in [artikel 37 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), die leiden tot een assurance-rapport is om een redelijke mate van zekerheid te verlenen over de nauwkeurige en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar. Dit is inclusief verantwoording over woningtoewijzingen.
 
-Indien Geldnemer het aan aflossing en/of rente verschuldigde niet op tijd en/of overeenkomstig het bepaalde in deze overeenkomst voldoet, betaalt hij aan Geldgever een boete, welke in plaats van de contractueel verschuldigde rente verschuldigd is over het achterstallige bedrag gedurende de periode van verzuim. Deze boete wordt berekend over een percentage dat gelijk is aan depositorente van de Europese Centrale Bank gedurende een periode van verzuim vermeerderd met 4,25 procentpunt, alsmede vermeerderd met eventuele bancaire opslagen, doch hetwelk minimaal drie-en-een-half procentpunt hoger is dan het nominale rentepercentage van de lening.
+Alle aan Geldgever verschuldigde betalingen geschieden door storting of overschrijving op zijn rekening bij [•] te [•] op rekeningnummer [•], of op zodanige andere plaats binnen Nederland, als Geldgever tijdig schriftelijk aan Geldnemer mededeelt en wel op zodanige wijze dat de Geldgever op de vervaldata de volledige en vrije beschikking heeft over de te betalen bedragen.
 
 Hieronder staat per onderdeel een verdere toelichting waarbij ook wordt ingegaan op de nauwkeurigheid van de uit te voeren werkzaamheden.
 
-Alle aan Geldgever verschuldigde betalingen geschieden door storting of overschrijving op zijn rekening bij [•] te [•] op rekeningnummer [•], of op zodanige andere plaats binnen Nederland, als Geldgever tijdig schriftelijk aan Geldnemer mededeelt en wel op zodanige wijze dat de Geldgever op de vervaldata de volledige en vrije beschikking heeft over de te betalen bedragen.
+Gehele of gedeeltelijke extra aflossing van de lening is toegestaan, indien Geldgever en Geldnemer hierover gezamenlijk overeenstemming bereikten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -8477,9 +8477,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 20.2.4.1. Definitie onderhoud
 
-In Richtlijn 645 van de Richtlijnen voor de Jaarverslaggeving wordt het volgende niet gekwalificeerd als een verkooptransactie volgens Richtlijn 270:
+‘Verkoop van een woning door de woningcorporatie met een terugkoopplicht en verkoop met een terugkooprecht tegen een prijs die significant lager is dan de verwachte reële waarde op het terugkoopmoment.’
 
-De accountant stelt vast dat de woningcorporatie de wet- en regelgeving heeft nageleefd wat betreft de aanbestedingsplicht voor maatschappelijk vastgoed op grond van [artikel 51 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=51). Er is met betrekking tot de aanbesteding van maatschappelijk vastgoed een eis van meervoudige aanbesteding. Dit houdt in dat er minimaal 2 partijen meedingen. De woningcorporatie kan zelf de aanbestedingsvorm kiezen. Dit kan Europees, openbaar of onderhands zijn. De accountant controleert alleen de aanbestedingen boven de € 300.000 per aanbesteding voor het treffen van voorzieningen aan haar gebouwen en hun onroerende en infrastructurele aanhorigheden. En boven € 1.000.000 per aanbesteding voor het doen bouwen van maatschappelijk vastgoed.
+Op grond van de [artikelen 104 tot en met 108 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=104) en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=41&z=2026-01-01&g=2026-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2026-01-01&g=2026-01-01) van de Rtiv gelden de bepalingen voor derivaten en beleggingen zowel voor woningcorporaties als dochtermaatschappijen en verbonden ondernemingen. Om te bepalen of de verantwoording in onderdeel 5.1.5 van de dVi nauwkeurig en volledig is, controleert de accountant of de aangegane derivatentransacties in het verslagjaar zijn toegestaan volgens het reglement zoals bedoeld in [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en [55a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) en [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=105), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=106) en [107 van het Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107). De accountant stelt vast dat:
 
 Voor verslagjaar 2024 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet al in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
 
@@ -8487,17 +8487,17 @@ Voor verslagjaar 2024 geldt dat de hieronder opgesomde regelgeving en toelichtin
 
 ### 3.4. Oordelen in het assurance-rapport
 
-In Richtlijn 645 van de Richtlijnen voor de Jaarverslaggeving wordt het volgende niet gekwalificeerd als een verkooptransactie volgens Richtlijn 270:
+**DEZE RAAMOVEREENKOMST** is opgesteld op [•] tussen:
 
 VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
 
 De ondergetekenden:
 
-De accountant onderzoekt of de woningcorporatie in het verslagjaar heeft voldaan aan de verkoopregels uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en Rtiv. Om te bepalen of een vervreemding valt in deze periode, is de datum van het transport van de onroerende zaak bij de notaris bepalend. Voor de werkzaamheden in deze paragraaf geldt dat er geen onderscheid is tussen vervreemding van bestaande woongelegenheden en de vervreemding van nieuwbouw woongelegenheden.
-
 [Het geleende bedrag zal worden verstrekt respectievelijk opgenomen in één termijn, welke vervalt op [•].]
 
-Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom: als er onzekerheid is over het wel of niet voldoen aan de wet- en regelgeving. Voor een onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert. Wanneer er sprake is van zowel fouten als onzekerheden, dan weegt de accountant deze fouten en onzekerheden bij de oordeelsvorming altijd in onderlinge samenhang.
+De uitbetaling van het geleende bedrag zal geschieden door overschrijving op rekeningnummer [•] bij [•] ten gunste van geldnemer.
+
+1 Dit aflossingsschema niet opnemen indien er sprake is van een bijgevoegd aflossingsschema.
 
 ### 4. Rubriek C: het assurance-rapport met betrekking tot de dVi over het verslagjaar (cijfermatige verantwoording)
 
@@ -8513,11 +8513,11 @@ Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) in
 
 Geldgever is gerechtigd de overeenkomst, zonder rechterlijke tussenkomst en zonder ingebrekestelling, met onmiddellijke ingang op te zeggen en de door hem verstrekte lening met de rente, eventuele boete en/of vergoedingen en kosten, voor zover van toepassing, onmiddellijk op te eisen:
 
-Geldnemer is in verzuim door het enkele feit van het voorvallen van één van de in dit artikel vermelde gevallen van onmiddellijke opeisbaarheid. Geldnemer zal zodra één of meer der feiten plaatsvinden, welke ingevolge het in dit artikel bepaalde de lening opeisbaar doen zijn en van iedere voorgenomen wijziging in de statuten, Geldgever onverwijld in kennis stellen.
+Geldgever verklaart gedurende de looptijd van onderhavige lening de middelen niet te kunnen gebruiken voor DAEB-investeringen of aflossing van door de borgingsvoorziening geborgde leningen.
 
 Door het uitvoeren van deze deelwaarneming stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi nauwkeurig is.
 
-Geldgever verklaart gedurende de looptijd van onderhavige lening de middelen niet te kunnen gebruiken voor DAEB-investeringen of aflossing van door de borgingsvoorziening geborgde leningen.
+Geldnemer verklaart onderhavige lening uitsluitend aan te wenden voor de financiering van activiteiten die volgens bijlage B van Beleidsregel II, kader voor borging van geldleningen van Deelnemers van Stichting Waarborgfonds Sociale Woningbouw, van de borgingsvoorziening zijn toegestaan, dan wel voor aflossing van door de borgingsvoorziening geborgde leningen.
 
 ## Bijlage 9. bij [artikel 22c, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22c&z=2021-12-21&g=2021-12-21), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8631,7 +8631,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12b
 
-De waarde, bedoeld in de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), en [24a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=24a), is ten minste de beleidswaarde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2025-06-27&g=2025-06-27) bij deze regeling en ten hoogste de modelmatige marktwaarde voor de verkopende toegelaten instelling dan wel de getaxeerde marktwaarde in verhuurde staat.
+De waarde, bedoeld in de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), en [24a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=24a), is ten minste de beleidswaarde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling en ten hoogste de modelmatige marktwaarde voor de verkopende toegelaten instelling dan wel de getaxeerde marktwaarde in verhuurde staat.
 
 #### § 3. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
@@ -8687,13 +8687,13 @@ De waarde, bedoeld in de [artikelen 22, derde lid](https://wetten.overheid.nl/jc
 
 ### 3.2. Regelgeving die specifiek van toepassing is
 
-### Artikel 6
-
 ### Artikel 7
+
+### Artikel 8
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2022-01-01&g=2021-07-13) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-### Artikel 5
+### Artikel 10
 
 Bij de hiervoor beschreven deelwaarneming op de woningtoewijzing voldoet de woningcorporatie aan de volgende voorwaarden:
 
@@ -8785,9 +8785,9 @@ Vervallen
 
 ### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
-### Artikel 8
+### Artikel 9
 
-Gehele of gedeeltelijke extra aflossing van de lening is toegestaan, indien Geldgever en Geldnemer hierover gezamenlijk overeenstemming bereikten.
+Geldgever is gerechtigd de overeenkomst, zonder rechterlijke tussenkomst en zonder ingebrekestelling, met onmiddellijke ingang op te zeggen en de door hem verstrekte lening met de rente, eventuele boete en/of vergoedingen en kosten, voor zover van toepassing, onmiddellijk op te eisen:
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2021-11-30&g=2021-10-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8795,11 +8795,11 @@ Gehele of gedeeltelijke extra aflossing van de lening is toegestaan, indien Geld
 
 ### Artikel 7
 
-### Artikel 10
+### Artikel 11
 
-Geldnemer verklaart onderhavige lening uitsluitend aan te wenden voor de financiering van activiteiten die volgens bijlage B van Beleidsregel II, kader voor borging van geldleningen van Deelnemers van Stichting Waarborgfonds Sociale Woningbouw, van de borgingsvoorziening zijn toegestaan, dan wel voor aflossing van door de borgingsvoorziening geborgde leningen.
+Op deze overeenkomst is Nederlands recht van toepassing.
 
-In de sector zijn diverse initiatieven in ontwikkeling om de woningtoewijzing deels of geheel te automatiseren. Zowel de reguliere manier van woningtoewijzing als deze nieuwe initiatieven kunnen naast elkaar bestaan. Dit kan betekenen dat een deel van de woningtoewijzing op de reguliere manier gaat, terwijl een ander deel via een geautomatiseerde toewijzing gebeurt. De reguliere toewijzingen toetst de accountant door de deelwaarneming. De accountant kan voor het geautomatiseerde deel van de toewijzingen kiezen voor een systeemgerichte controle, inclusief gebruik maken van een assurance-rapportage van een accountantsorganisatie bij initiatieven om woningtoewijzingen te automatiseren, waaronder bijvoorbeeld inkomenstoetsing. De accountant kan ook kiezen voor de reguliere gegevensgerichte controle.
+Aldus in tweevoud opgemaakt en getekend,
 
 ## Bijlage 10. bij [artikel 22d, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2021-11-30&g=2021-10-28), Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8853,7 +8853,7 @@ Vervallen
 
 #### § 2. Slotbepalingen
 
-## Bijlage 2. bij de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2025-06-27&g=2025-06-27), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14a&z=2025-06-27&g=2025-06-27), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2025-06-27&g=2025-06-27) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2025-06-27&g=2025-06-27) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 2. bij de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14a&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 3.4.6. Verdere toelichting rekenwijze
 
@@ -8867,7 +8867,7 @@ Vervallen
 
 ### 20.2.2. Stap 1: beschikbaarheid (doorexploiteren)
 
-### 7. Onderdeel dVi 4.1 – Marktwaarde leningen en marktwaarde van derivaten
+### Raamomvereenkomst interest rate swaps
 
 ### Raamomvereenkomst interest rate swaps
 
@@ -8875,13 +8875,13 @@ Vervallen
 
 Bij de controle van de onderdelen a en b geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de marktwaardeberekening en de beleidswaardeberekening met de gecertificeerde jaarrekening, ongeacht of deze berekening op alle gegevens door de accountant bij de jaarrekeningcontrole is gecontroleerd. Hierbij is de uitkomst goed (geen verschil) of fout (wel verschil).
 
-Bij de controle van de onderdelen a, b en c geldt een materialiteit van 0%, aangezien het hierbij gaat om het vaststellen van de aansluiting van de dVi-informatie met de (toelichting bij de) gecertificeerde jaarrekening. In dat geval is de uitkomst goed (geen verschil) of fout (wel verschil).
+Geldnemer is in verzuim door het enkele feit van het voorvallen van één van de in dit artikel vermelde gevallen van onmiddellijke opeisbaarheid. Geldnemer zal zodra één of meer der feiten plaatsvinden, welke ingevolge het in dit artikel bepaalde de lening opeisbaar doen zijn en van iedere voorgenomen wijziging in de statuten, Geldgever onverwijld in kennis stellen.
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2022-01-01&g=2021-10-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### Artikel 6
 
-Op deze overeenkomst is Nederlands recht van toepassing.
+**Geldnemer** ...........................................................................................................................
 
 ## Bijlage 13. bij [artikel 40a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=40a&z=2022-01-01&g=2021-10-28), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -8913,7 +8913,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 3. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=16&z=2021-12-21&g=2021-12-21) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-## Bijlage 3. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=16&z=2025-06-27&g=2025-06-27) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 3. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 3.2. Regelgeving die specifiek van toepassing is
 
@@ -9194,7 +9194,7 @@ Naam: ____________________
 
 ### Artikel 9
 
-plaats ........................................................, d.d. ...................................................................
+plaats ......................................................., d.d. ....................................................................
 
 **Geldgever** .............................................................................................................................
 
@@ -9459,7 +9459,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 | Function | Function |
 |   |   |
 
-### Artikel 1
+### Artikel 4. 2 Als geldgever en geldnemer de rente baseren op het euribor-tarief moet de tekst van artikel 4 worden vervangen door de tekst op de website
 
 ## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2022-07-13&g=2022-07-13) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -9716,9 +9716,9 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 ### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
 
-Aldus in tweevoud opgemaakt en getekend,
+plaats ........................................................, d.d. ...................................................................
 
-**Geldnemer** ...........................................................................................................................
+**Geldgever** .............................................................................................................................
 
 ### Artikel 11
 
@@ -9740,9 +9740,258 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Onderzoeksobjecten
 
-## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2023-01-01&g=2023-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2023-01-01&g=2023-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+Financiële derivaten mogen uitsluitend worden aangetrokken onder de in de bijlage genoemde modelovereenkomst. Niet in de bijlage als zodanig opgenomen onderdeel van deze modelovereenkomst is het ISDA Master Agreement 2002. Deze Master Agreement 2002 is een gestandaardiseerd contract opgesteld door de International Swaps and Derivatives Association (ISDA), een organisatie voor handelaren in onderhandse derivaten wereldwijd en gevestigd in New York. De ISDA (en daarmee het Master Agreement 2002) zijn bereikbaar via website www.isda.org.
+
+Dated as of .....................
+
+between
+
+**Please fill in the name laid down by statute (‘Party A’)**
+
+and
+
+**[**toegelaten instelling**] (‘Party B’),**
+
+As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
+
+Party B is a Dutch housing association (‘toegelaten instelling’) and its main purpose is the stimulation of social housing in the Netherlands by means of public funding. As a result, Party B is supervised by the Dutch government and any supervisory bodies and institutions. In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368). Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 6 of the Dutch [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480).
+
+In this Agreement:
+
+- (a). **‘Specified Entity’**does not apply.
+
+- (b). **‘Specified Transaction’** will have the meaning specified in Section 14 of the Agreement.
+
+- (c). The **‘Cross-Default’** provisions of Section 5(a)(vi) of the Agreement will apply to Party A and will not apply to Party B provided, however, that notwithstanding the foregoing, an Event of Default shall not occur under either Section 5(a)(vi)(1) or (2) if (a) the event or condition referred to in Section 5(a)(vi)(1) or the failure to pay referred to in Section 5(a)(vi)(2) is a failure to pay caused by an error or omission of an administrative or operational nature; and (b) funds were available to such party to enable it to make the relevant payment when due; and (c) such relevant payment is made within three Local Business Days following receipt of written notice from an interested party of such failure to pay. If such provisions apply:
+
+- −. **‘Specified Indebtedness’** will have the meaning specified in Section 14.
+
+- −. **‘Threshold Amount’** means with respect to Party A, an amount equal to one percent (1%) of its total equity share capital (as specified from time to time in its most recent Annual Report containing consolidated financial statements, prepared in accordance with accounting principles that are generally accepted for institutions of its type in the jurisdiction of its organization and certified by independent public accountants), or its equivalent in any other currency.
+
+- (d). The **‘Credit Event Upon Merger’**provisions of Section 5(b)(v) of the Agreement will apply to Party A and will apply to Party B.
+
+- (e). The **‘Automatic Early Termination’** provision of Section 6(a) of the Agreement will apply, provided that Automatic Early Termination shall not apply upon the occurrence of an Event of Default with respect of Party B specified in Section 5(a)(vii) (3), (6) or, to the extend analogous thereto.
+
+- (f). **‘Termination Currency’**means Euro or the currency selected by the Non-defaulting Party or the Non-affected Party, or in the circumstance where there are two Affected Parties, agreed by Party A and Party B, and failing such agreement the Termination Currency shall be Euro.
+
+- (g). **‘Additional Termination Event’** will apply. The following will constitute an Additional Termination Event: For any reason the status of Party B as ‘toegelaten instelling’ is withdrawn in accordance with article 70 of the Dutch Housing Act (‘[Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)’).
+
+- (a). **Payer Representations.** For the purposes of Section 3(e), Party A and Party B will make the following representation: It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under X Section 9(h) of this Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, except that it will not be a breach of this representation where reliance is placed on clause (ii) above and the other party does not deliver a form or document under Section 4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+- (b). **Payee Representations**Party A and Party B make no Payee Tax representation.
+
+For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
+
+- (a). Tax forms, documents or certificates to be delivered are: Each party agrees to complete, accurately and in a manner reasonably satisfactory to the other party, and to execute, arrange for any required certification of, and deliver to the other party (or to such government or taxing authority as the other party reasonably directs), any form or document that may be required or reasonably requested in order to allow the other party to make a payment under this Agreement without any deduction or withholding for or on account of any Tax or with such deduction or withholding at a reduced rate, promptly upon the earlier of (i) reasonably demand by the other party and (ii) learning that the form or document is required.
+
+- (b). Other documents to be delivered are: **Please complete**
+
+- (a). **Addresses for Notices.**For the purpose of Section 12(a) of the Agreement: Address for notices or communications to Party A: **Please complete** Address for notices or communications to Party B: **Please complete**
+
+- (b). **Process Agent.**For the purpose of Section 13(c) of the Agreement: Party A appoints as its Process Agent in England: **Please complete** Party B appoints as its Process Agent in England: **Please complete**
+
+- (c). **Offices.**The provisions of Section 10(a) of the Agreement will apply.
+
+- (d). **Multibranch Party.**For the purpose of Section 10(b) of the Agreement: Party A [is not a Multibranch Party.] [is a Multibranch Party and may enter into a Transaction through any of the following Offices: **Please complete**]
+
+- (e). **Calculation Agent.**The Calculation Agent is Party A, unless otherwise specified in a Confirmation in relation to the relevant Transaction. Failure of the Party designated as Calculation Agent to perform, on a timely basis, any of its responsibilities as Calculation Agent shall not relieve the parties of their respective payment obligations under the Agreement and such failure shall not be considered an event which would permit the termination of this Agreement or any Transaction. If a Party (a ‘Disputing Party’) reasonably disputes the outcome of a calculation by the Calculation Agent, then the Disputing Party will notify the Calculation Agent thereof not later than the close of business on the Local Business Day following the relevant Payment Date. The parties will consult with each other in an attempt to resolve the dispute. If they fail to resolve the dispute by 5.00 p.m., CET, on the Local Business Day following the date on which the notice is given, the Calculation Agent will recalculate the disputed calculation by seeking four actual quotations at mid-market from third parties for purposes of making the relevant calculation, and taking the arithmetic average of those obtained; provided that if four quotations are not available for a particular Transaction, then fewer than four quotations may be used for that calculation, and if no quotations are available, then the Calculation Agent's original calculations will be used.
+
+- (f). **Credit Support Document.** None.
+
+- (g). **The Credit Support Provider.**[Not applicable/Means with respect to Party A: **Please complete**
+
+- (h). **Governing Law.**This Agreement will be governed by and construed in accordance with [Dutch] [English] Law.
+
+- (i). **Netting of Payments**. ‘Multiple Transaction Payment Netting’ [will not apply for the purpose of Section 2(c) of this Agreement.] [will apply for the purpose of Section 2(c) of this Agreement to [all Transactions payable on the same date and in the same currency.
+
+- (j). **‘Affiliate’**is not applicable.
+
+- (k). **No Agency.** The provisions of Section 3(g) will apply to this Agreement.
+
+- (a). **Inconsistency** Notwithstanding the provisions of Section 1(b) of the Agreement, in the event of any inconsistency between any of the following documents, the relevant document first listed below shall govern: (i) a Confirmation for the purpose of the relevant Transaction; (ii) the Schedule; (iii) the relevant ‘ISDA Definitions’ and (iv) the 2002 ISDA Master Agreement.
+
+- (b). **Change of Account** Section 2(b) shall be amended in full to read as follows: ‘**Change of Account**. Either party may change its account within the same currency as specified for the relevant payment or delivery in the Transaction by giving notice to the other party at least five Local Business Days prior to the scheduled date for payment or delivery to which such change applies unless such other party gives timely notice of a reasonable objection to such change, and provided that, if any new account of one party is not in the same jurisdiction as the original account, the other party shall not be obliged to pay any greater amount and shall not receive any lesser amount as a result of such change than would have been the case if such change had not taken place.’.
+
+- (c). **Financial Statements** Section 3(d) shall be amended by adding before the full stop at the end of Section 3(d): ‘, provided that in the case of financial statements delivered by either party, the only representation being made is that such financial statements give a fair view of the state of affairs of the entities which they cover as at their date of publication.’
+
+- (d). **Failure to Pay or Deliver** Section 5(a)(i) shall be amended by replacing ‘First Local Business Day’ and ‘First Local Delivery Day’ by ‘Third Local Business Day’ and ‘Third Local Delivery Day’ respectively’. Section 5(a)(i) shall be amended by adding at the end of Section 5(a)(i): ‘provided, however, that notwithstanding the foregoing, an Event of Default shall not occur if the failure to pay or deliver is caused by an error or omission of an administrative or operational nature and funds were available to such party to enable it to make the relevant payment or delivery when due and provided that such error or omission is remedied within three Local Business Days and/or three Local Delivery Days after notice of such failure being received.’
+
+- (e). **Default Under Specified Transaction** Section 5(a)(v)(2) shall be amended by replacing ‘First Local Business Day’ by ‘Third Local Business Day’.
+
+- (f). **Events** Section 5(a) and (b) shall be amended by adding Section 5(a)(ix): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (‘[Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)’) regarding Party B will not qualify as an Event of Default.’ and Section 5(b)(vii): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (‘Woningwet’) regarding Party B will not qualify as a Termination Event.’. Section 5(a) and (b) shall be amended by adding Section 5(a)(x): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as an Event of Default.’ and Section 5(b)(viii): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as a Termination Event.’.
+
+- (g). **Severability** In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal, or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby. The parties shall endeavour, in good faith negotiations, to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+- (h). **Confirmations.** Notwithstanding anything to the contrary in the Agreement:
+
+- (i). The parties hereto agree that with respect to each Transaction hereunder a legally binding agreement shall exist from the moment that the parties hereto agree on the essential terms of such Transaction, which the parties anticipate will occur by telephone.
+
+- (ii). For each Transaction Party A and Party B agree to enter into hereunder Party A shall promptly send to Party B a Confirmation setting forth the terms of such Transaction (which Confirmations shall be in a form agreed to by the parties exchanged by mail, facsimile or other electronic means). Party B shall execute and return the Confirmation to Party A or request correction of any error within three Local Business Days of receipt. Failure of Party B to respond within such period shall not affect the validity or enforceability of such Transaction and shall be deemed to be an affirmation of such terms absent manifest error.
+
+- (i). **Additional Agreements.** Each party agrees, upon learning of the occurrence of any event or commencement of any condition that constitutes (or that with the giving of notice or passage of time or both would constitute) an Event of Default or Termination Event with respect to such party, promptly to give the other party notice of such event or condition (or, in lieu of giving notice of such event or condition in the case of an event or condition that with the giving of notice or passage of time or both would constitute an Event of Default or Termination Event with respect to the party, to cause such event or condition to cease to exist before becoming an Event of Default or Termination Event).
+
+- (j). **Recording of Conversations**. Each party (i) consents to the recording of telephone conversations between the trading, marketing and other relevant personnel of the parties in connection with this Agreement or any potential Transaction, (ii) agrees to obtain any necessary consent of, and give any necessary notice of such recording to, its relevant personnel and (iii) agrees, to the extent permitted by applicable law, that recordings may be submitted in evidence in any Proceedings.
+
+- (k). **Amendment to Section 6(d)(ii).**Section 6(d)(ii) of the Agreement is hereby amended by adding the following proviso at the end of the first sentence: ‘; provided, however, that if any amount calculated as being due in respect of an Early Termination Date which is designated as a result of an Illegality or a Force Majeure Event cannot be paid on such day by the Office specified in the Confirmation(s) relating to the Terminated Transaction(s) as a result of such event, then such amount will be payable by such Office on the day which is two Local Business Days after the day on which the Illegality or a Force Majeure Event, as the case may be, no longer exists or, if earlier, on the date on which an Event of Default occurs.
+
+- (l). **Timely Confirmation.**
+
+- (i). Section 9(e)(ii) is amended by:
+
+- (A). replacing the word ‘practicable’ with the word ‘possible’ in the third line thereof; and
+
+- (B). inserting ‘or by other method intended by the parties to be effective for the purpose of confirming or evidencing such Transaction’ immediately before the words ‘which in each case will be sufficient’.
+
+- (ii). In respect of each Relevant Confirmation Transaction, Party A and Party B will use reasonable efforts acting in good faith and a commercially reasonable manner to ensure each Relevant Confirmation Transaction is confirmed by the Timely Confirmation Deadline.
+
+- (iii). In respect of each Relevant Confirmation Transaction: If the Receiving Party delivers a Not Confirmed Notice to the Documenting Party by the Timely Confirmation Deadline, Party A and Party B will use reasonable efforts acting in good faith and a commercially reasonable manner, to attempt to resolve the difference and confirm the Relevant Confirmation Transaction as soon as possible.
+
+- (A). the Documenting Party will deliver a Confirmation to the Receiving Party as soon as possible and at the latest by the Confirmation Delivery Deadline; and
+
+- (B). following the delivery in (A) above, the Receiving Party will, use reasonable efforts acting in good faith and a commercially reasonable manner, either confirm the Confirmation or deliver to the Documenting Party a Not Confirmed Notice as soon as possible and at the latest by the Timely Confirmation Deadline.
+
+- (iv). For the purposes of this Part 5(l): **‘CCP’** means a central clearing house authorised under Article 14 of EMIR or recognised under Article 25 of EMIR. **‘CCP Service’** means in respect of a CCP, an over-the-counter derivative clearing service offered by such CCP. **‘Cleared’** means, in respect of a Transaction, that such Transaction has been submitted (including where details of such Transaction are submitted) to a CCP for clearing in a relevant CCP Service and that such CCP has become a party to a resulting or corresponding transaction, as applicable, pursuant to such CCP's Rule Set. **‘Commission’** means the executive body of the European Union which is responsible for proposing legislation, implementing decisions, upholding the European Union's treaties and the day-to-day running of the European Union. **‘confirm’** means, with respect to a Confirmation provided by the Documenting Party to the Receiving Party, an acknowledgement in writing (whether by execution in counterpart of the Confirmation or otherwise) or electronically from the Receiving Party to the Documenting Party that the terms of such Confirmation reflect the terms of the Relevant Confirmation Transaction and **‘confirmed’** will be construed accordingly. **‘Confirmation Delivery Deadline’** means (i) 5:00 pm CET on the Local Business Day prior to the Timely Confirmation Deadline; or (ii) if the Timely Confirmation Deadline falls after the day that is the second Local Business Day following the Trade Date, 5:00 PM CET on the second Local Business Day immediately preceding the Timely Confirmation Deadline. Notwithstanding anything to the contrary in the Agreement, for this purpose **‘Local Business Day’** means, a day on which commercial banks and foreign exchange markets are generally open to settle payments in the city in which the office through which the Receiving Party is acting for the purposes of the Relevant Confirmation Transaction is located. **‘Documenting Party’** means Party A. **‘EMIR’** means Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories dated 4 July 2012. **European Union’** means the economic and political union established in 1993 by the Maastricht Treaty, with the aim of achieving closer economic and political union between member states that are primarily located in Europe. **‘Not Confirmed Notice’** means, with respect to a Confirmation provided by the Documenting Party, a written notice from the Receiving Party to the Documenting Party stating that the terms of such Confirmation do not accurately reflect the terms of the Transaction, which terms are inaccurate and what such terms should be, in the opinion of the Receiving Party. **‘Receiving Party’** means the party which is not the Documenting Party. **‘Relevant Confirmation Transaction’** means any Transaction which was not Cleared and entered into on or following the Timely Confirmation Start Date. **‘Rule Set’** means, with respect to a CCP Service, the relevant rules, conditions, procedures, regulations, standard terms, membership agreements, collateral addenda, notices, guidance, policies or other such documents promulgated by the relevant CCP and amended and supplemented from time to time. **‘Timely Confirmation Deadline’** means the end of the latest day by which such Relevant Confirmation Transaction must be confirmed in accordance with Article 12 of Chapter VIII of the Commission Delegated Regulation (EU) No 149/2013 published 23 February 2013 in the Official Journal of the European Union. If Party A to such Relevant Confirmation Transaction is not a ‘financial counterparty’ (as defined in EMIR), it will be deemed to be a financial counterparty solely for the purpose of determining such latest day. **‘Timely Confirmation Start Date’** means the twentieth day following the day of publication of Article 12 of Chapter VIII of the Commission Delegated Regulation (EU) No 149/2013 published 23 February 2013 in the Official Journal of the European Union. **‘Trade Date’** means the date of execution of the Transaction.
+
+- (m). **EMIR Reporting Obligation** The Parties agree that any reporting obligation that Party B is subject to under Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories dated 4 July 2012 is delegated to Party A.]6The parties may elect this Part 5 (m).
+
+- (n). **Incorporation and Interpretation of Definition** Any definitions published by the International Swaps and Derivatives Association, Inc., as amended, supplemented and replaced from time to time which shall apply to this Agreement will be referred to in the relevant Confirmation. In the event and to the extent that the relevant Confirmation does not refer to any definitions, the following applies: Reference is made to the following definitions, where applicable which are hereby incorporated by reference herein: the 2006 ISDA Definitions (the ‘ISDA Definitions’); and any terms used and not otherwise defined in the Confirmation shall have the meaning set forth therein.
+
+- (o). **Form of Agreement** The parties agree that the text of the body of this Agreement is intended to be the printed form of the ISDA 2002 Master Agreement as published and copyrighted by the International Swaps and Derivatives Association, Inc© (ISDA).
+
+IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+| Party A | Party B |
+| --- | --- |
+|   |   |
+| Date | Date |
+|   |   |
+| Signature | Signature |
+|   |   |
+| Name | Name |
+|   |   |
+| Function | Function |
+|   |   |
+
+- (a). **Base Currency and Eligible Currency**
+
+- (i). **‘Base Currency’** means euro.
+
+- (ii). **‘Eligible Currency’** means the Base Currency.
+
+- (b). **Credit Support Obligations**
+
+- (i). **Delivery Amount, Return Amount and Credit Support Amount**
+
+- (A). **‘Delivery Amount’** has the meaning specified in Paragraph 2(a).
+
+- (B). **‘Return Amount’** has the meaning specified in Paragraph 2(b).
+
+- (C). **‘Credit Support Amount’** has the meaning specified in Paragraph 10.
+
+- (ii). **Eligible Credit Support.** The following items will qualify as **‘Eligible Credit Support’** for Party A: ¹ The parties may elect (B) and (C) together, not separately.
+
+|   |   | Party A | Party B | Valuation Percentage |
+| --- | --- | --- | --- | --- |
+| **(A)** | **Cash in an Eligible Currency** | Yes | Yes | 100% |
+| **(B)** | **Negotiable debt obligations issued by the Governments of the Euro-zone, the United States of America, and the United Kingdom having a remaining maturity of not more than five years from the Valuation Date and being rated at least AAA (S&P) or AAA (Fitch Ratings) or Aaa (Moody’s) on the Valuation Date and which settle through an Approved Clearing System.** | Yes | Yes | 97% |
+| **(C)** | **Negotiable debt obligations issued by the Governments of the Euro-zone, the United States of America, and the United Kingdom having a remaining maturity of five years or more from the Valuation Date and being rated at least AAA (S&P) or AAA (Fitch Ratings) or Aaa (Moody’s) on the Valuation Date and which settle through an Approved Clearing System.]¹** | Yes | Yes | 95% |
+| **(D)** | **Such other Eligible Collateral as may be agreed between the parties** | Yes | Yes | As agreed between the parties. |
+
+- (iii). **Thresholds**
+
+- (A). **‘Independent Amount’** means with respect to Party A: **please complete** **‘Independent Amount’** means with respect to Party B: None.
+
+- (B). **‘Threshold’** means with respect to Party A: None. **‘Threshold’** means with respect to Party B: please complete
+
+- (C). **‘Minimum Transfer Amount’** means with respect to Party A and Party B: The amount equivalent to 10,000 euro.
+
+- (D). **Rounding**. The Delivery Amount and the Return Amount will be rounded up or down to the nearest integral multiple of 10,000 euro.
+
+- (c). **Valuation and Timing**
+
+- (i). **‘Valuation Agent’** means, for the purposes of Paragraphs 2 and 4, and for the purposes of Paragraph 5(c): Party A. The valuation of the Credit Support Amount shall be made pursuant to Paragraph 3(b) and pursuant to the following procedures:
+
+- (A). Party A shall before the Notification Time report by email to Party B:
+
+- (a). The market value of each collateralised transaction, denominated in euro.
+
+- (b). The market value of the posted collateral to Party B, denominated in euro.
+
+- (c). The Credit Support Amount, denominated in euro.
+
+- (B). If Party A’s determination remains undisputed, Party B shall notify the Valuation Agent of the agreed Delivery Amount (if any) or the Return Amount (if any) by email.
+
+- (C). If the Delivery Amount or the Return Amount, as the case may be, on a Local Business Day equals or exceeds the Minimum Transfer Amount, as the case may be, and if both parties agree, then Eligible Credit Support will be transferred pursuant to Paragraph 2.
+
+- (ii). **‘Valuation Date** means each Local Business Day.
+
+- (iii). **‘Valuation Time’** means the close of business on the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+- (iv). **‘Notification Time’** means 2.00 p.m., CET, on the Local Business Day following the applicable Valuation Date.
+
+- (d). **Exchange Date** **‘Exchange Date’** has the meaning specified in Paragraph 3(c)(ii).
+
+- (e). **Dispute Resolution**
+
+- (i). **‘Resolution Time’** means 5.00 p.m., CET, on the Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 4.
+
+- (ii). **‘Value.’** For the purpose of Paragraphs 4(a)(4)(i)(C) and 4(a)(4)(ii), the Value of the outstanding Credit Support Balance or of any transfer of Eligible Credit Support or Equivalent Credit Support, as the case may be, will be calculated as follows: Disputes over value will be resolved by the Valuation Agent seeking four bid quotes as of the relevant Valuation Date or date of Transfer from parties that regularly act as nationally recognised principal market makers in the securities or other property in question. The Value will be the arithmetic mean of the quotes received by the Valuation Agent multiplied by the applicable Valuation Percentage.
+
+- (iii). **‘Alternative.’** The provisions of Paragraph 4 will apply.
+
+- (f). **Distributions and Interest Amount**
+
+- (i). **Interest Rate.** The **‘Interest Rate’** with exception of the condition mentioned hereafter under (iv) will be EONIA. ‘EONIA’ for any day means the reference rate equal to the overnight rate as calculated on an actual / 360 day count by the European Central Bank and appearing on different publication media on the first TARGET Settlement Day following that day. For the purposes of this Annex, TARGET Settlement Day means any day on which the Trans-European Automated Real-Time Gross Settlement Express Transfer (TARGET2) System is open.
+
+- (ii). **Transfer of Interest Amount.** The transfer of the Interest Amount will be made on last Local Business Day of each calendar month and on any Local Business Day that a Return Amount consisting wholly or partly of cash is transferred to Party A pursuant to Paragraph 2(b).
+
+- (iii). **Alternative to Interest Amount.** The provisions in Paragraph 5(c)(ii) will apply.
+
+- (g). **Addresses for Transfers**
+
+- (i). **[In the case of securities:** Party A and Party B: **please complete** **in the case of cash:**]8Will apply when Paragraph 11(b)ii)(B) and (C) are elected. Directly by Target to **please complete**
+
+- (h). **Amendments to the Annex**
+
+- (i). The terms of Paragraph 4(a)(4)(i)(B) are amended in their entirety as follows: ‘(B) calculating that part of the Exposure attributable to the Transactions in dispute by seeking four actual quotations at mid-market from third parties for purposes of calculating the relevant Close-out Amount, and taking the arithmetic average of those obtained; provided that if four quotations are not available for a particular Transaction, then fewer than four quotations may be used for that Transaction, and if no quotations are available for a particular Transaction, then the Valuation Agent's original calculations will be used for the Transaction; and’
+
+- (ii). The terms of Paragraph 6 are amended to read in their entirety as follows: ‘If an Early Termination Date is designated or deemed to occur as a result of an Event of Default in relation to a party, an amount equal to the Value of the Credit Support Balance, determined as though the Early Termination Date were a Valuation Date, will be deemed to be an Unpaid Amount due to the Transferor (which may or may not be the Defaulting Party) for purposes of Section 6(e). For the avoidance of doubt, the Close-out Amount determined under Section 6(e) in relation to the Transaction constituted by this Annex will be deemed to be zero. For purposes of this Paragraph 6, the Value of the Credit Support Balance shall be determined on the basis that the Valuation Percentage applicable to each item of Eligible Credit Support is 100%.’
+
+- (iii). The term ‘Exposure’ in Paragraph 10 of the Annex is hereby amended to read in its entirety as follows: **‘Exposure’** means, with respect to a party on a Valuation Date and subject to Paragraph 4 in the case of a dispute, the amount, if any, that would be payable to that party by the other party (expressed as a positive number) or by that party to the other party (expressed as a negative number) pursuant to Section 6(e)(ii)(1) of this Agreement if all Transactions (other than the Transaction constituted by this Annex) were being terminated as of the relevant Valuation Time, on the basis that (i) that party is not the Affected Party and (ii) the Base Currency is the Termination Currency; provided that the Close-out Amount will be determined by the Valuation Agent on behalf of that party using its estimates at mid-market of the amounts that would be paid for transactions providing the economic equivalent of (x) the material terms of the Transactions, including the payments and deliveries by the parties under Section 2(a)(i) in respect of the Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that date (assuming satisfaction of the conditions precedent in Section 2(a)(iii)); and (y) the option rights of the parties in respect of the Transactions.
+
+- (i). **Other Provisions**
+
+- (i). [All references in this annex to the ‘Transferee’ shall be read as references to Party B, and all corresponding references to the ‘Transferor’ shall be read as references to Party A.]9Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (ii). **Minimum Transfer Amount.** Notwithstanding the provisions of Paragraph 11(b)(iii)(C), when the Credit Support Amount with respect to both parties on a Valuation Date is zero or provided, that if an Event of Default or Termination Event has occurred and is continuing, the Minimum Transfer Amount with respect to both parties will be zero.
+
+- (iii). [**‘Euro-zone’** means the region comprised of members states of the European Union that adopt the single currency in accordance to the EC Treaty (Treaty establishing the European Community (signed in Rome on 25th March, 1957), as amended by the Treaty on European Union (signed in Maastricht on 7th February, 1992).]10Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (iv). **‘Local Business Day’** means TARGET Settlement Day.
+
+- (v). **‘Local Delivery Day’** means TARGET Settlement Day.
+
+- (vi). [**‘Approved Clearing System’** means the securities clearing system operated by Clearstream Banking S.A. or Euroclear System.]11Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (vii). **Demands and Notices.** Paragraph 9(c) of this Annex shall be deleted in its entirety and replaced with the following: All demands and notices given by a party under this Annex will be given as specified hereunder with regard to: **Party A:** **please complete** **Party B:** **please complete**
+
+IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+| Party A | Party B |
+| --- | --- |
+|   |   |
+| Date | Date |
+|   |   |
+| Signature | Signature |
+|   |   |
+| Name | Name |
+|   |   |
+| Function | Function |
+|   |   |
+
+## Bijlage 8. bij [artikel 40a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=40a&z=2026-01-01&g=2026-01-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2023-01-01&g=2023-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -9997,7 +10246,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 ## Bijlage 8. bij [artikel 40a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=40a&z=2023-01-01&g=2023-01-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-### Artikel 2
+### Artikel 3
 
 ### 4.4. Oordelen in het assurance-rapport
 
@@ -10264,11 +10513,11 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 ### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
-### Artikel 7
+### Artikel 2
 
 ### Artikel 4. 2 Als geldgever en geldnemer de rente baseren op het euribor-tarief moet de tekst van artikel 4 worden vervangen door de tekst op de website
 
-### 4.4. Oordelen in het assurance-rapport
+### Artikel 6
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -10282,7 +10531,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Artikel 11
+### Artikel 12
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2024-04-24&g=2024-04-24) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -11587,5 +11836,51 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 |   |   |
 
 ## Bijlage 8. bij [artikel 40a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=40a&z=2025-06-27&g=2025-06-27), van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+**dPi (de Prospectieve informatie) forecast 2025 en prognosejaren 2026–2030**
+
+**INHOUDSOPGAVE**
+
+**Hoofdstuk 1 – Algemeen**
+
+1.1 – Algemene gegevens
+
+**Hoofdstuk 2 – Activiteiten**
+
+2.1 – Activiteitenoverzicht
+
+2.2 – Projecten nieuwbouw
+
+2.3 – Prognose ontwikkeling bezit
+
+2.4 – Prognose ontwikkeling energielabel woonruimte
+
+2.5 – Prognose ontwikkeling conditiescore woonruimte
+
+2.7 – Toelichting waardering bezit
+
+2.9 – Prognose geclusterde woonvormen en verpleegzorgplekken
+
+2.10 – Prognose aantal woningen isolatie en aardgasvrij
+
+**Hoofdstuk 3 – Financiële prognose**
+
+3.1 – Prognose balans
+
+3.3 – Prognose kasstroomoverzicht
+
+3.4 – Toelichtingen prognose balans en kasstroomoverzicht
+
+**Hoofdstuk 4 – Treasury**
+
+4.1 – Agio van leningen
+
+4.3 – Aflossingsschema interne lening
+
+## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2026-01-01&g=2026-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
