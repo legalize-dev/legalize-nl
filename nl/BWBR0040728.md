@@ -4,7 +4,7 @@ identifier: "BWBR0040728"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040728"
 soort: "wet"
@@ -64,13 +64,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **fysieke infrastructuur:** fysieke infrastructuur als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **gebiedsinformatie:** het geheel van informatie dat door beheerders of netwerkexploitanten, ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon;
+- **gebiedsinformatie:** het geheel van informatie dat door beheerders of netwerkexploitanten, ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon;
 
-- **graafbericht:** het bericht van de Dienst, bedoeld in [artikel 10, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01);
+- **graafbericht:** het bericht van de Dienst, bedoeld in [artikel 10, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01);
 
 - **graaflocatie:** de locatie waar graafwerkzaamheden worden verricht;
 
-- **graafmelding:** de melding aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01);
+- **graafmelding:** de melding aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01);
 
 - **graafpolygoon:** de weergave door een grondroerder van het gebied, waarbinnen de graaflocatie zich bevindt;
 
@@ -96,11 +96,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **opdrachtgever:** degene die opdracht geeft tot het uitvoeren van een werk waarbij graafwerkzaamheden worden verricht;
 
-- **oriëntatiepolygoon:** de weergave door een opdrachtgever, grondroerder, aanbieder of bestuursorgaan van een aangesloten gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01), om gebiedsinformatie verzoekt;
+- **oriëntatiepolygoon:** de weergave door een opdrachtgever, grondroerder, aanbieder of bestuursorgaan van een aangesloten gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), om gebiedsinformatie verzoekt;
 
 - **oriëntatieverzoek:** het verzoek aan de Dienst om gebiedsinformatie, bedoeld in artikel 7, eerste tot en met derde lid;
 
-- **registratiemelding:** de melding van de beheerder of een netwerkexploitant, bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01);
+- **registratiemelding:** de melding van de beheerder of een netwerkexploitant, bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01);
 
 - **richtlijn nr. 2014/61/EU:** [richtlijn nr. 2014/61](32014L0061)/EU van het Europees Parlement en de Raad van de Europese Unie van 15 mei 2014 inzake maatregelen ter verlaging van kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014 L 155).
 
@@ -140,7 +140,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De informatie, bedoeld in het eerste lid, wordt door de gebruikers die de informatie via het elektronisch informatiesysteem ontvangen vertrouwelijk behandeld en uitsluitend aan derden verstrekt voor zover dat noodzakelijk is voor het bereiken van de in het eerste lid, genoemde doelen.
 
-3. In het elektronische informatiesysteem wordt op verzoek van een beheerder informatie bewaard als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01).
+3. In het elektronische informatiesysteem wordt op verzoek van een beheerder informatie bewaard als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 5
 
@@ -176,7 +176,7 @@ geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het behe
 
 - a. reeds heeft voldaan aan de verplichtingen in het tweede lid, onderdelen a en b, of
 
-- b. uitsluitend antenne-opstelpunten beheert en diegene de informatie als bedoeld in [artikel 12, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), omtrent die antenne-opstelpunten middels het antenneregister toegankelijk heeft gemaakt.
+- b. uitsluitend antenne-opstelpunten beheert en diegene de informatie als bedoeld in [artikel 12, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), omtrent die antenne-opstelpunten middels het antenneregister toegankelijk heeft gemaakt.
 
 4. Indien sprake is van overdracht van een net of een deel van dat net, doen de oude en de nieuwe beheerder gezamenlijk melding van de wijziging, bedoeld in het tweede lid.
 
@@ -210,15 +210,15 @@ geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het behe
 
 1. Bij algemene maatregel van bestuur kunnen bepaalde categorieën grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.
 
-2. Vrijstelling laat de op de grondroerder rustende zorgplichten, bedoeld in [artikel 2, eerste, tweede en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), onverlet.
+2. Vrijstelling laat de op de grondroerder rustende zorgplichten, bedoeld in [artikel 2, eerste, tweede en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), onverlet.
 
-3. [Artikel 2, derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), is niet van toepassing op de grondroerders, bedoeld in het eerste lid.
+3. [Artikel 2, derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), is niet van toepassing op de grondroerders, bedoeld in het eerste lid.
 
 4. Voor de toepassing van dit artikel wordt de opdrachtgever voor graafwerkzaamheden als bedoeld in het eerste lid aangemerkt als grondroerder indien de opdrachtgever eigenaar of beheerder is van de grond waarin de werkzaamheden worden uitgevoerd.
 
 ##### Artikel 10
 
-Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01), of van een graafmelding als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01):
+Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), of van een graafmelding als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01):
 
 - a. verstrekt de Dienst aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan onverwijld een ontvangstbevestiging;
 
@@ -236,17 +236,17 @@ Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweed
 
 - b. de relevante eigenschappen van zijn net;
 
-- c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), noodzakelijk zijn, en
+- c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), noodzakelijk zijn, en
 
 - d. zijn contactgegevens.
 
-2. De beheerder van wie de Dienst informatie bewaart als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01) voldoet daarmee aan het eerste lid.
+2. De beheerder van wie de Dienst informatie bewaart als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01) voldoet daarmee aan het eerste lid.
 
 3. Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.
 
 ##### Artikel 12
 
-1. Indien een verzoek betrekking heeft op medegebruik verstrekt een netwerkexploitant via het elektronische informatiesysteem onverwijld doch uiterlijk binnen twee werkdagen nadat de Dienst een oriëntatieverzoek als bedoeld in [artikel 10, aanhef en onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), heeft doorgezonden, in ieder geval de volgende informatie omtrent zijn netwerk binnen de betreffende oriëntatiepolygoon aan de Dienst:
+1. Indien een verzoek betrekking heeft op medegebruik verstrekt een netwerkexploitant via het elektronische informatiesysteem onverwijld doch uiterlijk binnen twee werkdagen nadat de Dienst een oriëntatieverzoek als bedoeld in [artikel 10, aanhef en onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), heeft doorgezonden, in ieder geval de volgende informatie omtrent zijn netwerk binnen de betreffende oriëntatiepolygoon aan de Dienst:
 
 - a. de locatie en route van zijn fysieke infrastructuur;
 
@@ -256,7 +256,7 @@ Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweed
 
 2. Indien een verzoek betrekking heeft op coördinatie verstrekt een netwerkexploitant, in ieder geval de volgende informatie omtrent zijn netwerk binnen de betreffende oriëntatiepolygoon:
 
-- a. zijn contactgegevens: onverwijld doch uiterlijk binnen twee werkdagen nadat de Dienst een oriëntatieverzoek als bedoeld in [artikel 10, aanhef en onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), heeft doorgezonden en via het elektronische informatiesysteem aan de Dienst;
+- a. zijn contactgegevens: onverwijld doch uiterlijk binnen twee werkdagen nadat de Dienst een oriëntatieverzoek als bedoeld in [artikel 10, aanhef en onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), heeft doorgezonden en via het elektronische informatiesysteem aan de Dienst;
 
 - b. de locatie en het type werkzaamheden, de betrokken netwerkelementen, en de geraamde datum voor de aanvang van de werkzaamheden en de duur daarvan: binnen twee weken en per post, per fax of per elektronische post aan de aanbieder die om informatie omtrent coördineren heeft verzocht.
 
@@ -264,15 +264,15 @@ Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweed
 
 ##### Artikel 13
 
-1. De Dienst verstrekt gebiedsinformatie via het elektronische informatiesysteem onverwijld na ontvangst van alle informatie als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01), of de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01) doch uiterlijk binnen twee werkdagen na verzending van het graafbericht of het verzoek om informatie als bedoeld in [artikel 10, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan.
+1. De Dienst verstrekt gebiedsinformatie via het elektronische informatiesysteem onverwijld na ontvangst van alle informatie als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), of de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01) doch uiterlijk binnen twee werkdagen na verzending van het graafbericht of het verzoek om informatie als bedoeld in [artikel 10, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan.
 
-2. De Dienst informeert een beheerder van wie de Dienst informatie bewaart als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01) over de informatie, bedoeld in [artikel 11, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), die de Dienst namens hem heeft verstrekt.
+2. De Dienst informeert een beheerder van wie de Dienst informatie bewaart als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01) over de informatie, bedoeld in [artikel 11, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), die de Dienst namens hem heeft verstrekt.
 
-3. Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, respectievelijk de termijn van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), van alle beheerders de ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.
+3. Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, respectievelijk de termijn van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), van alle beheerders de ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.
 
 ##### Artikel 14
 
-Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), gezamenlijk worden gedaan door tussenkomst van een door Onze Minister aan te wijzen organisatie, bij regeling vrijstelling verlenen van de verplichtingen ten aanzien van de termijnen, bepaald in de artikelen 8, eerste lid, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13&z=2024-01-01&g=2024-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01). De vrijstelling kan onder beperkingen worden verleend.
+Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), gezamenlijk worden gedaan door tussenkomst van een door Onze Minister aan te wijzen organisatie, bij regeling vrijstelling verlenen van de verplichtingen ten aanzien van de termijnen, bepaald in de artikelen 8, eerste lid, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13&z=2026-01-01&g=2026-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01). De vrijstelling kan onder beperkingen worden verleend.
 
 ##### Artikel 15
 
@@ -312,7 +312,7 @@ De grondroerder meldt schade aan een net als gevolg van zijn graafwerkzaamheden 
 
 1. Indien de grondroerder een net aantreft dat niet in de door de Dienst verstrekte liggingsgegevens is vermeld of waarvan niet duidelijk is wie de beheerder is, meldt de grondroerder dit onverwijld bij de Dienst.
 
-2. De Dienst bericht onverwijld alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met de graafpolygoon en de bij ministeriële regeling te bepalen beheerders dat er een net is aangetroffen, waarover geen liggingsgegevens zijn verstrekt als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01).
+2. De Dienst bericht onverwijld alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met de graafpolygoon en de bij ministeriële regeling te bepalen beheerders dat er een net is aangetroffen, waarover geen liggingsgegevens zijn verstrekt als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01).
 
 3. Indien er een beheerder van het net is, meldt deze zich onverwijld bij de Dienst.
 
@@ -322,15 +322,15 @@ De grondroerder meldt schade aan een net als gevolg van zijn graafwerkzaamheden 
 
 - b. registreert de Dienst de globale ligging van de met betrekking tot dat net bekende gegevens als polygoon.
 
-5. Voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01) wordt de gemeente, bedoeld in het vierde lid, gelijkgesteld met een beheerder.
+5. Voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01) wordt de gemeente, bedoeld in het vierde lid, gelijkgesteld met een beheerder.
 
 ##### Artikel 21
 
-Op een gemeente die gegevens heeft ontvangen door toepassing van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2024-01-01&g=2024-01-01), zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2024-01-01&g=2024-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), en [19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing met dien verstande dat de gemeente de met betrekking tot dat net bekende gegevens verstrekt, met inbegrip van eventuele correcties ingevolge artikel 19, tweede lid.
+Op een gemeente die gegevens heeft ontvangen door toepassing van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), en [19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing met dien verstande dat de gemeente de met betrekking tot dat net bekende gegevens verstrekt, met inbegrip van eventuele correcties ingevolge artikel 19, tweede lid.
 
 ##### Artikel 22
 
-De Dienst bewaart gedurende een bij algemene maatregel van bestuur te bepalen periode gegevens over de uitvoering van de [artikelen 6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13&z=2024-01-01&g=2024-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2024-01-01&g=2024-01-01), [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2024-01-01&g=2024-01-01), met uitzondering van de gegevens, bedoeld in de artikelen 11, eerste lid, onderdelen a, b en c, en 12, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a.
+De Dienst bewaart gedurende een bij algemene maatregel van bestuur te bepalen periode gegevens over de uitvoering van de [artikelen 6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), met uitzondering van de gegevens, bedoeld in de artikelen 11, eerste lid, onderdelen a, b en c, en 12, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a.
 
 ### Hoofdstuk 5. Geschilbeslechting omtrent informatie-uitwisseling ten behoeve van medegebruik van fysieke infrastructuur of coördinatie van civiele werken
 
@@ -352,17 +352,17 @@ De Dienst bewaart gedurende een bij algemene maatregel van bestuur te bepalen pe
 
 ##### Artikel 25
 
-1. Onze Minister beslist zo spoedig mogelijk op een aanvraag als bedoeld in [artikel 23, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2024-01-01&g=2024-01-01), doch, behoudens buitengewone omstandigheden, uiterlijk binnen twee maanden na ontvangst van die aanvraag.
+1. Onze Minister beslist zo spoedig mogelijk op een aanvraag als bedoeld in [artikel 23, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2026-01-01&g=2026-01-01), doch, behoudens buitengewone omstandigheden, uiterlijk binnen twee maanden na ontvangst van die aanvraag.
 
 2. Onverminderd het eerste lid, kan Onze Minister in spoedeisende gevallen een voorlopig besluit nemen dat tussen de betrokkenen geldt tot het definitieve besluit van Onze Minister.
 
 ##### Artikel 26
 
-Een bij een geschil betrokken partij volgt de door Onze Minister op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2024-01-01&g=2024-01-01) genomen besluit op. Onze Minister kan daarbij termijnen stellen.
+Een bij een geschil betrokken partij volgt de door Onze Minister op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2026-01-01&g=2026-01-01) genomen besluit op. Onze Minister kan daarbij termijnen stellen.
 
 ##### Artikel 27
 
-Van een besluit als bedoeld in [artikel 23, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2024-01-01&g=2024-01-01), wordt mededeling gedaan in de Staatscourant.
+Van een besluit als bedoeld in [artikel 23, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=23&z=2026-01-01&g=2026-01-01), wordt mededeling gedaan in de Staatscourant.
 
 ### Hoofdstuk 6. Nadere regelgeving
 
@@ -370,43 +370,43 @@ Van een besluit als bedoeld in [artikel 23, eerste, tweede of derde lid](https:/
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
-- a. de informatie die op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01) wordt verstrekt, waarbij voor verschillende categorieën netten en netwerkexploitanten verschillende regels kunnen worden gesteld, en de wijze waarop die informatie wordt verstrekt;
+- a. de informatie die op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01) wordt verstrekt, waarbij voor verschillende categorieën netten en netwerkexploitanten verschillende regels kunnen worden gesteld, en de wijze waarop die informatie wordt verstrekt;
 
 - b. de toegang tot en de aansluiting op het informatiesysteem;
 
 - c. beheerpolygonen, oriëntatiepolygonen en graafpolygonen.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de situatie dat vanwege de door een calamiteit geboden spoed niet aan [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), kan worden voldaan dan wel de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&z=2024-01-01&g=2024-01-01) beschreven procedure kan worden gevolgd, waarbij voor zover nodig van dat artikel onderscheidenlijk de bepalingen van dat hoofdstuk kan worden afgeweken.
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de situatie dat vanwege de door een calamiteit geboden spoed niet aan [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), kan worden voldaan dan wel de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&z=2026-01-01&g=2026-01-01) beschreven procedure kan worden gevolgd, waarbij voor zover nodig van dat artikel onderscheidenlijk de bepalingen van dat hoofdstuk kan worden afgeweken.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over:
 
-- a. het op zorgvuldige wijze verrichten van graafwerkzaamheden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01);
+- a. het op zorgvuldige wijze verrichten van graafwerkzaamheden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01);
 
 - b. registratiemeldingen, oriëntatieverzoeken en graafmeldingen;
 
-- c. de voorzorgsmaatregelen en de inachtneming daarvan, bedoeld in [artikel 15, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01);
+- c. de voorzorgsmaatregelen en de inachtneming daarvan, bedoeld in [artikel 15, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01);
 
-- d. de ontvangstbevestiging, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), en het graafbericht, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01);
+- d. de ontvangstbevestiging, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), en het graafbericht, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01);
 
-- e. het contact en de afspraken, bedoeld in de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2024-01-01&g=2024-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01).
+- e. het contact en de afspraken, bedoeld in de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01).
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. meldingen als bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2024-01-01&g=2024-01-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01), en [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2024-01-01&g=2024-01-01);
+- a. meldingen als bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), en [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01);
 
-- b. het bewaren en verstrekken van de informatie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=22&z=2024-01-01&g=2024-01-01).
+- b. het bewaren en verstrekken van de informatie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=22&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 29
 
-1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de gebiedsinformatie die op grond van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01) aan de grondroerder of de aanbieder van een openbaar telecommunicatienetwerk wordt verstrekt, waarbij voor verschillende categorieën graafwerkzaamheden, netwerkexploitanten, fysieke infrastructuur of civiele werkzaamheden verschillende regels kunnen worden gesteld, en de wijze waarop die gebiedsinformatie wordt verstrekt.
+1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de gebiedsinformatie die op grond van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) aan de grondroerder of de aanbieder van een openbaar telecommunicatienetwerk wordt verstrekt, waarbij voor verschillende categorieën graafwerkzaamheden, netwerkexploitanten, fysieke infrastructuur of civiele werkzaamheden verschillende regels kunnen worden gesteld, en de wijze waarop die gebiedsinformatie wordt verstrekt.
 
-2. Bij regeling van het bestuur van de Dienst worden regels gesteld omtrent de wijze waarop de registratie van beheerders of netwerkexploitanten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01) plaatsvindt.
+2. Bij regeling van het bestuur van de Dienst worden regels gesteld omtrent de wijze waarop de registratie van beheerders of netwerkexploitanten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01) plaatsvindt.
 
 3. Bij regeling van het bestuur van de Dienst kunnen regels worden gesteld omtrent de tijden gedurende welke oriëntatieverzoeken en graafmeldingen kunnen worden gedaan.
 
 ##### Artikel 30
 
-Bij algemene maatregel van bestuur kunnen gebieden worden aangewezen ten aanzien waarvan om veiligheidsredenen kan worden afgeweken van de voorschriften gesteld bij of krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&z=2024-01-01&g=2024-01-01). Daarbij kunnen regels worden gesteld over de informatie-uitwisseling omtrent die gebieden of de daarin gelegen fysieke infrastructuur of civiele werken.
+Bij algemene maatregel van bestuur kunnen gebieden worden aangewezen ten aanzien waarvan om veiligheidsredenen kan worden afgeweken van de voorschriften gesteld bij of krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&z=2026-01-01&g=2026-01-01). Daarbij kunnen regels worden gesteld over de informatie-uitwisseling omtrent die gebieden of de daarin gelegen fysieke infrastructuur of civiele werken.
 
 ##### Artikel 31
 
@@ -416,19 +416,19 @@ Indien de in deze wet geregelde onderwerpen in het belang van een goede uitvoeri
 
 ##### Artikel 32
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01), [6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2024-01-01&g=2024-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01), [15, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2024-01-01&g=2024-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2024-01-01&g=2024-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=26&z=2024-01-01&g=2024-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2024-01-01&g=2024-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2024-01-01&g=2024-01-01) en [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2024-01-01&g=2024-01-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), [6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2026-01-01&g=2026-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2026-01-01&g=2026-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=26&z=2026-01-01&g=2026-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2026-01-01&g=2026-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2026-01-01&g=2026-01-01) en [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2026-01-01&g=2026-01-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 33
 
-Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01), [6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2024-01-01&g=2024-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01), [15, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2024-01-01&g=2024-01-01), [28, eerste, tweede en derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2024-01-01&g=2024-01-01) en [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2024-01-01&g=2024-01-01).
+Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), [6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2026-01-01&g=2026-01-01), [28, eerste, tweede en derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2026-01-01&g=2026-01-01) en [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 34
 
-1. Ingeval van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01) en [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450.000.
+1. Ingeval van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) en [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450.000.
 
-2. Ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2024-01-01&g=2024-01-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2024-01-01&g=2024-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2024-01-01&g=2024-01-01), [15, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2024-01-01&g=2024-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2024-01-01&g=2024-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2024-01-01&g=2024-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2024-01-01&g=2024-01-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2024-01-01&g=2024-01-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100.000.
+2. Ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2026-01-01&g=2026-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2026-01-01&g=2026-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2026-01-01&g=2026-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2026-01-01&g=2026-01-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2026-01-01&g=2026-01-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100.000.
 
 ### Hoofdstuk 8. Bevoegdheid gemeenten
 
@@ -488,7 +488,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. relevante eigenschappen van het net;
 
-- c. informatie over voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2024-01-01&g=2024-01-01), en
+- c. informatie over voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), en
 
 - d. contactgegevens van de beheerder.
 
@@ -504,7 +504,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13b
 
-1. Indien ingeval van een graafmelding sprake is van een melding van voorzorgsmaatregelen als bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01), neemt de grondroerder contact op met de desbetreffende beheerder om afspraken te maken over de te treffen voorzorgsmaatregelen.
+1. Indien ingeval van een graafmelding sprake is van een melding van voorzorgsmaatregelen als bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), neemt de grondroerder contact op met de desbetreffende beheerder om afspraken te maken over de te treffen voorzorgsmaatregelen.
 
 2. De grondroerder en de beheerder leggen de afspraken, bedoeld in het eerste lid, schriftelijk vast.
 
@@ -530,11 +530,11 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en verv
 
 ##### Artikel 41a
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01) is een beheerder voor de delen van zijn net die bestaan uit de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) niet verplicht om liggingsgegevens daarvan aan de Dienst te verstrekken voor zover hij die liggingsgegevens niet beschikbaar heeft in de voor overdracht via het elektronische informatiesysteem, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=4&z=2024-01-01&g=2024-01-01), voorgeschreven weergave en voor zover geen sprake is van renovatie of onderhoud van de desbetreffende delen van zijn net.
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) is een beheerder voor de delen van zijn net die bestaan uit de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) niet verplicht om liggingsgegevens daarvan aan de Dienst te verstrekken voor zover hij die liggingsgegevens niet beschikbaar heeft in de voor overdracht via het elektronische informatiesysteem, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=4&z=2026-01-01&g=2026-01-01), voorgeschreven weergave en voor zover geen sprake is van renovatie of onderhoud van de desbetreffende delen van zijn net.
 
 2. Ten aanzien van een net als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) is het eerste lid van toepassing tot en met 31 december 2019.
 
-3. Ten aanzien van een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), een net bestaande uit een collectiefleidingnet of een distributienet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1) of een net bestaande uit een ondergrondse kabel als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en waarvan de ligging anders dan door opgraving kan worden bepaald is het eerste lid van toepassing tot en met 31 december 2027. Na 31 december 2027 kunnen bij ministeriële regeling nadere regels worden gesteld over de bepaling van de ligging, anders dan door opgraving, van een net of distributienet waarvan de ligging enkel door opgraving kan worden bepaald.
+3. Ten aanzien van een transmissie- of distributiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), een net bestaande uit een collectiefleidingnet of een distributienet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1) of een net bestaande uit een ondergrondse kabel als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en waarvan de ligging anders dan door opgraving kan worden bepaald is het eerste lid van toepassing tot en met 31 december 2027. Na 31 december 2027 kunnen bij ministeriële regeling nadere regels worden gesteld over de bepaling van de ligging, anders dan door opgraving, van een net of distributienet waarvan de ligging enkel door opgraving kan worden bepaald.
 
 ### Hoofdstuk 11. Slotbepalingen
 
