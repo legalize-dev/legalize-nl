@@ -4,7 +4,7 @@ identifier: "BWBR0048116"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-05-02"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048116"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doel
 
-Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de periodieke verstrekking van systematische toezichtinformatie aan de minister. Dit is ten behoeve van het interbestuurlijk toezicht op de uitvoering van de wettelijke taken door de gemeente in het kader van voor- en vroegschoolse educatie en de lokale educatieve agenda, als bedoeld in de [artikelen 159 tot en met 163 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=159), en de lokale educatieve agenda, als bedoeld in [artikel 3.42 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.42).
+Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de periodieke verstrekking van systematische toezichtinformatie aan de minister. Dit is ten behoeve van het interbestuurlijk toezicht op de uitvoering van de wettelijke taken door de gemeente in het kader van voor- en vroegschoolse educatie en de lokale educatieve agenda en het nieuwkomersonderwijs, als bedoeld in de [artikelen 159 tot en met 163 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=159), de lokale educatieve agenda, als bedoeld in [artikel 3.42 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.42), en de overlegplicht nieuwkomers als bedoeld in [artikel 193c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193c) en [artikel 9.3c van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3c).
 
 ##### Artikel 3. Wettelijke taken gegevensverstrekking college
 
@@ -116,9 +116,11 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - 4°. de afstemming over inschrijvings- en toelatingsprocedures; en
 
+- f. het voeren van ten minste jaarlijks overleg met de bevoegde gezagen van alle scholen in de gemeente en zorg dragen voor het maken van afspraken, als bedoeld in [artikel 193c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193c) en [artikel 9.3c van de Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3c).
+
 ##### Artikel 4. Welke gegevens
 
-1. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2023-05-02&g=2023-05-02), verstrekt het college:
+1. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), verstrekt het college:
 
 - a. het gerealiseerde aanbod van voorschoolse kindplaatsen;
 
@@ -126,7 +128,7 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - c. het aantal geïndiceerde kinderen dat gebruik maakt van gesubsidieerde voorschoolse educatie.
 
-2. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2023-05-02&g=2023-05-02), meldt het college of overleg is gevoerd en afspraken zijn gemaakt over:
+2. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), meldt het college of overleg is gevoerd en afspraken zijn gemaakt over:
 
 - a. de gehanteerde doelgroepdefinitie;
 
@@ -134,9 +136,9 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - c. de organisatie van de doorgaande lijn van voorschoolse naar vroegschoolse educatie.
 
-3. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2023-05-02&g=2023-05-02), meldt het college of overleg is gevoerd en afspraken zijn gemaakt over de resultaten van vroegschoolse educatie met de bevoegd gezagsorganen.
+3. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), meldt het college of overleg is gevoerd en afspraken zijn gemaakt over de resultaten van vroegschoolse educatie met de bevoegd gezagsorganen.
 
-4. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel d respectievelijk onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2023-05-02&g=2023-05-02), meldt het college of het overleg is gevoerd en, indien van toepassing, welke afspraken met, voor zover mogelijk, meetbare doelen zijn gemaakt over:
+4. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel d respectievelijk onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), meldt het college of het overleg is gevoerd en, indien van toepassing, welke afspraken met, voor zover mogelijk, meetbare doelen zijn gemaakt over:
 
 - a. het voorkomen van segregatie;
 
@@ -146,9 +148,17 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - d. het bestrijden van onderwijsachterstanden.
 
+5. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), meldt het college of overleg is gevoerd en meldt wat voor afspraken zijn gemaakt over hoe:
+
+- a. wordt voorzien in voldoende onderwijsplaatsen voor nieuwkomers;
+
+- b. wordt verzekerd dat nieuwkomers op een school worden ingeschreven;
+
+- c. een doorlopende leerlijn voor nieuwkomers wordt georganiseerd.
+
 ##### Artikel 5. Tijdstip en wijze verstrekking gegevens
 
-1. Het college verstrekt de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=4&z=2023-05-02&g=2023-05-02) over het afgelopen kalenderjaar, uiterlijk op 1 april van elk kalenderjaar.
+1. Het college verstrekt de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=4&z=2026-01-01&g=2026-01-01) over het afgelopen kalenderjaar, uiterlijk op 1 april van elk kalenderjaar.
 
 2. Het college maakt bij de verstrekking van de gegevens gebruik van een daartoe door de minister vastgesteld formulier.
 
