@@ -4,7 +4,7 @@ identifier: "BWBR0049106"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-06-07"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049106"
 soort: "wet"
@@ -52,13 +52,13 @@ De overeenkomstig [artikel 16 van de Wet op de huurtoeslag](https://wetten.overh
 
 - b. in 2025 verlaagd met € 37,14;
 
-- c. in 2026 verlaagd met € 36,57;
+- c. in 2026 verlaagd met € 48,15;
 
-- d. in 2027 verlaagd met € 35,99;
+- d. in 2027 verlaagd met € 47,57;
 
-- e. in 2028 verlaagd met € 35,41;
+- e. in 2028 verlaagd met € 46,99;
 
-- f. in 2029 en latere jaren verlaagd met € 34,84.
+- f. in 2029 en latere jaren verlaagd met € 46,42.
 
 ##### Artikel 2
 
