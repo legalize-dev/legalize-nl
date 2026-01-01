@@ -4,7 +4,7 @@ identifier: "BWBR0043793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-04"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043793"
 soort: "ministeriele-regeling"
@@ -44,31 +44,31 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **afnemer:** afnemer op wie het verbod van toepassing is;
+- –. **aangeslotene:** aangeslotene op het transmissie- of distributiesysteem van gas op wie het verbod van toepassing is;
 
-- –. **minister:** Minister van Economische Zaken en Klimaat;
+- –. **minister:** Minister van Klimaat en Groene Groei;
 
-- –. **omschakelen:** omschakelen als bedoeld in [artikel 1, eerste lid, onderdeel bd, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
+- –. **omschakelen:** omschakelen als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- –. **verbod:** verbod als bedoeld in [artikel 10g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g);
+- –. **verbod:** verbod als bedoeld in [artikel 2.63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63);
 
-- –. **wet:** [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440).
+- –. **wet:** [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
 
 ##### Artikel 2
 
-1. Een afnemer dient een aanvraag om vergoeding als bedoeld in [artikel 10m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) in zo spoedig als redelijkerwijs mogelijk is nadat het omschakelen of afsluiten van diens aansluiting, bedoeld in [artikel 10g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g), heeft plaatsgevonden, en geen laagcalorisch gas meer wordt onttrokken.
+1. Een aangeslotene dient een aanvraag om vergoeding als bedoeld in [artikel 5.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) in zo spoedig als redelijkerwijs mogelijk is nadat het omschakelen of afsluiten van diens aansluiting, bedoeld in [artikel 2.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63), heeft plaatsgevonden, en geen laagcalorisch gas meer wordt onttrokken.
 
-2. De minister kan een aanvraag afwijzen, indien vijf jaren zijn verstreken na aanvang van de dag na die waarop het omschakelen of afsluiten volgens de planning, bedoeld in [artikel 10k](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10k) respectievelijk [artikel 10j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10j) heeft of zou hebben plaatsgevonden, en in ieder geval na verloop van twintig jaren na die dag.
+2. De minister kan een aanvraag afwijzen, indien vijf jaren zijn verstreken na aanvang van de dag na die waarop het omschakelen of afsluiten volgens de planning, bedoeld in [artikel 2.64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.64) heeft of zou hebben plaatsgevonden, en in ieder geval na verloop van twintig jaren na die dag.
 
-3. Indien een afnemer de minister schriftelijk verklaart zich het recht voor te behouden om een vergoeding als bedoeld in [artikel 10m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m) aan te vragen voordat de termijn van vijf jaren, bedoeld in het tweede lid, is verstreken, dan start een nieuwe termijn van vijf jaren na aanvang van de dag, volgende op die waarop de verklaring is gedaan.
+3. Indien een aangeslotene de minister schriftelijk verklaart zich het recht voor te behouden om een vergoeding als bedoeld in [artikel 5.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) aan te vragen voordat de termijn van vijf jaren, bedoeld in het tweede lid, is verstreken, dan start een nieuwe termijn van vijf jaren na aanvang van de dag, volgende op die waarop de verklaring is gedaan.
 
 ##### Artikel 3
 
 1. Gegevens en bescheiden als bedoeld in [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) die in ieder geval nodig zijn voor een beslissing op de aanvraag zijn:
 
-- a. de gegevens, bedoeld in [artikel 10g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g), die aan de netbeheerder zijn verstrekt;
+- a. de gegevens, bedoeld in [artikel 2.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63), die aan de transmissiesysteembeheerder voor gas zijn verstrekt;
 
-- b. de meest recente planning bedoeld in [artikel 10j](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10j) of [10k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10k) voor het afsluiten of omschakelen;
+- b. de meest recente planning bedoeld in [artikel 2.64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.64) voor het afsluiten of omschakelen;
 
 - c. een gedetailleerde beschrijving van de betrokken installaties en verbindingen, waar mogelijk voorzien van beeldmateriaal:
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - 2⁰. nadat het omschakelen of het afsluiten is afgerond;
 
-- d. een overzicht van de activiteiten die de afnemer als gevolg van het verbod heeft verricht, het moment waarop deze activiteiten hebben plaatsgevonden alsmede een toelichting op keuze voor verrichte activiteiten en, indien van toepassing de relevante investeringsbeslissingen waarop de activiteiten zijn gebaseerd en datum daarvan;
+- d. een overzicht van de activiteiten die de aangeslotene als gevolg van het verbod heeft verricht, het moment waarop deze activiteiten hebben plaatsgevonden alsmede een toelichting op keuze voor verrichte activiteiten en, indien van toepassing de relevante investeringsbeslissingen waarop de activiteiten zijn gebaseerd en datum daarvan;
 
 - e. een opgave van de aard en de omvang van de schade, waarbij per post is onderbouwd dat de schade het gevolg is van het verbod en waarom deze schade niet kon worden voorkomen of beperkt en waarbij is aangegeven of sprake is van eenmalige of tijdelijke kosten dan wel structurele of terugkerende kosten;
 
@@ -88,25 +88,25 @@ In deze regeling wordt verstaan onder:
 
 - i. een overzicht van verzekeringspolissen en onder verzekering uitgekeerde bedragen en in natura vergoede schade waardoor de schade als gevolg van het verbod geheel of gedeeltelijk wordt gemitigeerd;
 
-- j. de normjaaromzet en het normbrutowinstpercentage van de rechtspersoon waar de schade wordt geleden en, indien van toepassing, de in concernverband aan de afnemer gelieerde rechtspersonen indien deze gelieerde rechtspersonen dermate met de afnemer zijn verbonden, dat zij gezamenlijk een economische eenheid vormen;
+- j. de normjaaromzet en het normbrutowinstpercentage van de rechtspersoon waar de schade wordt geleden en, indien van toepassing, de in concernverband aan de aangeslotene gelieerde rechtspersonen indien deze gelieerde rechtspersonen dermate met de aangeslotene zijn verbonden, dat zij gezamenlijk een economische eenheid vormen;
 
 - k. een controleverklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit:
 
 - i. de getrouwheid van de normjaaromzet en het normbrutowinstpercentage, bedoeld in onderdeel j, blijkt, en
 
-- ii. indien van toepassing, in het geval dat de gelieerde rechtspersonen dermate met de afnemer zijn verbonden, blijkt dat de afnemer en gelieerde rechtspersonen gezamenlijk een economische eenheid vormen;
+- ii. indien van toepassing, in het geval dat de gelieerde rechtspersonen dermate met de aangeslotene zijn verbonden, blijkt dat de aangeslotene en gelieerde rechtspersonen gezamenlijk een economische eenheid vormen;
 
-- l. het nummer en de tenaamstelling van de bankrekening van de afnemer waarop een betaling van een vergoeding kan plaatsvinden.
+- l. het nummer en de tenaamstelling van de bankrekening van de aangeslotene waarop een betaling van een vergoeding kan plaatsvinden.
 
 2. De controleverklaring, bedoeld in het eerste lid, onderdeel k, wordt vastgesteld aan de hand van een door de minister vastgestelde richtsnoer.
 
-3. De minister bevestigt de ontvangst van het aanvraag zo spoedig mogelijk, doch tenminste binnen twee weken na de ontvangst ervan, en stelt de afnemer in kennis van de te volgen procedure.
+3. De minister bevestigt de ontvangst van het aanvraag zo spoedig mogelijk, doch tenminste binnen twee weken na de ontvangst ervan, en stelt de aangeslotene in kennis van de te volgen procedure.
 
 ##### Artikel 4
 
 1. De minister beslist binnen acht weken of, indien de minister zich bij de behandeling van de aanvraag laat adviseren door een of meer onafhankelijke deskundigen, binnen zes maanden na de ontvangst van de aanvraag.
 
-2. Indien gebruik gemaakt wordt van een onafhankelijke deskundige informeert de minister de afnemer schriftelijk over de termijn waarbinnen uiterlijk een besluit wordt genomen op zijn aanvraag.
+2. Indien gebruik gemaakt wordt van een onafhankelijke deskundige informeert de minister de aangeslotene schriftelijk over de termijn waarbinnen uiterlijk een besluit wordt genomen op zijn aanvraag.
 
 3. De minister kan de beslissing eenmaal voor ten hoogste acht weken of, indien een onafhankelijk deskundige als bedoeld in het eerste lid is ingeschakeld, zes maanden verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
@@ -119,5 +119,11 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling nadeelcompensatie verbod
 ##### Artikel 6
 
 Deze regeling treedt in werking op in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+Deze regeling berust op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
