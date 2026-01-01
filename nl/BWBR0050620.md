@@ -4,7 +4,7 @@ identifier: "BWBR0050620"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050620"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel III
 
@@ -306,7 +306,7 @@ Artikel 10.1 van de Wet inkomstenbelasting 2001 vindt met betrekking tot de arti
 
 Artikel 10.1 van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassing:
 
-- a. bij het begin van het kalenderjaar 2026: op de in de artikelen III, onderdeel A, IV tot en met VII, artikel X, onderdeel IV, en XI tot en met XIV vermelde bedragen;
+- a. bij het begin van het kalenderjaar 2026: op de in de artikelen III, onderdeel A, IV tot en met VII, artikel X, onderdeel B, en XI tot en met XIV vermelde bedragen;
 
 - b. bij het begin van het kalenderjaar 2027: op de in de artikelen IV tot en met VII, en XI tot en met XIV vermelde bedragen;
 
@@ -318,7 +318,7 @@ Artikel 10.1 van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassin
 
 ##### Artikel LVIIIA
 
-Artikel 10.2b, vierde lid, van de Wet inkomstenbelasting 2001 en artikel 18ga, tweede lid, van de Wet op de loonbelasting 1964 vinden geen toepassing bij het begin van de kalenderjaren 2025 en 2026.
+[Artikel 10.2b, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2b) en [artikel 18ga, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) vinden geen toepassing bij het begin van de kalenderjaren 2025 en 2026.
 
 ##### Artikel LIX
 
@@ -386,7 +386,7 @@ Ingeval de samenloop van wetten die in 2024 in het Staatsblad zijn of worden gep
 
 2. In afwijking van het eerste lid treden artikel I, onderdelen P, onder 2 tot en met 4, R en T in werking op een bij koninklijk besluit te bepalen tijdstip;
 
-3. In afwijking van het eerste lid treedt artikel XXIV, onderdeel A, in werking op het tijdstip waarop artikel 2, eerste lid, van de Wet vrachtwagenheffing in werking treedt.
+3. In afwijking van het eerste lid treedt artikel XXIV, onderdeel A, in werking op het tijdstip waarop artikel 30 van de Wet vrachtwagenheffing in werking treedt.
 
 ##### Artikel LXVI
 
