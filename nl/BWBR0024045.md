@@ -4,7 +4,7 @@ identifier: "BWBR0024045"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-09-11"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024045"
 soort: "ministeriele-regeling"
@@ -64,11 +64,13 @@ De volgende instanties worden aangewezen als overheidsorgaan als bedoeld in [art
 
 - b. advocatuur,
 
-- c. gerechtsdeurwaarders, en
+- c. gerechtsdeurwaarders,
 
-- d. producenten of importeurs van motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk.
+- d. producenten of importeurs van motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk, en
 
-2. De verstrekking van de in het eerste lid bedoelde gegevens geschiedt, onverminderd het derde lid, slechts voor de volgende doeleinden:
+- e. een bedrijf waaraan een erkenning voorbehoud en verplichtingen is verleend als bedoeld in [artikel 17 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=17).
+
+2. De verstrekking van de in het eerste lid bedoelde gegevens geschiedt, onverminderd het derde en vierde lid, slechts voor de volgende doeleinden:
 
 - a. wat betreft verzekeringsmaatschappijen en de door hen aangewezen gevolmachtigden: ten behoeve van schade-afwikkeling,
 
@@ -76,21 +78,25 @@ De volgende instanties worden aangewezen als overheidsorgaan als bedoeld in [art
 
 - c. wat betreft gerechtsdeurwaarders: ten behoeve van de voorbereiding van dagvaardingen in civielrechtelijke procedures waarbij motorrijtuigen zijn betrokken en waarin sprake is van wegrijden zonder te betalen na het tanken van motorbrandstof, zulks overeenkomstig een door of namens de tankstationbranche vast te stellen en door de Minister van Verkeer en Waterstaat goed te keuren protocol,
 
-- d. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806), en
+- d. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806),
 
-- e. wat betreft fabrikanten en importeurs van in Nederland geregistreerde motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk: ten behoeve van het terugroepen van motorrijtuigen of aanhangwagens ingeval zich, naar het oordeel van deze partijen en de Dienst Wegverkeer, een gevaar voor de gezondheid van de mens of de veiligheid van de mens of zaken voordoet of voor kan doen en met de uitvoering van een terugroepactie niet gewacht kan worden tot regulier onderhoud.
+- e. wat betreft fabrikanten en importeurs van in Nederland geregistreerde motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk: ten behoeve van het terugroepen van motorrijtuigen of aanhangwagens ingeval zich, naar het oordeel van deze partijen en de Dienst Wegverkeer, een gevaar voor de gezondheid van de mens of de veiligheid van de mens of zaken voordoet of voor kan doen en met de uitvoering van een terugroepactie niet gewacht kan worden tot regulier onderhoud, en
 
-3. Aan de beroepsbeoefenaren bedoeld in het eerste lid, onderdeel a, kunnen de gegevens opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=I&z=2024-09-11&g=2024-09-11) bij deze regeling worden verstrekt ten behoeve van de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens.
+- f. wat betreft houders van de erkenning voorbehoud en verplichtingen: gegevens ten behoeve van voertuigen in eigendom van het bedrijf waaraan een erkenning voorbehoud en verplichtingen is verleend, en waarover een aantekening, als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=17), in het kentekenregister is opgenomen.
+
+3. Aan de beroepsbeoefenaren bedoeld in het eerste lid, onderdeel a, kunnen de gegevens opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=I&z=2026-01-01&g=2026-01-01) bij deze regeling worden verstrekt ten behoeve van de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens.
+
+4. Aan de beroepsbeoefenaren bedoeld in het eerste lid, onderdeel e, kunnen persoonsgegevens worden verstrekt over een beslag, als bedoeld in [artikel 440, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=440) of [artikel 442 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=442), op een motorrijtuig of aanhangwagen, waarover een aantekening, als bedoeld in [artikel 17, eerste lid, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=17), in het kentekenreglement is opgenomen.
 
 ##### Artikel 3. Verstrekking aan informatieproviders
 
 Aan de door de Minister van Verkeer en Waterstaat aangewezen informatieproviders als bedoeld in [artikel 9, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9) kunnen de volgende gevoelige gegevens worden verstrekt:
 
-- a. de gegevens opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=II&z=2024-09-11&g=2024-09-11) bij deze regeling ten behoeve van statistische doeleinden;
+- a. de gegevens opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling ten behoeve van statistische doeleinden;
 
-- b. de gegevens opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=III&z=2024-09-11&g=2024-09-11) bij deze regeling ten behoeve van de in de desbetreffende aanwijzingsbeschikking opgenomen voertuiginformatiesystemen ten behoeve van de voertuigbranche, bedoeld in [artikel 14, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=14);
+- b. de gegevens opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=III&z=2026-01-01&g=2026-01-01) bij deze regeling ten behoeve van de in de desbetreffende aanwijzingsbeschikking opgenomen voertuiginformatiesystemen ten behoeve van de voertuigbranche, bedoeld in [artikel 14, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=14);
 
-- c. de gegevens opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=III&z=2024-09-11&g=2024-09-11) bij deze regeling ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2024-09-11&g=2024-09-11).
+- c. de gegevens opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=III&z=2026-01-01&g=2026-01-01) bij deze regeling ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 4. Voorwaarden voor verstrekking en regels voor gebruik
 
@@ -100,7 +106,7 @@ Vervallen
 
 1. Het tarief ter zake van de kosten van toezicht, bedoeld in [artikel 45a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=45a), maakt onderdeel uit van de tarieven voor verstrekking, bedoeld in [artikel 43, zesde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43), die in rekening worden gebracht bij personen of instanties waarop toezicht wordt gehouden.
 
-2. In aanvulling op het eerste lid kan het aldaar bedoelde tarief bij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=1&z=2024-09-11&g=2024-09-11) aangewezen overheidsorganen in rekening worden gebracht op door de Dienst Wegverkeer te bepalen wijze.
+2. In aanvulling op het eerste lid kan het aldaar bedoelde tarief bij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=1&z=2026-01-01&g=2026-01-01) aangewezen overheidsorganen in rekening worden gebracht op door de Dienst Wegverkeer te bepalen wijze.
 
 3. Het tarief ter zake van de kosten van de inspectie, bedoeld in [artikel 45a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=45a), wordt in rekening gebracht, indien naar het oordeel van de Dienst Wegverkeer blijkt dat een gegeven onjuist in het kentekenregister is opgenomen en de onjuistheid van het gegeven degene aan wie het kentekenbewijs voor het geïnspecteerde voertuig is afgegeven kan worden tegengeworpen.
 
@@ -148,7 +154,7 @@ Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandko
 
 ## Bijlage I
 
-Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandkoming en instandhouding van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) voor verzekeringsmaatschappijen of hun gevolmachtigden, als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2024-09-11&g=2024-09-11), en [3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2024-09-11&g=2024-09-11), zijn aangewezen:
+Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandkoming en instandhouding van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) voor verzekeringsmaatschappijen of hun gevolmachtigden, als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2026-01-01&g=2026-01-01), en [3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
 
 - –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
 
@@ -170,7 +176,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ## Bijlage II
 
-Als gevoelige gegevens die kunnen worden verstrekt voor statistische doeleinden, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2024-09-11&g=2024-09-11), zijn aangewezen:
+Als gevoelige gegevens die kunnen worden verstrekt voor statistische doeleinden, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
 
 - –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
 
@@ -202,11 +208,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 3b. Verstrekking aan erkende bedrijven van gegevens inzake tellerstanden
 
-Aan een bedrijf waaraan een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) is verleend, kan de volledige reeks geregistreerde tellerstanden worden verstrekt van een motorrijtuig dat in de bedrijfsvoorraad van dat bedrijf is aangemeld.
+Aan een bedrijf waaraan een erkenning bedrijfsvoorraad als bedoeld in [artikel 1 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=1) is verleend, kan de volledige reeks geregistreerde tellerstanden worden verstrekt van een motorrijtuig dat in de bedrijfsvoorraad van dat bedrijf is aangemeld.
 
 ## Bijlage III
 
-Als gevoelige gegevens die kunnen worden verstrekt voor voertuiginformatiesystemen ten behoeve van de voertuigbranche, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2024-09-11&g=2024-09-11), en ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden, als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2024-09-11&g=2024-09-11), zijn aangewezen:
+Als gevoelige gegevens die kunnen worden verstrekt voor voertuiginformatiesystemen ten behoeve van de voertuigbranche, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), en ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden, als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
 
 - –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
 
