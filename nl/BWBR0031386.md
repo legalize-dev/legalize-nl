@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -248,9 +248,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 5°. code fase indeling F&Z;
 
-- 6°. code CAO;
+- 6°. code cao;
 
-- 7°. code CAO inlener;
+- 7°. code cao inlener;
 
 - 8°. indicatie arbeidsovereenkomst voor onbepaalde tijd;
 
@@ -266,7 +266,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 14°. indicatie aanvraag loonkostenvoordeel arbeidsgehandicapte werknemer;
 
-- 15°. indicatie aanvraag loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden;
+- 15°. indicatie aanvraag loonkostenvoordeel doelgroep banenafspraak;
 
 - 16°. indicatie aanvraag loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer;
 
@@ -394,7 +394,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2024-01-01&g=2024-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 1a.3. Inkomstenverhouding
 
@@ -404,7 +404,7 @@ De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdel
 
 - b. **socialezekerheidsuitkering:** een uitkering waarvoor een uitkeringsgerechtigde in aanmerking komt.
 
-2. Onder de inkomstenverhouding, bedoeld in [artikel 1a.1, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2024-01-01&g=2024-01-01), wordt verstaan: de rechtsbetrekking van degene waarvan op grond van [artikel 1 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=1) een directe belasting wordt geheven of van de uitkeringsgerechtigde, met de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de werkgever in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) op grond van welke rechtsbetrekking recht bestaat op loon, gage, uitkeringen of verstrekkingen die belast zijn op grond van de Wet op de loonbelasting 1964, behoren tot de maatstaf voor de premieheffing werknemersverzekeringen op grond van de Wet financiering sociale verzekeringen, behoren tot de maatstaf voor de premieheffing volksverzekeringen op grond van die wet of behoren tot het loon waarover de inhoudingsplichtige of een verzekeringsplichtige een inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) is verschuldigd.
+2. Onder de inkomstenverhouding, bedoeld in [artikel 1a.1, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2026-01-01&g=2026-01-01), wordt verstaan: de rechtsbetrekking van degene waarvan op grond van [artikel 1 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=1) een directe belasting wordt geheven of van de uitkeringsgerechtigde, met de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de werkgever in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) op grond van welke rechtsbetrekking recht bestaat op loon, gage, uitkeringen of verstrekkingen die belast zijn op grond van de Wet op de loonbelasting 1964, behoren tot de maatstaf voor de premieheffing werknemersverzekeringen op grond van de Wet financiering sociale verzekeringen, behoren tot de maatstaf voor de premieheffing volksverzekeringen op grond van die wet of behoren tot het loon waarover de inhoudingsplichtige of een verzekeringsplichtige een inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) is verschuldigd.
 
 3. Een inkomstenverhouding begint bij de aanvang van de rechtsbetrekking uit hoofde waarvan recht op loon of gage ontstaat, dan wel bij de aanvang van de rechtsbetrekking ter zake waarvan een uitkeringsgerechtigde een socialezekerheidsuitkering ontvangt, waarover de inhoudingsplichtige of werkgever loonbelasting of premie volksverzekeringen inhoudt dan wel betaalt, premie werknemersverzekeringen betaalt of inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) betaalt dan wel inhoudt, en eindigt bij het einde van die rechtsbetrekking.
 
