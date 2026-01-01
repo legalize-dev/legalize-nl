@@ -4,7 +4,7 @@ identifier: "BWBR0028170"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028170"
 soort: "wet-BES"
@@ -65,7 +65,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt onder Onze 
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkgever verstaan de natuurlijke of rechtspersoon of het lichaam, tot wie een werknemer in dienstbetrekking staat.
 
-2. In het geval, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=1&artikel=3&z=2025-01-01&g=2025-01-01), wordt onder werkgever verstaan de natuurlijke persoon of rechtpersoon of het lichaam, met wie de overeenkomst tot het verlenen van bemiddeling is gesloten.
+2. In het geval, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=1&artikel=3&z=2026-01-01&g=2026-01-01), wordt onder werkgever verstaan de natuurlijke persoon of rechtpersoon of het lichaam, met wie de overeenkomst tot het verlenen van bemiddeling is gesloten.
 
 ##### Artikel 6
 
@@ -107,7 +107,7 @@ minimum-weekloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het minimumuurloon vermenigvuldigd met 52 en de uitkomst van deze berekening vervolgens te delen door 12.
 
-2. Bij algemene maatregel van bestuur kan worden bepaald, dat werknemers – dan wel dat werknemers, behorende tot een bij deze algemene maatregel van bestuur aangewezen categorie – beneden de leeftijd van 21 jaar die een bij deze algemene maatregel van bestuur aangewezen lagere leeftijd hebben bereikt, eveneens aanspraak hebben op een bij deze algemene maatregel van bestuur vast te stellen minimumloon, dat in een redelijke verhouding staat tot de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01) genoemde bedragen.
+2. Bij algemene maatregel van bestuur kan worden bepaald, dat werknemers – dan wel dat werknemers, behorende tot een bij deze algemene maatregel van bestuur aangewezen categorie – beneden de leeftijd van 21 jaar die een bij deze algemene maatregel van bestuur aangewezen lagere leeftijd hebben bereikt, eveneens aanspraak hebben op een bij deze algemene maatregel van bestuur vast te stellen minimumloon, dat in een redelijke verhouding staat tot de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01) genoemde bedragen.
 
 3. Beloningen, die de werknemer van 21 jaar of ouder voor arbeid, door hem in de dienstbetrekking verricht, van derden ontvangt, worden, voor zover zij deel uitmaken van de arbeidsvoorwaarden, voor de toepassing van het bij of krachtens het eerste of tweede lid bepaalde geacht van de werkgever te zijn ontvangen.
 
@@ -119,11 +119,11 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 1. Het bruto minimumuurloon bedraagt voor werknemers van 21 jaar en ouder in het openbaar lichaam:
 
-- a. Bonaire: USD 4,03 per 1 januari 2025: USD 10,35;
+- a. Bonaire: USD 4,03 per 1 januari 2026: USD 10,69;
 
-- b. Sint Eustatius: USD 3,32 per 1 januari 2025: USD 10,41;
+- b. Sint Eustatius: USD 3,32 per 1 januari 2026: USD 10,61;
 
-- c. Saba: USD 3,50 per 1 januari 2025: USD 10,30.
+- c. Saba: USD 3,50 per 1 januari 2026: USD 10,66.
 
 2. [vervallen]
 
@@ -139,7 +139,7 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 8. [vervallen]
 
-9. Waar in deze wet wordt verwezen naar de in dit artikel genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=13&z=2025-01-01&g=2025-01-01), de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.
+9. Waar in deze wet wordt verwezen naar de in dit artikel genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=13&z=2026-01-01&g=2026-01-01), de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.
 
 10. [vervallen]
 
@@ -147,13 +147,13 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 ##### Artikel 10
 
-Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste drie maanden omvatten.
+Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste drie maanden omvatten.
 
 ##### Artikel 11
 
-1. Onze Minister kan op verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers of van werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel in een tak van bedrijf of beroep voor telkenmale ten hoogste een jaar op lagere dan de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), genoemde bedragen vaststellen indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zo lang niet is gebleken dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk van werkgevers terzake overleg heeft gepleegd.
+1. Onze Minister kan op verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers of van werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel in een tak van bedrijf of beroep voor telkenmale ten hoogste een jaar op lagere dan de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen vaststellen indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zo lang niet is gebleken dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk van werkgevers terzake overleg heeft gepleegd.
 
-2. Bij toepassing van het eerste lid zullen de daarin bedoelde bedragen niet lager kunnen worden gesteld dan op 75% van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01) genoemde bedragen.
+2. Bij toepassing van het eerste lid zullen de daarin bedoelde bedragen niet lager kunnen worden gesteld dan op 75% van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01) genoemde bedragen.
 
 3. [Vervallen]
 
@@ -165,15 +165,15 @@ Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke mee
 
 ##### Artikel 12a
 
-Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=8&z=2025-01-01&g=2025-01-01) voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt Onze Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.
+Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=8&z=2026-01-01&g=2026-01-01) voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt Onze Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.
 
 ##### Artikel 13
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
-2. Onze Minister gaat telkens na verloop van een termijn van ten hoogste drie jaar na of er omstandigheden zijn die een bijzondere wijziging wenselijk maken van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01).
+2. Onze Minister gaat telkens na verloop van een termijn van ten hoogste drie jaar na of er omstandigheden zijn die een bijzondere wijziging wenselijk maken van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01).
 
-3. Onze Minister kan vervolgens bedragen vaststellen die in de plaats treden van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), en kan ook een leeftijd vaststellen die in de plaats treedt van de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=8&z=2025-01-01&g=2025-01-01), genoemde leeftijd.
+3. Onze Minister kan vervolgens bedragen vaststellen die in de plaats treden van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), en kan ook een leeftijd vaststellen die in de plaats treedt van de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=8&z=2026-01-01&g=2026-01-01), genoemde leeftijd.
 
 4. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in verband met de toepassing van het tweede of derde lid om advies vragen.
 
@@ -241,7 +241,7 @@ De werknemer kan aan deze wet geen aanspraken ontlenen over een periode voor 1 o
 
 ##### Artikel 21
 
-Voor wat betreft de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), genoemde bedragen kan een wijziging als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=13&z=2025-01-01&g=2025-01-01), voor de eerste maal met ingang van 1 januari 2012 plaatsvinden.
+Voor wat betreft de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen kan een wijziging als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=13&z=2026-01-01&g=2026-01-01), voor de eerste maal met ingang van 1 januari 2012 plaatsvinden.
 
 ##### Artikel 22
 
