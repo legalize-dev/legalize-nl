@@ -4,7 +4,7 @@ identifier: "BWBR0006324"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006324"
 soort: "wet"
@@ -81,7 +81,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. koppelinrichting: een aan een motorrijtuig bevestigde inrichting met behulp waarvan het motorrijtuig kan worden verbonden met een aanhangwagen;
 
-- i. bedrijfsvoorraad: de voorraad motorrijtuigen van een bedrijf van een natuurlijk persoon of rechtspersoon waaraan een erkenning als bedoeld in [hoofdstuk IV, paragraaf 5, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=IV) is verleend;
+- i. bedrijfsvoorraad: de voorraad motorrijtuigen van een bedrijf van een natuurlijk persoon of rechtspersoon waaraan een erkenning als bedoeld in [artikel 4aud, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud) is verleend om motorrijtuigen en aanhangwagens op te nemen in zijn bedrijfsvoorraad;
 
 - j. herstelbedrijf: een bedrijf dat in opdracht van derden aan motorrijtuigen onderhoudswerkzaamheden of reparaties verricht dan wel veranderingen aanbrengt;
 
@@ -215,9 +215,9 @@ Voor een motorrijtuig waarvoor geen kenteken is opgegeven vangt het tijdvak aan 
 
 1. Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk ter beschikking staat vangt het tijdvak aan met ingang van de dag waarop het gebruik van de weg in Nederland aanvangt en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later.
 
-2. Voor de toepassing van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&artikel=7&z=2025-01-01&g=2025-01-01), vangt, in afwijking van het eerste lid, voor dat motorrijtuig het tijdvak aan met ingang van de dag waarop de houder als ingezetene is ingeschreven in de basisregistratie personen, genoemd in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), of met ingang van de dag waarop de houder zich als ingezetene had moeten inschrijven in die basisregistratie en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later, tenzij wordt aangetoond met ingang van welke dag het in het buitenland geregistreerde motorrijtuig in Nederland ter beschikking heeft gestaan, in welk geval het tijdvak aanvangt met die datum. Voor de toepassing van artikel 7, vierde lid, is de eerste volzin van overeenkomstige toepassing.
+2. Voor de toepassing van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01), vangt, in afwijking van het eerste lid, voor dat motorrijtuig het tijdvak aan met ingang van de dag waarop de houder als ingezetene is ingeschreven in de basisregistratie personen, genoemd in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), of met ingang van de dag waarop de houder zich als ingezetene had moeten inschrijven in die basisregistratie en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later, tenzij wordt aangetoond met ingang van welke dag het in het buitenland geregistreerde motorrijtuig in Nederland ter beschikking heeft gestaan, in welk geval het tijdvak aanvangt met die datum. Voor de toepassing van artikel 7, vierde lid, is de eerste volzin van overeenkomstige toepassing.
 
-3. In afwijking van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01) kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.
+3. In afwijking van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01) kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.
 
 ##### Artikel 14
 
@@ -273,11 +273,11 @@ Vervallen
 
 1. Teruggaaf van belasting wordt verleend over het bij aanvang van de schorsing nog niet verstreken gedeelte van het lopende tijdvak.
 
-2. [Artikel 18, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+2. [Artikel 18, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 21
 
-Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting moet worden betaald het tijdvak dat aanvangt met ingang van de dag waarop de schorsing is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die schorsing moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2025-01-01&g=2025-01-01).
+Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting moet worden betaald het tijdvak dat aanvangt met ingang van de dag waarop de schorsing is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die schorsing moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2026-01-01&g=2026-01-01).
 
 ### Afdeling 6. Tarief
 
@@ -305,22 +305,22 @@ Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting 
 
 | bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massaboven |
 | --- | --- | --- | --- |
-| 500 of minder | € 20,86 |   |   |
-| 600 | € 28,30 |   |   |
-| 700 | € 35,96 |   |   |
-| 800 | € 46,94 |   |   |
-| 900 tot en met 3200 | € 62,43 | € 16,78 | 900 kg |
-| 3300 en meer | € 460,76 | € 11,66 | 3 300 kg |
+| 500 of minder | € 21,46 |   |   |
+| 600 | € 29,12 |   |   |
+| 700 | € 37,00 |   |   |
+| 800 | € 48,30 |   |   |
+| 900 tot en met 3200 | € 64,24 | € 17,27 | 900 kg |
+| 3300 en meer | € 474,12 | € 12,00 | 3 300 kg |
 
 2. De belasting voor een personenauto wordt verhoogd met een brandstoftoeslag, tenzij deze personenauto is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine, elektriciteit, waterstof, een product dat ingevolge [artikel 28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=28) gelijkwaardig is aan lichte olie, of een combinatie van deze brandstoffen. De brandstoftoeslag bedraagt bij aandrijving door een kracht die:
 
-- a. wordt ontleend aan dieselolie of een product dat ingevolge [artikel 28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) gelijkwaardig is aan gasolie of een combinatie van deze brandstoffen: € 81,77 bij een eigen massa van 500 kg of minder; € 96,78 bij een eigen massa van 600 kg; € 111,79 bij een eigen massa van 700 kg; € 127,07 bij een eigen massa van 800 kg; € 148,69 bij een eigen massa van 900 kg of meer, vermeerderd met € 16,10 per 100 kg eigen massa boven 900 kg;
+- a. wordt ontleend aan dieselolie of een product dat ingevolge [artikel 28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) gelijkwaardig is aan gasolie of een combinatie van deze brandstoffen: € 84,14 bij een eigen massa van 500 kg of minder; € 99,59 bij een eigen massa van 600 kg; € 115,03 bij een eigen massa van 700 kg; € 130,76 bij een eigen massa van 800 kg; € 153,00 bij een eigen massa van 900 kg of meer, vermeerderd met € 16,57 per 100 kg eigen massa boven 900 kg;
 
-- b. niet uitsluitend wordt ontleend aan een motorbrandstof als bedoeld in de aanhef of in onderdeel a: € 95,93 bij een eigen massa van 500 kg of minder; € 114,99 bij een eigen massa van 600 kg; € 134,06 bij een eigen massa van 700 kg; € 153,10 bij een eigen massa van 800 kg; € 167,23 bij een eigen massa van 900 kg of meer, vermeerderd met € 17,71 per 100 kg eigen massa boven 900 kg.
+- b. niet uitsluitend wordt ontleend aan een motorbrandstof als bedoeld in de aanhef of in onderdeel a: € 98,71 bij een eigen massa van 500 kg of minder; € 118,32 bij een eigen massa van 600 kg; € 137,95 bij een eigen massa van 700 kg; € 157,54 bij een eigen massa van 800 kg; € 172,08 bij een eigen massa van 900 kg of meer, vermeerderd met € 18,22 per 100 kg eigen massa boven 900 kg.
 
 Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontleend aan een elektromotor buiten beschouwing gelaten.
 
-3. In afwijking van het tweede lid, onderdeel b, bedraagt de aldaar bedoelde brandstoftoeslag: nihil bij een eigen massa van 800 kg of minder en € 18,51 bij een eigen massa van 900 kg of meer, vermeerderd met € 18,51 per 100 kg eigen massa boven 900 kg indien met betrekking tot de personenauto in het kentekenregister de brandstofsoort CNG, LNG of de brandstofsoort LPG met de typeaanduiding af-fabriek-, G3- of R115-installatie is opgenomen.
+3. In afwijking van het tweede lid, onderdeel b, bedraagt de aldaar bedoelde brandstoftoeslag: nihil bij een eigen massa van 800 kg of minder en € 19,05 bij een eigen massa van 900 kg of meer, vermeerderd met € 19,05 per 100 kg eigen massa boven 900 kg indien met betrekking tot de personenauto in het kentekenregister de brandstofsoort CNG, LNG of de brandstofsoort LPG met de typeaanduiding af-fabriek-, G3- of R115-installatie is opgenomen.
 
 4. Het bedrag van de belasting, berekend overeenkomstig het eerste en tweede lid, wordt voor een personenauto met aandrijving door een kracht die wordt ontleend aan dieselolie of een product dat ingevolge [artikel 28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=28) gelijkwaardig is aan gasolie of een combinatie van deze brandstoffen verhoogd met een fijnstoftoeslag van 19 percent van dat bedrag indien:
 
@@ -334,7 +334,7 @@ Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontle
 
 ##### Artikel 24
 
-1. [Artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+1. [Artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 2. Het bedrag van de belasting wordt voor een bestelauto:
 
@@ -342,7 +342,7 @@ Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontle
 
 - b. waarvan de datum eerste toelating, genoemd in het kentekenregister, bij de aanvang van het tijdvak 12 jaar of langer geleden gelegen is,
 
-verhoogd met een fijnstoftoeslag van 15 percent van dat bedrag indien de fijnstofuitstoot meer bedraagt dan de fijnstofwaarden, genoemd in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01).
+verhoogd met een fijnstoftoeslag van 15 percent van dat bedrag indien de fijnstofuitstoot meer bedraagt dan de fijnstofwaarden, genoemd in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01).
 
 3. Wanneer de fijnstofuitstoot, bedoeld in het tweede lid, niet is geregistreerd in het kentekenregister en de datum eerste toelating, genoemd in het kentekenregister, is gelegen voor 1 september 2009 dan wel indien in het kentekenregister is geregistreerd dat het roetfilter is verwijderd, wordt de betreffende bestelauto, behoudens tegenbewijs, geacht een fijnstofuitstoot te hebben van meer dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur.
 
@@ -350,7 +350,7 @@ verhoogd met een fijnstoftoeslag van 15 percent van dat bedrag indien de fijnsto
 
 ##### Artikel 25
 
-Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden € 30,32.
+Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden € 31,20.
 
 ##### Artikel 25a
 
@@ -362,17 +362,17 @@ Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden �
 |   | Zonder luchtvering | Zonder luchtvering | Zonder luchtvering | Met luchtvering | Met luchtvering | Met luchtvering | Zonder luchtvering | Zonder luchtvering | Met luchtvering | Met luchtvering |
 |   | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen | Met aantal assen |
 |   | 2 | 3 | 4 of meer | 2 | 3 | 4 of meer | 2 | 3 of meer | 2 | 3 of meer |
-| Minder dan 15.000 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 |
-| 15.000 tot 23.000 | € 116,25 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 |
-| 23.000 tot 25.000 | € 144,05 | € 144,05 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 96,60 |
-| 25.000 tot 27.000 | € 144,05 | € 144,05 | € 96,60 | € 96,60 | € 96,60 | € 96,60 | € 129,33 | € 96,60 | € 96,60 | € 96,60 |
-| 27.000 tot 29.000 | € 152,24 | € 152,24 | € 152,24 | € 96,60 | € 96,60 | € 96,60 | € 129,33 | € 96,60 | € 96,60 | € 96,60 |
-| 29.000 tot 31.000 | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 140,74 | € 137,50 | € 96,60 | € 96,60 |
-| 31.000 tot 33.000 | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 194,81 | € 137,50 | € 140,74 | € 96,60 |
-| 33.000 tot 36.000 | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 293,05 | € 189,87 | € 194,81 | € 137,50 |
-| 36.000 tot 38.000 | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 293,05 | € 189,87 | € 194,81 | € 137,50 |
-| 38.000 tot 40.000 | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 293,05 | € 260,33 | € 214,45 | € 189,87 |
-| 40.000 en meer | € 224,26 | € 224,26 | € 224,26 | € 152,24 | € 152,24 | € 152,24 | € 384,72 | € 384,72 | € 293,05 | € 260,33 |
+| Minder dan 15.000 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 |
+| 15.000 tot 23.000 | € 119,62 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 |
+| 23.000 tot 25.000 | € 148,23 | € 148,23 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 99,40 |
+| 25.000 tot 27.000 | € 148,23 | € 148,23 | € 99,40 | € 99,40 | € 99,40 | € 99,40 | € 133,08 | € 99,40 | € 99,40 | € 99,40 |
+| 27.000 tot 29.000 | € 156,65 | € 156,65 | € 156,65 | € 99,40 | € 99,40 | € 99,40 | € 133,08 | € 99,40 | € 99,40 | € 99,40 |
+| 29.000 tot 31.000 | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 144,82 | € 141,49 | € 99,40 | € 99,40 |
+| 31.000 tot 33.000 | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 200,46 | € 141,49 | € 144,82 | € 99,40 |
+| 33.000 tot 36.000 | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 301,55 | € 195,38 | € 200,46 | € 141,49 |
+| 36.000 tot 38.000 | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 301,55 | € 195,38 | € 200,46 | € 141,49 |
+| 38.000 tot 40.000 | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 301,55 | € 267,88 | € 220,67 | € 195,38 |
+| 40.000 en meer | € 230,76 | € 230,76 | € 230,76 | € 156,65 | € 156,65 | € 156,65 | € 395,88 | € 395,88 | € 301,55 | € 267,88 |
 
 waarbij voor de luchtvering geldt dat deze zich bevindt op de aangedreven assen en onder luchtvering mede wordt verstaan daaraan als gelijkwaardig erkende vering als bedoeld in bijlage I bij de richtlijn.
 
@@ -402,7 +402,7 @@ waarbij voor de luchtvering geldt dat deze zich bevindt op de aangedreven assen 
 
 ##### Artikel 25b
 
-Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=1&artikel=22&z=2025-01-01&g=2025-01-01), over een tijdvak van drie maanden € 72,61, vermeerderd met € 7,28 per 1000 kg toegestane maximum massa boven 11 000 kg.
+Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=1&artikel=22&z=2026-01-01&g=2026-01-01), over een tijdvak van drie maanden € 74,72, vermeerderd met € 7,49 per 1000 kg toegestane maximum massa boven 11 000 kg.
 
 ##### Artikel 26
 
@@ -438,21 +438,15 @@ Vervallen
 
 - b. wordt gehouden door een kermis- of circusexploitant en wordt gebruikt voor het vervoer van kermis- of circusbenodigdheden;
 
-- c. is ingericht als werktuig of als werkplaats;
+- c. is ingericht als werktuig of als werkplaats,
 
-- d. vervallen;
-
-- e. vervallen;
-
-- f. is ingericht voor het vervoer van paarden ten behoeve van de paardensport en uitsluitend niet-beroepsmatig wordt gebruikt,
-
-bedraagt de belasting in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2025-01-01&g=2025-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2025-01-01&g=2025-01-01) of [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2025-01-01&g=2025-01-01) een kwart van de ingevolge die artikelen verschuldigde belasting.
+bedraagt de belasting in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01) of [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2026-01-01&g=2026-01-01) een kwart van de ingevolge die artikelen verschuldigde belasting.
 
 2. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld met betrekking tot de toepassing van het eerste lid.
 
 ##### Artikel 31
 
-In afwijking van het in dit hoofdstuk, [afdeling 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&z=2025-01-01&g=2025-01-01), bepaalde bedraagt de belasting een kwart van de ingevolge die afdelingen verschuldigde belasting voor een motorrijtuig dat is ingericht en bestemd om uitsluitend te worden aangedreven door een elektromotor, mits de elektrische energie uitsluitend door een batterij of door een brandstofcel wordt geleverd, of door een verbrandingsmotor die kan worden gevoed met waterstof.
+Vervallen
 
 ##### Artikel 32
 
@@ -470,7 +464,7 @@ Vervallen
 
 - a. het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet op naam heeft gestaan van degene die het motorrijtuig houdt;
 
-- b. voor het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken een schorsing als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=19&z=2025-01-01&g=2025-01-01) van toepassing is geweest; of
+- b. voor het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken een schorsing als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=19&z=2026-01-01&g=2026-01-01) van toepassing is geweest; of
 
 - c. de verandering aan het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet was aangebracht, wordt over dat gedeelte de belasting niet nageheven.
 
@@ -486,7 +480,7 @@ Vervallen
 
 4. Indien blijkt dat een verandering aan het motorrijtuig waardoor een hoger bedrag aan belasting verschuldigd is dan vóór die verandering, niet was aangebracht over een gedeelte van de tijdsduur van twaalf maanden wordt over dat gedeelte de ter zake van die verandering meer verschuldigde belasting niet nageheven.
 
-5. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), is van toepassing.
+5. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 6. De na te heffen belasting wordt verminderd met de belasting die over de periode waarop de naheffingsaanslag betrekking heeft voor het motorrijtuig is betaald en voorzover voor de belasting over die periode geen aanspraak op teruggaaf van belasting bestaat.
 
@@ -498,7 +492,7 @@ Vervallen
 
 3. Indien blijkt dat het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet op naam heeft gestaan van degene die het motorrijtuig houdt, wordt over dat gedeelte de belasting niet nageheven.
 
-4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), is van toepassing.
+4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 5. De na te heffen belasting wordt verminderd met de belasting die over de periode waarop de naheffingsaanslag betrekking heeft voor het motorrijtuig is betaald en voorzover voor de belasting over die periode geen aanspraak op teruggaaf van belasting bestaat.
 
@@ -506,17 +500,17 @@ Vervallen
 
 ##### Artikel 35a
 
-Indien een voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6) binnen een maand eindigt, anders dan als bedoeld in [artikel 68, eerste lid, onderdelen c en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=68), wordt de belasting waarvan krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=20&z=2025-01-01&g=2025-01-01), teruggaaf is verleend alsmede de te weinig geheven belasting nageheven.
+Indien een voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6) binnen een maand eindigt, anders dan als bedoeld in [artikel 68, eerste lid, onderdelen c en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=68), wordt de belasting waarvan krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=20&z=2026-01-01&g=2026-01-01), teruggaaf is verleend alsmede de te weinig geheven belasting nageheven.
 
 ##### Artikel 36
 
-1. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2025-01-01&g=2025-01-01) of [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=30&z=2025-01-01&g=2025-01-01), niet wordt voldaan aan de bij of krachtens die artikelen gestelde voorwaarden, kan de belasting die zonder toepassing van die artikelen meer verschuldigd zou zijn geweest, worden nageheven.
+1. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2026-01-01&g=2026-01-01) of [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=30&z=2026-01-01&g=2026-01-01), niet wordt voldaan aan de bij of krachtens die artikelen gestelde voorwaarden, kan de belasting die zonder toepassing van die artikelen meer verschuldigd zou zijn geweest, worden nageheven.
 
-2. [Artikel 33, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+2. [Artikel 33, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37
 
-In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=13&z=2025-01-01&g=2025-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2025-01-01&g=2025-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2025-01-01&g=2025-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=34&z=2025-01-01&g=2025-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=35&z=2025-01-01&g=2025-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=36&z=2025-01-01&g=2025-01-01), is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
+In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=13&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=34&z=2026-01-01&g=2026-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=36&z=2026-01-01&g=2026-01-01), is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
 ### HOOFDSTUK IIA. TERUGGAAF BEDRIJFSVOERTUIGENPARK
 
@@ -572,7 +566,7 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ##### Artikel 37c
 
-1. De teruggaaf bedraagt over het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2025-01-01&g=2025-01-01), bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan € 342,08 bepaalt de inspecteur dat tarief op € 342,08 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.
+1. De teruggaaf bedraagt over het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2026-01-01&g=2026-01-01), bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan € 352,00 bepaalt de inspecteur dat tarief op € 352,00 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.
 
 2. De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare beschikking.
 
@@ -580,9 +574,9 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ##### Artikel 37d
 
-1. Indien gebruik van de weg wordt gemaakt met een vrachtauto die deel uitmaakt van een bedrijfsvoertuigenpark en die is verbonden met een aanhangwagen die geen deel uitmaakt van dat bedrijfsvoertuigenpark, is [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2025-01-01&g=2025-01-01) met betrekking tot die vrachtauto niet van toepassing gedurende het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2025-01-01&g=2025-01-01), bedoelde jaar.
+1. Indien gebruik van de weg wordt gemaakt met een vrachtauto die deel uitmaakt van een bedrijfsvoertuigenpark en die is verbonden met een aanhangwagen die geen deel uitmaakt van dat bedrijfsvoertuigenpark, is [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2026-01-01&g=2026-01-01) met betrekking tot die vrachtauto niet van toepassing gedurende het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2026-01-01&g=2026-01-01), bedoelde jaar.
 
-2. Het gebruik van de weg, bedoeld in het eerste lid, vormt een verzuim ter zake waarvan de inspecteur aan de houder een bestuurlijke boete kan opleggen van ten hoogste € 669. De bevoegdheid tot het opleggen van de boete vervalt, in afwijking van [artikel 5:45, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), door het verloop van vijf jaren na afloop van het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2025-01-01&g=2025-01-01), bedoelde jaar.
+2. Het gebruik van de weg, bedoeld in het eerste lid, vormt een verzuim ter zake waarvan de inspecteur aan de houder een bestuurlijke boete kan opleggen van ten hoogste € 669. De bevoegdheid tot het opleggen van de boete vervalt, in afwijking van [artikel 5:45, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), door het verloop van vijf jaren na afloop van het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2026-01-01&g=2026-01-01), bedoelde jaar.
 
 3. [Artikel 67cb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67cb) is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het tweede lid.
 
@@ -724,31 +718,31 @@ De belasting voor een kenteken als bedoeld in [artikel 37, derde lid, van de Weg
 
 1. Het tijdvak waarover de belasting moet worden betaald is drie maanden.
 
-2. Het tijdvak vangt aan met ingang van de dag van dagtekening van de tenaamstelling van het kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2025-01-01&g=2025-01-01) en telkenmale drie maanden later.
+2. Het tijdvak vangt aan met ingang van de dag van dagtekening van de tenaamstelling van het kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) en telkenmale drie maanden later.
 
 ##### Artikel 64
 
-De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=14&z=2025-01-01&g=2025-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 2. Wijze van heffing
 
 ##### Artikel 65
 
-De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2025-01-01&g=2025-01-01) wordt aangemerkt als het doen van aangifte. De aangifte geldt voor de tijdvakken dat het bijzondere kenteken te naam is gesteld in het kentekenregister.
+De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) wordt aangemerkt als het doen van aangifte. De aangifte geldt voor de tijdvakken dat het bijzondere kenteken te naam is gesteld in het kentekenregister.
 
 ### Afdeling 1. Belastingplichtige
 
 ##### Artikel 66
 
-1. Teruggaaf van belasting wordt verleend over het lopende tijdvak, voor zover dit niet is verstreken op het tijdstip waarop de tenaamstelling van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2025-01-01&g=2025-01-01) vervalt.
+1. Teruggaaf van belasting wordt verleend over het lopende tijdvak, voor zover dit niet is verstreken op het tijdstip waarop de tenaamstelling van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) vervalt.
 
-2. [Artikel 18, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+2. [Artikel 18, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 2. Wijze van heffing
 
 ##### Artikel 67
 
-Voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2025-01-01&g=2025-01-01) bedraagt de belasting over een tijdvak van drie maanden het bedrag, opgenomen in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), voor een personenauto met een eigen massa van 1000 kg.
+Voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) bedraagt de belasting over een tijdvak van drie maanden het bedrag, opgenomen in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), voor een personenauto met een eigen massa van 1000 kg.
 
 ##### Artikel 68
 
@@ -758,15 +752,15 @@ Vervallen
 
 ##### Artikel 69
 
-1. Indien met betrekking tot een motorrijtuig uit een bedrijfsvoorraad of een motorrijtuig dat voor het verrichten van werkzaamheden daaraan bij een herstelbedrijf is, niet is voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2025-01-01&g=2025-01-01), gestelde voorwaarden, kan de belasting worden nageheven.
+1. Indien met betrekking tot een motorrijtuig uit een bedrijfsvoorraad of een motorrijtuig dat voor het verrichten van werkzaamheden daaraan bij een herstelbedrijf is, niet is voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), gestelde voorwaarden, kan de belasting worden nageheven.
 
-2. De na te heffen belasting wordt berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag waarvan wordt geconstateerd dat op die dag niet wordt voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2025-01-01&g=2025-01-01), gestelde voorwaarden. Indien niet aan de gestelde voorwaarden wordt voldaan, uitsluitend doordat het bij het handelaarskenteken behorende kentekenbewijs (handelaarskentekenbewijs) niet in het motorrijtuig aanwezig is, wordt de na te heffen belasting berekend over een tijdsduur van drie maanden, waarbij als laatste dag geldt de dag waarvan wordt geconstateerd dat op die dag het handelaarskentekenbewijs niet aanwezig was.
+2. De na te heffen belasting wordt berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag waarvan wordt geconstateerd dat op die dag niet wordt voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), gestelde voorwaarden. Indien niet aan de gestelde voorwaarden wordt voldaan, uitsluitend doordat het bij het handelaarskenteken behorende kentekenbewijs (handelaarskentekenbewijs) niet in het motorrijtuig aanwezig is, wordt de na te heffen belasting berekend over een tijdsduur van drie maanden, waarbij als laatste dag geldt de dag waarvan wordt geconstateerd dat op die dag het handelaarskentekenbewijs niet aanwezig was.
 
 3. Indien met het motorrijtuig gebruik wordt gemaakt van de weg zonder dat aan de in het tweede lid bedoelde voorwaarden wordt voldaan, wordt de naheffingsaanslag opgelegd aan de bestuurder ingeval degene tot wiens bedrijfsvoorraad het motorrijtuig behoort of degene die het herstelbedrijf uitoefent aannemelijk maakt, dat van het motorrijtuig tegen zijn wil gebruik is gemaakt en hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen.
 
 ##### Artikel 70
 
-In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=6&artikel=69&z=2025-01-01&g=2025-01-01), is artikel [67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
+In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=6&artikel=69&z=2026-01-01&g=2026-01-01), is artikel [67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Vrijstellingen
 
@@ -860,7 +854,7 @@ Vervallen
 
 - a. een tijdsduur van vier aaneensluitende tijdvakken van drie maanden met als laatste tijdvak dat waarin het in het eerste lid bedoelde feit wordt geconstateerd, of
 
-- b. , ingeval het een motorrijtuig betreft waarvoor de vrijstelling van [artikel 72, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=72&z=2025-01-01&g=2025-01-01), is verleend maar uit een boekenonderzoek blijkt dat deze vrijstelling ten onrechte is verleend, de tijdsduur waarover deze vrijstelling blijkens het boekenonderzoek ten onrechte is verleend.
+- b. , ingeval het een motorrijtuig betreft waarvoor de vrijstelling van [artikel 72, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=72&z=2026-01-01&g=2026-01-01), is verleend maar uit een boekenonderzoek blijkt dat deze vrijstelling ten onrechte is verleend, de tijdsduur waarover deze vrijstelling blijkens het boekenonderzoek ten onrechte is verleend.
 
 3. Indien blijkt dat het motorrijtuig over een gedeelte van de tijdsduur waarover de na te heffen belasting wordt berekend, niet op naam heeft gestaan van degene die het motorrijtuig houdt, wordt over dat gedeelte de belasting niet nageheven.
 
@@ -870,9 +864,9 @@ Vervallen
 
 ##### Artikel 77
 
-1. In het geval, bedoeld in [artikel 76, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2025-01-01&g=2025-01-01), vervalt de bevoegdheid tot naheffen door verloop van vijf jaren na het eind van het kalenderjaar waarin de belastingschuld is ontstaan.
+1. In het geval, bedoeld in [artikel 76, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2026-01-01&g=2026-01-01), vervalt de bevoegdheid tot naheffen door verloop van vijf jaren na het eind van het kalenderjaar waarin de belastingschuld is ontstaan.
 
-2. Voor de toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2025-01-01&g=2025-01-01) is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
+2. Voor de toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2026-01-01&g=2026-01-01) is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
 ### Hoofdstuk VIII. Vrijstellingen
 
@@ -882,7 +876,7 @@ Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporings
 
 ##### Artikel 79
 
-1. De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IX&artikel=78&z=2025-01-01&g=2025-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+1. De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IX&artikel=78&z=2026-01-01&g=2026-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing met betrekking tot een met een motorrijtuig verbonden aanhangwagen.
 
@@ -904,7 +898,7 @@ Het bedrag aan belasting en de daarop geheven toeslagen en opcenten tezamen word
 
 ##### Artikel 83
 
-Bij wijziging van het tarief van de belasting vindt de tariefwijziging geen toepassing voor het op het tijdstip met ingang waarvan de wijziging van toepassing is, nog niet verstreken gedeelte van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01), dan wel [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2025-01-01&g=2025-01-01), bedoelde tijdvak.
+Bij wijziging van het tarief van de belasting vindt de tariefwijziging geen toepassing voor het op het tijdstip met ingang waarvan de wijziging van toepassing is, nog niet verstreken gedeelte van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01), dan wel [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde tijdvak.
 
 ##### Artikel 84
 
@@ -924,7 +918,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 81a
 
-De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de artikelen [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2025-01-01&g=2025-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2025-01-01&g=2025-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=4&artikel=25&z=2025-01-01&g=2025-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2025-01-01&g=2025-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=6&artikel=25b&z=2025-01-01&g=2025-01-01), [25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=7&artikel=25c&z=2025-01-01&g=2025-01-01), [37c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2025-01-01&g=2025-01-01), en [84a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2025-01-01&g=2025-01-01) vermelde bedragen.
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de artikelen [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=4&artikel=25&z=2026-01-01&g=2026-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2026-01-01&g=2026-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=6&artikel=25b&z=2026-01-01&g=2026-01-01), [25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=7&artikel=25c&z=2026-01-01&g=2026-01-01), [37c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2026-01-01&g=2026-01-01), en [84a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2026-01-01&g=2026-01-01) vermelde bedragen.
 
 ### Hoofdstuk X. Bijzondere bepalingen
 
@@ -932,17 +926,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 24a
 
-1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing verklaarde artikel 23, eerste tot en met derde lid, bedraagt onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen de belasting voor een bestelauto die is ingericht en wordt gebruikt voor het vervoer van een gehandicapte persoon in de cabine en voor het gelijktijdige vervoer van een niet-opvouwbare rolstoel ten behoeve van die persoon, op verzoek:
+1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing verklaarde artikel 23, eerste tot en met derde lid, bedraagt onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen de belasting voor een bestelauto die is ingericht en wordt gebruikt voor het vervoer van een gehandicapte persoon in de cabine en voor het gelijktijdige vervoer van een niet-opvouwbare rolstoel ten behoeve van die persoon, op verzoek:
 
 | bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
 | --- | --- | --- | --- |
-| 500 of minder | € 12,74 |   |   |
-| 600 tot en met 1000 | € 21,82 | € 6,39 | 600 kg |
-| 1100 tot en met 2000 | € 53,83 | € 6,84 | 1 100 kg |
-| 2100 tot en met 2700 | € 122,79 | € 7,39 | 2 100 kg |
-| 2800 en meer | € 171,57 | € 1,70 | 2 800 kg |
+| 500 of minder | € 13,11 |   |   |
+| 600 tot en met 1000 | € 22,45 | € 6,58 | 600 kg |
+| 1100 tot en met 2000 | € 55,39 | € 7,04 | 1 100 kg |
+| 2100 tot en met 2700 | € 126,35 | € 7,60 | 2 100 kg |
+| 2800 en meer | € 176,55 | € 1,75 | 2 800 kg |
 
-2. Het eerste lid is eveneens van toepassing, indien de laadruimte van de bestelauto, in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=2&artikel=3&z=2025-01-01&g=2025-01-01), ten gevolge van aanpassing van de bestelauto in verband met de handicap van de in het eerste lid bedoelde persoon, niet langer van de bestuurdersplaats onderscheidenlijk de cabine is afgescheiden of niet in haar geheel is voorzien van een vlakke laadvloer.
+2. Het eerste lid is eveneens van toepassing, indien de laadruimte van de bestelauto, in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=2&artikel=3&z=2026-01-01&g=2026-01-01), ten gevolge van aanpassing van de bestelauto in verband met de handicap van de in het eerste lid bedoelde persoon, niet langer van de bestuurdersplaats onderscheidenlijk de cabine is afgescheiden of niet in haar geheel is voorzien van een vlakke laadvloer.
 
 3. Indien de belasting voor een bestelauto wordt geheven van een ander dan de gehandicapte, is het eerste lid slechts van toepassing indien het verzoek als bedoeld in het eerste lid wordt gedaan door die ander en de gehandicapte gezamenlijk.
 
@@ -954,7 +948,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. de bestelauto uitsluitend gebruikt blijft worden voor het persoonlijk gebruik van degene op wiens naam deze bestelauto is gesteld, gebruik door inwonende gezinsleden daaronder begrepen.
 
-6. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+6. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 7. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -962,21 +956,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 24b
 
-1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing verklaarde [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), bedraagt de belasting die voor een bestelauto wordt geheven van een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een persoon die ingevolge [artikel 7, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) met betrekking tot een bepaalde levering als ondernemer wordt aangemerkt, die de bestelauto meer dan bijkomstig bezigt in het kader van zijn onderneming:
+1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing verklaarde [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), bedraagt de belasting die voor een bestelauto wordt geheven van een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een persoon die ingevolge [artikel 7, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) met betrekking tot een bepaalde levering als ondernemer wordt aangemerkt, die de bestelauto meer dan bijkomstig bezigt in het kader van zijn onderneming:
 
 | bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
 | --- | --- | --- | --- |
-| 500 of minder | € 50,51 |   |   |
-| 600 tot en met 1000 | € 61,76 | € 7,92 | 600 kg |
-| 1100 tot en met 2000 | € 101,48 | € 8,51 | 1 100 kg |
-| 2100 tot en met 2700 | € 187,04 | € 9,16 | 2 100 kg |
-| 2800 en meer | € 247,61 | € 2,08 | 2 800 kg |
+| 500 of minder | € 51,97 |   |   |
+| 600 tot en met 1000 | € 63,55 | € 8,15 | 600 kg |
+| 1100 tot en met 2000 | € 104,42 | € 8,76 | 1 100 kg |
+| 2100 tot en met 2700 | € 192,46 | € 9,43 | 2 100 kg |
+| 2800 en meer | € 254,79 | € 2,14 | 2 800 kg |
 
 2. In afwijking in zoverre van het eerste lid gelden de daarin opgenomen belastingbedragen voor een bestelauto die door een ondernemer als bedoeld in het eerste lid voor een langere dan bij ministeriële regeling vast te stellen periode ter beschikking wordt gesteld aan een derde, slechts indien deze derde overigens voldoet aan het gestelde in het eerste lid.
 
 3. Bij een verandering, anders dan aan de bestelauto, waardoor de belasting voor een bestelauto hoger of lager wordt, wordt een aanvullende aangifte gedaan. De constatering van het feit dat voor een bestelauto de aanvullende aangifte niet is gedaan, wordt gelijkgesteld met een dergelijke aangifte. De aanvullende aangifte geldt voor de tijdvakken die aanvangen na het lopende tijdvak.
 
-4. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+4. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -1020,9 +1014,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 23a
 
-1. Voor een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid en die voldoet aan bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen met betrekking tot uiterlijk en inrichting, bedraagt de belasting in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01) en onder bij algemene maatregel van bestuur te stellen voorwaarden, een kwart van de ingevolge [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01) verschuldigde belasting.
-
-2. Indien een personenauto als bedoeld in het eerste lid, bedrijfsmatig wordt verhuurd, bedraagt de belasting de helft van de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01) verschuldigde belasting.
+Voor een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid en die voldoet aan bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen met betrekking tot uiterlijk en inrichting, bedraagt de belasting in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01) en onder bij algemene maatregel van bestuur te stellen voorwaarden, de helft van de ingevolge dat artikel verschuldigde belasting.
 
 ### Afdeling 7. **Tarief autobus**
 
@@ -1070,11 +1062,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 23b
 
-1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2025-01-01&g=2025-01-01) bedraagt de belasting:
+1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01) en[23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2026-01-01&g=2026-01-01) bedraagt de belasting voor een motorrijtuig dat een aandrijving heeft uitsluitend op elektriciteit of waterstof een percentage van de ingevolge die artikelen verschuldigde belasting. Dat percentage is:
 
-- a. voor een personenauto met een CO2-uitstoot van 0 gram per kilometer: een kwart van de ingevolge artikel 23 verschuldigde belasting, en
+- –. voor het jaar 2026: 70%;
 
-- b. voor een personenauto, niet zijnde een personenauto in de zin van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2025-01-01&g=2025-01-01), met een CO2-uitstoot van meer dan 0 gram per kilometer maar niet meer dan 50 gram per kilometer: driekwart van de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01) verschuldigde belasting.
+- –. voor het jaar 2027: 70%;
+
+- –. voor het jaar 2028: 70%;
+
+- –. voor het jaar 2029: 75%.
 
 2. Voor de toepassing van het eerste lid is [artikel 9, elfde tot en met dertiende lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), voor zover het betrekking heeft op de meting van de CO2-uitstoot, van overeenkomstige toepassing.
 
@@ -1136,9 +1132,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 | bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
 | --- | --- | --- | --- |
-| 1.000 of minder | € 33,71 |   |   |
-| 1.100 tot en met 2.600 | € 38,02 | € 4,35 | 1.100 kg |
-| 2.700 en meer | € 106,62 | € 1,40 | 2.700 kg |
+| 1.000 of minder | € 34,69 |   |   |
+| 1.100 tot en met 2.600 | € 39,12 | € 4,48 | 1.100 kg |
+| 2.700 en meer | € 109,71 | € 1,44 | 2.700 kg |
 
 2. Op verzoek bedraagt de belasting nihil voor een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1), en die is bestemd om hoofdzakelijk te worden aangedreven door een kracht die wordt ontleend aan vloeibaar gemaakt petroleumgas als bedoeld in [artikel 26, zesde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26) of aan aardgas. De inspecteur neemt de beslissing op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -1162,15 +1158,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 84a
 
-1. Voor de toepassing van dit hoofdstuk is in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01) het tijdvak een kalenderjaar.
+1. Voor de toepassing van dit hoofdstuk is in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01) het tijdvak een kalenderjaar.
 
-2. Op verzoek bedraagt het toe te passen tarief over het tijdvak het bedrag aan belasting, genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2025-01-01&g=2025-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2025-01-01&g=2025-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2025-01-01&g=2025-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=4&artikel=25&z=2025-01-01&g=2025-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2025-01-01&g=2025-01-01) of [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=7&artikel=25c&z=2025-01-01&g=2025-01-01), zoals deze artikelen luidden op 31 december voorafgaand aan het tijdvak. Het ingevolge de eerste volzin bepaalde bedrag aan belasting bedraagt, met inbegrip van de provinciale opcenten, bedoeld in [artikel 222 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=222), ten hoogste € 154,00.
+2. Op verzoek bedraagt het toe te passen tarief over het tijdvak het bedrag aan belasting, genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=4&artikel=25&z=2026-01-01&g=2026-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2026-01-01&g=2026-01-01) of [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=7&artikel=25c&z=2026-01-01&g=2026-01-01), zoals deze artikelen luidden op 31 december voorafgaand aan het tijdvak. Het ingevolge de eerste volzin bepaalde bedrag aan belasting bedraagt, met inbegrip van de provinciale opcenten, bedoeld in [artikel 222 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=222), ten hoogste € 158,00.
 
 3. Het tarief, bedoeld in het tweede lid, kan uitsluitend worden toegepast indien:
 
 - a. het motorrijtuig vóór 1 januari 1988 voor het eerst in gebruik is genomen, maar het tijdstip van eerste ingebruikneming nog geen 40 jaar geleden is;
 
-- b. het motorrijtuig, indien het een personenauto of bestelauto betreft, is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine als bedoeld in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=1&artikel=22&z=2025-01-01&g=2025-01-01);
+- b. het motorrijtuig, indien het een personenauto of bestelauto betreft, is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine als bedoeld in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=1&artikel=22&z=2026-01-01&g=2026-01-01);
 
 - c. met het motorrijtuig geen gebruik van de weg wordt gemaakt in de maanden januari, februari en december van hetzelfde tijdvak, met uitzondering van de dag waarop het motorrijtuig aan een keuring wordt onderworpen ter zake van de afgifte van een keuringsbewijs als bedoeld in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72);
 
@@ -1192,17 +1188,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. indien deze wordt gedaan door een andere houder dan als bedoeld in onderdeel a, voor de tijdvakken die aanvangen na het lopende tijdvak dat is bepaald zonder toepassing van dit hoofdstuk.
 
-9. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van dit artikel, niet wordt voldaan aan de bij of krachtens dit artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dit artikel over het gehele kalenderjaar verschuldigd zou zijn geweest, worden nageheven met overeenkomstige toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2025-01-01&g=2025-01-01). [Artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) is van toepassing.
+9. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van dit artikel, niet wordt voldaan aan de bij of krachtens dit artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dit artikel over het gehele kalenderjaar verschuldigd zou zijn geweest, worden nageheven met overeenkomstige toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2026-01-01&g=2026-01-01). [Artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) is van toepassing.
 
-10. Voor de toepassing van dit hoofdstuk blijven de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2025-01-01&g=2025-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=12&z=2025-01-01&g=2025-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=13&z=2025-01-01&g=2025-01-01), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2025-01-01&g=2025-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=17&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2025-01-01&g=2025-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=19&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=20&z=2025-01-01&g=2025-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=21&z=2025-01-01&g=2025-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=27&z=2025-01-01&g=2025-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=30&z=2025-01-01&g=2025-01-01), [33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2025-01-01&g=2025-01-01), en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=36&z=2025-01-01&g=2025-01-01) buiten toepassing.
+10. Voor de toepassing van dit hoofdstuk blijven de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=12&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=13&z=2026-01-01&g=2026-01-01), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2026-01-01&g=2026-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=19&z=2026-01-01&g=2026-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=20&z=2026-01-01&g=2026-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=21&z=2026-01-01&g=2026-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=27&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=30&z=2026-01-01&g=2026-01-01), [33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=36&z=2026-01-01&g=2026-01-01) buiten toepassing.
 
 11. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit hoofdstuk.
 
 ##### Artikel 84b
 
-1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2025-01-01&g=2025-01-01), wordt voor het tijdvak 2014 de betaling, bedoeld in [artikel 84a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2025-01-01&g=2025-01-01), gedaan vóór 1 maart 2014.
+1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), wordt voor het tijdvak 2014 de betaling, bedoeld in [artikel 84a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2026-01-01&g=2026-01-01), gedaan vóór 1 maart 2014.
 
-2. In afwijking van [artikel 84a, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2025-01-01&g=2025-01-01), mag in de maanden januari en februari 2014 gebruik van de weg worden gemaakt.
+2. In afwijking van [artikel 84a, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2026-01-01&g=2026-01-01), mag in de maanden januari en februari 2014 gebruik van de weg worden gemaakt.
 
 ### Hoofdstuk XI. Slotbepalingen
 
@@ -1210,7 +1206,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 24aa
 
-In afwijking van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01), wordt voor een bestelauto die is ingericht en bestemd om mede te worden aangedreven door een elektromotor, mits de aandrijving door de elektromotor zodanig is dat de elektrische energie voor een actieradius van ten minste 24 km aaneengesloten stadsverkeer uitsluitend door een batterij of door een brandstofcel kan worden geleverd, of mits het piekvermogen van de voor de aandrijving bestemde elektromotor ten minste 15 percent van het maximum vermogen van de verbrandingsmotor bedraagt, onder bij algemene maatregel van bestuur te stellen voorwaarden, de eigen massa van het motorrijtuig verminderd met 125 kg.
+Vervallen
 
 ### Afdeling 4. Tarief motorrijwiel
 
