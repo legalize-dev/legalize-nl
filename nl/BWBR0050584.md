@@ -4,7 +4,7 @@ identifier: "BWBR0050584"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-12-31"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050584"
 soort: "AMvB"
@@ -200,11 +200,35 @@ G: het effectieve belastingtarief van de staat waarin de entiteit is gevestigd d
 
 - b. beleggingsentiteiten in een staat die in vergelijkbare omstandigheden voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) onder de reikwijdte van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.4), [10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.5) of [10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.6) zouden vallen en die niet zijn onderworpen aan een kwalificerende binnenlandse bijheffing in die staat;
 
-- c. een joint venture of een joint venture-groep in een staat ten aanzien waarvan de kwalificerende binnenlandse bijheffing niet wordt geheven bij de joint venture of de leden van de joint venture-groep in die staat; of
+- c. een joint venture of een joint venture-groep in een staat ten aanzien waarvan de kwalificerende binnenlandse bijheffing niet wordt geheven bij de joint venture of de leden van de joint venture-groep in die staat;
 
-- d. een staatloze doorkijkentiteit die niet is onderworpen aan een kwalificerende binnenlandse bijheffing in de staat waarin zij is opgericht.
+- d. een staatloze doorkijkentiteit die niet is onderworpen aan een kwalificerende binnenlandse bijheffing in de staat waarin zij is opgericht;
 
-3. Niettegenstaande het tweede lid wordt voor de toepassing van de kwalificerende binnenlandse bijheffing veilige haven geacht te zijn voldaan aan de consistentiestandaard indien een staat een kwalificerende binnenlandse bijheffing kent en zich een van de omstandigheden bedoeld in onderdeel a tot en met d voordoet.
+- e. een securitisatie-entiteit; of
+
+- f. de groepsentiteiten van een multinationale groep die gevestigd zijn in een staat indien een of meer van die groepsentiteiten een of meer actieve belastinglatenties als bedoeld in [artikel 14.1, tweede lid, onderdeel b, c, of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) hebben gevormd en de aanwending van die belastinglatentie of belastinglatenties voor de berekening van de binnenlandse bijheffing niet is uitgesloten van het totale bedrag aan gecorrigeerde mutaties in belastinglatenties of de berekening van de vereenvoudigde betrokken belastingen, bedoeld in [artikel 8.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8).
+
+3. Voor de groepsentiteiten in een staat waarbij zich niet een van de omstandigheden, bedoeld in het tweede lid, voordoet, wordt voldaan aan de consistentiestandaard indien de kwalificerende binnenlandse bijheffing in die staat voldoet aan de voorwaarden bedoeld in het eerste lid.
+
+4. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- **securitisatie-entiteit:** een entiteit die deelneemt aan een securitisatie-regeling en die aan alle volgende voorwaarden voldoet:
+
+- a. de entiteit voert alleen activiteiten uit die een of meer securitisatie-regelingen faciliteren;
+
+- b. de entiteit verstrekt zekerheid over haar activa ten gunste van haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit;
+
+- c. de entiteit betaalt alle liquide middelen die zij uit haar activa ontvangt jaarlijks of vaker uit aan haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit, anders dan:
+
+- 1°. liquide middelen die worden aangehouden ter dekking van een winstbedrag voor een uiteindelijke distributie aan aandeelhouders dat volgens de voorwaarden van de regeling vereist is; of
+
+- 2°. liquide middelen die redelijkerwijs vereist zijn onder de voorwaarden van de regeling om voorzieningen te treffen voor toekomstige betalingen die door de entiteit moeten worden gedaan of waarschijnlijk zullen worden gedaan krachtens de voorwaarden van de regeling, of om de kredietwaardigheid van de entiteit te behouden of te verbeteren.
+
+- **securitisatie-regeling:** een regeling die aan de volgende voorwaarden voldoet:
+
+- a. de regeling heeft tot doel een portefeuille van activa of blootstellingen aan activa te bundelen en opnieuw te verpakken voor investeerders die geen groepsentiteit van de groep zijn, op een manier die een of meer geïdentificeerde groepen van activa wettelijk scheidt; en
+
+- b. de regeling beperkt de blootstelling van die investeerders aan het risico van insolventie van een entiteit die de wettelijk gescheiden activa bezit, door de mogelijkheid van geïdentificeerde schuldeisers van die entiteit of van een andere entiteit in de regeling om claims tegen haar in te dienen te beheersen door middel van contractuele overeenkomsten met die schuldeisers.
 
 ### Hoofdstuk 5. Transitieregels ([hoofdstuk 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14))
 
@@ -324,7 +348,7 @@ E: de totale acute belastinglast van de hoofdentiteit of groepsentiteit-belangho
 
 F: de binnenlandse acute belastinglast van de hoofdentiteit of groepsentiteit-belanghouder waarbij de acute belastinglast met betrekking tot het buitenlandse broninkomen buiten beschouwing blijft;
 
-G: de betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen als bedoeld in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050584&hoofdstuk=3&artikel=6&z=2024-12-31&g=2025-12-31).
+G: de betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen als bedoeld in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050584&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01).
 
 3. De allocatiesleutel van een vaste inrichting of entiteit voor de toerekening van betrokken belastingen wordt berekend volgens de formule:
 
