@@ -4,7 +4,7 @@ identifier: "BWBR0035730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035730"
 soort: "ministeriele-regeling"
@@ -46,21 +46,21 @@ Besluit:
 
 2. De jaarbeloning, inclusief onkostenvergoeding, bedraagt:
 
-- a. voor een curator € 1.371;
+- a. voor een curator € 1.593;
 
-- b. voor een bewindvoerder € 760;
+- b. voor een bewindvoerder € 883;
 
-- c. voor een mentor € 760.
+- c. voor een mentor € 883.
 
-3. Indien de curator wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.979.
+3. Indien de curator wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 2.300.
 
-4. Indien de bewindvoerder wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 914.
+4. Indien de bewindvoerder wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.062.
 
-5. Indien de mentor wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.371.
+5. Indien de mentor wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.593.
 
-6. Indien een persoon wordt benoemd tot curator respectievelijk bewindvoerder van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.523.
+6. Indien een persoon wordt benoemd tot curator respectievelijk bewindvoerder van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.770.
 
-7. Indien een persoon wordt benoemd tot curator respectievelijk mentor van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 1.979.
+7. Indien een persoon wordt benoemd tot curator respectievelijk mentor van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, bedraagt de jaarbeloning € 2.300.
 
 8. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator, bewindvoerder of mentor op andere wijze vaststellen.
 
@@ -70,13 +70,13 @@ Besluit:
 
 2. De jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, bedraagt:
 
-- a. voor een curator € 2.524;
+- a. voor een curator € 2.933;
 
-- b. voor een curator in een curatele met problematische schulden € 2.892;
+- b. voor een curator in een curatele met problematische schulden € 3.361;
 
-- c. voor een curator van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 2.892;
+- c. voor een curator van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 3.361;
 
-- d. voor een curator in een curatele met problematische schulden, van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 3.265.
+- d. voor een curator in een curatele met problematische schulden, van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 3.794.
 
 3. Indien het vermogen van de onder curatele gestelde meer bedraagt dan € 1.000.000, stelt de kantonrechter de jaarbeloning vast op 0,75% van dat vermogen.
 
@@ -84,13 +84,13 @@ Besluit:
 
 5. Naast de jaarbeloning kent de kantonrechter in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 1.187, of € 1.039 indien de curator voorafgaand aan de curatele budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 1.380, of € 1.207 indien de curator voorafgaand aan de curatele budgetbeheer heeft gevoerd;
 
-- b. voor een verhuizing, de verkoop of ontruiming van een woning € 412;
+- b. voor een verhuizing, de verkoop of ontruiming van een woning € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van een eindrekening en -verantwoording € 248.
+- d. voor het opmaken van een eindrekening en -verantwoording € 288.
 
 6. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator op andere wijze vaststellen.
 
@@ -100,9 +100,9 @@ Besluit:
 
 2. De jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, bedraagt:
 
-- a. voor een bewindvoerder € 1.403;
+- a. voor een bewindvoerder € 1.630;
 
-- b. voor een bewindvoerder in een bewind met problematische schulden € 1.814.
+- b. voor een bewindvoerder in een bewind met problematische schulden € 2.107.
 
 3. Indien het onder bewind staande vermogen meer bedraagt dan € 1.000.000, stelt de kantonrechter de jaarbeloning vast op 0,75% van dat vermogen.
 
@@ -110,13 +110,13 @@ Besluit:
 
 5. Naast de jaarbeloning kent de kantonrechter in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 660, of € 494 indien de bewindvoerder voorafgaand aan het bewind budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 767, of € 574 indien de bewindvoerder voorafgaand aan het bewind budgetbeheer heeft gevoerd;
 
-- b. voor de verkoop of ontruiming van een woning, of in geval er geen mentor is, een verhuizing € 412;
+- b. voor de verkoop of ontruiming van een woning, of in geval er geen mentor is, een verhuizing € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van een eindrekening en -verantwoording € 248.
+- d. voor het opmaken van een eindrekening en -verantwoording € 288.
 
 6. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de bewindvoerder op andere wijze vaststellen.
 
@@ -126,59 +126,59 @@ Besluit:
 
 2. De jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, bedraagt:
 
-- a. voor een mentor € 1.403;
+- a. voor een mentor € 1.630;
 
-- b. voor een mentor van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 1.814.
+- b. voor een mentor van een persoon in de leeftijd van 18 tot en met 23 jaar die jeugdhulp heeft gehad in verband met een psychisch of psychosociaal probleem, psychische stoornis, gedragsproblemen of verstandelijke beperking € 2.107.
 
 3. De jaarbeloning is verschuldigd vanaf de eerste dan wel de zestiende dag van de maand waarin de mentor is benoemd en wordt in maandelijkse termijnen betaald, tenzij de kantonrechter anders bepaalt.
 
 4. Naast de jaarbeloning kent de kantonrechter in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 660;
+- a. voor aanvangswerkzaamheden € 767;
 
-- b. voor een verhuizing € 412;
+- b. voor een verhuizing € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618.
+- c. voor het beheren van een persoonsgebonden budget € 718.
 
 5. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de mentor op andere wijze vaststellen.
 
 ##### Artikel 5
 
-Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt benoemd, stelt de kantonrechter diens beloning vast overeenkomstig de beloning van een curator als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=1&z=2025-01-01&g=2025-01-01) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01).
+Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt benoemd, stelt de kantonrechter diens beloning vast overeenkomstig de beloning van een curator als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=1&z=2026-01-01&g=2026-01-01) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 6
 
 1. Indien de curator, bedoeld in [artikel 383, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het twaalfde lid.
 
-2. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.644.
+2. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.235.
 
-3. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.851.
+3. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.475.
 
-4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel c, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.974.
+4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel c, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.618.
 
-5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.180.
+5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.857.
 
-6. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.057.
+6. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.714.
 
-7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel c, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.180.
+7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel c, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.857.
 
-8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.385.
+8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.095.
 
-9. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.305.
+9. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.003.
 
-10. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.510.
+10. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een curatele als bedoeld in artikel 2, tweede lid, onderdeel d, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.241.
 
-11. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.717.
+11. Indien het twee curatelen als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.481.
 
 12. Naast de jaarbeloning kent de kantonrechter in een geval als bedoeld in het eerste lid in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 1.715, of € 1.549 indien de curator voorafgaand aan de curatelen budgetbeheer heeft gevoerd, of € 1.632 indien de curator voorafgaand aan één van beide curatelen budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 1.993, of € 1.800 indien de curator voorafgaand aan de curatelen budgetbeheer heeft gevoerd, of € 1.896 indien de curator voorafgaand aan één van beide curatelen budgetbeheer heeft gevoerd;
 
-- b. voor een verhuizing, de verkoop of ontruiming van een woning € 412;
+- b. voor een verhuizing, de verkoop of ontruiming van een woning € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van eindrekeningen en -verantwoordingen € 298.
+- d. voor het opmaken van eindrekeningen en -verantwoordingen € 346.
 
 13. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator, bedoeld in het eerste lid, op andere wijze vaststellen.
 
@@ -186,21 +186,21 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 1. Indien de bewindvoerder, bedoeld in [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
-2. Indien het twee bewinden als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 1.681.
+2. Indien het twee bewinden als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 1.954.
 
-3. Indien het een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in artikel 3, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 1.930.
+3. Indien het een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in artikel 3, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.243.
 
-4. Indien het twee bewinden als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.176.
+4. Indien het twee bewinden als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.528.
 
 5. Naast de jaarbeloning kent de kantonrechter in een geval als bedoeld in het eerste lid in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 792, of € 592 indien de bewindvoerder voorafgaand aan de bewinden budgetbeheer heeft gevoerd, of € 694 indien de bewindvoerder voorafgaand aan één van beide bewinden budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 920, of € 688 indien de bewindvoerder voorafgaand aan de bewinden budgetbeheer heeft gevoerd, of € 807 indien de bewindvoerder voorafgaand aan één van beide bewinden budgetbeheer heeft gevoerd;
 
-- b. voor de verkoop of ontruiming van een woning, of in geval er geen mentor is, een verhuizing € 412;
+- b. voor de verkoop of ontruiming van een woning, of in geval er geen mentor is, een verhuizing € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van eindrekeningen en -verantwoordingen € 298.
+- d. voor het opmaken van eindrekeningen en -verantwoordingen € 346.
 
 6. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de bewindvoerder, bedoeld in het eerste lid, op andere wijze vaststellen.
 
@@ -208,19 +208,19 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 1. Indien de mentor, bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
-2. Indien het twee mentorschappen als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.524.
+2. Indien het twee mentorschappen als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.933.
 
-3. Indien het een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in artikel 4, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.892.
+3. Indien het een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in artikel 4, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.361.
 
-4. Indien het twee mentorschappen als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.265.
+4. Indien het twee mentorschappen als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.794.
 
 5. Naast de jaarbeloning kent de kantonrechter in een geval als bedoeld in het eerste lid in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 1.187;
+- a. voor aanvangswerkzaamheden € 1.380;
 
-- b. voor een verhuizing € 412;
+- b. voor een verhuizing € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
 6. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de mentor, bedoeld in het eerste lid, op andere wijze vaststellen.
 
@@ -228,31 +228,31 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 1. Indien een persoon wordt benoemd tot curator respectievelijk bewindvoerder van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het tiende lid.
 
-2. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 2.803.
+2. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.257.
 
-3. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.051.
+3. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.545.
 
-4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.009.
+4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.497.
 
-5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.256.
+5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.784.
 
-6. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.174.
+6. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.688.
 
-7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.422.
+7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.976.
 
-8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.381.
+8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.929.
 
-9. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.628.
+9. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een bewind als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.216.
 
 10. Naast de jaarbeloning kent de kantonrechter in een geval als bedoeld in het eerste lid in voorkomende gevallen de volgende beloningen toe:
 
-- a. voor aanvangswerkzaamheden € 1.319, of € 1.137 indien de vertegenwoordiger voorafgaand aan de bewinden budgetbeheer heeft gevoerd, of € 1.238 indien de vertegenwoordiger voorafgaand aan de curatele budgetbeheer heeft gevoerd, of € 1.220 indien de vertegenwoordiger voorafgaand aan het bewind budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 1.532, of € 1.321 indien de vertegenwoordiger voorafgaand aan de bewinden budgetbeheer heeft gevoerd, of € 1.439 indien de vertegenwoordiger voorafgaand aan de curatele budgetbeheer heeft gevoerd, of € 1.418 indien de vertegenwoordiger voorafgaand aan het bewind budgetbeheer heeft gevoerd;
 
-- b. voor een verhuizing, de verkoop of ontruiming van een woning € 412;
+- b. voor een verhuizing, de verkoop of ontruiming van een woning € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van eindrekeningen en -verantwoordingen € 298.
+- d. voor het opmaken van eindrekeningen en -verantwoordingen € 346.
 
 11. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de vertegenwoordiger, bedoeld in het eerste lid, op andere wijze vaststellen.
 
@@ -260,45 +260,45 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 1. Indien een persoon wordt benoemd tot curator respectievelijk mentor van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het tiende lid.
 
-2. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.644.
+2. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.235.
 
-3. Indien het een curatele als bedoeld in artikel 2, tweede lid, onderdeel a, en een mentorschap als bedoeld in artikel 4, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.014.
+3. Indien het een curatele als bedoeld in artikel 2, tweede lid, onderdeel a, en een mentorschap als bedoeld in artikel 4, tweede lid, onderdeel b, betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.664.
 
-4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.014.
+4. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.664.
 
-5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.385.
+5. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.095.
 
-6. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 3.974.
+6. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.618.
 
-7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.344.
+7. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.048.
 
-8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.344.
+8. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.048.
 
-9. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2025-01-01&g=2025-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 4.717.
+9. Indien het een curatele als bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01), en een mentorschap als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), betreft, bedraagt de jaarbeloning, inclusief onkostenvergoeding en exclusief omzetbelasting voor zover van toepassing, € 5.481.
 
 10. Naast de jaarbeloning kan de kantonrechter in een geval als bedoeld in het eerste lid in voorkomende gevallen de volgende beloningen toekennen:
 
-- a. voor aanvangswerkzaamheden € 1.715, of € 1.567 indien de vertegenwoordiger voorafgaand aan de curatele budgetbeheer heeft gevoerd;
+- a. voor aanvangswerkzaamheden € 1.933, of € 1.821 indien de vertegenwoordiger voorafgaand aan de curatele budgetbeheer heeft gevoerd;
 
-- b. voor een verhuizing, de verkoop of ontruiming van een woning € 412;
+- b. voor een verhuizing, de verkoop of ontruiming van een woning € 478;
 
-- c. voor het beheren van een persoonsgebonden budget € 618;
+- c. voor het beheren van een persoonsgebonden budget € 718;
 
-- d. voor het opmaken van een eindrekening en -verantwoording € 248.
+- d. voor het opmaken van een eindrekening en -verantwoording € 288.
 
 11. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de vertegenwoordiger, bedoeld in het eerste lid, op andere wijze vaststellen.
 
 ##### Artikel 11
 
-De kantonrechter stelt de jaarbeloning voor 2015 van een bewindvoerder die in 2014 een beloning heeft ontvangen op basis van het tarief behandeling schulden door beschermingsbewindvoerder uit de Aanbevelingen meerderjarigenbewind vast overeenkomstig [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2025-01-01&g=2025-01-01).
+De kantonrechter stelt de jaarbeloning voor 2015 van een bewindvoerder die in 2014 een beloning heeft ontvangen op basis van het tarief behandeling schulden door beschermingsbewindvoerder uit de Aanbevelingen meerderjarigenbewind vast overeenkomstig [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 12
 
-De kantonrechter kan de beloning van de mentor die voor 1 januari 2015 werd begeleid door een mentor als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2025-01-01&g=2025-01-01), en die deze mentor heeft gemachtigd om de verschuldigde beloning te vorderen, op diens verzoek vaststellen overeenkomstig artikel 4.
+De kantonrechter kan de beloning van de mentor die voor 1 januari 2015 werd begeleid door een mentor als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), en die deze mentor heeft gemachtigd om de verschuldigde beloning te vorderen, op diens verzoek vaststellen overeenkomstig artikel 4.
 
 ##### Artikel 13
 
-1. Met ingang van 1 januari 2017 worden de beloningen jaarlijks gewijzigd met ingang van 1 januari overeenkomstig [artikel 2, vijfde lid, van het Besluit vergoeding bewindvoerders schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2).
+1. Met ingang van 1 januari 2027 worden de beloningen jaarlijks gewijzigd met ingang van 1 januari overeenkomstig [artikel 2, vijfde lid, van het Besluit vergoeding bewindvoerders schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2).
 
 2. De beloningen worden afgerond op hele cijfers.
 
