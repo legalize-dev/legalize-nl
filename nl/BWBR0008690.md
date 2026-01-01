@@ -4,7 +4,7 @@ identifier: "BWBR0008690"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008690"
 soort: "AMvB"
@@ -368,7 +368,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 35
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34&z=2022-01-01&g=2022-01-01), de duur van twee weken te boven gaat, wordt door het hoofd van de inrichting een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34&z=2026-01-01&g=2026-01-01), de duur van twee weken te boven gaat, wordt door het hoofd van de inrichting een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige behandeling langer wordt voortgezet, om de twee weken, advies uit aan het hoofd van de inrichting over de voortzetting van die behandeling.
 
@@ -386,11 +386,11 @@ Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of 
 
 ##### Artikel 38
 
-De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een rijksinrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=11&artikel=36&z=2022-01-01&g=2022-01-01). De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een justitiële particuliere inrichting geschiedt door of vanwege het bestuur van de inrichting gehoord de betrokken hoofdgeestelijke, genoemd in artikel 36, eerste lid.
+De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een rijksinrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=11&artikel=36&z=2026-01-01&g=2026-01-01). De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een justitiële particuliere inrichting geschiedt door of vanwege het bestuur van de inrichting gehoord de betrokken hoofdgeestelijke, genoemd in artikel 36, eerste lid.
 
 ##### Artikel 39
 
-Een andere geestelijk verzorger dan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=11&artikel=37&z=2022-01-01&g=2022-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
+Een andere geestelijk verzorger dan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=11&artikel=37&z=2026-01-01&g=2026-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### HOOFDSTUK 12. EIGEN GELD EN ARBEIDSLOON
 
@@ -460,29 +460,29 @@ Geschillen tussen de verpleegdenraad en het hoofd van de inrichting kunnen door 
 
 ##### Artikel 47
 
-Indien de verlenging van de terbeschikkingstelling er toe zou kunnen leiden dat de totale duur van de terbeschikkingstelling een periode van vier jaar of een veelvoud van vier jaar te boven gaat, zendt het hoofd van de inrichting voor verpleging van ter beschikking gestelden zes maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken, een voorlopig advies betreffende de wenselijkheid van de verlenging van de terbeschikkingstelling aan Onze Minister. [Artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01), is van toepassing.
+Indien de verlenging van de terbeschikkingstelling er toe zou kunnen leiden dat de totale duur van de terbeschikkingstelling een periode van vier jaar of een veelvoud van vier jaar te boven gaat, zendt het hoofd van de inrichting voor verpleging van ter beschikking gestelden zes maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken, een voorlopig advies betreffende de wenselijkheid van de verlenging van de terbeschikkingstelling aan Onze Minister. [Artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 ##### Artikel 48
 
-1. Indien de verpleging voorwaardelijk is beëindigd of aan de terbeschikkingstelling voorwaarden zijn verbonden, zendt de reclassering die de ter beschikking gestelde hulp en steun verleent, indien verlenging van de terbeschikkingstelling wettelijk mogelijk is, drie maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken, advies inzake de wenselijkheid van die verlenging aan Onze Minister. Dit advies gaat vergezeld van een met redenen omkleed, gedagtekend en ondertekend advies van een psychiater die zelf de ter beschikking gestelde heeft onderzocht.
+1. Indien de verpleging voorwaardelijk is beëindigd of aan de terbeschikkingstelling voorwaarden zijn verbonden, zendt de reclassering die de ter beschikking gestelde hulp en steun verleent, indien verlenging van de terbeschikkingstelling wettelijk mogelijk is, drie maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken, advies inzake de wenselijkheid van die verlenging aan Onze Minister. Dit advies gaat vergezeld van een met redenen omkleed, gedagtekend en ondertekend advies van een psychiater of een psycholoog die zelf de ter beschikking gestelde heeft onderzocht.
 
-2. De in het eerste lid bedoelde stukken worden twee maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken door tussenkomst van Onze Minister toegezonden aan het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01).
+2. De in het eerste lid bedoelde stukken worden twee maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling zal zijn verstreken door tussenkomst van Onze Minister toegezonden aan het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 49
 
-1. Indien het openbaar ministerie naar aanleiding van het voorlopig advies, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=47&z=2022-01-01&g=2022-01-01), voornemens is een vordering tot verlenging van de terbeschikkingstelling in te dienen waardoor de totale duur van de terbeschikkingstelling een periode van vier jaar of een veelvoud van vier jaar te boven gaat, doet het daarvan zo spoedig mogelijk mededeling aan Onze Minister.
+1. Indien het openbaar ministerie naar aanleiding van het voorlopig advies, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=47&z=2026-01-01&g=2026-01-01), voornemens is een vordering tot verlenging van de terbeschikkingstelling in te dienen waardoor de totale duur van de terbeschikkingstelling een periode van vier jaar of een veelvoud van vier jaar te boven gaat, doet het daarvan zo spoedig mogelijk mededeling aan Onze Minister.
 
-2. Na ontvangst van de mededeling, bedoeld in het eerste lid, draagt Onze Minister zorg voor het tijdig totstandkomen van een advies of rapport van deskundigen als bedoeld in [artikel 509**o**, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509o) en voor tijdige toezending daarvan aan het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01).
+2. Na ontvangst van de mededeling, bedoeld in het eerste lid, draagt Onze Minister zorg voor het tijdig totstandkomen van een advies of rapport van deskundigen als bedoeld in [artikel 509**o**, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509o) en voor tijdige toezending daarvan aan het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01).
 
 3. Onze Minister kan nadere regels stellen omtrent het onderzoek dat ten grondslag ligt aan het advies of rapport, bedoeld in [artikel 509**o**, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509o).
 
 ##### Artikel 50
 
-Indien het openbaar ministerie daarom verzoekt, wordt terstond een nieuw advies als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01), of [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=48&z=2022-01-01&g=2022-01-01), aan Onze Minister gezonden. [Artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01), is van toepassing.
+Indien het openbaar ministerie daarom verzoekt, wordt terstond een nieuw advies als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01), of [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=48&z=2026-01-01&g=2026-01-01), aan Onze Minister gezonden. [Artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 ##### Artikel 51
 
-1. Het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2022-01-01&g=2022-01-01), doet Onze Minister zo spoedig mogelijk mededeling:
+1. Het openbaar ministerie, bedoeld in [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=46&z=2026-01-01&g=2026-01-01), doet Onze Minister zo spoedig mogelijk mededeling:
 
 - a. van zijn beslissing geen vordering tot verlenging van de terbeschikkingstelling in te dienen;
 
@@ -568,7 +568,7 @@ De ter beschikking gestelde of anderzins verpleegde ontvangt zo nodig vergoeding
 
 2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden stelt de ter beschikking gestelde zo spoedig mogelijk schriftelijk in kennis van de beslissing tot intrekking van het proefverlof.
 
-3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft van de beslissing tot intrekking van het proefverlof schriftelijk bericht aan de instanties genoemd in [artikel 54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=16&artikel=54&z=2022-01-01&g=2022-01-01).
+3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft van de beslissing tot intrekking van het proefverlof schriftelijk bericht aan de instanties genoemd in [artikel 54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=16&artikel=54&z=2026-01-01&g=2026-01-01).
 
 4. De machtiging van Onze Minister vervalt:
 
@@ -586,7 +586,7 @@ Bijzondere voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](https://
 
 ##### Artikel 59
 
-1. De reclassering, bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=16&artikel=58&z=2022-01-01&g=2022-01-01), stelt zich zo spoedig mogelijk nadat zij is belast met het verlenen van hulp en steun in verbinding met met“met met” moet zijn “met.” het hoofd van de inrichting voor verpleging van ter beschikking gestelden dat aan de ter beschikking gestelde proefverlof heeft verleend.
+1. De reclassering, bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=16&artikel=58&z=2026-01-01&g=2026-01-01), stelt zich zo spoedig mogelijk nadat zij is belast met het verlenen van hulp en steun in verbinding met met“met met” moet zijn “met.” het hoofd van de inrichting voor verpleging van ter beschikking gestelden dat aan de ter beschikking gestelde proefverlof heeft verleend.
 
 2. De reclassering draagt er zorg voor dat het hoofd van de inrichting voor verpleging van ter beschikking gestelden in kennis wordt gesteld van alle bijzondere voorvallen welke de ter beschikking gestelde betreffen.
 
@@ -596,11 +596,11 @@ Bijzondere voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](https://
 
 2. Indien de ter beschikking gestelde de veiligheid van anderen of de algemene veiligheid van personen of goederen in gevaar brengt of dreigt te brengen dan wel de bij het proefverlof opgelegde verplichtingen niet nakomt, wordt daarover tussentijds gerapporteerd.
 
-3. In de loop van de eerste helft van de derde maand voor het tijdstip waarop de termijn van de terbeschikkingstelling met verpleging van overheidswege zal zijn verstreken, zendt de reclassering aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden haar beschouwingen inzake de wenselijkheid van verlenging van de terbeschikkingstelling. Deze beschouwingen gaan zo mogelijk vergezeld van het advies van de aan de reclassering verbonden psychiater die bemoeienis heeft gehad met de ter beschikking gestelde.
+3. In de loop van de eerste helft van de derde maand voor het tijdstip waarop de termijn van de terbeschikkingstelling met verpleging van overheidswege zal zijn verstreken, zendt de reclassering aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden haar beschouwingen inzake de wenselijkheid van verlenging van de terbeschikkingstelling.
 
 ##### Artikel 61
 
-1. De reclassering kan uit eigen beweging aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden een voorstel doen tot wijziging of opheffing van de voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=51&z=2022-01-01&g=2022-01-01).
+1. De reclassering kan uit eigen beweging aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden een voorstel doen tot wijziging of opheffing van de voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14&artikel=51&z=2026-01-01&g=2026-01-01).
 
 2. De reclassering kan uit eigen beweging door tussenkomst van het hoofd van de inrichting voor verpleging van ter beschikking gestelden en Onze Minister aan het openbaar ministerie een voorstel doen tot het vorderen van voorwaardelijke beëindiging van de verpleging van overheidswege.
 
@@ -624,7 +624,7 @@ Het algemeen toezicht op ter beschikking gestelden die niet van overheidswege wo
 
 ##### Artikel 65
 
-1. Onze Minister ontvangt ten behoeve van het toezicht, bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=63&z=2022-01-01&g=2022-01-01), zo spoedig mogelijk mededeling van elke op een niet van overheidswege verpleegde ter beschikking gestelde betrekking hebbende:
+1. Onze Minister ontvangt ten behoeve van het toezicht, bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=63&z=2026-01-01&g=2026-01-01), zo spoedig mogelijk mededeling van elke op een niet van overheidswege verpleegde ter beschikking gestelde betrekking hebbende:
 
 - a. onherroepelijk geworden uitspraak waarbij terbeschikkingstelling met voorwaarden is gelast, als bedoeld in [artikel 38, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38);
 
@@ -650,11 +650,11 @@ Het algemeen toezicht op ter beschikking gestelden die niet van overheidswege wo
 
 ##### Artikel 68
 
-De reclassering, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=62&z=2022-01-01&g=2022-01-01), stelt zich zo spoedig mogelijk nadat zij is belast met het verlenen van hulp en steun in verbinding met het openbaar ministerie dat op grond van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=67&z=2022-01-01&g=2022-01-01), het toezicht op de ter beschikking gestelde uitoefent. Zij draagt er zorg voor dat deze instantie in kennis wordt gesteld van misdrijven en andere bijzondere voorvallen welke de ter beschikking gestelde betreffen.
+De reclassering, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=62&z=2026-01-01&g=2026-01-01), stelt zich zo spoedig mogelijk nadat zij is belast met het verlenen van hulp en steun in verbinding met het openbaar ministerie dat op grond van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=67&z=2026-01-01&g=2026-01-01), het toezicht op de ter beschikking gestelde uitoefent. Zij draagt er zorg voor dat deze instantie in kennis wordt gesteld van misdrijven en andere bijzondere voorvallen welke de ter beschikking gestelde betreffen.
 
 ##### Artikel 69
 
-Met betrekking tot de voorwaarden, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), en [38**g**, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38g), rapporteert de reclassering ten minste eenmaal per drie maanden aan Onze Minister en aan het openbaar ministerie dat op grond van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=67&z=2022-01-01&g=2022-01-01), het toezicht op de ter beschikking gestelde uitoefent.
+Met betrekking tot de voorwaarden, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), en [38**g**, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38g), rapporteert de reclassering ten minste eenmaal per drie maanden aan Onze Minister en aan het openbaar ministerie dat op grond van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17&artikel=67&z=2026-01-01&g=2026-01-01), het toezicht op de ter beschikking gestelde uitoefent.
 
 ##### Artikel 70
 
@@ -754,7 +754,7 @@ Het Reglement tenuitvoerlegging terbeschikkingstelling van 6 juni 1988 (**Stb.**
 
 ##### Artikel 89
 
-Indien een inrichting voor verpleging van ter beschikking gestelden op het moment van inwerkingtreding van dit besluit is aangewezen op grond van artikel 26, eerste lid, Reglement tenuitvoerlegging terbeschikkingstelling, geldt deze aanwijzing als aanwijzing op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01) van het onderhavige besluit.
+Indien een inrichting voor verpleging van ter beschikking gestelden op het moment van inwerkingtreding van dit besluit is aangewezen op grond van artikel 26, eerste lid, Reglement tenuitvoerlegging terbeschikkingstelling, geldt deze aanwijzing als aanwijzing op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) van het onderhavige besluit.
 
 ##### Artikel 90
 
@@ -844,7 +844,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 33a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=33a&z=2022-01-01&g=2022-01-01), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 33a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=33a&z=2026-01-01&g=2026-01-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 34c
 
@@ -878,7 +878,7 @@ De verpleegde wordt gedurende de periode dat de a- of b-dwangbehandeling of de g
 
 ##### Artikel 34e
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voorzetting van a-dwangbehandeling wordt opgenomen in het register als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01) en in het verpleegdedossier. Hij draagt tevens zorg dat de resultaten van het overleg, bedoeld in [artikel 33a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=33a&z=2022-01-01&g=2022-01-01), [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34&z=2022-01-01&g=2022-01-01), en [artikel 34b](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34b&z=2022-01-01&g=2022-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden opgenomen in het verplegings- en behandelingsplan.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voorzetting van a-dwangbehandeling wordt opgenomen in het register als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=4&artikel=6&z=2026-01-01&g=2026-01-01) en in het verpleegdedossier. Hij draagt tevens zorg dat de resultaten van het overleg, bedoeld in [artikel 33a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=33a&z=2026-01-01&g=2026-01-01), [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34&z=2026-01-01&g=2026-01-01), en [artikel 34b](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=10&artikel=34b&z=2026-01-01&g=2026-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden opgenomen in het verplegings- en behandelingsplan.
 
 ##### Artikel 34f
 
@@ -940,9 +940,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De leden van de commissie van toezicht voor het vervoer, genoemd in artikel 15b, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden, worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
 
-2. De [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=7&z=2022-01-01&g=2022-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=8&z=2022-01-01&g=2022-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=11&z=2022-01-01&g=2022-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=13&z=2022-01-01&g=2022-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=15&z=2022-01-01&g=2022-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=16&z=2022-01-01&g=2022-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=17&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=8&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=11&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=13&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=16&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=17&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-3. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=10&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+3. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=5&artikel=10&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
 
 ##### Artikel 17b
 
