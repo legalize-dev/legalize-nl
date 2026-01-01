@@ -4,7 +4,7 @@ identifier: "BWBR0049799"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-06-13"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049799"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Deze regeling is van toepassing op modelluchtvaartuigclubs of -verenigingen.
 
 1. Een aanvraag tot verlening of wijziging van een vergunning wordt ingediend op een door de minister aangegeven wijze.
 
-2. Een vergunning wordt alleen afgegeven indien de modelluchtvaartuigclub of -vereniging verklaart te voldoen en te blijven voldoen aan de eisen en voorwaarden zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=I&z=2024-06-13&g=2024-06-13) bij deze regeling.
+2. Een vergunning wordt alleen afgegeven indien de modelluchtvaartuigclub of -vereniging verklaart te voldoen en te blijven voldoen aan de eisen en voorwaarden zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=I&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 3. De vergunning wordt afgegeven voor onbepaalde tijd.
 
@@ -88,13 +88,13 @@ In de vergunning worden tenminste bepalingen opgenomen met betrekking tot:
 
 ##### Artikel 5. Handhaving
 
-Indien een modelluchtvaartuigclub of -vereniging niet langer voldoet aan de eisen die worden gesteld aan de afgifte van een vergunning of in strijd handelt met de bepalingen zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=4&z=2024-06-13&g=2024-06-13), kan de vergunning worden gewijzigd, beperkt, geschorst of ingetrokken.
+Indien een modelluchtvaartuigclub of -vereniging niet langer voldoet aan de eisen die worden gesteld aan de afgifte van een vergunning of in strijd handelt met de bepalingen zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), kan de vergunning worden gewijzigd, beperkt, geschorst of ingetrokken.
 
 ### Hoofdstuk 3. Deelname aan het luchtverkeer
 
 ##### Artikel 6. Toepassingsbereik
 
-Dit hoofdstuk is enkel van toepassing op modelluchtvaartuigclubs of -verenigingen aan wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=3&z=2024-06-13&g=2024-06-13) een vergunning is verleend.
+Dit hoofdstuk is enkel van toepassing op modelluchtvaartuigclubs of -verenigingen aan wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) een vergunning is verleend.
 
 ##### Artikel 7. Luchtruimklasse en maximale vlieghoogte
 
@@ -144,7 +144,7 @@ Modelluchtvaartuigen verlenen voorrang aan andere luchtruimgebruikers. In geval 
 
 ##### Artikel 11. Objecten of gebieden die onderdeel uitmaken van vitale processen
 
-Het is verboden met een modelluchtvaartuig een vlucht uit te voeren binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2024-06-13&g=2024-06-13) bij deze regeling, tenzij er overeenstemming is met de beheerder van het object of gebied en afspraken daarover schriftelijk zijn vastgelegd.
+Het is verboden met een modelluchtvaartuig een vlucht uit te voeren binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling, tenzij er overeenstemming is met de beheerder van het object of gebied en afspraken daarover schriftelijk zijn vastgelegd.
 
 ### Hoofdstuk 4. Wijziging andere regelgeving
 
@@ -198,7 +198,7 @@ De modelluchtvaartuigclub of -vereniging verklaart:
 
 - –. Met betrekking tot de omgeving van de club of -vereniging:
 
-- ○. ... indien van toepassing, voor het vliegen binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2024-06-13&g=2024-06-13) bij deze regeling, afspraken te hebben gemaakt, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2024-06-13&g=2024-06-13), met de beheerder van het object of gebied om de veiligheid van de vitale processen te waarborgen;
+- ○. ... indien van toepassing, voor het vliegen binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling, afspraken te hebben gemaakt, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), met de beheerder van het object of gebied om de veiligheid van de vitale processen te waarborgen;
 
 - ○. indien van toepassing, voor vluchten binnen 150 meter van woon-, handels-, industrie- of recreatiezones regels te hebben vastgesteld, zodanig dat de uitvoering van deze vluchten geen gevaar vormt voor de veiligheid van derde partijen in de betreffende zones;
 
@@ -206,19 +206,19 @@ De modelluchtvaartuigclub of -vereniging verklaart:
 
 - ○. indien van toepassing, voor vluchten binnen 150 meter van spoorlijnen regels te hebben vastgesteld, zodanig dat de uitvoering van deze vluchten geen gevaar vormt voor de veiligheid op het spoor.
 
-- ○. indien van toepassing, voor gebieden waarin laag mag worden gevlogen door civiele luchtvaartuigen regels en procedures opgesteld als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2024-06-13&g=2024-06-13), zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de civiele luchtvaartuigen;
+- ○. indien van toepassing, voor gebieden waarin laag mag worden gevlogen door civiele luchtvaartuigen regels en procedures opgesteld als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de civiele luchtvaartuigen;
 
-- ○. indien van toepassing, regels en procedures te hebben opgesteld als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2024-06-13&g=2024-06-13), en deze te hebben afgestemd met het Ministerie van Defensie voor gebieden waarin laag mag worden gevlogen door militaire luchtvaartuigen, zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de militaire luchtvaartuigen;
+- ○. indien van toepassing, regels en procedures te hebben opgesteld als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en deze te hebben afgestemd met het Ministerie van Defensie voor gebieden waarin laag mag worden gevlogen door militaire luchtvaartuigen, zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de militaire luchtvaartuigen;
 
-- ○. indien van toepassing, afspraken te hebben vastgelegd met de exploitant van de nabij gelegen ongecontroleerde luchthaven, als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2024-06-13&g=2024-06-13), en haar leden te informeren over deze afspraken, en;
+- ○. indien van toepassing, afspraken te hebben vastgelegd met de exploitant van de nabij gelegen ongecontroleerde luchthaven, als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en haar leden te informeren over deze afspraken, en;
 
-- ○. indien van toepassing, voor het uitvoeren van vluchten in klasse C en D luchtruim een convenant te hebben gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt als bedoelt in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2024-06-13&g=2024-06-13), en haar leden te informeren over de inhoud van het convenant.
+- ○. indien van toepassing, voor het uitvoeren van vluchten in klasse C en D luchtruim een convenant te hebben gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt als bedoelt in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en haar leden te informeren over de inhoud van het convenant.
 
 ## Bijlage II
 
-Als objecten of gebieden die onderdeel uitmaken van vitale processen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2024-06-13&g=2024-06-13), worden aangewezen:
+Als objecten of gebieden die onderdeel uitmaken van vitale processen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), worden aangewezen:
 
-- •. Het hoogspanningsnetwerk voor landelijk en regionaal transport en distributie van elektriciteit;
+- •. Het transmissiesysteem voor elektriciteit, bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
 - •. Productielocaties voor de drinkwatervoorziening;
 
