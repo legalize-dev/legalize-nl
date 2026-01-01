@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -54,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Sectorale bezoldigingsnorm
 
-1. Voor het kalenderjaar 2025 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
+1. Voor het kalenderjaar 2026 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
 
-- a. € 342.000, indien zij op 1 januari 2024 meer dan 1.000.000 verzekerden hadden;
+- a. € 366.000, indien zij op 1 januari 2025 meer dan 1.000.000 verzekerden hadden;
 
-- b. € 296.000, indien zij op 1 januari 2024 minimaal 300.000 en maximaal 1.000.000 verzekerden hadden;
+- b. € 317.000, indien zij op 1 januari 2025 minimaal 300.000 en maximaal 1.000.000 verzekerden hadden;
 
-- c. € 251.000, indien zij op 1 januari 2024 minder dan 300.000 verzekerden hadden.
+- c. € 269.000, indien zij op 1 januari 2025 minder dan 300.000 verzekerden hadden.
 
 2. Indien een zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarbinnen zich ook andere zorgverzekeraars bevinden, mogen voor de toepassing van het eerste lid de verzekerden van alle zorgverzekeraars binnen die groep worden meegeteld.
 
