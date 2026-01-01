@@ -4,7 +4,7 @@ identifier: "BWBR0048323"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048323"
 soort: "ministeriele-regeling"
@@ -66,33 +66,21 @@ De zorgautoriteit stelt met ingang van 1 januari 2024 ter uitvoering van deze aa
 
 ##### Artikel 3. Tariefkorting meerjarige contracten met financiële afspraken en meerjarige contracteerruimte
 
-1. Voor alle prestatiebeschrijvingen binnen de Wlz contracteerruimte 2022 geldt per 1 januari 2024 een taakstelling zoals beschreven in tabel 1 (zie hierna) op grond van de maatregel ‘meerjarige contracten met financiële afspraken tussen zorgkantoren en zorgaanbieders gecombineerd met een meerjarige contracteerruimte’.
+1. Voor de volgende zzp en vpt-prestatiebeschrijvingen binnen de Wlz contracteerruimte 2024 geldt per 1 januari 2026 een structurele taakstelling van € 52 miljoen voor de gehandicaptenzorg en € 13 miljoen (prijspeil 2025) voor de langdurige geestelijke gezondheidzorg:
 
-2. De zorgautoriteit voert deze jaarlijkse taakstellingen uit door middel van een generieke afslag op de bovengrens van de bandbreedte- en maximumtarieven van deze prestatiebeschrijvingen.
+gehandicaptenzorg: alle zzp- en vpt-prestaties inclusief en exclusief behandeling, inclusief en exclusief dagbesteding voor vg 1 t/m 8 (inclusief vg7+), lvg 1 t/m 5, sglvg 1, lg 1 t/m 7, zg-aud 1 t/m 4, zg-vis 1 t/m 5, de prestaties voor deeltijdverblijf en overbruggingszorg inbegrepen.
 
-3. De zorgautoriteit verwerkt de jaarlijkse taakstelling uit tabel 1 generiek over de loon- en materiële kostencomponenten van de tarieven.
+langdurige geestelijke gezondheidszorg: alle zzp- en vpt-prestaties voor ggz-wonen (1 t/m 5), de prestaties voor deeltijdverblijf inbegrepen en alle zzp-prestaties voor ggz-b (1 t/m 7).
 
-4. De generieke korting, naar rato te verdelen over de loon- en materiële kostencomponenten per prestatiebeschrijving, berekent de zorgautoriteit over de volgende grondslag: alle vastgestelde prestatiebeschrijvingen die vallen onder de contracteerruimte 2022 (het meest recente realisatiejaar) vermenigvuldigd met de integrale maximum- en bandbreedtetarieven geschoond voor de NHC/NIC1Onder de te schonen component NHC/NIC wordt tevens begrepen de component ‘Kapitaallasten dagbesteding kind ghz- dagbehandeling VG emg – toeslag gespecialiseerde behandelzorg’. en voor de componenten voor niet-beïnvloedbare factoren die onderdeel zijn van de bandbreedtetarieven voor de betreffende prestatiebeschrijvingen in 2022. De zorgautoriteit berekent via deze methodiek de taakstellende korting per prestatiebeschrijving voor de jaren 2024, 2025 respectievelijk 2026 en latere jaren.
+2. De zorgautoriteit voert deze jaarlijkse sectorspecifieke taakstellingen uit door middel van (per sector verschillende) uniforme procentuele korting op de maximumtarieven van deze prestatiebeschrijvingen.
 
-| Bedragen in miljoenen euro, prijspeil 2021 | 2024 | 2025 | 2026 | 2027 | structureel |
-| --- | --- | --- | --- | --- | --- |
-| Meerjarige contracten met financiële afspraken en meerjarige contracteerruimte | -125 | -245 | -135 | -135 | -135 |
+3. De zorgautoriteit berekent de korting sectorspecifiek, over de volgende grondslag: alle voor de betreffende sector in het eerste lid vermelde vastgestelde prestatiebeschrijvingen voor zzp en vpt binnen de Wlz contracteerruimte 2024 vermenigvuldigd met loon- en materiële kostencomponenten van die prestatiebeschrijvingen in 2024.
+
+4. De zorgautoriteit verwerkt de jaarlijkse taakstellingen generiek, en verdeelt deze naar rato over de loon- en materiële kostencomponenten van de tarieven.
 
 ##### Artikel 4. Tariefkorting doorontwikkeling Kwaliteitskader Verpleeghuiszorg
 
-1. Voor alle prestatiebeschrijvingen voor zzp en vpt V&V 4 tot en met 10 binnen de Wlz contracteerruimte 2022 geldt per 1 januari 2024 een taakstelling zoals beschreven in tabel 2 (zie hierna) op grond van de maatregel ‘doorontwikkeling Kwaliteitskader Verpleeghuiszorg’.
-
-2. De zorgautoriteit voert deze jaarlijkse taakstellingen uit door middel van een generieke afslag op de bovengrens van de bandbreedte- en maximumtarieven van deze prestatiebeschrijvingen.
-
-3. De zorgautoriteit verwerkt de jaarlijkse taakstelling uit tabel 2 generiek over de loon- en materiële kostencomponenten van de tarieven.
-
-4. De generieke korting, naar rato te verdelen over de loon- en materiële kostencomponenten geschoond voor de behandelcomponent en voor de componenten voor niet beïnvloedbare factoren die onderdeel zijn van de bandbreedtetarieven per prestatiebeschrijving, berekent de zorgautoriteit over de volgende grondslag: alle vastgestelde prestatiebeschrijvingen voor zzp en vpt V&V 4 tot en met 10 binnen de Wlz contracteerruimte 2022 (het meest recente realisatiejaar) vermenigvuldigd met de integrale maximum- en bandbreedtetarieven geschoond voor de NHC/NIC, de behandelcomponent, en voor de componenten voor niet-beïnvloedbare factoren die onderdeel zijn van de bandbreedtetarieven voor de betreffende prestatiebeschrijvingen in 2022. De zorgautoriteit berekent via deze methodiek de taakstellende korting per prestatiebeschrijving voor de jaren 2024, 2025 respectievelijk 2026 en latere jaren.
-
-5. De zorgautoriteit berekent de behandelcomponent per prestatiebeschrijving ten behoeve van de schoning voor de behandelcomponent in de grondslag en in de verwerking van de generieke korting op de loon- en materiële kostencomponenten als volgt: voor elk van de overeenkomstige prestatiebeschrijvingen in- en exclusief behandeling bestaat de behandelcomponent uit het verschil tussen (a) de loon- respectievelijk de materiële kosten per prestatiebeschrijving inclusief behandeling en (b) de loon- respectievelijk de materiële kosten per prestatiebeschrijving exclusief behandeling. In (a) en (b) blijven de componenten voor niet beïnvloedbare factoren die onderdeel zijn van de bandbreedtetarieven buiten beschouwing.
-
-| Bedragen in miljoenen euro, prijspeil 2021 | 2024 | 2025 | 2026 | 2027 | structureel |
-| --- | --- | --- | --- | --- | --- |
-| Doorontwikkeling Kwaliteitskader Verpleeghuiszorg | -100 | -200 | -350 | -350 | -350 |
+Vervallen
 
 ##### Artikel 5. Vaststellen nieuwe tarieven
 
