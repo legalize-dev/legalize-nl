@@ -4,7 +4,7 @@ identifier: "BWBR0019082"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-09-26"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019082"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 2. Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder a en b, wordt uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarover de vergoeding is verschuldigd.
 
-3. Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder c, doen de waterschappen uiterlijk op 1 juli van het jaar waarover de vergoeding is verschuldigd, aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgaaf van de aantallen ingezetenen, bedoeld in [artikel 118, derde lid, onder a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=118).
+3. Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder c, doen de waterschappen uiterlijk op 1 juli van het jaar waarover de vergoeding is verschuldigd, aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgaaf van de aantallen ingezetenen, bedoeld in [artikel 116 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=116).
 
 ##### Artikel 3
 
@@ -80,19 +80,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2025-09-26&g=2025-09-26), wordt jaarlijks uiterlijk op 30 november van het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2026-01-01&g=2026-01-01), wordt jaarlijks uiterlijk op 30 november van het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. Onze Minister stelt jaarlijks voor de provincies, gemeenten, openbare lichamen en waterschappen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. Deze vaststelling geschiedt uiterlijk op 1 augustus van het jaar waarover de vergoeding is verschuldigd.
 
 ##### Artikel 5
 
-1. De vergoeding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2025-09-26&g=2025-09-26), wordt jaarlijks achteraf en uiterlijk op 1 maart van het jaar volgend op het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. De vergoeding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2026-01-01&g=2026-01-01), wordt jaarlijks achteraf en uiterlijk op 1 maart van het jaar volgend op het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. Onze Minister stelt jaarlijks voor de gemeenschappelijke regelingen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. De vaststelling geschiedt terstond na de laatstgenoemde datum.
 
 ##### Artikel 6
 
-Bij ministeriële regeling worden de bedragen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2025-09-26&g=2025-09-26), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2025-09-26&g=2025-09-26), ieder jaar aangepast overeenkomstig het door het Centraal Bureau voor de Statistiek in het kader van de Nationale Rekeningen vastgestelde prijsindexcijfer van de netto materiële consumptie van de overheid, volgens de jaar-op-jaarmethode.
+Bij ministeriële regeling worden de bedragen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=3&z=2026-01-01&g=2026-01-01), ieder jaar aangepast overeenkomstig het door het Centraal Bureau voor de Statistiek in het kader van de Nationale Rekeningen vastgestelde prijsindexcijfer van de netto materiële consumptie van de overheid, volgens de jaar-op-jaarmethode.
 
 ##### Artikel 7
 
