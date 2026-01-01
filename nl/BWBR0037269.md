@@ -4,7 +4,7 @@ identifier: "BWBR0037269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-09-11"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037269"
 soort: "ministeriele-regeling"
@@ -54,13 +54,13 @@ Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministe
 
 Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2025-09-11&g=2025-09-11) bedoelde besluiten en overeenkomsten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-01-01&g=2026-01-01) bedoelde besluiten en overeenkomsten; en
 
-- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2025-09-11&g=2025-09-11) bedoelde besluiten en overeenkomsten.
+- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-01-01&g=2026-01-01) bedoelde besluiten en overeenkomsten.
 
 ##### Artikel 3
 
-1. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2025-09-11&g=2025-09-11) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2025-09-11&g=2025-09-11), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+1. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-01-01&g=2026-01-01), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 2. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
 
@@ -68,7 +68,7 @@ Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministe
 
 ##### Artikel 4
 
-1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2025-09-11&g=2025-09-11), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2025-09-11&g=2025-09-11), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
+1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-01-01&g=2026-01-01), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-01-01&g=2026-01-01), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
 
 2. Een document als bedoeld in het eerste lid vermeldt, indien het subsidieprogramma, de subsidieregeling of de andere regeling tot de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat behoort, aan het slot:
 
@@ -110,7 +110,7 @@ Het [Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Waterstaat.
 
-## Bijlage. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2025-09-11&g=2025-09-11), van het Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Waterstaat
+## Bijlage. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-01-01&g=2026-01-01), van het Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Waterstaat
 
 ### Onderdeel A – spoor en weg
 
