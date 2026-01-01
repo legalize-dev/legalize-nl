@@ -4,7 +4,7 @@ identifier: "BWBR0051937"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051937"
 soort: "ministeriele-regeling"
@@ -82,6 +82,6 @@ Wijzigt de Regeling Wfsv.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-2. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0051937&artikel=VIII&z=2026-01-01&g=2025-01-01) werkt terug tot en met 1 januari 2025.
+2. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0051937&artikel=VIII&z=2026-01-01&g=2026-01-01) werkt terug tot en met 1 januari 2025.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
