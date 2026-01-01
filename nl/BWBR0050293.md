@@ -4,7 +4,7 @@ identifier: "BWBR0050293"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-10-14"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050293"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ Subsidie op grond van deze regeling kan worden aangevraagd door rechtspersonen d
 
 ##### Artikel 1.5. Vereisten
 
-Om voor subsidie als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.3&z=2024-10-14&g=2024-10-14) in aanmerking te komen, wordt voldaan aan de volgende vereisten:
+Om voor subsidie als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.3&z=2026-01-01&g=2026-01-01) in aanmerking te komen, wordt voldaan aan de volgende vereisten:
 
 - a. onder de bij de aanvrager aangesloten werkgevers is ten minste 50% mkb-onderneming;
 
@@ -125,9 +125,9 @@ De aanvraag voor subsidieverlening kan worden ingediend:
 
 - a. een projectplan waarbij:
 
-- 1°. gebruik is gemaakt van de inhoudsopgave projectplan zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&bijlage=1&z=2024-10-14&g=2024-10-14) en dat de daarin opgenomen onderdelen bevat;
+- 1°. gebruik is gemaakt van de inhoudsopgave projectplan zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&bijlage=1&z=2026-01-01&g=2026-01-01) en dat de daarin opgenomen onderdelen bevat;
 
-- 2°. een sluitende en realistische begroting is opgesteld volgens de vereisten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&bijlage=2&z=2024-10-14&g=2024-10-14);
+- 2°. een sluitende en realistische begroting is opgesteld volgens de vereisten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&bijlage=2&z=2026-01-01&g=2026-01-01);
 
 - b. de hoogte van het bedrag van eventuele reeds aangevraagde of ontvangen subsidies van andere bestuursorganen;
 
@@ -183,7 +183,7 @@ Deze regeling treedt in werking met ingang van 14 oktober 2024 en vervalt met in
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag.
 
-## Bijlage 1. bij [artikel 1.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.10&z=2024-10-14&g=2024-10-14), van de Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag
+## Bijlage 1. bij [artikel 1.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.10&z=2026-01-01&g=2026-01-01), van de Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag
 
 **Het projectplan maakt een essentieel onderdeel uit van uw aanvraag. De inhoudelijke beoordeling van uw voorstel vindt plaats op basis van de informatie die u in dit projectplan verschaft en de eventuele bijlagen waar u naar verwijst.**
 
@@ -192,6 +192,56 @@ Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling collectieven mkb
 ### Inhoudsopgave Projectplan
 
 ## Bijlage 2. bij [artikel 1.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.10&z=2024-10-14&g=2024-10-14), van de Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag
+
+De gespecificeerde begroting bevat ten minste de volgende onderdelen:
+
+- 1. Een onderbouwing van het geraamde aantal uren dat de direct bij de subsidiabele activiteiten betrokken functies maken, bestaande uit:
+
+- –. per functie het aantal personen dat de activiteiten uitvoert en het aantal uur;
+
+- –. per functie de activiteiten die worden verricht;
+
+- –. een uitsplitsing over de projectperiode van deze activiteiten.
+
+- 2. Een onderbouwing van de geraamde kosten derden.
+
+- 3. Een kostenoverzicht waaruit blijkt welke kosten u verwacht te maken voor de uitvoering van activiteiten. Ook geeft u aan hoe de kosten die niet worden vergoed met de subsidie (het eigen aandeel) worden gefinancierd.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Inhoudsopgave Projectplan
+
+### 1. Managementsamenvatting
+
+In dit hoofdstuk geeft u kort weer wat u met de subsidie wilt bereiken en waarom u denkt dat dit resultaat voor de partijen waarmee en waarvoor u dit project vormgeeft wenselijk is. U geeft ook aan welke barrières en knelpunten u met deze subsidieaanvraag in ieder geval verwacht te kunnen aanpakken.
+
+### 2. Beschrijving van de aanvrager
+
+Een algemene beschrijving van het bereik of de doelgroep van uw organisatie. Om hoeveel werkgevers gaat het, wat is het aantal werknemers en wat zijn de voorkomende branches. U verklaart dat ten minste 50% van de bij u aangesloten werkgevers mkb-onderneming is.
+
+### 3. Doel van het project
+
+U beschrijft hier de situatie die u wilt bereiken als het subsidietraject is afgerond. Dit zal de situatie zijn met een structureel lagere CO2 uitstoot in werkgebonden personenmobiliteit. De subsidie zal daar een bijdrage aan leveren. Belangrijk daarbij is dat u aangeeft wat het tastbare resultaat of de tastbare afspraak(en) wordt dat u voornemens bent te bereiken met de partijen waarvoor en waarmee u het project vormgeeft.
+
+### 4. Barrières en knelpunten
+
+Hierbij beschrijft u de barrières en knelpunten die tot nu toe in de weg staan aan het bereiken van het onder 3) genoemde doel.
+
+### 5. Aanpak om het project te realiseren
+
+Voor de aanpak (zie vraag 6) geeft u de concrete acties weer die u wilt doen om het aangegeven doel te halen.
+
+### 6. Tijdplanning en uitwerking activiteiten.
+
+Het project heeft een looptijd van maximaal 2 jaar. Deze periode is bedoeld voor zowel het identificeren en het daadwerkelijk wegnemen van genoemde barrières als voor het toepassen van de gemaakte afspraken en maatregelen door medewerkers daadwerkelijk gebruik te laten maken van de afgesproken maatregelen voor het verlagen van de CO2-emissie in de werkgebonden personenmobiliteit.
+
+U kunt voor de tijdsplanning en acties gebruik maken van het format planning dat beschikbaar is via de website van RVO.
+
+### 7. Nadere uitwerking van het doel van het project om bij de deelnemende partijen verduurzaming van de werkgebonden personenmobiliteit te bereiken.
+
+Hierbij gaat u in ieder geval in op:
+
+## Bijlage 2. bij [artikel 1.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050293&hoofdstuk=1&artikel=1.10&z=2026-01-01&g=2026-01-01), van de Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag
 
 De gespecificeerde begroting bevat ten minste de volgende onderdelen:
 
