@@ -4,7 +4,7 @@ identifier: "BWBR0004912"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004912"
 soort: "AMvB"
@@ -84,7 +84,7 @@ De voorschriften van het college van burgemeester en wethouders, bedoeld in [art
 
 ##### Artikel 3
 
-1. Het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=2&z=2025-01-01&g=2025-01-01), bedraagt met ingang van 1 januari 1999 ten hoogste € 41 per 1 januari 2025: € 78,80.
+1. Het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=2&z=2026-01-01&g=2026-01-01), bedraagt met ingang van 1 januari 1999 ten hoogste € 41 per 1 januari 2026: € 82,00.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties past jaarlijks het bedrag, bedoeld in het eerste lid, aan overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt afgerond op het dichtstbijzijnde veelvoud van 10 eurocent. Het aldus berekende bedrag wordt door Onze voornoemde Minister voor 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
 
@@ -154,7 +154,7 @@ Indien het voertuig overeenkomstig artikel 235, achtste lid, van de wet wordt te
 
 ##### Artikel 10
 
-Indien het voertuig binnen 48 uren na het in bewaring stellen niet is afgehaald, worden behalve de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=7&z=2025-01-01&g=2025-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=8&z=2025-01-01&g=2025-01-01) van dit besluit bedoelde gegevens, in het bewaringsregister tevens opgenomen de datum waarop de kennisgeving, bedoeld in artikel 235, negende lid, van de wet, is uitgegaan en de naam en het adres van degene aan wie die kennisgeving is verzonden.
+Indien het voertuig binnen 48 uren na het in bewaring stellen niet is afgehaald, worden behalve de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=8&z=2026-01-01&g=2026-01-01) van dit besluit bedoelde gegevens, in het bewaringsregister tevens opgenomen de datum waarop de kennisgeving, bedoeld in artikel 235, negende lid, van de wet, is uitgegaan en de naam en het adres van degene aan wie die kennisgeving is verzonden.
 
 ##### Artikel 11
 
@@ -166,7 +166,7 @@ In geval van toepassing van artikel 235, elfde lid, van de wet worden in het bew
 
 - c. in geval van eigendomsoverdracht om niet de naam en het adres van degene aan wie het voertuig om niet in eigendom is overgedragen;
 
-- d. in geval van vernietiging de waarde van het voertuig, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=17&z=2025-01-01&g=2025-01-01) van dit besluit.
+- d. in geval van vernietiging de waarde van het voertuig, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=17&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 ##### Artikel 12
 
