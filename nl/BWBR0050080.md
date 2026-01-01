@@ -4,7 +4,7 @@ identifier: "BWBR0050080"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-05-09"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050080"
 soort: "ministeriele-regeling"
@@ -42,7 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Van het ingevolge [artikel 1, onderdeel f, van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1) aan de directeur Strafrechtketen verleende mandaat wordt ten aanzien van de aangelegenheden die diens afdeling betreffen ondermandaat verleend aan het hoofd van de afdeling Keteninformatievoorziening (KIV)
+Van het ingevolge [artikel 1, onderdeel f, van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1) aan de directeur Strafrechtketen verleende mandaat wordt ten aanzien van de aangelegenheden die diens afdeling betreffen ondermandaat verleend aan:
+
+- a. het hoofd van de afdeling Keteninformatievoorziening (KIV);
+
+- b. het hoofd van de afdeling Duurzame Digitale Samenwerking (DDS).
 
 ##### Artikel 2
 
