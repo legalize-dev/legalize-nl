@@ -4,7 +4,7 @@ identifier: "BWBR0026759"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026759"
 soort: "wet"
@@ -58,7 +58,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bevoegde instantie:** bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
 
-- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-07-01&g=2021-07-01);
+- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2026-01-01&g=2026-01-01);
 
 - **consument:** afnemer die een natuurlijke persoon is, niet handelend in de uitoefening van een beroep of bedrijf;
 
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **gereglementeerd beroep:** beroepsactiviteit of een geheel van beroepsactiviteiten als bedoeld in artikel 3, eerste lid, onder a, van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);
 
-- **informatiepunt:** het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2021-07-01&g=2021-07-01);
+- **informatiepunt:** het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01);
 
 - **interne markt informatiesysteem:** elektronisch informatiesysteem, bedoeld in artikel 34 van de richtlijn, voor de uitwisseling van informatie tussen de bevoegde instanties van de lidstaten;
 
@@ -160,7 +160,7 @@ Het bij of krachtens deze wet bepaalde is mede van toepassing in de Nederlandse 
 
 Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties maakt de volgende informatie voor dienstverrichters via het centraal loket toegankelijk:
 
-- a. de eisen en vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), en de namen en adresgegevens van de bij die eisen en vergunningstelsels betrokken bevoegde instanties;
+- a. de eisen en vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), en de namen en adresgegevens van de bij die eisen en vergunningstelsels betrokken bevoegde instanties;
 
 - b. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen bevoegde instanties en dienstverrichters, tussen dienstverrichters en afnemers of tussen dienstverrichters onderling;
 
@@ -170,7 +170,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties maakt de volgende inf
 
 ##### Artikel 8
 
-1. Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), maakt de volgende informatie voor dienstverrichters langs elektronische weg toegankelijk:
+1. Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), maakt de volgende informatie voor dienstverrichters langs elektronische weg toegankelijk:
 
 - a. de eisen of vergunningstelsels, waarbij die instantie is betrokken en haar naam en adresgegevens;
 
@@ -180,11 +180,11 @@ Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties maakt de volgende inf
 
 ##### Artikel 9
 
-De informatie, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2021-07-01&g=2021-07-01) is actueel, duidelijk en ondubbelzinnig.
+De informatie, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2026-01-01&g=2026-01-01) is actueel, duidelijk en ondubbelzinnig.
 
 ##### Artikel 10
 
-Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen ten behoeve van een goede uitvoering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2021-07-01&g=2021-07-01) regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2021-07-01&g=2021-07-01) ordenen en toegankelijk maken.
+Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen ten behoeve van een goede uitvoering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-01-01&g=2026-01-01) regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2026-01-01&g=2026-01-01) ordenen en toegankelijk maken.
 
 ##### Artikel 11
 
@@ -222,7 +222,7 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 2. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen regels worden gesteld met betrekking tot technische eisen waaraan door een bevoegde instantie als bedoeld in het eerste lid moet worden voldaan met het oog op aansluiting op het centraal loket.
 
-3. Het eerste lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14).
+3. Het eerste lid geldt, voor zover van toepassing, in afwijking van [artikel 2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
 
 4. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen regels worden gesteld ter uitvoering van door de Europese Commissie met inachtneming van artikel 8, derde lid, van de richtlijn vastgestelde gedetailleerde regels.
 
@@ -234,9 +234,9 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 ##### Artikel 15
 
-1. [Artikel 2:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), is niet van toepassing op de verzending via het centraal loket van gegevens en bescheiden die op procedures en formaliteiten betrekking hebben.
+1. [Artikel 2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), is niet van toepassing op de verzending via het centraal loket van gegevens en bescheiden die op procedures en formaliteiten betrekking hebben.
 
-2. Voor zover daarvan bij of krachtens deze wet niet wordt afgeweken, zijn de [artikelen 2:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14), [2:15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:16) en [2:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:17) van overeenkomstige toepassing op berichten waarop dit hoofdstuk en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&z=2021-07-01&g=2021-07-01) van toepassing zijn en waarbij een bevoegde instantie niet als bestuursorgaan is betrokken.
+2. Voor zover daarvan bij of krachtens deze wet niet wordt afgeweken, zijn de [artikelen 2:9 tot en met 2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:10), [2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14), [2:15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), en [2:16 tot en met 2:27 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:16) van overeenkomstige toepassing op berichten waarop dit hoofdstuk en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&z=2026-01-01&g=2026-01-01) van toepassing zijn en waarbij een bevoegde instantie niet als bestuursorgaan is betrokken.
 
 #### § 3.4. Gegevensbescherming
 
@@ -254,7 +254,7 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties maakt via het centraal loket voor zakelijke afnemers toegankelijk:
 
-- a. de informatie, bedoeld in [artikel 7, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2021-07-01&g=2021-07-01);
+- a. de informatie, bedoeld in [artikel 7, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-01-01&g=2026-01-01);
 
 - b. algemene informatie over in andere lidstaten geldende eisen inzake toegang tot en uitoefening van diensten;
 
@@ -270,7 +270,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties maakt via het centraa
 
 De Autoriteit Consument en Markt maakt via het informatiepunt voor consumenten toegankelijk:
 
-- a. de informatie, bedoeld in [artikel 7, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2021-07-01&g=2021-07-01);
+- a. de informatie, bedoeld in [artikel 7, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-01-01&g=2026-01-01);
 
 - b. algemene informatie over in andere lidstaten geldende eisen inzake toegang tot en uitoefening van diensten, in het bijzonder informatie inzake consumentenbescherming;
 
@@ -284,19 +284,19 @@ De Autoriteit Consument en Markt maakt via het informatiepunt voor consumenten t
 
 ##### Artikel 19
 
-Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), maakt voor afnemers langs elektronische weg toegankelijk:
+Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), maakt voor afnemers langs elektronische weg toegankelijk:
 
-- a. de informatie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2021-07-01&g=2021-07-01), en artikel 8, tweede lid;
+- a. de informatie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2026-01-01&g=2026-01-01), en artikel 8, tweede lid;
 
 - b. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen haar en een afnemer of tussen een dienstverrichter en een afnemer.
 
 ##### Artikel 20
 
-De informatie, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2021-07-01&g=2021-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=18&z=2021-07-01&g=2021-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2021-07-01&g=2021-07-01), is actueel, duidelijk en ondubbelzinnig.
+De informatie, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=18&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2026-01-01&g=2026-01-01), is actueel, duidelijk en ondubbelzinnig.
 
 ##### Artikel 21
 
-Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen ten behoeve van een goede uitvoering van [artikel 17, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2021-07-01&g=2021-07-01), regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2021-07-01&g=2021-07-01) ordenen en toegankelijk maken.
+Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kunnen ten behoeve van een goede uitvoering van [artikel 17, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2026-01-01&g=2026-01-01), regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2026-01-01&g=2026-01-01) ordenen en toegankelijk maken.
 
 ##### Artikel 22
 
@@ -326,7 +326,7 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 ##### Artikel 51
 
-1. Zodra een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), kennis neemt van gedragingen, ernstige specifieke handelingen of omstandigheden met betrekking tot een dienstverrichter of een dienstverrichting die ernstige schade aan de gezondheid, veiligheid van personen of het milieu kan veroorzaken, stelt deze instantie alle andere lidstaten, de Europese Commissie en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt daarvan onverwijld in kennis.
+1. Zodra een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kennis neemt van gedragingen, ernstige specifieke handelingen of omstandigheden met betrekking tot een dienstverrichter of een dienstverrichting die ernstige schade aan de gezondheid, veiligheid van personen of het milieu kan veroorzaken, stelt deze instantie alle andere lidstaten, de Europese Commissie en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt daarvan onverwijld in kennis.
 
 2. De in het eerste lid bedoelde kennisgeving geschiedt via het interne markt informatiesysteem, tenzij naar het oordeel van de bevoegde instantie ter uitvoering van regelgeving van de Europese Gemeenschap een ander elektronisch communicatiesysteem is aangewezen.
 
@@ -366,7 +366,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de do
 
 ##### Artikel 56
 
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), draagt zorg voor aansluiting op het interne markt informatiesysteem.
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), draagt zorg voor aansluiting op het interne markt informatiesysteem.
 
 ##### Artikel 57
 
@@ -374,7 +374,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot techn
 
 ##### Artikel 58
 
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), kan het interne markt informatiesysteem benutten voor de uitwisseling van gegevens binnen Nederland met betrekking tot dienstverrichters en dienstverrichtingen.
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kan het interne markt informatiesysteem benutten voor de uitwisseling van gegevens binnen Nederland met betrekking tot dienstverrichters en dienstverrichtingen.
 
 ##### Artikel 59
 
@@ -392,11 +392,11 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door 
 
 ##### Artikel 65
 
-[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2021-07-01&g=2021-07-01) is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
+[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
 
 ##### Artikel 66
 
-1. Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2021-07-01&g=2021-07-01) is uitgezonderd van de toepassing van [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3).
+1. Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is uitgezonderd van de toepassing van [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3).
 
 2. Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
 
@@ -414,7 +414,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12
 
-1. Een bevoegde instantie verstrekt een dienstverrichter op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), waarbij die bevoegde instantie is betrokken.
+1. Een bevoegde instantie verstrekt een dienstverrichter op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
 
 2. De in het eerste lid bedoelde informatie wordt zo spoedig mogelijk verstrekt, is actueel, duidelijk en ondubbelzinnig. Waar passend wordt informatie verstrekt in de vorm van een handleiding.
 
@@ -424,7 +424,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Een bevoegde instantie verzendt een bericht met de verzochte informatie als bedoeld in het eerste lid, of een mededeling als bedoeld in het derde lid, langs elektronische weg, voor zover een dienstverrichter waarvoor het bericht bestemd is aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.
 
-6. Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14).
+6. Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
 
 #### § 3.2. Verlening van bijstand aan dienstverrichters
 
@@ -446,7 +446,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Een bevoegde instantie bevestigt de ontvangst van een aanvraag om een vergunning zo snel mogelijk. De ontvangstbevestiging bevat de volgende informatie:
 
-- a. de bij wettelijk voorschrift met betrekking tot die vergunning bepaalde termijn waarbinnen de beschikking wordt gegeven of de termijn van acht weken, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2021-07-01&g=2021-07-01);
+- a. de bij wettelijk voorschrift met betrekking tot die vergunning bepaalde termijn waarbinnen de beschikking wordt gegeven of de termijn van acht weken, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2026-01-01&g=2026-01-01);
 
 - b. beschikbare rechtsmiddelen om tegen de beschikking op te komen.
 
@@ -516,17 +516,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de bevoegde instantie bevoegd is binnen de termijn, bedoeld in onderdeel a, een vergunning te verlenen.
 
-2. Een dienstverrichter voldoet aan een eis die bij een melding als bedoeld in het eerste lid geldt, indien de dienstverrichter reeds in Nederland of in een andere lidstaat aan een gelijkwaardige eis voldoet. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=30&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op een bevoegde instantie die bevoegd is binnen de termijn, bedoeld in het eerste lid, onderdeel a, een vergunning te verlenen.
+2. Een dienstverrichter voldoet aan een eis die bij een melding als bedoeld in het eerste lid geldt, indien de dienstverrichter reeds in Nederland of in een andere lidstaat aan een gelijkwaardige eis voldoet. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=30&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op een bevoegde instantie die bevoegd is binnen de termijn, bedoeld in het eerste lid, onderdeel a, een vergunning te verlenen.
 
 ##### Artikel 36
 
-1. Een dienstverrichter stelt de bevoegde instantie bij welke hij een melding heeft gedaan als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.2&artikel=35&z=2021-07-01&g=2021-07-01), in kennis van:
+1. Een dienstverrichter stelt de bevoegde instantie bij welke hij een melding heeft gedaan als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.2&artikel=35&z=2026-01-01&g=2026-01-01), in kennis van:
 
 - a. de oprichting van dochterondernemingen waarvan de activiteiten onder de desbetreffende melding vallen;
 
 - b. wijzigingen in de gegevens die hij bij de melding heeft verstrekt.
 
-2. Een dienstverrichter die reeds gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2021-07-01&g=2021-07-01), verricht de mededeling, bedoeld in het eerste lid, door verzending via het centraal loket.
+2. Een dienstverrichter die reeds gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2026-01-01&g=2026-01-01), verricht de mededeling, bedoeld in het eerste lid, door verzending via het centraal loket.
 
 ### Hoofdstuk 6. Administratieve samenwerking
 
@@ -614,11 +614,11 @@ De Autoriteit Consument en Markt verstrekt een consument op diens verzoek:
 
 ##### Artikel 25
 
-Een bevoegde instantie verstrekt een afnemer op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), waarbij die bevoegde instantie is betrokken.
+Een bevoegde instantie verstrekt een afnemer op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
 
 ##### Artikel 26
 
-Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2021-07-01&g=2021-07-01) is [artikel 12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties gericht verzoek geschiedt via het centraal loket en een tot de Autoriteit Consument en Markt gericht verzoek via het informatiepunt.
+Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2026-01-01&g=2026-01-01) is [artikel 12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties gericht verzoek geschiedt via het centraal loket en een tot de Autoriteit Consument en Markt gericht verzoek via het informatiepunt.
 
 ##### Artikel 27
 
@@ -634,7 +634,7 @@ Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://
 
 ##### Artikel 37
 
-1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01):
+1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01):
 
 - a. verstrekt op verzoek van een bevoegde instantie uit een andere lidstaat informatie over een dienstverrichter en zijn dienstverrichtingen,
 
@@ -646,31 +646,31 @@ Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://
 
 ##### Artikel 38
 
-1. Indien een bevoegde instantie niet kan voldoen aan een verzoek als bedoeld in [artikel 37, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), stelt zij de instantie die het verzoek heeft gedaan daarvan snel in kennis, teneinde een oplossing te vinden.
+1. Indien een bevoegde instantie niet kan voldoen aan een verzoek als bedoeld in [artikel 37, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), stelt zij de instantie die het verzoek heeft gedaan daarvan snel in kennis, teneinde een oplossing te vinden.
 
-2. Een bevoegde instantie informeert het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt:
+2. Een bevoegde instantie informeert het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt:
 
-- a. indien zij niet bevoegd is om aan een verzoek als bedoeld in [artikel 37, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), te voldoen;
+- a. indien zij niet bevoegd is om aan een verzoek als bedoeld in [artikel 37, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), te voldoen;
 
 - b. indien de toepassing van het eerste lid niet leidt tot een oplossing met de instantie die het verzoek heeft gedaan.
 
 ##### Artikel 39
 
-1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), motiveert op een deugdelijke wijze een verzoek aan een bevoegde instantie uit een andere lidstaat:
+1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), motiveert op een deugdelijke wijze een verzoek aan een bevoegde instantie uit een andere lidstaat:
 
 - a. om informatie over een dienstverrichter en zijn dienstverrichtingen;
 
 - b. tot het verrichten van verificaties, inspecties en onderzoeken naar een dienstverrichter en zijn dienstverrichtingen.
 
-2. Indien een bevoegde instantie uit een andere lidstaat niet voldoet aan een verzoek als bedoeld in het eerste lid, onderdeel a of b, informeert de desbetreffende bevoegde instantie het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt hierover.
+2. Indien een bevoegde instantie uit een andere lidstaat niet voldoet aan een verzoek als bedoeld in het eerste lid, onderdeel a of b, informeert de desbetreffende bevoegde instantie het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt hierover.
 
 #### § 6.2. Informatie over de betrouwbaarheid van dienstverrichters
 
 ##### Artikel 40
 
-1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), verstrekt op verzoek van een bevoegde instantie van een andere lidstaat informatie over onherroepelijke bestuursrechtelijke sancties of onherroepelijke tuchtrechtelijke maatregelen die door de eerstbedoelde bevoegde instantie jegens een dienstverrichter zijn getroffen, indien het desbetreffende verzoek deugdelijk is gemotiveerd en de desbetreffende instantie bevoegd is om aan het verzoek te voldoen.
+1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), verstrekt op verzoek van een bevoegde instantie van een andere lidstaat informatie over onherroepelijke bestuursrechtelijke sancties of onherroepelijke tuchtrechtelijke maatregelen die door de eerstbedoelde bevoegde instantie jegens een dienstverrichter zijn getroffen, indien het desbetreffende verzoek deugdelijk is gemotiveerd en de desbetreffende instantie bevoegd is om aan het verzoek te voldoen.
 
-2. Een bevoegde instantie verstrekt de in het eerste lid bedoelde informatie, onder vermelding van de bepalingen die zijn overtreden, binnen de kortst mogelijke termijn en langs elektronische weg, met inachtneming van [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01). De dienstverrichter wordt daarvan onverwijld schriftelijk in kennis gesteld.
+2. Een bevoegde instantie verstrekt de in het eerste lid bedoelde informatie, onder vermelding van de bepalingen die zijn overtreden, binnen de kortst mogelijke termijn en langs elektronische weg, met inachtneming van [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01). De dienstverrichter wordt daarvan onverwijld schriftelijk in kennis gesteld.
 
 ##### Artikel 41
 
@@ -680,17 +680,17 @@ Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://
 
 3. Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) ingediend bij Onze Minister van Veiligheid en Justitie.
 
-4. [Artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op de in het tweede lid bedoelde aanvraag.
+4. [Artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de in het tweede lid bedoelde aanvraag.
 
 ##### Artikel 42
 
 1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd.
 
-2. Onze Minister van Veiligheid en Justitie stelt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd in kennis van de in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.2&artikel=41&z=2021-07-01&g=2021-07-01), bedoelde aanvraag en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
+2. Onze Minister van Veiligheid en Justitie stelt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd in kennis van de in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.2&artikel=41&z=2026-01-01&g=2026-01-01), bedoelde aanvraag en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
 
 3. Indien de dienstverrichter geen instemming verleent, bericht Onze Minister van Veiligheid en Justitie dit aan de bevoegde instantie die de verklaring heeft aangevraagd.
 
-4. [Artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), zijn van overeenkomstige toepassing op de in het derde lid bedoelde berichten.
+4. [Artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing op de in het derde lid bedoelde berichten.
 
 5. Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze Minister van Veiligheid en Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. [Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39) is van overeenkomstige toepassing.
 
@@ -704,13 +704,13 @@ Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://
 
 4. Indien de weigering van de verklaring omtrent het gedrag nog niet onherroepelijk is informeert Onze Minister van Veiligheid en Justitie de bevoegde instantie uit een andere lidstaat daarover.
 
-5. [Artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op de informatieverschaffing, bedoeld in het derde en vierde lid.
+5. [Artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de informatieverschaffing, bedoeld in het derde en vierde lid.
 
 ##### Artikel 44
 
-1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), motiveert op deugdelijke wijze een verzoek aan een bevoegde instantie uit een andere lidstaat om informatie over aan een dienstverrichter opgelegde bestuursrechtelijke sancties, tuchtrechtelijke maatregelen of strafrechtelijke sancties of met betrekking tot een dienstverrichter genomen beslissingen betreffende insolventie of faillissement waarbij sprake is van frauduleuze praktijken.
+1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), motiveert op deugdelijke wijze een verzoek aan een bevoegde instantie uit een andere lidstaat om informatie over aan een dienstverrichter opgelegde bestuursrechtelijke sancties, tuchtrechtelijke maatregelen of strafrechtelijke sancties of met betrekking tot een dienstverrichter genomen beslissingen betreffende insolventie of faillissement waarbij sprake is van frauduleuze praktijken.
 
-2. [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=39&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
+2. [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=39&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 #### § 6.3. Veiligheidsmaatregelen jegens dienstverrichters in individuele gevallen
 
@@ -724,17 +724,17 @@ Deze paragraaf is niet van toepassing:
 
 ##### Artikel 46
 
-Voor de toepassing van de [artikelen 47 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2021-07-01&g=2021-07-01) beschikken de bevoegde instanties over de toezichts- en handhavingsbevoegdheden die hen bij wettelijk voorschrift zijn toegekend, voor zover die bevoegdheden uitsluitend kunnen worden uitgeoefend ten aanzien van in Nederland gevestigde dienstverrichters.
+Voor de toepassing van de [artikelen 47 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2026-01-01&g=2026-01-01) beschikken de bevoegde instanties over de toezichts- en handhavingsbevoegdheden die hen bij wettelijk voorschrift zijn toegekend, voor zover die bevoegdheden uitsluitend kunnen worden uitgeoefend ten aanzien van in Nederland gevestigde dienstverrichters.
 
 ##### Artikel 47
 
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), kan uitsluitend in buitengewone omstandigheden ten behoeve van de veiligheid van dienstverrichtingen maatregelen treffen jegens een dienstverrichter die is gevestigd in een andere lidstaat en die diensten verricht in het gebied waarop deze wet van toepassing is.
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kan uitsluitend in buitengewone omstandigheden ten behoeve van de veiligheid van dienstverrichtingen maatregelen treffen jegens een dienstverrichter die is gevestigd in een andere lidstaat en die diensten verricht in het gebied waarop deze wet van toepassing is.
 
 ##### Artikel 48
 
-1. Voordat een bevoegde instantie een maatregel treft als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2021-07-01&g=2021-07-01), verzoekt zij de bevoegde instantie uit de lidstaat van vestiging van de dienstverrichter jegens hem maatregelen te nemen. Daarbij verstrekt de bevoegde instantie alle relevante informatie over de betrokken dienstverrichter, zijn dienstverrichtingen en de omstandigheden ter zake.
+1. Voordat een bevoegde instantie een maatregel treft als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2026-01-01&g=2026-01-01), verzoekt zij de bevoegde instantie uit de lidstaat van vestiging van de dienstverrichter jegens hem maatregelen te nemen. Daarbij verstrekt de bevoegde instantie alle relevante informatie over de betrokken dienstverrichter, zijn dienstverrichtingen en de omstandigheden ter zake.
 
-2. De bevoegde instantie stelt de Europese Commissie, de bevoegde instantie uit de lidstaat van vestiging en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt in kennis van het voornemen tot het treffen van maatregelen, indien:
+2. De bevoegde instantie stelt de Europese Commissie, de bevoegde instantie uit de lidstaat van vestiging en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt in kennis van het voornemen tot het treffen van maatregelen, indien:
 
 - a. naar haar oordeel de bevoegde instantie uit de lidstaat van vestiging het krachtens het eerste lid gedane verzoek om maatregelen te treffen niet of onvoldoende heeft ingewilligd en
 
@@ -754,13 +754,13 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 ##### Artikel 49
 
-1. Indien een bevoegde instantie op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2021-07-01&g=2021-07-01) een maatregel treft, kan zij in spoedeisende gevallen de toepassing van [artikel 48, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=48&z=2021-07-01&g=2021-07-01), achterwege laten. In dat geval stelt zij de Europese Commissie, de bevoegde instantie uit de lidstaat van vestiging van de dienstverrichter en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt onverwijld in kennis van de genomen maatregel met opgave van de redenen waarom er sprake is van een spoedeisend karakter.
+1. Indien een bevoegde instantie op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=47&z=2026-01-01&g=2026-01-01) een maatregel treft, kan zij in spoedeisende gevallen de toepassing van [artikel 48, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=48&z=2026-01-01&g=2026-01-01), achterwege laten. In dat geval stelt zij de Europese Commissie, de bevoegde instantie uit de lidstaat van vestiging van de dienstverrichter en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt onverwijld in kennis van de genomen maatregel met opgave van de redenen waarom er sprake is van een spoedeisend karakter.
 
-2. [Artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=48&z=2021-07-01&g=2021-07-01), is van toepassing.
+2. [Artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&artikel=48&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 ##### Artikel 50
 
-1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), treft op verzoek van een bevoegde instantie uit een andere lidstaat maatregelen jegens een in Nederland gevestigde dienstverrichter indien:
+1. Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), treft op verzoek van een bevoegde instantie uit een andere lidstaat maatregelen jegens een in Nederland gevestigde dienstverrichter indien:
 
 - a. het desbetreffende verzoek alle relevante informatie bevat over de betrokken dienstverrichter, zijn dienstverrichtingen en de omstandigheden ter zake;
 
@@ -770,9 +770,9 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 - d. zij er voldoende van overtuigd is dat de aan het verzoek ten grondslag liggende feiten juist zijn.
 
-2. De bevoegde instantie stelt de instantie die het verzoek heeft gedaan en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2021-07-01&g=2021-07-01) bedoelde contactpunt onverwijld in kennis van de genomen of voorgenomen maatregelen dan wel van de redenen waarom zij geen maatregelen treft.
+2. De bevoegde instantie stelt de instantie die het verzoek heeft gedaan en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt onverwijld in kennis van de genomen of voorgenomen maatregelen dan wel van de redenen waarom zij geen maatregelen treft.
 
-3. Op een kennisgeving aan de bevoegde instantie als bedoeld in het tweede lid is [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2021-07-01&g=2021-07-01), van toepassing.
+3. Op een kennisgeving aan de bevoegde instantie als bedoeld in het tweede lid is [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&artikel=37&z=2026-01-01&g=2026-01-01), van toepassing.
 
 #### § 6.4. Het waarschuwingsmechanisme
 
@@ -780,11 +780,11 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 ##### Artikel 53
 
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2021-07-01&g=2021-07-01), ziet niet af van de toepassing van toezichts- of handhavingsmaatregelen jegens een dienstverrichter die in Nederland is gevestigd vanwege het feit dat de door die dienstverrichter verrichte dienst in een andere lidstaat is verricht of daar schade heeft veroorzaakt.
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), ziet niet af van de toepassing van toezichts- of handhavingsmaatregelen jegens een dienstverrichter die in Nederland is gevestigd vanwege het feit dat de door die dienstverrichter verrichte dienst in een andere lidstaat is verricht of daar schade heeft veroorzaakt.
 
 ##### Artikel 54
 
-[Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) is van overeenkomstige toepassing indien een bevoegde instantie medewerking vordert naar aanleiding van een verzoek van een bevoegde instantie uit een andere lidstaat als bedoeld in de [paragrafen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&z=2021-07-01&g=2021-07-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.2&z=2021-07-01&g=2021-07-01) en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&z=2021-07-01&g=2021-07-01), met dien verstande dat, indien de bevoegde instantie geen bestuursorgaan is, de bevoegdheid van artikel 5:20, derde lid, wordt uitgeoefend door het bestuursorgaan onder verantwoordelijkheid waarvan de bevoegde instantie werkzaam is.
+[Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) is van overeenkomstige toepassing indien een bevoegde instantie medewerking vordert naar aanleiding van een verzoek van een bevoegde instantie uit een andere lidstaat als bedoeld in de [paragrafen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.1&z=2026-01-01&g=2026-01-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.2&z=2026-01-01&g=2026-01-01) en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.3&z=2026-01-01&g=2026-01-01), met dien verstande dat, indien de bevoegde instantie geen bestuursorgaan is, de bevoegdheid van artikel 5:20, derde lid, wordt uitgeoefend door het bestuursorgaan onder verantwoordelijkheid waarvan de bevoegde instantie werkzaam is.
 
 #### § 6.6. Het contactpunt
 
