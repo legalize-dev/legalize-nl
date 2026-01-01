@@ -4,7 +4,7 @@ identifier: "BWBR0051506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-09-20"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051506"
 soort: "ministeriele-regeling"
@@ -54,6 +54,6 @@ De Minister evalueert binnen vijf jaar na de inwerkingtreding van deze regeling 
 
 ##### Artikel IV
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0051506&artikel=II&z=2025-09-20&g=2025-09-20), dat in werking treedt met ingang van 1 januari 2026.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0051506&artikel=II&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van 1 januari 2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
