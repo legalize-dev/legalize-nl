@@ -4,7 +4,7 @@ identifier: "BWBR0050069"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-09-27"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050069"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Besluit:
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hen ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=1&z=2024-09-27&g=2024-09-27) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hen ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=1&z=2026-01-01&g=2026-01-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=2&z=2024-09-27&g=2024-09-27) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=2&z=2026-01-01&g=2026-01-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -72,11 +72,11 @@ Aan de directeur-generaal blijft voorbehouden:
 
 - a. de bevoegdheid om beslissingen te nemen inzake aanstelling, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie of dienst;
 
-- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2024-09-27&g=2024-09-27), genoemde functionarissen betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
+- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2026-01-01&g=2026-01-01), genoemde functionarissen betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
 ##### Artikel 5
 
-De in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2024-09-27&g=2024-09-27), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1, eerste lid, genoemde bevoegdheden.
+De in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2026-01-01&g=2026-01-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1, eerste lid, genoemde bevoegdheden.
 
 ##### Artikel 6
 
@@ -90,11 +90,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=2&z=2024-09-27&g=2024-09-27) van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=2&z=2026-01-01&g=2026-01-01) van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=4&z=2024-09-27&g=2024-09-27) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=4&z=2026-01-01&g=2026-01-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=4&z=2024-09-27&g=2024-09-27) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=4&z=2026-01-01&g=2026-01-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- |
@@ -136,8 +136,9 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminder
 | 7 | **directeur Strafrechtketen** | A |
 | 7.1 | plaatsvervangend directeur Strafrechtketen | A |
 | 7.1.1 | hoofd Keteninformatievoorziening | B |
+| 7.1.2 | hoofd Duurzame Digitale Samenwerking | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=3&z=2024-09-27&g=2024-09-27) van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=3&z=2026-01-01&g=2026-01-01) van het Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024
 
 De functionarissen genoemd in kolom 1 zijn bevoegd, in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -183,5 +184,6 @@ Indien in kolom 2 een bedrag is opgenomen betreft dit het maximumbedrag waarvoor
 | 7 | **directeur Strafrechtketen** |   |
 | 7.1 | plaatsvervangend directeur Strafrechtketen |   |
 | 7.1.1 | hoofd Keteninformatievoorziening | € 75.000 |
+| 7.1.2 | hoofd Duurzame Digitale Samenwerking | € 75.000 |
 
-Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=1&z=2024-09-27&g=2024-09-27) en de toelichting in de Staatscourant worden geplaatst.
+Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=1&z=2026-01-01&g=2026-01-01) en de toelichting in de Staatscourant worden geplaatst.
