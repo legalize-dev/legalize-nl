@@ -4,7 +4,7 @@ identifier: "BWBR0043743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-10-05"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043743"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **gemeente:** krachtens [artikel 6, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6) aangewezen gemeente;
 
-- g. **Ministers:** Minister voor Medische Zorg en Minister van Justitie en Veiligheid;
+- g. **Ministers:** Minister van Volksgezondheid, Welzijn en Sport en Minister van Justitie en Veiligheid;
 
 - h. **Wet:** [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818).
 
@@ -70,11 +70,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6), [7, eerste lid, onder a, onderdeel 1°, onder c, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7) alsmede van de aan een aanwijzing verbonden voorschriften, bedoeld in [artikel 5, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=5), zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit met een toezichthoudende taak en de ambtenaren van de Inspectie Justitie en Veiligheid met een toezichthoudende taak, ieder ten aanzien van het in het kader van het experiment overeengekomen werkterrein van de betreffende dienst.
+Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6), [7, eerste lid, onder a, onderdeel 1°, onder c, en tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7) alsmede van de aan een aanwijzing verbonden voorschriften, bedoeld in [artikel 5, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=5), zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit met een toezichthoudende taak en de ambtenaren van de Inspectie Justitie en Veiligheid met een toezichthoudende taak, ieder ten aanzien van het in het kader van het experiment overeengekomen werkterrein van de betreffende dienst.
 
 ##### Artikel 3
 
-Met het toezicht op de naleving door coffeeshophouders van het bepaalde bij of krachtens [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6), [7, eerste lid, onder a, onderdeel 2°, onder c, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7) zijn belast de door de burgemeester van de gemeente waar de coffeeshop is toegestaan, aangewezen toezichthouders.
+Met het toezicht op de naleving door coffeeshophouders van het bepaalde bij of krachtens [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6), [7, eerste lid, onder a, onderdeel 2°, onder c, en tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7) zijn belast de door de burgemeester van de gemeente waar de coffeeshop is toegestaan, aangewezen toezichthouders.
 
 ### Mandaat en machtiging aanwijzing als teler
 
@@ -94,11 +94,11 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport wordt mandaat en machtiging verleend om namens de Ministers:
 
-- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2026-01-01&g=2023-10-05);
+- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2026-01-01&g=2026-01-01) of op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 4 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4);
 
 - b. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2026-01-01&g=2023-10-05).
+- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=4&z=2026-01-01&g=2026-01-01) of een besluit als bedoeld in [artikel 4 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4).
 
 2. De directeur is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
 
@@ -120,11 +120,11 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid wordt mandaat en machtiging verleend om namens de Ministers:
 
-- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2023-10-05);
+- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2026-01-01);
 
 - b. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2023-10-05).
+- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2026-01-01).
 
 2. De directeur is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
 
@@ -148,7 +148,7 @@ Aan de directeur van de directie Voeding, Gezondheidsbescherming en Preventie va
 
 ##### Artikel 9
 
-De Inspecteur-Generaal van de Inspectie Justitie en Veiligheid en de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit informeren de Ministers periodiek over de genomen handhavingsbesluiten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2023-10-05), onderscheidenlijk [artikel 8, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=8&z=2026-01-01&g=2023-10-05).
+De Inspecteur-Generaal van de Inspectie Justitie en Veiligheid en de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit informeren de Ministers periodiek over de genomen handhavingsbesluiten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6&z=2026-01-01&g=2026-01-01), onderscheidenlijk [artikel 8, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=8&z=2026-01-01&g=2026-01-01).
 
 ### Slotbepaling
 
