@@ -4,7 +4,7 @@ identifier: "BWBR0045658"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045658"
 soort: "zbo"
@@ -45,9 +45,13 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Bank:** De Nederlandsche Bank N.V.;
+- a). **Bank:** De Nederlandsche Bank N.V.;
 
-- b. **Bijzondere Financiële Instellingen:** ondernemingen of instellingen, ongeacht de rechtsvorm, die ingezetenen zijn en waarin niet-ingezetenen, direct of indirect, via aandelenkapitaal of anderszins deelnemen of invloed uitoefenen en die tot doel hebben en/of zich in belangrijke mate bezighouden met het, al dan niet in combinatie met andere binnenlandse groepsmaatschappijen:
+- b). **beheerder:** een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+
+- c). **beleggingsfonds:** een instelling als bedoeld in artikel 2, eerste lid, van [Verordening (EU) 2024/1988](32024R1988) van de Europese Centrale Bank van 27 juni 2024 betreffende statistieken inzake beleggingsfondsen en tot intrekking van Besluit (EU) 2015/32;
+
+- d). **Bijzondere Financiële Instellingen:** ondernemingen of instellingen, ongeacht de rechtsvorm, die ingezetenen zijn en waarin niet-ingezetenen, direct of indirect, via aandelenkapitaal of anderszins deelnemen of invloed uitoefenen en die tot doel hebben en/of zich in belangrijke mate bezighouden met het, al dan niet in combinatie met andere binnenlandse groepsmaatschappijen:
 
 - 1. hoofdzakelijk in het buitenland aanhouden van activa en passiva en/of
 
@@ -55,35 +59,39 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3. het genereren van omzet en kosten die hoofdzakelijk afkomstig zijn uit herfacturering van en naar buitenlandse groepsmaatschappijen;
 
-- c. **gecentraliseerde rapportage:** rapportage onder een enkel registratienummer betreffende meerdere ingezetenen binnen een groep;
+- e). **Captive financial institutions and money lenders (CFI):** Financiële instellingen en kredietverstrekkers binnen concernverband. De Bijzondere Financiële Instellingen vallen onder deze categorie van instellingen;
 
-- d. **groep:** economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden;
+- f). **CFI-benchmark:** benchmark van rapporteurs uit de categorie CFI voor wie een jaarrapportage voor de informatieverzameling van balansgegevens en overige gegevens volstaat in plaats van kwartaalrapportages;
 
-- e. **kredietinstelling:** een kredietinstelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045658&artikel=4&z=2022-01-01&g=2022-01-01) van de verordening kapitaalvereisten, niet zijnde een kredietunie met zetel in Nederland, met dien verstande dat, tenzij anders bepaald, met een kredietinstelling wordt gelijkgesteld de houder van een vergunning als bedoeld in [artikel 3:4 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4);
+- g). **cryptoactivadienstverlener (Crypto-asset Service Provider, CSP):** een aanbieder van cryptoactivadiensten als bedoeld in artikel 3, eerste lid, onder 15 en 16 van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 betreffende cryptoactivamarkten en tot wijziging van [Verordeningen (EU) nr. 1093/2010](32010R1093) en [(EU) nr. 1095/2010](32010R1095) en [Richtlijnen 2013/36/EU](32013L0036) en [(EU) 2019/1937](32019L1937);
 
-- f. **eHerkenning:** partij die het elektronisch verkeer tussen de Bank en erkende authenticatiediensten, middelenuitgevers en machtigingsdiensten routeert teneinde toegang tot elektronische dienstverlening te faciliteren;
+- h). **effecten:** kort- en langlopend schuldpapier, participaties in geldmarktfondsen en beleggingsinstellingen, en beursgenoteerde aandelen;
 
-- g. **rapportage:** uit hoofde van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006547) en deze rapportagevoorschriften door de Bank gevraagde inlichtingen en gegevens voor de samenstelling van de betalingsbalans van Nederland;
+- i). **eHerkenning:** partij die het elektronisch verkeer tussen de Bank en erkende authenticatiediensten, middelenuitgevers en machtigingsdiensten routeert teneinde toegang tot elektronische dienstverlening te faciliteren;
 
-- h. **rapporteur:** ingezetene als bedoeld in [artikel 1, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=1), die door de Bank is aangewezen rapportages op te stellen en aan te leveren;
+- j). **gecentraliseerde rapportage:** rapportage onder een enkel registratienummer betreffende meerdere ingezetenen binnen een groep;
 
-- i. **vertegenwoordiger:** ingezetene die de, al dan niet gecentraliseerde, rapportages namens één of meer rapporteurs opstelt en aanlevert;
+- k). **groep:** economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden;
 
-- j. **Wet:** de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547);
+- l). **kredietinstelling:** een kredietinstelling als bedoeld in artikel 4 van de verordening kapitaalvereisten, niet zijnde een kredietunie met zetel in Nederland, met dien verstande dat, tenzij anders bepaald, met een kredietinstelling wordt gelijkgesteld de houder van een vergunning als bedoeld in [artikel 3:4 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4);
 
-- k. **MESRAP:** Macro-Economische Statistiek Rapportage voor informatieverzameling over balansgegevens en overige gegevens;
+- m). **Lege Financiële Instellingen die securitisatietransacties verrichten (Financial Vehicle Corporations engaged in securitisation transactions, FVC):** een instelling als bedoeld in artikel 1, eerste lid, van de [Verordening (EU) 1075/2013](32013R1075) van de Europese Centrale Bank van 18 oktober 2013 houdende statistieke betreffende de activa en passiva van lege financiële instellingen die securitisatietransacties verrichten;
 
-- l. **MER:** Maandeffectenrapportage voor informatieverzameling over gehouden en uitgegeven effecten;
+- n). **MER:** Maandeffectenrapportage voor informatieverzameling over gehouden en uitgegeven effecten;
 
-- m. **effecten:** kort- en langlopend schuldpapier, participaties in geldmarktfondsen en beleggingsinstellingen, en beursgenoteerde aandelen;
+- o). **MER-profiel:** een selectie van rapportageformulieren voor een categorie van rapporteurs die vergelijkbare attributen over hun effectenhouderschap en -uitgifte dienen te rapporteren;
 
-- n. **MESRAP-profiel:** een selectie van rapportageformulieren voor een categorie van rapporteurs die vergelijkbare activiteiten ontplooien;
+- p). **MESRAP:** Macro-Economische Statistiek Rapportage voor informatieverzameling over balansgegevens en overige gegevens;
 
-- o. **MER-profiel:** een selectie van rapportageformulieren voor een categorie van rapporteurs die vergelijkbare attributen over hun effectenhouderschap en -uitgifte dienen te rapporteren;
+- q). **MESRAP-profiel:** een selectie van rapportageformulieren voor een categorie van rapporteurs die vergelijkbare activiteiten ontplooien;
 
-- p. **Captive financial institutions and money lenders (CFI):** Financiële instellingen en kredietverstrekkers binnen concernverband. De Bijzondere Financiële Instellingen vallen onder deze categorie van instellingen;
+- r). **rapportage:** uit hoofde van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006547) en deze rapportagevoorschriften door de Bank gevraagde inlichtingen en gegevens voor de samenstelling van de betalingsbalans van Nederland;
 
-- q. **CFI-benchmark:** benchmark van rapporteurs uit de categorie CFI voor wie een jaarrapportage voor de informatieverzameling van balansgegevens en overige gegevens volstaat in plaats van kwartaalrapportages.
+- s). **rapporteur:** ingezetene als bedoeld in [artikel 1, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=1), die door de Bank is aangewezen rapportages op te stellen en aan te leveren;
+
+- t). **vertegenwoordiger:** ingezetene die de, al dan niet gecentraliseerde, rapportages namens één of meer rapporteurs opstelt en aanlevert;
+
+- u). **Wet:** de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547).
 
 #### Aanwijzing rapporteurs
 
@@ -101,19 +109,33 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De volgende MESRAP-profielen worden onderscheiden:
 
-| BAL | = Balance sheet total |
-| --- | --- |
-| DNB | = De Nederlandsche Bank |
-| DTC | = Deposit Taking Corporations |
-| FVC | = Financial Corporation Vehicles engaged in securitisation transactions |
-| IC | = Insurance Corporations |
-| IF | = Investment Funds |
-| IFSB | = Investment Funds Shares and Balance sheet total |
-| KEY | = Key-figures |
-| MMF | = Money Market Funds |
-| OFI | = Other Financial Institutions |
-| PF | = Pension Funds |
-| TURN | = Turnover licenses and goods |
+BAL = Balance sheet total
+
+CSP = Crypto-asset Service Provider
+
+DNB = De Nederlandsche Bank
+
+DTC = Deposit Taking Corporations
+
+FVC = Financial Vehicle Corporations engaged in securitisation transactions
+
+IC = Insurance Corporations
+
+IFM = Investment Funds Monthly
+
+IFQ = Investment Funds Quarterly
+
+IFSB = Investment Funds Shares and Balance sheet total
+
+KEY = Key-figures
+
+MMF = Money Market Funds
+
+OFI = Other Financial Institutions
+
+PF = Pension Funds
+
+TURN = Turnover licenses and goods
 
 3. De CFI-benchmark kent geen verdere onderverdeling en alleen het profiel:
 
@@ -150,39 +172,33 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Rapporteurs zijn verplicht wijzigingen in de onder het eerste lid gevraagde inlichtingen en gegevens onverwijld schriftelijk of elektronisch aan de Bank te melden.
 
-3. In geval van een gecentraliseerde rapportage in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045658&artikel=8&z=2022-01-01&g=2022-01-01) is de ingezetene die de gecentraliseerde rapportage opstelt en aanlevert, verplicht de inlichtingen en gegevens voor alle onder de gecentraliseerde rapportage vallende rapporteurs in de zin van het eerste en tweede lid van dit artikel aan de Bank te verstrekken.
+3. In geval van een gecentraliseerde rapportage in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045658&artikel=8&z=2026-01-01&g=2026-01-01) is de ingezetene die de gecentraliseerde rapportage opstelt en aanlevert, verplicht de inlichtingen en gegevens voor alle onder de gecentraliseerde rapportage vallende rapporteurs in de zin van het eerste en tweede lid van dit artikel aan de Bank te verstrekken.
 
-#### Meldingsplicht Bijzondere Financiële Instellingen
+#### Meldingsplicht Bijzondere Financiële Instellingen, Beleggingsfondsen en FVC’s
 
 ##### Artikel 5
 
 1. Bijzondere Financiële Instellingen melden zich niet later dan drie weken na oprichting van de vennootschap schriftelijk bij de Bank, opdat de Bank kan beoordelen of de Bijzondere Financiële Instellingen als rapporteur worden aangewezen.
 
-2. Bij de melding in de zin van het eerste lid van dit artikel verstrekken genoemde instellingen de volgende inlichtingen en gegevens aan de Bank:
+2. De beheerder van een beleggingsfonds stelt de Bank binnen een week na de datum van aanvang van de werkzaamheden in kennis van het bestaan van het beleggingsfonds, tenzij de beheerder het beleggingsfonds op grond van [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) reeds bij de Autoriteit Financiële Markten heeft gemeld.
 
-- a. naam, correspondentie- en bezoekadres;
+3. De beheerder van een beleggingsfonds dat bij de Autoriteit Financiële Markten staat geregistreerd en niet bij de Bank is gemeld, is verplicht om het fonds op verzoek van de Bank alsnog bij de Bank te melden, opdat de Bank kan beoordelen of de beheerder ten aanzien van het beleggingsfonds dient te rapporteren.
 
-- b. datum van oprichting;
+4. Een FVC meldt zich binnen een week na de datum van aanvang van werkzaamheden bij de Bank.
 
-- c. inschrijvingsnummer bij de Kamer van Koophandel;
+5. Voor het doen van een melding in de zin van het eerste, tweede, derde en vierde lid van dit artikel gebruiken de genoemde instellingen het daartoe bestemde formulier op de website van DNB, te raadplegen via: [https://www.dnb.nl/login/dienst-rapportages/statistische-rapportages/aanmeldingsformulieren](https://www.dnb.nl/login/dienst-rapportages/statistische-rapportages/aanmeldingsformulieren).
 
-- d. het balanstotaal;
+6. Bijzondere Financiële Instellingen, beheerders van beleggingsfondsen en FVC’s zijn verplicht wijzigingen in de verstrekte inlichtingen en gegevens onverwijld elektronisch aan de Bank te melden.
 
-- e. aard van de eigen activiteiten;
-
-- f. aard van de activiteiten van de buitenlandse groep waarvan de instelling deel uitmaakt;
-
-- g. gegevens van contactpersonen (naam, aanhef, telefoonnummer, e-mailadres).
-
-3. Bijzondere Financiële Instellingen zijn verplicht wijzigingen in de onder het tweede lid, sub a, e, f en g gevraagde inlichtingen en gegevens onverwijld elektronisch aan de Bank te melden en aan de Bank door te geven wanneer zij hun activiteiten beëindigen.
+7. Bijzondere Financiële Instellingen, beheerders van beleggingsfondsen en FVC’s doen bij het beëindigen van de activiteiten daarvan onverwijld melding bij de Bank.
 
 #### Frequenties en termijnen
 
 ##### Artikel 6
 
-1. Rapporteurs dienen rapportages met het MER-profiel op maandbasis in bij de Bank.
+1. Rapporteurs dienen rapportages met het MER-profiel en het MESRAP-profiel IFM op maandbasis in bij de Bank.
 
-2. Rapporteurs dienen rapportages met een MESRAP-profiel op kwartaalbasis in bij de Bank.
+2. Rapporteurs dienen rapportages met een MESRAP-profiel anders dan IFM op kwartaalbasis in bij de Bank.
 
 3. Rapporteurs dienen de CFI-benchmarkrapportage op jaarbasis in bij de Bank.
 
@@ -190,9 +206,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De kwartaalrapportages gaan over het afgelopen kalenderkwartaal.
 
-- a. Rapporteurs met de MESRAP-profielen DNB, DTC, FVC, IF, IFSB en MMF dienen hun kwartaalrapportages uiterlijk 15 werkdagen na het verstrijken van de laatste dag van elk kalenderkwartaal in bij de Bank. Voor profiel FVC geldt tot het eerste kwartaal van 2024 een overgangsperiode waarin zij de kwartaalrapportage uiterlijk 17 werkdagen na afloop van het kalenderkwartaal indienen bij de Bank.
+- a. Rapporteurs met de MESRAP-profielen DNB, DTC, FVC, IFQ, IFSB en MMF dienen hun kwartaalrapportages uiterlijk 15 werkdagen na het verstrijken van de laatste dag van elk kalenderkwartaal in bij de Bank.
 
-- b. Rapporteurs met de MESRAP-profielen BAL, IC, KEY, OFI, PF en TURN dienen hun kwartaalrapportages uiterlijk 30 kalenderdagen na het verstrijken van de laatste dag van elk kalenderkwartaal in bij de Bank.
+- b. Rapporteurs met de MESRAP-profielen BAL, CSP, IC, KEY, OFI, PF en TURN dienen hun kwartaalrapportages uiterlijk 30 kalenderdagen na het verstrijken van de laatste dag van elk kalenderkwartaal in bij de Bank.
 
 6. Rapporteurs dienen de jaarrapportages uiterlijk 5 maanden na afloop van het kalenderjaar waarin de laatste maand van het boekjaar van de rapporteur valt in bij de Bank.
 
@@ -266,7 +282,7 @@ E-mailadres CFI-benchmark: benchmark@dnb.nl
 
 ##### Artikel 14
 
-Rapportages die na 1 januari 2022 bij of krachtens de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006547) bij de Bank zijn of worden ingediend en die betrekking hebben op een periode vóór inwerkingtreding van deze rapportagevoorschriften, worden geacht te zijn gemaakt op grond van de voor die periode geldende rapportagevoorschriften (RV 2003).
+Vervallen
 
 #### Slotbepalingen
 
