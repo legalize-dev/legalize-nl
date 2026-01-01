@@ -4,7 +4,7 @@ identifier: "BWBR0050447"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050447"
 soort: "zbo"
@@ -41,6 +41,8 @@ De NZa houdt op grond van [artikel 16, sub e, van de Wet marktordening gezondhei
 
 De NZa heeft een wettelijke bevoegdheid om uitstel te verlenen voor het tijdstip van openbaren van de jaarverantwoording op grond van [artikel 12a, derde lid, van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=12a).
 
+Deze bevoegdheid is op grond van [artikel 13b van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=13b) mede van toepassing verklaard voor het tijdstip van overleggen van het niet openbaar gemaakte deel van de jaarverantwoording aan het CIBG.
+
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
@@ -69,7 +71,9 @@ In deze beleidsregel geeft de NZa aan op welke wijze zij uitvoering geeft aan ha
 
 Deze beleidsregel is van toepassing op zorgaanbieders en geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders, met uitzondering van de zorgaanbieders en geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders waarop [artikel 40b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet van toepassing is verklaard in het [Besluit uitbreiding en beperking werkingssfeer WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020326). Deze beleidsregel is ook van toepassing op combinatie-instellingen.
 
-In deze beleidsregel moet in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=4&z=2025-01-01&g=2025-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=5&z=2025-01-01&g=2025-01-01) voor term zorgaanbieder mede worden gelezen: geen rechtspersoonlijkheid bezittend verband van zorgaanbieders, of combinatie-instelling.
+In deze beleidsregel moet in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=5&z=2026-01-01&g=2026-01-01) voor term zorgaanbieder mede worden gelezen: geen rechtspersoonlijkheid bezittend verband van zorgaanbieders, of combinatie-instelling.
+
+In deze beleidsregel moet voor de term ‘openbaren’ mede worden gelezen: ‘overleggen’ in de zin van [artikel 13b Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=13b).
 
 ##### Artikel 4. In behandeling nemen van aanvragen voor uitstel
 
@@ -77,7 +81,7 @@ In deze beleidsregel moet in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:B
 
 - a). De aanvraag is ingediend vóór 1 april van het kalenderjaar volgend op het boekjaar, conform [artikel 12a, vierde lid, van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=12a).
 
-- b). De aanvraag is ingediend via het daartoe bestemde aanvraagformulier, zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=6&z=2025-01-01&g=2025-01-01) van deze beleidsregel.
+- b). De aanvraag is ingediend via het daartoe bestemde aanvraagformulier, zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=6&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
 - c). De aanvraag voldoet aan de vereisten van [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2). Dat betekent dat de aanvraag in elk geval de volgende informatie bevat:
 
@@ -91,21 +95,23 @@ In deze beleidsregel moet in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Wanneer een aanvraag onduidelijk of onvolledig is, dan verzoekt de NZa de aanvrager om de aanvraag aan te vullen binnen vijf dagen. Als de omstandigheden dit vereisen dan kan de NZa een langere of een kortere termijn stellen. Na de gestelde termijn gaat de NZa over op het beoordelen van het uitstelverzoek met inachtneming van de informatie in de oorspronkelijke aanvraag en, indien binnen de termijn is voldaan aan het verzoek, de aanvulling van de aanvraag.
 
-3. De NZa verstuurt het verzoek als bedoeld in lid 2 per e-mail, of indien een (geldig) e-mailadres ontbreekt in de aanvraag, per post naar het adres van de betrokken zorgaanbieder.
+3. De NZa verstuurt het verzoek tot aanvulling als bedoeld in lid 2 per e-mail, of indien een (geldig) e-mailadres ontbreekt in de aanvraag, per post naar het adres van de betrokken zorgaanbieder.
 
 ##### Artikel 5. Inhoudelijke beoordeling van uitstelverzoeken
 
-1. Uitstel wordt toegekend wanneer uit de aanvraag blijkt dat er bijzondere omstandigheden zijn als bedoeld in leden 2 en 3.
+1. Uitstel wordt toegekend wanneer uit de aanvraag blijkt dat er bijzondere omstandigheden zijn als bedoeld in leden 2, 3 of 4.
 
-2. Er is sprake van bijzondere omstandigheden in een situatie van overmacht. Onder overmacht wordt verstaan: een situatie waarin de zorgaanbieder de jaarverantwoording niet tijdig, volledig of juist kan openbaren binnen de daartoe gestelde wettelijke termijn, zonder dat de zorgaanbieder hieraan schuld heeft en zonder dat het risico van het niet tijdig, volledig of juist kunnen openbaren van de jaarverantwoording voor zijn rekening komt.
+2. Er is in ieder geval sprake van bijzondere omstandigheden in een situatie van overmacht. Onder overmacht wordt verstaan: een situatie waarin de zorgaanbieder de jaarverantwoording niet tijdig, volledig of juist kan openbaren binnen de daartoe gestelde wettelijke termijn, zonder dat de zorgaanbieder hieraan schuld heeft en zonder dat het risico van het niet tijdig, volledig of juist kunnen openbaren van de jaarverantwoording voor zijn rekening komt.
 
-3. Er is ook sprake van bijzondere omstandigheden wanneer de zorgaanbieder voor de eerste keer een jaarverantwoording openbaar moet maken op grond van [artikel 40b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), en de aanvraag voor uitstel ziet op de termijn voor openbaarmaking van die jaarverantwoording.
+3. Er is sprake van bijzondere omstandigheden wanneer de zorgaanbieder voor de eerste keer een jaarverantwoording openbaar moet maken op grond van [artikel 40b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), en de aanvraag voor uitstel ziet op de termijn voor openbaarmaking van die jaarverantwoording.
 
-4. Als een aanvraag voor uitstel wordt toegekend, dan wordt uitstel verleend tot 31 december van het kalenderjaar volgend op het boekjaar.
+4. Er is sprake van bijzondere omstandigheden wanneer de zorgaanbieder niet tijdig, volledig of juist kan openbaren en dit het gevolg is van onvoldoende capaciteit bij een financieel dienstverlener. Onder financieel dienstverlener moet worden verstaan: accountant, administratiekantoor, boekhouder, of een partij die hiermee gelijk gesteld kan worden.
+
+5. Als uitstel wordt toegekend wegens bijzondere omstandigheden als bedoeld in lid 2 of lid 3, dan wordt uitstel verleend tot 31 december van het kalenderjaar volgend op het boekjaar. Als uitstel wordt toegekend wegens bijzondere omstandigheden als bedoeld in lid 4, dan wordt uitstel verleend tot 1 oktober van het kalenderjaar volgend op het boekjaar.
 
 ##### Artikel 6. Aanvraagformulier
 
-De NZa stelt het aanvraagformulier, zoals bedoeld in [artikel 12a, vierde lid, van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=12a) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=4&z=2025-01-01&g=2025-01-01), van deze beleidsregel, beschikbaar via haar website ([www.nza.nl](http://www.nza.nl/)).
+De NZa stelt het aanvraagformulier, zoals bedoeld in [artikel 12a, vierde lid, van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=12a) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=4&z=2026-01-01&g=2026-01-01), van deze beleidsregel, beschikbaar via haar website ([www.nza.nl](http://www.nza.nl/)).
 
 ##### Artikel 7. Inwerkingtreding / Bekendmaking
 
