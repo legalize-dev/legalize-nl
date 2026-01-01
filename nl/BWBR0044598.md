@@ -4,7 +4,7 @@ identifier: "BWBR0044598"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-06-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044598"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ Deze paragraaf is van toepassing op vluchten die worden uitgevoerd met een onbem
 
 ##### Artikel 8. Objecten of gebieden die onderdeel uitmaken van vitale processen
 
-Het is verboden met een onbemand luchtvaartuig een vlucht uit te voeren binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van het hoogspanningsnetwerk voor landelijke en regionale transport en distributie van elektriciteit.
+Het is verboden met een onbemand luchtvaartuig een vlucht uit te voeren binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van het transmissiesysteem voor elektriciteit, bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1).
 
 ### Hoofdstuk 3. Inschrijvingen register
 
@@ -152,7 +152,7 @@ Deze regeling treedt in werking met ingang van 31 december 2020.
 
 Deze regeling wordt aangehaald als: Regeling onbemande luchtvaartuigen.
 
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2024-06-01&g=2024-06-01) van de Regeling onbemande luchtvaartuigen
+## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044598&hoofdstuk=2&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) van de Regeling onbemande luchtvaartuigen
 
 Vervallen
 
