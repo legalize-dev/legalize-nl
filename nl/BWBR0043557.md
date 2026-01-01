@@ -4,7 +4,7 @@ identifier: "BWBR0043557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043557"
 soort: "ministeriele-regeling"
@@ -46,57 +46,115 @@ Treedt in werking op het tijdstip waarop het Besluit woningbouwimpuls 2020 in we
 
 In deze regeling wordt verstaan onder:
 
-- a. **aantoonbare financiële tekort:** aantoonbare financiële tekort als bedoeld in [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
+- **aantoonbare financiële tekort:** aantoonbare financiële tekort als bedoeld in [artikel 2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
 
-- b. **besluit:** [Besluit Woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540);
+- **afgebakend projectgebied:** gebied dat zich kenmerkt door ten minste twee van de volgende kenmerken:
 
-- c. **commissie:** Toetsingscommissie Woningbouwimpuls als bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7);
+- a. financiële samenhang;
 
-- d. **functioneel woningmarktgebied:** een gebied dat zich van andere functionele woningmarktgebieden onderscheid in de mate waarin sprake is van een daadwerkelijk regionaal woningtekort, gelet op feitelijke verhuisstromen, zoals ingedeeld door ABF Research in haar Inventarisatie Plancapaciteit van november 2020;
+- b. geografische samenhang; en
 
-- e. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. organisatorische samenhang;
 
-- f. **uitkering:** specifieke uitkering als bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
+- **besluit:** [Besluit Woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540);
 
-- g. **uitkeringsbeschikking:** beschikking als bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
+- **commissie:** Toetsingscommissie Woningbouwimpuls als bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7);
+
+- **functioneel woningmarktgebied:** een gebied dat zich van andere functionele woningmarktgebieden onderscheid in de mate waarin sprake is van een daadwerkelijk regionaal woningtekort, gelet op feitelijke verhuisstromen, zoals ingedeeld door ABF Research in haar Primos-prognose 2025;
+
+- **minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
+
+- **start van de bouwwerkzaamheden:**
+
+- a. **in het geval van nieuwbouw en flexwoningen:** Het begin van bouwactiviteiten van een toegestaan bouwwerk waarover het bevoegd gezag is geïnformeerd of waarvan de feitelijke bouw is aangevangen door minimaal de aanleg van de fundering. Als start van bouwwerkzaamheden geldt: als start van bouwwerkzaamheden geldt niet:
+
+- i. het ontgraven van de grond ten behoeve van de funderingswerkzaamheden van het bouwwerk;
+
+- ii. indien de funderingswerkzaamheden plaatsvinden vóór het ontgraven van de grond, de start van het heiwerk ten behoeve van het bouwwerk; of
+
+- iii. het boren dan wel slaan van een zich onder het perceel van het onderhavige bouwwerk bevindende bron ten behoeve van (bijvoorbeeld) een warmte- en koudeopslaginstallatie; en
+
+- iv. het plaatsen van één of meerdere bouwketen;
+
+- v. het plaatsen van containers ten behoeve van opslag van materialen;
+
+- vi. het inrichten en/of omheinen of uitzetten van het bouwterrein;
+
+- vii. het slaan van de ‘eerste heipaal’, tenzij deze paal echt als eerste wordt geslagen;
+
+- viii. het slaan van een eventueel noodzakelijke damwand;
+
+- ix. het slopen van eventueel nog bestaande opstallen;
+
+- x. het ontgraven van de grond ten behoeve van bijvoorbeeld saneringswerkzaamheden of de grondwaterhuishouding; en
+
+- xi. het bouwrijp maken van het terrein.
+
+- b. **in het geval van verbouw:** toegestane verbouwactiviteiten van een ter plaatse toegestaan bestaand bouwwerk, waarbij sprake is van minimaal constructieve maatregelen aan het bestaande bouwwerk en/of de toevoeging van vierkante meters ruimten met woonfunctie, waaronder in ieder geval transformatie, splitsen en optoppen. Als start van bouwwerkzaamheden bij verbouw geldt:
+
+- i. het toevoegen/aanpassen van een nieuwe draagstructuur;
+
+- ii. het aanleggen/aanpassen van een additionele nutsvoorziening;
+
+- iii. het toevoegen van ontsluitingsroutes in het gebouw;
+
+- iv. in het geval van optoppen betreft het startmoment het plaatsen van een woning op het dak of het aanbrengen van constructieve voorzieningen;
+
+- v. in het geval transformatie betreft het startmoment de eerste bouwkundige verbouwhandeling die voortkomt uit de onderliggende omgevingsvergunning; of
+
+- vi. in het geval splitsen betreft het startmoment het realiseren van gescheiden toegangen tot de woningen, het plaatsen van woningscheidende wanden of het realiseren van fysiek gescheiden nutsvoorzieningen;
+
+- **uitkering:** specifieke uitkering als bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
+
+- **uitkeringsbeschikking:** beschikking als bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4);
+
+- **woning:** een zelfstandige woonruimte, een gebouw bestaande uit onzelfstandige woonruimten, of een woonwagen.
 
 ##### Artikel 2. Nadere regels inzake de activiteiten waarvoor een uitkering kan worden verstrekt
 
-1. Een project wordt overeenkomstig [artikel 2, eerste lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2) binnen afzienbare tijd opgestart, indien de eerste bouwwerkzaamheden binnen het project uiterlijk binnen drie jaren na de datum van de uitkeringsbeschikking aanvangen en de overige bouwwerkzaamheden uiterlijk binnen tien jaren na die datum aanvangen.
+De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project dat is gericht op het uitvoeren van activiteiten die zijn gericht op:
 
-2. Een financiële bijdrage als bedoeld in [artikel 2, eerste lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als deze ten minste 50% van het aantoonbare financiële tekort van het project bedraagt.
+- 1). de toerekenbare infrastructurele ontsluiting;
 
-3. Het aandeel betaalbare woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als het ten minste 50% van de door het project toegevoegde woningen betreft.
+- 2). verlaging van de stikstofdepositie in stikstofgevoelige Natura-2000 gebieden;
 
-4. Het aantal woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als dit ten minste 200 woningen betreft.
+- 3). bodemsanering in een afgebakend projectgebied; of
 
-##### Artikel 3. Uitkeringsplafond
+- 4). uitplaatsing van activiteiten die de realisatie van woningen beperken of belemmeren.
 
-In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkeringen.
+##### Artikel 3. Nadere voorwaarden projecten waarvoor een uitkering kan worden verstrekt
+
+1. De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project dat is gericht op:
+
+de netto toevoeging van minstens 200 woningen in een afgebakend projectgebied, met een minimaal aandeel van 50% betaalbare woningen.
+
+2. Een project wordt binnen afzienbare tijd als bedoeld in [artikel 2, eerste lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2) opgestart, indien de start van de bouwwerkzaamheden binnen het project uiterlijk binnen drie jaren na de datum van de uitkeringsbeschikking aanvangen en de overige bouwwerkzaamheden uiterlijk binnen tien jaren na die datum aanvangen.
+
+3. Een financiële bijdrage als bedoeld in [artikel 2, eerste lid, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als deze ten minste 50% van het aantoonbare financiële tekort van het project bedraagt.
 
 ##### Artikel 4. De aanvraag
 
 1. De minister kan besluiten een aanvraagtijdvak te openen waarin uitsluitend colleges van burgemeester en wethouders die in een voorafgaand aanvraagtijdvak een aanvraag hebben ingediend die is afgewezen een aanvraag kunnen doen voor hetzelfde project als waarop de afgewezen aanvraag zag. Het aanvraagtijdvak vangt aan binnen 17 weken na het sluiten van het voorafgaande aanvraagtijdvak.
 
-2. Een omschrijving van een project als bedoeld in [artikel 4, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bestaat in ieder geval uit:
+2. Een omschrijving van een project als bedoeld in [artikel 4, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bestaat in ieder geval uit:
 
-- a. een toelichting op de geografische afbakening van het project;
+- a. een toelichting op de ligging en afbakening van het projectgebied;
 
-- b. een toelichting op het project, waaronder in ieder geval een toelichting op de noodzaak, toerekenbaarheid en proportionaliteit van de activiteiten van de gemeente ten behoeve van de te realiseren woningen;
+- b. een omschrijving van het project, waaronder in ieder geval een toelichting op noodzaak van de uit te voeren activiteiten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- c. een kwantitatief overzicht van de te realiseren woningen; en
+- c. een kwantitatief overzicht van de te realiseren woningen uitgesplitst naar de categorieën betaalbare woningen;
 
-- d. een toelichting op de kwaliteit van de te bouwen woningen en van de leefomgeving.
+- d. de verwachte begin- en einddatum van het project.
 
-3. Een haalbaarheidsstudie als bedoeld in [artikel 4, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bevat:
+3. Een haalbaarheidsstudie als bedoeld in [artikel 4, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), is een grondexploitatie en bevat ten minste:
 
 - a. een begroting en prognose van publieke kosten en opbrengsten, waarmee het aantoonbare financiële tekort wordt onderbouwd;
 
-- b. een toelichting op de kosten en opbrengsten zoals opgenomen in de begroting en prognose;
+- b. een toelichting op de kosten en opbrengsten zoals opgenomen in de in onderdeel a bedoelde begroting en prognose, waaronder in ieder geval een toelichting op de noodzaak, toerekenbaarheid en proportionaliteit van de activiteiten van de gemeente ten behoeve van de te realiseren woningen;
 
-- c. een overzicht van de stand van zaken van het project op het moment waarop de aanvraag is ingediend, waarin wordt ingegaan op de fasering van de woningbouw, de organisatie van het project en de zekerheid van een tijdige realisatie;
+- c. een overzicht van de stand van zaken van het project op het moment waarop de aanvraag is ingediend;
 
-- d. een toelichting op de noodzaak van een bijdrage en het regionaal belang van het project.
+- d. een toelichting op de haalbaarheid van de verwachte begin- en einddatum van het project, waarin wordt ingegaan op de fasering van de woningbouw, de organisatie van het project en de zekerheid van een tijdige realisatie.
 
 4. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
@@ -120,15 +178,15 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 ##### Artikel 5. Scoring van aanvragen
 
-De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2025-08-01&g=2025-08-01). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
+De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2026-01-01&g=2026-01-01). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
 
 ##### Artikel 6. Rangschikking van aanvragen
 
-1. Indien meerdere aanvragen gelijk scoren bij de weging op grond van [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), en de toekenning van uitkeringen zou leiden tot overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, worden die aanvragen onderling gerangschikt op grond van de behaalde score bij het criterium effectiviteit.
+1. Indien meerdere aanvragen gelijk scoren bij de weging op grond van [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), en de toekenning van uitkeringen zou leiden tot overschrijding van het krachtens [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, worden die aanvragen onderling gerangschikt op grond van de behaalde score bij het criterium effectiviteit.
 
 2. Indien na toepassing van het eerste lid nog steeds meerdere aanvragen gelijk scoren worden die aanvragen onderling gerangschikt op grond van de hoogte van de gevraagde bijdrage per woning, waarbij de aanvraag met de laagste bijdrage per woning het hoogst eindigt.
 
-3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2025-08-01&g=2025-08-01), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
+3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2026-01-01&g=2026-01-01), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
 
 ##### Artikel 7. Weigeringsgronden
 
@@ -138,17 +196,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 - b. de score op een van de criteria, genoemd in [artikel 5, tweede lid, onder 1°, 2° of 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), lager is dan een 5,5.
 
-2. Bij de beoordeling, bedoeld in [artikel 6, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=6) worden de volgende regio’s onderscheiden:
-
-- a. Noord: de provincies Drenthe, Friesland en Groningen;
-
-- b. Oost: de provincies Gelderland en Overijssel;
-
-- c. Noordwest: de provincies Flevoland, Noord-Holland en Utrecht;
-
-- d. Zuidwest: de provincies Zeeland en Zuid-Holland; en
-
-- e. Zuid: de provincies Noord-Brabant en Limburg.
+2. Bij de beoordeling, bedoeld in [artikel 6, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=6) worden als regio’s onderscheiden: de provincies.
 
 3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de minister in het kader van de in de meest actuele staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen.
 
@@ -156,7 +204,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vier leden.
 
-2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2025-08-01&g=2025-08-01), is uitgeput.
+2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2026-01-01&g=2026-01-01), is uitgeput.
 
 3. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -211,13 +259,13 @@ Dit hoofdcriterium onderscheidt zich van de andere drie hoofdcriteria omdat de s
 
 ### Beoordelingscriteria en weging
 
-### 1. Noodzakelijkheid uitkering
+### Beoordelingscriteria en weging
 
-In dit criterium wordt de noodzaak van de gevraagde uitkering gewogen. In de weging wordt naar drie subcriteria gekeken:
+De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,30 + deelscore effectiviteit*0,30 + deelscore efficiëntie*0,15 + deelscore urgentie*0,25.
 
-### 2. Effectiviteit project
+### 1. Noodzaak specifieke uitkering
 
-Op basis van dit criterium wordt gewogen in welke mate een project voldoet aan de doelen van de woningbouwimpuls. In de weging wordt naar drie subcriteria gekeken:
+In dit criterium staat de beoordeling van de noodzaak van de aangevraagde specifieke uitkering centraal. Daarvoor wordt gekeken of er sprake is van een realistisch en marktconform publiek tekort en de gevraagde bijdrage die daaruit voortkomt. De beoordeling van dit onderdeel omvat in ieder geval een toetsing op in hoeverre er daadwerkelijk sprake is van een tekort, hoe goed dit tekort is onderbouwd, of de gehanteerde uitgangspunten passen bij het beleid en in welke mate het tekort kwalitatief, programmatisch en financieel is geoptimaliseerd.
 
 ### 3. Efficiëntie project
 
@@ -227,18 +275,32 @@ Op basis van dit hoofdcriterium wordt gewogen in welke mate er sprake is van een
 
 Dit hoofdcriterium onderscheidt zich van de andere drie hoofdcriteria omdat de score op dit criterium vaststaat en niet afzonderlijk beoordeeld hoeft te worden door de commissie. De score wordt wel meegenomen bij het bepalen van de totaalscore door de toetsingscommissie.
 
-Het hoofdcriterium urgentie betreft de omvang van de woningbouwopgave in de regio waar de aanvragende gemeente is gelegen. In [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=7&z=2021-07-21&g=2021-07-21), is beschreven hoe de woningbouwopgave wordt bepaald. Er worden drie klassen onderscheiden in urgentie:
+Op basis van dit criterium wordt beoordeeld in hoeverre sprake is van een gerichte en doelmatige inzet van financiële middelen. De beoordeling richt zich op de proportionaliteit van de aangevraagde specifieke uitkering ten opzichte van het aantal te realiseren woningen. Hierbij wordt onder meer gekeken naar de gemiddelde bijdrage per woning en de verhouding tussen de aangevraagde uitkering en de gemeentelijke bijdrage.
 
-Gemeenten met een woondeal krijgen 2 extra punten. De maximale score voor urgentie is 10 punten.
+Bij de beoordeling moet ook rekening worden gehouden met het belang van bedrijven en ruimte voor werk. Om te voorkomen dat rijksmiddelen ongewild bijdraagt aan het verplaatsen van vitale en/of kritische bedrijven ten behoeve van woningbouw wordt een doelmatigheidstoets uitgevoerd op dit type ingediende gebiedsmaatregelen. Bij deze toets is de desbetreffende verplaatsing beoordeeld op de prijs per m² kavel waarbij een bandbreedte is gehanteerd van € 1.300 – 1.400 aan maximale kosten. Daarnaast is beoordeeld of er (voldoende) compensatieruimte beschikbaar is gesteld om bedrijven een geschikt alternatief te kunnen bieden
 
-### Schematische weergave beoordelingskader
+### 4. Urgentie
+
+Dit hoofdcriterium onderscheidt zich van de andere drie hoofdcriteria omdat de score op dit criterium vaststaat en niet afzonderlijk beoordeeld hoeft te worden door de commissie. De score wordt wel meegenomen bij het bepalen van de totaalscore door de toetsingscommissie. Het hoofdcriterium urgentie betreft:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 1a. Grondslag
+
+Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), en [4, vierde lid, van het Besluit Woningimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
+
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2026-01-01&g=2026-01-01)
+
+Aan de hand van het tweede subcriterium wordt bepaald in hoeverre het project bijdraagt aan de betaalbaarheidsprogrammering in de regionale woningbouwopgave (indicator 1) en de nationale woningbouwopgave (indicator 2).
+
+### 2. Effectiviteit project
+
+Aan de hand van eerste subcriterium wordt bepaald in hoeverre het realistisch is dat het project start met de bouw binnen de gestelde termijnen van drie jaar (eerste woning) en 10 jaar (laatste woning). Daarbij wordt gekeken naar de hardheid van de plannen, zoals de huidige status van het proces, de nog te doorlopen planologische procedures en de mate van zekerheid dat het project bij een positief besluit doorgaat, tijdig van start gaat en voortvarend wordt gerealiseerd. Ook de mate waarin relevante stakeholders de inschrijving steunen wordt meegewogen in de beoordeling. Daarnaast wordt gekeken of de inzet van instrumenten als parallel plannen of een (regionale) versnellingstafel kunnen bijdragen aan de haalbaarheid van het project.
+
+### 3. Efficiëntie project
