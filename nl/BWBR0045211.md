@@ -4,7 +4,7 @@ identifier: "BWBR0045211"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045211"
 soort: "AMvB"
@@ -94,7 +94,7 @@ Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van S
 
 ##### Artikel 3.4
 
-1. Onverminderd [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2024-07-01&g=2024-07-01), is een leidinggevende niet binnen de laatste vijf jaar bij meer dan één uitspraak onherroepelijk veroordeeld tot een onvoorwaardelijke geldboete van € 500,– of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) wegens dan wel mede wegens overtreding van:
+1. Onverminderd [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), is een leidinggevende niet binnen de laatste vijf jaar bij meer dan één uitspraak onherroepelijk veroordeeld tot een onvoorwaardelijke geldboete van € 500,– of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) wegens dan wel mede wegens overtreding van:
 
 - a. bepalingen gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) en de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
@@ -114,7 +114,7 @@ Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van S
 
 3. Met een veroordeling tot een onvoorwaardelijke geldboete van € 500,– of meer als bedoeld in het eerste lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige voorwaardelijke straf.
 
-4. [Artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2024-07-01&g=2024-07-01), is van toepassing.
+4. [Artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 5. De bedragen, genoemd in het eerste, tweede en derde lid, worden elke twee jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling, aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van deze bedragen. Bij deze aanpassing wordt het geldbedrag op een veelvoud van € 5,– naar beneden afgerond.
 
@@ -122,11 +122,11 @@ Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van S
 
 1. Een leidinggevende is binnen de laatste vijf jaar geen leidinggevende geweest van een inrichting waarvan de vergunning is ingetrokken op grond van [artikel 31, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=31) of die voor ten minste een maand is gesloten op grond van [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) of van [artikel 174 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of van een op grond van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) vastgestelde verordening, tenzij aannemelijk is dat hem ter zake geen verwijt treft.
 
-2. [Artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2024-07-01&g=2024-07-01), is van toepassing.
+2. [Artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 ##### Artikel 3.6
 
-Voor de berekening van de laatste vijf jaar, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2024-07-01&g=2024-07-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.4&z=2024-07-01&g=2024-07-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.5&z=2024-07-01&g=2024-07-01), telt de periode waarin een onvoorwaardelijke vrijheidsstraf is ondergaan, niet mee.
+Voor de berekening van de laatste vijf jaar, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.4&z=2026-01-01&g=2026-01-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.5&z=2026-01-01&g=2026-01-01), telt de periode waarin een onvoorwaardelijke vrijheidsstraf is ondergaan, niet mee.
 
 ### Hoofstuk 4. Sociale hygiëne
 
@@ -150,7 +150,7 @@ Voor de berekening van de laatste vijf jaar, bedoeld in [artikel 3.3](https://we
 
 - h. de verschillende bedrijfsformules en gedragskenmerken van de verschillende doelgroepen.
 
-2. De eisen, bedoeld in het eerste lid, onderdelen a tot en met h, zijn nader uitgewerkt in de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2024-07-01&g=2024-07-01) te behalen eindtermen.
+2. De eisen, bedoeld in het eerste lid, onderdelen a tot en met h, zijn nader uitgewerkt in de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2026-01-01&g=2026-01-01) te behalen eindtermen.
 
 ##### Artikel 4.2
 
@@ -202,19 +202,19 @@ Een leeftijdsverificatiesysteem als bedoeld in [artikel 20a, eerste lid, onderde
 
 ##### Artikel 7.1
 
-Als bijlage als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44b) wordt vastgesteld de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2024-07-01&g=2024-07-01).
+Als bijlage als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44b) wordt vastgesteld de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 7.2
 
-1. Voor in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2024-07-01&g=2024-07-01) omschreven overtredingen van voorschriften gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), bepaalt het in de kolommen I en II opgenomen bedrag de bestuurlijke boete die opgelegd kan worden.
+1. Voor in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01) omschreven overtredingen van voorschriften gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), bepaalt het in de kolommen I en II opgenomen bedrag de bestuurlijke boete die opgelegd kan worden.
 
 2. Het bedrag van de op te leggen boete wordt elke twee jaar, met ingang van 1 januari van een jaar, bij ministeriele regeling aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van dit bedrag. Bij deze aanpassing wordt dit bedrag op een veelvoud van € 5 naar beneden afgerond.
 
 ##### Artikel 7.3
 
-1. Het in kolom I van de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2024-07-01&g=2024-07-01) genoemde bedrag geldt voor de natuurlijke persoon of rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde.
+1. Het in kolom I van de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01) genoemde bedrag geldt voor de natuurlijke persoon of rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde.
 
-2. Het in kolom II van de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2024-07-01&g=2024-07-01) genoemde bedrag geldt voor de natuurlijke persoon of rechtspersoon die op de dag waarop de overtreding is begaan vijftig of meer werknemers telde.
+2. Het in kolom II van de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01) genoemde bedrag geldt voor de natuurlijke persoon of rechtspersoon die op de dag waarop de overtreding is begaan vijftig of meer werknemers telde.
 
 3. Het in de kolommen I en II opgenomen bedrag van de bestuurlijke boete wordt met 50% verhoogd, indien aan de natuurlijke persoon of de rechtspersoon aan wie de overtreding kan worden toegerekend, door de burgemeester of Onze Minister een bestuurlijke boete is opgelegd wegens overtreding van hetzelfde artikel van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) en er nog geen twaalf maanden zijn verlopen sinds die eerdere bestuurlijke boete onherroepelijk is geworden.
 
@@ -289,7 +289,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.1a
 
-Een diploma wordt door de Landelijke commissie sociale hygiëne erkend als bewijsstuk indien het diploma in ieder geval voldoet aan de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2024-07-01&g=2024-07-01) vastgestelde eindtermen.
+Een diploma wordt door de Landelijke commissie sociale hygiëne erkend als bewijsstuk indien het diploma in ieder geval voldoet aan de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2026-01-01&g=2026-01-01) vastgestelde eindtermen.
 
 ### Hoofdstuk 5. Verkoop op afstand
 
@@ -301,16 +301,16 @@ Een diploma wordt door de Landelijke commissie sociale hygiëne erkend als bewij
 
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage I. als bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.1&z=2024-07-01&g=2024-07-01), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.2&z=2024-07-01&g=2024-07-01) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.3&z=2024-07-01&g=2024-07-01)
+## Bijlage I. als bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.1&z=2026-01-01&g=2026-01-01), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.2&z=2026-01-01&g=2026-01-01) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=7&artikel=7.3&z=2026-01-01&g=2026-01-01)
 
 | Overtreding | Boetebedrag (€) | Boetebedrag (€) |
 | --- | --- | --- |
 |   | I | II |
-| Categorie A [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) (als de vergunning nog niet is verleend) [Artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=4) [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=9) [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=9) [Artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29) [Artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) | 780 | 1565 |
-| Categorie B [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=4) [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12) [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12) [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14) [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14) [Artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14a) [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=15) [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=15) [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=16) [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=17) [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18) [Artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=19) [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=19) [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25a) [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25b) [Artikel 25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25c) [Artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25d) [Artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) | 1175 | 2350 |
-| Categorie C [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2) [Artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2a) [Artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2a) [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) (als de vergunning niet is aangevraagd of is geweigerd) [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=13) [Artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=13) [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18) [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 20a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a) [Artikel 20a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a) [Artikel 22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25e](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25e) [Artikel 25f, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f) [Artikel 25f, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f) [Artikel 25g](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25g) [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=38) | 1565 | 3135 |
+| Categorie A [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) (als de vergunning nog niet is verleend) [Artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=4) [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=9) [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=9) [Artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29) [Artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) | 780per 1 januari 2026: 830 | 1565per 1 januari 2026: 1665 |
+| Categorie B [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=4) [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12) [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12) [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14) [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14) [Artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=14a) [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=15) [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=15) [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=16) [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=17) [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18) [Artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=19) [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=19) [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24) [Artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25a) [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25b) [Artikel 25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25c) [Artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25d) [Artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) | 1175per 1 januari 2026: 1250 | 2350per 1 januari 2026: 2505 |
+| Categorie C [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2) [Artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2a) [Artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=2a) [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) (als de vergunning niet is aangevraagd of is geweigerd) [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=13) [Artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=13) [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18) [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20) [Artikel 20a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a) [Artikel 20a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a) [Artikel 22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 22, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=22) [Artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25) [Artikel 25e](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25e) [Artikel 25f, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f) [Artikel 25f, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f) [Artikel 25g](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25g) [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=38) | 1565per 1 januari 2026: 1665 | 3135per 1 januari 2026: 3345 |
 
-## Bijlage II. als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=4&artikel=4.1&z=2024-07-01&g=2024-07-01)
+## Bijlage II. als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01)
 
 ### Eindterm 1:. Sociale Hygiëne
 
