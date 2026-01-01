@@ -4,7 +4,7 @@ identifier: "BWBR0046239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046239"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ De bijsluiter bij een diergeneesmiddel wordt op papier of in elektronische vorm 
 
 - a. de minister of de Europese Commissie voor het diergeneesmiddel een vergunning voor het in de handel brengen heeft verleend op grond van de artikelen 44, 47, 49, 52, 53 of 54 van [verordening (EU) nr. 2019/6](31906R2019);
 
-- b. het een diergeneesmiddel betreft als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01);
+- b. het een diergeneesmiddel betreft als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01);
 
 - c. de kleinhandelaar een dierenarts is die het dier op zijn verantwoordelijkheid door de houder van het dier laat behandelen overeenkomstig de artikelen 112, 113 of 114 van [verordening (EU) nr. 2019/6](31906R2019);
 
@@ -190,13 +190,13 @@ De bijsluiter bij een diergeneesmiddel wordt op papier of in elektronische vorm 
 
 Een kleinhandelaar levert voorschriftplichtige diergeneesmiddelen uitsluitend af aan een houder van een dier:
 
-- a. in een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-01-01&g=2025-01-01); of
+- a. in een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-01-01&g=2026-01-01); of
 
-- b. vanuit een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-01-01&g=2025-01-01) bij het bedrijf, met een voor het diergeneesmiddel geschikte wijze van vervoer.
+- b. vanuit een lokaal als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-01-01&g=2026-01-01) bij het bedrijf, met een voor het diergeneesmiddel geschikte wijze van vervoer.
 
 ##### Artikel 3.5. Bewaren van diergeneesmiddelen
 
-Een kleinhandelaar bewaart uitsluitend diergeneesmiddelen die hij mag leveren op grond van [artikel 3.1, eerste lid, aanhef en onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01).
+Een kleinhandelaar bewaart uitsluitend diergeneesmiddelen die hij mag leveren op grond van [artikel 3.1, eerste lid, aanhef en onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2026-01-01&g=2026-01-01).
 
 #### § 2. Gebruik van diergeneesmiddelen
 
@@ -268,11 +268,11 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.9. Gebruik antimicrobieel diergeneesmiddel
 
-1. Een houder van vijf of meer varkens, vijf of meer vleeskalveren, vijf of meer melkveerunderen, 25 of meer geiten, 250 of meer kalkoenen, 250 of meer konijnen of 250 of meer vleeskuikens past antimicrobiële diergeneesmiddelen toe overeenkomstig de [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-01-01&g=2025-01-01).
+1. Een houder van vijf of meer varkens, vijf of meer vleeskalveren, vijf of meer melkveerunderen, 25 of meer geiten, 250 of meer kalkoenen, 250 of meer konijnen of 250 of meer vleeskuikens past antimicrobiële diergeneesmiddelen toe overeenkomstig de [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2026-01-01&g=2026-01-01).
 
 2. Een houder die dieren houdt, anders dan de dieren, bedoeld in het eerste lid, past een antimicrobieel diergeneesmiddel toe overeenkomstig het behandeladvies van de dierenarts.
 
-3. De [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2025-01-01&g=2025-01-01) zijn uitsluitend van toepassing op houders als bedoeld in het eerste lid.
+3. De [artikelen 3.10 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2026-01-01&g=2026-01-01) zijn uitsluitend van toepassing op houders als bedoeld in het eerste lid.
 
 ##### Artikel 3.10. Overeenkomst dierhouder en dierenarts bij gebruik antimicrobieel diergeneesmiddel
 
@@ -280,7 +280,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Indien de houder bij meerdere diersoorten antimicrobiële diergeneesmiddelen gebruikt, heeft de houder één overeenkomst per diersoort.
 
-3. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2025-01-01&g=2025-01-01) en [3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01), [artikel 1.28, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28) en [artikel 5.9, tweede lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=5.9), opgenomen.
+3. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2026-01-01&g=2026-01-01) en [3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01), [artikel 1.28, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28) en [artikel 5.9, tweede lid, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=5.9), opgenomen.
 
 4. De houder en dierenarts handelen overeenkomstig het bepaalde in de overeenkomst.
 
@@ -332,7 +332,7 @@ De houder:
 
 5. In afwijking van het vierde lid, kan het bezoek voor melkveerunderen eenmaal per zes maanden plaatsvinden, mits in de tussenliggende periode een beoordeling en een evaluatie als bedoeld in het derde lid, onderdelen a respectievelijk b, plaatsvindt en hiervan een verslag wordt gemaakt.
 
-6. De dierenarts bezoekt het bedrijf, waarbij een individuele behandeling als bedoeld in [artikel 3.13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2025-01-01&g=2025-01-01), plaatsvindt ten minste eenmaal per twee weken bij behandeling van:
+6. De dierenarts bezoekt het bedrijf, waarbij een individuele behandeling als bedoeld in [artikel 3.13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2026-01-01&g=2026-01-01), plaatsvindt ten minste eenmaal per twee weken bij behandeling van:
 
 - 1°. biggen tot en met de leeftijd van acht weken;
 
@@ -340,7 +340,7 @@ De houder:
 
 7. Bij een bezoek als bedoeld in het zesde lid, laat de dierenarts een schriftelijke instructie inzake het gebruik van het middel achter, waarin in ieder geval de mogelijk te behandelen dieren ondubbelzinnig geïdentificeerd worden, dan wel het moederdier indien het een ongeboren dier betreft.
 
-8. De houder bewaart de verslagen, bedoeld in het tweede lid, onderdeel b, en het vijfde lid, alsmede de instructie, bedoeld in het zevende lid en in [artikel 3.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2025-01-01&g=2025-01-01), gedurende vijf jaar op zijn bedrijf.
+8. De houder bewaart de verslagen, bedoeld in het tweede lid, onderdeel b, en het vijfde lid, alsmede de instructie, bedoeld in het zevende lid en in [artikel 3.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2026-01-01&g=2026-01-01), gedurende vijf jaar op zijn bedrijf.
 
 ##### Artikel 3.13. Bedrijfsgezondheidsplan en bedrijfsbehandelplan
 
@@ -370,7 +370,7 @@ De houder:
 
 - 2°. in het bedrijfsgezondheidsplan maatregelen zijn opgenomen om de uitbraak voor die aandoeningen te bestrijden en herhaling te voorkomen.
 
-4. Behoudens de gevallen, genoemd [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01), vraagt de houder bij een individuele behandeling van dieren als bedoeld in het derde lid, onderdeel c, toestemming aan de dierenarts. De dierenarts stelt vervolgens een schriftelijke instructie inzake het gebruik van het middel op voor de houder, inclusief de datum en tijd van de toestemming voor de behandeling.
+4. Behoudens de gevallen, genoemd [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01), vraagt de houder bij een individuele behandeling van dieren als bedoeld in het derde lid, onderdeel c, toestemming aan de dierenarts. De dierenarts stelt vervolgens een schriftelijke instructie inzake het gebruik van het middel op voor de houder, inclusief de datum en tijd van de toestemming voor de behandeling.
 
 5. Op het bedrijf van de houder mogen niet meer antimicrobiële middelen aanwezig zijn dan de hoeveelheid:
 
@@ -390,7 +390,7 @@ voor zover geen van de door de houder gehouden dieren waarop de overeenkomst bet
 
 ##### Artikel 3.14. Beëindiging van de overeenkomst
 
-1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in [artikel 3.12, tweede lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01), en het bedrijfsgezondheidsplan, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2025-01-01&g=2025-01-01), ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.
+1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in [artikel 3.12, tweede lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01), en het bedrijfsgezondheidsplan, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2026-01-01&g=2026-01-01), ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.
 
 2. De reden van het opzeggen van de overeenkomst wordt door de dierenarts waarmee de overeenkomst eindigt, in het bedrijfsgezondheidsplan vermeld.
 
@@ -406,15 +406,15 @@ De dierenarts doet binnen tien werkdagen na het sluiten of eindigen van de overe
 
 1. Een houder van dieren die een structureel laag gebruik van antimicrobiële middelen heeft, is uitgezonderd van de verplichtingen, bedoeld in:
 
-- a. [artikel 3.12, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01);
+- a. [artikel 3.12, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01);
 
-- b. [artikel 3.12, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01);
+- b. [artikel 3.12, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01);
 
-- c. [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01);
+- c. [artikel 3.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01);
 
-- d. [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2025-01-01&g=2025-01-01).
+- d. [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2026-01-01&g=2026-01-01).
 
-2. Ingeval de houder is uitgezonderd van de verplichting, bedoeld in het eerste lid, onderdeel b, zorgt hij er voor dat de dierenarts, bedoeld in [artikel 3.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2025-01-01&g=2025-01-01), eenmaal per jaar een bezoek aan zijn bedrijf brengt.
+2. Ingeval de houder is uitgezonderd van de verplichting, bedoeld in het eerste lid, onderdeel b, zorgt hij er voor dat de dierenarts, bedoeld in [artikel 3.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01), eenmaal per jaar een bezoek aan zijn bedrijf brengt.
 
 ### Hoofdstuk 4. Retributies
 
@@ -422,25 +422,25 @@ De dierenarts doet binnen tien werkdagen na het sluiten of eindigen van de overe
 
 ##### Artikel 4.1. Instandhouding vergunningen en registraties
 
-1. Een houder van een vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 5, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 619,00 voor de instandhouding van die vergunning.
+1. Een houder van een vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 5, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 655,00 voor de instandhouding van die vergunning.
 
-2. Een houder van een registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 310,00 voor de instandhouding van die registratie.
+2. Een houder van een registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 328,00 voor de instandhouding van die registratie.
 
 3. In afwijking van het eerste en tweede lid bedraagt de vergoeding een gedeelte van een jaar nadat de vergunning is verstrekt naar rato van het aantal maanden waarin het is toegestaan het diergeneesmiddel in de handel te brengen.
 
-4. Een houder van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 62,00 voor de instandhouding van die vergunning.
+4. Een houder van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 66,00 voor de instandhouding van die vergunning.
 
-5. Een houder van een vergunning voor groothandel als bedoeld in artikel 99, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 62,00 voor de instandhouding van die vergunning.
+5. Een houder van een vergunning voor groothandel als bedoeld in artikel 99, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 66,00 voor de instandhouding van die vergunning.
 
-6. Een houder van een vergunning voor kleinhandel als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) is jaarlijks een retributie verschuldigd van € 62,00 voor de instandhouding van die vergunning.
+6. Een houder van een vergunning voor kleinhandel als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) is jaarlijks een retributie verschuldigd van € 66,00 voor de instandhouding van die vergunning.
 
-7. Een importeur, fabrikant of distributeur van werkzame stoffen bestemd voor diergeneesmiddelen die zich heeft aangemeld overeenkomstig artikel 95, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 35,00 voor de instandhouding van de aanmelding.
+7. Een importeur, fabrikant of distributeur van werkzame stoffen bestemd voor diergeneesmiddelen die zich heeft aangemeld overeenkomstig artikel 95, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is jaarlijks een retributie verschuldigd van € 37,00 voor de instandhouding van de aanmelding.
 
-8. Een houder van een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2025-01-01&g=2025-01-01) is jaarlijks een retributie verschuldigd van € 62,00 voor de instandhouding van die vergunning.
+8. Een houder van een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2026-01-01&g=2026-01-01) is jaarlijks een retributie verschuldigd van € 66,00 voor de instandhouding van die vergunning.
 
-9. Een houder van een registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01), is jaarlijks een retributie verschuldigd van € 310,00 voor de instandhouding van die registratie.
+9. Een houder van een registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), is jaarlijks een retributie verschuldigd van € 328,00 voor de instandhouding van die registratie.
 
-10. Voor de instandhouding van de opname in de lijst, bedoeld in artikel 104, achtste lid, onderdeel c, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een jaarlijkse retributie verschuldigd van € 35,00.
+10. Voor de instandhouding van de opname in de lijst, bedoeld in artikel 104, achtste lid, onderdeel c, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een jaarlijkse retributie verschuldigd van € 37,00.
 
 11. Dit artikel is uitsluitend van toepassing op vergunningen en registraties die door de minister zijn verstrekt.
 
@@ -452,55 +452,55 @@ Deze paragraaf is uitsluitend van toepassing op diergeneesmiddelen die zijn best
 
 ##### Artikel 4.3. Vergunning voor het in de handel brengen
 
-1. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 26.048,00.
+1. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 27.559,00.
 
 2. Voor de behandeling van een aanvraag voor een gedecentraliseerde vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 49 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van:
 
-- a. € 41.471,00, indien Nederland referentielidstaat is;
+- a. € 43.876,00, indien Nederland referentielidstaat is;
 
-- b. € 16.161,00, indien Nederland geen referentielidstaat is.
+- b. € 17.098,00, indien Nederland geen referentielidstaat is.
 
 3. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6, inclusief een voorafgaande nationale vergunning voor het in de handel brengen, is de aanvrager een retributie verschuldigd van:
 
-- a. € 41.471,00, indien Nederland referentielidstaat is;
+- a. € 43.876,00, indien Nederland referentielidstaat is;
 
-- b. € 10.229,00, indien Nederland geen referentielidstaat is.
+- b. € 10.822,00, indien Nederland geen referentielidstaat is.
 
-4. Voor de behandeling van een aanvraag voor een vervolgerkenning in de procedures voor wederzijdse erkenning en voor gedecentraliseerde vergunningen voor het in de handel brengen als bedoeld in artikel 53 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 5.313,00 indien Nederland referentielidstaat is.
+4. Voor de behandeling van een aanvraag voor een vervolgerkenning in de procedures voor wederzijdse erkenning en voor gedecentraliseerde vergunningen voor het in de handel brengen als bedoeld in artikel 53 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 5.621,00 indien Nederland referentielidstaat is.
 
-5. Voor de behandeling van een aanvraag op basis van geïnformeerde toestemming als bedoeld in artikel 21 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 1.594,00.
+5. Voor de behandeling van een aanvraag op basis van geïnformeerde toestemming als bedoeld in artikel 21 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 1.686,00.
 
 ##### Artikel 4.4. Vergunning voor het in de handel brengen generiek of hybride diergeneesmiddel
 
-1. In afwijking van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2025-01-01&g=2025-01-01) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
+1. In afwijking van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2026-01-01&g=2026-01-01) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
 
-2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 6.767,00.
+2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 7.159,00.
 
 3. Voor de behandeling van een aanvraag voor een gedecentraliseerde vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 49 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van:
 
-- a. € 22.281,00, indien Nederland referentielidstaat is;
+- a. € 23.573,00, indien Nederland referentielidstaat is;
 
-- b. € 4.297,00 indien Nederland geen referentielidstaat is.
+- b. € 4.546,00 indien Nederland geen referentielidstaat is.
 
 4. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6, inclusief een voorafgaande nationale vergunning voor het in de handel brengen, is de aanvrager een retributie verschuldigd van:
 
-- a. € 16.161,00, indien Nederland referentielidstaat is;
+- a. € 17.098,00, indien Nederland referentielidstaat is;
 
-- b. € 4.297,00, indien Nederland geen referentielidstaat is.
+- b. € 4.546,00, indien Nederland geen referentielidstaat is.
 
 ##### Artikel 4.5. Vergunning voor het in de handel brengen homeopathisch diergeneesmiddel
 
-Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 6.767,00.
+Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 7.159,00.
 
 ##### Artikel 4.6. Registratie van een homeopathisch diergeneesmiddel
 
-Voor de behandeling van een aanvraag voor een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 1.423,00.
+Voor de behandeling van een aanvraag voor een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 1.506,00.
 
 ##### Artikel 4.7. Wederzijdse erkenning van nationale vergunning voor het in de handel brengen, indien reeds een nationale vergunning is verstrekt
 
-1. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019) voor een diergeneesmiddel dat is bestemd voor voedselproducerende dieren is de aanvrager een retributie verschuldigd van € 17.049,00, indien Nederland referentielidstaat is en in Nederland voor het diergeneesmiddel reeds een nationale vergunning voor het in de handel brengen is verstrekt als bedoeld in artikel 47 van verordening (EU) nr. 2019/6.
+1. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019) voor een diergeneesmiddel dat is bestemd voor voedselproducerende dieren is de aanvrager een retributie verschuldigd van € 18.038,00, indien Nederland referentielidstaat is en in Nederland voor het diergeneesmiddel reeds een nationale vergunning voor het in de handel brengen is verstrekt als bedoeld in artikel 47 van verordening (EU) nr. 2019/6.
 
-2. In afwijking van het eerste lid bedraagt de retributie € 4.773,00, indien het een generiek diergeneesmiddel of een hybride diergeneesmiddel betreft als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6
+2. In afwijking van het eerste lid bedraagt de retributie € 5.050,00, indien het een generiek diergeneesmiddel of een hybride diergeneesmiddel betreft als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6
 
 #### § 3. Diergeneesmiddelen bestemd voor niet-voedselproducerende dieren
 
@@ -510,91 +510,91 @@ Deze paragraaf is uitsluitend van toepassing op diergeneesmiddelen die zijn best
 
 ##### Artikel 4.9. Vergunning voor het in de handel brengen
 
-1. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 17.049,00.
+1. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 18.038,00.
 
 2. Voor de behandeling van een aanvraag voor een gedecentraliseerde vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 49 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van:
 
-- a. € 28.617,00, indien Nederland referentielidstaat is;
+- a. € 30.278,00, indien Nederland referentielidstaat is;
 
-- b. € 10.229,00, indien Nederland geen referentielidstaat is.
+- b. € 10.822,00, indien Nederland geen referentielidstaat is.
 
 3. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6, inclusief een voorafgaande nationale vergunning voor het in de handel brengen, is de aanvrager een retributie verschuldigd van:
 
-- a. € 28.618,00, indien Nederland referentielidstaat is;
+- a. € 30.278,00, indien Nederland referentielidstaat is;
 
-- b. € 10.229,00, indien Nederland geen referentielidstaat is.
+- b. € 10.822,00, indien Nederland geen referentielidstaat is.
 
-4. Voor de behandeling van een aanvraag voor een vervolgerkenning in de procedures voor wederzijdse erkenning en voor gedecentraliseerde vergunningen voor het in de handel brengen als bedoeld in artikel 53 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 5.313,00 indien Nederland referentielidstaat is.
+4. Voor de behandeling van een aanvraag voor een vervolgerkenning in de procedures voor wederzijdse erkenning en voor gedecentraliseerde vergunningen voor het in de handel brengen als bedoeld in artikel 53 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 5.621,00 indien Nederland referentielidstaat is.
 
-5. Voor de behandeling van een aanvraag op basis van geïnformeerde toestemming als bedoeld in artikel 21 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 1.594,00.
+5. Voor de behandeling van een aanvraag op basis van geïnformeerde toestemming als bedoeld in artikel 21 van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 1.686,00.
 
 ##### Artikel 4.10. Vergunning voor het in de handel brengen generiek of hybride diergeneesmiddel
 
-1. In afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2025-01-01&g=2025-01-01) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
+1. In afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2026-01-01&g=2026-01-01) is dit artikel van toepassing indien een aanvraag betrekking heeft op een generiek diergeneesmiddel of een hybride diergeneesmiddel als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
 
-2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 6.767,00.
+2. Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van € 7.159,00.
 
 3. Voor de behandeling van een aanvraag voor een gedecentraliseerde vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 49 van verordening (EU) nr. 2019/6 is de aanvrager een retributie verschuldigd van:
 
-- a. € 22.281,00, indien Nederland referentielidstaat is;
+- a. € 23.573,00, indien Nederland referentielidstaat is;
 
-- b. € 4.297,00 indien Nederland geen referentielidstaat is.
+- b. € 4.546,00 indien Nederland geen referentielidstaat is.
 
 4. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6, inclusief een voorafgaande nationale vergunning voor het in de handel brengen, is de aanvrager een retributie verschuldigd van:
 
-- a. € 16.161,00, indien Nederland referentielidstaat is;
+- a. € 17.098,00, indien Nederland referentielidstaat is;
 
-- b. € 4.297,00, indien Nederland geen referentielidstaat is.
+- b. € 4.546,00, indien Nederland geen referentielidstaat is.
 
 ##### Artikel 4.11. Vergunning voor het in de handel brengen homeopathisch diergeneesmiddel
 
-Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 2.913,00.
+Voor de behandeling van een aanvraag voor een nationale vergunning voor het in de handel brengen van een diergeneesmiddel als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 3.082,00.
 
 ##### Artikel 4.12. Registratie van een homeopathisch diergeneesmiddel
 
-Voor de behandeling van een aanvraag voor een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van verordening (EU) nr. 2019/6 voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 1.423,00.
+Voor de behandeling van een aanvraag voor een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van verordening (EU) nr. 2019/6 voor een homeopathisch diergeneesmiddel is de aanvrager een retributie verschuldigd van € 1.506,00.
 
 ##### Artikel 4.13. Wederzijdse erkenning van nationale vergunning voor het in de handel brengen, indien reeds een nationale vergunning is verstrekt
 
-1. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6 voor een diergeneesmiddel is de aanvrager een retributie verschuldigd van € 13.194,00, indien Nederland referentielidstaat is en in Nederland voor het diergeneesmiddel reeds een nationale vergunning voor het in de handel brengen is verstrekt als bedoeld in artikel 47 van verordening (EU) nr. 2019/6.
+1. Voor de behandeling van een aanvraag voor een wederzijdse erkenning van een nationale vergunning voor het in de handel brengen als bedoeld in artikel 52 van verordening (EU) nr. 2019/6 voor een diergeneesmiddel is de aanvrager een retributie verschuldigd van € 13.959,00, indien Nederland referentielidstaat is en in Nederland voor het diergeneesmiddel reeds een nationale vergunning voor het in de handel brengen is verstrekt als bedoeld in artikel 47 van verordening (EU) nr. 2019/6.
 
-2. In afwijking van het eerste lid bedraagt de retributie € 3.751,00, indien het een generiek diergeneesmiddel of een hybride diergeneesmiddel betreft als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
+2. In afwijking van het eerste lid bedraagt de retributie € 3.969,00, indien het een generiek diergeneesmiddel of een hybride diergeneesmiddel betreft als bedoeld in artikel 18, onderscheidenlijk artikel 19, van verordening (EU) nr. 2019/6.
 
 #### § 4. Overige bepalingen over retributies
 
 ##### Artikel 4.14. Wijziging van een vergunning voor het in de handel brengen voor diergeneesmiddel
 
-1. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen waarvoor geen beoordeling vereist is als bedoeld in artikel 61, derde lid, van verordening (EU) nr. 2019/6 is de houder van de vergunning een retributie verschuldigd van € 398,00.
+1. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen waarvoor geen beoordeling vereist is als bedoeld in artikel 61, derde lid, van verordening (EU) nr. 2019/6 is de houder van de vergunning een retributie verschuldigd van € 421,00.
 
 2. Indien het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van verordening (EU) nr. 2019/6 bedraagt de retributie, in afwijking van het eerste lid:
 
-- a. € 1.859,00, indien Nederland referentielidstaat is;
+- a. € 1.967,00, indien Nederland referentielidstaat is;
 
-- b. € 531,00, indien Nederland geen referentielidstaat is.
+- b. € 562,00, indien Nederland geen referentielidstaat is.
 
 3. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen die moet worden beoordeeld als bedoeld in artikel 62, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019), is de houder van de vergunning een retributie verschuldigd van:
 
-- a. € 7.673,00, indien het een nationale vergunning betreft als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een ander diergeneesmiddel dan een homeopathisch diergeneesmiddel, een gedecentraliseerde vergunning als bedoeld in artikel 49 van [verordening (EU) nr. 2019/6](31906R2019) of een wederzijds erkende nationale vergunning als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019), waarbij Nederland als referentielidstaat optreedt; en
+- a. € 8.118,00, indien het een nationale vergunning betreft als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een ander diergeneesmiddel dan een homeopathisch diergeneesmiddel, een gedecentraliseerde vergunning als bedoeld in artikel 49 van [verordening (EU) nr. 2019/6](31906R2019) of een wederzijds erkende nationale vergunning als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019), waarbij Nederland als referentielidstaat optreedt; en
 
-- b. € 5.115,00, indien het een gedecentraliseerde vergunning betreft als bedoeld in artikel 49 van [verordening (EU) nr. 2019/6](31906R2019) of een wederzijds erkende nationale vergunning als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019), waarbij Nederland niet als referentielidstaat optreedt.
+- b. € 5.412,00, indien het een gedecentraliseerde vergunning betreft als bedoeld in artikel 49 van [verordening (EU) nr. 2019/6](31906R2019) of een wederzijds erkende nationale vergunning als bedoeld in artikel 52 van [verordening (EU) nr. 2019/6](31906R2019), waarbij Nederland niet als referentielidstaat optreedt.
 
-- c. € 1.063,00, indien het een nationale vergunning betreft als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel.
+- c. € 1.125,00, indien het een nationale vergunning betreft als bedoeld in artikel 47 van [verordening (EU) nr. 2019/6](31906R2019) voor een homeopathisch diergeneesmiddel.
 
 4. In afwijking van het derde lid, onderdelen a en b, bedraagt de retributie:
 
-- a. € 2.320,00, indien de behandeling van de wijziging een beperkte beoordeling vereist;
+- a. € 2.455,00, indien de behandeling van de wijziging een beperkte beoordeling vereist;
 
-- b. € 976,00, indien de behandeling van de wijziging een beperkte beoordeling vereist, de wijziging een aanpassing van het sjabloon van de samenvatting van de productkenmerken betreft, Nederland geen referentielidstaat is en het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van [verordening (EU) nr. 2019/6](32019R0006);
+- b. € 1.033,00, indien de behandeling van de wijziging een beperkte beoordeling vereist, de wijziging een aanpassing van het sjabloon van de samenvatting van de productkenmerken betreft, Nederland geen referentielidstaat is en het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van [verordening (EU) nr. 2019/6](32019R0006);
 
-- c. € 398,00, indien de behandeling van de wijziging naar het oordeel van de minister slechts een administratieve beoordeling vereist;
+- c. € 421,00, indien de behandeling van de wijziging naar het oordeel van de minister slechts een administratieve beoordeling vereist;
 
-- d. € 531,00, indien de behandeling van de wijziging naar het oordeel van de minister slechts een administratieve beoordeling vereist en het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van verordening (EU) nr. 2019/6.
+- d. € 562,00, indien de behandeling van de wijziging naar het oordeel van de minister slechts een administratieve beoordeling vereist en het een vergunning voor het in de handel brengen betreft die is verstrekt overeenkomstig de procedure van de artikelen 49 of 52 van verordening (EU) nr. 2019/6.
 
-5. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen die moet worden beoordeeld als bedoeld in artikel 62, eerste lid, van verordening (EU) nr. 2019/6 en waarvoor de termijn voor het opstellen van het beoordelingsrapport of advies overeenkomstig artikel 66, derde lid, van verordening (EU) nr. 2019/6 is verlengd tot 90 dagen is de houder van de vergunning, in afwijking van het derde en vierde lid, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&z=2025-01-01&g=2025-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&z=2025-01-01&g=2025-01-01) is vastgesteld voor de aanvraag voor de vergunning voor het in de handel brengen van het desbetreffende type vergunning.
+5. Voor de behandeling van een wijziging van een vergunning voor het in de handel brengen die moet worden beoordeeld als bedoeld in artikel 62, eerste lid, van verordening (EU) nr. 2019/6 en waarvoor de termijn voor het opstellen van het beoordelingsrapport of advies overeenkomstig artikel 66, derde lid, van verordening (EU) nr. 2019/6 is verlengd tot 90 dagen is de houder van de vergunning, in afwijking van het derde en vierde lid, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&z=2026-01-01&g=2026-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&z=2026-01-01&g=2026-01-01) is vastgesteld voor de aanvraag voor de vergunning voor het in de handel brengen van het desbetreffende type vergunning.
 
 6. Indien een wijziging als bedoeld in het vijfde lid wordt behandeld volgens de werkverdelingsprocedure, bedoeld in artikel 65 van verordening (EU) nr. 2019/6, is een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat in het vijfde lid is vastgesteld.
 
-7. In afwijking van het zesde lid, is bij een werkverdelingsprocedure waarin uitsluitend nationale vergunningen voor het in de handel brengen zijn betrokken en de minister beoordelende autoriteit is, een retributie verschuldigd waarvan de hoogte gelijk is aan het desbetreffende bedrag, genoemd in de [artikelen 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2025-01-01&g=2025-01-01), [4.3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2025-01-01&g=2025-01-01), [4.4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2025-01-01&g=2025-01-01), [4.4, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2025-01-01&g=2025-01-01), [4.9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2025-01-01&g=2025-01-01), [4.9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2025-01-01&g=2025-01-01), [4.10, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2025-01-01&g=2025-01-01), of [4.10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2025-01-01&g=2025-01-01).
+7. In afwijking van het zesde lid, is bij een werkverdelingsprocedure waarin uitsluitend nationale vergunningen voor het in de handel brengen zijn betrokken en de minister beoordelende autoriteit is, een retributie verschuldigd waarvan de hoogte gelijk is aan het desbetreffende bedrag, genoemd in de [artikelen 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2026-01-01&g=2026-01-01), [4.3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2026-01-01&g=2026-01-01), [4.4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2026-01-01&g=2026-01-01), [4.4, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2026-01-01&g=2026-01-01), [4.9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2026-01-01&g=2026-01-01), [4.9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.9&z=2026-01-01&g=2026-01-01), [4.10, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2026-01-01&g=2026-01-01), of [4.10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=3&artikel=4.10&z=2026-01-01&g=2026-01-01).
 
 8. In afwijking van het zesde lid is, indien de minister in een werkverdelingsprocedure geen beoordelende autoriteit is en waarbij vergunningen voor het in de handel brengen zijn betrokken die via de decentrale of wederzijdse erkenningsprocedure, of de nationale procedure zijn verleend, een retributie verschuldigd waarvan de hoogte gelijk is aan het bedrag dat is vastgesteld voor aanvragen voor vergunningen die volgens de decentrale of de wederzijdse erkenningsprocedure worden verleend, waarbij Nederland geen referentielidstaat is.
 
@@ -602,59 +602,59 @@ Voor de behandeling van een aanvraag voor een nationale registratie van een home
 
 ##### Artikel 4.15. Meerdere wijzigingen waarvoor geen beoordeling vereist is
 
-Indien een aanvrager uitsluitend met het oog op eenzelfde wijziging waarvoor geen beoordeling vereist is als bedoeld in artikel 61, derde lid, van verordening (EU) nr. 2019/6, voor verschillende vergunningen voor het in de handel brengen gelijktijdig meerdere wijzigingen aanvraagt, bedraagt de retributie in totaal niet meer dan € 3.546,00.
+Indien een aanvrager uitsluitend met het oog op eenzelfde wijziging waarvoor geen beoordeling vereist is als bedoeld in artikel 61, derde lid, van verordening (EU) nr. 2019/6, voor verschillende vergunningen voor het in de handel brengen gelijktijdig meerdere wijzigingen aanvraagt, bedraagt de retributie in totaal niet meer dan € 3.752,00.
 
 ##### Artikel 4.16. Overdracht vergunning voor het in de handel brengen aan andere houder
 
-1. Voor behandeling van een aanvraag voor overdracht van een vergunning voor het in de handel brengen aan een andere houder is de aanvrager een retributie verschuldigd van € 398,00.
+1. Voor behandeling van een aanvraag voor overdracht van een vergunning voor het in de handel brengen aan een andere houder is de aanvrager een retributie verschuldigd van € 421,00.
 
-2. Indien een aanvrager tegelijkertijd meerdere aanvragen indient, bedraagt de retributie in totaal niet meer dan € 3.546,00.
+2. Indien een aanvrager tegelijkertijd meerdere aanvragen indient, bedraagt de retributie in totaal niet meer dan € 3.752,00.
 
 ##### Artikel 4.17. Parallelhandel in diergeneesmiddelen
 
-1. Voor de behandeling van een aanvraag voor een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2025-01-01&g=2025-01-01) is de aanvrager een retributie verschuldigd van € 1.063,00.
+1. Voor de behandeling van een aanvraag voor een vergunning voor parallelhandel als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.5&z=2026-01-01&g=2026-01-01) is de aanvrager een retributie verschuldigd van € 1.125,00.
 
-2. In afwijking van het eerste lid bedraagt de retributie voor de behandeling van de aanvraag € 398,00 indien slechts een administratieve beoordeling is uitgevoerd.
+2. In afwijking van het eerste lid bedraagt de retributie voor de behandeling van de aanvraag € 421,00 indien slechts een administratieve beoordeling is uitgevoerd.
 
-3. Voor de behandeling van een wijziging van de vergunning is de houder van de vergunning een retributie verschuldigd van € 123,00.
+3. Voor de behandeling van een wijziging van de vergunning is de houder van de vergunning een retributie verschuldigd van € 130,00.
 
 ##### Artikel 4.18. Mondelinge toelichting op de beoordeling van een aanvraag van een vergunning voor het in de handel brengen
 
-1. Voor een bijeenkomst over een voorgenomen indiening van een aanvraag voor een vergunning voor het in de handel brengen is de aanvrager een retributie verschuldigd van € 398,00.
+1. Voor een bijeenkomst over een voorgenomen indiening van een aanvraag voor een vergunning voor het in de handel brengen is de aanvrager een retributie verschuldigd van € 421,00.
 
-2. Voor een bijeenkomst waarin deskundigen een mondelinge toelichting geven op de beoordeling van een aanvraag voor een vergunning voor het in de handel brengen van een diergeneesmiddel is de aanvrager een retributie verschuldigd van € 4.091,00.
+2. Voor een bijeenkomst waarin deskundigen een mondelinge toelichting geven op de beoordeling van een aanvraag voor een vergunning voor het in de handel brengen van een diergeneesmiddel is de aanvrager een retributie verschuldigd van € 4.328,00.
 
 ##### Artikel 4.19. Controle van de kwaliteit van immunologische diergeneesmiddelen
 
-1. Voor de verificatie dat de productieprocessen die worden gebruikt voor de vervaardiging van immunologische diergeneesmiddelen gevalideerd zijn en dat de consistentie van de partijen is gewaarborgd is de houder van de vergunning voor de vervaardiging een retributie verschuldigd van € 265,00.
+1. Voor de verificatie dat de productieprocessen die worden gebruikt voor de vervaardiging van immunologische diergeneesmiddelen gevalideerd zijn en dat de consistentie van de partijen is gewaarborgd is de houder van de vergunning voor de vervaardiging een retributie verschuldigd van € 280,00.
 
-2. In afwijking van het eerste lid bedraagt de retributie € 66,00 indien de verificatie reeds is uitgevoerd door een andere EER-lidstaat.
+2. In afwijking van het eerste lid bedraagt de retributie € 70,00 indien de verificatie reeds is uitgevoerd door een andere EER-lidstaat.
 
 ##### Artikel 4.20. Vergunning voor de vervaardiging, groothandel en kleinhandel
 
-1. Voor de behandeling van een aanvraag van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 619,00 en een retributie van € 1.238,00 per halve dag voor het uitvoeren van een onderzoek ter plaatse.
+1. Voor de behandeling van een aanvraag van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 655,00 en een retributie van € 1.310,00 per halve dag voor het uitvoeren van een onderzoek ter plaatse.
 
 2. Voor de behandeling van een aanvraag van een vergunning voor groothandel in diergeneesmiddelen als bedoeld in artikel 99, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van:
 
-- a. € 761,00; of
+- a. € 805,00; of
 
-- b. € 465,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
+- b. € 492,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
 
 3. Voor de behandeling van een aanvraag van een vergunning voor kleinhandel in diergeneesmiddelen als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) is de aanvrager een retributie verschuldigd van:
 
-- a. € 619,00; of
+- a. € 655,00; of
 
-- b. € 310,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
+- b. € 328,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
 
 ##### Artikel 4.21. Vergunning voor proeven
 
 Voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=2.1) is de aanvrager een retributie verschuldigd van:
 
-- a. € 342,00 voor de administratieve behandeling van de aanvraag;
+- a. € 362,00 voor de administratieve behandeling van de aanvraag;
 
-- b. € 1.363,00 voor de beoordeling van een aanvraag;
+- b. € 1.442,00 voor de beoordeling van een aanvraag;
 
-- c. € 342,00 voor de administratieve behandeling van een aanvraag tot wijziging of verlenging.
+- c. € 362,00 voor de administratieve behandeling van een aanvraag tot wijziging of verlenging.
 
 ##### Artikel 4.22. Preventief onderzoek
 
@@ -662,17 +662,17 @@ Vervallen
 
 ##### Artikel 4.23. Inspectie bij certificaat van goede praktijken voor de vervaardiging en goedkeuringscertificaat
 
-Voor het uitvoeren van een inspectie als bedoeld in artikel 94 of artikel 125 van verordening (EU) nr. 2019/6 is de aanvrager van een certificaat een retributie verschuldigd van € 1.238,00 per halve dag.
+Voor het uitvoeren van een inspectie als bedoeld in artikel 94 of artikel 125 van verordening (EU) nr. 2019/6 is de aanvrager van een certificaat een retributie verschuldigd van € 1.310,00 per halve dag.
 
 ##### Artikel 4.24. Certificaten of verklaringen met betrekking tot diergeneesmiddelen
 
-Voor de behandeling van een aanvraag voor een certificaat als bedoeld in artikel 98, eerste lid, van verordening (EU) nr. 2019/6 of een ander certificaat of een andere verklaring met betrekking tot diergeneesmiddelen is de aanvrager een retributie verschuldigd van € 66,00.
+Voor de behandeling van een aanvraag voor een certificaat als bedoeld in artikel 98, eerste lid, van verordening (EU) nr. 2019/6 of een ander certificaat of een andere verklaring met betrekking tot diergeneesmiddelen is de aanvrager een retributie verschuldigd van € 70,00.
 
 ##### Artikel 4.25. Importeur, fabrikant of distributeur van werkzame stoffen
 
-1. Voor de behandeling van de aanmelding van activiteiten van een importeur, fabrikant of distributeur van werkzame stoffen als bedoeld in artikel 95, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de aanmelder een retributie verschuldigd van € 310,00.
+1. Voor de behandeling van de aanmelding van activiteiten van een importeur, fabrikant of distributeur van werkzame stoffen als bedoeld in artikel 95, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de aanmelder een retributie verschuldigd van € 328,00.
 
-2. Voor de behandeling van een wijziging van de aanmelding, bedoeld in het eerste lid, is de aanvrager een retributie verschuldigd van € 123,00.
+2. Voor de behandeling van een wijziging van de aanmelding, bedoeld in het eerste lid, is de aanvrager een retributie verschuldigd van € 130,00.
 
 ##### Artikel 4.26. Algemene regels over retributies
 
@@ -688,7 +688,7 @@ Voor de behandeling van een aanvraag voor een certificaat als bedoeld in artikel
 
 4. Voor zover verschuldigd, is de omzetbelasting in het tarief begrepen.
 
-5. Indien de retributie, bedoeld in [artikel 4.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2025-01-01&g=2025-01-01), niet is betaald, kan de minister de vergunning voor kleinhandel schorsen of intrekken.
+5. Indien de retributie, bedoeld in [artikel 4.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2026-01-01&g=2026-01-01), niet is betaald, kan de minister de vergunning voor kleinhandel schorsen of intrekken.
 
 6. De hoogte van de totaal op grond van deze regeling verschuldigde retributie wordt vastgesteld door de minister.
 
@@ -744,7 +744,7 @@ Een aanvraag voor erkenning als bedoeld in artikel 13, eerste lid, van [verorden
 
 ##### Artikel 5.5. Aanwijzing van nationale referentielaboratoria
 
-De minister is bevoegd tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van [verordening (EU) 2017/625](32525R2017), ten aanzien van onderwerpen die diergeneesmiddelen of substanties als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5&artikel=5.3&z=2025-01-01&g=2025-01-01) betreffen.
+De minister is bevoegd tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van [verordening (EU) 2017/625](32525R2017), ten aanzien van onderwerpen die diergeneesmiddelen of substanties als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5&artikel=5.3&z=2026-01-01&g=2026-01-01) betreffen.
 
 ##### Artikel 5.6. Website waarop besluiten worden medegedeeld
 
@@ -776,7 +776,7 @@ Zolang de regels, bedoeld in artikel 17, eerste lid, van [verordening (EU) nr. 2
 
 ##### Artikel 7.2. Overgangsrecht bijsluiter
 
-1. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.3&z=2025-01-01&g=2025-01-01) is niet van toepassing op diergeneesmiddelen die overeenkomstig richtlijn nr. 2001/82/EG of verordening (EG) nr. 726/2004 in de handel zijn gebracht.
+1. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01) is niet van toepassing op diergeneesmiddelen die overeenkomstig richtlijn nr. 2001/82/EG of verordening (EG) nr. 726/2004 in de handel zijn gebracht.
 
 2. Dit artikel vervalt met ingang van 30 januari 2027.
 
@@ -844,11 +844,11 @@ Als ziekteverwekkers als bedoeld in [artikel 6.2, eerste lid, van het besluit](h
 
 ##### Artikel 5a.3. Erkenning laboratorium, voorziening of andere ruimte voor werken met ziekteverwekkers
 
-1. Het voorhanden of in voorraad hebben van ziekteverwekkers als bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2025-01-01&g=2025-01-01) is uitsluitend toegestaan aan door de minister erkende laboratoria, voorzieningen of andere natuurlijke of rechtspersonen als bedoeld in artikel 16, eerste lid, van [verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L84).
+1. Het voorhanden of in voorraad hebben van ziekteverwekkers als bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2026-01-01&g=2026-01-01) is uitsluitend toegestaan aan door de minister erkende laboratoria, voorzieningen of andere natuurlijke of rechtspersonen als bedoeld in artikel 16, eerste lid, van [verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L84).
 
 2. De minister verleent een erkenning als bedoeld in het eerste lid indien:
 
-- a. de in voorhanden zijnde of in voorraad gehouden ziekteverwekker, bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2025-01-01&g=2025-01-01), uitsluitend bestemd is voor het gebruik voor wetenschappelijke doeleinden, diagnose of de ontwikkeling, productie of controle van diergeneesmiddelen; en
+- a. de in voorhanden zijnde of in voorraad gehouden ziekteverwekker, bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.2&z=2026-01-01&g=2026-01-01), uitsluitend bestemd is voor het gebruik voor wetenschappelijke doeleinden, diagnose of de ontwikkeling, productie of controle van diergeneesmiddelen; en
 
 - b. is voldaan aan artikel 16, eerste lid, van de in het eerste lid genoemde verordening.
 
@@ -948,31 +948,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.12a. Registratie van een diergeneesmiddel voor specifieke diersoorten
 
-Voor de behandeling van een aanvraag voor registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01), is de aanvrager een retributie verschuldigd van € 712,00.
+Voor de behandeling van een aanvraag voor registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), is de aanvrager een retributie verschuldigd van € 753,00.
 
 #### § 4. Overige bepalingen over retributies
 
 ##### Artikel 4.20a. Wijziging vergunning voor de vervaardiging, groothandel en kleinhandel
 
-1. Voor de behandeling van aanvraag tot wijziging van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de houder van de vergunning een retributie verschuldigd van € 247,00 en, indien van toepassing, een retributie van € 1.238,00 per halve dag voor het uitvoeren van een onderzoek ter plaatse.
+1. Voor de behandeling van aanvraag tot wijziging van een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de houder van de vergunning een retributie verschuldigd van € 261,00 en, indien van toepassing, een retributie van € 1.310,00 per halve dag voor het uitvoeren van een onderzoek ter plaatse.
 
 2. Voor de behandeling van aanvraag tot wijziging van een vergunning voor groothandel in diergeneesmiddelen als bedoeld in artikel 99, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de houder van de vergunning een retributie verschuldigd van:
 
-- a. € 650,00; of
+- a. € 688,00; of
 
-- b. € 185,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
+- b. € 196,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
 
 3. Voor de behandeling van aanvraag tot wijziging van een vergunning voor kleinhandel in diergeneesmiddelen als bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&artikel=4.2) is de houder van de vergunning een retributie verschuldigd van:
 
-- a. € 433,00; of
+- a. € 458,00; of
 
-- b. € 123,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
+- b. € 130,00, indien de aanvraag naar het oordeel van de minister slechts een administratieve beoordeling vereist.
 
 ##### Artikel 4.25a. Kleinhandel op afstand in diergeneesmiddelen
 
-1. Voor de behandeling van een aanvraag voor vermelding in de lijst van kleinhandel op afstand als bedoeld in artikel 104, achtste lid, onderdeel c, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 213,00.
+1. Voor de behandeling van een aanvraag voor vermelding in de lijst van kleinhandel op afstand als bedoeld in artikel 104, achtste lid, onderdeel c, van [verordening (EU) nr. 2019/6](31906R2019) is de aanvrager een retributie verschuldigd van € 225,00.
 
-2. Voor de behandeling van een wijziging van de vermelding is de aanvrager een retributie verschuldigd van € 119,00.
+2. Voor de behandeling van een wijziging van de vermelding is de aanvrager een retributie verschuldigd van € 126,00.
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -1164,9 +1164,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.18a. Wijziging registratie van diergeneesmiddel voor specifieke diersoorten of homeopathisch diergeneesmiddel
 
-1. Voor de behandeling van een aanvraag tot wijziging van een registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01), of een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de houder van de registratie een retributie verschuldigd van € 398,00.
+1. Voor de behandeling van een aanvraag tot wijziging van een registratie als bedoeld in [artikel 2.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), of een nationale registratie van een homeopathisch diergeneesmiddel als bedoeld in artikel 85, eerste lid, van [verordening (EU) nr. 2019/6](31906R2019) is de houder van de registratie een retributie verschuldigd van € 421,00.
 
-2. In afwijking van het eerste lid bedraagt de retributie € 123,00, indien de aanvraag een administratieve wijziging betreft.
+2. In afwijking van het eerste lid bedraagt de retributie € 130,00, indien de aanvraag een administratieve wijziging betreft.
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -1176,7 +1176,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage. Aangewezen ziekteverwekkers als bedoeld in [artikel 5a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.1&z=2025-01-01&g=2025-01-01)
+## Bijlage. Aangewezen ziekteverwekkers als bedoeld in [artikel 5a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&hoofdstuk=5a&artikel=5a.1&z=2026-01-01&g=2026-01-01)
 
 - 1. Virussen
 
