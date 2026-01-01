@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -124,9 +124,7 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 - b. beschikt over voldoende buitenspeelmogelijkheden, afgestemd op het aantal en de leeftijd van de op te vangen kinderen;
 
-- c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerende [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297);
-
-- d. is te allen tijde rookvrij.
+- c. is te allen tijde rookvrij.
 
 2. De in het eerste lid bedoelde eisen worden jaarlijks door de houder van een gastouderbureau getoetst op naleving tijdens een bezoek aan de voorzieningen voor gastouderopvang.
 
@@ -254,11 +252,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De houder van een gastouderbureau draagt er zorg voor dat per gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
 
-- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01);
+- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
 
 - b. werving van de gastouder;
 
-- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01);
+- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
 
 - d. scholing en begeleiding van de gastouder;
 
@@ -266,13 +264,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. de koppeling van de gastouder en de vraagouder;
 
-- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01);
+- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
 
-- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01);
+- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
 
 - i. het beantwoorden van vragen van de gastouder;
 
-- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01);
+- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
 
 - k. opleiding of training; en
 
