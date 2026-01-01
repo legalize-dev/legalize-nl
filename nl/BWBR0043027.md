@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-09-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **het ministerie van Financiën:** het kernministerie, de Belastingdienst en de inspectie belastingen, toeslagen en douane;
 
-- b. **het kernministerie:** de Generale Thesaurie, het directoraat-generaal Rijksbegroting, het directoraat-generaal Fiscale Zaken, het cluster secretaris-generaal en het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden;
+- b. **het kernministerie:** de Generale Thesaurie, het directoraat-generaal Rijksbegroting, het directoraat-generaal Fiscale Zaken, het cluster secretaris-generaal, de regeringscommissaris en het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden;
 
 - c. **de Belastingdienst:** de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
@@ -144,7 +144,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - a. de directie Bedrijfsvoering;
 
-- b. het BVA-office;
+- b. de concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek;
 
 - c. de directie Juridische Zaken;
 
@@ -160,7 +160,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - i. de Auditdienst Rijk;
 
-- j. de dienst Domeinen Roerende Zaken.
+- j. de dienst Domeinen Roerende Zaken;
+
+- k. de Dienst Financieel-Economische Integriteit.
 
 3. De pSG vervult de rol van eigenaar voor de volgende organisatieonderdelen binnen het ministerie en uitvoerende- en toezichthoudende organisaties buiten het ministerie:
 
@@ -292,9 +294,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2025-09-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2025-09-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -310,7 +312,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - b. de directie Bedrijfsvoering;
 
-- c. het BVA-Office;
+- c. de concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek;
 
 - d. de directie Juridische Zaken;
 
@@ -436,37 +438,27 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2026-01-01&g=2025-09-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
-##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
+##### Artikel 15. Concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek (VTI)
 
-1. De Beveiligingsambtenaar (BVA) en het daaronder ressorterende BVA-Office heeft de volgende taken:
+1. De directie VTI heeft binnen het Ministerie van Financiën de taak:
 
-- a. algemene organisatie van integrale beveiliging (organisatie, medewerkers, materieel, informatiesystemen, gebouwen en overige objecten), waaronder:
+- a. Informatie (operationeel, strategisch en beleidsmatig) en ontwikkelingen op het terrein van de (inter)nationale veiligheid, criminaliteit en dreigingen te monitoren, te duiden en waar relevant te ontsluiten;
 
-- i. risicomanagement;
+- b. Concernbreed een stevige beleidsmatige en strategische regierol te voeren op onderwerpen die zien op nationale veiligheid, criminaliteitsbestrijding, integrale beveiliging, toezicht en integriteitsonderzoeken;
 
-- ii. incidenten en/of dreigingen;
+- c. Integraal beveiligings- en calamiteitenbeleid vorm te geven, te implementeren en te evalueren. De directie ondersteunt de SG, pSG en DG-en bij de integrale beveiliging en de inrichting en werking van de organisatie daarvan, evenals de zorg voor en de beveiliging van de te beschermen belangen voor hun dienstonderdelen. De directie geeft daartoe invulling aan de taken en bevoegdheden die voortvloeien uit het besluit beveiligingsautoriteit. De directeur vervult de functie en rol van de hierin benoemde beveiligingsautoriteit.
 
-- iii. beveiligingsbewustzijn.
+- d. Vorm te geven aan (onafhankelijke) toezichtstaken die bij het Ministerie van Financiën zijn ondergebracht. Deze zien op (a) de functionaris gegevensbescherming, (b) de insidersregeling en (c) het [Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617).
 
-- b. integriteit en compliance (waaronder vertrouwensfuncties en kwetsbare functies), met inbegrip van het tot stand brengen van een insiderregeling voor het Ministerie van Financiën;
+- e. Binnen het concern van het Ministerie van Financiën te fungeren als centraal meldpunt en onderzoeksbureau waar (vermoedens van) integriteitschendingen worden gemeld, beoordeeld en onderzocht.
 
-- c. privacy;
+- f. De directie fungeert als algemeen aanspreekpunt en contactpersoon voor de BVA Rijk, de AIVD, politie, (rijks)recherche, de NCTV en internationale organisaties (zoals EU en NAVO) over integrale aspecten betreffende de integrale veiligheid.
 
-- d. Business Continuïteit Management (BCM) en calamiteitenmanagement.
+- g. Op haar taken namens het Ministerie van Financiën te participeren in inter- en intradepartementaal overleg inzake de integrale beveiliging, zoals het BVA-beraad en het interdepartementale overleg inzake corruptiebestrijding en ervoor zorgen dat politieke en ambtelijke standpuntbepaling effectief wordt uitgedragen.
 
-2. Op de taken bedoeld in het eerste lid heeft de BVA zowel toezichthoudende, adviserende als coördinerende rol. Per taakgebied verschilt de invulling van deze rol.
-
-3. Het Onderzoeksbureau Integriteit Financiën (OIF) is een organisatieonderdeel van het BVA-office, met als taken:
-
-- i. aannemen, registreren en beoordelen van meldingen, inclusief het doen van vooronderzoek;
-
-- ii. adviseren over, voorbereiden en uitvoeren van onderzoek;
-
-- iii. communicatie en bewustwording van het meld- en onderzoeksproces.
-
-4. De Compliance Officer (CO) en de Functionaris Gegevensbescherming (FG) zijn ondergebracht bij het BVA-Office. De CO en de FG hebben een plaatsvervanger die hen bij afwezigheid vervangt.
+2. De concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek bestaat uit een afdeling Integrale Veiligheid en Beveiliging, een afdeling Toezicht en een afdeling Integriteitsonderzoeken Financiën.
 
 ##### Artikel 16. Directie Juridische Zaken (DJZ)
 
@@ -476,7 +468,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - b. opstellen van overeenkomsten, convenanten en andere wilsuitingen van civielrechtelijke of publiekrechtelijke aard;
 
-- c. het behandelen van bezwaarschriften, (hoger) beroepschriften en daarmee samenhangende bestuursrechtelijke procedures voor het kernministerie, met uitzondering van arbeidsjuridische procedures;
+- c. het behandelen van bezwaarschriften, (hoger) beroepschriften en daarmee samenhangende bestuursrechtelijke procedures voor het kernministerie, met uitzondering van arbeidsjuridische procedures en procedures die verband houden met de taken van de Dienst Financieel-Economische Integriteit;
 
 - d. vertegenwoordigen van het ministerie in interdepartementale gremia en juridische fora;
 
@@ -1414,9 +1406,9 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2025-09-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2026-01-01&g=2025-09-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1462,7 +1454,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De directeur-generaal Douane vervult de rol van opdrachtnemer in het driehoeksmodel dat van toepassing is.
 
-### Hoofdstuk 5B. Directoraat-generaal douane
+### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
@@ -1470,7 +1462,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 9. Verantwoording
+### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
 ### Hoofdstuk 8B. Het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden
 
@@ -1502,7 +1494,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
-### Hoofdstuk 5A. Directoraat-generaal toeslagen
+### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
 ### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
@@ -1516,7 +1508,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 8B. Het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1546,7 +1538,7 @@ De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van d
 
 ### Hoofdstuk 10. Overige bepalingen
 
-### Hoofdstuk 10. Overige bepalingen
+### Hoofdstuk 8C. Regeringscommissarissen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1598,7 +1590,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2026-01-01&g=2025-09-01) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
@@ -1624,7 +1616,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
-### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
+### Hoofdstuk 5B. Directoraat-generaal douane
 
 ### Hoofdstuk 8. Generale thesaurie
 
@@ -1632,7 +1624,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 9. Verantwoording
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1729,6 +1721,30 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 41h. Taakuitoefening door regeringscommissarissen
 
 Bij besluit van de verantwoordelijke bewindspersoon van het Ministerie van Financiën kunnen aanvullende regels worden gesteld over de taakuitoefening van een regeringscommissaris die het betreft.
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 21a. Dienst Financieel-Economische Integriteit (DFEI)
+
+1. De Dienst Financieel-Economische Integriteit heeft de volgende hoofdtaken:
+
+- a. Het voorkomen en bestrijden van witwassen, terrorismefinanciering en overtreding van sanctiemaatregelen via niet-financiële en niet-juridische poortwachters door bestuursrechtelijk toezicht;
+
+- b. Het bevorderen van transparantie van eigenaarsstructuren door handhaving van wet- en regelgeving inzake het Ultimate Beneficial Owner (UBO) en UBO Trust Register;
+
+- c. Het bevorderen van transparantie in het financiële verkeer door strafrechtelijke opsporing van overtredingen van de administratieplicht en diverse registratieplichten van de [Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) en bestuurs- en strafrechtelijke handhaving van overtredingen van specifieke economische ordeningswetgeving.
+
+2. De Dienst Financieel-Economische Integriteit bestaat uit drie afdelingen: de afdeling Toezicht [Wet ter voorkoming witwassen en financieren terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282), de afdeling UBO & Economische Handhaving en de afdeling Vaktechniek, Bedrijfsvoering en Strategie.
+
+### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
+
+### Hoofdstuk 7. Directoraat-generaal rijksbegroting
+
+### Hoofdstuk 8. Generale thesaurie
+
+### Hoofdstuk 10. Overige bepalingen
 
 ### Hoofdstuk 11. Slotbepalingen
 
