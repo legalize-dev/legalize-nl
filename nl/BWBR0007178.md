@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -131,11 +131,39 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2025-01-01&g=2025-01-01).
+Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 5a
 
-Het tarief, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), voor afvalstoffen met een volumieke massa van meer dan 1100 kilogram per kubieke meter vindt slechts toepassing indien aan de [artikelen 5b tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5b&z=2007-01-01&g=2007-01-01) wordt voldaan.
+1. Het verzoek om een vergunning voor een fiscaal vertegenwoordiger, bedoeld in [artikel 24a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=24a), bevat de volgende gegevens:
+
+- a. naam en adres van de verzoeker;
+
+- b. het beoogde tijdstip van aanvang van het fiscaal-vertegenwoordigerschap;
+
+- c. naam en adres van de degene die de afvalstoffen overbrengt uit Nederland en die niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft (in dit artikel: buitenlandse kennisgever).
+
+2. Een vergunning voor een fiscaal vertegenwoordiger wordt slechts verleend indien de verzoeker:
+
+- a. in Nederland woont of is gevestigd;
+
+- b. in de afgelopen vijf jaren niet wegens overtreding van de wettelijke bepalingen inzake rijksbelastingen dan wel douane onherroepelijk is veroordeeld;
+
+- c. een administratie voert die voldoet aan bij ministeriële regeling te stellen voorwaarden;
+
+- d. naar het oordeel van de inspecteur voldoende solvabel is.
+
+3. De verlening van een vergunning voor een fiscaal vertegenwoordiger is tevens gebonden aan de voorwaarde dat de verzoeker optreedt voor alle overbrengingen als bedoeld in [artikel 23, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=23). De inspecteur kan op verzoek hiervan afwijken.
+
+4. De inspecteur kan de vergunning intrekken of wijzigen:
+
+- a. op verzoek van de fiscaal vertegenwoordiger met schriftelijke instemming van de buitenlandse kennisgever;
+
+- b. op verzoek van de buitenlandse kennisgever;
+
+- c. indien de fiscaal vertegenwoordiger niet meer voldoet aan de aan de vergunning gebonden voorwaarden.
+
+De buitenlandse kennisgever wordt van de intrekking van de vergunning in kennis gesteld, alsmede van de gronden waarop deze berust.
 
 ##### Artikel 5b
 
@@ -187,7 +215,7 @@ Voor de bepaling van het verschuldigde tarief van de afvalstoffenbelasting over 
 
 Voor de toepassing van [artikel 18c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c) wordt ter zake van de vorderingen waarvoor tevens een verzoek als bedoeld in [artikel 29, eerste lid, onderdeel a, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29) is gedaan, teruggaaf verleend voor zover ter zake van die vorderingen teruggaaf van omzetbelasting wordt verleend.
 
-### Hoofdstuk IV. Brandstoffenbelasting
+### Hoofdstuk V. Kolenbelasting
 
 ##### Artikel 6b
 
@@ -269,7 +297,7 @@ Bij het gewicht, vermeld ingevolge de onderdelen a tot en met i, specificeert de
 
 - f. de verklaring dat de gegevens juist en volledig zijn en zonder voorbehoud worden verstrekt.
 
-4. De kennisgever doet de melding, bedoeld in [artikel 25a, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a) op de daartoe bij de voorziening, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), voorgeschreven wijze.
+4. De kennisgever doet de melding, bedoeld in [artikel 25a, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a) op de daartoe bij de voorziening, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2026-01-01&g=2026-01-01), voorgeschreven wijze.
 
 5. De kennisgever is gehouden op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat hieruit te allen tijde de gegevens blijken die van belang zijn voor een juiste vaststelling van de hoeveelheden, bedoeld in het tweede lid, onderdelen a tot en met d, daaronder begrepen de verklaring, bedoeld in het tweede lid, tweede volzin, en de hem ter beschikking staande gegevens die aan die verklaring ten grondslag liggen. De kennisgever is verplicht deze gegevens gedurende zeven jaar te bewaren.
 
@@ -293,11 +321,11 @@ Vervallen
 
 ##### Artikel 8
 
-1. Onze Minister van Infrastructuur en Waterstaat vermeldt in de beschikking, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), de gegevens die de kennisgever ingevolge [artikel 7, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), bij zijn aanvraag heeft verstrekt.
+1. Onze Minister van Infrastructuur en Waterstaat vermeldt in de beschikking, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), de gegevens die de kennisgever ingevolge [artikel 7, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01), bij zijn aanvraag heeft verstrekt.
 
 2. Onze Minister van Infrastructuur en Waterstaat kan de gegevens die de kennisgever bij zijn aanvraag heeft verstrekt vergelijken met gegevens die ter zake ingevolge de EVOA zijn verstrekt.
 
-3. In gevallen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), vermeldt Onze Minister van Infrastructuur en Waterstaat tevens in de beschikking de gegevens die de kennisgever heeft vermeld in zijn aanvraag ingevolge artikel 7, tweede lid.
+3. In gevallen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01), vermeldt Onze Minister van Infrastructuur en Waterstaat tevens in de beschikking de gegevens die de kennisgever heeft vermeld in zijn aanvraag ingevolge artikel 7, tweede lid.
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -427,15 +455,15 @@ Vervallen
 
 ##### Artikel 9
 
-1. In afwijking van [artikel 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=8&z=2025-01-01&g=2025-01-01), vermeldt Onze Minister van Infrastructuur en Waterstaat in de beschikking, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), uitsluitend de gegevens bedoeld in [artikel 7, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), die ter zake ingevolge de EVOA zijn ontvangen, indien en voor zover:
+1. In afwijking van [artikel 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=8&z=2026-01-01&g=2026-01-01), vermeldt Onze Minister van Infrastructuur en Waterstaat in de beschikking, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), uitsluitend de gegevens bedoeld in [artikel 7, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01), die ter zake ingevolge de EVOA zijn ontvangen, indien en voor zover:
 
-- a. voor de afgifte van de beschikking blijkt dat de gegevens die de kennisgever ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01) bij zijn aanvraag heeft verstrekt onjuist of onvolledig zijn; dan wel
+- a. voor de afgifte van de beschikking blijkt dat de gegevens die de kennisgever ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01) bij zijn aanvraag heeft verstrekt onjuist of onvolledig zijn; dan wel
 
-- b. Onze Minister de beschikking afgeeft op grond van [artikel 25a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a). Ingeval evenwel de ingevolge de EVOA gemelde gegevens onjuist of onvolledig zijn, en de juiste en volledige gegevens redelijkerwijs evenmin tijdig op andere wijze kunnen worden vastgesteld, vermeldt Onze Minister van Infrastructuur en Waterstaat in afwijking van de eerste zin in de beschikking uitsluitend de gegevens, bedoeld in [artikel 7, eerste lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01).
+- b. Onze Minister de beschikking afgeeft op grond van [artikel 25a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a). Ingeval evenwel de ingevolge de EVOA gemelde gegevens onjuist of onvolledig zijn, en de juiste en volledige gegevens redelijkerwijs evenmin tijdig op andere wijze kunnen worden vastgesteld, vermeldt Onze Minister van Infrastructuur en Waterstaat in afwijking van de eerste zin in de beschikking uitsluitend de gegevens, bedoeld in [artikel 7, eerste lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01).
 
-2. Indien Onze Minister van Infrastructuur en Waterstaat de beschikking afgeeft ingevolge [artikel 25a, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a), nadat de kennisgever een melding heeft gedaan als bedoeld in artikel 25a, eerste lid, tweede zin, van de wet, vermeldt Onze Minister in de beschikking de gegevens, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), en, indien van toepassing, artikel 7, tweede lid, zoals door de kennisgever gecorrigeerd bij de melding.
+2. Indien Onze Minister van Infrastructuur en Waterstaat de beschikking afgeeft ingevolge [artikel 25a, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25a), nadat de kennisgever een melding heeft gedaan als bedoeld in artikel 25a, eerste lid, tweede zin, van de wet, vermeldt Onze Minister in de beschikking de gegevens, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01), en, indien van toepassing, artikel 7, tweede lid, zoals door de kennisgever gecorrigeerd bij de melding.
 
-3. Bij toepassing van het eerste lid stelt Onze Minister van Infrastructuur en Waterstaat, voordat hij de beschikking afgeeft, de kennisgever in de gelegenheid een aanvraag in te dienen binnen een daarvoor door hem te stellen termijn waarin hij alsnog de gegevens, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2025-01-01&g=2025-01-01), verstrekt. De [artikelen 6 tot en met 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing ten aanzien van een dergelijke aanvraag.
+3. Bij toepassing van het eerste lid stelt Onze Minister van Infrastructuur en Waterstaat, voordat hij de beschikking afgeeft, de kennisgever in de gelegenheid een aanvraag in te dienen binnen een daarvoor door hem te stellen termijn waarin hij alsnog de gegevens, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2026-01-01&g=2026-01-01), verstrekt. De [artikelen 6 tot en met 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing ten aanzien van een dergelijke aanvraag.
 
 ##### Artikel 10
 
@@ -517,7 +545,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2025-01-01&g=2025-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2026-01-01&g=2026-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -563,7 +591,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
 
-4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), met betrekking tot kolen die worden gebruikt op een wijze als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), met betrekking tot kolen die worden gebruikt op een wijze als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
 
 5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
@@ -691,9 +719,9 @@ Vervallen
 
 4. Teruggaaf van belasting wordt alleen verleend indien de aankoopfacturen en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-5. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) ingeval het aardgas of de elektriciteit is gebruikt op een in [artikel 64, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+5. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) ingeval het aardgas of de elektriciteit is gebruikt op een in [artikel 64, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
 
-6. [Artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+6. [Artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 7. De teruggaaf, bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), wordt voorts alleen verleend als het bedrag aan belasting expliciet op de factuur in rekening is gebracht en slechts voor zover die factuur is betaald.
 
@@ -729,7 +757,7 @@ Vervallen
 
 ##### Artikel 29
 
-Een verzoek om teruggaaf als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=3&z=2025-01-01&g=2025-01-01), [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=18&z=2025-01-01&g=2025-01-01), [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=24&z=2025-01-01&g=2025-01-01), [artikel 25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=25&z=2025-01-01&g=2025-01-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=26&z=2025-01-01&g=2025-01-01), [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=27&z=2025-01-01&g=2025-01-01), en [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=28&z=2025-01-01&g=2025-01-01), wordt gedaan met gebruikmaking van een daartoe door de inspecteur beschikbaar gesteld formulier.
+Een verzoek om teruggaaf als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=18&z=2026-01-01&g=2026-01-01), [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=24&z=2026-01-01&g=2026-01-01), [artikel 25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=25&z=2026-01-01&g=2026-01-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=26&z=2026-01-01&g=2026-01-01), [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=27&z=2026-01-01&g=2026-01-01), en [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=28&z=2026-01-01&g=2026-01-01), wordt gedaan met gebruikmaking van een daartoe door de inspecteur beschikbaar gesteld formulier.
 
 ### Hoofdstuk VIa. Vliegbelasting
 
@@ -849,7 +877,7 @@ Vervallen
 
 ### Afdeling 2. Groenten en fruit
 
-### Hoofdstuk VIII. Algemene bepaling
+### Hoofdstuk IX. Slotbepalingen
 
 ### Hoofdstuk VIII. Algemene bepaling
 
@@ -857,7 +885,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a
 
-1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte, aardwarmte of van warmte opgewekt met vaste, vloeibare of gasvormige biomassa, aquathermie, een lucht-water-warmtepomp of een elektrische boiler, is mede van toepassing gedurende de eerste periode van maximaal twee jaar na de ingebruikneming van een installatie voor stadsverwarming die is ontworpen om grotendeels gebruik te maken van restwarmte, aardwarmte of van warmte opgewekt met vaste, vloeibare of gasvormige biomassa, aquathermie, een lucht-water-warmtepomp of een elektrische boiler.
+1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van de warmtebronnen, bedoeld in dat lid, is mede van toepassing gedurende de eerste periode van maximaal twee jaar na de ingebruikneming van een installatie voor stadsverwarming die is ontworpen om grotendeels gebruik te maken van de warmtebronnen, bedoeld in dat lid.
 
 2. De periode, bedoeld in het eerste lid, vangt aan op het moment waarop de levering van warmte door middel van de installatie een aanvang neemt.
 
@@ -919,7 +947,7 @@ Als een installatie als bedoeld in [artikel 28, eerste lid, onderdeel c, van de 
 
 ### Afdeling 1. Sierteelt
 
-### Hoofdstuk IX. Slotbepalingen
+### Hoofdstuk VIII. Algemene bepaling
 
 ### Hoofdstuk VIII. Algemene bepaling
 
@@ -979,7 +1007,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De verbruiker trekt de verklaring binnen zes weken schriftelijk in, indien de door hem overgelegde verklaring, bedoeld in het eerste lid, op enig moment niet meer juist is. De schriftelijke intrekking wordt door hem ondertekend, waarbij het moment, bedoeld in de vorige zin, wordt vermeld.
 
-3. [Artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=21c&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
+3. [Artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=21c&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 21e
 
@@ -1019,7 +1047,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel a18a
 
-Onder een comptabele meetinrichting als bedoeld in [artikel 47, eerste lid, onderdeel w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) wordt verstaan een comptabele meetinrichting die als zodanig wordt aangemerkt bij een krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) vastgestelde regeling van de Autoriteit Consument en Markt en die wordt beheerd en uitgelezen door een erkend meetverantwoordelijke als bedoeld in die regeling.
+Onder een comptabele meetinrichting als bedoeld in [artikel 47, eerste lid, onderdeel w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) wordt verstaan een comptabele meetinrichting die als zodanig wordt aangemerkt bij een krachtens de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714) vastgesteld besluit van de Autoriteit Consument en Markt en die wordt beheerd en uitgelezen door een meetverantwoordelijke partij als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1).
 
 ##### Artikel b18a
 
@@ -1068,3 +1096,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk VII. Vliegbelasting
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk VI. Energiebelasting
+
+##### Artikel 21aa
+
+1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van de warmtebronnen, bedoeld in dat lid, is mede van toepassing indien tijdelijk niet aan die voorwaarde kan worden voldaan in verband met de vervanging van een warmtebron als bedoeld in dat lid.
+
+2. Het eerste lid is van toepassing indien de inspecteur op verzoek van de verbruiker, bedoeld in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), of de leverancier van het aardgas bij voor bezwaar vatbare beschikking een ontheffing heeft verleend van de voorwaarde die dat lid aan de uitzondering verbindt. De ontheffing wordt verleend voor een periode van ten hoogste drie jaar.
+
+3. De ontheffing wordt slechts verleend indien bij het verzoek om ontheffing stukken zijn overgelegd waaruit blijkt:
+
+- a. waarom tijdelijk niet kan worden voldaan aan de voorwaarde die [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) aan de uitzondering verbindt;
+
+- b. wat de reden is van de vervanging van de warmtebron, bedoeld in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), en wanneer de periode waarin die vervanging plaatsvindt aanvangt en eindigt; en
+
+- c. welke maatregelen worden genomen die redelijkerwijs kunnen worden verwacht om weer te voldoen aan de voorwaarde die [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) aan de uitzondering verbindt.
+
+##### Artikel 21ab
+
+1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van de warmtebronnen, bedoeld in dat lid, is mede van toepassing indien tijdelijk niet aan die voorwaarde kan worden voldaan in verband met een calamiteit die betrekking heeft op de installatie voor stadsverwarming.
+
+2. Het eerste lid is van toepassing indien de inspecteur op verzoek van de verbruiker, bedoeld in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), of de leverancier van het aardgas bij voor bezwaar vatbare beschikking een ontheffing heeft verleend van de voorwaarde die dat lid aan de uitzondering verbindt. De ontheffing wordt verleend voor een periode van ten hoogste drie jaar.
+
+3. De ontheffing wordt slechts verleend indien bij het verzoek om ontheffing stukken zijn overgelegd waaruit blijkt:
+
+- a. waarom tijdelijk niet kan worden voldaan aan de voorwaarde die [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) aan de uitzondering verbindt;
+
+- b. dat de calamiteit redelijkerwijs niet kon worden voorzien; en
+
+- c. welke maatregelen worden genomen die redelijkerwijs kunnen worden verwacht om weer te voldoen aan de voorwaarde die [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) aan de uitzondering verbindt.
+
+### Hoofdstuk VII. Vliegbelasting
