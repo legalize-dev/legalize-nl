@@ -4,7 +4,7 @@ identifier: "BWBR0031727"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031727"
 soort: "ministeriele-regeling-BES"
@@ -42,17 +42,17 @@ Besluit:
 
 ##### Artikel 1
 
-De vergoeding, bedoeld in [artikel 25a, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25a), bedraagt voor ambtenaren in dienst van de staat USD 2,00 per uur waarop de ambtenaar beschikbaar is geweest.
+De vergoeding, bedoeld in [artikel 25a, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25a), bedraagt voor ambtenaren in dienst van de staat USD 2,03 per uur waarop de ambtenaar beschikbaar is geweest.
 
 ##### Artikel 2
 
 De toelage, bedoeld in [artikel 25b, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25b), bedraagt voor ambtenaren in dienst van de staat per gewerkt uur op:
 
-- a. maandag tot en met vrijdag tussen 0 en 6 uur en tussen 20 en 24 uur: USD 2,97;
+- a. maandag tot en met vrijdag tussen 0 en 6 uur en tussen 20 en 24 uur: USD 3,01;
 
-- b. zaterdag en zondag tussen 0 en 24 uur: USD 5,95; en
+- b. zaterdag en zondag tussen 0 en 24 uur: USD 6,04; en
 
-- c. feestdagen tussen 0 en 24 uur: USD 11,87.
+- c. feestdagen tussen 0 en 24 uur: USD 12,05.
 
 ##### Artikel 3
 
