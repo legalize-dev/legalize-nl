@@ -4,7 +4,7 @@ identifier: "BWBR0050931"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2025-04-10"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050931"
 soort: "beleidsregel"
@@ -92,15 +92,31 @@ Het bevoegd gezag mag uitsluitend onder de volgende cumulatieve voorwaarden met 
 
 ##### Artikel 2.2. Verantwoording
 
-1. Dit lid is nog niet in werking getreden.
+1. Het bevoegd gezag legt verantwoording af over investeringen met publieke middelen in private activiteiten in het bestuursverslag, bedoeld in [artikel 2.5.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.4) en [artikel 2.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.9).
 
-2. Dit lid is nog niet in werking getreden.
+2. In afwijking van het eerste lid kan het bevoegd gezag verantwoording in het bestuursverslag achterwege laten voor zover de totale investeringen met publieke middelen in private activiteiten niet meer bedragen dan 0,1 procent van de rijksbijdrage die het bevoegd gezag ontvangt op grond van [artikel 2.2.4 van de Wet educatie beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4) dan wel op grond van [artikel 2.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.7).
 
-3. Dit lid is nog niet in werking getreden.
+3. Het bevoegd gezag ordent en presenteert de private activiteiten waarin met publieke middelen is geïnvesteerd in soorten activiteiten.
 
-4. Dit lid is nog niet in werking getreden.
+4. Het bestuursverslag bevat:
 
-5. Dit lid is nog niet in werking getreden.
+- a. een toelichting op de in het derde lid genoemde ordening;
+
+- b. een beschrijving van de juridische en organisatorische inbedding van de private activiteiten waarin met publieke middelen is geïnvesteerd, inclusief een beschrijving van de verantwoordelijkheidstoebedeling;
+
+- c. een beschrijving van het (risico-)beleid en beheer;
+
+- d. een kwalitatieve beschrijving van de meerwaarde van de soort private activiteit voor de uitvoering van de wettelijke taak;
+
+- e. een overzicht van de private activiteiten waarin met publieke middelen is geïnvesteerd, in lijn met de in het derde lid genoemde ordening.
+
+5. Het overzicht als bedoeld in het vierde lid, onderdeel e, verschaft inzicht in:
+
+- a. de totale baten afkomstig van afnemers van de private activiteiten;
+
+- b. de totale investering met publieke middelen; en
+
+- c. de totale kosten per soort activiteiten.
 
 6. Het bevoegd gezag verstrekt op verzoek van de minister dan wel op verzoek van de Inspectie van het onderwijs alle benodigde informatie om de rechtmatigheid van investeringen met publieke middelen in private activiteiten te kunnen beoordelen.
 
@@ -116,7 +132,7 @@ De [Beleidsregel investeren met publieke middelen in private activiteiten](https
 
 ##### Artikel 3.3. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025, met dien verstande dat [artikel 2.2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050931&hoofdstuk=2&artikel=2.2&z=2025-04-10&g=2025-04-10) in werking treedt met ingang van 1 januari 2026 over het verslagjaar 2025.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025, met dien verstande dat [artikel 2.2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050931&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) in werking treedt met ingang van 1 januari 2026 over het verslagjaar 2025.
 
 ##### Artikel 3.4. Citeertitel
 
