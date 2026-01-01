@@ -4,7 +4,7 @@ identifier: "BWBR0041861"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041861"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
 2. De in de bijlage genoemde, met openbaarmaking belaste inspectiedienst, maakt de in het betreffende onderdeel van de bijlage aangewezen informatie, bedoeld in het eerste lid, openbaar.
 
-3. De met openbaarmaking belaste inspectiedienst vermeldt via het communicatiemiddel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), de context waarbinnen de op grond van het eerste lid aangewezen toezichtinformatie is verkregen en ten aanzien waarvan tot openbaarmaking is besloten door in ieder geval inzichtelijk te maken hoe in algemene zin toezicht wordt uitgeoefend en wat het toezichtbeleid inhoudt.
+3. De met openbaarmaking belaste inspectiedienst vermeldt via het communicatiemiddel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2026-01-01&g=2026-01-01), de context waarbinnen de op grond van het eerste lid aangewezen toezichtinformatie is verkregen en ten aanzien waarvan tot openbaarmaking is besloten door in ieder geval inzichtelijk te maken hoe in algemene zin toezicht wordt uitgeoefend en wat het toezichtbeleid inhoudt.
 
 ##### Artikel 3
 
@@ -96,9 +96,9 @@ In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, wordt ingetrokken en dat besluit tot intrekking onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van het intrekkingsbesluit en de reden van de intrekking. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
+1. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, wordt ingetrokken en dat besluit tot intrekking onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van het intrekkingsbesluit en de reden van de intrekking. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2026-01-01&g=2026-01-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
 
-2. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, door de bestuursrechter wordt vernietigd en dat besluit tot vernietiging onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van de vernietiging en de reden van de vernietiging. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
+2. Indien openbaarmaking heeft plaatsgevonden via de website van de met de openbaarmaking belaste inspectiedienst, verwijdert die inspectiedienst de openbaar gemaakte informatie van de website, zodra het besluit tot openbaarmaking van die informatie, dan wel het besluit waarover informatie openbaar is gemaakt, door de bestuursrechter wordt vernietigd en dat besluit tot vernietiging onherroepelijk is geworden. De met de openbaarmaking belaste inspectiedienst maakt zo spoedig mogelijk melding van de vernietiging en de reden van de vernietiging. Die melding wordt bij de verwijdering van de informatie eveneens van de website verwijderd, tenzij de betrokkene verzoekt de melding op de site beschikbaar te houden. De melding blijft in dat geval op de website beschikbaar gedurende de termijn, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2026-01-01&g=2026-01-01), die ten aanzien van de verwijderde informatie in de bijlage is vastgesteld.
 
 ##### Artikel 6
 
@@ -116,7 +116,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet.
 
-## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=2&z=2025-07-01&g=2025-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2025-07-01&g=2025-07-01) van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet
+## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=3&z=2026-01-01&g=2026-01-01) van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet
 
 ### Onderdeel I
 
@@ -138,8 +138,72 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Openbaarmaking door de IGJ
 
+### 1. Toezichtsdomein
+
+### Openbaarmaking door de IGJ en de IJenV
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Het toezichtsdomein omvat de hierna genoemde regelgeving voor zover ambtenaren van de IGJ toezicht houden op de naleving daarvan. Binnen dit toezichtdomein wordt informatie openbaar gemaakt als bedoeld onder 2.
+
+### 2. Openbaar te maken informatie en de wijze van openbaarmaking
+
+2.1 Openbaar gemaakt worden schriftelijk vastgestelde documenten van de met toezicht belaste ambtenaren van de IGJ bevattende uitkomsten van controles en onderzoeken als bedoeld in artikel 44, derde lid, onderdeel a, van de Gezondheidswet, verkregen in de uitoefening van hun taak, voor wat betreft de naleving van de onder 1 vermelde regelgeving, waarin hun eindoordeel is neergelegd, met uitzondering van:
+
+2.1.1 Openbaarmaking van schriftelijk vastgestelde documenten als bedoeld onder 2.1 geschiedt door bekendmaking van:
+
+2.2 Openbaar gemaakt worden kennisgevingen van de IGJ waarin de betrokkene wordt medegedeeld dat tot intensivering van het toezicht is overgegaan of dat die intensivering wordt verlengd of beëindigd als bedoeld in artikel 44, derde lid, onderdeel d, van de Gezondheidswet. Dit betreft een zakelijke weergave van de overwegingen van de kennisgevingen, waarin een opgave is opgenomen van de eventueel door de betrokkene te nemen maatregelen.
+
+2.3 Openbaar gemaakt worden aanwijzingen, bevelen, besluiten tot het opleggen van een bestuurlijke boete, lasten onder dwangsom, lasten onder bestuursdwang, een last tot onmiddellijke onthouding van de beroepsactiviteiten, besluiten tot invordering van dwangsommen, besluiten tot verhaal van kosten voor de toepassing van bestuursdwang die naar aanleiding van de uitkomsten van controle en onderzoek zijn genomen, alsmede besluiten tot verlenging daarvan, als bedoeld in artikel 44, derde lid, onderdelen h en i, van de Gezondheidswet, voor zover in de volgende tabel genoemd. Openbaarmaking geschiedt door bekendmaking van een zakelijke weergave van de overwegingen en het dictum van het besluit.
+
+2.4 Openbaar gemaakt worden besluiten tot beëindiging van de besluiten, bedoeld onder 2.3, dan wel kennisgevingen aan de betrokkene dat aan de besluiten, bedoeld onder 2.3, gevolg is gegeven of dat aan de bij het besluit opgelegde voorwaarden is voldaan als bedoeld in artikel 44, derde lid, onderdeel k van de Gezondheidswet. Openbaarmaking geschiedt door bekendmaking van een zakelijke weergave van de overwegingen en het dictum van het besluit.
+
+2.5 Openbaar gemaakt wordt een geaggregeerd overzicht van door zorgaanbieders verstrekte informatie over het onderzoek van de zorgaanbieder in het kader van zijn melding als bedoeld in artikel 11, eerste lid, onderdeel a, van de Wet kwaliteit, klachten en geschillen zorg. Dit geschiedt eenmaal per kalenderjaar.
+
+2.6 De openbaar te maken documenten bevatten voor zover van toepassing, de namen en functieaanduidingen van de Inspecteur-Generaal, de hoofdinspecteurs of hun plaatsvervangers. Namen en functieaanduidingen van andere functionarissen van de IGJ worden niet openbaar gemaakt.
+
+### 3. Besluit, uitvoering, middelen en duur openbaarmaking
+
+3.1 Het bestuursorgaan dat besluit tot openbaarmaking:
+
+3.2 De met openbaarmaking belaste inspectiedienst: de IGJ.
+
+3.3 Het voor de openbaarmaking te gebruiken communicatiemiddel: de website van de IGJ.
+
+3.4 De duur van de openbaarmaking:
+
 ### Onderdeel III
 
 ### Openbaarmaking door de IGJ en de IJenV
+
+### 1. Toezichtsdomein
+
+Het toezichtsdomein omvat de hierna genoemde regelgeving voor zover ambtenaren van de IGJ en de IJenV toezicht houden op de naleving daarvan. Binnen dit toezichtsdomein wordt informatie openbaar gemaakt als bedoeld onder 2.
+
+### 2. Openbaar te maken informatie en de wijze van openbaarmaking
+
+2.1 Openbaar gemaakt worden schriftelijk vastgestelde documenten van met toezicht belaste ambtenaren van de IGJ of de IJenV bevattende uitkomsten van controles en onderzoeken als bedoeld in artikel 9.7, derde lid, onderdeel a, van de Jeugdwet, verkregen in de uitoefening van hun taak, voor wat betreft de naleving van de onder 1 vermelde regelgeving, waarin hun eindoordeel is neergelegd, met uitzondering van:
+
+2.1.1 Openbaarmaking van schriftelijk vastgestelde documenten als bedoeld onder 2.1 geschiedt door bekendmaking van:
+
+2.2 Openbaar gemaakt worden kennisgevingen van de IGJ en de IJenV waarin de betrokkene wordt medegedeeld dat tot intensivering van het toezicht is overgegaan of dat die intensivering wordt verlengd of beëindigd als bedoeld in artikel 9.7, derde lid, onderdeel b, van de Jeugdwet. Dit betreft een zakelijke weergave van de overwegingen van de kennisgevingen, waarin een opgave is opgenomen van de eventueel door de betrokkene te nemen maatregelen.
+
+2.3 Openbaar gemaakt worden aanwijzingen, bevelen, besluiten tot het opleggen van een bestuurlijke boete, lasten onder dwangsom, lasten onder bestuursdwang, alsmede besluiten tot verlenging daarvan, als bedoeld in artikel 9.7, derde lid, onderdelen e en f, van de Jeugdwet, voor zover in de volgende tabel genoemd. Openbaarmaking geschiedt door bekendmaking van een zakelijke weergave van de overwegingen en het dictum van het besluit.
+
+2.4 Openbaar gemaakt worden besluiten tot beëindiging van de besluiten, bedoeld onder 2.3, dan wel kennisgevingen aan de betrokkene dat aan de besluiten, bedoeld onder 2.3, gevolg is gegeven of dat aan de bij het besluit opgelegde voorwaarden is voldaan als bedoeld in artikel 9.7, derde lid, onderdeel g, van de Jeugdwet. Openbaarmaking geschiedt door bekendmaking van een zakelijke weergave van de overwegingen en het dictum van het besluit.
+
+2.5 Openbaar gemaakt wordt een geaggregeerd overzicht van door jeugdhulpaanbieders of gecertificeerde instellingen verstrekte informatie over het onderzoek van de jeugdhulpaanbieder of gecertificeerde instelling in het kader van een melding als bedoeld in artikel 4.1.8, eerste lid, onderdeel a, van de Jeugdwet. Dit geschiedt eenmaal per kalenderjaar.
+
+2.6 De openbaar te maken documenten bevatten voor zover van toepassing, de namen en functieaanduidingen van de Inspecteur-Generaal, de hoofdinspecteurs of hun plaatsvervangers. Namen en functieaanduidingen van andere functionarissen van de IGJ en IJenV worden niet openbaar gemaakt.
+
+### 3. Besluit, uitvoering, middelen en duur openbaarmaking
+
+3.1 Het bestuursorgaan dat besluit tot openbaarmaking:
+
+3.2 De met openbaarmaking belaste inspectiedienst: de IGJ en de IJenV.
+
+3.3 Het voor de openbaarmaking te gebruiken communicatiemiddel: de websites van de IGJ en de IJenV.
+
+3.4 De duur van de openbaarmaking:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
