@@ -4,7 +4,7 @@ identifier: "BWBR0045041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-09-03"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045041"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7) die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven;
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **school:** Uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
@@ -58,7 +58,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3. Doel van de aanvullende bekostiging
 
-De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2025 aanvullende bekostiging met als doel:
+De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2026 aanvullende bekostiging met als doel:
 
 - a. het verbeteren van strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders; en
 
@@ -66,11 +66,11 @@ De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2
 
 ##### Artikel 4. Beschikbare middelen per leerling
 
-In 2025 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
+In 2026 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 58,46 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-09-03&g=2025-09-03); en
+- a. € 0 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01); en
 
-- b. € 26,35 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-09-03&g=2025-09-03).
+- b. € 12,73 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -94,15 +94,15 @@ In 2025 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-09-03&g=2025-09-03), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-09-03&g=2025-09-03) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 8. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 9. Citeertitel
 
