@@ -4,7 +4,7 @@ identifier: "BWBR0046467"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046467"
 soort: "zbo"
@@ -48,18 +48,18 @@ Vervallen
 
 ##### Artikel 2. Preliminaire vaststelling syllabi in het vwo ten behoeve van het examenjaar 2025
 
-De syllabi voor de vakken biologie, natuurkunde en scheikunde voor het centrale examen in het vwo ten behoeve van het examenjaar 2025 worden vastgesteld.
+Vervallen
 
 ##### Artikel 3. Bekendmaking syllabi
 
-De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=2&z=2025-01-01&g=2025-01-01) worden bekendgemaakt op [www.examenblad.nl](http://www.examenblad.nl).
+De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=2&z=2026-01-01&g=2026-01-01) worden bekendgemaakt op [www.examenblad.nl](http://www.examenblad.nl).
 
 ##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=1&z=2025-01-01&g=2025-01-01) vervalt met ingang van 1 januari 2025.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=1&z=2026-01-01&g=2026-01-01) vervalt met ingang van 1 januari 2025.
 
-3. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=2&z=2025-01-01&g=2025-01-01) vervalt met ingang van 1 januari 2026.
+3. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046467&artikel=2&z=2026-01-01&g=2026-01-01) vervalt met ingang van 1 januari 2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
