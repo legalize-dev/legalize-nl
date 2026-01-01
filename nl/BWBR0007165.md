@@ -4,7 +4,7 @@ identifier: "BWBR0007165"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007165"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=6) en [7 van het Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=7).
+1. Deze regeling geeft uitvoering aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=6) en [7 van het Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=7).
 
 2. In deze regeling wordt verstaan onder
 
@@ -57,7 +57,15 @@ Vervallen
 
 1. Het college van burgemeester en wethouders verzamelt, analyseert en registreert voortdurend de waarderelevante objectgegevens.
 
-2. Het college van burgemeester en wethouders verzamelt voortdurend marktgegevens met betrekking tot de volgende handelingen in het economische verkeer:
+2. Het college van burgemeester en wethouders verifieert de waarderelevante objectgegevens van woningen bij de eigenaar van die woning. Waarderelevante objectgegevens zijn in ieder geval:
+
+- a. de in de waarde betrokken primaire objectkenmerken;
+
+- b. de in de waarde betrokken secundaire objectkenmerken.
+
+3. Waarderelevante objectgegevens van woningen worden na iedere verkoop geverifieerd bij de nieuwe eigenaar van die woning. Secundaire objectkenmerken worden voorts ten minste iedere vijf jaar geverifieerd bij de eigenaar.
+
+4. Het college van burgemeester en wethouders verzamelt voortdurend marktgegevens met betrekking tot de volgende handelingen in het economische verkeer:
 
 - a. verkooptransacties van woningen en niet-woningen;
 
@@ -67,15 +75,15 @@ Vervallen
 
 - d. gronduitgifteprijzen.
 
-3. Het verzamelen van verhuurgegevens van niet-woningen geschiedt door middel van het inlichtingenformulier verhuurgegevens niet-woningen dat in overeenstemming is met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=2&z=2012-01-01&g=2012-01-01) opgenomen model.
+5. Het verzamelen van verhuurgegevens van niet-woningen geschiedt door middel van het inlichtingenformulier verhuurgegevens niet-woningen dat in overeenstemming is met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=2&z=2026-01-01&g=2026-01-01) opgenomen model.
 
-4. Het verzamelen van gegevens over gebruikers van niet-woningen geschiedt door middel van het inlichtingenformulier gebruikers niet-woningen dat in overeenstemming is met het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=3&z=2012-01-01&g=2012-01-01) opgenomen model.
+6. Het verzamelen van gegevens over gebruikers van niet-woningen geschiedt door middel van het inlichtingenformulier gebruikers niet-woningen dat in overeenstemming is met het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=3&z=2026-01-01&g=2026-01-01) opgenomen model.
 
-5. Met betrekking tot de in het tweede lid bedoelde handelingen wordt geanalyseerd in hoeverre de omstandigheden overeenstemmen met het voorschrift voor de waardebepaling, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), in hoeverre de gegevens overeenstemmen met vergelijkbare handelingen in het economische verkeer en in hoeverre de bij deze handelingen betrokken onroerende zaken overeenstemmen met de onroerende zaken, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
+7. Met betrekking tot de handelingen, bedoeld in het vierde lid, wordt geanalyseerd in hoeverre de omstandigheden overeenstemmen met het voorschrift voor de waardebepaling, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), in hoeverre de gegevens overeenstemmen met vergelijkbare handelingen in het economische verkeer en in hoeverre de bij deze handelingen betrokken onroerende zaken overeenstemmen met de onroerende zaken, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
 
-6. Het college van burgemeester en wethouders registreert de in het tweede lid bedoelde gegevens en de resultaten van de in het vijfde lid bedoelde analyses. Bij deze registratie wordt tevens vastgelegd de datum waarop de in het eerste lid bedoelde handelingen hebben plaatsgevonden.
+8. Het college van burgemeester en wethouders registreert de gegevens, bedoeld in het vierde lid, en de resultaten van de analyses, bedoeld in het zevende lid. Bij deze registratie wordt tevens vastgelegd de datum waarop de handelingen, bedoeld in het eerste en tweede lid, hebben plaatsgevonden.
 
-7. Het college van burgemeester en wethouders ziet erop toe dat taxateurs die zijn aangesteld als ambtenaar der gemeentelijke belastingen buiten bezwaar van den lande in tijdelijke dienst voor onbepaalde tijd en die het beroep van bemiddelaar bij transacties met onroerende zaken uitoefenen, niet de informatie ingevolge het [Besluit gegevensverstrekking Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0008175) inwinnen bij de informatieplichtige, bedoeld in artikel 1, eerste lid, onderdeel a, onder 2° van dat besluit. De eerste volzin is van overeenkomstige toepassing indien de gegevensdragers van de in die volzin bedoelde informatieplichtige zich bevinden bij een administratiekantoor.
+9. Het college van burgemeester en wethouders ziet erop toe dat taxateurs die zijn aangesteld als ambtenaar der gemeentelijke belastingen buiten bezwaar van den lande in tijdelijke dienst voor onbepaalde tijd en die het beroep van bemiddelaar bij transacties met onroerende zaken uitoefenen, niet de informatie ingevolge het [Besluit gegevensverstrekking Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0008175) inwinnen bij de informatieplichtige, bedoeld in artikel 1, eerste lid, onderdeel a, onder 2° van dat besluit. De eerste volzin is van overeenkomstige toepassing indien de gegevensdragers van de in die volzin bedoelde informatieplichtige zich bevinden bij een administratiekantoor.
 
 ##### Artikel 4
 
@@ -95,11 +103,11 @@ Het college van burgemeester en wethouders rapporteert desgevraagd binnen vier w
 
 ##### Artikel 6
 
-1. Als model van het taxatieverslag van woningen wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2012-01-01&g=2012-01-01) opgenomen model.
+1. Als model van het taxatieverslag van woningen wordt vastgesteld de tabel opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2026-01-01&g=2026-01-01).
 
-2. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald op de vervangingswaarde wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=5&z=2012-01-01&g=2012-01-01) opgenomen model.
+2. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald op de vervangingswaarde wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=5&z=2026-01-01&g=2026-01-01) opgenomen model.
 
-3. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald door middel van een methode van kapitalisatie van de bruto huur wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=6&z=2012-01-01&g=2012-01-01) opgenomen model.
+3. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald door middel van een methode van kapitalisatie van de bruto huur wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=6&z=2026-01-01&g=2026-01-01) opgenomen model.
 
 ##### Artikel 7
 
@@ -119,9 +127,88 @@ Vervallen
 
 ## Bijlage 2. Model inlichtingenformulier verhuurgegevens niet-woningen
 
+## Bijlage 1
+
+Vervallen
+
+## Bijlage 2. Model inlichtingenformulier verhuurgegevens niet-woningen
+
 ## Bijlage 3. MODEL INLICHTINGENFORMULIER GEBRUIKERS NIET-WONINGEN
 
-## Bijlage 4
+## Bijlage 4. Elementen model taxatieverslag woningen
+
+| **a. Gegevens om de onroerende zaak te identificeren** | **a. Gegevens om de onroerende zaak te identificeren** |
+| --- | --- |
+| **Gegeven** | **Bron** |
+| Een aanduiding van de onroerende zaak (WOZ-object) | BAG-adres of uit de gemeentelijke WOZ-administratie |
+| Het waardegebied (de buurt/wijk) |   |
+| Een foto van de onroerende zaak |   |
+| De kadastrale aanduiding(en) en oppervlakte(n) | [BRK](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) |
+| Het WOZ-objectnummer | Uit de gemeentelijke WOZ-administratie |
+| **b. De vastgestelde waarde van de onroerende zaak** | **b. De vastgestelde waarde van de onroerende zaak** |
+| **Gegeven** | **Bron** |
+| Waardepeildatum |   |
+| Omschrijving soort object |   |
+| Vastgestelde waarde |   |
+| **c. De in de waardering betrokken primaire objectkenmerken** | **c. De in de waardering betrokken primaire objectkenmerken** |
+| **Gegeven** | **Bron** |
+| Gebruiksoppervlakte | [BAG](https://wetten.overheid.nl/jci1.3:c:BWBR0023466) |
+| Perceeloppervlakte betrokken in de taxatie/toegekende oppervlakte |   |
+| Bouwjaar | [BAG](https://wetten.overheid.nl/jci1.3:c:BWBR0023466) |
+| Bijgebouwen inclusief (gebruiks)oppervlakte |   |
+| **d. De in de waardering betrokken secundaire objectkenmerken, inclusief de beoordeling daarvan** | **d. De in de waardering betrokken secundaire objectkenmerken, inclusief de beoordeling daarvan** |
+| **e. De in de waardering betrokken referentieobjecten** | **e. De in de waardering betrokken referentieobjecten** |
+| Objectgegevens (objectkenmerken aanwezig op verkoopdatum) |   |
+| Verkoopdatum |   |
+| Verkoopprijs |   |
+| Geïndexeerde, gecorrigeerde verkoopprijs |   |
+| **f. Identificatie- en contactgegevens van de voor de waardering verantwoordelijke organisatie** | **f. Identificatie- en contactgegevens van de voor de waardering verantwoordelijke organisatie** |
+| **Gegeven** | **Gegeven** |
+| De naam van de organisatie verantwoordelijk voor de taxatie | De naam van de organisatie verantwoordelijk voor de taxatie |
+| De contactgegevens van de verantwoordelijke taxateur of afdeling voor vragen over het taxatieverslag | De contactgegevens van de verantwoordelijke taxateur of afdeling voor vragen over het taxatieverslag |
+| Een verwijzing naar de website van de organisatie voor aanvullende vragen | Een verwijzing naar de website van de organisatie voor aanvullende vragen |
+
+##### Artikel 6a
+
+1. Het taxatieverslag van woningen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&artikel=6&z=2026-01-01&g=2026-01-01), vermeldt in ieder geval:
+
+- a. de gegevens om de onroerende zaak te identificeren;
+
+- b. de op voet van [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde van de onroerende zaak;
+
+- c. de in de waardering betrokken primaire objectkenmerken;
+
+- d. de in de waardering betrokken secundaire objectkenmerken, inclusief de beoordeling daarvan;
+
+- e. de in de waardering betrokken referentieobjecten;
+
+- f. de identificatie- en contactgegevens van de voor de waardering verantwoordelijke organisatie.
+
+2. De elementen, bedoeld in het eerste lid, worden nader uitgewerkt in de tabel in [bijlage 4, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2026-01-01&g=2026-01-01).
+
+3. Het taxatieverslag vermeldt voor zover van toepassing:
+
+- a. de toestandspeildatum;
+
+- b. de marktgegevens van de onroerende zaak van de afgelopen vijf jaar, te weten:
+
+- 1°. de verkoopprijs;
+
+- 2°. de verkoopdatum;
+
+- c. de totale grootte van het woningdeel.
+
+4. Het taxatieverslag kan aanvullende elementen bevatten die de gemeenteambtenaar, bedoeld in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231), relevant acht voor de op voet van [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde.
+
+##### Artikel 6b
+
+Degene ten wiens aanzien de beschikking, bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), is genomen krijgt op verzoek een afschrift van de gegevens die ten grondslag liggen aan de vastgestelde waarde, waaronder:
+
+- a. de gegevens van de referentieobjecten die niet zijn vermeld in het taxatieverslag;
+
+- b. de reden dat toestandspeildatum is toegepast in plaats van de waardepeildatum;
+
+- c. grondstaffels voor zover deze in de waardering zijn betrokken.
 
 ## Bijlage 5. Model taxatieverslag niet-woningen (vervangingswaarde)
 
