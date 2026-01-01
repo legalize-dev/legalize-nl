@@ -4,7 +4,7 @@ identifier: "BWBR0041447"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-11-26"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041447"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling domeinlijsten buitengewoon opsporingsambtenaar.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2024-11-26&g=2024-11-26) van de Regeling domeinen buitengewoon opsporingsambtenaar
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2026-01-01&g=2026-01-01) van de Regeling domeinen buitengewoon opsporingsambtenaar
 
 ### Domein I. Openbare ruimte
 
@@ -84,7 +84,7 @@ De boa Openbaar Vervoer is belast met de opsporing van de strafbare feiten in de
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-1 Overigens is voor de opsporingsbevoegdheid met betrekking tot uitsluitend de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45) en [45a Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45a) de opleiding bedoeld in [artikel 3, onderdeel a, van de Regeling toezichthoudende ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0032771&artikel=3) niet vereist.
+1 Overigens is voor de opsporingsbevoegdheid met betrekking tot uitsluitend de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45) en [45a Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45a) de opleiding bedoeld in [artikel 3.3, onderdeel a, van de Alcoholregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&artikel=3.3) niet vereist.
 
 3 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar paragraaf 4.1](onbekend) Veilige publieke taak.
 
