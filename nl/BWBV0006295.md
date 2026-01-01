@@ -4,7 +4,7 @@ identifier: "BWBV0006295"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2019-03-24"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006295"
 soort: "verdrag"
@@ -78,7 +78,7 @@ Elke partij zendt de Secretaris-Generaal de volgende informatie toe:
 
 - .1. een verslag van de maatregelen die zij genomen heeft om volledig uitvoering te geven aan de bepalingen van het Verdrag, met inbegrip van modellen van de bewijzen die in overeenstemming met het Verdrag worden afgegeven; en
 
-- .2. overige informatie die in [voorschrift I/5](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2019-03-24&g=2019-03-24) kan worden vermeld of verstrekt.
+- .2. overige informatie die in [voorschrift I/5](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2026-01-01&g=2026-01-01) kan worden vermeld of verstrekt.
 
 ##### Artikel 5. Andere verdragen en interpretatie
 
@@ -116,7 +116,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 1. Vissersvaartuigen zijn tijdens hun verblijf in de havens van een andere partij onderworpen aan controle door functionarissen die door die partij naar behoren zijn gemachtigd om erop toe te zien dat alle aan boord dienst doende personen die volgens het Verdrag gediplomeerd moeten zijn de desbetreffende bewijzen bezitten of in het bezit zijn van een passende ontheffing.
 
-2. Indien wordt verzuimd de in [voorschrift I/4, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2019-03-24&g=2019-03-24), genoemde tekortkoming te herstellen en voor zover dit een gevaar oplevert voor personen, zaken of het milieu, neemt de partij die de controle uitvoert stappen om te waarborgen dat het vaartuig niet uitvaart tenzij en totdat zodanig aan deze vereisten is voldaan dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal en aan de administratie medegedeeld.
+2. Indien wordt verzuimd de in [voorschrift I/4, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2026-01-01&g=2026-01-01), genoemde tekortkoming te herstellen en voor zover dit een gevaar oplevert voor personen, zaken of het milieu, neemt de partij die de controle uitvoert stappen om te waarborgen dat het vaartuig niet uitvaart tenzij en totdat zodanig aan deze vereisten is voldaan dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal en aan de administratie medegedeeld.
 
 3. Bij het uitoefenen van de controles:
 
@@ -196,13 +196,13 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 ##### Artikel 12. Inwerkingtreding
 
-1. Het Verdrag treedt in werking 12 maanden na de datum waarop ten minste 15 staten hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=11&z=2019-03-24&g=2019-03-24).
+1. Het Verdrag treedt in werking 12 maanden na de datum waarop ten minste 15 staten hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=11&z=2026-01-01&g=2026-01-01).
 
 2. Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd nadat voldaan is aan de vereisten voor de inwerkingtreding ervan maar voorafgaand aan de datum van inwerkingtreding, wordt de bekrachtiging, aanvaarding, goedkeuring of toetreding van kracht op de datum waarop het Verdrag in werking treedt of drie maanden na de datum van de nederlegging van de akte, naargelang van wat het laatst is.
 
 3. Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd na de datum waarop het Verdrag in werking trad, wordt het Verdrag van kracht drie maanden na de datum van nederlegging van de akte.
 
-4. Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=10&z=2019-03-24&g=2019-03-24), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
+4. Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=10&z=2026-01-01&g=2026-01-01), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
 
 ##### Artikel 13. Opzegging
 
