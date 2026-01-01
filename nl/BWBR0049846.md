@@ -4,7 +4,7 @@ identifier: "BWBR0049846"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049846"
 soort: "AMvB"
@@ -88,7 +88,7 @@ De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de op
 
 - j. [artikel 447e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e);
 
-- k. [artikel 453 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=453) en [artikel 45 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45);
+- k. [artikel 430b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=430b) en [artikel 45 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45);
 
 - l. de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) en [73 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=73) waarbij per dader de schade niet meer dan € 1.150 mag bedragen en de totale schade de € 5.750 niet te boven mag gaan;
 
@@ -124,15 +124,15 @@ De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de op
 
 - h. [artikel 440 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=440), voor zover het reisdocumenten, of identiteitsbewijzen betreft.
 
-2. Voor de strafbare feiten uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=3&z=2024-07-01&g=2024-07-01) waarbij de schade de maximale schadebedragen te boven gaat, kan de opsporingsambtenaar, na verleende toestemming daartoe van de officier van justitie en met inachtneming van de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2024-07-01&g=2024-07-01), en de omstandigheden van het geval, een Halt-afdoening aanbieden, indien het schadebedrag niet meer bedraagt dan € 2.500 per dader en de totale schade niet meer dan € 7500, dan wel de waarde van het goed niet meer bedraagt dan € 1.000.
+2. Voor de strafbare feiten uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=3&z=2026-01-01&g=2026-01-01) waarbij de schade de maximale schadebedragen te boven gaat, kan de opsporingsambtenaar, na verleende toestemming daartoe van de officier van justitie en met inachtneming van de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2026-01-01&g=2026-01-01), en de omstandigheden van het geval, een Halt-afdoening aanbieden, indien het schadebedrag niet meer bedraagt dan € 2.500 per dader en de totale schade niet meer dan € 7500, dan wel de waarde van het goed niet meer bedraagt dan € 1.000.
 
 ##### Artikel 5
 
 Met inachtneming van de uitzonderlijke omstandigheden van het geval en na verleende toestemming daartoe van de officier van justitie, kan de opsporingsambtenaar in individuele zaken:
 
-- a. een Halt-afdoening aanbieden voor andere strafbare feiten dan in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=3&z=2024-07-01&g=2024-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=4&z=2024-07-01&g=2024-07-01) genoemd, of;
+- a. een Halt-afdoening aanbieden voor andere strafbare feiten dan in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=4&z=2026-01-01&g=2026-01-01) genoemd, of;
 
-- b. afwijken van hetgeen in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2024-07-01&g=2024-07-01), is bepaald.
+- b. afwijken van hetgeen in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2026-01-01&g=2026-01-01), is bepaald.
 
 ##### Artikel 6
 
