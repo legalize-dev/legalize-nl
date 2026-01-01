@@ -4,7 +4,7 @@ identifier: "BWBR0036636"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-10-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036636"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 1. De raad voor de kinderbescherming is gevestigd te Den Haag.
 
-2. De raad staat onder leiding van een algemeen directeur, die wordt bijgestaan door vijf directieleden. Zij vormen gezamenlijk de landelijke directie.
+2. De raad staat onder leiding van een algemeen directeur, die wordt bijgestaan door vier directieleden. Zij vormen gezamenlijk de landelijke directie.
 
 3. De algemeen directeur wordt, waar nodig, vervangen door een van de in het tweede lid bedoelde directieleden. De vervanging wordt in onderling overleg bepaald.
 
@@ -78,7 +78,9 @@ Hebben goedgevonden en verstaan:
 
 - i. Oost-Brabant met de locaties ’s-Hertogenbosch en Eindhoven, en
 
-- j. Limburg met de locatie Maastricht.
+- j. Limburg met de locaties Maastricht en Roermond.
+
+3. Elke locatie heeft een vestigingsmanager.
 
 ##### Artikel 3
 
@@ -94,7 +96,7 @@ Wijzigt het Besluit externe klachtencommissie raad voor de kinderbescherming.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2020-10-01&g=2020-10-01) dat met ingang van 1 juli 2015 in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2026-01-01&g=2026-01-01) dat met ingang van 1 juli 2015 in werking treedt.
 
 ##### Artikel 7
 
