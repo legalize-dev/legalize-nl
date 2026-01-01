@@ -4,7 +4,7 @@ identifier: "BWBR0039974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2025-12-25"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039974"
 soort: "ministeriele-regeling"
@@ -121,9 +121,9 @@ Onder commandant, bedoeld in [artikel 1, onderdeel d, van het besluit](https://w
 
 ##### Artikel 5a. Samenloop functioneringstoelage, bindingspremie en beloningen
 
-1. Bij toekenning van een aanspraak op een functioneringstoelage, als bedoeld in [artikel 12a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12a), een bindingspremie, als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12) jo [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2025-12-25&g=2025-12-25), of een beloning, als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=13), bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van de tot een jaarbedrag herleide bezoldiging in de maand van de toekenning.
+1. Bij toekenning van een aanspraak op een functioneringstoelage, als bedoeld in [artikel 12a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12a), een bindingspremie, als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12) jo [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), of een beloning, als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=13), bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van de tot een jaarbedrag herleide bezoldiging in de maand van de toekenning.
 
-2. Onverminderd het eerste lid bedraagt bij het toekennen van een bindingspremie op grond van [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2025-12-25&g=2025-12-25), de totale waarde van die aanspraken, gerekend over de voorgaande 12 maanden, maximaal 50% van de tot een jaarbedrag herleide bezoldiging in de maand van toekenning.
+2. Onverminderd het eerste lid bedraagt bij het toekennen van een bindingspremie op grond van [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), de totale waarde van die aanspraken, gerekend over de voorgaande 12 maanden, maximaal 50% van de tot een jaarbedrag herleide bezoldiging in de maand van toekenning.
 
 ##### Artikel 6. Maatregel voor negatieve inkomenseffecten pensioenpremie
 
@@ -355,7 +355,7 @@ De militair met een Nederlands militair parachutistenbrevet, of in opleiding daa
 
 - e. een gedeelte van een etmaal aangemerkt als een vol etmaal.
 
-5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2025-12-25&g=2025-12-25).
+5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 17. Toelage verblijf recompressietoestel
 
@@ -611,7 +611,7 @@ Vervallen
 
 - 3°. in militaire dienst bij het voormalig KNIL, troepen in Suriname (tot 25 november 1975), de Nederlandse Antillen en Aruba;
 
-- c. voor de berekening van de diensttijd bedoeld onder a en b telt dubbel mee de tijd bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=34&z=2025-12-25&g=2025-12-25) alsmede de dubbel tellende pensioengeldige tijd die tot 1 januari 2019 dubbel werd geteld op grond van de Regeling dubbeltelling pensioengeldige tijd of op grond van vroegere militaire pensioenwetten;
+- c. voor de berekening van de diensttijd bedoeld onder a en b telt dubbel mee de tijd bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=34&z=2026-01-01&g=2026-01-01) alsmede de dubbel tellende pensioengeldige tijd die tot 1 januari 2019 dubbel werd geteld op grond van de Regeling dubbeltelling pensioengeldige tijd of op grond van vroegere militaire pensioenwetten;
 
 - d. de in onderdeel c genoemde diensttijd wordt voor de vaststelling van de diensttijd voor het 12½ jaar en 25 jaar ten hoogste zes, onderscheidenlijk negen jaar dubbel geteld;
 
@@ -671,7 +671,7 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 34. Dubbeltelling diensttijd voor diensttijdgratificaties
 
-1. Voor diensttijdgratificaties telt dubbel als bedoeld in [artikel 33, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=33&z=2025-12-25&g=2025-12-25):
+1. Voor diensttijdgratificaties telt dubbel als bedoeld in [artikel 33, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=33&z=2026-01-01&g=2026-01-01):
 
 - a. inzet in tijd van oorlog, voor zover door de Minister bepaald, na beëindiging van de staat van oorlog door de Staten-Generaal;
 
@@ -705,15 +705,15 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 36a. Garantievliegtoelage
 
-1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2025-12-25&g=2025-12-25), zoals dat artikel luidde voor genoemde datum.
+1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde voor genoemde datum.
 
-2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2025-12-25&g=2025-12-25) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
+2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
 
-3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2025-12-25&g=2025-12-25) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2025-12-25&g=2025-12-25), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
+3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
 
 ##### Artikel 37. Herstructurering vliegtoelage/garantievliegtoelage
 
-1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2025-12-25&g=2025-12-25), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
+1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
 
 2. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een garantievliegtoelage als bedoeld in artikel 3, tweede lid, of artikel 5, vierde lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 48, tweede lid, of artikel 80, vierde lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, is bij beëindiging van de in genoemde bepalingen bedoelde tijdelijke onderbreking voor het vaststellen van de waarderingsfactor het eerste lid van overeenkomstige toepassing.
 
@@ -821,17 +821,17 @@ Bedragen met ingang van 1 januari 2018
 
 1 **Lidmaatschap van de beroepsvereniging Verpleegkundigen & Verzorgenden Nederland afd IC (V&VN IC) en Ingeschreven in kwaliteitsregister van de beroepsvereniging Nederlandse Vereniging Spoedeisende Hulp Verpleegkundigen (NVSHV).**
 
-### Tabel 13a. IRM Aanstellingspremie 2025
+### Tabel 13a. IRM Aanstellingspremie 2026
 
-Voor de rijbewijsmaatregel 2025 moet het examen voor rijbewijs B standaard op een handgeschakelde auto plaatsvinden. Als medewerkers hun rijbewijs B op een automaat halen, krijgen zij de mogelijkheid om zich buiten Defensie, op kosten van Defensie, om te scholen naar een rijbewijs zonder automaatcode (handgeschakelde auto)’.
+1 Voor deze geldt dat de aanstellingspremie voor alle functie(sub-)categorieën binnen deze rang en W/D/F van toepassing is.
 
-### Tabel 15. Toelage verblijf onderwaterlaboratorium
+### Tabel 13b. IRM Rijbewijsmaatregel 2026
 
 ### Tabel 14. Duiktoelage
 
 5 Wordt na voltooiing initiële opleiding meteen bevorderd tot KPL ODOPS.
 
-### Tabel 16. Toelage verblijf recompressietoestel
+### Tabel 15. Toelage verblijf onderwaterlaboratorium
 
 Militairen die in het jaar 2024 worden aangesteld bij het beroepspersoneel en ingedeeld zijn bij:
 
@@ -839,7 +839,7 @@ Militairen die in het jaar 2024 worden aangesteld bij het beroepspersoneel en in
 
 Het gestelde onder lid 3 van [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=13b&z=2024-12-17&g=2024-12-17) moet zo gelezen en toegepast worden dat alle militairen die behoren tot een van bovengenoemde categorieën na hun aanstelling in het jaar 2024 direct kunnen starten met de gewenste theorie- of rijopleiding (als bedoeld in lid 1 en lid 2 van het artikel). Defensie komt de gemaakte kosten met terugwerkende kracht tegemoet op het moment dat betreffende militair declareert waarbij zowel de proeftijd in tijd is verstreken als de initiële opleiding met goed gevolg is afgerond.
 
-### Tabel 20. Havenvergoeding
+### Tabel 19. Tegemoetkoming in de kosten van recepties
 
 ### Tabel 20. Havenvergoeding
 
@@ -849,23 +849,23 @@ Bedragen met ingang van 1 januari 2004 (in euro’s)
 
 (vervallen)
 
+### Tabel 22
+
+(vervallen)
+
 ### Tabel 23
 
 (vervallen)
 
 ### Tabel 24
 
-(vervallen)
-
 ### Tabel 25. Toelage meerdaagse dienstreis
 
 ### Tabel 25. Toelage meerdaagse dienstreis
 
-### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
-
 (vervallen)
 
-### Tabel 24
+### Tabel 27. Actuariële factoren ([artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=6a&z=2026-01-01&g=2026-01-01) IRM)
 
 ### Tabel 24
 
@@ -977,19 +977,19 @@ Bedragen met ingang van 1 januari 2018
 
 Voor de rijbewijsmaatregel 2025 moet het examen voor rijbewijs B standaard op een handgeschakelde auto plaatsvinden. Als medewerkers hun rijbewijs B op een automaat halen, krijgen zij de mogelijkheid om zich buiten Defensie, op kosten van Defensie, om te scholen naar een rijbewijs zonder automaatcode (handgeschakelde auto)’.
 
-### Tabel 15. Toelage verblijf onderwaterlaboratorium
+### Tabel 14. Duiktoelage
 
 7 **Dient aangesteld te worden op functie bestemd voor CYBER categorie-2.**
 
-### Tabel 17. Toelage verblijf decompressietoestel
+### Tabel 16. Toelage verblijf recompressietoestel
 
 Bedragen met ingang van 1 maart 2025
 
+### Tabel 20. Havenvergoeding
+
+Bedragen met ingang van 1 januari 2004 (in euro’s)
+
 ### Tabel 21. Herstructurering vliegtoelage (waarderingsfactoren)
-
-(vervallen)
-
-### Tabel 22
 
 (vervallen)
 
@@ -1001,7 +1001,7 @@ Bedragen met ingang van 1 maart 2025
 
 (vervallen)
 
-### Tabel 27. Actuariële factoren ([artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=6a&z=2025-12-25&g=2025-12-25) IRM)
+### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
 
 (vervallen)
 
@@ -1057,7 +1057,7 @@ Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-40
 
 - –. **nadelig pensioenvooruitzicht:** het berekende bedrag dat het uitzichtpensioen op basis van de eindloonregeling hoger is dan het uitzichtpensioen op basis van de middelloonregeling;
 
-- –. **niet reguliere wijziging van een vaste toelage:** de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2025-12-25&g=2025-12-25) van de Inkomstenregeling militairen;
+- –. **niet reguliere wijziging van een vaste toelage:** de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) van de Inkomstenregeling militairen;
 
 - –. **nieuwe diensteinderegeling:** het leeftijdsontslag als bedoeld in [artikel 39, tweede lid, onder a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), waarbij in dit artikel wordt uitgegaan van een UGM-ingangsdatum op de leeftijd van 63 jaar en een pensioeningangsdatum op de leeftijd van 68 jaar;
 
@@ -1143,11 +1143,11 @@ Indien de berekeningsgrondslag eindloon kleiner is dan € 31.158, dan wordt het
 
 (vervallen)
 
-4 Wordt na voltooiing initiële opleiding meteen bevorderd tot KPL MARNALG.
+De rijbewijsmaatregel is van toepassing bij het examen op een handgeschakelde auto. Indien de medewerker een rijbewijs met automaatcode heeft kan de medewerker gebruik maken van de rijbewijsmaatregel voor de omscholing naar een rijbewijs zonder automaatcode.
 
-### Tabel 18. Tegemoetkoming in de kosten van representatie
+### Tabel 17. Toelage verblijf decompressietoestel
 
-Bedragen met ingang van 1 januari 2004 (in euro’s)
+Bedragen met ingang van 1 maart 2025
 
 (vervallen)
 
@@ -1159,11 +1159,13 @@ Bedragen met ingang van 1 januari 2018
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
 
-### Tabel 19. Tegemoetkoming in de kosten van recepties
+### Tabel 18. Tegemoetkoming in de kosten van representatie
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
 
 (vervallen)
+
+Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
 
