@@ -4,7 +4,7 @@ identifier: "BWBR0048252"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048252"
 soort: "wet"
@@ -52,8 +52,6 @@ Wijzigt de Algemene wet bestuursrecht.
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ib
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij ministeriële regeling regels stellen over een specifieke uitkering aan gemeenten ter bekostiging van de ondersteuning van burgers bij het verkeer met en de dienstverlening door een bestuursorgaan langs elektronische weg.
@@ -61,8 +59,6 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij ministeriël
 ##### Artikel II
 
 Wijzigt de Advocatenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -72,55 +68,37 @@ Wijzigt de Algemene douanewet.
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Dienstenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Erfgoedwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Kaderwet overige BZK-subsidies.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Kadasterwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Politiewet 2012.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -134,13 +112,9 @@ Wijzigt de Vreemdelingenwet 2000.
 
 Wijzigt de Waterwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVa1
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVa
 
@@ -150,43 +124,29 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 Wijzigt de Wet ambtenaren defensie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIIa
 
 Wijzigt de Wet experiment gesloten coffeeshopketen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
 Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Wet op de expertisecentra.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
@@ -196,13 +156,9 @@ Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
 
 Wijzigt de Wet op de loonvorming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
@@ -212,55 +168,37 @@ Wijzigt de Wet op het notarisambt.
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII
 
 Wijzigt de Wet op het primair onderwijs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
 Wijzigt de Wet op het voortgezet onderwijs 2020.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIXa
 
 Wijzigt de Wet register onderwijsdeelnemers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXII
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIIIa
 
@@ -268,30 +206,24 @@ Wijzigt de Wet wapens en munitie.
 
 ##### Artikel XXXIV
 
-Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel XXXV
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet modernisering elektronisch bestuurlijk verkeer.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel XXXA
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
