@@ -4,7 +4,7 @@ identifier: "BWBR0036465"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-11-26"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036465"
 soort: "ministeriele-regeling-BES"
@@ -38,7 +38,7 @@ entry_into_force: "2016-12-20"
 
 ##### Artikel 1. Bezoldigingschalen
 
-De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2025 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2025-11-26&g=2025-11-26) bij deze regeling is vermeld.
+De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2026 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is vermeld.
 
 ##### Artikel 2. Garantietreden
 
@@ -60,11 +60,11 @@ Vervallen
 
 ##### Artikel 5. Bezoldiging geestelijke
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26), bedraagt de bezoldiging voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2025 USD 2.176.
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), bedraagt de bezoldiging voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2.026 USD 2.209.
 
 ##### Artikel 6. Extra toelage IBTers etc
 
-Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële Inrichtingen BES, aan de ambtenaar in dienst van de staat die is aangesteld voor de uitvoering van de politietaak en aan de aspirant wordt, indien hij volgens dienstrooster beschikbaar is om bij calamiteiten op afroep werkzaamheden te verrichten die niet tot zijn normale werkzaamheden behoren, bij het daadwerkelijk verrichten van die werkzaamheden een toeslag toegekend van USD 6,60 per uur.
+Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële Inrichtingen BES, aan de ambtenaar in dienst van de staat die is aangesteld voor de uitvoering van de politietaak en aan de aspirant wordt, indien hij volgens dienstrooster beschikbaar is om bij calamiteiten op afroep werkzaamheden te verrichten die niet tot zijn normale werkzaamheden behoren, bij het daadwerkelijk verrichten van die werkzaamheden een toeslag toegekend van USD 6,70 per uur.
 
 ##### Artikel 7. Bovenwindentoelage
 
@@ -98,11 +98,11 @@ Vervallen
 
 1. Deze regeling treedt in werking met ingang van 1 april 2015.
 
-2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2025-11-26&g=2025-11-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2025-11-26&g=2025-11-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2025-11-26&g=2025-11-26), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2025-11-26&g=2025-11-26), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2025-11-26&g=2025-11-26) werken terug tot en met 1 juli 2013.
+2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2026-01-01&g=2026-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2026-01-01&g=2026-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2026-01-01&g=2026-01-01) werken terug tot en met 1 juli 2013.
 
-3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2025-11-26&g=2025-11-26), werken terug tot en met 1 januari 2014.
+3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2026-01-01&g=2026-01-01), werken terug tot en met 1 januari 2014.
 
-4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2025-11-26&g=2025-11-26) werkt terug tot en met 1 januari 2015.
+4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2026-01-01&g=2026-01-01) werkt terug tot en met 1 januari 2015.
 
 ##### Artikel 13
 
@@ -114,35 +114,35 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES.
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
-## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
-## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Douane BES met goede beoordeling 2013
 
-## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -298,66 +298,66 @@ Gelet op de [artikelen 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 Besluit:
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26) van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01) van de Regeling bezoldiging Rijksambtenaren BES
 
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** | **Nr** |
-| **1** |   |   |   |   | 1.888 | 2.132 | 2.436 | 2.741 | 3.121 | 3.578 | 4.111 | 4.801 | 5.577 | 6.268 | 7.135 | 7.714 | 8.496 | **1** |
-| **2** |   |   |   | 1.842 | 1.949 | 2.192 | 2.497 | 2.817 | 3.197 | 3.654 | 4.197 | 4.887 | 5.664 | 6.364 | 7.232 | 7.826 | 8.607 | **2** |
-| **3** |   |   |   | 1.888 | 2.010 | 2.253 | 2.558 | 2.893 | 3.273 | 3.730 | 4.283 | 4.974 | 5.750 | 6.460 | 7.328 | 7.937 | 8.719 | **3** |
-| **4** |   |   | 1.842 | 1.934 | 2.071 | 2.314 | 2.619 | 2.969 | 3.350 | 3.806 | 4.370 | 5.060 | 5.836 | 6.557 | 7.425 | 8.049 | 8.831 | **4** |
-| **5** |   |   | 1.888 | 1.979 | 2.132 | 2.375 | 2.680 | 3.045 | 3.426 | 3.882 | 4.456 | 5.146 | 5.923 | 6.653 | 7.521 | 8.161 | 8.942 | **5** |
-| **6** |   | 1.842 | 1.934 | 2.025 | 2.192 | 2.436 | 2.741 | 3.121 | 3.502 | 3.959 | 4.542 | 5.232 | 6.009 | 6.750 | 7.618 | 8.272 | 9.054 | **6** |
-| **7** |   | 1.888 | 1.979 | 2.071 | 2.253 | 2.497 | 2.801 | 3.197 | 3.578 | 4.035 | 4.628 | 5.319 | 6.095 | 6.846 | 7.714 | 8.384 | 9.165 | **7** |
-| **8** | 1.842 | 1.934 | 2.025 | 2.116 | 2.314 | 2.558 | 2.862 | 3.273 | 3.654 | 4.111 | 4.715 | 5.405 | 6.181 | 6.943 | 7.810 | 8.496 | 9.277 | **8** |
-| **9** | 1.888 | 1.979 | 2.071 | 2.162 | 2.375 | 2.619 | 2.923 | 3.350 | 3.730 | 4.187 | 4.801 | 5.491 | 6.268 | 7.039 | 7.907 | 8.607 | 9.389 | **9** |
-| **10** | 1.934 | 2.025 | 2.116 | 2.208 | 2.436 | 2.680 | 2.984 | 3.426 | 3.806 | 4.263 | 4.887 | 5.577 | 6.354 | 7.135 | 8.003 | 8.719 | 9.500 | **10** |
-| **11** | 1.979 | 2.071 | 2.162 | 2.253 | 2.497 | 2.741 | 3.045 | 3.502 | 3.882 | 4.339 | 4.974 | 5.664 | 6.440 | 7.232 | 8.100 | 8.831 | 9.612 | **11** |
-| **12** | 2.025 | 2.116 | 2.208 | 2.299 | 2.558 | 2.801 | 3.106 | 3.578 | 3.959 | 4.415 | 5.060 | 5.750 | 6.526 | 7.328 | 8.196 | 8.942 | 9.724 | **12** |
-| **13** | 2.071 | 2.162 | 2.253 | 2.345 | 2.619 | 2.862 | 3.167 | 3.654 | 4.035 | 4.491 | 5.146 | 5.836 | 6.613 | 7.425 | 8.293 | 9.054 | 9.835 | **13** |
-| **14** | 2.116 | 2.208 | 2.299 | 2.390 | 2.680 | 2.923 | 3.228 | 3.730 | 4.111 | 4.568 | 5.232 | 5.923 | 6.699 | 7.521 | 8.389 | 9.165 | 9.947 | **14** |
-| **15** | 2.162 | 2.253 | 2.345 | 2.436 | 2.741 | 2.984 | 3.289 | 3.806 | 4.187 | 4.644 | 5.319 | 6.009 | 6.785 | 7.618 | 8.485 | 9.277 | 10.059 | **15** |
+| **1** |   |   |   |   | 1.916 | 2.164 | 2.473 | 2.782 | 3.168 | 3.632 | 4.173 | 4.873 | 5.661 | 6.362 | 7.242 | 7.830 | 8.623 | **1** |
+| **2** |   |   |   | 1.870 | 1.978 | 2.225 | 2.534 | 2.859 | 3.245 | 3.709 | 4.260 | 4.960 | 5.749 | 6.459 | 7.340 | 7.943 | 8.736 | **2** |
+| **3** |   |   |   | 1.916 | 2.040 | 2.287 | 2.596 | 2.936 | 3.322 | 3.786 | 4.347 | 5.049 | 5.836 | 6.557 | 7.438 | 8.056 | 8.850 | **3** |
+| **4** |   |   | 1.870 | 1.963 | 2.102 | 2.349 | 2.658 | 3.014 | 3.400 | 3.863 | 4.436 | 5.136 | 5.924 | 6.655 | 7.536 | 8.170 | 8.963 | **4** |
+| **5** |   |   | 1.916 | 2.009 | 2.164 | 2.411 | 2.720 | 3.091 | 3.477 | 3.940 | 4.523 | 5.223 | 6.012 | 6.753 | 7.634 | 8.283 | 9.076 | **5** |
+| **6** |   | 1.870 | 1.963 | 2.055 | 2.225 | 2.473 | 2.782 | 3.168 | 3.555 | 4.018 | 4.610 | 5.310 | 6.099 | 6.851 | 7.732 | 8.396 | 9.190 | **6** |
+| **7** |   | 1.916 | 2.009 | 2.102 | 2.287 | 2.534 | 2.843 | 3.245 | 3.632 | 4.096 | 4.697 | 5.399 | 6.186 | 6.949 | 7.830 | 8.510 | 9.302 | **7** |
+| **8** | 1.870 | 1.963 | 2.055 | 2.148 | 2.349 | 2.596 | 2.905 | 3.322 | 3.709 | 4.173 | 4.786 | 5.486 | 6.274 | 7.047 | 7.927 | 8.623 | 9.416 | **8** |
+| **9** | 1.916 | 2.009 | 2.102 | 2.194 | 2.411 | 2.658 | 2.967 | 3.400 | 3.786 | 4.250 | 4.873 | 5.573 | 6.362 | 7.145 | 8.026 | 8.736 | 9.530 | **9** |
+| **10** | 1.963 | 2.055 | 2.148 | 2.241 | 2.473 | 2.720 | 3.029 | 3.477 | 3.863 | 4.327 | 4.960 | 5.661 | 6.449 | 7.242 | 8.123 | 8.850 | 9.643 | **10** |
+| **11** | 2.009 | 2.102 | 2.194 | 2.287 | 2.534 | 2.782 | 3.091 | 3.555 | 3.940 | 4.404 | 5.049 | 5.749 | 6.537 | 7.340 | 8.222 | 8.963 | 9.756 | **11** |
+| **12** | 2.055 | 2.148 | 2.241 | 2.333 | 2.596 | 2.843 | 3.153 | 3.632 | 4.018 | 4.481 | 5.136 | 5.836 | 6.624 | 7.438 | 8.319 | 9.076 | 9.870 | **12** |
+| **13** | 2.102 | 2.194 | 2.287 | 2.380 | 2.658 | 2.905 | 3.215 | 3.709 | 4.096 | 4.558 | 5.223 | 5.924 | 6.712 | 7.536 | 8.417 | 9.190 | 9.983 | **13** |
+| **14** | 2.148 | 2.241 | 2.333 | 2.426 | 2.720 | 2.967 | 3.276 | 3.786 | 4.173 | 4.637 | 5.310 | 6.012 | 6.799 | 7.634 | 8.515 | 9.302 | 10.096 | **14** |
+| **15** | 2.194 | 2.287 | 2.380 | 2.473 | 2.782 | 3.029 | 3.338 | 3.863 | 4.250 | 4.714 | 5.399 | 6.099 | 6.887 | 7.732 | 8.612 | 9.416 | 10.210 | **15** |
 
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** |
-| **GPT16** |   |   |   | 2.482 | 2.801 | 3.045 | 3.350 | 3.882 | 4.263 | 4.720 | 5.405 | 6.095 | 6.872 |   |   |   |   | **GPT16** |
-| **GPT17** |   |   |   | 2.527 | 2.862 | 3.106 | 3.410 | 3.959 | 4.339 | 4.796 | 5.491 | 6.181 | 6.958 |   |   |   |   | **GPT17** |
-| **GPT18** |   |   |   | 2.573 | 2.923 | 3.167 | 3.471 | 4.035 | 4.415 | 4.944 |   |   | 7.044 |   |   |   |   | **GPT18** |
-| **GPT19** |   |   |   | 2.619 | 2.984 | 3.228 | 3.560 | 4.111 | 4.532 | 5.076 |   |   |   |   |   |   |   | **GPT19** |
-| **GPT20** |   |   |   | 2.664 | 3.045 | 3.289 | 3.648 | 4.187 | 4.649 | 5.210 |   |   |   |   |   |   |   | **GPT20** |
-| **GPT21** |   |   |   |   | 3.106 | 3.350 | 3.737 | 4.286 | 4.766 |   |   |   |   |   |   |   |   | **GPT21** |
-| **GPT22** |   |   |   |   | 3.167 | 3.410 | 3.819 | 4.397 | 4.883 |   |   |   |   |   |   |   |   | **GPT22** |
-| **GPT23** |   |   |   |   | 3.228 | 3.471 | 3.907 | 4.507 |   |   |   |   |   |   |   |   |   | **GPT23** |
-| **GPT24** |   |   |   |   | 3.289 | 3.560 | 3.992 | 4.619 |   |   |   |   |   |   |   |   |   | **GPT24** |
-| **GPT25** |   |   |   |   | 3.350 |   | 4.078 |   |   |   |   |   |   |   |   |   |   | **GPT25** |
-| **GPT26** |   |   |   |   | 3.410 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT26** |
-| **GPT27** |   |   |   |   | 3.471 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT27** |
+| **GPT16** |   |   |   | 2.519 | 2.843 | 3.091 | 3.400 | 3.940 | 4.327 | 4.791 | 5.486 | 6.186 | 6.975 |   |   |   |   | **GPT16** |
+| **GPT17** |   |   |   | 2.565 | 2.905 | 3.153 | 3.461 | 4.018 | 4.404 | 4.868 | 5.573 | 6.274 | 7.062 |   |   |   |   | **GPT17** |
+| **GPT18** |   |   |   | 2.612 | 2.967 | 3.215 | 3.523 | 4.096 | 4.481 | 5.018 |   |   | 7.150 |   |   |   |   | **GPT18** |
+| **GPT19** |   |   |   | 2.658 | 3.029 | 3.276 | 3.613 | 4.173 | 4.600 | 5.152 |   |   |   |   |   |   |   | **GPT19** |
+| **GPT20** |   |   |   | 2.704 | 3.091 | 3.338 | 3.703 | 4.250 | 4.719 | 5.288 |   |   |   |   |   |   |   | **GPT20** |
+| **GPT21** |   |   |   |   | 3.153 | 3.400 | 3.793 | 4.350 | 4.837 |   |   |   |   |   |   |   |   | **GPT21** |
+| **GPT22** |   |   |   |   | 3.215 | 3.461 | 3.876 | 4.463 | 4.956 |   |   |   |   |   |   |   |   | **GPT22** |
+| **GPT23** |   |   |   |   | 3.276 | 3.523 | 3.966 | 4.575 |   |   |   |   |   |   |   |   |   | **GPT23** |
+| **GPT24** |   |   |   |   | 3.338 | 3.613 | 4.052 | 4.688 |   |   |   |   |   |   |   |   |   | **GPT24** |
+| **GPT25** |   |   |   |   | 3.400 |   | 4.139 |   |   |   |   |   |   |   |   |   |   | **GPT25** |
+| **GPT26** |   |   |   |   | 3.461 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT26** |
+| **GPT27** |   |   |   |   | 3.523 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT27** |
 
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** |
-| **GJT16** |   |   | 2.390 | 2.482 | 2.801 | 3.045 | 3.350 | 3.882 | 4.263 | 4.720 | 5.405 |   |   |   |   |   |   | **GJT16** |
-| **GJT17** |   |   | 2.436 | 2.527 | 2.862 | 3.106 | 3.410 | 3.959 | 4.339 | 4.796 | 5.491 |   |   |   |   |   |   | **GJT17** |
-| **GJT18** |   |   | 2.482 | 2.573 | 2.923 | 3.167 | 3.471 | 4.035 | 4.415 | 4.944 | 5.619 |   |   |   |   |   |   | **GJT18** |
-| **GJT19** |   |   | 2.527 | 2.619 | 2.984 | 3.228 | 3.560 | 4.111 | 4.532 | 5.076 | 5.770 |   |   |   |   |   |   | **GJT19** |
-| **GJT20** |   |   |   | 2.664 | 3.045 | 3.289 | 3.648 | 4.187 | 4.649 | 5.210 | 5.920 |   |   |   |   |   |   | **GJT20** |
-| **GJT21** |   |   |   |   | 3.106 | 3.350 | 3.737 | 4.286 | 4.766 | 5.338 | 6.075 |   |   |   |   |   |   | **GJT21** |
-| **GJT22** |   |   |   |   | 3.167 | 3.410 |   | 4.397 |   | 5.471 |   |   |   |   |   |   |   | **GJT22** |
+| **GJT16** |   |   | 2.426 | 2.519 | 2.843 | 3.091 | 3.400 | 3.940 | 4.327 | 4.791 | 5.486 |   |   |   |   |   |   | **GJT16** |
+| **GJT17** |   |   | 2.473 | 2.565 | 2.905 | 3.153 | 3.461 | 4.018 | 4.404 | 4.868 | 5.573 |   |   |   |   |   |   | **GJT17** |
+| **GJT18** |   |   | 2.519 | 2.612 | 2.967 | 3.215 | 3.523 | 4.096 | 4.481 | 5.018 | 5.703 |   |   |   |   |   |   | **GJT18** |
+| **GJT19** |   |   | 2.565 | 2.658 | 3.029 | 3.276 | 3.613 | 4.173 | 4.600 | 5.152 | 5.857 |   |   |   |   |   |   | **GJT19** |
+| **GJT20** |   |   |   | 2.704 | 3.091 | 3.338 | 3.703 | 4.250 | 4.719 | 5.288 | 6.009 |   |   |   |   |   |   | **GJT20** |
+| **GJT21** |   |   |   |   | 3.153 | 3.400 | 3.793 | 4.350 | 4.837 | 5.418 | 6.166 |   |   |   |   |   |   | **GJT21** |
+| **GJT22** |   |   |   |   | 3.215 | 3.461 |   | 4.463 |   | 5.553 |   |   |   |   |   |   |   | **GJT22** |
 
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** |
-| **GDT16** |   |   |   |   |   |   | 3.350 |   | 4.263 | 4.720 | 5.405 |   |   |   |   |   |   | **GDT16** |
-| **GDT17** |   |   |   |   |   |   | 3.410 |   | 4.339 |   |   |   |   |   |   |   |   | **GDT17** |
+| **GDT16** |   |   |   |   |   |   | 3.400 |   | 4.327 | 4.791 | 5.486 |   |   |   |   |   |   | **GDT16** |
+| **GDT17** |   |   |   |   |   |   | 3.461 |   | 4.404 |   |   |   |   |   |   |   |   | **GDT17** |
 
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** | **Garantietreden** |
-| **GRT16** | 2.208 | 2.299 | 2.390 | 2.482 | 2.801 | 3.045 | 3.350 | 3.882 |   |   |   |   |   |   |   |   |   | **GRT16** |
-| **GRT17** |   | 2.345 |   |   |   |   | 3.410 |   |   |   |   |   |   |   |   |   |   | **GRT17** |
-| **GRT18** |   | 2.390 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **GRT18** |
+| **GRT16** | 2.241 | 2.333 | 2.426 | 2.519 | 2.843 | 3.091 | 3.400 | 3.940 |   |   |   |   |   |   |   |   |   | **GRT16** |
+| **GRT17** |   | 2.380 |   |   |   |   | 3.461 |   |   |   |   |   |   |   |   |   |   | **GRT17** |
+| **GRT18** |   | 2.426 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **GRT18** |
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 juli 2013
 
@@ -365,25 +365,25 @@ Besluit:
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Bezoldiging Geestelijken BES per 1 januari 2013
 
-## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -479,11 +479,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
-## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2025-11-26&g=2025-11-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2026-01-01&g=2026-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
