@@ -4,7 +4,7 @@ identifier: "BWBR0028801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028801"
 soort: "ministeriele-regeling-BES"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 Vergoedingen worden aan de hand van een door de minister voor een periode van maximaal 5 jaren vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende:
 
-- a. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=1&z=2023-01-01&g=2023-01-01) voor zover het betreft luchtverkeersdiensten aan ‘en route’-verkeer,
+- a. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=1&z=2026-01-01&g=2026-01-01) voor zover het betreft luchtverkeersdiensten aan ‘en route’-verkeer,
 
-- b. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=2&z=2023-01-01&g=2023-01-01) voor zover het betreft luchtverkeersdiensten aan naderings- en terminalverkeer.
+- b. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=2&z=2026-01-01&g=2026-01-01) voor zover het betreft luchtverkeersdiensten aan naderings- en terminalverkeer.
 
 ##### Artikel 3
 
@@ -100,7 +100,7 @@ Van de verplichting tot het betalen van vergoedingen zijn vrijgesteld:
 
 - c. de gebruikers van luchtvaartuigen in het ‘en route’-verkeer waarvan het maximaal toegelaten totaalgewicht minder is dan 5.7 ton;
 
-- d. de gebruikers van luchtvaartuigen, anders dan bedoeld in de onderdelen a tot en met c, voor de periode van 1 januari 2023 tot en met 31 december 2025 tot een bedrag van USD 188,78 per eenheidstarief van de overeenkomstig [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2023-01-01&g=2023-01-01), te berekenen vergoeding voor de verstrekking van diensten in het kader van ATC als bedoeld in [artikel 1, eerste lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=1).
+- d. de gebruikers van luchtvaartuigen, anders dan bedoeld in de onderdelen a tot en met c, voor de periode van 1 januari 2026 tot en met 31 december 2028 tot een bedrag van USD 88,80 per eenheidstarief van de overeenkomstig [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2026-01-01&g=2026-01-01), te berekenen vergoeding voor de verstrekking van diensten in het kader van ATC als bedoeld in [artikel 1, eerste lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=1).
 
 ##### Artikel 9
 
@@ -114,7 +114,7 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen luchtverkeersdienstverlening BES.
 
-## Bijlage 1. behorende bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2023-01-01&g=2023-01-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
+## Bijlage 1. behorende bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2026-01-01&g=2026-01-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
 
 Formule voor de berekening van het eenheidstarief vergoedingen luchtverkeersdiensten
 
@@ -178,7 +178,7 @@ The service units rendered each year are calculated using the relevant civil avi
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorende bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2023-01-01&g=2023-01-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
+## Bijlage 2. behorende bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2026-01-01&g=2026-01-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
 
 Formule voor de berekening van het eenheidstarief voor vergoedingen van luchtverkeersdiensten naderings- en terminalverkeer.
 
