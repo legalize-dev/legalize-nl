@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -308,7 +308,7 @@ Artikel 80b van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 dec
 
 - 5. Met betrekking tot verplichtingen die tot stand zijn gekomen vóór 14 september 1999 tot het betalen van periodieke uitkeringen of verstrekkingen die de tegenwaarde voor een prestatie vormen, blijft artikel 45, eerste lid, aanhef en onderdeel b, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, van toepassing tot en met 31 december 2020. Voor zover de periodieke uitkeringen op grond van de vorige volzin zijn aan te merken als persoonlijke verplichtingen worden deze uitkeringen in aanmerking genomen als een onderhoudsverplichting als bedoeld in [afdeling 6.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.2).
 
-- 6. Op aanspraken op lijfrenten als bedoeld in artikel 25, tweede en derde lid, van de Wet op de inkomstenbelasting 1964 zoals dat artikel luidde op 31 december 1991 waarop ingevolge artikel 75 van die wet de regels van kracht zijn die daarvoor op 31 december 1991 golden, zijn in aanvulling op het eerste lid ook [artikel 1.7, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) en de daarop berustende bepalingen, alsmede [artikel 3.133, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), van overeenkomstige toepassing.
+- 6. Op aanspraken op lijfrenten als bedoeld in artikel 25, tweede en derde lid, van de Wet op de inkomstenbelasting 1964 zoals dat artikel luidde op 31 december 1991 waarop ingevolge artikel 75 van die wet de regels van kracht zijn die daarvoor op 31 december 1991 golden, zijn in aanvulling op het eerste lid ook [artikel 1.7, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) en de daarop berustende bepalingen, alsmede [artikel 3.133, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), van overeenkomstige toepassing. Voor de toepassing van de eerste zin is artikel 3.133, derde lid, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing, mits niet een latere contractueel overeengekomen einddatum voor de aanspraak op lijfrente van toepassing is dan de uiterste datum, genoemd in artikel 3.133, derde lid, van de Wet inkomstenbelasting 2001, en indien dat wel het geval is, is op die aanspraak op lijfrente artikel 3.133, derde lid, van de Wet inkomstenbelasting 2001 zoals dat artikel luidde op 31 december 2025 van toepassing.
 
 - 7. Met betrekking tot aanspraken op lijfrenten als bedoeld in het zesde lid zijn de aanhef en onderdeel d van het eerste lid ook van toepassing voor zover de desbetreffende premies het in onderdeel d genoemde bedrag van € 2269 te boven gaan, met dien verstande dat voor zover na 2009 betaalde premies het bedrag van € 2269 te boven gaan, deze niet in aanmerking worden genomen als prestatie als bedoeld in [artikel 25, zevende lid, van de Wet op de inkomstenbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), zoals die bepaling luidde op 31 december 1991.
 
@@ -772,9 +772,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2025-01-01&g=2025-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2026-01-01&g=2026-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2025-01-01&g=2025-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2026-01-01&g=2026-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
