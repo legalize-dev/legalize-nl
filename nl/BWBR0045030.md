@@ -4,7 +4,7 @@ identifier: "BWBR0045030"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-04-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045030"
 soort: "wet"
@@ -87,17 +87,7 @@ Wijzigt de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel XI. Overgangsbepaling bekostiging periode start schooljaar tot invoering vereenvoudigde bekostiging
 
-1. De aanspraak op bekostiging voor materiële instandhouding op grond van [Hoofdstuk I, Titel IV, Afdeling 4, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=4), [Hoofdstuk I, Titel III, Afdeling 4, van de Wet op de expertisecentra](onbekend) en [Hoofdstuk I, Titel III, Afdeling 4, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&afdeling=4), zoals die luidden op de dag voor inwerkingtreding van deze wet, blijft van kracht tot en met 31 december van het jaar van inwerkingtreding van deze wet.
-
-2. De aanspraak op bekostiging op grond van de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=129) en [132 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=132), de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [124 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=124), de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=101) en [110 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=110) en artikel [85d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85d), zoals die bepalingen luidden op de dag voor inwerkingtreding van dit artikel, blijft van kracht tot en met 31 juli van het jaar van inwerkingtreding van deze wet.
-
-3. Voor de periode van 1 augustus tot en met 31 december volgend op de inwerkingtreding van deze wet wordt de aanspraak op personele bekostiging berekend op grond van het bepaalde bij of krachtens de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=129) en [132 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=132), de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [124 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=124), de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=101) en [110 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=101), en [artikel 85d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85d), zoals die bepalingen luidden op de dag voor inwerkingtreding van deze wet.
-
-4. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124) en [125b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=125b) en [artikel 85d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85d), zoals deze luidden op de dag voor de inwerkingtreding van deze wet blijven van toepassing op overdracht van de bekostiging, bedoeld in het tweede en derde lid.
-
-5. Bij ministeriële regeling worden de bedragen vastgesteld waarop de aanspraak, bedoeld in het tweede en derde lid, betrekking heeft.
-
-6. Dit artikel vervalt met ingang van 1 januari 2026.
+Vervallen
 
 ##### Artikel XII. Samenloop met [Wet voortgezet onderwijs 20xx](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
