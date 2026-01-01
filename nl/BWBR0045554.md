@@ -4,7 +4,7 @@ identifier: "BWBR0045554"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045554"
 soort: "wet"
@@ -47,13 +47,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Advocatenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259)
 
 Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628)
 
@@ -66,8 +62,6 @@ Wijzigt de Leerplichtwet BES.
 ##### Artikel V. [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691)
 
 Wijzigt de Mededingingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
@@ -84,8 +78,6 @@ Wijzigt de Wet op de expertisecentra.
 ##### Artikel IX. [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573)
 
 Wijzigt de Wet op het accountantsberoep.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
@@ -145,9 +137,9 @@ Wijzigt deze wet.
 
 ##### Artikel XXIII. Inwerkingtreding
 
-1. Deze wet treedt, met uitzondering van [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2022-08-01&g=2022-08-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt, met uitzondering van [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2026-01-01&g=2026-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2022.
+2. [Artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 augustus 2022.
 
 ##### Artikel XXIV. Citeertitel
 
