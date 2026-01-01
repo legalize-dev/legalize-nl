@@ -4,7 +4,7 @@ identifier: "BWBR0045039"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045039"
 soort: "AMvB"
@@ -52,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **besmet dier:** dier dat is aangewezen als besmet als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01);
+- **besmet dier:** dier dat is aangewezen als besmet als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
 
 - **deskundige:** deskundige als bedoeld in [artikel 9.8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8);
 
-- **verdacht dier:** dier dat is aangewezen als verdacht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01);
+- **verdacht dier:** dier dat is aangewezen als verdacht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01);
 
 - **verordening (EU) nr. 2016/429:** verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84);
 
@@ -110,11 +110,11 @@ Voor daartoe aangewezen monitoringsprogramma’s wijst Onze Minister een instell
 
 ##### Artikel 3.2. Instructies
 
-Onze Minister kan aan een aangewezen instelling als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01) algemene en bijzondere instructies geven over de uitvoering en verantwoording van de aangewezen monitoringsprogramma’s.
+Onze Minister kan aan een aangewezen instelling als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) algemene en bijzondere instructies geven over de uitvoering en verantwoording van de aangewezen monitoringsprogramma’s.
 
 ##### Artikel 3.3. Meewerkverplichting exploitant
 
-Een exploitant als bedoeld in artikel 4, onderdeel 24, van verordening nr. (EU) 2016/429 verleent medewerking ten behoeve van het nemen van monsters van de door hem gehouden dieren, kadavers, delen van dieren of dierlijke producten en staat deze af aan het op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01) aangewezen instelling ter uitvoering van de aangewezen monitoringsprogramma’s.
+Een exploitant als bedoeld in artikel 4, onderdeel 24, van verordening nr. (EU) 2016/429 verleent medewerking ten behoeve van het nemen van monsters van de door hem gehouden dieren, kadavers, delen van dieren of dierlijke producten en staat deze af aan het op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) aangewezen instelling ter uitvoering van de aangewezen monitoringsprogramma’s.
 
 ### Hoofdstuk 4. Waardevaststelling bij ziektebestrijdingsmaatregelen
 
@@ -190,7 +190,7 @@ De tegemoetkoming in de schade bedraagt voor alle dieren ten hoogste tienduizend
 
 - c. het exterieur, de productiviteit en het gebruiksdoel van dieren beoordelen;
 
-- d. de waarde van dieren, producten en voorwerpen bepalen in gevallen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01); en
+- d. de waarde van dieren, producten en voorwerpen bepalen in gevallen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01); en
 
 - e. mondeling, schriftelijk of digitaal rapporteren in de Nederlandse taal over uitgevoerde en uit te voeren werkzaamheden.
 
@@ -256,7 +256,7 @@ De volgende besluiten worden ingetrokken:
 
 - l. het [Embryobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006426).
 
-##### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2025-01-01&g=2025-01-01)
+##### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01)
 
 Wijzigt dit besluit.
 
@@ -266,11 +266,11 @@ Wijzigt het Besluit identificatie en registratie van dieren.
 
 ##### Artikel 7.5. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 21 april 2021, met uitzondering van [artikel 6.4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), en van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2025-01-01&g=2025-01-01).
+1. Dit besluit treedt in werking met ingang van 21 april 2021, met uitzondering van [artikel 6.4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.4&z=2026-01-01&g=2026-01-01), ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), en van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2026-01-01&g=2026-01-01).
 
 2. Indien het bij koninklijke boodschap van 17 februari 2020 ingediende voorstel van wet tot wijziging van de Wet dieren in verband met de uitvoering van de herziene Europese diergezondheidswetgeving (Kamerstukken 35 398) tot wet is of wordt verheven en artikel I, onderdeel B, van die wet in werking treedt, treedt artikel 6.4, onderdeel B, ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), op hetzelfde tijdstip in werking.
 
-3. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2025-01-01&g=2025-01-01) treedt in werking op het tijdstip dat artikel I, onderdeel A, onderdeel 3, van het besluit van 15 oktober 2020 tot wijziging van het Besluit diergezondheidsheffing in verband met de vaststelling van de tarieven voor 2021 (Stb. 399) in werking treedt.
+3. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2026-01-01&g=2026-01-01) treedt in werking op het tijdstip dat artikel I, onderdeel A, onderdeel 3, van het besluit van 15 oktober 2020 tot wijziging van het Besluit diergezondheidsheffing in verband met de vaststelling van de tarieven voor 2021 (Stb. 399) in werking treedt.
 
 ##### Artikel 7.6. Citeertitel
 
@@ -388,21 +388,21 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een vleesras bedraagt:
 
-- a. € 1,490454 per kip die bestemd is om te worden opgefokt tot grootouderdier;
+- a. € 0,754455 per kip die bestemd is om te worden opgefokt tot grootouderdier;
 
-- b. € 0,124461 per kip die bestemd is om te worden opgefokt tot ouderdier.
+- b. € 0,067361 per kip die bestemd is om te worden opgefokt tot ouderdier.
 
 2. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een vleesras bedraagt:
 
-- a. € 0,375475 per ouderdier;
+- a. € 0,203214 per ouderdier;
 
-- b. € 1,948455 per grootouderdier.
+- b. € 0,986291 per grootouderdier.
 
 3. Het tarief voor de diergezondheidsheffing ter zake van het houden van vleeskuikens bedraagt:
 
-- a. € 0,034008 per vleeskuiken van een traaggroeiend ras;
+- a. € 0,018404 per vleeskuiken van een traaggroeiend ras;
 
-- b. € 0,014684 per vleeskuiken van andere rassen dan bedoeld in onderdeel a.
+- b. € 0,007947 per vleeskuiken van andere rassen dan bedoeld in onderdeel a.
 
 4. Het tarief voor de diergezondheidsheffing ter zake van de inleg van broedeieren, afkomstig van kippen die behoren tot een vleesras, bedraagt:
 
@@ -414,27 +414,27 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een legras bedraagt:
 
-- a. € 2,036631 per kip die bestemd is om te worden opgefokt tot grootouderdier;
+- a. € 1,030925 per kip die bestemd is om te worden opgefokt tot grootouderdier;
 
-- b. € 0,214822 per kip die bestemd is om te worden opgefokt tot ouderdier;
+- b. € 0,112193 per kip die bestemd is om te worden opgefokt tot ouderdier;
 
-- c. € 0,062868 per kip die bestemd is om te worden opgefokt tot legkip.
+- c. € 0,034027 per kip die bestemd is om te worden opgefokt tot legkip.
 
 2. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een legras bedraagt:
 
-- a. € 2,825901 per grootouderdier;
+- a. € 1,430447 per grootouderdier;
 
-- b. € 0,369519 per ouderdier.
+- b. € 0,194406 per ouderdier.
 
 3. Het tarief voor de diergezondheidsheffing ter zake van het houden van legkippen bedraagt:
 
-- a. € 1,037400 per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 30, eerste lid, van [verordening (EU) 2018/848](32748R2018);
+- a. € 0,561462 per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 30, eerste lid, van [verordening (EU) 2018/848](32748R2018);
 
-- b. € 0,539449 per legkip die wordt gehouden voor de productie van eieren van hennen met vrije uitloop als bedoeld in bijlage II, onderdeel 1, van [verordening (EU) 2023/2465](32023R2465);
+- b. € 0,291961 per legkip die wordt gehouden voor de productie van eieren van hennen met vrije uitloop als bedoeld in bijlage II, onderdeel 1, van [verordening (EU) 2023/2465](32023R2465);
 
-- c. € 0,337156 per legkip die wordt gehouden voor de productie van scharreleieren als bedoeld in bijlage II, onderdeel 2, van [verordening (EU) 2023/2465](32023R2465) of vaccinbroedeieren;
+- c. € 0,182475 per legkip die wordt gehouden voor de productie van scharreleieren als bedoeld in bijlage II, onderdeel 2, van [verordening (EU) 2023/2465](32023R2465) of vaccinbroedeieren;
 
-- d. € 0,219508 per legkip die wordt gehouden voor de productie van eieren uit aangepaste kooien als bedoeld in bijlage II, onderdeel 3, van [verordening (EU) 2023/2465](32023R2465).
+- d. € 0,118802 per legkip die wordt gehouden voor de productie van eieren uit aangepaste kooien als bedoeld in bijlage II, onderdeel 3, van [verordening (EU) 2023/2465](32023R2465).
 
 4. Het tarief voor de diergezondheidsheffing voor de inleg van broedeieren, afkomstig van kippen die behoren tot een legras, bedraagt:
 
@@ -444,63 +444,63 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 - c. nihil per vaccinbroedei.
 
-5. Het tarief voor de diergezondheidsheffing ter zake van het houden van leghanen bedraagt € 0,042897 per leghaan.
+5. Het tarief voor de diergezondheidsheffing ter zake van het houden van leghanen bedraagt € 0,023217 per leghaan.
 
 ##### Artikel 5.8. Kalkoenen
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van vleeskalkoenen bedraagt:
 
-- a. € 0,136261 per vrouwelijke vleeskalkoen;
+- a. € 0,073748 per vrouwelijke vleeskalkoen;
 
-- b. € 0,252823 per mannelijke vleeskalkoen.
+- b. € 0,136832 per mannelijke vleeskalkoen.
 
 2. Het tarief voor de diergezondheidsheffing voor de inleg van broedeieren, afkomstig van kalkoenen, bedraagt nihil per broedei.
 
 ##### Artikel 5.9. Eenden
 
-1. Het tarief voor de diergezondheidsheffing ter zake van het houden van eenden bedraagt € 0,037068 per eend.
+1. Het tarief voor de diergezondheidsheffing ter zake van het houden van eenden bedraagt € 0,020061 per eend.
 
 2. Het tarief voor de diergezondheidsheffing voor de inleg van broedeieren, afkomstig van eenden, bedraagt nihil per broedei.
 
 ##### Artikel 5.10. Runderen
 
-1. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen van 1 jaar of ouder bedraagt € 4,402 per rund.
+1. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen van 1 jaar of ouder bedraagt € 5,075 per rund.
 
-2. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen, jonger dan 1 jaar, bedraagt € 0,613 per rund.
+2. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen, jonger dan 1 jaar, bedraagt € 0,607 per rund.
 
 ##### Artikel 5.11. Schapen en geiten
 
-1. Het tarief voor de diergezondheidsheffing ter zake van het houden van schapen bedraagt € 1,205 per schaap.
+1. Het tarief voor de diergezondheidsheffing ter zake van het houden van schapen bedraagt € 1,231 per schaap.
 
-2. Het tarief voor de diergezondheidsheffing ter zake van het houden van geiten bedraagt € 1,789 per geit.
+2. Het tarief voor de diergezondheidsheffing ter zake van het houden van geiten bedraagt € 1,918 per geit.
 
 ##### Artikel 5.12. Varkens
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een A-bedrijf bedraagt:
 
-- a. € 0,275 per vleesvarken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
+- a. € 0,221 per vleesvarken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
 
-- b. € 0,138 per zeug, beer, gelt of big die is afgevoerd naar een A-, B-, C- of D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
+- b. € 0,111 per zeug, beer, gelt of big die is afgevoerd naar een A-, B-, C- of D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
 
-- c. € 0,096 per big die is afgevoerd naar een E-bedrijf.
+- c. € 0,077 per big die is afgevoerd naar een E-bedrijf.
 
 2. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een B-bedrijf bedraagt:
 
-- a. € 0,275 per vleesvarken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
+- a. € 0,221 per vleesvarken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
 
-- b. € 0,138 per zeug, beer of gelt die is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
+- b. € 0,111 per zeug, beer of gelt die is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
 
-- c. € 0,138 per big die is afgevoerd naar een D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
+- c. € 0,111 per big die is afgevoerd naar een D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum;
 
-- d. € 0,096 per big die is afgevoerd naar een F-bedrijf.
+- d. € 0,077 per big die is afgevoerd naar een F-bedrijf.
 
-3. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een C-bedrijf bedraagt € 0,138 per varken dat is afgevoerd naar A-, B-, of D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum.
+3. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een C-bedrijf bedraagt € 0,111 per varken dat is afgevoerd naar A-, B-, of D-bedrijf, naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum.
 
-4. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een D-bedrijf bedraagt € 0,138 per varken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum.
+4. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een D-bedrijf bedraagt € 0,111 per varken dat is afgevoerd naar een slachthuis of naar een bestemming buiten Nederland, al dan niet via een verzamelcentrum.
 
-5. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een E-bedrijf bedraagt € 0,041 per varken.
+5. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een E-bedrijf bedraagt € 0,033 per varken.
 
-6. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een F-bedrijf bedraagt € 0,041 per varken.
+6. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een F-bedrijf bedraagt € 0,033 per varken.
 
 7. Op geslachtsrijpe varkens die eerder bestemd waren voor de fokkerij en van een A-bedrijf of een B-bedrijf zijn afgevoerd naar een slachthuis, al dan niet via een verzamelcentrum, is uitsluitend het eerste lid, onderdeel b, dan wel het tweede lid, onderdeel b, van toepassing.
 
