@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -78,7 +78,7 @@ Onderscheid is verboden bij:
 
 - c. het aangaan en het beëindigen van een arbeidsverhouding;
 
-- d. het aanstellen of ontslaan van personen, op wie [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) van toepassing is;
+- d. het aanstellen of ontslaan van personen, op wie [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) van toepassing is en het aanstellen of ontslaan van ambtenaren als bedoeld in de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
 
 - e. de arbeidsvoorwaarden;
 
@@ -124,7 +124,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2023-07-01&g=2023-07-01).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
 #### Pensioenen
 
@@ -150,9 +150,9 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 #### Bescherming tegen ontslag
 
-##### Artikel 11
+##### Artikel 11. Bescherming tegen ontslag
 
-In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of [artikel 1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
 
 #### Bewijslast
 
@@ -160,7 +160,7 @@ In geval van een beëindiging van de arbeidsverhouding door de werkgever in stri
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 
-2. Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
+2. Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) of [artikel 305a van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) of [artikel 7, eerste lid, derde zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7).
 
 #### Nietigheid
 
@@ -170,9 +170,9 @@ Bedingen in strijd met deze wet zijn nietig.
 
 #### Het College voor de rechten van de mens
 
-##### Artikel 14
+##### Artikel 14. Toepasselijk op de BES
 
-Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
+De [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 #### § 6. Overgangs- en slotbepalingen
 
