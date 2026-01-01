@@ -4,7 +4,7 @@ identifier: "BWBR0049711"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2025-05-15"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049711"
 soort: "pbo"
@@ -2448,7 +2448,7 @@ De vereisten van deze Standaard zijn erop gericht de accountant te helpen afwijk
 
 **5**
 
-De accountant is verantwoordelijk voor het verkrijgen van een redelijke mate van zekerheid dat de financiële overzichten als geheel geen afwijkingen van materieel belang bevatten die het gevolg zijn van fraude of van fouten.144Standaard 200, **Algehele doelstellingen van de onafhankelijke accountant, alsmede het uitvoeren van een controle overeenkomstig de Standaarden**, paragraaf 5. Bij het uitvoeren van een controle van financiële overzichten houdt de accountant rekening met het van toepassing zijnde wet- en regelgevingskader. Door de inherente beperkingen van een controle bestaat er een onvermijdbaar risico dat bepaalde afwijkingen van materieel belang niet worden gedetecteerd, ook al wordt de controle naar behoren gepland en overeenkomstig de Standaarden uitgevoerd.145Standaard 200, paragraaf A51 en A52. In de context van wet- en regelgeving zijn de potentiële invloeden van inherente beperkingen op de mogelijkheid van de accountant om afwijkingen van materieel belang te detecteren, groter door factoren zoals de volgende:
+De accountant is verantwoordelijk voor het verkrijgen van een redelijke mate van zekerheid dat de financiële overzichten als geheel geen afwijkingen van materieel belang bevatten die het gevolg zijn van fraude of van fouten.144Standaard 200, **Algehele doelstellingen van de onafhankelijke accountant, alsmede het uitvoeren van een controle overeenkomstig de Standaarden**, paragraaf 5. Bij het uitvoeren van een controle van financiële overzichten houdt de accountant rekening met het van toepassing zijnde wet- en regelgevingskader. Door de inherente beperkingen van een controle bestaat er een onvermijdbaar risico dat bepaalde afwijkingen van materieel belang niet worden gedetecteerd, ook al wordt de controle naar behoren gepland en overeenkomstig de Standaarden uitgevoerd.145Standaard 200, paragraaf A53 en A54. In de context van wet- en regelgeving zijn de potentiële invloeden van inherente beperkingen op de mogelijkheid van de accountant om afwijkingen van materieel belang te detecteren, groter door factoren zoals de volgende:
 
 Doorgaans geldt dat hoe verder de niet-naleving afstaat van de gebeurtenissen en transacties die in de financiële overzichten zijn weerspiegeld, des te onwaarschijnlijker het is dat de accountant zich hiervan bewust wordt of dat hij de niet-naleving zal herkennen.
 
@@ -16218,7 +16218,7 @@ Onder een effectief kwaliteitsmanagementsysteem valt een monitorings- en herstel
 
 **36**
 
-Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKM](onbekend) of de beleidslijnen of procedures van de accountantseenheid, geldt dat:
+Voor die opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling is vereist in overeenstemming met de [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) of de beleidslijnen of procedures van de accountantseenheid, geldt dat:
 
 de opdrachtpartner met de opdrachtgerichte kwaliteitsbeoordelaar significante aangelegenheden en significante oordeelsvormingen dient te bespreken die zich tijdens de opdracht voordoen. De opdrachtpartner dient het assurance-rapport niet te dateren voordat die beoordeling is afgerond.947NVKM, artikel 13(2)(b)
 
@@ -16530,7 +16530,7 @@ Beoogde gebruikers of vertegenwoordigers hiervan kunnen direct met de accountant
 
 **A18**
 
-In bepaalde gevallen leggen de beoogde gebruikers (bijvoorbeeld bankiers en regelgevers of toezichthouders) een vereiste op, of verzoeken zij de geschikte partij(en) of er voor een specifiek doel een assurance-opdracht kan worden uitgevoerd. Wanneer opdrachten gebruik maken van criteria die voor een specifiek doel zijn opgezet vereist paragraaf 69(f) een vermelding die lezers hierop attent maakt. De accountant kan het bovendien passend achten om erop te wijzen dat het assurance-rapport slechts voor specifieke gebruikers is bedoeld. Afhankelijk van de omstandigheden van de opdracht kan dit worden bewerkstelligd door de verspreiding of het gebruik van het assurance-rapport te beperken (Zie Par. A166 en A167).
+In bepaalde gevallen leggen de beoogde gebruikers (bijvoorbeeld bankiers en regelgevers of toezichthouders) een vereiste op, of verzoeken zij de geschikte partij(en) of er voor een specifiek doel een assurance-opdracht kan worden uitgevoerd. Wanneer opdrachten gebruik maken van criteria die voor een specifiek doel zijn opgezet vereist paragraaf 69g een vermelding die lezers hierop attent maakt. De accountant kan het bovendien passend achten om erop te wijzen dat het assurance-rapport slechts voor specifieke gebruikers is bedoeld. Afhankelijk van de omstandigheden van de opdracht kan dit worden bewerkstelligd door de verspreiding of het gebruik van het assurance-rapport te beperken (Zie Par. A166 en A167).
 
 **A19**
 
@@ -16752,7 +16752,7 @@ Deze Standaard is geschreven in de context van een aantal maatregelen die moeten
 
 **A61**
 
-De [NVKM](onbekend) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKM bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.949NVKM, artikel 13(1). De [NVKM](onbekend) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.950NVKM, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
+De [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) behandelt de verantwoordelijkheden van de accountantseenheid om een kwaliteitsmanagementsysteem voor assurance-opdrachten op te zetten, te implementeren en in werking te houden. De NVKM bepaalt de verantwoordelijkheden van de accountantseenheid om kwaliteitsdoelstellingen vast te stellen die betrekking hebben op de vervulling van de verantwoordelijkheden in overeenstemming met de relevante ethische voorschriften, met inbegrip van de voorschriften die betrekking hebben op onafhankelijkheid. De NVKM behandelt ook de verantwoordelijkheid van de accountantseenheid om beleidslijnen of procedures vast te stellen voor het bepalen van opdrachten waarvoor een opdrachtgerichte kwaliteitsbeoordeling nodig is.949NVKM, artikel 13(1). De [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792) behandelt ook de benoeming van de opdrachtgerichte kwaliteitsbeoordelaar, alsmede de uitvoering en de documentatie van de opdrachtgerichte kwaliteitsbeoordeling.950NVKM, artikel 20(1)(d). Een kwaliteitsmanagementsysteem kan betrekking hebben op de volgende acht componenten:
 
 Accountantseenheden of nationale vereisten kunnen andere terminologie of raamwerken gebruiken om de componenten van het kwaliteitsmanagementsysteem te beschrijven.
 
@@ -17062,7 +17062,7 @@ Wanneer er gebruik wordt gemaakt van de werkzaamheden van een door de accountant
 
 **A124**
 
-Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKM](onbekend). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
+Een door de accountant ingeschakelde interne deskundige kan een partner of onderdeel van de staf zijn, met inbegrip van tijdelijke staf, van de eenheid van de accountant. Daarom kan de door de accountant ingeschakelde interne deskundige onderworpen zijn aan het kwaliteitsmanagementsysteem, waaronder de beleidslijnen of procedures van de accountantseenheid in overeenstemming met de [NVKM](https://wetten.overheid.nl/jci1.3:c:BWBR0050792). Een andere mogelijkheid is dat een door de accountant ingeschakelde interne deskundige een partner of onderdeel van de staf kan zijn, met inbegrip van tijdelijke staf, van een accountantseenheid die tot het netwerk behoort, die gezamenlijke beleidslijnen of procedures inzake kwaliteitsmanagement kan delen met de accountantseenheid. Een door de accountant ingeschakelde externe deskundige is geen lid van het opdrachtteam.
 
 **A125**
 
