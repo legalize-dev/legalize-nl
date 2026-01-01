@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Langdurige Zorg en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2025-01-01&g=2025-01-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2026-02-28&g=2026-01-01).
 
 ##### Artikel 2. Instelling en taak
 
