@@ -4,7 +4,7 @@ identifier: "BWBR0043540"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043540"
 soort: "AMvB"
@@ -50,101 +50,71 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **aanvraagtijdvak:** de termijn waarbinnen een aanvraag voor een specifieke uitkering kan worden ingediend;
+- **aanvraagtijdvak:** de termijn waarbinnen een aanvraag voor een specifieke uitkering kan worden ingediend;
 
-- b. **afgebakend projectgebied:** gebied dat zich kenmerkt door ten minste twee van de volgende onderdelen:
-
-- 1°. financiële samenhang;
-
-- 2°. geografische samenhang; en
-
-- 3°. organisatorische samenhang.
-
-- c. **betaalbare woning:**
+- **betaalbare woning:**
 
 - 1°. sociale huurwoning: huurwoning met een aanvangshuurprijs onder de grens als bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13);
 
-- 2°. huurwoning voor middenhuur: huurwoning met een aanvangshuurprijs van ten minste het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), en in 2020 ten hoogste € 1.000, of, indien er voor een geliberaliseerde woning voor middenhuur als bedoeld in [artikel 1.1.1, onderdeel j, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.1.1) in de gemeentelijke verordening ten hoogste een aanvangshuurprijs is bepaald die lager is dan € 1.000, ten hoogste dat bedrag. De in de vorige zin bedoelde bovengrens van € 1.000 wordt met ingang van elk kalenderjaar gewijzigd met het percentage waarmee het bedrag, bedoeld in artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag wordt gewijzigd; of
+- 2°. huurwoning voor middenhuur: huurwoning met een aanvangshuurprijs van ten minste het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), en ten hoogste:
 
-- 3°. betaalbare koopwoning: koopwoning met een koopprijs van ten hoogste € 405.000. De in de vorige zin bedoelde bovengrens van € 405.000 wordt bij ministeriële regeling met ingang van elk kalenderjaar gewijzigd aan de hand van de consumentenprijsindex;
+- i. het bedrag als bedoeld in [artikel 2, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2); of
 
-- d. **college:** college van burgemeester en wethouders;
+- ii. het onder i bedoelde bedrag met inbegrip van een vermeerdering als bedoeld in [artikel 8a, eerste, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=8&z=2026-01-01&g=2026-01-01), voor zover het gaat om een huurwoning als bedoeld in die leden;
 
-- e. **project:** project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01);
+- 3°. betaalbare koopwoning: koopwoning met een koopprijs vrij op naam bij eerste verkoop van ten hoogste de geïndexeerde bovengrens, bedoeld in [artikel 7, vierde lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=7);
 
-- f. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- **college:** college van burgemeester en wethouders;
+
+- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+
+- **project:** project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. Onze Minister kan op aanvraag van een college een specifieke uitkering verstrekken aan de gemeente voor bijdragen in projecten die:
 
-- a. het realiseren of het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving tot doel hebben;
+- a. Het realiseren of het versnellen van de bouw van een substantieel aantal betaalbare woningen in een kwalitatief goede leefomgeving tot doel hebben;
 
-- b. nog niet in de uitvoerende fase zijn;
+- b. Nog niet in de uitvoerende fase zijn;
 
-- c. binnen afzienbare tijd opgestart kunnen worden; en
+- c. Binnen afzienbare tijd opgestart kunnen worden; en
 
-- d. door de bij het project betrokken partijen zelf van een substantiële financiële bijdrage worden voorzien.
+- d. Door de bij het project betrokken partijen zelf van een substantiële financiële bijdrage worden voorzien.
 
-2. De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project dat is gericht op:
+2. De aangevraagde uitkering bedraagt ten hoogste het aantoonbare financiële tekort van een gemeente op de voor het project noodzakelijke publieke investeringen verminderd met bijdragen als bedoeld in het eerste lid, onder d, en publieke opbrengsten verbonden aan het project.
 
-- a. de bouw van een substantieel aantal woningen in een afgebakend projectgebied, met een substantieel aandeel betaalbare woningen; en
-
-- b. het uitvoeren van activiteiten die zijn gericht op:
-
-- 1°. de infrastructurele ontsluiting;
-
-- 2°. verlaging van de stikstofdepositie in stikstofgevoelige Natura-2000 gebieden;
-
-- 3°. bodemsanering in een afgebakend projectgebied;
-
-- 4°. uitplaatsing van activiteiten die hinder veroorzaken voor woningbouw;
-
-- 5°. de inrichting van de openbare ruimte in een afgebakend projectgebied; of
-
-- 6°. kosten verbonden aan de betaalbaarheid van woningen in een afgebakend projectgebied,
-
-indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn voor het versnellen of realiseren van de bouw van woningen als bedoeld onder a.
-
-3. De aangevraagde uitkering bedraagt ten hoogste het aantoonbare financiële tekort van een gemeente op de voor het project noodzakelijke publieke investeringen van de in het tweede lid, onder a en b, genoemde activiteiten, verminderd met bijdragen als bedoeld in het eerste lid, onder d.
-
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het eerste tot en met derde lid.
+3. Bij ministeriële Regeling kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid.
 
 ##### Artikel 3. Uitkeringsplafond
 
-1. Bij ministeriële regeling wordt het bedrag vastgesteld dat in totaal ten hoogste aan specifieke uitkeringen kan worden verstrekt. Bij ministeriële regeling kunnen regels worden gesteld over de indexering van dit bedrag.
+1. Onze Minister stelt het bedrag vast dat ten behoeve van de aanvragen in een aanvraagtijdvak bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), ten hoogste aan specifieke uitkeringen kan worden verstrekt, en maakt dit tegelijk met de bekendmaking van het aanvraagtijdvak bekend.
 
-2. Onze Minister stelt het bedrag vast dat ten behoeve van de aanvragen in een aanvraagtijdvak bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), ten hoogste aan specifieke uitkeringen kan worden verstrekt, en maakt dit tegelijk met de bekendmaking van het aanvraagtijdvak bekend.
-
-3. In afwijking van het tweede lid maakt Onze Minister het bedrag dat ten hoogste aan specifieke uitkeringen kan worden verstrekt ten behoeve van de aanvragen die zijn ingediend in het aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), bekend op het tijdstip waarop dat aanvraagtijdvak aanvangt.
-
-4. Specifieke uitkeringen worden per aanvraagtijdvak toegekend op volgorde van de rangschikking, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2025-01-01&g=2025-01-01).
+2. Specifieke uitkeringen worden per aanvraagtijdvak toegekend op volgorde van de rangschikking, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 4. De aanvraag
 
-1. Specifieke uitkeringen kunnen worden aangevraagd gedurende door Onze Minister vastgestelde aanvraagtijdvakken. Een aanvraagtijdvak wordt uiterlijk 6 weken voor aanvang ervan bekendgemaakt.
+1. Specifieke uitkeringen kunnen worden aangevraagd gedurende door Onze Minister vastgestelde aanvraagtijdvakken.
 
-2. In afwijking van het eerste lid kunnen aanvragen voor een specifieke uitkering in het eerste aanvraagtijdvak worden ingediend binnen twee weken na het tijdstip waarop dit besluit in werking treedt.
+2. Een aanvraag bevat ten minste:
 
-3. Een aanvraag bevat ten minste:
+- a. een omschrijving van het project waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop het project voldoet aan de voorwaarden, gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- a. een omschrijving van het project waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop het project voldoet aan de voorwaarden, gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01);
-
-- b. een haalbaarheidsstudie inclusief begroting die gericht is op de financiële haalbaarheid van het project, en waaruit het aantoonbare financiële tekort van een gemeente als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01), blijkt;
+- b. een haalbaarheidsstudie inclusief begroting die gericht is op de financiële haalbaarheid van het project, en waaruit het aantoonbare financiële tekort van een gemeente als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), blijkt;
 
 - c. een omschrijving van de wijze waarop het project uitgevoerd wordt en welke partijen daarbij betrokken zijn; en
 
 - d. de verwachte begin- en einddatum van het project.
 
-4. Onze Minister beslist binnen 13 weken na het sluiten van het aanvraagtijdvak, bedoeld in het eerste lid, over de toekenning van een specifieke uitkering voor een aanvraag. De minister beslist niet op de aanvraag voor een specifieke uitkering, dan nadat advies is ingewonnen van de commissie, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7&z=2025-01-01&g=2025-01-01).
+3. Onze Minister beslist binnen 13 weken na het sluiten van het aanvraagtijdvak, bedoeld in het eerste lid, over de toekenning van een specifieke uitkering voor een aanvraag. De minister beslist niet op de aanvraag voor een specifieke uitkering, dan nadat advies is ingewonnen van de commissie, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7&z=2026-01-01&g=2026-01-01).
 
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, de betaling en bevoorschotting van de specifieke uitkering.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, de betaling en bevoorschotting van de specifieke uitkering.
 
 ##### Artikel 5. De rangschikking van de aanvragen
 
-1. Onze Minister beoordeelt alle in een aanvraagtijdvak ingediende aanvragen na het sluiten van het aanvraagtijdvak en stelt een rangschikking op van de aanvragen die voldoen aan de vereisten, gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01), en aan de vereisten, gesteld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), en de krachtens artikel 4, vijfde lid, gestelde vereisten.
+1. Onze Minister beoordeelt alle in een aanvraagtijdvak ingediende aanvragen na het sluiten van het aanvraagtijdvak en stelt een rangschikking op van de aanvragen die voldoen aan de vereisten, gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), en aan de vereisten, gesteld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), en de krachtens artikel 4, vierde lid, gestelde vereisten.
 
-2. De rangschikking vindt plaats op basis van de mate waarin de aanvragen voldoen aan de voorwaarden uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01), die op grond van de behaalde scores bij een gezamenlijke weging van de volgende criteria wordt bepaald:
+2. De rangschikking vindt plaats op basis van de mate waarin de aanvragen voldoen aan de voorwaarden uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), die op grond van de behaalde scores bij een gezamenlijke weging van de volgende criteria wordt bepaald:
 
 - 1°. noodzaak;
 
@@ -160,11 +130,11 @@ indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn
 
 1. Onze Minister wijst een aanvraag voor een specifieke uitkering af indien:
 
-- a. het project niet voldoet aan de vereisten gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01);
+- a. het project niet voldoet aan de vereisten gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- b. het project een onvoldoende score behaalt bij de weging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2025-01-01&g=2025-01-01); of
+- b. het project een onvoldoende score behaalt bij de weging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01); of
 
-- c. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan bij de rangschikking, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2025-01-01&g=2025-01-01), leidt tot een overschrijding van het krachtens [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3&z=2025-01-01&g=2025-01-01), vastgestelde bedrag.
+- c. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan bij de rangschikking, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01), leidt tot een overschrijding van het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3&z=2026-01-01&g=2026-01-01), vastgestelde bedrag.
 
 2. Onze Minister kan een aanvraag voor een specifieke uitkering tevens afwijzen, indien naar zijn oordeel:
 
@@ -174,7 +144,7 @@ indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. het rangschikken van aanvragen die gelijk scoren bij de weging op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2025-01-01&g=2025-01-01), en waarbij de toekenning van die aanvragen zou leiden tot overschrijding van het krachtens [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3&z=2025-01-01&g=2025-01-01), vastgestelde bedrag en aanvragen die niet volledig kunnen worden toegekend in verband met de overschrijding van dat bedrag;
+- a. het rangschikken van aanvragen die gelijk scoren bij de weging op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01), en waarbij de toekenning van die aanvragen zou leiden tot overschrijding van het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3&z=2026-01-01&g=2026-01-01), vastgestelde bedrag en aanvragen die niet volledig kunnen worden toegekend in verband met de overschrijding van dat bedrag;
 
 - b. de toepassing van het tweede lid.
 
@@ -182,9 +152,9 @@ indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn
 
 1. Er is een Toetsingscommissie Woningbouwimpuls.
 
-2. De commissie heeft tot taak het adviseren van Onze Minister over de toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2025-01-01&g=2025-01-01).
+2. De commissie heeft tot taak het adviseren van Onze Minister over de toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01).
 
-3. De commissie brengt advies uit binnen 8 weken na het sluiten van het in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), bedoelde aanvraagtijdvak.
+3. De commissie brengt advies uit binnen 8 weken na het sluiten van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde aanvraagtijdvak welke termijn de commissie, door schriftelijke kennisgeving daarvan aan Onze Minister binnen die termijn, eenmalig kan verlengen met een door de commissie daarbij te bepalen termijn van ten hoogste vier weken.
 
 4. De commissie verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -196,7 +166,7 @@ indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn
 
 1. De commissie stelt haar eigen werkwijze vast. Dit omvat in ieder geval een protocol omtrent de wijze waarop de commissie voorgelegde aanvragen toetst en weegt. Het protocol wordt opgesteld in overleg met Onze Minister.
 
-2. De commissie kan de indiener van de aanvraag om een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2025-01-01&g=2025-01-01), om nadere informatie verzoeken omtrent de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), bedoelde gegevens.
+2. De commissie kan de indiener van de aanvraag om een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), om nadere informatie verzoeken omtrent de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde gegevens.
 
 ##### Artikel 9. Informatievoorziening na uitkering
 
@@ -212,11 +182,9 @@ indien deze activiteiten op aantoonbare wijze bijdragen aan en noodzakelijk zijn
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verantwoording over en de terugvordering van de uitkering.
 
-##### Artikel 11. Inwerkingtreding
+##### Artikel 11. Overgangsrecht
 
-1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-2. In het koninklijk besluit kan worden bepaald dat dit besluit terugwerkt tot en met 1 juli 2020. Indien toepassing is gegeven aan de vorige zin, vangt het aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2025-01-01&g=2025-01-01), aan op 1 juli 2020.
+De aanvraag wordt behandeld onder het recht zoals dat luidde ten tijde van het aanvraagtijdvak als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), waarbinnen die aanvraag is gedaan.
 
 ##### Artikel 12. Citeertitel
 
