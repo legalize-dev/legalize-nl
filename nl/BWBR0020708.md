@@ -4,7 +4,7 @@ identifier: "BWBR0020708"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-05"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020708"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ De aanvraag voor een inschrijving en tenaamstelling ten behoeve de verkrijging v
 
 ##### Artikel 4
 
-1. De aanvrager die niet beschikt over, dan wel geen gebruik maakt van de bevoegdheid bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), biedt het voertuig waarvoor hij de aanvraag indient aan bij een van de daartoe op grond van [artikel 4, eerste lid, onderdeel a, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4) aangewezen vestiging van de Dienst Wegverkeer, dan wel bij een andere locatie die voldoet aan de door deze dienst te stellen voorwaarden.
+1. De aanvrager die niet beschikt over, dan wel geen gebruik maakt van de erkenning inschrijven met onderzoek of de erkenning inschrijven zonder onderzoek, biedt het voertuig waarvoor hij de aanvraag indient aan bij een van de daartoe op grond van [artikel 4, eerste lid, onderdeel a, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4) aangewezen vestiging van de Dienst Wegverkeer, dan wel bij een andere locatie die voldoet aan de door deze dienst te stellen voorwaarden.
 
 2. Indien sinds de datum waarop een ambulance of waarop een motorrijtuig of aanhangwagen, waarvan de toegestane maximale massa meer bedraagt dan 3500 kg, dan wel dat bestemd is om te worden gebruikt voor het vervoer van personen waarop de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) betrekking heeft, voor het eerst is toegelaten een jaar is verstreken, stelt de aanvrager het voertuig ter beschikking om de technische staat ervan te doen vaststellen.
 
@@ -64,7 +64,7 @@ De aanvraag voor een inschrijving en tenaamstelling ten behoeve de verkrijging v
 
 5. De Dienst Wegverkeer kan besluiten dat het vaststellen van de technische staat steekproefsgewijs geschiedt.
 
-6. Alvorens door de Dienst Wegverkeer op de aanvraag wordt beslist vindt een onderzoek plaats naar de identiteit van het voertuig, tenzij de aanvrager beschikt over de bevoegdheid bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46).
+6. Alvorens door de Dienst Wegverkeer op de aanvraag wordt beslist vindt een onderzoek plaats naar de identiteit van het voertuig, tenzij de aanvrager beschikt over de erkenning inschrijven met onderzoek of de erkenning zonder onderzoek.
 
 ##### Artikel 5
 
