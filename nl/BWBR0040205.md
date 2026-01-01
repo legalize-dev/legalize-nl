@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -366,7 +366,7 @@ Met betrekking tot het registratieobject model grondwaterspiegeldieptemodel binn
 
 ### Hoofdstuk 3. De registratie ondergrond
 
-### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+### Hoofdstuk 3. De registratie ondergrond
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -410,11 +410,35 @@ Met betrekking tot het registratieobject milieuhygiënisch bodemonderzoek binnen
 
 ##### Artikel 3.5
 
-1. Een drinkwaterbedrijf levert brondocumenten als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2025-07-01&g=2025-07-01) aan Onze Minister.
+1. Een drinkwaterbedrijf levert brondocumenten als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2026-01-01&g=2026-01-01) aan Onze Minister.
 
-2. Voor zover een drinkwaterbedrijf in het kader van een vergunningprocedure of een melding gegevens aanlevert bij gedeputeerde staten van een provincie, levert het drinkwaterbedrijf in plaats van gedeputeerde staten die gegevens, als die brondocumenten betreft als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2025-07-01&g=2025-07-01), aan Onze Minister.
+2. Voor zover een drinkwaterbedrijf in het kader van een vergunningprocedure of een melding gegevens aanlevert bij gedeputeerde staten van een provincie, levert het drinkwaterbedrijf in plaats van gedeputeerde staten die gegevens, als die brondocumenten betreft als bedoeld in de [artikelen 2.3.1 tot en met 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040205&hoofdstuk=2&paragraaf=3&artikel=2.3.1&z=2026-01-01&g=2026-01-01), aan Onze Minister.
 
 3. Van de levering van brondocumenten, bedoeld in het eerste lid, zijn uitgesloten de brondocumenten die betrekking hebben op data die primair zijn ingewonnen in het kader van de eigen bedrijfsvoering van een drinkwaterbedrijf en die geen representatieve waarde hebben voor inzicht in de ondergrond.
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.2.2
+
+1. Met betrekking tot het registratieobject overheidsbesluit bodemverontreiniging binnen de categorie gebruiksrecht wordt als brondocument aangewezen een document met gegevens uit een besluit, een aantekening of andere schriftelijke vastlegging van het bevoegd gezag, of uit een melding of andere informatieverplichting in het kader waarvan gegevens of bescheiden zijn aangeleverd aan het bevoegd gezag, gericht op of verband houdend met het:
+
+- a. geschikt maken en houden van de bodemkwaliteit voor het gebruik van de bodem; of
+
+- b. graven in de bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit waarbij de werkzaamheden onder milieukundige begeleiding zijn uitgevoerd.
+
+2. De in het eerste lid bedoelde besluiten, meldingen en andere informatieverplichtingen zijn gebaseerd op de voormalige [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) of op de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
+
+#### § 3. Grondwatermonitoring
+
+#### § 4. Grondwatergebruik
+
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+#### § 6. Modellen
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
 ### Hoofdstuk 5. Slotbepalingen
 
