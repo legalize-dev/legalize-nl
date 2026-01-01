@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2025-07-01&g=2025-07-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2026-01-01&g=2026-01-01), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2025-07-01&g=2025-07-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2026-01-01&g=2026-01-01), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -116,7 +116,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **F 1115**
 
-**Productieapparatuur voor lignine-asfalt**
+**Productieapparatuur voor biobased asfalt (aanpassen bestaande situatie)**
 
 **F 1115**
 
@@ -144,10 +144,6 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**F 1212**
-
-**Reinigingsinstallatie op basis van laser**
-
 **D 1215**
 
 **Apparatuur voor rugpapiervrije etiketten**
@@ -160,7 +156,11 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Chemicaliënvrije koelwaterbehandelingsinstallatie (aanpassen bestaande situatie)**
 
-**F 1230**
+**A 1222**
+
+**Toiletreinigingssysteem op basis van ultrasone trillingen**
+
+**G 1230**
 
 **Apparatuur voor beheer van metaalbewerkingsvloeistoffen**
 
@@ -168,27 +168,19 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Cadmium- en fluorvrije zonnepanelen met terugnamegarantie en losmaakbare zonnecellen**
 
-Hierbij geldt dat:
+**D 1265**
+
+**Herbruikbare afdekhoezen voor lading op pallets en rolcontainers**
 
 **E 1271**
 
 **Transformator met giethars of biobased olie**
 
-Hierbij geldt dat:
-
 **A 1281**
-
-**Grondstofbesparend printsysteem voor ontinktbare inkt**
-
-Hierbij geldt dat:
-
-**A 1282**
 
 **F 1300**
 
 **Productieapparatuur voor refurbishen of hergebruik**
-
-Hierbij geldt dat:
 
 **F 1301**
 
@@ -198,9 +190,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **F 1306**
 
-**Afvulmachine voor herbruikbare verpakkingen**
-
-Hierbij geldt dat:
+**Navulstation of -machine voor herbruikbare verpakkingen**
 
 **F 1307**
 
@@ -210,25 +200,13 @@ Hierbij geldt dat:
 
 **Inzamel- en geldretoursysteem voor herbruikbare bekers**
 
-**F 1310**
-
-**Herbruikbare uitvaartkist**
-
-Hierbij geldt dat:
-
-**F 1315**
-
-**Apparatuur voor hergebruik van absorptiekorrels**
-
-Hierbij geldt dat:
-
 **A 1340**
 
 **Waterbesparende voorziening of installatie**
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**Apparatuur voor hergebruik van absorptiekorrels**
+**F 1308**
 
 **F 1400**
 
@@ -254,7 +232,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **F 1409**
 
-**Apparatuur voor de chemische recycling van afvalstoffen**
+**Apparatuur voor de chemische recycling van kunststof afvalstoffen**
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
@@ -262,19 +240,15 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Opwerkingsinstallatie voor AEC-bodemas**
 
-Hierbij geldt dat:
-
 **F 1418**
 
 **Recyclingapparatuur voor textiel**
-
-Hierbij geldt dat:
 
 **F 1419**
 
 **Recyclingapparatuur voor spuitbussen**
 
-**F 1461**
+**A 1461**
 
 **Depolymerisatie-installatie voor polyesterafval**
 
@@ -284,7 +258,7 @@ Hierbij geldt dat:
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**Recyclingapparatuur voor spuitbussen**
+**F 1411**
 
 **A 1500**
 
@@ -292,23 +266,11 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**F 1561**
-
-**Verwerkingsapparatuur voor plastic zwerfafval**
-
-Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
-
 **F 1565**
 
 **Verwerkingsinstallatie voor rubbergranulaat**
 
-**F 1570**
-
-**Asfaltcentrale voor toepassen van ten minste 65% PAK-arm asfaltrecyclaat**
-
-Hierbij geldt dat:
-
-Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+**F 1419**
 
 **A 1600**
 
@@ -320,13 +282,11 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Inzamelapparatuur of -voorziening voor monostromen**
 
-Hierbij geldt dat:
-
 **A 1613**
 
 **Glasversnipperaar voor horecabedrijven**
 
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+**A 1500**
 
 **F 1700**
 
@@ -334,17 +294,17 @@ Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedra
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
+**F 1703**
+
+**Inzamelvoorziening voor verfresten en spoelwater**
+
 **F 1704**
 
 **Installatie voor het afbreken van microverontreinigingen in water**
 
-Hierbij geldt dat:
-
 **A 1705**
 
 **Verwijderingsinstallatie voor microverontreinigingen in water**
-
-Hierbij geldt dat:
 
 **F 1706**
 
@@ -362,81 +322,63 @@ Hierbij geldt dat:
 
 **Apparatuur of voorzieningen voor het voorkomen van plastics in het milieu**
 
-Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+**A 1613**
 
-**Voor investeringen in bedrijfsmiddelen door een begunstigde die actief is in de sector van de primaire landbouwproductie, verwerking of afzet van landbouwproducten geldt dat deze alleen voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen in aanmerking komen indien ze worden gedaan door een kleine of middelgrote onderneming of een grote onderneming niet zijnde een landbouwbedrijf.**
-
-**Installatie voor het afbreken van microverontreinigingen in water**
+**Glasversnipperaar voor horecabedrijven**
 
 **F 2112**
 
 **Groen Label Kas voor biologische teelt**
 
-Hierbij geldt dat:
-
 **A 2113**
 
 **Groen Label Kas**
-
-Hierbij geldt dat:
 
 **F 2130**
 
 **Mechanische of (micro)biologische bestrijdingsapparatuur voor plagen of ziekten in een tuinbouwkas**
 
-Hierbij geldt dat:
-
 **D 2131**
 
 **Luisdicht insectengaas of een machine voor het aanbrengen van insectengaas**
 
-Hierbij geldt dat:
+**D 2132**
+
+**UV-gewasbeschermingsinstallatie op een glastuinbouwbedrijf**
 
 **A 2135**
 
-**Installatie voor het verhogen van de plantweerbaarheid in de glastuinbouw**
-
-Hierbij geldt dat:
+**Installatie voor het verhogen van de plantweerbaarheid**
 
 **F 2143**
 
 **Systeem voor individuele meting van nutriënten**
 
-Hierbij geldt dat:
-
-**A 2145**
-
-**Installatie voor het ontzouten van drain(age)water in de glastuinbouw (aanpassing bestaande situatie)**
-
-Hierbij geldt dat:
-
 **F 2146**
 
 **Voorzieningen voor nullozing in de glastuinbouw (aanpassen bestaande situatie)**
-
-Hierbij geldt dat:
 
 **F 2150**
 
 **Apparatuur voor het opwerken van plantenresten tot grondstof**
 
+**F 2151**
+
+**Installatie voor organische nitraatproductie op een glastuinbouwbedrijf**
+
 **F 2190**
 
 **Lekdetectiesysteem voor de teeltvloer**
 
-Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 600.000 staatssteun verleend mag worden. Zie punt 8 van paragraaf 1 van deze bijlage en op de website rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
+**Groen Label Kas voor biologische teelt**
 
 **B 2200**
 
 **Innovatieve stal**
 
-Hierbij geldt dat:
-
 **B 2201**
 
 **Stal voor biologische melk- of pluimveehouderij met ammoniakemissiereductie**
-
-Hierbij geldt dat:
 
 **B 2202**
 
@@ -450,7 +392,7 @@ Hierbij geldt dat:
 
 **Formalinevrij bad voor de desinfectie van klauwen van vee**
 
-**A 2205**
+**D 2205**
 
 **Omgekeerde osmose-installatie voor het verwerken van spuiwater van een biologische luchtwasser**
 
@@ -458,63 +400,37 @@ Hierbij geldt dat:
 
 **Apparatuur of voorzieningen voor gescheiden opvang van mest en urine in varkens- of rundveestallen (aanpassen bestaande situatie)**
 
-Hierbij geldt dat:
+**F 2207**
+
+**Automatisch meetsysteem voor het continu meten van ammoniakemissie in een stal**
 
 **B 2208**
 
 **Gasdichte voorziening voor een drijfmestopslag**
 
-**B 2209**
-
-**Systeem voor mixen van drijfmest met luchtbellen (aanpassen bestaande situatie)**
-
-Hierbij geldt dat:
-
 **A 2210**
 
 **Duurzame melkveestal**
-
-Hierbij geldt dat:
 
 **A 2211**
 
 **Duurzame vleeskalver- of vleesveestal**
 
-Hierbij geldt dat:
-
 **F 2212**
 
 **Duurzame melkveestal met weidegang**
-
-Hierbij geldt dat:
-
-**B 2213**
-
-**Autonome mestverzamelrobot**
-
-Hierbij geldt dat:
 
 **B 2217**
 
 **Getrokken elektrische voermengwagen voor herkauwers**
 
-**A 2218**
-
-**Automatisch ruwvoermengsysteem of zelfrijdend autonoom ruwvoersysteem voor herkauwers**
-
-Hierbij geldt dat:
-
 **A 2220**
 
-**Duurzame varkensstal (aanpassen bestaande situatie)**
-
-Hierbij geldt dat:
+**Duurzame varkensstal**
 
 **A 2230**
 
-**Duurzame pluimveestal (aanpassen bestaande situatie)**
-
-Hierbij geldt dat:
+**Duurzame pluimveestal**
 
 **D 2235**
 
@@ -524,33 +440,23 @@ Hierbij geldt dat:
 
 **Duurzame paardenstal**
 
-Hierbij geldt dat:
-
 **B 2290**
 
 **Duurzame konijnen-, eenden- of kalkoenenstal**
-
-Hierbij geldt dat:
 
 **B 2291**
 
 **Duurzame melkgeiten- of melkschapenstal**
 
-Hierbij geldt dat:
-
 **E 2292**
 
 **Elektrische krachtvoerinstallatie voor melkgeiten**
 
-Hierbij geldt dat:
-
-**B 2208**
+**Omgekeerde osmose-installatie voor het verwerken van spuiwater van een biologische luchtwasser**
 
 **A 2300**
 
 **Apparatuur of voorzieningen voor het combineren van akkerbouw of veeteelt met bomen en struiken**
-
-Hierbij geldt dat:
 
 **A 2313**
 
@@ -560,21 +466,13 @@ Hierbij geldt dat:
 
 **Klimaatcel voor gewasteelt**
 
-Hierbij geldt dat:
-
-**F 2317**
-
-**Meerjarige kweektrays voor teelt in de open lucht (aanpassen bestaande situatie)**
-
 **F 2318**
 
 **Productie- en verwerkingsapparatuur voor biobased grondstoffen**
 
-**B 2322**
+**E 2322**
 
 **Plaatsspecifieke bemestingsapparatuur**
-
-Hierbij geldt dat:
 
 **B 2324**
 
@@ -584,15 +482,17 @@ Hierbij geldt dat:
 
 **Stoomunit voor planten, uitgangsmateriaal of bloembollen**
 
-**B 2338**
+**B 2337**
+
+**Luisdicht insectengaas voor pootaardappelen**
+
+**E 2338**
 
 **Insectengaas voor de fruitteelt**
 
 **E 2339**
 
 **Hagelnetten voor de fruitteelt**
-
-Hierbij geldt dat:
 
 **E 2342**
 
@@ -610,20 +510,6 @@ Hierbij geldt dat:
 
 **Intrarijwieder**
 
-**B 2352**
-
-**Mechanische onkruidtrekker, -knipper of -snijder**
-
-**A 2353**
-
-**Precisiezaaimachine met voorzieningen voor sojateelt**
-
-Hierbij geldt dat:
-
-**A 2354**
-
-**Flexibel maaibord voor het oogsten van sojabonen**
-
 **A 2355**
 
 **Onkruidbestrijdingsmachine op basis van stroom (hoogspanning)**
@@ -636,57 +522,33 @@ Hierbij geldt dat:
 
 **Onkruidbestrijdingsmachine met behulp van lasers**
 
-Hierbij geldt dat:
-
 **A 2359**
 
 **Elektrisch aangedreven wiedbed of selectiewagen**
 
-**A 2360**
-
-**Doseereenheid voor vloeibare meststoffen met gps-gestuurde afschakeling per rij**
-
-**A 2375**
-
-**Mulch-apparatuur**
-
-**B 2391**
-
-**Versnipperaar voor kunststofafval van een landbouwbedrijf**
-
-Het certificatieschema Maatlat Duurzame Veehouderij is beschikbaar op maatlatduurzameveehouderij.nl. Op deze website zijn tevens de geldende criteria, beoordelingsrichtlijnen en aanvullende besluiten te vinden. Indien een definitief certificaat niet afgegeven kan worden binnen de daartoe gestelde termijn vanwege uitzonderlijke omstandigheden die buiten de macht van de ondernemer liggen, kan uitstel aangevraagd worden bij RVO, zoals opgenomen onder punt 9 van paragraaf 1 van deze bijlage.
+**B 2290**
 
 **F 2410**
 
 **Duurzame viskwekerij**
 
-Hierbij geldt dat:
-
 **F 2411**
 
 **Duurzame pootviskwekerij**
-
-Hierbij geldt dat:
 
 **F 2420**
 
 **Schaal- en schelpdierbroedinstallatie**
 
-Hierbij geldt dat:
-
 **F 2421**
 
 **Schaal- of schelpdierkwekerij**
-
-Hierbij geldt dat:
 
 **D 2430**
 
 **Productiesysteem voor algen, kroos of (zee)wieren**
 
-Hierbij geldt dat:
-
-**B 2280**
+**Apparatuur of voorzieningen voor het combineren van akkerbouw of veeteelt met bomen en struiken**
 
 **F 2510**
 
@@ -696,7 +558,7 @@ Hierbij geldt dat:
 
 **Boomkor vervangende visinstallatie op een bestaand visserijschip**
 
-**B 2290**
+**Klimaatcel voor gewasteelt**
 
 **F 2601**
 
@@ -720,29 +582,25 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Volautomatische optische sorteerinstallatie voor wortelen**
 
-**A 2630**
-
-**Bevochtigingsapparatuur voor verse voedingsmiddelen in de horeca**
-
 **A 2650**
 
 **Terugwinningsinstallatie voor fosfaat of stikstof uit dierlijke mest**
-
-Hierbij geldt dat:
 
 **A 2651**
 
 **Plasma-installatie voor behandelen van dierlijke mest**
 
-Hierbij geldt dat:
-
 **B 2652**
 
 **Apparatuur voor het verminderen van ammoniak- en methaanemissies tijdens uitrijden van dierlijke mest**
 
-**Teeltsysteem voor vollegrondgewassen in de open lucht**
+**D 2654**
 
-**F 2700**
+**CO2 vervloeiingsinstallatie**
+
+**F 2343**
+
+**G 2700**
 
 **Productieapparatuur voor vlees-, vis- en zuivelvervangers**
 
@@ -760,31 +618,23 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Insectenkweeksysteem**
 
-Hierbij geldt dat:
-
-**F 2721**
+**G 2721**
 
 **Verwerkingsapparatuur voor insecten**
 
-Hierbij geldt dat:
-
-**F 2722**
+**G 2722**
 
 **Verwerkingsapparatuur van laagwaardige plantaardige reststromen tot voedsel voor insectenkweek**
 
-**B 2324**
+**Onkruidbestrijdingsmachine op basis van stroom (hoogspanning)**
 
-**F 2810**
+**G 2810**
 
 **Ondergrondse waterberging**
 
-Hierbij geldt dat:
-
-**A 2812**
+**D 2812**
 
 **Apparatuur voor verminderd gebruik van grondwater als gietwater in de glastuinbouw (aanpassing bestaande situatie)**
-
-Hierbij geldt dat:
 
 **A 2820**
 
@@ -794,83 +644,55 @@ Hierbij geldt dat:
 
 **Voorziening voor het benutten van effluent in de glastuinbouw of open teelt**
 
-Hierbij geldt dat:
-
-**F 2832**
-
-**Druppelbevloeiingssysteem voor open teelten (aanpassen bestaande situatie)**
-
-Hierbij geldt dat:
-
-**A 2834**
+**D 2834**
 
 **Regen- of spoelwateropslag voor het verdunnen van mest**
 
-**Voorziening voor het benutten van effluent in de glastuinbouw of open teelt**
+**Mulch-apparatuur**
 
-Toelichting: Apparatuur voor het zuiveren van het ontvangen water komt uitsluitend in aanmerking als deze aanvullend is op kosten die het ontvangende bedrijf had moeten maken voor het benutten van grondwater of oppervlaktewater.
+**B 2391**
 
 **G 3104**
 
 **Waterstof aangedreven bestelauto**
 
-Hierbij geldt dat:
-
 **A 3108**
 
-**Elektrisch aangedreven bus (touringcar en OV-bus)**
-
-Hierbij geldt dat:
+**Elektrisch aangedreven touringcar**
 
 **G 3109**
 
 **Waterstof aangedreven personenauto**
 
-Hierbij geldt dat:
-
 **D 3111**
 
 **Elektrisch aangedreven personenauto met zonnepanelen**
-
-Hierbij geldt dat:
 
 **F 3112**
 
 **Waterstof aangedreven taxi met 9 zitplaatsen of voor rolstoelvervoer**
 
-Hierbij geldt dat:
-
 **F 3115**
 
 **Waterstof aangedreven bus (touringcar en OV-bus)**
 
-Hierbij geldt dat:
-
-**A 3116**
+**D 3116**
 
 **Elektrisch of waterstof aangedreven vrachtwagen**
 
-Hierbij geldt dat:
-
-**F 3117**
+**G 3117**
 
 **Elektrisch of waterstof aangedreven truckmixer**
 
-Hierbij geldt dat:
-
-**A 3119**
+**D 3119**
 
 **Elektrisch aangedreven bakfiets of cargobike**
-
-Hierbij geldt dat:
 
 **F 3120**
 
 **Elektrisch aangedreven bakfiets of cargobike met zonnepanelen**
 
-Hierbij geldt dat:
-
-Toelichting: Er moet aangetoond worden dat er geïnvesteerd in een regen- of spoelwateropslag waarbij het water gebruikt wordt voor het verdunnen van mest.
+**F 2511**
 
 **F 3210**
 
@@ -878,15 +700,13 @@ Toelichting: Er moet aangetoond worden dat er geïnvesteerd in een regen- of spo
 
 **F 3211**
 
-**Oplaadkluis voor het laden van lithium-ion accu’s van fietsen, brom- of snorfietsen**
+**Oplaadkluis voor het laden van lithium-ion accu’s**
 
-**B 2391**
+**F 2605**
 
 **B 3320**
 
 **Duurzame aandrijving voor een zeeschip**
-
-Hierbij geldt dat:
 
 **F 3321**
 
@@ -896,93 +716,75 @@ Hierbij geldt dat:
 
 **Elektrische aandrijving voor een schip**
 
-**B 3332**
-
-**Fouling release systeem voor een scheepshuid**
-
-**F 3333**
+**G 3333**
 
 **Systeem voor het voorkomen of verwijderen van aangroei aan boord van een vaartuig**
 
-**F 3334**
+**B 3334**
 
 **Meetsysteem om aan boord van een tankschip gesloten metingen uit te voeren**
 
-Hierbij geldt dat:
-
-**B 3340**
+**E 3340**
 
 **Biologische waterzuiveringsinstallatie voor een vaartuig**
 
-**B 3341**
+**E 3341**
 
 **Oxidatiereactor voor waterreiniging aan boord van een vaartuig (aanpassen bestaande situatie)**
 
-**B 3342**
+**E 3342**
 
 **Waterzuiveringsinstallatie voor een pleziervaartuig (aanpassen bestaande situatie)**
 
-Hierbij geldt dat:
-
-**B 3343**
+**E 3343**
 
 **Vuilwatertank voor een passagiersschip (aanpassen bestaande situatie)**
 
-**A 3344**
+**D 3344**
 
 **Vuilwaterinnamestation voor vaartuigen**
 
-**G 3390**
+**E 3351**
 
-**Walstroomaansluiting aan boord van een binnenschip**
-
-Hierbij geldt dat:
+**Elektrisch aangedreven maaiboot**
 
 **G 3391**
 
 **Walstroomaansluiting aan boord van een zeeschip**
 
-**D 3395**
-
-**Walstroominstallatie op de kade**
-
-**F 2605**
+**Apparatuur voor de winning van eiwit**
 
 **E 3413**
 
 **Elektrisch aangedreven mobiel werktuig**
 
-Hierbij geldt dat:
-
 **E 3414**
 
 **Elektrisch aangedreven mobiel werktuig op netspanning**
-
-Hierbij geldt dat:
 
 **D 3417**
 
 **Elektrisch aangedreven terminaltrekker**
 
-Hierbij geldt dat:
-
 **E 3419**
 
 **Elektrisch aangedreven werktuig op een truckchassis**
-
-Hierbij geldt dat:
 
 **E 3420**
 
 **Elektrisch aangedreven mobiel hijswerktuig**
 
-Hierbij geldt dat:
+**E 3421**
+
+**Mobiele reinigingsinstallatie voor rijplaten op een truckchassis**
+
+**E 3422**
+
+**Elektrisch aangedreven funderingsmachine**
 
 **E 3423**
 
 **Elektrisch aangedreven hoogwerker**
-
-Hierbij geldt dat:
 
 **G 3425**
 
@@ -992,7 +794,7 @@ Hierbij geldt dat:
 
 **Elektrisch aangedreven AGV**
 
-**Terugwinningsinstallatie voor fosfaat of stikstof uit dierlijke mest**
+Hierbij geldt dat:
 
 **F 3510**
 
@@ -1002,21 +804,13 @@ Hierbij geldt dat:
 
 **Elektrisch of waterstof aangedreven locomotief**
 
-Hierbij geldt dat:
-
-**B 2652**
+**Regen- of spoelwateropslag voor het verdunnen van mest**
 
 **B 3610**
 
 **Elektrisch aangedreven vliegtuig of helikopter**
 
-Hierbij geldt dat:
-
-**A 2355**
-
-**F 3721**
-
-**Oplaadpunt voor elektrisch aangedreven zware voertuigen en mobiele werktuigen**
+**G 3104**
 
 **F 3722**
 
@@ -1026,11 +820,7 @@ Hierbij geldt dat:
 
 **Draadloos oplaadpunt voor elektrische fietsen**
 
-**Apparatuur voor de winning van eiwit**
-
-**Investering in bedrijfsmiddelen die gebruik maken van fossiele brandstoffen komen niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.**
-
-**Investeringen in de aanpassing van en voorzieningen voor bestaande bedrijfsmiddelen die gebruik maken van fossiele brandstoffen komen alleen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen indien de investering de aanpassing van of een voorziening voor een bestaand bedrijfsmiddel betreft en niet leidt tot een toename van de productiecapaciteit of een hoger gebruik van fossiele brandstoffen.**
+Hierbij geldt dat:
 
 **A 4000**
 
@@ -1050,7 +840,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**F 2722**
+**F 3115**
 
 **F 4100**
 
@@ -1082,7 +872,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**Elektrisch aangedreven taxi met 9 zitplaatsen of voor rolstoelvervoer**
+**F 3210**
 
 **F 4200**
 
@@ -1092,15 +882,13 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **F 4201**
 
-**Apparatuur voor vervanging van gefluoreerde broeikasgassen**
+**Apparatuur voor het voorkomen of vervangen van gefluoreerde broeikasgassen**
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
 **A 4210**
 
 **Hoogspanningsschakelsysteem of gasgeïsoleerde leiding met een laag GWP-isolatiegas**
-
-Hierbij geldt dat:
 
 **E 4241**
 
@@ -1110,7 +898,7 @@ Hierbij geldt dat:
 
 **Gasdetectieapparatuur voor F-gassen**
 
-**F 3112**
+**Fouling release systeem voor een scheepshuid**
 
 **F 4305**
 
@@ -1130,21 +918,19 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Selectieve (katalytische) reductie-installatie (SCR of SNCR) (aanpassen bestaande situatie)**
 
-Hierbij geldt dat:
-
-**A 4316**
+**D 4316**
 
 **Accu voor stroomvoorziening van lokale activiteiten**
 
 **F 4317**
 
-**Biogasaggregaat voor stroomvoorziening van lokale activiteiten**
+**Biogas- of biopropaanaggregaat voor stroomvoorziening van lokale activiteiten**
 
 **D 4325**
 
 **(Biologische) ontzwavelingsinstallatie**
 
-**Elektrisch of waterstof aangedreven truckmixer**
+**Vuilwaterinnamestation voor vaartuigen**
 
 **D 4417**
 
@@ -1154,39 +940,253 @@ Hierbij geldt dat:
 
 **Filterinstallatie voor hout- en pelletstook**
 
-**Elektrisch aangedreven bakfiets of cargobike**
-
-**G 4520**
-
-**Hermetisch gesloten magnetische koppeling**
+**Walstroomaansluiting aan boord van een zeeschip**
 
 **C 4581**
 
 **Elektrische thermische oxidator voor afgassen**
 
-Hierbij geldt dat:
-
 **E 4585**
 
 **Biotricklingsysteem voor het verwijderen van VOS**
 
-Hierbij geldt dat:
-
-**B 3320**
+**Elektrisch aangedreven mobiel werktuig**
 
 **D 4680**
 
 **Koude oxidatie-installatie voor luchtreiniging**
 
-Hierbij geldt dat:
-
-**E 4681**
-
-**Ozon- en uv-oxidatie-installatie voor luchtreiniging**
-
-Hierbij geldt dat:
-
 **A 4682**
+
+**Apparatuur voor het verwijderen van zwavelhoudende geuremissies**
+
+**D 3417**
+
+**Elektrisch aangedreven terminaltrekker**
+
+**F 5102**
+
+**Voorzieningen voor het versterken van biodiversiteit**
+
+**F 5121**
+
+**Inzamelvoorziening voor zwerfafval in kustgebieden en binnenwateren**
+
+**F 5122**
+
+**Systeem voor het verbeteren van kwaliteit van maaisel**
+
+**F 5140**
+
+**Biodiversiteitversterkende voorzieningen voor het aquatisch milieu**
+
+**F 5141**
+
+**Gevelimpregnering zonder PFAS, siliconen, silanen en siloxanen**
+
+**A 5145**
+
+**Decentrale zuiveringsinstallatie voor huishoudelijk afvalwater**
+
+**A 5151**
+
+**Onkruidbestrijdingsmachine voor verhard oppervlak op basis van hoogspanning**
+
+**Terugwinningsinstallatie voor fosfaat of stikstof uit dierlijke mest**
+
+**G 5200**
+
+**Circulair utiliteitsgebouw**
+
+**G 5202**
+
+**Circulaire woning**
+
+**D 5215**
+
+**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL**
+
+**E 5216**
+
+**Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL**
+
+**D 5220**
+
+**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw**
+
+**E 5221**
+
+**Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw**
+
+**D 5230**
+
+**(Zeer) duurzaam utiliteitsgebouwconform Milieulijst 2023, 2024 of 2025**
+
+**F 3723**
+
+**F 5300**
+
+**Groendak**
+
+**F 5301**
+
+**Groene gevel of muur**
+
+**G 5340**
+
+**Groen en gezond bedrijfsterrein (aanpassen bestaande situatie)**
+
+**A 5341**
+
+**Vergroening van een bedrijfsterrein, parkeerterrein of tuin (aanpassen bestaande situatie)**
+
+**D 5342**
+
+**Infiltratiesysteem of wadi (aanpassen bestaande situatie)**
+
+**F 5344**
+
+**Retentiedak met dynamische afvoer**
+
+**F 5345**
+
+**Regenwaterbuffer met dynamische afvoer in de bebouwde kom of op een bedrijventerrein**
+
+**D 5346**
+
+**Regenwaterinstallatie**
+
+**F 5347**
+
+**Zuiveringsinstallatie voor grijswaterrecycling**
+
+**F 5350**
+
+**Inpandig muurbegroeiingsysteem**
+
+**F 4102**
+
+Voor een bedrijfsmiddel met doelvoorschrift geldt:
+
+**F 1100**
+
+**Productieapparatuur voor grondstoffen of producten op basis van biomassa**
+
+**F 1101**
+
+**Productieapparatuur voor (producten van) biobased plastics**
+
+**F 1106**
+
+**Productiesysteem met micro-organismen**
+
+**F 1200**
+
+**Nieuwe en innovatieve grondstofbesparende productieapparatuur**
+
+**A 1201**
+
+**Grondstofbesparende productieapparatuur**
+
+**B 1202**
+
+**Grondstofbesparende industriële apparatuur**
+
+**B 1211**
+
+**3D-printer voor het vervangen van (industriële) productieapparatuur**
+
+**F 1301**
+
+**Apparatuur of voorziening voor demontage ten behoeve van hergebruik of recycling**
+
+**A 1340**
+
+**Waterbesparende voorziening of installatie**
+
+**F 1400**
+
+**Nieuwe en innovatieve recyclingapparatuur**
+
+**A 1401**
+
+**Recyclingapparatuur**
+
+**B 1405**
+
+**Terugwinningsinstallatie voor grondstoffen uit afvalwater of waterzuiveringsslib (aanpassen bestaande situatie)**
+
+**F 1409**
+
+**Apparatuur voor de chemische recycling van kunststof afvalstoffen**
+
+**F 1490**
+
+**Recyclinginstallatie voor luiers**
+
+**A 1500**
+
+**Verwerkingsapparatuur voor gerecyclede grondstoffen**
+
+**A 1600**
+
+**Scheidingsapparatuur voor afvalstoffen**
+
+**F 1700**
+
+**Productieapparatuur voor het vervangen van (potentiële) zeer zorgwekkende stoffen, nanodeeltjes of microplastics (aanpassen bestaande situatie)**
+
+**F 2605**
+
+**Apparatuur voor het opwaarderen van plantaardige (rest)stromen tot voedingsmiddelen**
+
+**F 2715**
+
+**Apparatuur voor de winning van eiwit**
+
+**A 4000**
+
+**Nieuwe en innovatieve emissiereducerende technologie**
+
+**F 4002**
+
+**Apparatuur voor procesgeïntegreerde emissiereductie (aanpassen bestaande situatie)**
+
+**F 4003**
+
+**Apparatuur voor vermindering van emissies tijdens niet-reguliere bedrijfsvoering**
+
+**F 4100**
+
+**Apparatuur voor het voorkomen van CO2-vorming**
+
+**F 4101**
+
+**Apparatuur voor het afvangen van CO2 voor nuttige toepassing**
+
+**F 4102**
+
+**Apparatuur voor het transport van afgevangen CO2 voor nuttige toepassing**
+
+**F 4103**
+
+**Apparatuur voor het binden van CO2**
+
+**F 4111**
+
+**Apparatuur voor elektrificatie van processen in de chemische industrie**
+
+**F 4200**
+
+**Apparatuur voor emissiereductie van lachgas en methaan**
+
+**F 4201**
+
+**Apparatuur voor het voorkomen of vervangen van gefluoreerde broeikasgassen**
+
+**F 4305**
+
+**NOx-emissie reducerende techniek**
 
 **Apparatuur voor het verwijderen van zwavelhoudende geuremissies**
 
@@ -1922,7 +1922,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Landbouwapparatuur
 
-### Aquacultuur
+### 3.5. Spoorvervoer
 
 ### Visserij
 
@@ -2008,7 +2008,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Inzameling van afval(water)
 
-### Voedselvoorziening en landbouwproductie
+### 2.2. Veehouderij
 
 ### Glastuinbouw
 
@@ -2020,7 +2020,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Visserij
 
-### Aquacultuur
+### 3.6. Luchtvervoer
 
 ### Mobiliteit
 
@@ -2084,7 +2084,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2025-07-01&g=2025-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2025-07-01&g=2025-07-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2026-01-01&g=2026-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
@@ -2098,13 +2098,13 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 - f. ten behoeve van de investering reeds subsidie is verleend op grond van:
 
-- 1°. [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&paragraaf=2.3) of 2.4 van de [Tijdelijke subsidieregeling zero-emissie mobiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0049842);
+- 1°. [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&paragraaf=2.1), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&paragraaf=2.3) of [2.4 van de Tijdelijke subsidieregeling zero-emissie mobiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0049842&paragraaf=2.4);
 
 - 2°. de [Aanschafsubsidieregeling zero-emissie trucks AanZET](https://wetten.overheid.nl/jci1.3:c:BWBR0046589);
 
 - 3°. de [Tijdelijke subsidieregeling aanschaf emissieloze touringcars](https://wetten.overheid.nl/jci1.3:c:BWBR0050067); of
 
-- 4°. de [Subsidieregeling schoon en emissieloos bouwmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBR0046464) voor zover het een subsidie betreft voor bouwvoertuigen als bedoeld in [artikel 1.1, onderdeel c, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&artikel=1.1).
+- 4°. de [Subsidieregeling schoon en emissieloos bouwmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBR0046464).
 
 ##### Artikel 3a. Transparantie
 
@@ -2116,7 +2116,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 4. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in andere sectoren dan die genoemd in het eerste tot derde lid , meer bedraagt dan € 100.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2025-07-01&g=2025-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2025-07-01&g=2025-07-01) van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2026-01-01&g=2026-01-01) van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009
 
 ### Paragraaf 1. Algemeen
 
@@ -2150,9 +2150,9 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 ### Mobiliteit
 
-### Visserij
+### 4.2. Overige broeikasgassen
 
-### Mobiliteit
+### 4.6. Overige luchtverontreiniging
 
 ### Stille, schone en zuinige transportmiddelen, mobiele werktuigen, distributie van alternatieve brandstoffen, transportpreventie
 
@@ -2216,7 +2216,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Aquacultuur
 
-### Visserij
+### 3.4. Mobiele werktuigen
 
 ### Verwerkingsapparatuur voor agrarische producten
 
@@ -2278,7 +2278,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Aquacultuur
 
-### Verwerkingsapparatuur voor agrarische producten
+### 4.3. Zure depositie
 
 ### Mobiliteit
 
@@ -2432,7 +2432,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Visserij
 
-### Verwerkingsapparatuur voor voedsel en agrarische producten
+### 5. Gebouwde omgeving en klimaatadaptatie
 
 ### Mobiliteit
 
@@ -2666,7 +2666,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Landbouwapparatuur
 
-### 3.5. Spoorvervoer
+### 5.2. Duurzaam bouwen
 
 ### Visserij
 
@@ -3482,7 +3482,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 2.5. Visserij
 
-### 2.6. Verwerkingsapparatuur voor agrarische producten
+### 4.4. Fijn stof
 
 ### 3.1. Wegvervoer
 
@@ -3557,5 +3557,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### 5.1. Bescherming of herstel van biodiversiteit
 
 ### 5.2. Duurzaam bouwen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 1.3. Levensduur verlengen (reuse, repair, refurbish, remanufacture, repurpose)
+
+### 1.4. Recycling (recycle)
+
+### 1.5 Toepassen van recyclaat (recycle)
+
+### 1.6. Betere afvalscheiding (recycle)
+
+### 1.7. Voorkomen van emissies uit afvalstoffen
+
+### 2. Voedselvoorziening en landbouwproductie
+
+### 2.1. Glastuinbouw
+
+### 2.3. Landbouwapparatuur
+
+### 2.4. Aquacultuur
+
+### 2.5. Visserij
+
+### 2.6. Verwerkingsapparatuur voor agrarische producten
+
+### 2.7. Eiwittransitie
+
+### 2.8. Klimaatadaptatie in het landelijk gebied
+
+### 3. Mobiliteit
+
+### 3.1. Wegvervoer
+
+### 3.2. Installaties voor vervoermiddelen en werktuigen
+
+### 3.3. Scheepvaart
+
+### 3.7. Distributie van alternatieve brandstoffen
+
+### 4. Klimaat en lucht
+
+### 4.1. Co2-uitstoot
+
+### 4.5. Vluchtige organische stoffen (VOS)
+
+### 5.1. Bescherming of herstel van biodiversiteit
+
+### 5.3. Klimaatadaptatie in gebouwde omgeving
+
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
