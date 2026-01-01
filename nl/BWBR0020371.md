@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2025-08-09"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -199,5 +199,47 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 2. Een aantekening als bedoeld in het eerste lid, wordt in het register opgenomen indien het Octrooicentrum Nederland op eigen gezag deze relatie constateert of informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
 
 3. Het Octrooicentrum Nederland verwijdert een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1af
+
+1. Gelet op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020371&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 1 sexies, tweede lid, artikel 1 septies, tweede lid, en artikel 1 vicies bis, vierde lid, van [Verordening (EU) nr. 765/2006](32006R0765), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+
+2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
+
+3. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taak, bedoeld in het eerste lid.
+
+4. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak, bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
+
+## Bijlage. als bedoeld in [artikel 1af, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020371&artikel=1af&z=2026-01-01&g=2026-01-01)
+
+- –. geavanceerde natuurkunde
+
+- –. geavanceerde computersimulatie en aanverwante computerwetenschappen
+
+- –. geospatiale navigatie
+
+- –. nucleaire technologie
+
+- –. ruimtevaarttechnologie
+
+- –. luchtvaarttechnologie en aanverwante vakgebieden
+
+- –. geavanceerde materiaalwetenschap
+
+- –. geavanceerde chemische technologie
+
+- –. geavanceerde machinebouw
+
+- –. geavanceerde elektrotechniek
+
+- –. geavanceerde industriële techniek
+
+- –. mechanica (non-linear solid mechanics en applied mechanics and data analysis), precisietechniek (materiaalkunde, elektrotechniek) en dynamics based maintenance
+
+- –. Experimenteel en theoretisch onderzoek naar materiaal
+
+- –. Geavanceerde natuurkunde (vloeistofdynamica, trillingen, geluid).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
