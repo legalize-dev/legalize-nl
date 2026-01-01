@@ -4,7 +4,7 @@ identifier: "BWBR0038621"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038621"
 soort: "wet"
@@ -58,8 +58,6 @@ Wijzigt de Wet op de expertisecentra.
 ##### Artikel IV. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
 Wijzigt de Wet educatie en beroepsonderwijs BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. Evaluatiebepaling
 
