@@ -4,7 +4,7 @@ identifier: "BWBR0002473"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002473"
 soort: "AMvB"
@@ -64,9 +64,9 @@ Hebben goedgevonden en verstaan:
 
 1. De keuze van de woonplaats of een wijziging van de keuze wordt schriftelijk gedaan bij de inspecteur.
 
-2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet in Nederland, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
+2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&hoofdstuk=2&artikel=1&z=2026-01-01&g=2026-01-01), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet in Nederland, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
 
-3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
+3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&hoofdstuk=2&artikel=1&z=2026-01-01&g=2026-01-01), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
 
 ##### Artikel 3
 
@@ -74,11 +74,11 @@ Degene die verplicht is woonplaats te kiezen, is desgevraagd gehouden de in de [
 
 ##### Artikel 4
 
-Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=3&z=2014-01-06&g=2014-01-06) is een strafbaar feit.
+Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&hoofdstuk=2&artikel=1&z=2026-01-01&g=2026-01-01) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) is een strafbaar feit.
 
 ##### Artikel 5
 
-Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
+Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&hoofdstuk=2&artikel=1&z=2026-01-01&g=2026-01-01), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
 
 ##### Artikel 6
 
@@ -91,5 +91,65 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 ##### Artikel 5a
 
 Als authentiek gegeven uit andere basisregistraties als bedoeld in [artikel 21a, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21a) wordt aangewezen het burgerservicenummer van de ingeschrevene, bedoeld in [bijlage 1 bij het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1).
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk 1. Algemene bepalingen
+
+##### Artikel a1
+
+1. Dit besluit geeft uitvoering aan de [artikelen 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21a), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=61), [66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66a) en [70 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=70).
+
+2. Dit besluit verstaat onder inzagerecht: het recht op inzage in de stukken die betrekking hebben op een belastingaanslag of een voor bezwaar vatbare beschikking jegens een belastingplichtige of inhoudingsplichtige, bedoeld in [artikel 66a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66a).
+
+### Hoofdstuk 2. Belastingheffing en invordering bij ontbreken vaste woonplaats of plaats van vestiging
+
+### Hoofdstuk 3. Authentieke gegevens uit andere basisregistraties
+
+### Hoofdstuk 4. Inzage in de belastingplichtige of inhoudingsplichtige betreffende gegevens
+
+##### Artikel 5b
+
+Als rijksbelasting waarop het inzagerecht betrekking heeft wordt aangewezen:
+
+- a). accijns;
+
+- b). assurantiebelasting;
+
+- c). bankenbelasting;
+
+- d). belastingen op milieugrondslag;
+
+- e). belasting van personenauto’s en motorrijwielen;
+
+- f). belasting zware motorrijtuigen;
+
+- g). bronbelasting;
+
+- h). dividendbelasting;
+
+- i). erfbelasting;
+
+- j). inkomstenbelasting;
+
+- k). kansspelbelasting;
+
+- l). loonbelasting;
+
+- m). minimumbelasting;
+
+- n). motorrijtuigenbelasting;
+
+- o). omzetbelasting;
+
+- p). overdrachtsbelasting;
+
+- q). schenkbelasting;
+
+- r). vennootschapsbelasting;
+
+- s). verbruiksbelasting van alcoholvrije dranken.
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
