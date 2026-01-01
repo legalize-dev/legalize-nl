@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -162,9 +162,9 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 454,12;
+- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 470,01;
 
-- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 377,91.
+- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 391,14.
 
 3. De staatsraden ontvangen voor de kosten die aan de vervulling van het ambt zijn verbonden en die voor eigen rekening komen een zodanig deel van het bedrag, bedoeld in het tweede lid, onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
 
@@ -208,9 +208,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
