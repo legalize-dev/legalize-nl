@@ -4,7 +4,7 @@ identifier: "BWBR0046589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046589"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - **opleggertrekker:** motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32758R2018) dat hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC volgens [verordening (EU) 2018/858](32758R2018);
 
-- **verkoopprijs:** prijs van de emissieloze vrachtauto inclusief af-fabriekopties zoals vermeld op de overeenkomst verminderd met de daarin begrepen omzetbelasting;
+- **verkoopprijs:** prijs van de emissieloze vrachtauto inclusief af-fabriekopties, exclusief de opbouw die bovenop het bakwagenchassis wordt gebouwd, en zoals vermeld op de overeenkomst verminderd met de daarin begrepen omzetbelasting;
 
 - **verordening (EU) 2018/858:** [Verordening (EU) 2018/858](32758R2018) van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van Verordeningen (EG) nr. 715/2007 en (EG) nr. 595/2009 en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PbEU 2018, L151);
 
@@ -142,19 +142,19 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - c. voor het jaar 2024:
 
-- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01),
+- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01),
 
-- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01);
+- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
 
 - d. voor het jaar 2025:
 
-- i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01);
+- i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
 
-- ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01).
+- ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
+
+- e. voor het jaar 2026: € 78.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01).
 
 2. De Minister stelt het subsidieplafond vast voor de jaren na 2024 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
-
-3. Indien het subsidieplafond wordt bereikt voor afloop van de betreffende kalenderperiode maakt de Minister dit bekend in de Staatscourant.
 
 ##### Artikel 1.6. Wijze van verdelen
 
@@ -198,15 +198,25 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
 
-- ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur.
+- ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur;
+
+- e. in 2026:
+
+- i. van 27 januari 2026, 9.00 uur tot en met 13 februari 2026, 12.00 uur;
+
+- ii. van 29 september 2026, 9.00 uur tot en met 16 oktober 2026, 12.00 uur.
 
 3. Als tijdstip van indiening van een aanvraag geldt de datum van ontvangst van de volledige aanvraag.
 
-4. Een aanvrager kan per werkdag één aanvraag indienen voor de aanschaf van een emissieloze vrachtauto.
+4. Een aanvrager kan:
+
+- a. zowel op de eerste werkdag als op de tweede werkdag van de aanvraagperiode één aanvraag indienen voor de aanschaf van ten hoogste twee emissieloze vrachtauto’s;
+
+- b. vanaf de derde werkdag van de aanvraagperiode één aanvraag per werkdag indienen voor de aanschaf van ten hoogste tien emissieloze vrachtauto’s.
 
 5. Indien een aanvrager op een werkdag meerdere aanvragen indient, of indien meerdere aanvragers die tot eenzelfde groep behoren op een werkdag een aanvraag indienen, neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
 
-6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2025-01-01&g=2025-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
+6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2026-01-01&g=2026-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -254,7 +264,9 @@ De Minister beslist afwijzend op een aanvraag om subsidie:
 
 2. De aanvraag tot subsidievaststelling kan worden ingediend tot uiterlijk 12 maanden na de datum van verlening van de subsidie.
 
-3. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het tweede lid, indien hij kan aantonen dat de levertijd van de nieuwe emissieloze vrachtauto langer is dan de periode, genoemd in het tweede lid.
+3. De subsidieontvanger kan bij de minister een verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het tweede lid.
+
+4. De minister kan uitstel als bedoeld in het derde lid verlenen indien de subsidieontvanger op basis van een verklaring van een opbouwbedrijf kan aantonen dat de levertijd voor het bouwen en monteren van de opbouw op het bakwagenchassis van de nieuwe emissieloze vrachtauto langer is dan de periode, genoemd in het tweede lid.
 
 ##### Artikel 2.6. Gegevensverstrekking aanvraag subsidievaststelling
 
@@ -280,9 +292,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 3. Verplichtingen
 
