@@ -4,7 +4,7 @@ identifier: "BWBR0028173"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028173"
 soort: "wet-BES"
@@ -73,11 +73,13 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 ##### Artikel 2
 
-1. De arbeider heeft voor ieder jaar, dat hij onafgebroken werkzaam is geweest in dienst van éénzelfde werkgever, aanspraak op vakantie gedurende tenminste driemaal het bedongen aantal werkdagen per week met behoud van het loon, dat hij tijdens zijn vakantie met werken zou hebben verdiend, met dien verstande evenwel dat de arbeider voor wie een zesdaagse werkweek geldt aanspraak heeft op vakantie van tenminste vijftien werkdagen.
+1. De arbeider heeft voor ieder jaar, dat hij onafgebroken werkzaam is geweest in dienst van éénzelfde werkgever, aanspraak op vakantie gedurende ten minste drie maal de overeengekomen arbeidsduur per week, met behoud van het loon dat hij tijdens zijn vakantie met werken zou hebben verdiend.
 
-2. De werkgever is verplicht de arbeider op diens verzoek de in het vorige lid bedoelde vakantie te verlenen, behoudens het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2010-10-10&g=2010-10-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=7&z=2010-10-10&g=2010-10-10), terwijl de arbeider verplicht is deze vakantie, ook indien ongevraagd verleend, te nemen.
+2. De arbeider die over een deel van een jaar recht op loon heeft gehad, verwerft over dat deel aanspraak op vakantie die een evenredig gedeelte bedraagt van datgene waarop hij recht zou hebben gehad als hij gedurende het gehele jaar recht had op loon over de volledige overeengekomen arbeidsduur.
 
-3. Niet als werkdagen worden aangemerkt de voor de arbeider krachtens zijn werktijdenregeling geldende rustdagen en, voor zover betreft de arbeider die niet werkzaam is krachtens een werktijdenregeling welke op grond van een regeling ter uitvoering van [artikel 27 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=27) werd goedgekeurd, tevens de krachtens die wet met de zondag gelijkgestelde dagen.
+3. De werkgever is verplicht de arbeider op diens verzoek de in het vorige lid bedoelde vakantie te verlenen, behoudens het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=7&z=2026-01-01&g=2026-01-01), terwijl de arbeider verplicht is deze vakantie, ook indien ongevraagd verleend, te nemen.
+
+4. Niet als werkdagen worden aangemerkt de voor de arbeider krachtens zijn werktijdenregeling geldende rustdagen en, voor zover betreft de arbeider die niet werkzaam is krachtens een werktijdenregeling welke op grond van een regeling ter uitvoering van [artikel 27 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=27) werd goedgekeurd, tevens de krachtens die wet met de zondag gelijkgestelde dagen.
 
 ##### Artikel 3
 
@@ -105,11 +107,11 @@ De vergoeding van één of meer vakantiedagen mag niet in de vorm van een opslag
 
 ##### Artikel 5
 
-De werkgever kan een vakantie, waarvan het tijdstip van ingang reeds overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2010-10-10&g=2010-10-10) is vastgesteld, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider uitstellen en op een latere tijdstip doen ingaan.
+De werkgever kan een vakantie, waarvan het tijdstip van ingang reeds overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2026-01-01&g=2026-01-01) is vastgesteld, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider uitstellen en op een latere tijdstip doen ingaan.
 
 ##### Artikel 6
 
-1. De werkgever kan een vakantie, welke reeds is ingegaan, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider intrekken en het nog niet genoten deel daarvan op een later tijdstip doen ingaan, een en ander onverminderd het bepaalde in [artikel 4, lid 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2010-10-10&g=2010-10-10).
+1. De werkgever kan een vakantie, welke reeds is ingegaan, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider intrekken en het nog niet genoten deel daarvan op een later tijdstip doen ingaan, een en ander onverminderd het bepaalde in [artikel 4, lid 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2026-01-01&g=2026-01-01).
 
 2. De dag, waarop de arbeider als gevolg van de intrekking slechts gedeeltelijk vakantie geniet, wordt niet geteld als een vakantiedag.
 
@@ -117,11 +119,11 @@ De werkgever kan een vakantie, waarvan het tijdstip van ingang reeds overeenkoms
 
 1. Indien de arbeider bij de aanvang van zijn vakantie ongeschikt is tot werken in de zin van de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) dan wel op dat tijdstip of tijdens zijn vakantie ziek is of wordt in de zin van de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), wordt de vakantie onderscheidenlijk het nog niet genoten deel daarvan, beschouwd, als te zijn ingetrokken.
 
-2. Het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2010-10-10&g=2010-10-10) is voorzover mogelijk van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) is voorzover mogelijk van overeenkomstige toepassing.
 
 ##### Artikel 8
 
-De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, welke de arbeider als onmiddellijk gevolg van uitstel der vakantie krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2010-10-10&g=2010-10-10) dan wel intrekking daarvan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2010-10-10&g=2010-10-10) mocht lijden, tenzij het uitstel of de intrekking op verzoek van de arbeider is geschied.
+De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, welke de arbeider als onmiddellijk gevolg van uitstel der vakantie krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2026-01-01&g=2026-01-01) dan wel intrekking daarvan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) mocht lijden, tenzij het uitstel of de intrekking op verzoek van de arbeider is geschied.
 
 ## IV. Van samenvoeging van en vergoeding voor niet genoten vakantie
 
@@ -131,13 +133,13 @@ De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, 
 
 2. De werkgever is verplicht de samengevoegde maximum vakantie binnen drie maanden na aanvraag te doen ingaan, terwijl de arbeider verplicht is deze vakantie ook indien ongevraagd verleend, te nemen. Voor bedrijven, waarin op basis van vierentwintig uren per dag wordt gewerkt, geldt een termijn van zes maanden.
 
-3. De samengevoegde maximum vakantie wordt onafgebroken verleend en kan niet worden uitgesteld of ingetrokken, behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=7&z=2010-10-10&g=2010-10-10), in welk geval het niet genoten deel daarvan ingaat de dag volgende op die van het herstel van de arbeider in de zin der desbetreffende regeling.
+3. De samengevoegde maximum vakantie wordt onafgebroken verleend en kan niet worden uitgesteld of ingetrokken, behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=7&z=2026-01-01&g=2026-01-01), in welk geval het niet genoten deel daarvan ingaat de dag volgende op die van het herstel van de arbeider in de zin der desbetreffende regeling.
 
 ##### Artikel 10
 
 1. De werkgever betaalt de arbeider voor niet genoten vakantie, waarop bij het eindigen der dienstbetrekking aanspraak bestaat, een bedrag gelijk aan zijn in geld uitgedrukt, ten tijde van dat eindigen geldend loon over het aantal dagen der niet genoten vakantie.
 
-2. Voor de toepassing van het bepaalde in het voorgaande lid en in afwijking van het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2010-10-10&g=2010-10-10), wordt onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=3&z=2010-10-10&g=2010-10-10) geacht mede aanspraak te bestaan op een evenredig aantal vakantiedagen over de periode gedurende welke de arbeider bij dezelfde werkgever onafgebroken in dienst is geweest en waarover hij geen vakantie heeft genoten. Bij de berekening van het aantal vakantiedagen wordt een gedeelte van een dag gerekend als een gehele dag.
+2. Voor de toepassing van het bepaalde in het voorgaande lid en in afwijking van het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2026-01-01&g=2026-01-01), wordt onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=3&z=2026-01-01&g=2026-01-01) geacht mede aanspraak te bestaan op een evenredig aantal vakantiedagen over de periode gedurende welke de arbeider bij dezelfde werkgever onafgebroken in dienst is geweest en waarover hij geen vakantie heeft genoten. Bij de berekening van het aantal vakantiedagen wordt een gedeelte van een dag gerekend als een gehele dag.
 
 ## V. Algemene bepalingen
 
@@ -191,7 +193,7 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 ##### Artikel 17
 
-1. Met hechtenis van ten hoogste een maand of geldboete van de eerste categorie wordt gestraft hij, die het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2010-10-10&g=2010-10-10), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4a&z=2010-10-10&g=2010-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=IV&artikel=9&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=12&z=2010-10-10&g=2010-10-10) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=14&z=2010-10-10&g=2010-10-10) niet of niet volledig nakomt.
+1. Met hechtenis van ten hoogste een maand of geldboete van de eerste categorie wordt gestraft hij, die het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2026-01-01&g=2026-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4a&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=IV&artikel=9&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=12&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=14&z=2026-01-01&g=2026-01-01) niet of niet volledig nakomt.
 
 2. De feiten in het vorige lid bedoeld, worden beschouwd als overtredingen.
 
