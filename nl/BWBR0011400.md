@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -50,37 +50,35 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
-In dit besluit wordt verstaan onder:
+In dit besluit en de daarop berustende bepalingen wordt, voor zover niet anders bepaald, verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01),
+- **cursist:** degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01);
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01) vastgesteld bedrag,
+- **cursusgeld:** krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01) vastgesteld bedrag;
 
-**cursusgeldplichtige**: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,
+- **cursusgeldplichtige:** cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger;
 
-**lesgeld**: krachtens [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5) voor het desbetreffende schooljaar vastgestelde bedrag,
+- **lesgeld:** krachtens [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5) voor het desbetreffende studiejaar vastgestelde bedrag;
 
-**lesgeldplichtige**: degene die krachtens de wet lesgeld is verschuldigd,
+- **lesgeldplichtige:** degene die krachtens de wet lesgeld is verschuldigd;
 
-**schooljaar**: tijdvak van 1 augustus tot en met 31 juli daaropvolgend,
+- **teldatum:** bij of krachtens de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) aangewezen tijdstip in het studiejaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal onderwijsdeelnemers van een instelling wordt vastgesteld;
 
-**teldatum**: bij of krachtens de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld,
-
-**wet**: [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
+- **wet:** [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
 
 ### Hoofdstuk 2. Lesgeld
 
-##### Artikel 2. Procedure inschrijving bij een dagschool
+##### Artikel 2. Procedure inschrijving bij een instelling
 
-1. Het bevoegd gezag schrijft een leerling in voor een opleiding. Het bevoegd gezag zorgt dat de leerling bekend is met de verplichting tot het betalen van lesgeld op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
+1. Het bevoegd gezag schrijft een onderwijsdeelnemer in voor een opleiding. Het bevoegd gezag zorgt dat de onderwijsdeelnemer bekend is met de verplichting tot het betalen van lesgeld op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
 
-2. De lesgeldplicht gaat in op de eerste dag van het desbetreffende schooljaar of, indien de leerling in de loop van het schooljaar wordt ingeschreven, op de datum van inschrijving.
+2. De lesgeldplicht gaat in op de eerste dag van het desbetreffende studiejaar of, indien de onderwijsdeelnemer in de loop van het studiejaar wordt ingeschreven, op de datum van inschrijving.
 
 3. Inschrijving geschiedt door of namens het bevoegd gezag.
 
 ##### Artikel 3. Beëindiging inschrijving
 
-Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten.
+Het bevoegd gezag beëindigt de inschrijving van de onderwijsdeelnemer op zijn aanvraag of zodra de onderwijsdeelnemer de opleiding met goed gevolg heeft afgesloten.
 
 ##### Artikel 4. Voldoening lesgeld
 
@@ -90,71 +88,71 @@ Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of
 
 - b. betaling in termijnen door een opdracht tot automatische incasso aan Onze minister.
 
-2. Indien de lesgeldplichtige heeft gekozen voor betaling in termijnen door een opdracht tot automatische incasso aan Onze minister en de laatste termijn nog niet is betaald op het moment dat een termijnregeling voor een daarop volgend schooljaar tot stand komt, kunnen beide termijnregelingen worden samengevoegd.
+2. Indien de lesgeldplichtige heeft gekozen voor betaling in termijnen door een opdracht tot automatische incasso aan Onze minister en de laatste termijn nog niet is betaald op het moment dat een termijnregeling voor een daarop volgend studiejaar tot stand komt, kunnen beide termijnregelingen worden samengevoegd.
 
-3. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in meer dan één termijn heeft verstrekt en de leerling voor 1 oktober van het schooljaar wordt ingeschreven, wordt van het totaal verschuldigde bedrag afgeschreven in de maand:
+3. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in meer dan één termijn heeft verstrekt en de onderwijsdeelnemer voor 1 oktober van het studiejaar wordt ingeschreven, wordt van het totaal verschuldigde bedrag afgeschreven in de maand:
 
-- a. oktober van het schooljaar: 11,11%;
+- a. oktober van het studiejaar: 11,11%;
 
-- b. november van het schooljaar: 11,11%;
+- b. november van het studiejaar: 11,11%;
 
-- c. december van het schooljaar: 11,11%;
+- c. december van het studiejaar: 11,11%;
 
-- d. januari van het schooljaar: 11,11%;
+- d. januari van het studiejaar: 11,11%;
 
-- e. februari van het schooljaar: 11,11%;
+- e. februari van het studiejaar: 11,11%;
 
-- f. maart van het schooljaar: 11,11%;
+- f. maart van het studiejaar: 11,11%;
 
-- g. april van het schooljaar: 11,11%;
+- g. april van het studiejaar: 11,11%;
 
-- h. mei van het schooljaar: 11,11%; en
+- h. mei van het studiejaar: 11,11%; en
 
-- i. juni van het schooljaar: 11,11%.
+- i. juni van het studiejaar: 11,11%.
 
-4. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.
+4. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in termijnen heeft verstrekt en de onderwijsdeelnemer na 30 september van het studiejaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.
 
 ##### Artikel 5. Vermindering lesgeld
 
-Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan een dagschool, wordt het lesgeld verminderd met eentwaalfde deel voor iedere verstreken hele maand in dat schooljaar.
+Voor een onderwijsdeelnemer die na 31 oktober van een studiejaar wordt ingeschreven aan een instelling, wordt het lesgeld verminderd met eentwaalfde deel voor iedere verstreken hele maand in dat studiejaar.
 
 ##### Artikel 6. Geen lesgeld verschuldigd
 
-1. Geen lesgeld is verschuldigd indien de inschrijving van de leerling voor 1 oktober van dat schooljaar wordt beëindigd.
+1. Geen lesgeld is verschuldigd indien de inschrijving van de onderwijsdeelnemer voor 1 oktober van dat studiejaar wordt beëindigd.
 
-2. Vrijgesteld van het betalen van lesgeld is de lesgeldplichtige indien het betreft een leerling die:
+2. Vrijgesteld van het betalen van lesgeld is de lesgeldplichtige indien het betreft een onderwijsdeelnemer die:
 
-- a. eerder in het desbetreffende schooljaar was ingeschreven aan een dagschool, voor welke inschrijving geen vrijstelling of teruggave van lesgeld heeft plaatsgehad,
+- a. eerder in het desbetreffende studiejaar was ingeschreven aan een instelling, voor welke inschrijving geen vrijstelling of teruggave van lesgeld heeft plaatsgehad,
 
-- b. is ingeschreven aan een dagschool, verbonden aan een justitiële jeugdinrichting, of
+- b. is ingeschreven aan een instelling, verbonden aan een justitiële jeugdinrichting, of
 
 - c. is ingeschreven voor een bij ministeriële regeling aan te wijzen bijzondere vorm van dagonderwijs.
 
-3. Voor een schooljaar is de leerling aan lesgeld nooit meer verschuldigd dan het bedrag, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
+3. Voor een studiejaar is de onderwijsdeelnemer aan lesgeld nooit meer verschuldigd dan het bedrag, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
 
 4. Bij ministeriële regeling wordt bepaald welke bewijsstukken de lesgeldplichtige overlegt om voor vrijstelling in aanmerking te komen.
 
 ##### Artikel 7. Terugbetaling lesgeld
 
-1. Indien de inschrijving voor 1 mei van het schooljaar wordt beëindigd vanwege een in het tweede lid genoemde reden, wordt het lesgeld voor dat schooljaar op aanvraag van de lesgeldplichtige terugbetaald met eentwaalfde deel voor iedere resterende hele maand in dat schooljaar.
+1. Indien de inschrijving voor 1 mei van het studiejaar wordt beëindigd vanwege een in het tweede lid genoemde reden, wordt het lesgeld voor dat studiejaar op aanvraag van de lesgeldplichtige terugbetaald met eentwaalfde deel voor iedere resterende hele maand in dat studiejaar.
 
 2. Teruggave van lesgeld is uitsluitend mogelijk indien de inschrijving is beëindigd in verband met:
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), mits die inschrijving plaatsvindt in het desbetreffende studiejaar,
 
-- c. overlijden of ernstige ziekte van de leerling, of
+- c. overlijden of ernstige ziekte van de onderwijsdeelnemer, of
 
 - d. bij ministeriële regeling te bepalen bijzondere familieomstandigheden.
 
-3. Een aanvraag om teruggave van lesgeld wordt voor het einde van het desbetreffende schooljaar gedaan op een bij ministeriële regeling te bepalen wijze.
+3. Een aanvraag om teruggave van lesgeld wordt voor het einde van het desbetreffende studiejaar gedaan op een bij ministeriële regeling te bepalen wijze.
 
 4. Geen teruggave van lesgeld vindt plaats indien op grond van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) of de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) een tegemoetkoming in de onderwijsbijdrage is toegekend of als voorschot is verstrekt, en de tegemoetkoming of het voorschot is verrekend met de verplichting tot het betalen van lesgeld.
 
-##### Artikel 8. Informatieverplichtingen dagscholen
+##### Artikel 8. Informatieverplichtingen instellingen
 
-De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een bij ministeriële regeling te bepalen wijze.
+De instellingen verstrekken Onze minister gegevens omtrent de inschrijving op een bij ministeriële regeling te bepalen wijze.
 
 ### Hoofdstuk 3. Cursusgeld
 
@@ -168,9 +166,9 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2024-08-01&g=2024-08-01) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2026-01-01&g=2026-01-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2024-08-01&g=2024-08-01) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -180,39 +178,39 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 1. Het cursusgeld is door de cursusgeldplichtige verschuldigd aan de instelling die het onderwijs aan de cursus verzorgt.
 
-2. Het cursusgeld is, ongeacht het aantal inschrijvingen door een cursist, eenmaal verschuldigd per cursusjaar per instelling en wordt voldaan door:
+2. Het cursusgeld is, ongeacht het aantal inschrijvingen door een cursist, eenmaal verschuldigd per studiejaar per instelling en wordt voldaan door:
 
 - a. betaling van het cursusgeld aan het bevoegd gezag bij de inschrijving,
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2024-08-01&g=2024-08-01) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2026-01-01&g=2026-01-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.
 
-4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
+4. Indien een cursist in een studiejaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
 
-5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2024-08-01&g=2024-08-01).
+5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
-Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het cursusgeld verminderd met eentwaalfde deel voor iedere in dat cursusjaar reeds verstreken maand.
+Voor een cursist die in de loop van het studiejaar wordt ingeschreven, wordt het cursusgeld verminderd met eentwaalfde deel voor iedere in dat studiejaar reeds verstreken maand.
 
 ##### Artikel 13. Geen cursusgeld verschuldigd
 
-1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt.
+1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het studiejaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt.
 
 2. Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.
 
 ##### Artikel 14. Terugbetaling cursusgeld
 
-1. Indien de inschrijving wordt beëindigd wegens een in het tweede of derde lid genoemde reden, wordt het cursusgeld voor het desbetreffende cursusjaar op aanvraag van de cursusgeldplichtige geheel of gedeeltelijk terugbetaald met eentwaalfde deel voor iedere in dat cursusjaar resterende hele maand waarin de cursist niet langer zal zijn ingeschreven.
+1. Indien de inschrijving wordt beëindigd wegens een in het tweede of derde lid genoemde reden, wordt het cursusgeld voor het desbetreffende studiejaar op aanvraag van de cursusgeldplichtige geheel of gedeeltelijk terugbetaald met eentwaalfde deel voor iedere in dat studiejaar resterende hele maand waarin de cursist niet langer zal zijn ingeschreven.
 
 2. Teruggave van cursusgeld is uitsluitend mogelijk indien de inschrijving is beëindigd:
 
-- a. voor de eerste dag waarop de lessen in het cursusjaar aanvangen,
+- a. voor de eerste dag waarop de lessen in het studiejaar aanvangen,
 
-- b. in verband met de inschrijving bij een dagschool, mits die inschrijving plaatsvindt in het desbetreffende cursusjaar,
+- b. in verband met de inschrijving bij een instelling, mits die inschrijving plaatsvindt in het desbetreffende studiejaar,
 
 - c. wegens overlijden of ernstige ziekte van de cursist, ter beoordeling van het bevoegd gezag, of
 
@@ -220,9 +218,9 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 3. In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 7.4.8, vierde lid, onder h, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.8).
 
-4. Een aanvraag om teruggave van cursusgeld wordt voor het einde van dat cursusjaar gedaan bij het bevoegd gezag.
+4. Een aanvraag om teruggave van cursusgeld wordt voor het einde van dat studiejaar gedaan bij het bevoegd gezag.
 
-5. Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende cursusjaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het cursusjaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het cursusjaar tellen daarbij niet mee.
+5. Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende studiejaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het studiejaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het studiejaar tellen daarbij niet mee.
 
 ##### Artikel 15. Omvang cursusgeld
 
@@ -234,13 +232,13 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 - c. voor opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 2.4 tot en met 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), of onderdelen van dat diploma: € 0,94 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden.
 
-2. De bedragen, genoemd in het eerste lid, worden jaarlijks bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarvoor het gewijzigde cursusgeld zal gelden. De wijziging wordt bepaald door de gemiddelde procentuele wijziging die de consumentenprijsindex over de periode mei tot en met april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. De aldus verkregen wijziging van de cursusgeldbedragen, met uitzondering van het in het eerste lid, onder c, bedoelde bedrag, wordt afgerond op het naastbij gelegen gehele getal.
+2. De bedragen, genoemd in het eerste lid, worden jaarlijks bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 oktober voorafgaand aan het studiejaar waarvoor het gewijzigde cursusgeld zal gelden. De wijziging wordt bepaald door de gemiddelde procentuele wijziging die de consumentenprijsindex over de periode mei tot en met april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. De aldus verkregen wijziging van de cursusgeldbedragen, met uitzondering van het in het eerste lid, onder c, bedoelde bedrag, wordt afgerond op het naastbij gelegen gehele getal.
 
 3. Onder de consumentenprijsindex, bedoeld in het tweede lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
@@ -276,9 +274,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a. Omvang lesgeld
 
-1. Het lesgeld, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), bedraagt voor het cursusjaar 2024–2025 € 1419.
+1. Het lesgeld, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), bedraagt voor het studiejaar 2024–2025 € 1419.
 
-2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarvoor het gewijzigde lesgeld zal gelden. De wijziging wordt bepaald door de gemiddelde procentuele wijziging die de consumentenprijsindex over de periode mei tot en met april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het lesgeldbedrag wordt afgerond op het naastbij gelegen gehele getal.
+2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 oktober voorafgaand aan het studiejaar waarvoor het gewijzigde lesgeld zal gelden. De wijziging wordt bepaald door de gemiddelde procentuele wijziging die de consumentenprijsindex over de periode mei tot en met april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het lesgeldbedrag wordt afgerond op het naastbij gelegen gehele getal.
 
 3. Onder de consumentenprijsindex, bedoeld in het tweede lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor de Statistiek.
 
