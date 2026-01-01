@@ -4,7 +4,7 @@ identifier: "BWBR0043850"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043850"
 soort: "AMvB"
@@ -78,17 +78,15 @@ De verhuurder van een tot bewoning bestemde onroerende zaak verstrekt als er ach
 
 Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3) wordt aangewezen de gegevens die worden verstrekt:
 
-- a. op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01);
+- a. op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01);
 
 - b. krachtens [artikel 9, tweede lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=9);
 
 - c. op grond van [artikel 89, eerste juncto negende lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89);
 
-- d. krachtens [artikel 95b, achtste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95b);
+- d. krachtens [artikel 2.26, derde lid, onderdeel a, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.26); of
 
-- e. krachtens [artikel 44, achtste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44); of
-
-- f. krachtens [artikel 4, derde lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=4).
+- e. krachtens [artikel 4, derde lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=4).
 
 #### § 3. Breed moratorium
 
@@ -108,7 +106,7 @@ Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](http
 
 - d. een plan van aanpak alsmede een machtiging tot beheer of, in voorkomend geval, nadere afspraken met de bewindvoerder; en
 
-- e. een formulier, waarvan het model is opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit, waarin de cliënt verklaart mee te werken aan de schuldhulpverlening en dat hij zich zal houden aan de bijbehorende verplichtingen.
+- e. een formulier, waarvan het model is opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&bijlage=1&z=2026-01-01&g=2026-01-01) bij dit besluit, waarin de cliënt verklaart mee te werken aan de schuldhulpverlening en dat hij zich zal houden aan de bijbehorende verplichtingen.
 
 4. Indiening van het verzoek behoeft niet door een advocaat te geschieden.
 
@@ -122,11 +120,11 @@ Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](http
 
 2. Het verzoek wordt afgewezen indien:
 
-- a. in de tien jaar voorafgaande aan de dag waarop het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), is ingediend, al eerder een afkoelingsperiode is afgekondigd;
+- a. in de tien jaar voorafgaande aan de dag waarop het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), is ingediend, al eerder een afkoelingsperiode is afgekondigd;
 
-- b. na indiening van het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), blijkt dat de cliënt de rechtbank heeft verzocht om de toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III), uit te spreken.
+- b. na indiening van het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), blijkt dat de cliënt de rechtbank heeft verzocht om de toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III), uit te spreken.
 
-3. Bij toewijzing van het verzoek stelt de rechter de duur van de afkoelingsperiode vast met inachtneming van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01).
+3. Bij toewijzing van het verzoek stelt de rechter de duur van de afkoelingsperiode vast met inachtneming van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 6. Verplichtingen cliënt
 
@@ -146,7 +144,7 @@ Tot de verplichtingen die de cliënt gedurende de afkoelingsperiode na moet kome
 
 ##### Artikel 7. Doorkruisende verzoeken
 
-Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een afkoelingsperiode als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01) gelijktijdig bij de rechtbank aanhangig zijn, wordt eerst laatstgenoemd verzoek behandeld.
+Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een afkoelingsperiode als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01) gelijktijdig bij de rechtbank aanhangig zijn, wordt eerst laatstgenoemd verzoek behandeld.
 
 ##### Artikel 8. Tussentijdse beëindiging afkoelingsperiode
 
@@ -160,9 +158,9 @@ Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een
 
 - d. het met de afkoelingsperiode samenhangende schuldhulpverleningstraject is of wordt beëindigd;
 
-- e. de cliënt in ernstige mate of herhaaldelijk tekortschiet in de nakoming van een van de in [artikel 6, onderdelen a tot en met d dan wel f](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), genoemde verplichtingen;
+- e. de cliënt in ernstige mate of herhaaldelijk tekortschiet in de nakoming van een van de in [artikel 6, onderdelen a tot en met d dan wel f](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), genoemde verplichtingen;
 
-- f. de cliënt de in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), genoemde betalingsverplichtingen heeft geschonden, waardoor ten aanzien van ten minste één van die verplichtingen een betalingsachterstand is ontstaan van één maand of meer.
+- f. de cliënt de in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), genoemde betalingsverplichtingen heeft geschonden, waardoor ten aanzien van ten minste één van die verplichtingen een betalingsachterstand is ontstaan van één maand of meer.
 
 2. In overige gevallen kan het college de rechtbank verzoeken om tussentijdse beëindiging van de afkoelingsperiode.
 
@@ -172,11 +170,11 @@ Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een
 
 ##### Artikel 9. Behandeling verzoek
 
-1. In het geval van een verzoek als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) wordt het college opgeroepen. De rechtbank kan de cliënt, schuldeisers en het Openbaar Ministerie oproepen om gehoord te worden.
+1. In het geval van een verzoek als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01) wordt het college opgeroepen. De rechtbank kan de cliënt, schuldeisers en het Openbaar Ministerie oproepen om gehoord te worden.
 
 2. De rechtbank beslist onverwijld op het verzoek. De afkoelingsperiode gaat in op de dag volgende op de dag van de uitspraak.
 
-3. De griffier doet van de beschikking tot vaststelling of tussentijdse beëindiging van een afkoelingsperiode en het tijdstip daarvan, alsmede in het eerste geval het tijdstip waarop deze zal eindigen, onmiddellijk aankondiging in de Staatscourant. Het college informeert terstond de bekende schuldeisers, bedoeld in [artikel 4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01).
+3. De griffier doet van de beschikking tot vaststelling of tussentijdse beëindiging van een afkoelingsperiode en het tijdstip daarvan, alsmede in het eerste geval het tijdstip waarop deze zal eindigen, onmiddellijk aankondiging in de Staatscourant. Het college informeert terstond de bekende schuldeisers, bedoeld in [artikel 4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 10. Opschortende werking
 
@@ -268,13 +266,13 @@ De hieronder vermelde bestuursorganen, personen en instanties verstrekken op ver
 
 ##### Artikel 16. Gegevensverstrekking voor de uitvoering van het plan van aanpak
 
-1. Het college verifieert, gedurende de uitvoering van het plan van aanpak, minstens eenmaal per jaar de in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=15&z=2024-01-01&g=2024-01-01) van dit besluit genoemde gegevens van de cliënt om te zorgen dat de gegevens juist en actueel blijven.
+1. Het college verifieert, gedurende de uitvoering van het plan van aanpak, minstens eenmaal per jaar de in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01) van dit besluit genoemde gegevens van de cliënt om te zorgen dat de gegevens juist en actueel blijven.
 
 2. Als bij een verificatie door het college wordt vastgesteld dat de gegevens van de cliënt niet meer juist of actueel zijn, en die ten gevolge hebben dat het plan van aanpak niet meer voldoet, wordt door het college het plan van aanpak gewijzigd.
 
 ##### Artikel 17. Gegevensverstrekking door gemeenten aan derden
 
-1. Het college verstrekt het gegeven dat de cliënt schuldhulpverlening ontvangt op grond van de wet aan de gerechtsdeurwaarders, verstrekkers van de signalen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), schuldeisers, bewindvoerders en kredietverstrekkers.
+1. Het college verstrekt het gegeven dat de cliënt schuldhulpverlening ontvangt op grond van de wet aan de gerechtsdeurwaarders, verstrekkers van de signalen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), schuldeisers, bewindvoerders en kredietverstrekkers.
 
 2. De gerechtsdeurwaarders en bewindvoerders ontvangen de gegevens ter uitoefening van hun wettelijke taak.
 
@@ -296,6 +294,6 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke schuldhulpverlening.
 
-## Bijlage 1. behorend bij [artikel 4, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01)
+## Bijlage 1. behorend bij [artikel 4, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
