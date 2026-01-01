@@ -4,7 +4,7 @@ identifier: "BWBR0036980"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036980"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Gelet op [artikel 26, vijfde lid, van de Wet werk en inkomen naar arbeidsvermoge
 
 In deze regeling wordt verstaan onder:
 
-- a. **werknemer:** een persoon, die door het college is ondersteund op grond van [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) naar arbeid in een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5), waarbij het college aan de werkgever loonkostensubsidie als bedoeld in [artikel 10d van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) heeft verleend en na beëindiging van de loonkostensubsidie de werknemer in dienstbetrekking nog niet gedurende twee aangesloten jaren het minimumloon heeft verdiend;
+- a. **werknemer:** een persoon, die door het college is ondersteund op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [7a, eerste lid, onderdeel a, of derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), naar arbeid in een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5), waarbij het college aan de werkgever loonkostensubsidie als bedoeld in [artikel 10d van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) heeft verleend en na beëindiging van de loonkostensubsidie de werknemer in dienstbetrekking nog niet gedurende twee aangesloten jaren het minimumloon heeft verdiend;
 
 - b. **college:** het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), waarbij de werknemer de belanghebbende is;
 
@@ -70,7 +70,7 @@ Indien het UWV een melding als bedoeld in [artikel 38a, tweede lid, van de Ziekt
 
 ##### Artikel 5. Plan van aanpak
 
-1. Indien het college van oordeel is dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het college, in overleg met die vangnetter, binnen twee weken na het oordeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2016-07-01&g=2016-07-01), een plan van aanpak op.
+1. Indien het college van oordeel is dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het college, in overleg met die vangnetter, binnen twee weken na het oordeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2026-01-01&g=2026-01-01), een plan van aanpak op.
 
 2. Het plan van aanpak omvat in ieder geval:
 
@@ -86,13 +86,13 @@ Indien het UWV een melding als bedoeld in [artikel 38a, tweede lid, van de Ziekt
 
 ##### Artikel 6. Periodieke herijking
 
-1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2016-07-01&g=2016-07-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. Artikel 5, derde lid, is van overeenkomstige toepassing.
+1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2026-01-01&g=2026-01-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. Artikel 5, derde lid, is van overeenkomstige toepassing.
 
 2. Het plan van aanpak wordt bijgesteld indien de periodieke herijking daartoe aanleiding geeft.
 
 ##### Artikel 7. Afwijken van termijnen
 
-Van de termijnen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2016-07-01&g=2016-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2016-07-01&g=2016-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=6&z=2016-07-01&g=2016-07-01), kan door het college, na overleg met de vangnetter, gemotiveerd worden afgeweken.
+Van de termijnen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=6&z=2026-01-01&g=2026-01-01), kan door het college, na overleg met de vangnetter, gemotiveerd worden afgeweken.
 
 ##### Artikel 8. Inhoud van het re-integratieverslag
 
@@ -108,9 +108,9 @@ Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en 
 
 - e. een oordeel over de duurzaamheid van het ziekteverzuim;
 
-- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2016-07-01&g=2016-07-01);
+- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2026-01-01&g=2026-01-01);
 
-- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=6&z=2016-07-01&g=2016-07-01);
+- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=6&z=2026-01-01&g=2026-01-01);
 
 - h. de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
 
