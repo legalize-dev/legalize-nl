@@ -4,7 +4,7 @@ identifier: "BWBR0042818"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-10-05"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042818"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **hasjiesj:** hasjiesj als bedoeld op lijst II bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
-- **coffeeshop:** coffeeshop als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6a&z=2023-10-05&g=2023-10-05);
+- **coffeeshop:** coffeeshop als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6a&z=2026-01-01&g=2026-01-01);
 
 - **gesloten coffeeshopketen:** een keten waarin de teelt van hennep of hasjiesj voor recreatief gebruik en de aflevering aan en verkoop daarvan in een coffeeshop, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), plaatsvindt;
 
@@ -63,7 +63,7 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 ##### Artikel 3
 
-1. Ten aanzien van de handelingen, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), geldt het in die artikelonderdelen omschreven verbod niet, voor zover die handelingen worden verricht in het kader van de voorbereiding, uitvoering en afbouw van het experiment en in overeenstemming met de eisen die aan die handelingen bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05) of [7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05) worden gesteld.
+1. Ten aanzien van de handelingen, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), geldt het in die artikelonderdelen omschreven verbod niet, voor zover die handelingen worden verricht in het kader van de voorbereiding, uitvoering en afbouw van het experiment en in overeenstemming met de eisen die aan die handelingen bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01) of [7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01) worden gesteld.
 
 2. [Artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) is niet van toepassing voor zover de in het eerste lid van dat artikel genoemde handelingen worden verricht in het kader van de voorbereiding, uitvoering en afbouw van het experiment.
 
@@ -103,7 +103,7 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 ##### Artikel 6a
 
-1. De burgemeester van een gemeente als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), bepaalt hoeveel coffeeshops in zijn gemeente zijn toegestaan.
+1. De burgemeester van een gemeente als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), bepaalt hoeveel coffeeshops in zijn gemeente zijn toegestaan.
 
 2. Een coffeeshop wordt aangemerkt als toegestaan, indien daar de verkoop van hennep of hasjiesj mag plaatsvinden op grond van een expliciete verklaring of bestendige gedragslijn van de burgemeester.
 
@@ -113,19 +113,19 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 - a. eisen aan:
 
-- 1°. het telen van hennep of hasjiesj, het afleveren en het verkopen daarvan aan coffeeshops in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), de bedrijfsvoering, productinformatie en de veiligheid en kwaliteit van de geteelde hennep of hasjiesj;
+- 1°. het telen van hennep of hasjiesj, het afleveren en het verkopen daarvan aan coffeeshops in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), de bedrijfsvoering, productinformatie en de veiligheid en kwaliteit van de geteelde hennep of hasjiesj;
 
-- 2°. de houders van een coffeeshop in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), waaronder eisen aan de deelname aan het experiment, bedrijfsvoering, het verkopen van hennep of hasjiesj, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), dan wel aan het niet-deelnemen aan het experiment;
+- 2°. de houders van een coffeeshop in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), waaronder eisen aan de deelname aan het experiment, bedrijfsvoering, het verkopen van hennep of hasjiesj, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), dan wel aan het niet-deelnemen aan het experiment;
 
 - b. de ten behoeve van de evaluatie te registreren gegevens;
 
-- c. de afbouw van het experiment, waarbij kan worden bepaald in welke gevallen de afbouw eerder plaatsvindt dan het tijdstip, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2023-10-05&g=2023-10-05).
+- c. de afbouw van het experiment, waarbij kan worden bepaald in welke gevallen de afbouw eerder plaatsvindt dan het tijdstip, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2026-01-01&g=2026-01-01).
 
-2. Bij ministeriële regeling kan in afwijking van [artikel 2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15) worden bepaald dat het verstrekken van gegevens of bescheiden uit de door aangewezen telers en coffeeshops krachtens het eerste lid, onder a, bij te houden administratie uitsluitend op elektronische wijze plaatsvindt. Daarbij kunnen nadere eisen worden gesteld aan het gebruik van de elektronische weg.
+2. Bij ministeriële regeling kan worden bepaald dat het verstrekken van gegevens of bescheiden uit de door aangewezen telers en coffeeshops krachtens het eerste lid, onder a, bij te houden administratie uitsluitend op elektronische wijze plaatsvindt. Daarbij kunnen nadere eisen worden gesteld aan het gebruik van de elektronische weg.
 
 ##### Artikel 8
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05) van deze wet zijn belast de bij besluit van Onze Ministers aangewezen personen. Bij dat besluit kunnen Onze Ministers bepalen dat de burgemeester van een gemeente als bedoeld in artikel 6, eerste lid, de personen aanwijst die belast zijn met het toezicht op de coffeeshops in die gemeente.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01) van deze wet zijn belast de bij besluit van Onze Ministers aangewezen personen. Bij dat besluit kunnen Onze Ministers bepalen dat de burgemeester van een gemeente als bedoeld in artikel 6, eerste lid, de personen aanwijst die belast zijn met het toezicht op de coffeeshops in die gemeente.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -133,21 +133,21 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 1. Bij algemene maatregel van bestuur wordt bepaald hoe lang de persoonsgegevens die Onze Ministers in verband met de uitoefening van hun taken op grond van deze wet verwerken, mogen worden bewaard.
 
-2. Bij algemene maatregel van bestuur worden regels gesteld over de verstrekking van gegevens, waaronder persoonsgegevens, die Onze Ministers, de burgemeesters van de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), of de krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8&z=2023-10-05&g=2023-10-05), aangewezen personen hebben verkregen of die nodig zijn in verband met de uitoefening van hun taken of bevoegdheden op grond van deze wet, en over de verdere verwerking van die gegevens in het kader van het experiment. Daarbij wordt in ieder geval bepaald aan wie welke persoonsgegevens mogen worden verstrekt en voor welk doel deze persoonsgegevens mogen worden verstrekt.
+2. Bij algemene maatregel van bestuur worden regels gesteld over de verstrekking van gegevens, waaronder persoonsgegevens, die Onze Ministers, de burgemeesters van de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), of de krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8&z=2026-01-01&g=2026-01-01), aangewezen personen hebben verkregen of die nodig zijn in verband met de uitoefening van hun taken of bevoegdheden op grond van deze wet, en over de verdere verwerking van die gegevens in het kader van het experiment. Daarbij wordt in ieder geval bepaald aan wie welke persoonsgegevens mogen worden verstrekt en voor welk doel deze persoonsgegevens mogen worden verstrekt.
 
 ##### Artikel 9
 
-Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), [7, eerste lid, onder a, onderdeel 1°, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05), van deze wet.
+Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), [7, eerste lid, onder a, onderdeel 1°, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet.
 
 ##### Artikel 9a
 
-1. Onze Ministers zijn bevoegd een bestuurlijke boete op te leggen ter zake van overtreding van de regels, bedoeld in [artikel 7, eerste lid, onder a, onderdeel 1°, en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05), voor zover dat bij algemene maatregel van bestuur is bepaald.
+1. Onze Ministers zijn bevoegd een bestuurlijke boete op te leggen ter zake van overtreding van de regels, bedoeld in [artikel 7, eerste lid, onder a, onderdeel 1°, en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), voor zover dat bij algemene maatregel van bestuur is bepaald.
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 ##### Artikel 10
 
-De burgemeester van een gemeente, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), is bevoegd tot oplegging van een last onder bestuursdwang ten aanzien van een coffeeshop ter handhaving van de eisen die bij of krachtens artikel 6, derde lid, en [artikel 7, eerste lid, onder a, onderdeel 2°, onder c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05), van deze wet gelden.
+De burgemeester van een gemeente, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), is bevoegd tot oplegging van een last onder bestuursdwang ten aanzien van een coffeeshop ter handhaving van de eisen die bij of krachtens artikel 6, derde lid, en [artikel 7, eerste lid, onder a, onderdeel 2°, onder c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet gelden.
 
 ##### Artikel 11
 
@@ -163,7 +163,7 @@ Onze Ministers zenden binnen vier maanden na de ontvangst van het evaluatieversl
 
 ##### Artikel 13
 
-De voordracht voor een krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2023-10-05&g=2023-10-05), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=5&z=2023-10-05&g=2023-10-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2023-10-05&g=2023-10-05), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2023-10-05&g=2023-10-05), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8a&z=2023-10-05&g=2023-10-05), [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a&z=2023-10-05&g=2023-10-05), of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=11&z=2023-10-05&g=2023-10-05), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de Staten-Generaal is overgelegd.
+De voordracht voor een krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2026-01-01&g=2026-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8a&z=2026-01-01&g=2026-01-01), [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a&z=2026-01-01&g=2026-01-01), of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=11&z=2026-01-01&g=2026-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de Staten-Generaal is overgelegd.
 
 ##### Artikel 14
 
@@ -181,6 +181,6 @@ Deze wet wordt aangehaald als: Wet experiment gesloten coffeeshopketen.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Deze wet vervalt vier jaar en zes maanden na het tijdstip, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2023-10-05&g=2023-10-05), tenzij krachtens dat artikel bij algemene maatregel van bestuur anders wordt bepaald.
+2. Deze wet vervalt vier jaar en zes maanden na het tijdstip, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2026-01-01&g=2026-01-01), tenzij krachtens dat artikel bij algemene maatregel van bestuur anders wordt bepaald.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
