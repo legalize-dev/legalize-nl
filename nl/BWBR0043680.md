@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -58,7 +58,7 @@ entry_into_force: "2020-06-23"
 
 ##### Artikel 2
 
-Het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 4.
+Het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 4,3.
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2025-01-01&g=2025-01-01) terugwerkt tot en met 1 juni 2020.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2026-01-01&g=2026-01-01) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
