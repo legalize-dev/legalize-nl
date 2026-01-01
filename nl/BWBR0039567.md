@@ -4,7 +4,7 @@ identifier: "BWBR0039567"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039567"
 soort: "AMvB"
@@ -96,11 +96,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de actuele meterstand in KWH voor de van het net afgenomen en verbruikte elektriciteit en voor de op het net ingevoede elektriciteit voor de verschillende tariefperioden te registeren en weer te geven;
 
-- c. ten minste elk kwartier de gegevens, bedoeld in onderdeel b, te registreren en deze gegevens ten minste dagelijks op afstand met een netbeheerder als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) uit te wisselen op zodanige wijze dat de netbeheerder de uitgewisselde gegevens kan lezen en gebruiken; en
+- c. ten minste elk kwartier de gegevens, bedoeld in onderdeel b, te registreren en deze gegevens ten minste dagelijks op afstand met een transmissie- of distributiesysteembeheerder voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) uit te wisselen op zodanige wijze dat de transmissie- of distributiesysteembeheerder de uitgewisselde gegevens kan lezen en gebruiken; en
 
 - d. informatie over de werkelijke tijd van het verbruik te verschaffen.
 
-2. In geval van een meetinrichting als bedoeld in het eerste lid, verstrekt een leverancier als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) op verzoek van de eigenaar of exploitant van een publiek toegankelijk oplaadpunt of van een derde partij die namens deze eigenaar of exploitant optreedt, meetgegevens inzake de input en output van elektriciteit, in een gemakkelijk te begrijpen vorm die vergelijking van aanbiedingen op basis van gelijke criteria mogelijk maakt.
+2. In geval van een meetinrichting als bedoeld in het eerste lid, verstrekt een leverancier als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) op verzoek van de eigenaar of exploitant van een publiek toegankelijk oplaadpunt of van een derde partij die namens deze eigenaar of exploitant optreedt, meetgegevens inzake de input en output van elektriciteit, in een gemakkelijk te begrijpen vorm die vergelijking van aanbiedingen op basis van gelijke criteria mogelijk maakt.
 
 ##### Artikel 4
 
@@ -144,7 +144,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 7
 
-Het bestuursorgaan waarbij de bestuursrechtelijke handhavingstaak berust op grond van [artikel 18.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2024-01-01&g=2024-01-01).
+Het bestuursorgaan waarbij de bestuursrechtelijke handhavingstaak berust op grond van [artikel 18.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 8
 
@@ -157,5 +157,11 @@ Dit besluit treedt in werking een maand na de datum van uitgifte van het Staatsb
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit infrastructuur alternatieve brandstoffen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+Dit besluit berust mede op [artikel 6.14 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=6.14).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
