@@ -4,7 +4,7 @@ identifier: "BWBR0002226"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002226"
 soort: "wet"
@@ -60,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. een uiterste wilsbeschikking ten aanzien van vorderingen en schulden die zijn ontstaan krachtens erfrecht, of
 
-- b. een overeenkomst als bedoeld in [artikel 13, vierde lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13), wordt voor de toepassing van deze wet geacht alleen krachtens erfrecht door het overlijden te zijn verkregen indien deze binnen de met inachtneming van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2025-01-01&g=2025-01-01) vastgestelde aangiftetermijn is vastgesteld of overeengekomen.
+- b. een overeenkomst als bedoeld in [artikel 13, vierde lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13), wordt voor de toepassing van deze wet geacht alleen krachtens erfrecht door het overlijden te zijn verkregen indien deze binnen de met inachtneming van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2026-01-01&g=2026-01-01) vastgestelde aangiftetermijn is vastgesteld of overeengekomen.
 
 4. Indien de rentevergoeding, bedoeld in het derde lid, wordt vastgesteld of overeengekomen na de in dat lid bedoelde termijn, wordt het daaruit voortvloeiende voordeel geacht krachtens schenking te zijn verkregen.
 
@@ -68,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Indien ten gevolge van uiterste wilsbeschikkingen die inhoudelijk overeenkomen met het bepaalde in [afdeling 1 van titel 3 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=1) wilsrechten opkomen, worden die voor de toepassing van deze wet op dezelfde wijze behandeld als wilsrechten als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=21) en [22 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=22).
 
-7. Onder schenking wordt voor de toepassing van deze wet verstaan de gift, bedoeld in [artikel 186, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=186), voor zover [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2025-01-01&g=2025-01-01) niet van toepassing is, en voorts de voldoening aan een natuurlijke verbintenis als bedoeld in [artikel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=3).
+7. Onder schenking wordt voor de toepassing van deze wet verstaan de gift, bedoeld in [artikel 186, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=186), voor zover [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2026-01-01&g=2026-01-01) niet van toepassing is, en voorts de voldoening aan een natuurlijke verbintenis als bedoeld in [artikel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=3).
 
 8. Onder schenking wordt niet begrepen de bevoordeling als gevolg van verwerping door een erfgenaam of legataris, noch de bevoordeling als gevolg van het afzien door de echtgenoot van een wettelijke verdeling van de nalatenschap op de voet van [artikel 18 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=18).
 
@@ -110,11 +110,11 @@ Al wat een in gemeenschap gehuwde, tengevolge van de door de erfgenamen van zijn
 
 ##### Artikel 7
 
-1. De waarde van hetgeen de verkrijger voor zijn verkrijging heeft opgeofferd of van hetgeen door de erflater ten laste van de verkrijger werd bedongen, strekt in mindering van de waarde welke op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=11&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2025-01-01&g=2025-01-01), in aanmerking wordt genomen voor de erfbelasting, maar niet verder dan tot nihil.
+1. De waarde van hetgeen de verkrijger voor zijn verkrijging heeft opgeofferd of van hetgeen door de erflater ten laste van de verkrijger werd bedongen, strekt in mindering van de waarde welke op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=10&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=11&z=2026-01-01&g=2026-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2026-01-01&g=2026-01-01), in aanmerking wordt genomen voor de erfbelasting, maar niet verder dan tot nihil.
 
 2. De overdrachtsbelasting, voor zover deze niet heeft geleid tot toepassing van [artikel 13 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13), en de schenkbelasting, betaald ter zake van de in aanmerking genomen waarde, bedoeld in het eerste lid, strekken in mindering van de belasting die verschuldigd is ten gevolge van de in het eerste lid bedoelde artikelen.
 
-3. De bedragen die ten gevolge van het eerste en tweede lid in mindering strekken, worden vermeerderd met een enkelvoudige rente naar het in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), bedoelde percentage van de dag van betaling van die bedragen tot en met de dag van het overlijden ten gevolge waarvan de verkrijging op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=11&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2025-01-01&g=2025-01-01), geacht wordt plaats te vinden.
+3. De bedragen die ten gevolge van het eerste en tweede lid in mindering strekken, worden vermeerderd met een enkelvoudige rente naar het in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), bedoelde percentage van de dag van betaling van die bedragen tot en met de dag van het overlijden ten gevolge waarvan de verkrijging op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=10&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=11&z=2026-01-01&g=2026-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2026-01-01&g=2026-01-01), geacht wordt plaats te vinden.
 
 ##### Artikel 8
 
@@ -140,9 +140,9 @@ Al wat een in gemeenschap gehuwde, tengevolge van de door de erfgenamen van zijn
 
 ##### Artikel 9
 
-1. Geldvorderingen die zijn ontstaan als gevolg van een verkrijging krachtens erfrecht worden ongeacht de hoogte van de rente die zij op grond van een uiterste wilsbeschikking of op grond van een rentevaststelling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), dragen, in aanmerking genomen voor ten hoogste de nominale waarde.
+1. Geldvorderingen die zijn ontstaan als gevolg van een verkrijging krachtens erfrecht worden ongeacht de hoogte van de rente die zij op grond van een uiterste wilsbeschikking of op grond van een rentevaststelling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), dragen, in aanmerking genomen voor ten hoogste de nominale waarde.
 
-2. Ingeval een geldvordering als bedoeld in het eerste lid ten gevolge van of na het overlijden van de schuldenaar opeisbaar wordt, onderscheidenlijk tijdens het leven van de schuldenaar opeisbaar wordt of wordt afgelost, en deze vordering op grond van een uiterste wilsbeschikking of op grond van een rentevaststelling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), een rentebestanddeel bevat dat hoger is dan indien de vordering een samengestelde rente had gedragen naar het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), wordt het deel van de rente dat uitgaat boven de rente die bij het hiervoor bedoelde percentage zou zijn opgebouwd, zonodig in afwijking van artikel 1, derde lid, voor de toepassing van deze wet geacht door de schuldeiser krachtens erfrecht, onderscheidenlijk krachtens schenking te zijn verkregen van de schuldenaar.
+2. Ingeval een geldvordering als bedoeld in het eerste lid ten gevolge van of na het overlijden van de schuldenaar opeisbaar wordt, onderscheidenlijk tijdens het leven van de schuldenaar opeisbaar wordt of wordt afgelost, en deze vordering op grond van een uiterste wilsbeschikking of op grond van een rentevaststelling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), een rentebestanddeel bevat dat hoger is dan indien de vordering een samengestelde rente had gedragen naar het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), wordt het deel van de rente dat uitgaat boven de rente die bij het hiervoor bedoelde percentage zou zijn opgebouwd, zonodig in afwijking van artikel 1, derde lid, voor de toepassing van deze wet geacht door de schuldeiser krachtens erfrecht, onderscheidenlijk krachtens schenking te zijn verkregen van de schuldenaar.
 
 3. In afwijking van het tweede lid wordt het deel van de rente, bedoeld in dat lid, dat wordt betaald door de uitoefening van een wilsrecht als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=19) of [21 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=21), bij het overlijden van de langstlevende ouder of stiefouder, bedoeld in die artikelen, geacht krachtens erfrecht van die ouder of stiefouder te zijn verkregen. Op het moment dat de ouder of stiefouder afziet van het vruchtgebruik, bedoeld in de artikelen 19 of 21 van Boek 4 van het Burgerlijk Wetboek, dan wel daarvan afstand doet, is het bepaalde in de eerste volzin niet of niet langer van toepassing en wordt de in de eerste volzin bedoelde rente geacht krachtens schenking van de langstlevende ouder of stiefouder te zijn verkregen.
 
@@ -154,9 +154,9 @@ Al wat een in gemeenschap gehuwde, tengevolge van de door de erfgenamen van zijn
 
 - b. het vruchtgebruik onderscheidenlijk de periodieke uitkering ten laste is gekomen van de verkrijger.
 
-2. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2025-01-01&g=2025-01-01), wordt op de waarde van hetgeen op grond van het eerste lid voor de erfbelasting in aanmerking wordt genomen, geen aftrek toegelaten voor vruchtgebruik voor zover dat middellijk of onmiddellijk door de erflater is genoten.
+2. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2026-01-01&g=2026-01-01), wordt op de waarde van hetgeen op grond van het eerste lid voor de erfbelasting in aanmerking wordt genomen, geen aftrek toegelaten voor vruchtgebruik voor zover dat middellijk of onmiddellijk door de erflater is genoten.
 
-3. Voor de toepassing van dit artikel wordt de erflater geacht een genot van een vruchtgebruik te hebben gehad van de in het eerste lid bedoelde goederen indien hij tegenover het genot dat hij van de goederen heeft aan degene ten laste van wie dat genot komt niet jaarlijks daadwerkelijk een bedrag betaalt dat ten minste gelijk is aan het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), van de waarde van de goederen in onbezwaarde staat.
+3. Voor de toepassing van dit artikel wordt de erflater geacht een genot van een vruchtgebruik te hebben gehad van de in het eerste lid bedoelde goederen indien hij tegenover het genot dat hij van de goederen heeft aan degene ten laste van wie dat genot komt niet jaarlijks daadwerkelijk een bedrag betaalt dat ten minste gelijk is aan het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), van de waarde van de goederen in onbezwaarde staat.
 
 4. Dit artikel is niet van toepassing indien:
 
@@ -174,7 +174,7 @@ Al wat een in gemeenschap gehuwde, tengevolge van de door de erfgenamen van zijn
 
 - b. een schuldigerkenning op grond van een wilsrecht opgenomen in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761).
 
-8. Indien bij iemand ten aanzien van wie dit artikel zou zijn toegepast indien hij ten tijde van het overlijden van de erflater nog in leven zou zijn geweest, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2025-01-01&g=2025-01-01) van toepassing zou zijn geweest, vindt ten aanzien van zijn rechtsopvolgers krachtens erfrecht laatstgenoemd artikel toepassing naar rato van hun verkrijging op grond van dit artikel.
+8. Indien bij iemand ten aanzien van wie dit artikel zou zijn toegepast indien hij ten tijde van het overlijden van de erflater nog in leven zou zijn geweest, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2026-01-01&g=2026-01-01) van toepassing zou zijn geweest, vindt ten aanzien van zijn rechtsopvolgers krachtens erfrecht laatstgenoemd artikel toepassing naar rato van hun verkrijging op grond van dit artikel.
 
 9. Het eerste lid is mede van toepassing indien tot het vermogen van de erflater een of meer als gevolg van een uiterste wil ontstane schulden behoren, voor zover de nominale waarde van die schuld, onderscheidenlijk die schulden, meer bedraagt dan de waarde van hetgeen die erflater krachtens erfrecht heeft verkregen van degene die de uiterste wil heeft opgemaakt. Voor de bepaling van de laatstbedoelde waarde worden de in de eerste volzin bedoelde schulden buiten beschouwing gelaten.
 
@@ -186,21 +186,27 @@ Al wat een in gemeenschap gehuwde, tengevolge van de door de erfgenamen van zijn
 
 3. Al wat is schuldig erkend of kwijtgescholden onder voorwaarde van overleving van degene aan wie is schuldig erkend of kwijtgescholden, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen.
 
-4. Hetgeen aan de langstlevende echtgenoot, krachtens een bij huwelijksvoorwaarden gemaakt en van het overlijden van de eerststervende afhankelijk beding, bij dat overlijden meer toekomt dan de helft der gemeenschap of, in geval van een verrekenbeding of deelgenootschap, meer toekomt dan volgens de wettelijke regeling het geval zou zijn, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden van de eerststervende te zijn verkregen.
+4. Hetgeen aan een echtgenoot bij ontbinding van een huwelijksgoederengemeenschap, meer toekomt dan de helft van die gemeenschap of, in geval van een verrekenbeding, hetgeen aan een echtgenoot meer toekomt dan de helft van de te verrekenen som, wordt voor de toepassing van deze wet en de daarop berustende bepalingen:
 
-5. Het eerste en het tweede lid zijn uitsluitend van toepassing indien de verkrijger de partner is van de schenker of de erflater of behoort tot diens bloed- of aanverwanten tot en met de vierde graad of hun partners.
+- a. in geval van ontbinding of verrekening bij overlijden: geacht van de andere echtgenoot te zijn verkregen krachtens erfrecht door diens overlijden;
+
+- b. in geval van ontbinding of verrekening tijdens leven: geacht van de andere echtgenoot te zijn verkregen krachtens schenking.
+
+5. Het vierde lid is van overeenkomstige toepassing bij verrekening op grond van een beding dat is overeengekomen door personen die op het moment van verrekening partners als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1a&z=2026-01-01&g=2026-01-01) zijn of zijn geweest.
+
+6. Het eerste en het tweede lid zijn uitsluitend van toepassing indien de verkrijger de partner is van de schenker of de erflater of behoort tot diens bloed- of aanverwanten tot en met de vierde graad of hun partners.
 
 ##### Artikel 12
 
-1. Al wat binnen 180 dagen aan het overlijden voorafgegaan is geschonken door een erflater, die ten tijde van dat overlijden in Nederland woonde, wordt, voor de regeling van de erfbelasting, geacht krachtens erfrecht door het overlijden te zijn verkregen. Al wat wordt verkregen krachtens een schenking die tot stand is gekomen na het overlijden van de schenker, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen.
+1. Al wat binnen 180 dagen aan het overlijden voorafgegaan is geschonken door een erflater, die ten tijde van dat overlijden in Nederland woonde, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen. Al wat wordt verkregen krachtens een schenking die tot stand is gekomen na het overlijden van de schenker, wordt voor de toepassing van deze wet geacht krachtens erfrecht door het overlijden te zijn verkregen.
 
-2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=7&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-3. Het in het eerste lid, eerste volzin, bepaalde is niet toepasselijk op schenkingen:
+3. Het in het eerste lid, eerste zin, bepaalde is niet toepasselijk op schenkingen:
 
-- 1°. als bedoeld in [artikel 33, onderdelen 1°, 2°, 3°, 8°, 9°, 11° en 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2025-01-01&g=2025-01-01) en, voor zover het een schenking betreft waarvoor de verhoogde vrijstelling geldt, 5°;
+- 1°. als bedoeld in [artikel 33, onderdelen 1°, 2°, 3°, 8°, 9°, 11° en 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2026-01-01&g=2026-01-01) en, voor zover het een schenking betreft waarvoor de verhoogde vrijstelling geldt, 5°;
 
-- 2°. waarvan de schenkbelasting is kwijtgescholden op grond van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XI&artikel=67&z=2025-01-01&g=2025-01-01).
+- 2°. waarvan de schenkbelasting is kwijtgescholden op grond van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XI&artikel=67&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 13
 
@@ -230,7 +236,7 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 
 ##### Artikel 15
 
-1. Van een geldlening die geen rente draagt, of een rente draagt die lager is dan het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), en welke lening rechtens dan wel in feite direct opeisbaar is of dat op enig moment wordt, wordt de schuldeiser vanaf de dag waarop de lening opeisbaar wordt voor de toepassing van deze wet geacht van dag tot dag een vruchtgebruik aan de schuldenaar te hebben geschonken.
+1. Van een geldlening die geen rente draagt, of een rente draagt die lager is dan het percentage, bedoeld in [artikel 21, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), en welke lening rechtens dan wel in feite direct opeisbaar is of dat op enig moment wordt, wordt de schuldeiser vanaf de dag waarop de lening opeisbaar wordt voor de toepassing van deze wet geacht van dag tot dag een vruchtgebruik aan de schuldenaar te hebben geschonken.
 
 2. Het eerste lid is uitsluitend van toepassing op een geldlening die direct of indirect aan een natuurlijk persoon is verstrekt door een natuurlijk persoon die daarbij niet handelt in de uitoefening van zijn beroep of bedrijf.
 
@@ -244,7 +250,7 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 
 ##### Artikel 17
 
-1. Al wat wordt verkregen van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), op andere wijze dan bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=16&z=2025-01-01&g=2025-01-01), wordt voor de toepassing van deze wet en de daarop berustende bepalingen, geacht door schenking te zijn verkregen van de persoon of personen waaraan de bezittingen en schulden van het afgezonderd particulier vermogen ingevolge artikel 2.14a van de Wet inkomstenbelasting 2001 worden toegerekend. De eerste volzin is van overeenkomstige toepassing met betrekking tot al wat wordt verkregen, op andere wijze dan bedoeld in artikel 16, ten laste van bezittingen als bedoeld in artikel 2.14a, zevende lid, van de Wet inkomstenbelasting 2001, met dien verstande dat in dat geval wordt geacht te zijn verkregen van de persoon of personen waaraan die bezittingen zonder toepassing van dat lid zouden zijn toegerekend.
+1. Al wat wordt verkregen van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), op andere wijze dan bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=16&z=2026-01-01&g=2026-01-01), wordt voor de toepassing van deze wet en de daarop berustende bepalingen, geacht door schenking te zijn verkregen van de persoon of personen waaraan de bezittingen en schulden van het afgezonderd particulier vermogen ingevolge artikel 2.14a van de Wet inkomstenbelasting 2001 worden toegerekend. De eerste volzin is van overeenkomstige toepassing met betrekking tot al wat wordt verkregen, op andere wijze dan bedoeld in artikel 16, ten laste van bezittingen als bedoeld in artikel 2.14a, zevende lid, van de Wet inkomstenbelasting 2001, met dien verstande dat in dat geval wordt geacht te zijn verkregen van de persoon of personen waaraan die bezittingen zonder toepassing van dat lid zouden zijn toegerekend.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld van ter zake van de in dit artikel bedoelde schenking.
 
@@ -258,7 +264,7 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 
 1. Voor de toepassing van deze wet worden gelijkgesteld:
 
-- a. voor de bepaling van aanverwantschap, twee ongehuwde personen die ingevolge [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1a&z=2025-01-01&g=2025-01-01) als elkaars partners worden aangemerkt, met gehuwden;
+- a. voor de bepaling van aanverwantschap, twee ongehuwde personen die ingevolge [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=1a&z=2026-01-01&g=2026-01-01) als elkaars partners worden aangemerkt, met gehuwden;
 
 - b. aanverwanten met bloedverwanten, met dien verstande dat deze gelijkstelling eindigt ingeval het partnerschap dat de aanverwantschap deed ontstaan anders dan door overlijden is geëindigd;
 
@@ -266,9 +272,13 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 
 - d. kinderen over wie overeenkomstig [artikel 253t van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t) een ander dan de ouder gezamenlijk met de ouder het ouderlijk gezag uitoefent of heeft uitgeoefend met kinderen die in familierechtelijke betrekking tot die ander staan;
 
-- e. kinderen over wie overeenkomstig [artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=282) of [292 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=292) de voogdij door twee personen gezamenlijk wordt uitgeoefend of is uitgeoefend met kinderen die tot die personen in familierechtelijke betrekking staan.
+- e. kinderen over wie overeenkomstig [artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=282) of [292 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=292) de voogdij door twee personen gezamenlijk wordt uitgeoefend of is uitgeoefend met kinderen die tot die personen in familierechtelijke betrekking staan;
+
+- f. kinderen die niet in familierechtelijke betrekking staan tot de persoon waarvan uit een genetische test blijkt dat die hun biologische ouder is, met kinderen die wel in familierechtelijke betrekking staan tot die persoon.
 
 2. Als pleegkinderen worden aangemerkt zij, die vóór het tijdstip waarop zij de leeftijd van 21 jaar hebben bereikt dan wel het tijdstip waarop zij vóór die leeftijd in het huwelijk zijn getreden, gedurende ten minste vijf jaren uitsluitend door de pleegouder - dan wel uitsluitend door hem en zijn echtgenoot tezamen - als een eigen kind zijn onderhouden en opgevoed.
+
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de genetische test waarmee de belastingplichtige het biologische ouderschap kan doen blijken.
 
 ##### Artikel 20
 
@@ -326,7 +336,7 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 
 7. Indien zich in het kalenderjaar waarin de verkrijging plaatsvindt, maar op of vóór het moment van de verkrijging, met betrekking tot een onroerende zaak als bedoeld in het vijfde of zesde lid een gebeurtenis voordoet als bedoeld in [artikel 18, derde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), wordt, in afwijking van het vijfde en zesde lid, de waarde van de onroerende zaak bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) en [20, tweede lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20), naar de staat van die zaak op het moment van de verkrijging.
 
-8. Indien een woning geheel of gedeeltelijk wordt verhuurd en op deze verhuur [afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=5) van toepassing is, of ingevolge een voor ten minste 12 jaren aangegane pachtovereenkomst wordt verpacht en op deze verpachting [titel 5 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=5) van toepassing is, wordt de waarde gesteld op een bij algemene maatregel van bestuur vast te stellen, van de huurprijs afhankelijk percentage van het waardegegeven, bedoeld in het vijfde of zesde lid. Indien sprake is van een voor bepaalde tijd aangegane huurovereenkomst als bedoeld in [artikel 271 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=271), is de eerste zin niet van toepassing. Een onroerende zaak als bedoeld in de eerste volzin wordt niet voor een lagere waarde in aanmerking genomen dan de waarde, bedoeld in het vijfde of zesde lid, indien deze wordt verkregen door een huurder, onderscheidenlijk een pachter, van die onroerende zaak of zijn partner.
+8. Indien een woning geheel of gedeeltelijk wordt verhuurd en op deze verhuur [afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=5) van toepassing is, of ingevolge een voor ten minste 12 jaren aangegane pachtovereenkomst wordt verpacht en op deze verpachting [titel 5 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=5) van toepassing is, wordt de waarde gesteld op een bij algemene maatregel van bestuur vast te stellen, van de huurprijs afhankelijk percentage van het waardegegeven, bedoeld in het vijfde of zesde lid. Een onroerende zaak als bedoeld in de eerste volzin wordt niet voor een lagere waarde in aanmerking genomen dan de waarde, bedoeld in het vijfde of zesde lid, indien deze wordt verkregen door een huurder, onderscheidenlijk een pachter, van die onroerende zaak of zijn partner.
 
 9. De waarde van een recht van erfpacht op een onroerende zaak die als woning in gebruik is, wordt gesteld op de waarde van die onroerende zaak, berekend volgens het vijfde of zesde lid, verminderd met de overeenkomstig het veertiende lid bepaalde waarde van de canon.
 
@@ -341,6 +351,12 @@ Opzegging van een beperkt recht wordt voor de toepassing van deze wet gelijkgest
 14. Bij algemene maatregel van bestuur worden regels gesteld voor de bepaling van de waarde van een vruchtgebruik, van beperkte rechten en van rechten op en verplichtingen tot periodieke uitkeringen en voor het daarbij te gebruiken percentage.
 
 15. Een geldvordering als bedoeld in [artikel 13, derde lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) alsmede, indien de nalatenschap is verdeeld overeenkomstig [artikel 13 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13), een geldvordering als bedoeld in [artikel 80, eerste lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=80), wordt in aanmerking genomen als een renteloze vordering, indien daarop het rentepercentage, berekend overeenkomstig het bepaalde in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13), onderscheidenlijk [artikel 84 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=84), van toepassing is. De eerste volzin is van overeenkomstige toepassing op de schulden die corresponderen met de aldaar bedoelde geldvorderingen.
+
+16. Het achtste lid is niet van toepassing indien sprake is van:
+
+- a. een voor bepaalde tijd aangegane huurovereenkomst als bedoeld in [artikel 271 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=271); of
+
+- b. gelieerde partijen die een zodanige huurprijs of pachtprijs zijn overeengekomen dat deze tussen willekeurige derden niet zou zijn overeengekomen.
 
 ##### Artikel 22
 
@@ -358,8 +374,8 @@ Vervallen
 
 | Gedeelte van de belaste verkrijging tussen | en | I. indien verkregen door partner of afstammelingen in de rechte lijn1) | II. in overige gevallen |
 | --- | --- | --- | --- |
-| € 0 | € 154.197 | 10% | 30% |
-| € 154.197 en hoger |   | 20% | 40% |
+| € 0 | € 158.669 | 10% | 30% |
+| € 158.669 en hoger |   | 20% | 40% |
 
 1 Voor afstammelingen in de tweede of verdere graad bedraagt de belasting het ingevolge deze kolom verschuldigde, vermeerderd met 80% daarvan.
 
@@ -405,7 +421,7 @@ Schenkingen, door ouders tezamen of afzonderlijk gedurende een kalenderjaar aan 
 
 ##### Artikel 31
 
-De belasting, verschuldigd wegens de afstand van vermogen verkregen onder een in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), bedoelde voorwaarde door de bezwaarde aan de echtgenoot of een of meer van de bloed- of aanverwanten tot en met de vierde graad van de verwachter of aan de echtgenoot van één van die verwanten, bedraagt niet minder dan de belasting, verschuldigd wegens de overgang van dat goed van de bezwaarde op de verwachter krachtens de vervulling van de voorwaarde.
+De belasting, verschuldigd wegens de afstand van vermogen verkregen onder een in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), bedoelde voorwaarde door de bezwaarde aan de echtgenoot of een of meer van de bloed- of aanverwanten tot en met de vierde graad van de verwachter of aan de echtgenoot van één van die verwanten, bedraagt niet minder dan de belasting, verschuldigd wegens de overgang van dat goed van de bezwaarde op de verwachter krachtens de vervulling van de voorwaarde.
 
 ##### Artikel 31a
 
@@ -423,17 +439,17 @@ Vervallen
 
 - 4°. door de hierna genoemde personen tot de daarachter vermelde bedragen:
 
-- a. partner: € 804.698;
+- a. partner: € 828.035;
 
-- b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 76.453;
+- b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 78.671;
 
-- c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 25.490;
+- c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 26.230;
 
-- d. kleinkinderen: € 25.490;
+- d. kleinkinderen: € 26.230;
 
-- e. ouders: € 60.359;
+- e. ouders: € 62.110;
 
-- f. overige verkrijgers: € 2.690;
+- f. overige verkrijgers: € 2.769;
 
 - 5°. aan waarde van aanspraken ingevolge een pensioenregeling alsmede aan waarde van lijfrenten;
 
@@ -449,7 +465,7 @@ Vervallen
 
 - 11°. aan nog niet vorderbare termijnen van renten, van uitkeringen, van bezoldigingen en van andere inkomsten.
 
-2. De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 207.886. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2025-01-01&g=2025-01-01), wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.
+2. De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 213.915. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=13&z=2026-01-01&g=2026-01-01), wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.
 
 3. Onder pensioenregeling wordt voor de toepassing van deze wet verstaan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) of een nettopensioenregeling als bedoeld in [artikel 5.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17).
 
@@ -475,15 +491,15 @@ Van schenkbelasting is vrijgesteld, hetgeen wordt verkregen:
 
 - 4°. door een algemeen nut beogende instelling, voor zover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;
 
-- 5°. door een kind van de ouders, tot een bedrag van € 6.713, met dien verstande dat dit bedrag voor een kind tussen 18 en 40 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van:
+- 5°. door een kind van de ouders, tot een bedrag van € 6.908, met dien verstande dat dit bedrag voor een kind tussen 18 en 40 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van:
 
-- a. € 32.195; of
+- a. € 33.129; of
 
-- b. € 67.064, onder bij ministeriële regeling te stellen voorwaarden, indien het bedrag is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind en deze kosten aanzienlijk hoger zijn dan gebruikelijk;
+- b. € 69.009, onder bij ministeriële regeling te stellen voorwaarden, indien het bedrag is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind en deze kosten aanzienlijk hoger zijn dan gebruikelijk;
 
 - 6°. vervallen;
 
-- 7°. in alle andere gevallen: € 2.690;
+- 7°. in alle andere gevallen: € 2.769;
 
 - 8°. door iemand, die niet in staat is zijn schulden te betalen, indien en voor zover het verkregene strekt om de begiftigde daartoe in staat te stellen;
 
@@ -501,7 +517,7 @@ Van schenkbelasting is vrijgesteld, hetgeen wordt verkregen:
 
 ##### Artikel 34
 
-Wij behouden Ons voor bij algemene maatregel van bestuur regelen te stellen, ten doel hebbende te bevorderen, dat het vermogen van de in [artikel 33, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2025-01-01&g=2025-01-01), bedoelde rechtspersonen blijvend wordt aangewend voor het door die rechtspersonen beoogde doel; bij niet-naleving van deze regelen blijft gemelde vrijstellingsbepaling buiten toepassing.
+Wij behouden Ons voor bij algemene maatregel van bestuur regelen te stellen, ten doel hebbende te bevorderen, dat het vermogen van de in [artikel 33, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2026-01-01&g=2026-01-01), bedoelde rechtspersonen blijvend wordt aangewend voor het door die rechtspersonen beoogde doel; bij niet-naleving van deze regelen blijft gemelde vrijstellingsbepaling buiten toepassing.
 
 ##### Artikel 35
 
@@ -509,27 +525,27 @@ Vervallen
 
 ##### Artikel 35a
 
-1. Met betrekking tot de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=24&z=2025-01-01&g=2025-01-01), [32, eerste lid, onderdeel 4°, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=32&z=2025-01-01&g=2025-01-01), [33, onderdelen 5° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2025-01-01&g=2025-01-01), en [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), vermelde bedragen zijn de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) van overeenkomstige toepassing.
+1. Met betrekking tot de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=24&z=2026-01-01&g=2026-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=32&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2026-01-01&g=2026-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01) en [35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01) vermelde bedragen zijn de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) van overeenkomstige toepassing.
 
-2. De vervangende bedragen zijn van toepassing, indien het overlijden, de schenking of de in [artikel 45, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2025-01-01&g=2025-01-01), of in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2025-01-01&g=2025-01-01), eerste lid, bedoelde gebeurtenis plaatsvindt op of na 1 januari van het jaar waarvoor de vervanging geldt, zo mede indien op of na 1 januari van dat jaar krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.
+2. De vervangende bedragen zijn van toepassing, indien het overlijden, de schenking of de in [artikel 45, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2026-01-01&g=2026-01-01), of in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2026-01-01&g=2026-01-01), eerste lid, bedoelde gebeurtenis plaatsvindt op of na 1 januari van het jaar waarvoor de vervanging geldt, zo mede indien op of na 1 januari van dat jaar krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.
 
 ### Hoofdstuk IIIA. Bedrijfsopvolging
 
 ##### Artikel 35b
 
-1. Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van:
+1. Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van:
 
-- a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.500.000 niet te boven gaat: 100%;
+- a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.543.500 niet te boven gaat: 100%;
 
 - b. in alle overige gevallen:
 
 - 1°. indien de liquidatiewaarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft hoger is dan de waarde going concern: 100 percent van het verschil tussen liquidatiewaarde en lagere waarde going concern;
 
-- 2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.500.000 niet te boven gaat: 100%, en
+- 2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.543.500 niet te boven gaat: 100%, en
 
-- 3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.500.000 te boven gaat: 75%.
+- 3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.543.500 te boven gaat: 75%.
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01).
+Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01).
 
 2. Op verzoek van de verkrijger wordt voorts de waarde van het verkregen ondernemingsvermogen na aftrek van het bedrag van de voorwaardelijke vrijstelling aangemerkt als geconserveerde waarde, dit met het oog op de toepassing van [artikel 25, twaalfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
@@ -537,7 +553,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor
 
 4. Indien het ondernemingsvermogen is verkregen onder een last of tegen een tegenprestatie, wordt voor de toepassing van dit artikel die last of tegenprestatie niet in mindering gebracht op de waarde van het verkregen ondernemingsvermogen.
 
-5. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder een bedrijfsopvolging verstaan: een verkrijging van ondernemingsvermogen als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), van een erflater of schenker die voldoet aan de bezitstermijn als bedoeld in [artikel 35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35d&z=2025-01-01&g=2025-01-01), mits de verkrijger gedurende drie jaren voldoet aan het voortzettingvereiste, bedoeld in [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35e&z=2025-01-01&g=2025-01-01), en, indien sprake is van schenking, op het tijdstip van de verkrijging 21 jaar of ouder is.
+5. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder een bedrijfsopvolging verstaan: een verkrijging van ondernemingsvermogen als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), van een erflater of schenker die voldoet aan de bezitstermijn als bedoeld in [artikel 35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35d&z=2026-01-01&g=2026-01-01), mits de verkrijger gedurende drie jaren voldoet aan het voortzettingvereiste, bedoeld in [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35e&z=2026-01-01&g=2026-01-01), en, indien sprake is van schenking, op het tijdstip van de verkrijging 21 jaar of ouder is.
 
 6. Ingeval op enig tijdstip binnen drie jaren na de verkrijging van het ondernemingsvermogen niet meer of niet meer geheel wordt voldaan aan het voortzettingvereiste, vervalt in zoverre de voorwaardelijke vrijstelling.
 
@@ -553,7 +569,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor
 
 - c. vermogensbestanddelen die bij de erflater of schenker behoorden tot een aanmerkelijk belang als bedoeld in [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.3), met uitzondering van [artikel 4.10, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.10), mits het lichaam waarop het belang betrekking heeft een onderneming drijft als bedoeld in onderdeel a, of een medegerechtigdheid houdt als bedoeld in onderdeel b, en waarbij slechts als ondernemingsvermogen wordt aangemerkt de waarde van deze vermogensbestanddelen voor zover die waarde toerekenbaar is aan bedoelde onderneming of medegerechtigdheid;
 
-- d. onroerende zaken die bij de erflater of schenker behoorden tot een werkzaamheid als bedoeld in [artikel 3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92), mits deze dienstbaar zijn aan de onderneming van een lichaam als bedoeld in onderdeel c, en de verkrijger tegelijkertijd vermogensbestanddelen als bedoeld in onderdeel c, verkrijgt die op dat lichaam betrekking hebben.
+- d. onroerende zaken en de schulden die rechtstreeks met die onroerende zaken samenhangen die bij de erflater of schenker behoorden tot een werkzaamheid als bedoeld in [artikel 3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92), mits die onroerende zaken dienstbaar zijn aan de onderneming van een lichaam als bedoeld in onderdeel c, en de verkrijger tegelijkertijd vermogensbestanddelen als bedoeld in onderdeel c, verkrijgt die op dat lichaam betrekking hebben.
 
 2. Het eerste lid, onderdeel b, is met betrekking tot een medegerechtigdheid alleen van toepassing voor zover dit een medegerechtigdheid betreft die een rechtstreekse voortzetting vormt van een eerder door de erflater of schenker gedreven onderneming als bedoeld in [artikel 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.2), en de medegerechtigdheid wordt verkregen door een persoon die reeds beherend vennoot is van de onderneming waarop de medegerechtigdheid betrekking heeft, dan wel enig aandeelhouder is van een vennootschap die reeds een zodanig beherend vennoot is.
 
@@ -591,9 +607,15 @@ Ingeval het aandelenkapitaal van de vennootschap waarin de erflater of schenker 
 
 - b. schulden die rechtstreeks samenhangen met die onroerende zaken of gedeelten daarvan;
 
-- c. bedrijfsmiddelen waarvan de waarde in het economische verkeer ten tijde van het schenken of overlijden minimaal € 100.000 per bedrijfsmiddel bedraagt, voor zover deze zijn bestemd om te gebruiken voor andere dan de bedrijfsdoeleinden van de onderneming, bedoeld in het eerste lid, onderdelen a of c, van de medegerechtigdheid, bedoeld in het eerste lid, onderdelen b of c, of van de werkzaamheid, bedoeld in het eerste lid, onderdeel d, waaronder begrepen privédoeleinden van werknemers, mits dat bestemde gebruik meer dan bijkomstig is; en
+- c. bedrijfsmiddelen waarvan de waarde in het economische verkeer ten tijde van het schenken of overlijden minimaal € 103.000 per bedrijfsmiddel bedraagt, voor zover deze zijn bestemd om te gebruiken voor andere dan de bedrijfsdoeleinden van de onderneming, bedoeld in het eerste lid, onderdelen a of c, van de medegerechtigdheid, bedoeld in het eerste lid, onderdelen b of c, of van de werkzaamheid, bedoeld in het eerste lid, onderdeel d, waaronder begrepen privédoeleinden van werknemers, mits dat bestemde gebruik meer dan bijkomstig is;
 
-- d. schulden die rechtstreeks samenhangen met die bedrijfsmiddelen.
+- d. schulden die rechtstreeks samenhangen met die bedrijfsmiddelen; en
+
+- e. vermogen dat zonder toepassing van dit onderdeel ondernemingsvermogen zou zijn en dat ten minste in belangrijke mate, rechtens dan wel in feite, direct of indirect, een voortzetting vormt van, of voortkomt uit: die de verkrijger eerder onder een last of tegen een tegenprestatie heeft vervreemd, doch niet meer dan de waarde van die last of tegenprestatie.
+
+- 1°. een onderneming als bedoeld in het eerste lid, onderdeel a; of
+
+- 2°. aandelen, opties op aandelen of winstbewijzen in een lichaam dat een onderneming als bedoeld in het eerste lid, onderdeel a, drijft;
 
 8. Voor de toepassing van het zevende lid, onderdeel a, wordt niet als een ander aangemerkt:
 
@@ -607,9 +629,11 @@ Ingeval het aandelenkapitaal van de vennootschap waarin de erflater of schenker 
 
 11. Onder onroerende zaken als bedoeld in het eerste lid, onderdeel d, het zevende lid, onderdeel a, en het achtste lid, onderdeel a worden mede verstaan appartementsrechten, rechten van opstal en erfpacht of vruchtgebruik van onroerende zaken, dan wel de economische eigendom, opgevat overeenkomstig [artikel 2, tweede lid, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2), van onroerende zaken of genoemde rechten.
 
-12. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen zijn de [artikelen 4.3 tot en met 4.5b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.3) van overeenkomstige toepassing.
+12. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder preferente aandelen verstaan aandelen met voorrang ten aanzien van de winstverdeling of liquidatieopbrengsten. Indien een aandeel slechts voor een deel van het aan het aandeel verbonden vermogen die voorrang kent, wordt enkel dat deel van het aandeel aangemerkt als preferent aandeel.
 
-13. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+13. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen zijn de [artikelen 4.3 tot en met 4.5b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.3) van overeenkomstige toepassing.
+
+14. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
 ### Hoofdstuk IV. Aangifte, aanslag en conserverende aanslag
 
@@ -621,9 +645,9 @@ De belasting wordt geheven van de verkrijger.
 
 1. De belasting wordt geheven bij wege van aanslag.
 
-2. In afwijking van het eerste lid wordt de belasting bedoeld in [artikel 35b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), of [artikel 35g](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIb&artikel=35g&z=2025-01-01&g=2025-01-01), geheven bij wege van conserverende aanslag.
+2. In afwijking van het eerste lid wordt de belasting bedoeld in [artikel 35b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01), of [artikel 35g](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIb&artikel=35g&z=2026-01-01&g=2026-01-01), geheven bij wege van conserverende aanslag.
 
-3. Vanwege het vervallen van een voorwaardelijke vrijstelling als bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), kan een aanslag of conserverende aanslag door een of meer aanslagen of conserverende aanslagen worden aangevuld.
+3. Vanwege het vervallen van een voorwaardelijke vrijstelling als bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01), kan een aanslag of conserverende aanslag door een of meer aanslagen of conserverende aanslagen worden aangevuld.
 
 4. Rechtsmiddelen tegen de in het derde lid bedoelde aanslagen kunnen uitsluitend worden ingeroepen tegen de in die aanslagen opgenomen grondslag voorzover daarvoor nog niet eerder een rechtsmiddel openstond.
 
@@ -647,7 +671,7 @@ Vervallen
 
 ##### Artikel 42
 
-Indien na te noemen verplichtingen niet reeds op een ander rusten, is degene, die door de verwerping, afstand of niet aanvaarding van rechten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=30&z=2025-01-01&g=2025-01-01), is gebaat, op dezelfde wijze en onder dezelfde bepalingen tot aangifte en betaling gehouden, als degene, door wie die verwerping, afstand of niet aanvaarding heeft plaats gehad, verplicht zou zijn geweest, indien een of ander niet was geschied.
+Indien na te noemen verplichtingen niet reeds op een ander rusten, is degene, die door de verwerping, afstand of niet aanvaarding van rechten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=30&z=2026-01-01&g=2026-01-01), is gebaat, op dezelfde wijze en onder dezelfde bepalingen tot aangifte en betaling gehouden, als degene, door wie die verwerping, afstand of niet aanvaarding heeft plaats gehad, verplicht zou zijn geweest, indien een of ander niet was geschied.
 
 ##### Artikel 43
 
@@ -663,11 +687,9 @@ Vervallen
 
 ##### Artikel 45
 
-1. De inspecteur stelt de termijn voor het doen van aangifte voor de erfbelasting zodanig vast dat deze niet eerder verstrijkt dan acht maanden na het overlijden.
+1. De inspecteur stelt de termijn voor het doen van aangifte voor de erfbelasting zodanig vast dat deze niet eerder verstrijkt dan twintig maanden na het overlijden.
 
-2. Indien zwangerschap oorzaak is, dat onzekerheid bestaat omtrent de persoon van de erfgenaam of de heffing van de belasting, gaat de in het eerste lid bedoelde termijn van acht maanden in van de dag van de bevalling, of indien de vrouw vroeger mocht overlijden van de dag van haar overlijden, of indien geen van beide op de 306de dag na de dood van de erflater mocht hebben plaats gehad, van de eerste daarop volgende dag. Deze bepaling kan niet worden ingeroepen door degene, op het erfdeel van wie, wat de hoegrootheid betreft, de bevalling geen invloed kan uitoefenen.
-
-3. De in het eerste lid bedoelde termijn van acht maanden loopt niet gedurende de tijd dat de nalatenschap onbeheerd is gelaten en geen vereffenaar is benoemd. Indien verkregen wordt ten gevolge van de vervulling van een voorwaarde, van aanvaarding nadat eerst verwerping had plaatsgehad, van een afstand door een verkrijger onder een ontbindende voorwaarde als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), ten behoeve van de verwachters, van de uitoefening van een wilsrecht voortspruitende uit ten sterfdage of ten tijde van de verkrijging bestaande of ontstane rechtsverhoudingen, dan wel ten gevolge van de toepassing van [artikel 33 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=33), gaat de in het eerste lid bedoelde termijn van acht maanden in op de dag waarop één van die gebeurtenissen plaatsvindt.
+2. De in het eerste lid bedoelde termijn van twintig maanden loopt niet gedurende de tijd dat de nalatenschap onbeheerd is gelaten en geen vereffenaar is benoemd. Indien verkregen wordt ten gevolge van de vervulling van een voorwaarde, van aanvaarding nadat eerst verwerping had plaatsgehad, van een afstand door een verkrijger onder een ontbindende voorwaarde als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), ten behoeve van de verwachters, van de uitoefening van een wilsrecht voortspruitende uit ten sterfdage of ten tijde van de verkrijging bestaande of ontstane rechtsverhoudingen, dan wel ten gevolge van de toepassing van [artikel 33 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=33), gaat de in het eerste lid bedoelde termijn van twintig maanden in op de dag waarop één van die gebeurtenissen plaatsvindt.
 
 ##### Artikel 46
 
@@ -699,13 +721,13 @@ Vervallen
 
 ##### Artikel 52
 
-Navordering op de voet van [hoofdstuk III van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III) kan mede plaatsvinden in gevallen waarin van een verkrijger te weinig belasting is geheven doordat een aan die verkrijger opgelegde andere belastingaanslag of een aan een andere verkrijger opgelegde belastingaanslag, anders dan ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2025-01-01&g=2025-01-01), is verminderd.
+Navordering op de voet van [hoofdstuk III van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III) kan mede plaatsvinden in gevallen waarin van een verkrijger te weinig belasting is geheven doordat een aan die verkrijger opgelegde andere belastingaanslag of een aan een andere verkrijger opgelegde belastingaanslag, anders dan ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2026-01-01&g=2026-01-01), is verminderd.
 
 ### Hoofdstuk VII. Vermindering
 
 ##### Artikel 53
 
-1. Behalve in de gevallen bij deze wet voorzien, wordt vermindering van de aanslag of de conserverende aanslag verleend, indien en voorzover ten gevolge van een beroep op de legitieme portie, van de vervulling van een voorwaarde, van de uitoefening van een op de wet berustend terugvorderingsrecht, van de toepassing van [artikel 33 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=33) of van de uitoefening van een wilsrecht, voortspruitende uit ten sterfdage of ten tijde van de verkrijging reeds bestaande of ontstane rechtsverhoudingen, anders dan door opvolging krachtens een voorwaarde als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2025-01-01&g=2025-01-01), wijziging wordt gebracht in de persoon van de verkrijger of in het verkregene. De eerste volzin is niet van toepassing bij de uitoefening van een wilsrecht als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=21)en [22 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=22).
+1. Behalve in de gevallen bij deze wet voorzien, wordt vermindering van de aanslag of de conserverende aanslag verleend, indien en voorzover ten gevolge van een beroep op de legitieme portie, van de vervulling van een voorwaarde, van de uitoefening van een op de wet berustend terugvorderingsrecht, van de toepassing van [artikel 33 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=33) of van de uitoefening van een wilsrecht, voortspruitende uit ten sterfdage of ten tijde van de verkrijging reeds bestaande of ontstane rechtsverhoudingen, anders dan door opvolging krachtens een voorwaarde als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&artikel=21&z=2026-01-01&g=2026-01-01), wijziging wordt gebracht in de persoon van de verkrijger of in het verkregene. De eerste volzin is niet van toepassing bij de uitoefening van een wilsrecht als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=21)en [22 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=22).
 
 2. Het bedrag van de vermindering, bedoeld in het eerste lid, wordt verlaagd, maar niet verder dan tot nihil, met het bedrag aan belasting dat verschuldigd zou zijn geweest indien dat was berekend over het voordeel dat tijdens de bezitsperiode is genoten.
 
@@ -715,7 +737,7 @@ Navordering op de voet van [hoofdstuk III van de Algemene wet inzake rijksbelast
 
 5. De vermindering wordt verleend op een verzoek dat geschiedt door het doen van aangifte. In deze aangifte wordt tevens de hoogte van het in het tweede lid bedoelde voordeel vermeld. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-6. In de gevallen, waarin de oorzaak tot de vermindering anderzijds aanleiding geeft tot heffing van belasting, kan de in het vorige lid bedoelde aangifte worden opgenomen in de overeenkomstig [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2025-01-01&g=2025-01-01), in te dienen aangifte. In de andere gevallen moet die aangifte worden ingediend binnen acht maanden, nadat de oorzaak tot de vermindering is ontstaan.
+6. In de gevallen, waarin de oorzaak tot de vermindering anderzijds aanleiding geeft tot heffing van belasting, kan de in het vorige lid bedoelde aangifte worden opgenomen in de overeenkomstig [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2026-01-01&g=2026-01-01), in te dienen aangifte. In de andere gevallen moet die aangifte worden ingediend binnen acht maanden, nadat de oorzaak tot de vermindering is ontstaan.
 
 7. De teruggave, waartoe een vermindering aanleiding geeft, kan geschieden door verrekening met het terzake van dezelfde nalatenschap of schenking verschuldigde.
 
@@ -793,15 +815,15 @@ Vervallen
 
 1. De in de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [16, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16) vermelde termijnen van onderscheidenlijk drie, vijf en twaalf jaren gaan in:
 
-- 1°. voor de erfbelasting na de dag van inschrijving van de akte van overlijden in de registers van de burgerlijke stand, met dien verstande dat in de gevallen, bedoeld in [artikel 45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2025-01-01&g=2025-01-01), de termijnen niet eerder beginnen te lopen dan vanaf de dag waarop de termijn van aangifte ingaat en worden verlengd met de tijd dat de termijn van aangifte niet loopt;
+- 1°. voor de erfbelasting na de dag van inschrijving van de akte van overlijden in de registers van de burgerlijke stand, met dien verstande dat in de gevallen, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2026-01-01&g=2026-01-01), de termijnen niet eerder beginnen te lopen dan vanaf de dag waarop de termijn van aangifte ingaat en worden verlengd met de tijd dat de termijn van aangifte niet loopt;
 
 - 2°. voor de schenkbelasting, ingeval geen aangifte is gedaan, na de dag van inschrijving van de akte van overlijden van de schenker of van de begiftigde in de registers van de burgerlijke stand, dan wel ingeval meer dan vier maanden na het einde van het kalenderjaar waarin de schenking heeft plaatsgevonden aangifte is gedaan, na de dag van die aangifte met dien verstande dat ingeval zowel de schenker als de begiftigde een rechtspersoon is, de bevoegdheid tot het vaststellen van een aanslag of navorderingsaanslag twintig jaren na de schenking vervalt;
 
-- 3°. voor het geval het betreft het vaststellen van een aanslag of conserverende aanslag in verband met een gebeurtenis als bedoeld in [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35e&z=2025-01-01&g=2025-01-01), na de dag waarop die gebeurtenis zich heeft voorgedaan.
+- 3°. voor het geval het betreft het vaststellen van een aanslag of conserverende aanslag in verband met een gebeurtenis als bedoeld in [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35e&z=2026-01-01&g=2026-01-01), na de dag waarop die gebeurtenis zich heeft voorgedaan.
 
-2. Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag in gevallen waarin een vermindering als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VI&artikel=52&z=2025-01-01&g=2025-01-01) is verleend, dan gaat de termijn in na de dag waarop de vermindering is verleend.
+2. Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag in gevallen waarin een vermindering als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VI&artikel=52&z=2026-01-01&g=2026-01-01) is verleend, dan gaat de termijn in na de dag waarop de vermindering is verleend.
 
-3. Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag wegens het ten onrechte of tot een te hoog bedrag verlenen van een vermindering op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2025-01-01&g=2025-01-01), dan gaat de termijn in na de dag waarop de vermindering is verleend.
+3. Betreft het de bevoegdheid tot het vaststellen van een navorderingsaanslag wegens het ten onrechte of tot een te hoog bedrag verlenen van een vermindering op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2026-01-01&g=2026-01-01), dan gaat de termijn in na de dag waarop de vermindering is verleend.
 
 4. Indien voor de erfbelasting de aangifte over een bestanddeel van het voorwerp van die belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, vervalt, in afwijking van [artikel 16, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16), de bevoegdheid tot het vaststellen van een navorderingsaanslag niet.
 
@@ -863,7 +885,7 @@ Zij, die goederen niet zijnde registergoederen of daarop betrekking hebbende bew
 
 ##### Artikel 74
 
-1. In alle gevallen, waarin de mogelijkheid bestaat, dat zich in een gesloten kist of onder een verzegelde omslag goederen niet zijnde registergoederen of daarop betrekking hebbende bewijsstukken bevinden, waarvan op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2025-01-01&g=2025-01-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XII&artikel=73&z=2025-01-01&g=2025-01-01) aangifte moet geschieden, zal op verzoek van de executeur of door de rechter benoemde vereffenaar van de nalatenschap, van de erfgenamen of van de houder, de opening, vóór de afgifte, geschieden door een notaris, die wordt aangewezen door de kantonrechter van de rechtbank van het arrondissement waarin de kist of de omslag zich bevindt.
+1. In alle gevallen, waarin de mogelijkheid bestaat, dat zich in een gesloten kist of onder een verzegelde omslag goederen niet zijnde registergoederen of daarop betrekking hebbende bewijsstukken bevinden, waarvan op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=8&z=2026-01-01&g=2026-01-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XII&artikel=73&z=2026-01-01&g=2026-01-01) aangifte moet geschieden, zal op verzoek van de executeur of door de rechter benoemde vereffenaar van de nalatenschap, van de erfgenamen of van de houder, de opening, vóór de afgifte, geschieden door een notaris, die wordt aangewezen door de kantonrechter van de rechtbank van het arrondissement waarin de kist of de omslag zich bevindt.
 
 2. De notaris zal van de opening een proces-verbaal opmaken, waarin de uitwendige toestand en de inhoud van het ter opening aangebodene worden beschreven. De notaris zendt een dubbel van het proces-verbaal aan de inspecteur.
 
@@ -903,15 +925,15 @@ Vervallen
 
 ##### Artikel 82
 
-Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de [artikelen 11, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), en [37 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=37), zoals die op 31 december 2013 luidden, en daarmee gelijkgestelde bedragen als bedoeld in [artikel 11a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11a), zoals dat op 31 december 2013 luidde, blijft [artikel 32, eerste lid, onderdeel 5°, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=32&z=2025-01-01&g=2025-01-01), zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van [artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f), van toepassing.
+Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de [artikelen 11, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), en [37 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=37), zoals die op 31 december 2013 luidden, en daarmee gelijkgestelde bedragen als bedoeld in [artikel 11a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11a), zoals dat op 31 december 2013 luidde, blijft [artikel 32, eerste lid, onderdeel 5°, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=32&z=2026-01-01&g=2026-01-01), zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van [artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f), van toepassing.
 
 ##### Artikel 83
 
 1. Met ingang van de eerste dag van de maand, volgende op die, waarin deze wet in het **Staatsblad** wordt geplaatst, treden in werking:
 
-de [Hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&z=2025-01-01&g=2025-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&z=2025-01-01&g=2025-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&z=2025-01-01&g=2025-01-01), met uitzondering van artikel 20;
+de [Hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&z=2026-01-01&g=2026-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=II&z=2026-01-01&g=2026-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&z=2026-01-01&g=2026-01-01), met uitzondering van artikel 20;
 
-de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XII&artikel=80&z=2025-01-01&g=2025-01-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=81&z=2025-01-01&g=2025-01-01) - voor zoveel betreft de halvering van de grondslag der heffing en de bijvordering van recht ten aanzien van voor het publiek opengestelde landgoederen -[82](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=82&z=2025-01-01&g=2025-01-01) en[83](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=83&z=2025-01-01&g=2025-01-01).
+de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XII&artikel=80&z=2026-01-01&g=2026-01-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=81&z=2026-01-01&g=2026-01-01) - voor zoveel betreft de halvering van de grondslag der heffing en de bijvordering van recht ten aanzien van voor het publiek opengestelde landgoederen -[82](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=82&z=2026-01-01&g=2026-01-01) en[83](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XIII&artikel=83&z=2026-01-01&g=2026-01-01).
 
 2. De overige bepalingen van deze wet treden in werking met ingang van een door Ons te bepalen tijdstip, dat voor de onderscheidene bepalingen verschillend kan zijn.
 
@@ -919,9 +941,9 @@ de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=XII&
 
 4. Verwijzingen naar artikelen van de in het vorige lid vermelde wet worden, zodra die artikelen buiten werking zijn getreden, aangemerkt als verwijzingen naar de overeenkomstige artikelen van deze wet. Verwijzingen in artikelen van deze wet naar andere artikelen van deze wet worden, zolang laatstbedoelde artikelen nog niet in werking zijn getreden, aangemerkt als verwijzingen naar de overeenkomstige artikelen van de in het vorige lid vermelde wet.
 
-5. In de gevallen waarin volgens de in het derde lid vermelde wet op een aangever een bewijslast rust geldt, zolang de [Hoofdstukken IV tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&z=2025-01-01&g=2025-01-01) van deze wet nog niet geheel van toepassing zijn, zulks in dezelfde mate voor de toepassing van de overeenkomstige artikelen van deze wet.
+5. In de gevallen waarin volgens de in het derde lid vermelde wet op een aangever een bewijslast rust geldt, zolang de [Hoofdstukken IV tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) van deze wet nog niet geheel van toepassing zijn, zulks in dezelfde mate voor de toepassing van de overeenkomstige artikelen van deze wet.
 
-6. De bepalingen van deze wet zijn toepasselijk, indien het overlijden, de schenking of de in [artikel 45, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2025-01-01&g=2025-01-01), of [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2025-01-01&g=2025-01-01), bedoelde gebeurtenis op of na het tijdstip van haar inwerkingtreding plaats heeft, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen tengevolge van de vervulling van een voorwaarde.
+6. De bepalingen van deze wet zijn toepasselijk, indien het overlijden, de schenking of de in [artikel 45, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IV&artikel=45&z=2026-01-01&g=2026-01-01), of [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=VII&artikel=53&z=2026-01-01&g=2026-01-01), bedoelde gebeurtenis op of na het tijdstip van haar inwerkingtreding plaats heeft, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen tengevolge van de vervulling van een voorwaarde.
 
 7. Deze wet kan worden aangehaald als Successiewet, met vermelding van het jaar, waarin zij in het **Staatsblad** wordt geplaatst.
 
@@ -1001,7 +1023,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt de afzo
 
 ##### Artikel 26a
 
-Voor de berekening van de schenkbelasting wordt een verkrijging van een afgezonderd particulier vermogen als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=17&z=2025-01-01&g=2025-01-01) geacht te zijn verkregen van de persoon of personen waarop [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a) voor het desbetreffende afgezonderd particulier vermogen van toepassing is.
+Voor de berekening van de schenkbelasting wordt een verkrijging van een afgezonderd particulier vermogen als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=I&artikel=17&z=2026-01-01&g=2026-01-01) geacht te zijn verkregen van de persoon of personen waarop [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a) voor het desbetreffende afgezonderd particulier vermogen van toepassing is.
 
 ### Hoofdstuk IIIA. Bedrijfsopvolging
 
@@ -1009,47 +1031,63 @@ Voor de berekening van de schenkbelasting wordt een verkrijging van een afgezond
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder een erflater of schenker verstaan een erflater die gedurende één jaar tot het overlijden, onderscheidenlijk een schenker die gedurende vijf jaren tot de schenking:
 
-- a. ondernemer was in de zin van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4) of [artikel 3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.5) met betrekking tot de in [artikel 35c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), bedoelde onderneming;
+- a. ondernemer was in de zin van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4) of [artikel 3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.5) met betrekking tot de in [artikel 35c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), bedoelde onderneming;
 
-- b. medegerechtigde was in de zin van [artikel 3.3, eerste lid, onderdeel a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.3) met betrekking tot de in [artikel 35c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), bedoelde medegerechtigdheid;
+- b. medegerechtigde was in de zin van [artikel 3.3, eerste lid, onderdeel a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.3) met betrekking tot de in [artikel 35c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), bedoelde medegerechtigdheid;
 
-- c. aanmerkelijkbelanghouder was van de vermogensbestanddelen, bedoeld in [artikel 35c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), en het lichaam waarop het aanmerkelijk belang betrekking heeft gedurende de in de aanhef bedoelde periode van één jaar, onderscheidenlijk vijf jaren, de daar bedoelde onderneming dreef of de daar bedoelde medegerechtigdheid bezat;
+- c. aanmerkelijkbelanghouder was van de vermogensbestanddelen, bedoeld in [artikel 35c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), en het lichaam waarop het aanmerkelijk belang betrekking heeft gedurende de in de aanhef bedoelde periode van één jaar, onderscheidenlijk vijf jaren, de daar bedoelde onderneming dreef of de daar bedoelde medegerechtigdheid bezat;
 
-- d. resultaat uit een werkzaamheid genoot met betrekking tot de onroerende zaak, bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01), en die onroerende zaak gedurende de in de aanhef bedoelde periode van één jaar, onderscheidenlijk vijf jaren, dienstbaar was aan de onderneming van het lichaam, bedoeld in artikel 35c, eerste lid, onderdeel c.
+- d. resultaat uit een werkzaamheid genoot met betrekking tot de onroerende zaak, bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01), en die onroerende zaak gedurende de in de aanhef bedoelde periode van één jaar, onderscheidenlijk vijf jaren, dienstbaar was aan de onderneming van het lichaam, bedoeld in artikel 35c, eerste lid, onderdeel c;
 
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+voor zover het belang van erflater of schenker in de onderneming, bedoeld in de onderdelen a of c, in de medegerechtigdheid, bedoeld in de onderdelen b of c, of in de werkzaamheid, bedoeld in onderdeel d, in de genoemde periode niet is toegenomen.
+
+2. De periodes van één jaar, bedoeld in het eerste lid, aanhef en onderdelen c en d, worden verlengd met zes maanden per jaar dat de erflater ten tijde van het overlijden meer dan twee jaar ouder is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
+
+3. De periodes van vijf jaren, bedoeld in het eerste lid, aanhef en onderdelen c en d, worden verlengd met zes maanden per jaar dat de schenker op het moment van schenking meer dan zes jaar ouder is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
+
+4. Onder een erflater of schenker als bedoeld in het eerste lid wordt mede verstaan degene die naar doel en strekking van de bezitseis, bedoeld in het eerste lid, daarmee gelijk te stellen is, mits sprake is van een bij ministeriële regeling aangewezen omstandigheid en voldaan wordt aan daarin gestelde voorwaarden.
+
+5. Onder een erflater of schenker als bedoeld in het eerste lid wordt mede verstaan degene die in geval van bij ministeriële regeling aangewezen situaties van overheidsingrijpen voldoet aan de daarin gestelde voorwaarden.
+
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
 ##### Artikel 35e
 
-1. Een verkrijger voldoet aan het voortzettingsvereiste indien gedurende de periode van drie jaren, bedoeld in [artikel 35b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), zich geen van de hierna genoemde gebeurtenissen voordoet:
+1. Een verkrijger voldoet aan het voortzettingsvereiste indien gedurende de periode van drie jaren, bedoeld in [artikel 35b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01), zich geen van de hierna genoemde gebeurtenissen voordoet:
 
-- a. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01): de verkrijger houdt op uit de onderneming, of een gedeelte daarvan, winst te genieten of gaat ter zake belastbare winst genieten in de zin van [artikel 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.3);
+- a. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01): de verkrijger houdt op uit de onderneming, of een gedeelte daarvan, winst te genieten of gaat ter zake belastbare winst genieten in de zin van [artikel 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.3);
 
-- b. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01): de verkrijger houdt op uit de verkregen medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
+- b. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01): de verkrijger houdt op uit de verkregen medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
 
-- c. indien het een verkrijging betreft van vermogensbestanddelen als bedoeld in [artikel 35c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01):
+- c. indien het een verkrijging betreft van vermogensbestanddelen als bedoeld in [artikel 35c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01):
 
 - 1°. de verkrijger vervreemdt vermogensbestanddelen of een gedeelte van de in deze vermogensbestanddelen liggende rechten;
 
-- 2°. vermogensbestanddelen worden omgezet in preferente aandelen of op andere wijze wordt de aanspraak van de verkregen vermogensbestanddelen op toekomstige winsten of waardeontwikkelingen beperkt, of
+- 2°. vermogensbestanddelen worden omgezet in preferente aandelen of de aanspraak van de verkregen vermogensbestanddelen op toekomstige winsten of waardeontwikkelingen wordt, al dan niet via uitgifte van vermogensbestanddelen, op andere wijze beperkt; of
 
 - 3°. het lichaam waarop de vermogensbestanddelen betrekking hebben, houdt op uit de onderneming of de medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
 
-- d. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01):
+- d. indien het een verkrijging betreft als bedoeld in [artikel 35c, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01):
 
 - 1°. de verkrijger houdt op de onroerende zaak geheel of voor een gedeelte daarvan ter beschikking te stellen aan het in dat lid bedoelde lichaam, of
 
 - 2°. de onroerende zaak houdt op geheel of voor een gedeelte daarvan dienstbaar te zijn aan de in dat lid bedoelde onderneming.
 
-2. Indien de verkrijger in de periode, bedoeld in het eerste lid, een samenwerkingsverband aangaat, houdt hij voor de toepassing van dit artikel slechts op winst te genieten voor zover zijn gerechtigdheid tot de winst daardoor verder afneemt dan het aandeel in de winst waartoe hij gerechtigd was vóór de verkrijging waarop [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01) is toegepast.
+2. Indien de verkrijger in de periode, bedoeld in het eerste lid, een samenwerkingsverband aangaat, houdt hij voor de toepassing van dit artikel slechts op winst te genieten voor zover zijn gerechtigdheid tot de winst daardoor verder afneemt dan het aandeel in de winst waartoe hij gerechtigd was vóór de verkrijging waarop [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01) is toegepast.
 
 3. Voor de toepassing van het eerste lid, onderdeel c, wordt onder vervreemden mede verstaan een handeling of gebeurtenis als bedoeld in [artikel 4.16, eerste lid, onderdelen a, b, c, d, e en i, tweede lid, en vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16), ook als deze handeling of gebeurtenis betrekking heeft op vermogensbestanddelen die bij de verkrijger niet tot een aanmerkelijk belang behoren als bedoeld in [afdeling 4.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.3).
 
-4. Het eerste lid, onderdeel c, is van overeenkomstige toepassing op de gewone aandelen van de verkrijger, bedoeld in [artikel 35c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2025-01-01&g=2025-01-01). Ingeval met betrekking tot de in de eerste volzin bedoelde gewone aandelen niet wordt voldaan aan het eerste lid, onderdeel c, vervalt de voorwaardelijke vrijstelling met betrekking tot de preferente aandelen, bedoeld in artikel 35c, vierde lid, overeenkomstig [artikel 35b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), naar evenredigheid.
+4. Het eerste lid, onderdeel c, is van overeenkomstige toepassing op de gewone aandelen van de verkrijger, bedoeld in [artikel 35c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01). Ingeval met betrekking tot de in de eerste volzin bedoelde gewone aandelen niet wordt voldaan aan het eerste lid, onderdeel c, vervalt de voorwaardelijke vrijstelling met betrekking tot de preferente aandelen, bedoeld in artikel 35c, vierde lid, overeenkomstig [artikel 35b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01), naar evenredigheid.
 
-5. Indien zich een van de in het eerste lid bedoelde gebeurtenissen heeft voorgedaan, doet de verkrijger hiervan aangifte binnen acht maanden na die gebeurtenis.
+5. Het vierde lid is van overeenkomstige toepassing op gewone aandelen van de verkrijger die zijn toegekend in het kader van een bedrijfsoverdracht als bedoeld in [artikel 35c, vijfde lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35c&z=2026-01-01&g=2026-01-01).
 
-6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+6. Een verkrijger voldoet mede aan het voortzettingsvereiste in bij ministeriële regeling te stellen omstandigheden die passen bij het doel en de strekking van het voortzettingsvereiste als voldaan wordt aan de daarin gestelde voorwaarden.
+
+7. Een verkrijger voldoet in geval van bij ministeriële regeling aangewezen situaties van overheidsingrijpen mede aan het voortzettingsvereiste onder bij die ministeriële regeling te stellen voorwaarden.
+
+8. Indien zich een van de in het eerste lid bedoelde gebeurtenissen heeft voorgedaan, doet de verkrijger hiervan aangifte binnen acht maanden na die gebeurtenis.
+
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
 ##### Artikel 35f
 
@@ -1089,7 +1127,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. De belasting over de geconserveerde waarde wordt bepaald op het verschil tussen de belasting over de belaste verkrijging en de belasting over de belaste verkrijging verminderd met deze geconserveerde waarde.
 
-3. Indien de verkrijging omvat zowel blote eigendom als bedoeld in het eerste lid als ondernemingsvermogen als bedoeld in [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2025-01-01&g=2025-01-01), wordt voor de bepaling van de belasting over de geconserveerde waarde van de blote eigendom de verkrijging van het ondernemingsvermogen genegeerd.
+3. Indien de verkrijging omvat zowel blote eigendom als bedoeld in het eerste lid als ondernemingsvermogen als bedoeld in [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA&artikel=35b&z=2026-01-01&g=2026-01-01), wordt voor de bepaling van de belasting over de geconserveerde waarde van de blote eigendom de verkrijging van het ondernemingsvermogen genegeerd.
 
 4. Dit artikel is van overeenkomstige toepassing op de verkrijging van een krachtens erfrecht verkregen onderbedelingsvordering.
 
@@ -1133,8 +1171,8 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 82a
 
-1. De verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2025-01-01&g=2025-01-01), is niet van toepassing indien voorafgaande aan 1 januari 2010 de verhoogde vrijstelling, bedoeld in artikel 33, eerste lid, onderdeel 5°, zoals dat luidde op 31 december 2009 door het kind is toegepast.
+1. De verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2026-01-01&g=2026-01-01), is niet van toepassing indien voorafgaande aan 1 januari 2010 de verhoogde vrijstelling, bedoeld in artikel 33, eerste lid, onderdeel 5°, zoals dat luidde op 31 december 2009 door het kind is toegepast.
 
-2. De verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2025-01-01&g=2025-01-01), is tevens niet van toepassing indien in een van de kalenderjaren 2010 tot en met 2016 de verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° of 6°, zoals die luidden in die kalenderjaren, of [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33a&z=2025-01-01&g=2025-01-01), zoals dat luidde op 31 december 2014, door het kind is toegepast.
+2. De verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33&z=2026-01-01&g=2026-01-01), is tevens niet van toepassing indien in een van de kalenderjaren 2010 tot en met 2016 de verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° of 6°, zoals die luidden in die kalenderjaren, of [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=III&artikel=33a&z=2026-01-01&g=2026-01-01), zoals dat luidde op 31 december 2014, door het kind is toegepast.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
