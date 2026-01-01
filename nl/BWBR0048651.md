@@ -4,7 +4,7 @@ identifier: "BWBR0048651"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048651"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1
 
-De landen bedoeld in [artikel 1, eerste lid, onder a, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling.
+De landen bedoeld in [artikel 1, eerste lid, onder a, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 2
 
-De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling.
+De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 3
 
-1. Het identificatiedocument bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) is het document S, waarvan het vastgestelde model is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=3&z=2025-01-01&g=2025-01-01) van deze regeling.
+1. Het identificatiedocument bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) is het document S, waarvan het vastgestelde model is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=3&z=2026-01-01&g=2026-01-01) van deze regeling.
 
-2. Ter zake van de afdoening van een verzoek om het in het eerste lid bedoelde identificatiedocument te verstrekken, is de staatloze een bedrag van € 243,– verschuldigd en de minderjarige staatloze een bedrag van € 81,–.
+2. Ter zake van de afdoening van een verzoek om het in het eerste lid bedoelde identificatiedocument te verstrekken, is de staatloze een bedrag van € 254,– verschuldigd en de minderjarige staatloze een bedrag van € 85,–.
 
-3. De staatloze dient het verzoek, bedoeld in het tweede lid, in persoon in bij het loket van de Immigratie- en Naturalisatiedienst. Bij de indiening van dat verzoek maakt de staatloze gebruik van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=4&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+3. De staatloze dient het verzoek, bedoeld in het tweede lid, in persoon in bij het loket van de Immigratie- en Naturalisatiedienst. Bij de indiening van dat verzoek maakt de staatloze gebruik van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=4&z=2026-01-01&g=2026-01-01) bij deze regeling is gevoegd.
 
 4. De staatloze haalt het identificatiedocument in persoon af bij het loket van de Immigratie- en Naturalisatiedienst.
 
@@ -96,7 +96,7 @@ Deze regeling wordt aangehaald als: Regeling betreffende evidente staatloosheid 
 
 Deze regeling treedt in werking met ingang van 1 oktober 2023.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=1&z=2025-01-01&g=2025-01-01) Regeling evidente staatloosheid (landen met een vaststellingsprocedure staatloosheid)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=1&z=2026-01-01&g=2026-01-01) Regeling evidente staatloosheid (landen met een vaststellingsprocedure staatloosheid)
 
 Argentinië
 
@@ -142,7 +142,7 @@ Uruguay
 
 Verenigd Koninkrijk
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=2&z=2025-01-01&g=2025-01-01) Regeling evidente staatloosheid (landen waarvan de nationaliteit niet via de vrouwelijke lijn wordt doorgegeven)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=2&z=2026-01-01&g=2026-01-01) Regeling evidente staatloosheid (landen waarvan de nationaliteit niet via de vrouwelijke lijn wordt doorgegeven)
 
 Brunei Darussalam
 
@@ -156,8 +156,8 @@ Qatar
 
 Somalië
 
-## Bijlage 3. behorend bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=3&z=2025-01-01&g=2025-01-01), Regeling evidente staatloosheid (document S; identificatiedocument voor staatlozen)
+## Bijlage 3. behorend bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=3&z=2026-01-01&g=2026-01-01), Regeling evidente staatloosheid (document S; identificatiedocument voor staatlozen)
 
-## Bijlage 4. behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=3&z=2025-01-01&g=2025-01-01), Regeling evidente staatloosheid (model verzoek identificatiedocument voor staatlozen)
+## Bijlage 4. behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&artikel=3&z=2026-01-01&g=2026-01-01), Regeling evidente staatloosheid (model verzoek identificatiedocument voor staatlozen)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
