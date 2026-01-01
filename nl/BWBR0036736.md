@@ -4,7 +4,7 @@ identifier: "BWBR0036736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036736"
 soort: "ministeriele-regeling"
@@ -56,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor het verrichten van een veiligheidsonderzoek op A-niveau is de werkgever een tarief van € 3.014,– verschuldigd.
+1. Voor het verrichten van een veiligheidsonderzoek op A-niveau is de werkgever een tarief van € 3.113,– verschuldigd.
 
-2. Voor het verrichten van een veiligheidsonderzoek op B-niveau is de werkgever een tarief van € 803,– verschuldigd.
+2. Voor het verrichten van een veiligheidsonderzoek op B-niveau is de werkgever een tarief van € 829,– verschuldigd.
 
-3. Voor het verrichten van een veiligheidsonderzoek op C-niveau is de werkgever een tarief van € 666,– verschuldigd.
+3. Voor het verrichten van een veiligheidsonderzoek op C-niveau is de werkgever een tarief van € 688,– verschuldigd.
 
-4. Voor het verrichten van een veiligheidsonderzoek burgerluchtvaart (BL) is de werkgever een tarief van € 183,– verschuldigd.
+4. Voor het verrichten van een veiligheidsonderzoek burgerluchtvaart (BL) is de werkgever een tarief van € 189,– verschuldigd.
 
 ##### Artikel 3
 
