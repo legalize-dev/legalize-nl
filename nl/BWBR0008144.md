@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -157,29 +157,29 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - 3°. het registratienummer van een gehuurd voertuig, bedoeld in artikel 3 bis, eerste lid, van [richtlijn 2006/1/EG](32006L0001);
 
-- w. het houden van toezicht op de conformiteit van de productie van motorrijtuigen als bedoeld in [artikel 20b van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b);
+- w. vervallen;
 
-- x. vervallen;
+- x. het vastleggen in het rijbewijzenregister van verklaringen in verband met de afgifte van rijbewijzen;
 
-- y. het vastleggen in het rijbewijzenregister van verklaringen in verband met de afgifte van rijbewijzen;
+- y. het op basis van [artikel 25b, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
 
-- z. het op basis van [artikel 25b, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
+- z. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie;
 
-- aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie;
+- aa. het op verzoek van de eigenaar of houder van een motorrijtuig of aanhangwagen afgeven van een kentekencard ter vervanging van een voor 1 januari 2014 voor dat motorvoertuig of die aanhangwagen afgegeven kentekenbewijs;
 
-- bb. het op verzoek van de eigenaar of houder van een motorrijtuig of aanhangwagen afgeven van een kentekencard ter vervanging van een voor 1 januari 2014 voor dat motorvoertuig of die aanhangwagen afgegeven kentekenbewijs;
+- bb. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 3 tot en met 8 van de gedelegeerde verordening (EU) 886/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door wegbeheerders en dienstverleners en omroepen voor verkeersinformatie ingevolge artikel 9, eerste en derde lid, van die verordening;
 
-- cc. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 3 tot en met 8 van de gedelegeerde verordening (EU) 886/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door wegbeheerders en dienstverleners en omroepen voor verkeersinformatie ingevolge artikel 9, eerste en derde lid, van die verordening;
+- cc. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 4 tot en met 7 van de gedelegeerde verordening (EU) 885/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door de dienstverleners, exploitanten van parkeerterreinen en wegenexploitanten ingevolge artikel 8, eerste lid, van die verordening;
 
-- dd. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 4 tot en met 7 van de gedelegeerde verordening (EU) 885/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door de dienstverleners, exploitanten van parkeerterreinen en wegenexploitanten ingevolge artikel 8, eerste lid, van die verordening;
+- dd. het op verzoek keuren van hittewerende bekleding van LPG-tankauto’s overeenkomstig NTA 8820:2015;
 
-- ee. het op verzoek keuren van hittewerende bekleding van LPG-tankauto’s overeenkomstig NTA 8820:2015;
+- ee. het ter uitvoering van verordening 19/2011, uitvoeringsverordening 901/2014 en uitvoeringsverordening 2015/504 toekennen van een wereldfabrikantenidentificatienummer (WMI);
 
-- ff. het ter uitvoering van verordening 19/2011, uitvoeringsverordening 901/2014 en uitvoeringsverordening 2015/504 toekennen van een wereldfabrikantenidentificatienummer (WMI);
+- ff. het voorbereiden en monitoren van een vergunning als bedoeld in [artikel 149aa](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149aa), alsmede het vaststellen en innen van de kosten op grond van artikel 149aa, achtste lid;
 
-- gg. het voorbereiden en monitoren van een vergunning als bedoeld in [artikel 149aa](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149aa), alsmede het vaststellen en innen van de kosten op grond van artikel 149aa, achtste lid;
+- gg. het innen van de afvalbeheerbijdrage voor autowrakken, bedoeld in [artikel 49, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=49), in naam van de organisatie die gerechtigd is tot de ontvangst van de afvalbeheerbijdrage, tenzij het voertuig wordt ingeschreven op basis van de erkenning inschrijven zonder onderzoek;
 
-- hh. het innen van de afvalbeheerbijdrage voor autowrakken, bedoeld in [artikel 49, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=49), in naam van de organisatie die gerechtigd is tot de ontvangst van de afvalbeheerbijdrage, tenzij het voertuig wordt ingeschreven op basis van de bevoegdheid, bedoeld in [artikel 6, eerste lid, onderdeel b, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6);
+- hh. het tot 5 juli 2024 in de hoedanigheid van technische dienst verrichten van de eerste beoordeling en tests of keuringen in het kader van de activiteitencategorieën A, B, C en D, bedoeld in artikel 68, eerste lid, onder a tot en met d, van [verordening (EU) 2018/858](32758R2018);
 
 - ii. het tot 1 juli 2029 in de hoedanigheid van technische dienst verrichten van de eerste beoordeling en tests of keuringen in het kader van de activiteitencategorieën A, B en D, bedoeld in artikel 68, eerste lid, onder a, b en d, van [verordening (EU) 2018/858](32018R0858);
 
@@ -187,9 +187,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-07-01&g=2024-07-01), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2026-01-01&g=2026-01-01), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-07-01&g=2024-07-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2026-01-01&g=2026-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
