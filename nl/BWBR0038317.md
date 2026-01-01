@@ -4,7 +4,7 @@ identifier: "BWBR0038317"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038317"
 soort: "ministeriele-regeling"
@@ -188,7 +188,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - k. de ondertekening en de datum.
 
-5. In geval van toekenning van termijnverlenging of termijnflexibilisering vermeldt de NL-conformiteitsbeoordelingsinstantie, naast het in het vierde lid, onderdeel h bedoelde jaar van de volgende herkeuring tevens het jaar waarin het onderzoek, bedoeld in [artikel 22, zesde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), moet worden uitgevoerd op de verklaring van herkeuring.
+5. In geval van toekenning van termijnverlenging of termijnflexibilisering vermeldt de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers, naast het in het vierde lid, onderdeel h bedoelde jaar van de volgende herkeuring tevens het jaar waarin het onderzoek, bedoeld in [artikel 22, zesde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), moet worden uitgevoerd op de verklaring van herkeuring.
 
 6. In de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede onderscheidenlijk negende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=23), worden de volgende gegevens opgenomen:
 
@@ -242,17 +242,17 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 1. Bij de bepaling van het jaar waarin de eerste herkeuring moet plaatsvinden, wordt uitgegaan van de datum waarop de verklaring van ingebruikneming of verklaring van intredekeuring en ingebruikneming is afgegeven.
 
-2. Bij de bepaling van het jaar van de volgende herkeuring wordt uitgegaan van het jaar waarin de voorgaande herkeuring heeft plaatsgevonden, waarbij geen rekening wordt gehouden met een toegestane overschrijding van de termijn overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=9&z=2017-01-01&g=2017-01-01).
+2. Bij de bepaling van het jaar van de volgende herkeuring wordt uitgegaan van het jaar waarin de voorgaande herkeuring heeft plaatsgevonden, waarbij geen rekening wordt gehouden met een toegestane overschrijding van de termijn overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=9&z=2026-01-01&g=2026-01-01).
 
-3. Een verklaring van ingebruikneming, afgegeven door een fabrikant met betrekking tot een keuring als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=3&z=2017-01-01&g=2017-01-01), wordt voor de bepaling van het jaar van herkeuring gelijkgesteld met een verklaring van ingebruikneming als bedoeld in het eerste lid.
+3. Een verklaring van ingebruikneming, afgegeven door een fabrikant met betrekking tot een keuring als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=3&z=2026-01-01&g=2026-01-01), wordt voor de bepaling van het jaar van herkeuring gelijkgesteld met een verklaring van ingebruikneming als bedoeld in het eerste lid.
 
 4. Indien een verklaring als bedoeld in het eerste lid, niet is vereist, wordt voor de bepaling van het jaar waarin de eerste herkeuring moet plaatsvinden de datum van afgifte van de EG-verklaring van overeenstemming of EU-conformiteitsverklaring, bedoeld in [artikel 25, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=25), als uitgangsdatum genomen.
 
 ##### Artikel 7. Termijnverlenging en uitvoering
 
-1. Termijnverlenging kan worden verleend voor drukapparatuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2017-01-01&g=2017-01-01), met uitzondering van de in artikel 5, eerste lid, onderdeel f, genoemde flessen voor ademhalingstoestellen en de in artikel 5, tweede lid, genoemde veiligheidsappendages, met een vaste termijn langer dan 2 jaar.
+1. Termijnverlenging kan worden verleend voor drukapparatuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01), met uitzondering van de in artikel 5, eerste lid, onderdeel f, genoemde flessen voor ademhalingstoestellen en de in artikel 5, tweede lid, genoemde veiligheidsappendages, met een vaste termijn langer dan 2 jaar.
 
-2. De termijnverlenging kan maximaal een verdubbeling zijn van de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2017-01-01&g=2017-01-01).
+2. De termijnverlenging kan maximaal een verdubbeling zijn van de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01).
 
 3. De termijnverlenging kan voor het eerst worden verleend na afloop van de tweede vaste termijn, met uitzondering van drukapparatuur met een vaste termijn van 2 jaar waarvoor termijnverlenging na afloop van de derde vaste termijn kan worden verleend.
 
@@ -266,11 +266,11 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - c. reparaties, wijzigingen of geconstateerde afwijkingen geen beletsel vormen voor de verlenging.
 
-6. De NL-conformiteitsbeoordelingsinstantie kan de termijnverlenging verlenen onder de voorwaarde dat de gebruiker een NL-keuringsdienst van gebruikers of inspectieafdeling van de gebruiker heeft.
+6. De NL-conformiteitsbeoordelingsinstantie kan de termijnverlenging verlenen onder de voorwaarde dat de gebruiker een inspectieafdeling van de gebruiker heeft.
 
 7. De aanvraag voor termijnverlenging wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in [artikel 22, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), en de verklaring van de gebruiker dat de gevraagde termijnverlenging verantwoord is.
 
-8. Het onderzoek, bedoeld in [artikel 22, zesde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), wordt uitgevoerd door de NL-keuringsdienst van gebruikers of inspectieafdeling van de gebruiker, die daartoe rapport uitbrengt aan de gebruiker. Dit rapport vormt onderdeel van de aan de NL-conformiteitsbeoordelingsinstantie gerichte aanvraag voor termijnverlenging.
+8. Het onderzoek, bedoeld in [artikel 22, zesde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), wordt uitgevoerd door de inspectieafdeling van de gebruiker, die daartoe rapport uitbrengt aan de gebruiker. Dit rapport vormt onderdeel van de aan de NL-conformiteitsbeoordelingsinstantie gerichte aanvraag voor termijnverlenging.
 
 9. De NL-conformiteitsbeoordelingsinstantie, bedoeld in het zesde lid, legt een toegekende termijnverlenging vast in de verklaring van herkeuring waarbij als de geldigheidstermijn, bedoeld in [artikel 22, negende lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), het jaar van herkeuring wordt vermeld.
 
@@ -278,9 +278,9 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 ##### Artikel 8. Termijnflexibilisering en uitvoering
 
-1. Termijnflexibilisering kan worden verleend voor de drukapparatuur, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=7&z=2017-01-01&g=2017-01-01).
+1. Termijnflexibilisering kan worden verleend voor de drukapparatuur, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=7&z=2026-01-01&g=2026-01-01).
 
-2. De termijnflexibilisering kan maximaal een verviervoudiging zijn van de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2017-01-01&g=2017-01-01), met een maximum van 18 jaar, waarbij voor veiligheidsappendages met een vaste termijn van 2 jaar een maximum van 4 jaar geldt.
+2. De termijnflexibilisering kan maximaal een verviervoudiging zijn van de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01), met een maximum van 18 jaar, waarbij voor veiligheidsappendages met een vaste termijn van 2 jaar een maximum van 4 jaar geldt.
 
 3. Termijnflexibilisering kan voor het eerst worden verleend na afloop van de tweede vaste termijn van de betreffende drukapparatuur, met uitzondering van drukapparatuur met een vaste termijn van 2 jaar waarvoor termijnflexibilisering na afloop van de derde vaste termijn kan worden verleend.
 
@@ -298,7 +298,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - e. beschikt over een overzicht van de installatie, de eventueel uitgevoerde wijzigingen en reparaties, de eventueel plaatsgevonden incidenten en de resultaten van uitgevoerde inspecties; en
 
-- f. een NL-keuringsdienst van gebruikers of inspectieafdeling van de gebruiker heeft.
+- f. een inspectieafdeling van de gebruiker heeft.
 
 6. De aanvraag voor termijnflexibilisering wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in [artikel 22, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), en de verklaring van de gebruiker dat de gevraagde termijnflexibilisering verantwoord is.
 
@@ -314,7 +314,7 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kun
 
 ##### Artikel 10. Verkorting termijn van herkeuring
 
-De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kunnen een kortere termijn vaststellen dan de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2017-01-01&g=2017-01-01), of het tijdstip nader aanduiden waarop de herkeuring in het betreffende jaar plaatsvindt. Bepalend daarvoor kunnen zijn:
+De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kunnen een kortere termijn vaststellen dan de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01), of het tijdstip nader aanduiden waarop de herkeuring in het betreffende jaar plaatsvindt. Bepalend daarvoor kunnen zijn:
 
 - a. de staat waarin de drukapparatuur zich bevindt;
 
@@ -354,9 +354,9 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers han
 
 - b. herkeuring van aangewezen drukapparatuur met vaste termijn ([artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22));
 
-- c. termijnverlenging ([artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22) juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=7&z=2017-01-01&g=2017-01-01) van de regeling);
+- c. termijnverlenging ([artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22) juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=7&z=2026-01-01&g=2026-01-01) van de regeling);
 
-- d. termijnflexibilisering ([artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22) juncto [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=8&z=2017-01-01&g=2017-01-01) van de regeling);
+- d. termijnflexibilisering ([artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22) juncto [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=8&z=2026-01-01&g=2026-01-01) van de regeling);
 
 - e. reparaties ([artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=26));
 
