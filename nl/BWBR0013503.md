@@ -4,7 +4,7 @@ identifier: "BWBR0013503"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-03-29"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013503"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Het is verboden het gemeenschappelijk logo, bedoeld in artikel 3, onder a, van [verordening (EG) nr. 2422/2001](32001R2422) van het Europees Parlement en de Raad van de Europese Unie betreffende een communautair energie-efficiëntie-etiketteringsprogramma voor kantoorapparatuur (PbEG L 332) te gebruiken anders dan in overeenstemming met deze verordening.
+Het is verboden het gemeenschappelijk logo, bedoeld in artikel 3, onder a, van [verordening (EG) nr. 106/2008](32008R0106) van het Europees Parlement en de Raad van 15 januari 2008 betreffende een programma van de Unie voor energie-efficiëntie-etikettering voor kantoorapparatuur te gebruiken anders dan in overeenstemming met deze verordening.
 
 ##### Artikel 2
 
