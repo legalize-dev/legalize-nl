@@ -4,7 +4,7 @@ identifier: "BWBR0050791"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050791"
 soort: "wet-BES"
@@ -48,8 +48,6 @@ Wijzigt het Burgerlijk Wetboek BES Boek 7a.
 
 Wijzigt de Vakantiewet 1949 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
@@ -71,8 +69,6 @@ Wijzigt de Wet algemene verzekering bijzondere ziektekosten BES.
 Wijzigt de Wet inkomstenbelasting BES.
 
 Wijzigt de Wet ongevallenverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
@@ -102,13 +98,11 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treedt [artikel VI, onderdelen Ba, F, en Na](https://wetten.overheid.nl/jci1.3:c:BWBR0050791&hoofdstuk=I&artikel=VI&z=2025-07-01&g=2025-07-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 juli 2024.
+2. In afwijking van het eerste lid treedt [artikel VI, onderdelen Ba, F, en Na](https://wetten.overheid.nl/jci1.3:c:BWBR0050791&hoofdstuk=I&artikel=VI&z=2026-01-01&g=2026-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 juli 2024.
 
 ##### Artikel XI. Citeertitel
 
