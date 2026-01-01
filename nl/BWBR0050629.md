@@ -4,7 +4,7 @@ identifier: "BWBR0050629"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050629"
 soort: "zbo"
@@ -93,21 +93,21 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 ##### Artikel 5. Handhaving
 
-1. Als een zorgaanbieder [artikel 40b, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet naleeft, kan de NZa een last onder dwangsom opleggen. Voordat een last onder dwangsom wordt opgelegd aan de zorgaanbieder, stuurt de NZa in beginsel een voornemen tot het opleggen van een last onder dwangsom aan de zorgaanbieder. Dit geeft de zorgaanbieder de gelegenheid om in een zienswijze aan te geven waarom de NZa af zou moeten zien van het opleggen van een last onder dwangsom.
+1. Als een zorgaanbieder [artikel 40b, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet naleeft, kan de NZa een last onder dwangsom opleggen. Voordat een last onder dwangsom wordt opgelegd aan de zorgaanbieder, stuurt de NZa in beginsel een voornemen tot het opleggen van een last onder dwangsom aan de zorgaanbieder.
 
 2. Een zienswijze op een voornemen tot het opleggen van een last onder dwangsom wordt inhoudelijk beoordeeld door de NZa als is voldaan aan de volgende voorwaarden:
 
-- a. De zienswijze is binnen de zienswijzetermijn van vier kalenderweken na verzending van het voornemen tot het opleggen van een last onder dwangsom gegeven. Zienswijzen die buiten de zienswijzetermijn worden ingediend, worden niet in behandeling genomen.
+- a. De zienswijze is binnen de zienswijzetermijn van vier kalenderweken na verzending van het voornemen tot het opleggen van een last onder dwangsom gegeven. Zienswijzen die buiten de zienswijzetermijn worden ingediend, worden, voor zover mogelijk, slechts alsnog in de besluitvorming betrokken als dit noodzakelijk is vanuit het oogpunt van een zorgvuldige voorbereiding van het besluit en/of wezenlijk bijdraagt aan de daarbij te maken belangenafweging.
 
-- b. Als een zienswijze op een voornemen tot het opleggen van een last onder dwangsom tijdig is ingediend, waarbij voor de behandeling van de zienswijze noodzakelijke gegevens niet zijn ingevuld of onduidelijk zijn, zal de zorgaanbieder verzocht worden dit binnen redelijke termijn aan te vullen.
+- b. Als een zienswijze op een voornemen tot het opleggen van een last onder dwangsom is ingediend, waarbij voor de behandeling van de zienswijze noodzakelijke gegevens niet zijn ingevuld of onduidelijk zijn, zal de zorgaanbieder verzocht worden dit binnen redelijke termijn aan te vullen.
 
-- c. De NZa kan voor het indienen van de zienswijze het gebruik van een elektronisch formulier verplicht stellen. Het elektronische formulier wordt in dat geval bekend gemaakt via [www.nza.nl](http://www.nza.nl).
+- c. De NZa kan voor het indienen van de zienswijze het gebruik van een elektronisch formulier beschikbaar stellen. Het elektronische formulier wordt in dat geval bekend gemaakt via [www.nza.nl](http://www.nza.nl).
 
 3. De NZa kan een last onder dwangsom opleggen aan een zorgaanbieder in het geval hij aan het einde van de termijn volgend uit het voornemen tot het opleggen van de last onder dwangsom nog steeds niet (volledig) aan de verplichting van [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) heeft voldaan en de eventuele zienswijze geen grondslag biedt om van de last onder dwangsom af te zien.
 
-4. De begunstigingstermijn van de last onder dwangsom bedraagt vier kalenderweken. Na de begunstigingstermijn wordt voor iedere kalenderweek dat de zorgaanbieder die gehouden is een jaarverantwoording openbaar te maken en niet aan haar verplichtingen heeft voldaan een dwangsom van € 1.000,– verbeurd, met een maximum van € 10.000,–.
+4. De begunstigingstermijn van de last onder dwangsom bedraagt vier kalenderweken. Na de begunstigingstermijn wordt voor iedere kalenderweek dat de zorgaanbieder die gehouden is een jaarverantwoording openbaar te maken en niet aan haar verplichtingen heeft voldaan een dwangsom van € 2.000,– verbeurd, met een maximum van € 10.000,–.
 
-5. In afwijking van het vierde lid bedraagt de dwangsom € 500,– per kalenderweek, met een maximum van € 5.000,–, als:
+5. In afwijking van het vierde lid bedraagt de dwangsom € 1.000,– per kalenderweek, met een maximum van € 5.000,–, als:
 
 - a. het een zorgaanbieder betreft als bedoeld in [artikel 2, eerste lid, onder a van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=2);
 
@@ -117,11 +117,11 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 - d. het een zorgaanbieder betreft als bedoeld in [artikel 2, vijfde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=2), aan wie ingevolge de subsidieregeling als bedoeld in dat artikellid, minder dan € 125.000 subsidie is verleend.
 
-6. Als een zorgaanbieder niet tijdig voldoet aan de last onder dwangsom, kan de NZa een tweede last onder dwangsom opleggen. Alvorens een tweede last onder dwangsom op te leggen aan de zorgaanbieder stuurt de NZa een voornemen tot het opleggen van een tweede last onder dwangsom. Dit geeft de zorgaanbieder de gelegenheid om in een zienswijze aan te geven waarom de NZa af zou moeten zien van het opleggen van een tweede last onder dwangsom. De voorwaarden van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=5&z=2025-01-01&g=2025-01-01) van deze beleidsregel zijn overeenkomstig van toepassing voor deze zienswijze.
+6. Als een zorgaanbieder niet tijdig voldoet aan de last onder dwangsom, kan de NZa een tweede last onder dwangsom opleggen. Alvorens een tweede last onder dwangsom op te leggen aan de zorgaanbieder stuurt de NZa een voornemen tot het opleggen van een tweede last onder dwangsom. Dit geeft de zorgaanbieder de gelegenheid om in een zienswijze aan te geven waarom de NZa af zou moeten zien van het opleggen van een tweede last onder dwangsom. De voorwaarden van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=5&z=2026-01-01&g=2026-01-01) van deze beleidsregel zijn overeenkomstig van toepassing voor deze zienswijze.
 
-7. De begunstigingstermijn van de tweede last onder dwangsom bedraagt vier kalenderweken. Na de begunstigingstermijn wordt voor iedere kalenderweek dat de zorgaanbieder die gehouden is een jaarverantwoording openbaar te maken niet aan haar verplichtingen heeft voldaan een dwangsom van € 2.500,– per kalenderweek opgelegd, met een maximum van € 25.000,–.
+7. De begunstigingstermijn van de tweede last onder dwangsom bedraagt vier kalenderweken. Na de begunstigingstermijn wordt voor iedere kalenderweek dat de zorgaanbieder die gehouden is een jaarverantwoording openbaar te maken niet aan haar verplichtingen heeft voldaan een dwangsom van € 5.000,– per kalenderweek opgelegd, met een maximum van € 25.000,–.
 
-8. In afwijking van het zevende lid bedraagt de dwangsom € 1.250,– per kalenderweek, met een maximum van € 12.500,–, als:
+8. In afwijking van het zevende lid bedraagt de dwangsom € 2.500,– per kalenderweek, met een maximum van € 12.500,–, als:
 
 - a. het een zorgaanbieder betreft als bedoeld in [artikel 2, eerste lid, onder a van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=2);
 
@@ -133,7 +133,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 9. Als een zorgaanbieder niet voldoet aan de verplichtingen die volgen uit [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), dan kan de NZa op grond van [artikel 85 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=85) een bestuurlijke boete opleggen. Voordat een bestuurlijke boete wordt opgelegd, stelt de NZa de zorgaanbieder in de gelegenheid om een zienswijze over het voornemen tot het opleggen van een bestuurlijke boete naar voren te brengen.
 
-10. Als een zorgaanbieder na het opleggen van een of twee lasten onder dwangsom nog niet voldoet aan [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), dan kan de NZa besluiten om een onderzoek te starten naar de ordelijkheid en controleerbaarheid van de bedrijfsvoering op grond van [artikel 40a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a).
+10. Als een zorgaanbieder een opgelegde last onder dwangsom als bedoeld in dit artikel niet opvolgt, dan kan dit aanleiding vormen om ook een onderzoek te starten naar de ordelijkheid en controleerbaarheid van de financiële bedrijfsvoering op grond van [artikel 40a Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a).
 
 11. Als een zorgaanbieder na het opleggen van een of twee lasten onder dwangsom nog niet voldoet aan [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), dan kan de NZa besluiten om de zaak over te dragen voor strafrechtelijke vervolging aan de daartoe bevoegde partij. Het niet naleven van artikel 40b van de Wmg is een economisch delict ([artikel 1 onder 2° van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1)).
 
@@ -143,7 +143,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 1. Wanneer een zorgaanbieder naar aanleiding van een bestuurlijke sanctie een geldsom verschuldigd is, dan gaat de NZa in beginsel over tot invordering van deze geldsom. Wanneer wordt overgegaan tot het invorderen van de geldsom dan zal de NZa hiervoor een besluit tot invordering nemen: de invorderingsbeschikking.
 
-2. Voordat wordt overgegaan tot invordering van de geldsom stelt de NZa de zorgaanbieder in beginsel – via een voornemen invorderingsbeschikking – in de gelegenheid een zienswijze, te geven inzake de invordering. De voorwaarden van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=5&z=2025-01-01&g=2025-01-01) van deze beleidsregel zijn overeenkomstig van toepassing.
+2. Voordat wordt overgegaan tot invordering van de geldsom stelt de NZa de zorgaanbieder in beginsel – via een voornemen invorderingsbeschikking – in de gelegenheid een zienswijze, te geven inzake de invordering. De voorwaarden van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=5&z=2026-01-01&g=2026-01-01) van deze beleidsregel zijn overeenkomstig van toepassing.
 
 3. Na het verlopen van de zienswijzetermijn van het voornemen invorderingsbeschikking wordt de invorderingsbeschikking verstuurd.
 
@@ -163,7 +163,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 3. Een betalingsregeling met een periode langer dan 10 termijnen dient te worden onderbouwd met financiële stukken. De stukken moeten worden ingediend via het Zivver portaal. Deze is beschikbaar op de website van de NZa. De NZa kan als alternatief hiervoor het gebruik van een elektronisch formulier verplicht stellen. Het elektronische formulier wordt in dat geval bekend gemaakt via [www.nza.nl](http://www.nza.nl/).
 
-4. Nadat de dwangsommen zijn verbeurd en de dwangsom in rechte vast staat kan de zorgaanbieder bij de NZa een verzoek tot matiging of kwijtschelding indienen. Dit verzoek moet overeenkomstig [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=7&z=2025-01-01&g=2025-01-01) van deze beleidsregel worden ingediend.
+4. Nadat de dwangsommen zijn verbeurd en de dwangsom in rechte vast staat kan de zorgaanbieder bij de NZa een verzoek tot matiging of kwijtschelding indienen. Dit verzoek moet overeenkomstig [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050629&artikel=7&z=2026-01-01&g=2026-01-01) van deze beleidsregel worden ingediend.
 
 5. Een matigingsverzoek of een verzoek tot kwijtschelding van de dwangsom kan alleen in geval er sprake is van bijzondere omstandigheden worden toegekend. De bijzondere omstandigheden worden mede aan de hand van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en jurisprudentie gewogen.
 
