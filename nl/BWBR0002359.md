@@ -4,7 +4,7 @@ identifier: "BWBR0002359"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002359"
 soort: "wet"
@@ -94,11 +94,11 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 1. De belasting wordt geheven:
 
-- a. in de gevallen waarin [artikel 1, onderdeel a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, naar het verschil tussen de in een tijdvak ontvangen inzetten en de ter beschikking gestelde prijzen en naar hetgeen in een tijdvak anders dan als inzet ontvangen is voor het geven van gelegenheid tot deelneming aan kansspelen;
+- a. in de gevallen waarin [artikel 1, onderdeel a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, naar het verschil tussen de in een tijdvak ontvangen inzetten en de ter beschikking gestelde prijzen en naar hetgeen in een tijdvak anders dan als inzet ontvangen is voor het geven van gelegenheid tot deelneming aan kansspelen;
 
-- b. in de gevallen waarin [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, naar de prijzen;
+- b. in de gevallen waarin [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, naar de prijzen;
 
-- c. in de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, naar het positieve verschil tussen de in een kalendermaand gewonnen prijzen en de in die kalendermaand gedane inzetten.
+- c. in de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, naar het positieve verschil tussen de in een kalendermaand gewonnen prijzen en de in die kalendermaand gedane inzetten.
 
 2. Onder prijzen worden verstaan alle goederen waaraan in het economische verkeer waarde kan worden toegekend, welke aan de deelnemers van de kansspelen uit hoofde van hun deelneming toevallen.
 
@@ -108,7 +108,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ##### Artikel 4
 
-1. Indien [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, is van de belasting vrijgesteld:
+1. Indien [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, is van de belasting vrijgesteld:
 
 - a. de prijs die niet meer bedraagt dan € 449;
 
@@ -120,17 +120,17 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ##### Artikel 5
 
-1. De belasting bedraagt 34,2 percent.
+1. De belasting bedraagt 37,8 percent.
 
-2. Neemt, in het geval waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/65,8 vermenigvuldigd.
+2. Neemt, in het geval waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/62,2 vermenigvuldigd.
 
 ### Hoofdstuk V. Wijze van heffing
 
 ##### Artikel 5a
 
-1. In de gevallen waarin [artikel 1, onderdeel a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, moet de in een tijdvak verschuldigd geworden belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, onderdeel a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de in een tijdvak verschuldigd geworden belasting op aangifte worden voldaan.
 
-2. De belasting is verschuldigd op de laatste dag van het tijdvak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01).
+2. De belasting is verschuldigd op de laatste dag van het tijdvak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 5b
 
@@ -138,7 +138,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. In de gevallen waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, wordt de belasting geheven door inhouding op de prijs.
+1. In de gevallen waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, wordt de belasting geheven door inhouding op de prijs.
 
 2. Inhoudingsplichtige is degene die de prijs verschuldigd is.
 
@@ -154,7 +154,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. In de gevallen waarin [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
 
 2. De belasting wordt verschuldigd op het tijdstip waarop de prijs:
 
@@ -220,9 +220,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-1. In de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
 
-2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01).
+2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk VI. Strafbepaling
 
