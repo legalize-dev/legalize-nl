@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-06-19"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -95,7 +95,15 @@ Vervallen
 
 - c. een verhoging van een geschat toetsingsinkomen die leidt tot een verlaging van de tegemoetkoming over het berekeningsjaar met meer dan € 500;
 
-- d. een verhoging van een geschat vermogen waardoor over het berekeningsjaar geen aanspraak op een tegemoetkoming bestaat.
+- d. een verhoging van een geschat vermogen waardoor over het berekeningsjaar geen aanspraak op een tegemoetkoming bestaat;
+
+- e. het eindigen van een vermissing als bedoeld in [artikel 3c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3c);
+
+- f. het eindigen van de tenuitvoerlegging van een bevel tot gevangenneming of gevangenhouding als bedoeld in [artikel 3c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3c);
+
+- g. het eindigen van de uitvoering van een vrijheidsbenemende straf of maatregel als bedoeld in [artikel 3c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3c), die buiten Nederland heeft plaatsgevonden;
+
+- h. het vervroegd eindigen van de uitvoering van een vrijheidsbenemende straf of maatregel als bedoeld in [artikel 3c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3c).
 
 3. Indien er een voorschot huurtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt:
 
@@ -161,11 +169,15 @@ Vervallen
 
 3. Een betaling van de terugvordering of bestuurlijke boete in maandelijkse termijnen eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de terugvordering of bestuurlijke boete geldende betalingstermijn 24 maanden zijn verstreken. Indien de omvang van de terugvordering of bestuurlijke boete betaling in 24 maandelijkse termijnen van € 20 niet toelaat, kan de Dienst Toeslagen, in afwijking van het eerste en tweede lid, een betaling in maandelijkse termijnen van meer dan € 20 verlangen.
 
-4. Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn een of meer terugvorderingen of bestuurlijke boetes overeenkomstig de voorgaande leden te betalen kan de Dienst Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van [artikel 13 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13), met dien verstande dat de Dienst Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) kan worden beschouwd.
+4. Indien de belanghebbende bij de betaling van de terugvordering of bestuurlijke boete in maandelijkse termijnen, bedoeld in het eerste lid, onderscheidenlijk tweede lid, niet voldoet aan de nader gestelde voorwaarden, bedoeld in het eerste lid, onderscheidenlijk tweede lid, stelt de Dienst Toeslagen de belanghebbende op diens verzoek in de gelegenheid de terugvordering of bestuurlijke boete alsnog te betalen in maandelijkse termijnen. In dat geval eindigt deze betaling in maandelijkse termijnen uiterlijk na 24 maanden gerekend vanaf de dag van de dagtekening van de beschikking waarin de Dienst Toeslagen de betaling in termijnen toestaat. De kosten van invordering die reeds zijn ontstaan voordat het verzoek om de betaling in maandelijkse termijnen wordt gehonoreerd worden onderdeel van de betreffende betalingsregeling.
 
-5. Een betalingsregeling als bedoeld in het vierde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de Uitvoeringregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) beschikken voor de voldoening van de terugvorderingen en de bestuurlijke boetes waarop het verzoek, bedoeld in het vierde lid, betrekking heeft, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.
+5. Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn een of meer terugvorderingen of bestuurlijke boetes overeenkomstig de voorgaande leden te betalen kan de Dienst Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van [artikel 13 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13), met dien verstande dat de Dienst Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) kan worden beschouwd.
 
-6. Indien de Dienst Toeslagen een betalingsregeling als bedoeld in het vierde lid toestaat die zowel betrekking heeft op een of meer terugvorderingen als op een of meer bestuurlijke boetes, strekken de betalingen van de belanghebbende eerst ter voldoening van de terugvorderingen alvorens deze strekken ter voldoening van de bestuurlijke boetes.
+6. Een betalingsregeling als bedoeld in het vijfde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de Uitvoeringregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) beschikken voor de voldoening van de terugvorderingen en de bestuurlijke boetes waarop het verzoek, bedoeld in het vijfde lid, betrekking heeft, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.
+
+7. Indien de Dienst Toeslagen een betalingsregeling als bedoeld in het vijfde lid toestaat die zowel betrekking heeft op een of meer terugvorderingen als op een of meer bestuurlijke boetes, strekken de betalingen van de belanghebbende eerst ter voldoening van de terugvorderingen alvorens deze strekken ter voldoening van de bestuurlijke boetes.
+
+8. Een betalingsregeling als bedoeld in het vierde of vijfde lid wordt niet toegestaan indien het belang van de invordering zich verzet tegen het verlenen van de betalingsregeling.
 
 ##### Artikel 8. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
@@ -183,7 +195,7 @@ Vervallen
 
 - 2°. van de zijde van een kind en waarover zowel de belanghebbende, diens partner, een eventuele medebewoner, alsook het kind niet kan beschikken;
 
-- b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het berekeningsjaar of in enig eerder jaar zijn ontvangen:
+- b. een bedrag ter grootte van de navolgende eenmalige uitkeringen die in het berekeningsjaar of in enig eerder jaar zijn ontvangen, waaronder mede begrepen de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98):
 
 - 1°. immateriële schadevergoedingen die zijn toegekend voor 1 januari 2024;
 
@@ -249,7 +261,7 @@ Indien de Dienst Toeslagen overeenkomstig artikel 6 van Verordening (EG) nr. 987
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2025-06-19&g=2025-06-19), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. wordt de in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), van de wet genoemde termijn en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2026-01-01&g=2026-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -271,29 +283,49 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9bis. Tijdelijke vermogenstoetsuitzondering financiële ondersteuning zorgmedewerkers met langdurige post-COVID klachten
+##### Artikel 9bis. Tijdelijke vermogenstoetsuitzonderingen voor tien jaar
 
-1. Op verzoek van de belanghebbende blijft artikel 7, derde en vierde lid, van de wet, [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van financiële ondersteuning aan zorgmedewerkers in verband met langdurige post-COVID klachten op grond van de Regeling zorgmedewerkers met langdurige post-COVID klachten.
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met een bedrag ter grootte van de volgende aangewezen toekenningen, waaronder mede begrepen de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98):
 
-2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin een bezitting als bedoeld in het eerste lid de eerste keer verkregen werd.
+- a. een financiële ondersteuning aan zorgmedewerkers in verband met langdurige post-COVID klachten die is toegekend op grond van de [Regeling zorgmedewerkers met langdurige post-COVID klachten](https://wetten.overheid.nl/jci1.3:c:BWBR0048596);
 
-3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+- b. een tegemoetkoming die is toegekend op grond van de [Regeling tegemoetkoming stoffengerelateerde beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047535) of de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913);
+
+- c. een schadevergoeding die na vaststelling van de schade door de Stichting Vergoeding schade slachtoffers schietincident Alphen aan den Rijn is toegekend aan de overlevenden en nabestaanden van het schietincident in Alphen aan den Rijn op 9 april 2011;
+
+- d. een eenmalige uitkering van immateriële schadevergoeding die is toegekend vanaf 1 januari 2024;
+
+- e. een eenmalig bedrag dat is toegekend op grond van het [Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0048840);
+
+- f. een compensatie of aanvullende compensatie die is toegekend op grond van de [Wet compensatie wegens selectie aan de poort](https://wetten.overheid.nl/jci1.3:c:BWBR0049128).
+
+2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
+
+3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren, voor zover het verzoek ingevolge het tweede lid op deze berekeningsjaren betrekking kan hebben.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9ter. Tijdelijke vermogenstoetsuitzondering tegemoetkoming [TSB-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047535) en [TNS-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022913)
+##### Artikel 9ter. Tijdelijke vermogenstoetsuitzonderingen voor drie jaar
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) die is verkregen als gevolg van een op grond van de [Regeling tegemoetkoming stoffengerelateerde beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047535) of de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](https://wetten.overheid.nl/jci1.3:c:BWBR0022913) verkregen tegemoetkoming.
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met een bedrag ter grootte van de volgende aangewezen toekenningen, waaronder mede begrepen de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98):
 
-2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
+- a. een eenmalige aanvullende financiële bijdrage die is toegekend door de Stichting Zorg na Werk in Coronazorg;
 
-3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+- b. een eenmalige uitkering die is toegekend op grond van de [Tijdelijke Regeling eenmalige uitkering Dutchbat-III-veteranen](https://wetten.overheid.nl/jci1.3:c:BWBR0045697);
+
+- c. een schadevergoeding die is toegekend door de Commissie Uitvoering civielrechtelijke regeling Srebrenica, bedoeld in het [Instellingsbesluit Commissie Uitvoering civielrechtelijke regeling Srebrenica](https://wetten.overheid.nl/jci1.3:c:BWBR0043776);
+
+- d. een eenmalige tegemoetkoming die is toegekend op grond van de [Beleidsregel tegemoetkoming Wet wijziging geregistreerd geslacht 1985-2014](https://wetten.overheid.nl/jci1.3:c:BWBR0045577).
+
+2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste drie berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
+
+3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren, voor zover het verzoek ingevolge het tweede lid op deze berekeningsjaren betrekking kan hebben.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9quater. Tijdelijke vermogenstoetsuitzondering regelingen inzake de hersteloperatie toeslagen
 
-1. [Artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) blijft buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van:
+1. [Artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) blijft buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van en met inbegrip van de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98):
 
 - a. het verlagen of op nihil vaststellen van een terug te vorderen bedrag kinderopvangtoeslag in bijzondere omstandigheden vanwege de onevenredigheid van de nadelige gevolgen van een voor 23 oktober 2019 genomen beschikking tot vaststelling of tot terugvordering kinderopvangtoeslag in verhouding tot de met die beschikking te dienen doelen;
 
@@ -325,13 +357,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - o. een tegemoetkoming op grond van [afdeling 2.5 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.5);
 
-- p. een toegekende tegemoetkoming als bedoeld in de [artikelen 2.14c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14c), [2.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14d), en [2.14e, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14e).
+- p. een toegekende tegemoetkoming als bedoeld in de [artikelen 2.14c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14c), [2.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14d), en [2.14e, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14e);
+
+- q. een toegekend bedrag op grond van een voorziening als bedoeld in de [artikelen 2.9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [2.9b, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
+
+- r. een toegekende aanvullende compensatie of toegekende aanvullende O/GS-tegemoetkoming als bedoeld in de [artikelen 2.9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [2.9b, tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b).
 
 2. Op verzoek van de belanghebbende is het eerste lid van overeenkomstige toepassing ten aanzien van een bezitting als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3):
 
-- a. die is verkregen als gevolg van de feitelijke toebedeling aan de belanghebbende van een aan de voormalige partner van de belanghebbende toegekend bedrag als bedoeld in [artikel 2.7, eerste of tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7) of compensatie als bedoeld in [artikel 2.14h, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h); of
+- a. die is verkregen als gevolg van de feitelijke toebedeling aan de belanghebbende van een aan de voormalige partner van de belanghebbende toegekend bedrag als bedoeld in [artikel 2.7, eerste of tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7) of compensatie als bedoeld in [artikel 2.14h, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) en de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98); of
 
-- b. die is opgekomen van de zijde van een kind als gevolg van een tegemoetkoming als bedoeld in [artikel 2.12 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.12).
+- b. die is opgekomen van de zijde van een kind als gevolg van een tegemoetkoming als bedoeld in [artikel 2.12 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.12) en de daarmee samenhangende rente, bedoeld in [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98).
 
 3. De vermogenstoetsuitzonderingen, bedoeld in het eerste en tweede lid, gelden uitsluitend over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting verkregen werd. Een verzoek als bedoeld in het tweede lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarover de vermogenstoetsuitzonderingen kunnen gelden.
 
@@ -347,33 +383,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9quinquies. Tijdelijke vermogenstoetsuitzondering bijdrage Stichting Zorg na Werk in Coronazorg
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van een toegekende eenmalige aanvullende financiële bijdrage van de Stichting Zorg na Werk in Coronazorg.
-
-2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste drie berekeningsjaren volgend op het kalenderjaar waarin de bezitting, bedoeld in het eerste lid, verkregen werd.
-
-3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9sexies. Tijdelijke vermogenstoetsuitzondering compensatieregeling Dutchbat III en nabestaanden Srebrenica
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van:
-
-- a. een eenmalige uitkering als bedoeld in de [Tijdelijke Regeling eenmalige uitkering Dutchbat-III-veteranen](https://wetten.overheid.nl/jci1.3:c:BWBR0045697);
-
-- b. een schadevergoeding die is toegekend door de Commissie Uitvoering civielrechtelijke regeling Srebrenica, bedoeld in het [Instellingsbesluit Commissie Uitvoering civielrechtelijke regeling Srebrenica](https://wetten.overheid.nl/jci1.3:c:BWBR0043776).
-
-2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste drie berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
-
-3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarover de vermogenstoetsuitzondering kan gelden.
+Vervallen
 
 ##### Artikel 9septies. Tijdelijke vermogenstoetsuitzondering compensatieregeling transgender en intersekse personen
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van een toegekende tegemoetkoming als bedoeld in de [Beleidsregel tegemoetkoming Wet wijziging geregistreerd geslacht 1985-2014](https://wetten.overheid.nl/jci1.3:c:BWBR0045577).
-
-2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste drie berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
-
-3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarover de vermogenstoetsuitzondering kan gelden.
+Vervallen
 
 ##### Artikel 9c. Ondersteuning belanghebbenden
 
@@ -387,36 +407,26 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9octies. Tijdelijke vermogenstoetsuitzondering schadevergoeding overlevenden en nabestaanden van het schietincident in Alphen aan den Rijn
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van een schadevergoeding die na vaststelling van de schade door de Stichting Vergoeding schade slachtoffers schietincident Alphen aan den Rijn is toegekend aan de overlevenden en nabestaanden van het schietincident in Alphen aan den Rijn op 9 april 2011.
-
-2. Het verzoek kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
-
-3. Het verzoek wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+Vervallen
 
 ##### Artikel 9novies. Tijdelijke vermogenstoetsuitzondering immateriële schadevergoeding toegekend vanaf 1 januari 2024
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van de toekenning van een eenmalige uitkering van immateriële schadevergoeding die is toegekend vanaf 1 januari 2024.
-
-2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
-
-3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9decies. Tijdelijke vermogenstoetsuitzondering eenmalig bedrag ouderen van Surinaamse herkomst
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in[artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van de toekenning van een eenmalig bedrag als bedoeld in het [Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0048840).
-
-2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
-
-3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+Vervallen
 
 ##### Artikel 9undecies. Tijdelijke vermogenstoetsuitzondering compensatie wegens selectie aan de poort
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 3, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van een toegekende compensatie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=2&z=2025-06-19&g=2025-06-19), of een toegekende aanvullende compensatie als bedoeld in [artikel 5, eerste lid, van de Wet compensatie wegens selectie aan de poort](https://wetten.overheid.nl/jci1.3:c:BWBR0049128&artikel=5).
+Vervallen
 
-2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag of kindgebonden budget over de eerste tien berekeningsjaren volgend op het kalenderjaar waarin de bezitting werd verkregen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
+##### Artikel 9d. Overgangsrecht termijnverlenging in het kader van de toepassing van [Verordening (EG) nr. 987/2009](32009R0987) (PbEU 2009, L 284) ten gevolge van afschaffen rente
+
+[Artikel 9a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9a&z=2026-01-01&g=2026-01-01), zoals dat luidde op 31 december 2025 blijft van toepassing met betrekking tot beschikkingen die zien op de berekeningsjaren voorafgaand aan het berekeningsjaar 2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
