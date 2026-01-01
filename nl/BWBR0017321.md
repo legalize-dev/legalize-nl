@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -86,17 +86,17 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1. De maximum uurprijs bedraagt voor:
 
-- a. dagopvang € 10,71;
+- a. dagopvang € 11,23;
 
-- b. buitenschoolse opvang € 9,52; en
+- b. buitenschoolse opvang € 9,98; en
 
-- c. gastouderopvang € 8,10.
+- c. gastouderopvang € 8,49.
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -104,19 +104,19 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2025-01-01&g=2025-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2026-01-01&g=2026-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2025-01-01&g=2025-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2026-01-01&g=2026-01-01).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01), € 159.225, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), € 165.658, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), een kinderopvangtoeslag waarvan de hoogte 36,5 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -506,80 +506,80 @@ Vervallen
 | 194.885 | 198.154 | 33,3% | 68,5% |
 | 198.155 | en hoger | 33,3% | 67,6% |
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2025-01-01&g=2025-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01) van het Besluit kinderopvangtoeslag
 
-| **(gezamenlijk) Toetsingsinkomen (€)** | **(gezamenlijk) Toetsingsinkomen (€)** |   | **Tegemoetkoming Rijk als% van de kosten van kinderopvang** | **Tegemoetkoming Rijk als% van de kosten van kinderopvang** |
-| --- | --- | --- | --- | --- |
-| vanaf | tot en met |   | eerste kind | volgend kind |
-| t/m | 23.211 |   | 96,0% | 96,0% |
-| 23.212 | 24.756 |   | 96,0% | 96,0% |
-| 24.757 | 26.300 |   | 96,0% | 96,0% |
-| 26.301 | 27.848 |   | 96,0% | 96,0% |
-| 27.849 | 29.392 |   | 96,0% | 96,0% |
-| 29.393 | 30.939 |   | 96,0% | 96,0% |
-| 30.940 | 32.483 |   | 96,0% | 96,0% |
-| 32.484 | 34.025 |   | 96,0% | 96,0% |
-| 34.026 | 35.687 |   | 96,0% | 96,0% |
-| 35.688 | 37.346 |   | 96,0% | 96,0% |
-| 37.347 | 39.010 |   | 96,0% | 96,0% |
-| 39.011 | 40.670 |   | 96,0% | 96,0% |
-| 40.671 | 42.336 |   | 96,0% | 96,0% |
-| 42.337 | 43.998 |   | 96,0% | 96,0% |
-| 43.999 | 45.700 |   | 96,0% | 96,0% |
-| 45.701 | 47.403 |   | 96,0% | 96,0% |
-| 47.404 | 49.108 |   | 95,3% | 95,6% |
-| 49.109 | 50.811 |   | 94,6% | 95,2% |
-| 50.812 | 52.519 |   | 93,7% | 94,8% |
-| 52.520 | 54.221 |   | 93,1% | 94,5% |
-| 54.222 | 55.925 |   | 92,3% | 94,5% |
-| 55.926 | 57.629 |   | 91,6% | 94,5% |
-| 57.630 | 59.492 |   | 90,7% | 94,5% |
-| 59.493 | 63.144 |   | 89,2% | 94,5% |
-| 63.145 | 66.794 |   | 88,4% | 94,1% |
-| 66.795 | 70.446 |   | 87,3% | 93,5% |
-| 70.447 | 74.100 |   | 85,0% | 93,1% |
-| 74.101 | 77.750 |   | 82,7% | 92,8% |
-| 77.751 | 81.404 |   | 80,5% | 92,1% |
-| 81.405 | 85.055 |   | 78,0% | 91,6% |
-| 85.056 | 88.707 |   | 75,7% | 91,1% |
-| 88.708 | 92.360 |   | 73,5% | 90,4% |
-| 92.361 | 96.010 |   | 71,1% | 89,8% |
-| 96.011 | 99.667 |   | 68,9% | 89,4% |
-| 99.668 | 103.318 |   | 66,4% | 89,1% |
-| 103.319 | 106.968 |   | 64,1% | 88,4% |
-| 106.969 | 110.621 |   | 61,9% | 88,0% |
-| 110.622 | 114.344 |   | 59,5% | 87,5% |
-| 114.345 | 118.086 |   | 57,4% | 86,8% |
-| 118.087 | 121.825 |   | 55,3% | 86,3% |
-| 121.826 | 125.565 |   | 53,2% | 85,9% |
-| 125.566 | 129.303 |   | 51,0% | 85,6% |
-| 129.304 | 133.045 |   | 49,1% | 84,9% |
-| 133.046 | 136.786 |   | 47,2% | 84,3% |
-| 136.787 | 140.528 |   | 45,3% | 83,9% |
-| 140.529 | 144.264 |   | 43,3% | 83,3% |
-| 144.265 | 148.003 |   | 41,3% | 82,9% |
-| 148.004 | 151.746 |   | 39,3% | 82,2% |
-| 151.747 | 155.484 |   | 37,3% | 81,6% |
-| 155.485 | 159.224 |   | 35,3% | 80,6% |
-| 159.225 | 162.963 |   | 33,3% | 80,3% |
-| 162.964 | 166.705 |   | 33,3% | 79,5% |
-| 166.706 | 170.449 |   | 33,3% | 78,6% |
-| 170.450 | 174.186 |   | 33,3% | 78,0% |
-| 174.187 | 177.926 |   | 33,3% | 77,1% |
-| 177.927 | 181.663 |   | 33,3% | 76,6% |
-| 181.664 | 185.406 |   | 33,3% | 75,8% |
-| 185.407 | 189.147 |   | 33,3% | 75,1% |
-| 189.148 | 192.888 |   | 33,3% | 74,4% |
-| 192.889 | 196.627 |   | 33,3% | 73,4% |
-| 196.628 | 200.363 |   | 33,3% | 72,9% |
-| 200.364 | 204.107 |   | 33,3% | 72,2% |
-| 204.108 | 207.845 |   | 33,3% | 71,4% |
-| 207.846 | 211.586 |   | 33,3% | 70,7% |
-| 211.587 | 215.327 |   | 33,3% | 70,1% |
-| 215.328 | 219.065 |   | 33,3% | 69,3% |
-| 219.066 | 222.806 |   | 33,3% | 68,5% |
-| 222.807 | 226.545 |   | 33,3% | 68,0% |
-| 226.546 | en hoger | en hoger | 33,3% | 67,1% |
+| **Toetsingsinkomen** | **Toetsingsinkomen** | **Vergoedingspercentage** | **Vergoedingspercentage** |
+| --- | --- | --- | --- |
+| vanaf | tot en met | eerste kind | volgend kind |
+| € 0 | € 24.149 | 96,0% | 96,0% |
+| € 24.150 | € 25.756 | 96,0% | 96,0% |
+| € 25.757 | € 27.363 | 96,0% | 96,0% |
+| € 27.364 | € 28.973 | 96,0% | 96,0% |
+| € 28.974 | € 30.579 | 96,0% | 96,0% |
+| € 30.580 | € 32.189 | 96,0% | 96,0% |
+| € 32.190 | € 33.795 | 96,0% | 96,0% |
+| € 33.796 | € 35.400 | 96,0% | 96,0% |
+| € 35.401 | € 37.129 | 96,0% | 96,0% |
+| € 37.130 | € 38.855 | 96,0% | 96,0% |
+| € 38.856 | € 40.586 | 96,0% | 96,0% |
+| € 40.587 | € 42.313 | 96,0% | 96,0% |
+| € 42.314 | € 44.046 | 96,0% | 96,0% |
+| € 44.047 | € 45.776 | 96,0% | 96,0% |
+| € 45.777 | € 47.546 | 96,0% | 96,0% |
+| € 47.547 | € 49.318 | 96,0% | 96,0% |
+| € 49.319 | € 51.092 | 96,0% | 96,0% |
+| € 51.093 | € 52.864 | 96,0% | 96,0% |
+| € 52.865 | € 54.641 | 96,0% | 96,0% |
+| € 54.642 | € 56.412 | 96,0% | 96,0% |
+| € 56.413 | € 58.184 | 95,5% | 95,6% |
+| € 58.185 | € 59.957 | 94,8% | 95,6% |
+| € 59.958 | € 61.895 | 93,9% | 95,6% |
+| € 61.896 | € 65.695 | 92,4% | 95,6% |
+| € 65.696 | € 69.492 | 91,6% | 95,2% |
+| € 69.493 | € 73.292 | 90,5% | 94,6% |
+| € 73.293 | € 77.094 | 88,2% | 94,2% |
+| € 77.095 | € 80.891 | 85,9% | 93,9% |
+| € 80.892 | € 84.693 | 83,7% | 93,2% |
+| € 84.694 | € 88.491 | 81,2% | 92,7% |
+| € 88.492 | € 92.291 | 78,9% | 92,2% |
+| € 92.292 | € 96.091 | 76,7% | 91,5% |
+| € 96.092 | € 99.889 | 74,3% | 90,9% |
+| € 99.890 | € 103.694 | 72,1% | 90,5% |
+| € 103.695 | € 107.492 | 69,6% | 90,2% |
+| € 107.493 | € 111.290 | 67,3% | 89,5% |
+| € 111.291 | € 115.090 | 65,1% | 89,1% |
+| € 115.091 | € 118.963 | 62,7% | 88,6% |
+| € 118.964 | € 122.857 | 60,6% | 87,9% |
+| € 122.858 | € 126.747 | 58,5% | 87,4% |
+| € 126.748 | € 130.638 | 56,4% | 87,0% |
+| € 130.639 | € 134.527 | 54,2% | 86,7% |
+| € 134.528 | € 138.420 | 52,3% | 86,0% |
+| € 138.421 | € 142.312 | 50,4% | 85,4% |
+| € 142.313 | € 146.205 | 48,5% | 85,0% |
+| € 146.206 | € 150.092 | 46,5% | 84,4% |
+| € 150.093 | € 153.982 | 44,5% | 84,0% |
+| € 153.983 | € 157.877 | 42,5% | 83,3% |
+| € 157.878 | € 161.766 | 40,5% | 82,7% |
+| € 161.767 | € 165.657 | 38,5% | 81,7% |
+| € 165.658 | € 169.547 | 36,5% | 81,4% |
+| € 169.548 | € 173.440 | 36,5% | 80,6% |
+| € 173.441 | € 177.335 | 36,5% | 79,7% |
+| € 177.336 | € 181.223 | 36,5% | 79,1% |
+| € 181.224 | € 185.114 | 36,5% | 78,2% |
+| € 185.115 | € 189.002 | 36,5% | 77,7% |
+| € 189.003 | € 192.896 | 36,5% | 76,9% |
+| € 192.897 | € 196.789 | 36,5% | 76,2% |
+| € 196.790 | € 200.681 | 36,5% | 75,5% |
+| € 200.682 | € 204.571 | 36,5% | 74,5% |
+| € 204.572 | € 208.458 | 36,5% | 74,0% |
+| € 208.459 | € 212.353 | 36,5% | 73,3% |
+| € 212.354 | € 216.242 | 36,5% | 72,5% |
+| € 216.243 | € 220.134 | 36,5% | 71,8% |
+| € 220.135 | € 224.026 | 36,5% | 71,2% |
+| € 224.027 | € 227.915 | 36,5% | 70,4% |
+| € 227.916 | € 231.807 | 36,5% | 69,6% |
+| € 231.808 | € 235.697 | 36,5% | 69,1% |
+| € 235.698 | en hoger | 36,5% | 68,2% |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
@@ -621,13 +621,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-01-01&g=2025-01-01) worden voor het berekeningsjaar 2025:
-
-- a. de bedragen, bedoeld in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), geïndexeerd met 4,83%;
-
-- b. het bedrag, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), geïndexeerd met 4,83%; en
-
-- c. de bedragen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), na indexatie verlaagd met € 0,04.
+Vervallen
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
