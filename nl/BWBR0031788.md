@@ -4,7 +4,7 @@ identifier: "BWBR0031788"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-23"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031788"
 soort: "wet"
@@ -51,17 +51,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
 
-- b. **politie:** het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2025-07-01&g=2025-07-01);
+- b. **politie:** het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2026-01-01&g=2026-01-01);
 
-- c. **korpschef:** de korpschef, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=27&z=2025-07-01&g=2025-07-01);
+- c. **korpschef:** de korpschef, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=27&z=2026-01-01&g=2026-01-01);
 
 - d. **eenheid:** een regionale of landelijke eenheid;
 
-- e. **regionale eenheid:** een regionale eenheid van de politie als bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2025-07-01&g=2025-07-01);
+- e. **regionale eenheid:** een regionale eenheid van de politie als bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2026-01-01&g=2026-01-01);
 
-- f. **landelijke eenheid:** een landelijke eenheid van de politie als bedoeld in [artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2025-07-01&g=2025-07-01);
+- f. **landelijke eenheid:** een landelijke eenheid van de politie als bedoeld in [artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2026-01-01&g=2026-01-01);
 
-- g. **regioburgemeester:** de regioburgemeester, bedoeld in [artikel 38c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38c&z=2025-07-01&g=2025-07-01);
+- g. **regioburgemeester:** de regioburgemeester, bedoeld in [artikel 38c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38c&z=2026-01-01&g=2026-01-01);
 
 - h. **politiechef:** het hoofd van een regionale of landelijke eenheid;
 
@@ -75,13 +75,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - j. **wijkagent:** ambtenaar van politie die, gerelateerd aan het aantal inwoners, als onderdeel van een basisteam ten behoeve van een gemeente beschikbaar is voor de uitvoering van de politietaak;
 
-- k. **Politieacademie:** de Politieacademie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=73&z=2025-07-01&g=2025-07-01);
+- k. **Politieacademie:** de Politieacademie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=73&z=2026-01-01&g=2026-01-01);
 
-- l. **directeur van de Politieacademie:** de directeur, bedoeld in [artikel 73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=73&z=2025-07-01&g=2025-07-01);
+- l. **directeur van de Politieacademie:** de directeur, bedoeld in [artikel 73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=73&z=2026-01-01&g=2026-01-01);
 
-- m. **raad van advies van de Politieacademie:** de raad van advies, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=77&z=2025-07-01&g=2025-07-01);
+- m. **raad van advies van de Politieacademie:** de raad van advies, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=77&z=2026-01-01&g=2026-01-01);
 
-- n. **politieonderwijsraad:** de politieonderwijsraad, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=82&z=2025-07-01&g=2025-07-01);
+- n. **politieonderwijsraad:** de politieonderwijsraad, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=82&z=2026-01-01&g=2026-01-01);
 
 - o. **politieonderwijs:** onderwijs gericht op de uitoefening van de politietaak;
 
@@ -91,7 +91,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - r. **kwalificatiestructuur:** het stelsel van kwalificatiedossiers;
 
-- s. **politieopleidingen:** opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2025-07-01&g=2025-07-01), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen wordt uitgereikt:
+- s. **politieopleidingen:** opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2026-01-01&g=2026-01-01), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen wordt uitgereikt:
 
 - 1°. een diploma ten bewijze van de behaalde kwalificatie op een niveau dat overeenkomt met een niveau als bedoeld in [artikel 7.2.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of op een niveau dat op grond van [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a) of [artikel 7.10b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10b) recht geeft op het voeren van de graad Associate degree, Bachelor of Master;
 
@@ -121,9 +121,9 @@ Ambtenaren van politie in de zin van deze wet zijn:
 
 ##### Artikel 2a
 
-1. De personen die met inachtneming van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2025-07-01&g=2025-07-01), werkzaam zijn ten behoeve van de Politieacademie, worden gelijkgesteld met ambtenaren van politie als bedoeld in [artikel 2, onder a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), voor zover zij direct daaraan voorafgaand ambtenaren van politie als bedoeld in artikel 2, onder a, b onderscheidenlijk c, waren. De eerste volzin is van overeenkomstige toepassing op de personen die met inachtneming van [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=83&z=2025-07-01&g=2025-07-01), werkzaam zijn ten behoeve van de politieonderwijsraad.
+1. De personen die met inachtneming van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2026-01-01&g=2026-01-01), werkzaam zijn ten behoeve van de Politieacademie, worden gelijkgesteld met ambtenaren van politie als bedoeld in [artikel 2, onder a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voor zover zij direct daaraan voorafgaand ambtenaren van politie als bedoeld in artikel 2, onder a, b onderscheidenlijk c, waren. De eerste volzin is van overeenkomstige toepassing op de personen die met inachtneming van [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=83&z=2026-01-01&g=2026-01-01), werkzaam zijn ten behoeve van de politieonderwijsraad.
 
-2. In afwijking van [artikel 16 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=16) zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01) op de personen, bedoeld in het eerste lid, die zijn aangesteld voor de uitvoering van de politietaak, van toepassing, voor zover zij optreden ter handhaving van de openbare orde of ter uitvoering van de hulpverleningstaak onderscheidenlijk ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie.
+2. In afwijking van [artikel 16 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=16) zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01) op de personen, bedoeld in het eerste lid, die zijn aangesteld voor de uitvoering van de politietaak, van toepassing, voor zover zij optreden ter handhaving van de openbare orde of ter uitvoering van de hulpverleningstaak onderscheidenlijk ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie.
 
 ### Hoofdstuk 2. De uitvoering van de politietaak
 
@@ -143,7 +143,7 @@ De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overe
 
 - c. de uitvoering van de politietaak op de luchthaven Schiphol en op de andere door Onze Minister en Onze Minister van Defensie aangewezen luchtvaartterreinen, alsmede de beveiliging van de burgerluchtvaart;
 
-- d. de verlening van bijstand alsmede de samenwerking met de politie krachtens deze wet, daaronder begrepen de assistentieverlening aan de politie bij de bestrijding van grensoverschrijdende criminaliteit, het bewaken en beveiligen van objecten en diensten en het waken over de veiligheid van aangewezen personen als bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01);
+- d. de verlening van bijstand alsmede de samenwerking met de politie krachtens deze wet, daaronder begrepen de assistentieverlening aan de politie bij de bestrijding van grensoverschrijdende criminaliteit, het bewaken en beveiligen van objecten en diensten en het waken over de veiligheid van aangewezen personen als bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01);
 
 - e. de uitvoering van de politietaak op plaatsen onder beheer van Onze Minister van Defensie, op verboden plaatsen die krachtens de [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074) ten behoeve van de landsverdediging zijn aangewezen, alsmede op het terrein van de ambtswoning van Onze Minister-President;
 
@@ -189,7 +189,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 4. De ambtenaar van politie, bedoeld in het eerste lid, is bevoegd een te vervoeren of in te sluiten persoon aan zijn kleding te onderzoeken op de aanwezigheid van voorwerpen die een gevaar voor de veiligheid van betrokkene of voor anderen kunnen vormen, alsmede daartoe de voorwerpen te onderzoeken die betrokkene bij zich draagt of met zich mee voert.
 
-5. Het hoofd van het territoriale onderdeel, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2025-07-01&g=2025-07-01), zijn plaatsvervanger of de ambtenaar van politie, belast met de leiding over de zorg voor ingeslotenen, kan bepalen dat een in te sluiten of ingesloten persoon bij binnenkomst of bij het verlaten van een politiecel of een politiecellencomplex, voorafgaand aan of na afloop van bezoek, dan wel indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in het politiebureau of het cellencomplex, aan zijn lichaam wordt onderzocht. [Artikel 29, derde, vierde en vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=29) is van overeenkomstige toepassing.
+5. Het hoofd van het territoriale onderdeel, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01), zijn plaatsvervanger of de ambtenaar van politie, belast met de leiding over de zorg voor ingeslotenen, kan bepalen dat een in te sluiten of ingesloten persoon bij binnenkomst of bij het verlaten van een politiecel of een politiecellencomplex, voorafgaand aan of na afloop van bezoek, dan wel indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in het politiebureau of het cellencomplex, aan zijn lichaam wordt onderzocht. [Artikel 29, derde, vierde en vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=29) is van overeenkomstige toepassing.
 
 6. De officier van justitie kan bepalen dat een in te sluiten of ingesloten persoon in het lichaam wordt onderzocht, indien dit noodzakelijk is ter afwending van ernstig gevaar voor de handhaving van de orde of de veiligheid in het politiebureau of het cellencomplex dan wel voor de gezondheid van de ingeslotene. Het onderzoek in het lichaam wordt verricht door een arts of, in diens opdracht, door een verpleegkundige. [Artikel 31, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=31) is van overeenkomstige toepassing.
 
@@ -197,7 +197,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 8. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op de militair van de Koninklijke marechaussee, indien hij optreedt in de rechtmatige uitoefening van zijn bediening, en op de militair van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent. Het vijfde en zesde lid zijn van overeenkomstige toepassing indien een persoon wordt of is ingesloten door de Koninklijke marechaussee, met dien verstande dat de beslissing, bedoeld in het vijfde lid, eerste volzin, wordt genomen door de commandant van de betrokken brigade, zijn plaatsvervanger of de militair van de Koninklijke marechaussee, belast met de zorg voor ingeslotenen.
 
-9. Onze Minister kan bepalen dat de in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) bedoelde buitengewone opsporingsambtenaren, voor zover door hem hetzij in persoon, hetzij per categorie of eenheid aangewezen, de bevoegdheden omschreven in het eerste, derde en vierde lid kunnen uitoefenen. Alsdan wordt met overeenkomstige toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-01&g=2025-07-01) een ambtsinstructie voor hen vastgesteld.
+9. Onze Minister kan bepalen dat de in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) bedoelde buitengewone opsporingsambtenaren, voor zover door hem hetzij in persoon, hetzij per categorie of eenheid aangewezen, de bevoegdheden omschreven in het eerste, derde en vierde lid kunnen uitoefenen. Alsdan wordt met overeenkomstige toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2026-01-01&g=2026-01-01) een ambtsinstructie voor hen vastgesteld.
 
 ##### Artikel 8
 
@@ -213,13 +213,13 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 2. Indien de militair van enig ander onderdeel van de krijgsmacht op grond van deze wet bijstand verleent is de ambtsinstructie van toepassing.
 
-3. In de ambtsinstructie worden regels gesteld ter uitvoering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-07-01&g=2025-07-01).
+3. In de ambtsinstructie worden regels gesteld ter uitvoering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2026-01-01&g=2026-01-01).
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent maatregelen waaraan rechtens van hun vrijheid beroofde personen met het oog op hun insluiting kunnen worden onderworpen, voor zover dit noodzakelijk is in het belang van hun veiligheid of de veiligheid van anderen.
 
 5. Het vierde lid is van overeenkomstige toepassing op personen die ten behoeve van de hulpverlening aan hen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
 
-6. De ambtenaren die door Onze Minister zijn aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen, kunnen de bevoegdheden, bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-07-01&g=2025-07-01), uitoefenen, dan wel de maatregelen, bedoeld in het vierde lid, treffen, voor zover dit noodzakelijk is om te voorkomen dat de te vervoeren persoon zich onttrekt aan het op hem uitgeoefende toezicht. De eerste volzin is van toepassing voor zover de rechtens van hun vrijheid beroofde personen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
+6. De ambtenaren die door Onze Minister zijn aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen, kunnen de bevoegdheden, bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2026-01-01&g=2026-01-01), uitoefenen, dan wel de maatregelen, bedoeld in het vierde lid, treffen, voor zover dit noodzakelijk is om te voorkomen dat de te vervoeren persoon zich onttrekt aan het op hem uitgeoefende toezicht. De eerste volzin is van toepassing voor zover de rechtens van hun vrijheid beroofde personen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
 
 7. De voordracht voor de algemene maatregel van bestuur, bedoeld in het eerste en het vierde lid, geschiedt door Onze Minister in overeenstemming met Onze Minister van Defensie voor zover het de Koninklijke marechaussee betreft.
 
@@ -249,7 +249,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 1. De burgemeester en de officier van justitie overleggen regelmatig tezamen met het hoofd van het territoriale onderdeel van de regionale eenheid binnen welker grondgebied de gemeente geheel of ten dele valt, en zo nodig met de politiechef van een regionale eenheid, over de taakuitvoering van de politie en over het beleid ten aanzien van de taakuitvoering (driehoeksoverleg).
 
-2. In het driehoeksoverleg worden door de burgemeester en de officier van justitie afspraken gemaakt over de inzet van de politie ten behoeve van de handhaving van de openbare orde en de hulpverlening, onderscheidenlijk ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de taken ten dienste van de justitie. De afspraken worden mede gemaakt op basis van de doelen, bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38b&z=2025-07-01&g=2025-07-01).
+2. In het driehoeksoverleg worden door de burgemeester en de officier van justitie afspraken gemaakt over de inzet van de politie ten behoeve van de handhaving van de openbare orde en de hulpverlening, onderscheidenlijk ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de taken ten dienste van de justitie. De afspraken worden mede gemaakt op basis van de doelen, bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38b&z=2026-01-01&g=2026-01-01).
 
 3. Op verzoek van de burgemeester vindt het driehoeksoverleg plaats op gemeentelijk niveau.
 
@@ -257,17 +257,17 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 ##### Artikel 14
 
-1. Voor zover de Koninklijke marechaussee in een gemeente optreedt ter handhaving van de openbare orde, staat zij onder gezag van de burgemeester. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+1. Voor zover de Koninklijke marechaussee in een gemeente optreedt ter handhaving van de openbare orde, staat zij onder gezag van de burgemeester. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-2. Voor zover de Koninklijke marechaussee optreedt ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie, staat zij, tenzij in enige wet anders is bepaald, onder gezag van de officier van justitie. [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+2. Voor zover de Koninklijke marechaussee optreedt ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie, staat zij, tenzij in enige wet anders is bepaald, onder gezag van de officier van justitie. [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-3. Indien de Koninklijke marechaussee optreedt als bedoeld in het eerste of tweede lid, neemt de commandant van de Koninklijke marechaussee deel aan het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2025-07-01&g=2025-07-01), tenzij sprake is van het verlenen van bijstand of assistentie aan de politie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-07-01&g=2025-07-01), in welk geval de commandant van de Koninklijke marechaussee aan het overleg kan deelnemen.
+3. Indien de Koninklijke marechaussee optreedt als bedoeld in het eerste of tweede lid, neemt de commandant van de Koninklijke marechaussee deel aan het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01), tenzij sprake is van het verlenen van bijstand of assistentie aan de politie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01), in welk geval de commandant van de Koninklijke marechaussee aan het overleg kan deelnemen.
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing op de militair van enig ander onderdeel van de krijgsmacht, indien hij bijstand verleent.
 
 ##### Artikel 15
 
-1. De burgemeester is aan de gemeenteraad verantwoording schuldig over het door hem uitgeoefende gezag, bedoeld in de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), en [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-07-01&g=2025-07-01).
+1. De burgemeester is aan de gemeenteraad verantwoording schuldig over het door hem uitgeoefende gezag, bedoeld in de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01), en [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01).
 
 2. [Artikel 180, tweede en derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=180) is van toepassing.
 
@@ -283,7 +283,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 ##### Artikel 17
 
-1. Ten behoeve van de toepassing van de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2025-07-01&g=2025-07-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2025-07-01&g=2025-07-01), verstrekken de burgemeesters en Onze Minister elkaar de gewenste inlichtingen.
+1. Ten behoeve van de toepassing van de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2026-01-01&g=2026-01-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2026-01-01&g=2026-01-01), verstrekken de burgemeesters en Onze Minister elkaar de gewenste inlichtingen.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste lid.
 
@@ -309,21 +309,21 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 - a. de inrichting van de politie;
 
-- b. de landelijke beleidsdoelstellingen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2025-07-01&g=2025-07-01), en de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2025-07-01&g=2025-07-01);
+- b. de landelijke beleidsdoelstellingen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2026-01-01&g=2026-01-01), en de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2026-01-01&g=2026-01-01);
 
-- c. de verdeling van sterkte, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2025-07-01&g=2025-07-01);
+- c. de verdeling van sterkte, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2026-01-01&g=2026-01-01);
 
-- d. de door Onze Minister voorgenomen begroting en meerjarenraming, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=34&z=2025-07-01&g=2025-07-01), de door Onze Minister voorgenomen jaarrekening, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=35&z=2025-07-01&g=2025-07-01) en het door Onze Minister voorgenomen beheersplan en jaarverslag, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=37&z=2025-07-01&g=2025-07-01);
+- d. de door Onze Minister voorgenomen begroting en meerjarenraming, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=34&z=2026-01-01&g=2026-01-01), de door Onze Minister voorgenomen jaarrekening, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=35&z=2026-01-01&g=2026-01-01) en het door Onze Minister voorgenomen beheersplan en jaarverslag, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=37&z=2026-01-01&g=2026-01-01);
 
-- e. de benoeming van de leden van de leiding van de politie, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2025-07-01&g=2025-07-01);
+- e. de benoeming van de leden van de leiding van de politie, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2026-01-01&g=2026-01-01);
 
 - f. voorstellen van wet, ontwerpen van algemene maatregel van bestuur en ontwerpen van ministeriële regeling die geheel of voor een belangrijk deel betrekking hebben op de taakuitvoering door en het beheer ten aanzien van de politie, en
 
-- g. de bijstand op basis van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=56&z=2025-07-01&g=2025-07-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=57&z=2025-07-01&g=2025-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=58&z=2025-07-01&g=2025-07-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.3&artikel=61&z=2025-07-01&g=2025-07-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2025-07-01&g=2025-07-01).
+- g. de bijstand op basis van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=56&z=2026-01-01&g=2026-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=57&z=2026-01-01&g=2026-01-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.1&artikel=58&z=2026-01-01&g=2026-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.3&artikel=61&z=2026-01-01&g=2026-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 20
 
-1. Onze Minister stelt, gehoord het College van procureurs-generaal en de regioburgemeesters, met inachtneming van de omstandigheden van de betrokken eenheid, ten minste eenmaal in de vier jaar voor iedere regionale en landelijke eenheid de doelstellingen vast ter verwezenlijking van de landelijke beleidsdoelstellingen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2025-07-01&g=2025-07-01). Alvorens een regioburgemeester de gezamenlijke zienswijze van de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert geeft, hoort hij deze burgemeesters over de doelen die de gemeenten op het terrein van de veiligheid nastreven.
+1. Onze Minister stelt, gehoord het College van procureurs-generaal en de regioburgemeesters, met inachtneming van de omstandigheden van de betrokken eenheid, ten minste eenmaal in de vier jaar voor iedere regionale en landelijke eenheid de doelstellingen vast ter verwezenlijking van de landelijke beleidsdoelstellingen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2026-01-01&g=2026-01-01). Alvorens een regioburgemeester de gezamenlijke zienswijze van de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert geeft, hoort hij deze burgemeesters over de doelen die de gemeenten op het terrein van de veiligheid nastreven.
 
 2. Indien daarvoor bijzondere redenen zijn, kunnen de doelstellingen voor een regionale of landelijke eenheid tussentijds worden gewijzigd of aangevuld.
 
@@ -345,11 +345,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 - b. de informatiebeveiliging door de politie en door andere organisaties als bedoeld in onderdeel a.
 
-2. Voor zover de regels, bedoeld in het eerste lid, van belang zijn voor de uitvoering van de politietaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-07-01&g=2025-07-01), kunnen zij, in overeenstemming met Onze Minister van Defensie, mede worden gesteld ten aanzien van de Koninklijke marechaussee.
+2. Voor zover de regels, bedoeld in het eerste lid, van belang zijn voor de uitvoering van de politietaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01), kunnen zij, in overeenstemming met Onze Minister van Defensie, mede worden gesteld ten aanzien van de Koninklijke marechaussee.
 
 3. Onze Minister kan de regionale en landelijke eenheden frequenties toewijzen voor de overdracht van gegevens door middel van de daartoe geëigende aangewezen informatie- en communicatievoorzieningen.
 
-4. Bij regeling van Onze Minister, in overeenstemming met Onze Ministers die het mede aangaat, en gehoord de Regionale Ambulancevoorzieningen en de besturen van de veiligheidsregio’s, kunnen nadere regels worden gesteld over de meldkamers, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2025-07-01&g=2025-07-01).
+4. Bij regeling van Onze Minister, in overeenstemming met Onze Ministers die het mede aangaat, en gehoord de Regionale Ambulancevoorzieningen en de besturen van de veiligheidsregio’s, kunnen nadere regels worden gesteld over de meldkamers, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 24
 
@@ -395,7 +395,7 @@ De politie heeft rechtspersoonlijkheid en is gevestigd in een door Onze Minister
 
 1. De korpschef wordt bij koninklijk besluit benoemd, geschorst en ontslagen. Over de benoeming worden de regioburgemeesters en het College van procureurs-generaal in de gelegenheid gesteld advies uit te brengen. De korpschef wordt benoemd voor een periode van zes jaren en kan telkens worden herbenoemd voor een periode van drie jaren.
 
-2. De korpschef is een ambtenaar van politie als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01).
+2. De korpschef is een ambtenaar van politie als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
 3. Bij ministeriële regeling worden ambtenaren van politie aangewezen die deel uitmaken van de leiding van de politie. Zij worden bij koninklijk besluit benoemd, geschorst en ontslagen. Over de benoeming worden de regioburgemeesters en het College van procureurs-generaal in de gelegenheid gesteld advies uit te brengen. Onze Minister wijst uit het midden van de leiding van de politie een plaatsvervangend korpschef aan.
 
@@ -449,7 +449,7 @@ Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die mede bet
 
 ##### Artikel 36
 
-1. Onze Minister verdeelt de sterkte en middelen over de onderdelen van de politie, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2025-07-01&g=2025-07-01). Hij bepaalt daarbij welk deel van de sterkte op grond van [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=83&z=2025-07-01&g=2025-07-01), feitelijk ter beschikking wordt gesteld aan de politieonderwijsraad en welk deel van de sterkte en middelen op grond van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2025-07-01&g=2025-07-01), feitelijk ter beschikking wordt gesteld aan de Politieacademie.
+1. Onze Minister verdeelt de sterkte en middelen over de onderdelen van de politie, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2026-01-01&g=2026-01-01). Hij bepaalt daarbij welk deel van de sterkte op grond van [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=83&z=2026-01-01&g=2026-01-01), feitelijk ter beschikking wordt gesteld aan de politieonderwijsraad en welk deel van de sterkte en middelen op grond van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2026-01-01&g=2026-01-01), feitelijk ter beschikking wordt gesteld aan de Politieacademie.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over deze verdeling.
 
@@ -459,11 +459,11 @@ Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die mede bet
 
 1. Onze Minister stelt jaarlijks een beheersplan en een jaarverslag vast voor de politie. De korpschef stelt een ontwerp van een beheersplan en een ontwerp van een jaarverslag op.
 
-2. Het beheersplan bevat in ieder geval de indeling van de eenheden als bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2025-07-01&g=2025-07-01), in districten en basisteams.
+2. Het beheersplan bevat in ieder geval de indeling van de eenheden als bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25&z=2026-01-01&g=2026-01-01), in districten en basisteams.
 
 3. De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid zijn politietaak uitvoert en de hoofdofficier van justitie worden door de korpschef gehoord over de indeling van de regionale eenheid en de omvang van de onderdelen ervan.
 
-4. Het jaarverslag omvat een omschrijving van de realisatie van het beheersplan en een omschrijving van de door de regionale en landelijke eenheden gerealiseerde activiteiten ter verwezenlijking van de landelijke beleidsdoelstellingen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2025-07-01&g=2025-07-01).
+4. Het jaarverslag omvat een omschrijving van de realisatie van het beheersplan en een omschrijving van de door de regionale en landelijke eenheden gerealiseerde activiteiten ter verwezenlijking van de landelijke beleidsdoelstellingen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=18&z=2026-01-01&g=2026-01-01).
 
 ### Afdeling 3.3. De regionale eenheden
 
@@ -483,7 +483,7 @@ Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die mede bet
 
 1. De gemeenteraad stelt ten minste eenmaal in de vier jaar de doelen vast die de gemeente op het terrein van de veiligheid nastreeft door de handhaving van de openbare orde en de hulpverlening door de politie.
 
-2. Voorafgaand aan de vaststelling van het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2025-07-01&g=2025-07-01), hoort de burgemeester van een gemeente in het gebied waarin de regionale eenheid de politietaak uitvoert, de gemeenteraad van die gemeente over het ontwerpbeleidsplan.
+2. Voorafgaand aan de vaststelling van het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2026-01-01&g=2026-01-01), hoort de burgemeester van een gemeente in het gebied waarin de regionale eenheid de politietaak uitvoert, de gemeenteraad van die gemeente over het ontwerpbeleidsplan.
 
 ##### Artikel 38c
 
@@ -493,11 +493,11 @@ Onze Minister stelt jaarlijks een jaarrekening vast van de politie, die mede bet
 
 ##### Artikel 38d
 
-De regioburgemeester legt over de uitoefening van zijn taken op grond van deze wet en zijn bevoegdheid op grond van [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2025-07-01&g=2025-07-01), verantwoording af aan de overige burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert.
+De regioburgemeester legt over de uitoefening van zijn taken op grond van deze wet en zijn bevoegdheid op grond van [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2026-01-01&g=2026-01-01), verantwoording af aan de overige burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert.
 
 ##### Artikel 39
 
-1. De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie stellen ten minste eenmaal in de vier jaar, met inachtneming van de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2025-07-01&g=2025-07-01), het beleidsplan en jaarlijks het jaarverslag voor de regionale eenheid vast. Het beleidsplan omvat in ieder geval de verdeling van de beschikbare politiesterkte waaronder de beschikbare wijkagenten, bedoeld in [artikel 38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38a&z=2025-07-01&g=2025-07-01), over de onderdelen van de regionale eenheid, rekening houdend met het belang van een goede vervulling van de politietaak in alle betrokken gemeenten en de doelen, bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38b&z=2025-07-01&g=2025-07-01).
+1. De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie stellen ten minste eenmaal in de vier jaar, met inachtneming van de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2026-01-01&g=2026-01-01), het beleidsplan en jaarlijks het jaarverslag voor de regionale eenheid vast. Het beleidsplan omvat in ieder geval de verdeling van de beschikbare politiesterkte waaronder de beschikbare wijkagenten, bedoeld in [artikel 38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38a&z=2026-01-01&g=2026-01-01), over de onderdelen van de regionale eenheid, rekening houdend met het belang van een goede vervulling van de politietaak in alle betrokken gemeenten en de doelen, bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38b&z=2026-01-01&g=2026-01-01).
 
 2. Indien het beleidsplan of het jaarverslag niet overeenkomstig de eerste volzin van het eerste lid kunnen worden vastgesteld, stelt de regioburgemeester in overeenstemming met de hoofdofficier van justitie het beleidsplan respectievelijk het jaarverslag vast.
 
@@ -511,11 +511,11 @@ De regioburgemeester legt over de uitoefening van zijn taken op grond van deze w
 
 ##### Artikel 40
 
-1. Onze Minister kan ten aanzien van het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2025-07-01&g=2025-07-01), de nodige aanwijzingen geven aan de regioburgemeester, indien naar het oordeel van Onze Minister het beleidsplan niet of onvoldoende verzekert dat de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2025-07-01&g=2025-07-01), kunnen worden verwezenlijkt.
+1. Onze Minister kan ten aanzien van het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2026-01-01&g=2026-01-01), de nodige aanwijzingen geven aan de regioburgemeester, indien naar het oordeel van Onze Minister het beleidsplan niet of onvoldoende verzekert dat de doelstellingen, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=20&z=2026-01-01&g=2026-01-01), kunnen worden verwezenlijkt.
 
 2. De aanwijzingen, bedoeld in het eerste lid, worden schriftelijk gegeven, gehoord de regioburgemeester.
 
-3. De regioburgemeester brengt, voor zover nodig, het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2025-07-01&g=2025-07-01), in overeenstemming met de aanwijzingen, zonder dat hiervoor de instemming van de burgemeesters in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie noodzakelijk is.
+3. De regioburgemeester brengt, voor zover nodig, het beleidsplan, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=39&z=2026-01-01&g=2026-01-01), in overeenstemming met de aanwijzingen, zonder dat hiervoor de instemming van de burgemeesters in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie noodzakelijk is.
 
 ##### Artikel 41
 
@@ -533,7 +533,7 @@ De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de p
 
 1. Er zijn een of meer landelijke eenheden. Zij zijn belast met een of meer van de volgende taken:
 
-- a. de landelijke en specialistische uitvoering van politietaken, in samenwerking met de regionale eenheden, de Koninklijke marechaussee en de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2025-07-01&g=2025-07-01), bedoelde personen;
+- a. de landelijke en specialistische uitvoering van politietaken, in samenwerking met de regionale eenheden, de Koninklijke marechaussee en de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2026-01-01&g=2026-01-01), bedoelde personen;
 
 - b. het verzamelen, registreren, bewerken, beheren, analyseren en verstrekken van informatie en het verrichten van andere ondersteunende werkzaamheden ten behoeve van de taakuitvoering van de onder a genoemde organen en personen, en de andere bij de strafrechtelijke handhaving van de rechtsorde betrokken organen, alsmede de internationale uitwisseling van informatie en de landelijke voorlichting aan particulieren;
 
@@ -547,15 +547,15 @@ De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de p
 
 ##### Artikel 43
 
-1. Onze Minister kan de betrokken ambtenaren van politie voor zover het de uitoefening van de taken, bedoeld in [artikel 42, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01), door het daartoe bestemde onderdeel of de daartoe bestemde onderdelen van een landelijke eenheid betreft, de nodige algemene en bijzondere aanwijzingen geven voor de vervulling van die taken, voor zover de politie optreedt bij of krachtens de wet of op grond van een verdrag of een besluit van een volkenrechtelijke organisatie onder verantwoordelijkheid van Onze Minister.
+1. Onze Minister kan de betrokken ambtenaren van politie voor zover het de uitoefening van de taken, bedoeld in [artikel 42, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01), door het daartoe bestemde onderdeel of de daartoe bestemde onderdelen van een landelijke eenheid betreft, de nodige algemene en bijzondere aanwijzingen geven voor de vervulling van die taken, voor zover de politie optreedt bij of krachtens de wet of op grond van een verdrag of een besluit van een volkenrechtelijke organisatie onder verantwoordelijkheid van Onze Minister.
 
-2. De bevoegdheid, bedoeld in het eerste lid, komt eveneens toe aan Onze Minister met betrekking tot de vervulling van de taak, bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01).
+2. De bevoegdheid, bedoeld in het eerste lid, komt eveneens toe aan Onze Minister met betrekking tot de vervulling van de taak, bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01).
 
-3. Indien een regionale eenheid, de Koninklijke marechaussee of een ander onderdeel van de krijgsmacht bijstand verleent aan een landelijke eenheid ten behoeve van de taak, bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01), kan Onze Minister aan de betrokken ambtenaren van politie dan wel militairen van de Koninklijke marechaussee of van een ander onderdeel van de krijgsmacht, algemene en bijzondere aanwijzingen geven.
+3. Indien een regionale eenheid, de Koninklijke marechaussee of een ander onderdeel van de krijgsmacht bijstand verleent aan een landelijke eenheid ten behoeve van de taak, bedoeld in [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01), kan Onze Minister aan de betrokken ambtenaren van politie dan wel militairen van de Koninklijke marechaussee of van een ander onderdeel van de krijgsmacht, algemene en bijzondere aanwijzingen geven.
 
 ##### Artikel 44
 
-1. Onze Minister kan, indien hij dit nodig acht in verband met de uitvoering van de taken, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01), daarvoor in aanmerking komende bestuursorganen opdragen de noodzakelijke medewerking te verlenen om door hem aangewezen personen tijdelijk van een aan te nemen identiteit te voorzien.
+1. Onze Minister kan, indien hij dit nodig acht in verband met de uitvoering van de taken, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01), daarvoor in aanmerking komende bestuursorganen opdragen de noodzakelijke medewerking te verlenen om door hem aangewezen personen tijdelijk van een aan te nemen identiteit te voorzien.
 
 2. De voor de bestuursorganen geldende wettelijke voorschriften ter zake van de verlangde werkzaamheden blijven, voor zover deze in de weg staan aan het verrichten van die werkzaamheden, buiten toepassing.
 
@@ -565,13 +565,13 @@ De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de p
 
 1. Voor zover zij niet bij koninklijk besluit worden benoemd, geschorst en ontslagen, worden de ambtenaren van politie, met uitzondering van de ambtenaren van de rijksrecherche, aangesteld, geschorst en ontslagen door de korpschef.
 
-2. Bij algemene maatregel van bestuur kan worden bepaald welke andere ambtenaren van politie dan die, bedoeld in de [artikelen 28, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2025-07-01&g=2025-07-01), [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38&z=2025-07-01&g=2025-07-01), en [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2025-07-01&g=2025-07-01), worden benoemd, geschorst en ontslagen bij koninklijk besluit.
+2. Bij algemene maatregel van bestuur kan worden bepaald welke andere ambtenaren van politie dan die, bedoeld in de [artikelen 28, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2026-01-01&g=2026-01-01), [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.3&artikel=38&z=2026-01-01&g=2026-01-01), en [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.4&artikel=42&z=2026-01-01&g=2026-01-01), worden benoemd, geschorst en ontslagen bij koninklijk besluit.
 
 ##### Artikel 46
 
-1. De aanwijzing van het hoofd van een territoriaal onderdeel van een regionale eenheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2025-07-01&g=2025-07-01), geschiedt na verkregen instemming van de burgemeester en de officier van justitie.
+1. De aanwijzing van het hoofd van een territoriaal onderdeel van een regionale eenheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01), geschiedt na verkregen instemming van de burgemeester en de officier van justitie.
 
-2. Indien het hoofd van een territoriaal onderdeel, bedoeld in het eerste lid, bij herhaling de afspraken over de inzet van de politie, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2025-07-01&g=2025-07-01), niet heeft uitgevoerd zonder dat daarvoor, naar het oordeel van de burgemeester of de officier van justitie, goede redenen zijn, kan de burgemeester of de officier van justitie Onze Minister verzoeken het hoofd van het territoriale onderdeel uit zijn functie te ontheffen.
+2. Indien het hoofd van een territoriaal onderdeel, bedoeld in het eerste lid, bij herhaling de afspraken over de inzet van de politie, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01), niet heeft uitgevoerd zonder dat daarvoor, naar het oordeel van de burgemeester of de officier van justitie, goede redenen zijn, kan de burgemeester of de officier van justitie Onze Minister verzoeken het hoofd van het territoriale onderdeel uit zijn functie te ontheffen.
 
 ##### Artikel 47
 
@@ -603,9 +603,9 @@ De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de p
 
 - m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
 
-- n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
+- n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 
-2. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3) en [4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=4) zijn, met uitzondering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing op de politie.
+2. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3) en [4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=4) zijn, met uitzondering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de politie.
 
 ##### Artikel 48
 
@@ -627,7 +627,7 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de rangen van d
 
 ##### Artikel 50
 
-Het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op de rijksrecherche. Bij ministeriële regeling kunnen regels omtrent de vereisten voor een goede taakuitvoering door de politie, gesteld krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=21&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing worden verklaard op de rijksrecherche.
+Het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op de rijksrecherche. Bij ministeriële regeling kunnen regels omtrent de vereisten voor een goede taakuitvoering door de politie, gesteld krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=21&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing worden verklaard op de rijksrecherche.
 
 ##### Artikel 51
 
@@ -641,9 +641,9 @@ Het College van procureurs-generaal stelt ten minste eenmaal in de vier jaar een
 
 1. De ambtenaren van de rijksrecherche worden aangesteld, geschorst en ontslagen door het College van procureurs-generaal.
 
-2. Het bepaalde krachtens [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=45&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing op de ambtenaren van de rijksrecherche.
+2. Het bepaalde krachtens [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=45&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de ambtenaren van de rijksrecherche.
 
-3. De [artikelen 44a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=44a&z=2025-07-01&g=2025-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47a&z=2025-07-01&g=2025-07-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2025-07-01&g=2025-07-01), [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2025-07-01&g=2025-07-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=48&z=2025-07-01&g=2025-07-01) en de [paragrafen 3.5.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2025-07-01&g=2025-07-01), [3.5.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2025-07-01&g=2025-07-01) en [3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de rijksrecherche.
+3. De [artikelen 44a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=44a&z=2026-01-01&g=2026-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47a&z=2026-01-01&g=2026-01-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2026-01-01&g=2026-01-01), [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2026-01-01&g=2026-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=48&z=2026-01-01&g=2026-01-01) en de [paragrafen 3.5.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2026-01-01&g=2026-01-01), [3.5.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2026-01-01&g=2026-01-01) en [3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de rijksrecherche.
 
 ##### Artikel 54
 
@@ -663,7 +663,7 @@ Bij ministeriële regeling kunnen regels worden gegeven over de samenwerking van
 
 ##### Artikel 56
 
-1. Indien naar het oordeel van het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01), een eenheid bijstand behoeft van andere eenheden, dan richt de politiechef een verzoek daartoe aan de korpschef.
+1. Indien naar het oordeel van het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01), een eenheid bijstand behoeft van andere eenheden, dan richt de politiechef een verzoek daartoe aan de korpschef.
 
 2. Behoudens in spoedeisende gevallen wordt het verzoek, bedoeld in het eerste lid, niet gedaan dan nadat het gezag de regioburgemeester in de gelegenheid heeft gesteld zijn zienswijze over het verzoek te geven.
 
@@ -677,7 +677,7 @@ Bij ministeriële regeling kunnen regels worden gegeven over de samenwerking van
 
 1. De Koninklijke marechaussee kan bijstand verlenen aan de politie.
 
-2. Behoeft de politie bijstand van de Koninklijke marechaussee, dan richt het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01), een verzoek daartoe aan Onze Minister.
+2. Behoeft de politie bijstand van de Koninklijke marechaussee, dan richt het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01), een verzoek daartoe aan Onze Minister.
 
 3. Onze Minister bepaalt, in overeenstemming met Onze Minister van Defensie, of en op welke wijze bijstand wordt verleend en stelt het gezag hiervan in kennis.
 
@@ -687,7 +687,7 @@ Bij ministeriële regeling kunnen regels worden gegeven over de samenwerking van
 
 1. In bijzondere gevallen kunnen andere onderdelen van de krijgsmacht bijstand verlenen aan de politie. Daarbij kunnen door Onze Minister, in overeenstemming met Onze Minister van Defensie, nadere regels of beleidsregels worden gegeven over de uitoefening van bevoegdheden krachtens deze wet.
 
-2. Behoeft de politie bijstand van andere onderdelen van de krijgsmacht, dan richt het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01), een verzoek daartoe aan Onze Minister.
+2. Behoeft de politie bijstand van andere onderdelen van de krijgsmacht, dan richt het gezag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2026-01-01&g=2026-01-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01), een verzoek daartoe aan Onze Minister.
 
 3. Onze Minister bepaalt, in overeenstemming met Onze Minister van Defensie, of en op welke wijze bijstand wordt verleend en stelt het gezag hiervan in kennis.
 
@@ -697,7 +697,7 @@ Bij ministeriële regeling kunnen regels worden gegeven over de samenwerking van
 
 1. Er zijn een of meer bijzondere bijstandseenheden bestaande uit personeel van de politie, de Koninklijke marechaussee of andere onderdelen van de krijgsmacht. Deze bijzondere bijstandseenheden worden belast met bij regeling van Onze Minister en Onze Minister van Defensie aangewezen bijzondere onderdelen van de politietaak.
 
-2. Behoeft de politie, de rijksrecherche of de Koninklijke marechaussee bijstand van een bijzondere bijstandseenheid als bedoeld in het eerste lid, dan richt het gezag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-01&g=2025-07-01) of [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-07-01&g=2025-07-01), door tussenkomst van het College van procureurs-generaal, een verzoek daartoe aan Onze Minister.
+2. Behoeft de politie, de rijksrecherche of de Koninklijke marechaussee bijstand van een bijzondere bijstandseenheid als bedoeld in het eerste lid, dan richt het gezag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2026-01-01&g=2026-01-01) of [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), door tussenkomst van het College van procureurs-generaal, een verzoek daartoe aan Onze Minister.
 
 3. Indien bijstand door een bijzondere bijstandseenheid als bedoeld in het eerste lid nodig is, bepaalt Onze Minister of en op welke wijze die bijzondere bijstandseenheid wordt ingezet. Onze Minister stelt Onze Minister van Defensie onverwijld in kennis van de inzet.
 
@@ -719,25 +719,25 @@ Behoeft de rijksrecherche bijstand van de politie, dan verstrekt het College van
 
 1. De politie kan bijstand verlenen aan de Koninklijke marechaussee.
 
-2. Behoeft de Koninklijke marechaussee bijstand van de politie, dan richt het gezag, bedoeld in [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-07-01&g=2025-07-01), een verzoek daartoe aan Onze Minister.
+2. Behoeft de Koninklijke marechaussee bijstand van de politie, dan richt het gezag, bedoeld in [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), een verzoek daartoe aan Onze Minister.
 
 3. Onze Minister bepaalt of en op welke wijze bijstand wordt verleend en stelt het gezag hiervan in kennis. Indien bijstand wordt geleverd, stelt hij Onze Minister van Defensie hiervan in kennis.
 
 4. Behoeft de Koninklijke marechaussee bijstand van de politie voor een onderdeel van de politietaak dat op grond van de wet rechtstreeks onder verantwoordelijkheid van Onze Minister wordt uitgevoerd, dan bepaalt Onze Minister of en op welke wijze bijstand wordt verleend. Onze Minister stelt Onze Minister van Defensie in kennis van de bijstand.
 
-5. Onze Minister kan algemene en bijzondere aanwijzingen geven aan de betrokken ambtenaren van politie, voor zover die bijstand verlenen aan de Koninklijke marechaussee bij de taken als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-07-01&g=2025-07-01).
+5. Onze Minister kan algemene en bijzondere aanwijzingen geven aan de betrokken ambtenaren van politie, voor zover die bijstand verlenen aan de Koninklijke marechaussee bij de taken als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 62
 
 1. In bijzondere gevallen kunnen andere onderdelen van de krijgsmacht bijstand verlenen aan de Koninklijke marechaussee. Daarbij kunnen door Onze Minister, in overeenstemming met Onze Minister van Defensie, nadere regels of beleidsregels worden gegeven over de uitoefening van bevoegdheden krachtens deze wet.
 
-2. Behoeft de Koninklijke marechaussee bijstand van andere onderdelen van de krijgsmacht, dan richt het gezag, bedoeld in [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-07-01&g=2025-07-01), een verzoek daartoe aan Onze Minister.
+2. Behoeft de Koninklijke marechaussee bijstand van andere onderdelen van de krijgsmacht, dan richt het gezag, bedoeld in [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), een verzoek daartoe aan Onze Minister.
 
 3. Onze Minister bepaalt, in overeenstemming met Onze Minister van Defensie, of en op welke wijze bijstand wordt verleend en stelt het gezag hiervan in kennis.
 
 4. Behoeft de Koninklijke marechaussee bijstand van andere onderdelen van de krijgsmacht voor een onderdeel van de politietaak dat op grond van de wet rechtstreeks onder verantwoordelijkheid van Onze Minister wordt uitgevoerd, dan bepaalt Onze Minister, in overeenstemming met Onze Minister van Defensie, of en op welke wijze de bijstand wordt verleend.
 
-5. Onze Minister kan algemene en bijzondere aanwijzingen geven aan de betrokken militairen van de andere onderdelen van de krijgsmacht, voor zover die bijstand verlenen aan de Koninklijke marechaussee bij de taken als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-07-01&g=2025-07-01).
+5. Onze Minister kan algemene en bijzondere aanwijzingen geven aan de betrokken militairen van de andere onderdelen van de krijgsmacht, voor zover die bijstand verlenen aan de Koninklijke marechaussee bij de taken als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 63
 
@@ -767,15 +767,15 @@ Vervallen
 
 ##### Artikel 66
 
-1. De werkzaamheden die in het kader van [artikel 65, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2025-07-01&g=2025-07-01), worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld.
+1. De werkzaamheden die in het kader van [artikel 65, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2026-01-01&g=2026-01-01), worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld.
 
 2. De inspectie rapporteert, gevraagd of ongevraagd, rechtstreeks aan Onze Minister.
 
-3. Onze Minister zendt de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2025-07-01&g=2025-07-01), worden uitgevoerd.
+3. Onze Minister zendt de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2026-01-01&g=2026-01-01), worden uitgevoerd.
 
 ##### Artikel 67
 
-Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2025-07-01&g=2025-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren van de inspectie. Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=6&artikel=65&z=2026-01-01&g=2026-01-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren van de inspectie. Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ### Hoofdstuk 7. De behandeling van klachten
 
@@ -797,13 +797,13 @@ Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/
 
 - c. een jaarlijkse publicatie van de geregistreerde klachten en beslissingen, waarin wordt aangegeven in hoeverre bepaalde klachten wijzen op structurele tekortkomingen in het functioneren van de politie en waarin, zo nodig, aandacht wordt geschonken aan de middelen om deze tekortkomingen op te heffen.
 
-3. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing op de behandeling van klachten als bedoeld in het tweede lid, onder a. Indien een commissie over de klacht zal adviseren, deelt degene die ingevolge [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=70&z=2025-07-01&g=2025-07-01) verantwoordelijk is voor de behandeling van een klacht dit, in afwijking van [artikel 9:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:15), zo spoedig mogelijk aan de indiener van de klacht mede.
+3. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing op de behandeling van klachten als bedoeld in het tweede lid, onder a. Indien een commissie over de klacht zal adviseren, deelt degene die ingevolge [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=70&z=2026-01-01&g=2026-01-01) verantwoordelijk is voor de behandeling van een klacht dit, in afwijking van [artikel 9:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:15), zo spoedig mogelijk aan de indiener van de klacht mede.
 
 ##### Artikel 69
 
-1. Onze Minister van Defensie stelt de regels, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2025-07-01&g=2025-07-01), vast ten aanzien van klachten over gedragingen van militairen van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht, bij de uitvoering van hun in deze wet omschreven taken.
+1. Onze Minister van Defensie stelt de regels, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2026-01-01&g=2026-01-01), vast ten aanzien van klachten over gedragingen van militairen van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht, bij de uitvoering van hun in deze wet omschreven taken.
 
-2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 70
 
@@ -817,7 +817,7 @@ Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/
 
 5. In afwijking van het eerste lid draagt de directeur van de Politieacademie zorg voor de behandeling van de klacht die is ingediend over een gedraging van een persoon die ten behoeve van de Politieacademie politieonderwijs ontwikkelt en verzorgt, kennis ontwikkelt, onderzoek verricht of onderwijsondersteunende werkzaamheden verricht of die werkzaamheden verricht binnen de staf van de Politieacademie.
 
-6. Onze Minister draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van de korpschef, de krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2025-07-01&g=2025-07-01), aangewezen leden van de leiding van de politie, de directeur van de Politieacademie en zijn plaatsvervanger.
+6. Onze Minister draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van de korpschef, de krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2026-01-01&g=2026-01-01), aangewezen leden van de leiding van de politie, de directeur van de Politieacademie en zijn plaatsvervanger.
 
 7. Onze Minister van Defensie draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van een militair van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht, bij de uitvoering van zijn in deze wet omschreven taken.
 
@@ -825,11 +825,11 @@ Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/
 
 1. Een klacht over een gedraging van een ambtenaar van politie wordt ingediend bij de politiechef van de eenheid waar deze ambtenaar is tewerkgesteld.
 
-2. Een klacht als bedoeld in [artikel 70, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=70&z=2025-07-01&g=2025-07-01), wordt ingediend bij de korpschef.
+2. Een klacht als bedoeld in [artikel 70, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=70&z=2026-01-01&g=2026-01-01), wordt ingediend bij de korpschef.
 
 3. Een klacht over een gedraging van een ambtenaar van de rijksrecherche wordt ingediend bij het College van procureurs-generaal.
 
-4. Een klacht over een gedraging van de korpschef, de krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2025-07-01&g=2025-07-01), aangewezen leden van de leiding van de politie, de directeur van de Politieacademie en zijn plaatsvervanger wordt ingediend bij Onze Minister.
+4. Een klacht over een gedraging van de korpschef, de krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=28&z=2026-01-01&g=2026-01-01), aangewezen leden van de leiding van de politie, de directeur van de Politieacademie en zijn plaatsvervanger wordt ingediend bij Onze Minister.
 
 5. Een klacht over een gedraging van een persoon die ten behoeve van de Politieacademie politieonderwijs ontwikkelt en verzorgt, kennis ontwikkelt, onderzoek verricht of onderwijsondersteunende werkzaamheden verricht of die werkzaamheden verricht binnen de staf van de Politieacademie, wordt, in afwijking van het tweede lid, ingediend bij de directeur van de Politieacademie.
 
@@ -839,7 +839,7 @@ Met het toezicht bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 72
 
-In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in [artikel 68, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2025-07-01&g=2025-07-01), is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van het klaagschrift.
+In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in [artikel 68, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2026-01-01&g=2026-01-01), is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van het klaagschrift.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -881,7 +881,7 @@ Vervallen
 
 ##### Artikel 75
 
-1. De Politieacademie kan, na instemming van Onze Minister, andere werkzaamheden uitvoeren, dan de in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01), bedoelde taken, mits die werkzaamheden samenhangen met de in dat lid bedoelde taken.
+1. De Politieacademie kan, na instemming van Onze Minister, andere werkzaamheden uitvoeren, dan de in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01), bedoelde taken, mits die werkzaamheden samenhangen met de in dat lid bedoelde taken.
 
 2. De vergoeding van de kosten voor de werkzaamheden, bedoeld in het eerste lid, door de afnemers van deze werkzaamheden zijn verschuldigd aan Onze Minister.
 
@@ -901,7 +901,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 68a
 
-1. Onze Minister stelt de regels, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2025-07-01&g=2025-07-01), vast ten aanzien van klachten over gedragingen van:
+1. Onze Minister stelt de regels, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2026-01-01&g=2026-01-01), vast ten aanzien van klachten over gedragingen van:
 
 - a. de directeur van de Politieacademie en zijn plaatsvervanger;
 
@@ -909,7 +909,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. personen die werkzaamheden verrichten binnen de staf van de Politieacademie.
 
-2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+2. [Artikel 68, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=7&artikel=68&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling worden de functies of de categorieën van personen als bedoeld in het eerste lid, onder b en c, aangewezen.
 
@@ -953,15 +953,15 @@ Ter ondersteuning van de raad van advies van de Politieacademie stelt de directe
 
 ##### Artikel 81
 
-1. Voor zover bij of krachtens dit hoofdstuk of de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet anders is bepaald, worden bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), voor de directeur van de Politieacademie en zijn plaatsvervanger regels gesteld over de in dat lid bedoelde onderwerpen.
+1. Voor zover bij of krachtens dit hoofdstuk of de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet anders is bepaald, worden bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), voor de directeur van de Politieacademie en zijn plaatsvervanger regels gesteld over de in dat lid bedoelde onderwerpen.
 
-2. Voor zover uit de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet anders voortvloeit, is [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing op de directeur van de Politieacademie en zijn plaatsvervanger.
+2. Voor zover uit de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet anders voortvloeit, is [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de directeur van de Politieacademie en zijn plaatsvervanger.
 
-3. De [artikelen 44a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=44a&z=2025-07-01&g=2025-07-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47a&z=2025-07-01&g=2025-07-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2025-07-01&g=2025-07-01), [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2025-07-01&g=2025-07-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2025-07-01&g=2025-07-01), [3.5.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2025-07-01&g=2025-07-01) en [3.5.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2025-07-01&g=2025-07-01) van deze wet alsmede [artikel 4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=4) zijn van overeenkomstige toepassing op de Politieacademie, met dien verstande dat:
+3. De [artikelen 44a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=44a&z=2026-01-01&g=2026-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47a&z=2026-01-01&g=2026-01-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2026-01-01&g=2026-01-01), [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2026-01-01&g=2026-01-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2026-01-01&g=2026-01-01), [3.5.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2026-01-01&g=2026-01-01) en [3.5.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2026-01-01&g=2026-01-01) van deze wet alsmede [artikel 4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=4) zijn van overeenkomstige toepassing op de Politieacademie, met dien verstande dat:
 
-- a. voor de toepassing van [artikel 47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2025-07-01&g=2025-07-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2025-07-01&g=2025-07-01) en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2025-07-01&g=2025-07-01) onder bevoegd gezag wordt verstaan: Onze Minister;
+- a. voor de toepassing van [artikel 47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2026-01-01&g=2026-01-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2026-01-01&g=2026-01-01) en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2026-01-01&g=2026-01-01) onder bevoegd gezag wordt verstaan: Onze Minister;
 
-- b. voor de toepassing van[paragraaf 3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2025-07-01&g=2025-07-01) onder bevoegd gezag wordt verstaan:
+- b. voor de toepassing van[paragraaf 3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&z=2026-01-01&g=2026-01-01) onder bevoegd gezag wordt verstaan:
 
 - 1°. Onze Minister, voor zover het betreft de directeur van de Politieacademie en zijn plaatsvervanger;
 
@@ -969,9 +969,9 @@ Ter ondersteuning van de raad van advies van de Politieacademie stelt de directe
 
 - c. voor de toepassing van [artikel 4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=4) onder overheidswerkgever wordt verstaan: de Staat.
 
-4. Bij de algemene maatregel van bestuur, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=48&z=2025-07-01&g=2025-07-01), worden regels gesteld omtrent de titulaire rang van de directeur van de Politieacademie en zijn plaatsvervanger.
+4. Bij de algemene maatregel van bestuur, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=48&z=2026-01-01&g=2026-01-01), worden regels gesteld omtrent de titulaire rang van de directeur van de Politieacademie en zijn plaatsvervanger.
 
-5. Bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=22&z=2025-07-01&g=2025-07-01), worden regels gesteld omtrent de kleding van de directeur van de Politieacademie en zijn plaatsvervanger.
+5. Bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=22&z=2026-01-01&g=2026-01-01), worden regels gesteld omtrent de kleding van de directeur van de Politieacademie en zijn plaatsvervanger.
 
 #### § 2. Politieonderwijsraad
 
@@ -1009,23 +1009,23 @@ Ter ondersteuning van de raad van advies van de Politieacademie stelt de directe
 
 ##### Artikel 83
 
-1. De korpschef stelt het door Onze Minister vastgestelde deel van de sterkte als bedoeld in [artikel 36, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2025-07-01&g=2025-07-01), feitelijk ter beschikking aan de politieonderwijsraad voor de uitvoering van de taken, bedoeld in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=84&z=2025-07-01&g=2025-07-01), [87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2025-07-01&g=2025-07-01), en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2025-07-01&g=2025-07-01).
+1. De korpschef stelt het door Onze Minister vastgestelde deel van de sterkte als bedoeld in [artikel 36, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2026-01-01&g=2026-01-01), feitelijk ter beschikking aan de politieonderwijsraad voor de uitvoering van de taken, bedoeld in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=2&artikel=84&z=2026-01-01&g=2026-01-01), [87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2026-01-01&g=2026-01-01), en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2026-01-01&g=2026-01-01).
 
-2. Bij ministeriële regeling worden de functies of categorieën aangewezen van personen die op grond van het eerste lid feitelijk ter beschikking kunnen worden gesteld. [Artikel 97, eerste lid, onder a en b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=97&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing op de voorzitter van de politieonderwijsraad ten aanzien van de personen, bedoeld in de eerste volzin.
+2. Bij ministeriële regeling worden de functies of categorieën aangewezen van personen die op grond van het eerste lid feitelijk ter beschikking kunnen worden gesteld. [Artikel 97, eerste lid, onder a en b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=97&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de voorzitter van de politieonderwijsraad ten aanzien van de personen, bedoeld in de eerste volzin.
 
-3. De personen die werkzaam zijn ten behoeve van de politieonderwijsraad staan onder gezag van de voorzitter van de politieonderwijsraad en leggen over hun werkzaamheden uitsluitend aan hem verantwoording af. [Artikel 97, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=97&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+3. De personen die werkzaam zijn ten behoeve van de politieonderwijsraad staan onder gezag van de voorzitter van de politieonderwijsraad en leggen over hun werkzaamheden uitsluitend aan hem verantwoording af. [Artikel 97, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=97&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 84
 
-1. De politieonderwijsraad draagt bij aan het ontwikkelen en onderhouden van een kwalificatiestructuur als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2025-07-01&g=2025-07-01), gericht op de aansluiting en afstemming tussen het aanbod van politieopleidingen en de behoefte van de politie daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, en mede gelet op van belang zijnde ontwikkelingen in internationaal verband.
+1. De politieonderwijsraad draagt bij aan het ontwikkelen en onderhouden van een kwalificatiestructuur als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2026-01-01&g=2026-01-01), gericht op de aansluiting en afstemming tussen het aanbod van politieopleidingen en de behoefte van de politie daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, en mede gelet op van belang zijnde ontwikkelingen in internationaal verband.
 
 2. De politieonderwijsraad adviseert Onze Minister omtrent de eisen die worden gesteld aan de plaatsen waar de beroepspraktijkvorming wordt uitgevoerd.
 
 3. De politieonderwijsraad ziet toe op de aansluiting van de politieopleidingen op de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-4. De politieonderwijsraad adviseert Onze Minister over de strategische onderzoeksagenda, bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2025-07-01&g=2025-07-01).
+4. De politieonderwijsraad adviseert Onze Minister over de strategische onderzoeksagenda, bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2026-01-01&g=2026-01-01).
 
-5. De politieonderwijsraad verzorgt de uitbesteding van het toegepast wetenschappelijk onderzoek, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=95&z=2025-07-01&g=2025-07-01), en de begeleiding van dat onderzoek, die plaatsvinden onder verantwoordelijkheid van de directeur van de Politieacademie.
+5. De politieonderwijsraad verzorgt de uitbesteding van het toegepast wetenschappelijk onderzoek, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=95&z=2026-01-01&g=2026-01-01), en de begeleiding van dat onderzoek, die plaatsvinden onder verantwoordelijkheid van de directeur van de Politieacademie.
 
 6. De politieonderwijsraad geeft Onze Minister desgevraagd of uit eigen beweging zijn zienswijze.
 
@@ -1041,7 +1041,7 @@ Ter ondersteuning van de raad van advies van de Politieacademie stelt de directe
 
 1. De Politieacademie biedt in samenwerking met de politie het politieonderwijs aan.
 
-2. Bij ministeriële regeling worden de opleidingen, bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01), aangewezen, gehoord de korpschef en de directeur van de Politieacademie.
+2. Bij ministeriële regeling worden de opleidingen, bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01), aangewezen, gehoord de korpschef en de directeur van de Politieacademie.
 
 ##### Artikel 87
 
@@ -1067,7 +1067,7 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 ##### Artikel 90
 
-1. De directeur van de Politieacademie stelt tijdig, ten behoeve van de studenten, voor elke politieopleiding en voor elke overige opleiding als bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01), die wordt afgesloten met een examen een onderwijs- en examenregeling vast. De [artikelen 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13) en [7.14 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.14) zijn van overeenkomstige toepassing op de onderwijs- en examenregeling.
+1. De directeur van de Politieacademie stelt tijdig, ten behoeve van de studenten, voor elke politieopleiding en voor elke overige opleiding als bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01), die wordt afgesloten met een examen een onderwijs- en examenregeling vast. De [artikelen 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13) en [7.14 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.14) zijn van overeenkomstige toepassing op de onderwijs- en examenregeling.
 
 2. De onderwijs- en examenregeling wordt door de directeur van de Politieacademie tijdig bekendgemaakt, zodanig dat de aanstaande student zich een adequaat beeld kan vormen van de inhoud en inrichting van het politieonderwijs en de examens.
 
@@ -1085,7 +1085,7 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 ##### Artikel 92
 
-1. Elke politieopleiding of groep van politieopleidingen en elke opleiding als bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01), die wordt afgesloten met een examen, of groep van dergelijke opleidingen aan de Politieacademie heeft een examencommissie. [Artikel 7.12, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12) is op de examencommissie van toepassing.
+1. Elke politieopleiding of groep van politieopleidingen en elke opleiding als bedoeld in [artikel 74, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01), die wordt afgesloten met een examen, of groep van dergelijke opleidingen aan de Politieacademie heeft een examencommissie. [Artikel 7.12, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12) is op de examencommissie van toepassing.
 
 2. De directeur van de Politieacademie stelt de examencommissie in en benoemt de leden van de examencommissie. Op de benoeming, samenstelling, taken en bevoegdheden van de examencommissie zijn de [artikelen 7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12a) en [7.12b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12b) van overeenkomstige toepassing.
 
@@ -1097,7 +1097,7 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 1. De directeur van de Politieacademie stelt een commissie van beroep voor de examens in. [Artikel 7.5.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.3) is van overeenkomstige toepassing op de leden van de commissie.
 
-2. De commissie oordeelt over beslissingen van de directeur van de Politieacademie ter uitvoering van de [artikelen 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2025-07-01&g=2025-07-01), en [91](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=91&z=2025-07-01&g=2025-07-01), de examencommissie of de examinatoren. De [artikelen 7.5.1, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1), [7.5.4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.4), en [7.5.5 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.5) zijn van toepassing op de commissie.
+2. De commissie oordeelt over beslissingen van de directeur van de Politieacademie ter uitvoering van de [artikelen 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=87&z=2026-01-01&g=2026-01-01), en [91](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=3&artikel=91&z=2026-01-01&g=2026-01-01), de examencommissie of de examinatoren. De [artikelen 7.5.1, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1), [7.5.4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.4), en [7.5.5 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.5) zijn van toepassing op de commissie.
 
 3. De leden van de commissie van beroep voor de examens oefenen hun taak uit zonder last of ruggespraak.
 
@@ -1113,7 +1113,7 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 ##### Artikel 95
 
-1. De directeur van de Politieacademie stelt jaarlijks, op basis van de in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2025-07-01&g=2025-07-01) bedoelde strategische onderzoeksagenda het onderzoeksprogramma van de Politieacademie vast.
+1. De directeur van de Politieacademie stelt jaarlijks, op basis van de in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=4&artikel=94&z=2026-01-01&g=2026-01-01) bedoelde strategische onderzoeksagenda het onderzoeksprogramma van de Politieacademie vast.
 
 2. Het onderzoeksprogramma omvat in ieder geval een beschrijving van het toegepast wetenschappelijke onderzoek dat door de Politieacademie wordt uitgevoerd en de uit te besteden toegepast wetenschappelijke onderzoeken.
 
@@ -1125,7 +1125,7 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 ##### Artikel 96
 
-1. De korpschef stelt het door Onze Minister vastgestelde deel van de sterkte en middelen als bedoeld in [artikel 36, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2025-07-01&g=2025-07-01), feitelijk ter beschikking aan de Politieacademie voor de uitvoering van de taken, bedoeld in de [artikelen 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01), en [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=75&z=2025-07-01&g=2025-07-01).
+1. De korpschef stelt het door Onze Minister vastgestelde deel van de sterkte en middelen als bedoeld in [artikel 36, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2026-01-01&g=2026-01-01), feitelijk ter beschikking aan de Politieacademie voor de uitvoering van de taken, bedoeld in de [artikelen 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01), en [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=75&z=2026-01-01&g=2026-01-01).
 
 2. Bij of krachtens algemene maatregel van bestuur worden eisen gesteld aan de sterkte en middelen die aan de Politieacademie feitelijk ter beschikking worden gesteld en regels gesteld omtrent de door de directeur van de Politieacademie te stellen behoefte aan sterkte en middelen.
 
@@ -1135,15 +1135,15 @@ De directeur van de Politieacademie draagt er zorg voor dat de politieopleidinge
 
 - a. de aanstelling van personen die ten behoeve van de Politieacademie politieonderwijs ontwikkelen en verzorgen, kennis ontwikkelen, onderzoek verrichten of onderwijsondersteunende werkzaamheden verrichten of die werkzaamheden verrichten binnen de staf van de Politieacademie;
 
-- b. de selectie van personen die ten behoeve van de Politieacademie politieonderwijs ontwikkelen en verzorgen, kennis ontwikkelen, onderzoek verrichten of onderwijsondersteunende werkzaamheden verrichten of die werkzaamheden verrichten binnen de staf van de Politieacademie, met het oog op het feitelijk ter beschikking stellen, bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2025-07-01&g=2025-07-01).
+- b. de selectie van personen die ten behoeve van de Politieacademie politieonderwijs ontwikkelen en verzorgen, kennis ontwikkelen, onderzoek verrichten of onderwijsondersteunende werkzaamheden verrichten of die werkzaamheden verrichten binnen de staf van de Politieacademie, met het oog op het feitelijk ter beschikking stellen, bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=5&artikel=96&z=2026-01-01&g=2026-01-01).
 
 2. De directeur van de Politieacademie heeft een instemmingsrecht bij:
 
-- a. de selectie van de middelen die noodzakelijk zijn voor de uitvoering van de taken van de Politieacademie, bedoeld in de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2025-07-01&g=2025-07-01) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=75&z=2025-07-01&g=2025-07-01);
+- a. de selectie van de middelen die noodzakelijk zijn voor de uitvoering van de taken van de Politieacademie, bedoeld in de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=74&z=2026-01-01&g=2026-01-01) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&paragraaf=1&artikel=75&z=2026-01-01&g=2026-01-01);
 
-- b. de beëindiging van het feitelijk ter beschikking stellen van personen die ten behoeve van de Politieacademie politieonderwijs ontwikkelen en verzorgen, kennis ontwikkelen, onderzoek verrichten of onderwijsondersteunende werkzaamheden verrichten of die werkzaamheden verrichten ten behoeve van de staf van de Politieacademie, onverminderd [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2025-07-01&g=2025-07-01);
+- b. de beëindiging van het feitelijk ter beschikking stellen van personen die ten behoeve van de Politieacademie politieonderwijs ontwikkelen en verzorgen, kennis ontwikkelen, onderzoek verrichten of onderwijsondersteunende werkzaamheden verrichten of die werkzaamheden verrichten ten behoeve van de staf van de Politieacademie, onverminderd [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2026-01-01&g=2026-01-01);
 
-- c. de beëindiging van het feitelijk ter beschikking stellen van de middelen, bedoeld onder a, onverminderd [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2025-07-01&g=2025-07-01).
+- c. de beëindiging van het feitelijk ter beschikking stellen van de middelen, bedoeld onder a, onverminderd [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=36&z=2026-01-01&g=2026-01-01).
 
 3. Bij ministeriële regeling worden de functies of de categorieën van personen als bedoeld in de eerste lid, onder a en b, en tweede lid, onder b, aangewezen.
 
@@ -1223,7 +1223,7 @@ Onze Minister, de korpschef en de directeur van de Politieacademie voeren ten mi
 
 ##### Artikel 103
 
-1. Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, met uitzondering van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&z=2025-07-01&g=2025-07-01).
+1. Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, met uitzondering van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=8&z=2026-01-01&g=2026-01-01).
 
 2. In afwijking van het eerste lid zendt Onze Minister binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk in de regionale eenheid in de arrondissementen, bedoeld in de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=5a) en [11 van de Wet op de rechterlijke indeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=11).
 
@@ -1243,7 +1243,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Voor de toepassing van deze afdeling wordt verstaan onder:
 
-- a. **ambtenaar van politie:** de ambtenaar van politie, bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01);
+- a. **ambtenaar van politie:** de ambtenaar van politie, bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01);
 
 - b. **bevoegd gezag:**
 
@@ -1257,7 +1257,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - 2°. de bedragen – onder de benaming pensioen, wachtgeld, uitkering of welke benaming ook – waarop de gewezen ambtenaar als zodanig uit hoofde van zijn vroegere dienstbetrekking aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden aanspraak hebben.
 
-2. Voor de toepassing van de [artikelen 47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2025-07-01&g=2025-07-01) en [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2025-07-01&g=2025-07-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2025-07-01&g=2025-07-01). en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2025-07-01&g=2025-07-01). wordt mede verstaan onder ambtenaar van politie: de nagelaten betrekkingen van een ambtenaar van politie die uit hoofde van zijn overlijden pensioen genieten.
+2. Voor de toepassing van de [artikelen 47b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47b&z=2026-01-01&g=2026-01-01) en [47c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47c&z=2026-01-01&g=2026-01-01) en de [paragrafen 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2026-01-01&g=2026-01-01). en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2026-01-01&g=2026-01-01). wordt mede verstaan onder ambtenaar van politie: de nagelaten betrekkingen van een ambtenaar van politie die uit hoofde van zijn overlijden pensioen genieten.
 
 ##### Artikel 47a
 
@@ -1305,7 +1305,7 @@ Door het bevoegd gezag onverschuldigd betaalde bezoldiging kan worden teruggevor
 
 1. Met de door het bevoegd gezag verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar van politie als zodanig aan hem zelf verschuldigd is.
 
-2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 48e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48e&z=2025-07-01&g=2025-07-01).
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 48e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48e&z=2026-01-01&g=2026-01-01).
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
@@ -1319,7 +1319,7 @@ Door het bevoegd gezag onverschuldigd betaalde bezoldiging kan worden teruggevor
 
 ##### Artikel 48f
 
-Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 48d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48d&z=2025-07-01&g=2025-07-01), en [artikel 48e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48e&z=2025-07-01&g=2025-07-01), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 48d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48d&z=2026-01-01&g=2026-01-01), en [artikel 48e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=48e&z=2026-01-01&g=2026-01-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 48g
 
@@ -1339,7 +1339,7 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 ##### Artikel 48j
 
-1. Voor de ambtenaar van politie die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
+1. Voor de ambtenaar van politie die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
 
 - a. de door hetzelfde bevoegd gezag verleende aanstellingen in tijdelijke dienst elkaar met tussenpozen van niet meer dan zes maanden hebben opgevolgd en een periode van 48 maanden, deze tussenpozen inbegrepen, hebben overschreden;
 
@@ -1349,23 +1349,23 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 ##### Artikel 48k
 
-Indien bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), een in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar van politie is bepaald, bedraagt die termijn voor de ambtenaar die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01), bedoelde leeftijd heeft bereikt, een maand.
+Indien bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), een in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar van politie is bepaald, bedraagt die termijn voor de ambtenaar die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01), bedoelde leeftijd heeft bereikt, een maand.
 
 ##### Artikel 48l
 
-1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar van politie die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01), bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
+1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar van politie die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01), bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
 
-2. Bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede zin van het eerste lid.
+2. Bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede zin van het eerste lid.
 
 ##### Artikel 48m
 
-1. De ambtenaar van politie die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01), bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
+1. De ambtenaar van politie die de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01), bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
 
 - a. er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een ononderbroken periode van zes weken, en
 
 - b. herstel van zijn ziekte niet binnen een periode van zes weken na de in onderdeel a genoemde periode van zes weken te verwachten is.
 
-2. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01), bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in onderdeel a genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan twee jaar.
+2. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in [artikel 48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01), bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in onderdeel a genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan twee jaar.
 
 3. Voor de berekening van de periode van zes weken, bedoeld in het eerste lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid wegens ziekte samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
@@ -1373,11 +1373,11 @@ Indien bij voorschriften of regels op grond van [artikel 47, eerste lid](https:/
 
 ##### Artikel 48n
 
-1. In afwijking van de in [artikel 48m, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48m&z=2025-07-01&g=2025-07-01), genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de ambtenaar van politie die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
+1. In afwijking van de in [artikel 48m, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48m&z=2026-01-01&g=2026-01-01), genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de ambtenaar van politie die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
 2. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in het eerste lid bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in het eerste lid genoemde termijn, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
-3. Indien de ongeschiktheid tot het verrichten van arbeid wegens ziekte een aanvang heeft genomen voor het op grond van het eerste lid vast te stellen tijdstip blijft voor de periode, genoemd in [artikel 48m, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48m&z=2025-07-01&g=2025-07-01), de in het eerste lid genoemde termijn van dertien weken gelden.
+3. Indien de ongeschiktheid tot het verrichten van arbeid wegens ziekte een aanvang heeft genomen voor het op grond van het eerste lid vast te stellen tijdstip blijft voor de periode, genoemd in [artikel 48m, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48m&z=2026-01-01&g=2026-01-01), de in het eerste lid genoemde termijn van dertien weken gelden.
 
 4. Het tijdstip, bedoeld in het eerste lid, wordt niet eerder vastgesteld dan nadat:
 
@@ -1387,17 +1387,17 @@ Indien bij voorschriften of regels op grond van [artikel 47, eerste lid](https:/
 
 ##### Artikel 48o
 
-1. De op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van [artikel II van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=II), blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar van politie:
+1. De op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van [artikel II van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=II), blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar van politie:
 
 - a. die op de dag voor het tijdstip van inwerkingtreding ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
 
 - b. die voor het tijdstip van inwerkingtreding en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na dat tijdstip verhinderd is om de dienst te verrichten of het ambt te vervullen wegens ongeschiktheid als gevolg van ziekte.
 
-2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in [artikel 48n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48n&z=2025-07-01&g=2025-07-01), genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
+2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in [artikel 48n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48n&z=2026-01-01&g=2026-01-01), genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
 ##### Artikel 48p
 
-Bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2025-07-01&g=2025-07-01), kan ten gunste van de ambtenaar van politie die de in [48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01), bedoelde leeftijd heeft bereikt, van de [artikelen 48j tot en met 48o](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2025-07-01&g=2025-07-01) worden afgeweken.
+Bij voorschriften of regels op grond van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=47&z=2026-01-01&g=2026-01-01), kan ten gunste van de ambtenaar van politie die de in [48j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01), bedoelde leeftijd heeft bereikt, van de [artikelen 48j tot en met 48o](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=48j&z=2026-01-01&g=2026-01-01) worden afgeweken.
 
 ### Hoofdstuk 4. De rijksrecherche
 
@@ -1431,11 +1431,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 23a
 
-1. De hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2025-07-01&g=2025-07-01), worden vastgesteld bij regeling van Onze Minister, in overeenstemming met Onze Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, met de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening betreft, en met Onze Minister van Defensie voor zover het de Koninklijke marechaussee betreft.
+1. De hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2026-01-01&g=2026-01-01), worden vastgesteld bij regeling van Onze Minister, in overeenstemming met Onze Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, met de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening betreft, en met Onze Minister van Defensie voor zover het de Koninklijke marechaussee betreft.
 
-2. De hoofdlijnen kunnen betrekking hebben op de samenwerking bij de uitvoering van de meldkamerfuncties, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25b&z=2025-07-01&g=2025-07-01).
+2. De hoofdlijnen kunnen betrekking hebben op de samenwerking bij de uitvoering van de meldkamerfuncties, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25b&z=2026-01-01&g=2026-01-01).
 
-3. Onze Ministers, bedoeld in het eerste lid, de Regionale Ambulancevoorzieningen en de besturen van de veiligheidsregio’s voeren, in aanwezigheid van de korpschef, ten minste tweemaal per jaar overleg over het functioneren van de meldkamers en over de samenwerking bij de uitvoering van de meldkamerfuncties. In dit overleg wordt in ieder geval gesproken over de onderdelen van de stukken, bedoeld in [artikel 19, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=19&z=2025-07-01&g=2025-07-01), die daarop betrekking hebben.
+3. Onze Ministers, bedoeld in het eerste lid, de Regionale Ambulancevoorzieningen en de besturen van de veiligheidsregio’s voeren, in aanwezigheid van de korpschef, ten minste tweemaal per jaar overleg over het functioneren van de meldkamers en over de samenwerking bij de uitvoering van de meldkamerfuncties. In dit overleg wordt in ieder geval gesproken over de onderdelen van de stukken, bedoeld in [artikel 19, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=19&z=2026-01-01&g=2026-01-01), die daarop betrekking hebben.
 
 ### Afdeling 3.2. De inrichting van de politie
 
@@ -1443,7 +1443,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 25a
 
-1. Een meldkamer is de fysieke plaats waar de meldkamerfunctie, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25b&z=2025-07-01&g=2025-07-01), wordt uitgevoerd. De politie heeft meldkamers.
+1. Een meldkamer is de fysieke plaats waar de meldkamerfunctie, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25b&z=2026-01-01&g=2026-01-01), wordt uitgevoerd. De politie heeft meldkamers.
 
 2. Bij algemene maatregel van bestuur wordt voor elke meldkamer de locatie aangewezen, alsmede het gebied waarvoor op die meldkamer de meldkamerfunctie wordt uitgevoerd.
 
@@ -1461,11 +1461,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. De meldkamerfunctie bestaat uit het ontvangen, registreren en beoordelen van meldingen waarbij wordt gevraagd om acute inzet van politie, ambulancezorg, brandweer of Koninklijke marechaussee, het bieden van een adequaat hulpaanbod en het begeleiden en coördineren van de hulpdiensten.
 
-2. De meldkamerfunctie wordt uitgevoerd op een meldkamer als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2025-07-01&g=2025-07-01).
+2. De meldkamerfunctie wordt uitgevoerd op een meldkamer als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=25a&z=2026-01-01&g=2026-01-01).
 
 3. De politie voert op een meldkamer de meldkamerfunctie ten behoeve van de brandweertaak uit, indien daartoe een besluit is genomen als bedoeld in [artikel 35, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35).
 
-4. De politie verzorgt het aannemen van de meldingen, tenzij bij de regeling, bedoeld in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=23&z=2025-07-01&g=2025-07-01), anders is bepaald.
+4. De politie verzorgt het aannemen van de meldingen, tenzij bij de regeling, bedoeld in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.1&artikel=23&z=2026-01-01&g=2026-01-01), anders is bepaald.
 
 #### § 3.2.2. De korpschef
 
@@ -1541,7 +1541,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48q
 
-1. Het verrichten van werkzaamheden als ambtenaar van politie als bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), is slechts mogelijk, indien hiertegen op grond van een onderzoek naar de betrouwbaarheid van de betrokkene geen bezwaar bestaat.
+1. Het verrichten van werkzaamheden als ambtenaar van politie als bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), is slechts mogelijk, indien hiertegen op grond van een onderzoek naar de betrouwbaarheid van de betrokkene geen bezwaar bestaat.
 
 2. Het eerste lid is niet van toepassing indien het bij of krachtens algemene maatregel van bestuur aangewezen werkzaamheden betreft waarin technische, administratieve en andere taken ten dienste van de politie worden uitgevoerd en het tot aanstelling, schorsing of ontslag bevoegd gezag heeft bepaald dat kan worden volstaan met een verklaring omtrent het gedrag.
 
@@ -1559,7 +1559,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48r
 
-1. Aan een onderzoek naar de betrouwbaarheid wordt onderworpen de betrokkene die werkzaamheden als bedoeld in [artikel 48q, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), wil verrichten.
+1. Aan een onderzoek naar de betrouwbaarheid wordt onderworpen de betrokkene die werkzaamheden als bedoeld in [artikel 48q, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), wil verrichten.
 
 2. Het onderzoek naar de betrouwbaarheid omvat een onderzoek naar gegevens die uit het oogpunt van de integriteit van de politie van belang zijn voor het verrichten van deze werkzaamheden.
 
@@ -1569,7 +1569,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. politiegegevens als bedoeld in [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13);
 
-- c. gegevens over gezondheid, voor zover verstrekt door de betrokkene dan wel personen of instanties als bedoeld in [artikel 48t, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2025-07-01&g=2025-07-01), en die betrekking hebben op signalen wijzend op verslaving of een andersoortige afhankelijkheid, en
+- c. gegevens over gezondheid, voor zover verstrekt door de betrokkene dan wel personen of instanties als bedoeld in [artikel 48t, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2026-01-01&g=2026-01-01), en die betrekking hebben op signalen wijzend op verslaving of een andersoortige afhankelijkheid, en
 
 - d. andere bij of krachtens algemene maatregel van bestuur aangewezen gegevens, waaronder gegevens uit open bronnen, betreffende overige persoonlijke gedragingen en omstandigheden.
 
@@ -1581,13 +1581,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Bij of krachtens algemene maatregel van bestuur worden werkzaamheden aangewezen die een verhoogd risico kunnen vormen voor de integriteit van de politie.
 
-2. Indien de betrokkene, bedoeld in [artikel 48r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01), werkzaamheden als bedoeld in het eerste lid gaat verrichten, worden bij het onderzoek naar de betrouwbaarheid tevens justitiële gegevens als bedoeld in [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1), politiegegevens als bedoeld in [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13), en gegevens uit open bronnen geraadpleegd die betrekking hebben op:
+2. Indien de betrokkene, bedoeld in [artikel 48r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01), werkzaamheden als bedoeld in het eerste lid gaat verrichten, worden bij het onderzoek naar de betrouwbaarheid tevens justitiële gegevens als bedoeld in [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1), politiegegevens als bedoeld in [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13), en gegevens uit open bronnen geraadpleegd die betrekking hebben op:
 
 - a. diens partner, diens eerstegraads bloedverwant in neergaande lijn, voor zover twaalf jaar of ouder, of diens inwonende eerstegraads bloedverwant in opgaande lijn;
 
 - b. een andere persoon, dan bedoeld onder a, voor zover twaalf jaar of ouder.
 
-3. Raadplegen van de gegevens van een persoon als bedoeld in het tweede lid, onder b, geschiedt uitsluitend, indien er aanwijzingen zijn dat omtrent deze persoon gegevens als bedoeld in het tweede lid bestaan die vanwege de bijzondere aard van de relatie tussen deze persoon en de betrokkene relevant zijn voor de beoordeling of er geen bezwaar als bedoeld in [artikel 48q, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), bestaat.
+3. Raadplegen van de gegevens van een persoon als bedoeld in het tweede lid, onder b, geschiedt uitsluitend, indien er aanwijzingen zijn dat omtrent deze persoon gegevens als bedoeld in het tweede lid bestaan die vanwege de bijzondere aard van de relatie tussen deze persoon en de betrokkene relevant zijn voor de beoordeling of er geen bezwaar als bedoeld in [artikel 48q, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), bestaat.
 
 4. De aanwijzingen, bedoeld in het derde lid, kunnen uitsluitend worden verkregen op basis van het onderzoek naar de betrouwbaarheid van de betrokkene, waaronder het onderzoek naar gegevens die betrekking hebben op de personen, bedoeld in het tweede lid, onder a.
 
@@ -1597,11 +1597,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48t
 
-1. Voor zover dat voor een goede oordeelsvorming in het kader van het onderzoek naar de betrouwbaarheid noodzakelijk is, kan het bevoegd gezag onderscheidenlijk de korpschef bij de toepassing van [artikel 48r](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01) of [artikel 48s](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01) inlichtingen inwinnen omtrent:
+1. Voor zover dat voor een goede oordeelsvorming in het kader van het onderzoek naar de betrouwbaarheid noodzakelijk is, kan het bevoegd gezag onderscheidenlijk de korpschef bij de toepassing van [artikel 48r](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01) of [artikel 48s](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01) inlichtingen inwinnen omtrent:
 
-- a. de betrokkene en de personen, bedoeld in de [artikelen 48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01), bij het openbaar ministerie en bij instellingen die op grond van [artikel 4, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=4) bevoegd zijn om reclasseringswerkzaamheden te verrichten, voor zover het betreft de op hen betrekking hebbende justitiële gegevens;
+- a. de betrokkene en de personen, bedoeld in de [artikelen 48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01), bij het openbaar ministerie en bij instellingen die op grond van [artikel 4, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=4) bevoegd zijn om reclasseringswerkzaamheden te verrichten, voor zover het betreft de op hen betrekking hebbende justitiële gegevens;
 
-- b. de betrokkene bij personen en instanties die inzicht hebben in diens betrouwbaarheid, voor zover het betreft gegevens als bedoeld in [artikel 48r, derde lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01).
+- b. de betrokkene bij personen en instanties die inzicht hebben in diens betrouwbaarheid, voor zover het betreft gegevens als bedoeld in [artikel 48r, derde lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01).
 
 2. Het inwinnen van inlichtingen als bedoeld in het eerste lid, onder b, vindt slechts plaats onder opgave van redenen aan de betrokkene en nadat hem is bericht bij welke persoon of instantie en in welke fase van het onderzoek dat geschiedt.
 
@@ -1609,7 +1609,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Het onderzoek naar de betrouwbaarheid wordt pas ingesteld nadat het tot aanstelling, schorsing en ontslag bevoegd gezag onderscheidenlijk de korpschef de betrokkene overigens bekwaam en geschikt acht. De betrokkene wordt schriftelijk in kennis gesteld van de aanvang van het onderzoek naar de betrouwbaarheid.
 
-2. Een beslissing omtrent de betrouwbaarheid als bedoeld in [artikel 48q, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), wordt aangemerkt als een beschikking als bedoeld in [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
+2. Een beslissing omtrent de betrouwbaarheid als bedoeld in [artikel 48q, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), wordt aangemerkt als een beschikking als bedoeld in [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 3. Het bevoegd gezag onderscheidenlijk de korpschef beslist omtrent de betrouwbaarheid zo spoedig mogelijk, doch uiterlijk binnen 8 weken na toezending of uitreiking van de kennisgeving, bedoeld in het eerste lid, tweede volzin.
 
@@ -1621,11 +1621,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Het bevoegd gezag onderscheidenlijk de korpschef oefent een continue controle uit op:
 
-- a. ambtenaren van politie als bedoeld in [artikel 2, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01);
+- a. ambtenaren van politie als bedoeld in [artikel 2, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- b. personen die werkzaamheden als bedoeld in [artikel 48q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), verrichten.
+- b. personen die werkzaamheden als bedoeld in [artikel 48q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), verrichten.
 
-2. De continue controle bestaat uit een doorlopende controle op veranderingen in de justitiële documentatie, bedoeld in [artikel 1, onder g, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1), van deze personen, teneinde na te gaan of ten aanzien van hen geen bezwaar bestaat tegen het blijven verrichten van werkzaamheden als ambtenaar van politie als bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), onderscheidenlijk werkzaamheden als bedoeld in [artikel 48q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01).
+2. De continue controle bestaat uit een doorlopende controle op veranderingen in de justitiële documentatie, bedoeld in [artikel 1, onder g, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1), van deze personen, teneinde na te gaan of ten aanzien van hen geen bezwaar bestaat tegen het blijven verrichten van werkzaamheden als ambtenaar van politie als bedoeld in [artikel 2, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), onderscheidenlijk werkzaamheden als bedoeld in [artikel 48q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01).
 
 3. Ten behoeve van de continue controle worden door het bevoegd gezag onderscheidenlijk de korpschef de naam en het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van deze personen periodiek verstrekt aan Onze Minister.
 
@@ -1635,11 +1635,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48w
 
-1. De ambtenaar, bedoeld in [artikel 48v, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01), meldt aan het bevoegd gezag een wijziging van feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat die uit het oogpunt van de integriteit van de politie relevant is voor het verrichten van werkzaamheden als ambtenaar van politie.
+1. De ambtenaar, bedoeld in [artikel 48v, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01), meldt aan het bevoegd gezag een wijziging van feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat die uit het oogpunt van de integriteit van de politie relevant is voor het verrichten van werkzaamheden als ambtenaar van politie.
 
-2. De persoon, bedoeld in [artikel 48v, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01), meldt aan de korpschef een wijziging van feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat die uit het oogpunt van de integriteit van de politie relevant is voor het blijven verrichten van deze werkzaamheden.
+2. De persoon, bedoeld in [artikel 48v, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01), meldt aan de korpschef een wijziging van feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat die uit het oogpunt van de integriteit van de politie relevant is voor het blijven verrichten van deze werkzaamheden.
 
-3. Onder een wijziging van feiten of omstandigheden als bedoeld in het eerste en tweede lid, wordt verstaan een wijziging die betrekking heeft op de gegevens, bedoeld in de [artikelen 48r, derde lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01), en [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01).
+3. Onder een wijziging van feiten of omstandigheden als bedoeld in het eerste en tweede lid, wordt verstaan een wijziging die betrekking heeft op de gegevens, bedoeld in de [artikelen 48r, derde lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01), en [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01).
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de melding, bedoeld in het eerste en tweede lid.
 
@@ -1647,11 +1647,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48x
 
-1. Het bevoegd gezag onderscheidenlijk de korpschef kan, indien hem blijkt van feiten of omstandigheden die een hernieuwd onderzoek naar de betrouwbaarheid rechtvaardigen, een onderzoek naar de betrouwbaarheid instellen naar de persoon, bedoeld in [artikel 48v, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01).
+1. Het bevoegd gezag onderscheidenlijk de korpschef kan, indien hem blijkt van feiten of omstandigheden die een hernieuwd onderzoek naar de betrouwbaarheid rechtvaardigen, een onderzoek naar de betrouwbaarheid instellen naar de persoon, bedoeld in [artikel 48v, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01).
 
-2. Het bevoegd gezag onderscheidenlijk de korpschef stelt periodiek een hernieuwd onderzoek naar de betrouwbaarheid in naar een persoon als bedoeld in [artikel 48v, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01).
+2. Het bevoegd gezag onderscheidenlijk de korpschef stelt periodiek een hernieuwd onderzoek naar de betrouwbaarheid in naar een persoon als bedoeld in [artikel 48v, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01).
 
-3. Op het onderzoek, bedoeld in het eerste en tweede lid, zijn de [artikelen 48q](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), [48r, eerste tot en met derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01), [48s](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2025-07-01&g=2025-07-01) en [48u, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48u&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing. Op het onderzoek, bedoeld in het tweede lid, is tevens artikel 48u, eerste lid, tweede volzin, en derde lid, van overeenkomstige toepassing.
+3. Op het onderzoek, bedoeld in het eerste en tweede lid, zijn de [artikelen 48q](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), [48r, eerste tot en met derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01), [48s](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2026-01-01&g=2026-01-01) en [48u, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48u&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing. Op het onderzoek, bedoeld in het tweede lid, is tevens artikel 48u, eerste lid, tweede volzin, en derde lid, van overeenkomstige toepassing.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de feiten of omstandigheden, bedoeld in het eerste lid, en de periode, bedoeld in het tweede lid, waarbij de periode voor verschillende werkzaamheden anders kan worden vastgesteld.
 
@@ -1659,27 +1659,27 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 48y
 
-1. De korpschef vraagt de ambtenaar van politie die beschikt over een verklaring omtrent het gedrag ter voldoening van [artikel 48q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), en de persoon die krachtens overeenkomst werkzaamheden verricht voor de politie en beschikt over een verklaring omtrent het gedrag ter voldoening van artikel 48q, derde lid, na het verstrijken van een bij algemene maatregel van bestuur te bepalen termijn opnieuw een verklaring omtrent het gedrag over te leggen.
+1. De korpschef vraagt de ambtenaar van politie die beschikt over een verklaring omtrent het gedrag ter voldoening van [artikel 48q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), en de persoon die krachtens overeenkomst werkzaamheden verricht voor de politie en beschikt over een verklaring omtrent het gedrag ter voldoening van artikel 48q, derde lid, na het verstrijken van een bij algemene maatregel van bestuur te bepalen termijn opnieuw een verklaring omtrent het gedrag over te leggen.
 
 2. De korpschef kan, indien hem blijkt van feiten of omstandigheden die het overleggen van een verklaring omtrent het gedrag rechtvaardigen, de in het eerste lid bedoelde persoon vragen opnieuw een verklaring omtrent het gedrag over te leggen.
 
-3. Indien de persoon, bedoeld in het eerste of tweede lid, niet binnen een redelijke termijn een verklaring omtrent het gedrag overlegt, wordt niet langer voldaan aan het vereiste voor het verrichten van werkzaamheden als bedoeld in [artikel 48q, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01).
+3. Indien de persoon, bedoeld in het eerste of tweede lid, niet binnen een redelijke termijn een verklaring omtrent het gedrag overlegt, wordt niet langer voldaan aan het vereiste voor het verrichten van werkzaamheden als bedoeld in [artikel 48q, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01).
 
-4. [Artikel 48q, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01), is van toepassing.
+4. [Artikel 48q, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01), is van toepassing.
 
 ##### Artikel 48z
 
-1. Het bevoegd gezag onderscheidenlijk de korpschef is de verwerkingsverantwoordelijke, bedoeld in artikel 4, onder 7, van de Algemene verordening gegevensbescherming, ten aanzien van de maatregelen, bedoeld in de [artikelen 48q tot en met 48y](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01).
+1. Het bevoegd gezag onderscheidenlijk de korpschef is de verwerkingsverantwoordelijke, bedoeld in artikel 4, onder 7, van de Algemene verordening gegevensbescherming, ten aanzien van de maatregelen, bedoeld in de [artikelen 48q tot en met 48y](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01).
 
 2. Het bevoegd gezag onderscheidenlijk de korpschef is bevoegd:
 
-- a. de gegevens, bedoeld in de [artikelen 48r, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01), [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2025-07-01&g=2025-07-01) en [48x](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48x&z=2025-07-01&g=2025-07-01) te verwerken, voor zover dit noodzakelijk is voor de uitvoering van het onderzoek naar de betrouwbaarheid van de betrokkene;
+- a. de gegevens, bedoeld in de [artikelen 48r, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01), [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2026-01-01&g=2026-01-01) en [48x](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48x&z=2026-01-01&g=2026-01-01) te verwerken, voor zover dit noodzakelijk is voor de uitvoering van het onderzoek naar de betrouwbaarheid van de betrokkene;
 
-- b. de gegevens, bedoeld in [artikel 48v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01), te verwerken, voor zover dit noodzakelijk is voor de toepassing van [artikel 48v, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01);
+- b. de gegevens, bedoeld in [artikel 48v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01), te verwerken, voor zover dit noodzakelijk is voor de toepassing van [artikel 48v, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01);
 
-- c. de gegevens, bedoeld in [artikel 48w, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48w&z=2025-07-01&g=2025-07-01), te verwerken, voor zover dit noodzakelijk is om na te gaan of ten aanzien van de betrokkene geen bezwaar bestaat tegen het blijven verrichten van werkzaamheden als ambtenaar van politie onderscheidenlijk werkzaamheden als bedoeld in [artikel 48q, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2025-07-01&g=2025-07-01).
+- c. de gegevens, bedoeld in [artikel 48w, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48w&z=2026-01-01&g=2026-01-01), te verwerken, voor zover dit noodzakelijk is om na te gaan of ten aanzien van de betrokkene geen bezwaar bestaat tegen het blijven verrichten van werkzaamheden als ambtenaar van politie onderscheidenlijk werkzaamheden als bedoeld in [artikel 48q, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48q&z=2026-01-01&g=2026-01-01).
 
-3. De gegevens, bedoeld in de [artikelen 48r, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2025-07-01&g=2025-07-01), [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2025-07-01&g=2025-07-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2025-07-01&g=2025-07-01), [48v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2025-07-01&g=2025-07-01), [48x](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48x&z=2025-07-01&g=2025-07-01) en [48y](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48y&z=2025-07-01&g=2025-07-01) worden niet voor een ander doel verwerkt dan waarvoor zij zijn verzameld. Zij worden niet langer dan vijf jaren bewaard in een vorm die het mogelijk maakt de betrokkene te identificeren voor het doel waarvoor de gegevens worden verwerkt.
+3. De gegevens, bedoeld in de [artikelen 48r, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48r&z=2026-01-01&g=2026-01-01), [48s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48s&z=2026-01-01&g=2026-01-01), [48t](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48t&z=2026-01-01&g=2026-01-01), [48v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48v&z=2026-01-01&g=2026-01-01), [48x](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48x&z=2026-01-01&g=2026-01-01) en [48y](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=48y&z=2026-01-01&g=2026-01-01) worden niet voor een ander doel verwerkt dan waarvoor zij zijn verzameld. Zij worden niet langer dan vijf jaren bewaard in een vorm die het mogelijk maakt de betrokkene te identificeren voor het doel waarvoor de gegevens worden verwerkt.
 
 ### Hoofdstuk 4. De rijksrecherche
 
