@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2025-08-09"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 3. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, lid 1 bis bis, en derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 3, vijfde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 3 nonies, lid 4 bis, artikel 3 decies, lid 3 bis bis, lid 3 bis ter, lid 3 sexies, lid 3 quater sexies, artikel 3 duodecies, vijfde lid, lid 5 bis, lid 5 bis bis, lid 5 ter, lid 5 quater, lid 5 quinquies, lid 5 sexies, lid 5 septies, lid 5 octies, lid 5 nonies, lid 5 decies en zesde lid, artikel 3 quaterdecies bis, eerste lid, artikel 3 octodecies, tweede tot en met vijfde lid, artikel 4, lid 2 ter en derde lid, artikel 3 novodecies, zevende lid, artikel 5 quindecies, lid 9 quater, artikel 12 octies, lid 2 ter en vierde lid, en artikel 12 octies bis, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Buitenlandse Zaken voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
 
-3a. De bevoegde autoriteit, bedoeld in artikel 2, vierde lid, vijfde lid, zesde lid, zevende lid, achtste lid, artikel 2 bis, vierde lid, vijfde lid, zesde lid, zevende lid, achtste lid, en artikel 3 quater, lid 6 a, lid 6 ter, 6 quater, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Onderwijs, Cultuur en Wetenschap voor zover het betreft technische bijstand in het kader van de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+3a. Vervallen.
 
 4. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde lid, vierde lid en vijfde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 2 sexies, lid 2 bis en vierde lid artikel 3, vijfde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 3 nonies, lid 4 bis, artikel 3 decies, lid 3 quater sexies, lid 3 sexies, artikel 3 duodecies, vijfde lid, lid 5 bis, lid 5 bis bis, lid 5 ter, lid 5 quinquies, lid 5 sexies, lid 5 nonies en zesde lid, artikel 4, lid 2 ter en derde lid, artikel 4, vierde lid juncto artikel 3, artikel 5, zesde en zevende lid, artikel 5 bis, tweede en derde lid, artikel 5 bis quater, zevende lid, artikel 5 quater, eerste lid, en artikel 5 quinquies, eerste lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen. De bevoegde autoriteit, bedoeld in artikel 5 bis, lid 4 bis tot en met lid 4 quinquies, en vijfde lid, en artikel 5 octies van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën, met dien verstande dat de kredietinstellingen de informatie, bedoeld in artikel 5 bis, lid 4 bis tot en met lid 4 quinquies, en artikel 5 octies, onder a, a bis en b, van [Verordening (EU) nr. 833/2014](32014R0833), verstrekken aan De Nederlandsche Bank. De Nederlandsche Bank is ten behoeve van de uitvoering van voornoemd artikel 5 bis en artikel 5 octies bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken. De bevoegde autoriteit, bedoeld in artikel 5 bis, elfde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën.
 
@@ -106,7 +106,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-08-09&g=2025-08-09) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2026-01-01&g=2026-01-01) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -226,17 +226,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1d
 
-1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2025-08-09&g=2025-08-09) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2026-01-01&g=2026-01-01) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
 
 2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
-3. De Minister van Onderwijs, Cultuur en Wetenschap verleent de gevraagde ontheffing, bedoeld in artikel 2, vierde lid, vijfde lid, zesde lid, zevende lid en achtste lid, artikel 2 bis, vierde lid, vijfde lid, zesde lid, zevende lid en achtste lid, en artikel 3 quater, lid 6 a, lid 6 ter en 6 quater, van [Verordening (EU) nr. 833/2014](32014R0833), indien hij in het kader van de uitvoering van deze verordening heeft beoordeeld dat het risico niet onaanvaardbaar groot is dat de verstrekking van onderwijs en onderzoek in strijd is met de artikelen, bedoeld in het eerste lid.
+3. Vervallen.
 
-4. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taken bedoeld in het derde lid.
+4. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taak, bedoeld in het eerste lid.
 
-5. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het derde lid, kunnen bijzondere persoonsgegevens worden verwerkt.
+5. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak, bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
-## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2025-08-09&g=2025-08-09)
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2026-01-01&g=2026-01-01)
 
 - −. geavanceerde natuurkunde
 
