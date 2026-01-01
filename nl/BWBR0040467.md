@@ -4,7 +4,7 @@ identifier: "BWBR0040467"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040467"
 soort: "wet"
@@ -114,8 +114,6 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 Wijzigt de Provinciewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
@@ -130,7 +128,7 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XXIIa
 
-Het ontwerp van het koninklijke besluit, bedoeld in [artikel XXII, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXII&z=2024-01-01&g=2024-01-01), wordt ten minste vier weken voordat het besluit wordt vastgesteld, toegezonden aan de Staten-Generaal.
+Het ontwerp van het koninklijke besluit, bedoeld in [artikel XXII, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXII&z=2026-01-01&g=2026-01-01), wordt ten minste vier weken voordat het besluit wordt vastgesteld, toegezonden aan de Staten-Generaal.
 
 ##### Artikel XXIII
 
@@ -178,7 +176,7 @@ Wijzigt de Wet vereenvoudiging beslagvrije voet.
 
 ##### Artikel XXXc
 
-Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXI&z=2024-01-01&g=2024-01-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de daarin opgenomen wijziging van [artikel 17, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=17).
+Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXI&z=2026-01-01&g=2026-01-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de daarin opgenomen wijziging van [artikel 17, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=17).
 
 ##### Artikel XXXd
 
@@ -190,23 +188,23 @@ Wijzigt de Invorderingswet 1990 en het Besluit vaststelling selectielijst neersl
 
 ##### Artikel XXXI
 
-1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2018, met dien verstande dat [artikel VII, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2024-01-01&g=2024-01-01), voor het eerst toepassing vindt met betrekking tot het eerste verslagjaar van de multinationale groep dat begint op of na 1 januari 2016.
+1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2018, met dien verstande dat [artikel VII, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2026-01-01&g=2026-01-01), voor het eerst toepassing vindt met betrekking tot het eerste verslagjaar van de multinationale groep dat begint op of na 1 januari 2016.
 
-2. In afwijking van het eerste lid treden [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=IX&z=2024-01-01&g=2024-01-01), [artikel XVII, onderdelen A tot en met G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XVII&z=2024-01-01&g=2024-01-01), [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XIX&z=2024-01-01&g=2024-01-01) en [artikel XXVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXVI&z=2024-01-01&g=2024-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treden [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=IX&z=2026-01-01&g=2026-01-01), [artikel XVII, onderdelen A tot en met G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XVII&z=2026-01-01&g=2026-01-01), [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XIX&z=2026-01-01&g=2026-01-01) en [artikel XXVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXVI&z=2026-01-01&g=2026-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2024-01-01&g=2024-01-01), werkt terug tot en met 1 januari 2005.
+3. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2026-01-01&g=2026-01-01), werkt terug tot en met 1 januari 2005.
 
-4. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2024-01-01&g=2024-01-01), en [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=II&z=2024-01-01&g=2024-01-01), werken terug tot en met 1 januari 2013.
+4. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=II&z=2026-01-01&g=2026-01-01), werken terug tot en met 1 januari 2013.
 
-5. [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2024-01-01&g=2024-01-01), werkt terug tot en met 1 april 2015.
+5. [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2026-01-01&g=2026-01-01), werkt terug tot en met 1 april 2015.
 
-6. [Artikel XXIII, onderdelen 0A en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXIII&z=2024-01-01&g=2024-01-01), werkt terug tot en met 1 januari 2016.
+6. [Artikel XXIII, onderdelen 0A en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XXIII&z=2026-01-01&g=2026-01-01), werkt terug tot en met 1 januari 2016.
 
-7. [Artikel IV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=IV&z=2024-01-01&g=2024-01-01), [artikel VII, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2024-01-01&g=2024-01-01), en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VIII&z=2024-01-01&g=2024-01-01) werken terug tot en met 1 januari 2017.
+7. [Artikel IV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=IV&z=2026-01-01&g=2026-01-01), [artikel VII, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2026-01-01&g=2026-01-01), en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VIII&z=2026-01-01&g=2026-01-01) werken terug tot en met 1 januari 2017.
 
-8. [Artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2024-01-01&g=2024-01-01), en [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2024-01-01&g=2024-01-01), werken terug tot en met 1 april 2017.
+8. [Artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=VII&z=2026-01-01&g=2026-01-01), werken terug tot en met 1 april 2017.
 
-9. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XVIII&z=2024-01-01&g=2024-01-01) werkt terug tot en met 20 april 2017.
+9. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040467&artikel=XVIII&z=2026-01-01&g=2026-01-01) werkt terug tot en met 20 april 2017.
 
 ##### Artikel XXXII
 
