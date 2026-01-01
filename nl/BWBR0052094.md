@@ -4,7 +4,7 @@ identifier: "BWBR0052094"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-01"
-last_updated: "2025-08-25"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052094"
 soort: "wet"
@@ -140,7 +140,7 @@ Wijzigt de Wet bedrag ineens, RVU en verlofsparen.
 
 ##### Artikel IX
 
-Onze Minister zendt drie jaar na de inwerkingtreding van de in [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=IV&z=2026-01-01&g=2025-08-25), opgenomen pseudo-eindheffing een verslag aan de Tweede Kamer der Staten-Generaal over de doeltreffendheid en de effecten hiervan.
+Onze Minister zendt drie jaar na de inwerkingtreding van de in [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=IV&z=2026-01-01&g=2026-01-01), opgenomen pseudo-eindheffing een verslag aan de Tweede Kamer der Staten-Generaal over de doeltreffendheid en de effecten hiervan.
 
 ##### Artikel IXa
 
@@ -296,7 +296,7 @@ Wijzigt de Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2025.
 
 ##### Artikel XXXIX
 
-[Artikel X, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=X&z=2026-01-01&g=2025-08-25) vindt geen toepassing op verkrijgingen op grond van huwelijkse voorwaarden die zijn aangegaan voor 16 september 2025, 16:00 uur, alsmede op verkrijgingen op grond van een notarieel samenlevingscontract dat is afgesloten voor 16 september 2025, 16:00 uur. De eerste zin is niet langer van toepassing zodra die huwelijkse voorwaarden, onderscheidenlijk dat notariële samenlevingscontract, op of na dat tijdstip worden, onderscheidenlijk wordt, gewijzigd met betrekking tot het aandeel in de huwelijksgoederengemeenschap of de te verrekenen som.
+[Artikel X, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=X&z=2026-01-01&g=2026-01-01) vindt geen toepassing op verkrijgingen op grond van huwelijkse voorwaarden die zijn aangegaan voor 16 september 2025, 16:00 uur, alsmede op verkrijgingen op grond van een notarieel samenlevingscontract dat is afgesloten voor 16 september 2025, 16:00 uur. De eerste zin is niet langer van toepassing zodra die huwelijkse voorwaarden, onderscheidenlijk dat notariële samenlevingscontract, op of na dat tijdstip worden, onderscheidenlijk wordt, gewijzigd met betrekking tot het aandeel in de huwelijksgoederengemeenschap of de te verrekenen som.
 
 ##### Artikel XL
 
@@ -328,7 +328,7 @@ De bedragen, bedoeld in de artikelen en onderdelen, genoemd in [artikel XXXV, on
 
 ##### Artikel XLVI
 
-Na toepassing van de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), en [III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2025-08-25), [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2026 worden de bedragen in [kolom III van de tabellen in de artikelen 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10), en [2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a) en in de artikelen 20a, eerste lid, en 20b, eerste lid, van de Wet op de loonbelasting 1964 bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die bepalingen voortvloeien uit de bij het begin van het kalenderjaar 2026 in de kolommen I en II van die tabellen vermelde bedragen en de in kolom IV van die tabel vermelde percentages.
+Na toepassing van de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), en [III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2026-01-01), [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2026 worden de bedragen in [kolom III van de tabellen in de artikelen 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10), en [2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a) en in de artikelen 20a, eerste lid, en 20b, eerste lid, van de Wet op de loonbelasting 1964 bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die bepalingen voortvloeien uit de bij het begin van het kalenderjaar 2026 in de kolommen I en II van die tabellen vermelde bedragen en de in kolom IV van die tabel vermelde percentages.
 
 ##### Artikel XLVIa
 
@@ -352,33 +352,33 @@ Ingeval de samenloop van wetten die in 2025 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
-- a. [artikel I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), en [artikel III, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2025-08-25), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2026 is toegepast;
+- a. [artikel I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel III, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2026-01-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2026 is toegepast;
 
-- aa. [artikel I, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), toepassing vindt nadat [artikel 10b.1, tweede lid van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10b.1) met ingang van 1 januari 2026 is toegepast;
+- aa. [artikel I, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), toepassing vindt nadat [artikel 10b.1, tweede lid van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10b.1) met ingang van 1 januari 2026 is toegepast;
 
-- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2025-08-25), terugwerken tot en met 1 januari 2020;
+- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=III&z=2026-01-01&g=2026-01-01), terugwerken tot en met 1 januari 2020;
 
-- c. [artikel I, onderdelen F en G, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), en [artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XL&z=2026-01-01&g=2025-08-25) terugwerken tot en met 25 augustus 2025, 16.00 uur;
+- c. [artikel I, onderdelen F en G, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XL&z=2026-01-01&g=2026-01-01) terugwerken tot en met 25 augustus 2025, 16.00 uur;
 
-- ca. [artikel IV, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=IV&z=2026-01-01&g=2025-08-25), toepassing vindt nadat [artikel 35o van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35o) met ingang van 1 januari 2026 is toegepast;
+- ca. [artikel IV, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=IV&z=2026-01-01&g=2026-01-01), toepassing vindt nadat [artikel 35o van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35o) met ingang van 1 januari 2026 is toegepast;
 
-- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=VII&z=2026-01-01&g=2025-08-25) toepassing vindt voordat [artikel V, onderdelen E en G, van de Wet bedrag ineens, RVU en verlofsparen](https://wetten.overheid.nl/jci1.3:c:BWBR0044727&artikel=V) wordt toegepast;
+- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=VII&z=2026-01-01&g=2026-01-01) toepassing vindt voordat [artikel V, onderdelen E en G, van de Wet bedrag ineens, RVU en verlofsparen](https://wetten.overheid.nl/jci1.3:c:BWBR0044727&artikel=V) wordt toegepast;
 
-- e. [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XI&z=2026-01-01&g=2025-08-25), terugwerkt tot en met 1 januari 2025;
+- e. [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XI&z=2026-01-01&g=2026-01-01), terugwerkt tot en met 1 januari 2025;
 
-- f. [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXIII&z=2026-01-01&g=2025-08-25) voor het eerst toepassing vindt met betrekking tot belastingaanslagen erfbelasting ter zake van overlijdens die op of na 1 januari 2026 plaatsvinden;
+- f. [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXIII&z=2026-01-01&g=2026-01-01) voor het eerst toepassing vindt met betrekking tot belastingaanslagen erfbelasting ter zake van overlijdens die op of na 1 januari 2026 plaatsvinden;
 
-- g. [artikel XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVII&z=2026-01-01&g=2025-08-25) toepassing vindt voordat de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=III) en [IX van het Belastingplan 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IX) worden toegepast;
+- g. [artikel XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVII&z=2026-01-01&g=2026-01-01) toepassing vindt voordat de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=III) en [IX van het Belastingplan 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049148&artikel=IX) worden toegepast;
 
-- h. [artikel XXXVIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVIII&z=2026-01-01&g=2025-08-25), toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=II) en [IX, onderdeel A, van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=IX) worden toegepast;
+- h. [artikel XXXVIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVIII&z=2026-01-01&g=2026-01-01), toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=II) en [IX, onderdeel A, van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=IX) worden toegepast;
 
-- i. [artikel XXXVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVIII&z=2026-01-01&g=2025-08-25), toepassing vindt voordat [artikel XLIII van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=XLIII) wordt toegepast.
+- i. [artikel XXXVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVIII&z=2026-01-01&g=2026-01-01), toepassing vindt voordat [artikel XLIII van het Belastingplan 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050620&artikel=XLIII) wordt toegepast.
 
-- 1a. In afwijking van het eerste lid treedt [artikel I, onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2025-08-25), met ingang van 1 januari 2028 in werking.
+- 1a. In afwijking van het eerste lid treedt [artikel I, onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=I&z=2026-01-01&g=2026-01-01), met ingang van 1 januari 2028 in werking.
 
-2. In afwijking van het eerste lid treedt [artikel XVII, onderdelen Aa en B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XVII&z=2026-01-01&g=2025-08-25), in werking op het tijdstip waarop [artikel 30 van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=30) in werking treedt.
+2. In afwijking van het eerste lid treedt [artikel XVII, onderdelen Aa en B](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XVII&z=2026-01-01&g=2026-01-01), in werking op het tijdstip waarop [artikel 30 van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=30) in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel XXXVA](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVa&z=2026-01-01&g=2025-08-25) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
+3. In afwijking van het eerste lid treedt [artikel XXXVA](https://wetten.overheid.nl/jci1.3:c:BWBR0052094&artikel=XXXVa&z=2026-01-01&g=2026-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel LI
 
