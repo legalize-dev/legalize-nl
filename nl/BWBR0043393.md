@@ -4,7 +4,7 @@ identifier: "BWBR0043393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-08-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043393"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ BESLUIT:
 
 - **ATBNG:** automatische treinbeïnvloeding Nieuwe Generatie;
 
-- **CLC:** Europese norm, opgesteld door het Europees Comité voor Elektrotechnische Standaardisatie CENELEC, in de versie, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01);
+- **CLC:** Europese norm, opgesteld door het Europees Comité voor Elektrotechnische Standaardisatie CENELEC, in de versie, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01);
 
-- **EN:** Europese norm, opgesteld door de Europese normalisatie-instelling CEN, in de versie, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01);
+- **EN:** Europese norm, opgesteld door de Europese normalisatie-instelling CEN, in de versie, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01);
 
 - **ETCS:** European Train Control System;
 
@@ -64,7 +64,7 @@ BESLUIT:
 
 - **RINF:** de RINF-toepassing als bedoeld in artikel 2, eerste lid, van de [Verordening (EU) 2019/777](32019R0777) van de Commissie van 16 mei 2019 inzake de gemeenschappelijke specificaties voor het register van de spoorweginfrastructuur en tot intrekking van Uitvoeringsbesluit 2014/880/EU (PbEU 2019 L 139/312);
 
-- **rail-wegvoertuigen:** voertuigen die zowel op het spoor als op de weg kunnen rijden;
+- **rijmodus:** inzet in treindienst als zelfrijdend spoorvoertuig of als getrokken spoorvoertuig, bedoeld in EN 14033-1:2017 en EN 15746-3:2020;
 
 - **STM:** specifieke transmissiemodule als bedoeld in TSI CCS;
 
@@ -74,7 +74,7 @@ BESLUIT:
 
 - **UIC:** voorschrift van de Internationale Spoorweg Unie;
 
-- **vervoersmodus:** inzet in treindienst als zelfrijdend spoorvoertuig of als getrokken spoorvoertuig, bedoeld in EN 14033-2:2017 en 15746-3:2020, niet zijnde de werkmodus (verplaatsing en werkinzet);
+- **voertuigen voor weg en spoorweg:** voertuigen die zowel op het spoor als op de weg kunnen rijden;
 
 - **wagen:** spoorvoertuig zonder eigen voortbewegingsinrichting bestemd voor het vervoer van goederen;
 
@@ -102,25 +102,25 @@ Vervallen
 
 1. De boorduitrusting voor besturing en seingeving die in een locomotief, treinstel, stuurrijtuig of bijzonder voertuig is aangebracht voldoet:
 
-- a. voor zover het ETCS betreft, aan de eisen, genoemd in [bijlage 3, hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2024-08-01&g=2024-08-01);
+- a. voor zover het ETCS betreft, aan de eisen, genoemd in [bijlage 3, hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2026-01-01&g=2026-01-01);
 
-- b. voor zover het ATBEG betreft, aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01);
+- b. voor zover het ATBEG betreft, aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01);
 
-- c. voor zover het de STM waarin de functies van ATBEG zijn gerealiseerd betreft, aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) en aan de eisen die zijn genoemd in [bijlage 3, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2024-08-01&g=2024-08-01);
+- c. voor zover het de STM waarin de functies van ATBEG zijn gerealiseerd betreft, aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) en aan de eisen die zijn genoemd in [bijlage 3, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2026-01-01&g=2026-01-01);
 
-- d. voor zover het ATBNG betreft, aan de eisen, genoemd in [bijlage 2, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01);
+- d. voor zover het ATBNG betreft, aan de eisen, genoemd in [bijlage 2, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01);
 
-- e. voor zover het de STM waarin de functies van ATBNG zijn gerealiseerd betreft, aan de eisen genoemd in [bijlage 2, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01).
+- e. voor zover het de STM waarin de functies van ATBNG zijn gerealiseerd betreft, aan de eisen genoemd in [bijlage 2, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01).
 
-2. De boorduitrusting, bedoeld in het eerste lid, onderdelen b en c, voorziet in registratieapparatuur die in ieder geval de volgende gegevens registreert:
+2. De boorduitrusting, bedoeld in het eerste lid, onderdelen b, c, d en e, voorziet in registratieapparatuur die in ieder geval de volgende gegevens registreert:
 
 - a. ATB-cabineseinen, bij bijzondere voertuigen voor zover deze beschikbaar of aanwezig zijn;
 
-- b. de gegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=4&z=2024-08-01&g=2024-08-01).
+- b. de gegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 4. Aarding
 
-1. Met betrekking tot de eisen die voor dit artikel zijn genoemd bij [index 1.1 in bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01) wordt bij de dimensionering van de retourstroom- en veiligheidsaardingscircuits van een spoorvoertuig onder 1.500V DC energievoorziening aangetoond dat het circuit ten minste bestand is tegen de railretourstromen die kunnen optreden volgens de onderstaande tabel:
+1. Met betrekking tot de eisen die voor dit artikel zijn genoemd bij [index 1.1 in bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01) wordt bij de dimensionering van de retourstroom- en veiligheidsaardingscircuits van een spoorvoertuig onder 1.500V DC energievoorziening aangetoond dat het circuit ten minste bestand is tegen de railretourstromen die kunnen optreden volgens de onderstaande tabel:
 
 | Tijdsduur [s] | 1 | 33 | 67 | 89 | 115 | 201 | 254 | 306 | 331 | 341 | 515 | 796 | 833 | 931 | 973 | 1000 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -154,41 +154,39 @@ die remwegverlenging bij slechte adhesie voor alle snelheden tot vrijwel stilsta
 
 ##### Artikel 6. Profiel
 
-Spoorvoertuigen die gebruik maken van het traject Roosendaal–Belgische grens en Maastricht–Belgische grens, hebben aan de onderzijde een uitsparing voor het treinbeveiligingssysteem Crocodile/Memor, in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+Spoorvoertuigen die gebruik maken van het traject Roosendaal–Belgische grens en Maastricht–Belgische grens, hebben aan de onderzijde een uitsparing voor het treinbeveiligingssysteem Crocodile/Memor, in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 7. Loopeigenschappen
 
-1. Bij een aanvraag met betrekking tot het in de handel brengen van een spoorvoertuig met een wieldiameter kleiner dan 730 mm, onderbouwt de aanvrager dat het spoorvoertuig waarop de aanvraag ziet voor wat betreft het dynamisch gedrag veilig het puntstuk van kruisingen en Engelse wissels met verhouding 1:9 en 1:10 kan raken, respectievelijk 180 en 200 mm van theoretisch punt van het puntstuk.
-
-2. De onderbouwing, bedoeld in het eerste lid, bestaat uit een simulatieonderzoek van het dynamisch gedrag van het spoorvoertuig, of een onderbouwing van het dynamisch gedrag op basis van een vergelijking met een spoorvoertuig waarvoor door de minister reeds een vergunning is verleend, en bevat ook het oordeel van de beheerder over dat onderzoek of die vergelijking.
+Indien spoorvoertuigen voorzien zijn van wielen met een diameter kleiner dan 730 mm, wordt de veilige berijdbaarheid van Engelse wissels en kruisingen met een hoekverhouding van 1:9 en 1:10 aangetoond in overeenstemming met de eisen, beschreven in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=14&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 8. Wielflenssmeerinstallaties
 
-Indien spoorvoertuigen voorzien zijn van wielflenssmeerinstallaties, voldoen de positie van de spuitmond en de locatie waar het smeermiddel op het wiel wordt aangebracht, aan de eisen, voor dit artikel genoemd in [bijlage 1, index 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+Indien spoorvoertuigen voorzien zijn van wielflenssmeerinstallaties, voldoen de positie van de spuitmond en de locatie waar het smeermiddel op het wiel wordt aangebracht, aan de eisen, voor dit artikel genoemd in [bijlage 1, index 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 9. Elektromagnetische compatibiliteit
 
-Spoorvoertuigen voldoen ten aanzien van elektromagnetische compatibiliteit aan de eisen, die voor dit artikel zijn genoemd in [bijlage 1, index 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+Spoorvoertuigen voldoen ten aanzien van elektromagnetische compatibiliteit aan de eisen, die voor dit artikel zijn genoemd in [bijlage 1, index 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 10. Compatibiliteit met treindetectie van de hoofdspoorweginfrastructuur
 
 1. Indien de detectie wordt bewerkstelligd door middel van laagfrequente spoorstroomlopen 75 Hz, wordt voldaan aan de volgende eisen:
 
-- a. ten aanzien van de stoorstroomcompatibiliteit: de eisen, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01); en
+- a. ten aanzien van de stoorstroomcompatibiliteit: de eisen, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01); en
 
-- b. ten aanzien van de detectiekwaliteit, gebaseerd op het puntenmodel of de gemeten kortsluitwaarden: de eisen, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2024-08-01&g=2024-08-01).
+- b. ten aanzien van de detectiekwaliteit, gebaseerd op het puntenmodel of de gemeten kortsluitwaarden: de eisen, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2026-01-01&g=2026-01-01).
 
 2. Indien de detectie wordt bewerkstelligd door middel van toonfrequente spoorstroomlopen, wordt voldaan aan de volgende eisen:
 
-- a. ten aanzien van de AC-stoorstroomcomponent in de lijnstroom: de eisen, voor dit artikel genoemd in [bijlage 1, index 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01); en
+- a. ten aanzien van de AC-stoorstroomcomponent in de lijnstroom: de eisen, voor dit artikel genoemd in [bijlage 1, index 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01); en
 
-- b. ten aanzien van de detectiekwaliteit, gebaseerd op het puntenmodel of de gemeten kortsluitwaarden: de eisen, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2024-08-01&g=2024-08-01).
+- b. ten aanzien van de detectiekwaliteit, gebaseerd op het puntenmodel of de gemeten kortsluitwaarden: de eisen, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2026-01-01&g=2026-01-01).
 
-3. Indien de detectie wordt bewerkstelligd door middel van assentellers, voldoen magnetische velden veroorzaakt door het spoorvoertuig dan wel door eventuele retourstroom, aan de eisen, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2024-08-01&g=2024-08-01).
+3. Indien de detectie wordt bewerkstelligd door middel van assentellers, voldoen magnetische velden veroorzaakt door het spoorvoertuig dan wel door eventuele retourstroom, aan de eisen, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 11. Stroomafname 1.500 V DC energievoorziening
 
-De stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoorziening, wordt automatisch beperkt in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01), waarbij:
+De stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoorziening, wordt automatisch beperkt in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01), waarbij:
 
 - a. Imax (treinsamenstelling) = 4.000A; en
 
@@ -200,7 +198,7 @@ Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt v
 
 ##### Artikel 13. Compatibiliteit met 25 kV AC energievoorziening
 
-1. Voor spoorvoertuigen die gebruik maken van 25 kV AC energievoorziening, wordt, in afstemming met de beheerder, een compatibiliteitsstudie in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01), uitgevoerd, waarbij stap 1–10 worden doorlopen. Hiermee wordt aangetoond dat voldaan wordt aan de eisen ten aanzien van overspanningen en harmonische emissielimieten van de netbeheerder.
+1. Voor spoorvoertuigen die gebruik maken van 25 kV AC energievoorziening, wordt, in afstemming met de beheerder, een compatibiliteitsstudie in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01), uitgevoerd, waarbij stap 1–10 worden doorlopen. Hiermee wordt aangetoond dat voldaan wordt aan de eisen ten aanzien van overspanningen en harmonische emissielimieten van de netbeheerder.
 
 2. In afwijking van het eerste lid, is uitvoering van deze compatibiliteitsstudie niet noodzakelijk indien de harmonische stroomemissie op treinniveau niet hoger is dan de waarde Ih in de onderstaande tabel, waarbij:
 
@@ -272,7 +270,7 @@ Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt v
 
 ##### Artikel 14. Beperkt gebruiksgebied binnen Nederland
 
-1. In afwijking van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) en [8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2024-08-01&g=2024-08-01) beschikt een spoorvoertuig ten aanzien waarvan de Duitse bevoegde instantie een voertuigvergunning heeft afgegeven en waarvan het gebruiksgebied in Nederland is beperkt tot de Venlo-Duitse grens over:
+1. In afwijking van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) beschikt een spoorvoertuig ten aanzien waarvan de Duitse bevoegde instantie een voertuigvergunning heeft afgegeven en waarvan het gebruiksgebied in Nederland is beperkt tot de Venlo-Duitse grens over:
 
 - a. elektrische tractie die:
 
@@ -292,7 +290,7 @@ Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt v
 
 ##### Artikel 15. Uitbreiding gebruiksgebied van niet-TSI-conforme spoorvoertuigen
 
-Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01), voldoet een in een andere lidstaat toegelaten spoorvoertuig waarvoor uitbreiding van het gebruiksgebied tot Nederland wordt gevraagd en dat niet volledig voldoet aan de TSI LOC&PAS, TSI WAG of TSI CCS:
+Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), voldoet een in een andere lidstaat toegelaten spoorvoertuig waarvoor uitbreiding van het gebruiksgebied tot Nederland wordt gevraagd en dat niet volledig voldoet aan de TSI LOC&PAS, TSI WAG of TSI CCS:
 
 - a. voor wat betreft de verhouding tussen de aslast en de wieldiameter van een wielstel aan paragraaf 4.2.3.2.2 punt 3 van TSI LOC&PAS;
 
@@ -302,19 +300,19 @@ Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:
 
 Vervallen
 
-##### Artikel 17. Bijzondere voertuigen
+##### Artikel 17. Spoormachines, infrastructuurinspectievoertuigen en voertuigen voor weg en spoorweg
 
-1. Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01), voldoen bijzondere voertuigen, met uitzondering van voertuigen voor weg en spoorweg, in vervoersmodus, die niet voldoen aan TSI LOC&PAS en TSI WAG, aan:
+1. Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), voldoen spoormachines en infrastructuurinspectievoertuigen in rijmodus, die niet voldoen aan TSI LOC&PAS en TSI WAG, aan:
 
-- a. de eisen, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2024-08-01&g=2024-08-01), onderdeel a; en
+- a. de eisen, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2026-01-01&g=2026-01-01), onderdeel a; en
 
-- b. de eisen, voor dit artikel genoemd in [bijlage 1, index 7.1 en 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+- b. de eisen, voor dit artikel genoemd in [bijlage 1, index 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-2. Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01), voldoen voertuigen voor weg en spoorweg in vervoersmodus, die niet voldoen aan TSI LOC&PAS, aan:
+2. Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), voldoen voertuigen voor weg en spoorweg in rijmodus, die niet voldoen aan TSI LOC&PAS, aan:
 
-- a. de eisen, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2024-08-01&g=2024-08-01), onderdeel b; en
+- a. de eisen, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2026-01-01&g=2026-01-01), onderdeel b; en
 
-- b. de eisen, voor dit artikel genoemd in [bijlage 1, index 9.1 en 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+- b. de eisen, voor dit artikel genoemd in [bijlage 1, index 9.1 en 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 #### § 3. Procedureel kader indienststelling
 
@@ -332,7 +330,7 @@ Vervallen
 
 - 3. SH1.
 
-2. De te beoordelen eigenschappen van een spoorvoertuig in de ontwerp-, ontwikkel- en productiefase en de specifieke conformiteitsbeoordelingsprocedures die daarvoor gelden, zijn opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=13&z=2024-08-01&g=2024-08-01) bij deze regeling.
+2. De te beoordelen eigenschappen van een spoorvoertuig in de ontwerp-, ontwikkel- en productiefase en de specifieke conformiteitsbeoordelingsprocedures die daarvoor gelden, zijn opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=13&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 3. De geldigheidsduur van een door de aangewezen instantie verstrekt certificaat van typeonderzoek of ontwerponderzoek wordt bepaald in overeenstemming met:
 
@@ -346,7 +344,7 @@ Vervallen
 
 ##### Artikel 20. Tijdelijke gebruiksvergunning
 
-1. De minister verleent slechts een tijdelijke vergunning als bedoeld in [artikel 26r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), indien veilig gebruik van de spoorvoertuigen en de compatibiliteit van de spoorvoertuigen met de hoofdspoorweginfrastructuur gewaarborgd is.
+1. De minister verleent slechts een tijdelijke gebruiksvergunning als bedoeld in [artikel 26r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), indien veilig gebruik van de spoorvoertuigen en de compatibiliteit van de spoorvoertuigen met de hoofdspoorweginfrastructuur gewaarborgd is.
 
 2. Bij een aanvraag voor een tijdelijke gebruiksvergunning als bedoeld in [artikel 26r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), wordt in ieder geval bijgevoegd:
 
@@ -378,19 +376,9 @@ Vervallen
 
 - b. een verklaring van de aanvrager als bedoeld in artikel 16 van [uitvoeringsverordening (EU) 402/2013](32013R0402), die is opgesteld op basis van een veiligheidsbeoordelingsverslag van beoordelingsinstanties als bedoeld in artikel 7 van [uitvoeringsverordening (EU) 402/2013](32013R0402).
 
-4. Een aanvrager van een tijdelijke vergunning als bedoeld in het eerste lid, voor een spoorvoertuig voorzien van ETCS ten behoeve van testen van ETCS, voor een inzetgebied dat is uitgerust met ETCS, verstrekt uiterlijk op de dag waarop de aanvraag is ingediend aan de beheerder de volgende informatie:
-
-- a. een beschrijving van de mate waarin het gedrag van het spoorvoertuig voldoet aan de gepubliceerde ERTMS-foutcorrecties, als bedoeld artikel 9 van de TSI CCS, die geen onderdeel uitmaken van de specificatiereeks op basis waarvan de beoordeling plaatsvindt;
-
-- b. een overzicht van de punten waarop het spoorvoertuig afwijkt van de specificatiereeks op basis waarvan de beoordeling plaatsvindt;
-
-- c. in voorkomend geval, de additionele besturings- en seingevingsfunctionaliteiten die in het spoorvoertuig zijn geïmplementeerd, maar die geen deel uitmaken van de specificatiereeks op grond waarvan de beoordeling van de aanvraag van de vergunning, als bedoeld in [artikel 26k](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), plaatsvindt.
-
-5. Een aanvraag, als bedoeld in het vierde lid, waarbij niet wordt voldaan aan de verplichting, bedoeld in dat lid, wordt niet in behandeling genomen.
-
 ##### Artikel 21. Ontheffing
 
-1. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=20&z=2024-08-01&g=2024-08-01) is, met uitzondering van het vierde lid, van overeenkomstige toepassing op een ontheffing als bedoeld in de [artikelen 26f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), of [26q, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q).
+1. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01) is, met uitzondering van het vierde lid, van overeenkomstige toepassing op een ontheffing als bedoeld in de [artikelen 26f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), of [26q, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q).
 
 2. Bij een aanvraag van een ontheffing als bedoeld in [artikel 26q, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q), wordt in ieder geval bijgevoegd:
 
@@ -414,9 +402,17 @@ Vervallen
 
 1. Een spoorwegonderneming die van een hoofdspoorweg gebruik wil maken of gebruik wil laten maken voor het uitvoeren van een test als bedoeld in [artikel 26r, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), stemt het uitvoeren van de test voorafgaand af met de beheerder.
 
-2. De beheerder kan naar aanleiding van het verzoek in het belang van een veilig en ongestoord verkeer op de hoofdspoorweg, aanwijzingen geven.
+2. Een spoorwegonderneming die voornemens is om een testrit te maken met een spoorvoertuig ten behoeve van ETCS-compatibiliteitstesten, op een inzetgebied dat is uitgerust met ETCS, verstrekt aan de beheerder bij het verzoek als bedoeld in [artikel 26r, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r):
 
-3. De spoorwegonderneming volgt de aanwijzingen, bedoeld in het tweede lid op.
+- a. een beschrijving van de mate waarin het gedrag van het spoorvoertuig voldoet aan de gepubliceerde ERTMS-foutcorrecties, bedoeld in artikel 9 van de TSI CCS, die geen onderdeel uitmaken van de in de TSI CCS vastgelegde specificatiereeks op basis waarvan de beoordeling plaatsvindt;
+
+- b. een overzicht van de punten waarop het spoorvoertuig afwijkt van de specificatiereeks op basis waarvan de beoordeling door de aangemelde instantie plaatsvindt; en
+
+- c. in voorkomend geval, een beschrijving van de additionele besturings- en seingevingsfunctionaliteiten die in het spoorvoertuig zijn geïmplementeerd, maar die geen deel uitmaken van de specificatiereeks op grond waarvan de beoordeling van de aanvraag van de vergunning, bedoeld in [artikel 26k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), plaatsvindt.
+
+3. De beheerder kan naar aanleiding van het verzoek in het belang van een veilig en ongestoord verkeer op de hoofdspoorweg, aanwijzingen geven.
+
+4. De spoorwegonderneming volgt de aanwijzingen, bedoeld in het derde lid op.
 
 #### § 5. Onderhoud van spoorvoertuigen
 
@@ -444,11 +440,21 @@ Vervallen
 
 ##### Artikel 30. Overgangsbepalingen
 
-In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2024-08-01&g=2024-08-01), is op een conformiteitsbeoordeling als bedoeld in artikel 19 die voor 1 mei 2020 is gestart en waarop de voor die datum geldende eisen worden toegepast, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=22&z=2024-08-01&g=2024-08-01), zoals dat luidde voor 1 augustus 2024, van toepassing, met dien verstande dat voor de verwijzing naar:
+1.
+
+In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2026-01-01&g=2026-01-01), is op een conformiteitsbeoordeling als bedoeld in artikel 19 die voor 1 mei 2020 is gestart en waarop de voor die datum geldende eisen worden toegepast, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=22&z=2026-01-01&g=2026-01-01), zoals dat luidde voor 1 augustus 2024, van toepassing, met dien verstande dat voor de verwijzing naar:
 
 - a. ‘TSI LOC&PAS’ wordt gelezen: [verordening (EU) nr. 1302/2014](32014R1302) van de Commissie van 18 november 2014 betreffende een technische specificatie inzake interoperabiliteit van het subsysteem ‘rollend materieel – locomotieven en reizigerstreinen’ van het spoorwegsysteem in de Europese Unie (PbEU 2014, L 356), als laatst gewijzigd bij [uitvoeringsverordening (EU) 2020/387](32020R0387) (PbEU 2020, L 222);
 
 - b. ‘TSI WAG’ wordt gelezen: [verordening (EU) nr. 321/2013](32013R0321) van de Commissie van 13 maart 2013 betreffende de technische specificatie inzake interoperabiliteit van het subsysteem ‘rollend materieel – goederenwagens’ van het spoorwegsysteem in de Europese Unie en tot intrekking van Beschikking 2006/861/EG (PbEU 2013, L 104), als laatst gewijzigd bij [uitvoeringsverordening (EU) 2020/387](32020R0387) (PbEU 2020, L 222).
+
+2. Indien een conformiteitsbeoordeling overeenkomstig punt 7.1.1.2 van de bijlage bij de TSI LOC&PAS plaatsvindt aan de hand van de eisen genoemd in [Verordening (EU) nr. 1302/2014](32014R1302) van de Commissie van 18 november 2014 betreffende een technische specificatie inzake interoperabiliteit van het subsysteem rollend materieel – locomotieven en reizigerstreinen van het spoorwegsysteem in de Europese Unie, zoals laatstelijk gewijzigd bij [Uitvoeringsverordening (EU) 2020/387](32020R0387) van de Commissie van 9 maart 2020, is de eis genoemd in punt 7.3.2.13 van de bijlage bij TSI LOC&PAS van overeenkomstige toepassing op de conformiteitsbeoordeling.
+
+3. In afwijking van het tweede lid, kunnen lopende projecten, als bedoeld in punt 7.1.1.2 van de bijlage bij TSI LOC&PAS en punt 7.1.1 van de bijlage bij TSI WAG, worden beoordeeld aan de hand van de eisen genoemd in:
+
+- a. deze regeling, zoals deze luidde op 31 juli 2024; of
+
+- b. deze regeling, zoals deze luidde op 30 juni 2022.
 
 #### § 7. Slotbepalingen
 
@@ -471,85 +477,83 @@ Versies van de CLC-reports en EN-normen en UIC-leaflets, voor zover daarnaar nie
 | Index | Te beoordelen eigenschappen | Artikel / bijlage | Verplichte punten van de norm |
 | --- | --- | --- | --- |
 | [1] | EN 50153:2014-05/A1:2017-08/A2:2020-01 Spoorwegen en soortgelijk geleid vervoer – Rollend materieel – Beschermende maatregelen met betrekking tot elektrische gevaren | EN 50153:2014-05/A1:2017-08/A2:2020-01 Spoorwegen en soortgelijk geleid vervoer – Rollend materieel – Beschermende maatregelen met betrekking tot elektrische gevaren | EN 50153:2014-05/A1:2017-08/A2:2020-01 Spoorwegen en soortgelijk geleid vervoer – Rollend materieel – Beschermende maatregelen met betrekking tot elektrische gevaren |
-| [1.1] | Dimensionering van de retourstroom- en veiligheidsaardingscircuits | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=4&z=2024-08-01&g=2024-08-01) | 6.2.2 |
+| [1.1] | Dimensionering van de retourstroom- en veiligheidsaardingscircuits | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) | 6.2.2 |
 | [2] | EN 15273-2:2013+A1:2016 Railtoepassingen – Omgrenzingsprofiel – Deel 2: Omgrenzingsprofiel railvoertuigen | EN 15273-2:2013+A1:2016 Railtoepassingen – Omgrenzingsprofiel – Deel 2: Omgrenzingsprofiel railvoertuigen | EN 15273-2:2013+A1:2016 Railtoepassingen – Omgrenzingsprofiel – Deel 2: Omgrenzingsprofiel railvoertuigen |
-| [2.1] | Profiel | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=6&z=2024-08-01&g=2024-08-01) | A.3.5 |
+| [2.1] | Profiel | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01) | A.3.5 |
 | [3] | EN 15427-1-1:2022 Railtoepassingen – Behandeling van de wrijving tussen wiel en spoorstaaf – Deel 1-1: Eisen en toepassingen- Flenssmering | EN 15427-1-1:2022 Railtoepassingen – Behandeling van de wrijving tussen wiel en spoorstaaf – Deel 1-1: Eisen en toepassingen- Flenssmering | EN 15427-1-1:2022 Railtoepassingen – Behandeling van de wrijving tussen wiel en spoorstaaf – Deel 1-1: Eisen en toepassingen- Flenssmering |
-| [3.1] | Positie van de spuitmond en de locatie waar het smeermiddel op het wiel wordt aangebracht | [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2024-08-01&g=2024-08-01) | 5.5 en bijlage E.2 |
+| [3.1] | Positie van de spuitmond en de locatie waar het smeermiddel op het wiel wordt aangebracht | [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) | 5.5 en bijlage E.2 |
 | [4] | EN 50121-3-1:2017 Spoorwegen en soortgelijk geleid vervoer – Elektromagnetische compatibiliteit – Deel 3-1: Rollend materieel – Treinen en treinstellen | EN 50121-3-1:2017 Spoorwegen en soortgelijk geleid vervoer – Elektromagnetische compatibiliteit – Deel 3-1: Rollend materieel – Treinen en treinstellen | EN 50121-3-1:2017 Spoorwegen en soortgelijk geleid vervoer – Elektromagnetische compatibiliteit – Deel 3-1: Rollend materieel – Treinen en treinstellen |
-| [4.1] | Elektromagnetische compatibiliteit | [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=9&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [4.2] | Psofometrische component in de DC-lijnstroom | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [4.1] | Elektromagnetische compatibiliteit | [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [4.2] | Psofometrische component in de DC-lijnstroom | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [5] | CLC/TS 50238-2:2015/C1:2016 Spoorwegen en soortgelijk geleid vervoer – Compatibiliteit tussen rollend materieel en treindetectie-systemen – Deel 2: Compatibiliteit met spoorstroomlopen | CLC/TS 50238-2:2015/C1:2016 Spoorwegen en soortgelijk geleid vervoer – Compatibiliteit tussen rollend materieel en treindetectie-systemen – Deel 2: Compatibiliteit met spoorstroomlopen | CLC/TS 50238-2:2015/C1:2016 Spoorwegen en soortgelijk geleid vervoer – Compatibiliteit tussen rollend materieel en treindetectie-systemen – Deel 2: Compatibiliteit met spoorstroomlopen |
 | [5.1] | AC-stoorstroomcomponent in de lijnstroom | 10.2 onderdeel a | Annex A, Tabel A.6 en A.7 |
-| [5.2] | Integratietijd, filterkarakteristieken | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Annex B, Annex A.8 |
-| [5.3] | Omstandigheden | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.4] | Optelregels | [Bijlage 5 punt 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.5] | Stoorstroomdetectoren | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Annex B.9 |
-| [5.6] | Compatibiliteitsstudie | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.7] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.8] | Stabiliteit | [Bijlage 5 punt 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.9] | Interlacing | [Bijlage 5 punt 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [5.10] | Controle werking stoorstroomdetector | [Bijlage 5 punt 6.2.d](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Annex B.9 |
-| [5.11] | Eisen voor detectoren die werken op filterspanning | [Bijlage 5 punt 6.2.f](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Annex B.9 |
+| [5.2] | Integratietijd, filterkarakteristieken | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Annex B, Annex A.8 |
+| [5.3] | Omstandigheden | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.4] | Optelregels | [Bijlage 5 punt 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.5] | Stoorstroomdetectoren | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Annex B.9 |
+| [5.6] | Compatibiliteitsstudie | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.7] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.8] | Stabiliteit | [Bijlage 5 punt 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.9] | Interlacing | [Bijlage 5 punt 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [5.10] | Controle werking stoorstroomdetector | [Bijlage 5 punt 6.2.d](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Annex B.9 |
+| [5.11] | Eisen voor detectoren die werken op filterspanning | [Bijlage 5 punt 6.2.f](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Annex B.9 |
 | [6] | EN 50388-1:2022 Spoorwegen en soortgelijk geleid vervoer – Energievoorziening en rollend materieel – Technische criteria voor de coördinatie tussen energievoorziening en rollend materieel om interoperabiliteit te bereiken – Deel 1: Algemeen | EN 50388-1:2022 Spoorwegen en soortgelijk geleid vervoer – Energievoorziening en rollend materieel – Technische criteria voor de coördinatie tussen energievoorziening en rollend materieel om interoperabiliteit te bereiken – Deel 1: Algemeen | EN 50388-1:2022 Spoorwegen en soortgelijk geleid vervoer – Energievoorziening en rollend materieel – Technische criteria voor de coördinatie tussen energievoorziening en rollend materieel om interoperabiliteit te bereiken – Deel 1: Algemeen |
-| [6.1] | Automatische beperking stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoorziening | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=11&z=2024-08-01&g=2024-08-01) | 7.3 |
-| [6.2] | Compatibiliteitsstudie | [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=13&z=2024-08-01&g=2024-08-01) | 10.3, annex I |
-| [6.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [6.4] | Spanningsbereik | [Bijlage 5 punt 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | 7.3 en 12.2.1 |
+| [6.1] | Automatische beperking stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoorziening | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01) | 7.3 |
+| [6.2] | Compatibiliteitsstudie | [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01) | 10.3, annex I |
+| [6.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [6.4] | Spanningsbereik | [Bijlage 5 punt 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | 7.3 en 12.2.1 |
 | [7] | EN 14033-1:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 1: Technische eisen voor het rijden in treindienst | EN 14033-1:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 1: Technische eisen voor het rijden in treindienst | EN 14033-1:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 1: Technische eisen voor het rijden in treindienst |
-| [7.1] | Bijzondere voertuigen, met uitzondering van voertuigen voor weg en spoorweg in vervoersmodus | 17.1 | Relevant punt |
-| [7.2] | Bogenloopberekening | [Bijlage 12 punt a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [8] | EN 14033-3:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 3: Algemene veiligheidseisen | EN 14033-3:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 3: Algemene veiligheidseisen | EN 14033-3:2017 Railtoepassingen – Bovenbouw – Railgebonden constructie- en onderhoudsmachines – Deel 3: Algemene veiligheidseisen |
-| [8.1] | Bijzondere voertuigen, met uitzondering van voertuigen voor weg en spoorweg in vervoersmodus | 17.1 | Relevant punt |
+| [7.1] | Spoormachines en infrastructuurinspectievoertuigen in rijmodus | 17.1 | Relevant punt |
+| [7.2] | Bogenloopberekening | [Bijlage 12 punt a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=12&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [9] | EN 15746-2:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 2: Algemene veiligheidseisen | EN 15746-2:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 2: Algemene veiligheidseisen | EN 15746-2:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 2: Algemene veiligheidseisen |
-| [9.1] | Voertuigen voor weg en spoorweg in vervoersmodus | 17.2 | Relevant punt |
+| [9.1] | Voertuigen voor weg en spoorweg in rijmodus | 17.2 | Relevant punt |
 | [10] | EN 15746-3:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 3: Technische eisen voor rijden | EN 15746-3:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 3: Technische eisen voor rijden | EN 15746-3:2020 Railtoepassingen – Bovenbouw – Weg-, spoormachines en bijbehorende uitrusting – Deel 3: Technische eisen voor rijden |
-| [10.1] | Voertuigen voor weg en spoorweg in vervoersmodus | 17.2 | Relevant punt |
+| [10.1] | Voertuigen voor weg en spoorweg in rijmodus | 17.2 | Relevant punt |
 | [11] | CLC/TR 50459-7:2007 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleidingsysteem – Europees treinbeveiligingssystemen (ERTMS) – Bestuurder-machine interface – Deel 7: Specifieke transmissiemodules | CLC/TR 50459-7:2007 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleidingsysteem – Europees treinbeveiligingssystemen (ERTMS) – Bestuurder-machine interface – Deel 7: Specifieke transmissiemodules | CLC/TR 50459-7:2007 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleidingsysteem – Europees treinbeveiligingssystemen (ERTMS) – Bestuurder-machine interface – Deel 7: Specifieke transmissiemodules |
-| [11.1] | Optische signaleringen | [Bijlage 2 punt 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [11.2] | Knoppen | [Bijlage 2 punt 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [11.1] | Optische signaleringen | [Bijlage 2 punt 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [11.2] | Knoppen | [Bijlage 2 punt 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [12] | EN 50126-1:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van de betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 1: Algemene activiteiten en procedures in het kader van RAMS | EN 50126-1:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van de betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 1: Algemene activiteiten en procedures in het kader van RAMS | EN 50126-1:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van de betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 1: Algemene activiteiten en procedures in het kader van RAMS |
-| [12.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [12.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [12.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [12.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [12.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [12.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [12.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [12.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [13] | EN 50126-2:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 2: Systeembenadering van veiligheidsgerelateerde aspecten | EN 50126-2:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 2: Systeembenadering van veiligheidsgerelateerde aspecten | EN 50126-2:2017 Spoorwegen en soortgelijke geleid vervoer – De specificatie en het bewijs van betrouwbaarheid, beschikbaarheid, onderhoudbaarheid en veiligheid (RAMS) – Deel 2: Systeembenadering van veiligheidsgerelateerde aspecten |
-| [13.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [13.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [13.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [13.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [13.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [13.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [13.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [13.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [14] | EN 50128:2011+A2:2020 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleiding – Programmatuur voor besturings- en beveiligingssystemen | EN 50128:2011+A2:2020 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleiding – Programmatuur voor besturings- en beveiligingssystemen | EN 50128:2011+A2:2020 Spoorwegen en soortgelijk geleid vervoer – Telecommunicatie, seinwezen en verkeersleiding – Programmatuur voor besturings- en beveiligingssystemen |
-| [14.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [14.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [14.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [14.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [14.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [14.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [14.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [14.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [15] | EN 50129:2018+AC:2019 Railtoepassingen – Communicatie, signalering en processystemen – Elektronische signaleringssystemen met betrekking tot veiligheid | EN 50129:2018+AC:2019 Railtoepassingen – Communicatie, signalering en processystemen – Elektronische signaleringssystemen met betrekking tot veiligheid | EN 50129:2018+AC:2019 Railtoepassingen – Communicatie, signalering en processystemen – Elektronische signaleringssystemen met betrekking tot veiligheid |
-| [15.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [15.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [15.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [15.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [15.1] | Veiligheids- en beschikbaarheidseisen | [Bijlage 2 punt 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [15.2] | Ontwerp van elektrische spoorvoertuigen | [Bijlage 5 punt 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [15.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [15.4] | Ontwerp treinstel of locomotief bij ontbreken van stoorstroomdetectoren | [Bijlage 5 punt 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [16] | EN 50238-1:2019 Railtoepassingen – Compatibiliteit tussen rollend materieel en trein detectiesystemen – Deel 1: Algemeen | EN 50238-1:2019 Railtoepassingen – Compatibiliteit tussen rollend materieel en trein detectiesystemen – Deel 1: Algemeen | EN 50238-1:2019 Railtoepassingen – Compatibiliteit tussen rollend materieel en trein detectiesystemen – Deel 1: Algemeen |
-| [16.1] | Omstandigheden | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [16.2] | Compatibiliteitsstudie | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [16.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [16.1] | Omstandigheden | [Bijlage 5 punt 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [16.2] | Compatibiliteitsstudie | [Bijlage 5 punt 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [16.3] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [17] | UIC 550, 11e editie van april 2005 Power supply installations for passenger stock | UIC 550, 11e editie van april 2005 Power supply installations for passenger stock | UIC 550, 11e editie van april 2005 Power supply installations for passenger stock |
-| [17.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [17.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [18] | UIC 550-1, 1e editie van # 1990 Power supply installations for passenger stock – Electrical switch cabinets on passenger stock | UIC 550-1, 1e editie van # 1990 Power supply installations for passenger stock – Electrical switch cabinets on passenger stock | UIC 550-1, 1e editie van # 1990 Power supply installations for passenger stock – Electrical switch cabinets on passenger stock |
-| [18.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [18.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [19] | UIC 550-2, 1e editie van # 1994 Power supply installations for passenger stock – Power Supply Systems for Passenger Coaches – Type testing | UIC 550-2, 1e editie van # 1994 Power supply installations for passenger stock – Power Supply Systems for Passenger Coaches – Type testing | UIC 550-2, 1e editie van # 1994 Power supply installations for passenger stock – Power Supply Systems for Passenger Coaches – Type testing |
-| [19.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [19.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [20] | UIC 550-3, 1e editie van april 2005 Power supply installations for passenger stock – Effect on electrical installations outside passenger coaches | UIC 550-3, 1e editie van april 2005 Power supply installations for passenger stock – Effect on electrical installations outside passenger coaches | UIC 550-3, 1e editie van april 2005 Power supply installations for passenger stock – Effect on electrical installations outside passenger coaches |
-| [20.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [20.1] | Limieten voor impedantie en stoorstroom | [Bijlage 5 punt 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [21] | EN 50163:2005 Railtoepassingen – Voedingsspanningen van tractiesystemen | EN 50163:2005 Railtoepassingen – Voedingsspanningen van tractiesystemen | EN 50163:2005 Railtoepassingen – Voedingsspanningen van tractiesystemen |
-| [21.1] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [21.2] | Spanningsbereik | [Bijlage 5 punt 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01) | 4.1 |
+| [21.1] | Technisch dossier | [Bijlage 5 punt 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [21.2] | Spanningsbereik | [Bijlage 5 punt 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01) | 4.1 |
 | [22] | EN 13715:2020 Railtoepassingen – Wielstellen en draaistellen – Wielen – Wielprofiel | EN 13715:2020 Railtoepassingen – Wielstellen en draaistellen – Wielen – Wielprofiel | EN 13715:2020 Railtoepassingen – Wielstellen en draaistellen – Wielen – Wielprofiel |
-| [22.1] | Wielprofiel | [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2024-08-01&g=2024-08-01) | Relevant punt |
+| [22.1] | Wielprofiel | [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=6&z=2026-01-01&g=2026-01-01) | Relevant punt |
 | [23] | EN 50592:2016 Spoorwegen en soortgelijk geleid vervoer – Beproeven van rollend materieel op de elektromagnetische compatibiliteit met assentellers | EN 50592:2016 Spoorwegen en soortgelijk geleid vervoer – Beproeven van rollend materieel op de elektromagnetische compatibiliteit met assentellers | EN 50592:2016 Spoorwegen en soortgelijk geleid vervoer – Beproeven van rollend materieel op de elektromagnetische compatibiliteit met assentellers |
-| [23.1] | Meetmethode | [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2024-08-01&g=2024-08-01) | Relevant punt |
-| [23.2] | Beschrijving van de worst case testomstandigheden die zorgen voor de maximale productie van relevante magneetvelden | [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2024-08-01&g=2024-08-01) | 4.2.3 |
+| [23.1] | Meetmethode | [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2026-01-01&g=2026-01-01) | Relevant punt |
+| [23.2] | Beschrijving van de worst case testomstandigheden die zorgen voor de maximale productie van relevante magneetvelden | [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2026-01-01&g=2026-01-01) | 4.2.3 |
 
-## Bijlage 2. behorende bij [artikel 3, eerste lid, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01)
+## Bijlage 2. behorende bij [artikel 3, eerste lid, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01)
 
 ### Hoofdstuk 1. Verwerking van het ATBEG baansignaal
 
@@ -625,17 +629,17 @@ Daarbij gelden de volgende eisen:
 
 Het geïnstalleerde systeem van automatische treinbeïnvloeding beschikt ten minste over de onderstaande knoppen.
 
-De knoppen moeten voldoen aan de eisen voor dit onderdeel genoemd in [bijlage 1, index 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01).
+De knoppen moeten voldoen aan de eisen voor dit onderdeel genoemd in [bijlage 1, index 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 ### 2.9. Veiligheids- en beschikbaarheidseisen
 
-Het geïnstalleerde systeem van automatische treinbeïnvloeding voldoet aan de onderstaande veiligheids- en beschikbaarheidseisen, waarbij de eisen, voor dit onderdeel genoemd in [bijlage 1, index 13.1, 14.1, 15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01) als leidraad worden gebruikt:
+Het geïnstalleerde systeem van automatische treinbeïnvloeding voldoet aan de onderstaande veiligheids- en beschikbaarheidseisen, waarbij de eisen, voor dit onderdeel genoemd in [bijlage 1, index 13.1, 14.1, 15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01) als leidraad worden gebruikt:
 
 ### Hoofdstuk 3. Installatievoorschriften
 
 Het ATB-systeem dient te worden geïnstalleerd conform de voorschriften van de leverancier van het systeem.
 
-## Bijlage 3. behorende bij [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01)
+## Bijlage 3. behorende bij [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01)
 
 Het in een spoorvoertuig geïnstalleerd systeem van automatische treinbeveiliging dat behoort tot ETCS bevat een specifieke transmissiemodule zoals bedoeld in de TSI CCS artikel 4.2.6.1 optie 1 of een gelijkwaardige implementatie zoals bedoeld in TSI CCS artikel 4.2.6.1 opties 2, 3 en 4. Indien optie 1 is toegepast dan voldoet die aan de onderstaande eisen.
 
@@ -990,7 +994,7 @@ Na afloop van het berijden van de meetsectie dient de aanvrager aan de beheerder
 
 Het spoorvoertuig:
 
-## Bijlage 9. behorend bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2024-08-01&g=2024-08-01)
+## Bijlage 9. behorend bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
@@ -1010,7 +1014,7 @@ Spoorvoertuigen voldoen aan:
 
 Spoorvoertuigen, waarvoor het inzetgebied wordt gevraagd voor de trajecten Barendrecht-Belgische grens en Hoofddorp-Rotterdam West voldoen aan de volgende eisen:
 
-### b. Eisen voor voertuigen voor weg en spoorweg in vervoersmodus
+### b. Eisen voor voertuigen voor weg en spoorweg in rijmodus
 
 Spoorvoertuigen die sneller kunnen rijden dan 40 km/u, zijn voorzien van een systeem voor automatische ritregistratie dat voldoet aan de volgende goedkeuringseisen:
 
@@ -1018,7 +1022,7 @@ Spoorvoertuigen die sneller kunnen rijden dan 40 km/u, zijn voorzien van een sys
 
 ### Elektrische tractie 1.500V DC energievoorziening
 
-Ten aanzien van de botsveiligheid wordt een risicoanalyse opgesteld waarin het niveau van botsveiligheid is bepaald en verantwoord.
+Spoorvoertuigen voldoen aan punt 4.2.3.3.1 van de TSI LOC&PAS met betrekking tot compatibiliteit met treindetectiesystemen.
 
 ### Elektrische tractie 25kV AC energievoorziening
 
@@ -1058,39 +1062,39 @@ Indien spoormachines zijn voorzien van een recuperatie-inrichting gelden de volg
 
 ## Bijlage 12. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2020-05-01&g=2020-05-01)
 
-### Stroomafnemer 25kV AC
+### 2. Eisen voor het uitvoeren van de onderbouwing
 
 ### Loopwerk van wagens
 
-Indien het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening en de stroomafnemer voor 25 kV defect raakt:
+Eis 2. Er wordt een rapportage opgeleverd als aantoning dat de methode correct is doorlopen, de rapportage voldoet aan de voorwaarden zoals in deze bijlage omschreven.
 
-### Elektrische tractie 1.500V DC energievoorziening
+### 3. Onderbouwing
 
 waarbij U6 = 1.200 V, U8 <= 1.950 V, Imax = 4.000 A. De waarde U7 wordt zodanig gekozen dat een stabiele recuperatieregeling wordt verkregen.
 
-### b. Eisen voor rail-wegvoertuigen in vervoersmodus
+### 3.2. Stap 1a. Invoergegevens Nederlandse hoofdspoorweginfrastructuur
 
-Rail-wegvoertuigen voldoen aan EN 15746-1 (inclusief paragraaf 6) en EN 15746-2 en daarnaast aan de volgende eisen:
+Voor de geometrische beschouwing in paragraaf 3.4 wordt gebruik gemaakt van de procedure uit NEN-EN13232-3:2023 Annex B. Echter de gegevens van de infrastructuur waar in die norm vanuit wordt gegaan, wijken af van de gegevens in Nederland. Om die reden moet er voor de Nederlandse infrasituatie gebruik worden gemaakt van een andere hoekverhouding, groefbreedte en beloop van de punt van het kruisstuk dan in de NEN-EN13232-3:2023 Annex B. De volgende infra-invoergegevens worden in de geometrische beschouwing in paragraaf 3.4 gebruikt:
 
-Indien spoormachines zijn voorzien van een recuperatie-inrichting gelden de volgende eisen:
+Bovenstaande gegevens zijn al ingevuld in de rekenvoorbeelden, zie paragraaf 3.4.
 
-### Stroomafnemer 1.500V DC energievoorziening
+### 3.3. Stap 1b. Invoergegevens spoorvoertuig en andere relevante gegevens van de infra
 
-Stroomafnemers geschikt voor 1.500 V DC energievoorziening, voldoen aan de volgende eisen:
+Hier wordt een overzicht gegeven van de overige relevante waardes/condities voor het spoorvoertuig en voor de infra die nodig zijn voor het uitvoeren van de geometrische beschouwing in stap 2 van het stappenplan. Deze zijn opgedeeld in beginwaarden en te variëren waarden. In sommige gevallen moeten de beginwaarden ook gevarieerd worden. Dat staat beschreven onder het kopje ‘te variëren waarden’.
 
 ### Stroomafnemer 25kV AC
 
-Indien spoorvoertuigen worden ingezet op sporen met een 25 kV AC energievoorziening, voldoet de stroomafnemer aan de volgende eisen:
+Te variëren waarden:
 
-Indien het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening en de stroomafnemer voor 25 kV defect raakt:
+Ter informatie:
 
 Indien een spoorvoertuig is voorzien van meerdere stroomafnemers, zijn deze niet elektrisch via het spoorvoertuig doorverbonden.
 
 ### Besturing, seingeving
 
-### b. Eisen voor rail-wegvoertuigen in vervoersmodus
+### 3.5. Stap 2b. Beoordeling berekening
 
-Rail-wegvoertuigen voldoen aan EN 15746-1 (inclusief paragraaf 6) en EN 15746-2 en daarnaast aan de volgende eisen:
+Bij de analyse van het betreffende voertuig in een 1:9 en 1:10 Engelse wissel of kruising wordt de overlap van de punt van het kruisstuk beoordeeld. Voor de maximaal toegestane overlap van de punt van het kruisstuk door de wielflens geldt een waarde van -0,725.678 mm.
 
 ## Bijlage 13. behorende bij [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2020-05-01&g=2020-05-01)
 
@@ -1240,7 +1244,7 @@ waarbij U6 = 1.200 V, U8 <= 1.950 V, Imax = 4.000 A. De waarde U7 wordt zodanig 
 
 Stroomafnemers geïnstalleerd op spoorvoertuigen en geschikt voor 1.500 V, voldoen aan de volgende eisen:
 
-### a. Eisen voor bijzondere voertuigen, met uitzondering van voertuigen voor weg en spoorweg in vervoersmodus
+### a. Eisen voor spoormachines en infrastructuurinspectievoertuigen in rijmodus
 
 ## Bijlage 11. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=16&z=2022-07-01&g=2022-07-01)
 
@@ -1276,19 +1280,19 @@ Stroomafnemers geïnstalleerd op spoorvoertuigen en geschikt voor 1.500 V, voldo
 
 ### Loopwerk van wagens
 
-In verband met het dodemansysteem is een risicoanalyse verplicht om tot keuze van het type dodemansysteem te komen.
+In verband met het dodemanssysteem is een risicoanalyse verplicht om tot keuze van het type dodemanssysteem te komen.
 
 Spoorvoertuigen, waarvoor het inzetgebied wordt gevraagd voor de trajecten Barendrecht–Belgische grens en Hoofddorp–Rotterdam West, voldoen aan de volgende eis:
 
-### Stroomafnemer 1.500V DC energievoorziening
+### 1. Inleiding probleemstuk
 
-Stroomafnemers geschikt voor 1.500 V DC energievoorziening, voldoen aan de volgende eisen:
+Bij een spoorvoertuig met een ontwerpwieldiameter kleiner dan 730 mm, wordt onderbouwd dat het betreffende spoorvoertuig onder de slechtst denkbare omstandigheden volgens paragraaf 3.3, bij het rechtdoor rijden door Engelse wissels en kruisingen met een hoekverhouding van 1:9 en 1:10, veilig de punt van het kruisstuk kan passeren. Veilig passeren betekent dat het spoorvoertuig niet de punt van het kruisstuk aan de voorzijde aanrijdt of langs de verkeerde kant van de punt van het kruisstuk ontspoort (zie voor meer achtergrondinformatie wat veilig passeren betekent NEN-EN14363:2016+A2:2022 bijlage E).
 
-Indien spoorvoertuigen worden ingezet op sporen met een 25 kV AC energievoorziening, voldoet de stroomafnemer aan de volgende eisen:
+Eis 1: Bij een spoorvoertuig met een ontwerpwieldiameter kleiner dan 730 mm, wordt onderbouwd dat het betreffende spoorvoertuig veilig over de Nederlandse hoofdspoorweginfrastructuur kan rijden, volgens de methode zoals in deze bijlage beschreven.
 
 Indien een spoorvoertuig is voorzien van meerdere stroomafnemers, zijn deze niet elektrisch via het spoorvoertuig doorverbonden.
 
-### Besturing, seingeving
+### 3.1. Stappenplan
 
 ## Bijlage 13. behorende bij [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2022-07-01&g=2022-07-01)
 
@@ -1360,11 +1364,11 @@ De specifieke transmissiemodule zal een ‘STM max speed’ waarde ter grootte v
 
 ### 1.8. ATB toestanden
 
-Wanneer de specifieke transmissiemodule een overgang maakt naar DA, dan moet het spoorvoertuig in de toestand CONST komen, zoals gespecificeerd in [paragraaf 2.2.7 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2024-08-01&g=2024-08-01). De transitie van ATB STM DA naar CS dient vanuit alle interne toestanden mogelijk te zijn, met uitzondering van ‘Uitgeschakeld’.
+Wanneer de specifieke transmissiemodule een overgang maakt naar DA, dan moet het spoorvoertuig in de toestand CONST komen, zoals gespecificeerd in [paragraaf 2.2.7 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=2&z=2026-01-01&g=2026-01-01). De transitie van ATB STM DA naar CS dient vanuit alle interne toestanden mogelijk te zijn, met uitzondering van ‘Uitgeschakeld’.
 
 ### 2.2. Eisen aan ETCS apparatuur van Reeks Specificaties #2
 
-Het spoorvoertuig voldoet aan alle eisen opgenomen in het document Indexnummer 6 ETCS Driver Machine Interface van Reeks Specificatie #2 waaronder het tonen van de zogenaamde planningsinformatie.
+Het spoorvoertuig voldoet aan alle eisen opgenomen in het document Indexnummer 6 ETCS Driver Machine Interface van Reeks Specificatie #2 waaronder de mogelijkheid van het tonen van de zogenaamde planningsinformatie.
 
 ### 2.3. Eisen aan ETCS apparatuur van Reeksen Specificaties #1, #2, #3 en single set (ETCS Baseline 4 Release 1)
 
@@ -1376,9 +1380,9 @@ Noot1: Dit laat onverlet dat conform het proces van de TSI CCS 7.2.10 spoorvoert
 
 ### 2.7. Testprocedure voor trein-baan integratie
 
-De ingreep remafstanden van ETCS in spoorvoertuigen met Reeksen Specificaties #2, #3 en single set (ETCS Baseline 4 Release 1) voldoen aan TSI CCS tabel 6.2.1 punt 4c, waarbij de parameters in acht worden genomen, die zijn vermeld in punt 2.4 derde lid, onderdeel a, b en c van [hoofdstuk 2 van bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2024-08-01&g=2024-08-01).
+De ingreep remafstanden van ETCS in spoorvoertuigen met Reeksen Specificaties #2, #3 en single set (ETCS Baseline 4 Release 1) voldoen aan TSI CCS tabel 6.2.1 punt 4c, waarbij de parameters in acht worden genomen, die zijn vermeld in punt 2.4 derde lid, onderdeel a, b en c van [hoofdstuk 2 van bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=3&z=2026-01-01&g=2026-01-01).
 
-## Bijlage 4. behorende bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01)
+## Bijlage 4. behorende bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01)
 
 Indien een spoorvoertuig is voorzien van een automatisch treinbeveiligingssysteem (ATB) dat werkt op basis van remcurvebewaking wordt van dat ATB-systeem ten minste geregistreerd:
 
@@ -1410,7 +1414,7 @@ Indien een spoorvoertuig is voorzien van een automatisch treinbeveiligingssystee
 
 - •. indien de ATB buiten bedrijf is geschakeld
 
-## Bijlage 5. behorende bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01)
+## Bijlage 5. behorende bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01)
 
 ### 1. Normering
 
@@ -1440,15 +1444,15 @@ Bedoelde procedure wordt als veiligheidsrelevante toepassingsvoorwaarde opgelegd
 
 Indien een stoorstroomdetector alleen controleert of wordt voldaan aan een vooraf gedefinieerde grenswaarde, kunnen stappen 4 en 5 worden beperkt tot het vaststellen of meer dan 35 van de 50 samples van het 30%-criterium de alternatieve beoordelingscurven uit lid 6.2.b overschrijden.
 
-## Bijlage 6. behorend bij [artikel 10, eerste lid, onder b en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01)
+## Bijlage 6. behorend bij [artikel 10, eerste lid, onder b en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01)
 
 ### Eisen ten aanzien van de detectiekwaliteit van spoorvoertuigen
 
 ### Puntenmodel
 
-## Bijlage 7. behorende bij [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01)
+## Bijlage 7. behorende bij [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01)
 
-Aantonen van conformiteit van voertuigen die rijden over sporen die uitgerust zijn met assentellers met de TSI CCS dient door middel van de meetmethode conform de eisen die voor dit onderdeel zijn genoemd bij index 23.1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01) plaats te vinden en beoordeeld te worden door middel van de methode gebaseerd op de ‘frequency management’, waarvan de grenswaarden voor magneetvelden zijn vastgelegd in paragraaf 3.2. van het document, genoemd in aanhangsel J-2, index [A], van de TSI LOC&PAS. Hierbij dient een beschrijving van de worst case testomstandigheden die zorgen voor de maximale productie van relevante magneetvelden aangeleverd te worden conform de eisen die voor dit onderdeel zijn genoemd bij index 23.2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2024-08-01&g=2024-08-01). Er dient ook rekening gehouden te worden met magneetvelden veroorzaakt door retourstroom10In het geval van een samenstelling van locomotief met rijtuigen of goederenwagens met hulpnetomzetter(s) dient de locatie met maximale retourstroom bepaald te worden., met inachtneming van de optelregels zoals genoemd in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2024-08-01&g=2024-08-01).
+Aantonen van conformiteit van voertuigen die rijden over sporen die uitgerust zijn met assentellers met de TSI CCS dient door middel van de meetmethode conform de eisen die voor dit onderdeel zijn genoemd bij index 23.1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01) plaats te vinden en beoordeeld te worden door middel van de methode gebaseerd op de ‘frequency management’, waarvan de grenswaarden voor magneetvelden zijn vastgelegd in paragraaf 3.2. van het document, genoemd in aanhangsel J-2, index [A], van de TSI LOC&PAS. Hierbij dient een beschrijving van de worst case testomstandigheden die zorgen voor de maximale productie van relevante magneetvelden aangeleverd te worden conform de eisen die voor dit onderdeel zijn genoemd bij index 23.2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01). Er dient ook rekening gehouden te worden met magneetvelden veroorzaakt door retourstroom10In het geval van een samenstelling van locomotief met rijtuigen of goederenwagens met hulpnetomzetter(s) dient de locatie met maximale retourstroom bepaald te worden., met inachtneming van de optelregels zoals genoemd in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=5&z=2026-01-01&g=2026-01-01).
 
 De grenswaarden voor magneetvelden zijn vastgelegd in paragraaf 3.2.1 van het document, genoemd in aanhangsel J-2, index [A], van de TSI LOC&PAS. Hierbij dient het uitgangspunt gehanteerd te worden dat het uitgestraalde magneetveld door componenten onder het spoorvoertuig (‘radiated emission’) en het magneetveld ten gevolge van retourstroom (‘conducted interference’) samen niet mogen leiden tot een overschrijding. Een bijdrage vanuit de retourstroom aan het vastgestelde magneetveld mag niet in mindering gebracht worden.
 
@@ -1476,29 +1480,33 @@ Minimaal drie maanden voorafgaand aan het berijden van het meetgebied bij de mee
 
 - •. geplande data en tijdstippen voor het berijden van het meetgebied bij de meetcontainer.
 
-## Bijlage 8. behorend bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2024-08-01&g=2024-08-01)
+## Bijlage 8. behorend bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
-## Bijlage 10. behorende bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=15&z=2024-08-01&g=2024-08-01)
+## Bijlage 10. behorende bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
-## Bijlage 11. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=16&z=2024-08-01&g=2024-08-01)
+## Bijlage 11. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
-## Bijlage 12. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2024-08-01&g=2024-08-01)
+## Bijlage 12. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2026-01-01&g=2026-01-01)
 
 Het loopwerk voldoet aan de volgende eisen:
 
 Spoorvoertuigen voldoen aan punt 4.2.3.3.1 van de TSI LOC&PAS met betrekking tot compatibiliteit met treindetectiesystemen.
 
-In verband met de GSM-R is naast de vaste opstelling in de cabine (bijvoorbeeld een carkit) een mobiel GSM-R apparaat verplicht bij radio (afstand)besturing.
+Ten aanzien van de botsveiligheid wordt een risicoanalyse opgesteld waarin het niveau van botsveiligheid is bepaald en verantwoord.
 
-Spoorvoertuigen voldoen aan punt 4.2.3.3.1 van de TSI LOC&PAS met betrekking tot compatibiliteit met treindetectiesystemen.
+Spoorvoertuigen, waarvoor het inzetgebied wordt gevraagd voor de trajecten Barendrecht–Belgische grens en Hoofddorp–Rotterdam West, voldoen aan de volgende eis:
 
-## Bijlage 13. behorende bij [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2024-08-01&g=2024-08-01)
+## Bijlage 14. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 13. behorende bij [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=19&z=2026-01-01&g=2026-01-01)
 
 De eigenschappen van het spoorvoertuig die beoordeeld moeten worden in de verschillende ontwerp-, ontwikkel- en productiefasen, zijn in onderstaande tabel met een kruis (x) aangegeven. Een kruis in kolom 4 van de tabel betekent dat de desbetreffende eigenschappen moeten worden gekeurd door elk spoorvoertuig afzonderlijk te testen.
 
@@ -1506,26 +1514,76 @@ De eigenschappen van het spoorvoertuig die beoordeeld moeten worden in de versch
 | --- | --- | --- | --- | --- | --- |
 | Elementen van het spoorvoertuig | Artikel in deze regeling | Ontwerp- en ontwikkelingsfase | Ontwerp- en ontwikkelingsfase | Productiefase | Specifieke keuringsprocedure |
 | Elementen van het spoorvoertuig | Artikel in deze regeling | Ontwerptoetsing | Typekeuring | Routinekeuring | Specifieke keuringsprocedure |
-| ATBEG | [3 lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01), | x | x | x | Installatievoorschrift van de leverancier |
-| STM ATB | [3 lid 1, onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| ATBNG | [3 lid 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01), | x | x | x | Installatievoorschrift van de leverancier |
-| ETCS | [3 lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| Veiligheidsaardingscircuit | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=4&z=2024-08-01&g=2024-08-01) | x |   | n.v.t. |   |
-| Adhesieverbeterende maatregelen en magneetremmen | [5 lid 1 tot en met lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=5&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| Werking van een magneetreminrichting | [5 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=5&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Spoorvoertuigen die gebruik maken van het traject Roosendaal-Belgische grens en Maastricht-Belgische grens | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=6&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Wieldiameter kleiner dan 730 mm | [7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=7&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Wielflenssmeerinstallaties | [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| EMC | [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=9&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| Detectie-eigenschappen voor laagfrequente spoorstroomlopen 75 Hz | [10 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. | Ris bijlage 5 en 6 Procedure treindetectiemetingen en beschrijving TreinMonitoringSysteem ProRail (Hanzelijn), versie 1.0 van 28-8-2019 |
-| Detectie-eigenschappen voor toonfrequente spoorstroomlopen | [10 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. | Ris bijlage 6 Procedure treindetectiemetingen en beschrijving TreinMonitoringSysteem ProRail (Hanzelijn), versie 1.0 van 28-8-2019 |
-| Detectie-eigenschappen voor assentellers | [10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. | Ris bijlage 7 |
-| Stroomafname | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=11&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| Stroomafnemer 1500V DC | [12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=12&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Compatibiliteitsstudie 25kV AC 50Hz | [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=13&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Spoorvoertuigen die uitsluitend gebruik maken van Venlo – Duitse grens | [14](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2024-08-01&g=2024-08-01) | x | n.v.t. | n.v.t. |   |
-| Spoorvoertuigen, bestaand buitenlands | [15](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=15&z=2024-08-01&g=2024-08-01) | x | x | n.v.t. |   |
-| Bijzondere voertuigen, met uitzondering van voertuigen voor weg en spoorweg in de vervoersmodus | [17 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2024-08-01&g=2024-08-01) | x | x | x |   |
-| Voertuigen voor weg en spoorweg | [17 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2024-08-01&g=2024-08-01) | x | x | x |   |
+| ATBEG | [3 lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), | x | x | x | Installatievoorschrift van de leverancier |
+| STM ATB | [3 lid 1, onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| ATBNG | [3 lid 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), | x | x | x | Installatievoorschrift van de leverancier |
+| ETCS | [3 lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| Veiligheidsaardingscircuit | 4 | x | n.v.t. | n.v.t. |   |
+| Adhesieverbeterende maatregelen en magneetremmen | [5 lid 1 tot en met lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| Werking van een magneetreminrichting | [5 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Spoorvoertuigen die gebruik maken van het traject Roosendaal-Belgische grens en Maastricht-Belgische grens | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Wieldiameter kleiner dan 730 mm | [7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Wielflenssmeerinstallaties | [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| EMC | [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| Detectie-eigenschappen voor laagfrequente spoorstroomlopen 75 Hz | [10 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. | Ris bijlage 5 en 6 Procedure treindetectiemetingen en beschrijving TreinMonitoringSysteem ProRail (Hanzelijn), versie 1.0 van 28-8-2019 |
+| Detectie-eigenschappen voor toonfrequente spoorstroomlopen | [10 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. | Ris bijlage 6 Procedure treindetectiemetingen en beschrijving TreinMonitoringSysteem ProRail (Hanzelijn), versie 1.0 van 28-8-2019 |
+| Detectie-eigenschappen voor assentellers | [10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. | Ris bijlage 7 |
+| Stroomafname | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| Stroomafnemer 1500V DC | [12](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Compatibiliteitsstudie 25kV AC 50Hz | [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Spoorvoertuigen die uitsluitend gebruik maken van Venlo – Duitse grens | [14](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) | x | n.v.t. | n.v.t. |   |
+| Spoorvoertuigen, bestaand buitenlands | [15](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01) | x | x | n.v.t. |   |
+| Spoormachines en infrastructuurinspectievoertuigen in de rijmodus | 17 lid 1 | x | x | x |   |
+| Voertuigen voor weg en spoorweg | [17 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=17&z=2026-01-01&g=2026-01-01) | x | x | x |   |
+
+Beginwaarden:
+
+### 3.4. Stap 2a. Berekening
+
+Uitvoeren van een geometrische beschouwing volgens de onderstaande voorbeeldrekenbladen (volgens de rekenmethode van NEN-EN13232-3:2023 Annex B), met de invoerparameters uit de paragrafen 3.2 en 3.3. De onderstreepte invoerparameters worden bij het doorlopen van de rekenprocedure ingevuld op basis van de bepaalde parameters in paragrafen 3.2 en 3.3. Vervolgens worden de formules in de laatste kolom gevolgd om de zwarte waardes uit te rekenen. De limietwaarde is de waarde waarmee wordt bepaald of het spoorvoertuig voldoet of niet. De limietwaarde is een vast getal en wordt vergeleken met de waarde erboven (Laterale overlap (negatieve waarde) of vrijloop (positieve waarde) van de punt van het kruisstuk inclusief 20‰ sliphoek) om te bepalen of het spoorvoertuig voldoet of niet, zie paragraaf 3.5.
+
+De formules voor de beoordeling van de overlap zijn in de voorbeeldrekenbladen in paragraaf 3.4 gegeven. Zie onderstaande afbeeldingen ten behoeve van sectie **A:INFRA** en sectie **D:INTERACTIE** van de rekenbladen in paragraaf 3.4.
+
+NB: Maten A, B en C in figuur 4 komen overeen met Maat A, Maat B en Maat C in de rekenvoorbeelden.
+
+Voor de beoordeling van een 1:9 en 1:10 Engelse wissel of kruising geldt dat als de overlap van de punt van het kruisstuk onder alle genoemde omstandigheden van stap 1a en 1b, beschreven in paragrafen 3.2 en 3.3, aan de gestelde limietwaarde voldoet, het betreffende voertuig veilig de punt van het kruisstuk kan passeren, zonder daarbij de punt van het kruisstuk aan de voorzijde aan te rijden of langs de verkeerde kant van de punt van het kruisstuk te ontsporen.
+
+Laterale Y20‰ ≥ -0,725.678 mm geeft een positief resultaat;
+
+Let op! Groter dan resulteert hierbij in een kleiner negatief getal, of een positief getal!
+
+Laterale Y20‰ < -0,725.678 mm geeft een negatief resultaat;
+
+Let op! Kleiner dan resulteert hierbij in een groter negatief getal!
+
+Indien stap 2 van het stappenplan m.b.t. de analyse van het rechtdoor rijden door een 1:9 en 1:10 Engelse wissel of kruising succesvol kan worden afgesloten, wordt de bewijsvoering aangeleverd beschreven in paragraaf 3.6.
+
+Indien er niet aan de gestelde limietwaarde wordt voldaan, wordt er verdergegaan naar stap 3, beschreven in paragraaf 3.7, van het stappenplan.
+
+### 3.6. Stap 2c. Voorwaarden rapportage
+
+Wanneer bij stap 2b de conclusie positief is, wordt er een rapportage opgesteld:
+
+### 3.7. Stap 3a. Herbepaling invoerparameters
+
+Indien stap 2 een negatief resultaat oplevert, mag de maximale aanloophoek ψtotaal (zie ter informatie figuur 3, ψtot = ψ1+ψ2) en de maximale zijdelingse sliphoek x‰ in het spoor opnieuw worden bepaald d.m.v. metingen, beschikbare meetgegevens en/of gevalideerde simulaties.
+
+De nieuwe, maximale waarden voor de aanloophoek ψtotaal en de zijdelingse sliphoek x‰ in het spoor worden bepaald door het uitvoeren van een analyse van het dynamisch gedrag van het betreffende spoorvoertuig op basis van metingen, beschikbare meetgegevens en/of dynamicasimulaties. Bij deze analyse worden de volgende zaken meegenomen:
+
+### 3.8. Stap 3b. Herberekening
+
+De nieuwe, onderbouwde maximale waarden voor de aanloophoek ψtotaal en de zijdelingse sliphoek x‰ in het spoor worden als invoergegevens voor een herberekening volgens stap 2a en 2b van het stappenplan gebruikt.
+
+Indien er uit de herberekening van stap 2 met de nieuwe, onderbouwde maximale waarden voor de aanloophoek ψtotaal en de zijdelingse sliphoek x‰ in het spoor volgt dat er aan de gestelde limietwaarde wordt voldaan, kan het betreffende spoorvoertuig veilig de punt van het kruisstuk passeren.
+
+Indien er uit de herberekening van stap 2 volgt dat er **niet** aan de gestelde limietwaarde wordt voldaan, geldt er een beperking voor het betreffende spoorvoertuig met betrekking tot het rijden door 1:9 en/of 1:10 Engelse wissels of kruisingen op de Nederlandse hoofdspoorweginfrastructuur. Het betreffende spoorvoertuig mag niet op trajecten met dergelijke Engelse wissels en kruisingen worden ingezet, ook niet met een verlaagde rijsnelheid.
+
+Indien stap 3 van het stappenplan m.b.t. de analyse van het rechtdoor rijden door een 1:9 en 1:10 Engelse wissel of kruising wordt uitgevoerd, wordt er bewijsvoering aangeleverd, zie paragraaf 3.9.
+
+Indien het betreffende spoorvoertuig ook niet met een aangepaste aanloophoek ψtotaal en zijdelingse sliphoek x‰ aan de eisen voldoet, kan het spoorvoertuig alleen geschikt gemaakt worden voor het rechtdoor rijden door 1:9 en 1:10 Engelse wissels en kruisingen, door een aanpassing van de ontwerpvoertuigparameters (zoals bijvoorbeeld wieldiameter, wielprofiel, uitdraaistijfheid, stabiliteit en dergelijke).
+
+### 3.9. Stap 3c. Voorwaarden rapportage na herberekening
+
+Wanneer bij stap 3b de conclusie positief is, wordt er een rapportage opgesteld:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
