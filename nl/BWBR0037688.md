@@ -4,7 +4,7 @@ identifier: "BWBR0037688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-02-21"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037688"
 soort: "ministeriele-regeling"
@@ -60,17 +60,17 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2. (hoogte toltarief)
 
-1. Het toltarief voor de Blankenburgverbinding bedraagt:
+1. Het toltarief voor de Blankenburgverbinding bedraagt, uitgaande van het prijspeil 2026:
 
-- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,51;
+- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,57;
 
-- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,13.
+- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,49.
 
-2. Het toltarief voor de ViA15 bedraagt:
+2. Het toltarief voor de ViA15 bedraagt, uitgaande van het prijspeil 2026:
 
-- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,51;
+- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,57;
 
-- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,13.
+- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,49.
 
 3. Het toltarief wordt jaarlijks geïndexeerd met de door het Centraal Planbureau geraamde Index Bruto Overheidsinvesteringen.
 
