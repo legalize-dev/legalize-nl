@@ -4,7 +4,7 @@ identifier: "BWBR0049798"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049798"
 soort: "AMvB"
@@ -64,7 +64,7 @@ De categorieën van personen, bedoeld in [artikel 271, tweede lid, eerste zin, v
 
 - g. personen die voor hun werk tijdelijk op Ameland, Schiermonnikoog, Terschelling, Texel en Vlieland woonruimte behoeven;
 
-- h. vergunninghouders als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) die direct voorafgaand aan de huurovereenkomst in een opvangcentrum als bedoeld in [artikel 1 van de Wet op het Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=1) verbleven en woonruimte huren in afwachting van definitieve huisvesting door de betrokken gemeente.
+- h. vergunninghouders als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) die direct voorafgaand aan de huurovereenkomst in een opvangvoorziening als bedoeld in [artikel 1 van de Wet op het Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=1) verbleven en woonruimte huren in afwachting van definitieve huisvesting door de betrokken gemeente.
 
 ##### Artikel 2
 
@@ -76,7 +76,7 @@ De [Wet vaste huurcontracten](https://wetten.overheid.nl/jci1.3:c:BWBR0049266) t
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049798&artikel=2&z=2024-07-01&g=2024-07-01) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049798&artikel=2&z=2026-01-01&g=2026-01-01) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 5
 
