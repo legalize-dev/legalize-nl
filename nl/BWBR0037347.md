@@ -4,7 +4,7 @@ identifier: "BWBR0037347"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037347"
 soort: "wet-BES"
@@ -122,21 +122,21 @@ Vervallen
 
 ##### Artikel 8. Peildatum
 
-Recht op kinderbijslag BES over een kalendermaand heeft de rechthebbende die op de eerste dag van die kalendermaand voldoet aan de voorwaarden voor het recht op kinderbijslag BES, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01).
+Recht op kinderbijslag BES over een kalendermaand heeft de rechthebbende die op de eerste dag van die kalendermaand voldoet aan de voorwaarden voor het recht op kinderbijslag BES, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 9. Kinderbijslagbedrag BES
 
 Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 
-- a. USD 38 per 1 januari 2025: USD 231 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Bonaire;
+- a. USD 38 per 1 januari 2026: USD 239 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Bonaire;
 
-- b. USD 38 per 1 januari 2025: USD 223 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Sint Eustatius;
+- b. USD 38 per 1 januari 2026: USD 227 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Sint Eustatius;
 
-- c. USD 38 per 1 januari 2025: USD 230 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Saba.
+- c. USD 38 per 1 januari 2026: USD 238 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Saba.
 
 ##### Artikel 10. Wijziging kinderbijslagbedrag BES
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2025-07-01&g=2025-07-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
 2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden verhoogd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.
 
@@ -150,7 +150,7 @@ Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 
 2. Een aanvraag wordt ingediend door middel van een door Onze Minister beschikbaar gesteld aanvraagformulier.
 
-3. Het recht op kinderbijslag BES kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van de kalendermaand tijdens welk de aanvraag om kinderbijslag BES werd ingediend. Het recht op kinderbijslag, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), kan niet vroeger ingaan dan de eerste dag van de kalendermaand tijdens welk de aanvraag om kinderbijslag als bedoeld in artikel 5a, eerste lid, werd ingediend.
+3. Het recht op kinderbijslag BES kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van de kalendermaand tijdens welk de aanvraag om kinderbijslag BES werd ingediend. Het recht op kinderbijslag, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), kan niet vroeger ingaan dan de eerste dag van de kalendermaand tijdens welk de aanvraag om kinderbijslag als bedoeld in artikel 5a, eerste lid, werd ingediend.
 
 4. In afwijking van het eerste lid, is Onze Minister bevoegd de kinderbijslag BES ambtshalve toe te kennen.
 
@@ -164,13 +164,13 @@ Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 
 ##### Artikel 13. Herziening of intrekking beschikking
 
-1. Onze Minister kan een beschikking tot toekenning van kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), herzien dan wel intrekken indien:
+1. Onze Minister kan een beschikking tot toekenning van kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), herzien dan wel intrekken indien:
 
-- a. het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-07-01&g=2025-07-01) heeft geleid tot het ten onrechte toekennen van kinderbijslag BES;
+- a. het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01) heeft geleid tot het ten onrechte toekennen van kinderbijslag BES;
 
 - b. ten onrechte kinderbijslag BES is toegekend;
 
-- c. het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-07-01&g=2025-07-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op kinderbijslag BES bestaat;
+- c. het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op kinderbijslag BES bestaat;
 
 - d. de rechthebbende of diens kind waarvoor kinderbijslag BES wordt ontvangen, een uitreiziger is.
 
@@ -178,19 +178,19 @@ Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 
 ##### Artikel 14. Informatieplicht
 
-De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), is verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op kinderbijslag BES of op het geldend maken van het recht op kinderbijslag BES, dat wordt betaald.
+De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), is verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op kinderbijslag BES of op het geldend maken van het recht op kinderbijslag BES, dat wordt betaald.
 
 ##### Artikel 15. Controlevoorschriften
 
 1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
-2. De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), is verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
+2. De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), is verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
-3. De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), onthoudt zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
+3. De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), onthoudt zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
 ##### Artikel 16. Weigering kinderbijslag BES
 
-Onze Minister is bevoegd de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), tijdelijk of blijvend, geheel of gedeeltelijk te weigeren, indien de rechthebbende de verplichtingen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-07-01&g=2025-07-01), niet of niet behoorlijk is nagekomen. Van de weigering wordt afgezien indien elke vorm van verwijtbaarheid ontbreekt. Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van de weigering.
+Onze Minister is bevoegd de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), tijdelijk of blijvend, geheel of gedeeltelijk te weigeren, indien de rechthebbende de verplichtingen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01), niet of niet behoorlijk is nagekomen. Van de weigering wordt afgezien indien elke vorm van verwijtbaarheid ontbreekt. Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van de weigering.
 
 #### Paragraaf 3. Betaling kinderbijslag BES
 
@@ -208,17 +208,17 @@ Onze Minister is bevoegd de kinderbijslag BES, bedoeld in [artikel 5](https://we
 
 ##### Artikel 18. Schorsing betaling
 
-1. Onze Minister schort de betaling van de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), op of schorst de betaling, indien hij op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft, dat:
+1. Onze Minister schort de betaling van de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), op of schorst de betaling, indien hij op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft, dat:
 
 - a. het recht op kinderbijslag BES niet of niet meer bestaat; of
 
-- b. de rechthebbende een verplichting die hem of haar op grond van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-07-01&g=2025-07-01) is opgelegd, niet is nagekomen.
+- b. de rechthebbende een verplichting die hem of haar op grond van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01) is opgelegd, niet is nagekomen.
 
-2. Onze Minister schort de betaling van de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), op, indien blijkt dat het door de rechthebbende verstrekte adres van hemzelf of van zijn kind afwijkt van het adres waaronder de rechthebbende of het kind in een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2) staat ingeschreven.
+2. Onze Minister schort de betaling van de kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), op, indien blijkt dat het door de rechthebbende verstrekte adres van hemzelf of van zijn kind afwijkt van het adres waaronder de rechthebbende of het kind in een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2) staat ingeschreven.
 
 3. Geen opschorting vindt plaats:
 
-- a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01);
+- a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01);
 
 - b. indien de rechthebbende van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.
 
@@ -234,25 +234,25 @@ Onze Minister is bevoegd de kinderbijslag BES, bedoeld in [artikel 5](https://we
 
 ##### Artikel 19. Geen betaling
 
-De kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), die niet in ontvangst is genomen of is ingevorderd binnen drie maanden na de dag van betaalbaarstelling, wordt niet meer betaald. Onze Minister kan de eerste volzin buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de rechthebbende zal leiden tot een onbillijkheid van overwegende aard.
+De kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), die niet in ontvangst is genomen of is ingevorderd binnen drie maanden na de dag van betaalbaarstelling, wordt niet meer betaald. Onze Minister kan de eerste volzin buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de rechthebbende zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 20. Eigenschappen kinderbijslag BES
 
-1. De kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), is:
+1. De kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), is:
 
 - a. onvervreemdbaar;
 
 - b. niet vatbaar voor verpanding of belening;
 
-- c. behoudens voor zover dit dient tot verhaal van een uitkering tot levensonderhoud van het kind, of tot terugvordering van onverschuldigd betaalde kinderbijslag BES als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01), niet vatbaar voor executoriaal of conservatoir beslag noch voor beslag ingevolge faillissement.
+- c. behoudens voor zover dit dient tot verhaal van een uitkering tot levensonderhoud van het kind, of tot terugvordering van onverschuldigd betaalde kinderbijslag BES als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01), niet vatbaar voor executoriaal of conservatoir beslag noch voor beslag ingevolge faillissement.
 
-2. Volmacht tot ontvangst van kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), onder welke vorm of welke benaming ook door de rechthebbende verleend, is steeds herroepelijk.
+2. Volmacht tot ontvangst van kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), onder welke vorm of welke benaming ook door de rechthebbende verleend, is steeds herroepelijk.
 
 3. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
 ##### Artikel 21. Terugvordering kinderbijslag BES
 
-1. Onze Minister is bevoegd de ten onrechte uitbetaalde kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), terug te vorderen van diegene aan wie de kinderbijslag BES is betaald, indien:
+1. Onze Minister is bevoegd de ten onrechte uitbetaalde kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), terug te vorderen van diegene aan wie de kinderbijslag BES is betaald, indien:
 
 - a. het ten onrechte uitbetalen het gevolg is van het niet verstrekken van inlichtingen of het verstrekken van onjuiste inlichtingen;
 
@@ -262,17 +262,17 @@ De kinderbijslag BES, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 22. Voorrecht vordering
 
-Een vordering van Onze Minister als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=288).
+Een vordering van Onze Minister als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=288).
 
 ### Hoofdstuk 3. Bestuurlijke boete en gegevensdeling
 
 ##### Artikel 23. Bestuurlijke boete
 
-1. Onze Minister kan een bestuurlijke boete opleggen van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de rechthebbende, dan wel degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01).
+1. Onze Minister kan een bestuurlijke boete opleggen van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de rechthebbende, dan wel degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01).
 
-2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01), ten onrechte of tot een te hoog bedrag aan kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), is verleend.
+2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), ten onrechte of tot een te hoog bedrag aan kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), is verleend.
 
-3. Indien het niet of niet behoorlijk nakomen door de rechthebbende, dan wel degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-07-01&g=2025-07-01), niet heeft geleid tot een benadelingsbedrag, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+3. Indien het niet of niet behoorlijk nakomen door de rechthebbende, dan wel degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), van de verplichting, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), niet heeft geleid tot een benadelingsbedrag, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden over de tenuitvoerlegging van de bestuurlijke boete, alsmede de verrekening van deze bestuurlijke boete.
 
@@ -286,7 +286,7 @@ Een vordering van Onze Minister als bedoeld in [artikel 21](https://wetten.overh
 
 ##### Artikel 25. Te besteden middelen
 
-De op grond van deze wet uit te keren bedragen aan kinderbijslag BES als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-07-01&g=2025-07-01), en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk.
+De op grond van deze wet uit te keren bedragen aan kinderbijslag BES als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk.
 
 ### Hoofdstuk 3a. Bekendmaking, bezwaar en beroep
 
@@ -342,11 +342,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
-2. Bij een beroep tegen een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
+2. Bij een beroep tegen een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
 
-3. Bij een bestuurlijke heroverweging van een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
+3. Bij een bestuurlijke heroverweging van een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
 
-4. Met betrekking tot een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
+4. Met betrekking tot een beschikking op grond van de [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en [13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
 ### Hoofdstuk 4. Financiering
 
@@ -384,7 +384,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5a. Verdubbeling van de kinderbijslag bij intensieve zorg
 
-1. Een ingezetene heeft voor een tot zijn huishouden behorend kind dat drie jaar of ouder is en jonger dan 18 jaar, recht op een verdubbeling van het kinderbijslagbedrag BES, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2025-07-01&g=2025-07-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
+1. Een ingezetene heeft voor een tot zijn huishouden behorend kind dat drie jaar of ouder is en jonger dan 18 jaar, recht op een verdubbeling van het kinderbijslagbedrag BES, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
 
 2. Om te bepalen of een kind intensieve zorg behoeft, wint Onze Minister een op medische gegevens gebaseerd advies in bij een door Onze Minister aangewezen rechtspersoon.
 
