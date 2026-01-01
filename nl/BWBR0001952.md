@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-02-18"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -207,7 +207,7 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 
 - p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
 
-- q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
+- q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 
 ##### Artikel 12a
 
@@ -281,7 +281,7 @@ Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol o
 
 ##### Artikel 13
 
-Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) berust de aanstelling die voor dat tijdstip is verleend aan een bij het ministerie van Defensie werkzame ambtenaar op [artikel 12o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IVa&artikel=12o&z=2023-02-18&g=2023-02-18). De op dat tijdstip ten aanzien van de ambtenaar bestaande beslissingen, afspraken en toezeggingen inzake zijn arbeidsvoorwaarden, waaronder in ieder geval de duur van het dienstverband, de bezoldiging, werktijden, werkrooster, verlof, faciliteiten voor de uitoefening van de functie en studiefaciliteiten, behouden hun geldigheid.
+Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) berust de aanstelling die voor dat tijdstip is verleend aan een bij het ministerie van Defensie werkzame ambtenaar op [artikel 12o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IVa&artikel=12o&z=2026-01-01&g=2026-01-01). De op dat tijdstip ten aanzien van de ambtenaar bestaande beslissingen, afspraken en toezeggingen inzake zijn arbeidsvoorwaarden, waaronder in ieder geval de duur van het dienstverband, de bezoldiging, werktijden, werkrooster, verlof, faciliteiten voor de uitoefening van de functie en studiefaciliteiten, behouden hun geldigheid.
 
 #### § 1. Overgangsbepaling
 
@@ -515,7 +515,7 @@ Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd
 
 1. Met verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan Onze Minister verschuldigd is.
 
-2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2023-02-18&g=2023-02-18).
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2026-01-01&g=2026-01-01).
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
@@ -529,7 +529,7 @@ Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd
 
 ##### Artikel 10e
 
-Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10c&z=2023-02-18&g=2023-02-18), en [artikel 10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2023-02-18&g=2023-02-18), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10c&z=2026-01-01&g=2026-01-01), en [artikel 10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2026-01-01&g=2026-01-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 10f
 
@@ -581,15 +581,15 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 - m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
 
-- n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
+- n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 
-3. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3) en [4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=4) zijn, met uitzondering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=II&paragraaf=2&artikel=6&z=2023-02-18&g=2023-02-18), van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
+3. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3) en [4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=4) zijn, met uitzondering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=II&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
 
 4. Het is de ambtenaar in de zin van het eerste lid toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
 
 5. Vervallen.
 
-6. De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12b&z=2023-02-18&g=2023-02-18) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12c&z=2023-02-18&g=2023-02-18) zijn van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
+6. De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12b&z=2026-01-01&g=2026-01-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12c&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
 
 ##### Artikel 12p
 
