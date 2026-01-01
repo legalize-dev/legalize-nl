@@ -4,7 +4,7 @@ identifier: "BWBR0006022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-19"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006022"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2012-11-02"
 ---
 # Regeling houdende nadere regels ten aanzien van machines
 
-Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2016-07-19&g=2016-07-19), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2016-07-19&g=2016-07-19), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
+Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2026-01-01&g=2026-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2026-01-01&g=2026-01-01), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder Besluit: het [Warenwetbesluit machines](ht
 
 1. Als categorie mobiele kranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d) worden aangewezen:
 
-hijskranen voor haakbedrijf op rupsen of banden alsmede een torenvormige hijskranen voor haakbedrijf op rupsen of banden met een bedrijfslastmoment van tenminste 10 tonmeter, met uitzondering van:
+hijskranen voor haakbedrijf op rupsen of banden alsmede torenvormige hijskranen voor haakbedrijf op rupsen of banden met een bedrijfslastmoment van tenminste 10 tonmeter, met uitzondering van:
 
 - a. op een voertuig bevestigde laadkranen die uitsluitend bestemd zijn of worden gebruikt voor het laden en lossen van de laadbak van het voertuig;
 
@@ -94,7 +94,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 1. behorend bij [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2a&z=2016-07-19&g=2016-07-19)
+## Bijlage 1. behorend bij [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2a&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
@@ -1264,10 +1264,10 @@ OK niet OK
 
 Vervallen
 
-## Bijlage 3. behorend bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2016-07-19&g=2016-07-19), Warenwetregeling Machines
+## Bijlage 3. behorend bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2026-01-01&g=2026-01-01), Warenwetregeling Machines
 
 Vervallen
 
-## Bijlage 4. behorend bij artikel van de Warenwetregeling Machines behorend bij [artikel 2b, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2016-07-19&g=2016-07-19)
+## Bijlage 4. behorend bij artikel van de Warenwetregeling Machines behorend bij [artikel 2b, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2026-01-01&g=2026-01-01)
 
 Vervallen
