@@ -4,7 +4,7 @@ identifier: "BWBR0051328"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-07-29"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051328"
 soort: "zbo"
@@ -46,25 +46,23 @@ De volgende Regeling Leesbevordering Nederlands Letterenfonds vast te stellen
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** het bestuur van het Nederlands Letterenfonds;
+- a. **bestuur:** het bestuur van het Nederlands Letterenfonds;
 
-- **het Letterenfonds:** Stichting Nederlands Letterenfonds;
+- b. **Cariben:** het Caribische deel van het Koninkrijk
 
-- **Cariben:** het Caribische deel van het Koninkrijk
+- c. **Engels:** de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
 
-- **Engels:** de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
+- d. **instelling of organisatie:** culturele instellingen en culturele organisaties of rechtspersonen die in het Koninkrijk actief zijn in de culturele sectoren;
 
-- **instelling of organisatie:** in het Koninkrijk gevestigde gesubsidieerde en niet-gesubsidieerde culturele instellingen en culturele organisaties of rechtspersonen die actief zijn in de culturele sectoren;
+- e. **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- f. **leesbevordering:** het stimuleren van het lezen en/of leesplezier in brede zin; literatuur: literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
 
-- **leesbevordering:** het stimuleren van het lezen en/of leesplezier in brede zin;
+- g. **het Letterenfonds:** Stichting Nederlands Letterenfonds;
 
-- **literatuur:** literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
+- h. **Papiaments:** Papiamento en Papiamentu.
 
-- **Papiaments:** Papiamento en Papiamentu.
-
-- **Technisch lezen:** het koppelen van leestekens aan klanken voor een vloeiende leesvaardigheid, waarbij woorden en zinnen in één oogopslag worden herkend;
+- i. **Technisch lezen:** het koppelen van leestekens aan klanken voor een vloeiende leesvaardigheid, waarbij woorden en zinnen in één oogopslag worden herkend;
 
 ##### Artikel 2. Doel
 
@@ -80,9 +78,11 @@ Met deze regeling wil het Letterenfonds projecten op het gebied van leesbevorder
 
 4. Een project heeft een looptijd van maximaal 1 jaar en dient binnen een periode van maximaal 1,5 jaar na het moment van verlening van de subsidie te zijn afgerond.
 
+5. De te subsidiëren activiteiten vangen niet eerder aan dan de dag na de dag waarop de subsidie wordt verleend.
+
 ##### Artikel 4. Aanvrager
 
-1. Subsidie kan uitsluitend worden aangevraagd door een in het Koninkrijk gevestigde rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid die leesbevorderende of literatuur-educatieve activiteiten produceert en/of uitvoert.
+1. Subsidie kan uitsluitend worden aangevraagd door een rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid die leesbevorderende of literatuur-educatieve activiteiten produceert en/of uitvoert in het Koninkrijk.
 
 2. Scholen, universiteiten en gemeentes kunnen geen subsidie op grond van deze regeling aanvragen.
 
@@ -102,7 +102,7 @@ Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
 ##### Artikel 6. Weigeringsgronden
 
-De subsidie wordt in ieder geval geweigerd indien:
+De subsidie wordt in ieder geval niet verleend indien:
 
 - a. de aanvrager niet aan het bepaalde in deze regeling voldoet;
 
@@ -112,7 +112,7 @@ De subsidie wordt in ieder geval geweigerd indien:
 
 - d. een voorafgaand project waarvoor aan dezelfde aanvrager op grond van deze regeling subsidie is verleend nog niet is afgerond;
 
-- e. op één of meer van de beoordelingscriteria als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=10&z=2025-07-29&g=2025-07-29), lager dan een voldoende wordt gescoord.
+- e. op één of meer van de beoordelingscriteria als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=10&z=2026-01-01&g=2026-01-01), lager dan een voldoende wordt gescoord.
 
 ##### Artikel 7. Aanvraagperiode
 
@@ -126,7 +126,7 @@ De subsidie wordt in ieder geval geweigerd indien:
 
 ##### Artikel 8. Subsidieplafond
 
-1. Het subsidieplafond bedraagt € 850.000 per jaar. Indien in enig jaar meerdere aanvraagrondes worden gehouden, wordt het subsidieplafond voor dat jaar gelijkelijk over deze aanvraagrondes verdeeld. Dit zijn deelsubsidieplafonds.
+1. Het subsidieplafond bedraagt € 1.100.000 per jaar. Indien in enig jaar meerdere aanvraagrondes worden gehouden, wordt het subsidieplafond voor dat jaar gelijkelijk over deze aanvraagrondes verdeeld. Dit zijn deelsubsidieplafonds.
 
 2. Wijzigingen in de hoogte van een subsidieplafond of de verdeling over de aanvraagrondes, worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
@@ -140,11 +140,13 @@ De subsidie wordt in ieder geval geweigerd indien:
 
 - b. een projectplan dat is opgesteld volgens het op de website van het Letterenfonds beschikbaar gestelde model;
 
-- c. een sluitende, gespecificeerde begroting met toelichting;
+- c. een sluitende, gespecificeerde begroting;
 
-- d. een uittreksel van inschrijving in het handelsregister van de Kamer van Koophandel van maximaal zes maanden oud;
+- d. een aparte toelichting op de begroting.
 
-- e. de meeste recente jaarrekening, goedgekeurd door het orgaan dat volgens de statuten van de aanvrager daartoe bevoegd is. Aanvragers die vanwege hun korte bestaansduur nog niet over een goedgekeurde jaarrekening beschikken en aanvragers gevestigd in de Cariben, zijn van deze verplichting uitgezonderd.
+- e. een actueel uittreksel van inschrijving in het handelsregister van de Kamer van Koophandel.
+
+- f. de meeste recente jaarrekening, goedgekeurd door het orgaan dat volgens de statuten van de aanvrager daartoe bevoegd is. Aanvragers die vanwege hun korte bestaansduur nog niet over een goedgekeurde jaarrekening beschikken en aanvragers gevestigd in de Cariben, zijn van deze verplichting uitgezonderd.
 
 3. Bij samenwerking met andere organisaties is het indienen van een door beide partijen ondertekende intentieverklaring of samenwerkingsovereenkomst, waarin de samenwerking gedetailleerd wordt beschreven verplicht.
 
@@ -154,13 +156,13 @@ De subsidie wordt in ieder geval geweigerd indien:
 
 6. Aanvragen die op het uiterste moment van indiening niet compleet zijn, worden niet in behandeling genomen.
 
-7. Aanvragen kunnen, na een afwijzend besluit gebaseerd op een negatief oordeel op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2025-07-29&g=2025-07-29), in een volgende ronde niet meer voor hetzelfde project opnieuw worden ingediend. Aanvragers die vanwege te weinig budget zijn afgewezen, mogen in een volgende ronde eenmalig voor hetzelfde project opnieuw aanvragen.
+7. Aanvragen kunnen, na een afwijzend besluit gebaseerd op een negatief oordeel op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2026-01-01&g=2026-01-01), in een volgende ronde niet meer voor hetzelfde project opnieuw worden ingediend. Aanvragers die vanwege te weinig budget zijn afgewezen, mogen in een volgende ronde eenmalig voor hetzelfde project opnieuw aanvragen.
 
 ##### Artikel 10. Hoogte subsidiebedrag
 
 1. Het aan te vragen subsidiebedrag bedraagt minimaal € 25.000 en maximaal € 50.000.
 
-2. Maximaal € 500 van het toegekende subsidiebedrag is bestemd als bijdrage aan kosten voor deelname aan een door of namens het Letterenfonds te verrichten impactonderzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2025-07-29&g=2025-07-29).
+2. Maximaal € 500 van het toegekende subsidiebedrag is bestemd als bijdrage aan kosten voor deelname aan een door of namens het Letterenfonds te verrichten impactonderzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2026-01-01&g=2026-01-01).
 
 3. Aanvragers dienen minimaal 25% van de kosten van het project uit eigen middelen of op andere wijze te financieren.
 
@@ -184,13 +186,13 @@ De subsidie wordt in ieder geval geweigerd indien:
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan een adviescommissie.
 
-2. De adviescommissie geeft per beoordelingscriterium als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2025-07-29&g=2025-07-29) een inhoudelijk advies, met als conclusie het oordeel onvoldoende, zwak, voldoende, goed of zeer goed, en adviseert over het al dan niet toewijzen van de aanvragen en de subsidiehoogte.
+2. De adviescommissie geeft per beoordelingscriterium als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2026-01-01&g=2026-01-01) een inhoudelijk advies, met als conclusie het oordeel onvoldoende, zwak, voldoende, goed of zeer goed, en adviseert over het al dan niet toewijzen van de aanvragen en de subsidiehoogte.
 
 ##### Artikel 13. Verdeling budget
 
 1. Aanvragen die op één of meer onderdelen als onvoldoende of zwak zijn beoordeeld, worden op inhoudelijke gronden afgewezen.
 
-2. De overige aanvragen worden in een rangorde geplaatst. Daartoe worden de oordelen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=12&z=2025-07-29&g=2025-07-29), vertaald naar cijfers als bedoeld in onderstaande tabel.
+2. De overige aanvragen worden in een rangorde geplaatst. Daartoe worden de oordelen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=12&z=2026-01-01&g=2026-01-01), vertaald naar cijfers als bedoeld in onderstaande tabel.
 
 | Waardering | Cijfer | Toelichting |
 | --- | --- | --- |
@@ -200,13 +202,13 @@ De subsidie wordt in ieder geval geweigerd indien:
 | Zwak | 1 | Matig, met meer kritiekpunten dan positieve punten. |
 | Onvoldoende | 0 | Onder de maat, nauwelijks positieve elementen te benoemen. |
 
-3. Voor de beoordelingscriteria als bedoeld in [artikel 11 eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2025-07-29&g=2025-07-29) kan maximaal 8 punten per criterium worden behaald omdat deze criteria dubbel meewegen. Voor de beoordelingscriteria als bedoeld in artikel 11 eerste lid onder c en d kan maximaal 4 punten per criterium worden behaald.
+3. Voor de beoordelingscriteria als bedoeld in [artikel 11 eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2026-01-01&g=2026-01-01) kan maximaal 8 punten per criterium worden behaald omdat deze criteria dubbel meewegen. Voor de beoordelingscriteria als bedoeld in artikel 11 eerste lid onder c en d kan maximaal 4 punten per criterium worden behaald.
 
 4. De subsidie wordt volgens deze rangorde toegekend, waarbij als eersten de hoogst geëindigde aanvraag van een aanvrager gevestigd inde Cariben voor een project in het Papiaments, de hoogst geëindigde aanvraag van een aanvrager gevestigd in de Cariben voor een project in het Engels en de hoogst geëindigde aanvraag op het gebied van de Nederlandse Gebarentaal (NGT) worden toegekend. Daarna wordt subsidie volgens de rangschikking toegekend, totdat het subsidieplafond is bereikt.
 
-5. In het geval een subsidie niet volledig verleend kan worden als gevolg van overschrijding van het subsidieplafond, vindt gedeeltelijke verlening plaats aan de eerstvolgende in de rangorde en ter hoogte van het nog beschikbare bedrag. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt, wordt de aanvraag afgewezen en schuift het restantbedrag door naar de eerstvolgende subsidieronde.
+5. In het geval een subsidie niet volledig verleend kan worden als gevolg van overschrijding van het subsidieplafond, vindt gedeeltelijke verlening plaats aan de eerstvolgende in de rangorde en ter hoogte van het nog beschikbare bedrag. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt, wordt de aanvraag afgewezen en kan het bestuur besluiten het overgebleven bedrag van het subsidieplafond door te schuiven naar de eerstvolgende subsidieronde.
 
-6. In afwijking van het derde lid is bij het maken van een keuze tussen twee of meer aanvragen die gelijk zijn gerangschikt en niet allemaal kunnen worden gehonoreerd omdat dan het deelsubsidieplafond wordt overschreden, de beoordeling bij het criterium ‘Toegevoegde waarde van het project op het bestaande aanbod’ leidend. Ontstaat daarna nogmaals een gelijke rangschikking, dan is de beoordeling bij het criterium ‘Visie op leesbevordering’ bepalend. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt de aanvraag gehonoreerd die het meest bijdraagt aan de geografische spreiding van gehonoreerde projecten over het gehele Koninkrijk. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt door middel van loting bepaald welke aanvraag alsnog gehonoreerd wordt. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt van de aanvrager die op grond van dit lid wordt gehonoreerd, wordt de aanvraag afgewezen en schuift het restantbedrag door naar de eerstvolgende subsidieronde.
+6. In afwijking van het derde lid is bij het maken van een keuze tussen twee of meer aanvragen die gelijk zijn gerangschikt en niet allemaal kunnen worden gehonoreerd omdat dan het deelsubsidieplafond wordt overschreden, de beoordeling bij het criterium ‘Toegevoegde waarde van het project op het bestaande aanbod’ leidend. Ontstaat daarna nogmaals een gelijke rangschikking, dan is de beoordeling bij het criterium ‘Visie op leesbevordering’ bepalend. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt de aanvraag gehonoreerd die het meest bijdraagt aan de geografische spreiding van gehonoreerde projecten over het gehele Koninkrijk. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt door middel van loting bepaald welke aanvraag alsnog gehonoreerd wordt. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt van de aanvrager die op grond van dit lid wordt gehonoreerd, wordt de aanvraag afgewezen en kan het bestuur besluiten het overgebleven bedrag van het subsidieplafond door te schuiven naar de eerstvolgende subsidieronde.
 
 ##### Artikel 14. Besluit
 
@@ -246,13 +248,15 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 4. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel reeds betaalde gedeelten van de subsidie of teruggevorderd.
 
-5. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht, bedoeld in [artikel 15, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2025-07-29&g=2025-07-29), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
+5. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht, bedoeld in [artikel 15, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2026-01-01&g=2026-01-01), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
 ##### Artikel 18. Slotbepaling
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
 2. Naast en in aanvulling op deze regeling zijn de bepalingen in het [Algemeen Reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735) van toepassing.
+
+3. Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 19. Inwerkingtreding
 
