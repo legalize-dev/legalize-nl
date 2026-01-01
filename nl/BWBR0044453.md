@@ -4,7 +4,7 @@ identifier: "BWBR0044453"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044453"
 soort: "ministeriele-regeling-BES"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:** leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 5.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsidie aan een EOZ, gevestigd in een openbaar lichaam voor in ieder geval de uitvoering van het eilandelijk zorgplan en het uitoefenen van de taken, bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4).
+De minister verstrekt voor de kalenderjaren 2021 tot en met 2028 subsidie aan een EOZ, gevestigd in een openbaar lichaam voor in ieder geval de uitvoering van het eilandelijk zorgplan en het uitoefenen van de taken, bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4).
 
 ##### Artikel 4. Subsidieaanvraag
 
@@ -104,7 +104,13 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 - d. voor het kalenderjaar 2024: op 1 oktober 2023;
 
-- e. voor het kalenderjaar 2025: op 1 oktober 2024.
+- e. voor het kalenderjaar 2025: op 1 oktober 2024;
+
+- f. voor het kalenderjaar 2026: op 1 oktober 2025;
+
+- g. voor het kalenderjaar 2027: op 1 oktober 2026;
+
+- h. voor het kalenderjaar 2028: op 1 oktober 2027.
 
 4. Het EOZ in het openbaar lichaam Saba en het EOZ in het openbaar lichaam Sint Eustatius ontvangen naast het subsidiebedrag, bedoeld in het eerste lid, een aanvullend bedrag in verband met het hogere prijspeil op deze eilanden.
 
@@ -112,19 +118,19 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 6. Hoogte van de bedragen
 
-1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 426.025.
+1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 446.998.
 
-2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 420.365.
+2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 441.059.
 
-3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 326.722.
+3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 342.806.
 
-4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), bedraagt USD 507,17.
+4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt USD 542,51.
 
-5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
+5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
 
 ##### Artikel 7. Besteding en verantwoording
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2025-01-01&g=2025-01-01).
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2026-01-01&g=2026-01-01).
 
 2. Eventuele niet-bestede middelen kunnen door het EOZ in de daaropvolgende jaren worden aangewend voor de uitvoering van de activiteiten, bedoeld in het eerste lid.
 
@@ -138,9 +144,9 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 8. Subsidievaststelling en betaling
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2025-01-01&g=2025-01-01), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
 
-2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2025-01-01&g=2025-01-01) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
+2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2026-01-01&g=2026-01-01) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
 
 3. De betaling van het subsidiebedrag vindt plaats in gelijke maandelijkse termijnen.
 
@@ -156,7 +162,7 @@ De [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen 2022]
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026.
+2. Deze regeling vervalt met ingang van 1 januari 2029.
 
 ##### Artikel 12. Citeertitel
 
