@@ -4,7 +4,7 @@ identifier: "BWBR0049141"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049141"
 soort: "wet"
@@ -102,15 +102,15 @@ Wijzigt het Belastingplan 2023.
 
 ##### Artikel X
 
-[Titel 15.13 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=15.13) vervalt en het [Besluit kosten-verevening reductie CO2-emissies glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0030463) en de [Regeling kosten-verevening reductie CO2-emissies glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0036075) worden ingetrokken, met dien verstande dat die titel, dat besluit en die regeling van toepassing blijven voor zover de emissie van kooldioxide heeft plaatsgevonden voorafgaand aan de inwerkingtreding van dit artikel.
+[Titel 15.13 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=15.13) vervalt en het [Besluit kosten-verevening reductie CO2-emissies glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0030463) en de [Regeling kosten-verevening reductie CO2-emissies glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0036075) worden ingetrokken, met dien verstande dat die titel, dat besluit en die regeling van toepassing blijven voor zover de emissie van kooldioxide heeft plaatsgevonden voorafgaand aan de inwerkingtreding van dit artikel en met dien verstande dat Onze Minister wordt gelezen als Onze Minister van Klimaat en Groene Groei.
 
 ##### Artikel Xa
 
-Onze Minister van Financiën zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Klimaat en Energie, binnen twee jaar na inwerkingtreding van [artikel I, onderdeel E, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049141&artikel=I&z=2025-01-01&g=2025-01-01) en vervolgens telkens na een jaar, aan de Staten-Generaal een verslag over de effecten op de omvang van het regelbaar vermogen binnen het Nederlandse energiesysteem van [artikel 64, eerste lid, onderdeel a, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), zoals dat luidt met ingang van 1 januari 2025 en zoals dat luidt met ingang van 1 januari 2026, in vergelijking met dat artikel zoals dat luidde op 31 december 2024, waarbij tevens aandacht wordt besteed aan de impact op de glastuinbouw en aan de vraag of de geraamde budgettaire opbrengst van de genoemde wijzigingen overeenkomt met de gerealiseerde budgettaire opbrengst.
+Onze Minister van Financiën zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Klimaat en Energie, binnen twee jaar na inwerkingtreding van [artikel I, onderdeel E, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049141&artikel=I&z=2026-01-01&g=2026-01-01) en vervolgens telkens na een jaar, aan de Staten-Generaal een verslag over de effecten op de omvang van het regelbaar vermogen binnen het Nederlandse energiesysteem van [artikel 64, eerste lid, onderdeel a, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), zoals dat luidt met ingang van 1 januari 2025 en zoals dat luidt met ingang van 1 januari 2026, in vergelijking met dat artikel zoals dat luidde op 31 december 2024, waarbij tevens aandacht wordt besteed aan de impact op de glastuinbouw en aan de vraag of de geraamde budgettaire opbrengst van de genoemde wijzigingen overeenkomt met de gerealiseerde budgettaire opbrengst.
 
 ##### Artikel XI
 
-Deze wet treedt in werking met ingang van 1 januari 2024, met uitzondering van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0049141&artikel=X&z=2025-01-01&g=2025-01-01), dat in werking treedt met ingang van 1 januari 2025.
+Deze wet treedt in werking met ingang van 1 januari 2024, met uitzondering van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0049141&artikel=X&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van 1 januari 2025.
 
 ##### Artikel XII
 
