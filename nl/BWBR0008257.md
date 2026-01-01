@@ -4,7 +4,7 @@ identifier: "BWBR0008257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "1996-10-18"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008257"
 soort: "ministeriele-regeling"
@@ -40,11 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als keuringsinstelling in de zin van artikel 84, eerste lid, en 101, [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) wordt aangewezen de besloten vennootschap met beperkte aansprakelijkheid NMi B.V.
+Als keuringsinstelling in de zin van [artikel 4aud, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud) wordt aangewezen de besloten vennootschap met beperkte aansprakelijkheid NMi B.V.
 
 ##### Artikel 2
 
-De besloten vennootschap met beperkte aansprakelijkheid NMi B.V. is bevoegd de feitelijke werkzaamheden voortvloeiend uit de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008257&artikel=1&z=1996-10-18&g=1996-10-18) vervatte aanwijzing onder haar verantwoordelijkheid te doen uitvoeren door:
+De besloten vennootschap met beperkte aansprakelijkheid NMi B.V. is bevoegd de feitelijke werkzaamheden voortvloeiend uit de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008257&artikel=1&z=2026-01-01&g=2026-01-01) vervatte aanwijzing onder haar verantwoordelijkheid te doen uitvoeren door:
 
 - a. de besloten vennootschap met beperkte aansprakelijkheid NMi Certin B.V. voor zover deze werkzaamheden verband houden met keuringen en erkenningen;
 
