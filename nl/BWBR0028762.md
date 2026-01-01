@@ -4,7 +4,7 @@ identifier: "BWBR0028762"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028762"
 soort: "ministeriele-regeling-BES"
@@ -73,7 +73,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 ##### Artikel 7
 
-1. De schadeloosstelling, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=15), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 128 per uur.
+1. De schadeloosstelling, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=15), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 132 per uur.
 
 2. Indien de bemiddelaar of bijzondere bemiddelaar voor zijn optreden genoodzaakt is te reizen naar een ander eiland dan het eiland waar hij woont, worden de reiskosten vergoed. Tevens wordt in verband met de aan de reis bestede uren per enkele reis een vergoeding toegekend over één uur.
 
@@ -99,7 +99,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 ##### Artikel 10
 
-1. Indien één of meer vakverenigingen van werknemers uiterlijk binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=9&z=2025-01-01&g=2025-01-01), genoemde periode van veertien dagen hun wens tot deelname aan een referendum kenbaar maken, hoort de bemiddelaar zo spoedig mogelijk de werkgever en die vakvereniging of vakverenigingen van werknemers teneinde te bepalen welke categorie of categorieën van werknemers voor deelname aan het referendum in aanmerking komen.
+1. Indien één of meer vakverenigingen van werknemers uiterlijk binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01), genoemde periode van veertien dagen hun wens tot deelname aan een referendum kenbaar maken, hoort de bemiddelaar zo spoedig mogelijk de werkgever en die vakvereniging of vakverenigingen van werknemers teneinde te bepalen welke categorie of categorieën van werknemers voor deelname aan het referendum in aanmerking komen.
 
 2. De werkgever is op verzoek verplicht de bemiddelaar uiterlijk binnen achtenveertig uren in drievoud een lijst over te leggen die de namen, de voornamen, de datum, het jaar en de plaats van geboorte, alsmede de functie van de desbetreffende werknemers in zijn bedrijf bevat.
 
@@ -109,7 +109,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 ##### Artikel 11
 
-1. Indien één of meer rechtspersoonlijkheid bezittende vakverenigingen van werknemers naar zijn oordeel aan [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=10&z=2025-01-01&g=2025-01-01), hebben voldaan, deelt de bemiddelaar binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na afloop van de in artikel 10, vierde lid, genoemde periode aan de betrokken werkgever en die vakverenigingen van werknemers schriftelijk mede:
+1. Indien één of meer rechtspersoonlijkheid bezittende vakverenigingen van werknemers naar zijn oordeel aan [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), hebben voldaan, deelt de bemiddelaar binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na afloop van de in artikel 10, vierde lid, genoemde periode aan de betrokken werkgever en die vakverenigingen van werknemers schriftelijk mede:
 
 - a. de dag en de plaats van het referendum, alsmede de voor de stemming bepaalde tijd;
 
@@ -125,7 +125,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 ##### Artikel 12
 
-Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=11&z=2025-01-01&g=2025-01-01), bedoelde mededeling zendt de bemiddelaar oproepingsbrieven aan de in artikel 11, eerste lid, onder c, bedoelde werknemers.
+Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde mededeling zendt de bemiddelaar oproepingsbrieven aan de in artikel 11, eerste lid, onder c, bedoelde werknemers.
 
 ##### Artikel 13
 
@@ -147,11 +147,11 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 15
 
-1. De werknemer die na waarschuwing de bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=14&z=2025-01-01&g=2025-01-01) vastgestelde voorschriften niet opvolgt, wordt niet tot de stembus toegelaten en is verplicht het stembiljet, zo hem dit reeds overhandigd is, terug te geven.
+1. De werknemer die na waarschuwing de bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01) vastgestelde voorschriften niet opvolgt, wordt niet tot de stembus toegelaten en is verplicht het stembiljet, zo hem dit reeds overhandigd is, terug te geven.
 
 2. De tot de stembus toegelaten werknemer, die weigert het stembiljet in de bus te steken, is verplicht dit terug te geven.
 
-3. Het vijfde lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=14&z=2025-01-01&g=2025-01-01) is van toepassing.
+3. Het vijfde lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01) is van toepassing.
 
 4. Weigert een werknemer het stembiljet terug te geven, dan doet de bemiddelaar daarvan aantekening houden.
 
@@ -159,7 +159,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 1. De bemiddelaar is belast met de handhaving van de orde in het stemlokaal.
 
-2. Vindt de bemiddelaar dat wanorde in het stemlokaal of zijn toegangen de behoorlijke voortgang der stemming onmogelijk maakt, dan wordt zulks door hem verklaard. De stemming wordt daarop aanstonds geschorst en tot de volgende dag voor dezelfde tijd als bedoeld in [artikel 11, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=11&z=2025-01-01&g=2025-01-01), verdaagd.
+2. Vindt de bemiddelaar dat wanorde in het stemlokaal of zijn toegangen de behoorlijke voortgang der stemming onmogelijk maakt, dan wordt zulks door hem verklaard. De stemming wordt daarop aanstonds geschorst en tot de volgende dag voor dezelfde tijd als bedoeld in [artikel 11, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01), verdaagd.
 
 3. De sleuf van de stembus wordt ter plaatse onmiddellijk gesloten, waarna de stembus wordt verzegeld.
 
@@ -181,7 +181,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 17
 
-1. Zodra de voor de stemming bepaalde tijd is verstreken, wordt dit door de bemiddelaar aangekondigd en worden alleen de op het ogenblik van deze aankondiging in of aan de deur van het stemlokaal aanwezige werknemers, die voldoen aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), nog tot de stemming toegelaten. Nadat de laatste van deze werknemers heeft gestemd, wordt de sleuf van de stembus gesloten.
+1. Zodra de voor de stemming bepaalde tijd is verstreken, wordt dit door de bemiddelaar aangekondigd en worden alleen de op het ogenblik van deze aankondiging in of aan de deur van het stemlokaal aanwezige werknemers, die voldoen aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), nog tot de stemming toegelaten. Nadat de laatste van deze werknemers heeft gestemd, wordt de sleuf van de stembus gesloten.
 
 2. Onmiddellijk nadat de stemming is geëindigd, stelt de bemiddelaar vast:
 
@@ -213,7 +213,7 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 ##### Artikel 19
 
-1. Onmiddellijk na de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=18&z=2025-01-01&g=2025-01-01) voorgeschreven verzegeling wordt de stembus geopend en worden de stembiljetten dooreen gemengd, geteld en hun aantal vergeleken met het getal van de werknemers, die aan de stemming hebben deelgenomen.
+1. Onmiddellijk na de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) voorgeschreven verzegeling wordt de stembus geopend en worden de stembiljetten dooreen gemengd, geteld en hun aantal vergeleken met het getal van de werknemers, die aan de stemming hebben deelgenomen.
 
 2. De bemiddelaar opent de stembiljetten en voegt deze naargelang de verschillende vakverenigingen van werknemers waarop de stemmen werden uitgebracht, bijeen.
 
