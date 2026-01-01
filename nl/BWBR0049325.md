@@ -4,7 +4,7 @@ identifier: "BWBR0049325"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-30"
-last_updated: "2025-07-11"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049325"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
-- **onderwijskansenscore:** overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=5&z=2025-07-11&g=2025-07-11) berekende score van een vestiging die een indicatie geeft van de zwaarte van de problematiek op die vestiging op basis van de aggregatie van de onderwijsscores van de leerlingen van de vestiging;
+- **onderwijskansenscore:** overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=5&z=2025-07-11&g=2026-01-01) berekende score van een vestiging die een indicatie geeft van de zwaarte van de problematiek op die vestiging op basis van de aggregatie van de onderwijsscores van de leerlingen van de vestiging;
 
 - **onderwijsscore:** cijfermatige indicatie van het verwachte risico op onbenut leerpotentieel van een individuele leerling, die op basis van statistische gegevens door het Centraal Bureau voor de Statistiek wordt bepaald;
 
@@ -74,7 +74,7 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 1. De verstrekking van aanvullende bekostiging op grond van deze regeling vindt telkens plaats voor één kalenderjaar.
 
-2. De aanvullende bekostiging wordt berekend overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=5&z=2025-07-11&g=2025-07-11), waarbij gebruik wordt gemaakt van het aantal op de teldatum bekostigde leerlingen per vestiging. Voor de toepassing van deze regeling tellen de leerlingen als bedoeld in [artikel 6.10, tweede en derde lid van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.10) voor 100% mee.
+2. De aanvullende bekostiging wordt berekend overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=5&z=2025-07-11&g=2026-01-01), waarbij gebruik wordt gemaakt van het aantal op de teldatum bekostigde leerlingen per vestiging. Voor de toepassing van deze regeling tellen de leerlingen als bedoeld in [artikel 6.10, tweede en derde lid van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.10) voor 100% mee.
 
 3. De aanvullende bekostiging wordt uiterlijk vastgesteld in de maand april in het jaar waarop de bekostiging betrekking heeft.
 
@@ -122,13 +122,13 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 5. De onderwijskansenscore, bedoeld in het tweede lid, wordt rekenkundig afgerond op twee decimalen. Indien de onderwijskansenscore negatief is, wordt deze gelijkgesteld aan nul.
 
-6. De lijst met onderwijskansenscores wordt jaarlijks uiterlijk op 7 februari in de Staatscourant bekendgemaakt als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2025-07-11) bij deze regeling.
+6. De lijst met onderwijskansenscores wordt jaarlijks uiterlijk op 7 februari in de Staatscourant bekendgemaakt als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2026-01-01) bij deze regeling.
 
-7. Het bedrag per eenheid onderwijskansenscore wordt jaarlijks uiterlijk op 7 februari in de Staatscourant bekendgemaakt als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2025-07-11) bij deze regeling.
+7. Het bedrag per eenheid onderwijskansenscore wordt jaarlijks uiterlijk op 7 februari in de Staatscourant bekendgemaakt als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2026-01-01) bij deze regeling.
 
-8. De aanvullende bekostiging voor een vestiging voor vmbo, havo of vwo wordt bepaald door de voor deze vestiging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2025-07-11) opgenomen onderwijskansenscore te vermenigvuldigen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2025-07-11) opgenomen bedrag per eenheid onderwijskansenscore voor vmbo, havo of vwo.
+8. De aanvullende bekostiging voor een vestiging voor vmbo, havo of vwo wordt bepaald door de voor deze vestiging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2026-01-01) opgenomen onderwijskansenscore te vermenigvuldigen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2026-01-01) opgenomen bedrag per eenheid onderwijskansenscore voor vmbo, havo of vwo.
 
-9. De aanvullende bekostiging voor een vestiging voor praktijkonderwijs wordt bepaald door de voor deze vestiging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2025-07-11) opgenomen onderwijskansenscore te vermenigvuldigen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2025-07-11) opgenomen bedrag per eenheid onderwijskansenscore voor praktijkonderwijs.
+9. De aanvullende bekostiging voor een vestiging voor praktijkonderwijs wordt bepaald door de voor deze vestiging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=1&z=2025-07-11&g=2026-01-01) opgenomen onderwijskansenscore te vermenigvuldigen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&bijlage=2&z=2025-07-11&g=2026-01-01) opgenomen bedrag per eenheid onderwijskansenscore voor praktijkonderwijs.
 
 10. Voor de toepassing van deze regeling wordt een vestiging waar zowel praktijkonderwijs als een andere schoolsoort wordt aangeboden, aangemerkt als twee vestigingen, te weten een vestiging voor praktijkonderwijs en een vestiging voor vmbo, havo en vwo.
 
@@ -146,7 +146,7 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 3. Het bevoegd gezag van de school betrekt de inzet van de aanvullende bekostiging op grond van deze regeling bij het overleg met de gemeente over het ondersteunen van leerlingen die door omgevingsfactoren hun potentieel niet waar kunnen maken.
 
-4. Het bevoegd gezag verstrekt via XBRL aanvullende informatie over de activiteiten die met de aanvullende bekostiging zijn ondernomen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=3&z=2025-07-11&g=2025-07-11).
+4. Het bevoegd gezag verstrekt via XBRL aanvullende informatie over de activiteiten die met de aanvullende bekostiging zijn ondernomen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=3&z=2025-07-11&g=2026-01-01).
 
 ##### Artikel 8. Financiële verantwoording
 
@@ -166,7 +166,7 @@ De [Regeling leerplusarrangement vo](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 1. Deze regeling treedt in werking met ingang van 1 februari 2024 en werkt terug tot en met 1 januari 2024.
 
-2. In afwijking van het eerste lid treedt [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=9&z=2025-07-11&g=2025-07-11) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
+2. In afwijking van het eerste lid treedt [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=9&z=2025-07-11&g=2026-01-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
 
 ##### Artikel 12. Citeertitel
 
