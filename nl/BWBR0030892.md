@@ -4,7 +4,7 @@ identifier: "BWBR0030892"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030892"
 soort: "AMvB"
@@ -76,6 +76,8 @@ Hebben goedgevonden en verstaan:
 
 - –. **vestiging:** een vestiging als bedoeld in [artikel 1, onderdeel j, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=1), van een gastouderbureau of waar buitenschoolse opvang of dagopvang plaatsvindt;
 
+- –. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
+
 - –. **wet:** [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
 2. Een geregistreerd kindercentrum, een geregistreerd gastouderbureau of een geregistreerde voorziening voor gastouderopvang als bedoeld in [artikel 1.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.5) heeft de status «geregistreerd» in het landelijk register kinderopvang.
@@ -110,7 +112,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4. Beheer van het landelijk register kinderopvang en het register buitenlandse kinderopvang
 
-1. Ten behoeve van de verwerkingsverantwoordelijken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2024-01-01&g=2024-01-01), wijst Onze Minister een verwerker aan.
+1. Ten behoeve van de verwerkingsverantwoordelijken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2026-01-01&g=2026-01-01), wijst Onze Minister een verwerker aan.
 
 2. Bij de verwerker berust in ieder geval het beheer van het landelijk register kinderopvang en het register buitenlandse kinderopvang, waarbij zorg gedragen wordt voor een goede beschikbaarheid, betrouwbaarheid, werking en beveiliging van het landelijk register kinderopvang en het register buitenlandse kinderopvang.
 
@@ -166,7 +168,7 @@ Hebben goedgevonden en verstaan:
 
 1. In het landelijk register kinderopvang neemt het college onder het unieke registratienummer de volgende gegevens op:
 
-- a. de gegevens, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), en, zodra dat door de houder is aangeleverd, het KvK-vestigingsnummer;
+- a. de gegevens, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), en, zodra dat door de houder is aangeleverd, het KvK-vestigingsnummer;
 
 - b. per gastouderbureau: de geregistreerde voorzieningen voor gastouderopvang die gebruikmaken van de diensten van dat bureau, met het aan hen toegekende unieke registratienummer;
 
@@ -176,7 +178,7 @@ Hebben goedgevonden en verstaan:
 
 - e. de datum van de verwijdering van de inschrijving naar aanleiding van het besluit, bedoeld in de [artikelen 1.46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.46), en [1.47, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47);
 
-- f. de datum van de wijziging van gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01), vijfde lid;
+- f. de datum van de wijziging van gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01), vijfde lid;
 
 - g. in geval van verwijdering uit het landelijk register kinderopvang: vermelding van deze verwijdering, alsmede de datum van deze verwijdering;
 
@@ -200,9 +202,9 @@ Hebben goedgevonden en verstaan:
 
 1. Het college kan naar aanleiding van een verzoek als bedoeld in [artikel 1.47, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47) een onderzoek als bedoeld in [artikel 1.62, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) laten verrichten alvorens ter zake een besluit te nemen.
 
-2. Onder een wijziging van gegevens waarvan de houder onverwijld mededeling doet als bedoeld in [artikel 1.47, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47) wordt in ieder geval verstaan: een wijziging van gegevens als bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), de toekenning van een KvK-vestigingsnummer aan het kindercentrum of het gastouderbureau, de aansluiting of de beëindiging van de aansluiting van een voorziening voor gastouderopvang bij een gastouderbureau en de beëindiging van de exploitatie van de kinderopvangvoorziening.
+2. Onder een wijziging van gegevens waarvan de houder onverwijld mededeling doet als bedoeld in [artikel 1.47, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47) wordt in ieder geval verstaan: een wijziging van gegevens als bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), de toekenning van een KvK-vestigingsnummer aan het kindercentrum of het gastouderbureau, de aansluiting of de beëindiging van de aansluiting van een voorziening voor gastouderopvang bij een gastouderbureau en de beëindiging van de exploitatie van de kinderopvangvoorziening.
 
-3. Indien de houder van een kindercentrum of van een gastouderbureau wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van dat kindercentrum of gastouderbureau in het landelijk register kinderopvang aan te passen met ingang van die datum. Het college behandelt dit gezamenlijke verzoek tot aanpassing van de bestaande en toekomstige houder als een aanvraag tot exploitatie van de kinderopvangvoorziening door de toekomstige houder als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de kinderopvangvoorziening met de status geregistreerd en met ongewijzigd uniek registratienummer in het landelijk register kinderopvang ingeschreven staan. Na een negatieve beschikking wordt de kinderopvangvoorziening uit het landelijk register kinderopvang verwijderd met onmiddellijke ingang indien de nieuwe houder de voorziening al exploiteert of met ingang van de datum van wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
+3. Indien de houder van een kindercentrum of van een gastouderbureau wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van dat kindercentrum of gastouderbureau in het landelijk register kinderopvang aan te passen met ingang van die datum. Het college behandelt dit gezamenlijke verzoek tot aanpassing van de bestaande en toekomstige houder als een aanvraag tot exploitatie van de kinderopvangvoorziening door de toekomstige houder als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de kinderopvangvoorziening met de status geregistreerd en met ongewijzigd uniek registratienummer in het landelijk register kinderopvang ingeschreven staan. Na een negatieve beschikking wordt de kinderopvangvoorziening uit het landelijk register kinderopvang verwijderd met onmiddellijke ingang indien de nieuwe houder de voorziening al exploiteert of met ingang van de datum van wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
 
 4. Indien de houder van een geregistreerde kinderopvangvoorziening een kinderopvangvoorziening in exploitatie wil nemen op een ander adres of op het adres waar hij al een kinderopvangvoorziening exploiteert, dient hij hiertoe een aanvraag als bedoeld in [artikel 1.45, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.45) in. Het college bepaalt in dat geval waarop het onderzoek, bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) betrekking heeft. In afwijking van de eerste zin wordt geen nieuwe aanvraag tot exploitatie ingediend indien het adres van een gastouderbureau of ouderparticipatiecrèche wijzigt.
 
@@ -212,7 +214,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het college kan besluiten tot intrekking van een beschikking en verwijdering van een kinderopvangvoorziening uit het landelijk register kinderopvang als bedoeld in [artikel 1.46, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.46), indien:
 
-- a. is gebleken dat de houder niet langer de kinderopvangvoorziening exploiteert en er geen verzoek tot wijziging als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01), is ingediend;
+- a. is gebleken dat de houder niet langer de kinderopvangvoorziening exploiteert en er geen verzoek tot wijziging als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01), is ingediend;
 
 - b. uit een onderzoek als bedoeld in [artikel 1.62, tweede tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of anderszins is gebleken dat de houder in strijd handelt met het bepaalde bij of krachtens [hoofdstuk I, afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3).
 
@@ -232,15 +234,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 9. Verstrekking gegevens uit het landelijk register kinderopvang
 
-1. De gegevens, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01), die in het landelijk register kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd, met uitzondering van:
+1. De gegevens, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), die in het landelijk register kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd, met uitzondering van:
 
-- a. burgerservicenummers, het telefoonnummer en het woonadres van gastouders, voor zover op dat adres geen voorziening voor gastouderopvang gevestigd is;
+- a. het adres van de voorziening voor gastouderopvang, voor zover dat het woonadres van de vraagouder betreft;
 
-- b. het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijke persoon is en voor zover het kindercentrum of het gastouderbureau niet op dat adres gevestigd is;
+- b. burgerservicenummers, het telefoonnummer en het woonadres van gastouders, voor zover op dat adres geen voorziening voor gastouderopvang gevestigd is;
 
-- c. indien het om een ouderparticipatiecrèche gaat, gedurende de aanloopperiode van 1 jaar en 3 maanden, bedoeld in [artikel 1.60b, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.60b), het unieke registratienummer van de ouderparticipatiecrèche.
+- c. het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijke persoon is en voor zover het kindercentrum of het gastouderbureau niet op dat adres gevestigd is;
 
-2. Na verwijdering van een kinderopvangvoorziening kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01), uitsluitend worden geraadpleegd: de naam en het adres van de vestiging en het unieke registratienummer van de kinderopvangvoorziening, de status «niet meer geregistreerd» en de datum van ingang van deze status alsmede de daaraan voorafgaande datum van inschrijving.
+- d. indien het om een ouderparticipatiecrèche gaat, gedurende de aanloopperiode van 1 jaar en 3 maanden, bedoeld in [artikel 1.60b, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.60b), het unieke registratienummer van de ouderparticipatiecrèche.
+
+2. Na verwijdering van een kinderopvangvoorziening kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), uitsluitend worden geraadpleegd: de naam en het adres van de vestiging en het unieke registratienummer van de kinderopvangvoorziening, de status «niet meer geregistreerd» en de datum van ingang van deze status alsmede de daaraan voorafgaande datum van inschrijving.
 
 3. De gegevens die verwerkt worden in het landelijk register kinderopvang worden verstrekt aan de Dienst Toeslagen, voor zover de kennisneming daarvan noodzakelijk is voor de uitvoering van de Algemene wet inkomensafhankelijke regelingen en aan de rijksbelastingdienst voor de heffing of invordering van enige rijksbelasting.
 
@@ -284,7 +288,7 @@ De volgende gegevens of categorieën van gegevens worden in het personenregister
 
 - b. van een houder van een kindercentrum of van een gastouderbureau:
 
-- 1°. de gegevens, bedoeld in [artikel 6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01); en
+- 1°. de gegevens, bedoeld in [artikel 6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01); en
 
 - 2°. de gegevens van de ingeschrevene, bedoeld in onderdeel a, met wie een koppeling is gemaakt.
 
@@ -336,7 +340,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a. Opname gegevens handhavingsbesluiten in het landelijk register kinderopvang
 
-De gegevens, bedoeld in [artikel 6, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01), kunnen door een ieder worden geraadpleegd gedurende een periode van drie jaar na de datum van vermelding in het landelijk register kinderopvang.
+De gegevens, bedoeld in [artikel 6, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), kunnen door een ieder worden geraadpleegd gedurende een periode van drie jaar na de datum van vermelding in het landelijk register kinderopvang.
 
 ##### Artikel 9b. Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
 
@@ -386,13 +390,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. In het register buitenlandse kinderopvang neemt Onze Minister onder het unieke registratienummer de volgende gegevens op:
 
-- a. de gegevens, bedoeld in [artikel 10a, eerste lid, onderdelen d](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10a&z=2024-01-01&g=2024-01-01), met uitzondering van het telefoonnummer en g;
+- a. de gegevens, bedoeld in [artikel 10a, eerste lid, onderdelen d](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10a&z=2026-01-01&g=2026-01-01), met uitzondering van het telefoonnummer en g;
 
 - b. de ingangs- en einddatum van de inschrijving, bedoeld in [artikel 1.48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48);
 
 - c. de datum van wijziging van gegevens, bedoeld in de [artikelen 1.48, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), en [1.48a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a);
 
-- d. de datum van de verwijdering van de inschrijving als bedoeld in de [artikelen 1.48, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) en [10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2024-01-01&g=2024-01-01);
+- d. de datum van de verwijdering van de inschrijving als bedoeld in de [artikelen 1.48, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) en [10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2026-01-01&g=2026-01-01);
 
 - e. de status van de inschrijving.
 
@@ -400,7 +404,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10c. Wijziging verstrekte gegevens
 
-1. Onder een wijziging van gegevens waarvan de ouder onverwijld mededeling doet als bedoeld in artikel 1.48, zevende lid, van de wet wordt verstaan: een wijziging van gegevens als bedoeld in [artikel 10b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10b&z=2024-01-01&g=2024-01-01).
+1. Onder een wijziging van gegevens waarvan de ouder onverwijld mededeling doet als bedoeld in artikel 1.48, zevende lid, van de wet wordt verstaan: een wijziging van gegevens als bedoeld in [artikel 10b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10b&z=2026-01-01&g=2026-01-01).
 
 2. Een verzoek als bedoeld in [artikel 1.48, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) wordt ingediend met gebruikmaking van het formulier dat bij regeling van Onze Minister is vastgesteld.
 
@@ -428,15 +432,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De einddatum van de inschrijving in het register buitenlandse kinderopvang, bedoeld in [artikel 1.48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), wordt bepaald op vier jaar na de ingangsdatum van de inschrijving daarin, bedoeld in datzelfde artikel.
 
-3. Indien met een bewijsstuk als bedoeld in artikel [10a, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10a&z=2024-01-01&g=2024-01-01), slechts aannemelijk wordt gemaakt dat de voorziening, bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), voor een kortere periode dan vier jaar voldoet aan artikel 1.48, vijfde lid, onderdeel a, van de wet, wordt de einddatum, in afwijking van het tweede lid, bepaald op de laatste dag van die periode.
+3. Indien met een bewijsstuk als bedoeld in artikel [10a, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10a&z=2026-01-01&g=2026-01-01), slechts aannemelijk wordt gemaakt dat de voorziening, bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), voor een kortere periode dan vier jaar voldoet aan artikel 1.48, vijfde lid, onderdeel a, van de wet, wordt de einddatum, in afwijking van het tweede lid, bepaald op de laatste dag van die periode.
 
-4. Indien sprake is van verwijdering als bedoeld in [artikel 10d](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2024-01-01&g=2024-01-01), wordt, in afwijking van het tweede lid, de datum waarop deze verwijdering ingaat als einddatum bepaald.
+4. Indien sprake is van verwijdering als bedoeld in [artikel 10d](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2026-01-01&g=2026-01-01), wordt, in afwijking van het tweede lid, de datum waarop deze verwijdering ingaat als einddatum bepaald.
 
 ##### Artikel 10f. Verstrekking gegevens uit het register buitenlandse kinderopvang
 
-1. De gegevens, genoemd in [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10b&z=2024-01-01&g=2024-01-01), die in het register buitenlandse kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd.
+1. De gegevens, genoemd in [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10b&z=2026-01-01&g=2026-01-01), die in het register buitenlandse kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd.
 
-2. Na verwijdering van een voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) uit het register buitenlandse kinderopvang kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 10d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2024-01-01&g=2024-01-01), uitsluitend worden geraadpleegd: de naam- en adresgegevens en het land van vestiging van de voorziening, het unieke registratienummer, de ingangsdatum van de inschrijving als bedoeld in artikel 1.48, zesde lid, van de wet, de status «niet meer geregistreerd» en de datum van ingang van deze status.
+2. Na verwijdering van een voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) uit het register buitenlandse kinderopvang kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 10d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2a&artikel=10d&z=2026-01-01&g=2026-01-01), uitsluitend worden geraadpleegd: de naam- en adresgegevens en het land van vestiging van de voorziening, het unieke registratienummer, de ingangsdatum van de inschrijving als bedoeld in artikel 1.48, zesde lid, van de wet, de status «niet meer geregistreerd» en de datum van ingang van deze status.
 
 3. De gegevens die verwerkt worden in het register buitenlandse kinderopvang worden verstrekt aan de Dienst Toeslagen, voor zover de kennisneming daarvan noodzakelijk is voor de uitvoering van de Algemene wet inkomensafhankelijke regelingen en aan de rijksbelastingdienst voor de heffing of invordering van enige rijksbelasting.
 
@@ -466,7 +470,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a. Beheer van het personenregister kinderopvang
 
-1. De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor het verwerken van gegevens in het personenregister kinderopvang, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2024-01-01&g=2024-01-01).
+1. De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor het verwerken van gegevens in het personenregister kinderopvang, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2026-01-01&g=2026-01-01).
 
 2. Bij de bewerker berust in ieder geval het beheer van het personenregister kinderopvang, waarbij wordt zorg gedragen voor een goede beschikbaarheid, betrouwbaarheid, werking en beveiliging van het personenregister kinderopvang.
 
@@ -490,6 +494,6 @@ De gegevens uit het personenregister kinderopvang worden uitgewisseld met Onze M
 
 ##### Artikel 18a. Overgangsbepaling met betrekking tot de overgang van continue screening fase 1 naar het personenregister kinderopvang
 
-De [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=9a&z=2024-01-01&g=2024-01-01) en 9b zoals die luidden op 28 februari 2018 blijven ten aanzien van de personen die op die datum continu gescreend worden gedurende de periode van 1 maart 2018 tot 1 juli 2018 van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang.
+De [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=9a&z=2026-01-01&g=2026-01-01) en 9b zoals die luidden op 28 februari 2018 blijven ten aanzien van de personen die op die datum continu gescreend worden gedurende de periode van 1 maart 2018 tot 1 juli 2018 van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
