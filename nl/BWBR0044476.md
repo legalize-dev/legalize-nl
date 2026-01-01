@@ -4,7 +4,7 @@ identifier: "BWBR0044476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-10-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044476"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Woonlandfactor
 
-1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2025-10-01&g=2025-10-01) bij deze regeling opgenomen factor.
+1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen factor.
 
-2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2025-10-01&g=2025-10-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
+2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
 ##### Artikel 2. Model beslagvrije voet
 
-Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2025-10-01&g=2025-10-01) bij deze regeling.
+Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Bureau Informatiediensten Nederland en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
-2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2025-10-01&g=2025-10-01) van deze regeling.
+2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2026-01-01&g=2026-01-01) van deze regeling.
 
 3. Onze Minister verwijdert de berekening en de daaraan ten grondslag liggende gegevens terstond na het verstrekken daarvan.
 
@@ -564,7 +564,7 @@ Deze regeling wordt aangehaald als: Regeling beslagvrije voet.
 
 (bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling beslagvrije voet)
 
-(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2025-10-01&g=2025-10-01) van de Regeling beslagvrije voet)
+(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2026-01-01&g=2026-01-01) van de Regeling beslagvrije voet)
 
 <**Uitleg over de beslagvrije voet***>
 
@@ -636,226 +636,227 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 ##### Artikel 4a. Overgangsrecht
 
-Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2025-10-01&g=2025-10-01), zoals die luidde op 30 juni 2021.
+Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-01-01&g=2026-01-01), zoals die luidde op 30 juni 2021.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2025-10-01&g=2025-10-01) van de Regeling beslagvrije voet
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2026-01-01&g=2026-01-01) van de Regeling beslagvrije voet
 
-| Land | Woonlandfactor 2025 |
+| Land | Woonlandfactor 2026 |
 | --- | --- |
-| Afghanistan | 0,6 |
+| Afghanistan | 0,3 |
 | Albanië | 0,5 |
-| Algerije | 0,5 |
-| Amerikaans-Samoa | 0,7 |
-| Andorra | 0,9 |
-| Angola | 0,6 |
-| Antigua en Barbuda | 1,0 |
-| Argentinië | 0,7 |
+| Algerije | 0,4 |
+| Amerikaans-Samoa | 1 |
+| Andorra | 0,8 |
+| Angola | 0,4 |
+| Antigua en Barbuda | 0,9 |
+| Argentinië | 0,6 |
 | Armenië | 0,5 |
-| Aruba | 0,9 |
-| Australië | 1,0 |
-| Azerbeidzjan | 0,6 |
-| Bahama's | 1,0 |
-| Bahrein | 0,7 |
-| Bangladesh | 0,5 |
-| Barbados | 1,0 |
-| Belarus | 0,5 |
-| België | 1,0 |
-| Belize | 0,9 |
+| Aruba | 1 |
+| Australië | 1 |
+| Azerbeidzjan | 0,4 |
+| Bahama’s | 1 |
+| Bahrein | 0,6 |
+| Bangladesh | 0,4 |
+| Barbados | 1 |
+| Belarus | 0,4 |
+| België | 1 |
+| Belize | 0,7 |
 | Benin | 0,5 |
-| Bermuda | 1,0 |
-| Bhutan | 0,6 |
+| Bermuda | 1 |
+| Bhutan | 0,5 |
 | Bolivia | 0,5 |
-| Bonaire | 0,8 |
-| Bondsrepubliek Duitsland | 1,0 |
+| Bonaire | 0,7 |
+| Bondsrepubliek Duitsland | 1 |
 | Bosnië-Herzegovina | 0,5 |
-| Botswana | 0,6 |
-| Brazilië | 0,7 |
-| Britse Maagdeneilanden | 1,0 |
-| Brunei | 0,8 |
+| Botswana | 0,5 |
+| Brazilië | 0,6 |
+| Britse Maagdeneilanden | 0,8 |
+| Brunei | 0,5 |
 | Bulgarije | 0,6 |
-| Burkina Faso | 0,5 |
-| Burundi | 0,5 |
-| Cambodja | 0,5 |
-| Canada | 1,0 |
-| Caymaneilanden | 1,0 |
-| Centraal-Afrikaanse Republiek | 0,6 |
+| Burkina Faso | 0,4 |
+| Burundi | 0,3 |
+| Cambodja | 0,4 |
+| Canada | 1 |
+| Caymaneilanden | 1 |
+| Centraal-Afrikaanse Republiek | 0,5 |
 | Chili | 0,7 |
-| China | 0,8 |
+| China | 0,7 |
 | Colombia | 0,5 |
-| Comoren | 0,6 |
-| Congo | 0,8 |
-| Costa Rica | 0,7 |
+| Comoren | 0,5 |
+| Congo | 0,5 |
+| Costa Rica | 0,8 |
 | Cuba | 0,7 |
-| Curaçao | 1,0 |
+| Curaçao | 0,9 |
 | Cyprus | 0,8 |
-| Democratische Republiek Congo | 0,7 |
-| Denemarken | 1,0 |
+| Democratische Republiek Congo | 0,5 |
+| Denemarken | 1 |
 | Djibouti | 0,7 |
-| Dominica | 0,9 |
+| Dominica | 0,7 |
 | Dominicaanse Republiek | 0,6 |
-| Ecuador | 0,7 |
-| Egypte | 0,4 |
-| El Salvador | 0,7 |
-| Equatoriaal-Guinea | 0,6 |
-| Eritrea | 0,6 |
+| Ecuador | 0,5 |
+| Egypte | 0,3 |
+| El Salvador | 0,6 |
+| Equatoriaal-Guinea | 0,5 |
+| Eritrea | 0,5 |
 | Estland | 0,8 |
-| Eswatini | 0,5 |
-| Ethiopië | 0,5 |
-| Faeröer | 1,0 |
+| Eswatini | 0,4 |
+| Ethiopië | 0,6 |
+| Faeröer | 1 |
 | Fiji | 0,5 |
 | Filipijnen | 0,5 |
-| Finland | 1,0 |
-| Frankrijk | 1,0 |
+| Finland | 1 |
+| Frankrijk | 1 |
 | Frans-Polynesië | 0,7 |
-| Gabon | 0,8 |
-| Gambia | 0,5 |
-| Gazastrook en Westelijke Jordaanoever | 0,8 |
-| Georgië | 0,5 |
-| Ghana | 0,5 |
+| Gabon | 0,5 |
+| Gambia | 0,4 |
+| Gazastrook en Westelijke Jordaanoever, met inbegrip van Oost-Jeruzalem | 0,7 |
+| Georgië | 0,4 |
+| Ghana | 0,4 |
 | Grenada | 0,8 |
-| Griekenland | 0,8 |
-| Groenland | 1,0 |
-| Guatemala | 0,7 |
-| Guinee | 0,7 |
+| Griekenland | 0,7 |
+| Groenland | 1 |
+| Guatemala | 0,6 |
+| Guinee | 0,5 |
 | Guinee-Bissau | 0,5 |
-| Guyana | 0,6 |
+| Guyana | 0,5 |
 | Haïti | 0,7 |
 | Honduras | 0,6 |
 | Hongarije | 0,6 |
-| Hongkong | 1,0 |
-| Ierland | 1,0 |
-| IJsland | 1,0 |
-| India | 0,4 |
-| Indonesië | 0,5 |
-| Irak | 0,8 |
+| Hongkong | 0,9 |
+| Ierland | 1 |
+| IJsland | 1 |
+| India | 0,3 |
+| Indonesië | 0,4 |
+| Irak | 0,5 |
 | Iran | 0,4 |
-| Israël | 1,0 |
+| Israël | 1 |
 | Italië | 0,9 |
 | Ivoorkust | 0,5 |
-| Jamaica | 0,7 |
-| Japan | 1,0 |
-| Jemen | 0,6 |
+| Jamaica | 0,8 |
+| Japan | 0,9 |
+| Jemen | 0,5 |
 | Jordanië | 0,6 |
 | Kaapverdië | 0,6 |
-| Kameroen | 0,5 |
+| Kameroen | 0,4 |
+| Kanaaleilanden | 1 |
 | Kazachstan | 0,5 |
-| Kenya | 0,5 |
+| Kenya | 0,4 |
 | Kirgizië | 0,4 |
-| Kiribati | 1,0 |
-| Koeweit | 1,0 |
+| Kiribati | 0,8 |
+| Koeweit | 0,8 |
 | Kosovo | 0,5 |
 | Kroatië | 0,6 |
 | Laos | 0,3 |
-| Lesotho | 0,5 |
+| Lesotho | 0,4 |
 | Letland | 0,7 |
 | Libanon | 0,6 |
 | Liberia | 0,6 |
-| Libië | 0,4 |
-| Liechtenstein | 1,0 |
+| Libië | 0,6 |
+| Liechtenstein | 1 |
 | Litouwen | 0,7 |
-| Luxemburg | 1,0 |
+| Luxemburg | 1 |
 | Macau | 0,8 |
 | Madagaskar | 0,4 |
-| Malawi | 0,5 |
+| Malawi | 0,4 |
 | Maldiven | 0,7 |
-| Maleisië | 0,5 |
-| Mali | 0,5 |
+| Maleisië | 0,4 |
+| Mali | 0,4 |
 | Malta | 0,8 |
 | Marokko | 0,5 |
-| Marshalleilanden | 1,0 |
-| Mauritanië | 0,5 |
+| Marshalleilanden | 1 |
+| Mauritanië | 0,4 |
 | Mauritius | 0,5 |
 | Mexico | 0,7 |
-| Micronesia | 1,0 |
+| Micronesia | 1 |
 | Moldavië | 0,5 |
-| Monaco | 1,0 |
-| Mongolië | 0,5 |
+| Monaco | 1 |
+| Mongolië | 0,4 |
 | Montenegro | 0,5 |
 | Mozambique | 0,5 |
 | Myanmar | 0,3 |
-| Namibië | 0,6 |
-| Nauru | 1,0 |
-| Nederland | 1,0 |
+| Namibië | 0,5 |
+| Nauru | 1 |
+| Nederland | 1 |
 | Nepal | 0,4 |
-| Nicaragua | 0,5 |
-| Nieuw-Caledonië | 0,9 |
-| Nieuw-Zeeland | 1,0 |
-| Niger | 0,6 |
-| Nigeria | 0,5 |
-| Noord-Korea | 0,6 |
-| Noorwegen | 1,0 |
-| Oekraïne | 0,5 |
+| Nicaragua | 0,4 |
+| Nieuw-Caledonië | 0,8 |
+| Nieuw-Zeeland | 1 |
+| Niger | 0,5 |
+| Nigeria | 0,4 |
+| Noord-Korea | 0,5 |
+| Noorwegen | 1 |
+| Oekraïne | 0,4 |
 | Oezbekistan | 0,4 |
-| Oman | 0,8 |
-| Oostenrijk | 1,0 |
-| Pakistan | 0,4 |
-| Palau | 0,7 |
+| Oman | 0,7 |
+| Oostenrijk | 1 |
+| Pakistan | 0,3 |
+| Palau | 1 |
 | Panama | 0,6 |
-| Papoea-Nieuw-Guinea | 1,0 |
-| Paraguay | 0,6 |
-| Peru | 0,7 |
+| Papoea-Nieuw-Guinea | 0,8 |
+| Paraguay | 0,5 |
+| Peru | 0,6 |
 | Polen | 0,6 |
 | Portugal | 0,8 |
-| Puerto Rico | 1,0 |
-| Qatar | 1,0 |
+| Puerto Rico | 1 |
+| Qatar | 0,8 |
 | Republiek Noord-Macedonië | 0,5 |
 | Roemenië | 0,5 |
-| Rusland | 0,6 |
-| Rwanda | 0,5 |
-| Saba | 0,8 |
-| Saint Kitts en Nevis | 0,8 |
-| Saint Lucia | 1,0 |
+| Rusland | 0,4 |
+| Rwanda | 0,4 |
+| Saba | 0,7 |
+| Saint Kitts en Nevis | 0,9 |
+| Saint Lucia | 0,7 |
 | Saint Vincent en de Grenadines | 0,7 |
-| Salomonseilanden | 1,0 |
-| Samoa | 0,9 |
-| San Marino | 1,0 |
-| São Tomé en Principe | 0,8 |
+| Salomonseilanden | 0,9 |
+| Samoa | 0,8 |
+| San Marino | 1 |
+| São Tomé en Principe | 0,6 |
 | Saoedi-Arabië | 0,7 |
 | Senegal | 0,5 |
-| Servië | 0,5 |
-| Seychellen | 0,6 |
-| Sierra Leone | 0,4 |
-| Singapore | 0,9 |
-| Sint Eustatius | 0,9 |
-| Sint Maarten | 1,0 |
+| Servië | 0,6 |
+| Seychellen | 0,7 |
+| Sierra Leone | 0,3 |
+| Singapore | 0,8 |
+| Sint Eustatius | 0,7 |
+| Sint Maarten | 1 |
 | Slovenië | 0,8 |
 | Slowakije | 0,7 |
-| Soedan | 0,4 |
+| Soedan | 1 |
 | Somalië | 0,5 |
 | Spanje | 0,8 |
 | Sri Lanka | 0,4 |
-| Suriname | 0,5 |
-| Syrië | 0,6 |
+| Suriname | 0,4 |
+| Syrië | 0,5 |
 | Tadzjikistan | 0,3 |
-| Taiwan | 0,9 |
-| Tanzania | 0,6 |
-| Thailand | 0,5 |
-| Timor Leste | 0,7 |
-| Togo | 0,5 |
+| Taiwan | 0,8 |
+| Tanzania | 0,4 |
+| Thailand | 0,4 |
+| Timor Leste | 0,4 |
+| Togo | 0,4 |
 | Tonga | 0,6 |
-| Trinidad en Tobago | 1,0 |
-| Tsjaad | 0,6 |
-| Tsjechië | 0,7 |
+| Trinidad en Tobago | 0,7 |
+| Tsjaad | 0,5 |
+| Tsjechië | 0,8 |
 | Tunesië | 0,4 |
 | Turkije | 0,4 |
-| Turkmenistan | 0,7 |
-| Turks- en Caicoseilanden | 1,0 |
-| Tuvalu | 1,0 |
-| Uganda | 0,5 |
-| Uruguay | 1,0 |
-| Vanuatu | 1,0 |
+| Turkmenistan | 0,6 |
+| Turks- en Caicoseilanden | 1 |
+| Tuvalu | 1 |
+| Uganda | 0,4 |
+| Uruguay | 0,9 |
+| Vanuatu | 1 |
 | Venezuela | 0,6 |
-| Verenigd Koninkrijk | 1,0 |
+| Verenigd Koninkrijk | 1 |
 | Verenigde Arabische Emiraten | 0,8 |
-| Verenigde Staten van Amerika | 1,0 |
-| Vietnam | 0,5 |
-| Zambia | 0,5 |
-| Zimbabwe | 0,9 |
-| Zuid-Afrika | 0,6 |
-| Zuid-Korea | 0,9 |
-| Zuid-Soedan | 0,6 |
-| Zweden | 1,0 |
-| Zwitserland | 1,0 |
+| Verenigde Staten van Amerika | 1 |
+| Vietnam | 0,4 |
+| Zambia | 0,4 |
+| Zimbabwe | 0,7 |
+| Zuid-Afrika | 0,5 |
+| Zuid-Korea | 0,8 |
+| Zuid-Soedan | 0,5 |
+| Zweden | 1 |
+| Zwitserland | 1 |
 
 ### Overzicht van uw beslagvrije voet
 
@@ -929,4 +930,4 @@ Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van
 
 ### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2025-10-01&g=2025-10-01) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) in de Staatscourant worden geplaatst.
