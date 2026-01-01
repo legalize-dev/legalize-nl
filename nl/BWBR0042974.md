@@ -4,7 +4,7 @@ identifier: "BWBR0042974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042974"
 soort: "ministeriele-regeling"
@@ -50,8 +50,6 @@ In deze regeling wordt verstaan onder:
 
 - **jaaromzet:** jaaromzet zoals die valt af te leiden uit de meest recente door een accountant gecontroleerde jaarrekening van de aanvragende organisatie, dan wel uit de meest recente concept jaarrekening indien het jaar is afgerond en nog geen accountantsverklaring is afgegeven;
 
-- **Jeugdautoriteit:** Jeugdautoriteit als ingesteld bij het [Instellingsbesluit Jeugdautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0044078);
-
 - **jeugdhulp:** jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
 - **jeugdreclassering:** jeugdreclassering als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
@@ -60,7 +58,9 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- **organisatie:** aanbieder van jeugdhulp of een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+- **organisatie:** aanbieder van jeugdhulp of een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+
+- **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
 ##### Artikel 2
 
@@ -72,7 +72,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 - a. sprake is van een aantoonbaar liquiditeitsprobleem; en
 
-- b. de subsidie binnen een in het besluit tot subsidieverlening te bepalen termijn, maar uiterlijk binnen twee jaar na het besluit tot subsidieverlening wordt terugbetaald, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01), en het continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01), door de desbetreffende organisatie of door een andere rechtspersoon.
+- b. de subsidie binnen een in het besluit tot subsidieverlening te bepalen termijn, maar uiterlijk binnen twee jaar na het besluit tot subsidieverlening wordt terugbetaald, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), en het continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), door de desbetreffende organisatie of door een andere rechtspersoon.
 
 2. Onder cruciale jeugdzorg als bedoeld in het eerste lid wordt verstaan:
 
@@ -98,9 +98,9 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 5. Subsidie wordt uitsluitend verstrekt indien:
 
-- a. getracht is het liquiditeitsprobleem op te lossen in samenwerking met de betrokken gemeenten en vervolgens met bemiddeling van de Jeugdautoriteit en het liquiditeitsprobleem desondanks niet is verholpen;
+- a. getracht is het liquiditeitsprobleem op te lossen in samenwerking met de betrokken gemeenten en vervolgens met bemiddeling van de zorgautoriteit en het liquiditeitsprobleem desondanks niet is verholpen;
 
-- b. de organisatie voldoende aannemelijk maakt dat en hoe zij met de subsidie op grond van deze regeling in staat is de continuïteit van de cruciale jeugdzorg te borgen, op basis van het continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01); en
+- b. de organisatie voldoende aannemelijk maakt dat en hoe zij met de subsidie op grond van deze regeling in staat is de continuïteit van de cruciale jeugdzorg te borgen, op basis van het continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01); en
 
 - c. de organisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het vierde lid.
 
@@ -116,7 +116,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 5. Het subsidieplafond bedraagt voor het jaar 2025 € 20.000.000.
 
-6. Het subsidieplafond bedraagt voor het jaar 2026 € 20.000.000.
+6. Het subsidieplafond bedraagt voor het jaar 2026 € 14.600.000.
 
 7. Het subsidieplafond bedraagt voor het jaar 2027 € 20.000.000.
 
@@ -130,11 +130,11 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 1. Een subsidie wordt voor ten hoogste twee jaar verstrekt.
 
-2. De subsidie wordt berekend op basis van de liquiditeitsbehoefte, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2025-01-01&g=2025-01-01), en de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01).
+2. De subsidie wordt berekend op basis van de liquiditeitsbehoefte, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2026-01-01&g=2026-01-01), en de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01).
 
 3. De subsidie bedraagt ten hoogste 15% van dat deel van de jaaromzet van de organisatie dat jeugdhulp of de uitvoering van kinderbeschermingsmaatregelen of jeugdreclassering betreft, waaronder de vorm van cruciale jeugdzorg ten behoeve waarvan subsidie wordt aangevraagd.
 
-4. De subsidie wordt terugbetaald binnen een in het besluit tot subsidieverlening te bepalen termijn, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01), maar uiterlijk binnen twee jaar na het besluit tot subsidieverlening, door de subsidieontvanger of door een andere rechtspersoon. De subsidie wordt na de volledige terugbetaling van het desbetreffende bedrag ambtshalve op nihil vastgesteld.
+4. De subsidie wordt terugbetaald binnen een in het besluit tot subsidieverlening te bepalen termijn, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), maar uiterlijk binnen twee jaar na het besluit tot subsidieverlening, door de subsidieontvanger of door een andere rechtspersoon. De subsidie wordt na de volledige terugbetaling van het desbetreffende bedrag ambtshalve op nihil vastgesteld.
 
 ##### Artikel 6
 
@@ -160,13 +160,13 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 - h. een overzicht van het aantal jeugdigen per zorgvorm in het huidige en voorgaande kalenderjaar; en
 
-- i. een getekende uitvoeringsovereenkomst als bedoeld in [artikel 3, vijfde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2025-01-01&g=2025-01-01).
+- i. een getekende uitvoeringsovereenkomst als bedoeld in [artikel 3, vijfde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2026-01-01&g=2026-01-01).
 
 4. De aanvraag gaat daarnaast vergezeld van een continuïteitsplan van de aanvrager, opgesteld in overleg met de betrokken gemeenten, waaruit blijkt:
 
-- a. dat sprake is van cruciale jeugdzorg als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2025-01-01&g=2025-01-01), en een mogelijke discontinuïteit daarvan;
+- a. dat sprake is van cruciale jeugdzorg als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2026-01-01&g=2026-01-01), en een mogelijke discontinuïteit daarvan;
 
-- b. dat sprake is van een aantoonbaar liquiditeitsprobleem als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2025-01-01&g=2025-01-01);
+- b. dat sprake is van een aantoonbaar liquiditeitsprobleem als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=3&z=2026-01-01&g=2026-01-01);
 
 - c. wat de organisatie en de betrokken gemeenten tot nu toe reeds hebben ondernomen om discontinuïteit te voorkomen;
 
@@ -182,11 +182,11 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 7
 
-De minister kan bij het besluit tot subsidieverlening ambtshalve voorschotten verlenen, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01).
+De minister kan bij het besluit tot subsidieverlening ambtshalve voorschotten verlenen, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 8
 
-De minister kan verlangen dat de subsidieontvanger periodiek verslag doet van de voortgang van haar continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2025-01-01&g=2025-01-01), in het bijzonder de aspecten genoemd onder d, e, f, en g. Het besluit tot subsidieverlening vermeldt op welke tijdstippen verslag wordt gedaan en waaruit het verslag bestaat.
+De minister kan verlangen dat de subsidieontvanger periodiek verslag doet van de voortgang van haar continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), in het bijzonder de aspecten genoemd onder d, e, f, en g. Het besluit tot subsidieverlening vermeldt op welke tijdstippen verslag wordt gedaan en waaruit het verslag bestaat.
 
 ##### Artikel 9
 
