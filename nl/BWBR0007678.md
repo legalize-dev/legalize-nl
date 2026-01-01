@@ -4,7 +4,7 @@ identifier: "BWBR0007678"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-03-25"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007678"
 soort: "wet"
@@ -56,7 +56,7 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ##### Artikel 2
 
-Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
+Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
@@ -110,7 +110,7 @@ Als houder wordt aangemerkt:
 
 ##### Artikel 7
 
-1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2025-03-25&g=2025-03-25), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
+1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
 
 - a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;
 
@@ -149,7 +149,7 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 | **CO2-emissieklasse 2** |   | € 688 | € 1.146 |
 | **CO2-emissieklasse 3** |   | € 592 | € 987 |
 | **CO2-emissieklasse 4** |   | € 459 | € 764 |
-| **CO2-emissieklasse 5** |   | € 191 | € 318. |
+| **CO2-emissieklasse 5** |   | € 191 | € 319. |
 
 2. Het tarief voor een tijdvak van één maand is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
@@ -162,7 +162,7 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 | **CO2-emissieklasse 1** | **EURO III** | € 94 | € 157 |
 | **CO2-emissieklasse 1** | **EURO IV** | € 85 | € 143 |
 | **CO2-emissieklasse 1** | **EURO V** | € 81 | € 135 |
-| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 76 | € 127 |
+| **CO2-emissieklasse 1** | **EURO VI of schoner** | € 76 | € 124 |
 | **CO2-emissieklasse 2** |   | € 68 | € 114 |
 | **CO2-emissieklasse 3** |   | € 59 | € 98 |
 | **CO2-emissieklasse 4** |   | € 45 | € 76 |
@@ -183,7 +183,7 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 | **CO2-emissieklasse 2** |   | € 24 | € 40 |
 | **CO2-emissieklasse 3** |   | € 21 | € 35 |
 | **CO2-emissieklasse 4** |   | € 16 | € 27 |
-| **CO2-emissieklasse 5** |   | € 7 | € 11. |
+| **CO2-emissieklasse 5** |   | € 7 | € 12. |
 
 4. Het tarief voor een tijdvak van één dag is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
@@ -197,10 +197,10 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 | **CO2-emissieklasse 1** | **EURO IV** | € 9 | € 14 |
 | **CO2-emissieklasse 1** | **EURO V** | € 8 | € 14 |
 | **CO2-emissieklasse 1** | **EURO VI of schoner** | € 8 | € 13 |
-| **CO2-emissieklasse 2** |   | € 7 | € 11 |
+| **CO2-emissieklasse 2** |   | € 7 | € 12 |
 | **CO2-emissieklasse 3** |   | € 6 | € 10 |
 | **CO2-emissieklasse 4** |   | € 5 | € 8 |
-| **CO2-emissieklasse 5** |   | € 2 | € 3. |
+| **CO2-emissieklasse 5** |   | € 2 | € 4. |
 
 5. Onder het aantal assen van een motorrijtuig wordt verstaan het aantal assen van het motorrijtuig tezamen met het aantal assen van een met dat motorrijtuig verbonden voertuig, niet zijnde een motorrijtuig.
 
@@ -260,7 +260,7 @@ Vervallen
 
 1. Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.
 
-2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet ingetreden aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-03-25&g=2025-03-25), is van overeenkomstige toepassing.
+2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet ingetreden aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 3. Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
@@ -320,7 +320,7 @@ Vervallen
 
 ##### Artikel 16
 
-Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-03-25&g=2025-03-25).
+Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 17
 
@@ -334,13 +334,13 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2025-03-25&g=2025-03-25) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2026-01-01&g=2026-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ##### Artikel 20
 
-1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
+1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
-2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2025-03-25&g=2025-03-25) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2025-03-25&g=2025-03-25) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
+2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
 ##### Artikel 21
 
@@ -370,7 +370,7 @@ Bevat wijzigingen in deze regelgeving.
 
 ##### Artikel 26
 
-1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2025-03-25&g=2025-03-25), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
