@@ -4,7 +4,7 @@ identifier: "BWBR0024941"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2025-02-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024941"
 soort: "AMvB"
@@ -136,7 +136,7 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete 
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2025-02-01&g=2025-02-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2026-01-01&g=2026-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
 
 | **A. Voorschrift uit de plaatselijke verordening** | **Boete in euro’s** |
 | --- | --- |
@@ -306,7 +306,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Zonder vergunning/ontheffing van het college of de burgemeester op of aan de weg of openbaar water dan wel op een andere voor het publiek toegankelijke en in de open lucht gelegen plaats een standplaats innemen of hebben teneinde in de uitoefening van de handel goederen te koop aan te bieden, te verkopen of af te leveren, dan wel diensten aan te bieden | 170 |
 |   |   |
 | A.46 |   |
-| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 460 |
+| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 470 |
 
 | **B. Voorschrift uit de plaatselijke verordening (milieu)** | **Boete in euro’s** |
 | --- | --- |
@@ -333,7 +333,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het ter inzameling aanbieden van bedrijfsafvalstoffen | 110 |
 |   |   |
 | C.4 |   |
-| Buiten een daarvoor door het college bestemde plaats en buiten een locatie waarop een milieubelastende activiteit die is aangewezen in[hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 460 |
+| Buiten een daarvoor door het college bestemde plaats en buiten een locatie waarop een milieubelastende activiteit die is aangewezen in[hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 470 |
 |   |   |
 | C.5 |   |
 | Het achterlaten van straatafval in de openbare ruimte | 170 |
