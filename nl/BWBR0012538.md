@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-03-21"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2025-03-21&g=2025-03-21) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2026-01-01&g=2026-01-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -284,7 +284,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2025-03-21&g=2025-03-21), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2026-01-01&g=2026-01-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -340,13 +340,13 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2025-03-21&g=2025-03-21) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2026-01-01&g=2026-01-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
 #### Strafbepaling
 
-#### Slotartikelen
+#### Strafbepaling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -361,6 +361,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 #### Gebruik hoogtemeter
 
 #### Strafbepaling
+
+#### Slotartikelen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=10&z=2026-01-01&g=2026-01-01), is een ADS-B-Out-systeem aanwezig en in werking gesteld tijdens de uitvoering van een vlucht in de NSA Amsterdam.
+
+2. Het eerste lid is niet van toepassing in het luchtruim onder de Schiphol TMA 1, voor zover dit gebied zich bevindt in de strook met een breedte van 1,5 nautische mijlen gemeten vanaf 1 nautische mijl vanaf de kustlijn westwaarts.
+
+#### Gebruik hoogtemeter
 
 #### Slotartikelen
 
