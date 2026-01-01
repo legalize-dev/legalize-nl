@@ -4,7 +4,7 @@ identifier: "BWBR0024285"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024285"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Een radiozendamateur voldoet aan de in [artikel 4, tweede lid, van de Regeling g
 
 ##### Artikel 9
 
-1. De examens in de categorie N, genoemd in [artikel 7, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01) en de examens in de categorie F, genoemd in [artikel 7, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), voldoen aan respectievelijk de eisen, bedoeld in ERC Report 32 en CEPT Recommendation T/R 61-02.
+1. De examens in de categorie N, genoemd in [artikel 7, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en de examens in de categorie F, genoemd in [artikel 7, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), voldoen aan respectievelijk de eisen, bedoeld in ERC Report 32 en CEPT Recommendation T/R 61-02.
 
 2. De examens in de categorie N, bedoeld in het eerste lid, omvatten de volgende onderdelen:
 
@@ -206,7 +206,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - c. hij beschikt over het algemeen certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in [bijlage 2, punt 5, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](onbekend) de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM A’, of
 
-- d. hij beschikt over een erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=18&z=2025-01-01&g=2025-01-01), voor het betreffende frequentiegebruik.
+- d. hij beschikt over een erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), voor het betreffende frequentiegebruik.
 
 ##### Artikel 13
 
@@ -220,9 +220,9 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 ##### Artikel 14
 
-1. De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), voldoen aan respectievelijk de eisen gesteld in het Regionaal akkoord ERC/DEC/(99)/01 Annex 1 en ERC/DEC/(99)/01 Annex 2.
+1. De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), voldoen aan respectievelijk de eisen gesteld in het Regionaal akkoord ERC/DEC/(99)/01 Annex 1 en ERC/DEC/(99)/01 Annex 2.
 
-2. Het theorie-examen basiscertificaat marifonie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), omvat de volgende onderdelen:
+2. Het theorie-examen basiscertificaat marifonie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), omvat de volgende onderdelen:
 
 - a. de algemene principes en basiskenmerken van de Maritime Mobile Service;
 
@@ -232,7 +232,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - d. overige kennis en operationele procedures voor algemene communicatie.
 
-3. Het theorie-examen basiscertificaat marifonie en de module GMDSS-B, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), omvatten de volgende onderdelen:
+3. Het theorie-examen basiscertificaat marifonie en de module GMDSS-B, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), omvatten de volgende onderdelen:
 
 - a. kennis van de basiskenmerken van de Maritime Mobile Service en de Maritime Mobile-satellite service;
 
@@ -244,7 +244,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - e. internationale en nationale regelgeving met betrekking tot de radiodienst.
 
-4. Het theorie-examen algemene certificaat maritieme radiocommunicatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01), omvat de volgende onderdelen:
+4. Het theorie-examen algemene certificaat maritieme radiocommunicatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), omvat de volgende onderdelen:
 
 - a. kennis van de basiskenmerken van de Maritime Mobile Service en de Maritime Mobile-satellite service;
 
@@ -264,7 +264,7 @@ Bij een praktijkexamen heeft een kandidaat het examen met goed gevolg afgelegd i
 
 ##### Artikel 17
 
-Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01) moet de kandidaat de leeftijd van elf jaar hebben bereikt.
+Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) moet de kandidaat de leeftijd van elf jaar hebben bereikt.
 
 ##### Artikel 18
 
@@ -290,7 +290,7 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 1. De aanvraag heeft betrekking op één of meer praktijkexamensoorten.
 
-2. De Minister toetst de aanvraag aan de eisen, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01).
+2. De Minister toetst de aanvraag aan de eisen, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 21
 
@@ -298,7 +298,7 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 2. De aanvrager:
 
-- a. beschikt over voldoende mogelijkheden om te voldoen aan de eisen, genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2025-01-01&g=2025-01-01);
+- a. beschikt over voldoende mogelijkheden om te voldoen aan de eisen, genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01);
 
 - b. beschikt over een geschikte locatie binnen Nederland voor het afnemen van de praktijkexamens;
 
@@ -310,7 +310,7 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 ##### Artikel 22
 
-Indien de erkende instelling niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01), bericht hij dit onverwijld aan de minister.
+Indien de erkende instelling niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01), bericht hij dit onverwijld aan de minister.
 
 ##### Artikel 23
 
@@ -324,7 +324,7 @@ Indien de erkende instelling niet meer voldoet aan het bepaalde in [artikel 21, 
 
 - d. de instelling voert een voldoende en juiste administratie vooraf, tijdens en na de praktijkexamens;
 
-- e. de examens worden afgenomen in een locatie als bedoeld in [artikel 21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01).
+- e. de examens worden afgenomen in een locatie als bedoeld in [artikel 21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01).
 
 - f. de gebruikte apparatuur is technisch toereikend voor het doel van het praktijkexamen;
 
@@ -346,17 +346,17 @@ Vervallen
 
 De minister kan de erkenning opschorten indien:
 
-- a. de erkende instelling naar het oordeel van de minister niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01); of
+- a. de erkende instelling naar het oordeel van de minister niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01); of
 
-- b. de erkende instelling tekort is geschoten bij de uitvoering van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2025-01-01&g=2025-01-01).
+- b. de erkende instelling tekort is geschoten bij de uitvoering van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 26
 
 De minister kan de erkenning geheel of gedeeltelijk intrekken indien:
 
-- a. de erkende instelling naar het oordeel van de minister niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2025-01-01&g=2025-01-01);
+- a. de erkende instelling naar het oordeel van de minister niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01);
 
-- b. de erkende instelling tekort is geschoten bij de uitvoering van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2025-01-01&g=2025-01-01); of
+- b. de erkende instelling tekort is geschoten bij de uitvoering van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01); of
 
 - c. de erkende instelling daarom verzoekt.
 
@@ -368,11 +368,11 @@ In gevallen waarin deze regeling niet voorziet beslist de Minister.
 
 ##### Artikel 28
 
-Bij de vaststelling of examens met goed gevolg zijn afgelegd als bedoeld in de [artikelen 7, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=16&z=2025-01-01&g=2025-01-01), betrekt de minister tevens examens die vóór 1 juli 2023 zijn afgelegd bij een instelling die op het moment van afname van het examen was aangewezen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2025-01-01&g=2025-01-01) zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de Regeling van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van de Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764).
+Bij de vaststelling of examens met goed gevolg zijn afgelegd als bedoeld in de [artikelen 7, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01), betrekt de minister tevens examens die vóór 1 juli 2023 zijn afgelegd bij een instelling die op het moment van afname van het examen was aangewezen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01) zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de Regeling van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van de Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764).
 
 ##### Artikel 29
 
-Examinerende instellingen die vóór het tijdstip van inwerkingtreding van de Regeling van de Minister van Economische Zaken en Klimaat van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van De Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764) beschikten over een aanwijzing op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2025-01-01&g=2025-01-01), zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de hiervoor genoemde regeling, worden geacht te beschikken over een erkenning op grond van artikel 19, indien en voor zover deze aanwijzing voortduurt na dit tijdstip van inwerkingtreding.
+Examinerende instellingen die vóór het tijdstip van inwerkingtreding van de Regeling van de Minister van Economische Zaken en Klimaat van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van De Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764) beschikten over een aanwijzing op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de hiervoor genoemde regeling, worden geacht te beschikken over een erkenning op grond van artikel 19, indien en voor zover deze aanwijzing voortduurt na dit tijdstip van inwerkingtreding.
 
 ##### Artikel 30
 
@@ -723,60 +723,55 @@ Voor de in onderstaande tabel opgenomen werkzaamheden en diensten zijn de daarbi
 |   | (Sub)Categorieën | I. Vergoeding eenmalige uitvoeringskosten | II. Vergoeding kosten anders dan onder kolom I. |
 | --- | --- | --- | --- |
 | **A.** | **Examens maritieme radiocommunicatie** | **Examens maritieme radiocommunicatie** | **Examens maritieme radiocommunicatie** |
-| 1. | Theorie-examen marifonie basis | € 83,65 |   |
-| 2. | Theorie-examen Marcom-B module GMDSS | € 31,50 |   |
-| 3. | Theorie-examen Marcom-A VPT | € 83,65 |   |
-| 4. | Theorie-examen Marcom-A Engels | € 31,50 |   |
-| 5. | Toeslag examen extra tijd | € 13,00 |   |
-| 6. | Toeslag individueel examen kort (examenduur t/m 60 minuten) | € 40,15 |   |
-| 7. | Toeslag individueel examen lang (examenduur meer dan 60 minuten) | € 65,25 |   |
-| 8. | Registratie kandidaat praktijkexamen Marcom-B en Marcom-A | € 21,75 |   |
-| 9. | Administratiekosten, bijv. naregistratie praktijkexamenresultaat | € 26,70 |   |
+| 1. | Theorie-examen marifonie basis | € 86,65 |   |
+| 2. | Theorie-examen Marcom-B module GMDSS | € 32,65 |   |
+| 3. | Theorie-examen Marcom-A VPT | € 86,65 |   |
+| 4. | Theorie-examen Marcom-A Engels | € 32,65 |   |
+| 5. | Toeslag examen extra tijd | € 13,50 |   |
+| 6. | Toeslag individueel examen kort (examenduur t/m 60 minuten) | € 41,60 |   |
+| 7. | Toeslag individueel examen lang (examenduur meer dan 60 minuten) | € 68,00 |   |
+| 8. | Registratie kandidaat praktijkexamen Marcom-B en Marcom-A | € 22,55 |   |
+| 9. | Administratiekosten, bijv. naregistratie praktijkexamenresultaat | € 27,65 |   |
 |   |   |   |   |
 | **B.** | **Onbenutte capaciteit opleiders Examens maritieme radiocommunicatie** | **Onbenutte capaciteit opleiders Examens maritieme radiocommunicatie** | **Onbenutte capaciteit opleiders Examens maritieme radiocommunicatie** |
-| 1. | Theorie-examen marifonie basis | € 39,60 |   |
-| 2. | Theorie-examen marifonie basis (Extra tijd) | € 52,80 |   |
-| 3. | Theorie-examen marifonie basis (Individueel begeleid) | € 123,80 |   |
-| 4. | Theorie-examen Marcom-B module GMDSS | € 26,40 |   |
-| 5. | Theorie-examen Marcom-B module GMDSS (Extra tijd) | € 39,60 |   |
-| 6. | Theorie-examen Marcom-B module GMDSS (Individueel begeleid) | € 71,65 |   |
-| 7. | Theorie-examen Marcom-A VPT | € 52,80 |   |
-| 8. | Theorie-examen Marcom-A VPT (Extra tijd) | € 66,00 |   |
-| 9. | Theorie-examen Marcom-A VPT (Individueel begeleid) | € 148,90 |   |
-| 10. | Theorie-examen Marcom-A Engels | € 13,20 |   |
-| 11. | Theorie-examen Marcom-A Engels (Extra tijd) | € 26,40 |   |
-| 12. | Theorie-examen Marcom-A Engels (Individueel begeleid) | € 71,65 |   |
+| 1. | Theorie-examen marifonie basis | € 41,10 |   |
+| 2. | Theorie-examen marifonie basis (Extra tijd) | € 54,80 |   |
+| 3. | Theorie-examen Marcom-B module GMDSS | € 27,40 |   |
+| 4. | Theorie-examen Marcom-B module GMDSS (Extra tijd) | € 41,10 |   |
+| 5. | Theorie-examen Marcom-A VPT | € 54,80 |   |
+| 6. | Theorie-examen Marcom-A VPT (Extra tijd) | € 68,50 |   |
+| 7. | Theorie-examen Marcom-A Engels | € 13,70 |   |
+| 8. | Theorie-examen Marcom-A Engels (Extra tijd) | € 27,40 |   |
 |   |   |   |   |
 | **C.** | **Examens radiozendamateurs** | **Examens radiozendamateurs** | **Examens radiozendamateurs** |
-| 1. | Theorie-examen Radiozendamateur Novice | € 83,65 |   |
-| 2. | Theorie-examen Radiozendamateur Full | € 83,65 |   |
-| 3. | Toeslag examen extra tijd | € 13,00 |   |
-| 4. | Toeslag individueel examen lang (examenduur meer dan 60 minuten) | € 65,25 |   |
+| 1. | Theorie-examen Radiozendamateur Novice | € 86,65 |   |
+| 2. | Theorie-examen Radiozendamateur Full | € 86,65 |   |
+| 3. | Toeslag examen extra tijd | € 13,50 |   |
+| 4. | Toeslag individueel examen lang (examenduur meer dan 60 minuten) | € 68,00 |   |
 |   |   |   |   |
 | **D.** | **Onbenutte capaciteit opleiders Examens radiozendamateurs** | **Onbenutte capaciteit opleiders Examens radiozendamateurs** | **Onbenutte capaciteit opleiders Examens radiozendamateurs** |
-| 1. | Theorie-examen Radiozendamateur Novice | € 52,80 |   |
-| 2. | Theorie-examen Radiozendamateur Novice (Extra tijd) | € 66,00 |   |
-| 3. | Theorie-examen Radiozendamateur Novice (Individueel begeleid) | € 148,90 |   |
-| 4. | Theorie-examen Radiozendamateur Full | € 66,00 |   |
-| 5. | Theorie-examen Radiozendamateur Full (Extra tijd) | € 79,20 |   |
-| 6. | Theorie-examen Radiozendamateur Full (Individueel begeleid) | € 148,90 |   |
+| 1. | Theorie-examen Radiozendamateur Novice | € 54,80 |   |
+| 2. | Theorie-examen Radiozendamateur Novice (Extra tijd) | € 68,50 |   |
+| 3. | Theorie-examen Radiozendamateur Full | € 68,50 |   |
+| 4. | Theorie-examen Radiozendamateur Full (Extra tijd) | € 82,20 |   |
 |   |   |   |   |
 | **E.** | **Erkenning instellingen praktijkexamens** | **Erkenning instellingen praktijkexamens** | **Erkenning instellingen praktijkexamens** |
-| 1. | Certificering afname praktijkexamen (per product) | € 361,45 |   |
-| 2. | Schouwen praktijkexamenlocatie | € 145,45 |   |
-| 3. | Toevoegen praktijkexamenlocatie | € 28,60 |   |
+| 1. | Certificering afname praktijkexamen (per product) | € 374,45 |   |
+| 2. | Schouwen praktijkexamenlocatie | € 150,70 |   |
+| 3. | Toevoegen praktijkexamenlocatie | € 29,65 |   |
+| 4. | Sanctiekosten, niet kunnen uitvoeren steekproef – verscherpt toezicht | € 196,15 |   |
 |   |   |   |   |
 | **F.** | **Opleiders** | **Opleiders** | **Opleiders** |
-| 1. | Jaarlijkse bijdrage opleiders |   | € 41,40 |
+| 1. | Jaarlijkse bijdrage opleiders |   | € 42,90 |
 |   |   |   |   |
 | **G.** | **Afgifte certificaten** | **Afgifte certificaten** | **Afgifte certificaten** |
 | 1. | Afgifte van een certificaat van bediening voor radioapparaten ten behoeve van de scheepvaart (per certificaat) | € 91,35 |   |
 
 ##### Artikel 26b
 
-1. De vergoedingen, bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4a&artikel=26a&z=2025-01-01&g=2025-01-01) worden, voorafgaand aan het in behandeling nemen van de aanvraag, voldaan aan de minister.
+1. De vergoedingen, bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4a&artikel=26a&z=2026-01-01&g=2026-01-01) worden, voorafgaand aan het in behandeling nemen van de aanvraag, voldaan aan de minister.
 
-2. Indien een praktijkexamen wordt afgelegd bij een erkende instelling, worden de vergoedingen voor de praktijkexamens, bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4a&artikel=26a&z=2025-01-01&g=2025-01-01), in afwijking van het bepaalde in het eerste lid, voorafgaand aan het examen voldaan door de betreffende erkende instelling.
+2. Indien een praktijkexamen wordt afgelegd bij een erkende instelling, worden de vergoedingen voor de praktijkexamens, bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4a&artikel=26a&z=2026-01-01&g=2026-01-01), in afwijking van het bepaalde in het eerste lid, voorafgaand aan het examen voldaan door de betreffende erkende instelling.
 
 #### Paragraaf 5. Slotbepalingen en wijziging van de [Regeling vergoedingen Agentschap Telecom 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023043)
 
