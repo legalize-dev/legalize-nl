@@ -4,7 +4,7 @@ identifier: "BWBR0051925"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2025-12-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051925"
 soort: "zbo"
@@ -290,9 +290,9 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 ##### Artikel 15. Bezwaar en bezwaaradviescommissie
 
-1. Aan de teammanager van het team Bezwaar, behorende tot de afdeling Schadevergoeding, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=7&z=2026-01-01&g=2025-12-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=8&z=2026-01-01&g=2025-12-01), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=11&z=2026-01-01&g=2025-12-01), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=13&z=2026-01-01&g=2025-12-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=17&z=2026-01-01&g=2025-12-01) bedoelde primaire besluiten.
+1. Aan de teammanager van het team Bezwaar, behorende tot de afdeling Schadevergoeding, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=8&z=2026-01-01&g=2026-01-01), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=13&z=2026-01-01&g=2026-01-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=17&z=2026-01-01&g=2026-01-01) bedoelde primaire besluiten.
 
-2. Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=9&z=2026-01-01&g=2025-12-01) bedoelde primaire besluiten.
+2. Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01) bedoelde primaire besluiten.
 
 3. Aan de teammanagers van de afdeling Schadevergoeding, de juristen van die afdeling en aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers wordt machtiging verleend om het Instituut te vertegenwoordigen bij zittingen van de bezwaaradviescommissie. Tevens zijn zij bevoegd één of meer personen als medegemachtigde te introduceren.
 
@@ -310,7 +310,7 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 - e. het introduceren van één of meer personen als medegemachtigde.
 
-2. Aan de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het wijzigingen van een beslissing op bezwaar, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2025-12-01), waartegen rechtsmiddelen bij de bestuursrechter zijn ingesteld en het verrichten van overige, daarmee samenhangende handelingen.
+2. Aan de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het wijzigingen van een beslissing op bezwaar, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), waartegen rechtsmiddelen bij de bestuursrechter zijn ingesteld en het verrichten van overige, daarmee samenhangende handelingen.
 
 ##### Artikel 17. Ingebrekestellingen, terugvorderingen en herziening van besluiten
 
@@ -410,7 +410,7 @@ gevolgd door naam en functie van de (onder)gemandateerde functionaris.
 
 ##### Artikel 25. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2025-12-01), terug tot en met 1 december 2025.
+Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), terug tot en met 1 december 2025.
 
 ##### Artikel 26. Citeertitel
 
