@@ -4,7 +4,7 @@ identifier: "BWBR0008895"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-10-06"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008895"
 soort: "AMvB"
@@ -62,43 +62,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) van de wet ingestelde register van apothekers te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot apotheker die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06) van dit besluit.
+Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van de wet ingestelde register van apothekers te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot apotheker die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 #### § 2. Opleidingseisen
 
 ##### Artikel 3
 
-1. De opleiding tot apotheker omvat theoretisch en praktisch onderwijs alsmede een stage van ten minste 6 maanden in een openbare apotheek of een ziekenhuisapotheek.
+1. De opleiding tot apotheker duurt ten minste vijf jaar, waarvan vier jaar voltijds onderwijs, en omvat theoretisch en praktisch onderwijs alsmede een stage van ten minste 6 maanden in een openbare apotheek of een ziekenhuisapotheek.
 
-2. Het theoretische en praktische onderwijs omvat ten minste de volgende vakken:
+2. Het theoretische en praktische onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.6.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
-- a. biologie;
-
-- b. natuurkunde;
-
-- c. algemene, anorganische, organische en analytische scheikunde, daaronder begrepen de analyse van biologisch materiaal;
-
-- d. farmaceutische scheikunde, daaronder begrepen de geneesmiddelenanalyse;
-
-- e. biochemie, medische biochemie daaronder begrepen;
-
-- f. anatomie, fysiologie, pathologie en klinische chemie;
-
-- g. medische terminologie;
-
-- h. microbiologie;
-
-- i. farmacologie, met inbegrip van farmacokinetiek, farmacotherapie, en klinische farmacie;
-
-- j. farmaceutische technologie en biofarmacie;
-
-- k. toxicologie;
-
-- l. farmacognosie;
-
-- m. beroepsethiek;
-
-- n. informatisering.
+3. Een wijziging van punt 5.6.1 van Bijlage V, bedoeld in het tweede lid, gaat voor de toepassing van het tweede lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 4
 
@@ -122,7 +96,13 @@ De opleiding tot apotheker is zodanig ingericht dat de betrokkene:
 
 - 8°. van het opslaan, bewaren en distribueren van geneesmiddelen;
 
-- 9°. van informatie- en registatiesystemen;
+- 9°. van informatie- en registratiesystemen, informatietechnologie en digitale technologie en bekwaamheden voor de praktische toepassing ervan;
+
+- 10°. van klinische farmacie en farmaceutische zorg, alsmede de bekwaamheden voor de praktische toepassing ervan;
+
+- 11°. op het gebied van de volksgezondheid en de gevolgen daarvan voor gezondheidsbevordering en ziektebeheer;
+
+- 12°. op het gebied van inter- en multidisciplinaire samenwerking, interprofessionele praktijken en communicatie;
 
 - b. voldoende vaardigheid verwerft in:
 
