@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -150,7 +150,7 @@ Van de bij of krachtens de wet gestelde regels zijn vrijgesteld instellingen als
 
 - f. het Bureau Financieel Toezicht;
 
-- g. de Belastingdienst/Grote ondernemingen;
+- g. de Dienst Financieel-Economische Integriteit;
 
 - h. de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische Controledienst;
 
