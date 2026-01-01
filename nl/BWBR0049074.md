@@ -4,7 +4,7 @@ identifier: "BWBR0049074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049074"
 soort: "ministeriele-regeling"
@@ -48,8 +48,6 @@ In deze regeling wordt verstaan onder:
 
 - **BRP:** basisregistratie personen als bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
 
-- **Geschillencommissie:** Geschillencommissie Sociaal Domein: Woonplaatsbeginsel en toegang, ingesteld door de Stichting voor Beroep en Bedrijf;
-
 - **instelling:** een accommodatie van een jeugdhulpaanbieder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een instelling voor opvang of beschermd wonen als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) of een instelling voor verblijf als bedoeld in [artikel 3.1.1, eerste lid, onder a, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
 - **jeugdhulp:** jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
@@ -82,9 +80,9 @@ Op verstrekte uitkeringen op grond van deze regeling zijn de [artikelen 4:25](ht
 
 - d. vanuit het buitenland geplaatst is bij een bij de minister en gemeente bekende organisatie voor een observatieperiode en daarna in een in de aanvragende gemeente gevestigde instelling is geplaatst, waar diens moeder voor die plaatsing was ingeschreven in de BRP.
 
-2. De minister kan afwijken van de situaties, bedoeld in het eerste lid, indien:
+2. De minister kan voor de gemeenten Barneveld, Raalte en Westerkwartier afwijken van de situaties, bedoeld in het eerste lid, voor aanvragen betreffende een jeugdige ten aanzien waarvan:
 
-- a. naar het oordeel van de minister blijkt dat door de aanvragende gemeente redelijkerwijs wordt aangetoond dat sprake is van niet beoogde bekostiging van aaneengesloten jeugdhulp met verblijf en de daarmee samenhangende kosten voor een jeugdige, na inwerkingtreding van de [Wet wijziging woonplaatsbeginsel](https://wetten.overheid.nl/jci1.3:c:BWBR0043235), die voortvloeit uit het feit dat in die gemeente een instelling of opvangcentrum is gevestigd; en
+- a. naar het oordeel van de minister door de betreffende gemeente redelijkerwijs is aangetoond dat sprake is van niet beoogde bekostiging van aaneengesloten jeugdhulp met verblijf en de daarmee samenhangende kosten voor de jeugdige, na inwerkingtreding van de [Wet wijziging woonplaatsbeginsel](https://wetten.overheid.nl/jci1.3:c:BWBR0043235), die voortvloeit uit het feit dat in die gemeente een instelling of opvangcentrum is gevestigd; en
 
 - b. de aanvragende gemeente zich heeft ingespannen te onderzoeken en bewerkstelligen dat de juiste gemeente de aaneengesloten jeugdhulp met verblijf aan de jeugdige en de daarmee samenhangende kosten financiert.
 
@@ -96,37 +94,35 @@ Op verstrekte uitkeringen op grond van deze regeling zijn de [artikelen 4:25](ht
 
 3. Kosten die gefinancierd worden op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) komen niet in aanmerking voor een uitkering.
 
-4. Alleen kosten die in het kalenderjaar 2022 en 2023 gemaakt zijn komen voor een uitkering in aanmerking.
+4. Alleen kosten die in het kalenderjaar 2024 en 2025 gemaakt zijn komen voor een uitkering in aanmerking.
 
 ##### Artikel 5. Uitkeringsplafond
 
-1. Het uitkeringsplafond voor aanvragen die zien op de jaren 2022 en 2023 is € 60.000.000.
+1. Het uitkeringsplafond voor aanvragen die zien op de jaren 2024 en 2025 is € 60.000.000.
 
 2. Het uit hoofde van het uitkeringsplafond beschikbare bedrag wordt evenredig over de ingediende aanvragen verdeeld als het totaal aangevraagde bedrag het uitkeringsplafond overschrijdt.
 
 ##### Artikel 6. Aanvraag
 
-1. Een gemeente dient een aanvraag tot verlening van de uitkering in, die kan zien op het jaar 2022, het jaar 2023 of beiden en op alle jeugdigen tezamen waarop een situatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=3&z=2024-01-01&g=2024-01-01) op van toepassing is.
+1. Een gemeente dient een aanvraag tot verlening van de uitkering in, die kan zien op het jaar 2024, het jaar 2025 of beiden en op alle jeugdigen tezamen waarop een situatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=3&z=2026-01-01&g=2026-01-01) op van toepassing is.
 
-2. De aanvraag wordt ingediend in de periode van 1 mei 2024 om 9.00 uur tot en met 31 juli 2024 om 12.00 uur.
+2. De aanvraag wordt ingediend in de periode van 1 mei 2026 om 9.00 uur tot en met 1 juli 2026 om 13.00 uur.
 
 3. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
-##### Artikel 7. Voorwaarden
+##### Artikel 7. Voorwaarde
 
-Een uitkering wordt slechts verstrekt als:
+1. Een uitkering wordt slechts verstrekt als de in aanmerking komende kosten in totaal minimaal € 250.000 bedragen.
 
-- a. de in aanmerking komende kosten in totaal minimaal € 250.000 bedragen;
-
-- b. de gemeente op het moment van het indienen van de aanvraag geen procedure heeft lopen bij een rechtbank, gerechtshof, Hoge Raad of Geschillencommissie, die betrekking heeft op een situatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=3&z=2024-01-01&g=2024-01-01), waarvoor de uitkering wordt aangevraagd.
+2. Het eerste lid is niet van toepassing op kosten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=3&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 8. Verlening en bevoorschotting
 
-1. De minister neemt binnen 13 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=6&z=2024-01-01&g=2024-01-01), een besluit omtrent de verstrekking van de uitkering.
+1. De minister neemt binnen 13 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049074&artikel=6&z=2026-01-01&g=2026-01-01), een besluit omtrent de verstrekking van de uitkering.
 
 2. Het besluit vermeldt in ieder geval voor welke activiteiten de uitkering wordt verstrekt, het bedrag van de uitkering en de wijze van verantwoording.
 
-3. De minister verstrekt bij het besluit een voorschot ter hoogte van 100%, dat in één keer wordt uitbetaald in het jaar 2024.
+3. De minister verstrekt bij het besluit een voorschot ter hoogte van 100%, dat in één keer wordt uitbetaald in het jaar 2026.
 
 ##### Artikel 9. Verantwoording en terugvordering
 
@@ -140,7 +136,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2024 en vervalt met ingang van 1 oktober 2026 met dien verstande dat deze van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd.
+Deze regeling treedt in werking met ingang van 1 januari 2024 en vervalt met ingang van 1 oktober 2028 met dien verstande dat deze van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd.
 
 ##### Artikel 12. Citeertitel
 
