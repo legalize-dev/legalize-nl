@@ -4,7 +4,7 @@ identifier: "BWBR0047640"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047640"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De wettelijke rente als bedoeld in [artikel 119 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), wordt vastgesteld op zes procent per jaar.
+De wettelijke rente als bedoeld in [artikel 119 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), wordt vastgesteld op vier procent per jaar.
 
 ##### Artikel 2
 
