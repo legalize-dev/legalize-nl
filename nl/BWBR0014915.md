@@ -4,7 +4,7 @@ identifier: "BWBR0014915"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2025-06-28"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014915"
 soort: "wet"
@@ -85,7 +85,7 @@ Onderscheid is verboden bij:
 
 - b. het aangaan en het beëindigen van een arbeidsverhouding;
 
-- c. het aanstellen of ontslaan van personen, op wie [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) van toepassing is;
+- c. het aanstellen of ontslaan van personen, op wie [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) van toepassing is en het aanstellen of ontslaan van ambtenaren als bedoeld in de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
 
 - d. de arbeidsbemiddeling;
 
@@ -113,15 +113,15 @@ Vervallen
 
 ##### Artikel 9
 
-In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2025-06-28&g=2025-06-28), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 4 of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 4 of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of [artikel 1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
 
 ##### Artikel 10
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 
-2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2025-06-28&g=2025-06-28) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
+2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) of [artikel 305a van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) of [artikel 7, eerste lid, derde zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7).
 
 ##### Artikel 11
 
@@ -129,7 +129,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 12
 
-Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2025-06-28&g=2025-06-28) van deze wet. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
+De [artikelen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 13
 
@@ -153,7 +153,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat verband houdt met handicap of chronische ziekte en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2025-06-28&g=2025-06-28) niet van toepassing.
+3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
 #### § 2. Arbeid
 
@@ -165,7 +165,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 ##### Artikel 7
 
-In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=4&artikel=8&z=2025-06-28&g=2025-06-28) en de daarop berustende bepalingen wordt verstaan onder:
+In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=4&artikel=8&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;
 
@@ -185,7 +185,7 @@ Vervallen
 
 - c. het sluiten, uitvoeren of beëindigen van overeenkomsten met betrekking tot openbaar vervoer.
 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ingevolge het eerste lid, in samenhang met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2025-06-28&g=2025-06-28), te verrichten aanpassingen als bedoeld in dat artikel.
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ingevolge het eerste lid, in samenhang met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), te verrichten aanpassingen als bedoeld in dat artikel.
 
 #### § 5. Rechtsbescherming
 
@@ -195,7 +195,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a
 
-Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2025-06-28&g=2025-06-28) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
+Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
 
 #### § 6. Slotbepalingen
 
@@ -231,7 +231,7 @@ Onderscheid is verboden bij:
 
 ##### Artikel 6c
 
-[Artikel 2, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2025-06-28&g=2025-06-28) is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
+[Artikel 2, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
 
 #### § 4. Openbaar vervoer
 
@@ -251,7 +251,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. door natuurlijke personen die niet handelen in de uitoefening van een beroep of bedrijf, voor zover het aanbod in het openbaar geschiedt.
 
-2. Het eerste lid is niet van toepassing op terreinen bestreken door de [paragrafen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=3a&z=2025-06-28&g=2025-06-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=4&z=2025-06-28&g=2025-06-28).
+2. Het eerste lid is niet van toepassing op terreinen bestreken door de [paragrafen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=3a&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=4&z=2026-01-01&g=2026-01-01).
 
 #### § 3a. Wonen
 
